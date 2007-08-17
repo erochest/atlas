@@ -1,0 +1,140 @@
+clouding up (cl5#5.asc)
+
+Items
+=====
+          a dark cloud sign of rain    1
+                      blustering up    1
+                            brewing    1
+                 changeable weather    1
+                           changing    7
+                           cloud up    1
+                         clouded up    1
+                           clouding    1
+                        clouding up    4
+               clouding up for rain    1
+                  clouds going over    1
+                             cloudy    5
+                         cloudy day    5
+                  coming up a storm    1
+                         down on me    1
+                         dreary day    1
+                   fixin to get bad    1
+       fixing to be falling weather    1
+fixing to have some falling weather    1
+                          gathering    1
+                   going to get bad    1
+      going to have falling weather    1
+     going to have some bad weather    1
+ going to have some falling weather    1
+         going to have some weather    1
+      going to pour down bull frogs    1
+          have some falling weather    3
+           I see them bullhead bank    1
+                        is changing    2
+                          it cloudy    1
+                      it going rain    1
+                   it going to rain    1
+                     it look cloudy    1
+            it look like going rain    1
+               it look like weather    1
+   it seem as we going to have rain    1
+                 it turning off bad    1
+                  it's a cloudy day    4
+                  it's a unfair day    1
+                  it's cloudy today    1
+                     it's gathering    1
+                         it's heavy    1
+            it's very squally today    1
+                          making up    1
+              making up for a storm    2
+         making up for rain or cold    1
+           massa going talk with we    1
+           not going to be the same    1
+                                 NR   15
+                              order    1
+                          rainy day    1
+                             season    1
+                     stormy looking    1
+                the cloud gathering    1
+             the cloud is gathering    1
+           the weather breaking off    1
+               the weather changing    1
+              the weather gathering    4
+        the weather get thick again    1
+the weather is gathering for a rain    1
+    the weather look very bad today    1
+                the weather make up    1
+              the weather making up    1
+            the weather on a change    1
+          the weather's on a change    1
+                        threatening    6
+                threatening looking    1
+                threatening to rain    1
+                threatening to snow    1
+       to have some falling weather    1
+                    today is cloudy    1
+                           very bad    1
+we going to have some weather today    1
+          we got a cloudy day today    1
+              we may have some rain    1
+                        will change    1
+
+Pronunciations
+==============
+                              s²ó°n    1
+
+
+
+The weather is)  /when rain or snow is expected/
+
+L:  If rain or snow is expected, you'd say the weather is doing what?
+M:  The clouds are getting thicker and thicker and you figure you may be going to have some rain or something, you'd say ____/
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+	
+The map shows the participles and participial phrases recorded in the sentence "The weather (it) is clouding up," referring to a change from clear to cloudy.
+	
+Equivalent expressions recorded in the sentence "We are going to have  (some) falling weather¢ or the like, where the grammatical subject is "we" instead of "it" or "the weather", are represented in full.
+	
+In phrases consisting of participle plus adverb, the main stress is regularly on the latter.  Other phrases normally have the strongest stress on the last word.  
+
+	R. McDavid:
+
+"Cloud" was elicited by McDavid in South Carolina and Georgia and occasionally by other field workers.  The list includes singular and plural forms, as recorded, as well as synonyms or terms for particular kinds of clouds, especially those associated with a gathering storm.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:
+		
+McDavid recorded numerous instances of [tl-] in "cloud(ing)".  Since Lowman consistently recorded present participles, this is a good file for comparing /±n/ with /-±î/.  
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 5#5, "order" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 5 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+5#P		5#5
+5#P
+5#P
+5#P
+5#1		5#1
+		5#2 (no question)
+5#2		5#3
+5#3		5#4
+		5#6 (no question)
+5#4		5#7
+5#5		5#8
+5#6 X		

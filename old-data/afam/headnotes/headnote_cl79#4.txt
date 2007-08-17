@@ -1,0 +1,79 @@
+pretty well (cl79#4.asc)
+
+Items
+=====
+                     about middling    1
+            ain't getting no better    1
+                          all right    2
+                            awfully    1
+                didn't feel so good    1
+                    doing very well    1
+                               fair    1
+                  fair and middling    2
+                             fairly    2
+                               fine    7
+                       fine as silk    1
+                     goes very good    1
+                               good    1
+                  I don't feel good    1
+                        I feel good    1
+                   I feel tolerable    1
+                        I feel well    1
+                       I on my feet    1
+                      I pretty well    1
+                        I tolerable    2
+                   I tolerable well    1
+             I tolerable well today    1
+                        I very well    1
+                     I'm doing fine    1
+                       just sort of    1
+                     just tolerable    2
+                      little better    1
+                           middling    2
+                                 NR    9
+                                 OK    1
+                        pretty fair    4
+                        pretty good   26
+                        pretty well    9
+                         right well    1
+                              sorry    2
+                   sort of middling    1
+                         sort of so    2
+                          tolerable   20
+                     tolerable well    8
+                          very good    1
+                          very well    1
+                               well    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

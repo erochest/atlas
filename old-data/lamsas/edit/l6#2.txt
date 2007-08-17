@@ -1,0 +1,2008 @@
+"thunderstorm","NY1","50","N","N"," "," ","ù¸n{d}°st·m","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"thundershower","NY2B","51.2","N","N"," "," ","ù¸şnd°ó²½¾w°","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"thundershower","NY3A","401","N","N"," "," ","ù¸nd´óáİ¹´","MS",5
+"thundershower","NY3B","403","N","N"," "," ","ù¸¼nd°óa¹°","MS",6
+"thunderstorm","NY3C","402","N","N"," "," ","ù¸nd´st·´m","MS",7
+"thunderstorm","NY3D","404","N","N"," "," ","ù¸¼nd°st·º{°}m","MS",8
+"thundershower","NY4A","405","N","N"," "," ","ù¸¼nd°óáİ¾¹°","MS",9
+"thunderstorm","NY4B","407","N","N"," "," ","ù¸nd°st·:m","MS",10
+"thunderstorm","NY4C","408","N","N"," "," ","ù¸nd°st·:{°}m","MS",11
+"thunderstorm","NY5A","409","N","N"," "," ","ù¸nd°st·«:{°}m","MS",12
+"thunderstorm","NY5B","410","N","N"," "," ","ù¸¼nd°st·º{°}m","MS",13
+"thunderstorm","NY5C","411","N","N"," "," ","ù¸¼nd°st·«º{°}m","MS",14
+"storm","NY5D","412","N","N"," "," ","st·:{°}m","MS",15
+"thundershower","NY5E","413","N","N","short"," ","ù¸¼nd°óa«¹İ°","MS",16
+"thunderstorm","NY5E","413","N","N"," "," ","åù¸¼nd°sõt·:{°}m","MS",16
+"thunderstorm","NY5F","414","N","N"," "," ","ù¸¼nd°st·:{°}m","MS",17
+"thundershower","NY5G","415","N","N"," "," ","ù¸nd°óa¹°","MS",18
+"thunderstorm","NY5H!","416!","N","N"," "," ","ù¸nd°st·ºm","MS",19
+"thunderstorm","NY5I!","417!","N","N"," "," ","åù¸¼nd°õst·:m","MS",20
+"thundershower","NY6A","418","N","N"," "," ","åù¸¼nd°õóa«¹°","MS",21
+"thunderstorm","NY6B","419","N","N"," "," ","õù¸¼nd°åst·º{°}m","MS",22
+"thunderstorm","NY7A","420","N","N"," "," ","åù¸¼nd°õst·:m","MS",23
+"thundershower","NY7B","421","N","N"," "," ","ù¸¼nd°óa¹°","MS",24
+"thunderstorm","NY7C","422","N","N"," "," ","ù¸nd°st·«º°m","MS",25
+"thundershower","NY7D","423","N","N"," "," ","åù¸¼nd°õóa«¹°","MS",26
+"thunderstorm","NY7E","424","N","N"," "," ","åù¸¼nd°õst·:m","MS",27
+"thunderstorm","NY7F","425","N","N"," "," ","åù¸nd°õst·½º{°}m","MS",28
+"thunderstorm","NY7G","426","N","N"," "," ","ù¸¼nd°st·:{°}m","MS",29
+"thunderstorm","NY7H","427","N","N"," "," ","ù¸nd°st·:{°}m","MS",30
+"thunderstorm","NY7I","428","N","N"," "," ","åù¸¼nd°õst·:{°}m","MS",31
+"thunderstorm","NY7J!","429!","N","N"," "," ","åù¸nd°õst·º{°}m","MS",32
+"thunderstorm","NY7K!","430!","N","N"," "," ","åù¸¼nd°õst·:{°}m","MS",33
+"thunderstorm","NY7L!","431!","N","N"," "," ","ù¸¼nd°st·ºm","MS",34
+"thunderstorm","NY7M!","432!","N","N"," "," ","ù¸¼nd°st·:m","MS",35
+"thundershower","NY8","432b","N","N"," "," ","åù¸nd°õóa¹°","MS",36
+"thunderstorm","NY9A","432c","N","N"," "," ","ù¸nd´st·´m","MS",37
+"thunderstorm","NY9B","433","N","N"," "," ","ù¸nd´st·½´m","MS",38
+"thundershower","NY9C","434","N","N"," "," ","ù¸nd´óa¹°","MS",39
+"thundershower","NY10A","435","N","N"," "," ","åù¸nd´õóá½¹´","MS",40
+"thunderstorm","NY10B!","436!","N","N"," "," ","åù¸¼nd´õst·´m","MS",41
+"thunderstorm","NY11","438","N","N"," "," ","ù¸nd´st·´m","MS",42
+"thunderstorm","NY12A","439(*)","N","N"," "," ","ù¸nd´st·½´m","MS",43
+"thundershower","NY12B","440","N","N"," "," ","åù¸¼nd´õóa¹´","MS",44
+"thundershower","NY12C!","441!","N","N"," "," ","ù¸nd°óa¹°","MS",45
+"thunderstorm","NY13A","443","N","N"," "," ","åù¸nd´õst·«{°}rm","MS",46
+"thundershower","NY13B!","444!","N","N"," "," ","ù¸¼nd°óa¹°","MS",47
+"thunderstorm","NY13B!","444!","N","N"," "," ","ù¸¼nd°st·º{°}m","MS",47
+"thundershower","NY14A","445","N","N"," "," ","ù¸nd´óa¹´","MS",48
+"thundershower","NY14B","446","N","N"," "," ","ù¸nd´óa¹´","MS",49
+"thundershower","NY15A","447","N","N"," "," ","ù¸nd´ó²½¹´","MS",50
+"thundershower","NY15B","448","N","N"," "," ","ù¸nd´óá¹´","MS",51
+"thundershower","NY16A","449","N","N"," "," ","ù¸nd°åóa¾¹İ°","MS",52
+"thunderstorm","NY16B","450","N","N"," "," ","åù¸nd°st·º°m","MS",53
+"thundershower","NY17A","451(*)","N","N"," "," ","ù¸nd´ó²¹´","MS",54
+"thundershower","NY17B","452","N","N"," "," ","ù¸nd´óa¹´","MS",55
+"thundershower","NY18A","453","N","N"," "," ","åù¸nd´õóa«¹´","MS",56
+"thundershower","NY18B","454","N","N"," "," ","åù¸nd´õóa«¹´","MS",57
+"thundershower","NY18C!","455!","N","N"," "," ","åù¸nd°õóa¾¹°","MS",58
+"thunderstorm","NY19","456","N","N"," "," ","åù¸nd´st·´m","MS",59
+"thundershower","NY20A","457","N","N"," "," ","åù¸nd´õóa«¹´","MS",60
+"thundershower","NY20B","458","N","N"," "," ","åù¸nd´õóa¹´","MS",61
+"thundershower","NY21","459","N","N"," "," ","åù¸nd´õóa¹´","MS",62
+"thundershower","NY22","460","N","N"," "," ","åù¸nd´õóa¹´","MS",63
+"NA","NY23A","461"," ","N"," "," "," ","MS",64
+"thunderstorm","NY23B","462a","N","N"," "," ","åù¸½nd´õst·«´m","MS",65
+"thunderstorm","NY23C","462b","N","N"," "," ","åù¸½nd´õst·½´m","MS",66
+"thunder and lightning storm","NY23C","462b","O","N"," "," ","ù¸½nd´$°n$õlµ¼±¾tn±¿î$st¶«´m","MS",66
+"thundershower","NY23C","462b","N","N","short"," ","ås‘¸½nd´õóµº¹{w}´","MS",66
+"tempest","NY23C","462b","N","Y","local--not usual","HRD","t²mp²«st","MS",66
+"shower","NY23C","462b","N","N","short"," ","óµº¹{w}´","MS",66
+"windstorms","NY23C","462b","O","N"," "," ","w±¿n$st¶«´mz","MS",66
+"thundershower","NY24A","463","N","N"," "," ","åù¸¼nd´õóa«¹´","MS",67
+"thunderstorm","NY24B!","464!","N","N"," "," ","ù¸½nd´st·½´m","MS",68
+"thundershower","NY25A","465","N","N"," "," ","åù¸½nd´õó³¾º¹´","MS",69
+"storm","NY25A","465","N","N"," "," ","st·½´m","MS",69
+"bad storm","NY25A","465","O","N"," "," ","õbáºd$åsto½¼´m","MS",69
+"thunder and lightning storm","NY25A","465","O","N"," "," ","õù¸½nd´$°«n$ålµ±¿tn±¿¼n$åsto¼´m","MS",69
+"tempest","NY25A","465","N","Y","only at sea?","SUG/HES","t²ş«{m}p±¿¼s","MS",69
+"hurricane","NY25A","465","N","Y"," ","INA","åh³¼º´±«¾õk`e½{±¿}n","MS",69
+"storm","NY25A","465","N","N"," "," ","st·«´m","MS",69
+"hurricane","NY25A","465","N","Y"," ","INA","åh³½¼´±«¾õk`e½{±¿}n","MS",69
+"thunderstorm","NY25B","466","N","N"," "," ","åù¸ş{n}d´õst·¼´m","MS",70
+"electric storm","NY25B","466","O","N"," "," ","±¿¼l²ktò±¿¼k$åst·¼´m","MS",70
+"electrical storm","NY25B","466","O","N"," "," ","±¿¼l²ktò±¿¼kì$åst·¼´m","MS",70
+"thundershower","NY25B","466","N","N"," "," ","åù¥¾nd´õóµº¹´","MS",70
+"thunderstorm","NY26A","467","N","N"," "," ","åù¸½¼nd´õsto½¼´m","MS",71
+"thundershower","NY26A","467","N","N"," "," ","åù¸½¼nd´õó²«¹w´«¾","MS",71
+"thunderstorm","NY26B","468","N","N"," "," ","åù¸«nd´õsto½¼´m","MS",72
+"thundershower","NY26B","468","N","N"," "," ","åù¸«nd´õóµº¹{r}´","MS",72
+"thundershower","NY26B","468","N","N"," "," ","åù¸«nd´óµº¹w´","MS",72
+"hurricane","NY26B","468","N","Y"," ","INA","åh²º´°õke½±¿n","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"storm","NY27A","470","N","N"," "," ","åst¶º´m","MS",74
+"thundershower","NY27A","470","N","N"," "," ","åù¸½nd´õó¥¼º¹´","MS",74
+"thunder and lightning shower","NY27A","470","O","N"," "," ","åù¸½nd´$n–$ål¥«±¿tn±¿¼î$õó¥º¹´","MS",74
+"storm","NY27A","470","N","N"," "," ","st·½´m","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"thundershowers","NY27C","472","N","N"," "," ","åù¸½nd´õó³¼º¹´z","MS",76
+"storms","NY27C","472","N","N"," "," ","åst·½¼º´mz","MS",76
+"big storms","NY27C","472","O","N"," "," ","åb±«g$õst·´mz","MS",76
+"thundershower","NY27C","472","N","N"," "," ","åù¸½nd´õóµ«¼º¹´","MS",76
+"electric storm","NY28A","473a","O","N"," "," ","ål²ktò±¿¼k$õst·«´m","MS",77
+"thunderstorm","NY28A","473a","N","N"," "," ","åù¸nd´õst¶´m","MS",77
+"thundershower","NY28A","473a","N","N"," "," ","åù¦½¼nd´õóµº¹¼´","MS",77
+"storm","NY28B","473b(*)","N","N"," "," ","åst¶«º´m","MS",78
+"thunderstorm","NY28B","473b(*)","N","N"," "," ","åù¸½nd°õst·«´m","MS",78
+"hard wind","NY28B","473b(*)","O","Y"," ","INA","õhµº´d$åw±«n","MS",78
+"NA","NY28C"," "," ","N"," "," "," ","MS",79
+"thunderstorm","NY29A","474a","N","N"," "," ","åù¸½nd´õsto½¼´m","MS",80
+"thundershower","NY29A","474a","N","N"," "," ","åù¸½nd´õóáº¹|´","MS",80
+"thunderstorm","NY29B","474b","N","N","if any thunder and lightning"," ","åù¸½nd´õst·¼´m","MS",81
+"tornado","NY29B","474b","N","Y"," ","INA","õt·´åne½{±¿}õdo¼¹¼","MS",81
+"thunderstorm","NY29C","474c","N","N"," "," ","åù¦½nd´õst·´m","MS",82
+"thundershower","NY29C","474c","N","N"," "," ","õù¦½nd´åó²¾º¹İ´","MS",82
+"electric storm","NY30A","475a","O","N"," "," ","ål²ktò±¿¼k$õst·´m","MS",83
+"thunderstorm","NY30A","475a","N","N"," "," ","åù¸nd´õst·¼´m","MS",83
+"thunderstorm","NY30B","475b","N","N"," "," ","åù¸şd´õst·´m","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NA","NY30D","475d"," ","N"," "," "," ","MS",86
+"thunderstorm","NY30E","475e","N","N","if rain and thunder"," ","åù¸şd´õst·«¼´m","MS",87
+"thunderstorm","NY31A","478a","N","N"," "," ","åù¦½nd´õst·º´m","MS",88
+"squall","NY31A","478a","N","N","10-15 minutes"," ","skw·º{°}ì","MS",88
+"thunderstorm","NY31B","478b","N","N","""any time¢"," ","åù¸«d°õst·º´İm","MS",89
+"squall","NY31B","478b","N","N","wind and rain"," ","skw·½ºì","MS",89
+"lightning storm","NY32A","479a","O","N"," "," ","åì¥±¿tn±¿î$õst·º°m","MS",90
+"thunder and lightning storm","NY32A","479a","O","N"," "," ","åù¸¼nd´$n–$åì¥±¿tn±¿¼î$åst·«´m","MS",90
+"thunderstorm","NY32A","479a","N","N"," "," ","ù¸«d´st·«´m","MS",90
+"thunderstorm","NY32B","479b","N","N"," "," ","åù¸«nd´õsto¿½´m","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"thunderstorm","NY33B","481","N","N","even if only 2-3 times"," ","åù¸«¼nd´õst·¼´m","MS",93
+"windfall","NY33B","481","N","N"," "," ","åw±¾nõfŞ¼ì","MS",93
+"thunderstorm","NY33C","482","N","N"," "," ","åù¸½nd´õst·´m","MS",94
+"thunderstorm","NY34A","483","N","N","10 minutes or more"," ","åù¸ş{n}d´õst·¼´m","MS",95
+"squall","NY34A","483","N","N","rain and high wind","CNV","skw·½ºì","MS",95
+"storm","NY34B","484","N","N"," ","CNV","st·´m","MS",96
+"storm windows","NY34B","484","O","Y"," ","INA","åstò·½ºm$õw±«nd´«z","MS",96
+"NA","NY34C","485"," ","N"," "," "," ","MS",97
+"electrical storm","NY34D!","486!","O","N"," "," ","ål²ktò±¿kì$õst·º´m","MS",98
+"thunderstorm","NY34D!","486!","N","N","even 10-15 minutes"," ","åù¸«nd°õst·¼°m","MS",98
+"squall","NY34D!","486!","N","N"," "," ","skw·½ì","MS",98
+"thunderstorm","NY35A","487","N","N"," "," ","ù¸nd´st·´m","MS",99
+"thunderstorm","NY35B","488","N","N"," "," ","ù¸nd´st·½¼´m","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"thunderstorm","NY36A","491","N","N"," "," ","ù¸nd´st·½´m","MS",102
+"thunderstorm","NY36B","492","N","N"," "," ","ù¸nd´st·½´m","MS",103
+"thundershower","NY37A","493","N","N"," "," ","ù¸nd´óa«¾¹´","MS",104
+"thunderstorm","NY37B","494","N","N"," "," ","ù¸nd´st·½¼´m","MS",105
+"thunderstorm","NY37C!","495!","N","N"," "," ","ù¸nd´st·´m","MS",106
+"thunderstorm","NY38A","497(*)","N","N"," "," ","ù¸nd´st·½´m","MS",107
+"thunderstorm","NY38B","498","N","N"," "," ","åù¸nd´õst·½´m","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"thundershower","NY39A","499","N","N"," "," ","ù¸nd´óa«¹´","MS",110
+"thunderstorm","NY39B","500","N","N"," "," ","ù¸nd´st·½¼´m","MS",111
+"NR","NY40A","501"," ","N"," "," "," ","MS",112
+"thundershower","NY40B","502","N","N"," "," ","åù¸nd´õóa¹´","MS",113
+"thundershower","NY41","504","N","N"," "," ","åù¸nd´õóa«¹´","MS",114
+"thundershower","NY42A","505","N","N"," "," ","ù¸nd´óá«¹´","MS",115
+"thundershower","NY42B","506","N","N"," "," ","ù¸nd´óa¹´","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"thunderstorm","NY43B","507b","N","N"," "," ","ù¸nd´st·´m","MS",118
+"thunderstorm","NY43C!","508!","N","N"," "," ","ù¸nd´st·½´m","MS",119
+"thunderstorm","NY44A","511","N","N"," "," ","ù¸nd´st·´m","MS",120
+"thunderstorm","NY44B","512","N","N"," "," ","ù¸nd´st·´m","MS",121
+"thunderstorm","NY45A","513a","N","N"," "," ","åù¸½nd´õst·«´m","MS",122
+"cyclone","NY45A","513a","N","Y"," ","INA","ås¥±¿õkÅo½¼¹¼n","MS",122
+"electric storm","NY45A","513a","O","N"," "," ","åì²ktò±¿¼k$sto¿½´m","MS",122
+"thunderstorm","NY45A","513a","N","N"," "," ","åù¸½nd´õsto¿½´m","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"thunderstorm","NY45D!","513d!","N","N","even 10-15 minutes"," ","åù¸¼nd´õsto¿½´m","MS",125
+"snow squall","NY45D!","513d!","O","Y"," ","INA","åsno½¾¹¼$õskw·½ì","MS",125
+"thunderstorm","NY46A","515a","N","N"," "," ","åù¸«nd´õst¶«´m","MS",126
+"blinger","NY46A","515a","N","Y","severe! [wind]","INA/CNV","bl±«î´","MS",126
+"storms","NY46A","515a","N","N","if any thunder","CNV","st¶«´mz","MS",126
+"electric storm","NY46B","515b","O","N"," "," ","l²ktr±«k$st·½´m","MS",127
+"tornado","NY46B","515b","N","Y"," ","INA","t`·½´ne±¿doº{¹}","MS",127
+"thundershower","NY46C","515c","N","N"," "," ","ù¸nd´óa«¾¹«´","MS",128
+"thunderstorm","NY47A","517(*)","N","N"," "," ","åù¸şd´õst·¼´m","MS",129
+"thundershower","NY47A","517(*)","N","N","10-15 minutes"," ","åù¸şd´õó¥«¹{w}´","MS",129
+"thunder","NY47A","517(*)","N","Y"," ","INA/CNV","ù¸¼nd´","MS",129
+"thundershower","NY47B","518","N","N"," "," ","ù¸nd´óa¹´","MS",130
+"thundershower","NY48A","519a","N","N"," "," ","åù¸«nd´õó¥o¼´","MS",131
+"thunderstorm","NY48A","519a","N","N"," "," ","åù¸«nd´õst·¼´m","MS",131
+"cyclone","NY48A","519a","N","Y"," ","INA","ås¥±¿õkÅo½¼¹¼n","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"thundershower","NY48C","519c","N","N","short"," ","åù¸«nd´õó¥o¼´","MS",133
+"thunderstorm","NY48C","519c","N","N","short or long"," ","åù¸«nd´õst·¼´m","MS",133
+"twister","NY48C","519c","N","Y"," ","INA","tw±¿st´","MS",133
+"cyclone","NY48C","519c","N","Y"," ","INA","ås¥±¿õklo½¼¹¼n","MS",133
+"storm","NY48D","519d","N","N"," "," ","st·¼´m","MS",134
+"thundershower","NY48D","519d","N","N","any length"," ","åù¦½nd´õóµ«o¼´","MS",134
+"thunderstorm","NY49A","520","N","N"," ","CNV","õù¸«nd°åst·¼º|°m","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"thunderstorm","NY49C","522a","N","N"," "," ","åù¸ş¼{n}d´õst·´m","MS",137
+"electric storm","NY49D","522b","O","N"," "," ","iİ½{i}åì²ktò±¿k$õst·º´m","MS",138
+"thundershower","NY50A","523","N","N"," "," ","åù¸«nd´õóµ«¼o¼{w}´","MS",139
+"thundershower","NY50B","524","N","N"," "," ","åù¦½nd´õóµ«o¼|´","MS",140
+"storm","NY50B","524","N","N"," "," ","st·¼º°m","MS",140
+"storm","NY51A","525a","N","N"," ","CNV","st·«´m","MS",141
+"electric storm","NY51A","525a","O","N"," "," ","±¿ål²«ktò±¿k$õsto¿½´m","MS",141
+"thunderstorm","NY51A","525a","N","N","""snow storm¢"," ","åù¦¼nd´õsto¿½´m","MS",141
+"snow storm","NY51A","525a","O","Y"," ","INA","åsno½¼¹¼$õsto¿½´m","MS",141
+"storm","NY51A","525a","N","N"," ","CNV","sto½´m","MS",141
+"twisters","NY51A","525a","N","Y"," ","INA","åtw±¿st´«z","MS",141
+"thundershower","NY51B","525b","N","N"," "," ","åù¸ş½nd´õóa«¾ºo¼|´","MS",142
+"thunderstorm","NY51C","525c","N","N"," "," ","åù¸½nd°õst·º°m","MS",143
+"storming","NY51C","525c","V","N"," ","CNV","st·º°m±¿î","MS",143
+"snow storm","NY51D","525d","O","Y"," ","INA/CNV","åsno½º¹¼$õst·½´m","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"electric storm","NY52A","527","O","N","even if 10-15 minutes"," ","õl²«ktò±¿k$åsto½°m","MS",146
+"thundershowers","NY52A","527","N","N"," "," ","åù¸«nd°õó¥º¹°z","MS",146
+"snow showers","NY52A","527","O","Y"," ","INA/HRD","åsno½¼¹¼$õó¥«¼º¹°z","MS",146
+"electric storms","NY52A","527","O","N"," ","CNV","õl²ktò±¿¼k$åst·º°mz","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"electrical storm","NY52C","528b","O","N"," "," ","±¿ål²ktò±¿k°«ì$õst·«´m","MS",148
+"thunderstorm","NY52C","528b","N","N"," "," ","åù¸¼nd´õst·«´m","MS",148
+"storm","NY53A","529","N","N"," "," ","st·´m","MS",149
+"thunder and lightning storm","NY53A","529","O","N"," "," ","õù¦¼nd´$n$åì¥±¿tn±¿n$õst·¼´m","MS",149
+"tornado","NY53A","529","N","Y"," ","INA","åt·´õne½±¿d°","MS",149
+"thunderstorm","NY53B!","530!","N","N"," "," ","åù¸¼nd°õst·½º°m","MS",150
+"electric storm","NY53B!","530!","O","Y","""I wouldn't say¢","HRD","±¿ål²«ktò±¿¼k$st·½º°m","MS",150
+"thundershower","NY54A","531","N","N"," "," ","ù¸¼nd´ó¥¹´","MS",151
+"thunderstorm","NY54B","532","N","N"," "," ","åù¸«¼nd´õst·º´m","MS",152
+"thunderstorm","NY55A","533","N","N","any time"," ","åù¦½nd´õst·«´m","MS",153
+"thunderstorm","NY55B","534","N","N"," "," ","åù¸«nd´õst·´m","MS",154
+"shower","NY55B","534","N","N","10-15 minutes"," ","åó²½¹{w}´","MS",154
+"thunder and lightning storm","NY56A","535","O","Y","[{d}]: doubtful","FDT","õù¸¼n{d}´$°n$ål°½±¿¼tnn–$õst·½¼´m","MS",155
+"electrical storm","NY56A","535","O","Y"," ","NEW","±¿ål²«ktò±¿kì$õst¶´m","MS",155
+"electric storm","NY56B","536","O","N"," "," ","±¿İål²«ktò±¿k$õst·´m","MS",156
+"thundershower","NY56B","536","N","N"," "," ","åù¸¼nd´õó°½¹´","MS",156
+"thunderstorm","NY57A","537a","N","N"," "," ","åù¸¼nd´õst·«¼´m","MS",157
+"NA","NY57B","537b"," ","N"," "," "," ","MS",158
+"thunderstorm","NY57C!","537c!","N","N","even 10 minutes"," ","åù¦¼nd´«õst·¼´m","MS",159
+"thundershower","NY57C!","537c!","N","N"," "," ","õù¦½nd´åóµ«º¹´","MS",159
+"heavy thundershower","NY58A","539a","O","N"," "," ","õh²v±«¾$åù¸¼nd´õóµ«º¹´","MS",160
+"thunderstorm","NY58A","539a","N","N"," "," ","åù¸¼nd´õst·«´m","MS",160
+"thunderstorm","NY58B","539b","N","N"," "," ","åù¦½nd´õst·¼´m","MS",161
+"thundershower","NY58B","539b","N","N"," "," ","åù¦½nd´õó¥«º¹|´","MS",161
+"windstorm","NY58B","539b","O","N"," "," ","åw±n$õst·«º´m","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"thunderstorm","NY58D!","539d!","N","N"," "," ","åù¸«¼nd°õst·º°İm","MS",163
+"storm","NY58E!","539e!","N","N"," "," ","sto½´m","MS",164
+"electric storm","NY58E!","539e!","O","N"," "," ","±¿¼ål²«ktò±¿¼k$õst·«´m","MS",164
+"thunderstorm","NY58E!","539e!","N","N"," "," ","åù¦½¼nd´õst·«¼´m","MS",164
+"NA","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"thunderstorm","NY59A","543","N","N"," "," ","åù¸¼nd´õst¶«¼´m","MS",166
+"thundershower","NY59A","543","N","N"," "," ","åù¸¼nd´õóµº¹{w}´","MS",166
+"electrical storm","NY59B","544","O","N"," "," ","±¿ål²ktr±¿kì$õst·½´m","MS",167
+"thunderstorm","NY60A","545","N","N"," "," ","åù¸«nd´õsto½¼´m","MS",168
+"thundershower","NY60A","545","N","N","10-15 minutes"," ","åù¸«nd´õó°½º¹{w}´","MS",168
+"storm","NY60A","545","N","N"," ","CNV","sto´m","MS",168
+"thunderstorm","NY60B!","546!","N","N"," "," ","åù¸«nd´õst·´m","MS",169
+"thunderstorm","NY61A","547","N","N"," "," ","åù¸¼nd´õst·¼´m","MS",170
+"squall","NY61A","547","N","N"," "," ","skw·½ºì","MS",170
+"wind squall","NY61A","547","O","N"," "," ","åw±n$õskw·½ºì","MS",170
+"thunder and lightning storm","NY61B","548","O","N"," "," ","õù¸¼nd´$n–$åì°¼±¿¼'tn$õst·¼´m","MS",171
+"thundershower","NY61B","548","N","N"," "," ","åù¸ş¼d´õó¥º¹|´«¾","MS",171
+"storm","NY61B","548","N","N"," "," ","st·´m","MS",171
+"squall","NY61B","548","N","N"," "," ","skw¶”ºì","MS",171
+"thunderstorm","NY62A","551a","N","N"," "," ","åù¸«¼nd´«õst·«´m","MS",172
+"electrical storm","NY62B","551b","O","N"," "," ","ål²«ktò±¿kì$õsto¼´m","MS",173
+"thunderstorm","NY62B","551b","N","N"," "," ","åù±¿½¾nd´õst·¼´m","MS",173
+"thundershower","NY62B","551b","N","N"," "," ","åù±¿½¾nd´õó³¼¹´","MS",173
+"thunder and lightning storm","NY62C","551c","O","N"," "," ","õù¸¼nd´$°«n$ål¥«±¿tn±¾î$õst·«´m","MS",174
+"thunderstorm","NY62D!","551d!","N","N"," "," ","åù¸şd´õst·¼º´m","MS",175
+"thundershower","NY62D!","551d!","N","N"," "," ","åù¸ş¼nd´õóµº¹|´","MS",175
+"fierce thunderstorm","NY63A","556a","O","N"," "," ","f±´s$åù¸½nd´õstÀ¾´m","MS",176
+"thunderstorm","NY63A","556a","N","N"," "," ","åù¸½¼nd´õstÀ¾´m","MS",176
+"thunderstorm","NY63B","556b","N","N","even if 10-15 minutes"," ","åù¸«nd´õst·¼´m","MS",177
+"electrical storm","NY63C","556c","O","N"," "," ","±¿ål²ktò±¿kì$st·½´m","MS",178
+"thunderstorm","NY63C","556c","N","Y"," ","SUG","åù¸nd´õst·½´m","MS",178
+"thunderstorm","NY63D!","556d!","N","N"," "," ","åù¸ş«{n}d´õst·½¼´m","MS",179
+"short thunderstorm","NY63D!","556d!","O","N"," "," ","õóo½¼´t$åù¸«nd´õst·«¼´m","MS",179
+"thunderstorm","NY64A","557a","N","N"," "," ","åù¸¼nd´õst·´m","MS",180
+"thunderstorm","NY64B","557b","N","N"," "," ","åù¸«nd´õsto½¼´m","MS",181
+"summer shower","NY64B","557b","O","N","= thundershower"," ","ås¸½m´$õóµº¹´","MS",181
+"thunderstorm","NY64C!","557c!","N","N"," "," ","åù¦ş½nd´õstÀ¾´m","MS",182
+"squall","NY64C!","557c!","N","N","10-15 minutes"," ","skw·½{°}ì","MS",182
+"thundershower","NJ1A","1","N","N"," "," ","ù¸nd´óá¹´","MS",183
+"thunder gust","NJ1A","1","O","N"," "," ","ù¸nd´g¸s{t}","MS",183
+"thunder gust","NJ1B","2","O","N"," "," ","ù¸nd´g¸{°}st","MS",184
+"thunderstorm","NJ2A","3(*)","N","N"," "," ","ù¸«nd´st·´m","MS",185
+"thunder gust","NJ2A","3(*)","O","N"," "," ","ù¸«nd´g«¾º{°}st","MS",185
+"thunderstorm","NJ2B","4","N","N"," "," ","ù¸nd´st·«´m","MS",186
+"thundershower","NJ2B","4","N","N"," "," ","ù¸nd´óá¹´","MS",186
+"thunderstorm","NJ3A","5","N","N"," "," ","ù¸nd´st·«´m","MS",187
+"thunder gust","NJ3A","5","O","N"," "," ","ù¸nd´g¸¾s{t}","MS",187
+"thundershower","NJ3B","6","N","N"," "," ","ù¸nd´óá¹¼´","MS",188
+"thunder gust","NJ3B","6","O","Y"," ","SUG","ù¸nd´g¸st","MS",188
+"thundershower","NJ4A","7","N","N"," "," ","ù¸nd´óa«¹´","MS",189
+"thunder gust","NJ4A","7","O","N"," "," ","ù¸nd´g¸s{t}","MS",189
+"thunderstorm","NJ4B","8","N","N"," "," ","ù¸nd´st·«´m","MS",190
+"thundershower","NJ5A","9","N","N"," "," ","ù¸nd´óá¹´","MS",191
+"thundershower","NJ5B","10","N","N"," "," ","ù¸nd´óá«¹´","MS",192
+"thundershower","NJ6A","11","N","N"," "," ","åù¸¼nd´õóa«¹´","MS",193
+"thundershower","NJ6B","12","N","N"," "," ","ù¸«nd´óá¹½´","MS",194
+"thundershower","NJ7A","17","N","N"," "," ","ù¸—ş«nd´óá¹´","MS",195
+"thundershower","NJ7B!","18!","N","N"," "," ","åù¸nd´õóá½º¹¿´","MS",196
+"thundershower","NJ8A","19","N","N"," "," ","ù¸¼nd´óa«º¹´","MS",197
+"thundershower","NJ8B","20","N","N"," "," ","ù¸nd´óa«¹´","MS",198
+"squall","NJ8B","20","N","N","wind (sometimes with rain)"," ","skw·ºì","MS",198
+"NR","NJ9A","21"," ","N"," "," "," ","MS",199
+"thundershower","NJ9B","22","N","N"," "," ","ù¸nd´óa«¹´","MS",200
+"thunderstorm","NJ9B","22","N","N"," "," ","ù¸nd´st·´m","MS",200
+"thundershower","NJ10A","24b","N","N"," "," ","ù¸¼nd´óá¹°","MS",201
+"thundershower","NJ10B","23","N","N"," "," ","ù¸nd´óá½º¹¿´","MS",202
+"thundershower","NJ10C","24","N","N"," "," ","ù¸nd´óá¹´","MS",203
+"thunderstorm","NJ10D!","24c!","N","N"," "," ","ù¸¼nd´st·´m","MS",204
+"thundershower","NJ11A","25","N","N"," "," ","ù¸nd´óá½¹´","MS",205
+"thunderstorm","NJ11B","26a","N","N"," "," ","åù¸nd´õst·´m","MS",206
+"thunderstorm","NJ11C","26b","N","N"," "," ","åù¸nd´õst·´m","MS",207
+"thundershower","NJ11C","26b","N","N"," "," ","ù¸nd´óá¹´","MS",207
+"thunderstorm","NJ12A","27","N","N"," "," ","ù¸nd´st·´m","MS",208
+"thundershower","NJ12B","28","N","N"," "," ","ù¸nd´óa¹´","MS",209
+"thundershower","NJ13A","29","N","N"," "," ","ù¸nd´óá¹´","MS",210
+"thunderstorm","NJ13B","30","N","N"," "," ","ù¸nd´st·´m","MS",211
+"thundershower","NJ13B","30","N","N"," "," ","ù¸nd´óá½¹´","MS",211
+"thundershower","NJ14A","31","N","N"," "," ","ù¸nd´óa¹´","MS",212
+"NR","NJ14B","32"," ","N"," "," "," ","MS",213
+"thundershower","NJ15A","33","N","N"," "," ","ù¸nd´óa«¹´","MS",214
+"thunderstorm","NJ15B","34","N","N"," "," ","åù¸nd´õst·”½¼´m","MS",215
+"thundershower","NJ16A","35","N","N"," "," ","ù¸nd´óa¹´","MS",216
+"thunderstorm","NJ16B","36","N","N"," "," ","åù¸nd´õst·º{°}´m","MS",217
+"thundershower","NJ17A","37","N","N"," "," ","ù¸nd´óa«¾¹İ´","MS",218
+"thundershower","NJ17B","38","N","N"," "," ","åù¸nd´õóa¹´","MS",219
+"thunderstorm","NJ17B","38","N","N"," "," ","åù¸nd´¹õst·´m","MS",219
+"thunderstorm","NJ18A","41","N","N"," "," ","ù¸nd°st·:m","MS",220
+"thunderstorm","NJ18B","42","N","N"," "," ","ù¸nd°st·:m","MS",221
+"thundershower","NJ18C!","43!","N","N"," "," ","åù¸nd´õóa¹´","MS",222
+"thunderstorm","NJ18D!","44!","N","N"," "," ","ù¸nd´st·´m","MS",223
+"shower","NJ19A","45","N","N"," "," ","óa«º¹°","MS",224
+"thunderstorm","NJ19B!","46!","N","N"," "," ","ù¸nd°st·ºm","MS",225
+"thundershower","NJ20A","47","N","N"," "," ","åù¸nd°İrõóa¹°İr","MS",226
+"thunderstorm","NJ20B","47b","N","N"," "," ","åù¸nd°õst·º{°}m","MS",227
+"NR","NJ21A","48"," ","N"," "," "," ","MS",228
+"thundershower","NJ21B","49","N","N"," "," ","ù¸nd´óa«¹´","MS",229
+"thunderstorm","NJ21B","49","N","N"," "," ","ù¸nd´st·´m","MS",229
+"thundershower","PA1A","51","N","N"," "," ","ù¸nd´óa«º¹°{r}","MS",230
+"thunderstorm","PA1B","52","N","N"," "," ","åù¸nd´õst·´m","MS",231
+"thunderstorm","PA1C","53","N","N"," "," ","åù¸nd´õst·«´m","MS",232
+"thunderstorm","PA1D","54","N","N"," "," ","åù¸nd´õst·«´m","MS",233
+"thunderstorm","PA1E!","55!","N","N"," "," ","åù¸nd´õst·´m","MS",234
+"thunderstorm","PA1F!","56!","N","N"," "," ","ù¸nd´st·«´m","MS",235
+"thunderstorm","PA1G!","57!","N","N"," "," ","ù¸nd´st·«´m","MS",236
+"thunderstorm","PA1H!","58!","N","N"," "," ","åù¸«¼nd´õst·«´m","MS",237
+"gust","PA1H!","58!","N","N","on water, thunder not necessary"," ","g¸{°}st","MS",237
+"thundershower","PA2A","59","N","N"," "," ","ù¸nd´óáº¹½´","MS",238
+"thunderstorm","PA2B","60","N","N"," "," ","ù¸nd´st·«´m","MS",239
+"thunderstorm","PA3A","61","N","N"," "," ","ù¸nd´st·´m","MS",240
+"thundershower","PA3B","62","N","N"," "," ","ù¸nd´óá½¹½´","MS",241
+"thundershower","PA3C","62b","N","N"," "," ","åù¸nd´õóá½¹´","MS",242
+"thundershower","PA4A","63","N","N"," "," ","åù¸nd´õóá½¹´","MS",243
+"gust","PA4A","63","N","N"," "," ","g¸ºst","MS",243
+"thunderstorm","PA4B!","64!","N","N"," "," ","åù¸nd´õst·´m","MS",244
+"thunderstorm","PA5A","65(*)","N","N"," "," ","ù¸nd´st·«´m","MS",245
+"thunderstorm","PA5B","65b","N","N"," "," ","ù¸nd´st·«´m","MS",246
+"thunder gust","PA5B","65b","O","Y"," ","SUG","ù¸nd´g¸st","MS",246
+"thunderstorm","PA5C","66","N","N"," "," ","åù¸nd´õst·«´m","MS",247
+"thunderstorm","PA5D","67","N","N"," "," ","ù¸nd´st·«´m","MS",248
+"gust","PA5D","67","N","N"," "," ","g¸st","MS",248
+"thunderstorm","PA5E!","68!","N","N"," "," ","ù¸nd´st·«´m","MS",249
+"gust","PA5E!","68!","N","N"," "," ","g¸st","MS",249
+"thunderstorm","PA6A","69","N","N"," "," ","åù‘¸nd°{Õ}õst·{°}{Õ}m","MS",250
+"thunderstorm","PA6B","71","N","N"," "," ","ù¸nd°ŸÕst·°ŸÕm","MS",251
+"thundershower","PA6C","71b","N","N"," "," ","ù¸«nd°rŸÕóa¹{°}{rŸÕ}","MS",252
+"thunderstorm","PA6D!","72!","N","N"," "," ","ù¸nd´st·´m","MS",253
+"thunder gust","PA7A","73","O","N"," "," ","ù¸«¼nd´g¸«¼st","MS",254
+"thunderstorm","PA7B","74","N","N"," "," ","ù¸nd´st·«´m","MS",255
+"gust","PA7B","74","N","N"," "," ","g¸{°}st","MS",255
+"thunder gust","PA7C","75","O","N"," "," ","åù¸nd°rõg¸st","MS",256
+"thunderstorm","PA7D!","76!","N","N"," "," ","åù¸nd´õst·´m","MS",257
+"gust","PA7D!","76!","N","Y"," ","SUG/HRD","g¸st","MS",257
+"thunder gust","PA8A","77","O","N"," "," ","åù¸«¼nd´õg¸st","MS",258
+"gust","PA8B","78","N","N"," "," ","g¸st","MS",259
+"thunder gust","PA8B","78","O","N"," "," ","ù¸nd´g¸st","MS",259
+"thunderstorm","PA8C","79","N","N"," "," ","ù¸nd°rst·rm","MS",260
+"thunderstorm","PA8D!","80!","N","N"," "," ","åù¸nd´õst·«´m","MS",261
+"thunderstorm","PA9A","83","N","N"," "," ","ù¸nd´st·´m","MS",262
+"thunderstorm","PA9B","83b","N","N"," "," ","åù¸nd´õst·«´m","MS",263
+"thunderstorm","PA9C!","84!","N","N"," "," ","åù¸nd´õst·´m","MS",264
+"thunderstorm","PA10","87","N","N"," "," ","ù¸—¾nd´st·{°}{r}m","MS",265
+"thunderstorm","PA11A","89","N","N"," "," ","ù¸nd´st·´m","MS",266
+"thunderstorm","PA11B","90(*)","N","N"," "," ","ù¸nd´st·´m","MS",267
+"thundershower","PA12A","91","N","N"," "," ","åù¸nd´õóa¹½´","MS",268
+"thundershower","PA12B","92","N","N"," "," ","ù¸nd´óa¹´","MS",269
+"thunderstorm","PA12B","92","N","N"," "," ","ù¸nd´st·«¼´m","MS",269
+"thundershower","PA13A","93","N","N"," "," ","ù¸nd´óa¹´","MS",270
+"thunderstorm","PA13B","94","N","N"," "," ","åù¸nd´õst·«¼´m","MS",271
+"thundershower","PA14A","95(*)","N","N"," "," ","ù¸nd°rŸÕóa¾ö°rŸÕ","MS",272
+"thunderstorm","PA14B","96","N","N"," "," ","åù¸«nd´õst·«rm","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"thundershower","PA15A","99","N","N"," "," ","åù¸nd´õóa¹´","MS",275
+"thunderstorm","PA15B","99b","N","N"," "," ","ù¸nd´st·´m","MS",276
+"thundershower","PA15C!","100!","N","N"," "," ","åù¸nd´õóa¹´","MS",277
+"thundershower","PA16A","101","N","N"," "," ","s‘¸nd°rŸÕóaö°{rŸÕ}","MS",278
+"thunderstorm","PA16B","102","N","N"," "," ","ù¸nd´st·«rm","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"thundershower","PA17A","105","N","N"," "," ","åù¸nd°rõóa¹°r","MS",281
+"thundershower","PA17B","106","N","N"," "," ","åù¸«nd°rŸÕõóa¾¹°İ{rŸÕ}","MS",282
+"thundershower","PA18A","107","N","N"," "," ","ù¸nd´óµ´","MS",283
+"thunderstorm","PA18B!","108!","N","N"," "," ","ù¸nd´st·´m","MS",284
+"thundershower","PA19A","113","N","N"," "," ","åù¸nd´õóa«¹´","MS",285
+"thunderstorm","PA19B","114","N","N"," "," ","åù¸nd´õst·´m","MS",286
+"thundershower","PA20A","115","N","N"," "," ","åù¸nd´õóa«¹´","MS",287
+"thundershower","PA20B","116","N","N"," "," ","ù¸nd´óa«¹´","MS",288
+"thunderstorm","PA21A","117","N","N"," "," ","ù¸nd´st·½´m","MS",289
+"thundershower","PA21B","118","N","N"," "," ","ù¸nd´óa¹´","MS",290
+"thundershower","PA22A","119","N","N"," "," ","åù¸nd´õóa¹´","MS",291
+"thunderstorm","PA22B","120","N","N"," "," ","åù¸nd´õst·½´m","MS",292
+"thundershower","PA23A","121","N","N"," "," ","ù¸nd´óa«¹´","MS",293
+"thundershower","PA23B","122","N","N"," "," ","ù¸nd´óa«¹´","MS",294
+"thundershower","PA24A","123","N","N"," "," ","åù¸nd´õóa«¹´","MS",295
+"thundershower","PA24B","124","N","N"," "," ","åù¸nd´õóá¹´","MS",296
+"thundershower","PA25A","125","N","N"," "," ","åù¸nd´õóa¹´","MS",297
+"thundershower","PA25B","126","N","N"," "," ","ù¸nd´óa¹´","MS",298
+"thundershower","PA26A","127","N","N"," "," ","ù¸nd´óá¾¹´","MS",299
+"thundershower","PA26B","128","N","N"," "," ","ù¸nd´óáİ½¹´","MS",300
+"thunderstorm","PA27A","131","N","Y"," ","AUX","ù¸nd´st·½´m","MS",301
+"thunderstorm","PA27B","132","N","N"," "," ","ù¸nd´st·½´m","MS",302
+"thundershower","PA28A","135","N","N"," "," ","ù¸nd´óa¹´","MS",303
+"thunderstorm","PA28B!","136!","N","N"," "," ","ù¸nd´st·«´m","MS",304
+"thunderstorm","PA29A","139(*)","N","N"," "," ","ù¸nd´st·´m","MS",305
+"thundershower","PA29B","140","N","N"," "," ","ù¸nd´óa¹´","MS",306
+"thundershower","PA30A","143","N","N"," "," ","ù¸nd´óáİ¾¹´","MS",307
+"thundershower","PA30B","144","N","N"," "," ","ù¸nd´óáİ¹´","MS",308
+"thunderstorm","PA31A","145","N","N"," "," ","ù¸nd´st·½´m","MS",309
+"thundershower","PA31B","146","N","N"," "," ","åù¸nd´õó²İ¾¹´","MS",310
+"thundershower","PA32A","147","N","N"," "," ","åù¸nd´õóa¹´","MS",311
+"thunderstorm","PA32B","148","N","N"," "," ","ù¸nd´st·«¼´m","MS",312
+"thunderstorm","PA33A","151","N","N"," "," ","ù¸½nd´st·«{°}rm","MS",313
+"thunderstorm","PA33B","152","N","N"," "," ","åù¸nd´õst·«´m","MS",314
+"gust","PA33B","152","N","Y"," ","HRD/OLD","g¸st","MS",314
+"thunder gust","PA34A","155","O","N"," "," ","ù¸nd´g¸st","MS",315
+"thunderstorm","PA34B","156","N","N"," "," ","åù¸nd´õst·´m","MS",316
+"thunderstorm","PA34C!","155b!","N","Y"," ","AUX","åù¸½nd´õst·´m","MS",317
+"thunderstorm","PA35A","157","N","N"," "," ","ù¸½nd´st·«´m","MS",318
+"thunder gust","PA35A","157","O","Y"," ","SUG","ù¸½nd´g¸½st","MS",318
+"thunderstorm","PA35B","158(*)","N","N"," "," ","ù¸nd´st·«´m","MS",319
+"gust","PA35B","158(*)","N","N"," "," ","g¸İ½st","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"thundershower","PA36A","159","N","N"," "," ","åù¸nd´õóa¹´","MS",321
+"thunderstorm","PA36B","160","N","N"," "," ","ù¸nd´st·«¼´m","MS",322
+"thunderstorm","PA37A","161(*)","N","N"," "," ","åù¸nd°rõst·rm","MS",323
+"thundershower","PA37B","162","N","N"," "," ","åù¸nd´óµ´","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"thunder gust","PA38A","163","O","N"," "," ","åù¸nd´õg¸{°}st","MS",326
+"thunderstorm","PA38B","164","N","N"," "," ","åù¸nd´st·«´m","MS",327
+"gust","PA38B","164","N","N"," "," ","g¸st","MS",327
+"thundershower","PA39A","165","N","N"," "," ","åù¸nd´õóa¹´","MS",328
+"thunderstorm","PA39B","166","N","N"," "," ","ù¸nd´st·«´m","MS",329
+"gust","PA39B","166","N","N"," "," ","g¸{°}st","MS",329
+"thundershower","PA40A","167","N","N"," "," ","åù¸nd´õóa¹´","MS",330
+"thunder gust","PA40B","168","O","N"," "," ","åù¸½nd´õg¸st","MS",331
+"gust","PA41A","171","N","N"," "," ","g¸st","MS",332
+"thunder gust","PA41A","171","O","N"," "," ","ù¸¼nd´g¸st","MS",332
+"thunderstorm","PA41B","172","N","N"," "," ","åù¸«nd´õst·«´m","MS",333
+"thunderstorm","PA42A","175","N","N"," "," ","ù¸nd´st·´m","MS",334
+"thunder gust","PA42B","176","O","N"," "," ","åù¸nd´g¸st","MS",335
+"thunderstorm","PA43A","177","N","N"," "," ","åù¸«nd´õst·«´m","MS",336
+"thundershower","PA43B","178","N","N"," "," ","ù¸nd´óa¹´","MS",337
+"thunder gust","PA43B","178","O","N"," "," ","ù¸nd´g¸st","MS",337
+"thundershower","PA44A","179","N","N"," "," ","ù¸nd´óa¾¹´","MS",338
+"thunder gust","PA44A","179","O","Y","as a child","OLD","ù¸nd´g¸st","MS",338
+"thundershower","PA44B","180","N","N"," "," ","ù¸nd´óa¾º¹´","MS",339
+"thunderstorm","PA45A","181","N","N"," "," ","ù¸¼nd´st·«rm","MS",340
+"thunderstorm","PA45B","182","N","N"," "," ","ù¸nd´st·«{°}rm","MS",341
+"electric storm","PA46A","185","O","N"," "," ","l²ktr±¿k$sto½´m","MS",342
+"thunderstorm","PA46A","185","N","N"," "," ","ù¸nd´sto½´m","MS",342
+"electric storm","PA46B","186","O","N"," "," ","±¿ål²ktr±¿k$õst·«rm","MS",343
+"thunderstorm","PA46B","186","N","N"," "," ","ù¸nd´st·«rm","MS",343
+"thunderstorm","PA47A","189","N","N"," "," ","ù¸¼nd´st·«rm","MS",344
+"thunderstorm","PA47B","190","N","N"," "," ","ù¸¼nd´st·«rm","MS",345
+"thunderstorm","PA48A","191","N","N"," "," ","åù¸¼nd´õst·rm","MS",346
+"electric storm","PA48B","192","O","N"," "," ","õl²ktr±¿k$åst·rm","MS",347
+"thunderstorm","PA48B","192","N","N"," "," ","ù¸nd´st·rm","MS",347
+"electric storm","PA48C","193","O","N"," "," ","°ål²ktr±¿k$st·rm","MS",348
+"thunderstorm","PA48C","193","N","N"," "," ","ù¸İ¼nd´st·rm","MS",348
+"thunderstorm","PA49A","194","N","N"," "," ","ù¸nd´st·rm","MS",349
+"thunderstorm","PA49B","195","N","N"," "," ","ù¸nd´st·«{°}rm","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"electric storm","PA50B","197","O","N"," "," ","°õl²ktr±¿k$åst·rm","MS",352
+"thunderstorm","PA50B","197","N","N"," "," ","ù¸nd´st·rm","MS",352
+"thunderstorm","PA50C!","198!","N","N"," "," ","ù¸¼nd´st·rm","MS",353
+"thunderstorm","PA51A","199","N","N"," "," ","ù¸nd´st·rm","MS",354
+"thunderstorm","PA51B","200","N","N"," "," ","åù¸nd´õst·rm","MS",355
+"thunderstorm","PA52A","201","N","N"," "," ","ù¸nd´st·rm","MS",356
+"thunderstorm","PA52B!","202!","N","N"," "," ","åù¸nd´õst·rm","MS",357
+"thundershower","PA53A","203","N","N"," "," ","ù¸nd´óa¹½´","MS",358
+"thunderstorm","PA53B","204","N","N"," "," ","ù¸İ¼nd´st·«rm","MS",359
+"thunderstorm","PA54A","205","N","N"," "," ","åù¸nd´õst·rm","MS",360
+"thunderstorm","PA54B","206","N","N"," "," ","åù¸½nd´õst·«rm","MS",361
+"thunderstorm","PA55A","207","N","N"," "," ","ù¸nd´st·rm","MS",362
+"thunderstorm","PA55B","208","N","N"," "," ","ù¸nd´st·«°rm","MS",363
+"thunderstorm","PA56A","211(*)","N","N"," "," ","ù¸nd´st·rm","MS",364
+"electric storm","PA56B","212","O","N"," "," ","±¿õl²ktr±¿k$åst·«rm","MS",365
+"thundershower","PA56B","212","N","N"," "," ","åù¸nd´õóa¹´","MS",365
+"thunderstorm","PA57A","213","N","N"," "," ","åù¸¼nd´st·rm","MS",366
+"electric storm","PA57B","214","O","N"," "," ","±¿ål²ktr±¿k$st·«rm","MS",367
+"thundershower","PA58A","215","N","N"," "," ","åù¸nd´õóa¹´","MS",368
+"thunderstorm","PA58B","216","N","N"," "," ","åù¸nd´st·«{°}rm","MS",369
+"thundershower","PA59A","219","N","N"," "," ","ù¸nd´óa¹{°}r","MS",370
+"thunderstorm","PA59B","220","N","N"," "," ","åù¸½nd´õst·«rm","MS",371
+"thunderstorm","PA60A","221","N","N"," "," ","ù¸nd´st·rm","MS",372
+"thunderstorm","PA60B","222","N","N"," "," ","ù¸nd´st·rm","MS",373
+"thunderstorm","PA61A","223","N","N"," "," ","åù³nd´õst·rm","MS",374
+"thunderstorm","PA61B","224","N","N"," "," ","ù¸nd´st·«rm","MS",375
+"thunderstorm","PA62A","229","N","N"," "," ","åù¸nd´õst·rm","MS",376
+"thunderstorm","PA62B","230","N","N"," "," ","ù¸nd´st·rm","MS",377
+"thundershower","PA63A","231","N","N"," "," ","åù¸nd´õóa¹´","MS",378
+"thunderstorm","PA63B","232","N","N"," "," ","åù¸nd´õst·´m","MS",379
+"thunderstorm","PA64A","233","N","N"," "," ","ù¸nd´st¶«´m","MS",380
+"thundershower","PA64B","234","N","N"," "," ","ù¸nd´óa¹´","MS",381
+"electric storm","PA65A","237","O","N"," "," ","±¿ål²ktò±¿k$åst·«´m","MS",382
+"thundershower","PA65A","237","N","N"," "," ","ù¸nd´óaİ«¾¹´","MS",382
+"thunderstorm","PA65B","238","N","N"," "," ","åù¸nd´õst·«´m","MS",383
+"electric storm","PA66A","239","O","N"," "," ","õì²ktr±¿k$åst·rm","MS",384
+"thunderstorm","PA66B","240","N","N"," "," ","ù¸nd´st·´m","MS",385
+"thunderstorm","PA67A","243","N","N"," "," ","åù¸nd´õst·´m","MS",386
+"thundershower","PA67B","244","N","N"," "," ","åù¸nd´õó²½¾¹´","MS",387
+"thunderstorm","WV1!","88!","N","N"," "," ","ù¸«¼nd°st¶«·m","MS",388
+"thunderstorm","WV2","89","N","N"," "," ","ù¸«nd´st·´m","MS",389
+"thunder gust","WV2","89","O","N"," "," ","ù¸«nd´g¸«{°}s{t}","MS",389
+"thunder gust","WV3","91","O","N"," "," ","ù¸«nd´g¸{°}st","MS",390
+"thunderstorm","WV4A","92","N","N"," "," ","ù¸«nd´st·´m","MS",391
+"thunderstorm","WV4B","93","N","N"," "," ","ù¸«n{d}´st·«´m","MS",392
+"thunderstorm","WV5","94","N","N"," "," ","ù¸nd´st·«´m","MS",393
+"thunderstorm","WV6A","95","N","N"," "," ","ù¸«nd´st·´m","MS",394
+"thunderstorm","WV6B","96","N","N"," "," ","ù¸nd´stµ¾´m","MS",395
+"thundershower","WV7A","97","N","N"," "," ","ù¸nd´óa«¹´","MS",396
+"thundershower","WV7B","98","N","N"," "," ","ù¸«nd´óa«¹´","MS",397
+"thundershower","WV8A","97b","N","N"," "," ","ù¸«nd´óa«º¹´","MS",398
+"thundershower","WV8B","98b","N","N"," "," ","ù¸¼nd´óa«º¹¿´","MS",399
+"thunderstorm","WV9A","301","N","N"," "," ","ù¸nd´st·´m","MS",400
+"thunderstorm","WV9B","302","N","N"," "," ","ù¸nd´st·´m","MS",401
+"thunderstorm","WV10A","303","N","N"," "," ","ù¸nd´st·´m","MS",402
+"thunderstorm","WV10B","303b","N","N"," "," ","ù¸nd´st·½ºrm","MS",403
+"thunderstorm","WV10C","304","N","N"," "," ","ù¸¼nd´st·´m","MS",404
+"thunderstorm","WV11A","305","N","N"," "," ","ù¸¼nd´st·´m","MS",405
+"thunderstorm","WV11B!","306!","N","N"," "," ","ù¸¼nd´st·´m","MS",406
+"thunderstorm","WV12A","307","N","N"," "," ","åù¸nd´õst·´m","MS",407
+"electric storm","WV12B","308","O","N"," "," ","l²ktr±¿k$åst·´m","MS",408
+"thunderstorm","WV12B","308","N","N"," "," ","ù¸nd´st·´m","MS",408
+"thunderstorm","WV13A","309","N","N"," "," ","åù¸¼nd´õst·´m","MS",409
+"electric storm","WV13B","310","O","N"," "," ","l²ktr±¿k$st·´m","MS",410
+"electric storm","WV14A","311","O","N"," "," ","ì²ktr±¿k$st·´m","MS",411
+"thunderstorm","WV14A","311","N","N"," "," ","ù¸nd´st·´m","MS",411
+"thundershower","WV14B","312","N","N"," "," ","ù¸nd´óá½¹¿´","MS",412
+"thundershower","WV15A","313","N","N"," "," ","ù¸nd´óá½¹¿´","MS",413
+"thunderstorm","WV15A","313","N","N"," "," ","ù¸nd´st·´m","MS",413
+"thundershower","WV15B","314","N","N"," "," ","åù¸¼nd´õóá¹¿´","MS",414
+"thunderstorm","WV16A","315","N","N"," "," ","ù¸nd´stŞ´m","MS",415
+"electric storm","WV16B","316","O","N"," "," ","°ì²ktr±¿k$st·´m","MS",416
+"thunderstorm","WV16B","316","N","N"," "," ","ù¸¼nd´st·´m","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"electric storm","WV17B","317b","O","N"," "," ","ål²ktr±¿k$st·½´m","MS",418
+"thunderstorm","WV17B","317b","N","N"," "," ","ù¸nd´st·´m","MS",418
+"thunderstorm","WV17C","318","N","N"," "," ","ù¸¼nd´st·½´m","MS",419
+"thunderstorm","WV18A","319","N","N"," "," ","ù¸¼nd´st·´m","MS",420
+"electric storm","WV18B","320","O","N"," "," ","ål²ktr±¿k$õst·´m","MS",421
+"thunderstorm","WV18B","320","N","N"," "," ","ù¸nd´st·´m","MS",421
+"thunderstorm","WV19A","321","N","N"," "," ","ù¸nd´st·´m","MS",422
+"thunderstorm","WV19B","322","N","N"," "," ","åù¸¼nd´õst·´m","MS",423
+"thunderstorm","WV20A","323","N","N"," "," ","ù¸«¼nd´st·«rm","MS",424
+"thunderstorm","WV20B","324","N","N"," "," ","åù¸¼nd´õst·rm","MS",425
+"thunderstorm","WV21A","325","N","N"," "," ","ù¸¼nd´st·´m","MS",426
+"thundershower","WV21B","326","N","N"," "," ","åù¸¼nd´õóá¹¿´","MS",427
+"thunderstorm","WV22A","327","N","N"," "," ","ù¸nd´st·´m","MS",428
+"thunderstorm","WV22B","328","N","N"," "," ","ù¸¼nd´st·´m","MS",429
+"thunderstorm","WV23A","331","N","N"," "," ","ù¸nd´st·½´m","MS",430
+"thunderstorm","WV23B","332","N","N"," "," ","ù¸¼nd´st·´m","MS",431
+"thunderstorm","WV24A","335","N","N"," "," ","ù¸«¼d´st·´m","MS",432
+"electric storm","WV24B","336","O","N"," "," ","°ål²ktr±¿k$st·½´m","MS",433
+"thunderstorm","WV24B","336","N","N"," "," ","ù¸nd´st·½´m","MS",433
+"thunderstorm","WV25A","337","N","N"," "," ","ù¸nd´st·´m","MS",434
+"thunderstorm","WV25B","338","N","N"," "," ","ù¸¼nd´st·´m","MS",435
+"thunderstorm","WV26A","339","N","N"," "," ","åù¸¼nd´õst·´m","MS",436
+"thunderstorm","WV26B","340","N","N"," "," ","ù¸nd´st·½´m","MS",437
+"electric storm","WV27A","341","O","N"," "," ","l²«ktr±¿k$st·´m","MS",438
+"thunderstorm","WV27A","341","N","N"," "," ","ù¸¼nd´st·´m","MS",438
+"thunderstorm","WV27B","342","N","N"," "," ","ù¸ºnd´st·´m","MS",439
+"thunderstorm","WV28A","343","N","N"," "," ","ù¸nd´st·´m","MS",440
+"thunderstorm","WV28B","344","N","N"," "," ","ù¸¼nd´st·´m","MS",441
+"thunderstorm","WV29A","345","N","N"," "," ","ù¸¼nd´st·´m","MS",442
+"thunderstorm","WV29B","346","N","N"," "," ","ù¸¼nd´st·´m","MS",443
+"thundershower","WV30A","347","N","N"," "," ","åù¸¼nd´õóá¹¿´","MS",444
+"electric storm","WV30B","348","O","N"," "," ","±¿ål²ktr±¿k$õst·´m","MS",445
+"thunderstorm","WV30B","348","N","N"," "," ","ù¸¼nd´st·´m","MS",445
+"thunderstorm","WV31A","349","N","N"," "," ","ù¸¼nd´stŞ´m","MS",446
+"thunderstorm","WV31B","350","N","N"," "," ","åù¸¼nd´õst·º´m","MS",447
+"thundershower","WV32A","353","N","N"," "," ","ù¸¼nd´óáº¹¿´","MS",448
+"thunderstorm","WV32A","353","N","N","also wind"," ","ù¸¼nd´st·´m","MS",448
+"thundershower","WV32B","354","N","N"," "," ","ù¸¼nd´óá¹¿´","MS",449
+"thunderstorm","WV33A","355","N","N"," "," ","åù¸¼nd´õst·´m","MS",450
+"thunderstorm","WV33B","356","N","N"," "," ","åù¸¼nd´õst·´m","MS",451
+"thunderstorm","WV34A","359","N","N"," "," ","ù¸¼nd´stŞ¼´m","MS",452
+"thunderstorm","WV34B","360","N","N"," "," ","ù¸nd´stµ¾´m","MS",453
+"thunderstorm","WV35A","361","N","N"," "," ","ù¸nd´stŞ¼´m","MS",454
+"thunderstorm","WV35B","362","N","N"," "," ","ù¸¼nd´st·´m","MS",455
+"thunderstorm","WV36A","363","N","N"," "," ","åù¸¼nd´õst·´m","MS",456
+"thunderstorm","WV36B","364","N","N"," "," ","åù¸¼nd´õst·´m","MS",457
+"thunderstorm","WV37A","365","N","N"," "," ","ù¸¼nd´st·´m","MS",458
+"thunderstorm","WV37B!","366!","N","N"," "," ","ù¸¼nd´st·´m","MS",459
+"thunderstorm","WV38A","367","N","N"," "," ","åù¸¼nd´õst·½´m","MS",460
+"electric storm","WV38B","368","O","N"," "," ","l²«ktr±¿k$st·½º´m","MS",461
+"thunderstorm","WV38B","368","N","Y"," ","SUG","ù¸nd´st·½º´m","MS",461
+"thunderstorm","WV39A","369","N","N"," "," ","ù¸¼nd´st·´m","MS",462
+"thunderstorm","WV39B","370","N","N"," "," ","ù¸¼nd´st·½´m","MS",463
+"thunderstorm","WV39C!","371!","N","N"," "," ","õù¸¼nd´åst·´m","MS",464
+"electric storm","WV40A","373","O","N"," "," ","l²ktr±¿k$st·´m","MS",465
+"thunderstorm","WV40A","373","N","N"," "," ","ù¸¼nd´st·´m","MS",465
+"thundershower","WV40B","374","N","N"," "," ","ù¸¼nd´óá¹¿´","MS",466
+"thunderstorm","WV40B","374","N","N","wind"," ","ù¸¼nd´st·´m","MS",466
+"thunderstorm","WV41A","375","N","N"," "," ","åù¸«¼nd´õst·º´m","MS",467
+"electric storm","WV41B","376","O","N"," "," ","ål²«ktr±¿k$õst·½´m","MS",468
+"thunderstorm","WV41B","376","N","N"," "," ","åù¸¼nd´st·½´m","MS",468
+"thunderstorm","WV42A","377","N","N"," "," ","ù¸¼nd´st·´m","MS",469
+"electric storm","WV42B","378","O","N"," "," ","ål²ktr±¿k$õst·´m","MS",470
+"thunderstorm","WV42B","378","N","N"," "," ","ù¸¼nd´st·´m","MS",470
+"thunderstorm","WV43A","381","N","N"," "," ","ù¸¼nd´st·´m","MS",471
+"electric storm","WV43B","382","O","N"," "," ","l²ktr±¿k$st·´m","MS",472
+"thunderstorm","WV43B","382","N","N"," "," ","ù¸¼nd´st·´m","MS",472
+"thunderstorm","WV44A","383","N","N"," "," ","åù¸¼nd´õst·´m","MS",473
+"thunderstorm","WV44B","384","N","N"," "," ","ù¸nd´st·´m","MS",474
+"electric storm","WV45A","385","O","N"," "," ","ål²«ktr±¿k$õst·´m","MS",475
+"thunderstorm","WV45B","386","N","N"," "," ","ù¸¼nd´st·´m","MS",476
+"electric storm","WV45B","386","O","N"," "," ","°ål²ktr±¿k$st·´m","MS",476
+"electric storm","WV46A","387","O","N"," "," ","l²ktr±¿k$st·«rm","MS",477
+"thunderstorm","WV46A","387","N","N"," "," ","ù¸nd´st·«rm","MS",477
+"thunderstorm","WV46B","388","N","N"," "," ","ù¸¼nd´st·´m","MS",478
+"electric storm","WV47A","389","O","N"," "," ","ì²ktr±¿k$st·´m","MS",479
+"thunderstorm","WV47A","389","N","N"," "," ","ù¸nd´st·´m","MS",479
+"thunderstorm","WV47B","390","N","N"," "," ","ù¸nd´st·´m","MS",480
+"thunderstorm","WV48A","391","N","N"," "," ","ù¸¼nd´st·½rm","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"thunderstorm","WV48D","392b","N","N"," "," ","åù¸nd´õst·´m","MS",484
+"thundershower","WV49A","393","N","N"," "," ","ù¸¼nd´óá½¹´","MS",485
+"electric storm","WV49B","394","O","N"," "," ","l²ktr±¿k$st·´m","MS",486
+"thunderstorm","WV49B","394","N","N"," "," ","ù¸¼nd´st·´m","MS",486
+"thunderstorm","WV50A","395","N","N"," "," ","åù¸nd´õst·rm","MS",487
+"thunderstorm","WV50B","396","N","N"," "," ","åù¸nd´õst·´m","MS",488
+"thunderstorm","WV51A","261","N","N"," "," ","åù¸nd´õst·´m","MS",489
+"thunderstorm","WV51B","262","N","N"," "," ","åù¸nd´õst·«´m","MS",490
+"thunderstorm","WV52A","258","N","N"," "," ","åù¸nd´õst·«´m","MS",491
+"thunderstorm","WV52B","259","N","N"," "," ","ù¸İnd´st·´m","MS",492
+"thundershower","WV52C!","260!","N","N"," "," ","åù¸nd´õóa«º¹¿´","MS",493
+"thunderstorm","WV53A","257","N","N"," "," ","õù¸nd´åst·´m","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"thunderstorm","WV53C!","257c!","N","N"," "," ","åù¸«nd´õst·´m","MS",496
+"thunderstorm","WV54A","255","N","N"," "," ","ù¸nd´st·º{r}m","MS",497
+"thunderstorm","WV54B","256","N","N"," "," ","åù¸¼nd´st·«{°}m","MS",498
+"thunderstorm","DE1A","11","N","N"," "," ","ù¸nd´sto½´m","MS",499
+"thunder gust","DE1A","11","O","N"," "," ","ù¸nd´g¸st","MS",499
+"thunderstorm","DE1B","12","N","N"," "," ","ù¸¼nd´st·«´m","MS",500
+"thunder gust","DE1B","12","O","Y","of brief duration","SUG","ù¸¼nd´g¸st","MS",500
+"thunderstorm","DE1C!","13!","N","N"," "," ","ù¸nd´st·«´m","MS",501
+"thunder gust","DE1C!","13!","O","Y","with wind","SUG","ù¸nd´g¸st","MS",501
+"thunder gust","DE2A","15(*)","O","N"," "," ","ù¸nd´g¸{°}s{t}","MS",502
+"thunderstorm","DE2B","16","N","N"," "," ","ù¸nd´st·«´m","MS",503
+"thunder gust","DE2B","16","O","N"," "," ","ù¸nd´g¸st","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"thunder gust","DE3A","18","O","N"," "," ","ù¸nd´g¸«st","MS",505
+"thundershower","DE3A","18","N","N"," "," ","ù¸nd´óa«¹´","MS",505
+"thunderstorm","DE3B","19","N","N"," "," ","ù¸nd´st¶«´m","MS",506
+"thunder gust","DE3B","19","O","N"," "," ","ù¸nd´g¸s{t}","MS",506
+"thunderstorm","DE3C!","17!","N","N"," "," ","ù¸nd´st¶«º{°}m","MS",507
+"thundersquall","DE4","20","N","N"," "," ","ù¸nd´skw¶«ºì","MS",508
+"thundersquall","DE5A","21","N","N"," "," ","ù¸«nd´skw·½ºì","MS",509
+"thunderstorm","DE5B","22","N","N"," "," ","ù¸nd´st¶«´m","MS",510
+"thunder gust","DE5B","22","O","N"," "," ","ù¸nd´g¸st","MS",510
+"thunderstorm","DE6A","23","N","N"," "," ","ù¸«nd´st¶´m","MS",511
+"gust","DE6A","23","N","N"," "," ","g¸s{t}","MS",511
+"thunderstorm","DE6B","24","N","N"," "," ","ù¸nd´st¶«¼´m","MS",512
+"gust","DE6B","24","N","N"," "," ","g¸st","MS",512
+"gust","MD1A","27","N","N"," "," ","g¸«{°}s{t}","MS",513
+"thunder gust","MD1A","27","O","N"," "," ","ù¸«nd´g¸«{°}s{t}","MS",513
+"gust","MD1B","28","N","N"," "," ","g¸{°}st","MS",514
+"thunder gust","MD1B","28","O","N"," "," ","ù¸¼nd´g¸«{°}st","MS",514
+"thunder gust","MD2A","31a","O","N"," "," ","ù¸nd´g¸s{t}","MS",515
+"thunderstorm","MD2B","32","N","N"," "," ","ù¸¼nd´st·ºm","MS",516
+"thunder gust","MD2B","32","O","N"," "," ","ù¸¼nd´g¸¼st","MS",516
+"thunderstorm","MD3A","33","N","N"," "," ","ù¸¼nd´st¶«ºm","MS",517
+"thunder gust","MD3A","33","O","Y"," ","SUG","ù¸¼nd´g¸s","MS",517
+"thunderstorm","MD3B","34","N","N"," "," ","ù¸nd´st·´m","MS",518
+"thunder gust","MD3B","34","O","N"," "," ","ù¸nd´g¸¼{°}s","MS",518
+"thunderstorm","MD4A","35b","N","N"," "," ","ù¸nd´st¶«¼´m","MS",519
+"thunder gust","MD4A","35b","O","N"," "," ","ù¸nd´g¸«¼{°}st","MS",519
+"thunder gust","MD4B","35","O","N"," "," ","ù¸nd´g¸«{°}s{t}","MS",520
+"thunderstorm","MD4B","35","N","N"," "," ","ù¸nd´st¶«´m","MS",520
+"thunderstorm","MD4C","36","N","N"," "," ","ù¸«nd´st¶´m","MS",521
+"thunder gust","MD4C","36","O","Y"," ","NEW","ù¸«nd´g¸«¼{°}s{t}","MS",521
+"thundercloud","MD4C","36","N","N"," "," ","ù¸«nd´kl²½¾¹d","MS",521
+"gust","MD5A","37","N","N"," "," ","g¸st","MS",522
+"thunderstorm","MD5A","37","N","N"," "," ","ù¸¼nd´st¶«´m","MS",522
+"thunder gust","MD5A","37","O","N"," "," ","ù¸¼nd´$g¸st","MS",522
+"squall","MD5A","37","N","N","wind faster [than thunderstorm]"," ","skw·º{°}ì","MS",522
+"thunderstorm","MD5B","38","N","N"," "," ","ù¸nd´st¶«´m","MS",523
+"thundersquall","MD6A","39(*)","N","N"," "," ","ù¸¼nd´skw·½ºì","MS",524
+"thunderstorm","MD6A","39(*)","N","N"," "," ","ù¸¼nd´st¶«´m","MS",524
+"thunderstorm","MD6B","40","N","N"," "," ","ù¸«nd´st¶«´m","MS",525
+"thunder gust","MD6B","40","O","N"," "," ","ù¸«nd´g¸¼s{t}","MS",525
+"thundersquall","MD7A","41","N","N"," "," ","ù¸«nd´skw·½ºì","MS",526
+"thunderstorm","MD7A","41","N","N"," "," ","ù¸«nd´st¶«´m","MS",526
+"thunderstorm","MD7B","41b","N","N"," "," ","ù¸¼nd´st¶«´m","MS",527
+"thundersquall","MD7B","41b","N","N"," "," ","ù¸¼nd´skw·½ºì","MS",527
+"thunderstorm","MD7C!","42!","N","N"," "," ","ù¸nd´st¶«´m","MS",528
+"thundersquall","MD7C!","42!","N","N"," "," ","ù¸nd´skw·½ºì","MS",528
+"thundercloud","MD8A","43","N","N"," "," ","ù¸¼nd´klá½º¹d","MS",529
+"thundersquall","MD8B","44","N","N"," "," ","ù¸¼nd´skw·½ºì","MS",530
+"thunderstorm","MD8B","44","N","N"," "," ","ù¸¼nd´st¶«º´m","MS",530
+"thunderstorm","MD9N","N46","N","N"," "," ","ù¸«nd°st·½ºm","MS",531
+"thundersquall","MD9A","45","N","N","natural"," ","ù¸nd´skw¶«¼ºì","MS",532
+"thunderstorm","MD9A","45","N","Y"," ","NEW","ù¸nd´st¶”«¼´m","MS",532
+"thunder gust","MD9A","45","O","Y"," ","SUG","ù¸nd´g¸s{t}","MS",532
+"thundercloud","MD9B","46","N","N"," "," ","ù¸¼nd´kláº¹½d","MS",533
+"thunderstorm","MD9B","46","N","N"," "," ","ù¸¼nd´st¶«´m","MS",533
+"thunder gust","MD10A","49","O","N"," "," ","ù¸«nd´g¸«{°}st","MS",534
+"thunderstorm","MD10B","50","N","N"," "," ","ù¸«nd´sto½º´m","MS",535
+"thunder gust","MD10B","50","O","N"," "," ","ù¸«nd´g¸«s{t}","MS",535
+"thunder gust","MD11","51","O","N"," "," ","ù¸nd°g¸«s{t}","MS",536
+"thunderstorm","MD12A","52","N","N"," "," ","ù¸¼nd´st·º´m","MS",537
+"gust","MD12A","52","N","N"," "," ","g¸{°}st","MS",537
+"thunderstorm","MD12B","53","N","N"," "," ","ù¸«nd´st·«º{°}´m","MS",538
+"thunder gust","MD12B","53","O","Y"," ","OLD","ù¸«nd´g¸«s{t}","MS",538
+"thunderstorm","MD13A","54(*)","N","N"," "," ","ù¸¼ndest·«º{°}´m","MS",539
+"gust","MD13A","54(*)","N","N"," "," ","g¸¼{°}s{t}","MS",539
+"thunderstorm","MD13B","55","N","N"," "," ","ù¸ndest·«:{°«}m","MS",540
+"gust","MD13B","55","N","N","no thunder necessary"," ","g¸s{t}","MS",540
+"thunderstorm","MD13C","56","N","N"," "," ","ù¸¼nd´st·«º´m","MS",541
+"thunderstorm","MD13D!","57!","N","N"," "," ","ù¸«nd°st·:m","MS",542
+"thunder gust","MD13D!","57!","O","N"," "," ","ù¸«nd°g¸«¼{°}st","MS",542
+"thunderstorm","MD13E!","58!","N","N"," "," ","ù¸nd´st·ºm","MS",543
+"thunderstorm","MD13F!","59!","N","N"," "," ","ù¸«nd°st·«:{°}m","MS",544
+"gust","MD13F!","59!","N","Y","mother says","OLD","g¸«{°}st","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"thunder gust","MD14","61(*)","O","N"," "," ","ù¸«nd´g¸«{°}st","MS",546
+"thunderstorm","MD15A","62","N","N"," "," ","ù¸«¼nd°st·«º{°}m","MS",547
+"thunderstorm","MD15B","63","N","N"," "," ","ù¸«nd°st·º{°}m","MS",548
+"thunder gust","MD15B","63","O","N"," "," ","ù¸«nd°g¸«{°}s{t}","MS",548
+"thunder gust","MD16","64","O","N"," "," ","ù¸«{°}nd´g¸«¾st","MS",549
+"thunderstorm","MD17A","65","N","N"," "," ","ù¸«nd´st·´m","MS",550
+"thunder gust","MD17A","65","O","N"," "," ","ù¸«nd´g¸«st","MS",550
+"gust","MD17B","66","N","N"," "," ","g¸{°}s{t}","MS",551
+"thunderstorm","MD17B","66","N","N"," "," ","ù¸nd´st·«º´m","MS",551
+"right smart thunderstorm","MD18A","67","O","N"," "," ","ra«¾±¿t$smŞ:t$ù¸«nd°st·:m","MS",552
+"thunder gust","MD18A","67","O","N"," "," ","ù¸«nd°g¸«s{t}","MS",552
+"thunderstorm","MD18B","68","N","N"," "," ","ù¸«nd°st·º{°}m","MS",553
+"thunder gust","MD18B","68","O","N"," "," ","ù¸«nd°g¸«{°}s{t}","MS",553
+"thunderstorm","MD19A","69","N","N"," "," ","ù¸«nd°st·:m","MS",554
+"thunder gust","MD19A","69","O","N"," "," ","ù¸«nd°g¸«¼s{t}","MS",554
+"thunderstorm","MD19B","70","N","N"," "," ","ù¸«nd°st·:m","MS",555
+"thunder gust","MD19B","70","O","N"," "," ","ù¸«nd°g¸«{°}st","MS",555
+"thunderstorm","MD20A","71","N","N"," "," ","ù¸{°}nd°st·½º´m","MS",556
+"breakdown","MD20A","71","N","N","sudden change of wind (gale and cold)"," ","õbre±¿kådá«¹¿½n","MS",556
+"thunderstorm","MD20B","72","N","N"," "," ","ù¸«¼nd°stµm","MS",557
+"thunder gust","MD20B","72","O","Y","same [as `thunderstorm']","SUG","ù¸«¼nd°g¸«¼{°}st","MS",557
+"thunderstorm","MD20C!","73!","N","N"," "," ","ù¸nd´st·:m","MS",558
+"thundersquall","MD21A","75","N","N"," "," ","ù¸«nd°skwŞ«:ì","MS",559
+"thunderstorm","MD21B","76","N","N"," "," ","ù¸ş«¼nd°stµ¾m","MS",560
+"thundercloud","MD21B","76","N","N"," "," ","ù¸ş«¼nd°klá¹¿½d","MS",560
+"thundersquall","MD21B","76","N","N"," "," ","ù¸ş«¼nd°skw¶—:ì","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"gust","MD22M","N78","N","N"," "," ","g¸«s{t}","MS",562
+"thunder gust","MD22M","N78","O","N"," "," ","ù¸n{d}°g¸«s{t}","MS",562
+"thundersquall","MD22A","77","N","N","no wind"," ","ù¸nd°skw·«ºì","MS",563
+"thunderstorm","MD22A","77","N","N","wind"," ","ù¸nd°stŞ¼{°}m","MS",563
+"thundercloud","MD22A","77","N","N","heavy thunder, no wind"," ","ù¸nd°klá«¾¹d","MS",563
+"thunderstorm","MD22B","78","N","N"," "," ","ù¸nd°st·:m","MS",564
+"thunder gust","MD22B","78","O","N"," "," ","ù¸nd°g¸s{t}","MS",564
+"thunderstorm","MD22C!","79!","N","N"," "," ","ù¸«nd°st·:m","MS",565
+"thundercloud","MD22C!","79!","N","N"," "," ","ù¸«nd°klá½º¹d","MS",565
+"thunder gust","MD22C!","79!","O","N"," "," ","ù¸«nd°g¸«s{t}","MS",565
+"thunder gust","MD23A","80b","O","N"," "," ","ù¸«nd°g¸«s{t}","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"thunderstorm","MD23C","81","N","N"," "," ","ù¸«nd°st·½º{°}m","MS",568
+"thunder gust","MD23C","81","O","N"," "," ","ù¸«nd°g¸«{°}s{t}","MS",568
+"thunder gust","MD24","82","O","N"," "," ","ù¸«nd°g¸«s","MS",569
+"thunder gust","MD25","84","O","N"," "," ","ù¸«nd´g¸«{°}st","MS",570
+"thunderstorm","MD26A","83","N","N"," "," ","ù¸«¼nd´st¶«´m","MS",571
+"thunder gust","MD26A","83","O","N"," "," ","ù¸«¼nd´g¸«¼{°}s{t}","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"thunderstorm","MD27A","85","N","N"," "," ","ù¸nd´st·«´m","MS",573
+"thundershower","MD27B","86","N","N"," "," ","ù¸nd´óa¹´","MS",574
+"thunderstorm","DC1A","99","N","N"," "," ","ù¸nd°st·{°}m","MS",575
+"thunderstorm","DC1B!","100!","N","N"," "," ","ù¸«nd°st·:m","MS",576
+"thunderstorm","VA1!","101!","N","N"," "," ","ù¸¼nd°st¶İ¶—İ«m","MS",577
+"thundershower","VA2A","103","N","N"," "," ","ù¸nd°óáº¹½°","MS",578
+"thunderstorm","VA2A","103","N","N","greater, longer [than thundershower]"," ","ù¸nd°st·º{°}m","MS",578
+"thunder gust","VA2A","103","O","N","momentary"," ","ù¸nd°g¸{°}s{t}","MS",578
+"thundersquall","VA2B","104"," ","N"," "," ","ù¸«{°}ndeskw¶—«º{°}ì","MS",579
+"thunderstorm","VA2B","104","O","N"," "," ","ù¸«{°}nd°st¶«¼º{°}m","MS",579
+"thunderstorm","VA3A","105(*)","N","N"," "," ","ù¸—nd´st·´m","MS",580
+"thunderstorm","VA3B","106","N","N"," "," ","ù¸nd´st·«´m","MS",581
+"thundershower","VA3B","106","N","N","mild"," ","ù¸nd´óá½¹´","MS",581
+"thunder gust","VA3B","106","O","N"," "," ","ù¸nd´g¸{°}s{t}","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"thundercloud","VA4N","N109","N","N"," "," ","ù¸ş½¾nd°klá½¹d","MS",583
+"thunderstorm","VA5A","107","N","N"," "," ","ù¸«nd°st·«ºm","MS",584
+"thunderstorm","VA5B","108","N","N"," "," ","ù¸nd°st·½ºm","MS",585
+"thunderstorm","VA6A","113","N","N"," "," ","ù¸—«¼{°}nd°st·{·«}m","MS",586
+"thunderstorm","VA6B","114","N","N"," "," ","ù¸—«{°}nd°st·°m","MS",587
+"thunderstorm","VA7A","121","N","N"," "," ","ù¸nd°st·½ºm","MS",588
+"thunderstorm","VA7B","122","N","N"," "," ","ù¸—«nd°st·½º{·}m","MS",589
+"thundercloud","VA8A","123","N","N"," "," ","ù¸«nd°klá«¹d","MS",590
+"thunderstorm","VA8B","124","N","N"," "," ","ù¸{°}nd°st·”½¼{·}m","MS",591
+"thunderstorm","VA8C!","125!","N","N"," "," ","ù¸—{°}nd°st·½º{·}m","MS",592
+"thundershower","VA9A","117","N","N"," "," ","ù¸—«¼nd°óá¹°","MS",593
+"thunderstorm","VA9B!","118!","N","N"," "," ","ù¸—«¼nd°st·:m","MS",594
+"thundercloud","VA10A","127","N","N"," "," ","ù¸{°}nd°kláİ«¾¹İd","MS",595
+"thunderstorm","VA10B","128","N","N"," "," ","ù¸nd°st·½{·}{°}m","MS",596
+"thunderstorm","VA11A","129","N","N"," "," ","ù¸{°}nd°st¶«¼º{°}m","MS",597
+"thundercloud","VA11B","130","N","N"," "," ","ù¸{°}nd°klá«¹«d","MS",598
+"thundercloud","VA12N","N131","N","N"," "," ","ù¸nd°klµ«¾¹d","MS",599
+"thundercloud","VA12A","131","N","N"," "," ","ù¸nd°kl²½¾¹d","MS",600
+"thunder gust","VA12A","131","O","N","severe"," ","ù¸nd°g¸{°}s{t}","MS",600
+"thunderstorm","VA12B!","132!","N","N"," "," ","ù¸—«nd°st·½º{·ş}m","MS",601
+"thunderstorm","VA13A","133","N","N"," "," ","ù¸{°}nd°st¶—«m","MS",602
+"thunderstorm","VA13B","134","N","N"," "," ","ù¸nd°st·½¼º{·}m","MS",603
+"thundercloud","VA14A","135","N","N"," "," ","ù¸«{°}nd°kl²¾¹«¼d","MS",604
+"thunderstorm","VA14A","135","N","N"," "," ","ù¸«{°}nd°st·½ºm","MS",604
+"thunderstorm","VA14B","136","N","N"," "," ","ù¸nd°st¶¼¶«¼m","MS",605
+"thundercloud","VA14B","136","N","N"," "," ","ù¸nd°kláº¹d","MS",605
+"thunderstorm","VA14C","137","N","N"," "," ","ù¸{°}nd°st¶¼¶—«m","MS",606
+"gust","VA14C","137","N","N","severe blow"," ","g¸{°}s{t}","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"thunderstorm","VA15A","139","N","N"," "," ","ù¸nd°st·½º{·}m","MS",608
+"thunderstorm","VA15B","140","N","N"," "," ","ù¸—¾nd°st·ºm","MS",609
+"thunderstorm","VA16A","141","N","N"," "," ","ù¸¼nd°st·½ºm","MS",610
+"thundersquall","VA16A","141","N","N"," "," ","ù¸¼nd°skw·½ºì","MS",610
+"thunderstorm","VA16B","142","N","N"," "," ","ù¸nd°st·½º{·}m","MS",611
+"thunderstorm","VA17A","143","N","N"," "," ","ù¸ş«{°ş}nd°st·”½¾ºm","MS",612
+"thunderstorm","VA17A","143","N","N"," "," ","ù¸ş«{°ş}nd°st·½¾m","MS",612
+"thunderstorm","VA17B","144","N","N"," "," ","ù¸ş«{°ş}nd°st·º{·ş«}m","MS",613
+"thunderstorm","VA18","145","N","N"," "," ","ù¸«{°}nd°stµ«¾{°}m","MS",614
+"thundershower","VA19A","146","N","N"," "," ","ù¸«{°}nd°óá¾¹¼{°}","MS",615
+"thunderstorm","VA19A","146","N","N"," "," ","ù¸«{°}nd°st·—«:m","MS",615
+"thundersquall","VA19A","146","N","N","mostly"," ","ù¸«{°}nd°skw·—«:ì","MS",615
+"thunderstorm","VA19B","147","N","N"," "," ","ù¸ş¾{°ş}nd°st¶¼¶«m","MS",616
+"thundercloud","VA19C!","148!","N","N"," "," ","ù¸ş«{°ş}nd°kl°½¼¹¼d","MS",617
+"thundercloud","VA20A","149","N","N"," "," ","ù¸«nd°kla¾º¹d","MS",618
+"thunderstorm","VA20B","150(*)","N","N"," "," ","ù¸nd°st·½ºm","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"thunderstorm","VA21N","N153","N","N"," "," ","ù¸nd°st·ºm","MS",621
+"thundercloud","VA21N","N153","N","N"," "," ","ù¸nd°kl¥¹«d","MS",621
+"thunderstorm","VA21A","153","N","N"," "," ","ù¸nd°st·½º{·}m","MS",622
+"thunderstorm","VA21B","154","N","N"," "," ","ù¸{°}n{d}°st·½ºm","MS",623
+"thunderstorm","VA22","155","N","N"," "," ","ù¸{°}nd°st¶”«¼º{¶«}m","MS",624
+"thundershower","VA23A","156","N","N"," "," ","ù¸{°}nd°óá½¾ºw°","MS",625
+"thundercloud","VA23B","157","N","N"," "," ","ù¸—nd°klá«¾¹¼d","MS",626
+"thunderstorm","VA23B","157","N","N","severer [than thundercloud]"," ","ù¸—nd°st¶«¼ºm","MS",626
+"thunderstorm","VA24","159","N","N"," "," ","ù¸«{°}nd°st·½{·}m","MS",627
+"thunderstorm","VA25","160(*)","N","N"," "," ","ù¸nd{°}´st·´m","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"thunderstorm","VA26B","161","N","N"," "," ","ù¸nd´st¶«´m","MS",630
+"thundersquall","VA26B","161","N","N","common term"," ","ù¸nd´skw¶«º{°}ì","MS",630
+"thunderstorm","VA26C","162","N","N","long"," ","ù¸nd°st¶«¼º{°}m","MS",631
+"squall","VA26C","162","N","N"," ","CNV","skw¶«¼º{°}ì","MS",631
+"thundercloud","VA27","163(*)","N","N"," "," ","ù¸nd´klá½¾¹«¼d","MS",632
+"thundersquall","VA28A","164","N","N"," "," ","ù¸«nd°skw¶—«ºì","MS",633
+"thundercloud","VA28B","165","N","N"," "," ","ù¸nd°klá«¹¼d","MS",634
+"thunderstorm","VA28B","165","N","N"," "," ","ù¸nd°stµ—¾º{°}m","MS",634
+"thundersquall","VA28B","165","N","N","quick, short"," ","ù¸nd°skw¶«ºì","MS",634
+"thunderstorm","VA29","166","N","N"," "," ","ù¸«nd°stŞ«¼{°}m","MS",635
+"thunderstorm","VA30A","167","N","N"," "," ","ù¸«{°}nd°st·½º{°}m","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"thunderstorm","VA30C!","168!","N","N"," "," ","ù¸nd°st¶«¼º{°}m","MS",638
+"thunderstorm","VA30D!","169!","N","N"," "," ","ù¸«{°}nd°st¶«º{°}{·½}m","MS",639
+"thunderstorm","VA30E!","170!","N","N"," "," ","ù¸{°}nd°st¶«{·½}m","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"thunderstorm","VA31B","172","N","N"," "," ","ù¸{°}nd°st·½ºm","MS",642
+"thunderstorm","VA31C"," ","N","N"," "," ","ù¸{°}nd°st¶«{·½}m","MS",643
+"thunderstorm","VA32!","175!","N","N"," "," ","ù¸¼{°}nd°st¶«¼º{¶«}m","MS",644
+"thunderstorm","VA33A","173","N","N"," "," ","ù¸nd°st¶”«¼{¶«}m","MS",645
+"thunderstorm","VA33B","174","N","N"," "," ","ù¸{°}nd°st¶«¼{¶«}m","MS",646
+"thunderstorm","VA34A","177(*)","N","N"," "," ","ù¸nd°st¶«º{·½}m","MS",647
+"thundercloud","VA34A","177(*)","N","N","rare"," ","ù¸nd°kl°¹d","MS",647
+"thundercloud","VA34B","178","N","N"," "," ","ù¸—{°}nd°kl²İ¾¹«d","MS",648
+"thundercloud","VA34B","178","N","N"," "," ","ù¸—{°}nd°kl°¼¹«d","MS",648
+"thundercloud","VA35A","179","N","N"," "," ","ù¸şnd°kl¥¼¹«d","MS",649
+"thunderstorm","VA35A","179","N","N","rare"," ","ù¸şnd°stµ«¾{°}m","MS",649
+"thunderstorm","VA35B","180","N","N"," "," ","ù¸ş«{°ş}nd°st¶«¼{¶«}m","MS",650
+"thundercloud","VA35B","180","N","N"," "," ","ù¸ş«{°ş}nd°klá«¾¹«d","MS",650
+"thunderstorm","VA35B","180","N","Y"," ","OLD","ù¸ş«{°ş}nd°stµ«¾{°}m","MS",650
+"thunderstorm","VA36A","181","N","N","worse [than thundercloud]"," ","ù¸«nd°st·½{·}m","MS",651
+"thundercloud","VA36A","181","N","N"," "," ","ù¸«nd°kl¥¼¹«d","MS",651
+"thunderstorm","VA36B","182","N","N","worse [than thundercloud]"," ","ù¸ş«{°ş}nd°st·½ºm","MS",652
+"thundercloud","VA36B","182","N","N"," "," ","ù¸ş«{°ş}nd°kláº¹½¼d","MS",652
+"thunderstorm","VA37","183","N","N"," "," ","ù¸«{°}nd°stŞ«¼{°}m","MS",653
+"thunderstorm","VA38","185","N","N"," "," ","ù¸¾nd°stŞ¼{¶«¼}m","MS",654
+"thunderstorm","VA39!","186!","N","N"," "," ","ù¸ş«{°ş}nd°st¶¼¶«m","MS",655
+"thunderstorm","VA40A","187","N","N"," "," ","ù¸ş«¾{°ş}nd´st·º´m","MS",656
+"thunderstorm","VA40B","188","N","N"," "," ","ù¸şnd°st·´m","MS",657
+"thundercloud","VA41A","191","N","N"," "," ","ù¸{°}nd°kl°¼¹«d","MS",658
+"thundercloud","VA41B","192","N","N","same [as `thunderstorm']"," ","ù¸{°}nd°klá«¹d","MS",659
+"thunderstorm","VA41B","192","N","N","same [as `thundercloud']"," ","ù¸{°}nd°st¶«¼º{°}m","MS",659
+"thundercloud","VA42A","193(*)(**)","N","N"," "," ","ù¸nd°klá¾¹d","MS",660
+"thunderstorm","VA42A","193(*)(**)","N","N","no rain"," ","ù¸nd°st·½ºm","MS",660
+"thunderstorm","VA42B","194","N","N"," "," ","ù¸nd°st·½º{·}m","MS",661
+"thunderstorm","VA43N","N195","N","N"," "," ","ù¸¾nd°st·:m","MS",662
+"thunderstorm","VA43A","195","N","N"," "," ","ù¸¾{°}nd°st·½ºm","MS",663
+"thundercloud","VA43A","195","N","Y"," ","SUG","ù¸¾{°}nd°kl°½¹«d","MS",663
+"thunderstorm","VA43B","196","N","N"," "," ","ù¸{°}nd°st¶«¼{°}m","MS",664
+"thundercloud","VA43B","196","N","N"," "," ","ù¸{°}nd{°}kl°¹«d","MS",664
+"thunderstorm","VA44A","199","N","N"," "," ","ù¸nd°st·½{·}m","MS",665
+"cloud","VA44A","199","N","N","= a rain"," ","klá¹«¼d","MS",665
+"thundercloud","VA44B","200","N","N"," "," ","ù¸nd°klá«¹d","MS",666
+"thunderstorm","VA45A","201","N","N"," "," ","ù¸«nd°st¶«º{·½}m","MS",667
+"thundercloud","VA45A","201","N","N"," "," ","ù¸«nd°klá¹¿d","MS",667
+"thundercloud","VA45B","202","N","N"," "," ","ù¸nd°kl°¼u”¼d","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"thunderstorm","VA46A","207","N","N"," "," ","ù¸«nd°st·½º{·}m","MS",670
+"thunderstorm","VA46B!","208!","N","N"," "," ","ù¸¼{°}nd°st·½º{·}m","MS",671
+"thundercloud","VA47","211","N","N"," "," ","ù¸nd°kl²İ½¾¹«d","MS",672
+"thundershower","VA48A","213(*)","N","N"," "," ","ù¸«¼{°}nd°óá{¹¿}{°}","MS",673
+"thunderstorm","VA48B","214","N","N"," "," ","ù¸—¼{°}nd°st·½{·—½}m","MS",674
+"thundercloud","VA49A","215","N","N"," "," ","ù¸¼nd°klá«¹d","MS",675
+"thundercloud","VA49B","216","N","N","less rain"," ","ù¸—«¼{°}nd°kláº¹¿«d","MS",676
+"thunderstorm","VA49B","216","N","N"," "," ","ù¸—«¼{°}nd°st·½{·}m","MS",676
+"thunderstorm","VA50A","217","N","N"," "," ","ù¸«nd°st¶«·½m","MS",677
+"thundercloud","VA50A","217","N","N"," "," ","ù¸«nd°kl¥¼¹«d","MS",677
+"thunderstorm","VA50B","218","N","N"," "," ","ù¸«{°}nd°st¶«·½m","MS",678
+"thundercloud","VA50B","218","N","N","no rain"," ","ù¸«{°}nd°kláº¹½d","MS",678
+"thundercloud","VA51A","219","N","N"," "," ","ù¸—{°}nd°kl¥½¼¹d","MS",679
+"thundercloud","VA51B","220(*)","N","N"," "," ","ù¸«{°}nd°kláİ«¾¹«¼d","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"thunderstorm","VA52A","224","N","N"," "," ","ù¸«¼nd´st·«´m","MS",682
+"thunderstorm","VA52B","225","N","N"," "," ","ù¸«nd´st·¼´m","MS",683
+"thunderstorm","VA52C!","226!","N","N"," "," ","ù¸{°}nd°st·½º{°}m","MS",684
+"thundershower","VA53A","227","N","N"," "," ","ù¸«nd´óµºö´","MS",685
+"thunderstorm","VA53B","228","N","N","wind"," ","ù¸«¼nd´st·«¼´m","MS",686
+"thundershower","VA53B","228","N","N","no wind"," ","ù¸«¼nd´óa«º{¹¿½}´","MS",686
+"thunderstorm","VA54A","229","N","N"," "," ","ù¸«nd´st·«´m","MS",687
+"thunder gust","VA54A","229","O","N"," "," ","ù¸«nd´g¸«{°}s{t}","MS",687
+"thunderstorm","VA54B","230","N","N"," "," ","ù¸—«nd°«st·°m","MS",688
+"thunderstorm","VA55A","233(*)","N","N"," "," ","ù¸«n{d}´st·´m","MS",689
+"thundershower","VA55B","234(*)","N","N"," "," ","ù¸nd´óá¹´","MS",690
+"thundershower","VA56A","237","N","N"," "," ","ù¸ş¼nd´óá¹´","MS",691
+"thunderstorm","VA56B","238","N","N"," "," ","ù¸n{d}´st·´m","MS",692
+"thundershower","VA57A","239","N","N"," "," ","ù¸nd´óa«¹¿´","MS",693
+"thunderstorm","VA57B","240","N","N"," "," ","ù¸nd°st¶«{·½}m","MS",694
+"thunderstorm","VA58","241(*)","N","N"," "," ","ù¸—«nd°st·şºm","MS",695
+"thundercloud","VA58","241(*)","N","N","smaller [than thunderstorm]"," ","ù¸—«nd°klá¾¹d","MS",695
+"thundershower","VA59N","N241","N","N"," "," ","ù¸şnd°óa«¹{°}","MS",696
+"thunder gust","VA59N","N241","O","N"," "," ","ù¸şnd°g³s","MS",696
+"thunderstorm","VA59A","242","N","N"," "," ","ù¸«nd°st·½º{·}m","MS",697
+"thunderstorm","VA59B!","243!","N","N"," "," ","ù¸nd°st·½º{·}m","MS",698
+"thunderstorm","VA60","244(*)","N","N"," "," ","ù¸nd´st·½´m","MS",699
+"thunderstorm","VA61A","245(*)","N","N"," "," ","ù¸nd´st¶«¼{°}{r}m","MS",700
+"thunder gust","VA61A","245(*)","O","N"," "," ","ù¸nd´g¸st","MS",700
+"thunderstorm","VA61B!","246!","N","N"," "," ","ù¸nd°st·º°m","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"thundercloud","VA62A","247(*)","N","N"," "," ","ù¸—«{°}nd°kla«¾¹d","MS",703
+"thunderstorm","VA62A","247(*)","N","N"," "," ","ù¸—«{°}nd°st·½·m","MS",703
+"thunderstorm","VA62B","248","N","N"," "," ","ù¸«¼{°}nd°st·½ºm","MS",704
+"thunderstorm","VA63A","251","N","N"," "," ","ù¸«nd´st·½º´m","MS",705
+"thundershower","VA63A","251","N","N"," "," ","ù¸«nd´óa«º¹´","MS",705
+"thundershower","VA63B","252","N","N"," "," ","ù¸«nd´óá½º¹´","MS",706
+"thundershower","VA64A","255","N","N"," "," ","ù¸«¼{°}n{d}°óá¹°","MS",707
+"thundercloud","VA64B","256","N","N"," "," ","ù{°}¸nd°kláº¹¿d","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"thunderstorm","VA65B","258","N","N"," "," ","ù¸şnd´st·º{r}m","MS",710
+"thunderstorm","VA65C!","259!","N","N"," "," ","ù¸«¼nd°st·½¼ºm","MS",711
+"thunderstorm","VA66A","261","N","N"," "," ","ù¸«¼{°}nd°st·½¼º{·½}m","MS",712
+"thunderstorm","VA66B","262","N","N"," "," ","ù¸—«¼{°}nd°st·½ºm","MS",713
+"thunderstorm","VA67A","267","N","N"," "," ","ù¸«¼{°}nd´st·º´m","MS",714
+"thunderstorm","VA67B","268","N","N"," "," ","ù¸«¼{°}nd´st·´«m","MS",715
+"thunderstorm","VA68A","269","N","N"," "," ","ù¸«¼{°}nd´st·º´m","MS",716
+"thunderstorm","VA68B","270","N","N"," "," ","ù¸«¼{°}nd°st·º°m","MS",717
+"thundercloud","VA69A","273","N","N"," "," ","ù¸{°}nd°kláº¹¿d","MS",718
+"thunderstorm","VA69B","274","N","N"," "," ","ù¸—¼nd°st¶«{·½}m","MS",719
+"thundercloud","VA69B","274","N","N"," "," ","ù¸—¼nd°klá«¹d","MS",719
+"thunderstorm","VA70A","275","N","N"," "," ","ù¸ş«nd°st·{°}rm","MS",720
+"thunderstorm","VA70B","276","N","N"," "," ","ù¸«{°}nd´st·´m","MS",721
+"thunderstorm","VA71A","285","N","N"," "," ","ù¸«¼{°}nd°st·º´m","MS",722
+"thunderstorm","VA71B","286","N","N"," "," ","ù¸«º{°}nd°st·º´m","MS",723
+"thunderstorm","VA72A","287","N","N"," "," ","ù³{°}nd´st·{°}´{´«}m","MS",724
+"thunderstorm","VA72B","288","N","N"," "," ","ù³º{°}nd´st·´m","MS",725
+"thunderstorm","VA73","291","N","N"," "," ","ù¸«{°}nd´st·º´m","MS",726
+"thundershower","VA74A","293","N","N"," "," ","ù³{°}nd°óá¹´","MS",727
+"thunderstorm","VA74A","293","N","N","heavier [than thundershower]"," ","ù³{°}nd°st·º°m","MS",727
+"thunderstorm","VA74B!","294!","N","N"," "," ","ù¸«{°}nd°st¶«º{·½}m","MS",728
+"thunderstorm","VA75A","297","N","N"," "," ","ù³{°}nd´st·´m","MS",729
+"thunderstorm","VA75B","298","N","N"," "," ","ù³{°}nd°st·º´m","MS",730
+"thundersquall","NC1","303","N","N"," "," ","ù¸{°}nd´skw¶«¼º{·½}ì","MS",731
+"thundersquall","NC2A","301","N","N"," "," ","ù¸«nd´skw·«ºì","MS",732
+"thundercloud","NC2A","301","N","N"," "," ","ù¸«nd´kl²½¾¹d","MS",732
+"thunderstorm","NC2B","304","N","N"," "," ","ù¸«nd°st·´m","MS",733
+"thundersquall","NC3A","305","N","N"," "," ","ù¸«nd°sk{w}·—:ì","MS",734
+"thunderstorm","NC3B","306","N","N"," "," ","ù¸nd´st·º´m","MS",735
+"thunderstorm","NC4A","307","N","N"," "," ","ù¸¾nd°stŞ«¼m","MS",736
+"gusts","NC4A","307","V","Y","= blows","INA","g¸s{t}±¿z","MS",736
+"thunderstorm","NC4B","308","N","N"," "," ","ù¸ş{°ş}nd°st·½·m","MS",737
+"thundercloud","NC4B","308","N","N"," "," ","ù¸ş{°ş}nd°kl¥«¼¹«¼d","MS",737
+"thunderstorm","NC5A","309","N","N","cf. ""torment¢"," ","ù¸«nd°stµ«¾°m","MS",738
+"torment","NC5A","309","V","Y"," ","INA","åtµ«¾°õm²«{°}nt","MS",738
+"thunderstorm","NC5B","310","N","N"," "," ","ù¸nd°st·°m","MS",739
+"thunderstorm","NC5B","310","N","Y"," ","SUG/OLD","ù¸nd°stµ«{°}m","MS",739
+"thunderstorm","NC6!","311!","N","N"," "," ","ù¸—«{°}nd°st·½¼·m","MS",740
+"thunderstorm","NC7A","315(*)","N","N"," "," ","ù¸«nd°st·½º{·}m","MS",741
+"thunderstorm","NC7B","316","N","N"," "," ","ù¸ş{°ş}nd°st·º{°}m","MS",742
+"thundercloud","NC7B","316","N","N"," "," ","ù¸ş{°ş}nd°klá¹¿«d","MS",742
+"thunderstorm","NC8N","N317","N","N"," "," ","ù¸«nd°stµ{°}m","MS",743
+"thundercloud","NC8N","N317","N","N"," "," ","ù¸«nd°kla¼º¹«d","MS",743
+"thundercloud","NC8A","317","N","N"," "," ","ù¸nd´klá«¾¹«d","MS",744
+"thunderstorm","NC8B","318(*)","N","N"," "," ","ù¸nd°st·½¼°m","MS",745
+"thundercloud","NC8B","318(*)","N","Y"," ","OLD","ù¸nd°kláº¹«d","MS",745
+"thundersquall","NC8B","318(*)","N","Y"," ","OLD","ù¸nd°skw·½·ì","MS",745
+"thundersquall","NC9A","319","N","N"," "," ","ù¸—«{°}nd°sk{w}·:ì","MS",746
+"thunderstorm","NC9B","320","N","N"," "," ","ù¸«nd°st·º{°}m","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"thundersquall","NC10B","323","N","N"," "," ","ù³nd´skö·—:ì","MS",749
+"thunderstorm","NC10C","322","N","N"," "," ","ù¸ş«ºnd´st·«º´m","MS",750
+"thunderstorm","NC11A","325","N","N"," "," ","ù¸{°}nd´st·´m","MS",751
+"thundersquall","NC11A","325","N","N","natural"," ","ù¸{°}nd´skw·½ºì","MS",751
+"thunderstorm","NC11B","326","N","N"," "," ","ù¸nd´st·º´m","MS",752
+"thundersquall","NC11B","326","N","N"," "," ","ù¸nd´skw·ºì","MS",752
+"thundercloud","NC12A","327(*)","N","N","no wind"," ","ù¸ş«nd´klá½º¹¼d","MS",753
+"thunderstorm","NC12A","327(*)","N","N"," "," ","ù¸ş«nd´st·´m","MS",753
+"thunderstorm","NC12B","328","N","N"," "," ","ù¸—{°}nd°st·½¼·m","MS",754
+"thundersquall","NC13A","329","N","N"," "," ","ù¸ş{°ş}nd´skw·ºì","MS",755
+"thundersquall","NC13B","330(*)","N","N"," "," ","ù¸şº{°ş}nd´skw·½ºì","MS",756
+"thunderstorm","NC14N","N331","N","N"," "," ","ù¸«nd°st·½º{°}m","MS",757
+"thunderstorm","NC14A","331","N","N","wind with it"," ","ù¸nd°st·º°m","MS",758
+"thundersquall","NC14A","331","N","N"," "," ","ù¸nd°skw·½ºì","MS",758
+"thunderstorm","NC14B","332","N","N"," "," ","ù¸«nd°st·½ºm","MS",759
+"thundercloud","NC14B","332","N","Y","quicker [than thunderstorm]","SUG","ù¸«nd°kla«¹d","MS",759
+"squall","NC14B","332","N","N","no wind necessary"," ","skw·½ºì","MS",759
+"thunderstorm","NC14C!","333!","N","N"," "," ","ù¸şnd°st¶«º·½m","MS",760
+"thundersquall","NC14C!","333!","N","N"," "," ","ù¸şnd°skö¶«·½ì","MS",760
+"thundercloud","NC15A","335(*)","N","N"," "," ","ù¸—ş«{°ş}nd°kláº¹«¼d","MS",761
+"thundersquall","NC15A","335(*)","N","N"," "," ","ù¸—ş{°ş}nd°skw··«ì","MS",761
+"thundersquall","NC15B","336","N","N"," "," ","ù¸şnd°skw·ºì","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"thundercloud","NC16A","339(*)","N","N"," "," ","ù¸ş{°ş}nd°kláº¹¿½d","MS",764
+"thundercloud","NC16B","340","N","N"," "," ","ù¸ş{°ş}nd´kláº¹¿½d","MS",765
+"thunderstorm","NC16B","340","N","N"," "," ","ù¸ş{°ş}nd´st·º´m","MS",765
+"thunderstorm","NC17A","337","N","N"," "," ","ù¸—ş«{°ş}nd°st·º{´}m","MS",766
+"thundercloud","NC17A","337","N","Y"," ","SUG","ù¸ş«{°ş}nd°kláº¹¿½d","MS",766
+"thunderstorm","NC17B","338","N","N"," "," ","ù¸{°ş}nd°stŞ«¼{°}m","MS",767
+"thundercloud","NC18A","341","N","N"," "," ","ù¸«nd°klá½º¹«d","MS",768
+"thundercloud","NC18B","342","N","N"," "," ","ù¸nd°klá½º¹d","MS",769
+"thunderstorm","NC18B","342","N","N"," "," ","ù¸nd°stµ«¾{°}m","MS",769
+"thunderstorm","NC19A","343","N","N"," "," ","ù¸ş{°ş}nd´st·½´m","MS",770
+"thundercloud","NC19A","343","N","N"," "," ","ù¸ş{°ş}nd´tlá½º¹d","MS",770
+"thunderstorm","NC19B","344","N","N"," "," ","ù¸«{°}nd°stŞ{°}m","MS",771
+"thundersquall","NC20A","345","N","N"," "," ","ù¸nd´skw·½ºì","MS",772
+"thundersquall","NC20B","346a","N","N"," "," ","ù¸nd´skw¶«ºì","MS",773
+"thunderstorm","NC20C","346b","N","N"," "," ","ù¸nd´st·º´m","MS",774
+"thundersquall","NC20C","346b","N","N"," "," ","ù¸nd´skw·½ºì","MS",774
+"thundercloud","NC21A","347","N","N"," "," ","ù¸«nd´klá«º¹«d","MS",775
+"thunderstorm","NC21B","348","N","N"," "," ","ù¸şnd´st·º´m","MS",776
+"thundercloud","NC21B","348","N","N"," "," ","ù¸şnd´klá«¾¹«d","MS",776
+"thunderstorm","NC22A","349","N","N"," "," ","ù¸«nd°st·ºm","MS",777
+"thundercloud","NC22B","349b","N","N"," "," ","ù¸nd°kláº¹d","MS",778
+"thundersquall","NC23A","351a","N","N","severer [than thundercloud]"," ","ù¸nd°skw·½ºì","MS",779
+"thundercloud","NC23A","351a","N","N"," "," ","ù¸nd°klá½¾¹«d","MS",779
+"thundercloud","NC23B","351b(*)","N","N"," "," ","ù¸ş½ºnd°klá¾º¹¿d","MS",780
+"thunderstorm","NC23C!","351c!","N","N"," "," ","ù¸nd°st·½·m","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"thundercloud","NC24N","N352","N","N"," "," ","ù¸nd°kl¥½¹¾d","MS",783
+"thundercloud","NC24A","352a","N","N"," "," ","ù¸«nd´kla«¹d","MS",784
+"thundercloud","NC24B","352b","N","N"," "," ","ù¸nd´klá½¾¹«d","MS",785
+"thunderstorm","NC25N","N353","N","N"," "," ","ù¦nd°stŞº{°}m","MS",786
+"thundershower","NC25N","N353","N","N"," "," ","ù¦nd°óa¾ºâ°","MS",786
+"thunderstorm","NC25A","353","N","N"," "," ","ù¸«nd´st·´m","MS",787
+"thundercloud","NC25A","353","N","N"," "," ","ù¸«nd´klaº¹«d","MS",787
+"thunderstorm","NC25B","354","N","N"," "," ","ù¸«nd°st·ºm","MS",788
+"thundercloud","NC26A","355a","N","N"," "," ","ù¸«nd°kláº¹«¼d","MS",789
+"thunderstorm","NC26B","355b","N","N"," "," ","ù¸—¾nd°st·½º{°}m","MS",790
+"thunderstorm","NC26C!","356!","N","N"," "," ","ù¸nd°st··«m","MS",791
+"thunderstorm","NC27A","357","N","N"," "," ","ù¸«¼nd´st·´m","MS",792
+"thundercloud","NC27A","357","N","N"," "," ","ù¸«¼nd°kìa¾¹d","MS",792
+"thundercloud","NC27B","358","N","N"," "," ","ù¸«nd´klá½¹«¼d","MS",793
+"thundercloud","NC28A","361","N","N"," "," ","ù¸«nd´klaº¹d","MS",794
+"thundercloud","NC28B","361b","N","N"," "," ","ù¸«nd´klá½¹«¼d","MS",795
+"thundercloud","NC28C","362","N","N"," "," ","ù¸«nd´klá½º¹¿d","MS",796
+"thundercloud","NC29A","363(*)","N","N","usual term"," ","ù¸«ºnd°klaº¹d","MS",797
+"thunderstorm","NC29A","363(*)","N","N","if with wind"," ","ù¸«ºnd°st·º°m","MS",797
+"thundercloud","NC29B","364","N","N"," "," ","ù¸«nd´kla«º¹¿½d","MS",798
+"thundercloud","NC30A","365","N","N"," "," ","ù¸nd°kl¥½¼¹«d","MS",799
+"bad cloud","NC30A","365","O","N"," "," ","õbáº{°}d$åkl¥½¼¹«d","MS",799
+"thunderstorm","NC30B","366","N","N"," "," ","ù¸—«{°}nd°stŞ«¼{°}m","MS",800
+"thunderstorm","NC31A","367","N","N"," "," ","ù³nd°stŞ«¼{°}m","MS",801
+"thunderstorm","NC31B","368","N","N"," "," ","ù¸«nd°st·”½·m","MS",802
+"thunderstorm","NC31B","368","N","Y"," ","OLD","ù¸«nd°stŞ«¼{°}m","MS",802
+"gust","NC31B","368","N","N","two or three days rain"," ","g³¾{°}s{t}","MS",802
+"thundercloud","NC32A","369","N","N"," "," ","ù¸«nd°klá½º¹½d","MS",803
+"thunderstorm","NC32A","369","N","N","with wind"," ","ù¸«nd°stµ«¾°m","MS",803
+"thunderstorm","NC32B!","370!","N","N"," "," ","ù¸—ş«nd°stŞ«·½m","MS",804
+"thunderstorm","NC33A","373","N","N"," "," ","ù¸¼ºnd°st·º´m","MS",805
+"thunderstorm","NC33B","374","N","N"," "," ","ù³½¾n{d}°st·º{°}m","MS",806
+"thundercloud","NC33B","374","N","N","mostly"," ","ù³½¾n{d}°kláº¹¿d","MS",806
+"thunderstorm","NC34A","375","N","N"," "," ","ù¸ş«nd´st·º´m","MS",807
+"thunderstorm","NC34B","376","N","N"," "," ","ù¸—ş«{°ş}nd°stŞ«¼{°}m","MS",808
+"thunderstorm","NC34B","376","N","N"," "," ","ù¸—ş«{°ş}nd°stµ«¾{°}m","MS",808
+"thunderstorm","NC35A","377","N","N"," "," ","ù¸«nd°st·ºm","MS",809
+"thundercloud","NC35B","378","N","N"," "," ","ù³nd°kláº¹¿d","MS",810
+"thunderstorm","NC36N","N381","N","N"," "," ","ù¸nd°st·½ºm","MS",811
+"thundercloud","NC36N","N381","N","N"," "," ","ù¸nd°klµ«¹d","MS",811
+"thunderstorm","NC36A","381","N","N"," "," ","ù¸nd°{r}st·{r}m","MS",812
+"thunderstorm","NC36B","382","N","N","= ""heavy cloud¢"," ","ù¸nd°st·{°}m","MS",813
+"heavy cloud","NC36B","382","O","N"," "," ","õh²v±¿$åkla«º¹d","MS",813
+"thundercloud","NC37A","383","N","N"," "," ","ù¸nd°klá«¹¼d","MS",814
+"thunderstorm","NC37A","383","N","Y"," ","SUG","ù¸nd°stŞ«¼{°}m","MS",814
+"thunderstorm","NC37B","384","N","N"," "," ","ù¸«{°}nd°stŞ«¼{°}m","MS",815
+"thundercloud","NC37B","384","N","N"," "," ","ù¸«{°}nd°kláº¹¿d","MS",815
+"thundercloud","NC38N","N385","N","N"," "," ","ù¸nd°kla¾º¹d","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"thunderstorm","NC38B","386","N","N"," "," ","ù¸«¾{°}nd°st·½º°m","MS",818
+"thunderstorm","NC39A","389","N","N"," "," ","ù¸«nd°stŞ«¼{°}m","MS",819
+"thundercloud","NC39A","389","N","N"," "," ","ù¸«nd°klá¹d","MS",819
+"thunderstorm","NC39B!","390!","N","N"," "," ","ù¸{°}nd°st·½·m","MS",820
+"thundercloud","NC39B!","390!","N","N","rain with it"," ","ù¸{°}nd°klá¼º¹½d","MS",820
+"thunderstorm","NC40A","391","N","N"," "," ","ù¸«nd°st·½º{·}m","MS",821
+"thundercloud","NC40A","391","N","N"," "," ","ù¸«nd°klá½¹d","MS",821
+"thunderstorm","NC40B","392","N","N"," "," ","ù¸«{°}nd°st·½·m","MS",822
+"thunderstorm","NC41!","393!","N","N"," "," ","ù¸«nd°st¶«·½m","MS",823
+"thundershower","NC42A","403","N","N"," "," ","ù¸«¼nd°óá½¹°","MS",824
+"thunderstorm","NC42A","403","N","N","wind"," ","ù¸«¼nd°stµ{°}m","MS",824
+"thunderstorm","NC42B","404(*)","N","N"," "," ","ù¸«nd°st·º°m","MS",825
+"thundercloud","NC43A","397","N","N"," "," ","ù¸—«nd°kl¥«¼¹«¼d","MS",826
+"thunderstorm","NC43B","398","N","N"," "," ","ù¸«nd°st·º{°}m","MS",827
+"thunderstorm","NC44","410(*)","N","N"," "," ","ù¸«nd°st·½ºm","MS",828
+"thundercloud","NC45A","409(*)","N","N"," "," ","ù¸nd°kl¥¹«d","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"thunderstorm","NC46A","411","N","N"," "," ","ù¸«nd°st·½rm","MS",831
+"thunderstorm","NC46B","412","N","N"," "," ","ù¸«nd°st·º°m","MS",832
+"thunderstorm","NC46C!","412b!","N","N"," "," ","ù¸«nd°st·½º{°}m","MS",833
+"thunderstorm","NC47","413","N","N"," "," ","ù¸«¼ºnd´st·´m","MS",834
+"thunderstorm","NC48","418","N","N"," "," ","ù¸«nd´st·º´m","MS",835
+"thunderstorm","NC49","421","N","N"," "," ","ù¸«nd´st·½´m","MS",836
+"thunderstorm","NC50A","422","N","N"," "," ","ù¸nd°st·½°m","MS",837
+"thunderstorm","NC50B!","423!","N","N"," "," ","ù¸«nd°st¶«·m","MS",838
+"thunderstorm","NC51A","427","N","N"," "," ","ù¸«¼nd´stµ´m","MS",839
+"thunderstorm","NC51B","428","N","N"," "," ","ù¸«¼nd°st·½´m","MS",840
+"thunderstorm","NC52N","N429","N","N"," "," ","ù¸«nd°stŞ—«¼{°}m","MS",841
+"thundercloud","NC52N","N429","N","N"," "," ","ù¸«nd°klaº¹½d","MS",841
+"thundercloud","NC52A","429","N","N"," "," ","ù¸«nd°klá½º¹d","MS",842
+"thunderstorm","NC52A","429","N","N","wind too"," ","ù¸«nd°st·½°m","MS",842
+"thunderstorm","NC52B","430","N","N"," "," ","ù¸«¼nd°st·½·m","MS",843
+"thundercloud","NC52B","430","N","Y","more [than `thunderstorm']","SUG","ù¸«¼nd°kla«º¹d","MS",843
+"thunderstorm","NC53A","431","N","N"," "," ","ù¸«¼nd°st·½°m","MS",844
+"thunderstorm","NC53B","432","N","N"," "," ","ù¸«¼nd°st·½º°m","MS",845
+"thundercloud","NC53B","432","N","N"," "," ","ù¸«¼nd°kláº¹¿½d","MS",845
+"thundershower","NC54A","433","N","N"," "," ","ù¸«{°}nd´óáw°«","MS",846
+"thunderstorm","NC54B","434","N","N"," "," ","ù¸«nd´st·´m","MS",847
+"thundercloud","NC55","435","N","N"," "," ","ù¸«nd´klá¹”«¼d","MS",848
+"thunderstorm","NC56A","436","N","N"," "," ","ù¸nd°st¶«º{°}m","MS",849
+"thunderstorm","NC56B!","437!","N","N"," "," ","ù¸«{°}nd°st¶«·½m","MS",850
+"thunderstorm","NC57A","438a","N","N"," "," ","ù¸«¼nd°st·½º{°}m","MS",851
+"thunderstorm","NC57B","438b","N","N"," "," ","ù¸«nd°st·½·m","MS",852
+"thundershower","NC58A","439","N","N"," "," ","ù¸«nd´óáº¹¿´","MS",853
+"thunderstorm","NC58B","440","N","N"," "," ","ù¸ş«nd´st·½¼´m","MS",854
+"thundershower","NC59","441(*)","N","Y"," ","AUX","ù¸«{°}nd´óáº{¹¿}´","MS",855
+"thunderstorm","NC60","442","N","N"," "," ","ù¸«nd°st·º°m","MS",856
+"thunderstorm","NC61A","443","N","N"," "," ","ù¸«nd´stµ«´m","MS",857
+"thunderstorm","NC61B","444","N","N"," "," ","ù¸«nd´st·½´m","MS",858
+"thunderstorm","NC62A","447","N","N"," "," ","ù¸nd´st·½¼´m","MS",859
+"thundershower","NC62A","447","N","N","light"," ","ù¸nd´óá¹¿´","MS",859
+"thundershower","NC62B","448","N","N"," "," ","ù¸«nd´óáº¹¿´","MS",860
+"thunderstorm","NC63A","449","N","N"," "," ","ù¸«nd´stµ«¾´m","MS",861
+"thundershower","NC63B","450","N","N"," "," ","ù¸«nd´óá«¹´","MS",862
+"thunderstorm","NC64A","453","N","N"," "," ","ù¸nd´st·İ½¼rm","MS",863
+"thunder gust","NC64B","454","O","N"," "," ","ù¸nd´g¸«¼st","MS",864
+"thundercloud","NC64B","454","N","N"," "," ","ù¸nd´kláº¹¿d","MS",864
+"thunderstorm","NC64B","454","N","N"," "," ","ù¸nd´st·´m","MS",864
+"thunderstorm","NC65A","461","N","N"," "," ","ù¸«nd´st·½¼´m","MS",865
+"thunderstorm","NC65B","462","N","N"," "," ","ù¸«nd´st·¼´m","MS",866
+"thunder rain","NC66A","465","O","N"," "," ","ù¸«nd´$re{±¿}n","MS",867
+"thunderstorm","NC66A","465","N","N"," "," ","ù¸«nd´stŞ«¼{°}m","MS",867
+"thunderstorm","NC66B","466","N","N"," "," ","ù¸nd´st·´m","MS",868
+"thunderstorm","NC67A","469","N","N"," "," ","ù¸«{°}nd°{r}stŞ«¼{r}m","MS",869
+"thundershower","NC67B","470","N","N"," "," ","ù¸«{°}nd´óá¹¿´","MS",870
+"thunderstorm","NC68A","473","N","N"," "," ","ù¸—«{°}nd´st·½´m","MS",871
+"thunderstorm","NC68B","474","N","N"," "," ","ù¸—«nd´st·½´m","MS",872
+"thunderstorm","NC69A","477","N","N"," "," ","ù¸nd´İ{r}st¶«{°}rm","MS",873
+"thunder rain","NC69B","478","O","N"," "," ","ù¸«º{°}nd´$re±¿n","MS",874
+"thundershower","NC69B","478","N","N","more used [than `thunder rain']"," ","ù¸«º{°}nd´óá¹¿´","MS",874
+"thunderstorm","NC70A","479","N","N"," "," ","ù¸«nd´stŞİ«¼´m","MS",875
+"thunderstorm","NC70B","480","N","N"," "," ","ù¸{°}nd´st·´m","MS",876
+"thunderstorm","NC71A","481","N","N"," "," ","ù¸«nd´st·½¼´m","MS",877
+"thundershower","NC71B","482","N","N"," "," ","ù¸¾nd´óáº¹´","MS",878
+"thunderstorm","NC71C!","483!","N","N"," "," ","ù¸«nd´st·´m","MS",879
+"thunderstorm","NC72A","487","N","N"," "," ","ù¸«nd´st¶«´m","MS",880
+"thunderstorm","NC72B","488","N","N"," "," ","ù¸«nd´st·½´m","MS",881
+"thundershower","NC73A","491","N","N"," "," ","ù¸—«¾nd´óáº¹¿´","MS",882
+"thunderstorm","NC73B","492","N","N"," "," ","ù¸{°}nd´st·º´m","MS",883
+"thunderstorm","NC74A","493","N","N"," "," ","ù¸«nd´st·½¼´m","MS",884
+"thunderstorm","NC74B","494","N","N"," "," ","ù¸«nd´st·½¼´m","MS",885
+"thunderstorm","NC75A","495","N","N"," "," ","ù¸—«nd´st·½´m","MS",886
+"thunderstorm","NC75B","496","N","N"," "," ","ù¸«nd´st·½¼´m","MS",887
+"thundercloud","SC1A","203.1","N","N"," "," ","åù³nd°õklá½¹d","MS",888
+"thundercloud","SC1B","203.2","N","N"," "," ","åù¸—ş«nd°klaº¹½d","MS",889
+"thunderstorm","SC2A","204.1(*)","N","N"," "," ","åù¸«¼nd´õst·½º´m","MS",890
+"thundercloud","SC2B","204.2","N","N"," "," ","åù¸ş«¼nd°õkláº¹¿½d","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"thundershower","SC3A","205.1","N","N"," "," ","ù¸«nd°óá½w°","MS",893
+"thunderstorm","SC3A","205.1","N","N","wind with it"," ","ù¸«nd°st·«º{°}m","MS",893
+"storm","SC3B","205.2","N","N"," "," ","åst·¼º´¾m","MS",894
+"windstorm","SC3B","205.2","O","N"," ","CNV","åw±¿¼{°}n$õst·¼º°İm","MS",894
+"hurricanes","SC3B","205.2","N","Y"," ","INA","åh³«º´±¿k±¿¼nz","MS",894
+"cyclones","SC3B","205.2","N","Y"," ","INA","åsµ¼º±¿õkloº{¹¼}nz{z}","MS",894
+"twisters","SC3B","205.2","N","Y"," ","INA","t`w±«{°}st´«z","MS",894
+"squall","SC3C!","205.3!","O","N"," "," ","skw·«º{ì}","MS",895
+"thunderstorm","SC3C!","205.3!","N","N"," "," ","åù¦½{°}nd°õst·½º{°}m","MS",895
+"electric storm","SC3C!","205.3!","O","N"," "," ","°İål²«{°}ktò±¿¼k$õst·«º{°}m","MS",895
+"thundershower","SC3C!","205.3!","N","Y"," ","SUG","åù¦½{°}nd°óá½ºo|°","MS",895
+"thundershower","SC3C!","205.3!","N","Y"," ","SUG","åù¦½{°}nd°óá½ºow°","MS",895
+"storm","SC3C!","205.3!","N","N"," "," ","st·«{°}m","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"thundershower","SC4B","206.2","N","N"," "," ","åù¸«{°}nd°õóµ«¼º¹¼w°«","MS",897
+"thunderstorm","SC4B","206.2","N","N"," "," ","åù¸«{°}nd°õst·º°m","MS",897
+"storm","SC4B","206.2","N","N"," "," ","st·º°m","MS",897
+"electrical storm","SC4B","206.2","O","N"," "," ","±¿İ¼ål²«ktò±¿«¼kì$õst·½º{°}m","MS",897
+"storms","SC4B","206.2","O","N"," ","CNV","st·¼º{°}mz","MS",897
+"thundershower","SC4C","206.3","N","Y","briefer","SUG","åù¸«{°}nd°õóµ«¼ºo¼w°«","MS",898
+"electrical storm","SC4C","206.3","O","N"," "," ","±¿ål²«{°}ktò±¿«¼kì$õst·º{°}m","MS",898
+"storm","SC4C","206.3","N","N"," ","CNV","st·º°m","MS",898
+"thunderstorm","SC4C","206.3","N","N"," ","CNV","åù¸«{°}nd°õst·¼º{°}m","MS",898
+"squall","SC4C","206.3","N","Y","on the coast (over water)","HRD","skwo½º{°}ì","MS",898
+"storm","SC5A","207.1","N","N"," "," ","åsto½º°İm","MS",899
+"electric storm","SC5A","207.1","O","N"," "," ","±¿¼ål²«ktò±¿¼k$õst·º{°}m","MS",899
+"thunderstorm","SC5A","207.1","N","N"," "," ","åù¦½nd°õst·«º°m","MS",899
+"hurricane","SC5A","207.1","N","Y"," ","INA","åhá½´±¿¼k±¿¼n","MS",899
+"tornado","SC5A","207.1","N","Y"," ","INA","åt·«°õne«d°","MS",899
+"cyclone","SC5A","207.1","N","Y"," ","INA","åsµ¾±¿õklu¿ºn","MS",899
+"storm","SC5B","207.2","N","N"," "," ","st·¼º°m","MS",900
+"NA","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"storm","SC5D!","207.3!","N","N","= windstorm"," ","st·º°m","MS",902
+"lightning storm","SC5D!","207.3!","O","N"," "," ","ål¥½¼±¿tn±¾î$õst·«º{°}m","MS",902
+"thunderstorm","SC5D!","207.3!","N","N"," "," ","åù¸«{°}nd°õst·ş«¼º{°ş}m","MS",902
+"storms","SC6N","N208","N","N"," "," ","st·¼º°mz","MS",903
+"flag storm","SC6N","N208","O","Y"," ","INA","åfÅá½{°}gõst·¼º{°}m","MS",903
+"cyclone","SC6N","N208","N","Y"," ","INA","åsµº±¿õkÅo¼º{°}n","MS",903
+"tornado","SC6N","N208","N","Y"," ","INA","õt`·¼º°İåne«º{°}d°¾","MS",903
+"thundershower","SC6A","208.1","N","N","no wind"," ","ù¸«ºnde{r}óa«º¹½´","MS",904
+"thundercloud","SC6A","208.1","N","N","no wind"," ","ù¸«ºnd°{r}kla«º{¹½}d","MS",904
+"thunderstorm","SC6A","208.1","N","N","wind"," ","ù¸«ºnd°{r}st¶«°{r}m","MS",904
+"thunderstorms","SC6B","208.2(*)","N","N"," "," ","åù¥¾nd´õst¶«º´mz","MS",905
+"thunderstorm","SC6B","208.2(*)","N","N"," "," ","åù±¿¼nd°õst·«º°İm","MS",905
+"thundersquall","SC6B","208.2(*)","N","N","""call it a lot¢"," ","åù±¿nd°õskw·«º{°}l","MS",905
+"storm","SC6B","208.2(*)","N","N"," "," ","st·«º´m","MS",905
+"flurry of wind","SC6B","208.2(*)","O","N"," "," ","åfl³«¾º´±¿«¼$°$õw±¿«¼{°}n","MS",905
+"thundersquall","SC6B","208.2(*)","N","N","""call it a lot¢"," ","åù¥¾nd´õskw·«º{°}l","MS",905
+"squall","SC6C!","208.3!","N","N"," "," ","skw·«{°}l","MS",906
+"thundersquall","SC6C!","208.3!","N","N"," "," ","åù¸«nd°skw·«º{°}l","MS",906
+"thunderstorm","SC6C!","208.3!","N","N"," "," ","åù¸«nd°õst·º{°}m","MS",906
+"tornado","SC6C!","208.3!","N","Y"," ","INA","õt·«°İåneº{°}d°","MS",906
+"storm","SC6C!","208.3!","N","N"," ","CNV","st·«º°m","MS",906
+"NA","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"storm","SC7A","209.1","N","N"," "," ","st·¼º°İm","MS",909
+"thunderstorm","SC7A","209.1","N","N"," "," ","åù¸«{°}nd°st·¼º{°}m","MS",909
+"cat squall","SC7B","209.2","O","N"," "," ","åc‡`á½{°}tõskw·¼º{°}ì","MS",910
+"thunderstorm","SC7B","209.2","N","N"," "," ","åù¸«{°}nd°õst·¼º{°}m","MS",910
+"hail storm","SC7B","209.2","O","N"," ","CNV","åheº{°}ìõst·¼º{°}m","MS",910
+"tornadoes","SC7B","209.2","N","Y"," ","INA/CNV","õt`·¼°åneº{°}do¼º{°}z","MS",910
+"hurricane","SC7B","209.2","N","Y"," ","INA","åh¸«º´±¿«¼õk`eº{°}n","MS",910
+"storm","SC7B","209.2","N","N"," "," ","st·«¼º°m","MS",910
+"electric storm","SC7B","209.2","O","N"," "," ","ì–å²«ktò±¾k$st·¼º{°}m","MS",910
+"storm","SC7B","209.2","N","N"," "," ","st·¼º{°}m","MS",910
+"storm","SC7C!","209.3!","N","N","unless qualified, always means a windstorm","CNV","st·º{°}m","MS",911
+"thunderstorm","SC7D!","209.4!","N","N"," "," ","åù¸«{°}nd°õst·¼º{°}m","MS",912
+"thundersquall","SC7D!","209.4!","N","N","short duration"," ","ù¸«{°}nd°õskw·«¼º{°}ì","MS",912
+"thunderstorms","SC8A","210.1","N","N"," "," ","åù¸«¼{°}nd°õst·—«¼º{°—}mz{z}","MS",913
+"electric storm","SC8A","210.1","O","N","""thunder and lightning¢"," ","ål²«{°}ktò±¿¼k$õst·«º{°}m","MS",913
+"thunder and lightning","SC8A","210.1","O","Y"," ","INA","ù¸«¼{°}nd°$n$l°±¿tn±¿¼î","MS",913
+"cyclone","SC8A","210.1","N","Y"," ","INA","ås°±klo¼º{°}n","MS",913
+"thunderstorm","SC8B","210.2","N","N"," "," ","åù¸«{°}nd°õst·¼º°İm","MS",914
+"storm","SC8C","210.3","N","N"," "," ","st·«º°İm","MS",915
+"thunderstorm","SC8C","210.3","N","N"," "," ","åù¸«¼{°}nd°õst·«º°İm","MS",915
+"thundercloud","SC8C","210.3","N","N"," "," ","åù¸«¼{°}nd°õtlµ«¼od","MS",915
+"cyclone","SC8C","210.3","N","Y"," ","INA","ås¥½±¿õtlo«{°}n","MS",915
+"tornado","SC8C","210.3","N","Y"," ","INA","åt·¼º°n±¿«¼õdo«º","MS",915
+"twisters","SC8C","210.3","N","Y"," ","INA","åtw±¿st°«z","MS",915
+"thunderstorm","SC9A","211.1","N","N"," "," ","åù¸«{°}nd°õst·—«º{°—}m","MS",916
+"windstorm","SC9A","211.1","O","N","""it stormed¢"," ","åw±«{°}n$õst·«º°İm","MS",916
+"it stormed","SC9A","211.1","S","Y"," ","INA","±¿t$åst·«º°md","MS",916
+"thunderstorm","SC9B","211.2","N","N"," "," ","åù¦—¼{°}nd°õst·¼º°İm","MS",917
+"thunderstorm","SC9C!","211.3!","N","N"," "," ","åù¸«{°}nd°õst·½¼º°m","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"windstorm","SC10A","212.1","O","N"," "," ","åw±¿¼nd$õst·¼º{°}m","MS",920
+"thunderstorm","SC10A","212.1","N","N"," "," ","åù¸¼nd°õst·¼º{°}m","MS",920
+"thundersquall","SC10A","212.1","N","N"," "," ","åù¸¼nd°skw·¼º{°}ì","MS",920
+"squall","SC10B!","212.2!","N","N"," "," ","åskw·«{°}l","MS",921
+"thundersquall","SC10B!","212.2!","N","N"," "," ","åù¸¼nd°õskw«{°}l","MS",921
+"thunderstorm","SC10B!","212.2!","N","N"," "," ","åù¸¼nd°õst·º°m","MS",921
+"windstorm","SC10B!","212.2!","O","N"," "," ","åw±«nõst·º{°}m","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"thundersquall","SC11N","N213","N","N"," "," ","åù¸½nd°õskw·l","MS",923
+"thundershowers","SC11M!","2n213!","N","N","shorter duration [than thunderstorm]"," ","åù¥nd°¾õóµ«¼º¹{w}°«z","MS",924
+"thunderstorm","SC11M!","2n213!","N","N"," "," ","åù¸«¼nd°¾õst·¼º{°}m","MS",924
+"hurricane","SC11M!","2n213!","N","Y"," ","INA","åh¥´±¿«¼õk`e«º{°}n","MS",924
+"tornado","SC11M!","2n213!","N","Y"," ","INA","õt`¶—ºåne«ºõdo«¼","MS",924
+"storm","SC11M!","2n213!","N","N"," "," ","st·¼º{°}m","MS",924
+"storm","SC11A","213.1(*)","N","N","violent wind"," ","st·«¼º°m","MS",925
+"thunderstorm","SC11A","213.1(*)","N","N"," "," ","åù¸«nd°st·«º{°}m","MS",925
+"thundersquall","SC11A","213.1(*)","N","N"," "," ","åù¸«nd°õskw·¼º{°}ì","MS",925
+"squall","SC11A","213.1(*)","N","N","wind","CNV","skw·«¼º{°}ì","MS",925
+"thunderstorm","SC11A","213.1(*)","N","N"," "," ","åù¸«nd°st·¼º{°}m","MS",925
+"squall","SC11A","213.1(*)","N","N","wind","CNV","skw·¼º{°}ì","MS",925
+"thunderstorm","SC11B","213.11","N","N"," "," ","åù¸nd°õst·º{°}m","MS",926
+"squall","SC11C","213.2","N","N","wind"," ","skw·¼º{°}ì","MS",927
+"storm","SC11C","213.2","N","N"," "," ","st·«¼º{°}m","MS",927
+"thunderstorm","SC11C","213.2","N","N"," "," ","åù¸«¼nd°õst¶—«º{°}m","MS",927
+"thundershower","SC11C","213.2","N","N","shorter [than thunderstorm]"," ","åù¸¼nd°õóµ«º¹w°¾","MS",927
+"gale","SC11C","213.2","N","Y"," ","INA","gˆe«º{°}ì","MS",927
+"blow storm","SC11D","213.3","O","N"," "," ","blo«¼º$st¶—«º°m","MS",928
+"electrical storm","SC11D","213.3","O","N"," "," ","ål²ktò±¿kl$st·½¼º°m","MS",928
+"thunderstorm","SC11D","213.3","N","N","""much lightning¢"," ","åù¸¼nd°õst·«¼º°m","MS",928
+"much lightning","SC11D","213.3","O","Y"," ","INA","åm¸¼tó$õl¸±¿'tn±¾î","MS",928
+"thundershower","SC11D","213.3","N","N","not as violent [as thunderstorm]"," ","åù¸¼nd°½¾õóµ¼º¹wİ°","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NA","SC11F","213.5"," ","N"," "," "," ","MS",930
+"storm","SC11G!","213.7!","N","N"," "," ","st·¼º{°}m","MS",931
+"thunderstorm","SC11G!","213.7!","N","N"," "," ","åù¸½nd°¾õst·¼º{°}m","MS",931
+"squall","SC11H!","213.8!","N","N","over water"," ","åskw¶—«¼ºì","MS",932
+"storm","SC11H!","213.8!","N","N","not necessarily thunder"," ","åst¶—«º{°}m","MS",932
+"lightning storm","SC11H!","213.8!","O","N"," "," ","ål¸¼±¿tn±¿îõst¶—«{°}m","MS",932
+"electrical storm","SC11H!","213.8!","O","N"," "," ","ål²«ktò±¿kì$st¶—«{°}m","MS",932
+"thunderstorm","SC11H!","213.8!","N","N"," "," ","åù¸¼nd°õst·¼ºm","MS",932
+"thundershower","SC11H!","213.8!","N","N"," "," ","åù¸«¼nd°õóµ«º¹w°«","MS",932
+"thunderstorm","SC11I!","213.9!","N","N"," "," ","ù¸½nd°st·m","MS",933
+"squall","SC11I!","213.9!","N","Y","wind, sudden","SUG","skw·ºl","MS",933
+"storm","SC11J!","213.10!","N","N","more than a gale"," ","st·«¼ºm","MS",934
+"thunderstorm","SC11J!","213.10!","N","N"," "," ","åù¸¼nd°õst·¼º{°}m","MS",934
+"thundershower","SC11J!","213.10!","N","N"," "," ","åù¸«¼nd°õó¸½¼¹{w}°«","MS",934
+"storm","SC11J!","213.10!","N","N","more than a gale"," ","st·¼ºm","MS",934
+"thunderstorm","SC11J!","213.10!","N","N"," "," ","åù¸«nd°õst·½¼º{°}m","MS",934
+"thunderstorm","SC11J!","213.10!","N","N"," "," ","åù¸¼nd°õst·¼º°m","MS",934
+"electric storm","SC12A","214.1","O","N"," "," ","ål²«{°}ktò±¿¼k$õst·—«º{°—}m","MS",935
+"thunderstorms","SC12A","214.1","N","N"," "," ","åù¦½{°}nd°«õsto½º{°}mz","MS",935
+"thundershower","SC12B","214.2","N","N"," "," ","ù¸—«nd°óa¼w°","MS",936
+"squall","SC13","213.6","N","N","usually with thunder and lightning"," ","åskw·º°İl","MS",937
+"wind gusts","SC13","213.6","O","N","without thunder and lightning","SIC","åw±«nõg¸«¼ts","MS",937
+"thunderstorm","SC14A","215.1","N","N"," "," ","ù¸½nd°st·ºm","MS",938
+"thunderstorm","SC14B","215.2","N","N"," "," ","åù¸{°}nd°õst·º{°}m","MS",939
+"cyclone","SC14B","215.2","N","Y"," ","INA","ås°±¿{ç}õk`Åoº{°}n","MS",939
+"storm","SC15A","216.1","N","N"," ","CNV","st·¼º°m","MS",940
+"electric storm","SC15A","216.1","O","N"," "," ","ål²«{°}ktò±¿k$õst·¼º°m","MS",940
+"thunderstorm","SC15A","216.1","N","N"," "," ","åù¸—«{°}nd°õst·¼º°m","MS",940
+"thunder and lightning","SC15A","216.1","O","N"," "," ","åù¸—«{°}nd°$n$ålµ¼±¿tn±¿¼n","MS",940
+"windstorm","SC15A","216.1","O","N"," "," ","åw±«{°}n$õst·¼º°İm","MS",940
+"hurricanes","SC15A","216.1","N","Y"," ","INA","åhá½º´±¿¼k±¿nz","MS",940
+"electric storm","SC15A","216.1","O","N"," "," ","±¿İål²«{°}ktò±¿¼k$õst·¼º°m","MS",940
+"thundering in the molly hole","SC15A","216.1","O","Y"," ","HRD","åù¸«¼{°}nd°r±¿¼n$±¿¼n$d±¿¼$åmŞ—l±¿«¼$õhoº{°}ì","MS",940
+"electrical storm","SC15B","216.2","O","N","""thunder and lightning¢"," ","ìå²«ktò±¿kl$åst·¼º{°}m","MS",941
+"thunderstorm","SC15B","216.2","N","N"," "," ","åù¸—«¼{°}nd°õst·¼º{°}m","MS",941
+"thunder and lightning","SC15B","216.2","O","N"," "," ","åù¸¼{°}nd°$n$lµ«¼±¿tn±¿¼n","MS",941
+"hurricanes","SC15B","216.2","N","Y"," ","INA","åh¸«¼´±¿«¼k`±¿¼nz","MS",941
+"tornadoes","SC15B","216.2","N","Y","""used to call 'em cyclones¢","INA","õt·½º{°}åne«ºõdo«º{°}z","MS",941
+"cyclone","SC15B","216.2","N","Y"," ","INA/HRD","åsµ«º±¿õkÅo«º{°—}n","MS",941
+"thunderstorm","SC15B","216.2","N","N"," "," ","åù¸¼{°}nd°õst·¼º{°}m","MS",941
+"cyclone","SC15B","216.2","N","Y"," ","INA/CNV","åsµ«º±¿õkÅoº{°}n","MS",941
+"NA","SC15C","216.3"," ","N"," "," "," ","MS",942
+"storm","SC16N","N217","N","N"," "," ","åst·«º{°}m","MS",943
+"thunderstorm","SC16N","N217","N","N","thunder and lightning"," ","åù¸{°}nd°õst·«º{°}m","MS",943
+"windstorm","SC16N","N217","O","N"," "," ","åw±«{°}nd$õst·º{°}m","MS",943
+"cyclone","SC16N","N217","N","Y"," ","INA","åsµº±¿õkÅo«{°}n","MS",943
+"electricity","SC16N","N217","N","Y"," ","INA","±¿¼õl²«k¹tò±«{°}s±¿t±¿«¼","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"storm","SC17A","218.1","N","N"," "," ","sto½º°m","MS",945
+"thunderstorm","SC17A","218.1","N","N"," "," ","åù¦½{°}nd´«¾õst·«º´¾m","MS",945
+"windstorm","SC17A","218.1","O","N"," "," ","åw±«{°}n$õst·º´¾m","MS",945
+"tornado","SC17A","218.1","N","Y"," ","INA","åt`·º´«¾õne«{°}d´«¾","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"thunderstorm","SC17D","218.4","N","N"," "," ","åù¦½{°}nd°õst·º{°}m","MS",948
+"windstorms","SC17D","218.4","O","N"," "," ","åw±½{°}n$õst·{°}mz","MS",948
+"storm","SC17D","218.4","N","N"," "," ","st·º{°}m","MS",948
+"storm","SC17D","218.4","N","N"," ","CNV","st·¼º{°}m","MS",948
+"hurricane","SC17D","218.4","N","Y"," ","INA","åh¸«º´±¿«¼õc‡±¿¼n","MS",948
+"cyclone","SC17D","218.4","N","Y"," ","INA","õsµº±¿åk`Åoº{°}n","MS",948
+"thunderstorm","SC18N","N219","N","N"," "," ","åt‘{ù}¸«nd°õst·½¼ºm","MS",949
+"lightning storm","SC18N","N219","O","N"," "," ","ål¥«±tn±¾n$õst·¼º{°}m","MS",949
+"squall","SC18A","219.1","N","N","""sudden wind¢"," ","skw·½¼º{°}ì","MS",950
+"white squall","SC18A","219.1","O","N","short; heavy wind, stirs up waves; little rain"," ","åw¥«±tõskw·½¼º{°}ì","MS",950
+"thundershower","SC18A","219.1","N","N"," "," ","åù¸«nd°½õóµ«ºoİw°½","MS",950
+"thunderstorm","SC18A","219.1","N","N","common"," ","åù¸«nd°½õst·¼ºm","MS",950
+"electrical storm","SC18A","219.1","O","N"," "," ","ål²«ktò±¿İ¼kì$õst·¼ºm","MS",950
+"tropical storm","SC18A","219.1","O","N","comes on gradually; have them here"," ","åtòŞp±¿¼kl$õst·½¼º{°}m","MS",950
+"storm","SC18A","219.1","N","N","""fast wind¢ (50 mph), ""rain¢; ""tidewater¢"," ","åst·½¼º{°}m","MS",950
+"sudden wind","SC18A","219.1","O","Y"," ","INA","s¸«dn$w±«n","MS",950
+"rain","SC18A","219.1","N","Y"," ","INA","re«º{°}n","MS",950
+"tidewater","SC18A","219.1","N","Y"," ","INA","åtµº±¿dõw·½¼º{°}ñ°½","MS",950
+"gale","SC18A","219.1","N","Y"," ","INA","gˆe«ºì","MS",950
+"storm","SC18A","219.1","N","N","""fast wind¢ (50 mph), ""rain¢; ""tidewater¢"," ","st·¼º{°}m","MS",950
+"fast wind","SC18A","219.1","O","Y"," ","INA","åf²«ºes$õw±«n","MS",950
+"storms","SC18B","219.2","N","Y","hurricane","INA","st·¼º{°}mz","MS",951
+"thunderstorm","SC18B","219.2","N","N"," "," ","åù¸—nd°õst·¼º{°}mz{z}","MS",951
+"heavy squall","SC18B","219.2","O","N"," "," ","åh²«v±¿«¼$õskw·¼ºì","MS",951
+"hurricane","SC18B","219.2","N","Y"," ","INA","h¸«º´±¿«¼kˆ±¿n","MS",951
+"thunderstorm","SC18C!","219.3(*)!","N","N"," "," ","åù¸«nd°¾õst·¼º{°}m","MS",952
+"windstorm","SC18C!","219.3(*)!","O","N","no thunder and lightning"," ","åw±«n$õst·¼º{°}m","MS",952
+"electric storm","SC18C!","219.3(*)!","O","N"," "," ","±¿¼ål²ktò±¿¼k$õst·½¼º{°}m","MS",952
+"storm","SC18C!","219.3(*)!","N","N"," ","CNV","st·½¼º{°}m","MS",952
+"cyclones","SC18C!","219.3(*)!","N","Y","no thunder and lightning","INA","åsµº±¿õk`Åo«¼º{°}nz","MS",952
+"hurricane","SC18C!","219.3(*)!","N","Y","no thunder and lightning","INA","åh¥«´±¿¼k`±¿n","MS",952
+"storm","SC18D!"," ","N","N"," ","CNV","st·¼º{°}m","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NA","SC19A","220.1"," ","N"," "," "," ","MS",955
+"thundersquall","SC19B","220.4","N","N"," "," ","ù¸nd°skw·½º{°}l","MS",956
+"storm","SC19C","220.2(*)","N","N"," "," ","st·¼ºm","MS",957
+"thunderstorm","SC19C","220.2(*)","N","N"," "," ","åù¸¼nd°¾õst·¼º{°}m","MS",957
+"thunderstorms","SC19D!","220.3!","N","N"," "," ","åù¸¼nd°õst·º°mz","MS",958
+"NA","SC19E!"," "," ","N"," "," "," ","MS",959
+"rain and wind squall","SC20A","221.1","O","N"," "," ","õre«ºn$n$åw±«n$õskw·º·«ì","MS",960
+"thunderstorm","SC20A","221.1","N","N"," "," ","õù¦½nd°¼õst·«ºo½m","MS",960
+"wind and rain storm","SC20A","221.1","O","N"," "," ","w±«nd$°«n$åre«ºn$õst·«º°İm","MS",960
+"thundershower","SC20A","221.1","N","N"," "," ","åù¦½nd´õóµ«ow°«","MS",960
+"thunder and wind storm","SC20A","221.1","O","N"," "," ","åù¦½nd´$õáº{°}n$åw±«n$õst·º·«m","MS",960
+"storm","SC20A","221.1","N","N"," "," ","sto½º°m","MS",960
+"stormproof","SC20B","221.2","A","Y"," ","INA/CNV","åst·¼´mõpru¿ºf","MS",961
+"storm","SC20C","221.3","N","N"," "," ","sto½º°m","MS",962
+"electric storm","SC20C","221.3","O","N"," "," ","±¿¼ål²«ktò±¿¼k$õst·º·«m","MS",962
+"thunderstorm","SC20C","221.3","N","N"," "," ","åù¦½nd´st·½º·m","MS",962
+"tornadoes","SC20C","221.3","N","Y"," ","INA","t·º°åne«{±¿}d°«z","MS",962
+"cyclone","SC20C","221.3","N","Y"," ","INA","õsµ«±¿åklo¼{¹¼}n","MS",962
+"windstorms","SC20C","221.3","O","N"," "," ","åw±«n$õst·«¼º°mz","MS",962
+"NA","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"thunderstorm","SC21A","222.1","N","N"," "," ","ù¸«nd°st·º°m","MS",964
+"thundercloud","SC21A","222.1","N","N"," "," ","ù¸«nd°kláº¹¿½d","MS",964
+"thunderstorm","SC21B","222.2","N","N"," "," ","ù¸«nd°st·½º°m","MS",965
+"thundercloud","SC21B","222.2","N","N"," "," ","ù¸«nd°kla«º¹d","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"storm","SC22A","223.1","N","N"," "," ","st·º{°}m","MS",967
+"lightning and thunder storm","SC22A","223.1","O","N"," "," ","lµ¼±¿'tn±¿n$°«n$åù¸«{°}nd°$st¶«º{°}m","MS",967
+"thundershower","SC22A","223.1","N","N"," "," ","åù¸«{°}nd°õóá½ºoİw°«¾","MS",967
+"storm","SC22A","223.1","N","N"," "," ","st¶«{°}m","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"storm","SC22C!","223.3!","N","N","""doesn't always rain¢"," ","st·º{°}m","MS",969
+"thundershower","SC22C!","223.3!","N","N","""maybe very heavy although it's out quick¢"," ","åù¦½{°}nd°õóá½oİw°","MS",969
+"thunderstorm","SC22C!","223.3!","N","N"," "," ","åù¦½{°}nd°õst·º{°}m","MS",969
+"squall","SC22C!","223.3!","N","N","shorter [than thunderstorm]"," ","skw·º{°}ì","MS",969
+"thunderstorm","SC23A","224.1","N","N"," "," ","åù¸½¼{°}nd°õst·½º{°}m","MS",970
+"electric storm","SC23A","224.1","O","N","lighter than thunderstorm"," ","ìå²«{°}lktò±¿¼k$õst·«º°İm","MS",970
+"windstorms","SC23A","224.1","O","N"," "," ","åw±«{°}n$õst·º°mz","MS",970
+"storm","SC23B","224.2","N","N"," "," ","stŞ—º´¾m","MS",971
+"electric storm","SC23B","224.2","O","N"," "," ","ål²«{°}ktò±¿¼k$õstŞ—º´¾m","MS",971
+"thunderstorm","SC23B","224.2","N","N"," "," ","åù¦«{°}nd´«$õstŞº´¾m","MS",971
+"thundershower","SC23B","224.2","N","N"," "," ","åù¦½{°}nd°«õóá½ºo¼w´İ«","MS",971
+"dust storm","SC23B","224.2","O","Y"," ","INA","åd¦º{°}s$stŞº´¾m","MS",971
+"storm","SC23C","224.3","N","N"," "," ","st·½º{°}m","MS",972
+"thunderstorm","SC23C","224.3","N","N"," "," ","åù¦½{°}nd°õst·½º°İm","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"storm","SC24N","N225","N","N"," "," ","st·¼º°m","MS",975
+"thunderstorm","SC24N","N225","N","N"," "," ","åù¸«{°}nd±¿½õst·¼º°m","MS",975
+"tornadoes","SC24N","N225","N","Y"," ","INA","åt`·¼º°õneº{°}d°z{z}","MS",975
+"electrical storm","SC24A","225.1","O","N"," "," ","°õl²ktò±¿k°l$åst·º{°}m","MS",976
+"storm","SC24A","225.1","N","N"," ","CNV","st·º°—İm","MS",976
+"storm","SC24B","225.11","N","N"," "," ","åst·¼º°m","MS",977
+"electric storm","SC24B","225.11","O","N"," "," ","±¿ål²«ktò±¿¼k$åst·¼º°m","MS",977
+"windstorm","SC24B","225.11","O","N"," "," ","åw±«{°}n$õst·¼º°m","MS",977
+"tornadoes","SC24B","225.11","N","Y"," ","INA","t`·¼º°åneº{°}do«¼º{°}z","MS",977
+"storm","SC24C","225.2","N","N"," "," ","åst·º°m","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"thunderstorm","SC25A","226.1","N","N"," "," ","åù¸«nd°st·«ºm","MS",980
+"thunder gust","SC25A","226.1","O","N","dry wind"," ","ù¸«nd°$g¸«º{°}s","MS",980
+"electrical storm","SC25B","226.2","O","N"," "," ","±¿ål²«ktò±¿kì$õst¶º´m","MS",981
+"storm","SC25B","226.2","N","N"," "," ","st·«º´m","MS",981
+"windstorm","SC25B","226.2","O","N"," "," ","åw±«n$õst·«º´m","MS",981
+"thunderstorm","SC25B","226.2","N","N"," "," ","åù¦½{°}nd´õst·«º´m","MS",981
+"thundershower","SC25B","226.2","N","N"," "," ","åù¦½{°}nd´õóµ«ºo{w}´«","MS",981
+"thunderstorm","SC25C!","226.3!","N","N"," "," ","åù¦¼nd°õst·«{°—}m","MS",982
+"tornadoes","SC25C!","226.3!","N","Y"," ","INA","õt·º°İåne«ºdo¿z","MS",982
+"electric storm","SC26A","227.1","O","N","close lightning"," ","ål²«{°}ktò±¿¼k$õst·«º{°}m","MS",983
+"thunderstorm","SC26A","227.1","N","N","distant lightning"," ","åù¦¼{°}nd°õst·º°İm","MS",983
+"windstorm","SC26A","227.1","O","N"," "," ","åw±«n$õst·—«ºm","MS",983
+"twisters","SC26A","227.1","N","Y"," ","INA","tw±«{°}st°«z","MS",983
+"cyclones","SC26A","227.1","N","Y"," ","INA","åsa¾º±¿õklo«º{°}nz","MS",983
+"storm","SC26B!","227.2!","N","N"," "," ","åst·º°m","MS",984
+"electrical storm","SC26B!","227.2!","O","N"," "," ","±¿ål²«ktò±¿kl$õst·½º°İm","MS",984
+"thunderstorm","SC26B!","227.2!","N","N","less close lightning than elec. st."," ","åù¸«nd°õst·º°İm","MS",984
+"electric storm","SC27A","228.1","O","N"," "," ","±¿ål²ktò±k$õst·º°m","MS",985
+"storm","SC27A","228.1","N","N"," "," ","st·º°m","MS",985
+"squall","SC27B","228.2","N","N","shorter [than thunderstorm]"," ","skw·—º{°}l","MS",986
+"storm","SC27B","228.2","N","N"," "," ","st·—«º°½m","MS",986
+"windstorms","SC27B","228.2","O","N"," "," ","åw±«{°}n$õst·«°mz","MS",986
+"thunderstorm","SC27B","228.2","N","N"," "," ","åù¦½¼{°}nd°st·º{°}m","MS",986
+"thunderstorms","SC27B","228.2","N","N"," ","CNV","åù¦½{°}nd°õst·«ºmz","MS",986
+"tornadoes","SC27B","228.2","N","Y"," ","INA","õt·«º°åneº{°}do¼{°}z","MS",986
+"thunderstorm","SC28A","229.1","N","N","with rain"," ","åù¦¼{°}nd°õst¶º{°}m","MS",987
+"windstorms","SC28A","229.1","O","N"," "," ","åw±«{°}n$st¶º{°}mz","MS",987
+"sand storms","SC28A","229.1","O","Y"," ","INA","åsáº{°}n$õst¶º{°}mz","MS",987
+"cyclones","SC28A","229.1","N","Y"," ","INA","åsa«¾º{°}õkloº{°—}nz","MS",987
+"stormy","SC28A","229.1","A","N"," "," ","st¶ºm±¿«¼","MS",987
+"NA","SC28B","217.2"," ","N"," "," "," ","MS",988
+"storm","SC28C","292.2","N","N"," "," ","st·º{°—}m","MS",989
+"thunderstorm","SC28C","229.2","N","Y","[{d}]: doubtful","FDT","åù¦¼{°}n{d}°õst·º{°}m","MS",989
+"windstorm","SC28C","229.2","O","N"," "," ","åw±«{°}n$õst·º{°}m","MS",989
+"hail storm","SC28C","229.2","O","N"," "," ","åheº{°}lõst·º{°}m","MS",989
+"electrical storm","SC28C","229.2","O","N"," "," ","±¿¼ål²«ktò±¿kì$õst·º{°}m","MS",989
+"electric storm","SC28D","229.3","O","N"," "," ","±¿¼ål²«{°}ktò±¿k$õst·º{°}m","MS",990
+"windstorm","SC28D","229.3","O","N"," "," ","åw±«{°}n$õst·º{°}m","MS",990
+"hail storm","SC28D","229.3","O","N"," "," ","åheº{°}l$õst·º{°}m","MS",990
+"storm","SC28D","229.3","N","N"," "," ","st·º{°}m","MS",990
+"storm","SC29A","230.2(*)","N","N"," "," ","st¶º´m","MS",991
+"electric storm","SC29A","230.2(*)","O","N"," "," ","ål²«{°}ktò±¿k$õst¶º´m","MS",991
+"tornadoes","SC29A","230.2(*)","N","Y"," ","INA","õt¶º´åne«ºõdo¼ºz","MS",991
+"storm","SC29B","230.1(*)","N","N"," "," ","st·¼º´¾m","MS",992
+"storm","SC29C","230.3","N","N"," "," ","åst·«º°İm","MS",993
+"thunderstorm","SC29C","230.3","N","N"," "," ","åù¦—½{°}nd°õst·«º°İm","MS",993
+"lightning storm","SC29C","230.3","O","N"," "," ","åla«¾º±¿tn±¿¼n$õst·«º°İm","MS",993
+"sand storms","SC29C","230.3","O","Y"," ","INA","åsáº{°}n$õst·½º´mz","MS",993
+"tornadoes","SC29C","230.3","N","Y"," ","INA","õtŞº{°}åne«º{°}d°½z","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"thunderstorm","SC30A","231.1","N","N","wind"," ","ù¸«¼{°}nd°st¶”º{°}m","MS",996
+"thundershower","SC30A","231.1","N","N"," "," ","ù¸«¼{°}nd°óá¹°","MS",996
+"electrical storm","SC30B","231.2","O","N","lighter [than thunderstorm]"," ","ìå²«ktò±¿«¼kì$õst¶«º{°}m","MS",997
+"thunderstorm","SC30B","231.2","N","N"," "," ","åù¦½nd°«õst¶«º{°}m","MS",997
+"thundershower","SC30B","231.2","N","N","lighter [than thunderstorm]"," ","åù¦½nd°õóa«¾ºw°«¾","MS",997
+"cyclone","SC30B","231.2","N","Y"," ","INA/SUG","åsa«¾º{°}õk`Åo¼º{¹¼}n","MS",997
+"twister","SC30B","231.2","N","Y"," ","INA","t`w±«st°«¾","MS",997
+"cyclone","SC30B","231.2","N","Y"," ","INA/SUG","åsa«¾º±¿õk`Åo¼º{¹¼}n","MS",997
+"storm","SC30C!","231.3!","N","N"," "," ","åst·«¼º°m","MS",998
+"rainstorm","SC30C!","231.3!","O","Y","[eº{°}]: doubtful","FDT","åreº{°}n$õst·¼º{°}m","MS",998
+"thunderstorm","SC30C!","231.3!","N","N"," "," ","åù¦½nd°õst·½¼º·¼m","MS",998
+"bluster","SC30C!","231.3!","N","N","little rain and wind"," ","bl¦½st°¾","MS",998
+"storm","SC31A","232.1","N","N"," "," ","st¶º°İm","MS",999
+"electric storm","SC31A","232.1","O","N"," "," ","ål²«{°}ktò±¿¼k$õst·—«º°İm","MS",999
+"thunderstorms","SC31A","232.1","N","N"," "," ","åù¸«{°}nd°õst·«¼º°İmz","MS",999
+"thundershower","SC31A","232.1","N","N"," "," ","åù¦½{°}nd°õóa«ºw°«","MS",999
+"tornado","SC31A","232.1","N","Y"," ","INA","õtŞº°åne«ºõdo¼º","MS",999
+"storm","SC31A","232.1","N","N"," ","CNV","st·«º°İm","MS",999
+"thunder gust","SC31B","232.2","O","N"," "," ","åù¦—¼nd°õg¦½{°}st","MS",1000
+"thunderstorm","SC31B","232.2","N","N"," "," ","åù¦—¼nd°õst·½º·m","MS",1000
+"gale","SC31B","232.2","N","N","September"," ","gˆe«{°}ì","MS",1000
+"September","SC31B","232.2","N","Y"," ","INA","s°¾påt±mb°","MS",1000
+"thunder gust","SC31B","232.2","O","N"," "," ","åù¦—¼nd°õg¸¼st","MS",1000
+"storm","SC31B","232.2","N","N"," "," ","st¶º´İm","MS",1000
+"storm","SC31B","232.2","N","N"," "," ","st·º´m","MS",1000
+"blizzard","SC31B","232.2","N","Y"," ","INA","åbl±«z°«d","MS",1000
+"storm","SC32A","233.1","N","N"," "," ","st·½º{°}m","MS",1001
+"electric storm","SC32A","233.1","O","N"," "," ","±¿ål²«{°}ktò±¿¼k$st·½º{°}m","MS",1001
+"thunderstorm","SC32A","233.1","N","N"," "," ","åù¦½{°}nd°õst·«º{°}m","MS",1001
+"thundershower","SC32A","233.1","N","N"," "," ","åù¦½{°}nd°õóµ«¼ºow°«","MS",1001
+"hurricane","SC32A","233.1","N","Y"," ","INA/CNV","åh¦½{°}´±¿«¼õk`eº{±¿}n","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"storm","SC32C","233.3","N","N"," "," ","st·½º{°}m","MS",1003
+"rainstorm","SC32D","233.4","O","N"," "," ","åreº{±¿}n$õst·½º{°}m","MS",1004
+"storm","SC32D","233.4","N","N"," "," ","st·º{°}m","MS",1004
+"windstorm","SC32D","233.4","O","N"," "," ","åw±«{°}n$õst·º{°}m","MS",1004
+"thunderstorm","SC32D","233.4","N","N","more fireworks [than rainstorm]"," ","åù¦½{°}nd°õst·º{°}m","MS",1004
+"thundershower","SC32D","233.4","N","N","shorter [than thunderstorm]"," ","åù¦½{°}nd°õóá½ºoİw°«","MS",1004
+"thunderstorm","SC33A","234.1","N","N"," "," ","ù¸«º{°}nd°stŞ¼º{°}m","MS",1005
+"thunderstorm","SC33A","234.1","N","N","[µ¾º{°}], [Ş¼º{°}]: no difference in meaning"," ","ù¸½º{°}nd°stµ¾º{°}m","MS",1005
+"storm","SC33B","234.2","N","N"," "," ","st¶«o½m","MS",1006
+"electric storm","SC33B","234.2","O","N"," "," ","°İål²«{°}ktò±¿¼k$õst¶«º·m","MS",1006
+"storm","SC34A","235.1","N","N"," "," ","st·¼º´m","MS",1007
+"electrical storm","SC34A","235.1","O","N"," "," ","ìå²«ktò±¿«¼kì$õst·¼º´m","MS",1007
+"stormy","SC34A","235.1","A","N"," "," ","åst·¼º´m±¿«¼","MS",1007
+"hurricane","SC34A","235.1","N","Y"," ","INA","h²”«º´±¿«¼k`±¿¼n","MS",1007
+"thunderstorm","SC34B","235.2","N","N"," "," ","åù¦½{°}nd°õst¶«º·m","MS",1008
+"cyclone","SC34B","235.2","N","Y"," ","INA","åsa«¾±¿õk`Åo¼º¹¼n","MS",1008
+"hurricane","SC34B","235.2","N","Y"," ","INA","åh²«º´±¿«¼õkˆ`eº±¿«¼n","MS",1008
+"tornado","SC34B","235.2","N","Y"," ","INA","åt`¶«º·õneº±¿«¼d°","MS",1008
+"NA","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"storm","SC35A","236.1","N","N"," "," ","st·½º´m","MS",1010
+"thunderstorm","SC35A","236.1","N","N"," "," ","åù¦¼{°}nd´«¾õst·¼º´m","MS",1010
+"electrical storm","SC35A","236.1","O","N"," "," ","ìå²«ktò±¿«¼k°«ì$õst·¼º´m","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"storm","SC35C","236.3(*)","N","N"," "," ","st·º{·«}m","MS",1012
+"electric storm","SC35C","236.3(*)","O","N"," "," ","ål²ktò±¿k$õst·º{°}m","MS",1012
+"thunderstorm","SC35D"," ","N","N"," "," ","åù¦½{°}nd´«¾õst·½·m","MS",1013
+"electric storm","SC35D"," ","O","N"," "," ","°ål²«ktò±¿¼k$õst·½·m","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"storm","SC36B","237.2","N","N"," "," ","åst¶«´¾m","MS",1016
+"windstorms","SC36B","237.2","O","N"," "," ","åw±«n$õst¶«º´½mz{z}","MS",1016
+"thunderstorm","SC36B","237.2","N","N"," "," ","åù¦½nd´õst¶«º´İ¾m","MS",1016
+"thundershower","SC36B","237.2","N","N"," "," ","åù¦½nd°«õóµ«¼ºw´İ«","MS",1016
+"storm","SC36C","237.3","N","N"," "," ","st¶«º´m","MS",1017
+"windstorm","SC36C","237.3","O","N"," "," ","åw±«n$õst¶«º´m","MS",1017
+"rainstorm","SC36C","237.3","O","N"," "," ","åreº±n$õst·¼´m","MS",1017
+"electric storm","SC36C","237.3","O","N"," "," ","ål²«ktò±¾k$õst¶«º´m","MS",1017
+"thundershower","SC36C","237.3","N","N","no wind"," ","åù¦½nd°½õóa«º¹´«¾","MS",1017
+"thunderstorm","SC36C","237.3","N","Y"," ","OLD","åù¦½nd´õst·½¼º´m","MS",1017
+"lightning storm","SC36C","237.3","O","N"," ","CNV","ålµ¼±¿tn±«nõst·½¼º´m","MS",1017
+"cyclone","SC36C","237.3","N","Y"," ","INA","åsµ¼±¿õkÅoº¹n","MS",1017
+"tornado","SC36C","237.3","N","Y"," ","INA","õt`¶«º´åneº±õdoº¹","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"thunderstorm","SC37","238","N","N","hard wind"," ","åù¸nd°õst·½om","MS",1019
+"hard wind","SC37","238","O","Y"," ","INA","åhµ´d$õw±º{°}n","MS",1019
+"thunderstorm","SC37","238","N","N","hard wind"," ","åù¦½nd°õst·½om","MS",1019
+"electric storm","SC38N","N239","O","N"," "," ","ål²«ktò±¾k$õst·½om","MS",1020
+"thunderstorm","SC38N","N239","N","N"," "," ","åù¦½nd°õst¶ş«oş½m","MS",1020
+"thundershower","SC38N","N239","N","N"," "," ","åù¦½nd°õóa«¾º¹|°İ","MS",1020
+"thunderstorm","SC38A","239.1","N","N"," "," ","åù¦¼nd°õst¶º{°}m","MS",1021
+"thundershower","SC38A","239.1","N","N"," "," ","åù¦½nd°õóa¾º¹w°¾","MS",1021
+"thundershower","SC38B","239.2","N","N"," "," ","åù¦½nd°õóa«¾¹w°«","MS",1022
+"electrical storm","SC38B","239.2","O","N"," "," ","ål²«ktò±¿İkì$õst¶«º°m","MS",1022
+"thunderstorm","SC38B","239.2","N","N","more rain [than thundershower]"," ","åù¦½nd°õst¶«º{°}m","MS",1022
+"storm","SC38B","239.2","N","N","lot of rain"," ","st¶º{°}m","MS",1022
+"storm","SC38B","239.2","N","N","lot of rain"," ","st¶«º{°}m","MS",1022
+"NA","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"storm","SC38D!","239.4(*)!","N","N"," "," ","st·¼º°m","MS",1024
+"electrical storm","SC38D!","239.4(*)!","O","N"," "," ","ål²«ktò±¿¼k©$õst·½¼º·m","MS",1024
+"thunder and lightning storm","SC38D!","239.4(*)!","O","N"," "," ","åù¦½nd°$n$åla¾±¿tn±¾n$åst¶«{·}m","MS",1024
+"thunderstorm","SC38D!","239.4(*)!","N","N"," "," ","åù¦½nd°õst¶«·m","MS",1024
+"thundershower","SC38D!","239.4(*)!","N","N"," "," ","åù¦¼nd°õóa«¾º¹w°","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"storm","SC39A","240.1","N","N"," "," ","åst¶«º·m","MS",1026
+"thunderstorm","SC39A","240.1","N","N"," "," ","åù¦½nd°«¾õst¶«·m","MS",1026
+"thundershower","SC39A","240.1","N","N","no wind"," ","åù¦½nd°¾õóa«¾ºw°«¾","MS",1026
+"storm","SC39B!","240.2!","N","N"," "," ","st¶«º·m","MS",1027
+"rainstorm","SC39B!","240.2!","O","N"," "," ","åre«º{±¿}n$õst¶«º·m","MS",1027
+"electric storm","SC39B!","240.2!","O","N","not much rain"," ","±¿«¼ål²«ktò±¾k$õst¶½º·«m","MS",1027
+"thunderstorm","SC39B!","240.2!","N","N"," "," ","åù¦½nd°¾õst·¼·«m","MS",1027
+"thundershower","SC39B!","240.2!","N","N"," "," ","åù¦½nd°¾õóa«¾ºwİ°","MS",1027
+"storm","SC40A","241.1","N","N"," "," ","st¶«ºom","MS",1028
+"rainstorm","SC40A","241.1","O","N"," "," ","åreşº{i¿ş}{n}$õst·ş½{oş}m","MS",1028
+"hail storms","SC40A","241.1","O","N"," "," ","he½{i¿}ì$õst·½omz","MS",1028
+"electricity storm","SC40A","241.1","O","N","more lightning than rain"," ","õl²«{±¿}kåtò±—«st±¿«¼$åst·½om","MS",1028
+"thunderstorm","SC40A","241.1","N","N","lots of wind"," ","åù¦½nd°õst·ş½oşm","MS",1028
+"thundershower","SC40A","241.1","N","N","no wind"," ","åù¦½nd°õóµ«ow°İ«","MS",1028
+"storm","SC40B","241.2","N","N"," "," ","st¶«om","MS",1029
+"rainstorm","SC40B","241.2","O","N"," "," ","åreº{±¿}n$õst¶«om","MS",1029
+"electrical storm","SC40B","241.2","O","N"," "," ","ål²«ktò±¿¼k¦$st¶«om","MS",1029
+"thunderstorm","SC40B","241.2","N","N"," "," ","åù¦½nd°«õst¶½om","MS",1029
+"windstorm","SC40B","241.2","O","N"," "," ","åw±«n$õst¶”«om","MS",1029
+"big stormy rain","SC40B","241.2","O","N"," "," ","õb±«g$åst¶«om±¿«¼$åreº{i}n","MS",1029
+"thundershower","SC41A","242.1","N","N"," "," ","ù¸—«¼º{°}nd°óá«¼º{¹}{´}","MS",1030
+"thunderstorm","SC41B","242.2","N","Y","[o]: retroflection dubious","FDT","åù¦ş½nd°õst¶«om","MS",1031
+"thundershower","SC41B","242.2","N","Y","[°]: dbt; shorter, at least not as bad","FDT","åù¦½nd°¾õóµ«ow°¾","MS",1031
+"thunderstorm","SC41B","242.2","N","N"," "," ","åù¦ş½nd°õst¶«o°İm","MS",1031
+"thundershower","SC41B","242.2","N","Y","[{°}]: dbt; shorter, at least not as bad","FDT","åù¦½nd°¾õóµ«o{°}","MS",1031
+"storm","SC42N","N243","N","N"," "," ","st¶”şº·ş{m}","MS",1032
+"thunderstorm","SC42N","N243","N","N"," "," ","åù¦½nd°õst¶«¼ºom","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"thundershower","SC42A","243.1","N","N"," "," ","åù¸«nd°õóa«o¼{w}°","MS",1034
+"thunder gusts","SC42A","243.1","O","N"," "," ","åù¸«nd°õgˆ²«sts","MS",1034
+"thundershower","SC42A","243.1","N","N"," "," ","åù¸«nd°õóa«o¼","MS",1034
+"thunderstorm","SC42B!","243.2!","N","N"," "," ","åù¦ş½nd°õst¶«º°m","MS",1035
+"electrical storm","SC42B!","243.2!","O","N"," "," ","°ål²«kt{ò—}±¿½k¦İ{ì}$õst·½º°m","MS",1035
+"storm","SC42B!","243.2!","N","N"," ","CNV","st·½¼º°m","MS",1035
+"electrical storm","SC42C!","243.3!","O","N"," "," ","ìå²ktò±¿İkìõst·½º·m","MS",1036
+"thunderstorm","SC42C!","243.3!","N","N"," "," ","åù¸«nd‘°õst·½º·m","MS",1036
+"thundershower","SC42C!","243.3!","N","Y","[{w}]: doubtful","SUG/FDT","åù¸«nd°õóá«º¹¿{w}°","MS",1036
+"thunderstorm","SC42C!","243.3!","N","N"," "," ","åù¸«nç°õst¶«·½m","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"electrical storm","SC42E!","243.5!","O","N"," "," ","±¿ål²ktò±¿«¼k°«ì$õst·°m","MS",1038
+"storm","SC42E!","243.5!","N","N"," "," ","st·½º°m","MS",1038
+"thunderstorm","SC42E!","243.5!","N","N"," "," ","ù¸«nd°st·°m","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"thundershower","SC43B","244.2","N","N"," "," ","åù¦—¼nd°¾åóa«w´","MS",1040
+"thunderstorm","SC43B","244.2","N","N"," "," ","åù¦—½¼nd°åstŞº´m","MS",1040
+"electric storm","SC43B","244.2","O","N"," "," ","ål²«ktò±«k$åstŞº´m","MS",1040
+"storm","SC43B","244.2","N","N","hard wind and rain"," ","st¶«¼º´m","MS",1040
+"thunderstorm","SC43B","244.2","N","N"," "," ","åù¦½¼nd°st¶´m","MS",1040
+"storm","SC43B","244.2","N","N","hard wind and rain"," ","stŞ—«{·}´m","MS",1040
+"thunderstorm","SC43C","244.3","N","N"," "," ","åù¸½nd°½õst¶«·m","MS",1041
+"electrical storms","SC43C","244.3","O","N"," "," ","l²«ktò±¿½k°İì$st¶«·mz","MS",1041
+"thunderstorms","SC43C","244.3","N","N"," "," ","åù¦½nd°õst¶«·mz","MS",1041
+"electrical storms","SC43C","244.3","O","N"," "," ","°İl²«ktò°«k°İì$st¶«·mz","MS",1041
+"electrical storm","SC44A","245.1","O","N"," "," ","l²«ktò±¿k¦İì$st¶«o°İm","MS",1042
+"thunderstorm","SC44A","245.1","N","N"," "," ","åù¸«nd°õst·½º°İm","MS",1042
+"thundershower","SC44A","245.1","N","N"," "," ","åù¦½nd°óµ«¼o{w}°¾","MS",1042
+"thunder rain","SC44A","245.1","O","N"," "," ","åù¦½nd°åre«ºi¿n","MS",1042
+"thunder","SC44B","245.2","N","Y"," ","INA/CNV","ù¸—«nd°","MS",1043
+"thunderstorm","GA1N","N246","N","N"," "," ","åù¸nd°õst·«ºm","MS",1044
+"squall","GA1N","N246","N","N"," "," ","skö·«ºl","MS",1044
+"thunderstorm","GA1A","246.1(*)","N","N"," "," ","åù¸¼nd°õst·¼º{°}m","MS",1045
+"electrical storm","GA1A","246.1(*)","O","N"," "," ","ìå²«ktò±¿¼kì$õst·¼{°}m","MS",1045
+"hurricane","GA1A","246.1(*)","N","Y"," ","INA/SIC","åhá½´õ±¿«¼k±¿¼n","MS",1045
+"tornado","GA1A","246.1(*)","N","Y"," ","INA","t`·¼°åneº{°}d°","MS",1045
+"cyclone","GA1A","246.1(*)","N","Y"," ","INA","åsµº±¿õk`Åo¼º{°}n","MS",1045
+"thunderstorm","GA1B","246.11","N","N"," "," ","åù¸¼nd°õst·º{°}m","MS",1046
+"lightning storm","GA1C","246.2","O","N"," "," ","ål°½±¿tn±¾n$õst·¼º{°}m","MS",1047
+"thunder and lightning storm","GA1C","246.2","O","N"," "," ","åù¸¼nd°¾$n$l¥º±¿tn±¾n$st·¼º{°}m","MS",1047
+"windstorm","GA1C","246.2","O","N"," "," ","åw±¿n$õst·¼º{°}m","MS",1047
+"storm","GA1C","246.2","N","N"," ","CNV","st¶«º{°}m","MS",1047
+"storm","GA1D","246.3","N","N"," ","CNV","st·¼º{°}m","MS",1048
+"storm","GA1D","246.3","N","N"," ","CNV","st·¼º°m","MS",1048
+"storm","GA1E","246.4","N","N"," "," ","st·«¼º{°}m","MS",1049
+"electrical storm","GA1E","246.4","O","N"," "," ","ìå²«ktò±¿¼k`ì$st·«¼º{°}m","MS",1049
+"thunderstorm","GA1E","246.4","N","N"," "," ","åù¸«¼nd°õst·«¼º°m","MS",1049
+"squall","GA1E","246.4","N","N","on water"," ","skw·¼º°İì","MS",1049
+"yawl","GA1E","246.4","N","Y"," ","DBT","j·¼º{°}ì","MS",1049
+"thunderstorm","GA1F!","246.5!","N","N"," "," ","åù¸½nd°st·½ºm","MS",1050
+"squall","GA1F!","246.5!","N","Y","if much wind","SUG","skw·º{°}l","MS",1050
+"storm","GA1G!","246.6!","N","N"," ","CNV","st·¼º{°}m","MS",1051
+"hurricane","GA1G!","246.6!","N","Y"," ","INA/CNV","åh¸º´±¿k°«n","MS",1051
+"thunderstorm","GA1H!","246.7!","N","N"," "," ","åù¸«¼nd°½õst·½¼º{°}m","MS",1052
+"thundershower","GA1H!","246.7!","N","N"," "," ","åù¸—«¼nd°õóa«¾º¹w°","MS",1052
+"storm","GA2N","N247","N","Y"," ","AUX/CNV","st·¼º°¾m","MS",1053
+"electric storm","GA2A","247.1","O","N"," "," ","±¿ål²ktò±¾k$õst·¼º{°}m","MS",1054
+"thunderstorm","GA2A","247.1","N","N"," "," ","åù¸¼nd°õst·½¼ºm","MS",1054
+"electric storm","GA2B","247.2","O","N"," "," ","ìå²«ktò±¾k$õst·¼º´¾m","MS",1055
+"thunderstorm","GA2B","247.2","N","N"," "," ","åù¸«nd´«¾õst·¼º´¾m","MS",1055
+"storm","GA2B","247.2","N","N"," "," ","st¶«º´¾m","MS",1055
+"tornado","GA2B","247.2","N","Y"," ","INA","õt·½¼ºåneº{±¿}d°","MS",1055
+"hurricane","GA2B","247.2","N","Y"," ","INA","åh¸«¼´±¿¼k`±¿¼n","MS",1055
+"thunderstorm","GA3A","248.1","N","N"," "," ","ù¸½nd°st·«m","MS",1056
+"tempest","GA3A","248.1","N","Y","a little worse than usual thunderstorm,","OLD/RN1","åt²mp±¿st","MS",1056
+" ","GA3A","248.1"," "," ","but not anything unusual","RN2"," ","MS",1056
+"squall","GA3A","248.1","N","N","wind"," ","skw·º{°}l","MS",1056
+"thunderstorms","GA3B","248.2","N","N"," "," ","åù¦½nd°õst·«º°mz","MS",1057
+"windstorms","GA3B","248.2","O","N"," "," ","åw±«n$st·«º°mz","MS",1057
+"squalls","GA3B","248.2","N","N","on the coast"," ","skw·º°lz","MS",1057
+"cyclones","GA3B","248.2","N","Y"," ","INA","åsa¾º±¿õklo«¼º{°}nz","MS",1057
+"thundersquall","GA4N","N249","N","N"," "," ","t¸½nd°skw·ºl","MS",1058
+"thunderstorm","GA4N","N249","N","Y"," ","SUG","t¸½nd°st·ºm","MS",1058
+"electric storm","GA4A","249.1","O","N"," "," ","ål²«{°}ktò±¿¼k$õsto½º°İm","MS",1059
+"thunder and lightning storm","GA4A","249.1","O","N"," "," ","ù¸½nd°$n$ål¥¼±¿tn±¿¼î$sto½º°İm","MS",1059
+"thunderstorm","GA4A","249.1","N","N"," "," ","ù¸½nd°st·—«ºm","MS",1059
+"squall","GA4A","249.1","N","N"," "," ","skw—o½º{°}l","MS",1059
+"thunderstorm","GA4B","249.2","N","N"," "," ","åù¸½nd°õst·½¼{°}m","MS",1060
+"thundersquall","GA4B","249.2","N","N"," "," ","åù¸½nd°õskw·«º{°}l","MS",1060
+"hurricanes","GA4B","249.2","N","Y"," ","INA","åh¥½¾´±¿k°«nz","MS",1060
+"electrical storm","GA4C!","249.3!","O","N"," "," ","±¿¼ål²«ktòİ±¿kl$åst·«º°İm","MS",1061
+"thundersquall","GA4C!","249.3!","N","N"," "," ","åù¸½nd°õskw·«º{°}l","MS",1061
+"storms","GA4C!","249.3!","N","N"," "," ","st·½º{°—}mz","MS",1061
+"windstorms","GA4C!","249.3!","O","N"," "," ","åw±½n$õst·½º{°}mz","MS",1061
+"storm","GA4C!","249.3!","N","N"," ","CNV","st·½º{°}m","MS",1061
+"lightning storm","GA5A","250.1","O","N"," "," ","l°½±¿tn±¿¼n$õst·—«ºm","MS",1062
+"thunderstorm","GA5A","250.1","N","N"," "," ","åù¸½nd°st·—«ºm","MS",1062
+"thundersquall","GA5A","250.1","N","N","over water"," ","åù¸½nd°õskw·—«ºl","MS",1062
+"thundershower","GA5A","250.1","N","N"," "," ","åù¸½nd°õóµ«ºo{w}°İ¾","MS",1062
+"wind","GA5A","250.1","N","N"," "," ","åw±½{°}n","MS",1062
+"hurricane","GA5A","250.1","N","Y"," ","INA","åh¸½r±¿¼k±¿¼n","MS",1062
+"NA","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"thunderstorm","GA5C","250.3","N","N"," "," ","åù¸½nd°İõst·—«º{°}m","MS",1064
+"gale of wind","GA5C","250.3","O","N","50-60 mph"," ","gˆeºl$°$w±«¾{°}n","MS",1064
+"hurricanes","GA5C","250.3","N","Y","60-80 mph","INA","h¸½º´±¿k±¿nz","MS",1064
+"twister","GA5C","250.3","N","Y"," ","INA","tw±¿«st°","MS",1064
+"cyclone","GA5C","250.3","N","Y"," ","INA","åsµ«º±¿õkloº{°}n","MS",1064
+"thunderstorm","GA5C","250.3","N","N"," "," ","ù¸İ½nd°İst·—«ºm","MS",1064
+"squall","GA5C","250.3","N","N","shorter [than thunderstorm]"," ","skw·—º{°}l","MS",1064
+"storm","GA5D!","250.4!","N","N"," ","CNV","st·º{°—}m","MS",1065
+"hurricanes","GA5D!","250.4!","N","Y"," ","INA","h¸½´±¿¼k±¿¼nz","MS",1065
+"thunderstorm","GA5E!","250.5!","N","N"," "," ","åù¸nd°õst·«º°İm","MS",1066
+"thundersqualls","GA5E!","250.5!","N","N"," "," ","åù¸½{°}nd°õskw·—«º{°}lz","MS",1066
+"hurricane","GA5E!","250.5!","N","Y"," ","INA","h¸½º´±¿k±¿¼n","MS",1066
+"thundersqualls","GA6A","251.1","N","N"," "," ","åù¸—¼{°}nd°õskw·«º{°}lz","MS",1067
+"thunderstorm","GA6A","251.1","N","N"," "," ","åù¸—¼{°}nd°«õst·«º°İm","MS",1067
+"electrical storm","GA6A","251.1","O","N"," "," ","±¿¼ål²½{°}kt±¿kl$õst·«º°İm","MS",1067
+"cyclone","GA6A","251.1","N","Y"," ","INA","åsµ«¼º±¿õklo«¼ºn","MS",1067
+"storm","GA6B!","251.2!","N","N"," "," ","st·«º°—m","MS",1068
+"thunderstorms","GA6B!","251.2!","N","N"," "," ","åù¸nd°õst·½º°mz","MS",1068
+"rainstorms","GA6B!","251.2!","O","N"," "," ","åre«ºn$õst·½º°İmz","MS",1068
+"squall","GA6B!","251.2!","N","N","sudden and short over water"," ","skw·—«º{°}l","MS",1068
+"thundershowers","GA7","256","N","N"," "," ","åù¸«¼{°}nd°õóá½ºow°«¾z","MS",1069
+"storm","GA7","256","N","N"," "," ","st·½º°«m","MS",1069
+"thunderstorms","GA7","256","N","Y"," ","SUG","åù¸«¼{°}nd°õst·½º·«mz","MS",1069
+"thundershowers","GA7","256","N","N"," "," ","åù¸«¼{°}nd°õóá½ºow°«¾z","MS",1069
+"storm","GA8A","257.1","N","N"," "," ","st·«º{°}m","MS",1070
+"electric storm","GA8A","257.1","O","N"," "," ","ål²½{°}ktò±¿¼k$õst·«º{°—}m","MS",1070
+"cyclones","GA8A","257.1","N","Y"," ","INA","åsµº±¿İõkÅo«º{¹}nz","MS",1070
+"storms","GA8B","257.2","N","N"," "," ","åst·º´mz","MS",1071
+"thunderstorm","GA8B","257.2","N","N"," "," ","åù¸«{°}nd°«õst·¼º´¾m","MS",1071
+"thundershower","GA8B","257.2","N","N"," "," ","åù¸«{°}nd°õóµ«ºoİ|°«","MS",1071
+"hurricanes","GA8B","257.2","N","Y"," ","INA","h¸½º´±¿¼k±¿¼nz","MS",1071
+"storm","GA9A","257A.1","N","N"," "," ","åst¶rm","MS",1072
+"electrical storm","GA9B","257A.2","O","N"," "," ","ål²ktò±¿kl$õst·°İm","MS",1073
+"tornadoes","GA9B","257A.2","N","Y"," ","INA","t¶´åne{±¿}do{¹}{z}","MS",1073
+"thunderstorm","GA10A","258.1","N","N"," "," ","ù¸şnd´st·½´m","MS",1074
+"storms","GA10B","258.2","N","N"," "," ","åst·º´mz","MS",1075
+"thunderstorms","GA10B","258.2","N","N"," "," ","åù¦¼nd´õst·º´mz","MS",1075
+"windstorms","GA10B","258.2","O","N"," "," ","åw±«n$õst·º´mz","MS",1075
+"squalls","GA10B","258.2","N","N","quick"," ","åskw·º{°}lz","MS",1075
+"tornado","GA10B","258.2","N","Y"," ","INA","åt`·º´õne«d°","MS",1075
+"storm","GA11N","N258A","N","N"," "," ","st·º°m","MS",1076
+"tornado","GA11N","N258A","N","Y"," ","INA","åtŞ—r°åne{±¿}d°","MS",1076
+"hurricane","GA11N","N258A","N","Y"," ","INA","h¸¼r±¿k±¿¼n","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"rainstorm","GA12B!","259.2(.3)","O","N"," "," ","åre±¿n$õst·º°m","MS",1078
+"thunderstorm","GA12B!","259.2(.3)","N","N"," "," ","åù¸«¼nd°õst·º°m","MS",1078
+"thundershowers","GA12B!","259.2(.3)","N","N"," "," ","åù¸«¼nd°õóa«o{w}°«z","MS",1078
+"squall","GA12B!","259.2(.3)","N","N","on coast"," ","skw·º{°}l","MS",1078
+"thundercloud","GA13A","260.1","N","N"," "," ","åù¸½nd°kla¾¹d","MS",1079
+"thunderstorm","GA13A","260.1","N","N","wind"," ","åù¸½nd°st·ºm","MS",1079
+"thundersquall","GA13A","260.1","N","N","wind"," ","åù¸½nd°skw·ºl","MS",1079
+"thunderstorm","GA13B!","260.2!","N","N"," "," ","åù¦½{°}nd°«õst·½º{°}m","MS",1080
+"thundershower","GA13B!","260.2!","N","N"," "," ","åù¦º{°}nd°«õóa«¾ºoİ|°İ","MS",1080
+"storms","GA13B!","260.2!","N","N"," ","CNV","st·«º{°}mz","MS",1080
+"storm","GA13B!","260.2!","N","N"," ","CNV","st·«º°m","MS",1080
+"squall","GA13B!","260.2!","N","N","sudden wind and rain","CNV","skw·º{°}l","MS",1080
+"hurricanes","GA13B!","260.2!","N","Y"," ","INA","åh¦½¼º´±¿¼õc‡e«º{°}nz","MS",1080
+"twisters","GA13B!","260.2!","N","Y"," ","INA","åtw±¿st°«z","MS",1080
+"thundershower","GA13B!","260.2!","N","N"," "," ","åù¦½{°}nd°«õóa«¾ºo|°","MS",1080
+"storm","GA14A","261.1","N","N"," "," ","st·º°m","MS",1081
+"thunderstorm","GA14A","261.1","N","N"," "," ","åù¸«{°}nd°õst·«¼º°İm","MS",1081
+"thundershower","GA14A","261.1","N","Y","short","SUG","åù¸«{°}nd°õóa«¾ºo¼°","MS",1081
+"cyclones","GA14B","261.3","N","Y"," ","INA","åsa«¾º{±¿}õkÅo¼º¹nz","MS",1082
+"tornadoes","GA14B","261.3","N","Y"," ","INA","åt`·¼º{°}õneº{±¿}d°«¾z","MS",1082
+"thunder","GA14B","261.3","N","Y"," ","INA/CNV","ù¦½{°}nd°«¾","MS",1082
+"gale","GA14B","261.3","N","Y"," ","INA","geº{±¿}ì","MS",1082
+"storm","GA14B","261.3","N","N"," "," ","st·¼º{°}m","MS",1082
+"thunderstorm","GA14B","261.3","N","N"," "," ","åù¸«nd°õst·«¼º{°}m","MS",1082
+"thundershower","GA14B","261.3","N","N"," "," ","åù¸«nd°õóa«¾º¹¼°İ","MS",1082
+"thundershowers","GA14B","261.3","N","N"," "," ","åù¸«¼{°}nd°õóa«¾o¼z","MS",1082
+"thundershowers","GA14C","261.2","N","N"," "," ","åù¸«¼º{°}nd°«¾õóµºw°«z","MS",1083
+"electric storm","GA14C","261.2","O","N"," "," ","°ål²«{°}tò±¿¼k$õst·¼º{°}m","MS",1083
+"thunder and lightning storm","GA14C","261.2","O","N"," "," ","åù¸«nd°$n$ålµ¼±¿tn±¾n$st·¼º{°}m","MS",1083
+"thunderstorm","GA14C","261.2","N","N"," "," ","åù¸¼nd°õst·½¼º{°}m","MS",1083
+"thundercloud","GA15A","262.1","N","N"," "," ","åù¸«nd°kláº¹¿½d","MS",1084
+"thunderstorm","GA15A","262.1","N","N"," "," ","åù¸«nd°stµ{°}m","MS",1084
+"windstorm","GA15B","262.2","O","N"," "," ","åw±«n$õst·º·«m","MS",1085
+"thunderstorm","GA15B","262.2","N","N"," "," ","åù¦½nd°õst·º·«m","MS",1085
+"windstorms","GA16A","263.2","O","N"," "," ","åw±«{°}n$õst·º·«mz","MS",1086
+"rainstorms","GA16A","263.2","O","N"," "," ","åreº{±¿}n$õst·º·«mz","MS",1086
+"thundercloud","GA16A","263.2","N","N"," "," ","åù¦½{°}nd°õtlá½ºod","MS",1086
+"electrical storm","GA16A","263.2","O","N"," "," ","°ål²ktò±¿k°«ì$õst·¼º{°—}m","MS",1086
+"storm","GA16B","263.1","N","N"," "," ","st·«º{°}m","MS",1087
+"thunderstorms","GA16B","263.1","N","N"," "," ","åù¦½{°}nd°õst·«º{°}mz","MS",1087
+"electrical storm","GA16B","263.1","O","N"," "," ","ål²«ktò±¿klõst·«{°}m","MS",1087
+"thunderstorm","GA16C","263.21","N","N"," "," ","åù¸«¼nd°õst¶«o½m","MS",1088
+"storm","GA16D!","263.3!","N","N"," "," ","åst·º{°—}m","MS",1089
+"electrical storm","GA16D!","263.3!","O","N","more lightning [than storm]"," ","ål²«ktò±¿¼kl$õst·º{°—}m","MS",1089
+"thunderstorm","GA16D!","263.3!","N","N"," "," ","åù¸«¼{°}nd°õst·º{°}m","MS",1089
+"windstorm","GA16D!","263.3!","O","N"," "," ","åw±«¾{°}nõst·º{°}m","MS",1089
+"storm","GA17N","N264","N","N","wind"," ","st¶º°m","MS",1090
+"stormy","GA17N","N264","A","N"," "," ","stŞ¼º°m±¿","MS",1090
+"stormy","GA17N","N264","A","N"," "," ","st¶”°m±¿","MS",1090
+"thunderstorm","GA17","264","N","N"," "," ","ù¸nd°st·½°m","MS",1091
+"storm","GA18A","264A.1","N","N","wind"," ","st·ºom","MS",1092
+"electric storm","GA18A","264A.1","O","N"," "," ","ål²ktò±¿k$õst·°m","MS",1092
+"strong winds","GA18A","264A.1","O","N"," "," ","åstò·ºî$õw±nz","MS",1092
+"hurricane","GA18A","264A.1","N","Y"," ","INA","åhár±¿k±¿n","MS",1092
+"storm","GA18A","264A.1","N","N","wind"," ","st·°m","MS",1092
+"electric storm","GA18B","264A.2","O","N"," "," ","°«õl²kåtò±¿k$åst·°m","MS",1093
+"thunderstorm","GA19A","265.1","N","Y"," ","AUX2","åù¦½{°}nd´«õst·«º´m","MS",1094
+"thundershower","GA19A","265.1","N","Y","short","AUX2","åù¦½{°}nd´«õóá½º°—´","MS",1094
+"tornadoes","GA19A","265.1","N","Y"," ","INA/AUX2","åt¶º´õneº±¿õdo¼º¹¼z","MS",1094
+"hurricanes","GA19A","265.1","N","Y"," ","INA/AUX2","åháº´±¿«¼k±¿¼nz","MS",1094
+"cyclone","GA19A","265.1","N","Y"," ","INA/AUX2","åsa¾±¿õklo¼º¹¼n","MS",1094
+"whirlwinds","GA19A","265.1","N","Y"," ","INA/AUX2","åhw³«¾º´ºl–õw±«{°}nz","MS",1094
+"hurricanes","GA19A","265.1","N","Y"," ","INA/AUX2","åhá«¾º´±¿«¼k±¿¼nz","MS",1094
+"storm","GA19B","265.2","N","N"," "," ","st·¼º´m","MS",1095
+"electric storm","GA19B","265.2","O","N"," "," ","±¿ål²«{±¿}ktò±¿¼k$õst·½°m","MS",1095
+"twisters","GA19B","265.2","N","Y"," ","INA","tw«{°}st±¿¼z","MS",1095
+"cyclone","GA19B","265.2","N","Y"," ","INA","åsa«¾º±¿õklo¼º{¹¼}n","MS",1095
+"tornado","GA19B","265.2","N","Y"," ","INA","õto¼º°åneº{±¿}õdo¼º{¹¼}","MS",1095
+"hurricane","GA19B","265.2","N","Y"," ","INA/CNV","åhá«º´±¿¼k±¿¼n","MS",1095
+"storm","GA20A","266.1","N","N"," "," ","st·½º´m","MS",1096
+"electric storm","GA20A","266.1","O","N","not much"," ","ål²«{°}ktò±¿¼k$õst·½º´m","MS",1096
+"thunderstorm","GA20A","266.1","N","N"," "," ","åù¦½{°}nd´õst·½º´m","MS",1096
+"tornado","GA20A","266.1","N","Y"," ","INA","åt´¼ºnõneº{±¿}d°","MS",1096
+"cyclone","GA20A","266.1","N","Y"," ","INA","åsa«¾±¿klo¼{¹¼}n","MS",1096
+"twisters","GA20A","266.1","N","Y"," ","INA","tw±«{°}st±¿¼z","MS",1096
+"steady wind","GA20A","266.1","O","Y"," ","INA","åst³¼{°}d±¿«¼$õw±¼{°}n","MS",1096
+"windstorms","GA20A","266.1","O","N"," "," ","åw±«{°}n$õsto½º´mz","MS",1096
+"storm","GA20B","266.2","N","N"," ","CNV","st¶«º·m","MS",1097
+"thunderstorm","GA21A","267.1","N","N"," "," ","åù¦½nd°õst¶”ºm","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"thundershower","GA22A","268A.1","N","N"," "," ","åù¸nd°óa«¾¹°","MS",1100
+"thunderstorm","GA22A","268A.1","N","N","""we don't call it a storm unless","RN1","åù¸nd°st·º°m","MS",1100
+" ","GA22A","268A.1"," "," ","there is a strong wind.¢","RN2"," ","MS",1100
+"electric storm","GA22B","268A.2","O","N"," "," ","ål²«{°}ktò±¿¼k$õst·½º{°}m","MS",1101
+"storm","GA22B","268A.2","N","N"," "," ","st·¼º{°}m","MS",1101
+"tornadoes","GA22B","268A.2","N","Y"," ","INA","õt·½åneº{±¿}õdoº{¹¼}z","MS",1101
+"storm","GA23A","268.1","N","N"," ","CNV","st·«º{°}m","MS",1102
+"storm","GA23B","268.11","N","N"," "," ","st·°m","MS",1103
+"thunderstorm","GA23B","268.11","N","N"," "," ","ù¸«¼nd°st·°m","MS",1103
+"thunderstorm","GA23C","268.2","N","N"," "," ","åù¸«¼nd°õst·°m","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"thunderstorm","GA23E!","268.4!","N","N"," "," ","åù¸«¼nd°õst·½°m","MS",1106
+"thunderstorm","GA23F!","268.5!","N","N"," "," ","åù¸¼nd°õst·«°m","MS",1107
+"electric storm","GA23F!","268.5!","O","N"," "," ","ål²ktò±¿k$õst·«°m","MS",1107
+"storm","GA24N","N269","N","N"," "," ","st¶«·İ½m","MS",1108
+"thunderstorm","GA24N","N269","N","N"," "," ","åù¸«¼nd°õst·½·«m","MS",1108
+"thunderstorm","GA24A","269.1","N","N"," "," ","ù¸«¼{°}nd°st¶”¼º{°}m","MS",1109
+"electric storm","GA24B","269.2","O","N"," "," ","°ål²«ktr±¿¼k$õst¶º°m","MS",1110
+"thunderstorm","GA24B","269.2","N","N"," "," ","åù¦½nd°õst·º·«m","MS",1110
+"thundershower","GA24B","269.2","N","N"," "," ","åù¦½nd°õóáºw°","MS",1110
+"hurricane","GA24B","269.2","N","Y"," ","INA","åháºr±¿¼k±¿¼n","MS",1110
+"electric storm","GA24B","269.2","O","N"," "," ","°ål²«ktr±¿ºk$õst¶º°m","MS",1110
+"storm","GA25N","N269A","N","N"," "," ","st·om","MS",1111
+"thundershower","GA26","270A","N","N"," "," ","åù¸«¼nd°õóa«¹°","MS",1112
+"electric storm","GA27!","270!","O","N"," "," ","l²ktr±¿k$st·«°”m","MS",1113
+"electrical storm","GA28","271a","O","N"," "," ","l²ktò±¿k°ì$åst·¼º°m","MS",1114
+"thunderclouds","GA29A","271.1","N","N"," "," ","åù¦¼{°}nd°õklµ«¼ºodz","MS",1115
+"thundershower","GA29A","271.1","N","N","not much rain"," ","åù¦¼{°}nd°åóá½ºoº°","MS",1115
+"windstorms","GA29A","271.1","O","N","""I dread them¢"," ","åw±½{°}n$õst¶«¼º°mz","MS",1115
+"thunderstorm","GA29A","271.1","N","N"," "," ","åù¦¼{°}nd°õst¶—«º{°}m","MS",1115
+"electric storm","GA29B","271.2","O","N"," "," ","°ål²«{°}ktò±¿¼k$õst¶«º°—m","MS",1116
+"storm","GA29B","271.2","N","N"," "," ","st¶—«º°—m","MS",1116
+"thunderstorm","GA29B","271.2","N","N"," "," ","åù¦½nd°õstŞ«º°m","MS",1116
+"NA","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NA","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"thunderstorm","GA30C!","272.3!","N","N"," "," ","åù¸«nd°õst·º°m","MS",1119
+"NA","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"electric storm","GA31","272A","O","N"," "," ","ål²'ktò±¿k$õst·º°m","MS",1122
+"tornado","GA31","272A","N","Y"," ","INA","åt·½°õne±¿d°","MS",1122
+"tornado","GA31","272A","N","Y"," ","INA","åt·´õne½±¿do¼{¹¼}","MS",1122
+"thunderstorm","GA31","272A","N","N"," "," ","åù¸«¼nd°õst·º°m","MS",1122
+"bad cloud","GA32","272B","O","N"," "," ","åbá{²}d$õkÅá¹d","MS",1123
+"thunderstorm","GA32","272B","N","N"," "," ","åù¸«¼nd°õst·º°m","MS",1123
+"thunderstorm","GA33A","272C1","N","N"," "," ","åù¸¼nd°õst·°m","MS",1124
+"storm","GA33A","272C1","N","N"," "," ","st·°m","MS",1124
+"windstorm","GA33A","272C1","O","N"," "," ","åw±ºn$õst·°m","MS",1124
+"electric storm","GA33B","272C2","O","N"," "," ","°İål²ktò±¿k$õstoº{°}m","MS",1125
+"storm","GA34N","N273","N","N"," "," ","sto¼ºm","MS",1126
+"thundershowers","GA34N","N273","N","N"," "," ","åù¦½nd°õóá½ºo|°z","MS",1126
+"cyclone","GA34N","N273","N","Y"," ","INA","åsa«¾º{°}õklu¿ºn","MS",1126
+"tornado","GA34N","N273","N","Y"," ","INA","åt`Şõneº{±¿}d°","MS",1126
+"thunderstorm","GA34A","273.1","N","N"," "," ","åù¸—«¼{°}nd°st·½¼{°}m","MS",1127
+"thundercloud","GA34A","273.1","N","N"," "," ","åù¸—«¼{°}nd°kláº¹¿d","MS",1127
+"thunderstorm","GA34B","273.2","N","N"," "," ","åù¦½nd°õst·½º·m","MS",1128
+"thundershower","GA34B","273.2","N","N"," "," ","åù¦½nd°õóáºow°«","MS",1128
+"windstorms","GA34B","273.2","O","N"," "," ","åw±«n$õst·º°mz","MS",1128
+"electric storm","GA34B","273.2","O","N"," "," ","ål²«ktò±¿«¼k$õst·½º·m","MS",1128
+"tornadoes","GA34B","273.2","N","Y"," ","INA","t`·º°åneº±¿do¼¹¼s","MS",1128
+"thundershower","GA35N","N273A","N","N"," "," ","åù¸«¼nd°õóa«¹°","MS",1129
+"windstorm","GA35N","N273A","O","N"," "," ","åw±n$õst¶«·m","MS",1129
+"thunderstorm","GA35N","N273A","N","N"," "," ","åù¸«¼nd°st·½·m","MS",1129
+"heavy storm","GA36N","N274A","O","N"," "," ","õh²v±¿$åst¶«om","MS",1130
+"thunderstorm","GA37N","2N274","N","N"," "," ","åù¸«nd°õstŞom","MS",1131
+"electrical storm","GA37M!","NC274","O","N"," "," ","±¿ål²ktò±¿k°«ì$õstŞ—m","MS",1132
+"cyclone","GA37A","274.1","N","Y"," ","INA","õsa¾±¿åk`l·¼º¹¼n","MS",1133
+"thundershower","GA37A","274.1","N","N"," "," ","åù¦½nd°õóáº´—","MS",1133
+"storm","GA37A","274.1","N","N"," "," ","åst·«´¾m","MS",1133
+"electric storm","GA37A","274.1","O","N"," "," ","±¿¼ål²«ktr±¿¼k$õst·«º´m","MS",1133
+"thunderstorm","GA37A","274.1","N","N"," "," ","åù¦½nd´«õst·«º´m","MS",1133
+"whirlwind","GA37A","274.1","N","Y"," ","INA","åhw¤½º´lõw±«{°}n","MS",1133
+"tornado","GA37A","274.1","N","Y"," ","INA","t`·½º´åne«º{±¿}õdo¼º","MS",1133
+"tornado","GA37B","274.2","N","Y"," ","INA","õt`·¼º´åne«º{±¿}õdo¼º","MS",1134
+"cyclones","GA37B","274.2","N","Y"," ","INA","åsa¾º±¿õk`lo¼º¹¼nz","MS",1134
+"windstorms","GA37B","274.2","O","N"," "," ","åw±«n$õst·½¼º°mz","MS",1134
+"electrical storm","GA37B","274.2","O","N"," "," ","±¿¼ål²«ktò±¿kl$õst·º°—m","MS",1134
+"thunderstorm","GA37B","274.2","N","N"," "," ","åù¦½nd°õst·º°—m","MS",1134
+"thundershower","GA37B","274.2","N","N"," "," ","åù¦½nd°õóá½o|°","MS",1134
+"storm","GA37B","274.2","N","N"," "," ","åst·º´¾m","MS",1134
+"whirlwinds","GA37B","274.2","N","Y"," ","INA","åhw¤½º´lõw±«{°}nz","MS",1134
+"thunderstorm","GA37C","274.21","N","N"," "," ","åù¸«¼nd°õst·°m","MS",1135
+"thunderstorm","GA37D!","274.7!","N","N"," "," ","åù¸«¼nd°õst·¼°m","MS",1136
+"thundershower","GA37D!","274.7!","N","N"," "," ","åù¸«¼nd°õóa«¹{w}°","MS",1136
+"thunderstorm","GA37E!","274.8!","N","N"," "," ","åù¸«¼nd°õst·°m","MS",1137
+"hurricane","GA37E!","274.8!","N","Y"," ","INA","åh¸«¼r±k°n","MS",1137
+"tornado","GA37E!","274.8!","N","Y"," ","INA","t`·¼°åne±¿õdoİ¼{¹¼}","MS",1137
+"hailing","GA37E!","274.8!","N","Y"," ","INA","åhe±¿l±¿«¼î","MS",1137
+"hail storm","GA37E!","274.8!","O","N"," "," ","åhe±¿l$õst·º°m","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"electrical storm","GA37G!","274.4!","O","N"," "," ","±¿¼ål²«ktò±¿«¼kl$õst·º°«m","MS",1139
+"windstorms","GA37G!","274.4!","O","N"," "," ","åw±«{°}n$õst·¼º°«mz","MS",1139
+"thunderstorm","GA37G!","274.4!","N","N"," "," ","åù¦½¼nd°õst·º°«m","MS",1139
+"windstorms","GA37H!","274.5!","O","N","""heavy wind¢"," ","åw±«{°}n$õst·¼º°mz","MS",1140
+"thunderstorm","GA37H!","274.5!","N","N"," "," ","åù¦½nd°õst·½º·m","MS",1140
+"heavy wind","GA37H!","274.5!","O","Y"," ","INA","õh²«v±¿«¼$åw±«{°}n","MS",1140
+"thunderstorm","GA37I!","274.6!","N","N"," "," ","åù¸«¼nd°õst·¼°m","MS",1141
+"electric storm","GA38","275","O","N"," "," ","ål²ktr±¿k$st·½º°m","MS",1142
+"thunderstorm","GA39","275A","N","N"," "," ","åù¦½nd°õst·«º°m","MS",1143
+"thundercloud","GA40","276A","N","N"," "," ","õù¸nd´åklá½¹¿d","MS",1144
+"storm","GA41","276B","N","N"," "," ","st·½´m","MS",1145
+"hurricane","GA41","276B","N","Y"," ","INA","åhá«r±¿õke{±¿}n","MS",1145
+"electric storm","GA41","276B","O","N"," "," ","±¿ål²ktò±¿k$õst·«´m","MS",1145
+"electric storm","GA42A","276.1","O","N"," "," ","±¿ål²«ktò±¿¼k$õst¶º´m","MS",1146
+"thunderstorm","GA42A","276.1","N","N"," "," ","ù¦½nd°õst·¼º´m","MS",1146
+"big storm","GA42A","276.1","O","N"," ","CNV","åb±«g$õst·¼º´m","MS",1146
+"storm","GA42A","276.1","N","N"," "," ","st¶—½´m","MS",1146
+"cyclones","GA42A","276.1","N","Y","a few","INA","åsa«¾º±¿õk`lo½¼¹¼nz","MS",1146
+"windstorm","GA42B","276.2","O","N"," "," ","åw±«n$õst·¼º´m","MS",1147
+"thundershower","GA42B","276.2","N","N"," "," ","åù¦½nd´«óáºo´—","MS",1147
+"thunderstorm","GA42B","276.2","N","N"," "," ","åù¦½nd´«õst·¼º´m","MS",1147
+"thunderstorm","GA42B","276.2","N","N"," "," ","åù¦½nd´«õst¶´m","MS",1147
+"storm","GA43","277","N","N"," "," ","st·«¼´m","MS",1148
+"thundershower","GA43","277","N","N","light"," ","ù¸«¼{°}nd´óá¹¿´","MS",1148
+"storm","GA44A","278.1","N","N"," "," ","st·º´m","MS",1149
+"thunderstorm","GA44A","278.1","N","N"," "," ","åù¦¼nd´õst·º´m","MS",1149
+"thundershowers","GA44A","278.1","N","N","shorter [than thunderstorm]"," ","åù¦¼nd´õóáºow´«z","MS",1149
+"windstorm","GA44A","278.1","O","N"," ","CNV","åw±«{°}n$õst·º´m","MS",1149
+"NA","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"electric storm","GA44C","278.3","O","N"," ","SIC","ìål²«ktò±¿¼k$õst·½¼º´m","MS",1151
+"hail storm","GA44C","278.3","O","N"," "," ","åheº{±¿}ì$st·½¼º´m","MS",1151
+"a east storm","GA44C","278.3","O","N"," "," ","°$åiº{j}st$õst·º´m","MS",1151
+"thundershower","GA44C","278.3","N","N"," "," ","åù¦¼nd´«õóá½ºo","MS",1151
+"thunderstorm","GA44C","278.3","N","N"," "," ","åù¦¼nd´õst·¼º´m","MS",1151
+"storms","GA44C","278.3","N","N"," "," ","åst·¼º´mz","MS",1151
+"thunder","GA44C","278.3","N","Y"," ","INA","ù±¿nd´","MS",1151
+"tornado","GA44C","278.3","N","Y"," ","INA","õto¼º´åneº{±}do¼º¹¼","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"electrical storm","GA44E","278.5","O","N"," "," ","ål²ktò±¿kì$õst·°m","MS",1153
+"squall","FL1","252","N","N"," "," ","skw·«º{°}l","MS",1154
+"thunderstorm","FL1","252","N","N"," "," ","åù¸«nd°õst·º°İm","MS",1154
+"squall","FL1","252","N","N"," "," ","skw·«º{°}ì","MS",1154
+"storm","FL1","252","N","N"," "," ","åst·¼º°İm","MS",1154
+"thundershower","FL2A","253.1","N","N"," "," ","åù¸«¼nd°õóá½ºo|°","MS",1155
+"hurricanes","FL2A","253.1","N","Y"," ","INA","h¸«¼ºr±¿k±¿¼nz","MS",1155
+"whirlwind","FL2A","253.1","N","Y"," ","INA","åhw³¾º{´}°l$õw±«{°}n","MS",1155
+"thunderstorm","FL2A","253.1","N","N"," "," ","åù¸«nd´õst·«º´m","MS",1155
+"squalls","FL2A","253.1","N","N","over a river"," ","skw·«º{°}ìz","MS",1155
+"tornado","FL2A","253.1","N","Y"," ","INA","õt·º´åne«ºd°","MS",1155
+"electrical storm","FL2A","253.1","O","N"," "," ","±¿¼ål²«ktò±¿kl$õst·«º´m","MS",1155
+"thundersqualls","FL2A","253.1","N","N","over a river"," ","åù¸«nd°õskw·—«º{°—}ìz","MS",1155
+"storm","FL2B","253.2","N","N"," "," ","st·°m","MS",1156
+"squall snap","FL2C!","253.3!","O","N"," "," ","åskw·º{°—}l$õsná{°—}p","MS",1157
+"thunderstorm","FL2C!","253.3!","N","N"," "," ","åù¸«nd°õst·º{°}m","MS",1157
+"squall","FL2C!","253.3!","N","N","sudden"," ","skw·º{°—}l","MS",1157
+"hurricane","FL2C!","253.3!","N","Y"," ","INA","åh¸«¼º´±¿¼k±¿¼n","MS",1157
+"storm","FL2C!","253.3!","N","N"," "," ","st·«º°m","MS",1157
+"squall gale","FL2C!","253.3!","O","N"," "," ","åskw·º{°—}l$õgˆeº{°}l","MS",1157
+"squall","FL3A","254.1","N","N"," "," ","skw·º{°}l","MS",1158
+"thunderstorm","FL3A","254.1","N","N"," "," ","åù¸«nd°õst·º°İm","MS",1158
+"lightning storm","FL3A","254.1","O","N"," "," ","l°¼±¿tn±¿¼n$õst·«º°İm","MS",1158
+"tornado","FL3A","254.1","N","Y"," ","INA","õtoº°åne«ºdo¼","MS",1158
+"thundersquall","FL3A","254.1","N","N"," "," ","åù¸«nd°õskw·«º{°}l","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"storm","FL4","254A","N","N"," "," ","st·´m","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"storm","FL5B","255.2","N","N"," "," ","st·º{°}´m","MS",1162
+"hurricane","FL5B","255.2","N","Y"," ","INA","åh¸½´±¿¼k±¿¼n","MS",1162
+"thunderstorm","FL5B","255.2","N","N"," "," ","åù¸«nd°õst·—«¼º{°}m","MS",1162
+"","","","","","","","","",

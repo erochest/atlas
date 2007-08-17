@@ -1,0 +1,105 @@
+corn crib (cl14#3.asc)
+
+Items
+=====
+         a large log house for corn    1
+                               barn    3
+                           big barn    1
+                               corn    4
+                          corn barn    3
+                           corn bin    3
+                          corn crib   20
+                         corn house   18
+                          corn silo    1
+                           corncrib    3
+                          cornhouse    8
+                       cotton house    1
+                 cotton, peas, corn    1
+                             cradle    1
+                               crib   22
+                         crib house    1
+                              cribs    1
+                           for keep    1
+                        grain house    2
+                                hay    1
+                                 NR    1
+                      racking house    1
+                        shock house    1
+                               silo    1
+                        smoke house    1
+                         smokehouse    1
+some people use corn crib, but I say corn house all the time    1
+                      storage house    1
+                         straw barn    1
+                            to keep    1
+                         upper crib    1
+                       winnow house    1
+
+Pronunciations
+==============
+                              baæ∫n    2
+                            bµ∫{∞}n    1
+                        k`ráè±´{∞}b    1
+                              k`r±b    1
+                       k`Úáè±´∫{∞}b    2
+                         krè±´æ{∞}b    1
+                               kr±b   19
+                          kr±´∫{∞}b    1
+                         kr±´∫{∞}bz    1
+                           kr±∫{∞}b    2
+                          kr±º∫{∞}b    1
+                              kr±øb    2
+                           kr±ø{∞}b    1
+                             kr±ø∫b    2
+                          kr±ø∫{∞}b    1
+                         kr±ø∫{∞´}b    1
+                       kà`rè±´æ{∞}b    1
+                    k∑∫∞én$kr±ø{∞}b    1
+                         kÚáè±∫{∞}b    1
+                          kÚá±∫{∞}b    1
+                    Âk`∑º∫∞n$ıbµ∫∞n    1
+                      Âk`ÚáèiΩ∫{∞}b    1
+                           Âk`Úáè±b    1
+                         Âkrè±´æ∫∞b    1
+                   Âk∑∫n$ıbﬁº∫{∞é}n    1
+                         Âk∑∫nkr±øb    1
+                     Âk∑∫nıkr±ø{∞}b    1
+                 Âk∑Ω∫{∞}nıkÚ±ø{∞}b    1
+                          ıba´∫{∞}n    2
+                          ıba´∫¥Ωºn    1
+                         ık`Úáè±øºb    1
+                           ık`Úá±æb    1
+                          ıkr±∫{∞}b    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

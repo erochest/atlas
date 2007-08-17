@@ -1,0 +1,1246 @@
+"fourteen","NY1","50","N","N"," "," ","foΩ∞é´tijn","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"fourteen","NY2B","51.2","N","N"," "," ","foΩ∞tijn","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"fourteen","NY3A","401","N","N"," "," ","f∑¥ti∫{∞}n","MS",5
+"fourteen","NY3B","403","N","N"," "," ","f∑∞ti∫n","MS",6
+"fourteen","NY3C","402","N","N"," "," ","f∑¥ti∫n","MS",7
+"fourteen","NY3D","404","N","N"," "," ","f∑∫∞ti∫n","MS",8
+"fourteen","NY4A","405","N","N"," "," ","Âf∑∫∞ıti∫n","MS",9
+"fourteen","NY4B","407","N","N"," "," ","f∑∫tiΩ∫n","MS",10
+"fourteen","NY4C","408","N","N"," "," ","f∑:{∞}ttin","MS",11
+"fourteen","NY5A","409","N","N"," "," ","f∑∫∞ti∫n","MS",12
+"fourteen","NY5B","410","N","N"," "," ","f∑∫∞ti∫n","MS",13
+"fourteen","NY5C","411","N","N"," "," ","f∑∫{∞}ti∫n","MS",14
+"fourteen","NY5D","412","N","N"," "," ","f∑:tiΩ∫{∞}n","MS",15
+"fourteen","NY5E","413","N","N"," "," ","Âf∑∫∞ı`ti∫n","MS",16
+"fourteen","NY5F","414","N","N"," "," ","f∑∫∞tiΩ∫n","MS",17
+"fourteen","NY5G","415","N","N"," "," ","f∑∞tiΩ{i}n","MS",18
+"fourteen","NY5H!","416!","N","N"," "," ","f∑∫∞tiΩ{i}n","MS",19
+"fourteen","NY5I!","417!","N","N"," "," ","Âf∑∞éıti∫n","MS",20
+"fourteen","NY6A","418","N","N"," "," ","f∑∫∞t{h}i∫n","MS",21
+"fourteen","NY6B","419","N","N"," "," ","f∑∫∞étti∫n","MS",22
+"fourteen","NY7A","420","N","N"," "," ","f∑∫{∞}tiΩ∫n","MS",23
+"fourteen","NY7B","421","N","N"," "," ","f∑:{∞}ti∫n","MS",24
+"fourteen","NY7C","422","N","N"," "," ","Âf∑∫∞ıt{h}i∫n","MS",25
+"fourteen","NY7D","423","N","N"," "," ","f∑∫∞ti∫n","MS",26
+"fourteen","NY7E","424","N","N"," "," ","f∑:∞›´ti∫n","MS",27
+"fourteen","NY7F","425","N","N"," "," ","f∑∫∞tiΩ∫n","MS",28
+"fourteen","NY7G","426","N","N"," "," ","f∑:∞t{h}i∫n","MS",29
+"fourteen","NY7H","427","N","N"," "," ","f∑∞tiΩin","MS",30
+"fourteen","NY7I","428","N","N"," "," ","f∑:∞ti∫n","MS",31
+"fourteen","NY7J!","429!","N","N"," "," ","f∑∫∞ti∫n","MS",32
+"fourteen","NY7K!","430!","N","N"," "," ","f∑∫∞ti∫n","MS",33
+"fourteen","NY7L!","431!","N","N"," "," ","f∑∫ti∫n","MS",34
+"fourteen","NY7M!","432!","N","N"," "," ","f∑∫∞ti∫n","MS",35
+"fourteen","NY8","432b","N","N"," "," ","f∑∫{∞}ti∫n","MS",36
+"fourteen","NY9A","432c","N","N"," "," ","f∑¥ti∫n","MS",37
+"fourteen","NY9B","433","N","N"," "," ","fo¥ti∫n","MS",38
+"fourteen","NY9C","434","N","N"," "," ","f∑´∫∞éti∫n","MS",39
+"fourteen","NY10A","435","N","N"," "," ","f∑¥tti∫n","MS",40
+"fourteen","NY10B!","436!","N","N"," "," ","f∑¥tti∫n","MS",41
+"fourteen","NY11","438","N","N"," "," ","f∑¥ti∫n","MS",42
+"fourteen","NY12A","439(*)","N","N"," "," ","fo¥ti∫n","MS",43
+"fourteen","NY12B","440","N","N"," "," ","f∑¥t{h}i∫n","MS",44
+"fourteen","NY12C!","441!","N","N"," "," ","f∑∫∞t{h}i∫n","MS",45
+"fourteen","NY13A","443","N","N"," "," ","Âf∑{∞}rtıti∫{∞}n","MS",46
+"fourteen","NY13B!","444!","N","N"," "," ","f∑∞'tti∫n","MS",47
+"fourteen","NY14A","445","N","Y"," ","AUX","fo¥ti∫n","MS",48
+"fourteen","NY14B","446","N","N"," "," ","foΩ¥tti∫n","MS",49
+"fourteen","NY15A","447","N","N"," "," ","foΩ¥ti∫n","MS",50
+"fourteen","NY15B","448","N","N"," "," ","foΩ¥ti∫n","MS",51
+"fourteen","NY16A","449","N","N"," "," ","f∑∫∞ti∫n","MS",52
+"fourteen","NY16B","450","N","N"," "," ","f∑∞éti∫n","MS",53
+"fourteen","NY17A","451(*)","N","N"," "," ","Âfo¥ıti∫n","MS",54
+"fourteen","NY17B","452","N","N"," "," ","f∑¥ti∫n","MS",55
+"fourteen","NY18A","453","N","N"," "," ","foΩ¥ti∫n","MS",56
+"fourteen","NY18B","454","N","N"," "," ","f∑¥tti∫n","MS",57
+"fourteen","NY18C!","455!","N","N"," "," ","Âf∑∫∞ti∫n","MS",58
+"fourteen","NY19","456","N","N"," "," ","f∑¥ti∫n","MS",59
+"fourteen","NY20A","457","N","N"," "," ","foΩ¥ti∫n","MS",60
+"fourteen","NY20B","458","N","N"," "," ","foΩ¥tti∫n","MS",61
+"fourteen","NY21","459","N","N"," "," ","fo¥ti∫n","MS",62
+"fourteen","NY22","460","N","N"," "," ","fo¥ti∫n","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"fourteen","NY23B","462a","N","N"," ","CNV","Âfo∫∞ıti∫n","MS",65
+"fourteen","NY23C","462b","N","N"," ","CNV","ÂfoéΩ¥ıtiΩin","MS",66
+"fourteen","NY24A","463","N","N"," "," ","Âfo¥ıtiΩ∫n","MS",67
+"fourteen","NY24B!","464!","N","N"," "," ","ÂfoΩ¥ıti∫n","MS",68
+"fourteen","NY25A","465","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",69
+"fourteen","NY25A","465","N","N"," ","CNV","Âfoé¥ıtiΩin","MS",69
+"fourteen","NY25B","466","N","N"," ","CNV","ÂfoéΩ¥ıtiΩin","MS",70
+"fourteen","NY26A","467","N","N"," ","CNV","Âfoé∫∞ıti∫n","MS",71
+"fourteen","NY26B","468","N","N"," "," ","Âfoº¥ıti∫n","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"fourteen","NY27A","470","N","N"," "," ","Âfoé¥ıti∫n","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"fourteen","NY27C","472","N","N"," ","CNV","Âfoé¥ıti∫n","MS",76
+"fourteen","NY27C","472","N","N"," ","CNV","Âfoé´¥ıti∫n","MS",76
+"fourteen","NY28A","473a","N","N"," "," ","Âfoé∫¥ıti∫n","MS",77
+"fourteen","NY28B","473b(*)","N","N"," "," ","Âfoé´¥ıti∫i´n","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","-0",79
+"fourteen","NY29A","474a","N","N"," "," ","Âfoéº¥ıti∫n","MS",80
+"fourteen","NY29B","474b","N","N"," "," ","ıfoéº¥Âti∫n","MS",81
+"fourteen","NY29C","474c","N","N"," "," ","Âfoé¥ıti∫n","MS",82
+"fourteen","NY30A","475a","N","N"," ","CNV","Âfoé¥ti∫n","MS",83
+"fourteen","NY30B","475b","N","N"," ","CNV","Âfoø∫∞ıti∫n","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"fourteen","NY30E","475e","N","N"," "," ","Âfoé´º¥ti∫n","MS",87
+"fourteen","NY31A","478a","N","N"," ","CNV","Âfoé´º¥ıtiΩin","MS",88
+"fourteen","NY31B","478b","N","N"," ","CNV","Âfoé¥ıtiΩin","MS",89
+"fourteen","NY32A","479a","N","N"," "," ","Âfoøæ∫∞ıtiΩin","MS",90
+"fourteen","NY32B","479b","N","N"," ","CNV","ıfoº∞óÂti∫{j}n","MS",91
+"fourteen","NY32B","479b","N","N"," ","CNV","Âfoº∞éıtiΩin","MS",91
+"fourteen","NY33A","480","N","N"," ","CNV","ÂfoéΩ¥ıti∫n","MS",92
+"fourteen","NY33B","481","N","N"," ","CNV","Âfoøæ¥ıti∫n","MS",93
+"fourteen","NY33C","482","N","N"," ","CNV","Âfoé¥ıti∫n","MS",94
+"fourteen","NY34A","483","N","N"," "," ","Âfoéº¥ıtiΩin","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"fourteen","NY34D!","486!","N","N"," "," ","Âfoº∞ıtiΩin","MS",98
+"fourteen","NY34D!","486!","N","N"," ","CNV","ıfoéº¥ÂtiΩin","MS",98
+"fourteen","NY35A","487","N","N"," "," ","fo¥`ti∫n","MS",99
+"fourteen","NY35B","488","N","N"," "," ","fo¥tti∫n","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"fourteen","NY36A","491","N","N"," "," ","fo¥ti∫n","MS",102
+"fourteen","NY36B","492","N","N"," "," ","foΩ¥tti∫n","MS",103
+"fourteen","NY37A","493","N","N"," "," ","fo¥ti∫n","MS",104
+"fourteen","NY37B","494","N","N"," "," ","f∑¥{t}i∫n","MS",105
+"fourteen","NY37C!","495!","N","N"," "," ","foΩ¥tti∫n","MS",106
+"fourteen","NY38A","497(*)","N","N"," "," ","foΩ¥tiΩ∫n","MS",107
+"fourteen","NY38B","498","N","N"," "," ","foΩ¥ti∫n","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","-0",109
+"fourteen","NY39A","499","N","N"," "," ","foΩ¥têi∫n","MS",110
+"fourteen","NY39B","500","N","N"," "," ","foΩº¥ti∫n","MS",111
+"fourteen","NY40A","501","N","N"," "," ","foΩ¥ti∫n","MS",112
+"fourteen","NY40B","502","N","N"," "," ","foΩ¥ti∫n","MS",113
+"fourteen","NY41","504","N","N"," "," ","fo¥ti∫n","MS",114
+"fourteen","NY42A","505","N","N"," "," ","foΩ¥`tiΩ∫n","MS",115
+"fourteen","NY42B","506","N","N"," "," ","foΩ¥ti∫n","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"fourteen","NY43B","507b","N","N"," "," ","Âfo¥ıti∫n","MS",118
+"fourteen","NY43C!","508!","N","N"," "," ","fo¥tti∫n","MS",119
+"fourteen","NY44A","511","N","N"," "," ","fo¥ti∫n","MS",120
+"fourteen","NY44B","512","N","N"," "," ","fo¥ti∫n","MS",121
+"fourteen","NY45A","513a","N","N"," "," ","Âfoº∫∞éıtiΩin","MS",122
+"fourteen","NY45B","513b","N","N"," ","CNV","Âfoº∞éıtiΩin","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"fourteen","NY45D!","513d!","N","N"," "," ","Âf∑é¥ıtiΩin","MS",125
+"fourteen","NY46A","515a","N","N"," ","CNV","Âfoé¥ıtiΩjn","MS",126
+"fourteen","NY46B","515b","N","N"," "," ","Âfoº¥ıtiΩi´n","MS",127
+"fourteen","NY46C","515c","N","N"," "," ","Âfo¥ıtiΩin","MS",128
+"fourteen","NY47A","517(*)","N","N"," ","CNV","ÂfoéΩ¥ıti∫{j}n","MS",129
+"fourteen","NY47A","517(*)","N","N"," ","CNV","Âfoéº¥ıtiΩin","MS",129
+"fourteen","NY47B","518","N","N"," "," ","Âfo¥ti∫n","MS",130
+"fourteen","NY48A","519a","N","N"," "," ","Âfoº∞ıti˛∫i˛´n","MS",131
+"fourteen","NY48A","519a","N","N"," ","CNV","Âfoéº¥ıtiΩin","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"fourteen","NY48C","519c","N","N"," "," ","Âfoº∞ıtiΩin","MS",133
+"fourteen","NY48D","519d","N","N"," "," ","Âfoéº¥ıtiΩin","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"fourteen","NY49C","522a","N","N"," "," ","ÂfoΩ¥ıti{i´}n","MS",137
+"fourteen","NY49C","522a","N","N"," ","CNV","ÂfoΩº¥ıti{i´}n","MS",137
+"fourteen","NY49D","522b","N","N"," "," ","Âfoº¥ıti{i´}n","MS",138
+"fourteen","NY50A","523","N","N"," "," ","ıfoø´∞›ÂtiΩin","MS",139
+"fourteen","NY50B","524","N","N"," "," ","Âfoº∫∞éıt±´æin","MS",140
+"fourteen","NY51A","525a","N","N"," ","CNV","Âfoé¥ıtiΩin","MS",141
+"fourteen","NY51B","525b","N","N"," "," ","ıfoøæ¥ÂtiΩin","MS",142
+"fourteen","NY51C","525c","N","N"," "," ","ÂfoΩº∞éıtiΩin","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"fourteen","NY51E!","525e!","N","N"," ","CNV","Âfoéº¥ıtiΩin","MS",145
+"fourteen","NY52A","527","N","N"," "," ","Âf∑´¥ıtiΩin","MS",146
+"fourteen","NY52A","527","N","N"," ","CNV","Âfoé¥ıtiΩin","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"fourteen","NY52C","528b","N","N"," "," ","Âfoº¥ıt`i∫{i´}n","MS",148
+"fourteen","NY53A","529","N","N"," "," ","ıfoº∞›ÂtiΩin","MS",149
+"fourteen","NY53B!","530!","N","N"," "," ","Âfoº∞ıtiΩin","MS",150
+"fourteen","NY54A","531","N","N"," "," ","Âfoº¥ıti{i´}n","MS",151
+"fourteen","NY54B","532","N","N"," "," ","Âfo∫¥ıti∫{i´}n","MS",152
+"fourteen","NY55A","533","N","N"," "," ","Âfoéº¥ıt`i∫{j}n","MS",153
+"fourteen","NY55A","533","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",153
+"fourteen","NY55B","534","N","N"," "," ","Âfoé¥ıti∫{j}n","MS",154
+"fourteen","NY56A","535","N","N"," "," ","Âfoº∞ıti˛∫{j˛}{n}","MS",155
+"fourteen","NY56B","536","N","N"," "," ","ÂfoΩº¥ıti˛Ωi˛n","MS",156
+"fourteen","NY56B","536","N","N"," ","CNV","Âfoé¥Áıti∫n","MS",156
+"fourteen","NY57A","537a","N","N"," "," ","Âf∑é¥ıti∫{j}n","MS",157
+"NR","NY57B","537b"," ","N"," "," "," ","MS",158
+"fourteen","NY57C!","537c!","N","N"," "," ","ıfoº¥Âti∫{j}n","MS",159
+"fourteen","NY58A","539a","N","N"," "," ","ıfoé´¥Âti∫{j}n","MS",160
+"fourteen","NY58A","539a","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",160
+"fourteen","NY58B","539b","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",161
+"fourteen","NY58B","539b","N","N"," ","CNV","ıfoé¥Âti∫{j}n","MS",161
+"fourteen","NY58B","539b","N","N"," ","CNV","Âfoéº¥ıti∫{j}n","MS",161
+"NR","NY58C","539c"," ","N"," "," "," ","MS",162
+"fourteen","NY58D!","539d!","N","N"," "," ","Âf∑∫∞ıtiΩ∫in","MS",163
+"fourteen","NY58E!","539e!","N","N"," "," ","Âf∑é´¥ıti∫{j}n","MS",164
+"fourteen","NY58E!","539e!","N","N"," "," ","Âf∑é¥ıti∫{j}n","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"fourteen","NY59A","543","N","N"," "," ","Âfoéº¥ıti∫{j}n","MS",166
+"fourteen","NY59B","544","N","N"," "," ","foΩ¥ti∫n","MS",167
+"fourteen","NY60A","545","N","N"," "," ","Âfoé´º¥ıti∫{j}n","MS",168
+"fourteen","NY60B!","546!","N","N"," "," ","foéº¥tiΩin","MS",169
+"fourteen","NY60B!","546!","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",169
+"fourteen","NY61A","547","N","N"," "," ","ıfoº∞éÂti∫{j}n","MS",170
+"fourteen","NY61B","548","N","N"," "," ","Âf∑é´¥ıti∫{j}n","MS",171
+"fourteen","NY62A","551a","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",172
+"fourteen","NY62B","551b","N","N"," ","CNV","Âfoº∫∞éıdèi∫{j}n","MS",173
+"fourteen","NY62C","551c","N","N"," "," ","ÂfoéΩ¥ıtiΩ∫in","MS",174
+"fourteen","NY62C","551c","N","N"," ","CNV","Âfoé¥ıti∫n","MS",174
+"fourteen","NY62D!","551d!","N","N"," "," ","Âfoº∫¥ıti∫{j}n","MS",175
+"fourteen","NY63A","556a","N","N"," ","CNV","Âfoé¥ıti∫{j}n","MS",176
+"fourteen","NY63B","556b","N","N"," "," ","Âfoº∫¥ÁıtiΩin","MS",177
+"fourteen","NY63C","556c","N","N"," "," ","foΩ¥ti∫n","MS",178
+"fourteen","NY63D!","556d!","N","N"," ","CNV","Âfoéº¥ıti∫{j}n","MS",179
+"fourteen","NY64A","557a","N","N"," "," ","Âfoé¥ıti∫{j}n","MS",180
+"fourteen","NY64B","557b","N","N"," ","CNV","Âfoº∫¥ıti∫{j}n","MS",181
+"fourteen","NY64B","557b","N","N"," ","CNV","Âfo∫∞éıti∫{j}n","MS",181
+"NR","NY64C!","557c!"," ","N"," "," "," ","MS",182
+"fourteen","NJ1A","1","N","N"," "," ","f∑´¥{t}tiΩin","MS",183
+"fourteen","NJ1B","2","N","N"," "," ","ıf∑¥tÂt±iΩn","MS",184
+"fourteen","NJ2A","3(*)","N","N"," "," ","ıf∑´¥ÂtiΩæ∫n","MS",185
+"fourteen","NJ2B","4","N","N"," "," ","Âf∑´¥tıtiΩin","MS",186
+"fourteen","NJ3A","5","N","N"," "," ","f∑¥∫tiΩin","MS",187
+"fourteen","NJ3B","6","N","N"," "," ","foΩ¥ttiΩ∫n","MS",188
+"fourteen","NJ4A","7","N","N"," "," ","f∑´¥ttiΩin","MS",189
+"fourteen","NJ4B","8","N","N"," "," ","f∑´¥ttiΩ{i}n","MS",190
+"fourteen","NJ5A","9","N","N"," "," ","ÂfoΩ¥'tıtiΩin","MS",191
+"fourteen","NJ5B","10","N","N"," "," ","Âfoº¥ıt±iΩn","MS",192
+"fourteen","NJ6A","11","N","N"," "," ","f∑¥tti∫n","MS",193
+"fourteen","NJ6B","12","N","N"," "," ","foΩ¥'ttiΩin","MS",194
+"fourteen","NJ7A","17","N","N"," "," ","Âf∑´¥'ttiΩin","MS",195
+"fourteen","NJ7B!","18!","N","N"," "," ","Âf∑´¥tıtiΩ{i}n","MS",196
+"fourteen","NJ8A","19","N","N"," "," ","Âf∑´{¥}tıti∫n","MS",197
+"fourteen","NJ8B","20","N","N"," "," ","f∑´¥tti∫n","MS",198
+"fourteen","NJ9A","21","N","N"," "," ","f∑¥tiΩæin","MS",199
+"fourteen","NJ9B","22","N","N"," "," ","f∑¥ttiΩin","MS",200
+"fourteen","NJ10A","24b","N","N"," "," ","Âf∑∫∞ıt{h}i∫n","MS",201
+"fourteen","NJ10B","23","N","N"," "," ","Âf∑¥ıt±´in","MS",202
+"fourteen","NJ10C","24","N","N"," "," ","Âf∑{∞}¥tıtiΩ{i}n","MS",203
+"fourteen","NJ10D!","24c!","N","N"," "," ","f∑¥tti∫n","MS",204
+"fourteen","NJ11A","25","N","N"," "," ","f∑¥tt±´in","MS",205
+"fourteen","NJ11B","26a","N","N"," "," ","f∑¥'ttiΩin","MS",206
+"fourteen","NJ11C","26b","N","N"," "," ","f∑¥tti∫n","MS",207
+"fourteen","NJ12A","27","N","N"," "," ","Âf∑¥ttiΩæ{i}n","MS",208
+"fourteen","NJ12B","28","N","N"," "," ","f∑¥ttiΩæin","MS",209
+"fourteen","NJ13A","29","N","N"," "," ","f∑¥tiΩ{j}n","MS",210
+"fourteen","NJ13B","30","N","N"," "," ","f∑¥ttiΩæin","MS",211
+"fourteen","NJ14A","31","N","N"," "," ","f∑¥ttiΩæin","MS",212
+"fourteen","NJ14B","32","N","N"," "," ","f∑¥ttiΩin","MS",213
+"fourteen","NJ15A","33","N","N"," "," ","f∑¥'ttiΩæin","MS",214
+"fourteen","NJ15B","34","N","N"," "," ","f∑¥tt±´in","MS",215
+"fourteen","NJ16A","35","N","N"," "," ","f∑¥ttiΩ{i}n","MS",216
+"fourteen","NJ16B","36","N","N"," "," ","f∑¥ttiΩæin","MS",217
+"fourteen","NJ17A","37","N","N"," "," ","f∑¥tiΩin","MS",218
+"fourteen","NJ17B","38","N","N"," "," ","f∑¥tiΩæin","MS",219
+"fourteen","NJ18A","41","N","N"," "," ","f∑:tti∫n","MS",220
+"fourteen","NJ18B","42","N","N"," "," ","f∑∞ti∫n","MS",221
+"fourteen","NJ18C!","43!","N","N"," "," ","Âf∑¥ıti∫n","MS",222
+"fourteen","NJ18D!","44!","N","N"," "," ","f∑¥ti∫n","MS",223
+"fourteen","NJ19A","45","N","N"," "," ","Âf∑∫∞ıti∫n","MS",224
+"fourteen","NJ19B!","46!","N","N"," "," ","Âf∑∫∞ti∫n","MS",225
+"fourteen","NJ20A","47","N","N"," "," ","Âf∑{∞}rti∫n","MS",226
+"veertien","NJ20A","47","N","Y","Dutch","INA","veΩ{∞}rti∫n","MS",226
+"fourteen","NJ20B","47b","N","N"," "," ","f∑∫∞ti∫n","MS",227
+"fourteen","NJ21A","48","N","N"," "," ","f∑¥ti∫n","MS",228
+"fourteen","NJ21B","49","N","N"," "," ","Âf∑¥tti∫n","MS",229
+"fourteen","PA1A","51","N","N"," "," ","f∑¥{t}tiΩ{i}n","MS",230
+"fourteen","PA1B","52","N","N"," "," ","f∑´¥∫ti›Ωn","MS",231
+"fourteen","PA1C","53","N","N"," "," ","f∑´¥tiΩin","MS",232
+"fourteen","PA1D","54","N","N"," "," ","f∑´¥tiΩin","MS",233
+"fourteen","PA1E!","55!","N","N"," "," ","Âf∑¥ıtiΩin","MS",234
+"fourteen","PA1F!","56!","N","N"," "," ","Âf∑¥ıti∫n","MS",235
+"fourteen","PA1G!","57!","N","N"," "," ","f∑¥ttiΩ{i}n","MS",236
+"fourteen","PA1H!","58!","N","N"," "," ","f∑´¥tiΩ{i}n","MS",237
+"fourteen","PA2A","59","N","N"," "," ","f∑¥∫tiΩin","MS",238
+"fourteen","PA2B","60","N","N"," "," ","f∑´¥ttiΩin","MS",239
+"fourteen","PA3A","61","N","N"," "," ","f∑¥tiΩin","MS",240
+"fourteen","PA3B","62","N","N"," "," ","f∑´¥'ttiΩin","MS",241
+"fourteen","PA3C","62b","N","N"," "," ","f∑¥'ttiΩin","MS",242
+"fourteen","PA4A","63","N","N"," "," ","f∑´¥{t}tiΩin","MS",243
+"fourteen","PA4B!","64!","N","N"," "," ","Âf∑´¥tiΩin","MS",244
+"fourteen","PA5A","65(*)","N","N"," "," ","f∑´¥tiΩ∫n","MS",245
+"fourteen","PA5B","65b","N","N"," "," ","f∑´¥tt±´in","MS",246
+"fourteen","PA5C","66","N","N"," "," ","f∑´¥tt±´in","MS",247
+"fourteen","PA5D","67","N","N"," "," ","f∑´¥tt±´iΩn","MS",248
+"fourteen","PA5E!","68!","N","N"," "," ","Âf∑´¥{t}ıtiΩn","MS",249
+"fourteen","PA6A","69","N","N"," "," ","f∑{∞}{’}tin","MS",250
+"fourteen","PA6B","71","N","N"," "," ","f∑∞ü’ti∫n","MS",251
+"fourteen","PA6C","71b","N","N"," "," ","f∑{∞}{rü’}ti∫n","MS",252
+"fourteen","PA6D!","72!","N","N"," "," ","f∑¥ti∫n","MS",253
+"fourteen","PA7A","73","N","N"," "," ","f∑´¥{t}tiΩ{i}n","MS",254
+"fourteen","PA7B","74","N","N"," "," ","Âf∑´¥tıtiΩin","MS",255
+"fourteen","PA7C","75","N","N"," "," ","f∑{∞}rtti∫n","MS",256
+"fourteen","PA7D!","76!","N","N"," "," ","f∑¥'tti∫n","MS",257
+"fourteen","PA8A","77","N","N"," "," ","Âf∑´¥tıt±´in","MS",258
+"fourteen","PA8B","78","N","N"," "," ","f∑´¥'ttiΩin","MS",259
+"fourteen","PA8C","79","N","N"," "," ","Âf∑{∞}rıti∫n","MS",260
+"fourteen","PA8D!","80!","N","N"," "," ","f∑´¥ti∫n","MS",261
+"fourteen","PA9A","83","N","N"," "," ","f∑¥tti∫n","MS",262
+"fourteen","PA9B","83b","N","N"," "," ","f∑´¥{t}tiΩ{i}n","MS",263
+"fourteen","PA9C!","84!","N","N"," "," ","Âf∑¥ıti∫n","MS",264
+"fourteen","PA10","87","N","N"," "," ","f∑{∞}rtti∫n","MS",265
+"fourteen","PA11A","89","N","N"," "," ","f∑º¥{t}ti∫n","MS",266
+"fourteen","PA11B","90(*)","N","N"," "," ","f∑´¥'tti∫n","MS",267
+"fourteen","PA12A","91","N","N"," "," ","f∑´º¥ttiΩ∫n","MS",268
+"fourteen","PA12B","92","N","N"," "," ","f∑´º¥{t}tiΩ∫n","MS",269
+"fourteen","PA13A","93","N","N"," "," ","f∑´º¥tiΩ∫n","MS",270
+"fourteen","PA13B","94","N","N"," "," ","f∑´º¥'ttiΩn","MS",271
+"fourteen","PA14A","95(*)","N","N"," "," ","Âf∑{∞}rıti∫n","MS",272
+"fourteen","PA14B","96","N","N"," "," ","f∑´¥{t}tin","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","-0",274
+"fourteen","PA15A","99","N","N"," "," ","f∑¥tiΩ∫n","MS",275
+"fourteen","PA15B","99b","N","N"," "," ","fo¥'ttiΩ{i}n","MS",276
+"fourteen","PA15C!","100!","N","N"," "," ","Âfo¥ıtiΩ{i}n","MS",277
+"fourteen","PA16A","101","N","N"," "," ","Âf∑{∞}{rü’}ıti∫n","MS",278
+"fourteen","PA16B","102","N","N"," "," ","f∑´{∞}rttiΩin","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"fourteen","PA17A","105","N","N"," "," ","f∑{∞}rti∫n","MS",281
+"fourteen","PA17B","106","N","N"," "," ","f∑{∞æ}{rü’}ti∫n","MS",282
+"fourteen","PA18A","107","N","N"," "," ","f∑´¥ti∫n","MS",283
+"fourteen","PA18B!","108!","N","N"," "," ","f∑Ω¥'tti∫n","MS",284
+"fourteen","PA19A","113","N","N"," "," ","f∑´¥{t}tiΩ{i}n","MS",285
+"fourteen","PA19B","114","N","N"," "," ","f∑¥'ttiΩ{i}n","MS",286
+"fourteen","PA20A","115","N","N"," "," ","f∑´¥{t}tiΩ{i}n","MS",287
+"fourteen","PA20B","116","N","N"," "," ","f∑´¥ttiΩin","MS",288
+"fourteen","PA21A","117","N","N"," "," ","foΩ¥tiΩ∫n","MS",289
+"fourteen","PA21B","118","N","N"," "," ","foΩ¥{t}tiΩ∫n","MS",290
+"fourteen","PA22A","119","N","N"," "," ","foΩ¥tin","MS",291
+"fourteen","PA22A","119","N","N"," "," ","f∑´¥tin","MS",291
+"fourteen","PA22B","120","N","N"," "," ","ÂfoΩ¥ıtiΩ∫n","MS",292
+"fourteen","PA23A","121","N","N"," "," ","fo¥tiΩ∫n","MS",293
+"fourteen","PA23B","122","N","N"," "," ","Âf∑¥ıtiΩ∫n","MS",294
+"fourteen","PA24A","123","N","N"," "," ","fo›¥tiΩ∫n","MS",295
+"fourteen","PA24B","124","N","N"," "," ","f∑¥{'t}tiΩ∫n","MS",296
+"fourteen","PA25A","125","N","N"," "," ","fo¥tiΩ∫n","MS",297
+"fourteen","PA25B","126","N","N"," "," ","f∑¥tti∫n","MS",298
+"fourteen","PA26A","127","N","N"," "," ","ÂfoΩ¥'tıtiΩæ∫n","MS",299
+"fourteen","PA26B","128","N","N"," "," ","Âfo¥ıti›Ωn","MS",300
+"fourteen","PA27A","131","N","Y"," ","AUX","ÂfoΩ¥ıtiΩ{i}n","MS",301
+"fourteen","PA27B","132","N","N"," "," ","ÂfoΩ¥ıtiΩ{i}n","MS",302
+"fourteen","PA28A","135","N","N"," "," ","f∑¥{t}tiΩ∫n","MS",303
+"fourteen","PA28B!","136!","N","N"," "," ","f∑¥ttiΩ∫n","MS",304
+"fourteen","PA29A","139(*)","N","N"," "," ","f∑´¥tti∫n","MS",305
+"fourteen","PA29B","140","N","N"," "," ","f∑¥tti∫n","MS",306
+"fourteen","PA30A","143","N","N"," "," ","fo¥ti›{∞}n","MS",307
+"fourteen","PA30B","144","N","N"," "," ","foΩ¥ti›n","MS",308
+"fourteen","PA31A","145","N","N"," "," ","fo¥ti{j}n","MS",309
+"fourteen","PA31B","146","N","N"," "," ","Âfo¥'tti{j}n","MS",310
+"fourteen","PA32A","147","N","N"," "," ","f∑¥'ttiΩin","MS",311
+"fourteen","PA32B","148","N","N"," "," ","Âf∑´º¥tıtiΩ∫n","MS",312
+"fourteen","PA33A","151","N","N"," "," ","f∑´{∞}ré'tti∫n","MS",313
+"fourteen","PA33B","152","N","N"," "," ","f∑´¥'ttiΩ{i}n","MS",314
+"fourteen","PA34A","155","N","N"," "," ","f∑¥ti˛∫n","MS",315
+"fourteen","PA34B","156","N","N"," "," ","Âf∑´¥ttiΩin","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"fourteen","PA35A","157","N","N"," "," ","f∑´¥'tti∫n","MS",318
+"fourteen","PA35B","158(*)","N","N"," "," ","f∑´¥{t}tiΩ∫n","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","-0",320
+"fourteen","PA36A","159","N","N"," "," ","f∑¥{t}tiΩ∫n","MS",321
+"fourteen","PA36B","160","N","N"," "," ","f∑´º¥{t}tiΩ{i}n","MS",322
+"fourteen","PA37A","161(*)","N","N"," "," ","f∑rtin","MS",323
+"fourteen","PA37B","162","N","N"," "," ","f∑¥ti∫n","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","-0",325
+"fourteen","PA38A","163","N","N"," "," ","f∑º¥ttin","MS",326
+"fourteen","PA38B","164","N","N"," "," ","Âf∑¥ti›Ωn","MS",327
+"fourteen","PA39A","165","N","N"," "," ","f∑´¥ttin","MS",328
+"fourteen","PA39B","166","N","N"," "," ","f∑´¥tti›Ω{i}n","MS",329
+"fourteen","PA40A","167","N","N"," "," ","f∑´¥'ttiΩ∫n","MS",330
+"fourteen","PA40B","168","N","N"," "," ","f∑¥tiΩ{i˛}n","MS",331
+"fourteen","PA41A","171","N","N"," "," ","f∑¥tti∫n","MS",332
+"fourteen","PA41B","172","N","N"," "," ","f∑¥tti∫n","MS",333
+"fourteen","PA42A","175","N","N"," "," ","f∑´¥'tti˛Ω∫n","MS",334
+"fourteen","PA42B","176","N","N"," "," ","f∑´¥tti∫n","MS",335
+"fourteen","PA43A","177","N","N"," "," ","f∑´¥ttiΩin","MS",336
+"fourteen","PA43B","178","N","N"," "," ","f∑´¥ttiΩn","MS",337
+"fourteen","PA44A","179","N","N"," "," ","f∑´¥ttiΩin","MS",338
+"fourteen","PA44B","180","N","N"," "," ","Âf∑¥ıtiΩin","MS",339
+"fourteen","PA45A","181","N","N"," "," ","f∑´réttiΩ∫n","MS",340
+"fourteen","PA45B","182","N","N"," "," ","Âf∑rtıtiΩin","MS",341
+"fourteen","PA46A","185","N","N"," "," ","foΩ¥ttiΩin","MS",342
+"fourteen","PA46B","186","N","N"," "," ","f∑´¥'ttiΩin","MS",343
+"fourteen","PA47A","189","N","N"," "," ","fortti∫n","MS",344
+"fourteen","PA47B","190","N","N"," "," ","fortti∫n","MS",345
+"fourteen","PA48A","191","N","N"," "," ","foΩ{∞}rtt±in","MS",346
+"fourteen","PA48B","192","N","N"," "," ","foΩ{∞}{r}ÁtiΩ∫n","MS",347
+"fourteen","PA48C","193","N","N"," "," ","f∑r'tt±´in","MS",348
+"fourteen","PA49A","194","N","N"," "," ","f∑{∞}r'ttiΩin","MS",349
+"fourteen","PA49B","195","N","N"," "," ","f∑´{∞}r'ttiΩ{i}n","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"fourteen","PA50B","197","N","N"," "," ","f∑´r{t}tiΩin","MS",352
+"fourteen","PA50C!","198!","N","N"," "," ","f∑rt±›´i›n","MS",353
+"fourteen","PA51A","199","N","N"," "," ","f∑´rttiΩin","MS",354
+"fourteen","PA51B","200","N","N"," "," ","f∑rtti∫n","MS",355
+"fourteen","PA52A","201","N","N"," "," ","f∑{∞}rtt±in","MS",356
+"fourteen","PA52B!","202!","N","N"," "," ","Âf∑{∞}rtıt±in","MS",357
+"fourteen","PA53A","203","N","N"," "," ","f∑´{∞}rtt±in","MS",358
+"fourteen","PA53B","204","N","N"," "," ","Âf∑´¥'ttiΩin","MS",359
+"fourteen","PA54A","205","N","N"," "," ","f∑r'tt±in","MS",360
+"fourteen","PA54B","206","N","N"," "," ","Âf∑¥'tıt±´in","MS",361
+"fourteen","PA55A","207","N","N"," "," ","f∑rtt±´in","MS",362
+"fourteen","PA55B","208","N","N"," "," ","f∑´¥tt±›´i›n","MS",363
+"fourteen","PA56A","211(*)","N","N"," "," ","fortti∫n","MS",364
+"fourteen","PA56B","212","N","N"," "," ","f∑´{∞}rttiΩin","MS",365
+"fourteen","PA57A","213","N","N"," "," ","f∑rttiΩin","MS",366
+"fourteen","PA57B","214","N","N"," "," ","f∑´rttiΩ{i}n","MS",367
+"fourteen","PA58A","215","N","N"," "," ","f∑{∞}r'tt±in","MS",368
+"fourteen","PA58B","216","N","N"," "," ","f∑´{∞}r'tt±in","MS",369
+"fourteen","PA59A","219","N","N"," "," ","Âf∑´rıtiΩ{i}n","MS",370
+"fourteen","PA59B","220","N","N"," "," ","f∑´rtti∫n","MS",371
+"fourteen","PA60A","221","N","N"," "," ","f∑{∞}r'ttiΩin","MS",372
+"fourteen","PA60B","222","N","N"," "," ","f∑{∞}r'ttiΩin","MS",373
+"fourteen","PA61A","223","N","N"," "," ","f∑´{∞}rttiΩ∫n","MS",374
+"fourteen","PA61B","224","N","N"," "," ","f∑´{∞}rttiΩin","MS",375
+"fourteen","PA62A","229","N","N"," "," ","f∑rti∫n","MS",376
+"fourteen","PA62B","230","N","N"," "," ","f∑ΩrtiΩ{i}n","MS",377
+"fourteen","PA63A","231","N","N"," "," ","foΩrttiΩ{i}n","MS",378
+"fourteen","PA63B","232","N","N"," "," ","f∑´¥tti{j}n","MS",379
+"fourteen","PA64A","233","N","N"," "," ","Âfo¥tti{j}n","MS",380
+"fourteen","PA64B","234","N","N"," "," ","fo∫¥tiΩ{j}n","MS",381
+"fourteen","PA65A","237","N","N"," "," ","fo¥t±´in","MS",382
+"fourteen","PA65B","238","N","N"," "," ","Âfo¥ıt±in","MS",383
+"fourteen","PA66A","239","N","N"," "," ","f∑´rt±æin","MS",384
+"fourteen","PA66B","240","N","N"," "," ","foΩ¥tt±´in","MS",385
+"fourteen","PA67A","243","N","N"," "," ","fo¥tiΩ{i}n","MS",386
+"fourteen","PA67B","244","N","N"," "," ","fo¥ti∫{j}n","MS",387
+"fourteen","WV1!","88!","N","N"," "," ","f∑∫∞éti∫n","MS",388
+"fourteen","WV2","89","N","N"," "," ","fo¥ttin","MS",389
+"fourteen","WV3","91","N","N"," "," ","f∑´¥tti∫n","MS",390
+"fourteen","WV4A","92","N","N"," "," ","f∑´¥ttin","MS",391
+"fourteen","WV4B","93","N","N"," "," ","Âfo¥ttiΩ∫n","MS",392
+"fourteen","WV5","94","N","N"," "," ","ıf∑´¥ÁtÂtiΩin","MS",393
+"fourteen","WV6A","95","N","N"," "," ","Âfo¥tıti∫n","MS",394
+"fourteen","WV6B","96","N","N"," "," ","Âfo¥tıtiΩ{i}n","MS",395
+"fourteen","WV7A","97","N","N"," "," ","Âfo¥tıti∫n","MS",396
+"fourteen","WV7B","98","N","N"," "," ","fo¥{t}tiΩæ∫n","MS",397
+"fourteen","WV8A","97b","N","N"," "," ","fo{¥}tti∫n","MS",398
+"fourteen","WV8B","98b","N","N"," "," ","fo¥tti∫n","MS",399
+"fourteen","WV9A","301","N","N"," "," ","fo∞tti∫n","MS",400
+"fourteen","WV9B","302","N","N"," "," ","fo¥tti∫n","MS",401
+"fourteen","WV10A","303","N","N"," "," ","f∑¥ttiΩin","MS",402
+"fourteen","WV10B","303b","N","N"," "," ","fo¥tti∫n","MS",403
+"fourteen","WV10C","304","N","N"," "," ","f∑¥tti∫n","MS",404
+"fourteen","WV11A","305","N","N"," "," ","fo¥tti∫n","MS",405
+"fourteen","WV11B!","306!","N","N"," "," ","fo¥tti∫n","MS",406
+"fourteen","WV12A","307","N","N"," "," ","fo¥ttiΩin","MS",407
+"fourteen","WV12B","308","N","N"," "," ","fo¥{t}ti∫n","MS",408
+"fourteen","WV13A","309","N","N"," "," ","f∑´¥ttiΩ∫n","MS",409
+"fourteen","WV13B","310","N","N"," "," ","f∑´¥ttiΩ{i}n","MS",410
+"fourteen","WV14A","311","N","N"," "," ","fo¥ttiΩ{i}n","MS",411
+"fourteen","WV14B","312","N","N"," "," ","fo¥tti∫n","MS",412
+"fourteen","WV15A","313","N","N"," "," ","foΩ¥tiΩin","MS",413
+"fourteen","WV15B","314","N","N"," "," ","fo¥{t}ti∫n","MS",414
+"fourteen","WV16A","315","N","N"," "," ","Âfo{¥}tıtiΩ{i}n","MS",415
+"fourteen","WV16B","316","N","N"," "," ","fo¥tti∫n","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"fourteen","WV17B","317b","N","N"," "," ","fo¥ttiΩ∫n","MS",418
+"fourteen","WV17C","318","N","N"," "," ","fo¥'tti∫n","MS",419
+"fourteen","WV18A","319","N","N"," "," ","fo¥ttiΩin","MS",420
+"fourteen","WV18B","320","N","N"," "," ","fo¥tti∫n","MS",421
+"fourteen","WV19A","321","N","N"," "," ","forttiΩin","MS",422
+"fourteen","WV19B","322","N","N"," "," ","Âfo¥tıti∫n","MS",423
+"fourteen","WV20A","323","N","N"," "," ","fortti∫n","MS",424
+"fourteen","WV20B","324","N","N"," "," ","fo¥ti∫n","MS",425
+"fourteen","WV21A","325","N","N"," "," ","fo¥tti∫n","MS",426
+"fourteen","WV21B","326","N","N"," "," ","fo¥tti∫n","MS",427
+"fourteen","WV22A","327","N","N"," "," ","fo¥ttiΩ∫n","MS",428
+"fourteen","WV22B","328","N","N"," "," ","fo{¥}tti∫n","MS",429
+"fourteen","WV23A","331","N","N"," ","SIC","fo{π}tti∫n","MS",430
+"fourteen","WV23B","332","N","N"," "," ","fo¥tti∫n","MS",431
+"fourteen","WV24A","335","N","N"," ","SIC","fo{π}tti∫n","MS",432
+"fourteen","WV24B","336","N","N"," "," ","fo¥tiΩ∫n","MS",433
+"fourteen","WV25A","337","N","N"," "," ","fo{π}tti∫n","MS",434
+"fourteen","WV25B","338","N","N"," "," ","fo¥{t}ti∫n","MS",435
+"fourteen","WV26A","339","N","N"," "," ","fo¥tti∫n","MS",436
+"fourteen","WV26B","340","N","N"," "," ","Âfo¥tıti∫n","MS",437
+"fourteen","WV27A","341","N","N"," "," ","fo¥tti∫n","MS",438
+"fourteen","WV27B","342","N","N"," "," ","fo¥ttiΩæin","MS",439
+"fourteen","WV28A","343","N","N"," "," ","fo¥tti∫n","MS",440
+"fourteen","WV28B","344","N","N"," "," ","fo¥tti∫n","MS",441
+"fourteen","WV29A","345","N","N"," "," ","fo{∞}¥tti∫n","MS",442
+"fourteen","WV29B","346","N","N"," "," ","fo¥ttiΩ∫n","MS",443
+"fourteen","WV30A","347","N","N"," "," ","fo∫{¥}tti∫n","MS",444
+"fourteen","WV30B","348","N","N"," "," ","fo¥tti∫n","MS",445
+"fourteen","WV31A","349","N","N"," "," ","fo¥tti∫n","MS",446
+"fourteen","WV31B","350","N","N"," "," ","fo{¥}tti∫n","MS",447
+"fourteen","WV32A","353","N","N"," "," ","fo¥tti∫n","MS",448
+"fourteen","WV32B","354","N","N"," "," ","fo¥tti∫n","MS",449
+"fourteen","WV33A","355","N","N"," "," ","fo¥tti∫n","MS",450
+"fourteen","WV33B","356","N","N"," "," ","fo¥tti∫n","MS",451
+"fourteen","WV34A","359","N","N"," "," ","fo∞tti∫n","MS",452
+"fourteen","WV34B","360","N","N"," "," ","fo¥tti∫n","MS",453
+"fourteen","WV35A","361","N","N"," "," ","fo¥tti∫n","MS",454
+"fourteen","WV35B","362","N","N"," "," ","fo¥tti∫n","MS",455
+"fourteen","WV36A","363","N","N"," "," ","fo¥tti∫n","MS",456
+"fourteen","WV36B","364","N","N"," "," ","fo¥ttiΩ{i}n","MS",457
+"fourteen","WV37A","365","N","N"," "," ","fo¥tti∫n","MS",458
+"fourteen","WV37B!","366!","N","N"," "," ","fo¥tti∫n","MS",459
+"fourteen","WV38A","367","N","N"," "," ","fo¥tti∫n","MS",460
+"fourteen","WV38B","368","N","N"," "," ","fo¥ttiΩ∫n","MS",461
+"fourteen","WV39A","369","N","N"," "," ","fo¥tti∫n","MS",462
+"fourteen","WV39B","370","N","N"," "," ","fo¥tti∫n","MS",463
+"fourteen","WV39C!","371!","N","N"," "," ","fo¥tti∫n","MS",464
+"fourteen","WV40A","373","N","N"," "," ","fo¥tti∫n","MS",465
+"fourteen","WV40B","374","N","N"," "," ","Âfo¥tıti∫n","MS",466
+"fourteen","WV41A","375","N","N"," "," ","fo¥tti∫n","MS",467
+"fourteen","WV41B","376","N","N"," "," ","fo¥tti∫n","MS",468
+"fourteen","WV42A","377","N","N"," "," ","fo¥ttiΩ{i}n","MS",469
+"fourteen","WV42B","378","N","N"," "," ","fo¥tti∫n","MS",470
+"fourteen","WV43A","381","N","N"," "," ","fo¥tti∫n","MS",471
+"fourteen","WV43B","382","N","N"," "," ","fo¥tti∫n","MS",472
+"fourteen","WV44A","383","N","N"," "," ","fo¥tti∫n","MS",473
+"fourteen","WV44B","384","N","N"," "," ","fo¥tti∫n","MS",474
+"fourteen","WV45A","385","N","N"," "," ","fo¥tti∫n","MS",475
+"fourteen","WV45B","386","N","N"," "," ","fo¥tti∫n","MS",476
+"fourteen","WV46A","387","N","N"," "," ","foré'ttiæin","MS",477
+"fourteen","WV46B","388","N","N"," "," ","fo¥tti∫n","MS",478
+"fourteen","WV47A","389","N","N"," "," ","fo¥ttiΩin","MS",479
+"fourteen","WV47B","390","N","N"," "," ","Âfo¥ıt±´in","MS",480
+"fourteen","WV48A","391","N","N"," "," ","fo¥tti∫n","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"fourteen","WV48D","392b","N","N"," "," ","Âfo¥ttiΩin","MS",484
+"fourteen","WV49A","393","N","N"," "," ","Âfo¥tıtiΩ{i}n","MS",485
+"fourteen","WV49B","394","N","N"," "," ","fo¥tti∫n","MS",486
+"fourteen","WV50A","395","N","N"," "," ","fo¥tti∫n","MS",487
+"fourteen","WV50B","396","N","N"," "," ","fo¥ttiΩ{i}n","MS",488
+"fourteen","WV51A","261","N","N"," "," ","fo¥ttiΩ∫n","MS",489
+"fourteen","WV51B","262","N","N"," "," ","f∑´¥tti∫n","MS",490
+"fourteen","WV52A","258","N","N"," "," ","f∑¥tti∫n","MS",491
+"fourteen","WV52B","259","N","N"," "," ","f∑¥tti∫n","MS",492
+"fourteen","WV52C!","260!","N","N"," "," ","f∑¥tti∫n","MS",493
+"fourteen","WV53A","257","N","N"," "," ","f∑´¥tti∫n","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"fourteen","WV53C!","257c!","N","N"," "," ","f∑¥tti∫n","MS",496
+"fourteen","WV54A","255","N","N"," "," ","f∑{∞}r'ttiΩin","MS",497
+"fourteen","WV54B","256","N","N"," "," ","foΩ{∞}rtti∫n","MS",498
+"fourteen","DE1A","11","N","N"," "," ","ÂfoΩ¥tıtiΩin","MS",499
+"fourteen","DE1B","12","N","N"," "," ","Âf∑¥ttiΩin","MS",500
+"fourteen","DE1C!","13!","N","N"," "," ","Âf∑´¥tıtiΩin","MS",501
+"fourteen","DE2A","15(*)","N","N"," "," ","Âfo›¥ÁtıtiΩin","MS",502
+"fourteen","DE2B","16","N","N"," "," ","ÂfoΩ¥tıtiΩin","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","-0",504
+"fourteen","DE3A","18","N","N"," "," ","fo¥{t}tiΩ{i}n","MS",505
+"fourteen","DE3B","19","N","N"," "," ","fo¥ttiΩin","MS",506
+"fourteen","DE3C!","17!","N","N"," "," ","Âf∑¥{t}ıtiΩin","MS",507
+"fourteen","DE4","20","N","N"," "," ","Âfo¥tti∫n","MS",508
+"fourteen","DE5A","21","N","N"," "," ","Âfo¥Áttijn","MS",509
+"fourteen","DE5B","22","N","N"," "," ","Âfo¥tıtiΩin","MS",510
+"fourteen","DE6A","23","N","N"," "," ","Âfo¥tı{t}iΩin","MS",511
+"fourteen","DE6B","24","N","N"," "," ","fo¥ttiΩin","MS",512
+"fourteen","MD1A","27","N","N"," "," ","Âf∑´¥{t}ıti∫n","MS",513
+"fourteen","MD1B","28","N","N"," "," ","Âf∑´¥tıtin","MS",514
+"fourteen","MD2A","31a","N","N"," "," ","fo¥ttiΩi˛n","MS",515
+"fourteen","MD2B","32","N","N"," "," ","f∑¥tti∫n","MS",516
+"fourteen","MD3A","33","N","N"," "," ","fo∞éttiΩ∫n","MS",517
+"fourteen","MD3B","34","N","N"," "," ","Âf∑´¥tıtiΩin","MS",518
+"fourteen","MD4A","35b","N","N"," "," ","Âfo¥ıtiΩin","MS",519
+"fourteen","MD4B","35","N","N"," "," ","Âfo¥tıt±´iΩn","MS",520
+"fourteen","MD4C","36","N","N"," "," ","fo¥Áttijn","MS",521
+"fourteen","MD5A","37","N","N"," "," ","Âfo›¥ÁtıtiΩæ∫n","MS",522
+"fourteen","MD5B","38","N","N"," "," ","Âfo¥tıtiΩin","MS",523
+"fourteen","MD6A","39(*)","N","N"," "," ","ÂfoΩ¥tıt±´iΩn","MS",524
+"fourteen","MD6B","40","N","N"," "," ","Âfo¥ttiΩæ∫n","MS",525
+"fourteen","MD7A","41","N","N"," "," ","Âfo¥tiΩin","MS",526
+"fourteen","MD7B","41b","N","N"," "," ","Âfo¥tıtiΩin","MS",527
+"fourteen","MD7C!","42!","N","N"," "," ","ÂfoΩ{¥}ttiΩn","MS",528
+"fourteen","MD8A","43","N","N"," "," ","fo¥ttiΩin","MS",529
+"fourteen","MD8B","44","N","N"," "," ","Âfo¥tıtiΩin","MS",530
+"fourteen","MD9N","N46","N","N"," "," ","Âfo∞éttijn","MS",531
+"fourteen","MD9A","45","N","N"," "," ","Âfo¥ÁtıtiΩin","MS",532
+"fourteen","MD9B","46","N","N"," "," ","Âfo¥tıtiΩin","MS",533
+"fourteen","MD10A","49","N","N"," "," ","Âf∑´¥{t}ıti∫n","MS",534
+"fourteen","MD10B","50","N","N"," "," ","ÂfoΩ¥tıtin","MS",535
+"fourteen","MD11","51","N","N"," "," ","f∑:∞tti∫n","MS",536
+"fourteen","MD12A","52","N","N"," "," ","fo¥ti∫n","MS",537
+"fourteen","MD12B","53","N","N"," "," ","Âf∑´¥Átıti∫n","MS",538
+"fourteen","MD13A","54(*)","N","N"," "," ","f∑´∫∞éti∫n","MS",539
+"fourteen","MD13B","55","N","N"," "," ","f∑´¥ttin","MS",540
+"fourteen","MD13C","56","N","N"," "," ","f∑´¥Átti∫n","MS",541
+"fourteen","MD13D!","57!","N","N"," "," ","f∑∫∞ttin","MS",542
+"fourteen","MD13E!","58!","N","N"," "," ","Âf∑∞tiΩ{∞}n","MS",543
+"fourteen","MD13F!","59!","N","N"," "," ","f∑´:{∞}ti˛Ω∫n","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","-0",545
+"fourteen","MD14","61(*)","N","N"," "," ","ÂfoΩ¥tin","MS",546
+"fourteen","MD15A","62","N","N"," "," ","ıf∑´∞étÂtin","MS",547
+"fourteen","MD15B","63","N","N"," "," ","Âf∑´∫∞éÁtıtin","MS",548
+"fourteen","MD16","64","N","N"," "," ","foΩ¥ÁttiΩ∫n","MS",549
+"fourteen","MD17A","65","N","N"," "," ","f∑´¥ttin","MS",550
+"fourteen","MD17B","66","N","N"," "," ","f∑¥Átti∫n","MS",551
+"fourteen","MD18A","67","N","N"," "," ","fo{π}tti∫n","MS",552
+"fourteen","MD18B","68","N","N"," "," ","Âf∑´∫∞étıtin","MS",553
+"fourteen","MD19A","69","N","N"," "," ","f∑´∫{∞}tti∫n","MS",554
+"fourteen","MD19B","70","N","N"," "," ","Âf∑∫{∞é}tti∫n","MS",555
+"fourteen","MD20A","71","N","N"," "," ","ÂfoΩ∞ttijn","MS",556
+"fourteen","MD20B","72","N","N"," "," ","fo{∞}tti∫n","MS",557
+"fourteen","MD20C!","73!","N","N"," "," ","f∑∫∞tti∫n","MS",558
+"fourteen","MD21A","75","N","N"," "," ","ÂfoΩ∞tıti∫n","MS",559
+"fourteen","MD21B","76","N","N"," "," ","foΩ∫∞ttin","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"fourteen","MD22M","N78","N","N"," "," ","Âf∑∫{∞}tıti∫n","MS",562
+"fourteen","MD22A","77","N","N"," "," ","Âf∑´∞éttiΩ∫n","MS",563
+"fourteen","MD22B","78","N","N"," "," ","Âf∑∫{∞}tıti∫n","MS",564
+"fourteen","MD22C!","79!","N","N"," "," ","f∑´{∞é}ttin","MS",565
+"fourteen","MD23A","80b","N","N"," "," ","ÂfoΩ∞tıti∫n","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"fourteen","MD23C","81","N","N"," "," ","Âf∑∫∞tıtin","MS",568
+"fourteen","MD24","82","N","N"," "," ","Âf∑´∫∞tıti∫n","MS",569
+"fourteen","MD25","84","N","N"," "," ","f∑¥tti∫n","MS",570
+"fourteen","MD26A","83","N","N"," "," ","ÂfoΩ¥tıti∫n","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"fourteen","MD27A","85","N","N"," "," ","f∑¥{t}tiΩin","MS",573
+"fourteen","MD27B","86","N","N"," "," ","f∑´¥ÁttiΩ∫n","MS",574
+"fourteen","DC1A","99","N","N"," "," ","f∑∞ÁttiΩ{∞}n","MS",575
+"fourteen","DC1B!","100!","N","N"," "," ","Âf∑´:{∞}ıti∫n","MS",576
+"fourteen","VA1!","101!","N","N"," "," ","Âfo∞tiΩ∫n","MS",577
+"fourteen","VA2A","103","N","N"," "," ","ÂfoΩ∞ÁttiΩæ∫n","MS",578
+"fourteen","VA2A","103","N","Y","affectation","NEW","Âf∑∞ÁttiΩæ∫n","MS",578
+"fourteen","VA2A","103","N","n","natural"," ","ÂfoÁttiΩæ∫n","MS",578
+"fourteen","VA2B","104","N","N"," "," ","Âfo∞{t}ıti˛∫n","MS",579
+"fourteen","VA3A","105(*)","N","N"," "," ","Âf∑´¥Átıti∫{∞}n","MS",580
+"fourteen","VA3B","106","N","N"," "," ","Âfo¥Átıti∫n","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","-0",582
+"fourteen","VA4N","N109","N","Y","uncertain in counting from thirteen onward","SUG","Âfo∫ti∫n","MS",583
+"fourteen","VA5A","107","N","N"," "," ","Âfo∞ÁttiΩ∫n","MS",584
+"fourteen","VA5A","107","N","N","natural"," ","Âfo´∫ÁttiΩ∫n","MS",584
+"fourteen","VA5B","108","N","N"," "," ","Âfo{π}ıti∫n","MS",585
+"fourteen","VA6A","113","N","N"," "," ","Âfo{π}Átıti∫n","MS",586
+"fourteen","VA6B","114","N","N"," "," ","Âfo∞éÁtıti∫n","MS",587
+"fourteen","VA7A","121","N","N"," "," ","Âfo{π}Átıti∫n","MS",588
+"fourteen","VA7B","122","N","N"," "," ","Âfo{π}Átıti∫n","MS",589
+"fourteen","VA8A","123","N","N"," "," ","Âfo∫tti∫n","MS",590
+"fourteen","VA8B","124","N","N"," "," ","Âfo{π}Átti∫n","MS",591
+"fourteen","VA8C!","125!","N","N"," "," ","Âfo{π}ttiΩ∫n","MS",592
+"fourteen","VA9A","117","N","N"," "," ","Âfo{π}ttin","MS",593
+"fourteen","VA9B!","118!","N","N"," "," ","Âfo∫tti∫n","MS",594
+"fourteen","VA10A","127","N","N"," "," ","Âfo{πøΩ}tıtiΩ∫n","MS",595
+"fourteen","VA10B","128","N","N"," "," ","Âfo{π}tti{j}n","MS",596
+"fourteen","VA11A","129","N","N"," "," ","Âfo{π}Átti∫{∞}n","MS",597
+"fourteen","VA11B","130","N","N"," "," ","fo{π}Átti∫n","MS",598
+"fourteen","VA12N","N131","N","N"," "," ","Â{Ê}otti∫n","MS",599
+"fourteen","VA12A","131","N","N"," "," ","Âfo∫Átti∫n","MS",600
+"fourteen","VA12B!","132!","N","N"," "," ","Âfo∞Átti∫n","MS",601
+"fourteen","VA12B!","132!","N","N"," "," ","Âfo{π}Átti∫n","MS",601
+"fourteen","VA13A","133","N","N"," "," ","Âfo{π}ÁttiΩ∫n","MS",602
+"fourteen","VA13B","134","N","N"," "," ","Âfo∞éÁtti∫n","MS",603
+"fourteen","VA14A","135","N","N"," "," ","Âfo{π}ttiΩjn","MS",604
+"fourteen","VA14B","136","N","N"," "," ","Âfo{π}ÁttiΩ∫n","MS",605
+"fourteen","VA14C","137","N","N"," "," ","Âfo{π}Átti∫n","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"fourteen","VA15A","139","N","N"," "," ","fo∫tti∫n","MS",608
+"fourteen","VA15B","140","N","N"," "," ","Âfo{π}Átti∫n","MS",609
+"fourteen","VA16A","141","N","N"," "," ","Âfo{π}ti∫n","MS",610
+"fourteen","VA16B","142","N","N"," "," ","Âfo{πø}Átıti∫n","MS",611
+"fourteen","VA17A","143","N","N"," "," ","Âfo{π}tıti∫n","MS",612
+"fourteen","VA17B","144","N","N"," "," ","Âfo{∞}Átti∫n","MS",613
+"fourteen","VA18","145","N","N"," "," ","fo´∫Átti∫n","MS",614
+"fourteen","VA19A","146","N","N"," "," ","fo∫{π}ÁttiΩi˛n","MS",615
+"fourteen","VA19B","147","N","N"," "," ","ÂfoΩ{π}{t}ıt±´jn","MS",616
+"fourteen","VA19C!","148!","N","N"," "," ","Âfo∞tiΩ{j}{∞}n","MS",617
+"fourteen","VA20A","149","N","N"," "," ","Âfo{π}Átıti∫n","MS",618
+"fourteen","VA20B","150(*)","N","N"," "," ","Âfo{∞}{t}ıti∫n","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","-0",620
+"fourteen","VA21N","N153","N","N"," "," ","fo∫Âtíi˛∫{n}","MS",621
+"fourteen","VA21A","153","N","N"," "," ","Âfo{π}ÁttıiΩæ∫n","MS",622
+"fourteen","VA21B","154","N","N"," "," ","Âfo{πøΩ}ÁtıtiΩ∫n","MS",623
+"fourteen","VA22","155","N","N"," "," ","Âfo{π}Átıti∫n","MS",624
+"fourteen","VA23A","156","N","N"," "," ","fo{π}t±´{j}n","MS",625
+"fourteen","VA23B","157","N","N"," "," ","Âfo{∞}Átti{j}n","MS",626
+"fourteen","VA24","159","N","N"," "," ","Âfo{∞}Átti{j}n","MS",627
+"fourteen","VA25","160(*)","N","N"," "," ","fo{∞}¥Á{t}t±iΩn","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"fourteen","VA26B","161","N","N"," "," ","fo{∞}¥Átt±´iΩ{∞}n","MS",630
+"fourteen","VA26C","162","N","N"," "," ","ÂfoΩ∞éÁtıt±´iΩn","MS",631
+"fourteen","VA27","163(*)","N","N"," "," ","foΩ{∞}{¥}Átt±´iΩn","MS",632
+"fourteen","VA28A","164","N","N"," "," ","Âfo{π}{t}ıti∫n","MS",633
+"fourteen","VA28B","165","N","N"," "," ","foΩ∞tiΩ{∞}n","MS",634
+"fourteen","VA29","166","N","N"," "," ","Âfo{π}Átıti{j}n","MS",635
+"fourteen","VA30A","167","N","N"," "," ","Âfo{π}Átıti∫n","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"fourteen","VA30C!","168!","N","N"," "," ","Âfo∞tiΩæ∫n","MS",638
+"fourteen","VA30C!","168!","N","N","natural"," ","ÂfoºttiΩæn","MS",638
+"fourteen","VA30D!","169!","N","N"," "," ","fo∞ti{j}{∞}n","MS",639
+"fourteen","VA30E!","170!","N","N"," "," ","fo∞ti∫n","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"fourteen","VA31B","172","N","N"," "," ","Âfo{π}Átıti∫n","MS",642
+"fourteen","VA31C"," ","N","N"," "," ","Âfo{πø}Á{t}ıtiΩ∫n","-0",643
+"fourteen","VA32!","175!","N","N"," "," ","Âfo{π}Átti∫{∞}n","MS",644
+"fourteen","VA33A","173","N","N"," "," ","Âfo{π}Átti∫n","MS",645
+"fourteen","VA33B","174","N","N"," "," ","Âfo{π}tıti∫n","MS",646
+"fourteen","VA34A","177(*)","N","N"," "," ","Âfoπtti∫n","MS",647
+"fourteen","VA34B","178","N","N"," "," ","fo∞Átti∫n","MS",648
+"fourteen","VA35A","179","N","N"," "," ","Âfo´∫{t}ti˛∫n","MS",649
+"fourteen","VA35B","180","N","N"," "," ","Âfo{π}Átıtin","MS",650
+"fourteen","VA36A","181","N","N"," "," ","Âfo´º{π}Átıtin","MS",651
+"fourteen","VA36B","182","N","N"," "," ","Âfo{π}tti˛∫n","MS",652
+"fourteen","VA37","183","N","N"," "," ","Âfo{π}Átıti∫n","MS",653
+"fourteen","VA38","185","N","N"," "," ","Âf∑∞ÁttiΩjn","MS",654
+"fourteen","VA38","185","N","Y","as a child","HRD","ÂfoΩ{π}ÁttiΩjn","MS",654
+"fourteen","VA39!","186!","N","N"," "," ","Âf∑´{o}{∞}ıtiΩjn","MS",655
+"fourteen","VA40A","187","N","N"," "," ","Âfo{∞é}Átıti{i˛}n","MS",656
+"fourteen","VA40B","188","N","N"," "," ","Âfo¥Á{t}ıti{j}n","MS",657
+"fourteen","VA41A","191","N","N"," "," ","Âfo{π}Átti∫n","MS",658
+"fourteen","VA41B","192","N","N"," "," ","fo{π}Á{t}ti∫n","MS",659
+"fourteen","VA42A","193(*)(**)","N","N"," "," ","Âfo∫tıtin","MS",660
+"fourteen","VA42B","194","N","N"," "," ","Âfo{π}Átti∫n","MS",661
+"fourteen","VA43N","N195","N","N"," "," ","Âfo´{∞}{t}ti∫n","MS",662
+"fourteen","VA43A","195","N","N"," "," ","Âfo{π}Átti∫n","MS",663
+"fourteen","VA43B","196","N","N"," "," ","Âfo{π}tıtin","MS",664
+"fourteen","VA44A","199","N","N"," "," ","ÂfoπÁtti∫n","MS",665
+"fourteen","VA44B","200","N","N"," "," ","Âfo{π}ÁttiΩ∫n","MS",666
+"fourteen","VA45A","201","N","N"," "," ","Âfo{π}tti∫n","MS",667
+"fourteen","VA45B","202","N","N"," "," ","Âfo∫ıti∫{∞}n","MS",668
+"fourteen","VA46N","N207","N","N"," "," ","Âfo´∫tti∫n","MS",669
+"NR","VA46A","207"," ","N"," "," "," ","MS",670
+"fourteen","VA46B!","208!","N","N"," "," ","ÂfoΩ∫∞Átti∫jn","MS",671
+"fourteen","VA47","211","N","N"," "," ","Âfo{π}Átıti∫n","MS",672
+"fourteen","VA48A","213(*)","N","N"," "," ","Âfo{π}Átti∫n","MS",673
+"fourteen","VA48B","214","N","N"," "," ","Âfo{π}Átti{j}n","MS",674
+"fourteen","VA49A","215","N","N"," "," ","Âfo{π}Átti∫n","MS",675
+"fourteen","VA49B","216","N","N"," "," ","Âfo{π}tıti∫n","MS",676
+"fourteen","VA50A","217","N","N"," "," ","Âfo{πΩ}Átıti∫n","MS",677
+"fourteen","VA50B","218","N","N"," "," ","Âfo{π}Átıti∫n","MS",678
+"fourteen","VA51A","219","N","N"," "," ","Âfo{π}Átti∫n","MS",679
+"fourteen","VA51B","220(*)","N","N"," "," ","fo{π}Átti∫n","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","-0",681
+"fourteen","VA52A","224","N","N"," "," ","Âf∑´¥Átıti∫n","MS",682
+"fourteen","VA52B","225","N","N"," "," ","Âfo∫∞étti∫n","MS",683
+"fourteen","VA52C!","226!","N","N"," "," ","ıfoΩ∞éÂti∫n","MS",684
+"fourteen","VA53A","227","N","N"," "," ","Âfo¥Átti∫n","MS",685
+"fourteen","VA53B","228","N","N"," "," ","Âfoº¥ÁttiΩ∫n","MS",686
+"fourteen","VA54A","229","N","N"," "," ","Âfoº{π}ÁtıtiΩæjn","MS",687
+"fourteen","VA54B","230","N","N"," "," ","ÂfoΩ∞éÁttiΩ∫n","MS",688
+"fourteen","VA55A","233(*)","N","N"," "," ","fo¥Á{t}tiΩin","MS",689
+"fourteen","VA55B","234(*)","N","N"," "," ","Âfo¥ti∫n","MS",690
+"fourteen","VA56A","237","N","N"," "," ","Âfo¥Átıti∫n{d}","MS",691
+"fourteen","VA56B","238","N","N"," "," ","Âfo¥Átti∫n","MS",692
+"fourteen","VA57A","239","N","N"," "," ","Âfo∞éÁtıti∫n","MS",693
+"fourteen","VA57B","240","N","N"," "," ","Âfo{π}Átıti∫n","MS",694
+"fourteen","VA58","241(*)","N","N"," "," ","ÂfoÁtıti∫n","MS",695
+"fourteen","VA59N","N241","N","N"," "," ","fo{∞}ti∫n","MS",696
+"fourteen","VA59A","242","N","N"," "," ","Âfo∞étıti∫{∞}n","MS",697
+"fourteen","VA59B!","243!","N","N"," "," ","Âfo∞éıti∫n","MS",698
+"fourteen","VA60","244(*)","N","N"," "," ","Âfoº¥Átti∫n","MS",699
+"fourteen","VA61A","245(*)","N","N"," "," ","Âfortıti∫n","MS",700
+"fourteen","VA61B!","246!","N","N"," "," ","Âfo{∞é}Átti∫n","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","-0",702
+"fourteen","VA62A","247(*)","N","N"," "," ","Âfo{π}ÁtıtiΩ∫n","MS",703
+"fourteen","VA62B","248","N","N"," "," ","Âfo{π}Átti∫n","MS",704
+"fourteen","VA63A","251","N","N"," "," ","Âfo{π}Átti∫n","MS",705
+"fourteen","VA63B","252","N","N"," "," ","Âfo¥ÁtıtiΩjn","MS",706
+"fourteen","VA64A","255","N","N"," "," ","Âfo{π}Átıti∫n","MS",707
+"fourteen","VA64B","256","N","N"," "," ","Âfo∞ti∫n","MS",708
+"fourteen","VA64B","256","N","N"," "," ","Âfo{π}{t}ti∫n","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"fourteen","VA65B","258","N","N"," "," ","ÂfortiΩn","MS",710
+"fourteen","VA65C!","259!","N","N"," "," ","Âfo∞Átıti∫n","MS",711
+"fourteen","VA66A","261","N","N"," "," ","Âfo{π}tti∫n","MS",712
+"fourteen","VA66B","262","N","N"," "," ","Âfo{π}tti∫n","MS",713
+"fourteen","VA67A","267","N","N"," "," ","Âfo¥tıtiΩjn","MS",714
+"fourteen","VA67B","268","N","N"," "," ","Âfo¥ÁtıtiΩ∫n","MS",715
+"fourteen","VA68A","269","N","N"," "," ","Âfo{¥}Átıti∫n","MS",716
+"fourteen","VA68B","270","N","N"," "," ","Âfo{∞é}Átti∫n","MS",717
+"fourteen","VA69A","273","N","N"," "," ","Âfo{π}Átti∫n","MS",718
+"fourteen","VA69B","274","N","N"," "," ","Âfo{π}tıti∫n","MS",719
+"fourteen","VA70A","275","N","N"," "," ","Âfortti˛∫n","MS",720
+"fourteen","VA70B","276","N","N"," "," ","Âfo¥ÁtıtiΩ{i}n","MS",721
+"fourteen","VA71A","285","N","N"," "," ","Âfo∞éÁtti∫n","MS",722
+"fourteen","VA71B","286","N","N"," "," ","Âfo∞étıtiΩin","MS",723
+"fourteen","VA72A","287","N","N"," "," ","Âfo∞éÁtıtiΩ∫n","MS",724
+"fourteen","VA72B","288","N","N"," "," ","Âfo∞éÁtıtiΩ{i}n","MS",725
+"fourteen","VA73","291","N","N"," "," ","Âfo∞éÁtıti∫n","MS",726
+"fourteen","VA74A","293","N","N"," "," ","Âfo{π}tıtiΩ∫n","MS",727
+"fourteen","VA74B!","294!","N","N"," "," ","ÂfoπÁtıti∫n","MS",728
+"fourteen","VA75A","297","N","N"," "," ","Âfo{π´}tıti∫n","MS",729
+"fourteen","VA75B","298","N","N"," "," ","ÂfoΩ¥Átıti∫n","MS",730
+"fourteen","NC1","303","N","N"," "," ","Âfo{∞}{¥}tiΩæ{i}n","MS",731
+"fourteen","NC2A","301","N","N"," "," ","Âfo∞éÁttijn","MS",732
+"fourteen","NC2B","304","N","N"," "," ","fo{∞é}Á{t}tii˛n","MS",733
+"fourteen","NC3A","305","N","N"," "," ","fo∞éÁ{t}ti∫n","MS",734
+"fourteen","NC3B","306","N","N"," "," ","fo∞éÁttiΩjn","MS",735
+"fourteen","NC4A","307","N","N"," "," ","Âfo{∞é}tiΩæin","MS",736
+"fourteen","NC4B","308","N","N"," "," ","ıfo{∞}ÁtÂtin","MS",737
+"fourteen","NC5A","309","N","N"," "," ","Âfo∫{∞é}ıti∫n","MS",738
+"fourteen","NC5B","310","N","N"," "," ","fo{∞é}Á{t}tiΩ{i}{∞}n","MS",739
+"fourteen","NC6!","311!","N","N"," "," ","fo∞Átti{j}{∞}n","MS",740
+"fourteen","NC7A","315(*)","N","N"," "," ","Âfo{∞}tti∫n","MS",741
+"fourteen","NC7B","316","N","N"," "," ","Âfo∫¥{t}ıtiΩæ{j}n","MS",742
+"fourteen","NC8N","N317","N","N"," "," ","fo´{π}tti∫n","MS",743
+"fourteen","NC8A","317","N","N"," "," ","fo{¥}Á{t}ti˛∫n","MS",744
+"fourteen","NC8B","318(*)","N","N"," "," ","Âfo{π}Á{t}ıti{i˛}n","MS",745
+"fourteen","NC9A","319","N","N"," "," ","fo∫{∞é}Á{t}ti∫n","MS",746
+"fourteen","NC9B","320","N","N"," "," ","fo{π}∞éÁtti˛∫n","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"fourteen","NC10B","323","N","N"," "," ","foΩº¥t±´jn","MS",749
+"fourteen","NC10C","322","N","N"," "," ","f∑´¥Á{t}t±˛i˛n","MS",750
+"fourteen","NC11A","325","N","N"," "," ","foΩ¥Átt±˛{i˛}n","MS",751
+"fourteen","NC11B","326","N","N"," "," ","Âfo¥Átıt±´in","MS",752
+"fourteen","NC12A","327(*)","N","N"," "," ","Âfo{¥}Á{t}t±˛i˛Ωn","MS",753
+"fourteen","NC12B","328","N","N"," "," ","fo{∞}Áttii˛n","MS",754
+"fourteen","NC13A","329","N","N"," "," ","fo{¥}Á{t}ti˛∫n","MS",755
+"fourteen","NC13B","330(*)","N","N"," "," ","Âfo{π}¥Á{t}tii˛n","MS",756
+"fourteen","NC14N","N331","N","N"," "," ","Âfo{π}tti˛∫n","MS",757
+"fourteen","NC14A","331","N","N"," "," ","Âfo∞éÁtıtiΩ∫n","MS",758
+"fourteen","NC14B","332","N","N"," "," ","Âfo∞étiΩjn","MS",759
+"fourteen","NC14C!","333!","N","N"," "," ","ÂfoΩ{π}{∞}tiΩ{i}{∞}n","MS",760
+"fourteen","NC15A","335(*)","N","N"," "," ","foΩº{π}Átti∫n","MS",761
+"fourteen","NC15B","336","N","N"," "," ","Âfo{π}¥Á{t}ti∫n","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","-0",763
+"fourteen","NC16A","339(*)","N","N"," "," ","Âfo{π}Á{t}ti˛Ωi˛n","MS",764
+"fourteen","NC16B","340","N","N"," "," ","fo{∞é}Á{t}ti˛∫n","MS",765
+"fourteen","NC17A","337","N","N"," "," ","fo∫{∞é}Á{t}ti∫n","MS",766
+"fourteen","NC17B","338","N","N"," "," ","fo{π}{∞}Á{t}t±˛´i˛Ωn","MS",767
+"fourteen","NC18A","341","N","N"," "," ","fo{¥}Átti∫n","MS",768
+"fourteen","NC18B","342","N","N"," "," ","foÁtte˛´ºn","MS",769
+"fourteen","NC19A","343","N","N"," "," ","fo{¥}Á{t}ti∫n","MS",770
+"fourteen","NC19B","344","N","N"," "," ","Âfo{∞}Átti∫n","MS",771
+"fourteen","NC20A","345","N","N"," "," ","Âfo¥tiΩ∫n","MS",772
+"fourteen","NC20B","346a","N","N"," "," ","fo¥Á{t}ti˛Ω∫n","MS",773
+"fourteen","NC20C","346b","N","N"," "," ","fo{π}¥Át±i˛n","MS",774
+"fourteen","NC21A","347","N","N"," "," ","fo{¥}Átti{∞}n","MS",775
+"fourteen","NC21B","348","N","N"," "," ","foΩº{π}Átt±˛i˛n","MS",776
+"fourteen","NC22A","349","N","N"," "," ","Âfo{π}tti˛∫n","MS",777
+"fourteen","NC22B","349b","N","N"," "," ","foΩ{∞é}Á{t}ti∫n","MS",778
+"fourteen","NC23A","351a","N","N"," "," ","fo{π}{∞é}Á{t}ti˛∫n","MS",779
+"fourteen","NC23B","351b(*)","N","N"," "," ","fo∞éÁ{t}ti∫n","MS",780
+"fourteen","NC23C!","351c!","N","N"," "," ","foΩ∞ti∫n","MS",781
+"fourteen","NC23C!","351c!","N","N"," "," ","fo{π}Á{t}ti∫n","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"fourteen","NC24N","N352","N","N"," "," ","fo´ttin","MS",783
+"fourteen","NC24A","352a","N","N"," "," ","Âfo{∞é}Átti∫n","MS",784
+"fourteen","NC24B","352b","N","N"," "," ","fo{¥}Á{t}ti∫n","MS",785
+"fourteen","NC25N","N353","N","N"," "," ","Âfo´tti˛∫{n}","MS",786
+"fourteen","NC25A","353","N","N"," "," ","fo¥Áttiæn","MS",787
+"fourteen","NC25B","354","N","N"," "," ","Âfo{∞}ti∫n","MS",788
+"fourteen","NC26A","355a","N","N"," "," ","Âfo{π}Átıti´n","MS",789
+"fourteen","NC26B","355b","N","N"," "," ","fo{π}Átti∫n","MS",790
+"fourteen","NC26C!","356!","N","N"," "," ","foΩ∞Átti∫n","MS",791
+"fourteen","NC26C!","356!","N","N","natural"," ","foπÁtti∫n","MS",791
+"fourteen","NC27A","357","N","N"," "," ","fo{¥}Á{t}ti˛∫n","MS",792
+"fourteen","NC27B","258","N","N"," "," ","fo¥Átti∫n","MS",793
+"fourteen","NC28A","361","N","N"," "," ","fo¥Á{t}ti˛Ω∫n","MS",794
+"fourteen","NC28B","361b","N","N"," "," ","fo´{π}Áttin","MS",795
+"fourteen","NC28C","362","N","N"," "," ","foΩ¥ÁttiΩæ{i}n","MS",796
+"fourteen","NC29A","363(*)","N","N"," "," ","ÂfoΩ¥Áti˛∫n","MS",797
+"fourteen","NC29B","364","N","N"," "," ","foΩ¥Á{t}ti˛∫n","MS",798
+"fourteen","NC30A","365","N","N"," "," ","foπÁttiΩin","MS",799
+"fourteen","NC30B","366","N","N"," "," ","Âfo∞éÁtti∫n","MS",800
+"fourteen","NC31A","367","N","N"," "," ","Âfo{∞é´º}Átıti∫n","MS",801
+"fourteen","NC31B","368","N","N"," "," ","ÂfoºπÁtıti∫n","MS",802
+"fourteen","NC32A","369","N","N"," "," ","Âfo{π}Átti˛Ω∫n","MS",803
+"fourteen","NC32B!","370!","N","N"," "," ","foΩ∞tti∫n","MS",804
+"fourteen","NC33A","373","N","N"," "," ","fo¥`ti∫n","MS",805
+"fourteen","NC33B","374","N","N"," "," ","fo{∞é}Á{t}ti∫n","MS",806
+"fourteen","NC34A","375","N","N"," "," ","Âfo{π}{∞é}Átıt±˛´i˛Ωn","MS",807
+"fourteen","NC34B","376","N","N"," "," ","fo{π}Á{t}ti˛Ωi˛n","MS",808
+"fourteen","NC35A","377","N","N"," "," ","fo´∫ttin","MS",809
+"fourteen","NC35B","378","N","N"," "," ","Âfo{∞é}Á{t}ıtiæ∫jn","MS",810
+"fourteen","NC36N","N381","N","N"," "," ","fo´∫{t}ti∫n","MS",811
+"fourteen","NC36A","381","N","N"," "," ","fo{π}{r}Átıti∫n","MS",812
+"fourteen","NC36B","382","N","N"," "," ","fo{∞é}Átti∫n","MS",813
+"fourteen","NC37A","383","N","N"," "," ","Âfo{π}{t}ıti∫n","MS",814
+"fourteen","NC37B","384","N","N"," "," ","Âfo{π}Á{t}ıtin","MS",815
+"fourteen","NC38N","N385","N","N"," "," ","foΩ{πΩ}tti˛Ω∫n","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"fourteen","NC38B","386","N","N"," "," ","Âfo{π}Á{t}ıtiΩin","MS",818
+"fourteen","NC39A","389","N","N"," "," ","Âfo{π}Á{t}ti∫n","MS",819
+"fourteen","NC39B!","390!","N","N"," "," ","fo{πΩ}{t}ti∫n","MS",820
+"fourteen","NC40A","391","N","N"," "," ","Âfo{π}tti˛Ω∫n","MS",821
+"fourteen","NC40B","392","N","N"," "," ","fo{πΩ}{t}ti∫n","MS",822
+"fourteen","NC41!","393!","N","N"," "," ","Âfo∞ıti{∞}n","MS",823
+"fourteen","NC42A","403","N","N"," "," ","fo{∞é}ti∫n","MS",824
+"fourteen","NC42B","404(*)","N","N"," "," ","Âfo{∞é}Á{t}ıti∫n","MS",825
+"fourteen","NC43A","397","N","N"," "," ","fo{π}tti∫n","MS",826
+"fourteen","NC43B","398","N","N"," "," ","Âfo{π}Á{t}tiΩ∫n","MS",827
+"fourteen","NC44","410(*)","N","N"," "," ","fo{π}tti∫n","MS",828
+"fourteen","NC45A","409(*)","N","N"," "," ","fo{π}ÁttiΩ∫n","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","-0",830
+"fourteen","NC46A","411","N","N"," "," ","fo∞éÁttiΩ∫n","MS",831
+"fourteen","NC46B","412","N","N"," "," ","fo{∞é}Átti∫n","MS",832
+"fourteen","NC46C!","412b!","N","N"," "," ","fo∞ti∫n","MS",833
+"fourteen","NC46C!","412b!","N","Y"," ","OLD","foπÁtti∫n","MS",833
+"fourteen","NC47","413","N","N"," "," ","Âfo¥Áttijn","MS",834
+"fourteen","NC48","418","N","N"," "," ","fo¥Átti∫n","MS",835
+"fourteen","NC49","421","N","N"," "," ","fo{∞é}Átti∫n","MS",836
+"fourteen","NC50A","422","N","N"," "," ","fo{π}Á{t}ti∫n","MS",837
+"fourteen","NC50B!","423!","N","N"," "," ","foΩ∞ti∫n","MS",838
+"fourteen","NC50B!","423!","N","N","natural"," ","fo{π}tti∫n","MS",838
+"fourteen","NC51A","427","N","N"," "," ","fo∫{¥}Átti∫n","MS",839
+"fourteen","NC51B","428","N","N"," "," ","Âfo∞éÁtıtiΩæ∫n","MS",840
+"fourteen","NC52N","N429","N","N"," "," ","fo∫tti∫n","MS",841
+"fourteen","NC52A","429","N","N"," "," ","fo{¥}Á{t}tiΩ∫n","MS",842
+"fourteen","NC52B","430","N","N"," "," ","fo´{π}Átti∫n","MS",843
+"fourteen","NC53A","431","N","N"," "," ","fo∞éÁtti∫n","MS",844
+"fourteen","NC53B","432","N","N"," "," ","fo∞éÁtti∫n","MS",845
+"fourteen","NC54A","433","N","N"," "," ","Âfo´¥ttijn","MS",846
+"fourteen","NC54B","434","N","N"," "," ","foΩ¥Átti∫n","MS",847
+"fourteen","NC55","435","N","N"," "," ","fo{¥}Átti∫n","MS",848
+"fourteen","NC56A","436","N","N"," "," ","Âfo{π}{t}ıti∫n","MS",849
+"fourteen","NC56B!","437!","N","N"," "," ","Âfo{π}{∞}tiΩæ∫n","MS",850
+"fourteen","NC57A","438a","N","N"," "," ","fo{∞é}Átti∫n","MS",851
+"fourteen","NC57B","438b","N","N"," "," ","fo{π}{t}ti∫n","MS",852
+"fourteen","NC58A","439","N","N"," "," ","Âfo{¥}Á{t}ıti∫n","MS",853
+"fourteen","NC58B","440","N","N"," "," ","foΩ{¥}Á{t}ti∫n","MS",854
+"fourteen","NC59","441(*)","N","Y"," ","AUX","Âfo¥Áttijn","MS",855
+"fourteen","NC60","442","N","N"," "," ","fo¥Átti∫n","MS",856
+"fourteen","NC61A","443","N","N"," "," ","fo∫{π}Átti∫n","MS",857
+"fourteen","NC61B","444","N","N"," "," ","fo{¥}Á{t}tin","MS",858
+"fourteen","NC62A","447","N","N"," "," ","foΩ∫¥Á{t}ti∫n","MS",859
+"fourteen","NC62B","448","N","N"," "," ","foΩ¥Á{t}tiΩ∫n","MS",860
+"fourteen","NC63A","449","N","N"," "," ","foΩ{¥}Á{t}ti˛Ω∫n","MS",861
+"fourteen","NC63B","450","N","N"," "," ","ıfo¥Âti˛∫n","MS",862
+"fourteen","NC63B","450","N","N","natural"," ","Âfo{π}Átıti∫n","MS",862
+"fourteen","NC64A","453","N","N"," "," ","fo¥Á{t}ti∫n","MS",863
+"fourteen","NC64B","454","N","N"," "," ","fo{¥}Á{t}ti∫n","MS",864
+"fourteen","NC65A","461","N","N"," "," ","fo{π}Átt±´iΩn","MS",865
+"fourteen","NC65B","462","N","N"," "," ","Âfo¥ttijn","MS",866
+"fourteen","NC66A","465","N","N"," "," ","Âfo¥Á{t}ti∫n","MS",867
+"fourteen","NC66B","466","N","N"," "," ","fo¥Á{t}ti∫n","MS",868
+"fourteen","NC67A","469","N","N"," "," ","ÂfoΩ{∞é}{t}ıti∫n","MS",869
+"fourteen","NC67B","470","N","N"," "," ","Âfo∞éÁttijn","MS",870
+"fourteen","NC68A","473","N","N"," "," ","fo{π}¥`t±´iΩn","MS",871
+"fourteen","NC68B","474","N","N"," "," ","Âfo¥Átıt±´iΩn","MS",872
+"fourteen","NC69A","477","N","N"," "," ","Âfo{π}Á{t}tiΩin","MS",873
+"fourteen","NC69B","478","N","N"," "," ","Âfo¥ttijn","MS",874
+"fourteen","NC70A","479","N","N"," "," ","Âfo¥ÁtıtiΩjn","MS",875
+"fourteen","NC70B","480","N","N"," "," ","Âfo¥Á{t}ıti∫n","MS",876
+"fourteen","NC71A","481","N","N"," "," ","fo¥Á{t}tijn","MS",877
+"fourteen","NC71B","482","N","N"," "," ","fo¥éÁtti∫n","MS",878
+"fourteen","NC71C!","483!","N","N"," "," ","Âfo¥Á{t}ıti∫n","MS",879
+"fourteen","NC72A","487","N","N"," "," ","foΩ¥ÁttiΩæ{i}n","MS",880
+"fourteen","NC72B","488","N","N"," "," ","fo¥Á{t}ti∫n","MS",881
+"fourteen","NC73A","491","N","N"," "," ","fo¥Á{t}tijn","MS",882
+"fourteen","NC73B","492","N","N"," "," ","Âfo{¥}ttijn","MS",883
+"fourteen","NC74A","493","N","N"," "," ","fo¥Á{t}ti∫n","MS",884
+"fourteen","NC74B","494","N","N"," "," ","ÂfoΩ¥ÁttiΩæjn","MS",885
+"fourteen","NC75A","495","N","N"," "," ","fo¥Á{t}tijn","MS",886
+"fourteen","NC75B","496","N","N"," "," ","foΩ¥Á{t}tijn","MS",887
+"fourteen","SC1A","203.1","N","N"," "," ","foº{π}{∞é}{t}ti˛∫n","MS",888
+"fourteen","SC1B","203.2","N","N"," "," ","foΩ{∞é}{'t}ti˛∫n","MS",889
+"fourteen","SC2A","204.1(*)","N","N"," "," ","fo{π}'tti∫n","MS",890
+"fourteen","SC2B","204.2","N","N"," "," ","fo{∞}'tti∫n","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","-0",892
+"fourteen","SC3A","205.1","N","N"," "," ","fo´tti∫n","MS",893
+"fourteen","SC3B","205.2","N","N"," "," ","Âfoéº∫∞éıt`i∫{j}n","MS",894
+"fourteen","SC3C!","205.3!","N","N"," "," ","Âfoº∫∞ıt`i∫{j}n","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"fourteen","SC4B","206.2","N","N"," ","CNV","Âfoº∫∞Áıt`i∫{±ø}n","MS",897
+"fourteen","SC4C","206.3","N","N"," "," ","Âf¿º∫ıt`i∫{j}n","MS",898
+"fourteen","SC5A","207.1","N","N"," ","CNV","Âfoº∫∞ıti∫{±ø}n","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"fourteen","SC5C","207.2A","N","N"," "," ","Âfoº∫ıt`i∫n","MS",901
+"fourteen","SC5D!","207.3!","N","N"," "," ","Âfoº∫{∞}ıt`i∫{±ø}n","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"fourteen","SC6A","208.1","N","N"," "," ","Âfo{∞}¥'tti∫n","MS",904
+"fourteen","SC6B","208.2(*)","N","N"," ","CNV","Âfo∫∞ıti∫{±ø}n","MS",905
+"fourteen","SC6C!","208.3!","N","N"," "," ","Âfo∫ıti∫{±ø}n","MS",906
+"fourteen","SC6D"," ","N","N"," ","CNV","Âfoº∫ıt`i∫{±ø}n","-0",907
+"NR","SC7N","N209"," ","N"," "," "," ","MS",908
+"NR","SC7A","209.1"," ","N"," "," "," ","MS",909
+"fourteen","SC7B","209.2","N","N"," ","CNV","Âfoº∫∞ıt`i∫n","MS",910
+"fourteen","SC7B","209.2","N","N"," ","CNV","Âfoº∫∞ıt`i∫jn","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"fourteen","SC7D!","209.4!","N","N"," "," ","Âfoº∫ıt`i∫{j}n","MS",912
+"fourteen","SC7D!","209.4!","N","N"," ","CNV","Âfo´º∫{∞}ıt`i∫{j}n","MS",912
+"fourteen","SC8A","210.1","N","N"," ","CNV","Âfo´º∫{∞}ıti∫n","MS",913
+"fourteen","SC8B","210.2","N","N"," ","CNV","Âfoº∫{∞}ıti∫n","MS",914
+"fourteen","SC8C","210.3","N","N"," ","CNV","Âfo´∫ıti∫n","MS",915
+"fourteen","SC9A","211.1","N","N"," ","CNV","Âfo∫ıt`i∫n","MS",916
+"fourteen","SC9B","211.2","N","N"," ","CNV","Âfo´∫∞ıti∫n","MS",917
+"fourteen","SC9C!","211.3!","N","N"," "," ","Âfoº∫∞›ıti∫n","MS",918
+"fourteen","SC9D!","211.4!","N","N"," ","CNV","Âfo´∫{∞}ıti∫n","MS",919
+"fourteen","SC10A","212.1","N","N"," ","CNV","Âfo´º∫ıt`i∫n","MS",920
+"fourteen","SC10B!","212.2!","N","N"," "," ","Âfoº∫∞ıti∫n","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"fourteen","SC11N","N213","N","N"," "," ","Âfottin","MS",923
+"fourteen","SC11M!","2n213!","N","N"," "," ","Âfoº∫∞éıt`i∫{j}n","MS",924
+"fourteen","SC11A","213.1(*)","N","N"," "," ","Âfoº∫{∞}ıt`i∫{±ø}n","MS",925
+"fourteen","SC11B","213.11","N","N"," "," ","Âfoº∫∞ıti∫n","MS",926
+"fourteen","SC11C","213.2","N","N"," "," ","Âfo´º∫{∞}ıt`i∫{j}n","MS",927
+"fourteen","SC11D","213.3","N","N"," "," ","Âfo´º∫∞ıt`i∫{±ø}n","MS",928
+"fourteen","SC11E","213.4","N","N"," ","CNV","Âfo´º∫{∞}ıt`i∫n","MS",929
+"fourteen","SC11E","213.4","N","N"," ","CNV","Âfo´º∫ıt`i∫n","MS",929
+"fourteen","SC11E","213.4","N","N"," ","CNV","Âfoº∫{∞}ıt`i∫{±ø}n","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"fourteen","SC11G!","213.7!","N","N"," "," ","Âfoº∫∞ıt`i∫n","MS",931
+"fourteen","SC11H!","213.8!","N","N"," "," ","Âfoº∫ıt`i∫n","MS",932
+"fourteen","SC11I!","213.9!","N","N"," "," ","Âfo∞ti›{∞}in","MS",933
+"fourteen","SC11J!","213.10!","N","N"," "," ","Âfoº∫{∞}ıt`i∫{j}n","MS",934
+"fourteen","SC12A","214.1","N","N"," "," ","Âfoº∫∞ıt`i∫n","MS",935
+"fourteen","SC12B","214.2","N","N"," "," ","fotti{∞}n","MS",936
+"NR","SC13","213.6"," ","N"," "," "," ","MS",937
+"fourteen","SC14A","215.1","N","N"," "," ","Âfo{∞}tti∫{∞}n","MS",938
+"fourteen","SC14B","215.2","N","N"," ","CNV","Âfo∫∞ıt`i∫n","MS",939
+"fourteen","SC14B","215.2","N","N"," ","CNV","Âfo∫{∞}ıt`i∫n","MS",939
+"fourteen","SC15A","216.1","N","N"," ","CNV/SIC","Âf∑º∫∞ıti∫n","MS",940
+"fourteen","SC15B","216.2","N","N"," ","CNV","Âfo∫ıti∫{±ø}n","MS",941
+"fourteen","SC15C","216.3","N","N"," ","CNV","Âfo∫∞›ıti∫n","MS",942
+"fourteen","SC15C","216.3","N","N"," ","CNV","Âfoº∫ıti∫n","MS",942
+"fourteen","SC16N","N217","N","N"," "," ","Âfo´∫{∞ó}tıt`i∫n","MS",943
+"fourteen","SC16N","N217","N","N"," ","CNV","Âfo´∫{∞}ıt`i∫n","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"fourteen","SC17A","218.1","N","N"," ","CNV","Âfoº∫ıt`i∫n","MS",945
+"fourteen","SC17B","218.2","N","N"," "," ","Âfoº∫ıti∫{±ø}n","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"fourteen","SC17D","218.4","N","N"," "," ","Âfo∫{∞}ıt`i∫{±ø}n","MS",948
+"fourteen","SC17D","218.4","N","N"," ","CNV","Âfoº∫{∞}ıt`i∫{±ø}n","MS",948
+"fourteen","SC18N","N219","N","N"," "," ","Âfo´º∫{∞}ıt`i∫n","MS",949
+"fourteen","SC18A","219.1","N","N"," "," ","Âfo´º∫¥ıt`i∫n","MS",950
+"fourteen","SC18B","219.2","N","N"," "," ","Âfπóº∫∞ıt`i∫n","MS",951
+"fourteen","SC18B","219.2","N","N"," "," ","Âfo´º∫∞ıt`i∫n","MS",951
+"fourteen","SC18C!","219.3(*)!","N","N"," "," ","ÂfoΩº∫{∞}ıti∫n","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","-0",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"fourteen","SC19B","220.4","N","N"," "," ","Âfo∫∞ıt`i∫n","MS",956
+"fourteen","SC19B","220.4","N","N"," "," ","ıfo∞Âti∫{±ø}n","MS",956
+"fourteen","SC19C","220.2(*)","N","N"," "," ","ÂfoΩº∫{∞}ıt`i∫n","MS",957
+"fourteen","SC19D!","220.3!","N","N"," "," ","Âfoº∫∞›ıti∫n","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","-0",959
+"fourteen","SC20A","221.1","N","N"," "," ","Âfoº∫πºıti∫{j}n","MS",960
+"fourteen","SC20B","221.2","N","N"," "," ","Âfoéº∫¥ıti∫{j}n","MS",961
+"fourteen","SC20C","221.3","N","N"," "," ","Âfo´º∫{∞}ıti∫{j}n","MS",962
+"fourteen","SC20D!","221.4!","N","N"," ","CNV","Âfoº∫πºıti∫{j}n","MS",963
+"fourteen","SC21A","222.1","N","N"," "," ","fo∫¥'tti˛∫n","MS",964
+"fourteen","SC21B","222.2","N","N"," "," ","foΩ∞é'tti∫n","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"fourteen","SC22A","223.1","N","N"," "," ","Âfo∫∞ıt`i∫{±ø}n","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"fourteen","SC22C!","223.3!","N","N"," "," ","Âfoº∫{∞}'ıt`i∫n","MS",969
+"fourteen","SC23A","224.1","N","N"," ","CNV","Âfo∫∞ıt`i∫n","MS",970
+"fourteen","SC23B","224.2","N","N"," "," ","Âfoº∫∞éıt`i∫n","MS",971
+"fourteen","SC23C","224.3","N","N"," "," ","Âfo∫∞›ıt`i∫n","MS",972
+"NR","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"fourteen","SC24A","225.1","N","N"," "," ","Âfo∫∞ıti∫n","MS",976
+"fourteen","SC24A","225.1","N","N"," ","CNV","Âfoº∞ıti∫{±ø}n","MS",976
+"fourteen","SC24A","225.1","N","N"," "," ","Âfoº∞ıti∫n","MS",976
+"NR","SC24B","225.11"," ","N"," "," "," ","MS",977
+"fourteen","SC24C","225.2","N","N"," ","CNV","Âfoº∫ıt`i∫{±ø}n","MS",978
+"fourteen","SC24D!","225.3!","N","N"," ","CNV","Âfoº∫ıt`i∫n","MS",979
+"fourteen","SC24D!","225.3!","N","N"," ","CNV","Âfoº∫{∞}ıt`i∫n","MS",979
+"fourteen","SC25A","226.1","N","N"," "," ","fo∫tti∫n","MS",980
+"fourteen","SC25B","226.2","N","N"," ","CNV","Âfoº∫∞ıt`i∫n","MS",981
+"fourteen","SC25C!","226.3!","N","N"," "," ","Âfo´º∫∞ıti∫n","MS",982
+"fourteen","SC26A","227.1","N","N"," "," ","Âfo´º∫ıti∫n","MS",983
+"fourteen","SC26B!","227.2!","N","N"," ","CNV","Âfoº∫ıti∫n","MS",984
+"fourteen","SC27A","228.1","N","N"," "," ","Âfo∞ıti∫n","MS",985
+"fourteen","SC27B","228.2","N","N"," "," ","Âfo´º∫ıti∫n","MS",986
+"fourteen","SC28A","229.1","N","N"," "," ","Âfoº∫∞óıti∫n","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"fourteen","SC28C","229.2","N","N"," "," ","Âfoº∫ıti∫n","MS",989
+"fourteen","SC28D","229.3","N","N"," "," ","Âfo∫∞ıti∫n","MS",990
+"fourteen","SC29A","230.2(*)","N","N"," ","CNV","Âfoº∫ıti∫{±ø}n","MS",991
+"fourteen","SC29B","230.1(*)","N","N"," ","CNV","Âfoº∫∞ıti∫n","MS",992
+"fourteen","SC29C","230.3","N","N"," ","CNV","Âfoº∫ıti∫{±ø}n","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","-0",994
+"NR","SC29E"," "," ","N"," "," "," ","-0",995
+"fourteen","SC30A","231.1","N","N"," "," ","ıfo{π}tÂtijn","MS",996
+"fourteen","SC30B","231.2","N","N"," "," ","Âfoº∫πºıt`i∫jn","MS",997
+"fourteen","SC30B","231.2","N","N"," ","CNV","Âfoº∫πº'ıt`i∫jn","MS",997
+"fourteen","SC30B","231.2","N","N"," ","CNV","Âfoº∫{π}'ıt`i∫jn","MS",997
+"fourteen","SC30C!","231.3!","N","N"," ","CNV","Âfoº∫πıt`i∫jn","MS",998
+"fourteen","SC31A","232.1","N","N"," ","CNV","Âfo´º∫ıti∫n","MS",999
+"fourteen","SC31B","232.2","N","N"," ","CNV","Âfoº∫{πº}ıti∫n","MS",1000
+"fourteen","SC32A","233.1","N","N"," ","CNV","Âfoº∫πº'ıt`i∫{j}n","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"fourteen","SC32C","233.3","N","N"," "," ","Âfoº∫πº'ıt`i∫jn","MS",1003
+"fourteen","SC32D","233.4","N","N"," "," ","Âfoº∫πº'ıt`i∫jn","MS",1004
+"fourteen","SC33A","234.1","N","N"," "," ","Âfo´{π}ttijn","MS",1005
+"fourteen","SC33B","234.2","N","N"," ","CNV","Âfoºπºıt`i∫jn","MS",1006
+"NR","SC34A","235.1"," ","N"," "," "," ","MS",1007
+"fourteen","SC34B","235.2","N","N"," ","CNV","Âfoº∫πºıt`i∫jn","MS",1008
+"fourteen","SC34C","235.3","N","N"," ","CNV","Âfoº∫πıt`i∫{j}n","MS",1009
+"fourteen","SC35A","236.1","N","N"," ","CNV","Âfoº∫¥ótıt`i∫jn","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"fourteen","SC35C","236.3(*)","N","N"," "," ","Âfo∫{∞ó}ıti∫n","MS",1012
+"fourteen","SC35C","236.3(*)","N","N"," "," ","Âfoºπ´ıt`i∫{i´}n","MS",1012
+"fourteen","SC35C","236.3(*)","N","N"," "," ","Âfo∫{π}ıti∫n","MS",1012
+"fourteen","SC35D"," ","N","N"," "," ","Âfoéº∫πéº∫Áıt`i∫jn","-0",1013
+"NR","SC35E!"," "," ","N"," "," "," ","-0",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"fourteen","SC36B","237.2","N","N"," "," ","Âfo´º∫∞éæ'ıt`i∫jn","MS",1016
+"fourteen","SC36C","237.3","N","N"," ","CNV","Âfoº∫∞étıt`i∫jn","MS",1017
+"fourteen","SC36C","237.3","N","N"," ","CNV","Âfoº∫πtıt`i∫jn","MS",1017
+"fourteen","SC36C","237.3","N","N"," ","CNV","Âfo´º∫∞éıt`i∫jn","MS",1017
+"fourteen","SC36C","237.3","N","N"," ","CNV","ÂfoéΩº∫∞æıt`i∫jn","MS",1017
+"fourteen","SC36D!","237.4!","N","N"," ","CNV","Âfoº∫{πº}ıt`i∫i´n","MS",1018
+"fourteen","SC37","238","N","N"," "," ","Âfo∫πıt`i∫{j}n","MS",1019
+"fourteen","SC38N","N239","N","N"," "," ","Âfo∫π'ıt`i∫jn","MS",1020
+"fourteen","SC38A","239.1","N","N"," "," ","Âfo∫πıt`i∫jn","MS",1021
+"fourteen","SC38A","239.1","N","N"," "," ","Âfo∫πtıt`i∫jn","MS",1021
+"fourteen","SC38B","239.2","N","N"," "," ","Âfoº∫πıt`i∫jn","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"fourteen","SC38D!","239.4(*)!","N","N"," "," ","ÂfπΩº∫{∞}ıt`i∫{j}n","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," ","-0",1025
+"fourteen","SC39A","240.1","N","N"," ","CNV","Âfoº∫∞'ıt`i∫jn","MS",1026
+"fourteen","SC39A","240.1","N","N"," ","CNV","Âfo´º∫π'ıt`i∫jn","MS",1026
+"fourteen","SC39A","240.1","N","N"," "," ","Âfoº∫∞ó'ıt`i∫jn","MS",1026
+"fourteen","SC39B!","240.2!","N","N"," "," ","foº∫∞›ıt`i∫jn","MS",1027
+"fourteen","SC39B!","240.2!","N","N"," ","CNV","fo∫πıt`i∫jn","MS",1027
+"fourteen","SC40A","241.1","N","N"," ","CNV","Âfoº∫{πº}ıt`±in","MS",1028
+"fourteen","SC40A","241.1","N","N"," "," ","Âfoº{π}t`ii´n","MS",1028
+"fourteen","SC40B","241.2","N","N"," "," ","Âfoº∫πºıt±˛i˛{n}","MS",1029
+"fourteen","SC41A","242.1","N","N"," "," ","Âfo{π}'ttijn","MS",1030
+"fourteen","SC41B","242.2","N","N"," ","CNV","Âfoº∫πºıt`±´in","MS",1031
+"fourteen","SC42N","N243","N","N"," "," ","ÂfoΩº∫{π}ıt`i˛i˛´","MS",1032
+"fourteen","SC42N","N243","N","N"," ","CNV","Âfoº∫{∞}ıt`ii´n","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","-0",1033
+"fourteen","SC42A","243.1","N","N"," ","CNV","ÂfoºπºıtiΩæi´n","MS",1034
+"fourteen","SC42A","243.1","N","N"," ","CNV","Âfoºπºıtii´n","MS",1034
+"fourteen","SC42B!","243.2!","N","N"," "," ","Âfoº∫∞ıt`i∫jn","MS",1035
+"fourteen","SC42C!","243.3!","N","N"," "," ","Âfoºπıt`ii´n","MS",1036
+"fourteen","SC42C!","243.3!","N","N"," "," ","fo∫πtiøºn","MS",1036
+"fourteen","SC42C!","243.3!","N","N"," "," ","Âfo∫tiæn","MS",1036
+"fourteen","SC42C!","243.3!","N","N"," "," ","Âfo∫{πø}tin","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"fourteen","SC42E!","243.5!","N","N"," "," ","Âfoº∞ıt`i∫n","MS",1038
+"fourteen","SC43A","244.1","N","N"," "," ","Âfoº∫{πº}ıt`±´in","MS",1039
+"fourteenth","SC43A","244.1","A","Y"," ","INA","Âfoé∫πé∞éıt`iæi´æntë˘","MS",1039
+"fourteen","SC43B","244.2","N","N"," "," ","ÂfoΩº∫{πº}¥ıt`i˛i˛´{n}","MS",1040
+"fourteen","SC43C","244.3","N","N"," "," ","Âfo∫ıt`iæi´n","MS",1041
+"fourteen","SC44A","245.1","N","N"," "," ","Âfoº∫πº∞›tii´n","MS",1042
+"fourteen","SC44A","245.1","N","N"," ","CNV","Âfoº∫{πº}¥ıt`ii´n","MS",1042
+"fourteen","SC44A","245.1","N","N"," ","CNV","Âfoº∫πºıt`ii´n","MS",1042
+"fourteen","SC44B","245.2","N","N"," ","CNV","Âfoº∫{πº}ıt`ii´n","MS",1043
+"fourteen","SC44B","245.2","N","N"," ","CNV","Âfoº∫πºtıt`i∫i´n","MS",1043
+"fourteen","GA1N","N246","N","N"," "," ","Âfo∫ıti∫n","MS",1044
+"fourteen","GA1A","246.1(*)","N","N"," ","CNV","Âfoº∫{∞}Áıt`i∫n","MS",1045
+"fourteen","GA1B","246.11","N","N"," "," ","Âfo∫∞ıt`i∫n","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"fourteen","GA1F!","246.5!","N","N"," "," ","Âfo´∫{∞}ti∫{∞}n","MS",1050
+"fourteen","GA1G!","246.6!","N","N"," "," ","Âfoº∫{∞}ıt`i∫n","MS",1051
+"fourteen","GA1H!","246.7!","N","Y"," ","AUX/CNV","Âfoº∫ıt`iæ∫n","MS",1052
+"fourteen","GA1H!","246.7!","N","N"," "," ","ÂfoΩº:{∞}ıt`iiΩn","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"fourteen","GA2A","247.1","N","N"," ","CNV","Âfoéº∫{∞é}ıt`i∫jn","MS",1054
+"fourteen","GA2B","247.2","N","N"," "," ","Âfoº∫∞éıt`i∫jn","MS",1055
+"fourteen","GA3A","248.1","N","N"," "," ","Âfo´∫tıti∫{∞}n","MS",1056
+"fourteen","GA3B","248.2","N","N"," ","CNV","Âfoº∫ıti∫n","MS",1057
+"fourteen","GA4N","N249","N","N"," "," ","Âfo´ttëi´n","MS",1058
+"fourteen","GA4A","249.1","N","N"," "," ","Âfo´º∫ıti∫n","MS",1059
+"NR","GA4B","249.2"," ","N"," "," "," ","MS",1060
+"fourteen","GA4C!","249.3!","N","N"," "," ","Âfoº∫∞ıti∫n","MS",1061
+"fourteen","GA5A","250.1","N","N"," "," ","Âfoº∫ıti∫{±ø}n","MS",1062
+"fourteen","GA5B","250.2","N","N"," "," ","Âfoº∫ıti∫n","MS",1063
+"fourteen","GA5C","250.3","N","N"," "," ","Âfo´º∫ıti∫{±ø}n","MS",1064
+"fourteen","GA5D!","250.4!","N","N"," ","CNV","Âfo∫{∞}ıti∫{±ø}n","MS",1065
+"fourteen","GA5E!","250.5!","N","N"," "," ","Âfoº∫{∞}ıti∫n","MS",1066
+"fourteen","GA6A","251.1","N","N"," ","CNV","Âfo´º∫ıti∫{±ø}n","MS",1067
+"fourteen","GA6B!","251.2!","N","N"," ","CNV","Âfoº∫tıti∫{±ø}n","MS",1068
+"fourteen","GA7","256","N","N"," ","CNV","Âfo´∫{∞}ıti∫{±ø}n","MS",1069
+"fourteen","GA8A","257.1","N","N"," ","CNV","Âfoéº∫∞éıti∫n","MS",1070
+"fourteen","GA8B","257.2","N","N"," ","CNV","Âfoº∫ıti∫n","MS",1071
+"fourteen","GA9A","257A.1","N","N"," "," ","Âfoº¥ıti{i´}n","MS",1072
+"fourteenth","GA9A","257A.1","A","Y"," ","INA/CNV","Âfoº¥ıt`i˛∫n{të}˘","MS",1072
+"fourteenth","GA9A","257A.1","A","Y"," ","INA/CNV","ıfo∫¥Ât`i∫n˘","MS",1072
+"fourteen","GA9B","257A.2","N","N"," "," ","Âfo∞ıti{i´}n","MS",1073
+"fourteen","GA10A","258.1","N","N"," "," ","Âfo¥tti∫n","MS",1074
+"fourteen","GA10B","258.2","N","N"," "," ","Âfoº∫∞éıti∫n","MS",1075
+"fourteen","GA11N","N258A","N","N"," "," ","Âfo∫∞ıti∫n","MS",1076
+"fourteen","GA12A","259.1","N","N"," ","CNV","Âfoº∫{π}tıt`i∫{j}n","MS",1077
+"fourteen","GA12B!","259.2(.3)","N","N"," "," ","Âfoº∞ıti∫n","MS",1078
+"fourteen","GA13A","260.1","N","N"," "," ","Âfo´tti∫{∞}n","MS",1079
+"fourteen","GA13B!","260.2!","N","N"," "," ","Âfo´º∫∞éıti∫n","MS",1080
+"fourteen","GA14A","261.1","N","N"," "," ","Âfoº∫πºÁıt`i∫jn","MS",1081
+"fourteen","GA14B","261.3","N","N"," ","CNV","Âfoº∫πıt`i∫jn","MS",1082
+"fourteen","GA14C","261.2","N","N"," ","CNV","Âfoº∫πºÁıt`i∫jn","MS",1083
+"fourteen","GA15A","262.1","N","N"," "," ","Âfo´{π}ttijn","MS",1084
+"NR","GA15B","262.2"," ","N"," "," "," ","MS",1085
+"fourteen","GA16A","263.2","N","N"," "," ","Âfo´∫ıti∫{±ø}n","MS",1086
+"fourteen","GA16B","263.1","N","N"," ","CNV","Âfoº∫ıti∫n","MS",1087
+"fourteen","GA16B","263.1","N","N"," ","CNV/SIC","ÂfπΩ∫∞ıti∫{±ø}n","MS",1087
+"fourteen","GA16C","263.21","N","N"," "," ","Âfoº∞ıt`i∫{i´}n","MS",1088
+"fourteen","GA16D!","263.3!","N","N"," "," ","Âfo´º∫∞ıti∫n","MS",1089
+"fourteen","GA17N","N264","N","N"," "," ","Âfo∞ıti∫n","MS",1090
+"fourteen","GA17","264","N","N"," "," ","ÂfoπıtiΩin","MS",1091
+"fourteen","GA18A","264A.1","N","N"," "," ","Âfoº∞ıti∫{i´}n","MS",1092
+"fourteen","GA18B","264A.2","N","N"," "," ","Âfo∫∞ıt`i∫{i´}n","MS",1093
+"fourteen","GA18B","264A.2","N","N"," ","CNV","Âfo∫∞ıt`i∫n","MS",1093
+"fourteen","GA19A","265.1","N","N"," ","CNV","Âfoº∫{πº}ıti∫{j}n","MS",1094
+"fourteen","GA19B","265.2","N","N"," "," ","Âfoº∫{πº}ıti∫{j}n","MS",1095
+"fourteen","GA20A","266.1","N","N"," ","CNV","Âfoº∫¥ıti∫{j}n","MS",1096
+"fourteen","GA20A","266.1","N","N"," ","CNV","Âfoº∫∞étiΩ∫±øn","MS",1096
+"fourteen","GA20A","266.1","N","N"," ","CNV","Âfoé∫¥›ıti∫{j}n","MS",1096
+"fourteen","GA20B","266.2","N","N"," "," ","Âfoº∫{πº}ıti∫{j}n","MS",1097
+"fourteen","GA21A","267.1","N","N"," "," ","Âfoº∞ıti∫{i´}n","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"fourteen","GA22A","268A.1","N","N"," "," ","fo∞Ât`i∫{i´}n","MS",1100
+"fourteen","GA22B","268A.2","N","N"," ","CNV","Âfoº∫πºıti∫{j}n","MS",1101
+"fourteen","GA23A","268.1","N","N"," ","CNV","Âfoº∫∞ıti∫{±ø}n","MS",1102
+"fourteen","GA23B","268.11","N","N"," "," ","Âfoπıt`i{i´}n","MS",1103
+"fourteen","GA23C","268.2","N","N"," "," ","Âfo∞ıti∫n","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"fourteen","GA23E!","268.4!","N","N"," "," ","Âfoº∞ıti∫n","MS",1106
+"fourteen","GA23F!","268.5!","N","N"," "," ","Âfo∞ıti∫n","MS",1107
+"fourteen","GA24N","N269","N","N"," "," ","Âfoº{πΩ}ıti{i´}n","MS",1108
+"fourteen","GA24A","269.1","N","N"," "," ","Âfo∞é'ttijn","MS",1109
+"fourteen","GA24B","269.2","N","N"," ","CNV","Âfoº∫{πº}ıti∫jn","MS",1110
+"fourteen","GA24B","269.2","N","N"," ","CNV","Âfoº∫∞ıti∫jn","MS",1110
+"fourteen","GA25N","N269A","N","N"," "," ","Âfo∞ıti∫{i´}n","MS",1111
+"fourteen","GA26","270A","N","N"," "," ","Âfoº{πº}ıti∫{i´}n","MS",1112
+"fourteen","GA27!","270!","N","N"," "," ","Âfo∫∞ıti∫n","MS",1113
+"fourteen","GA28","271a","N","N"," "," ","Âfo∫∞ıti∫{j´}n","MS",1114
+"fourteen","GA28","271a","N","N"," "," ","Âfoº∞ıti∫{j´}n","MS",1114
+"fourteen","GA29A","271.1","N","N"," ","CNV","Âfoº∫ıti∫n","MS",1115
+"fourteen","GA29B","271.2","N","N"," ","CNV","Âfoº∫ıti∫{j}n","MS",1116
+"fourteen","GA30A","272.1(*)","N","N"," ","CNV","Âfo∫{π}ıt`i∫jn","MS",1117
+"NR","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"fourteenth","GA30C!","272.3!","A","Y"," ","INA/CNV","Âfoº∞ıtintë˘","MS",1119
+"fourteen","GA30C!","272.3!","N","N"," "," ","Âfo∫∞ıti∫{i´}n","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","-0",1120
+"NR","GA30E"," "," ","N"," "," "," ","-0",1121
+"fourteen","GA31","272A","N","N"," "," ","Âfoº∞ıti{i´}n","MS",1122
+"fourteen","GA32","272B","N","N"," "," ","Âfo∞ıti∫n","MS",1123
+"fourteen","GA33A","272C1","N","N"," "," ","Âfo∫∞ıti∫n","MS",1124
+"fourteen","GA33B","272C2","N","N"," "," ","Âfoº∞ıti{i´}n","MS",1125
+"fourteen","GA34N","N273","N","N"," ","CNV","Âfoº∫∞ıti∫jn","MS",1126
+"fourteen","GA34N","N273","N","N"," ","CNV","Âfoº∫πºıti∫{j}n","MS",1126
+"fourteen","GA34A","273.1","N","N"," "," ","Âfo´∫{π}ttijn","MS",1127
+"fourteen","GA34B","273.2","N","N"," "," ","Âfo´º∫∞ıti∫{j}n","MS",1128
+"fourteen","GA35N","N273A","N","N"," "," ","Âfoº∞ıti{i´}n","MS",1129
+"fourteen","GA36N","N274A","N","N"," "," ","Âfoπıti{i´}n","MS",1130
+"fourteen","GA37N","2N274","N","N"," "," ","Âfo{π}ıti{i´}n","MS",1131
+"fourteen","GA37M!","NC274","N","N"," "," ","Âfo∫∞ıti∫{i´}n","MS",1132
+"fourteen","GA37A","274.1","N","N"," ","CNV","Âfo´º∫∞ıt`i∫jn","MS",1133
+"fourteen","GA37B","274.2","N","N"," ","CNV","Âfoº∫πºıti∫jn","MS",1134
+"fourteen","GA37C","274.21","N","N"," "," ","Âfoº∞ıti{i´}n","MS",1135
+"fourteen","GA37C","274.21","N","N"," "," ","Âfoº∞Áti{i´}n","MS",1135
+"fourteen","GA37D!","274.7!","N","N"," "," ","Âfoº∞ıti∫n","MS",1136
+"fourteen","GA37D!","274.7!","N","N"," ","CNV","Âfoº∞ıti∫{i´}n","MS",1136
+"fourteen","GA37E!","274.8!","N","N"," ","CNV","ÂfoΩ∞ıt`i∫{i´}n","MS",1137
+"fourteen","GA37E!","274.8!","N","N"," "," ","Âfoº∞ıti∫{i´}n","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"fourteen","GA37G!","274.4!","N","N"," "," ","Âfo´∫∞ıt`i∫jn","MS",1139
+"fourteen","GA37H!","274.5!","N","N"," ","CNV","Âfoº∫ıt`i∫{j}n","MS",1140
+"fourteen","GA37I!","274.6!","N","N"," "," ","Âfoº∞ıti∫{i´}n","MS",1141
+"fourteen","GA38","275","N","N"," "," ","Âfo∞ıt`i∫n","MS",1142
+"fourteen","GA38","275","N","N"," "," ","Âfo∫πîºıti∫i´n","MS",1142
+"fourteen","GA39","275A","N","N"," "," ","Âfoº∞ıti∫{i´}n","MS",1143
+"fourteen","GA40","276A","N","N"," "," ","Âfoº¥ıti{i´}n","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"fourteen","GA42A","276.1","N","N"," ","CNV","Âfo∫¥ıti∫{j}n","MS",1146
+"fourteenth","GA42B","276.2","A","Y"," ","INA/CNV","Âfoº∫πıti∫jnt˘","MS",1147
+"fourteen","GA43","277","N","N"," "," ","Âfo¥'tıtijn","MS",1148
+"fourteen","GA44A","278.1","N","N"," "," ","Âfoéº∫¥ıt`i∫jn","MS",1149
+"fourteen","GA44B","278.2","N","N"," ","CNV","Âfoº∫πºıtiΩ∫i´n","MS",1150
+"fourteen","GA44C","278.3","N","N"," ","CNV","Âfo´∫∞éıt`i∫{j}n","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"fourteen","GA44E","278.5","N","N"," "," ","Âfo∞ıti{i´}n","MS",1153
+"fourteen","GA44E","278.5","N","N"," "," ","Âfoº∫∞ıti{i´}n","MS",1153
+"fourteen","FL1","252","N","N"," ","CNV","Âfo´º∫ıti∫n","MS",1154
+"fourteen","FL2A","253.1","N","N"," ","CNV","Âfo∫∞ıti∫n","MS",1155
+"fourteen","FL2B","253.2","N","N"," "," ","Âf∑´∞ıti{i´}n","MS",1156
+"fourteen","FL2C!","253.3!","N","N"," "," ","Âfo∫∞ıti∫n","MS",1157
+"fourteen","FL2C!","253.3!","N","N"," "," ","Âfoº∫∞ıti∫n","MS",1157
+"fourteenth","FL3A","254.1","A","Y"," ","INA","foº∫ıti∫nt˘","MS",1158
+"fourteen","FL3A","254.1","N","N"," "," ","Âfπóº∫∞ti∫n","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"fourteen","FL4","254A","N","N"," ","CNV","Âfoº∞éıti∫{i´}n","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"fourteen","FL5B","255.2","N","N"," "," ","Âfoº∫ıti∫n","MS",1162
+"","","","","","","","","",

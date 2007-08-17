@@ -1,0 +1,99 @@
+up at (cl82#6.asc)
+
+Items
+=====
+                            down in    5
+                    down in Florida    1
+                       down in Rome    1
+                   down in Savannah    1
+                            down on    1
+                            down to    8
+                 down to Charleston    2
+            down to Charlottesville    1
+              down to Furrow's Mill    1
+           I been down to Brunswick    1
+           I been over in Brunswick    1
+            I been over to Beaufort    1
+                I been to Brunswick    1
+             I been up in Brunswick    2
+             I been up to Brunswick    1
+                      I was down to    1
+             I was down to Beaufort    1
+             I was down to Rockwell    1
+           I was over to Charleston    3
+                  I was up in Wrens    1
+                        I was up to    1
+             I was up to Charleston    3
+                                 in    1
+                       in Knoxville    1
+                       most down to    1
+                                 NR    8
+                             out in    1
+               out to Clifton Forge    1
+                               over    1
+                            over at    1
+                            over in    2
+                  over in Brunswick    1
+                       over in Rome    1
+                 over in Walterboro    1
+                            over to    7
+                   over to Beaufort    1
+                  over to Brunswick    2
+                 over to Charleston    1
+                     to the country    1
+                              up at    2
+                              up in    6
+                     up in Columbia    1
+                    up in Knoxville    1
+                         up in Rome    2
+                        up in Wrens    1
+                              up to    7
+                       up to Boston    1
+                   up to Charleston    2
+                      up to Clinton    1
+                      up to Newburn    1
+                      up to Stanton    1
+                     up to Yemassee    1
+
+Pronunciations
+==============
+                                  "    5
+
+
+
+
+M: I saw him _____ Atlanta.
+P: [After M's question, try a few other communities in the high country, the 	valleys, over hills and mountains, five or ten miles away against forty 	or fifty miles away.]
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 82#6, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 82 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+82#P		82#7
+82#P		82#1
+82#1a S
+82#1b		82#2
+82#2		82#6
+82#3
+82#4
+82#5
+		82#3
+82#6		82#4
+		82#5
+82#7
+82#8		82#8
+82#9a,b S

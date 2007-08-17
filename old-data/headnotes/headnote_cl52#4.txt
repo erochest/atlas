@@ -1,0 +1,85 @@
+what? (cl52#4.asc)
+
+Items
+=====
+                         beg pardon    1
+                    beg your pardon    1
+                         do how now    1
+                            do what    3
+                   explain it again    1
+                                hey    1
+                                 hm    1
+                                how    1
+               how did you say that    1
+                        how is that    1
+                           how that    1
+                       how was that    1
+                   how you got that    1
+                        how you say    1
+                         how's that    2
+                        how's that?    1
+                                huh    3
+                   I ain't hear you    1
+                 I ain't understand    1
+                  I didn't hear you    1
+                              ma'am    1
+       make you didn't speak louder    1
+                                 NR    7
+                  once again please    2
+                       over say now    1
+                            quiz it    1
+                            say how    1
+                     say that again    3
+                                sir    3
+                              sorry    1
+          them there be fifty cents    1
+               them there pine post    1
+                     these days now    1
+                           we theys    1
+                               what   19
+                   what did you say    3
+                         what is it    1
+                          what that    4
+                  what that you say    1
+                         what that?    1
+                        what was it    1
+                      what was that    1
+                      what you mean    1
+                       what you say    9
+                        what's that   11
+                       what's that?    2
+                              which    1
+
+Pronunciations
+==============
+                                  "    2
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 52#4, the following items are inappropriate: "hey," "we theys," "these days now," "them there pine post," and "them there be fifty cents."
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 52 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+52#P		52#4
+52#P		52#3
+52#P		52#1
+52#1		52#2
+52#2		71#1 (52#4 similar)
+52#3		52#5
+		52#6 (no question)
+		52#7 (no question)
+52#4
+		52#8
+	

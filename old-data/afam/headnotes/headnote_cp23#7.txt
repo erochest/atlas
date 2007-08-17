@@ -1,0 +1,114 @@
+grease (cp23#7.asc)
+
+Items
+=====
+                         automobile    1
+                             grease   24
+                          grease em    4
+                      grease is oil    1
+                          grease it   15
+                     grease the car    5
+                    grease the iron    1
+                     grease the pan    1
+                   grease the wagon    1
+                   grease the wheel    1
+                          grease up    2
+                            greases    1
+                           greasing    3
+                 greasing a springs    1
+                         greasy pan    1
+                          greasy up    1
+                       he grease em    1
+                       lubricate it    1
+                                 NR    5
+                          to grease    1
+                              wheel    1
+                      you grease em    3
+
+Pronunciations
+==============
+                              grijz    1
+                               gris    1
+                       gris$d±$kja¾    1
+                        gris$d±$kjµ    1
+                        gris$d±$kµ¼    1
+                     gris$d±$wa«g±n    1
+                            gris$°m    2
+                            gris$±t    2
+                               griz    1
+                         griz$d±$kµ    1
+                        griz$d±$kµ¼    1
+                       griz$d±$wil    1
+                            griz$°m    2
+                            griz$±t    2
+                        griz$¸«{°}p    1
+                          gri{i«}sn    1
+                gri{i«}sn$°$spr±ºîz    1
+                          gri{i«}sz    1
+                        gri{i«}z$±¿    1
+                          gri{i«}zn    1
+                              gri«z    1
+                          gri«{i«}s    1
+                             gri«ºz    1
+                          griºs$±¿t    1
+                              griºz    9
+                          griº{i«}z    1
+                      griº{i«}z$±¿t    2
+                      griº{±¿}z$±¿t    1
+                             gri½ºz    1
+                            gri¾i«z    1
+                             gri¾ºs    1
+                             gri¾ºz    1
+                           gr{±}iºz    1
+                         gr‡ijz$±¿t    1
+                             gr±iz    1
+                   gr±i½z$d°$pá{°}n    1
+                   gr±i½z±¿$páº{²}n    1
+                               gòis    1
+                               gòiz    1
+                            gòi•¾ºz    1
+                             gò‡iºz    1
+                         hi$gris$°m    1
+                         ju$gris$°m    2
+                         ju$griz$°m    1
+                    ågri”¾i«z$±¿½¼t    1
+                        ågriºz$±¿¼t    1
+                        ågò‡iº[±¿]s    1
+                      ågò‡iºjz$±¿½t    1
+                    ågò‡iºz$¸«¼{°}p    1
+                          ågò‡iºzn–    1
+                   ågò‡iº{j}z$±¿¿¼t    1
+                    ågò‡iº{±¿}z$±¼t    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

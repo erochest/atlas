@@ -1,0 +1,62 @@
+1,559,MD9N,N46,N,L,P,1934,I,A,N,F,70,1,H,B,R,"Somerset Co.",MD
+2,572,MD22N,N77,N,L,S,1939,I,A,N,M,92,0,F,B,R,"St. Marys Co.",MD
+3,572,MD22M,N78,N,L,S,1939,I,A,N,M,83,0,W,B,R,"St. Marys Co.",MD
+4,604,VA4N,N109,N,L,S,1935,I,A,N,F,89,,H,B,R,"Prince William Co.",VA
+5,612,VA12N,N131,N,L,S,1936,I,A,N,F,80,0,K,B,R,"Westmoreland Co.",VA
+6,615,VA15N,N139,Y,L,S,1936,I,A,N,F,94,0,K,B,R,"Essex Co.",VA
+7,621,VA21N,N153,N,L,S,1936,I,A,N,F,75,0,K,B,R,"Charles City Co.",VA
+8,643,VA43N,N195,N,L,S,1936,I,A,N,M,86,0,F,B,R,"Cumberland Co.",VA
+9,646,VA46N,N207,N,L,P,1934,I,A,N,M,70,,F,B,R,"Campbell Co.",VA
+10,659,VA59N,N241,N,L,P,1933,I,A,N,M,80,0,F,B,R,"Albemarle Co.",VA
+11,708,NC8N,N317,N,L,S,1937,I,A,N,M,80,1,F,B,R,"Martin Co.",NC
+12,714,NC14N,N331,N,L,S,1937,I,A,N,M,77,1,F,B,R,"Craven Co.",NC
+13,724,NC24N,N352,N,L,S,1937,I,A,N,M,89,,F,B,R,"Brunswick Co.",NC
+14,725,NC25N,N353,N,L,P,1934,I,B,N,F,60,4,F,B,R,"Sampson Co.",NC
+15,735,NC36N,N381,N,L,S,1937,I,A,N,M,77,1,F,B,R,"Harnett Co.",NC
+16,738,NC38N,N385,N,L,S,1937,I,A,N,M,81,0,F,B,R,"Franklin Co.",NC
+17,752,NC52N,N429,N,L,S,1937,I,A,N,F,90,0,K,B,U,"Anson Co.",NC
+18,806,SC6N,N208,N,M,S,1946,I,A,N,M,77,1,C,B,U,"Georgetown Co.",SC
+19,807,SC7N,N209,N,M,S,1946,I,A,N,M,83,1,S,B,U,"Georgetown Co.",SC
+20,811,SC11N,N213,N,L,P,1934,I,B,N,M,58,2,C,B,U,"Charleston Co.",SC
+21,811,SC11M!,2N213,N,M,S,1946,III,B,Y,M,44,5,R,B,U,"Charleston Co.",SC
+22,816,SC16N,N217,N,M,S,1946,I,A,N,M,68,1,F,B,R,"Allendale Co.",SC
+23,818,SC18N,N219,N,M,S,1946,I,A,N,M,75,1,M,B,U,"Beaufort Co.",SC
+24,819,SC19N,N220,N,L,P,1934,I,B,N,M,53,,F,B,R,"Beaufort Co.",SC
+25,822,SC22N,N223,N,L,P,1934,I,A,N,F,65,,H,B,U,"Kershaw Co.",SC
+26,824,SC24N,N225,Y,M,S,1946,I,A,N,M,82,1,O,B,R,"Sumter Co.",SC
+27,838,SC38N,N239,N,M,S,1946,II,A,N,M,73,3,S,B,R,"Newberry Co.",SC
+28,842,SC42N,N243,N,M,S,1941,I,B,N,F,54,2,H,B,U,"Greenville Co.",SC
+29,842,SC42M,N243*,N,M,S,1941,I,A,N,F,100,0,H,B,U,"Greenville Co.",SC
+30,901,GA1N,N246,N,S,C,1972,I,B,N,F,40,3,S,B,U,Savannah,GA
+31,902,GA2N,N247,Y,M,S,1946,I,A,N,M,67,1,F,B,R,"Bryan Co.",GA
+32,904,GA4N,N249,N,L,P,1934,I,B,N,M,53,0,F,B,R,"McIntosh Co.",GA
+33,911,GA11N,N258A,N,S,C,1972,I,B,N,F,60,2,K,B,R,"Candler Co.",GA
+34,917,GA17N,N264,N,P,C,1965,I,B,N,F,48,3,R,B,R,"Jefferson Co.",GA
+35,924,GA24N,N269,N,S,C,1970,I,A,N,M,68,0,L,B,U,"Baldwin Co.",GA
+36,925,GA25N,N269A,N,S,C,1972,I,A,N,F,71,1,K,B,R,"Hancock Co.",GA
+37,934,GA34N,N273,N,M,S,1947,I,A,N,M,75,2,S,B,U,"Clarke Co.",GA
+38,935,GA35N,N273A,N,S,C,1971,I,A,N,F,80,1,F,B,R,"Walton Co.",GA
+39,936,GA36N,N274A,N,Rt,C,1972,I,A,N,M,69,1,L,B,R,"Rockdale Co.",GA
+40,937,GA37N,2N274,N,S,C,1971,I,A,N,F,82,2,H,B,U,Atlanta,GA
+41,937,GA37M!,NC274,N,P,C,1968,III,B,Y,M,55,6,P,B,U,Atlanta,GA
+42,956,SC45GA," ",,T,P,1933,,,,F,97,,,B,,"Johns Island",SC
+43,956,SC45GB," ",,T,P,1933,,,,F,78,,,B,,"Johns Island",SC
+44,956,SC45GC," ",,T,P,1933,,,,M,50,,,B,,"Johns Island",SC
+45,957,SC46GA," ",,T,P,1933,,,,F,87,,,B,,"Wadmalaw Island",SC
+46,957,SC46GB," ",,T,P,1933,,,,M,88,,,B,,"Wadmalaw Island",SC
+47,957,SC46GC," ",,T,P,1933,,,,F,88,,,B,,"Wadmalaw Island",SC
+48,958,SC47GA," ",,T,P,1933,,,,F,88,,,B,,"Edisto Island",SC
+49,958,SC47GB," ",,T,P,1933,,,,F,87,,,B,,"Edisto Island",SC
+50,958,SC47GC," ",,T,P,1933,,,,F,49,,,B,,"Edisto Island",SC
+51,959,SC48GA," ",,T,P,1933,,,,M,89,,,B,,"S. Helena Island",SC
+52,959,SC48GB," ",,T,P,1933,,,,F,85,,,B,,"S. Helena Island",SC
+53,959,SC48GC," ",,T,P,1933,,,,M,60,,,B,,"S. Helena Island",SC
+54,960,GA45GA," ",,T,P,1933,,,,M,76,,,B,,"Townsend Island",GA
+55,960,GA45GB," ",,T,P,1933,,,,M,80,,,B,,"Townsend Island",GA
+56,960,GA45GC," ",,T,P,1933,,,,F,60,,,B,,"Townsend Island",GA
+57,961,GA47GA," ",,T,P,1933,,,,M,85,,,B,,"Sapelo Island",GA
+58,961,GA47GB," ",,T,P,1933,,,,M,59,,,B,,"Sapelo Island",GA
+59,961,GA47GC," ",,T,P,1933,,,,F,60,,,B,,"Sapelo Island",GA
+60,962,GA48GA," ",,T,P,1933,,,,M,76,,,B,,"S. Simons Island",GA
+61,962,GA48GB," ",,T,P,1933,,,,M,90,,,B,,"S. Simons Island",GA
+62,962,GA48GC," ",,T,P,1933,,,,F,59,,,B,,"S. Simons Island",GA

@@ -1,0 +1,70 @@
+he does (cg12#9.asc)
+
+Items
+=====
+                          a man say    1
+                                 do    4
+                               does    1
+                              he do   31
+                         he do ****    1
+                        he do do it    1
+                           he do it    2
+                          he do not    1
+                         he do that    3
+                         he do them    1
+                            he does    9
+                         he sure do    1
+                        him do them    1
+                               I do    1
+                             I does    1
+                          I have to    1
+                              it do    2
+                      it do be good    1
+                           it grows    1
+              it sure do smell good    1
+                                 NR    6
+                         other does    1
+                 people say he does    1
+                             she do    1
+                     she do for him    1
+                     that do shrink    1
+                            they do    2
+                       they does it    1
+                        they may do    1
+                       they sure do    1
+                          this does    1
+                              we do    1
+      yes he does that all the time    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

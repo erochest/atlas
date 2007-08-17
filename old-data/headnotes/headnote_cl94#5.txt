@@ -1,0 +1,74 @@
+at a loss (cl94#5.asc)
+
+Items
+=====
+                          at a cost    1
+                          at a loss   25
+                           at a low    1
+                     at a low price    1
+                          at a sale    1
+                            at cost    1
+                            at loss    1
+                 at too low a price    1
+                         below cost    6
+                            broadus    1
+                              cheap    1
+                          cut price    2
+                        for broadus    1
+                       for low rate    1
+                    he lose on that    1
+            he lose on that bargain    1
+             he sell at a low price    1
+             he sell it under price    1
+      he sell that below cost price    1
+                             I lose    4
+                       I lose on it    1
+                     I lose on that    1
+               I lose on that trade    1
+                       I lost on it    1
+              I sell them too cheap    1
+                  it sell at a loss    1
+                it sell at low cost    1
+       it sell less than cost price    1
+ It sell less than the one I bought    1
+                     less than cost    2
+                               loss    7
+                               lost    1
+                           lost out    1
+                          low price    1
+                                 NR    6
+                         under cost    2
+                        under price    1
+
+L: If the store has to sell things at less than they paid for them, you say they are selling at a _____.
+M: If the storekeeper sold something for $2 he'd paid $2.50 for, he'd be selling it _____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 94#5, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 94 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+94#Pa		94#2
+94#Pb		94#5
+94#Pc		94#6 (similar)
+94#1		94#1
+94#2		94#3
+94#3		94#4
+94#4
+94#5		94#7
+94#6
+94#7		94#8
+94#8		95#1

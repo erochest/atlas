@@ -1,0 +1,21 @@
+from the south (cp6#4.asc)
+
+Items
+=====
+                           eastward    1
+                      from the east    2
+                     from the north    3
+                     from the south   16
+                 from the southeast    1
+                 from the southwest    1
+                      from the west    1
+                       in the south    1
+                          northeast    1
+                          northward    1
+                                 NR   34
+                              south    2
+                     south or north    1
+                    to the eastward    1
+                   to the southward    6
+                           westward    1
+

@@ -1,0 +1,87 @@
+lightwood (cl8#6.asc)
+
+Items
+=====
+                            a stick    1
+                          bust wood    1
+                              chunk    3
+             fat lighterd splinters    1
+                      fat lightwood    5
+               fat part of pinewood    1
+                           fat pine    1
+                      fat splinters    3
+                            fatwood    4
+                       in the grate    1
+                           kindling   11
+                      kindling wood    2
+                              light    2
+                           light it    1
+                          lightwood   33
+                 lightwood kindling    1
+                lightwood splinters    1
+                   lightwood stumps    1
+                         lightwoods    2
+                                 NR   23
+                              piece    1
+                      piece of wood    1
+                               pine    1
+                       pine berries    1
+                           richwood    1
+                          splinters    2
+                              stick    2
+                         stove wood    1
+                     these days now    1
+                            torches    1
+                         turpentine    1
+
+
+
+
+M:  What would you call the kind of wood you use to start a fire?  How about something you'd get when you cut down a pine tree, rich wood you could light directly from a match?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The terms denote the sticks of wood, usually pine, with which the fire is started in the fireplace or stove.  For terms such as "lightwood," the stress in on "light-."   
+						
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:
+
+This question was not asked throughout the survey area.  Only the South Atlantic States were systematically queried. This item was not part of the Preliminary South Atlantic worksheets.
+
+Several informants mention turpentining practices.  See DARE for entries on "cat face" and "heart pine".  Not all responses refer to a type of pine.  In the Appalachians, especially, the type of pine typically used as lightwood does not grow and other woods are used for kindling, though the term "rich pine" is known. 
+
+One informant for Johnson 1992 gave the following folk etymology for "lightwood": Before electricity was common, if someone wanted to read or do some sewing without lighting the lamp, they could throw a piece of it on the fire and it would blaze up and make a light.
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 8#6, "light" is inappropriate, as is marginalia.  
+
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 8 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+		8#1 (no question)
+8#Pa
+8#Pb
+8#1		8#2a
+8#2		8#2b
+8#3		
+8#4		8#3
+		8#4
+8#5		8#5
+8#6		
+8#7		8#6
+8#8		8#7
+8#9		8#8

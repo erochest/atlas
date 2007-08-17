@@ -1,0 +1,51 @@
+cattywampus (cl85#2.asc)
+
+Items
+=====
+                               bias    1
+                         catawampus    1
+                           catering    1
+                         catty-bias    1
+                       catty-corner    4
+                     catty-cornered   16
+                       catty-wampus    3
+                         jumbled up    1
+                           mixed up    1
+                                 NR   40
+
+
+
+
+L: [After the other questions have been raised] Would you say kitty-cornered or katty-cornered?
+M: If there's a vacant lot at the corner and you go across it instead of around it on the sidewalk, you're walking _____?   If you do that at a street 	intersection?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 85#2, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 85 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+85#Pa		85#2
+85#Pb		86#3,4
+85#Pc		85#1
+85#Pd		85#5
+		85#3 (no question)
+85#1,2		85#4
+85#3		85#6
+85#4		85#7
+85#5		85#8
+85#6		86#1
+85#7		86#2
+85#8		86#3,4

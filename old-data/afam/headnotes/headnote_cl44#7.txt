@@ -1,0 +1,123 @@
+other bread from corn meal (cl44#7.asc)
+
+Items
+=====
+                                ***    1
+                          ash bread    6
+                           ash cake   34
+                          ash cakes    2
+                              ashes    2
+                        ashes bread    2
+                         ashes cake    1
+                      bastard bread    1
+                       batter bread    5
+                        batter cake    1
+                              bread    1
+                       coffee bread    1
+                               corn    1
+                   corn batter cake    1
+                  corn batter cakes    1
+                         corn bread    1
+                          corn cake    3
+                         corn cakes    4
+                        corn dodger   11
+                       corn dodgers   11
+                         corn duffy    1
+                      corn dumpling    1
+                     corn dumplings    4
+                      corn hoe cake    1
+                        corn hominy    1
+                        corn muffin    1
+                       corn muffins    4
+                         corn patty    1
+                          corn puff    2
+                        corn square    2
+                         corn stick    3
+                        corn sticks    5
+                     cracklin bread   18
+                cracklin corn bread    1
+                             dodger    2
+                            dodgers    3
+              dressed up corn bread    1
+                           dumpling    3
+                          dumplings    2
+                          egg bread    9
+                         egg muffin    1
+                           egg pone    1
+                        fatty bread    4
+                           flap ***    1
+                           fritters    1
+                        ginger cake    1
+                      griddle bread    1
+                       griddle cake    1
+                           hoe cake   40
+                     hoe cake bread    1
+                          hoe cakes    3
+                       hush puppies    6
+            in ashes in brown paper    1
+                       johnny bread    1
+                        johnny cake   11
+                         johnny kin    1
+                         milk bread    1
+                             muffin    3
+                       muffin bread    1
+                        muffin pans    1
+                            muffins    2
+                               mush    1
+                                 NR    3
+                               oven    1
+                         oven bread    2
+                          pan bread    2
+                            pancake    1
+                           pancakes    1
+                         patty cake    1
+                         pone bread    1
+                       pumpkin leaf    1
+          salt and water corn bread    1
+                        short bread    1
+                   shortening bread    1
+                           slapjack   13
+                               soda    1
+                        spider cake    1
+                        spoon bread    6
+                         tater pone    1
+                              thick    1
+                         turn flour    2
+                          turn meal    1
+                          turn mush    2
+                              wafer    2
+                             waffle    1
+                      wild dumpling    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

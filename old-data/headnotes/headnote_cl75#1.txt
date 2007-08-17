@@ -1,0 +1,73 @@
+touchy (cl75#1.asc)
+
+Items
+=====
+                            biggety    1
+                    chicken-hearted    1
+                              crazy    1
+                    easy to fly off    1
+                easy to get fretted    1
+                    easy to get hot    1
+                    easy to get mad    1
+                        embarrassed    1
+                            foolish    1
+                          fractious    5
+                            fretful    3
+                            geechem    1
+                            geecher    1
+              he fly off the handle    1
+               he's easy to get mad    1
+              he's so short patient    1
+                      high-tempered    1
+                                ill    4
+                               mean    1
+                                 NR   11
+                  quick to get mad    1
+                     quick-tempered    3
+                          sensitive    2
+                      short patient   22
+                     short tempered    1
+                              silly    2
+                       thin-skinned    2
+                           touchous   19
+                             touchy    8
+                 very short patient    1
+
+Pronunciations
+==============
+                                  "    2
+
+
+
+
+M: Somebody you can't joke with without him losing his temper, you say, is mighty _____.  Or, if somebody loses his temper when the least little thing goes wrong, he's awfully ______.
+
+Notes from University of Georgia Atlas staff  (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 75#1, "biggety" and "embarrassed" are inappropriate, as is marginalia. 
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 75 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook		Preliminary Worksheets
+----------------------------------
+75#Pa
+75#Pb			75#4
+75#Pc			75#8
+75#Pd			75#3
+75#1			75#1
+75#2			75#2
+75#3 (no question)
+75#4			75#5 (similar)
+75#5			75#6
+75#6 (no question)
+75#7			75#7

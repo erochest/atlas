@@ -1,0 +1,98 @@
+tomorrow (cp4#1.asc)
+
+Items
+=====
+                       for tomorrow    1
+                             morrow    1
+                                 NR    7
+                  Sunday after next    1
+                           tomorrow   63
+              tomorrow is Wednesday    1
+
+Pronunciations
+==============
+                         dè±øÂmµær∞    1
+                      d∞Âmµ´{∞}{r}∞    1
+                       d∞Âmﬁ´º{∞}r∞    1
+                          d∞Âmﬁºr∞´    1
+                        d±øm∑Ω{∞}r∞    1
+                     f∂∑$tê∞Âmﬁº∫r∞    1
+                          t`∞Âmµr∞´    1
+                         t`∞Âmµ∫r∞∫    1
+                         t`∞Âm∂r∞´æ    1
+                        t`∞Âm∂´∫r∞æ    1
+                          t`∞Âm∂∫r∞    1
+                         t`∞Âm∂∫r∞æ    1
+                     t`∞Âm∂∫{∞}r∞´æ    1
+                      t`∞Âm∂∫Òé±ø´º    1
+                           t`∞Âmﬁr∞    1
+                       t`∞Âmﬁï´º∫r∞    1
+                       t`∞Âmﬁ∫r±ø´º    1
+                      t`±øΩÂmµº∫Òç∞    1
+                        toÂm∑Ω{∞}r∞    1
+                         tuøÂmﬁ{r}∞    1
+                           t∞mµ´ær∞    1
+                            t∞mµæro    1
+                            t∞mµær∞    6
+                    t∞m∂$±z$w≤Ωnzd±    1
+                             t∞m∂ro    1
+                             t∞m∂r∞   10
+                            t∞m∂ær∞    1
+                            t∞m∑Ωr∞    1
+                           t∞m∑Ω∫r∞    1
+                         t∞´Âmµº∫r∞    1
+                          t∞Âmµ´ær∞    1
+                           t∞Âmµær∞    1
+                         t∞Âmµæ{r}∞    1
+                         t∞Âm∂{∞}r∞    1
+                         t∞Âm∂î´ºr∞    1
+                          t∞Âm∑Ω∫∞Ω    1
+                            t∞Âmﬁr∞    1
+                          t∞Âmﬁ´ºr∞    1
+                        t∞Âmﬁ´º{r}∞    1
+                       t∞Âmﬁ´º{∞}r∞    1
+                          t∞Âmﬁ´ær∞    1
+                           t∞ÂmﬁÒç∞    1
+                          t±øÂmµær∞    2
+                         t±øÂmﬁóºr∞    1
+                       t±øÂmﬁ∫{∞}r∞    1
+                    t±øÂmﬁº∫roº{πº}    1
+                       {d}{∞}mµ´ær∞    1
+                           Âmµ∫{r}∞    1
+                   Ât∞mµ´{∞}{r}o{π}    1
+                      ıt`∞∫Âm∂∫r∞´æ    1
+                          ıt∞ÂmµºÒ∞    1
+
+
+
+L:  Monday is today;  Tuesday will be ____.
+M:  If it is Wednesday (or whatever day it is), Tuesday was ____ and Thursday will be ____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 4#1, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 4 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+3#7		4#1
+4#P
+4#P		4#7
+4#1		4#2
+4#2		4#3
+4#3		4#4
+4#4		4#5
+4#5		4#6
+4#6		4#8
+

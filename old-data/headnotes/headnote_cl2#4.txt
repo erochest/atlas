@@ -1,0 +1,71 @@
+afternoon (cl2#4.asc)
+
+Items
+=====
+               after twelve o'clock    1
+after twelve o'clock; but we say good evening    1
+                          afternoon   18
+                            evening   29
+                       evening time    2
+                     good afternoon    4
+                           good day    1
+                       good evening    6
+                                 NR   18
+                            sundown    1
+
+Pronunciations
+==============
+                                  "    1
+
+
+/the part of the day before supper;  when does it begin and end?/
+
+L:  Part of the day before supper?
+M:  What do you call the part of the day after you stop saying "Good Morning!"?  How long does afternoon last?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+	
+When both "afternoon" and "evening" appear, these terms refer to the same time of day, though they may differ in social status, in currency, or in connotation.  Precise delimitations of the periods denoted by the several terms were seldom recorded.  A few informants state explicitly that the "evening" begins at noon. The dividing line between "afternoon" and "evening", when both refer to the time of day before supper, is put variously at 4 o'clock, at 5 o'clock, and at 6 o'clock.
+
+"Afternoon" usually has the main stress on the last syllable.  Forms with initial stress are identified on the map by the use of a stress mark.
+	  
+Notes from University of Georgia Atlas staff (1998-2000): 
+	
+	Johnson:
+	
+Since "good afternoon" and "good evening" were only elicited by McDavid and formed a short list subsidiary to this one, the contents of that list that were derived from question 2#4 were added to this file.  Worksheet questions 2#4 and 2#6 ("afternoon" and "evening") were not combined, however, despite a suggestion from McDavid to do so.
+
+To remedy the confusion/overlap between them in parts of the list manuscript, the file was proofread from the field records, where the separation is fairly clear between responses to the two questions, especially since 2#5 ("good day") comes between them.  If a response in the fourth position on the page specifically states that it applies to the time after supper, it was put into 2#6.  Likewise for something at the bottom of the page that refers to the time before supper;  it was moved to 2#4.  This decision was based on the stated referent of the worksheet question.
+
+The list manuscript was not corrected during proofreading from the field records, so the computer files and list manuscript have discrepancies between them.  In particular, entries for "afternoon" and "evening" have been deleted if they were recorded in the context of greetings, hence appearing in the subsidiary list that has now been included together with the main list.  This avoids duplication.
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 2#4, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 2 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+2#1a 		2#1a
+2#1b 		2#1b
+2#2a 		2#1c
+2#2b 		2#1d
+		2#2 (no question)
+		2#3 (no question)
+2#3  		2#4
+2#4  		2#5
+2#5  		2#6
+2#6  		2#7
+ 
+	

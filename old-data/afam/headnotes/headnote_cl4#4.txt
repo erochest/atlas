@@ -1,0 +1,72 @@
+half past seven (cl4#4.asc)
+
+Items
+=====
+                              after    1
+                       eight-thirty    1
+                      eleven thirty    1
+                        four-thirty    1
+                               half    1
+                   half after seven    1
+                          half past    1
+                    half past eight    3
+                   half past eleven    1
+                     half past four    6
+                     half past nine    1
+                      half past one    2
+                    half past seven   29
+                      half past six    1
+                      half past ten    2
+                    half past three    2
+                      half past two    1
+                                 NR    9
+                               past    1
+                       seven thirty    3
+                       seven-thirty    3
+                         six-thirty    1
+                         ten-thirty    5
+          thirty minute after seven    1
+                   thirty minute to    1
+
+Pronunciations
+==============
+                      ha«f$pas$w¸«n    1
+                       ha«f$pa«s$fo    5
+                    ha«f$pa«s$fo{°}    1
+                      ha«f$pa«s$sri    1
+                     ha«f$pa«s$s²bm    9
+                       ha«f$pa«s$tu    1
+                     ha«f$pa«s$w¸«n    1
+                            ha«{°}f    1
+             ha¾º{°}f$pa¾{°}s$s²bm–    1
+                        háf$pás$sòi    1
+             há{°}f$pá{°}s{t}$s²bm–    1
+              há{°}f$pá{±¿½}s$s²bm–    1
+            há{°}Æ$pá{°}s{t}$s²«bm–    1
+                  há{æ}$páºs$seºbm–    1
+             há«{±¿}f$áft°$s²{°}bm–    1
+           há«º{°}f$pá«º{°}s$s²«bm–    1
+                  háº{f}$pás$s²«bm–    1
+              háº{°}f$páº{°}s$s²bm–    1
+             háº{°}f$páº{°}s$s²«bm–    1
+         háº{±¿}f$páº{±¿}s{t}$s²bm–    1
+            háº{æŸf}$pá«º{°}s$sebm–    1
+              há½¾f$pá½¾s$s²¾{°}v°n    1
+         åha«º{°}f$õp`a«¾{°}s$åe«ºt    1
+       åha°«{°}f$õp`a«{°}s$ånµ«º±¿n    1
+                åháf$õp`ás$ås²«v°«n    1
+              åhá{°}$p`á{°}s$åe«º°t    1
+             åhá{°}$åp`á«º²s$åt`±¾n    1
+          åhá{°}$õp`á½{°}s$t`²½{°}n    1
+        åhá{°}{ç}$p`áº{°}$ås²½{°}bm    1
+          åhá{²}f$õpá«{²}st$åe{±¿}t    1
+        åhá«{±¿}f$õpá«{²}st$ås²v°«n    1
+                  åhá«{²}$õpá«{²}st    1
+            åhá«º²«$åp`á«º²$ås²«bm–    1
+              åhá²f$õp`á{²}s$ås±«ks    1
+               åháº$õp`á«º²s$ås²«bm    1
+             åháº²f$õp`á{²}s$ål²«bm    1
+            õhá{°}f$õpá{°}s$ås²ºbm–    1
+          õháº{f}$õpáºs{t}$ås²{b}m–    1
+        õháº{±¿½}Æõpáº{±¿½}s$ås²bm–    1
+

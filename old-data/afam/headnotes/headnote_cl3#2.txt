@@ -1,0 +1,67 @@
+sunup (cl3#2.asc)
+
+Items
+=====
+                       crack of day    1
+                               dawn    2
+                                day    2
+                           daybreak    1
+                           daylight    3
+              I go to work at seven    1
+                              light    2
+                                 NR   10
+                         sunraising    1
+                            sunrise   34
+                              sunup   28
+                        the sunrise    1
+            we start before sunrise    1
+
+Pronunciations
+==============
+                 d°$ås¦½nåra¾º{°}z    1
+                      s¦½nrµ¼º{²¾}z    1
+                           s¸nr¶¼±z    1
+                     s¸{°}nraş«¼±«z    1
+                           s¸«nrµ±z    4
+                          s¸«nrµ¾±z    4
+                           s¸«nr¶±z    3
+                          s¸«nr¶¼±z    4
+                             s¸«n¸p    8
+                            s¸«n¸p"    1
+                            s¸«n¸«p    1
+                    s¸«¼nra¾±¿½{z}    1
+                        s¸«¼nå¸{°}p    1
+                           s¸¼nraºz    1
+                             s¸¼n°p    1
+                            ås¥n¸¼p    1
+                     ås¥«nõrµ«¼º±¿z    1
+                        ås¦n¦«¼{°}p    1
+                          ås¦¼nõ¦½p    1
+                           ås¦½n°«p    1
+                     ås¦½{°}nõrµ±¿z    1
+                         ås¦½¼n¸İ«p    1
+                       ås°½¾nraº±¿z    1
+                           ås¸nõ¸¾p    1
+                        ås¸—«¼n¸«¼p    1
+                           ås¸«n¸«p    2
+                     ås¸«nõra«¾{°}z    1
+                    ås¸«nõra«¾º{°}z    1
+                        ås¸«nõra±¿z    1
+                   ås¸«nõreº{i¿}zn–    1
+                       ås¸«nõrµ«±¿z    1
+                       ås¸«nõrµ¾±¿z    1
+                           ås¸«nõ¦p    1
+                          ås¸«nõ¸«p    1
+                       ås¸«nõ¸«{°}p    1
+                     ås¸«¼nõra«¾±¿z    1
+                   ås¸«¼nõra«¾º{°}z    1
+                     ås¸«¼{°}nõ¦½¼p    1
+                    ås¸¼{°}nõrµº±¿z    1
+                     ås¸½nõra¾º{°}z    1
+                        ås¸şnrµ«±¿z    1
+                           ås¸ş«n¸p    1
+                          ås¸ş«nõ¸p    1
+                           ås¸ş¾n¸p    1
+                        õs¸nårµ±¿¾z    1
+                       õs¸½nåra¾±¿z    1
+

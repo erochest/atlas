@@ -1,0 +1,70 @@
+woodpecker (cl59#3.asc)
+
+Items
+=====
+                               coon    1
+                           good god    1
+                                 NR   39
+                         peckerwood    7
+                        peckerwoods    1
+                             possum    1
+                          sapsucker    4
+                         sapsuckers    1
+                            wet hen    1
+                           woodcock    1
+                        woodknocker    1
+                       woodknockers    1
+                         woodpecker   14
+                         woodsapper    1
+                        woodsnapper    1
+                             yellow    1
+                      yellow hammer    2
+
+Pronunciations
+==============
+                                  "    1
+
+
+
+
+M: The kind of bird that drills holes in trees.  [Be on the lookout for 	peckerwood.  At the end of this item, ask if anybody--or any class of 	people--has ever been compared to woodpeckers.]
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The terms presented here are not strictly synonymous: "Woodpecker" and "peckerwood" have a broad meaning, while other terms are more specific and apply to the large red-headed woodpecker, the giant woodpecker, or a small speckled woodpecker.  Some informants avoid the terms "woodpecker" and "woodcock" as reminiscent of the popular terms for the male and female organs, respectively.  All compound expressions have the main stress on the first member.
+				
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 59#3, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 59 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook		Preliminary Worksheets
+----------------------------------------------
+59#P
+59#P			59#8
+59#1			59#1
+59#2			59#1
+			59#2 (no question)
+			59#3 (no question)
+			59#4 (no question)
+59#3
+59#4
+59#5
+59#6			59#5
+59#6			59#6
+			59#7 (no question)
+59#7 (no question)
+59#8

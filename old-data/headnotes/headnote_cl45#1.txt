@@ -1,0 +1,69 @@
+baker's bread (cl45#1.asc)
+
+Items
+=====
+                     *** edge bread    1
+                         baker bead    1
+                        baker bread   11
+                         baker shop    1
+                   baker shop bread    1
+                            baker's    2
+                      baker's bread   14
+                             bakers    1
+                       bakers bread    1
+                       bought bread    6
+                       bought broom    1
+                     boughten bread    2
+                    home made bread    6
+    home made bread and baker bread    3
+   home made bread and bought bread    2
+     home made bread and loaf bread    1
+                        light bread    3
+                         light loaf    1
+                         loaf bread    3
+                                 NR   15
+                               pure    1
+                        stale bread    1
+                stone flour in them    1
+                 store bought bread    1
+                         town bread    3
+
+
+
+
+L: There are two kinds of bread, the homemade bread and the kind that you 	buy at the store, called _____.
+
+Notes on target items and data collection procedures:
+
+	R. McDavid:
+
+The informants were asked to give the term(s) for bread that is not baked at home. Home-made bread is now rare, hence the simplex "bread," which usually designates baker's bread (so does "loaf bread").  In all of these compounds, the stress is on the first element. 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 45#1, "bought broom" and "pure" are inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 45 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  			
+
+Handbook		Preliminary Worksheets
+----------------------------------------------
+45#P			45#2
+45#1			45#1
+45#2			45#3
+45#3 (no question)
+45#4			45#4
+			45#5 (no question)
+45#5			45#6
+45#6			45#7
+45#7			45#8
+45#8			45#8 (similar)

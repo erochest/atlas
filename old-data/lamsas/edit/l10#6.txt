@@ -1,0 +1,1798 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NR","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NR","NY2C","51.3"," ","N"," "," "," ","MS",4
+"stairs","NY3A","401","N","N"," "," ","st²º´z","MS",5
+"staircase","NY3B","403","N","N"," "," ","st²½º´ke½±¿s","MS",6
+"stairs","NY3C","402","N","N"," "," ","st²«´z","MS",7
+"stairs","NY3D","404","N","N"," "," ","st²«º°z","MS",8
+"stairs","NY4A","405","N","N"," "," ","st²«º°«z","MS",9
+"stairs","NY4B","407","N","N"," "," ","stá¼º°z","MS",10
+"stairs","NY4C","408","N","N"," "," ","st²«º°İ«z","MS",11
+"stairs","NY5A","409","N","N"," "," ","ste½º°«z","MS",12
+"stairs","NY5B","410","N","N"," "," ","st²º°z","MS",13
+"stairs","NY5C","411","N","N"," "," ","ste½º°z","MS",14
+"stairs","NY5D","412","N","N"," "," ","st²«º°z","MS",15
+"stairs","NY5E","413","N","N"," "," ","st²º°z","MS",16
+"stairs","NY5F","414","N","N"," "," ","st²º°z","MS",17
+"stairs","NY5G","415","N","N"," "," ","st²«º°z","MS",18
+"steps","NY5H!","416!","N","N"," "," ","st²ps","MS",19
+"stairs","NY5H!","416!","N","N"," "," ","st²«º°z","MS",19
+"stairs","NY5I!","417!","N","N"," "," ","st²«º°z","MS",20
+"stairs","NY6A","418","N","N"," "," ","st²º°z","MS",21
+"stairs","NY6B","419","N","N"," "," ","st²«º°z","MS",22
+"stairs","NY7A","420","N","N"," "," ","st²º°«z","MS",23
+"stairs","NY7B","421","N","N"," "," ","st²«º°z","MS",24
+"stairway","NY7C","422","N","N"," "," ","st²«º°we±¿","MS",25
+"stairs","NY7C","422","N","N"," "," ","st²«º°z","MS",25
+"stairs","NY7D","423","N","N"," "," ","st²«º°z","MS",26
+"stairs","NY7E","424","N","N"," "," ","st²«º°z","MS",27
+"pair of stairs","NY7F","425","O","N"," "," ","õp²º°ñ°ö$åst²º°z","MS",28
+"stairs","NY7G","426","N","N"," "," ","st²«º°«z","MS",29
+"stairs","NY7H","427","N","N"," "," ","st²«º°İz","MS",30
+"stairs","NY7I","428","N","N"," "," ","st²«º°z","MS",31
+"stairs","NY7J!","429!","N","N"," "," ","st²º°z","MS",32
+"stairs","NY7K!","430!","N","N"," "," ","st²º°z","MS",33
+"stairs","NY7L!","431!","N","N"," "," ","st²«º°z","MS",34
+"stairs","NY7M!","432!","N","N"," "," ","st²º°İ«z","MS",35
+"stairs","NY8","432b","N","N"," "," ","st²«º°z","MS",36
+"stairs","NY9A","432c","N","N"," "," ","st²«´z","MS",37
+"stairs","NY9B","433","N","N"," "," ","st²´ºz","MS",38
+"stairs","NY9C","434","N","N"," "," ","st²«º°z","MS",39
+"stairs","NY10A","435","N","N"," "," ","st²´z","MS",40
+"stairs","NY10B!","436!","N","N"," "," ","st²´z","MS",41
+"stairs","NY11","438","N","N"," "," ","st²«º´z","MS",42
+"stairs","NY12A","439(*)","N","N"," "," ","st²«´z","MS",43
+"stairsteps","NY12A","439(*)","N","Y"," ","AUX","åstá´ºõst²ps","MS",43
+"stairs","NY12A","439(*)","N","N"," ","CNV","stá«º´z","MS",43
+"stairs","NY12B","440","N","N"," "," ","st²´ºz","MS",44
+"stairs","NY12C!","441!","N","N"," "," ","st²«º°z","MS",45
+"steps","NY13A","443","N","N"," "," ","st²ps","MS",46
+"stairsteps","NY13A","443","N","N"," "," ","st²rst²ps","MS",46
+"stairs","NY13B!","444!","N","N"," "," ","st²«º°z","MS",47
+"stairs","NY14A","445","N","N"," "," ","st²´z","MS",48
+"stairs","NY14B","446","N","N"," "," ","st²´z","MS",49
+"pair of stairs","NY15A","447","O","N"," "," ","õpá«´$°$åstá«´z","MS",50
+"stairs","NY15B","448","N","N"," "," ","st²º´z","MS",51
+"stairs","NY16A","449","N","N"," "," ","st²«º°z","MS",52
+"stairs","NY16B","450","N","N"," "," ","st²«´z","MS",53
+"stairs","NY17A","451(*)","N","N"," "," ","stá«º´z","MS",54
+"stairsteps","NY17A","451(*)","N","Y"," ","AUX/SUG","stá«´st²ps","MS",54
+"stairs","NY17A","451(*)","N","Y"," ","AUX","stá«´z","MS",54
+"stairs","NY17B","452","N","N"," "," ","st²´z","MS",55
+"stairs","NY18A","453","N","N"," "," ","stá´z","MS",56
+"stairs","NY18B","454","N","N"," "," ","st²´z","MS",57
+"stairs","NY18C!","455!","N","N"," "," ","st²«º°z","MS",58
+"stairs","NY19","456","N","N"," "," ","st²«´z","MS",59
+"stairs","NY20A","457","N","N"," "," ","stá«º´z","MS",60
+"stairs","NY20B","458","N","N"," "," ","stá«º´z","MS",61
+"stairs","NY21","459","N","N"," "," ","st²´z","MS",62
+"stairs","NY22","460","N","N"," "," ","st²«´z","MS",63
+"stairs","NY23A","461","N","N"," "," ","stá«´z{z}","MS",64
+"stairway","NY23B","462a","N","N","""ladder¢"," ","åstá«´õwe½º±¾","MS",65
+"stairs","NY23B","462a","N","N"," ","CNV","st²´z","MS",65
+"stairs","NY23B","462a","N","N"," ","CNV","st²½´z","MS",65
+"ladder","NY23B","462a","N","Y"," ","INA","lá«ºd´","MS",65
+"stairs","NY23C","462b","N","N"," ","CNV","st²´«z","MS",66
+"stairs","NY24A","463","N","N"," "," ","stáº´z","MS",67
+"stairs","NY24B!","464!","N","N"," "," ","stá«º´z","MS",68
+"stairs","NY25A","465","N","N"," "," ","stáº´z","MS",69
+"ladder","NY25A","465","N","Y"," ","INA","la«d´«¾","MS",69
+"stairway","NY25B","466","N","N"," "," ","åst²´õwe½{±¿}","MS",70
+"stairway","NY26A","467","N","N"," "," ","åst²½´õwe½º{±¿}","MS",71
+"a stairs","NY26B","468","O","N","sealed in"," ","°$åstá«´z","MS",72
+"stairs","NY26C","469","N","N"," "," ","st²½´z","MS",73
+"stairs","NY27A","470","N","N"," "," ","stá«º{²}´z","MS",74
+"ladders","NY27A","470","N","Y"," ","INA","lá«ºd´«¾{z}","MS",74
+"stairs","NY27B","471","N","N"," "," ","stá«´z","MS",75
+"stairs","NY27B","471","N","N"," "," ","stá´z","MS",75
+"stairs","NY27C","472","N","N"," "," ","stá«º{²}´z{z}","MS",76
+"stairs","NY28A","473a","N","N"," "," ","st²º´z","MS",77
+"staircase","NY28B","473b(*)","N","N"," "," ","åst²´õke½±¿s","MS",78
+"stairs","NY28B","473b(*)","N","N","no railing"," ","stá«´z","MS",78
+"stairs","NY28C","473bX","N","N","natural; ""bannisters¢"," ","stá«´z","MS",79
+"bannisters","NY28C","473bX","N","Y"," ","INA","bµn±¿st´«¾z","MS",79
+"wooden stairs","NY29A","474a","O","N"," "," ","õw¹dn$åstá´z","MS",80
+"upstairs","NY29A","474a","N","Y"," ","INA/CNV","¸½påst²´z","MS",80
+"stairway","NY29B","474b","N","N"," "," ","åstá½´õwe½±¿¼","MS",81
+"ladder","NY29B","474b","N","Y"," ","INA","la«d´","MS",81
+"stairway","NY29C","474c","N","N"," "," ","åstá¾´õwe½º{±¿}","MS",82
+"steps","NY30A","475a","N","N"," "," ","st²ps","MS",83
+"stairs","NY30A","475a","N","N"," "," ","stá«´z","MS",83
+"stairway","NY30B","475b","N","N","not open"," ","åstá«°õwe½º{±¿}","MS",84
+"stairs","NY30B","475b","N","N"," "," ","st²´z","MS",84
+"stairs","NY30C","475c","N","N"," "," ","stá«´z","MS",85
+"ladder","NY30C","475c","N","Y"," ","INA","lád´","MS",85
+"stairs","NY30D","475d","N","N"," "," ","stá´z","MS",86
+"stairway","NY30E","475e","N","N"," ","CNV","åstá«´õweº{±¿}","MS",87
+"stairs","NY31A","478a","N","N"," "," ","stá«¾´z","MS",88
+"stairway","NY31B","478b","N","N"," "," ","åstá«º°õwe½±¿","MS",89
+"stairway","NY32A","479a","N","N"," "," ","åst²½´õwe½º±¿¼","MS",90
+"ladder","NY32A","479a","N","Y","in log house","INA","lád´","MS",90
+"stairs","NY32B","479b","N","N","from hall"," ","stá«´z","MS",91
+"stairs","NY33A","480","N","N"," "," ","stá«´z","MS",92
+"stairway","NY33B","481","N","N"," ","CNV","åst²½´õwe½º±¿","MS",93
+"stairway","NY33C","482","N","N"," "," ","åstá«´õwe½º±¿","MS",94
+"staircase","NY33C","482","N","N"," ","CNV","åst²´õke½º±¿¼s","MS",94
+"stairs","NY34A","483","N","N"," ","CNV","stá«´z","MS",95
+"staircase","NY34B","484","N","N"," "," ","åst²½´õkˆe½±¿¼s","MS",96
+"stairs","NY34C","485","N","N"," "," ","st²½´z","MS",97
+"stairway","NY34C","485","N","N"," "," ","åst²½´we½º±¿¼","MS",97
+"staircase","NY34C","485","N","N"," "," ","åst²½´õkˆe½±¿¼s","MS",97
+"stairs","NY34D!","486!","N","N"," "," ","st²½´z","MS",98
+"staircase","NY34D!","486!","N","Y"," ","HRD","åst²´õkˆe½±¿¼s","MS",98
+"stairs","NY35A","487","N","N"," "," ","st²´z","MS",99
+"stairs","NY35B","488","N","N"," "," ","stá«º´z","MS",100
+"stairs","NY35C!","489!","N","N"," "," ","st²´z","MS",101
+"stairs","NY36A","491","N","N"," "," ","st²´z","MS",102
+"stairs","NY36B","492","N","N"," "," ","stá´z","MS",103
+"stairs","NY37A","493","N","N"," "," ","stá´z","MS",104
+"stairs","NY37B","494","N","N"," "," ","st²´z","MS",105
+"stairs","NY37C!","495!","N","N"," "," ","st²º´z","MS",106
+"stairs","NY38A","497(*)","N","N"," "," ","stá´z","MS",107
+"stairs","NY38B","498","N","N"," "," ","st²´z","MS",108
+"stairs","NY38C","497X","N","N"," "," ","st²«´z","MS",109
+"stairs","NY39A","499","N","N"," "," ","stáº´z","MS",110
+"stairs","NY39B","500","N","N"," "," ","st²´z","MS",111
+"stairs","NY40A","501","N","N"," "," ","stá´z","MS",112
+"stairs","NY40B","502","N","N"," "," ","stá«´z","MS",113
+"stairs","NY41","504","N","N"," "," ","st²´z","MS",114
+"stairs","NY42A","505","N","N"," "," ","stáº´z","MS",115
+"stairs","NY42B","506","N","N"," "," ","st²´ºz","MS",116
+"stairs","NY43A","507","N","N"," "," ","stá«´z","MS",117
+"stairs","NY43B","507b","N","N"," "," ","st²´z","MS",118
+"stairs","NY43C!","508!","N","N"," "," ","st²«´ºz","MS",119
+"stairs","NY44A","511","N","N"," "," ","stáº´z","MS",120
+"stairs","NY44B","512","N","N"," "," ","stá«´z","MS",121
+"stairs","NY45A","513a","N","N"," "," ","st²´z","MS",122
+"stairs","NY45B","513b","N","N"," "," ","stá«´z","MS",123
+"stairway","NY45C","513c","N","N"," "," ","åstá«´õwe½º±¿","MS",124
+"stairs","NY45D!","513d!","N","N","""fan¢"," ","st²½´z","MS",125
+"staircase","NY45D!","513d!","N","N"," ","CNV","åstá«´õkˆe½±¿¼s","MS",125
+"fan","NY45D!","513d!","N","Y"," ","INA","fáº{°}n","MS",125
+"stairs","NY46A","515a","N","N","""an outside stairs¢"," ","stá«´z","MS",126
+"stairsteps","NY46A","515a","N","N"," "," ","åstá´õst²ps","MS",126
+"a stairsteps","NY46A","515a","O","N"," ","SIC","°$åstá´õst²ps","MS",126
+"an outside stairs","NY46A","515a","O","N"," ","CNV","°n$åµ«¼¹tõsµ«±¿d$åstá«´z","MS",126
+"NR","NY46B","515b"," ","N"," "," "," ","MS",127
+"steps","NY46C","515c","N","N"," "," ","st²ps","MS",128
+"stairway","NY46C","515c","N","N","has heard `pair of stairs' -- two flights with an intervening landing"," ","st²º´we{±}","MS",128
+"stairs","NY46C","515c","N","N"," "," ","st²º´z","MS",128
+"upstairs","NY46C","515c","N","Y"," ","INA","¸«påst²«´z","MS",128
+"stairways","NY47A","517(*)","N","N"," "," ","åst²´õwe½{±¿}z","MS",129
+"stairsteps","NY47A","517(*)","N","Y"," ","AUX","åstá«´õst²ps","MS",129
+"steps","NY47A","517(*)","N","Y"," ","AUX","st²{°}ps","MS",129
+"stairs","NY47B","518","N","N"," "," ","st²´z","MS",130
+"stairs","NY48A","519a","N","N"," "," ","stá«{²}´z","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"stairway","NY48C","519c","N","N"," "," ","åstá«´õwe½±¿¼","MS",133
+"staircase","NY48C","519c","N","N"," "," ","åstá«°õkˆe½±¿¼s","MS",133
+"stairway","NY48D","519d","N","N"," "," ","åst²´õwe½±¿¼","MS",134
+"steps","NY49A","520","N","N"," "," ","st²¾ps","MS",135
+"regular stair","NY49A","520","O","N"," "," ","õr²gl´$åstá«´","MS",135
+"stairs","NY49B","521","N","N"," "," ","st²´z","MS",136
+"stairs","NY49C","522a","N","N"," "," ","stá«´z","MS",137
+"stairs","NY49D","522b","N","N"," "," ","st²½´z","MS",138
+"stairway","NY50A","523","N","N"," "," ","åstá«´õwe½±¿","MS",139
+"stairs","NY50A","523","N","N"," "," ","stá«{±¿}´z","MS",139
+"stairs","NY50B","524","N","N","""smaller steps¢"," ","stá«´z","MS",140
+"smaller steps","NY50B","524","O","N"," "," ","õsm¶l´$åst²«ps","MS",140
+"stairway","NY51A","525a","N","N"," "," ","åstá«´õwe½{±¿}","MS",141
+"steps","NY51A","525a","N","N"," "," ","st²«ps","MS",141
+"stairs","NY51A","525a","N","N"," "," ","st²½´z","MS",141
+"stairway","NY51B","525b","N","N"," ","CNV","åst²´õwe½±¿","MS",142
+"stairway","NY51C","525c","N","N","""bannister¢"," ","åstá«º°õwe½±¿¼","MS",143
+"bannister","NY51C","525c","N","Y"," ","INA","bán±¿st°","MS",143
+"stairway","NY51D","525d","N","N"," "," ","åst²½´õwe½{±¿}","MS",144
+"back stairway","NY51D","525d","O","N"," "," ","åbák$åst²½´õwe½{±¿}","MS",144
+"front stairway","NY51D","525d","O","N"," "," ","fò¸¼nt$åst²½´õwe½{±¿}","MS",144
+"staircase","NY51E!","525e!","N","N"," "," ","åst²´õkˆe½{±¿}s","MS",145
+"pair of stairs","NY51E!","525e!","O","Y","used to call","OLD","õp²½´$°«v$åst²´z","MS",145
+"pair of stairs","NY51E!","525e!","O","Y","used to call","OLD","åpá¾´$°«v$åst²´z","MS",145
+"upstairs","NY51E!","525e!","N","N"," ","INA/CNV","å¸«põst²´z","MS",145
+"stair","NY52A","527","N","N"," "," ","stá«º{±¿}´","MS",146
+"stairs","NY52B","528","N","N"," "," ","stá«´z","MS",147
+"stairway","NY52B","528","N","N"," "," ","åstá«´õwe½º±¿","MS",147
+"stairs","NY52C","528b","N","N"," "," ","st²´z","MS",148
+"a stairs","NY53A","529","O","N"," "," ","°$åstá«´z","MS",149
+"ladders","NY53A","529","N","Y"," ","HRD/INA","ìád´«z","MS",149
+"stair","NY53B!","530!","N","N"," "," ","st²´","MS",150
+"staircase","NY53B!","530!","N","N"," "," ","åstá«´õkˆe½{±¿}s","MS",150
+"back stairs","NY53B!","530!","O","N"," "," ","åbák$õst²½´z","MS",150
+"stairs","NY54A","531","N","N"," "," ","stáº´z","MS",151
+"stairs","NY54B","532","N","N"," "," ","st²½´z","MS",152
+"stairway","NY55A","533","N","N"," "," ","åstá«´õwe½{±¿}","MS",153
+"stone steps","NY55A","533","O","N","outside","CNV","åsto½¼¹¼n$õst²ps","MS",153
+"stairs","NY55B","534","N","N"," "," ","stá«º{±¿}´z","MS",154
+"stairway","NY55B","534","N","N"," "," ","åst²½´õwe½º{±¿}","MS",154
+"stairs","NY56A","535","N","N"," "," ","stá«¾´z","MS",155
+"step ladder","NY56A","535","O","Y"," ","INA","åst²¾p$õlá½¾d´","MS",155
+"stairs","NY56B","536","N","N"," "," ","stá«´z","MS",156
+"stairs","NY57A","537a","N","N"," "," ","st²´z","MS",157
+"stairs","NY57B","537b","N","N"," "," ","st²´z","MS",158
+"two sets of stairs","NY57B","537b","O","N"," "," ","åtu½u$õs²«ts$°«v$st²´z","MS",158
+"stairs","NY57C!","537c!","N","N"," "," ","st²´z","MS",159
+"stairway","NY57C!","537c!","N","N"," ","CNV","åstá«´õwe½±¿","MS",159
+"a stairs","NY58A","539a","O","N"," "," ","°$åst²´z","MS",160
+"pair of old stairs","NY58B","539b","O","N"," "," ","åpá«´$°«v$õo¼¹¼ì$åst²´z","MS",161
+"stairway","NY58B","539b","N","N"," "," ","åstá«°õwe½º{±¿}","MS",161
+"stairs","NY58B","539b","N","N"," "," ","stá«º°z","MS",161
+"stairs","NY58C","539c","N","N"," "," ","stá«´z","MS",162
+"stairs","NY58C","539c","N","N"," ","CNV","st²´z","MS",162
+"stairs","NY58D!","539d!","N","N"," "," ","st²º°z","MS",163
+"stairs","NY58E!","539e!","N","N"," "," ","st²´z","MS",164
+"staircase","NY58E!","539e!","N","N","""newel post¢"," ","åst²´õke½{±¿}s","MS",164
+"stairway","NY58E!","539e!","N","Y"," ","HRD","åst²´õwe½º{±¿}","MS",164
+"newel post","NY58E!","539e!","O","Y"," ","INA","ånu½¼º¹¼ì$õpo¼¹¼s","MS",164
+"stairs","NY58F!","539f!","N","N"," "," ","stá«´«z","MS",165
+"stairs","NY59A","543","N","N"," "," ","st²´z","MS",166
+"stairway","NY59A","543","N","N"," "," ","åst²´õwe½±¿","MS",166
+"stairs","NY59B","544","N","N"," "," ","st²´z","MS",167
+"stairs","NY60A","545","N","N"," "," ","stá«¼{±¿}´z","MS",168
+"stairs","NY60B!","546!","N","N"," "," ","stá«´z","MS",169
+"pair of stairs","NY61A","547","O","N"," "," ","õpá«´$°$åstá«¼´z","MS",170
+"stairs","NY61B","548","N","N"," "," ","stá«´z","MS",171
+"stairway","NY61B","548","N","N"," "," ","åstá«º°õwe½±¿¼","MS",171
+"stair","NY62A","551a","N","N"," "," ","stá«´","MS",172
+"pair of stairs","NY62A","551a","O","N"," "," ","õp²´$°$åstá«´«z","MS",172
+"stairway","NY62B","551b","N","N"," "," ","åstá«´õweº{±¿}","MS",173
+"stairs","NY62C","551c","N","N"," "," ","stá«´z","MS",174
+"stairway","NY62C","551c","N","N"," "," ","st²´we½º±¿","MS",174
+"stairway","NY62C","551c","N","N"," ","CNV","åstá«{±¿}õwe½º{±¿}","MS",174
+"stairway","NY62D!","551d!","N","N"," "," ","åst²´õwe½º±¿","MS",175
+"staircase","NY63A","556a","N","N"," "," ","åst²´õke½º±¿s","MS",176
+"stairway","NY63A","556a","N","N"," "," ","åst²´õwe½º{±¿}","MS",176
+"back steps","NY63A","556a","O","Y"," ","DDT","åbák$õst²ps","MS",176
+"stairs","NY63B","556b","N","N"," "," ","st²´z","MS",177
+"back stairs","NY63B","556b","O","N"," "," ","åbá½{²}k$õst²´z","MS",177
+"downstairs","NY63B","556b","N","Y"," ","INA/CNV","õdµşº{¹ş}nåst²´z","MS",177
+"stairs","NY63C","556c","N","N"," "," ","st²½´z","MS",178
+"back stairs","NY63D!","556d!","O","N"," "," ","åbá«k$õst²´z","MS",179
+"upstairs","NY63D!","556d!","O","Y"," ","INA","¸¼påst²´z","MS",179
+"stairs","NY64A","557a","N","N"," "," ","st²´z","MS",180
+"stairs","NY64B","557b","N","N"," "," ","st²´z","MS",181
+"staircase","NY64B","557b","N","N"," "," ","åst²½´õke½±¿¼s","MS",181
+"stairway","NY64C!","557c!","N","N"," "," ","åst²´õwe½±¿","MS",182
+"stairs","NY64C!","557c!","N","N"," "," ","st²´z","MS",182
+"stairsteps","NJ1A","1","N","N"," "," ","åst²´õst²ps","MS",183
+"stairs","NJ1B","2","N","N"," "," ","st²«´z","MS",184
+"stairsteps","NJ1B","2","N","N"," "," ","åst²«´õst²«ps","MS",184
+"stairsteps","NJ2A","3(*)","N","N"," "," ","åst²´õst²ps","MS",185
+"stairs","NJ2B","4","N","N"," "," ","st²´z","MS",186
+"stairsteps","NJ2B","4","N","N"," "," ","st²´st²ps","MS",186
+"stairs","NJ3A","5","N","N"," "," ","st²«´z","MS",187
+"stairs","NJ3B","6","N","N"," "," ","st²´z","MS",188
+"stairs","NJ4A","7","N","N"," "," ","st²«´z","MS",189
+"stairs","NJ4B","8","N","N"," "," ","st²«´ºz","MS",190
+"stairsteps","NJ4B","8","N","N"," "," ","åst²«´õst²ps","MS",190
+"stairsteps","NJ5A","9","N","N"," "," ","åst²«´õst²ps","MS",191
+"stairsteps","NJ5B","10","N","N"," "," ","åst²«´õst²ps","MS",192
+"stairway","NJ6A","11","N","N"," "," ","åst²´õw²«±¿","MS",193
+"stairsteps","NJ6B","12","N","N"," "," ","åst²«´õst²«ps","MS",194
+"stairsteps","NJ7A","17","N","N"," "," ","st²«´st²«ps","MS",195
+"stairsteps","NJ7B!","18!","N","N"," "," ","st²´st²ps","MS",196
+"stairs","NJ8A","19","N","N"," "," ","st²´z","MS",197
+"stairs","NJ8B","20","N","N"," "," ","st²«´ºz","MS",198
+"stairs","NJ9A","21","N","N"," "," ","st²«´z","MS",199
+"stairs","NJ9B","22","N","N"," "," ","st²İ«¾´z","MS",200
+"stairs","NJ10A","24b","N","N"," "," ","steİ´İ«z","MS",201
+"stairs","NJ10A","24b","N","N"," "," ","st²°«z","MS",201
+"steps","NJ10B","23","N","N"," "," ","st²ps","MS",202
+"stairs","NJ10C","24","N","N"," "," ","st²«´z","MS",203
+"stairs","NJ10D!","24c!","N","N"," "," ","st²´z","MS",204
+"steps","NJ11A","25","N","N"," "," ","st²ps","MS",205
+"stairway","NJ11A","25","N","N"," "," ","åst²´ºõw²½±¿","MS",205
+"stairs","NJ11B","26a","N","N"," "," ","st²«´ºz","MS",206
+"stairs","NJ11C","26b","N","N"," "," ","st²«´z","MS",207
+"stairs","NJ12A","27","N","N"," "," ","st²´z","MS",208
+"stairway","NJ12B","28","N","N"," "," ","st²«´w²±¿","MS",209
+"stairsteps","NJ13A","29","N","N"," "," ","st²«´st²ps","MS",210
+"stairs","NJ13B","30","N","N"," "," ","st²´z","MS",211
+"stairs","NJ14A","31","N","N"," "," ","st²«´ºz","MS",212
+"stairs","NJ14B","32","N","N"," "," ","st²«º´z","MS",213
+"stairsteps","NJ15A","33","N","N"," "," ","st²¾´st²ps","MS",214
+"stairs","NJ15B","34","N","N"," "," ","st²«º{°}rz","MS",215
+"stairs","NJ16A","35","N","N"," "," ","st²«º´z","MS",216
+"stairs","NJ16B","36","N","N"," "," ","st²«º´z","MS",217
+"stairway","NJ17A","37","N","N"," "," ","st²´İw²±¿","MS",218
+"stairs","NJ17B","38","N","N"," "," ","st²«´ºz","MS",219
+"stairs","NJ18A","41","N","N"," "," ","st²¼º°z","MS",220
+"stairs","NJ18B","42","N","N"," "," ","st²«°z","MS",221
+"stairs","NJ18C!","43!","N","N"," "," ","st²´z","MS",222
+"stairs","NJ18D!","44!","N","N"," "," ","st²«º´z","MS",223
+"stairs","NJ19A","45","N","N"," "," ","st²«º°z","MS",224
+"stairway","NJ19A","45","N","N"," "," ","st²°we½±¿","MS",224
+"stairs","NJ19B!","46!","N","N"," "," ","st²«º°z","MS",225
+"stairs","NJ20A","47","N","N"," "," ","st²«{°}{r}z","MS",226
+"trap","NJ20A","47","N","Y"," ","INA","tòµp","MS",226
+"stairs","NJ20B","47b","N","N"," "," ","st²«º°z","MS",227
+"stairs","NJ21A","48","N","N"," "," ","st²«´z","MS",228
+"stairs","NJ21B","49","N","N"," "," ","st²«º´z","MS",229
+"stairs","PA1A","51","N","N"," "," ","st²´z","MS",230
+"steps","PA1A","51","N","N","= doorstep"," ","st²ps","MS",230
+"steps","PA1B","52","N","N"," "," ","st²ps","MS",231
+"stairs","PA1B","52","N","N"," "," ","st²«´ºz","MS",231
+"steps","PA1C","53","N","N"," "," ","st²«{°}ps","MS",232
+"stairsteps","PA1C","53","N","N"," "," ","åst²«´õst²«ps","MS",232
+"stairs","PA1D","54","N","N"," "," ","st²´z","MS",233
+"stairs","PA1E!","55!","N","N"," "," ","st²´ºz","MS",234
+"doorstep","PA1E!","55!","N","Y","in city","HRD","åd·´õst²p","MS",234
+"stairs","PA1F!","56!","N","N"," "," ","st²´z","MS",235
+"stairs","PA1G!","57!","N","N"," "," ","st²«´z","MS",236
+"stairs","PA1H!","58!","N","N"," "," ","st²´z","MS",237
+"stairway","PA1H!","58!","N","N"," "," ","st²´w²¾º±¿","MS",237
+"steps","PA2A","59","N","N"," "," ","st²ps","MS",238
+"stairs","PA2B","60","N","N"," "," ","st²«´ºz","MS",239
+"steps","PA3A","61","N","N"," "," ","st²ps","MS",240
+"stairs","PA3A","61","N","N"," "," ","st²´ºz","MS",240
+"stairs","PA3B","62","N","N"," "," ","st²´z","MS",241
+"steps","PA3C","62b","N","N"," "," ","st²ps","MS",242
+"steps","PA4A","63","N","N"," "," ","st²ps","MS",243
+"stairsteps","PA4A","63","N","Y"," ","SUG","st²´st²İps","MS",243
+"stairs","PA4B!","64!","N","N"," "," ","st²«´z","MS",244
+"stairway","PA4B!","64!","N","N"," "," ","st²«´w²«±¿","MS",244
+"steps","PA5A","65(*)","N","N"," "," ","st²İ«ps","MS",245
+"steps","PA5A","65(*)","N","Y"," ","AUX","st²ps","MS",245
+"stairsteps","PA5A","65(*)","N","Y"," ","SUG","st²´st²İ«ps","MS",245
+"steps","PA5B","65b","N","N"," "," ","st²ps","MS",246
+"stairs","PA5C","66","N","N"," "," ","st²´z","MS",247
+"steps","PA5D","67","N","N"," "," ","st²ps","MS",248
+"stairsteps","PA5D","67","N","N"," "," ","st²´st²ps","MS",248
+"stairs","PA5E!","68!","N","N"," "," ","st²´z","MS",249
+"stairway","PA5E!","68!","N","N"," "," ","st²´w²«±¿","MS",249
+"stairs","PA6A","69","N","N"," "," ","st²{°}{rŸÕ}z","MS",250
+"steps","PA6A","69","N","N"," "," ","st²ps","MS",250
+"stairs","PA6B","71","N","N"," "," ","ste½°¾ŸÕz","MS",251
+"stairs","PA6B","71","N","N"," "," ","st²«°¾ŸÕz","MS",251
+"stairway","PA6C","71b","N","N"," "," ","åst²rŸÕõöe«º","MS",252
+"stairs","PA6D!","72!","N","N"," "," ","st²¾´z","MS",253
+"steps","PA7A","73","N","N"," "," ","st²{°}ps","MS",254
+"stairsteps","PA7A","73","N","N"," "," ","st²´st²{°}ps","MS",254
+"stairs","PA7B","74","N","N"," "," ","st²´z","MS",255
+"stairway","PA7B","74","N","N"," "," ","st²´w²±¿½","MS",255
+"steps","PA7C","75","N","N"," "," ","st²ps","MS",256
+"stairsteps","PA7C","75","N","N"," "," ","st²«´st²ps","MS",256
+"stairs","PA7D!","76!","N","N"," "," ","st²´z","MS",257
+"stairway","PA7D!","76!","N","N"," "," ","st²´we½±¿","MS",257
+"steps","PA8A","77","N","N"," "," ","st²½¾{°}ps","MS",258
+"stairsteps","PA8A","77","N","N"," "," ","st²¾´st²¾{°}ps","MS",258
+"stairway","PA8B","78","N","N"," "," ","st²´w²«±¿½","MS",259
+"stairway","PA8C","79","N","N"," "," ","åst²{°}rõöe«º","MS",260
+"stairs","PA8D!","80!","N","N"," "," ","st²´ºz","MS",261
+"stairs","PA9A","83","N","N"," "," ","st²´s”","MS",262
+"steps","PA9B","83b","N","N"," "," ","st²ps","MS",263
+"stairs","PA9C!","84!","N","N"," "," ","st²´z","MS",264
+"stairway","PA10","87","N","N"," "," ","st²röeº","MS",265
+"steps","PA11A","89","N","N"," "," ","st²ps","MS",266
+"stairsteps","PA11A","89","N","N"," "," ","st²´st²ps","MS",266
+"stairs","PA11B","90(*)","N","N"," "," ","st²´z","MS",267
+"stairway","PA11B","90(*)","N","Y"," ","AUX","st²´we½±¿","MS",267
+"stairs","PA12A","91","N","N"," "," ","st²´z","MS",268
+"stairsteps","PA12A","91","N","N"," "," ","st²´st²ps","MS",268
+"stairs","PA12B","92","N","N"," "," ","st²«´z","MS",269
+"steps","PA13A","93","N","N"," "," ","st²{°}ps","MS",270
+"stairs","PA13B","94","N","N"," "," ","st²´z","MS",271
+"stairway","PA14A","95(*)","N","N"," "," ","åst²{°}rŸÕõweº","MS",272
+"steps","PA14B","96","N","N"," "," ","st²ps","MS",273
+"stairway","PA14B","96","N","N"," "," ","st²´weº{±¿}","MS",273
+"stairs","PA14C","95X","N","N"," "," ","ste½{°}{r}s","MS",274
+"stairs","PA15A","99","N","N"," "," ","st²½¼´z","MS",275
+"steps","PA15A","99","N","N"," "," ","st²ps","MS",275
+"stairs","PA15B","99b","N","N"," "," ","st²´z","MS",276
+"stairsteps","PA15B","99b","N","N"," "," ","åst²´õst²ps","MS",276
+"stairway","PA15C!","100!","N","N"," "," ","åst²´õwe¾º{±¿}","MS",277
+"steps","PA15C!","100!","N","N"," "," ","st²ps","MS",277
+"stairs","PA16A","101","N","N"," "," ","st²{°}{rŸÕ}s","MS",278
+"stairs","PA16B","102","N","N"," "," ","st²´z","MS",279
+"steps","PA16C","103","N","N"," "," ","st²ps","MS",280
+"stairsteps","PA16C","103","N","N"," "," ","st²«´st²ps","MS",280
+"steps","PA17A","105","N","N"," "," ","st²ps","MS",281
+"stairway","PA17A","105","N","N"," "," ","st²«{°}{rŸÕ}öeº","MS",281
+"steps","PA17B","106","N","N"," "," ","st²İps","MS",282
+"stairsteps","PA18A","107","N","N"," "," ","åst²«´õst²ps","MS",283
+"stairs","PA18B!","108!","N","N"," "," ","st²´z","MS",284
+"stairsteps","PA19A","113","N","N"," "," ","åst²´õst²ps","MS",285
+"stairs","PA19B","114","N","N"," "," ","st²´z","MS",286
+"stairsteps","PA19B","114","N","N"," "," ","st²´st²ps","MS",286
+"stairsteps","PA20A","115","N","N"," "," ","st²´st²ps","MS",287
+"stairs","PA20B","116","N","N"," "," ","st²´z","MS",288
+"stairs","PA21A","117","N","N"," "," ","st²½º´z","MS",289
+"steps","PA21B","118","N","N"," "," ","st²ps","MS",290
+"stairway","PA21B","118","N","N"," "," ","st²´we½º{±¿½}","MS",290
+"stairs","PA22A","119","N","N"," "," ","stá´z","MS",291
+"stairs","PA22B","120","N","N"," "," ","st²º´z","MS",292
+"stairs","PA23A","121","N","N"," "," ","st²´z","MS",293
+"stairs","PA23B","122","N","N"," "," ","st²«´z","MS",294
+"steps","PA23B","122","N","N"," "," ","st²ps","MS",294
+"stairs","PA24A","123","N","N"," "," ","st²¾zz","MS",295
+"stairs","PA24B","124","N","N"," "," ","st²´z","MS",296
+"stairs","PA25A","125","N","N"," "," ","stá´z","MS",297
+"stairsteps","PA25B","126","N","N"," "," ","åstá´õst²«ps","MS",298
+"stairs","PA26A","127","N","N"," "," ","stá«´z","MS",299
+"stairs","PA26B","128","N","N"," "," ","st²´z","MS",300
+"stairway","PA26B","128","N","N"," "," ","st²´we½{±¿½}","MS",300
+"steps","PA27A","131","N","N"," "," ","st²«ps","MS",301
+"stairsteps","PA27A","131","N","N"," "," ","st²´st²ps","MS",301
+"stairs","PA27B","132","N","N"," "," ","st²´z","MS",302
+"stairsteps","PA27B","132","N","N"," "," ","st²´st²ps","MS",302
+"steps","PA28A","135","N","N"," "," ","st²{°}ps","MS",303
+"stairsteps","PA28A","135","N","N"," "," ","åst²´õst²ps","MS",303
+"stairs","PA28B!","136!","N","N"," "," ","st²´z","MS",304
+"stairs","PA29A","139(*)","N","N"," "," ","st²«´z","MS",305
+"stairs","PA29A","139(*)","N","Y"," ","AUX","st²´z","MS",305
+"stairs","PA29B","140","N","N"," "," ","s{t}²´z","MS",306
+"stairs","PA30A","143","N","N"," "," ","stá«´z","MS",307
+"stairway","PA30B","144","N","N"," "," ","stá«´weº{±¿}","MS",308
+"stairs","PA31A","145","N","N"," "," ","st²´z","MS",309
+"stairs","PA31B","146","N","N"," "," ","st²´z","MS",310
+"stairs","PA32A","147","N","N"," "," ","st²´z","MS",311
+"stairsteps","PA32A","147","N","N"," "," ","åst²´õst²ps","MS",311
+"stairway","PA32B","148","N","N"," "," ","st²«¾´ºw²¾±¿","MS",312
+"stairsteps","PA33A","151","N","N"," "," ","st²rst²ps","MS",313
+"stairsteps","PA33B","152","N","N"," "," ","st²´st²ps","MS",314
+"stairs","PA34A","155","N","N"," "," ","st²«´z","MS",315
+"steps","PA34B","156","N","N"," "," ","st²ps","MS",316
+"stairway","PA34B","156","N","N"," "," ","st²´we½±¿","MS",316
+"stairs","PA34C!","155b!","N","N"," "," ","st²´z","MS",317
+"stairway","PA35A","157","N","N"," "," ","st²´we½±¿","MS",318
+"steps","PA35B","158(*)","N","N"," "," ","st²{°}ps","MS",319
+"stairsteps","PA35B","158(*)","N","N"," "," ","åst²«´ºõst²ps","MS",319
+"stairs","PA35C","158X","N","N"," "," ","st²«´z","MS",320
+"stairsteps","PA35C","158X","N","N"," "," ","åst²«¾´õst²ps","MS",320
+"stairs","PA36A","159","N","N"," "," ","st²´z","MS",321
+"steps","PA36B","160","N","N"," "," ","st²«{°}ps","MS",322
+"stairs","PA36B","160","N","N"," "," ","st²´z","MS",322
+"steps","PA37A","161(*)","N","N"," "," ","st²İps","MS",323
+"stairs","PA37B","162","N","N"," "," ","st²´z","MS",324
+"stairs","PA37C","161X","N","N"," "," ","st²´z","MS",325
+"stairs","PA38A","163","N","N"," "," ","st²«´ºz","MS",326
+"stairsteps","PA38A","163","N","N"," "," ","st²«´ºst²ps","MS",326
+"stairs","PA38B","164","N","N"," "," ","st²«´z","MS",327
+"stairway","PA38B","164","N","N"," "," ","st²«´we½±¿","MS",327
+"stairs","PA39A","165","N","N"," "," ","st²´z","MS",328
+"steps","PA39B","166","N","N"," "," ","st²ps","MS",329
+"stairway","PA39B","166","N","N"," "," ","st²´we½±¿","MS",329
+"stairs","PA40A","167","N","N"," "," ","st²´z","MS",330
+"stairs","PA40B","168","N","N"," "," ","st²´z","MS",331
+"steps","PA41A","171","N","N"," "," ","st²ps","MS",332
+"stairsteps","PA41A","171","N","N"," "," ","st²´st²ps","MS",332
+"stairs","PA41B","172","N","N"," "," ","st²´z","MS",333
+"stairway","PA41B","172","N","N"," "," ","st²´we½±¿","MS",333
+"stairs","PA42A","175","N","N"," "," ","st²´z","MS",334
+"stairsteps","PA42B","176","N","N"," "," ","åst²´õst²ps","MS",335
+"stairs","PA43A","177","N","N"," "," ","st²´z","MS",336
+"steps","PA43B","178","N","N"," "," ","st²{°}ps","MS",337
+"stairsteps","PA43B","178","N","N"," "," ","st²«´ºst²ps","MS",337
+"stairs","PA44A","179","N","N"," "," ","st²´z","MS",338
+"stairsteps","PA44B","180","N","N"," "," ","åst²´õst²ps","MS",339
+"steps","PA45A","181","N","N"," "," ","st²ps","MS",340
+"stairsteps","PA45A","181","N","N"," "," ","st²«rst²ps","MS",340
+"stairway","PA45B","182","N","N"," "," ","st²röe±¿","MS",341
+"steps","PA46A","185","N","N"," "," ","st²ps","MS",342
+"stairs","PA46A","185","N","N"," "," ","st²rz","MS",342
+"stairs","PA46B","186","N","N"," "," ","st²«rz","MS",343
+"steps","PA47A","189","N","N"," "," ","st²«ps","MS",344
+"stairway","PA47B","190","N","N"," "," ","st²rwe±¿","MS",345
+"stairs","PA48A","191","N","N"," "," ","st²«´z","MS",346
+"stairs","PA48B","192","N","N"," "," ","st²rz","MS",347
+"stairs","PA48C","193","N","N"," "," ","st²«rz","MS",348
+"stairs","PA49A","194","N","N"," "," ","st²«´z","MS",349
+"stairs","PA49B","195","N","N"," "," ","st²«{°}rz","MS",350
+"stairs","PA50A","196","N","N"," "," ","st²¾rz","MS",351
+"steps","PA50B","197","N","N"," "," ","st²ps","MS",352
+"stairs","PA50C!","198!","N","N"," "," ","st²rz","MS",353
+"stairs","PA51A","199","N","N"," "," ","st²{°}rz","MS",354
+"stairs","PA51B","200","N","N"," "," ","st²«rz","MS",355
+"stairway","PA51B","200","N","N"," "," ","åst²rõw²±¿","MS",355
+"stairway","PA52A","201","N","N"," "," ","åst²{°}rõw²¾±¿","MS",356
+"stairs","PA52B!","202!","N","N"," "," ","st²´z","MS",357
+"stairway","PA52B!","202!","N","N"," "," ","st²rw²½¾±¿","MS",357
+"stairs","PA53A","203","N","N"," "," ","st²rz","MS",358
+"stairway","PA53B","204","N","N"," "," ","st²«rw²İ«¾±¿İ","MS",359
+"stairs","PA54A","205","N","N"," "," ","st²«´z","MS",360
+"stairs","PA54B","206","N","N"," "," ","st²«rz","MS",361
+"stairs","PA55A","207","N","N"," "," ","st²´z","MS",362
+"NR","PA55B","208"," ","N"," "," "," ","MS",363
+"stairs","PA56A","211(*)","N","N"," "," ","st²{°}rz","MS",364
+"stairs","PA56A","211(*)","N","N"," "," ","st²«rz","MS",364
+"stairs","PA56B","212","N","N"," "," ","st²«rz","MS",365
+"stairs","PA57A","213","N","N"," "," ","st²rz","MS",366
+"stairs","PA57B","214","N","N"," "," ","st²«rz","MS",367
+"stairs","PA58A","215","N","N"," "," ","st²´z","MS",368
+"stairway","PA58B","216","N","N"," "," ","åst²«´õw²±¿","MS",369
+"stairs","PA59A","219","N","N"," "," ","st²´z","MS",370
+"stairsteps","PA59B","220","N","N"," "," ","st²rst²ps","MS",371
+"stairs","PA60A","221","N","N"," "," ","st²rz","MS",372
+"stairs","PA60B","222","N","N"," "," ","st²rz","MS",373
+"stairs","PA61A","223","N","N"," "," ","st²«rz","MS",374
+"stairs","PA61B","224","N","N"," "," ","st²«{°}rz","MS",375
+"stairs","PA62A","229","N","N"," "," ","st²rz","MS",376
+"steps","PA62B","230","N","N"," "," ","st²ps","MS",377
+"stairsteps","PA62B","230","N","N"," "," ","åst²rõst²ps","MS",377
+"pair of stairs","PA63A","231","O","N"," "," ","p²r$°$st²rz","MS",378
+"stairs","PA63B","232","N","N"," "," ","st²rrz","MS",379
+"stairs","PA64A","233","N","N"," "," ","stá«´z","MS",380
+"stairs","PA64B","234","N","N"," "," ","st²´z","MS",381
+"stairs","PA65A","237","N","N"," "," ","stá«´z","MS",382
+"stairs","PA65B","238","N","N"," "," ","st²´z","MS",383
+"stairs","PA66A","239","N","N"," "," ","st²´z","MS",384
+"stairs","PA66B","240","N","N"," "," ","stá«´z","MS",385
+"stairs","PA67A","243","N","N"," "," ","st²«´z","MS",386
+"stairs","PA67B","244","N","N"," "," ","st²´z","MS",387
+"stairway","WV1!","88!","N","N"," "," ","st²½°we±¿","MS",388
+"stairs","WV2","89","N","N"," "," ","st²´z","MS",389
+"stairway","WV2","89","N","N"," "," ","st²´we{±¿}","MS",389
+"stairsteps","WV3","91","N","N"," "," ","st²´st²ps","MS",390
+"stairsteps","WV4A","92","N","N"," "," ","st²´st²ps","MS",391
+"stairway","WV4B","93","N","N","[³½¼]: /²/ phoneme"," ","st³½¼´we±¿","MS",392
+"stairsteps","WV4B","93","N","N","[³½¼]: /²/ phoneme"," ","st³½¼´st²«ps","MS",392
+"steps","WV5","94","N","N"," "," ","st²ps","MS",393
+"stairsteps","WV5","94","N","N"," "," ","st²´st²ps","MS",393
+"stairs","WV6A","95","N","N"," "," ","st²´z","MS",394
+"stairsteps","WV6A","95","N","N"," "," ","st²«´st²ps","MS",394
+"stairs","WV6B","96","N","N"," "," ","st²´z","MS",395
+"stairway","WV6B","96","N","N"," "," ","st²«´we½{±¿}","MS",395
+"stairway","WV7A","97","N","N"," "," ","st²«´we½{±¿}","MS",396
+"stairs","WV7B","98","N","N"," "," ","st²½´z","MS",397
+"stairway","WV8A","97b","N","N"," "," ","st²´we½±¿","MS",398
+"stairs","WV8B","98b","N","N"," "," ","st²´z","MS",399
+"steps","WV9A","301","N","N"," "," ","s{t}²«ps","MS",400
+"stairsteps","WV9A","301","N","Y"," ","SUG","stá«rst²«ps","MS",400
+"steps","WV9B","302","N","N"," "," ","st²«ps","MS",401
+"stairsteps","WV9B","302","N","N"," "," ","st²´st²ps","MS",401
+"stairs","WV10A","303","N","N"," "," ","st²´z","MS",402
+"stairway","WV10A","303","N","N"," "," ","st²´we±¿","MS",402
+"stairs","WV10B","303b","N","N"," "," ","st²¾´z","MS",403
+"stairway","WV10B","303b","N","N"," "," ","st²¾´we±¿","MS",403
+"stairsteps","WV10C","304","N","N"," "," ","åst²½´õst²ps","MS",404
+"stairs","WV11A","305","N","N"," "," ","stá«rz","MS",405
+"steps","WV11A","305","N","N"," "," ","st²«{°}ps","MS",405
+"stairs","WV11B!","306!","N","N"," "," ","stá«rz","MS",406
+"stairs","WV12A","307","N","N"," "," ","st²´z","MS",407
+"stairway","WV12A","307","N","N"," "," ","st²´we½±¿","MS",407
+"stairway","WV12B","308","N","N"," "," ","st²´we½±¿","MS",408
+"stairs","WV13A","309","N","N"," "," ","st²½´z","MS",409
+"steps","WV13B","310","N","N"," "," ","st²«{°}ps","MS",410
+"stairsteps","WV13B","310","N","N"," "," ","st²´st²«{°}ps","MS",410
+"stairs","WV14A","311","N","N"," "," ","s{t}²´z","MS",411
+"stairs","WV14B","312","N","N"," "," ","st²½´z","MS",412
+"stairs","WV15A","313","N","N"," "," ","st²½´z","MS",413
+"steps","WV15A","313","N","N"," "," ","st²ps","MS",413
+"staircase","WV15B","314","N","N"," "," ","åst²´õke½±¿s","MS",414
+"stairs","WV16A","315","N","N"," "," ","st²´z","MS",415
+"stairs","WV16B","316","N","N"," "," ","st²rz","MS",416
+"stairs","WV17A","317","N","N"," "," ","st²´z","MS",417
+"stairs","WV17B","317b","N","N"," "," ","stá´z","MS",418
+"stairs","WV17C","318","N","N"," "," ","st²½´z","MS",419
+"stairs","WV18A","319","N","N"," "," ","st²´z","MS",420
+"stairway","WV18B","320","N","N"," "," ","st²´we½±¿","MS",421
+"stairs","WV18B","320","N","N"," "," ","st²´z","MS",421
+"ladder","WV19A","321","N","Y"," ","INA","lád´","MS",422
+"stairs","WV19A","321","N","N"," "," ","stá´z","MS",422
+"stairs","WV19B","322","N","N"," "," ","st²rz","MS",423
+"stairs","WV20A","323","N","N"," "," ","stárz","MS",424
+"stairsteps","WV20A","323","N","N"," "," ","åstárõst²ps","MS",424
+"stairway","WV20B","324","N","N"," "," ","åst²rõwe½±¿","MS",425
+"steps","WV21A","325","N","N"," "," ","st²«ps","MS",426
+"stairsteps","WV21A","325","N","N"," "," ","st²´st²«ps","MS",426
+"stairs","WV21B","326","N","N"," "," ","stá´z","MS",427
+"stairway","WV22A","327","N","N"," "," ","åstá´õwe±¿","MS",428
+"stairs","WV22B","328","N","N"," "," ","st²´z","MS",429
+"stairs","WV23A","331","N","N"," "," ","stá«´z","MS",430
+"stairs","WV23B","332","N","N"," "," ","stá«´z","MS",431
+"stairs","WV24A","335","N","N"," "," ","st²´z","MS",432
+"stairs","WV24B","336","N","N"," "," ","stá´z","MS",433
+"pair of stairs","WV25A","337","O","N"," "," ","pá´$°$stá´z","MS",434
+"stairs","WV25B","338","N","N"," "," ","stá«´z","MS",435
+"stairs","WV26A","339","N","N"," "," ","stá«´z","MS",436
+"steps","WV26B","340","N","N"," "," ","st²ps","MS",437
+"stairway","WV26B","340","N","N"," "," ","stá´we¾±¿","MS",437
+"stairs","WV27A","341","N","N"," "," ","stá¾´ºz","MS",438
+"stairs","WV27B","342","N","N"," "," ","stá{á«}´z","MS",439
+"stairway","WV28A","343","N","N"," "," ","åstá¾´õwe±¿","MS",440
+"stairway","WV28B","344","N","N"," "," ","stá¾´we½±¿","MS",441
+"steps","WV29A","345","N","N"," "," ","st²«{°}ps","MS",442
+"stairsteps","WV29A","345","N","N"," "," ","stá´st²ps","MS",442
+"steps","WV29B","346","N","N"," "," ","st²«º{°}ps","MS",443
+"stairs","WV30A","347","N","N"," "," ","sta«¾º{°}´z","MS",444
+"stairway","WV30B","348","N","N"," "," ","stá¾´ºwe½±¿","MS",445
+"stairway","WV31A","349","N","N"," "," ","stá½¾´we±¿½","MS",446
+"stairway","WV31B","350","N","N"," "," ","åstá½¾º´õwe½±¿","MS",447
+"stairsteps","WV32A","353","N","N"," "," ","åsta«¾´õst²«ps","MS",448
+"stairway","WV32B","354","N","N"," "," ","stá´weº{±¿}","MS",449
+"stairsteps","WV33A","355","N","N"," "," ","åsta«¾rõst²ps","MS",450
+"stairs","WV33B","356","N","N"," "," ","st²º´İz","MS",451
+"stairs","WV34A","359","N","N"," "," ","stá´z","MS",452
+"stairsteps","WV34A","359","N","N"," "," ","åstá´õst²ps","MS",452
+"stairway","WV34B","360","N","N"," "," ","åstá¾´õw²«±¿","MS",453
+"stairsteps","WV35A","361","N","N"," "," ","sta«¾´st²«ps","MS",454
+"stairs","WV35B","362","N","N"," "," ","st²´z","MS",455
+"stairsteps","WV36A","363","N","N"," "," ","åstá´õst²ps","MS",456
+"stairsteps","WV36B","364","N","N"," "," ","åstá¾´õst²ps","MS",457
+"stairs","WV37A","365","N","N"," "," ","stá´z","MS",458
+"stairs","WV37B!","366!","N","N"," "," ","stá«´z","MS",459
+"stairway","WV38A","367","N","N"," "," ","st²´w²«±¿","MS",460
+"stairsteps","WV38A","367","N","N"," "," ","stá´st²ps","MS",460
+"stairs","WV38B","368","N","N"," "," ","stá«´z","MS",461
+"stairsteps","WV38B","368","N","N"," "," ","stá«´st²ps","MS",461
+"stairs","WV39A","369","N","N"," "," ","stá´z","MS",462
+"stairs","WV39B","370","N","N"," "," ","stá«´z","MS",463
+"stairs","WV39C!","371!","N","N"," "," ","st²´z","MS",464
+"stairs","WV40A","373","N","N"," "," ","stá«´z","MS",465
+"stairs","WV40B","374","N","N"," "," ","stá«´z","MS",466
+"stairsteps","WV41A","375","N","N"," "," ","åstá´õst²ps","MS",467
+"stairs","WV41B","376","N","N"," "," ","stáº´z","MS",468
+"stairs","WV42A","377","N","N"," "," ","st²´z","MS",469
+"stairs","WV42B","378","N","N"," "," ","st²½´z","MS",470
+"stairway","WV43A","381","N","N"," "," ","stá´we½±¿","MS",471
+"steps","WV43B","382","N","N"," "," ","st²º{°}ps","MS",472
+"stairsteps","WV43B","382","N","N"," "," ","st²´st²ps","MS",472
+"stairsteps","WV44A","383","N","N"," "," ","st²´st²ps","MS",473
+"stairs","WV44B","384","N","N"," "," ","st²¾´z","MS",474
+"stairsteps","WV45A","385","N","N"," "," ","st²´st²ps","MS",475
+"stairs","WV45B","386","N","N"," "," ","st²´z","MS",476
+"steps","WV46A","387","N","N"," "," ","st²ps","MS",477
+"stairway","WV46A","387","N","N"," "," ","st²½¾rwe½±¿","MS",477
+"steps","WV46B","388","N","N"," "," ","st²ps","MS",478
+"stairsteps","WV46B","388","N","N"," "," ","st²¾´st²ps","MS",478
+"stairs","WV47A","389","N","N"," "," ","st²´z","MS",479
+"stairs","WV47B","390","N","N"," "," ","st²´z","MS",480
+"stairs","WV48A","391","N","N"," "," ","st²´z","MS",481
+"stairway","WV48A","391","N","N"," "," ","åst²´õw²«±¿","MS",481
+"steps","WV48B","391b","N","N"," "," ","st²ps","MS",482
+"stairway","WV48B","391b","N","N"," "," ","st²½´w²¾±¿","MS",482
+"stairs","WV48C","392","N","N"," "," ","st²´z","MS",483
+"stairs","WV48D","392b","N","N"," "," ","st²´z","MS",484
+"stairs","WV49A","393","N","N"," "," ","st²rz","MS",485
+"stairs","WV49B","394","N","N"," "," ","st²«º´z","MS",486
+"stairs","WV50A","395","N","N"," "," ","st²«´z","MS",487
+"stairs","WV50B","396","N","N"," "," ","st²´z","MS",488
+"stairs","WV51A","261","N","N"," "," ","st²¾´z","MS",489
+"stairs","WV51B","262","N","N"," "," ","st²rz","MS",490
+"stairs","WV52A","258","N","N"," "," ","st²«º´ºz","MS",491
+"stairs","WV52B","259","N","N"," "," ","st²´z","MS",492
+"stairs","WV52C!","260!","N","N"," "," ","st²´z","MS",493
+"stairs","WV53A","257","N","N"," "," ","st²´z","MS",494
+"stairs","WV53B","257b","N","N"," "," ","st²´z","MS",495
+"stairs","WV53C!","257c!","N","N"," "," ","st²´ºz","MS",496
+"stairs","WV54A","255","N","N"," "," ","st²rz","MS",497
+"stairs","WV54B","256","N","N"," "," ","st²«rz","MS",498
+"stairway","DE1A","11","N","N"," "," ","åst²«´õw²«±¿","MS",499
+"staircase","DE1A","11","N","N"," "," ","åst²«´õk²«±¿s","MS",499
+"stairs","DE1B","12","N","N"," "," ","st²´z","MS",500
+"stairs","DE1C!","13!","N","N"," "," ","st²´z","MS",501
+"stairway","DE2A","15(*)","N","N"," "," ","st²´w²±¿","MS",502
+"stairs","DE2B","16","N","N"," "," ","st²´z","MS",503
+"stairway","DE2C","15X","N","N"," "," ","åst²´w²±¿","MS",504
+"stairsteps","DE2C","15X","N","N"," "," ","åst²´st²ps","MS",504
+"stairs","DE3A","18","N","N"," "," ","stá½¾´z","MS",505
+"stairsteps","DE3B","19","N","N"," "," ","sta«¾º´st²ps","MS",506
+"stairs","DE3C!","17!","N","N"," "," ","stá´z","MS",507
+"stairsteps","DE4","20","N","N"," "," ","stá¾´st²«ps","MS",508
+"stairs","DE5A","21","N","N"," "," ","stá½¾´ºz","MS",509
+"stairsteps","DE5A","21","N","N"," "," ","stá½¾´st²ps","MS",509
+"stairs","DE5B","22","N","N"," "," ","stá½¾´z","MS",510
+"stairway","DE5B","22","N","N"," "," ","stá½¾´w²±¿½","MS",510
+"stairsteps","DE6A","23","N","N"," "," ","åstá´õst²ps","MS",511
+"steps","DE6B","24","N","N"," "," ","st²«ps","MS",512
+"stairsteps","DE6B","24","N","N"," "," ","åstá¾´st²«ps","MS",512
+"stairsteps","MD1A","27","N","N"," "," ","åst²´õst²ps","MS",513
+"steps","MD1B","28","N","N"," "," ","st²«ps","MS",514
+"stairsteps","MD1B","28","N","N"," "," ","åst²´õst²ps","MS",514
+"stairsteps","MD2A","31a","N","N"," "," ","stá½¾´st²«ps","MS",515
+"stairs","MD2B","32","N","N"," "," ","st²´z","MS",516
+"stairway","MD2B","32","N","N"," "," ","st²´we{±¿}","MS",516
+"stairsteps","MD3A","33","N","N"," "," ","åstá¾´õst²ps","MS",517
+"stairsteps","MD3B","34","N","N"," "," ","stá¾´st²ps","MS",518
+"stairs","MD4A","35b","N","N"," "," ","sta«¾´z","MS",519
+"stairs","MD4A","35b","N","N"," "," ","stá½¾´z","MS",519
+"stairway","MD4A","35b","N","N"," "," ","åstá½¾´õweº{±¿½}","MS",519
+"stairsteps","MD4B","35","N","N"," "," ","stá½¾´st²ps","MS",520
+"stairsteps","MD4C","36","N","N"," "," ","åstá½¾´st²«ps","MS",521
+"stairsteps","MD5A","37","N","N"," "," ","stá´st²ps","MS",522
+"stairsteps","MD5B","38","N","N"," "," ","åstá¾´õst²«ps","MS",523
+"stairsteps","MD6A","39(*)","N","N"," "," ","åstá¾{´}õst²ps","MS",524
+"stairway","MD6B","40","N","N"," "," ","stá¾´âe½±¿½","MS",525
+"stairs","MD7A","41","N","N"," "," ","stá¾´z","MS",526
+"stairsteps","MD7A","41","N","N"," "," ","stá¾´st²«ps","MS",526
+"stairway","MD7B","41b","N","N"," "," ","stá½¾´we½±¿","MS",527
+"stairway","MD7B","41b","N","N"," "," ","sta«¾´we½±¿","MS",527
+"stairsteps","MD7B","41b","N","N"," "," ","åsta«¾´õst²«ps","MS",527
+"stairs","MD7C!","42!","N","N"," "," ","stá«´z","MS",528
+"stairway","MD7C!","42!","N","N"," "," ","stá«{´}w²«±¿","MS",528
+"stairs","MD8A","43","N","N"," "," ","stá¾´z","MS",529
+"stairsteps","MD8A","43","N","N"," "," ","stá¾´st²ps","MS",529
+"stairway","MD8B","44","N","N"," "," ","stá½¾´ö—e½{±¿}","MS",530
+"stairsteps","MD9N","N46","N","N"," "," ","stá°st²«ps","MS",531
+"stairsteps","MD9A","45","N","N"," "," ","stá¾´st²ps","MS",532
+"stairsteps","MD9B","46","N","N"," "," ","åstá½¾´õst²ps","MS",533
+"steps","MD10A","49","N","N"," "," ","st²«ps","MS",534
+"stairsteps","MD10A","49","N","N"," "," ","åstá«°st²«ps","MS",534
+"stairs","MD10B","50","N","N"," "," ","st²´z","MS",535
+"stairs","MD11","51","N","N"," "," ","stáº°z","MS",536
+"stairs","MD12A","52","N","N"," "," ","stáº´z","MS",537
+"stairway","MD12A","52","N","N"," "," ","stá´we½±¿","MS",537
+"stairway","MD12B","53","N","N"," "," ","stá«{´}we½{±¿½}","MS",538
+"stairsteps","MD12B","53","N","N"," "," ","stá«{´}st²ps","MS",538
+"stairs","MD13A","54(*)","N","N"," "," ","stá«º°z","MS",539
+"steps","MD13A","54(*)","N","N"," "," ","st²ps","MS",539
+"stairsteps","MD13B","55","N","N"," "," ","åst²´õst²ps","MS",540
+"steps","MD13C","56","N","N"," "," ","st²ps","MS",541
+"stairsteps","MD13C","56","N","N"," "," ","st²´st²ps","MS",541
+"stairway","MD13D!","57!","N","N"," "," ","stá«¾°we½{±¿}","MS",542
+"staircase","MD13E!","58!","N","N"," "," ","stá«°kes","MS",543
+"stairway","MD13F!","59!","N","N"," "," ","stá«º°we¾{±¿}","MS",544
+"staircase","MD13F!","59!","N","N"," "," ","stá«°ke±¿s","MS",544
+"steps","MD13G","54X","N","N"," "," ","st²«ps","MS",545
+"stairsteps","MD13G","54X","N","N"," "," ","åst²«´õst²«ps","MS",545
+"stairway","MD14","61(*)","N","N"," "," ","st²´â—eº","MS",546
+"steps","MD14","61(*)","N","Y"," ","AUX","st²ps","MS",546
+"ein schteeg","MD14","61(*)","O","Y"," ","AUX/INA","°n$st²«±¿k","MS",546
+"stairsteps","MD15A","62","N","N"," "," ","stá´st²«ps","MS",547
+"stairs","MD15B","63","N","N"," "," ","st²½°z","MS",548
+"stairway","MD15B","63","N","N"," "," ","st²½°w”eº{±¿½}","MS",548
+"stairsteps","MD16","64","N","N"," "," ","åst²¾´st²ps","MS",549
+"steps","MD17A","65","N","N"," "," ","st²ps","MS",550
+"stairway","MD17A","65","N","N"," "," ","st²½´we½{±¿}","MS",550
+"stairsteps","MD17B","66","N","N"," "," ","st²º´st²ps","MS",551
+"steps","MD18A","67","N","N"," "," ","st²«ps","MS",552
+"stairsteps","MD18A","67","N","N"," "," ","stá«º°st²«ps","MS",552
+"stairs","MD18B","68","N","N"," "," ","stá«°z","MS",553
+"stairway","MD18B","68","N","N"," "," ","stá«°we±¿","MS",553
+"stairsteps","MD19A","69","N","N"," "," ","st²¼º°st²«ps","MS",554
+"stairway","MD19B","70","N","N"," "," ","åstá«º°õwe±¿","MS",555
+"stairsteps","MD20A","71","N","N"," "," ","åstá«°st²«ps","MS",556
+"stairs","MD20B","72","N","N"," "," ","stá«¼º°z","MS",557
+"stairway","MD20B","72","N","N"," "," ","stá«¼º°we{±¿}","MS",557
+"stairsteps","MD20B","72","N","N"," "," ","stá«¼º°st²«ps","MS",557
+"steps","MD20C!","73!","N","N"," "," ","st²{°}ps","MS",558
+"stairs","MD21A","75","N","N"," "," ","stáº°z","MS",559
+"stairs","MD21B","76","N","N"," "," ","stá«°z","MS",560
+"stairsteps","MD21B","76","N","N"," "," ","stá«°st²ps","MS",560
+"stairsteps","MD22N","N77","N","N"," "," ","steİ½°st²«ps","MS",561
+"steps","MD22M","N78","N","N"," "," ","st²«ps","MS",562
+"stairsteps","MD22M","N78","N","N"," "," ","steİ½°st²«ps","MS",562
+"stairway","MD22A","77","N","N"," "," ","st²«{°}´ºweº{±¿½}","MS",563
+"stairway","MD22B","78","N","N"," "," ","st²«°we±¿","MS",564
+"stairway","MD22C!","79!","N","N"," "," ","st²°weº{±¿½}","MS",565
+"steps","MD23A","80b","N","N"," "," ","st²ps","MS",566
+"stairsteps","MD23A","80b","N","N"," "," ","st²«°st²ps","MS",566
+"stairway","MD23B","80a","N","N"," "," ","åst²«{°}õweº","MS",567
+"stairway","MD23C","81","N","N"," "," ","st²«°we±¿","MS",568
+"stairs","MD24","82","N","N"," "," ","steİ°z","MS",569
+"stairsteps","MD24","82","N","N"," "," ","steİ°st²«ps","MS",569
+"stairs","MD25","84","N","N"," "," ","st²´z","MS",570
+"stairsteps","MD25","84","N","N"," "," ","st²´st²ps","MS",570
+"steps","MD26A","83","N","N"," "," ","st²«{°}ps","MS",571
+"stairway","MD26A","83","N","N"," "," ","st²´we{e¾}","MS",571
+"stairway","MD26B","83A","N","N"," "," ","st²´we½±¿","MS",572
+"stairsteps","MD27A","85","N","N"," "," ","st²´st²ps","MS",573
+"stairway","MD27B","86","N","N"," "," ","st²´we½±¿","MS",574
+"stairs","DC1A","99","N","N"," "," ","st²°z","MS",575
+"stairway","DC1A","99","N","N"," "," ","st²°we½{±¿½}","MS",575
+"stairs","DC1B!","100!","N","N"," "," ","stá«º°z","MS",576
+"staircase","DC1B!","100!","N","N"," "," ","stá«º°ke«º{±¿}s","MS",576
+"stairway","VA1!","101!","N","N"," "," ","åstá«°we{i½}","MS",577
+"stairsteps","VA2A","103","N","N"," "," ","åstá«°st²«ps","MS",578
+"stairsteps","VA2B","104","N","Y"," ","AUX","åstáº°õst²«ps","MS",579
+"steps","VA3A","105(*)","N","N"," "," ","st²«{°}ps","MS",580
+"stairsteps","VA3A","105(*)","N","N"," "," ","st²¾´st²«{°}ps","MS",580
+"stairsteps","VA3B","106","N","N"," "," ","st²«´st²ps","MS",581
+"steps","VA3C","105X","N","N"," "," ","st²ps","MS",582
+"stairway","VA3C","105X","N","N"," "," ","st²½¾´we½±¿","MS",582
+"steps","VA4N","N109","N","N"," "," ","st²«{°}ps","MS",583
+"stairsteps","VA4N","N109","N","N"," "," ","åstáº°õst²ps","MS",583
+"stairway","VA5A","107","N","N"," "," ","stáº{°}weº","MS",584
+"stairsteps","VA5B","108","N","N"," "," ","stáİ«°İst²ps","MS",585
+"steps","VA6A","113","N","N"," "," ","st²«ps","MS",586
+"stairway","VA6A","113","N","Y"," ","NEW","stµº{°}we{±¿}","MS",586
+"stairsteps","VA6B","114","N","N"," "," ","stá«°st²«ps","MS",587
+"stairsteps","VA7A","121","N","N"," "," ","åstá½º°İ«õst²ps","MS",588
+"stairsteps","VA7B","122","N","N"," "," ","stá½°st²ps","MS",589
+"stairsteps","VA8A","123","N","N"," "," ","åstá½¾º°st²ps","MS",590
+"steps","VA8B","124","N","N"," "," ","st²{°}ps","MS",591
+"stairsteps","VA8B","124","N","N"," "," ","stá°st²{°}ps","MS",591
+"stairsteps","VA8C!","125!","N","N"," "," ","stá«°st²«ps","MS",592
+"stairsteps","VA9A","117","N","N"," "," ","stáº°st²«ps","MS",593
+"stairway","VA9B!","118!","N","N"," "," ","stá«°we«º","MS",594
+"steps","VA10A","127","N","N"," "," ","st²«{°}ps","MS",595
+"stairsteps","VA10A","127","N","N"," "," ","stµ«¼°st²«{°}ps","MS",595
+"stairway","VA10B","128","N","N"," "," ","stá«º°we«º{±¿}","MS",596
+"stairsteps","VA11A","129","N","N"," "," ","åstµ¾º{°}õst²«ps","MS",597
+"steps","VA11B","130","N","N"," "," ","st²{°}ps","MS",598
+"stairsteps","VA11B","130","N","Y"," ","OLD","stáº°st²ps","MS",598
+"steps","VA12N","N131","N","N"," "," ","st²«º{°}ps","MS",599
+"stairsteps","VA12N","N131","N","N"," "," ","õstá½º°åst²«{°}ps","MS",599
+"stairway","VA12A","131","N","N"," "," ","stá°w²º{±¿½}","MS",600
+"stairs","VA12B!","132!","N","N"," "," ","stáº°z","MS",601
+"steps","VA12B!","132!","N","N"," "," ","st²{°}ps","MS",601
+"stairway","VA13A","133","N","N"," "," ","stá°we±¿","MS",602
+"steps","VA13B","134","N","N"," "," ","st²ps","MS",603
+"stairway","VA13B","134","N","N"," "," ","åstá°õwe±¿","MS",603
+"stairsteps","VA14A","135","N","N"," "," ","åstá°õst²«ps","MS",604
+"steps","VA14B","136","N","N"," "," ","st²{°}ps","MS",605
+"stairsteps","VA14B","136","N","N"," "," ","stá°st²ps","MS",605
+"steps","VA14C","137","N","N"," "," ","st²{°}ps","MS",606
+"stairsteps","VA14C","137","N","Y"," ","SUG","stá°st²ps","MS",606
+"stairs","VA14C","137","N","N"," "," ","stáº°z","MS",606
+"steps","VA15N","N139(*)","N","N"," "," ","st²ps","MS",607
+"steps","VA15N","N139(*)","N","Y"," ","AUX","st²«ps","MS",607
+"stairsteps","VA15N","N139(*)","N","N"," "," ","stµºst²ps","MS",607
+"stairsteps","VA15A","139","N","N"," "," ","stá°st²ps","MS",608
+"steps","VA15B","140","N","N"," "," ","st²«{°}ps","MS",609
+"stairway","VA16A","141","N","N"," "," ","stá°we½º{±¿½}","MS",610
+"stairsteps","VA16B","142","N","N"," "," ","stáº{°}st²«ps","MS",611
+"stairway","VA17A","143","N","N"," "," ","åstá¾°õwe«±¿","MS",612
+"stairsteps","VA17A","143","N","N"," "," ","åstá¾°õst²ps","MS",612
+"steps","VA17B","144","N","N"," "," ","st²«{°}ps","MS",613
+"stairsteps","VA17B","144","N","Y"," ","SUG","stá°st²«{°}ps","MS",613
+"stairway","VA17B","144","N","Y"," ","SUG","stá°we±¿","MS",613
+"stairsteps","VA18","145","N","N"," "," ","stá°st²ps","MS",614
+"stairsteps","VA19A","146","N","N"," "," ","st²«º°st²«ºps","MS",615
+"steps","VA19B","147","N","N"," "," ","st²«{°}ps","MS",616
+"stairsteps","VA19B","147","N","N"," "," ","stá°st²«{°}ps","MS",616
+"stairs","VA19C!","148!","N","N"," "," ","stá{á«}°z","MS",617
+"staircase","VA19C!","148!","N","N"," "," ","åstá{á«}°õke±¿s","MS",617
+"stairsteps","VA20A","149","N","N"," "," ","st²°st²«{°}ps","MS",618
+"stairway","VA20B","150(*)","N","N"," "," ","åstá°õwe±¿","MS",619
+"stairsteps","VA20C","150X","N","N"," "," ","stá°st²«ps","MS",620
+"steps","VA21N","N153","N","N"," "," ","st²«ps","MS",621
+"stairsteps","VA21N","N153","N","N"," "," ","stá«º°st²«ps","MS",621
+"stairsteps","VA21A","153","N","N"," "," ","stáº°st²{°}ps","MS",622
+"stairsteps","VA21B","154","N","N"," "," ","åstá°õst²{°}ps","MS",623
+"stairsteps","VA22","155","N","N"," "," ","åstá°st²{°}ps","MS",624
+"steps","VA22","155","N","N"," "," ","st²{°}ps","MS",624
+"steps","VA23A","156","N","N"," "," ","st²ps","MS",625
+"stairsteps","VA23B","157","N","N"," "," ","åstá°st²«ps","MS",626
+"steps","VA24","159","N","N"," "," ","st²«ps","MS",627
+"stairsteps","VA24","159","N","N"," "," ","åstá«º°õst²ps","MS",627
+"stairway","VA24","159","N","N"," "," ","åstá«°õwe±¿","MS",627
+"stairsteps","VA25","160(*)","N","N"," "," ","stá½¾{´}st²ps","MS",628
+"stairsteps","VA25","160(*)","N","Y"," ","AUX","stá½¾{´}st²«ps","MS",628
+"stairsteps","VA26A","161A","N","N"," "," ","åstáº°õst²«ps","MS",629
+"stairsteps","VA26B","161","N","N"," "," ","åstá¾´õst²«{°}ps","MS",630
+"stairs","VA26C","162","N","N"," "," ","stá½¾{á}°z","MS",631
+"stairsteps","VA26C","162","N","N"," "," ","åstá½¾{á}°õst²«ps","MS",631
+"stairsteps","VA27","163(*)","N","N"," "," ","åstá½¾´õst²«{°}ps","MS",632
+"stairs","VA27","163(*)","N","Y"," ","AUX","stá½¾´z","MS",632
+"stairsteps","VA27","163(*)","N","Y"," ","AUX","åstá½¾´st²«ps","MS",632
+"steps","VA27","163(*)","N","Y"," ","AUX","st²«ps","MS",632
+"stairs","VA28A","164","N","N"," "," ","stá½¾°z","MS",633
+"stairway","VA28A","164","N","N"," "," ","stá½¾°we½±¿½","MS",633
+"stairs","VA28B","165","N","N"," "," ","stá«º°z","MS",634
+"stairway","VA28B","165","N","N"," "," ","stá°{wˆ}e½±¿","MS",634
+"steps","VA29","166","N","N"," "," ","st²İ«{°}ps","MS",635
+"steps","VA30A","167","N","N"," "," ","st²«{°}ps","MS",636
+"stairway","VA30A","167","N","N"," "," ","stá°«we±¿","MS",636
+"stairsteps","VA30A","167","N","N"," "," ","stá°«st²«{°}ps","MS",636
+"steps","VA30B!","167a!","N","N"," "," ","st²{°}ps","MS",637
+"stairway","VA30B!","167a!","N","N"," "," ","åstá«°õwe{±¿}","MS",637
+"steps","VA30C!","168!","N","N"," "," ","st²{°}ps","MS",638
+"staircase","VA30C!","168!","N","N"," "," ","stá½°kˆe½{±¿½}s","MS",638
+"staircase","VA30D!","169!","N","N"," "," ","åstá°õke±¿s","MS",639
+"steps","VA30E!","170!","N","N"," "," ","st²«{°}ps","MS",640
+"stairsteps","VA31A","171(*)(**)","N","N"," "," ","stáº°«st²«ps","MS",641
+"stairway","VA31B","172","N","N"," "," ","åstá¾°õwe½{±¿}","MS",642
+"stairsteps","VA31C","171X","N","N"," "," ","stáº°st²ps","MS",643
+"steps","VA32!","175!","N","N"," "," ","st²«ps","MS",644
+"steps","VA33A","173","N","N"," "," ","st²{°}ps","MS",645
+"stairsteps","VA33A","173","N","N"," "," ","stáº°st²{°}ps","MS",645
+"stairsteps","VA33B","174","N","N"," "," ","stá°st²«{°}ps","MS",646
+"stairsteps","VA34A","177(*)","N","Y"," ","AUX","stá°st²«ps","MS",647
+"stairsteps","VA34B","178","N","N"," "," ","stá{á«}°st°İps","MS",648
+"stairsteps","VA35A","179","N","N"," "," ","åstáº°õst²«ps","MS",649
+"stairs","VA35B","180","N","N"," "," ","stá{á«}°z","MS",650
+"stairsteps","VA35B","180","N","N"," "," ","åstá{á«}°õst²«ps","MS",650
+"steps","VA36A","181","N","N"," "," ","st²«{°}ps","MS",651
+"stairsteps","VA36A","181","N","N"," "," ","stá«°st²«{°}ps","MS",651
+"stairsteps","VA36B","182","N","N"," "," ","stá«°st²«{°}ps","MS",652
+"stairway","VA37","183","N","N"," "," ","stá°we½±¿","MS",653
+"stairs","VA38","185","N","N"," "," ","stáº°z","MS",654
+"stairway","VA38","185","N","N"," "," ","stá°ö—²«±¿","MS",654
+"stairsteps","VA39!","186!","N","N"," "," ","åstá°õst²«¾ps","MS",655
+"stairs","VA40A","187","N","N"," "," ","stáº°z","MS",656
+"stairsteps","VA40A","187","N","N"," "," ","åstá´õst²«{°}ps","MS",656
+"steps","VA40B","188","N","N"," "," ","st²«{°}ps","MS",657
+"stairsteps","VA40B","188","N","N"," "," ","stá¾{°}st²«{°}ps","MS",657
+"steps","VA41A","191","N","N"," "," ","st²{°}ps","MS",658
+"stairsteps","VA41A","191","N","N"," "," ","stµ«¼°st²{°}ps","MS",658
+"stairway","VA41B","192","N","N"," "," ","åstá°õwe{±¿½}","MS",659
+"stairsteps","VA41B","192","N","N"," "," ","åstá°st²{°}ps","MS",659
+"stairsteps","VA42A","193(*)(**)","N","N"," "," ","stµº{°}st²«ps","MS",660
+"stairsteps","VA42A","193(*)(**)","N","Y"," ","AUX","åstá°õst²ps","MS",660
+"stairsteps","VA42A","193(*)(**)","N","Y"," ","AUX2","åstµº{°}õst²«ps","MS",660
+"stairway","VA42A","193(*)(**)","N","Y"," ","AUX2","åstµº{°}weº{±¿}","MS",660
+"a steps","VA42B","194","O","N"," "," ","°$st²«ps","MS",661
+"stairsteps","VA43N","N195","N","N"," "," ","åstµ¾:õst²«ps","MS",662
+"stairsteps","VA43A","195","N","N"," "," ","åstµºõst²«ps","MS",663
+"steps","VA43B","196","N","N"," "," ","st²«ps","MS",664
+"staircase","VA43B","196","N","N"," "," ","åstá°õke{±¿}s","MS",664
+"stairsteps","VA44A","199","N","N"," "," ","åstµ«{°}õst²«ps","MS",665
+"stairsteps","VA44B","200","N","N"," "," ","stáº°st²«ps","MS",666
+"steps","VA45A","201","N","N"," "," ","st²ps","MS",667
+"stairway","VA45B","202","N","N"," "," ","stá°we±¿","MS",668
+"stairway","VA46N","N207","N","N"," "," ","åstµ«¼º{°}õwe½{±¿}","MS",669
+"stairsteps","VA46N","N207","N","N"," "," ","stµ«¼{°}st²«ps","MS",669
+"steps","VA46A","207","N","N"," "," ","st²«{°}ps","MS",670
+"stairsteps","VA46A","207","N","N"," "," ","åstµ«¼{°}rst²«{°}ps","MS",670
+"stairway","VA46B!","208!","N","N"," "," ","åstá{²}°õwe½{±¿}","MS",671
+"stairsteps","VA47","211","N","N"," "," ","stµº{°}st²«ps","MS",672
+"stairsteps","VA48A","213(*)","N","N"," "," ","åstµº{°}st²«{°}ps","MS",673
+"stairsteps","VA48A","213(*)","N","Y"," ","AUX","åstµ°st²«ps","MS",673
+"steps","VA48B","214","N","N"," "," ","st²«ps","MS",674
+"stairway","VA48B","214","N","N"," "," ","stá°we«{±¿½}","MS",674
+"staircase","VA49A","215","N","N"," "," ","stµº{°}kˆe±¿½s","MS",675
+"stairway","VA49B","216","N","N"," "," ","stá°we±¿","MS",676
+"stairsteps","VA50A","217","N","N"," "," ","åstµº{°}õst²{°}ps","MS",677
+"stairsteps","VA50B","218","N","N"," "," ","stá{á«}°st²«ps","MS",678
+"stairsteps","VA51A","219","N","N"," "," ","stµº{°}st²«{°}ps","MS",679
+"steps","VA51B","220(*)","N","N"," "," ","st²«{°}ps","MS",680
+"stairsteps","VA51B","220(*)","N","N"," "," ","stá{á«}°st²«{°}ps","MS",680
+"NR","VA51C","220X"," ","N"," "," "," ","MS",681
+"stairway","VA52A","224","N","N"," "," ","st²¾´we½±¿","MS",682
+"stairway","VA52B","225","N","N"," "," ","st²½´we½±¿","MS",683
+"staircase","VA52C!","226!","N","N"," "," ","åstá«¾´ke±¿s","MS",684
+"stairsteps","VA53A","227","N","N"," "," ","st²½¾´st²ps","MS",685
+"stairway","VA53B","228","N","N"," "," ","st²¾´we±¿«","MS",686
+"stairway","VA54A","229","N","N"," "," ","åstá½¾´we{±¿}","MS",687
+"staircase","VA54B","230","N","N"," "," ","stá«°«kˆe{±¿«}s","MS",688
+"stairsteps","VA55A","233(*)","N","N"," "," ","åstá¾´st²«ps","MS",689
+"stairsteps","VA55A","233(*)","N","Y"," ","AUX","st²´st²«ps","MS",689
+"Speichersteig","VA55A","233(*)","N","Y"," ","AUX/INA","ópµº²¾c¬°{ò}óteºk","MS",689
+"stairway","VA55B","234(*)","N","N"," "," ","åstá«´õwe½±¿","MS",690
+"stairsteps","VA55B","234(*)","N","N"," "," ","åstá«´st²ps","MS",690
+"stairway","VA55B","234(*)","N","Y"," ","AUX","st²´we{±¿}","MS",690
+"stairsteps","VA56A","237","N","N"," "," ","åst²´õst²ps","MS",691
+"stairsteps","VA56B","238","N","N"," "," ","stá¾´st²ps","MS",692
+"stairsteps","VA57A","239","N","N"," "," ","stá°st²«ps","MS",693
+"stairs","VA57B","240","N","N"," "," ","st²½¾´z","MS",694
+"stairsteps","VA57B","240","N","N"," "," ","st²½¾´st²ps","MS",694
+"steps","VA58","241(*)","N","N"," "," ","st²{°}ps","MS",695
+"stairsteps","VA58","241(*)","N","N"," "," ","stµ°st²{°}ps","MS",695
+"steps","VA58","241(*)","N","Y"," ","AUX","st²«ps","MS",695
+"stairsteps","VA58","241(*)","N","Y"," ","AUX","stµ«{°}st²«ps","MS",695
+"pair of stairs","VA58","241(*)","O","Y","= when there's a landing","AUX/SUG","õpµ«{°}$°İ$åstµ«{°}z","MS",695
+"steps","VA59N","N241","N","N"," "," ","st²«ps","MS",696
+"stairway","VA59N","N241","N","Y"," ","NEW","stµ«{°}we«º","MS",696
+"steps","VA59A","242","N","N"," "," ","st²ps","MS",697
+"stairs","VA59B!","243!","N","N"," "," ","stá°z","MS",698
+"steps","VA59B!","243!","N","N"," "," ","st²«ps","MS",698
+"stairs","VA60","244(*)","N","N"," "," ","stá¾´z","MS",699
+"stairsteps","VA60","244(*)","N","N"," "," ","åstá´st²ps","MS",699
+"stairway","VA61A","245(*)","N","N"," "," ","åstá¾{°}rwe«±¿","MS",700
+"stairsteps","VA61A","245(*)","N","N","oftener"," ","stá{°}rst²«{°}ps","MS",700
+"stairway","VA61B!","246!","N","N"," "," ","åst²´we±¿«","MS",701
+"NA","VA61C","245X"," ","N"," "," "," ","MS",702
+"stairsteps","VA62A","247(*)","N","N"," "," ","stá°st²{°}ps","MS",703
+"stairsteps","VA62A","247(*)","N","Y"," ","OLD","stµº{°}st²ps","MS",703
+"stairsteps","VA62A","247(*)","N","Y"," ","AUX","stµº{°}st²ps","MS",703
+"stairway","VA62B","248","N","N"," "," ","stá«¾°we¾±¿","MS",704
+"stairsteps","VA63A","251","N","N"," "," ","stá¾´st²{°}ps","MS",705
+"stairs","VA63B","252","N","N"," "," ","st²½´z","MS",706
+"stairsteps","VA63B","252","N","N"," "," ","åst²½´õst²ps","MS",706
+"stairway","VA64A","255","N","N"," "," ","stµ«¼{°}we±¿","MS",707
+"stairsteps","VA64A","255","N","N"," "," ","stµ«¼{°}st²ps","MS",707
+"stairsteps","VA64B","256","N","N"," "," ","åstá«°õst²«{°}ps","MS",708
+"stairway","VA65A","257","N","N"," "," ","stá½¾rwe½¾±¿","MS",709
+"stairsteps","VA65A","257","N","N","natural"," ","stá½¾rst²ps","MS",709
+"stairsteps","VA65B","258","N","N"," "," ","stá¾rst²ps","MS",710
+"pair of stairs","VA65B","258","O","N"," "," ","pá¾{°}r$°$stá¾ºrz","MS",710
+"staircase","VA65C!","259!","N","N"," "," ","åstáº°õke±¿s","MS",711
+"stairway","VA65C!","259!","N","N"," "," ","åstáº°õwe±¿","MS",711
+"stairsteps","VA66A","261","N","N"," "," ","åstá°st²«ps","MS",712
+"stairsteps","VA66A","261","N","Y"," ","OLD","stµ°st²«ps","MS",712
+"staircase","VA66B","262","N","N"," "," ","stá°ke±¿s","MS",713
+"stairsteps","VA66B","262","N","N"," "," ","stá°st²ps","MS",713
+"stairway","VA67A","267","N","N"," "," ","stá¾´w²«±¿«","MS",714
+"stairsteps","VA67B","268","N","N"," "," ","åstá{´}st²«ps","MS",715
+"stairsteps","VA68A","269","N","N"," "," ","åstáº°õst²«ps","MS",716
+"stairway","VA68B","270","N","N"," "," ","stáº°we½±¿","MS",717
+"stairsteps","VA69A","273","N","N"," "," ","sta«¾º{°}st²{°}ps","MS",718
+"stairsteps","VA69B","274","N","N"," "," ","åstá°st²ps","MS",719
+"stairway","VA70A","275","N","N"," "," ","stá¾{°}rwe½±¿","MS",720
+"stairsteps","VA70A","275","N","N"," "," ","stá¾{°}rst²ps","MS",720
+"pair of stairs","VA70A","275","O","N"," "," ","pá¾{°}r$°$stá¾{°}rz","MS",720
+"stairsteps","VA70B","276","N","N"," "," ","åst²´õst²{°}ps","MS",721
+"stairsteps","VA71A","285","N","N"," "," ","åstá´õst²{°}ps","MS",722
+"stairs","VA71B","286","N","N"," "," ","stá°z","MS",723
+"stairway","VA71B","286","N","N"," "," ","stá°w²«±¿«","MS",723
+"stairsteps","VA72A","287","N","N"," "," ","stá¾´ºst²«{°}ps","MS",724
+"stairs","VA72B","288","N","N"," "," ","stá¾´ºz","MS",725
+"stairs","VA73","291","N","N"," "," ","stáº{°}´z","MS",726
+"stairsteps","VA73","291","N","N"," "," ","stá°st²ps","MS",726
+"stairs","VA74A","293","N","N"," "," ","stá°z","MS",727
+"stairsteps","VA74A","293","N","N"," "," ","stá°st²{°}ps","MS",727
+"steps","VA74B!","294!","N","N"," "," ","st²«{°}ps","MS",728
+"stairsteps","VA74B!","294!","N","N"," "," ","stá°«st²«º{°}ps","MS",728
+"steps","VA75A","297","N","N"," "," ","st²«º{°}ps","MS",729
+"stairsteps","VA75A","297","N","N"," "," ","stá¾´st²«º{°}ps","MS",729
+"stairway","VA75B","298","N","N"," "," ","stá«¾´w²«±¿«","MS",730
+"stairsteps","NC1","303","N","N"," "," ","sta«¾´ºst²«{°}ps","MS",731
+"stairsteps","NC2A","301","N","Y"," ","AUX","stá½¾{°}rst²ps","MS",732
+"steps","NC2B","304","N","N"," "," ","st²«º{°}ps","MS",733
+"stairsteps","NC2B","304","N","N"," "," ","stá¾{°}´st²«º{°}ps","MS",733
+"stairsteps","NC3A","305","N","N"," "," ","åstá¾´õst²«{°}ps","MS",734
+"stairs","NC3B","306","N","N"," "," ","stá{±¿½}°z","MS",735
+"stairsteps","NC3B","306","N","N"," "," ","åstá¾{±¿}°õst²«{°}ps","MS",735
+"stairsteps","NC3B","306","N","N"," ","CNV","åstµ«¼´õst²«{°}ps","MS",735
+"stairway","NC4A","307","N","N"," "," ","stá½¾°we±¿","MS",736
+"stairsteps","NC4A","307","N","N"," "," ","stá½¾°{°}st²ps","MS",736
+"stairs","NC4B","308","N","N"," "," ","stá{á«}°z","MS",737
+"stairway","NC4B","308","N","N"," "," ","stá{á«}°we{±¿}","MS",737
+"stairsteps","NC4B","308","N","N"," "," ","stá{á«}°st²«ps","MS",737
+"stairsteps","NC5A","309","N","N"," "," ","åstá¾º°õst²«º{°}ps","MS",738
+"stairs","NC5B","310","N","N"," "," ","stá{°«¼}°z","MS",739
+"stairsteps","NC5B","310","N","N"," "," ","stá{°«¼}°st²ps","MS",739
+"stairs","NC6!","311!","N","N"," "," ","stáº°z","MS",740
+"steps","NC6!","311!","N","N"," "," ","st²«{°}ps","MS",740
+"stairsteps","NC7A","315(*)","N","N"," "," ","åstáº°õst²«ps","MS",741
+"stairsteps","NC7B","316","N","N"," "," ","stá¾´st²{°}ps","MS",742
+"stairsteps","NC8N","N317","N","N"," "," ","stá°st²«{°}ps","MS",743
+"stairsteps","NC8N","N317","N","Y"," ","SUG/OLD","stµº°st²«{°}ps","MS",743
+"steps","NC8A","317","N","N"," "," ","st²«º{°}ps","MS",744
+"stairsteps","NC8A","317","N","N"," "," ","stá´st²«º{°}ps","MS",744
+"stairsteps","NC8B","318(*)","N","N"," "," ","stá«´st²«{°}ps","MS",745
+"stairs","NC9A","319","N","N"," "," ","stá¾º°z","MS",746
+"stairsteps","NC9A","319","N","N"," "," ","åstáº°õst²ps","MS",746
+"stairsteps","NC9B","320","N","N"," "," ","stá½¾º°st²«º{°}ps","MS",747
+"stairs","NC10A","321","N","N"," "," ","stá´z","MS",748
+"stairsteps","NC10A","321","N","N"," "," ","stá´st²ps","MS",748
+"stairsteps","NC10B","323","N","N"," "," ","sta«¾º´st²«ps","MS",749
+"ladder","NC10B","323","N","Y","old style house","INA","láº{°}ä´","MS",749
+"stairsteps","NC10C","322","N","N"," "," ","stá¾´st²«{°}ps","MS",750
+"stairsteps","NC11A","325","N","N"," "," ","stá½¾´ºst²{°}ps","MS",751
+"stairsteps","NC11B","326","N","N"," "," ","stá½¾´ºst²«º{°}ps","MS",752
+"stairsteps","NC12A","327(*)","N","N"," "," ","stá½¾´st²«º{°}ps","MS",753
+"stairsteps","NC12A","327(*)","N","Y"," ","AUX","åstá{²}°st²ps","MS",753
+"stairsteps","NC12B","328","N","N"," "," ","åstáº°st²«º{°}ps","MS",754
+"stairway","NC13A","329","N","N"," "," ","stá¾º´we½±¿","MS",755
+"scuttle","NC13A","329","N","Y"," ","OLD","sk¸tì","MS",755
+"stairsteps","NC13B","330(*)","N","N"," "," ","åstáº´õst²«{°}ps","MS",756
+"stairsteps","NC13B","330(*)","N","Y"," ","AUX","åstáº°st²«{°}ps","MS",756
+"stairsteps","NC14N","N331","N","N"," "," ","stá°st²«ps","MS",757
+"stairsteps","NC14A","331","N","N"," "," ","stáº°st²«ps","MS",758
+"stairs","NC14B","332","N","N"," "," ","stá´z","MS",759
+"stairway","NC14B","332","N","N"," "," ","stá°we½¾±¿«","MS",759
+"stairsteps","NC14B","332","N","N"," "," ","stá°st²ps","MS",759
+"staircase","NC14C!","333!","N","N"," "," ","stáº°k²«±¿«s","MS",760
+"stairsteps","NC15A","335(*)","N","N"," "," ","sta«¾º°st²«{°}ps","MS",761
+"stairsteps","NC15B","336","N","N"," "," ","åstá¾º°õst²«{°}ps","MS",762
+"stairsteps","NC15C","335X","N","N"," "," ","åstá½¾°õst²«ps","MS",763
+"stairsteps","NC16A","339(*)","N","N"," "," ","stá½¾º´st²«{°}ps","MS",764
+"stairsteps","NC16A","339(*)","N","Y"," ","AUX","stáº°st²«{°}ps","MS",764
+"stairstep","NC16B","340","N","N"," "," ","stá½¾º´st²«{°}p","MS",765
+"stairsteps","NC17A","337","N","N"," "," ","åstáº´õst²«º{°}ps","MS",766
+"stairs","NC17B","338","N","N"," "," ","stá¾º°z","MS",767
+"stairsteps","NC18A","341","N","N"," "," ","st²°st²ps","MS",768
+"stairsteps","NC18B","342","N","N"," "," ","stá«°st²{°}ps","MS",769
+"stairsteps","NC19A","343","N","N"," "," ","st¥½¼´st²«{°}ps","MS",770
+"stairway","NC19B","344","N","N"," "," ","åstá«°õwe½±¿½","MS",771
+"stairsteps","NC19B","344","N","N"," "," ","åstá«°st²«{°}ps","MS",771
+"stairs","NC20A","345","N","N"," "," ","st²¾´z","MS",772
+"stairs","NC20B","346a","N","N"," "," ","stáº´z","MS",773
+"ladder steps","NC20B","346a","O","Y"," ","OLD","ålá{°}d´$õst²{°}ps","MS",773
+"stairs","NC20C","346b","N","N"," "," ","sta«¾º´z","MS",774
+"stairsteps","NC20C","346b","N","N"," "," ","sta«¾º´st²«º{°}ps","MS",774
+"stairs","NC21A","347","N","N"," "," ","st²½º´z","MS",775
+"stairsteps","NC21A","347","N","N"," "," ","st²½º´st²{°}ps","MS",775
+"stairway","NC21B","348","N","N"," "," ","åstá¾º´õwe±¿","MS",776
+"stairsteps","NC22A","349","N","N"," "," ","ste½{°}rst²ps","MS",777
+"stairway","NC22B","349b","N","N"," "," ","st²½°we½±¿","MS",778
+"stairsteps","NC22B","349b","N","N"," "," ","st²½°st²ps","MS",778
+"stairsteps","NC23A","351a","N","N"," "," ","åst²½°õst²ps","MS",779
+"stairsteps","NC23B","351b(*)","N","N"," "," ","st²°st²ps","MS",780
+"stairs","NC23B","351b(*)","N","Y"," ","AUX","st²«º°z","MS",780
+"stairway","NC23B","351b(*)","N","Y"," ","AUX","st²«°we{±¿}","MS",780
+"stairs","NC23C!","351c!","N","N"," "," ","st²º°z","MS",781
+"stairsteps","NC23C!","351c!","N","N"," "," ","st²º°st²ps","MS",781
+"stairs","NC23D!","351d!","N","N"," "," ","st²°z","MS",782
+"stairsteps","NC24N","N352","N","N"," "," ","st²«°st²ps","MS",783
+"stairsteps","NC24A","352a","N","N"," "," ","st²¾´st²½{°}ps","MS",784
+"stairsteps","NC24B","352b","N","N"," "," ","åst²«´õst²{°}ps","MS",785
+"stairway","NC25N","N353","N","N"," "," ","stá¾{r}we«º","MS",786
+"stairsteps","NC25N","N353","N","N"," "," ","stá¾{r}st²ps","MS",786
+"stairway","NC25A","353","N","N"," "," ","stá«¾´we«º{±¿½}","MS",787
+"stairsteps","NC25B","354","N","N"," "," ","stá°st²ps","MS",788
+"stairsteps","NC26A","355a","N","N"," "," ","åst²°õst²ps","MS",789
+"stairsteps","NC26B","355b","N","N"," "," ","stá°st²«{°}ps","MS",790
+"steps","NC26C!","356!","N","N"," "," ","st²«{°}ps","MS",791
+"stairsteps","NC26C!","356!","N","N"," "," ","stá{²}°st²«{°}ps","MS",791
+"stairsteps","NC27A","357","N","N"," "," ","åst²«´õst²{°}ps","MS",792
+"stairsteps","NC27B","358","N","N"," "," ","st²{°}´st²ps","MS",793
+"stairsteps","NC28A","361","N","N"," "," ","st²´st²{°}ps","MS",794
+"stairsteps","NC28B","361b","N","N"," "," ","åst²¾´õst²{°}ps","MS",795
+"stairsteps","NC28C","362","N","N"," "," ","st²¾´st²{°}ps","MS",796
+"stairway","NC29A","363(*)","N","N"," "," ","åstá½¾º°õâe«º","MS",797
+"steps","NC29A","363(*)","N","N"," "," ","st²ps","MS",797
+"stairway","NC29B","364","N","N"," "," ","st²¾´w²«±¿","MS",798
+"stairsteps","NC29B","364","N","N"," "," ","st²¾´st²{°}ps","MS",798
+"stairs","NC30A","365","N","N"," "," ","stá{á«¾}°«z","MS",799
+"stairs","NC30B","366","N","N"," "," ","stá{á«}{°}z","MS",800
+"stairway","NC30B","366","N","N"," "," ","stá{á«}{°}w²«¾±¿","MS",800
+"stairsteps","NC30B","366","N","N"," "," ","stá{á«}{°}st²«ps","MS",800
+"stairsteps","NC31A","367","N","N"," "," ","stá«°st²«{°}ps","MS",801
+"stairs","NC31B","368","N","N"," "," ","stá°z","MS",802
+"stairway","NC31B","368","N","N"," "," ","stá°we±¿","MS",802
+"stairway","NC32A","369","N","N"," "," ","åstá¾{°}weº","MS",803
+"stairsteps","NC32A","369","N","Y"," ","SUG/CNV","åstá¾{°}st²«ps","MS",803
+"stairs","NC32B!","370!","N","N"," "," ","stá{²}°z","MS",804
+"stairsteps","NC32B!","370!","N","N"," "," ","stáº°st²ps","MS",804
+"stairsteps","NC33A","373","N","N"," "," ","sta«¾´st²«º{°}ps","MS",805
+"steps","NC33B","374","N","N"," "," ","st²«º{°}ps","MS",806
+"stairsteps","NC33B","374","N","N"," "," ","stá«º°st²«º{°}ps","MS",806
+"stairsteps","NC34A","375","N","N"," "," ","åsta«¾´õst²«{°}ps","MS",807
+"stairsteps","NC34B","376","N","N"," "," ","stáº°st²«º{°}ps","MS",808
+"stairs","NC35A","377","N","N"," "," ","stá«º°z","MS",809
+"stairsteps","NC35A","377","N","N"," "," ","stá«°st²«ps","MS",809
+"stairway","NC35B","378","N","N"," "," ","stá¾°we½±¿","MS",810
+"stairsteps","NC35B","378","N","N"," "," ","stá¾°st²«{°}ps","MS",810
+"stairsteps","NC36N","N381","N","N"," "," ","åst²«°õst²ps","MS",811
+"stairs","NC36A","381","N","N"," "," ","st²{°}rz","MS",812
+"stairsteps","NC36A","381","N","N"," "," ","st²{°}rst²{°}ps","MS",812
+"stairs","NC36B","382","N","N"," "," ","st²½{°}{r}z","MS",813
+"stairsteps","NC37A","383","N","N"," "," ","åstá°õst²«{°}ps","MS",814
+"stair","NC37A","383","N","Y","aunt","AUX","stµ¾º","MS",814
+"stairsteps","NC37B","384","N","N"," "," ","stá°st²«{°}ps","MS",815
+"steps","NC38N","N385","N","N"," "," ","st²«{°}ps","MS",816
+"stairsteps","NC38N","N385","N","N"," "," ","stáº°«st²«{°}ps","MS",816
+"stairsteps","NC38A","385","N","N"," "," ","åstá°õst²«º{°}ps","MS",817
+"stairway","NC38B","386","N","N"," "," ","åstá°õwe½±¿","MS",818
+"staircase","NC38B","386","N","N"," "," ","åstá°keº±¿½s","MS",818
+"stairsteps","NC38B","386","N","Y"," ","SUG","åstá°st²{°}ps","MS",818
+"stairsteps","NC39A","389","N","N"," "," ","åstµº{°}õst²«{°}ps","MS",819
+"steps","NC39B!","390!","N","N"," "," ","st²«{°}ps","MS",820
+"staircase","NC39B!","390!","N","N"," "," ","stá«°ke±¿s","MS",820
+"stairsteps","NC39B!","390!","N","N"," "," ","stá«°st²«ps","MS",820
+"stairsteps","NC40A","391","N","N"," "," ","åstá¾°õst²«ps","MS",821
+"pair of steps","NC40A","391","O","Y","when building","SUG","pá¾{°}{r}°$åst²«ps","MS",821
+"stairsteps","NC40B","392","N","N"," "," ","stá«°st²«ps","MS",822
+"stairsteps","NC41!","393!","N","N"," "," ","stá«°«st²{°}ps","MS",823
+"stairway","NC42A","403","N","N"," "," ","stá½º°weº","MS",824
+"stairsteps","NC42A","403","N","N"," "," ","stáº°st²«ps","MS",824
+"stairs","NC42B","404(*)","N","N"," "," ","stáº°z","MS",825
+"stairway","NC42B","404(*)","N","N","building"," ","stáº°we½±¿","MS",825
+"stairsteps","NC42B","404(*)","N","N"," "," ","stáº°st²«{°}ps","MS",825
+"stairsteps","NC42B","404(*)","N","Y"," ","AUX","stáº´st²«ps","MS",825
+"stairsteps","NC43A","397","N","N"," "," ","stµº{°}st²«ps","MS",826
+"stairsteps","NC43B","398","N","N"," "," ","stáº°st²«{°}ps","MS",827
+"stairway","NC44","410(*)","N","N"," "," ","åstá{°}õweº{±¿}","MS",828
+"stairsteps","NC44","410(*)","N","N"," "," ","åstá{°}st²ps","MS",828
+"stairsteps","NC44","410(*)","N","Y"," ","AUX","stáº°st²«{°}ps","MS",828
+"stairsteps","NC45A","409(*)","N","N"," "," ","åstµº{°}õst²«ps","MS",829
+"staircase","NC45B","409X","N","N"," "," ","stá°ke{±¿}s","MS",830
+"stairway","NC45B","409X","N","N"," "," ","stá°we½{±¿½}","MS",830
+"stairsteps","NC45B","409X","N","N"," "," ","stá°st²«{°}ps","MS",830
+"stairsteps","NC46A","411","N","N"," "," ","stá°st²«º{°}ps","MS",831
+"stairsteps","NC46B","412","N","N"," "," ","åstá«°«õst²«{°}ps","MS",832
+"stairs","NC46C!","412b!","N","N"," "," ","stáº°z","MS",833
+"staircase","NC46C!","412b!","N","N"," "," ","stáº°ke½±¿s","MS",833
+"stairsteps","NC47","413","N","N"," "," ","stá¾´st²«{°}ps","MS",834
+"stairsteps","NC48","418","N","N"," "," ","stá¾´st²«ps","MS",835
+"stairsteps","NC49","421","N","N"," "," ","stá¾´st²{°}ps","MS",836
+"stairsteps","NC50A","422","N","N"," "," ","stá«¾°st²«ps","MS",837
+"stairs","NC50B!","423!","N","N"," "," ","stá½¾{°}z","MS",838
+"steps","NC50B!","423!","N","N"," "," ","st²º{°}ps","MS",838
+"stairsteps","NC51A","427","N","N"," "," ","stáİ½¾rst²«{°}ps","MS",839
+"stairway","NC51B","428","N","N"," "," ","stá½¾´weº{±¿½}","MS",840
+"stairsteps","NC52N","N429","N","N"," "," ","åstáº°İõst²«ps","MS",841
+"stairsteps","NC52A","429","N","N"," "," ","stá½¾´st²«{°}ps","MS",842
+"stairsteps","NC52B","430","N","N"," "," ","stá«º°st²«{°}ps","MS",843
+"stairsteps","NC53A","431","N","N"," "," ","stá½º°st²ps","MS",844
+"steps","NC53B","432","N","N"," "," ","st²{°}ps","MS",845
+"stairsteps","NC53B","432","N","N"," "," ","stá{²}°st²{°}ps","MS",845
+"stairway","NC54A","433","N","N"," "," ","stá«º°we«±¿","MS",846
+"stairsteps","NC54A","433","N","Y"," ","SUG","stá«º°st²«ps","MS",846
+"stairsteps","NC54B","434","N","N"," "," ","åstá´õst²«{°}ps","MS",847
+"stairway","NC55","435","N","N"," "," ","stá½º°we½{±¿½}","MS",848
+"stairsteps","NC55","435","N","N"," "," ","stá½º°st²«ps","MS",848
+"stairs","NC56A","436","N","N"," "," ","stá{²¾}´z","MS",849
+"stairsteps","NC56A","436","N","N"," "," ","stá°st²«ps","MS",849
+"stairs","NC56B!","437!","N","N"," "," ","stá«{²}°z","MS",850
+"stairway","NC56B!","437!","N","N"," "," ","stá«º°we½±¿","MS",850
+"stairsteps","NC57A","438a","N","N"," "," ","stá½{°}st²ps","MS",851
+"stairsteps","NC57A","438a","N","N","natural"," ","stµºst²ps","MS",851
+"stairsteps","NC57B","438b","N","N"," "," ","stá°st²{°}ps","MS",852
+"stairsteps","NC58A","439","N","N"," "," ","stá½¾´st²«{°}ps","MS",853
+"stairsteps","NC58B","440","N","N"," "," ","stá½¾´st²«{°}ps","MS",854
+"stairsteps","NC59","441(*)","N","N"," "," ","åstá´st²«º{°}ps","MS",855
+"stairway","NC60","442","N","N"," "," ","åstá°õwe½±¿","MS",856
+"stairsteps","NC61A","443","N","N"," "," ","stá½´st²«ps","MS",857
+"stairs","NC61B","444","N","N"," "," ","stá«¾´z","MS",858
+"stairsteps","NC61B","444","N","N"," "," ","stá«¾´st²ps","MS",858
+"stairsteps","NC62A","447","N","N"," "," ","stá½¾´st²«ps","MS",859
+"stairsteps","NC62B","448","N","N"," "," ","stá½¾´st²{°}ps","MS",860
+"stairsteps","NC63A","449","N","N"," "," ","stá½¾´st²«º{°}ps","MS",861
+"stairway","NC63B","450","N","N"," "," ","st²½´we½±¿½","MS",862
+"stairsteps","NC63B","450","N","N"," "," ","st²½´st²«{°}ps","MS",862
+"stairs","NC64A","453","N","N"," "," ","stá½¾´z","MS",863
+"ladders","NC64A","453","N","Y"," ","INA","láº{°}ä´z","MS",863
+"stairway","NC64B","454","N","N"," "," ","stá«¾´ºweº","MS",864
+"NR","NC65A","461"," ","N"," "," "," ","MS",865
+"stairsteps","NC65B","462","N","N"," "," ","åstá´st²{°}ps","MS",866
+"stairsteps","NC66A","465","N","N"," "," ","åstá´õst²«ps","MS",867
+"stairs","NC66B","466","N","N"," "," ","stá½{°}´z","MS",868
+"stairsteps","NC67A","469","N","N"," "," ","stµ«¾{°}st²{°}ps","MS",869
+"stairsteps","NC67B","470","N","N"," "," ","stá{°}´st²{°}ps","MS",870
+"stairsteps","NC68A","473","N","N"," "," ","åstá´{r}õst²«{°}ps","MS",871
+"stairs","NC68B","474","N","N"," "," ","stá¾´z","MS",872
+"stairsteps","NC68B","474","N","N"," "," ","stá¾´st²«{°}ps","MS",872
+"pair of stairsteps","NC69A","477","O","N","circa 10 steps"," ","õpá¾´$°$åstá¾´õst²«{°}ps","MS",873
+"stairsteps","NC69B","478","N","N"," "," ","stá°st²«ps","MS",874
+"stairs","NC70A","479","N","N"," "," ","st{h}á½¾{°}´z","MS",875
+"stairsteps","NC70A","479","N","N"," "," ","st{h}á½¾{°}´st{h}²{°}ps","MS",875
+"stairs","NC70B","480","N","N"," "," ","stá¾{°«¼}´z","MS",876
+"steps","NC70B","480","N","N"," "," ","st²«{°}ps","MS",876
+"steps","NC71A","481","N","N"," "," ","st²«{°}ps","MS",877
+"stairsteps","NC71A","481","N","N"," "," ","stá½¾´st²«{°}ps","MS",877
+"stairs","NC71B","482","N","N"," "," ","stá¾´z","MS",878
+"stairs","NC71C!","483!","N","N"," "," ","stá´z","MS",879
+"stairway","NC71C!","483!","N","N"," "," ","stá´we½±¿","MS",879
+"steps","NC72A","487","N","N"," "," ","st²«{°}ps","MS",880
+"stairsteps","NC72B","488","N","N"," "," ","åstá¾´st²«{°}ps","MS",881
+"stairsteps","NC73A","491","N","N"," "," ","stá½¾´st²«{°}ps","MS",882
+"stairway","NC73B","492","N","N"," "," ","stá´weº{±¿}","MS",883
+"NR","NC74A","493"," ","N"," "," "," ","MS",884
+"stairsteps","NC74B","494","N","N"," "," ","åstá¾´st²{°}ps","MS",885
+"stairs","NC75A","495","N","N"," "," ","stá½¾´z","MS",886
+"stairsteps","NC75A","495","N","N"," "," ","åstá½¾´õst²«{°}ps","MS",886
+"stairs","NC75B","496","N","N"," "," ","stá¾´z","MS",887
+"stairs","SC1A","203.1","N","N"," "," ","st²°ºz","MS",888
+"stairsteps","SC1A","203.1","N","N"," "," ","åst²°st²ps","MS",888
+"stairs","SC1B","203.2","N","N"," "," ","st²º°z","MS",889
+"stairsteps","SC1B","203.2","N","N"," "," ","åst²º°st²ps","MS",889
+"stairsteps","SC2A","204.1(*)","N","N"," "," ","åst²«´õst²«{°}ps","MS",890
+"stairway","SC2B","204.2","N","N"," "," ","åst²«º°rõwe{±¿}","MS",891
+"stairsteps","SC2B","204.2","N","N"," "," ","åst²«º°õst²«{°}ps","MS",891
+"steps","SC2C","204.1X","N","N"," "," ","st²«{°}ps","MS",892
+"stairsteps","SC2C","204.1X","N","N"," "," ","st²«º°st²«{°}ps","MS",892
+"stairway","SC3A","205.1","N","N"," "," ","åstá«¾{°}rwe«º","MS",893
+"stairs","SC3B","205.2","N","N"," "," ","st²½º´¼z{z}","MS",894
+"ladder","SC3B","205.2","N","Y"," ","INA","láº{°}d´½¾","MS",894
+"pair of steps","SC3C!","205.3!","O","N"," "," ","åp`²º|°$õst²«{°}ps","MS",895
+"stairway","SC3C!","205.3!","N","N"," "," ","åst²º°õweº{±¿}","MS",895
+"staircase","SC3C!","205.3!","N","N"," ","CNV","åst²º°õc‡`eº{°}s","MS",895
+"stairsteps","SC3C!","205.3!","N","N"," "," ","åst²º°õst²«{°}ps","MS",895
+"steps","SC3C!","205.3!","N","N"," "," ","st²«{°}ps","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"staircase","SC4B","206.2","N","N"," "," ","åst²º°k`eº{°}s","MS",897
+"staircase","SC4B","206.2","N","N"," ","CNV","åst²º°õkˆ`eº{°}s","MS",897
+"stairsteps","SC4B","206.2","N","N","""landing, bannister, railings, ballustrade¢"," ","åst²º°õst²«{°}ps","MS",897
+"railings","SC4B","206.2","N","Y"," ","INA","reº{°}l±¿¼îz","MS",897
+"ballustrade","SC4B","206.2","N","Y"," ","INA/INA","åbál°«stòeº{°}d","MS",897
+"landing","SC4B","206.2","N","Y"," ","INA","lá{°}nd±¿¼î","MS",897
+"bannister","SC4B","206.2","N","Y"," ","INA","åbá½{°}n±¿st°","MS",897
+"casement","SC4B","206.2","N","N"," "," ","åkˆ`eº{°}smn–t","MS",897
+"stairs","SC4C","206.3","N","N","all used"," ","st²º°z","MS",898
+"stairway","SC4C","206.3","N","N","all used"," ","åst²º°õweº{±¿¼}","MS",898
+"stairsteps","SC4C","206.3","N","N","all used"," ","åst²º°õst²«{°}ps","MS",898
+"steps","SC5A","207.1","N","N"," "," ","st²«ps","MS",899
+"stairway","SC5A","207.1","N","N"," "," ","åst²º{°}õwe«º","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"staircase","SC5D!","207.3!","N","N"," "," ","åsteº{°}õkˆ`eº{°}s","MS",902
+"staircase","SC6N","N208","N","N"," "," ","åste«¾º°õk`e«º{°}s","MS",903
+"stairsteps","SC6N","N208","N","N"," "," ","åste«º°õst²«{°}ps","MS",903
+"stairsteps","SC6A","208.1","N","N"," "," ","åstá¾{°}õst²¾ps","MS",904
+"staircase","SC6B","208.2(*)","N","N"," "," ","åst²º°õkˆe«º{°}s","MS",905
+"stairsteps","SC6C!","208.3!","N","Y"," ","AUX","åst²º°õst²«ps","MS",906
+"stairs","SC6C!","208.3!","N","Y"," ","AUX","st²º°z","MS",906
+"steps","SC6D","208.2X","N","N"," "," ","st²«{°}ps","MS",907
+"stairway","SC6D","208.2X","N","Y"," ","NEW","åst²º°õweº{±¿}","MS",907
+"stairs","SC7N","N209","N","N"," "," ","steº°z","MS",908
+"steps","SC7N","N209","N","N"," ","CNV","st²«{°}ps","MS",908
+"steps","SC7A","209.1","N","N"," "," ","st²«{°}ps","MS",909
+"stairway","SC7A","209.1","N","Y"," ","SUG/HRD","åsteº°õwe«º","MS",909
+"passage","SC7A","209.1","N","Y"," ","INA","p`á½{°}s±¿dú","MS",909
+"stairs","SC7B","209.2","N","N"," "," ","st²«º°z","MS",910
+"stairway","SC7B","209.2","N","N"," "," ","åst²«º°õweº{±¿}","MS",910
+"stairs","SC7C!","209.3!","N","N"," "," ","steº°z","MS",911
+"stairs","SC7D!","209.4!","N","N"," "," ","ste½º°z","MS",912
+"stairsteps","SC7D!","209.4!","N","N"," "," ","åsteİ«¾º°õst²«{°}ps","MS",912
+"stairsteps","SC8A","210.1","N","N"," "," ","åst²º°õst²«{°}ps","MS",913
+"step ladder","SC8A","210.1","O","Y"," ","INA","åst³«{°}p$õlá½º{°}d°","MS",913
+"NR","SC8B","210.2"," ","N"," "," "," ","MS",914
+"stairway","SC8C","210.3","N","N"," "," ","åst²º{°}õwe«","MS",915
+"passageway","SC8C","210.3","N","Y"," ","INA","åp`a«º{°}s±¿¼dúõwe«º","MS",915
+"steps","SC9A","211.1","N","N"," "," ","st²«{°}ps","MS",916
+"downstairs","SC9A","211.1","N","Y"," ","INA/CNV","ådµ«¼ºonõst²«º°z","MS",916
+"stairsteps","SC9B","211.2","N","N"," "," ","åst²º{°}õst±½{°}ps","MS",917
+"stairs","SC9C!","211.3!","N","N"," "," ","st²º°z","MS",918
+"staircase","SC9D!","211.4!","N","N"," "," ","åste½º°õke«º{°}s","MS",919
+"stairs","SC10A","212.1","N","N"," "," ","steº°z","MS",920
+"stairway","SC10A","212.1","N","N"," "," ","åst²«º°õwe«º","MS",920
+"upstairs","SC10A","212.1","N","Y"," ","INA/CNV","å¥«pst²½º°z","MS",920
+"stairs","SC10B!","212.2!","N","N"," "," ","st²º°z","MS",921
+"pair of steps","SC10C!","212.3!","O","Y"," ","HRD/CNV","åp²º´$°«v$õst²«ps","MS",922
+"stairway","SC10C!","212.3!","N","N"," "," ","åst²º°õwe«º","MS",922
+"downstairs","SC10C!","212.3!","N","Y"," ","INA","ådµºonõst²º°z","MS",922
+"stairs","SC11N","N213","N","N"," "," ","ste½°½z","MS",923
+"staircase","SC11N","N213","N","N"," "," ","åste½°½õc‡e«{°}s","MS",923
+"steps","SC11M!","2n213!","N","N"," "," ","st²ps","MS",924
+"stairway","SC11M!","2n213!","N","Y","rare","HRD","åst²«º°õwe«º","MS",924
+"staircase","SC11M!","2n213!","N","Y","rare","HRD","åst±½º°õkˆ`e«º{°}s","MS",924
+"stairs","SC11M!","2n213!","N","N"," "," ","st²º°z","MS",924
+"steps","SC11A","213.1(*)","N","N","outside"," ","st²«ps","MS",925
+"stairs","SC11A","213.1(*)","N","N","inside; same [as staircase]"," ","st²º°z","MS",925
+"staircase","SC11A","213.1(*)","N","N","inside; same [as stairs]"," ","åst²º°õke«º{°}s","MS",925
+"staircase","SC11A","213.1(*)","N","Y"," ","AUX","st²½°kˆe{°}s","MS",925
+"pair of stairs","SC11A","213.1(*)","O","Y"," ","AUX/SUG","õpe½°$°İ$åste½°z","MS",925
+"stairs","SC11B","213.11","N","N"," ","CNV","ste½º°z","MS",926
+"flight of steps","SC11B","213.11","O","N"," "," ","fla±¿t$°$åst²ps","MS",926
+"steps","SC11B","213.11","N","N"," "," ","st²ps","MS",926
+"steps","SC11C","213.2","N","N"," "," ","st²¾ps","MS",927
+"stairway","SC11C","213.2","N","N"," "," ","åsteº°İõwe«º","MS",927
+"stairs","SC11D","213.3","N","N"," "," ","st²º°¾z","MS",928
+"step","SC11D","213.3","N","N"," "," ","st²«p","MS",928
+"stairway","SC11D","213.3","N","N"," "," ","åst²º°õwe«º","MS",928
+"staircase","SC11D","213.3","N","N","entire structure"," ","åst²«º°õk`e«º{°}s","MS",928
+"staircase","SC11D","213.3","N","N","entire structure"," ","åst±½º°õk`e«º{°}s","MS",928
+"downstairs","SC11D","213.3","N","Y"," ","INA","ådµ«º¹nõst²º´z{z}","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"stairs","SC11F","213.5","N","N"," "," ","ste«º{°}z","MS",930
+"stairsteps","SC11F","213.5","N","Y","""colored people¢","HRD","åsteº{°}õst²ps","MS",930
+"staircase","SC11F","213.5","N","N","in older houses"," ","åste«º°õk`e«ºs","MS",930
+"landing","SC11F","213.5","N","Y","wide square at foot of steps","INA","lá½nd±¿¼î","MS",930
+"steps","SC11F","213.5","N","N"," "," ","st²ps","MS",930
+"stairs","SC11G!","213.7!","N","N"," "," ","ste«º°z","MS",931
+"steps","SC11G!","213.7!","N","N"," "," ","st²ps","MS",931
+"staircase","SC11G!","213.7!","N","N","more elaborate"," ","åst²«º°õk`eºs","MS",931
+"stairway","SC11G!","213.7!","N","N","more elaborate"," ","åst²«º°õwe«º","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"staircase","SC11I!","213.9!","N","Y"," ","AUX","åste°kˆeºs","MS",933
+"stairs","SC11J!","213.10!","N","N"," "," ","st²½º°z{z}","MS",934
+"stairs","SC11J!","213.10!","N","N"," ","CNV","ste«º{°}z","MS",934
+"steps","SC11J!","213.10!","N","N"," "," ","st²«ps","MS",934
+"stairway","SC11J!","213.10!","N","N"," "," ","åst²º°we«º","MS",934
+"staircase","SC11J!","213.10!","N","N"," "," ","åst²«º°õke«ºs","MS",934
+"staircase","SC11J!","213.10!","N","N"," "," ","åst{j}²«º{°}õke«ºs","MS",934
+"staircase","SC12A","214.1","N","N"," "," ","åste½ºõc‡`e«ºs","MS",935
+"stairsteps","SC12B","214.2","N","N"," "," ","åste°st²ps","MS",936
+"stairs","SC13","213.6","N","N"," "," ","st²º°z","MS",937
+"flight of steps","SC14A","215.1","O","N"," "," ","fl¥±¿t$°$st²ps","MS",938
+"staircase","SC14A","215.1","N","N"," "," ","åsteİ°İ½õkˆe«{°}s","MS",938
+"stairs","SC14B","215.2","N","N"," "," ","st²º°z","MS",939
+"staircase","SC14B","215.2","N","N"," "," ","åst²º°õc‡`e«{°}s","MS",939
+"staircase","SC15A","216.1","N","N"," "," ","åste½º°õc‡e«ºs","MS",940
+"staircase","SC15A","216.1","N","N"," ","CNV","åste½º°õc‡eº{°}s","MS",940
+"stairways","SC15B","216.2","N","N"," "," ","åste½º°õwe«º{°}z","MS",941
+"ladder","SC15B","216.2","N","Y","""I use in mine¢","INA","láº{°}d°","MS",941
+"stairway","SC15C","216.3","N","Y"," ","NEW","åst²º°õwe«º","MS",942
+"ladder","SC15C","216.3","N","Y"," ","INA","lá½º{°}d°","MS",942
+"step ladder","SC15C","216.3","O","Y"," ","INA","åst²«{°}p$õláº{°}d°«¾","MS",942
+"steps","SC16N","N217","N","N"," "," ","st²«{°}ps","MS",943
+"upstairs","SC16N","N217","N","Y"," ","INA","õ¦½påst²«º°z","MS",943
+"staircases","SC16","217.1","N","N"," "," ","åst²«°İõkˆ{j}eºs±¿¼z","MS",944
+"staircases","SC16","217.1","N","N"," "," ","åstá°õkˆe{°}s±¿z","MS",944
+"staircases","SC16","217.1","N","N"," "," ","åstáº°õkˆe½ºs±¿z","MS",944
+"stairsteps","SC17A","218.1","N","N"," "," ","åst²«º´õst²«{°}ps","MS",945
+"stairsteps","SC17B","218.2","N","N"," "," ","åsteºõst²«{°}ps","MS",946
+"staircase","SC17C","218.3","N","N"," "," ","åst²º°õk`eº{°}s","MS",947
+"steps","SC17C","218.3","N","N"," ","CNV","st²«{°}ps","MS",947
+"stairsteps","SC17D","218.4","N","N"," "," ","åst²º°õst²«{°}ps","MS",948
+"staircase","SC17D","218.4","N","Y"," ","HRD","åst²º°õkˆ`eº{°}s","MS",948
+"stairs","SC17D","218.4","N","N"," "," ","st²º°z","MS",948
+"steps","SC18N","N219","N","Y","[-s]: doubtful","FDT","st²«{°}ps","MS",949
+"stairway","SC18N","N219","N","N"," "," ","åst±½º{°}õweº{±¿}","MS",949
+"stairs","SC18A","219.1","N","N"," "," ","st²«º{°}z","MS",950
+"steps","SC18A","219.1","N","N"," "," ","st²ps","MS",950
+"staircase","SC18A","219.1","N","N","we call it"," ","åst±½°õkˆ`e«º{°}s","MS",950
+"stairway","SC18A","219.1","N","N","is right; open bannister"," ","åst±½º{°}õwe«º","MS",950
+"stairs","SC18B","219.2","N","N"," "," ","st±½º°z","MS",951
+"steps","SC18B","219.2","N","N"," "," ","st²ps","MS",951
+"stairsteps","SC18B","219.2","N","N"," "," ","åst²«º°õst²«ps","MS",951
+"stairs","SC18C!","219.3(*)!","N","N"," "," ","ste«º{°}z","MS",952
+"steps","SC18C!","219.3(*)!","N","N"," "," ","st²ps","MS",952
+"stairway","SC18C!","219.3(*)!","N","N"," "," ","åst²½º°õweº","MS",952
+"staircase","SC18C!","219.3(*)!","N","N"," ","CNV","åste½º{°}õkˆ`e«º{°}s","MS",952
+"stairs","SC18D!","219.3X","N","N","""bannisters¢","CNV","steº{°}z","MS",953
+"bannisters","SC18D!","219.3X","N","Y"," ","INA/CNV","bá½n±¿¼st°«z","MS",953
+"stairstep","SC19N","N220","N","N"," "," ","õsteº°åst²½¾p","MS",954
+"steps","SC19A","220.1","N","N"," "," ","st²«ps","MS",955
+"stairs","SC19A","220.1","N","N"," "," ","ste½{°}z{z}","MS",955
+"stairway","SC19A","220.1","N","Y"," ","SUG/HRD","åst²«º°õweº","MS",955
+"pair of steps","SC19B","220.4","O","N","out in the yard"," ","p`²°$°$st²ps","MS",956
+"flight of stairs","SC19B","220.4","O","N"," "," ","fla±¿¼t$°v$st²«°z","MS",956
+"stairs","SC19C","220.2(*)","N","N"," "," ","steº°İz","MS",957
+"staircase","SC19C","220.2(*)","N","N"," "," ","åsteº°õkˆ`e«ºs","MS",957
+"stairs","SC19D!","220.3!","N","N"," "," ","st²º°z","MS",958
+"stairsteps","SC19D!","220.3!","N","N"," "," ","åst²º°õst²«ps","MS",958
+"steps","SC19E!","220.2X","N","N","in small house"," ","st²¾ps","MS",959
+"stairway","SC19E!","220.2X","N","N","elaborate"," ","åst²«º{°}we«º±¿«","MS",959
+"stairsteps","SC20A","221.1","N","N"," "," ","åstá«º°õst²«ps","MS",960
+"stairsteps","SC20B","221.2","N","N"," ","CNV","åstá´õst²«ps","MS",961
+"stairsteps","SC20B","221.2","N","N"," ","CNV","åstáº´õst²«ps","MS",961
+"stairway","SC20B","221.2","N","N"," ","CNV","åstá«º´õwe«{±¿}","MS",961
+"stairsteps","SC20C","221.3","N","N"," "," ","åstá«º°õst²«ps","MS",962
+"ladder","SC20C","221.3","N","Y"," ","INA","láº{°}d°","MS",962
+"stairway","SC20D!","221.4!","N","N"," "," ","åst²º°õweº{±¿}","MS",963
+"stairsteps","SC20D!","221.4!","N","N"," "," ","åst²º°õst²«{°}ps","MS",963
+"stairsteps","SC21A","222.1","N","N"," "," ","åstá¾°õst²«{°}ps","MS",964
+"stairsteps","SC21B","222.2","N","N"," "," ","åstá¾°õst²«{°}ps","MS",965
+"stairsteps","SC22N","N223","N","N"," "," ","åst{h}²°õst²ps","MS",966
+"stair","SC22A","223.1","N","N"," "," ","ste«º°","MS",967
+"steps","SC22A","223.1","N","N"," "," ","st²«{°}ps","MS",967
+"stairway","SC22B","223.2","N","N"," "," ","åst²«°õwe«º","MS",968
+"stairsteps","SC22B","223.2","N","Y","less [used]","SUG","åst²«°õst²ps","MS",968
+"stairway","SC22C!","223.3!","N","N"," "," ","åst²º°õweº","MS",969
+"stairs","SC22C!","223.3!","N","N"," "," ","st²º°z","MS",969
+"staircase","SC22C!","223.3!","N","N"," "," ","åst²º°õc‡`eº{°}s","MS",969
+"stairway","SC23A","224.1","N","N"," "," ","åst²º°õweº{±¿}","MS",970
+"stairway","SC23A","224.1","N","N"," ","CNV","åst²«º°õweº{±¿}","MS",970
+"stairs","SC23A","224.1","N","N"," "," ","st²º°z","MS",970
+"stairway","SC23B","224.2","N","N"," "," ","åstáº´¼õweº{°}","MS",971
+"NR","SC23C","224.3"," ","N"," "," "," ","MS",972
+"stairs","SC23D","224.4","N","N"," "," ","ste½º°z","MS",973
+"stairway","SC23D","224.4","N","N"," "," ","åst²º°õweº","MS",973
+"stairs","SC23E!","224.5!","N","N"," "," ","st²º°z","MS",974
+"stairsteps","SC23E!","224.5!","N","Y","""when they make 'em or build 'em¢","HRD","åst²º°õst²«{°}ps","MS",974
+"steps","SC24N","N225","N","N"," "," ","st²«{°}ps","MS",975
+"steps","SC24A","225.1","N","N"," "," ","st²ps","MS",976
+"flight of stairs","SC24A","225.1","O","N"," "," ","åfla¾ºt$°$åstá«°z","MS",976
+"pair of steps","SC24A","225.1","O","Y"," ","AUX","åpá$°õst²º{°}ps","MS",976
+"steps","SC24B","225.11","N","N","""a long time before we had 'em¢"," ","st²«{°}ps","MS",977
+"steps","SC24C","225.2","N","N"," "," ","st²«{°}ps","MS",978
+"steps","SC24D!","225.3!","N","N"," "," ","st²«{°}ps","MS",979
+"stairs","SC24D!","225.3!","N","N"," "," ","st²«º°z","MS",979
+"stairsteps","SC25A","226.1","N","N"," "," ","åstá½¾°õst²ps","MS",980
+"stairway","SC25B","226.2","N","N"," "," ","åstá«º{°}õwe«º","MS",981
+"stair","SC25C!","226.3!","N","N"," "," ","steº°","MS",982
+"stairway","SC25C!","226.3!","N","N"," "," ","åste°İõwe«º","MS",982
+"stairsteps","SC25C!","226.3!","N","N"," "," ","åste½º°õst²«ps","MS",982
+"flight of stairs","SC25C!","226.3!","O","N"," "," ","åflµ«±¿¼t$°v$õsteº°z","MS",982
+"stairsteps","SC26A","227.1","N","N"," "," ","åst²º°õst²«ps","MS",983
+"wood steps","SC26A","227.1","O","N"," "," ","åw¹¼{°}d$õst²«{°}ps","MS",983
+"staircase","SC26B!","227.2!","N","N"," "," ","åste½º°õkˆe«º{°}s","MS",984
+"pair of steps","SC26B!","227.2!","O","N"," "," ","åp²º$°$õst²«{°}ps","MS",984
+"NR","SC27A","228.1"," ","N"," "," "," ","MS",985
+"staircase","SC27B","228.2","N","N"," "," ","åst²º°õc‡e«º{°}s","MS",986
+"set of steps","SC28A","229.1","O","N"," "," ","õs²«t$°$åót²«{°}ps","MS",987
+"staircase","SC28B","217.2","N","N","regular or disappearing"," ","åst²º{°}õc‡e«º°s","MS",988
+"stairs","SC28C","229.2","N","N"," "," ","stá«º°z","MS",989
+"staircase","SC28C","229.2","N","N"," "," ","åst²º°õc‡e«ºs","MS",989
+"steps","SC28D","229.3","N","N"," "," ","st²«{°}ps","MS",990
+"stairway","SC28D","229.3","N","N"," "," ","åst²º°õwe«","MS",990
+"stairsteps","SC29A","230.2(*)","N","N"," "," ","åstá½¾º´st³İ¼ps","MS",991
+"stairway","SC29B","230.1(*)","N","N"," ","CNV","åst²½º°õwe«º","MS",992
+"staircase","SC29B","230.1(*)","N","N"," ","CNV","åst²½º°õc‡e«ºs","MS",992
+"steps","SC29C","230.3","N","N"," "," ","st²«{°}ps","MS",993
+"stairsteps","SC29C","230.3","N","N"," "," ","åstá«º°õst²«{°}ps","MS",993
+"NR","SC29D","230.2X"," ","N"," "," "," ","MS",994
+"staircase","SC29E","230.1X","N","N"," "," ","åsteº{°}ke«{°}s","MS",995
+"steps","SC29E","230.1X","N","N"," ","CNV","st²«{°}ps","MS",995
+"stairsteps","SC30A","231.1","N","N"," "," ","åstá°st²ps","MS",996
+"stairway","SC30B","231.2","N","N"," "," ","åstá½º°õwe«º±¿«¼","MS",997
+"steps","SC30B","231.2","N","N"," ","CNV","st²«ps","MS",997
+"stairs","SC30B","231.2","N","N"," "," ","stá½º°z","MS",997
+"stairs","SC30C!","231.3!","N","N"," "," ","stá«º°z","MS",998
+"stairsteps","SC31A","232.1","N","N","very few 2-story houses"," ","åstá«º°õst²«°ps","MS",999
+"a stairs","SC31B","232.2","O","N"," "," ","°$åstá«º´z","MS",1000
+"stairway","SC32A","233.1","N","N"," "," ","åste½º°õweº","MS",1001
+"staircase","SC32A","233.1","N","N"," "," ","åst²«º°õc‡`eº{±¿}s","MS",1001
+"stairstep","SC32A","233.1","N","N"," "," ","åst²«º°õst²«{°}p","MS",1001
+"staircase","SC32B","233.2","N","N"," "," ","åste½º°õc‡`e«ºs","MS",1002
+"staircase","SC32C","233.3","N","N"," "," ","åst²º°õc‡`eº±¿s","MS",1003
+"stairs","SC32D","233.4","N","N","all used"," ","st²«º°z","MS",1004
+"stairway","SC32D","233.4","N","N","all used"," ","åst²«º°õweº","MS",1004
+"stairsteps","SC32D","233.4","N","N","all used"," ","åst²«ºõst²«{°}ps","MS",1004
+"stairsteps","SC33A","234.1","N","N"," "," ","åstá°õst²«{°}ps","MS",1005
+"staircase","SC33B","234.2","N","N"," "," ","åstá«º°õc‡eº±¿¼s","MS",1006
+"stairway","SC33B","234.2","N","N"," "," ","åstá«º°õweº±¿¼","MS",1006
+"stairs","SC34A","235.1","N","N","few 2-story houses"," ","stá«º´¼z","MS",1007
+"stairway","SC34B","235.2","N","N"," "," ","åstá«º{°}õweº±¿¼","MS",1008
+"stairway","SC34B","235.2","N","N"," "," ","åstá«º°õweº±¿¼","MS",1008
+"stairway","SC34C","235.3","N","N"," "," ","åst²º°õweº±¾","MS",1009
+"staircase","SC34C","235.3","N","N","landing"," ","åst²º°õc‡`eº±¾s","MS",1009
+"stairsteps","SC35A","236.1","N","N"," "," ","åstá«º´¼õst²«{°}ps","MS",1010
+"flight of stairs","SC35B","236.2","O","N"," "," ","õfÅµ¼±¿t$°$åst²«º´¼z","MS",1011
+"stairway","SC35B","236.2","N","N"," "," ","åst²«º°õweº±¿¼","MS",1011
+"stairs","SC35C","236.3(*)","N","N"," "," ","stá½°z","MS",1012
+"stairsteps","SC35C","236.3(*)","N","N"," "," ","åstáº°õst²ps","MS",1012
+"stairway","SC35C","236.3(*)","N","N"," ","CNV","åstá°õwe{±¿}","MS",1012
+"NA","SC35D","236.2X"," ","N"," "," "," ","MS",1013
+"stairs","SC35E!","236.3X","N","N"," "," ","stáº´¼z","MS",1014
+"stairways","SC35E!","236.3X","N","N"," "," ","åstáº´¼õwe«º{±¿}z{z}","MS",1014
+"stairsteps","SC36A","237.1","N","N"," "," ","åstá«ºõst²«ps","MS",1015
+"stairsteps","SC36A","237.1","N","N"," ","CNV","åstŞºõst²«ps","MS",1015
+"stairway","SC36B","237.2","N","N"," "," ","åstá«º´õweº±","MS",1016
+"stairsteps","SC36B","237.2","N","Y"," ","AUX/CNV","åstµ«°õst±½ps","MS",1016
+"stairway","SC36C","237.3","N","N"," "," ","åsta«º°õwe«º","MS",1017
+"stairs","SC36C","237.3","N","N"," "," ","åsta«º°z{z}","MS",1017
+"stairsteps","SC36C","237.3","N","Y","used to say","OLD","åstá½º°õst²ps","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"stairs","SC37","238","N","N"," "," ","stá«´z","MS",1019
+"stairsteps","SC37","238","N","N"," "," ","åstá«°õst²ps","MS",1019
+"pair of stairs","SC37","238","O","N","= flight [of stairs]"," ","åp`á$°$åstá«°z","MS",1019
+"set of stairs","SC37","238","O","N","= flight [of stairs]","SIC","ås¸«t$°$åstá«°z","MS",1019
+"stairway","SC38N","N239","N","N"," "," ","åstá½º°õweº{±}","MS",1020
+"steps","SC38N","N239","N","N","""ladder¢","CNV","st²«ps","MS",1020
+"stairsteps","SC38N","N239","N","N"," "," ","åstáº°İst±İ½ps","MS",1020
+"ladder","SC38N","N239","N","Y"," ","INA","láº{°}d°«¾","MS",1020
+"steps","SC38A","239.1","N","N"," "," ","st²«ps","MS",1021
+"stairsteps","SC38A","239.1","N","Y","""some folks'd call 'em¢","HRD","åstá«º°õst±½ps","MS",1021
+"stairsteps","SC38B","239.2","N","N"," "," ","åstá½º{°}õst²«ps","MS",1022
+"stairs","SC38B","239.2","N","N"," "," ","stá½º{°}z","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"stairs","SC38D!","239.4(*)!","N","N"," "," ","stá«º°z","MS",1024
+"stairway","SC38D!","239.4(*)!","N","N"," "," ","åst²½º°õweº{±}","MS",1024
+"stairsteps","SC38D!","239.4(*)!","N","Y"," ","HRD","åstáº°õst²«ps","MS",1024
+"NA","SC38E!","239.4X"," ","N"," "," "," ","MS",1025
+"steps","SC39A","240.1","N","N"," ","CNV","st²«ps","MS",1026
+"stairway","SC39A","240.1","N","N"," "," ","åstá½º{°}õweº±¿«¼","MS",1026
+"stairsteps","SC39A","240.1","N","N"," "," ","åstá«ºõst²«ps","MS",1026
+"stairs","SC39B!","240.2!","N","N"," "," ","stá«º°İz","MS",1027
+"stairsteps","SC39B!","240.2!","N","N"," ","CNV","åstá«º°õst²«ps","MS",1027
+"stairsteps","SC39B!","240.2!","N","Y"," ","HRD","åstá½º°õst²ºps","MS",1027
+"stairs","SC39B!","240.2!","N","N"," "," ","stá½º°z","MS",1027
+"stairs","SC39B!","240.2!","N","N"," ","CNV","stáº°z","MS",1027
+"stairs","SC39B!","240.2!","N","N"," "," ","stá«º°«¼z","MS",1027
+"upstairs","SC39B!","240.2!","N","Y"," ","INA/CNV","¦½påstá«º±¿z","MS",1027
+"stairs","SC40A","241.1","N","N"," "," ","st²½¾º°z","MS",1028
+"stairsteps","SC40A","241.1","N","N"," "," ","åstá«º°õst²«ps","MS",1028
+"stairs","SC40B","241.2","N","N"," "," ","stá«º°z","MS",1029
+"stairway","SC40B","241.2","N","N"," "," ","åstá«¾º°õwe{i¿}","MS",1029
+"stairway","SC41A","242.1","N","N"," "," ","åstá½´õwe«º{±¿}","MS",1030
+"staircase","SC41B","242.2","N","N"," "," ","åstá«º{±¿}õk`e«º{i¿}s","MS",1031
+"stairsteps","SC41B","242.2","N","N"," "," ","åstá«º{²}õst±½¾ps","MS",1031
+"stairs","SC41B","242.2","N","N"," "," ","stá«º{±¿}z","MS",1031
+"steps","SC42N","N243","N","N"," "," ","st²«¾{°}ps","MS",1032
+"stairs","SC42N","N243","N","N"," "," ","stá«¾º°İz","MS",1032
+"staircase","SC42N","N243","N","N"," "," ","åstá«¾°õkˆ`e«º±¿¼z","MS",1032
+"landing","SC42N","N243","N","Y"," ","INA","láº{²}nd±¾î","MS",1032
+"step","SC42M","N243X","N","N"," "," ","st²«{°}p","MS",1033
+"steps","SC42M","N243X","N","N"," "," ","st²«{°}ps","MS",1033
+"stairsteps","SC42M","N243X","N","N"," "," ","åstá¾º°õst²«ps","MS",1033
+"staircase","SC42M","N243X","N","N"," "," ","åstá«¾º{°}õke«ºi¿”s","MS",1033
+"staircase","SC42A","243.1","N","N"," "," ","åstá«º°õkˆ{j}`e«º{±¿}s","MS",1034
+"stairsteps","SC42A","243.1","N","N"," "," ","åstá«º°õst²«ps","MS",1034
+"stairsteps","SC42A","243.1","N","N"," ","CNV","åstá½¾°õst²«¾ps","MS",1034
+"flight of stairs","SC42A","243.1","O","N"," ","CNV","åfla¾±¿t$°$stá½°z","MS",1034
+"stairs","SC42B!","243.2!","N","N"," "," ","stá«º°z","MS",1035
+"steps","SC42B!","243.2!","N","N"," "," ","st²«º{°}ps","MS",1035
+"stairway","SC42B!","243.2!","N","N","in big house"," ","åstáº°õwe¾ºi¿”¼","MS",1035
+"stairs","SC42C!","243.3!","N","N"," "," ","stá«º°z","MS",1036
+"stairway","SC42C!","243.3!","N","N"," "," ","åstá«°õwe{±¿}","MS",1036
+"steps","SC42C!","243.3!","N","N"," "," ","st²«¾{°}ps","MS",1036
+"stairsteps","SC42C!","243.3!","N","N"," "," ","åst²½°õst²«ps","MS",1036
+"stairway","SC42C!","243.3!","N","N"," "," ","åstá«{°}õweº{±¿½¼}","MS",1036
+"stairsteps","SC42C!","243.3!","N","N"," "," ","åstáº°õst²ps","MS",1036
+"NR","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"stairs","SC42E!","243.5!","N","N"," "," ","stá«º°z","MS",1038
+"steps","SC42E!","243.5!","N","N"," "," ","st²º{°}ps","MS",1038
+"stairway","SC42E!","243.5!","N","N"," "," ","åstá«º°õweº{±¿}","MS",1038
+"staircase","SC42E!","243.5!","N","N"," "," ","åstá«º°õkˆeº{±¿}s","MS",1038
+"NA","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"stairway","SC43B","244.2","N","N"," "," ","åst²½¾º´we«º{i¿¼}","MS",1040
+"stairway","SC43B","244.2","N","N"," ","CNV","åsta«ºwe«º±¿","MS",1040
+"stairway","SC43B","244.2","N","N"," ","CNV","åstá«°õwi½","MS",1040
+"stairs","SC43C","244.3","N","N"," "," ","st²½¾º°z","MS",1041
+"staircase","SC43C","244.3","N","N"," ","CNV","åst²½¾º±¿õkˆ`e«º{i¿}s","MS",1041
+"stairway","SC44A","245.1","N","N"," "," ","åstá¾º´õwe«º{i¿}","MS",1042
+"stairsteps","SC44A","245.1","N","N"," "," ","åstá½¾º°õst²«ps","MS",1042
+"stairsteps","SC44B","245.2","N","N"," "," ","åstá½º°İõst±½ps","MS",1043
+"stairsteps","SC44B","245.2","N","N"," "," ","åsta«º°õst²«ps","MS",1043
+"staircase","SC44B","245.2","N","N"," "," ","åstá½¾º°åk{j}e«ºi¿”s","MS",1043
+"stairs","GA1N","N246","N","N"," "," ","stá«°z","MS",1044
+"steps","GA1N","N246","N","N"," "," ","st²ps","MS",1044
+"staircase","GA1N","N246","N","N"," "," ","åst²«ºõke½ºs","MS",1044
+"ladder","GA1N","N246","N","Y"," ","INA","lá½{°}d°","MS",1044
+"steps","GA1A","246.1(*)","N","N"," "," ","st²{°}ps","MS",1045
+"stairsteps","GA1A","246.1(*)","N","N"," "," ","åstá½{°}õst²«ps","MS",1045
+"stairsteps","GA1A","246.1(*)","N","Y"," ","AUX","åstá«{°}´õst²ps","MS",1045
+"stairs","GA1B","246.11","N","N"," "," ","st²«ºz","MS",1046
+"stairs","GA1B","246.11","N","N"," "," ","st²«º°z","MS",1046
+"stairway","GA1B","246.11","N","N"," "," ","åst²«°õweº","MS",1046
+"staircase","GA1B","246.11","N","N"," "," ","åst²«°õkeºs","MS",1046
+"steps","GA1C","246.2","N","N"," ","CNV","st²{°}ps","MS",1047
+"steps","GA1C","246.2","N","N"," ","CNV","st²½{°}ps","MS",1047
+"stairs","GA1D","246.3","N","N"," "," ","st²º°z","MS",1048
+"steps","GA1D","246.3","N","N"," "," ","st²º{°}ps","MS",1048
+"stairs","GA1E","246.4","N","N"," ","CNV","stá½º°«z","MS",1049
+"stairs","GA1F!","246.5!","N","N"," "," ","steº°z","MS",1050
+"steps","GA1F!","246.5!","N","N"," "," ","st²½ps","MS",1050
+"staircase","GA1G!","246.6!","N","N"," "," ","åstá«º°õk`eº{±¿}s","MS",1051
+"upstairs","GA1G!","246.6!","N","Y"," ","INA/CNV","°½påst²º°z","MS",1051
+"stairs","GA1H!","246.7!","N","N"," "," ","st²½º°z","MS",1052
+"stairs","GA1H!","246.7!","N","N"," ","CNV","stá«º{°}z","MS",1052
+"stairway","GA1H!","246.7!","N","N"," "," ","åst²«{°}õwe«¾º{±¿«¼}","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"doorsteps","GA2A","247.1","N","N"," "," ","ådo¼º´¾õst²{°}ps","MS",1054
+"steps","GA2B","247.2","N","N"," "," ","st²«{°}ps","MS",1055
+"staircase","GA3A","248.1","N","N"," "," ","ste½°kˆe«{°}s","MS",1056
+"stairsteps","GA3A","248.1","N","Y"," ","SUG","åste½eõst²½ps","MS",1056
+"stairway","GA3B","248.2","N","N"," "," ","åst²º°õwe«º","MS",1057
+"stairsteps","GA3B","248.2","N","Y"," ","COR","åst²º{°}õst²«{°}ps","MS",1057
+"stairsteps","GA4N","N249","N","N"," "," ","åste°½st²ps","MS",1058
+"stairway","GA4A","249.1","N","N","""high falutin¢"," ","åste½º°õwe«","MS",1059
+"staircase","GA4A","249.1","N","N"," "," ","åste½ºõc‡eº{°}s","MS",1059
+"high falutin","GA4A","249.1","K","Y"," ","INA","õhµº±¿$f°ålu¼º'tn","MS",1059
+"stairs","GA4B","249.2","N","N"," "," ","ste½º°z","MS",1060
+"stairway","GA4C!","249.3!","N","N"," ","CNV","åsteºõwe«º","MS",1061
+"stairway","GA5A","250.1","N","N"," "," ","åste½¾º°õwe«º","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"staircase","GA5C","250.3","N","N"," "," ","åst²º{°}õc‡eº{°}s","MS",1064
+"staircase","GA5C","250.3","N","N"," "," ","åst²¾º°õc‡eº{°}s","MS",1064
+"staircase","GA5D!","250.4!","N","N"," "," ","åste½º°kˆeº°İs","MS",1065
+"steps","GA5D!","250.4!","N","N"," "," ","st²«{°}ps","MS",1065
+"stairsteps","GA5E!","250.5!","N","N"," "," ","åste½º°õst²«{°}ps","MS",1066
+"stairs","GA5E!","250.5!","N","Y"," ","NEW","ste½¾º°z","MS",1066
+"staircase","GA6A","251.1","N","N"," "," ","åsteº°õkeº{°}s","MS",1067
+"stairsteps","GA6A","251.1","N","N","""I call it¢"," ","åste½¾º°õst²«{°}ps","MS",1067
+"stairs","GA6B!","251.2!","N","N"," "," ","steº°z","MS",1068
+"stairway","GA6B!","251.2!","N","N"," "," ","åsteº°we«","MS",1068
+"stairs","GA6B!","251.2!","N","N"," ","CNV","ste½º°z","MS",1068
+"stairsteps","GA7","256","N","N"," "," ","åstá«º°õst²«{°}ps","MS",1069
+"steps","GA7","256","N","N","""stringers¢"," ","st²«{°}ps","MS",1069
+"upstairs","GA7","256","N","Y"," ","INA","å¦½{°}põstá«º°z","MS",1069
+"stringers","GA7","256","N","Y"," ","INA","stò±«{°}î°«¾z","MS",1069
+"stairsteps","GA8A","257.1","N","N"," "," ","åstá«º°õst±½{°}ps","MS",1070
+"stairs","GA8B","257.2","N","N"," "," ","st²º´¼z","MS",1071
+"stairsteps","GA8B","257.2","N","N"," "," ","åst²º°õst²º{°}ps","MS",1071
+"stairs","GA9A","257A.1","N","N","inside"," ","stá«´z","MS",1072
+"steps","GA9A","257A.1","N","N","outside"," ","st²«ps","MS",1072
+"stairsteps","GA9A","257A.1","N","N"," "," ","åstá«´õst²«ps","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"stairsteps","GA10A","258.1","N","N"," "," ","åstá«¾{°}rõst²«{°}ps","MS",1074
+"staircase","GA10B","258.2","N","N"," "," ","åst²º´õkˆe«{°}s","MS",1075
+"stairsteps","GA10B","258.2","N","N"," "," ","åst²º´õst²«ps","MS",1075
+"stairway","GA11N","N258A","N","N"," "," ","åstá½°õweº","MS",1076
+"stairs","GA11N","N258A","N","N"," "," ","stá«°z","MS",1076
+"steps","GA11N","N258A","N","N","outside"," ","st²«{°}ps","MS",1076
+"staircase","GA12A","259.1","N","N"," "," ","åst²«º´õk`eº{±¿}s","MS",1077
+"stairway","GA12A","259.1","N","N"," "," ","åst²º´¼õweº","MS",1077
+"steps","GA12A","259.1","N","N"," ","CNV","st²«ps","MS",1077
+"step","GA12A","259.1","N","N"," "," ","st²«p","MS",1077
+"stairway","GA12B!","259.2(.3)","N","N"," "," ","åst²°İõweº","MS",1078
+"steps","GA13A","260.1","N","N"," "," ","st²ps","MS",1079
+"stairsteps","GA13A","260.1","N","N"," "," ","åst²«°st²ps","MS",1079
+"stairstep","GA13B!","260.2!","N","N"," "," ","åst²º°õst²«{°}p","MS",1080
+"stairway","GA13B!","260.2!","N","N"," "," ","åstá«º°õwe«º","MS",1080
+"NR","GA14A","261.1"," ","N"," "," "," ","MS",1081
+"stairs","GA14B","261.3","N","N"," ","CNV","stá«º°z","MS",1082
+"staircase","GA14B","261.3","N","N"," ","CNV","åstá«º{°}õk`eº{±¿}s","MS",1082
+"steps","GA14B","261.3","N","N"," ","CNV","st²«{°}ps","MS",1082
+"stairway","GA14B","261.3","N","N"," "," ","åstá«º°õweº{±¿}","MS",1082
+"stairway","GA14C","261.2","N","N"," "," ","åst²º°õweº{±¿}","MS",1083
+"stairs","GA14C","261.2","N","N"," "," ","st²º°z","MS",1083
+"pair of steps","GA14C","261.2","O","N"," "," ","p`á|°$åst²«ps","MS",1083
+"stairsteps","GA15A","262.1","N","N"," "," ","åstá°st²{°}ps","MS",1084
+"NR","GA15B","262.2"," ","N"," "," "," ","MS",1085
+"stairsteps","GA16A","263.2","N","N"," "," ","åstá«º{°}õst²«¾{°}ps","MS",1086
+"stairsteps","GA16A","263.2","N","N"," "," ","åst²º°õst²«¾{°}ps","MS",1086
+"stairsteps","GA16B","263.1","N","N"," "," ","åst²½°õst²«ps","MS",1087
+"stair railing","GA16B","263.1","O","N"," "," ","åst²½º°$õre«ºl±¿¼n","MS",1087
+"stairsteps","GA16B","263.1","N","N"," ","CNV","åst²º°õst²«ps","MS",1087
+"steps","GA16C","263.21","N","N","in or out"," ","st²º{°}ps","MS",1088
+"stairs","GA16C","263.21","N","N","in"," ","stá«º{°}z","MS",1088
+"landing","GA16D!","263.3!","N","Y","[áº]: doubtful","INA/DDT","láº{²}nd±¿¼î","MS",1089
+"steps","GA16D!","263.3!","N","N"," "," ","st²«{°}ps","MS",1089
+"staircase","GA16D!","263.3!","N","N"," "," ","åstá«º°õc‡e«ºs","MS",1089
+"bannister","GA16D!","263.3!","N","Y"," ","INA/SIC","ba«n±¿st°","MS",1089
+"flight of stairs","GA17N","N264","O","N","never heard `a pair of stairs'"," ","åfla«¾{±¿}t°$õstá«°z","MS",1090
+"upstairs","GA17N","N264","N","Y"," ","INA","¸«¼påstá«°z","MS",1090
+"stairs","GA17","264","N","N"," "," ","stá°z","MS",1091
+"steps","GA17","264","N","N"," "," ","st²ps","MS",1091
+"flight of stairs","GA17","264","O","N","heard `pair of stairs', but it's not common"," ","åflaº±¿t$stá°z","MS",1091
+"stairway","GA18A","264A.1","N","N","in or out"," ","åstá«´õweº{±¿}","MS",1092
+"stairs","GA18B","264A.2","N","N"," "," ","stá«´z","MS",1093
+"stairs","GA18B","264A.2","N","N"," "," ","steº{±¿}´z","MS",1093
+"stairs","GA18B","264A.2","N","N"," "," ","ste½´z","MS",1093
+"stairsteps","GA19A","265.1","N","N"," "," ","åstá«º´õst±¼{°}ps","MS",1094
+"stairsteps","GA19B","265.2","N","N"," "," ","åst²º´õst±½{°}ps","MS",1095
+"stairsteps","GA20A","266.1","N","N"," "," ","åstá«º´¼õst²«{°}ps","MS",1096
+"stairway","GA20B","266.2","N","N"," "," ","åst²½º´İõwe«º","MS",1097
+"step","GA21A","267.1","N","N"," "," ","st²º{°}p","MS",1098
+"stairway","GA21A","267.1","N","N"," "," ","åstá«°õwe½±¿","MS",1098
+"stairsteps","GA21B","267.2","N","N"," "," ","åstáº°õst²«ps","MS",1099
+"stairway","GA22A","268A.1","N","N"," "," ","åstá«°õweº{±¿}","MS",1100
+"flight","GA22A","268A.1","N","N"," "," ","fla«±¿t","MS",1100
+"stairsteps","GA22B","268A.2","N","N"," "," ","åstá«º°õst²«{°}ps","MS",1101
+"stair","GA22B","268A.2","N","N"," "," ","stá«º°","MS",1101
+"staircase","GA22B","268A.2","N","N"," "," ","åstá«º°«õc‡eº{±¿}s","MS",1101
+"staircase","GA23A","268.1","N","N","to attic"," ","åstá«º°õc‡e«ºs","MS",1102
+"pair of steps","GA23A","268.1","O","N"," ","CNV","åpá«º|°$åst²«{°}ps","MS",1102
+"stairway","GA23B","268.11","N","N"," "," ","åstá°õweº{±¿}","MS",1103
+"steps","GA23B","268.11","N","N","outside"," ","st²ps","MS",1103
+"steps","GA23B","268.11","N","N","outside","CNV","st²{°}ps","MS",1103
+"stairs","GA23C","268.2","N","N"," "," ","stá«{±¿}°z","MS",1104
+"steps","GA23C","268.2","N","N","outside"," ","st²ps","MS",1104
+"stairway","GA23D!","268.3","N","N"," "," ","åst²«º°õwe«º{±¿}","MS",1105
+"stairs","GA23E!","268.4!","N","N"," "," ","stá°z","MS",1106
+"stairs","GA23F!","268.5!","N","N"," "," ","stá«°z","MS",1107
+"steps","GA23F!","268.5!","N","N","out"," ","st²«ps","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"stairsteps","GA24A","269.1","N","N"," "," ","åstá°õst²{°}ps","MS",1109
+"stairsteps","GA24B","269.2","N","N"," "," ","åstá«º°õst²«ps","MS",1110
+"stair","GA25N","N269A","N","N","= stairway","SIC","st²°","MS",1111
+"upstairs","GA25N","N269A","N","Y"," ","INA","¸«¼påst²°z","MS",1111
+"stairs","GA26","270A","N","N"," "," ","stá«°z","MS",1112
+"stairway","GA26","270A","N","N"," "," ","åstá«°õwe{±¿}","MS",1112
+"steps","GA27!","270!","N","N"," "," ","st²ps","MS",1113
+"stairs","GA27!","270!","N","N","never heard `pair of stairs'"," ","stá«º°z","MS",1113
+"stairway","GA28","271a","N","N"," "," ","åstá°İõweİ","MS",1114
+"steps","GA29A","271.1","N","N"," ","CNV","st²«{°}ps","MS",1115
+"stairway","GA29B","271.2","N","N"," "," ","åst²º°õwe«º{±¿}","MS",1116
+"upstairs","GA29B","271.2","N","Y"," ","INA","õ¸«påst²º{j}°«z","MS",1116
+"stairsteps","GA30A","272.1(*)","N","N"," "," ","åstá«º°õst²«{°}ps","MS",1117
+"pair of steps","GA30A","272.1(*)","O","N"," "," ","åpá«°$õst²«{°}ps","MS",1117
+"stairway","GA30B","272.2(*)","N","N"," "," ","åstá½º°õweº{±¿«¼}","MS",1118
+"stairs","GA30C!","272.3!","N","N"," "," ","stá«º°z","MS",1119
+"stairs","GA30C!","272.3!","N","N"," "," ","st¶«º´z","MS",1119
+"upstairs","GA30C!","272.3!","N","Y","Across the river, in Goose Point, they used to say it was the only place where people went up the ""stairs¢ to see the ""stars¢","AUX/INA","¸«påstµ¾º°z","MS",1119
+"stars","GA30C!","272.3!","N","Y"," ","INA","stáº{²}z","MS",1119
+"stairsteps","GA30D","272.1X","N","N"," ","CNV","åstáº°õst²«{°}ps","MS",1120
+"NA","GA30E","272.2X"," ","N"," "," "," ","MS",1121
+"stairway","GA31","272A","N","N","up, inside"," ","åst²°õwe½±¿","MS",1122
+"steps","GA31","272A","N","N","outside"," ","st²º{°}ps","MS",1122
+"stairs","GA32","272B","N","N"," "," ","stá«º°z","MS",1123
+"stairs","GA33A","272C1","N","N"," "," ","stá«{±¿}°½z","MS",1124
+"stairway","GA33B","272C2","N","N"," "," ","åstá«´õwe{±¿}","MS",1125
+"stairsteps","GA34N","N273","N","N"," "," ","åst²½º{°}õst²«ps","MS",1126
+"stairs","GA34N","N273","N","N"," ","CNV","st²«º°z","MS",1126
+"stairsteps","GA34A","273.1","N","N"," "," ","åstáº°õst²«{°}ps","MS",1127
+"stairway","GA34B","273.2","N","N"," "," ","åstá«°õweº{±¿}","MS",1128
+"stairsteps","GA35N","N273A","N","N"," "," ","åstá°õst²ps","MS",1129
+"steps","GA35N","N273A","N","N"," "," ","st²{°}ps","MS",1129
+"stairs","GA35N","N273A","N","N"," "," ","stáº°z","MS",1129
+"stairs","GA36N","N274A","N","N"," "," ","stá«°z","MS",1130
+"stairsteps","GA36N","N274A","N","N","in"," ","åstá°õst±½{°}ps","MS",1130
+"steps","GA36N","N274A","N","N","out"," ","st²«ps","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"stairs","GA37M!","NC274","N","N"," "," ","stáº°z","MS",1132
+"stairway","GA37M!","NC274","N","N"," "," ","åstáº°õwe±¿","MS",1132
+"stairs","GA37A","274.1","N","N"," "," ","stá«º´z","MS",1133
+"stairway","GA37A","274.1","N","N"," "," ","åstáº´õweº±¿","MS",1133
+"stairway","GA37B","274.2","N","N"," "," ","åstáº°õweº±","MS",1134
+"stairway","GA37B","274.2","N","Y","brother","AUX","åsta¾º°õweº±","MS",1134
+"stairsteps","GA37B","274.2","N","N"," ","CNV","åstá«º°İõst²«{°}ps","MS",1134
+"stairs","GA37C","274.21","N","N","same [as steps]"," ","stá«´s","MS",1135
+"stairs","GA37C","274.21","N","N","same [as steps]"," ","stá«°z","MS",1135
+"steps","GA37C","274.21","N","N","same [as stairs]"," ","st²«ps","MS",1135
+"flight of steps","GA37D!","274.7!","O","N"," "," ","åfla¾±¿t°$õst²º{°}ps","MS",1136
+"stairs","GA37D!","274.7!","N","N"," "," ","stá«º°z","MS",1136
+"steps","GA37D!","274.7!","N","N"," "," ","st²º{°}ps","MS",1136
+"stairs","GA37E!","274.8!","N","N","indoors"," ","stá«º°«s","MS",1137
+"stairs","GA37E!","274.8!","N","N","indoors"," ","stá«º°z","MS",1137
+"steps","GA37E!","274.8!","N","N","out"," ","st²{°}ps","MS",1137
+"stairway","GA37F!","274.3!","N","N"," "," ","åstá«º°õwe«º","MS",1138
+"staircase","GA37G!","274.4!","N","N"," "," ","åstá½º±¿½õkˆ`eº±¾s","MS",1139
+"stairsteps","GA37G!","274.4!","N","N"," "," ","åstá«º°½õst²«ps","MS",1139
+"stairway","GA37H!","274.5!","N","N"," ","CNV","åstá«°õweº{±¿}","MS",1140
+"stairs","GA37H!","274.5!","N","N"," "," ","stá«°z","MS",1140
+"steps","GA37I!","274.6!","N","N"," ","CNV","st²º{°}ps","MS",1141
+"stairway","GA37I!","274.6!","N","N"," "," ","åstá«°õwe±¿","MS",1141
+"NR","GA38","275"," ","N"," "," "," ","MS",1142
+"steps","GA39","275A","N","N"," "," ","st²ps","MS",1143
+"stairs","GA39","275A","N","N"," "," ","st²´z","MS",1143
+"stairsteps","GA40","276A","N","N"," "," ","åsta«´õst²ps","MS",1144
+"doorsteps","GA40","276A","N","N"," "," ","ådo¼°õst²ºps","MS",1144
+"stairsteps","GA40","276A","N","N"," "," ","åstá«´õst²ps","MS",1144
+"steps","GA41","276B","N","N"," "," ","st²«ps","MS",1145
+"stairsteps","GA41","276B","N","N"," "," ","åstá«´õst²«{°}ps","MS",1145
+"ladder","GA41","276B","N","Y"," ","INA","lá«d´","MS",1145
+"ladder","GA42A","276.1","N","Y"," ","INA","láºd´«","MS",1146
+"ladder","GA42A","276.1","N","Y","[á]: doubtful; [±¿]: certain","INA/DDT/SIC","láºd±¿","MS",1146
+"steps","GA42A","276.1","N","N"," "," ","st²¼{°}ps","MS",1146
+"ladder","GA42B","276.2","N","Y"," ","INA","láº{°}d´","MS",1147
+"stairsteps","GA42B","276.2","N","N"," "," ","åstáº´õst²«{°}ps","MS",1147
+"stairsteps","GA43","277","N","N"," "," ","åstá½¾´õst²«ps","MS",1148
+"stairsteps","GA44A","278.1","N","N"," "," ","åstáº´õst²«ps","MS",1149
+"steps","GA44B","278.2","N","N"," "," ","st²«ps","MS",1150
+"stairs","GA44B","278.2","N","N"," "," ","stáº´z","MS",1150
+"stairway","GA44C","278.3","N","N"," "," ","åstáº´õwe«º{±¿}","MS",1151
+"stair","GA44C","278.3","N","N"," ","CNV","staº´","MS",1151
+"stairway","GA44C","278.3","N","N"," "," ","åstáº°õweº{±¿}","MS",1151
+"steps","GA44D","278.4","N","N","""some folks may have¢"," ","st²«ps","MS",1152
+"ladder","GA44D","278.4","N","Y"," ","INA","láº{²}d´","MS",1152
+"stairs","GA44E","278.5","N","N"," "," ","stá«´z","MS",1153
+"steps","FL1","252","N","N"," "," ","st²«{°}ps","MS",1154
+"stairsteps","FL2A","253.1","N","N"," "," ","åst²º°õst²«{°}ps","MS",1155
+"stairs","FL2B","253.2","N","N"," "," ","stáº°z","MS",1156
+"stairs","FL2C!","253.3!","N","N"," ","SIC","stá«º{j}°«z","MS",1157
+"staircase","FL2C!","253.3!","N","N"," "," ","åst²º°õkˆeº{°}s","MS",1157
+"stairs","FL3A","254.1","N","N"," "," ","stá«º°z","MS",1158
+"stairway","FL3B!","254.2!","N","N"," "," ","åst²º°õwe«º","MS",1159
+"steps","FL4","254A","N","N","outside, porch to ground"," ","st²«{°}ps","MS",1160
+"stairs","FL4","254A","N","N"," "," ","stá«º°z","MS",1160
+"stairway","FL5A","255.1","N","N"," "," ","åst²º°õwe«º","MS",1161
+"stairs","FL5B","255.2","N","N"," "," ","st²º°z","MS",1162
+"","","","","","","","","",

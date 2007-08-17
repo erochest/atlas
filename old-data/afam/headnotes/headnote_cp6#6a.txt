@@ -1,0 +1,13 @@
+northwest (cp6#6a.asc)
+
+Items
+=====
+                              north    6
+                          northerly    1
+                           northern    8
+                      northern neck    2
+                          northwest   26
+                     northwest wind    1
+                        northwester    2
+                                 NR   38
+

@@ -1,0 +1,112 @@
+stairs (cl10#6.asc)
+
+Items
+=====
+                   flight of stairs    2
+                             ladder    2
+                            landing    1
+                                 NR   25
+                              stair    1
+                        stair steps    7
+                          staircase    5
+                             stairs   11
+                          stairstep    1
+                         stairsteps   17
+                           stairway    9
+                              steps   20
+                    strand of beads    1
+                           upstairs    3
+
+Pronunciations
+==============
+              fla¼º±¿½t$°v$st²{±¿}z    1
+                     ste½°½c‡e«{°}s    1
+                            ste½°½z    1
+                       steİ½°st²«ps    1
+                         st²«°st²ps    1
+                            st²«º°z    1
+                               st²°    1
+                             st²º°z    1
+                            st²½°z    1
+                       st²¾°õst²«ps    1
+                         stµ«{°}weº    1
+                         stµº$st²ps    1
+                      stµºst²«{°}ps    1
+                         stá°st²«ps    1
+                      stá°st²«{°}ps    1
+                           stá°we±¾    1
+                        stá°st²«ps    1
+                             stáº°z    2
+                    stáº°«st²«{°}ps    1
+                         stá¾rst²ps    1
+                          stá¾rwe«º    1
+                         ¸«¼påst²°z    1
+                        ¸«¼påstá«°z    1
+             åfla«¾{±¿}t$°$õstá«°z    1
+                  åste«º°õst²«{°}ps    1
+                 åste«¾º°õk`e«º{°}s    1
+                        åste°½st²ps    1
+                            åsteº°z    1
+                     åsteİ½°õst²«ps    1
+                 åsti½º°õkˆ`e«º{°}s    1
+                      åst{h}²°st²ps    1
+                   åst±½º{°}õweº{±}    1
+                       åst²«°õst²ps    1
+                       åst²«º°õwe«º    1
+                       åst²«ºõke½ºs    1
+                    åstµ«¼{°}st²«ps    1
+                  åstµ«¼º{°}we½{±¿}    1
+                      åstµ¾ºõst²«ps    1
+                            åstá«°z    2
+                     åstá«º°õst²«ps    1
+                 åstá«¾°õkˆ`e«º±¿¼s    1
+                        åstá«¾º°İz    1
+                    åstá°õst±½{°}ps    1
+                        åstá°õst²ps    1
+                     åstáº{°}õst²ps    1
+                            åstáº°z    1
+                     åstáº°İst±İ½ps    1
+                     åstáº°İõst²«ps    1
+                        åstáº°õwe±¿    1
+                       åstáº°õw{e}º    1
+                      åstá½º°weº{±}    1
+                      õsteº°åst²½¾p    1
+                  õstá½º°åst²«{°}ps    1
+                       õ¦½påst²«º°z    1
+
+
+
+
+L: How do you get from the first floor up to the second floor in a two-story 	house?  Would you use a different term for those inside of the house and 	for the outside?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 10#6, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 10 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted: 
+
+Handbook	Preliminary Worksheets
+----------------------------------
+10#Pa		10#3
+10#Pb		10#6
+10#1		10#1
+10#2		10#2
+10#3 SM	
+10#4a		10#4
+10#4b		10#4
+10#5		10#5
+		10#7
+10#6
+10#7		10#8
+10#8 X
+10#9 X

@@ -1,0 +1,1462 @@
+"gutters","NY1","50","N","N"," "," ","g¸t°«z","MS",1
+"gutters","NY2A","51.1","N","N"," "," ","g¸«t°z","MS",2
+"gutters","NY2B","51.2","N","N"," "," ","g¸t°z","MS",3
+"eaves troughs","NY2B","51.2","O","Y","rare","SUG","ijv$tr·ºùs","MS",3
+"gutters","NY2C","51.3","N","N"," "," ","g¸t°z","MS",4
+"gutters","NY3A","401","N","N"," "," ","g¸¼ñ´z","MS",5
+"gutters","NY3B","403","N","N"," "," ","g¸¼ñ°z","MS",6
+"gutters","NY3C","402","N","N"," "," ","g¸¼ñ´z","MS",7
+"gutters","NY3D","404","N","N"," "," ","g¸¼ñ°«z","MS",8
+"gutters","NY4A","405","N","N"," "," ","g¸½ñ°«z","MS",9
+"leaders","NY4B","407","N","N"," "," ","liºd°z","MS",10
+"gutters","NY4C","408","N","N"," "," ","g¸½ñ°z","MS",11
+"gutters","NY5A","409","N","N"," "," ","g¸t°z","MS",12
+"water drains","NY5B","410","O","N"," "," ","åw·ºñ°$õdòe±¿nz","MS",13
+"gutters","NY5C","411","N","N"," "," ","g¸«¼t°İ«z","MS",14
+"gutters","NY5D","412","N","N"," "," ","g¸¼ñ°«z","MS",15
+"gutters","NY5E","413","N","N"," "," ","g¸¼t°«z","MS",16
+"gutters","NY5F","414","N","N"," "," ","g¸¼ñ°z","MS",17
+"gutter","NY5G","415","N","N"," "," ","g¸«¼ñ°","MS",18
+"gutters","NY5H!","416!","N","N"," "," ","g¸t°«z","MS",19
+"gutters","NY5I!","417!","N","N"," "," ","g¸ñ°z","MS",20
+"gutters","NY6A","418","N","N"," "," ","g¸«¼ñ°z","MS",21
+"gutters","NY6B","419","N","N"," "," ","g¸¼ñ°z","MS",22
+"gutters","NY7A","420","N","N"," "," ","g¸¼ñ°«z","MS",23
+"gutters","NY7B","421","N","N"," "," ","g¸¼ñ°z","MS",24
+"gutter","NY7C","422","N","N"," "," ","g¸«¼ñ°","MS",25
+"gutter","NY7D","423","N","N"," "," ","g¸½t°","MS",26
+"gutters","NY7E","424","N","N"," "," ","g¸¼ñ°«z","MS",27
+"gutters","NY7F","425","N","N"," "," ","g¸`ñ°z","MS",28
+"gutters","NY7G","426","N","N"," "," ","g¸¼t°z","MS",29
+"gutter","NY7H","427","N","N"," "," ","g¸«¼t°","MS",30
+"gutters","NY7I","428","N","N"," "," ","g¸¼`ñ°z","MS",31
+"gutters","NY7J!","429!","N","N"," "," ","g¸¼ñ°z","MS",32
+"gutters","NY7K!","430!","N","N"," "," ","g¸ñ°z","MS",33
+"gutters","NY7L!","431!","N","N"," "," ","g¸`ñ°z","MS",34
+"gutters","NY7M!","432!","N","N"," "," ","g¸¼ñ°z","MS",35
+"gutters","NY8","432b","N","N"," "," ","g¸«¼`ñ°z","MS",36
+"gutters","NY9A","432c","N","N"," "," ","g¸`ñ´z","MS",37
+"gutters","NY9B","433","N","N"," "," ","g¸«¼ñ´z","MS",38
+"gutters","NY9C","434","N","N"," "," ","g¸`ñ°z","MS",39
+"gutter","NY10A","435","N","N"," "," ","g¸¼ñ´","MS",40
+"gutters","NY10B!","436!","N","N"," "," ","g¸¼`ñ´z","MS",41
+"gutters","NY11","438","N","N"," "," ","g¸`ñ´z","MS",42
+"gutters","NY12A","439(*)","N","Y","modern only","NEW","g¸ñ´z","MS",43
+"eaves troughs","NY12A","439(*)","O","N"," "," ","iºv$tò·º{°}äz","MS",43
+"eaves troughs","NY12A","439(*)","O","N"," "," ","åiºvz$õtò·ºäz","MS",43
+"gutters","NY12B","440","N","N"," "," ","g¸¼ñ´z","MS",44
+"gutters","NY12C!","441!","N","N"," "," ","g¸¼ñ°İz","MS",45
+"gutter","NY13A","443","N","N"," "," ","g¸ñ´","MS",46
+"gutters","NY13B!","444!","N","N"," "," ","g¸¼ñ°z","MS",47
+"gutters","NY14A","445","N","Y","modern only","NEW","g¸¼ñ´z","MS",48
+"eaves troughs","NY14A","445","O","N"," "," ","iºv{z}$tr¶«º{°}vz","MS",48
+"gutters","NY14B","446","N","N"," "," ","g¸¼ñ´z","MS",49
+"gutters","NY15A","447","N","N"," "," ","g¸ñ´z","MS",50
+"eaves troughs","NY15A","447","O","N"," "," ","iºvz$tò¶«º{°}äz","MS",50
+"eaves troughs","NY15B","448","O","N"," "," ","iºv$tò¶«º{°}äz","MS",51
+"gutters","NY16A","449","N","N"," "," ","g¸¼t°z","MS",52
+"gutters","NY16B","450","N","N"," "," ","g¸ñ´z","MS",53
+"gutters","NY17A","451(*)","N","N"," "," ","g¸ñ´z","MS",54
+"gutters","NY17B","452","N","N"," "," ","g¸ñ´z","MS",55
+"eaveas troughs","NY18A","453","O","N"," "," ","åiºv$õtò¶«ºfs","MS",56
+"gutters","NY18B","454","N","N"," "," ","g¸¼ñ´z","MS",57
+"gutters","NY18C!","455!","N","N"," "," ","g¸«¼ñ°«z","MS",58
+"gutter","NY19","456","N","N"," "," ","g¸ñ´","MS",59
+"eaves troughs","NY20A","457","O","N"," "," ","iºv$tò·½º{°}äz","MS",60
+"gutter","NY20B","458","N","N"," "," ","g¸ñ´","MS",61
+"gutters","NY21","459","N","N"," "," ","g¸ñ´z","MS",62
+"eaves troughs","NY21","459","O","N"," "," ","åiºvz$õtò¶«º{°}äz","MS",62
+"eaves troughs","NY22","460","O","N"," "," ","iºv$tò·½º{°}äz","MS",63
+"gutters","NY22","460","N","N","natural"," ","g¸¼ñ´z","MS",63
+"eaves troughs","NY23A","461","O","N"," "," ","åi½iv$õtò¶”{°}ù","MS",64
+"eaves troughs","NY23A","461","O","N"," "," ","åi½iv$õtò¶«º{°}äz","MS",64
+"eaves troughs","NY23B","462a","O","N"," "," ","åiºvz$õtòŞ½{°}ù","MS",65
+"eaves troughs","NY23B","462a","O","N"," "," ","åi½ivz$õtò¶”¼{°}äz","MS",65
+"gutter","NY23C","462b","N","N"," "," ","g¥«¾ñ´«¾","MS",66
+"alleyway","NY23C","462b","N","N","on flat roofs","CNV","åá«l±¿¼õweº±¿¼","MS",66
+"eaves troughs","NY23C","462b","O","N"," "," ","åi½i«$õtò·½º{°}äz","MS",66
+"leader","NY23C","462b","N","N"," ","CNV","li½ºj{d}´","MS",66
+"eaves troughs","NY24A","463","O","N"," "," ","åiºv$õtò¶«º{°}äz","MS",67
+"eaves troughs","NY24B!","464!","O","N"," "," ","iºvz$tò¶«º{°}äz","MS",68
+"eaves spout","NY25A","465","O","N"," "," ","å±«ºiv$õsp³¼¹t","MS",69
+"eaves spout","NY25B","466","O","N"," "," ","åiºv$õspµ¹t","MS",70
+"eaves trouhgs","NY26A","467","O","N"," "," ","åi½ºiv$õtò·½ºù—s","MS",71
+"eaves trough","NY26B","468","O","N","""we didn't have¢"," ","åi½º{i}v$õtò¶{°}f","MS",72
+"eaves troughs","NY26C","469","O","N","two boards,V-shaped"," ","åiºv$õtò¶”«¼{°}ùs","MS",73
+"eaves spouts","NY27A","470","O","N","not on roof"," ","åiºv$õsp³¾¹ts","MS",74
+"eaves spouts","NY27B","471","O","N"," "," ","åiº{j}v$sp²¹ts","MS",75
+"eaves spouts","NY27C","472","O","N"," "," ","åiº{j}v$õspµ«¹ts","MS",76
+"eaves spoutss","NY28A","473a","O","N"," "," ","åiºv$õsp¥¹ts","MS",77
+"eaves troughs","NY28B","473b(*)","O","N"," "," ","åiºv$õtò¶ºvz","MS",78
+"eaves trough","NY28C","473bX","O","Y"," ","SUG","åiºvz$õtò¶«f","MS",79
+"eaves spouts","NY29A","474a","O","N"," "," ","åiºv$õsp¥¼¹ts","MS",80
+"eaves spout","NY29B","474b","O","N"," "," ","åiºv$õspµ¹t","MS",81
+"spout","NY29B","474b","N","N"," "," ","spµ¹t","MS",81
+"eaves spouts","NY29C","474c","O","N"," "," ","åiºv$õspá½¾¹ts","MS",82
+"eaves spouts","NY30A","475a","O","N"," "," ","åiºv$õsp²¾¹ts","MS",83
+"eaves trough","NY30B","475b","O","N"," "," ","åiºv$õtò·½f","MS",84
+"conductor","NY30B","475b","N","Y"," ","HRD","k°İ½nåd¸kt´","MS",84
+"eaves troughs","NY30C","475c","O","N"," "," ","åiºv$õtò·½º{°}fs","MS",85
+"eaves spouts","NY30D","475d","O","N"," "," ","åiºv$õsp²—¾¹ts","MS",86
+"eaves spouts","NY30E","475e","O","N"," "," ","åiºö$õsp¥¼¹ts","MS",87
+"eaves troughs","NY31A","478a","O","N"," "," ","åi½v$õtò·½ºäz","MS",88
+"eaves trough","NY31A","478a","O","N"," "," ","åi½v$õtò·½ù","MS",88
+"trough","NY31A","478a","N","N"," "," ","tò·½ù","MS",88
+"eaves troughs","NY31B","478b","O","N"," "," ","åi½vz$õtò¶ºäz","MS",89
+"eaves troughs","NY32A","479a","O","N"," "," ","åi½v$õtò¶{°}fs","MS",90
+"eaves troughs","NY32A","479a","O","N"," "," ","åi½v$õtò·½fs","MS",90
+"trough","NY32B","479b","N","N"," "," ","tò¶«º{°}ù","MS",91
+"spout","NY32B","479b","N","N"," "," ","sp¥«¹t","MS",91
+"eaves troughs","NY33A","480","O","N"," "," ","åiºvz$õtòŞ¼º{°}äz","MS",92
+"eaves trough","NY33A","480","O","N"," "," ","åiºvz$õtòŞ¼º{°}ù","MS",92
+"NR","NY33B","481"," ","N"," "," "," ","MS",93
+"eaves troughs","NY33C","482","O","N"," "," ","i½iv$tò·½ºäz","MS",94
+"troughs","NY33C","482","N","N"," "," ","tò·½ºäz","MS",94
+"eaves","NY34A","483","N","N"," "," ","i½ivz","MS",95
+"eaves troughs","NY34B","484","O","N"," "," ","åi½iv$õtò¶«¼fs","MS",96
+"eaves troughs","NY34C","485","O","N"," "," ","åi½ivz$õtò·½ºäz","MS",97
+"eaves troughs","NY34C","485","O","N"," "," ","åi½ivz$õtò·½ºvz","MS",97
+"rain troughs","NY34D!","486!","O","N"," "," ","åòe½±¿n$õtò¶{°}fs","MS",98
+"troughs","NY34D!","486!","N","N"," "," ","tò·½{°}fs","MS",98
+"gutters","NY35A","487","N","N"," "," ","g¸ñ´z","MS",99
+"eaves troughs","NY35B","488","O","N"," "," ","åiºv$õtò¶«º{°}äz","MS",100
+"gutters","NY35C!","489!","N","N"," "," ","g¸ñ´z","MS",101
+"gutter","NY36A","491","N","N"," "," ","g¸ñ´","MS",102
+"eaves troughs","NY36B","492","O","N"," "," ","iºv$tò¶«º{°}fs","MS",103
+"eaves trough","NY37A","493","O","N"," "," ","åiºvz$õtò¶«ºf","MS",104
+"eaves trough","NY37B","494","O","N"," "," ","åiºv$åtò¶«º{°}f","MS",105
+"gutters","NY37C!","495!","N","N"," "," ","g¸ñ´z","MS",106
+"eaves troughs","NY38A","497(*)","O","N"," "," ","åiºv$õtò¶«º{°}äz","MS",107
+"eaves troughs","NY38B","498","O","N"," "," ","iºvz$tò¶«º{°}f","MS",108
+"eaves trough","NY38C","497X","O","N"," "," ","iºvz$tò¶«º{°}ù","MS",109
+"gutters","NY39A","499","N","Y"," ","NEW","g¸ñ´z","MS",110
+"eaves troughs","NY39A","499","O","N","natural","O","åiºv$õtò¶«º{°}fs","MS",110
+"eaves troughs","NY39B","500","O","N"," ","O","åiºv$õtò¶«º{°}äz","MS",111
+"eaves troughs","NY40A","501","O","N"," "," ","iºv$tò¶«ºvz","MS",112
+"eaves troughs","NY40B","502","O","N"," "," ","iºv$tò¶«º{°}ùs","MS",113
+"eaves troughs","NY41","504","O","N"," "," ","iºv$tò¶«º{°}vz","MS",114
+"eaves troughs","NY42A","505","O","N"," "," ","iºv$tò¶«º{°}ù","MS",115
+"eaves troughs","NY42B","506","O","N"," "," ","iºv$tò¶«º{°}ù","MS",116
+"eaves troughs","NY43A","507","O","N"," "," ","åiºv$õtò¶«º{°}äz","MS",117
+"eaves troughs","NY43B","507b","O","N"," "," ","iºv$tò¶«º{°}äz","MS",118
+"gutters","NY43C!","508!","N","N"," "," ","g¸`ñ´z","MS",119
+"eaves troughs","NY43C!","508!","O","N"," ","O","iv$tò¶º{°}ùz","MS",119
+"eaves troughs","NY44A","511","O","N"," "," ","åiºvz$õtò¶«º{°}ù","MS",120
+"eaves trough","NY44B","512","O","N"," "," ","åiºvz$õtò¶«º{°}ù","MS",121
+"eaves trough","NY45A","513a","O","N"," "," ","åi½ivz$tò¶½ù","MS",122
+"eaves trough","NY45A","513a","O","N"," "," ","åi½ivz$õtò·¼½ù","MS",122
+"eaves trough","NY45B","513b","O","N"," "," ","åi½iv$õt`ò·½f","MS",123
+"eaves troughs","NY45B","513b","O","N"," "," ","åi½iv$õtò·½fs","MS",123
+"eaves troughs","NY45C","513c","O","N"," "," ","åi½iv$õtò¶äz","MS",124
+"built in eaves","NY45D!","513d!","N","N"," "," ","åb±½ìt$õ±ºn$åi½ivz","MS",125
+"gutter","NY45D!","513d!","N","N"," "," ","g¸½t´","MS",125
+"eaves troughs","NY46A","515a","O","N"," "," ","å±iv$õtò¶fs","MS",126
+"eaves troughs","NY46A","515a","O","N"," "," ","õ±«jvz$åtò·½ºvz","MS",126
+"eaves troughs","NY46A","515a","O","N"," "," ","õ±«jvz$åtò·½ºvz","MS",126
+"eaves troughs","NY46B","515b","O","N"," ","O","i½iv$åtò¶«ºùs","MS",127
+"eaves troughs","NY46B","515b","O","N"," ","O","i½iv$åtò¶«º{°}äz","MS",127
+"eaves trough","NY46C","515c","O","N"," "," ","±:v$tò·½º{°}f","MS",128
+"gutter","NY47A","517(*)","N","Y"," ","SUG/HRD","g¸«ñ´","MS",129
+"eaves trough","NY47A","517(*)","O","N"," "," ","åiºi«v$õtò·½f","MS",129
+"eaves troughs","NY47A","517(*)","O","N"," "," ","åiºi«v$õtò·¼vz","MS",129
+"eaves troughs","NY47A","517(*)","O","N"," "," ","iºv$tò¶º«fs","MS",129
+"eaves troughs","NY47B","518","O","N"," "," ","iºv$tò¶«º{°}ùs","MS",130
+"eaves troughs","NY48A","519a","O","N"," "," ","å±¿iv$õtò¶äz","MS",131
+"eaves troughs","NY48B","519b","O","N"," "," ","åi½iv$õtò·½äz","MS",132
+"eaves troughs","NY48B","519b","O","N"," "," ","åi½iv$õtò¶«vz","MS",132
+"eaves troughs","NY48C","519c","O","N"," "," ","åi½iv$õtò¶äz","MS",133
+"troughs","NY48C","519c","O","N"," "," ","tòµ¾äz","MS",133
+"eaves troughs","NY48D","519d","O","N"," "," ","åi½iv$õtò¶«¼äz","MS",134
+"gutters","NY49A","520","N","N","on the side of the house"," ","g¸¼t´z","MS",135
+"eaves troughs","NY49B","521","O","N"," "," ","iºv$tò¶«º{°}äz","MS",136
+"eaves troughs","NY49C","522a","O","N"," "," ","åi{i«}v$õtò¶«ºäz","MS",137
+"eaves","NY49D","522b","N","N"," "," ","i{i«}vz","MS",138
+"eaves troughs","NY50A","523","O","N"," "," ","å±¿iv$tò¶{ä}z","MS",139
+"pipes","NY50A","523","O","N"," "," ","p¥±¿ps","MS",139
+"eaves troughs","NY50B","524","N","N"," "," ","åiºivz$õtò¶”{ä}z","MS",140
+"trough","NY51A","525a","N","N"," "," ","tò·½f","MS",141
+"eaves troughs","NY51A","525a","O","N"," "," ","i½ºiv$tò·½fs","MS",141
+"eaves troughs","NY51B","525b","O","N"," "," ","åi½iv$õtò¶{°}vz","MS",142
+"conductor pipes","NY51B","525b","O","N"," "," ","k°«n`d¸kt´$õp¥«±¿ps","MS",142
+"eaves troughs","NY51C","525c","O","N"," "," ","åi½iv$õtò¶«ºvz","MS",143
+"eaves troughs","NY51D","525d","O","N"," "," ","åi½ivz$õtò·½äz","MS",144
+"gutters","NY51E!","525e!","N","N"," "," ","g¦¼ñ´«z","MS",145
+"gutters","NY51E!","525e!","N","N"," "," ","g¦½ñ´z","MS",145
+"eaves troughs","NY52A","527","O","N"," "," ","åi½iv$õtòŞ—äz","MS",146
+"eaves troughs","NY52B","528","O","N"," "," ","å±«iv$õtò·½º{ä}{z}","MS",147
+"conductor pipes","NY52B","528","O","N"," "," ","k°«n`d¸«kt´$õp¥±¿ps","MS",147
+"rain troughs","NY52C","528b","O","N"," "," ","åre{±¿}n$õtò·½º{°}f","MS",148
+"eaves troughs","NY53A","529","O","N","wooden"," ","åi½iv$õtò·½ºvz","MS",149
+"eaves troughs","NY53B!","530!","O","N"," "," ","åi½iv$õstò¶”äz","MS",150
+"eaves trough","NY53B!","530!","O","N"," ","CNV","åi½ivz$õtò¶f","MS",150
+"eaves troughs","NY54A","531","O","N"," "," ","åi{i«}v$õtò¶ùs","MS",151
+"eaves trough","NY54A","531","O","N"," "," ","åi{i«}v$õtò¶ù","MS",151
+"gutters","NY54B","532","N","N","built in"," ","g¸«ñ´«{z}","MS",152
+"eaves troughs","NY54B","532","O","N","hung on"," ","åi{i«}v$õtòµ¾ùs","MS",152
+"eaves troughs","NY55A","533","O","N"," "," ","åiº{j}v$õtò·½ºvz","MS",153
+"eaves trough","NY55B","534","O","N"," "," ","åiº{j}vz$õtò·½f","MS",154
+"gutter","NY56A","535","N","N","built on"," ","g¸¼ñ´","MS",155
+"wood eaves troughs","NY56A","535","O","N","hung"," ","w¹d$åi½iv$õtò¶½fs","MS",155
+"eaves troughs","NY56A","535","O","N","hung"," ","i½iv$tò¶«ùs","MS",155
+"gutter","NY56B","536","N","Y"," ","SUG","g¸¼ñ´","MS",156
+"eaves troughs","NY56B","536","O","N"," "," ","åi½ivz$õtò¶«fs","MS",156
+"eaves troughs","NY56B","536","O","N"," "," ","i½ivz$tò·½ºöz","MS",156
+"eaves trough","NY56B","536","O","N"," "," ","åi½iv$õtò·½ºù","MS",156
+"eaves troughs","NY57A","537a","O","N"," "," ","åi½ivz$õtò·½ºvz","MS",157
+"eaves","NY57A","537a","N","N"," "," ","i½ivz","MS",157
+"eaves troughs","NY57B","537b","O","N","wood; V-shaped"," ","åi½iv$õt`ò¶vz","MS",158
+"eaves","NY57C!","537c!","N","N"," "," ","i½ivz","MS",159
+"eaves troughs","NY58A","539a","O","N"," "," ","õi½iv$åtò·½ùs","MS",160
+"conductor pipes","NY58A","539a","O","N"," "," ","k°İ«nåd¸¼kt´$õp¥±¿ps","MS",160
+"eaves troughs","NY58B","539b","O","N"," "," ","åi½iv$õtò·½ºùs","MS",161
+"eaves spouts","NY58B","539b","O","N"," "," ","åi½iv$õspµ¹ts","MS",161
+"eaves troughs","NY58C","539c","O","N"," "," ","åi½ivz$õtò¶«fs","MS",162
+"eaves","NY58C","539c","N","N"," "," ","i½ivz","MS",162
+"eaves trough","NY58D!","539d!","O","N"," "," ","åiº{j}v$õtò·½ù","MS",163
+"eaves troughs","NY58D!","539d!","O","N"," "," ","åiº{j}v$õtò·½ùs","MS",163
+"rain troughs","NY58D!","539d!","O","N"," "," ","ò—‡e½{±¿}n$tò·½ùs","MS",163
+"eaves troughs","NY58E!","539e!","O","N"," "," ","åi½iv$õtò·½ºvz","MS",164
+"eaves trough","NY58E!","539e!","O","N"," "," ","åi½iv$õtò·½f","MS",164
+"eaves","NY58E!","539e!","N","N"," "," ","i½ºiv{z}","MS",164
+"gutter","NY58F!","539f!","N","N"," "," ","g¸¼ñ´","MS",165
+"gutter","NY59A","543","N","N"," "," ","g¸½t´","MS",166
+"eaves trough","NY59B","544","O","N"," "," ","iºv$tò¶{°}{ù}","MS",167
+"eaves trough","NY60A","545","O","N"," "," ","åiº{i}vz$õtò·½ft","MS",168
+"eaves troughs","NY60B!","546!","O","N"," "," ","åiº{j}v$õtò¶äz","MS",169
+"eaves troughs","NY60B!","546!","O","N"," "," ","iº{j}v$tò¶vz","MS",169
+"eaves","NY61A","547","N","N","[commentary illegible]"," ","iºvz","MS",170
+"eaves troughs","NY61B","548","O","N"," "," ","åiº{j}vz$õtò¶fs","MS",171
+"conductors","NY62A","551a","N","N"," "," ","k°«nåd¸¼kt´«z","MS",172
+"eaves troughs","NY62A","551a","O","N"," "," ","åiº{j}vz$õtò·½fs","MS",172
+"eaves spout","NY62B","551b","O","N"," "," ","iºv$sp°½¹t","MS",173
+"eaves","NY62B","551b","N","N"," "," ","iºvz","MS",173
+"gutters","NY62C","551c","N","N"," "," ","åg¸½ñ´z","MS",174
+"roof gutters","NY62C","551c","O","N"," "," ","r¹f","MS",174
+"eaves troughs","NY62D!","551d!","O","N"," "," ","åiº{j}v$õtò¶«ºfs","MS",175
+"eaves troughs","NY63A","556a","O","N"," "," ","åi½º{j}v$õtò·½ºäz","MS",176
+"eaves","NY63A","556a","N","N"," "," ","iº{j}vz","MS",176
+"eaves troughs","NY63B","556b","O","N"," "," ","åiº{j}vz$õtò¶¼ù","MS",177
+"eaves spouts","NY63B","556b","O","N"," "," ","åiº{j}v$õsp¥½¹ù","MS",177
+"gutters","NY63C","556c","N","N"," "," ","g¸½ñ´z","MS",178
+"eaves troughs","NY63D!","556d!","O","N"," "," ","åiº{j}vz$õtò·½ºvz","MS",179
+"eaves troughs","NY63D!","556d!","O","N"," "," ","åi½ºivz$õtò·½ºvz","MS",179
+"eaves trough","NY63D!","556d!","O","N"," "," ","åi½ºivz$õtò·½ºf","MS",179
+"eaves troughs","NY64A","557a","O","N"," "," ","åiº{j}vz$õtò·½ºz","MS",180
+"eaves spouts","NY64B","557b","O","N"," "," ","åiº{j}v$õspµ«¼°—ts","MS",181
+"eaves spouts","NY64C!","557c!","O","N"," "," ","åiº{j}v$õsp¥¹ts","MS",182
+"eaves","NY64C!","557c!","N","N"," "," ","iº{j}v{z}","MS",182
+"water drains","NJ1A","1","O","N"," "," ","w¶«ñ´$dòi½inz","MS",183
+"gutters","NJ1B","2","N","N"," "," ","g¸«ñ´z","MS",184
+"spouting","NJ1B","2","N","Y"," ","NEW","spá½¹t±¿î","MS",184
+"eaves troughs","NJ2A","3(*)","O","N"," "," ","i½ivz$tò¶«º{°}ùs","MS",185
+"eaves troughs","NJ2A","3(*)","O","Y"," ","AUX/SUG","åi½ivz$õtò¶«¼º{°}fs","MS",185
+"gutters","NJ2B","4","N","N"," "," ","g¸ñ´z","MS",186
+"eaves troughs","NJ3A","5","O","N"," "," ","i½ivz$tò¶«¼ºfs","MS",187
+"gutters","NJ3B","6","N","N"," "," ","g¸ñ´z","MS",188
+"water troughs","NJ4A","7","O","N"," "," ","åw¶«ºñ´$õtò¶«º{°}ùs","MS",189
+"water troughs","NJ4B","8","O","N"," "," ","åw¶«ñ´$õtò¶«ºfs","MS",190
+"water pipe","NJ5A","9","O","N"," "," ","åw¶«¼ñ´$õpµ«¼±¿p","MS",191
+"gutter pipe","NJ5B","10","O","N"," "," ","åg¸ñ´$õpµ±¿p","MS",192
+"gutters","NJ6A","11","N","N"," "," ","g¸¼ñ´z","MS",193
+"gutter pipes","NJ6B","12","O","N"," "," ","g¸«ñ´$pµ«±¿ps","MS",194
+"water drains","NJ6B","12","O","N"," "," ","åwµ—«º{°}ñ´$õdòe½±¿nz","MS",194
+"water spouts","NJ7A","17","O","N"," "," ","åw¶«ñ´$õspá¾¹ts","MS",195
+"gutters","NJ7B!","18!","N","N"," "," ","g¸ñ´z","MS",196
+"gutters","NJ8A","19","N","N"," "," ","åg¸`ñ´z","MS",197
+"gutters","NJ8B","20","N","N"," "," ","g¸ñ´z","MS",198
+"gutters","NJ9A","21","N","N"," "," ","g¸ñ´z","MS",199
+"gutter","NJ9B","22","N","N"," "," ","g¸ñ´","MS",200
+"gutters","NJ10A","24b","N","N"," "," ","g¸¼ñ°z","MS",201
+"gutters","NJ10B","23","N","N"," "," ","g¸ñ´z","MS",202
+"gutters","NJ10C","24","N","N"," "," ","åg¸ñ´z","MS",203
+"gutters","NJ10D!","24c!","N","N"," "," ","g¸¼ñ´z","MS",204
+"gutter","NJ11A","25","N","N"," "," ","g¸ñ´","MS",205
+"gutters","NJ11B","26a","N","N"," "," ","g¸ñ´z","MS",206
+"gutters","NJ11C","26b","N","N"," "," ","g¸ñ´z","MS",207
+"gutters","NJ12A","27","N","N"," "," ","g¸¼ñ´z","MS",208
+"gutters","NJ12B","28","N","N"," "," ","g¸ñ´z","MS",209
+"troughs","NJ13A","29","N","N"," "," ","tr¶º{°}vz","MS",210
+"gutters","NJ13B","30","N","N"," "," ","g¸ñ´z","MS",211
+"gutters","NJ14A","31","N","N"," "," ","g¸ñ´z","MS",212
+"gutters","NJ14B","32","N","N"," "," ","g¸`ñ´z","MS",213
+"gutters","NJ15A","33","N","N"," "," ","g¸¼ñ´z","MS",214
+"gutter","NJ15B","34","N","N"," "," ","g¸½t´","MS",215
+"gutters","NJ16A","35","N","N"," "," ","g¸¼ñ´z","MS",216
+"gutters","NJ16B","36","N","N"," "," ","g¸ñ´z","MS",217
+"gutters","NJ17A","37","N","N"," "," ","g¸ñ´z","MS",218
+"gutters","NJ17B","38","N","N"," "," ","g¸½ñ´z","MS",219
+"gutters","NJ18A","41","N","N"," "," ","g¸¼`ñ°z","MS",220
+"gutters","NJ18B","42","N","N"," "," ","g¸`ñ°z","MS",221
+"gutters","NJ18C!","43!","N","N"," "," ","g¸¼ñ´z","MS",222
+"gutters","NJ18D!","44!","N","N"," "," ","g¸¼`ñ´z","MS",223
+"gutters","NJ19A","45","N","N"," "," ","g¸¼`ñ°z","MS",224
+"gutters","NJ19B!","46!","N","N"," "," ","g¸¼ñ°z","MS",225
+"gutter","NJ20A","47","N","N"," "," ","g¸`ñ°İr","MS",226
+"gutters","NJ20B","47b","N","N"," "," ","g¸¼ñ°z","MS",227
+"gutters","NJ21A","48","N","N"," "," ","g¸¼ñ´z","MS",228
+"gutters","NJ21B","49","N","N"," "," ","g¸t´z","MS",229
+"gutters","PA1A","51","N","N"," "," ","g¸ñ´z","MS",230
+"gutters","PA1B","52","N","N"," "," ","g¸ñ´z","MS",231
+"gutters","PA1C","53","N","N"," "," ","g¸ñ´z","MS",232
+"water spouts","PA1C","53","O","N"," "," ","åw¸ñ´$õspá¹½ts","MS",232
+"gutters","PA1D","54","N","N"," "," ","g¸ñ´z","MS",233
+"gutter","PA1E!","55!","N","N"," "," ","åg¸ñ´º","MS",234
+"gutters","PA1F!","56!","N","N"," "," ","g¸{ñ}´z","MS",235
+"gutters","PA1G!","57!","N","N"," "," ","g¸ñ´z","MS",236
+"gutters","PA1H!","58!","N","N"," "," ","g¸ñ´z","MS",237
+"water spouts","PA2A","59","O","N","all together"," ","åw·ºñ´$spá½¹ts","MS",238
+"troughs","PA2A","59","N","N"," "," ","tò·½ºvz","MS",238
+"gutter","PA2B","60","N","N"," "," ","g¸ñ´","MS",239
+"gutters","PA3A","61","N","N"," "," ","g¸½ñ´z","MS",240
+"spouts","PA3A","61","N","N","""conductor¢"," ","spáº¹½ts","MS",240
+"gutters","PA3B","62","N","N"," "," ","g¸ñ´z","MS",241
+"gutters","PA3C","62b","N","N"," "," ","g¸ñ´z","MS",242
+"spouting","PA3C","62b","N","N","including down spouts"," ","spa«¹ñ±¿î","MS",242
+"spouts","PA4A","63","N","N"," "," ","spá½¹ts","MS",243
+"gutter","PA4B!","64!","N","N"," "," ","g¸ñ´","MS",244
+"spouts","PA5A","65(*)","N","N"," "," ","spa«¹ts","MS",245
+"spouting","PA5A","65(*)","N","y"," ","AUX","åspa«¹`tn","MS",245
+"gutter","PA5B","65b","N","N"," "," ","g¸¼ñ´","MS",246
+"spouting","PA5C","66","N","N"," "," ","spá½¹ñ±¿î","MS",247
+"spouting","PA5D","67","N","N"," "," ","spa¹t±¿î","MS",248
+"water spouting","PA5D","67","O","N"," "," ","w¶«ñ´$spa¹t±¿î","MS",248
+"gutters","PA5E!","68!","N","N"," "," ","g¸«ñ´z","MS",249
+"Regenkandel","PA6A","69","N","N"," "," ","år²«¦°õk”Şndl","MS",250
+"gutters","PA6A","69","N","N"," "," ","k”·”¼t°İ{rŸÕ}s”","MS",250
+"spout","PA6B","71","N","N"," "," ","spa¾º¹½t","MS",251
+"spouting","PA6B","71","N","N"," "," ","spa¹t±¿î","MS",251
+"gutters","PA6C","71b","N","N"," "," ","g¸t”°{Õ}","MS",252
+"gutters","PA6D!","72!","N","N"," "," ","g¸ñ´z","MS",253
+"spouting","PA7A","73","N","N"," "," ","spa«¹t±¿î","MS",254
+"spouting","PA7A","73","N","N"," "," ","spa«¹{`ñ}±¿î","MS",254
+"gutters","PA7B","74","N","N"," "," ","g¸«¼ñ´z","MS",255
+"spouting","PA7B","74","N","N","""also¢"," ","spaº¹ñ±¿î","MS",255
+"spouting","PA7C","75","N","N"," "," ","spa¾º¹½ñ±¿î","MS",256
+"water spouts","PA7D!","76!","O","N"," "," ","åw·ºñ´$õspáº¹½ts","MS",257
+"rain spouts","PA7D!","76!","O","N"," "," ","re½±¿n$spáº¹½ts","MS",257
+"spouting","PA8A","77","N","N"," "," ","spa«º¹tn","MS",258
+"spouting","PA8B","78","N","N"," "," ","spa¹ñ±¿î","MS",259
+"spouting","PA8C","79","N","N"," "," ","spa¹t±¿î","MS",260
+"spouts","PA8D!","80!","N","N"," "," ","spáº¹½¼ts","MS",261
+"water spout","PA9A","83","O","N"," "," ","wµt´$spa¼¹t","MS",262
+"spout","PA9B","83b","N","N"," "," ","åspaº¹t","MS",263
+"spouts","PA9C!","84!","N","N"," "," ","spáº¹½¼ts","MS",264
+"spouting","PA10","87","N","N"," "," ","spa¾¹½t”±î","MS",265
+"spouting","PA11A","89","N","N"," "," ","spa¹ñ±¿î","MS",266
+"water gutter","PA11B","90(*)","O","Y"," ","AUX","åwŞ¼ñ´$õg¸ñ´","MS",267
+"rain spouts","PA11B","90(*)","O","N"," "," ","åreºn$õspa¹ts","MS",267
+"troughs","PA12A","91","N","N"," "," ","tr¶«ºvz","MS",268
+"eaves spout","PA12A","91","O","N"," "," ","i{i}vz$spa¹t","MS",268
+"spouting","PA12B","92","N","N"," "," ","spa¹ñ±¿î","MS",269
+"spouting","PA13A","93","N","N"," "," ","spa¹ñ±¿î","MS",270
+"eaves spouts","PA13B","94","O","N"," "," ","i{i}vz$spa¹ts","MS",271
+"spouting","PA14A","95(*)","N","N"," "," ","spaº¹t”±¿î","MS",272
+"eaves troughs","PA14B","96","O","N"," "," ","ivz$tr·½:fs","MS",273
+"Dachkandel","PA14C","95X","N","N"," "," ","t”¶xk¶ntl","MS",274
+"eaves troughs","PA15A","99","O","N","""wooden¢"," ","åi½¾iv$õtò¶«º{°}vz","MS",275
+"eaves troughs","PA15B","99b","O","N"," "," ","i½ivz$tò¶«º{°}vz","MS",276
+"gutter","PA15B","99b","O","N"," "," ","g¸ñ´","MS",276
+"gutters","PA15C!","100!","N","N"," "," ","g¸¼ñ´z","MS",277
+"eaves troughs","PA15C!","100!","O","N"," "," ","i½{i}v$tò¶«º{°}vz","MS",277
+"water spout","PA16A","101","O","N"," "," ","w·½ºt”°{rŸÕ}$spaº¹t","MS",278
+"rain spouting","PA16B","102","O","N"," "," ","reºn$spa¾¹t±¿î","MS",279
+"gutters","PA16C","103","N","N"," "," ","g¸¼ñ´z","MS",280
+"gutter","PA17A","105","N","N"," "," ","g¸—¾ñ°{rŸÕ}","MS",281
+"gutters","PA17B","106","N","N"," "," ","g¸t´z","MS",282
+"water spouts","PA18A","107","O","N"," "," ","åwµ¾ñ´$õspa«¹ts","MS",283
+"hanging gutters","PA18B!","108!","O","N"," "," ","háî±¿î$g¸ñ´z","MS",284
+"water spouts","PA19A","113","O","N"," "," ","åw¸ñ´$spá¹ts","MS",285
+"gutters","PA19B","114","N","N"," "," ","g¸ñ´z","MS",286
+"gutter","PA20A","115","N","N"," "," ","åg¸ñ´","MS",287
+"gutter","PA20B","116","N","N"," "," ","g¸ñ´","MS",288
+"eaves troughs","PA21A","117","O","N"," "," ","åi½{i}vz$tò¶«º{°}ùs","MS",289
+"eaves troughs","PA21B","118","O","N"," "," ","åi½{i}v$tò¶«º{°}{ä}z","MS",290
+"eaves troughs","PA22A","119","O","N"," "," ","i{i}v$tò¶«º{°}{ä}z","MS",291
+"eavs troughs","PA22B","120","O","N"," "," ","i½ºv$tò¶«º{°}{ä}z","MS",292
+"eaves troughs","PA23A","121","O","N"," "," ","åi½iv$õtò¶«º{°}vz","MS",293
+"gutters","PA23B","122","N","N"," "," ","g¸ñ´z","MS",294
+"eaves troughs","PA24A","123","O","N"," "," ","iv$tò¶«º{°}vz","MS",295
+"eaves troughs","PA24B","124","O","N"," "," ","i½{i}v$tò¶«º{°}{ä}z","MS",296
+"eaves spouts","PA25A","125","O","N"," "," ","i½{i}vz$spa¹ts","MS",297
+"eaves spouts","PA25B","126","O","N"," "," ","i½vz$spauts","MS",298
+"eaves spouts","PA26A","127","O","N"," "," ","i½{i}vz$spáİ¹ts","MS",299
+"eaves troughs","PA26B","128","O","N"," "," ","iiv$tò¶«º{°}ù","MS",300
+"eaves trouhgs","PA27A","131","O","N"," "," ","iºvz$tò·½º{°}vz","MS",301
+"eaves spouts","PA27A","131","O","N"," "," ","iºvz$spa«¾¹ts","MS",301
+"eaves spouts","PA27B","132","O","N"," "," ","åi½ivz$õspáİ½¹ts","MS",302
+"eaves troughs","PA27B","132","O","N"," "," ","åi½iv$õtò¶«º{°}{ä}z","MS",302
+"eaves spouts","PA28A","135","O","N"," "," ","i½{i}v$spa¹½ts","MS",303
+"eaves troughs","PA28A","135","O","N"," "," ","i½{i}v$tr¶«ºfs","MS",303
+"spouts","PA28B!","136!","N","N"," "," ","spa¹ts","MS",304
+"spouting","PA29A","139(*)","N","N"," "," ","spa¾¹½t±¿î","MS",305
+"spouting","PA29A","139(*)","N","Y"," ","AUX","åspa¾¹ñ±¿î","MS",305
+"spouting","PA29B","140","N","N"," "," ","spa¹ñ±¿î","MS",306
+"eaves troughs","PA30A","143","O","N"," "," ","iºvz$tò¶«º{°}ù","MS",307
+"eaves spouts","PA30A","143","O","N","trough and spout together"," ","iºvz$sp²İ½¹ts","MS",307
+"eaves troughs","PA30B","144","O","N"," "," ","i{i}vz$tò¶«º{°}{v}z","MS",308
+"eaves troughs","PA31A","145","O","N"," "," ","i{i}v$tr¶«ºfs","MS",309
+"eaves troughs","PA31B","146","O","N"," "," ","i½iv$tr¶«º{°}ùs","MS",310
+"spouting","PA32A","147","N","N"," "," ","spaİ¾¹İñ±¿î","MS",311
+"eaves troughs","PA32B","148","O","N"," "," ","i½¾iv$tò¶«:f","MS",312
+"spouting","PA32B","148","N","N","= trough and downspout"," ","spa¹ñ±¿î","MS",312
+"spout","PA33A","151","N","N"," "," ","spa«¾¹t","MS",313
+"spouting","PA33B","152","N","N"," ","N","spa¹t±¿î","MS",314
+"spouting","PA34A","155","N","N"," "," ","åspa«¾¹t±¿î","MS",315
+"spouting","PA34B","156","N","N"," "," ","spa«¾¹t±¿î","MS",316
+"gutter","PA34C!","155b!","N","N"," "," ","g¸½ñ´","MS",317
+"spouting","PA35A","157","N","N"," "," ","åspa¹ñ±¿î","MS",318
+"spouting","PA35B","158(*)","N","N"," "," ","spa¹ñ±¿î","MS",319
+"spouting","PA35C","158X","N","N"," "," ","spaİ¾¹ñ±¿î","MS",320
+"spouting","PA36A","159","N","N"," "," ","spa¹ñ±¿î","MS",321
+"spouts","PA36B","160","N","N"," "," ","spa«¾¹ts","MS",322
+"water trough","PA37A","161(*)","O","N"," "," ","w¶t”°r$tr¶«ºf","MS",323
+"water spouting","PA37A","161(*)","O","N"," "," ","w¶t”°r$spa¹t”±¿î","MS",323
+"spouting","PA37B","162","N","N"," "," ","spa¹t±¿î","MS",324
+"spouting","PA37C","161X","N","N"," "," ","åspa¹t±¿î","MS",325
+"spouting","PA38A","163","N","N"," "," ","spa¾¹ñ±¿î","MS",326
+"spouting","PA38B","164","N","N"," "," ","spa¾¹ñ±¿î","MS",327
+"spouting","PA39A","165","N","N"," "," ","spa¹«t±¿î","MS",328
+"spouting","PA39B","166","N","N"," "," ","åspaº¹ñ±¿î","MS",329
+"spouting","PA40A","167","N","N"," "," ","spa¾¹ñ±¿î","MS",330
+"spouting","PA40B","168","N","N"," "," ","spa«º¹ñ±¿î","MS",331
+"spouting","PA41A","171","N","N"," "," ","åspa¹t±¿î","MS",332
+"spouting","PA41B","172","N","N"," "," ","spaº¹ñ±¿î","MS",333
+"eaves troughs","PA41B","172","O","Y"," ","OLD","åiºvz$õtr¶«ºvz","MS",333
+"spouting","PA42A","175","N","N"," "," ","spa«¾¹'tn","MS",334
+"spouting","PA42B","176","N","N"," "," ","spa¾¹'tn","MS",335
+"spouting","PA43A","177","N","N"," "," ","spa«¾¹ñ±¿î","MS",336
+"spouting","PA43B","178","N","N"," "," ","spa¹ñ±¿î","MS",337
+"spout","PA44A","179","N","N"," "," ","spa«¾¹«t","MS",338
+"spouting","PA44B","180","N","N"," "," ","spa¹t±¿î","MS",339
+"troughs","PA45A","181","N","N"," "," ","tr·½º{°}vz","MS",340
+"spouting","PA45A","181","N","N","mostly"," ","spa«¹ñ±¿î","MS",340
+"spouting","PA45B","182","N","N"," "," ","spa¹t±¿î","MS",341
+"spouting","PA46A","185","N","N"," "," ","spá½¹ñ±¿î","MS",342
+"spouting","PA46B","186","N","N"," "," ","spa«º¹½ñ±¿î","MS",343
+"water spouts","PA47A","189","O","N"," "," ","wŞ¼ñ´$spá¹ts","MS",344
+"spouting","PA47B","190","N","N"," "," ","åspá½¹½ñ±¿î","MS",345
+"spouting","PA48A","191","N","N"," "," ","spa«¹İt±¿î","MS",346
+"spouting","PA48B","192","N","N"," "," ","spa«¹ñ±¿î","MS",347
+"gutters","PA48C","193","N","N"," "," ","g¸¼ñ´z","MS",348
+"spout","PA49A","194","N","N"," "," ","spa«º¹t","MS",349
+"spouting","PA49B","195","N","N"," "," ","spa¹ñ±¿î","MS",350
+"spouting","PA50A","196","N","N"," "," ","spa¹'tn","MS",351
+"spouting","PA50B","197","N","N"," "," ","spa¹ñ±¿î","MS",352
+"gutters","PA50C!","198!","N","N"," "," ","g¸¼ñ´z","MS",353
+"gutter","PA51A","199","N","N"," "," ","g°İrñ´","MS",354
+"spout","PA51A","199","N","N"," "," ","spa«º¹t","MS",354
+"spouts","PA51B","200","N","N"," "," ","spa«º¹ts","MS",355
+"spouting","PA52A","201","N","N"," "," ","åspµ¹tn","MS",356
+"spouting","PA52B!","202!","N","N"," "," ","spa«¹t±¿î","MS",357
+"spouting","PA53A","203","N","N"," "," ","spa¹t±¿î","MS",358
+"eaves troughs","PA53B","204","O","N"," "," ","i½¾jv$tr¶º{°}vz","MS",359
+"water spouts","PA54A","205","O","N"," "," ","åw¶ñ´$õspa«¾¹ts","MS",360
+"spouting","PA54B","206","N","N"," "," ","spa«¾¹ñ±¿î","MS",361
+"troughs","PA55A","207","N","N"," "," ","tr¶«ºfs","MS",362
+"spouting","PA55A","207","N","N"," "," ","spa¹t±¿î","MS",362
+"spouting","PA55B","208","N","N"," "," ","sp¥½¼¹«t±¿î","MS",363
+"eaves troughs","PA56A","211(*)","O","N"," "," ","åi½{i}vz$õtò¶«ºvz","MS",364
+"spouts","PA56A","211(*)","N","N"," "," ","åspa¹ts","MS",364
+"spouting","PA56B","212","N","N"," "," ","spa¹'tn","MS",365
+"spouting","PA57A","213","N","N"," "," ","spa«¾¹ñ±¿î","MS",366
+"spouting","PA57B","214","N","N"," "," ","spa¹ñ±¿î","MS",367
+"spout","PA58A","215","N","N"," "," ","spa¹t","MS",368
+"spouting","PA58B","216","N","N"," "," ","spa«¹ñ±¿î","MS",369
+"spouting","PA59A","219","N","N"," "," ","spa¹«'tn","MS",370
+"spouting","PA59B","220","N","N"," "," ","spa¹ñ±¿î","MS",371
+"spouting","PA60A","221","N","N"," "," ","spa«¾¹t±¿î","MS",372
+"spouting","PA60B","222","N","N"," "," ","åspa¹ñ±¿î","MS",373
+"spouting","PA61A","223","N","N"," "," ","spa«¾¹tn","MS",374
+"gutters","PA61B","224","N","N"," "," ","g¸¼ñ´z","MS",375
+"spouting","PA62A","229","N","N"," "," ","spa¹'tn","MS",376
+"spouting","PA62B","230","N","N"," "," ","åspa¹ñ±¿î","MS",377
+"spouting","PA63A","231","N","N"," "," ","spaİ«¾¹İ«ñ±¿î","MS",378
+"eaves spouts","PA63B","232","O","N"," "," ","i½{i}vz$spa¹ts","MS",379
+"eaves troughs","PA63B","232","O","N"," "," ","i½{i}vz$tr¶«º{°}ùs","MS",379
+"eaves spouts","PA64A","233","O","N"," "," ","åi½ivz$õspa«¾¹ts","MS",380
+"eaves troughs","PA64B","234","O","N"," "," ","i½jvz$tò¶«º{°}vz","MS",381
+"eaves spouts","PA65A","237","O","N","conductor"," ","±i½vz$spa¹ts","MS",382
+"eaves troughs","PA65A","237","O","N"," "," ","±i½vz$tò¶«º{°}ùs","MS",382
+"eaves spouts","PA65B","238","O","N","conductor"," ","±«i½vz$spa¹ts","MS",383
+"eaves troughs","PA65B","238","O","N","conductor"," ","±«i½vz$tò¶º{°}ùs","MS",383
+"eaves spouts","PA66A","239","O","N"," "," ","å±«ivz$spa¹ts","MS",384
+"eaves troughs","PA66B","240","O","N"," "," ","±«ivz$tò¶º{°}fs","MS",385
+"eaves troughs","PA67A","243","O","N"," "," ","åijv$tò¶«ºfs","MS",386
+"eaves spouting","PA67B","244","O","N"," "," ","i½ivz$spa«¾¹t±¿î","MS",387
+"spouting","WV1!","88!","N","N"," "," ","sp¥¹t±¿î","MS",388
+"spouting","WV2","89","N","N"," "," ","spáİ½¹t±¿î","MS",389
+"spouting","WV3","91","N","N"," "," ","spa¹'tn","MS",390
+"spouting","WV4A","92","N","N"," "," ","spa«{¹}tn","MS",391
+"eaves trough","WV4B","93","O","N"," "," ","i½ivz$tò·º{°}f{t}","MS",392
+"spouting","WV5","94","N","N"," "," ","spá½¹ñ±¿î","MS",393
+"spouts","WV6A","95","N","N"," "," ","spa«¹ts","MS",394
+"spouting","WV6B","96","N","N"," "," ","spa«¹t±¿î","MS",395
+"spouts","WV7A","97","N","N"," "," ","spa¹ts","MS",396
+"gutters","WV7B","98","N","N"," "," ","g¸«¼ñ´z","MS",397
+"spouts","WV8A","97b","N","N"," "," ","spa«¹İts","MS",398
+"spouting","WV8B","98b","N","n"," "," ","spa«¹ñ±¿î","MS",399
+"water spouts","WV9A","301","N","N"," "," ","åwµñ´$õspáº¹¿ts","MS",400
+"spouting","WV9B","302","N","N"," "," ","spa«¹ñ±¿î","MS",401
+"lead spouts","WV10A","303","N","N"," "," ","åli½id$õspaİ«¹İts","MS",402
+"spouts","WV10B","303b","N","N"," "," ","spa«º¹¿ts","MS",403
+"spouting","WV10C","304","N","N"," "," ","spá½¹¿ñ±¿î","MS",404
+"water spouts","WV11A","305","N","N"," "," ","åwµ¾ñ´$õspá½¹¿ts","MS",405
+"spout","WV11B!","306!","N","N"," "," ","spa¹«t","MS",406
+"spouting","WV12A","307","N","N"," "," ","spa«¹ñ±¿î","MS",407
+"eaves trough","WV12B","308","O","N"," "," ","iºv$tr¶«ºft","MS",408
+"spouting","WV12B","308","N","N"," "," ","spa«¹t±¿î","MS",408
+"spouting","WV13A","309","N","N"," "," ","spá¾¹t±¿î","MS",409
+"spout","WV13B","310","N","N"," "," ","spá½º¹t","MS",410
+"spouting","WV14A","311","N","N"," "," ","spa«¹ñ±¿î","MS",411
+"spouting","WV14B","312","N","N"," "," ","spá½¹ñ±¿î","MS",412
+"water spouts","WV15A","313","O","N"," "," ","åwµñ´$õspá½¹ts","MS",413
+"spouting","WV15B","314","N","N"," "," ","spá¹¿ñ±¿î","MS",414
+"water spout","WV16A","315","O","N"," "," ","åwµ¾ñ´$õspa«º¹½t","MS",415
+"spouting","WV16B","316","N","N"," "," ","åspa«¾¹ñ±¿î","MS",416
+"water spouting","WV17A","317","O","N"," "," ","wµ¾ñ´$spa¹ñ±¿î","MS",417
+"eaves troughs","WV17B","317b","O","N"," "," ","iºvz$tr·½º¹vz","MS",418
+"eaves spouting","WV17B","317b","O","N"," "," ","iºvz$spa«º¹ñ±¿î","MS",418
+"eaves troughs","WV17C","318","O","N"," "," ","åiºv$õtr·½ºvz","MS",419
+"eaves troughs","WV18A","319","O","N"," "," ","åiºvz$tr¸½ºfs","MS",420
+"spouting","WV18A","319","N","N"," "," ","spa«¹ñ±¿î","MS",420
+"gutters","WV18B","320","N","N"," "," ","g¸¼ñ´z","MS",421
+"spouting","WV18B","320","N","N"," "," ","spa«¹ñ±¿î","MS",421
+"spoutings","WV19A","321","N","N"," "," ","spá½¹¿tnz","MS",422
+"eaves troughs","WV19B","322","O","N"," "," ","åiºv$tr·½·vz","MS",423
+"water spout","WV20A","323","O","N"," "," ","wŞ¼ñ´$spáº¹½t","MS",424
+"eaves troughs","WV20B","324","O","N"," "," ","iºvz$tr·½ºfs","MS",425
+"water spouts","WV20B","324","O","N"," "," ","wµ¾ñ´$spá¹½ts","MS",425
+"spouts","WV21A","325","N","N"," "," ","spá¹¿½ts","MS",426
+"water spouts","WV21A","325","O","N"," "," ","wµ¾ñ´$spá¹¿½ts","MS",426
+"eaves troughs","WV21B","326","O","N"," "," ","iºv$tr·½ºfs","MS",427
+"gutters","WV22A","327","N","N"," "," ","g¸¼ñ´z","MS",428
+"spouts","WV22A","327","N","Y"," ","NEW","spaİ«¹ts","MS",428
+"spouting","WV22B","328","N","N"," "," ","sp¥İ¼¹İ«t±¿î","MS",429
+"spouts","WV23A","331","N","N"," "," ","sp¥¼¹ts","MS",430
+"spouting","WV23B","332","N","N"," "," ","spa¹ñ±¿î","MS",431
+"spouting","WV24A","335","N","N"," "," ","sp¥¹«tn","MS",432
+"guttering","WV24B","336","N","N"," "," ","g¸¼ñ´±¿î","MS",433
+"spouting","WV24B","336","N","N"," "," ","sp¥¼¹ñ±¿î","MS",433
+"water troughs","WV25A","337","O","N"," "," ","wµ'ñ´$tr·½ºvz","MS",434
+"water spout","WV25A","337","O","N"," "," ","wµ'ñ´$spaİ«¹İt","MS",434
+"gutter","WV25B","338","N","N"," "," ","g¸¼ñ´","MS",435
+"spouting","WV26A","339","N","N"," "," ","spáİ½¾¹ts","MS",436
+"gutters","WV26B","340","N","Y"," ","SUG","g¸¼ñ´z","MS",437
+"trough","WV26B","340","N","N"," "," ","tr·ºf{t}","MS",437
+"spouting","WV27A","341","N","N"," "," ","spá¾¹«ts","MS",438
+"gutters","WV27B","342","N","Y"," ","SUG","g¸¼ñ´z","MS",439
+"gutters","WV28A","343","N","N"," "," ","g¸¼ñ´z","MS",440
+"eaves troughs","WV28B","344","O","N"," "," ","åiºv$õtr·½·fs","MS",441
+"spouts","WV29A","345","N","N"," "," ","spa«¹ts","MS",442
+"spouts","WV29B","346","N","N"," "," ","spáº¹¿ts","MS",443
+"water spouts","WV30A","347","O","Y"," ","SUG","åwµñ´$õspáº¹¿ts","MS",444
+"spout","WV30B","348","N","N"," "," ","spá¹¿t","MS",445
+"gutter","WV31A","349","N","N"," "," ","g¸¼ºñ´","MS",446
+"water gutters","WV31B","350","O","N"," "," ","åwµñ°$õg¸¼ºñ°z","MS",447
+"water tilings","WV31B","350","O","N","his way"," ","åwµñ°$õtaº²l°nz","MS",447
+"drainer","WV32A","353","N","N"," "," ","driºn´","MS",448
+"drain troughs","WV32B","354","O","N"," "," ","driºn$tr·½·vz","MS",449
+"water spouts","WV33A","355","O","N"," "," ","wŞ¼ñ´$spáº¹¿ts","MS",450
+"gutters","WV33B","356","N","N"," "," ","g¸¼ñ°z","MS",451
+"spouting","WV34A","359","N","N"," "," ","åwµñ´$õspá¹¿ts","MS",452
+"eaves troughs","WV34B","360","O","N"," "," ","i½ivz$tr·½ºfs","MS",453
+"leak trough","WV35A","361","O","N"," "," ","åliºk$õtr·ºf","MS",454
+"eaves troughs","WV35B","362","O","N"," "," ","iºv$tr·½ºvz","MS",455
+"draining trough","WV36A","363","O","N"," "," ","dri½in$tr·½ºft","MS",456
+"spouting","WV36A","363","N","N"," "," ","åspa«¹ñ±¿î","MS",456
+"eaves trough","WV36B","364","O","N"," "," ","i½{i}vz$tr·½ºft","MS",457
+"eaves troughs","WV37A","365","O","N"," "," ","åiºv$õtr·½ºfs","MS",458
+"eaves troughs","WV37B!","366!","O","N"," "," ","åi½ivz$tr·½ºfs","MS",459
+"water troughs","WV38A","367","O","N"," "," ","wŞ¼ñ´$tr¶«ºvz","MS",460
+"eaves troughs","WV38B","368","O","N"," "," ","i½{i}v$tr·½ºfs","MS",461
+"water spouts","WV38B","368","O","N"," "," ","wµñ´$spá½º¹¿ts","MS",461
+"water spouts","WV39A","369","O","N"," "," ","åwµ¾ñ´$õspa«º¹¿ts","MS",462
+"gutters","WV39B","370","N","N"," "," ","g¸¼ñ´z","MS",463
+"gutter","WV39C!","371!","N","N"," "," ","g¸¼ñ´","MS",464
+"spouting","WV40A","373","N","N"," "," ","åwŞ¼ñ´$spa«º¹¿t","MS",465
+"water trough","WV40B","374","O","N"," "," ","åwŞñ´$õtr·½·ft","MS",466
+"spout","WV41A","375","N","N"," "," ","spá½º¹½t","MS",467
+"eaves trough","WV41B","376","O","N"," "," ","i½iv$tr·½ºft","MS",468
+"water spouts","WV42A","377","O","N"," "," ","åwµ¾ñ´$spáº¹ts","MS",469
+"eaves spouts","WV42B","378","O","N"," "," ","iºvz$spá½¹ts","MS",470
+"water spouts","WV43A","381","O","N"," "," ","wµñ´$spaİ«¾¹«ts","MS",471
+"eaves trough","WV43B","382","O","N"," "," ","iºv$tr·½ºft","MS",472
+"eaves troughs","WV44A","383","O","N"," "," ","åiºv$õtr·½ºvz","MS",473
+"eaves troughs","WV44B","384","O","N"," "," ","i½ivz$tr¶«ºvz","MS",474
+"spouting","WV45A","385","N","N"," "," ","spa¹ñ±¿î","MS",475
+"eaves troughs","WV45B","386","O","N"," "," ","iºv$tr·ºfs","MS",476
+"spouting","WV46A","387","N","N"," "," ","spa«º¹ñ±¿î","MS",477
+"spouting","WV46B","388","N","N"," "," ","spá½¹¿ñ±¿î","MS",478
+"eaves troughs","WV47A","389","O","N"," "," ","i½{i}vz$tr·½ºvz","MS",479
+"water spouts","WV47A","389","O","N"," "," ","wµ¾ñ´$spá½¹¿ts","MS",479
+"water spouting","WV47B","390","O","N"," "," ","åwµ¾ñ´$spá½¹¿ñ±¿î","MS",480
+"eaves trough","WV48A","391","O","N"," "," ","åi½ivz$õtr·½º{°}ft","MS",481
+"eaves troughs","WV48B","391b","O","N"," "," ","i½iv$tr·½ºvz","MS",482
+"water spouts","WV48C","392","O","N"," "," ","åwµ¾ñ´$õspá½¹ts","MS",483
+"eaves troughs","WV48D","392b","O","N"," "," ","åiºvz$õtr·½ºfs","MS",484
+"water spout","WV49A","393","O","N"," "," ","wµ¾ñ´$spá½º¹t","MS",485
+"spouting","WV49B","394","N","N"," "," ","spa«¹'tn","MS",486
+"spouting","WV50A","395","N","N"," "," ","spa«¹ñ±¿î","MS",487
+"spouting","WV50B","396","N","N"," "," ","spá¹¿ñ±¿î","MS",488
+"spouting","WV51A","261","N","N"," "," ","spa«¾¹«ñ±¿î","MS",489
+"spouts","WV51B","262","N","N"," "," ","spá½¾¹«ts","MS",490
+"spouting","WV52A","258","N","N"," "," ","spaº¹¿ñ±¿î","MS",491
+"gutters","WV52B","259","N","N"," "," ","g¸¼ñ´z","MS",492
+"gutter","WV52C!","260!","N","N"," "," ","g¸¼ñ´","MS",493
+"spouting","WV53A","257","N","N"," "," ","spaİ«¹t±¿î","MS",494
+"spouting","WV53B","257b","N","N"," "," ","spaİ¹ñ±¿î","MS",495
+"spouts","WV53C!","257c!","N","N"," "," ","sp¥¹«ts","MS",496
+"spouts","WV54A","255","N","N"," "," ","spa«¹ts","MS",497
+"spouts","WV54B","256","N","N"," "," ","spa«º¹½ts","MS",498
+"spouting","DE1A","11","N","N","eaves trouhgs and conductor"," ","spá½¹t±¿î","MS",499
+"eaves troughs","DE1A","11","O","Y"," ","NEW","i½ivz$tò¶«ºfs","MS",499
+"gutters","DE1B","12","N","N"," "," ","g¸ñ´z","MS",500
+"rain spouting","DE1B","12","O","N"," "," ","r²±¿n$spá½¹t±¿î","MS",500
+"gutters","DE1C!","13!","N","N"," "," ","g¸ñ´z","MS",501
+"gutters","DE2A","15(*)","N","N"," "," ","g¸t´z","MS",502
+"gutters","DE2B","16","N","N"," "," ","g¸ñ´z","MS",503
+"spouting","DE2C","15X","N","N","older than water back"," ","spá½¹t±¿î","MS",504
+"water back","DE2C","15X","O","Y"," ","NEW","w¶ñ´$bák","MS",504
+"water leads","DE3A","18","O","N"," "," ","w·½ºñ´$li½idz","MS",505
+"gutters","DE3B","19","N","N"," "," ","g¸¼ñ´z","MS",506
+"gutters","DE3C!","17!","N","N"," "," ","g¸¼ñ´z","MS",507
+"rain spout","DE4","20","O","N"," "," ","r²±¿n$spa«¹t","MS",508
+"gutters","DE5A","21","N","N"," "," ","g¸«t´z","MS",509
+"drain troughs","DE5B","22","O","N"," "," ","dò²±¿n$tò¶«º{°}vz","MS",510
+"spouting","DE5B","22","N","N"," "," ","spá¹«t±¿î","MS",510
+"NR","DE6A","23"," ","N"," "," "," ","MS",511
+"gutters","DE6B","24","N","N"," "," ","g¸¼ñ´z","MS",512
+"water spouts","MD1A","27","O","N"," "," ","wµ«ñ´$spa«¾¹ts","MS",513
+"spouting","MD1B","28","N","N"," "," ","spáİ½¾¹t±¿î","MS",514
+"rain spouts","MD2A","31a","O","N"," "," ","re½±¿n$spá½¹ts","MS",515
+"gutters","MD2B","32","N","N"," "," ","g¸¼ñ´z","MS",516
+"rain spouting","MD2B","32","O","N"," "," ","re±¿n$spá¾½¹t±¿½n","MS",516
+"water leads","MD3A","33","O","N"," "," ","w·½ñ´$li½idz","MS",517
+"spouting","MD3B","34","N","N"," "," ","spá¹½ñ±¿î","MS",518
+"boxing","MD4A","35b","N","N"," "," ","bµºks±¿½n","MS",519
+"water spouts","MD4B","35","O","N"," "," ","w·½ºñ´$spá¹ts","MS",520
+"gutters","MD4C","36","N","N","between two roofs"," ","g¸ñ´z","MS",521
+"water drains","MD4C","36","O","N"," "," ","w·{°}t´$drijnz","MS",521
+"water leads","MD4C","36","O","N"," "," ","w·{°}t´$lijdz","MS",521
+"drain pipe","MD5A","37","O","N"," "," ","dòe½º{±¿}n$pa«¾±¿p","MS",522
+"spouting","MD5B","38","N","N"," "," ","spáİ½¹'tn","MS",523
+"gutters","MD6A","39(*)","N","N"," "," ","g¸¼ñ´z","MS",524
+"water spouting","MD6B","40","O","N"," "," ","w¶«ñ´$spáİ¹İt±¿î","MS",525
+"tin troughs","MD7A","41","O","N"," "," ","t±n$åtò¶«ºfs","MS",526
+"water spouts","MD7B","41b","O","N"," "," ","w·½ñ´$sp¥¼¹ts","MS",527
+"gutters","MD7C!","42!","N","N"," "," ","g¸¼ñ´z","MS",528
+"tin trough","MD8A","43","O","N"," "," ","t±{°}n$åtò¶«ºf{t}","MS",529
+"gutters","MD8B","44","N","N"," "," ","g¸¾ñ´z","MS",530
+"gutters","MD9N","N46","N","N"," "," ","g¸ñ°z","MS",531
+"boxing","MD9N","N46","N","N"," "," ","bµks±¿½n","MS",531
+"boxing","MD9A","45","N","N"," "," ","bµ¼ºks±¿½n","MS",532
+"water spouts","MD9B","46","O","N"," "," ","w·ºñ´$sp¥¹ts","MS",533
+"spouting","MD10A","49","N","N"," "," ","spá¹«t±¿î","MS",534
+"gutter","MD10B","50","N","N"," "," ","g¸«¼ñ´","MS",535
+"rain spouting","MD10B","50","O","N"," "," ","reº±¿n$spáİ½¾¹t±¿î","MS",535
+"rain spout","MD11","51","O","N"," "," ","re¾º{±¿}n$spá¹t","MS",536
+"spouting","MD12A","52","N","N"," "," ","spá¹ñ±¿î","MS",537
+"gutters","MD12B","53","N","N"," "," ","g¸«¼ñ´z","MS",538
+"spouting","MD12B","53","N","N","whole job including conductors"," ","spa«º¹ñ±¿î","MS",538
+"eaves troughs","MD12B","53","O","N"," "," ","iºvz$tò·ºvz","MS",538
+"gutters","MD13A","54(*)","N","N"," "," ","g¸«ñ°z","MS",539
+"gutter","MD13B","55","N","N"," "," ","g¸¾ñ´","MS",540
+"spouting","MD13B","55","N","Y"," ","SUG","spá½¹t±¿î","MS",540
+"gutters","MD13C","56","N","N"," "," ","g¸«ñ´z","MS",541
+"spouting","MD13D!","57!","N","N"," "," ","spáİ«¾¹t±¿î","MS",542
+"gutters","MD13E!","58!","N","N"," "," ","g¸½t°z","MS",543
+"spouting","MD13E!","58!","N","N","natural"," ","spá½¹¿t±¿î","MS",543
+"rain spouts","MD13F!","59!","O","N"," "," ","re¾±¿n$sp°¼¹¼ts","MS",544
+"rain spout","MD13G","54X","O","N"," "," ","re{±¿}n$spá¹½t","MS",545
+"spouting","MD14","61(*)","N","N"," "," ","spa«¹t±¿î","MS",546
+"rain spouts","MD15A","62","O","N"," "," ","reº{±¿ş}n$sp¥¹ts","MS",547
+"eaves troughs","MD15B","63","O","N"," "," ","ivz$tò·:fz","MS",548
+"drain board","MD15B","63","O","N","old wooden ones"," ","dòeº{±¿}n$b·«º°d","MS",548
+"spouting","MD16","64","N","N"," "," ","spa«¹t±¿î","MS",549
+"gutter","MD17A","65","N","N"," "," ","g¸«¼ñ´","MS",550
+"spouting","MD17A","65","N","Y"," ","NEW","spa¹t±¿î","MS",550
+"spouting","MD17B","66","N","N"," "," ","spa«º¹t±¿î","MS",551
+"water spouts","MD18A","67","O","N"," "," ","w·«º{°}ñ°$sp¥½¼¹ts","MS",552
+"guttering","MD18B","68","N","Y","only rare","HRD/NEW","g¸«¼ñ°r±¿î","MS",553
+"spouting","MD18B","68","N","N"," "," ","spáİ½¾¹«t±¿î","MS",553
+"gutters","MD19A","69","N","N"," "," ","g¸«¼ñ°z","MS",554
+"spout","MD19A","69","N","N"," "," ","sp¥«¹t","MS",554
+"gutters","MD19B","70","N","N"," "," ","g¸¼ñ°z","MS",555
+"rain spouts","MD20A","71","O","N"," "," ","reº{±¿}n$sp¥½¹t","MS",556
+"gutters","MD20A","71","N","N","between two roofs"," ","g¸t°z","MS",556
+"spouting","MD20B","72","O","N"," "," ","sp°½¾u¼tn","MS",557
+"gutter","MD20C!","73!","N","N"," "," ","g¸«¼{°}ñ°","MS",558
+"spouting","MD20C!","73!","N","Y"," ","SUG","sp¥«¹«t±¿î","MS",558
+"spout","MD21A","75","N","N"," "," ","sp¥½¾¹t","MS",559
+"water spouting","MD21B","76","O","N"," "," ","w·º{°}ñ°$sp¥u'tn","MS",560
+"water drains","MD22N","N77","O","N"," "," ","w·ºñ°$dòiºnz","MS",561
+"gutters","MD22M","N78","N","N"," "," ","g¸«¼ñ°z","MS",562
+"gutters","MD22A","77","N","N"," "," ","g¸{ñ}°«z","MS",563
+"water spouts","MD22B","78","O","N"," "," ","w·º{°}ñ°$sp¥¼¹ts","MS",564
+"gutters","MD22C!","79!","N","N"," "," ","g¸«ñ°z","MS",565
+"troughs","MD23A","80b","N","N"," "," ","tò·½º{°}vz","MS",566
+"eaves troughs","MD23A","80b","O","N"," "," ","ivz$tò·½º{°}vz","MS",566
+"gutters","MD23B","80a","N","N"," "," ","g¸«¼ñ°z","MS",567
+"eaves troughs","MD23C","81","O","N"," "," ","iv$tò·ºfs","MS",568
+"eaves troughs","MD24","82","O","Y"," ","SUG","ivz$tò·ºfs","MS",569
+"spouting","MD25","84","N","N"," "," ","spá½¹½t±¿î","MS",570
+"spout","MD26A","83","N","N"," "," ","spáİ½¾¹t","MS",571
+"gutter","MD26B","83A","N","N"," "," ","g¸«¼ñ´","MS",572
+"spouts","MD26B","83A","N","N"," "," ","spa¹ts","MS",572
+"spouting","MD27A","85","N","N"," "," ","spaº¹tn","MS",573
+"spouting","MD27B","86","N","N"," "," ","spa¹ñ±¿î","MS",574
+"gutters","DC1A","99","N","N"," "," ","g¸t°z","MS",575
+"gutters","DC1B!","100!","N","N"," "," ","g¸«'ñ°z","MS",576
+"guttering","VA1!","101!","N","N"," "," ","g¸«ñ°r±¿î","MS",577
+"gutters","VA2A","103","N","N"," "," ","g¸{t}°«z","MS",578
+"gutters","VA2B","104","N","Y"," ","AUX","g¸«{°}ñ°z","MS",579
+"gutter","VA3A","105(*)","N","N","specific"," ","g¸«ñ´","MS",580
+"spouting","VA3A","105(*)","N","N","general"," ","spa¹'tn","MS",580
+"gutters","VA3B","106","N","N"," "," ","g¸ñ´z","MS",581
+"spouting","VA3B","106","N","N"," "," ","spá«¾¹ñ±¿î","MS",581
+"spouting","VA3C","105X","N","N"," "," ","spa«¾¹çn–","MS",582
+"troughs","VA4N","N109","N","N"," "," ","t”òˆ·½ºfs","MS",583
+"water gutters","VA5A","107","O","N"," "," ","w·ºñ°$g¸«{°}ñ°z","MS",584
+"gutters","VA5B","108","N","N"," "," ","g¸{°}ñ°z","MS",585
+"gutters","VA6A","113","N","N"," "," ","g¸—«¼ñ°z","MS",586
+"gutters","VA6B","114","N","N"," "," ","g¸«{°}ñ°z","MS",587
+"gutter","VA7A","121","N","N"," "," ","g¸ñ°","MS",588
+"gutter","VA7A","121","N","N","cf. Northumberland and Gullah","SIC","g¸ññ°","MS",588
+"gutters","VA7B","122","N","N"," "," ","g¸—{°}ñ°z","MS",589
+"gutters","VA8A","123","N","N"," "," ","g¸«º{°}t°z","MS",590
+"gutters","VA8B","124","N","N"," "," ","g¸«¼{°}ñ°z","MS",591
+"gutter","VA8C!","125!","N","N"," "," ","g¸{°}ñ°","MS",592
+"gutter","VA9A","117","N","N","[³] allophone of /¸/"," ","g³—{°}ñ°","MS",593
+"guttering","VA9B!","118!","N","N"," "," ","g¸¼ñ{°}r±¿½n","MS",594
+"gutter","VA10A","127","N","N"," "," ","g¸«¾{°}ñ°","MS",595
+"gutters","VA10B","128","N","N"," "," ","g¸«¼{°}ñ°z","MS",596
+"gutters","VA11A","129","N","N"," "," ","g¸«¼{°}ñ°z","MS",597
+"gutters","VA11B","130","N","N"," "," ","g¸{°}ñ°z","MS",598
+"gutters","VA12N","N131","N","N"," "," ","g¸—½¾ñ°z","MS",599
+"gutters","VA12A","131","N","N"," "," ","g¸—«¾{°}ñ°z","MS",600
+"gutters","VA12B!","132!","N","N"," "," ","g¸¼{°}ñ°z","MS",601
+"water troughs","VA13A","133","O","N"," "," ","w¶—«ñ°$tr¶«ºfs","MS",602
+"gutters","VA13B","134","N","N"," "," ","g¸½¾ñ°z","MS",603
+"NR","VA14A","135"," ","N"," "," "," ","MS",604
+"gutters","VA14B","136","N","N"," "," ","g¸«ñ°z","MS",605
+"gutters","VA14C","137","N","N"," "," ","g¸ñ°z","MS",606
+"gutter","VA15N","N139(*)","N","N"," "," ","g¸ññ°","MS",607
+"gutters","VA15A","139","N","N"," "," ","g¸ñ°z","MS",608
+"gutter","VA15B","140","N","N"," "," ","g¸—¾{°}ñ°","MS",609
+"gutters","VA16A","141","N","N"," "," ","g¸«¼{°}ñ°z","MS",610
+"gutters","VA16B","142","N","N"," "," ","g¸—«¼{°}ñ°z","MS",611
+"gutters","VA17A","143","N","N"," "," ","g¸«{°}ñ°z","MS",612
+"gutters","VA17B","144","N","N"," "," ","g¸«{°}ñ°z","MS",613
+"gutters","VA18","145","N","N"," "," ","g¸ñ°z","MS",614
+"water gutters","VA19A","146","O","N"," "," ","w·—«ºñ°$g¸«ºñ°z","MS",615
+"gutters","VA19B","147","N","N"," "," ","g¸—«º{°}ñ°z","MS",616
+"gutters","VA19C!","148!","N","N"," "," ","g¸¾{°}ñ°z","MS",617
+"gutters","VA20A","149","N","N"," "," ","g¸¾{°}ñ°z","MS",618
+"gutters","VA20B","150(*)","N","N"," "," ","g¸{ñ}°z","MS",619
+"gutters","VA20C","150X","N","N"," "," ","g¸«{ñ}°z","MS",620
+"gutter","VA21N","N153","N","N"," "," ","g¸«¾{°}t°","MS",621
+"gutters","VA21A","153","N","N"," "," ","g¸{°}ñ°z","MS",622
+"gutters","VA21B","154","N","N"," "," ","g¸¼°ñ°z","MS",623
+"gutter","VA22","155","N","N"," "," ","g¸¼{°}ñ°","MS",624
+"water gutters","VA23A","156","O","N"," "," ","w·º{°}ñ°$g¸{°}ñ°z","MS",625
+"gutters","VA23B","157","N","N"," "," ","g¸t°z","MS",626
+"gutters","VA24","159","N","N"," "," ","g¸—{°}ñ°z","MS",627
+"gutters","VA25","160(*)","N","N"," "," ","g¸'ñ´z","MS",628
+"gutters","VA25","160(*)","N","Y"," ","AUX","g¸{°}ñ´z","MS",628
+"gutters","VA26A","161A","N","N","betweeen two roofs"," ","g¸«t°z","MS",629
+"runners","VA26A","161A","N","N"," "," ","r¸«n°z","MS",629
+"gutter boards","VA26B","161","O","N"," "," ","åg¸ñ´$õbo´dz","MS",630
+"gutters","VA26C","162","N","N"," "," ","g¸{°}ñ°z","MS",631
+"trough","VA27","163(*)","N","N"," "," ","tò¶«¼º{°}f{t}","MS",632
+"eaves trough","VA27","163(*)","O","N"," "," ","±«iv$tò¶«¼º{°}f{t}","MS",632
+"gutters","VA28A","164","N","N"," "," ","g¸«{°}ñ°z","MS",633
+"gutters","VA28B","165","N","N"," "," ","g¸¾ñ°z","MS",634
+"gutters","VA29","166","N","N"," "," ","g¸«{°}ñ°z","MS",635
+"gutter","VA30A","167","N","N"," "," ","g¸{°}ñ°","MS",636
+"gutters","VA30B!","167a!","N","N"," "," ","g¸{°}ñ°z","MS",637
+"gutter","VA30C!","168!","N","N"," "," ","g¸½t°z","MS",638
+"gutter","VA30D!","169!","N","N"," "," ","g¸¾{°}ñ°","MS",639
+"gutters","VA30E!","170!","N","N"," "," ","g¸t°z","MS",640
+"gutters","VA31A","171(*)(**)","N","N"," "," ","g¸«{°}ñ°z","MS",641
+"gutters","VA31B","172","N","N"," "," ","g¸—{°}ñ°z","MS",642
+"troughs","VA31C","171X"," ","N"," "," ","tò·½ºvz","MS",643
+"gutters","VA32!","175!","N","N"," "," ","g¸{°}ñ°z","MS",644
+"gutters","VA33A","173","N","N"," "," ","g¸—«¼ñ°z","MS",645
+"trough","VA33A","173","N","N"," "," ","tò¶«º{°}ù","MS",645
+"gutter","VA33B","174","N","N"," "," ","g¸{°}ñ°½","MS",646
+"gutters","VA34A","177(*)","N","Y"," ","AUX","g¸¼t°z","MS",647
+"gutters","VA34B","178","N","N"," "," ","g¸—ñ°z","MS",648
+"gutters","VA35A","179","N","N"," "," ","g¸«{°}ñ°z","MS",649
+"gutters","VA35B","180","N","N"," "," ","g¸{°}ñ°z","MS",650
+"gutters","VA36A","181","N","N"," "," ","g¸«{°}ñ°z","MS",651
+"gutters","VA36B","182","N","N","conductors"," ","g¸ñ°z","MS",652
+"eaves troughs","VA36B","182","O","N"," "," ","iºv$tò·½{·}vz","MS",652
+"gutters","VA37","183","N","Y"," ","SUG","g¸«{°}ñ°z","MS",653
+"water troughs","VA37","183","O","Y"," ","SUG","w·½:ñ°$tò·½{·}vz","MS",653
+"gutters","VA38","185","N","N"," "," ","g¸½¾t°z","MS",654
+"gutters","VA39!","186!","N","N"," "," ","g¸«{°}ñ°z","MS",655
+"gutters","VA40A","187","N","N"," "," ","g¸«{°}ñ°z","MS",656
+"gutters","VA40B","188","N","N"," "," ","g¸«{°}ñ°z","MS",657
+"gutters","VA41A","191","N","N"," "," ","g¸ññ°z","MS",658
+"gutter","VA41B","192","N","N"," "," ","g¸{ñ}°","MS",659
+"gutters","VA42A","193(*)(**)","N","N"," "," ","g¸—«¼{°}ñ°z","MS",660
+"gutters","VA42A","193(*)(**)","N","Y"," ","AUX","g¸{°}ñ°z","MS",660
+"cotta piping","VA42A","193(*)(**)","O","Y"," ","AUX2","kµ¾ºñ°$p¥½±¿p±¿n","MS",660
+"gutters","VA42B","194","N","N"," "," ","g¸«¼{°}ñ°z","MS",661
+"gutter","VA43N","N195","N","N"," "," ","g¸«{°}ñ°½","MS",662
+"gutters","VA43A","195","N","N"," "," ","g¸{°}ñ°z","MS",663
+"gutters","VA43B","196","N","N"," "," ","g¸«ñ°z","MS",664
+"gutters","VA44A","199","N","N"," "," ","g¸{°}ñ°z","MS",665
+"gutters","VA44B","200","N","N"," "," ","g¸½ñ°z","MS",666
+"gutter","VA45A","201","N","N"," "," ","g¸t°","MS",667
+"guttering","VA45A","201","N","N"," "," ","g¸tr±¿½n","MS",667
+"gutters","VA45B","202","N","N"," "," ","g¸¼ñ°z","MS",668
+"gutters","VA46N","N207","N","N"," "," ","g¸t°z","MS",669
+"gutters","VA46A","207","N","N"," "," ","g¸t°z","MS",670
+"gutters","VA46B!","208!","N","N"," "," ","g¸ñ°z","MS",671
+"gutters","VA47","211","N","N"," "," ","g¸«¼{°}ñ°z","MS",672
+"gutters","VA48A","213(*)","N","N"," "," ","g¸«¼{°}ñ°z","MS",673
+"gutters","VA48B","214","N","N"," "," ","g¸¼{°}ñ°z","MS",674
+"gutters","VA49A","215","N","N"," "," ","g¸¼ñ°z","MS",675
+"gutters","VA49B","216","N","N"," "," ","g¸«¼{°}ñ°z","MS",676
+"gutters","VA49B","216","N","N"," "," ","g³{°}ñ°z","MS",676
+"gutters","VA50A","217","N","N"," "," ","g¸{°}ñ°z","MS",677
+"gutters","VA50A","217","N","N"," "," ","g¸{°}ññ°z","MS",677
+"gutters","VA50B","218","N","N"," "," ","g¸«{°}ñ°z","MS",678
+"gutter","VA51A","219","N","N"," "," ","g¸—«{°}ñ°","MS",679
+"NR","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"gutter","VA51C","220X","N","N"," "," ","g¸«{°}ñ°z","MS",681
+"eaves trough","VA52A","224","O","N"," "," ","iºv$tò·½º{°}ft","MS",682
+"spouting","VA52B","225","N","N"," "," ","spá¹'ñ±¿î","MS",683
+"gutters","VA52C!","226!","N","N"," "," ","g¸'ñ°z","MS",684
+"spouting","VA52C!","226!","N","N"," "," ","spá¾¹'ñ±¿î","MS",684
+"trough","VA53A","227","N","N"," "," ","tò·½:f","MS",685
+"gutter","VA53B","228","N","N","between two roofs"," ","g¸«¼ñ´","MS",686
+"spouting","VA53B","228","N","N","[á] not lengthened and not centralized"," ","spá¹ñ±¿î","MS",686
+"eaves trough","VA54A","229","O","N"," "," ","i½ivz$tò·ºf{t}","MS",687
+"gutter","VA54B","230","N","N"," "," ","g¸ñ°«","MS",688
+"spouting","VA54B","230","N","N"," "," ","spáİ¾¹'tn","MS",688
+"spouting","VA54B","230","N","N"," "," ","sp¥½¼¹'tn","MS",688
+"gutters","VA55A","233(*)","N","N"," "," ","g¸«t´z","MS",689
+"spouting","VA55A","233(*)","N","Y"," ","AUX","sp¥½¹t±¿½n","MS",689
+"spouting","VA55A","233(*)","N","Y","as a boy","OLD","spa«¾¹çn","MS",689
+"gutters","VA55B","234(*)","N","N"," "," ","g¸¼{°}ñ´z","MS",690
+"gutters","VA56A","237","N","N"," "," ","g¸«¼ñ´z","MS",691
+"gutter","VA56B","238","N","N"," "," ","g¸«¼ñ´","MS",692
+"spouts","VA57A","239","N","N"," "," ","sp¥¹ts","MS",693
+"troughs","VA57A","239","N","N"," "," ","tò¶¼{°}vz","MS",693
+"gutters","VA57B","240","N","Y","also","SUG","g¸ñ°z","MS",694
+"spouting","VA57B","240","N","N"," "," ","sp¥¹{t}±¿î","MS",694
+"gutters","VA58","241(*)","N","N"," "," ","g¸«¼{°}ñ°z","MS",695
+"guttering","VA59N","N241","N","N"," "," ","g¸«¼t°r±¿½n","MS",696
+"gutters","VA59A","242","N","N","as if Goethe's"," ","g³{°«}ñ°z","MS",697
+"gutters","VA59B!","243!","N","N"," "," ","g¸{'t}°z","MS",698
+"trough","VA60","244(*)","N","N"," "," ","tò¶ft","MS",699
+"gutters","VA61A","245(*)","N","N"," "," ","g¸t´z","MS",700
+"gutters","VA61B!","246!","N","N"," "," ","g¸«¼ñ´z","MS",701
+"NR","VA61C","245X"," ","N"," "," "," ","MS",702
+"gutters","VA62A","247(*)","N","N"," "," ","g¸—«¼º{°}ñ°z","MS",703
+"gutters","VA62B","248","N","N"," "," ","g¸«¼{°}ñ°z","MS",704
+"trough","VA63A","251","N","N"," "," ","tò·½ºf","MS",705
+"trough","VA63B","252","N","N"," "," ","tò·½º{·}f","MS",706
+"gutters","VA64A","255","N","N"," "," ","g¸¼{°}ñ°z","MS",707
+"gutters","VA64B","256","N","N"," "," ","g¸¼{°}ñ°z","MS",708
+"gutters","VA65A","257","N","N"," "," ","g¸«t´z","MS",709
+"troughs","VA65B","258","N","N"," "," ","tr·½ºfs","MS",710
+"eaves spouts","VA65B","258","O","N"," "," ","i½iv$spá¾¹«ts","MS",710
+"spouts","VA65B","258","N","N"," "," ","spá¾¹«ts","MS",710
+"drains","VA65C!","259!","N","N"," "," ","dre½±¿nz","MS",711
+"gutters","VA66A","261","N","N"," "," ","g¸¼{°}ñ°z","MS",712
+"gutters","VA66B","262","N","N"," "," ","g¸«¼{°}ñ°z","MS",713
+"gutters","VA67A","267","N","N"," "," ","g¸«¼ñ°z","MS",714
+"guttering","VA67B","268","N","N"," "," ","g¸«¼ñ´±¿î","MS",715
+"water troughs","VA68A","269","O","N"," "," ","w·—½ºñ°$tr·½{·}vz","MS",716
+"gutter","VA68B","270","N","N"," "," ","g¸¼{°}ñ°","MS",717
+"gutters","VA69A","273","N","N"," "," ","g¸¼{°}ñ°z","MS",718
+"gutters","VA69B","274","N","N"," "," ","g¸¼{°}ñ°z","MS",719
+"spouts","VA70A","275","N","N","metal"," ","spá¹ts","MS",720
+"eaves troughs","VA70A","275","O","N","wooden"," ","i½ºvz$tr·ºfs","MS",720
+"guttering","VA70B","276","N","N"," "," ","g¸«¼º{°}ñ´±¿î","MS",721
+"spouting","VA70B","276","N","N"," "," ","spáº¹¿tî","MS",721
+"gutters","VA71A","285","N","N"," "," ","g¸«¼{°}ñ°z","MS",722
+"guttering","VA71B","286","N","N"," "," ","g¸«¼{°}ñ°r°«n","MS",723
+"spouts","VA72A","287","N","N"," "," ","spáº¹ts","MS",724
+"eaves trough","VA72B","288","O","N"," "," ","i½ºv$tò·½º{·}f","MS",725
+"eaves spout","VA72B","288","O","N"," "," ","i½ºv$spá½º¹¿½t","MS",725
+"spouting","VA73","291","N","N"," "," ","spá½¹'tn","MS",726
+"guttering","VA74A","293","N","N"," "," ","g³ñ°{r}±¿î","MS",727
+"gutter","VA74B!","294!","N","N"," "," ","g¸—º{°}ñ°«","MS",728
+"gutters","VA75A","297","N","N"," "," ","g³ñ´z","MS",729
+"gutters","VA75B","298","N","N"," "," ","g³{°}ñ´z","MS",730
+"gutters","NC1","303","N","N"," "," ","g¸«:{°}ñ´z","MS",731
+"gutter","NC2A","301","N","Y"," ","AUX","g¸ñ´","MS",732
+"gutter","NC2A","301","N","Y"," ","AUX","g¸t´","MS",732
+"NR","NC2B","304"," ","N"," "," "," ","MS",733
+"gutters","NC3A","305","N","N"," "," ","g¸ñ°z","MS",734
+"gutter","NC3B","306","N","N"," "," ","g¸¾{°}ñ°","MS",735
+"water gutter","NC4A","307","O","N"," "," ","w·ºñ°$g¸«{°}ñ°","MS",736
+"trough","NC4B","308","N","N"," "," ","tò·½{·«}f","MS",737
+"gutters","NC5A","309","N","N"," "," ","g¸«ñ°z","MS",738
+"gutters","NC5B","310","N","N"," "," ","g¸{°}ñ°«z","MS",739
+"water troughs","NC5B","310","O","N"," "," ","w·º{°}ññ°«$tò·ºvz","MS",739
+"gutters","NC6!","311!","N","N"," "," ","g¸—«{°}ñ°z","MS",740
+"troughs","NC7A","315(*)","N","N"," "," ","tr·½ºfs","MS",741
+"troughs","NC7B","316","N","N"," "," ","tò··«vz","MS",742
+"gutters","NC8N","N317","N","N"," "," ","g¸«¼{°}ñ°z","MS",743
+"gutters","NC8A","317","N","N"," "," ","g¸—«'ñ´z","MS",744
+"gutter","NC8B","318(*)","N","N"," "," ","g¸«{°}ñ°","MS",745
+"gutters","NC9A","319","N","N"," "," ","g¸¼ºñ°z","MS",746
+"gutters","NC9B","320","N","N"," "," ","g¸«¼{°}ñ°z","MS",747
+"gutters","NC10A","321","N","N"," "," ","g¸t´z","MS",748
+"gutters","NC10B","323","N","N"," "," ","g³ºñ´z","MS",749
+"gutters","NC10C","322","N","N"," "," ","g¸«{°}ñ´z","MS",750
+"gutters","NC11A","325","N","N"," "," ","g¸{°}ñ´z","MS",751
+"gutters","NC11B","326","N","N"," "," ","g¸«ºñ´z","MS",752
+"gutters","NC12A","327(*)","N","N"," "," ","g¸«¼{°}'ñ´z","MS",753
+"gutter","NC12A","327(*)","N","Y","to drain off","AUX","g¸½t°","MS",753
+"boxing","NC12A","327(*)","N","Y","to catch the water","AUX","bµ«¾ks±¿½n","MS",753
+"gutters","NC12B","328","N","N"," "," ","g¸—«{°}ñ°«z","MS",754
+"gutters","NC13A","329","N","N"," "," ","g¸—«{°}ñ´z","MS",755
+"water lines","NC13A","329","O","N"," "," ","w·ºñ´$laº±¿nz","MS",755
+"gutters","NC13B","330(*)","N","N"," "," ","g¸—«{°}'ñ´z","MS",756
+"gutter","NC14N","N331","N","N"," "," ","g¸¼{°}ñ°","MS",757
+"gutters","NC14A","331","N","N"," "," ","g¸'t°z","MS",758
+"gutters","NC14B","332","N","N"," "," ","g¸—¾{°}{t}°z","MS",759
+"gutters","NC14C!","333!","N","N"," "," ","g¸—{°}ñ°z","MS",760
+"trough","NC15A","335(*)","N","N"," "," ","tò·½·«f{t}","MS",761
+"water gutters","NC15B","336","O","N"," "," ","w·°ñ°$g¸«¼°z","MS",762
+"gutter","NC15C","335X","N","N"," "," ","g¸—ñ°«","MS",763
+"gutters","NC16A","339(*)","N","N"," "," ","g¸«¼{°}ñ´z","MS",764
+"water gutters","NC16B","340","O","N"," "," ","w·º{°}$g¸«¼ñ°z","MS",765
+"gutters","NC17A","337","N","N"," "," ","g¸—«º{°}ñ°z","MS",766
+"gutters","NC17B","338","N","N"," "," ","g¸«¼{°}ñ°z","MS",767
+"NR","NC18A","341"," ","N"," "," "," ","MS",768
+"gutters","NC18B","342","N","N"," "," ","g¸«{°}ñ°z","MS",769
+"gutters","NC19A","343","N","N"," "," ","g³{°}ñ´z","MS",770
+"gutters","NC19B","344","N","N"," "," ","g¸«{°}ñ°z","MS",771
+"gutter","NC20A","345","N","N"," "," ","g¸{'t}´","MS",772
+"eaves troughs","NC20A","345","O","N"," "," ","i½ivz$tò¶«ºfs","MS",772
+"gutters","NC20B","346a","N","N"," "," ","g¸{°}ñ´z","MS",773
+"gutter","NC20C","346b","N","N"," "," ","g¸{'ñ}°","MS",774
+"NR","NC21A","347"," ","N"," "," "," ","MS",775
+"gutters","NC21B","348","N","N"," "," ","g¸'ñ°z","MS",776
+"gutters","NC22A","349","N","N"," "," ","g¸t°z","MS",777
+"eaves troughs","NC22B","349b","O","N","none here"," ","iv$tò·½ºfs","MS",778
+"gutters","NC23A","351a","N","N"," "," ","g¸½ºñ°z","MS",779
+"gutters","NC23B","351b(*)","N","N"," "," ","g¸½ñ°z","MS",780
+"gutters","NC23C!","351c!","N","N"," "," ","g¸ñ°z","MS",781
+"gutters","NC23D!","351d!","N","N"," "," ","g¸«¼{°}ñ°z","MS",782
+"eaves trough","NC24N","N352","O","N"," "," ","ivz$tò·f","MS",783
+"NR","NC24A","352a"," ","N"," "," "," ","MS",784
+"eaves troughs","NC24B","352b","O","N"," "," ","iv$tò·ºfs","MS",785
+"gutters","NC25N","N353","N","N"," "," ","g¸«t°z","MS",786
+"gutters","NC25A","353","N","N"," "," ","g¸ñ´z","MS",787
+"gutters","NC25B","354","N","N","not used"," ","g¸«t°z","MS",788
+"gutters","NC26A","355a","N","N"," "," ","g¸«º{°}ñ°¾z","MS",789
+"eaves troughs","NC26B","355b","O","N"," "," ","iºvz$tò·½·fs","MS",790
+"gutter","NC26C!","356!","N","N"," "," ","g¸—«'ñ°","MS",791
+"gutter","NC27A","357","N","N"," "," ","g¸«¼{'ñ}´","MS",792
+"gutters","NC27B","358","N","N"," "," ","g¸«¼ñ°z","MS",793
+"NR","NC28A","361"," ","N"," "," "," ","MS",794
+"gutters","NC28B","361b","N","N"," "," ","g¸«¼ñ´z","MS",795
+"gutters","NC28C","362","N","N"," "," ","g¸—«ñ´z","MS",796
+"NR","NC29A","363(*)"," ","N"," "," "," ","MS",797
+"gutters","NC29B","364","N","N"," "," ","g¸«¼ñ´z","MS",798
+"gutters","NC30A","365","N","N"," "," ","g¸«ñ°z","MS",799
+"gutters","NC30A","365","N","N"," "," ","g³ñ°z","MS",799
+"gutters","NC30B","366","N","N"," "," ","g¸«{°}ñ°z","MS",800
+"gutters","NC31A","367","N","Y"," ","SUG/HRD","g³{°}ñ°z","MS",801
+"water troughs","NC31A","367","O","N"," "," ","w·ºñ°$tò·ºvz","MS",801
+"gutters","NC31B","368","N","N"," "," ","g¸«{°}ñ°z","MS",802
+"eaves troughs","NC31B","368","O","N"," "," ","iºv$tò·½{·}vz","MS",802
+"gutters","NC32A","369","N","N"," "," ","g¸«ºt°z","MS",803
+"gutters","NC32B!","370!","N","N"," "," ","g¸«¼ºñ°«z","MS",804
+"gutters","NC33A","373","N","N"," "," ","g¸«¼'ñ°z","MS",805
+"gutters","NC33B","374","N","N"," "," ","g¸«¼ºñ°z","MS",806
+"gutters","NC33B","374","N","N"," "," ","g³ºñ°z","MS",806
+"gutter","NC34A","375","N","N"," "," ","g¸«'ñ´","MS",807
+"gutters","NC34B","376","N","N"," "," ","g¸—«¼ñ°z","MS",808
+"gutters","NC35A","377","N","N"," "," ","g¸«t°z","MS",809
+"eaves troughs","NC35B","378","O","N"," "," ","iºvz$tò·½·vz","MS",810
+"gutters","NC36N","N381","N","N"," "," ","g¸«¼ñ°z","MS",811
+"gutter","NC36A","381","N","N"," "," ","g¸«ºñr","MS",812
+"gutters","NC36B","382","N","N"," "," ","g¸ñ°z","MS",813
+"eaves troughs","NC37A","383","O","N"," "," ","±«i½v$tò·½·{ä}z","MS",814
+"gutters","NC37B","384","N","N"," "," ","g¸«¼{°}ñ°z","MS",815
+"gutters","NC38N","N385","N","N"," "," ","g¸«¼ññ°z","MS",816
+"trough","NC38A","385","N","N"," "," ","tò··«{f}","MS",817
+"gutter","NC38B","386","N","N"," "," ","g¸—«¾ñ°","MS",818
+"gutter","NC39A","389","N","N"," "," ","g¸«{°}ñ°","MS",819
+"gutters","NC39B!","390!","N","N"," "," ","g¸«{°}ñ°z","MS",820
+"gutter trough","NC40A","391","O","N"," "," ","g¸«t°$tr·½{·}f{t}","MS",821
+"gutters","NC40B","392","N","N"," "," ","g¸«¼{°}ñ°z","MS",822
+"gutters","NC41!","393!","N","N"," "," ","g¸«¼{°}ñ°z","MS",823
+"gutters","NC42A","403","N","N"," "," ","g³—{°}ñ°z","MS",824
+"gutters","NC42B","404(*)","N","N"," "," ","g¸—«¼ñ°z","MS",825
+"eaves troughs","NC43A","397","O","N"," "," ","i{j}vz$tò·½·vz","MS",826
+"gutters","NC43B","398","N","N"," "," ","g¸«{°}ñ°z","MS",827
+"gutters","NC44","410(*)","N","N"," "," ","g¸«ñ°z","MS",828
+"gutters","NC45A","409(*)","N","N"," "," ","g¸—¾ñ°z","MS",829
+"gutter","NC45B","409X","N","N"," "," ","g¸—«¼ñ°","MS",830
+"lead troughs","NC46A","411","O","N"," "," ","li½id$tò¶«·½fs","MS",831
+"gutters","NC46B","412","N","N"," "," ","g¸«{°}ñ°z","MS",832
+"gutters","NC46C!","412b!","N","N"," "," ","g¸ñ°z","MS",833
+"gutters","NC47","413","N","N"," "," ","g¸«¼ñ´z","MS",834
+"gutter troughs","NC48","418","O","N"," "," ","g¸«¼ñ´$tò·½·fs","MS",835
+"gutters","NC49","421","N","N"," "," ","g¸—«¼ñ´z","MS",836
+"gutters","NC50A","422","N","N"," "," ","g¸«ñ°z","MS",837
+"gutters","NC50B!","423!","N","N"," "," ","g¸«¼ñ°z","MS",838
+"gutters","NC51A","427","N","N"," "," ","g¸¼ñ°z","MS",839
+"eaves trough","NC51B","428","O","N"," "," ","iºvz$tò¶«º{·½}f{t}","MS",840
+"gutters","NC52N","N429","N","N"," "," ","g¸—«¼ñ°z","MS",841
+"gutter","NC52A","429","N","N"," "," ","g¸«¼ñ°","MS",842
+"guttering","NC52B","430","N","N"," "," ","g¸ñ°r±¿½n","MS",843
+"gutter","NC53A","431","N","N"," "," ","g¸«¼ñ°","MS",844
+"gutters","NC53B","432","N","N"," "," ","g³ñ°z","MS",845
+"tin gully","NC54A","433","O","N"," "," ","t±º{°}n$g¸«l±¿{±¿}","MS",846
+"eaves troughs","NC54B","434","O","N"," "," ","iºv$tò¶«·ùs","MS",847
+"little ditches","NC54B","434","O","N"," "," ","l±¿tì$d±tó±¿½z","MS",847
+"gutters","NC55","435","N","N"," "," ","g¸«¼ñ°z","MS",848
+"gutters","NC56A","436","N","N"," "," ","g¸«¼ñ°z","MS",849
+"gutters","NC56B!","437!","N","N"," "," ","g¸—«{°}ñ°z","MS",850
+"gutters","NC57A","438a","N","N"," "," ","g¸«¼ñ°«z","MS",851
+"gutter","NC57B","438b","N","N"," "," ","g¸«{°}ñ°","MS",852
+"gutters","NC58A","439","N","N"," "," ","g¸—«ñ´z","MS",853
+"gutters","NC58B","440","N","N"," "," ","g¸«ñ´z","MS",854
+"gutters","NC59","441(*)","N","N"," "," ","g´'t´z","MS",855
+"guttering","NC60","442","N","N"," "," ","g¸«¼ñ°{r}±¿½n","MS",856
+"troughs","NC61A","443","N","N"," "," ","tò·½·fs","MS",857
+"troughs","NC61B","444","N","N"," "," ","tò·½·fs","MS",858
+"gutters","NC62A","447","N","N"," "," ","g¸«¼ñ´z","MS",859
+"gutters","NC62B","448","N","N"," "," ","g¸«ñ´z","MS",860
+"gutter","NC63A","449","N","N"," "," ","g¸«¼ñ´","MS",861
+"gutters","NC63B","450","N","N"," "," ","g¸«{°}ñ´z","MS",862
+"troughs","NC64A","453","N","N"," "," ","tò·½¼·fs","MS",863
+"guttering","NC64B","454","N","N"," "," ","g¸«ñ´|±¿½n","MS",864
+"gutter","NC65A","461","N","N"," "," ","g¸—«ñ´","MS",865
+"gutters","NC65B","462","N","N"," "," ","g¸«{°}ñ´z","MS",866
+"troughs","NC66A","465","N","N"," "," ","tò¶«·½fs","MS",867
+"gutters","NC66B","466","N","N"," "," ","g¸«ñ´z","MS",868
+"spouts","NC67A","469","N","N"," "," ","spá½º¹¿ts","MS",869
+"gutters","NC67B","470","N","N"," "," ","g¸«t°z","MS",870
+"gutters","NC68A","473","N","N"," "," ","g³ñ´z","MS",871
+"water troughs","NC68B","474","O","N"," "," ","wŞ«¼ñ´$tò·½¼·fs","MS",872
+"gutters","NC69A","477","N","N"," "," ","g¸—«ñ´z","MS",873
+"gutters","NC69B","478","N","N"," "," ","g¸«ñ°z","MS",874
+"gutters","NC70A","479","N","N"," "," ","g{°}´ñ´z","MS",875
+"gutters","NC70B","480","N","N"," "," ","g¸«{°}ñ´z","MS",876
+"spouts","NC70B","480","N","Y"," ","OLD","spaº¹½ts","MS",876
+"gutters","NC71A","481","N","N"," "," ","g¸«ñ´z","MS",877
+"gutters","NC71B","482","N","N"," "," ","g¸«ñ´z","MS",878
+"gutters","NC71C!","483!","N","N"," "," ","g¸ñ´z","MS",879
+"troughs","NC72A","487","N","N","from end of FR"," ","tò·½·fs","MS",880
+" ","NC72A","487","N","N","= of water running off slanting roof"," ","grijp","MS",880
+"gutters","NC72B","488","N","N"," "," ","g¸«ñ´z","MS",881
+"gutters","NC73A","491","N","N"," "," ","g¸«'ññ´z","MS",882
+"gutters","NC73B","492","N","N"," "," ","g¸«¼t´z","MS",883
+"gutters","NC74A","493","N","N"," "," ","g¸—«'ñ´z","MS",884
+"gutters","NC74B","494","N","N"," "," ","g¸«'ñ´z","MS",885
+"gutters","NC75A","495","N","N"," "," ","g¸«ñ´z","MS",886
+"gutters","NC75B","496","N","N"," "," ","g¸—«ñ´z","MS",887
+"NR","SC1A","203.1"," ","N"," "," "," ","MS",888
+"gutter","SC1B","203.2","N","N"," "," ","g¸«'ñ°","MS",889
+"trough","SC2A","204.1(*)","N","N"," "," ","tò·½·f","MS",890
+"gutters","SC2B","204.2","N","N"," "," ","åg¸«¼{°}ñ´z","MS",891
+"trough","SC2C","204.1X","N","N"," "," ","tò··«f{t}","MS",892
+"gutters","SC3A","205.1","N","N"," "," ","g¸«¼{°}t°z","MS",893
+"wooden gutters","SC3B","205.2","O","N","V-shape"," ","åw¹¿«¾{°}dn$g¦½{°}t´«¾z","MS",894
+"gutters","SC3C!","205.3!","N","N"," "," ","åg¦¼{°}t°«z","MS",895
+"drain pipe","SC3C!","205.3!","O","N"," "," ","ådòe«º{±¿}n$p`µ«±¿p","MS",895
+"gutter","SC4A","206.1","N","N"," "," ","åg¸«{°}ñ°«¾","MS",896
+"gutters","SC4B","206.2","N","N","like a wooden trough"," ","åg¸«{°}ñ°«¾z","MS",897
+"gutter","SC4C","206.3","N","N"," "," ","åg¸«{°}ñ°","MS",898
+"gutters","SC4C","206.3","N","N"," "," ","åg¸«{°}t°z","MS",898
+"valleys","SC5A","207.1","N","Y"," ","INA","åva«{°}l±¿¼z","MS",899
+"troughs under the eaves","SC5A","207.1","O","N"," "," ","åtò·º{°}fs$¸{°}nd°$d‘±¿«¼$åiº{±¿}vz","MS",899
+"gutters","SC5B","207.2","N","N"," "," ","åg¸«ñ°«¾z","MS",900
+"gutters","SC5C","207.2A","N","N"," "," ","åg¸{°}ñ°«z","MS",901
+"gutter","SC5D!","207.3!","N","N"," "," ","åg¸{°}ñ°","MS",902
+"eaves","SC5D!","207.3!","N","N"," "," ","iº{±}vz","MS",902
+"gutter","SC6N","N208","N","N"," "," ","åg¸«¼{°}ñ°¾","MS",903
+"gutter","SC6N","N208","N","N"," "," ","ågo¿{°}ñ°","MS",903
+"gutters","SC6A","208.1","N","Y"," ","SUG/HRD","g¸t´z","MS",904
+"water trough","SC6A","208.1","O","N"," "," ","åw·t´$tò·ºf{t}","MS",904
+"trough","SC6B","208.2(*)","N","N","at end of house"," ","tò·º{°}f","MS",905
+"troughs","SC6B","208.2(*)","N","N","at end of house"," ","åtò·º{°}vz","MS",905
+"trough","SC6B","208.2(*)","N","N","at end of house"," ","tò·º{°}ft","MS",905
+"gutters","SC6C!","208.3!","N","N","run water away"," ","åg¸¼t°«z","MS",906
+"drainage pipe","SC6D","208.2X","O","N"," "," ","ådòiº{°}n±¿¼dú$õp`µº±¿p","MS",907
+"roofing drainage","SC6D","208.2X","O","N"," "," ","r¹f","MS",907
+"gutters","SC7N","N209","N","N"," "," ","åg¸¼ñ°¾z","MS",908
+"gutters","SC7A","209.1","N","N","on the side"," ","åg¸ñ°«z","MS",909
+"gutters","SC7B","209.2","N","N"," ","SIC","åg¸¼ñ°«s","MS",910
+"eaves","SC7B","209.2","N","N"," "," ","iº{±¿}vz","MS",910
+"gutters","SC7C!","209.3!","N","N"," "," ","åg¸¼ñ°¾z","MS",911
+"gutter","SC7D!","209.4!","N","N"," "," ","åg¸«¼{°}ñ°","MS",912
+"gutters","SC8A","210.1","N","N","didn't have, I still don't have"," "," ","MS",913
+"gutters","SC8B","210.2","N","N","don't have in country"," "," ","MS",914
+"gutters","SC8C","210.3","N","N"," "," ","åg¸ñ°«¾z","MS",915
+"gutter","SC9A","211.1","N","Y","""new""","NEW","åg¸«ñ°«¾","MS",916
+"NR","SC9B","211.2"," ","N"," "," "," ","MS",917
+"gutters","SC9C!","211.3!","N","N"," "," ","åg¸«¼t°«¾z","MS",918
+"gutters","SC9D!","211.4!","N","N","not common"," ","åg¸¼ñ°«¾z","MS",919
+"gutters","SC10A","212.1","N","N"," "," ","åg¸«t°«¾z","MS",920
+"gutter","SC10A","212.1","N","N"," ","CON","åg¸½t°¾","MS",920
+"gutters","SC10B!","212.2!","N","N"," "," ","åg¸½t°«z","MS",921
+"gutter","SC10C!","212.3!","N","N"," "," ","åg¥¾ñ°","MS",922
+"gutter","SC11N","N213","N","N"," "," ","g¸½ñ°","MS",923
+"gutters","SC11M!","2n213!","N","N"," "," ","åg¸—«¼ñ°¾z","MS",924
+"gutter","SC11M!","2n213!","N","N"," "," ","g¸¼ñ°¾","MS",924
+"rain gutter","SC11M!","2n213!","O","N"," "," ","åra«¾º¹n$õg¸—¼ñ°¾","MS",924
+"gutter","SC11A","213.1(*)","N","N","flat of roof"," ","åg¦½ñ°¾","MS",925
+"gutters","SC11A","213.1(*)","N","Y"," ","AUX","åg¸t°z","MS",925
+"down spout","SC11A","213.1(*)","O","N","straight down"," ","åda«¾º¹n$sp¥¼¹t","MS",925
+"gutter","SC11B","213.11","N","N"," "," ","åg¥t°","MS",926
+"gutters","SC11C","213.2","N","N"," "," ","åg¸¼t°«¾z","MS",927
+"gutter pipe","SC11C","213.2","O","N"," "," ","åg¸¾ñ°$õp`¥½¼±¿p","MS",927
+"gutter","SC11D","213.3","N","N","horizontal"," ","åg¦½ñ°½","MS",928
+"spout","SC11D","213.3","N","N","perpendicular"," ","sp¥«¹t","MS",928
+"gutter","SC11D","213.3","N","N","horizontal"," ","åg¸«ñ°«¾","MS",928
+"gutter","SC11E","213.4","N","N"," "," ","åg¸¼ñ°½¾","MS",929
+"cistern pipe","SC11E","213.4","O","N"," "," ","ås±¾st°¾n$õp`¸½¼±¿p","MS",929
+"gutter","SC11F","213.5","N","N"," "," ","åg¸¼ñ°«¾","MS",930
+"guttering","SC11F","213.5","N","N"," "," ","åg¸¼ñ´±¿¼î","MS",930
+"spouting","SC11F","213.5","N","N"," "," ","åsp¸—¼¹t±¿¼î","MS",930
+"spout","SC11F","213.5","N","N"," "," ","sp¸—¼¹t","MS",930
+"gutters","SC11G!","213.7!","N","N","along eaves"," ","åg¸¼ñ°«¾z","MS",931
+"gutter","SC11H!","213.8!","N","N"," "," ","åg¸¼ñ°¾","MS",932
+"down spout","SC11H!","213.8!","O","Y"," ","NEW","åd¸½¹n$õsp¸«¹t","MS",932
+"gutters","SC11I!","213.9!","N","N"," "," ","åg¸½t°z","MS",933
+"guttering","SC11I!","213.9!","N","N"," "," ","åg¸½t°r±¿î","MS",933
+"gutters","SC11J!","213.10!","N","N"," "," ","åg¸«ñ°¾z","MS",934
+"trough","SC12A","214.1","N","Y","gutters not used in country","DBT","t`ò·¼º{°}f","MS",935
+"gutters","SC12B","214.2","N","N"," "," ","g¸«{°}t°z","MS",936
+"gutter","SC13","213.6","N","Y"," ","NEW","åg¸½¼ñ°","MS",937
+"gutters","SC14A","215.1","N","N"," "," ","åg¸½ñ°z","MS",938
+"gutter","SC14B","215.2","N","N"," "," ","åg¦½ñ°«","MS",939
+"gutter","SC14B","215.2","N","Y"," ","CNV","åg¦½t°","MS",939
+"gutter","SC14B","215.2","N","Y"," ","CNV","åg¦½ç°","MS",939
+"gutters","SC15A","216.1","N","N","didn't have them"," ","åg¸«¼{°}t°«z","MS",940
+"down spout","SC15B","216.2","O","N"," "," ","ådµºon$õspµ«¼ot","MS",941
+"gutter","SC15C","216.3","N","N"," "," ","åg¸«¼ñ°","MS",942
+"piping","SC16N","N217","N","N"," "," ","åp`µ±¿p±¿¼n","MS",943
+"trough","SC16N","N217","N","N","for catching water"," ","t`ò·½{°}ft","MS",943
+"gutters","SC16","217.1","N","N"," "," ","åg¸—ñ°z","MS",944
+"gutter","SC16","217.1","N","N"," "," ","åg¸—«¾ñ°—«","MS",944
+"drain spouts","SC16","217.1","O","N"," "," ","ådòeº{°}n$õspaİ«¾¹ts","MS",944
+"gutters","SC17A","218.1","N","N"," ","SUG","g¦½{°}ñ´«¾z","MS",945
+"trough","SC17A","218.1","N","N"," ","SUG","t`ò¸½{°}ft","MS",945
+"piping trough","SC17A","218.1","O","N"," "," ","åèµº±¿p±¿¼n$t`ò¸½{°}f","MS",945
+"gutters","SC17B","218.2","N","N","V-shaped boards"," ","åg¸«ñ°«z","MS",946
+"gutters","SC17C","218.3","N","N"," "," ","åg¸«t`°«z{z}","MS",947
+"rain valleys","SC17D","218.4","O","N","built-in"," ","åreº{°}n$õvá{°}l±¿«¼z","MS",948
+"down pipe","SC17D","218.4","O","N","built-in"," ","ådá½on$õp`µ¼±¿p","MS",948
+"gutter","SC18N","N219","N","N"," "," ","åg¸—«¼ñ°½","MS",949
+"gutters","SC18A","219.1","N","N"," "," ","ågˆ¸«¼t°½z","MS",950
+"gutters","SC18B","219.2","N","N"," "," ","åg¸ñ°¾z","MS",951
+"upright gutters","SC18B","219.2","O","N"," "," ","å¸«põr°½±tõg¸ñ°¾z","MS",951
+"gutter","SC18C!","219.3(*)!","N","N"," "," ","åg¸ñ°½¾","MS",952
+"down spout","SC18C!","219.3(*)!","O","N","downlead"," ","åd²¾¹n$õsp¥«¹t","MS",952
+"gutter","SC18D!","219.3X"," ","N"," "," ","åg¸½ñ°¾","MS",953
+"gutter","SC19N","N220","N","Y"," ","SUG/HRD","åg¸½{°}t°","MS",954
+"gutter","SC19A","220.1","N","N"," "," ","åg¸ñ°½","MS",955
+"gutter pipe","SC19A","220.1","O","N","for cisterns"," ","åg¸½ñ°$õp`¥«±p","MS",955
+"eaves","SC19B","220.4","N","N"," "," ","±º{°}vz","MS",956
+"gutters","SC19C","220.2(*)","N","N"," "," ","ågˆ¸«t°½z","MS",957
+"gutter","SC19C","220.2(*)","N","N"," "," ","åg¸«t°½","MS",957
+"drain pipes","SC19C","220.2(*)","O","N","come down"," ","ådòe«{±¿}n$õp`¥½±ps","MS",957
+"gutters","SC19D!","220.3!","N","N"," "," ","åg¸«ñ°«z","MS",958
+"gutters","SC19E!","220.2X","N","N"," "," ","ågˆ¸ñ°½z{z}","MS",959
+"gutter","SC20A","221.1","N","N"," "," ","åg¦¼t°","MS",960
+"tin pipe","SC20B","221.2","N","N"," "," ","åt±«{°}n$p`µ±¿p","MS",961
+"gutter","SC20C","221.3","N","Y","later","NEW","åg¦½t°","MS",962
+"gutter","SC20D!","221.4!","N","N"," "," ","åg¦½t°½","MS",963
+"guttering","SC20D!","221.4!","N","N"," "," ","åg¦½t´±¿¼n","MS",963
+"down spouts","SC20D!","221.4!","O","N"," "," ","ådá½ºon$õspa«ots","MS",963
+"gutters","SC21A","222.1","N","N"," "," ","åg¸—«º{°}ñ°z","MS",964
+"gutters","SC21B","222.2","N","N"," "," ","åg¸«ñ°z","MS",965
+"gutters","SC22N","N223","N","Y"," ","SUG","åg¸ñ°z","MS",966
+"water drainer","SC22N","N223","O","N","[ññ] = trilled /r/"," ","õw·½{°}ññ°$ådòi½ºn°½","MS",966
+"gutter","SC22A","223.1","N","N"," "," ","åg¦½{°}t°«¾","MS",967
+"gutters","SC22B","223.2","N","N"," "," ","åg¸{°}t°z","MS",968
+"gutters","SC22C!","223.3!","N","N"," "," ","åg¦¼ñ°«z","MS",969
+"gutter","SC23A","224.1","N","N"," "," ","åg¦¼{°}t°«¾","MS",970
+"gutter","SC23B","224.2","N","N"," "," ","åg³«t´«¾","MS",971
+"gutters","SC23C","224.3","N","N"," "," ","åg¦½{°}t°«z","MS",972
+"gutter","SC23D","224.4","N","N","metal, hung on"," ","åg¦½{°}t°«¾","MS",973
+"pipings","SC23D","224.4","N","N","lower [than gutter]"," ","åp`µ«¼±¿p±¿¼îz","MS",973
+"drain pipe","SC23D","224.4","O","N","lower [than gutter]"," ","ådòe«º{°}n$õp`µ¼±¿p","MS",973
+"gutters","SC23E!","224.5!","N","N"," ","CNV","åg¦½¼t°«¾z","MS",974
+"gutter","SC24N","N225","N","N"," "," ","åg¦º{°}ñ°«¾","MS",975
+"gutters","SC24A","225.1","N","N"," "," ","åg¸t°z","MS",976
+"gutter","SC24B","225.11","N","N"," "," ","åg¸«t°«¾","MS",977
+"gutter","SC24C","225.2","N","N"," "," ","åg¸«{°}ñ°","MS",978
+"gutters","SC24D!","225.3!","N","N","lead then, not now"," ","åg¸¼{°}ñ°«¾z","MS",979
+"channel drain","SC24D!","225.3!","O","N","heavy tin"," ","åtó`á«{°}nì$õdòe«º{°}n","MS",979
+"gutters","SC25A","226.1","N","N"," "," ","åg¸«º{°}t°z","MS",980
+"troughs","SC25A","226.1","N","Y"," ","OLD","tò·º{¹}z","MS",980
+"gutters","SC25B","226.2","N","N"," "," ","åg¦½ñ°«z","MS",981
+"water drains","SC25B","226.2","O","N"," "," ","åw·º{°}t°$dòeºnz","MS",981
+"gutters","SC25C!","226.3!","N","N"," "," ","åg¦½t°½z","MS",982
+"drain pipes","SC25C!","226.3!","O","N"," "," ","ådòe«n$õp`µ¼±¿ps","MS",982
+"trough","SC26A","227.1","N","N"," "," ","tò·º{°}f{t}","MS",983
+"trough","SC26A","227.1","N","N"," "," ","tò·º{°}f","MS",983
+"gutter","SC26B!","227.2!","N","N"," "," ","åg¦½ñ°","MS",984
+"gutters","SC27A","228.1","N","N"," "," ","åg¸«ñ°z","MS",985
+"Gebelen","SC27A","228.1","N","N"," "," ","ågeºb{l}õ²n","MS",985
+"gutter","SC27B","228.2","N","N"," "," ","åg¦½t°","MS",986
+"just let it rain","SC28A","229.1","O","Y","doesn't know [gutter]","INA","dú²¾{°}st$ål²«t$±¿¼t$õre«º{±¿}n","MS",987
+"gutters","SC28B","217.2","N","N"," "," ","åg¦½ñ°İ«z","MS",988
+"gutter","SC28C","229.2","N","N"," "," ","åg¦½ñ°","MS",989
+"rain pipe","SC28C","229.2","O","N","alsways of tin"," ","åre«º{°}n$õp`a«¾º°p","MS",989
+"gutter","SC28D","229.3","N","N"," ","SIC","åsk¦½d°","MS",990
+"guttering","SC29A","230.2(*)","N","N","under edge of shingles"," ","åg¦¼t´±¿¼n","MS",991
+"drains","SC29A","230.2(*)","N","N"," "," ","dòe«º{°}nz","MS",991
+"gutters","SC29B","230.1(*)","N","N","on roof; to catch rain water"," ","åg¦½ñ´z","MS",992
+"gutters","SC29C","230.3","N","N","in wood in those days"," ","åg¦½t°«z","MS",993
+"water gutters","SC29D","230.2X","O","N"," "," ","åw·«{°}ñ°$õg¦½{°}ñ°«¾z","MS",994
+"NR","SC29E","230.1X"," ","N"," "," "," ","MS",995
+"eaves troughs","SC30A","231.1","O","N"," "," ","åijvz$tr¸½ºvz","MS",996
+"gutter","SC30B","231.2","N","N","V-shaped, of boards along edge"," ","åg¦½ñ°¾","MS",997
+"down pipe","SC30B","231.2","O","N","running down"," ","åda«¾º¹n$p`a«¾±¿p","MS",997
+"gutter","SC30C!","231.3!","N","N","whole thing"," ","åg¦½ñ°«¾","MS",998
+"gutters","SC31A","232.1","N","Y","recent","NEW","åg¦½ñ°«z","MS",999
+"eaves trough","SC31B","232.2","O","N"," "," ","åiºvz$õtò··«f","MS",1000
+"trough","SC31B","232.2","N","N"," "," ","tò··«f","MS",1000
+"gutters","SC32A","233.1","N","N"," "," ","åg¦½t°«z{z}","MS",1001
+"gutters","SC32B","233.2","N","N"," "," ","åg¦½ñ°«¾z","MS",1002
+"pipe","SC32B","233.2","N","N"," "," ","p`o¼±¿p","MS",1002
+"gutters","SC32C","233.3","N","N"," "," ","åg¦½{°}t°«¼z","MS",1003
+"gutters","SC32D","233.4","N","N"," "," ","åg¦¼t°«z","MS",1004
+"gutters","SC33A","234.1","N","N"," "," ","åg¸«¼{°}ñ°z","MS",1005
+"gutter","SC33B","234.2","N","N"," "," ","åg¦½{°}t°«¾","MS",1006
+"guttering","SC33B","234.2","N","N"," "," ","g¦½ñ´±¿¼î","MS",1006
+"guttering","SC34A","235.1","N","N","we didn't have"," ","åg¦½ñ´±¾î","MS",1007
+"guttering","SC34B","235.2","N","N","came in very late"," ","åg¦¼ñ´±¿İ¼î","MS",1008
+"guttering","SC34C","235.3","N","N"," "," ","åg¦½ñ´±¾î","MS",1009
+"water pipes","SC34C","235.3","O","N"," "," ","åwŞ{°}ñ°$õp`a¾±¿ps","MS",1009
+"NR","SC35A","236.1"," ","N","didn't have [gutters]"," "," ","MS",1010
+"gutter","SC35B","236.2","N","N"," "," ","åg¦¼ñ´«¾","MS",1011
+"gutters","SC35C","236.3(*)","N","N"," "," ","åg¸«ñ°«z","MS",1012
+"NR","SC35D","236.2X"," ","N"," "," "," ","MS",1013
+"gutters","SC35E!","236.3X","N","N","wasn't very many"," ","åg¦½ñ°«¾z","MS",1014
+"eaves","SC35E!","236.3X","N","N","wasn't very many"," ","ijvz{z}","MS",1014
+"pipe","SC35E!","236.3X","N","N","wasn't very many"," ","p`a«¾º±¿p","MS",1014
+"gutters","SC36A","237.1","N","Y"," ","NEW","åg¦½t´«¾z","MS",1015
+"drip boards","SC36A","237.1","O","Y"," ","OLD","ådò±«p$õbo«¼º´¾ddz{z}","MS",1015
+"gutter","SC36B","237.2","N","N"," "," ","åg¦½ñ´¾","MS",1016
+"drain pipe","SC36B","237.2","O","N"," "," ","ådòeº{±}n$õp`µ¼±¿p","MS",1016
+"gutters","SC36C","237.3","N","Y"," ","HRD","åg¦½ñ°¾z","MS",1017
+"gutters","SC36D!","237.4!","N","N"," "," ","åg¦½¼ñ°«z{z}","MS",1018
+"guttering","SC36D!","237.4!","N","N"," "," ","åg¦¼ñ´±¾î","MS",1018
+"drain spout","SC37","238","O","N"," "," ","ådòe±¿n$õspa«¾¹t","MS",1019
+"drain pipe","SC37","238","O","N"," "," ","ådòe±¿n$õa«¾±¿p","MS",1019
+"gutters","SC38N","N239","N","N"," "," ","åg¦½t°«z","MS",1020
+"pipe gutter","SC38N","N239","N","N"," "," ","åp`a«¾±¿p$g¦¼ñ°","MS",1020
+"gutter","SC38A","239.1","N","N"," "," ","åg¦½ñ°«","MS",1021
+"water pipe","SC38A","239.1","O","N","on roof"," ","åw¶«¼o¼t°$õp`a«¾±¿p","MS",1021
+"tin troughs","SC38A","239.1","O","N"," "," ","åt±«n$õt`ò¶¼o¼fts","MS",1021
+"gutter","SC38B","239.2","N","N"," "," ","åg¦½¼ñ°","MS",1022
+"down gutter","SC38B","239.2","O","N","spout"," ","åda«¾ºon$õg¦½¼ñ°","MS",1022
+"gutters","SC38C!","239.3!","N","N"," "," ","NR","MS",1023
+"gutters","SC38D!","239.4(*)!","N","N"," "," ","g¦¼ñ°«z","MS",1024
+"gutter","SC38D!","239.4(*)!","N","N"," "," ","g¦¼½ñ°¾","MS",1024
+"weepers","SC38D!","239.4(*)!","N","N","""architects call mine"," ","wiºjp°«¾z","MS",1024
+"NR","SC38E!","239.4X"," ","N"," "," "," ","MS",1025
+"gutters","SC39A","240.1","N","N"," ","CNV","åg¦½ñ°«¾z{z}","MS",1026
+"gutters","SC39A","240.1","N","N"," "," ","åg¦½ñ°«z","MS",1026
+"drain pipe","SC39A","240.1","O","N"," "," ","ådò¥º±¿«¼n$õp`µ«¼±¿p","MS",1026
+"gutters","SC39B!","240.2!","N","N","rare"," ","g¦¼t°«z","MS",1027
+"gutters","SC40A","241.1","N","N"," "," ","åg¸«t°«¾z","MS",1028
+"tin troughs","SC40A","241.1","O","N"," "," ","åt`±½n$åtò¶«o½vz","MS",1028
+"tin trough","SC40A","241.1","O","N"," "," ","åt`±½n$åtò¶«o½ft","MS",1028
+"gutters","SC40B","241.2","N","N"," "," ","åg¸—«t°¾z","MS",1029
+"gutters","SC41A","242.1","N","N"," "," ","åg¸«¼{°}ñ°z","MS",1030
+"gutter","SC41B","242.2","N","N"," "," ","åg¸ñ°¾","MS",1031
+"trough","SC41B","242.2","N","N","wooden"," ","tò¶”of","MS",1031
+"gutters","SC42N","N243","N","N"," "," ","åg¦½t°z{z}","MS",1032
+"gutters","SC42N","N243","N","N"," "," ","åg¦¼½t°«¾z","MS",1032
+"NR","SC42M","N243X"," ","N"," "," "," ","MS",1033
+"gutter","SC42A","243.1","N","N","most country homes don't have 'em"," ","åg¸«t°","MS",1034
+"gutters","SC42B!","243.2!","N","N"," "," ","åg¦½ñ°½z","MS",1035
+"spouting","SC42B!","243.2!","N","N"," "," ","åspa¾¹t±¾î","MS",1035
+"spout","SC42B!","243.2!","N","N"," "," ","spµ«¼¹t","MS",1035
+"gutter","SC42C!","243.3!","N","N"," "," ","g¦½t°","MS",1036
+"guttering","SC42C!","243.3!","N","N","under eaves"," ","ågˆ¦t´±¾î","MS",1036
+"gutter","SC42C!","243.3!","N","Y","under eaves","HRD","åg¸«t°","MS",1036
+"gutters","SC42C!","243.3!","N","N","under eaves"," ","åg¸«¼t°İz","MS",1036
+"spouts","SC42C!","243.3!","N","N","under eaves"," ","åspa«o«ts","MS",1036
+"troughs","SC42C!","243.3!","N","Y","under eaves","HRD","åtò¶·vs","MS",1036
+"gutters","SC42D!","243.4!","N","N","horizontal and vertical"," ","åg¸«¾t°z","MS",1037
+"gutters","SC42E!","243.5!","N","N"," "," ","åg¸«t°z","MS",1038
+"gutter","SC43A","244.1","N","N"," "," ","åg¦½t´","MS",1039
+"gutter","SC43B","244.2","N","N"," "," ","ågˆ¦½ñ´","MS",1040
+"trough","SC43B","244.2","N","N"," "," ","t`ò¶«o½ft","MS",1040
+"gutters","SC43C","244.3","N","N","(tin)"," ","åg¦½¼t°z","MS",1041
+"little troughs","SC43C","244.3","O","N","plank"," ","õl±¾«{°}tì$åtò¶«o½vz","MS",1041
+"eaves trough","SC44A","245.1","O","N"," "," ","åii«v$õtò¸¾of","MS",1042
+"gutters","SC44B","245.2","N","N","(= down spout)"," ","åg¦½ñ°z","MS",1043
+"trough","SC44B","245.2","N","N"," ","CNV","tò¶«of","MS",1043
+"pipes","SC44B","245.2","N","Y"," ","HRD","p`µ«¼±¿ps","MS",1043
+"trough","SC44B","245.2","N","N","under eaves"," ","tò¶«oft","MS",1043
+"gutter","GA1N","N246","N","N"," "," ","åg¦—½ñ°","MS",1044
+"gutter","GA1N","N246","N","N"," "," ","åg¸«¼t°","MS",1044
+"gutters","GA1A","246.1(*)","N","N"," "," ","åg¦½t°«¾z","MS",1045
+"gutter pipe","GA1A","246.1(*)","O","N"," "," ","åg¦½ñ°$õp`¥¼±¿p","MS",1045
+"trough","GA1A","246.1(*)","N","N"," "," ","tò·ºf{t}","MS",1045
+"gutters","GA1A","246.1(*)","N","N"," "," ","åg¸{°}t´z","MS",1045
+"gutter","GA1B","246.11","N","N"," "," ","g¸¼t°","MS",1046
+"gutters","GA1C","246.2","N","N"," "," ","åg¸«t°«z","MS",1047
+"gutters","GA1D","246.3","N","N"," "," ","åg¸ñ°«z","MS",1048
+"leaders","GA1D","246.3","N","Y"," ","HRD","åliº{±¿}d°«¾z","MS",1048
+"gutters","GA1E","246.4","N","N"," "," ","åg¦½ñ°«¾","MS",1049
+"drain pipe","GA1E","246.4","O","N"," "," ","ådò¥º{±¿}n$õp`¥±¿p","MS",1049
+"drain","GA1E","246.4","N","N"," "," ","dò¥º{±¿}n","MS",1049
+"gutters","GA1F!","246.5!","N","N"," "," ","g¸½t°z","MS",1050
+"gutters","GA1G!","246.6!","N","N","(some suspended)"," ","åg¸«ñ°«¾z","MS",1051
+"gutters","GA1H!","246.7!","N","N"," "," ","åg¸½t°½z","MS",1052
+"trough","GA2N","N247","N","Y","""what I'd call it","DBT","t`ò·«¼º{°}ft","MS",1053
+"gutter","GA2A","247.1","N","N","vertical"," ","åg¸«ñ´¾","MS",1054
+"gutter","GA2B","247.2","N","N"," "," ","åg¸¼ñ´«¾","MS",1055
+"gutters","GA3A","248.1","N","N"," "," ","åg¸½t°½z","MS",1056
+"gutter","GA3B","248.2","N","N"," "," ","åg¸«ñ´","MS",1057
+"trough","GA4N","N249","N","N"," "," ","tò·ºf","MS",1058
+"gutter","GA4A","249.1","N","N","(wooden)"," ","åg¸½ñ°","MS",1059
+"down pipe","GA4A","249.1","N","N","(wooden)"," ","ådµ«¼ºo«n$õpa±¿¼p","MS",1059
+"gutters","GA4B","249.2","N","N"," "," ","åg¸½t°«¾z","MS",1060
+"gutters","GA4C!","249.3!","N","N"," "," ","åg¸½t°«z","MS",1061
+"wood valleys","GA5A","250.1","O","N"," "," ","åw¹¼{°}d$õvál±¿¼z","MS",1062
+"wood gutters","GA5A","250.1","O","N"," "," ","åw¹¼{°}d$õg¥—¾ñ°«¾z","MS",1062
+"NR","GA5B","250.2","N","N"," "," "," ","MS",1063
+"gutter","GA5C","250.3","N","N"," "," ","åg¸¼ñ°«¾","MS",1064
+"gutters","GA5C","250.3","N","N","in after years"," ","åg¥«¾ñ°«z","MS",1064
+"trough","GA5C","250.3"," ","N"," ","N","tr·«º{°}f","MS",1064
+"gutters","GA5D!","250.4!","N","N"," "," ","g¥«¾ñ°«¾z","MS",1065
+"drains","GA5E!","250.5!","N","N"," "," ","dreº{°}nz","MS",1066
+"gutters","GA5E!","250.5!","N","N","""we didn't have'"," ","åg¸—ñ°¾z","MS",1066
+"gutters","GA6A","251.1","N","N","(tin)"," ","åg¥«ñ°«¾z","MS",1067
+"wooden gutters","GA6B!","251.2!","N","N","v-shaped"," ","åw¹¼{°}dn$õg¸«¼ñ°½","MS",1068
+"gutters","GA7","256","N","N","out of two planks"," ","åg¦½ñ°«¾z","MS",1069
+"gutter","GA8A","257.1","N","N"," "," ","åg¸½ñ´","MS",1070
+"gutters","GA8B","257.2","N","N"," "," ","åg¸½ñ´z","MS",1071
+"drains","GA8B","257.2","N","N"," "," ","dò¥º{±¿}nz","MS",1071
+"gutter","GA9A","257A.1","N","N"," "," ","åg¸½ñ´","MS",1072
+"gutter","GA9B","257A.2","N","N"," "," ","åg¸«¼ñ´","MS",1073
+"NR","GA10A","258.1","N","N"," "," "," ","MS",1074
+"gutter","GA10B","258.2","N","N"," "," ","g¸«ñ´","MS",1075
+"gutters","GA11N","N258A","N","N"," "," ","åg¸«¼l±¿z","MS",1076
+"gutter","GA12A","259.1","N","N"," "," ","åg¦½ñ´«¾","MS",1077
+"gutter","GA12A","259.1","N","N","commoner out west","CNV","åg¦½ñ´«¾","MS",1077
+"gutter","GA12B!","259.2(.3)","N","N"," "," ","åg¸«¼ñ°","MS",1078
+"gutters","GA13A","260.1","N","N"," "," ","åg¸{°}t°z","MS",1079
+"gutters","GA13B!","260.2!","N","N"," "," ","åg¸«t°«z","MS",1080
+"gutters","GA14A","261.1","N","N","where they have 'em"," ","åg¦½ñ°¾z","MS",1081
+"gutters","GA14B","261.3","N","N"," "," ","åg¸«{°}ñ´«¾z","MS",1082
+"gutters","GA14C","261.2","N","N","on porch horizontal to living room"," ","åg¸«ñ°«¾z","MS",1083
+"gutters","GA15A","262.1","N","N"," "," ","åg¸«¼ñ°z","MS",1084
+"gutter","GA15B","262.2","N","N","hung on the side"," ","åg¦¼t°","MS",1085
+"troughs","GA16A","263.2","N","N"," "," ","tò·¼{°}vz","MS",1086
+"gutters","GA16B","263.1","N","N"," "," ","åg¦½t°«z","MS",1087
+"gutter","GA16C","263.21","N","N"," "," ","åg¸«¼t°","MS",1088
+"gutters","GA16D!","263.3!","N","N"," "," ","åg¦½ñ°«z","MS",1089
+"waters drains","GA16D!","263.3!","O","N"," "," ","åw·¼º{°}t°$õdò¥«º{±¿}nz","MS",1089
+"waters spouts","GA16D!","263.3!","O","N"," "," ","åw·¼º{°}t°$õspá½¾o«ts","MS",1089
+"gutters","GA17N","N264","N","N"," "," ","åg¸«¼t°«z","MS",1090
+"gutter","GA17","264","N","N"," "," ","åg¸ºñ°","MS",1091
+"gutters","GA18A","264A.1","N","N"," "," ","åg¸«¼ñ´«z","MS",1092
+"gutters","GA18B","264A.2","N","N"," "," ","åg¸«¼l±¿«z","MS",1093
+"trough","GA18B","264A.2","N","N","(horizontal)"," ","tò¶«ºf","MS",1093
+"gutter","GA18B","264A.2","N","N"," "," ","åg¸«¼t´","MS",1093
+"pipe","GA18B","264A.2","N","N","(vertical)"," ","p`a«¾ºp","MS",1093
+"gutter","GA19A","265.1","N","N","""nice houses, now"""," ","åg¦¼t´","MS",1094
+"gutters","GA19B","265.2","N","N","not here"," "," ","MS",1095
+"gutter","GA20A","266.1","N","N","two planks nailed together"," ","õg¦½ñ´","MS",1096
+"gutter","GA20B","266.2","N","N"," "," ","åg¦½ñ°«","MS",1097
+"rain spout","GA20B","266.2","O","N"," "," ","åreº{±¿}n$õspa«¾°—t","MS",1097
+"valley tin","GA21A","267.1","O","Y","seemed to be guessing","DBT","åvá«l±¿$t±n","MS",1098
+"gutters","GA21B","267.2","N","N"," "," ","g¦t°«z","MS",1099
+"NR","GA22A","268A.1","N","N"," "," "," ","MS",1100
+"tin gutter","GA22B","268A.2","O","N","recent"," ","åti½{°}n$õg¦½ñ°¾","MS",1101
+"gutters","GA23A","268.1","N","N","hung on with wire"," ","åg¸—«ñ°«z","MS",1102
+"drain","GA23A","268.1","N","N","hung on with wire"," ","dò¥«º{±¿}","MS",1102
+"gutter","GA23B","268.11","N","N"," "," ","åg¸«¼t°","MS",1103
+"eaves","GA23C","268.2","N","N"," "," ","i{i«}vz","MS",1104
+"gutters","GA23D!","268.3","N","N"," "," ","åg¦½ñ°«z","MS",1105
+"gutters","GA23E!","268.4!","N","N","(suspended or built)"," ","åg¸«ñ°«z","MS",1106
+"eaves","GA23E!","268.4!","N","N"," "," ","±«{i}v","MS",1106
+"gutters","GA23F!","268.5!","N","N"," "," ","åg¸«¼ñ°«z","MS",1107
+"drainage pipes","GA23F!","268.5!","N","N"," "," ","ådò¥{±¿}n±¿dú$õp`a«¾±¿ps","MS",1107
+"NR","GA24N","N269","N","N"," "," "," ","MS",1108
+"gutters","GA24A","269.1","N","N"," "," ","åg¸«¼{°}ñ°z","MS",1109
+"gutters","GA24B","269.2","N","N"," "," ","åg¦½t°«z","MS",1110
+"NR","GA25N","N269A","N","N"," "," "," ","MS",1111
+"gutters","GA26","270A","N","N","suspended"," ","åg¸«¼t°«z","MS",1112
+"gutters","GA27!","270!","N","N"," ","CNV","åg¸«¼{°}ñ°«¾z","MS",1113
+"gutter","GA28","271a","N","N"," "," ","åg¸«t°","MS",1114
+"NR","GA29A","271.1"," ","N","didn't have [gutters]"," "," ","MS",1115
+"gutters","GA29B","271.2","N","N"," "," ","åg¦½t°«z","MS",1116
+"trough thing","GA29B","271.2","O","N"," "," ","åtò·ºf$õù±«î","MS",1116
+"guttering","GA30A","272.1(*)","N","Y"," ","NEW","åg¦½{°}ñ´±¿¼n","MS",1117
+"gutters","GA30B","272.2(*)","N","N","didn't have;  ""let the water drip''"," ","åg¦½{°}ñ°«¾z","MS",1118
+"gutter","GA30C!","272.3!","N","N"," "," ","åg¦½t°«","MS",1119
+"down spouts","GA30C!","272.3!","O","N"," "," ","ådá½¹n$õspá½¹ts","MS",1119
+"gutters","GA30D","272.1X","N","N","""great thing to save steps"""," ","åg¦½ñ°«¾z","MS",1120
+"NR","GA30E","272.2X"," ","N"," "," "," ","MS",1121
+"gutter","GA31","272A","N","N"," "," ","åg¸«¼ñ°","MS",1122
+"rain troughs","GA32","272B","O","N"," "," ","åre{±¿}n$õtò¶«·fs","MS",1123
+"gutteral","GA33A","272C1","N","Y"," ","AMS","åg¸«¼ñ°r°l","MS",1124
+"down spouts","GA33A","272C1","O","N"," "," ","ådá¹n$õspá¹ts","MS",1124
+"down spouts","GA33B","272C2","O","N"," "," ","åda«¹n$õspa«¹ts","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"gutters","GA34A","273.1","N","N"," "," ","åg¸«¼{°}ñ°z","MS",1127
+"gutters","GA34B","273.2","N","N"," "," ","åg¦½t°«z","MS",1128
+"gutters","GA35N","N273A","N","N"," "," ","åg¸«¼t´«z","MS",1129
+"NR","GA36N","N274A"," ","N"," "," "," ","MS",1130
+"gutters","GA37N","2N274","N","N"," ","CNV","åg¸«¼t°","MS",1131
+"valley","GA37N","2N274","N","N"," "," ","åvál±¿","MS",1131
+"gutters","GA37M!","NC274","N","N"," "," ","åg¸«t`±¿¼z","MS",1132
+"gutter","GA37A","274.1","N","N"," "," ","åg¦½t´«","MS",1133
+"gutters","GA37B","274.2","N","N"," "," ","åg¦½t°«z","MS",1134
+"gutters","GA37C","274.21","N","N"," "," ","åg¸«¼ñ´z","MS",1135
+"rain spout","GA37C","274.21","O","N"," "," ","åre{±¿}n$õspa«¹t","MS",1135
+"gutters","GA37C","274.21","N","N"," "," ","åg¸«¼ñ°«z","MS",1135
+"gutter","GA37D!","274.7!","N","N"," "," ","åg¸«ñ°«","MS",1136
+"guttering","GA37E!","274.8!","N","N"," "," ","åg¸«ñ°r±¿î","MS",1137
+"down spouts","GA37E!","274.8!","O","N"," "," ","ådá½¹n$õspá¹ts","MS",1137
+"eaves","GA37E!","274.8!","N","N"," "," ","i{i«}vz","MS",1137
+"gutters","GA37F!","274.3!","N","N"," "," ","åg¦½d°«z","MS",1138
+"gutter","GA37G!","274.4!","N","N"," "," ","åg¦½ñ´«¾","MS",1139
+"gutters","GA37H!","274.5!","N","N"," "," ","åg¦½ñ°«z","MS",1140
+"down spouts","GA37H!","274.5!","O","N"," "," ","ådáºon$õspáots","MS",1140
+"gutter","GA37I!","274.6!","N","N"," "," ","åg¸«¼t°","MS",1141
+"gutter","GA38","275","N","N"," "," ","åg¦½ñ´","MS",1142
+"drains","GA38","275","N","N"," "," ","dre{±}nz","MS",1142
+"gutters","GA39","275A","N","N"," "," ","åg¦½ñ°«z","MS",1143
+"built-in gutters","GA39","275A","N","N"," "," ","åb±ìtõ±º{°}n$åg¦½ñ°«z","MS",1143
+"gutters","GA40","276A","N","N"," "," ","åg¸«ñ°«z","MS",1144
+"eaves","GA40","276A","N","N"," "," ","iº{i«}vz","MS",1144
+"trough","GA41","276B","N","N"," "," ","tò·½of","MS",1145
+"NR","GA42A","276.1"," ","N"," "," "," ","MS",1146
+"gutter","GA42B","276.2","N","N"," "," ","åg¸½t´«","MS",1147
+"gutters","GA43","277","N","N"," "," ","åg¸«¼{°}ñ´z","MS",1148
+"trenches","GA44A","278.1","N","N"," "," ","åt`ò²¼{±¿}ntó±¿¼z","MS",1149
+"spout","GA44A","278.1","N","N"," "," ","spáot","MS",1149
+"gutter","GA44A","278.1","N","N"," "," ","åg¦½t´","MS",1149
+"NR","GA44B","278.2","N","N","didn't have [gutter]"," "," ","MS",1150
+"NR","GA44C","278.3","N","N","didn't know"," "," ","MS",1151
+"gutters","GA44D","278.4","N","N"," "," ","åg¦½t´«z","MS",1152
+"troughs","GA44D","278.4","N","N"," "," ","tò·º·«fts","MS",1152
+"NR","GA44E","278.5","N","N"," "," "," ","MS",1153
+"gutters","FL1","252","N","N"," ","SIC","åg¸«¼l±«¾","MS",1154
+"gutters","FL2A","253.1","N","N"," "," ","åg¦t°«z","MS",1155
+"gutters","FL2B","253.2","N","N"," "," ","åg¸«¼t`°«z","MS",1156
+"eaves","FL2B","253.2","N","N"," "," ","i{i«}vz","MS",1156
+"gutter","FL2C!","253.3!","N","N","(wooden)"," ","åg¸—«ñ°","MS",1157
+"guttering","FL2C!","253.3!","N","N"," "," ","åg¸«ñ´±¿¼î","MS",1157
+"gutters","FL2C!","253.3!","N","N"," "," ","åg¦½ñ°«z","MS",1157
+"gutters","FL3A","254.1","N","N"," "," ","åg¸«t°«z","MS",1158
+"wooden gutters","FL3B!","254.2!","O","N"," "," ","åw¹¼dn$õg¸«t°«z","MS",1159
+"gutters","FL4","254A","N","N"," "," ","åg¸«ñ´«z","MS",1160
+"gutters","FL5A","255.1","N","N"," "," ","åg¦½t°«z","MS",1161
+"gutters","FL5B","255.2","N","N"," "," ","åg¦½t°","MS",1162
+"","","","","","","","","",

@@ -1,0 +1,11 @@
+southeast wind (cp6#5b.asc)
+
+Items
+=====
+                           easterly    1
+                                 NR   36
+                              south    4
+                          southeast    6
+                     southeast wind   14
+                        southeaster    7
+

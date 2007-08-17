@@ -1,0 +1,10 @@
+fortnight (cl3#8.asc)
+
+Items
+=====
+                       fifteen days    1
+                          fortnight    9
+                      fourteen days    1
+                                 NR   53
+                          two weeks    3
+

@@ -1,0 +1,76 @@
+we was (cg25#5.asc)
+
+Items
+=====
+                             he was    1
+                      houses wasn't    1
+            I been a do that anyhow    1
+                             it was    2
+                                 NR   13
+                               they    1
+         they been a do that anyhow    1
+           they been a gone do that    1
+           they been going to do it    1
+                         they going    1
+                           they was   14
+                  they was few cars    1
+                     they was going    6
+             they was going do that    1
+            they was going to do it    1
+                          they were    1
+                           us don't    1
+                                was    1
+                                 we    1
+                            we been    1
+             we been a gone do that    1
+             we been going to do it    1
+                           we going    2
+                             we was   26
+                       we was going    6
+               we was going do that    1
+              we was going to do it    1
+                            we were    5
+                     we were gentle    1
+                      we were going    2
+                               were    1
+          you been a do that anyhow    1
+            you been a gone do that    1
+            you been going to do it    1
+                          you going    1
+                            you was   11
+                      you was going    6
+              you was going do that    1
+             you was going to do it    1
+
+
+
+
+P: If someone thanked you for a ride into town, you might say, "Don't mention it; we _____ going in anyway."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 25#5, "houses wasn't" is inappropriate, as is marginalia.
+
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 25 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+25#P		25#7
+25#1		25#1
+25#2		25#2
+25#3		25#3
+		25#4 (no question)
+25#4		25#5
+25#5		25#6
+25#6		25#8

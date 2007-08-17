@@ -1,0 +1,58 @@
+nor me either (cg71#2.asc)
+
+Items
+=====
+                             either    2
+             I ain't going to do it    2
+     I ain't going to do it neither    1
+                    I ain't neither    2
+                  I don't blame you    1
+                     I don't either    3
+                          I neither    6
+                          me either    6
+                         me neither   24
+                            neither    2
+                       neither am I    1
+                     neither will I    1
+                       nor I either    1
+                      nor me either    5
+                     nor me neither    4
+                                 NR   14
+                               then    1
+                  they don't either    1
+
+
+
+
+M: You agree with a friend when he says, "I'm not going to do that," or, "I'm not going to vote for that 	guy"; you say, "_____!"
+P: [As a last resort] you might say, "_____ am I" or "Me _____."  Which of those seems most natural?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 71#2, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 71 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+52#2		71#1
+71#P		71#3
+71#P		71#4
+71#1		71#2
+71#2		71#5
+71#3		71#6
+71#4		71#7
+71#5		71#8
+71#6
+71#7a,b
+71#8		72#1

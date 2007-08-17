@@ -1,0 +1,113 @@
+horse (cp34#2.asc)
+
+Items
+=====
+                      a woman horse    1
+                            changed    1
+                               colt    2
+                        draft horse    1
+                              filly    1
+                            gelding    1
+                              horse   64
+                         horse load    1
+                             horses   13
+              I used to broke horse    1
+                               mare    8
+                      marsh tackies    1
+                               mule    4
+                                 NR    2
+                          old horse    1
+                                one    1
+                 One that is change    1
+                     one-horse farm    1
+                      riding horses    1
+                   roman nose horse    1
+                              tacky    1
+                          two horse    1
+                         work horse    1
+
+Pronunciations
+==============
+                           h∂î∫{∞}s    1
+                              h∂´os    2
+                           h∂´os±øz    1
+                          h∂´os±øΩz    1
+                              h∂´∫s    1
+                           h∂´∫{∞}s    2
+                             h∂´∫∑s    1
+                          h∂∫{∞}[s]    1
+                               h∑:s    3
+                            h∑r±øÈs    1
+                                h∑s   23
+                       h∑éº∫¥ás±ﬂºz    1
+                              h∑´∞s    1
+                            h∑´º∫∞s    1
+                               h∑∞s    1
+                            h∑∞s±øz    1
+                           h∑∞s±øºz    1
+                              h∑∞Ès    1
+                               h∑∫s    1
+                           h∑∫s±øºz    1
+                            h∑∫{∞}s    3
+                              h∑∫∞s    1
+                          h∑∫∞s±øºz    1
+                             h∑∫∑´s    1
+                           h∑º∫{∞}s    1
+                       h∑º∫{∞}s±øºz    1
+                             h∑º∫∞s    1
+                            h∑Ω[∑]s    1
+                  h∑Ωoº{∞}s$loº∫πºd    1
+                              h∑Ω∞s    1
+                             h∑Ω∞ës    1
+                              h∑Ω∑s    2
+                         h∑Ω∫oÈs±øz    1
+                              h∑Ω∫s    7
+                           h∑Ω∫{∞}s    2
+                           h∑Ωºw≥éz    1
+                      h∑Ωº{∞}s±øzzè    1
+                            h∑Ωº∫∞s    1
+                           k'o´º∫lt    1
+               ÂdÚ·´∫{∞}f$ıh∑º∫{∞}s    1
+                          Âh∑∞s±øºz    1
+                          Âh∑∫∑s±øz    1
+                        Âh∑º∫∞s±øºz    1
+                           Âh∑Ωºoºs    1
+                  Âoº∫πÏ$ıh∑Ωº∫{∞}s    1
+             ÂroΩm∞$ınoº[π]z$Âh∑eÈs    1
+          Ârµ´∫±ød±æÓ$ıh∑º∫{∞}s±øºz    1
+                    Ât`uºu´$ıh∑∫oºs    1
+                        Âw≥´k$h∑´∫s    1
+                Âw∏nıh∑oºs$fﬁº∫{∞}m    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

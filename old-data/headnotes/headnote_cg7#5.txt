@@ -1,0 +1,74 @@
+froze over (cg7#5.asc)
+
+Items
+=====
+                       all froze up    1
+                             cannle    1
+                          cold snap    1
+                                dew    1
+            everything is freeze up    1
+             everything is froze up    1
+              everything is hard-up    1
+                             freeze   12
+                        freeze over    5
+                          freeze up    1
+                            freezed    6
+                              froze    3
+                         froze over   10
+                           froze up    1
+                        frozed over    1
+                             frozen    1
+                         get freeze    1
+            heavy frost make freeze    1
+                           is froze    1
+                          it freeze    8
+                       light freeze    1
+                                 NR   16
+                   the river freeze    1
+                    the river froze    1
+                the river is freeze    1
+                   the water freeze    1
+        the water freeze last night    1
+              the water freeze over    1
+       the water froze this morning    1
+                the water is freeze    1
+we take something and chuck the ice    1
+when unashum it freeze, then it snow    1
+
+
+
+The lake)   (last night.  /thick or thin?  entire surface or just the edges?/
+
+L:  It was so cold last night the lake did what?
+ 
+Notes from University of Georgia Atlas staff (1998-2000):
+  
+	Johnson:
+	
+This file gives the simple past of the verb "to freeze."  Instances of "freeze" are sometimes marked as infinitives.  Unless they are so marked or are found in the margin of the field record they are considered to be past tense forms.  "Frozen" is usually marked as a past participle (often by context given in the commentary) or is denoted as such by following a semi-colon in the list manuscript.  Also, the past participle was specifically elicited in the preliminary SAS worksheets.  
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 7#5, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 7 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+7#P		7#4
+7#1		7#1
+7#2		7#2
+7#3		7#3
+7#4a X		
+7#4b		7#5
+7#5		7#6
+7#6		7#7
+7#7		7#8

@@ -1,0 +1,79 @@
+blood pudding (cl47#1.asc)
+
+Items
+=====
+                         beef tripe    2
+                      blood pudding    2
+                             butter    1
+                       cheese souse    1
+                       cheese south    1
+                         chop liver    1
+                            cripple    1
+                              gipin    1
+                               hash    1
+                        head cheese    3
+                         hog cheese    2
+                        hog pudding    1
+                            hoghead    1
+                     hoghead cheese   37
+                    hoghead cheeses    1
+                       liver cheese    1
+                      liver pudding    6
+                        liver souse    1
+                                 NR    4
+                         press meat    2
+                   rolled hogsheads    1
+                           scrabble    1
+                               soup    1
+                              souse   19
+                         souse meat   13
+                              south    1
+                         south meat    4
+                             tripes    1
+                            tripple    1
+
+
+
+
+P: After you butcher a hog, what do you make with the meat from its head?
+or
+M: Did you ever make anything out of hog blood?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+	
+The meaty and gristly parts of the head, the hocks, and the feet of a pig are prepared in one of two ways:  (a) cut in large pieces, pickled in vinegar, and served hot or cold (called "souse"); or (b) cut into small pieces or ground up, jellied in a mold, and served cold, in slices (called "head cheese" and "hoghead cheese," but also "souse"). "Scrapple" is a mixture of cornmeal, minced head meat and head meat broth, fried and served hot. 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 47#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 47 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  				
+
+Handbook	Preliminary Worksheets
+----------------------------------
+47#P
+47#P		47#5
+47#1a
+47#1b		47#1
+		47#2 (no question)
+47#1c
+47#1d M
+47#1e
+47#1f M
+47#2
+47#3		47#3
+47#4		47#4
+47#5		47#6
+47#6		47#7

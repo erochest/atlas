@@ -1,0 +1,121 @@
+grease (cp23#7.asc)
+
+Items
+=====
+                         automobile    1
+                             grease   24
+                          grease em    4
+                      grease is oil    1
+                          grease it   15
+                     grease the car    5
+                    grease the iron    1
+                     grease the pan    1
+                   grease the wagon    1
+                   grease the wheel    1
+                          grease up    2
+                            greases    1
+                           greasing    3
+                 greasing a springs    1
+                         greasy pan    1
+                          greasy up    1
+                       he grease em    1
+                       lubricate it    1
+                                 NR    5
+                          to grease    1
+                              wheel    1
+                      you grease em    3
+
+Pronunciations
+==============
+                              grijz    1
+                               gris    1
+                       gris$d±$kjaæ    1
+                        gris$d±$kjµ    1
+                        gris$d±$kµº    1
+                     gris$d±$wa´g±n    1
+                            gris$∞m    2
+                            gris$±t    2
+                               griz    1
+                         griz$d±$kµ    1
+                        griz$d±$kµº    1
+                       griz$d±$wilç    1
+                            griz$∞m    2
+                            griz$±t    2
+                        griz$∏´{∞}p    1
+                          gri{i´}sn    1
+                gri{i´}sn$∞$spr±∫Óz    1
+                          gri{i´}sz    1
+                        gri{i´}z$±ø    1
+                          gri{i´}zn    1
+                              gri´z    1
+                          gri´{i´}s    1
+                             gri´∫z    1
+                          gri∫s$±øt    1
+                              gri∫z    9
+                          gri∫{i´}z    1
+                      gri∫{i´}z$±øt    2
+                      gri∫{±ø}z$±øt    1
+                             griΩ∫z    1
+                            griæi´z    1
+                             griæ∫s    1
+                             griæ∫z    1
+                           gr{±}i∫z    1
+                         gráijz$±øt    1
+                             gr±izè    1
+                   gr±iΩz$d∞$p·{∞}n    1
+                   gr±iΩz±ø$p·∫{≤}n    1
+                               gÚis    1
+                               gÚiz    1
+                            gÚiïæ∫z    1
+                             gÚái∫z    1
+                         hi$gris$∞m    1
+                         ju$gris$∞m    2
+                         ju$griz$∞m    1
+                    Âgriîæi´z$±øΩºt    1
+                        Âgri∫z$±øºt    1
+                        ÂgÚái∫[±ø]s    1
+                      ÂgÚái∫jz$±øΩt    1
+                    ÂgÚái∫z$∏´º{∞}p    1
+                          ÂgÚái∫znñ    1
+                   ÂgÚái∫{j}z$±øøºt    1
+                    ÂgÚái∫{±ø}z$±ºt    1
+
+
+
+
+L: If something is squeaking, to lubricate it you would have to do what to 	it?  Not oil, but the hard, solid kind?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The pronunciations [gri∫z] and [gri∫z±ø] are almost universal; [gri∫s] and [gri∫s±ø] occur only along the northern fringe, except for scattered instances.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 23#7, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 23 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+23#P		23#7
+23#1		23#1a
+23#2		23#1b
+23#3		23#2
+23#4		23#3
+23#5		23#4
+23#6		23#5
+		23#6 (no question)
+23#7		23#8
+23#8		24#1

@@ -1,0 +1,1476 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"to the southward","NY3A","401","Q","N"," "," ","t°$ä°$s¸ä°d","MS",5
+"to the southward","NY3B","403","Q","N"," "," ","t°$ä°$s¸ä°d","MS",6
+"to the southward","NY3C","402","Q","N"," "," ","t°$ä°$s¸¾ä°d","MS",7
+"to the southward","NY3D","404","Q","N"," "," ","t°$ä°$s¸ä°d","MS",8
+"from the south","NY4A","405","Q","N"," "," ","fr°m$ä°$sáİ¾¹ù","MS",9
+"southward","NY4B","407","A","N"," "," ","s¸ä°d","MS",10
+"southward","NY4B","407","A","N"," "," ","s¸¼ä°d","MS",10
+"northward","NY4B","407","A","N"," "," ","nµ«ä°d","MS",10
+"to the southward","NY4C","408","Q","N"," "," ","t°$ä°$s¸ä°d","MS",11
+"from the south","NY5A","409","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",12
+"from the south","NY5B","410","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",13
+"from the south","NY5C","411","Q","N"," "," ","fr°m$ä°$sá½¹«ù","MS",14
+"from the south","NY5D","412","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",15
+"from the south","NY5E","413","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",16
+"to the southward","NY5F","414","Q","N","waters"," ","t°$ä°$s¸ä°d","MS",17
+"from the south","NY5F","414","Q","N","land"," ","fr°m$ä°$sa«º¹ù","MS",17
+"from the south","NY5G","415","Q","N"," "," ","fr°m$ä°$sa¼º¹½ù","MS",18
+"from the south","NY5H!","416!","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",19
+"from the south","NY5I!","417!","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",20
+"to the southward","NY6A","418","Q","N"," "," ","t°$ä°$ås¸«¼ä°d","MS",21
+"from the south","NY6B","419","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",22
+"from the south","NY7A","420","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",23
+"from the south","NY7B","421","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",24
+"from the south","NY7C","422","Q","N"," "," ","fò°m$ä°$sá½º¹ù","MS",25
+"from the south","NY7D","423","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",26
+"from the south","NY7E","424","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",27
+"from the south","NY7F","425","Q","N"," "," ","fr°m$ä°$åsa¹ù","MS",28
+"from the south","NY7G","426","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",29
+"from the south","NY7H","427","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",30
+"from the south","NY7I","428","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",31
+"from the south","NY7J!","429!","Q","N"," "," ","fò°m$ä°$saº¹ù","MS",32
+"from the south","NY7K!","430!","Q","N"," "," ","fr°m$ä°$sáİ¹ù","MS",33
+"from the south","NY7L!","431!","Q","N"," "," ","fr°m$ä°$saİ¹İ«ù","MS",34
+"from the south","NY7M!","432!","Q","N"," "," ","fr°m$ä°$sa«º¹½ù","MS",35
+"from the south","NY8","432b","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",36
+"from the south","NY9A","432c","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",37
+"from the south","NY9B","433","Q","N"," "," ","fò°m$ä°$sá½¹ù","MS",38
+"from the south","NY9C","434","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",39
+"from the south","NY10A","435","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",40
+"from the south","NY10B!","436!","Q","N"," "," ","fò°m$ä°$sá½¹ù","MS",41
+"from the south","NY11","438","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",42
+"from the south","NY12A","439(*)","Q","N"," "," ","fò°m$ä°$s²½¾¹«ù","MS",43
+"from the south","NY12B","440","Q","N"," "," ","fr°İm$ä°$sa¹ù","MS",44
+"from the south","NY12C!","441!","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",45
+"from the south","NY13A","443","Q","N"," "," ","fò°m$ä°$sa¾¹ù","MS",46
+"from the south","NY13B!","444!","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",47
+"from the south","NY14A","445","Q","N"," "," ","fò°m$ä°$sa¹ù","MS",48
+"from the south","NY14B","446","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",49
+"from the south","NY15A","447","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",50
+"from the south","NY15B","448","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",51
+"from the south","NY16A","449","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",52
+"from the south","NY16B","450","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",53
+"from the south","NY17A","451(*)","Q","N"," "," ","fr°m$ä°$s²¹ù","MS",54
+"from the south","NY17B","452","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",55
+"from the south","NY18A","453","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",56
+"from the south","NY18B","454","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",57
+"from the south","NY18C!","455!","Q","N"," "," ","fr°m$ä°$åsa«¾¹ù","MS",58
+"from the south","NY19","456","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",59
+"from the south","NY20A","457","Q","N"," "," ","fr°m$ä°$sµ«¹ù","MS",60
+"from the south","NY20B","458","Q","N"," "," ","fò°m$ä°$åsa«¹ù","MS",61
+"from the south","NY21","459","Q","N"," "," ","fr°m$ä°$sa¼¹ù","MS",62
+"from the south","NY22","460","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",63
+"NA","NY23A","461"," ","N"," "," "," ","MS",64
+"south","NY23B","462a","N","N"," ","CNV","sµ«¼¹ù","MS",65
+"from the north","NY23B","462a","Q","N"," "," ","frm$ä°$åno½´ù","MS",65
+"from the north","NY23C","462b","Q","N"," "," ","f{ñ}m$ä°$åno½´ù","MS",66
+"from the south","NY23C","462b","Q","N","""raking winds¢"," ","fm$ä°$åsµ«¼¹ù","MS",66
+"raking winds","NY23C","462b","O","Y"," ","INA","åre½±¾k±¿¼î$õw±«nz","MS",66
+"from the south","NY24A","463","Q","N"," "," ","fò°m$ä°$sa«º¹ù","MS",67
+"from the south","NY24B!","464!","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",68
+"from the south","NY25A","465","Q","N"," "," ","f{r}m$ä°$s²½¾¹ù","MS",69
+"from the west","NY25A","465","Q","N"," "," ","f{r}m$ä°$åw²«st","MS",69
+"in the west","NY25B","466","Q","N","""it gathers¢"," ","±¿¼n$ä°$w²st","MS",70
+"south","NY25B","466","N","N"," ","CNV","sµ¹ù","MS",70
+"it gathers","NY25B","466","S","Y"," ","INA","±¿¼t$åg²ä´«z","MS",70
+"from the west","NY26A","467","Q","N"," "," ","fm$ä°$åw²«s","MS",71
+"south","NY26A","467","N","N"," "," ","åsá½¹ù","MS",71
+"from the west","NY26B","468","Q","N"," "," ","frm$ä°$w²st","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"from the west","NY27A","470","Q","N"," "," ","f{r}m$ä°$åw²{°}st","MS",74
+"south","NY27A","470","N","N"," "," ","ås¥¹ù","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"south","NY27C","472","N","N"," "," ","sa¾¹ù","MS",76
+"from the north","NY27C","472","Q","N"," "," ","fm$ä°$ån·½´ù","MS",76
+"from the south","NY28A","473a","Q","N"," "," ","f{r}m$ä°$s¥¹ù","MS",77
+"from the west","NY28A","473a","Q","N"," "," ","f{r}m$ä°$åw²st","MS",77
+"turns south","NY28B","473b(*)","E","N"," "," ","õt³¾´nz$åsµ«¹ù","MS",78
+"is south","NY28B","473b(*)","E","N"," "," ","±¿z$åsµ¹ù","MS",78
+"a hard south wind","NY28B","473b(*)","O","N"," "," ","°$åhµ´d$õs¥¹ù$åw±«n","MS",78
+"NA","NY28C"," "," ","N"," "," "," ","MS",79
+"from the south","NY29A","474a","Q","N"," "," ","frm$ä°$ås¥¼¹ù","MS",80
+"from the east","NY29A","474a","Q","N"," "," ","fm$ä°$åiºi«st","MS",80
+"from the west","NY29A","474a","Q","N"," "," ","fm$ä°$åw²st","MS",80
+"from the south","NY29B","474b","Q","N"," "," ","fm$ä°$åsµ¹ù","MS",81
+"from the south","NY29C","474c","Q","N"," "," ","fm$ä°$åsá¹ù","MS",82
+"the wind's west","NY29C","474c","Q","N"," ","CNV","ä°$õw±ºnz$åw²st","MS",82
+"south","NY29C","474c","N","N"," "," ","åsµ¹ù","MS",82
+"in the west","NY30A","475a","Q","N"," "," ","±¿¼n$ä°$åw²st","MS",83
+"from the west","NY30A","475a","Q","N"," "," ","f{r}m$ä°$w²st","MS",83
+"from the south","NY30A","475a","Q","N"," "," ","f{r}m$ä°$s²¾¹ù","MS",83
+"from the southwest","NY30B","475b","Q","N"," "," ","frm$ä±¿¼$ås¥¹ùõw²«st","MS",84
+"south","NY30B","475b","N","N"," "," ","s¥¹ù","MS",84
+"south wind","NY30B","475b","O","N"," "," ","ås¥¹ù$õw±«n","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NA","NY30D","475d"," ","N"," "," "," ","MS",86
+"from the south","NY30E","475e","Q","N"," "," ","fm$ä°$åsá¾¹ù","MS",87
+"from the south","NY31A","478a","Q","N"," "," ","fm$ä°$ås²¾¹ù","MS",88
+"from the southwest","NY31A","478a","Q","N"," "," ","fm$ä°$ås²½¾¹ùõw²«st","MS",88
+"from the south","NY31B","478b","Q","N"," "," ","fm$ä°$åsá½¾¹ù","MS",89
+"in the south","NY31B","478b","Q","N"," "," ","n–$ä°$ås²½¾¹ù","MS",89
+"from the west","NY31B","478b","Q","N"," "," ","fm$ä°$åw²«s","MS",89
+"from the southwest","NY31B","478b","Q","N"," "," ","fm$ä°$ås³¼¹ùõw²«st","MS",89
+"from the north","NY31B","478b","Q","N"," "," ","fm$ä°$ån¶«´ù","MS",89
+"in the south","NY32A","479a","Q","N"," "," ","±¿n$ä°$ås¥½¹ù","MS",90
+"from the west","NY32A","479a","Q","N"," "," ","fm$ä°$åw²«st","MS",90
+"from the south","NY32B","479b","Q","N"," "," ","fm$ä°$ås¥¹ù","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"from the south","NY33B","481","Q","N"," "," ","frm$ä°$åsµ«¹ù","MS",93
+"a southernly wind","NY33B","481","O","N"," "," ","°$ås¸ä´nl±«¾$õw±¾n","MS",93
+"south","NY33B","481","N","N"," ","CNV","sµ¹ù","MS",93
+"from the south","NY33C","482","Q","N"," "," ","frm$ä°$åsµ«¹ù","MS",94
+"from the south","NY34A","483","Q","N"," "," ","fm$ä°$s¥½¹ù","MS",95
+"in a southerly direction","NY34A","483","Q","N"," "," ","n–$°$ås¦½ä°l±«¾$d±¿åò²«kón–","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NA","NY34C","485"," ","N"," "," "," ","MS",97
+"from the south","NY34D!","486!","Q","N"," "," ","f{r}m$ä°$åsµ¼o¼ù","MS",98
+"southerly wind","NY34D!","486!","O","N"," "," ","ås¸«ù´l±¿¼$õw±ºn","MS",98
+"from the south","NY35A","487","Q","N"," "," ","fr°m$ä°$s²İ¾¹ù","MS",99
+"from the south","NY35B","488","Q","N"," "," ","fò°m$ä°$åsa«¾¹ù","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"from the south","NY36A","491","Q","N"," "," ","fò°m$ä°$s²½¾¹ù","MS",102
+"from the south","NY36B","492","Q","N"," "," ","fr°m$ä°$s²½¹ù","MS",103
+"from the south","NY37A","493","Q","N"," "," ","fò°m$ä°$s²¾¹ù","MS",104
+"from the south","NY37B","494","Q","N"," "," ","fò°m$ä°$sa«¾¹ù","MS",105
+"from the south","NY37C!","495!","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",106
+"from the south","NY38A","497(*)","Q","N"," "," ","fò°m$ä°$sa«¾¹ù","MS",107
+"from the south","NY38B","498","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"from the south","NY39A","499","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",110
+"from the south","NY39B","500","Q","N"," "," ","fò°m$ä°$s²½¾¹ù","MS",111
+"from the south","NY40A","501","Q","N"," "," ","fò°m$ä°$sa¹ù","MS",112
+"from the south","NY40B","502","Q","N"," "," ","fò°m$ä°$sa«¹ù","MS",113
+"from the south","NY41","504","Q","N"," "," ","fr°m$ä°$sa¾¹ù","MS",114
+"from the south","NY42A","505","Q","N"," "," ","fr°m$ä°$sá«¹ù","MS",115
+"from the south","NY42B","506","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"from the south","NY43B","507b","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",118
+"from the south","NY43C!","508!","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",119
+"from the south","NY44A","511","Q","N"," "," ","fr°m$ä°$sá«¹ù","MS",120
+"from the south","NY44B","512","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",121
+"from the south","NY45A","513a","Q","N"," "," ","fm$ä°$åsµ½¹ù","MS",122
+"from the northwest","NY45A","513a","Q","N"," "," ","fm$ä°$ån·´ùõw²«st","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"in the east","NY45D!","513d!","Q","N"," "," ","±¿n$ä°$åi½ist","MS",125
+"from the southeast","NY45D!","513d!","Q","N"," "," ","fòm$ä°$ås¥½¹ùõi½ist","MS",125
+"south","NY45D!","513d!","N","N"," "," ","sµ½¹ù","MS",125
+"from the west","NY46A","515a","Q","N"," "," ","fm$ä°$åw²«st","MS",126
+"south wind","NY46A","515a","O","N"," ","CNV","õsµ«¹ù$åw±«n","MS",126
+"in the north","NY46A","515a","Q","N"," ","CNV","±¿¼n$ä°$ån¶«°«ù","MS",126
+"in the south","NY46B","515b","Q","N"," "," ","±n$ä°$sá½¾¹ù","MS",127
+"in the west","NY46B","515b","Q","N"," "," ","±n$ä°$w²{°}st","MS",127
+"coming from northwest","NY46B","515b","E","N","SSS"," ","k`¸m±¿n$fr°m$ån·½´ùw²{°}st","MS",127
+"from the south","NY46C","515c","Q","N"," "," ","f{r}m$ä°$sa¾¹«ù","MS",128
+"from the west","NY46C","515c","Q","N"," "," ","f{r}m$ä°$w²s","MS",128
+"from the southwest","NY46C","515c","Q","N"," "," ","fr°m$ä°$sa¾¹«ùw²º{°}st","MS",128
+"from the south","NY47A","517(*)","Q","N"," "," ","fm$ä°$ås¥½¹ù","MS",129
+"from the north","NY47A","517(*)","Q","N"," "," ","fm$ä°$ån·´ù","MS",129
+"from the south","NY47B","518","Q","N"," "," ","fò°m$ä°$sa¹ù","MS",130
+"from the west","NY48A","519a","Q","N"," "," ","fm–$ä°$åw²«s","MS",131
+"in the south","NY48A","519a","Q","N"," "," ","±¿¼n$ä°$åsá¾où","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"from the south","NY48C","519c","Q","N"," "," ","fm$ä°$ås¥o¼ù","MS",133
+"in the west","NY48C","519c","Q","N"," "," ","±¿¼n$ä°$åw²«st","MS",133
+"a westerly","NY48C","519c","O","N"," "," ","°$åw²st´l±¿¼","MS",133
+"from the south","NY48D","519d","Q","N"," "," ","fm$ä°$ås¥½o¼ù","MS",134
+"in the south","NY48D","519d","Q","N","wind"," ","n$ä°$ås¥½o¼ù","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"from the south","NY49C","522a","Q","N"," "," ","frm$ä°$åsa«¹ù","MS",137
+"from the north","NY49C","522a","Q","N"," "," ","f{r}m$ä°$ån·´ù","MS",137
+"from the south","NY49D","522b","Q","N"," "," ","õfr¸m$ä°$ås¥¹ù","MS",138
+"from the west","NY50A","523","Q","N"," "," ","f{r}m$ä°$w²«s","MS",139
+"in the west","NY50A","523","Q","N"," "," ","±¿n$ä°$w²«s","MS",139
+"a cold south wind's a north wind come back","NY50A","523","S","Y"," ","INA/RN1","°$ko½¼¹ì$åsµ«¼¹ù$õw±nz°$ån·´ùõw±n","MS",139
+" ","NY50A","523"," "," "," ","RN2","õk¸«m$åbá«k","MS",139
+"from the east","NY50B","524","Q","N"," "," ","fm$ä±¿$åi½ist","MS",140
+"south","NY50B","524","N","N"," "," ","sµ«¼¹ù","MS",140
+"from the east","NY50B","524","Q","N"," "," ","fr°½¾m$ä±¿$åi½ist","MS",140
+"from the south","NY51A","525a","Q","N"," "," ","fm$ä°$ås³¹ù","MS",141
+"from the east","NY51A","525a","Q","N"," "," ","fm$ä°$åi½ist","MS",141
+"from the south","NY51B","525b","Q","N"," "," ","fm$ä°$åsa¾o¼ù","MS",142
+"in the east","NY51B","525b","Q","N"," "," ","±¾n$ä°$åi½ist","MS",142
+"south","NY51B","525b","N","N"," "," ","sa¾o¼ù","MS",142
+"from the south","NY51C","525c","Q","N"," "," ","fm${ä}°$ås¥½¹ù","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"from the south","NY52A","527","Q","N"," "," ","fm$ä°$ås³¼¹ù","MS",146
+"from the west","NY52A","527","Q","N"," "," ","fm$ä°$åw²«s","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"wind's south","NY52C","528b","O","N"," "," ","w±nz$åsa«¹ù","MS",148
+"in the south","NY53A","529","Q","N"," "," ","±¿¼n$ä°$sá¾¹ù","MS",149
+"from the northwest","NY53A","529","Q","N"," "," ","fm$ä°$ån·¼´ùõw²«s","MS",149
+"in the southeast","NY53A","529","Q","N"," "," ","±¿¼n$ä°$åsµ«¹ùõi½is","MS",149
+"from the west","NY53B!","530!","Q","N"," "," ","fm$ä°$åw²«st","MS",150
+"from the west","NY53B!","530!","Q","N"," "," ","fò¸½m$ä°$w²«st","MS",150
+"south","NY54A","531","N","N"," "," ","s¥¹ù","MS",151
+"from the east or the south","NY54A","531","Q","N"," "," ","fr°m$ä°$åi½ist$´$ä±¿½$ås¥½¹ù","MS",151
+"from the south","NY54B","532","Q","N"," "," ","frm$ä°$s¥¹ù","MS",152
+"from the west","NY55A","533","Q","N"," "," ","f{r}°İm$ä°$åw²«{°}st","MS",153
+"in the south","NY55A","533","Q","N"," "," ","±¾n$ä°$åsá½¾¹ù","MS",153
+"in the south","NY55B","534","Q","N"," "," ","±«n$ä°$åsá½¹ù","MS",154
+"the wind is in the north","NY55B","534","S","N"," "," ","ä°$w±«nd$±¿¼z$±«n$ä°$ån·´ù","MS",154
+"from the west","NY56A","535","Q","N"," "," ","fm$ä°$åw²«s","MS",155
+"in the south","NY56B","536","Q","N"," "," ","±¿n$ä°$ås³¼¹ù","MS",156
+"from the west","NY56B","536","Q","N"," "," ","fm$ä°$åw²st","MS",156
+"from the south","NY57A","537a","Q","N"," "," ","fm$ä°$ås¥¹ù","MS",157
+"from the west","NY57A","537a","Q","N"," "," ","fm$ä°$åw²«st","MS",157
+"from the east","NY57A","537a","Q","N"," "," ","fm$ä°$i½ist","MS",157
+"in the west","NY57A","537a","Q","N"," "," ","n$ä°$åw²«st","MS",157
+"NA","NY57B","537b"," ","N"," "," "," ","MS",158
+"from the southwest","NY57C!","537c!","Q","N"," "," ","f{ò}m$ä°$åsá½¾¹ùõw²«st","MS",159
+"from the south","NY58A","539a","Q","N"," "," ","fm$ä°$åsµ«¹ù","MS",160
+"from the west","NY58B","539b","Q","N"," "," ","fm$ä°$åw²«s","MS",161
+"from the east","NY58B","539b","Q","N"," "," ","fm$ä°$åiº{j}st","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"from the south","NY58D!","539d!","Q","N"," "," ","fm$ä°$åsµ«¹ù","MS",163
+"from the west","NY58D!","539d!","Q","N"," "," ","fm$ä°$åw²«st","MS",163
+"from the southwest","NY58E!","539e!","Q","N"," "," ","frm$ä°$åsµ«¹ùõw²«st","MS",164
+"from the west","NY58E!","539e!","Q","N"," "," ","frm$ä°$w²«st","MS",164
+"from the west","NY58E!","539e!","Q","N"," "," ","fr°½m$ä°$w²«st","MS",164
+"NA","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"in the south","NY59A","543","Q","N"," "," ","±¿n$ä°$ås¥¹ù","MS",166
+"from the south","NY59A","543","Q","N"," "," ","frm$ä°$ås¥º¹ù","MS",166
+"from the south","NY59B","544","Q","N"," "," ","fr°m$ä°$åsa¾¹ù","MS",167
+"in the west","NY60A","545","Q","N"," "," ","±¾n$ä°$åw²«st","MS",168
+"from the east","NY60A","545","Q","N"," "," ","fm$ä°$åi½ist","MS",168
+"from the south","NY60B!","546!","Q","N"," "," ","fm$ä°$ås¥«¹ù","MS",169
+"from the southwest","NY60B!","546!","Q","N"," "," ","fm$ä°$ås¥«¹ùõw²«s","MS",169
+"south","NY60B!","546!","N","N"," "," ","ås¥½¹ù","MS",169
+"from the west","NY61A","547","Q","N"," "," ","f{r}m$ä°$åw²«st","MS",170
+"from the southwest","NY61B","548","Q","N"," "," ","fm$ä°$åsµ«¼¹ùõw²«st","MS",171
+"from the north","NY61B","548","Q","N"," "," ","fm$ä°$ån·½´ù","MS",171
+"from the south","NY62A","551a","Q","N"," "," ","fm$ä°$åsa«¾¹ù","MS",172
+"from the south","NY62B","551b","Q","N"," "," ","f{r}m$ä°$ås³¾¹ù","MS",173
+"from the south","NY62B","551b","Q","N"," "," ","fm$ä°$ås³¾¹ù","MS",173
+"from the west","NY62C","551c","Q","Y","[{r}]: doubtful","FDT","f{r}¸¼m$ä°$åw²«st","MS",174
+"from the south","NY62D!","551d!","Q","N"," "," ","fm$ä°$ås¥¹ù","MS",175
+"from the west","NY63A","556a","Q","N"," "," ","fm$ä°$w²st","MS",176
+"out of the north","NY63A","556a","Q","N"," "," ","¥¾¹t$ä°$ån·´ù","MS",176
+"from the south","NY63B","556b","Q","N"," "," ","fm$ä°İ$åsa¾°—ù","MS",177
+"from the west","NY63B","556b","Q","N"," "," ","f{r}m$ä°İ$åw²«s","MS",177
+"from the south","NY63C","556c","Q","N"," "," ","fr°m$ä°$sa¾¹ù","MS",178
+"from the south","NY63D!","556d!","Q","N"," "," ","fm$ä°$åsµ«¹ù","MS",179
+"from the north","NY63D!","556d!","Q","N"," "," ","fm$ä°$ån·´ù","MS",179
+"from the west","NY63D!","556d!","Q","N"," "," ","fm$ä°$åw²«st","MS",179
+"from the south","NY64A","557a","Q","N"," "," ","fm$ä°$åsa¹ù","MS",180
+"from the west","NY64A","557a","Q","N"," "," ","fm$ä°$åw²«st","MS",180
+"in the west","NY64B","557b","Q","N"," "," ","±¿¼n$ä°$åw²«st","MS",181
+"from the north","NY64B","557b","Q","N"," "," ","frm$ä±«¾$ån·´ù","MS",181
+"winds are west and south","NY64B","557b","S","N"," "," ","w±¾nz$´$w²«st$°«n$åsµ«¹ù—","MS",181
+"from the south","NY64C!","557c!","Q","N"," "," ","fm$ä°$ås°½¼¹ù","MS",182
+"south wind","NY64C!","557c!","O","N"," "," ","ås°½¼¹ù$õw±«n","MS",182
+"from the north","NY64C!","557c!","Q","N"," "," ","fm$ä°$ån·´ù","MS",182
+"to the southward","NJ1A","1","Q","N"," "," ","t°$ä°$s¸ä´d","MS",183
+"to the southward","NJ1B","2","Q","N"," "," ","t°$ä°$s¸ä´d","MS",184
+"to the southward","NJ2A","3(*)","Q","N"," "," ","t°$ä°$s¸ä´d","MS",185
+"to the southward","NJ2B","4","Q","N"," "," ","t°${d}±¿İ$s¸ä´d","MS",186
+"to the southward","NJ2B","4","Q","N"," "," ","t°$ä°$s¸ä´d","MS",186
+"to the southward","NJ3A","5","Q","N"," "," ","t°$ä°$s¸ä´d","MS",187
+"to the southward","NJ3B","6","Q","N"," "," ","t°$ä°$s¸ä´d","MS",188
+"to the southward","NJ4A","7","Q","N"," "," ","t°$ä°$s¸ä´d","MS",189
+"to the southward","NJ4B","8","Q","N"," "," ","t°$ä°$s¸ä´d","MS",190
+"to the southward","NJ5A","9","Q","N"," "," ","t°$ä°$s¸ä´d","MS",191
+"to the southward","NJ5B","10","Q","N"," "," ","t°$ä°$s¸ä´d","MS",192
+"to the southward","NJ6A","11","Q","N"," "," ","t°$ä°$s¸ä´d","MS",193
+"to the southward","NJ6B","12","Q","N"," "," ","t°$ä°$s¸ä´d","MS",194
+"to the southward","NJ7A","17","Q","N"," "," ","t°$ä°$s¸«ä´d","MS",195
+"from the south","NJ7B!","18!","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",196
+"to the southward","NJ8A","19","Q","N"," "," ","t°$ä°$s¸«ä´d","MS",197
+"to the westward","NJ8A","19","Q","N"," ","CNV","t°$ä°$w²st´d","MS",197
+"to the southward","NJ8B","20","Q","N"," "," ","t°$ä°$ås¸ä´d","MS",198
+"from the south","NJ9A","21","Q","N"," "," ","fr°m$ä°$sá¾¹«ù","MS",199
+"from the south","NJ9B","22","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",200
+"to the southward","NJ10A","24b","Q","N","anywhere between SE and SW"," ","t°$ä°$s¸ä´d","MS",201
+"from the south","NJ10A","24b","Q","N","directly south"," ","fr°m$ä°$åsá½¹ù","MS",201
+"from the south","NJ10B","23","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",202
+"from the south","NJ10C","24","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",203
+"from the south","NJ10D!","24c!","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",204
+"from the south","NJ11A","25","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",205
+"from the south","NJ11B","26a","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",206
+"from the south","NJ11C","26b","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",207
+"from the south","NJ12A","27","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",208
+"from the south","NJ12B","28","Q","N"," "," ","fr°m$ä°$sa¹«ù","MS",209
+"from the south","NJ13A","29","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",210
+"from the south","NJ13B","30","Q","N"," "," ","fr°m$ä°$åsá½¹¿ù","MS",211
+"from the south","NJ14A","31","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",212
+"from the south","NJ14B","32","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",213
+"from the south","NJ15A","33","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",214
+"from the south","NJ15B","34","Q","N"," "," ","fr°m$ä°$sá½¹¿½ù","MS",215
+"from the south","NJ16A","35","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",216
+"from the south","NJ16B","36","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",217
+"from the south","NJ17A","37","Q","N"," "," ","fr°m$ä°$saş«¾¹ş«ù","MS",218
+"from the south","NJ17B","38","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",219
+"from the south","NJ18A","41","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",220
+"from the south","NJ18B","42","Q","N"," "," ","fr°m$ä°$sa«¹«ù","MS",221
+"from the south","NJ18C!","43!","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",222
+"from the south","NJ18D!","44!","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",223
+"from the south","NJ19A","45","Q","N"," "," ","fr°m$ä°$sá½º¹ù","MS",224
+"from the south","NJ19B!","46!","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",225
+"from the south","NJ20A","47","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",226
+"from the south","NJ20B","47b","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",227
+"from the south","NJ21A","48","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",228
+"from the south","NJ21B","49","Q","N"," "," ","fr°m$ä°$sáİ¹İù","MS",229
+"from the south","PA1A","51","Q","N"," "," ","fr°m$ä°$saº¹½ù","MS",230
+"from the south","PA1B","52","Q","N"," "," ","fr°m$ä°$åsa«º¹ù","MS",231
+"from the south","PA1C","53","Q","N"," "," ","fr°m$ä°$sáº¹½ù","MS",232
+"from the south","PA1D","54","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",233
+"from the south","PA1E!","55!","Q","N"," "," ","fr°m$ä°$åsa¾¹ù","MS",234
+"from the south","PA1F!","56!","Q","N"," "," ","fr°m$ä°$sá½º¹½ù","MS",235
+"from the south","PA1G!","57!","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",236
+"from the south","PA1H!","58!","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",237
+"from the south","PA2A","59","Q","N"," "," ","fr°m$ä°$åsá¹ù","MS",238
+"from the south","PA2B","60","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",239
+"from the south","PA3A","61","Q","N"," "," ","fr°m$ä°$sáº¹½ù","MS",240
+"from the south","PA3B","62","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",241
+"from the south","PA3C","62b","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",242
+"from the south","PA4A","63","Q","N"," "," ","fr°m$ä°$åsáº¹½ù","MS",243
+"from the south","PA4B!","64!","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",244
+"from the south","PA5A","65(*)","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",245
+"from the south","PA5B","65b","Q","N"," "," ","fr°m$ä°$sá¹½ù","MS",246
+"from the south","PA5C","66","Q","N"," "," ","fr°m$ä°$sá¹½ù","MS",247
+"from the south","PA5D","67","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",248
+"from the south","PA5E!","68!","Q","N"," "," ","fr°m$ä°$åsa«º¹ù","MS",249
+"from the south","PA6A","69","Q","N"," "," ","fr°m$t”°$sa¹s‘İ","MS",250
+"from the south","PA6B","71","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",251
+"from the south","PA6C","71b","Q","N"," "," ","fr°m$ä°İ$sa¹s‘","MS",252
+"from the south","PA6D!","72!","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",253
+"from the south","PA7A","73","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",254
+"from the south","PA7B","74","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",255
+"from the south","PA7C","75","Q","N"," "," ","fr°m$ä°İ$sa¾º¹½ù","MS",256
+"from the south","PA7D!","76!","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",257
+"from the south","PA8A","77","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",258
+"from the south","PA8B","78","Q","N"," "," ","fr°m$ä°$sa«º¹½ù","MS",259
+"from the south","PA8C","79","Q","N"," "," ","fr°m$ä°$sa¾º¹½ù","MS",260
+"from the south","PA8D!","80!","Q","N"," "," ","fr°m$ä°$åsá½º¹¿ù","MS",261
+"from the south","PA9A","83","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",262
+"from the south","PA9B","83b","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",263
+"from the south","PA9C!","84!","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",264
+"from the south","PA10","87","Q","N"," ","SIC","fr°m$ä°$ùa¹s","MS",265
+"from the south","PA11A","89","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",266
+"from the south","PA11B","90(*)","Q","N"," "," ","fr°m$ä°$åsa¼¹ù","MS",267
+"from the south","PA12A","91","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",268
+"from the south","PA12B","92","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",269
+"from the south","PA13A","93","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",270
+"from the south","PA13B","94","Q","N"," "," ","fr°m$ä°$åsa¹ù","MS",271
+"from the south","PA14A","95(*)","Q","N"," "," ","fr°m${d}°İ$sa¹ù","MS",272
+"from the south","PA14B","96","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"from the south","PA15A","99","Q","N"," "," ","fr°m$ä°$sa¾¹ù","MS",275
+"in the south","PA15B","99b","Q","N"," "," ","±n$ä°$sa¹ù","MS",276
+"from the south","PA15C!","100!","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",277
+"from the south","PA16A","101","Q","N"," "," ","fñ°m$t”°$saº¹s‘","MS",278
+"from the south","PA16B","102","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"from the south","PA17A","105","Q","N"," "," ","frµ«¾m$t”°$saº¹½ù","MS",281
+"from the south","PA17B","106","Q","N"," "," ","fr°m${d}°İ$åsa¾º¹ù","MS",282
+"from the south","PA18A","107","Q","N"," "," ","fr°m$ä°$åsa«º¹ù","MS",283
+"from the south","PA18B!","108!","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",284
+"from the south","PA19A","113","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",285
+"from the south","PA19B","114","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",286
+"from the south","PA20A","115","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",287
+"from the south","PA20B","116","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",288
+"from the south","PA21A","117","Q","N"," "," ","fr°m$ä°$s²İ½¾¹ù","MS",289
+"from the south","PA21B","118","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",290
+"from the south","PA22A","119","Q","N"," "," ","fr°m$ä°$sáİ¾¹ù","MS",291
+"from the south","PA22B","120","Q","N"," "," ","fr°m$ä°$åsa¹ù","MS",292
+"from the south","PA23A","121","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",293
+"from the south","PA23B","122","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",294
+"from the south","PA24A","123","Q","N"," "," ","fr°m$ä°$sáİ«¹İù","MS",295
+"from the south","PA24B","124","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",296
+"in the south","PA25A","125","Q","N"," "," ","±n$ä°$sa¹ù","MS",297
+"from the south","PA25B","126","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",298
+"from the south","PA26A","127","Q","N"," "," ","fr°m$ä°$sá¾¹ù","MS",299
+"from the south","PA26B","128","Q","N"," "," ","fr°m$ä°$sáİ¹ù","MS",300
+"from the south","PA27A","131","Q","Y"," ","AUX","fr°m$ä°$sáİ¹ù","MS",301
+"from the south","PA27B","132","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",302
+"from the south","PA28A","135","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",303
+"from the south","PA28B!","136!","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",304
+"from the south","PA29A","139(*)","Q","N"," "," ","fr°m$ä°$åsa¾¹½ù","MS",305
+"from the south","PA29B","140","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",306
+"from the south","PA30A","143","Q","N"," "," ","fr°m$ä°$sáİ«¹ù","MS",307
+"from the south","PA30B","144","Q","N"," "," ","fr°m$ä°$sáİ¹ù","MS",308
+"from the south","PA31A","145","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",309
+"from the south","PA31B","146","Q","N"," "," ","fr°m$ä°$s²İ¾¹İù","MS",310
+"from the south","PA32A","147","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",311
+"from the south","PA32B","148","Q","N"," "," ","fr°m$ä°$sa¾¹«ù","MS",312
+"from the south","PA33A","151","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",313
+"from the south","PA33B","152","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",314
+"from the south","PA34A","155","Q","N"," "," ","fr°m$ä°$sa«¾¹«ù","MS",315
+"from the south","PA34B","156","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"from the south","PA35A","157","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",318
+"from the south","PA35B","158(*)","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"from the south","PA36A","159","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",321
+"from the south","PA36B","160","Q","N"," "," ","fr°m$ä°$sa¹","MS",322
+"from the south","PA37A","161(*)","Q","N"," "," ","fr°m${ä}°İ$sa¹ù","MS",323
+"from the south","PA37B","162","Q","N"," "," ","fr°m$nİ°İ$åsaº¹¿½ù","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"from the south","PA38A","163","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",326
+"from the south","PA38B","164","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",327
+"from the south","PA39A","165","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",328
+"from the south","PA39B","166","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",329
+"from the south","PA40A","167","Q","N"," "," ","fr°m$ä°$saİ«¾¹İ«¼ù","MS",330
+"from the south","PA40B","168","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",331
+"from the south","PA41A","171","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",332
+"from the south","PA41B","172","Q","N"," "," ","fr°m$ä°$sá½º¹¿½ù","MS",333
+"from the south","PA42A","175","Q","N"," "," ","fr°m$ä°$sa«¾¹«ù","MS",334
+"from the south","PA42B","176","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",335
+"from the south","PA43A","177","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",336
+"from the south","PA43B","178","Q","N"," "," ","fr°m$ä°$sa¼º¹ù","MS",337
+"from the south","PA44A","179","Q","N"," "," ","fr°m$ä°$åsa«¾¹ù","MS",338
+"from the south","PA44B","180","Q","N"," "," ","fr°m$ä°$sa¼º¹ù","MS",339
+"from the south","PA45A","181","Q","N"," "," ","fr°m$ä°$åsá½¹ù","MS",340
+"from the south","PA45B","182","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",341
+"from the south","PA46A","185","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",342
+"from the south","PA46B","186","Q","N"," "," ","fr°m$ä°$saº¹½ù","MS",343
+"from the south","PA47A","189","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",344
+"from the south","PA47B","190","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",345
+"from the south","PA48A","191","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",346
+"from the south","PA48B","192","Q","N"," "," ","fr°m$ä°$åsa«¹ù","MS",347
+"from the south","PA48C","193","Q","N"," "," ","fr°m$ä°$sa«¾¹«¼ù","MS",348
+"from the south","PA49A","194","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",349
+"from the south","PA49B","195","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"from the south","PA50B","197","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",352
+"from the south","PA50C!","198!","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",353
+"from the south","PA51A","199","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",354
+"from the south","PA51B","200","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",355
+"from the south","PA52A","201","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",356
+"from the south","PA52B!","202!","Q","N"," "," ","fr°m$ä°$åsaİ«¾¹İù","MS",357
+"from the south","PA53A","203","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",358
+"from the south","PA53B","204","Q","N"," "," ","fr°m$ä°$saİ«¹İ«¼ù","MS",359
+"from the south","PA54A","205","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",360
+"from the south","PA54B","206","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",361
+"from the south","PA55A","207","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",362
+"from the south","PA55B","208","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",363
+"from the south","PA56A","211(*)","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",364
+"from the south","PA56B","212","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",365
+"from the south","PA57A","213","Q","N"," "," ","fr°m$ä°$saİ¹İ«ù","MS",366
+"from the south","PA57B","214","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",367
+"to the south","PA58A","215","Q","N"," "," ","t°$ä°$sa¹ù","MS",368
+"from the south","PA58B","216","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",369
+"from the south","PA59A","219","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",370
+"from the south","PA59B","220","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",371
+"from the south","PA60A","221","Q","N"," "," ","fr°m$ä°$s¥İ½¼¹İ½¼ù","MS",372
+"from the south","PA60B","222","Q","N"," "," ","fr°m$ä°$saİ«¾¹İ¼ù","MS",373
+"from the south","PA61A","223","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",374
+"from the south","PA61B","224","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",375
+"from the south","PA62A","229","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",376
+"from the south","PA62B","230","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",377
+"from the south","PA63A","231","Q","N"," "," ","fr°m$ä°$åsa¹ù","MS",378
+"from the south","PA63B","232","Q","N"," "," ","fr°m$ä°$åsa¹ù","MS",379
+"from the south","PA64A","233","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",380
+"from the south","PA64B","234","Q","N"," "," ","fr°m$ä°$åsa¹ù","MS",381
+"from the south","PA65A","237","Q","N"," "," ","fr°m$ä°$saİ«¹ù","MS",382
+"from the south","PA65B","238","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",383
+"from the south","PA66A","239","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",384
+"from the south","PA66B","240","Q","N"," "," ","fr°m$ä°$ås²½¾¹ù","MS",385
+"from the south","PA67A","243","Q","N"," "," ","fr°m$ä°$ås²½¹ù","MS",386
+"from the south","PA67B","244","Q","N"," "," ","fr°m$ä°$s²İ½¾¹ù","MS",387
+"from the south","WV1!","88!","Q","N"," "," ","fr°m$ä°$s¥¹«ù","MS",388
+"from the south","WV2","89","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",389
+"from the south","WV3","91","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",390
+"from the south","WV4A","92","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",391
+"from the south","WV4B","93","Q","N"," "," ","fr°m${ä}°İ$sáİ¾¹ù","MS",392
+"from the south","WV5","94","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",393
+"from the south","WV6A","95","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",394
+"from the south","WV6B","96","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",395
+"from the south","WV7A","97","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",396
+"from the south","WV7B","98","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",397
+"from the south","WV8A","97b","Q","N"," "," ","fr°m$ä°$sa«¹İù","MS",398
+"from the south","WV8B","98b","Q","N"," "," ","fr°m$ä°$sa«º¹¿ù","MS",399
+"from the south","WV9A","301","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",400
+"from the south","WV9B","302","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",401
+"from the south","WV10A","303","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",402
+"from the south","WV10B","303b","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",403
+"from the south","WV10C","304","Q","N"," "," ","fr°m$ä°$åsáº¹¿ù","MS",404
+"from the south","WV11A","305","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",405
+"from the south","WV11B!","306!","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",406
+"from the south","WV12A","307","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",407
+"from the south","WV12B","308","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",408
+"from the south","WV13A","309","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",409
+"from the south","WV13B","310","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",410
+"from the south","WV14A","311","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",411
+"from the south","WV14B","312","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",412
+"from the south","WV15A","313","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",413
+"from the south","WV15B","314","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",414
+"from the south","WV16A","315","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",415
+"from the south","WV16B","316","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"from the south","WV17B","317b","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",418
+"from the south","WV17C","318","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",419
+"from the south","WV18A","319","Q","N"," "," ","fr°m$ä°$åsá½¹¿ù","MS",420
+"from the south","WV18B","320","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",421
+"from the south","WV19A","321","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",422
+"from the south","WV19B","322","Q","N"," "," ","fr°m$ä°$sá¹¿½ù","MS",423
+"from the south","WV20A","323","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",424
+"from the south","WV20B","324","Q","N"," "," ","fr°m$ä°$sá¹¿½ù","MS",425
+"from the south","WV21A","325","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",426
+"from the south","WV21B","326","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",427
+"from the south","WV22A","327","Q","N"," "," ","fr°m$ä°$sa¹İ«ù","MS",428
+"from the south","WV22B","328","Q","N"," "," ","fr°m$ä°$s°İ½¼¹”İ«ù","MS",429
+"from the south","WV23A","331","Q","N"," "," ","fr°m$ä°$s¥¼¹İ«ù","MS",430
+"from the south","WV23B","332","Q","N"," "," ","fr°m$ä°$saİ«¾¹ù","MS",431
+"from the south","WV24A","335","Q","N"," "," ","fr°m$ä°$s¥¹«¼ù","MS",432
+"from the south","WV24B","336","Q","N"," "," ","fr°m$ä°$s¥¼¹«ù","MS",433
+"from the south","WV25A","337","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",434
+"from the south","WV25B","338","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",435
+"from the south","WV26A","339","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",436
+"from the south","WV26B","340","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",437
+"from the south","WV27A","341","Q","N"," "," ","fr°m$ä°$sa«¹«ù","MS",438
+"from the south","WV27B","342","Q","N"," "," ","fr°m$ä°$åsáº¹¿ù","MS",439
+"from the south","WV28A","343","Q","N"," "," ","fr°m$ä°$sa«¾¹ù","MS",440
+"from the south","WV28B","344","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",441
+"from the south","WV29A","345","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",442
+"from the south","WV29B","346","Q","N"," "," ","fr°m$ä°$åsáº¹¿ù","MS",443
+"from the south","WV30A","347","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",444
+"from the south","WV30B","348","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",445
+"from the south","WV31A","349","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",446
+"from the south","WV31B","350","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",447
+"from the south","WV32A","353","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",448
+"from the south","WV32B","354","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",449
+"from the south","WV33A","355","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",450
+"from the south","WV33B","356","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",451
+"from the south","WV34A","359","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",452
+"from the south","WV34B","360","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",453
+"from the south","WV35A","361","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",454
+"from the south","WV35B","362","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",455
+"from the south","WV36A","363","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",456
+"from the south","WV36B","364","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",457
+"from the south","WV37A","365","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",458
+"from the south","WV37B!","366!","Q","N"," "," ","fr°m$ä°$sá¹¿«ù","MS",459
+"from the south","WV38A","367","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",460
+"from the south","WV38B","368","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",461
+"from the south","WV39A","369","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",462
+"from the south","WV39B","370","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",463
+"from the south","WV39C!","371!","Q","N"," "," ","fr°m$ä°$sa«º¹¿ù","MS",464
+"from the south","WV40A","373","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",465
+"from the south","WV40B","374","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",466
+"from the south","WV41A","375","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",467
+"from the south","WV41B","376","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",468
+"from the south","WV42A","377","Q","N"," "," ","fr°m$ä°$sá«¹¿ù","MS",469
+"from the south","WV42B","378","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",470
+"from the south","WV43A","381","Q","N"," "," ","fr°m$ä°$sá½¹½¼ù","MS",471
+"from the south","WV43B","382","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",472
+"from the south","WV44A","383","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",473
+"from the south","WV44B","384","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",474
+"from the south","WV45A","385","Q","N"," "," ","fr°m$ä°$sa«¹¿ù","MS",475
+"from the south","WV45B","386","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",476
+"from the south","WV46A","387","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",477
+"from the south","WV46B","388","Q","N"," "," ","fr°m$ä°$sá½¹¿ù","MS",478
+"from the south","WV47A","389","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",479
+"from the south","WV47B","390","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",480
+"from the south","WV48A","391","Q","N"," "," ","fr°m$ä°$sá½¹¼ù","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"from the south","WV48D","392b","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",484
+"from the south","WV49A","393","Q","N"," "," ","fr°m$ä°$åsá½º¹½ù","MS",485
+"from the south","WV49B","394","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",486
+"from the south","WV50A","395","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",487
+"from the south","WV50B","396","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",488
+"from the south","WV51A","261","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",489
+"from the south","WV51B","262","Q","N"," "," ","fr°m$ä°$sá½¾¹«¼ù","MS",490
+"from the south","WV52A","258","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",491
+"from the south","WV52B","259","Q","N"," "," ","fr°m$ä°$saº¹¿ù","MS",492
+"from the south","WV52C!","260!","Q","N"," "," ","fr°m$ä°$åsa¹¿ù","MS",493
+"from the south","WV53A","257","Q","N"," "," ","fr°m$ä°$sa¹¿ù","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"from the south","WV53C!","257c!","Q","N"," "," ","fr°m$ä°$saİ«¾¹İ«ù","MS",496
+"from the south","WV54A","255","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",497
+"from the south","WV54B","256","Q","N"," "," ","fr°m$ä°$åsá½º¹½ù","MS",498
+"to the southward","DE1A","11","Q","N"," "," ","t°$ä°$s¸ä´d","MS",499
+"from the south","DE1B","12","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",500
+"from the south","DE1C!","13!","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",501
+"from the south","DE2A","15(*)","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",502
+"from the south","DE2B","16","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"to the southward","DE3A","18","Q","N"," "," ","t°$ä°$s¸¼ä´d","MS",505
+"from the south","DE3B","19","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",506
+"from the south","DE3C!","17!","Q","N"," "," ","fr°m$ä°$sá½º¹ù","MS",507
+"to the southward","DE4","20","Q","N"," "," ","t°${d}±¿İ½$s¸ä´d","MS",508
+"to the southward","DE5A","21","Q","N"," "," ","t°$ä°$s¸«ä´d","MS",509
+"to the southward","DE5B","22","Q","N"," "," ","t°$ä°$s¸ä´d","MS",510
+"to the southward","DE6A","23","Q","N"," "," ","t°$ä°$s¸ä´d","MS",511
+"to the southward","DE6B","24","Q","N"," "," ","t°$ä°$s¸ä´d","MS",512
+"from the south","MD1A","27","Q","N"," "," ","fr°m${ä}°İ$sa«¾¹ù","MS",513
+"from the south","MD1B","28","Q","N"," "," ","fr°m${ä}°İ$sa«¹ù","MS",514
+"to the southward","MD2A","31a","Q","N"," "," ","t°${d}±¿İ½$s¸İä´d","MS",515
+"to the southward","MD2B","32","Q","N"," "," ","t°$ä°$s¸¼ä´d","MS",516
+"to the southward","MD3A","33","Q","N"," "," ","t°${d}±¿İ½$s¸¼{d}°d","MS",517
+"from the south","MD3B","34","Q","N"," "," ","fr°m${ä}°İ$sáº¹ù","MS",518
+"to the southward","MD4A","35b","Q","N"," "," ","t°$ä°$s¸«ä´d","MS",519
+"from the south","MD4B","35","Q","N"," "," ","fr°m$ä°$sa«¾º¹ù","MS",520
+"to the southward","MD4C","36","Q","N"," "," ","t°$ä°$s¸«ä´d","MS",521
+"to the southward","MD5A","37","Q","N"," "," ","t°${d}±¿İ$s¸¼ä´d","MS",522
+"from the southward","MD5B","38","Q","N"," "," ","t°$ä°$s¸ä´d","MS",523
+"to the southward","MD6A","39(*)","Q","N"," "," ","t°${d}°İ$s¸½ä´d","MS",524
+"to the southward","MD6B","40","Q","N"," "," ","t°$ä°$s¸ä´d","MS",525
+"to the southward","MD7A","41","Q","N"," "," ","t°$d±¿$s¸¾ä°d","MS",526
+"to the southward","MD7B","41b","Q","N"," "," ","t°$ä°$s¸ä´d","MS",527
+"to the southward","MD7C!","42!","Q","N"," "," ","t°$ä°$s¸ä´d","MS",528
+"to the southward","MD8A","43","Q","N"," "," ","t°${d}±¿İ$s¸¼ä´d","MS",529
+"to the southward","MD8B","44","Q","N"," "," ","t°${d}°$s¸¼ä´d","MS",530
+"to the southward","MD9N","N46","Q","N"," "," ","t°${d}±¿İ$s¸ä°d","MS",531
+"to the southward","MD9A","45","Q","N"," "," ","t°${ä}°İ$s¸½ä´d","MS",532
+"to the southward","MD9B","46","Q","N"," "," ","t°${d}±¿İ½$s¸ä´d","MS",533
+"from the south","MD10A","49","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",534
+"from the south","MD10B","50","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",535
+"from the south","MD11","51","Q","N"," "," ","fr°m${d}°İ$sá½¹ù","MS",536
+"from the south","MD12A","52","Q","N"," "," ","fr°m$ä°$sá¾¹«ù","MS",537
+"from the south","MD12B","53","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",538
+"from the south","MD13A","54(*)","Q","N"," "," ","fr°m$ä°$sáº¹¿”½¼ù","MS",539
+"from the south","MD13B","55","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",540
+"from the south","MD13C","56","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",541
+"from the south","MD13D!","57!","Q","N"," "," ","fr°m$ä°$sáİ¾¹«ù","MS",542
+"from the south","MD13E!","58!","Q","N"," "," ","fr°m$ä°$sa«¹¿ù","MS",543
+"from the south","MD13F!","59!","Q","N"," "," ","fr°m$ä°$sáİ«¾¹«ù","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"from the south","MD14","61(*)","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",546
+"from the south","MD15A","62","Q","N"," "," ","fr°m${ä}°İ$s¥¹«ù","MS",547
+"from the south","MD15B","63","Q","N"," "," ","fr°m$ä°$s¥¹«ù","MS",548
+"from the south","MD16","64","Q","N"," "," ","fr°m${d}°İ«$sa«º¹¿ù","MS",549
+"from the south","MD17A","65","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",550
+"from the south","MD17B","66","Q","N"," "," ","fr°m${ä}°İ$sá¹½ù","MS",551
+"from the south","MD18A","67","Q","N"," "," ","fr¸«¼m$d±¿$sa«¾¹«ù","MS",552
+"from the south","MD18B","68","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",553
+"from the south","MD19A","69","Q","N"," "," ","fr°m${d}°İ$s¥¹İ«ù","MS",554
+"from the south","MD19B","70","Q","N"," "," ","fr°m${ä}°İ$sa«¾¹«ù","MS",555
+"to the southward","MD20A","71","Q","N"," "," ","t°$ä°$s¸{°}ä°d","MS",556
+"up south","MD20A","71","K","N"," "," ","¸«p$sáº¹¿½ä","MS",556
+"down north","MD20A","71","K","N"," "," ","dáº¹¿n$no{¹}ä","MS",556
+"to the southward","MD20B","72","Q","N"," "," ","t°$ä°$s¸«ä°d","MS",557
+"from the south","MD20C!","73!","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",558
+"to the southward","MD21A","75","Q","N"," "," ","t°$ä°$s¸«ä°d","MS",559
+"to the southward","MD21B","76","Q","N"," "," ","t°$ä°$s¸«ä°d","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"to the southward","MD22M","N78","Q","N"," "," ","t°$d°$s¸«ä°d","MS",562
+"to the southward","MD22A","77","Q","N"," "," ","tu¿½$ä°$s¸«ä°d","MS",563
+"to the southward","MD22B","78","Q","N"," "," ","t°$d±¿$s¸ä°t","MS",564
+"from the south","MD22C!","79!","Q","N"," "," ","fr°m$ä°$s¥½¼¹ù","MS",565
+"to the southward","MD23A","80b","Q","N"," "," ","t°$ä°$s¸«ä°d","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"from the south","MD23C","81","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",568
+"to the southward","MD24","82","Q","N"," "," ","t°${d}±¿İ$s¸«ä°d","MS",569
+"from the south","MD25","84","Q","N"," "," ","fr°m$ä°$sá¹½ù","MS",570
+"from the south","MD26A","83","Q","N"," "," ","fr°m$ä°$sá½¾¹¿«ù","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"from the south","MD27A","85","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",573
+"from the south","MD27B","86","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",574
+"from the south","DC1A","99","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",575
+"from the south","DC1B!","100!","Q","N"," "," ","fr°m$ä°$s¥½¼¹«ù","MS",576
+"from the south","VA1!","101!","Q","N"," "," ","fr°m$ä°$s°¼u¼ù","MS",577
+"from the south","VA2A","103","Q","N"," "," ","fr°m$ä°$sá¾¹ù","MS",578
+"to the southward","VA2B","104","Q","N"," "," ","t°$ä°$s¸«ä°d","MS",579
+"from the south","VA3A","105(*)","Q","N"," "," ","fr°m$ä°$sa¹ù","MS",580
+"from the south","VA3B","106","Q","N"," "," ","fr°m$ä°$s¥¼¹ù","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"from the south","VA4N","N109","Q","N"," "," ","f{r}°m${d}°İ$s¥¾¹ù","MS",583
+"from the south","VA5A","107","Q","N"," "," ","fr°m${d}±¿İ$s°¼u½¼ù","MS",584
+"from the south","VA5B","108","Q","N"," "," ","fr°m$ä°$s°u¼ù","MS",585
+"from the south","VA6A","113","Q","N"," "," ","fr°m$ä°$s°u¼ù","MS",586
+"from the south","VA6B","114","Q","N"," "," ","fr°m${ä}°$s°—«u¼ù","MS",587
+"from the south","VA7A","121","Q","N"," "," ","fr°m$ä°$s°uù","MS",588
+"from the south","VA7B","122","Q","N"," "," ","fr°m$ä°$s°uù","MS",589
+"from the south","VA8A","123","Q","N"," "," ","fr°m${ä}°İ$s°¹ù","MS",590
+"from the south","VA8B","124","Q","N"," "," ","fr°m${d}°İ$s°u½¼ù","MS",591
+"from the south","VA8C!","125!","Q","N"," "," ","fr°m$ä°$s°u¼ù","MS",592
+"from the south","VA9A","117","Q","N"," "," ","fr°m${d}°İ$s°½¼u¼ù","MS",593
+"from the south","VA9B!","118!","Q","N"," "," ","fr°m${d}°İ$s°u¼ù","MS",594
+"from the south","VA10A","127","Q","N"," "," ","fr°m${d}±¿İ½$s°¹«ù","MS",595
+"from the south","VA10B","128","Q","N"," "," ","fr°m$ä°$s°«u”¼ù","MS",596
+"from the south","VA11A","129","Q","N"," "," ","fr°m$ä°$s°İ¹«ù","MS",597
+"from the south","VA11B","130","Q","N"," "," ","fr°m${ä}°İ$s°«¼¹«ù","MS",598
+"from the south","VA12N","N131","Q","N"," "," ","fr°m${d}°İ$sµ«¾¹ù","MS",599
+"from the south","VA12N","N131","Q","N"," "," ","fr°m${d}°İ$s¥—½¾¹ù","MS",599
+"to the southward","VA12A","131","Q","N"," "," ","t°$ä°$s¸ä°d","MS",600
+"to the southward","VA12B!","132!","Q","N"," "," ","t°$ä°$s¸—ä°d","MS",601
+"to the southward","VA13A","133","Q","N"," "," ","t°$ä°$s¸ä°d","MS",602
+"to the southward","VA13B","134","Q","N"," "," ","t°$ä°$s¸ä°d","MS",603
+"to the southward","VA14A","135","Q","N"," "," ","t°$ä°$s¸«ºä°d","MS",604
+"from the south","VA14A","135","Q","N"," "," ","fr°m${d}°İ$s²½¾¹¿«ù","MS",604
+"to the southward","VA14B","136","Q","N"," "," ","t°$ä°$s¸ä°d","MS",605
+"to the southward","VA14C","137","Q","N"," "," ","t°$ä°$s¸ä°d","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"to the southward","VA15A","139","Q","N"," "," ","t°$ä°$s¸ä°d","MS",608
+"from the south","VA15B","140","Q","N"," "," ","fr°m$ä°$s°uù","MS",609
+"from the south","VA16A","141","Q","N"," "," ","fr°m$ä°$s²İ½¾u¼ù","MS",610
+"from the south","VA16B","142","Q","N"," "," ","fr°m$ä°$s²İ¾¹”«ù","MS",611
+"to the southward","VA16B","142","Q","Y","rare","SUG","t°$ä°$s¸ä°d","MS",611
+"from the south","VA16B","142","Q","N"," "," ","fr°m$ä°$s°½¼¹”ù","MS",611
+"from the south","VA17A","143","Q","N"," "," ","fr°m${ä}°$s°İ«¹«ù","MS",612
+"from the south","VA17B","144","Q","N"," "," ","fr°m$ä°$s°¹«ù","MS",613
+"from the south","VA18","145","Q","N"," "," ","fr°m$ä°$s°uù","MS",614
+"to the southward","VA19A","146","Q","N"," "," ","t°${d}±¿İ$s¸ºä°d","MS",615
+"about south","VA19A","146","Q","Y"," ","SUG","°b¥«¹«t$s¥¼º¹«ä","MS",615
+"to the southward","VA19B","147","Q","N"," "," ","t°${d}±¿İ$s¸ä°d","MS",616
+"to the southward","VA19C!","148!","Q","N"," "," ","t°$ä°$s¸{°}ä°d","MS",617
+"out south","VA20A","149","Q","N"," "," ","¥—«¾¹¾t$sa¾¹¾{ä}","MS",618
+"to the southward","VA20A","149","Q","N"," "," ","t°${d}±¿İ½$s¸«{ä}°{t}","MS",618
+"to the southward","VA20B","150(*)","Q","N","nautical"," ","t°${ä}°İ$s¸«ä°d","MS",619
+"from the south","VA20B","150(*)","Q","N"," "," ","fr°m${ä}°İ$s°½¹«ù","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"from the south","VA21N","N153","Q","N"," "," ","fr°m${d}±¿İ$s¥¹ù","MS",621
+"from the south","VA21A","153","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",622
+"from the south","VA21B","154","Q","N"," "," ","fr°m${ä}°İ$s°«¹«ù","MS",623
+"from the south","VA22","155","Q","N"," "," ","fr°m${d}±¿İ½$s°«¼¹«ù","MS",624
+"to the southward","VA23A","156","Q","N","= out north"," ","t°$ä°$s¸{°}ä°d","MS",625
+"to the northward","VA23A","156","Q","N","= out south"," ","t°$ä°$nµ«{°}ä°d","MS",625
+"out north","VA23A","156","Q","N","= to the southward"," ","a«¾¹«t$no¹ä","MS",625
+"out south","VA23A","156","Q","N","= to the northward"," ","aİ«¾¹¾t$sá½¾º¹ä","MS",625
+"out south","VA23B","157","Q","Y","heard from sailors","SUG/HRD/SIC","°¹«t$sá«º¹«¼","MS",626
+"to the south","VA23B","157","Q","N"," "," ","t°$ä°$s°¹«ù","MS",626
+"to the southward","VA23B","157","Q","Y","rare","SUG/HRD","t°$ä°$s¸—ä°d","MS",626
+"from the south","VA24","159","Q","N"," "," ","fr°m$ä°$s°«¹«ù","MS",627
+"to the southward","VA24","159","Q","N"," "," ","t°$ä°$s¸{°}ä°d","MS",627
+"about south","VA25","160(*)","Q","N"," "," ","°ba«¾¹t$saº¹ä","MS",628
+"to the southward","VA25","160(*)","Q","N"," "," ","t°${d}±¿İ½$s¸ä´d","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"about south","VA26B","161","Q","N"," "," ","°b¥½¼¹t$sá¾¹ä","MS",630
+"to the southward","VA26B","161","Q","N"," "," ","t°${ä}°İ$s¸ä´d","MS",630
+"to the southward","VA26C","162","Q","N"," "," ","t°$ä°$s¸ä°d","MS",631
+"to the southward","VA27","163(*)","Q","N"," "," ","t°${d}±¿İ$s¸½ä´d","MS",632
+"to the south","VA27","163(*)","Q","N"," "," ","t°${d}±¿İ$sá½¾¹ä","MS",632
+"to the southward","VA28A","164","Q","N"," "," ","t°${d}±¿İ$s¸ä°d","MS",633
+"about south","VA28A","164","Q","N"," "," ","°b¥½¼¹¼$sá¹{ä}","MS",633
+"to the southward","VA28B","165","Q","N"," "," ","t°${ä}°İ$s¸«ä°d","MS",634
+"from the south","VA29","166","Q","N"," "," ","fr°m${ä}°İ$s°«¼¹«ù","MS",635
+"from the south","VA30A","167","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"from the south","VA30C!","168!","Q","N"," "," ","fr°m$ä°$s°¹«¼ù","MS",638
+"from the south","VA30D!","169!","Q","N"," "," ","fr°m$ä°$s°¹«ù","MS",639
+"from the south","VA30E!","170!","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"from the south","VA31B","172","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",642
+"from the south","VA31C"," ","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",643
+"from the south","VA32!","175!","Q","N"," "," ","fr°m${ä}°İ$s°«¹«ù","MS",644
+"from the south","VA33A","173","Q","N"," "," ","fr°m$ä°$s°¹«ù","MS",645
+"from the south","VA33B","174","Q","N"," "," ","fr°m${ä}°İ$s²İ¾¹¿«ù","MS",646
+"from the south","VA34A","177(*)","Q","N"," "," ","fr°m${d}±¿İ½$s°¼¹ù","MS",647
+"from the south","VA34B","178","Q","N"," "," ","fr°m${ä}°İ$s°¼¹«ù","MS",648
+"to the southward","VA35A","179","Q","N"," "," ","t°${d}±¿İ$s¸ä°d","MS",649
+"from the south","VA35B","180","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",650
+"from the south","VA36A","181","Q","N"," "," ","fr°m${ä}°İ$s°«¹«f","MS",651
+"from the south","VA36B","182","Q","N"," "," ","fr°m${ä}°İ$s°½¼¹«¼ù","MS",652
+"from the south","VA37","183","Q","N"," "," ","fr°m${d}±¿İ$s°½¼¹«ù","MS",653
+"southward","VA38","185","A","N"," "," ","s¸½¾ä°d","MS",654
+"from the south","VA39!","186!","Q","N"," "," ","fr°m$ä°$s°«¹«ù","MS",655
+"to the southward","VA40A","187","Q","N"," "," ","t°${d}±¿İ½$s¸{°}ä°d","MS",656
+"from the south","VA40B","188","Q","N"," "," ","fr°m${ä}°İ$s¥¹«ù","MS",657
+"from the south","VA41A","191","Q","N"," "," ","fr°m${d}±¿İ½$s°¹«ù","MS",658
+"from the south","VA41B","192","Q","N"," "," ","fr°m${ä}°İ$s°¼¹«ù","MS",659
+"from the south","VA42A","193(*)(**)","Q","N"," "," ","fr°m${d}°$s°«u¼ù","MS",660
+"from the south","VA42B","194","Q","N"," "," ","fr°m$ä°$s°¼u¼ù","MS",661
+"from the south","VA43N","N195","Q","N"," "," ","fr¸m${d}±¿İ$s¥«¾¹s","MS",662
+"from the south","VA43A","195","Q","N"," "," ","fr°m$ä°$s°¹«ù","MS",663
+"from the south","VA43B","196","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",664
+"from the south","VA44A","199","Q","N"," "," ","fr°m${ä}°İ$s°¼u¼ù","MS",665
+"from the south","VA44B","200","Q","N"," "," ","fr°m${ä}°$s¥«¹ù","MS",666
+"to the southward","VA45A","201","Q","N"," "," ","t°$ä°$s¸«ä°d","MS",667
+"from the south","VA45A","201","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",667
+"from the south","VA45B","202","Q","N"," "," ","fr°m$ä°$s°¼u”¼ù","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"from the south","VA46A","207","Q","N"," "," ","fr°m$ä°$s°¹«ù","MS",670
+"from the south","VA46B!","208!","Q","N"," "," ","fr°m${ä}°İ$s¥¹ù","MS",671
+"from the south","VA47","211","Q","N"," "," ","fr°m${ä}°İ$s°«uù","MS",672
+"from the south","VA48A","213(*)","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",673
+"from the south","VA48B","214","Q","N"," "," ","fr°m${ä}°İ$s¥«¹«ù","MS",674
+"from the south","VA49A","215","Q","N"," "," ","fr°m$ä°$s°u¼ù","MS",675
+"from the south","VA49B","216","Q","N"," "," ","fr°m$ä°$s°u¼ù","MS",676
+"from the south","VA50A","217","Q","N"," "," ","fr°m${ä}°İ$s¥«¾¹ù","MS",677
+"from the south","VA50B","218","Q","N"," "," ","fr°m${ä}°İ$s°«¹«ù","MS",678
+"from the south","VA51A","219","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",679
+"from the south","VA51B","220(*)","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"from the south","VA52A","224","Q","N"," "," ","fr°m$ä°$s¥¼¹ù","MS",682
+"from the south","VA52B","225","Q","N"," "," ","fr°m$ä°$s¥«¼¹ù","MS",683
+"from the south","VA52C!","226!","Q","N"," "," ","fr°m$ä°$s¥¼¹ù","MS",684
+"from the south","VA53A","227","Q","N"," "," ","fr°m${ä}°İ$saº¹½ù","MS",685
+"from the south","VA53B","228","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",686
+"from the south","VA54A","229","Q","N"," "," ","fr°m$ä°$sá«¾¹«ù","MS",687
+"from the south","VA54B","230","Q","N"," "," ","fr°m$ä°$sá¾¹ù","MS",688
+"from the south","VA55A","233(*)","Q","N"," "," ","fr°m$ä°$sa«¹½ù","MS",689
+"from the south","VA55B","234(*)","Q","N"," "," ","fr°m$ä°$sá¾¹«ù","MS",690
+"from the south","VA56A","237","Q","N"," "," ","fr°m$ä°$sa«¹ù","MS",691
+"from the south","VA56B","238","Q","N"," "," ","fr°m$ä°$s¥¼¹«¼ù","MS",692
+"from the south","VA57A","239","Q","N"," "," ","fr°m$ä°$s¥¹«ù","MS",693
+"from the south","VA57B","240","Q","N"," "," ","fr°m$ä°$s¥¹«ù","MS",694
+"from the south","VA58","241(*)","Q","N"," "," ","fr°m${d}°İ$s°¼u½¼ù","MS",695
+"from the south","VA59N","N241","Q","N"," "," ","fr¸«m${d‘}±¿İ$s°¹ù","MS",696
+"from the south","VA59A","242","Q","N"," "," ","fr°m${ä}°İ$s°¼u¼ù","MS",697
+"from the south","VA59B!","243!","Q","N"," "," ","fr°m$ä°$s°«u½¼ù","MS",698
+"from the south","VA60","244(*)","Q","N"," "," ","fr°m$ä°$s¥¼¹«ù","MS",699
+"from the south","VA61A","245(*)","Q","N"," "," ","fr°m$ä°$s°¼¹«ù","MS",700
+"from the south","VA61B!","246!","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"from the south","VA62A","247(*)","Q","N"," "," ","fr°m$ä°$s¥¼¹ù","MS",703
+"from the south","VA62B","248","Q","N"," "," ","fr°m$ä°$s°u¼ù","MS",704
+"from the south","VA63A","251","Q","N"," "," ","fr°m$ä°$s¥½¼¹ù","MS",705
+"from the south","VA63B","252","Q","N"," "," ","fr°m$ä°$s¥½¼¹¿«ù","MS",706
+"from the south","VA64A","255","Q","N"," "," ","fr°m$ä°$s°¼u”«¼ù","MS",707
+"from the south","VA64B","256","Q","N"," "," ","fr°m${ä}°İ$s¥¼¹¿«ù","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"from the south","VA65B","258","Q","N"," "," ","fr°m$ä°$s°¼¹ù","MS",710
+"from the south","VA65C!","259!","Q","N"," "," ","fr°m$ä°$sáİ¾¹«ù","MS",711
+"from the south","VA66A","261","Q","N"," "," ","fr°m$ä°$sá½¾¹«ù","MS",712
+"from the south","VA66B","262","Q","N"," "," ","fr°m$ä°$sá¾¹«ù","MS",713
+"from the south","VA67A","267","Q","N"," "," ","fr°m${ä}°İ$sáº¹ù","MS",714
+"from the south","VA67B","268","Q","N"," "," ","fr°m$ä°$sáº¹¿”½ù","MS",715
+"from the south","VA68A","269","Q","N"," "," ","fr°m${n}°İ$sa«º¹¿ù","MS",716
+"from the south","VA68B","270","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",717
+"from the south","VA69A","273","Q","N"," "," ","fr°m$ä°$s¥¼¹ù","MS",718
+"from the south","VA69B","274","Q","N"," "," ","fr°m${ä}°İ$s¥¹ù","MS",719
+"from the south","VA70A","275","Q","N"," "," ","fr¸şm$ä°$sá¹ù","MS",720
+"from the south","VA70B","276","Q","N"," "," ","fr°m${ä}°İ$sá:¹¿½ù","MS",721
+"from the south","VA71A","285","Q","N"," "," ","fr°m$ä°$sáº¹¿”½ù","MS",722
+"from the south","VA71B","286","Q","N"," "," ","fr°m$ä°$sáº¹¿”ù","MS",723
+"from the south","VA72A","287","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",724
+"from the south","VA72B","288","Q","N"," "," ","fr°m$ä°$sá½º¹¿½ù","MS",725
+"from the south","VA73","291","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",726
+"from the south","VA74A","293","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",727
+"from the south","VA74B!","294!","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",728
+"from the south","VA75A","297","Q","N"," "," ","fr°m$ä°$sáº¹¿”½ù","MS",729
+"from the south","VA75B","298","Q","N"," "," ","fr°m$ä°$sá½º¹¿”½ù","MS",730
+"to the southward","NC1","303","Q","N"," "," ","t°${d}±¿İ½$s¸ºä´d","MS",731
+"to the southward","NC2A","301","Q","N","usually"," ","t°${ä}°İ$s¸«ä´d","MS",732
+"from the south","NC2A","301","Q","N"," "," ","fr°m$ä°$s¥¼º¹ù","MS",732
+"to the southward","NC2B","304","Q","N"," "," ","t°$ä°$s¸«{°}ù°d","MS",733
+"to the southward","NC3A","305","Q","N"," "," ","t°$d±¿$s¸«ä°d","MS",734
+"to the southward","NC3B","306","Q","Y","father says","OLD","t°$ä°$s¸ä´d","MS",735
+"from the south","NC3B","306","Q","N"," "," ","fr°m$ä°$sáº¹¿½ù","MS",735
+"from the south","NC4A","307","Q","N"," "," ","fr°m${d}±¿İ$s¥¼¹ù","MS",736
+"from the south","NC4B","308","Q","N"," "," ","fr°m${d}±¿İ½$s°½¼¹«f","MS",737
+"to the southward","NC5A","309","Q","N"," "," ","t°$ä°$s¸{°}ä°d","MS",738
+"to the southward","NC5B","310","Q","N"," "," ","t±$d±¿$s¸{°}ä°d","MS",739
+"from the south","NC6!","311!","Q","N"," "," ","fr°m$ä°$sá¹¿«ù","MS",740
+"from the south","NC7A","315(*)","Q","N"," "," ","fr°m${d}±¿İ½$sá«¾¹½ù","MS",741
+"from the south","NC7B","316","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿«ù","MS",742
+"from the south","NC8N","N317","Q","N"," "," ","fr°m${d}±¿İ$saº¹{Æ}","MS",743
+"from the south","NC8A","317","Q","N"," "," ","fr°m${d}°İ$sá«º¹«¼ù","MS",744
+"from the south","NC8B","318(*)","Q","N"," "," ","fr°m${ä}°İ$sáº¹«ù","MS",745
+"to the southward","NC9A","319","Q","N"," "," ","t°$d±¿$s¸«ä°d","MS",746
+"south","NC9A","319","N","N"," "," ","sáº¹ä","MS",746
+"to the southward","NC9B","320","Q","N"," "," ","t°${ä}°İ$s¸ä°d","MS",747
+"south","NC9B","320","N","N"," "," ","sáº¹¿ä","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"to the southward","NC10B","323","Q","N"," "," ","t°$ä°$s³{°}ä´d","MS",749
+"to the southward","NC10C","322","Q","N"," "," ","t°$ä°$s¸—«{°}ä´d","MS",750
+"to the southward","NC11A","325","Q","N"," "," ","t°${ä}°İ$s¸ºä´d","MS",751
+"to the southward","NC11B","326","Q","N"," "," ","t°$ä°$s¸ºä°d","MS",752
+"south","NC12A","327(*)","N","Y"," ","SUG","sáº¹ä","MS",753
+"to the southward","NC12A","327(*)","Q","N"," "," ","t°${d}±¿İ$s¸«¼ºä´d","MS",753
+"from the south","NC12B","328","Q","N"," "," ","fr°m${d}±¿İ«$sáº¹«¼ù","MS",754
+"out south","NC13A","329","Q","Y"," ","SUG","aº¹t$sa«º¹ä","MS",755
+"to the southward","NC13A","329","Q","N"," "," ","t°${d}±¿İ$s¸—«º{°}ä´d","MS",755
+"to the southward","NC13B","330(*)","Q","N"," "," ","t°${ä}°İ$s¸—«º{°}ä´d","MS",756
+"to the southward","NC14N","N331","Q","N"," "," ","t°${d}±¿$s¸«ä°t","MS",757
+"to the southward","NC14A","331","Q","N"," "," ","t°${d}±¿İ$s¸ä°d","MS",758
+"south","NC14A","331","N","Y"," ","HRD","sáº¹ä","MS",758
+"from the south","NC14B","332","Q","N"," "," ","fr°m$ä°$sá½¹ù","MS",759
+"to the southward","NC14B","332","Q","Y"," ","HRD","t°$ä°$s¸ä°d","MS",759
+"from the south","NC14C!","333!","Q","N"," "," ","fr°m$ä°$sáº¹½ù","MS",760
+"south","NC15A","335(*)","N","N"," "," ","sáº¹ù","MS",761
+"to the south","NC15A","335(*)","Q","N"," "," ","t°${d}±¿İ$sáº¹ù","MS",761
+"from the south","NC15B","336","Q","N"," "," ","fr°m${ä}°$sáº¹ù","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"from the south","NC16A","339(*)","Q","N"," "," ","fr°m${d}±¿İ$sáº¹¿½ù","MS",764
+"from the south","NC16B","340","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",765
+"from the south","NC17A","337","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿½ù","MS",766
+"from the south","NC17B","338","Q","N"," "," ","fr°m${ä}°İ$sáº¹½ù","MS",767
+"from the south","NC18A","341","Q","N"," "," ","fr°m${ä}°İ$sá½º¹ù","MS",768
+"from the south","NC18B","342","Q","N"," "," ","fr°m${ä}°İ$sá½º¹ù","MS",769
+"from the south","NC19A","343","Q","N"," "," ","fr°m${d}±¿İ$sáº¹ù","MS",770
+"from the south","NC19B","344","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",771
+"to the southward","NC20A","345","Q","N"," "," ","t°${d}±¿İ$s¸ä´d","MS",772
+"out south","NC20A","345","Q","Y"," ","SUG","a«¹t$sa«¹ä","MS",772
+"westward","NC20A","345","A","N"," "," ","w²st´d","MS",772
+"northward","NC20A","345","A","N"," "," ","nµ¾{°}ä´d","MS",772
+"eastward","NC20A","345","A","N"," "," ","i½ist´d","MS",772
+"to the southward","NC20B","346a","Q","N"," "," ","t°${ä}°İ$s¸ä°d","MS",773
+"south","NC20B","346a","N","N"," "," ","sáº¹ä","MS",773
+"south","NC20C","346b","N","N"," "," ","sáº¹ä","MS",774
+"to the southward","NC20C","346b","Q","N"," "," ","t°$ä°$s¸ºä´d","MS",774
+"to the southward","NC21A","347","Q","N"," "," ","t°${d}±¿İ½$s¸«ä´d","MS",775
+"from the south","NC21A","347","Q","N"," "," ","fr°m${d}±¿İ½$sá¾¹«ù","MS",775
+"to the southward","NC21B","348","Q","N"," "," ","t°${ä}°İ$s¸ºä´d","MS",776
+"from the south","NC22A","349","Q","N"," "," ","fr°m${ä}°$sá¾¹½ù","MS",777
+"from the south","NC22B","349b","Q","N"," "," ","fr°m${ä}°$sáº¹¿«ù","MS",778
+"to the southward","NC23A","351a","Q","N"," "," ","t°$ä°$s¸ä°d","MS",779
+"from the south","NC23B","351b(*)","Q","N"," "," ","fr°m$ä°$sá½¾¹«¼ù","MS",780
+"from the south","NC23C!","351c!","Q","N"," "," ","fr°m$ä°$s¥¹«ù","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"to the southward","NC24N","N352","Q","N"," "," ","t°${d}±¿İ$s¸ä°¾d","MS",783
+"to the southward","NC24A","352a","Q","N"," "," ","t°${d}±¿İ½$s¸ä°d","MS",784
+"to the southward","NC24B","352b","Q","N"," "," ","t°$ä°$s¸ä´d","MS",785
+"in the south","NC25N","N353","Q","N"," "," ","±n${d}±¿İ$sa¾{¹}ù","MS",786
+"from the south","NC25A","353","Q","N"," "," ","fr°m${ä}°İ$sa¹ù","MS",787
+"from the south","NC25B","354","Q","N"," "," ","fr°m${d}±¿İ«$sa«¹ù","MS",788
+"from the south","NC26A","355a","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",789
+"from the south","NC26B","355b","Q","N"," "," ","fr°m${ä}°$sa«¹ù","MS",790
+"from the south","NC26C!","356!","Q","N"," "," ","fr°m$ä°$s¥¼¹«ù","MS",791
+"from the south","NC27A","357","Q","N"," "," ","fr°m${ä}°İ$sa¾¹ù","MS",792
+"from the south","NC27B","258","Q","N"," "," ","fr°m${ä}°İ$sa«¹ù","MS",793
+"from the south","NC28A","361","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",794
+"from the south","NC28B","361b","Q","N"," "," ","fr°m$ä°$sa«º¹«ù","MS",795
+"from the south","NC28C","362","Q","N"," "," ","fr°m${ä}°İ$sá½º¹¿ù","MS",796
+"from the south","NC29A","363(*)","Q","N"," "," ","fr°m$d±¿½$sa¹ù","MS",797
+"from the south","NC29B","364","Q","N"," "," ","fr°m${ä}°İ$sá½º¹¿ù","MS",798
+"from the south","NC30A","365","Q","N"," "," ","fr°m${d}±¿İ½$sá½¾¹«ù","MS",799
+"from the south","NC30B","366","Q","N"," "," ","fr°m${ä}°İ$sáº¹½ù","MS",800
+"from the south","NC31A","367","Q","N"," "," ","fr°m${d}±¿İ$s¥¼¹ù","MS",801
+"from the south","NC31B","368","Q","N"," "," ","fr°m${ä}°İ$sá¹¼ù","MS",802
+"from the south","NC32A","369","Q","N"," "," ","fr°m${d}±¿İ$sá½¹½ù","MS",803
+"from the south","NC32B!","370!","Q","N"," "," ","fr°m$ä°$sáº¹«¼ù","MS",804
+"from the south","NC33A","373","Q","N"," "," ","fr°m${d}±¿İ$sáº¹¿ù","MS",805
+"from the south","NC33B","374","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",806
+"from the south","NC34A","375","Q","N"," "," ","fr°m${d}°İ$sáº¹ù","MS",807
+"from the south","NC34B","376","Q","N"," "," ","fr°m$ä°$sáº¹¿½ù","MS",808
+"outen the south","NC35A","377","Q","N"," "," ","áİ¾o«¼tn${d}±¿İ$sáİ¾¹«¼ù","MS",809
+"from the south","NC35B","378","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",810
+"from the south","NC36N","N381","Q","N"," "," ","fr°m${ä}°İ$sµ«¹ù","MS",811
+"from the south","NC36A","381","Q","N"," "," ","fr°m${ä}°İ$saº¹ù","MS",812
+"from the south","NC36B","382","Q","N"," "," ","fr°m${ä}°İ$sa«{¹}ù","MS",813
+"from the south","NC37A","383","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",814
+"from the south","NC37B","384","Q","N"," "," ","fr°m${ä}°$s°«¹«ù","MS",815
+"from the south","NC38N","N385","Q","N"," "," ","fr°m${d}°İ$s¥¹ù","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"from the south","NC38B","386","Q","N"," "," ","fr°m${ä}°İ$sáº¹ù","MS",818
+"from the south","NC39A","389","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",819
+"from the south","NC39B!","390!","Q","N"," "," ","fr°m${ä}°İ$s°¹«ù","MS",820
+"from the south","NC40A","391","Q","N"," "," ","fr°m${d}±¿İ$sá½¹ù","MS",821
+"from the south","NC40B","392","Q","N"," "," ","fr°m${ä}°İ$s¥¹«ù","MS",822
+"from the south","NC41!","393!","Q","N"," "," ","fr°m${ä}°$s¥¼¹«ù","MS",823
+"from the south","NC42A","403","Q","N"," "," ","fr°m${ä}°İ$sá½¾¹«ù","MS",824
+"from the south","NC42B","404(*)","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",825
+"from the south","NC43A","397","Q","N"," "," ","fr°m${ä}°İ$sá½¾¹f","MS",826
+"from the south","NC43B","398","Q","N"," "," ","fr°m$ä°$sa«¾º¹ù","MS",827
+"from the south","NC44","410(*)","Q","N"," "," ","fr°m${ä}°İ$s¥¹ù","MS",828
+"from the south","NC45A","409(*)","Q","N"," "," ","fr°m${d}°İ$s¥¹ù","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"from the south","NC46A","411","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",831
+"from the south","NC46B","412","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",832
+"from the south","NC46C!","412b!","Q","N"," "," ","fr°m$ä°$s¥¹«ù","MS",833
+"from the south","NC47","413","Q","N"," "," ","fr°m$ä°$sá¹¿ù","MS",834
+"from the south","NC48","418","Q","N"," "," ","fr°m$ä°$sá¹ù","MS",835
+"from the south","NC49","421","Q","N"," "," ","fr°m${d}°İ$sáº¹¿ù","MS",836
+"from the south","NC50A","422","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",837
+"from the south","NC50B!","423!","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",838
+"from the south","NC51A","427","Q","N"," "," ","fr°m${ä}°İ$sá½º¹½ù","MS",839
+"from the south","NC51B","428","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",840
+"from the south","NC52N","N429","Q","N"," "," ","fr°m${d}°İ$saº¹{f}","MS",841
+"from the south","NC52A","429","Q","N"," "," ","fr°m$ä°$sa«º¹ù","MS",842
+"from the south","NC52B","430","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",843
+"from the south","NC53A","431","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",844
+"from the south","NC53B","432","Q","N"," "," ","fr°m${ä}°İ$sá½º¹¿ù","MS",845
+"from the south","NC54A","433","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",846
+"from the south","NC54B","434","Q","N"," "," ","fr°m${ä}°İ$sá½º¹ù","MS",847
+"from the south","NC55","435","Q","N"," "," ","fr°m${d}°İ$sáº¹ù","MS",848
+"from the south","NC56A","436","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",849
+"from the south","NC56B!","437!","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",850
+"from the south","NC57A","438a","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",851
+"from the south","NC57B","438b","Q","N"," "," ","fr°m${ä}°İ$sáº¹ù","MS",852
+"from the south","NC58A","439","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿½ù","MS",853
+"from the south","NC58B","440","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",854
+"from the south","NC59","441(*)","Q","Y"," ","AUX","fr°m$ä°$sá½º¹¿ù","MS",855
+"from the south","NC60","442","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",856
+"from the south","NC61A","443","Q","N"," "," ","fr°m${ä}°İ$saº¹½ù","MS",857
+"from the south","NC61B","444","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",858
+"from the south","NC62A","447","Q","N"," "," ","fr°m$ä°$sáº¹ù","MS",859
+"from the south","NC62B","448","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",860
+"from the south","NC63A","449","Q","N"," "," ","fr°m${ä}°İ$sa«º¹ù","MS",861
+"from the south","NC63B","450","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",862
+"from the south","NC64A","453","Q","N"," "," ","fr°m${ä}°İ$saº¹½ù","MS",863
+"from the south","NC64B","454","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",864
+"from the south","NC65A","461","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",865
+"from the south","NC65B","462","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",866
+"from the south","NC66A","465","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",867
+"from the south","NC66B","466","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",868
+"from the south","NC67A","469","Q","N"," "," ","fr°m${ä}°İ$sá½º¹¿ù","MS",869
+"from the south","NC67B","470","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",870
+"from the south","NC68A","473","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",871
+"from the south","NC68B","474","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿½ù","MS",872
+"from the south","NC69A","477","Q","N"," "," ","fr°m${ä}°İ$sa«º¹½ù","MS",873
+"from the south","NC69B","478","Q","N"," "," ","fr°m$ä°$sáº¹¿½ù","MS",874
+"from the south","NC70A","479","Q","N"," "," ","fr°m$ä°$sá½º¹¿ù","MS",875
+"from the south","NC70B","480","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",876
+"from the south","NC71A","481","Q","N"," "," ","fr°m${ä}°İ$sá½º¹¿½ù","MS",877
+"from the south","NC71B","482","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",878
+"from the south","NC71C!","483!","Q","N"," "," ","fr°m${ä}°$sáº¹¿ù","MS",879
+"from the south","NC72A","487","Q","N"," "," ","fr°m${d}°İ$sáº¹¿ù","MS",880
+"from the south","NC72B","488","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿½ù","MS",881
+"from the south","NC73A","491","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",882
+"from the south","NC73B","492","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",883
+"from the south","NC74A","493","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",884
+"from the south","NC74B","494","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",885
+"from the south","NC75A","495","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",886
+"from the south","NC75B","496","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿ù","MS",887
+"from the south","SC1A","203.1","Q","N"," "," ","fr°m${ä}°İ$sa«¹ù","MS",888
+"to the southward","SC1A","203.1","Q","N"," "," ","t°$d±¿$s¸¼ä°d","MS",888
+"from the south","SC1B","203.2","Q","N"," "," ","fr°m$ä°$saº¹ù","MS",889
+"from the south","SC2A","204.1(*)","Q","N"," "," ","fr°m${d}±¿İ½$sáº¹¿½ù","MS",890
+"from the south","SC2B","204.2","Q","N"," "," ","fr°m${ä}°İ$sáº¹¿½ù","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"from the south","SC3A","205.1","Q","N"," "," ","fr°m${d}±¿$sa«º¹ù","MS",893
+"from the south","SC3B","205.2","Q","N"," "," ","fòm$d‘±¿«¼$åsáoù","MS",894
+"from the south","SC3C!","205.3!","Q","N"," "," ","f{ò}m$ä°$åsáºoù","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"from the south","SC4B","206.2","Q","N"," "," ","fm$ä±¿«¼$åsá½¼o¼ù","MS",897
+"south","SC4B","206.2","N","N"," ","CNV","sá½¾o¼ù","MS",897
+"from the south","SC4C","206.3","Q","N"," "," ","fòm$ä°$åsµºo¼ù","MS",898
+"from the south","SC4C","206.3","Q","N"," "," ","fòm$ä°$ås¸½¼¹ù","MS",898
+"south","SC4C","206.3","N","N"," ","CNV","s¥¹ù","MS",898
+"from the south","SC5A","207.1","Q","N"," "," ","õfrm$ä±¿$ås¸«¼¹ù","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"NA","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"from the east","SC5D!","207.3!","Q","N"," "," ","fòm$ä±¿«¼$åiº{±¿}s","MS",902
+"from the south","SC5D!","207.3!","Q","N"," "," ","fòm$ä°$ås¸½¼¹ù","MS",902
+"south","SC6N","N208","N","N"," "," ","s¸½¼¹ù","MS",903
+"from the south","SC6A","208.1","Q","N"," "," ","fr°m$ä°$sa«º{¹«¼}ù","MS",904
+"from the south","SC6B","208.2(*)","Q","N"," "," ","frm$ä°$ås¸—¼¹¼ù","MS",905
+"from the north","SC6B","208.2(*)","Q","N"," "," ","frm$ä°$ån·«°İù","MS",905
+"from the west","SC6C!","208.3!","Q","N"," "," ","frm$ä°$åw²«{°}s","MS",906
+"from the west","SC6C!","208.3!","Q","N"," "," ","f{r}m$ä°$åw²«{°}s","MS",906
+"in the west","SC6C!","208.3!","Q","N"," ","CNV","±¿¼n$ä°$åw²«{°}s","MS",906
+"south wind","SC6C!","208.3!","O","N"," ","CNV","ås¸½¹ù$õw±«{°}n","MS",906
+"NA","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"NR","SC7A","209.1"," ","N"," "," "," ","MS",909
+"from the south","SC7B","209.2","Q","N"," "," ","fòm$ä°$ås¸½¼¹ù","MS",910
+"from the southeast","SC7B","209.2","Q","N"," "," ","fòm$ä°$ås¸¼{o¼}¹ùõiºs","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"from the south","SC7D!","209.4!","Q","N"," "," ","fòm$ä°$ås¸«¼¹ù","MS",912
+"from the south","SC8A","210.1","Q","N"," "," ","fòm$d‘±¿$ås°¼où","MS",913
+"from the north","SC8A","210.1","Q","N"," "," ","fò¸¼{°}m$d±¿«¼$ån·º°ù","MS",913
+"from south","SC8B","210.2","Q","N"," "," ","fòm$ås°½¹½ù","MS",914
+"south","SC8B","210.2","N","N"," "," ","s°¹f","MS",914
+"from the east","SC8C","210.3","Q","N"," "," ","f{ò}m$ä±¿«¼$åiºst","MS",915
+"out the north","SC8C","210.3","Q","N"," "," ","¥¼ot$d±¿½¼$ån·½¼°ù","MS",915
+"from the west","SC8C","210.3","Q","N"," "," ","f{ò}m$ä±¿«¼$w²«{°}st","MS",915
+"from the north","SC8C","210.3","Q","N","= ""cold spell¢"," ","f{ò}m$ä±¿«¼$ån·¼º°İù","MS",915
+"south rain","SC8C","210.3","O","N"," ","CNV","ås¥½¼où$õre«º{°}n","MS",915
+"from the south","SC8C","210.3","Q","N"," ","CNV","fm$ä±¿«¼$ås¥¼où","MS",915
+"cold spell","SC8C","210.3","O","Y"," ","INA","åko«{°}ì$õsp²«{°}ì","MS",915
+"from the south","SC9A","211.1","Q","N"," "," ","fm$ä°$ås¥½¼où","MS",916
+"out of the south","SC9B","211.2","Q","N","[t] unreleased"," ","¥¼ot$d±¿«¼$ås¥«¼où","MS",917
+"out of the east","SC9B","211.2","Q","N"," "," ","¥¼ot$d±¿«¼$åiºs","MS",917
+"from that north and west","SC9B","211.2","Q","N"," "," ","fòm$dá½{°}t$ån·¼º°ù$n$åw²«{°}s","MS",917
+"east and south","SC9B","211.2","O","N"," "," ","åiºst$n$õs¥«°ù","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"from the south","SC9D!","211.4!","Q","N"," ","CNV","fòm$ä°$ås¥¼o¼ù","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"to the southward","SC11N","N213","Q","N"," "," ","t°$d±¿İ$s¸½ù°d","MS",923
+"to the eastward","SC11N","N213","Q","N"," "," ","t°$d±¿İ$ist°½¾d","MS",923
+"to the westward","SC11N","N213","Q","N"," "," ","t°$d±¿İ$w²st°½¾d","MS",923
+"to the northward","SC11N","N213","Q","N"," "," ","t°$d±¿İ$n¶ä°d","MS",923
+"from the south","SC11M!","2n213!","Q","Y","[{ò}]: doubtful","FDT","f{ò}m$ä°$ås¥½¼¹ù","MS",924
+"from the south","SC11A","213.1(*)","Q","N"," "," ","fòm$ä°$ås¸½¼¹ù","MS",925
+"south wind","SC11B","213.11","O","N"," "," ","ås°¹«ù$õw±nd","MS",926
+"from the south","SC11C","213.2","Q","N"," "," ","fm$ä°$ås¸½¹ù","MS",927
+"from the south","SC11D","213.3","Q","N"," "," ","fòm$ä°«$ås¸—«¹ù","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"south","SC11F","213.5","N","N"," ","CNV","s¸¼¹ù","MS",930
+"from the south","SC11G!","213.7!","Q","N"," "," ","f{ò}m$ä°½$ås¸¼¹ù","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"from the south","SC11I!","213.9!","Q","N"," "," ","fò°m$ä°$s¥¹ù","MS",933
+"at the north","SC11I!","213.9!","Q","N","= in the north SSS"," ","õát$ä°$ån·ºù","MS",933
+"from the south","SC11J!","213.10!","Q","N"," "," ","fòm$ä°$ås¸½¼¹ù","MS",934
+"south","SC11J!","213.10!","N","N"," "," ","s¸—¹ù","MS",934
+"in the east","SC12A","214.1","Q","N"," ","CNV","±¿¼n$ä°$åiº{±¿}s","MS",935
+"from the south","SC12B","214.2","Q","N"," "," ","fr°İm$d±¿$s¥¹ù","MS",936
+"from the southeast","SC13","213.6","Q","N"," "," ","fm$ä°$ås¸¼¹ùõiºs","MS",937
+"south","SC13","213.6","N","N"," "," ","s¸¼¹½ù","MS",937
+"from the south","SC14A","215.1","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",938
+"to the southward","SC14A","215.1","Q","N"," "," ","t°$ä°$s¸½ä°d","MS",938
+"from the north","SC14B","215.2","Q","N"," "," ","fòm$ä°$ån·«º{°}ù","MS",939
+"from the east and north and south","SC15A","216.1","Q","N"," "," ","f{ò}m$d‘±¿«¼$åiºst$n$ån·¼º°ù$n$åsµ«¼où","MS",940
+"from the south","SC15A","216.1","Q","N"," "," ","fm$d±¿$åsµ«°où","MS",940
+"from the east","SC15A","216.1","Q","N"," "," ","f{ò}m$d‘±¿«¼$åiºs","MS",940
+"from the northeast","SC15A","216.1","Q","N"," "," ","fòİm$ä°$ån·¼º°İùõiºs","MS",940
+"from the southwest","SC15B","216.2","Q","Y","[{ò}]: doubtful","FDT","f{ò}m$ä°$åsµ«¼ùõw²«{°}s","MS",941
+"from the east","SC15B","216.2","Q","N"," "," ","fm$ä°$åiºst","MS",941
+"NA","SC15C","216.3"," ","N"," "," "," ","MS",942
+"from the southeast","SC16N","N217","Q","N"," "," ","fò¦½{°}m$d±¿«¼$åsa«ofõiº{±¿}s","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"from the south","SC17A","218.1","Q","N"," "," ","f¦½m$d‘±$åsá½¾o¼ù","MS",945
+"from the north","SC17A","218.1","Q","N"," ","SIC","f¦½m$d±¿«¼$ån·º°f","MS",945
+"in the west","SC17A","218.1","Q","N"," ","CNV/SIC","±«{±¿}n$d‘±¿«¼$åw²«{°}s","MS",945
+"from the west","SC17A","218.1","Q","N"," ","SIC","f{ò}m$d‘±¿«¼$åw²«{°}s","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"from the north","SC17D","218.4","Q","N"," "," ","f{ò}m$ä±¿$n·º°ù","MS",948
+"from the west","SC17D","218.4","Q","N"," "," ","fòm$ä±¿$w²«{°}st","MS",948
+"from the east","SC17D","218.4","Q","N"," "," ","f{ò}m$ä±¿$iº{±¿}st","MS",948
+"from the south","SC17D","218.4","Q","N"," "," ","fòm$ä±¿$åsµ¼ºoù","MS",948
+"south and north","SC18N","N219","O","N"," "," ","ås¸—¼¹t‘$°$õn·¼º{°}t‘","MS",949
+"from the south","SC18N","N219","Q","N"," "," ","fr°İ½m$d‘°«$ås¸—¼¹t‘{ù}","MS",949
+"from the south","SC18A","219.1","Q","Y","[{ò}]: doubtful; pleasant winds","FDT","f{ò}m$ä±¿«¼$ås¸—«¹ù","MS",950
+"springing up from the southward","SC18B","219.2","E","N"," "," ","åspr±«î±¿¼nõ¸«p$frm$ä°$ås¸«ä°¾d","MS",951
+"from the south","SC18B","219.2","Q","N","""springing up from the southward¢"," ","fr°İm$ä±¿«¼$s¸—¹ù","MS",951
+"southerly wind","SC18B","219.2","O","N"," "," ","ås¸«ä°l±¿«¼$õw±«º{°}n","MS",951
+"south","SC18C!","219.3(*)!","N","N"," ","CNV","s¥«¹ù","MS",952
+"is southerly","SC18C!","219.3(*)!","E","N"," "," ","±¿¼z$ås¸¼ä°¾l±¿«¼","MS",952
+"from the south","SC18C!","219.3(*)!","Q","N"," "," ","fr°½m$ä±¿¼$ås¸¹ù","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NA","SC19A","220.1"," ","N"," "," "," ","MS",955
+"NR","SC19B","220.4"," ","N"," "," "," ","MS",956
+"from the south","SC19C","220.2(*)","Q","N","[ù] unreleased"," ","f{ò}m$ä±¿½$ås¸½¹ù","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NA","SC19E!"," "," ","N"," "," "," ","MS",959
+"from the west","SC20A","221.1","Q","N"," "," ","f{r}m$ä°$åw²«{°}s","MS",960
+"to the north","SC20A","221.1","Q","N"," "," ","t°$ä±¿$ån·º°ù","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"from the south","SC20C","221.3","Q","N"," "," ","frm$ä°$åsá½où","MS",962
+"from the west","SC20C","221.3","Q","N"," "," ","frm$ä°$åw²«{°}st","MS",962
+"from the east","SC20C","221.3","Q","N"," "," ","fm$ä°$åiº{j}st","MS",962
+"NA","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"from the south","SC21A","222.1","Q","N"," "," ","fr°m${d}°İ$sáº¹¿½ù","MS",964
+"from the south","SC21B","222.2","Q","N"," "," ","fr°m${d}°İ$sa«º¹¿½ù","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"from the south","SC22A","223.1","Q","N"," "," ","f{ò}m$ä±¿$åsá½où","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"NR","SC22C!","223.3!"," ","N"," "," "," ","MS",969
+"from the west","SC23A","224.1","Q","N"," "," ","fm$ä°«$åw²«{°}s","MS",970
+"from the west","SC23A","224.1","Q","N"," "," ","f{ò}m$ä±¿$åw²«{°}s","MS",970
+"from the southwest","SC23B","224.2","Q","N"," "," ","fòm$ä°$åsá¾o¼ùõw²«{°}st","MS",971
+"from the south","SC23B","224.2","Q","N"," "," ","fòm$åd‘°$åsá½où","MS",971
+"from the south","SC23C","224.3","Q","N"," "," ","fò°m$ä°$åsa½¾o¼ù","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"from the south","SC24A","225.1","Q","N"," "," ","fm$d°$åsa¾¹f","MS",976
+"from the southwest","SC24A","225.1","Q","N"," "," ","fm$d‘°$åsa«º¹İ{f}õw²½s","MS",976
+"south wind","SC24A","225.1","O","N"," "," ","åsa«º¹İ{f}$õw±ºn","MS",976
+"from the north","SC24A","225.1","O","N"," "," ","fm$d°$ån·º°f","MS",976
+"NR","SC24B","225.11"," ","N"," "," "," ","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"to the west","SC24D!","225.3!","Q","N"," ","CNV","t°$d‘±¿«¼$åw²«{°}s","MS",979
+"from the south","SC25A","226.1","Q","N"," "," ","fr°m${d}±¿İ$sa«¼º¹ù","MS",980
+"from the south","SC25B","226.2","Q","N"," "," ","fm$ä°$åsá½¾o«ù","MS",981
+"from the east","SC25B","226.2","Q","N"," "," ","fm$ä°$åiº{j}s","MS",981
+"from the south","SC25C!","226.3!","Q","N"," "," ","f{r}m$ä°$ås¸¼¹ù","MS",982
+"from the south","SC26A","227.1","Q","N"," "," ","fm$d‘±¿«¼$ås¥¼où","MS",983
+"from the south and west","SC26A","227.1","Q","N"," "," ","fm$d‘±¿«¼$ås¥¼où$°«n$åw²«{°}s","MS",983
+"from the east","SC26A","227.1","Q","N"," "," ","fm$d‘±¿«¼$åiº{±¿}s","MS",983
+"from the west","SC26B!","227.2!","Q","N"," "," ","frm$ä±¿«¼$åw²«{°}st","MS",984
+"from the south","SC27A","228.1","Q","N"," "," ","fm$d°$åsa«¹ù","MS",985
+"from the east","SC27A","228.1","Q","N"," "," ","fm$d°$åiºs","MS",985
+"from the southeast","SC27B","228.2","Q","N"," "," ","fm$d‘±¿$ås¥¼oùõiºs","MS",986
+"from the southwest","SC27B","228.2","Q","N"," "," ","fm$d‘±¿$ås¥oùõw²«{°}s","MS",986
+"from the south","SC28A","229.1","Q","N"," "," ","frm$ä°$åsá½où","MS",987
+"NA","SC28B","217.2"," ","N"," "," "," ","MS",988
+"eastwardly","SC28C","229.2","A","N"," "," ","åiºsw±¿İdl±¿«¼","MS",989
+"from the west","SC28C","229.2","Q","N"," "," ","fr°İ½m$d‘±¿«¼$åw²«{°}s","MS",989
+"from the west","SC28D","229.3","Q","N"," "," ","frm$ä°$åw²«{°}s","MS",990
+"from the north","SC28D","229.3","Q","N"," "," ","frm$ä°$ån·º°İù","MS",990
+"from the east","SC28D","229.3","Q","N"," "," ","fm$ä°$åiºst","MS",990
+"to the right","SC29A","230.2(*)","Q","Y"," ","INA/CNV","t°$ä°$åra«¾±¿t","MS",991
+"out of the west","SC29A","230.2(*)","Q","N","it's ""to the right¢"," ","a«¾º°—t°$õä°$åw²«{°}st","MS",991
+"from the south","SC29A","230.2(*)","Q","N"," "," ","fm$ä±¿$åsa«¾oºù","MS",991
+"NR","SC29B","230.1(*)"," ","N"," "," "," ","MS",992
+"out of the south","SC29C","230.3","Q","N"," "," ","°«ot$°$ä°$åsa«¾o¼ù","MS",993
+"from the west","SC29C","230.3","Q","N"," "," ","fm$ä°$åw²«{°}st","MS",993
+"south wind","SC29C","230.3","O","N"," "," ","åsá½o¼ù$õw±«{°}n","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"from the south","SC30A","231.1","Q","N"," "," ","fr°m$ä°$sa«{¹}ù","MS",996
+"from the west","SC30B","231.2","Q","N"," "," ","fòm$ä°«$åw²«st","MS",997
+"from the north","SC30B","231.2","Q","N"," "," ","fòm$ä°«$ån·¼º°ù","MS",997
+"from the southwest","SC30B","231.2","Q","N"," "," ","fòm$ä°«$åsa¾¹ùõw²«st","MS",997
+"from the south","SC30B","231.2","Q","N"," "," ","f{ò}m$ä°«$åsa«¾¹ù","MS",997
+"south","SC30B","231.2","N","N"," ","CNV","sa«¾¹ù","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"from the east","SC31A","232.1","Q","N"," "," ","fm$d±¿«¼$åiº{±¿}s","MS",999
+"in the east","SC31A","232.1","Q","N"," "," ","±¿¼n$d°$åiº{±¿}st","MS",999
+"out of the west","SC31A","232.1","Q","N"," "," ","a«°—t°$d°$åw²«{°}st","MS",999
+"out of the south","SC31A","232.1","Q","N"," "," ","a«°—t°$d°$åsa«°—ù","MS",999
+"from the north","SC31B","232.2","Q","N"," "," ","f{r}m$ä°$ån·º°İù","MS",1000
+"from the south","SC31B","232.2","Q","N"," ","SIC","frm$ä±¿$åzá½où","MS",1000
+"from the east","SC31B","232.2","Q","N"," "," ","frm$ä±¿$åiº{j}s","MS",1000
+"from the south","SC32A","233.1","Q","N"," "," ","fòm$ä°$åsá½o¼ù","MS",1001
+"south","SC32B","233.2","N","N"," "," ","sá½o¼ù","MS",1002
+"NR","SC32C","233.3"," ","N"," "," "," ","MS",1003
+"from the south","SC32D","233.4","Q","N"," "," ","f{ò}m$ä°$åsá½o¼ù","MS",1004
+"south wind","SC32D","233.4","O","N"," "," ","åsá½o¼ù$õw±«{°}n","MS",1004
+"from the south","SC33A","234.1","Q","N"," "," ","fr°m$ä°İ$sá½º¹¿ù","MS",1005
+"to the east","SC33B","234.2","Q","N"," "," ","t`°$ä±¿«¼$åiºjst","MS",1006
+"NR","SC34A","235.1"," ","N"," "," "," ","MS",1007
+"from the south","SC34B","235.2","Q","N"," "," ","f{ò}m$ä°$sá½o¼ù","MS",1008
+"NA","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"from the south","SC35A","236.1","Q","N"," "," ","fòm$äá$åsá½o¼ù","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"from the south","SC35C","236.3(*)","Q","N"," "," ","f{r}m$ä°$åsa¹ù","MS",1012
+"from the north","SC35C","236.3(*)","Q","N"," "," ","f{r}m$ä°$ån·º°ù","MS",1012
+"NR","SC35D"," "," ","N"," "," "," ","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"from the south","SC36B","237.2","Q","N"," "," ","fòm$ä°$åsµ¼º¹ù","MS",1016
+"from the south","SC36C","237.3","Q","N"," "," ","fòm$ä°$åsµ¹ù","MS",1017
+"from the northwest","SC36C","237.3","Q","N"," "," ","fòm$ä°$åån¶—«º´—½¾ùõw²«s","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"from the south","SC37","238","Q","N"," "," ","fm$ä°$åsa«¹ù","MS",1019
+"from the south","SC37","238","Q","N"," "," ","fm$d‘°$åsa«¹ù","MS",1019
+"from the southwest","SC38N","N239","Q","N"," "," ","fòm$ä°$åsa«¾¹ùõw²«s","MS",1020
+"from the center","SC38N","N239","Q","N"," "," ","fòm$ä$ås±ş«nt°","MS",1020
+"from the southeast","SC38A","239.1","Q","N"," "," ","f{ò}m$ä°$åsa«¾¹ù—õiºjs","MS",1021
+"from the south","SC38A","239.1","Q","N","""till rain¢"," ","fò¦şm$°$åsa¾¹ù","MS",1021
+"from the southwest","SC38A","239.1","Q","N"," "," ","fm$ä°$åsa«¾¹ù—õw²«st","MS",1021
+"from the south","SC38B","239.2","Q","N"," "," ","fòİm$ä°$åsa¾¹ù—","MS",1022
+"out of the southwest","SC38B","239.2","Q","N"," "," ","a¾¹t$d‘$ä°$åsa«¾¹ùõw²«s","MS",1022
+"NA","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"from the west","SC38D!","239.4(*)!","Q","N"," "," ","fòm$ä°$åw²«{±}st","MS",1024
+"from the south","SC38D!","239.4(*)!","Q","N"," "," ","fòİm$ä°$sa«º¹ù","MS",1024
+"from the north","SC38D!","239.4(*)!","Q","N"," "," ","fòm$ä$n·º°ù","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"from the south","SC39A","240.1","Q","N"," "," ","fòm$ä°$åsa«¾¹ù","MS",1026
+"from the southwest","SC39B!","240.2!","Q","N"," "," ","f{r}m$ä°$åsa«¾¹ù—õw²«st","MS",1027
+"from there straight south","SC39B!","240.2!","Q","N"," "," ","fòm$d³´«¼$õstòe«º{±¿}t$åsa«¾¹ù—","MS",1027
+"from the western side","SC39B!","240.2!","Q","N"," "," ","f{ò}m$ä°$åw²«st°«n$õsa«¾º{±¿}d","MS",1027
+"in the south","SC39B!","240.2!","Q","N"," "," ","±¿¼n$ä°$åsa«¾¹ù","MS",1027
+"from the south","SC40A","241.1","Q","N"," "," ","fm$ä°«$åsµ«¹{ù}","MS",1028
+"from the south","SC40A","241.1","Q","N"," ","SIC","fm$ä°«$åsµ«¹f","MS",1028
+"from the south","SC40B","241.2","Q","N"," "," ","fm$ä°$åsa«°ù","MS",1029
+"from the south","SC41A","242.1","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",1030
+"from the south","SC41B","242.2","Q","N"," "," ","fm$ä°$sµ«où","MS",1031
+"from the east","SC42N","N243","Q","N"," "," ","frm$ä°«¾$i{i«}s","MS",1032
+"south","SC42N","N243","N","N"," "," ","sa«¾ºoù","MS",1032
+"south","SC42N","N243","N","N"," "," ","sá½¾ºoù","MS",1032
+"from the north","SC42N","N243","Q","N"," "," ","frm$ä°«¾$n¶«ºoù","MS",1032
+"from the west","SC42N","N243","Q","N"," "," ","frm$ä°«¾$w²«s","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"from the east","SC42A","243.1","Q","N"," "," ","frm$ä°$ijst","MS",1034
+"from the southwest","SC42A","243.1","Q","N"," "," ","f{´}°m$ä°$sa«o¼ùw²«s{t}","MS",1034
+"from the south","SC42A","243.1","Q","N"," "," ","frm$ä°$åsa«o¼ù","MS",1034
+"from the south","SC42B!","243.2!","Q","N"," "," ","f{ò}m$ä°½$åsa«¹ù—","MS",1035
+"from the mountains","SC42B!","243.2!","Q","N"," "," ","f{ò}m$ä°½$åma«¾o¹n'tnz{z}","MS",1035
+"from the south","SC42C!","243.3!","Q","N"," "," ","fr°½m$ä°$sa¹¼ù","MS",1036
+"from the south","SC42C!","243.3!","Q","N"," "," ","frm$ä°İ$sa¾¹½ù","MS",1036
+"from the south","SC42C!","243.3!","Q","N"," "," ","fr¥½m$ä°$åsµ¼¹ù","MS",1036
+"south wind","SC42C!","243.3!","O","N"," "," ","åsa«¹¿ù$õw±¾n","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"from the south","SC42E!","243.5!","Q","N"," "," ","f{r}m$ä°$åsa«¾¹¼ù","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"from the west","SC43B","244.2","Q","N"," "," ","fm$ä°$åw²«ºs","MS",1040
+"from the south","SC43B","244.2","Q","N"," "," ","fm$ä°$åsa«¾où","MS",1040
+"in the west","SC43B","244.2","Q","N"," ","CNV","±¿½n$ä°$åw²«st","MS",1040
+"from the north","SC43B","244.2","Q","N"," ","CNV","fm$ä°$ån·où","MS",1040
+"from the west","SC43C","244.3","Q","N"," "," ","frm$ä°$we{±¿}st","MS",1041
+"south","SC43C","244.3","N","N"," "," ","sa¾où","MS",1041
+"from the south","SC44A","245.1","Q","N"," "," ","fm$ä°$sµ«ºoù","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"from the north","GA1N","N246","Q","N"," "," ","f{ò}m$ä°$ån·º°ù","MS",1044
+"south","GA1N","N246","N","N"," "," ","ås¥¹ù","MS",1044
+"NR","GA1A","246.1(*)"," ","N"," "," "," ","MS",1045
+"NR","GA1B","246.11"," ","N"," "," "," ","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"from the south","GA1F!","246.5!","Q","N"," "," ","fr°m$ä°$s¥¹ù","MS",1050
+"from the northeast","GA1G!","246.6!","Q","N"," "," ","fòİm$ä°$ån·¼º{°}ùõiºst","MS",1051
+"from the south","GA1H!","246.7!","Q","N"," ","CNV","frm$ä°$ås¸¼¹ù","MS",1052
+"from the south","GA1H!","246.7!","Q","N"," "," ","frm$ä°«$ås¸¼¹ù","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"south","GA2A","247.1","N","N"," "," ","s¸¼¹ù","MS",1054
+"from the south","GA2B","247.2","Q","N"," "," ","fòm$ä°$åsµ«¼¹ù","MS",1055
+"from the south","GA3A","248.1","Q","N"," "," ","fr°m$d±¿«$s¥¹ù","MS",1056
+"out south","GA3A","248.1","Q","N"," "," ","¥¹t$s¥¹ù","MS",1056
+"from the south","GA3B","248.2","Q","N"," "," ","frm$ä°$åsáoù","MS",1057
+"from the west","GA3B","248.2","Q","N"," "," ","frm$ä°$åw²«{°}st","MS",1057
+"NR","GA4N","N249"," ","N"," "," "," ","MS",1058
+"from the west","GA4A","249.1","Q","N"," "," ","f{r}m$ä°$w²«{°}st","MS",1059
+"from the north","GA4A","249.1","Q","N"," ","CNV","fm$ä°$ån·«º°ù","MS",1059
+"out of the south","GA4B","249.2","Q","N"," "," ","å¥¼¹¼ñ°$ä°$ås¥¾¹½ù","MS",1060
+"from the south","GA4C!","249.3!","Q","N"," "," ","frm$ä°$ås¥«où","MS",1061
+"from the northeast","GA5A","250.1","Q","N"," "," ","f{r}m$ä°$ån·º°õäiºs","MS",1062
+"from the south","GA5A","250.1","Q","Y","[{r}]: doubtful","FDT","f{r}m$ä°$ås¸½¹ù","MS",1062
+"southerly rain","GA5A","250.1","O","N"," "," ","ås¸½ä°«l±¿«¼$õre«º{°}n","MS",1062
+"NA","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"from the south","GA5C","250.3","Q","N"," "," ","f{r}m$ä°$ås¸½¼¹ù","MS",1064
+"from the southwest","GA5C","250.3","Q","N"," "," ","f{r}m$ä°$åsµ«¼ºo¼w²«{°}st","MS",1064
+"to the eastward","GA5D!","250.4!","Q","N"," ","CNV","t°$ä±¿«¼$åiº{±¿}stw°«d","MS",1065
+"south of","GA5D!","250.4!","K","N"," ","CNV","s¥où$°«v","MS",1065
+"from the west","GA5E!","250.5!","Q","N"," "," ","fm$ä°$åw²«{°}s","MS",1066
+"from the west","GA5E!","250.5!","Q","N"," "," ","fm$ä°$åw²«{°}st","MS",1066
+"from the south","GA5E!","250.5!","Q","N"," "," ","frm$ä°$s¥¼où","MS",1066
+"from the east","GA5E!","250.5!","Q","N"," "," ","frm$ä±¿$åiº{±¿}s","MS",1066
+"from the northeast","GA5E!","250.5!","Q","N"," "," ","fm$ä°$ån·«º°ùõiº{±¿}s","MS",1066
+"from the south","GA6A","251.1","Q","N"," "," ","fm$ä°$ås¥½où","MS",1067
+"in the south","GA6A","251.1","Q","N"," "," ","±¿¼n$ä°$ås¥½¾où","MS",1067
+"to the southward","GA6A","251.1","Q","N"," ","CNV","t°$ä±¿«¼$ås¸«¼{°}ä°«¾d","MS",1067
+"in the northeast","GA6A","251.1","Q","N"," "," ","±¿¼n$ä°$ån·«º°õäiºs","MS",1067
+"south","GA6B!","251.2!","N","N"," ","CNV","ås¥¼où—","MS",1068
+"from the southwest","GA6B!","251.2!","Q","N"," "," ","f{r}m$ä°$ås¥¼o«ùõw²«{°}s","MS",1068
+"from due south","GA6B!","251.2!","Q","N"," "," ","fr¸½m$ådj¹¿¾º$ås¥½¼où","MS",1068
+"from the south","GA7","256","Q","N"," "," ","fò¦½{°}m$ä±¿«¼$åsá½où","MS",1069
+"from the west","GA7","256","Q","N"," "," ","åf{ò}¸«¼{°}m$ä±¿«¼$õw²«{°}st","MS",1069
+"from the south","GA8A","257.1","Q","N"," "," ","fm$ä°$åsá½où","MS",1070
+"from the north","GA8A","257.1","Q","N"," "," ","fm$ä±¿$ån·º´ù","MS",1070
+"from the west","GA8B","257.2","Q","N"," "," ","f{r}m$ä°$w²«{°}st","MS",1071
+"out of the east","GA8B","257.2","Q","N"," "," ","a«¾°—t°$ä±¿«¼$åiºst","MS",1071
+"from the west","GA9A","257A.1","Q","N"," "," ","f{r}m$ä°$åw²st","MS",1072
+"in the west","GA9A","257A.1","Q","N"," "," ","±¿¼n$ä°$w²st","MS",1072
+"from the south","GA9A","257A.1","Q","N"," "," ","f{r}m$ä°$åsa«¹ù","MS",1072
+"from the east","GA9A","257A.1","Q","N"," "," ","f{r}m$ä°$åi{i«}st","MS",1072
+"south wind","GA9A","257A.1","O","N"," "," ","åsa«¹ù$õw±nd","MS",1072
+"southern wind","GA9A","257A.1","O","N"," "," ","ås¸¼ä°n$õw±nd","MS",1072
+"from the south","GA9B","257A.2","Q","N"," "," ","fr°«m$ä±¿$åsa«¹ù","MS",1073
+"from the south","GA10A","258.1","Q","N"," "," ","fr°m${ä}°İ$sá½º¹ù","MS",1074
+"from the south","GA10B","258.2","Q","N"," "," ","fm$ä±¿$åsµ«¼où","MS",1075
+"from the southwest","GA10B","258.2","Q","N"," "," ","fm$ä±¿$åsµ«¼oùõw²«{°}s","MS",1075
+"from the northwest","GA10B","258.2","Q","N"," "," ","fm$ä±¿$ån·º°ùõw²«{°}s","MS",1075
+"NR","GA11N","N258A"," ","N"," "," "," ","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"from the south","GA12B!","259.2(.3)","Q","N"," "," ","fr°½m$ä°$åsa«¹ù","MS",1078
+"south wind","GA12B!","259.2(.3)","O","N"," "," ","åsa«¹ù$õw±º{°}n","MS",1078
+"from the south","GA13A","260.1","Q","N"," "," ","fr°m$ä°$ås¥¹ù","MS",1079
+"from the west","GA13B!","260.2!","Q","N"," "," ","fm$ä°$åw²½{°}st","MS",1080
+"warms up from the south","GA13B!","260.2!","E","N"," "," ","åw·º{°}mzõ¦½p$f{r}m$ä°$åsa«¾oİù","MS",1080
+"from the northeast","GA13B!","260.2!","Q","Y","[{r}]: doubtful","FDT","f{r}m$ä°$ån·½{°}ùõiºst","MS",1080
+"NR","GA14A","261.1"," ","N"," "," "," ","MS",1081
+"from the west","GA14B","261.3","Q","N"," "," ","fòm$ä°$åw²«{°}st","MS",1082
+"from the west","GA14B","261.3","Q","Y","[{ò}]: doubtful","FDT","f{ò}m$ä°$åw²«{°}s","MS",1082
+"from the north","GA14B","261.3","Q","N"," ","SIC","f{ò}$ä°$ån·¼°ù","MS",1082
+"from towards Savannah","GA14C","261.2","Q","N"," "," ","frm$t`w·«¼º°dz$s°åvá{°}n°","MS",1083
+"from the east","GA14C","261.2","Q","N"," "," ","fòm$ä°$åiºjst","MS",1083
+"in the southwest","GA14C","261.2","Q","N"," "," ","±¿¼n$ä°$åsµ«¹ùõw²«{°}s","MS",1083
+"from the south","GA15A","262.1","Q","N"," "," ","fr°m$ä°$sáº¹¿ù","MS",1084
+"from the east","GA15B","262.2","Q","N"," "," ","fr°½m$ä±¿«¼$åiºst","MS",1085
+"from the south","GA16A","263.2","Q","N"," "," ","frm$ä±¿$åsµ«¼où","MS",1086
+"from the west","GA16A","263.2","Q","N"," "," ","fm$ä°$åw²«{°}st","MS",1086
+"to the south","GA16A","263.2","Q","N"," ","CNV","t°$ä°$åsa«¾{°—}ù","MS",1086
+"to the west","GA16A","263.2","Q","N"," ","CNV","t°$ä°$åw²«{°}s","MS",1086
+"from the southeast","GA16B","263.1","Q","N"," "," ","frm$d‘±¿«¼$åsa«oùõiºs","MS",1087
+"from the south","GA16B","263.1","Q","N"," "," ","frm$ä±¿$åsµ«¼où","MS",1087
+"NR","GA16C","263.21"," ","N"," "," "," ","MS",1088
+"from the west","GA16D!","263.3!","Q","N"," "," ","f{r}m$ä°$åw²«{±¿}st","MS",1089
+"out of the east","GA16D!","263.3!","Q","N"," "," ","a½ot°$ä°$åiº{±¿}st","MS",1089
+"from the east","GA16D!","263.3!","Q","N"," "," ","fr°İm$ä°$åiº{±¿}st","MS",1089
+"from the south","GA16D!","263.3!","Q","N"," "," ","f{r}m$ä°$ås¥«¹½ù","MS",1089
+"from the west","GA16D!","263.3!","Q","N"," "," ","frm$ä°$åw²«{±¿}st","MS",1089
+"from the south","GA17N","N264","Q","N"," "," ","f{r}m$ä°$sa«¹ù","MS",1090
+"from the north","GA17","264","Q","N"," "," ","frm$ä°$ån·º°ù","MS",1091
+"from the north","GA17","264","Q","N"," "," ","frm$ä°$ån·½·«ù","MS",1091
+"south","GA17","264","N","N"," "," ","sa«¹«ù","MS",1091
+"south","GA18A","264A.1","N","N"," "," ","sa«¹{ù}","MS",1092
+"from the west","GA18A","264A.1","Q","N"," "," ","frm$d°$åw²«st","MS",1092
+"from the east","GA18A","264A.1","Q","N"," "," ","frm$d°$i{i«}st","MS",1092
+"from the south","GA18A","264A.1","Q","N"," "," ","frm$d°$åsa«¹ù","MS",1092
+"from the south","GA18B","264A.2","Q","N"," "," ","f{r}m$ä±¿$åsa«¹ù","MS",1093
+"from the north","GA18B","264A.2","Q","N"," "," ","f{r}m$ä±¿$n·°ù","MS",1093
+"from the west","GA18B","264A.2","Q","N"," "," ","f{r}m$ä±¿$åw²st","MS",1093
+"from the south","GA19A","265.1","Q","N"," "," ","fm$ä°$åsá½°—ù","MS",1094
+"out of the north","GA19B","265.2","Q","N"," ","CNV","á½ot°$ä°$åno½º°—ù","MS",1095
+"from the south","GA19B","265.2","Q","N"," "," ","fm$d°«$åsá¼où","MS",1095
+"from the east","GA19B","265.2","Q","N","wet spell"," ","fm$d‘°$åiº{j}s","MS",1095
+"from the north","GA20A","266.1","Q","N"," ","CNV","f{r}m$ä±¿$ån·½º°ù","MS",1096
+"south","GA20A","266.1","N","N"," ","CNV","sa«¾°—ù","MS",1096
+"in the south","GA20A","266.1","Q","N"," ","CNV","±¿¼n$ä°$åsa«º°—ù","MS",1096
+"from the north","GA20B","266.2","Q","N"," "," ","frm$d‘±¿$ån·½º°İ¾ù","MS",1097
+"south wind","GA21A","267.1","O","N"," "," ","sa«¹ù$õw±nd","MS",1098
+"south","GA21A","267.1","N","N"," "," ","sa«¹ù","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"NR","GA22A","268A.1"," ","N"," "," "," ","MS",1100
+"from the south","GA22B","268A.2","Q","N"," "," ","f{r}m$ä±¿$sa«¾°—ù","MS",1101
+"from the west","GA22B","268A.2","Q","N"," "," ","f{r}¦½m$ä°$åw²«{°}s","MS",1101
+"south","GA22B","268A.2","N","N"," ","CNV","sa«¾°—ù","MS",1101
+"in the north","GA22B","268A.2","Q","N"," ","CNV","±¾n$ä°$n·½º°ù","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"south wind","GA23B","268.11","O","N"," "," ","åsá½¹ùõw±ºn","MS",1103
+"NR","GA23C","268.2"," ","N"," "," "," ","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"south","GA23E!","268.4!","N","N","from the)"," ","sá¹¿ù","MS",1106
+"NR","GA23F!","268.5!"," ","N"," "," "," ","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"from the south","GA24A","269.1","Q","N"," "," ","fr°m${ä}°İ$sáº¹ù","MS",1109
+"out of the south","GA24B","269.2","Q","N"," "," ","a«¾°t°$d±¿«¼$åsá½où—","MS",1110
+"from the northeast","GA24B","269.2","Q","N"," "," ","fm$ä°$ån·½·ùõiºjs","MS",1110
+"in the southwest","GA24B","269.2","Q","N"," "," ","±¿¼n$d±¿$åsá½ofõw²«s","MS",1110
+"NR","GA25N","N269A"," ","N"," "," "," ","MS",1111
+"south wind","GA26","270A","O","N"," "," ","åsa«¹ù$w±n{d}","MS",1112
+"NR","GA27!","270!"," ","N"," "," "," ","MS",1113
+"from the south","GA28","271a","Q","N"," "," ","fm$d°$åsa«¹ù","MS",1114
+"from the south","GA29A","271.1","Q","N"," "," ","f{r}m$ä±¿$åsá½où","MS",1115
+"from the southwest","GA29A","271.1","Q","N"," "," ","frm$ä±¿$åsµ«oùõw²«{°}s","MS",1115
+"south wind","GA29A","271.1","O","N"," "," ","åsá½¾oùõw±«{°}n","MS",1115
+"a cloud's in the west","GA29B","271.2","S","Y"," ","INA","°$åklµ«¼ºodz$±¿¼n$ä°$åw²º{°}s","MS",1116
+"wind in the south","GA29B","271.2","O","N"," "," ","w±«nd$±¿¼n$ä°$åsá½où","MS",1116
+"from the east","GA29B","271.2","Q","N"," "," ","frm$ä±¿$åiº{j}st","MS",1116
+"NA","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NA","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"south","GA30C!","272.3!","N","N"," "," ","sá½¹ù","MS",1119
+"south wind","GA30C!","272.3!","O","N"," "," ","sá½¹ù$w±º{°}n","MS",1119
+"south wind","GA30C!","272.3!","O","N"," "," ","sá½¹ù$w±º{°}nd","MS",1119
+"NA","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"from the south","GA31","272A","Q","N"," "," ","fm$ä°$sa«¹ù","MS",1122
+"from the west","GA31","272A","Q","N"," "," ","fm$ä°$åw²st","MS",1122
+"from the south","GA32","272B","Q","N"," "," ","fr°«m$ä°$åsá¹ù","MS",1123
+"south wind","GA32","272B","O","N"," "," ","åsá¹ù$õw±{°}nd","MS",1123
+"from the south","GA33A","272C1","Q","N"," "," ","õfr°m$ä°$åsá½¹ù","MS",1124
+"NR","GA33B","272C2"," ","N"," "," "," ","MS",1125
+"from the east","GA34N","N273","Q","N"," "," ","fm$d‘±¿«¼$åiº{j}s","MS",1126
+"from the south","GA34A","273.1","Q","N"," "," ","fr°m$ä°¾$sáº¹¿ù","MS",1127
+"out of the east","GA34B","273.2","Q","N"," "," ","á½°—t°İ$d±¿«¼$åiº{j}st","MS",1128
+"from the east","GA34B","273.2","Q","N"," "," ","fr¦½m$ä±¿«¼$åiº{j}st","MS",1128
+"from the south","GA34B","273.2","Q","N"," "," ","frm$ä°$åsáºoù","MS",1128
+"from the south","GA35N","N273A","Q","N"," "," ","fm${ä}±¿$åsa«¹ù","MS",1129
+"from the south","GA36N","N274A","Q","N"," "," ","fm$ä°$åsa«¾¹ù","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"from the north","GA37M!","NC274","Q","N"," "," ","fr°«m$ä±¿$ån¶”°ù","MS",1132
+"from the south","GA37M!","NC274","Q","N"," "," ","fr°«m$ä±¿$åsa«¹ù","MS",1132
+"from the east","GA37A","274.1","Q","N"," "," ","frm$ä°$åiºjs","MS",1133
+"in the west","GA37A","274.1","Q","N"," "," ","±¿¼n$ä°$åw²«{°}s","MS",1133
+"in the northeast","GA37A","274.1","Q","N"," "," ","±¿¼n$ä°$ån·º´ùõiºjs","MS",1133
+"from the south","GA37B","274.2","Q","N"," "," ","frm$ä°$åsµ«¼où","MS",1134
+"from the east","GA37B","274.2","Q","N"," "," ","frm$ä°$iºjst","MS",1134
+"NR","GA37C","274.21"," ","N"," "," "," ","MS",1135
+"from the south","GA37D!","274.7!","Q","N"," "," ","fr°«m$ä°$åsa«¹ù","MS",1136
+"from the north","GA37D!","274.7!","Q","N"," "," ","fr°«m$ä°$ån·¼°ù","MS",1136
+"NR","GA37E!","274.8!"," ","N"," "," "," ","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"from the east","GA37G!","274.4!","Q","N"," "," ","frm$ä±¿$åiºjst","MS",1139
+"from the south","GA37H!","274.5!","Q","N"," "," ","frm$ä±¿«¼$åsá¼où","MS",1140
+"from the east","GA37H!","274.5!","Q","N"," "," ","frm$ä±¿«¼$åiºjst","MS",1140
+"from the south","GA37I!","274.6!","Q","N"," "," ","frm$ä±¿$åsa«¹ù","MS",1141
+"winds from the south","GA37I!","274.6!","O","N"," "," ","w±ndz$frm$ä±¿$åsa«¹ù","MS",1141
+"from the south","GA38","275","Q","N"," "," ","fmİ$ä°İ$sá¹ù","MS",1142
+"from the south","GA39","275A","Q","N"," "," ","f{r}m$ä°$åsa«¹ù","MS",1143
+"NR","GA40","276A"," ","N"," "," "," ","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"from the north","GA42A","276.1","Q","N","fairing up"," ","frm$ä±¿$ån·½º´ù","MS",1146
+"from the east","GA42A","276.1","Q","N"," "," ","f{r}m$ä±¿«¼$åiº{j}s","MS",1146
+"from the southwest","GA42A","276.1","Q","N"," "," ","frm$ä±¿$åsá½oùõw²«s","MS",1146
+"fairs off from the northwest","GA42B","276.2","E","N"," "," ","åfá´z$õ·¼·«f$fm$ä°$ån·º´ùõw²«{°}s","MS",1147
+"south wind","GA42B","276.2","O","N"," "," ","åsáoù$õw±«¾{°}n","MS",1147
+"from the south","GA42B","276.2","Q","N"," "," ","fm$ä°$åsáoù","MS",1147
+"from the south","GA43","277","Q","N"," "," ","fr°m$ä°$sáº¶«ù","MS",1148
+"from the south","GA44A","278.1","Q","N"," "," ","fm$ä±¿$åsáoù","MS",1149
+"from the east","GA44A","278.1","Q","N"," "," ","fm$ä±¿$åiºjst","MS",1149
+"out of the southeast","GA44B","278.2","Q","N"," "," ","á½ot°$ä±¿$åsáoùõiºjs","MS",1150
+"from the west","GA44B","278.2","Q","N"," "," ","fm$ä°$åw²«{°}s","MS",1150
+"NR","GA44C","278.3"," ","N"," "," "," ","MS",1151
+"on the south side","GA44D","278.4","Q","N"," ","CNV","·½·n$ä±¿$åsá½où$õsa«¾º{°}d","MS",1152
+"NR","GA44E","278.5"," ","N"," "," "," ","MS",1153
+"from the northwest","FL1","252","Q","N"," ","SIC","frm$d°$åno½º°ùõw²«{°}s","MS",1154
+"from the east","FL1","252","Q","N"," "," ","fm$ä°$åiºst","MS",1154
+"from the southwest","FL2A","253.1","Q","N"," "," ","fr¸«m$ä°$åsá½oùõw²½{°}st","MS",1155
+"from the south","FL2A","253.1","Q","N"," "," ","fr¸«m$ä°$åsá½où","MS",1155
+"from the southeast","FL2A","253.1","Q","N"," "," ","fm$ä°$åsá½o«¼ùõiºs","MS",1155
+"NR","FL2B","253.2"," ","N"," "," "," ","MS",1156
+"from the southwest","FL2C!","253.3!","Q","N"," "," ","frm$ä°$ås¥½oùõw²«{°}s","MS",1157
+"out of the north","FL2C!","253.3!","Q","N"," "," ","å¥½ot°$ä°$ån·º°ù","MS",1157
+"south","FL2C!","253.3!","N","N"," "," ","s¥où","MS",1157
+"from the south","FL3A","254.1","Q","N"," "," ","frm$ä°$ås¸½¼¹ù","MS",1158
+"from the south","FL3B!","254.2!","Q","N"," ","CNV","fr°½m$ä±¿$ås°¼¹ù","MS",1159
+"from the north","FL4","254A","Q","N"," "," ","frm$ä°$ån·´ù","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"from the south","FL5B","255.2","Q","N"," "," ","f{r}m$ä°$åsá½¾où","MS",1162
+"","","","","","","","","",

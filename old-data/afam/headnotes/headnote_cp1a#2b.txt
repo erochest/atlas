@@ -1,0 +1,9 @@
+hundred (cp1a#2b.asc)
+
+Items
+=====
+                       even hundred    1
+                            hundred   43
+                                 NR   18
+                        one hundred    2
+

@@ -1,0 +1,107 @@
+three years old (cg5#1.asc)
+
+Items
+=====
+                         a year old    1
+                      a year or two    1
+                        eight years    1
+                    eight years old    1
+                   eighty years old    2
+                   eleven years old    1
+                  fifteen years old    1
+                         five years    3
+                     five years old    1
+                         forty year    1
+                        forty years    1
+                   forty-nine years    1
+              four and a half years    1
+                      four year old    1
+                         four years    1
+                     four years old    2
+                 fourteen years old    1
+          he ain't done three years    1
+ he ain't more than three years old    1
+              he done two years old    1
+                he is six years old    1
+                  he three year old    1
+                 he three years old    2
+                    he's done seven    1
+                he's five years old    1
+                he's three year old    2
+               he's three years old    5
+               him twelve years old    1
+                     last two years    1
+                     nine years old    1
+                                 NR    9
+                              seven    1
+                         seven year    1
+                    seven years old    1
+                seventeen years old    1
+      she didn't but four years old    1
+       she didn't but six month old    1
+                          six years    2
+                      six years old    1
+                    sixty years old    1
+                       ten year old    1
+                 thirteen years old    1
+                       thirty years    1
+                   thirty-two years    1
+                     three year old    4
+                 three years of age    2
+                    three years old   16
+                       twenty years    1
+                   twenty-five year    1
+                  twenty-seven year    1
+                 twenty-three years    1
+                  two or three year    1
+                      two years old    4
+
+
+He is)
+
+L:  The child was born in 19___;  how old is he today?
+M:  How old is your dog or baby?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The target phrase is "three year(s) old."  The phrase "three year(s)," without "old," is presumably complete, as spoken in the sentence "He is three years." The main stress in the sentence "He is three years old" is on the last word; "years" is often very weakly stressed.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:
+
+Two main problems occur with this file.  First, the distinction between variant phrases for describing age, as noted by Kurath above, is lost in McDavid's fieldwork.  The semantic connection between items breaks down, since "three years" no longer necessarily has to do with age.  The context "He is...", which may be assumed in Lowman's records, doesn't hold for McDavid.
+
+The second problem is that some instances of "year" were recorded by McDavid without a numerical context.  While we might suppose that all the instances of "year" that McDavid recorded with this question are plural, it is conceivable that he may have noted these simply as variant pronunciations, thus invalidating the grammatical basis for analysis.  To solve this potential problem, which rarely occurred, we included such cases with question 5#2, "a year ago".  Some instances of "a year old," etc., had been moved to that list manuscript, but we moved them back, since they clearly were recorded in the worksheet context of age.  Likewise, responses such as "three years ago" were put back into question 5#2, since they were given in answer to that question.  We did keep stray pronunciations of inflected "years" with question 5#1, regardless of where they were found on the page.  These problems are often compounded by the existence of responses on the top, bottom, and side margins of the page, but I think the solution we finally arrived at is satisfactory.
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 5#1, "thirty years" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 5 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+5#P		5#5
+5#P
+5#P
+5#P
+5#1		5#1
+		5#2 (no question)
+5#2		5#3
+5#3		5#4
+		5#6 (no question)
+5#4		5#7
+5#5		5#8
+5#6 X		
+	 

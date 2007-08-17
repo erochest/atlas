@@ -1,0 +1,118 @@
+right ear (cp71#4.asc)
+
+Items
+=====
+                    behind his ears    1
+                                ear    9
+                         ear itself    1
+                               ears    4
+                            his ear    1
+                           left ear    2
+                            my ears    2
+                                 NR    8
+                          right ear   34
+                         right ears   10
+                          right one    1
+                            the ear    1
+                     the right ears    5
+                    your right ears    1
+
+Pronunciations
+==============
+                     d±$ra±t$j²{°}z    1
+                        d±$rµ±t$j²z    2
+                         d±$rµ±t$²z    1
+                    d±$r¶¼±t$j²{°}z    1
+                              e«º°z    1
+                           h±z$å±º°    1
+                                i«°    1
+                    jo$ra«±t$j²{°}z    1
+                               j±«°    1
+                               j±º°    2
+                            l²f$i«°    1
+                        m±$åj²«º°éz    1
+                        ra«±t$j²{°}    1
+                    ra«¾±¿t$j[±¿]°¾    1
+                      ra«¾±¿t$j±¿°¼    1
+                       ra±[t]$j²{°}    1
+                       ra±t$j±«{°}z    1
+                         ra±t$j²{°}    1
+                         ra±t$²{°}z    1
+                         ra²t$j±¿½°    1
+                       ra¼º±¿½t$±°’    1
+                      ra¼º±¿½t$²º°‘    1
+                         ra½±t$±i°Ž    1
+                        ra¾«±¿t$i«°    1
+                      r•¥±¿t$ji¾-°¾    1
+                         r¥«±¿t$å±°    1
+                        r¥±¿t$jeé½°    1
+                        r¥±¿t$j±«°¾    1
+                       r¥±¿t$j±¿«°½    1
+                         r¥±¿t$j±¿°    1
+                      r¥±¿t$j±¿¾°¾½    1
+                       r¥±¿t$j³[°Ž]    1
+                       r¥±¿½t$ji¾°«    1
+                        r¥±¿½t$j´¼«    1
+                     r¥½±¿t$j[²«]°¾    1
+                          r¥¾±t$²º°    1
+                        rµ±t$j²[±]z    1
+                           rµ±t$j²z    4
+                         rµ±t$²{°}z    1
+                        rµ¾±t$j²{°}    1
+                        r¶±t$j²{°}z    2
+                        r¶¼±t$j²{°}    1
+                                ±º°    1
+                               ±½º°    2
+                                ²«°    1
+                              ²«º°s    1
+                             ²«º°éz    1
+                              åe½°z    1
+                               åiº°    1
+                           åj³«¼º°z    1
+                          ål²«f$²º°    1
+                      åra«¾º±¿t$±º°    1
+                        åra±¿t$õ±º°    1
+                     åra¾«±¿t$õ²é«°    1
+                        åra¾«ºt$õ±°    1
+                       åra¾½±t$õiº°    1
+                       åro¼±¿t$i¾º°    1
+                       år¥¼±¿t$e°½¾    1
+                      år¸½±¿t$±½º°½    1
+                             å±¾º°z    1
+                    å²ºr$±¿¼tõs²«lf    1
+                            å²º°[r]    1
+                     õra«¾±¿t$åj²«°    1
+                      õra¾«±¿t$åj±°    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

@@ -1,0 +1,84 @@
+cornbread (cl44#6.asc)
+
+Items
+=====
+                           ash cake    4
+                          ash cakes    1
+                              ashes    1
+                       batter bread    2
+                              bread    1
+                buttered corn bread    1
+                 cake of corn bread    1
+                     collard leaves    1
+                               corn    1
+                         corn bread    1
+                         corn bread   58
+                    corn bread cake    1
+                          corn cake    2
+                        corn dodger    3
+                    corn meal bread    1
+                       corn muffins    1
+                          corn pone    8
+                    hand made bread    1
+                           hoe cake    2
+                hoe cake corn bread    1
+                          hoe cakes    1
+                        johnny cake    1
+                    milk corn bread    1
+                             muffin    1
+                       muffin bread    1
+                                 NR    2
+                               pone    3
+                         pone bread    8
+                    pone corn bread    1
+                      pone of bread    1
+                 pone of corn bread    4
+                     pones of bread    1
+                        potato poon    1
+                       small pounds    1
+             you make them in ashes    1
+
+Pronunciations
+==============
+                                  "    1
+
+
+
+
+M: Now you mentioned corn bread.  What do you mean by corn bread?  Do you 	have more than one kind?  Suppose you have the kind that doesn't have anything in it except corn meal, salt, and water?  What do you call that?  Do you remember any kind of corn break that people talked about making before the fire on a board or something like that ony larger?  Are there any kinds that they cook in ashes? What kind is about an inch thick, very large and round, you might cook in a 	skillet?  Then there is a kind that is small, and sort of like a sphere and maybe it has a little bit of onion or green pepper mixed up in it and you cook them in deep fat and eat them with fish or other fried sea food?  There is something else that you sometimes have that you boil in cheesecloth with either beans or greens or something with chicken, made out of corn meal.  What would you call that?  And then there's the kind of corn meal that you cook in a deep pan and it comes out soft and you dish it out like you would dish out mashed potatoes onto your plate beside your meat.
+
+L: What is baked in a large cake made of corn meal?
+
+Notes on target items and data collection procedures:
+
+	V. McDavid:
+
+In SC and GA, "pone" can designate shape, and not the grain used, so there can be pones of flour.  The same is true of "hoecake."
+			
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 44#6, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 44 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  				
+
+Handbook	Preliminary Worksheets
+----------------------------------
+44#P
+44#P
+44#1		44#1
+44#2		44#2
+44#3		44#3
+44#4		44#4
+44#5		44#5
+44#6		44#6
+44#7		44#7, 44#8

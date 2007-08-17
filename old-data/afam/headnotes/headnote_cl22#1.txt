@@ -1,0 +1,85 @@
+sawhorse (cl22#1.asc)
+
+Items
+=====
+                              bench    5
+                            benches    2
+                         block chop    1
+                              break    1
+                              bucks    1
+                           cogwheel    1
+                            crowbar    2
+                         dead horse    1
+                        draw horses    1
+                               hack    1
+                              horse    8
+                             horses    6
+I heard about saw-horse, but I don't use that    1
+                              jacks    1
+                                 NR    3
+                             powder    1
+                               rack    3
+                           saw buck    2
+                           saw hack    2
+                          saw horse    2
+                         saw horses    1
+                           saw jack    1
+                           sawbench   12
+                           sawbreak    2
+                           sawhorse   18
+                       sawing horse    1
+                            sawjack    1
+                            sawrack    1
+                           scaffold    2
+sink into ground tar something round    1
+                              truck    1
+                            trustle    1
+                       trustlebench    1
+                         wood bench    2
+                         wood break    1
+                           wood dog    1
+                         wood horse    3
+                          wood rack    2
+                         wood-horse    1
+                          woodbench    2
+                          woodhorse    7
+                           woodrack    1
+                         work bench    1
+                          workbench    1
+
+Pronunciations
+==============
+                                  "    2
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

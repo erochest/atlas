@@ -1,0 +1,81 @@
+frying pan (cl17#5.asc)
+
+Items
+=====
+                          bake oven    2
+                              baker    1
+                      barbecue pans    1
+                         bigger one    1
+                       boiling soup    1
+                          bread pan    1
+                       broiling pan    1
+                              fryer    2
+                         frying pan   55
+                 frying pan is iron    1
+                            griddle    1
+                       griddle hood    1
+                            griller    1
+                               iron    2
+                           iron pan    1
+                             kettle    3
+                           lead ***    1
+                     little skillet    1
+        more shallower than an oven    1
+                                 NR    1
+                               oven    9
+                          sauce pan    2
+              set pot on four foots    1
+                            shallow    1
+                            skillet   48
+skillet got no feet but a flat bottom    1
+                     skillet is tin    1
+                           skillets    1
+                            skittle    1
+                        slop bucket    1
+                           slop tub    1
+                             spider   45
+               spider got four feet    1
+                        spider oven    1
+                            spiders    2
+                              tamil    1
+                                tin    1
+                             trivet    1
+
+
+
+
+P: Did you have one with legs in the old fireplace?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+Two kinds of frying pans are in use:  (1)a heavy cast-iron (or aluminum) pan with a short handle, called a "spider" or a "frying pan" or (2)a light sheet-metal pan with a long handle, generally called a "frying pan," but by some also a "spider" or a "skillet."  "Skillet" also denotes an old-fashioned pan or basin of cast iron (or brass), provided with three or four short legs and a handle and a bail or ears (for the pot hooks)for cooking in the fireplace.  In the coastal area, the three-legged, round-bottomed deep pan or basin, used for boiling or stewing, was called a "skillet."  The old-fashioned three-legged, flat-bottomed pan, used for frying or baking, was called a "spider" in the coastal area, a "skillet" in the upland.  "Oven" denotes a deep cast iron pan with a cover, used for baking in the embers of the fireplace (or on the stove). 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 17#5, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 17 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+17#P		17#4
+17#1		17#1
+17#2		17#2
+17#3		17#3
+17#4		17#5
+17#5		17#6
+17#6		17#7
+17#7		17#8
+17#8

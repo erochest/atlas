@@ -1,0 +1,24 @@
+Sunday before last (cl3#6.asc)
+
+Items
+=====
+                  a week ago Sunday    1
+       a week from this past Sunday    1
+                        last Sunday    1
+             last Sunday a week ago    1
+                   last Sunday week    2
+                last week Wednesday    1
+                                 NR   34
+                Saturday a week ago    2
+                      Saturday week    2
+            Saturdays two weeks ago    1
+                  Sunday a week ago    2
+                  Sunday afore last    1
+                      Sunday before    1
+                 Sunday before last   10
+                   Sunday fore last    4
+                        Sunday gone    1
+                  Sunday was a week    1
+              Sunday was a week ago    1
+                        Sunday week    6
+

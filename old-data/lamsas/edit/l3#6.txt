@@ -1,0 +1,1301 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"Sunday before last","NY3A","401","O","N"," "," ","s¸¼nd±¿«¼$b°åf·´$ìáº{°}st","MS",5
+"Sunday before last","NY3B","403","O","N"," "," ","s¸¼nd±¿¼$b°f·º°$ìáº{°}st","MS",6
+"Sunday before last","NY3C","402","O","N"," "," ","s¸¼nd±¿«¼$b°f·´$ìáº{°}st","MS",7
+"Sunday before last","NY3D","404","O","N"," "," ","s¸¼nd±¿«¼$b±¿«¼åf·:°$ìáº{°}st","MS",8
+"Sunday before last","NY4A","405","O","N"," "," ","s¸¼nd±¿«¼$b±¿«åf·°$ìáºst","MS",9
+"Sunday before last","NY4B","407","O","N"," "," ","s¸¼nd±¿«¼$b°f·º°$láº{°}st","MS",10
+"Sunday before last","NY4C","408","O","N"," "," ","s¸¼nd±¿«¼$b°f·:°$láº{°}st","MS",11
+"Sunday before last","NY5A","409","O","N"," "," ","s¸nd±¿«$b°f·«º°$láº{°}st","MS",12
+"Sunday before last","NY5B","410","O","N"," "," ","s¸¼nd±¿«¼$b°f·:°$ìáº{°}st","MS",13
+"Sunday a week ago","NY5C","411","O","N"," "," ","s¸«¼nd±¿«$°$wiº`k$°go½¼¹«","MS",14
+"Sunday before last","NY5D","412","O","N"," "," ","s¸nd±¿«¼$b±¿«¼åf·:°$õìáº{°}st","MS",15
+"Sunday before last","NY5E","413","O","N"," "," ","s¸nd±¿«¼$b±¿«¼f·º°$láº{°}st","MS",16
+"Sunday a week ago","NY5F","414","O","N"," "," ","s¸nd±¿«¼$°$wi½ºk$°go½¼¹","MS",17
+"Sunday before last","NY5G","415","O","N"," "," ","s¸nd±¿«¼$b±¿«¼f·:°$lá{°}st","MS",18
+"Sunday before last","NY5H!","416!","O","N"," "," ","õs¸nd±¿«¼$b°åf·º°$õláº{°}st","MS",19
+"Sunday before last","NY5I!","417!","O","N"," "," ","s¸nd±¿«¼$b°f·«°$ìáº{°}st","MS",20
+"Sunday before last","NY6A","418","O","N"," "," ","s¸¼nd±¿«$b±¿«¼f·º°$ìást","MS",21
+"Sunday before last","NY6B","419","O","N"," "," ","õs¸¼nd±¿«$b°åf·º°$õìáº{°}st","MS",22
+"Sunday before last","NY7A","420","O","N"," "," ","s¸¼nd±¿«¼$b°åf·:°$õlá«º{°}st","MS",23
+"Sunday a week ago","NY7B","421","O","N"," "," ","õs¸nd±¿«¼$°õwiºk$°ågo½¼¹","MS",24
+"Sunday before last","NY7C","422","O","N"," "," ","s¸¼nd±¿«$b±¿«f·«º°$lá«º{°}st","MS",25
+"Sunday a week","NY7D","423","O","N"," "," ","s¸¼nd±¿«¼$°$wiºk","MS",26
+"Sunday a week ago","NY7D","423","O","N","usually"," ","s¸¼nd±¿«¼$°$wiºk$°go½¼¹","MS",26
+"Sunday before last","NY7E","424","O","N"," "," ","s¸¼nd±¿«¼$b°åf·:°$õìáº{°}st","MS",27
+"Sunday before last","NY7F","425","O","N"," "," ","s¸nd±¿«¼$b±¿«¼åf·º°$õláº{°}st","MS",28
+"Sunday a week ago","NY7G","426","O","N"," "," ","s¸nd±¿«¼$°$wiºk$°go¼¹","MS",29
+"Sunday before last","NY7H","427","O","N"," "," ","s¸nd±¿«¼$b±¿«¼åf·:°$ìá{°}st","MS",30
+"Sunday before last","NY7I","428","O","N"," "," ","s¸¼nd±¿«¼$b±¿«¼f·:°$láº{°}st","MS",31
+"Sunday before last","NY7J!","429!","O","N"," "," ","s¸¼nd±¿«¼$b°f·º°$lµºst","MS",32
+"Sunday a week ago","NY7K!","430!","O","N"," "," ","õs¸nd±¿«¼$°åwiºk$°õgo½¼¹","MS",33
+"Sunday before last","NY7L!","431!","O","N"," "," ","s¸¼nd±¿«¼$b°åf·º°$lµ«ºst","MS",34
+"Sunday before last","NY7M!","432!","O","N"," "," ","s¸¼nd±¿«¼$b°f·:°$lá½¾st","MS",35
+"Sunday week","NY8","432b","O","N"," "," ","õs¸¼nd±¿«¼$åwiºk","MS",36
+"Sunday before last","NY9A","432c","O","N"," "," ","s¸nd±¿«$b°f·´$lást","MS",37
+"Sunday before last","NY9B","433","O","N"," "," ","s¸¼nd±¿$b±¿«åfo´$õláº{°}st","MS",38
+"Sunday before last","NY9C","434","O","N"," "," ","s¸¼nd±¿«¼$b±¿åf·«º°$lá½¾ºst","MS",39
+"Sunday before last","NY10A","435","O","N"," "," ","s¸nd±¿«$b°f·´$láº{°}st","MS",40
+"Sunday before last","NY10B!","436!","O","N"," "," ","s¸nd±¿«$b°õf·´$åláº{°}st","MS",41
+"Sunday before last","NY11","438","O","N"," "," ","s¸nd±¿«¼$b°åf·´$lá½¾st","MS",42
+"Sunday before last","NY12A","439(*)","O","N"," "," ","s¸nd±¿«$b°fo´$láº{°}st","MS",43
+"a week ago Sunday","NY12B","440","O","N"," "," ","°$wiºk$°go½¹$s¸¼nd±¿«","MS",44
+"Sunday before last","NY12C!","441!","O","N"," "," ","õs¸¼nd±¿«$b°åf·«º°$õìáº{°}st","MS",45
+"Sunday before last","NY13A","443","O","N"," "," ","õs¸nd±¿«$b°åf·{°}r$õláº{°}st","MS",46
+"Sunday before last","NY13B!","444!","O","N"," "," ","s¸nd±¿«$b±¿«f·º°$láº{°}st","MS",47
+"a week ago last Sunday","NY14A","445","O","N"," "," ","°$wiºk$°$go¹$láº{°}st$s¸nd±¿«","MS",48
+"Sunday before last","NY14B","446","O","N"," "," ","s¸nd±¿«$b°fo½´$láº{°}st","MS",49
+"Sunday before last","NY15A","447","O","N"," "," ","s¸nd±¿«$b°fo½´$láº{°}st","MS",50
+"Sunday before last","NY15B","448","O","N"," "," ","s¸nd±¿«$b±¿fo½´$láº{°}st","MS",51
+"Sunday before last","NY16A","449","O","N"," "," ","s¸nd±¿«$b°f·º°$láº{°}st","MS",52
+"Sunday before last","NY16B","450","O","N"," "," ","s¸nd±¿«$b°f·º°$láºst","MS",53
+"Sunday before last","NY17A","451(*)","O","N"," "," ","s¸nd±¿«$b°åfo´$õláº{°}st","MS",54
+"Sunday before last","NY17B","452","O","N"," "," ","s¸nd±¿«¼$b±¿«¼åf·´$láº{°}st","MS",55
+"Sunday before last","NY18A","453","O","N"," "," ","s¸nd±¿«$b°åfo½´$õláº{°}st","MS",56
+"Sunday before last","NY18B","454","O","N"," "," ","s¸nd±¿«$b±¿«f·´$láº{°}st","MS",57
+"Sunday before last","NY18C!","455!","O","N"," "," ","s¸¼nd±¿«$b°åf·º°$õlá«º{°}st","MS",58
+"Sunday before last","NY19","456","O","N"," "," ","s¸nd±¿«$b±¿«f·´$lá«º{°}st","MS",59
+"Sunday before last","NY20A","457","O","N"," "," ","s¸nd±¿«$b±¿fo½´$láº{°}st","MS",60
+"Sunday before last","NY20B","458","O","N"," "," ","õs¸¼nd±¿«$b±¿«åfo½´$õìá«º{°}st","MS",61
+"Sunday before last","NY21","459","O","N"," "," ","s¸nd±¿«$b°fo½´$láºst","MS",62
+"Sunday before last","NY22","460","O","N"," "," ","s¸nd±¿«$b°fo½´$ìáº{°}st","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"a week ago Sunday","NY23B","462a","O","N"," "," ","°$åwiºk°õgo½¼$ås¸½nd±«¾","MS",65
+"Sunday before last","NY23B","462a","O","N"," "," ","ås¸½nd±«¾$b±¾õfo¿½´$ålá«s","MS",65
+"Sunday before last","NY23C","462b","O","N"," "," ","õs¸«nd±«¾$b°õfo´$ålást","MS",66
+"Sunday before last","NY24A","463","O","N"," "," ","s¸nd±¿«$b°fo½º´$ìá¾º{°}st","MS",67
+"Sunday before last","NY24B!","464!","O","N"," "," ","s¸nd±¿«$b°åfo½´$õláº{°}st","MS",68
+"a week ago Sunday","NY25A","465","O","N"," "," ","°$åwi½ºik'$°İgo¼{¹¼}$ås¸½nd±«¾","MS",69
+"a week ago last Sunday","NY25B","466","O","N"," "," ","°$åwi½i'k$go¼¹¼$õlás$ås¸½nd±«¾","MS",70
+"a week ago Saturday","NY26A","467","O","N"," "," ","°$õwiºk$°go¼¹¼$åsáñ´d±«¾","MS",71
+"a week ago Sunday","NY26B","468","O","N"," "," ","°$åwiºk$°õgo¼¹¼$ås¸¼nd±«¾","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"a week ago Sunday","NY27A","470","O","N"," "," ","°$åwiºk'go¼¹¼$ås¸¼nd±«¾","MS",74
+"Sunday before last","NY27A","470","O","N"," "," ","õs¸½nd±«¾$b±¿õfo¼º´$ålá«st","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"a week ago Sunday","NY27C","472","O","N"," "," ","°$åwiº{j}k°$õgo¼º¹¼$ås¦½nd±«¾","MS",76
+"a week ago Sunday","NY28A","473a","O","N"," "," ","°$åwiºk$°õgo¼¹¼$ås¸½nd±«¾","MS",77
+"Saturday before","NY28B","473b(*)","O","N"," "," ","åsáñ´d±«¾$b±¿õfo¼º{¹}","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"a week before Sunday","NY29A","474a","O","N"," "," ","°$åwiºk$b°«õfo´$ås¸ş{n}d±«¾","MS",80
+"a week ago Sunday","NY29B","474b","O","N"," "," ","°$åwiºk$°õgo¼¹¼$ås¸½nd±«¾","MS",81
+"a week ago Sunday","NY29C","474c","O","N"," "," ","°$åwiºk$õgo¼¹¼$ås¦½nd±«¾","MS",82
+"a week ago Sunday","NY30A","475a","O","N"," "," ","°$åwiºk$°İõgo¼{¹¼}$ås¸½nd±«¾","MS",83
+"a week ago Sunday","NY30B","475b","O","N"," "," ","°$åwiºkõgo¼{¹¼}$ås¸½nd±«¾","MS",84
+"NA","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"a week ago Sunday","NY30E","475e","O","N"," "," ","°$åwiºk$°õgo¼¹¼$ås¥¾nd±«¾","MS",87
+"Sunday before","NY30E","475e","O","N"," "," ","ås¸½nd±«¾$b±¿õfo´","MS",87
+"a week ago Sunday","NY31A","478a","O","N"," "," ","°$åwi½ik$õgo½¼¹¼$ås¸«nd±«¾","MS",88
+"a week ago Sunday","NY31A","478a","O","N"," "," ","°$åwi½ºik$°İõgo¿İº¹¼$ås¸«nd±«¾","MS",88
+"a week ago last Sunday","NY31B","478b","O","N"," "," ","°$õwi½ik$°İgo¿¹½$õlás$ås¸«nd±«¾","MS",89
+"a week ago Sunday","NY32A","479a","O","N"," "," ","°$õwi½ik$°ågo¼º¹¼$ås¸½nd±«¾","MS",90
+"a week ago Sunday","NY32B","479b","O","N"," "," ","°$åwi½ik$°õgo¿¹¼$ås¸¼nd±«¾","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"a week ago Sunday","NY33B","481","O","N"," "," ","°$åwiºk$°õgo¼¹$ås¸½nd±«¾","MS",93
+"a week ago Sunday","NY33C","482","O","N"," "," ","°$õwiºk$°õgo¼¹$ås¸¼nd±«¾","MS",94
+"a week ago Sunday","NY34A","483","O","N"," "," ","°$åwi½¾i'k$õgo¿¾¹$ås¸«nd±«¾","MS",95
+"NA","NY34B","484"," ","N"," "," "," ","MS",96
+"NA","NY34C","485"," ","N"," "," "," ","MS",97
+"Sunday before","NY34D!","486!","O","N"," "," ","õs¸«nd±¿$b±¿åfo¼°","MS",98
+"Sunday before last","NY35A","487","O","N"," "," ","s¸nd±¿«$b±¿åfo½´$láº{°}st","MS",99
+"Sunday before last","NY35B","488","O","N"," "," ","s¸nd±¿«$b±¿«fo½´$láº{°}st","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"Sunday before last","NY36A","491","O","N"," "," ","s¸nd±¿«$b±¿fo½´$ìáº{°}st","MS",102
+"Sunday before last","NY36B","492","O","N"," "," ","s¸nd±¿«$b°fo½´$åìáº{°}st","MS",103
+"Sunday before last","NY37A","493","O","N"," "," ","s¸nd±¿«$b°fo½´$láºst","MS",104
+"Sunday before last","NY37B","494","O","N"," "," ","s¸nd±¿«$b±¿fo´$lá«º{°}st","MS",105
+"Sunday before last","NY37C!","495!","O","N"," "," ","s¸nd±¿«$b°åf·½´$ìáº{°}st","MS",106
+"Sunday before last","NY38A","497(*)","O","N"," "," ","s¸nd±¿«$b±¿«fo½´$ìáº{°}st","MS",107
+"Sunday before last","NY38B","498","O","N"," "," ","s¸nd±¿«$b±¿«fo´$ìáº{°}st","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"Sunday before last","NY39A","499","O","N"," "," ","s¸nd±¿«$b°fo½´$ìáºst","MS",110
+"Sunday before last","NY39B","500","O","N"," "," ","s¸nd±¿«$b±¿fo½´$láº{°}st","MS",111
+"Sunday before last","NY40A","501","O","N"," "," ","s¸nd±¿«$b°fo½´$láº{°}st","MS",112
+"Sunday before last","NY40B","502","O","N"," "," ","s¸nd±¿«$b°fo½´$láº{°}st","MS",113
+"Sunday before last","NY41","504","O","N"," "," ","s¸nd±¿«$b±¿«åfo½´$ìáº{°}st","MS",114
+"Sunday before last","NY42A","505","O","N"," "," ","s¸nd±¿«$b±¿fo´$láº{°}st","MS",115
+"Sunday before last","NY42B","506","O","N"," "," ","s¸nd±¿«$b±¿«åfo½´$lá{°}st","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"Sunday before last","NY43B","507b","O","N"," "," ","s¸nd±¿«¼$b±¿åfo´$õìáº{°}st","MS",118
+"Sunday before last","NY43C!","508!","O","N"," "," ","s¸nd±¿«$b±¿«åfo´$õláº{°}st","MS",119
+"Sunday before last","NY44A","511","O","N"," "," ","õs¸nd±¿«$b±¿åfo´$láº{°}st","MS",120
+"Sunday before last","NY44B","512","O","N"," "," ","s¸nd±¿«$b±¿«fo´$láº{°}st","MS",121
+"a week ago Sunday","NY45A","513a","O","N"," "," ","°$åwi½ik$õgo½¼¹$ås¸½nd±«¾","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"a week ago Sunday","NY45D!","513d!","O","N"," "," ","°$åwi½ik$õgo½¼¹¼$ås¸¼nd±«¾","MS",125
+"two Sundays ago","NY46A","515a","O","N"," "," ","åt`u¿º$õs¸«nd±¿¼z$°ågo¿¾¹¼","MS",126
+"Sunday before last","NY46A","515a","O","N"," "," ","s¸«nd±¿¼$b±¿åfo¼´$õlást","MS",126
+"NR","NY46B","515b"," ","N"," "," "," ","MS",127
+"NR","NY46C","515c"," ","N"," "," "," ","MS",128
+"Sunday before last","NY47A","517(*)","O","N"," "," ","ås¸¼nd±«¼$b±¿õfo´$åláº{°}s","MS",129
+"Sunday before last","NY47B","518","O","N"," "," ","s¸nd±¿«$b±¿fo´$láº{°}st","MS",130
+"Sunday before last","NY48A","519a","O","N"," "," ","s¸nd±¿¼$b±¿åfo½´$õlá«s","MS",131
+"two weeks ago Sunday","NY48A","519a","O","N"," ","CNV","t¹$åwi½iks$°õgo½¼¹¼$ås¸«nd±¿«","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"a week ago Sunday","NY48C","519c","O","N"," "," ","°$åw±¿ik$°õgo½¼¹$s¸½¼nd±¿¼","MS",133
+"a week ago Sunday","NY48D","519d","O","N"," "," ","°$õw±ºik$°õgo«¼¹¼$ås¸«¼nd±«¾","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"Sunday before last","NY49C","522a","O","N"," "," ","s¸¼nd±¿$b±¿õfo½´$ålá«{²}st","MS",137
+"a week ago","NY49D","522b","O","N"," "," ","e±¿$åwi{i«}k°õgo{¹}","MS",138
+"a week last Sunday","NY50A","523","O","N"," "," ","°$åw±¿ik$õlás$ås¸«nd±¿¼","MS",139
+"a week ago Sunday","NY50B","524","O","N"," "," ","°$åw±«¾ik$°İõgo¿¾¹¼$ås¸¼nd±¿¼","MS",140
+"a week ago Sunday","NY50B","524","O","N"," "," ","°$åwi½¾ik°õgo½¼¹¼$ås¸¼nd±¿¼","MS",140
+"a week ago Sunday","NY51A","525a","O","N"," "," ","°$åwi½ik$°õgo¿¼º¹¼$ås¸½¼nd±«¾","MS",141
+"a week ago today","NY51B","525b","O","N"," "," ","°$åw±¿ik$°õgo¿¹¼$d°ådeº±¿","MS",142
+"NR","NY51C","525c"," ","N"," "," "," ","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"a week ago Sunday","NY52A","527","O","N"," "," ","°$åwi½i'kõgo½¼¹¼$ås¸½nd±«¾","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"a week ago Sunday","NY52C","528b","O","N"," "," ","°$åwi{i«}k$°õgo¼{¹}$s¸«¼nd±¿«","MS",148
+"a week ago today","NY53A","529","O","N"," "," ","°$åwi½ik$°õgo½¼¹¼$t°åde½º{±¿}","MS",149
+"a week ago Sunday","NY53B!","530!","O","N"," "," ","°$åwi½¾ik$°õgo¿¾¹¼$ås¸«¼nd±«¾","MS",150
+"a week ago","NY54A","531","O","N"," "," ","°$wiº{i«}k$°õgo{¹}","MS",151
+"last Sunday","NY54B","532","O","N"," "," ","õlá«s$ås¸¼nd±¿","MS",152
+"a week ago Sunday","NY55A","533","O","N"," "," ","°$õwiºk$°ågo¿{¹¿¾}$ås¸¼nd±«¾","MS",153
+"a week ago Sunday","NY55B","534","O","N"," "," ","°$åwiºk$°õgo¼¹¼$ås¸¼nd±«¾","MS",154
+"a week ago Sunday","NY56A","535","O","N"," "," ","°$õwiº{j}k$õgo¼¹¼$ås¸¼nd±«¾","MS",155
+"a week ago Sunday","NY56B","536","O","N"," "," ","°$õw±ºik$°go¼¹¼$ås¸½nd±«¾","MS",156
+"a week ago Sunday","NY57A","537a","O","N"," "," ","°$õwi½ik$°õgo¼¹¼$ås¸—nd±«¾","MS",157
+"NR","NY57B","537b"," ","N"," "," "," ","MS",158
+"a week ago Sunday","NY57C!","537c!","O","N"," "," ","°$åw±«¾ik$°õgo½¼¹¼$ås¸«¼nd±«¾","MS",159
+"Sunday before last","NY58A","539a","O","N"," "," ","s¸¼nd±«¾$b±¿åfo´$õlá«{°}st","MS",160
+"a week ago Sunday","NY58B","539b","O","N"," "," ","°$åw±¾ik$°İgo¼¹¼$ås¸½¼nd±«¾","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"a week ago yesterday","NY58D!","539d!","O","N"," "," ","°$åwiº{j}k$°õgo¼¹¼$åj²«st°õdeº{±¿}","MS",163
+"Sunday before last","NY58D!","539d!","O","N"," "," ","s¸¼nd±«¾$b±¿åf·«°$õlá«{°}st","MS",163
+"the Sunday before","NY58E!","539e!","O","N"," "," ","ä±¿$õs¸¼nd±«¾$b±¿åfo¼´","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"a week ago last Sunday","NY59A","543","O","N"," "," ","°$åwi½ik$õgo¼¹¼$õlás$ås¸¼nd±¾{i¾}","MS",166
+"Sunday before last","NY59B","544","O","N"," "," ","s¸nd±¿«$b±¿åfo½´$õlá{°}st","MS",167
+"a week ago Sunday","NY60A","545","O","N"," "," ","°$åwi½ik$°õgo½¼¹¼$ås¦½¼nd±«¾","MS",168
+"Sunday before last","NY60B!","546!","O","N"," "," ","õs¸¼nd±«¾$b±¿åfo´$õlás","MS",169
+"Sunday before","NY61A","547","O","N"," "," ","õs¸½nd±«¾$b±¿åfo´","MS",170
+"Sunday before last","NY61B","548","O","N"," "," ","ås¸¼nd±«¾$b±¾õfo½¼´$åláºst","MS",171
+"NR","NY62A","551a"," ","N"," "," "," ","MS",172
+"a week ago Sunday","NY62B","551b","O","N"," "," ","°$õwiºk$°õgoº¹$ås¸İ«¼nd±«¾","MS",173
+"a week ago Sunday","NY62C","551c","O","N"," "," ","°$åwiºk$°İõgo¼¹¼$ås¸¼nd±«¾","MS",174
+"a week ago Sunday","NY62D!","551d!","O","N"," "," ","°$õwiºk$°õgoº¹$ås¸¼nd±«¾","MS",175
+"a week ago last Sunday","NY63A","556a","O","N"," "," ","°$õwiº{j}k$°ågo¼{¹¼}$õlás$ås¸¼nd±«¾","MS",176
+"a week ago Sunday","NY63B","556b","O","N"," "," ","°$õwiº{j}k$°ågo¼¹¼$ås¸¼nd±«¾","MS",177
+"Sunday before last","NY63C","556c","O","N"," "," ","s¸nd±¿«$b±¿«åfo½´$õlá{°}st","MS",178
+"a week ago Sunday","NY63D!","556d!","O","N"," "," ","°$õwiºk$°ågo¼{¹¼}$ås¸¼nd±«¾","MS",179
+"a week ago Sunday","NY64A","557a","O","N"," "," ","°$õwiº{j}k$°goº¹$ås¸¼nd±«¾","MS",180
+"a week ago Sunday","NY64B","557b","O","N"," "," ","°$õwiºk$°ågoº¹$ås¸½nd±«¾","MS",181
+"a week ago Sunday","NY64C!","557c!","O","N"," "," ","°$åwiº{j}k$°õgo¼¹¼$ås¸¼nd±«¾","MS",182
+"Sunday week","NJ1A","1","O","N"," "," ","s¸nd±¿«$wiİº{i}k","MS",183
+"last Sunday week","NJ1B","2","O","N"," "," ","ìáº{°}s{t}$s¸nd±¿«$wi½ik","MS",184
+"last Sunday week","NJ2A","3(*)","O","N"," "," ","ìáº{°}st$s¸«nd±¿«$wi½{i}k","MS",185
+"Sunday a week ago","NJ2B","4","O","N"," "," ","s¸nd±¿$°$wi½ik$°go¿¾¹","MS",186
+"last Sunday week","NJ3A","5","O","N"," "," ","láº{°}s$õs¸nd±¿$åwi½ik","MS",187
+"Sunday before last","NJ3B","6","O","N"," "," ","õs¸nd±¿$b°õf·«´$åìáº{°}st","MS",188
+"last Sunday week","NJ4A","7","O","N"," "," ","lá{°}s{t}$õs¸nd±¿{±¿«}$åwi¼{i}k","MS",189
+"last Sunday week","NJ4B","8","O","N"," "," ","õláºs{t}$õs¸nd±¿İ{±¿«}$åwi½{i}k","MS",190
+"Sunday week","NJ5A","9","O","N"," "," ","s¸nd±¿«$w±ik","MS",191
+"Sunday a week","NJ5B","10","O","N"," "," ","s¸nd±¿«$°$w±ik","MS",192
+"Sunday a week","NJ6A","11","O","N"," "," ","s¸nd±¿«$°$åwi½ik","MS",193
+"last Sunday a week","NJ6B","12","O","N","more often"," ","ìáº{°}s{t}$s¸nd±¿«$°$åwi½{i}k","MS",194
+"Sunday before last","NJ6B","12","O","N"," "," ","s¸nd±¿{±¿«}$b°åfo½´$ìáº{°}s{t}","MS",194
+"Sunday week","NJ7A","17","O","N"," "," ","s¸—«nd±¿$wi½{i}k","MS",195
+"Sunday a week ago","NJ7B!","18!","O","N"," "," ","s¸nd±¿«¼$°$w±ik$°gÀ”½¹","MS",196
+"Sunday a week","NJ8A","19","O","N"," "," ","õs¸¼nd±¿«¼$åwiºk","MS",197
+"Sunday a week ago","NJ8B","20","O","N"," "," ","õs¸¼nd±¿«¼$°$åwiºk$°õgoº¹","MS",198
+"Sunday before last","NJ9A","21","O","N"," "," ","s¸nd±¿«$b±¿«¼f·´$ìáº{°}st","MS",199
+"Sunday week ago","NJ9B","22","O","N"," "," ","s¸nd±¿«¼$åwi{i}k$°õgo½¼¹","MS",200
+"Sunday before last","NJ10A","24b","O","N"," "," ","s¸¼nd±¿«¼$b°f·«º°$ìáº{°}st","MS",201
+"Sunday week","NJ10B","23","O","N"," "," ","s¸nd±¿«¼$wi½{i}k","MS",202
+"Sunday before last","NJ10C","24","O","N"," "," ","s¸nd±¿«¼$b±¿«¼åf·´$õìáº{°}st","MS",203
+"Sunday before last","NJ10D!","24c!","O","N"," "," ","s¸¼nd±¿«$b°f·´$ìáº{°}st","MS",204
+"Sunday a week","NJ11A","25","O","N"," "," ","s¸nd±¿«¼$°$w±«ik","MS",205
+"Sunday a week ago","NJ11B","26a","O","N"," "," ","s¸nd±¿«¼$°$wi½¾{i}k$°gÀ”¾º¹","MS",206
+"Sunday a week ago","NJ11C","26b","O","N"," "," ","s¸nd±¿«¼$°$wi{i}k°go¼¹","MS",207
+"Sunday before last","NJ12A","27","O","N"," "," ","s¸nd±¿{±¿«¼}$b°f·´$ìá½¾{°}st","MS",208
+"Sunday a week ago","NJ12B","28","O","N"," "," ","s¸nd±¿«¼$°$wi½{i}k$°ågÀ”¾¹","MS",209
+"Sunday before last","NJ13A","29","O","N"," "," ","s¸nd±¿«¼$b°åf·´$lá{°}st","MS",210
+"Sunday before last","NJ13B","30","O","N"," "," ","s¸nd±¿«¼$b°åf·´$lá{°}st","MS",211
+"Sunday before last","NJ14A","31","O","N"," "," ","s¸nd±¿«¼$b°åf·´$õlá{°}st","MS",212
+"Sunday before last","NJ14B","32","O","N"," "," ","s¸nd±¿«$b±¿«¼åf·´$õlá{°}st","MS",213
+"Sunday before last","NJ15A","33","O","N"," "," ","s¸nd±¿«¼$b°f·´$ìá{°}st","MS",214
+"Sunday before last","NJ15B","34","O","N"," "," ","s¸nd±¿«¼$b°f·´$lá{°}st","MS",215
+"Sunday before last","NJ16A","35","O","N"," "," ","õs¸nd±¿«¼$b°åf·´$õìá{°}st","MS",216
+"Sunday before last","NJ16B","36","O","N"," "," ","s¸nd±¿«¼$b±¿«¼åf·º´$láº{°}st","MS",217
+"Sunday before last","NJ17A","37","O","N"," "," ","s¸nd±¿«¼$b°f·´$lá{°}st","MS",218
+"Sunday before last","NJ17B","38","O","N"," "," ","s¸nd±¿«¼$b°f·´$ìáº{°}st","MS",219
+"Sunday before last","NJ18A","41","O","N"," "," ","s¸nd±¿$b°åf·:{°}$ìá{°}st","MS",220
+"Sunday before last","NJ18B","42","O","N"," "," ","s¸¼nd±¿«¼$b°åf·º°$õìá{°}st","MS",221
+"Sunday before last","NJ18C!","43!","O","N"," "," ","s¸¼nd±¿«¼$b°f·´$ìá½¾{°}st","MS",222
+"Sunday before last","NJ18D!","44!","O","N"," "," ","s¸¼nd±¿«¼$b°åf·´$õláº{°}st","MS",223
+"Sunday week ago","NJ19A","45","O","N"," "," ","s¸¼nd±¿$åwiº`k$°õgo½¼¹","MS",224
+"Sunday before last","NJ19B!","46!","O","N"," "," ","s¸nd±¿«$b°f·º°$lást","MS",225
+"Sunday before last","NJ20A","47","O","N"," "," ","s¸¼nd±¿«¼$b±¿«¼åf·{°}r$ìá{°}st","MS",226
+"Sunday before last","NJ20B","47b","O","N"," "," ","s¸¼nd±¿«¼$b°f·«º°$láº{°}st","MS",227
+"Sunday before last","NJ21A","48","O","N"," "," ","s¸¼nd±¿«¼$b°f·´$láº{°}st","MS",228
+"Sunday before last","NJ21B","49","O","N"," "," ","s¸¼nd±¿«¼$b±¿«¼åf·´$ìá{°}st","MS",229
+"Sunday a week","PA1A","51","O","N"," "," ","õs¸«nd±¿«$°$åwi½{i}k","MS",230
+"Sunday a week ago","PA1B","52","O","N"," "," ","s¸nd±¿$°$wi½ik$°gÀ¾¹","MS",231
+"Sunday a week","PA1C","53","O","N"," "," ","s¸nd±¿«$°$wi½ik","MS",232
+"Sunday a week","PA1D","54","O","N"," "," ","õs¸nd±¿«$°$åwi½ik","MS",233
+"Sunday a week ago","PA1E!","55!","O","N"," "," ","ås¸nd²±¿$°$õwi½ik$°ågo½¹","MS",234
+"Sunday before last","PA1F!","56!","O","N"," "," ","s¸nd±¿$b°f·«´$lá{°}st","MS",235
+"Sunday a week ago","PA1G!","57!","O","N"," "," ","s¸nd±¿$°$w±«ik$°gÀ”¾¹","MS",236
+"Sunday week","PA1H!","58!","O","N"," "," ","s¸nd±¿$wi½ik","MS",237
+"Sunday before last","PA2A","59","O","N"," "," ","s¸nd±¿«$b±¿«f·«´$láº{°}st","MS",238
+"Sunday a week ago","PA2B","60","O","N","natural"," ","s¸nd±¿«$°$åwi½ik$°gÀ¾¹","MS",239
+"Sunday before last","PA2B","60","O","N"," "," ","s¸nd±¿«$õb±¿«¼f·«´$ålást","MS",239
+"Sunday a week","PA3A","61","O","N"," "," ","s¸nd±¿$°$wi½ik","MS",240
+"Sunday a week","PA3B","62","O","N"," "," ","õs¸nd±¿«$°$åw±«ik","MS",241
+"Sunday week","PA3C","62b","O","N"," "," ","s¸nd±¿«$wi½{i}k","MS",242
+"Sunday before","PA3C","62b","O","N"," "," ","s¸nd±¿«$bi½¾åf·´","MS",242
+"Sunday week","PA4A","63","O","N"," "," ","s¸nd±¿«$w±«ik","MS",243
+"Sunday before last","PA4B!","64!","O","N"," "," ","s¸nd±¿$b±¿f·«´$láºst","MS",244
+"Sunday a week","PA5A","65(*)","O","N"," "," ","s¸nd±¿«$åwi½{i}k","MS",245
+"Sunday week","PA5B","65b","O","N"," "," ","õs¸nd±¿«$åw±«ik","MS",246
+"Sunday a week","PA5C","66","O","N"," "," ","s¸nd±¿$°$w±ik","MS",247
+"Sunday week","PA5D","67","O","N"," "," ","õs¸¼nd±¿$åw±ik","MS",248
+"Sunday week","PA5E!","68!","O","N"," "," ","s¸«¼nd±¿«¼$wi½{j}k","MS",249
+"Sunday before","PA6A","69","O","N"," "," ","õs¸nd±¿$b±¿«¼åf·{°}{Õ}","MS",250
+"Sunday a week ago","PA6B","71","O","N"," "," ","s¸nd±¿$°$öi'k$°goº","MS",251
+"Sunday before","PA6C","71b","O","N"," "," ","s¸nd±¿$b±¿f·{°}{rŸÕ}","MS",252
+"Sunday a week","PA6C","71b","O","N"," "," ","s¸nd±¿$°$öiºk","MS",252
+"Sunday before last","PA6D!","72!","O","N"," "," ","s¸nd±¿$b°åf·´$õlá{°}st","MS",253
+"Sunday a week ago","PA7A","73","O","N"," "," ","s¸«¼nd±¿«¼$°$wi½{i}k$°go¿¾¹","MS",254
+"Sunday before last","PA7B","74","O","N"," "," ","s¸«¼nd±¿½$b°f·«´$láº{°}st","MS",255
+"Sunday a week","PA7C","75","O","N"," "," ","õs¸«nd±¿«$°$åöiºk","MS",256
+"Sunday before last","PA7D!","76!","O","N"," "," ","s¸nd±¿«$b±¿«f·´$lá{°}st","MS",257
+"Sunday before last","PA8A","77","O","N"," "," ","s¸«¼nd±¿$b°f·«´$lá{°}st","MS",258
+"Sunday a week ago","PA8B","78","O","N"," "," ","s¸nd±¿«$°$wi{i}k°ågo¿½¾¹","MS",259
+"Sunday before last","PA8C","79","O","N"," "," ","s¸«¼{n}d±¿«$b±¿åf·«{°}r$õlá«ºst","MS",260
+"Sunday before last","PA8D!","80!","O","N"," "," ","s¸«nd±¿«$b°åf·«´$láº{°}st","MS",261
+"Sunday a week","PA9A","83","O","N"," "," ","s¸nd±¿$°$öiºk","MS",262
+"Sunday before","PA9B","83b","O","N"," "," ","s¸nd±¿$b°f·«´","MS",263
+"Sunday a week ago","PA9B","83b","O","N"," "," ","s¸nd±¿$°$wi½{i}k$°go{¹}","MS",263
+"Sunday a week ago","PA9C!","84!","O","N"," "," ","s¸nd±¿$°$wi½k$°g·¼¹","MS",264
+"Sunday a week ago","PA10","87","O","N"," "," ","s¸nd±¿$°$öiºk$°goº","MS",265
+"Sunday before last","PA11A","89","O","N"," "," ","s¸nd±¿$b°f·´$ìá{°}st","MS",266
+"Sunday a week ago","PA11B","90(*)","O","N"," "," ","s¸¼nd±¿«$°$åwiºk$õ°go¼{¹}","MS",267
+"Sunday a week ago","PA12A","91","O","N"," "," ","s¸nd±¿$°$õwi½{i}k$°ågo{¹}","MS",268
+"Sunday a week","PA12B","92","O","N"," "," ","s¸nd±¿$°$wi½{i}k","MS",269
+"Sunday a week ago","PA13A","93","O","N"," "," ","s¸nd±¿$wi{i}k$°go{¹}","MS",270
+"Sunday before last","PA13B","94","O","N"," "," ","s¸nd±¿$b°f·¼´$lá{°}st","MS",271
+"Sunday before last","PA14A","95(*)","O","N"," "," ","s¸¼nd±¿«$b±¿«åf·{°}r$ålást","MS",272
+"Sunday a week ago","PA14B","96","O","N"," "," ","s¸nd±¿$°$wik$°$go{¹}","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"Sunday before last","PA15A","99","O","N"," "," ","s¸nd±¿$b±¿f·´$láº{°}st","MS",275
+"Sunday before last","PA15B","99b","O","N"," "," ","s¸nd±¿$b±¿fo½´$lá{°}st","MS",276
+"Sunday before last","PA15C!","100!","O","N"," "," ","s¸nd±¿$b±¿fo´$lá{°}st","MS",277
+"Sunday a week","PA16A","101","O","N"," "," ","s¸¾nde$°$öiºk","MS",278
+"Sunday before last","PA16B","102","O","N"," "," ","s¸nd±¿«$b±¿«åf·«´$õlást","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"Sunday a week","PA17A","105","O","N"," "," ","õs¸nd±¿«$°$åöiºk","MS",281
+"Sunday before last","PA17B","106","O","N"," "," ","s¸nd±¿«$b°f·«{°}{rŸÕ}$láºst","MS",282
+"Sunday a week","PA18A","107","O","N"," "," ","s¸nd±¿«$°$wiºk","MS",283
+"Sunday before last","PA18B!","108!","O","N"," "," ","s¸nd±¿«$b°f·´$ìá{°}st","MS",284
+"Sunday a week ago","PA19A","113","O","N"," "," ","s¸nd±¿$°$wi½{i}k$°ågo½¼{¹}","MS",285
+"Sunday before last","PA19B","114","O","N"," "," ","s¸nd±¿$b°f·´$lá{°}st","MS",286
+"Sunday before last","PA20A","115","O","N"," "," ","s¸nd±¿$b°åf·«´$lá{°}st","MS",287
+"Sunday a week","PA20B","116","O","N"," "," ","õs¸nd±¿$°$åwi½{i}k","MS",288
+"Sunday before last","PA21A","117","O","N"," "," ","s¸nd±¿$b°fo½´$lá{°}st","MS",289
+"Sunday before last","PA21B","118","O","N"," "," ","s¸nd±¿$b°fo½´$lá{°}st","MS",290
+"NA","PA22A","119"," ","N"," "," "," ","MS",291
+"Sunday before last","PA22B","120","O","N"," "," ","s¸nd±¿$b±¿åfo½´$õlá{°}st","MS",292
+"Sunday before last","PA23A","121","O","N"," "," ","s¸nd±¿$b±¿fo½´$láºst","MS",293
+"Sunday before last","PA23B","122","O","N"," "," ","s¸nd±¿$b±¿åf·´$lást","MS",294
+"Sunday before last","PA24A","123","O","N"," "," ","s¸nd±¿$b±¿åfo½´$lá{°}st","MS",295
+"Sunday before last","PA24B","124","O","N"," "," ","s¸nd±¿$b±¿f·´$láºst","MS",296
+"Sunday before last","PA25A","125","O","N"," "," ","s¸nd±¿$b°åfo´$õláº{°}st","MS",297
+"Sunday before last","PA25B","126","O","N"," "," ","s¸nd±¿$b°åf·´$lá{°}st","MS",298
+"Sunday before last","PA26A","127","O","N"," "," ","s¸nd±¿$b°fo½º´$láºst","MS",299
+"Sunday before last","PA26B","128","O","N"," "," ","s¸nd±¿$b°åfo½´$õlá{°}st","MS",300
+"Sunday before last","PA27A","131","O","Y"," ","AUX","s¸nd±¿$b±¿fo½´$láº{°}st","MS",301
+"Sunday before last","PA27B","132","O","N"," "," ","s¸½nd±¿$b°åfo½´$õlá{°}st","MS",302
+"Sunday a week ago","PA28A","135","O","N"," "," ","s¸nd±¿«$°$wiİ½{i}k$°go{¹}","MS",303
+"Sunday before last","PA28B!","136!","O","N"," "," ","s¸nd±¿«$b°f·«´$ìá{°}st","MS",304
+"Sunday a week","PA29A","139(*)","O","N"," "," ","s¸nd±¿«$°$wiºk","MS",305
+"Sunday before last","PA29B","140","O","N"," "," ","s¸nd±¿$b°f·´$lá{°}st","MS",306
+"Sunday before last","PA30A","143","O","N"," "," ","s¸nd±¿$b°åfo´$lá{°}st","MS",307
+"Sunday before last","PA30B","144","O","N"," "," ","s¸nd±¿$b°fo½´$láº{°}st","MS",308
+"Sunday before last","PA31A","145","O","N"," "," ","s¸nd±¿«$b°fo´$láº{°}st","MS",309
+"Sunday before last","PA31B","146","O","N"," "," ","s¸nd±¿«$b±¿«åfo´$õlá{°}st","MS",310
+"Sunday before last","PA32A","147","O","N"," "," ","s¸nd±¿«$b°åf·«´$õìá{°}st","MS",311
+"Sunday a week","PA32A","147","O","N"," "," ","s¸nd±¿«$°$wi½{i}k","MS",311
+"Sunday a week ago","PA32B","148","O","N"," "," ","s¸nd±¿«$°$wi½{i}k$°go¼¹","MS",312
+"Sunday before last","PA32B","148","O","N"," "," ","s¸nd±¿«$b°f·«¼´$ìáº{°}st","MS",312
+"Sunday a week","PA33A","151","O","N"," "," ","s¸¼nd±¿$°$åwi½ik","MS",313
+"Sunday a week ago","PA33B","152","O","N"," "," ","s¸¼nd±¿«$°$wi½{i}k$°go”½¼¹","MS",314
+"Sunday a week ago","PA34A","155","O","N"," "," ","s¸nd±¿$wi½{i}k$°go½¼¹","MS",315
+"Sunday before last","PA34B","156","O","N"," "," ","s¸nd±¿«$b°õf·«´$ålá{°}st","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"Sunday before last","PA35A","157","O","N"," "," ","õs¸nd±¿«$b±¿«õf·«´$åìáº{°}st","MS",318
+"Sunday a week ago","PA35B","158(*)","O","N"," "," ","õs¸nd±¿«$°$åwi½{i}k$°õgo¼¹","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"Sunday a week ago","PA36A","159","O","N"," "," ","s¸nd±¿$°$wi½{i}k$°go{¹}","MS",321
+"Sunday a week ago","PA36B","160","O","N"," "," ","s¸nd±¿$°$wi½{j}k$°go{¹}","MS",322
+"Sunday a week","PA37A","161(*)","O","N"," "," ","õs¸¼nd±¿$°$öiºk","MS",323
+"Sunday a week ago","PA37B","162","O","N"," "," ","õs¸¼nd±¿«$°$åwiºk$°õgo¼º","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"Sunday a week","PA38A","163","O","N"," "," ","õs¸nd±¿$°$åwi½¾ik","MS",326
+"Sunday before last","PA38B","164","O","N"," "," ","õs¸nd±¿«¼$b°åf·«´$ìáº{°}st","MS",327
+"Sunday a week","PA39A","165","O","N"," "," ","s¸nd±¿$°$wi½ik","MS",328
+"Sunday a week ago","PA39B","166","O","N"," "," ","s¸nd±¿«¼$°$åwi½{i}k$°õgo¿½¹","MS",329
+"Sunday a week ago","PA40A","167","O","N"," "," ","s¸nd±¿«$°$wi½k$°go¼{¹}","MS",330
+"Sunday a week ago","PA40B","168","O","N"," "," ","s¸½nd±¿«$°$wi½ik$°gÀ¹","MS",331
+"Sunday a week ago","PA41A","171","O","N"," "," ","õs¸nd±¿«$°$åwiºk$°õgo{¹}","MS",332
+"Sunday a week","PA41B","172","O","N"," "," ","s¸nd±¿«$°$wiºk","MS",333
+"Sunday a week ago","PA42A","175","O","N"," "," ","s¸¼nd±¿«$°$wi½ik$°go¼¹","MS",334
+"Sunday a week","PA42B","176","O","N"," "," ","s¸nd±¿«$°İ$wi½ik","MS",335
+"Sunday a week ago","PA43A","177","O","N"," "," ","s¸nd±¿«$°$wi½ik$°ågo¼¹","MS",336
+"Sunday a week ago","PA43B","178","O","N"," "," ","s¸nd±¿$°İ$wi½{i}k$°go¿”¾¹”«","MS",337
+"Sunday a week","PA44A","179","O","N"," "," ","s¸nd±¿«$°$wi{i«}k","MS",338
+"Sunday a week","PA44B","180","O","N"," "," ","s¸nd±¿$°$wiºk","MS",339
+"Sunday before last","PA45A","181","O","N"," "," ","s¸¼nd±¿«$b°f·«r$láº{°}st","MS",340
+"Sunday week ago","PA45B","182","O","N"," "," ","s¸¼nd±¿«$wi½{i}k$°go¼¹","MS",341
+"Sunday before last","PA46A","185","O","N"," "," ","s¸¼nd±¿«$b°fo½r$ìá{°}st","MS",342
+"Sunday before last","PA46B","186","O","N"," "," ","s¸¼nd±¿«$b±¿«åf·«r$õìáº{°}st","MS",343
+"Sunday week ago","PA47A","189","O","N"," "," ","s¸¼nd±¿«$wi½{i}k$°go¼¹","MS",344
+"Sunday week","PA47B","190","O","N"," "," ","s¸¼nd±¿«$wi¾ik","MS",345
+"Sunday week","PA48A","191","O","N"," "," ","õs¸nd±¿$åw±ik","MS",346
+"Sunday week","PA48B","192","O","N"," "," ","õs¸nd±¿«$åw±¾ik","MS",347
+"Sunday a week","PA48C","193","O","N"," "," ","õs¸İ¼nd±¿«$°$åw±ik","MS",348
+"Sunday a week ago","PA49A","194","O","N"," "," ","s¸nd±¿«$wi½ik$°gÀ«{¹}","MS",349
+"Sunday a week","PA49B","195","O","N"," "," ","s¸nd±¿«$°$wi½ik","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"Sunday before last","PA50B","197","O","N"," "," ","s¸¼nd±¿$b°f·«r$lá{°}st","MS",352
+"Sunday before last","PA50C!","198!","O","N"," "," ","s¸¼nd±¿$b°f·r$ìá{°}st","MS",353
+"Sunday a week ago","PA51A","199","O","N"," "," ","õs¸¼nd±¿«$°İ$wi½{i}k$°go¼¹","MS",354
+"Sunday a week ago","PA51B","200","O","N"," "," ","õs¸½nd±¿$°İ$åwiİ½iİk$°õgo”½¼¹","MS",355
+"last Sunday week","PA52A","201","O","N"," "," ","lá{°}st$s¸nd±¿$w±¾{i}k","MS",356
+"Sunday week","PA52B!","202!","O","N"," "," ","õs¸nd±¿«$åw±ik","MS",357
+"Sunday week","PA53A","203","O","N"," "," ","s¸nd±¿«$w±ik","MS",358
+"Sunday week","PA53B","204","O","N"," "," ","õs¸nd±¿«$åwi½ik","MS",359
+"Sunday week","PA54A","205","O","N"," "," ","õs¸nd±¿«$åw±ik","MS",360
+"Sunday a week ago","PA54B","206","O","N"," "," ","õs¸nd±¿«$°İ$åw±ik$°õgÀ¾¹","MS",361
+"Sunday week","PA55A","207","O","N"," "," ","s¸nd±¿$w±¾ik","MS",362
+"Sunday a week","PA55B","208","O","Y","mother says","HRD","s¸nd±¿«$°$w±ik","MS",363
+"Sunday before last","PA55B","208","O","N"," "," ","s¸nd±¿«$b±¿«f·«{°}r$lá{°}st","MS",363
+"Sunday before last","PA56A","211(*)","O","N"," "," ","s¸nd±¿$b±¿for$lá{°}st","MS",364
+"Sunday week ago","PA56B","212","O","N"," "," ","s¸nd±¿«$wi½ik$°gÀ«¾¹","MS",365
+"Sunday a week","PA57A","213","O","N"," "," ","s¸nd±¿«$°$wi½ik","MS",366
+"Sunday a week ago","PA57B","214","O","N"," "," ","s¸¼nd±¿$°$wi½ik$°gÀ¹","MS",367
+"Sunday a week","PA58A","215","O","N"," "," ","s¸nd±¿«$°$åw±ik","MS",368
+"Sunday a week","PA58B","216","O","N"," "," ","s¸nd±¿$°$w±ik","MS",369
+"a week ago Sunday","PA59A","219","O","N"," "," ","°$õwi½{i}k$°õgo½¹$°$ås¸nd±¿«","MS",370
+"Sunday before last","PA59B","220","O","N"," "," ","s¸nd±¿«$b±¿«f·«r$lá{°}st","MS",371
+"Sabbath a week","PA60A","221","O","N"," "," ","sáb°ù$°$w±«ik","MS",372
+"Sunday before last","PA60B","222","O","N"," "," ","s¸¼nd±¿«$b°åf·«{°}r$õlá{°}st","MS",373
+"Sunday a week","PA61A","223","O","N"," "," ","s³nd±¿«$°$wiºk","MS",374
+"Sunday before last","PA61B","224","O","N"," "," ","s¸nd±¿«$b°åf·«{°}r$lá{°}st","MS",375
+"Sunday a week","PA62A","229","O","N"," "," ","s¸nd±¿«$°$wi½{i}kˆ","MS",376
+"Sunday before last","PA62B","230","O","N"," "," ","s¸nd±¿«$b±¿«f·«´$lá{°}st","MS",377
+"Sunday a week","PA63A","231","O","N"," "," ","s¸nd±¿«$°$wi½{i}k","MS",378
+"Sunday before last","PA63B","232","O","N"," "," ","s¸nd±¿«$b±¿«åf·«´$õlá{°}st","MS",379
+"Sunday before last","PA64A","233","O","N"," "," ","s¸nd±¿«$b±¿«fo´$láº{°}st","MS",380
+"Sunday before last","PA64B","234","O","N"," "," ","s¸nd±¿«$b±¿«fo´$lá{°}st","MS",381
+"a week ago last Sunday","PA65A","237","O","N"," "," ","°$w±ik$°go¹$lá{°}st$s¸nd±¿{±¿«}","MS",382
+"Sunday before last","PA65B","238","O","N"," "," ","s¸nd±¿$b±¿fo½´$lá{°}st","MS",383
+"Sunday week","PA66A","239","O","N"," "," ","s¸nd±¿$w±¾ik","MS",384
+"Sunday a week ago","PA66B","240","O","N"," "," ","s¸nd±¿$°åw±«ik$°õgo½¹","MS",385
+"Sunday before last","PA67A","243","O","N"," "," ","s¸nd±¿«$b°åfo´$lá{°}st","MS",386
+"Sunday before last","PA67B","244","O","N"," "," ","s¸nd±¿«$b±¿«fo½´$lá{°}st","MS",387
+"Sunday before last","WV1!","88!","O","N"," "," ","s¸«¼nd±¿$b°f·«º°$láº{°«¼}st","MS",388
+"Sunday before last","WV2","89","O","N"," "," ","õs¸«nd±¿$b°åfo½°$õláº{°}st","MS",389
+"Sunday before last","WV3","91","O","N"," "," ","s¸nd±¿$b°f·«´$láº{°}st","MS",390
+"Sunday week","WV4A","92","O","N"," "," ","õs«¼nd±¿«$åwi½{i}k","MS",391
+"Sunday week","WV4B","93","O","N"," "," ","õs¸«nd±¿«$åwi½{i}k","MS",392
+"Sunday before last","WV5","94","O","N"," "," ","s¸nd±¿«$b°f·«´$lá{°}st","MS",393
+"Sunday a week","WV6A","95","O","N"," "," ","s¸«nd±¿«$°$wi½{i}k","MS",394
+"Sunday before last","WV6B","96","O","N"," "," ","s¸«nd±¿$b°åfo´$õlá{°}st","MS",395
+"Sunday a week","WV6B","96","O","N"," "," ","s¸«nd±¿$°İ$wi½{i}k","MS",395
+"Sunday a week","WV7A","97","O","N"," "," ","õs¸nd±¿«$°$åwi½ik","MS",396
+"Sunday a week","WV7B","98","O","N"," "," ","s¸nd±¿$°$wi½{i}k","MS",397
+"Sunday before last","WV7B","98","O","N"," "," ","s¸nd±¿$b°fo´$láº{°}s{t}","MS",397
+"Sunday week","WV8A","97b","O","N"," "," ","õs¸¼nd±¿«$°İ$åwiºk","MS",398
+"Sunday a week","WV8B","98b","O","N"," "," ","s¸¼nd±¿«$°$wiºk","MS",399
+"Sunday week","WV9A","301","O","N"," "," ","s¸¼nd±¿«$wiºk","MS",400
+"Sunday a week","WV9B","302","O","N"," "," ","s¸nd±¿«$°$wiºk","MS",401
+"Sunday week ago","WV10A","303","O","N"," "," ","s¸¼nd±¿«$åwi{i}k°õgo¼¹","MS",402
+"Sunday before last","WV10B","303b","O","N"," "," ","s¸nd±¿«$b°åfo´$õìáº{°}st","MS",403
+"Sunday a week ago","WV10C","304","O","N"," "," ","s¸¼nd±¿«$°$wiºk$°go¼¹","MS",404
+"Sunday week","WV11A","305","O","N"," "," ","s¸¼nd±¿«$wi½¾ik","MS",405
+"Sunday week","WV11B!","306!","O","N"," "," ","õs¸¼nd±¿«$åwi½{i}k","MS",406
+"Sunday week","WV12A","307","O","N"," "," ","s¸¼nd±¿«$wi½{i}k","MS",407
+"Sunday before last","WV12B","308","O","N"," "," ","s¸¼nd±¿«$b°åfo´$lá{°}st","MS",408
+"Sunday before last","WV13A","309","O","N"," "," ","s¸nd±¿«$b°f·«´$láº{°}st","MS",409
+"Sunday week","WV13B","310","O","N"," "," ","s¸¼nd±¿«$wi½{i}k","MS",410
+"Sunday a week","WV14A","311","O","N"," "," ","s¸¼nd±¿«$°$wi½{i}k","MS",411
+"Sunday a week ago","WV14B","312","O","N"," "," ","s¸¼nd±¿«$°$wi½{i}k$°go¼¹","MS",412
+"Sunday week ago","WV15A","313","O","N"," "," ","õs¸nd±¿«$åwi½{i}k$°õgo½¼¹","MS",413
+"Sunday a week","WV15B","314","O","N"," "," ","s¸nd±¿«$°$wi½{i}k","MS",414
+"Sunday week","WV16A","315","O","N"," "," ","s¸¼nd±¿«$wi½{i}k","MS",415
+"Sunday a week","WV16B","316","O","N"," "," ","õs¸nd±¿«$°$åwi½{i}k","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"Sunday a week ago","WV17B","317b","O","N"," "," ","s¸¼nd±¿«$°$wi½{i}k$°go{¹}","MS",418
+"Sunday a week ago","WV17C","318","O","N"," "," ","s¸¼nd±¿«$wi'k$ggo½¹","MS",419
+"Sunday a week ago","WV18A","319","O","N"," "," ","s¸¼nd±¿«$wi½{i}k$°go¼¹","MS",420
+"Sunday before last","WV18B","320","O","N"," "," ","s¸¼nd±¿«$b°fo´$lá{°}st","MS",421
+"Sunday week","WV19A","321","O","N"," "," ","s¸¼nd±¿«$åwi½{i}k","MS",422
+"Sunday before last","WV19B","322","O","N"," "," ","s¸«¼nd±¿«$b°åfoº´$õláº{°}st","MS",423
+"Sunday week","WV20A","323","O","N"," "," ","s¸¼nd±¿«$åwiºk","MS",424
+"Sunday week","WV20B","324","O","Y","[¸«¼]: doubtful","DDT","s¸«¼nd±¿«$wiºk","MS",425
+"Sunday week ago","WV21A","325","O","N"," "," ","s³nd±¿«$wik$°İgo{¹}","MS",426
+"Sunday week ago","WV21B","326","O","N"," "," ","s³nd±¿«$wiº{i½}k$°go¼¹","MS",427
+"Sunday a week ago","WV22A","327","O","N"," "," ","s¸¼nd±¿«$°$wiºk$°goº{¹}","MS",428
+"Sunday week ago","WV22B","328","O","N"," "," ","s¸¼nd±¿«$wiºk$°go”¼¹","MS",429
+"Sunday week","WV23A","331","O","N"," "," ","s¸¼nd±¿«$wi½k","MS",430
+"Sunday before last","WV23B","332","O","N"," "," ","s¸nd±¿«$b±¿«fo´$lá{°}st","MS",431
+"Sunday week","WV24A","335","O","N"," "," ","s¸¼nd±¿«$wiºk","MS",432
+"Sunday week","WV24B","336","O","N"," "," ","s¸¼nd±¿«$wi¾ºk","MS",433
+"Sunday before last","WV25A","337","O","N"," "," ","s¸¼nd±¿«$b°åfo´$õlá{°}st","MS",434
+"Sunday before last","WV25B","338","O","N"," "," ","s¸¼nd±¿«$b°åfo´$láº{°}st","MS",435
+"Sunday before last","WV26A","339","O","N"," "," ","s¸¼nd±¿«$b°åfo´$lá{°}st","MS",436
+"Sunday before last","WV26B","340","O","N"," "," ","s¸¼nd±¿«$b±¿«åfo´$õláº{°}st","MS",437
+"Sunday week","WV27A","341","O","N"," "," ","õs¸¼nd±¿«$åwiºk","MS",438
+"Sunday a week","WV27B","342","O","N"," "," ","s¸nd±¿«$°$wi½ik","MS",439
+"Sunday before last","WV28A","343","O","N"," "," ","s¸nd±¿«$b°fo´$lá«{°}st","MS",440
+"Sunday before last","WV28B","344","O","N"," "," ","s¸nd±¿«$b°foº´$lá{°«}st","MS",441
+"Sunday week","WV29A","345","O","N"," "," ","s¸¼nd±¿«$wiºk","MS",442
+"Sunday before last","WV29B","346","O","N"," "," ","s¸¼nd±¿«$b°fo´$lá{°«¼}st","MS",443
+"Sunday week","WV30A","347","O","N"," "," ","s¸¼nd±¿«$wiºk","MS",444
+"Sunday a week ago","WV30B","348","O","N"," "," ","s¸¼nd±¿«$°$wiºk$°goº{¹}","MS",445
+"Sunday before last","WV31A","349","O","N"," "," ","s¸¼nd±¿«$b°foº´$láº{°«¼}st","MS",446
+"Sunday week","WV31B","350","O","N"," "," ","s¸¼nd±¿$wiºk","MS",447
+"Sunday week","WV32A","353","O","N"," "," ","õs¸¼nd±¿$åwiºk","MS",448
+"Sunday before last","WV32B","354","O","N"," "," ","s¸¼nd±¿«$b°foº´$láº{°}st","MS",449
+"Sunday week","WV33A","355","O","N"," "," ","s¸¼nd±¿$wi½¾{i}k","MS",450
+"Sunday before last","WV33B","356","O","N"," "," ","s¸¼nd±¿«$b°foº´$láº{°}st","MS",451
+"Sunday week","WV34A","359","O","N"," "," ","õs¸¼nd±¿«$åwiºk","MS",452
+"Sunday a week ago","WV34B","360","O","N"," "," ","s¸¼nd±¿«$°$wi½ik$°go¼¹","MS",453
+"Sunday week","WV35A","361","O","N"," "," ","s¸¼nd±¿«$wi½{i}k","MS",454
+"Sunday was a week ago","WV35B","362","S","N"," "," ","s¸¼nd±¿$w°z$°$wiºk$°go¹","MS",455
+"Sunday a week ago","WV36A","363","O","N"," "," ","s¸¼nd±¿«$°$wi½{i}k$°go¹","MS",456
+"Sunday a week ago","WV36B","364","O","N"," "," ","s¸¼nd±¿«$°$wi½ik$°go¹","MS",457
+"Sunday week ago","WV37A","365","O","N"," "," ","s¸¼nd±¿«$wiºk$°go¼¹","MS",458
+"Sunday week","WV37B!","366!","O","N"," "," ","s¸¼nd±¿«$wiºk","MS",459
+"Sunday week","WV38A","367","O","N"," "," ","õs¸¼nd±¿«$åwi¾{i}k","MS",460
+"Sunday before last","WV38B","368","O","N"," "," ","s¸¼nd±¿«$b°fo´$láº{°}st","MS",461
+"Sunday before last","WV39A","369","O","N"," "," ","s¸¼nd±¿$b°åfo´$õlá{°}st","MS",462
+"Sunday a week ago","WV39B","370","O","N"," "," ","õs¸¼nd±¿«$°$åwiºk$°õgÀ«¹","MS",463
+"Sunday before last","WV39C!","371!","O","N"," "," ","s¸¼nd±¿«$b°åfo´$õlá{°}st","MS",464
+"Sunday a week","WV40A","373","O","N"," "," ","s¸¼nd±¿«$°İ$wi½{i}k","MS",465
+"Sunday week ago","WV40B","374","O","N"," "," ","s¸¼nd±¿«$wi½{i}k$°go¼¹","MS",466
+"Sunday a week ago","WV41A","375","O","N"," "," ","s¸«¼nd±¿$°$wiºk$°go{¹}","MS",467
+"Sunday before last","WV41B","376","O","N"," "," ","s¸¼nd±¿«$b°åfo´$õláº{°}st","MS",468
+"Sunday a week ago","WV42A","377","O","N"," "," ","s¸¼nd±¿«$wi½{i}k$°go¼¹","MS",469
+"Sunday before last","WV42B","378","O","N"," "," ","s¸nd±¿«$b°åfo´$õláº{°}st","MS",470
+"Sunday week ago","WV43A","381","O","N"," "," ","s¸¼nd±¿«$wiºk$°go¼¹","MS",471
+"Sunday before last","WV43B","382","O","N"," "," ","s¸¼nd±¿«$b°åfo´$lá{°}st","MS",472
+"Sunday week","WV44A","383","O","N"," "," ","s¸¼nd±¿«$wiºk","MS",473
+"Sunday week","WV44B","384","O","N"," "," ","s¸nd±¿$wi¾ºk","MS",474
+"Sunday a week","WV45A","385","O","N"," "," ","s¸nd±¿«$°$wiºk","MS",475
+"Sunday week ago","WV45B","386","O","N"," "," ","s¸¼nd±¿«$wiºk$°gÀ«¹","MS",476
+"Sunday week","WV46A","387","O","N"," "," ","s¸¼nd±¿$wi½{i}k","MS",477
+"Sunday week","WV46B","388","O","N"," "," ","s¸¼nd±¿«$wi¾ik","MS",478
+"Sunday before last","WV47A","389","O","N"," "," ","s¸¼nd±¿«$b°fo´$ìáº{°}st","MS",479
+"Sunday a week ago","WV47B","390","O","N"," "," ","s¸«nd±¿«$wi½{i}k$°gÀ¹","MS",480
+"Sunday week ago","WV48A","391","O","N"," "," ","s¸¼nd±¿«$wi¾ik$°gÀ«¹","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"Sunday week ago","WV48D","392b","O","N"," "," ","s¸¼nd±¿«$wi½{i}k$°gÀ¾¹","MS",484
+"Sunday a week ago","WV49A","393","O","N"," "," ","s¸¼nd±¿«$wi¾{i}k$°go¿¾¹","MS",485
+"Sunday a week ago","WV49B","394","O","N"," "," ","s¸¼nd±¿«$°$wi½{i}k$°gÀ¹","MS",486
+"Sunday week ago","WV50A","395","O","N"," "," ","s¸nd±¿«$wi½{i}k$°go½¹","MS",487
+"Sunday week","WV50B","396","O","N"," "," ","s¸nd±¿«$wi½{i}k","MS",488
+"Sunday a week ago","WV51A","261","O","N"," "," ","s¸nd±¿«$°$wi½¾ik$°gÀ¾¹","MS",489
+"Sunday a week","WV51B","262","O","N"," "," ","s¸nd±¿«$wi½{i}k","MS",490
+"Sunday week ago","WV52A","258","O","N"," "," ","s¸¼nd±¿«$wiºk$°gÀ«¾¹","MS",491
+"Sunday a week","WV52B","259","O","N"," "," ","õs¸nd±¿«$°$åwi½ik","MS",492
+"Sunday before last","WV52C!","260!","O","N"," "," ","s¸nd±¿«$b°f·´$lá{°}st","MS",493
+"Sunday week","WV53A","257","O","N"," "," ","s¸nd±¿«$wiºk","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"Sunday a week ago","WV53C!","257c!","O","N"," "," ","s¸¼nd±¿«$°$wiºk$°go¼¹","MS",496
+"Sunday a week","WV54A","255","O","N"," "," ","õs¸¼nd±¿«$°$åwi½ik","MS",497
+"Sunday before last","WV54B","256","O","N"," "," ","s¸½nd±¿«$b°f·«{°}r$ìá{°}st","MS",498
+"Sunday week","WV54B","256","O","N"," "," ","õs¸½nd±¿«$åwi½{i}k{x}","MS",498
+"Sunday a week","DE1A","11","O","N"," "," ","s¸nd±¿«$°$wi½{i}k","MS",499
+"Sunday a week ago","DE1A","11","O","N"," "," ","s¸nd±¿«$°$wi½{i}k$°go½¼¹","MS",499
+"Sunday week","DE1B","12","O","N"," "," ","õs¸nd±¿«$åwi½ik","MS",500
+"Sunday a week ago","DE1C!","13!","O","N"," "," ","s¸nd±¿$°$wi½{i}k$°go¿½¾¹«","MS",501
+"Sunday week","DE2A","15(*)","O","N"," "," ","õs¸«nd±¿$åwi½ik","MS",502
+"Sunday week","DE2B","16","O","N"," "," ","õs¸nd±¿$åwi½ik","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"Sunday week","DE3A","18","O","N"," "," ","õs¸nd±¿$åwi½ik","MS",505
+"Sunday week","DE3B","19","O","N"," "," ","õs¸nd±¿$åwi½ik","MS",506
+"Sunday before last","DE3C!","17!","O","N"," "," ","õs¸nd±¿$b°åf·º´$õlá{°}st","MS",507
+"Sunday before last","DE4","20","O","N"," "," ","s¸nd±¿$b°åfo´$õìáº{°}st","MS",508
+"Sunday week ago","DE5A","21","O","N"," "," ","õs¸«nd±¿$åwijk$°go¹","MS",509
+"Sunday before last","DE5B","22","O","N"," "," ","s¸nd±¿$b±¿åfo´$ìáº{°}st","MS",510
+"last Sunday the week","DE6A","23","O","N"," "," ","lás{t}$s¸«nd±¿$ä°$wi½ik","MS",511
+"Sunday week","DE6B","24","O","N"," "," ","s¸nd±¿$wi½{i}k","MS",512
+"Sunday week","MD1A","27","O","N"," "," ","s¸«nd±¿«$wi¼ºk","MS",513
+"Sunday before last","MD1B","28","O","N"," "," ","s¸¼nd±¿$b±¿f·«´$lá{°}st","MS",514
+"Sunday week","MD2A","31a","O","N"," "," ","s¸nd±¿$wi½ik","MS",515
+"Sunday before last","MD2B","32","O","N"," "," ","s¸¼nd±¿$b°f·´$láºst","MS",516
+"Sunday week","MD3A","33","O","N"," "," ","s¸¼nd±¿$åwˆ±«i½k","MS",517
+"Sunday week","MD3B","34","O","N"," "," ","s¸¼nd±¿$wi½{i}k","MS",518
+"last Sunday week","MD4A","35b","O","N"," "," ","láºs{t}$õs¸nd±¿«$åwi½ik","MS",519
+"Sunday week","MD4B","35","O","N"," "," ","õs¸¼nd±¿$åw±«i½k","MS",520
+"Sunday week","MD4C","36","O","N"," "," ","õs¸«ºnd±¿$åwijk","MS",521
+"Sunday week","MD5A","37","O","N"," "," ","s¸¼nd±¿$wi½ik","MS",522
+"Sunday week","MD5B","38","O","N"," "," ","õs¸nd±¿$åwi½{i}k","MS",523
+"Sunday before last","MD6A","39(*)","O","N"," "," ","s¸nd±¿$b±¿åfo´$õlá{°}st","MS",524
+"Sunday week","MD6B","40","O","N"," "," ","s¸¼nd±¿$wi{j}k","MS",525
+"Sunday before last","MD6B","40","O","N"," "," ","s¸¼nd±¿$b±¿fo´$láºst","MS",525
+"last Sunday was a week","MD7A","41","S","N"," "," ","õlás{t}$ås¸«nd±¿$w°z$°$åwi½{i}k","MS",526
+"Sunday a week","MD7B","41b","O","N"," "," ","s¸¼nd±¿$°$wi½{i}k","MS",527
+"Sunday before last","MD7C!","42!","O","N"," "," ","s¸¼nd±¿$b±¿åfo´$láº{°}st","MS",528
+"Sunday week","MD7C!","42!","O","N"," "," ","ås¸¼nd±¿$wi½ik","MS",528
+"Sunday week","MD8A","43","O","N"," "," ","õs¸¼nd±¿$åwi½ik","MS",529
+"Sunday before last","MD8B","44","O","N"," "," ","s¸¼nd±¿$b°fo½º´$láº{°}st","MS",530
+"Sunday week","MD9N","N46","O","N"," "," ","õs¸«nd±¿$åwijk","MS",531
+"Sunday week","MD9A","45","O","N"," "," ","õs¸¼nd±¿$åwi½{i}k","MS",532
+"Sunday before last","MD9B","46","O","N"," "," ","s¸¼nd±¿$b±¿åfo´$õláºst","MS",533
+"Sunday a week ago","MD9B","46","O","N"," "," ","s¸¼nd±¿$°$wi½ik$°go¼¹","MS",533
+"Sunday before last","MD10A","49","O","N"," "," ","s¸«nd±¿$b°f·«´$lá«º{°}st","MS",534
+"Sunday week","MD10A","49","O","Y"," ","SUG","s¸«nd±¿$wiºk","MS",534
+"Sunday before last","MD10B","50","O","N"," "," ","s¸«nd±¿$b°fo½´$láº{°}st","MS",535
+"Sunday week","MD11","51","O","N"," "," ","s¸«nd±¿$wik","MS",536
+"Sunday a week ago","MD12A","52","O","N"," "," ","s¸¼nd±¿«$°$wik$°go¼º{¹}","MS",537
+"Sunday before last","MD12B","53","O","N"," "," ","s¸«nd±¿$b±¿f·«´$láº{°}st","MS",538
+"Sunday a week","MD12B","53","O","N"," "," ","s¸«nd±¿$°$wik","MS",538
+"Sunday a week ago","MD13A","54(*)","O","N"," "," ","s¸¼nd±¿«$°$wi{j}k$°go½¼¹«","MS",539
+"Sunday a week","MD13B","55","O","N"," "," ","õs¸¼nd±¿$°$åwik","MS",540
+"Sunday a week","MD13C","56","O","N"," "," ","s¸¼nd±¿«$°$wiºk","MS",541
+"Sunday before last","MD13D!","57!","O","N"," "," ","s¸«¼nd±¿$b±¿f·º°$láº{°}st","MS",542
+"Sunday week","MD13D!","57!","O","N"," "," ","s¸«¼nd±¿$wik","MS",542
+"last Sunday week","MD13E!","58!","O","N"," "," ","láºs{t}$s¸nd±¿$wi½{i}k","MS",543
+"Sunday week","MD13E!","58!","O","N"," "," ","õs¸nd±¿$åwi½{i}k","MS",543
+"Sunday week","MD13F!","59!","O","N"," "," ","s¸«nd±¿$wi½{j}k","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"Sunday a week ago","MD14","61(*)","O","N"," "," ","s¸«¼nd±¿«$°$â—ik$°go«¼º{¹}","MS",546
+"Sunday week","MD15A","62","O","N"," "," ","õs¸nd±¿İ½$åwi{j}k","MS",547
+"Sunday before last","MD15B","63","O","N"," "," ","s¸«nd±¿$b±¿f·«º°$láº{°}st","MS",548
+"Sunday a week","MD15B","63","O","N"," "," ","s¸«nd±¿$°$wik","MS",548
+"Sunday a week","MD16","64","O","N"," "," ","s¸nd±¿«$°$wi½{i}k","MS",549
+"Sunday before last","MD17A","65","O","N"," "," ","õs¸«nd±¿$b°åfo½º´$láºst","MS",550
+"Sunday before last","MD17B","66","O","N"," "," ","s¸nd±¿$b°f·«´$lá«º{°}st","MS",551
+"Sunday a week","MD17B","66","O","N"," "," ","õs¸nd±¿$°$åwi{j}k","MS",551
+"Sunday before last","MD18A","67","O","N"," "," ","s¸«¼nd±¿İ$b±¿f·«º{°}$láºs","MS",552
+"Sunday before last","MD18B","68","O","N"," "," ","s¸«nd±¿$b°f·«º°$láº{°}st","MS",553
+"Sunday a week","MD18B","68","O","N"," "," ","s¸«nd±¿$°$wiºk","MS",553
+"Sunday before last","MD19A","69","O","N"," "," ","s¸«¼nd±¿$b°f·«º{°}$lá«º{°}s{t}","MS",554
+"Sunday before last","MD19B","70","O","N"," "," ","õs¸«nd±¿$b±¿åf·:{°}$láº{°«¼}s{t}","MS",555
+"Sunday week","MD20A","71","O","N"," "," ","s¸¾nd±¿$wijk","MS",556
+"Sunday before last","MD20B","72","O","Y","[á«]: doubtful","FDT","s¸«nd±¿$b±¿fo½°$láá«st","MS",557
+"Sunday week","MD20B","72","O","N"," "," ","s¸«nd±¿$wik","MS",557
+"Sunday before last","MD20C!","73!","O","N"," "," ","s¸nd±¿$b±¿f·º°$láº{á}st","MS",558
+"Sunday week","MD21A","75","O","N"," "," ","õs¸«¼nd±¿$åwik","MS",559
+"Sunday a week ago","MD21B","76","O","N"," "," ","s¸«¼nd±¿$°İ$wik$°goº{¹}","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"Sunday week","MD22M","N78","O","N"," "," ","s¸«nd±¿$â—ik","MS",562
+"Sunday week","MD22A","77","O","N"," "," ","õs¸nd±¿$åwi½ik","MS",563
+"Sunday week","MD22B","78","O","N"," "," ","õs¸«nd±¿$åwik","MS",564
+"Sunday before last","MD22C!","79!","O","N"," "," ","s¸«nd±¿$b°f·«:$lá{°}s{t}","MS",565
+"Sunday week","MD23A","80b","O","N"," "," ","õs¸«¼nd±¿İ½$åwik","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"Sunday before last","MD23C","81","O","N"," "," ","s¸«nd±¿$b°f·«º°$lá«º{°}st","MS",568
+"Sunday before last","MD24","82","O","N"," "," ","s¸«nd±¿$b°f·«:$láºs{t}","MS",569
+"Sunday a week","MD25","84","O","N"," "," ","õs¸«nd±¿$°$åwik","MS",570
+"Sunday a week ago","MD26A","83","O","N"," "," ","s¸«¼nd±¿$wiİ½k$°go¿½¾{¹«}","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"Sunday a week","MD27A","85","O","N"," "," ","õs¸nd±¿«$°$åwi{i}k","MS",573
+"Sunday before last","MD27B","86","O","N"," "," ","s¸nd±¿«¼$b°f·«´$lá{°}st","MS",574
+"Sunday a week","DC1A","99","O","N"," "," ","s¸nd±¿$°$wi½{i½¾}k","MS",575
+"Sunday before last","DC1B!","100!","O","N"," "," ","s¸«nd±¿$b±¿åf·:{°}$õlá«º{°«¼}st","MS",576
+"Sunday before last","VA1!","101!","O","N"," "," ","s¸«¼nd±¿$b±¿foº{°}$l¶¶—«s{t}","MS",577
+"Sunday a week","VA2A","103","O","N"," "," ","s¸nd±¿«$°İ$wi½{i}k","MS",578
+"Sunday before last","VA2B","104","O","N"," "," ","õs¸şº{°}nd±¿$b±¿åfo°$õláº{°}s{t}","MS",579
+"Sunday a week","VA3A","105(*)","O","N"," "," ","õs¸—«nd±¿$°$åwijk","MS",580
+"Sunday before last","VA3B","106","O","N"," "," ","õs¸¼nd±¿$b±¿«åfo´$õìá{°}s{t}","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"Sunday afore last","VA4N","N109","O","N"," "," ","s¸«nd±¿$°İfoº$láºs","MS",583
+"Sunday week past","VA5A","107","O","N","cf. ""wicked, wick, weak¢"," ","õs¸«{°}nd±¿$õwi{j}k$åpá«º{°}st","MS",584
+"Sunday before last","VA5B","108","O","N"," "," ","õs¸nd±¿$b±¿åfo{¹}$lá{°}s{t}","MS",585
+"Sunday before last","VA6A","113","O","N"," "," ","ås¸«¼{°}n{d}±¿$b±¿åfo{¹¿}$õlá{°«}s{t}","MS",586
+"Sunday before last","VA6B","114","O","N"," "," ","s¸—«nd±¿$b±¿fo°$lá{°«}s{t}","MS",587
+"Sunday before last","VA7A","121","O","N"," "," ","s¸¾n{d}{±¿½}$°İfoº$lá{°}s{t}","MS",588
+"Sunday before last","VA7B","122","O","N"," "," ","s¸nd±¿$b±¿foº{¹}$lá{°}s{t}","MS",589
+"Sunday week","VA8A","123","O","N"," "," ","s¸«nd±¿$wi{j}k","MS",590
+"Sunday before last","VA8B","124","O","N"," "," ","s¸«¼nd±¿$b±¿åfoº$lá{°}st","MS",591
+"Sunday week","VA8C!","125!","O","N"," "," ","s¸—nd±¿$wiºk","MS",592
+"Sunday before last","VA9A","117","O","N"," "," ","ås¸—«¼nd±¿½$b³½åfo«º{¹}$õlá{°}s{t}","MS",593
+"Sunday before last","VA9B!","118!","O","N"," "," ","ås¸—«¼nd±¿$b±¿åfo«º$lá«º{±¿½}s{t}","MS",594
+"Sunday before last","VA10A","127","O","N"," "," ","ås¸{°}nd±¿$b±¿åfo{¹½}$láº{°}s","MS",595
+"Sunday before last","VA10B","128","O","N"," "," ","s¸nd±¿$b±¿fo°$lá{±¿½}s{t}","MS",596
+"Sunday week ago","VA10B","128","O","N"," "," ","s¸nd±¿$wi½{i}k$°go{¹}","MS",596
+"Sunday before last","VA11A","129","O","N"," "," ","s¸—«nd±¿½$°İfo{¹½}$láº{°}s","MS",597
+"Sunday before last","VA11B","130","O","N"," "," ","s¸{°}n{d}±¿$b±¿fo{¹½}$láº{°}s{t}","MS",598
+"last Sunday week","VA12N","N131","O","N"," "," ","õláºs$õs¸nd±¿$å{â—}iºk","MS",599
+"Sunday before last","VA12A","131","O","N"," "," ","s¸nd±¿$b±¿foº{¹}$lá{°}s{t}","MS",600
+"Sunday before last","VA12B!","132!","O","N"," "," ","õs¸nd±¿$b±¿åfo{°}$õlá{°«}s{t}","MS",601
+"Sunday before last","VA13A","133","O","N"," "," ","ås¸nd±¿$b±¿õfo{¹}$åláº{°}s{t}","MS",602
+"Sunday before last","VA13B","134","O","N"," "," ","s¸nd±¿$b±¿foº{¹}$lá{°«}s{t}","MS",603
+"Sunday week","VA14A","135","O","N"," "," ","õs¸«ºnd±¿$åwijk","MS",604
+"last Sunday week","VA14B","136","O","N"," "," ","lá{°}s{t}$s¸{°}nd±¿$wik","MS",605
+"Sunday before last","VA14B","136","O","N"," "," ","s¸{°}nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",605
+"Sunday before last","VA14C","137","O","N"," "," ","s¸nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"Sunday before last","VA15A","139","O","N"," "," ","õs¸nd±¿$b±¿åfoº$õláºs","MS",608
+"Sunday before last","VA15B","140","O","N"," "," ","s¸—¾nd±¿$b±¿foº$lá{°«}s{t}","MS",609
+"Sunday before last","VA16A","141","O","N"," "," ","s¸«¼{°}nd±¿$b±¿fo{¹}$láº{°}st","MS",610
+"Sunday before last","VA16B","142","O","N"," "," ","s¸nd±¿$b±¿fo{¹¿}$lá{°}st","MS",611
+"Sunday before last","VA17A","143","O","N"," "," ","s¸ş«nd±¿$b±¿fo{¹}$láº{°}s{t}","MS",612
+"Sunday before last","VA17B","144","O","N"," "," ","õs¸ş«{°}nd±¿$b±¿åfo°$láº{°}s{t}","MS",613
+"Sunday before last","VA18","145","O","N"," "," ","s¸«nd±¿$b±¿fo«º$lá{°}s{t}","MS",614
+"Sunday fore last","VA19A","146","O","N"," "," ","s¸«{°}nd±¿$åfoº{¹}$lá{°}s{t}","MS",615
+"Sunday before last","VA19B","147","O","N"," "," ","s¸ş{°}nd±¿${b}{±¿}fo{¹}{°}$lá{±¿½}s{t}","MS",616
+"Sunday before last","VA19C!","148!","O","N"," "," ","s¸ş«¾{°}nd±¿$b±¿fo{°}$lŞ¼º{°}s{t}","MS",617
+"Sunday before last","VA20A","149","O","N"," "," ","s¸«nd±¿${b}{°}fo{¹}$láºs{t}","MS",618
+"Sunday before last","VA20B","150(*)","O","N"," "," ","s¸nd±¿$b±¿fo{°}$lá{°}s{t}","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"Sunday fore last","VA21N","N153","O","N"," "," ","s¸şnd±¿$foº$lá«¼º{°}s","MS",621
+"Sunday afore last","VA21A","153","O","N"," "," ","s¸{°}nd±¿$°İåfo{¹}$lá½¾º{°}s","MS",622
+"Sunday before last","VA21B","154","O","N"," "," ","s¸{°}n{d}±¿$b±¿fo{¹}$láº{°}s{t}","MS",623
+"Sunday week ago","VA22","155","O","N"," "," ","s¸{°}nd±¿$wi{j}k$°goº{¹}","MS",624
+"Sunday before last","VA23A","156","O","N"," "," ","s¸{°}nd±¿$b±¿fo{°}$láº{°}s{t}","MS",625
+"Sunday week","VA23B","157","O","N"," "," ","õs¸nd±¿$åwiºk","MS",626
+"Sunday before last","VA24","159","O","N"," "," ","s¸{°}nd±¿$b±¿fo°$láº{°}s{t}","MS",627
+"Sunday a week","VA25","160(*)","O","N"," "," ","s¸½nd±¿$°$åw±¾i½k","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"last Sunday week","VA26B","161","O","N"," "," ","lá{°}st$s¸nd±¿$w±«i½k","MS",630
+"Sunday before last","VA26C","162","O","N"," "," ","s¸nd±¿$b±¿åfo½°$õláº{°}s{t}","MS",631
+"last Sunday week","VA27","163(*)","O","N"," "," ","láº{°}s{t}$s¸nd±¿$w±«i½k","MS",632
+"Sunday before last","VA28A","164","O","N"," "," ","õs¸«nd±¿$b±¿åfo{¹}$õlá{±¿½}s{t}","MS",633
+"Sunday before last","VA28B","165","O","N"," "," ","s¸«nd±¿$b±¿fo½°$láº{°}s{t}","MS",634
+"Sunday before last","VA29","166","O","N"," "," ","s¸«{°}nd±¿$b±¿fo{¹½}$lá{°«}s{t}","MS",635
+"Sunday a week ago","VA30A","167","O","N"," "," ","õs¸«nd±¿$åwi½¾{j}k$°go{¹}","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"Sunday a week","VA30C!","168!","O","N"," "," ","s¸nd±¿$°$åwi½{i}k","MS",638
+"Sunday before last","VA30D!","169!","O","N"," "," ","s¸«{°}nd±¿$b±¿fo°$láº{°}s{t}","MS",639
+"Sunday week","VA30E!","170!","O","N"," "," ","s¸{°}nd±¿$wi{i}k","MS",640
+"Sunday before last","VA30E!","170!","O","N"," "," ","s¸{°}nd±¿$b±¿fo°$lá{±¿½}s{t}","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"Sunday before last","VA31B","172","O","N"," "," ","s¸{°}nd±¿$b±¿fo{°}$lá{°}s{t}","MS",642
+"Sunday before last","VA31C"," ","O","N"," "," ","s¸{°}nd±¿$b±¿fo{¹¿½}$lá{°«}s{t}","MS",643
+"Sunday before last","VA32!","175!","O","N"," "," ","õs¸{°}nd±¿$b±¿åfo{°}$láº{°}s{t}","MS",644
+"Sunday before last","VA33A","173","O","N"," "," ","s¸{°}nd±¿$b±¿åfo{°}$láº{°}s{t}","MS",645
+"Sunday before last","VA33B","174","O","N"," "," ","s¸{°}nd±¿$b±¿fo{°}$lá{°}s","MS",646
+"Sunday week ago","VA34A","177(*)","O","N"," "," ","s¸¾nd±¿½$wiºk$°go½{¹}","MS",647
+"Sunday before last","VA34A","177(*)","O","N"," "," ","s¸¾nd±¿½${b}{±¿}fo{¹}$lá{±¿½}s{t}","MS",647
+"Sunday before last","VA34B","178","O","N"," "," ","s¸—nd±¿$b±¿fo°$lá{°«}s{t}","MS",648
+"Sunday fore last","VA35A","179","O","N"," "," ","õs¸şnd±¿$åfo«º$õláº{°}s","MS",649
+"Sunday before last","VA35B","180","O","N"," "," ","s¸—ş«¾nd±¿$b±¿åfo°$õlá{±¿½}s{t}","MS",650
+"last Sunday week","VA36A","181","O","N"," "," ","ålá{°«¼}s{t}$õs¸«nd±¿$åwi¼{j}k","MS",651
+"Sunday before last","VA36B","182","O","N"," "," ","s¸nd±¿$b±¿fo{°}$láº{±¿½}s{t}","MS",652
+"Sunday before last","VA37","183","O","N"," "," ","õs¸nd±¿$b±¿åfo°$õláº{°«¼}s{t}","MS",653
+"Sunday before last","VA38","185","O","N"," "," ","s¸¾nd±¿$b±¿fo½°$lá{±¿½}s{t}","MS",654
+"Sunday week","VA38","185","O","Y"," ","HRD","õs¸¾nd±¿$åwi½jk","MS",654
+"Sunday before last","VA39!","186!","O","N"," "," ","õs¸{°}nd±¿$b±¿åf·«{o}°$lá±¿s{t}","MS",655
+"Sunday before last","VA40A","187","O","N"," "," ","s¸ş«¾nd±¿$b±¿fo´$láº{°}s{t}","MS",656
+"last Sunday week","VA40B","188","O","N"," "," ","lá¾º{°}s{t}$õs¸«{°}nd±¿$å{â—}i{j}k","MS",657
+"Sunday before last","VA41A","191","O","N"," "," ","õs¸«{°}nd±¿$b±¿åfo{¹}$láº{°}s{t}","MS",658
+"Sunday before last","VA41B","192","O","N"," "," ","s¸{°}nd±¿½$b±¿åfo{¹}$õláº{°}s{t}","MS",659
+"last Sunday week","VA42A","193(*)(**)","O","N"," "," ","õlá{°}s{t}$õs¸«{°}nd±¿$åwiºk","MS",660
+"Sunday week ago","VA42B","194","O","N"," "," ","s¸nd±¿$wiºk$°go{¹}","MS",661
+"Sunday before last","VA42B","194","O","N"," "," ","s¸nd±¿$b±¿fo{¹}$láº{°}s{t}","MS",661
+"Sunday fore last","VA43N","N195","O","N"," "," ","s¸«nd±¿$fo«º$lá«ºs","MS",662
+"Sunday before last","VA43A","195","O","N"," "," ","s¸ş¾nd±¿$b±¿foº$láº{°}s","MS",663
+"Sunday before last","VA43B","196","O","N"," "," ","õs¸ş«nd±¿$b±¿åfoº$õlá«º{°}s{t}","MS",664
+"Sunday a week ago","VA44A","199","O","N"," "," ","õs¸¼{°}nd±¿$°$õwijk$°ågo¹","MS",665
+"Sunday before last","VA44B","200","O","N"," "," ","s¸nd±¿$b±¿fo{¹}$lá{°«¼}s{t}","MS",666
+"Sunday week","VA44B","200","O","N"," "," ","s¸nd±¿$wi½{i}k","MS",666
+"Sunday week","VA45A","201","O","N"," "," ","s¸«nd±¿$wi{j}k","MS",667
+"Sunday before last","VA45B","202","O","N"," "," ","s¸¼nd±¿$b±¿fo{¹}$lás{t}","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"Sunday week","VA46A","207","O","N"," "," ","õs¸«nd±¿$åwik","MS",670
+"Sunday before last","VA46B!","208!","O","N"," "," ","s¸«¼nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",671
+"Sunday before last","VA47","211","O","N"," "," ","s¸{°}nd±¿$b±¿åfo{¹}$lá{°«}s{t}","MS",672
+"Sunday before last","VA48A","213(*)","O","N"," "," ","s¸¼{°}nd±¿$b±¿fo{¹}$lá{±¿½}s{t}","MS",673
+"Sunday before last","VA48B","214","O","N"," "," ","s¸«¼nd±¿$b±¿fo{¹}$lá«{±¿}s{t}","MS",674
+"Sunday before last","VA49A","215","O","N"," "," ","ås¸¼nd±¿$b±¿åfo½$õlá{°«}s{t}","MS",675
+"Sunday before last","VA49B","216","O","N"," "," ","s¸«¼{°}nd±¿$b±¿foİ{¹}{°}$láº{°«}s{t}","MS",676
+"Sunday a week ago","VA50A","217","O","N"," "," ","s¸«nd±¿$°$w±«{i}k$°go{¹}","MS",677
+"Sunday before last","VA50B","218","O","N"," "," ","s¸«{°}nd±¿$b±¿åfo{¹}$láº{°}s{t}","MS",678
+"Sunday afore last","VA51A","219","O","N"," "," ","õs¸—«{°}nd±¿$°İåfo«$lá{°}s","MS",679
+"Sunday before last","VA51B","220(*)","O","N"," "," ","õs¸«nd±¿$b±¿åfo½¼{¹}$lá{°«¼}s{t}","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"Sunday a week ago","VA52A","224","O","N"," "," ","s¸«¼nd±¿«$°$wiºk$°gÀ¾¹","MS",682
+"Sunday before last","VA52B","225","O","N"," "," ","s¸«{°}nd±¿$b±¿«åfo´$lá{°}s{t}","MS",683
+"Sunday before last","VA52C!","226!","O","N"," "," ","s¸nd±¿«$b±¿åfo½º°$lá¾{°}s{t}","MS",684
+"Sunday a week","VA53A","227","O","N"," "," ","s¸«nd±¿$°$wi{j}k","MS",685
+"Sunday a week","VA53B","228","O","N"," "," ","õs¸«¼nd±¿«$°$åwi{j}k","MS",686
+"Sunday a week ago","VA54A","229","O","N"," "," ","s¸«nd±¿$°$wi½¾ik$ågo¼º{¹}","MS",687
+"Sunday week","VA54A","229","O","N"," "," ","õs¸«nd±¿$åwi½¾ik","MS",687
+"Sunday a week","VA54B","230","O","N"," "," ","s¸—nd±¿«$°$wi½{i}k","MS",688
+"Sunday week","VA55A","233(*)","O","N"," "," ","õs¸«nd±¿«$åwi½{i}k","MS",689
+"Sunday a week","VA55B","234(*)","O","N"," "," ","s¸nd±¿«$°$wi½{j}k","MS",690
+"Sunday a week","VA56A","237","O","N"," "," ","s¸—«¼nd±¿«$°$wijk","MS",691
+"Sunday a week","VA56B","238","O","N"," "," ","s¸«¼{°}nd±¿«$°$wijk","MS",692
+"Sunday before last","VA57A","239","O","N"," "," ","s¸nd±¿«$b±¿«åfo´$lá{°}s{t}","MS",693
+"Sunday before last","VA57B","240","O","N"," "," ","s¸¼{°}nd±¿$b±¿«fo{°}$lá{±¿½}s{t}","MS",694
+"Sunday fore last","VA58","241(*)","O","N"," "," ","s¸—«¼n{d}±¿$fo—º$lá{°«}s{t}","MS",695
+"Sunday week","VA59N","N241","O","N"," "," ","õs¸ş«nd±¿$åwik","MS",696
+"Sunday before last","VA59A","242","O","N"," "," ","õs¸«nd±¿$b±¿åfo$lá{°}s{t}","MS",697
+"Sunday before last","VA59B!","243!","O","N","compromise dictionary pronunciation"," ","s¸nd±¿½$b±¿åfo°$la«¾{°}st","MS",698
+"Sunday week","VA60","244(*)","O","N"," "," ","s¸¼{°}nd±¿«$wijk","MS",699
+"Sunday week","VA61A","245(*)","O","N"," "," ","s¸nd±¿$wi½k","MS",700
+"Sunday before last","VA61B!","246!","O","N"," "," ","s¸nd±¿$b±¿fo°$lá«º{±¿½}s{t}","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"Sunday before last","VA62A","247(*)","O","N"," "," ","õs¸—«{°}nd±¿$b±¿åfo{¹}$õláº{°}s","MS",703
+"Sunday before last","VA62B","248","O","N"," "," ","s¸«¼n{d}±¿$b±¿fo{¹}$lá{°«¼}s{t}","MS",704
+"Sunday week","VA63A","251","O","N"," "," ","õs¸{°}nd±¿{±¿«}$åwi½{j}k","MS",705
+"last Sunday week","VA63B","252","O","N"," "," ","lá{°«}s{t}$s¸«¼{°}nd±¿İ{±¿«}$w±«jk","MS",706
+"Sunday before last","VA64A","255","O","N"," "," ","õs¸«¼{°}n{d}±¿$b±¿åfo{¹}$õlá{±¿½}s{t}","MS",707
+"Sunday before last","VA64B","256","O","N"," "," ","õs¸«¼n{d}±¿$b±¿åfo{°}$õláº{°«}s{t}","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"Sunday week","VA65B","258","O","N"," "," ","s¸ş«nd±¿$wi½{i}k","MS",710
+"Sunday before last","VA65C!","259!","O","N"," "," ","s¸«{°}nd±¿$b±¿fo°$lµ¾:s{t}","MS",711
+"Sunday before last","VA65C!","259!","O","N"," "," ","s¸«{°}nd±¿$b±¿fo°$lá{±¿«}s{t}","MS",711
+"Sunday before last","VA66A","261","O","N"," "," ","s¸«¼{°}nd±¿$b±¿fo{¹}$lá{±¿½}s{t}","MS",712
+"Sunday before last","VA66B","262","O","N"," "," ","ås¸—«¼nd±¿$b±¿åfo{¹}$õlá{±¿½}s{t}","MS",713
+"Sunday before last","VA67A","267","O","N"," "," ","ås¸«¼{°}nd±¿«$b°åfo´$õìá±¿st","MS",714
+"Sunday before last","VA67B","268","O","N"," "," ","s¸«¼{°}nd±¿«$b°fo´$ìá{±¿½}s{t}","MS",715
+"Sunday before last","VA68A","269","O","N"," "," ","õs¸«¼nd±¿$b±¿åfo´$lá{±¿½}s{t}","MS",716
+"Sunday before last","VA68B","270","O","N"," "," ","s¸«¼{°}nd±¿$b±¿foº°$lá{±¿½}s{t}","MS",717
+"Sunday week","VA68B","270","O","N","rare"," ","õs¸«¼{°}nd±¿$åwiºjk","MS",717
+"Sunday before last","VA69A","273","O","N"," "," ","s¸¼nd±¿$b±¿åfo«{¹}$lá{±¿½}s","MS",718
+"Sunday before last","VA69B","274","O","N"," "," ","õs¸nd±¿$b±¿åfo{¹}$õláº{°«}s{t}","MS",719
+"Sunday week","VA70A","275","O","N"," "," ","õs¸ş«ºnd±¿$åwi½{i}k","MS",720
+"Sunday a week","VA70B","276","O","N"," "," ","s¸«¼{°}nd±¿«$°$w±«i½k","MS",721
+"last Sunday week","VA71A","285","O","N"," "," ","ìá{°}s{t}$s¸«¼{°}nd±¿İ{±¿«}$wi½jk","MS",722
+"Sunday before last","VA71B","286","O","N"," "," ","s¸«¼{°}nd±¿$b±¿«fo´$ìá{°«}s{t}","MS",723
+"Sunday a week ago","VA72A","287","O","N"," "," ","ås³º{°}nd±¿İ{±¿«}$°$õw±«i½k$°ågo¹«","MS",724
+"Sunday before last","VA72B","288","O","N"," "," ","õs¸³ºd±¿{±¿«}$b°åfoº´$õláº{°}st","MS",725
+"Sunday before last","VA73","291","O","N"," "," ","s¸«¼{°}nd±¿«$b°foº´$ìá{°«}st","MS",726
+"Sunday before last","VA74A","293","O","N"," "," ","s³{°}nd±¿«$b°foº°$ìáº{°}st","MS",727
+"Sunday week","VA74B!","294!","O","N"," "," ","õs¸«¼{°}nd±¿$åwi½jk","MS",728
+"Sunday week","VA75A","297","O","N"," "," ","õs³{°}nd±¿İ{±¿«}$åw±«jk","MS",729
+"Sunday before last","VA75B","298","O","N"," "," ","ås³{°}nd±¿İ{±¿«}$b±¿«fo´$ìá¾º{°}s{t}","MS",730
+"Sunday fore last","NC1","303","O","N"," "," ","s¸«{°}nd±¿$fo{°}´$lá¾{±¿½}s{t}","MS",731
+"Sunday afore last","NC2A","301","O","N"," "," ","s¸«nd±¿$°fo{°}´$láº{°}s{t}","MS",732
+"Sunday week","NC2A","301","O","N"," "," ","s¸«nd±¿$wi½jk","MS",732
+"Sunday before last","NC2B","304","O","N"," "," ","s¸ş{°ş}nd±¿$b±¿foº{°}$lá{±¿½}s{t}","MS",733
+"Sunday before last","NC3A","305","O","N"," "," ","s¸«nd±¿$b±¿fo°$lá{±¿½}s{t}","MS",734
+"Sunday before last","NC3B","306","O","N"," "," ","s¸nd±¿$b±¿fo°$láº{°}s{t}","MS",735
+"Sunday week ago","NC3B","306","O","N"," "," ","s¸nd±¿$wi{j}k$°g¤©—","MS",735
+"Sunday before last","NC4A","307","O","N"," "," ","s¸nd±¿${b}fo°{°}$lá{±¿½}s{t}","MS",736
+"Sunday before last","NC4B","308","O","N"," "," ","s¸—«nd±¿$b±¿fo{°«}$lá{±¿}s{t}","MS",737
+"Sunday before last","NC5A","309","O","N"," "," ","s¸«nd±¿$b±¿foº{°}$lá±¿s{t}","MS",738
+"Sunday before last","NC5B","310","O","N"," "," ","s¸ş«{°ş}nd±¿$b±¿foº{°}$lá±¿s{t}","MS",739
+"Sunday before last","NC6!","311!","O","N"," "," ","s¸—«{°}nd±¿$b±¿fo½°½¾$lá{±¿½}s{t}","MS",740
+"Sunday week","NC7A","315(*)","O","N"," "," ","s¸«ºnd±¿$wiºk","MS",741
+"Sunday before last","NC7B","316","O","N"," "," ","s¸şn{d}±¿«$b±¿foº°$lá{±¿½}s{t}","MS",742
+"Sunday before last","NC8N","N317","O","N"," "," ","s¸«nd±¿$b±¿foº$láº{°«¼}s{t}","MS",743
+"last Sunday week","NC8A","317","O","N"," "," ","lá±¿«st$s¸«nd±¿$wi½{j}k","MS",744
+"Sunday before last","NC8B","318(*)","O","N"," "," ","s¸«{°}nd±¿$b±¿fo{¹}$lá{°}st","MS",745
+"Sunday before last","NC9A","319","O","N"," "," ","s¸—«{°}nd±¿$b±¿foº{°}$lá{±¿½}s{t}","MS",746
+"Sunday a week ago","NC9B","320","O","N"," "," ","s¸«¼nd±¿$wˆi{j}k$°go¿½¼¹«¼","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"Sunday a week","NC10B","323","O","N"," "," ","s³nd±¿$ö±«j'k","MS",749
+"Sunday before last","NC10C","322","O","N"," "," ","s¸ş{°ş}nd±¿$b±¿f·«º´$lá{°«¼}s{t}","MS",750
+"Sunday before last","NC11A","325","O","N"," "," ","s¸½{°}nd±¿$b±¿fo½{o}´$láº{°½}st","MS",751
+"Sunday before last","NC11B","326","O","N"," "," ","s¸{°}nd±¿$b±¿fo½{o}´$lá{°}st","MS",752
+"Sunday before last","NC12A","327(*)","O","N"," "," ","s¸ş«{°ş}nd±¿$b±¿foº{´}$lá{±¿½}s{t}","MS",753
+"Sunday before last","NC12B","328","O","N"," "," ","s¸—nd±¿$b±¿fo°$lá{±¿½}s{t}","MS",754
+"Sunday before last","NC13A","329","O","N"," "," ","s¸—ş«{°ş}nd±¿«${b}{°}fo´$lá¾±¿«st","MS",755
+"Sunday before last","NC13B","330(*)","O","N"," "," ","s¸ş«{°ş}nd±¿$b±¿fo½{¹}´$lá{±¿½¾}s{t}","MS",756
+"Sunday before last","NC14N","N331","O","N"," "," ","s¸«¼nd±¿$b±¿fo{¹}$lá{°«¼}s{t}","MS",757
+"Sunday before last","NC14A","331","O","N"," "," ","s¸nd±¿$b±¿foº°$lá{±¿½}s{t}","MS",758
+"Sunday before last","NC14B","332","O","N"," "," ","s¸nd±¿$b±¿fo°$lás{t}","MS",759
+"Sunday a week ago","NC14B","332","O","N"," "," ","s¸nd±¿$°$wi½jk$°g·«¹","MS",759
+"Sunday before last","NC14C!","333!","O","N"," "," ","s¸—nd±¿$b±¿fo½{¹}°$lá{°«¼}s{t}","MS",760
+"Sunday week","NC15A","335(*)","O","N"," "," ","s¸«nd±¿«¼$wi{i«}k","MS",761
+"Sunday before last","NC15B","336","O","N"," "," ","s¸«¼nd±¿$b±¿fo½¼{¹}´$lá{±¿}st","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"Sunday before last","NC16A","339(*)","O","N"," "," ","s¸ş«{°ş}nd±¿$b±¿fo{¹}{°}$lá±¿«s{t}","MS",764
+"Sunday before last","NC16B","340","O","N"," "," ","s¸ş«¼{°ş}nd±¿$b±¿foº°$lá{°}st","MS",765
+"Sunday before last","NC17A","337","O","N"," "," ","s¸—«nd±¿$b±¿fo{¹}{°}$lá{°«¼}st","MS",766
+"Sunday before last","NC17B","338","O","N"," "," ","s¸nd±¿$b±¿fo{¹}{°}$lá{°}st","MS",767
+"Sunday before last","NC18A","341","O","N"," "," ","s¸«nd±¿$b±¿fo{°}$lá«¼º{²¾}s{t}","MS",768
+"Sunday a week ago","NC18B","342","O","N"," "," ","s¸nd±¿$°$wi½¾{j}k$°go","MS",769
+"Sunday before last","NC19A","343","O","N"," "," ","s¸«{°}nd±¿$b±¿foº´$láº{±¿½}st","MS",770
+"Sunday before last","NC19B","344","O","N"," "," ","s¸{°}nd±¿$b±¿fo{¹}{°}$lá{°«¼}st","MS",771
+"Sunday before","NC20A","345","O","N"," "," ","s¸nd±¿$b°fo´","MS",772
+"Sunday week","NC20A","345","O","Y"," ","SUG","s¸nd±¿$wi½ik","MS",772
+"Sunday before last","NC20B","346a","O","N"," "," ","s¸şnd±¿$b°foº´$lá{°}st","MS",773
+"Sunday before last","NC20C","346b","O","N"," "," ","s¸nd±¿$b±¿½fo{¹}´$láº{°«¼}s{t}","MS",774
+"Sunday before last","NC21A","347","O","N"," "," ","s¸«nd±¿$b±¿fo{´}$lá«¼º{°}st","MS",775
+"Sunday before last","NC21B","348","O","N"," "," ","s¸{°}nd±¿$b±¿foº´$lá{±¿}s{t}","MS",776
+"Sunday week","NC22A","349","O","N"," "," ","s¸«nd±¿$wiºk","MS",777
+"Sunday before last","NC22B","349b","O","N"," "," ","s¸nd±¿$b±¿foº°$lá{°}s{t}","MS",778
+"Sunday before last","NC23A","351a","O","N"," "," ","s¸nd±¿$b±¿foº°$lá{°}st","MS",779
+"Sunday before last","NC23B","351b(*)","O","N"," "," ","s¸nd±¿$b±¿foº°$lá«º{°}st","MS",780
+"Sunday before last","NC23C!","351c!","O","N"," "," ","s¸nd±¿$b±¿fo{°}$lá{°}s{t}","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"Sunday before last","NC24N","N352","O","N"," "," ","s¸nd±¿«¼$b±¿foº$lás","MS",783
+"Sunday before last","NC24A","352a","O","N"," "," ","s¸«¼nd±¿$b°foº{°}$láº{°«¼}s{t}","MS",784
+"Sunday before last","NC24B","352b","O","N"," "," ","s¸nd±¿$b±¿foº´$lá½¾{°}s{t}","MS",785
+"Sunday week ago","NC24B","352b","O","N"," "," ","s¸nd±¿$wi{j}k$°go{¹}","MS",785
+"Sunday week","NC25N","N353","O","N"," "," ","s¦nd±¿$wiºk","MS",786
+"Sunday before last","NC25A","353","O","N"," "," ","s¸nd±¿$b±¿fo½º´$lá{°}st","MS",787
+"Sunday week","NC25B","354","O","N"," "," ","s¸«nd±¿$wiºk","MS",788
+"Sunday before last","NC26A","355a","O","N"," "," ","s¸«nd±¿$b°foº{¹}$láº±¿¼st","MS",789
+"Sunday before last","NC26B","355b","O","N"," "," ","s¸—¾{°}nd±¿$b±¿fo{°}$lá{±¿½}s{t}","MS",790
+"Sunday before last","NC26C!","356!","O","N"," "," ","s¸nd±¿$b±¿fo°$lá{°}st","MS",791
+"Sunday week","NC27A","357","O","N"," "," ","s¸«¼nd±¿$wi¾jk","MS",792
+"Sunday before last","NC27B","258","O","N"," "," ","s¸«¼nd±¿$b±¿foº´$lá{°}st","MS",793
+"Sunday afore last","NC28A","361","O","N"," "," ","s¸«nd±¿$°İfoº{´}$láº{°«¼}s{t}","MS",794
+"on Sunday week","NC28B","361b","O","N"," "," ","°$s¸«¼nd±¿$wi¾{j}k","MS",795
+"Sunday a week ago","NC28C","362","O","N"," "," ","s¸«¼nd±¿$°$wi¾{j}k$°go¼{¹}","MS",796
+"Sunday before last","NC29A","363(*)","O","N"," "," ","s¸«nd±¿$b±¿fo´$lá{°}s{t}","MS",797
+"Sunday before last","NC29B","364","O","N"," "," ","s¸¼nd±¿$b±¿foº´$ìá{±¿½}s{t}","MS",798
+"Sunday fore last","NC30A","365","O","N"," "," ","s¸nd±¿$fo°$lá{±¿}s{t}","MS",799
+"Sunday before last","NC30B","366","O","N"," "," ","s³—{°}nd±¿$b±¿fo°$láº{°«¾}s{t}","MS",800
+"Sunday a week ago","NC31A","367","O","N"," "," ","s³nd±¿$°$wi{j}k$°go¼¹","MS",801
+"Sunday a week","NC31B","368","O","N"," "," ","s³—{°}nd±¿$°$wi½{i}k","MS",802
+"Sunday before last","NC31B","368","O","N"," "," ","s³—{°}nd±¿$b±¿fo°$lá{°}s{t}","MS",802
+"Sunday week","NC32A","369","O","N"," "," ","s¸«ºnd±¿$wi½{i}k","MS",803
+"Sunday before last","NC32B!","370!","O","N"," "," ","s¸—«¼{°}nd±¿$b±¿fo°$lá{°}s{t}","MS",804
+"Sunday week ago","NC32B!","370!","O","N"," "," ","s¸—«¼{°}nd±¿$wi{j}k$°go¿½¾¹","MS",804
+"Sunday before last","NC33A","373","O","N"," "," ","s³{°}nd±¿$b±¿foº´$lá±¿st","MS",805
+"last Sunday week","NC33B","374","O","N"," "," ","lá«{±¿}s{t}$s³—{°}nd±¿$wi½¾ºk","MS",806
+"last Sunday week","NC34A","375","O","N"," "," ","láº±¿«s{t}$s¸«{°}nd±¿$wi½ik","MS",807
+"Sunday before last","NC34B","376","O","N"," "," ","s¸—«nd±¿$b±¿fo{¹}$lá{±¿½}s{t}","MS",808
+"Sunday week","NC35A","377","O","N"," "," ","s¸«nd±¿$wik","MS",809
+"Sunday before last","NC35B","378","O","N"," "," ","s³º{°}nd±¿$b°fo{¹}°$lá{°}st","MS",810
+"Sunday before last","NC35B","378","O","Y"," ","OLD","s³º{°}nd±¿$b°fo{¹}°$láº±¿st","MS",810
+"Sunday fore last","NC36N","N381","O","N"," "," ","s¸ş«nd±¿$fo«º$láºs","MS",811
+"Sunday week","NC36A","381","O","N"," "," ","s¸«nd±¿$wiº{j}k","MS",812
+"Sunday before last","NC36B","382","O","N"," "," ","s¸«nd±¿$b±¿fo{°}$lá«º{°}s{t}","MS",813
+"Sunday before last","NC37A","383","O","N"," "," ","s¸«nd±¿$b±¿fo{¹}$lá«º{°}s{t}","MS",814
+"Sunday before last","NC37B","384","O","N"," "," ","s¸«{°}nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",815
+"Sunday before last","NC38N","N385","O","N"," "," ","s¸şnd±¿$b±¿fo½{°}$láº{°}s","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"Sunday before last","NC38B","386","O","N"," "," ","s¸—«nd±¿$b±¿fo{¹}{°}$lá{°«¼}s{t}","MS",818
+"Sunday before last","NC39A","389","O","N"," "," ","s¸«nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",819
+"Sunday before last","NC39B!","390!","O","N"," "," ","s¸nd±¿$b±¿fo{¹½}$lá{°}s{t}","MS",820
+"Sunday week","NC40A","391","O","N"," "," ","s¸«nd±¿$wi½ºk","MS",821
+"Sunday before last","NC40A","391","O","N"," "," ","s¸«nd±¿$b°fo{°}$lá{±¿}s{t}","MS",821
+"Sunday before last","NC40B","392","O","N"," "," ","s¸«{°}nd±¿$b±¿fo{°}$láº{°«¼}s{t}","MS",822
+"Sunday before last","NC41!","393!","O","N"," "," ","s¸«nd±¿$b±¿fo{¹}°$lá{°}st","MS",823
+"Sunday before last","NC42A","403","O","N"," "," ","s¸—«¼nd±¿$b±¿foº{°}$lá{°«¼}st","MS",824
+"Sunday before last","NC42B","404(*)","O","N"," "," ","s¸—nd±¿$b±¿foº°$lá{°«}st","MS",825
+"last Sunday week","NC42B","404(*)","O","N"," "," ","lá{°«}st$s¸«nd±¿$wi{j}k","MS",825
+"Sunday before last","NC43A","397","O","N"," "," ","s¸—«nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",826
+"Sunday before last","NC43B","398","O","N"," "," ","s¸«nd±¿$b±¿fo{¹}$lá{°«¼}st","MS",827
+"Sunday before last","NC44","410(*)","O","N"," "," ","s¸«nd±¿$b±¿fo{¹}$lá{°}s{t}","MS",828
+"Sunday before last","NC45A","409(*)","O","N"," "," ","s¸«nd±¿$b±¿foº{¹}$lást","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"Sunday was a week ago","NC46A","411","S","N"," "," ","s¸«nd±¿$w°z$°$wijk$°go¹","MS",831
+"Sunday a week ago","NC46B","412","O","N"," "," ","s¸«nd±¿$°$wi½jk$g–go¹","MS",832
+"Sunday before last","NC46C!","412b!","O","N"," "," ","s¸—«nd±¿$b±¿fo°$lá{°}s{t}","MS",833
+"Sunday week","NC47","413","O","N"," "," ","s¸«¼º{°}nd±¿$wijk","MS",834
+"Sunday before last","NC48","418","O","N"," "," ","s¸«nd±¿$b±¿fo{¹}´$lá{°«¼}st","MS",835
+"Sunday before last","NC49","421","O","N"," "," ","s¸—«¼nd±¿«$b°fo½º´$lá{°«¼}s{t}","MS",836
+"Sunday before last","NC50A","422","O","N"," "," ","s¸«nd±¿$b°fo{°}$lá{°«}s{t}","MS",837
+"Sunday before last","NC50B!","423!","O","N"," "," ","s¸«¼nd±¿$b±¿fo{°}$lá{±¿½}st","MS",838
+"Sunday before last","NC51A","427","O","N"," "," ","s¸«¼nd±¿$b±¿foº´$láº{±¿½}s{t}","MS",839
+"Sunday before last","NC51B","428","O","N"," "," ","s¸«nd±¿$b±¿fo°$lá{°}st","MS",840
+"Sunday before last","NC52N","N429","O","N"," "," ","s¸«nd±¿$b±¿fo«$lá{°«¼}s{t}","MS",841
+"Sunday before last","NC52A","429","O","N"," "," ","s¸«nd±¿$b°foº´$láº{±¿½}st","MS",842
+"Sunday before last","NC52B","430","O","N"," "," ","s¸«¼nd±¿$b±¿fo{¹}$lá«{°«}s{t}","MS",843
+"Sunday was a week","NC53A","431","S","N"," "," ","s¸ş«¼nd±¿$w°z$°$wi{j}k","MS",844
+"Sunday before last","NC53B","432","O","N"," "," ","s¸«¼nd±¿$b±¿foº°$láº{°«}s{t}","MS",845
+"Sunday a week","NC54A","433","O","N"," "," ","s¸—«¼{°}nd±¿$°$wijk","MS",846
+"Sunday before last","NC54B","434","O","N"," "," ","s¸«¼nd±¿$b±¿foº´$láº{±¿}s{t}","MS",847
+"Sunday before last","NC55","435","O","N"," "," ","s¸«nd±¿«$b°fo½º´$lá{±¿½}st","MS",848
+"Sunday a week ago","NC56A","436","O","N"," "," ","s¸«nd±¿$°İ$wi{j}k$°go½¼{¹}","MS",849
+"Sunday before last","NC56B!","437!","O","N"," "," ","s¸«nd±¿$b±¿fo°$lá{°}st","MS",850
+"Sunday before last","NC57A","438a","O","N"," "," ","s¸«nd±¿$b±¿foº°$lá{°}s{t}","MS",851
+"Sunday before last","NC57B","438b","O","N"," "," ","s¸«nd±¿$b±¿fo{°}$lá{°}s{t}","MS",852
+"Sunday before last","NC58A","439","O","N"," "," ","s¸ş«nd±¿$b±¿fo{¹}´$lá{±¿½}s{t}","MS",853
+"last Sunday week","NC58B","440","O","N"," "," ","lá{°«¼}s{t}$s¸—«nd±¿$wi{j}k","MS",854
+"last Sunday was a week ago","NC58B","440","S","N"," "," ","lá{°«¼}s{t}$s¸—«nd±¿$w°z$°$wi{j}k$°go½¹","MS",854
+"Sunday week","NC59","441(*)","O","Y"," ","AUX","s¸«º{°}nd±¿$wijk","MS",855
+"Sunday before last","NC60","442","O","N"," "," ","s¸—«nd±¿$b±¿foº°$lá{°}st","MS",856
+"Sunday was a week ago","NC61A","443","S","N"," "," ","s¸nd±¿«$w°z$°$wi{j}k$°goº{¹}","MS",857
+"Sunday before last","NC61A","443","O","N"," "," ","s¸«nd±¿«$b°foº´$láºst","MS",857
+"Sunday before last","NC61B","444","O","N"," "," ","s¸«nd±¿$b°fo½º´$lá{°«}s{t}","MS",858
+"Sunday before last","NC62A","447","O","N"," "," ","s¸«{°}nd±¿$b±¿fo½º´$lá{±¿}s{t}","MS",859
+"last Sunday week","NC62B","448","O","N"," "," ","lá{±¿}st$s¸«nd±¿$wi½¾{j}k","MS",860
+"Sunday a week ago","NC63A","449","O","N"," "," ","s¸«nd±¿$°$wi½{j}k$°go½º{¹}","MS",861
+"last Sunday week","NC63B","450","O","N"," "," ","lá{±¿}s{t}$s¸«{°}nd±¿$wi½{j}k","MS",862
+"Sunday a week","NC64A","453","O","N"," "," ","s¸«nd±¿«$°$wi¾ºk","MS",863
+"Sunday before last","NC64B","454","O","N"," "," ","s¸nd±¿$b±¿foº´$lá{°¾}st","MS",864
+"Sunday a week ago","NC65A","461","O","N"," "," ","s¸—«{°}nd±¿«$°$wi½{j}k$°go½º¹","MS",865
+"Sunday a week ago","NC65A","461","O","N"," "," ","s¸—«{°}nd±¿«$°$wi½{j}k$°go½¼º¹","MS",865
+"last Sunday is a week","NC65B","462","S","N"," "," ","lást$s¸«¼{°}nd±¿$±¿z$°$wijk","MS",866
+"Sunday before last","NC66A","465","O","N"," "," ","s¸«nd±¿$b°fo½º´$lá{°}st","MS",867
+"Sunday before last","NC66B","466","O","N"," "," ","s¸«nd±¿«$b±¿fo{¹}´$lá±¿st","MS",868
+"Sunday before last","NC67A","469","O","N"," "," ","s¸«nd±¿$b±¿fo½º´$láº{°«¼}s{t}","MS",869
+"Sunday week","NC67B","470","O","N"," "," ","s¸«{°}nd±¿$wijk","MS",870
+"Sunday was a week ago","NC68A","473","S","N"," "," ","s¸—«nd±¿$°z$°$wijk$°go½¹","MS",871
+"Sunday before last","NC68B","474","O","N"," "," ","s¸—«{°}nd±¿$b°fo´$lá±¿½st","MS",872
+"Sunday before last","NC69A","477","O","N"," "," ","s¸—«nd±¿«$b°fo½º´$lá{°}s{t}","MS",873
+"Sunday week","NC69B","478","O","N"," "," ","s¸«¼º{°}nd±¿$wijk","MS",874
+"Sunday before last","NC70A","479","O","N"," "," ","s¸«{°}nd±¿$b±¿fo´$lá«±¿st","MS",875
+"Sunday before last","NC70B","480","O","N"," "," ","s¸«{°}nd±¿«$b±¿fo´$lá{±¿}s{t}","MS",876
+"Sunday before last","NC71A","481","O","N"," "," ","s¸—«{°}nd±¿$b{°}foº´$lá{±¿½}st","MS",877
+"Sunday before last","NC71B","482","O","N"," "," ","s¸¾nd±¿$b°fo´$lá{°«¼}s{t}","MS",878
+"Sunday before last","NC71C!","483!","O","N"," "," ","s¸—«nd±¿$b°foº´$lá{°«¼}s{t}","MS",879
+"last Sunday week","NC72A","487","O","N"," "," ","lá±¿s{t}$s¸—«nd±¿$wi½{j}k","MS",880
+"Sunday was a week","NC72B","488","S","N"," "," ","s¸«nd±¿$°z$°$wijk","MS",881
+"Sunday before last","NC73A","491","O","N"," "," ","s¸—«nd±¿$b°fo½º´$lá±¿st","MS",882
+"Sunday a week ago","NC73A","491","O","N"," "," ","s¸—«nd±¿$°$wi½jk$°go¹","MS",882
+"last Sunday week","NC73B","492","O","N"," "," ","õlá{°}s{t}$s¸«nd±¿$åwijk","MS",883
+"Sunday a week","NC74A","493","O","N"," "," ","s¸—«nd±¿«$°$wijk","MS",884
+"Sunday before last","NC74B","494","O","N"," "," ","s¸—«nd±¿$b°foº´$lá{±¿½}st","MS",885
+"Sunday was a week ago","NC75A","495","S","N"," "," ","s¸—«nd±¿«$w°z$°$wi½¾ik$°go{¹}","MS",886
+"Sunday before last","NC75B","496","O","N"," "," ","s¸«nd±¿$b±¿fo½´$lá±¿st","MS",887
+"Sunday before last","SC1A","203.1","O","N"," "," ","s³şnd±¿«$b±¿fo¼º{¹}$lá½¾st","MS",888
+"Sunday before last","SC1B","203.2","O","N"," "," ","s¸—«nd±¿$b±¿fo{°}$lá{°«¼}s{t}","MS",889
+"Sunday was a week ago","SC2A","204.1(*)","S","N"," "," ","õs¸«¼nd±¿$w°z$°$õwi½¾{i}k$°ågo¼{¹¼}","MS",890
+"Sunday before last","SC2B","204.2","O","N"," "," ","s¸«¼nd±¿$b±¿fo{¹}$lá«ºst","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"Sunday week","SC3A","205.1","O","N"," "," ","s¸«nd±¿$wiºk","MS",893
+"NR","SC3B","205.2"," ","N"," "," "," ","MS",894
+"Sunday before last","SC3C!","205.3!","O","N"," "," ","s¦½{°}nd±¿«¼$b±¿åfo¼º°İ$õlá{°}s","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"Sunday a week ago","SC4B","206.2","O","N"," "," ","ås¸«{°}nd±¿«¼$°$åwiºk$°õgoº{°}","MS",897
+"Sunday before last","SC4B","206.2","O","N"," "," ","ås¸«{°}nd±¿«¼$b±¿åfoº$õlá½{°}s","MS",897
+"Thursday a week ago","SC4C","206.3","O","N"," "," ","ù³¾º{°«}zd±¿«¼$°$åwiº{j}k$°õgo¼º","MS",898
+"Sunday was a week ago","SC5A","207.1","S","N"," "," ","ås¸«¾nd±¿«¼$w°«z$°$åwiºk$°õgo«¼º","MS",899
+"Saturday before","SC5B","207.2","O","N"," "," ","åsá½ñ°d±¿«¼$b°åfoº°","MS",900
+"a week or two ago","SC5B","207.2","O","N"," ","CNV","°$åwiºk$°$õt`u¿$°ågoº","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"Sunday week","SC5D!","207.3!","O","N"," "," ","s¸¾{°}nd±¿«¼$åwiº{±¿}k","MS",902
+"NA","SC6N","N208"," ","N"," "," "," ","MS",903
+"Sunday a week ago","SC6A","208.1","O","N"," "," ","s¸«{°}nd±¿$°$wik$°goİ¼oİ","MS",904
+"Sunday week ago","SC6A","208.1","O","N","quick"," ","s¸«{°}nd±¿$wi{xˆ}$°goİ¼oİ","MS",904
+"June was a year ago","SC6B","208.2(*)","S","N"," ","CNV","ådúu¿ºn$w°«z$°åj³«¼ºr°õgo¼º","MS",905
+"Sunday a week ago","SC6C!","208.3!","O","N"," "," ","ås¸½nd±¿«¼$°$åwiºk$°õgo¼º","MS",906
+"NR","SC6D"," "," ","N"," "," "," ","MS",907
+"NR","SC7N","N209"," ","N"," "," "," ","MS",908
+"NR","SC7A","209.1"," ","N"," "," "," ","MS",909
+"Tuesday last","SC7B","209.2","O","N"," "," ","åt`{j}u¿¼ºwzd±¿«¼$õlá{°}st","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"a week ago","SC7D!","209.4!","O","N"," "," ","°$åwiºk$°õgo¼º","MS",912
+"last Sunday a week ago","SC8A","210.1","O","N"," "," ","ålá½{°}s$õs¸«¼{°}nd±¿«¼$°$åwiºk$°õgo¼º","MS",913
+"Sunday a week ago","SC8B","210.2","O","N"," "," ","s¸«¼nd±¿«¼z$°$åwiºk$°õgoº","MS",914
+"Sunday a week ago","SC8C","210.3","O","N"," "," ","ås¸«{°}nd±¿«¼$°$wiºk°ågo—«º","MS",915
+"Sunday a week ago","SC9A","211.1","O","N"," "," ","ås¸«{°}nd±¿«¼$°õwiºk$°ågo","MS",916
+"Sunday fore last","SC9B","211.2","O","N"," "," ","õs¸«¼{°}nd±¿«¼$åfo«º°$õlá«{°}s","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"NA","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NA","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"Sunday week","SC11N","N213","O","N"," "," ","s¸½nd±¿$âik","MS",923
+"Sunday a week ago","SC11M!","2n213!","O","N"," "," ","s¸½¼nd±¿$°İ$åwiºk°õgo«¼º","MS",924
+"Sunday before last","SC11M!","2n213!","O","N"," "," ","s¸¼nd±¿«¼$b±¿åfo«¼º°$láº{°}st","MS",924
+"Sunday a week ago","SC11A","213.1(*)","O","N"," "," ","ås¸¼nd±¿«¼$°$åwiºjk$°gˆo«¼º{°}","MS",925
+"Sunday before","SC11A","213.1(*)","O","N"," "," ","s¸«¼nd±¿«¼$b±¿½¼fo½¼º{°}","MS",925
+"Sunday before","SC11A","213.1(*)","O","N"," "," ","s¸«¼nd±¿«¼$b±¿½¼åfo½¼º°","MS",925
+"NR","SC11B","213.11"," ","N"," "," "," ","MS",926
+"Sunday before that","SC11C","213.2","O","N"," "," ","ås¸¼nd±¿«¼$b±¿åfo«¼º{°}$äá½t","MS",927
+"Sunday a week ago","SC11C","213.2","O","N"," "," ","ås¸¼nd±¿«¼$°$åwiºk$°õgo«¼","MS",927
+"Sunday before last","SC11D","213.3","O","N"," "," ","ås¸¼nd±¿¼$b°«åfo«¼º°$õlá½º{°}st","MS",928
+"Sunday a week ago","SC11D","213.3","O","N"," "," ","ås¸¼nd±¿¼$°$åwiºk$°õgo«¼º{°}","MS",928
+"last Saturday gone","SC11E","213.4","O","N"," ","CNV","õlá½º{°}s$åsá½ñ°de$åg·«¼º{°}n","MS",929
+"NA","SC11F","213.5"," ","N"," "," "," ","MS",930
+"Sunday before last","SC11G!","213.7!","O","N"," "," ","ås¸¼nd±¿$b±¿åfo¼º°$õlá½{°}st","MS",931
+"Sunday a week ago","SC11G!","213.7!","O","N"," "," ","s¥«nd±¿«¼$°$åwiºjk$°õgo«¼º","MS",931
+"Sunday a week ago","SC11H!","213.8!","O","N"," "," ","s¸½¼nd±¿$°İ$åwiºk°õgo«¼º","MS",932
+"Sunday week","SC11I!","213.9!","O","N"," "," ","s¸½nd±¿$wik","MS",933
+"Sunday before","SC11J!","213.10!","O","N"," "," ","ås¸¼nd±¿«¼$b°«åfo¼º°","MS",934
+"Sunday a week ago","SC11J!","213.10!","O","N"," "," ","s¸½nd±¿«¼$°$åwiºjk$°gˆo«¼º°","MS",934
+"Sunday before last","SC11J!","213.10!","O","N"," "," ","ås¸¼nd±¿«¼$b±¿õfo½¼º{°}$åláº{°}st","MS",934
+"NR","SC12A","214.1"," ","N"," "," "," ","MS",935
+"Sunday week","SC12B","214.2","O","N"," "," ","õs¸«{°}nd±¿$åâiºkˆ","MS",936
+"Sunday a week","SC12B","214.2","O","Y"," ","SUG","õs¸«{°}nd±¿$°$åâiºkˆ","MS",936
+"NR","SC13","213.6"," ","N"," "," "," ","MS",937
+"Sunday week ago","SC14A","215.1","O","N"," "," ","s¸½nd±¿$wikˆ$°goº","MS",938
+"Sunday week","SC14A","215.1","O","Y"," ","SUG","s¸½nd±¿$â—ikˆ","MS",938
+"NR","SC14B","215.2"," ","N"," "," "," ","MS",939
+"Monday's a week ago","SC15A","216.1","S","Y"," ","SUG","m¸«¼{°}nd±¿«¼z$°$åwiºk°õgo«º","MS",940
+"the previous Monday","SC15A","216.1","O","N"," "," ","ä±¿$åpòiºv±¿«¼°s$õm¸«¼{°}nd±¿«¼","MS",940
+"Thursday the fifth","SC15A","216.1","O","N"," "," ","åù³«¾±¿zd±¿«¼$d‘±¿«¼$åf±{°}f","MS",940
+"Sunday a week ago","SC15B","216.2","O","N"," "," ","ås¸«¼{°}nd±¿«¼$°$õwiºk$°ågo«º{°—}","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"last Sunday week","SC16N","N217","O","N"," "," ","ålá{°}$õs¦½{°}nd±¿«¼$åwiºk","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"NR","SC17A","218.1"," ","N"," "," "," ","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"Sunday fore last","SC17D","218.4","O","N"," "," ","õs¦½{°}nd±¿«¼$åfoº{°}$õlá{°}st","MS",948
+"Sunday a week ago","SC18N","N219","O","N"," "," ","ås¸«nd±¿«¼$°$wiºk$°gˆo«¼º{°}","MS",949
+"Sunday before","SC18A","219.1","O","N"," "," ","ås¸«nd±¿«¼$b±¿«fo«¼º","MS",950
+"Sunday a week ago","SC18A","219.1","O","N"," "," ","ås¸«nd±¿«¼$°åwiºk$°õgo«¼º","MS",950
+"Sunday before","SC18B","219.2","O","N"," "," ","ås¸«nd±¿«¼$b°İåfo½¼º{°}","MS",951
+"Sunday before last","SC18C!","219.3(*)!","O","N"," "," ","s¸«nd±¿«¼$b±¿åfo«¼º{°}$lá«º{²}s","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"Sunday before the last","SC19B","220.4","O","N"," "," ","s¸«¼nd±¿¼$b±¿åfo«¼º$ä±¿«¼$ålá«{²}st","MS",956
+"Sunday before last","SC19B","220.4","O","N"," "," ","s¸«¼nd±¿¼$b±¿åfo«¼{°}$lá«{²}s","MS",956
+"NR","SC19C","220.2(*)"," ","N"," "," "," ","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"Sunday before last","SC20A","221.1","O","N"," "," ","s¦½nd±¿«¼$b±¿«¼åfo¼º¹¼$õla«{²}s","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"Sunday before last","SC20C","221.3","O","N"," "," ","õs¦½nd±¿«¼$b±¿«¼åfo¼º¹¼$õláº{²}s","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"Sunday before last","SC21A","222.1","O","N"," "," ","s¸ş«¼nd±¿$b±¿foº´$lá¾±¿«st","MS",964
+"Sunday was a week ago","SC21A","222.1","S","N"," "," ","s¸ş«¼nd±¿$w°z$°$wi{j}k$°go¼{¹}","MS",964
+"Sunday before last","SC21B","222.2","O","N"," "," ","s¸«nd±¿$b°åfo½°$lá{°}s{t}","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"Sunday's a week","SC22A","223.1","O","N"," "," ","ås¸«¼nd±¿«¼z$°õwiºk","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"NR","SC22C!","223.3!"," ","N"," "," "," ","MS",969
+"Sunday a week ago","SC23A","224.1","O","Y"," ","HES","ås¸«{°}nd±¿«¼$°$åwiºk$°õgo«¼º{°—}","MS",970
+"Sunday before last","SC23B","224.2","O","N"," "," ","s¦{°}nd±¿«¼$b±¿õfo¼º°$ålá«{°}s","MS",971
+"NR","SC23C","224.3"," ","N"," "," "," ","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NA","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"NR","SC24A","225.1"," ","N"," "," "," ","MS",976
+"NR","SC24B","225.11"," ","N"," "," "," ","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"Sunday a week ago","SC25A","226.1","O","N"," "," ","õs¸«ºnd±¿$°$õwik$°ågoº","MS",980
+"Sunday a week ago","SC25B","226.2","O","N"," "," ","ås¦½nd±¿«¼$°İåwiºk$°õgo«¼º","MS",981
+"Sunday before last","SC25C!","226.3!","O","N"," "," ","s¦½nd±¿$b°İfo¼º$ålá{²}st","MS",982
+"a week ago Sunday","SC25C!","226.3!","O","N"," "," ","°$åwi«ºk$°õgo¼º$s¦½{°}nd±¿","MS",982
+"Sunday a week ago","SC26A","227.1","O","N"," "," ","ås¸«¼nd±¿«¼$°$õwiºk$°ågo¼º","MS",983
+"Sunday before last","SC26B!","227.2!","O","N"," "," ","ås¸«nd±¿«¼$b°õfo¼$ålá{°}st","MS",984
+"two weeks ago","SC27A","228.1","O","N"," "," ","åtu¿º$õwiºks$°ågo","MS",985
+"Sunday before last","SC27B","228.2","O","N"," "," ","s¦½{°}nd±¿«¼$b±¿«¼åfo¼º$õlá{°}s","MS",986
+"last Sunday week","SC27B","228.2","O","N"," "," ","lá{°}s$s¦½{°}nd±¿«¼$åwiºk","MS",986
+"Sunday before last","SC28A","229.1","O","N"," "," ","ås¦½{°}nd±¿«¼$b±¿åfo¼º$õlá{²}s","MS",987
+"Sunday a week ago","SC28A","229.1","O","N"," "," ","ås¦½{°}nd±¿$°$åwi½k$°õgo¼º","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"Sunday week","SC28C","229.2","O","N"," "," ","õs¦½{°}nd±¿«¼$åwiºk","MS",989
+"Sunday fore last","SC28C","229.2","O","N"," "," ","s¦½{°}n{d}±¿«¼$åfo¼º$õlá«{²}s","MS",989
+"NR","SC28D","229.3"," ","N"," "," "," ","MS",990
+"NA","SC29A","230.2(*)"," ","N"," "," "," ","MS",991
+"Sunday is a week ago","SC29B","230.1(*)","S","N"," "," ","s¦½{°}nd±¿«¼$°«z$°åwiºk$°ågo¼º","MS",992
+"Sunday before last","SC29C","230.3","O","N"," "," ","õs¦½{°}nd±¿«¼$b±¿åfo½¼º°$õláº{°}s","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"Sunday week","SC30A","231.1","O","N"," "," ","õs¸«¼nd±¿$åwijk","MS",996
+"this last past Sunday","SC30B","231.2","S","N"," "," ","ä±¿s$ålá{²}s$åp`á{²}s$ås¦½nd±¿¼","MS",997
+"Sunday a week","SC30B","231.2","O","N"," "," ","s¦½nd±¿¼$°$wiºjk","MS",997
+"Sunday before last","SC30B","231.2","O","N"," "," ","s¦½nd±¿¼$b°åfo¼º¹¼$lá{²}st","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"Sunday's a week ago","SC31A","232.1","O","N"," "," ","ås¦½{°}nd±¿¼z$°$õwiºk°ågo¼º","MS",999
+"Sunday a week ago","SC31B","232.2","O","N"," "," ","ås¦½{°}nd±¿«¼$°$õwiºk$°åg¹—½º","MS",1000
+"Thursday before","SC32A","233.1","O","N"," "," ","åù³—«º±¿zd±¿«¼$b±¿åfo¼º¹¼","MS",1001
+"Thursday a week ago","SC32A","233.1","O","N"," "," ","ù³—«±¿zd±¿«¼$°$åwiºjk$°õgo¼º¹¼","MS",1001
+"NA","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"NR","SC32C","233.3"," ","N"," "," "," ","MS",1003
+"Thursday a week ago","SC32D","233.4","O","N"," "," ","åù³—«¼º{°}zd±¿«¼$b±¿åfo«¼º¹¼","MS",1004
+"Thursday a week ago","SC32D","233.4","O","N"," "," ","ù³—«º±¿zd±¿«¼$°$åwiºjk$°go¼º¹¼","MS",1004
+"Sunday week","SC33A","234.1","O","N"," "," ","õs¸«{°}nd±¿$åwijk","MS",1005
+"Tuesday a week ago","SC33B","234.2","O","N"," ","CNV","åt`{±}u¿ºwzd±¿«¼$°$åwiºjk$°õgo¼º¹¼","MS",1006
+"NR","SC34A","235.1"," ","N"," "," "," ","MS",1007
+"Monday a week ago","SC34B","235.2","O","N"," "," ","m¦½{°}nd±¿«¼$°$åwiºjk$°õgo¼º¹¼","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"Sunday is a week ago","SC35A","236.1","S","N"," "," ","ås¦½{°}nd±¿«¼$±¿z$°$åwiºjk$°õgo¼º¹¼","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"Sunday two weeks ago","SC35C","236.3(*)","O","N"," "," ","s¸«nd±¿$åtu¿º$õwiºks$°goº","MS",1012
+"Sunday a week ago","SC35C","236.3(*)","O","N"," "," ","s¸«nd±¿$°$åwiºk$°õgo¼{¹¼}","MS",1012
+"NR","SC35D"," "," ","N"," "," "," ","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"Sunday was a week ago","SC36A","237.1","S","N"," ","CNV","ås¦½nd±¿«¼$w°½z$°$åwiºjk$°½õgoº¹","MS",1015
+"Sunday week","SC36B","237.2","O","N"," "," ","ås¦½nd±¿«¼$õwiºjk","MS",1016
+"Sunday before last","SC36C","237.3","O","N"," "," ","ås¦½nd±¿«¼$b±¿õfo¼º¹$ålá½st","MS",1017
+"Sunday a week ago","SC36C","237.3","O","N"," "," ","ås¦½nd±¿«¼$°$åwiºjk$°õgoº¹","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"Tuesday week","SC37","238","O","N"," "," ","åt`{±}u¿u¿«{°}zd±¿$õwik","MS",1019
+"last Sunday a week ago","SC38N","N239","O","N"," "," ","lá{²}s$ås¦½nd±¿«¼$°$wiºjk$°ågoº¹","MS",1020
+"Sunday gone","SC38N","N239","O","N","a full week"," ","ås¦½nd±¿«¼$g¶«ºon","MS",1020
+"last Sunday","SC38N","N239","O","N","a full week"," ","ålá{²}s$s¦½nd±¿«¼","MS",1020
+"Sunday is a week ago","SC38A","239.1","S","N"," "," ","s¦½nd±¿«¼$°z$°$åwiºjk$°õgoº¹","MS",1021
+"Sunday week ago","SC38B","239.2","O","N"," "," ","ås¦½nd±¿$õwi¾ºjk$°õgo¼º¹","MS",1022
+"Sunday before","SC38B","239.2","O","N"," "," ","ås¦½nd±¿«¼$b°åfo¼º¹¼","MS",1022
+"Monday week ago","SC38B","239.2","O","N"," "," ","åm¦½nd±¿«¼$õwiºjk$°õgoº¹","MS",1022
+"second Sunday","SC38B","239.2","O","N"," "," ","ås²«k°ş«n$õs¦½nd±¿«¼","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"Sunday a week ago","SC38D!","239.4(*)!","O","N"," "," ","s¦½nd±¿«¼$°$åwi½ºjk$°ågo¿º¹","MS",1024
+"Sunday before last","SC38D!","239.4(*)!","O","N"," "," ","s¦½nd±¿«¼$b°İõfoº¹$ålá«º{°}st","MS",1024
+"Sunday a week","SC38D!","239.4(*)!","O","N"," "," ","s¦½nd±¿«¼$°$åwi½ºjk","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," ","MS",1025
+"Sunday fore last","SC39A","240.1","O","N"," "," ","s¦½nd±¿$åfo¼º$õlá{²}st","MS",1026
+"chores done","SC39A","240.1","S","Y"," ","INA","åk`o¼º°¾z$d¦½n","MS",1026
+"Sunday's a week ago","SC39B!","240.2!","O","N"," "," ","s¦½nd±¿«¼z$°$åwijk$°õgo«¼º¹","MS",1027
+"Sunday before last","SC39B!","240.2!","O","N"," "," ","s¦½nd±¿«¼$b°åfo¼º¹$õlá{²}s","MS",1027
+"last Sunday's a week ago","SC40A","241.1","S","N"," "," ","lá«s$ås¦½nd±¿«¼z$°$åwii«k$°õgo¼º¹¼","MS",1028
+"last Sunday was a week ago","SC40A","241.1","S","N"," "," ","lá«s$ås¦½nd±¿«¼$w°İz$°İåw±—«ik$°õgo¼º¹","MS",1028
+"Sunday before last","SC40B","241.2","O","N"," "," ","ås¦½nd±¿$b±¿åfo¼º¹¼°$õlá«²st","MS",1029
+"a week ago Sunday","SC40B","241.2","O","N"," "," ","°$åwi½ik$°ågo¼º¹¼$ås¦½nd±¿","MS",1029
+"Sunday a week ago","SC40B","241.2","O","N"," "," ","ås¦½nd±¿½¼$°$åw±—ik$°õgo¼º¹","MS",1029
+"Sunday week","SC41A","242.1","O","N"," "," ","s¸—«¼º{°}nd±¿$wijk","MS",1030
+"Sunday a week ago","SC41B","242.2","O","N","probably commonest"," ","ås¦½nd±¿½¼$°İåwi½ik$±¿½ågo½¼º¹¼","MS",1031
+"Sunday a week ago","SC41B","242.2","O","N","probably commonest"," ","ås¦½nd±¿¼$°$åw±ik$°õgo¼º¹","MS",1031
+"Sunday before last","SC41B","242.2","O","N","probably commonest"," ","ås¦½nd±¿«¼$b±¿åfo¼º{¹¼}$lá«{²}st","MS",1031
+"Saturday a week ago","SC42N","N243","O","N"," "," ","åsáñ°İd±¿¼$°$åwi¾i«k$°ågo½¼º¹¼","MS",1032
+"Saturday's two weeks ago","SC42N","N243","S","N"," "," ","åsá«dd±¿«¼z$t`u¿¾u«¼$wi—¾i«¾ks$°İågoº¼¹","MS",1032
+"NA","SC42M"," "," ","N"," "," "," ","MS",1033
+"Sunday a week ago","SC42A","243.1","O","N"," "," ","ås¦½nd±¿«¼$°$wi¾i«k$°ågo¼º¹¼","MS",1034
+"a week ago","SC42A","243.1","O","N"," "," ","°$wi¾i«¾k$°ågo«¼º¹¼","MS",1034
+"Sunday before","SC42B!","243.2!","O","N"," "," ","ås¦½nd±¿«¼$b°åfo«¼º°","MS",1035
+"Sunday before last","SC42B!","243.2!","O","N"," "," ","ås¦½nd±¿«¼$b°İõfo«¼º°$åláº²st","MS",1035
+"Sunday a week","SC42C!","243.3!","O","Y","""other people say it¢","SUG/HRD","ås¸¼º{¹½}nd±¿½¼$°$wi½ik","MS",1036
+"Sunday before last","SC42C!","243.3!","O","N"," "," ","ås¸nd±¿½¼$b°«åfoº{¹}°$õlá«{²}s{ç}","MS",1036
+"a week ago Sunday","SC42C!","243.3!","O","N"," "," ","°$åwi¾i«k$°ågo¼¹¼$ås¸«nd±¿","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"Sunday before last","SC42E!","243.5!","O","N"," "," ","õs¸«nd±¿$b±¿õfo¼°$ålá«º{²}st","MS",1038
+"NA","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"Sunday a week ago","SC43B","244.2","O","N"," "," ","ås¦½nd±¿¼$°$åwii«k$°ågo½¼º¹¼","MS",1040
+"Sunday before last","SC43C","244.3","O","N"," "," ","ås¦½nd±¿½¼$b°«åfo«¼º´$ålá«º{²}st","MS",1041
+"Sunday a week ago","SC43C","244.3","O","Y","[{¹}]: doubtful; a week from this next Sunday","FDT","ås¦½nd±¿$°$åwi¾i«k$°ågo«¼º{¹}","MS",1041
+"a week ago Sunday","SC43C","244.3","O","N"," "," ","°$åwii«k$°õgo«¼º$ås¸nd±¿½¼","MS",1041
+"last Friday was a week ago","SC44A","245.1","S","N"," ","CNV","õlá«{²}s$åfrµ«¼º{°}d±¿«¼$w°z$°$åwii«k$°ågo¼º¹¼","MS",1042
+"Sunday's a week ago","SC44A","245.1","S","N"," "," ","ås¦½nd±¿¼z$°$åw±«ik$°ågo¼º¹¼","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"a week ago Sunday","GA1N","N246","O","N"," "," ","°$åwiºk$°õgoº$ås¸¼nd±¿","MS",1044
+"NR","GA1A","246.1(*)"," ","N"," "," "," ","MS",1045
+"Sunday a week ago","GA1B","246.11","O","N"," "," ","õs¸¼nd±¿$°$åwik$°õgo","MS",1046
+"Sunday before last","GA1B","246.11","O","N"," "," ","s¸¼nd±¿$b±¿åfoº$õlá«ºst","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"Sunday week","GA1F!","246.5!","O","N"," "," ","õs¸½nd±¿$åwiºk","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"Sunday before last","GA1H!","246.7!","O","N"," "," ","ås¸—«¼nd±¿«¼$b°½åfo«¼º°$õlá«º{²}st","MS",1052
+"NA","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"Friday's a week ago","GA2B","247.2","S","N"," "," ","fòµ«¼º±¿d±¿«¼z$°$åwiºjk°õgo¼º{¹}","MS",1055
+"Sunday week","GA3A","248.1","O","N"," "," ","õs¸½nd±¿«$åwiºk","MS",1056
+"Sunday was a week ago","GA3B","248.2","S","N"," "," ","ås¸«nd±¿$w°½z$°$åwiºk$°õgo¼º","MS",1057
+"Sunday before last","GA4N","N249","O","N"," "," ","s¸½nd±¿$b±¿åfo«º$õla¾ºs","MS",1058
+"a week ago last Sunday","GA4A","249.1","O","N"," "," ","°$åwik$°õgo$õlá½{°}s$ås¥nd±¿«¼","MS",1059
+"last Sunday a week ago","GA4A","249.1","O","N"," "," ","ålá½{°}s$õs¥¾nd±¿«¼$°$åwiºk$°õgoº","MS",1059
+"NR","GA4B","249.2"," ","N"," "," "," ","MS",1060
+"a week ago Sunday","GA4C!","249.3!","O","N"," "," ","°åwi¾ºk$°õgo«º¹$ås¥¾nd±¿«¼","MS",1061
+"Sunday a week ago","GA5A","250.1","O","N"," "," ","ås¸½¼nd±¿«¼$°$åwiºk°õgo—«º","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"Sunday week","GA5C","250.3","O","N"," "," ","õs±¿½¾nd±¿«¼$åwiºk","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"a week ago last Sunday","GA5E!","250.5!","O","N"," "," ","°$åwi¾ºk$°õgo$õlá{°}s$ås¸½{°}nd±¿«¼","MS",1066
+"a week ago Sunday","GA5E!","250.5!","O","N"," "," ","°$åwi¾ºk$°õgo$ås¸½{°}nd±¿«¼","MS",1066
+"Sunday week","GA6A","251.1","O","N"," "," ","ås¸—º{°—}nd±¿$õwiºk","MS",1067
+"Sunday fore last","GA6A","251.1","O","N"," "," ","ås¸—nd±¿$õfoº$åla«{°}s","MS",1067
+"Thursday week","GA6B!","251.2!","O","N"," "," ","åùÀ«¾º°«zd±¿«¼$õwiºk","MS",1068
+"Sunday a week ago","GA7","256","O","N"," "," ","s¸—«¼{°}nd±¿«¼$°$åwiºk$°õgo«¼º{¹¼}","MS",1069
+"NR","GA8A","257.1"," ","N"," "," "," ","MS",1070
+"Sunday before last","GA8B","257.2","O","N"," "," ","õsá¼ñş±¿«¼$båfo¼º°$õlá½{°}s","MS",1071
+"Saturday was a week ago","GA9A","257A.1","S","N"," ","CNV","åsáñ´d±¿$w°½z$°$åwi{i«}k$°õgo{¹}","MS",1072
+"last Monday","GA9A","257A.1","S","N"," "," ","õlá«s$åm¸¼nd±¿","MS",1072
+"Monday week","GA9A","257A.1","O","N","past or future"," ","m¸«¼nd±¿«¼$åwi{i«}k","MS",1072
+"Sunday was a week past","GA9A","257A.1","S","N"," "," ","s¸«¼nd±¿$w°½z$°$åwi{i«}k$õp`á«s","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"Sunday week","GA10A","258.1","O","N"," "," ","õs¸«nd±¿$åwiºk","MS",1074
+"Sunday a week ago","GA10B","258.2","O","N"," "," ","õs¦½nd±¿«¼$°$åwiºk$°õgo¼º","MS",1075
+"Sunday fore last","GA11N","N258A","O","N"," "," ","õs¸½¼nd±¿$foº°$ålá«st","MS",1076
+"Sunday before last","GA11N","N258A","O","N"," "," ","õs¸½¼nd±¿$b±¿foº{°}$ålá«st","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"Sunday gone","GA12B!","259.2(.3)","O","N"," "," ","õs¸«¼nd±¿$åg·{¹}n","MS",1078
+"Sunday a week","GA13A","260.1","O","N"," "," ","s¸½nd±¿$°$wiºk","MS",1079
+"Sunday a week ago","GA13B!","260.2!","O","N"," "," ","ås¦½{°}nd±¿«¼$°$wi¿¼º{±¿}k$°go¼º","MS",1080
+"Sunday week","GA13B!","260.2!","O","N"," "," ","õs¦½{°}nd±¿«¼$åwi¿¼ºk","MS",1080
+"Sunday before last","GA13B!","260.2!","O","N"," "," ","ås¦½{°}nd±¿«¼$b±¿õfo½°$åla«{°}s","MS",1080
+"last Sunday","GA13B!","260.2!","O","N"," "," ","åla«{°}s$õs¦½{°}nd±¿«¼","MS",1080
+"NR","GA14A","261.1"," ","N"," "," "," ","MS",1081
+"Saturday a week","GA14B","261.3","O","N"," "," ","õsáñ°d±¿$åwiºk","MS",1082
+"today a week ago","GA14C","261.2","S","N"," ","CNV","t`°ådeº{±¿}$°$õwiºjk$°ågo¼º¹¼","MS",1083
+"Friday was a week ago","GA14C","261.2","S","N"," ","CNV","åfòa«¾º{°}d±¿$w°«z°$åwiºjk$°õgo¼º¹¼","MS",1083
+"Thursday a week ago","GA14C","261.2","O","N"," "," ","ä³¾±¿zd±¿«¼$°$åwiºjk$°go¼º¹","MS",1083
+"Sunday week","GA15A","262.1","O","N"," "," ","s¸«¼{°}nd±¿$wijk","MS",1084
+"Sunday before last","GA15B","262.2","O","N"," "," ","õs¸«nd±¿«¼$b±¿«¼åfo«¼º$õlá{²}s","MS",1085
+"Sunday a week ago","GA16A","263.2","O","N"," "," ","ås¦½{°}nd±¿«¼$°$åwiºk$°õgo¼","MS",1086
+"Sunday a week ago","GA16B","263.1","O","N","[°İ]: very short"," ","ås¦½{°}nd±¿«¼$°İ$wiºk$°õgo¼º","MS",1087
+"NR","GA16C","263.21"," ","N"," "," "," ","MS",1088
+"Sunday fore last","GA16D!","263.3!","O","N"," "," ","ås¦½nd±¿«¼$õfo¼º°İ$ålá{²}s","MS",1089
+"Saturday week","GA17N","N264","O","N"," "," ","åsáñ°½d±¿$õwiº{i«}k","MS",1090
+"Saturday a week ago","GA17N","N264","O","N"," "," ","åsáñ°½d±¿$°$õwiº{i«}k$°ågo{¹}","MS",1090
+"a week ago today","GA17","264","O","N"," ","CNV","°$wiºk$°goº{¹}$t”°åde{±¿}","MS",1091
+"NR","GA18A","264A.1"," ","N"," "," "," ","MS",1092
+"last Sunday","GA18B","264A.2","O","N"," "," ","lá¾{±¿}s$ås¸«¼nd±¿","MS",1093
+"Sunday before last","GA18B","264A.2","O","N"," "," ","ås¸«¼nd±¿$b±¿õfoº´$ålá«{²}s","MS",1093
+"Sunday week ago","GA19A","265.1","O","Y"," ","AUX2","s¸«{°}nd±¿«¼$õwiº{j}k$°ågo¼º{¹¼}","MS",1094
+"Sunday before last","GA19A","265.1","O","Y"," ","AUX2","s¸«{°}nd±¿«¼$b±¿åfo¼{¹}$õlá{°}s","MS",1094
+"Sunday a week ago","GA19A","265.1","O","Y","slow","AUX2","ås¸«{°}nd±¿«¼$°$åwiº{j}k$°õgo¼{¹¼}","MS",1094
+"NR","GA19B","265.2"," ","N"," "," "," ","MS",1095
+"Sunday is a week ago","GA20A","266.1","S","N"," "," ","ås¦½{°}nd±¿«¼$°¼z$°$åwiº{j}k$°õgo¼º","MS",1096
+"a week ago","GA20B","266.2","O","N"," "," ","°$õwiºk$°ågo¼º{¹¼}","MS",1097
+"Sunday was a week ago","GA21A","267.1","S","N"," "," ","s¸«¼nd±¿$w°«z$°$åwiº{i«}k$°õgo¼{¹¼}","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"today week","GA22A","268A.1","O","N"," "," ","t°de½{±}$wi½{i}k","MS",1100
+"Sunday week","GA22B","268A.2","O","N"," "," ","ås¦½{°}nd±¿«¼$õwiº{j}k","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"the week before Sunday","GA23C","268.2","O","N"," "," ","ä°$åwiºk$b±¿õfoº°$ås¸«¼nd±¿","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"a week ago","GA23E!","268.4!","O","N"," "," ","°$õwiºk$°ågo¼{¹¼}","MS",1106
+"Sunday before last","GA23F!","268.5!","O","N"," "," ","ås¸«¼nd±¿$b±¿åfoº{°}$õlá«s","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"Sunday week","GA24A","269.1","O","N"," "," ","s¸«¼{°}nd±¿$wijk","MS",1109
+"Sunday was a week ago","GA24B","269.2","S","N"," "," ","ås¦½nd±¿«¼$w¦½z$°$åwiºjk$°õgo¼º¹¼","MS",1110
+"Sunday before last","GA25N","N269A","O","N"," "," ","ås¸ş«¼nd±¿$b±¿õfo{¹}$ålá«{²}s","MS",1111
+"Sunday was a week ago","GA26","270A","S","N"," "," ","s¸«¼nd±¿«¼$w°½z$°$wiº{i«}k$°«ågo¼{¹¼}","MS",1112
+"yesterday was a week ago","GA26","270A","S","N"," "," ","j²«st°d±$w°«z$°$wiº{i«}k$°«ågo¼{¹¼}","MS",1112
+"it is a week ago","GA26","270A","S","N"," ","CNV","d±¿z$°$wiºk$°ågo¼{¹¼}","MS",1112
+"NR","GA27!","270!"," ","N"," "," "," ","MS",1113
+"NR","GA28","271a"," ","N"," "," "," ","MS",1114
+"Sunday a week ago","GA29A","271.1","O","N"," "," ","s¦½nd±¿«¼$°$åwiºk$°õgo¼º","MS",1115
+"Sunday a week ago","GA29B","271.2","O","N"," "," ","ås¸«¼{°}nd±¿«¼$°$åwiºk$°õgo¼º{¹¼}","MS",1116
+"Sunday a week ago","GA29B","271.2","O","N"," "," ","s¦½{°}nd±¿«¼$°$åwiºk$°õgo¼º{¹¼}","MS",1116
+"today was a week ago","GA30A","272.1(*)","S","N"," ","CNV","t`°ådeº±¿«¼${w}°«z$°$åwiºjk$°õgo¼º{¹¼}","MS",1117
+"NR","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"Sunday before last","GA30C!","272.3!","O","N"," "," ","õs¸«¼nd±¿$b±¿õfo¼°$ålá«{°}st","MS",1119
+"NA","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"today a week ago","GA31","272A","O","N"," "," ","t°õde{±¿}$°$åwi{i«}k$°õgo{¹}","MS",1122
+"this past Sunday's week ago","GA32","272B","S","N"," "," ","åä±¿s$pás$s¸«nd±¿«z$wiºk$°ågo{¹}","MS",1123
+"Sunday's week ago","GA32","272B","S","N"," "," ","ås¸«nd±¿«z$wiºk$°ågoº{¹}","MS",1123
+"Sunday a week ago","GA33A","272C1","O","N"," "," ","õs¸¼nd±¿$°$åwiºk$°õgo{¹}","MS",1124
+"Sunday before last","GA33B","272C2","O","N"," "," ","õs¸«¼nd±¿$bi½¾åfoº´$õlá«st","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"Sunday before last","GA34A","273.1","O","N"," "," ","s¸«¼nd±¿$b±¿fo«º$láº{°«¼}st","MS",1127
+"Sunday before last","GA34B","273.2","O","N"," "," ","õs¦½nd±¿«¼$b±¿«¼åfo¼º¹¼$õlá{²}s","MS",1128
+"Sunday week","GA35N","N273A","O","N"," "," ","s¸¼nd±¿$wi{i«}k","MS",1129
+"Sunday was a week","GA35N","N273A","S","N"," "," ","s¸¼nd±¿$w°İz$°$wi{i«}k","MS",1129
+"NR","GA36N","N274A"," ","N"," "," "," ","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"a week from this past Sunday","GA37M!","NC274","S","N"," "," ","°$åwiº{i«}k$fr°«m$åä±s$õpáºst$ås¸«¼nd±¿«","MS",1132
+"Sunday before last","GA37M!","NC274","O","N"," "," ","s¸«¼nd±¿$b±¿åfoº°$õlá½st","MS",1132
+"last Sunday's a week","GA37A","274.1","S","N"," "," ","ålá{²}s$õs¦½nd±¿«¼z$°$åwiºjk","MS",1133
+"Sunday before last","GA37B","274.2","O","N"," "," ","õs¦½nd±¿«¼$b±¿åfo¼º¹$õlá{²}s","MS",1134
+"NR","GA37C","274.21"," ","N"," "," "," ","MS",1135
+"last Sunday","GA37D!","274.7!","O","N"," "," ","õlás{t}$ås¸«¼nd±¿","MS",1136
+"last Sunday","GA37D!","274.7!","O","N"," "," ","õlás{t}$ås¸¼nd±«","MS",1136
+"last Friday a week ago","GA37E!","274.8!","O","N"," "," ","åláº{²}st$fra«¾º{°}d±¿$°$åwi{i«}k°õgo¼{¹¼}","MS",1137
+"Friday a week ago","GA37E!","274.8!","O","N"," "," ","fra«¾º{°}d±¿$°$åwi{i«}k$°õgo¼{¹¼}","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"a week ago last Sunday","GA37G!","274.4!","O","N"," "," ","°$åwiºjk$°õgo¼{¹¼}$õlá{²}s$ås¦½nd±¿«¼","MS",1139
+"last Sunday week","GA37G!","274.4!","O","N"," "," ","ålá{²}s$õs¦½nd±¾i¾$wiºjk","MS",1139
+"a week last Sunday","GA37G!","274.4!","O","N"," "," ","°$åwiºjk$õlá{²}s$ås¦½nd±¿«¼","MS",1139
+"Sunday fore last","GA37H!","274.5!","O","N"," "," ","ås¦½nd±¿¼$åfo¼º¹¼$õlá{²}st","MS",1140
+"NR","GA37I!","274.6!"," ","N"," "," "," ","MS",1141
+"Sunday was a week ago","GA38","275","S","N"," "," ","ås¸«¼nd±¿«¼$w°z$°$åwiºk$°õgo¹","MS",1142
+"Sunday before last","GA39","275A","O","N"," "," ","s¦½nd±¿«$b±¿åfo¼°$ålá«{²}st","MS",1143
+"NR","GA40","276A"," ","N"," "," "," ","MS",1144
+"Sunday week","GA41","276B","O","N"," "," ","õs¸«¼nd±¿$åwiºk","MS",1145
+" ","GA42A","276.1"," "," "," ","RN2","°$åj³½¼ºr±¿«¼õgo¼º{¹¼}","MS",1146
+"Monday's a week ago","GA42A","276.1","S","N"," "," ","åm¦½nd±¿«¼z$°$åwi¾ºjk$°õgo¼º{¹¼}","MS",1146
+"last Easter Sunday was a year ago","GA42A","276.1","S","N"," ","CNV/RN1","ålá{²}s$õiº{j}st´$ås¦½nd±¿«¼$w°«z","MS",1146
+"NR","GA42B","276.2"," ","N"," "," "," ","MS",1147
+"Sunday week","GA43","277","O","N"," "," ","õs¸«¼nd±¿$åwijk","MS",1148
+"Sunday before","GA44A","278.1","O","N"," "," ","s¦½nd±¿«¼$b±¿åfo«´","MS",1149
+"Sunday a week ago","GA44A","278.1","O","N"," "," ","ås¦½nd±¿«¼$°$åwiºjk$°õgo¼º{¹¼}","MS",1149
+"NA","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"Sunday before last","GA44C","278.3","O","N"," "," ","õs¦½nd±¾i¾$b±¿åfo½´$õlá{°}st","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"Sunday a week ago","GA44E","278.5","O","N"," "," ","õs¸«¼nd±¿$°$åwi{i«}k$°õgo{¹}","MS",1153
+"Sunday before","FL1","252","O","N"," "," ","õs¸«¼nd±¿$b±¿åfo¼º","MS",1154
+"the Sunday before","FL2A","253.1","O","N"," "," ","ä±¿$ås¸nd±¿$b±¿åfo¼º´","MS",1155
+"NR","FL2B","253.2"," ","N"," "," "," ","MS",1156
+"Sunday before last","FL2C!","253.3!","O","N"," "," ","õs¸¼nd±¿«¼$b±¿åf¹—½º°$õlá{²}s","MS",1157
+"Sunday a week ago","FL3A","254.1","O","N"," "," ","õs¸¼nd±¿«¼$°$åwiºk$°õgoº","MS",1158
+"Sunday before","FL3A","254.1","O","N"," "," ","õs¸¼nd±¿«¼$b±¿åfo¼º°","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"a week ago","FL4","254A","O","N"," "," ","°$åwi½ik$°õgÀ¾¹¼","MS",1160
+"Sunday before last","FL4","254A","O","N"," "," ","õs¸«¼nd±¿$b±¿åfo´$õlá«{°}s{t}","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"Sunday before last","FL5B","255.2","O","N"," "," ","ås¸«n{d}±¿«¼$b±¿åfo¼º°$õlá½{²}s","MS",1162
+"","","","","","","","","",

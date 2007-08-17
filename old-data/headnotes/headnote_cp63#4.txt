@@ -1,0 +1,70 @@
+father (cp63#4.asc)
+
+Items
+=====
+                             father   55
+                                 NR   21
+
+Pronunciations
+==============
+                              fa∫d∞    1
+                               fµd∞    5
+                          fµ∫æ{∞}‰∞    1
+                              fµ∫‰∞    2
+                             fµ∫‰∞é    1
+                              fµºd∞    8
+                              fµº‰∞    6
+                              fµæv∞    1
+                          fµæ∫{∞}‰∞    1
+                             fµæ∫‰∞    1
+                              fµæ‰∞    5
+                               fµ‰∞    6
+                               f∂‰∞    1
+                            fﬁó´º‰∞    1
+                          fﬁ∫{∞}‰∞é    1
+                          fﬁ∫{∞}‰∞´    2
+                         fﬁ∫{∞}‰∞´æ    1
+                         fﬁº{∞}‰{∞}    1
+                              fﬁº‰∞    1
+                               fﬁ‰∞    1
+                        Âfµ∫{∞}‰∞Ωæ    1
+                             Âfµ∫‰∞    1
+                         Âfµæ∫[‰]∞é    1
+                           Âfµæ∫∞‰∞    1
+                           Âfµ‰∞{¥}    1
+                          Âfﬁ∫{∞}‰∞    1
+                         Âfﬁ∫{∞}‰∞´    2
+
+
+
+
+L: The man whose son you are is called your ______.
+M: A boy who has a chance at a job might want to go hoe and talk it over 	with his _____.
+P: [To open the discussion for the rest of the items on this page] who took 	care of you when you were little?  And her husband was your _____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 63#4, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 63 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+63#1		63#1
+63#2		63#2
+		63#3 (no question)
+63#3		63#4
+63#4		63#5
+63#5		63#6
+63#6		63#7
+63#7		63#8

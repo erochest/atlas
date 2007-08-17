@@ -1,0 +1,137 @@
+fool (cl73#4.asc)
+
+Items
+=====
+                                ***    3
+                     a borned idiot    1
+                  a cubbitch person    2
+                       a fool woman    1
+                    a greedy person    1
+                  a poor kin person    1
+                              cheap    1
+                              child    1
+                        chinchy man    1
+                        chucklehead    1
+                              close    2
+                       close person    1
+                       close-handed    1
+                      complete fool    1
+                           crabbage    1
+                          crackhead    1
+                       crazy fellow    1
+                         crazy fool    1
+                       crazy person    1
+                      crocky person    2
+                           cubbitch   12
+                    cubbitch person    1
+                          damn fool    2
+doesn't seem to be put together well    1
+                         dough-head    1
+                               dull    1
+                          dumb-head    1
+                              dummy    3
+                            dunkify    1
+                               fool   37
+                            fooling    1
+                            foolish    1
+                        foolishness    1
+                   good for nothing    1
+                             greedy    1
+                         greedy gut    1
+                          greedygut    1
+                          grudgeful    1
+                         he so slow    1
+                       he so stingy    1
+            he very poking and slow    1
+           he's a dull, lazy person    1
+                  he's a greedy man    1
+                  he's a stingy man    1
+               he's a stingy person    1
+                      he's cubbitch    1
+                          he's dull    1
+              he's good for nothing    1
+                  he's narrow heart    1
+                         he's silly    1
+                  he's too cubbitch    1
+                      he's too lazy    1
+                    he's too stingy    1
+                             heifer    1
+                                hot    1
+                              idiot    5
+                           ignorant    1
+                    ignorant person    1
+                               lazy   11
+                        lazy person    1
+                         loggerhead    1
+                            lunatic    1
+                      mental-minded    1
+                              miser    2
+                           mixed up    1
+                        mutton-head    1
+                             nitwit    1
+                                 NR   10
+                           nuisance    1
+                          numb-head    1
+                           numbhead    2
+                          numbskull    1
+                              nummy    1
+                          old miser    1
+                         plain fool    1
+                      she senseless    1
+                              silly    1
+                       silly fellow    1
+                               slow    4
+                           sluggish    1
+                             sluggy    1
+                      sluggy person    1
+                              smart    1
+                             stingy   10
+                             stupid    3
+                          that fool    9
+                 that foolish woman    1
+                  that no-sense boy    1
+                      that's a fool    1
+                              tight    1
+                          tight man    1
+                           tightwad    1
+                         too stingy    1
+                         very close    1
+                              wench    1
+                           you fool    1
+
+Pronunciations
+==============
+                                  "    2
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

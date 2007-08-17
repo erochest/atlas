@@ -1,0 +1,69 @@
+bolster (cl28#9.asc)
+
+Items
+=====
+                        all the way    3
+                 all the way across    7
+                       bed bolsters    1
+                            bolster   36
+                           bolsters    1
+                          case slip    1
+                       clean across   13
+                       clear across    3
+                           clear up    1
+                  go across the bed    1
+                             header    1
+                         jam across    2
+                                 NR   24
+                         plum loose    1
+                              plumb    1
+                       plumb across    3
+                        right on in    1
+              right straight across    1
+                 right to the fence    1
+                               slam    1
+                        slam across    2
+                         the length    1
+
+
+
+
+M: Do you remember using anything at the head of the bed that was about 	twice as long as a pillow?
+P: That bolster didn't go part way across the bed; it went _____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The expressions presented were recorded in the context, "The bolster runs clear across the bed."  The item was not investigated by Lowman north of the Potomac. The expression "clean across" is current mostly in the tidewater area; "clear across," widespread, but rather scattered; "jam across," in tidewater VA north of the James River; and "slam across," in the tidewater area south of the James.  The main stress is usually on "across."  For emphasis, the word preceding "across" has an equally heavy or even heavier stress in a number of instances.  "Slam across" is regarded by some as low-class.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 28#9, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 28 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+28#P		28#4
+28#1		28#1
+28#2		28#2
+28#3		28#3
+		28#5 (no question)
+28#4
+28#5		28#6
+28#6		28#7
+28#7		28#8
+28#8
+28#9
+28#9 X

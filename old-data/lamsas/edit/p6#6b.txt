@@ -1,0 +1,1237 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"northeast","NY3A","401","N","N"," "," ","no½¼{¹}äiºst","MS",5
+"northeast","NY3B","403","N","N"," "," ","n·:ùiºst","MS",6
+"northeast","NY3C","402","N","N"," "," ","n·º{°}ùiºst","MS",7
+"northeast","NY3D","404","N","N"," "," ","no½¼¹åäiºst","MS",8
+"northeast","NY4A","405","N","N"," "," ","n·ºùiºst","MS",9
+"northeast","NY4B","407","N","N"," "," ","n·:äiºst","MS",10
+"northeast","NY4B","407","N","N"," "," ","n·ºåäiºst","MS",10
+"northeast","NY4C","408","N","N"," "," ","n·:{°}ùiºst","MS",11
+"northeast","NY5A","409","N","N"," "," ","n·:ùiºst","MS",12
+"northeast","NY5B","410","N","N"," "," ","n·º{°}ùiºst","MS",13
+"northeast","NY5C","411","N","N"," "," ","n·«º{°}ùiºst","MS",14
+"northeast","NY5D","412","N","N"," "," ","n·½:ùiºst","MS",15
+"northeast","NY5E","413","N","N"," "," ","õn·:ùåiºst","MS",16
+"northeast","NY5F","414","N","N"," "," ","n·:ùi½ºst","MS",17
+"northeast","NY5G","415","N","N"," "," ","n·:ùi{j}st","MS",18
+"northeast","NY5H!","416!","N","N"," "," ","n·:{°}ùiºst","MS",19
+"northeast","NY5I!","417!","N","N"," "," ","n·:ùiºst","MS",20
+"northeast","NY5I!","417!","N","N","""on boat¢"," ","no¼¹äiºst","MS",20
+"northeast","NY6A","418","N","N"," "," ","n·:ùiºst","MS",21
+"northeast","NY6B","419","N","N"," "," ","n·ºùiºst","MS",22
+"northeast","NY7A","420","N","N"," "," ","n·ºùiºst","MS",23
+"northeast","NY7B","421","N","N"," "," ","n·:{°}{t‘}ùiºst","MS",24
+"northeast","NY7C","422","N","N"," "," ","n·:ùiºst","MS",25
+"northeast","NY7D","423","N","N"," "," ","n·:ùiºst","MS",26
+"northeast","NY7E","424","N","N"," "," ","n·:ùiºst","MS",27
+"northeast","NY7F","425","N","N"," "," ","n·:ùiºst","MS",28
+"northeast","NY7G","426","N","N"," "," ","n·:{°}ùiºst","MS",29
+"northeast","NY7H","427","N","N"," "," ","n·:ùi½{i}st","MS",30
+"northeast","NY7I","428","N","N"," "," ","n·:ùiºst","MS",31
+"northeast","NY7J!","429!","N","N"," "," ","n·:ùiºst","MS",32
+"northeast","NY7K!","430!","N","N"," "," ","n·:ùiºst","MS",33
+"northeast","NY7L!","431!","N","N"," "," ","n·:ùiºst","MS",34
+"northeast","NY7M!","432!","N","N"," "," ","n·:ùiºst","MS",35
+"northeast","NY8","432b","N","N"," "," ","n·:ùiºst","MS",36
+"northeast","NY9A","432c","N","N"," "," ","n·´ùiºst","MS",37
+"northeast","NY9B","433","N","N"," "," ","n·½´ùiºst","MS",38
+"northeast","NY9C","434","N","N"," "," ","n·:ùiºst","MS",39
+"northeast","NY10A","435","N","N"," "," ","n·´ùiºst","MS",40
+"northeast","NY10B!","436!","N","N"," "," ","n·´ùiºst","MS",41
+"northeast","NY11","438","N","N"," "," ","n·´ùiºst","MS",42
+"northeast","NY12A","439(*)","N","N"," "," ","n·½´ùiºst","MS",43
+"northeast","NY12B","440","N","N"," "," ","n·´ùiºst","MS",44
+"northeast","NY12C!","441!","N","N"," "," ","n·:ùiºst","MS",45
+"northeast","NY13A","443","N","N"," "," ","n·«{°}ùiºst","MS",46
+"northeast","NY13B!","444!","N","N"," "," ","n·ºùiºst","MS",47
+"northeast","NY14A","445","N","N"," "," ","n·´ùiºst","MS",48
+"northeast","NY14B","446","N","N"," "," ","n·½´ùiºst","MS",49
+"northeast","NY15A","447","N","N"," "," ","n·½´ùiºst","MS",50
+"northeast","NY15B","448","N","N"," "," ","n·½´ùiºst","MS",51
+"northeast","NY16A","449","N","N"," "," ","n·:{°}ùiºst","MS",52
+"northeast","NY16B","450","N","N"," "," ","n·ºùiºst","MS",53
+"northeast","NY17A","451(*)","N","N"," "," ","n¶«º{°}ùiºst","MS",54
+"northeast","NY17B","452","N","N"," "," ","n·´ùiºst","MS",55
+"northeast","NY18A","453","N","N"," "," ","n·´ùiºst","MS",56
+"northeast","NY18B","454","N","N"," "," ","n·´ùiºst","MS",57
+"northeast","NY18C!","455!","N","N"," "," ","n·º{°}ùiºst","MS",58
+"northeast","NY19","456","N","N"," "," ","n·½´ùiºst","MS",59
+"northeast","NY20A","457","N","N"," "," ","n·½´ùiºst","MS",60
+"northeast","NY20B","458","N","N"," "," ","n·½´ùiºst","MS",61
+"northeast","NY21","459","N","N"," "," ","n·½rùiºst","MS",62
+"northeast","NY22","460","N","N"," "," ","n·½´ùiºst","MS",63
+"NA","NY23A","461"," ","N"," "," "," ","MS",64
+"northeaster","NY23B","462a","N","N"," "," ","ån¶º´ùõi½ist´","MS",65
+"northeast","NY23C","462b","N","N"," "," ","ån·°ùi½is","MS",66
+"northeast","NY24A","463","N","N"," "," ","n·½´ùiºst","MS",67
+"northeast","NY24B!","464!","N","N"," "," ","n·½¼´ùiºst","MS",68
+"northeast","NY25A","465","N","N"," "," ","ån·½´ùiº{j}s","MS",69
+"northeast","NY25B","466","N","N"," "," ","ån¶«º´ùiº{j}s","MS",70
+"northeast","NY25B","466","N","N"," "," ","n·½º´ùiº{j}s","MS",70
+"northeast","NY26A","467","N","N"," "," ","åno½´ùiºs","MS",71
+"northeaster","NY26B","468","N","N"," "," ","ån¶«´ùõiºst´","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"northeast wind","NY27A","470","O","N"," "," ","ån¶«´õùiºst$åw±«n","MS",74
+"northeaster","NY27A","470","N","N"," "," ","õn¶´ùåiºst´","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"northeaster","NY27C","472","N","N"," "," ","åno´ùõiºst´","MS",76
+"northeast","NY28A","473a","N","N"," "," ","ån·«´ùiºst","MS",77
+"northeast wind","NY28B","473b(*)","O","N"," "," ","ån·´ùiºs$åw±n","MS",78
+"NA","NY28C"," "," ","N"," "," "," ","MS",79
+"northeast","NY29A","474a","N","N"," "," ","ån·´ùõiºi«s","MS",80
+"north-and-east wind","NY29B","474b","O","N"," "," ","åno½´ù$°½n$õiºs$åw±¾n","MS",81
+"northeast","NY29C","474c","N","N"," "," ","ån¶«´ùiº{j}st","MS",82
+"northeast","NY30A","475a","N","N"," "," ","n·´ùiºst","MS",83
+"northeast","NY30B","475b","N","N"," "," ","n·´ùiºst","MS",84
+"northeaster","NY30B","475b","N","Y"," ","HRD","ån·´õiºst´","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NA","NY30D","475d"," ","N"," "," "," ","MS",86
+"northeast","NY30E","475e","N","N"," "," ","ån·´ùõiºst","MS",87
+"northeaster","NY30E","475e","N","N"," "," ","õn·´ùåiºst´","MS",87
+"northeast","NY31A","478a","N","N"," "," ","n·º°ùiºjst","MS",88
+"northeast","NY31B","478b","N","N"," "," ","ån¶´ùiºjst","MS",89
+"northeaster","NY31B","478b","N","N"," "," ","õn·½¼´ùåiºi«st´","MS",89
+"northeast","NY32A","479a","N","N"," "," ","åno½´ùi½ist","MS",90
+"northeast","NY32B","479b","N","N"," "," ","n·º°ùi½is","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"northeaster","NY33B","481","N","N"," "," ","åno½¼´ùõi½ist´","MS",93
+"northeast","NY33C","482","N","N"," "," ","ån·½´ùõi½is","MS",94
+"northeast rain","NY34A","483","O","N"," "," ","ån¶«´ùi½ist$åòe½±¿¼n","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NA","NY34C","485"," ","N"," "," "," ","MS",97
+"northeast","NY34D!","486!","N","N"," "," ","ån·´ùi½ist","MS",98
+"northeast","NY35A","487","N","N"," "," ","n·´ùiºst","MS",99
+"northeast","NY35B","488","N","N"," "," ","ån·½¼´ùiºst","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"northeast","NY36A","491","N","N"," "," ","n·½{´}ùiºst","MS",102
+"northeast","NY36B","492","N","N"," "," ","n·½¼´ùiºst","MS",103
+"northeast","NY37A","493","N","N"," "," ","n¶«´ùiºst","MS",104
+"northeast","NY37B","494","N","N"," "," ","n·½´ùiºst","MS",105
+"northeast","NY37C!","495!","N","N"," "," ","n·½´ùiºst","MS",106
+"northeast","NY38A","497(*)","N","N"," "," ","n·½´ùiºst","MS",107
+"northeast","NY38B","498","N","N"," "," ","n·½´ùiºst","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"northeast","NY39A","499","N","N"," "," ","n·½¼´ùiºst","MS",110
+"northeast","NY39B","500","N","N"," "," ","n·½¼´ùiºst","MS",111
+"northeast","NY40A","501","N","N"," "," ","n·´ùiºst","MS",112
+"northeast","NY40B","502","N","N"," "," ","n¶«¼´ùiºst","MS",113
+"northeast","NY41","504","N","N"," "," ","n·½´ùiºst","MS",114
+"northeast","NY42A","505","N","N"," "," ","n¶«´ùiºst","MS",115
+"northeast","NY42B","506","N","N"," "," ","n¶«´ùiºst","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"northeast","NY43B","507b","N","N"," "," ","n·´ùiºst","MS",118
+"northeast","NY43C!","508!","N","N"," "," ","n·½´ùiºst","MS",119
+"northeast","NY44A","511","N","N"," "," ","n·´ùiºst","MS",120
+"northeast","NY44B","512","N","N"," "," ","n·´ùiºst","MS",121
+"northeast","NY45A","513a","N","N"," "," ","ån·´ùi½is","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"northeast","NY45D!","513d!","N","N"," "," ","ån·½´ùõi½ist","MS",125
+"northeast","NY46A","515a","N","N"," "," ","ån·¼´ùi½ist","MS",126
+"northeast","NY46B","515b","N","N"," "," ","n·½´ù±ist","MS",127
+"NR","NY46C","515c"," ","N"," "," "," ","MS",128
+"northeast","NY47A","517(*)","N","N"," "," ","ån·´ùi½is","MS",129
+"northeast","NY47B","518","N","N"," "," ","ån·½´ùiºst","MS",130
+"northeast","NY48A","519a","N","N"," "," ","n·¼°ù±¿¼is","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"northeast","NY48C","519c","N","N","cold"," ","ån·º°ùõi½ist","MS",133
+"northeast","NY48D","519d","N","N"," "," ","ån¶«´ùi½ist","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"northeast","NY49C","522a","N","N"," "," ","ån·´ùi{i«}st","MS",137
+"northeast","NY49D","522b","N","N"," "," ","ån·´ùõiºst","MS",138
+"northeast","NY50A","523","N","N"," "," ","n·º´ù±¿«is","MS",139
+"northeast","NY50B","524","N","N"," "," ","ån¶«´ùi½ist","MS",140
+"northeast","NY51A","525a","N","N"," "," ","ån·´ùiºi«s","MS",141
+"northeast","NY51B","525b","N","N"," "," ","ån·¼´ùi½is","MS",142
+"NR","NY51C","525c"," ","N"," "," "," ","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"northeast","NY51E!","525e!","N","N"," "," ","õn·º°ùåi½ist","MS",145
+"northeast","NY51E!","525e!","N","N"," "," ","õn·´ùåi½ist","MS",145
+"northeast","NY52A","527","N","N"," "," ","ån·º°ùi½is","MS",146
+"northeast","NY52B","528","N","N"," ","CNV","ån·´ùõi½ist","MS",147
+"northeast","NY52C","528b","N","N"," "," ","ån·´ùõi{i«}st","MS",148
+"northeast","NY53A","529","N","N","snows"," ","ån·°ùõi½is","MS",149
+"northeast","NY53B!","530!","N","N"," "," ","ån·º°ùiºi«st","MS",150
+"northeast","NY53B!","530!","N","N"," "," ","ån·º°ùiºi«s","MS",150
+"northeast","NY54A","531","N","N"," "," ","n¶´ùi{i«}st","MS",151
+"northeast wind","NY54B","532","O","N"," "," ","ån·´ùõi{i«}st$åw±nd","MS",152
+"northeast","NY55A","533","N","N"," "," ","ån·½º´İùiº{j}st","MS",153
+"northeast wind","NY55B","534","O","N"," "," ","ån¶´ùiºst$w±«n","MS",154
+"northeaster","NY55B","534","N","N"," "," ","n¶´ùåiº{j}st´","MS",154
+"northeaster","NY55B","534","N","N"," "," ","n¶´ùiºst´","MS",154
+"northeast","NY56A","535","N","N","""snows¢"," ","ån·¼´ùõiº{j}s","MS",155
+"snows","NY56A","535","V","Y"," ","INA","sno¼º¹z","MS",155
+"northeast","NY56B","536","N","N"," "," ","ån·º´ùõi½is","MS",156
+"northeast","NY57A","537a","N","N"," "," ","ån·´ùi½ist","MS",157
+"NA","NY57B","537b"," ","N"," "," "," ","MS",158
+"northeast","NY57C!","537c!","N","N"," "," ","ån·¼{´}ùõiº{j}st","MS",159
+"northeast","NY58A","539a","N","N"," "," ","ån·´ùiº{j}s","MS",160
+"northeast","NY58B","539b","N","N"," "," ","ån·½´ùõiº{j}st","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"northeast","NY58D!","539d!","N","N","""our rains¢"," ","ån·º°ùõiºs","MS",163
+"northeast","NY58E!","539e!","N","N"," "," ","ån·´ùiº{j}st","MS",164
+"northeaster","NY58E!","539e!","N","Y","""I'd use on the coast¢","HRD","õn¶«¼´ùåi½ist´","MS",164
+"NA","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"northeast","NY59A","543","N","N"," "," ","n·½´ùi½ist","MS",166
+"northeast","NY59B","544","N","N"," "," ","n·½´ùiºst","MS",167
+"northeast storm","NY60A","545","O","N"," "," ","ån·´ùõi½ºist$åst¶´m","MS",168
+"northeast","NY60B!","546!","N","N"," "," ","ån¶´ùi½is","MS",169
+"northeast","NY61A","547","N","N"," "," ","ån·´ùiº{j}s","MS",170
+"northeasters","NY61B","548","N","N"," "," ","õn·½´ùåiºst´«z","MS",171
+"northeast","NY61B","548","N","N"," "," ","ån·´ùõiºs","MS",171
+"northeast","NY62A","551a","N","N"," "," ","ån·º°ùiºs","MS",172
+"northeast","NY62A","551a","N","N"," "," ","ån·´ùõiºst","MS",172
+"northeast","NY62B","551b","N","N"," "," ","ån·º°ùõiº{j}s","MS",173
+"northeast","NY62B","551b","N","N"," "," ","ån·½´ùiº{j}s","MS",173
+"northeast wind","NY62B","551b","O","N"," "," ","ån¶º°ùiºi«s$åw±n","MS",173
+"northeast","NY62C","551c","N","N"," "," ","åno°ùõiºst","MS",174
+"northeast","NY62D!","551d!","N","N"," "," ","ån·´ùõiº{j}s","MS",175
+"northeast","NY63A","556a","N","N"," "," ","n·´ùiº{j}s","MS",176
+"northeast","NY63B","556b","N","N"," "," ","åno½´ùõiº{j}st","MS",177
+"northeast","NY63C","556c","N","N"," "," ","n·½´ùiºst","MS",178
+"northeast","NY63D!","556d!","N","N"," "," ","ån·´ùiº{j}st","MS",179
+"northeast","NY64A","557a","N","N"," "," ","ån·½´ùõiº{j}st","MS",180
+"northeast","NY64A","557a","N","N"," ","CNV","ån¶«´ùõiº{j}s","MS",180
+"northeast","NY64B","557b","N","N"," "," ","ån·´ùiº{j}s","MS",181
+"northeast","NY64C!","557c!","N","N"," "," ","n³—¾´ùiº{j}st","MS",182
+"northeast","NJ1A","1","N","N"," "," ","no¼¹äi½ist","MS",183
+"northeast","NJ1B","2","N","N"," "," ","no¼¹äi½ist","MS",184
+"northeast","NJ2A","3(*)","N","N"," "," ","no¼{¹}äi½ist","MS",185
+"northeast","NJ2B","4","N","N"," "," ","no¼¹äåi½ist","MS",186
+"northeast","NJ3A","5","N","N"," "," ","no¼{¹}äi½ist","MS",187
+"northeast","NJ3B","6","N","N"," "," ","no¼¹äi½ist","MS",188
+"northeast","NJ4A","7","N","N"," "," ","n·«´ùist","MS",189
+"northeast","NJ4B","8","N","N"," "," ","n·«´åfi½ist","MS",190
+"northeast","NJ5A","9","N","N"," "," ","n·«´ùi½ist","MS",191
+"northeast","NJ5B","10","N","N"," "," ","no½¼´ùi½ist","MS",192
+"northeast","NJ6A","11","N","N"," "," ","no¼¹äi½iºst","MS",193
+"northeast","NJ6B","12","N","N"," "," ","no¿¹«åäi½ist","MS",194
+"northeast","NJ7A","17","N","N"," "," ","no¼{¹}åäi½ist","MS",195
+"northeast","NJ7B!","18!","N","N"," "," ","n·º´ùi½¾ist","MS",196
+"northeast wind","NJ8A","19","O","N"," "," ","no¼¹äiºst$w±nd","MS",197
+"northeast","NJ8B","20","N","N"," "," ","åno¼¹¼åäi½ist","MS",198
+"northeast","NJ9A","21","N","N"," "," ","n·´ùi½¾ist","MS",199
+"northeast","NJ9B","22","N","N"," "," ","n·´ùi½{i}st","MS",200
+"northeast","NJ10A","24b","N","N"," "," ","no¼¹äiºst","MS",201
+"northeast","NJ10B","23","N","N"," "," ","n·´ù±«ist","MS",202
+"northeast","NJ10C","24","N","N"," "," ","n·{°}´ùåi½ist","MS",203
+"northeast","NJ10D!","24c!","N","N"," "," ","n¶«ºùiºst","MS",204
+"northeast","NJ11A","25","N","N"," "," ","n·´ùi½ist","MS",205
+"northeast","NJ11B","26a","N","N"," "," ","n·´ùi½¾ist","MS",206
+"northeaster","NJ11C","26b","N","N"," "," ","n·´ùiºst´","MS",207
+"northeast","NJ12A","27","N","N"," "," ","n·«{°}ùi½¾ist","MS",208
+"northeast","NJ12B","28","N","N"," "," ","n·´ùi½{i}st","MS",209
+"northeast","NJ13A","29","N","N"," "," ","n·´ùiºst","MS",210
+"northeast","NJ13B","30","N","N"," "," ","n·½´ùi½¾ist","MS",211
+"northeast","NJ14A","31","N","N"," "," ","n·º´ùi½{i}st","MS",212
+"northeast","NJ14B","32","N","N"," "," ","n·´ùi½ist","MS",213
+"northeast","NJ15A","33","N","N"," "," ","n·´ùi½¾ist","MS",214
+"northeast","NJ15B","34","N","N"," "," ","n·´ùi½{i}st","MS",215
+"northeast","NJ16A","35","N","N"," "," ","n·º{°}ùi½ist","MS",216
+"northeast","NJ16B","36","N","N"," "," ","n·º´ùi½¾ist","MS",217
+"northeast","NJ17A","37","N","N"," "," ","n·½º{°}ùi½¾ist","MS",218
+"northeast","NJ17B","38","N","N"," "," ","n·º´ùi½ist","MS",219
+"northeast","NJ18A","41","N","N"," "," ","n·:ùiºst","MS",220
+"northeast","NJ18B","42","N","N"," "," ","n·:ùiºst","MS",221
+"northeast","NJ18C!","43!","N","N"," "," ","n·º´ùiºst","MS",222
+"northeast","NJ18D!","44!","N","N"," "," ","n·´ùiºst","MS",223
+"northeast","NJ19A","45","N","N"," "," ","n·ºùiºst","MS",224
+"northeast","NJ19B!","46!","N","N"," "," ","n·:ùiºst","MS",225
+"northeast","NJ20A","47","N","N"," "," ","n·ºùiºst","MS",226
+"northeast","NJ20B","47b","N","N"," "," ","n·:ùiºst","MS",227
+"northeast","NJ21A","48","N","N"," "," ","n·´ùiºst","MS",228
+"northeast","NJ21B","49","N","N"," "," ","n·´ùiºst","MS",229
+"northeast","PA1A","51","N","N"," "," ","n·º{°}ùi½{i}st","MS",230
+"northeast","PA1B","52","N","N"," "," ","n·º´ùist","MS",231
+"northeast","PA1C","53","N","N"," "," ","n·º{°}ùi½{i}st","MS",232
+"northeast","PA1D","54","N","N"," "," ","n·«´ùi½ºst","MS",233
+"northeast","PA1E!","55!","N","N"," "," ","n·º{´}ùi½ist","MS",234
+"northeast","PA1E!","55!","N","N"," "," ","n·ºùi½ist","MS",234
+"northeast","PA1F!","56!","N","N"," "," ","n·ºùiºst","MS",235
+"northeast","PA1G!","57!","N","N"," "," ","n·{´}ùi½{i}st","MS",236
+"northeast","PA1H!","58!","N","N"," "," ","n·«¼{´}ùi½ist","MS",237
+"northeast","PA2A","59","N","N"," "," ","n·´ùiºst","MS",238
+"northeast","PA2B","60","N","N"," "," ","n·«´ùi½ist","MS",239
+"northeast wind","PA3A","61","O","N"," "," ","õn·´ùåiºst$w±{°}nd","MS",240
+"northeast","PA3B","62","N","N"," "," ","n·´ùi½ist","MS",241
+"northeast","PA3C","62b","N","N"," "," ","n·´ùiºst","MS",242
+"northeast","PA4A","63","N","N"," "," ","n·º{´}ùi½ºst","MS",243
+"northeast","PA4B!","64!","N","N"," "," ","n·´ùiºst","MS",244
+"northeast","PA5A","65(*)","N","N"," "," ","n·«´ùiºst","MS",245
+"northeast","PA5B","65b","N","N"," "," ","n·«´ù±«ist","MS",246
+"northeast","PA5C","66","N","N"," "," ","n·º{´}ù±ist","MS",247
+"northeast","PA5D","67","N","N"," "," ","n·«¼´ù±«ist","MS",248
+"northeast","PA5E!","68!","N","N"," "," ","n·º{´}ùiºst","MS",249
+"northeast","PA6A","69","N","N"," "," ","n·{°}{Õ}ùiºst","MS",250
+"northeast","PA6B","71","N","N"," "," ","n·°ŸÕùiºst","MS",251
+"northeast","PA6C","71b","N","N"," "," ","n·{°}{rŸÕ}ùiºst","MS",252
+"northeast","PA6D!","72!","N","N"," "," ","n·´ùiºst","MS",253
+"northeast","PA7A","73","N","N"," "," ","n·º{°}ùiºst","MS",254
+"northeast","PA7B","74","N","N"," "," ","n·«´ùiºst","MS",255
+"northeast","PA7C","75","N","N"," "," ","n·rs‘iºst","MS",256
+"northeast","PA7D!","76!","N","N"," "," ","n·´ùiºst","MS",257
+"northeast","PA8A","77","N","N"," "," ","n·«´ùi½ºst","MS",258
+"northeast","PA8B","78","N","N"," "," ","n·º{´}ùiºst","MS",259
+"northeast","PA8C","79","N","N"," "," ","n·rùiºst","MS",260
+"northeast","PA8D!","80!","N","N"," "," ","n·´ùiºst","MS",261
+"northeast","PA9A","83","N","N"," "," ","n·´ùiºst","MS",262
+"northeast","PA9B","83b","N","N"," "," ","n·«´ùiºst","MS",263
+"northeast","PA9C!","84!","N","N"," "," ","n·´ùi½ºst","MS",264
+"northeast","PA10","87","N","N"," "," ","n·rsiºst","MS",265
+"northeast","PA11A","89","N","N"," "," ","n·´«ùiºst","MS",266
+"northeast","PA11B","90(*)","N","N"," "," ","õn·«´ùåiºst","MS",267
+"northeast","PA12A","91","N","N"," "," ","n·«¼´ùi½ºst","MS",268
+"northeast","PA12B","92","N","N"," "," ","n·«¼´ùi½ºst","MS",269
+"northeast","PA13A","93","N","N"," "," ","n·«¼´ùi½ºst","MS",270
+"northeast","PA13B","94","N","N"," "," ","n·«¼´ùi½ºst","MS",271
+"northeast","PA14A","95(*)","N","N"," "," ","n·rŸÕùiºst","MS",272
+"northeast","PA14B","96","N","N"," "," ","n·rùiºst","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"northeast","PA15A","99","N","N"," "," ","n·´ùi½ºst","MS",275
+"northeast","PA15B","99b","N","N"," "," ","n·´ùi½ist","MS",276
+"northeast","PA15C!","100!","N","N"," "," ","n·´ùi½st","MS",277
+"northeast","PA16A","101","N","N"," "," ","n·{°}{rŸÕ}s‘iºst","MS",278
+"northeast","PA16B","102","N","N"," "," ","n·rùiºst","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"northeast","PA17A","105","N","N"," "," ","n·°rùiºst","MS",281
+"northeast","PA17B","106","N","N"," "," ","n·{rŸÕ}ùiºst","MS",282
+"northeast","PA18A","107","N","N"," "," ","n·«´ùiºst","MS",283
+"northeast","PA18B!","108!","N","N"," "," ","n·´ùiºst","MS",284
+"northeast","PA19A","113","N","N"," "," ","n·«¼´ùi½ist","MS",285
+"northeast","PA19B","114","N","N"," "," ","n·´ùiºst","MS",286
+"northeast","PA20A","115","N","N"," "," ","n·´ùi½ºst","MS",287
+"northeast","PA20B","116","N","N"," "," ","n·«¼´ùiºst","MS",288
+"northeast","PA21A","117","N","N"," "," ","n·½´ùiºst","MS",289
+"northeast","PA21B","118","N","N"," "," ","n·½´ùiºst","MS",290
+"northeast","PA22A","119","N","N"," "," ","n¶«´ùist","MS",291
+"northeast","PA22B","120","N","N"," "," ","n·½´ùiºst","MS",292
+"northeast","PA23A","121","N","N"," "," ","n·´ùi½ºst","MS",293
+"northeast","PA23B","122","N","N"," "," ","n·´ùiºst","MS",294
+"northeast","PA24A","123","N","N"," "," ","n¶«ùi½ºst","MS",295
+"northeast","PA24B","124","N","N"," "," ","õn·¼´ùåi½ºst","MS",296
+"northeast","PA25A","125","N","N"," "," ","n·¼´ùi½ºst","MS",297
+"northeast","PA25B","126","N","N"," "," ","n·´ùi½ºst","MS",298
+"northeast","PA26A","127","N","N"," "," ","õn·½¼´ùåi½{i}st","MS",299
+"northeast","PA26B","128","N","N"," "," ","n·½´«ùist","MS",300
+"northeast","PA27A","131","N","Y"," ","AUX","n·½¼´ùi½{i}st","MS",301
+"northeast","PA27B","132","N","N"," "," ","n·½´ùi½ist","MS",302
+"northeast","PA28A","135","N","N"," "," ","n·´ùi½ºst","MS",303
+"northeast","PA28B!","136!","N","N"," "," ","õn·«´ùåi½ºst","MS",304
+"northeast","PA29A","139(*)","N","N"," "," ","n·´ùiºst","MS",305
+"northeast","PA29B","140","N","N"," "," ","n·«¼´ùiºst","MS",306
+"northeast","PA30A","143","N","N"," "," ","n¶«´ùist","MS",307
+"northeast","PA30B","144","N","N"," "," ","n¶«´ùiºst","MS",308
+"northeast","PA31A","145","N","N"," "," ","n·½´ùiºst","MS",309
+"northeast","PA31B","146","N","N"," "," ","n·´ùi{j}st","MS",310
+"northeast","PA32A","147","N","N"," "," ","n·´ùi½ºst","MS",311
+"northeast","PA32B","148","N","N"," "," ","n·«¼´ùiºst","MS",312
+"northeast","PA33A","151","N","N"," "," ","n·rùiºst","MS",313
+"northeast","PA33B","152","N","N"," "," ","n·´ùi½ist","MS",314
+"northeast","PA34A","155","N","N"," "," ","n·´ùiºst","MS",315
+"northeast","PA34B","156","N","N"," "," ","n·´ùiºst","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"northeast","PA35A","157","N","N"," "," ","n·«´ùi½ist","MS",318
+"northeast","PA35B","158(*)","N","N"," "," ","n·«¼´ùiºst","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"northeast","PA36A","159","N","N"," "," ","n·´ùiºst","MS",321
+"northeast","PA36B","160","N","N"," "," ","n·«¼´ùiºst","MS",322
+"northeast","PA37A","161(*)","N","N"," "," ","n·rùiºst","MS",323
+"northeast","PA37B","162","N","N"," "," ","n·´ùiºst","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"northeast","PA38A","163","N","N"," "," ","n·«¼´ùiºst","MS",326
+"northeast","PA38B","164","N","N"," "," ","n·«´ùiºst","MS",327
+"northeast","PA39A","165","N","N"," "," ","n·´ùiºst","MS",328
+"northeast","PA39B","166","N","N"," "," ","n·«´ùist","MS",329
+"northeast","PA40A","167","N","N"," "," ","n·´ùi½ist","MS",330
+"northeast","PA40B","168","N","N"," "," ","n·´ùi½ist","MS",331
+"northeast","PA41A","171","N","N"," "," ","n·´ùiºst","MS",332
+"northeast","PA41B","172","N","N"," "," ","n·´ùiºst","MS",333
+"northeast","PA42A","175","N","N"," "," ","n·«´ùiºst","MS",334
+"northeast","PA42B","176","N","N"," "," ","n·´ùiºst","MS",335
+"northeast","PA43A","177","N","N"," "," ","n·´ùiºst","MS",336
+"northeast","PA43B","178","N","N"," "," ","n·´ùiºst","MS",337
+"northeast","PA44A","179","N","N"," "," ","n·«´ùii«st","MS",338
+"northeast","PA44B","180","N","N"," "," ","n·«´ùi½ºst","MS",339
+"northeast","PA45A","181","N","N"," "," ","n·«rùiºst","MS",340
+"northeast","PA45B","182","N","N"," "," ","n·rùiºst","MS",341
+"northeast","PA46A","185","N","N"," "," ","n·½rùiºst","MS",342
+"northeast","PA46B","186","N","N"," "," ","n·«rùi¾ist","MS",343
+"northeast","PA47A","189","N","N"," "," ","n·«rùiºst","MS",344
+"northeast","PA47B","190","N","N"," "," ","n·«rùiºst","MS",345
+"northeast","PA48A","191","N","N"," "," ","n·rù±ist","MS",346
+"northeast","PA48B","192","N","N"," "," ","n·rùi½st","MS",347
+"northeast","PA48C","193","N","N"," "," ","õn·rùå±ist","MS",348
+"northeast","PA49A","194","N","N"," "," ","n·rùiºst","MS",349
+"northeast","PA49B","195","N","N"," "," ","n·«rùiºst","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"northeast","PA50B","197","N","N"," "," ","n·«rùiºst","MS",352
+"northeast","PA50C!","198!","N","N"," "," ","n·rùi½ºst","MS",353
+"northeast","PA51A","199","N","N"," "," ","n·«rùist","MS",354
+"northeast","PA51B","200","N","N"," "," ","n·rùiºst","MS",355
+"northeast","PA52A","201","N","N"," "," ","õn·rùå±ist","MS",356
+"northeast","PA52B!","202!","N","N"," "," ","n·rù±ist","MS",357
+"northeast","PA53A","203","N","N"," "," ","n·½¼rù±ist","MS",358
+"northeast","PA53B","204","N","N"," "," ","õn·«rùåi½ist","MS",359
+"northeast","PA54A","205","N","N"," "," ","n·rùi½ºst","MS",360
+"northeast","PA54B","206","N","N"," "," ","n·rùiºst","MS",361
+"northeast","PA55A","207","N","N"," "," ","n·rù±«ist","MS",362
+"northeast","PA55B","208","N","N"," "," ","n·{°}rù±ist","MS",363
+"northeast","PA56A","211(*)","N","N"," "," ","n·rùiºst","MS",364
+"northeast","PA56B","212","N","N"," "," ","n·rùi½ºst","MS",365
+"northeast","PA57A","213","N","N"," "," ","n·rùiºst","MS",366
+"northeast","PA57B","214","N","N"," "," ","n·rùiºst","MS",367
+"northeast","PA58A","215","N","N"," "," ","n·´ù±ist","MS",368
+"northeast","PA58B","216","N","N"," "," ","n·´ùi½ºst","MS",369
+"northeast","PA59A","219","N","N"," "," ","n·rùiºst","MS",370
+"northeast","PA59B","220","N","N"," "," ","n·«rùiºst","MS",371
+"northeast","PA60A","221","N","N"," "," ","n·rùi½ºst","MS",372
+"northeast","PA60B","222","N","N"," "," ","n·rùi½ist","MS",373
+"northeast","PA61A","223","N","N"," "," ","n·rùiºst","MS",374
+"northeast","PA61B","224","N","N"," "," ","n·rùist","MS",375
+"northeast","PA62A","229","N","N"," "," ","n·rùiºst","MS",376
+"northeast","PA62B","230","N","N"," "," ","n·rùi½ºst","MS",377
+"northeast","PA63A","231","N","N"," "," ","n·rùiºst","MS",378
+"northeast","PA63B","232","N","N"," "," ","n·´ùiºst","MS",379
+"northeast","PA64A","233","N","N"," "," ","n¶«´ùi{j}st","MS",380
+"northeast","PA64B","234","N","N"," "," ","n¶«´ùi{j}st","MS",381
+"northeast","PA65A","237","N","N"," "," ","n·´ù±ist","MS",382
+"northeast","PA65B","238","N","N"," "," ","n·´ù±«ist","MS",383
+"northeast","PA66A","239","N","N"," "," ","n·rù±ist","MS",384
+"northeast","PA66B","240","N","N"," "," ","n·´ùi½ist","MS",385
+"northeast","PA67A","243","N","N"," "," ","õn·½´ùåi{j}st","MS",386
+"northeast","PA67B","244","N","N"," "," ","n·´ùi{j}st","MS",387
+"northeast","WV1!","88!","N","N"," "," ","n·ºùiºst","MS",388
+"northeast","WV2","89","N","N"," "," ","n·º{°}ùiİ½s{t}","MS",389
+"northeast","WV3","91","N","N"," "," ","n·ºùiºst","MS",390
+"northeast","WV4A","92","N","N"," "," ","n·ºùiºst","MS",391
+"NR","WV4B","93"," ","N"," "," "," ","MS",392
+"northeast","WV5","94","N","N"," "," ","n·´ùi½ºst","MS",393
+"northeast","WV6A","95","N","N"," "," ","n·º´ùiºst","MS",394
+"northeast","WV6B","96","N","N"," "," ","n·º{°}ùi½ist","MS",395
+"northeast","WV7A","97","N","N"," "," ","n·º{°}ùiºst","MS",396
+"northeast","WV7B","98","N","N"," "," ","n·º{°}ùi½ist","MS",397
+"northeast","WV8A","97b","N","N"," "," ","n·ºùiºst","MS",398
+"northeast","WV8B","98b","N","N"," "," ","n·ºùiºst","MS",399
+"northeast","WV9A","301","N","N"," "," ","n·´ùiºst","MS",400
+"northeast","WV9B","302","N","N"," "," ","n·´ùiºst","MS",401
+"northeast","WV10A","303","N","N"," "," ","n·´ùi½ist","MS",402
+"northeast","WV10B","303b","N","N"," "," ","n·º´ùiºst","MS",403
+"northeast","WV10C","304","N","N"," "," ","n·´ùiºst","MS",404
+"northeast","WV11A","305","N","N"," "," ","n·´ùiºst","MS",405
+"northeast","WV11B!","306!","N","N"," "," ","n·rùiºst","MS",406
+"northeast","WV12A","307","N","N"," "," ","n·´ùiºst","MS",407
+"northeast","WV12B","308","N","N"," "," ","n·´ùiºst","MS",408
+"northeast","WV13A","309","N","N"," "," ","n·´ùi½ist","MS",409
+"northeast","WV13B","310","N","N"," "," ","n·¼´ùiºst","MS",410
+"northeast","WV14A","311","N","N"," "," ","n·´ùi½{i}st","MS",411
+"northeast","WV14B","312","N","N"," "," ","n·´ùiºst","MS",412
+"northeast","WV15A","313","N","N"," "," ","n·´ùi½ist","MS",413
+"northeast","WV15B","314","N","N"," "," ","n·´ùiºst","MS",414
+"northeast","WV16A","315","N","N"," "," ","n·½{r}ùi½ºst","MS",415
+"northeast","WV16B","316","N","N"," "," ","n·´ùiºst","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"northeast","WV17B","317b","N","N"," "," ","n·´ùi½ist","MS",418
+"northeast","WV17C","318","N","N"," "," ","n·´ùiºst","MS",419
+"northeast","WV18A","319","N","N"," "," ","n·´ùi½ist","MS",420
+"northeast","WV18B","320","N","N"," "," ","n·ºùiºst","MS",421
+"northeast","WV19A","321","N","N"," "," ","n·ºùi½ist","MS",422
+"northeast","WV19B","322","N","N"," "," ","n·´ùiºst","MS",423
+"northeast","WV20A","323","N","N"," "," ","n·rùiºst","MS",424
+"northeast","WV20A","323","N","N"," "," ","nµùiºst","MS",424
+"northeast","WV20B","324","N","N"," "," ","n·rùiºst","MS",425
+"northeast","WV21A","325","N","N"," "," ","n·«´ùiºst","MS",426
+"northeast","WV21B","326","N","N"," "," ","n·´ùiºst","MS",427
+"northeast","WV22A","327","N","N"," "," ","n·ºùiºst","MS",428
+"northeast","WV22B","328","N","N"," "," ","n·´ùiºst","MS",429
+"northeast","WV23A","331","N","N"," "," ","n·ºùiºst","MS",430
+"northeast","WV23B","332","N","N"," "," ","n·´ùiºst","MS",431
+"northeast","WV24A","335","N","N"," "," ","n·º{´}ùi¾ºst","MS",432
+"northeast","WV24B","336","N","N"," "," ","n·º´ùi¾ºst","MS",433
+"northeast","WV25A","337","N","N"," "," ","n·´ùi¾ºst","MS",434
+"northeast","WV25B","338","N","N"," "," ","n·´ùi¾ºst","MS",435
+"northeast","WV26A","339","N","N"," "," ","n·{´}ùi¾ºst","MS",436
+"northeast","WV26B","340","N","N"," "," ","n·ºùiºst","MS",437
+"northeast","WV27A","341","N","N"," "," ","n·º{°}ùi½ºst","MS",438
+"northeast","WV27B","342","N","N"," "," ","n·ºùi½¾ist","MS",439
+"northeast","WV28A","343","N","N"," "," ","n·ºùiºst","MS",440
+"northeast","WV28B","344","N","N"," "," ","n·´ùiºst","MS",441
+"northeast","WV29A","345","N","N"," "," ","n·ºùiºst","MS",442
+"northeast","WV29B","346","N","N"," "," ","n·ºùi¾ºst","MS",443
+"northeast","WV30A","347","N","N"," "," ","n·ºùiºst","MS",444
+"northeast","WV30B","348","N","N"," "," ","n·ºùiºst","MS",445
+"northeast","WV31A","349","N","N"," "," ","õn·ºùåiºst","MS",446
+"northeast","WV31B","350","N","N"," "," ","n·º´ùiºst","MS",447
+"northeast","WV32A","353","N","N"," "," ","n·ºùiºst","MS",448
+"northeast","WV32B","354","N","N"," "," ","n·ºùiºst","MS",449
+"northeast","WV33A","355","N","N"," "," ","n·ºùiºst","MS",450
+"northeast","WV33B","356","N","N"," "," ","n·«´ùiºst","MS",451
+"northeast","WV34A","359","N","N"," "," ","n·”½´ùiºst","MS",452
+"northeast","WV34B","360","N","N"," "," ","n·º´ùiºst","MS",453
+"northeast","WV35A","361","N","N"," "," ","n·´ùiºst","MS",454
+"northeast","WV35B","362","N","N"," "," ","n·´ùiºst","MS",455
+"northeast","WV36A","363","N","N"," "," ","n·´ùi½ºst","MS",456
+"northeast","WV36B","364","N","N"," "," ","n·º´ùi½ºst","MS",457
+"northeast","WV37A","365","N","N"," "," ","n·´ùi¾ist","MS",458
+"northeast","WV37B!","366!","N","N"," "," ","n·ºùiºst","MS",459
+"northeast","WV38A","367","N","N"," "," ","n·´ùiºst","MS",460
+"northeast","WV38B","368","N","N"," "," ","n·´ùi½¾ist","MS",461
+"northeast","WV39A","369","N","N"," "," ","n·´ùiºst","MS",462
+"northeast","WV39B","370","N","N"," "," ","n·½´ùi½ist","MS",463
+"northeast","WV39C!","371!","N","N"," "," ","n·º{´}ùi½{i}st","MS",464
+"northeast","WV40A","373","N","N"," "," ","n·º{´}ùist","MS",465
+"northeast","WV40B","374","N","N"," "," ","n·´ùiºst","MS",466
+"northeast","WV41A","375","N","N"," "," ","n·º´ùiºst","MS",467
+"northeast","WV41B","376","N","N"," "," ","n·½º´ùiºst","MS",468
+"northeast","WV42A","377","N","N"," "," ","n·´ùiºst","MS",469
+"northeast","WV42B","378","N","N"," "," ","n·´ùiºst","MS",470
+"northeast","WV43A","381","N","N"," "," ","n·´ùiºst","MS",471
+"NR","WV43B","382"," ","N"," "," "," ","MS",472
+"northeast","WV44A","383","N","N"," "," ","n·´ùiºst","MS",473
+"northeast","WV44B","384","N","N"," "," ","n·´ùi¾ist","MS",474
+"northeast","WV45A","385","N","N"," "," ","n·´ùiºst","MS",475
+"northeast","WV45B","386","N","N"," "," ","n·´ùiºst","MS",476
+"northeast","WV46A","387","N","N"," "," ","n·«rùiºst","MS",477
+"northeast","WV46B","388","N","N"," "," ","n·´ùiºst","MS",478
+"northeast","WV47A","389","N","N"," "," ","n·´ùiºst","MS",479
+"northeast","WV47B","390","N","N"," "," ","n·´ùi½ist","MS",480
+"northeast","WV48A","391","N","N"," "," ","n·½´ùi½¾ist","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"northeast","WV48D","392b","N","N"," "," ","n·´ùiºst","MS",484
+"northeast","WV49A","393","N","N"," "," ","n·«rùi¾ºst","MS",485
+"northeast","WV49B","394","N","N"," "," ","n·´ùi½{i}st","MS",486
+"northeast","WV50A","395","N","N"," "," ","n·rùiºst","MS",487
+"northeast","WV50B","396","N","N"," "," ","n·´ùiºst","MS",488
+"northeast","WV51A","261","N","N"," "," ","n·{r}ùi½{i}st","MS",489
+"northeast","WV51B","262","N","N"," "," ","n·«´ùiºst","MS",490
+"northeast","WV52A","258","N","N"," "," ","n·´ùiºst","MS",491
+"northeast","WV52B","259","N","N"," "," ","n·´ùiºst","MS",492
+"northeast","WV52C!","260!","N","N"," "," ","n·´ùiºst","MS",493
+"northeast","WV53A","257","N","N"," "," ","n·´ùiºst","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"northeast","WV53C!","257c!","N","N"," "," ","n·´ùiºst","MS",496
+"northeast","WV54A","255","N","N"," "," ","n·rùi½ºst","MS",497
+"northeast","WV54B","256","N","N"," "," ","n·rùi½ist","MS",498
+"northeast","DE1A","11","N","N"," "," ","no½´ùåi½ist","MS",499
+"northeast","DE1B","12","N","N"," "," ","n·´ùåi½ist","MS",500
+"northeast","DE1C!","13!","N","N"," "," ","n·´ùi½ist","MS",501
+"NR","DE2A","15(*)"," ","N"," "," "," ","MS",502
+"northeast","DE2B","16","N","N"," "," ","n·«´ùi½ist","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"northeast","DE3A","18","N","N"," "," ","no¼{¹}äåi½ist","MS",505
+"northeast","DE3B","19","N","N"," "," ","n·½´ùi½ist","MS",506
+"northeast","DE3C!","17!","N","N"," "," ","n·´ùåi½ist","MS",507
+"northeast","DE4","20","N","N"," "," ","no¼¹äiºst","MS",508
+"northeaster","DE5A","21","N","N"," "," ","no¹äijst´","MS",509
+"northeast","DE5B","22","N","N"," "," ","n¶«´ùi½ist","MS",510
+"northeast","DE6A","23","N","N"," "," ","no¼{¹}äi½ist","MS",511
+"northeast","DE6B","24","N","N"," "," ","no¼¹äi½ist","MS",512
+"northeast","MD1A","27","N","N"," "," ","n·½ºùiºs","MS",513
+"northeast","MD1B","28","N","N"," "," ","n·«º{´}ùiºst","MS",514
+"northeast","MD2A","31a","N","N"," "," ","no¼¹äi½ist","MS",515
+"northeast","MD2B","32","N","N"," "," ","n·ºfi½ist","MS",516
+"northeast","MD3A","33","N","N"," "," ","no¼{¹}åviºs{t}","MS",517
+"northeast","MD3B","34","N","N"," "," ","n·½ºùiºst","MS",518
+"northeast","MD4A","35b","N","N"," "," ","no{¹}åäi½ist","MS",519
+"northeast","MD4B","35","N","N"," "," ","no½¼¹åä±«i½s{t}","MS",520
+"northeaster","MD4C","36","N","N"," "," ","n¶«´ijst´","MS",521
+"northeast","MD5A","37","N","N"," "," ","no¼¹äiºst","MS",522
+"northeast","MD5B","38","N","N"," "," ","no½¼¹äi½ist","MS",523
+"northeast","MD6A","39(*)","N","N"," "," ","no½¹ä±«ist","MS",524
+"northeast","MD6B","40","N","N"," "," ","no¼¹äiºst","MS",525
+"northeast","MD7A","41","N","N"," "," ","no{¹}åäi½ist","MS",526
+"northeast","MD7B","41b","N","N"," "," ","n¶«´ùiºst","MS",527
+"northeast","MD7C!","42!","N","N"," "," ","n¶«{´}ùi½ist","MS",528
+"northeast","MD8A","43","N","N"," "," ","no½{¹}äi½ist","MS",529
+"northeast","MD8B","44","N","N"," "," ","no¼¹äi½ist","MS",530
+"NR","MD9N","N46"," ","N"," "," "," ","MS",531
+"northeast","MD9A","45","N","N"," "," ","no½¹äi½ist","MS",532
+"northeast","MD9B","46","N","N"," "," ","n¶«´ùi½ist","MS",533
+"northeast","MD10A","49","N","N"," "," ","n·´ùiºst","MS",534
+"northeast","MD10B","50","N","N"," "," ","n·«´ùiºst","MS",535
+"northeast","MD11","51","N","N"," "," ","n·:ùis","MS",536
+"northeast","MD12A","52","N","N"," "," ","n·º´ùiºs{t}","MS",537
+"northeast","MD12B","53","N","N"," "," ","n·:ùist","MS",538
+"northeast","MD13A","54(*)","N","N"," "," ","n·:{°}ùiºst","MS",539
+"northeast","MD13B","55","N","N"," "," ","n·«:ùiºst","MS",540
+"northeast","MD13C","56","N","N"," "," ","n·«´ùiºs{t}","MS",541
+"northeast","MD13D!","57!","N","N"," "," ","n·:ùist","MS",542
+"NR","MD13E!","58!"," ","N"," "," "," ","MS",543
+"northeast","MD13F!","59!","N","N"," "," ","n·«:{°}ùi½ist","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"northeast","MD14","61(*)","N","N"," "," ","n·«´ùist","MS",546
+"northeast","MD15A","62","N","N"," "," ","n·:{°}ùis{t}","MS",547
+"northeast","MD15B","63","N","N"," "," ","n·:ùist","MS",548
+"NR","MD16","64"," ","N"," "," "," ","MS",549
+"northeast","MD17A","65","N","N"," "," ","n·:ùist","MS",550
+"northeast","MD17B","66","N","N"," "," ","n·«´ùist","MS",551
+"northeast","MD18A","67","N","N"," "," ","n·:ùåiºs","MS",552
+"northeast","MD18B","68","N","N"," "," ","n·º{°}ùiºst","MS",553
+"northeast","MD19A","69","N","N"," "," ","no{¹}äiºs","MS",554
+"northeast","MD19B","70","N","N"," "," ","n·:ùiºst","MS",555
+"northeaster","MD20A","71","N","N"," "," ","no{¹}äi½jst°","MS",556
+"northeast","MD20B","72","N","N"," "," ","no{¹}äiºst","MS",557
+"northeast","MD20C!","73!","N","N"," "," ","n·:ùiºs{t}","MS",558
+"northeast","MD21A","75","N","N"," "," ","no{¹}äist","MS",559
+"northeast","MD21B","76","N","N"," "," ","nŞ—:ùist","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"northeast","MD22M","N78","N","N"," "," ","no«ºäiºs","MS",562
+"northeaster","MD22A","77","N","N"," "," ","noºåäiºst°","MS",563
+"northeast","MD22B","78","N","N"," "," ","no«{¹}åäiºst","MS",564
+"northeast","MD22C!","79!","N","N"," "," ","n·ºùist","MS",565
+"northeast","MD23A","80b","N","N"," "," ","no{¹}åäiºst","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"northeast wind","MD23C","81","O","N"," "," ","n¶«ºùist$w±{°}nd","MS",568
+"northeast","MD24","82","N","N"," "," ","noºäis","MS",569
+"northeast","MD25","84","N","N"," "," ","n·º{´}ùis{t}","MS",570
+"northeast","MD26A","83","N","N"," "," ","n·´ùiºst","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"northeast","MD27A","85","N","N"," "," ","n·´ùiºst","MS",573
+"northeast","MD27B","86","N","N"," "," ","n·º{´}ùiºst","MS",574
+"NR","DC1A","99"," ","N"," "," "," ","MS",575
+"northeast","DC1B!","100!","N","N"," "," ","n·:ùiºst","MS",576
+"northeast","VA1!","101!","N","N"," "," ","n¶¶—«ùi½ºs{t}","MS",577
+"northeast","VA2A","103","N","N"," "," ","n·ºùi½ºs{t}","MS",578
+"northeast","VA2B","104","N","N"," "," ","no¹äi½ist","MS",579
+"northeast","VA3A","105(*)","N","N"," "," ","n·´ùiºs{t}","MS",580
+"northeast","VA3B","106","N","N"," "," ","n·«´ùiºs{t}","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"northeast","VA4N","N109","N","N"," "," ","n·½ºùiºs","MS",583
+"northeast","VA5A","107","N","N"," "," ","n·º{°}ùiºs{t}","MS",584
+"northeast","VA5B","108","N","N"," "," ","n·½ºùiºs{t}","MS",585
+"northeast","VA6A","113","N","N"," "," ","n·ºùiºs{t}","MS",586
+"northeast","VA6B","114","N","N"," "," ","n·°ùiºs{t}","MS",587
+"northeast","VA7A","121","N","N"," "," ","n·ºùiºs{t}","MS",588
+"northeast","VA7B","122","N","N"," "," ","n·º{·}ùåiºs{t}","MS",589
+"NR","VA8A","123"," ","N"," "," "," ","MS",590
+"northeast","VA8B","124","N","N"," "," ","n·½ºùi½ºs{t}","MS",591
+"northeast","VA8C!","125!","N","N"," "," ","n·ºùiºst","MS",592
+"northeast","VA9A","117","N","N"," "," ","n·ºùi½ºst","MS",593
+"northeast","VA9B!","118!","N","N"," "," ","n·ºùiºs{t}","MS",594
+"northeast","VA10A","127","N","N"," "," ","n·ºùi½ºs","MS",595
+"northeast","VA10B","128","N","N"," "," ","n·½º{·}ùiºs{t}","MS",596
+"northeast","VA11A","129","N","N"," "," ","n¶«¼ºùiºs","MS",597
+"northeast","VA11B","130","N","N"," "," ","n¶”¼¶«¼ùi½ºs","MS",598
+"northeast","VA12N","N131","N","N"," "," ","noºâ—iºs","MS",599
+"northeast","VA12A","131","N","N"," "," ","n·½ºùiºst","MS",600
+"northeast","VA12B!","132!","N","N"," "," ","noºäiºs{t}","MS",601
+"northeast","VA13A","133","N","N"," "," ","no{¹}äis{t}","MS",602
+"northeast","VA13B","134","N","N"," "," ","no{¹}äiºs{t}","MS",603
+"northeaster","VA14A","135","N","N"," "," ","no¼¹åäijst°","MS",604
+"northeast","VA14B","136","N","N"," "," ","no¹äiºst","MS",605
+"northeast","VA14C","137","N","N"," "," ","no¹äiºst","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"northeast","VA15A","139","N","N"," "," ","no«ºåäiºst","MS",608
+"northeast","VA15B","140","N","N"," "," ","n·½ºùiºs{t}","MS",609
+"northeast","VA16A","141","N","N"," "," ","no{¹}äi½¾is{t}","MS",610
+"northeast","VA16B","142","N","N"," "," ","n·:ùiºs{t}","MS",611
+"northeast","VA17A","143","N","N"," "," ","n·”½¾ºùiºs{t}","MS",612
+"northeast","VA17B","144","N","N"," "," ","n·ºùiºs{t}","MS",613
+"northeast","VA18","145","N","N"," "," ","no«ºäiºs{t}","MS",614
+"northeast","VA19A","146","N","N"," "," ","no¿¾u¼äi½jst","MS",615
+"northeast","VA19B","147","N","N"," "," ","no½¹ä±«js{t}","MS",616
+"northeast","VA19C!","148!","N","N"," "," ","n·½ºùi½{i}s{t}","MS",617
+"northeast","VA20A","149","N","N"," "," ","no{¹½}{ä}iºs{t}","MS",618
+"northeast","VA20B","150(*)","N","N"," "," ","no{¹}äiºs{t}","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"northeast","VA21N","N153","N","N"," "," ","noº{ä}iºs","MS",621
+"northeast","VA21A","153","N","N"," "," ","n·½ºùi½{i}s","MS",622
+"northeast","VA21B","154","N","N"," "," ","nµ«{°}ùi½ºs{t}","MS",623
+"northeast","VA21B","154","N","Y"," ","OLD","no{¹}äi½ºs{t}","MS",623
+"northeast","VA22","155","N","N"," "," ","n¶«¼ºùi½ºs","MS",624
+"northeast","VA23A","156","N","N"," "," ","no½¹ä±«{i}s{t}","MS",625
+"northeast","VA23B","157","N","N"," "," ","no¹«äiºs","MS",626
+"northeast","VA24","159","N","N"," "," ","no¹åäi½{i}s{t}","MS",627
+"northeaster","VA25","160(*)","N","N"," "," ","n·¼¹ä±i½st{°}´","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"northeast","VA26B","161","N","N"," "," ","no½¹ä±«i½s{t}","MS",630
+"northeast","VA26C","162","N","Y"," ","OLD","no¼¹åä±«i½s{t}","MS",631
+"northeast","VA27","163(*)","N","N"," "," ","no½¹ä±«i½s{t}","MS",632
+"northeast","VA28A","164","N","N"," "," ","no¹äi½{i}s{t}","MS",633
+"northeast","VA28B","165","N","N"," "," ","no¹åäi½ºs{t}","MS",634
+"northeast","VA29","166","N","N"," "," ","n·ºùi½ºs{t}","MS",635
+"northeast","VA30A","167","N","N"," "," ","n·½º{°}ùi½¾ºs{t}","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"NR","VA30C!","168!"," ","N"," "," "," ","MS",638
+"northeast","VA30D!","169!","N","N"," "," ","n·½ºùiºs{t}","MS",639
+"northeast","VA30E!","170!","N","N"," "," ","n·½{·}ùis{t}","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"northeast","VA31B","172","N","N"," "," ","n·½ºùiºs{t}","MS",642
+"northeast","VA31C"," ","N","N"," "," ","n·½ºùi½ºs{t}","MS",643
+"northeast","VA32!","175!","N","N"," "," ","n¶«¼º{¶«}ùiºs{t}","MS",644
+"northeast","VA33A","173","N","N"," "," ","n¶«¼{¶«}ùi½ºs{t}","MS",645
+"northeast","VA33B","174","N","N"," "," ","n¶«¼{¶«}ùiºs","MS",646
+"NR","VA34A","177(*)"," ","N"," "," "," ","MS",647
+"northeast","VA34B","178","N","N"," "," ","n¶«¼º{°}ùi½ºs{t}","MS",648
+"northeast","VA35A","179","N","N"," "," ","n·ºùiºs{t}","MS",649
+"northeast","VA35B","180","N","N"," "," ","n¶«¼{¶«}ùiºs{t}","MS",650
+"northeast","VA36A","181","N","N"," "," ","n·½{·}fiºs{t}","MS",651
+"northeast","VA36B","182","N","N"," "," ","n·½{·}ùiºs{t}","MS",652
+"northeast","VA37","183","N","N"," "," ","n·½ºùi½ºs{t}","MS",653
+"northeaster","VA38","185","N","N"," "," ","nŞ¼{¶«¼}äi½jst°","MS",654
+"northeast","VA39!","186!","N","N"," "," ","n¶¼¶ùåi½jst","MS",655
+"northeast","VA40A","187","N","N"," "," ","no¹äi½is{t}","MS",656
+"northeast","VA40B","188","N","N"," "," ","n·´ùi{j}s{t}","MS",657
+"northeast","VA41A","191","N","N"," "," ","n·ºùi½ºs","MS",658
+"northeast","VA41B","192","N","N"," "," ","n¶«¼º{°}ùiºs{t}","MS",659
+"northeast","VA42A","193(*)(**)","N","N"," "," ","n·½ºùiºs{t}","MS",660
+"northeast","VA42B","194","N","N"," "," ","n·½ºùiºs{t}","MS",661
+"northeast","VA43N","N195","N","N"," "," ","n·ºùiºs","MS",662
+"northeast","VA43A","195","N","N"," "," ","n·½ºùiºs{t}","MS",663
+"northeast","VA43B","196","N","N"," "," ","n·:ùiºs{t}","MS",664
+"northeast","VA44A","199","N","N"," "," ","n·{·—}ùiºs","MS",665
+"northeast","VA44B","200","N","N"," "," ","n¶«¼{·½}ùiºs","MS",666
+"NR","VA45A","201"," ","N"," "," "," ","MS",667
+"northeast","VA45B","202","N","N"," "," ","n·½ºùiºs{t}","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"NR","VA46A","207"," ","N"," "," "," ","MS",670
+"northeast","VA46B!","208!","N","N"," "," ","n·½{·}ùiºs{t}","MS",671
+"northeast","VA47","211","N","N"," "," ","n·ºùiºs","MS",672
+"northeast","VA48A","213(*)","N","N"," "," ","n¶«{·—½}ùiºs{t}","MS",673
+"northeast","VA48B","214","N","N"," "," ","n·½{·}ùiºs","MS",674
+"northeast","VA49A","215","N","N"," "," ","n·½ºùiºs","MS",675
+"northeast","VA49B","216","N","N"," "," ","n·½{·}ùiºs{t}","MS",676
+"northeast","VA50A","217","N","N"," "," ","n·½ºùi½ºs{t}","MS",677
+"northeast","VA50B","218","N","N"," "," ","n¶«·½ùiºs{t}","MS",678
+"northeast","VA51A","219","N","N"," "," ","n·½ºùiºs","MS",679
+"northeast","VA51B","220","N","N"," "," ","n·½ºùi½{i}s{t}","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"northeast","VA52A","224","N","N"," "," ","n·«¼´ùiºs{t}","MS",682
+"northeast","VA52B","225","N","N"," "," ","n·½ºùiºs{t}","MS",683
+"northeast","VA52C!","226!","N","N"," "," ","n·º{°}ùiºs{t}","MS",684
+"northeast","VA53A","227","N","N"," "," ","n·½ºùiºs{t}","MS",685
+"northeast","VA53B","228","N","N"," "," ","n·½ºùiºst","MS",686
+"NR","VA54A","229"," ","N"," "," "," ","MS",687
+"northeast","VA54B","230","N","N"," "," ","n·º{°}ùi½ºs{t}","MS",688
+"NR","VA55A","233(*)"," ","N"," "," "," ","MS",689
+"northeast","VA55B","234(*)","N","N"," "," ","n·º{°}ùiºst","MS",690
+"northeast","VA56A","237","N","N"," "," ","n·´ùiºs{t}","MS",691
+"northeast","VA56B","238","N","N"," "," ","n·´ùiºs{t}","MS",692
+"northeast","VA57A","239","N","N"," "," ","n·½°ùiºs{t}","MS",693
+"northeast","VA57B","240","N","N"," "," ","n¶«{·½}ùiºs{t}","MS",694
+"northeast","VA58","241(*)","N","N"," "," ","n·½ºfiºs","MS",695
+"NR","VA59N","N241"," ","N"," "," "," ","MS",696
+"northeast","VA59A","242","N","N"," "," ","n·½ºùiºs{t}","MS",697
+"northeast","VA59B!","243!","N","N"," "," ","n·½ºùiºs{t}","MS",698
+"northeast","VA60","244(*)","N","N"," "," ","n·½´ùiºs{t}","MS",699
+"NR","VA61A","245(*)"," ","N"," "," "," ","MS",700
+"northeast","VA61B!","246!","N","N"," "," ","n·½ºùiºs{t}","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"northeast","VA62A","247(*)","N","N"," "," ","n·½ºùiºs{t}","MS",703
+"northeast","VA62B","248","N","N"," "," ","n·½ºùiºs{t}","MS",704
+"northeast","VA63A","251","N","N"," "," ","n·½ºù±«i½s{t}","MS",705
+"northeast","VA63B","252","N","N"," "," ","n·”½¼´ù±«js{t}","MS",706
+"northeast","VA64A","255","N","N"," "," ","n·½·—½ºùiºs","MS",707
+"northeast","VA64B","256","N","N"," "," ","n¶«¼{·½}ùiºs{t}","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"NR","VA65B","258"," ","N"," "," "," ","MS",710
+"northeast","VA65C!","259!","N","N"," "," ","n·½¼ºùiºs{t}","MS",711
+"northeast","VA66A","261","N","N"," "," ","n·½ºùiºs{t}","MS",712
+"northeast","VA66B","262","N","N"," "," ","n·½ºùiºs{t}","MS",713
+"northeast","VA67A","267","N","N"," "," ","n·º{´}ùi½ºst","MS",714
+"northeast","VA67B","268","N","N"," "," ","n·º{°}ùi½{i}st","MS",715
+"northeast","VA68A","269","N","N"," "," ","n·º{´}ùiºs{t}","MS",716
+"northeast","VA68B","270","N","N"," "," ","n·º{°}ùiºs{t}","MS",717
+"northeast","VA69A","273","N","N"," "," ","n¶«{·}ùiºs{t}","MS",718
+"northeast","VA69B","274","N","N"," "," ","no{¹}äi½ºs{t}","MS",719
+"NR","VA70A","275"," ","N"," "," "," ","MS",720
+"northeast","VA70B","276","N","N"," "," ","n·½º{·}ùi½ºs{t}","MS",721
+"northeast","VA71A","285","N","N"," "," ","n·º{´}ùi½{i}s{t}","MS",722
+"northeast","VA71B","286","N","N"," "," ","n·º{´}ùi½{i}s{t}","MS",723
+"northeast","VA72A","287","N","N"," "," ","n·´{´«}ùi½ºs{t}","MS",724
+"northeast","VA72B","288","N","N"," "," ","n·´ùi½{i}s{t}","MS",725
+"northeast","VA73","291","N","N"," "," ","n·{´}ùi½{i}s{t}","MS",726
+"northeast","VA74A","293","N","N"," "," ","n·º{°}ùi½ºs{t}","MS",727
+"northeast","VA74B!","294!","N","N"," "," ","n·½ºùi½ºs{t}","MS",728
+"northeast","VA75A","297","N","N"," "," ","n·º{´}ùiºs{t}","MS",729
+"northeast","VA75B","298","N","N"," "," ","n·{°}´ùiºs{t}","MS",730
+"northeast","NC1","303","N","N"," "," ","no½¼¹åä±«i½st","MS",731
+"northeaster","NC2A","301","N","N"," "," ","nÀ¹åäi½js{t}´","MS",732
+"northeast","NC2B","304","N","N"," "," ","no¿¾¹«äi½{i}s{t}","MS",733
+"northeast","NC3A","305","N","N"," "," ","no½¼¹äi½is{t}","MS",734
+"northeaster","NC3B","306","N","N"," "," ","n¤—©—äi½{j}st´","MS",735
+"northeast","NC4A","307","N","Y"," ","OLD","no½¼¹äi½ºs{t}","MS",736
+"northeast","NC4A","307","N","Y"," ","OLD","nÀ¾¹äi½ºs{t}","MS",736
+"northeast","NC4B","308","N","N"," "," ","n·½{·}fiºs{t}","MS",737
+"northeaster","NC5A","309","N","N"," "," ","no¿”¹«äi½{i}st°","MS",738
+"NR","NC5B","310"," ","N"," "," "," ","MS",739
+"northeast","NC6!","311!","N","N"," "," ","n·½¼{·}{°}ùiºs{t}","MS",740
+"NR","NC7A","315(*)"," ","N"," "," "," ","MS",741
+"northeast","NC7B","316","N","N"," "," ","n·´äiºst","MS",742
+"northeast","NC8N","N317","N","N"," "," ","n·º{Æ}iºs","MS",743
+"northeast","NC8A","317","N","N"," "," ","no¼¹«äiºst","MS",744
+"northeast","NC8B","318(*)","N","N"," "," ","n·º{°}ùiºst","MS",745
+"northeast","NC9A","319","N","N"," "," ","no¿½¾¹«äiºst","MS",746
+"northeast","NC9B","320","N","N"," "," ","no¿½¼¹«åäist","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"northeast","NC10B","323","N","N"," "," ","no½¼¹åä±«jst","MS",749
+"northeast","NC10C","322","N","N"," "," ","nÀ¹«åä±ist","MS",750
+"northeast","NC11A","325","N","N"," "," ","nÀ”½¹åä±ist","MS",751
+"northeast","NC11B","326","N","N"," "," ","nÀ«¾¹ä±«ist","MS",752
+"northeast","NC12A","327(*)","N","N"," "," ","nÀ«¾¹ä±«iºst","MS",753
+"northeast","NC12B","328","N","N"," "," ","n·½¼{·}ùiºs{t}","MS",754
+"northeaster","NC13A","329","N","N"," "," ","no¼¹«åäi½¾ºst´","MS",755
+"northeast","NC13B","330(*)","N","N"," "," ","nÀ«¾¹«äi½ist","MS",756
+"northeast","NC14N","N331","N","N"," "," ","noºäiºs{t}","MS",757
+"northeast","NC14A","331","N","N"," "," ","no½¼¹åäi½{i}s{t}","MS",758
+"NR","NC14B","332"," ","N"," "," "," ","MS",759
+"northeast","NC14C!","333!","N","N"," "," ","n¶«·½ùist","MS",760
+"northeast","NC15A","335(*)","N","N"," "," ","no½¼¹äiºst","MS",761
+"northeast","NC15B","336","N","N"," "," ","n·½·åùiºs{t}","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"northeast","NC16A","339(*)","N","N"," "," ","n··«ùiºs{t}","MS",764
+"northeast","NC16B","340","N","N"," "," ","n·ºùiºs{t}","MS",765
+"northeast","NC17A","337","N","N"," "," ","n·º{°}ùiºs{t}","MS",766
+"northeast","NC17B","338","N","N"," "," ","nŞ«¼{°}ùi½ºs{t}","MS",767
+"northeast","NC18A","341","N","N"," "," ","n·½ºùiºst","MS",768
+"northeast","NC18B","342","N","N"," "," ","n·½ºfiºs{t}","MS",769
+"northeast","NC19A","343","N","N"," "," ","n··«ùiºst","MS",770
+"northeast","NC19B","344","N","N"," "," ","nŞ{°}ùåiºs","MS",771
+"northeaster","NC20A","345","N","N"," "," ","nÀ¹åäi½ist´","MS",772
+"northeast","NC20B","346a","N","N"," "," ","no½¼¹ä±«is{t}","MS",773
+"northeast","NC20C","346b","N","N"," "," ","no½¼¹åä±«ist","MS",774
+"northeast","NC21A","347","N","N"," "," ","no{¹}äi½¾st","MS",775
+"northeast","NC21B","348","N","N"," "," ","nÀ«¾¹«ä±i½st","MS",776
+"NR","NC22A","349"," ","N"," "," "," ","MS",777
+"northeast","NC22B","349b","N","N"," "," ","n·{°}ùi½¾ist","MS",778
+"northeast","NC23A","351a","N","N"," "," ","no½¹åäiºst","MS",779
+"northeast","NC23B","351b(*)","N","N"," "," ","n·º{°}ùiºst","MS",780
+"northeast","NC23C!","351c!","N","N"," "," ","n·½ºùiºst","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"northeast","NC24N","N352","N","N"," "," ","noºäiºs","MS",783
+"northeast","NC24A","352a","N","N"," "," ","no«¼{¹}äis{t}","MS",784
+"northeast","NC24B","352b","N","N"," "," ","no¼{¹}äiºst","MS",785
+"NR","NC25N","N353"," ","N"," "," "," ","MS",786
+"northeast","NC25A","353","N","N"," "," ","n·½ºùiºst","MS",787
+"NR","NC25B","354"," ","N"," "," "," ","MS",788
+"northeast","NC26A","355a","N","N"," "," ","n·ºùiºst","MS",789
+"northeast","NC26B","355b","N","N"," "," ","n·{°}ùiºs{t}","MS",790
+"northeast","NC26C!","356!","N","N"," "," ","n··«ùiºst","MS",791
+"northeast","NC27A","357","N","N"," "," ","n·ºùiºst","MS",792
+"northeast","NC27B","258","N","N"," "," ","n·ºùiºst","MS",793
+"northeast","NC28A","361","N","N"," "," ","no¼¹äiºs{t}","MS",794
+"northeast","NC28B","361b","N","N"," "," ","n··«ùiºs{t}","MS",795
+"northeast","NC28C","362","N","N"," "," ","n··«ùi½¾ist","MS",796
+"NR","NC29A","363(*)"," ","N"," "," "," ","MS",797
+"northeast","NC29B","364","N","N"," "," ","n·´ùåi¾is{t}","MS",798
+"northeast","NC30A","365","N","N"," "," ","n·ºùi½ºst","MS",799
+"northeast","NC30B","366","N","N"," "," ","n·½ºùiºs{t}","MS",800
+"northeast","NC31A","367","N","N"," "," ","n·ºåfi½ºs{t}","MS",801
+"northeast","NC31B","368","N","N"," "," ","n·ºùiºs{t}","MS",802
+"NR","NC32A","369"," ","N"," "," "," ","MS",803
+"northeast","NC32B!","370!","N","N"," "," ","n·½ºùiºst","MS",804
+"northeast","NC33A","373","N","N"," "," ","n·º´ùiºs{t}","MS",805
+"northeast","NC33B","374","N","N"," "," ","n·º°ùi½ºs{t}","MS",806
+"northeast","NC34A","375","N","N"," "," ","n··«ùi½is{t}","MS",807
+"northeast","NC34B","376","N","N"," "," ","n·º{°}ùi½ist","MS",808
+"NR","NC35A","377"," ","N"," "," "," ","MS",809
+"northeast","NC35B","378","N","N"," "," ","n·°ùi½¾jst","MS",810
+"northeast","NC36N","N381","N","N"," "," ","n·ºùiºs{t}","MS",811
+"northeast","NC36A","381","N","N"," "," ","n·ºùi¾ºst","MS",812
+"northeast","NC36B","382","N","N"," "," ","n·ºùiºst","MS",813
+"northeast","NC37A","383","N","N"," "," ","n·½ùis{t}","MS",814
+"northeast","NC37B","384","N","N"," "," ","n·½ºùi½ºs{t}","MS",815
+"northeast","NC38N","N385","N","N"," "," ","n·º{°}ùiºs","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"northeast","NC38B","386","N","N"," "," ","n·º{°}ùi½ºst","MS",818
+"northeast","NC39A","389","N","N"," "," ","n·½ºùi½ºs{t}","MS",819
+"northeast","NC39B!","390!","N","N"," "," ","n·½·ùi½{i}s{t}","MS",820
+"NR","NC40A","391"," ","N"," "," "," ","MS",821
+"northeast","NC40B","392","N","N"," "," ","n·º{°}ùiºst","MS",822
+"northeast","NC41!","393!","N","N"," "," ","n·½º{°}ùiºst","MS",823
+"northeast","NC42A","403","N","N"," "," ","n·ºùiºst","MS",824
+"northeast","NC42B","404(*)","N","N"," "," ","n·º{°}ùiºst","MS",825
+"northeast","NC43A","397","N","N"," "," ","n··«fiºs{t}","MS",826
+"northeast","NC43B","398","N","N"," "," ","n··«ùiºst","MS",827
+"northeast","NC44","410(*)","N","N"," "," ","n·½ºùiºst","MS",828
+"northeast","NC45A","409(*)","N","N"," "," ","n·½ºùi½ºs{t}","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"northeast","NC46A","411","N","N"," "," ","n·ºùiºst","MS",831
+"northeast","NC46B","412","N","N"," "," ","n·½ºùiºst","MS",832
+"northeast","NC46C!","412b!","N","N"," "," ","n·½º{°}ùiºst","MS",833
+"NR","NC47","413"," ","N"," "," "," ","MS",834
+"northeast","NC48","418","N","N"," "," ","n·º´ùi½¾{i}st","MS",835
+"northeast","NC49","421","N","N"," "," ","n·½ºùiºs{t}","MS",836
+"northeast","NC50A","422","N","N"," "," ","n·ºùiºst","MS",837
+"northeast","NC50B!","423!","N","N"," "," ","n·½º{°}ùi¾ºst","MS",838
+"northeast","NC51A","427","N","N"," "," ","n·{´}ùi¾st","MS",839
+"northeast","NC51B","428","N","N"," "," ","n·½º{°}ùi¾ºst","MS",840
+"northeast","NC52N","N429","N","N"," "," ","n·º{f}iºst","MS",841
+"northeast","NC52A","429","N","N"," "," ","n·½·ùi½¾ºist","MS",842
+"northeast","NC52B","430","N","N"," "," ","n·½ºùiºs{t}","MS",843
+"northeast","NC53A","431","N","N"," "," ","n·ºùiºs{t}","MS",844
+"northeast","NC53B","432","N","N"," "," ","nŞ«¼ùiºs{t}","MS",845
+"NR","NC54A","433"," ","N"," "," "," ","MS",846
+"northeast","NC54B","434","N","N"," "," ","n·{°}ùi½¾ºst","MS",847
+"northeast","NC55","435","N","N"," "," ","n·ºùiºst","MS",848
+"northeast","NC56A","436","N","N"," "," ","n·½ºùiºst","MS",849
+"northeast","NC56B!","437!","N","N"," "," ","n·½·ùi½¾ist","MS",850
+"northeast","NC57A","438a","N","N"," "," ","n·ºùi½¾{i}st","MS",851
+"northeast","NC57B","438b","N","N"," "," ","n·ºùi½¾{i}s{t}","MS",852
+"northeast","NC58A","439","N","N"," "," ","n·´ùiºs{t}","MS",853
+"northeast","NC58B","440","N","N"," "," ","n·½´ùiºs{t}","MS",854
+"NA","NC59","441(*)"," ","N"," "," "," ","MS",855
+"northeast","NC60","442","N","N"," "," ","n·°ùi½¾{j}st","MS",856
+"northeast","NC61A","443","N","N"," "," ","n·ºùiºst","MS",857
+"northeast","NC61B","444","N","N"," "," ","n·º{´}ùi{j}st","MS",858
+"northeast","NC62A","447","N","N"," "," ","n·º{´}ùi½ºst","MS",859
+"northeast","NC62B","448","N","N"," "," ","n·º{°}ùi½ºst","MS",860
+"northeast","NC63A","449","N","N"," "," ","n·´ùi½ºst","MS",861
+"northeast","NC63B","450","N","N"," "," ","n·½º{°}ùi½st","MS",862
+"northeast","NC64A","453","N","N"," "," ","n·½{r}ùiºs{t}","MS",863
+"northeast","NC64B","454","N","N"," "," ","n·{´}ùiºs{t}","MS",864
+"northeast","NC65A","461","N","N"," "," ","n·ºùi½ºst","MS",865
+"NR","NC65B","462"," ","N"," "," "," ","MS",866
+"northeast","NC66A","465","N","N"," "," ","n·ºùiºst","MS",867
+"northeast","NC66B","466","N","N"," "," ","n·º{´}ùiºs{t}","MS",868
+"northeast","NC67A","469","N","N"," "," ","n·ºùi½ºs{t}","MS",869
+"NR","NC67B","470"," ","N"," "," "," ","MS",870
+"northeast","NC68A","473","N","N"," "," ","n·º{´}ùi½ist","MS",871
+"northeast","NC68B","474","N","N"," "," ","n·º{°}ù±«i½st","MS",872
+"northeast","NC69A","477","N","N"," "," ","n·º{°}ùi½ºs{t}","MS",873
+"NR","NC69B","478"," ","N"," "," "," ","MS",874
+"northeast","NC70A","479","N","N"," "," ","n·ºùi½¾ist","MS",875
+"northeast","NC70B","480","N","N"," "," ","n·{´}ùi½¾is{t}","MS",876
+"northeast","NC71A","481","N","N"," "," ","n·ºùiºs{t}","MS",877
+"northeast","NC71B","482","N","N"," "," ","n·ºùiºs{t}","MS",878
+"northeast","NC71C!","483!","N","N"," "," ","n·´ùiºst","MS",879
+"northeast","NC72A","487","N","N"," "," ","n·½·ùi½s{t}","MS",880
+"northeast","NC72B","488","N","N"," "," ","n·½ºùiºs{t}","MS",881
+"northeast","NC73A","491","N","N"," "," ","n·ºùi½¾{i}s{t}","MS",882
+"NR","NC73B","492"," ","N"," "," "," ","MS",883
+"northeast","NC74A","493","N","N"," "," ","n·½·ùiºs{t}","MS",884
+"northeast","NC74B","494","N","N"," "," ","n·{´}ùiºst","MS",885
+"northeast","NC75A","495","N","N"," "," ","n·ºùi½{i}s{t}","MS",886
+"northeast","NC75B","496","N","N"," "," ","n·´ùi½¾ºs{t}","MS",887
+"northeast","SC1A","203.1","N","N"," "," ","õno¼{¹}åäist","MS",888
+"northeast","SC1B","203.2","N","N"," "," ","n·ºùiºs{t}","MS",889
+"northeast","SC2A","204.1(*)","N","N"," "," ","n·ºùiº{s}{t}","MS",890
+"northeast","SC2B","204.2","N","N"," "," ","n·ºùiºst","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"NR","SC3A","205.1"," ","N"," "," "," ","MS",893
+"northeast","SC3B","205.2","N","N"," ","CNV","ån·º{°}ùõiº{j}s","MS",894
+"northeast","SC3C!","205.3!","N","N"," "," ","ån·º°ùõiºs","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"northeast","SC4B","206.2","N","N","very seldom wind of that quarter here"," ","ån·º°ùõiº{±¿}s","MS",897
+"northeast","SC4C","206.3","N","N"," "," ","ån·¼º°ùõiº{±¿}s","MS",898
+"northeast","SC5A","207.1","N","N"," ","CNV","n·«º°ùõiºs","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"NA","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"northeast","SC5D!","207.3!","N","N"," "," ","ån·º{°}ùõiº{±¿}s","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"northeast","SC6A","208.1","N","N"," "," ","n·½ºäiºst","MS",904
+"northeast","SC6B","208.2(*)","N","N"," "," ","õn·º°İùåiº{±¿}s","MS",905
+"northeast wind","SC6C!","208.3!","O","N"," "," ","ån·º°ùõiº{±¿}st$åw±«{°}n","MS",906
+"northeasterly spell","SC6C!","208.3!","O","N"," "," ","õn·º°ùåiº{±¿}st°l±¿«¼$sp²«{°}l","MS",906
+"northeasters","SC6C!","208.3!","N","N"," "," ","õn·º°ùåiº{±¿}st°«z","MS",906
+"wet northeasters","SC6C!","208.3!","O","N"," "," ","åw²«t$n·º°ùiº{±¿}st°«z","MS",906
+"dry northeasters","SC6C!","208.3!","O","N"," "," ","ådòŞ«¼º±¿$n·º°ùiº{±¿}st°«z","MS",906
+"NA","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"NR","SC7A","209.1"," ","N"," "," "," ","MS",909
+"northeast","SC7B","209.2","N","N"," "," ","ån·¼º°ùõiº{±}st","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"northeast","SC7D!","209.4!","N","N"," "," ","ån·¼º{°}ùõiºs","MS",912
+"northeast","SC8A","210.1","N","N"," "," ","ån·º°ùõiºs","MS",913
+"northeast","SC8B","210.2","N","Y","[ù]: doubtful","DDT","ån·º°ùõiºst","MS",914
+"northeast","SC8C","210.3","N","N"," "," ","ån·º°ùõiº{±¿}s","MS",915
+"northeast wind","SC9A","211.1","O","N"," "," ","ån·º°ùõiºs$åw±«{°}n","MS",916
+"northeast","SC9B","211.2","N","N"," "," ","ån·¼º°ùõiºs","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"northeaster","SC11N","N213","N","N"," "," ","noist°","MS",923
+"northeast","SC11M!","2n213!","N","N"," "," ","ån·½¼{°}ùõiºs","MS",924
+"northeast","SC11M!","2n213!","N","N"," ","CNV","ån·½¼°ùõiºst","MS",924
+"northeast","SC11A","213.1(*)","N","N"," "," ","ån·«¼º°ùõiºst","MS",925
+"northeast","SC11A","213.1(*)","N","N"," ","CNV","ån·¼º{°}ùõiºi«st","MS",925
+"northeast","SC11B","213.11","N","N"," "," ","n·º{°}ùiºst","MS",926
+"northeast","SC11C","213.2","N","N"," "," ","ån·¼º{°}ùiºs","MS",927
+"northeaster","SC11C","213.2","N","N"," "," ","ån·¼º{°}ùõiºst°","MS",927
+"northeast","SC11D","213.3","N","N"," "," ","õn·¼°ùåiºst","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NA","SC11F","213.5"," ","N"," "," "," ","MS",930
+"northeast","SC11G!","213.7!","N","N"," "," ","ån·¼º°ùiº{j}st","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"NR","SC11I!","213.9!"," ","N"," "," "," ","MS",933
+"northeast","SC11J!","213.10!","N","N"," "," ","n·¼º{°}ùåiºst","MS",934
+"northeaster","SC11J!","213.10!","N","N"," "," ","ån·¼º{°}ùõiºst°¾","MS",934
+"northeast wind","SC11J!","213.10!","O","N"," "," ","ån·¼º°ùõiºst$w±«nd","MS",934
+"northeast","SC11J!","213.10!","N","N"," "," ","ån·¼º°ùõiº{±¿}st","MS",934
+"northeast","SC12A","214.1","N","N"," "," ","ån·¼º°İùõiºs","MS",935
+"NR","SC12B","214.2"," ","N"," "," "," ","MS",936
+"northeast","SC13","213.6","N","N"," "," ","n·º°ùõiºs","MS",937
+"northeast","SC13","213.6","N","N"," "," ","n·º°iºst","MS",937
+"NR","SC14A","215.1"," ","N"," "," "," ","MS",938
+"northeast","SC14B","215.2","N","N"," "," ","n·º{°}ùõiºs","MS",939
+"NR","SC15A","216.1"," ","N"," "," "," ","MS",940
+"northeast","SC15B","216.2","N","N"," "," ","ån·¼º°ùõiºst","MS",941
+"NA","SC15C","216.3"," ","N"," "," "," ","MS",942
+"NR","SC16N","N217"," ","N"," "," "," ","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"NR","SC17A","218.1"," ","N"," "," "," ","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"northeaster","SC17D","218.4","N","Y","""nautical term¢","SUG","ån·ºõiº{±¿}st°","MS",948
+"northeast","SC18N","N219","N","N"," "," ","ån·¼º{°}t‘õiºs","MS",949
+"northeast","SC18A","219.1","N","N"," "," ","ån·¼º°ùõiºst","MS",950
+"northeaster","SC18A","219.1","N","N"," "," ","õn·¼º°ùåiºst°","MS",950
+"northeaster","SC18B","219.2","N","N"," ","CNV","n·¼º{°}åiºst°","MS",951
+"northeast","SC18B","219.2","N","N"," ","CNV","n·¼º{°}ùõiºst","MS",951
+"steady wind","SC18B","219.2","O","N"," ","CNV","åst²«d±¿«¼{i¿¼}$åw±«n","MS",951
+"northeast","SC18C!","219.3(*)!","N","N"," "," ","n·¼º{°}ùõi«ºst","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NA","SC19A","220.1"," ","N"," "," "," ","MS",955
+"northeast","SC19B","220.4","N","N"," "," ","n·º{°}ùåiºst","MS",956
+"northeast","SC19C","220.2(*)","N","N"," "," ","n·¼º{°}ùiºst","MS",957
+"northeaster","SC19C","220.2(*)","N","Y"," ","OLD","n·º{°}åiºst°¾","MS",957
+"northeast","SC19D!","220.3!","N","N"," "," ","ån·°ùõiºs","MS",958
+"NA","SC19E!"," "," ","N"," "," "," ","MS",959
+"northeast","SC20A","221.1","N","N"," "," ","ån·º°—«ùõiº{j}s","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"northeast","SC20C","221.3","N","N"," "," ","n·º·«ùiºjs","MS",962
+"northeast","SC20C","221.3","N","N"," "," ","n·º°ùiºjs","MS",962
+"NA","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"northeast","SC21A","222.1","N","N"," "," ","n·ºùiºs{t}","MS",964
+"northeast","SC21B","222.2","N","N"," "," ","n·½º{°}ùiºs{t}","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"northeaster","SC22A","223.1","N","N"," "," ","ån·º°ùõiº{±¿}st°¾","MS",967
+"northeast","SC22A","223.1","N","N"," "," ","n·º°ùåiº{±¿}st","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"NR","SC22C!","223.3!"," ","N"," "," "," ","MS",969
+"northeast","SC23A","224.1","N","N"," "," ","ån·¼º°ùõiº{±¿}s","MS",970
+"northeast","SC23B","224.2","N","N"," "," ","ån·¼º´ùõiº{j}st","MS",971
+"northeast","SC23C","224.3","N","N"," "," ","ån·¼ºùõiºs","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"northeast","SC24A","225.1","N","N"," "," ","n·º{°}fåiºs","MS",976
+"northeast","SC24A","225.1","N","N"," "," ","ån·º°İùõi¾s","MS",976
+"NR","SC24B","225.11"," ","N"," "," "," ","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"northeast","SC24D!","225.3!","N","N"," ","CNV","ån·¼º{°}ùõiº{j}s","MS",979
+"NR","SC25A","226.1"," ","N"," "," "," ","MS",980
+"northeast","SC25B","226.2","N","N"," "," ","n·«º°İ«ùiºst","MS",981
+"northeast","SC25C!","226.3!","N","N"," "," ","n·«°ùåiºs","MS",982
+"northeast wind","SC26A","227.1","O","N"," "," ","ån·º°ùõiºs$w±«{°}n","MS",983
+"northeast","SC26B!","227.2!","N","N"," "," ","n·º°ùõiºs","MS",984
+"NR","SC27A","228.1"," ","N"," "," "," ","MS",985
+"northeast","SC27B","228.2","N","N"," "," ","ån·º°ùõiº{±¿}s","MS",986
+"northeast","SC28A","229.1","N","N"," "," ","ån·º°ùõiºs","MS",987
+"NA","SC28B","217.2"," ","N"," "," "," ","MS",988
+"northeast","SC28C","229.2","N","N"," "," ","ån·º°İùõiºs","MS",989
+"NR","SC28D","229.3"," ","N"," "," "," ","MS",990
+"northeast","SC29A","230.2(*)","N","N"," "," ","ån·º{°}ùõiºs","MS",991
+"northeast","SC29A","230.2(*)","N","N"," "," ","ån·º°ùõiºs","MS",991
+"NR","SC29B","230.1(*)","N","N"," "," "," ","MS",992
+"northeast winds","SC29C","230.3","O","N"," "," ","ån·—º°ùõiºs$åw±«{°}nz","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"NR","SC30A","231.1"," ","N"," "," "," ","MS",996
+"northeast","SC30B","231.2","N","N"," "," ","ån¶«·ùõiºjs","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"northeast","SC31A","232.1","N","N"," "," ","ån·º{°}ùõiºs","MS",999
+"northeast","SC31B","232.2","N","N"," "," ","n·º°İùõiºst","MS",1000
+"northeast","SC32A","233.1","N","N"," "," ","n·«º{°}ùõiºjs","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"NR","SC32C","233.3"," ","N"," "," "," ","MS",1003
+"northeast","SC32D","233.4","N","N"," "," ","ån·º°ùõiº{j}s","MS",1004
+"NR","SC33A","234.1"," ","N"," "," "," ","MS",1005
+"NR","SC33B","234.2"," ","N"," "," "," ","MS",1006
+"NR","SC34A","235.1"," ","N"," "," "," ","MS",1007
+"northeast","SC34B","235.2","N","N"," "," ","õn·º°ùåiºjst","MS",1008
+"NA","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"northeast","SC35A","236.1","N","N"," "," ","n·º°ùõiºjs","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"northeast","SC35C","236.3(*)","N","N"," "," ","n·º{°}ùiº{i«}st","MS",1012
+"NR","SC35D"," "," ","N"," "," "," ","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"northeast","SC36B","237.2","N","N"," "," ","n·¼º´¾ùõiºjs","MS",1016
+"northeast rain","SC36C","237.3","O","N"," "," ","ån·«¼º´¾ùiºjs$åre«º{±¿}n","MS",1017
+"northeast","SC36C","237.3","N","N"," ","CNV","n·«¼º´¾ùiºjst","MS",1017
+"northeast","SC36D!","237.4!","N","N"," ","CNV","ån¶«¼·¼ùõiºi«s","MS",1018
+"northeast","SC37","238","N","N"," "," ","ån·°ùõiº{i«}{s}{t}","MS",1019
+"northeast","SC38N","N239","N","N"," "," ","n¶«·«ùõi¾js","MS",1020
+"northeast","SC38A","239.1","N","N"," "," ","ån·½oùõiºjs","MS",1021
+"northeaster","SC38B","239.2","N","N"," "," ","ån·«¼º°ùõiºst°«","MS",1022
+"NA","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"northeast","SC38D!","239.4(*)!","N","N"," "," ","ån·½¼ºoùõiºjst","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"northeast","SC39A","240.1","N","N"," "," ","õn¶«·ùåiº{±}st","MS",1026
+"northeast","SC39B!","240.2!","N","N"," "," ","ån·½º·«ùõiºjst","MS",1027
+"northeast","SC39B!","240.2!","N","N"," "," ","n·ºo½ùiºjs","MS",1027
+"northeast","SC40A","241.1","N","N"," "," ","ån·½·ùõii«st","MS",1028
+"northeast","SC40A","241.1","N","N"," "," ","ån·½º{o}ùõii«st","MS",1028
+"northeast","SC40B","241.2","N","N"," "," ","n·½oùõii«st","MS",1029
+"NR","SC41A","242.1"," ","N"," "," "," ","MS",1030
+"northeast","SC41B","242.2","N","N"," "," ","ån¶¼°ùõi½ist","MS",1031
+"northeast wind","SC42N","N243","O","N"," "," ","n¶«oùõi±«st$w±«n","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"northeast","SC42A","243.1","N","N"," "," ","ån·½¼o¼{°}ùõijst","MS",1034
+"northeast","SC42A","243.1","N","N"," "," ","ån·¼o½¼{°}ùõijst","MS",1034
+"northeast","SC42B!","243.2!","N","N"," "," ","n·½¼º°ùåiºst","MS",1035
+"NR","SC42C!","243.3!"," ","N"," "," "," ","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"northeast","SC42E!","243.5!","N","N"," "," ","n·°ùõiºst","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"northeast","SC43B","244.2","N","N"," "," ","ån·½oùåii«st","MS",1040
+"northeast wind","SC43B","244.2","O","N","""wet spell¢"," ","ån¶«·İ´ùõii«st$w±«n{d}","MS",1040
+"northeast","SC43C","244.3","N","N","long, cold rains"," ","ån¶«·«ùõii«st","MS",1041
+"northeast","SC44A","245.1","N","N"," "," ","ån¶«o{°}ùõii«st","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"northeast wind","GA1N","N246","O","N"," "," ","n·º°äiºs$åâ±n","MS",1044
+"NR","GA1A","246.1(*)"," ","N"," "," "," ","MS",1045
+"NR","GA1B","246.11"," ","N"," "," "," ","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"NR","GA1F!","246.5!"," ","N"," "," "," ","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"northeast","GA1H!","246.7!","N","N"," "," ","n·«¼°ùå±¿½¼i¼st","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"northeast","GA2B","247.2","N","N"," "," ","n·¼º´¾ùõiºjst","MS",1055
+"northeaster","GA3A","248.1","N","N"," "," ","n·ºùiºst°½","MS",1056
+"northeast","GA3B","248.2","N","N"," "," ","n·º°ùõiºst","MS",1057
+"northeaster","GA3B","248.2","N","N"," "," ","n·º°ùõiºst°","MS",1057
+"northeaster","GA4N","N249","N","N"," "," ","õn·º{°}ådiºst°","MS",1058
+"northeast","GA4A","249.1","N","N"," "," ","õn·º{°}ùåiºst","MS",1059
+"northeasters","GA4A","249.1","N","N"," "," ","n·—½º{°}äist°«¾z","MS",1059
+"northeaster","GA4B","249.2","N","N"," "," ","ån·º°õäiºst°","MS",1060
+"northeaster","GA4C!","249.3!","N","N"," ","CNV","n·º°ùõiºst°","MS",1061
+"northeaster","GA5A","250.1","N","N","worst"," ","ån·º{°}õiºst°","MS",1062
+"NA","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"northeast","GA5C","250.3","N","N"," "," ","ån·º{°}äiº{±¿}st","MS",1064
+"northeasters","GA5C","250.3","N","N"," "," ","n·º°ùiºst°«¾z","MS",1064
+"northeast","GA5C","250.3","N","N"," ","CNV","n·½º{°}õäiºs","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"northeast weather","GA5E!","250.5!","O","N"," "," ","ån·«º°ùõiº{±¿}s$åw²«{°}ä°","MS",1066
+"northeaster","GA5E!","250.5!","N","N"," "," ","n·«°ùiº{±¿}st°«¾","MS",1066
+"northeast gale","GA6A","251.1","N","N"," "," ","ån·º°õäiºs$ågˆe«ºl ","MS",1067
+"northeast","GA6B!","251.2!","N","N"," "," ","n·«º°äõiºst","MS",1068
+"northeasters","GA6B!","251.2!","N","N"," ","CNV","õn·«º°åäiºst°z","MS",1068
+"northeaster","GA6B!","251.2!","N","N"," "," ","ån·«º{°}ùõiºst°","MS",1068
+"northeaster","GA6B!","251.2!","N","N"," "," ","ån·«°õäiºst°","MS",1068
+"northeast","GA7","256","N","N"," "," ","ån·¼º{°—}ùõiºst","MS",1069
+"northeaster","GA7","256","N","N"," "," ","ån·¼º{°}ùõiºst°","MS",1069
+"NR","GA8A","257.1"," ","N"," "," "," ","MS",1070
+"northeast","GA8B","257.2","N","N"," "," ","n·¼º°İùåiºst","MS",1071
+"northeaster","GA8B","257.2","N","N"," "," ","n·¼º°ùõiºst°","MS",1071
+"northeast wind","GA9A","257A.1","O","N"," "," ","õn·´ùåiºst$õw±nd","MS",1072
+"northeast","GA9B","257A.2","N","N"," "," ","n·°ùõi{i«}s","MS",1073
+"northeast","GA9B","257A.2","N","N"," "," ","n·´ùi{i«}s","MS",1073
+"NR","GA10A","258.1"," ","N"," "," "," ","MS",1074
+"northeast","GA10B","258.2","N","N"," "," ","n·º°ùõiºs","MS",1075
+"NR","GA11N","N258A"," ","N"," "," "," ","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"northeast","GA12B!","259.2(.3)","N","N"," "," ","n¶º°ùõiºs","MS",1078
+"northeast wind","GA13A","260.1","O","N"," "," ","n·ºäiº{°}s{t}$w±{°}nd","MS",1079
+"northeasters","GA13B!","260.2!","N","Y","""old salts¢","HRD","ån·ºõiºst°«z","MS",1080
+"northeasters","GA13B!","260.2!","N","Y","""old salts¢","HRD","ån¶«º°ùõiºst´İ«z{z}","MS",1080
+"northeaster","GA14A","261.1","N","N"," "," ","n·¼º°ùõiºjst°","MS",1081
+"northeast","GA14A","261.1","N","N"," "," ","n·¼º{°}ùõiºjs","MS",1081
+"northeaster","GA14B","261.3","N","N","""bad stormy wind; blows all the pecans off¢"," ","n·¼{°}ùõiºjst°İ¾","MS",1082
+"northeaster","GA14B","261.3","N","N","""bad stormy wind; blows all the pecans off¢"," ","n·¼{°}ùõiºjst°","MS",1082
+"wind","GA14B","261.3","N","Y"," ","INA","w±«{°}n","MS",1082
+"blows all the pecans off","GA14B","261.3","S","Y"," ","INA","bÅo¼º¹¼z$·¼{°}ì$ä°$åp`iºjõkˆ`á«{°}nz$·¼º{°}f","MS",1082
+"northeast","GA14C","261.2","N","N"," "," ","n·¼º°ùõiºjst","MS",1083
+"NR","GA15A","262.1"," ","N"," "," "," ","MS",1084
+"northeast","GA15B","262.2","N","N"," "," ","ån·º°äiºs","MS",1085
+"northeast","GA16A","263.2","N","Y","[{t}]: doubtful","FDT","ån¶«º·½ùõiºs{t}","MS",1086
+"northeast","GA16A","263.2","N","N"," "," ","ån¥«¼º·¼ù—õiºst","MS",1086
+"northeast","GA16B","263.1","N","N"," "," ","n·º°İùõiºst","MS",1087
+"NR","GA16C","263.21"," ","N"," "," "," ","MS",1088
+"northeast","GA16D!","263.3!","N","N","rainy"," ","n·º°İùõiºst","MS",1089
+"northeast","GA17N","N264","N","N"," "," ","n·º°ùåiº{i«}s","MS",1090
+"northeast","GA17","264","N","N"," "," ","n·º°İù±ist","MS",1091
+"northeast","GA18A","264A.1","N","N"," "," ","n·°ùiº{i«}st","MS",1092
+"northeast","GA18B","264A.2","N","N"," "," ","ån·°ùõiºst","MS",1093
+"northeast","GA19A","265.1","N","N"," "," ","n·¼º´ùõiº{j}s","MS",1094
+"northeast","GA19B","265.2","N","N"," "," ","n·«º°—ùiº{j}s","MS",1095
+"northeast","GA20A","266.1","N","N","sleet and snow"," ","ån·º´ùõiº{j}s","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"northeaster","GA21A","267.1","N","N"," "," ","n·°ùåiºst°","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"northeast wind","GA22A","268A.1","O","N"," "," ","n·°İùiºst$w±º{°}n{d}","MS",1100
+"northeast","GA22B","268A.2","N","N"," "," ","ån·¼º°ùõiº{j}st","MS",1101
+"northeaster","GA22B","268A.2","N","N"," "," ","n·¼°ùõiº{j}st°","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"NR","GA23C","268.2"," ","N"," "," "," ","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"northeaster","GA23E!","268.4!","N","N","at the coast"," ","ån·°ùõiº{i«}st°","MS",1106
+"NR","GA23F!","268.5!"," ","N"," "," "," ","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"NR","GA24A","269.1"," ","N"," "," "," ","MS",1109
+"northeast storms","GA24B","269.2","O","N"," "," ","ån·½¼°ùiºjst$åst·½·mz","MS",1110
+"NR","GA25N","N269A"," ","N"," "," "," ","MS",1111
+"northeast","GA26","270A","N","N"," "," ","n·º{°}ùõiº{i«}st","MS",1112
+"northeast wind","GA27!","270!","O","N"," ","CNV","n·º°ùõiºst$åw±ºn","MS",1113
+"northeast","GA27!","270!","N","N"," ","CNV","n·º°ùõiº{i«}st","MS",1113
+"northeasternly direction","GA28","271a","O","N"," "," ","n·°ùåiº{i«}stnl±¿«¼$d±¿İr²{k}ón","MS",1114
+"northeast","GA29A","271.1","N","N"," "," ","n·«º°ùõiºst","MS",1115
+"northeast","GA29B","271.2","N","N"," "," ","ån·«º°—ùõiº{j}st","MS",1116
+"NA","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NA","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"northeast","GA30C!","272.3!","N","N"," "," ","n·º°ùõiºst","MS",1119
+"NA","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"northeast","GA31","272A","N","N"," "," ","n·°ùõi{i«}st","MS",1122
+"northeast","GA32","272B","N","N"," "," ","n·½ºù±i½st","MS",1123
+"NR","GA33A","272C1"," ","N"," "," "," ","MS",1124
+"NR","GA33B","272C2"," ","N"," "," "," ","MS",1125
+"northeast","GA34N","N273","N","N"," "," ","ån·º°—ùõiºs","MS",1126
+"NR","GA34A","273.1"," ","N"," "," "," ","MS",1127
+"northeast","GA34B","273.2","N","N"," "," ","n·º°ùõiºjs","MS",1128
+"northeast","GA35N","N273A","N","N"," "," ","n·º°ùõi{i«}st","MS",1129
+"northeast","GA36N","N274A","N","N"," "," ","n¶«oùõi{i«}s","MS",1130
+"northeast","GA36N","N274A","N","N"," "," ","n¶«ofõi{i«}s","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"northeast","GA37M!","NC274","N","N"," "," ","n·°ùåiº{i«}st","MS",1132
+"NR","GA37A","274.1"," ","N"," "," "," ","MS",1133
+"northeast wind","GA37B","274.2","O","N"," "," ","ån·º°İùõiºjs$åw±«n","MS",1134
+"NR","GA37C","274.21"," ","N"," "," "," ","MS",1135
+"northeast","GA37D!","274.7!","N","N"," "," ","n·°ùåiº{i«}st","MS",1136
+"northeast","GA37E!","274.8!","N","N"," "," ","ån·°ùõiº{i«}st","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"northeast","GA37G!","274.4!","N","N"," "," ","n·º°ùõiºjst","MS",1139
+"northeast","GA37H!","274.5!","N","N"," "," ","n·º°İùõiºjst","MS",1140
+"northeasters","GA37H!","274.5!","N","Y"," ","HRD","n·½·ùõiºjst°«z","MS",1140
+"northeast","GA37I!","274.6!","N","N"," "," ","õn·°ùåiº{i«}st","MS",1141
+"northeast","GA37I!","274.6!","N","N"," "," ","ån·°ùõiº{i«}st","MS",1141
+"northeast","GA38","275","N","N"," "," ","n·°ù±i½st","MS",1142
+"northeast","GA39","275A","N","N"," "," ","n·º°ùåiº{i«}st","MS",1143
+"NR","GA40","276A"," ","N"," "," "," ","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"northeast","GA42A","276.1","N","N","bad storms"," ","ån·º´ùõiº{j}s","MS",1146
+"northeast","GA42B","276.2","N","N","""a cold damp spell¢"," ","ån·´ùõiº{j}s","MS",1147
+"a cold damp spell","GA42B","276.2","O","Y"," ","INA","°$åko¼º¹¼l$õdáº{°}mp$åsp²«l","MS",1147
+"NR","GA43","277"," ","N"," "," "," ","MS",1148
+"northeast","GA44A","278.1","N","N","""generally rough¢"," ","ån·«°ùõiºs","MS",1149
+"NA","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"northeast","GA44C","278.3","N","N"," "," ","ån·«´ùõiº{j}s","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"NR","GA44E","278.5"," ","N"," "," "," ","MS",1153
+"northeaster","FL1","252","N","N","""lasts a week¢"," ","n·«ºùiºst°½","MS",1154
+"lasts a week","FL1","252","S","Y"," ","INA","lá½{°}st±¾z$°$åwiºk","MS",1154
+"northeaster","FL2A","253.1","N","N"," "," ","ån·º´ùõiºst´","MS",1155
+"northeast","FL2A","253.1","N","N"," "," ","ån·º´ùõiºst","MS",1155
+"NR","FL2B","253.2"," ","N"," "," "," ","MS",1156
+"northeast","FL2C!","253.3!","N","N"," "," ","ån·º°ùõiºs","MS",1157
+"northeaster","FL2C!","253.3!","N","N"," "," ","ån·½º°ùõiºst°","MS",1157
+"northeasters","FL3A","254.1","N","N"," "," ","ån·º°äõiºst°«z","MS",1158
+"northeast","FL3A","254.1","N","N"," ","CNV","ån·º°äõiºs","MS",1158
+"northeast","FL3A","254.1","N","N"," "," ","ån·º°ù—õiºs","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"northeaster","FL4","254A","N","N"," "," ","n·´ùõi{i«}st´","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"northeast","FL5B","255.2","N","N"," "," ","ån·«¼º°ùõiºs","MS",1162
+"","","","","","","","","",

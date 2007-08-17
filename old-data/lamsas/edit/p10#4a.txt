@@ -1,0 +1,1750 @@
+"broom","NY1","50","N","N"," "," ","brπm","MS",1
+"cleans up","NY1","50","E","Y"," ","INA","klijnz$∏p","MS",1
+"broom","NY2A","51.1","N","N"," "," ","bÒéum","MS",2
+"cleans up","NY2A","51.1","E","Y"," ","INA","kliæjnz$∏p","MS",2
+"broom","NY2B","51.2","N","N"," "," ","brum","MS",3
+"cleans up","NY2B","51.2","E","Y"," ","INA","klijnz$∏p","MS",3
+"broom","NY2C","51.3","N","N"," "," ","brum","MS",4
+"cleans up","NY2C","51.3","E","Y"," ","INA","kliæjnz$∏p","MS",4
+"redds up","NY2C","51.3","E","Y","especially for Dutch","SUG/OLD/INA","r≤dz$∏p","MS",4
+"broom","NY3A","401","N","N"," "," ","brπm","MS",5
+"broom","NY3B","403","N","N"," "," ","bru∫m","MS",6
+"broom","NY3C","402","N","N"," "," ","bruº∫m","MS",7
+"broom","NY3D","404","N","N"," "," ","bruº∫m","MS",8
+"broom","NY4A","405","N","N"," "," ","brπm","MS",9
+"broom","NY4B","407","N","N"," "," ","bruΩºm","MS",10
+"broom","NY4C","408","N","N"," "," ","bruΩº∫m","MS",11
+"broom","NY5A","409","N","N"," "," ","bruΩº∫m","MS",12
+"broom","NY5B","410","N","N"," "," ","bruΩº∫m","MS",13
+"brooms","NY5C","411","N","N"," "," ","bru∫mz","MS",14
+"broom","NY5D","412","N","N"," "," ","bruΩº∫m","MS",15
+"broom","NY5E","413","N","N"," "," ","brπm","MS",16
+"broom","NY5F","414","N","N"," "," ","brπm","MS",17
+"broom","NY5G","415","N","N"," "," ","brπum","MS",18
+"broom","NY5H!","416!","N","N"," "," ","b’üÚuº∫m","MS",19
+"broom","NY5I!","417!","N","N"," "," ","brπuΩm","MS",20
+"broom","NY6A","418","N","N"," "," ","bru∫m","MS",21
+"broom","NY6B","419","N","N"," "," ","bruº∫m","MS",22
+"broom","NY7A","420","N","N"," "," ","bruΩº∫m","MS",23
+"broom","NY7B","421","N","N"," "," ","bruΩº∫m","MS",24
+"broom","NY7C","422","N","N"," "," ","bruº∫m","MS",25
+"broom","NY7D","423","N","N"," "," ","bruΩºm","MS",26
+"broom","NY7E","424","N","N"," "," ","brπm","MS",27
+"broom","NY7F","425","N","N"," "," ","bruº∫m","MS",28
+"broom","NY7G","426","N","N"," "," ","bróü’àu∫m","MS",29
+"broom","NY7H","427","N","N"," "," ","brπuΩm","MS",30
+"broom","NY7I","428","N","N"," "," ","bru∫m","MS",31
+"broom","NY7J!","429!","N","N"," "," ","brπm","MS",32
+"broom","NY7K!","430!","N","N"," "," ","bruº∫m","MS",33
+"broom","NY7L!","431!","N","N"," "," ","bÒéàu∫m","MS",34
+"broom","NY7M!","432!","N","N"," "," ","brπm","MS",35
+"brooms","NY8","432b","N","N"," "," ","bru∫mz","MS",36
+"brooms","NY9A","432c","N","N"," "," ","bru∫mz","MS",37
+"brooms","NY9B","433","N","N"," "," ","bru∫mz","MS",38
+"brooms","NY9C","434","N","N"," "," ","bruº∫mz","MS",39
+"brooms","NY10A","435","N","N"," "," ","bruº∫mz","MS",40
+"brooms","NY10B!","436!","N","N"," "," ","bruº∫mz","MS",41
+"brooms","NY11","438","N","N"," "," ","bruº∫mz","MS",42
+"brooms","NY12A","439(*)","N","N"," "," ","bru∫mz","MS",43
+"brooms","NY12A","439(*)","N","Y"," ","AUX","brπmz","MS",43
+"brooms","NY12B","440","N","N"," "," ","brπmz","MS",44
+"file cloth","NY12B","440","O","Y"," ","INA","Âfa±øÏ$ıkÏ∑Ω∫{∞}˘","MS",44
+"broom","NY12C!","441!","N","N"," "," ","bru∫m","MS",45
+"file cloth","NY12C!","441!","O","Y"," ","INA","Âfa±øÏ$ıkÏ∑∫{∞}˘","MS",45
+"file","NY12C!","441!","V","Y"," ","INA","fa±øÏ","MS",45
+"brooms","NY13A","443","N","N"," "," ","bru∫mz","MS",46
+"file","NY13A","443","N","Y"," ","INA","fa´æ±ø{∞}Ï","MS",46
+"file","NY13A","443","V","Y"," ","INA","fa´æ±ø{∞}Ï","MS",46
+"brooms","NY13B!","444!","N","N"," "," ","bru:mz","MS",47
+"file","NY13B!","444!","V","Y"," ","INA","fa±ø{∞}Ï","MS",47
+"file","NY13B!","444!","N","Y"," ","INA","fa±ø{∞}Ï","MS",47
+"brooms","NY14A","445","N","N"," "," ","brπ´mz","MS",48
+"file","NY14A","445","V","Y"," ","INA","fa´æ±ø{∞}Ï","MS",48
+"file","NY14A","445","N","Y"," ","INA","fa´æ±ø{∞}Ï","MS",48
+"brooms","NY14B","446","N","N"," "," ","bruº∫mz","MS",49
+"brooms","NY15A","447","N","N"," "," ","bruº∫mz","MS",50
+"file cloth","NY15A","447","O","Y"," ","INA","Âfa´æ±ø{∞}Ï$ıkÏ∂´∫{∞}˘","MS",50
+"file","NY15A","447","V","Y"," ","INA","fa´æ±ø{∞}Ï","MS",50
+"brooms","NY15B","448","N","N"," "," ","bru∫mz","MS",51
+"broom","NY16A","449","N","N"," "," ","bru:m","MS",52
+"file","NY16A","449","N","Y"," ","INA","fa±øÏ","MS",52
+"file","NY16A","449","V","Y"," ","INA","fa±øÏ","MS",52
+"broom","NY16B","450","N","N"," "," ","bru∫m","MS",53
+"file","NY16B","450","V","Y"," ","INA","faæ±øÏ","MS",53
+"file","NY16B","450","N","Y"," ","INA","faæ±øÏ","MS",53
+"broom","NY17A","451(*)","N","N"," "," ","bru∫m","MS",54
+"broom","NY17A","451(*)","N","Y"," ","AUX","brπm","MS",54
+"broom","NY17B","452","N","N"," "," ","brπm","MS",55
+"file","NY17B","452","V","Y"," ","INA","fa´æ±ø{∞}Ï","MS",55
+"file","NY17B","452","N","Y"," ","INA","fa´æ±ø{∞}Ï","MS",55
+"broom","NY18A","453","N","N"," "," ","bru∫m","MS",56
+"file","NY18A","453","N","Y"," ","INA","f•Ω±ø{∞}Ï","MS",56
+"file","NY18A","453","V","Y"," ","INA","f•Ω±ø{∞}Ï","MS",56
+"broom","NY18B","454","N","N"," "," ","bru∫m","MS",57
+"file","NY18B","454","N","Y"," ","INA","faæ±ø{∞}Ï","MS",57
+"file","NY18B","454","V","Y"," ","INA","faæ±ø{∞}{Ï}","MS",57
+"broom","NY18C!","455!","N","N"," "," ","bru∫m","MS",58
+"file","NY18C!","455!","V","Y"," ","INA","faæ∫±øÏ","MS",58
+"file","NY18C!","455!","N","Y"," ","INA","faæ∫±øÏ","MS",58
+"broom","NY19","456","N","N"," "," ","bru∫m","MS",59
+"file","NY19","456","V","Y"," ","INA","fa´æ±ø{∞}Ï","MS",59
+"file","NY19","456","N","Y"," ","INA","fa´æ±ø{∞}Ï","MS",59
+"broom","NY20A","457","N","N"," "," ","bruº∫m","MS",60
+"file","NY20A","457","N","Y"," ","INA","f•Ω±ø{∞}Ï","MS",60
+"file","NY20A","457","V","Y"," ","INA","f•º±ø{∞}Ï","MS",60
+"broom","NY20B","458","N","N"," "," ","brπ´m","MS",61
+"broom","NY21","459","N","N"," "," ","bru∫m","MS",62
+"file","NY21","459","N","Y","cloth to wipe feet on","INA","fa±ø{∞}Ï","MS",62
+"broom","NY22","460","N","N"," "," ","bru∫m","MS",63
+"file cloth","NY22","460","O","Y"," ","SUG/OLD/INA","fa±ø{∞}Ï$kÏ∂´∫{∑}˘","MS",63
+"file","NY22","460","V","Y"," ","SUG/OLD/INA","fa±ø{∞}Ï","MS",63
+"broom","NY23A","461","N","N"," "," ","bruº∫u´m","MS",64
+"mopping","NY23A","461","V","Y"," ","INA","Âmµæ'pm","MS",64
+"scrubbing broom","NY23B","462a","O","N","whiteash"," ","Âskrèá∏Ωb±øn$ıbruΩ∫m","MS",65
+"broom","NY23B","462a","N","N"," ","CNV","brπ´∫{∞}m","MS",65
+"scrub cloth","NY23B","462a","O","Y"," ","INA","skrèá∏´b$kÏè∑∫{∞}˘","MS",65
+"scrub","NY23B","462a","V","Y"," ","INA","skrá∏Ωºb","MS",65
+"brooms","NY23C","462b","N","N"," "," ","bruøΩæ∫umz","MS",66
+"mop","NY23C","462b","N","Y"," ","INA","mµp","MS",66
+"dust mop","NY23C","462b","O","Y"," ","INA","Âd∏s$ımµp","MS",66
+"mop","NY23C","462b","V","Y"," ","INA","mµp","MS",66
+"broom","NY24A","463","N","N"," "," ","bruº∫m","MS",67
+"broom","NY24B!","464!","N","N"," "," ","bru:m","MS",68
+"file","NY24B!","464!","N","Y"," ","SUG/OLD/INA","fa´æ±ø{∞}Ï","MS",68
+"broom","NY25A","465","N","N"," "," ","brπ˛´u˛m","MS",69
+"broom","NY25A","465","N","N"," "," ","bru˛Ω∫m","MS",69
+"file cloth","NY25A","465","O","Y"," ","INA","Âfµæ∫±øl$ıklè∂{∑}˘","MS",69
+"file","NY25A","465","VV","Y"," ","INA","fµæ∫±øÏ","MS",69
+"broom","NY25B","466","N","N"," "," ","brπ´∫um","MS",70
+"mop","NY25B","466","N","Y"," ","INA","mµp","MS",70
+"scrub cloth","NY25B","466","O","Y"," ","INA","skrèóá∏Ωb$klè∑Ωº∫{∞}˘","MS",70
+"filing the floors","NY25B","466","E","Y","""some woman somewhere¢","HRD/INA","Âfµ∫±æl±øºÓ$‰∞$Âflèoé∫¥z","MS",70
+"broom","NY26A","467","N","N"," "," ","brπ´m","MS",71
+"mop","NY26A","467","N","Y"," ","INA","mµp","MS",71
+"broom","NY26B","468","N","N"," "," ","bruΩºum","MS",72
+"file cloth","NY26B","468","ON","Y"," ","INA","Âf•´±øÏ$ıklè∂´{∞}˘","MS",72
+"mop","NY26B","468","N","Y"," ","INA","mµp","MS",72
+"file the floor","NY26B","468","E","Y","hands and knees","INA","Âf•∫±øºÏ$‰∞$ıflèoé¥","MS",72
+"broom","NY26C","469","N","N","often homemade"," ","brπ´∫um","MS",73
+"broom","NY27A","470","N","N"," "," ","brπ´∫um","MS",74
+"mop","NY27A","470","N","Y"," ","INA","mµp","MS",74
+"broom","NY27B","471","N","N","used to be of hemlock boughs"," ","brπ´∫um","MS",75
+"cloth","NY27B","471","N","Y"," ","INA","klè∂´∫{∞}˘","MS",75
+"broom","NY27C","472","N","N"," "," ","brπ∫{∞}m","MS",76
+"broom grass","NY27C","472","O","Y"," ","INA","Âbrπ´{u}m$ıgrá·∫{∞}s","MS",76
+"rag","NY27C","472","N","Y"," ","INA","r·´{≤}g","MS",76
+"broom","NY28A","473a","N","N"," "," ","brπ∫uΩm","MS",77
+"mop","NY28A","473a","N","Y"," ","INA","mµp","MS",77
+"brooms","NY28B","473b(*)","N","N","used to be made of cedar boughs"," ","brπ´∫umz","MS",78
+"cloth","NY28B","473b(*)","N","Y"," ","INA","klè∂î{∞}˘","MS",78
+"scrub","NY28B","473b(*)","V","Y"," ","INA","skrá∏Ωb","MS",78
+"broom","NY28C"," ","N","N"," "," ","b◊àuΩº∫um"," ",79
+"hemlock","NY28C"," ","N","Y"," ","INA","Âh≤´m$ılµk"," ",79
+"scrub brush","NY28C"," ","O","Y"," ","INA","Âsk„è∏Ωb$ıb„∏Ω∫Û"," ",79
+"scrub","NY28C"," ","V","Y"," ","INA","skÚá∏Ωp"," ",79
+"broom","NY29A","474a","N","N","never homemade"," ","brπ´m","MS",80
+"broom","NY29A","474a","N","N","never homemade"," ","brπ´{u}m","MS",80
+"mop","NY29A","474a","N","Y"," ","INA","mµp","MS",80
+"mop","NY29A","474a","V","Y"," ","INA","mµp","MS",80
+"brooms","NY29B","474b","N","N"," "," ","bruøΩuºmz","MS",81
+"floor brush","NY29B","474b","O","Y"," ","INA","Âflèo{πº}$ıbr∏ΩÛ","MS",81
+"broom","NY29C","474c","N","N"," "," ","bruΩ∫um","MS",82
+"mop","NY29C","474c","N","Y"," ","INA","mµp","MS",82
+"scour","NY29C","474c","V","Y"," ","INA","skà{j}µ´o|¥","MS",82
+"broom","NY30A","475a","N","N"," "," ","brπ∫{∞}m","MS",83
+"barn broom","NY30A","475a","O","N","coarse"," ","Âbµ∫n$ıbrπ´m","MS",83
+"broom","NY30A","475a","N","N"," "," ","brπ´m","MS",83
+"mop","NY30A","475a","N","Y"," ","INA","mµp","MS",83
+"cleaning up","NY30A","475a","E","Y"," ","INA","ÂkÏèi∫n∞´n$ı∏p","MS",83
+"broom","NY30B","475b","N","N","sometimes of cedar"," ","bruº∫u´ºm","MS",84
+"mop","NY30B","475b","N","Y"," ","INA/CNV","mﬁºp","MS",84
+"mop","NY30B","475b","N","Y"," ","INA","mµp","MS",84
+"mopping","NY30B","475b","V","Y"," ","INA","mµp±øºn","MS",84
+"wipe","NY30B","475b","V","Y"," ","INA/CNV","w•º±øp","MS",84
+"broom","NY30C","475c","N","N"," "," ","bruΩ∫um","MS",85
+"scrubbing","NY30C","475c","V","Y"," ","INA","skrá¶Ωb±øºn","MS",85
+"brooms","NY30D","475d","N","N"," "," ","brπ´∫umz","MS",86
+"mop","NY30D","475d","N","Y"," ","INA","mﬁºp","MS",86
+"scrubbed","NY30D","475d","V","Y"," ","INA","skrá∏Ωbd","MS",86
+"broom","NY30E","475e","N","N"," "," ","bruΩ∫um","MS",87
+"scrubbing","NY30E","475e","V","Y"," ","INA","skrá∏b±øºn","MS",87
+"broom","NY31A","478a","N","N"," "," ","bÚáuΩ∫um","MS",88
+"barn broom","NY31A","478a","O","N","of beech sapling"," ","Âbµ∫∞én$ıbÚu˛Ωu˛m","MS",88
+"mop","NY31A","478a","N","Y"," ","INA","mµp","MS",88
+"scrub it","NY31A","478a","E","Y"," ","INA","skÚá∏ºb$±øºt","MS",88
+"filing the floor","NY31A","478a","E","Y"," ","INA","Âf•∫±øl±øºÓ$‰∞$Âf≈èoΩ∫∞é","MS",88
+"broom","NY31B","478b","N","N"," "," ","bÚuΩum","MS",89
+"mops","NY31B","478b","N","Y"," ","INA","mµps","MS",89
+"sand the floor","NY31B","478b","E","Y"," ","INA","Âs·n$d∞$ıf≈oº∫∞","MS",89
+"scour","NY31B","478b","V","Y"," ","INA","skà{j}≤æπ¥","MS",89
+"broom","NY32A","479a","N","N"," "," ","bÚuøΩ∫uøm","MS",90
+"mop","NY32A","479a","N","Y"," ","INA","mµp","MS",90
+"mop","NY32A","479a","V","Y"," ","INA","mµp","MS",90
+"broom","NY32B","479b","N","N"," "," ","bÚπ{u}m","MS",91
+"mop","NY32B","479b","N","Y"," ","INA","mµºp","MS",91
+"mop","NY32B","479b","V","Y"," ","INA","mµº∫{∞}p","MS",91
+"brooms","NY33A","480","N","N"," "," ","bruøæ∫uø´æmz","MS",92
+"brush","NY33A","480","N","Y"," ","INA","br∏ΩÛ","MS",92
+"dust mop","NY33A","480","O","Y"," ","INA","Âd∏´s$ımµº{∞}p","MS",92
+"rag","NY33A","480","N","Y"," ","INA","r·∫{∞}g","MS",92
+"scrubbing","NY33A","480","V","Y"," ","INA","skrá∏´b±øºn","MS",92
+"NR","NY33B","481"," ","N"," "," "," ","MS",93
+"broom","NY33C","482","N","N"," "," ","brπ´∫u{∞}m","MS",94
+"mop","NY33C","482","N","Y"," ","INA","mµp","MS",94
+"scrubbing","NY33C","482","V","Y"," ","INA","skrá∏Ωb±øºÓ","MS",94
+"broom","NY34A","483","N","N"," "," ","bÚπ´m","MS",95
+"broom","NY34A","483","N","N"," "," ","bÚπm","MS",95
+"mop","NY34A","483","N","Y"," ","INA","mµp","MS",95
+"mop","NY34A","483","V","Y"," ","INA","mµæp","MS",95
+"mop","NY34A","483","V","Y"," ","INA","mµæ{∞}p","MS",95
+"broom","NY34B","484","N","N"," "," ","bÚáuΩºuºm","MS",96
+"brush","NY34B","484","N","Y"," ","INA","bÚ∏ºÛ","MS",96
+"scrub","NY34B","484","V","Y"," ","INA","skÚèá∏´º{b}","MS",96
+"straw broom","NY34C","485","O","N"," "," ","ÂstéÚè∑Ω∫$ıbÚuΩum","MS",97
+"mop","NY34C","485","N","Y"," ","INA","mµp","MS",97
+"mop","NY34C","485","V","Y"," ","INA","mµp","MS",97
+"broom","NY34D!","486!","N","N"," "," ","bÚuΩºuºm","MS",98
+"mop","NY34D!","486!","N","Y"," ","INA","mµp","MS",98
+"scrub brush","NY34D!","486!","O","Y"," ","INA","ÂskÚ∏ºb$ıbÚ∏ºÛ","MS",98
+"scrubbed","NY34D!","486!","V","Y"," ","INA","skÚá∏ºbd","MS",98
+"broom","NY35A","487","N","N"," "," ","bru∫m","MS",99
+"broom","NY35B","488","N","N"," "," ","bru∫m","MS",100
+"broom","NY35C!","489!","N","N"," "," ","bru∫m","MS",101
+"broom","NY36A","491","N","N"," "," ","bru∫m","MS",102
+"broom","NY36B","492","N","N"," "," ","brπm","MS",103
+"broom","NY37A","493","N","N"," "," ","bruº∫m","MS",104
+"broom","NY37B","494","N","N"," "," ","bru∫m","MS",105
+"broom","NY37C!","495!","N","N"," "," ","bru∫m","MS",106
+"broom","NY38A","497(*)","N","N"," "," ","bru∫m","MS",107
+"file","NY38A","497(*)","N","Y"," ","INA","f•Ω±ø{∞}Ï","MS",107
+"file","NY38A","497(*)","V","Y"," ","INA","f•Ω±ø{∞}Ï","MS",107
+"broom","NY38B","498","N","N"," "," ","bru∫m","MS",108
+"NR","NY38C"," "," ","N"," "," "," "," ",109
+"broom","NY39A","499","N","N"," "," ","brπm","MS",110
+"file","NY39A","499","N","Y"," ","INA","fa´æ±ø{∞}Ï","MS",110
+"file","NY39A","499","V","Y"," ","INA","fa´æ±ø{∞}Ï","MS",110
+"broom","NY39B","500","N","N"," "," ","brπum","MS",111
+"broom","NY40A","501","N","N"," "," ","bru∫m","MS",112
+"broom","NY40B","502","N","N"," "," ","bru∫m","MS",113
+"broom","NY41","504","N","N"," "," ","bru∫m","MS",114
+"broom","NY42A","505","N","N"," "," ","bru∫m","MS",115
+"broom","NY42B","506","N","N"," "," ","bruº∫m","MS",116
+"broom","NY43A","507","N","N"," "," ","bru∫m","MS",117
+"broom","NY43B","507b","N","N"," "," ","bru∫m","MS",118
+"broom","NY43C!","508!","N","N"," "," ","bruº∫m","MS",119
+"broom","NY44A","511","N","N"," "," ","bru∫m","MS",120
+"broom","NY44B","512","N","N"," "," ","bru∫m","MS",121
+"broom","NY45A","513a","N","N"," "," ","bÚπ´m","MS",122
+"broom","NY45A","513a","N","N"," "," ","bÚπ´{u}m","MS",122
+"mop","NY45A","513a","N","Y"," ","INA","mµp","MS",122
+"mop","NY45A","513a","V","Y","[b]: doubtful","FDT/INA","mµb","MS",122
+"scrub","NY45A","513a","V","Y"," ","INA","skÚèá∏b","MS",122
+"broom","NY45B","513b","N","N"," "," ","bÚπΩ∫{π}m","MS",123
+"mop","NY45B","513b","N","Y"," ","INA","mµp","MS",123
+"mop","NY45B","513b","V","Y"," ","INA","mµp","MS",123
+"broom","NY45C","513c","N","N"," "," ","bÚuΩºuºm","MS",124
+"mop","NY45C","513c","N","Y"," ","INA","mµp","MS",124
+"mop","NY45C","513c","V","Y"," ","INA","mµp","MS",124
+"broom","NY45D!","513d!","N","N"," "," ","bÚuΩº∫uºm","MS",125
+"mop","NY45D!","513d!","N","Y"," ","INA","mµp","MS",125
+"mopped and cleaned","NY45D!","513d!","E","Y"," ","INA","mµ∫{∞}pt$∞´n$k≈èiΩind","MS",125
+"broom","NY46A","515a","N","N"," "," ","bÚπΩºuºm","MS",126
+"mopped","NY46A","515a","V","Y"," ","DBT/INA","mµpt","MS",126
+"mopped","NY46A","515a","V","Y"," ","INA","mµºpt","MS",126
+"broom","NY46B","515b","N","N"," "," ","bruΩºuºm","MS",127
+"mop","NY46B","515b","N","Y"," ","INA","mµ∫{∞}p","MS",127
+"mop","NY46B","515b","V","Y"," ","INA","mµ∫{∞}p","MS",127
+"broom","NY46C","515c","N","N"," "," ","bruΩºum","MS",128
+"mop","NY46C","515c","N","Y"," ","INA","mµº∫p","MS",128
+"mop","NY46C","515c","V","Y"," ","INA","mµº∫p","MS",128
+"broom","NY47A","517(*)","N","N"," "," ","brπ´m","MS",129
+"broom","NY47A","517(*)","N","Y"," ","AUX","bÚπm","MS",129
+"mop","NY47A","517(*)","N","Y"," ","INA","mµp","MS",129
+"mop","NY47A","517(*)","V","Y"," ","INA","mµp","MS",129
+"broom","NY47B","518","N","N"," "," ","bru∫m","MS",130
+"brooms","NY48A","519a","N","N"," "," ","bÚπmz","MS",131
+"mop","NY48A","519a","N","Y"," ","INA","maæ{∞}p","MS",131
+"mop","NY48A","519a","V","Y"," ","INA","maæp","MS",131
+"scrub","NY48A","519a","V","Y"," ","INA","skrá∏´b","MS",131
+"barn broom","NY48B","519b","O","N"," "," ","Âbµ¥n$ıbrπ´ºm","MS",132
+"broom","NY48B","519b","N","N"," "," ","bléuΩºuºm","MS",132
+"broom","NY48B","519b","N","N"," "," ","bÚuΩºuºm","MS",132
+"mop","NY48B","519b","N","Y"," ","INA","mµp","MS",132
+"scrub rag","NY48B","519b","O","Y"," ","INA","skrèá∏∫b$ÂÒé·´∫g","MS",132
+"scrub","NY48B","519b","V","Y"," ","INA","skrèá∏∫b","MS",132
+"brooms","NY48C","519c","N","N"," "," ","bÚáπºuºmz","MS",133
+"broom","NY48C","519c","N","N"," "," ","brπºm","MS",133
+"broom corn","NY48C","519c","O","Y"," ","INA","ÂbÚáπºuºm$ık∑∫∞n","MS",133
+"broom","NY48D","519d","N","N"," "," ","bÚáuΩºuºm","MS",134
+"cloth","NY48D","519d","N","Y"," ","INA","k≈µæ˘","MS",134
+"broom","NY49A","520","N","N"," "," ","brπ´m","MS",135
+"scrub","NY49A","520","V","Y"," ","INA","skrèá∏ºb","MS",135
+"broom","NY49B","521","N","N"," "," ","brπm","MS",136
+"broom","NY49C","522a","N","N"," "," ","bru∫m","MS",137
+"broom","NY49D","522b","N","N"," "," ","bruΩ{u}m","MS",138
+"brooms","NY50A","523","N","N"," "," ","bÒéπ´mz","MS",139
+"broom","NY50A","523","N","N"," "," ","bÒéπΩ{uº}m","MS",139
+"broom corn","NY50A","523","O","Y"," ","INA","ÂbÚπºm$ık∂é¥n","MS",139
+"broom maker","NY50A","523","O","Y"," ","INA","ÂbÚáπºuºm$ıme∫±øk¥","MS",139
+"mop","NY50A","523","N","Y"," ","INA","mµºp","MS",139
+"mop","NY50A","523","N","Y"," ","INA","mµp","MS",139
+"mopped","NY50A","523","V","Y"," ","INA","mµpt","MS",139
+"brooms","NY50B","524","N","N"," "," ","bÚuøΩæuºmz","MS",140
+"mop","NY50B","524","N","Y"," ","INA","mµp","MS",140
+"mop","NY50B","524","V","Y"," ","INA","mµp","MS",140
+"brooms","NY51A","525a","N","N"," "," ","brπmz","MS",141
+"mop","NY51A","525a","N","Y"," ","INA","mµp","MS",141
+"mopped","NY51A","525a","V","Y"," ","INA","mµpt","MS",141
+"broom","NY51B","525b","N","N"," "," ","bruøΩuøm","MS",142
+"feather dusters","NY51B","525b","O","Y"," ","DBT/INA","Âf≤´‰¥$ıd∏´st¥Ωz","MS",142
+"scrub","NY51B","525b","V","Y"," ","INA","skrèá∏´b","MS",142
+"broom","NY51C","525c","N","N"," "," ","b◊uΩºuºm","MS",143
+"scrubbing","NY51C","525c","V","Y"," ","INA","skÚá•æb±øºn","MS",143
+"brooms","NY51D","525d","N","N"," "," ","bÚπ{u}mz","MS",144
+"pumice stone","NY51D","525d","O","Y"," ","INA","Âp∏ºm±øs$ıstoΩºπºn","MS",144
+"scrubbing","NY51D","525d","V","Y"," ","INA","skÚ∏ºb±øn","MS",144
+"broom","NY51E!","525e!","N","N"," "," ","brπ´º{uº}m","MS",145
+"mop","NY51E!","525e!","N","Y"," ","INA","mµp","MS",145
+"mop","NY51E!","525e!","V","Y"," ","INA","mµp","MS",145
+"broom","NY52A","527","N","N"," "," ","bÚπ´um","MS",146
+"mop","NY52A","527","N","Y"," ","INA","mµºp","MS",146
+"mop","NY52A","527","V","Y"," ","INA","mµºp","MS",146
+"brooms","NY52B","528","N","N"," "," ","brπºuºmz","MS",147
+"mop","NY52B","528","N","Y"," ","INA","mµp","MS",147
+"scrub","NY52B","528","V","Y","on knees","INA","skÚá∏ºb","MS",147
+"broom","NY52C","528b","N","N"," "," ","bruΩºuºm","MS",148
+"splint brooms","NY53A","529","O","N"," "," ","Âsplè±∫nt$ıbÚπºuºmz","MS",149
+"broom","NY53A","529","N","N"," "," ","bÚuΩºuºm","MS",149
+"scrub","NY53A","529","V","Y"," ","INA","skÚèá∏Ωb","MS",149
+"brooms","NY53B!","530!","N","N"," "," ","bÚπ´mz","MS",150
+"mops","NY53B!","530!","N","Y"," ","INA","mµ∫{∞}ps","MS",150
+"mop","NY53B!","530!","V","Y"," ","INA","mµp","MS",150
+"broom","NY54A","531","N","N"," "," ","bÒéπum","MS",151
+"clean the floors","NY54A","531","E","Y"," ","INA","Âk≈ii´n$‰∞$ıfloéº¥z","MS",151
+"broom","NY54B","532","N","N"," "," ","bruΩ∫m","MS",152
+"broom","NY55A","533","N","N","never made at home"," ","bru˛Ω∫u˛m","MS",153
+"mop","NY55A","533","N","Y"," ","INA","mµp","MS",153
+"brooms","NY55B","534","N","N"," "," ","brπ´{u}mz","MS",154
+"splint brooms","NY55B","534","O","N","in barns"," ","Âsp≈è±´nt$ıbrπ´∫mz","MS",154
+"brooms","NY55B","534","N","N"," "," ","brπ´∫mz","MS",154
+"rushes","NY55B","534","N","Y"," ","INA","r∏´ºÛ±øºz","MS",154
+"scrub the floor","NY55B","534","E","Y"," ","INA","ıskrá∏ºb$‰∞$Âflèoº∫¥","MS",154
+"mopped","NY55B","534","V","Y"," ","INA","mµpt","MS",154
+"broom","NY56A","535","N","N"," "," ","bÚuΩ∫um","MS",155
+"mop","NY56A","535","N","Y"," ","INA","mµó´æ{∞}p","MS",155
+"mopped","NY56A","535","V","Y"," ","INA","mµpt","MS",155
+"broom corn","NY56B","536","O","Y"," ","INA","ÂbÚu˛Ωu˛m$ık∑éº¥n","MS",156
+"brush","NY56B","536","N","Y"," ","INA","bÚá∏ºÛ","MS",156
+"cloth rags","NY56B","536","O","Y"," ","INA","Âk≈è∑∫{∞}˘$ıÚ·∫gz","MS",156
+"scrub","NY56B","536","V","Y"," ","INA","skÚ∏ºb","MS",156
+"broom","NY57A","537a","N","N"," "," ","bÚπ∫{u}m","MS",157
+"brooms","NY57A","537a","N","N"," "," ","bÚπΩ∫{u}mz","MS",157
+"mop","NY57A","537a","N","Y"," ","INA","mµp","MS",157
+"mop","NY57A","537a","V","Y"," ","INA/CNV","mµp","MS",157
+"broom","NY57B","537b","N","N"," "," ","bÚπum","MS",158
+"mop","NY57B","537b","N","Y"," ","INA","mµp","MS",158
+"mop","NY57B","537b","V","Y"," ","INA","mµp","MS",158
+"scrub","NY57B","537b","V","Y"," ","INA","skÚèá∏Ωb","MS",158
+"broom","NY57C!","537c!","N","N"," "," ","bÚuøæuΩºm","MS",159
+"mop","NY57C!","537c!","N","Y"," ","INA","mµ∫p","MS",159
+"mop","NY57C!","537c!","V","Y"," ","INA","mµ∫p","MS",159
+"broom","NY58A","539a","N","N"," "," ","bruΩ∫um","MS",160
+"mop","NY58A","539a","N","Y"," ","INA","mµp","MS",160
+"mop","NY58A","539a","V","Y"," ","INA","mµp","MS",160
+"broom","NY58B","539b","N","N"," "," ","bÒéuΩum","MS",161
+"brooms","NY58B","539b","N","N"," "," ","bÒéuøΩæuøæmz","MS",161
+"mops","NY58B","539b","N","Y"," ","INA","mµps","MS",161
+"mop","NY58B","539b","V","Y"," ","INA","mµp","MS",161
+"broom","NY58C","539c","N","N"," "," ","brπ´ºuºm","MS",162
+"mop","NY58C","539c","N","Y"," ","INA","mµp","MS",162
+"mopped","NY58C","539c","V","Y"," ","INA","mµpt","MS",162
+"broom","NY58D!","539d!","N","N"," "," ","bÚóáuΩum","MS",163
+"mop","NY58D!","539d!","N","Y"," ","INA","mµp","MS",163
+"mop the floors","NY58D!","539d!","E","Y"," ","INA","Âmµp$‰∞$ıflèoº∫∞z","MS",163
+"scrub","NY58D!","539d!","V","Y"," ","INA","skÚó∏ºb","MS",163
+"brooms","NY58E!","539e!","N","N"," "," ","brπ∫mz","MS",164
+"brooms","NY58E!","539e!","N","N"," "," ","brπmz","MS",164
+"mop","NY58E!","539e!","N","Y"," ","INA","mµp","MS",164
+"mopped up","NY58E!","539e!","E","Y"," ","INA","Âmµpt$ı∏ºp","MS",164
+"scrubbing","NY58E!","539e!","V","Y"," ","INA","skrá∏ºb±øºÓ","MS",164
+"broom","NY58F!","539f!","N","N"," "," ","bÚuΩum","MS",165
+"mop","NY58F!","539f!","N","Y"," ","INA","mﬁóºp","MS",165
+"mop","NY58F!","539f!","V","Y"," ","INA","mﬁóºp","MS",165
+"brooms","NY59A","543","N","N"," "," ","bÚuΩºuºmz","MS",166
+"scrub brush","NY59A","543","O","Y"," ","INA","ÂskÚá∏ºb$ıbÚ∏º∫Û","MS",166
+"scrub","NY59A","543","V","Y"," ","INA","skÚá∏ºb","MS",166
+"broom","NY59B","544","N","N"," "," ","brπ´æm","MS",167
+"broom","NY60A","545","N","N"," "," ","bÚuΩum","MS",168
+"mop","NY60A","545","N","Y"," ","INA","maæp","MS",168
+"mop","NY60A","545","V","Y"," ","INA","maæp","MS",168
+"broom","NY60B!","546!","N","N"," "," ","bÚπm","MS",169
+"broom","NY60B!","546!","N","N"," "," ","bÚπ›´m","MS",169
+"mops","NY60B!","546!","N","Y"," ","INA","mµps","MS",169
+"brooms","NY61A","547","N","N"," "," ","bÒéuøΩæ∫uøæmz","MS",170
+"broom","NY61B","548","N","N"," "," ","bruΩº∫um","MS",171
+"broom","NY61B","548","N","N"," "," ","bru˛ºu˛´º{m}","MS",171
+"mop","NY61B","548","N","Y"," ","INA","mµ´ºp","MS",171
+"mop","NY61B","548","N","Y"," ","INA/CNV","mµp","MS",171
+"scrubbing","NY61B","548","V","Y"," ","INA","skrá∏bm","MS",171
+"sweep","NY61B","548","V","Y"," ","INA/CNV","swiΩip","MS",171
+"cleaning up","NY61B","548","E","Y"," ","INA/CNV","ıkÏi∫nnñ$Â∏ºp","MS",171
+"brooms","NY62A","551a","N","N"," "," ","bruΩ∫mz","MS",172
+"mop","NY62A","551a","N","Y"," ","INA","mµp","MS",172
+"mop","NY62A","551a","V","Y"," ","INA","mµp","MS",172
+"broom","NY62B","551b","N","N"," "," ","brπ∫{u}m","MS",173
+"broom","NY62B","551b","N","N"," "," ","brπ∫m","MS",173
+"mop","NY62B","551b","N","Y"," ","INA","mµp","MS",173
+"mop","NY62B","551b","V","Y"," ","INA","mµp","MS",173
+"broom","NY62C","551c","N","N"," "," ","bruº∫m","MS",174
+"mop","NY62C","551c","N","Y"," ","INA","mﬁ´p","MS",174
+"mop the floor","NY62C","551c","E","Y"," ","INA","ımﬁºp$‰∞$Âflèoéº¥","MS",174
+"broom","NY62D!","551d!","N","N"," "," ","brπ∫um","MS",175
+"brush","NY62D!","551d!","N","Y"," ","INA","br∏ºÛ","MS",175
+"scrub","NY62D!","551d!","V","Y"," ","INA","skrá∏ºb","MS",175
+"barn broom","NY63A","556a","O","N"," "," ","Âbµ¥n$ıbruΩº∫uºm","MS",176
+"broom","NY63A","556a","N","N"," "," ","brπ∫{u}m","MS",176
+"mop","NY63A","556a","N","Y"," ","INA","mµp","MS",176
+"scrubbing","NY63A","556a","V","Y"," ","INA","skÚá∏´ºb±øΩÓ","MS",176
+"broom","NY63B","556b","N","N"," "," ","brπ´∫um","MS",177
+"plain broom","NY63B","556b","O","N"," "," ","ÂplèeΩ∫{±ø}n$ıbrπ∫m","MS",177
+"sweeping broom","NY63B","556b","O","N"," "," ","Âsw±æip±øºÓ$ıbrπm","MS",177
+"mop","NY63B","556b","N","Y"," ","INA","mµp","MS",177
+"mopped","NY63B","556b","V","Y"," ","INA","mµºpt","MS",177
+"broom","NY63C","556c","N","N"," "," ","brπm","MS",178
+"broom","NY63D!","556d!","N","N"," "," ","brπΩ∫m","MS",179
+"broom","NY63D!","556d!","N","Y","[{π}]: doubtful","FDT","brπΩ∫{π}m","MS",179
+"broomstraw","NY63D!","556d!","N","N"," "," ","Âbrπ∫{uΩ}m$ıstéÚè∑Ω∫","MS",179
+"mop","NY63D!","556d!","N","Y"," ","INA","mµ∫{∞}p","MS",179
+"mop","NY63D!","556d!","V","Y"," ","INA","mµ∫{∞}p","MS",179
+"birch brooms","NY64A","557a","O","N","oldest"," ","ıb≥é¥tÛ$Âbrπ´umz","MS",180
+"scrubbing","NY64A","557a","V","Y"," ","INA","skrá∏ºb±øºn","MS",180
+"broom","NY64B","557b","N","N"," "," ","brπΩ∫m","MS",181
+"mop","NY64B","557b","N","Y"," ","INA","mµp","MS",181
+"scrubbing","NY64B","557b","V","Y"," ","INA","skrá∏ºb±øºÓ","MS",181
+"broom","NY64C!","557c!","N","N"," "," ","brπ∫um","MS",182
+"mop","NY64C!","557c!","N","Y"," ","INA","mµp","MS",182
+"floor mop","NY64C!","557c!","O","Y"," ","INA","Âflèoº¥$ımµp","MS",182
+"mop","NY64C!","557c!","V","Y"," ","INA","mµp","MS",182
+"broom","NJ1A","1","N","N"," "," ","bruøæ∫m","MS",183
+"broom","NJ1B","2","N","N"," "," ","bruº∫m","MS",184
+"broom","NJ1B","2","N","N"," "," ","bruøæ∫m","MS",184
+"broom","NJ2A","3(*)","N","N"," "," ","bruº∫m","MS",185
+"broom","NJ2B","4","N","N"," "," ","bruºm","MS",186
+"broom","NJ3A","5","N","N"," "," ","bruº∫m","MS",187
+"broom","NJ3B","6","N","N"," "," ","bruº∫m","MS",188
+"broom","NJ4A","7","N","N"," "," ","bru∫m","MS",189
+"broom","NJ4B","8","N","N"," "," ","bru∫m","MS",190
+"broom","NJ5A","9","N","N"," "," ","bÒé›u∫m","MS",191
+"broom","NJ5B","10","N","N"," "," ","bruøΩæ∫m","MS",192
+"broom","NJ6A","11","N","N"," "," ","brπºuºm","MS",193
+"broom","NJ6B","12","N","N"," "," ","bruº∫m","MS",194
+"broom","NJ7A","17","N","N"," "," ","bru∫m","MS",195
+"broom","NJ7B!","18!","N","N"," "," ","bruøΩæm","MS",196
+"broom","NJ8A","19","N","N"," "," ","bruº∫m","MS",197
+"broom","NJ8B","20","N","N"," "," ","bru∫m","MS",198
+"broom","NJ9A","21","N","N"," "," ","brπø´uøæm","MS",199
+"broom","NJ9A","21","N","N"," "," ","bÒéuΩº∫m","MS",199
+"broom","NJ9B","22","N","N"," "," ","bruøæ∫m","MS",200
+"broom","NJ10A","24b","N","N"," "," ","bruº∫m","MS",201
+"broom","NJ10B","23","N","N"," "," ","bruΩº∫m","MS",202
+"broom","NJ10C","24","N","N"," "," ","bruΩº∫m","MS",203
+"broom","NJ10D!","24c!","N","N"," "," ","bruΩºm","MS",204
+"broom","NJ11A","25","N","N"," "," ","bru∫m","MS",205
+"broom","NJ11B","26a","N","N"," "," ","bruøæ∫m","MS",206
+"broom","NJ11C","26b","N","N"," "," ","bruº∫m","MS",207
+"broom","NJ12A","27","N","N"," "," ","bruº∫m","MS",208
+"broom","NJ12B","28","N","N"," "," ","bèruº∫m","MS",209
+"broom","NJ13A","29","N","N"," "," ","bruº∫m","MS",210
+"broom","NJ13B","30","N","N"," "," ","bruº∫m","MS",211
+"broom","NJ14A","31","N","N"," "," ","bruº∫m","MS",212
+"broom","NJ14B","32","N","N"," "," ","bruøæ∫m","MS",213
+"broom","NJ15A","33","N","N"," "," ","bruΩº∫m","MS",214
+"broom","NJ15B","34","N","N"," "," ","bruΩºm","MS",215
+"broom","NJ16A","35","N","N"," "," ","børuº∫m","MS",216
+"broom","NJ16B","36","N","N"," "," ","bruº∫m","MS",217
+"broom","NJ17A","37","N","N"," "," ","bruΩº∫m","MS",218
+"broom","NJ17B","38","N","N"," "," ","bruº∫m","MS",219
+"broom","NJ18A","41","N","N"," "," ","bruΩºm","MS",220
+"broom","NJ18B","42","N","N"," "," ","bruº∫m","MS",221
+"broom","NJ18C!","43!","N","N"," "," ","bruº∫m","MS",222
+"broom","NJ18D!","44!","N","N"," "," ","brπm","MS",223
+"broom","NJ19A","45","N","N"," "," ","bru∫m","MS",224
+"broom","NJ19B!","46!","N","N"," "," ","brum","MS",225
+"broom","NJ20A","47","N","N"," "," ","bruº∫m","MS",226
+"besom","NJ20A","47","N","Y","Dutch","INA","b≤óΩæπz∞m","MS",226
+"broom","NJ20B","47b","N","N"," "," ","bruΩºm","MS",227
+"file cloth","NJ20B","47b","O","Y"," ","INA","Âfµº±øÏ$ıkÏ∑∫{∞}˘","MS",227
+"broom","NJ21A","48","N","N"," "," ","bruΩºm","MS",228
+"file","NJ21A","48","N","Y"," ","INA","faæ±øÏ","MS",228
+"file up the floor","NJ21A","48","E","Y"," ","INA","faæ±øÏ$∏ºp$‰∞$fl∑¥","MS",228
+"broom","NJ21B","49","N","N"," "," ","brπm","MS",229
+"broom","PA1A","51","N","N"," "," ","bruº∫m","MS",230
+"broom","PA1B","52","N","N"," "," ","bruº∫m","MS",231
+"broom","PA1C","53","N","N"," "," ","bruº∫m","MS",232
+"broom","PA1D","54","N","N"," "," ","bruΩº∫m","MS",233
+"broom","PA1E!","55!","N","N"," "," ","brπm","MS",234
+"broom","PA1F!","56!","N","N"," "," ","brπ´m","MS",235
+"broom","PA1G!","57!","N","N"," "," ","brπm","MS",236
+"broom","PA1H!","58!","N","N"," "," ","bruºm","MS",237
+"broom","PA2A","59","N","N"," "," ","bruº∫m","MS",238
+"broom","PA2B","60","N","N"," "," ","brπm","MS",239
+"broom","PA3A","61","N","N"," "," ","brπm","MS",240
+"broom","PA3B","62","N","N"," "," ","bru∫m","MS",241
+"broom","PA3C","62b","N","N"," "," ","brπm","MS",242
+"broom","PA4A","63","N","N"," "," ","bruº∫m","MS",243
+"broom","PA4B!","64!","N","N"," "," ","bru∫m","MS",244
+"broom","PA5A","65(*)","N","N"," "," ","bruΩº∫m","MS",245
+"broom","PA5B","65b","N","N"," "," ","bruº∫m","MS",246
+"broom","PA5C","66","N","N"," "," ","brπ´uΩºm","MS",247
+"broom","PA5D","67","N","N"," "," ","bruΩº{∞}m","MS",248
+"broom","PA5E!","68!","N","N"," "," ","bruº∫m","MS",249
+"broom","PA6A","69","N","N"," "," ","bèru∫m","MS",250
+"broom","PA6B","71","N","N"," "," ","brπm","MS",251
+"broom","PA6C","71b","N","N"," "," ","bèru∫m","MS",252
+"broom","PA6D!","72!","N","N"," "," ","brπ´m","MS",253
+"broom","PA7A","73","N","N"," "," ","bruº∫m","MS",254
+"broom","PA7B","74","N","N"," "," ","bruøæ∫m","MS",255
+"broom is","PA7C","75","S","N"," "," ","bru∫m$±{zè}","MS",256
+"broom","PA7D!","76!","N","N"," "," ","bruºm","MS",257
+"broom","PA8A","77","N","N"," "," ","bruΩum","MS",258
+"broom","PA8B","78","N","N"," "," ","bruøæ∫m","MS",259
+"broom is","PA8C","79","S","N"," "," ","bruº∫m$±s","MS",260
+"broom","PA8D!","80!","N","N"," "," ","bruΩº∫m","MS",261
+"broom","PA9A","83","N","N"," "," ","bèru∫m","MS",262
+"broom","PA9B","83b","N","N"," "," ","bru∫m","MS",263
+"broom","PA9C!","84!","N","N"," "," ","brπm","MS",264
+"broom is","PA10","87","S","N"," "," ","bèru∫m$±s","MS",265
+"broom","PA11A","89","N","N"," "," ","bru∫m","MS",266
+"broom","PA11B","90(*)","N","N"," "," ","bruº∫m","MS",267
+"broom","PA11B","90(*)","N","Y"," ","AUX","bru∫m","MS",267
+"broom","PA12A","91","N","N"," "," ","bruº∫m","MS",268
+"broom","PA12B","92","N","N"," "," ","bruΩº∫m","MS",269
+"broom","PA13A","93","N","N"," "," ","bruº∫m","MS",270
+"broom","PA13B","94","N","N"," "," ","bru∫m","MS",271
+"broom is","PA14A","95(*)","S","N"," "," ","bèru›Ωºm$±s","MS",272
+"broom","PA14B","96","N","N"," "," ","bru∫m","MS",273
+"broom","PA14C"," ","N","N"," "," ","bèru∫m"," ",274
+"broom","PA15A","99","N","N"," "," ","bru∫m","MS",275
+"broom","PA15B","99b","N","N"," "," ","bruº∫m","MS",276
+"broom","PA15C!","100!","N","N"," "," ","bru∫m","MS",277
+"broom is","PA16A","101","S","N"," "," ","píÒéu∫m$±s","MS",278
+"broom","PA16B","102","N","N"," "," ","bru∫m","MS",279
+"broom","PA16C","103","N","N"," "," ","bru∫m","MS",280
+"broom is","PA17A","105","S","N"," "," ","bèru∫m$zè","MS",281
+"broom is","PA17B","106","S","N"," "," ","bruΩº∫m$zè","MS",282
+"broom","PA18A","107","N","N"," "," ","bru∫m","MS",283
+"broom","PA18B!","108!","N","N"," "," ","bru∫m","MS",284
+"broom","PA19A","113","N","N"," "," ","bruºm","MS",285
+"broom","PA19B","114","N","N"," "," ","bruº∫m","MS",286
+"broom","PA20A","115","N","N"," "," ","bru∫m","MS",287
+"broom","PA20B","116","N","N"," "," ","brum","MS",288
+"broom","PA21A","117","N","N"," "," ","bru∫m","MS",289
+"broom","PA21B","118","N","N"," "," ","bru∫m","MS",290
+"broom","PA22A","119","N","N"," "," ","brπm","MS",291
+"broom","PA22B","120","N","N"," "," ","bru∫m","MS",292
+"broom","PA23A","121","N","N"," "," ","bru∫m","MS",293
+"broom","PA23B","122","N","N"," "," ","bru∫m","MS",294
+"broom","PA24A","123","N","N"," "," ","brπm","MS",295
+"broom","PA24B","124","N","N"," "," ","bru∫m","MS",296
+"broom","PA25A","125","N","N"," "," ","bru∫m","MS",297
+"broom","PA25B","126","N","N"," "," ","bru∫m","MS",298
+"broom","PA26A","127","N","N"," "," ","brπm","MS",299
+"broom","PA26B","128","N","N"," "," ","bru∫m","MS",300
+"broom","PA27A","131","N","N"," "," ","bru∫m","MS",301
+"broom","PA27B","132","N","N"," "," ","brπm","MS",302
+"broom","PA28A","135","N","N"," "," ","brπm","MS",303
+"broom","PA28B!","136!","N","N"," "," ","bruº∫m","MS",304
+"broom","PA29A","139(*)","N","N"," "," ","bru∫m","MS",305
+"broom","PA29B","140","N","N"," "," ","bru∫m","MS",306
+"broom","PA30A","143","N","N"," "," ","bruΩº∫m","MS",307
+"broom","PA30B","144","N","N"," "," ","bruΩº∫m","MS",308
+"broom","PA31A","145","N","N"," "," ","brπm","MS",309
+"broom","PA31B","146","N","N"," "," ","bruΩº∫m","MS",310
+"broom","PA32A","147","N","N"," "," ","bÒéuº∫m","MS",311
+"broom","PA32B","148","N","N"," "," ","bruº∫m","MS",312
+"broom","PA33A","151","N","N"," "," ","bruº∫m","MS",313
+"broom","PA33B","152","N","N"," "," ","bruº∫m","MS",314
+"broom","PA34A","155","N","N"," "," ","bruº∫m","MS",315
+"broom","PA34B","156","N","N"," "," ","bruº∫m","MS",316
+"broom","PA34C!","155b!","N","N"," "," ","brπm","MS",317
+"broom","PA35A","157","N","N"," "," ","bruºm","MS",318
+"broom","PA35B","158(*)","N","N"," "," ","bru∫m","MS",319
+"NR","PA35C"," "," ","N"," "," "," "," ",320
+"broom","PA36A","159","N","N"," "," ","bru∫m","MS",321
+"broom","PA36B","160","N","N"," "," ","bru∫m","MS",322
+"broom","PA37A","161(*)","N","N"," "," ","bruº∫m","MS",323
+"broom","PA37B","162","N","N"," "," ","bru∫m","MS",324
+"broom is","PA37C"," ","S","N"," "," ","bru∫m$±sí"," ",325
+"broom","PA38A","163","N","N"," "," ","bru∫m","MS",326
+"broom","PA38B","164","N","N"," "," ","bru∫m","MS",327
+"broom","PA39A","165","N","N"," "," ","bru∫m","MS",328
+"broom","PA39B","166","N","N"," "," ","bru∫m","MS",329
+"broom","PA40A","167","N","N"," "," ","brπm","MS",330
+"broom","PA40B","168","N","N"," "," ","bruøæ∫m","MS",331
+"broom","PA41A","171","N","N"," "," ","bru∫m","MS",332
+"broom","PA41B","172","N","N"," "," ","brπm","MS",333
+"broom","PA42A","175","N","N"," "," ","bruΩº∫m","MS",334
+"broom","PA42B","176","N","N"," "," ","brπ´uºm","MS",335
+"broom","PA43A","177","N","N"," "," ","bruº∫m","MS",336
+"broom","PA43B","178","N","N"," "," ","bruº∫m","MS",337
+"broom","PA44A","179","N","N"," "," ","brπ´uºm","MS",338
+"broom","PA44B","180","N","N"," "," ","bruΩºm","MS",339
+"broom","PA45A","181","N","N"," "," ","bruº∫m","MS",340
+"broom","PA45B","182","N","N"," "," ","bruº∫m","MS",341
+"broom","PA46A","185","N","N"," "," ","bruø∫m","MS",342
+"broom","PA46B","186","N","N"," "," ","bruø∫m","MS",343
+"broom","PA47A","189","N","N"," "," ","bÒéuøæ∫m","MS",344
+"broom","PA47B","190","N","N"," "," ","bruº∫m","MS",345
+"broom","PA48A","191","N","N"," "," ","brπm","MS",346
+"broom","PA48B","192","N","N"," "," ","bruº∫m","MS",347
+"broom","PA48C","193","N","N"," "," ","bruø∫m","MS",348
+"broom","PA49A","194","N","N"," "," ","bruøæ∫m","MS",349
+"broom","PA49B","195","N","N"," "," ","bruø∫m","MS",350
+"broom","PA50A","196","N","N"," "," ","bruîºm","MS",351
+"broom","PA50B","197","N","N"," "," ","bruº∫m","MS",352
+"broom","PA50C!","198!","N","N"," "," ","bru∫m","MS",353
+"broom","PA51A","199","N","N"," "," ","bruøm","MS",354
+"broom","PA51B","200","N","N"," "," ","bruº∫m","MS",355
+"broom","PA52A","201","N","N"," "," ","bru∫m","MS",356
+"broom","PA52B!","202!","N","N"," "," ","brπ´º{∞}m","MS",357
+"broom","PA53A","203","N","N"," "," ","brπ´um","MS",358
+"broom","PA53B","204","N","N"," "," ","brπ´uºm","MS",359
+"broom","PA54A","205","N","N"," "," ","bru∫m","MS",360
+"broom","PA54B","206","N","N"," "," ","bruº∫m","MS",361
+"broom","PA55A","207","N","N"," "," ","bruº∫m","MS",362
+"broom","PA55B","208","N","N"," "," ","bruº∫m","MS",363
+"broom","PA56A","211(*)","N","N"," "," ","bruº∫m","MS",364
+"broom","PA56B","212","N","N"," "," ","bruº∫m","MS",365
+"broom","PA57A","213","N","N"," "," ","bruΩºm","MS",366
+"broom","PA57B","214","N","N"," "," ","bruº∫m","MS",367
+"broom","PA58A","215","N","N"," "," ","bruøæ∫m","MS",368
+"broom","PA58B","216","N","N"," "," ","bruøæ∫m","MS",369
+"broom","PA59A","219","N","N"," "," ","bruº∫m","MS",370
+"broom","PA59B","220","N","N"," "," ","bruº∫m","MS",371
+"broom","PA60A","221","N","N"," "," ","bruøæ∫m","MS",372
+"broom","PA60B","222","N","N"," "," ","bruøæ∫m","MS",373
+"broom","PA61A","223","N","N"," "," ","bruøæ∫m","MS",374
+"broom","PA61B","224","N","N"," "," ","bruøæ∫m","MS",375
+"broom","PA62A","229","N","N"," "," ","bruΩº∫m","MS",376
+"broom","PA62B","230","N","N"," "," ","bruΩº∫m","MS",377
+"broom","PA63A","231","N","N"," "," ","bruΩºm","MS",378
+"broom","PA63B","232","N","N"," "," ","bruº∫m","MS",379
+"broom","PA64A","233","N","N"," "," ","bru∫m","MS",380
+"broom","PA64B","234","N","N"," "," ","brπ´um","MS",381
+"broom","PA65A","237","N","N"," "," ","bruΩæ∫m","MS",382
+"broom","PA65B","238","N","N"," "," ","bru∫m","MS",383
+"broom","PA66A","239","N","N"," "," ","bruº∫m","MS",384
+"broom","PA66B","240","N","N"," "," ","bru∫m","MS",385
+"broom","PA67A","243","N","N"," "," ","brπ´m","MS",386
+"broom","PA67B","244","N","N"," "," ","bruº∫m","MS",387
+"broom","WV1!","88!","N","N"," "," ","brπ{∞}m","MS",388
+"broom","WV2","89","N","N"," "," ","brπm","MS",389
+"broom","WV3","91","N","N"," "," ","brum","MS",390
+"broom","WV4A","92","N","N"," "," ","bruº∫m","MS",391
+"broom","WV4B","93","N","N"," "," ","bruº∫m","MS",392
+"cleans up","WV4B","93","E","Y"," ","INA","klçiΩinz$∏´{∞}p","MS",392
+"redds up","WV4B","93","E","Y"," ","INA","r±´{∞}dz$∏´{∞}p","MS",392
+"broom","WV5","94","N","N"," "," ","bruΩº∫m","MS",393
+"broom","WV6A","95","N","N"," "," ","brπºm","MS",394
+"broom","WV6B","96","N","N"," "," ","bruºm","MS",395
+"broom","WV7A","97","N","N"," "," ","bruº∫m","MS",396
+"broom","WV7B","98","N","N"," "," ","bruº∫m","MS",397
+"broom","WV8A","97b","N","N"," "," ","bruøæ∫m","MS",398
+"broom","WV8B","98b","N","N"," "," ","bruº∫m","MS",399
+"broom","WV9A","301","N","N"," "," ","bruø∫m","MS",400
+"broom","WV9B","302","N","N"," "," ","bruøæ∫m","MS",401
+"broom","WV10A","303","N","N"," "," ","bruº∫m","MS",402
+"broom","WV10B","303b","N","N"," "," ","bruº∫m","MS",403
+"broom","WV10C","304","N","N"," "," ","bruøæ∫m","MS",404
+"broom","WV11A","305","N","N"," "," ","bruøΩuøm","MS",405
+"broom","WV11B!","306!","N","N"," "," ","bruº∫m","MS",406
+"broom","WV12A","307","N","N"," "," ","bruΩº∫m","MS",407
+"broom","WV12B","308","N","N"," "," ","bruΩº∫m","MS",408
+"broom","WV13A","309","N","N"," "," ","bruø∫m","MS",409
+"broom","WV13B","310","N","N"," "," ","bèruø∫m","MS",410
+"broom","WV14A","311","N","N"," "," ","bruΩº∫m","MS",411
+"broom","WV14B","312","N","N"," "," ","bruΩº∫m","MS",412
+"broom","WV15A","313","N","N"," "," ","bruº∫m","MS",413
+"broom","WV15B","314","N","N"," "," ","bruº∫m","MS",414
+"broom","WV16A","315","N","N"," "," ","bruº∫m","MS",415
+"broom","WV16B","316","N","N"," "," ","bruΩº∫{∞}m","MS",416
+"broom","WV17A","317","N","N"," "," ","bruøæ∫m","MS",417
+"broom","WV17B","317b","N","N"," "," ","bruøæ∫m","MS",418
+"broom","WV17C","318","N","N"," "," ","bruΩº∫m","MS",419
+"broom","WV18A","319","N","N"," "," ","bruø∫m","MS",420
+"broom","WV18B","320","N","N"," "," ","brπ´uºm","MS",421
+"broom","WV19A","321","N","N"," "," ","bruøæ∫m","MS",422
+"broom","WV19B","322","N","N"," "," ","bruø∫m","MS",423
+"broom","WV20A","323","N","N"," "," ","bruº∫m","MS",424
+"broom","WV20B","324","N","N"," "," ","bruøæ∫m","MS",425
+"broom","WV21A","325","N","N"," "," ","bruø∫m","MS",426
+"broom","WV21B","326","N","N"," "," ","bruøΩ∫m","MS",427
+"broom","WV22A","327","N","N"," "," ","bruº∫m","MS",428
+"broom","WV22B","328","N","N"," "," ","bruø∫m","MS",429
+"broom","WV23A","331","N","N"," "," ","bruøΩæ∫m","MS",430
+"broom","WV23B","332","N","N"," "," ","bruΩº∫m","MS",431
+"broom","WV24A","335","N","N"," "," ","bruø∫m","MS",432
+"broom","WV24B","336","N","N"," "," ","bruøæ∫m","MS",433
+"broom","WV25A","337","N","N"," "," ","bruøæ∫m","MS",434
+"broom","WV25B","338","N","N"," "," ","bruº∫m","MS",435
+"broom","WV26A","339","N","N"," "," ","bruΩº∫m","MS",436
+"broom","WV26B","340","N","N"," "," ","bruº∫m","MS",437
+"broom","WV27A","341","N","N"," "," ","bruøæ∫m","MS",438
+"broom","WV27B","342","N","N"," "," ","bruΩº∫m","MS",439
+"broom","WV28A","343","N","N"," "," ","bruøæ∫m","MS",440
+"broom","WV28B","344","N","N"," "," ","bruøæ∫m","MS",441
+"broom","WV29A","345","N","N"," "," ","bruø∫m","MS",442
+"broom","WV29B","346","N","N"," "," ","bruø∫m","MS",443
+"broom","WV30A","347","N","N"," "," ","bruø∫m","MS",444
+"broom","WV30B","348","N","N"," "," ","bruøæ∫m","MS",445
+"broom","WV31A","349","N","N"," "," ","bruøæ∫m","MS",446
+"broom","WV31B","350","N","N"," "," ","bruø∫m","MS",447
+"broom","WV32A","353","N","N"," "," ","bruø∫m","MS",448
+"broom","WV32B","354","N","N"," "," ","bruø∫m","MS",449
+"broom","WV33A","355","N","N"," "," ","bru∫m","MS",450
+"broom","WV33B","356","N","N"," "," ","bruΩm","MS",451
+"broom","WV34A","359","N","N"," "," ","bruø∫m","MS",452
+"broom","WV34B","360","N","N"," "," ","brπuºm","MS",453
+"broom","WV35A","361","N","N"," "," ","bruΩº∫m","MS",454
+"broom","WV35B","362","N","N"," "," ","bÒéuΩºm","MS",455
+"broom","WV36A","363","N","N"," "," ","bruøæ∫m","MS",456
+"broom","WV36B","364","N","N"," "," ","brum","MS",457
+"broom","WV37A","365","N","N"," "," ","bruø∫m","MS",458
+"broom","WV37B!","366!","N","N"," "," ","bruΩº∫m","MS",459
+"broom","WV38A","367","N","N"," "," ","bruº∫m","MS",460
+"broom","WV38B","368","N","N"," "," ","bruøæ∫m","MS",461
+"broom","WV39A","369","N","N"," "," ","brπ{∞}m","MS",462
+"broom","WV39B","370","N","N"," "," ","bruº∫m","MS",463
+"broom","WV39C!","371!","N","N"," "," ","bruΩº∫m","MS",464
+"broom","WV40A","373","N","N"," "," ","bruøæ∫m","MS",465
+"broom","WV40B","374","N","N"," "," ","bruø∫m","MS",466
+"broom","WV41A","375","N","N"," "," ","bruøΩ{uø}m","MS",467
+"broom","WV41B","376","N","N"," "," ","bruº∫m","MS",468
+"broom","WV42A","377","N","N"," "," ","bruø∫m","MS",469
+"broom","WV42B","378","N","N"," "," ","bruº∫m","MS",470
+"broom","WV43A","381","N","N"," "," ","bruøΩæ∫m","MS",471
+"broom","WV43B","382","N","N"," "," ","bruøæ∫m","MS",472
+"broom","WV44A","383","N","N"," "," ","bruΩº∫m","MS",473
+"broom","WV44B","384","N","N"," "," ","bruº∫m","MS",474
+"broom","WV45A","385","N","N"," "," ","bruº∫m","MS",475
+"broom","WV45B","386","N","N"," "," ","bruΩº∫m","MS",476
+"broom","WV46A","387","N","N"," "," ","bruΩºuºm","MS",477
+"broom","WV46B","388","N","N"," "," ","bruøæ∫m","MS",478
+"broom","WV47A","389","N","N"," "," ","bruΩº∫m","MS",479
+"broom","WV47B","390","N","N"," "," ","bruøæ∫m","MS",480
+"broom","WV48A","391","N","N"," "," ","bruΩº∫m","MS",481
+"broom","WV48B","391b","N","N"," "," ","bruº∫m","MS",482
+"broom","WV48C","392","N","N"," "," ","bruøæ∫m","MS",483
+"broom","WV48D","392b","N","N"," "," ","bruΩº∫m","MS",484
+"broom","WV49A","393","N","N"," "," ","bruøæ∫m","MS",485
+"broom","WV49B","394","N","N"," "," ","bruøæ∫m","MS",486
+"broom","WV50A","395","N","N"," "," ","bruøæ∫m","MS",487
+"broom","WV50B","396","N","N"," "," ","bruº∫m","MS",488
+"broom","WV51A","261","N","N"," "," ","bruº∫m","MS",489
+"broom","WV51B","262","N","N"," "," ","bruøæ∫m","MS",490
+"broom","WV52A","258","N","N"," "," ","bruº∫m","MS",491
+"broom","WV52B","259","N","N"," "," ","bruΩºm","MS",492
+"broom","WV52C!","260!","N","N"," "," ","brπ{∞}m","MS",493
+"broom","WV53A","257","N","N"," "," ","bruº∫m","MS",494
+"broom","WV53B","257b","N","N"," "," ","bruøæ∫m","MS",495
+"broom","WV53C!","257c!","N","N"," "," ","bruøæ∫m","MS",496
+"broom","WV54A","255","N","N"," "," ","bruøæ∫m","MS",497
+"broom","WV54B","256","N","N"," "," ","bruø∫m","MS",498
+"broom","DE1A","11","N","N"," "," ","bruøæ∫m","MS",499
+"broom","DE1B","12","N","N"," "," ","bruøæ∫m","MS",500
+"broom","DE1C!","13!","N","N"," "," ","bruøæ∫m","MS",501
+"broom","DE2A","15(*)","N","Y"," ","AUX2","brπ{uº}m","MS",502
+"broom is","DE2A","15(*)","S","Y"," ","AUX2","brπ{uº}m$±øz","MS",502
+"clean up","DE2A","15(*)","E","Y"," ","INA","klijn$∏p","MS",502
+"redd up","DE2A","15(*)","E","Y"," ","INA","Âr±{∞}d$Â∏{∞}p","MS",502
+"broom","DE2B","16","N","N"," "," ","bruøæ∫m","MS",503
+"broom","DE2C"," ","N","N"," "," ","bruΩº∫m"," ",504
+"broom","DE3A","18","N","N"," "," ","bruΩº∫m","MS",505
+"broom","DE3B","19","N","N"," "," ","bruø∫m","MS",506
+"broom","DE3C!","17!","N","N"," "," ","brπm","MS",507
+"broom","DE4","20","N","N"," "," ","bruøm","MS",508
+"broom","DE5A","21","N","N"," "," ","bruøΩ{uøæ}m","MS",509
+"clean up","DE5A","21","E","Y"," ","INA","kliΩjn$∏p","MS",509
+"broom","DE5B","22","N","N"," "," ","bruøuøæm","MS",510
+"broom","DE6A","23","N","N"," "," ","brπø´uø´m","MS",511
+"broom","DE6B","24","N","N"," "," ","bruøΩuøæm","MS",512
+"broom","MD1A","27","N","N"," "," ","brπm","MS",513
+"broom","MD1B","28","N","N"," "," ","brπm","MS",514
+"broom","MD2A","31a","N","N"," "," ","brπm","MS",515
+"broom","MD2B","32","N","N"," "," ","brπm","MS",516
+"broom","MD3A","33","N","N"," "," ","bruΩº∫m","MS",517
+"broom","MD3B","34","N","N"," "," ","brπ´æm","MS",518
+"broom","MD4A","35b","N","N"," "," ","bruøæ∫m","MS",519
+"broom","MD4B","35","N","N"," "," ","brπ´æm","MS",520
+"broom","MD4C","36","N","N"," "," ","bruøΩ{uº}m","MS",521
+"sweeps up","MD4C","36","E","Y"," ","INA","ıswijps$Â∏p","MS",521
+"broom","MD5A","37","N","N"," "," ","bruøæ∫m","MS",522
+"broom","MD5B","38","N","N"," "," ","brπm","MS",523
+"broom","MD6A","39(*)","N","N"," "," ","bruø∫m","MS",524
+"broom","MD6A","39(*)","N","Y"," ","AUX","brπ´m","MS",524
+"broom","MD6B","40","N","N"," "," ","bruøæ∫m","MS",525
+"broom","MD7A","41","N","N"," "," ","brπø´ºuøæm","MS",526
+"broom","MD7B","41b","N","N"," "," ","bruøΩuøæm","MS",527
+"broom","MD7C!","42!","N","N"," "," ","brπm","MS",528
+"broom","MD8A","43","N","N"," "," ","brπ´æm","MS",529
+"broom","MD8B","44","N","N"," "," ","brπ´m","MS",530
+"broom","MD9N","N46","N","N"," "," ","brπm","MS",531
+"clean up","MD9N","N46","E","Y"," ","INA","ıklijn$Â∏p","MS",531
+"broom","MD9A","45","N","N"," "," ","bruøºuø´m","MS",532
+"broom","MD9B","46","N","N"," "," ","brπm","MS",533
+"broom","MD10A","49","N","N"," "," ","brπm","MS",534
+"broom","MD10B","50","N","N"," "," ","brπøuøΩm","MS",535
+"broom","MD11","51","N","N"," "," ","bruº∫m","MS",536
+"broom","MD12A","52","N","N"," "," ","bruøæuºm","MS",537
+"broom","MD12B","53","N","N"," "," ","brπ´ºm","MS",538
+"broom","MD13A","54(*)","N","N"," "," ","bruΩºm","MS",539
+"broom","MD13B","55","N","N"," "," ","bruº∫m","MS",540
+"cleans up","MD13B","55","E","Y"," ","INA","kliΩ∫nz$∏Ωæp","MS",540
+"broom","MD13C","56","N","N"," "," ","bruº∫m","MS",541
+"broom","MD13D!","57!","N","N"," "," ","bruøΩæm","MS",542
+"broom","MD13E!","58!","N","N"," "," ","brπø{∞}m","MS",543
+"broom","MD13F!","59!","N","N"," "," ","brπº∫{∞}m","MS",544
+"NR","MD13G"," "," ","N"," "," "," "," ",545
+"broom","MD14","61(*)","N","N"," "," ","bruøæ∫m","MS",546
+"broom","MD14","61(*)","N","Y"," ","AUX","brπ´ºm","MS",546
+"broom","MD15A","62","N","N"," "," ","brπm","MS",547
+"broom","MD15B","63","N","N"," "," ","brπ´ºm","MS",548
+"broom","MD16","64","N","N"," "," ","bruº∫m","MS",549
+"cleans up","MD16","64","E","Y"," ","INA","kl±´inz$∏p","MS",549
+"redds up","MD16","64","E","Y"," ","INA","ır≤dz$Â∏p","MS",549
+"broom","MD17A","65","N","N"," "," ","brπ´ºm","MS",550
+"broom","MD17B","66","N","N"," "," ","brπ´∫m","MS",551
+"broom","MD18A","67","N","N"," "," ","brπ´ºm","MS",552
+"broom","MD18B","68","N","N"," "," ","brπ´ºm","MS",553
+"broom","MD19A","69","N","N"," "," ","brπm","MS",554
+"broom","MD19B","70","N","N"," "," ","brπm","MS",555
+"broom","MD20A","71","N","N"," "," ","brπ∫{∞}m","MS",556
+"clean up","MD20A","71","E","Y"," ","INA","ıkliΩæ∫n$Â∏´p","MS",556
+"broom","MD20B","72","N","N"," "," ","brπ´º{∞}m","MS",557
+"broom","MD20C!","73!","N","N"," "," ","brπm","MS",558
+"broom","MD21A","75","N","N"," "," ","brπm","MS",559
+"broom","MD21B","76","N","N"," "," ","brπ´ºm","MS",560
+"broom","MD22N","N77","N","N"," "," ","brπm","MS",561
+"broom","MD22M","N78","N","N"," "," ","brπm","MS",562
+"broom","MD22A","77","N","N"," "," ","brπ{∞}m","MS",563
+"sweeps up","MD22A","77","E","Y"," ","INA","swiΩæiΩps$Â∏p","MS",563
+"broom","MD22B","78","N","N"," "," ","bruΩºuºm","MS",564
+"broom","MD22C!","79!","N","N"," "," ","brπ´m","MS",565
+"broom","MD23A","80b","N","N"," "," ","brπm","MS",566
+"broom","MD23B","80a","N","N"," "," ","brπ´ºm","MS",567
+"broom","MD23C","81","N","N"," "," ","brπm","MS",568
+"broom","MD24","82","N","N"," "," ","brπm","MS",569
+"broom","MD25","84","N","N"," "," ","brπ´m","MS",570
+"broom","MD26A","83","N","N"," "," ","brπø´uøæm","MS",571
+"broom","MD26B","83A"," ","N"," "," ","brπºm","MS",572
+"broom","MD27A","85","N","N"," "," ","bru∫m","MS",573
+"broom","MD27B","86","N","N"," "," ","bru∫m","MS",574
+"broom","DC1A","99","N","N"," "," ","brπ´m","MS",575
+"cleans up","DC1A","99","E","Y"," ","INA","kÏ±›i›{∞}nz$∏p","MS",575
+"redds up","DC1A","99","E","Y"," ","SUG/HRD/INA","ır±dz$Â∏p","MS",575
+"broom","DC1B!","100!","N","N"," "," ","brπm","MS",576
+"broom","VA1!","101!","N","N"," "," ","brπm","MS",577
+"broom","VA2A","103","N","N"," "," ","bruΩº{uº}m","MS",578
+"broom","VA2B","104","N","Y"," ","AUX","bruºm","MS",579
+"broom","VA3A","105(*)","N","N"," "," ","brπ´æm","MS",580
+"broom","VA3B","106","N","N"," "," ","bruºm","MS",581
+"broom","VA3C"," ","N0-","N"," "," ","bruøΩæ{uº}m"," ",582
+"broom","VA4N","N109","N","N"," "," ","brπm","MS",583
+"broom","VA5A","107","N","N"," "," ","brπm","MS",584
+"broom","VA5B","108","N","N"," "," ","brπm","MS",585
+"broom","VA6A","113","N","N"," "," ","bru˛º∫m","MS",586
+"broom","VA6B","114","N","N"," "," ","bruº∫m","MS",587
+"broom","VA7A","121","N","N"," "," ","brπm","MS",588
+"broom","VA7B","122","N","N"," "," ","brπm","MS",589
+"broom","VA8A","123","N","N"," "," ","brπøºm","MS",590
+"cleans up","VA8A","123","E","Y"," ","INA","kliΩ{i}nz$∏´∫p","MS",590
+"broom","VA8B","124","N","N"," "," ","brπ{∞}m","MS",591
+"broom","VA8C!","125!","N","N"," "," ","brπ{∞}m","MS",592
+"broom","VA9A","117","N","N"," "," ","brπºm","MS",593
+"broom","VA9B!","118!","N","N"," "," ","brπm","MS",594
+"broom","VA10A","127","N","N"," "," ","bruøΩ{uø´æ}m","MS",595
+"broom","VA10B","128","N","N"," "," ","brπm","MS",596
+"broom","VA11A","129","N","N"," "," ","brπm","MS",597
+"broom","VA11B","130","N","N"," "," ","brπm","MS",598
+"broom","VA12N","N131","N","N"," "," ","brπΩºm","MS",599
+"broom","VA12A","131","N","N"," "," ","brπm","MS",600
+"broom","VA12B!","132!","N","N"," "," ","brπ´∫m","MS",601
+"broom","VA13A","133","N","N"," "," ","brπm","MS",602
+"broom","VA13B","134","N","N"," "," ","brπ{∞}m","MS",603
+"broom","VA14A","135","N","N"," "," ","brπ´m","MS",604
+"cleans up","VA14A","135","E","Y"," ","INA","kliΩ∫z$Â∏p","MS",604
+"broom","VA14B","136","N","N"," "," ","brπm","MS",605
+"broom","VA14C","137","N","N"," "," ","brπ´m","MS",606
+"broom","VA15N","N139(*)","N","N"," "," ","brπ´∫m","MS",607
+"broom","VA15A","139","N","N"," "," ","brπ´m","MS",608
+"broom","VA15B","140","N","N"," "," ","brπæm","MS",609
+"broom","VA16A","141","N","N"," "," ","brπºm","MS",610
+"broom","VA16B","142","N","N"," "," ","brπm","MS",611
+"broom","VA17A","143","N","N"," "," ","brπ{∞}m","MS",612
+"broom","VA17B","144","N","N"," "," ","brπ´m","MS",613
+"broom","VA18","145","N","N"," "," ","brπ´{∞}m","MS",614
+"broom","VA19A","146","N","N"," "," ","bruøΩuøæm","MS",615
+"broom","VA19B","147","N","N"," "," ","brπø´{uøæ}m","MS",616
+"broom","VA19C!","148!","N","N"," "," ","brπm","MS",617
+"broom","VA20A","149","N","N"," "," ","bruΩº∫m","MS",618
+"broom","VA20B","150(*)","N","N"," "," ","brπm","MS",619
+"NR","VA20C"," "," ","N"," "," "," "," ",620
+"broom","VA21N","N153","N","N"," "," ","brπ{∞}m","MS",621
+"broom","VA21A","153","N","N"," "," ","brπ´m","MS",622
+"broom","VA21B","154","N","N"," "," ","brπ´m","MS",623
+"broom","VA22","155","N","N"," "," ","brπæm","MS",624
+"broom","VA23A","156","N","N"," "," ","bruø´{uøΩ}m","MS",625
+"broom","VA23B","157","N","N"," "," ","brπm","MS",626
+"clean up","VA23B","157","E","Y"," ","INA","ıkli∫n$Â∏p","MS",626
+"broom","VA24","159","N","N"," "," ","brπ´{∞}m","MS",627
+"broom","VA25","160(*)","N","N"," "," ","brπ{uøº}m","MS",628
+"broom","VA26A","161A","N","N"," "," ","brπøm","MS",629
+"cleans up","VA26A","161A","E","Y"," ","INA","klijnz$∏p","MS",629
+"sweeps up","VA26A","161A","E","Y"," ","INA","swijps$∏p","MS",629
+"broom","VA26B","161","N","N"," "," ","brπm","MS",630
+"broom","VA26C","162","N","N"," "," ","brπm","MS",631
+"broom","VA27","163(*)","N","N"," "," ","brπ{∞}m","MS",632
+"broom","VA27","163(*)","N","Y"," ","AUX","bruøΩm","MS",632
+"stows up","VA27","163(*)","E","Y","replacing things","AUX/INA","stoπz$∏´p","MS",632
+"cleans up","VA27","163(*)","E","Y"," ","AUX/INA","kli∫jnz$∏´p","MS",632
+"redds up","VA27","163(*)","E","Y"," ","AUX/INA","r≤ts$∏´p","MS",632
+"broom","VA28A","164","N","N"," "," ","bruøΩ{uøæ}m","MS",633
+"broom","VA28B","165","N","N"," "," ","brπm","MS",634
+"broom","VA29","166","N","N"," "," ","brπ´m","MS",635
+"broom","VA30A","167","N","N"," "," ","brπm","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"broom","VA30C!","168!","N","N"," "," ","brπºm","MS",638
+"cleans up","VA30C!","168!","E","Y"," ","INA","ıkliΩæ{iΩ}nz$Â∏Ω∫p","MS",638
+"broom","VA30D!","169!","N","N"," "," ","brπm","MS",639
+"broom","VA30E!","170!","N","N"," "," ","brπm","MS",640
+"broom","VA31A","171(*)(**)","N","N"," "," ","brπ∫{∞}m","MS",641
+"broom","VA31B","172","N","N"," "," ","brπm","MS",642
+"broom","VA31C"," ","N","N"," "," ","brπæm"," ",643
+"broom","VA32!","175!","N","N"," "," ","brπm","MS",644
+"broom","VA33A","173","N","N"," "," ","brπΩºm","MS",645
+"broom","VA33B","174","N","N"," "," ","brπæm","MS",646
+"broom","VA34A","177(*)","N","Y"," ","AUX","brπºm","MS",647
+"clean up","VA34A","177(*)","E","Y"," ","INA","ıkliΩ{i}n$Â∏p","MS",647
+"broom","VA34B","178","N","N"," "," ","brπm","MS",648
+"cleans","VA34B","178","V","Y"," ","INA","kliΩinz","MS",648
+"broom","VA35A","179","N","N"," "," ","brπ´m","MS",649
+"broom","VA35B","180","N","N"," "," ","brπm","MS",650
+"broom","VA36A","181","N","N"," "," ","brπm","MS",651
+"broom","VA36B","182","N","N"," "," ","brπm","MS",652
+"broom","VA37","183","N","N"," "," ","brπm","MS",653
+"broom","VA38","185","N","N"," "," ","brπm","MS",654
+"broom","VA39!","186!","N","N"," "," ","brπ{∞}m","MS",655
+"broom","VA40A","187","N","N"," "," ","brπm","MS",656
+"broom","VA40B","188","N","N"," "," ","brπº∫{∞}m","MS",657
+"broom","VA41A","191","N","N"," "," ","brπ{∞æ}m","MS",658
+"broom","VA41B","192","N","N"," "," ","brπm","MS",659
+"broom","VA42A","193(*)(**)","N","N"," "," ","brπ´m","MS",660
+"broom","VA42B","194","N","N"," "," ","brπm","MS",661
+"broom","VA43N","N195","N","N"," "," ","brπ´æ∫m","MS",662
+"broom","VA43A","195","N","N"," "," ","brπ´{∞}m","MS",663
+"broom","VA43B","196","N","N"," "," ","brπ´m","MS",664
+"broom","VA44A","199","N","N"," "," ","brπm","MS",665
+"broom","VA44B","200","N","N"," "," ","brπ´{∞}m","MS",666
+"broom","VA45A","201","N","N"," "," ","brπ´m","MS",667
+"clean up","VA45A","201","E","Y"," ","INA","klin$∏p","MS",667
+"broom","VA45B","202","N","N"," "," ","brπ{∞}m","MS",668
+"broom","VA46N","N207","N","N"," "," ","bruΩºm","MS",669
+"cleans up","VA46N","N207","E","Y"," ","INA","kli∫nz$∏p","MS",669
+"broom","VA46A","207","N","N"," "," ","bruΩº∫m","MS",670
+"cleans up","VA46A","207","E","Y"," ","INA","klçi∫nz$∏p","MS",670
+"broom","VA46B!","208!","N","N"," "," ","brπ{∞}m","MS",671
+"broom","VA47","211","N","N"," "," ","brπ{∞}m","MS",672
+"broom","VA48A","213(*)","N","N"," "," ","bruøΩ∫{uø}m","MS",673
+"broom","VA48B","214","N","N"," "," ","bruøΩ∫m","MS",674
+"broom","VA49A","215","N","N"," "," ","bruø∫m","MS",675
+"broom","VA49B","216","N","N"," "," ","bruø∫m","MS",676
+"broom","VA50A","217","N","N"," "," ","brπm","MS",677
+"broom","VA50B","218","N","N"," "," ","brπm","MS",678
+"broom","VA51A","219","N","N"," "," ","brπ´m","MS",679
+"NR","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"broom","VA51C"," ","N0-","N"," "," ","brπ{∞}m"," ",681
+"broom","VA52A","224","N","N"," "," ","bruº∫m","MS",682
+"broom","VA52B","225","N","N"," "," ","bruøΩæ{∞}m","MS",683
+"broom","VA52C!","226!","N","N"," "," ","brπ{∞}m","MS",684
+"broom","VA53A","227","N","N"," "," ","brπ´{∞}m","MS",685
+"broom","VA53B","228","N","N"," "," ","bruøΩ∫m","MS",686
+"broom","VA54A","229","N","N"," "," ","brπøæ{∞}m","MS",687
+"cleans up","VA54A","229","E","Y"," ","INA","kl±´{j}nz$∏´p","MS",687
+"broom","VA54B","230","N","N"," "," ","brπø∫m","MS",688
+"broom","VA55A","233(*)","N","N"," "," ","bruΩºm","MS",689
+"cleans up","VA55A","233(*)","E","Y"," ","INA","kliΩæ∫nz$∏p","MS",689
+"redds up","VA55A","233(*)","E","Y"," ","INA","r±dz$∏p","MS",689
+"ra‡umt auf","VA55A","233(*)","E","Y","German","AUX/INA","r∑∫{∞}mtê$uº∫f","MS",689
+"ra‡umt auf","VA55A","233(*)","E","Y","German","AUX/INA","roΩ∫{∞}mtê$uº∫f","MS",689
+"cleans up","VA55A","233(*)","E","Y"," ","AUX/INA","kliΩinz$∏p","MS",689
+"broom","VA55B","234(*)","N","N"," "," ","bruøΩ∫m","MS",690
+"broom","VA55B","234(*)","N","Y"," ","AUX","brπm","MS",690
+"broom","VA56A","237","N","N"," "," ","brπ{∞}m","MS",691
+"broom","VA56B","238","N","N"," "," ","brπ´æ{∞}m","MS",692
+"broom","VA57A","239","N","N"," "," ","brπº{∞}m","MS",693
+"broom","VA57B","240","N","N"," "," ","brπ´∫m","MS",694
+"broom","VA58","241(*)","N","N"," "," ","brπ´m","MS",695
+"broom","VA58","241(*)","N","Y"," ","AUX","bruº∫m","MS",695
+"cleans up","VA58","241(*)","E","Y"," ","AUX/INA","kli∫nz$∏´ºp","MS",695
+"broom","VA59N","N241","N","N"," "," ","bruº∫m","MS",696
+"clean up","VA59N","N241","E","Y"," ","INA","klijn$∏p","MS",696
+"broom","VA59A","242","N","N"," "," ","brπ´m","MS",697
+"broom","VA59B!","243!","N","N"," "," ","brπ´m","MS",698
+"broom","VA60","244(*)","N","Y"," ","AUX","bruøæ∫m","MS",699
+"broom","VA61A","245(*)","N","N"," "," ","brπ´{u˛º}m","MS",700
+"redds up","VA61A","245(*)","E","Y"," ","INA","r≤dz$∏p","MS",700
+"broom","VA61B!","246!","N","N"," "," ","bruøΩ∫m","MS",701
+"NR","VA61C"," "," ","N"," "," "," "," ",702
+"broom","VA62A","247(*)","N","N"," "," ","brπ´m","MS",703
+"broom","VA62B","248","N","N"," "," ","brπm","MS",704
+"broom","VA63A","251","N","N"," "," ","bruøΩ{uø}m","MS",705
+"broom","VA63B","252","N","N"," "," ","brπø´{uø}m","MS",706
+"broom","VA64A","255","N","N"," "," ","brπ{∞}m","MS",707
+"broom","VA64B","256","N","N"," "," ","brπø´{uøæ}m","MS",708
+"broom","VA65A","257","N","N"," "," ","brπøº{uº}m","MS",709
+"cleans up","VA65A","257","E","Y"," ","INA","kliΩinz$∏p","MS",709
+"redds up","VA65A","257","E","Y"," ","INA","r≤dz$∏p","MS",709
+"broom","VA65B","258","N","N"," "," ","brπø´{uº}m","MS",710
+"cleans","VA65B","258","V","Y"," ","INA","kliΩinz","MS",710
+"broom","VA65C!","259!","N","N"," "," ","bruøΩº{uø}m","MS",711
+"broom","VA66A","261","N","N"," "," ","bruΩº∫m","MS",712
+"broom","VA66B","262","N","N"," "," ","bruø∫m","MS",713
+"broom","VA67A","267","N","N"," "," ","bruøΩ∫{uø}m","MS",714
+"broom","VA67B","268","N","N"," "," ","bruøΩ∫{uø}m","MS",715
+"broom","VA68A","269","N","N"," "," ","bruøΩæ{uº}m","MS",716
+"broom","VA68B","270","N","N"," "," ","bÒéuøΩæm","MS",717
+"broom","VA69A","273","N","N"," "," ","bruøΩm","MS",718
+"broom","VA69B","274","N","N"," "," ","bruøΩm","MS",719
+"broom","VA70A","275","N","N"," "," ","brπø´{uº}m","MS",720
+"broom","VA70B","276","N","N"," "," ","bruøΩ∫{uø}m","MS",721
+"broom","VA71A","285","N","N"," "," ","bruøΩ{uøæ}m","MS",722
+"broom","VA71B","286","N","N"," "," ","brπø´{uø}m","MS",723
+"broom","VA72A","287","N","N"," "," ","bruøΩ{uøæ}m","MS",724
+"broom","VA72B","288","N","N"," "," ","bruøΩ{uøæ}m","MS",725
+"broom","VA73","291","N","N"," "," ","bruøΩ{uø}m","MS",726
+"broom","VA74A","293","N","N"," "," ","bruøΩ{uøæ}m","MS",727
+"broom","VA74B!","294!","N","N"," "," ","brπ´{∞}m","MS",728
+"broom","VA75A","297","N","N"," "," ","bruøΩ{uø}m","MS",729
+"broom","VA75B","298","N","N"," "," ","bruøΩ∫{uø}m","MS",730
+"broom","NC1","303","N","N"," "," ","bruøΩ{uø}m","MS",731
+"broom","NC2A","301","N","Y"," ","AUX2","brπºm","MS",732
+"cleans up","NC2A","301","E","Y"," ","AUX2/INA","kli∫nz$∏p","MS",732
+"broom","NC2B","304","N","N"," "," ","brπ´{uøæ}m","MS",733
+"broom","NC3A","305","N","N"," "," ","bruøΩ{uøæ}m","MS",734
+"broom","NC3B","306","N","N"," "," ","bruøΩ{uøæ}m","MS",735
+"broom","NC4A","307","N","N"," "," ","brπm","MS",736
+"broom","NC4B","308","N","N"," "," ","brπ´m","MS",737
+"broom","NC5A","309","N","N"," "," ","brπø{uø}m","MS",738
+"broom","NC5B","310","N","N"," "," ","brπø´{uº}m","MS",739
+"broom","NC6!","311!","N","N"," "," ","brπ´{∞}m","MS",740
+"broom","NC7A","315(*)","N","Y"," ","AUX","bruøΩº{uøæ}m","MS",741
+"clean up","NC7A","315(*)","E","Y"," ","AUX/INA","kliΩin$∏p","MS",741
+"broom","NC7B","316","N","N"," "," ","brπø´{uø}m","MS",742
+"broom","NC8N","N317","N","N"," "," ","bruΩº∫m","MS",743
+"broom","NC8A","317","N","N"," "," ","bruøΩºuøm","MS",744
+"broom","NC8B","318(*)","N","N"," "," ","brπø´uøm","MS",745
+"broom","NC9A","319","N","N"," "," ","brπø´{uøæ}m","MS",746
+"broom","NC9B","320","N","N"," "," ","brπøuøm","MS",747
+"broom","NC10A","321","N","N"," "," ","brπøº{uø}m","MS",748
+"clean up","NC10A","321","E","Y"," ","INA","kl±æ{i}n$∏p","MS",748
+"broom","NC10B","323","N","N"," "," ","brπø´∫{uø}m","MS",749
+"broom","NC10C","322","N","N"," "," ","brπø´{uøæ}m","MS",750
+"broom","NC11A","325","N","N"," "," ","brπøæuºm","MS",751
+"broom","NC11B","326","N","N"," "," ","brπø´ºuøm","MS",752
+"broom","NC12A","327(*)","N","N"," "," ","brπøºuΩm","MS",753
+"clean up","NC12A","327(*)","E","Y"," ","AUX/INA","tliΩin$∏∫p","MS",753
+"broom","NC12B","328","N","N"," "," ","bruø{uº}m","MS",754
+"broom","NC13A","329","N","N"," "," ","brπ{uº}m","MS",755
+"broom","NC13B","330(*)","N","N"," "," ","brπøº{uø}m","MS",756
+"broom","NC14N","N331","N","N"," "," ","brπæm","MS",757
+"broom","NC14A","331","N","N"," "," ","brπø{uøæ}m","MS",758
+"broom","NC14B","332","N","N"," "," ","bruøæ{uøæ}m","MS",759
+"clean","NC14B","332","V","Y"," ","INA","kliΩin","MS",759
+"broom","NC14C!","333!","N","N"," "," ","brπ´æ{uº}m","MS",760
+"broom","NC15A","335(*)","N","N"," "," ","brπø´{uø}m","MS",761
+"broom","NC15B","336","N","N"," "," ","bruøΩº{uø}m","MS",762
+"broom","NC15C"," ","N0-","N"," "," ","brπ´∫{uº}m"," ",763
+"broom","NC16A","339(*)","N","N"," "," ","bruøΩ{uøæ}m","MS",764
+"broom","NC16B","340","N","N"," "," ","bruøΩ{uø}m","MS",765
+"broom","NC17A","337","N","N"," "," ","brπø´{uø}m","MS",766
+"broom","NC17B","338","N","N"," "," ","brπø´{uø}m","MS",767
+"broom","NC18A","341","N","N"," "," ","bruΩº∫m","MS",768
+"broom","NC18B","342","N","N"," "," ","bro´∫m","MS",769
+"broom","NC19A","343","N","N"," "," ","bruøΩæ{uº}m","MS",770
+"broom","NC19B","344","N","N"," "," ","brπî´æm","MS",771
+"broom","NC20A","345","N","N"," "," ","bÒé›uø{uøæ}m","MS",772
+"cleans","NC20A","345","V","Y"," ","INA","kliΩ{i}nz","MS",772
+"broom","NC20B","346a","N","N"," "," ","brπ´º{uº}m","MS",773
+"broom","NC20C","346b","N","N"," "," ","brπø´{uø}m","MS",774
+"broom","NC21A","347","N","N"," "," ","bruΩº∫m","MS",775
+"broom","NC21B","348","N","N"," "," ","brπ´m","MS",776
+"broom","NC22A","349","N","N"," "," ","bÒé›uøΩæuºm","MS",777
+"clean up","NC22A","349","E","Y"," ","INA","ıklii˛n$Â∏´∫p","MS",777
+"broom","NC22B","349b","N","N"," "," ","brπm","MS",778
+"broom","NC23A","351a","N","N"," "," ","bruΩº∫m","MS",779
+"broom","NC23B","351b(*)","N","N"," "," ","brπø{uøæ}m","MS",780
+"broom","NC23B","351b(*)","N","Y"," ","AUX","brπ´{uΩº}m","MS",780
+"broom","NC23C!","351c!","N","N"," "," ","brπm","MS",781
+"broom","NC23D!","351d!","N","N"," "," ","brπm","MS",782
+"broom","NC24N","N352","N","N"," "," ","bro˛´∫m","MS",783
+"broom","NC24A","352a","N","N"," "," ","bruΩºm","MS",784
+"broom","NC24B","352b","N","N"," "," ","brπm","MS",785
+"broom","NC25N","N353","N","N"," "," ","bruº∫m","MS",786
+"clean up","NC25N","N353","E","Y"," ","INA","klçi∫n$¶º∫p","MS",786
+"broom","NC25A","353","N","N"," "," ","bru∫m","MS",787
+"broom","NC25B","354","N","N"," "," ","bruº∫m","MS",788
+"cleans up the house","NC25B","354","E","Y"," ","INA","kli∫nz$∏´p$t∞›$ha´æ∫πs","MS",788
+"broom","NC26A","355a","N","N"," "," ","bruº{u}m","MS",789
+"broom","NC26B","355b","N","N"," "," ","bruøæ{uº}m","MS",790
+"broom","NC26C!","356!","N","N"," "," ","brπΩm","MS",791
+"broom","NC27A","357","N","N"," "," ","bruºm","MS",792
+"broom","NC27B","258","N","N"," "," ","bruøæ{uø´æ}m","MS",793
+"broom","NC28A","361","N","N"," "," ","bro´∫m","MS",794
+"broom","NC28B","361b","N","N"," "," ","bruΩº∫m","MS",795
+"broom","NC28C","362","N","N"," "," ","bruøæ{uº}m","MS",796
+"broom","NC29A","363(*)","N","N"," "," ","brπø{∞}m","MS",797
+"broom","NC29A","363(*)","N","Y"," ","AUX","brπm","MS",797
+"cleans up","NC29A","363(*)","E","Y"," ","INA","kliΩ∫nz$∏´p","MS",797
+"clean up","NC29A","363(*)","E","Y"," ","AUX/INA","klin$Â∏´p","MS",797
+"broom","NC29B","364","N","N"," "," ","bruø{uøæ}m","MS",798
+"broom","NC30A","365","N","N"," "," ","brπø{uø}m","MS",799
+"broom","NC30B","366","N","N"," "," ","brπm","MS",800
+"broom","NC31A","367","N","N"," "," ","brπø˛{uø˛Ω}m","MS",801
+"broom","NC31B","368","N","N"," "," ","brπm","MS",802
+"broom","NC32A","369","N","N"," "," ","bruΩº∫m","MS",803
+"cleans up","NC32A","369","E","Y"," ","INA","ıkli∫nz$Â∏´∫p","MS",803
+"broom","NC32B!","370!","N","N"," "," ","bruø{uø}m","MS",804
+"broom","NC33A","373","N","N"," "," ","bruøº{uø}m","MS",805
+"broom","NC33B","374","N","N"," "," ","brπø´º{uø}m","MS",806
+"broom","NC34A","375","N","N"," "," ","bÒé›πø´{uøº}m","MS",807
+"broom","NC34B","376","N","N"," "," ","brπø´ºuøm","MS",808
+"broom","NC34B","376","N","N"," "," ","bryæuøºm","MS",808
+"broom","NC35A","377","N","N"," "," ","brπm","MS",809
+"clean up","NC35A","377","E","Y"," ","INA","ıkli∫n$Â¶{∞}p","MS",809
+"broom","NC35B","378","N","N"," "," ","bruøΩ{uøæ}m","MS",810
+"broom","NC36N","N381","N","N"," "," ","brπ´æm","MS",811
+"broom","NC36A","381","N","N"," "," ","bruΩº∫m","MS",812
+"broom","NC36B","382","N","N"," "," ","bruø{uøæ}m","MS",813
+"broom","NC37A","383","N","N"," "," ","brπm","MS",814
+"broom","NC37B","384","N","N"," "," ","brπøæ{uøΩ}m","MS",815
+"broom","NC38N","N385","N","N"," "," ","brπm","MS",816
+"broom","NC38A","385","N","N"," "," ","brπøuøΩm","MS",817
+"broom","NC38B","386","N","N"," "," ","bruøΩuøæm","MS",818
+"broom","NC39A","389","N","N"," "," ","bruøΩ{uøæ}m","MS",819
+"broom","NC39B!","390!","N","N"," "," ","brπm","MS",820
+"broom","NC40A","391","N","N"," "," ","bruΩº∫m","MS",821
+"cleans up","NC40A","391","E","Y"," ","INA","ıkliΩ∫nz$∏´∫p","MS",821
+"broom","NC40B","392","N","N"," "," ","bruøΩ{uøæ}m","MS",822
+"broom","NC41!","393!","N","N"," "," ","brπm","MS",823
+"broom","NC42A","403","N","N"," "," ","bruøΩæ{uº}m","MS",824
+"broom","NC42B","404(*)","N","N"," "," ","bruøΩæuºm","MS",825
+"broom","NC43A","397","N","N"," "," ","brπ´{uº}m","MS",826
+"broom","NC43B","398","N","N"," "," ","bruΩº{uº}m","MS",827
+"broom","NC44","410(*)","N","N"," "," ","bruøΩæ{uº}m","MS",828
+"broom","NC45A","409(*)","N","N"," "," ","bruΩº{u}m","MS",829
+"broom","NC45B"," ","N0-","N"," "," ","bruøæ{uº}m"," ",830
+"broom","NC46A","411","N","N"," "," ","bruΩº{u}m","MS",831
+"broom","NC46B","412","N","N"," "," ","brπ´{uº}m","MS",832
+"broom","NC46C!","412b!","N","N"," "," ","bruΩº{uº}m","MS",833
+"broom","NC47","413","N","N"," "," ","bruøΩ∫m","MS",834
+"clean up","NC47","413","E","Y"," ","INA","klijn$∏´º∫{∞}p","MS",834
+"broom","NC48","418","N","N"," "," ","bruøΩæ{uº}m","MS",835
+"broom","NC49","421"," ","N"," "," ","bruøΩæ{uøæ}m","MS",836
+"broom","NC50A","422","N","N"," "," ","bruøΩæuºm","MS",837
+"broom","NC50B!","423!","N","N"," "," ","bruøΩº{uø}m","MS",838
+"broom","NC51A","427","N","N"," "," ","brπø´{uø}m","MS",839
+"broom","NC51B","428","N","N"," "," ","brπ´{uº}m","MS",840
+"broom","NC52N","N429","N","N"," "," ","bruº∫m","MS",841
+"broom","NC52A","429","N","N"," "," ","brπ´{uº}m","MS",842
+"broom","NC52B","430","N","N"," "," ","bÒé›uΩº{u˛º}m","MS",843
+"broom","NC53A","431","N","N"," "," ","brπø∫m","MS",844
+"broom","NC53B","432","N","N"," "," ","bruøæ∫m","MS",845
+"broom","NC54A","433","N","N"," "," ","bruΩº∫m","MS",846
+"cleans up","NC54A","433","E","Y"," ","INA","klijnz$∏´º∫{∞}p","MS",846
+"redds up","NC54A","433","E","Y"," ","INA","r±dz$∏´º∫{∞}p","MS",846
+"broom","NC54B","434","N","N"," "," ","brπ´{uº}m","MS",847
+"broom","NC55","435","N","N"," "," ","bruø{uø´æ}m","MS",848
+"broom","NC56A","436","N","N"," "," ","bruøΩæ{uøæ}m","MS",849
+"broom","NC56B!","437!","N","N"," "," ","brπ∫{∞}m","MS",850
+"broom","NC57A","438a","N","N"," "," ","brπ´{∞}m","MS",851
+"broom","NC57B","438b","N","N"," "," ","bruøΩ{uøæ}m","MS",852
+"broom","NC58A","439","N","N"," "," ","bruøΩæ{uº}m","MS",853
+"broom","NC58B","440","N","N"," "," ","bruø{uø}m","MS",854
+"broom","NC59","441(*)","N","N"," "," ","bruøΩ{uøæ}m","MS",855
+"clean up","NC59","441(*)","E","Y"," ","INA","ıkli∫{j}n$Â∏ó´∫{∞}p","MS",855
+"broom","NC60","442","N","N"," "," ","bruø{uøæ}m","MS",856
+"broom","NC61A","443","N","N"," "," ","bré›uΩºum","MS",857
+"broom","NC61B","444","N","N"," "," ","bruøΩ{uøæ}m","MS",858
+"broom","NC62A","447","N","N"," "," ","bruΩº{uº}m","MS",859
+"broom","NC62B","448","N","N"," "," ","bruøΩ{uº}m","MS",860
+"broom","NC63A","449","N","N"," "," ","bruøΩæ{uº}m","MS",861
+"broom","NC63B","450","N","N"," "," ","bruøΩ∫{uø}m","MS",862
+"broom","NC64A","453","N","N"," "," ","bruø{uøæ}m","MS",863
+"broom","NC64B","454","N","N"," "," ","bÒé›uΩº{uº}m","MS",864
+"broom","NC65A","461","N","N"," "," ","bruøΩæ{uº}m","MS",865
+"broom","NC65B","462","N","N"," "," ","bruøΩæ{uº}m","MS",866
+"clean up","NC65B","462","E","Y"," ","INA","ıkli{j}n$Â∏´º{∞}p","MS",866
+"broom","NC66A","465","N","N"," "," ","bré›uøΩæ{uº}m","MS",867
+"broom","NC66B","466","N","N"," "," ","bruø{uøæ}m","MS",868
+"broom","NC67A","469","N","N"," "," ","bruΩº{u}m","MS",869
+"broom","NC67B","470","N","N"," "," ","bruøΩæ∫m","MS",870
+"clean up","NC67B","470","E","Y"," ","INA","klijn$∏´º∫p","MS",870
+"broom","NC68A","473","N","N"," "," ","brπ´º{uøæ}m","MS",871
+"broom","NC68B","474","N","N"," "," ","bruø{uøæ}m","MS",872
+"broom","NC69A","477","N","N"," "," ","bruøΩ{uøæ}m","MS",873
+"broom","NC69B","478","N","N"," "," ","bruøΩ∫m","MS",874
+"clean up","NC69B","478","E","Y"," ","INA","kli{j}n$∏´º∫p","MS",874
+"broom","NC70A","479","N","N"," "," ","bruøΩæ{uº}m","MS",875
+"broom","NC70B","480","N","N"," "," ","bruøΩæ{uº}m","MS",876
+"broom","NC71A","481","N","N"," "," ","bruø{uøæ}m","MS",877
+"broom","NC71B","482","N","N"," "," ","bruΩº{uº}m","MS",878
+"broom","NC71C!","483!","N","N"," "," ","brπ´{uº}m","MS",879
+"broom","NC72A","487","N","N"," "," ","bruΩº{u}m","MS",880
+"broom","NC72B","488","N","N"," "," ","brπ´{uº}m","MS",881
+"broom","NC73A","491","N","N"," "," ","bruΩº{uº}m","MS",882
+"broom","NC73B","492","N","N"," "," ","bruø∫{uøæ}m","MS",883
+"cleans up","NC73B","492","E","Y"," ","INA","klijnz$∏´º∫{∞}p","MS",883
+"broom","NC74A","493","N","N"," "," ","bru›Ωº{u}m","MS",884
+"broom","NC74B","494","N","N"," "," ","bruø{uøæ}m","MS",885
+"broom","NC75A","495","N","N"," "," ","bruøΩæ{uº}m","MS",886
+"broom","NC75B","496","N","N"," "," ","bruøΩ{uøæ}m","MS",887
+"brooms","SC1A","203.1","N","N"," "," ","bruøΩ{uøæ}mz","MS",888
+"brooms","SC1B","203.2","N","N"," "," ","brπmz","MS",889
+"broom","SC2A","204.1(*)","N","N"," "," ","bruø{uøæ}m","MS",890
+"broom","SC2B","204.2","N","N"," "," ","bruøæuºm","MS",891
+"brooms","SC2C"," ","N","N"," "," ","bruº∫mz"," ",892
+"brooms","SC3A","205.1","N","N"," "," ","bruº∫mz","MS",893
+"cleans up","SC3A","205.1","E","Y"," ","INA","ıkli˛∫nz$Â∏´∫p","MS",893
+"brooms","SC3B","205.2","N","N"," "," ","ÂbÚuø∫mz","MS",894
+"sage brooms","SC3B","205.2","O","N"," ","CNV","Âse∫{±ø}d˙$ıbÚuø∫mz","MS",894
+"straw brooms","SC3C!","205.3!","O","N"," "," ","ÂstéÚè∑Ω∫{∞}$ıbÚuø∫mz","MS",895
+"broom","SC4A","206.1","N","N","nice)"," ","ÂbÚuø∫{πø}m","MS",896
+"broomstraw","SC4A","206.1","N","N","""sweep the yard with¢"," ","ÂbÚuø∫{w}m$stéÚè∑Ω","MS",896
+"broomstraw","SC4A","206.1","N","N","""sweep the yard with¢","CNV","ÂbÚuø∫m$stéÚè∑∫","MS",896
+"dogwood switches","SC4A","206.1","O","Y"," ","INA","Âd∑∫{∞}gıwπ´º{∞}d$Âswè±´{±ø}tÛ±øºz","MS",896
+"sweep the yard with","SC4A","206.1","E","Y"," ","INA","Âswèi∫{j}p$‰±ø´º$jµæ∫rd$w±ø˘","MS",896
+"broom","SC4B","206.2","N","N"," "," ","ÂbÚuø∫{w}m","MS",897
+"stick brooms","SC4B","206.2","O","N"," "," ","Âst±´{±ø}k$ıbÚπø´∫{∞}mz","MS",897
+"straw","SC4B","206.2","N","Y"," ","INA","ÂstéÚè∑∫{∞}","MS",897
+"broomstraw","SC4B","206.2","N","N"," ","CNV","ÂbÚuø∫{w}m$ıstéÚè∑∫","MS",897
+"broom","SC4C","206.3","N","N"," "," ","bÚπø´{∞}m","MS",898
+"broom","SC4C","206.3","N","N"," ","CNV","bÚπø´∫{πø}m","MS",898
+"broomstraw","SC4C","206.3","N","N"," ","CNV","ÂbÚuø∫{w}m$ıstéÚè∑º∫{∞}","MS",898
+"broomstraw","SC5A","207.1","N","N","from page 29"," ","Âbráuø∫m$ıstéÚá∑´∫{∞}","MS",899
+"broom","SC5B","207.2","N","N"," "," ","bÚπø´∫{∞}m","MS",900
+"broomstraw","SC5B","207.2","N","N"," "," ","ÂbÚπøΩ∫{∞}m$ıstÚ∑º∫","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"clean up","SC5C","207.2A","E","Y","(the place","INA","k`≈èi∫n$∏´{∞}p","MS",901
+"broom","SC5D!","207.3!","N","N"," "," ","bÚπø´{∞}m","MS",902
+"clean up","SC5D!","207.3!","E","Y"," ","INA","k`≈èi∫{j}n$•p","MS",902
+"broom","SC6N","N208","N","N"," "," ","bÚuø∫{w}m","MS",903
+"broomstraw","SC6N","N208","N","N","old field"," ","ÂbÚuø∫{w}m$ıstéÚ∑´º∫{∞}","MS",903
+"old field","SC6N","N208","O","Y"," ","INA","Âoº∫{∞}lfi∫l","MS",903
+"clean up","SC6N","N208","E","Y"," ","INA","t`lçi∫n$∏º{∞}p","MS",903
+"clean up","SC6N","N208","E","Y"," ","INA","k`≈i∫{j}n$∏›p","MS",903
+"brooms","SC6A","208.1","N","N"," "," ","bruº∫mz","MS",904
+"cleans up","SC6A","208.1","E","Y"," ","INA","kli∫nz$∏p","MS",904
+"straw brooms","SC6B","208.2(*)","O","N"," "," ","ıstéÚ∑∫$Âbruº{∞}mz","MS",905
+"brooms","SC6B","208.2(*)","N","N"," "," ","brπ´º{∞}mz","MS",905
+"broom","SC6C!","208.3!","N","N"," "," ","Âbrπøæm","MS",906
+"straw brooms","SC6C!","208.3!","O","N"," "," ","stéÚè∑∫{∞}$Âbrπøæmz","MS",906
+"straw brooms","SC6D"," ","O","N","""in the corner of the house¢"," ","ÂstéÚè∑º∫{∞}$ıbÚuø∫{w}m"," ",907
+"in the corner of the house","SC6D"," ","Q","Y"," ","INA","±øºn$dë±øΩº$Âk`∑éº∫{∞é}n∞æ$dë±ø´º$Âh•º∫πs"," ",907
+"straw broom","SC7N","N209","O","N","""in the corner inside¢"," ","ÂstéÚè∑º∫{∞}$ıbÚπø´∫{∞}m","MS",908
+"in the corner inside","SC7N","N209","Q","Y"," ","INA","i∫ndë±ø´º$Âk`∑º∫∞n∞$Âi∫nısµ∫±ødè","MS",908
+"broom","SC7A","209.1","N","N"," "," ","bÚπø´æ{∞}m","MS",909
+"broomstraw","SC7A","209.1","N","N","old fields"," ","ÂbÚπø´æ∫m$ıstéÚ∑º∫","MS",909
+"old fields","SC7A","209.1","O","Y"," ","INA","ıo´º∫{∞}Ï$Âfi∫{∞}Ïz","MS",909
+"broom","SC7B","209.2","N","N"," "," ","bÚπº∫{∞}m","MS",910
+"broom grass","SC7B","209.2","O","N"," "," ","ÂbÚπº∫{∞}m$ıgrá·Ω{∞}s","MS",910
+"brooms","SC7C!","209.3!","N","N"," "," ","ÂbÚπøæ∫{∞}mz","MS",911
+"broom","SC7D!","209.4!","N","N"," "," ","ÂbÚuø∫{w}m","MS",912
+"straw brooms","SC8A","210.1","O","N"," "," ","ÂstéÚ∑Ω∫{∞}$ıbÚuø∫mz{zè}","MS",913
+"stick brooms","SC8A","210.1","O","N"," "," ","Âst±´{∞}k$ıbÚuø∫mz","MS",913
+"stick brooms","SC8B","210.2","O","N"," "," ","Âst±´{∞}k$bÚuø∫mz","MS",914
+"straw brooms","SC8B","210.2","O","N"," "," ","ÂstÚ∑´∫{∞}$ıbÚuø∫mz","MS",914
+"straw brooms","SC8C","210.3","O","N","homemade"," ","ÂstéÚ∑Ω∫{∞}$ıbÚuø∫mz","MS",915
+"broom","SC9A","211.1","N","N"," "," ","ÂbÚuøΩ{∞}m","MS",916
+"straw brooms","SC9A","211.1","O","N"," "," ","stéÚ∑Ω∫{∞}$ÂbÚuø∫mz","MS",916
+"broomstraw","SC9A","211.1","N","N"," "," ","ÂbÚuø∫m$ıstéÚè∑Ω{∞}","MS",916
+"brooms","SC9B","211.2","N","N"," "," ","ÂbÚuø∫mz","MS",917
+"broom","SC9C!","211.3!","N","N"," "," ","bÚuø∫m","MS",918
+"broomstraw","SC9D!","211.4!","N","N"," "," ","ÂbÚuø∫m$ıstéÚè∑Ω∫{∞}","MS",919
+"brooms","SC9D!","211.4!","N","N"," "," ","bÚuø∫mz","MS",919
+"broomstraw","SC9D!","211.4!","N","N"," ","CNV/SIC","Âb≈éuø∫m$ıstéÚ∑Ω∫","MS",919
+"cleaning","SC9D!","211.4!","V","Y"," ","INA","tlçi∫n±øºn","MS",919
+"broom","SC10A","212.1","N","N"," "," ","ÂbÚuø´∫{∞}m","MS",920
+"broom","SC10A","212.1","N","N"," ","CNV","bÚuø∫{w}m","MS",920
+"brooms","SC10B!","212.2!","N","N"," "," ","Âbráuø∫mz","MS",921
+"broom sedge","SC10B!","212.2!","N","N"," "," ","Âbruø∫m$ıs≤´{∞}d˙","MS",921
+"broom","SC10C!","212.3!","N","N"," "," ","bruº∫m","MS",922
+"broom grass","SC10C!","212.3!","O","N"," "," ","Âbrπºm$ıgrá·∫{∞}s","MS",922
+"brooms","SC11N","N213","N","N"," "," ","brπ´mz","MS",923
+"clean up","SC11N","N213","E","Y"," ","INA","klçi∫n$∏Ωp","MS",923
+"broom","SC11M!","2n213!","N","N"," "," ","ÂbÚuø´º∫{∞}m","MS",924
+"broom","SC11A","213.1(*)","N","N"," "," ","ÂbÚyæ∫m","MS",925
+"broom","SC11A","213.1(*)","N","Y"," ","AUX","brπ´{∞}m","MS",925
+"ready up","SC11A","213.1(*)","E","Y"," ","AUX/SUG/INA","r≤d±ø´$∏Ωp","MS",925
+"cleans up","SC11A","213.1(*)","E","Y"," ","AUX/INA","klçi{∞}jnz$∏Ωp","MS",925
+"broom","SC11B","213.11","N","N"," "," ","Âbruº∫m","MS",926
+"rag","SC11B","213.11","N","Y"," ","INA","r·∫g","MS",926
+"cleans up","SC11B","213.11","E","Y"," ","INA","ıkli∫nz$Â∏ºp","MS",926
+"broom","SC11C","213.2","N","N"," "," ","bÚπø∫m","MS",927
+"broom","SC11C","213.2","N","N"," "," ","bÚuø∫{∞}m","MS",927
+"broom","SC11D","213.3","N","N"," "," ","Âbruøº∫uø´m","MS",928
+"broom","SC11E","213.4","N","N"," "," ","bÚuø´∫{πø}m","MS",929
+"broom","SC11F","213.5","N","N"," "," ","ÂbÚπø∫{∞}m","MS",930
+"broom","SC11G!","213.7!","N","N"," "," ","ÂbÚuø∫m","MS",931
+"broom","SC11H!","213.8!","N","N","dust pan"," ","Âbruø∫m","MS",932
+"dust pan","SC11H!","213.8!","O","Y"," ","INA","Âd∏ºsıp·∫{∞}n","MS",932
+"house cleaning","SC11H!","213.8!","O","Y"," ","INA","Âh∏´πs$ık`≈èi∫nnñ","MS",932
+"the broom is behind the door","SC11I!","213.9!","S","Y"," ","AUX","‰∞$bruº∫m$±øz$b∞ha∫±øn{d}$d‰$do∞æ","MS",933
+"cleans up","SC11I!","213.9!","E","Y"," ","INA","klçi∫nz$∏Ωp","MS",933
+"broom","SC11J!","213.10!","N","N"," "," ","bÚóuø´∫{∞}m","MS",934
+"brooms","SC12A","214.1","N","N"," "," ","ÂbÚuø∫mz","MS",935
+"broomstraw","SC12A","214.1","N","N","cut with reaphooks in winter"," ","ÂbÚuø∫m$ıstéÚè∑∫{∞}","MS",935
+"NR","SC12B","214.2"," ","N"," "," "," ","MS",936
+"cleans up","SC12B","214.2","E","Y"," ","INA","klçi∫nz$∏p","MS",936
+"broom grass","SC13","213.6","O","N"," "," ","Âbruøæm$ıgr·{∞}s","MS",937
+"broom","SC14A","215.1","N","N"," "," ","brπm","MS",938
+"cleans up","SC14A","215.1","E","Y"," ","INA","kli∫nz$∏Ωp","MS",938
+"broom","SC14B","215.2","N","N"," "," ","ÂbÚuø∫m","MS",939
+"straw brooms","SC14B","215.2","O","N","in country"," ","ÂstéÚè∑Ω∫{∞}$ıbÚuø∫mz","MS",939
+"broomstraw","SC15A","216.1","N","N"," "," ","Âb{Úá}uø∫m$ıstéÚ∑º∫{∞}","MS",940
+"broomstraw","SC15A","216.1","N","N"," ","CNV/SIC","Âb◊uø∫m$sté◊è∑º∫{∞}","MS",940
+"brooms","SC15B","216.2","N","N"," "," ","bÚπ´∫{∞}ms","MS",941
+"broomstraw","SC15B","216.2","N","N"," "," ","ÂbÚπø´{∞}m$ıstéÚ∑º∫","MS",941
+"brooms","SC15C","216.3","N","N"," "," ","ÂbÚuø∫mz","MS",942
+"broomstraw","SC15C","216.3","N","N"," "," ","ÂbÚπøΩ{∞}m$ıstéÚ∑º∫{∞}","MS",942
+"brush brooms","SC15C","216.3","O","N"," "," ","ÂbÚ∏´º{∞}Û$ıbÚuø∫mz","MS",942
+"broom","SC16N","N217","N","N"," "," ","bÚuø∫{w}m","MS",943
+"broom","SC16N","N217","N","N"," "," ","bÚuø∫m","MS",943
+"broomstraws","SC16","217.1","N","N"," ","CNV","Âbruº∫m$ıstéÚ∑Ω∫zè","MS",944
+"broom","SC16","217.1","N","N"," "," ","bruº∫m","MS",944
+"broom","SC16","217.1","N","N"," "," ","bruøæ∫m","MS",944
+"brooms","SC17A","218.1","N","N"," "," ","bÚuø∫mz","MS",945
+"brooms","SC17B","218.2","N","N"," "," ","bÚuø∫{w}mz","MS",946
+"straw brooms","SC17C","218.3","O","N","tied - made at home"," ","ÂstéÚè∑∫{∞}$ıbÚuø´∫{πø}mz{zè}","MS",947
+"cleaned up","SC17C","218.3","E","Y"," ","INA","Âk`≈èi∫nd$ı∏´{∞}p","MS",947
+"brooms","SC17D","218.4","N","N"," "," ","ÂbÚπø∫{∞}mz{zè}","MS",948
+"brush brooms","SC17D","218.4","O","N"," "," ","ÂbÚ≥´{∞}Û$ıbÚπø∫{∞}mz","MS",948
+"brush brooms","SC17D","218.4","O","N"," "," ","ÂbÚ∏{∞}Û$ıbÚπø∫{∞}mz","MS",948
+"broomstraw","SC17D","218.4","N","N"," "," ","ÂbÚπø∫{∞}m$ıstéÚè∑∫","MS",948
+"broom","SC18N","N219","N","N"," "," ","Âbruø´º∫m","MS",949
+"brooms","SC18A","219.1","N","N"," "," ","brπøæmz{zè}","MS",950
+"mops","SC18A","219.1","N","Y"," ","INA","m∂ps","MS",950
+"broom","SC18B","219.2","N","N","""a deadly weapon¢"," ","Âbryæ∫{∞}m","MS",951
+"broom","SC18B","219.2","N","N","""a deadly weapon¢","CNV","brπºm","MS",951
+"broom","SC18C!","219.3(*)!","N","N"," "," ","brπøm","MS",952
+"NR","SC18D!"," "," ","N"," "," "," "," ",953
+"the broom is behind","SC19N","N220","S","N"," "," ","d±øΩ$brπΩm$z$b±øΩhµ´º±øΩn","MS",954
+"clean up","SC19N","N220","E","Y"," ","INA","kli∫n$∏Ωp","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"broom","SC19B","220.4","N","N"," "," ","bru∫{∞}m","MS",956
+"mop","SC19B","220.4","N","Y","(on stick","INA","m•p","MS",956
+"cloth","SC19B","220.4","N","Y"," ","INA","k`l∑∫˘","MS",956
+"cleans up","SC19B","220.4","E","Y"," ","INA","Âkliæ∫nz$ı∏´p","MS",956
+"mop","SC19B","220.4","V","Y"," ","INA","m•p","MS",956
+"broom","SC19C","220.2(*)","N","N"," "," ","Âbryæ∫{uø}m","MS",957
+"brooms","SC19D!","220.3!","N","N"," "," ","brπºmz","MS",958
+"made broom","SC19D!","220.3!","O","N"," "," ","Âme´∫d$ıbrπºm","MS",958
+"broom grass","SC19D!","220.3!","O","N"," "," ","Âbrπºm$ıgr·Ω{∞}s","MS",958
+"NR","SC19E!"," "," ","N"," "," "," "," ",959
+"switch broom","SC20A","221.1","O","N"," "," ","Âswè±´tÛ$ıbruø∫{w}m","MS",960
+"broomstraw","SC20A","221.1","N","N"," "," ","Âbruø∫{w}m$ıstéÚè∑Ω∫∑","MS",960
+"broomstraw","SC20A","221.1","N","N"," "," ","Âbruø∫wm$ıstéÚè∑Ω∫∑","MS",960
+"broom","SC20B","221.2","N","N"," "," ","Âbruº∫{w}m","MS",961
+"broom sage","SC20B","221.2","O","N","turn a broom straw"," ","Âbruº∫{w}m$ıse∫{±ø}d˙","MS",961
+"turn a broomstraw","SC20B","221.2","E","Y"," ","INA","té≥æ∫¥n$∞$bruø∫{u}m$stéÚè∑∫∑´","MS",961
+"broom","SC20C","221.3","N","N"," "," ","Âbráuø∫{w}m","MS",962
+"straw broom","SC20C","221.3","O","N"," "," ","ıstéÚèá∑∫∑´$Âbráuø∫{w}m","MS",962
+"straw broom","SC20D!","221.4!","O","N"," "," ","ÂstéÚè∑Ω∫∑$ıbru{∞}m","MS",963
+"broom","SC20D!","221.4!","N","N"," "," ","Âbrπ´º{∞}m","MS",963
+"stick broom","SC20D!","221.4!","O","N"," "," ","Âst±´k$ıbru{∞}m","MS",963
+"yard broom","SC20D!","221.4!","O","N"," "," ","Âjµæ∫∞d$ıbru{∞}m","MS",963
+"broom","SC21A","222.1","N","N"," "," ","brπø´{uøæ}m","MS",964
+"broom","SC21B","222.2","N","N"," "," ","bruø{uø´}m","MS",965
+"broom","SC22N","N223","N","N"," "," ","brπ´{∞}m","MS",966
+"clean up","SC22N","N223","E","Y"," ","INA","kliΩ∫n$Â∏´p","MS",966
+"straw broom","SC22A","223.1","O","N"," "," ","ÂstéÚ∑∫{∞}$ıbÚπø∫{∞}m","MS",967
+"broom","SC22B","223.2","N","N"," "," ","brπm","MS",968
+"cleans up","SC22B","223.2","E","Y"," ","INA","kli∫nz$∏´p","MS",968
+"brooms","SC22C!","223.3!","N","N","country made brooms"," ","bÚπø´∫{∞}mz","MS",969
+"country made brooms","SC22C!","223.3!","O","Y"," ","INA","Âk`¶Ω{∞}n'téÚ±ø´º$ıme∫{∞}d$bÚπø´∫{∞}mz","MS",969
+"brooms","SC23A","224.1","N","N"," "," ","bÚuøΩ∫{∞}mz","MS",970
+"clean up","SC23A","224.1","E","Y"," ","INA","Âk`lèi∫{±ø}n$ı∏´{∞}p","MS",970
+"scour","SC23A","224.1","V","Y"," ","INA","Âskaæ∫w∞","MS",970
+"broom","SC23B","224.2","N","N"," "," ","bÚuø∫{∞}m","MS",971
+"broom","SC23B","224.2","N","N"," "," ","ÂbÚπø´æ∫{∞}m","MS",971
+"broom","SC23C","224.3","N","N"," "," ","ÂbÚuøΩ∫{∞}m","MS",972
+"brooms","SC23D","224.4","N","N"," "," ","bÚuø∫{wà}mz","MS",973
+"broom sedge","SC23D","224.4","O","N"," "," ","ÂbÚuø∫m$ıs≤´{∞}d˙","MS",973
+"broom sage","SC23D","224.4","O","N"," "," ","ÂbÚuø∫m$ıse∫{∞}d˙","MS",973
+"broomstraw","SC23D","224.4","N","N"," "," ","ÂbÚuø∫{w}m$ıstéÚè∑Ω∫{∞}","MS",973
+"brooms were made","SC23E!","224.5!","S","Y"," ","INA","ÂbÚóuøΩ∫{∞}mzw∞$Âme∫{∞}d","MS",974
+"broomstraw","SC23E!","224.5!","N","N"," "," ","ÂbÚóπøó´∫m$stéÚ∑´∫{∞}","MS",974
+"brooms","SC24N","N225","N","N"," "," ","ÂbÚuø∫mz","MS",975
+"broom sage","SC24N","N225","N","N","""out the old fields¢"," ","ÂbÚπø´∫{∞}m$ıse∫{∞}d˙","MS",975
+"out the old fields","SC24N","N225","Q","Y","""out the old fields¢","INA","a´æoΩ`t$dë±ø´º$Âoº∫{∞}Ï$ıfi∫{∞}Ïz{zè}","MS",975
+"stick broom","SC24A","225.1","O","N"," "," ","Âst±k$ıbruø∫m","MS",976
+"cleans up","SC24A","225.1","E","Y"," ","INA","Âklèi∫nz${z}ı∏p","MS",976
+"mop","SC24A","225.1","N","Y"," ","INA","mﬁ∫{∞}p","MS",976
+"dusts","SC24A","225.1","V","Y"," ","INA","d∏st±øz","MS",976
+"mop","SC24A","225.1","V","Y"," ","INA","mﬁ∫{∞}p","MS",976
+"broom","SC24B","225.11","N","N"," "," ","ÂbÚuø∫m","MS",977
+"broom","SC24B","225.11","N","N"," "," ","ÂbÚuø∫wm","MS",977
+"broomstraw","SC24B","225.11","N","N"," "," ","ÂbÚuø∫{u}m$stéÚè∑∫","MS",977
+"straw brooms","SC24C","225.2","O","N"," "," ","ÂstéÚè∑∫$ıbÚuø∫wmz","MS",978
+"brooms","SC24C","225.2","N","N"," "," ","bÚπø´æ{∞}mz{zè}","MS",978
+"broom sage","SC24D!","225.3!","O","N"," "," ","ÂbÚπøî{∞}m$ıse∫{∞}d˙","MS",979
+"brooms","SC24D!","225.3!","N","N"," "," ","ÂbÚπø´∫{∞}mz","MS",979
+"broom","SC25A","226.1","N","N"," "," ","brπm","MS",980
+"cleans up","SC25A","226.1","E","Y"," ","INA","ıkli∫nz$Â∏´p","MS",980
+"home-made brooms","SC25B","226.2","O","N"," "," ","Âho´∫m$ıme´∫d$Âbruºmz","MS",981
+"broom sage","SC25B","226.2","O","N"," "," ","Âbruºm$ıse∫{∞}d˙","MS",981
+"broom sage","SC25B","226.2","O","N"," "," ","Âbruºm$se›´d˙","MS",981
+"hearth broom","SC25C!","226.3!","O","N"," "," ","Âhﬁ{∞}˘$ıbruø∫m","MS",982
+"just plain brooms","SC25C!","226.3!","O","N"," "," ","d˙±øs$Âplèe∫n$bruømz","MS",982
+"hayed broom","SC25C!","226.3!","O","N","long"," ","Âhe∫d$ıbruøm","MS",982
+"stick brooms","SC26A","227.1","O","N","for yard"," ","Âst±´k$ıbrπ›´ºmz","MS",983
+"straw brooms","SC26A","227.1","O","N","kept bin shed by smokehouse"," ","ÂstéÚ∑º∫{∞}$ıbrπ›ºmz","MS",983
+"brooms","SC26B!","227.2!","N","N"," "," ","bruº∫mz","MS",984
+"yard broom","SC26B!","227.2!","O","N"," "," ","Âjµæ∫∞d$ıbrπîº{∞}m","MS",984
+"straw broom","SC26B!","227.2!","O","N"," "," ","ÂstÚè∑Ω∫{∞}$ıbrπº∫{∞}m","MS",984
+"stick broom","SC26B!","227.2!","O","N"," "," ","Âst±´k$ıbrπîºm","MS",984
+"broom","SC27A","228.1","N","N"," "," ","brπ{∞}m","MS",985
+"broomstraw","SC27A","228.1","N","N"," "," ","Âbruø∫m$ıstéÚ∑∫","MS",985
+"floor mop","SC27A","228.1","O","Y"," ","INA","ıfloπΩº$Âmﬁ´æ∫{∞}p","MS",985
+"clean up","SC27A","228.1","E","N"," "," ","Âkli∫n$ı∏p","MS",985
+"stick broom","SC27B","228.2","O","N"," "," ","ÂstiΩk$ıbrπº∫m","MS",986
+"broom","SC27B","228.2","N","N","""my wife wants it yet¢"," ","Âbruº∫m","MS",986
+"broomstraw","SC27B","228.2","N","N","""my wife wants it yet¢"," ","Âbruºm$stéÚ∑´∫{∞}","MS",986
+"straw broom","SC28A","229.1","O","N"," "," ","ÂstéÚè∑∫{∞}$ıbruº∫{w}m","MS",987
+"stick broom","SC28B","217.2","O","N"," "," ","Âst±´k$ıbruø∫m","MS",988
+"straw broom","SC28B","217.2","O","N","usually in the corner"," ","ÂstéÚè∑∫{∞}$ıbruø∫m","MS",988
+"straw brooms","SC28C","229.2","O","N","handmade (bought)"," ","ÂstéÚ∑∫{∞}$bruøæmz","MS",989
+"stick brooms","SC28C","229.2","O","N"," "," ","Âst±´k$ıbruøæmz","MS",989
+"brooms","SC28C","229.2","N","N"," "," ","bruøæmz","MS",989
+"broom","SC28D","229.3","N","N"," "," ","Âbruø∫m","MS",990
+"stick brooms","SC29A","230.2(*)","O","Y","[{∞}]: doubtful","FDT","Âst±´k$ıbruº∫{∞}mz","MS",991
+"broom","SC29A","230.2(*)","N","N"," "," ","bruº∫m","MS",991
+"broomstraw","SC29A","230.2(*)","N","N"," "," ","Âbruº∫m$ıstéÚè∑Ω{∞}","MS",991
+"broom sedge","SC29B","230.1(*)","N","N","homemade","SIC","ÂbÒuº∫m$ıs≤´{∞}d˙","MS",992
+"broom handles","SC29B","230.1(*)","O","Y"," ","INA","Âbruøæ∫m$ıh·{∞}nÏz","MS",992
+"straw brooms","SC29C","230.3","O","N","for house"," ","ÂstéÚèá∑Ω∫{∞}$ıbráuº∫mz","MS",993
+"brooms","SC29C","230.3","N","N"," "," ","bráuΩºmz","MS",993
+"NR","SC29D"," "," ","N"," "," "," "," ",994
+"brooms","SC29E"," ","N","N","homemade"," ","bÚπø´æ{∞}mz"," ",995
+"broomstraw","SC29E"," ","N","N"," "," ","ÂbÚuø∫{∞}m$ıstéÚè∑ó´∫{∞}"," ",995
+"brooms","SC29E"," ","N","N","homemade"," ","bÚuø∫mz"," ",995
+"broom","SC30A","231.1","N","N"," "," ","bruø∫m","MS",996
+"cleans up","SC30A","231.1","E","Y"," ","INA","klijnz$∏ó´º{∞}p","MS",996
+"scours","SC30A","231.1","V","Y"," ","INA","sk·Ωπ∞z","MS",996
+"broom","SC30B","231.2","N","N"," "," ","bÚuø∫wm","MS",997
+"brush broom","SC30B","231.2","O","N"," "," ","Âbr¶ΩºÛ$ıbÚuøº∫wm","MS",997
+"straw broom","SC30B","231.2","O","N"," "," ","ÂstéÚè∂´∫{∑}$ıbÚuøº∫wm","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"broomstraw","SC31A","232.1","N","N"," "," ","Âbruø∫m$ıséÚè∑∫{∞}","MS",999
+"cleaning up","SC31A","232.1","E","Y"," ","INA","tlçèi∫n±øºn$ı¶Ω{∞}p","MS",999
+"broom","SC31B","232.2","N","N"," "," ","brπºm","MS",1000
+"broomstraw","SC31B","232.2","N","N"," "," ","ÂbruøΩæm$ıstérè∑Ω∫{∞}","MS",1000
+"brooms","SC32A","233.1","N","N","out of broom straw"," ","bÚπø´∫{∞}ms","MS",1001
+"brooms","SC32B","233.2","N","N"," "," ","bÚπø´∫{∞}mz","MS",1002
+"broomstraw","SC32B","233.2","N","N"," "," ","ÂbÚuø´∫m$ıstéÚè∑´∫{∞}","MS",1002
+"broom","SC32C","233.3","N","N"," "," ","ÂbÚuø∫m","MS",1003
+"broom","SC32C","233.3","N","N"," "," ","ÂbÚπø´{∞}m","MS",1003
+"brooms","SC32D","233.4","N","N","used to be made out of broom straw"," ","ÂbÚπø´æ∫{∞}mz","MS",1004
+"brooms","SC32D","233.4","N","N","used to be made out of broom straw"," ","bÚuø∫mz","MS",1004
+"broom","SC33A","234.1","N","N"," "," ","bruøΩ∫{uøæ}m","MS",1005
+"cleans up","SC33A","234.1","E","Y"," ","INA","klijnz$Â∏´∫{∞}p","MS",1005
+"redds up","SC33A","234.1","E","Y"," ","INA","r≤∫{∞}dz$Â∏´∫{∞}p","MS",1005
+"brooms","SC33B","234.2","N","N"," "," ","bÚuø∫{w}mz","MS",1006
+"field brooms","SC33B","234.2","O","N"," "," ","Âfi∫{j}Ï$ıbÚuø∫{w}mz{zè}","MS",1006
+"straw broom","SC34A","235.1","O","N","from old field"," ","ÂstéÚè∂´∫∑$ıbÚπ´º∫{∞}m","MS",1007
+"old field","SC34A","235.1","O","Y"," ","INA","Âoº∫πºÏ$ıfi∫{∞}Ï","MS",1007
+"broom","SC34B","235.2","N","N","homemade"," ","ÂbÚuø∫wm","MS",1008
+"broom","SC34B","235.2","N","N","homemade"," ","ÂbÚuøæ∫{πø}m","MS",1008
+"straw brooms","SC34C","235.3","O","N"," "," ","ÂstéÚè∑Ω∑´$ıbÚπø´{∞}mz{zè}","MS",1009
+"broom","SC34C","235.3","N","N"," "," ","bÚπø´{∞}m","MS",1009
+"broom","SC35A","236.1","N","N"," "," ","bÚuø∫{w}m","MS",1010
+"straw brooms","SC35A","236.1","O","N"," "," ","Âstérè∂´∫oΩ$ıbÚuø∫{∞}mz","MS",1010
+"stick broom","SC35B","236.2","O","N"," "," ","Âst±´{∞}k$ıbÚuø∫wm","MS",1011
+"straw broom","SC35B","236.2","O","N"," "," ","ÂstéÚè∂´∫oΩ$ıbÚuø∫m","MS",1011
+"cleaning up","SC35B","236.2","E","Y"," ","INA","Âk`≈èi∫jnnñ$ı¶Ω{∞}p","MS",1011
+"broom","SC35C","236.3(*)","N","N"," "," ","b≥éæ¥uø{uø´}m","MS",1012
+"mops","SC35C","236.3(*)","N","Y"," ","INA","mﬁºps","MS",1012
+"NR","SC35D"," "," ","N"," "," "," "," ",1013
+"broom","SC35E!"," ","N","N"," "," ","bÚuøº∫wm"," ",1014
+"broomstraw","SC35E!"," ","N","N"," "," ","ÂbÚuø∫m$ıstÚè∑Ω∫∑"," ",1014
+"stick broom","SC36A","237.1","O","N"," ","CNV","Âst±´k$ıbruø∫wm","MS",1015
+"NR","SC36B","237.2"," ","N"," "," "," ","MS",1016
+"NR","SC36C","237.3"," ","N"," "," "," ","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"broom","SC37","238","N","N"," "," ","bruø∫uø´m","MS",1019
+"cleaning up","SC37","238","E","Y"," ","INA","ıklii´n±øÓ$Â¶Ωp","MS",1019
+"wiping rag","SC37","238","O","Y"," ","INA","waæ±øp±ø›n$r·{∞}g","MS",1019
+"tidy","SC37","238","V","Y"," ","INA","t`aæ∫±ød±øº","MS",1019
+"piddle around the house","SC37","238","E","Y"," ","INA","Âp±ÒÏ$∞ıra´πn$d∞$Âh·Ωπs","MS",1019
+"mop","SC37","238","N","Y"," ","INA","mµ∫{∞}p","MS",1019
+"broom","SC38N","N239","N","N"," "," ","bÚuø˛∫w˛{m}","MS",1020
+"brush broom","SC38N","N239","O","N"," ","CNV","ÂbÚ≤æÛ$ıbÚuøº∫wm","MS",1020
+"broom","SC38A","239.1","N","N"," "," ","ÂbÚuø∫wm","MS",1021
+"make some out of them","SC38A","239.1","E","Y"," ","INA","me∫±k$s¶Ωm$a´æπtê∞$Â‰≤´∫{∞}m","MS",1021
+"plant broom corn","SC38A","239.1","E","Y","""make some [brooms] out of them¢","INA","p`Ïè·≤nt$ÂbÚuø∫wm$ık`∑Ωº∫∞n","MS",1021
+"broom","SC38B","239.2","N","N"," "," ","bÚuø˛∫w˛{m}","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"broom","SC38D!","239.4(*)!","N","N"," "," ","ÂbÚuø∫wm","MS",1024
+"dust pan","SC38D!","239.4(*)!","O","Y"," ","INA","Âd¶ºs{t}$ıp`·∫{≤}n","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," "," ",1025
+"broom","SC39A","240.1","N","N"," ","CNV","bÚuø∫wm","MS",1026
+"broom","SC39B!","240.2!","N","N"," ","CNV","bÚuø∫wm","MS",1027
+"straw broom","SC40A","241.1","O","N"," "," ","ÂstÚè∂´o$brπøæ∫{uøæ}m","MS",1028
+"stick broom","SC40A","241.1","O","N","new article"," ","Âst±´k$ıbruøº∫uøm","MS",1028
+"broom","SC40B","241.2","N","N"," "," ","Âbrπ´ºm","MS",1029
+"stick brooms","SC40B","241.2","O","N","new type"," ","Âst±´k$ıbrπ´ºuºmz","MS",1029
+"broom","SC40B","241.2","N","N"," "," ","brπø´æuºm","MS",1029
+"broom","SC41A","242.1","N","N"," "," ","bruøΩ∫m","MS",1030
+"cleans up","SC41A","242.1","E","Y"," ","INA","ıklijnz$Â∏´∫{∞}p","MS",1030
+"brush broom","SC41B","242.2","O","N"," "," ","Âbr∏´ºÛ$ıbrπºm","MS",1031
+"straw broom","SC41B","242.2","O","N"," "," ","ÂstÚ∂´o$ıbrπº∫m","MS",1031
+"broom","SC41B","242.2","N","N"," "," ","Âbrπø´æ∫{uº}m","MS",1031
+"brush broom","SC42N","N243","O","N"," "," ","Âbr≤´æÛ$brπ´º∫m","MS",1032
+"straw broom","SC42N","N243","O","N"," "," ","ÂstÚ∂´ºoΩº$ıbruøæu´ºm","MS",1032
+"broom","SC42N","N243","N","N"," "," ","brπº∫{∞}m","MS",1032
+"broom","SC42N","N243","N","N"," "," ","brπøæ{∞}m","MS",1032
+"broom","SC42M"," ","O0-","N"," ","CNV","bÚπø´æm"," ",1033
+"broom","SC42A","243.1","N","N"," ","CNV","bruø´u´ºm","MS",1034
+"broom","SC42B!","243.2!","O","N"," "," ","Âbryæuø´m","MS",1035
+"broom","SC42C!","243.3!","N","N"," "," ","brπøæuøæm","MS",1036
+"broom","SC42C!","243.3!","N","N"," "," ","bruº∫u˛m›","MS",1036
+"broom","SC42C!","243.3!","N","N"," "," ","bruΩº∫um","MS",1036
+"broom","SC42D!","243.4!","N","N"," "," ","bróu›Ωºm","MS",1037
+"she's cleaning up","SC42D!","243.4!","S","Y"," ","INA","Û±´æz$k≈è±i›æn±øÓ$∏´ºp","MS",1037
+"broom","SC42E!","243.5!","N","N"," "," ","Âbruøî∫uøm","MS",1038
+"cleans up","SC42E!","243.5!","E","Y"," ","AUX/INA","Âk≈èi∫nz$∏ó´º∫p","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"broom","SC43B","244.2","N","N"," "," ","bryæuø´æm","MS",1040
+"broom","SC43C","244.3","N","N"," "," ","brπø´u´ºm","MS",1041
+"broom","SC44A","245.1","N","N"," "," ","brπø{uøæ}m","MS",1042
+"broom","SC44B","245.2","N","N"," "," ","bruøº∫uø´{m}","MS",1043
+"broom","GA1N","N246","N","N"," "," ","bruø∫m","MS",1044
+"brooms","GA1A","246.1(*)","N","N"," ","CNV","brµπøæ∫{∞}mz{zè}","MS",1045
+"broom","GA1A","246.1(*)","N","Y"," ","AUX/CNV","bruæ∫m","MS",1045
+"cleans up","GA1A","246.1(*)","E","Y"," ","INA","ıkli∫nz$Â∏Ωp","MS",1045
+"broom","GA1B","246.11","N","N"," "," ","ÂbruøΩ{∞}m","MS",1046
+"broom","GA1C","246.2","N","N"," ","CNV","bÚπ{∞}m","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"brooms","GA1E","246.4","N","N"," "," ","bÚuø∫{∞}mz{zè}","MS",1049
+"the broom","GA1F!","246.5!","O","N"," "," ","d∞$brπ´m","MS",1050
+"cleans","GA1F!","246.5!","V","Y"," ","INA","klinz","MS",1050
+"straw broom","GA1G!","246.6!","O","N"," "," ","ÂstéÚè∑º∫{∞}$ıbÚπº∫{∞}m","MS",1051
+"dust pan and broom","GA1H!","246.7!","O","Y"," ","INA","Âdu´st$ıp`·´{≤}n$∞›ºn$Âbryæuø´m","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"broom","GA2B","247.2","N","N"," "," ","bruø∫{w}m","MS",1055
+"broom","GA3A","248.1","N","N"," "," ","brπm","MS",1056
+"cleans up","GA3A","248.1","E","Y"," ","INA","klçi∫nz$∏Ωp","MS",1056
+"straw brooms","GA3B","248.2","O","N"," "," ","ÂstéÚè∑∫{∞}$ıbruø∫mz","MS",1057
+"broom","GA4N","N249","N","N"," "," ","brπ˛∫m","MS",1058
+"clean up","GA4N","N249","E","Y"," ","INA","klçin$∏Ωp","MS",1058
+"straw brooms","GA4A","249.1","O","N"," "," ","ÂstéÚè∑∫∞›$ıbruøæ∫mz","MS",1059
+"brooms","GA4A","249.1","N","N"," "," ","bruøæ∫{πøæ}mz","MS",1059
+"NR","GA4B","249.2"," ","N"," "," "," ","MS",1060
+"brooms","GA4C!","249.3!","N","N"," "," ","bruº∫mz","MS",1061
+"palmetto brooms","GA4C!","249.3!","O","N"," "," ","Âp·Ωlm≤´tê∞$ıbrπ´ºmz","MS",1061
+"brooms","GA4C!","249.3!","N","N"," "," ","brπ´ºmz","MS",1061
+"brooms","GA5A","250.1","N","N"," "," ","bru›Ωºmz","MS",1062
+"broomstraw","GA5A","250.1","N","N","hard for yard, finer for house"," ","Âbrπº{∞}m$ıstérè∑´∫","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"brooms","GA5C","250.3","N","N"," "," ","brπîº{∞}mz","MS",1064
+"brooms","GA5D!","250.4!","N","N"," "," ","br¶îºmz","MS",1065
+"broom","GA5D!","250.4!","N","N"," "," ","brπî´º{∞}m","MS",1065
+"broom","GA5E!","250.5!","N","N"," "," ","brπΩº{∞}m","MS",1066
+"homemade broom","GA5E!","250.5!","O","N"," "," ","Âho∫{∞}{m}ıme∫{∞}d$Âbrπº{∞}m","MS",1066
+"brooms","GA6A","251.1","N","N"," "," ","brπº{∞}mz","MS",1067
+"brooms","GA6B!","251.2!","N","N"," "," ","bruø∫mz","MS",1068
+"broom sage","GA7","256","O","N"," "," ","ÂbÚuøæ∫m$ıse∫±ød˙","MS",1069
+"broomstraw","GA7","256","N","N"," "," ","ÂbÚuøæ∫m$ıstéÚè∑Ω∫∑´","MS",1069
+"straw broom","GA8A","257.1","O","N"," "," ","stéÚè∑´∫{∞}$bÚuº∫m","MS",1070
+"palmetto broom","GA8A","257.1","O","N"," "," ","`paælm≤´tê∞$Âbruº∫m","MS",1070
+"corn brooms","GA8B","257.2","O","N"," "," ","Âk∑∫¥n$ıbru›Ωºmz","MS",1071
+"palmetto brooms","GA8B","257.2","O","N"," ","SIC","p∞Âm≤´Ò∞$ıbruº∫mz","MS",1071
+"broom sedge","GA8B","257.2","O","N"," "," ","Âbru∫m$ıs≤´{∞}d˙","MS",1071
+"straw broom","GA9A","257A.1","O","N"," "," ","ÂstÚ∂´¥$bruøm","MS",1072
+"palmetto broom","GA9A","257A.1","O","N"," "," ","Âp·lm≤´tê∞$Âbruø{uø´}m","MS",1072
+"scrub","GA9A","257A.1","N","Y","a)","INA","Âskr∏ó´º{∞}b","MS",1072
+"shuck mop","GA9A","257A.1","O","Y","for floors","INA","ÂÛ∏´ºk$ım∂p","MS",1072
+"broom","GA9B","257A.2","N","N"," "," ","bruø{uø´}m","MS",1073
+"broom","GA10A","258.1","N","N"," "," ","bru´ºm","MS",1074
+"cleans up","GA10A","258.1","E","Y"," ","INA","ıklçi∫nz$Â∏´p","MS",1074
+"flat brooms","GA10B","258.2","O","N"," "," ","Âflè·{∞}t$ıbrπø´æ{∞}mz","MS",1075
+"broom sedge","GA10B","258.2","O","N"," "," ","Âbrπøæm$ıs≤´æd˙","MS",1075
+"broomstraw","GA10B","258.2","N","N"," "," ","Âbrπøæm$ıstéÚè∑∫{∞}","MS",1075
+"NR","GA11N","N258A"," ","N"," "," "," ","MS",1076
+"brush broom","GA12A","259.1","O","N"," "," ","bÚ¶ΩÛ$ıbÚuøæ∫wm","MS",1077
+"broom","GA12B!","259.2(.3)","N","N"," "," ","bruº∫m","MS",1078
+"broom","GA13A","260.1","N","N"," "," ","br∑´∫m","MS",1079
+"puts it to rights","GA13A","260.1","E","Y"," ","INA","p∞Ωts$±øt$t∞$r•±øts","MS",1079
+"cleans up","GA13A","260.1","E","Y"," ","INA","kli∫nz$∏Ωp","MS",1079
+"broom grass","GA13B!","260.2!","O","N"," "," ","Âbruº∫m$ıgr·∫{∞}s","MS",1080
+"broom","GA13B!","260.2!","N","N"," "," ","ÂbruΩºm","MS",1080
+"with a broom","GA13B!","260.2!","Q","N"," ","CNV","w±ø‰∞$Âbruø˛æ∫{m}","MS",1080
+"yard broom","GA14A","261.1","O","N"," "," ","Âjﬁº{∞}d$ıbÚuø∫{w}m","MS",1081
+"broomstraw","GA14A","261.1","N","N"," "," ","ÂbÚuø{w}m$ıstéÚè∑º∫","MS",1081
+"wire grass broom","GA14B","261.3","O","N"," "," ","Âwa´æ∫∞$ıgÚá·{≤}s$bÚπøm","MS",1082
+"broom sage","GA14B","261.3","O","N"," "," ","ÂbÚuøΩæm$ıse∫{±ø}d˙","MS",1082
+"wire grass brooms","GA14C","261.2","O","N"," "," ","Âwµæ∫∞$ıgÚá·{∞}s$bÚuø∫{u}mz","MS",1083
+"broomstraw","GA14C","261.2","N","N"," "," ","ÂbÚuøm$ıstÚè∑º∫","MS",1083
+"brooms","GA14C","261.2","N","N"," "," ","bÚuø∫mz","MS",1083
+"carpet broom","GA14C","261.2","O","N"," "," ","Âk`µæ∫∞p±øºt$ıbÚuø∫{u}m","MS",1083
+"broom","GA15A","262.1","N","N"," "," ","bruøΩæ∫m","MS",1084
+"scour","GA15A","262.1","V","Y"," ","INA","sk·πø∞","MS",1084
+"clean up","GA15A","262.1","E","Y"," ","INA","ıkli∫n$Â∏´{∞}p","MS",1084
+"brooms","GA15B","262.2","N","N"," "," ","bruø∫mz","MS",1085
+"broomstraw","GA15B","262.2","N","N"," "," ","Âbráuø∫m$ıstÚè∑Ω∫∑","MS",1085
+"broom sage","GA16A","263.2","O","N"," "," ","Âbruø˛∫m$ıse∫{±ø}d˙","MS",1086
+"stick broom","GA16A","263.2","O","N"," "," ","Âst±´{∞}k$ıbruø˛∫{∞˛}m","MS",1086
+"broom","GA16A","263.2","N","N"," "," ","bruø˛∫{m}","MS",1086
+"carpet brooms","GA16B","263.1","O","N"," "," ","Âkµæ{∞}p±øºt$ıbrπº{∞}ms","MS",1087
+"straw brooms","GA16B","263.1","O","N"," "," ","stéÚè∑º$ıbrπº{∞}ms","MS",1087
+"broom","GA16C","263.21","N","N"," "," ","bruø{uø´}m","MS",1088
+"broom closet","GA16D!","263.3!","O","Y"," ","INA/CNV","Âbrπºm$ıklèﬁz±øºt","MS",1089
+"hard broom","GA16D!","263.3!","O","N"," "," ","hﬁ∫{∞}d$ıbrπºm","MS",1089
+"hair broom","GA16D!","263.3!","O","N"," "," ","Âh·´∫∞$ıbrπºm","MS",1089
+"broom","GA16D!","263.3!","N","N"," "," ","brπº{∞}m","MS",1089
+"broom","GA17N","N264","N","N"," "," ","bruø∫{uø´}m","MS",1090
+"scrub broom","GA17N","N264","O","N"," "," ","Âskr∏´b$bruø∫{uø´}m","MS",1090
+"rag","GA17N","N264","N","Y"," ","INA","r·´{±ø}g","MS",1090
+"scrub broom","GA17N","N264","O","Y","with sand","INA","Âskr∏´b$ıbruø∫{uø´}m","MS",1090
+"clean","GA17N","N264","V","Y"," ","INA","kli∫{i´}n","MS",1090
+"broom","GA17","264","N","N"," "," ","bruø˛æ∫m","MS",1091
+"cleaned","GA17","264","V","Y"," ","INA","kliæi´nd","MS",1091
+"mop","GA17","264","N","Y"," ","INA","mﬁºp","MS",1091
+"mopping","GA17","264","V","Y"," ","INA","mﬁºp±øÓ","MS",1091
+"broom","GA18A","264A.1","N","N"," "," ","bruø{uø´}m","MS",1092
+"broom","GA18B","264A.2","N","N"," "," ","bruø∫{uø´}m","MS",1093
+"home-made scouring broom","GA19A","265.1","O","N"," "," ","Âhoº∫{π}m$ıme∫{±ø}d$Âskaé´æ∫¥±øºn$ıbruø∫m","MS",1094
+"broomstraw","GA19B","265.2","N","N"," "," ","Âbruøº∫m$ıstéÚ∑Ω∫∑","MS",1095
+"broom","GA19B","265.2","N","N"," "," ","bruø∫m","MS",1095
+"Yankee brooms","GA20A","266.1","O","N","""had them in the North¢"," ","Âj·{∞}Ók±ø´º$ıbruº∫mzè","MS",1096
+"broom","GA20A","266.1","N","N"," "," ","brπº{∞}m","MS",1096
+"home-made broom","GA20A","266.1","O","N"," "," ","Âhoº∫ıme∫d$brπº{∞}m","MS",1096
+"broomstraw","GA20A","266.1","N","N"," "," ","ÂbrπΩm$ıstéÚè∑Ω∫{∑}","MS",1096
+"stick brooms","GA20A","266.1","O","N","""had them in the North¢"," ","Âst±´{∞}k$ıbrπº{∞}mz","MS",1096
+"brooms","GA20B","266.2","N","N"," "," ","Âbruøº∫mz","MS",1097
+"brooms","GA20B","266.2","N","N"," "," ","bruømz","MS",1097
+"straw brooms","GA20B","266.2","O","N"," "," ","ÂstéÚè∑Ω∫∑$bruøº∫mz","MS",1097
+"Yankee brooms","GA20B","266.2","O","N"," "," ","Âj·{≤}Ók±ø´º$ıbruø∫mz","MS",1097
+"cleaning","GA20B","266.2","V","Y"," ","INA","klèi∫{j}n±øºn","MS",1097
+"broom","GA21A","267.1","N","N"," "," ","bruø{uø´}m","MS",1098
+"stick brooms","GA21B","267.2","O","N"," "," ","Âst±´k$ıbruø∫{∞ó}mz","MS",1099
+"straw broom","GA21B","267.2","O","N"," "," ","stéÚè∑Ω$brπ´º{∞}m","MS",1099
+"brooms","GA21B","267.2","N","N"," "," ","bruøæ∫{w}mz","MS",1099
+"broomstraw","GA21B","267.2","N","N"," "," ","Âbruø∫wm$ıstéÚè∑Ω","MS",1099
+"broom","GA22A","268A.1","N","N"," "," ","bruø∫{uø´}m","MS",1100
+"mop","GA22A","268A.1","N","Y"," ","INA","mﬁºp","MS",1100
+"mop","GA22A","268A.1","N","Y"," ","INA","mµæ∫p","MS",1100
+"cleans up","GA22A","268A.1","E","Y"," ","INA","Âkli∫{i´}nz$ı∏ó´p","MS",1100
+"straw brooms","GA22B","268A.2","O","N"," "," ","ÂstéÚè∑Ωº∫∑º$ıbruº∫mz","MS",1101
+"straw broom","GA23A","268.1","O","N"," "," ","ÂstéÚ∑Ω∫$ıbruøæm","MS",1102
+"broom","GA23B","268.11","N","N"," "," ","bruø{uø´}m","MS",1103
+"cleaning","GA23B","268.11","V","Y"," ","INA","kli∫{i´}n±øÓ","MS",1103
+"broom","GA23C","268.2","N","N"," "," ","bruø{uø´}m","MS",1104
+"cleaning up","GA23C","268.2","E","Y"," ","INA","ıkli∫n±øn$Â∏´ºp","MS",1104
+"cane broom","GA23D!","268.3","O","N"," "," ","Âcáe∫±øn$ıbruøº∫wàm","MS",1105
+"straw brooms","GA23D!","268.3","O","N"," "," ","stéÚè∂´∫∑$bÚuøº∫mz","MS",1105
+"brooms","GA23D!","268.3","N","N"," "," ","bruø∫mz","MS",1105
+"broom","GA23E!","268.4!","N","N"," "," ","bruø{uø´}m","MS",1106
+"broom","GA23F!","268.5!","N","N"," "," ","bruΩuøm","MS",1107
+"cleaning","GA23F!","268.5!","V","Y"," ","INA","kli∫n±øn","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"broom","GA24A","269.1","N","N"," "," ","bruøæ∫m","MS",1109
+"cleans up","GA24A","269.1","E","Y"," ","INA","kli∫nz$∏´∫p","MS",1109
+"straw brooms","GA24B","269.2","O","N"," "," ","ÂstéÚè∑Ω∑$ıbruø∫{u}mz","MS",1110
+"broom","GA25N","N269A","N","N"," "," ","bruø{uø´}m","MS",1111
+"broom","GA26","270A","N","N"," "," ","bruø{uø´}m","MS",1112
+"broom","GA26","270A","N","N"," "," ","bruøΩ{uø´}m","MS",1112
+"damp cloth","GA26","270A","O","Y"," ","DBT/INA","Âd·{∞}mp$k`l∂´∫˘","MS",1112
+"broom","GA27!","270!","N","N"," "," ","bruø∫{uø´}m","MS",1113
+"cleans","GA27!","270!","V","Y"," ","INA","kli∫{i´}nz","MS",1113
+"broom","GA28","271a","N","N"," "," ","bruøæuø´æum","MS",1114
+"straw brooms","GA29A","271.1","O","N"," "," ","ÂstéÚè∑∫$ıbráuø∫mz","MS",1115
+"straw brooms","GA29B","271.2","O","N"," "," ","ÂstéÚ∂ó´∫$ıbruø˛∫mz","MS",1116
+"cleaning up","GA29B","271.2","E","Y"," ","INA","Âklèi∫n±øºn$ı¶ºp","MS",1116
+"straw broom","GA30A","272.1(*)","O","N"," "," ","ÂstéÚè∂´∑$ıbÚπø´∫{∞}m","MS",1117
+"straw brooms","GA30B","272.2(*)","O","N"," "," ","ÂstéÚè∂´∑Ω$ıbÚπøæ∫mz","MS",1118
+"brush brooms","GA30B","272.2(*)","O","N"," "," ","ÂbÚ¶Ω{∞}Û$ıbÚπø´∫{∞}mz{zè}","MS",1118
+"straw brooms","GA30B","272.2(*)","O","N"," "," ","ÂstéÚè∂´∑Ω$ıbÚπ´∫{∞}mz","MS",1118
+"broom","GA30C!","272.3!","N","N"," "," ","bruø∫{uø´}m","MS",1119
+"broomstraw","GA30D"," ","N","N"," "," ","ÂbÚuø∫{u}m$ıstéÚè∂´∫∑"," ",1120
+"NR","GA30E"," "," ","N"," "," "," "," ",1121
+"broom","GA31","272A","N","N"," "," ","bruø{uø´}m","MS",1122
+"shuck mop","GA31","272A","O","Y","for sanding","INA","ÂÛ∏´ºk$ımﬁóp","MS",1122
+"dust mop","GA31","272A","O","Y"," ","INA","Âd∏´ºs$m∂p","MS",1122
+"mop","GA31","272A","N","Y"," ","INA","m∂p","MS",1122
+"broom","GA32","272B","N","N"," "," ","brπø´uøm","MS",1123
+"broom","GA33A","272C1","N","N"," "," ","bruø{uø´}m","MS",1124
+"house cleaning","GA33A","272C1","O","Y"," ","INA","Âha´πs$ıtli∫{i´}n±øÓ","MS",1124
+"broom","GA33B","272C2","N","N"," "," ","bruΩºuºw","MS",1125
+"broomstraw","GA34N","N273","N","N"," "," ","Âbruø∫m$ıstéÚè∑Ω∑","MS",1126
+"broom","GA34A","273.1","N","N"," "," ","bruø∫m","MS",1127
+"cleans up","GA34A","273.1","E","Y"," ","INA","ıkli∫nz$Â∏´{∞}p","MS",1127
+"broom","GA34B","273.2","N","N"," "," ","bruø∫um","MS",1128
+"broomstraw","GA34B","273.2","N","N"," "," ","Âbruø∫m$ıstéÚ∂´∫∑","MS",1128
+"house brooms","GA34B","273.2","O","N"," "," ","Âh·Ωoz$ıbruø∫{w}mz","MS",1128
+"broom","GA35N","N273A","N","N"," "," ","bruø{uø´}m","MS",1129
+"cleaned it up","GA35N","N273A","E","Y"," ","INA","Âkli{i´}nd$±øt$ı∏´ºp","MS",1129
+"broom","GA36N","N274A","N","N"," "," ","bruøΩuøm","MS",1130
+"broom","GA37N","2N274","N","N"," "," ","bruø{uø´}m","MS",1131
+"broom","GA37M!","NC274","N","N"," "," ","brπºm","MS",1132
+"broomstraws","GA37A","274.1","N","N"," "," ","Âbruø∫{w}m$ıstéÚè∑Ω∫∑z","MS",1133
+"broomstraw","GA37A","274.1","N","N"," "," ","Âbruø∫{w}m$ıstéÚè∑Ω∫∑","MS",1133
+"straw broom","GA37B","274.2","O","N"," "," ","ÂstéÚè∑Ω∫∑$ıbru∫{w}m","MS",1134
+"stick brooms","GA37B","274.2","O","Y"," ","NEW","Âst±´k$ıbruø∫wmz","MS",1134
+"broom","GA37C","274.21","N","N"," "," ","bruø{uø´}m","MS",1135
+"cleaning day","GA37C","274.21","O","Y"," ","INA","Âkli{i´}n±øn$ıde{±ø}","MS",1135
+"broom","GA37D!","274.7!","N","N"," "," ","bruø{uø´}m","MS",1136
+"streightening up","GA37D!","274.7!","E","Y"," ","INA","ÂstéÚeΩ{±ø}'tnnñ$ı∏´p","MS",1136
+"broom","GA37E!","274.8!","N","N"," "," ","bruø{uø´}m","MS",1137
+"trash brooms","GA37F!","274.3!","O","N"," "," ","Âté`Úè·{≤}Û$ıbruø∫{w}mz","MS",1138
+"brush brooms","GA37G!","274.4!","O","N"," "," ","Âbr¶Ω{∞}Û$ıbruø∫wmz","MS",1139
+"broom","GA37G!","274.4!","N","N"," "," ","bruø∫wm","MS",1139
+"broom sage","GA37G!","274.4!","N","N"," "," ","Âbruø∫wm$ıse∫±ød˙","MS",1139
+"broom closet","GA37H!","274.5!","O","N"," "," ","Âbrπº{∞}m$ıklèﬁ{∞}z±øºt","MS",1140
+"straw brooms","GA37H!","274.5!","O","N"," "," ","ÂstéÚè∑Ω∑$ıbrπº{∞}mz","MS",1140
+"broom","GA37I!","274.6!","N","N"," "," ","brπøuøΩm","MS",1141
+"broom","GA38","275","N","Y"," ","SUG","bruøuø´m","MS",1142
+"cleans up","GA38","275","E","Y"," ","INA","ÂkliΩinz$ı∏´p","MS",1142
+"file cloth","GA38","275","O","Y","mother used the term","OLD/HRD/INA","Âfaæ∫{∞}l$ıkl∑Ω{∑}˘","MS",1142
+"mopping","GA38","275","V","Y"," ","INA","mµp±øn","MS",1142
+"broom","GA39","275A","N","N"," "," ","bruø∫{uø´}m","MS",1143
+"broom","GA40","276A","N","N"," "," ","bruø{uø}m","MS",1144
+"broomstraw","GA41","276B","N","N"," ","CNV","Âbruø∫{uø´}m$ıstéÚ∑Ω∫{∑}","MS",1145
+"cleaned up","GA41","276B","E","Y"," ","INA","Âk≈iΩind$ı∏´ºp","MS",1145
+"straw brooms","GA42A","276.1","O","N"," "," ","ÂstéÚè∑º∑´∫$ıbruøº∫wmz","MS",1146
+"straw broom","GA42B","276.2","O","N"," "," ","ÂstéÚè∑∫∑´$ıbruø{w}m","MS",1147
+"broom","GA43","277","N","N"," "," ","bruøΩ{uøæ}m","MS",1148
+"cleans up","GA43","277","E","Y"," ","INA","klijnz$∏´º∫{∞}p","MS",1148
+"straw brooms","GA44A","278.1","O","N"," "," ","ÂstéÚ∑Ω∫∑$ıbruø∫wmz","MS",1149
+"sage broom","GA44B","278.2","O","N"," "," ","s≤´{±ø}d˙$Âbruø∫m","MS",1150
+"broom","GA44B","278.2","N","N"," "," ","bruøº∫m","MS",1150
+"straw brooms","GA44C","278.3","O","N"," "," ","ÂstéÚè∑Ω∫∑$ıbruøº∫{u}mz","MS",1151
+"straw broom","GA44D","278.4","O","N"," "," ","ÂstéÚ∑Ω∫∑$ıbruø∫{w}m","MS",1152
+"broom","GA44D","278.4","N","N"," "," ","brπø´æ{∞}m","MS",1152
+"broom","GA44E","278.5","N","N"," "," ","brπºm","MS",1153
+"broom grass","FL1","252","O","N"," "," ","Âbrπº{∞}m$ıgr·∫{∞}s","MS",1154
+"palmetto brooms","FL1","252","O","N"," "," ","Âp·{∞}lım≤´t∞$Âbrπ´º{∞}mz","MS",1154
+"brooms","FL2A","253.1","N","N"," "," ","brπº{∞}mz","MS",1155
+"broom","FL2B","253.2","N","N"," "," ","bruø{uø´}m","MS",1156
+"brooms","FL2C!","253.3!","N","N"," "," ","brπ´º{∞}mz","MS",1157
+"palmetto broom","FL3A","254.1","O","N"," "," ","p∞›Âm≤´tê∞$ıbrπ›ºm","MS",1158
+"brooms","FL3B!","254.2!","N","N"," "," ","brπº{∞}mz","MS",1159
+"broom grass","FL3B!","254.2!","O","N"," "," ","Âb{ró}πºm$ıgr·{∞}s","MS",1159
+"broom","FL4","254A","N","N"," "," ","brπøº{uø´}m","MS",1160
+"clean it","FL4","254A","E","Y"," ","INA","kÏiΩæ{i}n$±øt","MS",1160
+"broom sage","FL5A","255.1","O","N"," "," ","Âbruº∫m$ıse´∫{∞}d˙","MS",1161
+"palmetto brooms","FL5A","255.1","O","N"," "," ","Âp`·∫lm≤´tê∞$Âbruº∫mz","MS",1161
+"brooms","FL5B","255.2","N","N"," "," ","br¶óºmz","MS",1162
+"NR"," "," "," ","N"," "," "," ","MS", 
+"NR"," "," "," ","N"," "," "," ","MS", 
+"","","","","","","","","",

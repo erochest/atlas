@@ -1,0 +1,53 @@
+like (cl88#6.asc)
+
+Items
+=====
+                              as if    3
+                    glad to see you    1
+                                 if    1
+         it look like it going rain    1
+                  it look like rain    1
+                       it seem like   13
+ it seem like he won't come through    1
+    it seem like it's going to rain    1
+it seem to me like he ain't going never come back    1
+                               like    5
+                              likes    1
+                                 NR   35
+                            through    1
+
+
+
+
+M: It seems to me _____ he won't pull through.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 88#6, "glad to see you" is marked inappropriate.
+
+	Darwin:
+	
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 88 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+88#Pa		88#5
+88#Pb		88#6
+88#Pc
+88#Pd
+88#Pe		88#3
+		88#4
+88#1		87#4
+88#2a,b		87#6
+88#3		88#1
+88#4		88#2
+88#5		88#7
+88#6		87#8

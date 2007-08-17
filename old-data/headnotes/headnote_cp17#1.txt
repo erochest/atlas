@@ -1,0 +1,65 @@
+china (cp17#1.asc)
+
+Items
+=====
+                              agate    1
+                       agate dishes    1
+                     artificial egg    2
+                              china   64
+                       china dishes    1
+                          china egg    5
+                         china eggs    1
+                         china ware    1
+                    chinaberry tree    1
+                   chinaberry trees    1
+                          chinaware    1
+                              churn    1
+                     company dishes    1
+                            crocker    1
+                           crockery    3
+                    cup and saucers    1
+                             dishes    6
+                            eat out    1
+                            glasses    1
+                           nest egg    1
+                                 NR    2
+                             plates    1
+                        rice dishes    1
+                     special dishes    1
+                                tin    1
+                            tin pan    1
+                         tin plates    1
+                              wares    1
+
+
+
+
+M: What term would you use in describing your best dishes?  Did you ever see an egg made out of this?  What would you call this egg?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 17#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 17 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+17#P		17#4
+17#1		17#1
+17#2		17#2
+17#3		17#3
+17#4		17#5
+17#5		17#6
+17#6		17#7
+17#7		17#8
+17#8

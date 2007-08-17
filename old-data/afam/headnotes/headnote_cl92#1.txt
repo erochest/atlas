@@ -1,0 +1,105 @@
+damn it! (cl92#1.asc)
+
+Items
+=====
+                              blame    1
+                           blame it   10
+                               burn    2
+                      Christ's sake    1
+                         concern it    1
+                        concern you    1
+                           confound    2
+                        confound it    4
+                       confound you    2
+                      conplague you    1
+           curse your infernal head    1
+cussing don't become a church member    1
+                       dad blame it    1
+                        dadblame it    2
+                       dadblame you    1
+                            dadburn    1
+                         dadburn it    7
+                        dadburn you    1
+                         daddurn it    1
+                               damn    7
+                            damn it   24
+                            dang it    3
+                            darn it    2
+                                dog    1
+                  dog bite the luck    1
+                    dog if I forget    1
+                        dog take it    1
+                            doggone    1
+                         doggone it   26
+         doggone it, what you doing    1
+                        doggone you    1
+                            drat it    1
+                           drat you    1
+                 drat your pictures    2
+                            durn it    9
+                     durn your soul    1
+                     fetch gone you    1
+                              fool!    1
+                     for God's sake    1
+                         go to hell    1
+                       God blame it    1
+                           God drat    2
+                               gosh    1
+                   hardly ever ****    1
+                               hell    1
+                       I never cuss    1
+      I never use these expressions    1
+                       I'll be dast    1
+                    I'll be whipped    1
+                              Jesus    1
+                     lod have mercy    1
+                             my God    1
+                                 NR   19
+                      plague on you    1
+                     plague take it    1
+                          the devil    1
+     what the devil you do that for    1
+             women cuss same as man    1
+                   you bastard, you    1
+you couldn't to be have any sense at all    1
+                          you crazy    1
+             you do like you a fool    1
+                  you must be crazy    1
+               you talk like a fool    1
+
+Pronunciations
+==============
+                                  "    5
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

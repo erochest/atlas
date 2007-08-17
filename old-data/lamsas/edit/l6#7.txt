@@ -1,0 +1,2004 @@
+"drizzling","NY1","50","V","N"," "," ","dr±zl±¿½n","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"drizzling","NY2B","51.2","V","N"," "," ","dr±zl±¿½n","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"steady drizzle","NY3A","401","O","N","""steady¢"," ","st±d±¿İ{±¿«}$dò±¾zì","MS",5
+"steady","NY3A","401","A","Y"," ","INA","st±d±¿«¼","MS",5
+"steady drizzle","NY3B","403","O","N"," "," ","õst±d±¿«$ådò±zì","MS",6
+"steady drizzle","NY3C","402","O","N"," "," ","st²d±¿«¼$dò±zì","MS",7
+"steady drizzle","NY3D","404","O","N"," "," ","st²¾d±¿«$dò±¾zì","MS",8
+"steady drizzle","NY4A","405","O","N"," "," ","st²¾d±¿«¼$dò±zì","MS",9
+"steady dribble","NY4B","407","O","N"," "," ","st±d±¿«¼$dò±bì","MS",10
+"steady drizzle","NY4B","407","O","N"," "," ","st±d±¿«¼$dò±zì","MS",10
+"gentle shower","NY4B","407","O","N"," "," ","ådú²«ntì$õó¥«¹´","MS",10
+"steady drizzle","NY4C","408","O","N"," "," ","st²¾d±¿«¼$dò±ºzì","MS",11
+"steady drizzle","NY5A","409","O","N"," "," ","õst²¾d±¿«$ådò±¾zì","MS",12
+"steady drizzle","NY5B","410","O","N"," "," ","st²d±¿«¼$dò±zì","MS",13
+"steady drizzle","NY5C","411","O","N"," "," ","st²d±¿«$dò±zì","MS",14
+"steady drizzle","NY5D","412","O","N"," "," ","st²¾d±¿«¼$dò±¾zì","MS",15
+"steady drizzle","NY5E","413","O","N"," "," ","st²d±¿«¼$dò±zì","MS",16
+"steady drizzle","NY5F","414","O","N"," "," ","st²¾d±¿«¼$dò±¾zì","MS",17
+"steady drizzle","NY5G","415","O","N"," "," ","st²d±¿«¼$dò±zì","MS",18
+"steady drizzle","NY5H!","416!","O","N"," "," ","st²d±¿«¼$dò—ŸÕ±ºzì","MS",19
+"steady drizzle","NY5I!","417!","O","N"," "," ","st²¾d±¿«¼$dò±¾ºzì","MS",20
+"steady drizzle","NY6A","418","O","N"," "," ","st¸¼d±¿«¼$dò±¾zì","MS",21
+"steady drizzle","NY6B","419","O","N"," "," ","st²d±¿«$dò±zì","MS",22
+"steady drizzle","NY7A","420","O","N"," "," ","st²d±¿«¼$dò±¾zì","MS",23
+"steady drizzle","NY7B","421","O","N"," "," ","õst²¾d±¿«¼$ådò±¿zì","MS",24
+"steady drizzle","NY7C","422","O","N"," "," ","st²¾d±¿«$dò±zì","MS",25
+"steady drizzle","NY7D","423","O","N"," "," ","st²¾d±¿«¼$dò±zì","MS",26
+"steady drizzle","NY7E","424","O","N"," "," ","st²¾d±¿«¼$dò±zì","MS",27
+"steady drizzle","NY7F","425","O","N"," "," ","õst²d±¿«¼$ådò±zì","MS",28
+"steady drizzle","NY7G","426","O","N"," "," ","st²¾d±¿«¼$döŸòŸÕ±zì","MS",29
+"steady drizzle","NY7H","427","O","N"," "," ","st²d±¿«¼$dò±zì","MS",30
+"steady drizzle","NY7I","428","O","N"," "," ","st²¾d±¿«¼$dò±ºzì","MS",31
+"steady drizzle","NY7J!","429!","O","N"," "," ","st²¾d±¿«¼$dò±¾zì","MS",32
+"steady drizzle","NY7K!","430!","O","N"," "," ","st²d±¿«¼$dò±zì","MS",33
+"steady drizzle","NY7L!","431!","O","N"," "," ","st²d±¿«¼$dò±zì","MS",34
+"steady drizzle","NY7M!","432!","O","N"," "," ","st²d±¿«¼$dò±zì","MS",35
+"steady drizzle","NY8","432b","O","N"," "," ","st²d±¿«$dò±zì","MS",36
+"steady drizzle","NY9A","432c","O","N"," "," ","st²d±¿«$dò±zì","MS",37
+"steady drizzle","NY9B","433","O","N"," "," ","õst²¾d±¿«$ådò±¾zì","MS",38
+"steady drizzle","NY9C","434","O","N"," "," ","õst²¾d±¿«¼$ådò±zì","MS",39
+"steady drizzle","NY10A","435","O","N"," "," ","st±d±¿«$dò±zì","MS",40
+"steady drizzle","NY10B!","436!","O","N"," "," ","st²d±¿«$dò±zì","MS",41
+"steady drizzle","NY11","438","O","N"," "," ","st²d±¿«¼$dò±zì","MS",42
+"steady drizzle","NY12A","439(*)","O","N"," "," ","st²d±¿«$dò±zì","MS",43
+"steady drizzle","NY12B","440","O","N"," "," ","st²d±¿«$dò±zì","MS",44
+"steady drizzle","NY12C!","441!","O","N"," "," ","st²d±¿«$dò±zì","MS",45
+"steady drizzle","NY13A","443","O","N"," "," ","õst±d±¿«$ådò±zì","MS",46
+"steady drizzle","NY13B!","444!","O","N"," "," ","st²d±¿«$dò±zì","MS",47
+"steady drizzle","NY14A","445","O","N"," "," ","st²d±¿«$dò±zì","MS",48
+"steady drizzle","NY14B","446","O","N"," "," ","st²d±¿«$dò±zì","MS",49
+"steady drizzle","NY15A","447","O","N"," "," ","õst±d±¿«$ådò±zì","MS",50
+"steady drizzle","NY15B","448","O","N"," "," ","st²d±¿«$dò±zì","MS",51
+"steady drizzle","NY16A","449","O","N"," "," ","st±d±¿«$dò±zì","MS",52
+"steady drizzle","NY16B","450","O","N"," "," ","st²d±¿«$dò±zì","MS",53
+"steady drizzle","NY17A","451(*)","O","N"," "," ","st±d±¿«$dò±zì","MS",54
+"steady drizzle","NY17B","452","O","N"," "," ","st²d±¿«$dò±zì","MS",55
+"steady drizzle","NY18A","453","O","N"," "," ","õst±d±¿«$ådò±zì","MS",56
+"steady drizzle","NY18B","454","O","N"," "," ","st²d±¿«$dò±zì","MS",57
+"steady drizzle","NY18C!","455!","O","N"," "," ","st²d±¿«$dò±zì","MS",58
+"steady drizzle","NY19","456","O","N"," "," ","õst²d±¿«$ådò±zì","MS",59
+"steady drizzle","NY20A","457","O","N"," "," ","st²d±¿«$dò±zì","MS",60
+"steady drizzle","NY20B","458","O","N"," "," ","st²d±¿«$dò±zì","MS",61
+"steady drizzle","NY21","459","O","N"," "," ","st²d±¿«$dò±zì","MS",62
+"steady drizzle","NY22","460","O","N"," "," ","st²d±¿«$dò±zì","MS",63
+"NA","NY23A","461"," ","N"," "," "," ","MS",64
+"steady rain","NY23B","462a","O","N"," "," ","õst±«d±«¾$år‡eº±«¾n","MS",65
+"drizzle","NY23B","462a","N","N"," "," ","dò±«zì","MS",65
+"drizzle","NY23B","462a","N","N"," "," ","ådò±«zl","MS",65
+"shower","NY23B","462a","N","N"," "," ","åó¥º¹|´","MS",65
+"sprinkle","NY23B","462a","N","N"," "," ","spr±¿½îkì","MS",65
+"light rain","NY23B","462a","O","N","""steady¢"," ","õl¥¾±¾t$åreº±«¾n","MS",65
+"steady","NY23B","462a","A","Y"," ","INA/CNV","åst±«d±«¾","MS",65
+"spring rain","NY23C","462b","O","N"," "," ","åspr±¿¼î$õre½º{±¿}n","MS",66
+"misting rain","NY23C","462b","O","N"," "," ","åm±«st±¿¼î$õre½º±¿¼n","MS",66
+"drizzles","NY23C","462b","V","Y"," ","SUG/HRD","ådò±¿«zìz","MS",66
+"shower","NY23C","462b","N","N"," "," ","åóá¾º¹w´","MS",66
+"light shower","NY23C","462b","O","N"," "," ","ålµ±¿¼t$õóµ¹w´«¾","MS",66
+"sprinkle","NY23C","462b","N","N"," "," ","spr±¿¼îkì","MS",66
+"steady drizzle","NY24A","463","O","N"," "," ","õst²d±¿«$ådò±zì","MS",67
+"steady drizzle","NY24B!","464!","O","N"," "," ","st²d±¿«$dò±zì","MS",68
+"drizzle","NY25A","465","N","N"," "," ","ådò±«zì","MS",69
+"shower","NY25A","465","N","N"," "," ","ó³¾º¹´","MS",69
+"steady rain","NY25B","466","O","N"," "," ","åst±¾d±«¾$õre½º±¿n","MS",70
+"mist","NY25B","466","N","N"," "," ","åm±¾st","MS",70
+"drizzle","NY25B","466","N","Y"," ","SUG/HRD","ådò±¿zì","MS",70
+"shower","NY25B","466","N","N"," "," ","åóµº¹´","MS",70
+"sprinkle","NY25B","466","N","N"," ","SIC","s pr±¾îkì","MS",70
+"mist","NY26A","467","N","N"," "," ","åm±{°}s","MS",71
+"very fine rain","NY26A","467","O","N"," "," ","v²´±«¾$åf°±¿¼n$õre½±¿¼n","MS",71
+"drizzle","NY26A","467","N","N"," "," ","ådò±«zì","MS",71
+"shower","NY26A","467","N","N"," "," ","åó²¾º¹w´«¾","MS",71
+"sprinkle","NY26A","467","N","N"," "," ","åspr±¿¼îkì","MS",71
+"light rain","NY26B","468","O","N"," "," ","õl¥½±¿t$åre½º±¿¼n","MS",72
+"drizzle","NY26B","468","N","N"," "," ","dò±¾zl","MS",72
+"shower","NY26B","468","N","N"," "," ","åóµº¹{w}´","MS",72
+"sprinkle","NY26B","468","N","N"," "," ","åspr±¿îkì","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"drizzling rain","NY27A","470","O","N"," "," ","ådò±¾zl±¿¼n$õre½±¿n","MS",74
+"drizzle drazzle","NY27A","470","O","N"," "," ","ådò±¾zì$õdòáºzì","MS",74
+"shower","NY27A","470","N","N"," "," ","åó¥«º¹|´","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"drizzle","NY27C","472","N","N"," "," ","dò±«zì","MS",76
+"spurt","NY27C","472","N","N"," "," ","sp³¾´t","MS",76
+"shower","NY27C","472","N","N"," "," ","åó¥¹|´","MS",76
+"little drizzle","NY28A","473a","O","N"," "," ","õl±¿{ç}ì$ådò±¿¼zì","MS",77
+"little shower","NY28A","473a","O","N"," "," ","õl±¿¼{ç}ì$åó¥º¹|´","MS",77
+"sprinkle","NY28A","473a","N","N"," "," ","spr±¿îkì","MS",77
+"sprinkle","NY28A","473a","N","N"," "," ","spr±¿¼îkì","MS",77
+"shower","NY28A","473a","N","N"," "," ","åóµ«¹|´","MS",77
+"fine rain","NY28B","473b(*)","O","N"," "," ","åf¥º±¿¼n$õreş½º±ş¾n","MS",78
+"drizzling rain","NY28B","473b(*)","O","N"," "," ","dò±«zl±¿¼î$reş½º±ş¾n","MS",78
+"sprinkle","NY28B","473b(*)","N","N"," "," ","åspr±ş¾îkì","MS",78
+"shower","NY28B","473b(*)","N","N"," "," ","åóµ«º¹´","MS",78
+"shower","NY28B","473b(*)","N","N"," "," ","åóá½º¹|´","MS",78
+"NA","NY28C"," "," ","N"," "," "," ","MS",79
+"mist","NY29A","474a","N","N","= drizzle"," ","m±¾st","MS",80
+"shower","NY29A","474a","N","N"," "," ","åó¥º¹|´","MS",80
+"sprinkle","NY29A","474a","N","N"," "," ","spr±¾îkì","MS",80
+"light shower","NY29A","474a","O","N"," "," ","ål°½±¿¼t$õó¥«¼º¹´","MS",80
+"light rain","NY29B","474b","O","N"," "," ","ål¥«±¿¼t$õre½º{±¿}n","MS",81
+"sprinkle","NY29B","474b","N","N"," "," ","spr±¾îkì","MS",81
+"shower","NY29B","474b","N","N"," "," ","åóµº¹|´","MS",81
+"mist","NY29C","474c","N","N","light drizzle"," ","m±¾st","MS",82
+"drizzly","NY29C","474c","A","N"," "," ","dò±¾zl±¾","MS",82
+"sprinkle","NY29C","474c","N","N"," "," ","spr±¾îkì","MS",82
+"shower","NY29C","474c","N","N"," "," ","åó³½¼º¹|´","MS",82
+"shower","NY29C","474c","N","N"," "," ","åó²¾º¹´","MS",82
+"drizzle","NY30A","475a","N","N"," "," ","dò±«zì","MS",83
+"shower","NY30A","475a","N","N"," "," ","åó²¾º¹{w}´","MS",83
+"sprinkle","NY30A","475a","N","N"," "," ","åspr±îkì","MS",83
+"mist","NY30A","475a","N","N"," "," ","åm±st","MS",83
+"light rain","NY30B","475b","O","N"," "," ","ålµ«±¿t$õreşº±¿ş{n}","MS",84
+"drizzle","NY30B","475b","N","Y"," ","SUG","dò±¿¼zì","MS",84
+"shower","NY30B","475b","N","N"," "," ","åóá¾º¹|´","MS",84
+"shower","NY30B","475b","N","N"," "," ","åó³º¹|´","MS",84
+"sprinkle","NY30B","475b","N","N"," "," ","spr±¾îkì","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NA","NY30D","475d"," ","N"," "," "," ","MS",86
+"light rain","NY30E","475e","O","Y"," ","AUX","ålµ«±¿t$õreº{±¿}n","MS",87
+"just a drizzle","NY30E","475e","O","Y"," ","AUX/OLD","dú²st°$ådò±¾zì","MS",87
+"light rain","NY30E","475e","O","N"," "," ","õlµ±¿t$åòeº{±¿}n","MS",87
+"sprinkle","NY30E","475e","N","Y"," ","SUG","spr±¿îkì","MS",87
+"shower","NY30E","475e","N","N"," "," ","óµ«º¹|´","MS",87
+"shower","NY30E","475e","N","N"," "," ","ó¥º¹´","MS",87
+"drizzle","NY31A","478a","N","N","barely coming down"," ","dò±¿«zì","MS",88
+"shower","NY31A","478a","N","N"," "," ","åó²¾º¹´","MS",88
+"sprinkle","NY31A","478a","N","N","short"," ","åspò±¿îkì","MS",88
+"steady rain","NY31B","478b","O","N"," "," ","åst²«d±«¾$õre½º±¿¼n","MS",89
+"mist","NY31B","478b","N","N"," "," ","åm±st","MS",89
+"misty rain","NY31B","478b","O","Y","[{±¿}]: doubtful","FDT","åm±st±İiİ$õòe½º{±¿}n","MS",89
+"drizzle","NY31B","478b","N","Y","natural","SUG","ådò±¾zì","MS",89
+"shower","NY31B","478b","N","N"," "," ","åó³¹İ´","MS",89
+"scud","NY31B","478b","N","N"," "," ","åsk¸¼d","MS",89
+"sprinkle","NY31B","478b","N","Y","natural","SUG","spr±¿îkì","MS",89
+"light shower","NY31B","478b","O","N"," "," ","åì¥±¿t$õó³¹İ´","MS",89
+"mist","NY32A","479a","N","N","same as `drizzle'"," ","m±¾st","MS",90
+"drizzle","NY32A","479a","N","N","same as `mist'"," ","dò±¾zì","MS",90
+"shower","NY32A","479a","N","N"," "," ","åóµ«¼º¹´","MS",90
+"sprinkle","NY32A","479a","N","N"," "," ","spr±¾îkì","MS",90
+"drizzle","NY32B","479b","N","N"," "," ","dò±¾zì","MS",91
+"shower","NY32B","479b","N","N"," "," ","åó¥º¹´","MS",91
+"light shower","NY32B","479b","O","N"," "," ","åì¥±¿t$õó¥º¹´","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"drizzle","NY33B","481","N","N","barely wet"," ","ådò±¾zì","MS",93
+"shower","NY33B","481","N","N"," "," ","åóµº¹´","MS",93
+"sprinkle","NY33B","481","N","N","just lays the dust"," ","spr±¾îkì","MS",93
+"mist","NY33C","482","N","N"," "," ","m±¿st","MS",94
+"drizzle","NY33C","482","N","Y"," ","SUG","dò±¾zì","MS",94
+"shower","NY33C","482","N","N"," "," ","åóµº¹|´","MS",94
+"sprinkle","NY33C","482","N","N"," "," ","spr±îkì","MS",94
+"gentle rain","NY34A","483","O","N"," "," ","õdú²«ntì$åòe½±¿¼n","MS",95
+"drizzle","NY34A","483","N","Y","natural","SUG/OLD","dò±¿zì","MS",95
+"shower","NY34A","483","N","N"," "," ","åó¥½º¹´","MS",95
+"sprinkle","NY34A","483","N","N","very little"," ","spò±¾îkì","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NA","NY34C","485"," ","N"," "," "," ","MS",97
+"mist","NY34D!","486!","N","N"," "," ","m±¾st","MS",98
+"mist","NY34D!","486!","N","N"," "," ","m±s","MS",98
+"shower","NY34D!","486!","N","N"," "," ","åóµ¹¼´","MS",98
+"sprinkles","NY34D!","486!","V","N","lays dust"," ","åspr±«îkìz","MS",98
+"steady drizzle","NY35A","487","O","N"," "," ","st±d±¿«$dò±zì","MS",99
+"steady drizzle","NY35B","488","O","N"," "," ","st²d±¿«$dò±zì","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"steady drizzle","NY36A","491","O","N"," "," ","õst±d±¿«$ådò±zì","MS",102
+"steady drizzle","NY36B","492","O","N"," "," ","st±d±¿«$dò±zì","MS",103
+"steady drizzle","NY37A","493","O","N"," "," ","st²d±¿«$dò±zì","MS",104
+"steady drizzle","NY37B","494","O","N"," "," ","st²d±¿«$dò±zì","MS",105
+"steady drizzle","NY37C!","495!","O","N"," "," ","st²d±¿$dò±zì","MS",106
+"steady drizzle","NY38A","497(*)","O","N"," "," ","st±d±¿«$dò±zì","MS",107
+"steady drizzle","NY38B","498","O","N"," "," ","st²d±¿«$dò±zì","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"steady drizzle","NY39A","499","O","N"," "," ","õst²d±¿«$ådò±zì","MS",110
+"steady drizzle","NY39B","500","O","N"," "," ","õst²d±¿«$ådò±zì","MS",111
+"steady drizzle","NY40A","501","O","N"," "," ","õst²d±¿«¼$ådò±zì","MS",112
+"steady drizzle","NY40B","502","O","N"," "," ","st²d±¿«$dò±zì","MS",113
+"steady drizzle","NY41","504","O","N"," "," ","st±¾d±¿«$dò±zì","MS",114
+"steady drizzle","NY42A","505","O","N"," "," ","st²d±¿«$dò±zì","MS",115
+"steady drizzle","NY42B","506","O","N"," "," ","õst²d±¿«¼$ådò±ºzì","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"steady drizzle","NY43B","507b","O","N"," "," ","st±d±¿«¼$dò±zì","MS",118
+"steady drizzle","NY43C!","508!","O","N"," "," ","st²d±¿«$dò±zì","MS",119
+"steady drizzle","NY44A","511","O","N"," "," ","st±d±¿«$dò±zì","MS",120
+"steady drizzle","NY44B","512","O","N"," "," ","st²d±¿«$dò±zì","MS",121
+"drizzle","NY45A","513a","N","N","light"," ","ådò±¿¼zì","MS",122
+"sprinkle","NY45A","513a","N","N","short"," ","åspr±¿îkì","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"drizzle","NY45D!","513d!","N","N"," "," ","dò±¾zì","MS",125
+"sprinkled","NY45D!","513d!","V","N"," "," ","spr±¾îkìd","MS",125
+"shower","NY45D!","513d!","N","N","""sprinkled¢"," ","åóµ«¼º¹´","MS",125
+"light rain","NY46A","515a","O","N"," "," ","ì¥«±¿t$åòe½±¿n","MS",126
+"drizzle","NY46A","515a","N","N"," "," ","ådò±¿«zì","MS",126
+"sprinkle","NY46A","515a","N","N"," ","CNV","åspr±«îkì","MS",126
+"shower","NY46A","515a","N","N"," ","CNV","åóµ«¹|´","MS",126
+"it drizzled a little all night","NY46A","515a","S","N"," "," ","±¿t$ådò±¿«zìd$°õl±«tì$·½ì$ånµ«±¿t","MS",126
+"NR","NY46B","515b"," ","N"," "," "," ","MS",127
+"NR","NY46C","515c"," ","N"," "," "," ","MS",128
+"drizzle","NY47A","517(*)","N","N"," "," ","dò±¿zì","MS",129
+"sprinkle","NY47A","517(*)","N","N","lays dust"," ","spr±¿¼îkì","MS",129
+"short rain","NY47A","517(*)","O","N"," "," ","åó·¼´t$õòe½±¿n","MS",129
+"squirt","NY47A","517(*)","N","N"," "," ","skw³¾´t","MS",129
+"shower","NY47A","517(*)","N","N"," "," ","åóµº¹{w}´","MS",129
+"slow steady shower","NY47A","517(*)","O","N"," "," ","åslo½¼¹$st±d±«¾$åó¥º¹|´","MS",129
+"steady drizzle","NY47B","518","O","N"," "," ","õst²d±¿«$ådò±zì","MS",130
+"drizzle","NY48A","519a","N","N","barely"," ","dò±«zì","MS",131
+"sprinkle","NY48A","519a","N","N"," "," ","spr±¿¼îkì","MS",131
+"shower","NY48A","519a","N","N"," "," ","óá¾o¼´","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"drizzle","NY48C","519c","N","N"," "," ","ådò±¾zì","MS",133
+"steady rain","NY48C","519c","O","N","dripping"," ","åst²«d±¾i¾$õre½º±¿¼n","MS",133
+"scud of rain","NY48C","519c","O","N","""sprinkled¢"," ","õsk¸«d$°«v$åre½±¿¼n","MS",133
+"shower","NY48C","519c","N","N"," "," ","åó³«¾¹½|´","MS",133
+"sprinkled","NY48C","519c","V","N"," ","CNV","spr±«îkìd","MS",133
+"steady rain","NY48D","519d","O","N"," "," ","åst³d±¿¼$õre½º±¿¼n","MS",134
+"drizzle","NY48D","519d","N","N"," "," ","ådò±¾zì","MS",134
+"sprinkle","NY48D","519d","N","N","a few minutes"," ","spr±¾îkì","MS",134
+"shower","NY48D","519d","N","N"," ","CNV","åóµ«¹¼´","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"medium rain","NY49C","522a","O","N"," "," ","åmi{i«}d±¿°«m$õre{±¿}n","MS",137
+"misty rain","NY49C","522a","O","N"," "," ","åm±st±¿{±¿«}$re{±¿}n","MS",137
+"very steady rain","NY49C","522a","O","N"," "," ","åv²´±¿$õst²d±¿{±¿«}$re{±¿}n","MS",137
+"light rain","NY49C","522a","O","N"," "," ","la«±¿t$re{±¿}n","MS",137
+"drizzle rain","NY49C","522a","O","N"," "," ","ådò±¾zì$õre{±¿}n","MS",137
+"steady miserable rain","NY49D","522b","O","N"," "," ","st²d±¿{±¿«}$åm±z´bì$åre±¿«n","MS",138
+"miserable weather","NY49D","522b","O","N"," "," ","m±z°bì$åw²ä´","MS",138
+"steady rain","NY50A","523","O","N"," "," ","åst²«d±¿¼$õòe½º±¿n","MS",139
+"light rain","NY50A","523","O","N"," "," ","õl¥«±¿t$åòe½±¿¼n","MS",139
+"little shower","NY50A","523","O","N"," "," ","ål±¿ñì$õóµºo¼´","MS",139
+"shower","NY50A","523","N","N"," "," ","óµºo¼|´","MS",139
+"gentle rain","NY50B","524","O","N"," "," ","õdú²«ntì$åre½±¿¼n","MS",140
+"light rain","NY50B","524","O","N"," "," ","ålµ±¿«{ç}$õtòe½±¿¼n","MS",140
+"drizzles","NY50B","524","V","Y"," ","SUG","dò±¾zìz","MS",140
+"sprinkle","NY50B","524","N","N","lays dust"," ","spr±¿¼îkì","MS",140
+"shower","NY50B","524","N","N"," "," ","ó¥½¹|´","MS",140
+"mist","NY51A","525a","N","N"," "," ","m±¾st","MS",141
+"drizzle","NY51A","525a","N","N","slow; no wind"," ","dò±¿zì","MS",141
+"shower","NY51A","525a","N","N"," ","CNV","åó¥¼º¹´","MS",141
+"shower","NY51A","525a","N","N"," "," ","åó³½¼¹´","MS",141
+"just a sprinkle","NY51A","525a","O","N"," "," ","õdú³«¼st$°åspr—±«¾îkì","MS",141
+"mist","NY51B","525b","N","N"," "," ","m±¾st","MS",142
+"misting","NY51B","525b","V","N"," "," ","m±¾st±¿¼î","MS",142
+"drizzles","NY51B","525b","V","N"," "," ","dò±¿zìz","MS",142
+"shower","NY51B","525b","N","N","fairly heavy, but brief"," ","ó¥¼o¼|´","MS",142
+"sprinkle","NY51B","525b","N","N"," "," ","spr—±«¾îkì","MS",142
+"NR","NY51C","525c"," ","N"," "," "," ","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"misting","NY52A","527","V","N","barely falling"," ","m±¾st±¿n","MS",146
+"drizzle","NY52A","527","N","N"," "," ","dò±¾zì","MS",146
+"shower","NY52A","527","N","N"," "," ","åó¥º¹°","MS",146
+"sprinkled","NY52A","527","V","N"," ","CNV","spr±¿îkìd","MS",146
+"sprinkle","NY52A","527","N","N"," "," ","spr±¾îkì","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"just a rainy day","NY52C","528b","O","N"," "," ","dú±¿s$°$åre±¿n±¿$õde±¿","MS",148
+"steady rain","NY52C","528b","O","N"," "," ","õst²«d±¿{±¿½}$åre±¿n","MS",148
+"mist","NY52C","528b","N","N"," "," ","m±«st","MS",148
+"if the sun's a-shining it'll rain tomorrow","NY53A","529","S","Y"," ","INA","±¿f$ä°$ås¸¼nz$°åó¥º±¿n±¿n$±¿tì$åòe½±¿n$t°åm¶´°","MS",149
+"sprinkle","NY53A","529","N","N"," "," ","spr±¿¼îkì","MS",149
+"shower","NY53A","529","N","N"," "," ","ó¥º¹{w}´","MS",149
+"drizzle","NY53B!","530!","N","Y","natural","SUG","dò±¿¼zì","MS",150
+"sprinkle","NY53B!","530!","N","N"," "," ","spr±«îkì","MS",150
+"shower","NY53B!","530!","N","N"," "," ","åó¥«º¹°","MS",150
+"steady rain","NY54A","531","O","Y"," ","SUG","åst²d±¿$õre±¿n","MS",151
+"steady downpour","NY54B","532","O","N"," "," ","õst²d±¿$åd¥¹nõpoº´","MS",152
+"drizzle","NY55A","533","N","N"," "," ","{d}dòi½zì","MS",153
+"sprinkle","NY55A","533","N","N","few drops"," ","åspr±¿¼îkì","MS",153
+"sprinkle","NY55A","533","N","N","few drops"," ","spr±¾îk”ì","MS",153
+"shower","NY55A","533","N","N"," "," ","ó²¾º¹|´","MS",153
+"drizzle drazzle","NY55B","534","O","N"," "," ","ådò±«zl$õdòá«zl","MS",154
+"drizzling rain","NY55B","534","O","N"," "," ","ådòi½zl±¿¼î$õre½º{±¿}n","MS",154
+"sprinkled","NY55B","534","V","N","a few minutes"," ","spr±¿îkìd","MS",154
+"drizzle","NY56A","535","N","N"," "," ","dò±¾zì","MS",155
+"steady","NY56A","535","A","Y"," ","INA/CNV","st±d±«¾","MS",155
+"sprinkled","NY56A","535","V","N"," ","CNV","spr±¾îkìd","MS",155
+"little shower","NY56A","535","O","N"," "," ","õl±¿tì$åó°º¹´","MS",155
+"steady rain","NY56B","536","O","N"," "," ","åst²«d±«¾{i¾}$õòe½{±¿}n","MS",156
+"steady","NY56B","536","A","Y"," ","INA/CNV","st²d±«¾","MS",156
+"drizzling","NY56B","536","V","N"," "," ","dò±¾zì–|±¾n","MS",156
+"sprinkled","NY56B","536","V","N","10-15 minutes"," ","åspr±¾îkìd","MS",156
+"shower","NY56B","536","N","N"," "," ","åó²¾º¹İ´","MS",156
+"gentle rain","NY57A","537a","O","N"," "," ","ådú²«ntì$õòeº{±¿}n","MS",157
+"steady rain","NY57A","537a","O","N"," "," ","åst¸½d±«¾$õòe½±¿n","MS",157
+"drizzling a little","NY57A","537a","E","N"," "," ","ådò±¿¾zl±¿¼n$°ål±¾tì","MS",157
+"sprinkle","NY57A","537a","N","N"," "," ","spò±¾îkì","MS",157
+"shower","NY57A","537a","N","N"," "," ","åóµ«¹´","MS",157
+"NA","NY57B","537b"," ","N"," "," "," ","MS",158
+"steady rain","NY57C!","537c!","O","N"," "," ","õst²«d±«¾$åòe½{±¿}n","MS",159
+"light rain","NY57C!","537c!","O","N"," "," ","ål¥½¼±¿t$õòe½º{±¿}n","MS",159
+"mist","NY57C!","537c!","N","N"," "," ","m±¾st","MS",159
+"drizzle","NY57C!","537c!","N","N"," "," ","dò±¾zì","MS",159
+"sprinkle","NY57C!","537c!","N","N"," "," ","spò±¾îkì","MS",159
+"shower","NY57C!","537c!","N","N"," "," ","åó¥º¹|{w}´«","MS",159
+"drizzle","NY58A","539a","N","N"," "," ","dò±«zì","MS",160
+"shower","NY58A","539a","N","N"," "," ","åó¥«º¹{w}´","MS",160
+"shower","NY58A","539a","N","N"," "," ","åó¥«º¹´","MS",160
+"drizzle","NY58B","539b","N","N","lighter [than shower]"," ","ådò±zì","MS",161
+"drizzle all day","NY58B","539b","E","N"," "," ","ådò±zì$õ·½ºì$åde½º{±¿}","MS",161
+"shower","NY58B","539b","N","N"," "," ","ó²¾º¹´","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"drizzle","NY58D!","539d!","N","N"," "," ","dò‡±«zì","MS",163
+"shower","NY58D!","539d!","N","N"," "," ","åó¥½¹°","MS",163
+"shower","NY58D!","539d!","N","N"," ","CNV","óµº¹{w}°","MS",163
+"sprinkles","NY58D!","539d!","V","N","it); lighter [than drizzle or shower]"," ","spò‡±«îkìz","MS",163
+"drizzle","NY58E!","539e!","N","N"," "," ","ådò±¿zì","MS",164
+"steady kind of a drizzle","NY58E!","539e!","O","N"," "," ","åst²«d±«¾$õkµ«±¿n$°«v°$ådò±¿zì","MS",164
+"just drizzly","NY58E!","539e!","K","N"," "," ","dú¸¼s$ådò±«zl±«¾","MS",164
+"shower","NY58E!","539e!","N","N"," "," ","åóµ«º¹´","MS",164
+"NA","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"drizzles","NY59A","543","V","N"," "," ","ådò±¾zìz","MS",166
+"steady rain","NY59A","543","O","N"," "," ","åst²«d±«¾$õòe½±¿n","MS",166
+"shower","NY59A","543","N","N"," "," ","åóµº¹´","MS",166
+"sprinkle","NY59A","543","N","N"," "," ","spr±«îkì","MS",166
+"steady drizzle","NY59B","544","O","N"," "," ","st²«¾d±¿«$dr±ºzì","MS",167
+"steady rain","NY60A","545","O","N"," "," ","åst²«d±¾$õòe½±¿n","MS",168
+"drizzle","NY60A","545","N","N"," "," ","dò±¾zì","MS",168
+"shower","NY60A","545","N","N"," "," ","åó°½º¹´","MS",168
+"shower","NY60A","545","N","N"," "," ","åó¥½º¹´","MS",168
+"sprinkle","NY60A","545","N","N"," "," ","spñ±¿¼îkì","MS",168
+"drizzle","NY60B!","546!","N","N"," "," ","ådò±¾zì","MS",169
+"sprinkle","NY60B!","546!","N","N"," "," ","åspr±¾îkì","MS",169
+"shower","NY60B!","546!","N","N"," "," ","åó¥½º¹´","MS",169
+"drizzle all day","NY61A","547","E","N"," "," ","ådò±zì$õ·½ºì$åde½º{±¿}","MS",170
+"sprinkle","NY61A","547","N","N"," "," ","spr‡±«îkì","MS",170
+"little shower","NY61A","547","O","N"," ","CNV","õl±tì$åóµº¹|´","MS",170
+"drizzle","NY61B","548","N","N","short duration"," ","dò±«zì","MS",171
+"shower","NY61B","548","N","N"," "," ","åóµ«º¹|´","MS",171
+"steady rain","NY62A","551a","O","N"," "," ","åst±d±İiİ$õre½{±¿}n","MS",172
+"steady drizzle","NY62A","551a","O","Y"," ","SUG","st±d±İiİ$ådò±«zl","MS",172
+"light shower","NY62A","551a","O","N"," "," ","õl°±¿½t$åó¥«º¹|´","MS",172
+"sprinkle","NY62A","551a","N","N"," "," ","åspr±¾îkì","MS",172
+"steady downpour","NY62A","551a","O","N"," "," ","st±d±İiİ$ådµ«º¹nõpo´","MS",172
+"drizzle","NY62B","551b","N","N"," "," ","dò±¾zì","MS",173
+"shower","NY62B","551b","N","N"," "," ","ó³¼º¹|´","MS",173
+"light shower","NY62B","551b","O","N"," "," ","l°±¿¼t$ó³º¹|´","MS",173
+"drizzle","NY62C","551c","N","N"," ","SIC","ådò±¾sl","MS",174
+"light shower","NY62C","551c","O","N"," "," ","ål¥«±¿t$õóµº¹|´«","MS",174
+"drizzle","NY62D!","551d!","N","N","might last all night"," ","ådò±zì","MS",175
+"little sprinkle","NY62D!","551d!","O","N"," "," ","õl±¾tì$åspr±«îkì","MS",175
+"shower","NY62D!","551d!","N","N"," "," ","åóµº¹|´","MS",175
+"good steady rain","NY63A","556a","O","N"," "," ","g¹d$õst±½d±«¾$åre½{±¿}n","MS",176
+"drizzle","NY63A","556a","N","N","all night"," ","dò±¾zì","MS",176
+"sprinkle","NY63A","556a","N","N"," "," ","spr±¾îkì","MS",176
+"drizzle","NY63B","556b","N","N"," "," ","ådò±¾zì","MS",177
+"steady rain","NY63B","556b","O","N"," "," ","åst²«d±«¾$õre½º±¿n","MS",177
+"shower","NY63B","556b","N","N"," "," ","ó¥º¹|´","MS",177
+"sprinkle","NY63B","556b","N","N"," "," ","spr±«îkì","MS",177
+"light shower","NY63B","556b","O","N"," "," ","ål¥«±¿t$õóµº¹|´","MS",177
+"steady drizzle","NY63C","556c","O","N"," "," ","õst±d±¿«¼$ådò±«zì","MS",178
+"just a drizzle","NY63D!","556d!","O","N"," "," ","dú±¿¼st$°$ådò±¾zì","MS",179
+"sprinkling of rain","NY63D!","556d!","O","N"," "," ","åspr±¿¼îkl±¿¼î$°$åre½º{±¿}n","MS",179
+"sprinkle","NY63D!","556d!","N","N"," "," ","åspr±¿¼îkì","MS",179
+"summer shower","NY63D!","556d!","O","N"," "," ","ås¸¼m´$õóµ«¾º¹|´","MS",179
+"shower","NY63D!","556d!","N","N"," "," ","åó¥º¹|´","MS",179
+"drizzle","NY63D!","556d!","N","N"," "," ","dò±¿½zì","MS",179
+"drizzle","NY64A","557a","N","N","light, long"," ","dò±¾zì","MS",180
+"sprinkle","NY64A","557a","N","N"," "," ","åspr±«îkì","MS",180
+"shower","NY64A","557a","N","N"," "," ","åó°½¹|´","MS",180
+"mist","NY64B","557b","N","N"," "," ","m±«s","MS",181
+"drizzle","NY64B","557b","N","N"," "," ","dò±«zì","MS",181
+"clearing","NY64B","557b","V","Y"," ","INA","kl±´±¿½î","MS",181
+"shower","NY64B","557b","N","N"," "," ","åó¥º¹|´","MS",181
+"light shower","NY64B","557b","O","N"," "," ","ål¥«±¿t$õó¥«¹|´","MS",181
+"sprinkle","NY64B","557b","N","N"," "," ","spr±¿îkì","MS",181
+"gentle shower","NY64B","557b","O","N"," "," ","ådú²«ndì$õó¥º¹´","MS",181
+"steady rain","NY64B","557b","O","N"," "," ","åst²«d±«¾$õreº{±¿}n","MS",181
+"trickling rain","NY64C!","557c!","O","N"," "," ","åtò±«kl±¿¼î$õre½{±¿}n","MS",182
+"drizzle","NY64C!","557c!","N","N"," "," ","ådò±«zì","MS",182
+"light shower","NY64C!","557c!","O","N"," ","SIC","ål°±¿¼t$õó°½º¹|{w}´","MS",182
+"shower","NY64C!","557c!","N","N"," "," ","óµ«º¹|´","MS",182
+"steady drizzle","NJ1A","1","O","N"," "," ","st²¾d±¿«$dò±zì","MS",183
+"steady drizzle","NJ1B","2","O","N"," "," ","st²¾d±¿«$dò±zì","MS",184
+"steady drizzle","NJ2A","3(*)","O","N"," "," ","st²¾d±¿«$dò±zì","MS",185
+"steady drizzle","NJ2B","4","O","N"," "," ","st¸¼d±¿$dò±zì","MS",186
+"steady drizzle","NJ3A","5","O","N"," "," ","st²d±¿$dò±zì","MS",187
+"steady drizzle","NJ3B","6","O","N"," "," ","st²d±¿«$dò±zì","MS",188
+"steady drizzle","NJ4A","7","O","N"," "," ","st²d±¿«$dò±zì","MS",189
+"steady drizzle","NJ4B","8","O","N"," "," ","st²d±¿«$dò±zì","MS",190
+"steady drizzle","NJ5A","9","O","N"," "," ","st²d±¿«$dò±zì","MS",191
+"steady drizzle","NJ5B","10","O","N"," "," ","st²d±¿«$dò±zì","MS",192
+"steady drizzle","NJ6A","11","O","N"," "," ","st²«¾d±¿«$dò±zì","MS",193
+"steady drizzle","NJ6B","12","O","N"," "," ","st²¾d±¿«$dò±zì","MS",194
+"steady drizzle","NJ7A","17","O","N"," "," ","st²«¾d±¿«$dò±zì","MS",195
+"steady drizzle","NJ7B!","18!","O","N"," "," ","st²d±¿«¼$dò±zì","MS",196
+"steady drizzle","NJ8A","19","O","N"," "," ","st²d±¿«$dò±zì","MS",197
+"steady drizzle","NJ8B","20","O","N"," "," ","åst²d±¿«¼$dò±zì","MS",198
+"steady drizzle","NJ9A","21","O","N"," "," ","st²¾d±¿«¼$dò±¾ºzì","MS",199
+"steady drizzle","NJ9B","22","O","N"," "," ","st²d±¿«¼$dr±zì","MS",200
+"steady drizzle","NJ10A","24b","O","N"," "," ","st²¾d±¿«¼$dò±zì","MS",201
+"steady drizzle","NJ10B","23","O","N"," "," ","st¸¼d±¿«¼$dò±zì","MS",202
+"steady drizzle","NJ10C","24","O","N"," "," ","st²d±¿«¼$dr±zì","MS",203
+"steady drizzle","NJ10D!","24c!","O","N"," "," ","st²d±¿«$dò±zì","MS",204
+"steady drizzle","NJ11A","25","O","N"," "," ","st²¾d±¿«$dò±zì","MS",205
+"steady drizzle","NJ11B","26a","O","N"," "," ","st²¾d±¿«$dò±zì","MS",206
+"steady drizzle","NJ11C","26b","O","N"," "," ","õst²d±¿«¼$ådr±ºzì","MS",207
+"steady drizzle","NJ12A","27","O","N"," "," ","õst¸¼d±¿«¼$ådò±zì","MS",208
+"steady drizzle","NJ12B","28","O","N"," "," ","st¸¼d±¿«¼$dò±ºzì","MS",209
+"steady drizzle","NJ13A","29","O","N"," "," ","st¸¼dd±¿«¼$dò±zì","MS",210
+"steady drizzle","NJ13B","30","O","N"," "," ","st²d±¿«¼$dr±zì","MS",211
+"steady drizzle","NJ14A","31","O","N"," "," ","st²d±¿«¼$dò±zì","MS",212
+"steady drizzle","NJ14B","32","O","N"," "," ","st²d±¿«¼$dò±ºzì","MS",213
+"steady drizzle","NJ15A","33","O","N"," "," ","st¸¼d±¿«$dò±zì","MS",214
+"steady drizzle","NJ15B","34","O","N"," "," ","õst¸d±¿«¼$ådò±ºzì","MS",215
+"steady drizzle","NJ16A","35","O","N"," "," ","st²d±¿«¼$dò±zì","MS",216
+"steady drizzle","NJ16B","36","O","N"," "," ","st¸¼d±¿«¼$ådò±zì","MS",217
+"steady drizzle","NJ17A","37","O","N"," "," ","st±d±¿«¼$ådò±zì","MS",218
+"steady drizzle","NJ17B","38","O","N"," "," ","st²d±¿«¼$dò±ºzì","MS",219
+"steady drizzle","NJ18A","41","O","N"," "," ","st²d±¿«¼$dò±zì","MS",220
+"steady drizzle","NJ18B","42","O","N"," "," ","st²¾d±¿«¼$ådò±zì","MS",221
+"steady drizzle","NJ18C!","43!","O","N"," "," ","st²d±¿«¼$dò±¾zì","MS",222
+"steady drizzle","NJ18D!","44!","O","N"," "," ","st²d±¿«¼$dò±zì","MS",223
+"steady drizzle","NJ19A","45","O","N"," "," ","st²d±¿«$dò±zì","MS",224
+"steady drizzle","NJ19B!","46!","O","N"," "," ","õst²d±¿«¼$ådò±zì","MS",225
+"steady drizzle","NJ20A","47","O","N"," "," ","st²d±¿«¼$dò±zì","MS",226
+"steady drizzle","NJ20B","47b","O","N"," "," ","õst²d±¿«¼$ådò±zì","MS",227
+"steady drizzle","NJ21A","48","O","N"," "," ","st²d±¿«¼$dò±zì","MS",228
+"steady drizzle","NJ21B","49","O","N"," "," ","st²¾d±¿«$dò±zì","MS",229
+"steady drizzle","PA1A","51","O","N"," "," ","st²d±¿«$dr±zì","MS",230
+"steady drizzle","PA1B","52","O","N"," "," ","st²¾d±¿«$dò±zì","MS",231
+"steady drizzle","PA1C","53","O","N"," "," ","st²«¾d±¿«$dò±zì","MS",232
+"steady drizzle","PA1D","54","O","N"," "," ","õst²d±¿«$ådò±zì","MS",233
+"steady drizzle","PA1E!","55!","O","N"," "," ","st²d±¿«$dò±zì","MS",234
+"steady drizzle","PA1F!","56!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",235
+"steady drizzle","PA1G!","57!","O","N"," "," ","st²d±¿«$dò±zì","MS",236
+"steady drizzle","PA1H!","58!","O","N"," "," ","st²d±¿«$dò±zì","MS",237
+"steady drizzle","PA2A","59","O","N"," "," ","st²d±¿«$dò±zì","MS",238
+"steady drizzle","PA2B","60","O","N"," "," ","st²d±¿«$dò±zì","MS",239
+"steady drizzle","PA3A","61","O","N"," "," ","st²«¾d±¿$dò±zì","MS",240
+"steady drizzle","PA3B","62","O","N"," "," ","õst²d±¿«$ådò±zì","MS",241
+"steady drizzle","PA3C","62b","O","N"," "," ","st²d±¿«$dò±zì","MS",242
+"steady drizzle","PA4A","63","O","N"," "," ","st¸d±¿$dò±zì","MS",243
+"steady drizzle","PA4B!","64!","O","N"," "," ","st²d±¿«$dò±zì","MS",244
+"steady drizzle","PA5A","65(*)","O","N"," "," ","st²d±¿«$dr±zì","MS",245
+"steady drizzle","PA5B","65b","O","N"," "," ","st¸¼d±¿$dò±zì","MS",246
+"steady drizzle","PA5C","66","O","N"," "," ","st²«¾d±¿«$dò±zì","MS",247
+"steady drizzle","PA5D","67","O","N"," "," ","st¸d±¿«$dò±zì","MS",248
+"steady drizzle","PA5E!","68!","O","N"," "," ","st²d±¿«¼$dò±zì","MS",249
+"steady drizzle","PA6A","69","O","N"," "," ","st”²di½¾$dò±sl","MS",250
+"steady drizzle","PA6B","71","O","N"," "," ","st±d±¿$dr±zl","MS",251
+"steady drizzle","PA6C","71b","O","N"," "," ","st²d±¿$dr±s”l","MS",252
+"steady drizzle","PA6D!","72!","O","N"," "," ","st²½¾d±¿$dò±zì","MS",253
+"steady drizzle","PA7A","73","O","N"," "," ","st²¾d±¿«¼$dò±zì","MS",254
+"steady drizzle","PA7B","74","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",255
+"steady drizzle","PA7C","75","O","N"," "," ","õst²d±¿$ådr±zl","MS",256
+"steady drizzle","PA7D!","76!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",257
+"steady drizzle","PA8A","77","O","N"," "," ","st²½¾d±¿«$dò±zì","MS",258
+"steady drizzle","PA8B","78","O","N"," "," ","st²d±¿«$ådò±ºzì","MS",259
+"steady drizzle","PA8C","79","O","N"," "," ","st²d±¿«$dr±s°l","MS",260
+"steady drizzle","PA8D!","80!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",261
+"steady drizzle","PA9A","83","O","N"," "," ","õst²d±¿$åt”r±sl","MS",262
+"steady drizzle","PA9B","83b","O","N"," "," ","st²d±¿«$dò±zì","MS",263
+"steady drizzle","PA9C!","84!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",264
+"steady drizzle","PA10","87","O","N"," "," ","õst²d±¿$ådr±s°İl","MS",265
+"steady drizzle","PA11A","89","O","N"," "," ","st²d±¿«$dr±zì","MS",266
+"steady drizzle","PA11B","90(*)","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",267
+"steady drizzle","PA12A","91","O","N"," "," ","õst²d±¿«$ådr±zì","MS",268
+"steady drizzle","PA12B","92","O","N"," "," ","st²d±¿«$dr±zì","MS",269
+"steady drizzle","PA13A","93","O","N"," "," ","st²d±¿«$dr±zì","MS",270
+"steady drizzle","PA13B","94","O","N"," "," ","õst²d±¿«$ådr±zì","MS",271
+"steady drizzle","PA14A","95(*)","O","N"," "," ","st²d±¿«$dr±s”°İl","MS",272
+"steady drizzle","PA14B","96","O","N"," "," ","st²d±¿«$dr±zl","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"steady drizzle","PA15A","99","O","N"," "," ","st²d±¿«$dò±zì","MS",275
+"steady drizzle","PA15B","99b","O","N"," "," ","st²½d±¿«¼$dò±zì","MS",276
+"steady drizzle","PA15C!","100!","O","N"," "," ","st²d±¿$dò±zì","MS",277
+"steady drizzle","PA16A","101","O","N"," "," ","st²d±¿«¼$t‘”ñİ±s°İl","MS",278
+"steady drizzle","PA16B","102","O","N"," "," ","st²d±¿«$dr±zì","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"steady drizzle","PA17A","105","O","N"," "," ","st²d±¿«$dr±s”l","MS",281
+"steady drizzle","PA17B","106","O","N"," "," ","st²d±¿«$dr±zl","MS",282
+"steady drizzle","PA18A","107","O","N"," "," ","st²d±¿«$dr±zì","MS",283
+"steady drizzle","PA18B!","108!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",284
+"steady drizzle","PA19A","113","O","N"," "," ","õst²d±¿«$ådò±zì","MS",285
+"steady drizzle","PA19B","114","O","N"," "," ","õst¸d±¿$ådò±zì","MS",286
+"steady drizzle","PA20A","115","O","N"," "," ","st±d±¿$dò±¿zì","MS",287
+"steady drizzle","PA20B","116","O","N"," "," ","õst²d±¿«$ådò±zì","MS",288
+"steady drizzle","PA21A","117","O","N"," "," ","st±d±¿$dò±zì","MS",289
+"steady drizzle","PA21B","118","O","N"," "," ","st±½d±¿$dò±zì","MS",290
+"steady drizzle","PA22A","119","O","N"," "," ","st±d±¿$dò±zì","MS",291
+"steady drizzle","PA22B","120","O","N"," "," ","st²d±¿«$dò±zì","MS",292
+"steady drizzle","PA23A","121","O","N"," "," ","õst±d±¿$ådò±zì","MS",293
+"steady drizzle","PA23B","122","O","N"," "," ","st²d±¿$dò±zì","MS",294
+"steady drizzle","PA24A","123","O","N"," "," ","õst²d±¿$ådò±zì","MS",295
+"steady drizzle","PA24B","124","O","N"," "," ","õst²d±¿$ådò±zì","MS",296
+"steady drizzle","PA25A","125","O","N"," "," ","st²d±¿$dò±zì","MS",297
+"steady drizzle","PA25B","126","O","N"," "," ","st²«¾d±¿«$dr±zì","MS",298
+"steady drizzle","PA26A","127","O","N"," "," ","st±d±¿$dò±zì","MS",299
+"steady drizzle","PA26B","128","O","N"," "," ","st²d±¿«$dò±zì","MS",300
+"steady drizzle","PA27A","131","O","Y"," ","AUX","st±½d±¿$dò±zì","MS",301
+"steady drizzle","PA27B","132","O","N"," "," ","õst²d±¿$ådò±zì","MS",302
+"steady drizzle","PA28A","135","O","N"," "," ","st²d±¿«$dr±zì","MS",303
+"steady drizzle","PA28B!","136!","O","N"," "," ","st²¾d±¿«$dr±zì","MS",304
+"steady drizzle","PA29A","139(*)","O","N"," "," ","st²d±¿«$dr±zì","MS",305
+"steady drizzle","PA29B","140","O","N"," "," ","st²¾d±¿«$dr±zì","MS",306
+"steady drizzle","PA30A","143","O","N"," "," ","st±d±¿$dò±zì","MS",307
+"steady drizzle","PA30B","144","O","N"," "," ","st±d±¿$dò±zì","MS",308
+"steady drizzle","PA31A","145","O","N"," "," ","st²d±¿«$dò±zì","MS",309
+"steady drizzle","PA31B","146","O","N"," "," ","st²d±¿«$dò±zì","MS",310
+"steady drizzle","PA32A","147","O","N"," "," ","st²d±¿«$dr±zì","MS",311
+"steady drizzle","PA32B","148","O","N"," "," ","st¸«d±¿«$dr±zì","MS",312
+"steady drizzle","PA33A","151","O","N"," "," ","st¸¼d±¿$dr±zì","MS",313
+"steady drizzle","PA33B","152","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",314
+"steady drizzle","PA34A","155","O","N"," "," ","st²d±¿«$ådr±zì","MS",315
+"steady drizzle","PA34B","156","O","N"," "," ","st²d±¿«$dò±zì","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"steady drizzle","PA35A","157","O","N"," "," ","st²d±¿«$dr±zì","MS",318
+"steady drizzle","PA35B","158(*)","O","N"," "," ","õst²d±¿«$ådr±zì","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"steady drizzle","PA36A","159","O","N"," "," ","st¸d±¿$dr±zì","MS",321
+"steady drizzle","PA36B","160","O","N"," "," ","st²d±¿«$dr±zì","MS",322
+"steady drizzle","PA37A","161(*)","O","N"," "," ","õst²d±¿«$ådr±sl","MS",323
+"steady drizzle","PA37B","162","O","N"," "," ","st²d±¿«$dr±zl","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"steady drizzle","PA38A","163","O","N"," "," ","st²d±¿«$dò±zì","MS",326
+"steady drizzle","PA38B","164","O","N"," "," ","st²d±¿«$dr±zì","MS",327
+"steady drizzle","PA39A","165","O","N"," "," ","st²d±¿«$dò±zì","MS",328
+"steady drizzle","PA39B","166","O","N"," "," ","st²¾d±¿«¼$dr±zì","MS",329
+"steady drizzle","PA40A","167","O","N"," "," ","õst²d±¿«$ådr±zì","MS",330
+"steady drizzle","PA40B","168","O","N"," "," ","st²d±¿«$dr±zì","MS",331
+"steady drizzle","PA41A","171","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",332
+"steady drizzle","PA41B","172","O","N"," "," ","st²d±¿«$dr±zì","MS",333
+"steady drizzle","PA42A","175","O","N"," "," ","st²d±¿«$dr±zì","MS",334
+"steady drizzle","PA42B","176","O","N"," "," ","st²¾d±¿«$dò±zì","MS",335
+"steady drizzle","PA43A","177","O","N"," "," ","õst²d±¿$ådò±zì","MS",336
+"steady drizzle","PA43B","178","O","N"," "," ","st²d±¿«$dò±zì","MS",337
+"steady drizzle","PA44A","179","O","N"," "," ","õst²d±¿«$ådr±zì","MS",338
+"steady drizzle","PA44B","180","O","N"," "," ","st²d±¿«$dò±zì","MS",339
+"steady drizzle","PA45A","181","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",340
+"steady drizzle","PA45B","182","O","N"," "," ","st²d±¿«$dr±z°İì","MS",341
+"steady drizzle","PA46A","185","O","N"," "," ","st²¾d±¿«$dr±zì","MS",342
+"steady drizzle","PA46B","186","O","N"," "," ","st²d±¿«$dr±zì","MS",343
+"steady drizzle","PA47A","189","O","N"," "," ","st²d±¿«$dr±zì","MS",344
+"steady drizzle","PA47B","190","O","N"," "," ","st²d±¿«$dr±zì","MS",345
+"steady drizzle","PA48A","191","O","N"," "," ","st¸¼d±¿$dr±zì","MS",346
+"steady drizzle","PA48B","192","O","N"," "," ","st²¾d±¿$dr±zì","MS",347
+"steady drizzle","PA48C","193","O","N"," "," ","õst²d±¿«$ådr±zì","MS",348
+"steady drizzle","PA49A","194","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",349
+"steady drizzle","PA49B","195","O","N"," "," ","õst¸¼d±¿«$ådr±zì","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"steady drizzle","PA50B","197","O","N"," "," ","st²d±¿$dr±zì","MS",352
+"steady drizzle","PA50C!","198!","O","N"," "," ","st²d±¿«$dr±zì","MS",353
+"steady drizzle","PA51A","199","O","N"," "," ","õst²d±¿«$ådr±zì","MS",354
+"steady drizzle","PA51B","200","O","N"," "," ","õst²d±¿«$ådr±zì","MS",355
+"steady drizzle","PA52A","201","O","N"," "," ","õst²d±¿«$ådr±zì","MS",356
+"steady drizzle","PA52B!","202!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",357
+"steady drizzle","PA53A","203","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",358
+"steady drizzle","PA53B","204","O","N"," "," ","st²d±¿«¼$dr±zì","MS",359
+"steady drizzle","PA54A","205","O","N"," "," ","st¸½d±¿$dr±zì","MS",360
+"steady drizzle","PA54B","206","O","N"," "," ","õst²«d±¿$ådr±zì","MS",361
+"steady drizzle","PA55A","207","O","N"," "," ","st²¾d±¿«$dr±zì","MS",362
+"steady drizzle","PA55B","208","O","N"," "," ","st²d±¿«$dr±zì","MS",363
+"steady drizzle","PA56A","211(*)","O","N"," "," ","õst²d±¿«$ådr±zì","MS",364
+"steady drizzle","PA56B","212","O","N"," "," ","st²d±¿«$dr±zì","MS",365
+"steady drizzle","PA57A","213","O","N"," "," ","õst²d±¿«$ådr±zì","MS",366
+"steady drizzle","PA57B","214","O","N"," "," ","st²d±¿«$dr±zì","MS",367
+"steady drizzle","PA58A","215","O","N"," "," ","õst²d±¿«$ådr±zì","MS",368
+"steady drizzle","PA58B","216","O","N"," "," ","õst²d±¿«$ådr±zì","MS",369
+"steady drizzle","PA59A","219","O","N"," "," ","st¸½d±¿«$dr±zì","MS",370
+"steady drizzle","PA59B","220","O","N"," "," ","st²¾d±¿«$dr±zì","MS",371
+"steady drizzle","PA60A","221","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",372
+"steady drizzle","PA60B","222","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",373
+"steady drizzle","PA61A","223","O","N"," "," ","st²d±¿«$dr±zì","MS",374
+"steady drizzle","PA61B","224","O","N"," "," ","st²d±¿«$dr±zì","MS",375
+"steady drizzle","PA62A","229","O","N"," "," ","õst¸¼d±¿«$ådr±zì","MS",376
+"steady drizzle","PA62B","230","O","N"," "," ","st²¾d±¿«$dr±zì","MS",377
+"steady drizzle","PA63A","231","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",378
+"steady drizzle","PA63B","232","O","N"," "," ","õst²d±¿«$ådr±zì","MS",379
+"steady drizzle","PA64A","233","O","N"," "," ","õst²d±¿«$ådò±zì","MS",380
+"steady drizzle","PA64B","234","O","N"," "," ","õst²d±¿«$ådò±zì","MS",381
+"steady drizzle","PA65A","237","O","N"," "," ","õst²«¾d±¿«$ådò±zì","MS",382
+"steady drizzle","PA65B","238","O","N"," "," ","õst²d±¿«$ådò±zì","MS",383
+"steady drizzle","PA66A","239","O","N"," "," ","õst²d±¿«$ådr±zì","MS",384
+"steady drizzle","PA66B","240","O","N"," "," ","st²«d±¿«$dò±zì","MS",385
+"steady drizzle","PA67A","243","O","N"," "," ","õst²d±¿«$ådò±zì","MS",386
+"steady drizzle","PA67B","244","O","N"," "," ","st²d±¿«$dò±zì","MS",387
+"steady drizzle","WV1!","88!","O","N"," "," ","st²d±¿$dò±zì","MS",388
+"steady drizzle","WV2","89","O","N"," "," ","st²d±¿$dò±zì","MS",389
+"steady drizzle","WV3","91","O","N"," "," ","st²d±¿«$dò±zì","MS",390
+"steady drizzle","WV4A","92","O","N"," "," ","st²d±¿«$dò±ºzì","MS",391
+"steady drizzle","WV4B","93","O","N"," "," ","st¸«d±¿$dr±{°}zì","MS",392
+"drizzling","WV4B","93","V","N"," "," ","dr±zì–°«n","MS",392
+"spitting","WV4B","93","V","Y","snow","INA","sp±çn","MS",392
+"steady drizzle","WV5","94","O","N"," "," ","st²d±¿$dò±ºzì","MS",393
+"steady drizzle","WV6A","95","O","N"," "," ","st²d±¿$dò±zì","MS",394
+"steady drizzle","WV6B","96","O","N"," "," ","st²d±¿«$dò±zì","MS",395
+"steady drizzle","WV7A","97","O","N"," "," ","st²¾d±¿«$dò±zì","MS",396
+"steady drizzle","WV7B","98","O","N"," "," ","st²d±¿$dò±zì","MS",397
+"steady drizzle","WV8A","97b","O","N"," "," ","st²¾d±¿$ådr±zì","MS",398
+"steady drizzle","WV8B","98b","O","N"," "," ","st²d±¿«$dr±zì","MS",399
+"steady drizzle","WV9A","301","O","N"," "," ","st²¾d±¿«$dr±zì","MS",400
+"steady drizzle","WV9B","302","O","N"," "," ","st¸d±¿«$dr±zì","MS",401
+"steady drizzle","WV10A","303","O","N"," "," ","st²¾d±¿«$dr±ºz°ì","MS",402
+"steady drizzle","WV10B","303b","O","N"," "," ","st²¾d±¿«$dr±ºzì","MS",403
+"steady drizzle","WV10C","304","O","N"," "," ","õst²d±¿«$ådr±ºzì","MS",404
+"steady drizzle","WV11A","305","O","N"," "," ","õst¸¼ºd±¿«$ådr±zì","MS",405
+"steady drizzle","WV11B!","306!","O","N"," "," ","st²d±¿«$dr±ºzì","MS",406
+"steady drizzle","WV12A","307","O","N"," "," ","st²d±¿«$dr±zì","MS",407
+"steady drizzle","WV12B","308","O","N"," "," ","st²d±¿«$dr±zì","MS",408
+"steady drizzle","WV13A","309","O","N"," "," ","st²«¾d±¿«$dr±ºzì","MS",409
+"steady drizzle","WV13B","310","O","N"," "," ","st²d±¿«$dr±zì","MS",410
+"steady drizzle","WV14A","311","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",411
+"steady drizzle","WV14B","312","O","N"," "," ","st²d±¿«$dr±zì","MS",412
+"steady drizzle","WV15A","313","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",413
+"steady drizzle","WV15B","314","O","N"," "," ","õst²¾d±¿«$ådr±ºzì","MS",414
+"steady drizzle","WV16A","315","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",415
+"steady drizzle","WV16B","316","O","N"," "," ","st²d±¿«$dr±zì","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"steady drizzle","WV17B","317b","O","N"," "," ","st²d±¿«$dr±zì","MS",418
+"steady drizzle","WV17C","318","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",419
+"steady drizzle","WV18A","319","O","N"," "," ","õst¸¼d±¿«$ådr±ºzì","MS",420
+"steady drizzle","WV18B","320","O","N"," "," ","õst²¾d±¿«$ådr±ºzì","MS",421
+"steady drizzle","WV19A","321","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",422
+"steady drizzle","WV19B","322","O","N"," "," ","st¸«¼d±¿«$dr±zì","MS",423
+"steady drizzle","WV20A","323","O","N"," "," ","st±d±¿«$dr±zì","MS",424
+"steady drizzle","WV20B","324","O","N"," "," ","st²d±¿«$dr±zì","MS",425
+"steady drizzle","WV21A","325","O","N"," "," ","st²«¾d±¿«$dr±zì","MS",426
+"steady drizzle","WV21B","326","O","N"," "," ","st²d±¿«$dr±zì","MS",427
+"steady drizzle","WV22A","327","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",428
+"steady drizzle","WV22B","328","O","N"," "," ","st¸¼d±¿«$dr±ºzì","MS",429
+"steady drizzle","WV23A","331","O","N"," "," ","st²¾d±¿«$dr±ºzì","MS",430
+"steady drizzle","WV23B","332","O","N"," "," ","st²¾d±¿«$dr±zì","MS",431
+"steady drizzle","WV24A","335","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",432
+"steady drizzle","WV24B","336","O","N"," "," ","st²d±¿«$dr±ºzì","MS",433
+"steady drizzle","WV25A","337","O","N"," "," ","st¸¼d±¿«$dr±ºzì","MS",434
+"steady drizzle","WV25B","338","O","N"," "," ","st²d±¿«$dr±zì","MS",435
+"steady drizzle","WV26A","339","O","N"," "," ","st²¾d±¿«$dr±zì","MS",436
+"steady drizzle","WV26B","340","O","N"," "," ","st²¾d±¿«$dr±zì","MS",437
+"steady drizzle","WV27A","341","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",438
+"steady drizzle","WV27B","342","O","N"," "," ","st²d±¿«$dr±ºzì","MS",439
+"steady drizzle","WV28A","343","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",440
+"steady drizzle","WV28B","344","O","N"," "," ","õst¸¼d±¿«$ådr±zì","MS",441
+"steady drizzle","WV29A","345","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",442
+"steady drizzle","WV29B","346","O","N"," "," ","st²d±¿«$dr±ºzì","MS",443
+"steady drizzle","WV30A","347","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",444
+"steady drizzle","WV30B","348","O","N"," "," ","õst²¾d±¿«$ådr±ºzì","MS",445
+"steady drizzle","WV31A","349","O","N"," "," ","õst¸d±¿«$ådr±ºzì","MS",446
+"steady drizzle","WV31B","350","O","N"," "," ","õst²d±¿«$ådr±ºzì","MS",447
+"steady drizzle","WV32A","353","O","N"," "," ","st¸¼d±¿«$dr±ºzì","MS",448
+"steady drizzle","WV32B","354","O","N"," "," ","õst¸¼d±¿«$ådr±ºzì","MS",449
+"steady drizzle","WV33A","355","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",450
+"steady drizzle","WV33B","356","O","N"," "," ","õst²d±¿«$ådr±ºzì","MS",451
+"steady drizzle","WV34A","359","O","N"," "," ","õst¸¼d±¿«$ådr±ºzì","MS",452
+"steady drizzle","WV34B","360","O","N"," "," ","st²d±¿«$dr±ºzì","MS",453
+"NR","WV35A","361"," ","N"," "," "," ","MS",454
+"steady drizzle","WV35B","362","O","N"," "," ","st²d±¿«$dr±zì","MS",455
+"steady drizzle","WV36A","363","O","N"," "," ","õst²d±¿«$ådr±zì","MS",456
+"steady drizzle","WV36B","364","O","N"," "," ","st²¾d±¿«$dr±zì","MS",457
+"steady drizzle","WV37A","365","O","N"," "," ","st²¾d±¿«$dr±zì","MS",458
+"steady drizzle","WV37B!","366!","O","N"," "," ","st²d±¿«$dr±ºzì","MS",459
+"steady drizzle","WV38A","367","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",460
+"steady drizzle","WV38B","368","O","N"," "," ","õst¸¼d±¿«$ådr±ºzì","MS",461
+"steady drizzle","WV39A","369","O","N"," "," ","st²«¾d±¿«$dr±zì","MS",462
+"steady drizzle","WV39B","370","O","N"," "," ","õst²¾d±¿«$ådr±ºzì","MS",463
+"steady drizzle","WV39C!","371!","O","N"," "," ","st²d±¿«$dr±zì","MS",464
+"steady drizzle","WV40A","373","O","N"," "," ","st²d±¿«$dr±ºzì","MS",465
+"steady drizzle","WV40B","374","O","N"," "," ","õst¸¼d±¿«$ådr±zì","MS",466
+"steady drizzle","WV41A","375","O","N"," "," ","st²¾d±¿«$dr±ºzì","MS",467
+"steady drizzle","WV41B","376","O","N"," "," ","õst²d±¿«$ådr±zì","MS",468
+"steady drizzle","WV42A","377","O","N"," "," ","st¸¼d±¿«$dr±ºzì","MS",469
+"steady drizzle","WV42B","378","O","N"," "," ","st²¾d±¿«$dr±ºzì","MS",470
+"steady drizzle","WV43A","381","O","N"," "," ","st²d±¿«$dr±ºzì","MS",471
+"steady drizzle","WV43B","382","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",472
+"steady drizzle","WV44A","383","O","N"," "," ","st²d±¿«$dr±zì","MS",473
+"steady drizzle","WV44B","384","O","N"," "," ","st²¾d±¿«$dr±zì","MS",474
+"steady drizzle","WV45A","385","O","N"," "," ","st²d±¿«$dr±zì","MS",475
+"steady drizzle","WV45B","386","O","N"," "," ","st²¾d±¿«$dr±zì","MS",476
+"steady drizzle","WV46A","387","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",477
+"steady drizzle","WV46B","388","O","N"," "," ","st²d±¿«$dr±ºzì","MS",478
+"steady drizzle","WV47A","389","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",479
+"steady drizzle","WV47B","390","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",480
+"steady drizzle","WV48A","391","O","N"," "," ","st²¾d±¿«$dr±ºzì","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"steady drizzle","WV48D","392b","O","N"," "," ","st²¾d±¿$dr±zì","MS",484
+"steady drizzle","WV49A","393","O","N"," "," ","st²d±¿«$dr±zì","MS",485
+"steady drizzle","WV49B","394","O","N"," "," ","õst²¾d±¿«$ådr±ºzì","MS",486
+"steady drizzle","WV50A","395","O","N"," "," ","õst¸¼d±¿$ådr±z°ì","MS",487
+"steady drizzle","WV50B","396","O","N"," "," ","st¸¼d±¿«$ådr±zì","MS",488
+"steady drizzle","WV51A","261","O","N"," "," ","st²d±¿«$dr±zì","MS",489
+"steady drizzle","WV51B","262","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",490
+"steady drizzle","WV52A","258","O","N"," "," ","õst¸¼d±¿«$ådr±zì","MS",491
+"steady drizzle","WV52B","259","O","N"," "," ","õst²¾d±¿«$ådr±zì","MS",492
+"steady drizzle","WV52C!","260!","O","N"," "," ","õst²d±¿«$ådr±zì","MS",493
+"steady drizzle","WV53A","257","O","N"," "," ","õst¸¼d±¿«$ådr±zì","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"steady drizzle","WV53C!","257c!","O","N"," "," ","st¸¼d±¿«$dr±ºzì","MS",496
+"steady drizzle","WV54A","255","O","N"," "," ","st²d±¿«$dr±zì","MS",497
+"steady drizzle","WV54B","256","O","N"," "," ","st¸¼d±¿«$dr±zì","MS",498
+"steady drizzle","DE1A","11","O","N"," "," ","st²d±¿İ{±¿«}$dò±zì","MS",499
+"steady drizzle","DE1B","12","O","N"," "," ","st²¾d±¿«$dò±zì","MS",500
+"steady drizzle","DE1C!","13!","O","N"," "," ","st²¾d±¿«$dò±zì","MS",501
+"steady drizzle","DE2A","15(*)","O","N"," "," ","st²d±¿«$dr±½{°}zì","MS",502
+"drizzling","DE2A","15(*)","V","N"," "," ","dr±zl±¿î","MS",502
+"spitting","DE2A","15(*)","V","Y","snow","INA","sp±t±¿î","MS",502
+"steady drizzle","DE2B","16","O","N"," "," ","st²¾d±¿İ{±¿«}$dò±zì","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"steady drizzle","DE3A","18","O","N"," "," ","st¸¼d±¿$dò±zì","MS",505
+"steady drizzle","DE3B","19","O","N"," "," ","st²¾d±¿«$dò±zì","MS",506
+"steady drizzle","DE3C!","17!","O","N"," "," ","st²d±¿$dò±zì","MS",507
+"steady drizzle","DE4","20","O","N"," "," ","st²¾d±¿$dò±zì","MS",508
+"steady drizzle","DE5A","21","O","N"," "," ","st±d±¿$dr±{°}zì","MS",509
+"drizzling","DE5A","21","V","N"," "," ","dr±zì–±¿½n","MS",509
+"steady drizzle","DE5B","22","O","N"," "," ","st²d±¿$dò±zì","MS",510
+"steady drizzle","DE6A","23","O","N"," "," ","st¸¼d±¿$dò±zì","MS",511
+"steady drizzle","DE6B","24","O","N"," "," ","st²d±¿$dò±zì","MS",512
+"steady drizzle","MD1A","27","O","N"," "," ","st²d±¿«$dò±zì","MS",513
+"steady drizzle","MD1B","28","O","N"," "," ","st²d±¿$dò±zì","MS",514
+"steady drizzle","MD2A","31a","O","N"," "," ","st²¾d±¿$dr±zì","MS",515
+"steady grizzle","MD2B","32","O","N"," ","SIC","st²d±¿$gr±zì","MS",516
+"steady drizzle","MD3A","33","O","N"," "," ","st±d±¿$dò±zì","MS",517
+"steady drizzle","MD3B","34","O","N"," "," ","st²d±¿$dò±zì","MS",518
+"steady drizzle","MD4A","35b","O","N"," "," ","st¸«d±¿$dò±zì","MS",519
+"steady drizzle","MD4B","35","O","N"," "," ","st²d±¿$dò±zì","MS",520
+"steady drizzle","MD4C","36","O","N"," "," ","st¸«d±¿$dr±{°}zì","MS",521
+"drizzling","MD4C","36","V","N"," "," ","dr±zì±¿î","MS",521
+"steady drizzle","MD5A","37","O","N"," "," ","st¸d±¿«$dò±zì","MS",522
+"steady drizzle","MD5B","38","O","N"," "," ","st²d±¿$dò±zì","MS",523
+"steady drizzle","MD6A","39(*)","O","N"," "," ","st²¾d±¿$dò±zì","MS",524
+"steady drizzle","MD6B","40","O","N"," "," ","st²d±¿$dò±zì","MS",525
+"steady drizzle","MD7A","41","O","N"," "," ","st±d±¿$dò±zì","MS",526
+"steady drizzle","MD7B","41b","O","N"," "," ","st²¾d±¿$dò±zì","MS",527
+"steady drizzle","MD7C!","42!","O","N"," "," ","st²d±¿$dò±zì","MS",528
+"steady drizzle","MD8A","43","O","N"," "," ","st²d±¿$dò±{°}zì","MS",529
+"steady drizzle","MD8B","44","O","N"," "," ","st²d±¿$dò±zì","MS",530
+"steady drizzle","MD9N","N46","O","N"," "," ","st¸d±¿$dr±{°}zì","MS",531
+"drizzling","MD9N","N46","V","N"," "," ","dr±zl–±¿½n","MS",531
+"splitting snow","MD9N","N46","O","Y"," ","INA","spl±tn$snoº","MS",531
+"steady drizzle","MD9A","45","O","N"," "," ","st²d±¿$dò±zì","MS",532
+"steady drizzle","MD9B","46","O","N"," "," ","st²¾d±¿$dò±zì","MS",533
+"steady drizzle","MD10A","49","O","N"," "," ","st±d±¿$dò±zì","MS",534
+"steady drizzle","MD10B","50","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",535
+"steady drizzle","MD11","51","O","N"," "," ","st²d±¿$dr±zì","MS",536
+"steady drizzle","MD12A","52","O","N"," "," ","st²d±¿«$dò±zì","MS",537
+"steady drizzle","MD12B","53","O","N"," "," ","st²d±¿$dò±zì","MS",538
+"steady drizzle","MD13A","54(*)","O","N"," "," ","st²d±¿$dò±{°}zì","MS",539
+"steady drizzle","MD13B","55","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",540
+"steady drizzle","MD13C","56","O","N"," "," ","st²d±¿«$dò±zì","MS",541
+"steady drizzle","MD13D!","57!","O","N"," "," ","st²d±¿$dò±zì","MS",542
+"steady drizzle","MD13E!","58!","O","N"," "," ","st²¾d±¿$dr±zì","MS",543
+"drizzling","MD13E!","58!","V","N"," "," ","dr±zl±¿î","MS",543
+"spitting","MD13E!","58!","V","Y","snow","INA","sp±t±¿î","MS",543
+"steady drizzle","MD13F!","59!","O","N"," "," ","st²d±¿$dò±½zì","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"steady drizzle","MD14","61(*)","O","N"," "," ","st²«d±¿$dò±zì","MS",546
+"steady drizzle","MD15A","62","O","N"," "," ","st¸d±¿$dò±zì","MS",547
+"steady drizzle","MD15B","63","O","N"," "," ","st²¾d±¿$dò±zì","MS",548
+"steady drizzle","MD16","64","O","N"," "," ","st²d±¿«$dò±{°}zì","MS",549
+"steady drizzle","MD17A","65","O","N"," "," ","st²d±¿$dò±zì","MS",550
+"steady drizzle","MD17B","66","O","N"," "," ","st¸«d±¿İ½$dò±zì","MS",551
+"steady drizzle","MD18A","67","O","N"," "," ","st¸«¼d±¿«$dò±zì","MS",552
+"steady drizzle","MD18B","68","O","N"," "," ","st²d±¿$dò±zì","MS",553
+"steady drizzle","MD19A","69","O","N"," "," ","st±d±¿$dò±zì","MS",554
+"steady drizzle","MD19B","70","O","N"," "," ","st¸«d±¿$dò±zì","MS",555
+"steady drizzle","MD20A","71","O","N"," "," ","st¸«{°}d±¿$dr±{°}zì","MS",556
+"drizzling","MD20A","71","V","N"," "," ","dr±{°}zl±¿½n","MS",556
+"steady drizzle","MD20B","72","O","N"," "," ","st²d±¿$dò±zì","MS",557
+"steady drizzle","MD20C!","73!","O","N"," "," ","st²d±¿$dò±zì","MS",558
+"steady drizzle","MD21A","75","O","N"," "," ","st±d±¿$dò±zì","MS",559
+"steady drizzle","MD21B","76","O","N"," "," ","st²d±¿$dò±zì","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"steady drizzle","MD22M","N78","O","N"," "," ","õst¸«d±¿$ådò±zl","MS",562
+"steady drizzle","MD22A","77","O","N"," "," ","st¸«¼d±¿½$dr±zì","MS",563
+"drizzling","MD22A","77","V","N"," "," ","ådr±¿zl±¿½n","MS",563
+"spitting","MD22A","77","V","Y","snow","INA","sp±t±¿½n","MS",563
+"steady drizzle","MD22B","78","O","N"," "," ","st²«¾d±¿$dò±zì","MS",564
+"steady drizzle","MD22C!","79!","O","N"," "," ","st²d±¿$dò±zì","MS",565
+"steady drizzle","MD23A","80b","O","N"," "," ","st²d±¿$dò±zì","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"steady drizzle","MD23C","81","O","N"," "," ","st²d±¿$dò±zì","MS",568
+"steady drizzle","MD24","82","O","N"," "," ","st¸«d±¿$dò±zì","MS",569
+"steady drizzle","MD25","84","O","N"," "," ","st²d±¿$dò±zì","MS",570
+"steady drizzle","MD26A","83","O","N"," "," ","st²d±¿$dò±zì","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"steady drizzle","MD27A","85","O","N"," "," ","st²¾d±¿«$dò±zì","MS",573
+"steady drizzle","MD27B","86","O","N"," "," ","st²d±¿«$dò±zì","MS",574
+"steady drizzle","DC1A","99","O","N"," "," ","st²{°}d±¿$dr±{°}zì","MS",575
+"drizzling","DC1A","99","V","N"," "," ","dr±zì–°«n","MS",575
+"spitting","DC1A","99","V","Y","snow","INA","sp±çn","MS",575
+"steady drizzle","DC1B!","100!","O","N"," "," ","st²d±¿$dò±zì","MS",576
+"steady drizzle","VA1!","101!","O","N"," "," ","st²«d±¿$dò±zì","MS",577
+"steady drizzle","VA2A","103","O","N"," "," ","st²d±¿$dr±{°}zì","MS",578
+"steady drizzle","VA2B","104","O","N"," "," ","st¸«d±¿$dr±{°}zì","MS",579
+"steady drizzle","VA3A","105(*)","O","N"," "," ","st¸«d±¿$dr±zì","MS",580
+"steady drizzle","VA3B","106","O","N"," "," ","st²{d}±¿«$dr±{°}zì","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"steady drizzle","VA4N","N109","O","N"," "," ","õst¸«d±¿$ådr±zl","MS",583
+"steady drizzle","VA5A","107","O","N"," "," ","st²d±¿$dr±zì","MS",584
+"steady drizzle","VA5B","108","O","N"," "," ","st²d±¿$dr±zì","MS",585
+"steady drizzle","VA6A","113","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",586
+"steady drizzle","VA6B","114","O","N"," "," ","st²«¾d±¿$dr±zì","MS",587
+"steady drizzle","VA7A","121","O","N"," "," ","st²d±¿½$dr±zì","MS",588
+"steady drizzle","VA7B","122","O","N"," "," ","st²{d}{±¿½}$dr±{°}zì","MS",589
+"steady drizzle","VA8A","123","O","N"," "," ","st²¾d±¿$dr±{°}zì","MS",590
+"drizzling","VA8A","123","V","N"," "," ","dr±¾zì±¿½n","MS",590
+"steady drizzle","VA8B","124","O","N"," "," ","st²d±¿$dr±{°}zì","MS",591
+"steady drizzle","VA8C!","125!","O","N"," "," ","st²{°}d±¿$dr±{°}zì","MS",592
+"steady drizzle","VA9A","117","O","N"," "," ","st²d±¿$dr±{°}zì","MS",593
+"steady drizzle","VA9B!","118!","O","N"," "," ","st²d±¿$dr±zì","MS",594
+"steady drizzle","VA10A","127","O","N"," "," ","st±d±¿$dr±{°}zì","MS",595
+"steady drizzle","VA10B","128","O","N"," "," ","st²d±¿$dr±zì","MS",596
+"steady drizzle","VA11A","129","O","N"," "," ","st¸d±¿$dr±{°}zì","MS",597
+"steady drizzle","VA11B","130","O","N"," "," ","st¸{°}d±¿$dr±zì","MS",598
+"steady drizzle","VA12N","N131","O","N"," "," ","st¸d±¿$dr±z°l","MS",599
+"steady drizzle","VA12A","131","O","N"," "," ","st²d±¿$dr±zì","MS",600
+"steady drizzle","VA12B!","132!","O","N"," "," ","st²d±¿$dr±zì","MS",601
+"steady drizzle","VA13A","133","O","N"," "," ","st²¾d±¿$dr±zì","MS",602
+"steady drizzle","VA13B","134","O","N"," "," ","st²d±¿$dr±{°}zì","MS",603
+"steady drizzle","VA14A","135","O","N"," "," ","st¸«ºd±¿$dr±ºzì","MS",604
+"drizzling","VA14A","135","V","N"," "," ","dr±ºzl±¿½n","MS",604
+"steady drizzle","VA14B","136","O","N"," "," ","st¸«d±¿$dr±zì","MS",605
+"steady drizzle","VA14C","137","O","N"," "," ","st²d±¿$dr±¾{°}zì","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"steady drizzle","VA15A","139","O","N"," "," ","st²d±¿$dr±{°}zì","MS",608
+"steady drizzle","VA15B","140","O","N"," "," ","st²«d±¿$dr±{°}zì","MS",609
+"steady drizzle","VA16A","141","O","N"," "," ","st²d±¿$dr±{°}zì","MS",610
+"steady drizzle","VA16B","142","O","N"," "," ","st²d±¿$dr±{°}zì","MS",611
+"steady drizzle","VA17A","143","O","N"," "," ","st¸«d±¿$dr±zì","MS",612
+"steady drizzle","VA17B","144","O","N"," "," ","st²«d±¿$dr±{°}zì","MS",613
+"steady drizzle","VA18","145","O","N"," "," ","st²d±¿$dr±{°}zì","MS",614
+"steady drizzle","VA19A","146","O","N"," "," ","st²d±¿$dò±zì","MS",615
+"steady drizzle","VA19B","147","O","N"," "," ","st¸d±¿$dr±{°}zì","MS",616
+"steady drizzle","VA19C!","148!","O","N"," "," ","st²d±¿$dr±{°}zì","MS",617
+"steady drizzle","VA20A","149","O","N"," "," ","st¸«d±¿$dò±zì","MS",618
+"steady drizzle","VA20B","150(*)","O","N"," "," ","st²d±¿$dr±zì","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"steady drizzle","VA21N","N153","O","N"," "," ","st¸d±¿«$dò±z°İl","MS",621
+"steady drizzle","VA21A","153","O","N"," "," ","st²d±¿$dr±{°}zì","MS",622
+"steady drizzle","VA21B","154","O","N"," "," ","st²d±¿$dr±zì","MS",623
+"steady drizzle","VA22","155","O","N"," "," ","st¸d±¿$dr±{°}zì","MS",624
+"steady drizzle","VA23A","156","O","N"," "," ","st¸«d±¿$dr±{°}zì","MS",625
+"steady drizzle","VA23B","157","O","N"," "," ","st¸d±¿$dr±{°}zì","MS",626
+"drizzling","VA23B","157","V","N"," "," ","dr±zl±¿½n","MS",626
+"steady drizzle","VA24","159","O","N"," "," ","st²d±¿$dr±zì","MS",627
+"steady drizzle","VA25","160(*)","O","N"," "," ","st¸d±¿$dr±zì","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"steady drizzle","VA26B","161","O","N"," "," ","st¸d±¿$dr±zì","MS",630
+"steady drizzle","VA26C","162","O","N"," "," ","st²d±¿$dr±zì","MS",631
+"steady drizzle","VA27","163(*)","O","N"," "," ","st¸½d±¿$dr±zì","MS",632
+"steady drizzle","VA28A","164","O","N"," "," ","st¸«d±¿$dò±zì","MS",633
+"steady drizzle","VA28B","165","O","N"," "," ","st²d±¿½$dr±zì","MS",634
+"steady drizzle","VA29","166","O","N"," "," ","st¸«d±¿$dr±zì","MS",635
+"steady drizzle","VA30A","167","O","N"," "," ","st²d±¿$dr±zì","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"steady drizzle","VA30C!","168!","O","N"," "," ","st²d±¿$dr±ºzì","MS",638
+"drizzling","VA30C!","168!","V","N"," "," ","dr±½ºzì–±¿½n","MS",638
+"steady drizzle","VA30D!","169!","O","N"," "," ","st²d±¿$dr±{°}zì","MS",639
+"steady drizzle","VA30E!","170!","O","N"," "," ","st²d±¿$dr±{°}zì","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"steady drizzle","VA31B","172","O","N"," "," ","st²d±¿½$dr±{°}zì","MS",642
+"steady drizzle","VA31C"," ","O","N"," "," ","st²{d}{±¿½}$dr±{°}zì","MS",643
+"steady drizzle","VA32!","175!","O","N"," "," ","st²d±¿$dr±zì","MS",644
+"steady drizzle","VA33A","173","O","N"," "," ","st²d±¿½$dr±º{°}zì","MS",645
+"steady drizzle","VA33B","174","O","N"," "," ","st²d±¿$dr±{°}zì","MS",646
+"steady drizzle","VA34A","177(*)","O","N"," "," ","st²«ºd±¿½$dr±ºzì","MS",647
+"steady drizzle","VA34B","178","O","N"," "," ","st²«d±¿$dr±{°}zì","MS",648
+"steady drizzle","VA35A","179","O","N"," "," ","st¸d±¿$dr±zì","MS",649
+"steady drizzle","VA35B","180","O","N"," "," ","st²d±¿$dò±zì","MS",650
+"steady drizzle","VA36A","181","O","N"," "," ","st²«d±¿$dr±zì","MS",651
+"steady drizzle","VA36B","182","O","N"," "," ","st²d±¿$dr±zì","MS",652
+"steady drizzle","VA37","183","O","N"," "," ","st¸«d±¿$dò±zì","MS",653
+"steady drizzle","VA38","185","O","N"," "," ","st²d±¿$dr±zì","MS",654
+"drizzling","VA38","185","V","N"," "," ","dr±zl±¿½n","MS",654
+"steady drizzle","VA39!","186!","O","N"," "," ","st²d±¿$dr±{°}zì","MS",655
+"steady drizzle","VA40A","187","O","N"," "," ","st±d±¿$dr±{°}zì","MS",656
+"steady drizzle","VA40B","188","O","N"," "," ","st²«¾d±¿$dr±º{°}zì","MS",657
+"steady drizzle","VA41A","191","O","N"," "," ","st²d±¿$dr±{°}zì","MS",658
+"steady drizzle","VA41B","192","O","N"," "," ","st²d±¿$dr±zì","MS",659
+"steady drizzle","VA42A","193(*)(**)","O","N"," "," ","st¸«¼ºd±¿$dr±{°}zì","MS",660
+"steady drizzle","VA42B","194","O","N"," "," ","st²d±¿$dr±º{°}zì","MS",661
+"steady drizzle","VA43N","N195","O","N"," "," ","st¸¾d±¿$dò±z°İl","MS",662
+"steady drizzle","VA43A","195","O","N"," "," ","st¸«d±¿$dr±zì","MS",663
+"steady drizzle","VA43B","196","O","N"," "," ","st²«d±¿$dr±{°}zì","MS",664
+"steady drizzle","VA44A","199","O","N"," "," ","st²d±¿$dr±{°}zì","MS",665
+"steady drizzle","VA44B","200","O","N"," "," ","st²d±¿$dr±º{°}zì","MS",666
+"steady drizzle","VA45A","201","O","N"," "," ","st¸«d±¿$dr±{°}zì","MS",667
+"drizzling","VA45A","201","V","N"," "," ","dr±º{°}zl±¿½n","MS",667
+"steady drizzle","VA45B","202","O","N"," "," ","st¸¼d±¿$dr±{°}zì","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"steady drizzle","VA46A","207","O","N"," "," ","st¸«ºd±¿$dr±ºzì","MS",670
+"steady drizzle","VA46B!","208!","O","N"," "," ","st²{°}d±¿$dr±{°}zì","MS",671
+"steady drizzle","VA47","211","O","N"," "," ","st±d±¿$dr±{°}zì","MS",672
+"steady drizzle","VA48A","213(*)","O","N"," "," ","st±d±¿$dr±{°}zì","MS",673
+"steady drizzle","VA48B","214","O","N"," "," ","st±d±¿$dr±{°}zl","MS",674
+"steady drizzle","VA49A","215","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",675
+"steady drizzle","VA49B","216","O","N"," "," ","st²d±¿$dr±{°}zì","MS",676
+"steady drizzle","VA50A","217","O","N"," "," ","st²«¾d±¿$dr±zì","MS",677
+"steady drizzle","VA50B","218","O","N"," "," ","st²d±¿$dr±zì","MS",678
+"steady drizzle","VA51A","219","O","N"," "," ","st¸—«d±¿$dr±ºzì","MS",679
+"steady drizzle","VA51B","220(*)","O","N"," "," ","st²d±¿$dò±zì","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"steady drizzle","VA52A","224","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",682
+"steady drizzle","VA52B","225","O","N"," "," ","st²d±¿«$dr±{°}zì","MS",683
+"steady drizzle","VA52C!","226!","O","N"," "," ","st²d±¿«$dr±{°}zì","MS",684
+"steady drizzle","VA53A","227","O","N"," "," ","st²¾d±¿«$dr±zì","MS",685
+"steady drizzle","VA53B","228","O","N"," "," ","st²d±¿«$dr±zì","MS",686
+"steady drizzle","VA54A","229","O","N"," "," ","st¸«d±¿$dr±zì","MS",687
+"drizzling","VA54A","229","V","N"," "," ","dr±{°}zl±¿½n","MS",687
+"spitting","VA54A","229","V","Y","snow","INA","sp±çn","MS",687
+"steady drizzle","VA54B","230","O","N"," "," ","st²{°}d±¿«$dr±{°}zì","MS",688
+"steady drizzle","VA55A","233(*)","O","N"," "," ","st²d±¿«$dr±{°}zì","MS",689
+"drizzling","VA55A","233(*)","V","N"," "," ","dr±zì–°«n","MS",689
+"steady drizzle","VA55B","234(*)","O","N"," "," ","st²{°}d±¿«$dr±zì","MS",690
+"steady drizzle","VA56A","237","O","N"," "," ","st¸«¼d±¿«$dr±{°}zì","MS",691
+"steady drizzle","VA56B","238","O","N"," "," ","st²d±¿«$dr±{°}zì","MS",692
+"steady drizzle","VA57A","239","O","N"," "," ","st¸¼d±¿«$dr±{°}zì","MS",693
+"steady drizzle","VA57B","240","O","N"," "," ","st²d±¿«$dr±{°}zì","MS",694
+"steady drizzle","VA58","241(*)","O","N"," "," ","st±d±¿$dr±{°}zì","MS",695
+"steady drizzle","VA59N","N241","O","N"," "," ","st²«d±¿$dr±zl","MS",696
+"drizzling","VA59N","N241","V","N"," "," ","dr±zl±¿½n","MS",696
+"steady drizzle","VA59A","242","O","N"," "," ","st²d±¿$dr±{°}zì","MS",697
+"steady drizzle","VA59B!","243!","O","N"," "," ","st²d±¿$dr±zì","MS",698
+"steady drizzle","VA60","244(*)","O","N"," "," ","st¸«¼d±¿$dr±zì","MS",699
+"steady drizzle","VA61A","245(*)","O","N"," "," ","st²d±¿$dr±zì","MS",700
+"steady drizzle","VA61B!","246!","O","N"," "," ","st²d±¿$dr±zì","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"steady drizzle","VA62A","247(*)","O","N"," "," ","st²ºd±¿$dr±zì","MS",703
+"steady drizzle","VA62B","248","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",704
+"steady drizzle","VA63A","251","O","N"," "," ","st¸«¼d±¿«$dr±º{°}zì","MS",705
+"steady drizzle","VA63B","252","O","N"," "," ","st²¾d±¿«$dr±º{°}zì","MS",706
+"steady drizzle","VA64A","255","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",707
+"steady drizzle","VA64B","256","O","N"," "," ","st²{°}d±¿$dr±zì","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"steady drizzle","VA65B","258","O","N"," "," ","st²d±¿$dr±ºzì","MS",710
+"drizzling","VA65B","258","V","N"," "," ","dr±zl±¿«n","MS",710
+"steady drizzle","VA65C!","259!","O","N"," "," ","st²{°}d±¿$dr±{°}zì","MS",711
+"steady drizzle","VA66A","261","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",712
+"steady drizzle","VA66B","262","O","N"," "," ","st±d±¿$dr±{°}zì","MS",713
+"steady drizzle","VA67A","267","O","N"," "," ","st¸«¼d±¿«$dr±º{°}zì","MS",714
+"steady drizzle","VA67B","268","O","N"," "," ","st²d±¿$dr±º{°}zì","MS",715
+"steady drizzle","VA68A","269","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",716
+"steady drizzle","VA68B","270","O","N"," "," ","st²d±¿$dr±{°}zì","MS",717
+"steady drizzle","VA69A","273","O","N"," "," ","st²d±¿$dr±zì","MS",718
+"steady drizzle","VA69B","274","O","N"," "," ","st²d±¿$dr±{°}zì","MS",719
+"drizzling","VA70A","275","V","N"," "," ","dr±zl°«n","MS",720
+"steady drizzle","VA70B","276","O","N"," "," ","st²¾d±¿«$dr±¾º{°}zì","MS",721
+"steady drizzle","VA71A","285","O","N"," "," ","st¸«¼d±¿$dr±º{°}zì","MS",722
+"steady drizzle","VA71B","286","O","N"," "," ","st²d±¿$dr±º{°}zì","MS",723
+"steady drizzle","VA72A","287","O","N"," "," ","st¸¼{°}d±¿«$dr±º{°}zì","MS",724
+"steady drizzle","VA72B","288","O","N"," "," ","st±d±¿«$dr±º{°}zì","MS",725
+"steady drizzle","VA73","291","O","N"," "," ","st²d±¿«$dr±º{°}zì","MS",726
+"steady drizzle","VA74A","293","O","N"," "," ","st²d±¿«$dr±º{°}zì","MS",727
+"steady drizzle","VA74B!","294!","O","N"," "," ","st²d±¿$dr±zì","MS",728
+"steady drizzle","VA75A","297","O","N"," "," ","st³d±¿«$dr±{°}zì","MS",729
+"steady drizzle","VA75B","298","O","N"," "," ","st²d±¿«$dr±º{°}zì","MS",730
+"steady drizzle","NC1","303","O","N"," "," ","st¸ºd±¿$dr±zì","MS",731
+"steady drizzle","NC2A","301","O","N"," "," ","st¸«¼ºd±¿$dr±{°}zì","MS",732
+"drizzling","NC2A","301","V","N"," "," ","dr±{°}zl±¿½n","MS",732
+"steady drizzle","NC2B","304","O","N"," "," ","st²ºd±¿$dr±ºzì","MS",733
+"steady drizzle","NC3A","305","O","N"," "," ","st¸«d±¿$dò±zì","MS",734
+"drizzle","NC3B","306","N","N"," "," ","dr±{°}zì","MS",735
+"steady drizzle","NC4A","307","O","N"," "," ","st²d±¿$dr±zì","MS",736
+"steady drizzle","NC4B","308","O","N"," "," ","st±d±¿$dr±zì","MS",737
+"steady drizzle","NC5A","309","O","N"," "," ","st²d±¿½$dr±º{°}zì","MS",738
+"steady drizzle","NC5B","310","O","N"," "," ","st²{°}d±¿$dr±ºzì","MS",739
+"steady drizzle","NC6!","311!","O","N"," "," ","st²d±¿$dr±{°}zì","MS",740
+"steady drizzle","NC7A","315(*)","O","N"," "," ","st²¾d±¿½$dr±{°}zì","MS",741
+"drizzling","NC7A","315(*)","V","N"," "," ","dr±ºzl±¿½n","MS",741
+"steady drizzle","NC7B","316","O","N"," "," ","st²d±¿$dr±ºzì","MS",742
+"steady drizzle","NC8N","N317","O","N"," "," ","st±d±¿$dò±zl","MS",743
+"steady drizzle","NC8A","317","O","N"," "," ","st±d±¿$dò±ºzì","MS",744
+"steady drizzle","NC8B","318(*)","O","N"," "," ","st²d±¿$dò±zì","MS",745
+"steady drizzle","NC9A","319","O","N"," "," ","st¸—«d±¿$dr±ºzì","MS",746
+"steady drizzle","NC9B","320","O","N"," "," ","st¸«d±¿$dr±zì","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"steady drizzle","NC10B","323","O","N"," "," ","st³d±¿«$dr±ºzì","MS",749
+"steady drizzle","NC10C","322","O","N"," "," ","st²ºd±¿$dò±ºzì","MS",750
+"steady drizzle","NC11A","325","O","N"," "," ","st¸d±¿«$dò±zì","MS",751
+"steady drizzle","NC11B","326","O","N"," "," ","st²d±¿$dò±ºzì","MS",752
+"steady drizzle","NC12A","327(*)","O","N"," "," ","st²«¾d±¿$dò±zì","MS",753
+"steady drizzle","NC12B","328","O","N"," "," ","st²«ºd±¿$dr±ºzì","MS",754
+"steady drizzle","NC13A","329","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",755
+"steady drizzle","NC13B","330(*)","O","N"," "," ","st²ºd±¿$dò±ºzì","MS",756
+"steady drizzle","NC14N","N331","O","N"," "," ","st±d±¿$dò±zì","MS",757
+"steady drizzle","NC14A","331","O","N"," "," ","st¸d±¿$dò±zì","MS",758
+"steady drizzle","NC14B","332","O","N"," "," ","st²d±¿½$dr±zì","MS",759
+"drizzling","NC14B","332","V","N"," "," ","dr±zl±¿½n","MS",759
+"spitting","NC14B","332","V","Y","snow","INA","sp±t±¿½n","MS",759
+"steady drizzle","NC14C!","333!","O","N"," "," ","st²d±¿$dò±zì","MS",760
+"steady drizzle","NC15A","335(*)","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",761
+"steady drizzle","NC15B","336","O","N"," "," ","st²d±¿$dò±ºzì","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"steady drizzle","NC16A","339(*)","O","N"," "," ","st²d±¿$dò±ºzì","MS",764
+"steady drizzle","NC16B","340","O","N"," "," ","st²d±¿$dò±ºzì","MS",765
+"steady drizzle","NC17A","337","O","N"," "," ","st¸—«d±¿$dò±ºzì","MS",766
+"steady drizzle","NC17B","338","O","N"," "," ","st²d±¿$dò±ºzì","MS",767
+"steady drizzle","NC18A","341","O","N"," "," ","st¸«d±¿$dò±zì","MS",768
+"steady drizzle","NC18B","342","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",769
+"steady drizzle","NC19A","343","O","N"," "," ","st²d±¿$dò±ºzì","MS",770
+"steady drizzle","NC19B","344","O","N"," "," ","st²d±¿$dò±zì","MS",771
+"steady drizzle","NC20A","345","O","N"," "," ","st¸d±¿$dr±zì","MS",772
+"drizzling","NC20A","345","V","N"," "," ","dr±zì±¿½n","MS",772
+"spitting","NC20A","345","V","Y"," ","SUG","sp±'tn","MS",772
+"steady drizzle","NC20B","346a","O","N"," "," ","st¸«d±¿$dò±zì","MS",773
+"steady drizzle","NC20C","346b","O","N"," "," ","st±d±¿«$dr²zì","MS",774
+"steady drizzle","NC21A","347","O","N"," "," ","st±d±¿$dò±ºzì","MS",775
+"steady drizzle","NC21B","348","O","N"," "," ","st²d±¿$dò±zì","MS",776
+"steady drizzle","NC22A","349","O","N"," "," ","st²d±¿$dr±zl","MS",777
+"steady drizzle","NC22B","349b","O","N"," "," ","st²d±¿$dò±zì","MS",778
+"steady drizzle","NC23A","351a","O","N"," "," ","st¸d±¿$dò±zì","MS",779
+"steady drizzle","NC23B","351b(*)","O","N"," "," ","st²ºd±¿$dò±ºzì","MS",780
+"steady drizzle","NC23C!","351c!","O","N"," "," ","st²d±¿$dò±zì","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"steady drizzle","NC24N","N352","O","N"," "," ","st¸d±¿«¼$dò±ºz°l","MS",783
+"steady drizzle","NC24A","352a","O","N"," "," ","st²d±¿$dò±zì","MS",784
+"steady drizzle","NC24B","352b","O","N"," "," ","st²d±¿$dò±ºzì","MS",785
+"steady drizzle","NC25N","N353","O","N"," "," ","st±d±¿$dr±zì","MS",786
+"drizzling","NC25N","N353","V","N"," "," ","dr±zl±¿½n","MS",786
+"steady drizzle","NC25A","353","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",787
+"steady drizzle","NC25B","354","O","N"," "," ","st²d±¿½$dr±º{°}zl","MS",788
+"drizzling","NC25B","354","V","N"," "," ","dr±zl±¿½n","MS",788
+"steady drizzle","NC26A","355a","O","N"," "," ","st±d±¿$dò±zì","MS",789
+"steady drizzle","NC26B","355b","O","N"," "," ","st²d±¿$dò±ºzì","MS",790
+"steady drizzle","NC26C!","356!","O","N"," "," ","st²d±¿$dò±ºzì","MS",791
+"steady drizzle","NC27A","357","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",792
+"steady drizzle","NC27B","358","O","N"," "," ","st±d±¿$dò±zì","MS",793
+"steady drizzle","NC28A","361","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",794
+"steady drizzle","NC28B","361b","O","N"," "," ","st¸«¼d±¿$dò±ºzì","MS",795
+"steady drizzle","NC28C","362","O","N"," "," ","st²d±¿$dò±ºzì","MS",796
+"steady drizzle","NC29A","363(*)","O","N"," "," ","st¸«d±¿$dr±{°}zì","MS",797
+"drizzling","NC29A","363(*)","V","N"," "," ","dr±zl±¿n","MS",797
+"misting","NC29A","363(*)","V","N"," "," ","m±{°}skˆ±¿n","MS",797
+"steady drizzle","NC29B","364","O","N"," "," ","st²«d±¿$dò±zì","MS",798
+"steady drizzle","NC30A","365","O","N"," "," ","st¸d±¿$dò±zì","MS",799
+"steady drizzle","NC30B","366","O","N"," "," ","st²«¾d±¿$dr±zì","MS",800
+"steady drizzle","NC31A","367","O","N"," "," ","st±d±¿$dr±zì","MS",801
+"steady drizzle","NC31B","368","O","N"," "," ","st²«d±¿$dò±zì","MS",802
+"steady drizzle","NC32A","369","O","N"," "," ","st²d±¿$dr±º{°}zì","MS",803
+"drizzling","NC32A","369","V","N"," "," ","dr±zl±¿½n","MS",803
+"steady drizzle","NC32B!","370!","O","N"," "," ","st²d±¿$dò±ºzì","MS",804
+"steady drizzle","NC33A","373","O","N"," "," ","st¸¼d±¿$dò±ºzì","MS",805
+"steady drizzle","NC33B","374","O","N"," "," ","st²«ºd±¿$dò±zì","MS",806
+"steady drizzle","NC34A","375","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",807
+"steady drizzle","NC34B","376","O","N"," "," ","st²d±¿$dò±{°}zì","MS",808
+"steady drizzle","NC35A","377","O","N"," "," ","st²d±¿$dr±zl","MS",809
+"drizzling","NC35A","377","V","N"," "," ","dr±zl±¿î","MS",809
+"steady drizzle","NC35B","378","O","N"," "," ","st±d±¿$dò±ºzì","MS",810
+"steady drizzle","NC36N","N381","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",811
+"steady drizzle","NC36A","381","O","N"," "," ","st¸«¼d±¿$dò±ºzì","MS",812
+"steady drizzle","NC36B","382","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",813
+"steady drizzle","NC37A","383","O","N"," "," ","st±d±¿$dr±zì","MS",814
+"steady drizzle","NC37B","384","O","N"," "," ","st²«d±¿$dr±zì","MS",815
+"steady drizzle","NC38N","N385","O","N"," "," ","st±d±¿$dò±ºz°İl","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"steady drizzle","NC38B","386","O","N"," "," ","st²d±¿$dò±ºzì","MS",818
+"steady drizzle","NC39A","389","O","N"," "," ","st¸«d±¿$dr±zì","MS",819
+"steady drizzle","NC39B!","390!","O","N"," "," ","st²d±¿$dò±zì","MS",820
+"steady drizzle","NC40A","391","O","N"," "," ","st¸«ºd±¿$dr±{°}zì","MS",821
+"a-drizzling","NC40A","391","V","N"," "," ","°dr±zl±¿½n","MS",821
+"steady drizzle","NC40B","392","O","N"," "," ","st²d±¿$dò±ºzì","MS",822
+"steady drizzle","NC41!","393!","O","N"," "," ","st²d±¿$dò±ºzì","MS",823
+"steady drizzle","NC42A","403","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",824
+"steady drizzle","NC42B","404(*)","O","N"," "," ","st²d±¿$dò±ºzì","MS",825
+"steady drizzle","NC43A","397","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",826
+"steady drizzle","NC43B","398","O","N"," "," ","st²«d±¿$dò±ºzì","MS",827
+"steady drizzle","NC44","410(*)","O","N"," "," ","st²d±¿$dò±ºzì","MS",828
+"steady drizzle","NC45A","409(*)","O","N"," "," ","st¸«d±¿$dò±zì","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"steady drizzle","NC46A","411","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",831
+"steady drizzle","NC46B","412","O","N"," "," ","st¸«d±¿$dò±zì","MS",832
+"steady drizzle","NC46C!","412b!","O","N"," "," ","st²d±¿$dò±ºzì","MS",833
+"steady drizzle","NC47","413","O","N"," "," ","st¸«¼d±¿$dr±º{°}zì","MS",834
+"drizzling","NC47","413","V","N"," "," ","dr±º{°}zl±¿½n","MS",834
+"steady drizzle","NC48","418","O","N"," "," ","st¸«d±¿$dò±zì","MS",835
+"steady drizzle","NC49","421","O","N"," "," ","st³d±¿«$dò±zì","MS",836
+"steady drizzle","NC50A","422","O","N"," "," ","st²«¾d±¿«$dò±ºzì","MS",837
+"steady drizzle","NC50B!","423!","O","N"," "," ","st²d±¿$dò±ºzì","MS",838
+"steady drizzle","NC51A","427","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",839
+"steady drizzle","NC51B","428","O","N"," "," ","st²d±¿$dò±ºzì","MS",840
+"steady drizzle","NC52N","N429","O","N"," "," ","st²«d±¿$dò±zì","MS",841
+"steady drizzle","NC52A","429","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",842
+"steady drizzle","NC52B","430","O","N"," "," ","st²«d±¿$dò±ºzì","MS",843
+"steady drizzle","NC53A","431","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",844
+"steady drizzle","NC53B","432","O","N"," "," ","st²d±¿$dò±ºzì","MS",845
+"steady drizzle","NC54A","433","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",846
+"drizzling","NC54A","433","V","N"," "," ","dr±¾zì–±¿½n","MS",846
+"steady drizzle","NC54B","434","O","N"," "," ","st²d±¿$dò±ºzì","MS",847
+"steady drizzle","NC55","435","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",848
+"steady drizzle","NC56A","436","O","N"," "," ","st²«d±¿«$dò±ºzì","MS",849
+"steady drizzle","NC56B!","437!","O","N"," "," ","st²d±¿$dò±ºzì","MS",850
+"steady drizzle","NC57A","438a","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",851
+"steady drizzle","NC57B","438b","O","N"," "," ","st²«d±¿$dò±ºzì","MS",852
+"steady drizzle","NC58A","439","O","N"," "," ","st¸d±¿$dò±zì","MS",853
+"steady drizzle","NC58B","440","O","N"," "," ","st²«¾d±¿$dò±zì","MS",854
+"steady drizzle","NC59","441(*)","O","Y"," ","AUX","st¸«¼º{°}d±¿$dr±º{°}zì","MS",855
+"drizzling","NC59","441(*)","V","Y"," ","AUX","dr±º{°}zl±¿½n","MS",855
+"steady drizzle","NC60","442","O","N"," "," ","st²d±¿$dò±ºzì","MS",856
+"steady drizzle","NC61A","443","O","N"," "," ","st¸«d±¿«$dò±ºzì","MS",857
+"steady drizzle","NC61B","444","O","N"," "," ","st²d±¿$dò±zì","MS",858
+"steady drizzle","NC62A","447","O","N"," "," ","st¸d±¿$dò±zì","MS",859
+"steady drizzle","NC62B","448","O","N"," "," ","st²d±¿$dò±zì","MS",860
+"steady drizzle","NC63A","449","O","N"," "," ","st¸«d±¿$dò±¾zì","MS",861
+"steady drizzle","NC63B","450","O","N"," "," ","st²d±¿$dò±zì","MS",862
+"steady drizzle","NC64A","453","O","N"," "," ","st±d±¿$dò±ºzì","MS",863
+"steady drizzle","NC64B","454","O","N"," "," ","st²«d±¿«$dò±ºzì","MS",864
+"steady drizzle","NC65A","461","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",865
+"steady drizzle","NC65B","462","O","N"," "," ","st¸«¼d±¿$dr±{°}zì","MS",866
+"drizzling","NC65B","462","V","N"," "," ","dr±zl±¿½n","MS",866
+"steady drizzle","NC66A","465","O","N"," "," ","st±d±¿$dò±ºzì","MS",867
+"steady drizzle","NC66B","466","O","N"," "," ","st²d±¿«$dò±ºzì","MS",868
+"steady drizzle","NC67A","469","O","N"," "," ","st¸¾d±¿$dò±zì","MS",869
+"steady drizzle","NC67B","470","O","N"," "," ","st²d±¿$dr±º{°}zì","MS",870
+"drizzling","NC67B","470","V","N"," "," ","dr±{°}zl±¿½n","MS",870
+"steady drizzle","NC68A","473","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",871
+"steady drizzle","NC68B","474","O","N"," "," ","st¸«d±¿«$dò±ºzì","MS",872
+"steady drizzle","NC69A","477","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",873
+"steady drizzle","NC69B","478","O","N"," "," ","st¸«¼ºd±¿$dr±º{°}zì","MS",874
+"drizzling","NC69B","478","V","N"," "," ","dr±º{°}zl±¿½n","MS",874
+"steady drizzle","NC70A","479","O","N"," "," ","st¸«d±¿$dò±ºzì","MS",875
+"steady drizzle","NC70B","480","O","N"," "," ","st²d±¿«$dò±{°}zì","MS",876
+"steady drizzle","NC71A","481","O","N"," "," ","st¸—«d±¿«$dò±zì","MS",877
+"steady drizzle","NC71B","482","O","N"," "," ","st²d±¿$dò±ºzì","MS",878
+"steady drizzle","NC71C!","483!","O","N"," "," ","st²d±¿$dò±ºzì","MS",879
+"steady drizzle","NC72A","487","O","N"," "," ","st¸«d±¿«$dò±½ºzì","MS",880
+"steady drizzle","NC72B","488","O","N"," "," ","st²d±¿$dò±ºzì","MS",881
+"steady drizzle","NC73A","491","O","N"," "," ","st¸«d±¿«$dò±zì","MS",882
+"drizzle","NC73B","492","N","N"," "," ","dr±{°}zì","MS",883
+"drizzling","NC73B","492","V","N"," "," ","dr±{°}zl–±¿½n","MS",883
+"steady drizzle","NC74A","493","O","N"," "," ","st¸«d±¿«$dò±ºzì","MS",884
+"steady drizzle","NC74B","494","O","N"," "," ","st²d±¿«$dò±ºzì","MS",885
+"steady drizzle","NC75A","495","O","N"," "," ","st¸d±¿$dò±{°}zì","MS",886
+"steady drizzle","NC75B","496","O","N"," "," ","st²«¾d±¿«$dò±ºzì","MS",887
+"steady drizzle","SC1A","203.1","O","N"," "," ","st³d±¿$dò±¿zl","MS",888
+"steady drizzle","SC1B","203.2","O","N"," "," ","st²d±¿$dò±¿ºzì","MS",889
+"steady drizzle","SC2A","204.1(*)","O","N"," "," ","õst¸«¼d±¿$ådò±ºzl","MS",890
+"steady drizzle","SC2B","204.2","O","N"," "," ","st²«ºd±¿$dò±ºzì","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"steady drizzle","SC3A","205.1","O","N"," "," ","õst²d±¿$ådr±º{°}zì","MS",893
+"drizzling","SC3A","205.1","V","N"," "," ","dr±ºzl±¿½n","MS",893
+"drizzle","SC3B","205.2","N","N"," "," ","dò±«{°}z©","MS",894
+"mist","SC3B","205.2","N","N"," "," ","m±«{°}st","MS",894
+"shower","SC3B","205.2","N","N"," "," ","åóá½ºow´«","MS",894
+"sprinkle","SC3B","205.2","N","N"," "," ","spò±¿½{°}îk©","MS",894
+"sprinkling","SC3B","205.2","V","N"," "," ","spò±«{°}îkl±¿¼n","MS",894
+"steady drizzle","SC3C!","205.3!","O","N"," "," ","åst²«{°}d±¿«¼$õdò±«{°}z©","MS",895
+"soaking rain","SC3C!","205.3!","O","N"," "," ","åso¼ºk±¿¼n$õre«{±}n","MS",895
+"drizzle","SC3C!","205.3!","N","N"," "," ","ådò±½¾z©","MS",895
+"shower","SC3C!","205.3!","N","N"," "," ","åóá½ºow°«","MS",895
+"sprinkle","SC3C!","205.3!","N","N","light and short"," ","åspò±«{°}îk©","MS",895
+"misting","SC3C!","205.3!","V","N"," "," ","m±«{°}st±¿¼n","MS",895
+"drizzle","SC4A","206.1","N","N"," "," ","ådò±«zì","MS",896
+"drizzling rain","SC4B","206.2","O","N"," "," ","ådò±«¾{±¿}zl±¿¼n$õreº{°}n","MS",897
+"sprinkle","SC4B","206.2","N","N"," "," ","åspò±«îkì","MS",897
+"misting rain","SC4B","206.2","O","N","""death riding on the river¢"," ","åm±«{±¿}st±¿¼n$õreº{°}n","MS",897
+"steady rain","SC4B","206.2","O","N"," "," ","åst²«{°}d±¿«¼$õreº{°}n","MS",897
+"death riding on the river","SC4B","206.2","O","Y"," ","INA/HRD","åd²«{°}ù$õrµ¾±¿dn$·º{°}n$d‘±¿«¼$år±«{°}v°«¾","MS",897
+"light shower","SC4B","206.2","O","N"," "," ","ålµº±¿t$õóa¾ºow°«","MS",897
+"shower","SC4B","206.2","N","N"," "," ","óá½¾ºo¼°","MS",897
+"shower","SC4B","206.2","N","N"," "," ","åóa«ºow°«","MS",897
+"drizzle","SC4C","206.3","N","N","long; small drops"," ","dò±¿¼{°}zì","MS",898
+"shower","SC4C","206.3","N","N"," "," ","óµ«º{o}w°","MS",898
+"sprinkle","SC4C","206.3","N","N","short; big drops"," ","spò±¿«¼{°}îkl","MS",898
+"shower","SC5A","207.1","N","N"," "," ","ó¸«¼º¹°","MS",899
+"misting rain","SC5A","207.1","O","N"," "," ","åm±¿¼st°n$õreº{°}n","MS",899
+"mist of rain","SC5A","207.1","O","N"," "," ","åm±¿¼st$°$õreº{°}n","MS",899
+"sprinkle","SC5A","207.1","N","N"," "," ","spr±¿¼îk©","MS",899
+"drizzle","SC5A","207.1","N","Y"," ","HRD","dò±¿zl","MS",899
+"drizzling and drazzling","SC5A","207.1","E","Y"," ","HRD","dò±¿zl±¿¼n$°«n$dòŞzl±¿¼n","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"NA","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"shower","SC5D!","207.3!","N","N","""like a spray¢"," ","óµ«º¹|°","MS",902
+"sprinkle","SC5D!","207.3!","N","N","very brief"," ","spò±«îì","MS",902
+"drizzle","SC5D!","207.3!","N","N","lasts longer"," ","dò±¿zì","MS",902
+"mist","SC5D!","207.3!","N","Y","""very light¢","SUG","m±¿¼{°}s","MS",902
+"devil's beating his wife behind the door","SC5D!","207.3!","S","Y","when it rains while the sun's shining","INA/AMS/RN1","åd²½{°}vìz$åbiº'tn$h±¿¼z$w¥½¼±¿f","MS",902
+"shower","SC5D!","207.3!","N","N"," "," ","óµ«ºw°«","MS",902
+"shower","SC5D!","207.3!","N","N"," "," ","óµ«ºow°","MS",902
+" ","SC5D!","207.3!"," "," "," ","RN2","b±«¾hµº±¿n$ä±$ådoº{°}","MS",902
+"April shower","SC5D!","207.3!","O","N","""devil's beating his wife behind the door¢"," ","åeºpòì$õóµºw°«","MS",902
+"drizzle","SC6N","N208","N","N"," "," ","dò±¿¼zl","MS",903
+"drizzle","SC6N","N208","N","N"," "," ","dò±«¾{°}zl","MS",903
+"steady drizzle","SC6A","208.1","O","N"," "," ","st¸«º{°}d±¿$dò±¾{°}zì","MS",904
+"drizzling","SC6A","208.1","V","N"," "," ","dò±¾{°}zl±¿½n","MS",904
+"showers","SC6B","208.2(*)","V","N"," "," ","óµ«ºow±¿½z","MS",905
+"sprinkle","SC6B","208.2(*)","N","N","barely lays the dust"," ","spr±«îkl","MS",905
+"slow rain","SC6B","208.2(*)","O","N"," "," ","åslo«º$õreº{°}n","MS",905
+"drizzle rain","SC6B","208.2(*)","O","N"," "," ","ådò±¿«¼zl$õreº{°}n","MS",905
+"drizzle","SC6C!","208.3!","N","N"," "," ","dò±¿zl","MS",906
+"mist","SC6C!","208.3!","N","N"," "," ","m±«¾{°}st","MS",906
+"sprinkle","SC6C!","208.3!","N","N"," "," ","spr±«îkl","MS",906
+"shower","SC6C!","208.3!","N","N"," "," ","ó¸«¹w°","MS",906
+"NA","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"drizzle rain","SC7A","209.1","O","N"," "," ","ådò±¿zl$õre«º{°}n","MS",909
+"small rain","SC7A","209.1","O","N"," "," ","åsm·¼º{°}{l}$õri½º{°}n","MS",909
+"shower","SC7A","209.1","N","N"," "," ","ó¸¼º¹w°«","MS",909
+"drizzle","SC7B","209.2","N","N","""crops like¢"," ","dòi½{°}zl","MS",910
+"misting rain","SC7B","209.2","O","N"," "," ","åm±«¾{°}st±¾î$õreº{°}n","MS",910
+"showers","SC7B","209.2","V","N"," ","CNV","ó¸½º¹w°«z","MS",910
+"sprinkle","SC7B","209.2","N","N"," "," ","spò±«{°}îkì","MS",910
+"sprinkle","SC7B","209.2","N","N"," "," ","spò±«îkì","MS",910
+"dropping rain","SC7C!","209.3!","O","N"," "," ","ådò¶{°}p±¿½î$õre«º{°}n","MS",911
+"drizzle","SC7D!","209.4!","N","N"," "," ","dò±¿«¼zl","MS",912
+"mist","SC7D!","209.4!","N","N","a bare rain"," ","m±¿«¼{°}st","MS",912
+"sprinkle","SC7D!","209.4!","N","N","a little lighter [than drizzle]"," ","spò±«{°}îkl","MS",912
+"shower","SC7D!","209.4!","N","N"," "," ","ó¸«¼¹|°","MS",912
+"passing shower","SC7D!","209.4!","O","N"," "," ","åp`á½{°}s±¿¼î$ó¸«¼º¹İ|°","MS",912
+"sprinkle","SC7D!","209.4!","N","N"," ","CNV","spò±«{°}îkl","MS",912
+"passing shower","SC7D!","209.4!","O","N"," "," ","åp`á½{°}s±¿¼î$õó¸½¼º¹İ°","MS",912
+"sprinkle","SC8A","210.1","N","N"," "," ","spò±«{°}îkì","MS",913
+"used to call","SC8A","210.1","E","Y"," ","INA","åju¿ºst°$õk·º{°}ì","MS",913
+"light shower","SC8A","210.1","O","N"," "," ","ål°½±¿t$õó¸½¾ºw°¾","MS",913
+"drizzle","SC8A","210.1","N","Y","""used to call¢","OLD","dò±«{°}zl","MS",913
+"drizzle","SC8B","210.2","N","N","""steady¢"," ","dò±«¾{°}zì","MS",914
+"steady","SC8B","210.2","A","Y"," ","INA","åst³«º{°}d±¿«¼","MS",914
+"shower","SC8B","210.2","N","N"," ","CNV","óµºw°«¾","MS",914
+"sprinkle","SC8B","210.2","N","N"," "," ","åspò±«{°}îk©{ì}","MS",914
+"shower","SC8B","210.2","N","N"," "," ","åóá½¾ºo|°","MS",914
+"light shower","SC8C","210.3","O","N"," "," ","ål°½±¿t$õóµ«ºw°«","MS",915
+"drizzle","SC8C","210.3","N","N"," "," ","dò±¿zì","MS",915
+"drizzling rain","SC8C","210.3","O","N"," "," ","ådò±¿zl±¿¼n$õre«º{°}n","MS",915
+"drizzle rain","SC8C","210.3","O","N"," "," ","ådò±¿zì$õre«º{°}n","MS",915
+"just a drizzle","SC9A","211.1","O","N"," "," ","dú±¿s$°$dò±«{°}zì","MS",916
+"steady all-night rain","SC9A","211.1","O","N"," "," ","åst³«{°}d±¿«¼$å·º{°}ìõn°±¿t$reº{±¿}n","MS",916
+"sprinkle shower","SC9A","211.1","O","N","""steady¢"," ","õspò±«{°}îk©{ì}$åóµ«ºoİw°¾","MS",916
+"steady","SC9A","211.1","A","Y"," ","INA/SIC","st¸«{°}d±¿«¼","MS",916
+"shower","SC9A","211.1","N","N"," "," ","ó¸«¼¹w°«","MS",916
+"May shower","SC9A","211.1","O","N"," "," ","åmeº$õóµ«ºoİw°¾","MS",916
+"little drizzle","SC9B","211.2","O","N"," "," ","õl±«tì$ådò±«{°}zl","MS",917
+"shower","SC9B","211.2","N","N"," "," ","åóµ«¼ºow°","MS",917
+"drizzle","SC9C!","211.3!","N","N","light, steady, lasting"," ","dò±¿zì","MS",918
+"shower","SC9C!","211.3!","N","N","shorter, but heavier [than drizzle]"," ","óµºow°","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"drizzle","SC10A","212.1","N","N"," "," ","ådò±¾zì","MS",920
+"drizzling rain","SC10A","212.1","O","N"," "," ","ådò±¾zl±¿İn$õre«ºn","MS",920
+"dropping rain","SC10A","212.1","O","N"," "," ","ådò¶p±¿¼n$õre«ºn","MS",920
+"sprinkling rain","SC10A","212.1","O","N"," "," ","åspò±«îkl±¿½n$õre«º{°}n","MS",920
+"sprinkle","SC10A","212.1","N","N"," "," ","spò±«îkì","MS",920
+"drizzle","SC10A","212.1","N","N"," "," ","dò±¾z©{ì}","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"steady drizzle","SC11N","N213","O","N"," "," ","st²½d±¿$dr±¾zl","MS",923
+"drizzling","SC11N","N213","V","N"," "," ","dr±zl–±¿½n","MS",923
+"drizzle","SC11M!","2n213!","N","N","""steady, lasts a long while¢"," ","dò±¿¼zì","MS",924
+"light drizzle","SC11M!","2n213!","O","N"," "," ","ål¥¼±¿t$õdò±¿¼zì","MS",924
+"shower","SC11M!","2n213!","N","N"," "," ","óµ«º¹|°","MS",924
+"steady","SC11M!","2n213!","A","Y"," ","INA","st²ºd±¿«¼","MS",924
+"sprinkle","SC11M!","2n213!","N","N"," "," ","spò±«îkì","MS",924
+"light rain","SC11M!","2n213!","O","N"," "," ","ål¥¼±¿t$õre«º{°}n","MS",924
+"drizzle","SC11M!","2n213!","N","N"," "," ","dò±¿¼zì","MS",924
+"drizzle","SC11A","213.1(*)","N","N","""it drizzled all day¢"," ","dò±¿¼zì","MS",925
+"it drizzled all day","SC11A","213.1(*)","S","N"," "," ","±¿¼t$ådò±¿¼zld$·¼º{°}l$åde«º","MS",925
+"shower","SC11A","213.1(*)","N","N"," "," ","óµ«º¹{w}°«","MS",925
+"short rain","SC11A","213.1(*)","O","N"," "," ","ó ·¼º°t$re«º{°}n","MS",925
+"shower","SC11A","213.1(*)","N","N"," ","CNV","åóµ«º¹İw°«","MS",925
+"light rain","SC11A","213.1(*)","O","N"," "," ","ål¥¼±¿t$õre«º{°}n","MS",925
+"rain","SC11A","213.1(*)","N","N"," "," ","re«º{°}n","MS",925
+"sprinkling","SC11B","213.11","V","N"," "," ","spr±îkl±¿n","MS",926
+"drizzle","SC11C","213.2","N","N"," "," ","dò±¿zì","MS",927
+"short drizzle","SC11C","213.2","O","N"," "," ","åó·¼º{°}t$õdò±¿¼zì","MS",927
+"slow drizzle","SC11C","213.2","O","N","""even the steady drizzle¢"," ","åsÅo«¼$õdò±¿¼zì","MS",927
+"even the steady drizzle","SC11C","213.2","K","N"," "," ","åiºjv°«n$d±$åst²d±¿«¼$õdò±¿¼zì","MS",927
+"shower","SC11C","213.2","N","N"," "," ","óµ«¼º¹w°«","MS",927
+"steady drizzle","SC11C","213.2","O","N"," "," ","åst²d±¿«¼$õdò±¿¼zì","MS",927
+"drizzle","SC11D","213.3","N","N"," "," ","dò±¿¼zì","MS",928
+"slight downpour","SC11D","213.3","O","N"," "," ","sÅ¥¼±¿t$õdµ«¼º¹nåp`¹—½¼º°","MS",928
+"shower","SC11D","213.3","N","N","short, sudden"," ","óµ«¼º¹w°«","MS",928
+"light rain","SC11D","213.3","O","N"," "," ","õl¸«¼±¿t$åre«º{°}n","MS",928
+"sprinkle","SC11D","213.3","N","N"," "," ","åspòiîkl","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NA","SC11F","213.5"," ","N"," "," "," ","MS",930
+"shower","SC11G!","213.7!","N","N"," "," ","óµ«º¹w|°","MS",931
+"drizzle","SC11G!","213.7!","N","N","""less than a shower¢, few minutes and stops"," ","dò±¿¼zl","MS",931
+"drenched","SC11H!","213.8!","V","Y"," ","INA/CNV","dò²«ntót","MS",932
+"showered","SC11H!","213.8!","V","N"," ","CNV","åóµº¹{w}°«d","MS",932
+"sprinkled","SC11H!","213.8!","V","N"," ","CNV","spò±¾îkìd","MS",932
+"drizzling all day","SC11H!","213.8!","E","N"," "," ","ådò±¿«¼zì–±¿¼î$·¼º{°}l$de«º","MS",932
+"shower","SC11H!","213.8!","N","N"," "," ","óµ«¹{w}°«","MS",932
+"sprinkle","SC11H!","213.8!","N","N"," "," ","spò±«îkˆl","MS",932
+"showered","SC11H!","213.8!","V","N"," ","CNV","óµº¹{w}°«d","MS",932
+"drizzle","SC11H!","213.8!","N","N","light and steady"," ","dò±¿zl","MS",932
+"steady drizzle","SC11I!","213.9!","O","N"," "," ","st²d±¿$dò±zl","MS",933
+"drizzling","SC11I!","213.9!","V","N"," "," ","dò±zl±¿î","MS",933
+"drizzle","SC11J!","213.10!","N","N","""it drizzled off and on¢"," ","dò±¿¼zì","MS",934
+"shower","SC11J!","213.10!","N","N","""brief¢"," ","ó¸½¼º¹{w}°«","MS",934
+"it drizzled off and on","SC11J!","213.10!","S","N"," "," ","±¿t$ådò±¿¼zld$·¼º{°}f$°İn$·¼º{°}n","MS",934
+"brief","SC11J!","213.10!","A","Y"," ","INA","bòiºf","MS",934
+"shower","SC11J!","213.10!","N","N"," "," ","åóµ«º¹w°","MS",934
+"shower","SC11J!","213.10!","N","N"," "," ","óµ«º¹w°«","MS",934
+"drizzle","SC11J!","213.10!","N","N","""it drizzled off and on¢"," ","dò±¾zì","MS",934
+"drizzle","SC11J!","213.10!","N","N","""it drizzled off and on¢"," ","dò±¿«¼zì","MS",934
+"drizzle rain","SC12A","214.1","O","N","more water than a sprinkle"," ","ådò±¿z©$õòeº{°}n","MS",935
+"small shower","SC12A","214.1","O","N"," "," ","åsm·—«º{°}ì$õóá½ºow°«","MS",935
+"little mist of rain","SC12A","214.1","O","N"," "," ","õl±«{°}t©$åm±«{°}st$°$õòe«º{°}n","MS",935
+"to lay the dust","SC12A","214.1","E","Y"," ","INA","t°$åleº{°}$ä±¿$õd¦½{°}s","MS",935
+"sprinkle","SC12A","214.1","N","N","""to lay the dust¢"," ","åspò±«{°}îk©","MS",935
+"little set rain","SC12A","214.1","O","N"," "," ","ål±«{°}t©$ås²«{°}t$õòe«º{°}n","MS",935
+"steady drizzle","SC12B","214.2","O","N"," "," ","st²d±¿$dò±½¾zl","MS",936
+"drizzling","SC12B","214.2","V","N"," "," ","ådò±zl±¿½n","MS",936
+"drizzle of rain","SC13","213.6","O","N"," "," ","dò±«zl$°$åre«º{°}n","MS",937
+"set-in rain","SC13","213.6","O","N"," "," ","ås²«tõ±«{°}n$åre«º{°}n","MS",937
+"shower","SC13","213.6","N","N"," "," ","ó¸½¼º¹°","MS",937
+"sprinkle","SC13","213.6","N","N"," "," ","spr±¿¼îkl","MS",937
+"steady drizzle","SC14A","215.1","O","N"," "," ","st²d±¿½$dò±zl","MS",938
+"drizzling","SC14A","215.1","V","N"," "," ","dò±zl±¿î","MS",938
+"spitting","SC14A","215.1","V","Y","rare","SUG/HRD","sp±t±¿î","MS",938
+"drizzle","SC14B","215.2","N","N","continues to fall"," ","dò±¿zì","MS",939
+"slow drizzling rain","SC14B","215.2","O","N"," "," ","åsloº$õdò±«{°}zl±¿¼n$åreº{°}n","MS",939
+"light sprinkle","SC14B","215.2","O","N","short time"," ","õl°±¿t$åspò±«{°}îkì","MS",939
+"drizzle","SC14B","215.2","N","N","continues to fall"," ","dò±¿¼zì","MS",939
+"drizzle","SC15A","216.1","N","N","lighter; ""just did drop¢"," ","dò±«{°}zì","MS",940
+"drizzle rain","SC15A","216.1","O","N"," "," ","ådò±«{°}zì$õreº{°}n","MS",940
+"set rains","SC15A","216.1","O","N","in winter"," ","ås²«{°}t$õòeº{°}nz","MS",940
+"just did drop","SC15A","216.1","E","N","lighter than drizzle"," ","ådú²«{°}s$d±«{°}d$dò¶p","MS",940
+"little shower","SC15A","216.1","O","N"," "," ","ål±«tì$õóµºoİw°«","MS",940
+"shower","SC15A","216.1","N","N"," "," ","óµºw°","MS",940
+"shower","SC15A","216.1","N","N"," "," ","åóµ«ºow°«","MS",940
+"drizzle","SC15B","216.2","N","N","practically the same as `mist'"," ","dò±¿zì","MS",941
+"sprinkle","SC15B","216.2","N","N","""enough to settle the dust¢"," ","spò±«¾{°}îkì","MS",941
+"light rain","SC15B","216.2","O","N"," "," ","ålµ«¼±¿t$õre«º{°}n","MS",941
+"shower","SC15B","216.2","N","N"," "," ","óµ«ow°«¾","MS",941
+"mist","SC15B","216.2","N","N","practically the same as `drizzle'"," ","m±«{°}st","MS",941
+"misty rain","SC15B","216.2","O","N"," "," ","åm±«¾{°}st±¿«¼$õre«º{°}n","MS",941
+"enough to settle the dust","SC15B","216.2","K","Y"," ","INA","°õn¸¼{°}f$t°$ås²«tì$ä°$åd¸—«{°}st","MS",941
+"showery","SC15B","216.2","A","N"," "," ","óµ«ºor±¿«¼","MS",941
+"NA","SC15C","216.3"," ","N"," "," "," ","MS",942
+"drizzle","SC16N","N217","N","N"," "," ","dò±{±¿}zì","MS",943
+"shower","SC16N","N217","N","N"," "," ","óµ«ºowİ°«","MS",943
+"good shower","SC16N","N217","O","N"," "," ","åg¹¼°d$õóµ«ow°«","MS",943
+"sprinkle","SC16N","N217","N","Y"," ","HRD","spò±«{±¿}îkì","MS",943
+"soaker","SC16N","N217","N","N"," "," ","åso«{°}k°","MS",943
+"mild rain","SC16N","N217","O","N"," "," ","åmµº±¿l$õre«º{°}n","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"drizzle","SC17A","218.1","N","N"," "," ","dòi½{±¿}zì","MS",945
+"light rain","SC17A","218.1","O","N"," "," ","ålµ¾º±¿t$õreº{°}n","MS",945
+"showers","SC17A","218.1","V","N"," "," ","åóá½ow´«¾z{z}","MS",945
+"drizzle","SC17A","218.1","N","N"," "," ","dò±«{±¿}zì","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"drizzle","SC17D","218.4","N","N","barely coming down"," ","dò±«{±¿}zì","MS",948
+"shower","SC17D","218.4","N","N"," "," ","óµ«ºo°","MS",948
+"sprinkle","SC17D","218.4","N","N"," "," ","åspò±½îkì","MS",948
+"steady rain","SC17D","218.4","O","N"," "," ","åst²«{°}d±¿«¼$õreº{°}n","MS",948
+"shower","SC17D","218.4","N","N"," "," ","óµ«ºow°«","MS",948
+"steady drizzle","SC18N","N219","O","N"," "," ","åst¸¼d±¿$õdò±¿¼zl","MS",949
+"drizzling","SC18N","N219","V","N"," "," ","dò±¿¼zl±«n","MS",949
+"little drizzle","SC18N","N219","O","N"," "," ","ål±«tì$õdò±¿¼zl","MS",949
+"drizzle rain","SC18N","N219","O","N"," "," ","ådò±¿«¾zl$õre«ºn","MS",949
+"drizzling","SC18N","N219","V","N"," "," ","dò±¿¼zl±¾n","MS",949
+"drizzle","SC18A","219.1","N","N","spring of the year"," ","ådò±¿¼zì","MS",950
+"mist","SC18A","219.1","N","N","""light vapor, steady¢"," ","m±¿¼st","MS",950
+"light vapor","SC18A","219.1","O","N"," "," ","õl¥«±t$åâe«º{°}p°","MS",950
+"steady","SC18A","219.1","A","Y"," ","INA/CNV","st±½¾d±¿«¼","MS",950
+"drizzle","SC18B","219.2","N","N"," "," ","ådò±¿¼zì","MS",951
+"steady drizzle","SC18C!","219.3(*)!","O","N"," "," ","åst²º{±¿}d±¿«¼$ådò±¾zì","MS",952
+"slight drizzle","SC18C!","219.3(*)!","O","N"," "," ","sl°½±t$dò±¿¼zì","MS",952
+"drizzling","SC18C!","219.3(*)!","V","N"," "," ","ådò±½¾zl±¾î","MS",952
+"shower","SC18C!","219.3(*)!","N","N"," "," ","óµº¹{ç}°¾","MS",952
+"drizzle","SC18C!","219.3(*)!","N","N"," "," ","dò±¾zì","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NA","SC19A","220.1"," ","N"," "," "," ","MS",955
+"drizzle","SC19B","220.4","N","N"," "," ","dò±¾zl","MS",956
+"drizzle","SC19B","220.4","N","N"," "," ","dò±¿zl","MS",956
+"steady drizzle","SC19C","220.2(*)","O","N"," "," ","åst²{±¿}d±¿«¼$õdò±¿«¼zì","MS",957
+"little drizzly rains","SC19C","220.2(*)","O","N"," ","CNV","ål±¿¼tì$õdò±¿¼zl±¿«¼$re«ºnz","MS",957
+"drizzle","SC19C","220.2(*)","N","N"," "," ","dò±¿¼zì","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NA","SC19E!"," "," ","N"," "," "," ","MS",959
+"drizzle","SC20A","221.1","N","N","all night"," ","dò±«zl","MS",960
+"shower","SC20A","221.1","N","N"," "," ","óá½¾ºow°","MS",960
+"sprinkle","SC20A","221.1","N","N"," "," ","spr²«{±¿}îkl","MS",960
+"mist","SC20A","221.1","N","N"," "," ","åm±«{°}st","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"drizzle","SC20C","221.3","N","N"," "," ","ådò±«zl","MS",962
+"mist","SC20C","221.3","N","N"," "," ","åm±«{°}st","MS",962
+"sprinkle","SC20C","221.3","N","N"," "," ","åspr±«{°}îk©","MS",962
+"steady rain","SC20C","221.3","O","N"," "," ","åst²«{°}d±¿«¼$õre«{±¿}n","MS",962
+"April shower","SC20C","221.3","O","N"," "," ","åeºpñl$åóµ«¼ºow°¾","MS",962
+"shower","SC20C","221.3","N","N"," "," ","óµ«ºow°","MS",962
+"NA","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"steady drizzle","SC21A","222.1","O","N"," "," ","st¸«¼d±¿$dò±zì","MS",964
+"steady drizzle","SC21B","222.2","O","N"," "," ","st²d±¿$dr±ºzì","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"shower","SC22A","223.1","N","N"," "," ","óá½ºow°","MS",967
+"sprinkle","SC22A","223.1","N","N"," "," ","spò±«¾{°}îk©{l}","MS",967
+"shower","SC22A","223.1","N","N"," ","CNV","åóá½ºo¼w°","MS",967
+"shower","SC22A","223.1","N","N"," "," ","óá½ºow°«","MS",967
+"drizzle","SC22A","223.1","N","N"," "," ","dò±«¾{°}zl","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"drizzle","SC22C!","223.3!","N","N"," "," ","dò±¿zì","MS",969
+"shower","SC22C!","223.3!","N","N"," "," ","åóµ«¼ºo|°","MS",969
+"April shower","SC22C!","223.3!","O","N"," "," ","åeº{°}pì$õóµ«¼ºoºw°«","MS",969
+"sprinkle","SC22C!","223.3!","N","Y"," ","SUG","spò±«{°}îkì","MS",969
+"drizzle","SC23A","224.1","N","N"," "," ","dò±«{°}z©İ{ì}","MS",970
+"shower","SC23A","224.1","N","N"," "," ","óá½º¹¼°","MS",970
+"sprinkle","SC23A","224.1","N","N"," "," ","spò±«{°}îk©İì","MS",970
+"drizzle","SC23B","224.2","N","N","""holds on, lasts longer¢"," ","ådò±«{°}z©","MS",971
+"mist","SC23B","224.2","N","N"," "," ","åm±«{°}st","MS",971
+"sprinkle","SC23B","224.2","N","N","about the same [as shower]"," ","spò±«{°}îk©","MS",971
+"shower","SC23B","224.2","N","N","about the same [as sprinkle]"," ","óá½o´«¾","MS",971
+"light shower","SC23B","224.2","O","N"," "," ","åla¾±¿t$åóá½ºw´«¾","MS",971
+"shower","SC23B","224.2","N","N","about the same [as sprinkle]","CNV","óá½ºow°«¾","MS",971
+"shower","SC23B","224.2","N","N","about the same [as sprinkle]","CNV","óá½ºow´«¾","MS",971
+"holds on lasts longer","SC23B","224.2","E","Y"," ","INA/SIC","åho¼º{°}ìz$õ·½º{°}n$ålá{°}st±¿¼z$õì·½{°}îr","MS",971
+"NR","SC23C","224.3"," ","N"," "," "," ","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"drizzle","SC24N","N225","N","N","slow and steady"," ","dò±«zì","MS",975
+"shower","SC24N","N225","N","N","short"," ","åóµ«ºo¼°","MS",975
+"sprinkle","SC24N","N225","N","N","very short"," ","spò±«{°}îkì","MS",975
+"steady rain","SC24A","225.1","O","N","""steady¢"," ","st¸ñ±¿$åreº{°}n","MS",976
+"steady","SC24A","225.1","A","Y"," ","INA","st¸d±¿","MS",976
+"drizzle","SC24B","225.11","N","N","= slow rain"," ","dò±¿«¼zl","MS",977
+"slow rain","SC24B","225.11","O","N","= drizzle"," ","åsÅo¼º$õreº{°}n","MS",977
+"light sprinkle","SC24B","225.11","O","N"," "," ","õlµ«¼±¿t$åspò±«{°}îkì","MS",977
+"good shower","SC24B","225.11","O","N"," "," ","õg¹¼{°}d$åóµºw°¼","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"drizzling","SC24D!","225.3!","V","N"," ","CNV","ådò±¿zl±¿¼n","MS",979
+"steady drizzle","SC25A","226.1","O","N"," "," ","st²¾d±¿«$dr±¾{°}zì","MS",980
+"drizzling","SC25A","226.1","V","N","misting"," ","dr±½¾zl±¿½n","MS",980
+"spitting","SC25A","226.1","V","N","bigger drops [than drizzle]"," ","sp±t±¿½n","MS",980
+"drizzle","SC25B","226.2","N","N","lasts longer"," ","ådò±«zl","MS",981
+"shower","SC25B","226.2","N","N"," "," ","óµ«ºw´«","MS",981
+"sprinkle","SC25B","226.2","N","N"," "," ","spr±¿îkl","MS",981
+"it drizzle all day long","SC25B","226.2","S","N"," "," ","±¿t$ådò±«zl$å·{°}l$õde«º$ål·½º{°}î","MS",981
+"sprinkle","SC25B","226.2","N","N"," "," ","åspr±¿îkl","MS",981
+"drizzle","SC25C!","226.3!","N","N"," "," ","ådò±¿zl","MS",982
+"light rain","SC25C!","226.3!","O","N"," "," ","ål¥½¼±¿t$õre«ºn","MS",982
+"shower","SC25C!","226.3!","N","N"," "," ","óµ«¼ºow°«","MS",982
+"shower","SC26A","227.1","N","N"," "," ","óa¾ºo|°«","MS",983
+"misting rain","SC26A","227.1","O","N"," "," ","åm±«stn–$õre«º{°}n","MS",983
+"set rain","SC26A","227.1","O","N"," "," ","ås²«tõòe«{°}n","MS",983
+"drizzles","SC26A","227.1","V","Y"," ","SUG","ådò±«zlz","MS",983
+"sprinkle","SC26A","227.1","N","N"," "," ","åspr±«îkl","MS",983
+"drizzling rain","SC26B!","227.2!","O","N"," "," ","ådò±¿zl±¿¼î$reº{°}n","MS",984
+"slow misting rain","SC26B!","227.2!","O","N"," "," ","åslo«$m±«{°}st±¿¼î$åreºn","MS",984
+"sprinkle","SC26B!","227.2!","N","N"," "," ","spr±¿¼îkl","MS",984
+"shower","SC26B!","227.2!","N","N"," "," ","óa«oº°İ","MS",984
+"drizzle","SC27A","228.1","N","N"," "," ","dr±¿zl","MS",985
+"drizzle","SC27A","228.1","N","N"," "," ","dò±¾z°l","MS",985
+"drizzle rain","SC27B","228.2","O","N"," "," ","ådò±¿zl$õreº{°}n","MS",986
+"steady rain","SC27B","228.2","O","N","""rainy day¢"," ","åst³«d±¿«¼$õreº{°}n","MS",986
+"shower","SC27B","228.2","N","N"," "," ","åóµ«¼ºo|°","MS",986
+"mist","SC27B","228.2","N","N"," "," ","åm±«{°}s","MS",986
+"rainy day","SC27B","228.2","O","Y"," ","INA","åreº{°}n±¿«¼$õde«","MS",986
+"sprinkle","SC27B","228.2","N","N"," "," ","spr±«îkl","MS",986
+"drizzle","SC28A","229.1","N","N","long and light"," ","dò±«zl","MS",987
+"sprinkle","SC28A","229.1","N","N","very short and light"," ","spr±«îk©","MS",987
+"shower","SC28A","229.1","N","N","short"," ","óa«ºw°«","MS",987
+"shower","SC28A","229.1","N","N","short"," ","óa—«ºw°«","MS",987
+"NA","SC28B","217.2"," ","N"," "," "," ","MS",988
+"drizzle","SC28C","229.2","N","N"," "," ","dò±«zì","MS",989
+"sprinkle","SC28C","229.2","N","N"," "," ","åspr±¿¼{°}îk©","MS",989
+"mist","SC28C","229.2","N","N"," "," ","m±«{°}st","MS",989
+"set rain","SC28C","229.2","O","N"," "," ","ås²«t$õre«ºn","MS",989
+"shower","SC28C","229.2","N","N"," "," ","åóá½ºow°","MS",989
+"shower","SC28D","229.3","N","N"," "," ","åóa«ºo°","MS",990
+"sprinkle","SC28D","229.3","N","N"," "," ","åspr±«îkl","MS",990
+"drizzle","SC28D","229.3","N","N"," "," ","ådò±«zì","MS",990
+"best rain","SC29A","230.2(*)","O","N","slow, not hard"," ","åb`²st$re«{°}n","MS",991
+"set rain","SC29A","230.2(*)","O","N","""it lasts a long time¢"," ","ås³t$õre«{°}","MS",991
+"light rain","SC29A","230.2(*)","O","N"," "," ","åla¾±¿t$õre«ºn","MS",991
+"it lasts a long time","SC29A","230.2(*)","S","Y"," ","INA","±¿¼t$lá{°}st±¿¼z$°$ål·º{°}î$õta«¾º{°}m","MS",991
+"light sprinkle","SC29A","230.2(*)","O","N","""didn't hardly lay the dust¢"," ","åla«¾±¿t$õspr±ş«îkì","MS",991
+"showers","SC29A","230.2(*)","N","Y","[{o}]: doubtful","FDT","åóa«º{o}|´z","MS",991
+"shower","SC29B","230.1(*)","N","N"," "," ","óá½ºow°","MS",992
+"drizzle","SC29C","230.3","N","N"," "," ","ådò±¿{°}zl","MS",993
+"showers","SC29C","230.3","N","N"," "," ","åóa«ºo{w}°«z","MS",993
+"sprinkle","SC29C","230.3","N","N"," "," ","spr‡±«{°}îkl","MS",993
+"shower","SC29D"," ","N","N"," "," ","óa«ºw°","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"steady drizzle","SC30A","231.1","O","N"," "," ","st¸«¼{°}d±¿$dr±{°}zì","MS",996
+"drizzling","SC30A","231.1","N","N"," "," ","ådr±{°}zl–±¿½n","MS",996
+"drizzle","SC30B","231.2","N","N"," "," ","dò±¿«¼zì","MS",997
+"drizzling weather","SC30B","231.2","O","N"," "," ","ådò±¿¼zl±¾n$õw²«ä°«¾","MS",997
+"gentle rain","SC30B","231.2","O","N"," "," ","ådú²«ntì$õre«º±¿n","MS",997
+"little rain","SC30B","231.2","O","N"," ","CNV","õl±tì$åre«º{±¿}n","MS",997
+"light shower","SC30B","231.2","O","N"," "," ","åla¾±¿t$õóa«¾º¹İw°«","MS",997
+"sprinkle","SC30B","231.2","N","N"," "," ","åspò±«îkì","MS",997
+"fly-by shower","SC30B","231.2","O","Y","Negroes","HRD","åfÅa«¾º{°}õba«¾º{°}$óa«¾ºw°«","MS",997
+"light shower","SC30B","231.2","O","N"," ","CNV","åla¾±¿t$õóa¾º¹","MS",997
+"drizzle","SC30C!","231.3!","N","N","slight but steady"," ","ådò±«z©{ì}","MS",998
+"drizzling rain","SC30C!","231.3!","O","N"," "," ","ådò±«¾zl±¿¼î$õreº{±¿}n","MS",998
+"light rain","SC30C!","231.3!","O","N"," "," ","åla¾±¿t$õreº{°}n","MS",998
+"steady rain","SC30C!","231.3!","O","N"," "," ","åst²«º{°}d±¿«¼$õreº{°}n","MS",998
+"shower","SC30C!","231.3!","N","N"," "," ","óa«¾ºw°¾","MS",998
+"sprinkle","SC30C!","231.3!","N","N"," "," ","spò±«îk©{ì}","MS",998
+"drizzle","SC31A","232.1","N","N"," "," ","dò±¿zì","MS",999
+"heavy dew","SC31A","232.1","O","N"," "," ","åh²«{°}v±¿«¼$õdju¿º","MS",999
+"set rain","SC31A","232.1","O","N","""made the grass grow¢"," ","ås²«t$õre«º{°}n","MS",999
+"steady rain","SC31A","232.1","O","N"," "," ","åst³«¾{°}d±¿«¼$õre«º{°}n","MS",999
+"grass shower","SC31A","232.1","O","N","opposed to thundershower"," ","ågráº{²}s$õóa«ºw°","MS",999
+"sprinkle","SC31A","232.1","N","N"," "," ","spr±«{°}îkì","MS",999
+"drizzle","SC31B","232.2","N","N","short and light"," ","ådòi½zì","MS",1000
+"slow rain","SC31B","232.2","O","N"," "," ","åslo¼º{¹¼}$åre«º±n","MS",1000
+"settled rain","SC31B","232.2","O","Y","""old people call it¢","HRD/OLD","ås²«¾tì$õre«º±n","MS",1000
+"shower","SC31B","232.2","N","N"," "," ","óµ«ºo´","MS",1000
+"drizzle","SC31B","232.2","N","N","short and light"," ","dòiºzì","MS",1000
+"drizzle","SC32A","233.1","N","N","less rain, but lasts longer"," ","ådòi½{°}zì","MS",1001
+"shower","SC32A","233.1","N","N"," "," ","åóá½ºow°«","MS",1001
+"light shower","SC32A","233.1","O","N"," "," ","åla¾±¿t$õóµ«¼ow°","MS",1001
+"sprinkle","SC32A","233.1","N","N"," "," ","åspò±«¾{°}îkì","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"drizzle","SC32C","233.3","N","N","steady"," ","dò±«¾{°}zì","MS",1003
+"shower","SC32C","233.3","N","N"," "," ","åóá½ºow°","MS",1003
+"drizzle","SC32D","233.4","N","N"," "," ","dò±«{°}zì","MS",1004
+"shower","SC32D","233.4","N","N"," "," ","óá½ºo¼w°«","MS",1004
+"sprinkle","SC32D","233.4","N","N"," "," ","åspò±¿îkì","MS",1004
+"sprinkle","SC32D","233.4","N","N"," "," ","spò±«{°}îkì","MS",1004
+"steady drizzle","SC33A","234.1","O","N"," "," ","åst¸«¼º{°}d±¿$dr±º{°}zì","MS",1005
+"drizzling","SC33A","234.1","V","N"," "," ","dr±º{°}sl±¿½n","MS",1005
+"drizzle","SC33B","234.2","N","N","can last"," ","dò±«{°}zì","MS",1006
+"drizzling","SC33B","234.2","V","N"," ","CNV","ådò±«¾{°}zì–±¾n","MS",1006
+"short rain","SC33B","234.2","o","N"," "," ","åó·½·t$õreº±¿¼n","MS",1006
+"shower","SC33B","234.2","N","N"," "," ","óá½ow°«","MS",1006
+"sprinkle","SC33B","234.2","N","Y"," ","HRD","spò±«¾{°}îkì","MS",1006
+"drizzle","SC34A","235.1","N","N"," "," ","dò±«{°}zì","MS",1007
+"shower","SC34A","235.1","N","N"," "," ","åóá«ºo¼w°¾","MS",1007
+"sprinkle","SC34A","235.1","N","N"," "," ","spò±«¾îkì","MS",1007
+"drizzle","SC34B","235.2","N","N","steadier than shower or sprinkle"," ","dò±¿zì","MS",1008
+"shower","SC34B","235.2","N","N","slow"," ","åóá½ºowe«¾","MS",1008
+"sprinkle","SC34B","235.2","N","N","lighter [than shower]"," ","spò±¿¼îkì","MS",1008
+"NA","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"drizzle","SC35A","236.1","N","N","""can rain all night¢"," ","dò±«{°}zì","MS",1010
+"shower","SC35A","236.1","N","N"," "," ","óáºo¼w°«","MS",1010
+"sprinkle","SC35A","236.1","N","N"," "," ","spò±¿îkì","MS",1010
+"shower","SC35A","236.1","N","N"," ","CNV","óá½ºo¼w°«","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"drizzly","SC35C","236.3(*)","A","N"," "," ","dò±zl±¿«","MS",1012
+"steady rain","SC35C","236.3(*)","O","N"," "," ","åst¸«¼d±¿$õreº{±¿}n","MS",1012
+"slow rain","SC35C","236.3(*)","O","N"," "," ","åslo{¹}$õreş{±¿ş}n","MS",1012
+"shower","SC35C","236.3(*)","N","N"," "," ","óa«{¹}w°","MS",1012
+"shower of rain","SC35C","236.3(*)","O","N"," "," ","åóa«{¹}w°$°$õre{±¿}n","MS",1012
+"little showers","SC35C","236.3(*)","O","N"," "," ","ål±¾{ç}ì$õóa¾¹w°½z","MS",1012
+"drizzle","SC35D"," ","N","N"," "," ","dò±«{°}zì","MS",1013
+"sprinkle","SC35D"," ","N","N"," "," ","spò±«{°}îk©{ì}","MS",1013
+"shower","SC35D"," ","N","N"," "," ","åóá«o¼w´«¾","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"showers","SC36A","237.1","N","N"," ","CNV","óµ«º¹´«¾z","MS",1015
+"shower","SC36A","237.1","N","N"," ","CNV","åóµ«¼ºw´«¾","MS",1015
+"sprinkle","SC36A","237.1","N","N"," ","CNV","åspò±«îkì","MS",1015
+"drizzle","SC36B","237.2","N","Y"," ","SUG","dò±«¾zì","MS",1016
+"drizzly day","SC36B","237.2","O","N"," "," ","ådò±«¾zl±¿«¼$õdeº±¿«¼","MS",1016
+"shower","SC36B","237.2","N","N"," ","CNV","åóµ«º¹{w}´«","MS",1016
+"sprinkle","SC36B","237.2","N","N"," "," ","åspò±¿¼îk©{ì}","MS",1016
+"little shower","SC36C","237.3","O","N"," ","CNV","l±¾tì$åóa«¾ºw°½¾","MS",1017
+"three days drizzle","SC36C","237.3","O","N"," ","CNV","åùñiº$õde«{±¿}z$ådò±¿¼zì","MS",1017
+"shower","SC36C","237.3","N","N"," "," ","óµ«º¹¼´«¾","MS",1017
+"sprinkle","SC36C","237.3","N","N"," "," ","åspò±«îkì","MS",1017
+"shower","SC36C","237.3","N","N"," "," ","åóµºw´«¾","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"drizzle","SC37","238","N","N"," "," ","dò±z°«ì","MS",1019
+"drizzle","SC38N","N239","N","N","""steady¢; ""faster than a mist¢"," ","dò±¿«¼z©l","MS",1020
+"fine mist","SC38N","N239","O","N"," "," ","åfa«¾º{°}n$õm±st°","MS",1020
+"steady","SC38N","N239","A","Y"," ","INA/CNV","st³«¼d±¿«¼","MS",1020
+"shower","SC38N","N239","N","N"," "," ","óa¾º¹|°","MS",1020
+"sprinkle shower","SC38N","N239","O","N"," "," ","åspò±¿«¼îk©$õóa¾º¹w°«¾","MS",1020
+"sprinkle","SC38N","N239","N","N"," "," ","spò±«îk©l","MS",1020
+"slow shower","SC38N","N239","O","N"," "," ","åsÅoº¹$õóa¾º¹w°«","MS",1020
+"shower","SC38N","N239","N","N"," "," ","åóa«¾º¹|°","MS",1020
+"steady rain","SC38A","239.1","O","N"," "," ","åst³«d±¿«¼$õreº{±}n","MS",1021
+"a drizzle ain't nothing much","SC38A","239.1","S","N"," "," ","°$ådòi½zì$õeşº±ş{n}t$ån¦½ù—±¾n$õm¦½tó","MS",1021
+"light rains is a heap better on the crops","SC38A","239.1","S","Y"," ","INA/RN1","åla«¾±¿t$õreº{±}nz$±¿¼z$°$åhiºjp","MS",1021
+" ","SC38A","239.1"," "," "," ","RN2","õb²«t°$·¼on$ä±¿¼$k`ò‡Şps","MS",1021
+"shower","SC38A","239.1","N","N","medium"," ","óa¾º¹w°","MS",1021
+"sprinkle","SC38A","239.1","N","N","light)"," ","spò‡i½îk©{ì}","MS",1021
+"steady drizzle","SC38B","239.2","O","N"," "," ","åst²«¾d±¿«¼$õdò±¿«¼z©{ì}","MS",1022
+"drizzle","SC38B","239.2","N","N"," "," ","dò±¿«zl","MS",1022
+"drizzle drazzle","SC38B","239.2","O","N"," "," ","ådò±¿«zì$õdò¶«·zì","MS",1022
+"shower","SC38B","239.2","N","N","short"," ","óa«¾º¹w°«","MS",1022
+"sprinkle","SC38B","239.2","N","N","lighter [than shower]"," ","spò±«îkì","MS",1022
+"NA","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"drizzle","SC38D!","239.4(*)!","N","N"," "," ","dò±«z©{ì}","MS",1024
+"drizzling","SC38D!","239.4(*)!","V","N","""steadily¢"," ","dò±«zl±¾n","MS",1024
+"steadily","SC38D!","239.4(*)!","A","Y"," ","INA","åst²«d±¿İ¼l±¿«¼","MS",1024
+"shower","SC38D!","239.4(*)!","N","N"," ","CNV","åóa«¾¹w°¾","MS",1024
+"drizzle","SC38D!","239.4(*)!","N","N"," "," ","dò±«z©ì","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"light rain","SC39A","240.1","O","N"," "," ","åla«¾±¿t$õre«º{±¿}n","MS",1026
+"drizzly","SC39A","240.1","A","N"," "," ","ådò±«zì–±¿«¼","MS",1026
+"drazzly","SC39A","240.1","A","N"," "," ","dòŞzì–±¿«¼","MS",1026
+"drizzle all day","SC39A","240.1","E","Y","[{±¿}]: doubtful","FDT","ådò±«zì$õ¶«·ì$ådeº{±¿}","MS",1026
+"shower","SC39A","240.1","N","N"," "," ","óa«¾ºw°«","MS",1026
+"cotton shower","SC39A","240.1","O","N"," "," ","åk`Ş¼'tn$õóa«¾ºw°«¾","MS",1026
+"sprinkle","SC39A","240.1","N","N","""settle the dust¢"," ","spò±«îk©{ì}","MS",1026
+"settle the dust","SC39A","240.1","E","Y"," ","INA","ås²«tì$ä°$åd¦½st","MS",1026
+"misting rain","SC39A","240.1","O","N"," "," ","m±«stn$reº{±¿}n","MS",1026
+"gentle drizzle drazzle","SC39B!","240.2!","O","N"," "," ","dú²«ntì$ådò±«zì$õdòŞ½¾zì","MS",1027
+"shower","SC39B!","240.2!","N","N"," "," ","åóa«¾º¹°İ","MS",1027
+"cotton shower","SC39B!","240.2!","O","N"," "," ","åk`Ş'tn$õóa¾ºw°«","MS",1027
+"sprinkle","SC39B!","240.2!","N","N"," "," ","spò±¿¼îk©","MS",1027
+"sprinkled a little","SC39B!","240.2!","E","N"," "," ","spò±«îkìd$°$l±«tì","MS",1027
+"shower","SC39B!","240.2!","N","N"," ","CNV","óa¾ºw°«","MS",1027
+"steady drizzle","SC40A","241.1","O","N"," ","SIC","åst¦½d±¿«¼$ådò±«z¦{ì}","MS",1028
+"drizzle","SC40A","241.1","N","N"," "," ","ådò±«¾z¦ì","MS",1028
+"sprinkling","SC40A","241.1","V","N"," "," ","spr—±½îkl±¾n","MS",1028
+"dust layer","SC40A","241.1","O","Y"," ","INA/CNV","d¸«s$leº|°","MS",1028
+"drizzle","SC40A","241.1","N","N"," "," ","dò±«z¦{ì}","MS",1028
+"drizzling","SC40A","241.1","V","N"," "," ","dò±«zl±¾n","MS",1028
+"sprinkle","SC40A","241.1","N","N"," "," ","åspr±«îk°İì","MS",1028
+"steady drizzle","SC40B","241.2","O","N"," "," ","åst²«{±¿}d±¿¼$ådò±«zì","MS",1029
+"drizzle","SC40B","241.2","N","N"," "," ","dò±«zì","MS",1029
+"sprinkle","SC40B","241.2","N","N"," "," ","åspr±«îk¦İ","MS",1029
+"shower","SC40B","241.2","N","N","a little rain"," ","åóµ«ow°İ«¾","MS",1029
+"shower","SC40B","241.2","N","N","a little rain"," ","óµ«¼º{¹}w°«","MS",1029
+"drizzle","SC40B","241.2","N","N"," "," ","ådr±«z¦","MS",1029
+"steady drizzle","SC41A","242.1","O","N"," "," ","st¸—«¼{°}d±¿$dr±º{°}zì","MS",1030
+"drizzling","SC41A","242.1","V","N"," "," ","dr±zl±¿½n","MS",1030
+"steady drizzle","SC41B","242.2","O","Y","[{ì}]: doubtful","FDT","åst²«¾d±¿«¼$dò±«z¦{ì}","MS",1031
+"drizzle","SC41B","242.2","N","N","could last"," ","ådò±«¾zì","MS",1031
+"sprinkle","SC41B","242.2","N","Y","very light; [{ì}]: doubtful","FDT","spr±«îk¦{ì}","MS",1031
+"common rain","SC41B","242.2","O","N"," "," ","åk`µºm°şn$õre«ºi¿”¼n","MS",1031
+"shower","SC41B","242.2","O","N","lasts a little while"," ","óµ«ow°¾","MS",1031
+"steady drizzle","SC42N","N243","O","N"," "," ","st²«d±¿«¼$ådò±«z¦","MS",1032
+"drizzling","SC42N","N243","V","N"," "," ","ådò±—«zl±¾n","MS",1032
+"misting rain","SC42N","N243","O","N"," "," ","m±«st±¾n$reş«ºi¿ş¼n","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"steady slow rain","SC42A","243.1","O","N","best for crops"," ","åst¸«¼d±$slo¼º¹$ri½i¿¼n","MS",1034
+"light rain","SC42A","243.1","O","N"," ","CNV","åla«ºt$õri½in","MS",1034
+"drizzle","SC42A","243.1","N","N"," ","CNV","ådò—±—«¾zì","MS",1034
+"drizzle","SC42B!","243.2!","N","N"," "," ","dò±¿zì","MS",1035
+"steady misty rain","SC42B!","243.2!","O","N"," "," ","åst²«º{±¿}d±¿«¼$åm±«¾st±¿«¼$åreº±¾n","MS",1035
+"sprinkle","SC42B!","243.2!","N","N"," ","CNV","spò±«îk©","MS",1035
+"steady drizzle","SC42C!","243.3!","O","N"," "," ","åst²{±¿}d±¿İ$õdò±zì","MS",1036
+"drizzle drazzle","SC42C!","243.3!","O","N"," "," ","ådò±¾zì$õdòa«zì","MS",1036
+"ground soakers","SC42C!","243.3!","O","N"," "," ","ågrá¹n$õso¼º¹k°İz","MS",1036
+"rainy spell","SC42C!","243.3!","O","N"," "," ","åre{±¿}n±¿$sp²ì","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"drizzle","SC42E!","243.5!","N","N"," "," ","ådò±z°¾ì","MS",1038
+"drizzling","SC42E!","243.5!","V","N"," "," ","ådò±zl±¿¼î","MS",1038
+"shower","SC42E!","243.5!","N","N"," "," ","åóa«¾º¹¼{w}°","MS",1038
+"sprinkle","SC42E!","243.5!","N","N"," "," ","spr±îk°«ì","MS",1038
+"sprinkle","SC43A","244.1","N","N"," ","CNV","spr±«îk¦{ì}","MS",1039
+"drizzle","SC43B","244.2","N","N"," "," ","dò±—«¾zì","MS",1040
+"sprinkle","SC43B","244.2","N","N"," "," ","spr—±ş«{î}k¦ş","MS",1040
+"sprinkle rain","SC43B","244.2","O","N"," "," ","spr—±İ«îk¦{ì}$reş«º{i¿”ş}","MS",1040
+"shower","SC43B","244.2","N","N"," ","CNV","åóa«¾ºow°","MS",1040
+"shower","SC43B","244.2","N","N"," "," ","óa«¾º´","MS",1040
+"drizzle","SC43C","244.3","N","N"," "," ","dò±½zì","MS",1041
+"drizzling along","SC43C","244.3","E","N"," "," ","dò±ºzì±¾n$°ål¶«o½î","MS",1041
+"light rain","SC43C","244.3","O","N"," "," ","åla¾±¿t$õreş«º{n}","MS",1041
+"sprinkle","SC43C","244.3","N","N","dash of rain"," ","spr±«îk¦İì","MS",1041
+"drizzle","SC43C","244.3","N","N"," "," ","ådò±«z¦İ{ì}","MS",1041
+"shower","SC43C","244.3","N","N","moderate"," ","åóa¾w°","MS",1041
+"shower","SC43C","244.3","N","N","moderate"," ","åóa¾ºw°İ","MS",1041
+"steady drizzle","SC44A","245.1","O","N"," "," ","åst¸«¼d±¿«¼$ådò±«zì","MS",1042
+"drizzle","SC44A","245.1","N","N","lasts longer than a sprinkle"," ","ådò±«zì","MS",1042
+"shower","SC44A","245.1","N","N"," "," ","óµ«¼ºow°¾","MS",1042
+"light shower","SC44A","245.1","O","N"," "," ","lµ«¼±¿t$óa¾o°","MS",1042
+"sprinkle","SC44A","245.1","N","N"," "," ","åspr±ş½k¦","MS",1042
+"shower","SC44A","245.1","N","N"," ","CNV","óµ«¼ºow°İ«¼","MS",1042
+"steady","SC44A","245.1","A","Y"," ","INA","st¸«d±¿«¼","MS",1042
+"drizzle","SC44A","245.1","N","N","lasts longer than a sprinkle"," ","ådò±«¾zì","MS",1042
+"good rain","SC44A","245.1","O","N","less than a heavy rain or gully washer"," ","åg¹«¼d$õreº{i¿”}n","MS",1042
+"soaking rain","SC44A","245.1","O","N","less than a heavy rain or gully washer"," ","åso¼º¹¼k±¾n$õre«º{i¿”}n","MS",1042
+"sprinkling","SC44B","245.2","V","N"," ","CNV","åspr—±«îkl±¾n","MS",1043
+"drizzle","GA1N","N246","N","N"," "," ","dò±¾zl","MS",1044
+"drizzle","GA1A","246.1(*)","N","N"," "," ","dò±«zì","MS",1045
+"NR","GA1B","246.11"," ","N"," "," "," ","MS",1046
+"drizzly","GA1C","246.2","A","N"," "," ","ådò±¿zì±¿«¼","MS",1047
+"it drizzled","GA1C","246.2","S","N"," "," ","±¿¼t$ådò±¿¼zìd","MS",1047
+"drizzling","GA1D","246.3","V","N"," ","CNV","ådò±¾zl±¾î","MS",1048
+"drizzle","GA1E","246.4","N","N"," "," ","dò±«zì","MS",1049
+"shower","GA1E","246.4","N","N"," "," ","óa¾ºw°","MS",1049
+"sprinkle","GA1E","246.4","N","N"," "," ","spò±¿îkl","MS",1049
+"steady drizzle","GA1F!","246.5!","O","N"," "," ","st²½d±¿$dr±½¾zl","MS",1050
+"drizzling","GA1F!","246.5!","V","N"," "," ","dr±½¾zl–±¿½n","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"steady drizzle","GA1H!","246.7!","O","N"," "," ","st²d±¿«¼{i¿}$dò±«¾zl","MS",1052
+"slow drizzle","GA1H!","246.7!","O","N"," "," ","åslo½¼º¹$ådò±«¾zl","MS",1052
+"drizzle","GA1H!","246.7!","N","N"," "," ","ådò±«¾zl","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"drizzle","GA2A","247.1","N","N"," "," ","dò±«zì","MS",1054
+"light shower","GA2A","247.1","O","N"," "," ","ålµ«¼±¿t$õóµº¹w´«¾","MS",1054
+"drizzle","GA2B","247.2","N","N","long"," ","dò±«¾zì","MS",1055
+"heavy dew","GA2B","247.2","O","N"," "," ","åh²º{°}v±¿«¼$õdju¿¼º","MS",1055
+"shower","GA2B","247.2","N","N"," "," ","óµ«º¹w´","MS",1055
+"sprinkle","GA2B","247.2","N","N","short and light"," ","spò±¾îkl","MS",1055
+"steady drizzle","GA3A","248.1","O","N"," "," ","st²½d±¿$dò±zl","MS",1056
+"drizzling","GA3A","248.1","V","N"," "," ","dò±½¾zl±¿î","MS",1056
+"drizzle","GA3B","248.2","N","N"," "," ","dòi½zl","MS",1057
+"shower","GA3B","248.2","N","N","""a little rain¢"," ","óá«ºow°","MS",1057
+"sprinkle","GA3B","248.2","N","N"," "," ","spr±«îkl","MS",1057
+"little rain","GA3B","248.2","O","N"," "," ","ål±«tl$õre«ºn","MS",1057
+"steady drizzle","GA4N","N249","O","N"," "," ","st¸½d±¿$dr±zl","MS",1058
+"drizzling","GA4N","N249","V","N"," "," ","dr±zl±¿½n","MS",1058
+"drizzle","GA4A","249.1","N","N"," "," ","dò±¿zl","MS",1059
+"mist","GA4A","249.1","N","N"," "," ","m±¿¼st","MS",1059
+"shower","GA4A","249.1","N","N","""might be hard¢"," ","óµ«ºow°«","MS",1059
+"shower","GA4A","249.1","N","N","""might be hard¢","CNV","óµ«¼º°—","MS",1059
+"shower","GA4A","249.1","N","N","""might be hard¢"," ","óµ«ºo|°","MS",1059
+"shower","GA4A","249.1","N","N","""might be hard¢","CNV","óµ«ºo|°İ","MS",1059
+"mist","GA4B","249.2","N","N","very light; ""rabbit dew¢"," ","m±¿st","MS",1060
+"rabbit dew","GA4B","249.2","O","N"," "," ","årá½{°}b±¿'t$õd±¿«¼ºu¿","MS",1060
+"shower","GA4B","249.2","N","N"," "," ","åóµ«ºo|°","MS",1060
+"drizzle","GA4C!","249.3!","N","N"," "," ","dò±¿zl","MS",1061
+"shower","GA4C!","249.3!","N","N"," "," ","åóµ«¼º°—|°½","MS",1061
+"sprinkled","GA4C!","249.3!","V","N","(a few minutes"," ","spr±¾îkld","MS",1061
+"drizzle","GA4C!","249.3!","N","N"," "," ","dò±¿¼z©{l}","MS",1061
+"drizzle","GA5A","250.1","N","N","light but lasts"," ","dò±¿½zl","MS",1062
+"shower","GA5A","250.1","N","N"," "," ","óµºo|°","MS",1062
+"sprinkle","GA5A","250.1","N","N"," "," ","spr±«{°}îkl","MS",1062
+"NA","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"drizzle","GA5C","250.3","N","N","= sprinkle"," ","dò±¿«zl","MS",1064
+"summer showers","GA5C","250.3","O","N","with a squall"," ","ås¸«m°$õóµ«¼ºow°İ«z","MS",1064
+"sprinkle","GA5C","250.3","N","N","= drizzle"," ","spr±«¾{°}îkl","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"drizzle","GA5E!","250.5!","N","N","light, keeps going"," ","dò±«¾zl","MS",1066
+"drizzly","GA5E!","250.5!","A","N"," "," ","dò±¿¼zl±¿«¼","MS",1066
+"shower","GA5E!","250.5!","N","N"," "," ","åóµ«ºo|°","MS",1066
+"sprinkle","GA5E!","250.5!","N","N","light and quits"," ","åspr±«{°}îkl","MS",1066
+"drizzle","GA6A","251.1","N","Y","slower than a shower","SUG","dò±¿zl","MS",1067
+"shower","GA6A","251.1","N","N"," "," ","óµ«¼ºw°","MS",1067
+"mist","GA6A","251.1","N","N","very light; lasts longer [than shower]"," ","m±«¾{°}st","MS",1067
+"light shower","GA6B!","251.2!","O","N"," "," ","l°±¿t$åóµ«¼ºow°¾","MS",1068
+"light showers","GA6B!","251.2!","O","N"," "," ","l°±¿t$åóµ«¼ºw°¾z","MS",1068
+"sprinkle","GA6B!","251.2!","N","N","may last long"," ","spr±«{°}îkl","MS",1068
+"drizzle","GA7","256","N","N","""steady¢"," ","dò±«¾{°}zl","MS",1069
+"misting rain","GA7","256","O","N","""just steady¢"," ","åm±«{°}st±¿¼n$õreº{±¿}n","MS",1069
+"steady","GA7","256","A","Y"," ","INA","st³«{°}d±¿«¼","MS",1069
+"just steady","GA7","256","K","Y"," ","INA","dú³«{°}s$åst³«{°}d±¿«¼","MS",1069
+"summer shower","GA7","256","O","N"," "," ","ås¦¼{°}m°$õóá½ºw°«¾","MS",1069
+"sprinkle","GA7","256","N","N"," "," ","spò±«¾{°}îkl","MS",1069
+"drizzle","GA8A","257.1","N","N","steady, longer than a shower"," ","dò±«zl","MS",1070
+"shower","GA8A","257.1","N","N"," "," ","óa«¾º°—|°½","MS",1070
+"drizzles","GA8B","257.2","V","N"," "," ","ådò±«z©z","MS",1071
+"mist","GA8B","257.2","N","N"," "," ","m±«{°}s","MS",1071
+"shower","GA8B","257.2","N","N"," "," ","óµ«ºo|°«","MS",1071
+"fodder showers","GA8B","257.2","O","N"," "," ","åfŞ—d°«$õóa«¾º°—|°z","MS",1071
+"sprinkle","GA8B","257.2","N","Y"," ","SUG","spr±«{°}îk©","MS",1071
+"NR","GA9A","257A.1"," ","N"," "," "," ","MS",1072
+"drizzles","GA9B","257A.2","V","N"," "," ","dò±¾zìz","MS",1073
+"shower","GA9B","257A.2","N","N"," "," ","óa«¹{w}°","MS",1073
+"steady drizzle","GA10A","258.1","O","N"," "," ","õst²{°}d±¿$ådr±{°}zl","MS",1074
+"drizzling","GA10A","258.1","V","N"," "," ","ådr±¿zl±¿î","MS",1074
+"drizzle","GA10B","258.2","N","N","""steady¢"," ","dò±«zl","MS",1075
+"drizzly rain","GA10B","258.2","O","N","barely comes down"," ","ådò±«zl±¿«¼$õre«º{°}n","MS",1075
+"steady","GA10B","258.2","A","Y"," ","INA/CNV","st³«d±¿«¼","MS",1075
+"shower","GA10B","258.2","N","N"," "," ","åóµ«¼ºo|°","MS",1075
+"little splatter","GA10B","258.2","O","N"," "," ","õl±«tl$åsplát°«","MS",1075
+"drizzle","GA11N","N258A","N","N"," "," ","dò±¾zl","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"drizzle","GA12B!","259.2(.3)","N","N","when it's cloudy, just beyond a fog"," ","dò±¿¼zl","MS",1078
+"mist","GA12B!","259.2(.3)","N","N","more like a sprinkle, and assoc. w. sunshine"," ","m±º{°}st","MS",1078
+"shower","GA12B!","259.2(.3)","N","N"," "," ","óa«¹{w}°","MS",1078
+"devil's beating his wife","GA12B!","259.2(.3)","S","Y"," ","INA","d²vìz$biº'tn$h±¿z$wa«¾±¿f","MS",1078
+"sprinkle","GA12B!","259.2(.3)","N","N"," ","CNV","spr±¿îk°«l","MS",1078
+"fodder shower","GA12B!","259.2(.3)","O","N"," "," ","åfµd°$õóa«¹°","MS",1078
+"mist","GA12B!","259.2(.3)","N","N","more like a sprinkle, and assoc. w. sunshine"," ","m±º{°}s","MS",1078
+"light sprinkle","GA12B!","259.2(.3)","O","N"," "," ","åla½¾º±¿$õspr±îk°«l","MS",1078
+"steady drizzle","GA13A","260.1","O","N"," "," ","st²d±¿$dr±¿½¾{°}zl","MS",1079
+"drizzling","GA13A","260.1","V","N"," "," ","dr±¿½¾zl±¿î","MS",1079
+"drizzle","GA13B!","260.2!","N","N"," "," ","dò±¿¼zl","MS",1080
+"shower","GA13B!","260.2!","N","N"," "," ","åóa«¾oİ|°İ","MS",1080
+"light rain","GA13B!","260.2!","O","N"," "," ","åla«¾±¿t$õre«º{±¿}n","MS",1080
+"sprinkle","GA13B!","260.2!","N","N","very short","CNV","spri½îkl","MS",1080
+"drizzle","GA13B!","260.2!","N","N"," "," ","dò±¿zl","MS",1080
+"drizzly weather","GA14A","261.1","O","N"," "," ","ådò±¿zl±¿«¼$õw²«{°}ä°","MS",1081
+"shower","GA14A","261.1","N","N"," "," ","óa«¾º¹|°","MS",1081
+"sprinkle","GA14A","261.1","N","N"," "," ","spò±«îkì","MS",1081
+"misting rain","GA14B","261.3","O","Y"," ","HRD","åm±«st±¾n$õreº{±¿}n","MS",1082
+"shower","GA14B","261.3","N","N","= ""good rain¢"," ","óµ«ºw°«","MS",1082
+"sprinkling rain","GA14B","261.3","O","N"," "," ","åspò±«îkl±¾n$õreº{±¿}n","MS",1082
+"good rain","GA14B","261.3","O","N"," "," ","åg¹¼d$õreº{±¿}n","MS",1082
+"good thick rain","GA14B","261.3","O","N"," "," ","õg¹¼{°}d$åù±«k$õreº{±¿}n","MS",1082
+"sprinkle","GA14B","261.3","N","N","less"," ","spò±«¾îk©{l}","MS",1082
+"drizzle","GA14B","261.3","N","N","lighter than a shower"," ","dò±¿«¼zì","MS",1082
+"drizzling rain","GA14B","261.3","O","N"," "," ","ådò±¿zl±¾n$õreº{±¿}n","MS",1082
+"sprinkle","GA14B","261.3","N","N"," "," ","spò±«îk©","MS",1082
+"drizzle","GA14C","261.2","N","N","more like a ""dew¢"," ","dò±¿¼zì","MS",1083
+"heavy dew","GA14C","261.2","O","N"," "," ","õh²«{°}v±¿«¼$ådju¿¼ºu","MS",1083
+"shower","GA14C","261.2","N","N"," "," ","åóa«¾ºo¼w´","MS",1083
+"rainy day","GA14C","261.2","O","N"," "," ","åreº{±¿}n±¿«¼$õdeº{±¿}","MS",1083
+"steady drizzle","GA15A","262.1","O","N"," "," ","õst²d±¿$ådr±º{°}zì","MS",1084
+"drizzling","GA15A","262.1","V","N"," "," ","dr±º{°}zl±¿İn","MS",1084
+"drizzle","GA15B","262.2","N","N"," "," ","dò±¿zl","MS",1085
+"shower","GA15B","262.2","N","N"," "," ","óá½ºo|°","MS",1085
+"sprinkle","GA15B","262.2","N","N","a few minutes"," ","spr±«îkl","MS",1085
+"drizzle","GA16A","263.2","N","N"," "," ","dò±¿¼zl","MS",1086
+"shower","GA16A","263.2","N","N"," "," ","åóá½ºo{w}°","MS",1086
+"sprinkle","GA16A","263.2","N","N"," "," ","spr±«îkì","MS",1086
+"steady drizzle","GA16B","263.1","O","N"," ","CNV","åst²«{°}d±¿«¼$õdò±«zl","MS",1087
+"drizzle","GA16B","263.1","N","N"," "," ","dò±¿½¼zl","MS",1087
+"shower","GA16B","263.1","N","N"," "," ","óa«ºow°«","MS",1087
+"shower","GA16B","263.1","N","N"," "," ","óá½ºow°«","MS",1087
+"drizzle","GA16C","263.21","N","N"," "," ","dò±¾z°«ì","MS",1088
+"shower","GA16C","263.21","N","N"," "," ","óa«¹°«","MS",1088
+"drizzle","GA16D!","263.3!","N","N"," "," ","dò±¿¾zì","MS",1089
+"steady stream","GA16D!","263.3!","O","N"," ","CNV","åst²«{°}d±¿«¼$õstòiº{±¿}m","MS",1089
+"shower","GA16D!","263.3!","N","N"," "," ","óµ«¼ºow°«","MS",1089
+"sprinkle","GA16D!","263.3!","N","N"," "," ","spr±«{°}îkì","MS",1089
+"drizzly","GA17N","N264","A","N"," "," ","dò±¾zl±¿«¾","MS",1090
+"misting rain","GA17N","N264","O","N"," "," ","õm±st±¿n$åre{±¿}n","MS",1090
+"drizzle","GA17","264","N","N"," "," ","dò±¾z‘l","MS",1091
+"shower","GA17","264","N","N"," "," ","óa«¹°","MS",1091
+"shower","GA18A","264A.1","N","N","light"," ","åóa«¹w°","MS",1092
+"drizzle","GA18B","264A.2","N","N"," "," ","dò±zì","MS",1093
+"drizzling","GA18B","264A.2","V","N"," "," ","dò±zl±¿¼î","MS",1093
+"mist","GA18B","264A.2","N","N"," "," ","m±st","MS",1093
+"shower","GA18B","264A.2","N","N"," "," ","óa«w°","MS",1093
+"light shower","GA18B","264A.2","O","N"," "," ","åla«¾ºt$óa«w°","MS",1093
+"drizzle","GA19A","265.1","N","Y","""lasts¢","AUX2","ådò±«¾{°}zl","MS",1094
+"lasts","GA19A","265.1","V","Y"," ","AUX2/INA","lá{°}st±¿z","MS",1094
+"shower","GA19A","265.1","N","Y"," ","AUX2","óá«ºw´","MS",1094
+"drizzle","GA19B","265.2","N","N"," "," ","dò±«¾{°}zl","MS",1095
+"mist","GA19B","265.2","N","N"," "," ","m±«¾{°}st","MS",1095
+"shower","GA19B","265.2","N","N"," "," ","óá«ºw°«","MS",1095
+"little drizzle","GA20A","266.1","O","N","all night"," ","õl±«tl$ådò±«{°}zl","MS",1096
+"slow rain","GA20A","266.1","O","N"," "," ","åslo¼º{¹¼}$õreº{±¿}n","MS",1096
+"shower","GA20A","266.1","N","N"," "," ","óa«¾º´—","MS",1096
+"sprinkle","GA20A","266.1","N","N"," "," ","spr±«{°}îkl","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"drizzle","GA21A","267.1","N","N","not enough to run, or keep you out of;","RN1","dò±¾z—ì","MS",1098
+"drizzle of rain","GA21A","267.1","O","N"," "," ","ådò±¾z—ì$°v°$åre{±¿}n","MS",1098
+" ","GA21A","267.1"," "," ","""it's steady¢","RN2"," ","MS",1098
+"it's steady","GA21A","267.1","S","Y"," ","INA","h±ts$st²d±¿«","MS",1098
+"mist of rain","GA21A","267.1","O","N","a little bit of rain a-falling"," ","åm±st$°«v$õre{±¿}n","MS",1098
+"light shower","GA21A","267.1","O","N"," "," ","õla«¾±¿t$åóa«¹w±¿½","MS",1098
+"sprinkling","GA21A","267.1","V","N"," "," ","spr±îkl±¿¼n","MS",1098
+"rainy day","GA21A","267.1","O","N"," "," ","õre{±¿}n±¿$åde{±¿}","MS",1098
+"shower","GA21A","267.1","N","N"," "," ","óa«¹{w}°","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"drizzle","GA22A","268A.1","N","N"," "," ","dò±¾z°«ì","MS",1100
+"shower","GA22A","268A.1","N","N"," "," ","óa«º¹°","MS",1100
+"drizzle","GA22B","268A.2","N","N","steady"," ","dò±¾zì","MS",1101
+"shower","GA22B","268A.2","N","N"," "," ","åóa«¾ºo|°","MS",1101
+"sprinkle","GA22B","268A.2","N","N"," "," ","spr±«îkl","MS",1101
+"shower","GA23A","268.1","N","N"," ","CNV","óa¾ºw°","MS",1102
+"sprinkling","GA23B","268.11","V","N"," "," ","spr±îkl±¿n","MS",1103
+"shower","GA23C","268.2","N","N"," "," ","óa«¹w°","MS",1104
+"sprinkle","GA23C","268.2","N","N"," "," ","spr±¾îkl","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"drizzle","GA23E!","268.4!","N","N"," "," ","dò±¿zì","MS",1106
+"steady","GA23E!","268.4!","A","Y"," ","INA","st²d±¿«","MS",1106
+"mist","GA23E!","268.4!","N","N"," "," ","m±st","MS",1106
+"sprinkle","GA23E!","268.4!","N","N","not ""steady¢"," ","spr±îk°ì","MS",1106
+"shower","GA23F!","268.5!","N","N"," "," ","óa«¹{w}°","MS",1107
+"shower","GA23F!","268.5!","N","N"," "," ","åóa«{¹}w°","MS",1107
+"drizzle","GA24N","N269","N","N"," "," ","dò±¾z°l","MS",1108
+"steady drizzle","GA24A","269.1","O","N"," "," ","st¸«¼{°}d±¿$dr±{°}zì","MS",1109
+"drizzling","GA24A","269.1","V","N"," "," ","dr±{°}zl–±¿½n","MS",1109
+"drizzle","GA24B","269.2","N","N","long"," ","dò±«zl","MS",1110
+"light rain","GA24B","269.2","O","N"," "," ","ålµ«¾±¿t$õreº{±¿}n","MS",1110
+"shower","GA24B","269.2","N","N"," "," ","óá½ow°","MS",1110
+"sprinkle","GA24B","269.2","N","N","5-10 minutes"," ","spr±«îkl","MS",1110
+"sprinkling","GA25N","N269A","V","N"," "," ","spr±îkl±¿n","MS",1111
+"drizzle","GA26","270A","N","N"," "," ","dò±zì","MS",1112
+"drizzling rain","GA26","270A","O","N"," ","CNV","ådò±zì±¿n$õre{±¿}n","MS",1112
+"light rain","GA26","270A","O","N"," "," ","åla¾±¿t$õre{±¿}n","MS",1112
+"drizzle","GA27!","270!","N","N"," "," ","dò±¾zì","MS",1113
+"mist","GA27!","270!","N","N"," "," ","m±{°}st","MS",1113
+"sprinkle","GA27!","270!","N","N"," "," ","spr±îk°l","MS",1113
+"drizzling","GA28","271a","V","N"," "," ","dò±¾zì–±n","MS",1114
+"drizzle","GA29A","271.1","N","N","""enough to keep you in the house¢"," ","dò±¿¼zl","MS",1115
+"shower","GA29A","271.1","N","N"," "," ","ó µ«¼ºow°","MS",1115
+"sprinkle","GA29A","271.1","N","N"," "," ","spr±«¾îkl","MS",1115
+"drizzle","GA29B","271.2","N","N","long and light"," ","dò±«¾zl","MS",1116
+"drizzly","GA29B","271.2","A","N"," "," ","dò±ºzl±¿«¼","MS",1116
+"hasty shower","GA29B","271.2","O","N"," "," ","åhe«º{±¿}st±¿«¼$óa«ºw°","MS",1116
+"sprinkle","GA29B","271.2","N","N"," "," ","spr±«îkl","MS",1116
+"drizzle","GA29B","271.2","N","N","long and light"," ","dò±«zl","MS",1116
+"hasty rain","GA29B","271.2","O","N"," "," ","åhe«º{±¿}st±¿«¼$õre«º{±}n","MS",1116
+"NA","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NA","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"drizzle","GA30C!","272.3!","N","N"," "," ","dò±¿¼zl","MS",1119
+"shower","GA30C!","272.3!","N","N"," "," ","óa«¹w°","MS",1119
+"NA","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"steady rain","GA31","272A","O","N"," "," ","åst²d±¿$õre{±¿}n","MS",1122
+"mist","GA32","272B","N","N","you can feel mist"," ","m±ºst","MS",1123
+"light shower","GA32","272B","O","N"," "," ","ålaºt$õóá¹w°«","MS",1123
+"sprinkle","GA32","272B","N","N"," "," ","spr±«îk°«ì","MS",1123
+"drizzling rain","GA33A","272C1","O","N"," "," ","dò±zl±¿¼î$re{±¿}n","MS",1124
+"misting rain","GA33A","272C1","O","N"," "," ","m±st±¿¼n$re{±¿}n","MS",1124
+"light rain","GA33A","272C1","O","N"," "," ","åla«¾±¿tõ$re{±¿}n","MS",1124
+"mist","GA33B","272C2","N","N"," "," ","m±st","MS",1125
+"shower","GA33B","272C2","N","N"," "," ","óa«¹w´","MS",1125
+"damp","GA33B","272C2","N","Y"," ","INA","dá{°}mp","MS",1125
+"steady drizzle","GA34N","N273","O","N"," "," ","åst¦½d±¿$õdò±«z©","MS",1126
+"steady rain","GA34N","N273","O","N"," "," ","åst¦½¼ñ°$õreº{±¿}n","MS",1126
+"steady drizzle","GA34A","273.1","O","N"," "," ","st²{°}d±¿$dr±{°}zì","MS",1127
+"drizzling","GA34A","273.1","V","N"," "," ","dr±ºzl±¿n","MS",1127
+"drizzle","GA34B","273.2","N","N"," "," ","dò±«¼zì","MS",1128
+"shower","GA34B","273.2","N","N"," "," ","óá½ow°","MS",1128
+"sprinkle","GA34B","273.2","N","N"," "," ","spr±«îkì","MS",1128
+"summer rain","GA35N","N273A","O","N"," "," ","ås¸«¼m°$õre{±¿}n","MS",1129
+"drizzle","GA36N","N274A","N","N"," "," ","dò±zì","MS",1130
+"little mist rain","GA37N","2N274","O","N"," "," ","ål±tì$õm±s$åre±¿n","MS",1131
+"drizzle","GA37M!","NC274","N","N","heavier than mist"," ","dò±¾zì","MS",1132
+"mist","GA37M!","NC274","N","N"," "," ","m±«st","MS",1132
+"shower","GA37M!","NC274","N","N","heavier than drizzle"," ","óa¹°","MS",1132
+"drizzling","GA37A","274.1","V","N","""just droppin'¢"," ","dò±«zl±¿¼n","MS",1133
+"shower","GA37A","274.1","N","N"," "," ","åóáºo´","MS",1133
+"sprinkle","GA37A","274.1","N","N"," "," ","spr±«îkl","MS",1133
+"drizzle","GA37B","274.2","N","N"," "," ","dòi½zì","MS",1134
+"shower","GA37B","274.2","N","N"," "," ","óá½o|°","MS",1134
+"sprinkle","GA37B","274.2","N","N"," "," ","spr±«îkì","MS",1134
+"mist","GA37C","274.21","N","N"," "," ","m±st","MS",1135
+"sprinkle","GA37C","274.21","N","N"," "," ","spr±îk°«ì","MS",1135
+"drizzling","GA37D!","274.7!","V","N","mist; ""steady¢"," ","dò±zl±¿¼n","MS",1136
+"steady","GA37D!","274.7!","A","Y"," ","INA/CNV","åst²d±¿«","MS",1136
+"shower","GA37D!","274.7!","N","N"," "," ","óa«¹{w}°","MS",1136
+"sprinkling rain","GA37D!","274.7!","O","N"," "," ","åspr±îkl±¿¼n$õreº{±¿}n","MS",1136
+"sprinkling","GA37D!","274.7!","V","N"," "," ","spr±îkl±¿î","MS",1136
+"showering","GA37D!","274.7!","V","N","drops of water"," ","óa¹°±¿n","MS",1136
+"shower","GA37E!","274.8!","N","N","light"," ","óa«¹°","MS",1137
+"shower","GA37E!","274.8!","N","N","light"," ","åóa«¹{w}°","MS",1137
+"sprinkle","GA37E!","274.8!","N","N"," "," ","spr±îk°ì","MS",1137
+"sprinkling","GA37E!","274.8!","V","N"," "," ","spr±îk°ì±¿î","MS",1137
+"drizzle","GA37E!","274.8!","N","N"," "," ","dò±«z°«ì","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"shower","GA37G!","274.4!","N","N"," "," ","åóáºow°«","MS",1139
+"steady drizzle","GA37G!","274.4!","O","N"," "," ","åst²«{±¿}d±½¾$õdò±«zl","MS",1139
+"mist","GA37G!","274.4!","N","N","""heavy dew¢"," ","åm±«{°}st","MS",1139
+"heavy dew","GA37G!","274.4!","O","N"," "," ","åh²«{±¿}v±¾i¾$õdju¿º{w}","MS",1139
+"drizzle","GA37G!","274.4!","N","N"," "," ","dò±«zl","MS",1139
+"drizzle","GA37H!","274.5!","N","N"," "," ","dò±«zl","MS",1140
+"shower","GA37H!","274.5!","N","N"," "," ","åóáºow°«","MS",1140
+"sprinkle","GA37H!","274.5!","N","Y"," ","AMS","spr±«îkl","MS",1140
+"drizzle","GA37H!","274.5!","N","N"," "," ","dò±¿¼zl","MS",1140
+"drizzle","GA37I!","274.6!","N","N","heavier than a sprinkle, lighter than a shower"," ","dò±¾zl","MS",1141
+"shower","GA37I!","274.6!","N","N","more than drizzle"," ","óá¹{w}°","MS",1141
+"sprinkle","GA37I!","274.6!","N","N","less than drizzle"," ","spr²«îkl","MS",1141
+"shower","GA38","275","N","N"," "," ","óa«¹´","MS",1142
+"shower","GA38","275","N","N"," "," ","óá½º¹´","MS",1142
+"steady drizzle","GA39","275A","O","N"," "," ","åst²«d±¿$õdò±¾zl","MS",1143
+"drizzle","GA39","275A","N","N"," "," ","dò±¾zl","MS",1143
+"shower","GA39","275A","N","N"," "," ","åóa«¹w°«","MS",1143
+"sprinkle","GA40","276A","N","N"," "," ","spr±îk°ì","MS",1144
+"shower","GA40","276A","N","N"," "," ","óá½¹´","MS",1144
+"quick shower","GA40","276A","O","N"," "," ","åkw±k$õóá½º¹¿´","MS",1144
+"drizzle","GA41","276B","N","N"," "," ","dò±¾{´}zì","MS",1145
+"mist","GA41","276B","N","N"," "," ","m±º{°}st","MS",1145
+"drizzle","GA42A","276.1","N","N","harder than a mist"," ","dò±«zl","MS",1146
+"mist","GA42A","276.1","N","N","barely comes down"," ","m±«{±¿}st","MS",1146
+"showers","GA42A","276.1","V","N","""pours down¢"," ","óáºoİ´z","MS",1146
+"pours down","GA42A","276.1","E","Y"," ","INA","åp`o«¼º´z$õdáºon","MS",1146
+"sprinkle","GA42A","276.1","N","N","lighter [than shower]"," ","spr²«{±¿}îkl","MS",1146
+"coming down steady","GA42A","276.1","E","N"," "," ","¹k`¦½m±¿¼n$ådáºon$åst³«¾d±¿«¼","MS",1146
+"drizzle","GA42B","276.2","N","N","lasts a long time"," ","dò±«zl","MS",1147
+"light rain","GA42B","276.2","O","N"," "," ","åla«¾º°«t$õreº±¿¼n","MS",1147
+"trace","GA42B","276.2","N","N"," "," ","tòeº±¿¼s","MS",1147
+"sprinkle of rain","GA42B","276.2","O","N"," "," ","spr±«îkì$°$åreº±¿¼n","MS",1147
+"shower","GA42B","276.2","N","N"," "," ","åóáº´—","MS",1147
+"drizzling","GA43","277","V","N"," "," ","dr±º{°}zl–±¿n","MS",1148
+"light shower","GA44A","278.1","O","N"," "," ","ålµ¼±¿t$õóáºo´","MS",1149
+"sprinkle","GA44A","278.1","N","N","= drizzle"," ","spr±«îkl","MS",1149
+"shower","GA44A","278.1","N","N"," "," ","óá½¾ºo´","MS",1149
+"showery","GA44A","278.1","A","N","(weather","CNV","óa«¾º´—±¿«¼","MS",1149
+"drizzle","GA44A","278.1","N","N","= sprinkle"," ","dò±«zl","MS",1149
+"mist","GA44A","278.1","N","N"," "," ","m±«{°}st","MS",1149
+"NA","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"mist","GA44C","278.3","N","N"," "," ","m±«{°}st","MS",1151
+"drizzle","GA44C","278.3","N","N"," "," ","dò±«zl","MS",1151
+"slow east rain","GA44C","278.3","O","N"," "," ","åslo¼º¹¼$õiº{j}st$åreº±¿¼n","MS",1151
+"summer shower","GA44C","278.3","O","N"," "," ","ås¦¼m´«$õóá½º´—","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"mist","GA44E","278.5","N","N","""steady¢"," ","m±st","MS",1153
+"drizzle","GA44E","278.5","N","N"," "," ","dò±zl","MS",1153
+"steady","GA44E","278.5","A","Y"," ","INA","st¸«¼d±¿","MS",1153
+"settling the dust","GA44E","278.5","E","Y"," ","INA","s²tl±¿n$ä°$åd¸¼st","MS",1153
+"misting rain","GA44E","278.5","O","N"," "," ","åm±stnİ$õre{±¿}n","MS",1153
+"gentle rain","GA44E","278.5","O","N"," "," ","ådú²ntì$õre±¿n","MS",1153
+"little drizzle","FL1","252","O","N","= sprinkle"," ","õl±«tl$ådò±«zl","MS",1154
+"shower","FL1","252","N","N"," "," ","åóµ«ºo|°","MS",1154
+"sprinkle","FL1","252","N","N","= little drizzle"," ","spri½îkl","MS",1154
+"drizzle right steady","FL2A","253.1","O","N","a)"," ","ådò±«zl$õrµ¼±¿t$åst¸«¼d±¿«¼","MS",1155
+"drizzles","FL2A","253.1","V","N","long, steady"," ","dò±«zlz","MS",1155
+"shower","FL2A","253.1","N","N","= sprinkle"," ","óá½ºo°","MS",1155
+"sprinkle","FL2A","253.1","N","N","= shower"," ","spr±¿¼îkl","MS",1155
+"drizzle","FL2B","253.2","N","N"," "," ","dò±¾zì","MS",1156
+"shower","FL2B","253.2","N","N"," "," ","óa«¹°","MS",1156
+"drizzle","FL2C!","253.3!","N","N","""a steady stream¢"," ","dò±¿¼zl","MS",1157
+"sprinkle","FL2C!","253.3!","N","N"," "," ","spr±«îkl","MS",1157
+"shower","FL2C!","253.3!","N","N"," "," ","óµ«¼ºow°","MS",1157
+"steady stream","FL2C!","253.3!","O","N"," "," ","¹st¸¼d±¿«¼$õstòiºm","MS",1157
+"sprinkle","FL3A","254.1","N","N"," "," ","spr±¿îkl","MS",1158
+"drizzled","FL3A","254.1","V","N"," "," ","dò±¿zìd","MS",1158
+"drizzle","FL3A","254.1","N","N"," "," ","dò±¿«¼zl","MS",1158
+"shower","FL3A","254.1","N","N"," "," ","óµ«ºo|°","MS",1158
+"light shower","FL3A","254.1","O","N"," "," ","l°½±¿t$óµ«ºo|°","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"shower","FL4","254A","N","N"," "," ","óa«¹|´","MS",1160
+"mist","FL4","254A","N","N"," "," ","m±º{°}st","MS",1160
+"drizzle","FL4","254A","N","N"," "," ","dò±zì","MS",1160
+"sprinkle","FL4","254A","N","N"," "," ","spr±îkì","MS",1160
+"shower","FL4","254A","N","N"," "," ","åóa«¹´","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"drizzle","FL5B","255.2","N","N"," "," ","dò±¿zl","MS",1162
+"sprinkle","FL5B","255.2","N","N"," "," ","spr±«îkl","MS",1162
+"shower","FL5B","255.2","N","N"," "," ","åóµ«¼ºow°","MS",1162
+"","","","","","","","","",

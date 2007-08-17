@@ -1,0 +1,132 @@
+I have my (cg12#2.asc)
+
+Items
+=====
+                     ain't got much    1
+                       ain't got no    1
+                           cows got    1
+                          folks got    1
+                                got    1
+                               have    1
+                             he got    1
+                he got a hard shell    1
+                             he has    2
+                            he have    2
+                           he haves    1
+                              I got   16
+                      I got a drink    1
+            I got a heap of trouble    1
+             I got a little trouble    1
+                     I got bad luck    1
+              I got heap of trouble    1
+                   I got me trouble    1
+                  I got me troubles    1
+                           I got my    3
+                   I got my trouble    3
+                  I got my troubles    2
+                          I got one    1
+                         I got some    1
+                   I got some white    1
+           I got troubles of me own    1
+                              I has    1
+                           I has my    3
+                             I have    5
+           I have a pain in the arm    1
+                          I have me    1
+                 I have me troubles    1
+                          I have my   10
+                  I have my trouble    1
+                 I have my troubles    1
+                        I never has    2
+                           I've got    1
+                             it got    1
+                             it has    1
+                            it have    2
+                           it's got    1
+                   mother have made    1
+                        my wife got    1
+                                 NR    5
+                                our    1
+                            she got    1
+                            she has    2
+                           she have    1
+                      she have that    1
+            she's always been scary    1
+                          she's got    1
+                          some have    1
+                     some have none    1
+                           they got    1
+                       they got 'em    1
+                           they has    1
+                          they have    2
+                      they have got    1
+                             we got   13
+           we got a heap of trouble    1
+            we got a little trouble    1
+                    we got bad luck    1
+             we got heap of trouble    1
+                         we got one    1
+                         we got our    1
+                 we got our trouble    2
+                we got our troubles    3
+                          we got we    2
+                  we got we trouble    2
+                         we has our    1
+                          we has we    1
+                            we have    4
+          we have a pain in the arm    1
+                        we have our   12
+               we have our troubles    1
+                    we have trouble    1
+                we have we troubles    1
+                           we haves    1
+                  you feel timorous    1
+                            you got    7
+          you got a heap of trouble    1
+           you got a little trouble    1
+                   you got bad luck    1
+            you got heap of trouble    1
+                       you got your    3
+               you got your trouble    4
+              you got your troubles    3
+                      you got yourn    1
+                       you has your    2
+                           you have    6
+         you have a pain in the arm    1
+                   you have trouble    1
+                      you have your   12
+             you have your troubles    2
+               your mother have one    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

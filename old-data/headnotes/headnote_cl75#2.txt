@@ -1,0 +1,95 @@
+angry (cl75#2.asc)
+
+Items
+=====
+                              angry    9
+                               ashy   11
+                          awful mad    3
+                                bad    1
+                            bad dog    1
+                              cross    1
+                              cruel    1
+                         danger dog    1
+                            excited    1
+                       fighting mad    1
+                            fretted    1
+                            fronted    1
+                            got mad    1
+                    got mad with me    1
+                        he been mad    1
+                   he got awful mad    1
+                         he got mad    4
+               he short in the head    1
+                   he was awful mad    1
+            he was quick to get mad    1
+                             het up    1
+                   him get very mad    1
+                                hot    2
+                       I very fraid    1
+                                ill    1
+                            ill mad    1
+                looking for trouble    1
+                                mad   37
+                               mean   10
+                             mix up    1
+                            nervous    2
+                                 NR    7
+                                off    1
+                           offended    1
+                            put out    2
+                             raring    1
+                             rowing    1
+                              rusty    1
+                           shook up    3
+                           spiteful    1
+                       spiteful dog    1
+                         terrogated    1
+                               ugly    9
+                            vagrous    7
+                         very angry    1
+                           very mad    4
+                                vex    2
+                            vicious    2
+                          warmed up    1
+                            wrathed    1
+                             wrathy    4
+               you get mad so quick    1
+
+Pronunciations
+==============
+                                  "    2
+
+
+
+
+M: I was just kidding him; I didn't know he'd get _____.  If he's of bad temper all the time, he's _____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 75#2, "mix up," "nervous," "terrogated," and "I very fraid" are inappropriate, as is marginalia.  
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 75 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook		Preliminary Worksheets
+----------------------------------
+75#Pa
+75#Pb			75#4
+75#Pc			75#8
+75#Pd			75#3
+75#1			75#1
+75#2			75#2
+75#3 (no question)
+75#4			75#5 (similar)
+75#5			75#6
+75#6 (no question)
+75#7			75#7

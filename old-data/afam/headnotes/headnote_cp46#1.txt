@@ -1,0 +1,121 @@
+boiled eggs (cp46#1.asc)
+
+Items
+=====
+                               boil    4
+                           boil egg   16
+                          boil eggs    3
+                            boil it    3
+                          boil them    1
+                            boil up    1
+                    boil vegetables    1
+                             boiled    4
+                         boiled egg   13
+                        boiled eggs   23
+                            boiling    1
+                         boilt eggs    3
+                                egg    7
+                               eggs   10
+                              fried    2
+                         fried eggs    2
+                       fry and boil    1
+                           fry them    1
+                          hard boil    1
+                        hard boiled    2
+                         harder egg    1
+                           hen eggs    1
+                            ho-cake    1
+                                 NR    3
+                           scramble    1
+                      scramble them    1
+                     scrambled eggs    3
+                     soft boil eggs    1
+                        soft boiled    1
+                   soft boiled eggs    4
+                        soft-boiled    1
+                   soft-boiled eggs    1
+                      sunny side up    1
+when I broke 'em, I put 'em in a pan and fry 'em    1
+
+Pronunciations
+==============
+                                 eg    1
+                            e{±ø}gz    4
+                           e{±øΩ}gz    2
+                               e´∫g    2
+                              e´∫gz    1
+                               e±øg    2
+                              e±øgz    1
+                            e∫[±ø]g    1
+                               e∫gz    5
+                            e∫{±ø}g    1
+                           eΩ[±ø]gz    1
+                         eΩ{±ø}g{z}    1
+                             eΩ±øgz    2
+                              eΩ∫gz    1
+                                eæg    1
+                              eæ∫gz    2
+                               ´egz    1
+                           ∞ Â≤∫±gz    1
+                            ≤[±ø]gz    2
+                                 ≤g    6
+                            ≤´[±ø]g    1
+                                ≤´g    3
+                               ≤´gz    5
+                             ≤´{e}g    1
+                            ≤´{∞}gz    1
+                             ≤´±øgz    2
+                             ≤´∫gzè    1
+                           ≤´∫{∞}gz    1
+                               ≤∫gz    1
+                               ≤∫gà    1
+                           ≤∫{±ø}gz    1
+                                ≤Ωg   12
+                                ·´g    2
+                           Âe{±ø}gz    1
+                          Â≤´[±ø]gz    1
+                         Â≤´∫[±ø]gz    1
+                               Â≤∫g    1
+                           Â≤∫{±}gz    1
+                            ıe{±ø}g    1
+                               ıe∫g    1
+                          ıe∫{±ø}gz    1
+                      ıeΩ{±ø}[g][z]    1
+                              ı≤´gz    2
+                       ı≤´{∞}gz[zè]    2
+                          ı≤´{∞´}gz    2
+                            ı≤´±øgz    1
+                          ı≤∫{±ø}gz    2
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

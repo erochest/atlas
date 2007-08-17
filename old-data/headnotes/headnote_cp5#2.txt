@@ -1,0 +1,135 @@
+year ago (cp5#2.asc)
+
+Items
+=====
+                             a year    1
+                         a year ago   44
+                  a year and a half    1
+                      a year or two    1
+                   about a year ago    3
+                    fifty years ago    1
+                    forty years ago    1
+                     four years ago    1
+                     good while ago    1
+                          last week    1
+                          last year    2
+                                 NR    9
+                       one year ago    2
+                one year from today    2
+                    seven years ago    1
+                  several years ago    1
+                   short while back    1
+this year make them a year since I come back    1
+                      two years ago    1
+                           year ago    3
+                         year apart    1
+
+Pronunciations
+==============
+                      b∂πt$∞$±{∞}go    1
+                          e∞rü∞go´∫    1
+                    e±æ$j±´∞é$∞goπø    1
+                    e±ø$j±∫$∞go∫{π}    1
+             s≤v∞´n$je∫∞z$∞Âgo∫{πº}    1
+                       w∏´n$±{∞}$go    1
+                            ∞$i∞$go    1
+                       ∞$jeΩ∞$∞Âgo∫    1
+                           ∞$j±$∞go    1
+                       ∞$j±eé$∞goπø    1
+                     ∞$j±ø∞{r}ü∞go∫    1
+                     ∞$j±ø∞æ$∞Âgo´∫    1
+                     ∞$j±ø∫∞∫$∑go´∫    1
+                     ∞$j±øΩ∞rü∞go´∫    1
+                         ∞$j≤${∞}go    1
+                           ∞$j≤$∞go    2
+                         ∞$j≤{∞}$go    1
+                 ∞$j≤´∫$Á∞Âgàoº∫{π}    1
+                       ∞$j≤∫$∞Âgo´∫    1
+                         ∞$j≤∫$∞ıgo    1
+                      ∞$j≤›´∞$∞go´∫    1
+                      ∞$j≥{∞}$∞go´∫    1
+                    ∞$j≥{∞é}$ı∞Âgo∫    1
+                     ∞$j≥∫{∞é}$∞go∫    1
+                  ∞$j≥∫{∞é}{r}ü∞go∫    1
+                     ∞$j≥º{∞é}$∞go∫    1
+                           ∞$±´$∞go    1
+                            ∞$±∞$go    1
+                          ∞$≤{∞}$go    9
+                  ∞$Âje∫r$∞º$ıt`uø∫    1
+                   ∞$Âje∫r$∞ıgo∫{π}    1
+                   ∞$Âj±${∞}ıgo∫{π}    1
+                     ∞$Âj±{∞}$∞ıgo∫    1
+                   ∞$Âj±∫r$∞Âgo´º∫∞    1
+              ∞$Âj±Ω∫${Á}∞gào´º∫{∞}    1
+              ∞$Âj±Ω∫∞{Á}$∞ıgoº{πº}    1
+                ∞$Âj≤´∫$∞ΩÂgoº∫{πº}    1
+                    ∞$Âj≤´∫$∞ıgo{π}    1
+                   ∞$Âj≤∫$Â∞ıgo∫{π}    1
+                         ∞$Âj≤æ$∞go    1
+                      ∞$ıj≤´¥$∞Âgo´    1
+                     ∞b∂πt$∞$iΩ∞$go    1
+        ∞Âb¶•´πt$∞$j≤´∫r$∞Âgàoº∫{π}    1
+               Âfo∫∞$ıj≤´∞z$∞Âgoºπ∫    1
+            Âf±´ft±ø´$ıj≤´∞z$∞Âgo∫π    1
+           Âf∑∞tê±ø´º$ıj≤´∫$∞Âgo∫πº    1
+       Âgàπºd$ıwa´æ∫±øl$∞Âgào´º∫{∞}    1
+                          ÂjeΩ$∞goπ    1
+              Âs≤´vÏ$ıj≤´∫∞z$∞Âgoº∫    1
+                 Âtuøæ$j≤∫∞z$∞go{u}    1
+           Âw∏´ºn$ıje{∞∫}$∞Âgoº{uº}    1
+
+
+
+L:  Last September (or whatever month it is) would be just about ____.
+M:  Something that happened about this time last year, you'd say it happened ____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The mark of primary stress is included in the entries whenever the field worker wrote it.  In phrases of the type "a year aÂgo", the word "year" always has a strong secondary stress. 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:
+
+		On the occurrence of /¥∞/, /r∞/ in year ago:
+
+Lowman: Frequently in both MAS and SAS has the sequence /¥  ∞/ with a space between words.  Sometimes has /r  ∞/ with a space, sometimes /rü∞/.  In the list manuscript section done by McDavid, the ligature was preserved.  Kurath left out the ligature and left a space between words.  Perhaps Kurath thought the ligature was not so much a symbol of the loss of the word boundary as it was a way to note that the r only occurred here because of the following vowel environment.  This latter meaning can be checked now in the computer files by comparing this file to others with postvocalic r.
+
+We have followed Kurath's practice and left spaces between the words.  This conforms to handbook guidelines for word spacing.  (We use ligature only to denote co-articulation, so to represent this type of tie between words, we must delete the spacing between them.)  This decision was based on the ease of adding a space vs. checking the field records for presence or absence of ligature in the rest of the LAMSAS territory.  It provides for consistency, while possibly sacrificing some accuracy.
+
+McDavid:  SOUTH CAROLINA.  Someone at University of South Carolina has for some reason erased portions of the field records and "corrected" them according to the editorial conventions for producing list manuscripts (the conventions do not apply to alteration field records).  The guide reads, "In all SAS records made before 1964:  intervocalic -¥-, whether on-line or superior, should be replaced by -r-."  The field records have been changed, and McDavid uses /r/ instead of /¥/ in his list manuscript up to about the middle of the state.  (Note:  In other files, this change has not been made ACROSS word boundaries, only, as stipulated, intervocalically).  There are scattered instances of /¥ ∞/ in the list manuscript, although they have all been changed to /r ∞/ in the field records.  The list manuscript alternations seem to have no relation to date of the interview.
+
+	GEORGIA.  Like South Carolina, Georgia has both variants, with /r/ prevailing although our (photocopied carbon) copies of the field records mostly have /¥/. We have left McDavid's territory as he transcribed it in the list manuscripts.  We considered going through and changing all the /¥ ∞/ that remain from pre-1964 SAS interviews to /r ∞/. Since this change was not made across word boundaries in other files, it doesn't seem right to do it here, but in many cases it has already been changed.  It is impossible to tell from the spacing of words in the field records if they are to be run together, hence the use of ligature to denote this.  Although there are no ligatures where the change from /¥/ to /r/ has been made, in the computer files we deleted the space between words, since the change was to be made intervocalically only.  We concluded that the change denoted an erosion of word boundaries.
+
+Summary:  Lowman's territory includes only /¥  ∞/ or /r  ∞/, although he may have intended a three-way distinction to include /r∞/ which was levelled by Kurath.  McDavid's territory includes /¥  ∞/ and /r∞/, the latter of which was usually derived by editorial changes from some of the cases of /¥  ∞/ and was possibly intended to denote the same phenomenon Lowman used a ligature for (which is no longer marked, following Kurath).  The result of all this is that /¥/ and /r/ in this file should probably not be taken to represent differing degrees of retroflexion, although the series /∞/, /∞/é, /¥/r/ can be used for such an analysis. 
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 5#2, "a year or two," "a year and a half," "one year from today," and "this year make them a year since I come back" are inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 5 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+	
+Handbook	Preliminary Worksheets
+----------------------------------
+5#P		5#5
+5#P
+5#P
+5#P
+5#1		5#1
+		5#2 (no question)
+5#2		5#3
+5#3		5#4
+		5#6 (no question)
+5#4		5#7
+5#5		5#8
+5#6 X		

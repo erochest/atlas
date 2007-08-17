@@ -1,0 +1,25 @@
+what time is it? (cl4#2.asc)
+
+Items
+=====
+brother so and so, what time by you?    1
+Do you know what time of day it is?    1
+          Give me the time, please.    1
+                                 NR   12
+                            o'clock    1
+                               palm    1
+Please, sir, tell me what time of the day.    1
+                   what o' clock is    1
+                What o'clock is it?    3
+              What the time of day?    1
+             What time do you have?    1
+               What time is it now?    1
+                   What time is it?   24
+                   What time it is?   11
+            What time of day is it?    3
+            What time of day it is?    3
+                  What time of day?    4
+                What time you have?    1
+                         What time?    1
+            What's the time of day?    1
+

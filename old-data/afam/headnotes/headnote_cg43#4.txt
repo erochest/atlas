@@ -1,0 +1,90 @@
+hers (cg43#4.asc)
+
+Items
+=====
+                       'tis her own    1
+                       'tis his own    1
+                      'tis them own    1
+                      'tis your own    1
+                         'tis yourn    1
+                            her own    4
+                               hern    8
+                               hers   14
+                                his   11
+                            his own    4
+                               hisn   15
+                        I and yours    1
+                 I think it's yourn    1
+                       it's her own   11
+                          it's hers    7
+                           it's his    3
+                       it's his own    6
+                          it's hisn   11
+                       it's our own    5
+                          it's ourn    3
+                          it's ours   10
+                        it's theirs    9
+                      it's them own    6
+                      it's they own    5
+                 it's your hair pin    1
+                      it's your own    4
+                         it's yourn    2
+                         it's yours   13
+                           John own    2
+                             John's    1
+                       me and yours    1
+                                 NR   17
+                            our own    2
+                               ourn   12
+                               ours   15
+                    that is her own    1
+                    that is his own    1
+                    that is our own    1
+                   that is them own    1
+                      that is yourn    1
+                        that's ours    1
+                       that's yours    1
+                          their own    2
+                             theirn   10
+                            theirnt    1
+                             theirs   15
+                           them own    4
+                           they own    1
+                             us own    1
+                           your own    4
+                              yourn   22
+                             yourns    1
+                              yours   16
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

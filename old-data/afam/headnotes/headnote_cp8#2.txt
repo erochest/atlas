@@ -1,0 +1,16 @@
+hearth (cp8#2.asc)
+
+Items
+=====
+                     chimney hearth    5
+                        fire hearth   15
+                         fire place    3
+                          fireplace    7
+                         fireplaces    1
+                                hat    1
+                             hearth   66
+                        hearth rock    2
+                     mantel columns    1
+                                 NR    1
+                              smoke    1
+

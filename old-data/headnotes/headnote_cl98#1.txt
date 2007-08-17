@@ -1,0 +1,66 @@
+carried (cl98#1.asc)
+
+Items
+=====
+                            carried   13
+                         carried it    1
+                              carry    3
+                          carry 'em    1
+                           carry me    1
+                           carrying    1
+                          carted it    1
+                      got to lug it    1
+                        I lugged it    1
+                             I tote    2
+                         I tote 'em    9
+                          I tote it    3
+                    I toting a load    1
+                             lugged    2
+                          lugged it    4
+                     lugged it home    1
+                                 NR   17
+                             packed    2
+                          tacked it    1
+                               tote    6
+                           tote 'em    2
+                              toted   19
+                           toted it    1
+                      toted it home    1
+                   toted it on home    1
+                         toted them    1
+
+M: You had a sack of groceries and didn't have your car; so you picked it up and ______. Anything else you might say? Suppose it was all you could do to handle? [Observe conversational use]
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The terms presented here refer to carrying a load, such as a bag of meal, over one's shoulder or on the back.  "Lugged" always refers to a heavy load, as does "freighted".  "Toted" is often regarded as old-fashioned or as peculiar to the common folk.  Some only use it humorously.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 98#1, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 98 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+97#7		98#1
+98#P		98#4
+98#P		98#6
+98#1		98#2
+98#2		98#3
+98#3		98#5
+98#4		98#7
+98#5		98#8
+98#6		99#1,2

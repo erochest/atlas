@@ -1,0 +1,12 @@
+#!d:/python22/python.exe
+#!/usr/local/bin/python
+
+import sys
+#sys.path.append('/home/eric/atlas/lap')
+sys.path.append('e:/atlas/lap')
+
+from jon import fcgi
+from lap.web.templates.dump import DumpHandler
+
+fcgi.Server({fcgi.FCGI_RESPONDER: DumpHandler}).run()
+

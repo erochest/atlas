@@ -1,0 +1,24 @@
+mantel (cl8#4.asc)
+
+Items
+=====
+                           banister    1
+                            chimney    3
+                      chimney piece    1
+                         fire board    4
+                         fire place    1
+                          fireboard    1
+                in token of a shelf    1
+                       little shelf    1
+                             mantel   10
+                       mantel board    2
+                     mantel columns    1
+                       mantel piece   58
+                       mantel shelf    3
+                                 NR    2
+                              shelf    6
+                            shelves    1
+                        smoke stack    1
+                         smokestack    3
+                            tussock    4
+

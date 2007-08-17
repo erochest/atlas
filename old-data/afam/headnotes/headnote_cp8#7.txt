@@ -1,0 +1,10 @@
+soot (cp8#7.asc)
+
+Items
+=====
+                                 NR    2
+                               smut   12
+                               soot   56
+                              soots    1
+                 used to make sooty    1
+

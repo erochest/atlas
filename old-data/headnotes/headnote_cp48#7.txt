@@ -1,0 +1,151 @@
+glass of water (cp48#7.asc)
+
+Items
+=====
+                          *** glass    1
+                                cup    1
+                       cup of water    1
+                           daughter    2
+                              drink    1
+                     drink of water    3
+                    gaglet of water    1
+           give me a glass of water    2
+                              glass    6
+                      glass a water    1
+                     glass of water   45
+                        glass water    3
+                            glasses    4
+                             goblet    3
+                            goblets    1
+                           gold cup    1
+                     gourd of water    1
+                         gourds ***    1
+                        her glasses    1
+                          hot water    1
+                                mug    1
+                                 NR    3
+                    out the tumbler    1
+                               pint    1
+                         some water    1
+                     straight water    1
+                            tumbler    7
+                   tumbler of water    1
+                           tumblers    3
+                              water   15
+                          water oak    1
+
+Pronunciations
+==============
+           dlç·Ωs$∞Ω{v}$Âw∑º{∞}tê∞Ω    1
+               dlç·Ω∫s$∞$Âw∑º∫{∞}t∞    1
+                          d∑Ω∫dû∞Ωæ    1
+                        d∑Ω∫ÒáÒá∞Ωæ    1
+                        glas$∞$w∑Ò∞    1
+                       gla´s$∞$w∑Ò∞   19
+                 glaæ∫s$∞$w∑∫{∞}tê∞    1
+                            glça´æs    1
+                           glç·s±øz    1
+                           glç·{∞}s    1
+                       glç·{≤}s±øºz    1
+                         glç·´≤s±øz    1
+              glç·´∫s$∞$w∑´∫{∞}{d}∞    1
+                 glç·∫s$∞$wµæ{∞}tê∞    1
+                     gl·s$∞$wﬁætê∞é    1
+                            gl·{∞}s    1
+              gl·{∞}s$∞$w∑Ω{∞é}{Ò}∞    1
+               gl·{≤}s$∞$Âw∑∫{∑}tê∞    1
+                           gl·´{≤}s    1
+                gl·´{≤}s$∞$ıwa´ºtê∞    1
+                 gl·´∫{∞}s$w∂î´ºtê∞    1
+               gl·´∫{∞´}s$w∑ï∫{∞}Ò∞    1
+               gl·´∫{∞´º]s$w∑´{∞}Ò∞    1
+                   gl·∫s$∞$w∑∫`tû∞æ    1
+                     gl·∫s$∞$w∑Ω∫Ò∞    1
+              gl·∫{∞}s$∞‚$w∑´{∞}tê∞    1
+                gl·∫{∞´º}s$∞$w∑∫dû∞    1
+                 gl·∫±øs$∞$w∂´∞∫tê∞    1
+                 gl·∫±øs$∞$w∑∫{∞}Ò∞    1
+                       gl·Ωs$∞$w∑d∞    1
+                  gl·Ωs$∞v$w∑{∞}tê∞    1
+               gµ´ægl±øt$∞$w∑∫`tû∞∫    1
+                            gÏ·{∞}s    1
+             gÏ·{∞}s$∞$Âw∑´{∞}tê∞´æ    1
+                         gÏ·{∞}s±øz    1
+                 gÏ·Ωs$∞$Âw∑º∫{∞}t∞    1
+                             gÏ·Ω∞s    1
+                               w∞Èd    1
+                            w∂´∑tê∞    1
+                          w∂´∫otê∞´    1
+                               w∂Ò∞    1
+                           w∑{∞}tê∞    1
+                          w∑´{∑}tê∞    1
+                          w∑∫{∞}tê∞    1
+                            w∑∫∞tê∞    1
+                           w∑∫ÒáÒá∞    1
+                          w∑º∫{∞}Ò∞    1
+                            w∑Ωotê∞    1
+                             w∑Ωtê∞    1
+                         w∑Ωº∫{∞}f∞    1
+                            w∑Ωætê∞    1
+                      Âdlça´∫s±øÈzè    1
+                Âglç·≤s$∞$Âw∂´otê∞æ    1
+                  Âglç·≤s$∞$Âw∑otê∞    1
+              Âgl·´{≤}s$∞v$ıw∑´otê∞    1
+                Âwµ{∞}tê∞$ıoº{π´º}k    1
+                      Âw∑éº∫∞étê¥´æ    2
+                       Âw∑´{∞}tê∞´æ    1
+                          Âw∑∫∑∫tê∞    1
+                        Âw∑º{∞}tê∞Ω    1
+                        Âw∑º{∞}tê∞æ    1
+                      Âw∑º∫{∞}tê∞éæ    1
+                          Âw∑Ω∫∑tê∞    1
+                          ıglç·{∞}s    1
+              ıglç·´º∫s$∞$Âw∑∫dû∞Ωæ    1
+            ıglﬁº:s$∞$Â{w}∑∫{∞}{Ò}∞    1
+                    ıgl·s$∞$Âwﬁ´ºd∞    1
+            ıgl·{∞}s$∞$Âw∑´{∞}{tê}¥    1
+                 ıgl·∫s$∞$Âw∑∫{∞}Ò∞    1
+              ıgl·∫{∞}s$∞$Âw∑ï{∞}Ò∞    1
+                           ıwa´ºtê∞    1
+                       ıw∑º∫{∞}tê∞Ω    1
+
+
+
+
+L: What do you drink when you are thirsty? You drink it out of a what at 	the table?
+P: The glass fell off the sink and _____.  You might say, "I didn't ___ it, 	but someone has ____ that glass."
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+Some informants, mostly of the older group, offered "tumbler" beside "glass" or instead of it.
+				
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 48#7, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 48 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+48#1
+		48#1 (no question)
+48#2		48#2
+		48#3 (no question)
+48#3		48#4
+48#4		48#5
+48#5		48#6
+48#6		48#7
+48#7		48#8
+48#8

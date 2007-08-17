@@ -1,0 +1,1623 @@
+"breezing up","NY1","50","E","N"," "," ","brijz±øÓ$∏p","MS",1
+"picking up","NY2A","51.1","E","N"," "," ","p±k±øn$∏p","MS",2
+"breezing up","NY2A","51.1","E","N"," "," ","brijz±øn$∏p","MS",2
+"breezing up","NY2B","51.2","E","Y"," ","SUG","brijz±øΩn$∏p","MS",3
+"increasing","NY2B","51.2","V","N"," "," ","±ønkriæjs±øΩn","MS",3
+"rising","NY2C","51.3","V","N"," "," ","r•Ω±øz±øÓ","MS",4
+"freshening","NY2C","51.3","V","N"," "," ","fr≤Ûn±øÓ","MS",4
+"picking up","NY2C","51.3","E","Y"," ","AUX/SUG/HRD","p±k±øΩn$∏p","MS",4
+"increasing","NY2C","51.3","V","Y"," ","AUX/CNV","±nkriΩjs±øΩn","MS",4
+"blowing up","NY3A","401","E","N"," "," ","bÏoΩºπ±øÓ$∏Ωp","MS",5
+"increasing","NY3A","401","V","N"," "," ","±nÂkri∫s±øn","MS",5
+"breezing","NY3B","403","V","N"," "," ","bèri∫z±øÓ","MS",6
+"rising","NY3C","402","V","N"," "," ","ra´æ±øz±øÓ","MS",7
+"getting stronger","NY3D","404","E","N"," "," ","g±'tn$stÚ∑Ω∫Óg∞","MS",8
+"rising","NY4A","405","V","N"," "," ","ra±øz∞n","MS",9
+"increasing onto us","NY4B","407","E","N"," "," ","±nÂkri∫sn$Âµ´nıtuº$∞s","MS",10
+"rising","NY4C","408","V","N"," "," ","raæ±øz±øÓ","MS",11
+"rising","NY5A","409","V","N"," "," ","rµ±øz±øÓ","MS",12
+"blowing up","NY5B","410","E","N"," "," ","bloΩºπ±øÓ$∏p","MS",13
+"increasing","NY5B","410","V","N"," "," ","±nkri∫s±øÓ","MS",13
+"blowing up","NY5C","411","E","N"," "," ","ıbloΩºπ±øÓ$Â∏ºp","MS",14
+"rising","NY5D","412","V","N"," "," ","ra∫±øΩz±øÓ","MS",15
+"rising","NY5E","413","V","N"," "," ","ra±øz±øÓ","MS",16
+"getting blustery","NY5E","413","E","N"," "," ","g≤tê±øÓ$bl∏st∞r±ø´","MS",16
+"rising","NY5F","414","V","N"," "," ","ra±øz±øÓ","MS",17
+"picking up","NY5G","415","E","N"," "," ","ıp{h}±k±øÓ$Â∏p","MS",18
+"rising","NY5H!","416!","V","N"," "," ","ra±øz±øÓ","MS",19
+"increasing","NY5H!","416!","V","N"," "," ","±nÂkriΩis±øÓ","MS",19
+"blowing up","NY5I!","417!","E","N"," "," ","ıbÏ¿´æπ±øÓ$Â∏p","MS",20
+"raising","NY6A","418","V","N"," "," ","re±øz±øÓ","MS",21
+"rising","NY6B","419","V","N"," "," ","raæ±øz±øÓ","MS",22
+"getting a little brisk","NY7A","420","E","N"," "," ","g±'tn$∞$l±ÒÏ$br±sk","MS",23
+"blowing up","NY7B","421","E","N"," "," ","ıbloΩºπ∞n$Â∏ºp","MS",24
+"getting stronger","NY7C","422","E","N"," "," ","g≤tê±øÓ$stÚ∑∫Óg∞","MS",25
+"rising","NY7D","423","V","N"," "," ","ra∫±øΩz±øÓ","MS",26
+"coming up","NY7E","424","E","N"," "," ","ık∏ºm±øÓ$Â∏ºp","MS",27
+"raising","NY7F","425","V","N"," "," ","r≤´±øz±øÓ","MS",28
+"getting breezy","NY7G","426","E","N"," "," ","ıgè≤tê±øÓ$ÂbèriΩiz±ø´º","MS",29
+"increasing","NY7H","427","V","N"," "," ","±nÂkriΩis±øÓ","MS",30
+"rising","NY7I","428","V","N"," "," ","ra±øz±øÓ","MS",31
+"increasing","NY7J!","429!","V","N"," "," ","±nÂkri∫s±øÓ","MS",32
+"blowing up","NY7K!","430!","E","N"," "," ","bloºπ±øÓ$∏p","MS",33
+"freshening","NY7K!","430!","V","N"," "," ","fr≤Û∞n±øÓ","MS",33
+"rising","NY7L!","431!","V","N"," "," ","ra±øz±øÓ","MS",34
+"rising","NY7M!","432!","V","N"," "," ","ra±øΩz±øÓ","MS",35
+"rising","NY8","432b","V","N"," "," ","raæ±øz±øÓ","MS",36
+"rising","NY9A","432c","V","N"," "," ","ra±øz±øÓ","MS",37
+"blowing up","NY9B","433","E","N"," "," ","ıbÏoΩºπ±øÓ$Â∏ºp","MS",38
+"rising","NY9C","434","V","N"," "," ","ra∫±øz±øÓ","MS",39
+"raising","NY10A","435","V","N"," "," ","re±øz∞n","MS",40
+"rising","NY10B!","436!","V","N"," "," ","ra±øz±øÓ","MS",41
+"rising","NY11","438","V","N"," "," ","raæ∫±øz±øÓ","MS",42
+"coming up","NY12A","439(*)","E","N"," "," ","k∏´m∞n$∏p","MS",43
+"a-figuring up for a storm","NY12A","439(*)","E","Y"," ","AUX","∞f±g∞r±øΩn$∏´ºp$f¥$∞$st∑¥m","MS",43
+"raising up","NY12A","439(*)","E","Y"," ","AUX","re±øzn$∏´ºp","MS",43
+"rising","NY12B","440","V","N"," "," ","ra±øz±øÓ","MS",44
+"rising","NY12C!","441!","V","N"," "," ","ra±øz±øÓ","MS",45
+"increasing","NY13A","443","V","N"," "," ","±nÂkri∫s∞n","MS",46
+"coming up","NY13B!","444!","E","N"," "," ","ık∏m±øÓ$Â∏p","MS",47
+"rising","NY14A","445","V","N"," "," ","r•Ω±øz±øÓ","MS",48
+"getting stronger","NY14B","446","E","N"," "," ","g≤tê±øÓ$stÚ∑Ω∫Óg¥","MS",49
+"raising","NY15A","447","V","N"," "," ","reΩ∫{±øΩ}z±øΩn","MS",50
+"rising","NY15B","448","V","N"," "," ","ra±øz±øÓ","MS",51
+"increasing","NY16A","449","V","N"," "," ","±nÂkri∫s±øÓ","MS",52
+"coming up","NY16B","450","E","N"," "," ","k∏m±øÓ$∏p","MS",53
+"a-raising","NY17A","451(*)","V","N"," "," ","∞re±øz±øn","MS",54
+"getting stronger","NY17A","451(*)","E","Y"," ","AUX","g±tn$stÚ∑Ω∫Óg¥","MS",54
+"coming up","NY17B","452","E","N"," "," ","k∏m±øÓ$∏p","MS",55
+"arising","NY18A","453","V","N"," "," ","∞Âr•Ω±ø´z∞n","MS",56
+"rising","NY18B","454","V","N"," "," ","ra±øz±øÓ","MS",57
+"rising","NY18C!","455!","V","N"," "," ","raæ±øz±øÓ","MS",58
+"coming up","NY19","456","E","N"," "," ","ık∏m±øÓ$Â∏Ω∫p","MS",59
+"blowing up","NY20A","457","E","N"," "," ","ıbÏoΩºπ±øn$Â∏p","MS",60
+"rising","NY20B","458","V","N"," "," ","ra´æ±ø´z±øÓ","MS",61
+"coming up","NY21","459","E","N"," "," ","ık∏m±øÓ$Â∏p","MS",62
+"rising","NY22","460","V","N"," "," ","raæ±øz±øÓ","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"raising","NY23B","462a","V","N"," "," ","re∫±æzn","MS",65
+"come up","NY23B","462a","E","N"," "," ","k∞Ωm$Â∏Ωp","MS",65
+"growing worse","NY23C","462b","E","N"," "," ","groΩº∫π±øÓ$Âw¥æs","MS",66
+"increasing","NY23C","462b","V","N"," "," ","±øºnÂkrá±´æ∫is±øºÓ","MS",66
+"coming up","NY24A","463","E","N"," "," ","ık{h}∏m±øΩn$Â∏p","MS",67
+"rising","NY24B!","464!","V","N"," "," ","ra´æ±øz±øÓ","MS",68
+"rising","NY25A","465","V","N"," "," ","r∞∫±øºz±øÓ","MS",69
+"coming up","NY25B","466","E","N"," "," ","k∏Ωm±øÓ$Â•´æp","MS",70
+"working up","NY25B","466","E","N"," "," ","ıw≥éæ¥k±øºn$Â•´æp","MS",70
+"blowing harder","NY26A","467","E","N"," "," ","ıbÏoºπº±ø›n$Âhµé¥d¥´","MS",71
+"coming up","NY26A","467","E","N"," "," ","k∏Ωm±øΩn$Â∏Ωp","MS",71
+"getting worse","NY26B","468","E","N"," "," ","ıg≤'tn$Âw≥éæ¥s","MS",72
+"blowing up","NY26B","468","E","N"," "," ","ıbÏoΩºπº±øºÓ$Â∏Ωp","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"rising","NY27A","470","V","N"," "," ","r•∫±øzn{d}","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"blowing harder","NY27C","472","E","N"," "," ","ıbÏoºπº±øºn$Âhµé¥d¥","MS",76
+"increasing","NY27C","472","V","N"," "," ","nñÂkrrái∫s±øºn","MS",76
+"getting stronger","NY28A","473a","E","N"," "," ","ıgà≤´tê±øºÓ$ÂstéÚè∑Ω∫Óg∞é´","MS",77
+"blowing harder","NY28A","473a","E","N"," "," ","ıb≈oº{πº}±øºÓ$Âhµé∫d¥","MS",77
+"kept rising","NY28B","473b(*)","E","N"," "," ","ık≤´pt$Âr•∫±øz±øºÓ","MS",78
+"pipes up","NY28B","473b(*)","E","N"," "," ","Âp•±øps$ı∏Ωp","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"increasing","NY29A","474a","V","N"," "," ","±øºnÂkriøΩis±øºn","MS",80
+"rising","NY29A","474a","V","N"," "," ","Âr•∫±øºz±øºÓ","MS",80
+"springs up","NY29A","474a","E","N"," "," ","ıspr±æÓz$Â∏Ωp","MS",80
+"increasing","NY29B","474b","V","N"," "," ","±øºnÂkrái∫s±øºn","MS",81
+"rising","NY29B","474b","V","N"," "," ","rµ´∫±øz±øºÓ","MS",81
+"picking up","NY29C","474c","E","N"," "," ","ıp±´k∞´n$Â∏p","MS",82
+"rising","NY29C","474c","V","N"," "," ","r∞Ω±øzn","MS",82
+"raising","NY30A","475a","V","N"," "," ","Âre∫{±ø}z±øºÓ","MS",83
+"coming up","NY30B","475b","E","N"," "," ","Âk∏ºm±øºÓ$ı∏Ωp","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"rising","NY30E","475e","V","N"," "," ","r•∫±øz±æÓ","MS",87
+"increasing","NY30E","475e","V","N"," "," ","±øºnÂkrái∫s±øºÓ","MS",87
+"blowing harder","NY30E","475e","E","N"," "," ","Âbloº{πº}±øºÓ$ıhµé´∫¥d¥","MS",87
+"raising","NY30E","475e","V","Y"," ","AUX","re∫{±ø}z±øºÓ","MS",87
+"coming up","NY31A","478a","E","N"," "," ","k∏óºm±øÓ$Â∏´p","MS",88
+"increasing","NY31A","478a","V","N"," "," ","ı±æÓÂkÚáiΩis±øºÓ","MS",88
+"quite a breeze","NY31A","478a","O","N"," "," ","ıkwè•´±øtê∞$ÂbÚèiΩjz","MS",88
+"raising","NY31B","478b","V","N"," "," ","ÚeΩ±øz±ø›Ó","MS",89
+"rising","NY32A","479a","V","N"," "," ","ÂÚ•∫±øz±øºÓ","MS",90
+"increasing","NY32B","479b","V","N"," "," ","±øºnÂkÚáiΩis±øºÓ","MS",91
+"starting up","NY32B","479b","E","N"," "," ","Âstµé¥tê±øºÓ$ı∏´p","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"building up","NY33B","481","E","Y"," ","NEW","Âb±Ïd±øºÓ$ı∏Ωp","MS",93
+"rising","NY33B","481","V","N"," "," ","Âr•∫±æz±øºÓ","MS",93
+"wind is too high","NY33B","481","S","Y"," ","INA","Âw±ænd$∞z$ıtuΩu$Âhµ´∫±ø","MS",93
+"coming up","NY33C","482","E","N"," "," ","ık∏´ºm±øºÓ$Â∏p","MS",94
+"increasing","NY34A","483","V","N"," "," ","±ønÂkÚáiΩis±øÓ","MS",95
+"rising","NY34A","483","V","N"," "," ","Ú•∫±øz±øºÓ","MS",95
+"picking up","NY34A","483","E","N"," "," ","ıp±´k±øÓ$Â∏´p","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"strengthening","NY34D!","486!","V","N"," "," ","ÂstéÚ≤´Ók˘∞´n±øºÓ","MS",98
+"developing","NY34D!","486!","V","N"," "," ","d±øÂv≤l∞p±øÓ","MS",98
+"increasing","NY34D!","486!","V","N"," "," ","±øºnÂkráiΩis±øºÓ","MS",98
+"raising","NY35A","487","V","N"," "," ","re∫{±øΩ}z±øΩn","MS",99
+"rising","NY35B","488","V","N"," "," ","r•±ø´z±øÓ","MS",100
+"picking up","NY35C!","489!","E","N"," "," ","p±k±øÓ$∏p","MS",101
+"rising","NY36A","491","V","N"," "," ","r•±ø´z±øΩn","MS",102
+"raising","NY36B","492","V","N"," "," ","re±øΩz±øÓ","MS",103
+"rising","NY37A","493","V","N"," "," ","ra´æ±ø´z±øÓ","MS",104
+"coming up","NY37B","494","E","N"," "," ","ık∏m±øΩn$Â∏p","MS",105
+"coming up","NY37C!","495!","E","N"," "," ","k∏m±øn$∏p","MS",106
+"growing stronger","NY38A","497(*)","E","N"," "," ","ıgro{πΩ}±øΩn$ÂstÚ∂´∫Óg¥","MS",107
+"coming up","NY38B","498","E","N"," "," ","ık∏m±øÓ$Â∏p","MS",108
+"picking up","NY38C"," ","E","N"," "," ","ıp±k±øÓ$Â∏p","MS",109
+"rising","NY39A","499","V","N"," "," ","ra´æ±øz±øΩn","MS",110
+"raising","NY39B","500","V","N"," "," ","re{±ø}z±øΩn","MS",111
+"rising","NY40A","501","V","N"," "," ","rµ´±øz±øÓ","MS",112
+"rising","NY40B","502","V","N"," "," ","ra´æ±øz±øÓ","MS",113
+"increasing","NY41","504","V","N"," "," ","±nkri∫s±øÓ","MS",114
+"blowing harder","NY41","504","E","N"," "," ","blo{π}±øÓ$Âhµ´º¥d¥","MS",114
+"raising","NY42A","505","V","N"," "," ","re{±ø}z±øÓ","MS",115
+"getting stronger","NY42B","506","E","N"," "," ","ıg±Ò±øÓ$Âstr∂´∫Óg¥","MS",116
+"arising","NY43A","507","V","N"," "," ","∞Âr•±ø´z±øΩn","MS",117
+"rising","NY43B","507b","V","N"," "," ","ra´æ±ø´z±øÓ","MS",118
+"rising","NY43C!","508!","V","N"," "," ","ra±øz±øÓ","MS",119
+"blowing up","NY44A","511","E","N"," "," ","bÏo{π}±øºn$∏p","MS",120
+"stirring","NY44A","511","V","N"," "," ","st¥´±øΩn","MS",120
+"coming up","NY44B","512","E","N"," "," ","k∏m±øÓ$∏p","MS",121
+"blowing harder","NY45A","513a","E","Y","[né]: doubtful","FDT","b≈oΩºπºné$Âhµéº¥d¥","MS",122
+"increasing","NY45A","513a","V","N"," "," ","±øºnÂkÚáiΩisn","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"coming up","NY45D!","513d!","E","N"," "," ","ık∏Ωm±øºÓ$Â∏ºp","MS",125
+"increasing","NY46A","515a","V","N"," "," ","±øºnÂkÚáiΩis±øºÓ","MS",126
+"picking up","NY46A","515a","E","N"," ","CNV","Âp±´k±øºn$ı∏´p","MS",126
+"blowing torrents","NY46B","515b","E","N"," "," ","bloπw±øn$Ât`∑¥nts","MS",127
+"wind is rising","NY46B","515b","S","N"," "," ","w±nd$±z$r•´±øz±øn","MS",127
+"rising","NY46C","515c","V","N"," "," ","r•´±ø´z±øÓ","MS",128
+"crawling","NY46C","515c","V","N"," "," ","kr∑´∫Ï±øºÓ","MS",128
+"raising","NY47A","517(*)","V","N"," "," ","ÚeΩ±øz±øºÓ","MS",129
+"increasing","NY47A","517(*)","V","N"," "," ","±øºnÂkÚá±´is±øºÓ","MS",129
+"blowing harder","NY47A","517(*)","E","Y"," ","AUX","blo{π}±øÓ$hµ¥d¥","MS",129
+"rising","NY47B","518","V","N"," "," ","r•±ø´z±øÓ","MS",130
+"blowing up","NY47B","518","E","N"," "," ","bÏoΩπ±øÓ$∏Ωp","MS",130
+"rising","NY48A","519a","V","N"," "," ","r•±øz±øÓ","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"coming up","NY48C","519c","E","N"," "," ","ık∏´m±øÓà$Â∏ºp","MS",133
+"increasing","NY48D","519d","V","N"," "," ","±ø˛Ó˛ÂkÚá±øis±øÓ","MS",134
+"rising","NY48D","519d","V","Y","natural","SUG","r•±øz±øÓ","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"rising","NY49B","521","V","N"," "," ","ra±ø´z±øÓ","MS",136
+"increasing","NY49C","522a","V","N"," "," ","±ΩnÂkri{i´}s±øÓ","MS",137
+"picking up","NY49D","522b","E","N"," "," ","Âp±k±øÓ$ı∏ºp","MS",138
+"rising","NY50A","523","V","N"," "," ","Ú•Ωº±øz±øÓ","MS",139
+"increasing","NY50B","524","V","N"," "," ","±ønÂkrá±øis±øÓ","MS",140
+"freshening","NY50B","524","V","N"," "," ","frè≤Ûnñ±øÓ","MS",140
+"wind is changing","NY50B","524","S","N"," ","CNV","ıw±nd$±øz$ÂtÛeΩ±ønd˙±øÓ","MS",140
+"increasing","NY51A","525a","V","N"," "," ","±øºnÂkÚáiΩis±øºÓ","MS",141
+"started up","NY51A","525a","E","N"," "," ","stµéº¥tê±øºd$Â∏Ωp","MS",141
+"rising","NY51A","525a","V","Y"," ","SUG/HRD","Ú•´±øz±øºn","MS",141
+"coming up","NY51B","525b","E","N"," "," ","ık∏´m±øn$Â∏´p","MS",142
+"increasing","NY51B","525b","V","N"," "," ","±øºnÂkÚèá±øis±øÓ","MS",142
+"rises","NY51B","525b","V","N"," ","CNV","Âr•∫±øz±øz","MS",142
+"NR","NY51C","525c"," ","N"," "," "," ","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"breezing","NY52A","527","V","N"," "," ","bÚiΩiz±øn","MS",146
+"raising","NY52A","527","V","N"," "," ","ÂÚeΩ±øºz±øºn","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"increasing","NY52C","528b","V","N"," "," ","±øºnÂkri{i´}s±øÓ","MS",148
+"coming up","NY53A","529","E","N"," "," ","Âk∏ºm±øΩn$ı∏Ωºp","MS",149
+"rising","NY53B!","530!","V","N"," "," ","Úµ´±øz±øºÓ","MS",150
+"raising","NY54A","531","V","N"," "," ","re±øzn","MS",151
+"increasing","NY54B","532","V","N"," "," ","Â±nıkri{i´}s±øÓ","MS",152
+"rising","NY55A","533","V","N"," "," ","ÂÚ•´±øz±øºÓ","MS",153
+"rising","NY55B","534","V","N"," "," ","ÂÚ∞Ωº∫±øz±øºÓ","MS",154
+"coming up a little stouter","NY56A","535","E","N"," "," ","ık∏Ωm±øn$Â∏Ωp$∞ıl±ætêÏ$Âst≥ºπtê¥","MS",155
+"growing stronger","NY56B","536","E","N"," "," ","ıgÚoΩºπºnñ$ÂstéÚè∑Ω∫Óg¥","MS",156
+"raising","NY56B","536","V","N"," ","CNV","ÚeΩ{±ø}zn","MS",156
+"raising","NY57A","537a","V","N"," "," ","ÚeΩ±øz±øºÓ","MS",157
+"NR","NY57B","537b"," ","N"," "," "," ","MS",158
+"rising","NY57C!","537c!","V","Y"," ","SUG/HRD","ÂÚ•Ω±øz±øÓ","MS",159
+"increasing","NY57C!","537c!","V","N"," "," ","±ænÂkÚáiΩis±øÓ","MS",159
+"more brisk","NY58A","539a","K","N"," "," ","ımoé¥$Âbróá±´sk","MS",160
+"bringing","NY58A","539a","V","N","[springing?]"," ","br±´Ó±øºÓ","MS",160
+"coming up","NY58B","539b","E","N"," "," ","Âk∏ºm∞´n$ı∏ºp","MS",161
+"NR","NY58C","539c"," ","N"," "," "," ","MS",162
+"coming up","NY58D!","539d!","E","N"," "," ","ık∏ºm±øºÓ$Â∏´ºp","MS",163
+"increasing","NY58E!","539e!","V","N"," "," ","±øºnÂkÚáiΩiz±øºÓ","MS",164
+"blowing harder","NY58E!","539e!","E","N"," "," ","Âb≈oøºπ±øºÓ$ıhµé¥d¥","MS",164
+"blowing more","NY58E!","539e!","E","N"," "," ","Âb≈oøºπ±øºÓ$ımoΩº¥","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"rising","NY59A","543","V","N"," "," ","ÂÚ•Ω∫±øz±øÓ","MS",166
+"getting stronger","NY59B","544","E","N"," "," ","g±tê±øΩn$Âstr∂´∫Óg¥›","MS",167
+"rising","NY59B","544","V","N"," "," ","r•›æ±ø›´z±øÓ","MS",167
+"increasing","NY60A","545","V","N"," "," ","±ønÂkÚá±is±øÓ","MS",168
+"raising","NY60A","545","V","N"," "," ","ÂÚeΩ∫±øz±øÓ","MS",168
+"lifting","NY60B!","546!","V","N"," "," ","Âl±ft±øÓ","MS",169
+"blowing hard","NY61A","547","E","N"," "," ","ıbÏoº{πº}±øÓ$Âhµé¥d","MS",170
+"increasing","NY61A","547","V","N"," "," ","±øºÓÂkrái∫s±øºÓ","MS",170
+"it comes up strong","NY61A","547","S","N"," ","CNV","±øºt$ık∏Ωmz$Â∏Ωp$ÂstéÚ∑∫{∞}Ó","MS",170
+"rising","NY61B","548","V","N"," "," ","r•´∫±øz±øºÓ","MS",171
+"rising","NY62A","551a","V","N"," "," ","r∞Ω±øz±øºÓ›","MS",172
+"blowing harder","NY62A","551a","E","N"," "," ","ıbÏoºπº±ø›n$Âhµé¥d¥","MS",172
+"coming up","NY62B","551b","E","N"," "," ","ık∏Ωm±øÓ$Â∏Ωp","MS",173
+"going up","NY62C","551c","E","N"," "," ","ıgoºπ±øÓ$Â∏ºp","MS",174
+"coming up","NY62D!","551d!","E","N"," "," ","ık∏ºm±øºÓ$Â∏ºp","MS",175
+"coming up","NY63A","556a","E","N"," "," ","Âk•´æm±øºÓ$ı∏ºp","MS",176
+"blowing hard","NY63B","556b","E","N"," "," ","ıb≈oº{πº}±øÓ$Âh•éΩ¥d","MS",177
+"increasing","NY63B","556b","V","N"," "," ","±øºnÂkriΩis±øºÓ","MS",177
+"rising","NY63C","556c","V","N"," "," ","r•Ω±øz±øÓ","MS",178
+"getting stronger","NY63D!","556d!","E","N"," "," ","ıgà≤'tn$ÂstéÚ∑Ω∫Óg¥","MS",179
+"getting windier","NY63D!","556d!","E","N"," "," ","ıgà≤'tn$Âw±ænd±´æ∫¥","MS",179
+"raising","NY64A","557a","V","N"," "," ","r∞±øz±´æÓ","MS",180
+"getting stronger","NY64B","557b","E","N"," "," ","ıg≤´tê±øÓ$ÂstéÚ∑Ω∫{∞}Óg¥›","MS",181
+"increasing","NY64B","557b","V","N"," "," ","Â±ænıkrái{j}s±øºÓ","MS",181
+"raising","NY64C!","557c!","V","N"," "," ","re∫±æz±øºÓ","MS",182
+"breezing up","NJ1A","1","E","N"," "," ","briΩiz∞n$∏p","MS",183
+"raising","NJ1A","1","V","N"," "," ","r≤±øz∞n","MS",183
+"breezing up","NJ1B","2","E","N"," "," ","briΩiz±øÓ$∏´{∞}p","MS",184
+"breezing up","NJ2A","3(*)","E","N"," "," ","briΩiz∞n$∏´æ{∞}p","MS",185
+"springing up","NJ2A","3(*)","E","N"," "," ","spr±Ó∞n$∏´æ{∞}p","MS",185
+"breezing up","NJ2B","4","E","N"," "," ","briΩiz±øΩn$∏p","MS",186
+"raising","NJ3A","5","V","N"," "," ","r≤´±øz∞n","MS",187
+"breezing up","NJ3A","5","E","N"," "," ","briΩiz∞n$∏{∞}p","MS",187
+"getting brisker","NJ3B","6","E","N"," "," ","g±tn$br±sk¥","MS",188
+"rising","NJ3B","6","V","N"," "," ","raæ±øz±øÓ","MS",188
+"springing up","NJ4A","7","E","N"," "," ","spr±Ó∞n$∏p","MS",189
+"breezing up","NJ4A","7","E","N"," "," ","briΩiz∞n$∏p","MS",189
+"a-raising","NJ4B","8","V","N"," "," ","∞r≤´±øz±øÓ","MS",190
+"raising","NJ5A","9","V","N"," "," ","r≤±øz∞n","MS",191
+"raising","NJ5B","10","V","N"," "," ","r≤±øz∞n","MS",192
+"increasing","NJ6A","11","V","N"," "," ","±nÂkri∫s∞n","MS",193
+"breezing up","NJ6A","11","E","N"," "," ","ıbri∫z∞n$Â∏ºp","MS",193
+"arising","NJ6B","12","V","N"," "," ","∞rµº±øz∞n","MS",194
+"breezing up","NJ6B","12","E","Y","baymen say","HRD","briΩiz∞n$∏p","MS",194
+"a-raising","NJ7A","17","V","N"," "," ","∞r≤±øz∞n","MS",195
+"springing up","NJ7B!","18!","E","N"," "," ","ıspr±Ó±øÓ$Â∏p","MS",196
+"raising","NJ8A","19","V","N"," "," ","re±øz±øÓ","MS",197
+"breezing up","NJ8B","20","E","N"," "," ","ıbri∫z±øÓ$Â∏ºp","MS",198
+"rising","NJ9A","21","V","N"," "," ","rµ´±øz±øÓ","MS",199
+"breezing","NJ9A","21","V","N"," "," ","br±´iz∞n","MS",199
+"getting up","NJ9B","22","E","N"," "," ","g±øtê±øÓ$∏p","MS",200
+"breezing up","NJ9B","22","E","N"," "," ","briΩ∫jz±øÓ$∏p","MS",200
+"blowing up","NJ10A","24b","E","N"," "," ","ıbloΩºπ∞n$Â∏ºp","MS",201
+"breezing up","NJ10B","23","E","N"," "," ","br±iz∞n$∏p","MS",202
+"rising","NJ10C","24","V","N"," "," ","raæ±øz±øÓ","MS",203
+"freshening","NJ10D!","24c!","V","N"," "," ","fr≤Û∞n±øÓ","MS",204
+"raising","NJ11A","25","V","N"," "," ","reΩ±øz±øÓ","MS",205
+"coming up","NJ11B","26a","E","N"," "," ","k∏m±øÓ$∏›Ωp","MS",206
+"blowing harder","NJ11C","26b","E","N"," "," ","bloΩºπ±øÓ$hµæ¥d¥","MS",207
+"raising","NJ12A","27","V","N"," "," ","r≤´±øz±øÓ","MS",208
+"coming up","NJ12B","28","E","N"," "," ","k∏Ωm±øÓ$∏›Ωp","MS",209
+"a-raising","NJ13A","29","V","N"," "," ","∞r≤´±øz∞n","MS",210
+"rising","NJ13B","30","V","N"," "," ","rµ±øz±øÓ","MS",211
+"rising","NJ14A","31","V","N"," "," ","rµ±øz±øÓ","MS",212
+"rising","NJ14B","32","V","N"," "," ","rµ±øz±øÓ","MS",213
+"rising","NJ15A","33","V","N"," "," ","raæ±øz±øÓ","MS",214
+"rising","NJ15B","34","V","N"," "," ","rµº±øz±øÓ","MS",215
+"raising","NJ16A","35","V","N"," "," ","r≤´±øz±øÓ","MS",216
+"raising","NJ16B","36","V","N"," "," ","r≤±øz±øÓ","MS",217
+"rising","NJ17A","37","V","N"," "," ","rµ±ø´z±øÓ","MS",218
+"rising","NJ17B","38","V","N"," "," ","rµ±øz±øÓ","MS",219
+"getting up","NJ17B","38","E","N"," "," ","g≤Ò±øÓ$∏º∫p","MS",219
+"increasing","NJ18A","41","V","N"," "," ","±nÂkri∫s±øÓ","MS",220
+"rising","NJ18B","42","V","N"," "," ","ra±øz±øÓ","MS",221
+"rising","NJ18C!","43!","V","N"," "," ","raæ±øz±øÓ","MS",222
+"freshening","NJ18D!","44!","V","N"," "," ","fr≤Ûnñ±øÓ","MS",223
+"increasing","NJ19A","45","V","N"," "," ","±nkri∫s±øÓ","MS",224
+"rising","NJ19B!","46!","V","N"," "," ","ra±øz±øÓ","MS",225
+"getting high","NJ20A","47","E","N"," "," ","g≤t±øÓ$ha±ø","MS",226
+"blowing stronger","NJ20B","47b","E","N"," "," ","bloπ±øÓ$stÚµæÓg¥","MS",227
+"rising","NJ21A","48","V","N"," "," ","rµº∫±øz±øÓ","MS",228
+"getting stronger","NJ21B","49","E","N"," "," ","g±tn$stÚµÓg¥","MS",229
+"getting stronger","PA1A","51","E","N"," "," ","g±tê±øÓ$strµÓg¥","MS",230
+"increasing","PA1B","52","V","N"," "," ","±nÂkriΩis±øÓ","MS",231
+"getting up","PA1C","53","E","N"," "," ","ıg≤tê±øÓ$Â∏p","MS",232
+"blowing up","PA1D","54","E","N"," "," ","bloΩºπ∞n$∏p","MS",233
+"coming up","PA1E!","55!","E","N"," "," ","k∏m±øÓ$∏p","MS",234
+"rising","PA1F!","56!","V","N"," "," ","ra∫±øΩz±øÓ","MS",235
+"lifting","PA1G!","57!","V","N"," "," ","Âl±ft±øÓ","MS",236
+"freshening","PA1H!","58!","V","N","at sea"," ","fr≤Û∞n±øÓ","MS",237
+"rising","PA1H!","58!","V","N"," "," ","rµ≤´z±øÓ","MS",237
+"raising","PA2A","59","V","N"," "," ","r≤±øz±øÓ","MS",238
+"getting stronger","PA2B","60","E","N"," "," ","g≤Ò±øÓ$stÚ∑∫Óg¥","MS",239
+"getting up","PA2B","60","E","N"," "," ","g≤Ò±øÓ$∏p","MS",239
+"getting up","PA3A","61","E","N"," "," ","ıg≤tê±øÓ$Â∏Ωp","MS",240
+"rising","PA3B","62","V","N"," "," ","rµº±øz±øÓ","MS",241
+"rising","PA3C","62b","V","N"," "," ","ra±øz±øÓ","MS",242
+"getting higher","PA4A","63","E","N"," "," ","g≤tê±øÓ$hµ±øΩ¥","MS",243
+"coming up","PA4B!","64!","E","N"," "," ","ık∏m±øÓ$Â∏p","MS",244
+"getting up","PA5A","65(*)","E","N"," "," ","ıg±'tn$Â∏p","MS",245
+"a-raising","PA5A","65(*)","V","N"," "," ","∞r≤±øzn","MS",245
+"raising","PA5A","65(*)","V","Y"," ","AUX","r·´±øz∞n","MS",245
+"getting stronger","PA5B","65b","E","N"," "," ","g±'tn$str∑Ω∫Óg¥","MS",246
+"getting higher","PA5B","65b","E","N"," "," ","g±'tn$hµº∫≤¥","MS",246
+"rising","PA5C","66","V","N"," "," ","rµ±øΩz±øÓ","MS",247
+"getting higher","PA5D","67","E","N"," "," ","g±tn$Âhaæ±øΩ¥","MS",248
+"getting up","PA5E!","68!","E","N"," "," ","g±tn$∏´º{∞}p","MS",249
+"getting heavier","PA6A","69","E","N"," "," ","g±tî±Ó$h≤ˆ±ø´∞{’}","MS",250
+"rising","PA6B","71","V","N"," "," ","ra±øz±øÓ","MS",251
+"raising","PA6B","71","V","N"," "," ","re∫z±øÓ","MS",251
+"getting stronger","PA6C","71b","E","N"," "," ","g±tn$Âstr∑Óg∞{’}","MS",252
+"blowing harder","PA6D!","72!","E","N"," "," ","bloπ±øÓ$hµ¥d¥","MS",253
+"getting up","PA7A","73","E","N"," "," ","g±tn$∏´º{∞}p","MS",254
+"getting stronger","PA7B","74","E","N"," "," ","g≤Ò±øÓ$stÚ∑Ω∫Óg¥","MS",255
+"raising","PA7C","75","V","N"," "," ","re∫z±øÓ","MS",256
+"rising","PA7D!","76!","V","N"," "," ","ra∫±øΩz±øÓ","MS",257
+"raising","PA8A","77","V","N"," "," ","r≤´±øz∞n","MS",258
+"getting stronger","PA8B","78","E","N"," "," ","g≤Ò±øÓ$stÚ∂´∫Óg¥","MS",259
+"increases","PA8C","79","V","N"," "," ","±nÂkri∫sî∞sî","MS",260
+"blowing harder","PA8D!","80!","E","N"," "," ","blo∫|±øÓ$Âh∂¥d¥","MS",261
+"increasing","PA9A","83","V","N"," "," ","±nÂkri∫s±Ó","MS",262
+"raising up","PA9B","83b","E","N"," "," ","ıre∫zn$Â∏p","MS",263
+"rising","PA9C!","84!","V","N"," "," ","ra∫±øz±øÓ","MS",264
+"getting stronger","PA10","87","E","N"," "," ","gè≤tî±Ó$str∑Óg∞rü’","MS",265
+"getting stronger","PA11A","89","E","N"," "," ","g±tê±øÓ$str∂∫Óg¥","MS",266
+"coming up","PA11A","89","E","N"," "," ","k∏Ωm±øÓ$∏p","MS",266
+"getting higher","PA11B","90(*)","E","N"," "," ","g±'tn$hµ±ø¥","MS",267
+"coming up","PA11B","90(*)","E","Y"," ","AUX","k∏Ωæm∞n$∏Ωp","MS",267
+"getting up","PA12A","91","E","N"," "," ","g±tn$∏p","MS",268
+"getting up","PA12B","92","E","N"," "," ","ıg≤Ò±øÓ$Â∏p","MS",269
+"getting stronger","PA13A","93","E","N"," "," ","ıg±tn$Âstr∂´∫Óg¥","MS",270
+"getting stronger","PA13B","94","E","N"," "," ","g±tê±øÓ$str∂´∫Óg¥","MS",271
+"getting higher","PA14A","95(*)","E","N"," "," ","g±tî±øÓ$hµ±ø∞rü’","MS",272
+"blowing up","PA14B","96","E","N"," "," ","blo´{π}±øÓ$∏´æp","MS",273
+"stirring up","PA14B","96","E","N"," "," ","st¥∫±øÓ$∏´æp","MS",273
+"getting stronger","PA14C"," ","E","N"," "," ","g≤´tî±øÓ$str∑Óg¥","MS",274
+"a-raising","PA15A","99","V","N"," "," ","∞reΩ∫{±øΩ}z±øΩn","MS",275
+"rising","PA15B","99b","V","N"," "," ","ra´æ±øz±øÓ","MS",276
+"rising","PA15C!","100!","V","N"," "," ","r•Ωº±øz±øÓ","MS",277
+"rising","PA16A","101","V","N"," "," ","ra±øs±øÓ","MS",278
+"coming up","PA16B","102","E","N"," "," ","ık∏m±øÓ$Â∏p","MS",279
+"getting higher","PA16C","103","E","N"," "," ","g±tn$ha±ø´¥","MS",280
+"getting stronger","PA17A","105","E","N"," "," ","gè≤tên$stîr∑Ω∫Óg∞{r}","MS",281
+"stirring","PA17B","106","V","N"," "," ","st∞r±øÓ","MS",282
+"getting stronger","PA18A","107","E","N"," "," ","g±tê±øÓ$stÚ∂´∫Óg¥","MS",283
+"coming up","PA18B!","108!","E","N"," "," ","ık∏m±øÓ$Â∏p","MS",284
+"a-raising","PA19A","113","V","N"," "," ","∞Âre∫{±ø}z∞n","MS",285
+"blowing harder","PA19B","114","E","N"," "," ","bloπ±øÓ$hµ¥d¥","MS",286
+"raising","PA20A","115","V","N"," "," ","reΩ∫{±ø}z∞n","MS",287
+"raising","PA20B","116","V","N"," "," ","reΩ∫{±øΩ}z±øΩn","MS",288
+"getting higher","PA21A","117","E","N"," "," ","ıg±tn$Âh•Ω±ø¥","MS",289
+"starting up","PA21B","118","E","N"," "," ","ıstaæ¥tê±øÓ$Â∏Ωp","MS",290
+"rising","PA22A","119","V","N"," "," ","ra´æ±øz±øÓ","MS",291
+"a-raising","PA22B","120","V","N"," "," ","∞Âre∫{±øΩ}z±øΩn","MS",292
+"arising","PA23A","121","V","N"," "," ","∞ra´æ±øz±øÓ","MS",293
+"rising","PA23B","122","V","N"," "," ","ra´æ±øz±øÓ","MS",294
+"raising","PA24A","123","V","N"," "," ","re∫{±øΩ}z±øÓ","MS",295
+"raising","PA24B","124","V","N"," "," ","re{±ø}z±øÓ","MS",296
+"raising","PA25A","125","V","N"," "," ","re{±ø}z±øÓ","MS",297
+"coming up","PA25B","126","E","N"," "," ","k∏m±øÓ$∏p","MS",298
+"rising","PA26A","127","V","N"," "," ","ra´æ±øz±øΩn","MS",299
+"picking up","PA26B","128","E","N"," "," ","p±k±øÓ$∏Ω∫p","MS",300
+"getting stronger","PA27A","131","E","N"," "," ","g±'tn$stÚ∑Ω∫ng¥","MS",301
+"picking up","PA27B","132","E","N"," "," ","p±k±øΩn$∏Ωp","MS",302
+"raising","PA28A","135","V","N"," "," ","re{±ø}z∞n","MS",303
+"getting stronger","PA28B!","136!","E","N"," "," ","g±tê±øÓ$str∂´∫Óg¥","MS",304
+"coming up","PA29A","139(*)","E","N"," "," ","k∏m∞n$∏p","MS",305
+"raising","PA29A","139(*)","V","Y"," ","AUX","re{±ø}z±øÓ","MS",305
+"rising","PA29B","140","V","N"," "," ","ra±øz±øÓ","MS",306
+"raising","PA30A","143","V","N"," "," ","re∫{±ø}z±øΩn","MS",307
+"rising","PA30B","144","V","N"," "," ","ra±øz±øÓ","MS",308
+"rising","PA31A","145","V","N"," "," ","ra´æ±øz±øÓ","MS",309
+"starting up","PA31B","146","E","N"," "," ","stµ¥tê±øÓ$∏Ωp","MS",310
+"rising","PA32A","147","V","N"," "," ","raæ±øz±øÓ","MS",311
+"a-raising","PA32B","148","V","N"," "," ","∞Âre∫{±ø}z∞n","MS",312
+"raising","PA33A","151","V","N"," "," ","re{±ø}z±øÓ","MS",313
+"raising","PA33B","152","V","N"," "," ","r≤´±øz∞n","MS",314
+"raising","PA34A","155","V","N"," "," ","re±øz±øÓ","MS",315
+"getting up","PA34B","156","E","N"," "," ","g±'tn$∏Ωp","MS",316
+"rising","PA34C!","155b!","V","N"," "," ","ra±øz±øÓ","MS",317
+"getting up","PA35A","157","E","N"," "," ","ıg±tn$Â∏p","MS",318
+"getting stronger","PA35B","158(*)","E","N"," "," ","g±tn$str∂´∫Óg¥","MS",319
+"raising","PA35C"," ","V","N"," "," ","re{±ø}z∞n","MS",320
+"getting stronger","PA36A","159","E","N"," "," ","g±tn$str∂´∫Óg¥","MS",321
+"getting stronger","PA36B","160","E","N"," "," ","g±tn$str∂´∫Óg¥","MS",322
+"becoming stronger","PA37A","161(*)","E","N"," "," ","b±øık∏m±øÓ$Âstr∂Óg¥","MS",323
+"getting stronger","PA37B","162","E","N"," "," ","g≤´tn$Âstr∂Óg¥","MS",324
+"getting stronger","PA37C"," ","E","N"," "," ","g±'tn$str∂´∫Óg¥","MS",325
+"getting stronger","PA38A","163","E","N"," "," ","g±tn$str∂´Óg¥","MS",326
+"getting stronger","PA38B","164","E","N"," "," ","g±tn$stÚ∂´∫Óg¥","MS",327
+"rising","PA39A","165","V","N"," "," ","ra±øz±øÓ","MS",328
+"getting higher","PA39A","165","E","N"," "," ","g≤tê±øÓ$ha±ø¥","MS",328
+"getting stronger","PA39B","166","E","N"," "," ","g±tn$Âstr∂´Óg¥","MS",329
+"getting stronger","PA40A","167","E","N"," "," ","g±tê±øn$str∂´∫Óg¥","MS",330
+"getting stronger","PA40B","168","E","N"," "," ","g±tê±øÓ$str∂´∫Óg¥","MS",331
+"getting higher","PA41A","171","E","N"," "," ","g±'tn$hµº≤¥","MS",332
+"getting up","PA41B","172","E","N"," "," ","g≤Ò±øÓ$∏{∞}p","MS",333
+"getting up","PA42A","175","E","N"," "," ","g±'tn$∏Ωp","MS",334
+"raising","PA42B","176","V","N"," "," ","reΩ±øz±øÓ","MS",335
+"getting higher","PA43A","177","E","N"," "," ","g±tn$haæ≤¥","MS",336
+"rising","PA43B","178","V","N"," "," ","raæ∫±øΩz±øÓ","MS",337
+"getting stronger","PA43B","178","E","N"," "," ","g±tê±øÓ$str∑∫Óg¥","MS",337
+"getting stronger","PA44A","179","E","N"," "," ","g±'tn$str∂´∫Óg¥","MS",338
+"rising","PA44A","179","V","N"," "," ","ra±øz±øÓ","MS",338
+"raising","PA44B","180","V","N"," "," ","reΩ±øz±øÓ","MS",339
+"raising","PA45A","181","V","N"," "," ","re±øΩz±øÓ","MS",340
+"getting higher","PA45B","182","E","N"," "," ","g±tn$Âha≤¥","MS",341
+"a-raising","PA46A","185","V","N"," "," ","∞reΩ±øz±øÓ","MS",342
+"coming up","PA46B","186","E","N"," "," ","k∏´m±øÓ$∏´p","MS",343
+"rising","PA46B","186","V","N"," "," ","ra±øΩz±øÓ","MS",343
+"a-raising","PA47A","189","V","N"," "," ","∞Âre±øΩz∞n","MS",344
+"raising","PA47B","190","V","N"," "," ","re±øz±øÓ","MS",345
+"getting up","PA48A","191","E","N"," "," ","g±tê±øÓ$∏Ωp","MS",346
+"getting up","PA48B","192","E","N"," "," ","g±'tn$Â∏p","MS",347
+"rising","PA48C","193","V","N"," "," ","ra´æ±øz±øÓ","MS",348
+"getting higher","PA49A","194","E","N"," "," ","g±'tn$ha±ø¥","MS",349
+"rising","PA49B","195","V","N"," "," ","rµº∫±øz±øÓ","MS",350
+"getting strong","PA50A","196","E","N"," "," ","g±'tn$str∑∫Ó","MS",351
+"getting stronger","PA50B","197","E","N"," "," ","ıg±tê±øÓ$Âstr∑Ω∫Óg¥","MS",352
+"raising","PA50C!","198!","V","N"," "," ","Âr≤´±øz±øÓ","MS",353
+"rising","PA51A","199","V","N"," "," ","ra±øz±øÓ","MS",354
+"getting higher","PA51B","200","E","N"," "," ","g±tê±øÓ$ha±ø¥","MS",355
+"getting higher","PA52A","201","E","N"," "," ","g±'tn$hµ±ø¥","MS",356
+"getting up","PA52B!","202!","E","N"," "," ","ıg≤Ò±øÓ$Â∏p","MS",357
+"getting up","PA53A","203","E","N"," "," ","g±tn$∏p","MS",358
+"getting up","PA53B","204","E","N"," "," ","g±ΩÒ±øÓ$∏Ωp","MS",359
+"raising","PA54A","205","V","N"," "," ","r≤´±øz∞n","MS",360
+"increasing","PA54B","206","V","N"," "," ","±nÂkr±is±øÓ","MS",361
+"getting higher","PA55A","207","E","N"," "," ","g±tn$ha±ø¥","MS",362
+"freshening","PA55B","208","V","N"," "," ","fr≤Û∞n±øÓ","MS",363
+"rising","PA56A","211(*)","V","N"," "," ","ra±øz±øÓ","MS",364
+"raising","PA56B","212","V","N"," "," ","reΩ±øz∞n","MS",365
+"arising","PA57A","213","V","N"," "," ","∞ra±øz∞n","MS",366
+"coming up","PA57B","214","E","N"," "," ","k∏Ωm±øÓ$∏Ωp","MS",367
+"increasing","PA58A","215","V","N"," "," ","±nkr±æis∞n","MS",368
+"getting up","PA58B","216","E","N"," "," ","g±'tn$∏p","MS",369
+"rising","PA58B","216","V","N"," "," ","ra±øz±øÓ","MS",369
+"getting stronger","PA59A","219","E","N"," "," ","g±'tn$str∂Óg¥","MS",370
+"rising","PA59B","220","V","N"," "," ","ra±øz±øÓ","MS",371
+"getting up","PA60A","221","E","N"," "," ","ıg±'tn$Â∏p","MS",372
+"raising","PA60B","222","V","N"," "," ","reΩ±øz±øÓ","MS",373
+"getting stronger","PA61A","223","E","N"," "," ","g±'tn$str∂´Óg¥","MS",374
+"rising","PA61B","224","V","N"," "," ","ra±ø´z∞n","MS",375
+"raising","PA62A","229","V","N"," "," ","reΩ±øz∞n","MS",376
+"getting stronger","PA62B","230","E","N"," "," ","g±'tn$str∂´Óg¥","MS",377
+"raising","PA63A","231","V","N"," "," ","re±øz±øÓ","MS",378
+"raising","PA63B","232","V","N"," "," ","re±øz±øÓ","MS",379
+"rising","PA64A","233","V","N"," "," ","ra±øz±øÓ","MS",380
+"rising","PA64B","234","V","N"," "," ","r•±øz±øÓ","MS",381
+"raising","PA65A","237","V","N"," "," ","r≤´±øz±øΩn","MS",382
+"rising","PA65B","238","V","N"," "," ","ra±øz±øÓ","MS",383
+"raising","PA66A","239","V","N"," "," ","r≤±øz∞n","MS",384
+"raising","PA66B","240","V","N"," "," ","r≤´±øz∞›n","MS",385
+"raising","PA67A","243","V","N"," "," ","reΩ±øz±øÓ","MS",386
+"coming up","PA67B","244","E","N"," "," ","ık∏Ωm±øÓ$Â∏Ω∫p","MS",387
+"rising","WV1!","88!","V","N"," "," ","ra∫≤z±øÓ","MS",388
+"getting higher","WV2","89","E","N"," "," ","g±tn$haæ∫{≤æ}∞é","MS",389
+"a-raising","WV3","91","V","N"," "," ","∞reΩ±øz∞n","MS",390
+"getting higher","WV4A","92","E","N"," "," ","g±tn$haæ∫≤æ¥","MS",391
+"raising","WV4B","93","V","N"," "," ","reΩ±øz±øΩn","MS",392
+"getting strong","WV5","94","E","N"," "," ","g±tn$stÚ∑Ω∫Ó","MS",393
+"getting higher","WV6A","95","E","N"," "," ","g±tn$haæ≤¥","MS",394
+"rising","WV6B","96","V","N"," "," ","ra∫≤z∞n","MS",395
+"a-raising","WV7A","97","V","N"," "," ","∞reΩ±øz∞n","MS",396
+"getting stronger","WV7B","98","E","N"," "," ","g≤Ò±øÓ$stÚ∑Ω∫Óg¥","MS",397
+"getting higher","WV8A","97b","E","N"," "," ","g±tn$hµ∫¥","MS",398
+"rising","WV8B","98b","V","N"," "," ","ra∫≤z±øÓ","MS",399
+"raising","WV9A","301","V","N"," "," ","re±øz∞n","MS",400
+"a-raising","WV9B","302","V","N"," "," ","∞ÂreΩ±øz±øÓ","MS",401
+"raising","WV10A","303","V","N"," "," ","re±øzn","MS",402
+"a-raising","WV10B","303b","V","N"," "," ","∞re±øz±øÓ","MS",403
+"coming up","WV10C","304","E","N"," "," ","ık∏ºm±øÓ$Â∏º{∞}p","MS",404
+"a-raising","WV11A","305","V","N"," "," ","∞re±øz∞n","MS",405
+"raising","WV11B!","306!","V","N"," "," ","re±øz±øÓ","MS",406
+"a-raising","WV12A","307","V","N"," "," ","∞reΩ±øz±øÓ","MS",407
+"raising","WV12B","308","V","N"," "," ","re±øz±øÓ","MS",408
+"a-raising","WV13A","309","V","N"," "," ","∞reΩ±øz∞›n","MS",409
+"raising","WV13B","310","V","N"," "," ","reΩ±øzn","MS",410
+"rising","WV14A","311","V","N"," "," ","ra±øz±øÓ","MS",411
+"stirring","WV14B","312","V","N"," "," ","st{∞}¥∞n","MS",412
+"raising","WV15A","313","V","N"," "," ","r≤´±øz∞n","MS",413
+"a-getting higher","WV15A","313","E","N"," "," ","∞g±tn$hµ≤¥","MS",413
+"raising","WV15B","314","V","N"," "," ","reΩ±øz±øÓ","MS",414
+"rising","WV16A","315","V","N"," "," ","ra±øΩz∞n","MS",415
+"rising","WV16B","316","V","N"," "," ","ra±øΩz±øÓ","MS",416
+"raising","WV17A","317","V","N"," "," ","rée±øz∞n","MS",417
+"raising","WV17B","317b","V","N"," "," ","re±øz±øÓ","MS",418
+"a-raising","WV17C","318","V","N"," "," ","∞reΩ±øz∞n","MS",419
+"getting higher","WV18A","319","E","N"," "," ","ıg±tn$Âhµ∫≤´¥","MS",420
+"rising","WV18B","320","V","N"," "," ","ra±øΩz±øÓ","MS",421
+"a-raising","WV19A","321","V","N"," "," ","∞Âre±øz∞n","MS",422
+"rising","WV19B","322","V","N"," "," ","r•±øz∞n","MS",423
+"getting higher","WV20A","323","E","N"," "," ","g±tn$haæ∫{≤æ}¥","MS",424
+"a-raising","WV20B","324","V","N"," "," ","∞Âre±øz±øÓ","MS",425
+"raising","WV21A","325","V","N"," "," ","re´±øΩz∞n","MS",426
+"raising","WV21B","326","V","N"," "," ","re±øz∞n","MS",427
+"raising","WV22A","327","V","N"," "," ","re±øz∞n","MS",428
+"getting up","WV22B","328","E","N"," "," ","g≤Ò±øÓ$∏º{∞}p","MS",429
+"getting stronger","WV23A","331","E","N"," "," ","g±tn$str∑Ω∫Óg¥","MS",430
+"rising","WV23B","332","V","N"," "," ","ra∫≤z±øÓ","MS",431
+"a-raising","WV24A","335","V","N"," "," ","∞Âre±øz∞n","MS",432
+"rising","WV24B","336","V","N"," "," ","ra∫≤z±øÓ","MS",433
+"raising","WV25A","337","V","N"," "," ","re∫{±ø}z∞n","MS",434
+"getting higher","WV25A","337","E","N"," "," ","g±tn$haæ≤¥","MS",434
+"raising","WV25B","338","V","N"," "," ","re±øz±øÓ","MS",435
+"blowing harder","WV26A","339","E","N"," "," ","blo∫{π}∞n$hµ¥d¥","MS",436
+"getting higher","WV26B","340","E","N"," "," ","ıg±tn$Âha∫≤¥","MS",437
+"raising","WV27A","341","V","N"," "," ","re±øz∞n","MS",438
+"arising","WV27B","342","V","N"," "," ","∞Âra∫≤z∞n","MS",439
+"a-raising","WV28A","343","V","N"," "," ","∞reΩ±øzn","MS",440
+"raising","WV28B","344","V","N"," "," ","re±øz±øÓ","MS",441
+"coming up","WV29A","345","E","N"," "," ","k∏ºm∞n$∏ºp","MS",442
+"getting stronger","WV29B","346","E","N"," "," ","g±tn$str∑Ω∫Óg¥","MS",443
+"raising","WV30A","347","V","N"," "," ","reΩ±øz∞n","MS",444
+"rising","WV30B","348","V","N"," "," ","Âr•±øz±øÓ","MS",445
+"getting higher","WV31A","349","E","N"," "," ","g±tn$haæ≤¥","MS",446
+"a-raising","WV31B","350","V","N"," "," ","∞reΩ±øz∞n","MS",447
+"getting higher","WV32A","353","E","N"," "," ","g±tn$hµ{∞}ré","MS",448
+"a-raising","WV32A","353","V","N"," "," ","∞re±øz∞n","MS",448
+"raising","WV32B","354","V","N"," "," ","re±øz∞n","MS",449
+"a-raising","WV33A","355","V","N"," "," ","∞re±øz∞n","MS",450
+"raising","WV33B","356","V","N"," "," ","re±øz±øÓ","MS",451
+"raising","WV34A","359","V","N"," "," ","re±øz∞n","MS",452
+"a-raising","WV34B","360","V","N"," "," ","∞ÂreΩ±øz∞n","MS",453
+"a-raising","WV35A","361","V","N"," "," ","∞Âre±øz∞n","MS",454
+"rising","WV35B","362","V","N"," "," ","ra∫≤z±øÓ","MS",455
+"getting blustery","WV36A","363","E","N"," "," ","ıg±tn$Âbl∏ºst¥±ø´","MS",456
+"rising","WV36B","364","V","N"," "," ","ra∫±øΩz±øÓ","MS",457
+"getting higher","WV37A","365","E","N"," "," ","ıg±tn$Âhaæ≤´¥","MS",458
+"raising","WV37B!","366!","V","N"," "," ","re±øz±øÓ","MS",459
+"getting stronger","WV38A","367","E","N"," "," ","ıg±tn$Âstr∑Ω∫Óg¥","MS",460
+"raising","WV38B","368","V","N"," "," ","reΩ±øz±øÓ","MS",461
+"springing up","WV39A","369","E","N"," "," ","ıspr±Ó∞n$Â∏ºp","MS",462
+"getting blustery","WV39B","370","E","N"," "," ","ıg±tn$Âbl∏ºst¥±ø´","MS",463
+"rising","WV39C!","371!","V","N"," "," ","ra∫≤z±øÓ","MS",464
+"raising","WV40A","373","V","N"," "," ","re±øz∞n","MS",465
+"increasing","WV40B","374","V","N"," "," ","±Ókri∫s±øÓ","MS",466
+"raising","WV41A","375","V","N"," "," ","re±øz∞n","MS",467
+"a-raising","WV41B","376","V","N"," "," ","∞reΩ±øz±øÓ","MS",468
+"arising","WV42A","377","V","N"," "," ","∞ra±øz±øÓ","MS",469
+"getting higher","WV42B","378","E","N"," "," ","g±tn$haæ±øΩ¥","MS",470
+"raising","WV43A","381","V","N"," "," ","re±øz±øÓ","MS",471
+"raising","WV43B","382","V","N"," "," ","re±øz±øÓ","MS",472
+"raising","WV44A","383","V","N"," "," ","re±øz∞n","MS",473
+"coming up","WV44B","384","E","N"," "," ","k∏m±øÓ$∏p","MS",474
+"getting higher","WV45A","385","E","N"," "," ","ıg±tn$Âhaæ±øΩ¥","MS",475
+"raising","WV45B","386","V","N"," "," ","re±øz±øÓ","MS",476
+"raising","WV46A","387","V","N"," "," ","Âre±øz∞n","MS",477
+"raising","WV46B","388","V","N"," "," ","re±øz±øÓ","MS",478
+"rising","WV47A","389","V","N"," "," ","ra±øΩz±øÓ","MS",479
+"raising","WV47B","390","V","N"," "," ","reΩ±øz∞n","MS",480
+"arising","WV48A","391","V","N"," "," ","∞raæ±øΩz±øÓ","MS",481
+"raising","WV48B","391b","V","N"," "," ","re±øz±øÓ","MS",482
+"rising","WV48C","392","V","N"," "," ","raæ∫±øΩz±øÓ","MS",483
+"raising","WV48D","392b","V","N"," "," ","reΩ±øz∞n","MS",484
+"a-raising","WV49A","393","V","N"," "," ","∞re±øz∞n","MS",485
+"getting stronger","WV49B","394","E","N"," "," ","g±tn$str∑Ω∫Óg¥","MS",486
+"getting stronger","WV50A","395","E","N"," "," ","ıg±tn$Âstr∑Ω∫Óg¥","MS",487
+"raising","WV50B","396","V","N"," "," ","reΩ±øz±øÓ","MS",488
+"raising","WV51A","261","V","N"," "," ","reΩ±øz±øÓ","MS",489
+"rising","WV51B","262","V","N"," "," ","ra±øz±øÓ","MS",490
+"getting up","WV52A","258","E","N"," "," ","ıg±tn$Â∏Ωp","MS",491
+"raising","WV52B","259","V","N"," "," ","reΩ±øz±øÓ","MS",492
+"rising","WV52C!","260!","V","N"," "," ","ra±øz±øÓ","MS",493
+"raising","WV53A","257","V","N"," "," ","r≤´±øz±øÓ","MS",494
+"getting up","WV53B","257b","E","N"," "," ","ıg±tn$Â∏ºp","MS",495
+"getting stronger","WV53C!","257c!","E","N"," "," ","g≤tê±øÓ$str∂´∫Óg¥","MS",496
+"raising","WV54A","255","V","N"," "," ","r≤´±øz±øÓ","MS",497
+"getting up","WV54B","256","E","N"," "," ","ıg±'tn$Â∏ºp","MS",498
+"getting higher","DE1A","11","E","N"," "," ","g≤Ò±øÓ$ha´æ±ø¥","MS",499
+"increasing","DE1A","11","V","N"," "," ","±nkriΩjs±øÓ","MS",499
+"breezing up","DE1A","11","E","N"," "," ","briΩiz±øÓ$∏{∞}p","MS",499
+"bristling up","DE1B","12","E","N"," "," ","br±sÏñ±øÓ$∏{∞}p","MS",500
+"rising","DE1C!","13!","V","N"," "," ","raæ∫±øz±øÓ","MS",501
+"increasing","DE2A","15(*)","V","Y"," ","AUX","±nÂkrijs±øΩn","MS",502
+"getting up","DE2B","16","E","N"," "," ","g≤tn$∏p","MS",503
+"getting up","DE2C"," ","E","N"," "," ","g±Án$∏p","MS",504
+"breezing","DE3A","18","V","N"," "," ","briΩiz±øΩn","MS",505
+"breezing up","DE3B","19","E","N"," "," ","briΩiz∞´n$∏{∞}p","MS",506
+"raising","DE3C!","17!","V","N"," "," ","r≤´±øz±øΩn","MS",507
+"a-raising","DE4","20","V","N"," "," ","∞r≤´±øz±øΩn","MS",508
+"breezing up","DE4","20","E","N"," "," ","briΩiz±øΩn$∏{∞}p","MS",508
+"breezing up","DE5A","21","E","N"," "," ","brijz±øΩn$∏p","MS",509
+"rising","DE5B","22","V","N"," "," ","raæ∫≤z±øΩn","MS",510
+"breezing up","DE5B","22","E","N"," "," ","briΩiz±øÓ$∏{∞}p","MS",510
+"a-breezing up","DE6A","23","E","N"," "," ","∞briΩiz±øΩn$∏p","MS",511
+"breezing up","DE6B","24","E","N"," "," ","br±´iz±øΩn$∏{∞}p","MS",512
+"a-getting up","MD1A","27","E","N"," "," ","∞g±tn$∏p","MS",513
+"getting higher","MD1B","28","E","N"," "," ","g±tn$ha±ø¥","MS",514
+"raising","MD1B","28","V","N"," "," ","re{±ø}z±øÓ","MS",514
+"breezing","MD2A","31a","V","N"," "," ","briΩiz±øΩn","MS",515
+"increasing","MD2A","31a","V","N"," "," ","±nkriΩis±øn","MS",515
+"getting stronger","MD2B","32","E","N"," "," ","g±tn$stÚ∑:Óg¥","MS",516
+"getting higher","MD2B","32","E","N"," "," ","g±tn$haæ≤´¥","MS",516
+"coming up","MD3A","33","E","N"," "," ","k∏m±øΩn$∏p","MS",517
+"increasing","MD3A","33","V","N"," "," ","±nkriΩis±øΩn","MS",517
+"breezing","MD3B","34","V","N"," "," ","bri∫z∞n","MS",518
+"coming up","MD4A","35b","E","N"," "," ","k∏m∞n$∏p","MS",519
+"breezing up","MD4B","35","E","N"," "," ","briΩæ∫z±øΩn$∏p","MS",520
+"raising","MD4B","35","V","N"," "," ","r≤´eæ±øz±øΩn","MS",520
+"rising","MD4C","36","V","Y"," ","SUG","rµº±øΩz±øÓ","MS",521
+"increasing","MD4C","36","V","N"," "," ","±nkrijs±øÓ","MS",521
+"a-breezing up","MD4C","36","E","Y"," ","SUG","∞brijz∞n$∏p","MS",521
+"breezing up","MD5A","37","E","N"," "," ","briΩiz±øΩn$∏p","MS",522
+"arising","MD5A","37","V","N"," "," ","∞raæ±øz±øΩn","MS",522
+"breezing up","MD5B","38","E","N"," "," ","briΩiz±øΩn$∏p","MS",523
+"rising","MD5B","38","V","N"," "," ","raæ∫≤z±øΩn","MS",523
+"breezing up","MD6A","39(*)","E","N"," "," ","briΩiz±øΩn$∏p","MS",524
+"breezing up","MD6B","40","E","N"," "," ","briΩ∫z±øÓ$∏ºp","MS",525
+"rising","MD6B","40","V","N"," "," ","reΩ±øz±øΩn","MS",525
+"breezing up","MD7A","41","E","N"," "," ","briΩiz±øΩn$∏ºp","MS",526
+"breezing up","MD7B","41b","E","N"," "," ","br±´iΩz±øΩn$∏ºp","MS",527
+"getting stronger","MD7C!","42!","E","N"," "," ","g≤tê±øÓ$stÚ∑Ω∫Óg¥","MS",528
+"breezing up","MD7C!","42!","E","N"," "," ","briΩiz±øÓ$∏p","MS",528
+"breezing up","MD8A","43","E","N"," "," ","briΩ∫iz±øΩn$∏º{∞}p","MS",529
+"raising","MD8A","43","V","N"," "," ","re∫{∞´}z±øΩn","MS",529
+"breezing up","MD8B","44","E","N"," "," ","bri∫z±øΩn$∏ºp","MS",530
+"rising","MD9N","N46","V","N"," "," ","rµ±øΩz±øΩn","MS",531
+"raising","MD9N","N46","V","Y"," ","HRD","reΩ±øz±øΩn","MS",531
+"increasing","MD9A","45","V","N"," "," ","±nkriΩis±øΩn","MS",532
+"breezing up","MD9A","45","E","N"," "," ","briΩiz±øΩn$∏p","MS",532
+"raising","MD9B","46","V","N"," "," ","reΩ{±ø}z±øΩn","MS",533
+"getting stronger","MD10A","49","E","N"," "," ","g±tn$stÚ∑∫Óg∞","MS",534
+"getting up","MD10B","50","E","N"," "," ","g≤tê±øÓ$∏´º{∞}p","MS",535
+"a-raising","MD11","51","V","N"," "," ","∞reæ{±ø}z∞´n","MS",536
+"rising","MD12A","52","V","N"," "," ","raæ±øΩz±øÓ","MS",537
+"getting up","MD12B","53","E","N"," "," ","g±tn$∏´º{∞}p","MS",538
+"getting up","MD13A","54(*)","E","N"," "," ","g±Ò±øÓ$∏´{∞}p","MS",539
+"getting stronger","MD13B","55","E","N"," "," ","g±tn$stÚ∑∫Óg∞","MS",540
+"rising","MD13C","56","V","N"," "," ","raæ≤´z±øÓ","MS",541
+"rising","MD13D!","57!","V","N"," "," ","ra∫≤z±øÓ","MS",542
+"rising","MD13E!","58!","V","N"," "," ","rµ∫≤æz±øÓ","MS",543
+"coming up","MD13F!","59!","E","N"," "," ","k∏´ºm±øÓ$∏´ºp","MS",544
+"breezing up","MD13G"," ","E","N"," "," ","briΩiz±øÓ$∏{∞}p","MS",545
+"getting stronger","MD14","61(*)","E","N"," "," ","g±tn$stÚ∏´Óg¥","MS",546
+"getting higher","MD15A","62","E","N"," "," ","g±tn$hµ≤∞","MS",547
+"raising","MD15A","62","V","N"," "," ","re∫{±ø}z∞´n","MS",547
+"raising","MD15B","63","V","N"," "," ","re∫{±øΩ}z±øΩn","MS",548
+"raising","MD16","64","V","N"," "," ","re{±ø}zn","MS",549
+"getting higher","MD16","64","E","N"," "," ","g±Án$ha∫{≤æ}¥","MS",549
+"a-getting up","MD16","64","E","N"," "," ","∞g±Án$∏p","MS",549
+"raising","MD17A","65","V","N"," "," ","re{±ø}z±øÓ","MS",550
+"getting higher","MD17B","66","E","N"," "," ","g±tn$hµº≤¥","MS",551
+"getting up","MD18A","67","E","N"," "," ","g±tn$∏´º{∞}p","MS",552
+"raising","MD18B","68","V","N"," "," ","re∫{±ø}z±øÓ","MS",553
+"a-raising","MD19A","69","V","N"," "," ","∞re∫{±ø}z±øΩn","MS",554
+"getting higher","MD19A","69","E","N"," "," ","g±tn$hµ≤∞","MS",554
+"rising","MD19B","70","V","N"," "," ","raæ≤´z±øΩn","MS",555
+"springing up","MD20A","71","E","N"," "," ","spr±Ó±øΩn$∏´p","MS",556
+"increasing","MD20A","71","V","N"," "," ","±nkriΩæis±øΩn","MS",556
+"breezing up","MD20A","71","E","Y"," ","SUG","briΩiz±øΩn$∏´p","MS",556
+"raising","MD20B","72","V","N"," "," ","re∫{∞´º}z±øΩn","MS",557
+"picking up","MD20C!","73!","E","N"," "," ","p±k±øΩn$∏´{∞}p","MS",558
+"raising","MD21A","75","V","N"," "," ","re∫{±øΩ}z±øΩn","MS",559
+"breezing up","MD21A","75","E","N"," "," ","bri∫z±øΩn$∏´{∞}p","MS",559
+"breezing up","MD21B","76","E","N"," "," ","bri∫z±øΩn$∏´º{∞}p","MS",560
+"rising","MD21B","76","V","N"," "," ","ra∫≤z±øΩn","MS",560
+"breezing up","MD22N","N77","E","N"," "," ","bri∫z±øΩn$∏´{∞}p","MS",561
+"increasing","MD22M","N78","V","N"," "," ","±nkri∫s±øΩn","MS",562
+"breezing","MD22M","N78","V","N"," "," ","bri∫z±øΩn","MS",562
+"increasing","MD22A","77","V","N"," "," ","Â±{∞}nıkrijs±øΩn","MS",563
+"arising","MD22A","77","V","N"," "," ","∞ra´æ±øz±øΩn","MS",563
+"breezing up","MD22B","78","E","N"," "," ","bri∫z±øΩn$∏´{∞}p","MS",564
+"raising","MD22B","78","V","N"," "," ","re±øz±øΩn","MS",564
+"rising","MD22C!","79!","V","N"," "," ","raæ±øΩz±øÓ","MS",565
+"breezing up","MD23A","80b","E","N"," "," ","briz±øΩn$∏´ºp","MS",566
+"breezing up","MD23B","80a","E","N"," "," ","briz±øΩn$∏´{∞}p","MS",567
+"getting stronger","MD23C","81","E","N"," "," ","g±tn$stÚ∂∫Óg∞","MS",568
+"getting up","MD24","82","E","N"," "," ","g±tn$∏´p","MS",569
+"getting higher","MD25","84","E","N"," "," ","g±tn$hﬁ∫¥","MS",570
+"raising","MD26A","83","V","N"," "," ","re{±ø}z∞n","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"rising","MD27A","85","V","N"," "," ","raæ∫±øΩz∞n","MS",573
+"rising","MD27B","86","V","N"," "," ","ra±øΩz±øÓ","MS",574
+"arising","DC1A","99","V","N"," "," ","∞rµº∫≤z∞n","MS",575
+"rising","DC1B!","100!","V","N"," "," ","raæ∫≤´z±øÓ","MS",576
+"rising","VA1!","101!","V","N"," "," ","ra∫{≤æ}z±øÓ","MS",577
+"rising","VA2A","103","V","N"," "," ","raæ≤æz±øΩn","MS",578
+"breezing up","VA2B","104","E","Y"," ","AUX","br±´iΩz±øΩn$∏{∞}p","MS",579
+"a-coming harder","VA3A","105(*)","E","N"," "," ","∞k∏m±øn$hµ´æ¥d¥","MS",580
+"raising","VA3B","106","V","N"," "," ","re±øz±øÓ","MS",581
+"getting higher","VA3C"," ","E","N"," "," ","g±Án$hµ{≤æ}¥","MS",582
+"getting higher","VA4N","N109","E","N"," "," ","g±'tn$hµ±øΩ∞","MS",583
+"rising","VA5A","107","V","N"," "," ","rµº±øΩz±øΩn","MS",584
+"getting up","VA5A","107","E","N"," "," ","g±'tn$∏ó´æp","MS",584
+"rising","VA5B","108","V","N"," "," ","raæ≤´z±øÓ","MS",585
+"rising","VA6A","113","V","N"," "," ","raæ≤´z±øΩn","MS",586
+"rising","VA6B","114","V","N"," "," ","raæ≤´z±øÓ","MS",587
+"getting higher and higher","VA7A","121","E","N"," "," ","g±'tn$haæ{≤æ}∞$∞n$haæ{≤æ}∞","MS",588
+"rising","VA7A","121","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",588
+"getting higher","VA7B","122","E","N"," "," ","g±'tn$haæ{≤æ}∞","MS",589
+"rising","VA7B","122","V","N"," "," ","raæ∫≤æz±øΩn","MS",589
+"getting higher","VA8A","123","E","N"," "," ","g±'tn$haæ∫{≤æ}{∞}","MS",590
+"getting up","VA8B","124","E","N"," "," ","g±Án$∏º{∞}p","MS",591
+"rising","VA8C!","125!","V","N"," "," ","ra∫{≤æ}z±øÓ","MS",592
+"a-raising","VA9A","117","V","N"," "," ","∞re{±ø}z±øΩn","MS",593
+"rising","VA9B!","118!","V","N"," "," ","ra≤æz±øÓ","MS",594
+"rising","VA10A","127","V","N"," "," ","ra±øΩz±øΩn","MS",595
+"rising","VA10B","128","V","N"," "," ","ra∫{∞º}z±øÓ","MS",596
+"arising","VA11A","129","V","N"," "," ","∞raæ∫{≤æ}z±øΩn","MS",597
+"rising","VA11B","130","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",598
+"coming up","VA12N","N131","E","N"," "," ","k∏óæm±øΩn$∏óæp","MS",599
+"rising","VA12A","131","V","N"," "," ","raæ±øz±øΩn","MS",600
+"breezing up","VA12B!","132!","E","Y"," ","SUG","bri∫z±øÓ$∏{∞}p","MS",601
+"rising","VA12B!","132!","V","N"," "," ","raæ∫≤´z±øÓ","MS",601
+"a-breezing up","VA13A","133","E","N"," "," ","∞bri∫z±øΩn$∏p","MS",602
+"coming up","VA13A","133","E","N"," "," ","k∏m±øΩn$∏p","MS",602
+"rising","VA13B","134","V","N"," "," ","ra∫±øΩz±øΩn","MS",603
+"breezing up","VA13B","134","E","N"," "," ","bri∫z±øΩn$∏{∞}p","MS",603
+"rising","VA14A","135","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",604
+"breezing up","VA14A","135","E","Y"," ","SUG","bri∫z±øΩn$∏p","MS",604
+"breezing up","VA14B","136","E","N"," "," ","bri∫z±øΩn$∏p","MS",605
+"increasing","VA14B","136","V","N"," "," ","±ønkri∫s±øΩn","MS",605
+"rising","VA14C","137","V","N"," "," ","ra∫≤z±øÓ","MS",606
+"rising","VA15N","N139(*)","V","N"," "," ","ra±øz±øΩn","MS",607
+"rising","VA15A","139","V","N"," "," ","ra±øΩz±øΩn","MS",608
+"rising","VA15B","140","V","N"," "," ","ra≤z±øÓ","MS",609
+"rising","VA16A","141","V","N"," "," ","ra:{∞º}z±øÓ","MS",610
+"breezing up","VA16B","142","E","N"," "," ","bri∫z±øΩn$∏´p","MS",611
+"arising","VA17A","143","V","N"," "," ","∞$raæ∫{≤æ}z±øΩn","MS",612
+"rising","VA17B","144","V","N"," "," ","raæ∫{≤æ}z±øÓ","MS",613
+"breezing up","VA18","145","E","N"," "," ","bri∫z±øΩn$∏p","MS",614
+"breezing up","VA19A","146","E","N"," "," ","briΩ{j}z±øn$∏´{∞}p","MS",615
+"rising","VA19B","147","V","N"," "," ","rµ∫≤æz±øΩn","MS",616
+"breezing up","VA19B","147","E","N"," "," ","bri∫z±øΩn$∏{∞}p","MS",616
+"breezing up","VA19C!","148!","E","Y","rare","SUG","briΩiz±øΩn$∏{∞}p","MS",617
+"rising","VA19C!","148!","V","N"," "," ","rµº∫≤æz±øΩn","MS",617
+"breezing up","VA20A","149","E","N"," "," ","br±´iΩz±øΩn$∏p","MS",618
+"breezing up","VA20B","150(*)","E","N","inf.'s teacher (fr. Clark Co.) would","RN1","br±´iΩz±øΩn$∏p","MS",619
+"rising","VA20B","150(*)","V","N"," "," ","ra∫{∞º}z±øΩn","MS",619
+" ","VA20B","150(*)"," "," ","such as `breezing up' for `rising'","RN3"," ","MS",619
+" ","VA20B","150(*)"," "," ","comment freq. on Matthews Co. provincialisms","RN2"," ","MS",619
+"breezing up","VA20C"," ","E","N"," "," ","briΩæiz±øΩn$∏p","MS",620
+"springing up","VA21N","N153","E","N"," "," ","spr±Ó±øn$∏{∞}p","MS",621
+"arising","VA21A","153","V","N"," "," ","∞raæ∫{≤æ}z±øΩn","MS",622
+"rising","VA21B","154","V","N"," "," ","raæ∫{≤æ}z±øÓ","MS",623
+"rising","VA22","155","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",624
+"a-breezing up","VA23A","156","E","N"," "," ","∞br±´iΩz±øΩn$∏{∞}p","MS",625
+"raising up","VA23A","156","E","N"," "," ","re∫±øΩz±øΩn$∏{∞}p","MS",625
+"arising","VA23B","157","V","N"," "," ","∞ra∫{≤æ}z±øΩn","MS",626
+"breezing up","VA24","159","E","N","especially on boat"," ","briΩ{i}z±øΩn$∏´{∞}p","MS",627
+"rising","VA24","159","V","N"," "," ","raæ≤æz±øΩn","MS",627
+"a-breezing up","VA25","160(*)","E","N"," "," ","∞br±´iΩz±øΩn$∏p","MS",628
+"breezing up","VA26A","161A","E","N"," "," ","ıbri∫z±øΩn$Â∏p","MS",629
+"breezing up","VA26B","161","E","N"," "," ","br±´iΩz±øΩn$∏{∞}p","MS",630
+"breezing","VA26C","162","V","N"," "," ","briΩiz±øΩn","MS",631
+"rising","VA26C","162","V","N"," "," ","raæ∫≤æz±øΩn","MS",631
+"breezing up","VA27","163(*)","E","N"," "," ","br±iΩz±øΩn$∏p","MS",632
+"breezing up","VA28A","164","E","N"," "," ","briΩiz±øΩn$∏p","MS",633
+"breezing up","VA28B","165","E","N"," "," ","briæiz±øΩn$∏{∞}p","MS",634
+"rising","VA28B","165","V","N"," "," ","raæ≤æz±øΩn","MS",634
+"getting higher","VA29","166","E","N"," "," ","g±'tn$haæ∫{≤æ}∞","MS",635
+"rising","VA29","166","V","N"," "," ","raæ{≤æ}z±øΩn","MS",635
+"rising","VA30A","167","V","N"," "," ","rµ∫≤æz±øΩn","MS",636
+"increasing","VA30B!","167a!","V","N"," "," ","±nÂkr±´iΩs±øΩn","MS",637
+"blowing up","VA30B!","167a!","E","N"," "," ","bloΩ{π}±øÓ$∏p","MS",637
+"rising","VA30C!","168!","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",638
+"rising","VA30D!","169!","V","N"," "," ","raæ{∞º}z±øÓ","MS",639
+"rising","VA30E!","170!","V","N"," "," ","ra∫{∞º}z±øÓ","MS",640
+"getting higher","VA31A","171(*)(**)","E","N"," "," ","g±'tn$ha∫{∞º}∞","MS",641
+"rising","VA31A","171(*)(**)","V","N"," "," ","ra∫{∞º}z±øΩn","MS",641
+"rising","VA31B","172","V","N"," "," ","raæ{≤æ}z±øΩn","MS",642
+"NA","VA31C"," "," ","N"," "," "," ","MS",643
+"rising","VA32!","175!","V","N"," "," ","ra∫{∞º}z±øΩn","MS",644
+"getting higher","VA33A","173","E","N"," "," ","g±tn$ha´æ{≤´}∞","MS",645
+"rising","VA33B","174","V","N"," "," ","ra∫{∞º}z±øΩn","MS",646
+"getting worse","VA34A","177(*)","E","Y"," ","AUX","g±tn$w≥{∞é}s∞","MS",647
+"rising","VA34A","177(*)","V","Y"," ","AUX","raæ∫{≤æ}z±øΩn","MS",647
+"rising","VA34B","178","V","N"," "," ","raæ∫{∞º}z±øΩn","MS",648
+"rising","VA35A","179","V","N"," "," ","raæ∫≤æz±øΩn","MS",649
+"getting higher and higher","VA35A","179","E","N"," "," ","g±tn$haæ{≤}∞$∞n$haæ{≤æ}∞","MS",649
+"breezing up","VA35A","179","E","N","on the water"," ","bri∫z±øΩn$∏p","MS",649
+"breezing up","VA35B","180","E","N"," "," ","briΩiz±øΩn$∏{∞}p","MS",650
+"getting higher","VA36A","181","E","N"," "," ","g±{'t}n$ha´æ{±ø}∞","MS",651
+"rising","VA36B","182","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",652
+"arising","VA37","183","V","N"," "," ","∞ra∫{∞º}z±øΩn","MS",653
+"rising","VA38","185","V","N"," "," ","ra{≤æ}z±øÓ","MS",654
+"breezing up","VA38","185","E","N","stronger than `rising'"," ","briΩiz±øΩn$∏æp","MS",654
+"springing up","VA39!","186!","E","N"," "," ","spr±Ó±øÓ$∏{∞}p","MS",655
+"rising","VA39!","186!","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",655
+"rising","VA40A","187","V","N"," "," ","rµ´≤´z±øΩn","MS",656
+"breezing","VA40A","187","V","N"," "," ","briΩiz±øΩn","MS",656
+"breezing","VA40B","188","V","N","less change than `rising'"," ","briΩiz±øΩn","MS",657
+"rising","VA40B","188","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",657
+"getting higher","VA41A","191","E","N"," "," ","g±'tn$ha{≤æ}∞","MS",658
+"rising","VA41A","191","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",658
+"rising","VA41B","192","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",659
+"getting up","VA42A","193(*)(**)","E","N"," "," ","g±'tn$∏´º{∞}p","MS",660
+"rising","VA42B","194","V","N"," "," ","raæ∫{∞º}z±øΩn","MS",661
+"rising","VA43N","N195","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",662
+"rising","VA43A","195","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",663
+"rising","VA43B","196","V","N"," "," ","raæ≤æz±øΩn","MS",664
+"getting up","VA44A","199","E","N"," "," ","g±'tn$∏{∞}p","MS",665
+"rising","VA44B","200","V","N"," "," ","ra∫{∞º}z±øΩn","MS",666
+"getting stronger","VA44B","200","E","N"," "," ","g±'tn$stÚµÓg∞","MS",666
+"rising","VA45A","201","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",667
+"rising","VA45B","202","V","N"," "," ","raæ{≤æ}z±øÓ","MS",668
+"rising","VA46N","N207","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",669
+"blowing higher","VA46A","207","E","N"," "," ","blo∫|±øΩn$haæ∫{≤æ}{∞}","MS",670
+"rising","VA46A","207","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",670
+"rising","VA46B!","208!","V","N"," "," ","raæ∫≤´z±øÓ","MS",671
+"rising","VA47","211","V","N"," "," ","ra∫{∞º}z±øΩn","MS",672
+"getting up","VA48A","213(*)","E","N"," "," ","g±'tn$∏´{∞}p","MS",673
+"rising","VA48B","214","V","N"," "," ","ra∫{≤æ}z±øÓ","MS",674
+"getting up","VA48B","214","E","N"," "," ","g±'tn$∏{∞}p","MS",674
+"rising","VA49A","215","V","N"," "," ","rµº±øΩz±øΩn","MS",675
+"rising","VA49B","216","V","N"," "," ","raæ∫{∞º}z±øÓ","MS",676
+"getting higher","VA50A","217","E","N"," "," ","g±'tn$ha∫{∞º}∞","MS",677
+"getting higher","VA50B","218","E","N"," "," ","g±'tn$haæ{≤æ}∞","MS",678
+"rising","VA51A","219","V","N"," "," ","raæ∫{∞º}z±øΩn","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"rising","VA51C"," ","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",681
+"a-gearing up","VA52A","224","E","N"," "," ","∞g±r±øÓ$∏{∞}p","MS",682
+"increasing","VA52A","224","V","N"," "," ","±nkri∫s±øÓ","MS",682
+"raising","VA52B","225","V","N"," "," ","reΩ±øΩz±øÓ","MS",683
+"raising","VA52C!","226!","V","N"," "," ","re±øΩz±øÓ","MS",684
+"a-getting higher","VA53A","227","E","N"," "," ","∞g±'tn$haæ∫≤¥","MS",685
+"a-getting up","VA53A","227","E","N"," "," ","∞g±'tn$∏´{∞}p","MS",685
+"getting up","VA53B","228","E","N"," "," ","g≤Ò±øÓ$∏{∞}p","MS",686
+"raising","VA54A","229","V","N"," "," ","reΩ{±ø}zn","MS",687
+"getting higher","VA54A","229","E","N"," "," ","g±Án$ha{≤æ}¥","MS",687
+"rising","VA54B","230","V","N"," "," ","rµº∫≤æz±øÓ","MS",688
+"getting higher","VA55A","233(*)","E","N"," "," ","g±Án$hµ∫{≤æ}¥","MS",689
+"rising","VA55B","234(*)","V","N"," "," ","ra≤æz±øÓ","MS",690
+"getting up","VA55B","234(*)","E","N"," "," ","g≤Ò±øÓ$∏{∞}p","MS",690
+"getting higher","VA56A","237","E","N"," "," ","g±Án$haæ≤æ∞é","MS",691
+"rising","VA56B","238","V","N"," "," ","raæ≤´z±øÓ","MS",692
+"rising","VA57A","239","V","N"," "," ","raæ∫≤æz±øΩn","MS",693
+"getting higher","VA57B","240","E","N"," "," ","g±Án$haæ{≤æ}∞é","MS",694
+"raising","VA58","241(*)","V","N"," "," ","re∫{±øΩ}z±øΩn","MS",695
+"getting higher and higher","VA59N","N241","E","N"," "," ","g±'tn$ha∫±øΩ∞$n$ha∫±øΩ∞","MS",696
+"getting up","VA59A","242","E","N"," "," ","g≤'tn$∏´{∞}p","MS",697
+"rising","VA59A","242","V","N"," "," ","ra≤z±øΩn","MS",697
+"rising","VA59A","242","V","N"," "," ","ra≤z±øÓ","MS",697
+"rising","VA59B!","243!","V","N"," "," ","raæ≤æz±øÓ","MS",698
+"arising","VA60","244(*)","V","Y"," ","AUX","∞ra∫±øΩz∞´ºn","MS",699
+"getting higher","VA61A","245(*)","E","N"," "," ","g≤tê±øÓ$haæ∫{±øΩ}¥","MS",700
+"getting higher","VA61A","245(*)","E","N"," "," ","g≤'tn$haæ∫{±øΩ}¥","MS",700
+"raising","VA61A","245(*)","V","N"," "," ","reΩ±øz∞n","MS",700
+"getting up","VA61B!","246!","E","N"," "," ","g≤Ò±øÓ$∏{∞}p","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"rising","VA62A","247(*)","V","N"," "," ","ra≤´z±øΩn","MS",703
+"getting up","VA62A","247(*)","E","N"," "," ","g±Án$∏ó´º∫{∞}p","MS",703
+"getting higher","VA62B","248","E","N"," "," ","g±Án$haæ{≤æ}∞","MS",704
+"getting up on us","VA63A","251","E","N"," "," ","ıg±'tn$Â∏´{∞}p$ı∑Ω∫n$∞s","MS",705
+"raising","VA63B","252","V","N"," "," ","r≤æ±ø´z∞´n","MS",706
+"rising","VA64A","255","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",707
+"getting up","VA64B","256","E","N"," "," ","g±Ò±øΩn$∏{∞}p","MS",708
+"rising","VA65A","257","V","N"," "," ","raæ∫{±øΩ}zn","MS",709
+"getting stronger","VA65A","257","E","N"," "," ","g±'tn$str∂´{o}Óg∞é","MS",709
+"rising","VA65B","258","V","N"," "," ","raæ∫{≤æ}z∞n","MS",710
+"a-raising","VA65B","258","V","Y","natural","OLD","∞reΩ±øzn","MS",710
+"rising","VA65C!","259!","V","N"," "," ","ra∫{∞º}z±øÓ","MS",711
+"rising","VA66A","261","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",712
+"raising","VA66B","262","V","N"," "," ","reΩ{±ø}z±øΩn","MS",713
+"getting up","VA67A","267","E","N"," "," ","g±'tn$∏´{∞}p","MS",714
+"getting higher","VA67B","268","E","N"," "," ","g±'tn$hµ∫{≤æ}∞é","MS",715
+"rising","VA68A","269","V","N"," "," ","raæ{≤æ}z±øΩn","MS",716
+"a-getting up","VA68B","270","E","N"," "," ","∞g±Án$∏´º{∞}p","MS",717
+"rising","VA69A","273","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",718
+"rising","VA69B","274","V","N"," "," ","raæ∫{∞º}z±øΩn","MS",719
+"raising","VA70A","275","V","N"," "," ","r≤´±øz∞´n","MS",720
+"getting up","VA70B","276","E","N"," "," ","g±'tn$∏´{∞}p","MS",721
+"a-getting higher","VA71A","285","E","N"," "," ","g±'tn$hµº∫{≤æ}¥","MS",722
+"rising","VA71B","286","V","N"," "," ","raæ∫{∞º}z±øÓ","MS",723
+"a-raising","VA72A","287","V","N"," "," ","∞reΩ±ø´z∞´n","MS",724
+"raising","VA72B","288","V","N"," "," ","reΩ±øz∞´n","MS",725
+"rising","VA73","291","V","N"," "," ","rµº∫{≤æ}z∞´n","MS",726
+"getting up higher","VA74A","293","E","N"," "," ","g±'tn$≥{∞}p$haæ∫{∞º}∞","MS",727
+"rising","VA74B!","294!","V","N"," "," ","rµº∫{∞º}z∞´n","MS",728
+"a-getting up","VA75A","297","E","N"," "," ","∞g±'tn$≥∫{∞}p","MS",729
+"a-getting higher","VA75A","297","E","N"," "," ","∞g±'tn$haæ{≤æ}¥","MS",729
+"raising","VA75B","298","V","N"," "," ","reΩ±øz±øÓ","MS",730
+"a-breezing up","NC1","303","E","N"," "," ","∞briΩiz±øΩn$∏ó´∫{∞}p","MS",731
+"blowing up","NC1","303","E","N"," "," ","bloΩºπ±øΩn$∏´{∞}p","MS",731
+"raising","NC2A","301","V","Y"," ","AUX2","re±øz±øΩn","MS",732
+"breezing up","NC2B","304","E","N"," "," ","bri∫z±øΩn$∏´∫{∞}p","MS",733
+"raising","NC3A","305","V","N"," "," ","reΩ∫±ø´z±øn","MS",734
+"breezing up","NC3A","305","E","N"," "," ","br±´iz±øΩn$∏´{∞}p","MS",734
+"breezing up","NC3B","306","E","N"," "," ","briΩiz±øΩn$∏{∞}p","MS",735
+"getting perter","NC4A","307","E","N"," "," ","g±'tn$p{j}∞´º∞étê∞é","MS",736
+"rising","NC4A","307","V","N"," "," ","rµ∫≤æz±øΩn","MS",736
+"breezing up","NC4B","308","E","N"," "," ","bri∫z±øΩn$∏´{∞}p","MS",737
+"breezing up","NC5A","309","E","N"," "," ","briΩ{j}z±øΩn$∏´º∫{∞}p","MS",738
+"breezing up","NC5B","310","E","N"," "," ","briΩiz±øΩn$∏{∞}p","MS",739
+"rising","NC5B","310","V","N"," "," ","ra∫{∞º}z±øΩn","MS",739
+"rising","NC6!","311!","V","N"," "," ","ra∫{∞º}z±øn","MS",740
+"arising","NC7A","315(*)","V","Y"," ","AUX","∞raæ∫{≤æ}z±øΩn","MS",741
+"breezing up","NC7B","316","E","N"," "," ","briΩiz±øΩn$≥ó´æ{∞}p","MS",742
+"rising","NC8N","N317","V","N"," "," ","ra´æ±øz±øΩn","MS",743
+"getting stronger","NC8A","317","E","N"," "," ","g±Án$stÚﬁ´º{∞}Óg¥","MS",744
+"rising","NC8B","318(*)","V","N"," "," ","raæ∫{∞º}z±øn","MS",745
+"breezing","NC9A","319","V","N"," "," ","briΩæiz±øΩn","MS",746
+"breezing","NC9B","320","V","N"," "," ","briΩiz±øΩn","MS",747
+"a-freshening","NC10A","321","V","N","lightly starting up"," ","∞fr≤Ûn±øΩn","MS",748
+"airing up","NC10A","321","E","N","very mild","CNV","·´∞r±øΩn$∏´p","MS",748
+"a-bristling up","NC10A","321","E","Y","heard at Duck (7.5 mi. N on the Banks)","HRD","∞br±sl±øΩn$∏´p","MS",748
+"breezing up","NC10A","321","E","N"," "," ","briΩæ∫{i}z±øΩn$∏´p","MS",748
+"breezing up","NC10B","323","E","N"," "," ","briΩ∫iz±øΩn$≥∫{∞}p","MS",749
+"breezing up","NC10C","322","E","N"," "," ","briΩ{i}z±øΩn$∏{∞}p","MS",750
+"a-breezing","NC11A","325","V","N"," "," ","∞br±iΩz±øΩn","MS",751
+"breezing","NC11B","326","V","N"," "," ","br±´iz±øΩn","MS",752
+"breezing up","NC12A","327(*)","E","N"," "," ","br±´iΩz±øΩn$∏´∫{∞}p","MS",753
+"rising","NC12A","327(*)","V","N"," "," ","rµ∫±øΩz±øΩn","MS",753
+"breezing up","NC12B","328","E","N"," "," ","briΩ{i}z±øΩn$∏´∫{∞}p","MS",754
+"breezing up","NC13A","329","E","N"," "," ","briΩæiz±øn$∏ó´∫{∞}p","MS",755
+"breezing","NC13B","330(*)","V","Y"," ","SUG","br±´iΩz±øΩn","MS",756
+"rising","NC13B","330(*)","V","N"," "," ","rµ∫{≤æ}z±øΩn","MS",756
+"getting higher","NC13B","330(*)","E","N"," "," ","g±Án$hµ∫{≤æ}¥","MS",756
+"breezing up","NC14N","N331","E","N"," "," ","briΩæiz±øΩn$∏º{∞}p","MS",757
+"rising","NC14N","N331","V","N"," "," ","raæ±øΩz±øΩn","MS",757
+"a-breezing up","NC14A","331","E","N"," "," ","∞br±iz±øn$∏∫p","MS",758
+"rising","NC14B","332","V","N"," "," ","ra∫≤æz±øÓ","MS",759
+"breezing up","NC14B","332","E","N","if sudden"," ","bÒé›i∫z±øÓ$∏∫p","MS",759
+"rising","NC14C!","333!","V","N"," "," ","ra±øΩz±øÓ","MS",760
+"rising up","NC15A","335(*)","E","N"," "," ","rµ±øΩz±øΩn$∏´{∞}p","MS",761
+"rising","NC15B","336","V","N"," "," ","raæ∫{∞º}z±øn","MS",762
+"rising","NC15C"," ","V","N"," "," ","rµº∫∞´z±øn","MS",763
+"a-getting up higher","NC16A","339(*)","E","N"," "," ","∞g±Án$∏ó´{∞}p$hµº∫{≤æ}","MS",764
+"getting harder","NC16B","340","E","N"," "," ","g±tê±øΩn$h∂´º¥d¥","MS",765
+"rising","NC16B","340","V","N"," "," ","rµº{≤æ}z±øΩn","MS",765
+"blowing up","NC17A","337","E","N"," "," ","bloºuΩº±øΩn$∏ó´{∞}p","MS",766
+"rising","NC17A","337","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",766
+"rising","NC17B","338","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",767
+"blowing up worse","NC18A","341","E","N"," "," ","blo∫{π}±øΩn$∏p$w∏{∞}s","MS",768
+"getting higher","NC18B","342","E","N"," "," ","g±'tn$haæ∫{≤æ}∞é","MS",769
+"breezing up","NC19A","343","E","N"," "," ","br±´iz±øΩn$∏´{∞}p","MS",770
+"rising","NC19B","344","V","N"," "," ","rµ∫{≤æ}z±øn","MS",771
+"increasing","NC20A","345","V","N"," "," ","±ønkriΩis±øΩn","MS",772
+"blowing up harder","NC20A","345","E","N"," "," ","bloΩº{π}±øΩn$∏Ωºp$hµrd¥","MS",772
+"breezing","NC20A","345","V","N"," "," ","bÒé›iΩiz±øΩn","MS",772
+"breezing","NC20B","346a","V","N"," "," ","briΩiz±øn","MS",773
+"breezing","NC20C","346b","V","N"," "," ","br±iz±øn","MS",774
+"a-raring up","NC20C","346b","E","N"," "," ","∞r·∫{∞}r±øΩn$∏ó´º∫{∞}p","MS",774
+"breezing up","NC21A","347","E","N"," "," ","bré›i∫{∞}z±øΩn$∏´{∞}p","MS",775
+"doing some kind of raring","NC21A","347","E","N"," "," ","duøæ∫±øΩn$s∏m$kµ´±ønd$∞$Âr≤∞r±øΩn","MS",775
+"breezing up","NC21B","348","E","N"," "," ","briΩiz±øΩn$∏ó´{∞}p","MS",776
+"arising","NC22A","349","V","N"," "," ","∞rµ´∫{±øΩ}z±øΩn","MS",777
+"getting higher","NC22A","349","E","N"," "," ","g±tn$haæ∫{≤æ}{∞}","MS",777
+"rising","NC22B","349b","V","N"," "," ","ra´æ≤´z±øΩn","MS",778
+"breezing up","NC22B","349b","E","N"," "," ","briΩ{i}z±øΩn$∏{∞}p","MS",778
+"breezing on","NC23A","351a","E","N"," "," ","briΩæiz±øΩn$∑∫{∞}n","MS",779
+"rising","NC23B","351b(*)","V","N"," "," ","rµº∫≤æz±øΩn","MS",780
+"breezing up","NC23B","351b(*)","E","N"," "," ","briΩæiz±øn$∏∫p","MS",780
+"picking up","NC23C!","351c!","E","N"," "," ","p±k±øΩn$∏p","MS",781
+"rising","NC23C!","351c!","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",781
+"rising","NC23D!","351d!","V","N"," "," ","rµº±øΩz±øÓ","MS",782
+"breezing up","NC24N","N352","E","N"," "," ","briz±øΩn$∏{∞}p","MS",783
+"rising","NC24A","352a","V","N"," "," ","ra±øΩz±øΩn","MS",784
+"rising","NC24B","352b","V","N"," "," ","rµ´±øz±øn","MS",785
+"breezing up","NC24B","352b","E","N"," "," ","briæiz±øΩn$∏{∞}p","MS",785
+"getting higher","NC25N","N353","E","N"," "," ","g±tn$hµæ∫{∞}","MS",786
+"getting higher","NC25A","353","E","N"," "," ","g±'tn$hµ∫{±ø}∞é","MS",787
+"breezing","NC25B","354","V","N"," "," ","briz±øΩn","MS",788
+"rising","NC25B","354","V","N"," "," ","rµ´º{±ø}z±øΩn","MS",788
+"getting higher","NC26A","355a","E","N"," "," ","g±'tn$hµæ≤´∞é","MS",789
+"arising","NC26B","355b","V","N"," "," ","∞raæ∫≤æz±øΩn","MS",790
+"rising","NC26C!","356!","V","N"," "," ","raæ≤´z±øÓ","MS",791
+"getting higher","NC27A","357","E","N"," "," ","g±'tn$hµº{≤æ}¥","MS",792
+"rising","NC27B","258","V","N"," "," ","rµ≤z±øΩn","MS",793
+"blowing up","NC28A","361","E","N"," "," ","bloºπ±øΩn$∏´º{∞}p","MS",794
+"rising","NC28A","361","V","N"," "," ","rµ´±øz±øΩn","MS",794
+"rising","NC28B","361b","V","N"," "," ","rµ´æ±øΩz±øΩn","MS",795
+"rising","NC28C","362","V","N"," "," ","raæ≤æz±øΩn","MS",796
+"a-getting high","NC29A","363(*)","E","N"," "," ","∞gà±tn$ha±ø","MS",797
+"rising","NC29B","364","V","N"," "," ","raæ∫≤æz±øΩn","MS",798
+"getting higher","NC30A","365","E","N"," "," ","g±'tn$haæ{≤æ}∞","MS",799
+"rising","NC30A","365","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",799
+"rising","NC30B","366","V","N"," "," ","ra∫{∞º}z±øΩn","MS",800
+"breezing up","NC30B","366","E","Y"," ","SUG","briΩæ{i}z±øΩn$∏´{∞}p","MS",800
+"arising","NC31A","367","V","N"," "," ","∞raæ∫{≤æ}z±øΩn","MS",801
+"rising","NC31B","368","V","N"," "," ","ra∫{∞º}z±øΩn","MS",802
+"arising","NC32A","369","V","N"," "," ","∞raæ∫{≤æ}z±øΩæn","MS",803
+"rising","NC32B!","370!","V","N"," "," ","raæ∫{∞º}z±øΩn","MS",804
+"arising","NC33A","373","V","N"," "," ","∞rµº∫{≤æ}z±øΩn","MS",805
+"rising","NC33B","374","V","N"," "," ","raæ∫{≤æ}z±øn","MS",806
+"rising","NC34A","375","V","N"," "," ","rµ∫{≤æ}z±øΩn","MS",807
+"getting higher","NC34B","376","E","N"," "," ","g±Án$haæ{∞º}∞","MS",808
+"arising","NC34B","376","V","N"," "," ","∞raæ∫{≤æ}z±øΩn","MS",808
+"rising","NC35A","377","V","N"," "," ","ra∫{≤}z±øΩn","MS",809
+"rising","NC35B","378","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",810
+"getting higher","NC36N","N381","E","N"," "," ","g±tên$hµº{≤}∞é","MS",811
+"getting higher","NC36A","381","E","N"," "," ","g±'tn$hµ≤´∞é","MS",812
+"getting higher","NC36B","382","E","N"," "," ","g±'tn$haæ∫{≤æ}∞","MS",813
+"getting up","NC37A","383","E","N"," "," ","g±'tn$∏p","MS",814
+"rising","NC37B","384","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",815
+"rising","NC38N","N385","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",816
+"getting up","NC38A","385","E","N"," "," ","g±tên$∏ó´{∞}p","MS",817
+"getting higher","NC38A","385","E","N"," "," ","g±tên$hµº{∞º}∞Ω","MS",817
+"getting higher","NC38B","386","E","N"," "," ","g±'tn$ha{∞º}∞Ωæ","MS",818
+"getting up","NC39A","389","E","N"," "," ","g±'tn$∏{∞}p","MS",819
+"rising","NC39B!","390!","V","N"," "," ","ra∫{∞º}z±øΩn","MS",820
+"arising","NC40A","391","V","N"," "," ","∞ra{≤æ}z±øΩæn","MS",821
+"getting up","NC40B","392","E","N"," "," ","g±'tn$∏ó´{∞}p","MS",822
+"blowing up","NC41!","393!","E","N"," "," ","bloπ±øÓ$∏ó{∞}p","MS",823
+"getting up","NC42A","403","E","N"," "," ","g±'tn$∏ó´{∞}p","MS",824
+"getting higher","NC42B","404(*)","E","N"," "," ","g±'tn$haæ∫{≤æ}∞","MS",825
+"a-getting higher","NC43A","397","E","N"," "," ","∞g±'tn$ha∫{≤}∞","MS",826
+"rising","NC43B","398","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",827
+"getting up","NC44","410(*)","E","N"," "," ","g±'tn$∏{∞}p","MS",828
+"getting up","NC45A","409(*)","E","N"," "," ","g±'tn$∏{∞}p","MS",829
+"arising","NC45B"," ","V","N"," "," ","∞ra±øΩz±øΩn","MS",830
+"arising","NC46A","411","V","N"," "," ","∞ra±øz±øΩn","MS",831
+"getting up","NC46B","412","E","N"," "," ","g±'tn$∏ó´{∞}p","MS",832
+"rising","NC46C!","412b!","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",833
+"getting higher","NC47","413","E","N"," "," ","g±Án$haæ∫{∞º}{∞é}","MS",834
+"raising","NC48","418","V","N"," "," ","reΩ±øΩz±øΩn","MS",835
+"rising","NC49","421","V","N"," "," ","ra∫≤æz±øΩn","MS",836
+"getting up","NC50A","422","E","N"," "," ","g±'tn$∏´{∞}p","MS",837
+"rising","NC50A","422","V","N"," "," ","raæ∫≤æz±øΩn","MS",837
+"getting stronger","NC50B!","423!","E","N"," "," ","g≤'tn$stÚ∂´º{∑Ω}Óg∞","MS",838
+"arising","NC51A","427","V","N"," "," ","∞raæ∫{≤æ}z±øΩn","MS",839
+"rising","NC51B","428","V","N"," "," ","ra≤æz±øn","MS",840
+"getting higher","NC52N","N429","E","N"," "," ","g±tn$haæ∫{∞º}∞","MS",841
+"a-getting higher","NC52A","429","E","N"," "," ","∞g±'tn$hµ{≤æ}¥","MS",842
+"rising","NC52B","430","V","N"," "," ","rµº∫≤´z±øΩn","MS",843
+"getting higher","NC53A","431","E","N"," "," ","g±'tn$haæ∫{≤æ}∞é","MS",844
+"rising","NC53B","432","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",845
+"arising","NC54A","433","V","N"," "," ","∞raæ∫{∞º}z±øΩn","MS",846
+"getting higher","NC54B","434","E","N"," "," ","g±Ω'tn$haæ{≤æ}∞é","MS",847
+"rising","NC55","435","V","N"," "," ","raæ≤´æz∞´n","MS",848
+"rising","NC56A","436","V","N"," "," ","raæ≤´æz∞´n","MS",849
+"rising","NC56B!","437!","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",850
+"getting higher","NC57A","438a","E","N"," "," ","g±'tn$haæ∫{≤æ}∞","MS",851
+"rising","NC57B","438b","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",852
+"getting higher","NC58A","439","E","N"," "," ","g±Án$haæ{∞º}¥","MS",853
+"rising","NC58A","439","V","N"," "," ","ra∫{∞º}z±øn","MS",853
+"getting higher","NC58B","440","E","N"," "," ","g±'tn$hµº{∞º}¥","MS",854
+"blowing harder","NC59","441(*)","E","N"," "," ","blo{π}±øΩæn$h∂´º¥d¥","MS",855
+"rising","NC59","441(*)","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",855
+"rising","NC60","442","V","N"," "," ","raæ≤z±øΩn","MS",856
+"getting higher","NC61A","443","E","N"," "," ","g±'tn$haæ{≤æ}¥","MS",857
+"rising","NC61B","444","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",858
+"rising","NC62A","447","V","N"," "," ","ra≤æz±øΩn","MS",859
+"rising","NC62B","448","V","N"," "," ","ra≤´æz±øΩn","MS",860
+"rising","NC63A","449","V","N"," "," ","raæ∫{≤æ}z±øΩn","MS",861
+"rising","NC63B","450","V","N"," "," ","ra∫{∞º}z±øΩn","MS",862
+"rising","NC64A","453","V","N"," "," ","raæ∫≤æz±øΩn","MS",863
+"getting higher","NC64B","454","E","N"," "," ","g±'tn$haæ∫{≤æ}¥","MS",864
+"rising","NC65A","461","V","N"," "," ","ra≤´z±øΩn","MS",865
+"rising","NC65B","462","V","N"," "," ","rµº∫{≤æ}z±øΩn","MS",866
+"rising","NC66A","465","V","N"," "," ","ra≤´z±øΩn","MS",867
+"rising","NC66B","466","V","N"," "," ","ra∫≤æz±øΩn","MS",868
+"arising","NC67A","469","V","N"," "," ","∞rµº∫≤æz±øn","MS",869
+"rising","NC67B","470","V","N"," "," ","rµº∫{∞}z±øΩn","MS",870
+"arising","NC68A","473","V","N"," "," ","∞raæ∫≤æz±øΩn","MS",871
+"raising","NC68B","474","V","N"," "," ","reΩ±øz±øΩn","MS",872
+"arising","NC69A","477","V","N"," "," ","∞ra∫≤æz±øΩn","MS",873
+"getting higher","NC69B","478","E","N"," "," ","g±'tn$haæ∫{∞}∞é","MS",874
+"rising","NC69B","478","V","N"," "," ","raæ∫{∞}z±øΩn","MS",874
+"arising","NC70A","479","V","N"," "," ","∞ra±øz±øΩn","MS",875
+"rising","NC70B","480","V","N"," "," ","raæ∫±øΩz±øÓ","MS",876
+"rising","NC71A","481","V","N"," "," ","raæ∫±øΩz±øn","MS",877
+"getting up","NC71B","482","E","N"," "," ","g±tê±øn$∏ó´{∞}p","MS",878
+"rising","NC71C!","483!","V","N"," "," ","raæ±øz±øÓ","MS",879
+"a-getting up","NC72A","487","E","N"," "," ","∞g±'tn$∏ó{∞}p","MS",880
+"getting harder","NC72B","488","E","N"," "," ","g±'tn$hµ´æ¥d¥","MS",881
+"arising","NC73A","491","V","N"," "," ","∞ra±øz±øΩn","MS",882
+"rising","NC73B","492","V","N"," "," ","rµº∫{≤æ}z±øΩn","MS",883
+"arising","NC74A","493","V","N"," "," ","∞Òé›aæ∫±øΩz±øΩn","MS",884
+"getting higher","NC74B","494","E","N"," "," ","g±'tn$haæ∫{≤}¥","MS",885
+"arising","NC75A","495","V","N"," "," ","∞ra±øz±øΩn","MS",886
+"rising","NC75B","496","V","N"," "," ","ra{≤æ}z±øΩn","MS",887
+"getting higher","SC1A","203.1","E","N"," "," ","g±tn$haæ∫{≤æ}∞","MS",888
+"getting up","SC1B","203.2","E","N"," "," ","g±'tn$∏ó{∞}p","MS",889
+"rising","SC1B","203.2","V","N"," "," ","raæ∫≤´z±øΩn","MS",889
+"getting higher","SC2A","204.1(*)","E","N"," "," ","g±'tn$ha{≤æ}∞é","MS",890
+"getting higher","SC2B","204.2","E","N"," "," ","ıg±tên$Âhaæ{≤æ}∞é","MS",891
+"springing up","SC2C"," ","E","N"," "," ","spr±Ó±øΩn$∏ó´{∞}p","MS",892
+"a-getting harder","SC3A","205.1","E","N"," "," ","∞g±Án$hﬁº{∞}{r}d∞é","MS",893
+"arising","SC3A","205.1","V","N"," "," ","∞r•Ω∫{±øΩ}z±øΩn","MS",893
+"wind may rise","SC3B","205.2","S","N"," "," ","Âw±´{∞}n$ıme∫{±ø}$Ârµº±øz","MS",894
+"blowing pretty tight","SC3B","205.2","E","N"," "," ","Âb≈oº∫±øºn$p`±ø∫{¥}tê±ø´º$t`µº±øt","MS",894
+"wind rising","SC3B","205.2","E","N"," ","CNV","Âw±´{∞}n$ıÚµº∫±øzn","MS",894
+"rising","SC3C!","205.3!","V","N"," "," ","Ârµ´º∫±øz±øºn","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"rising","SC4B","206.2","V","N"," "," ","Ârµæ±øz±øºn","MS",897
+"freshening","SC4B","206.2","V","N"," "," ","fÚè≤´{∞}Ûn±ø›n","MS",897
+"picked up","SC4C","206.3","E","N","it)"," ","Âp`±´kt$∏´{∞}p","MS",898
+"blowing stronger","SC4C","206.3","E","N","it's)"," ","Âb≈oº∫|±øºÓ$ÂstéÚè∑∫{∞}Ó∞´º","MS",898
+"rose","SC4C","206.3","V","N","it)"," ","roº{∞}z","MS",898
+"rising","SC5A","207.1","V","N"," "," ","Ârﬁ∫±øz±øºn","MS",899
+"getting harder","SC5A","207.1","E","N"," "," ","ıgà≤´'tn$Âhﬁ∫∞d∞æ","MS",899
+"breezy","SC5B","207.2","V","N"," ","CNV","ÂbÚi∫{±ø}z±æiæ","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"rising","SC5D!","207.3!","V","N"," "," ","Ârµæ±øz±øºÓ","MS",902
+"picking up","SC5D!","207.3!","E","N","""in a storm¢"," ","Âp`±´k±øºÓ$ı∏Ωæ{∞}p","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"rising","SC6A","208.1","V","N"," "," ","ra∫±øΩz±øÓ","MS",904
+"NR","SC6B","208.2(*)"," ","N"," "," "," ","MS",905
+"rising","SC6C!","208.3!","V","N"," "," ","Ârﬁº∫±øzn","MS",906
+"increasing","SC6C!","208.3!","V","N"," "," ","±øºnÂkrái∫{±ø}s±øºn","MS",906
+"NR","SC6D"," "," ","N"," "," "," ","MS",907
+"NR","SC7N","N209"," ","N"," "," "," ","MS",908
+"rising","SC7A","209.1","V","N"," "," ","Ârµæ∫±øzn","MS",909
+"coming up","SC7A","209.1","E","N"," "," ","ık`∏ºm±æn$Â∏´{∞}p","MS",909
+"started to blow","SC7A","209.1","E","N"," "," ","stµæ∫∞tê±øºd$t`∞$Âb≈πóº∫{∞}","MS",909
+"to rise","SC7B","209.2","E","N"," "," ","t∞$Ârµ±øz","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"rising","SC7D!","209.4!","V","N"," "," ","Ârµæ∫±øz±øºÓ","MS",912
+"freshening up","SC7D!","209.4!","E","N"," "," ","fÚè≤´Ûnñ±øºÓ$∏º{∞}p","MS",912
+"fresh","SC7D!","209.4!","A","N"," "," ","fÚè≤´{∞}Û","MS",912
+"rising","SC8A","210.1","V","N"," "," ","Ârµæ∫±øzn","MS",913
+"rising","SC8B","210.2","V","N"," "," ","Ârﬁº∫±øzn","MS",914
+"rising","SC8C","210.3","V","N"," "," ","Ârµº∫±øz±øºÓ","MS",915
+"rising","SC8C","210.3","V","N"," ","CNV","Ârµ´∫±øzn","MS",915
+"got stronger","SC9A","211.1","E","N"," "," ","ıgﬁº{∞}t$ÂstéÚè∑Ω∫{∞}Óg∞","MS",916
+"blowing stronger","SC9A","211.1","E","N"," "," ","ıb≈o∫±øºn$ÂstÚè∑Ω∫{∞}Óg∞","MS",916
+"raising","SC9B","211.2","V","N"," "," ","Âre´∫zn","MS",917
+"rising","SC9C!","211.3!","V","N"," "," ","rµ∫±øz±øºÓ","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"blowing hard","SC10A","212.1","E","N"," "," ","Âb≈o´º∫|±øºÓ$ıhﬁ∫{∞}d","MS",920
+"springing up","SC10A","212.1","E","Y","daddy used","HRD","ÂspÚ±æÓ±øºÓ$ı∏ºp","MS",920
+"coming up","SC10A","212.1","E","N"," "," ","Âk`∏ºm±øºn$ı∏ºp","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"raising","SC11N","N213","V","N"," "," ","re∫{∞}z±øΩn","MS",923
+"increasing","SC11N","N213","V","N"," "," ","±nkri∫s±øÓ","MS",923
+"stirring up","SC11M!","2n213!","E","N"," "," ","Âst±øΩ∫r±øºÓ$ı∏ºp","MS",924
+"increasing","SC11M!","2n213!","V","N"," "," ","nñk`Úèái∫s±øºÓ","MS",924
+"getting stronger","SC11M!","2n213!","E","N"," "," ","ıgà≤tê±øºÓ$ÂstéÚ∑º∫{∞}Óg∞´æ","MS",924
+"picking up","SC11M!","2n213!","E","Y","`up' if sudden increase","SUG/HRD","p`±´æk{x}±øºÓ$ı∏ºp","MS",924
+"blowing up","SC11M!","2n213!","E","N"," "," ","{bè}b≈o´º∫|±øºÓ$∏Ωp","MS",924
+"coming up","SC11A","213.1(*)","E","N"," "," ","Âk`∏ºm±æn$ı∏´p","MS",925
+"picking up","SC11A","213.1(*)","E","N"," "," ","Âp`±kê±æn$ı∏´p","MS",925
+"getting kind of breezy","SC11A","213.1(*)","E","N"," "," ","gà≤´'tn$k`a´æ∫±ønd∞$ÂbÚiæ∫z±ø´º","MS",925
+"blowing hard","SC11A","213.1(*)","E","N"," "," ","b≈o´º|±æn$hﬁ∫{∞}d","MS",925
+"shifted","SC11A","213.1(*)","V","N"," "," ","Û±´ft±øºd","MS",925
+"coming up","SC11A","213.1(*)","E","Y"," ","AUX","ık∏Ωm±øÓ$Â∏Ωp","MS",925
+"gush of wind","SC11B","213.11","O","N"," "," ","g∏æÛ∞$w±nd","MS",926
+"getting worse","SC11B","213.11","E","N"," "," ","g≤tê±øÓ$Âw≥æ¥s","MS",926
+"picking up","SC11C","213.2","E","N"," "," ","Âp`±´kê±øºn$ı∏ºp","MS",927
+"rising","SC11C","213.2","V","Y"," ","SUG","rµº∫±øzn","MS",927
+"blowing","SC11C","213.2","V","N"," "," ","b≈o´º∫|±øºÓ","MS",927
+"starting to blow","SC11C","213.2","E","N"," "," ","stﬁ∫{∞}'tn$t∞$Âb≈o´º∫{∞}","MS",927
+"coming up","SC11C","213.2","E","Y"," ","SUG","Âk`∏ºm±øºÓ$ı∏ºp","MS",927
+"blowing up","SC11D","213.3","E","N"," "," ","Âb≈o´º|±›æÓ$ı∏ºp","MS",928
+"heightened","SC11D","213.3","V","N","has)"," ","h∏Ωº±ø'tnd","MS",928
+"picking up","SC11D","213.3","E","Y"," ","SUG","Âp`±´'kÓ$∏ºp","MS",928
+"has freshened","SC11D","213.3","E","N"," "," ","h∞›z$ÂfÚè≤Ûnd","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"picking up","SC11G!","213.7!","E","N"," "," ","ıp`±øºk{x}±ø›Ó$Â∏ºp","MS",931
+"getting stronger","SC11G!","213.7!","E","N"," "," ","ıg±øΩºtê±ø›Ó$stÚè∑Ωº{∞}Óg∞æ","MS",931
+"blow","SC11G!","213.7!","V","N"," "," ","b≈o´º∫","MS",931
+"rise","SC11G!","213.7!","V","N","started to)"," ","rµ´º∫±øz","MS",931
+"rising","SC11H!","213.8!","V","N"," "," ","rµº∫±øz±ø›ºÓ","MS",932
+"blowing","SC11H!","213.8!","V","N"," "," ","b≈o´º∫±øºÓ","MS",932
+"picking up","SC11H!","213.8!","E","Y"," ","HRD","Âp`±´kê±øºn$ı∏ºp","MS",932
+"rising","SC11I!","213.9!","V","Y"," ","AUX","ra∫±øz±øÓ","MS",933
+"freshened up","SC11J!","213.10!","E","N"," "," ","ÂfÚè≤Ûnd$ı∏ºp","MS",934
+"rising","SC11J!","213.10!","V","N"," "," ","Ârµº∫±øz±ø›ºÓ","MS",934
+"gusts","SC11J!","213.10!","V","N"," "," ","g∏ºsütüs","MS",934
+"gusts","SC11J!","213.10!","V","N"," ","CNV","g∏ºss","MS",934
+"picked up","SC11J!","213.10!","E","N","""doesn't happen very often¢"," ","Âp`±øºkt$∞›Ωp","MS",934
+"came up","SC11J!","213.10!","E","N"," "," ","Âk`e´∫{∞}m$ı∏´p","MS",934
+"wind goes with the tide","SC12A","214.1","S","Y"," ","INA","Âw±´{∞}n$ıgo∫{∞}z$w±ø$‰±ø$Ât`µ∫±ød","MS",935
+"rising","SC12A","214.1","V","N"," "," ","rµ∫±øz±øºn","MS",935
+"rising","SC12B","214.2","V","N"," "," ","rµ∫±øz±øÓ","MS",936
+"raising","SC13","213.6","V","N"," "," ","Âre´∫z±øºÓ","MS",937
+"rising","SC14A","215.1","V","N"," "," ","ra±øz±øÓ","MS",938
+"rising","SC14A","215.1","V","N"," "," ","ra±øz±øn","MS",938
+"blowing harder","SC14B","215.2","E","N"," "," ","ıb≈o∫|±øºÓ$Âhﬁº∫∞d∞","MS",939
+"increasing","SC14B","215.2","V","N"," "," ","nñk`Úái∫s±øºÓ","MS",939
+"gale","SC14B","215.2","O","N"," "," ","Âgàe∫{∞}l","MS",939
+"getting up","SC14B","215.2","E","N"," "," ","ıgà≤´tê±øºÓ$Â∏´{∞}p","MS",939
+"blowed hard","SC15A","216.1","E","N"," "," ","ıb≈o∫{∞}d$Âhﬁº∫∞d","MS",940
+"a-getting harder","SC15A","216.1","E","N"," "," ","∞ıgà≤´'tn$Âhµæ∫∞d∞","MS",940
+"arising","SC15A","216.1","V","N"," "," ","∞Ârµæ∫±øzn","MS",940
+"almost blew a gale","SC15A","216.1","E","N"," "," ","Â∑Ω∫{∞}lımo∫{∞}s$Âb≈u∫$∞$ıgàe∫{∞}l","MS",940
+"a-blowing harder","SC15A","216.1","E","N"," "," ","∞ıb≈o∫±øºn$Âhµæ∫∞d∞","MS",940
+"wind got up","SC15A","216.1","S","N"," "," ","w±´{∞}n$Âgﬁº{∞}t$ı∏´º{∞}p","MS",940
+"pick back up","SC15B","216.2","E","N"," "," ","ıp`±´{∞}k$Âb·{∞}k$ı∏´º{∞}p","MS",941
+"picking up","SC15B","216.2","E","N"," "," ","Âp±´{∞}k{x}±øºn$ı∏´º{∞}p","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"rising","SC16N","N217","V","N","after sundown"," ","rµ∫±øz±æn","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"wind's arising","SC17A","218.1","E","N"," ","CNV","Âw±´{∞}nz$∞Ârµ∫±øzn","MS",945
+"getting higher","SC17A","218.1","E","N"," ","CNV","gà±´'tn$Âhµ´∫j∞æ","MS",945
+"arising","SC17A","218.1","V","N"," "," ","∞Ârµ∫±øzn","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"rising","SC17D","218.4","V","N"," "," ","Ârµ∫±øzn","MS",948
+"rising","SC18N","N219","V","N"," "," ","Ârµ∫±øzn","MS",949
+"raising","SC18N","N219","V","N"," "," ","Âre´∫z±ø›n","MS",949
+"picking up","SC18N","N219","E","N"," "," ","Âp`±´k{x}±æn$ı∏ó´p","MS",949
+"picking up","SC18A","219.1","E","N","more on a sailboat"," ","Âp`±æk{x}±æn$ı∏´p","MS",950
+"getting high","SC18A","219.1","E","N"," "," ","gà≤´'tn$ıhﬁ∫±ø","MS",950
+"rising","SC18A","219.1","V","N"," "," ","Ârµ∫±øzn","MS",950
+"increasing","SC18A","219.1","V","N"," "," ","nñÂk`Úèi∫æsn","MS",950
+"kept increasing","SC18A","219.1","E","N"," ","CNV","kà`≤´pt$±ønÂk`Úèi∫snñ","MS",950
+"coming up","SC18B","219.2","E","N"," "," ","kà`∏´m±øn$¶Ωp","MS",951
+"springing up from the southward","SC18B","219.2","E","N"," "," ","sprè±´Ó±øºn$ı∏´p$frèm$‰∞$Âs∏´‰∞æd","MS",951
+"blowing heavier","SC18B","219.2","E","N"," "," ","Âb≈o´º|±›æn$Âh≤´v±ø´º∞","MS",951
+"blowing heavy northwest","SC18B","219.2","E","N"," ","CNV","b≈o´º|±›æn$h≤´v±ø´º$n∑º∫{∞}Âw≤´st","MS",951
+"raising","SC18B","219.2","V","Y"," ","HRD","re´∫zn","MS",951
+"increasing in velocity","SC18B","219.2","E","N"," "," ","±øºnÂk`ri∫sn$±øºn$vÂlﬁºs±øΩtê±ø´º","MS",951
+"picking up","SC18B","219.2","E","N"," "," ","ıp`±´k±æn$Â∏´p","MS",951
+"coming up","SC18C!","219.3(*)!","E","N"," "," ","Âk`∏´m±æÓ$ı∏´p","MS",952
+"rising","SC18C!","219.3(*)!","V","N"," "," ","Ârµ∫±øz±æÓ","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"rising","SC19N","N220","V","N"," "," ","r•Ω±øΩz±øΩn","MS",954
+"getting higher and higher","SC19N","N220","E","N"," "," ","gà±tn$h•æ±ø∞$n$h•±ø∞","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"picking up","SC19B","220.4","E","N"," "," ","ıp±k±øn$Â∏´p","MS",956
+"rising","SC19C","220.2(*)","V","N"," "," ","Ârµ∫±øz±ø›ºn","MS",957
+"blowing","SC19C","220.2(*)","V","N"," "," ","Âb≈o´º∫|±æÓ","MS",957
+"blowing harder and harder","SC19C","220.2(*)","E","N"," "," ","b≈o´º∫|±æÓ$hﬁ∫{∞}d∞æ$≤›´æn$Âhﬁ∫{∞}d∞æ","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"rose","SC20A","221.1","V","N"," "," ","roº∫πºz","MS",960
+"rising","SC20A","221.1","V","N"," "," ","rµ∫±øz±øºn","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"getting higher","SC20C","221.3","E","N"," "," ","gà≤´'tn$Âhµº∫j∞","MS",962
+"getting stronger","SC20C","221.3","E","N"," "," ","gà≤´'tn$ÂstéÚè∑Ω∑Óg∞","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"rising","SC21A","222.1","V","N"," "," ","raæ∫{∞º}z±øΩn","MS",964
+"rising","SC21B","222.2","V","N"," "," ","raæ∫≤æz±øΩn","MS",965
+"rising","SC22N","N223","V","N"," "," ","ra∫{≤æ}z±øΩn","MS",966
+"blowing","SC22A","223.1","V","N"," "," ","b≈èoº∫|±øºn","MS",967
+"picking up","SC22A","223.1","E","N"," "," ","Âp`±´{∞}k{x}±øºn$ı∏´{∞}p","MS",967
+"rising","SC22B","223.2","V","N"," "," ","raº∫{≤æ}z±øÓ","MS",968
+"to rise","SC22C!","223.3!","E","N"," "," ","t∞$Ârµ´º∫±øz","MS",969
+"blowing a gale","SC23A","224.1","E","N"," "," ","b≈o∫{∞}±øºn$∞$Âgàe∫{∞}Ï","MS",970
+"increasing","SC23A","224.1","V","N"," "," ","±øºnÂkÚèi∫{±ø}sn","MS",970
+"it'll blow up a storm","SC23A","224.1","S","N"," "," ","±øºtêÏ$Âb≈o∫$∞p$∞Âst∑´∫∞m","MS",970
+"getting higher","SC23B","224.2","E","N"," "," ","gà±´'tn$Âha´æ∫∞é","MS",971
+"getting higher","SC23B","224.2","E","N"," "," ","Âgà±´'tn$ıha´æ∫|¥","MS",971
+"getting harder","SC23C","224.3","E","N"," "," ","gà≤´tê±øºÓ$Âhµ∫∞d∞æ","MS",972
+"NR","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"rising","SC24N","N225","V","N"," "," ","Ârµ∫±øzn","MS",975
+"got up right quick","SC24A","225.1","E","N"," "," ","gµætê$∞p$ra±ø›t$kw±k","MS",976
+"blowing pretty strong","SC24B","225.11","E","N"," "," ","Âb≈oΩ∫|±øºn$ıp`±øtê±ø´º$ÂstéÚè∑∫{∞}Ó","MS",977
+"rising","SC24B","225.11","V","N"," "," ","Ârµ∫±øzn","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"arising","SC25A","226.1","V","N"," "," ","∞Ωrµ∫±øΩz±øΩn","MS",980
+"a-getting higher","SC25A","226.1","E","N"," "," ","∞gà±tê±øΩn$hµ∫{±øΩ}{∞}","MS",980
+"rising","SC25B","226.2","V","N"," "," ","Âra´æ∫{∞}z±øºn","MS",981
+"sprang up","SC25C!","226.3!","E","N"," "," ","ıspÚè·{≤}Ó$Â¶Ωp","MS",982
+"blowing harder","SC25C!","226.3!","E","N"," "," ","Âbloº∫|±øºÓ$ıhﬁ∫∞›d∞","MS",982
+"increasing","SC25C!","226.3!","V","N"," "," ","±øºnÂkrái∫s±øºÓ","MS",982
+"blowing","SC26A","227.1","V","N"," "," ","Âbloº∫|±øºn","MS",983
+"coming up","SC26A","227.1","E","N"," "," ","ık¶Ωm±øºn$Â¶Ω{∞}p","MS",983
+"raise","SC26B!","227.2!","V","N"," "," ","re∫{∞}z","MS",984
+"rise","SC26B!","227.2!","V","N"," "," ","ra´æ∫{∞}z","MS",984
+"starting to get up","SC27A","228.1","E","N"," "," ","stﬁ∫{∞}'tn$t∞$Âg≤t$ı∏p","MS",985
+"to rise","SC27B","228.2","E","N"," "," ","t∞$Âra´æ∫±øz","MS",986
+"getting up","SC27B","228.2","E","N"," "," ","ıgà≥´º'tn$Â¶Ω{∞}p","MS",986
+"got up","SC28A","229.1","E","N"," ","CNV","gﬁt$ı¶Ω{∞}p","MS",987
+"rising","SC28A","229.1","V","N"," "," ","ra´æ∫∞z±øºn","MS",987
+"wind's getting up","SC28A","229.1","S","N"," ","CNV","w±´nz$ıgà≤´'tn$Â¶Ω{∞}p","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"rising","SC28C","229.2","V","N"," "," ","Âra´æ∫{∞}zn","MS",989
+"getting stronger","SC28C","229.2","E","N"," "," ","gà≤´'tn$ÂstéÚè∑∫{∞}Ó∞","MS",989
+"rising","SC28D","229.3","V","N"," "," ","Âra´æ∫{∞}z±øn","MS",990
+"blustery","SC29A","230.2(*)","V","N"," "," ","bl¶Ω{∞}st¥±ø´º","MS",991
+"getting higher","SC29A","230.2(*)","E","N"," "," ","gà≤´'tn$Âha´æ∫¥","MS",991
+"to blow in a gale","SC29A","230.2(*)","E","N"," "," ","t∞$bloº∫$±øºn$∞$gàe∫{∞}l","MS",991
+"NR","SC29B","230.1(*)"," ","N"," "," "," ","MS",992
+"rising","SC29C","230.3","V","N"," "," ","Âraæ∫∞´z±øºn","MS",993
+"getting high","SC29C","230.3","E","N"," "," ","ıgà≤´'tn$Âhaæ∫±ø","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NR","SC29E"," "," ","N"," "," "," ","MS",995
+"arising","SC30A","231.1","V","N"," "," ","∞Âraæ∫{≤æ}z±øΩn","MS",996
+"blowing","SC30B","231.2","V","N"," "," ","Âb≈oº∫πº±æn","MS",997
+"blowing hard","SC30B","231.2","E","N"," "," ","ıb≈oº{π}±›n$Âhﬁ∫{∞}d","MS",997
+"wind riz","SC30B","231.2","S","N"," "," ","ıw±´n$Âr±´z","MS",997
+"wind rose","SC30B","231.2","S","N"," "," ","ıw±´n$Âro´º∫πºz","MS",997
+"arising","SC30B","231.2","V","N"," "," ","∞Âra´æ∫{∞}z±æn","MS",997
+"picked up","SC30C!","231.3!","E","Y"," ","SUG/HRD","Âp`±´kt$ı¶Ωp","MS",998
+"rising","SC30C!","231.3!","V","N"," "," ","Âra´æ∫{∞}z±øºÓ","MS",998
+"blowing harder","SC30C!","231.3!","E","N"," "," ","Âb≈oº∫±æÓ$Âhµæ∫{∞}d∞æ","MS",998
+"increased","SC30C!","231.3!","V","N"," "," ","±øºnÂk`Úèái∫jzd","MS",998
+"rising","SC31A","232.1","V","N"," "," ","Âraæ∫∞´zn","MS",999
+"getting up","SC31A","232.1","E","N"," "," ","Âgà±´'tn$ı¶Ω{∞}p","MS",999
+"rising","SC31B","232.2","V","N"," "," ","Ârµ∫±øzn","MS",1000
+"getting higher","SC31B","232.2","E","N"," "," ","ıgà±'tn$Âhµ∫{j}∞","MS",1000
+"getting higher","SC31B","232.2","E","N"," "," ","gà±'tn$Âhµ´º∫|∞","MS",1000
+"getting higher","SC32A","233.1","E","N"," "," ","g≤´{∞}tê±øºÓ$Âhaæ∫∞","MS",1001
+"started up","SC32A","233.1","E","N"," "," ","stﬁ{∞}tê±ø›d$¶Ω{∞}p","MS",1001
+"rising","SC32A","233.1","V","Y"," ","AUX","ra´æ∫{∞}z±øºÓ","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"rising","SC32C","233.3","V","N"," "," ","Âra´æ∫{∞}z±øºn","MS",1003
+"to rise","SC32D","233.4","E","N"," "," ","t∞$Âra´æ∫{∞}z","MS",1004
+"rising","SC33A","234.1","V","N"," "," ","ra∫{∞}z±øΩn","MS",1005
+"blowing","SC33B","234.2","V","N"," "," ","Âb≈oº∫πº±øºn","MS",1006
+"getting stronger","SC33B","234.2","E","N"," "," ","ıgà≤´{∞}'tn$ÂstéÚè∑Ω∑´Óg∞´æ","MS",1006
+"rising","SC34A","235.1","V","N"," "," ","ra´æ∫{∞}z±øºÓ","MS",1007
+"got higher","SC34B","235.2","E","N"," "," ","gﬁt$Âha´æ∫∞¥","MS",1008
+"wind rose","SC34B","235.2","S","N"," "," ","ıw±´{∞}n$Âroº∫πºz","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"rising","SC35A","236.1","V","N"," "," ","Âra´æ∫{∞}z±øºn","MS",1010
+"blowing real hard","SC35A","236.1","E","N"," "," ","b≈oº∫πº±øºn$ıri∫∞l$Âhﬁ∫∞d","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"rising","SC35C","236.3(*)","V","N"," "," ","ra´æ∫{±ø}zn","MS",1012
+"rising","SC35D"," ","V","N"," "," ","Âra´æ∫{∞}zn","MS",1013
+"NR","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"blowing","SC36B","237.2","V","N"," "," ","b≈o∫π∫±›æÓ","MS",1016
+"rising","SC36B","237.2","V","N"," "," ","Ârµ´º∫{∞}z±æÓ","MS",1016
+"a-blowing hard","SC36C","237.3","E","N"," "," ","∞Âb≈o∫πΩ±øºn$hﬁé∫d","MS",1017
+"getting harder","SC36C","237.3","E","N"," "," ","gà≤´tn$Âhﬁé∫¥d∞éæ","MS",1017
+"getting harder","SC36C","237.3","E","N"," "," ","gà≤´tê±æÓ$Âhﬁé∫¥d¥´æ","MS",1017
+"getting stronger","SC36C","237.3","E","N"," "," ","Âgà≤´'tn$stéÚè∂´∫∑Óg¥","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"getting harder","SC37","238","E","N"," "," ","g≤'tn$Âhµérd¥","MS",1019
+"blowing hard","SC37","238","E","N"," ","CNV","blo{π}±øn$Âhµærd","MS",1019
+"started to blowing","SC38N","N239","E","N"," "," ","Âstﬁ∫{∞}'td$t∞$Âb≈o∫π±øΩn","MS",1020
+"getting stronger","SC38N","N239","E","N"," "," ","ıgà±'tn$ÂstéÚéè∂´∑Óg∞","MS",1020
+"getting higher","SC38N","N239","E","N"," "," ","gà±'tn$ha´æ∫j∞´","MS",1020
+"picking up","SC38N","N239","E","Y"," ","SUG","Âp`±´k±æn$ı¶Ωp","MS",1020
+"rising","SC38N","N239","V","Y"," ","SUG","Âra´æ∫{∞}zn","MS",1020
+"getting up","SC38A","239.1","E","N"," "," ","Âgài'tn$ı¶Ωp","MS",1021
+"rising","SC38A","239.1","V","N"," "," ","Âra´æ∫{∞}z±æn","MS",1021
+"get heavy","SC38A","239.1","E","N"," "," ","Âgà±´t$ıh≤∫v±ø´º","MS",1021
+"blowing heavy","SC38A","239.1","E","N"," ","CNV","Âb≈o∫π±øºn$ıh≤´v±ø´º","MS",1021
+"rise","SC38A","239.1","V","N"," "," ","Âra´æ∫{∞}z","MS",1021
+"blowing harder","SC38B","239.2","E","N"," "," ","Âb≈oº∫π±æn$Âhﬁ∫{∞}d∞´","MS",1022
+"getting harder","SC38B","239.2","E","N"," "," ","ıgà±'tn$Âhﬁ∫{∞}d∞´","MS",1022
+"getting stronger","SC38B","239.2","E","N"," "," ","Âgà±'tn$ÂstéÚè∂´oÓg∞´","MS",1022
+"rising","SC38B","239.2","V","N"," "," ","Âra´æ∫{∞}zn","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"blowing hard","SC38D!","239.4(*)!","E","N"," "," ","b≈o∫π±æÓ$ıhﬁ∫{∞}d","MS",1024
+"blowing","SC38D!","239.4(*)!","V","N"," "," ","Âb≈o∫π±æÓ$","MS",1024
+"rising","SC38D!","239.4(*)!","V","N"," "," ","ra´æ∫{∞}z±æÓ","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"getting up","SC39A","240.1","E","N"," "," ","Âg≤´'tn$ı¶Ωp","MS",1026
+"rising","SC39A","240.1","V","N"," "," ","Âra´æ∫{∞}zn","MS",1026
+"got worse","SC39B!","240.2!","E","N"," "," ","gﬁt$w≥ó´∫±øs","MS",1027
+"rose","SC39B!","240.2!","V","N"," "," ","ro´º∫πºz","MS",1027
+"rise","SC39B!","240.2!","V","N"," "," ","rµº∫{±ø}z","MS",1027
+"come up","SC39B!","240.2!","E","N"," "," ","ık`¶Ωm$Â¶Ωp","MS",1027
+"pick up","SC39B!","240.2!","E","N"," "," ","Âp`±´k$Â¶Ωp","MS",1027
+"get so high","SC39B!","240.2!","E","N"," ","CNV","g≤´t$s∞$Âha´æ∫{±ø}","MS",1027
+"getting up","SC40A","241.1","E","N"," "," ","Âgà±´tên$¶Ωp","MS",1028
+"getting stronger","SC40A","241.1","E","N"," "," ","gà±´tên$stÚ∑ΩoÓ∞","MS",1028
+"getting stronger","SC40A","241.1","E","N"," "," ","Âgà±´tên$ÂstÚ∑ΩoÓg∞","MS",1028
+"rising","SC40A","241.1","V","N"," "," ","Ârµ´∫{∞}zn","MS",1028
+"rising","SC40A","241.1","V","N"," "," ","Ârµ´∫∞z±æn","MS",1028
+"rising","SC40A","241.1","V","N"," "," ","Ârµ´∫z±æn","MS",1028
+"rising","SC40B","241.2","V","N"," "," ","Ârµ´∫z±æn","MS",1029
+"increasing","SC40B","241.2","V","N"," "," ","±øºnÂk`’è±is±æÓ","MS",1029
+"picked up","SC40B","241.2","E","N"," "," ","Âp`±´kt$¶Ωp","MS",1029
+"blew harder","SC40B","241.2","E","N"," "," ","Âblyæuø´$Âhﬁº{∞}d∞æ","MS",1029
+"blowing higher","SC41A","242.1","E","N"," "," ","blo{π}±øΩn$hµ´¥d¥","MS",1030
+"rising","SC41A","242.1","V","N"," "," ","ra∫{±øΩ}z±øΩn","MS",1030
+"increasing speed","SC41B","242.2","E","N"," "," ","nñÂk`rè±isn$Âsp{j}ii´d","MS",1031
+"rising","SC41B","242.2","V","N"," "," ","Ârµ´∫±øzn","MS",1031
+"picking up","SC41B","242.2","E","N"," "," ","Âp`±´k{x}±æn$¶Ωp","MS",1031
+"blowing harder","SC41B","242.2","E","N"," "," ","Âbloº∫πº{w}±æn$Âhµ∫∞éd∞æ","MS",1031
+"picking up","SC42N","N243","E","N"," "," ","Âp`±´k±æn$ı¶Ωp","MS",1032
+"rising","SC42N","N243","V","N"," "," ","ra´æ∫±ø›z±ø›n","MS",1032
+"getting rough","SC42N","N243","E","N"," "," ","Âgà≤´tên$r¶Ωf","MS",1032
+"rough","SC42N","N243","A","N"," "," ","r∏´f","MS",1032
+"it's high","SC42N","N243","S","N"," "," ","±´ss$Âha´æ:","MS",1032
+"sure is high","SC42N","N243","E","N"," "," ","ÂÛoº∫πº$±æz$Âhaæ∫","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"rising","SC42A","243.1","V","N"," "," ","Âra´æ∫±øz±æn","MS",1034
+"getting stronger","SC42A","243.1","E","N"," "," ","Âgà±Ωætên$ÂstÚ∑º∫oÓg∞","MS",1034
+"gets too high","SC42A","243.1","E","N"," "," ","Âgà±Ωts$ıt`uøæu´$Âhaæ∫","MS",1034
+"would rise","SC42A","243.1","E","N"," ","CNV","w∞d$Âra´æ∫z","MS",1034
+"little breeze","SC42B!","243.2!","E","Y"," ","SUG","l±øtê∞{Ï}$Âbr±æi´æz","MS",1035
+"stirring","SC42B!","243.2!","V","N","just a little"," ","Âst¥´º:|±æn","MS",1035
+"rising","SC42B!","243.2!","V","N"," "," ","rµ∫±øz±æÓ","MS",1035
+"coming up","SC42B!","243.2!","E","N"," "," ","kà`¶Ωºm±æn$Â¶Ωp","MS",1035
+"rising","SC42C!","243.3!","V","N"," "," ","Âraæ∫z±ø›Óà","MS",1036
+"getting higher","SC42C!","243.3!","E","N"," "," ","g≤tê±øÓ$hµ´º∫∞Ω","MS",1036
+"blowing harder","SC42C!","243.3!","E","N"," "," ","bloº∫{πº}±ø›Ó$hµæ∫d∞","MS",1036
+"NR","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"rising","SC42E!","243.5!","V","N"," "," ","ra´æ∫{∞}z±øn","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"getting up","SC43B","244.2","E","N"," "," ","Âgà±´tên$¶Ωp","MS",1040
+"blowing up some rain","SC43B","244.2","E","N"," "," ","Âbloº∫πº{w}±æn$ı¶Ωp$sm$Âre´∫iøîºn","MS",1040
+"hard wind","SC43B","244.2","O","N"," "," ","Âhµéæ∫d$w±´n","MS",1040
+"getting higher","SC43C","244.3","E","N"," "," ","Âg≤´têÓ$haæ:∞","MS",1041
+"getting stronger","SC43C","244.3","E","N"," "," ","Âg±Ωtên$stÚ∂´∑´Óg∞","MS",1041
+"picking up","SC43C","244.3","E","Y","rarely said about wind","HRD","p`±´k±æÓ$¶Ωp","MS",1041
+"riz","SC44A","245.1","V","N"," "," ","r±´z","MS",1042
+"rising","SC44A","245.1","V","N"," "," ","rµ´∞z±›æn","MS",1042
+"got harder","SC44A","245.1","E","N"," "," ","ıgﬁºt$Âhﬁéóº¥d¥æ","MS",1042
+"getting high","SC44A","245.1","E","N"," "," ","g±Ωtên$hµ´±ø","MS",1042
+"getting stronger","SC44A","245.1","E","Y","[∞éæ]: doubtful","FDT","g±Ωtên$stÚ∂´oÓg∞éæ","MS",1042
+"picking up","SC44A","245.1","E","N","not too common for wind"," ","Âp`±´k{x}±æn$ı¶Ωp","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"increasing","GA1N","N246","V","N"," "," ","±øºnÂkri∫s±øn","MS",1044
+"wind increasing","GA1N","N246","S","N"," "," ","Âw±nd$±øºnÂkri∫s±øn","MS",1044
+"picking up","GA1N","N246","E","N"," "," ","p±k±øn$Â∏ºp","MS",1044
+"getting higher","GA1A","246.1(*)","E","N"," "," ","Âgà≤´'tn$ıhµ∫±ø∞","MS",1045
+"rising","GA1A","246.1(*)","V","N"," "," ","Ârµº±øz±ø›n","MS",1045
+"arising","GA1A","246.1(*)","V","Y"," ","AUX","∞Ârµ±øz±øΩn","MS",1045
+"blowing stronger","GA1A","246.1(*)","E","Y"," ","AUX","blço´|±øΩn$stÚ∑∫Óg¥","MS",1045
+"picking up","GA1B","246.11","E","N"," "," ","Âp±k±øÓ$ı∏ºp","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"blowing up","GA1E","246.4","E","N"," "," ","Âb≈èoº∫±æÓ$∏´ºp","MS",1049
+"howling","GA1E","246.4","V","N"," "," ","haæ∫πl±æÓ","MS",1049
+"whistling","GA1E","246.4","V","N"," "," ","Âw±´sl±æÓ","MS",1049
+"rising","GA1F!","246.5!","V","N"," "," ","rµº∫{≤æ}z±øÓ","MS",1050
+"blowing a regular gale","GA1G!","246.6!","E","N"," ","CNV","Âb≈èoº∫|±æn$∞$Âr≤´gl∞´$Âgàe∫{∞}l","MS",1051
+"making up","GA1H!","246.7!","E","N"," "," ","Âmeæ∫±øk±æÓ$ı∏ºp","MS",1052
+"rising","GA1H!","246.7!","V","N"," "," ","rµ´∫∞z±æÓ","MS",1052
+"getting stronger","GA1H!","246.7!","E","N"," "," ","g≤´tê±æÓ$ÂstÚè∑Ωº∑ºÓg∞Ω","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"got blustery","GA2A","247.1","E","N"," "," ","gﬁt$Âb≈∏ºst¥±ø´º","MS",1054
+"heavy wind a-coming","GA2A","247.1","S","N"," "," ","Âh≤∫{∞}v±øΩº$ıw±{∞}nd$∞Âk`∏ºm±æn","MS",1054
+"getting higher","GA2A","247.1","E","N"," "," ","gà≤´'tn$Âhµ∫j∞é›´","MS",1054
+"wind blowing strong","GA2A","247.1","S","N"," ","CNV","Âw±´{∞}n$ıb≈èoº∫|±æÓ$ÂstéÚè∑º∫{∞}Ó","MS",1054
+"picking up","GA2B","247.2","E","N"," "," ","Âp`±´k±æn$ı∏{∞}p","MS",1055
+"getting up","GA2B","247.2","E","N"," "," ","Âg≤´t`n$ı∏º{∞}p","MS",1055
+"rising","GA2B","247.2","V","N"," "," ","Ârµ´º∫{∞}zn","MS",1055
+"raising","GA2B","247.2","V","N"," "," ","Âre∫{±ø}zn","MS",1055
+"increasing","GA3A","248.1","V","N"," "," ","±nkri´æs±øΩn","MS",1056
+"rising","GA3A","248.1","V","Y"," ","SUG","raæ∫±øΩz±øΩn","MS",1056
+"rising","GA3B","248.2","V","Y"," ","SUG","rµº∫±øz±øºn","MS",1057
+"blowing higher","GA4N","N249","E","N"," "," ","blo´∫±øΩn$Âhaæ±øΩ∞","MS",1058
+"rising","GA4N","N249","V","N"," "," ","raæ∫≤æz±øΩn","MS",1058
+"rising","GA4A","249.1","V","N"," "," ","rµ´∫±øz±øºÓ","MS",1059
+"increasing","GA4B","249.2","V","N"," "," ","±øºnkrèái∫s±øºn","MS",1060
+"picking up","GA4B","249.2","E","N"," "," ","Âp±∫k{x}±øºn$ı∏Ωp","MS",1060
+"rising","GA4C!","249.3!","V","N"," "," ","Ârµ´±ø›z±øºÓ","MS",1061
+"rose","GA4C!","249.3!","V","N"," "," ","ro´∫∞›z","MS",1061
+"getting up","GA4C!","249.3!","E","N"," "," ","Âgà≤´'tn$ı∏Ωp","MS",1061
+"picking up","GA4C!","249.3!","E","N"," "," ","Âp±´k{x}±øºn$ı∏Ωp","MS",1061
+"picking up","GA5A","250.1","E","N"," "," ","Âp±´k{x}±øºn$∏Ωp","MS",1062
+"blowing heavy","GA5A","250.1","E","N","harder [than picking up]"," ","blo´∫|±øºÓ$ıheΩ∫{∞}v±ø","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"picking up","GA5C","250.3","E","N"," "," ","Âp±´æk±ø›Ó$∏ºp","MS",1064
+"rising","GA5C","250.3","V","N","""breeze¢"," ","Ârµ´∫±øz±ø›ºÓ","MS",1064
+"breeze","GA5C","250.3","N","N"," "," ","bri∫z","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"getting stronger","GA5E!","250.5!","E","N"," "," ","ıgà≤´'tn$ÂstéÚè∑´{∞}Óg∞","MS",1066
+"blew harder","GA5E!","250.5!","E","N"," "," ","Âbluøæ∫$ıhﬁóº∫∞›d∞","MS",1066
+"rising","GA6A","251.1","V","N"," "," ","rµ∫±øzn","MS",1067
+"wind rose","GA6B!","251.2!","S","N"," "," ","Âw±´{∞}n$ıro´∫{∞ó}z","MS",1068
+"rise","GA6B!","251.2!","V","N"," "," ","rµ∫±øz","MS",1068
+"coming up","GA6B!","251.2!","E","N"," ","CNV","Âk∏ºm±øºn$ı∏ºp","MS",1068
+"starts to blowing","GA7","256","E","N"," "," ","Âstµæ∫∞ts$t∞$b≈oº∫{πº}±øºn","MS",1069
+"going up higher","GA7","256","E","N"," "," ","Âgoº∫{πº}±øºn$ı¶Ω{∞}p$Âha´æ∫|∞","MS",1069
+"starts to blowing","GA8A","257.1","E","N"," "," ","stµ∫{∞}ts$t∞$blo∫±øn","MS",1070
+"blowing harder","GA8A","257.1","E","N"," "," ","bloº∫nñ$Âhµé∫rd∞é´","MS",1070
+"rising","GA8B","257.2","V","N"," "," ","Ârµº∫±øz±øºn","MS",1071
+"changing","GA9A","257A.1","V","N"," "," ","ÂtÛe{±ø}nd˙±øºn","MS",1072
+"getting stronger","GA9A","257A.1","E","N"," "," ","ıg≤'tn$ÂstÚ∂´∑Óg∞","MS",1072
+"getting stronger","GA9B","257A.2","E","N"," "," ","ıg≤'tn$ÂstÚ∑Ω∫{∞}Ó¥","MS",1073
+"blowing a little harder","GA9B","257A.2","E","N"," "," ","bÏo{π}±øn$∞$ıl±têÏ$Âhµæ¥d¥","MS",1073
+"not a-blowing","GA9B","257A.2","E","Y"," ","INA","ınµt$∞Âblo{π}±øn","MS",1073
+"arising","GA10A","258.1","V","N"," "," ","∞Âra∫±øΩz±øΩn","MS",1074
+"blowing up","GA10B","258.2","E","N"," "," ","Âblèo´º∫±øºn$ı¶Ω{∞}p","MS",1075
+"blowing stronger","GA11N","N258A","E","N"," "," ","ıblo{π}±øn$ÂstÚ∂´oÓg∞","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"blowing up a storm","GA12B!","259.2(.3)","E","N"," "," ","Âblo{π}±øn$ı∏´ºp$∞$Âst∑∫∞m","MS",1078
+"getting higher","GA13A","260.1","E","N"," "," ","gà±tn$hµº±ø∞","MS",1079
+"arising","GA13A","260.1","V","N"," "," ","∞Ârµ´º∫±øz±øΩn","MS",1079
+"picking up","GA13B!","260.2!","E","N"," ","SIC","ÂpiΩkà{xà}±øºn$¶Ωp","MS",1080
+"increasing","GA13B!","260.2!","V","N"," "," ","±øºnÂkráiæ∫s±øºÓ","MS",1080
+"picking up","GA13B!","260.2!","E","N"," "," ","Âp±´kà{xà}±øºn$¶Ωp","MS",1080
+"coming up","GA13B!","260.2!","E","N"," "," ","ık∏m±øºÓ$Â∏´p","MS",1080
+"getting harder","GA13B!","260.2!","E","N"," "," ","gà≤´'tn$Âhµéæ∫¥d¥","MS",1080
+"getting harder and harder","GA14A","261.1","E","N"," "," ","gà≤´'tn$Âhﬁº∫{∞}d∞$n$Âhﬁ∫{∞}d∞æ","MS",1081
+"arising","GA14A","261.1","V","N"," "," ","∞Âra´æ∫±øzn","MS",1081
+"getting up","GA14A","261.1","E","N"," "," ","Âg≤´'tn$∏´{∞}p","MS",1081
+"starts to rise","GA14B","261.3","E","N"," "," ","stµæ∫{∞}ts$t∞$Âra´æ∫{±ø}z","MS",1082
+"to rise","GA14C","261.2","E","N"," "," ","t∞$Âra´æ∫±øz","MS",1083
+"take up","GA14C","261.2","E","N"," "," ","Ât`e∫{±ø}k$ı∏´{∞}p","MS",1083
+"gets up","GA14C","261.2","E","N","""a breeze ahead of a cloud¢"," ","ıgà≤∫{∞}ts$Â∏´∫{∞}p","MS",1083
+"get up a pretty good breeze","GA14C","261.2","E","N"," "," ","Âgà≤´{∞}Ò$∞p$∞Âp`Ú±øtê±ø´º$ıgπº{∞}d$ÂbÚi∫jz","MS",1083
+"going to blow","GA14C","261.2","E","N"," "," ","go˛∫π˛$Ò∞$Âb≈oº∫πº","MS",1083
+"getting higher","GA15A","262.1","E","N"," "," ","ıg±Án$Âhaæ{≤æ}{∞}","MS",1084
+"rising","GA15B","262.2","V","N"," "," ","Ârµ∫±øΩzn","MS",1085
+"rose","GA16A","263.2","V","N"," "," ","roº∫{πº}z","MS",1086
+"got stronger","GA16A","263.2","E","N"," "," ","ıgﬁºÁ$ÂstéÚè∂´º∫∑ºÓg∞","MS",1086
+"getting worse","GA16A","263.2","E","N"," ","CNV","g≤´'tn$Âw≥éæ∫{∞´}s","MS",1086
+"rising","GA16B","263.1","V","N"," "," ","Ârµ´æ∫±øz±øºn","MS",1087
+"beginning to blow","GA16C","263.21","E","N"," "," ","b±øÂgà±n±øn$t∞$ıbloº{πº}","MS",1088
+"springing up","GA16D!","263.3!","E","N"," "," ","Âsprè±´Ó±øºÓ$ı¶Ω{∞}p","MS",1089
+"sprung up","GA16D!","263.3!","E","N"," "," ","sprè¶Ω{∞}Ó$¶Ω{∞}p","MS",1089
+"blowing","GA17N","N264","V","N"," "," ","bloº{π}±øn","MS",1090
+"rising","GA17N","N264","V","N"," ","CNV","ra´æ∫{∞}z±øn","MS",1090
+"gusty","GA17","264","V","N"," "," ","g∏´ºsdè±ø´º","MS",1091
+"blowing a gale","GA18A","264A.1","E","N"," "," ","ıblo{π}±øn$∞$Âge{±ø}Ï","MS",1092
+"getting up","GA18B","264A.2","E","N"," "," ","ıg≤tê±øºÓ$∏´ºp","MS",1093
+"blowing hard","GA18B","264A.2","E","N"," "," ","ıblo{π}±øÓ$Âhµ∫∞d","MS",1093
+"arising","GA18B","264A.2","V","N"," "," ","∞Âra´æ∫{∞}z±øºn","MS",1093
+"gush of wind","GA18B","264A.2","O","N"," "," ","Âg∏´ºÛ∞$w±n","MS",1093
+"arising","GA19A","265.1","V","Y"," ","AUX2","∞Âra´æ∫∞›zn","MS",1094
+"getting up","GA19A","265.1","E","Y"," ","AUX2","gà±´æ'tn$Â¶Ω{∞}p","MS",1094
+"blustery","GA19B","265.2","V","N"," "," ","Âbl¶Ω{∞}stéÚ±øº","MS",1095
+"blowing","GA19B","265.2","V","N"," "," ","Âblo´º∫πºnñ","MS",1095
+"getting stronger and stronger","GA20A","266.1","E","N"," "," ","ıgà±Ω'tn$ÂstéÚè∑Ω∑Ó¥$∞Ωn$ÂstéÚ∑Ω∑Ó¥","MS",1096
+"increasing","GA20A","266.1","V","N"," "," ","±øºnÂkrái∫{j}sn","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"high","GA21A","267.1","A","N"," "," ","ha´æ∫{∞}","MS",1098
+"getting higher","GA21A","267.1","E","N"," "," ","ıg≥'tn$Âhaæ∫|¥","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"getting up","GA22A","268A.1","E","N"," "," ","ıgà±'tn$Â∏´∫p","MS",1100
+"rising","GA22B","268A.2","V","N"," "," ","Âra´∫{∞}zn","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"rising","GA23C","268.2","V","N"," "," ","Âra´æ∫{∞}z±øÓ","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"coming up","GA23E!","268.4!","E","N"," "," ","Âk∏´ºm±øÓ$∏´ºp","MS",1106
+"blowing harder","GA23F!","268.5!","E","N"," "," ","ıblo{π}±øn$Âhﬁó∞d∞","MS",1107
+"increasing","GA23F!","268.5!","V","N"," "," ","±øºnÂkÚi∫s±øºÓ","MS",1107
+"getting up and going to blowing","GA24N","N269","E","N"," "," ","Âg±'tn$ı∏´ºp$∞n$goπ±øn$t∞$Âblo{w}±øn","MS",1108
+"getting higher","GA24A","269.1","E","N"," "," ","g±Án$haæ{≤æ}{∞}","MS",1109
+"rising","GA24B","269.2","V","N"," "," ","ra´æ∫{∞}z±øºn","MS",1110
+"arising","GA24B","269.2","V","N"," "," ","∞Âra´æ∫{∞}z±øºn","MS",1110
+"rising","GA25N","N269A","V","N"," "," ","ra´æ∫{∞}zn","MS",1111
+"blowing harder","GA26","270A","E","N"," "," ","ıbÏoº{πº}±øn$Âhﬁó∞d∞","MS",1112
+"getting harder","GA26","270A","E","N"," "," ","ıgà≤'tn$Âhﬁ∞d∞","MS",1112
+"rising","GA27!","270!","V","N"," "," ","ra±øzn","MS",1113
+"getting up","GA28","271a","E","N"," "," ","ıg≤tê±øÓ$Â∏´p","MS",1114
+"increasing","GA29A","271.1","V","N"," "," ","±øºnÂkrèái∫s±øºn","MS",1115
+"getting harder","GA29A","271.1","E","N"," "," ","ıg±´'tn$Âhﬁ∫∞d∞","MS",1115
+"getting hard","GA29B","271.2","E","N"," "," ","g≤´'tn$Âhﬁº∫∞d","MS",1116
+"increasing","GA29B","271.2","V","N"," "," ","±øºnÂkrái∫s±øºn","MS",1116
+"NR","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NR","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"picking up","GA30C!","272.3!","E","N"," "," ","Âp`±´k±øºn$ı∏´º∫p","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"getting high","GA31","272A","E","N"," "," ","gà±'tn$Âha´æ∫∞","MS",1122
+"getting up","GA31","272A","E","N"," "," ","gà±'tn$Â∏´ºp","MS",1122
+"blowing harder","GA32","272B","E","N"," "," ","bloπø±øn$hﬁ∫∞d","MS",1123
+"blowing harder and harder","GA33A","272C1","E","N"," "," ","ıblo{π}±øn$Âhµ∫¥d¥$∞n$Âhµ¥d¥","MS",1124
+"rising","GA33B","272C2","V","N"," "," ","rﬁ´æ∫{∞}z±øºÓ","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"getting higher","GA34A","273.1","E","N"," "," ","g±Án$haæ∫{≤æ}∞","MS",1127
+"getting stronger","GA34B","273.2","E","N"," "," ","ıg≤´'tn$ÂstéÚè∂´∑Óg∞","MS",1128
+"getting up","GA34B","273.2","E","N"," "," ","ıg≤´'tn$Â¶Ωp","MS",1128
+"rising","GA34B","273.2","V","N"," "," ","ra´æ∫{∞}zn","MS",1128
+"increasing","GA34B","273.2","V","N"," "," ","±øºnÂk`rái∫jz±øºn","MS",1128
+"rising","GA35N","N273A","V","N"," "," ","Âra´æ{∞}z±øn","MS",1129
+"wind is riz","GA36N","N274A","S","N"," "," ","w±ænd$±øz$Âr±∫{∞}z","MS",1130
+"channeled","GA36N","N274A","V","Y","[·∫]: doubtful","FDT","tÛ·∫nÏd","MS",1130
+"blowing","GA37N","2N274","V","N"," "," ","b≈oº{π}±øÓ","MS",1131
+"rising","GA37N","2N274","V","N"," "," ","Âra´æ∫{∞}z±øºÓ","MS",1131
+"blowing hard","GA37N","2N274","E","N"," "," ","b≈oº{π}±øn$Âhµæ∫∞d","MS",1131
+"gusting","GA37M!","NC274","V","N"," "," ","g∏´ºst±øºÓ","MS",1132
+"it rises","GA37A","274.1","S","N"," "," ","±øºt$Âra´æ∫{±ø}z±øºz","MS",1133
+"getting a little higher","GA37A","274.1","E","N"," "," ","Âg±´'tn$∞$ıl±´tê©$Âha´æ∫∞é","MS",1133
+"getting up","GA37B","274.2","E","N"," "," ","ıgà±´'tn$¶Ωp","MS",1134
+"increasing","GA37B","274.2","V","N"," "," ","Â±´nk`rèái∫js±øºn","MS",1134
+"increasing","GA37B","274.2","V","N"," "," ","±øºnÂk`rèái∫js±øºn","MS",1134
+"breeze is stirring","GA37C","274.21","S","N"," "," ","Âbri{i´}z$±øz$Âst≥æ¥r±øn","MS",1135
+"picking up","GA37C","274.21","E","Y"," ","SUG","Âp±k±øºn$ı∏ºp","MS",1135
+"getting windy","GA37C","274.21","E","N"," "," ","g≤'tn$w±ænd±ø´","MS",1135
+"beginning to blow","GA37D!","274.7!","E","N"," "," ","b±øÂgà±n±øºÓ$t∞$Âbloº{πº}","MS",1136
+"picking up","GA37D!","274.7!","E","N"," "," ","Âp`±k±øÓ$ı∏´ºp","MS",1136
+"rising","GA37D!","274.7!","V","Y"," ","HRD","rﬁ´æ∫{∞}z±øÓ","MS",1136
+"blowing harder","GA37D!","274.7!","E","N"," "," ","bloº{πº}±øÓ$Âhµ∫∞d∞","MS",1136
+"blowing","GA37E!","274.8!","V","N"," "," ","bloºπº±øÓ","MS",1137
+"picking up","GA37E!","274.8!","E","N"," "," ","Âp±´k±øºÓ$ı∏´º{∞}p","MS",1137
+"rising","GA37E!","274.8!","V","N"," "," ","rﬁ´æ∫{∞}z±øÓ","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"rising","GA37G!","274.4!","V","N"," "," ","Âra´æ∫{∞}z±øºÓ","MS",1139
+"getting stronger","GA37G!","274.4!","E","N"," "," ","ıgà≤´d±æÓ$ÂstéÚ∑Ω∑Óg∞","MS",1139
+"rising","GA37H!","274.5!","V","N"," "," ","ra´æ∫{∞}z±øºÓ","MS",1140
+"breeze starts","GA37H!","274.5!","S","N"," "," ","Âbri∫{j}z$ıstµæ∫∞ts","MS",1140
+"has come up","GA37I!","274.6!","E","N"," "," ","Âh·z$ık∏´ºm$Â∏´ºp","MS",1141
+"stirring","GA38","275","V","N"," "," ","st¥±øn","MS",1142
+"blowing","GA39","275A","V","N"," "," ","bloº{πº}±øÓ","MS",1143
+"is starting to blow","GA39","275A","E","N"," "," ","±øz$Âstµæ¥'tn$t∞$ıbloº{πº}","MS",1143
+"blowing","GA40","276A","V","N"," "," ","blo{π}±øºn","MS",1144
+"blowing harder","GA40","276A","E","N"," "," ","blo{π}{w}±øºn$Âhµºréd¥","MS",1144
+"picking up","GA40","276A","E","N"," "," ","Âp±k±øºn$ı∏ºp","MS",1144
+"high blowing spell of weather","GA41","276B","O","N"," "," ","Âha´æ∫{∞}$bloΩ{w}±øn$Âsp≤´{Ï}$∞$Âw≤´‰¥","MS",1145
+"getting stronger","GA41","276B","E","N"," "," ","ıg±'tn$ÂstÚ∑Ω∑Óg¥","MS",1145
+"it's blowing harder","GA42A","276.1","S","N"," ","CNV","h±øºts$Âbloº∫πº±øºn$hﬁéº∫¥d¥","MS",1146
+"wind is arising","GA42A","276.1","S","N"," ","CNV","Âw±´nz$∞Âraæ∫{∞}zn","MS",1146
+"arising","GA42A","276.1","V","N"," "," ","∞Âraæ∫{∞}zn","MS",1146
+"wind is a-raising","GA42B","276.2","S","N"," "," ","w±´ænz$∞Âreæ±øºzn","MS",1147
+"getting higher","GA43","277","E","N"," "," ","g±Án$Âhaæ{≤æ}{∞é}","MS",1148
+"rising","GA44A","278.1","V","N"," "," ","Ârµ∫±øz±øºn","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"arising","GA44C","278.3","V","N"," "," ","∞Âra´æ∫{∞}z±ø›n","MS",1151
+"riz","GA44C","278.3","V","N"," "," ","r±´{∞}z","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"getting stormy","GA44E","278.5","E","N"," "," ","ıg≤'tn$Âstﬁó¥m±ø","MS",1153
+"rising","FL1","252","V","N"," "," ","Ârµ∫±øzn","MS",1154
+"picking up","FL1","252","E","N"," "," ","ıp±´k{x}±øºn$∏´p","MS",1154
+"getting heavier","FL1","252","E","N"," "," ","g±´tn$Âh≤´v±ø´º∞","MS",1154
+"rising","FL2A","253.1","V","N"," "," ","Ârµ´∫±øzn","MS",1155
+"blustering","FL2B","253.2","V","N"," "," ","Âbl∏´ºst∞r±øÓ","MS",1156
+"rising","FL2C!","253.3!","V","N"," "," ","Ârµ´º∫±øz±øºn","MS",1157
+"pick up","FL2C!","253.3!","E","N"," ","CNV","Âp±´k$ı∏´p","MS",1157
+"came up","FL2C!","253.3!","E","N"," "," ","ıke∫{∞}m$Â∏ó´{∞}p","MS",1157
+"breeze started up","FL3A","254.1","S","N"," "," ","Âbri∫z$ıstµ∫∞tê±øºd$Â∏´p","MS",1158
+"coming up","FL3A","254.1","E","N"," "," ","ık∏´m±øºn$Â∏´p","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"picking up","FL4","254A","E","N"," "," ","Âp±k±øn$ı∏´ºp","MS",1160
+"blowing harder","FL4","254A","E","N"," "," ","Âb≈oº{πº}±øn$ıhµærd¥","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"increasing","FL5B","255.2","V","Y","[i∫]: doubtful","FDT","±øºnÂkrái∫sn","MS",1162
+"blowing harder","FL5B","255.2","E","Y","[o´º∫]: doubtful","FDT","blèo´º∫nñ$ıhµæ∫{∞}d∞","MS",1162
+"rising","FL5B","255.2","V","N"," "," ","ıra´æ∫{∞}zn","MS",1162
+"","","","","","","","","",

@@ -1,0 +1,101 @@
+white ashes (cp8#8.asc)
+
+Items
+=====
+                        a white ash    1
+                                ash    1
+                              ashen    1
+                              ashes   23
+                     ashes are grey    1
+                           ashes is    7
+                      ashes is grey    1
+                     ashes is white   13
+ashes is white after wood done burn    1
+                           charcoal    1
+                               coal    1
+                              coals    2
+                       cooking room    1
+                      hickory ashes    1
+                                 NR    2
+          pine wood make dark ashes    1
+                          the ashes    2
+                      the ashes are    1
+                       the ashes is    3
+                   the ashes is use    1
+                 the ashes is white    2
+                     they are white    1
+                              white   12
+                        white ashes   20
+
+Pronunciations
+==============
+                             a´{∞}Û    1
+                              a´Û±z    1
+                      a´Û±z$±z$wµ±t    2
+                     a´Û±z$±z$wµæ±t    1
+                              a´Û±Û    1
+                           a´Û±Û$±z    2
+                       a´Û±Û$±z$gre    1
+                      a´Û±Û$±z$wµ±t    2
+                     a´Û±Û$±z$wµæ±t    4
+                     a´Û±Û$±z$w∂º±t    3
+                        aæ∫Û±øz$±øz    1
+                         aÛ±øzè$±øz    1
+                  d±$a´Û±Û$±z$w∂º±t    1
+                        d±ø$Â·∫Û±øz    1
+                d±ø$Á·{±øΩ}Û±øz$±øz    1
+                     ha´Û±Û$±z$wµ±t    1
+                   hwa´æ±øt$·∫Û±øΩz    1
+                      hw•´±øt$·Û±øz    1
+                 hw•±øt$·{±øΩ}Û±øΩz    1
+                      hw•±øt$·∫Û±øz    1
+                      hw•±øt$·Û±øΩz    1
+                      hw•±øtê$·Û±øz    1
+                     hw•º±øt$·∫Û∞´z    1
+                     hw•æ±øt$·´Û±øz    1
+                    hwµ{±ø}t$·Û±øΩz    1
+                     hwµ´æ±øt$·Û±øz    1
+                     hwµ∫±øt$·ΩÛ±øz    1
+            p∂º±n$ud$m≤k$daæk$a´Û±Û    1
+                    w•´±øt$·´æÛ±øΩz    1
+                      w•±øt$aæ∫Û±øz    1
+                       w•±øt$aÛ±øzè    1
+                       w•Ω±øt$·Û±øz    1
+               {d}{∞}$Á·{∞}Û±øz$±øz    1
+                    {h}w•±øt$·∫Û±øz    1
+                  ∞$ıhwa±øt$Â·{±ø}Û    1
+                           µ´Û±z$±z    1
+                          ·{∞}Û±øºz    2
+                          ·{≤}Û±øºz    1
+                          ·´{±}Û±øz    1
+                          ·´{≤}Û±øz    1
+                           ·´±øÛ±øz    1
+                             ·´Û±øz    1
+                         ·∫{±ø}Û±øz    2
+                           ·Ω{∞}Û±z    1
+                           ·Ω∞Û±ø˙ä    1
+                           ·Ω≤Û±øºz    1
+                           ·Ωº∫Û±øz    1
+                       ·ΩæÛ±øΩz$±øz    1
+                           ·ΩÛ±z$±z    1
+                             ·ΩÛ±ºn    1
+                         ·æ∫Û±øΩ±øz    1
+                              ·Û±øz    2
+                  ·Û±øz$∞$greæ∫{±ø}    1
+                             ·Û±øzä    1
+                             ·Û±øzè    1
+      ·Û±Û$z$wµæ±t$·ft∞$wπd$d∏n$b∏n    1
+                    ‰∞$Á·{±ø}Û∞´z$∞    1
+               ‰±ø$Â·{±øΩ}Û±øz$±øΩz    1
+       ‰±ø$Â·∫{±ø}Û±øz$±øz$hwa´æ±øt    1
+        ‰±ø$Â·∫{±ø}Û±øz$±øz$juΩºuºz    1
+                        ‰±ø´$·Û±øºz    1
+                      Âa´Û±ø´ºz{zè}    1
+                  Âhwµ±øt$·{∞}Û±øºz    1
+                       Â≤Ω∫{≤}Û±øzè    1
+                  Â·´∫{≤}Û±ø´ºz{zè}    1
+                   ıhwaæ∫≤t$Â·∫Û±øz    1
+                  ıhw•´±øt$Â·∫Û±øΩz    1
+                   ıhw•±øt$Â·ΩÛ±øΩz    1
+             ıh±´krá±ø´º$Â·{≤}Û±øºz    1
+

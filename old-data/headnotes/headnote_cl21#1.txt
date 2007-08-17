@@ -1,0 +1,68 @@
+tire (cl21#1.asc)
+
+Items
+=====
+                                ban    1
+                               band    6
+                           car tire    1
+                            fellies   12
+                              felly   17
+                                hub    5
+                                 NR    3
+                                rim   24
+                        rubber tire    1
+                              spoke    3
+                             spokes    1
+                         steel band    1
+                          steel rim    2
+                               tire   51
+                             turner    1
+                              wheel    2
+                         wheel band    1
+                         wheel tire    1
+                        whiddletree    1
+                               wood    1
+                         wooden rim    3
+
+
+
+
+L: The steel outside of a wagon wheel.
+M: For the parts of a wheel, you start with the inside.  That is the hub, 	and then there are the spokes that come out and fit into the _____. 	 	What is the metal thing around the outside?
+P: When you speak of the felly, do you mean just the individual piece with 	two spoke holes or all of those pieces combined?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+Two sets of terms are presented here: (1) words for the steel band on the rim of a wheel, and (2) words for the wooden rim to which the steel band is fastened, and which it protects.  "Rim" is used by some as a synonym of "tire," by others as the equivalent of "felly," and some use it in both senses.  Others again say that the "rim" consists of the "fellies," of which there are said to be from two to six per "rim"; or that the "rim" includes the "felly" and the "tire."  The field workers' notes do not always make it clear whether "rim" is synonymous with "tire," with "felly," or with both these terms.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+		As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 21#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 21 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+21#P		
+21#1a		
+21#1b		21#1
+21#2		21#2
+21#3		21#3
+21#4		21#4
+21#5		
+21#6		21#5
+		21#6 (no question)
+21#7		21#7
+21#8 MP		21#8

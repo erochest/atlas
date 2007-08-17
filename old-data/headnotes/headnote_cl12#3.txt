@@ -1,0 +1,130 @@
+I've heard (cl12#3.asc)
+
+Items
+=====
+                  ain't never heard    1
+                           have you    1
+  he been heard this thing too long    1
+                            he done    1
+                  he have hear that    1
+                 he hear about that    1
+                         he hear so    1
+                       he hear that    1
+                           he heard    2
+                   he heard a noise    1
+                  he heard about it    3
+                he heard about that    3
+                   he heard of that    4
+                      he heard that    1
+   he never heard nothing about him    1
+                               he's    1
+                               hear    3
+                            hear it    1
+                          hear tell    1
+                              heard   16
+                          heard 'em    1
+                   heard about that    1
+                           heard it    3
+                           heard of    1
+                        heard of it    4
+                      heard of that    1
+                         heard tell   13
+                      heard tell of    1
+                  heard tell of him    2
+                         heard that    1
+                          heared it    1
+                     heared tell of    1
+                            hearing    1
+                       hearing tell    2
+                       him heard it    1
+                             Hudson    1
+                       I 'm hearing    1
+                 I ain't heard none    1
+   I been heard this thing too long    1
+                   I done heard him    1
+                   I have hear that    1
+                    I haven't heard    1
+                  I hear about that    1
+                          I hear so    1
+                        I hear that    2
+                            I heard    7
+                    I heard a noise    1
+                   I heard about it    3
+                 I heard about that    3
+                        I heard him    1
+                    I heard of that    4
+                 I heard people say    1
+            I heard people say that    1
+              I heard tell his name    1
+                       I heard that    2
+                  I heard that name    1
+                       I never done    1
+ I never heard of nothing about him    1
+                          I'm heard    1
+                     I'm just heard    1
+                         I've heard   17
+                      I've heard it    4
+                  I've heard of him    1
+                    I've heard tell    1
+                 I've heard tell of    1
+                    I've heard that    1
+                          I've seen    1
+                          if he got    1
+                        never heard    1
+                                 NR    5
+they been heard this thing too long    1
+                 they done heard of    1
+                they have hear that    1
+               they hear about that    1
+                       they hear so    1
+                     they hear that    1
+                         they heard    2
+                 they heard a noise    1
+                they heard about it    3
+              they heard about that    3
+                 they heard of that    4
+                    they heard that    1
+ they never heard nothing about him    1
+                            they've    1
+          you been Miss Patsy house    1
+                  you got something    1
+
+
+
+
+P: If I ask you if you know a person, you might say, "No, but I _____ of him."
+or
+P: Did you) hear (that noise? Yes, I) heard (it.  I'm not afraid though because I) have heard it (many times before.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 12#3, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 12 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted: 
+
+Handbook	Preliminary Worksheets
+----------------------------------
+12#1		12#1
+12#2a		12#2
+12#2b		12#2
+12#2c		12#2
+12#3		12#3
+12#4a		12#4
+12#4b		12#4
+12#5a		12#5
+12#5b		12#5
+12#6 X		
+12#7a		12#6
+12#7b		12#6
+12#8		12#7
+12#9		12#8

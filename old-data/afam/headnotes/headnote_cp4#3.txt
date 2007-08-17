@@ -1,0 +1,53 @@
+watch (cp4#3.asc)
+
+Items
+=====
+                  double case watch    1
+                         gold watch    5
+                                 NR    8
+                  open face watches    1
+                              piece    1
+                              watch   50
+                        wrist watch    6
+
+Pronunciations
+==============
+            d¦½b©l$õk`eº{±}s$åwŞtó    1
+                          gol$wµtó    5
+                        r±s$õwµ«¾tó    1
+                          r±¾s$wµtó    1
+                               wató    1
+                         wr±s$wµ¾tó    1
+                               wµtó    5
+                            wµ{°}tó    1
+                           wµ{±¿}tó    1
+                           wµ«{°}tó    2
+                             wµ«¾tó    2
+                          wµ«¾{°}tó    1
+                              wµºtó    1
+                           wµº{°}tó    1
+                             wµ¼ºtó    1
+                              wµ¾tó    3
+                           wµ¾{°}tó    2
+                               w¶tó    4
+                            w¶{°}tó    2
+                         w¶”«¼{°}tó    1
+                             w¶«¼tó    1
+                          w¶«¼{°}tó    1
+                        w¶«¼{±¿½}tó    1
+                              w¶¼tó    2
+                               wŞtó    2
+                            wŞ{°}tó    2
+                        wŞ•«¼º{°}tó    1
+                           wŞ—{°}tó    2
+                             wŞ«¼tó    1
+                          wŞ«¼{°}tó    5
+                           wŞº{°}tó    1
+                              wŞ¼tó    1
+                         wŞ¼{Ş«¼}tó    1
+           åoº¹çpm$õfe«ºs$åwŞtó±¿ºz    1
+                        år±s$õwµ«tó    1
+                  år±{±¿}s$õwŞ{°}tó    1
+                    år±¾sõwµ¾{±¿}tó    1
+                             åwŞ«tó    1
+

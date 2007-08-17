@@ -1,0 +1,52 @@
+I'd rather (cp90#5.asc)
+
+Items
+=====
+               I don't feel like go    1
+                      I more rather    1
+               I more rather not go    1
+            I more rather not to go    1
+                           I rather    5
+                  I rather don't go    1
+                    I rather not go   12
+                 I rather not to go    1
+                         I'd rather   17
+                      I'd rather be    1
+                  I'd rather not go    2
+               I'd rather not to go    1
+                                 NR   17
+                             rather    2
+                         rather not    1
+                      rather not go    1
+                       you'd rather    1
+
+
+M: I'll go if you insist, but I'd ______.
+P: If you have a choice, you might say, "I'd _____ do this than that."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 90#5, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 90 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+90#P		90#6
+90#P		90#8
+90#1		90#1
+90#2		90#2
+90#3		90#3
+90#4		90#4
+90#5		90#5
+90#6		90#7

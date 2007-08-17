@@ -1,0 +1,223 @@
+creek (cl30#6.asc)
+
+Items
+=====
+                      Altmaha River    1
+                   Appalachee River    2
+                   Appomattox River    1
+                       Ashley River    2
+                     Atlantic River    1
+            Back Summerville Branch    1
+                       Bagel Branch    1
+              Barber's Island River    1
+                     Beaufort River    2
+                   Beaver Dam Creek    2
+                        Beech Creek    1
+                          Big Creek    1
+                         Bish Creek    1
+                       Black Branch    1
+                        Black Creek    1
+                        Black River    3
+                          Boggy Gut    1
+                        Briar Creek    1
+                    Brickyard Creek    2
+                        Broad River    2
+                   Broomfield Creek    1
+                        Brown Creek    1
+                        Brush Creek    2
+                           Bull Run    1
+                         Bush River    1
+                     Calabash River    1
+                    Cape Fear River    1
+                  Cedar Point Creek    1
+                Chattahoochee River    2
+                  Chickahamni River    1
+                       Cockaw Swamp    1
+                            Conetoe    1
+                  Contentment River    1
+                        Cook Branch    1
+                           Cook Run    1
+                       Cooper River    2
+                              Creek    1
+                     Crescent River    1
+                   Cretonbark River    1
+               Crooked Gully Branch    1
+                     Crowpen Branch    1
+                        Cuson River    2
+                       Daisy Branch    1
+                    Darling's Creek    1
+                         Dead River    1
+                     Doughboy Sound    3
+                   Dreighton Stream    1
+                     Duckling River    1
+                     Durand's Creek    1
+                     Federica River    1
+                 Fifteen Mile Creek    1
+                    Frederica River    1
+                        Ginny Creek    2
+                   Greenbriar Creek    1
+                         Gull River    1
+                 Gulls Forks Branch    1
+                        Gully Creek    1
+                    Hancock's Creek    1
+                   Hard Labor Creek    1
+                    Harrington reek    1
+                        Henry Creek    2
+                    Hog Crawl Creek    1
+                     Hollover Creek    1
+                        Jacks Creek    1
+                        James River    1
+                      Jericho Creek    1
+                          John Lake    1
+                      Joycie Branch    1
+                     Julinten River    1
+                      Julolly Creek    1
+                         Juna Creek    1
+                      Juniper Creek    1
+                       Kilton's Run    1
+                         Kuda Creek    1
+                        Laura Creek    1
+                      Lillies Swamp    1
+                  Lower Lotts Creek    1
+                       Lumber River    1
+                    MacIntyre Creek    2
+                    Meredith Branch    1
+                      Merle's Inlet    1
+                         Mill Creek    1
+                    Mill Run branch    1
+                Mitchellville Creek    1
+                      Moorman River    1
+                        Moses Creek    1
+             Mossy Island Big Creek    1
+                 Mossy Island River    1
+                          Mud River    1
+                        Neuse River    1
+                      Newport River    1
+                       Nomini Creek    1
+                North Scott's Creek    1
+                                 NR    6
+                    Oak Hill Branch    1
+                        Ocoee River    1
+                       Oconee River    1
+                     Ogeechee River    2
+                     Old Town Creek    1
+                      Owner's River    1
+                      Pee Dee River    2
+                Pete Taylor's Creek    1
+                   Phillip's Branch    1
+                 Pine Hammock Creek    1
+                     Port Royal Bay    1
+                   Port Royal River    1
+                      Potomac River    4
+                      Raccoon Bluff    1
+                 Rappahannock River    1
+                        Reedy River    1
+                     Richland Creek    1
+                    Richland Stream    1
+                        River Swamp    1
+                      Roanoke River    1
+                 Rock Comfort Creek    2
+                       Rocky Branch    1
+                        Rocky Swamp    1
+                       Saluda River    2
+                    Sandberry Swamp    1
+                      Sanders Creek    1
+                        Sandy Creek    3
+                     Sankopen Creek    1
+                       Santee River    2
+                       Sapelo River    2
+                       Sapelo Sound    1
+                     Savannah River    2
+                       Scotts Creek    1
+                        Second Mill    1
+                         Sham Creek    1
+                        Shell Creek    1
+                     Shellman River    1
+                   Shelton's Branch    1
+                      Six Run River    1
+                              slant    1
+                        Smith Creek    1
+                      Smith's Creek    1
+                South Newport River    1
+                South Scott's Creek    1
+                     Squirrel Creek    1
+                     St. Helena Bay    1
+                  St. Helena Island    1
+                 St. Inigoe's Creek    1
+                   St. Jerome Creek    1
+                St. Katherine Sound    2
+                   St. Mary's River    1
+                        Steel Creek    1
+                     Stewards Creek    1
+                       Stonoe River    2
+                      Sunbury River    1
+                       Swains River    1
+                       Swanee River    1
+                      Sweats Branch    1
+                          Tar River    1
+                    Tawallit Branch    1
+                       Tawny Branch    1
+                       Thomas River    2
+                  Upper Lotts Creek    1
+                     Waccamaw River    2
+                       Wader Branch    1
+                        Wahoo River    1
+                         Wahpoo Cut    1
+                      Wallace River    1
+                     Wallileg Creek    1
+                        Wando River    1
+                        Watch Creek    1
+                      Wateree River    2
+                  Well Branch Creek    1
+                        White Creek    1
+                       Widow Branch    1
+                      Willow Branch    1
+                         Wood Creek    1
+                       Yameth Creek    1
+                       Yellow River    1
+
+
+
+
+L: Small bit of fresh water flowing along?
+
+Notes on target items and data collection procedures:
+
+	Unattributed list manuscript note:
+
+Generally, "river" is the term given by informants for the largest and/or longest stream of running water.  There are cases, due to historical accident, where a name with the generic "creek" refers to a stream larger than some local rivers.  In tidewater areas, a river or creek may be salt, fresh, or tidal.
+
+Especially in Lowman's records north of Virginia, "river" is often recorded only as the generic in proper names.  The field worker's practice is always followed.
+
+"Creek" was most often given by informants to refer to stream next in size after "river."  In coastal areas, "creek" refers to a small tidal inlet from the sea, not a running stream.  This can be verified by examining creek place names from these areas on a map.  A number of informants describe a "creek" as salt and others as tidal.  "Creek" also sometimes refers to a small runoff or inlet from a river.  
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 30#6, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 30 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+30#P		30#4		
+30#P		30#4
+30#1		30#1
+30#2
+30#3		30#2
+		30#3 (no question)
+30#4		30#5
+30#5a		30#6
+30#5b		30#6
+30#5c
+		30#7
+31#P		30#8

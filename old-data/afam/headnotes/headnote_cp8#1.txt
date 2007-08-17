@@ -1,0 +1,21 @@
+chimney (cp8#1.asc)
+
+Items
+=====
+                      brick chimney    1
+                            chimley    1
+                            chimney   68
+                           chimneys    3
+                       clay chimney    1
+                     double chimney    3
+                        fire hearth    1
+                               flue    6
+                                 NR    1
+                            picture    9
+                               pipe    1
+                              round    1
+                        smoke stack    1
+                         smokestack   22
+                        smokestacks    1
+                      stack chimney    1
+

@@ -1,0 +1,1670 @@
+"pantry","NY1","50","N","N"," ","pántr±¿","MS"," ",1
+"pantry","NY2A","51.1","N","N"," ","páş«ºntr±¿","MS"," ",2
+"pantry","NY2B","51.2","N","N","never `buttery'","pá{°ş}ntr±¿","MS"," ",3
+"pantry","NY2C","51.3","N","N"," ","páºntr±¿","MS"," ",4
+"pantry","NY3A","401","N","N"," ","p{h}áş«ºntò±¿«¼","MS"," ",5
+"pantry","NY3B","403","N","N","food","p{h}ántò±¿«","MS"," ",6
+"kitchen closet","NY3B","403","O","Y","dishes","åk±tó°n$kìµ«z°t","MS","SUG",6
+"pantry","NY3C","402","N","N"," ","p{h}ántò±¿«¼","MS"," ",7
+"pantry","NY3D","404","N","N","food","p{h}ántò±¿«","MS"," ",8
+"kitchen closet","NY3D","404","O","N","dishes","k±tó±¿½n$kìµ«ºz±¿½t","MS"," ",8
+"kitchen closet","NY4A","405","O","N","dishes","åk±tó°n$kìµ«z°t","MS"," ",9
+"pantry","NY4A","405","N","N","food","p{h}ántò±¿«¼","MS"," ",9
+"kitchen closet","NY4B","407","O","N"," ","õk±tó±¿½n$åkìµ«z°t","MS"," ",10
+"pantry","NY4C","408","N","N"," ","p{h}ántò±¿«¼","MS"," ",11
+"pantry","NY5A","409","N","N"," ","pá«ºntò±¿«¼","MS"," ",12
+"kitchen closet","NY5A","409","O","N","dishes","k±tó°n$kìµºz°t","MS"," ",12
+"pantry","NY5B","410","N","N"," ","páºntò±¿«¼","MS"," ",13
+"pantry","NY5C","411","N","N"," ","p{h}ántò±¿«¼","MS"," ",14
+"pantry","NY5D","412","N","N"," ","p{h}á¾ntò±¿«¼","MS"," ",15
+"pantry","NY5E","413","N","N"," ","p{h}áº{°}ntò±¿«¼","MS"," ",16
+"closet","NY5E","413","N","N","dishes","kìµ«¼z°t","MS"," ",16
+"pantry","NY5F","414","N","N"," ","pá«ºntò±¿«¼","MS"," ",17
+"pantry","NY5G","415","N","N"," ","p{h}ántò±¿«¼","MS"," ",18
+"pantry","NY5H!","416!","N","Y","rarely used","pá«{°}ntò±¿«¼","MS","SUG",19
+"storeroom","NY5H!","416!","N","N"," ","åst·«°ru¿¾ºm","MS"," ",19
+"pantry","NY5I!","417!","N","N","= butler's pantry","p{h}ántò±¿«¼","MS"," ",20
+"kitchen closet","NY5I!","417!","O","N","canned goods, etc.","õk±tó°n$åkìµ«ºz°t","MS"," ",20
+"pantry","NY6A","418","N","N"," ","p{h}ántò±¿«","MS"," ",21
+"pantry","NY6B","419","N","N"," ","p{h}á½ntò±¿«","MS"," ",22
+"dish closet","NY7A","420","O","N"," ","d±ó$klµºz°t","MS"," ",23
+"pantry","NY7A","420","N","N","rare","páºntò±¿«¼","MS"," ",23
+"pantry","NY7B","421","N","N"," ","p{h}á«ºntò±¿«¼","MS"," ",24
+"pantry","NY7C","422","N","N"," ","p{h}á«ºntò±¿«","MS"," ",25
+"pantry","NY7D","423","N","N"," ","p{h}á¾ntò±¿«","MS"," ",26
+"pantry","NY7E","424","N","N"," ","p{h}ántò±¿«¼","MS"," ",27
+"pantry","NY7F","425","N","N"," ","p{h}á¾ntò±¿«¼","MS"," ",28
+"pantry","NY7G","426","N","N"," ","p{h}á¾n'töŸòŸÕ±¿«¼","MS"," ",29
+"pantry","NY7H","427","N","N"," ","p{h}ántr±¿","MS"," ",30
+"pantry","NY7I","428","N","N"," ","p{h}áºntò±¿«","MS"," ",31
+"pantry","NY7J!","429!","N","N","food","pántò±¿«¼","MS"," ",32
+"kitchen closet","NY7J!","429!","O","N","dishes","k±tó°n$kìµz°t","MS"," ",32
+"pantry","NY7K!","430!","N","N"," ","p{h}ántò±¿«","MS"," ",33
+"larder","NY7L!","431!","N","Y","for food, years ago","lµ¾:d°","MS","OLD",34
+"pantry","NY7L!","431!","N","N"," ","p{h}ántò±¿«¼","MS"," ",34
+"kitchen closet","NY7M!","432!","O","N","dishes","k±tó°n$kìµ«{°}z°t","MS"," ",35
+"pantry","NY7M!","432!","N","N","larger [than kitchen closet]","pántò±¿«¼","MS"," ",35
+"kitchen closet","NY8","432b","O","N","dishes","k±tó°n$kìµºz°t","MS"," ",36
+"pantry","NY8","432b","N","N","food","pántò±¿«","MS"," ",36
+"kitchen closet","NY9A","432c","O","N","dishes","k±tó°«n$kìµºz°«t","MS"," ",37
+"pantry","NY9A","432c","N","N"," ","p{h}áºntò±¿«","MS"," ",37
+"pantry","NY9B","433","N","N"," ","p{h}á«ntò±¿«¼","MS"," ",38
+"pantry","NY9C","434","N","N"," ","pántò±¿«","MS"," ",39
+"pantry","NY10A","435","N","N"," ","páºntò±¿«","MS"," ",40
+"pantry","NY10B!","436!","N","N"," ","pántò±¿«","MS"," ",41
+"pantry","NY11","438","N","N"," ","p{h}{j}áºntò±¿«","MS"," ",42
+"pantry","NY12A","439(*)","N","N"," ","p{h}ántò±¿«","MS"," ",43
+"pantry","NY12A","439(*)","N","Y"," ","phántò±¿«","MS","AUX",43
+"pantry","NY12B","440","N","N"," ","p{h}áşntò±¿{±¿«}","MS"," ",44
+"pantry","NY12C!","441!","N","N"," ","p{h}ántò±¿«","MS"," ",45
+"buttery","NY13A","443","N","N"," ","b¸tr±¿«","MS"," ",46
+"pantry","NY13B!","444!","N","N"," ","pá«ºntò±¿«","MS"," ",47
+"pantry","NY14A","445","N","N"," ","páºntò±¿«","MS"," ",48
+"pantry","NY14B","446","N","N"," ","pántò±¿«","MS"," ",49
+"pantry","NY15A","447","N","N"," ","páº{°}ntò±¿«","MS"," ",50
+"pantry","NY15B","448","N","N"," ","pántò±¿«","MS"," ",51
+"pantry","NY16A","449","N","N"," ","pántò±¿«","MS"," ",52
+"pantry","NY16B","450","N","N"," ","pántò±¿«","MS"," ",53
+"closet","NY17A","451(*)","N","Y","dishes","klµºz°t","MS","AUX",54
+"buttery","NY17A","451(*)","N","N"," ","b¸tò±¿«","MS"," ",54
+"buttery","NY17A","451(*)","N","Y","pots, pans, food","b¸tr±¿«¼","MS","AUX",54
+"pantry","NY17B","452","N","N"," ","pántò±¿«","MS"," ",55
+"buttery","NY18A","453","N","N"," ","b¸tò±¿«","MS"," ",56
+"pantry","NY18B","454","N","N"," ","p{h}ántò±¿«","MS"," ",57
+"tin closet","NY18C!","455!","O","N","tinware","t±n$klµz°t","MS"," ",58
+"pantry","NY18C!","455!","N","N"," ","pá½ntò±¿«","MS"," ",58
+"pantry","NY19","456","N","N"," ","pá«ntò±¿«","MS"," ",59
+"pantry","NY20A","457","N","Y"," ","pántò±¿«","MS","NEW",60
+"buttery","NY20A","457","N","N"," ","b¸tò±¿«","MS"," ",60
+"pantry","NY20B","458","N","N"," ","páşºntò±¿«","MS"," ",61
+"buttery","NY21","459","N","N"," ","b¸tò±¿«","MS"," ",62
+"pantry","NY22","460","N","N"," ","páş«º{°ş}ntò±¿«","MS"," ",63
+"buttery","NY22","460","N","Y","mother said","b¸tò±¿«","MS","OLD",63
+"pantry","NY23A","461","N","N"," ","páş«²ştò±«¾","MS"," ",64
+"buttery","NY23A","461","N","N"," ","b¸½tò±«¾","MS"," ",64
+"buttery","NY23B","462a","N","N"," ","b¸½tò±«¾","MS"," ",65
+"pantry","NY23B","462a","N","N"," ","p`áş«{²ş}tò±«","MS"," ",65
+"buttery","NY23B","462a","N","Y"," ","b¸½'tò±«","MS","AUX",65
+"pantry","NY23C","462b","N","N"," ","p`áş«{²ş}tò±«","MS"," ",66
+"pantry","NY24A","463","N","Y"," ","pántò±¿«","MS","NEW",67
+"buttery","NY24A","463","N","N"," ","b¸tò±¿«","MS"," ",67
+"pantry","NY24B!","464!","N","N"," ","páºntò±¿«","MS"," ",68
+"buttery","NY24B!","464!","N","N"," ","b¸½tò±¿«","MS"," ",68
+"buttery","NY25A","465","N","N"," ","b¥¾tr±«¾","MS"," ",69
+"pantry","NY25A","465","N","N"," ","p`á«{²}ntr±«¾","MS"," ",69
+"pantry","NY25A","465","N","N"," ","p`á«{²}n{t}tò±«¾","MS"," ",69
+"pantry","NY25B","466","N","N"," ","pá«{²}ntò±«¾","MS"," ",70
+"buttery","NY25B","466","N","N"," ","b¸½tò±«¾","MS"," ",70
+"pantry","NY25B","466","N","N"," ","páºn'tr±«¾","MS"," ",70
+"buttery","NY26A","467","N","N","for dishes","b±¿¾'tò±«¾","MS"," ",71
+"storage room","NY26A","467","O","N"," ","åsto¼º´±¿¼dú$õr¹”¼m","MS"," ",71
+"pantry","NY26B","468","N","N"," ","páş{²ş}tò±«¾","MS"," ",72
+"buttery","NY26B","468","N","Y","mother called it","b¥«¾t´±«¾","MS","OLD",72
+"pantry","NY26C","469","N","N"," ","páş½{°ş}tò±¾","MS"," ",73
+"storeroom","NY26C","469","N","N"," ","åsto¼º°õru½m","MS"," ",73
+"buttery","NY26C","469","N","Y"," ","b¸½'tò±«¾","MS","SUG/AMS",73
+"cupboard","NY26C","469","N","N"," ","k¸½b´«d","MS"," ",73
+"pantry","NY27A","470","N","N"," ","páş«{²ş}tò±¿«¼","MS"," ",74
+"buttery","NY27A","470","N","N"," ","b¸«ttò±¾","MS"," ",74
+"buttery","NY27B","471","N","Y"," ","b¸«ttò±«","MS","OLD/AMS",75
+"pantry","NY27B","471","N","N"," ","p`á«{²ş}tò±«¾","MS"," ",75
+"buttery","NY27C","472","N","N"," ","b¸«'tò±«¾","MS"," ",76
+"buttery closet","NY27C","472","O","N"," ","õb¸«'tò±«¾$åklµºz±¿¼t","MS"," ",76
+"buttery","NY28A","473a","N","N"," ","b¸½'tò±«¾","MS"," ",77
+"pantry","NY28A","473a","N","N"," ","p`áº{°}ntò±i","MS"," ",77
+"pantry","NY28B","473b(*)","N","N"," ","páş{²ş}tò±«¾","MS"," ",78
+"buttery","NY28B","473b(*)","N","N"," ","b¸'tò±«¾","MS"," ",78
+"pantry","NY28C"," ","N","Y"," ","páº{°}ntò±«¾"," ","NEW",79
+"buttery","NY28C"," ","N","Y"," ","b¸½tò±«¾"," ","COR",79
+"buttery","NY28C"," ","N","Y"," ","b¸½t´±«¾"," ","COR",79
+"buttery","NY29A","474a","N","N"," ","b¸tò±«¾","MS"," ",80
+"pantry","NY29B","474b","N","N"," ","páş½{n}tò±«¾","MS"," ",81
+"depense","NY29B","474b","N","N"," ","de½{±¿}åpµşs","MS"," ",81
+"pantry","NY29B","474b","N","N"," ","pµş'tòi½i","MS"," ",81
+"buttery","NY29C","474c","N","N","""common at our place¢","b¸tò±«¾","MS"," ",82
+"pantry","NY29C","474c","N","Y"," ","páş{n}tò±«¾{i}","MS","NEW",82
+"pantry","NY30A","475a","N","N"," ","páş{n}tò±«¾","MS"," ",83
+"buttery","NY30A","475a","N","N"," ","b¸tò±«¾","MS"," ",83
+"pantry","NY30B","475b","N","N","food, milk, etc.","p`áşntò±«¾","MS"," ",84
+"buttery","NY30B","475b","N","Y","[{h}]: doubtful","b¸«{h}tò±«¾","MS","FDT",84
+"dumb waiter","NY30B","475b","O","N"," ","åd¸m$õwe½{±¿}t´","MS"," ",84
+"pantry","NY30C","475c","N","N"," ","pá½{°}ntò±«¾","MS"," ",85
+"buttery","NY30C","475c","N","N"," ","b¸tò±«¾","MS"," ",85
+"buttery","NY30D","475d","N","N","[informant] familiar [with the term]","b¸ttò±«¾","MS"," ",86
+"pantry","NY30D","475d","N","N","[informant] familiar [with the term]","pántò±«¾","MS"," ",86
+"buttery","NY30E","475e","N","Y"," ","b¸tò±«¾","MS","OLD",87
+"pantry","NY30E","475e","N","N"," ","páşntò±«¾","MS"," ",87
+"pantry","NY31A","478a","N","N"," ","pántò±«¾","MS"," ",88
+"buttery","NY31A","478a","N","N"," ","b¸«¼ñ´±«¾","MS"," ",88
+"pantry","NY31B","478b","N","N"," ","pántò±«¾","MS"," ",89
+"buttery","NY31B","478b","N","N"," ","b¸¼ttò±«¾","MS"," ",89
+"buttery","NY32A","479a","N","Y"," ","b¥¾ttò±«¾","MS","OLD",90
+"pantry","NY32A","479a","N","N"," ","p`á«º²ş«ntò±«¾","MS"," ",90
+"buttery","NY32B","479b","N","Y"," ","b¸½'tò±«","MS","HRD",91
+"pantry","NY32B","479b","N","N"," ","páş{²ş}ntò±«¾","MS"," ",91
+"pantry","NY33A","480","N","N"," ","páş«{²ş}tò±«¾","MS"," ",92
+"buttery","NY33A","480","N","N"," ","b¸tò±«¾","MS"," ",92
+"NR","NY33B","481"," ","N"," "," ","MS"," ",93
+"cold room","NY33C","482","O","N"," ","åko¼¹¼ìd$õr¹«{°}m","MS"," ",94
+"kitchen cupboard","NY33C","482","O","N"," ","åk±«tó±¿¼n$õk¸«b´«d","MS"," ",94
+"pantry","NY34A","483","N","N"," ","p`ántò±«¾","MS"," ",95
+"buttery","NY34A","483","N","Y","""not heard in 50 years¢","b¸¼'tò±«¾","MS","SUG/OLD",95
+"pantry","NY34B","484","N","N"," ","p`á«nttò±«¾","MS","CNV",96
+"pantry","NY34C","485","N","N"," ","pá«nttò±«¾","MS"," ",97
+"buttery","NY34C","485","N","Y"," ","b¸¼ttò±«¾","MS","OLD",97
+"butler's pantry","NY34D!","486!","O","N"," ","b¸¼tl´«z$pá«ntò±«¾","MS"," ",98
+"pantry","NY34D!","486!","N","N"," ","p`ántò±«¾","MS"," ",98
+"pantry","NY34D!","486!","N","N"," ","pá«nttò±«¾","MS"," ",98
+"pantry","NY35A","487","N","N","dishes, flour","pántò±¿«","MS"," ",99
+"buttery","NY35A","487","N","N","""rough stuff¢ - potatoes, water pails","b¸tò±¿«","MS"," ",99
+"pantry","NY35B","488","N","N"," ","pántò±¿«","MS"," ",100
+"pantry","NY35C!","489!","N","N"," ","pántò±¿«","MS"," ",101
+"buttery","NY36A","491","N","N"," ","b¸½tò±¿«","MS"," ",102
+"pantry","NY36A","491","N","N"," ","páş«ºntò±¿«","MS"," ",102
+"pantry","NY36B","492","N","N"," ","páşntò±¿«","MS"," ",103
+"buttery","NY37A","493","N","N"," ","b¸ñ´±¿«","MS"," ",104
+"pantry","NY37B","494","N","N"," ","pántò±¿«","MS"," ",105
+"buttery","NY37B","494","N","Y"," ","b¸tò±¿«","MS","SUG/OLD/HRD",105
+"pantry","NY37C!","495!","N","N"," ","pántò±¿«","MS"," ",106
+"pantry","NY38A","497(*)","N","N"," ","pá«ºntò±¿«","MS"," ",107
+"buttery","NY38B","498","N","N"," ","b¸tò±¿«","MS"," ",108
+"pantry","NY38B","498","N","Y"," ","páºntò±¿«","MS","NEW",108
+"pantry","NY38C"," ","N","N"," ","páşntò±¿«"," "," ",109
+"buttery","NY39A","499","N","N"," ","b¸tò±¿«","MS"," ",110
+"pantry","NY39A","499","N","N"," ","páºntò±¿«","MS"," ",110
+"buttery","NY39B","500","N","Y"," ","b¸tò±¿«","MS","SUG/HRD",111
+"pantry","NY39B","500","N","N"," ","pántò±¿«","MS"," ",111
+"buttery","NY40A","501","N","N"," ","b¸tò±¿«","MS"," ",112
+"pantry","NY40A","501","N","N"," ","pántò±¿«","MS"," ",112
+"pantry","NY40B","502","N","N"," ","pántò±¿«","MS"," ",113
+"pantry","NY41","504","N","N"," ","pántò±¿«","MS"," ",114
+"buttery","NY42A","505","N","Y"," ","b¸½tò±¿«","MS","OLD",115
+"pantry","NY42A","505","N","N"," ","pántò±¿«","MS"," ",115
+"buttery","NY42B","506","N","Y"," ","b¸tò±¿«","MS","SUG/OLD/HRD",116
+"pantry","NY42B","506","N","N"," ","p{h}ántr±¿«","MS"," ",116
+"buttery","NY43A","507","N","N"," ","b¸½tò±¿","MS"," ",117
+"buttery","NY43B","507b","N","N"," ","b¸tò±¿«¼","MS"," ",118
+"pantry","NY43B","507b","N","Y"," ","pántò±¿«¼","MS","NEW",118
+"pantry","NY43C!","508!","N","N"," ","páşntò±¿«","MS"," ",119
+"buttery","NY44A","511","N","N"," ","b¸t´±¿«","MS"," ",120
+"pantry","NY44B","512","N","N"," ","pántò±¿«","MS"," ",121
+"storeroom","NY45A","513a","N","N"," ","åsto¼º°õr¹«m","MS"," ",122
+"buttery","NY45A","513a","N","N"," ","b¸¼tò±«¾","MS"," ",122
+"pantry","NY45A","513a","N","N"," ","páş«{n}'tò±«¾","MS"," ",122
+"pantry","NY45B","513b","N","N"," ","páştò±«¾","MS"," ",123
+"pantry","NY45C","513c","N","N"," ","pánttò±«¾","MS"," ",124
+"buttery","NY45D!","513d!","N","Y"," ","b¸½ttò±¾","MS","SUG/OLD/HRD",125
+"pantry","NY45D!","513d!","N","N"," ","p`áº{°}nttò±«¾","MS"," ",125
+"pantry","NY46A","515a","N","N"," ","páş«{²ş}tò±«¾","MS"," ",126
+"buttery","NY46A","515a","N","Y"," ","b¸«tò±«¾","MS","OLD",126
+"storeroom","NY46B","515b","N","N"," ","sto½´ru¼m","MS"," ",127
+"pantry","NY46B","515b","N","N","""often in the cellar¢","p`áº{°}ntò±¿«¼","MS"," ",127
+"often in the cellar","NY46B","515b","Q","Y"," ","·½{°}fn$n‘$°$s²l´","MS","INA",127
+"pantry","NY46C","515c","N","N"," ","p`áş«º{n}tò±«¾","MS"," ",128
+"flour room","NY47A","517(*)","O","N"," ","åfÅµº°—´$õòu½¼u¼m","MS"," ",129
+"pantry","NY47A","517(*)","N","N"," ","pánttò±¾{i¾}","MS"," ",129
+"butteries","NY47A","517(*)","N","N"," ","b¸¼ttò±¾{i¾}z","MS"," ",129
+"pantry","NY47A","517(*)","N","Y"," ","pántò±¿«","MS","AUX",129
+"buttery","NY47A","517(*)","N","Y"," ","b¸½òtò±¿«","MS","AUX/OLD",129
+"pantry","NY47B","518","N","N"," ","pántò±¿«","MS"," ",130
+"pantry","NY48A","519a","N","N","later [than buttery]","páş«{²ş}tò±¿¼","MS"," ",131
+"buttery","NY48A","519a","N","Y"," ","b¸«ttò±¾{i¾}","MS","OLD",131
+"shelves","NY48A","519a","N","N"," ","ó²ìvz","MS"," ",131
+"pantry","NY48B","519b","N","N"," ","pá«{²}ntò±«¾","MS"," ",132
+"buttery","NY48B","519b","N","Y"," ","b¦½ttò±«¾","MS","OLD",132
+"pantry","NY48C","519c","N","N"," ","páş«{²ş}tò±¿¼","MS"," ",133
+"buttery","NY48C","519c","N","N"," ","b¸«'tò±¿¼","MS"," ",133
+"pantry","NY48D","519d","N","N"," ","pá«{²}nttòi½i","MS"," ",134
+"buttery","NY48D","519d","N","Y","Father said","b¸½ttò±«¾","MS","OLD/HRD",134
+"buttery","NY49A","520","N","Y","natural","b¸½ttò±¿¼","MS","SUG",135
+"pantry","NY49A","520","N","N"," ","pá«ntò±¿¼","MS"," ",135
+"pantry","NY49B","521","N","N"," ","páşntò±¿«","MS"," ",136
+"pantry","NY49C","522a","N","N"," ","p`á«{²}n'tò±¿«","MS"," ",137
+"pantry","NY49D","522b","N","N"," ","p`²½ntò±¿","MS"," ",138
+"larder","NY49D","522b","N","Y"," ","lµ¼´d°","MS","HRD",138
+"pantry","NY50A","523","N","N"," ","páş«{²ş}ntò±«¾","MS"," ",139
+"buttery","NY50A","523","N","Y","natural","b¸«'tò±«¾","MS","SUG/OLD/AMS",139
+"closet","NY50A","523","N","N"," ","kÅµ¾z±¿¼t","MS"," ",139
+"pantry","NY50A","523","N","N"," ","p`á«{²ş}{n}tò±«¾","MS"," ",139
+"pantry","NY50B","524","N","N","""shelves¢","páş«²şnttò±«¾","MS"," ",140
+"cupboard","NY50B","524","N","Y"," ","åk¸«¼b´d","MS","HRD",140
+"shelves","NY50B","524","N","Y"," ","ó²ìvz","MS","INA",140
+"pantry","NY51A","525a","N","N"," ","pánttò±«¾","MS","CNV",141
+"buttery","NY51A","525a","N","N"," ","b¸ttò±«¾","MS"," ",141
+"buttery","NY51B","525b","N","N"," ","b¸«ttò±¿¼","MS"," ",142
+"pantry","NY51B","525b","N","N"," ","pá«{²}nttò±¿¼","MS","CNV",142
+"buttery","NY51C","525c","N","Y"," ","b¸½ttò±«¾","MS","AMS",143
+"pantry","NY51C","525c","N","N"," ","p`á«nttò±«¾","MS"," ",143
+"pantry","NY51D","525d","N","N"," ","p`áş«{²ş}tò±«¾{i¾}","MS"," ",144
+"pantry","NY51E!","525e!","N","N"," ","páş¾tò±¿¼","MS"," ",145
+"cellar","NY51E!","525e!","N","Y"," ","s²«l´","MS","NEW",145
+"buttery","NY51E!","525e!","N","N"," ","b¸«ttò±¿¼","MS"," ",145
+"pantries","NY52A","527","N","N"," ","báş«²ştò±¿¼z","MS"," ",146
+"pantry","NY52A","527","N","N"," ","p`áş«{²ş}tò±«¾","MS","CNV",146
+"pantry","NY52B","528","N","N"," ","pá«nttò±¿¼","MS"," ",147
+"buttery","NY52B","528","N","N"," ","b¸«ttò±¿¼","MS"," ",147
+"pantry","NY52C","528b","N","N"," ","p`á«{²}ntò±¿","MS"," ",148
+"buttery","NY53A","529","N","N"," ","b¸«¼ttò±«¾","MS"," ",149
+"pantry","NY53A","529","N","N"," ","p`á«n'tò±«¾","MS"," ",149
+"pantry","NY53B!","530!","N","N"," ","p`ántò±«¾","MS"," ",150
+"cupboard","NY54A","531","N","Y"," ","k`¸¼b´d","MS","NEW",151
+"pantry","NY54A","531","N","N"," ","p`á«{²}n'tò±¿","MS"," ",151
+"pantry","NY54B","532","N","N"," ","p`á«²n'tò±¿","MS"," ",152
+"butteries","NY55A","533","N","N"," ","b¥¾tò±«¾z","MS"," ",153
+"pantries","NY55A","533","N","N"," ","páş«{²ş}tò±«¾z","MS"," ",153
+"pantry","NY55B","534","N","N"," ","páş«nttò±«¾","MS"," ",154
+"cheese room","NY55B","534","O","N"," ","åtói½iz$õr¹m","MS"," ",154
+"pantry","NY56A","535","N","N"," ","pánttò±«¾","MS"," ",155
+"cupboard","NY56A","535","N","N"," ","k¸¼b´«d","MS"," ",155
+"buttery","NY56B","536","N","N"," ","b¸«ttò±«i","MS"," ",156
+"pantry","NY56B","536","N","N"," ","p`áş«{²ş}tò±«i","MS"," ",156
+"pantry","NY57A","537a","N","N"," ","p`áş«{°ş}n'tò±«¾","MS"," ",157
+"pantry","NY57B","537b","N","N"," ","páştò±«¾","MS"," ",158
+"butteries","NY57B","537b","N","N"," ","b¸¼ttò±¾{i¾}z","MS"," ",158
+"pantry","NY57C!","537c!","N","N"," ","pá«ntò±«¾","MS"," ",159
+"kitchen closet","NY57C!","537c!","O","N","men's clothes","åk±«tó°«n$õkÅµ¼z±¿t","MS"," ",159
+"buttery","NY57C!","537c!","N","N","sometimes","b¸¼tò±«¾","MS"," ",159
+"buttery","NY58A","539a","N","N"," ","b¸¼'tò±«¾","MS"," ",160
+"buttery","NY58A","539a","N","N"," ","b¸¼ñ´±«¾","MS","CNV",160
+"pantry","NY58B","539b","N","N"," ","p`áş«n'tò±«¾","MS"," ",161
+"pantry","NY58C","539c","N","N"," ","p`áş«{²ş}tò±«¾","MS"," ",162
+"storeroom","NY58C","539c","N","N"," ","åsto½¼{°}õr¹«m","MS"," ",162
+"kitchen pantry","NY58D!","539d!","O","N"," ","õk±«tó±¿¼n$åpáş«{²ş}tò±«¾","MS"," ",163
+"pantry","NY58D!","539d!","N","N"," ","páş«{²ş}tò±¾{i¾}","MS"," ",163
+"butler's pantry","NY58E!","539e!","O","N"," ","åb¸¼tl´«z$õpáşº{°ş}'tò±«¾","MS"," ",164
+"kitchen pantry","NY58E!","539e!","O","N"," ","åkˆ±«tó°«n$õpáşº{°ş}{n}'tò±«¾","MS"," ",164
+"pantry","NY58E!","539e!","N","N"," ","páşº{°ş}tò±«¾","MS"," ",164
+"pantry","NY58F!","539f!","N","N"," ","pá«{°}n'tò±«¾","MS"," ",165
+"pantry","NY59A","543","N","N"," ","p`áş«º{²ş}tò±«¾","MS"," ",166
+"buttery","NY59A","543","N","N"," ","b¸½ttò±«¾","MS"," ",166
+"buttery","NY59B","544","N","Y"," ","b¸tr±¿","MS","OLD",167
+"pantry","NY59B","544","N","N"," ","pántr±¿","MS"," ",167
+"pantry","NY60A","545","N","N"," ","p`á«ntò±«¾","MS"," ",168
+"pantry","NY60B!","546!","N","N"," ","pá«nttò±«¾","MS","CNV",169
+"buttery","NY60B!","546!","N","N","butter, lard, etc.","b¸¼tò±«¾","MS"," ",169
+"fruit cellar","NY61A","547","O","N"," ","åfru¿º{u¿«}t$õs²l´","MS"," ",170
+"buttery","NY61A","547","N","N"," ","b¸«tò±«¾","MS"," ",170
+"pantry","NY61B","548","N","N"," ","pántr±«¾","MS"," ",171
+"pantry","NY62A","551a","N","N"," ","p`áş«ntò±«¾","MS"," ",172
+"pantry","NY62B","551b","N","N"," ","páºn'tò±«¾","MS"," ",173
+"pantry","NY62C","551c","N","N"," ","páşºn'tò±«¾","MS"," ",174
+"buttery","NY62C","551c","N","N","more food","b¸¼tò±«¾","MS"," ",174
+"buttery","NY62D!","551d!","N","Y","grandfather [said]","b¸½tò±«¾","MS","OLD",175
+"milk room","NY62D!","551d!","O","N"," ","åm±¾ìk$õruş½ºm","MS"," ",175
+"pantry","NY62D!","551d!","N","Y","mother [said]","páş«{²ş}ntò±«¾","MS","OLD",175
+"buttery","NY63A","556a","N","N"," ","b¸¼ttò±«¾","MS"," ",176
+"pantry","NY63A","556a","N","N"," ","pá«²nt`tò±«¾","MS"," ",176
+"pantry","NY63B","556b","N","N"," ","p`áşº{²ş}tò±«¾","MS"," ",177
+"pantry","NY63C","556c","N","N"," ","pántò±¿","MS"," ",178
+"buttery","NY63C","556c","N","Y","father said","b¸½tr±¿","MS","OLD",178
+"pantry","NY63D!","556d!","N","N"," ","p`á{°}nttò±¾{i¾}","MS"," ",179
+"butteries","NY64A","557a","N","N"," ","b¸¼ttò±«¾z","MS"," ",180
+"pantry","NY64A","557a","N","N"," ","pántr±«¾","MS"," ",180
+"pantry","NY64A","557a","N","N"," ","páº{°}nttò±«¾","MS"," ",180
+"buttery","NY64B","557b","N","N"," ","b¸¼t´±«¾","MS"," ",181
+"pantry","NY64B","557b","N","N"," ","páş«{°ş}ntò±¿«¼","MS"," ",181
+"buttery","NY64B","557b","N","N"," ","b¸¼tò±«¾","MS"," ",181
+"pantry","NY64C!","557c!","N","N"," ","páº{°}ntò±«¾","MS"," ",182
+"pantry","NJ1A","1","N","N"," ","pántò±¿İ{±¿«}","MS"," ",183
+"pantry","NJ1B","2","N","N"," ","páş«ntò±¿","MS"," ",184
+"cupboard","NJ2A","3(*)","N","Y"," ","k¸½b´d","MS","AUX",185
+"pantry","NJ2A","3(*)","N","N"," ","pántò±¿İ{±¿«}","MS"," ",185
+"pantry","NJ2A","3(*)","N","Y"," ","páº{°}ntò±¿","MS","AUX",185
+"pantry","NJ2B","4","N","N"," ","páº{°}ntò±¿","MS"," ",186
+"pantry","NJ3A","5","N","N"," ","pántò±¿{±¿«}","MS"," ",187
+"pantry","NJ3B","6","N","N"," ","páº{°}ntò±¿","MS"," ",188
+"pantry","NJ4A","7","N","N"," ","pántò±¿İ{±¿«}","MS"," ",189
+"pantry","NJ4B","8","N","N"," ","pántò±¿İ{±¿«}","MS"," ",190
+"pantry","NJ5A","9","N","N"," ","pá¾ntò±¿","MS"," ",191
+"pantry","NJ5B","10","N","N"," ","páº{°}ntò±¿İ{±¿«}","MS"," ",192
+"cupboard","NJ6A","11","N","N","shelves","k¸b´d","MS"," ",193
+"pantry","NJ6A","11","N","N"," ","pán'tr±¿«","MS"," ",193
+"pantry","NJ6B","12","N","N"," ","páşº{°}ntò±¿İ{±¿«}","MS"," ",194
+"pantry","NJ7A","17","N","N"," ","pá«º{°}ntò±¿","MS"," ",195
+"pantry","NJ7B!","18!","N","N"," ","páşntò±¿«","MS"," ",196
+"cupboard","NJ8A","19","N","N","shelves","k¸¼b´d","MS"," ",197
+"kitchen closet","NJ8A","19","O","N","dishes","k±tó°n$kì·½ºz°t","MS"," ",197
+"meal room","NJ8A","19","O","N","cornmeal, pots and pans","åmiºì$õruºm","MS"," ",197
+"pantry","NJ8B","20","N","N"," ","p{h}á{°ş}ntò±¿«¼","MS"," ",198
+"closet","NJ9A","21","N","Y"," ","klµºz°t","MS","OLD",199
+"pantry","NJ9A","21","N","N"," ","pá½¾ºntr±¿«¼","MS"," ",199
+"closet","NJ9B","22","N","N"," ","klµºz°t","MS"," ",200
+"pantry","NJ9B","22","N","N"," ","pántr±¿«","MS"," ",200
+"kitchen closet","NJ10A","24b","O","N","dishes","õk±tó°n$åkìµºz°t","MS"," ",201
+"pantry","NJ10A","24b","N","N"," ","p{h}ántò±¿«","MS"," ",201
+"pantry","NJ10B","23","N","N"," ","pántr±¿«¼","MS"," ",202
+"closet","NJ10B","23","N","Y","for dishes","klµºz°t","MS","OLD",202
+"closet","NJ10C","24","N","Y"," ","klµºz°t","MS","OLD",203
+"pantry","NJ10C","24","N","N"," ","pántr±¿«¼","MS"," ",203
+"pantry","NJ10D!","24c!","N","N"," ","p{Ë}ántò±¿«","MS"," ",204
+"pantry","NJ11A","25","N","N"," ","pántr±¿","MS"," ",205
+"pantry","NJ11B","26a","N","N"," ","pá¾ntò±¿«","MS"," ",206
+"pantry","NJ11C","26b","N","N"," ","pán'tr±¿«","MS"," ",207
+"pantry","NJ12A","27","N","N"," ","pántò±¿«¼","MS"," ",208
+"closet","NJ12A","27","N","N","dishes","klµºz°t","MS"," ",208
+"dish closet","NJ12B","28","O","N"," ","d±ó$klµºz°t","MS"," ",209
+"pantry","NJ12B","28","N","N"," ","páşntò±¿«¼","MS"," ",209
+"pantry","NJ13A","29","N","N"," ","páşntò±¿","MS"," ",210
+"pantry","NJ13B","30","N","N"," ","pántr±¿«","MS"," ",211
+"pantry","NJ14A","31","N","N"," ","pá«º{°}ntr±¿«","MS"," ",212
+"kitchen closet","NJ14B","32","O","N","small, ceiling to floor","k±tó°n$kìµºz°t","MS"," ",213
+"pantry","NJ14B","32","N","N","butler's pantry","pántr±¿«","MS"," ",213
+"pantry","NJ15A","33","N","N"," ","p{h}ántò±¿«¼","MS"," ",214
+"pantry","NJ15B","34","N","N"," ","p{h}á{°}ntò±¿«","MS"," ",215
+"closet","NJ15B","34","N","N"," ","klµºz°t","MS"," ",215
+"closet","NJ16A","35","N","N"," ","klµºz°t","MS"," ",216
+"pantry","NJ16B","36","N","N"," ","pántr±¿«","MS"," ",217
+"pantry","NJ17A","37","N","N"," ","pántò±¿«","MS"," ",218
+"pantry","NJ17B","38","N","N"," ","pántò±¿«","MS"," ",219
+"pantry","NJ18A","41","N","N"," ","p{h}ántò±¿«","MS"," ",220
+"pantry","NJ18B","42","N","N"," ","p{h}ántò±¿«","MS"," ",221
+"pantry","NJ18C!","43!","N","N"," ","p{h}áş¾ntò±¿«¼","MS"," ",222
+"pantry","NJ18D!","44!","N","N"," ","p{h}áşntò±¿«","MS"," ",223
+"closet","NJ19A","45","N","N","pots pans, food","kìµºz°t","MS"," ",224
+"kitchen closet","NJ19A","45","O","N","pots, pans, food","õk±tó°n$åklµºz°t","MS"," ",224
+"pantry","NJ19A","45","N","N","larger [than closet]","pántò±¿«","MS"," ",224
+"pantry","NJ19B!","46!","N","N"," ","p{h}á½¾ntò±¿«","MS"," ",225
+"pantry","NJ20A","47","N","N"," ","p{h}ántr±¿«¼","MS"," ",226
+"pantry","NJ20B","47b","N","N","less common [than closet]","pántò±¿«","MS"," ",227
+"closet","NJ20B","47b","N","N","dishes, food","klµºz°t","MS"," ",227
+"pantry","NJ21A","48","N","N","same [as kitchen closet]","p{h}ántò±¿«","MS"," ",228
+"kitchen closet","NJ21A","48","O","N","same [as pantry]","õk±tó°n$åklµºz°t","MS"," ",228
+"closet","NJ21B","49","N","N"," ","kìµºz°t","MS"," ",229
+"pantry","NJ21B","49","N","Y"," ","pántò±¿«¼","MS","NEW",229
+"shed","PA1A","51","N","N","small; gas range and materials","ó²d","MS"," ",230
+"pantry","PA1A","51","N","Y","not used","pántr±¿","MS","SUG/HRD/NEW",230
+"pantry","PA1B","52","N","N"," ","p{h}áºntò±¿","MS"," ",231
+"pantry","PA1C","53","N","N"," ","pántr±¿","MS"," ",232
+"pantry","PA1D","54","N","N"," ","pántr±¿","MS"," ",233
+"kitchen pantry","PA1E!","55!","O","N"," ","k±tó°n$pántò±¿","MS"," ",234
+"pantry","PA1F!","56!","N","N"," ","pántr±¿","MS"," ",235
+"pantry","PA1G!","57!","N","N"," ","pántò±¿","MS"," ",236
+"pantry","PA1H!","58!","N","N"," ","pántr±¿","MS"," ",237
+"pantry","PA2A","59","N","N"," ","pántr±¿","MS"," ",238
+"pantry","PA2B","60","N","N"," ","pántr±¿","MS"," ",239
+"pantry","PA3A","61","N","N"," ","pá«º{°}ntò±¿","MS"," ",240
+"pantry","PA3B","62","N","N"," ","pántr±¿","MS"," ",241
+"pantry","PA3C","62b","N","N"," ","pántr±¿","MS"," ",242
+"pantry","PA4A","63","N","N"," ","páºntr±¿","MS"," ",243
+"pantry","PA4B!","64!","N","N"," ","pántò±¿","MS"," ",244
+"pantry","PA5A","65(*)","N","N"," ","pá{°}ntr±¿","MS"," ",245
+"pantry","PA5A","65(*)","N","Y"," ","pántr±¿","MS","AUX2",245
+"pantry","PA5B","65b","N","N"," ","páşntò±¿","MS"," ",246
+"pantry","PA5C","66","N","N"," ","p{h}án'tr±¿","MS"," ",247
+"pantry","PA5D","67","N","N"," ","pá¾ntò±¿«","MS"," ",248
+"pantry","PA5E!","68!","N","N"," ","pántò±¿","MS"," ",249
+"pantry","PA6A","69","N","Y","rare; not used","páİ«ntr±«","MS","SUG/HRD",250
+"pantry","PA6B","71","N","N"," ","páºntr±¿","MS"," ",251
+"NR","PA6C","71b"," ","N"," "," ","MS"," ",252
+"pantry","PA6D!","72!","N","N"," ","pá«ntò±¿","MS"," ",253
+"pantry","PA7A","73","N","N"," ","pántò±¿","MS"," ",254
+"pantry","PA7B","74","N","N"," ","pántò±¿","MS"," ",255
+"pantry","PA7C","75","N","N"," ","pá«ntr±¿","MS"," ",256
+"pantry","PA7D!","76!","N","N"," ","pántr±¿","MS"," ",257
+"pantry","PA8A","77","N","N"," ","pá¾ntò±¿«","MS"," ",258
+"pantry","PA8B","78","N","N"," ","páºntò±¿","MS"," ",259
+"pantry","PA8C","79","N","N"," ","pántr±¿","MS"," ",260
+"pantry","PA8D!","80!","N","N"," ","pántr±¿","MS"," ",261
+"pantry","PA9A","83","N","Y"," ","pántr±¿","MS","SUG",262
+"pantry","PA9B","83b","N","N"," ","pántr±¿«","MS"," ",263
+"pantry","PA9C!","84!","N","N"," ","pántr±¿","MS"," ",264
+"Stuàble","PA10","87","N","Y","= family room (German)","ót±öl±¿«¼","MS","INA",265
+"pantry","PA10","87","N","N"," ","pántr±¿«","MS"," ",265
+"buttery","PA11A","89","N","N"," ","b¸tr±¿","MS"," ",266
+"pantry","PA11B","90(*)","N","N"," ","pántr±¿","MS"," ",267
+"pantry","PA11B","90(*)","N","Y","rare","pántr±¿","MS","AUX",267
+"pantry","PA12A","91","N","N"," ","pántr±¿","MS"," ",268
+"pantry","PA12B","92","N","N"," ","pántr±¿","MS"," ",269
+"buttery","PA13A","93","N","N"," ","b¸tr±¿","MS"," ",270
+"buttery","PA13B","94","N","N"," ","b¸½çtr±¿","MS"," ",271
+"pantry","PA14A","95(*)","N","N"," ","pá«ntr±¿","MS"," ",272
+"pantry","PA14B","96","N","N"," ","pántr±¿","MS"," ",273
+"pantry","PA14C"," ","N","Y","rare","pántr±¿"," ","SUG",274
+"buttery","PA15A","99","N","N"," ","b¸½tr±¿","MS"," ",275
+"pantry","PA15B","99b","N","N"," ","pántò±¿","MS"," ",276
+"buttery","PA15B","99b","N","Y"," ","b¸tò±¿","MS","OLD",276
+"pantry","PA15B","99b","N","N"," ","pántò±¿","MS"," ",276
+"pantry","PA15C!","100!","N","N"," ","pántò±¿","MS"," ",277
+"pantry","PA16A","101","N","N"," ","pá«ntò±¿","MS"," ",278
+"pantry","PA16B","102","N","N"," ","pántr±¿","MS"," ",279
+"pantry","PA16C","103","N","N"," ","pántr±¿","MS"," ",280
+"pantry","PA17A","105","N","N"," ","pá«ntr±¿","MS"," ",281
+"Schaànkel","PA17A","105","N","Y","German","ó²î{g}l","MS","INA",281
+"pantry","PA17B","106","N","N"," ","pántr±¿","MS"," ",282
+"pantry","PA18A","107","N","N"," ","pántr±¿","MS"," ",283
+"buttery","PA18A","107","N","Y"," ","b¸t´±¿","MS","OLD",283
+"pantry","PA18B!","108!","N","N"," ","pántr±¿","MS"," ",284
+"buttery","PA19A","113","N","Y","same [as pantry]","b¸½tò±¿","MS","SUG",285
+"pantry","PA19A","113","N","N"," ","pánùñİ±¿","MS"," ",285
+"pantry","PA19B","114","N","N"," ","pántò±¿","MS"," ",286
+"pantry","PA20A","115","N","N"," ","pántò±¿","MS"," ",287
+"pantry","PA20B","116","N","N"," ","pá¾ntò±¿","MS"," ",288
+"buttery","PA21A","117","N","N"," ","b¸½tò±¿","MS"," ",289
+"pantry","PA21A","117","N","N"," ","pántò±¿","MS"," ",289
+"buttery","PA21B","118","N","N"," ","b¸½tò±¿","MS"," ",290
+"buttery","PA22A","119","N","N"," ","b¸½tò±¿","MS"," ",291
+"buttery","PA22B","120","N","N","natural","b¸tò±¿","MS"," ",292
+"pantry","PA22B","120","N","N"," ","pántò±¿","MS"," ",292
+"pantry","PA23A","121","N","N"," ","pántò±¿","MS"," ",293
+"buttery","PA23A","121","N","N"," ","b¸½tò±¿","MS"," ",293
+"buttery","PA23B","122","N","N"," ","b¸tò±¿","MS"," ",294
+"pantry","PA23B","122","N","N"," ","pántò±¿","MS"," ",294
+"buttery","PA24A","123","N","N"," ","b¸tò±¿","MS"," ",295
+"pantry","PA24B","124","N","N"," ","pántò±¿","MS"," ",296
+"buttery","PA24B","124","N","N"," ","b¸½tò±¿","MS"," ",296
+"buttery","PA25A","125","N","N"," ","b¸tr±¿","MS"," ",297
+"buttery","PA25B","126","N","N"," ","b¸¼tr±¿","MS"," ",298
+"pantry","PA26A","127","N","N"," ","pántò±¿","MS"," ",299
+"buttery","PA26A","127","N","Y"," ","b¸tò±¿","MS","OLD",299
+"pantry","PA26B","128","N","N"," ","pántò±¿","MS"," ",300
+"buttery","PA26B","128","N","N"," ","b¸tò±¿","MS"," ",300
+"pantry","PA27A","131","N","N"," ","pántò±¿","MS"," ",301
+"buttery","PA27A","131","N","N"," ","b¸½tò±¿","MS"," ",301
+"buttery","PA27B","132","N","N"," ","b¸tò±¿","MS"," ",302
+"pantry","PA27B","132","N","N"," ","pántò±¿","MS"," ",302
+"pantry","PA28A","135","N","N"," ","pántò±¿","MS"," ",303
+"pantry","PA28B!","136!","N","N"," ","pántò±¿","MS"," ",304
+"pantry","PA29A","139(*)","N","N"," ","páİ«ntr±¿","MS"," ",305
+"pantry","PA29A","139(*)","N","Y"," ","pántr±¿","MS","AUX",305
+"pantry","PA29B","140","N","N"," ","pántr±¿","MS"," ",306
+"buttery","PA30A","143","N","N"," ","b¸tò±¿","MS"," ",307
+"pantry","PA30A","143","N","N"," ","pántò±¿","MS"," ",307
+"buttery","PA30B","144","N","Y","natural","b¸tò±¿","MS","OLD",308
+"pantry","PA30B","144","N","N"," ","pántò±¿","MS"," ",308
+"buttery","PA31A","145","N","N"," ","b¸İ½tr±¿","MS"," ",309
+"buttery","PA31B","146","N","N"," ","b¸tò±¿","MS"," ",310
+"pantry","PA32A","147","N","N"," ","pántr±¿«","MS"," ",311
+"pantry","PA32B","148","N","N"," ","pán'tr±¿","MS"," ",312
+"pantry","PA33A","151","N","N"," ","pántr±¿«","MS"," ",313
+"pantry","PA33B","152","N","N"," ","pántr±¿«","MS"," ",314
+"kitchen closet","PA33B","152","O","N"," ","k±tó°n$kl¶ºz°t","MS"," ",314
+"pantry","PA34A","155","N","N"," ","pántr±¿","MS"," ",315
+"pantry","PA34B","156","N","N"," ","páº{°}ntr{±¿}","MS"," ",316
+"pantry","PA34C!","155b!","N","N"," ","pá¾ntr±¿","MS"," ",317
+"pantry","PA35A","157","N","N"," ","pántr±¿«¼","MS"," ",318
+"pantry","PA35B","158(*)","N","N"," ","páºntr±¿«","MS"," ",319
+"pantry","PA35C"," ","N","N"," ","pántr±¿«"," "," ",320
+"pantry","PA36A","159","N","N"," ","pántr±¿","MS"," ",321
+"pantry","PA36B","160","N","N"," ","pántr±¿","MS"," ",322
+"pantry","PA37A","161(*)","N","N"," ","pántr±¿","MS"," ",323
+"pantry","PA37B","162","N","N"," ","páİ«ntò±¿","MS"," ",324
+"NR","PA37C"," "," ","N"," "," "," "," ",325
+"kitchen closet","PA38A","163","O","N"," ","k±tó°n$kì·½º{°}z°t","MS"," ",326
+"closet","PA38A","163","N","N"," ","kì·½º{°}z°t","MS"," ",326
+"pantry","PA38B","164","N","N"," ","pántò±¿","MS"," ",327
+"pantry","PA39A","165","N","N"," ","pántò±¿","MS"," ",328
+"pantry","PA39B","166","N","N"," ","pántr±¿«¼","MS"," ",329
+"pantry","PA40A","167","N","N"," ","pá¾ntr±¿","MS"," ",330
+"pantry","PA40B","168","N","N"," ","pántr±¿","MS"," ",331
+"pantry","PA41A","171","N","N"," ","pántr±¿","MS"," ",332
+"pantry","PA41B","172","N","N"," ","pá{°}ntr±¿","MS"," ",333
+"pantry","PA42A","175","N","N"," ","pántr±¿","MS"," ",334
+"pantry","PA42B","176","N","N"," ","pántr±¿","MS"," ",335
+"pantry","PA43A","177","N","N"," ","pá½¾ntr±¿","MS"," ",336
+"pantry","PA43B","178","N","N"," ","pántr±¿","MS"," ",337
+"pantry","PA44A","179","N","N"," ","pántr±¿","MS"," ",338
+"pantry","PA44B","180","N","N"," ","pántr±¿","MS"," ",339
+"pantry","PA45A","181","N","N"," ","páş«ntr±¿","MS"," ",340
+"pantry","PA45B","182","N","N"," ","páş«ºntr±¿","MS"," ",341
+"pantry","PA46A","185","N","N"," ","pántr±¿","MS"," ",342
+"pantry","PA46B","186","N","N"," ","pá{°}ntr±¿","MS"," ",343
+"pantry","PA47A","189","N","N"," ","pán{t}ùñİ±¿","MS"," ",344
+"pantry","PA47B","190","N","N"," ","pántr±¿","MS"," ",345
+"pantry","PA48A","191","N","N"," ","pántr±¿","MS"," ",346
+"pantry","PA48B","192","N","N"," ","pá{°}ntr±¿","MS"," ",347
+"pantry","PA48C","193","N","N"," ","pántr±¿","MS"," ",348
+"cupboard","PA49A","194","N","N"," ","k¸b´d","MS"," ",349
+"pantry","PA49A","194","N","Y"," ","pántr±¿","MS","NEW",349
+"pantry","PA49B","195","N","N"," ","páşºntr±¿«","MS"," ",350
+"pantry","PA50A","196","N","N"," ","pántr±¿«","MS"," ",351
+"pantry","PA50B","197","N","N"," ","pántr±¿","MS"," ",352
+"pantry","PA50C!","198!","N","N"," ","pántr±¿","MS"," ",353
+"pantry","PA51A","199","N","N"," ","pántr±¿","MS"," ",354
+"pantry","PA51B","200","N","N"," ","pántr±¿","MS"," ",355
+"pantry","PA52A","201","N","N"," ","pá½¾ntr±¿","MS"," ",356
+"pantry","PA52B!","202!","N","N"," ","pántr±¿","MS"," ",357
+"pantry","PA53A","203","N","N"," ","pá{°}ntr±¿{j}","MS"," ",358
+"pantry","PA53B","204","N","N"," ","pántr±¿","MS"," ",359
+"pantry","PA54A","205","N","N"," ","pántr±¿","MS"," ",360
+"pantry","PA54B","206","N","N"," ","pántr±¿","MS"," ",361
+"pantry","PA55A","207","N","N"," ","pántr±¿","MS"," ",362
+"pantry","PA55B","208","N","N"," ","pá{°}ntr±¿","MS"," ",363
+"buttery","PA56A","211(*)","N","N"," ","b¸½tò±¿","MS"," ",364
+"buttery","PA56A","211(*)","N","Y"," ","b¸½tr±¿","MS","AUX",364
+"pantry","PA56B","212","N","N"," ","pántr±¿«","MS"," ",365
+"pantry","PA57A","213","N","N"," ","pá½ntr±¿","MS"," ",366
+"pantry","PA57B","214","N","N"," ","páº{°}ntr±¿","MS"," ",367
+"pantry","PA58A","215","N","N"," ","pá¾ntr±¿","MS"," ",368
+"pantry","PA58B","216","N","N"," ","pá{°}n'tr±¿","MS"," ",369
+"pantry","PA59A","219","N","N"," ","pá½¾ntr±¿","MS"," ",370
+"pantry","PA59B","220","N","N"," ","pántr±¿","MS"," ",371
+"pantry","PA60A","221","N","N"," ","pá¾ntr±¿","MS"," ",372
+"pantry","PA60B","222","N","N"," ","pántr±¿","MS"," ",373
+"pantry","PA61A","223","N","N"," ","pánùñİ±¿","MS"," ",374
+"pantry","PA61B","224","N","N"," ","pántr±¿«","MS"," ",375
+"pantry","PA62A","229","N","N"," ","pántr±¿","MS"," ",376
+"pantry","PA62B","230","N","N"," ","pántr±¿","MS"," ",377
+"buttery","PA63A","231","N","N"," ","b¸tr±¿","MS"," ",378
+"pantry","PA63B","232","N","N"," ","pántr±¿«","MS"," ",379
+"buttery","PA64A","233","N","N"," ","b¸tò±¿","MS"," ",380
+"pantry","PA64B","234","N","N"," ","pántò±¿","MS"," ",381
+"buttery","PA64B","234","N","Y"," ","b¸tò±¿","MS","SUG/OLD",381
+"buttery","PA65A","237","N","N"," ","b¸½tò±¿","MS"," ",382
+"buttery","PA65B","238","N","Y","natural","b¸tò±¿","MS","OLD",383
+"pantry","PA65B","238","N","N"," ","pántò±¿","MS"," ",383
+"buttery","PA66A","239","N","N"," ","b¸½tr±¿","MS"," ",384
+"pantry","PA66B","240","N","N"," ","pántò±¿","MS"," ",385
+"buttery","PA66B","240","N","Y"," ","b¸tò±¿","MS","OLD",385
+"buttery","PA67A","243","N","N"," ","b¸½'tò±¿","MS"," ",386
+"pantry","PA67B","244","N","N"," ","pá¾ntò±¿İ{±¿«}","MS"," ",387
+"buttery","PA67B","244","N","Y"," ","b¸tò±¿{±¿«}","MS","SUG/OLD",387
+"pantry","WV1!","88!","N","N"," ","pántò±¿","MS"," ",388
+"pantry","WV2","89","N","N"," ","pántò±¿","MS"," ",389
+"pantry","WV3","91","N","N"," ","páş¾ntò±¿İ{±¿«}","MS"," ",390
+"pantry","WV4A","92","N","N"," ","pántò±¿","MS"," ",391
+"pantry","WV4B","93","N","N"," ","pántò±¿","MS"," ",392
+"pantry","WV5","94","N","N"," ","pántò±¿","MS"," ",393
+"pantry","WV6A","95","N","N"," ","pántò±¿","MS"," ",394
+"pantry","WV6B","96","N","N"," ","pántò±¿","MS"," ",395
+"pantry","WV7A","97","N","N"," ","pántò±¿","MS"," ",396
+"pantry","WV7B","98","N","N"," ","pántò±¿","MS"," ",397
+"pantry","WV8A","97b","N","N"," ","pán{t‘}ùñİ±¿«","MS"," ",398
+"pantry","WV8B","98b","N","N"," ","páşntr±¿","MS"," ",399
+"pantry","WV9A","301","N","N"," ","pánt‘ùrİ±¿","MS"," ",400
+"pantry","WV9B","302","N","N"," ","pántr±¿","MS"," ",401
+"pantry","WV10A","303","N","Y"," ","pántr±¿«","MS","SUG",402
+"pantry","WV10B","303b","N","N"," ","pántr±¿","MS"," ",403
+"pantry","WV10C","304","N","N"," ","pántr±¿","MS"," ",404
+"pantry","WV11A","305","N","N"," ","páş«{°ş«¼}ntr±¿","MS"," ",405
+"pantry","WV11B!","306!","N","N"," ","pántr±¿","MS"," ",406
+"pantry","WV12A","307","N","N"," ","pántr±¿«","MS"," ",407
+"pantry","WV12B","308","N","N"," ","pántr±¿","MS"," ",408
+"pantry","WV13A","309","N","N"," ","pántr±¿«","MS"," ",409
+"pantry","WV13B","310","N","N"," ","pá{°«¼}ntr±¿«","MS"," ",410
+"pantry","WV14A","311","N","N"," ","pántr±¿","MS"," ",411
+"pantry","WV14B","312","N","N"," ","pántr±¿","MS"," ",412
+"pantry","WV15A","313","N","N"," ","pántr±¿","MS"," ",413
+"pantry","WV15B","314","N","N"," ","pántr±¿«","MS"," ",414
+"pantry","WV16A","315","N","N"," ","pánt‘ùñİ±¿«","MS"," ",415
+"Dengel room","WV16A","315","O","Y","[ng]: doubtful (German)","åd²ngì$õru¿¾ºm","MS","OLD/FDT/INA",415
+"pantry","WV16B","316","N","N"," ","pá{°«¼}nt{r}±¿","MS"," ",416
+"pantry","WV17A","317","N","N"," ","pánùñİ±¿«","MS"," ",417
+"pantry","WV17B","317b","N","N"," ","pántr±¿«","MS"," ",418
+"pantry","WV17C","318","N","N"," ","pántr±¿","MS"," ",419
+"pantry","WV18A","319","N","N"," ","pán{t}ùñİ±¿«","MS"," ",420
+"pantry","WV18B","320","N","N"," ","pántr±¿","MS"," ",421
+"NR","WV19A","321"," ","N"," "," ","MS"," ",422
+"pantry","WV19B","322","N","N"," ","pántr±¿","MS"," ",423
+"pantry","WV20A","323","N","N"," ","pá¾nt‘ù´","MS"," ",424
+"pantry","WV20B","324","N","N"," ","pántr±¿","MS"," ",425
+"pantry","WV21A","325","N","N","rare","páşntr±¿","MS"," ",426
+"little kitchen","WV21A","325","O","N"," ","l±ñì$åk±tó°n","MS"," ",426
+"pantry","WV21B","326","N","N"," ","pántr±¿","MS"," ",427
+"pantry","WV22A","327","N","N"," ","pá«ntr±¿«","MS"," ",428
+"pantry","WV22B","328","N","N"," ","pántr±¿","MS"," ",429
+"pantry","WV23A","331","N","N"," ","pánt‘ùr±¿«","MS"," ",430
+"pantry","WV23B","332","N","N"," ","pá{°ş}ntr±¿","MS"," ",431
+"pantry","WV24A","335","N","N"," ","pánt‘ùñİ±¿«","MS"," ",432
+"pantry","WV24B","336","N","N"," ","pántr±¿«","MS"," ",433
+"pantry","WV25A","337","N","N"," ","pá{°ş}ntr±¿«","MS"," ",434
+"pantry","WV25B","338","N","N"," ","pántr±¿«","MS"," ",435
+"pantry","WV26A","339","N","N"," ","pántr±¿«","MS"," ",436
+"pantry","WV26B","340","N","N"," ","páşntr±¿«","MS"," ",437
+"pantry","WV27A","341","N","N"," ","páş{°ş}ntr±¿«","MS"," ",438
+"pantry","WV27B","342","N","N"," ","páş{°ş}ntr±¿«","MS"," ",439
+"pantry","WV28A","343","N","N"," ","pá{°}ntr±¿«","MS"," ",440
+"pantry","WV28B","344","N","N"," ","pántr±¿İ","MS"," ",441
+"pantry","WV29A","345","N","N"," ","pán{t‘}ùñİ±¿«","MS"," ",442
+"pantry","WV29B","346","N","N"," ","pá{°ş«¼}ntr±¿«","MS"," ",443
+"pantry","WV30A","347","N","N"," ","páşnt‘ùñİ±¿«","MS"," ",444
+"pantry","WV30B","348","N","N"," ","pántr±¿«","MS"," ",445
+"pantry","WV30B","348","N","Y"," ","pánt‘ù´","MS","OLD",445
+"pantry","WV31A","349","N","N"," ","páşntr±¿","MS"," ",446
+"NR","WV31B","350"," ","N"," "," ","MS"," ",447
+"pantry","WV32A","353","N","N"," ","pá{°«¼}ntr±¿«","MS"," ",448
+"pantry","WV32B","354","N","Y","rare","pá«ntr±¿«","MS","SUG",449
+"pantry","WV33A","355","N","N"," ","pánt‘ùñİ±¿","MS"," ",450
+"pantry","WV33B","356","N","N"," ","pántr±¿","MS"," ",451
+"pantry","WV34A","359","N","N"," ","pántr±¿«","MS"," ",452
+"pantry","WV34B","360","N","N"," ","páşntr±¿«","MS"," ",453
+"pantry","WV35A","361","N","N"," ","pántr±¿«","MS"," ",454
+"pantry","WV35B","362","N","N"," ","pántr±¿«","MS"," ",455
+"pantry","WV36A","363","N","Y"," ","pá{°ş«¼}ntr±¿«","MS","SUG",456
+"pantry","WV36B","364","N","N"," ","páşntr±¿«","MS"," ",457
+"pantry","WV37A","365","N","N"," ","pántr±¿«","MS"," ",458
+"pantry","WV37B!","366!","N","N"," ","pántr±¿","MS"," ",459
+"pantry","WV38A","367","N","N"," ","pán{t‘}ùñİ±¿«","MS"," ",460
+"pantry","WV38B","368","N","N"," ","pántùñİ±¿«","MS"," ",461
+"pantry","WV39A","369","N","N"," ","pá{²ş«¾}ntr±¿","MS"," ",462
+"pantry","WV39B","370","N","N"," ","pántr±¿«","MS"," ",463
+"pantry","WV39C!","371!","N","N"," ","pá{°ş«¼}ntr±¿«","MS"," ",464
+"pantry","WV40A","373","N","N"," ","pántr±¿","MS"," ",465
+"pantry","WV40B","374","N","N"," ","pántr±¿","MS"," ",466
+"pantry","WV41A","375","N","N"," ","pántr±¿","MS"," ",467
+"pantry","WV41B","376","N","N"," ","pánt‘ùr±¿","MS"," ",468
+"pantry","WV42A","377","N","N"," ","páşntr±¿«","MS"," ",469
+"pantry","WV42B","378","N","N"," ","pánt‘ùñİ±¿«","MS"," ",470
+"pantry","WV43A","381","N","N"," ","pántr±¿«","MS"," ",471
+"pantry","WV43B","382","N","N"," ","pántr±¿«","MS"," ",472
+"pantry","WV44A","383","N","Y"," ","pántr±¿","MS","SUG",473
+"pantry","WV44B","384","N","N"," ","pántr±¿«","MS"," ",474
+"pantry","WV45A","385","N","N"," ","pántr±¿«","MS"," ",475
+"pantry","WV45B","386","N","N"," ","pántr±¿«","MS"," ",476
+"pantry","WV46A","387","N","N"," ","pántr±¿","MS"," ",477
+"pantry","WV46B","388","N","N"," ","pántr±¿«","MS"," ",478
+"pantry","WV47A","389","N","N"," ","páşntr±¿","MS"," ",479
+"pantry","WV47B","390","N","N"," ","pántr±¿","MS"," ",480
+"pantry","WV48A","391","N","N"," ","páşntr±¿«","MS"," ",481
+"pantry","WV48B","391b","N","N"," ","pántr±¿«","MS"," ",482
+"pantry","WV48C","392","N","N"," ","pántr±¿","MS"," ",483
+"pantry","WV48D","392b","N","N"," ","pántr±¿«","MS"," ",484
+"pantry","WV49A","393","N","N"," ","páş«ntr±¿","MS"," ",485
+"pantry","WV49B","394","N","N"," ","pántr±¿«","MS"," ",486
+"pantry","WV50A","395","N","N"," ","pántr±¿","MS"," ",487
+"pantry","WV50B","396","N","N"," ","pántr±¿","MS"," ",488
+"pantry","WV51A","261","N","N"," ","pántr±¿","MS"," ",489
+"pantry","WV51B","262","N","N"," ","pántr±¿","MS"," ",490
+"pantry","WV52A","258","N","N"," ","pántr±¿«","MS"," ",491
+"pantry","WV52B","259","N","N"," ","pántr±¿«","MS"," ",492
+"pantry","WV52C!","260!","N","N"," ","pántr±¿","MS"," ",493
+"pantry","WV53A","257","N","N"," ","páşntr±¿«","MS"," ",494
+"pantry","WV53B","257b","N","N"," ","pá{°}ntr±¿«","MS"," ",495
+"pantry","WV53C!","257c!","N","N"," ","pántr±¿«","MS"," ",496
+"pantry","WV54A","255","N","N"," ","pántr±¿","MS"," ",497
+"pantry","WV54B","256","N","N"," ","pántr±¿«","MS"," ",498
+"shed","DE1A","11","N","N","= summer kitchen","ó²«º{°}d","MS"," ",499
+"pantry","DE1A","11","N","N"," ","páşºntò±¿İ{±¿«}","MS"," ",499
+"pantry","DE1B","12","N","N"," ","pántò±¿İ{±¿«}","MS"," ",500
+"pantry","DE1C!","13!","N","N"," ","pántò±¿İ{±¿«}","MS"," ",501
+"pantry","DE2A","15(*)","N","N"," ","páşntò±¿","MS"," ",502
+"pantry","DE2B","16","N","N"," ","pántò±¿","MS"," ",503
+"pantry","DE2C"," ","N","N"," ","pá{°}{n}{'t}r±¿"," "," ",504
+"pantry","DE3A","18","N","N"," ","páºntò±¿","MS"," ",505
+"kitchen closet","DE3A","18","O","N","out of sight","k±tó±¿½n$kì·½ºz±¿½t","MS"," ",505
+"pantry","DE3B","19","N","N"," ","páºntò±¿","MS"," ",506
+"pantry","DE3C!","17!","N","N"," ","pántò±¿","MS"," ",507
+"pantry","DE4","20","N","N"," ","pántò±¿","MS"," ",508
+"pantry","DE5A","21","N","N","rarely used","pántr±¿½{±¿}","MS"," ",509
+"pantry","DE5B","22","N","N"," ","pántò±¿","MS"," ",510
+"pantry","DE6A","23","N","N"," ","pántò±¿","MS"," ",511
+"pantry","DE6B","24","N","N"," ","pá{°ş}ntò±¿","MS"," ",512
+"pantry","MD1A","27","N","N"," ","pántò±¿","MS"," ",513
+"pantry","MD1B","28","N","N"," ","pántò±¿","MS"," ",514
+"pantry","MD2A","31a","N","N"," ","páşntò±¿","MS"," ",515
+"pantry","MD2B","32","N","N"," ","pántò±¿","MS"," ",516
+"pantry","MD3A","33","N","N"," ","páşntò±¿","MS"," ",517
+"pantry","MD3B","34","N","N"," ","pá{°}ntò±¿","MS"," ",518
+"pantry","MD4A","35b","N","N"," ","pántò±¿","MS"," ",519
+"pantry","MD4B","35","N","N"," ","pá¾ntò±¿","MS"," ",520
+"pantry","MD4C","36","N","N"," ","pá{°}n'tr±¿½","MS"," ",521
+"pantry","MD5A","37","N","N"," ","páşntò±¿","MS"," ",522
+"pantry","MD5B","38","N","N"," ","páşntò±¿","MS"," ",523
+"pantry","MD6A","39(*)","N","N"," ","pá¾ntò±¿","MS"," ",524
+"pantry","MD6B","40","N","N"," ","pántò±¿","MS"," ",525
+"pantry","MD7A","41","N","N"," ","páşntò±¿","MS"," ",526
+"pantry","MD7B","41b","N","N"," ","pántò±¿","MS"," ",527
+"pantry","MD7C!","42!","N","N"," ","páşºntò±¿","MS"," ",528
+"pantry","MD8A","43","N","N"," ","páş¾n'tò±¿","MS"," ",529
+"lock room","MD8A","43","O","N"," ","lµk$r¹m","MS"," ",529
+"pantry","MD8B","44","N","N"," ","pántr±¿","MS"," ",530
+"pantry","MD9N","N46","N","N"," ","pá{°}n{t}r±¿","MS"," ",531
+"pantry","MD9A","45","N","N"," ","pá¾ntò±¿","MS"," ",532
+"pantry","MD9B","46","N","N"," ","pántò±¿","MS"," ",533
+"pantry","MD10A","49","N","N"," ","pántò±¿","MS"," ",534
+"pantry","MD10B","50","N","N"," ","pá{°}ntò±¿","MS"," ",535
+"pantry","MD11","51","N","N"," ","pán'tò±¿","MS"," ",536
+"pantry","MD12A","52","N","N"," ","pántò±¿","MS"," ",537
+"pantry","MD12B","53","N","N"," ","pántò±¿","MS"," ",538
+"pantry","MD13A","54(*)","N","N"," ","páºntò±¿","MS"," ",539
+"pantry","MD13B","55","N","N"," ","pá«º{°}ntò±¿","MS"," ",540
+"pantry","MD13C","56","N","N"," ","páº{°}ntò±¿","MS"," ",541
+"pantry","MD13D!","57!","N","N"," ","pá{°}ntò±¿","MS"," ",542
+"housekeeper's room","MD13E!","58!","O","N","in country","há½¹¿ski½ºp°z$r¹¿m","MS"," ",543
+"pantry","MD13E!","58!","N","N"," ","p{h}áşº{n}tò±¿","MS"," ",543
+"pantry","MD13F!","59!","N","N"," ","páşº{°ş}ntò±¿","MS"," ",544
+"pantry","MD13G"," ","N","N"," ","pántò±¿"," "," ",545
+"kitchen closet","MD13G"," ","O","N"," ","k±tó±¿½n$klµºz±¿½t"," "," ",545
+"pantry","MD14","61(*)","N","N"," ","pántò±¿","MS"," ",546
+"cupboard","MD14","61(*)","N","Y"," ","k¸b°d","MS","AUX",546
+"pantry","MD15A","62","N","N"," ","pántò±¿","MS"," ",547
+"pantry","MD15B","63","N","N"," ","pántò±¿","MS"," ",548
+"pantry","MD16","64","N","N"," ","pántò±¿","MS"," ",549
+"pantry","MD17A","65","N","N"," ","pántò±¿İ","MS"," ",550
+"pantry","MD17B","66","N","N"," ","pántò±¿","MS"," ",551
+"pantry","MD18A","67","N","N"," ","pántò±¿","MS"," ",552
+"pantry","MD18B","68","N","N"," ","páşntò±¿","MS"," ",553
+"kitchen closet","MD19A","69","O","Y"," ","õk±tó±¿½n$åkl·½ºz±¿½t","MS","OLD",554
+"pantry","MD19A","69","N","N"," ","páş«{n}tò±¿İ","MS"," ",554
+"pantry","MD19B","70","N","N"," ","pántò±¿","MS"," ",555
+"pantry","MD20A","71","N","N"," ","páºntò±¿½","MS"," ",556
+"pantry","MD20B","72","N","N"," ","pá¾ºntò±¿","MS"," ",557
+"pantry","MD20C!","73!","N","N"," ","pántò±¿","MS"," ",558
+"pantry","MD21A","75","N","N"," ","pá{°}ntò±¿","MS"," ",559
+"pantry","MD21B","76","N","N"," ","pá{°}ntò±¿","MS"," ",560
+"pantry","MD22N","N77","N","N"," ","pántò±¿","MS"," ",561
+"closet","MD22M","N78","N","N"," ","kl·ºz±¿½t","MS"," ",562
+"pantry","MD22A","77","N","N"," ","pántr±¿İ½¾{±¿«}","MS"," ",563
+"pantry","MD22B","78","N","N"," ","páº{°}ntò±¿","MS"," ",564
+"pantry","MD22C!","79!","N","N"," ","pántò±¿","MS"," ",565
+"pantry","MD23A","80b","N","N"," ","pántò±¿","MS"," ",566
+"kitchen closet","MD23B","80a","O","N"," ","k±tó±¿½n$klŞ:z±¿½t","MS"," ",567
+"pantry","MD23C","81","N","N"," ","páº{°}ntò±¿","MS"," ",568
+"kitchen closet","MD24","82","O","N"," ","k±tó±¿½n$kl·ºz±¿½t","MS"," ",569
+"pantry","MD25","84","N","N"," ","páántò±¿","MS"," ",570
+"pantry","MD26A","83","N","N"," ","pántò±¿","MS"," ",571
+"NR","MD26B","83A"," ","N"," "," ","MS"," ",572
+"pantry","MD27A","85","N","N"," ","pá{°}ntò±¿","MS"," ",573
+"pantry","MD27B","86","N","N"," ","pántò±¿İ{±¿«}","MS"," ",574
+"pantry","DC1A","99","N","N"," ","páşºntò±¿«","MS"," ",575
+"pantry","DC1B!","100!","N","N"," ","pá{°}ntr±¿","MS"," ",576
+"pantry","VA1!","101!","N","N"," ","páş«º{±¿ş}ntò±¿","MS"," ",577
+"buttery","VA2A","103","N","Y","as a boy","b¸tò±¿","MS","OLD",578
+"pantry","VA2A","103","N","N"," ","pá«º{°}ntò±¿","MS"," ",578
+"pantry","VA2B","104","N","N"," ","páº{°ş«}ntò±¿½","MS"," ",579
+"pantry","VA3A","105(*)","N","N"," ","páºntò±¿İ{±¿«}","MS"," ",580
+"pantry","VA3B","106","N","N"," ","páºntò±¿«","MS"," ",581
+"pantry","VA3C"," ","N","N"," ","p{h}ántò±¿«"," "," ",582
+"pantry","VA4N","N109","N","N"," ","páº{°ş«}ntò±¿½","MS"," ",583
+"closet","VA4N","N109","N","Y"," ","kl·½{·}z±¿½t","MS","OLD",583
+"pantry","VA5A","107","N","N"," ","páºntò±¿«","MS"," ",584
+"pantry","VA5B","108","N","N"," ","pá«ºntò±¿","MS"," ",585
+"pantry","VA6A","113","N","Y"," ","páºntò±¿","MS","NEW",586
+"cupboard","VA6A","113","N","Y"," ","k¸—«{°}b°d","MS","OLD",586
+"pantry","VA6B","114","N","N"," ","pántò±¿","MS"," ",587
+"pantry","VA7A","121","N","N"," ","pá{°}ntò±¿","MS"," ",588
+"pantry","VA7B","122","N","N"," ","pá{°}ntò±¿½","MS"," ",589
+"pantry","VA8A","123","N","N"," ","páº{°}ntò±¿½","MS"," ",590
+"NR","VA8B","124"," ","N"," "," ","MS"," ",591
+"pantry","VA8C!","125!","N","N"," ","pá«º{±¿½}ntò±¿","MS"," ",592
+"pantry","VA9A","117","N","N"," ","pá«ºn'tò±¿","MS"," ",593
+"pantry","VA9B!","118!","N","N"," ","páİ«º{±¿İ}ntò±¿½","MS"," ",594
+"NR","VA10A","127"," ","N"," "," ","MS"," ",595
+"pantry","VA10B","128","N","N"," ","p{h}á«±¿ntò±¿","MS"," ",596
+"lock room","VA10B","128","O","N","a large room","ålµ«{°}k$õr¹m","MS"," ",596
+"closet","VA11A","129","N","N"," ","kl·½ºz±¿½t","MS"," ",597
+"pantry","VA11A","129","N","Y"," ","páºntr±¿","MS","NEW",597
+"pantry","VA11B","130","N","N"," ","pá{°«¼}ntò±¿½","MS"," ",598
+"pantry","VA12N","N131","N","N"," ","pá½ºntò±¿½","MS"," ",599
+"pantry","VA12A","131","N","N"," ","p{h}ántò±¿","MS"," ",600
+"pantry","VA12B!","132!","N","N"," ","p{h}áºntò±¿","MS"," ",601
+"pantry","VA13A","133","N","N"," ","p{h}á½¾ºntò±¿","MS"," ",602
+"pantry","VA13B","134","N","N"," ","p{h}á{²}ntò±¿","MS"," ",603
+"pantry","VA14A","135","N","N"," ","páş«º{±¿ş½}ntr±¿½","MS"," ",604
+"pantry","VA14B","136","N","N"," ","pá½ntò±¿½","MS"," ",605
+"pantry","VA14C","137","N","N"," ","pá½{°}ntò±¿½","MS"," ",606
+"NR","VA15N","N139(*)"," ","N"," "," ","MS"," ",607
+"pantry","VA15A","139","N","Y"," ","páºntò±¿","MS","NEW",608
+"lock room","VA15A","139","O","N"," ","ålµ«¾k$õr¹«m","MS"," ",608
+"pantry","VA15B","140","N","N"," ","p{h}á{±¿½}ntò±¿","MS"," ",609
+"pantry","VA16A","141","N","N"," ","p{h}á{²¼}ntò±¿½","MS"," ",610
+"pantry","VA16B","142","N","N"," ","p{h}á«{±¿}ntò±¿½","MS"," ",611
+"pantry","VA17A","143","N","N"," ","páşº{°ş}ntò±¿½","MS"," ",612
+"pantry","VA17B","144","N","N"," ","páº{°¼}n{t}ò±¿","MS"," ",613
+"pantry","VA18","145","N","N"," ","pántò±¿½","MS"," ",614
+"pantry","VA19A","146","N","N"," ","p{h}²{°}ntò±¿","MS"," ",615
+"pantry","VA19B","147","N","N"," ","páş{±¿ş½}ntò±¿½","MS"," ",616
+"kitchen closet","VA19B","147","O","Y"," ","k±tó±¿½n$kl·½º{·}z±¿½t","MS","OLD",616
+"pantry","VA19C!","148!","N","N"," ","pá{±¿ş}ntò±¿½","MS"," ",617
+"pantry","VA20A","149","N","N"," ","pántò±¿½","MS"," ",618
+"pantry","VA20B","150(*)","N","N"," ","pántò±¿½","MS"," ",619
+"pantry","VA20C"," ","N","N"," ","pá{±¿½}ntò±¿½"," "," ",620
+"NR","VA21N","N153"," ","N"," "," ","MS"," ",621
+"pantry","VA21A","153","N","N"," ","p{h}á¾º{°}ntò±¿½","MS"," ",622
+"pantry","VA21B","154","N","N"," ","p{h}áº{°}ntò±¿½","MS"," ",623
+"pantry","VA22","155","N","Y"," ","pá{°}ntò±¿½","MS","SUG/NEW",624
+"pantry","VA23A","156","N","N"," ","pá½ntò±¿","MS"," ",625
+"pantry","VA23B","157","N","N"," ","pá{±¿½}ntr±¿½","MS"," ",626
+"pantry","VA24","159","N","N"," ","pá{°ş}ntò±¿½","MS"," ",627
+"pantry","VA25","160(*)","N","N"," ","pá½¾ºntò±¿","MS"," ",628
+"storeroom","VA26A","161A","N","N"," ","stoİ°İr¹¿m","MS"," ",629
+"pantry","VA26A","161A","N","N"," ","pá{±¿½}ntr±¿","MS"," ",629
+"pantry","VA26B","161","N","N"," ","pá{°}ntò±¿","MS"," ",630
+"pantry","VA26C","162","N","N"," ","pá{°«¼}ntò±¿½","MS"," ",631
+"storeroom","VA26C","162","N","Y"," ","sto½°r¹m","MS","OLD",631
+"storeroom","VA27","163(*)","N","N","separate room","sto´ru¿½m","MS"," ",632
+"pantry","VA27","163(*)","N","N","on end of porch","pá¾{°}ntò±¿½","MS"," ",632
+"pantry","VA27","163(*)","N","N","on end of porch","pá½¾ntr±¿½","MS"," ",632
+"storeroom","VA28A","164","N","N"," ","sto°ru¿½{u¿¾}m","MS"," ",633
+"pantry","VA28B","165","N","Y"," ","pá{°}ntò±¿½","MS","NEW",634
+"storeroom","VA28B","165","N","N"," ","sto½°r¹m","MS"," ",634
+"pantry","VA29","166","N","N"," ","páşºn{t}ò±¿","MS"," ",635
+"pantry","VA30A","167","N","N"," ","páº{°}ntò±¿","MS"," ",636
+"pantry","VA30B!","167a!","N","N","to wash dishes and serve food from","pá{°«¼}ntò±¿","MS"," ",637
+"storeroom","VA30B!","167a!","N","N","to keep things","sto{°}r¹m","MS"," ",637
+"pantry","VA30C!","168!","N","N"," ","pá{±¿½}ntr±¿½","MS"," ",638
+"pantry","VA30D!","169!","N","N"," ","pá{°}ntò±¿½","MS"," ",639
+"pantry","VA30E!","170!","N","N"," ","pá{±¿ş½}ntò±¿½","MS"," ",640
+"pantry","VA31A","171(*)(**)","N","N"," ","páº{°ş«}ntò±¿","MS"," ",641
+"pantry","VA31B","172","N","N"," ","pá{°}ntò±¿½","MS"," ",642
+"pantry","VA31C"," ","N","Y"," ","pá{°}ntò±¿½"," ","NEW",643
+"pantry","VA32!","175!","N","N"," ","pá{°}ntò±¿½","MS"," ",644
+"pantry","VA33A","173","N","N"," ","páº{°}ntò±¿½","MS"," ",645
+"pantry","VA33B","174","N","N"," ","pá{±¿½}ntò±¿","MS"," ",646
+"pantry","VA34A","177(*)","N","Y"," ","pá{±¿}ntr±¿½","MS","AUX",647
+"pantry","VA34B","178","N","N"," ","pá{°«}ntò±¿½","MS"," ",648
+"lock room","VA35A","179","O","Y"," ","lµ«¾k$r¹«m","MS","OLD",649
+"pantry","VA35A","179","N","N"," ","páº{°}ntò±¿½","MS"," ",649
+"pantry","VA35B","180","N","N"," ","pá{±¿}ntò±¿","MS"," ",650
+"lock room","VA35B","180","O","N"," ","lµ«¾k$r¹«m","MS"," ",650
+"pantry","VA36A","181","N","N"," ","páşº{°ş}ntò±¿","MS"," ",651
+"pantry","VA36B","182","N","N"," ","páº{°}ntò±¿","MS"," ",652
+"pantry","VA37","183","N","N"," ","pántò±¿","MS"," ",653
+"pantry","VA38","185","N","N"," ","pá{°}ntr±¿½","MS"," ",654
+"pantry","VA39!","186!","N","N"," ","páşº{±¿ş½}ntò±¿½","MS"," ",655
+"pantry","VA40A","187","N","N"," ","páº{°ş}ntò±¿","MS"," ",656
+"pantry","VA40B","188","N","N"," ","páº{±¿½}ntò±¿½","MS"," ",657
+"pantry","VA41A","191","N","N"," ","pá¾ºntò±¿½","MS"," ",658
+"pantry","VA41B","192","N","N"," ","p{h}ántò±¿","MS"," ",659
+"NR","VA42A","193(*)(**)"," ","N","none"," ","MS"," ",660
+"pantry","VA42A","193(*)(**)","N","Y"," ","p{h}áşºntò±¿","MS","AUX",660
+"pantry","VA42A","193(*)(**)","N","Y"," ","pántò±¿½","MS","AUX",660
+"pantry","VA42B","194","N","N"," ","pá{±¿½}ntò±¿½","MS"," ",661
+"closet","VA43N","N195","N","N"," ","kl·ºz±¿½t","MS"," ",662
+"pantry","VA43A","195","N","N"," ","páº{°}ntò±¿","MS"," ",663
+"pantry","VA43B","196","N","N"," ","pá«{±¿½}ntò±¿½","MS"," ",664
+"pantry","VA44A","199","N","N"," ","pá½¾±¿şntò±¿","MS"," ",665
+"pantry","VA44B","200","N","N"," ","pá{±¿½}ntò±¿½","MS"," ",666
+"pantry","VA45A","201","N","N"," ","pá{±¿}ntr±¿½","MS"," ",667
+"storeroom","VA45A","201","N","N","bulkier goods","sto{¹}ru½¼ºm","MS"," ",667
+"pantry","VA45B","202","N","N"," ","páşntò±¿","MS"," ",668
+"pantry","VA46N","N207","N","N"," ","p{h}ántr±¿","MS"," ",669
+"porch room","VA46N","N207","O","N","built on porch for storeroom","poºtó$ru½¼ºm","MS"," ",669
+"pantry","VA46A","207","N","N"," ","p{h}á{±¿½}ntr±¿","MS"," ",670
+"pantry","VA46B!","208!","N","N"," ","páşºntò±¿","MS"," ",671
+"pantry","VA47","211","N","N"," ","páºntò±¿","MS"," ",672
+"pantry","VA48A","213(*)","N","N"," ","páşº{±¿ş½}ntò±¿","MS"," ",673
+"pantry","VA48A","213(*)","N","Y"," ","páşº{²ş¾}ntò±¿½","MS","AUX",673
+"pantry","VA48B","214","N","N"," ","pá«º{°«}ntò±¿","MS"," ",674
+"pantry","VA49A","215","N","N"," ","páşºntò±¿","MS"," ",675
+"cookroom closet","VA49A","215","O","N"," ","k¹kru¿½ºm$kl·½{·}z±¿½t","MS"," ",675
+"pantry","VA49B","216","N","N"," ","páº{°}ntò±¿","MS"," ",676
+"pantry","VA50A","217","N","N"," ","pá{°}ntò±¿½","MS"," ",677
+"pantry","VA50B","218","N","N"," ","pá{±¿}ntò±¿","MS"," ",678
+"closet","VA50B","218","N","N"," ","klµ«{°}z±¿½t","MS"," ",678
+"pantry","VA51A","219","N","Y"," ","pá{°}ntò±¿","MS","SUG",679
+"NA","VA51B","220(*)"," ","N"," "," ","MS"," ",680
+"pantry","VA51C"," ","N","N"," ","pá{°}ntò±¿"," "," ",681
+"pantry","VA52A","224","N","N"," ","pá{°}ntò±¿","MS"," ",682
+"pantry","VA52B","225","N","N"," ","p{h}áşºntò±¿«","MS"," ",683
+"pantry","VA52C!","226!","N","N"," ","p{h}á½¾ntò±¿«","MS"," ",684
+"pantry","VA53A","227","N","N"," ","p{h}á¾ntò±¿İ{±¿«}","MS"," ",685
+"pantry","VA53B","228","N","N"," ","pántò±¿«","MS"," ",686
+"pantry","VA54A","229","N","N"," ","pántò±¿İ{±¿«}","MS"," ",687
+"pantry","VA54B","230","N","N"," ","p{h}á«{±¿}ntò±¿","MS"," ",688
+"pantry","VA55A","233(*)","N","N"," ","pántò±¿","MS"," ",689
+"pantry","VA55A","233(*)","N","Y"," ","pántò±¿","MS","AUX",689
+"pantry","VA55B","234(*)","N","N"," ","pá{±¿½}ntò±¿«","MS"," ",690
+"pantry","VA55B","234(*)","N","Y"," ","pá{±¿½}ntò±¿½","MS","AUX",690
+"pantry","VA56A","237","N","N"," ","p{h}áşntò±¿","MS"," ",691
+"pantry","VA56B","238","N","N"," ","páş{°ş¼}ntò±¿","MS"," ",692
+"pantry","VA57A","239","N","N"," ","p{h}á{²ş}ntò±¿","MS"," ",693
+"pantry","VA57B","240","N","N"," ","p{h}á{±¿ş}ntò±¿","MS"," ",694
+"cupboard","VA58","241(*)","N","N"," ","k¸«¼º{°}b°d","MS"," ",695
+"pantry","VA58","241(*)","N","Y"," ","pá«ntò±¿","MS","AUX",695
+"storeroom","VA59N","N241","N","N"," ","sto«ºr¹«m","MS"," ",696
+"pantry","VA59N","N241","N","N"," ","páş{n}tr±¿","MS"," ",696
+"pantry","VA59A","242","N","N"," ","páºntò±¿","MS"," ",697
+"pantry","VA59B!","243!","N","N"," ","pá½ntò±¿½","MS"," ",698
+"pantry","VA60","244(*)","N","N"," ","pántò±¿","MS"," ",699
+"pantry","VA61A","245(*)","N","N"," ","pá«{±¿½}ntr±¿","MS"," ",700
+"pantry","VA61B!","246!","N","N"," ","pá{²}ntò±¿«","MS"," ",701
+"NA","VA61C"," "," ","N"," "," "," "," ",702
+"pantry","VA62A","247(*)","N","N"," ","páº{°}ntò±¿½","MS"," ",703
+"pantry","VA62A","247(*)","N","Y"," ","p{h}áşºntò±¿½","MS","AUX",703
+"pantry","VA62B","248","N","N"," ","páşºntò±¿½","MS"," ",704
+"closet","VA63A","251","N","N"," ","kì·½º{°}z°t","MS"," ",705
+"pantry","VA63B","252","N","N"," ","páºntò±¿İ½{±¿}","MS"," ",706
+"meal room","VA63B","252","O","Y"," ","m±iì$ru¿½{u¿}m","MS","OLD",706
+"pantry","VA64A","255","N","N"," ","pá{±¿}ntò±¿½","MS"," ",707
+"pantry","VA64B","256","N","N"," ","páº{°«}ntò±¿","MS"," ",708
+"meal room","VA64B","256","O","N"," ","åmi½{j}{°}ì$õru¿½ºm","MS"," ",708
+"pantry","VA65A","257","N","N"," ","pá«º{±¿½}ntr±¿","MS"," ",709
+"pantry","VA65B","258","N","N"," ","páş«º{°ş}ntr±¿","MS"," ",710
+"pantry","VA65C!","259!","N","N"," ","pá{°}ntò±¿½","MS"," ",711
+"pantry","VA66A","261","N","N","never heard as a girl","pántò±¿","MS"," ",712
+"pantry","VA66B","262","N","N"," ","páº{²¾}ntò±¿½","MS"," ",713
+"meal room","VA67A","267","O","N"," ","m±«{i}{°}ì$ru¿½º{u¿}m","MS"," ",714
+"pantry","VA67B","268","N","N"," ","p{h}á{°«}ntò±¿","MS"," ",715
+"pantry room","VA68A","269","O","N"," ","páºntò±¿$ru¿ºm","MS"," ",716
+"pantry","VA68B","270","N","N"," ","pá{±¿½}ntò±¿½","MS"," ",717
+"pantry","VA69A","273","N","N"," ","pá{±¿}ntò±¿½","MS"," ",718
+"pantry","VA69B","274","N","N"," ","pántò±¿","MS"," ",719
+"pantry","VA70A","275","N","N"," ","pá{±¿}ntr±¿","MS"," ",720
+"pantry","VA70B","276","N","N"," ","p{h}áºntò±¿İ{±¿«}","MS"," ",721
+"meal room","VA71A","285","O","N"," ","åm±«i½ì$õru¿½º{u¿¾}m","MS"," ",722
+"meal room","VA71B","286","O","N"," ","mi½{i}ì$ru¿½{u¿}m","MS"," ",723
+"pantry","VA71B","286","N","N"," ","pá{°}ntò±¿İ{±¿«}","MS"," ",723
+"NR","VA72A","287"," ","N"," "," ","MS"," ",724
+"pantry","VA72B","288","N","N"," ","páº{°«}ntò±¿İ{±¿«}","MS"," ",725
+"meal room","VA73","291","O","N"," ","åm±«i½ì$õru¿½º{u¿¾}m","MS"," ",726
+"storeroom","VA74A","293","N","N"," ","åsto°õru¿½º{u¿«¾}m","MS"," ",727
+"pantry","VA74B!","294!","N","N"," ","páº{°«}ntò±¿«","MS"," ",728
+"meal room","VA75A","297","O","N"," ","åm±«i½ì$õru¿½{u¿}m","MS"," ",729
+"pantry","VA75B","298","N","N"," ","p{h}á{°}ntò±¿İ{±¿«}","MS"," ",730
+"pantry","NC1","303","N","N"," ","páş½ºntò±¿","MS"," ",731
+"pantry","NC2A","301","N","Y"," ","p{h}ántò±¿½","MS","AUX",732
+"pantry","NC2B","304","N","N","rare","páşºntò±¿","MS"," ",733
+"pantry","NC3A","305","N","N"," ","pá{°ş«¼}ntò±¿","MS"," ",734
+"pantry","NC3B","306","N","N"," ","páº{°«}ntò±¿½","MS"," ",735
+"pantry","NC4A","307","N","N"," ","pá{±¿½}ntò±¿","MS"," ",736
+"pantry","NC4B","308","N","N"," ","pá{±¿ş}ntò±¿","MS"," ",737
+"pantry","NC5A","309","N","N"," ","páşntò±¿","MS"," ",738
+"pantry","NC5B","310","N","N"," ","páº{°«¼}ntò±¿","MS"," ",739
+"pantry","NC6!","311!","N","N"," ","pá{±¿}{n}tò±¿","MS"," ",740
+"pantry","NC7A","315(*)","N","N"," ","páşntr±¿","MS"," ",741
+"pantry","NC7B","316","N","N"," ","páº{°}ntò±¿","MS"," ",742
+"pantry","NC8N","N317","N","N"," ","pántò±¿","MS"," ",743
+"pantry","NC8A","317","N","N"," ","p{h}á{°}ntò±¿","MS"," ",744
+"pantry","NC8B","318(*)","N","N"," ","p{h}á{°}ntò±¿","MS"," ",745
+"pantry","NC8B","318(*)","N","Y"," ","p{h}á±¿şntò±¿½","MS","AUX",745
+"pantry","NC9A","319","N","N"," ","páş½¾ºntò±¿","MS"," ",746
+"pantry","NC9B","320","N","N"," ","pá{°}ntò±¿","MS"," ",747
+"pantry","NC10A","321","N","N"," ","pá{±¿}ntr±¿","MS"," ",748
+"catch-all","NC10A","321","N","N"," ","åk²tó·ºì","MS"," ",748
+"pantry room","NC10B","323","O","N"," ","pá¾{±¿}ntò±¿$r¹¿«{u¿¾}m","MS"," ",749
+"pantry","NC10C","322","N","N"," ","pá¾ntò±¿","MS"," ",750
+"pantry","NC11A","325","N","N"," ","p{h}áş½¾{°ş}ntò±¿½","MS"," ",751
+"pantry","NC11B","326","N","N"," ","p{h}áş½¾{°ş}ntò±¿","MS"," ",752
+"pantry","NC12A","327(*)","N","N"," ","p{h}áş½¾{°ş«¼}ntò±¿","MS"," ",753
+"pantry","NC12A","327(*)","N","Y"," ","pántr±¿","MS","AUX",753
+"pantry","NC12B","328","N","N"," ","pá{±¿½}ntò±¿","MS"," ",754
+"pantry","NC13A","329","N","N"," ","p{h}áş{°ş}ntò±¿","MS"," ",755
+"pantry","NC13B","330(*)","N","N"," ","p{h}áş{°ş}ntò±¿","MS"," ",756
+"pantry","NC13B","330(*)","N","Y"," ","pántò±¿","MS","AUX",756
+"pantry","NC14N","N331","N","N"," ","páº{n}tò±¿«","MS"," ",757
+"pantry","NC14A","331","N","Y"," ","pá½¾ntò±¿","MS","NEW",758
+"closet","NC14A","331","N","N"," ","kl·½ºz±¿t","MS"," ",758
+"pantry","NC14B","332","N","N"," ","pántr±¿","MS"," ",759
+"pantry","NC14C!","333!","N","N"," ","pá{°}ntò±¿","MS"," ",760
+"pantry","NC15A","335(*)","N","N"," ","pá½¾{°«¼}ntò±¿","MS"," ",761
+"pantry","NC15B","336","N","N"," ","páşºntò±¿«","MS"," ",762
+"pantry","NC15C"," ","N","N"," ","páş½¾ºntò±¿½"," "," ",763
+"pantry","NC16A","339(*)","N","N"," ","p{h}áş½¾{°ş}ntò±¿","MS"," ",764
+"pantry","NC16A","339(*)","N","Y"," ","p{h}áş{°ş}ntò±¿","MS","AUX",764
+"pantry","NC16B","340","N","N"," ","p{h}á½¾{°«¾}ntò±¿","MS"," ",765
+"pantry","NC17A","337","N","N"," ","p{h}á¾{°ş}ntò±¿","MS"," ",766
+"pantry","NC17B","338","N","N"," ","p{h}á¾{°ş}ntò±¿","MS"," ",767
+"NR","NC18A","341"," ","N"," "," ","MS"," ",768
+"pantry","NC18B","342","N","N"," ","pántò±¿","MS"," ",769
+"pantry","NC19A","343","N","N"," ","p{h}á½¾{°ş}ntò±¿","MS"," ",770
+"pantry","NC19B","344","N","N"," ","p{h}á{°ş«¼}ntò±¿","MS"," ",771
+"pantry","NC20A","345","N","N"," ","pá½{°}n'tr±¿","MS"," ",772
+"pantry","NC20B","346a","N","N"," ","p{h}ántò±¿","MS"," ",773
+"pantry","NC20C","346b","N","N"," ","pá{°}ntò±¿","MS"," ",774
+"pantry","NC21A","347","N","N"," ","pá¾ºntò±¿","MS"," ",775
+"pantry","NC21B","348","N","N"," ","pá{±¿ş½¼}ntò±¿","MS"," ",776
+"pantry","NC22A","349","N","N"," ","pá{±¿½}ntò±¿","MS"," ",777
+"pantry","NC22B","349b","N","N"," ","pántò±¿","MS"," ",778
+"pantry","NC23A","351a","N","N"," ","páºntò±¿","MS"," ",779
+"pantry","NC23B","351b(*)","N","N"," ","páşntò±¿","MS"," ",780
+"pantry","NC23B","351b(*)","N","Y"," ","pá{°}ntò±¿","MS","AUX",780
+"pantry","NC23C!","351c!","N","N"," ","pá{°}ntò±¿","MS"," ",781
+"pantry","NC23D!","351d!","N","N"," ","p{h}áş½¾ntò±¿","MS"," ",782
+"closet","NC24N","N352","N","N"," ","kl·ºz±¿½t","MS"," ",783
+"pantry","NC24A","352a","N","N"," ","páºntò±¿","MS"," ",784
+"pantry","NC24B","352b","N","N"," ","pántò±¿","MS"," ",785
+"pantry","NC25N","N353","N","N"," ","pá{°}ntò±¿","MS"," ",786
+"pantry","NC25A","353","N","N"," ","p{h}ántò±¿","MS"," ",787
+"pantry","NC25B","354","N","N"," ","pá{±¿½}ntò±¿","MS"," ",788
+"pantry","NC26A","355a","N","N"," ","pá{°}n'tò±¿","MS"," ",789
+"pantry","NC26B","355b","N","N"," ","páº{°ş}ntò±¿","MS"," ",790
+"pantry","NC26C!","356!","N","N"," ","pántò±¿","MS"," ",791
+"pantry","NC27A","357","N","Y"," ","pántò±¿","MS","SUG/NEW",792
+"pantry","NC27B","258","N","N"," ","páşntò±¿","MS"," ",793
+"NR","NC28A","361"," ","N"," "," ","MS"," ",794
+"pantry","NC28B","361b","N","N"," ","p{h}áİ½¾ntò±¿","MS"," ",795
+"pantry","NC28C","362","N","N"," ","páº{°«¼}ntò±¿","MS"," ",796
+"pantry","NC29A","363(*)","N","N"," ","pá{°}ntò±¿","MS"," ",797
+"pantry","NC29B","364","N","N"," ","pá{°}ntò±¿","MS"," ",798
+"cupboard","NC30A","365","N","N"," ","k¸«ºb°d","MS"," ",799
+"pantry","NC30B","366","N","N"," ","pá{°}ntò±¿½","MS"," ",800
+"pantry","NC31A","367","N","Y"," ","pá{±¿}ntò±¿","MS","NEW",801
+"pantry","NC31B","368","N","N"," ","páº{°}ntò±¿","MS"," ",802
+"pantry","NC32A","369","N","N"," ","p{h}ántr±¿½","MS"," ",803
+"pantry room","NC32A","369","O","N"," ","p{h}ántr±¿½$ru½¼ºm","MS"," ",803
+"pantry","NC32B!","370!","N","N"," ","páº{°}ntò±¿½","MS"," ",804
+"pantry","NC33A","373","N","N"," ","p{h}áş½¾{°ş}ntò±¿{±¿«}","MS"," ",805
+"pantry","NC33B","374","N","N"," ","pántò±¿","MS"," ",806
+"pantry","NC34A","375","N","N"," ","pá½¾ntò±¿","MS"," ",807
+"pantry","NC34B","376","N","N"," ","pá{°ş}ntò±¿","MS"," ",808
+"pantry","NC35A","377","N","N"," ","pá{±¿½}ntr±¿½","MS"," ",809
+"pantry","NC35B","378","N","N"," ","páº{°}ntò±¿","MS"," ",810
+"pantry","NC36N","N381","N","N"," ","pántò±¿","MS"," ",811
+"pantry","NC36A","381","N","N"," ","pá½ntò±¿","MS"," ",812
+"pantry","NC36B","382","N","N"," ","pántò±¿","MS"," ",813
+"pantry","NC37A","383","N","N"," ","páº{°}ntò±¿","MS"," ",814
+"pantry","NC37B","384","N","N"," ","páşº{°ş}ntò±¿½","MS"," ",815
+"pantry","NC38N","N385","N","N"," ","páş¾ntò±¿","MS"," ",816
+"closet","NC38N","N385","N","N"," ","kl·½ºz±¿½t","MS"," ",816
+"pantry","NC38A","385","N","N"," ","p{h}á{°}ntò±¿","MS"," ",817
+"pantry","NC38B","386","N","N"," ","p{h}á{°}ntò±¿½","MS"," ",818
+"pantry","NC39A","389","N","N"," ","páº{°}ntò±¿","MS"," ",819
+"pantry","NC39B!","390!","N","N"," ","páºntò±¿","MS"," ",820
+"pantry","NC40A","391","N","N"," ","pá{°}ntr±¿½","MS"," ",821
+"pantry","NC40B","392","N","N"," ","páº{°}ntò±¿","MS"," ",822
+"pantry","NC41!","393!","N","N"," ","páº{°}ntò±¿","MS"," ",823
+"pantry","NC42A","403","N","N"," ","páºntò±¿","MS"," ",824
+"pantry","NC42B","404(*)","N","N"," ","pá½ntò±¿","MS"," ",825
+"pantry","NC42B","404(*)","N","Y"," ","pá{°ş}ntò±¿","MS","AUX",825
+"NR","NC43A","397"," ","N"," "," ","MS"," ",826
+"pantry","NC43B","398","N","N"," ","páº{°«¼}ntò±¿","MS"," ",827
+"pantry","NC44","410(*)","N","N"," ","pántò±¿","MS"," ",828
+"meal room","NC44","410(*)","O","Y"," ","miºì$ru¿{u¿¾}m","MS","AUX",828
+"pantry","NC44","410(*)","N","Y"," ","pántò±¿«","MS","AUX",828
+"pantry","NC45A","409(*)","N","N"," ","pá½¾ntò±¿","MS"," ",829
+"pantry","NC45B"," ","N","N"," ","pá{°ş«¼}ntò±¿"," "," ",830
+"NR","NC46A","411"," ","N"," "," ","MS"," ",831
+"pantry","NC46B","412","N","N"," ","pántò±¿","MS"," ",832
+"pantry","NC46C!","412b!","N","N"," ","pántò±¿","MS"," ",833
+"pantry","NC47","413","N","N"," ","pántr±¿","MS"," ",834
+"pantry","NC48","418","N","N"," ","pántò±¿","MS"," ",835
+"closet","NC48","418","N","N"," ","kl··«z±¿½t","MS"," ",835
+"pantry","NC49","421","N","N"," ","pá½¾ntò±¿«","MS"," ",836
+"pantry","NC50A","422","N","N"," ","pá{°}ntò±¿«","MS"," ",837
+"pantry","NC50B!","423!","N","N"," ","p{h}á{±¿}ntò±¿","MS"," ",838
+"closet","NC51A","427","N","N"," ","kl¶«{°}z±¿½t","MS"," ",839
+"pantry","NC51B","428","N","N"," ","pántò±¿","MS"," ",840
+"pantry","NC52N","N429","N","N"," ","pá{°}ntò±¿","MS"," ",841
+"closet","NC52N","N429","N","Y"," ","kl·½ºz±¿½t","MS","OLD",841
+"pantry","NC52A","429","N","N"," ","páş½º{°}ntò±¿","MS"," ",842
+"pantry","NC52B","430","N","N"," ","pántò±¿","MS"," ",843
+"meal room","NC53A","431","O","N"," ","miº{°}ì$ru¿½{u¿¾}m","MS"," ",844
+"pantry","NC53B","432","N","N"," ","pántò±¿","MS"," ",845
+"pantry","NC54A","433","N","N"," ","pántr±¿","MS"," ",846
+"pantry","NC54B","434","N","N"," ","pá½{°}n{'t}r±¿","MS"," ",847
+"pantry","NC55","435","N","N"," ","pá½ntr±¿","MS"," ",848
+"pantry","NC56A","436","N","N"," ","pántò±¿","MS"," ",849
+"pantry","NC56B!","437!","N","N"," ","pá{°}ntò±¿","MS"," ",850
+"pantry","NC57A","438a","N","N"," ","páİntò±¿","MS"," ",851
+"pantry","NC57B","438b","N","N"," ","pántò±¿","MS"," ",852
+"NR","NC58A","439"," ","N"," "," ","MS"," ",853
+"pantry","NC58B","440","N","N"," ","pántò±¿½","MS"," ",854
+"pantry","NC59","441(*)","N","N"," ","pá{°}ntr±¿{±¿«}","MS"," ",855
+"pantry","NC60","442","N","N"," ","pá{°}ntò±¿","MS"," ",856
+"meal room","NC61A","443","O","Y"," ","miºì$ru¿½¾u¼m","MS","SUG",857
+"pantry","NC61B","444","N","N"," ","pántò±¿","MS"," ",858
+"pantry","NC62A","447","N","N"," ","pánt‘ñ‡±¿","MS"," ",859
+"pantry","NC62B","448","N","N"," ","pántò±¿","MS"," ",860
+"cookroom","NC63A","449","N","N","stove in it; meal kept there","k¹kru¿½¾{u¼}m","MS"," ",861
+"pantry","NC63B","450","N","N"," ","pá{°}n'tò±¿","MS"," ",862
+"NR","NC64A","453"," ","N"," "," ","MS"," ",863
+"pantry","NC64B","454","N","N"," ","pántò±¿","MS"," ",864
+"meal room","NC65A","461","O","N"," ","åmiºì$õru¿½¾{u¼}m","MS"," ",865
+"pantry","NC65B","462","N","N"," ","pántò±¿","MS"," ",866
+"pantry","NC66A","465","N","N"," ","pántò±¿","MS"," ",867
+"pantry","NC66B","466","N","N"," ","pá{°}ntò±¿","MS"," ",868
+"NR","NC67A","469"," ","N"," "," ","MS"," ",869
+"pantry","NC67B","470","N","N"," ","pá¾ºntò±¿½","MS"," ",870
+"pantry","NC68A","473","N","N"," ","pá{°}ntò±¿","MS"," ",871
+"pantry","NC68B","474","N","N"," ","pá{°}ntò±¿","MS"," ",872
+"pantry","NC69A","477","N","N"," ","pá{°}ntò±¿","MS"," ",873
+"pantry","NC69B","478","N","N"," ","páºntr±¿","MS"," ",874
+"pantry","NC70A","479","N","N"," ","páş«±¿şntò±¿","MS"," ",875
+"pantry","NC70B","480","N","N"," ","pá{°}ntò±¿","MS"," ",876
+"NR","NC71A","481"," ","N"," "," ","MS"," ",877
+"pantry","NC71B","482","N","N"," ","páº{°}ntò±¿","MS"," ",878
+"pantry","NC71C!","483!","N","N"," ","pá{±¿}ntò±¿","MS"," ",879
+"closet","NC72A","487","N","N"," ","kl·½·z±¿½t","MS"," ",880
+"pantry","NC72B","488","N","N"," ","pá{±¿½}ntò±¿","MS"," ",881
+"NR","NC73A","491"," ","N"," "," ","MS"," ",882
+"pantry","NC73B","492","N","N"," ","pántò±¿","MS"," ",883
+"pantry","NC74A","493","N","N"," ","pá{°}ntò±¿«","MS"," ",884
+"pantry","NC74B","494","N","N"," ","pá{°ş«¼}ntò±¿«","MS"," ",885
+"kitchen closet","NC74B","494","O","N"," ","k±tó±¿½n$kl¶«·½z±¿t","MS"," ",885
+"NR","NC75A","495"," ","N"," "," ","MS"," ",886
+"pantry","NC75B","496","N","N"," ","pá{±¿}ntò±¿","MS"," ",887
+"pantry","SC1A","203.1","N","Y"," ","páº{°}ntò±¿","MS","NEW",888
+"pantry","SC1B","203.2","N","N"," ","p{h}á{°}ntò±¿","MS"," ",889
+"pantry room","SC2A","204.1(*)","O","N"," ","pántò±¿$ru¿½u¿¾m","MS"," ",890
+"pantry","SC2B","204.2","N","N"," ","pá{°ş}ntò±¿","MS"," ",891
+"pantry","SC2C"," ","N","N"," ","páºntò±¿"," "," ",892
+"pantry","SC3A","205.1","N","N"," ","p{h}á{°}ntr±¿½","MS"," ",893
+"pantry","SC3B","205.2","N","N"," ","åp`á½{°}n{ç}õtò±¿«¼","MS","CNV",894
+"smokehouse","SC3B","205.2","N","N"," ","åsmo¼º{°—}kõhá½o¼s","MS"," ",894
+"china closet","SC3B","205.2","O","N"," ","åtó`µ¼±¿n±¿¼$õk`Å·½z±¿t","MS","CNV",894
+"pantry","SC3C!","205.3!","N","N"," ","p`á«{°}n'tò±¿«¼","MS"," ",895
+"closet","SC4A","206.1","N","N","our day","kÅ·º{°}z±¿t","MS"," ",896
+"pantry","SC4A","206.1","N","N"," ","p`á½{°}n'tò±¿İ«¼","MS"," ",896
+"pantry","SC4B","206.2","N","N"," ","páº{°}ntò±i","MS","CNV",897
+"cupboard","SC4B","206.2","N","N"," ","k`¸«{°}b´d","MS"," ",897
+"safe","SC4C","206.3","N","N"," ","seº{°}f","MS"," ",898
+"closet","SC4C","206.3","N","N"," ","k`Å¶«{°}z±¿½t","MS"," ",898
+"pantry","SC4C","206.3","N","N"," ","p`á½{°}n'tò±¿","MS"," ",898
+"cupboard","SC4C","206.3","N","N"," ","k`¸«{°}b´d","MS"," ",898
+"safe","SC5A","207.1","N","N","in kitchen corner","se«º{°}f","MS"," ",899
+"pantry","SC5A","207.1","N","Y"," ","pá{°}nttò±¿«¼","MS","NEW",899
+"dining room","SC5A","207.1","O","N"," ","ådŞ¼º{°}n±¿½n$õru¿ºm","MS"," ",899
+"safe","SC5B","207.2","N","N"," ","se«º{°}f","MS"," ",900
+"cookroom","SC5B","207.2","N","Y"," ","åk`¹«¼{°}kõr¹¿¾{°}m","MS","INA",900
+"NR","SC5C","207.2A"," ","N"," "," ","MS"," ",901
+"pantry","SC5D!","207.3!","N","N"," ","p`á½º{°}ntò±¿«¼","MS"," ",902
+"cupboard","SC6N","N208","N","N"," ","åk`¸¼{°}põbo«¼º{°}d","MS"," ",903
+"pantry","SC6N","N208","N","Y","fancy name","pá½{°}ntò±¿","MS","NEW",903
+"cupboard","SC6N","N208","N","N"," ","k`¸«¼{°}b°«d","MS"," ",903
+"cupboard","SC6N","N208","N","N"," ","k`¸½¼{°}b°«d","MS"," ",903
+"pantry","SC6A","208.1","N","N"," ","p{h}á{°}ntò±¿","MS"," ",904
+"storerooms","SC6B","208.2(*)","N","N"," ","åsto¼ºõr¹¼mz","MS"," ",905
+"storeroom","SC6C!","208.3!","N","N"," ","åstoº°õr¹¼m","MS"," ",906
+"pantries","SC6C!","208.3!","N","Y"," ","p`á{°}n'trò±¿«¼z","MS","NEW",906
+"safe","SC6D"," ","N","N"," ","seº{±¿}f"," "," ",907
+"kitchen cabinet","SC6D"," ","O","Y","a piece of furniture","åkˆi½tó±¿¼n$kˆ`á½{°}b±¿¼n±¿½¼t"," ","INA/NEW",907
+"pantry","SC6D"," ","N","N","room","p`á{°}ntò±«¾{i¾}"," "," ",907
+"storeroom","SC7N","N209","N","N","for ""victuals¢","åsto¼º°õru¿¾º{°}m","MS"," ",908
+"safe","SC7N","N209","N","N","for ""victuals¢","seº{°}f","MS"," ",908
+"pantry","SC7N","N209","N","N","for ""workroom, dishwashing, etc.¢","p`a«{°}n'tò±¿«¼","MS"," ",908
+"victuals","SC7N","N209","N","Y"," ","â±«ñl","MS","INA",908
+"pantry","SC7A","209.1","N","N"," ","p`á½{°}n'tò±¿«¼","MS"," ",909
+"storeroom","SC7B","209.2","N","N","for storage; locked","åsto¼º°õr¹¼º{°}m","MS"," ",910
+"safe","SC7B","209.2","N","N","in kitchen wall","seº{°}f","MS"," ",910
+"pantry","SC7B","209.2","N","N","= ""work room¢","p`áº{°}n'tò±¿«¼","MS"," ",910
+"work room","SC7B","209.2","O","Y"," ","åw³«{±¿}k$õr¹¼º{°}m","MS","INA",910
+"storeroom","SC7C!","209.3!","N","N","locked","åsto¼º°õr¹¿«{°}m","MS"," ",911
+"pantry","SC7C!","209.3!","N","N","open; used for washing","p`á½º{°}n'tò±¿","MS"," ",911
+"pantry","SC7D!","209.4!","N","N"," ","p`á{°}ntò±¿«¼","MS"," ",912
+"smokehouse","SC8A","210.1","N","N","groceries","åsmo«¼º{°}kõh¸—½¼¹¼s","MS"," ",913
+"outhouse","SC8A","210.1","N","N"," ","å¥«otõh¸¼¹s","MS"," ",913
+"smokehouse","SC8B","210.2","N","N"," ","åsmo«kõ¸—«¼¹s","MS"," ",914
+"boat safes","SC8B","210.2","O","N"," ","õb·«{°—}t$åse«º{°}vz","MS"," ",914
+"press","SC8C","210.3","N","N"," ","pò²«{°}s","MS"," ",915
+"pantries","SC8C","210.3","N","Y"," ","p`á½º{°}n'tò±¿«¼z","MS","NEW",915
+"smokehouse","SC9A","211.1","N","N"," ","åsmo¼º{°}kõ¥¼os","MS"," ",916
+"closet in the kitchen","SC9A","211.1","O","Y"," ","åk`Å·«º{°}z±¿½t$±¿¼n$ä°$kˆ`±º{°}tó±¿¼n","MS","NEW",916
+"cupboard","SC9B","211.2","N","N"," ","k¸«¼{°}b°«d","MS","CNV",917
+"safe","SC9B","211.2","N","N"," ","se«º{°}f","MS","CNV",917
+"smokehouse","SC9B","211.2","N","N","= ""log house¢","åsmo«¼º{°}k¥¼o¼s","MS"," ",917
+"log house","SC9B","211.2","O","Y"," ","ål·«{°}g$õh¥½¼¹s","MS","INA",917
+"pantry","SC9C!","211.3!","N","N"," ","p`á{°}nttò±¿«¼","MS"," ",918
+"storeroom","SC9D!","211.4!","N","N"," ","åsto«ºõòu¿ºm","MS"," ",919
+"storeroom","SC10A","212.1","N","N"," ","åsto«¼º{°}õòu¿«¼º{°}m","MS"," ",920
+"pantry","SC10A","212.1","N","N"," ","p`á«º{°}ntò±¿«¼","MS"," ",920
+"storerooms","SC10B!","212.2!","N","N"," ","åsto¼ºõr¹«¼{°}mz","MS"," ",921
+"safe","SC10C!","212.3!","N","N","screen wire","seº{°}f","MS"," ",922
+"pantry","SC10C!","212.3!","N","N"," ","p`á½{°}n'tò±¿«¼","MS"," ",922
+"pantry","SC11N","N213","N","N"," ","pa«¾nõtò±¿","MS"," ",923
+"pantry","SC11M!","2n213!","N","N"," ","p`ántò±¿«¼","MS"," ",924
+"cupboard","SC11M!","2n213!","N","N","built in cabinet","k`¸«¼b°«¾d","MS"," ",924
+"storeroom","SC11A","213.1(*)","N","N"," ","åsto«¼ºõr¹¿¾m","MS"," ",925
+"safe","SC11A","213.1(*)","N","N","cupboard in kitchen","se«º{°}f","MS"," ",925
+"pantry","SC11A","213.1(*)","N","N","part of kitchen","p`á½ntò±¿«¼","MS"," ",925
+"pantry","SC11A","213.1(*)","N","N","part of kitchen","p`a«ntò±¿«¼","MS"," ",925
+"pantry","SC11A","213.1(*)","N","Y"," ","pá½¾ntò±¿","MS","AUX",925
+"put the delf in the shelf","SC11A","213.1(*)","E","Y"," ","p`¹t$ä°$d²«lf$±¿¼n$ä°$óe«º{°}f","MS","INA",925
+"pantry","SC11B","213.11","N","N"," ","p`ántò±¿«","MS"," ",926
+"pantry","SC11C","213.2","N","N"," ","åp`ánõt`ò±¿«¼","MS"," ",927
+"kitchen cabinet","SC11C","213.2","O","N"," ","õkˆ±«tón$åk`á½¾b°İn±¿½¼t","MS"," ",927
+"closet","SC11D","213.3","N","N"," ","kÅŞz±¿½t","MS"," ",928
+"storeroom","SC11D","213.3","N","N"," ","åsto«¼{°}õru¿¼ºu«m","MS"," ",928
+"pantry","SC11D","213.3","N","N","usually for ""dishes¢","p`á½ntò±¿«¼","MS"," ",928
+"dishes","SC11D","213.3","N","Y"," ","d±«ó±¿¼z","MS","INA",928
+"pantry","SC11E","213.4","N","N"," ","p`áºntò±¿«¼","MS"," ",929
+"buttery","SC11E","213.4","N","Y"," ","b¸«ñ°r±¿«¼","MS","SUG/OLD",929
+"pantry","SC11E","213.4","N","N"," ","pá«ntò±¿«¼","MS","CNV",929
+"butler's pantry","SC11F","213.5","O","N"," ","åb¸½¼tl°«¾z$p`á«ntò±¿«¼","MS"," ",930
+"famine shelf","SC11F","213.5","O","N"," ","åfám±¿½¼n$õó²lf","MS"," ",930
+"pantry","SC11F","213.5","N","N"," ","p`ántò±¿«¼","MS"," ",930
+"cupboard","SC11F","213.5","N","N"," ","k`¸¼b°«¾d","MS"," ",930
+"pantry","SC11G!","213.7!","N","N"," ","p`áºntò±¿«¼","MS","CNV",931
+"flours","SC11G!","213.7!","N","Y"," ","fÅµ«º¹{w}°«¾z","MS","INA",931
+"china closet","SC11H!","213.8!","O","N"," ","åtóµ«¼º±¿n°$õk`Å·½¼º{°}z±¿¼t","MS"," ",932
+"safe","SC11H!","213.8!","N","N"," ","se«ºf","MS"," ",932
+"storeroom","SC11H!","213.8!","N","N"," ","sto«¼ºòu¿º{°}m","MS"," ",932
+"china cabinets","SC11H!","213.8!","O","N"," ","åtóµ«¼ºn°«$õkˆ`áb±¿n²«ts","MS"," ",932
+"lock pantry","SC11H!","213.8!","O","N"," ","õlŞk$åp`áº{°}nt`ò±¿«¼","MS"," ",932
+"pantry","SC11I!","213.9!","N","Y"," ","pá½¾ntò±¿","MS","AUX",933
+"storeroom","SC11J!","213.10!","N","N"," ","åsto«¼°õru¿ºu¿«m","MS"," ",934
+"pantry","SC11J!","213.10!","N","N","""light cooking, light washing up¢","p`á½ntò±¿«¼","MS"," ",934
+"smokehouse","SC12A","214.1","N","N","for groceries","åsmo¼º{°}kõhá½os","MS"," ",935
+"pantry","SC12B","214.2","N","N"," ","pá«º{°}ntò±¿","MS"," ",936
+"closet","SC13","213.6","N","N","under steps","tlµ¾º{°}z±¿¼t","MS"," ",937
+"pantry","SC14A","215.1","N","N"," ","pa«¾ntò±¿","MS"," ",938
+"closet","SC14B","215.2","N","N"," ","t`lŞ{°}z±¿½t","MS"," ",939
+"grocery closet","SC14B","215.2","O","N","under lock and key; ""meals are given out¢","ågò‡o¼º{°}sò±¿«¼$õtlŞ{°}z±¿½t","MS"," ",939
+"meals are given out","SC14B","215.2","S","Y"," ","miº{°}lz°$gˆ±½{°}v°«n$¸¼¹t","MS","INA",939
+"shelf","SC15A","216.1","N","N","in kitchen for dishes","ó²«{°}lf","MS"," ",940
+"smokehouse","SC15A","216.1","N","N","food","åsmo«kõhµ«os","MS"," ",940
+"storeroom","SC15A","216.1","N","N","later","åsto¼ºõòu¿¼ºm","MS"," ",940
+"pantries","SC15B","216.2","N","N","""mighty few¢","p`á{°}ntò±¿«¼z","MS"," ",941
+"cellar","SC15B","216.2","N","N"," ","s±½{°}l°","MS"," ",941
+"mighty few","SC15B","216.2","K","Y"," ","õmµ«±¿t±¿«¼$åfju¿º","MS","INA",941
+"grocery room","SC15C","216.3","O","N"," ","ågòo«ºsò±¿«¼$õru¿º{¹¿}m","MS"," ",942
+"smokehouse","SC15C","216.3","N","N"," ","åsmo¼º{°}kõhµ«¼o¼s","MS"," ",942
+"grocery","SC15C","216.3","N","N"," ","gò‡o«{°}s°r—±¿½¼","MS"," ",942
+"closet","SC16N","N217","N","N"," ","k`Å·½º{°}z±¿¼k","MS","SIC",943
+"pantry","SC16","217.1","N","N","best term, another term for supply room","p`áşº{²ş}n'tò±¿","MS"," ",944
+"supply room","SC16","217.1","O","N","best term, another term for supply room","s°åpla«¾º{°}$õru¿¾ºm","MS"," ",944
+"pantry","SC17A","218.1","N","N"," ","p`á«{°}ntò±¿«¼","MS"," ",945
+"safe","SC17A","218.1","N","N","= cupboard","se«º{¤½¼}f","MS"," ",945
+"cupboards","SC17A","218.1","N","N"," ","k`¦½{°}b°«¾dz","MS"," ",945
+"safe","SC17B","218.2","N","N"," ","seº{°}f","MS"," ",946
+"closets","SC17C","218.3","N","N","for dishes, food, etc.","kÅ·º{°}z±¿½ts","MS"," ",947
+"pantry","SC17C","218.3","N","N"," ","p`á{°}ntò±¿«¼","MS","CNV",947
+"pantry","SC17C","218.3","N","N"," ","p`á{°}n'tò±¿«¼","MS","CNV",947
+"pantry","SC17D","218.4","N","N"," ","p`²½{°}n'tò±¿¼","MS"," ",948
+"lock pantry","SC17D","218.4","O","N"," ","ålŞ{°}k$õp`á«n'tò±¿¼","MS"," ",948
+"open pantry","SC17D","218.4","O","N"," ","åoº{°}'pm$õp`á«{°}ntò±¿«¼","MS"," ",948
+"butler's pantry","SC17D","218.4","O","N"," ","åb¸«{°}tl°«z$p`á«{°}ntò±¿«¼","MS"," ",948
+"storeroom","SC18N","N219","N","Y"," ","åsto«¼õry¾u¿m","MS","AUX",949
+"pantry","SC18N","N219","N","N"," ","p`á½ntò±¿«¼","MS"," ",949
+"pantry","SC18A","219.1","N","N","small part, divided off, shelves","p`á½ntò±¿«¼","MS","CNV",950
+"pantry","SC18B","219.2","N","N"," ","p`ántò±¿«¼","MS","CNV",951
+"smokehouse","SC18B","219.2","N","N","in ""yard¢","åsmo«¼ºkõh¸½¹s","MS"," ",951
+"pantry","SC18B","219.2","N","N"," ","p`á«ntò±¿«¼","MS","CNV",951
+"yard","SC18B","219.2","N","Y"," ","jŞº{°}d","MS","INA",951
+"cupboard","SC18C!","219.3(*)!","N","N"," ","k`¸«b°¾d","MS"," ",952
+"storeroom","SC18C!","219.3(*)!","N","Y","near kitchen","åsto¼ºõry¾º{¹¿}m","MS","HRD",952
+"pantry","SC18C!","219.3(*)!","N","N"," ","p`á«ntò±¿«¼","MS"," ",952
+"storeroom","SC18D!"," ","N","N","right next to dining room","sto«¼º{°}r¹¿m"," "," ",953
+"pantry","SC18D!"," ","N","N"," ","p`á«{²}ntò±¿«¼"," "," ",953
+"butler's pantry","SC18D!"," ","O","N"," ","åb¸tl°½z$õp`á½ntò±¿«¼"," "," ",953
+"pantry","SC19N","N220","N","N"," ","pa«¾ntr±¿½","MS"," ",954
+"pantry","SC19A","220.1","N","N"," ","p`ántò±¿¼{i¿¼}","MS"," ",955
+"closet","SC19A","220.1","N","N","partitioned off, one end","kˆÅŞz±¿¼t","MS"," ",955
+"pantry","SC19B","220.4","N","N"," ","páş{n}'tò±¿","MS"," ",956
+"pantry","SC19C","220.2(*)","N","N"," ","p`á«{²}ntò±¿«¼","MS"," ",957
+"storeroom","SC19C","220.2(*)","N","N"," ","åsto«¼°õru½¾º{u¿¼}m","MS"," ",957
+"storeroom","SC19D!","220.3!","N","N"," ","åsto¼º{°}õr¹¼m","MS"," ",958
+"pantry","SC19D!","220.3!","N","N"," ","pá{°}n'tò±¿«¼","MS"," ",958
+"cupboard","SC19E!"," ","N","N"," ","kˆ`¸¼b°¾d"," "," ",959
+"food closet","SC19E!"," ","O","N"," ","åfu¿ºd$õt`lŞ—z±¿¼t"," "," ",959
+"wine closet","SC19E!"," ","O","N"," ","wµ«º{°}n$t`lŞz±¿¼t"," "," ",959
+"pantry","SC19E!"," ","N","N"," ","p`áº{°}ntò±¿«¼"," "," ",959
+"cabinet","SC20A","221.1","N","Y"," ","kˆ`á«{²}b±¿¼n±¿¼t","MS","NEW",960
+"pantry","SC20A","221.1","N","N"," ","p`á{²}n'tò±¿«¼","MS"," ",960
+"pantry","SC20B","221.2","N","N"," ","pá²nttò±¿«¼","MS"," ",961
+"closet","SC20C","221.3","N","N","in stove room","kl·½·z±¿¼t","MS"," ",962
+"pantry","SC20C","221.3","N","N"," ","p`áº{²}nttò±¿«¼","MS","CNV",962
+"pantry","SC20D!","221.4!","N","N"," ","p`á{²}ntò±¿«¼","MS"," ",963
+"pantry room","SC21A","222.1","O","N"," ","p{h}ántò±¿$ru¿{u¿¾}m","MS"," ",964
+"pantry","SC21B","222.2","N","N"," ","pántò±¿","MS"," ",965
+"pantry","SC22N","N223","N","N","groceries, pots","pá{°}ntò±¿","MS"," ",966
+"buttery","SC22N","N223","N","Y","butter, dishes","b¸«tr±¿","MS","SUG",966
+"pantry","SC22A","223.1","N","N"," ","p`á«{°}ntò±¿«¼","MS"," ",967
+"pantry","SC22B","223.2","N","N"," ","pá{±¿}ntò±¿","MS"," ",968
+"storerooms","SC22C!","223.3!","N","N"," ","åstoº{°}õò¹¿¾º{°}mz{z}","MS"," ",969
+"pantries","SC22C!","223.3!","N","N","in house","p`á«{°}n'tò±¿«¼z","MS"," ",969
+"pantry","SC23A","224.1","N","Y","[nò]: doubtful; ""not much stuff kept in it¢","p`á«º{°}nò±¿«¼","MS","FDT",970
+"closet","SC23B","224.2","N","N"," ","k`Å·«º{o½}z±¿¼t","MS"," ",971
+"pantry","SC23B","224.2","N","N","""we didn't have¢","p`á«{°}ntt`ò±¿«¼","MS"," ",971
+"safe","SC23B","224.2","N","N","in kitchen","seº{°}f","MS"," ",971
+"pantry","SC23C","224.3","N","N"," ","p`á{°}nttò±¿«¼","MS"," ",972
+"storeroom","SC23D","224.4","N","N"," ","åstoº°õòu¿º{w}m","MS"," ",973
+"pantry","SC23D","224.4","N","N"," ","p`á«{°}n'tò±¿«¼","MS"," ",973
+"pantry","SC23E!","224.5!","N","N"," ","p`á«{°}nttò±¿«¼","MS"," ",974
+"box","SC24N","N225","N","Y"," ","b¶—{°}ks","MS","DBT",975
+"storage room","SC24A","225.1","O","N","= pantry","åsto¼r±¿dú$õru¿¾m","MS"," ",976
+"pantry","SC24A","225.1","N","N"," ","páşº{n}tò±¿","MS"," ",976
+"safe","SC24B","225.11","N","N","four legs","se{°«¼}f","MS"," ",977
+"cupboards","SC24C","225.2","N","N"," ","k`¸«{°}b°«dz","MS"," ",978
+"pantry","SC24D!","225.3!","N","N"," ","p`á½º{°}n'tò±¿«¼","MS","CNV",979
+"warming closet","SC24D!","225.3!","O","N"," ","åw·½º{·}m±¿¼î$õk`Åµ«{°}z±¿¼t","MS","CNV",979
+"pantry","SC25A","226.1","N","N"," ","pá{±¿½}ntò±¿","MS"," ",980
+"safe","SC25B","226.2","N","N","grandfather made","se«º{°}f","MS"," ",981
+"cupboards","SC25B","226.2","N","N"," ","k`¦½{°}b´«dz","MS"," ",981
+"pantry","SC25B","226.2","N","N"," ","p`á{²}ntò±¿«¼","MS"," ",981
+"flour house","SC25B","226.2","O","N"," ","åfla«º¹°$õha«°—z","MS"," ",981
+"pantry","SC25C!","226.3!","N","N"," ","p`á¾{²}n'tò±¿«¼","MS"," ",982
+"butler's pantry","SC25C!","226.3!","O","Y"," ","åb±¿½tl°«z$õpá¾{²}n'tò±¿«¼","MS","HRD",982
+"pantry","SC26A","227.1","N","Y","40-50 years ago","pá{°}n'tò±¿«¼","MS","OLD",983
+"smokehouse","SC26A","227.1","N","N"," ","åsmo¼ºkõha«¾°—s","MS"," ",983
+"pantry","SC26B!","227.2!","N","N"," ","páº{°}n'tò±¿«¼","MS"," ",984
+"pantries","SC27A","228.1","N","N"," ","p`áş«{±¿ş}{n}tò±¿z","MS"," ",985
+"smokehouse","SC27B","228.2","N","N"," ","åsmo¼ºkõ{h}¥½os","MS"," ",986
+"closet","SC27B","228.2","N","N"," ","kl·½{°}z±¿¼t","MS"," ",986
+"pantry","SC27B","228.2","N","N"," ","pá{°}n'tò±¿«¼","MS"," ",986
+"closet","SC28A","229.1","N","N","not finished","kl·{°}z±¿½t","MS"," ",987
+"wire safe","SC28A","229.1","O","N","for milk","åwa«¾º°$õse«ºf","MS","CNV",987
+"smokehouse","SC28A","229.1","N","N"," ","åsmo¼ºkõhá½°—s","MS"," ",987
+"smokehouse","SC28A","229.1","N","N"," ","åsmo¼ºkha«¾°s","MS"," ",987
+"pantry","SC28B","217.2","N","N"," ","p`á{²}n'tò±¿«¼","MS"," ",988
+"ration room","SC28B","217.2","O","Y"," ","årá{°}ón$õru¿İ¾m","MS","OLD/AMS",988
+"pantry","SC28C","229.2","N","N"," ","p`á«{²}ntò±¿«¼","MS"," ",989
+"kitchen closet","SC28C","229.2","O","N"," ","åkˆ±«{°}tó±¿¼n$õk`l¶«{°}z±¿½t","MS"," ",989
+"pantry","SC28D","229.3","N","N"," ","p`áş{°ş}{n}'tò±¿«¼","MS"," ",990
+"cabinet","SC28D","229.3","N","N"," ","c‡`á{°}b±¿¼n±¿t","MS"," ",990
+"cabinet","SC28D","229.3","N","N"," ","c‡á{°}bn±¿½t","MS"," ",990
+"pantry","SC29A","230.2(*)","N","N"," ","p`á{°}ntò±¿«¼","MS","CNV",991
+"smokehouse","SC29A","230.2(*)","N","N","all groceries","åsmo¼ºkõha«º°—s","MS"," ",991
+"cupboard","SC29B","230.1(*)","N","N","usually in kitchen, sometimes built in","k¦½b°½d","MS"," ",992
+"cupboard","SC29B","230.1(*)","N","N","usually in kitchen, sometimes built in","k¦½b°«d","MS"," ",992
+"pantries","SC29B","230.1(*)","N","Y"," ","p`á{°}n'tò±¿«¼z","MS","NEW",992
+"smokehouse","SC29C","230.3","N","N"," ","åsmo¼kõha«o¼s","MS"," ",993
+"pantry","SC29C","230.3","N","Y"," ","pá{°}n'tò±¿«¼","MS","NEW",993
+"safe","SC29C","230.3","N","N","wooden, in kitchen","se«º{±¿}f","MS"," ",993
+"pantry","SC29C","230.3","N","Y"," ","pá«{°}ntò±¿","MS","NEW",993
+"safes","SC29D"," ","N","N","no pantries","se«ºfs"," ","CNV",994
+"closet","SC29E"," ","N","N","groceries","kÅ·½{°}z±¿t"," "," ",995
+"china closet","SC29E"," ","O","N"," ","åtóµº±¿n°$õkÅ·½¼{°}z±¿½t"," "," ",995
+"china closet","SC29E"," ","O","N"," ","åtóµº±¿n°$õkÅ·½{°}z±¿¼t"," ","CNV",995
+"pantry","SC30A","231.1","N","N"," ","pá½ntò±¿½","MS"," ",996
+"cupboard","SC30B","231.2","N","N"," ","k`¦½¼b°«¾d","MS"," ",997
+"kitchen cupboard","SC30B","231.2","O","N"," ","åk`±«tó±¿¼n$õk¦½b°«¾d","MS"," ",997
+"pantry","SC30B","231.2","N","N","""canned fruits¢","p`áº{²}ntò±¿«¼","MS"," ",997
+"kitchen safe","SC30B","231.2","O","N"," ","åk±«tó±¿¼n$õse«º±¿f","MS"," ",997
+"canned fruits","SC30B","231.2","O","Y"," ","åk`áº{°}nd$õfòu¿ºwts","MS","INA",997
+"decanters","SC30B","231.2","N","Y"," ","d±¿¼åk`áº{°}nt°«z","MS","INA",997
+"sideboard","SC30B","231.2","N","N"," ","åsa¾º{±¿}dõbo¼º¹¼d","MS"," ",997
+"dining room","SC30B","231.2","O","Y"," ","åda«¾º{°}nn–$õru¿ºwm","MS","INA",997
+"cupboard","SC30C!","231.3!","N","N","could be built in","k`¦½b°«¾d","MS"," ",998
+"pantry","SC30C!","231.3!","N","N"," ","p`áº{°}ntò±¿«¼","MS"," ",998
+"safe","SC31A","232.1","N","N","30¢ X 40¢","se«º{±¿}f","MS"," ",999
+"smokehouse","SC31A","232.1","N","N"," ","åsmoºkõha«¾º°—s","MS"," ",999
+"cupboards","SC31B","232.2","N","N","dishes","k`¸—«b´{d}z","MS"," ",1000
+"pantry","SC31B","232.2","N","Y","[tt]: doubtful","p`á{°}nttò±¿¼","MS","DDT",1000
+"smokehouse","SC31B","232.2","N","N"," ","åsmo«ºkõhµºos","MS"," ",1000
+"pantry","SC32A","233.1","N","Y"," ","p`á«º{°}ntò±¿«¼","MS","NEW",1001
+"closet","SC32A","233.1","N","N"," ","k`ÅŞ¼{°}z±¿½t","MS"," ",1001
+"closet","SC32A","233.1","N","N"," ","k`ì·«{°}z±¿½t","MS"," ",1001
+"smokehouse","SC32B","233.2","N","N"," ","åsmo¼¹¼kõhá«os","MS"," ",1002
+"pantry","SC32B","233.2","N","N","under staircase","p`á«{°}n'tò±¿","MS"," ",1002
+"pantry","SC32C","233.3","N","N"," ","p`á«{²}n'tò±¿«¼","MS"," ",1003
+"closet","SC32D","233.4","N","N"," ","k`ÅŞ{°}z±¿¼t","MS"," ",1004
+"storeroom","SC32D","233.4","N","N"," ","åsto«¼º{°}õò¹¿«¾º{°}m","MS"," ",1004
+"pantry","SC32D","233.4","N","N"," ","p`á«{²}nttò±¿«¼","MS"," ",1004
+"butler's pantry","SC32D","233.4","O","N","better class houses","b¦¼{°}tl°«¾z$p`á«²nttò±¿«¼","MS"," ",1004
+"pantry","SC33A","234.1","N","N"," ","pá{°}ntr±¿½","MS"," ",1005
+"shelves","SC33B","234.2","N","N"," ","ó²«ìvz{z}","MS"," ",1006
+"pantries","SC33B","234.2","N","N"," ","p`á«º²ntò±¿¼z{z}","MS"," ",1006
+"pantry","SC34A","235.1","N","N","newer institution","p`á«º{°}n'tò±¿«¼","MS"," ",1007
+"pantry","SC34A","235.1","N","N","newer institution","p`á«º{°}ntò±¿«¼","MS"," ",1007
+"pantry","SC34B","235.2","N","Y","[introduced] about 25 years ago","p`á«{°}ntò±¿«¼","MS","NEW",1008
+"cellars","SC34B","235.2","N","N","big houses","s²«{°}l°«¾z","MS"," ",1008
+"pantry","SC34C","235.3","N","N"," ","p`á«n't`ò±¿«¼","MS"," ",1009
+"cupboards","SC34C","235.3","N","N"," ","k`¦½{°}b°«dz","MS"," ",1009
+"pantry","SC35A","236.1","N","N"," ","p`á«º{°}nttò±¿«¼","MS"," ",1010
+"storeroom","SC35B","236.2","N","N"," ","åsto¼º°õru¿º{w}m","MS"," ",1011
+"storehouse","SC35B","236.2","N","N"," ","åsto¼º°—õha«¾¹¼s","MS"," ",1011
+"storage place","SC35C","236.3(*)","O","N"," ","åsto¼{¹¼}{r}±¿dú$õple{±¿}s","MS"," ",1012
+"pantry","SC35C","236.3(*)","N","N"," ","p`á«n'tò±¿«¼","MS"," ",1012
+"NA","SC35D"," "," ","N"," "," "," "," ",1013
+"closet","SC35E!"," ","N","N"," ","k`ÅŞz±¿½t"," "," ",1014
+"pantry","SC36A","237.1","N","Y"," ","p`áº{²}ntò±¿«¼","MS","NEW",1015
+"cupboard","SC36B","237.2","N","N","three-cornered","k`¦½b°¾d","MS"," ",1016
+"pantries","SC36B","237.2","N","N","some in old days","p`áº{²}ntò±¿«¼z","MS"," ",1016
+"closet","SC36B","237.2","N","N","under the stairs","k`ÅŞz±¿¼t","MS","CNV",1016
+"cupboard","SC36B","237.2","N","N","three-cornered","k`¦—¼b°¾d","MS","CNV",1016
+"pantry","SC36C","237.3","N","N"," ","p`áº{°}ntò±¿«¼","MS"," ",1017
+"supply room","SC36C","237.3","O","N"," ","s°åpÅa«¾º±¿$õru¿ºu¿«m","MS"," ",1017
+"NR","SC36D!","237.4!"," ","N"," "," ","MS"," ",1018
+"pantry","SC37","238","N","N"," ","p`áşntò±¿","MS"," ",1019
+"bedroom","SC37","238","N","Y"," ","åb²dõru¿{u¿«}m","MS","INA",1019
+"safe","SC38N","N239","N","N"," ","seº±f","MS"," ",1020
+"pantry","SC38N","N239","N","N"," ","p`áº{°}ntò±¿","MS"," ",1020
+"smokehouse","SC38A","239.1","N","Y","""called it¢","åsmo¼ºkõha«¾¹s","MS","OLD",1021
+"pantries","SC38A","239.1","N","N"," ","p`á{²}ntò±¿«¼z{z}","MS"," ",1021
+"called it","SC38A","239.1","E","Y"," ","åk`¶«¼o¼ìd$õh±«t","MS","INA/SIC",1021
+"safe","SC38B","239.2","N","N"," ","se½º±f","MS"," ",1022
+"pantries","SC38B","239.2","N","N"," ","p`áşº{²ş}tò±¿¼z","MS"," ",1022
+"dining room","SC38B","239.2","O","N"," ","åda«¾º{°}nn–$õru¿¾º{w}m","MS"," ",1022
+"NR","SC38C!","239.3!"," ","N"," "," ","MS"," ",1023
+"pantry","SC38D!","239.4(*)!","N","N"," ","p`áºntò±¿«¼","MS","CNV",1024
+"storeroom","SC38D!","239.4(*)!","N","N"," ","sto«¼º°òu¿ş«¼ºwş{m}","MS"," ",1024
+"storeroom","SC38D!","239.4(*)!","N","N"," ","åsto«¼º¹°õòu¿ş¼ºwşm","MS"," ",1024
+"NA","SC38E!"," "," ","N"," "," "," "," ",1025
+"pantry","SC39A","240.1","N","N"," ","p`á{²}ntò±¿«¼","MS"," ",1026
+"smokehouse","SC39A","240.1","N","N","""dirt floor¢","åsmoº¹kõhµ¼¹s","MS"," ",1026
+"cupboards","SC39A","240.1","N","N","used to have","k`¦½b°«¾dz","MS"," ",1026
+"dirt floor","SC39A","240.1","O","Y"," ","åd³«±¿t$õfÅoº¹","MS","INA",1026
+"cupboards","SC39B!","240.2!","N","N","""in corners¢","k`¦—¼b°«dz","MS"," ",1027
+"dish closets","SC39B!","240.2!","O","N"," ","d±«ó$k`Å·½º·«z±¿¼ts","MS","CNV",1027
+"pantries","SC39B!","240.2!","N","N"," ","p`á{²}ntò±¿«¼z","MS"," ",1027
+"closets","SC39B!","240.2!","N","N"," ","k`Å·½º·«z±¿¼ts","MS"," ",1027
+"in corners","SC39B!","240.2!","Q","Y"," ","±¿n$åk`·¼º{´}n°«z","MS","INA",1027
+"sideboard","SC39B!","240.2!","N","N"," ","åsa«¾º{°}dõbo¼º¹¼d","MS","CNV",1027
+"pantry","SC40A","241.1","N","N"," ","p`áş«{n}tò±¿«¼","MS","CNV",1028
+"back room","SC40A","241.1","O","N","""sometimes called¢","åbá«k$õr¹¿«¾º{u¼}m","MS"," ",1028
+"pantry","SC40A","241.1","N","N"," ","p`áş«{²ş}tò±¿«¼","MS"," ",1028
+"back room","SC40A","241.1","O","N","""sometimes called¢","åbá«k$õru¿½ºu¼m","MS"," ",1028
+"kitchen closet","SC40B","241.2","O","N"," ","åk`±«tó±¿¼n$õk`l¶«oz±¿¼t","MS"," ",1029
+"pantry","SC40B","241.2","N","N"," ","p`áş«²ş{n}tò±¿«¼","MS"," ",1029
+"pantry","SC41A","242.1","N","N"," ","pántr±¿","MS"," ",1030
+"pantry","SC41B","242.2","N","N","best known","p`áşº{n}tò±¿«¼","MS"," ",1031
+"supply room","SC41B","242.2","O","N"," ","s°İåpla«¾º{°}$õr¹¿«¾u¼m","MS"," ",1031
+"closet","SC41B","242.2","N","N"," ","k`l·½oz±¿¼t","MS"," ",1031
+"pantry","SC41B","242.2","N","N","best known","p`áºntò±¿¼","MS"," ",1031
+"storehouse","SC42N","N243","N","N"," ","åsto«¼¹¼õhá½ºos","MS"," ",1032
+"butler's pantry","SC42N","N243","O","N"," ","b¸«tl°«z$p`áş«º{°ş}{n}tò±¿¼","MS"," ",1032
+"pantry","SC42N","N243","N","N"," ","p`áş«ºtò±¿«¼","MS"," ",1032
+"pantry","SC42N","N243","N","N"," ","p`áş«º{°ş}{n}tò±¿¼","MS"," ",1032
+"NR","SC42M"," "," ","N"," "," "," "," ",1033
+"cupboard","SC42A","243.1","N","N"," ","k¸«b°d","MS"," ",1034
+"safe","SC42A","243.1","N","N"," ","se«º{±¿}f","MS"," ",1034
+"smokehouse","SC42A","243.1","N","N"," ","åsmo«¼º¹kõha«º¹½¼s","MS"," ",1034
+"cupboard","SC42A","243.1","N","N"," ","åk¦põbo¼º¹{°}d","MS"," ",1034
+"pantry","SC42B!","243.2!","N","N"," ","p`á«º{²}ntò±¿«¼","MS"," ",1035
+"lock closet","SC42B!","243.2!","O","N","""chock-full¢","ålŞk$õt`lŞz±¿«¼t","MS"," ",1035
+"butler's pantry","SC42B!","243.2!","O","N"," ","åb¦½tl°½z$p`á«º{²}ntò±¿«¼","MS"," ",1035
+"chock-full","SC42B!","243.2!","A","Y","""chock-full¢","åtó ¦½kõf¹¼º{°}ì","MS","INA",1035
+"pantry","SC42C!","243.3!","N","N","room","páş«º{n}tr±¿«","MS"," ",1036
+"cupboard","SC42C!","243.3!","N","N","on farm","kˆ`¸«b°d","MS"," ",1036
+"pantry","SC42C!","243.3!","N","N","room","páş{n}t{ò}±¿¼","MS"," ",1036
+"butler's pantry","SC42D!","243.4!","O","N"," ","b¸tl°z$páº{á«¾}ntò±¿½","MS"," ",1037
+"pantry","SC42D!","243.4!","N","N"," ","pá{°«}ntò±¿{±¿«}","MS"," ",1037
+"pantry","SC42D!","243.4!","N","N"," ","páº{á«¾}ntò±¿½","MS"," ",1037
+"pantry","SC42E!","243.5!","N","N"," ","p`á«{²}nt`ò±¿«¼","MS"," ",1038
+"NA","SC43A","244.1"," ","N"," "," ","MS"," ",1039
+"pantry","SC43B","244.2","N","N"," ","p`²ş½{n}tò±¿«¼","MS"," ",1040
+"storage room","SC43B","244.2","O","N"," ","åsto«¼º{¹¼}r±¿¼dú$åru¿u«¼m","MS"," ",1040
+"pantry","SC43C","244.3","N","N"," ","p`²½ntò±¿¼","MS"," ",1041
+"smokehouse","SC43C","244.3","N","N"," ","åsmoº¹kõha¾ºos","MS"," ",1041
+"pantry","SC44A","245.1","N","N"," ","p`á«{n}tò±¿¼","MS"," ",1042
+"pantry","SC44B","245.2","N","Y","[{n}]: doubtful","p`áş{n}tò±¿","MS","FDT",1043
+"closet","SC44B","245.2","N","N"," ","kˆl¶«oz±¿¼t","MS"," ",1043
+"pantry","GA1N","N246","N","N"," ","pá{°}ntò±¿«","MS"," ",1044
+"storeroom","GA1A","246.1(*)","N","N","canned goods","åsto¼ºr¹¼m","MS"," ",1045
+"pantry room","GA1A","246.1(*)","O","Y"," ","p{h}a«¾ntò±¿$ru¼ºm","MS","AUX2",1045
+"pantry","GA1A","246.1(*)","N","N"," ","p`á{°}ntò±¿«¼","MS"," ",1045
+"storeroom","GA1A","246.1(*)","N","N","canned goods","åsto¼ºr¹İ¼m","MS"," ",1045
+"storeroom","GA1A","246.1(*)","N","N","canned goods","åsto¼ºrm","MS"," ",1045
+"pantry","GA1A","246.1(*)","N","N"," ","p`a«{°}ntò±¿","MS"," ",1045
+"closet","GA1B","246.11","N","N"," ","kl·½º{°}z±¿t","MS"," ",1046
+"pantry","GA1B","246.11","N","N"," ","p`áºn'tò±¿","MS"," ",1046
+"safe","GA1B","246.11","N","N","smaller [than pantry]","seºf","MS"," ",1046
+"pantries","GA1C","246.2","N","N","""serving quarters¢","p`á{²}n'tò±¿«¼z","MS"," ",1047
+"serving quarters","GA1C","246.2","O","Y"," ","ås³½±¿½v°«n$åk`w·«º·t°«z","MS","INA",1047
+"pantry","GA1D","246.3","N","N","""serving room¢","p`á{°}n'tò±¿«¼","MS"," ",1048
+"serving room","GA1D","246.3","O","Y"," ","ås³«º±¿İv±¾î$r¹¿º{°}m","MS","INA",1048
+"NR","GA1E","246.4"," ","N"," "," ","MS"," ",1049
+"pantry","GA1F!","246.5!","N","N"," ","pá½º{°}ntr±¿½¾","MS"," ",1050
+"pantry","GA1G!","246.6!","N","N","some houses had ""elevator¢","p`áº{°}n'tò±¿«¼","MS"," ",1051
+"elevator","GA1G!","246.6!","N","Y"," ","²l°åveº{±¿}t°¾","MS","INA",1051
+"butler's pantry","GA1H!","246.7!","O","N"," ","åb¦½tl°¾z$õp`áş«º{n}tò±¿«¼","MS"," ",1052
+"pantry","GA1H!","246.7!","N","N"," ","p`á«º{²}ntò±¿«¼","MS","CNV",1052
+"pantry","GA2N","N247","N","N"," ","p`á½{°}n'tò±¿«¼","MS"," ",1053
+"pantry","GA2A","247.1","N","N"," ","p`á½º{°}ntò±¿«¼","MS"," ",1054
+"pantry","GA2A","247.1","N","N"," ","p`á½{°}ntò±¿«¼","MS"," ",1054
+"pantry","GA2B","247.2","N","N"," ","p`áº{°}n'ttò±¿«¼","MS"," ",1055
+"pantry","GA3A","248.1","N","N"," ","p{h}a¾ntr±¿½","MS"," ",1056
+"pantry","GA3B","248.2","N","N"," ","p`á{°}n'tò±¿«¼","MS"," ",1057
+"sugar house","GA3B","248.2","O","N"," ","åó¹¼g°$õh¥¼os","MS"," ",1057
+"smokehouse","GA3B","248.2","N","N"," ","åsmo¼ºkõh¥¼os","MS"," ",1057
+"pantry","GA4N","N249","N","N"," ","pa¾ntò±¿","MS"," ",1058
+"pantry","GA4A","249.1","N","N"," ","pá½{°}n'tò±¿¼","MS"," ",1059
+"butler's pantry","GA4A","249.1","O","Y"," ","åb¸tl°«z$õpá½{°}n'tò±¿¼","MS","HRD",1059
+"storeroom","GA4A","249.1","N","N","more for meats","åsto«º°õr¹¼m","MS"," ",1059
+"pantry","GA4B","249.2","N","N"," ","pá½{°}n'tò±¿","MS"," ",1060
+"butler's pantry","GA4B","249.2","O","N","not locked","åb¸«tl°«z$õpá½{°}n'tò±¿«¼","MS"," ",1060
+"pantry","GA4C!","249.3!","N","N"," ","pá½{°}n'tò±¿","MS"," ",1061
+"storeroom","GA4C!","249.3!","N","N"," ","åsto«ºõr¹İ¼m","MS"," ",1061
+"safe","GA4C!","249.3!","N","N","leftovers, etc.","se«{°}f","MS"," ",1061
+"lock pantry","GA4C!","249.3!","O","N","heavy provisions","ål¶k$pá½{°}n'tò±¿","MS"," ",1061
+"pantry","GA5A","250.1","N","N"," ","pá½{°}ntr±¿«¼","MS"," ",1062
+"pantry","GA5A","250.1","N","N"," ","pá½{°}n'tr±¿İ«¼","MS"," ",1062
+"pantry","GA5B","250.2","N","N"," ","pá½{°}n'tò±¿«¼","MS"," ",1063
+"pantry","GA5C","250.3","N","N"," ","páº{°}nttr±¿«¼","MS"," ",1064
+"pantry","GA5D!","250.4!","N","N"," ","pá½{°}ntr±¿«¼","MS"," ",1065
+"pantries","GA5D!","250.4!","N","N","""breakfast in them¢","pá{°}n'tò±¿İz","MS","CNV",1065
+"breakfast in them","GA5D!","250.4!","O","Y"," ","åbr³«{°}kf±¿s$±¾m–","MS","INA",1065
+"safe","GA5E!","250.5!","N","N","for storing leftovers, food and ""milk¢","se«º{°}f","MS"," ",1066
+"pantry","GA5E!","250.5!","N","N"," ","pá½{°}n'tr±¿«¼","MS"," ",1066
+"milk","GA5E!","250.5!","N","Y"," ","m±¿¼lk","MS","INA",1066
+"safe","GA6A","251.1","N","N"," ","seº{°}f","MS"," ",1067
+"pantry","GA6B!","251.2!","N","N","groceries","pá½{°}ntò±¿«¼","MS"," ",1068
+"closet","GA7","256","N","N"," ","kÅ·½º·l±¿¼t","MS","SIC",1069
+"pantry","GA7","256","N","Y"," ","pá½{°}ntò±¿«¼","MS","SUG",1069
+"pantry","GA7","256","N","Y"," ","pá½{°}nttò±¿«¼","MS","SUG",1069
+"pantry","GA8A","257.1","N","N"," ","pá{°}ntò±¿«¼","MS"," ",1070
+"shelves","GA8A","257.1","N","Y"," ","ó²«{©}vz","MS","INA",1070
+"cupboard","GA8B","257.2","N","N"," ","k¸«b´İd","MS"," ",1071
+"pantry","GA8B","257.2","N","N"," ","páşº{°ş}ntò±¿«¼","MS"," ",1071
+"shelves","GA9A","257A.1","N","Y"," ","ó²{©}vz","MS","INA",1072
+"safe","GA9A","257A.1","N","N","in kitchen; ""shelves¢","se½±¿f","MS"," ",1072
+"NR","GA9B","257A.2"," ","N"," "," ","MS"," ",1073
+"pantry","GA10A","258.1","N","N"," ","pá«ntò±¿","MS"," ",1074
+"smokehouse","GA10B","258.2","N","N","for groceries","åsmo¼ºkõhµ«os","MS"," ",1075
+"safe","GA11N","N258A","N","N","= cupboard","se{±¿}f","MS"," ",1076
+"pantry","GA11N","N258A","N","N"," ","p`á«ºn'tò±¿","MS"," ",1076
+"milk cubby","GA11N","N258A","O","N","= cupboard","åm±ìk$õk¸«¼b±¿","MS"," ",1076
+"sugar house","GA12A","259.1","O","N"," ","åó¹¼g°¾$õhá½¹s","MS"," ",1077
+"pantry","GA12A","259.1","N","N"," ","p`áº{°}ntò±¿«¼","MS"," ",1077
+"pantry","GA12B!","259.2(.3)!","N","N"," ","p`áş{²ş}'tò±¿"," "," ",1078
+"storeroom","GA13A","260.1","N","N"," ","sto«ºro«ºm","MS"," ",1079
+"pantry","GA13A","260.1","N","N"," ","pá½{°}ntr±¿½","MS"," ",1079
+"grocery closet","GA13B!","260.2!","O","N"," ","ågro¼ºsr±¿«¼$õkl·½º{°}z±¿¼t","MS"," ",1080
+"pantry","GA13B!","260.2!","N","N"," ","pá½{°}ntò±¿«¼","MS"," ",1080
+"cupboard","GA13B!","260.2!","N","N"," ","k¸½b°«{d}","MS","CNV",1080
+"dish pantry","GA13B!","260.2!","O","N"," ","d±«{°}ó$åpá½{°}ntò±¿«¼","MS"," ",1080
+"NR","GA14A","261.1"," ","N"," "," ","MS"," ",1081
+"home-made safes","GA14B","261.3","O","N"," ","åho¼ºmõmeº{±¿}d$åseº{±¿}fs","MS"," ",1082
+"storeroom","GA14C","261.2","N","N","separate","åsto¼º°õru¿º{w}m","MS","CNV",1083
+"meat house","GA14C","261.2","O","N"," ","åmiºjt$õha«¾º°—s","MS"," ",1083
+"pantry","GA14C","261.2","N","N","in kitchen","p`á{²}n'tò±¿«¼","MS"," ",1083
+"wood house","GA14C","261.2","O","N"," ","åw¹¼{°}d$õha«¾ºo—¼s","MS"," ",1083
+"storeroom","GA14C","261.2","N","N","separate","åsto¼º¹õru¿º{w}m","MS"," ",1083
+"pantry","GA15A","262.1","N","N"," ","páºntò±¿½","MS"," ",1084
+"shelf","GA15B","262.2","N","N","to set things upon","s²«lf","MS"," ",1085
+"smokehouse","GA15B","262.2","N","N","separate","åsmo¼º{¹¼}kõha«°—s","MS"," ",1085
+"smokehouse","GA16A","263.2","N","N"," ","åsmo¼ºkõha«°—s","MS"," ",1086
+"pantry","GA16A","263.2","N","Y","later","pá½{°}n'tò±¿«¼","MS","NEW",1086
+"butler's storeroom","GA16B","263.1","O","N"," ","åb¦½{°}tl°«z$åsto¼õr¹¼m","MS"," ",1087
+"smokehouse","GA16B","263.1","N","N"," ","åsmo¼º¹kõha«¾o¼s","MS"," ",1087
+"storeroom","GA16B","263.1","N","N","in house","åsto¼õr¹¼m","MS"," ",1087
+"pantry","GA16C","263.21","N","N"," ","p`áş«{²ş}n'tò±¿","MS"," ",1088
+"pantry","GA16C","263.21","N","N"," ","p`áş«{²ş}n'tò±¿«","MS"," ",1088
+"butler's pantry","GA16D!","263.3!","O","N"," ","åb¦½tl°«z$õpá{²}ntò±¿«¼","MS"," ",1089
+"lock pantries","GA16D!","263.3!","O","N"," ","ål¶”¼k$õpá«{²}n'tò±¿¼z","MS"," ",1089
+"smokehouse","GA17N","N264","N","N"," ","smo¹¿kha«¹İs","MS"," ",1090
+"pantry","GA17N","N264","N","N"," ","p`á«n'tò±¿","MS"," ",1090
+"pantry","GA17N","N264","N","N"," ","p`áş«{²ş}n'tò±¿","MS"," ",1090
+"pantry","GA17","264","N","N"," ","p`á«{²}n'tò±¿«","MS"," ",1091
+"pantry","GA18A","264A.1","N","N"," ","p`áº{°}n'tò±¿","MS"," ",1092
+"pantry","GA18A","264A.1","N","N"," ","p`á«n'tò±¿","MS"," ",1092
+"pantry","GA18B","264A.2","N","N"," ","p`á«{²}n'tò±¿","MS"," ",1093
+"syrup house","GA19A","265.1","O","N"," ","ås´¾ºp$õha«¾º°s","MS"," ",1094
+"smokehouse","GA19A","265.1","N","N"," ","åsmo¼ºkõha«¾°—s","MS"," ",1094
+"grocery pantry","GA19A","265.1","O","N"," ","ågr‡o¼º¹¼sr±¿«¼$õpá{°}n'tò±¿«¼","MS"," ",1094
+"grocery room","GA19B","265.2","O","N"," ","ågr‡o¼º¹¼sr±¿«¼$õru¿ºm","MS"," ",1095
+"smokehouse","GA20A","266.1","N","Y"," ","åsmo¼º{¹¼}kõha¾¹s","MS","OLD",1096
+"buffet","GA20A","266.1","N","N","no special room","åb¦½{°}õfeº","MS"," ",1096
+"sideboard","GA20A","266.1","N","Y"," ","åsa«¾º°dõbo«º°d","MS","HRD",1096
+"pantry","GA20B","266.2","N","Y","""some folks call it¢","páº{°}ntò±¿¼","MS","HRD",1097
+"cupboard","GA20B","266.2","N","N"," ","k¦½{°}b´«d","MS"," ",1097
+"pantry","GA21A","267.1","N","N"," ","p`á«{²}n'tò±¿«","MS"," ",1098
+"pantry","GA21B","267.2","N","N"," ","p`á{²}nt`ò±¿«¼","MS"," ",1099
+"safe","GA21B","267.2","N","N","for dishes","seº±¾ft","MS","SIC",1099
+"closet","GA22A","268A.1","N","N","same [as pantry]","kl·½·z±¿d","MS"," ",1100
+"pantry","GA22A","268A.1","N","N","same [as closet]","p`áş«{²ş}ntò±¿«¼","MS"," ",1100
+"pantry","GA22B","268A.2","N","N"," ","pá{°}n'tò±¿«¼","MS"," ",1101
+"pantry","GA23A","268.1","N","N"," ","pá½{°}n'tò±¿«¼","MS"," ",1102
+"pantry","GA23B","268.11","N","N"," ","p`á«{°}n'tò±¿","MS"," ",1103
+"pantry","GA23C","268.2","N","N"," ","p`áş«{²ş}tò±¿","MS"," ",1104
+"butler's pantry","GA23D!","268.3!","O","N"," ","åb¦½tl°«z$õpáº{°}ntò±¿«¼"," "," ",1105
+"lock pantry","GA23D!","268.3!","O","N","kitchen","ålµ¾{°}k$õpáº{°}ntò±¿«¼"," "," ",1105
+"storeroom","GA23E!","268.4!","N","N"," ","åsto¼°õru¿º{u¿«}m","MS"," ",1106
+"pantry","GA23E!","268.4!","N","N","specially for foods","p{h}áş«º{n}tò±¿«","MS"," ",1106
+"pantry","GA23F!","268.5!","N","N"," ","p`áş«{²ş}'tò±¿","MS"," ",1107
+"pantry","GA24N","N269","N","N"," ","p`áşn'tò±¿¼","MS"," ",1108
+"pantry","GA24A","269.1","N","N"," ","pántò±¿","MS"," ",1109
+"smokehouse","GA24B","269.2","N","N"," ","åsmo¼º{¹¼}kõhµ«os","MS"," ",1110
+"safe","GA24B","269.2","N","N","in kitchen","se{±¿}f","MS"," ",1110
+"pantry","GA25N","N269A","N","N"," ","p`á{°}n'tò±¿","MS"," ",1111
+"pantry","GA26","270A","N","N","for dry goods","p`áºnttò±¿«","MS"," ",1112
+"smokehouse","GA26","270A","N","N","for meat, lard","åsmo¼{¹¼}kõha«¹s","MS"," ",1112
+"pantry","GA27!","270!","N","N"," ","p`ántr±¿","MS"," ",1113
+"pantry","GA28","271a","N","N"," ","p`ántò±¿","MS"," ",1114
+"closet","GA29A","271.1","N","N","in corner of kitchen","kl·½¼º°z±¿¼t","MS"," ",1115
+"meat house","GA29A","271.1","O","N","separate","åmiºt$õhµ«¾{°—}s","MS"," ",1115
+"smokehouse","GA29A","271.1","N","N"," ","åsmo¼ºkõhµ«¾os","MS"," ",1115
+"dairy","GA29B","271.2","N","Y"," ","de«º{±¿}r±¿«¼","MS","OLD",1116
+"pantry","GA29B","271.2","N","Y"," ","pá{²}ntò±¿","MS","NEW",1116
+"safe","GA30A","272.1(*)","N","N"," ","seº{±¿}f","MS"," ",1117
+"smokehouse","GA30A","272.1(*)","N","N"," ","åsmo¼¹kõha«¾¹¼s","MS"," ",1117
+"pantry","GA30A","272.1(*)","N","N","canned fruit and sugar","p`áº{°}ntò±¿«¼","MS"," ",1117
+"cupboard","GA30A","272.1(*)","N","N"," ","k`¦—¼b°«d","MS"," ",1117
+"pantry","GA30B","272.2(*)","N","N"," ","p`áşº{°ş}ntò±¿¼","MS"," ",1118
+"cupboard","GA30B","272.2(*)","N","N"," ","k`¦½{°}b°«d","MS"," ",1118
+"pantry","GA30C!","272.3!","N","N"," ","p`áş«{²ş}tò±¿«","MS"," ",1119
+"pantry","GA30D"," ","N","N"," ","p`á«º{°}ntò±¿«¼"," "," ",1120
+"cupboard","GA30D"," ","N","N"," ","k¦½{°}b°«d"," "," ",1120
+"kitchen closet","GA30D"," ","O","N"," ","åk`±«{°}tó±¿¼n$õk`Å¶«{·½}z±¿¼t"," "," ",1120
+"NA","GA30E"," "," ","N"," "," "," "," ",1121
+"pantry","GA31","272A","N","N"," ","p`á«ntò±¿","MS"," ",1122
+"pantry","GA32","272B","N","N"," ","páºn'tò±¿","MS"," ",1123
+"closet","GA32","272B","N","N"," ","kÅµ¾z±¿t","MS"," ",1123
+"safe","GA32","272B","N","N"," ","se{±¿}f","MS"," ",1123
+"pantry","GA33A","272C1","N","N"," ","p`á«{²}n'tò±¿","MS"," ",1124
+"cabinet","GA33A","272C1","N","N"," ","ká«b±¿n±¿t","MS"," ",1124
+"pantry","GA33B","272C2","N","N"," ","p`á«n'tò±¿","MS"," ",1125
+"storeroom","GA34N","N273","N","N"," ","åsto¼º{¹¼}õru¿ºm","MS"," ",1126
+"pantry","GA34A","273.1","N","N"," ","páşº{n}tò±¿","MS"," ",1127
+"smokehouse","GA34B","273.2","N","N"," ","åsmo¼º¹¼kõha«o¼s","MS"," ",1128
+"pantries","GA34B","273.2","N","N","thing newer than boyhood","p`á{²}n'tò±¿«¼z","MS"," ",1128
+"kitchen closet","GA35N","N273A","O","N"," ","åk±tó±¿n$õkl¶«oz±¿t","MS"," ",1129
+"pantry","GA36N","N274A","N","N"," ","p`á«{²}n'tò±¿","MS"," ",1130
+"pantry","GA37N","2N274","N","N"," ","p`á«ntò±¿","MS"," ",1131
+"pantry","GA37M!","NC274","N","N"," ","p`ántò±¿«","MS"," ",1132
+"cupboard","GA37A","274.1","N","N"," ","k`¦½b´d","MS"," ",1133
+"wheat room","GA37A","274.1","O","N"," ","åhwiº{j}t$õru¿º{w}m","MS"," ",1133
+"safe","GA37B","274.2","N","N","for food","seº±f","MS"," ",1134
+"pantry","GA37B","274.2","N","N"," ","p`á«²n'tò±«¾","MS"," ",1134
+"cupboard","GA37B","274.2","N","N","for food","k¦½b°«d","MS"," ",1134
+"pantry","GA37C","274.21","N","N"," ","p`áş«{²ş}'tò±¿","MS"," ",1135
+"pantry","GA37D!","274.7!","N","N"," ","p`á«{²}n'tò±¿","MS"," ",1136
+"pantry","GA37D!","274.7!","N","N"," ","p`á«{²ş}nİtò±¿","MS"," ",1136
+"pantry","GA37E!","274.8!","N","N"," ","p`áşº{°ş}ntò±¿","MS"," ",1137
+"pantry","GA37F!","274.3!","N","N"," ","p`áº{²}nt`ò±¿«¼","MS"," ",1138
+"pantry","GA37F!","274.3!","N","N"," ","p`áº{²}n{t}t`ò±¿«¼","MS"," ",1138
+"pantry","GA37G!","274.4!","N","N"," ","p`á{²}n'tò±¿«¼","MS"," ",1139
+"cupboard","GA37G!","274.4!","N","N"," ","k¦½b°«d","MS"," ",1139
+"pantry","GA37H!","274.5!","N","N"," ","p`á{²}n'tò±¿«¼","MS"," ",1140
+"pantry","GA37I!","274.6!","N","N"," ","p`á«²ntr±¿«","MS"," ",1141
+"butler's pantry","GA37I!","274.6!","O","N"," ","åb¸«tl°«z$õpá«{²}n'tò±¿","MS"," ",1141
+"butler's pantry","GA37I!","274.6!","O","N"," ","åb¸«tl°«z$õpá«{²}nttò±¿«¼","MS"," ",1141
+"pantry","GA38","275","N","N","room off of the kitchen for storing canned goods","pá«{²}n'tò±¿","MS"," ",1142
+"pantry","GA39","275A","N","N"," ","p`á«{²}n'tò±¿","MS"," ",1143
+"closet","GA39","275A","N","N"," ","kl¶«·«z±¿t","MS"," ",1143
+"pantry","GA40","276A","N","N"," ","p`á«ºntò±¿«","MS"," ",1144
+"pantry","GA40","276A","N","N"," ","p`á«ºn'tò±¿","MS"," ",1144
+"NR","GA41","276B"," ","N"," "," ","MS"," ",1145
+"safe","GA42A","276.1","N","N"," ","se«º{±¿}f","MS"," ",1146
+"cupboard","GA42A","276.1","N","N"," ","k¦½b´«t","MS","SIC",1146
+"smokehouse","GA42B","276.2","N","N"," ","åsmo¼º¹¼kõhµ«°s","MS"," ",1147
+"pantry","GA43","277","N","N"," ","pántò±¿","MS"," ",1148
+"smokehouse","GA44A","278.1","N","N"," ","åsmo¼º{¹¼}ká½os","MS"," ",1149
+"dining room","GA44A","278.1","O","Y"," ","ådµº±¿n±¿¼î$õru¿º{w}m","MS","INA",1149
+"table room","GA44A","278.1","O","Y"," ","åt`e±¿¼bl$õru¿º{w}m","MS","INA",1149
+"cupboard","GA44B","278.2","N","N","homemade","k`¦½b´«d","MS"," ",1150
+"meat bench","GA44C","278.3","O","N"," ","åmiº{j}t$õbá{²}ntó","MS"," ",1151
+"meat box","GA44C","278.3","O","N"," ","åmiº{j}t$õbŞ{°}ks","MS"," ",1151
+"cupboard","GA44C","278.3","N","N"," ","k`¦½b´«d","MS"," ",1151
+"cabinet","GA44D","278.4","N","N"," ","k`á{²}b±¿n±¿¼t","MS"," ",1152
+"storage room","GA44D","278.4","O","N","canned goods","åsto¼º¹¼r±¿dú$õru¿º{w}m","MS"," ",1152
+"cupboards","GA44E","278.5","N","Y"," ","k¸«b´dz","MS","OLD",1153
+"pantry","GA44E","278.5","N","N"," ","p`á«{²}n'tò±¿","MS"," ",1153
+"safes","GA44E","278.5","N","Y"," ","se{±¿}fs","MS","NEW",1153
+"pantry","FL1","252","N","N"," ","pá½{°}n'tò±¿","MS"," ",1154
+"smokehouse","FL1","252","N","N"," ","åsmo¼kõµ«os","MS"," ",1154
+"smokehouse","FL2A","253.1","N","N"," ","åsmo¼ºkõha«¾°—s","MS"," ",1155
+"storerooms","FL2A","253.1","N","Y"," ","åstoº°õr¹—¼{°}ms","MS","OLD",1155
+"pantries","FL2A","253.1","N","N"," ","p`á{²}n'tò±¿¼z","MS"," ",1155
+"pantry","FL2B","253.2","N","N"," ","p`á«{²}n'tò±¿{±¿«}","MS"," ",1156
+"storeroom","FL2C!","253.3!","N","N"," ","åstoº°õr¹¼m","MS"," ",1157
+"cupboard","FL3A","254.1","N","N"," ","k`¦½b°«d","MS"," ",1158
+"pantry","FL3A","254.1","N","N"," ","p`á{²}n'tò±¿«¼","MS"," ",1158
+"pantry","FL3B!","254.2!","N","N"," ","pá{²}ntò±¿«¼","MS"," ",1159
+"safe","FL3B!","254.2!","N","N","cabinet in kitchen","se«º{°}f","MS","CNV",1159
+"pantry","FL4","254A","N","N"," ","p`á«º{°}n'tò±¿","MS"," ",1160
+"pantry","FL4","254A","N","N"," ","p`á«º{°}n'tò±¿«","MS"," ",1160
+"smokehouse","FL5A","255.1","N","N"," ","åsmo¼kõhµ«¼os","MS"," ",1161
+"pantry","FL5A","255.1","N","N","in town","pá{²}n'tò±¿«¼","MS"," ",1161
+"pantry","FL5B","255.2","N","N"," ","p`áº{²}n'tò±¿«¼","MS"," ",1162
+"","","","","","","","","",

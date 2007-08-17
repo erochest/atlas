@@ -1,0 +1,113 @@
+stone (cl32#1.asc)
+
+Items
+=====
+                       balance rock    1
+                                bat    1
+                              brick    2
+                              chuck    1
+                              chunk    9
+                       chunk a rock    3
+                            chunked    7
+                     chunked a rock    8
+                      chunked at me    1
+                 chunked at me here    1
+                         chunked it    3
+                         either one    1
+                              fling    5
+                       fling a rock    2
+                      fling a stone    1
+                       flung a rock    1
+                      flung a stone    1
+                           flung it    1
+                           he chunk    1
+                       he chunk 'em    1
+                    he chunk a ball    1
+                   he chunk a stone    2
+                 he chunk the brick    1
+                           he fling    1
+                    he fling a ball    1
+                    he fling a rock    1
+                   he fling a stone    4
+                       he fling him    2
+                        he fling it    1
+                 he fling the stone    1
+                   he pitch a stone    1
+              he throw a rock after    1
+nearest thing you can put your hand on    1
+                                 NR    2
+                   picked up a rock    1
+                      piece of wood    1
+                            pitched    1
+                    pitched a stone    1
+                         pitched it    2
+                               rock   14
+                              rocks    3
+                          sailed it    1
+                       slung a rock    1
+                              stone    7
+                              threw   11
+                      threw a stone    2
+                         threw away    1
+                           threw it    3
+                 threw it after him    1
+                        threw it at    1
+                              throw    4
+                       throw a rock    2
+                      throw a stone    1
+                     throw that out    1
+                     throw the rock    1
+                            throwed   14
+                          throwed a    1
+                     throwed a rock    5
+                    throwed a stone    3
+                     throwed at him    3
+                       throwed away    1
+                         throwed it    1
+                       throwed rock    2
+                      throwed rocks    1
+                           to throw    1
+
+Pronunciations
+==============
+                                  "    5
+
+
+
+L: What might a bad boy throw at a dog?  You say he _____ a stone at the 	dog.
+M: Two boys are walking across a field and one of them saw a crow in the 	field eating the farmer's corn.  He reached down and picked up a _____ to chase the crow off.  When he got to the farm, he said to the 	farmer, "I picked up a _____ and ______ it at the crow."
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The verbs here were recorded in the context "He threw a stone at the dog." 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 32#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 32 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+32#P		
+32#P		32#4
+32#1a		32#1
+32#1b		32#1
+32#2		32#2
+32#3		32#3a
+32#4		32#3b
+32#5		32#5
+32#6		32#6
+32#7		32#7

@@ -1,0 +1,102 @@
+to tell (cg80#5.asc)
+
+Items
+=====
+                                ***    1
+                             for do    1
+                   for drag to feed    1
+                            for eat    1
+                             for go    1
+                        for hang me    1
+                           for tell    4
+                        for tell me    2
+                             for to    2
+            for to raise some money    1
+                        for to tell   14
+                             gossip    1
+      he came over tell me the news    1
+          he come for tell about it    1
+                he come for tell me    5
+       he come for tell me about it    1
+             he come for to tell me    1
+           he come over for tell me    2
+          he come over for tell you    1
+            he come over to tell me    1
+                 he come to tell me    7
+                he come to tell you    1
+                               I be    1
+                             I will    2
+                            I'll be    1
+                           I'll try    1
+                        in order to    2
+                          new money    1
+                                 NR    4
+                           ought to    1
+                              shall    1
+                        take a make    1
+                           to catch    1
+                       to clean off    1
+                         to do that    1
+                            to draw    1
+                   to fight for you    1
+                          to gossip    1
+                           to grind    1
+                            to heat    1
+                    to help you out    1
+                            to hold    1
+                         to keep it    1
+                           to match    1
+                      to pull tight    1
+                             to run    1
+                             to say    1
+                            to seen    1
+                         to sharpen    1
+                           to sleep    1
+                            to talk    1
+                            to tell    9
+                         to tell it    2
+                         to tell me    1
+                        to tell you    2
+                           to visit    1
+                            we glad    1
+                              we'll    1
+                           we'll be    1
+                           we'll go    1
+                               will    1
+
+Pronunciations
+==============
+                                  "    1
+
+
+
+
+M: She's hardly got the news, when she came right over _____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 80#5, the following responses are inappropriate (from page 81): "I'll be," "will," "I be," "we glad," "for drag to feed," "we'll go," "take a make" [transcription not legible], "I will," "we'll," "we'll be," and "shall."  The following responses are also marked inappropriate: "to draw," "to pull tight," "new money," "to fight for you," "to clean off," "in order to," and "to hold."  Marginalia is inappropriate as well.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 80 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook		Preliminary Worksheets
+----------------------------------
+80#Pa			80#7
+80#Pb
+80#Pc			80#2
+80#1			80#1
+80#2			80#3
+80#3 (no question)
+80#4			80#4
+80#5			80#5
+			80#6 (no question)

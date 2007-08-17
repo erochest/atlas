@@ -1,0 +1,13 @@
+fog (cp6#8.asc)
+
+Items
+=====
+                       condensation    1
+                                fog   54
+                              foggy    1
+                          heavy fog    1
+                         it's a fog    1
+                          light fog    1
+                               mist    2
+                                 NR    9
+

@@ -1,0 +1,9 @@
+yesterday (cp3#5.asc)
+
+Items
+=====
+I didn't went to the city yesterday    1
+                                 NR    8
+                          yesterday   76
+                  yesterday evening    1
+

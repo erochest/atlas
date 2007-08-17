@@ -1,0 +1,45 @@
+<!--wt:default-->
+  <p>Please specify a valid community to view.</p>
+<!--wt:/default-->
+<!--wt:community-->
+  <p><b>Community $$name$$, $$state$$ ($$code$$)</b></p>
+
+  <script language="JavaScript"><!--
+    function field(f) {
+      window_handle = window.open(
+        '$$baseurl$$/information/fields.html?project=$$project$$&field=Communities.' + f,
+        'field'
+        );
+      window_handle.focus();
+      return false;
+    }
+
+  //--></script>
+
+  <table border="0" width="80%">
+  <!--wt:cominfo-->
+    <tr>
+    <th><a href="$$baseurl$$/information/fields.html?project=$$project$$&field=Communities.$$field$$"
+           onClick="return field('$$field$$');">$$field_title$$</a></th>
+    <td><a href="browse.html?left=Communities.$$field$$&op=EQ&right=$$value$$"
+           onClick="return browse('Communities.$$field$$', '$$value$$');">
+           $$description$$</a></td>
+    </tr>
+  <!--wt:/cominfo-->
+  </table>
+
+  <p><b>Members</b></p>
+
+  <ul>
+  <!--wt:member-->
+    <li><a href="browse.html?left=Informants.infid&op=EQ&right=$$infid$$"
+           onClick="return browse('Informants.infid', '$$infid$$')">
+    $$informid$$</a></li>
+  <!--wt:/member-->
+  </ul>
+
+  <p>Clicking on one of the community information labels or one of the
+  community members will filter the main window, just as if you'd clicked on
+  that value in the main window.</p>
+
+<!--wt:/community-->

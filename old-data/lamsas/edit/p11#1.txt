@@ -1,0 +1,1501 @@
+"shut the door","NY1","50","E","N"," "," ","Û∏t$‰∞$doΩ∞","MS",1
+"shut the door","NY2A","51.1","E","N"," "," ","Û≤t$‰∞$do∞","MS",2
+"shut the door","NY2B","51.2","E","N"," "," ","Û∏t$‰∞$d∑´∫∞","MS",3
+"shut the door","NY2C","51.3","E","N"," "," ","Û∏t$‰∞$doΩ∫{∞}","MS",4
+"shut the door","NY3A","401","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",5
+"shut the door","NY3B","403","E","N"," "," ","Û∏´ºt$‰è∞$d∑∫∞é","MS",6
+"shut the door","NY3C","402","E","N"," "," ","Û∏ºt$‰∞$d∑∫¥","MS",7
+"shut the door","NY3D","404","E","N"," "," ","Û∏t$‰∞$d∑∫∞é","MS",8
+"shut the door","NY4A","405","E","N"," "," ","Û∏t$‰è∞$d∞´∞é","MS",9
+"shut the door","NY4A","405","E","N"," "," ","Û∏t$‰è∞$d∑∞","MS",9
+"shut the door","NY4B","407","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞","MS",10
+"shut the door","NY4C","408","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",11
+"shut the door","NY5A","409","E","N"," "," ","Û∏´ºt$t∞$d∑´∫∞","MS",12
+"shut the door","NY5B","410","E","N"," "," ","Û∏ºt$‰è∞$d∑:∞","MS",13
+"shut the door","NY5C","411","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞","MS",14
+"shut the door","NY5D","412","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",15
+"shut the door","NY5E","413","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",16
+"shut the door","NY5F","414","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞","MS",17
+"shut the door","NY5G","415","E","N"," "," ","Û∏t$t∞$d∑:∞","MS",18
+"shut the door","NY5H!","416!","E","N"," "," ","Û∏t$‰∞$d∑:∞","MS",19
+"shut the door","NY5I!","417!","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞é","MS",20
+"shut the door","NY6A","418","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞","MS",21
+"shut the door","NY6B","419","E","N"," "," ","Û∏t$‰∞$d∑∫∞","MS",22
+"shut the door","NY7A","420","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞","MS",23
+"shut the door","NY7B","421","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",24
+"shut the door","NY7C","422","E","N"," "," ","Û∏t$‰è∞$d∑´∫∞","MS",25
+"shut the door","NY7D","423","E","N"," "," ","Û∏Ωt$‰è∞$d∑Ω∫∞","MS",26
+"shut the door","NY7E","424","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",27
+"shut the door","NY7F","425","E","N"," "," ","Û∏Ωt$‰è∞$d∑∫∞","MS",28
+"shut the door","NY7G","426","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",29
+"shut the door","NY7H","427","E","N"," "," ","Û∏të$‰è∞$d∑∫∞","MS",30
+"shut the door","NY7I","428","E","N"," "," ","Û∏t$‰∞$d∑:∞","MS",31
+"shut the door","NY7J!","429!","E","N"," "," ","Û∏t$‰∞$d∑∫∞","MS",32
+"shut the door","NY7K!","430!","E","N"," "," ","Û∏'t$‰∞$d∑∫∞","MS",33
+"shut the door","NY7L!","431!","E","N"," "," ","Û∏t$‰è∞$d∑:∞","MS",34
+"shut the door","NY7M!","432!","E","N"," "," ","Û∏t$‰∞$d∑∫∞","MS",35
+"shut the door","NY8","432b","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",36
+"shut the door","NY9A","432c","E","N"," "," ","ıÛ∏t$‰è∞$Âd∑¥","MS",37
+"shut the door","NY9B","433","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",38
+"shut the door","NY9C","434","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",39
+"shut the door","NY10A","435","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",40
+"shut the door","NY10B!","436!","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",41
+"shut the door","NY11","438","E","N"," "," ","Û∏ºt$‰è∞$d∑¥","MS",42
+"shut the door","NY12A","439(*)","E","N"," "," ","ıÛ∏t$‰∞$Âdo∫¥","MS",43
+"shut","NY12A","439(*)","V","N"," ","CNV","Û≤t","MS",43
+"shut the door","NY12A","439(*)","E","Y"," ","AUX/SIC","Û≤t$t∞$do∫¥","MS",43
+"shut the door","NY12B","440","E","N"," "," ","Û∏'t$‰∞$d∑´¥","MS",44
+"shut the door","NY12C!","441!","E","N"," "," ","Û∏ºt$‰è∞$doΩ∫∞é","MS",45
+"shut the door","NY13A","443","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",46
+"shut the door","NY13B!","444!","E","N"," "," ","Û∏Ωt$‰è∞$d∑∫∞","MS",47
+"shut the door","NY14A","445","E","N"," "," ","Û∏ºt$‰è∞$doΩ¥","MS",48
+"shut the door","NY14B","446","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",49
+"shut the door","NY15A","447","E","N"," "," ","Û∏t$‰∞$doΩ∫¥","MS",50
+"shut the door","NY15B","448","E","N"," "," ","Û∏ºt$‰è∞$doΩ¥","MS",51
+"shut the door","NY16A","449","E","N"," "," ","Û∏t$‰è∞$d∑´∫∞","MS",52
+"shut the door","NY16B","450","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",53
+"shut the door","NY17A","451(*)","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",54
+"close the door","NY17A","451(*)","E","Y"," ","AUX","kÏo∫{π}z$‰∞$doΩ¥","MS",54
+"shut the door","NY17B","452","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",55
+"shut the door","NY18A","453","E","N"," "," ","Û∏t$‰è∞$do¥","MS",56
+"shut the door","NY18B","454","E","N"," "," ","Û∏t$‰∞$d∑´¥","MS",57
+"shut the door","NY18C!","455!","E","N"," "," ","Û∏t$‰∞$d∑∫∞","MS",58
+"shut the door","NY19","456","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",59
+"shut the door","NY20A","457","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",60
+"shut the door","NY20B","458","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",61
+"shut the door","NY21","459","E","N"," "," ","Û∏t$t∞$doΩ¥","MS",62
+"shut the door","NY22","460","E","N"," "," ","Û∏Ωt$‰∞$doΩ¥","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"shut the door","NY23B","462a","E","N","cf. ""shut down¢","CNV","ıÛ∏Ωt$‰∞$Âdoéº¥","MS",65
+"shut down","NY23B","462a","E","N"," "," ","ıÛ∏ΩÁ$Âd·Ωæ∫πn","MS",65
+"shut the door","NY23C","462b","E","N"," "," ","ıÛ¶Ωt$‰∞$Âdoéº¥","MS",66
+"shut the door","NY24A","463","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",67
+"shut the door","NY24B!","464!","E","N"," "," ","Û∏t$‰∞$doΩ¥","MS",68
+"shut the door","NY25A","465","E","N"," ","CNV","ıÛ∏Ωt$‰∞$Âdoé¥","MS",69
+"shut","NY25A","465","V","N"," ","CNV","Û•æt","MS",69
+"shut the door","NY25B","466","E","N"," ","CNV","Û∏Ωt$‰∞$Âdoéº¥","MS",70
+"shut the door","NY26A","467","E","N"," ","CNV","Û≤t$‰∞$Âdoéº¥","MS",71
+"shut the door","NY26B","468","E","N"," "," ","Û∏ºt$‰∞$doé¥","MS",72
+"close the door","NY26B","468","E","N"," "," ","ÂkÏoºπºz$‰∞$ıdµé¥","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"shut the door","NY27A","470","E","N"," ","CNV","ıÛ∏Ωt$‰±ø$Âdoé¥","MS",74
+"door","NY27B","471","N","Y"," ","INA","doéΩ¥","MS",75
+"shut the door","NY27C","472","E","N"," ","CNV","ıÛ∏Ωt$‰∞$ÂdoéΩ¥","MS",76
+"shut the door","NY28A","473a","E","N"," "," ","Û∏Ωt$‰±ø$Âdoé¥","MS",77
+"shut the door","NY28B","473b(*)","E","N"," "," ","ıÛ∏Ωt$‰∞$Âdoé∫¥","MS",78
+"shut you up","NY28B","473b(*)","E","N"," ","CNV","ÂÛ∏ΩtÛπ∫{u}$Â∏Ωp","MS",78
+"shut the door","NY28C","473bX","E","N"," "," ","Û∏Ωt$‰∞$doé¥","MS",79
+"shut the door","NY29A","474a","E","N"," "," ","Û∏t$‰∞$Âdoé¥","MS",80
+"close the drafts","NY29B","474b","E","N"," ","CNV","ÂkÏoºπºz$‰∞$ıdéÚ·{∞}fs","MS",81
+"shut","NY29B","474b","V","N"," "," ","Û∏∫t","MS",81
+"shut the door","NY29C","474c","E","N"," "," ","Û∏t$‰∞$Âdoéº¥","MS",82
+"door that was shut","NY30A","475a","O","N"," "," ","Âdo¥$‰∞t$w∞Ωz$ÂÛ∏t","MS",83
+"close the door","NY30B","475b","E","N"," "," ","ıkloºπºz$‰∞$Âdoé¥","MS",84
+"shut your mouth","NY30B","475b","E","N"," ","CNV","ıÛ≥´ºtÛ∞$Âm≥π˘","MS",84
+"shut the door","NY30B","475b","E","N"," "," ","Û∏Ωt$‰∞$doé¥","MS",84
+"shut the door","NY30C","475c","E","N"," "," ","ıÛ∏ºt$‰±´æ$Âdoé¥","MS",85
+"shut","NY30C","475c","V","N"," ","CNV","Û≤t","MS",85
+"shut over it","NY30C","475c","E","N"," ","CNV","ıÛ≤Âtêoºπºv¥$±øºt","MS",85
+"shut the door","NY30D","475d","E","N"," "," ","ıÛ≤æt$‰∞$Âdoé¥","MS",86
+"shut the door","NY30E","475e","E","N"," "," ","Û∏t$‰∞$doé¥","MS",87
+"close the door","NY30E","475e","E","N"," "," ","kÏoºπºz$‰∞$doé¥","MS",87
+"close the window","NY30E","475e","E","N"," "," ","ÂkÏoºπz$‰∞$ıw±ændoº{πº}","MS",87
+"close it the door","NY31A","478a","E","N"," "," ","Âk≈oΩºπºz±øt$ı‰∞$Âdoéº¥","MS",88
+"shut it","NY31A","478a","E","N"," "," ","ÂÛ∏ºÒ±øt","MS",88
+"shut the door","NY31B","478b","E","N"," "," ","ıÛ∏´t$‰∞$Âdoéº∫∞","MS",89
+"close that door","NY31B","478b","E","N"," ","CNV","Âk≈èoΩºπºz$ı‰·t$Âdoº¥","MS",89
+"shut the door","NY32A","479a","E","N"," "," ","ıÛ∏ºt$‰∞$Âdoº¥","MS",90
+"shut off","NY32A","479a","E","N"," ","CNV","ÂÛ∏ºtı∑Ω∫f","MS",90
+"close the door","NY32B","479b","E","N"," "," ","k≈oΩºπºz$‰∞$Âdoø¥","MS",91
+"shut down","NY32B","479b","E","N","it was)","CNV","ıÛ≤æ$Âd•∫πn","MS",91
+"shut the door","NY33A","480","E","N"," "," ","ıÛ∏Ωt$‰∞$Âdoé¥","MS",92
+"shut the door","NY33B","481","E","N"," "," ","Û∏´t$‰∞$doé¥","MS",93
+"close the door","NY33B","481","E","N"," "," ","ÂkÏèoºπºz$‰∞$ıdoé¥","MS",93
+"shut the door","NY33C","482","E","N"," "," ","ıÛ∏t$‰∞$Âdoé¥","MS",94
+"shut this door","NY34A","483","E","N"," "," ","ÂÛ∏´t$ı‰±s$Âdoº∫∞é","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"shut the door","NY34D!","486!","E","N"," "," ","ıÛ∏´t$‰∞´$Âdoéº¥","MS",98
+"shut the door","NY35A","487","E","N"," "," ","Û∏t$‰∞$doΩ¥","MS",99
+"shut the door","NY35B","488","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",100
+"shut the door","NY35C!","489!","E","N"," "," ","Û∏t$‰∞$doΩ¥","MS",101
+"shut the door","NY36A","491","E","N"," "," ","ıÛ∏t$‰è∞$Âdo∫¥","MS",102
+"shut the door","NY36B","492","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",103
+"shut the door","NY37A","493","E","N"," "," ","Û∏t$‰è∞$do¥","MS",104
+"shut the door","NY37B","494","E","N"," "," ","Û∏t$‰∞$doΩ¥","MS",105
+"shut the door","NY37C!","495!","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",106
+"shut the door","NY38A","497(*)","E","N"," ","SIC","Û∏t$t∞$do¥","MS",107
+"shut the door","NY38B","498","E","N"," ","SIC","Û∏t$t∞$doΩ¥","MS",108
+"shut the door","NY38C","497X","E","N"," "," ","Û∏t$‰∞$do¥","MS",109
+"shut the door","NY39A","499","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",110
+"shut the door","NY39B","500","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",111
+"shut the door","NY40A","501","E","N"," "," ","ıÛ∏t$‰è∞$ÂdoΩ¥","MS",112
+"shut the door","NY40B","502","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",113
+"shut the door","NY41","504","E","N"," "," ","ıÛ∏Ωt$‰è∞$ÂdoΩ¥","MS",114
+"shut the door","NY42A","505","E","N"," "," ","Û∏Ωt$‰è∞$do¥","MS",115
+"shut the door","NY42B","506","E","N"," "," ","Û∏Ωt$‰∞$doΩ∫¥","MS",116
+"shut the door","NY43A","507","E","N"," "," ","Û≤t$‰è∞$do¥","MS",117
+"shut the door","NY43B","507b","E","N"," "," ","Û∏Ωt$‰∞$do¥","MS",118
+"shut the door","NY43C!","508!","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",119
+"shut the door","NY44A","511","E","N"," "," ","ıÛ∏t$‰è∞$Âdo∫¥","MS",120
+"shut the door","NY44B","512","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",121
+"shut the door","NY45A","513a","E","N"," "," ","Û∏´ºt$‰∞$ÂdoéΩ¥","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"shut the door","NY45D!","513d!","E","N"," "," ","ÂÛ∏´t$të∞$ıdoéº¥","MS",125
+"close the door","NY45D!","513d!","E","N"," "," ","Âk≈èoΩºπºz$‰∞$ıdoº¥","MS",125
+"shut the door","NY46A","515a","E","N"," "," ","ıÛ¶ºt$‰∞$Âdoéº¥","MS",126
+"shut it","NY46B","515b","E","N"," "," ","Û∏{∞}tê±øºt","MS",127
+"close the door","NY46B","515b","E","Y"," ","AUX","kÏo∫{π}z$‰ë∞$Âdoº¥","MS",127
+"who rung it","NY46B","515b","S","Y"," ","INA","hu$r∏Ó$±t","MS",127
+"close the door","NY46C","515c","E","N"," "," ","Âk`loºπºz$z∞$ıdoº¥","MS",128
+"shut it","NY46C","515c","E","N"," "," ","Û∏tê±øt","MS",128
+"rang","NY46C","515c","V","Y"," ","INA","r·´Ó","MS",128
+"close the door","NY47A","517(*)","E","N"," "," ","k≈oΩºπºz$‰ë∞$Âdoº¥","MS",129
+"shut up","NY47A","517(*)","E","N"," ","CNV","ÂÛ∏ºt$ı∏ºp","MS",129
+"shut the door","NY47A","517(*)","E","Y"," ","AUX","Û∏t$‰è∞$d∑´¥","MS",129
+"shut","NY47A","517(*)","V","N"," ","CNV","Û∏ºt","MS",129
+"shut the door","NY47B","518","E","N"," "," ","Û∏t$‰è∞$do¥","MS",130
+"shut the door","NY48A","519a","E","N"," "," ","Û±øΩt$‰∞$doº¥","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"shut the door","NY48C","519c","E","N"," "," ","Û∏´t$‰∞$doº¥","MS",133
+"close the door","NY48C","519c","E","N"," "," ","ık≈oΩºπºz∞$Âdoº¥","MS",133
+"door","NY48C","519c","N","Y"," ","INA/CNV","doéº¥","MS",133
+"shut","NY48C","519c","E","N"," ","CNV","Û∏´t","MS",133
+"shut that door","NY48D","519d","E","N"," "," ","ÂÛ∏ºt$‰·´'t$Âdoéº¥","MS",134
+"shut it up","NY49A","520","E","N"," ","CNV","ÂÛ∏´t$±øt$ı∏´p","MS",135
+"shut the door","NY49B","521","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",136
+"close it","NY49C","522a","E","N","(the door"," ","ÂkÏoπz±øt","MS",137
+"slam it","NY49C","522a","E","N","(the door"," ","sl·m±øt","MS",137
+"push it shut","NY49C","522a","E","N"," "," ","ÂpπÛ±øt$ıÛ∏´ºt","MS",137
+"door","NY49C","522a","N","Y"," ","INA","do¥","MS",137
+"close it","NY49D","522b","E","N","(the door"," ","kÏoπz±øt","MS",138
+"door","NY49D","522b","N","Y"," ","INA","do¥","MS",138
+"shut it","NY49D","522b","E","N","(the door"," ","Û∏ºtê±øt","MS",138
+"close the door","NY50A","523","E","N"," "," ","ıkÏoΩºπºz$‰∞$Âdoº∫∞é","MS",139
+"doors","NY50A","523","N","Y"," ","INA/CNV","doé¥z","MS",139
+"shut the door","NY50A","523","E","N"," "," ","ÂÛ∏´t$‰ë∞$ıdoº∞","MS",139
+"close the door","NY50B","524","E","N"," "," ","ık≈oøΩæπºz$zë∞$Âdoøæ¥","MS",140
+"shut up","NY50B","524","E","N"," ","CNV","ÂÛ∏´tê$∏´p","MS",140
+"close the door","NY51A","525a","E","N"," "," ","k≈oΩºπºz$‰∞$doéº¥","MS",141
+"shut the door","NY51A","525a","E","N"," ","CNV","Û∏Ωt$‰∞$doéº¥","MS",141
+"shut the door","NY51B","525b","E","N"," "," ","ıÛ≥´ºt$‰∞$Âdoº¥","MS",142
+"shut the door","NY51C","525c","E","N"," "," ","ıÛ∏Ωt$‰∞$Âdoº∫∞é","MS",143
+"shut the door","NY51D","525d","E","N"," "," ","ıÛ∏´t$‰∞$Âdoéº¥","MS",144
+"side door","NY51D","525d","O","Y"," ","INA","Âs•±ød$ıdoéº¥","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"shut the door","NY52A","527","E","N"," ","CNV","ıÛ∏ºt$t∞$Âdoéº¥","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"close the doors","NY52C","528b","E","N"," "," ","Âklo∫πz$zë±ø$do∫¥z","MS",148
+"close the door","NY53A","529","E","N"," "," ","Âk≈oΩºπºz$‰∞$ıdoéº¥","MS",149
+"shut it up","NY53A","529","E","N"," "," ","ÂÛ∏ºtê±øtê$∏ºp","MS",149
+"shut","NY53B!","530!","V","Y"," ","SUG","Û∏ºt","MS",150
+"doors","NY53B!","530!","N","Y"," ","INA/CNV","doé¥z","MS",150
+"close the door","NY53B!","530!","E","N"," "," ","ık≈èoΩºπºz$‰∞$Âdoº∞","MS",150
+"the door's closed","NY53B!","530!","S","N"," ","CNV","‰∞$ıdoéº¥z$Âk≈èoΩºπºzd","MS",150
+"shut the door","NY54A","531","E","N"," "," ","ÂÛ∏ºt$‰∞$ıdoΩº¥","MS",151
+"close the door","NY54B","532","E","N"," "," ","ÂkÏoπz${‰}∞$ıdo∫¥","MS",152
+"close the door","NY55A","533","E","N"," "," ","ıkÏoºπºz$‰∞$Âdoé¥","MS",153
+"shut it","NY55A","533","E","N","(""in a hurry¢"," ","Û∏ºÒ±øt","MS",153
+"shut up","NY55A","533","E","N","it was)"," ","ÂÛ∏ºt$ı∏ºp","MS",153
+"close the door","NY55B","534","E","N"," "," ","ıkÏoºπºz$‰∞$doé¥","MS",154
+"shut in","NY55B","534","E","N"," ","CNV","ıÛ∏ºt$Â±∫{∞}n","MS",154
+"close the door","NY56A","535","E","N"," "," ","Âk≈oºπºz${‰}∞$ıdoé´¥","MS",155
+"shut the door","NY56A","535","E","N"," "," ","ÂÛ∏ºt$‰±øΩ$ıdπéΩ¥","MS",155
+"close the door","NY56B","536","E","N"," "," ","Âk≈oΩºπºz$‰∞$Âdoéº¥","MS",156
+"shut the door","NY56B","536","E","N"," "," ","ıÛ∏ºt$‰∞$Âdoéº¥","MS",156
+"shut it off","NY57A","537a","E","N"," ","CNV","ÂÛ∏ºtê±øºt$Â∑∫f","MS",157
+"shut off","NY57A","537a","E","N"," ","CNV","ÂÛ∏Ωt$ı∑Ωf","MS",157
+"shut that door","NY57B","537b","E","N"," "," ","ÂÛ∏ºt$ı‰·t$Âdoé¥","MS",158
+"shut that door","NY57B","537b","E","N"," "," ","ÂÛ•´æt$ı‰·t$ıdoéº¥","MS",158
+"shut the door","NY57C!","537c!","E","N"," ","CNV","ıÛ∏ºt$‰∞$Âdoéº¥","MS",159
+"shut in","NY57C!","537c!","E","N"," ","CNV","ıÛ∏ºt$±∫{∞}n","MS",159
+"shut the door","NY58A","539a","E","N"," "," ","ıÛ∏Ωºt$‰∞$Âdoé¥","MS",160
+"shut","NY58A","539a","V","N"," ","CNV","Û∏ºt","MS",160
+"shut the door","NY58B","539b","E","N"," "," ","ÂÛ∏ºt$dë∞$Âdoéº¥","MS",161
+"close the door","NY58B","539b","E","N"," "," ","Âtlçoºπºz$‰∞$Âdoéº¥","MS",161
+"shut that door","NY58B","539b","E","N"," ","CNV","ÂÛ±øt$ıd·t$Âdoéº¥","MS",161
+"shut up","NY58B","539b","E","N"," ","CNV","ÂÛ≤ætı∏ºp","MS",161
+"NR","NY58C","539c"," ","N"," "," "," ","MS",162
+"shut the door","NY58D!","539d!","E","N"," "," ","Û∏´t$‰∞$Âdo∫∞","MS",163
+"close the door","NY58D!","539d!","E","N"," "," ","k≈oºπºz$‰∞$Âdo∫∞","MS",163
+"close the door","NY58E!","539e!","E","N"," ","CNV","ık≈oºπºz$‰∞$ÂdoΩº¥","MS",164
+"shut off","NY58E!","539e!","E","N"," ","CNV","ÂÛ∏ºt$ı∑∫{∞}f","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"close the door","NY59A","543","E","N"," "," ","ık≈oΩºπºz$d∞$Âdoº¥","MS",166
+"shut","NY59A","543","V","N"," "," ","Û∏ºt","MS",166
+"shut the door","NY59B","544","E","N"," "," ","Û∏Ωt$‰è∞$doΩ∫¥","MS",167
+"close the door","NY60A","545","E","Y"," ","COR","ık≈oºπºz$‰∞$Âdoé¥","MS",168
+"shut","NY60A","545","V","N"," "," ","Û≥›´t","MS",168
+"shut in","NY60A","545","E","N"," ","CNV","Û≥ºÒ±øºn","MS",168
+"shut the door","NY60B!","546!","E","N"," ","CNV","ıÛ∏ºt$‰∞$Âdoéº¥","MS",169
+"shut up","NY60B!","546!","E","N"," ","CNV","Û∏ΩÂÒ∏ºp","MS",169
+"shut the blinds","NY60B!","546!","E","N"," "," ","ıÛ∏ºt$‰∞$Âb≈µ´±ønz","MS",169
+"shut the dampers","NY61A","547","E","N"," "," ","Û∏Ωt$‰∞$Âd·∫{∞}mp¥z","MS",170
+"close the door","NY61B","548","E","N"," "," ","ıkÏoºπºz$‰∞$Âdoéº¥","MS",171
+"shut it","NY62A","551a","E","Y"," ","NEW","Û∏Ò±øt","MS",172
+"close the door","NY62A","551a","E","N"," ","CNV","ıkÏoºπºz$‰∞$Âdoé¥","MS",172
+"shut the door","NY62B","551b","E","N"," "," ","Û∏Ωt$‰∞$Âdoé¥","MS",173
+"shut down","NY62B","551b","E","N"," ","CNV","ıÛ∏ºÁ$Âd·Ωπn","MS",173
+"close that door","NY62C","551c","E","N"," "," ","ÂkÏoºπºz$ı‰·t$Âdoé¥","MS",174
+"shut the door","NY62D!","551d!","E","N"," "," ","Û∏ºt$‰∞$Âdoé¥","MS",175
+"close the door","NY62D!","551d!","E","N"," ","CNV","kl∑ºπºz$‰∞$Âdoé¥","MS",175
+"shut up","NY62D!","551d!","E","N"," ","CNV","ıÛ∏ºt$Â∏ºp","MS",175
+"close the door","NY63A","556a","E","N"," "," ","k≈oΩºπz$‰∞$Âdo¥","MS",176
+"close it","NY63B","556b","E","N"," "," ","k≈èoºπºz±øt","MS",177
+"shut it","NY63B","556b","E","N"," "," ","ÂÛ∏ºÒ±øºt","MS",177
+"shut the door","NY63C","556c","E","N"," "," ","Û∏Ωt$‰∞$doΩ¥","MS",178
+"shut the door","NY63D!","556d!","E","N"," "," ","ıÛ¶Ωt$‰∞$ÂdoéΩ¥","MS",179
+"close the door","NY64A","557a","E","N"," "," ","ÂkÏoΩπz$‰∞$ıdoé∫¥","MS",180
+"shut the door","NY64A","557a","E","N"," "," ","Û∏ºt$‰∞$ıdoé∫¥","MS",180
+"close the door","NY64B","557b","E","N"," "," ","ıkÏoºπºz$‰∞$Âdoé∫¥","MS",181
+"shut the door","NY64C!","557c!","E","N"," "," ","ıÛ∏ºt$‰∞$Âdoé¥","MS",182
+"shut the door","NJ1A","1","E","N"," "," ","Û≤t$t∞$d∑´¥","MS",183
+"shut the door","NJ1B","2","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",184
+"shut the door","NJ2A","3(*)","E","N"," "," ","Û≤t$‰è∞$d∑´¥","MS",185
+"shut the door","NJ2A","3(*)","E","Y"," ","AUX","Û∏Ωt$‰è∞$d∑´¥","MS",185
+"push that door to","NJ2A","3(*)","E","Y"," ","AUX","pπÛ$‰·t$d∑´¥$tiuº","MS",185
+"shut the door","NJ2B","4","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",186
+"shut the door","NJ3A","5","E","N"," "," ","Û∏ºt$‰è∞$d∑´¥","MS",187
+"shut the door","NJ3B","6","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",188
+"shut the door","NJ3B","6","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",188
+"shut the door","NJ4A","7","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",189
+"shut the door","NJ4A","7","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",189
+"shut the door","NJ4B","8","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",190
+"shut the door","NJ5A","9","E","N"," "," ","Û∏t$t∞$doΩ¥","MS",191
+"shut the door","NJ5B","10","E","N"," "," ","Û∏t$t∞$d∑ó´¥","MS",192
+"shut the door","NJ6A","11","E","N"," "," ","Û∏t$‰è∞$d∑´∫¥","MS",193
+"shut the door","NJ6B","12","E","N"," "," ","Û∏´ºt$‰è∞$doΩ¥","MS",194
+"shut the door","NJ7A","17","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",195
+"shut the door","NJ7B!","18!","E","N"," "," ","Û∏Ωt$‰è∞$d∑∫¥","MS",196
+"shut the door","NJ8A","19","E","N"," "," ","Û∏ºt$t∞$d∑¥∫","MS",197
+"shut the door","NJ8B","20","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",198
+"shut the door","NJ9A","21","E","N"," "," ","Û∏Ωt$‰è∞$d∑¥","MS",199
+"shut the door","NJ9B","22","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",200
+"shut the door","NJ10A","24b","E","N"," "," ","Û∏t$‰è∞$d∑´∫∞é","MS",201
+"shut the door","NJ10B","23","E","N"," "," ","Û≤t$t∞$d∑¥","MS",202
+"shut the door","NJ10C","24","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",203
+"shut the door","NJ10D!","24c!","E","N"," "," ","Û∏ºt$‰∞$d∑∞é","MS",204
+"shut the door","NJ11A","25","E","N"," "," ","Û∏›Ωt$‰è∞$d∑¥","MS",205
+"shut the door","NJ11B","26a","E","N"," "," ","ÂÛ∏Ωt$‰è∞$ıd∑¥","MS",206
+"shut the door","NJ11C","26b","E","N"," "," ","Û∏ºt$‰è∞$d∑¥","MS",207
+"shut the door","NJ12A","27","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",208
+"shut the door","NJ12B","28","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",209
+"shut the door","NJ13A","29","E","N"," "," ","Û≤t$t∞$d∑∫¥∫","MS",210
+"shut the door","NJ13B","30","E","N"," "," ","Û∏Ωt$‰è∞$d∑¥","MS",211
+"shut the door","NJ14A","31","E","N"," "," ","Û∏Ωt$t∞$d∑¥","MS",212
+"shut the door","NJ14B","32","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",213
+"shut the door","NJ15A","33","E","N"," "," ","Û∏›Ωt$‰è∞$d∑´¥","MS",214
+"shut the door","NJ15B","34","E","N"," "," ","Û∏›Ωt$‰è∞$d∑¥","MS",215
+"push the door shut","NJ16A","35","E","N"," "," ","pπÛ$‰∞$d∑¥$Û∏t","MS",216
+"shut the door","NJ16A","35","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",216
+"shut the door","NJ16B","36","E","N"," "," ","Û∏t$‰è∞$d∑ó∫¥","MS",217
+"shut the door","NJ17A","37","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",218
+"shut the door","NJ17B","38","E","N"," "," ","Û∏t$t∞$d∑¥∫","MS",219
+"shut the door","NJ18A","41","E","N"," "," ","Û∏›º't$‰è∞$d∑:∞","MS",220
+"shut the door","NJ18B","42","E","N"," "," ","Û∏'t$‰è∞$d∑∫∞","MS",221
+"shut the door","NJ18C!","43!","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",222
+"shut the door","NJ18D!","44!","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",223
+"shut the door","NJ19A","45","E","N"," "," ","Û∏t$‰è∞$d∑∞é","MS",224
+"shut the door","NJ19B!","46!","E","N"," "," ","Û∏t$‰è∞$d∑∫∞","MS",225
+"shut the door","NJ20A","47","E","N"," "," ","Û∏Ωt$‰è∞$d∑{∞}r","MS",226
+"Machet Tu‡r zu","NJ20A","47","E","Y"," ","INA","m∂´∫kh≤t$doøæ{∞}r$tuº∫","MS",226
+"shut the door","NJ20B","47b","E","N"," "," ","Û∏ºt$‰∞$d∑¥","MS",227
+"shut the door","NJ21A","48","E","N"," "," ","Û∏t$t∞$d∑¥","MS",228
+"shut the door","NJ21B","49","E","N"," "," ","ıÛ∏ºt$t∞$Âd∑´¥","MS",229
+"shut the door","PA1A","51","E","N"," "," ","Û∏t$t∞$d∑{∞}r","MS",230
+"shut the door","PA1B","52","E","N"," "," ","Û∏t$‰è∞$d∑´¥∫","MS",231
+"shut the door","PA1C","53","E","N"," "," ","ıÛ∏t$‰è∞$Âd∑¥","MS",232
+"shut the door","PA1D","54","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",233
+"shut the door","PA1E!","55!","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",234
+"shut the door","PA1F!","56!","E","N"," "," ","Û∏Ωt$‰è∞$d∑´¥","MS",235
+"shut the door","PA1G!","57!","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",236
+"shut the door","PA1H!","58!","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",237
+"shut the door","PA2A","59","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",238
+"shut the door","PA2B","60","E","N"," "," ","Û∏Ωt$‰è∞$d∑´¥∫","MS",239
+"push the door to","PA3A","61","E","N"," "," ","pπÛ$‰∞$d∑´¥$tuº∫","MS",240
+"shut the door","PA3A","61","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",240
+"shut the door","PA3B","62","E","N"," "," ","Û∏t$t∞$d∑¥","MS",241
+"shut the door","PA3C","62b","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",242
+"shut the door","PA4A","63","E","N"," "," ","ıÛ∏t$‰è∞$Âd∑¥","MS",243
+"shut the door","PA4B!","64!","E","N"," "," ","Û∏t$‰è∞$d∑¥∫","MS",244
+"shut the door","PA5A","65(*)","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",245
+"shut the door","PA5A","65(*)","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",245
+"shut the door","PA5B","65b","E","N"," "," ","Û∏´t$t∞$d∑´¥","MS",246
+"shut the door","PA5C","66","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",247
+"shut the door","PA5D","67","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",248
+"shut the door","PA5E!","68!","E","N"," "," ","Û∏´ºt$t∞$d∑¥","MS",249
+"close the door","PA6A","69","E","N"," "," ","kîlosî$t∞$d∑{∞}{rü’}","MS",250
+"shut the door","PA6A","69","E","N"," "," ","Û∏t$t∞$d∑{∞}{rü’}","MS",250
+"shut the door","PA6B","71","E","N"," "," ","Û∏´t$t∞$d∑∞æü’","MS",251
+"shut the door","PA6C","71b","E","N"," "," ","Û∏t$t∞$d∑∞{rü’}","MS",252
+"shut the door","PA6D!","72!","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",253
+"shut the door","PA7A","73","E","N"," "," ","Û∏´t$‰è∞$d∑¥","MS",254
+"shut the door","PA7B","74","E","N"," "," ","Û∏t$t∞$d∑¥","MS",255
+"shut the door","PA7C","75","E","N"," "," ","ıÛ∏t$t∞$Âd∑´{∞}r","MS",256
+"shut the door","PA7D!","76!","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",257
+"shut the door","PA8A","77","E","N"," "," ","Û≤æt$‰∞$d∑∫¥","MS",258
+"shut the door","PA8B","78","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",259
+"shut the door","PA8C","79","E","N"," "," ","Û∏´t$t∞$d∑{∞}r","MS",260
+"shut the door","PA8D!","80!","E","N"," "," ","Û∏æt$‰è∞$d∑¥","MS",261
+"shut the door","PA9A","83","E","N"," "," ","Û∏´t$t∞$d∑∞r","MS",262
+"shut the door","PA9B","83b","E","N"," "," ","Û∏t$t∞$d∑¥","MS",263
+"shut the door","PA9C!","84!","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",264
+"shut the door","PA10","87","E","N"," "," ","Û∏t$˘∞$d∑{∞}r","MS",265
+"shut the door","PA11A","89","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",266
+"shut the door","PA11B","90(*)","E","N"," "," ","Û∏t$tî∞$d∑¥","MS",267
+"shut the door","PA11B","90(*)","E","Y"," ","AUX","Û∏t$‰ë∞$d∑º¥","MS",267
+"shut the door","PA12A","91","E","N"," "," ","Û∏t$‰∞›$d∑´º¥","MS",268
+"shut the door","PA12B","92","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",269
+"shut the door","PA13A","93","E","N"," "," ","Û≤t$‰è∞$d∑¥","MS",270
+"shut the door","PA13B","94","E","N"," "," ","ÂÛ∏Ωt$‰è∞$ıd∑¥","MS",271
+"shut the door","PA14A","95(*)","E","N"," "," ","Û∏´tî$tî∞$dè∑Ω{∞æ}rü’","MS",272
+"shut the door","PA14B","96","E","N"," "," ","Û∏t$t∞$d∑¥","MS",273
+"shut the door","PA14C","95X","E","N"," "," ","Û∏t$t∞$doΩ{∞}{r}","MS",274
+"shut the door","PA15A","99","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",275
+"shut the door","PA15B","99b","E","N"," "," ","ıÛ∏Ωt$‰∞$ÂdoΩ¥","MS",276
+"shut the door","PA15C!","100!","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",277
+"shut the door","PA16A","101","E","N"," "," ","Û∏tîtî±ø´º$t∑∞{rü’}","MS",278
+"shut the door","PA16B","102","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",279
+"shut the door","PA16C","103","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",280
+"shut the door","PA17A","105","E","N"," "," ","Û∏tî$tî∞$dè∑{∞}{rü’}","MS",281
+"shut the door","PA17B","106","E","N"," "," ","Û∏t$‰è∞$d∑{∞}{rü’}","MS",282
+"shut the door","PA18A","107","E","N"," "," ","Û∏ºt$‰∞$d∑´¥","MS",283
+"shut the door","PA18B!","108!","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",284
+"shut the door","PA19A","113","E","N"," "," ","Û≤t$‰∞$d∑´¥","MS",285
+"shut the door","PA19B","114","E","N"," "," ","Û∏Ωt$‰è∞$d∑¥","MS",286
+"shut the door","PA20A","115","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",287
+"shut the door","PA20B","116","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",288
+"shut the door","PA21A","117","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",289
+"shut the door","PA21B","118","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",290
+"shut the door","PA21B","118","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",290
+"shut the door","PA22A","119","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",291
+"shut the door","PA22B","120","E","N"," "," ","Û∏t$‰∞$d∑´¥","MS",292
+"shut the door","PA23A","121","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",293
+"shut the door","PA23B","122","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",294
+"shut the door","PA24A","123","E","N"," "," ","Û∏Ωt$‰è∞$doΩ¥","MS",295
+"close the door","PA24B","124","E","N"," "," ","ıklo∫{π}z$‰∞$Âd∑¥","MS",296
+"shut the door","PA24B","124","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",296
+"shut the door","PA25A","125","E","N"," "," ","Û∏Ωt$‰è∞$do¥","MS",297
+"shut the door","PA25B","126","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",298
+"shut the door","PA26A","127","E","N"," "," ","Û∏Ωt$‰∞$doΩ∫¥","MS",299
+"shut the door","PA26B","128","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",300
+"shut the door","PA27A","131","E","N"," "," ","Û∏›Ωt$‰è∞$doΩ∫¥","MS",301
+"shut the door","PA27B","132","E","N"," "," ","Û∏Ωt$‰è∞$doΩ∫¥","MS",302
+"shut the door","PA28A","135","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",303
+"shut the door","PA28B!","136!","E","N"," "," ","Û∏'t$‰è∞$d∑¥","MS",304
+"shut the door","PA29A","139(*)","E","N"," "," ","Û∏t$t∞$d∑¥","MS",305
+"shut the door","PA29A","139(*)","E","Y"," ","AUX/SIC","Û∏ºt$t∞$d∑¥","MS",305
+"shut the door","PA29B","140","E","N"," "," ","Û∏t$‰è∞$d∑¥","MS",306
+"shut the door","PA30A","143","E","N"," "," ","Û∏Ωt$‰∞$doΩ∫¥","MS",307
+"shut the door","PA30B","144","E","N"," "," ","Û∏›Ωt$‰è∞$doΩ¥","MS",308
+"shut the door","PA31A","145","E","N"," "," ","Û∏Ωt$‰è∞$do¥","MS",309
+"shut the door","PA31B","146","E","N"," "," ","Û∏t$t∞$do¥","MS",310
+"shut the door","PA32A","147","E","N"," "," ","Û∏të$‰è∞$d∑¥","MS",311
+"shut the door","PA32B","148","E","N"," "," ","Û∏t$t∞$d∑¥é∫","MS",312
+"shut the door","PA33A","151","E","N"," "," ","Û∏ºt$t∞$d∑r","MS",313
+"shut the door","PA33B","152","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",314
+"shut the door","PA34A","155","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",315
+"shut the door","PA34B","156","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",316
+"shut the door","PA34C!","155b!","E","N"," "," ","Û∏Ω't$‰∞$d∑¥","MS",317
+"shut the door","PA35A","157","E","N"," "," ","Û∏ºt$t∞$d∑¥∫","MS",318
+"shut the door","PA35B","158(*)","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",319
+"shut the door","PA35C","158X","E","N"," "," ","Û∏të$‰è∞$d∑¥","MS",320
+"shut the door","PA36A","159","E","N"," "," ","Û∏t$t∞$d∑¥","MS",321
+"shut the door","PA36B","160","E","N"," "," ","Û∏t$‰∞$d∑´º¥","MS",322
+"shut the door","PA37A","161(*)","E","N"," "," ","ıÛ∏t$‰è∞$Âd∑{∞}r","MS",323
+"shut the door","PA37B","162","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",324
+"shut the door","PA37C","161X","E","N"," "," ","Û∏t$t∞$d∑¥","MS",325
+"shut the door","PA38A","163","E","N"," "," ","Û∏t$t∞$Âd∑¥","MS",326
+"shut the door","PA38B","164","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",327
+"shut the door","PA39A","165","E","N"," "," ","ıÛ∏t$t∞$Âd∑´¥","MS",328
+"shut the door","PA39B","166","E","N"," "," ","ıÛ∏t$‰è∞$Âd∑´¥","MS",329
+"push the door shut","PA40A","167","E","N"," "," ","pπÛ$‰∞$d∑¥$Û∏t","MS",330
+"shut the door","PA40A","167","E","N"," "," ","Û∏t$t∞$d∑¥","MS",330
+"shut the door","PA40B","168","E","N"," "," ","Û∏Ωt$t∞$d∑¥","MS",331
+"shut the door","PA41A","171","E","N"," "," ","ıÛ∏t$t∞$Âd∑´¥","MS",332
+"shut the door","PA41B","172","E","N"," "," ","Û∏t$t∞$d∑¥","MS",333
+"shut the door","PA42A","175","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",334
+"shut the door","PA42B","176","E","N"," "," ","Û∏t$t∞$d∑´¥∫","MS",335
+"shut the door","PA43A","177","E","N"," "," ","Û≤t$t∞$d∑´¥","MS",336
+"shut the door","PA43B","178","E","N"," "," ","ıÛ∏t$‰è∞$Âd∑´¥","MS",337
+"shut the door","PA44A","179","E","N"," "," ","Û≤t$t∞$d∑´¥","MS",338
+"shut the door","PA44B","180","E","N"," "," ","Û∏t$tî∞$d∑´¥","MS",339
+"shut the door","PA45A","181","E","N"," "," ","Û∏t$‰è∞$d∑´ré","MS",340
+"shut the door","PA45B","182","E","N"," "," ","Û∏ºt$t∞$d∑{∞}¥","MS",341
+"shut the door","PA46A","185","E","N"," "," ","Û∏t$‰è∞$do¥","MS",342
+"shut the door","PA46B","186","E","N"," "," ","Û∏t$‰∞$d∑´r","MS",343
+"shut the door","PA47A","189","E","N"," "," ","Û≤t$t∞$doré","MS",344
+"shut the door","PA47B","190","E","N"," "," ","Û∏ºt$t∞$do∫ré","MS",345
+"shut the doors","PA48A","191","E","N"," "," ","Û≤t$t∞$d∑´¥z","MS",346
+"shut the door","PA48B","192","E","N"," "," ","Û∏t$t∞$doΩ{∞}r","MS",347
+"shut the door","PA48C","193","E","N"," "," ","ıÛ≤t$t∞$Âd∑r","MS",348
+"shut the door","PA49A","194","E","N"," "," ","Û∏t$t∞$d∑¥","MS",349
+"shut the door","PA49B","195","E","N"," "," ","Û∏t$‰∞$d∑´¥","MS",350
+"shut the door up","PA50A","196","E","N"," "," ","Û∏ºt$t∞$Âd∑´{∞}r$ı∏º{∞}p","MS",351
+"shut the door","PA50B","197","E","N"," "," ","Û∏t$‰∞$d∑´ré","MS",352
+"shut the door","PA50C!","198!","E","N"," "," ","Û∏ºt$‰∞$d∑r","MS",353
+"shut the door","PA51A","199","E","N"," "," ","Û∏ºt$‰è∞$doΩ{∞}r","MS",354
+"shut the door","PA51B","200","E","N"," "," ","Û∏Ωt$‰∞$d∑r","MS",355
+"shut the door","PA52A","201","E","N"," "," ","Û∏Ωæt$t∞$d∑´{∞}réré","MS",356
+"shut the door","PA52B!","202!","E","N"," "," ","Û∏t$‰è∞$d∑r","MS",357
+"shut the door","PA53A","203","E","N"," "," ","Û∏t$t∞$d∑{∞}rr","MS",358
+"shut the door","PA53B","204","E","N"," "," ","Û∏t$‰∞$d∑r","MS",359
+"shut the door","PA54A","205","E","N"," "," ","Û∏ºt$t∞$d∑¥","MS",360
+"shut the door","PA54B","206","E","N"," "," ","Û∏t$‰è∞$d∑r","MS",361
+"shut the door","PA55A","207","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",362
+"shut the door","PA55B","208","E","N"," "," ","Û∏Ωt$‰∞$d∑´¥","MS",363
+"shut the door","PA56A","211(*)","E","N"," "," ","Û∏Ωt$t∞$doºré","MS",364
+"shut the door","PA56A","211(*)","E","Y"," ","AUX","Û∏›t$‰è∞$doré","MS",364
+"shut the door","PA56B","212","E","N"," "," ","Û∏Ωt$‰∞$d∑r","MS",365
+"shut the door","PA57A","213","E","N"," "," ","Û∏Ωºt$t∞$d∑{∞}r","MS",366
+"shut the door","PA57B","214","E","N"," "," ","ÂÛ∏Ωt$‰è∞$ıd∑´{∞}r","MS",367
+"shut the door","PA58A","215","E","N"," "," ","Û∏t$t∞$d∑¥","MS",368
+"shut the door","PA58B","216","E","N"," "," ","Û∏Ωt$‰è∞$d∑¥","MS",369
+"shut the door","PA59A","219","E","N"," "," ","Û∏Ωt$‰è∞$d∑r","MS",370
+"shut the door","PA59B","220","E","N"," "," ","Û∏t$‰è∞$d∑´ré","MS",371
+"shut the door","PA60A","221","E","N"," "," ","Û≤t$t∞$d∑r","MS",372
+"shut the door","PA60B","222","E","N"," "," ","Û∏t$t∞$d∑r","MS",373
+"shut the door","PA61A","223","E","N"," "," ","Û≥t$t∞$d∑{∞}r","MS",374
+"shut the door","PA61B","224","E","N"," "," ","Û∏ºt$‰è∞$d∑r","MS",375
+"shut the door","PA62A","229","E","N"," "," ","Û∏t$t∞$d∑´r","MS",376
+"shut the door","PA62B","230","E","N"," "," ","Û∏t$t∞$d∑´r","MS",377
+"shut the door","PA63A","231","E","N"," "," ","Û∏t$‰è∞$d∑´r","MS",378
+"shut the door","PA63B","232","E","N"," "," ","Û∏Ωt$‰è∞$d∑ré","MS",379
+"shut the door","PA64A","233","E","N"," "," ","Û∏t$‰è∞$do¥","MS",380
+"shut the door","PA64B","234","E","N"," "," ","Û∏Ωt$‰è∞$do¥","MS",381
+"shut the door","PA65A","237","E","N"," "," ","Û≤t$‰∞$do¥","MS",382
+"shut the door","PA65B","238","E","N"," "," ","Û∏Ωt$‰è∞$doΩ¥","MS",383
+"shut the door","PA66A","239","E","N"," "," ","ıÛ∏t$t∞$Âd∑¥","MS",384
+"shut the door","PA66B","240","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",385
+"shut the door","PA67A","243","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",386
+"shut the door","PA67B","244","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",387
+"shut the door","WV1!","88!","E","N"," "," ","Û∏´ºt$‰∞$d∑´∞","MS",388
+"shut the door","WV2","89","E","N"," "," ","Û∏t$t∞$d∑¥","MS",389
+"shut the door","WV3","91","E","N"," "," ","Û≤t$t∞$d∑¥","MS",390
+"shut the door","WV4A","92","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",391
+"shut the door","WV4B","93","E","N"," "," ","Û≤t$t±ø$do¥","MS",392
+"shut the door","WV5","94","E","N"," "," ","Û∏t$‰∞$d∑´¥","MS",393
+"shut the door","WV6A","95","E","N"," "," ","Û≤t$‰è∞$do¥","MS",394
+"shut the door","WV6B","96","E","N"," "," ","Û∏ºt$‰∞$do¥","MS",395
+"shut the door","WV7A","97","E","N"," "," ","Û≤t$t∞$doΩ∫¥","MS",396
+"close the door","WV7B","98","E","N"," "," ","kloº{π}z$‰∞$doΩ¥","MS",397
+"shut the door","WV7B","98","E","N"," "," ","Û∏´ºt$t∞$doΩ¥","MS",397
+"shut the door","WV8A","97b","E","N"," "," ","Û∏ºt$t∞$do∫¥","MS",398
+"shut the door","WV8A","97b","E","N"," ","CNV","Û≤t$t∞$do∫¥","MS",398
+"shut the door","WV8B","98b","E","N"," "," ","Û∏ºt$‰è∞$do¥","MS",399
+"shut the door","WV9A","301","E","N"," "," ","Û≤t$t∞$d∑´ré","MS",400
+"shut the door","WV9B","302","E","N"," "," ","Û∏t$t∞$doΩ∫¥","MS",401
+"shut the door","WV10A","303","E","N"," "," ","Û∏t$t∞$d∑¥","MS",402
+"shut the door","WV10B","303b","E","N"," "," ","Û≤t$t∞$do∫¥","MS",403
+"shut the door","WV10C","304","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",404
+"shut the door","WV11A","305","E","N"," "," ","Û≤t$t∞$do∫¥","MS",405
+"shut the door","WV11B!","306!","E","N"," "," ","Û∏t$‰è∞$do¥","MS",406
+"shut the door","WV12A","307","E","N"," "," ","Û∏t$‰è∞$do¥","MS",407
+"shut the door","WV12B","308","E","N"," "," ","Û∏t$‰è∞$do¥","MS",408
+"shut the door","WV13A","309","E","N"," "," ","Û∏ºt$t∞$d∑¥","MS",409
+"shut the door","WV13B","310","E","N"," "," ","Û∏ºt$t∞$d∑´¥","MS",410
+"shut the door","WV14A","311","E","N"," "," ","Û≤æt$t∞$doΩ¥","MS",411
+"shut the door","WV14B","312","E","N"," "," ","Û∏ºt$t∞$do¥","MS",412
+"shut the door","WV15A","313","E","N"," "," ","Û∏ºt$t∞$doΩ¥","MS",413
+"shut the door","WV15B","314","E","N"," "," ","Û∏t$‰è∞$do¥","MS",414
+"shut the door","WV16A","315","E","N"," "," ","Û≤t$t∞$do¥","MS",415
+"shut the door","WV16B","316","E","N"," "," ","Û≤t$t∞$do∫¥","MS",416
+"shut the door","WV17A","317","E","N"," "," ","ıÛ∏ºt$t∞$Âdo∫¥","MS",417
+"shut the door","WV17B","317b","E","N"," "," ","Û∏ºt$‰è∞$do¥","MS",418
+"shut the door","WV17C","318","E","N"," "," ","Û≤t$t∞$doΩ¥","MS",419
+"shut the door","WV18A","319","E","N"," "," ","Û≤t$t∞$do¥","MS",420
+"shut the door","WV18B","320","E","N"," "," ","Û∏t$‰è∞$do¥","MS",421
+"shut the door","WV19A","321","E","N"," "," ","ıÛ≤t$t∞$Âdo¥","MS",422
+"shut the door","WV19B","322","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",423
+"shut the door","WV20A","323","E","N"," "," ","Û∏ó´ºt$t∞$do∫ré","MS",424
+"shut the door","WV20B","324","E","N"," "," ","Û∏ºt$‰è∞$do∫ré","MS",425
+"shut the door","WV21A","325","E","N"," "," ","Û≤´t$t∞$do∫¥","MS",426
+"shut the door","WV21B","326","E","N"," "," ","Û∏´ºt$t∞$do∫¥","MS",427
+"shut the door","WV22A","327","E","N"," "," ","Û∏t$t∞$do¥","MS",428
+"shut the door","WV22B","328","E","N"," "," ","Û∏ºt$‰è∞$do¥›","MS",429
+"shut the door","WV23A","331","E","N"," "," ","Û∏ºt$t∞$do¥","MS",430
+"shut the door","WV23B","332","E","N"," "," ","Û∏ºt$t∞$do¥","MS",431
+"shut the door","WV24A","335","E","N"," "," ","Û∏t$t∞$do∫¥","MS",432
+"shut the door","WV24B","336","E","N"," "," ","Û∏ºt$‰è∞$do¥","MS",433
+"shut the door","WV25A","337","E","N"," "," ","Û∏ºt$t∞$do∫¥","MS",434
+"shut the door","WV25B","338","E","N"," "," ","Û∏ºt$t∞$do¥","MS",435
+"shut the door","WV26A","339","E","N"," "," ","Û≤æt$t∞$do∫¥","MS",436
+"shut the door","WV26B","340","E","N"," "," ","Û∏ºt$t∞$do∫¥","MS",437
+"shut the door","WV27A","341","E","N"," "," ","Û∏ºt$t∞$do¥","MS",438
+"shut the door","WV27B","342","E","N"," "," ","ıÛ∏t$‰è∞$Âdo¥","MS",439
+"shut the door","WV28A","343","E","N"," "," ","Û≤t$t∞$do¥","MS",440
+"shut the door","WV28B","344","E","N"," "," ","Û∏ºt$t∞$do∫¥","MS",441
+"shut the door","WV29A","345","E","N"," "," ","Û≤t$t∞$do∫¥","MS",442
+"shut the door","WV29B","346","E","N"," "," ","Û≤t$t∞$do¥","MS",443
+"shut the door","WV30A","347","E","N"," "," ","Û≤t$t∞$do∫¥","MS",444
+"shut the door","WV30B","348","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",445
+"shut the door","WV31A","349","E","N"," "," ","Û≤t$t∞$do∫¥","MS",446
+"shut the door","WV31B","350","E","N"," "," ","Û≤t$t∞$do∫¥","MS",447
+"shut the door","WV32A","353","E","N"," "," ","Û≤t$t∞$do∫¥","MS",448
+"shut the door","WV32B","354","E","N"," "," ","Û≤t$t∞$do∫∞é","MS",449
+"shut the door","WV33A","355","E","N"," "," ","Û≤t$t∞$do∫r","MS",450
+"shut the door","WV33B","356","E","N"," "," ","Û∏ºt$‰∞$do∫¥›","MS",451
+"shut the door","WV34A","359","E","N"," "," ","Û≤t$t∞$do¥","MS",452
+"shut the door","WV34B","360","E","N"," "," ","Û∏ºt$t∞$do¥","MS",453
+"shut the door","WV35A","361","E","N"," "," ","Û≤t$t∞$do∫¥","MS",454
+"shut the door","WV35B","362","E","N"," "," ","Û∏ºt$t∞$do¥","MS",455
+"shut the door","WV36A","363","E","N"," "," ","Û∏ºt$t∞$Âdo∫¥","MS",456
+"shut the door","WV36B","364","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",457
+"shut the door","WV37A","365","E","N"," "," ","Û∏ºt$t∞$do¥","MS",458
+"shut the door","WV37B!","366!","E","N"," "," ","Û∏ºt$‰è∞$do¥","MS",459
+"shut the door","WV38A","367","E","N"," "," ","Û≤t$t∞$do¥","MS",460
+"shut the door","WV38B","368","E","N"," "," ","Û≤t$‰è∞$do¥","MS",461
+"shut the door","WV39A","369","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",462
+"shut the door","WV39B","370","E","N"," "," ","Û∏t$‰è∞$do¥","MS",463
+"shut the door","WV39C!","371!","E","N"," "," ","Û∏t$‰∞$doΩ¥","MS",464
+"shut the door","WV40A","373","E","N"," "," ","Û∏ºt$t∞$do∫¥","MS",465
+"shut the door","WV40B","374","E","N"," "," ","Û∏ºt$‰è∞$do∫¥","MS",466
+"shut the door","WV41A","375","E","N"," "," ","Û≤t$t∞$do∫¥","MS",467
+"shut the door","WV41B","376","E","N"," "," ","ıÛ∏ºt$t∞$Âdo¥","MS",468
+"shut the door","WV42A","377","E","N"," "," ","Û∏ºt$t∞$do¥","MS",469
+"shut the door","WV42B","378","E","N"," "," ","Û∏ºt$‰è∞$do¥","MS",470
+"shut the door","WV43A","381","E","N"," "," ","Û≤t$t∞$do¥","MS",471
+"shut the door","WV43B","382","E","N"," "," ","Û≤t$t∞$do∫¥","MS",472
+"shut the door","WV44A","383","E","N"," "," ","Û≤t$t∞$do¥","MS",473
+"shut the door","WV44B","384","E","N"," "," ","Û∏t$‰è∞$do¥","MS",474
+"shut the door","WV45A","385","E","N"," "," ","Û∏ºt$t∞$do¥","MS",475
+"shut the door","WV45B","386","E","N"," "," ","Û∏ºt$t∞$do¥","MS",476
+"shut the door","WV46A","387","E","N"," "," ","Û≤t$t∞$doΩré","MS",477
+"shut the door","WV46B","388","E","N"," "," ","Û∏ºt$t∞$do∫¥","MS",478
+"shut the door","WV47A","389","E","N"," "," ","Û∏ºt$t∞$do¥","MS",479
+"shut the door","WV47B","390","E","N"," "," ","Û≤t$t∞$do¥","MS",480
+"shut the door","WV48A","391","E","N"," "," ","Û∏ºt$t∞$doΩ∫¥","MS",481
+"shut the door","WV48B","391b","E","N"," "," ","Û∏t$t∞$do¥","MS",482
+"shut the door","WV48C","392","E","N"," "," ","Û∏ºt$t∞$do¥","MS",483
+"shut the door","WV48D","392b","E","N"," "," ","ıÛ∏ºt$t∞$Âdo¥","MS",484
+"shut the door","WV49A","393","E","N"," "," ","Û≤t$‰∞$doré","MS",485
+"shut the door","WV49B","394","E","N"," "," ","Û≤t$t∞$do¥","MS",486
+"shut the door","WV50A","395","E","N"," "," ","Û∏t$t∞$do∫¥","MS",487
+"shut the door","WV50B","396","E","N"," "," ","Û∏t$t∞$do∫¥","MS",488
+"shut the door","WV51A","261","E","N"," "," ","Û∏t$t∞$doΩ¥","MS",489
+"shut the door","WV51B","262","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",490
+"shut the door","WV52A","258","E","N"," "," ","Û∏t$t∞$doΩ¥","MS",491
+"shut the door","WV52B","259","E","N"," "," ","Û∏ºt$‰∞$d∑¥","MS",492
+"shut the door","WV52C!","260!","E","N"," "," ","Û∏Ωt$‰è∞$d∑´¥","MS",493
+"shut the door","WV53A","257","E","N"," "," ","Û∏Ωt$t∞$d∑´¥","MS",494
+"shut the door","WV53B","257b","E","N"," "," ","Û≤t$t∞$d∑´¥","MS",495
+"shut the door","WV53C!","257c!","E","N"," "," ","Û∏ºt$‰è∞$d∑¥","MS",496
+"shut the door","WV54A","255","E","N"," "," ","Û≤t$t∞$d∑r","MS",497
+"shut the door","WV54B","256","E","N"," "," ","Û≤t$‰è∞$d∑´{∞}r","MS",498
+"shut the door","DE1A","11","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",499
+"shut the door","DE1A","11","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",499
+"shut the door","DE1B","12","E","N"," "," ","Û∏t$‰∞$d∑¥","MS",500
+"shut the door","DE1C!","13!","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",501
+"shut the door","DE2A","15(*)","E","Y"," ","AUX","Ûó∏ó∫{∞}t$‰è∞$d∑´¥","MS",502
+"shut the door","DE2B","16","E","N"," "," ","Û∏t$t∞$doΩ¥","MS",503
+"shut the door","DE2B","16","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",503
+"shut the door","DE2C","15X","E","N"," "," ","Û≤t$t±ø$do¥","MS",504
+"shut the door","DE3A","18","E","N"," "," ","Û≤´t$t∞$do∫¥","MS",505
+"shut the door","DE3B","19","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",506
+"shut the door","DE3C!","17!","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",507
+"shut the door","DE4","20","E","N"," "," ","Û∏t$‰è∞$do¥","MS",508
+"shut the door","DE5A","21","E","N"," "," ","Û∏´t${t}{∞}$do¥é∫","MS",509
+"shut the door","DE5B","22","E","N"," "," ","Û∏t$‰è∞$do¥","MS",510
+"shut the door","DE6A","23","E","N"," "," ","Û≤t$t∞$doΩ∫¥","MS",511
+"shut the door","DE6B","24","E","N"," "," ","Û∏t$t∞$do∫¥","MS",512
+"shut the door","MD1A","27","E","N"," "," ","Û≤t$‰∞$d∑´¥","MS",513
+"shut the door","MD1A","27","E","N"," "," ","Û≤t$‰∞$doΩ¥","MS",513
+"shut the door","MD1B","28","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",514
+"shut the door","MD2A","31a","E","N"," "," ","Û≤t$t∞$doΩ∫¥","MS",515
+"shut the door","MD2B","32","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",516
+"shut the door","MD3A","33","E","N"," "," ","Û≤t$t±ø$doΩ∫{∞é}","MS",517
+"shut the door","MD3B","34","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",518
+"shut the door","MD4A","35b","E","N"," "," ","Û≤t$‰è∞$do¥","MS",519
+"shut the door","MD4B","35","E","N"," "," ","Û∏ºt$t∞$doΩ¥","MS",520
+"shut the door","MD4C","36","E","N"," "," ","Û∏t$t±ø$do¥","MS",521
+"shut the door","MD5A","37","E","N"," "," ","Û∏ºt$‰è∞$d∑´¥","MS",522
+"shut the door","MD5B","38","E","N"," "," ","Û∏t$‰è∞$doΩ¥","MS",523
+"shut the door","MD6A","39(*)","E","N"," "," ","Û≤t$t∞$doΩ∫¥","MS",524
+"shut the door","MD6A","39(*)","E","Y"," ","AUX","Û≤t$t∞$do¥","MS",524
+"shut the door","MD6B","40","E","N"," "," ","Û∏ºt$‰è∞$do¥","MS",525
+"shut the door","MD7A","41","E","N"," "," ","Û≤t$t∞$do∫¥","MS",526
+"shut the door","MD7B","41b","E","N"," "," ","Û∏ºt$t∞$do¥","MS",527
+"shut the door","MD7C!","42!","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",528
+"shut the door","MD8A","43","E","N"," "," ","Û≤t$t∞$do¥","MS",529
+"shut the door","MD8B","44","E","N"," "," ","Û∏t$‰è∞$do¥","MS",530
+"shut the door","MD9N","N46","E","N"," "," ","Û∏t$t±ø´$do{oº}","MS",531
+"shut the door","MD9A","45","E","N"," "," ","Û∏Ωt$t∞$doΩ∫¥","MS",532
+"shut the door","MD9B","46","E","N"," "," ","Û∏ºt$t∞$do¥","MS",533
+"shut the door","MD10A","49","E","N"," "," ","Û∏´t$t∞$d∑´∫{∞}","MS",534
+"shut the door","MD10B","50","E","N"," "," ","Û∏´ºt$‰∞$doΩ¥","MS",535
+"shut the door","MD11","51","E","N"," "," ","Û≤t$t∞$d∑´:∞","MS",536
+"shut the door","MD12A","52","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",537
+"shut the door","MD12B","53","E","N"," "," ","Û∏´t$‰è∞$d∑´∫¥","MS",538
+"shut the door","MD13A","54(*)","E","N"," "," ","Û∏t$‰è∞$d∑´∫∞é","MS",539
+"shut the door","MD13B","55","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",540
+"shut the door","MD13C","56","E","N"," "," ","Û∏´t$‰è∞$d∑¥","MS",541
+"shut the door","MD13D!","57!","E","N"," "," ","Û∏ºt$‰è∞$d∑∫∞","MS",542
+"shut the door","MD13E!","58!","E","N"," "," ","Û∏t$‰è∞$d∑∫{∞}","MS",543
+"shut the door","MD13F!","59!","E","N"," "," ","Û∏´ºt$‰è∞$d∑´:∞","MS",544
+"shut the door","MD13G","54X","E","N"," "," ","Û∏´ºt$‰è∞$d∑´¥","MS",545
+"shut the door","MD14","61(*)","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",546
+"shut the door","MD14","61(*)","E","Y"," ","AUX","Û∏´t$tî∞$dè∑´∫¥","MS",546
+"shut the door","MD15A","62","E","N"," "," ","Û∏´t$t∞$d∑´∫{∞}","MS",547
+"shut the door","MD15B","63","E","N"," "," ","Û∏´t$‰è∞$d∑´∫∞é","MS",548
+"shut the door","MD16","64","E","N"," "," ","Û∏t$t∞´$d∑´¥","MS",549
+"shut the door","MD17A","65","E","N"," "," ","Û∏t$‰∞$d∑´∫¥","MS",550
+"shut the door","MD17B","66","E","N"," "," ","Û∏´t$‰è∞$d∑¥","MS",551
+"shut the door","MD18A","67","E","N"," "," ","Û≤t$t±øΩ$d∑´:{∞}","MS",552
+"shut the door","MD18B","68","E","N"," "," ","Û∏´ºt$t∞$d∑:{∞}","MS",553
+"shut the door","MD19A","69","E","N"," "," ","Û∏´ºt$t∞$d∑´∫{∞}","MS",554
+"shut the door","MD19B","70","E","N"," "," ","Û∏t$t∞$d∑´∫{∞}","MS",555
+"shut the door","MD20A","71","E","N"," "," ","Û∏t$t±ø$doΩ∞","MS",556
+"shut the door","MD20B","72","E","N"," "," ","Û∏´ºt${t}{∞}$d∑ó´:{∞}","MS",557
+"shut the door","MD20C!","73!","E","N"," "," ","Û∏´ºt$‰è∞$d∑∫∞","MS",558
+"shut the door","MD21A","75","E","N"," "," ","Û≤t$t∞$doΩ∞","MS",559
+"shut the door","MD21B","76","E","N"," "," ","Û∏´ºt$‰è∞$d∑´∫∞","MS",560
+"shut the door","MD22N","N77","E","N"," "," ","Û≤t$t±øΩ$d∑´:{∞}","MS",561
+"shut the door","MD22M","N78","E","N"," "," ","Û≤´t$t±øΩ$d∑:","MS",562
+"close the door","MD22A","77","E","N"," "," ","kloº{π}z${‰}{±øΩ}$d∑∫{∞}","MS",563
+"shut the door","MD22A","77","E","N"," "," ","Û∏t$t±ø$d∑∫{∞}","MS",563
+"shut the door","MD22B","78","E","N"," "," ","Û≤t$t±øΩ$d∑:{∞}","MS",564
+"shut the door","MD22C!","79!","E","N"," "," ","Û∏t$‰è∞$d∑∫{∞}","MS",565
+"shut the door","MD23A","80b","E","N"," "," ","Û∏´ºt$t∞$doΩ∫∞","MS",566
+"shut the door","MD23B","80a","E","N"," "," ","Û≤t$t∞›$d∑´∫∞","MS",567
+"shut the door","MD23C","81","E","N"," "," ","Û∏´ºt$‰∞$d∑´∫∞","MS",568
+"shut the door","MD24","82","E","N"," "," ","Û≤t$t±ø$d∑´∫∞","MS",569
+"shut the door","MD25","84","E","N"," "," ","Û∏´t$t∞$d∑¥","MS",570
+"shut the door","MD26A","83","E","N"," "," ","Û≤t$t∞$d∑´¥","MS",571
+"shut the door","MD26B","83A","E","N"," "," ","Û∏t$‰è∞$d∑º¥","MS",572
+"shut the door","MD27A","85","E","N"," "," ","Û∏Ωæt$t∞$d∑´¥","MS",573
+"shut the door","MD27B","86","E","N"," "," ","Û∏t$‰è∞$d∑´¥","MS",574
+"shut the door","DC1A","99","E","N"," "," ","Û∏t$‰è∞$d∑´∫∞","MS",575
+"shut the door","DC1B!","100!","E","N"," "," ","Û∏´t$‰∞$d∑´:{∞}","MS",576
+"shut the door","VA1!","101!","E","N"," "," ","Û∏t$‰è±ø$do∫{∞´}","MS",577
+"shut the door","VA2A","103","E","N"," "," ","Û∏t${t}{±øΩ}$doΩ∞","MS",578
+"shut the door","VA2B","104","E","Y"," ","AUX","Û≤æt$t±øΩ$do∞","MS",579
+"shut that door","VA3A","105(*)","E","N"," "," ","Û≤t$‰·t$d∑´∫¥","MS",580
+"shut the door","VA3B","106","E","N"," "," ","Û∏t$‰è∞$do¥","MS",581
+"shut the door","VA3B","106","E","N"," "," ","Û∏t$t∞´$do¥","MS",581
+"shut the door","VA3C","105X","E","N"," "," ","Û∏t$t∞$d∑´¥","MS",582
+"shut the door","VA3C","105X","E","N"," "," ","Û∏t$t∞$doΩ¥","MS",582
+"shut the door","VA4N","N109","E","N"," "," ","Û≤t$t±øΩ$do´{π}","MS",583
+"shut the door","VA5A","107","E","N"," "," ","Û∏t${t}{±ø}$do∫∞Ω","MS",584
+"shut the door","VA5A","107","E","N"," ","CNV","Û∏t${t}{±ø}$do´","MS",584
+"shut the door","VA5B","108","E","N"," "," ","Û∏t$t±ø$do∫","MS",585
+"shut the door","VA6A","113","E","N"," "," ","Û≤t$t±ø$do∫∞","MS",586
+"shut the door","VA6B","114","E","N"," "," ","Û∏ó´t$t±ø$do∫{∞é}","MS",587
+"shut the door","VA7A","121","E","N"," "," ","Û≤t$t±ø$do∫{∞´}","MS",588
+"shut the door","VA7B","122","E","N"," "," ","Û∏t$t±øΩ$do∫{∞}","MS",589
+"shut the door","VA8A","123","E","N"," "," ","Û≤t$t±ø$do∫{oº}","MS",590
+"shut the door","VA8B","124","E","N"," "," ","Û≤t$t±ø$do{π}","MS",591
+"shut the door","VA8B","124","E","N"," "," ","Û≤t$t±ø$do∞","MS",591
+"shut the door","VA8C!","125!","E","N"," "," ","Û∏ó{∞}t$‰è±øΩ$do∞Ω","MS",592
+"shut the door","VA9A","117","E","N"," "," ","Û≤t$t±ø$do∫","MS",593
+"shut the door","VA9B!","118!","E","N"," "," ","Û∏ºt$t±ø$do∫","MS",594
+"shut the door","VA10A","127","E","N"," "," ","Û≤t$t±øΩ$do∫","MS",595
+"shut the door","VA10B","128","E","N"," "," ","Û∏´ºt$‰è∞$do∞","MS",596
+"shut the door","VA11A","129","E","N"," "," ","Ûµ´æt${t}{±ø}$do{π}","MS",597
+"shut the door","VA11B","130","E","N"," "," ","Û∏t$t±øΩ$do{∞}","MS",598
+"shut the door","VA12N","N131","E","N"," "," ","Û≤t$t±ø$do:","MS",599
+"shut the door","VA12A","131","E","N"," "," ","Û≤t$t±øΩ$do∫","MS",600
+"shut the door","VA12B!","132!","E","Y"," "," ","Û∏ºt$t±ø$do{∞}","MS",601
+"shut the door","VA13A","133","E","N"," "," ","Û≤t$t±øΩ$do∫","MS",602
+"shut the door","VA13B","134","E","N"," "," ","Û∏t$‰∞$do∫{∞}","MS",603
+"shut the door","VA14A","135","E","N"," "," ","Û∏´t${‰}{∞}$do∫","MS",604
+"shut the door","VA14B","136","E","N"," "," ","Û≤t$‰è±øΩ$do∞","MS",605
+"shut the door","VA14C","137","E","N"," "," ","Û∏t$‰è∞$do∫{∞}","MS",606
+"shut the door","VA15N","N139(*)","E","N","natural"," ","Û≤t$t±ø$do∫","MS",607
+"shut the door","VA15N","N139(*)","E","N"," "," ","Û≤t$t±ø$do∞","MS",607
+"shut the door","VA15N","N139(*)","E","Y"," ","AUX","Û≤t$t±øΩ$do∫","MS",607
+"shut the door","VA15A","139","E","N"," "," ","Û≤t$t±øΩ$do:","MS",608
+"shut the door","VA15B","140","E","N"," "," ","Û∏ót$‰±øΩ$do∫{∞}","MS",609
+"shut the door","VA16A","141","E","N"," "," ","Û∏´ºt$t±øΩ$do∞","MS",610
+"shut the door","VA16B","142","E","N"," "," ","Û∏ót$t±ø$do∫{∞}","MS",611
+"shut the door","VA17A","143","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",612
+"shut the door","VA17B","144","E","N"," "," ","Û∏´{∞}t$t±øΩæ$do∞","MS",613
+"shut the door","VA18","145","E","N"," "," ","Û≤t$t±ø$do∞","MS",614
+"shut the door","VA19A","146","E","N"," "," ","Û≤t$t±ø$do{π}","MS",615
+"shut the door","VA19B","147","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",616
+"shut the door","VA19C!","148!","E","N"," "," ","Û∏t$‰è∞$do∞","MS",617
+"shut the door","VA20A","149","E","N"," "," ","Û≤t$t±ø$do{π}","MS",618
+"shut the door","VA20B","150(*)","E","N"," "," ","Û∏t$t∞$do∞","MS",619
+"shut the door","VA20C","150X","E","N"," "," ","Û∏t$‰è∞$doΩ∞","MS",620
+"shut the door","VA21N","N153","E","N"," "," ","Û≤t$t±øΩ$do∞","MS",621
+"shut the door","VA21A","153","E","N"," "," ","Û≤t$t±øΩ$doΩ∞","MS",622
+"shut the door","VA21B","154","E","N"," "," ","Û∏t$t±øΩ$do∫","MS",623
+"shut the door","VA22","155","E","N"," "," ","Û≤t$t±øΩ$do{∞´}","MS",624
+"shut the door","VA23A","156","E","N"," "," ","Û≤t${t}{±øΩ}$do{∞´}","MS",625
+"shut the door","VA23B","157","E","N"," "," ","Û≤t$‰{∞}$do∞","MS",626
+"shut the door","VA24","159","E","N"," "," ","Û∏t$‰è∞$do∫{∞}","MS",627
+"shut the door","VA25","160(*)","E","N"," "," ","Û∏{∞}t$t±øΩ$do¥","MS",628
+"shut the door","VA25","160(*)","E","Y"," ","AUX","Û≤t$t±øΩ$do∫¥","MS",628
+"shut the door","VA26A","161A","E","N"," "," ","Û≤t$t∞´$do∫¥","MS",629
+"shut the door to","VA26B","161","E","N"," "," ","Û≤t$t±ø$do∞$t{±}uø","MS",630
+"shut the door","VA26C","162","E","N"," "," ","Û∏t$‰è∞$doΩ∞{∞é}","MS",631
+"shut the door","VA27","163(*)","E","N"," "," ","Û≤t$t±øΩ$doΩ∫{∞}¥","MS",632
+"shut the door","VA27","163(*)","E","N"," "," ","Û≤´t$‰∞$do¥","MS",632
+"shut the door","VA28A","164","E","N"," "," ","Û≤t$t±ø$doΩ{π}","MS",633
+"shut the door","VA28B","165","E","N"," "," ","Û∏´t$‰è∞$doΩ∞","MS",634
+"shut the door","VA29","166","E","N"," "," ","Û≤t$t±ø$do∫{πΩ}","MS",635
+"shut the door","VA30A","167","E","N"," "," ","Û∏t$t±ø$do{∞}","MS",636
+"shut the door","VA30B!","167a!","E","Y"," "," ","Û∏t${‰}{∞}$doΩ¥","MS",637
+"shut the door","VA30C!","168!","E","N"," "," ","Û∏Ωt${‰è}∞$doΩ∞Ω","MS",638
+"shut the door","VA30D!","169!","E","N"," "," ","Û∏´{∞}t$‰è∞$do∞","MS",639
+"shut the door","VA30E!","170!","E","N"," "," ","Û∏t$‰è∞$do∞","MS",640
+"shut the door","VA31A","171(*)(**)","E","N"," "," ","Û≤t$t±øΩ$do∫{πΩº}","MS",641
+"shut the door","VA31A","171(*)(**)","E","Y"," ","AUX","Û∏ºt${t}±øΩ$do∫{∞´}","MS",641
+"shut the door","VA31B","172","E","N"," "," ","Û∏{∞}t$‰è∞$do{∞}","MS",642
+"NA","VA31C","171X"," ","N"," "," "," ","MS",643
+"shut the door","VA32!","175!","E","Y"," "," ","Û∏t$‰è∞$do{∞}","MS",644
+"shut the door","VA33A","173","E","N"," "," ","Û≤{∞}t$t±øΩ$do∞","MS",645
+"shut the door","VA33B","174","E","N"," "," ","Û∏{∞}t${‰}{∞}$do{∞}","MS",646
+"shut the door","VA34A","177(*)","E","Y"," ","AUX","Û≤t${d}{±ø´}$do{∞}","MS",647
+"shut the door","VA34B","178","E","N"," "," ","Û∏ót$t±øΩ$do{∞}","MS",648
+"shut the door","VA35A","179","E","N"," "," ","Û≤t$t±ø$do{∞}","MS",649
+"shut the door","VA35B","180","E","N"," "," ","Û∏t$‰è∞$do∞","MS",650
+"shut the door","VA36A","181","E","N"," "," ","Û≤t$t±ø$do´{∞}","MS",651
+"shut the door","VA36B","182","E","N"," "," ","Û∏´t$t±ø$do∫","MS",652
+"shut the door","VA37","183","E","N"," "," ","Û≤t$t±ø$doº{π}","MS",653
+"shut the door","VA38","185","E","N"," "," ","Û∏t${˘}{∞}$d∑´{w}∞","MS",654
+"shut the door","VA39!","186!","E","N"," "," ","Û∏{∞}t$‰∞$d∑´{oΩ}∞","MS",655
+"shut the door","VA40A","187","E","N"," "," ","Û∏´{∞}t${t}±øΩ$do∫¥","MS",656
+"shut the door","VA40B","188","E","N"," "," ","Û∏´{∞}'t$tê$do∫¥","MS",657
+"shut the door","VA41A","191","E","N"," "," ","Û≤t$t±øΩ$do{∞´}","MS",658
+"shut the door","VA41B","192","E","N"," "," ","Û∏{∞}t$t±ø$do{πøΩ}","MS",659
+"shut the door","VA42A","193(*)(**)","E","N"," "," ","Û≤t$t±øΩ$do∫{π}","MS",660
+"shut the door","VA42A","193(*)(**)","E","Y"," ","AUX","Û≤t$t±ø$do{∞}","MS",660
+"shut the door","VA42A","193(*)(**)","E","Y"," ","AUX2","Û≤t$t±ø$do∫{π}","MS",660
+"shut the door","VA42B","194","E","N"," "," ","Û∏´ºt$t±ø$do∫{∞}","MS",661
+"shut the door","VA43N","N195","E","N"," "," ","Û≤t$t±ø$do{∞´}","MS",662
+"shut the door","VA43N","N195","E","N"," "," ","Û≤t$t±ø$do∫","MS",662
+"shut the door","VA43A","195","E","N"," "," ","Û≤t$t±ø$do∫","MS",663
+"shut the door","VA43B","196","E","N"," "," ","Û∏´{∞}t${t}{±øΩ}$do›{πΩ}","MS",664
+"shut the door","VA44A","199","E","N"," "," ","Û≤t$t±ø$do∫{π}","MS",665
+"shut the door","VA44B","200","E","N"," "," ","Û∏t$‰è∞$do{∞´}","MS",666
+"shut the door","VA45A","201","E","N"," "," ","Û≤t${‰}{±øΩ}$do{π}","MS",667
+"shut the door","VA45B","202","E","N"," "," ","Û∏ºt${t}{±ø}$do{∞}","MS",668
+"shut the door","VA46N","N207","E","N"," "," ","Û≤t${‰}{∞´}$do","MS",669
+"shut the door","VA46A","207","E","N"," "," ","Û≤t$‰∞´$do∫{∞}","MS",670
+"shut the door","VA46B!","208!","E","N"," "," ","Û∏´ºt${t}{±øΩ}$doΩ∞","MS",671
+"shut the door","VA47","211","E","N"," "," ","Û≤t$t±ø$do:","MS",672
+"shut the door","VA48A","213(*)","E","N"," "," ","Û≤t$t±ø$do∫{π}","MS",673
+"shut the door","VA48A","213(*)","E","Y"," ","AUX","Û≤{∞}t${t}±ø$do{∞}","MS",673
+"shut the door","VA48B","214","E","N"," "," ","Û≤t${t}{±ø}$do{π}","MS",674
+"shut the door","VA49A","215","E","N"," "," ","Û≤t$t±ø$do{π}","MS",675
+"shut the door","VA49B","216","E","N"," "," ","Û∏´ºt$t±ø$do:","MS",676
+"shut the door","VA50A","217","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",677
+"shut the door","VA50B","218","E","N"," "," ","Û∏ºt$t±øΩ$do{π}","MS",678
+"shut the door","VA51A","219","E","N"," "," ","Û≤´{∞}t$t±ø$do´","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"shut the door","VA51C","220X","E","N"," "," ","Û≤{∞}t$‰è∞$do{∞}","MS",681
+"shut the door","VA52A","224","E","N"," "," ","Û∏´ºt$t∞$do¥","MS",682
+"shut the door","VA52B","225","E","N"," "," ","Û∏t$‰∞è$do{π}∞é","MS",683
+"shut the door","VA52C!","226!","E","N"," "," ","Û∏t$‰è∞$d∑´∞é","MS",684
+"shut up that door","VA53A","227","E","N"," "," ","Û≤tê$∏´p$‰·t$do∫¥","MS",685
+"shut the door","VA53B","228","E","N"," "," ","Û∏ºt$t∞$do¥","MS",686
+"shut the door","VA54A","229","E","N"," "," ","Û≤t$t±ø$do∫¥","MS",687
+"shut the door","VA54B","230","E","N"," "," ","Û∏t$t±ø$do∫∞é´","MS",688
+"shut the door","VA55A","233(*)","E","N"," "," ","Û∏´ºt$t∞´$do∫¥","MS",689
+"mach die Tu‡r zu","VA55A","233(*)","E","Y","German","INA/AUX","mµæx$tiΩ$dè≤{∞}Ú$tsuº","MS",689
+"shut the door","VA55A","233(*)","E","N","natural"," ","Û≤t$t∞´$do∫¥","MS",689
+"shut the door","VA55A","233(*)","E","Y"," ","AUX","Û≤t$t±ø´$do∫¥","MS",689
+"shut the door","VA55B","234(*)","E","N"," "," ","Û∏t$‰è∞$do∫∞é´","MS",690
+"shut the door up","VA55B","234(*)","E","Y"," ","AUX","Û∏ºt$˘±ø$do¥$∏ºp","MS",690
+"shut that door","VA56A","237","E","N"," "," ","Û≤t$‰·t$do¥","MS",691
+"shut the door","VA56B","238","E","N"," "," ","Û∏´ºt$t±ø$do∫¥","MS",692
+"shut the door","VA57A","239","E","N"," "," ","Û≤t$t±øΩ$do∫∞é","MS",693
+"shut the door","VA57B","240","E","N"," "," ","Û∏t$‰è∞´$do∫∞é","MS",694
+"shut the door","VA58","241(*)","E","N"," "," ","Û≤t$t±ø$doó∫","MS",695
+"shut the door","VA58","241(*)","E","Y"," ","AUX","Û≤t${d}∞$do∫","MS",695
+"shut the door","VA59N","N241","E","N"," "," ","Û≤t$‰∞´$do´","MS",696
+"pull the door together","VA59N","N241","E","N"," ","CNV","ıpπ´Ï$‰∞´$do´$t∞g≤´∫‰∞","MS",696
+"shut to the door","VA59N","N241","E","N"," "," ","Û≤t$tuº∫{w}$‰∞´$do´","MS",696
+"shut the door","VA59A","242","E","N"," "," ","Û∏t$t±ø$do{∞}","MS",697
+"shut the door","VA59B!","243!","E","N"," "," ","Û∏´t$‰è∞$do∫{∞}","MS",698
+"shut the door","VA60","244(*)","E","Y"," ","AUX","Û∏´ºt$‰è∞$do∫¥","MS",699
+"shut the door","VA61A","245(*)","E","N"," "," ","Û∏t${‰}{∞}$doΩ{∞}r","MS",700
+"shut the door","VA61A","245(*)","E","N"," "," ","Û≤{∞}t${‰}{∞}$doΩ{∞}r","MS",700
+"shut the door","VA61B!","246!","E","N"," "," ","Û∏´ºt$t∞´º$do∫¥","MS",701
+"NA","VA61C","245X"," ","N"," "," "," ","MS",702
+"shut the door","VA62A","247(*)","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",703
+"shut the door","VA62A","247(*)","E","Y"," ","AUX","Û≤t$t±ø$do∫{oó}","MS",703
+"shut the door","VA62B","248","E","N"," "," ","Û≤t$t±ø$do˛∫","MS",704
+"shut the door","VA63A","251","E","N"," "," ","Û≤t$t∞´$do∫¥","MS",705
+"shut the door","VA63B","252","E","N"," "," ","Û∏º{∞}t$t∞´$do∫¥","MS",706
+"shut the door","VA64A","255","E","N"," "," ","Û≤t$t±øΩ$do∫","MS",707
+"shut the door","VA64B","256","E","N"," "," ","Û∏ó´ºt$‰è∞$do{π}{∞}","MS",708
+"shut","VA65A","257","V","N"," "," ","Û≤t","MS",709
+"shut the door","VA65B","258","E","N"," "," ","Û∏t$‰∞$do{∞}r","MS",710
+"shut","VA65B","258","V","Y"," ","SUG","Û≤´æt","MS",710
+"shut the door","VA65C!","259!","E","N"," "," ","Û∏t$‰∞$do∫∞","MS",711
+"shut the door","VA66A","261","E","N"," "," ","Û≤t$t±ø$do∫{∞}","MS",712
+"shut the door","VA66B","262","E","N"," "," ","Û≤t$t±ø$do∫{∞}","MS",713
+"shut the door","VA67A","267","E","N"," "," ","Û≤t${t}{∞´}$do∫¥","MS",714
+"shut the door","VA67B","268","E","N"," "," ","Û∏´ºt$‰è∞$do∫¥","MS",715
+"shut the door","VA68A","269","E","N"," "," ","Û≤t$t±ø$do∫¥","MS",716
+"shut the door","VA68B","270","E","N"," "," ","Û≤t$t±ø$do∫{∞é}","MS",717
+"shut the door","VA69A","273","E","N"," "," ","Û≤t${t}{±ø}$do∫","MS",718
+"shut the door","VA69B","274","E","N"," "," ","Û∏´ºt${˘}{±øΩ}$do{π}","MS",719
+"shut the door","VA70A","275","E","N"," "," ","Û∏´∫t$‰∞$do{∞}r","MS",720
+"shut the door","VA70B","276","E","N"," "," ","Û∏´ºt$‰è∞$do¥∫","MS",721
+"shut the door","VA71A","285","E","N"," "," ","Û∏ºt$t∞$do∫∞é","MS",722
+"shut the door","VA71B","286","E","N"," "," ","Û∏´ºt$t∞$do∫∞é","MS",723
+"shut the door","VA72A","287","E","N"," "," ","Û≤{∞}t${t}{∞}$do∫¥∫","MS",724
+"shut the door","VA72B","288","E","N"," "," ","Û≤∫{∞}t$t∞´$do∫¥∫","MS",725
+"shut that door","VA73","291","E","N"," "," ","Û≤t$‰·{∞}t$do∫∞é","MS",726
+"shut the door","VA74A","293","E","N"," "," ","Û≤t$t∞´$do∫∞é","MS",727
+"shut the door","VA74B!","294!","E","N"," "," ","Û≥∫{∞}t$‰è∞$do∞","MS",728
+"shut the door","VA75A","297","E","N"," "," ","Û≤t$t∞´$do¥∫","MS",729
+"shut the door","VA75B","298","E","N"," "," ","Û≥{∞}t$t∞´$do∫¥","MS",730
+"shut the door","NC1","303","E","N"," "," ","Û≤º{∞}t$t±øΩ$do{π}{¥}","MS",731
+"shut the door","NC2A","301","E","Y"," ","AUX","Û≤t${‰}{∞}$do∞é","MS",732
+"shut the door","NC2B","304","E","N"," "," ","Û∏t$t±øΩ$do{∞}¥","MS",733
+"shut the door","NC3A","305","E","N"," "," ","Û≤t$t±ø$do∫∞é","MS",734
+"shut the door","NC3B","306","E","N"," "," ","Û∏t$t±øΩ$do∞é","MS",735
+"shut the door","NC4A","307","E","N"," "," ","Û∏'t$tê$do∞{∞é}","MS",736
+"shut the door","NC4B","308","E","N"," "," ","Û∏´t$t±øΩ$do∫{∞}","MS",737
+"shut the door","NC5A","309","E","N"," "," ","Û∏t$t±ø$do∫∞é","MS",738
+"shut the door","NC5B","310","E","N"," "," ","Û∏´t$t±øΩ$do{π}{∞}","MS",739
+"shut the door","NC5B","310","E","N"," "," ","Û∏´t$t±øΩ$do∞","MS",739
+"shut the door","NC6!","311!","E","N"," "," ","Û∏´{∞}t$‰è∞$do∫∞","MS",740
+"shut the door","NC7A","315(*)","E","Y"," ","AUX","Û∏t${‰}{±ø}$do{∞}","MS",741
+"shut the door","NC7B","316","E","N"," "," ","Û∏´{∞}t$t±ø$do∞é","MS",742
+"shut the door","NC8N","N317","E","N"," "," ","Û≤t$t±ø$do{πΩ}","MS",743
+"shut the door","NC8A","317","E","N"," "," ","Û≤t$t±ø$doº{π}{¥}","MS",744
+"shut the door","NC8B","318(*)","E","N"," "," ","Û∏t$‰∞$do{π}{∞}","MS",745
+"shut the door","NC8B","318(*)","E","Y"," ","AUX","Û∏'t$‰è∞$do{∞}","MS",745
+"shut the door","NC9A","319","E","N"," "," ","Û≤t$t±ø$doΩ∫∞é","MS",746
+"shut the door","NC9B","320","E","N"," "," ","Û≤t$t±øΩ$do∫∞é","MS",747
+"shut the door","NC10A","321","E","N"," "," ","Û≤t${t}{±øΩæ}$doΩ{π}¥","MS",748
+"shut that door","NC10B","323","E","N"," "," ","Û≤{∞}'t$‰·æ{∞}t$do∫¥","MS",749
+"shut the door","NC10C","322","E","N"," "," ","Û∏{∞}t$‰è∞$d∑´∫¥","MS",750
+"shut the door","NC11A","325","E","N"," "," ","Û∏t$‰è∞$do¥","MS",751
+"shut the door","NC11B","326","E","N"," "," ","Û∏t${‰è}{∞}$doΩ{o}¥","MS",752
+"shut the door","NC12A","327(*)","E","N"," "," ","Û≤t$t±øΩ$doΩºπ´","MS",753
+"shut the door","NC12A","327(*)","E","Y"," ","AUX","Û∏t${d}{±ø}$do{∞}","MS",753
+"shut the door","NC12B","328","E","N"," "," ","Û∏ó´t${t}{±ø}$do∫{∞é´}","MS",754
+"shut the door","NC13A","329","E","N"," "," ","Û≤t$t±ø$do∫¥","MS",755
+"shut the door","NC13B","330(*)","E","N"," "," ","Û∏'t$‰∞$do∫¥","MS",756
+"shut the door","NC13B","330(*)","E","Y"," ","AUX","Û∏t$‰è∞$do∫¥","MS",756
+"shut the door","NC14N","N331","E","N"," "," ","Û≤t$t±ø$do∞","MS",757
+"shut the door","NC14A","331","E","N"," "," ","Û∏'t$t±ø$do∫∞é","MS",758
+"shut the door","NC14B","332","E","N"," "," ","Û∏t$‰±ø$doΩ{π}∞é","MS",759
+"shut the door","NC14C!","333!","E","N"," "," ","Û∏t${‰}{∞}$doΩ∞","MS",760
+"shut the door","NC15A","335(*)","E","N"," "," ","Û≤'t${t}{±ø}$do∫{πé}","MS",761
+"shut the door","NC15B","336","E","N"," "," ","Û∏´º{∞}t$t±ø$doΩ{π}∞é","MS",762
+"shut the door","NC15C","335X","E","N"," "," ","Û≤t$t±ø$doΩ∞","MS",763
+"shut the door","NC16A","339(*)","E","N"," "," ","Û≤t$t±ø$do{π}","MS",764
+"shut the door","NC16A","339(*)","E","Y"," ","AUX","Û≤t${t}±ø$doΩºπ","MS",764
+"shut the door","NC16B","340","E","N"," "," ","Û≤t$t±ø$do{π}{∞é}","MS",765
+"shut the door","NC17A","337","E","N"," "," ","Û≤t$t±ø$do∫{∞é}","MS",766
+"shut the door","NC17B","338","E","N"," "," ","Û≤{∞}t$‰è∞$do{π}∞é","MS",767
+"shut the door","NC18A","341","E","N"," "," ","Û≤t$t±øΩ$do∞é","MS",768
+"shut the door","NC18B","342","E","N"," "," ","Û∏'t$‰∞$do∞","MS",769
+"shut the door","NC19A","343","E","N"," "," ","Û≤{∞}t$t±ø$do∫¥","MS",770
+"shut the door","NC19B","344","E","N"," "," ","Û∏´t$t±ø$do∞","MS",771
+"shut the door","NC20A","345","E","N"," "," ","Û≤t${t}{±ø}$do{¥}r","MS",772
+"shut the door","NC20B","346a","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",773
+"shut the door","NC20C","346b","E","N"," "," ","Û∏'t$‰∞$do∫¥","MS",774
+"shut the door","NC21A","347","E","N"," "," ","Û≤t$t∞$do∫¥∫","MS",775
+"shut the door","NC21B","348","E","N"," "," ","Û∏t$‰è∞$do{π}∞é","MS",776
+"shut the door","NC22A","349","E","N"," "," ","Û≤t${d}{∞}$do{∞é}","MS",777
+"shut the door","NC22B","349b","E","N"," "," ","Û∏t$‰è∞$doΩ∞","MS",778
+"shut the door","NC23A","351a","E","N"," "," ","Û∏t$t∞$doΩ∞é","MS",779
+"shut the door","NC23B","351b(*)","E","N"," "," ","Û∏Ωt$‰∞$doΩ∞é","MS",780
+"shut the door","NC23B","351b(*)","E","Y"," ","AUX","Û∏´t$t∞$do∫∞é","MS",780
+"shut the door","NC23C!","351c!","E","N"," "," ","Û∏t$‰∞$doΩ∞","MS",781
+"shut the door","NC23C!","351c!","E","Y","natural","OLD","Û∏t$‰∞$doºπ","MS",781
+"shut the door","NC23D!","351d!","E","N"," "," ","Û∏´t$‰∞$doº{∞}","MS",782
+"shut the door","NC23D!","351d!","E","N"," "," ","Û∏´t$‰∞$doº{π}","MS",782
+"shut the door","NC24N","N352","E","N"," "," ","Û≤t$t±ø$do´∫","MS",783
+"shut the door","NC24A","352a","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",784
+"shut the door","NC24B","352b","E","N"," "," ","Û≤t$‰è∞$do∫¥","MS",785
+"shut the door","NC25N","N353","E","N"," "," ","Û≤t${d}{±øΩ}$do´","MS",786
+"shut the door","NC25A","353","E","N"," "," ","Û≤t$t∞$do∫¥","MS",787
+"shut the door","NC25B","354","E","N"," "," ","Û≤t${d}{±øΩ}$do{∞}","MS",788
+"shut the door","NC26A","355a","E","N"," "," ","Û≤t$t±ø$do∫{π}","MS",789
+"shut the door","NC26A","355a","E","N"," "," ","Û≤t$t±ø$do∫{∞}","MS",789
+"shut the door","NC26A","355a","E","N"," "," ","Û≤t$t±ø$do∫{∞é}","MS",789
+"shut the door","NC26B","355b","E","N"," "," ","Û∏ó´{∞}t${‰è}{∞}$do∫∞é","MS",790
+"shut the door","NC26C!","356!","E","N"," "," ","Û∏´t$‰è∞$doΩ∞","MS",791
+"shut the door","NC27A","357","E","N"," "," ","Û≤t$t±øΩ$do{π}{¥}","MS",792
+"shut the door","NC27B","358","E","N"," "," ","Û∏´ºt$t∞$do∫∞é","MS",793
+"shut the door","NC28A","361","E","N"," "," ","Û≤t$t∞$do∫¥","MS",794
+"shut the door","NC28B","361b","E","N"," "," ","Û≤t$t±ø$do{π}{r}","MS",795
+"shut the door","NC28C","362","E","N"," "," ","Û∏´t$‰è∞$doΩ{π}¥","MS",796
+"shut the door","NC29A","363(*)","E","N"," "," ","Û∏´t${dè}{∞}$do∞é","MS",797
+"shut the door","NC29A","363(*)","E","Y"," ","AUX","Û∏´t$d±ø$do∞é","MS",797
+"shut the door","NC29B","364","E","N"," "," ","Û∏´ºt$‰∞$do{π}{∞é}","MS",798
+"shut the door","NC30A","365","E","N"," "," ","Û≤´t${t}{dñ}$do{∞é}","MS",799
+"shut the door","NC30B","366","E","N"," "," ","Û∏´t$‰è∞$doΩ{o}∞é","MS",800
+"shut the door","NC31A","367","E","N"," "," ","Û≤t$t±ø$do{∞}","MS",801
+"shut the door","NC31B","368","E","N"," "," ","Û∏ó´t$t±øΩ$do∞","MS",802
+"shut the door","NC32A","369","E","N"," "," ","Û≤´t${d}∞$do∫{∞}","MS",803
+"shut the door","NC32B!","370!","E","N"," "," ","Û∏ó´{∞}t$‰∞$do∫∞","MS",804
+"close the door","NC32B!","370!","E","N"," "," ","kloºπz${‰}{∞}$do∫∞","MS",804
+"shut the door","NC33A","373","E","N"," "," ","Û≤{∞}t$t±ø$do{π}¥","MS",805
+"shut the door","NC33B","374","E","N"," "," ","Û≤t$t±ø$do∫∞é","MS",806
+"shut the door","NC34A","375","E","N"," "," ","Û≤t$t±ø$doΩ{π}{∞}","MS",807
+"shut the door","NC34B","376","E","N"," "," ","Û∏´t$‰è∞$doº{π´}","MS",808
+"shut the door","NC35A","377","E","N"," "," ","Û∏´ºt${‰}{∞}$do´","MS",809
+"shut the door","NC35A","377","E","N"," ","CNV","Û∏´ºt${d}{±ø}$do´","MS",809
+"shut the door","NC35B","378","E","N"," "," ","Û≤æ{∞}t$‰∞$do∫{∞é}","MS",810
+"shut the door","NC36N","N381","E","N"," "," ","Û≤t${t}±ø$do´∫","MS",811
+"shut the door","NC36A","381","E","N"," "," ","Û≤{∞}t$t±ø$do{π}{Úé}","MS",812
+"shut the door","NC36B","382","E","N"," "," ","Û∏´ºt$‰è∞$do∫∞é","MS",813
+"shut the door","NC37A","383","E","N"," "," ","Û≤t$t±øΩ$do{∞´}","MS",814
+"shut the door","NC37B","384","E","N"," "," ","Û≤t$t±øΩ$do{πΩ}","MS",815
+"shut the door","NC38N","N385","E","N"," "," ","Û≤t$t±ø$do∫{∞´}","MS",816
+"shut the door","NC38A","385","E","N"," "," ","Û≤t$t±ø$do{π}{∞æ}","MS",817
+"shut the door","NC38B","386","E","N"," "," ","Û∏ót$t±ø$do{π}","MS",818
+"shut the door","NC39A","389","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",819
+"shut the door","NC39B!","390!","E","N"," "," ","Û∏´t$‰è∞$do{πΩ}","MS",820
+"shut the door","NC40A","391","E","N"," "," ","Û∏´t$‰∞$do∫{∞}","MS",821
+"shut the door","NC40A","391","E","N"," "," ","Û≤t${d}{∞´}$do∫{∞}","MS",821
+"shut the door","NC40B","392","E","N"," "," ","Û∏t$‰è∞$do∫∞é","MS",822
+"shut the door","NC41!","393!","E","N"," "," ","Û∏t$‰è∞$do∞é","MS",823
+"shut the door","NC42A","403","E","N"," "," ","Û∏´t$t∞$do∫∞é","MS",824
+"shut the door","NC42B","404(*)","E","N"," "," ","Û∏´t${‰è}{∞}$do∫{π}{∞é}","MS",825
+"shut the door","NC42B","404(*)","E","Y"," ","AUX","Û∏ó´t$‰è∞$do∫¥","MS",825
+"shut the door","NC43A","397","E","N"," "," ","Û≤t$t∞$do{π}{∞}","MS",826
+"shut the door","NC43B","398","E","N"," "," ","Û∏´t$t∞$do{∞}","MS",827
+"shut the door","NC44","410(*)","E","N"," "," ","Û≤t$t±øΩ$do∫{∞}","MS",828
+"shut the door","NC44","410(*)","E","Y"," ","AUX","Û≤t$t±øΩ$do∞","MS",828
+"shut the door","NC45A","409(*)","E","N"," "," ","Û≤t$t±øΩ$do{π}","MS",829
+"shut the door","NC45A","409(*)","E","N"," "," ","Û≤t$t±øΩ$do{π}{∞}","MS",829
+"shut the door","NC45B","409X","E","N"," "," ","Û≤t$t±øΩ$do∫","MS",830
+"shut the door","NC46A","411","E","N"," "," ","Û≤t$t±øΩ$do∫∞é","MS",831
+"shut the door","NC46B","412","E","N"," "," ","Û∏´t$‰è∞$do∫∞é","MS",832
+"shut the door","NC46C!","412b!","E","N"," "," ","Û∏'t$‰è∞$do∞","MS",833
+"shut the door","NC47","413","E","N"," "," ","Û≤t$t±ø$do∫¥","MS",834
+"shut the door","NC48","418","E","N"," "," ","Û∏´ºt$t∞$do∫¥","MS",835
+"shut the door","NC49","421","E","N"," "," ","Û¿æt$t∞´$do∫¥","MS",836
+"shut the door","NC50A","422","E","N"," "," ","Û∏t$‰è∞$do∫{∞é}","MS",837
+"shut the door","NC50B!","423!","E","N"," "," ","Û∏´ºt$‰è∞$doΩ∞","MS",838
+"shut the door","NC51A","427","E","N"," "," ","Û≤t$t±øΩ$do∫{∞é}¥","MS",839
+"shut the door","NC51B","428","E","N"," "," ","Û∏t$t∞$do{π}{∞é}","MS",840
+"shut the door","NC52N","N429","E","N"," "," ","Û≤t$t±ø$do´∫","MS",841
+"shut the door","NC52A","429","E","N"," "," ","Û≤t$t∞$do{π}","MS",842
+"shut the door","NC52B","430","E","N"," "," ","Û∏´ºt$t∞$do{π}{∞}","MS",843
+"shut the door","NC53A","431","E","N"," "," ","Û≤t$t±ø$do{∞é}","MS",844
+"shut the door","NC53B","432","E","N"," "," ","Û≥t$t∞$do∫∞é","MS",845
+"shut the door","NC54A","433","E","N"," "," ","Û∏´ºt${‰}{∞}$do∫∞é","MS",846
+"shut the door","NC54B","434","E","N"," "," ","Û∏´º{∞}t$‰è∞$do∫∞é","MS",847
+"shut the door","NC55","435","E","N"," "," ","Û≤t$t∞´$do∫∞é","MS",848
+"shut the door","NC56A","436","E","N"," "," ","Û∏´t$t∞´$do∫¥","MS",849
+"shut the door","NC56B!","437!","E","N"," "," ","Û∏´ºt$‰∞$do{π}","MS",850
+"shut that door","NC57A","438a","E","N"," "," ","Û≤t$‰·t$do∫∞é","MS",851
+"shut the door","NC57A","438a","E","N"," "," ","Û≤t$t∞$do∫∞é","MS",851
+"shut the door","NC57B","438b","E","N"," "," ","Û∏´t$t∞$do{∞}","MS",852
+"shut the door","NC58A","439","E","N"," "," ","Û∏t$t∞$do{π}¥","MS",853
+"shut the door","NC58B","440","E","N"," "," ","Û∏t$‰∞$do{π}{¥}","MS",854
+"shut the door","NC59","441(*)","E","N"," "," ","Û∏´º{∞}t${‰}{∞}$do¥","MS",855
+"shut the door","NC60","442","E","N"," "," ","Û∏´t$t±øΩ$do{π}{∞é}","MS",856
+"shut the door","NC61A","443","E","N"," "," ","Û≤t$t∞$do∫¥","MS",857
+"shut the door","NC61B","444","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",858
+"shut the door","NC62A","447","E","N"," "," ","Û≤t$t±øΩ$doΩ∫¥","MS",859
+"shut the door","NC62B","448","E","N"," "," ","Û∏´t$‰è∞$doΩ∫¥","MS",860
+"shut that door","NC63A","449","E","N"," "," ","Û≤t$‰·{∞}'t$doΩ∫¥","MS",861
+"shut the door","NC63B","450","E","N"," "," ","Û∏t$‰∞$doΩ{o}¥","MS",862
+"shut up the door","NC64A","453","E","N"," "," ","Û≤tê$∏ó´p$‰è∞$do∫¥","MS",863
+"shut the door","NC64B","454","E","N"," "," ","Û∏t$‰è∞$do∫¥","MS",864
+"shut the door","NC65A","461","E","N"," "," ","Û∏t$‰è∞$do∫{¥}","MS",865
+"shut the door","NC65B","462","E","N"," "," ","Û∏´º{∞}t${‰è}{∞}$do∫¥","MS",866
+"shut the door","NC66A","465","E","N"," "," ","Û∏´t$‰è∞$doΩ∫¥","MS",867
+"shut the door","NC66B","466","E","N"," "," ","Û∏ó´t$‰è∞$doΩ{π}¥","MS",868
+"shut the door","NC67A","469","E","N"," "," ","Û≤t$t±øΩ$doΩ∫{π}∞é","MS",869
+"shut the door","NC67B","470","E","N"," "," ","Û≤t${t}{±ø}$do∫∞é","MS",870
+"shut the door","NC68A","473","E","N"," "," ","Û≤{∞}t$t{±øΩ}$do∫¥","MS",871
+"shut the door","NC68B","474","E","N"," "," ","Û∏t$t∞$do∫¥","MS",872
+"shut the door","NC69A","477","E","N"," "," ","Û≤t$t±øΩ$do∫¥","MS",873
+"shut the door","NC69B","478","E","N"," "," ","Û≤t$t±ø$do∫∞é","MS",874
+"shut the door","NC70A","479","E","N"," "," ","Û≤t$t±ø$doΩ{o}¥","MS",875
+"shut the door","NC70B","480","E","N"," "," ","Û∏t$‰∞è$d∑´{o}¥","MS",876
+"shut the door","NC71A","481","E","N"," "," ","Û≤t$t±øΩ$do∫¥","MS",877
+"shut the door","NC71B","482","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",878
+"shut the door","NC71C!","483!","E","N"," "," ","Û∏ó´t$‰è∞$doΩ{π}¥","MS",879
+"shut the door","NC72A","487","E","N"," "," ","Û≤t$t∞Ω$doΩ∫¥","MS",880
+"shut the door","NC72B","488","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",881
+"shut that door","NC73A","491","E","N"," "," ","Û≤{∞}t$‰è·{∞}t$doΩ∫¥","MS",882
+"shut the door","NC73B","492","E","N"," "," ","Û≤t${t}±ø$do∫¥","MS",883
+"shut the door","NC74A","493","E","N"," "," ","Û∏t$‰è∞$do{π}¥","MS",884
+"shut the door","NC74B","494","E","N"," "," ","Û∏´t$‰è∞$doΩ∫¥","MS",885
+"shut that door","NC75A","495","E","N"," "," ","Û≤t$‰è·{∞}t$do∫¥","MS",886
+"shut the door","NC75B","496","E","N"," "," ","Û∏t$‰è∞$doΩ∫¥","MS",887
+"shut the door","SC1A","203.1","E","N"," "," ","Û≤t$t±ø$doº{π}","MS",888
+"shut the door","SC1B","203.2","E","N"," "," ","Û∏t$‰è∞$do∫∞é","MS",889
+"shut the door","SC2A","204.1(*)","E","N"," "," ","Û≤t$t±øΩ$do{∞é}","MS",890
+"shut the door","SC2B","204.2","E","N"," "," ","Û≤∏t$t∞$do{π}","MS",891
+"shut the door","SC2C","204.1X","E","N"," "," ","Û≤t$t∞$do{∞}","MS",892
+"shut the door","SC3A","205.1","E","N"," "," ","Û≤t${d}{±øΩ}$do´{∞é}","MS",893
+"rung","SC3A","205.1","V","Y"," ","INA","r¶˛Ω{∞}Ó","MS",893
+"shut the door","SC3B","205.2","E","N"," "," ","ÂÛ¶º{∞}t$d±ø´º$ıdoº∫","MS",894
+"shut them up","SC3B","205.2","E","N"," ","CNV","Û≤´{∞}t$∞´m$¶Ω{∞}p","MS",894
+"shuts clear up","SC3B","205.2","E","N","box cooler"," ","Û≤´{∞}ts$Âk≈è≤∫¥$ı∞Ω{∞}p","MS",894
+"shut the door","SC3C!","205.3!","E","N"," "," ","ÂÛ¶Ω{∞}t$‰±øΩ$ıdo∫∞","MS",895
+"shut up","SC4A","206.1","E","N"," ","CNV","Û≤´{∞}Ò$ı∏´{∞}p","MS",896
+"pull the door to","SC4A","206.1","E","N"," "," ","p`π´º{∞}Û$dë±ø´º$do∫$ıt`uøº∫","MS",896
+"shut the box","SC4A","206.1","E","N"," ","CNV","ÂÛ≤´t$‰±ø´º$ıb∂{∞}ks","MS",896
+"shut down","SC4B","206.2","E","N"," ","CNV","ÂÛ∏´{∞}t$ıda´æ∫oºn","MS",897
+"shut the door","SC4B","206.2","E","N"," "," ","ÂÛ∏´{∞}t$‰∞$ıdo∫∞","MS",897
+"shut the door","SC4C","206.3","E","N"," "," ","ÂÛ∏´{∞}t$‰±ø$Âdoº∫∞é","MS",898
+"shut the door","SC5A","207.1","E","N"," "," ","ıÛ≥æ´t$‰±ø$Âdo∫∞","MS",899
+"shut it up","SC5B","207.2","E","N"," ","CNV","Û∏Ò$∞´tê$∞´p","MS",900
+"shut like a door","SC5B","207.2","E","N"," ","CNV","ÂÛ∏´{∞}t$ılµ´æ±øk∞$Âdo´º∫∞","MS",900
+"shut the door","SC5C","207.2A","E","N"," "," ","Û∏t$‰∞$do¥","MS",901
+"shut up","SC5D!","207.3!","E","N"," ","CNV","Û•Ò$∞Ωp","MS",902
+"shut them up","SC5D!","207.3!","E","N"," ","CNV","ÂÛ•ΩÒ$∞´m$Â∏´{∞}p","MS",902
+"shut the front door","SC5D!","207.3!","E","N"," ","CNV","Û∏{∞}t$‰±ø$ıfÚè∏´{∞}nt$Âdo∫","MS",902
+"shut the door","SC6N","N208","E","N"," "," ","ıÛ∏´t$dë±ø´º$Âdo´º∫","MS",903
+"close the door","SC6N","N208","E","N"," "," ","t`lçèoº{∞}z$dë±ø$Âdo´º∫{∞}","MS",903
+"shut the door","SC6A","208.1","E","N"," "," ","Û∏{∞}t$‰∞$do∫{¥}","MS",904
+"rang","SC6A","208.1","V","Y"," ","INA","r·´Ó","MS",904
+"shut the door","SC6B","208.2(*)","E","N"," "," ","ÂÛ∏ºt$‰±ø$Âdoº∫∞","MS",905
+"shut the door","SC6B","208.2(*)","E","N"," "," ","ÂÛ∏ºt$‰±ø$Âdoº∫¥ó","MS",905
+"pull the shutters to","SC6B","208.2(*)","E","Y"," ","INA","ıpπ´ºl$‰±ø$ÂÛ∏´t∞´z$ıtuø","MS",905
+"shut the door","SC6C!","208.3!","E","N"," "," ","Û∏´t$‰∞$Âdo´∫∞","MS",906
+"shut the door","SC6D","208.2X","E","N"," "," ","Û≤´t$dë±ø´º$ıdoº∫∞éæ","MS",907
+"shut the door","SC7N","N209","E","N"," "," ","ÂÛ≤´t$d±ø´º$ıdoº∫","MS",908
+"close the door","SC7A","209.1","E","N"," "," ","Ât`lço´º∫πz$d±ø$ıdo´º∫∞","MS",909
+"shut the door","SC7B","209.2","E","N"," ","CNV","ıÛ∏´{∞}t$‰±ø´º$Âdoº∫∞","MS",910
+"shut it up","SC7B","209.2","E","N"," ","CNV","ÂÛ≤´t$±øºt$ı∏´{∞}p","MS",910
+"close the door","SC7B","209.2","E","N"," "," ","Âk`≈èoº∫{∞}z$‰±ø$Âdo´º∫∞","MS",910
+"pull the door shut","SC7B","209.2","E","N"," "," ","Âp`πº{∞}Ï$‰∞$ıdo´º∫∞$Û∏´º{∞}t","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"close the door","SC7D!","209.4!","E","N"," "," ","Âk`≈èoº{∞}z$‰±ø$ıdoº∫∞›","MS",912
+"shut the door","SC8A","210.1","E","N"," "," ","ÂÛ≤´æ∫{∞}t$dë±ø´º$Âdo´∫{∞}","MS",913
+"shutters","SC8A","210.1","N","Y"," ","INA/CNV","Û≤´Ò∞´z","MS",913
+"door in it","SC8A","210.1","O","Y"," ","INA/CNV","Âdo´∫¥$±´{∞}n$±øºt","MS",913
+"shut the door","SC8B","210.2","E","N"," "," ","ÂÛ≥´{∞}t$d±ø$ıdo´º∫∞","MS",914
+"shut the door","SC8C","210.3","E","N"," ","CNV","ÂÛ≥´º{∞}t$dë±ø´º$Âdo´º∫{∞}","MS",915
+"close the windows","SC8C","210.3","E","N"," "," ","tlço´{∞}z$dë±ø$Âw±´{∞}nd∞´z","MS",915
+"close the door","SC8C","210.3","E","N"," "," ","tlço´{∞}z$dë±ø$do∫","MS",915
+"shut the door","SC9A","211.1","E","N"," ","CNV","ÂÛ≤´{∞}t$dë±ø´º$Âdoº∫{∞ó}","MS",916
+"shut the door","SC9B","211.2","E","N"," ","CNV","ıÛ±øΩºt$dë±ø´º$Âdo´∫∞›","MS",917
+"door","SC9B","211.2","N","Y"," ","INA/CNV","do´∫","MS",917
+"windows","SC9B","211.2","N","Y"," ","INA/CNV","w±´æ{∞}nd∞´z","MS",917
+"shut the door","SC9C!","211.3!","E","N"," "," ","ıÛ∏´º{∞}t$‰∞$Âdo´º∫∞","MS",918
+"shut the door","SC9D!","211.4!","E","N"," "," ","ÂÛ≥´º{∞}t$‰∞´$Âdo´º∫∞","MS",919
+"shut up","SC9D!","211.4!","E","N"," ","CNV","Û≥´{∞}tê$∞´p","MS",919
+"shut the door","SC10A","212.1","E","N"," "," ","ÂÛ∏ºt$‰±øΩ$ıdo´º∫{∞}","MS",920
+"close the door","SC10A","212.1","E","N"," "," ","Ât`≈o´º∫{∞}z$‰±øΩ$do´º∫∞","MS",920
+"shut the door","SC10B!","212.2!","E","N"," "," ","Û∏Ωt$‰∞$Âdo∫∞","MS",921
+"shut the door","SC10C!","212.3!","E","N"," ","CNV","ıÛ∏Ωt$‰∞$Âdo∫∞","MS",922
+"shut the door","SC11N","N213","E","N"," "," ","Û∏Ωt${‰è}{±ø}$do{∞}","MS",923
+"ring","SC11N","N213","V","Y"," ","INA","r±Ó","MS",923
+"shut the door","SC11M!","2n213!","E","N"," "," ","ÂÛ∏´ºt$‰±ø´º$do´º∫{∞}","MS",924
+"door","SC11M!","2n213!","N","Y"," ","INA/CNV","do´º∫","MS",924
+"shut","SC11M!","2n213!","V","N"," "," ","Û≤ºt","MS",924
+"shut","SC11M!","2n213!","V","N"," "," ","Û∏´ºt","MS",924
+"close","SC11M!","2n213!","V","N"," "," ","Âk`≈èo´º∫z","MS",924
+"door","SC11M!","2n213!","N","Y"," ","INA/CNV","do´º∫¥","MS",924
+"shut the door","SC11A","213.1(*)","E","N"," "," ","ÂÛ∏´ºt$‰∞´$do´º∫∞","MS",925
+"shut the door","SC11A","213.1(*)","E","Y"," ","AUX","ıÛ∏Ωt$‰∞$Âdo{∞}","MS",925
+"close the door","SC11A","213.1(*)","E","N"," "," ","Âk`≈èo´º∫z$‰∞´$ıdo´º∫∞›","MS",925
+"close","SC11A","213.1(*)","V","Y"," ","AUX","klo{∞}z","MS",925
+"door","SC11A","213.1(*)","N","Y"," ","INA/CNV","do´º∫∞","MS",925
+"rung","SC11A","213.1(*)","V","Y"," ","AUX/INA","r∏ΩÓ","MS",925
+"shut the door","SC11B","213.11","E","N"," "," ","ÂÛ∏t$dè∞$ıdoΩ∫∞›","MS",926
+"shut off","SC11B","213.11","E","N"," ","CNV","ÂÛ∏t$ı∑´{∞}f","MS",926
+"shut the door","SC11C","213.2","E","N"," "," ","ÂÛ∏ºt$tê∞$ıdo´º∫","MS",927
+"close it","SC11C","213.2","E","N"," "," ","k`≈èo´º∫{∞}z$±øºt","MS",927
+"shut the door","SC11D","213.3","E","N"," "," ","ıÛ∏´ºt$‰∞´$Âdo´º∫∞","MS",928
+"close the door","SC11D","213.3","E","N"," "," ","k`≈èo´º∫z$‰∞$do´º∫∞","MS",928
+"shut the door","SC11E","213.4","E","N"," "," ","ÂÛ∏ºt$˘±øº$do´º∫","MS",929
+"close the door","SC11E","213.4","E","Y","""young people today¢","NEW","k`≈èo´º∫{∞}z$˘±øº$do´º∫","MS",929
+"door","SC11E","213.4","N","Y"," ","INA/CNV","do´º∫∞","MS",929
+"door","SC11E","213.4","N","Y"," ","INA/CNV","dπº∫∞","MS",929
+"close the door","SC11F","213.5","E","N"," "," ","Âk`≈èo´º∫{∞}z$‰±ø$ıdo´º∫{∞}","MS",930
+"shut","SC11F","213.5","V","Y","""colored people and old timers¢","OLD","Û≤t","MS",930
+"shut","SC11F","213.5","V","N"," "," ","Û∏Ωºt","MS",930
+"shut the door","SC11G!","213.7!","E","N"," "," ","ÂÛ≥ºt$‰∞´æ$ıdo´º∫∞","MS",931
+"close the door","SC11G!","213.7!","E","N"," "," ","Âtlçèoº∫{∞}z$‰∞›$ıdoº∫∞","MS",931
+"shut the door","SC11H!","213.8!","E","N"," "," ","ÂÛj∏ºt${‰}±ø´º$do´º∫∞›","MS",932
+"shut the door","SC11I!","213.9!","E","Y"," ","AUX","ıÛ∏Ωt$‰∞$Âdo∞","MS",933
+"rang","SC11I!","213.9!","V","Y"," ","AUX/INA","r·ΩÓ","MS",933
+"shut the door","SC11J!","213.10!","E","N"," "," ","ÂÛ∏´ºt$‰±øΩ$doΩº∫∞","MS",934
+"close the door","SC11J!","213.10!","E","N","a little more abrupt; don't ""slam¢"," ","ık`≈o´º∫{∞}z$‰∞´$doΩº∫∞","MS",934
+"at the door","SC11J!","213.10!","Q","N"," ","CNV","Â·Ωt$‰∞´$doº∫∞","MS",934
+"slam","SC11J!","213.10!","V","Y"," ","INA","s≈è·Ωm","MS",934
+"shut the door","SC12A","214.1","E","N"," "," ","ÂÛ≤´{∞}t$d±ø$ıdo∫{∞}","MS",935
+"shut down","SC12A","214.1","E","N","mill","CNV","ÂÛ≤´Á$Âd·Ω∫on","MS",935
+"shut up","SC12A","214.1","E","N"," ","CNV","ÂÛ≤´{∞}t$¶Ω{∞}p","MS",935
+"shut the door","SC12B","214.2","E","N"," "," ","Û∏Ωt$‰∞$do∫","MS",936
+"rung","SC12B","214.2","V","Y"," ","INA","r∏´{∞}Ó","MS",936
+"shut the door","SC13","213.6","E","N"," "," ","ıÛ∏Ωºt$‰±ø$Âdoº∫∞","MS",937
+"shut the door","SC14A","215.1","E","N"," "," ","Û∏Ωt${d}{±ø}$do´∫{∞}","MS",938
+"rang","SC14A","215.1","V","Y"," ","INA","r·ΩæÓ","MS",938
+"shut the door","SC14B","215.2","E","N"," "," ","ÂÛ¶Ωº{∞}t$‰±ø´º$ıdoº∫∞","MS",939
+"shut the door","SC15A","216.1","E","N"," ","CNV","ÂÛ≥´{∞}t$‰±ø´º$ıdoº∫∞","MS",940
+"shut the door","SC15B","216.2","E","N"," "," ","ÂÛ∏´º∞t$‰±ø$Âdo´º∫∞ó","MS",941
+"closed","SC15B","216.2","V","N"," ","CNV","tlço∫{∞}zd","MS",941
+"door","SC15B","216.2","N","Y"," ","INA/CNV","do´∫","MS",941
+"shut up","SC15C","216.3","E","N"," ","CNV","ÂÛ∏´ºt$ı∏´º{∞}p","MS",942
+"shut the door","SC16N","N217","E","N"," "," ","ÂÛ≤´{∞}t$dë±ø´º$ıdo´∫","MS",943
+"shut the door","SC16","217.1","E","Y","used to be","OLD","ÂÛ≤æt$t±ø$doæo›","MS",944
+"close it","SC16","217.1","E","N","now"," ","klo∫z$±øt","MS",944
+"shut the door","SC16","217.1","E","Y","used to be","OLD","ÂÛ≤t$t±ø$doæo›","MS",944
+"shut the door","SC17A","218.1","E","N"," ","CNV","Û≤´{∞}t$dë±ø$Âdoº∫¥","MS",945
+"shut the door","SC17A","218.1","E","N"," ","CNV","Û≤´t$dë±ø$Âdo∫∞éæ","MS",945
+"shut it","SC17A","218.1","E","N"," ","CNV","Û≤´{∞}Ò±øºt","MS",945
+"shut the door","SC17B","218.2","E","N"," "," ","ÂÛ≤´{∞}t$‰±ø$ıdo∫{∞}","MS",946
+"shut them up","SC17B","218.2","E","N"," ","CNV","ÂÛ≤´{∞}tê∞´m$ı∏´{∞}p","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"shut that door","SC17D","218.4","E","N"," ","CNV","ÂÛ≤´{∞}t$ı‰·{∞}t$Âdo´∫{∞}","MS",948
+"shut the door","SC17D","218.4","E","N"," ","CNV","ıÛ∏´Ò∞$Âdo∫∞","MS",948
+"shut the door","SC18N","N219","E","N"," "," ","Û∏´ºt$‰±øΩ$Âdo´º∫{∞}","MS",949
+"close the door","SC18N","N219","E","N"," "," ","t`lèo´º∫{∞}z$‰±øΩ$Âdo´º∫{∞}","MS",949
+"shut the door","SC18N","N219","E","N"," ","CNV","ÂÛ≤æÒ$∞Ω$ıdo´º∫{∞}","MS",949
+"shut it off","SC18N","N219","E","N"," ","CNV","ÂÛ≤´Ò$±øºt$ıoΩº∫{∞}f","MS",949
+"shut","SC18A","219.1","V","N"," ","CNV","Û¶ºt","MS",950
+"close the door","SC18B","219.2","E","N"," "," ","Âk`≈èoº∫{∞}z$‰±ø$ıdoΩº∫∞","MS",951
+"shut up","SC18B","219.2","E","N"," ","CNV","ÂÛ∏´ºÒ∞Ωp","MS",951
+"shut it","SC18B","219.2","E","N"," "," ","ÂÛ∏´Ò±øºt","MS",951
+"shut the door","SC18C!","219.3(*)!","E","N"," "," ","ÂÛ∏ºt$‰∞´$ıdo´∫{∞}","MS",952
+"shut up","SC18C!","219.3(*)!","E","N"," ","CNV","ÂÛ≤æt¶Ωp","MS",952
+"close the door","SC18C!","219.3(*)!","E","Y","""more refined¢","AMS","Âk`≈o´º{∞}z$‰±øΩ$do´º∫{∞}","MS",952
+"slam the door","SC18C!","219.3(*)!","E","N"," "," ","sl·m$‰∞´$do´∫{∞}","MS",952
+"push the door to","SC18C!","219.3(*)!","E","N"," "," ","Âp`πøæÛ$‰±øΩ$Âdoº∫∞$ıt`uø∫","MS",952
+"doors battened together","SC18D!","219.3X","O","Y","those to replace the ones the Yankees took were made of boards","INA/CNV","do´º∫{∞}z$b·Ω'tn$t∞Âgà≤‰∞","MS",953
+"shut the door","SC19N","N220","E","N"," "," ","Û≤t${t}{±ø}$do´∫","MS",954
+"ring","SC19N","N220","V","Y"," ","INA","r±Ó","MS",954
+"knock","SC19N","N220","V","Y"," ","INA/OLD","nﬁîk","MS",954
+"shut the door","SC19A","220.1","E","N"," "," ","Û∏Ωt$‰±ø$do´º:∞","MS",955
+"close the door","SC19A","220.1","E","N"," "," ","Ât`lçèo´º∫{∞}z$‰±ø$ıdo´º:∞","MS",955
+"shut the door","SC19B","220.4","E","N"," "," ","Û∏´ºt$dè±øº$do∫∞","MS",956
+"close the door","SC19B","220.4","E","N"," "," ","k`lo∫{∞}z$zë±ø$do∫∞","MS",956
+"shut the door","SC19C","220.2(*)","E","N"," "," ","ÂÛ≤´æt$‰±øΩ$ıdo´º∫{∞}","MS",957
+"close the door","SC19C","220.2(*)","E","N"," "," ","Ât`lèo´º∫{∞}z$‰±ø´º$ıdo´º∫{∞}","MS",957
+"windows","SC19C","220.2(*)","N","Y"," ","INA","w±´nd∞ó´æz","MS",957
+"shut the door","SC19D!","220.3!","E","N"," "," ","Û∏´ºt$dë±ø´º$Âdo´º∫∞","MS",958
+"shut the blinds","SC19D!","220.3!","E","N"," "," ","Û∏´ºt$dë±ø´º$blµ∫±ønz","MS",958
+"shut the doors","SC19E!","220.2X","E","N"," "," ","ÂÛ∏t$‰±ø´$do´º∫∞z{zè}","MS",959
+"close the doors","SC19E!","220.2X","E","N"," "," ","Ât`lèo´º∫{∞}z$‰∞´$do´º∫∞z{zè}","MS",959
+"shutters","SC19E!","220.2X","N","Y"," ","INA","Û∏Ωºtê∞Ωz","MS",959
+"shut the door","SC20A","221.1","E","N"," "," ","ÂÛ≥´t$‰∞$Âdo´º∫∞","MS",960
+"shut the door","SC20B","221.2","E","N"," ","SIC","ÂÛ¶Ωt$‰±ø$ıdo´º∫¥","MS",961
+"shut the door","SC20C","221.3","E","N"," ","CNV","Û¶Ωt$‰±ø$ıdo´º∫∞","MS",962
+"close it up","SC20C","221.3","E","N"," ","CNV","Âtlçèoº∫πºz$±øºt$ı¶Ωp","MS",962
+"shut up","SC20C","221.3","E","N"," ","CNV","ÂÛ¶Ωd$ı¶Ωp","MS",962
+"shut the door","SC20D!","221.4!","E","N"," "," ","ıÛ¶Ωt$‰∞$Âdo´º∫∞","MS",963
+"shut the door","SC21A","222.1","E","N"," "," ","Û∏´ºt$t∞$do∫∞é","MS",964
+"shut the door","SC21B","222.2","E","N"," "," ","Û∏´t$t∞$do∫∞é","MS",965
+"shut the door","SC22N","N223","E","N"," "," ","Û∏´t${t}{±ø}$do∫","MS",966
+"rang","SC22N","N223","V","Y"," ","INA","r·{±ø}Ó","MS",966
+"shut the door","SC22A","223.1","E","N"," ","CNV","ÂÛ∏´{∞}t$‰∞$ıdo∫∞","MS",967
+"shut the door","SC22B","223.2","E","N"," "," ","Û∏t$‰∞$do∫","MS",968
+"shut the door","SC22C!","223.3!","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞$Âdoº∫∞","MS",969
+"shut the door","SC23A","224.1","E","N"," "," ","ÂÛ∏´{∞}t$‰±ø$ıdo∫∞æ","MS",970
+"shut the door","SC23B","224.2","E","N"," ","CNV","ÂÛ≥´{∞}t$‰∞´$ıdoº∫¥óæ","MS",971
+"shut up","SC23B","224.2","E","N"," ","CNV","ÂÛ≥´{∞}t$∏´{∞}p","MS",971
+"shut the door","SC23C","224.3","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞$ıdo∫∞","MS",972
+"NR","SC23D","224.4"," ","N"," "," "," ","MS",973
+"shut the door","SC23E!","224.5!","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞$Âdo∫∞","MS",974
+"shut that door","SC24N","N225","E","N"," "," ","ÂÛ≤´{∞}t$‰·{∞}t$Âdoº∫","MS",975
+"shut the door","SC24A","225.1","E","N"," "," ","Û∏´ºt${dë}±ø$Âdoº∫{∞}","MS",976
+"close the door","SC24A","225.1","E","N"," "," ","kloº∫z$z±øº$Âdoº∫∞›","MS",976
+"shut the door","SC24B","225.11","E","N"," "," ","ÂÛ≥´º{∞}t$‰±ø´º$ıdoº∫","MS",977
+"shut the door","SC24C","225.2","E","N"," "," ","ÂÛ≤´t$‰∞´$ıdoº∫∞","MS",978
+"shut the door","SC24D!","225.3!","E","N"," "," ","ÂÛ∏´{∞}t$‰±øº$ıdoº∫","MS",979
+"shut the door","SC25A","226.1","E","N"," "," ","ıÛ≤t${t}{±ø´}$Âdo´∫","MS",980
+"shut the door","SC25B","226.2","E","N"," ","CNV","ıÛ¶Ωt$‰∞$Âdo´∫{∞ó´}","MS",981
+"shut the door","SC25C!","226.3!","E","N"," "," ","ÂÛ¶ºt$‰±ø$ıdo´∫∞","MS",982
+"shut off","SC25C!","226.3!","E","N"," ","CNV","Û≥´tê$ı∑∫{∞}f","MS",982
+"shut the door","SC26A","227.1","E","N"," "," ","ÂÛ∏∫t$dë±ø´º$ıdo∫","MS",983
+"shut the door","SC26A","227.1","E","N"," ","CNV","ÂÛ¶Ωt$dë±ø´º$ıdo´º∫","MS",983
+"shut the door","SC26B!","227.2!","E","N"," "," ","ÂÛ¶Ωt$‰∞$Âdoº∫∞","MS",984
+"shut the door","SC27A","228.1","E","N"," "," ","ÂÛ∏t$dë±ø$ıdo∞","MS",985
+"close the door","SC27B","228.2","E","N"," "," ","Âklèo∫{∞}z$dë±ø$Âdo∫∞›","MS",986
+"shut up","SC27B","228.2","E","N"," "," ","ÂÛ≥´'tıt¶Ω{∞}p","MS",986
+"close the door","SC28A","229.1","E","N"," "," ","Âklèoº∫z${dë}±ø´º$ıdoº∫","MS",987
+"shut the door","SC28B","217.2","E","N"," "," ","Û≥´t$‰±ø$Âdoº∫∞","MS",988
+"shut that door","SC28C","229.2","E","N"," ","CNV","ÂÛ¶ΩÒ·›t$ıdoº∫","MS",989
+"shut","SC28C","229.2","V","N"," ","CNV","Û∏´t","MS",989
+"shut that door","SC28D","229.3","E","N"," "," ","ÂÛ¶Ωº{∞}t$dë·{∞}t$Âdo´∫","MS",990
+"shut up","SC28D","229.3","E","N"," ","CNV","ÂÛ∏{∞}Ò∞´p","MS",990
+"shut the door","SC29A","230.2(*)","E","N"," ","CNV","Û¶Ωt$‰±ø$Âdoº∫∞é","MS",991
+"shut them up","SC29A","230.2(*)","E","N"," ","CNV","ÂÛ¶Ωtê∞´m$ı¶Ω{∞}p","MS",991
+"door was shut","SC29B","230.1(*)","S","N"," ","CNV","Âdo∫∞$w∞´z$ÂÛ¶ºt","MS",992
+"shut the door","SC29C","230.3","E","N"," "," ","ıÛ≥´t$‰±ø$Âdo∫","MS",993
+"door was open","SC29C","230.3","S","Y"," ","INA/CNV","do∫$w∞´z$Âo∫{∞ó}'pm","MS",993
+"shut the door","SC29D","230.2X","E","N"," "," ","ÂÛ≤´t$d±ø$ıdoº∫","MS",994
+"shut the door","SC29E","230.1X","E","N"," "," ","ÂÛ¶Ω{∞}t$dë±ø´º$ıdoº∫∞","MS",995
+"shut","SC29E","230.1X","V","N"," ","CNV","Û≥´º{∞}t","MS",995
+"shut the door","SC30A","231.1","E","N"," "," ","Û≤t$t±ø$do´∫","MS",996
+"the door","SC30B","231.2","O","N"," "," ","‰∞$Âdoº∫πº","MS",997
+"shut up","SC30C!","231.3!","E","N"," "," ","ÂÛ¶Ωtê$¶Ωp","MS",998
+"shut the door","SC31A","232.1","E","N"," "," ","ÂÛ≥´t$‰±ø´º$ıdo´∫","MS",999
+"shut it up","SC31B","232.2","E","N"," ","CNV","ÂÛ≤´tê±øºt$¶Ω{∞}p","MS",1000
+"shut it","SC31B","232.2","E","N"," ","CNV","ÂÛ≤´tê±øºt","MS",1000
+"go close the door","SC31B","232.2","E","N"," ","CNV","ıgoº∫$Âklèoº∫{π}z$dë∞$Âdo´º∫{π}∞","MS",1000
+"shut that door","SC32A","233.1","E","N"," "," ","ÂÛ¶Ω{∞}t$ı‰·´{∞}t$Âdo´∫∞","MS",1001
+"shut the door","SC32B","233.2","E","N"," "," ","ÂÛ¶º{∞}t$‰±ø$ıdoº∫{πº}","MS",1002
+"shut it up","SC32B","233.2","E","N"," ","CNV","ÂÛ≤´{∞}tê±øºt$ı¶º{∞}p","MS",1002
+"shut up","SC32B","233.2","E","N"," "," ","ÂÛ¶Ω{∞}t$¶º{∞}p","MS",1002
+"shut","SC32B","233.2","V","N"," ","CNV","ÂÛ≤´æ{∞}t","MS",1002
+"shut the door","SC32C","233.3","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞$ıdoº∫{πº}","MS",1003
+"shut the door","SC32D","233.4","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞´$ıdoº∫πº","MS",1004
+"shut the door","SC33A","234.1","E","N"," "," ","Û≤t$t±øΩ$do∫{∞´}","MS",1005
+"NR","SC33B","234.2"," ","N"," "," "," ","MS",1006
+"shut the door","SC34A","235.1","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞$ıdoº∫πº","MS",1007
+"shut the door","SC34B","235.2","E","N"," "," ","ÂÛ¶Ω{∞}t$‰±øΩ$ıdoº∫πº","MS",1008
+"shut the door","SC34C","235.3","E","N"," "," ","ÂÛ¶Ω{∞}t$‰∞$ıdoº∫πº","MS",1009
+"shut the door","SC35A","236.1","E","N"," "," ","ÂÛ¶Ω{∞}t$‰±øº$ıdoº∫∞é´æ","MS",1010
+"shut the door","SC35A","236.1","E","N"," ","CNV","ÂÛ≤´{∞}t$‰∞$ıdoº∫¥","MS",1010
+"shut the door","SC35B","236.2","E","N"," "," ","ÂÛ¶Ωº{∞}t$‰±ø´º$ıdoº∫∞é´æ","MS",1011
+"shut the door","SC35C","236.3(*)","E","N"," "," ","ÂÛ∏´t$t±øº$doº∫{∞}","MS",1012
+"close the door","SC35C","236.3(*)","E","N"," "," ","kloºπºz∞$Âdoº∞","MS",1012
+"close the door","SC35C","236.3(*)","E","N"," "," ","Âkloºπºzè${z}±øº$ıdoº∞","MS",1012
+"half shut it","SC35C","236.3(*)","E","N"," "," ","ıh·´{∞}f$ÂÛ≤´tê$±øt","MS",1012
+"rang the bell","SC35C","236.3(*)","E","Y"," ","INA","Âr·Ω{±ø}Ó$d∞$Âb≤∫{∞}l","MS",1012
+"NA","SC35D","236.2X"," ","N"," "," "," ","MS",1013
+"NR","SC35E!","236.3X"," ","N"," "," "," ","MS",1014
+"shut the door","SC36A","237.1","E","Y"," ","AUX","Û¶Ωt$‰∞$doé´º∫¥æ","MS",1015
+"shut the door","SC36B","237.2","E","N"," ","CNV","ÂÛ¶Ωt$‰±ø$do´º∫¥ó´æ","MS",1016
+"at the door","SC36B","237.2","Q","Y"," ","INA/CNV","≤´tê∞$Âdoé∫π∫r","MS",1016
+"shut the door","SC36C","237.3","E","N"," ","CNV","ÂÛ¶Ωt$‰±ø$ıdo´º∫∞é","MS",1017
+"shut","SC36C","237.3","V","N"," ","CNV","ÂÛ≤´æt","MS",1017
+"shut the door","SC36D!","237.4!","E","N"," ","CNV","ÂÛ¶Ωºt$‰±ø$ıdo´º∫∞","MS",1018
+"shut the door","SC37","238","E","N"," "," ","ÂÛ¶Ωt$të∞$ıdoº{∞}","MS",1019
+"close the door","SC37","238","E","N"," "," ","Âkloπz${z}∞$ıdoº∞","MS",1019
+"shut the door","SC38N","N239","E","N"," "," ","ÂÛ≤ætê±ø´º$ıdoº∫π","MS",1020
+"shut the door","SC38A","239.1","E","N"," ","CNV","ÂÛ≤´t$‰±ø´º$ıdo´º∫π","MS",1021
+"shut it up","SC38A","239.1","E","N"," ","CNV","ÂÛ≤´tê±øºt$ı¶Ωp","MS",1021
+"shut the door","SC38B","239.2","E","N"," ","CNV","ÂÛ≤æt$‰±ø$ıdoº∫π","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"shut the door","SC38D!","239.4(*)!","E","N"," "," ","ÂÛ¶ºt$‰±ø´º$ıdo´º∫∞","MS",1024
+"close the door","SC38D!","239.4(*)!","E","N"," "," ","k`≈èoº∫πºz$‰±ø´º$do´º∫∞","MS",1024
+"close","SC38D!","239.4(*)!","V","N"," "," ","t`lçèoº∫πºz","MS",1024
+"shut up","SC38E!","239.4X","E","N"," ","CNV","ÂÛ≥´ºtê$ı¶Ωp","MS",1025
+"shut the doors","SC39A","240.1","E","N"," ","CNV","ıÛ¶Ωt$‰±ø´º$Âdoº∫πºz","MS",1026
+"close it up","SC39A","240.1","E","N"," ","CNV","Âk`≈èo´º∫πºz$ıt¶Ωp","MS",1026
+"shut the door","SC39A","240.1","E","N"," ","CNV","ÂÛ¶Ωt$‰±ø´º$ıdoº∫∞ó´æ","MS",1026
+"shut up","SC39A","240.1","E","N"," ","CNV","ÂÛ¶Ωtê$ı¶Ωp","MS",1026
+"shut the door","SC39B!","240.2!","E","N"," "," ","ÂÛ≤´æt$d±ø$ıdoº∫π","MS",1027
+"shut the door","SC40A","241.1","E","N"," "," ","ÂÛ≤´æt$d{‰}±ø´º$Âdoº∫{πº}∞","MS",1028
+"shut it","SC40A","241.1","E","N"," "," ","ÂÛ≤´tê$±øæt","MS",1028
+"shut the door","SC40B","241.2","E","N"," "," ","Û¶Ωt$‰±øº${d}oº∫πº","MS",1029
+"close the door","SC40B","241.2","E","N"," "," ","kà`lèoº∫πºz$‰±øΩ${d}oº∫πº","MS",1029
+"shut the door","SC41A","242.1","E","N"," "," ","Û∏´º{∞}t${‰}{∞}$do∫∞é","MS",1030
+"shut the door","SC41B","242.2","E","N"," "," ","ÂÛ∏´ºt$‰±ø$doº∫π›∞é","MS",1031
+"close the door","SC41B","242.2","E","N"," "," ","Âk`lèoº∫πºz$‰±øΩ$doº∫{π}∞é","MS",1031
+"shut the door","SC42N","N243","E","N"," "," ","ÂÛ∏´ºt$‰±øΩ$Âdoº∫π","MS",1032
+"door","SC42N","N243","N","Y"," ","INA","do´º∫πº","MS",1032
+"shut the door","SC42M","N243X","E","N"," ","CNV","Û≤´t$d±ø´º$ıdo´º∫π","MS",1033
+"shut the door","SC42M","N243X","E","N"," ","CNV","Û≤´t$d±ø´º$ıdo´º∫∞","MS",1033
+"we shut","SC42M","N243X","S","N"," ","CNV","wi∫j$Û≤´t","MS",1033
+"shut the door","SC42A","243.1","E","N"," "," ","Û∞Ωt$‰±øΩ$doº∫π{∞}","MS",1034
+"close the door","SC42A","243.1","E","N"," "," ","k`lèoºπºz$‰±øΩ$doº∫π{∞}","MS",1034
+"push to","SC42A","243.1","E","N"," "," ","Âp`π´ºÛ$ıt`uøæu´","MS",1034
+"shut the door","SC42B!","243.2!","E","N"," "," ","Û¶ºt$‰∞›´$ıdo´º∫∞","MS",1035
+"close the door","SC42B!","243.2!","E","N"," "," ","t`lèoº∫πºz$‰∞›´$do´º∫∞","MS",1035
+"shut the door","SC42C!","243.3!","E","N"," "," ","Û∏´ºt$‰±øΩ$do∫{π}∞","MS",1036
+"shut the door","SC42C!","243.3!","E","Y","""Niggers say it¢","HRD","Û≤{±ø}t$‰±ø›´$do∫{π}","MS",1036
+"close the door","SC42C!","243.3!","E","N"," "," ","tlèo∫{π}z$‰±ø´$do∫{π}∞","MS",1036
+"shut the door","SC42C!","243.3!","E","N"," ","CNV","ÂÛ≤æt$‰±øΩ$d∏´ºπº∞›","MS",1036
+"Niggers say it","SC42C!","243.3!","S","Y"," ","INA","Ân±gà∞›z$se{±ø}$±t","MS",1036
+"shut the door","SC42D!","243.4!","E","N"," "," ","Û∏´të$‰è∞$ÂdoΩ∫∞","MS",1037
+"rang","SC42D!","243.4!","V","Y"," ","INA","r·{±ø}Óà","MS",1037
+"shut the door","SC42E!","243.5!","E","N"," "," ","ÂÛ∏´t$të∞$Âdoº∫∞","MS",1038
+"close the door","SC42E!","243.5!","E","N"," "," ","ıkloº{πº}z$zë∞$Âdoº∫∞","MS",1038
+"shut them up","SC43A","244.1","E","N"," ","CNV","ÂÛ≤´t$d≤´m$¶Ωp","MS",1039
+"shut the door","SC43B","244.2","E","N"," "," ","Û≤´t$‰±$do´º∫πº¥","MS",1040
+"close the door","SC43B","244.2","E","N"," "," ","k`lèo´º∫πz$‰±øΩ$doº∫{π}¥","MS",1040
+"shut the door","SC43C","244.3","E","N"," "," ","ÂÛ≤´æt$‰∞´$ıdoé∫πé›¥","MS",1041
+"shut","SC43C","244.3","V","N"," ","CNV","ÂÛ≤´æt","MS",1041
+"shut the door","SC43C","244.3","E","N"," "," ","ÂÛ¶Ωºt$‰∞´$ıdoé∫πé›¥","MS",1041
+"close the door","SC43C","244.3","E","N"," "," ","k`lèo´∫{π}zè$‰∞´$ıdoé∫πé›¥","MS",1041
+"shut the door","SC44A","245.1","E","N"," "," ","ÂÛ¶Ωºt$t∞±ø´$Âdoº∫πº¥›","MS",1042
+"close the door","SC44A","245.1","E","N"," "," ","k`loº∫πºz$‰±ø´$Âdo´º∫πº¥","MS",1042
+"shut it","SC44B","245.2","E","N"," "," ","ÂÛ¶Ωºtê±øºt","MS",1043
+"close the door","SC44B","245.2","E","N"," "," ","Âk`loº∫πºz$‰∞´$Âdoº∫πº","MS",1043
+"shut the door","GA1N","N246","E","N"," "," ","ÂÛ∏´ºt$‰±ø$doº∫","MS",1044
+"shut the door","GA1A","246.1(*)","E","N"," ","CNV","ÂÛ∏ºt$‰∞$doº∫∞","MS",1045
+"shut the door","GA1A","246.1(*)","E","Y"," ","AUX2","Û≤t$d±ø$do{¥}","MS",1045
+"shutting the door","GA1B","246.11","E","N"," ","CNV","Û∏º'tn$‰∞$Âdo∫∞","MS",1046
+"close the door","GA1B","246.11","E","N"," "," ","ıklo∫züz∞$Âdo∫∞","MS",1046
+"shut","GA1B","246.11","V","N"," "," ","Û∏ºt","MS",1046
+"shut the door","GA1C","246.2","E","N"," ","CNV","Û∏∫t$‰±ø$Âdoº∫","MS",1047
+"door","GA1C","246.2","N","Y"," ","INA/CNV","doº∫∞","MS",1047
+"close the door","GA1C","246.2","E","N"," ","CNV","k`≈èoº∫{∞}z$‰±ø$ıdoº∫","MS",1047
+"shut the door","GA1C","246.2","E","N"," ","CNV","ÂÛ∏´ºt$‰±ø$ıdoº","MS",1047
+"shut it up","GA1C","246.2","E","N"," ","CNV","ÂÛ∏tê±øºtê$∏Ωp","MS",1047
+"shut him up","GA1C","246.2","E","N"," ","CNV","ÂÛ∏Ωºtê$±øºm$ı∏ºp","MS",1047
+"door","GA1C","246.2","N","Y"," ","INA","doº∫","MS",1047
+"close","GA1D","246.3","V","N"," ","CNV","k`≈èoº{∞}z","MS",1048
+"doors","GA1D","246.3","N","Y"," ","INA/CNV","do´º∫∞z","MS",1048
+"shut the door","GA1E","246.4","E","N"," "," ","ÂÛ∏´t$‰∞´$Âdoº∫∞","MS",1049
+"shut the door","GA1F!","246.5!","E","N"," "," ","Û∏Ωt${‰}{∞}$do´∫{∞}","MS",1050
+"rang","GA1F!","246.5!","V","Y"," ","INA","r·ΩÓ","MS",1050
+"rung","GA1F!","246.5!","V","Y","natural","INA","r∏ΩÓ","MS",1050
+"open the door","GA1G!","246.6!","E","Y"," ","INA/CNV","oº∫{∞}'pm$‰±ø$Âdoº∫∞","MS",1051
+"shut the door","GA1H!","246.7!","E","N"," "," ","ÂÛ∏´ºt$‰∞´$ıdo´º∫∞","MS",1052
+"shut up","GA1H!","246.7!","E","N"," ","CNV","ÂÛ∏´ºt$¶Ωp","MS",1052
+"shut the door","GA2N","N247","E","Y"," ","AUX/CNV","Û≤´t$‰±ø´º$Âdoéº∫πéº","MS",1053
+"shut the top","GA2N","N247","E","Y"," ","AUX/CNV","Û≤´t$dë±ø´$t`∂p","MS",1053
+"shut the door","GA2A","247.1","E","N"," "," ","ıÛ•´tê$‰±ø$Âdoº∫¥æ","MS",1054
+"shut it","GA2A","247.1","E","N"," ","CNV","Û•´tê±øºt","MS",1054
+"shut the door","GA2B","247.2","E","N"," "," ","ÂÛ∏´t$‰∞´$ıdoº∫¥æ","MS",1055
+"shut the door","GA3A","248.1","E","N"," "," ","Û∏Ωt${dè}{±ø´}$do´∫{∞}","MS",1056
+"shut them up","GA3B","248.2","E","N"," ","CNV","ÂÛ≥´tê∞´m$ı¶Ω{∞}p","MS",1057
+"shut the door","GA4N","N249","E","N"," "," ","Û≤t${dè}{±ø}$do´∫","MS",1058
+"shut the door","GA4A","249.1","E","N"," "," ","ıÛ∏Ωt$‰±ø$Âdo´º∫∞›","MS",1059
+"shut it up","GA4A","249.1","E","N"," ","CNV","ÂÛ∏Ωttê±øºt$ı∏Ωp","MS",1059
+"shut the door","GA4B","249.2","E","N"," "," ","ÂÛ∏Ωt$‰∞$Âdo´∫∞","MS",1060
+"shut the door","GA4C!","249.3!","E","N"," "," ","ÂÛ∏Ωt$‰±øº$Âdo´∫∞","MS",1061
+"shut the windows","GA4C!","249.3!","E","N"," "," ","ÂÛ∏Ωt$‰±ø´$Âw±øºnd∞óæz","MS",1061
+"shut the door","GA5A","250.1","E","N"," ","CNV","Û∏Ωt$‰±ø$ıdo´∫¥","MS",1062
+"shut up","GA5A","250.1","E","N"," "," ","ÂÛ•Ò∏Ωºp","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"shut the door","GA5C","250.3","E","N"," "," ","ıÛ∏Ωt$‰±ø$Âdo´∫∞","MS",1064
+"shut down on them","GA5D!","250.4!","E","N"," "," ","ÂÛ≤´Á$ıdµ´º∫on$Â∑∫{∞}n$∞›´m","MS",1065
+"shut off","GA5D!","250.4!","E","N"," ","CNV","ÂÛ±øΩt$ı∑∫{∞}f","MS",1065
+"shut off","GA5D!","250.4!","E","N"," ","CNV","ÂÛ•∫Òı∑´{∞}f","MS",1065
+"door","GA5D!","250.4!","N","Y"," ","INA/CNV","do´º∫","MS",1065
+"shut the door","GA5E!","250.5!","E","N"," ","CNV","Û∏ó{∞}t$‰±ø$ıdoó´∫∞","MS",1066
+"shut the door","GA6A","251.1","E","N"," ","CNV","ÂÛ∏Ωt$‰∞$ıdo´º∫","MS",1067
+"shut the door","GA6B!","251.2!","E","N"," ","CNV","ıÛ∏ºt$‰±ø$Âdo∫∞","MS",1068
+"shut the door","GA7","256","E","N"," ","CNV","ÂÛ¶Ωº{∞}t$‰±ø$Âdo´∫∞","MS",1069
+"shut the door","GA8A","257.1","E","N"," ","CNV","ÂÛ∏´t$‰±ø$ıdo´∫","MS",1070
+"shut up","GA8A","257.1","E","N"," ","CNV","ÂÛ•ºÒ•æ{∞}p","MS",1070
+"shut the door","GA8B","257.2","E","N"," "," ","ÂÛ∏´t$‰±ø$ıdo∫¥æ","MS",1071
+"shut the door","GA9A","257A.1","E","N"," "," ","ÂÛ∏´ºt$‰±ø$do∫∞","MS",1072
+"close the door","GA9A","257A.1","E","N"," "," ","Âkloπzzë±ø$ıdo∫∞","MS",1072
+"doors","GA9A","257A.1","N","Y"," ","INA","do¥z","MS",1072
+"shut up","GA9B","257A.2","E","N"," "," ","ÂÛ∏´ºt$ı∏´ºp","MS",1073
+"door","GA9B","257A.2","N","Y"," ","INA","do{∞}","MS",1073
+"door","GA9B","257A.2","N","Y"," ","INA","do∫¥","MS",1073
+"shut the door","GA10A","258.1","E","N"," "," ","Û≤t${d}∞$do∫∞é","MS",1074
+"shut the door","GA10B","258.2","E","N"," ","CNV","ÂÛ∏´ºt$‰±ø$Âdoé´º∫¥","MS",1075
+"shut it","GA10B","258.2","E","N"," ","CNV","Û∏´ºtê$±øt$b·{≤}k","MS",1075
+"shut up","GA10B","258.2","E","N"," ","CNV","ÂÛ≥´æÒ$∞´p","MS",1075
+"close it","GA11N","N258A","E","N"," "," ","klo{π}z$±øt","MS",1076
+"close the door","GA11N","N258A","E","N"," "," ","klo{π}zzë±ø$Âdo∫∞","MS",1076
+"shut the door","GA12A","259.1","E","N"," "," ","ÂÛ∞Ωt$‰±ø$ıdoº∫¥æ","MS",1077
+"close the door","GA12B!","259.2(.3)","E","N"," "," ","kloºπz${‰}∞$do∫∞","MS",1078
+"shut it","GA12B!","259.2(.3)","E","N"," "," ","Û∏´ºÒ±øºt","MS",1078
+"shut the door","GA13A","260.1","E","N"," "," ","Û∏Ωt${‰}{∞}$do∫{∞}","MS",1079
+"shut the door","GA13B!","260.2!","E","N"," ","CNV","ÂÛ∏´ºt$‰±ø$Âdo´∫∞ó","MS",1080
+"close the door","GA13B!","260.2!","E","N"," ","CNV","Âklèo´º∫z$‰±ø$Âdo´∫∞ó","MS",1080
+"shut the door","GA14A","261.1","E","N"," "," ","ÂÛ∏´t$‰±ø$ıdoº∫πº","MS",1081
+"shut the door","GA14B","261.3","E","N"," ","CNV","ıÛ¶Ωt$‰∞$Âdoº∫πº","MS",1082
+"close the door","GA14B","261.3","E","N"," "," ","Âk`≈èoº∫πºz$‰∞$Âdoº∫πº","MS",1082
+"close that door","GA14C","261.2","E","N"," ","CNV","Âk`≈èoº∫πºz$ı‰·Ω{∞}t$Âdoº∫πº","MS",1083
+"doors","GA14C","261.2","N","Y"," ","INA/CNV","doº∫∞z","MS",1083
+"screen door","GA14C","261.2","O","Y"," ","INA/CNV","Âskrái∫jn$ıdoº∫∞éæ","MS",1083
+"shut the door","GA15A","262.1","E","N"," "," ","Û≤t$t±ø$do∫","MS",1084
+"shut the door","GA15B","262.2","E","N"," "," ","ÂÛ≥´t$‰±ø$Âdoº∫∞","MS",1085
+"shut the door","GA16A","263.2","E","N"," "," ","Û∏´t$‰±ø´º$Âdoº´∫∞","MS",1086
+"shut them up","GA16B","263.1","E","N"," ","CNV","ÂÛ¶Ωtê$∞´m$ı¶Ω{∞}p","MS",1087
+"shut the door","GA16C","263.21","E","N"," "," ","Û∏´ºt$‰∞$doº∞","MS",1088
+"close the door","GA16C","263.21","E","N"," "," ","kloºπºz$‰∞$doº∞","MS",1088
+"shut the door","GA16D!","263.3!","E","N"," "," ","Û¶Ωt$‰±ø$Âdo´º∫∞","MS",1089
+"close the door","GA17N","N264","E","N"," "," ","Âkloº{πº}z$zë±ø$ıdoº∞","MS",1090
+"shut the door","GA17N","N264","E","N"," "," ","Û∏´ºt$dë±ø$Âdoº{πº}","MS",1090
+"close the door","GA17","264","E","N"," "," ","k`loπz$zë∞$do∞","MS",1091
+"shut the door","GA18A","264A.1","E","N"," "," ","ıÛ∏Ωºt$‰±ø$Âdo∫∞","MS",1092
+"close the door","GA18B","264A.2","E","N"," "," ","Âklçoπ{z}${z}{±ø}$ıdo∫∞","MS",1093
+"shut the door","GA18B","264A.2","E","N"," "," ","ÂÛ∏´ºt$‰±ø$ıdo∫∞","MS",1093
+"shut the door","GA19A","265.1","E","N"," ","CNV","Û¶Ω{∞}t$‰±ø$Âdoº∫∞é","MS",1094
+"shut the door","GA19B","265.2","E","N"," "," ","ÂÛ≥´t$‰∞$ıdoº∫{πº}","MS",1095
+"shut the door","GA20A","266.1","E","N"," "," ","ÂÛ≤ºt$‰±ø$ıdo´∫¥á","MS",1096
+"shut the door","GA20B","266.2","E","N"," "," ","ÂÛ≥´º{∞}t$dë±ø´º$ıdoº∫{πº}","MS",1097
+"shut the door","GA21A","267.1","E","N"," "," ","Û≤æt$‰±ø$ıdoº∞","MS",1098
+"close it","GA21A","267.1","E","N"," "," ","kloºπºz$±øt","MS",1098
+"shut the door","GA21B","267.2","E","N"," "," ","ıÛ≥´t$‰±ø$Âdoº∫∞","MS",1099
+"shut that lever down","GA21B","267.2","E","N"," "," ","Û≥´t$‰·{≤}t$Âl±´v∞$ıd·∫on","MS",1099
+"shut the door","GA22A","268A.1","E","N"," "," ","kloº{πº}z$dë∞$do∞","MS",1100
+"shut the door","GA22A","268A.1","E","N","more peremptory"," ","ÂÛ∏´ºt$dë∞$do∞","MS",1100
+"shut the door","GA22B","268A.2","E","N"," ","CNV","Û¶Ω{∞}t$‰∞$Âdo∫∞","MS",1101
+"shut the door","GA23A","268.1","E","N"," ","CNV","Û≥´º{∞}t$‰±ø$ıdoº∫∞","MS",1102
+"close it","GA23B","268.11","E","N"," "," ","Âklo{π}z$±øt","MS",1103
+"close the door","GA23B","268.11","E","N"," "," ","Âklo{π}z$‰±ø$Âdo∫∞","MS",1103
+"shut the door","GA23C","268.2","E","N"," "," ","ıkloºπz${‰}±ø$Âdo∫∞","MS",1104
+"shut the door","GA23D!","268.3","E","N"," "," ","Û¶Ω{∞}t$‰±ø$Âdo´∫∞","MS",1105
+"close the door","GA23E!","268.4!","E","N"," "," ","ıkloº{πº}z$‰ë∞$Âdoº∫∞","MS",1106
+"shut the door","GA23E!","268.4!","E","N"," "," ","ıÛ∏´ºt$‰ë∞$Âdoº∫∞","MS",1106
+"shut the door","GA23F!","268.5!","E","N"," "," ","ıÛ∏´ºt${‰è}±ø$Âdo∫∞","MS",1107
+"close it","GA23F!","268.5!","E","N"," "," ","Âklo{π}z$±øt","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"shut the door","GA24A","269.1","E","N"," "," ","Û≤t${‰}{±øΩ}$do∞´","MS",1109
+"shut the door","GA24B","269.2","E","N"," "," ","ÂÛ≤´t$d±ø´º$doºπº","MS",1110
+"shut the doors","GA25N","N269A","E","N"," "," ","ÂÛ≤t$t±ø$ıdo∞z","MS",1111
+"shut the door","GA25N","N269A","E","N"," "," ","ÂÛ∏´ºt$dé±ø$ıdo∞›","MS",1111
+"I just shut the door","GA26","270A","S","N"," "," ","a´æ∫$d˙¶Ωºs$ıÛ≤t$të±ø$Âdoº{∞}","MS",1112
+"shut the door","GA26","270A","E","N"," "," ","ÂÛ≤æt$të±ø$ıdoº∞","MS",1112
+"shut the door","GA27!","270!","E","N"," "," ","ÂÛ∏t$dë±ø´º$ıdoº∞","MS",1113
+"shut the door","GA28","271a","E","N"," "," ","ÂÛ∏´t$ı‰±ø$Âdo∫∞","MS",1114
+"close the door","GA28","271a","E","N"," "," ","k`loπz$zë∞$doπ","MS",1114
+"shut the door","GA29A","271.1","E","N"," "," ","ÂÛ≤´t$‰±ø$Âdoº∫∞ó","MS",1115
+"shut him up","GA29A","271.1","E","N"," ","CNV","ÂÛ¶Ωtê±øºm$ı¶Ω{∞}p","MS",1115
+"shut the door","GA29B","271.2","E","N"," "," ","ıÛ¶Ωt$‰±ø$do´º∫∞","MS",1116
+"shut the door","GA30A","272.1(*)","E","N"," "," ","ÂÛ±øΩ{∞}t$‰∞´$ıdoº∫πº","MS",1117
+"shut the door","GA30B","272.2(*)","E","N"," ","CNV","ÂÛ¶Ω{∞}t$‰±ø´º$ıdoºπº","MS",1118
+"close the door","GA30C!","272.3!","E","N"," "," ","k`lo∫{π}z$‰±ø$doº∞","MS",1119
+"shut the door","GA30C!","272.3!","E","N"," "," ","ÂÛ∏´ºt$‰±ø$doº∞","MS",1119
+"close","GA30C!","272.3!","V","N"," "," ","kloπøz","MS",1119
+"close the door","GA30C!","272.3!","E","N"," "," ","k`lo∫{π}z$‰±ø$do∫∞","MS",1119
+"shut the door","GA30D","272.1X","E","N"," ","CNV","Û≤´{∞}t$‰±ø$Âdo∫{∞}","MS",1120
+"NA","GA30E","272.2X"," ","N"," "," "," ","MS",1121
+"close the door","GA31","272A","E","N"," "," ","ÂkÏoπz$zë∞›$ıdo∫{∞}","MS",1122
+"shut the door","GA31","272A","E","N"," "," ","ÂÛ∏´ºt$‰±ø$do∫{∞}","MS",1122
+"NR","GA32","272B"," ","N"," "," "," ","MS",1123
+"shut the door","GA33A","272C1","E","N"," "," ","ıÛ∏´ºt$d±ø$Âdo∫{π}","MS",1124
+"close the door","GA33B","272C2","E","N"," "," ","Âkloπz$z±ø$ıdo∞","MS",1125
+"shut the door","GA34N","N273","E","N"," "," ","ÂÛ≤´t$‰ë±ø´º$ıdo´º∫","MS",1126
+"close the door","GA34N","N273","E","N"," ","CNV","Âklèoº∫πºz$‰ë±ø´º$ıdoºπº","MS",1126
+"shut the door","GA34A","273.1","E","N"," "," ","Û≤t$‰è∞$do´∫","MS",1127
+"shut the door","GA34B","273.2","E","N"," "," ","ıÛ≥´ºt$‰±ø$Âdoº∫{πº}","MS",1128
+"close the door","GA35N","N273A","E","N"," "," ","Âkloπz$zë±ø$ıdo∞","MS",1129
+"shut up","GA36N","N274A","E","N"," ","CNV","ÂÛ≤t$ı∏´p","MS",1130
+"close the door","GA36N","N274A","E","N"," "," ","Âkloπz$z±ø$ıdo{∞}","MS",1130
+"shut","GA37N","2N274","V","N"," "," ","Û∏´º{∞}t","MS",1131
+"close the door","GA37N","2N274","E","N"," "," ","ıkloº{πº}z$dë{‰}±ø$Âdoº∞","MS",1131
+"close the door","GA37M!","NC274","E","N"," "," ","Âkloºπz$dë±ø$ıdoº∞","MS",1132
+"shut the door","GA37M!","NC274","E","N"," "," ","ÂÛ∏´ºt$‰±øΩ$ıdoº∞","MS",1132
+"shut the little door","GA37A","274.1","E","N"," "," ","ÂÛ≥´t$dë±ø´º$ıl±´têl$Âdoº∫","MS",1133
+"shut the door","GA37A","274.1","E","N"," "," ","ÂÛ≤´t$‰±ø$Âdo∫¥","MS",1133
+"close the door","GA37B","274.2","E","N"," "," ","Âklèoº∫πºz${‰}±ø´º$doº∫∞›","MS",1134
+"shut the door","GA37C","274.21","E","N"," "," ","ÂÛ∏´ºt$të±ø$doº∫∞","MS",1135
+"close the door","GA37C","274.21","E","N"," "," ","ıkloº{πº}z$zë±ø$Âdoº∫∞","MS",1135
+"shut the door","GA37D!","274.7!","E","N"," "," ","Û∏´ºt$dë±ø$do∫∞","MS",1136
+"close it","GA37D!","274.7!","E","N"," "," ","k`loπøz$±øt","MS",1136
+"shut it","GA37D!","274.7!","E","N"," "," ","Û∏´ºt$±øºt","MS",1136
+"close the door","GA37E!","274.8!","E","N"," "," ","ıkloº{πº}z$zë±ø$Âdo∫∞","MS",1137
+"shut","GA37E!","274.8!","V","N","emphatic"," ","Û≥t","MS",1137
+"shut the door","GA37E!","274.8!","E","N"," "," ","ÂÛ∏´t$‰±ø$ıdëo∫∞","MS",1137
+"shut the door","GA37F!","274.3!","E","N"," "," ","Û¶Ωt$‰±ø$Âdoº∫∞´","MS",1138
+"shut the door","GA37G!","274.4!","E","N"," "," ","Û¶Ωt$‰±ø$Âdo´º∫∞","MS",1139
+"shut the door","GA37H!","274.5!","E","N"," "," ","ÂÛ¶Ωt$‰±ø$ıdo´º∫{∞}","MS",1140
+"pull to","GA37H!","274.5!","E","N"," ","CNV","Âp`πºÏ$ıt`uøº∫","MS",1140
+"shut up","GA37H!","274.5!","E","N"," "," ","ÂÛ¶Ωt$ı¶Ωp","MS",1140
+"please close the door","GA37I!","274.6!","E","N"," "," ","Âpli∫{i´}z$ıkloºπz$‰∞´$Âdoº∫∞","MS",1141
+"shut","GA37I!","274.6!","V","N"," "," ","Û∏´ºt","MS",1141
+"shut the door","GA38","275","E","N"," "," ","Û≤æt$dèë±ø$do","MS",1142
+"shut the door","GA38","275","E","N"," "," ","Û≤{∞}t$zë±ø$do{π}","MS",1142
+"close the door","GA38","275","E","N"," "," ","k`lèoπz$‰∞$do∫∞é","MS",1142
+"shut the door","GA39","275A","E","N"," "," ","ÂÛ¶Ωt$‰∞$ıdo∫∞","MS",1143
+"shut up","GA40","276A","E","N"," ","CNV","ÂÛ∏´º{∞}t$ı∏´º{∞}p","MS",1144
+"shut the door","GA40","276A","E","N"," "," ","Û∏´ºt$‰∞$doº¥","MS",1144
+"close the door","GA40","276A","E","N"," "," ","Âkloº{πº}z$‰∞$ıdoº¥","MS",1144
+"close the doors","GA41","276B","E","N"," ","CNV","ıkloº{πº}z$‰∞$Âdoº∫∞z","MS",1145
+"shut the door","GA42A","276.1","E","N"," "," ","Û≥´ºt$‰±ø´º$Âdoé´∫¥","MS",1146
+"shut the door","GA42B","276.2","E","N"," "," ","Û≤´t$‰±ø$Âdo´º∫¥","MS",1147
+"shut the door","GA43","277","E","N"," "," ","Û≤t$t±øΩ$do¥","MS",1148
+"shut the door","GA44A","278.1","E","N"," "," ","ÂÛ±øΩºt$‰±ø$Âdoéº∫¥","MS",1149
+"shut the door","GA44B","278.2","E","N"," "," ","Û≤´t$‰±ø$Âdoéº∫¥","MS",1150
+"shut the door","GA44C","278.3","E","N"," "," ","ÂÛ≥´ºt$‰±ø$Âdoé´º∫¥","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"shut the door","GA44E","278.5","E","N"," "," ","ıÛ∏∫t$‰∞$Âdoº¥","MS",1153
+"shut the door","FL1","252","E","N"," "," ","ÂÛ∏´t$dë±ø´º$ıdoº∫∞","MS",1154
+"push to","FL1","252","E","N"," "," ","ÂpπÛ$ıtuø","MS",1154
+"shut the door","FL2A","253.1","E","N"," "," ","ÂÛ∏´ºt$‰±øº$Âdoº∫∞","MS",1155
+"close the door","FL2B","253.2","E","N"," "," ","ıkloºπºz$zë±ø$Âdoº∞","MS",1156
+"shut off","FL2C!","253.3!","E","N"," ","CNV","ÂÛ∏´t$ı∑{∞}f","MS",1157
+"shut the door","FL2C!","253.3!","E","N"," "," ","ÂÛ∏´t$‰±øΩ$do∫∞","MS",1157
+"shut the door","FL3A","254.1","E","N"," "," ","Û±ø{t}$‰∞$ıdoº∫","MS",1158
+"shut the door","FL3A","254.1","E","N"," "," ","ÂÛ∏´ºt$‰∞$ıdoº∫","MS",1158
+"shut the door","FL3B!","254.2!","E","N"," "," ","ÂÛ∏´ºt$‰±ø$ıdoº∫∞","MS",1159
+"shut her up","FL4","254A","E","N"," ","CNV","ÂÛ≤´t$ıh≥éæ∫{∞}$Â∏´ºp","MS",1160
+"close the door","FL4","254A","E","N"," "," ","Âkloº{πº}z$zë±ø$ıdoº¥","MS",1160
+"shut the door","FL4","254A","E","N"," "," ","ÂÛ≤t$të±ø$ıdoº¥","MS",1160
+"shut the windows","FL5A","255.1","E","N"," "," ","ÂÛ≤´t$‰±ø$Âw±´nd∞´z","MS",1161
+"shut the door","FL5B","255.2","E","N"," ","CNV","Û∏´t$‰±ø$Âdoº∫∞","MS",1162
+"","","","","","","","","",

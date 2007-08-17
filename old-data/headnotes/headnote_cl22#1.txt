@@ -1,0 +1,88 @@
+sawhorse (cl22#1.asc)
+
+Items
+=====
+                              bench    5
+                            benches    2
+                         block chop    1
+                              break    1
+                              bucks    1
+                           cogwheel    1
+                            crowbar    2
+                         dead horse    1
+                        draw horses    1
+                               hack    1
+                              horse    8
+                             horses    6
+I heard about saw-horse, but I don't use that    1
+                              jacks    1
+                                 NR    3
+                             powder    1
+                               rack    3
+                           saw buck    2
+                           saw hack    2
+                          saw horse    20
+                         saw horses    1
+                           saw jack    2
+                           sawbench   12
+                           sawbreak    2
+                       sawing horse    1
+                            sawrack    1
+                           scaffold    2
+sink into ground tar something round    1
+                              truck    1
+                            trustle    1
+                       trustlebench    1
+                         wood bench    2
+                         wood break    1
+                           wood dog    1
+                         wood horse    18
+                          wood rack    2
+                          woodbench    2
+                           woodrack    1
+                         work bench    2
+ Pronunciations
+==============
+                                  "    2
+
+
+
+
+M: What do you call the "X"-shaped frame you lay a log across the chop it 	into stove lengths?  What do you call the "A"-shaped frames you use to 		lay the boards across to make a table for a church supper?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+These are terms for a wooden rock or frame on which lengths of wood are laid when being sawed by hand, consisting of a heavy cross-bar supported at each end by a pair of legs.  The legs are either X-shaped or A-shaped; the cross-bar is fastened to the legs at the point where they join (at the center of the X or at the top of the A).  The upper ends of the legs in the X shape form a cradle in which the wood is laid for sawing; the frame with A-shaped legs acts as a narrow wood bench.
+
+Singular and plural forms are entered as recorded.  Compounds usually have initial stress.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 22#1, "crowbar" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 22 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+22#P		22#4
+22#P		22#2
+22#P		
+22#1		22#3
+22#2		22#5
+22#3		22#6
+22#4		22#7
+22#5		22#8
+22#6		
+22#7 MP		22#1

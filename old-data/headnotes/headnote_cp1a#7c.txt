@@ -1,0 +1,93 @@
+miscellaneous months (cp1a#7c.asc)
+
+Items
+=====
+                              April   43
+                             August    4
+                           December    2
+                               July    4
+                               June    3
+                              March    3
+                                May    3
+                           November    2
+                                 NR   19
+                            October    2
+                          September    3
+                       Thanksgiving    1
+
+Pronunciations
+==============
+                             epr∞lç    1
+                         e¶pr±ø{∞}l    1
+                            e´{∞}pÏ    1
+                        e´{∞´º}p∞æl    1
+                          e´∫p{r}∞l    1
+                            e´∫p∞lç    1
+                            e´∫pπÏñ    1
+                           e´∫{∞}pÏ    1
+                       e´∫{±øΩ}p∞æÏ    1
+                         e∫p{r}{∞}Ï    1
+                            e∫p{∞}l    1
+                              e∫pÏñ    2
+                      e∫{∞}{±ø}p∞æl    1
+                        e∫{∞´º}p∞æl    1
+                          e∫{±ø}p∞Ï    1
+                          e∫{±øΩ}pÏ    1
+                            eΩpr∞lç   18
+                            eΩpr±lç    1
+                         eΩ{∞´∫}p∞Ï    1
+                            ≤´pr∞lç    1
+                           Âe´∫pÚèÏ    1
+                      Âe´∫{iøº}prè¶    1
+                         Âe∫iøprè¶Ï    1
+                          Âe∫p{ré}l    1
+                        Âe∫{±}p{∞}Ï    1
+
+
+
+M:  The first month of the year is _____.  The next month?  After February comes _____, then...
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+		
+In pronunciations of the type of [e±øpÏ] the [Ï] is syllabic.
+	
+Notes from University of Georgia Atlas staff (1998-2000): 
+
+ 	Johnson:
+ 	 
+This item is on page 1 of the PSAS worksheets, but some informants have had the page cut in half and glued into a page 1A in the field records.
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 1A#7, months other than the targets are marked inappropriate because the targets are the specific months "April," "February," and "January."  However, file 1A#7c was created to accommodate additional responses Turner collected from the Gullah informants.  Marginalia is also inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 1A of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+	
+
+Handbook	Preliminary Worksheets
+----------------------------------
+1A#1a		1#5a
+1A#1b		1#5b
+1A#2a		1#5c
+1A#2b		1#5d
+1A#2c M	
+1A#3a		1#6a
+1A#3b		1#6b
+1A#4a		1#6c
+1A#4b		1#6d
+1A#5		1#7a
+1A#6 		1#7b
+1A#7a		1#8a
+1A#7b		1#8b
+1A#7c		1#8c
+ 

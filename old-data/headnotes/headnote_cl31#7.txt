@@ -1,0 +1,103 @@
+lane (cl31#7.asc)
+
+Items
+=====
+                              alley    1
+                        Autumn Lane    1
+                             avenue    8
+                         blind road    8
+                          cart path    1
+                          cart road    2
+                               city    1
+                           cow-pass    1
+                             detour    1
+                           driveway   16
+                          farm road    2
+                          fenced in    1
+                           footpath    1
+                                gap   10
+                               gate    1
+                      John's Island    1
+                        just a road    1
+                               lane   31
+                            leading    1
+                                let    1
+                  neighborhood road    3
+                                 NR    4
+                             outlet    1
+                       pasture road    1
+                               path    2
+                         plantation    1
+                    plantation road    8
+                       private road    1
+                               road    1
+                       Shannon Lane    1
+                    substitute road    1
+                            turnout    1
+                 wagon or cart road    1
+                         wagon road    5
+                            walkway    1
+                           way down    1
+
+Pronunciations
+==============
+                         blµæ±n$rod    5
+                          bl∂±n$rod    1
+                         bl∂º±n$rod    2
+                          kja´t$rod    1
+                          kjaæt$rod    1
+                        neb∞hπd$rod    3
+                     pla´nteÛ∞n$rod    6
+                     pla´nt∞Û∞n$rod    1
+                 pl·ntêe´∫Û∞n$ro´∫d    1
+                       prµæ±b±t$rod    1
+                              ro´∫d    1
+                       s∏b±stut$rod    1
+                       wa´g[±]n$rod    1
+                         wa´g±n$rod    4
+              wa´g±n$∞$kja´{∞}t$rod    1
+
+
+
+
+M: Suppose you come to man's farm down the public road and came to the turn-off going down to the man's house. What do you call that?  What about the track you drive your cattle down when you carry them to pasture?  Or if it was a big plantation with a long tree-lined pathway leading up to the entrance, what do you call that road?
+
+Notes on target items and data collection procedures:
+
+	Unattributed list manuscript note:
+
+The list consists of terms referring to roads on private property.  The field workers elicited terms for roadways leading from a public road to a house, from a house to the barn, and from the barn to the pasture. 
+
+Driveway -- short roadway from a public road to a house.  
+Lane -- a narrow, fenced roadway used principally to move cattle from the barn to a pasture or from one pasture to another.  Also a roadway from a public road to a house or into a farm, but longer than a driveway.
+Avenue -- a long, straight, broad road, lined with trees, leading from a public road to a house, though formal and nicer than a lane.  In the South, associated with plantations.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 31#7, "fenced in" is inappropriate, as is marginalia.
+
+	Darwin:	
+		
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 31 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  			
+
+Handbook	Preliminary Worksheets
+----------------------------------
+31#P		30#8
+31#P		31#6
+31#1		31#1
+		31#2 (no question)
+31#2		
+31#3		31#3
+31#4		31#4
+31#5		31#6 (similar)
+31#6		31#5
+31#7		31#7
+31#8 M

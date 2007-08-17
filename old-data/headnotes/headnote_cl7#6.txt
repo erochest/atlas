@@ -1,0 +1,68 @@
+living room (cl7#6.asc)
+
+Items
+=====
+                          big house    1
+                       chamber room    1
+                        dining room    1
+                       drawing room    1
+                          fire room    1
+                         front room   14
+                        living room    8
+                                 NR   13
+                             parlor   18
+                        parlor room    2
+      parlor, but we don't got that    1
+                          parsonage    1
+                            quarter    1
+                       setting room   27
+                       sitting room    9
+                        social room    1
+          some call them the parlor    1
+                           the hall    1
+                           the room    1
+
+
+
+ /where guests are entertained/
+
+L:  The place in the house where you have chairs for people to talk who come to call.
+M:  What do you call the room used for special occasions?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The informants were asked to name the room (or rooms) for entertaining company.  Larger houses often have two (or more) such rooms.  Smaller houses have only one such room, usually called the "sitting room" or the "living room."  Humble homes often have only one large room, which serves as a living room and as a bedroom as well ("the room", "the fire room", "the house", "the big-house", etc.).
+	 
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:	
+ 
+Spellings reflecting the variant pronunciations "sitting" and "setting" are used, but Kurath's "settin'" is not, following LAMSAS editorial procedures.
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 7#6, "big house" and "quarter" are inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 7 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+	 
+Handbook	Preliminary Worksheets
+----------------------------------
+7#P		7#4
+7#1		7#1
+7#2		7#2
+7#3		7#3
+7#4a X		
+7#4b		7#5
+7#5		7#6
+7#6		7#7
+7#7		7#8

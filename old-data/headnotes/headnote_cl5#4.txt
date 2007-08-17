@@ -1,0 +1,107 @@
+clearing up (cl5#4.asc)
+
+Items
+=====
+                          break off    2
+                           breaking    1
+                      breaking away    1
+                       breaking off    2
+                              clear    2
+                          clear off    1
+                           clear up    1
+                            cleared    1
+                     cleared all up    1
+                         cleared up    3
+                           clearing    1
+                       clearing off    4
+                        clearing up   16
+                        clouding up    1
+                 day going clear up    1
+                           fair off    3
+                            fair up    2
+                         faired off    2
+                            fairing    3
+                        fairing off    2
+                         fairing up    3
+                         fine party    1
+                     going to clear    1
+                       it clear off    1
+                    it clearing off    1
+                  it going clear up    1
+              it going to clear off    1
+               it going to clear up    1
+                      it look clear    1
+      it look like the sun come out    1
+                        it wear off    1
+                   it's blowing off    1
+                    it's broken off    1
+                      it's clearing    1
+                   it's clearing up    3
+                It's going to clear    1
+        it's turning off fair today    1
+                      lightening up    1
+                     moderating off    1
+                                 NR   13
+thank God, massa done open weather again    1
+              the sun been come out    1
+                      the sun shine    1
+               the weather clear up    1
+           the weather clearing off    1
+            the weather fairing off    1
+         the weather going to broke    1
+     the weather is coming out good    1
+              the weather making up    1
+              turn out to be pretty    1
+
+
+It's)
+
+L:  If the sun comes out after a rain, you say the weather is doing what?
+M:  If the clouds were opening up and you could see a blue sky and the sun was beginning to shine, you'd say, "I believe it's finally ____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+These are participles and participial phrases recorded in the sentence "The weather (or "it") is clearing up," referring to a change from cloudy to clear.
+
+In phrases consisting of participle plus adverb, the main stress in regularly on the latter.  
+
+Notes from University of Georgia Atlas staff (1998-2000):
+	
+	Johnson:
+		
+In areas where McDavid was the principal field worker, one may compare the intervocalic /r/ to one at the end of, especially, "clear" and "fair" (often followed by a word beginning with a vowel), bearing in mind that McDavid's pre-1964 SAS records combine /´/ and /r/ intervocalically as /r/, though not across word boundaries.  McDavid also recorded numerous instances of [tl-] in "clearing".  Since Lowman consistently recorded present participles, this is a good file for comparing /±n/ with /-±î/.  
+	
+For an analysis of the lexical variation in the file, see the article by Edgar Schneider and William Kretzschmar in Kretzschmar, Schneider, and Johnson 1989 ("Journal of English Linguistics" 22.1).
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 5#4, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 5 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+For item 5#4, there are no inappropriate responses.
+
+Handbook	Preliminary Worksheets
+----------------------------------
+5#P		5#5
+5#P
+5#P
+5#P
+5#1		5#1
+		5#2 (no question)
+5#2		5#3
+5#3		5#4
+		5#6 (no question)
+5#4		5#7
+5#5		5#8
+5#6 X		

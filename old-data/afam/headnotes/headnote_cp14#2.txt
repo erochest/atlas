@@ -1,0 +1,128 @@
+barn (cp14#2.asc)
+
+Items
+=====
+                               barn   65
+             barn for corn and peas    1
+                              barns    2
+                               corn    1
+                    corn and forage    1
+                          corn crib    1
+                         corn house    2
+                    corn, hay, peas    1
+                       cotton house    1
+                               crib    1
+                     equipment barn    1
+                               farm    1
+                          feed barn    1
+                             forage    1
+                           hay barn    1
+                          hay house    1
+                                 NR    1
+                          pole barn    1
+                        shear house    1
+                             stable   10
+                            stables    2
+                              stall    1
+                         stock barn    1
+                        stock house    1
+                       storage barn    1
+                      storage barns    1
+                        tabby house    1
+      the barn is use for hay, peas    1
+                     to put crop in    1
+                    to tobacco barn    1
+                       use for corn    1
+                 use for corn, bean    1
+                      wagon shelter    2
+                          warehouse    1
+                              wheat    1
+
+Pronunciations
+==============
+                                ban    1
+                               ba´n    1
+                           ba´∫{∞}n    1
+                               baºn    1
+                               baæn   11
+                                bµn    1
+                           bµ´∫{∞}n    1
+                               bµ¥n    2
+                            bµ∫{∞}n    2
+                             bµ∫∞én    1
+                               bµºn    5
+                              bµæ:n    2
+                              bµæ∞n    1
+                             bµæ∞nz    1
+                              bµæ∫n    4
+                           bµæ∫{∞}n    2
+                         bµæ∫{∞}nzè    1
+                             bµæ∫∞n    2
+                              b∂î∞n    1
+                          b∂îº:{∞}n    1
+                           b∂ï∫{∞}n    1
+                           b∂∫{∞é}n    1
+                               bﬁ:n    1
+                           bﬁ:{∞é}n    1
+                           bﬁo∫{∞}n    1
+                              bﬁó∞n    2
+                             bﬁó∞›n    1
+                           bﬁó∫{∞}n    1
+                               bﬁ∞n    2
+                              bﬁ∞én    1
+                               bﬁ∫n    1
+                              bﬁ∫∞n    1
+                              bﬁº:n    2
+                              bﬁº∞n    1
+                              bﬁº∫n    1
+                           bﬁº∫{∞}n    1
+                          bﬁº∫{∞é}n    1
+                            bﬁΩ{∞}n    1
+                           bﬁΩº{∞}n    1
+                              b·Ω∞n    1
+                           faæ∫{∞}m    1
+                               kr±b    1
+                          kr±º∫{∞}b    1
+                             Âbµ∫∞n    3
+                            Âbµ∫∞nz    1
+                           Âbﬁé∫∞én    1
+                             Âbﬁó∞n    1
+                             Âbﬁó¥n    1
+                             Âbﬁ∫∞n    1
+                       Âfi∫d$ıbµ∫∞n    1
+                             ıbµ∫∞n    1
+                           ıbﬁ∫{∞}n    1
+                          ıbﬁ∫{∞}n€    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

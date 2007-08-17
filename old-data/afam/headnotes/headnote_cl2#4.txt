@@ -1,0 +1,19 @@
+afternoon (cl2#4.asc)
+
+Items
+=====
+               after twelve o'clock    1
+after twelve o'clock; but we say good evening    1
+                          afternoon   18
+                            evening   29
+                       evening time    2
+                     good afternoon    4
+                           good day    1
+                       good evening    6
+                                 NR   18
+                            sundown    1
+
+Pronunciations
+==============
+                                  "    1
+

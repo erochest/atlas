@@ -1,0 +1,176 @@
+side road (cl31#6.asc)
+
+Items
+=====
+                             avenue    1
+                          back road    3
+                    branch-off road    1
+                            by-path    1
+                             bypass    1
+                             byroad   13
+                              byway    1
+                       country road    2
+                      country roads    1
+                        county road    1
+                          dirt road   13
+                          foot path    1
+                        gravel road    6
+                            highway    1
+                            lead-in    1
+                      lead-off road    1
+                      magnolia road    1
+                  neighborhood road    6
+                                 NR   24
+                     old dirt roads    1
+                     one-way street    1
+                               path    2
+                    plantation road    3
+                        public road    1
+                       quarter road    1
+                      read-off road    1
+                          sand road    1
+                    secondary roads    1
+                    settlement road    1
+                         shell road    2
+                          side road   11
+                       tar and rock    1
+                       through road    2
+                         woods road    1
+
+Pronunciations
+==============
+                        ba¾±¿½ro«ºd    1
+                      ba¾º[²¾]ro½ºd    1
+                     ba¾º{²¼}õro«ºd    1
+                       bµº{²¾]ro«ºd    1
+                          bák$ro«ºd    1
+                       d³¼t$ro¼¹¿d    1
+                     d³«¼±¿t$ro[¹]d    1
+                 d³«¾±¿t$ro¼[¹¼]{d}    1
+               gráv°«[ì]$ro¼[¹¼]{d}    1
+                   grá{°}v°ì$ro[¹]d    1
+                     k¸«¾ntò±¿$ro¹d    1
+                     liºd·½ºf$ro«ºd    1
+       má½gåno¼º{°}lj°«$õòo¿¾º{°}d    1
+             ne«[°«¾]b°h¹{°}d$ro«ºd    1
+               ne«º{°}v°h¹d$ro«{°}d    1
+                neºb°h¹{°}d$roº[¹]d    1
+                 neº{°}b°h¹¼d$ro½ºd    1
+        o«¼º{°}l$†d°º[±¿]t$õro«¼ºdz    1
+                         p¸bl±k$rod    1
+                     riºd·½ºf$ro«ºd    1
+                      sa«±¿¼d$ro¹¿d    1
+                    sa«¾º±¿d$ro¼¹¼d    1
+                          sµ¾±d$rod    2
+                       w¹dz$ro[¹½]d    1
+                         åbak$ro«ºd    1
+                       åba¾±¿½õro:d    1
+                    åba¾º{²¾]õro«ºd    1
+                       åbµ«±¿õro«ºd    1
+                        åbµ«²«ro«ºd    1
+                    åbµ«¼±¿õroº[¹]d    1
+                    åbµ±¿½õr•oº[¹]d    1
+                     åbµº±¿åro«{°}d    1
+                     åbµ¼±¿½ro«{°}d    1
+                       åbµ¼±¿õro«ºd    1
+                     åbá½k$ro¿º{°}d    1
+             åd¤º[±¿]t$õr¸•«¾º¹¼{d}    1
+                  åd³•«º±¿t$õro«¼ºd    1
+                       åd³«±¿t$ro¹d    1
+                  åd³±¿«t$õro¼º{°}d    1
+                    åd³º±¿t$õro¼¹¼d    1
+                  åd³½±¿t$õro¼º[°]d    1
+                 åd³½¾[±¿]t$õro[¹]d    1
+                 åd³¾[´]t$õro¼[¹¼]d    1
+                  åd³¾±¿t$õro[¹]{d}    1
+                  åd³¾±¿t$õòo¼º[¹]d    1
+                   ågráv°«l$õro¼¹¼d    1
+                    ågrá«{°}vì$ro¹d    1
+                  ågráºvì$õro¼[¹¼]d    1
+               ågráº{°}v°«ì$õro¼¹¼d    1
+             åk`Ù½ntò±¿«¼$åro¼º¹d    1
+                    åkw·½ºt°$ro½ºd    1
+            åkˆ`¸«¼ntò“±¿¼«$õro¿dz    1
+             åne«b°½h¹¼d$õro«¼º{°}d    1
+        åneº{°}b°õh¹¼{°}d$åro¼º[°]d    1
+        åp`ìántõeº±ó°«n$åro«¼º[¹]d    1
+       åp`ìáşõt`e{°«]ón–$åro«º{°}d    1
+                åsa«¾:{°}d$õroº[¹]d    1
+              åsa«¾º{°}d$õro¿¼º[¹]d    1
+                  åsa«¾º±¿d$õro¼¹¼d    1
+                 åsa¾{°}d$õro[¹]{d}    1
+                     åsa¾±¿½d$õro:d    1
+                  ås²tì–m²nt$ro½ºd    1
+               ås²«kîõd²ºr±¿$åro¿dz    1
+                   åsµº°d$ro«¼º{°}d    1
+                      ås¶”º±¿d$ro¹d    1
+                       åsáºn$ro[¹]d    1
+                         åó²l$õroºd    1
+                      åó²l$õro«¼ºd    1
+                        åùu¼º$ro«ºd    1
+                   åùu¿¾[u¼]$õro«ºd    1
+               õbrántóå·½ºf$roº[¹]d    1
+             õpláéntåe«{°}ó°n$roºd    1
+
+
+
+L: A little road that goes off the main road?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+A great variety of terms are current for secondary roads of various types, most of them self-explanatory.  The main stress has been entered on the map whenever the field worker recorded it.  The simplex "road", in regular use as a general term, has been entered only when no compounds ending in "road" were offered.
+
+	Unattributed list manuscript note:		
+
+Three general sets of terms refer to roads that go off from the main road, to unpaved road surfaces, and to the functions of roads. Distinctions between lesser roads are not always clear and vary in usage from place to place.
+
+The field workers elicited a variety of terms for different kinds of roads; the number and kinds of responses vary according to the interest and experience of field workers and informants, their knowledge of governmental rules, and the time at which the interviews were conducted.  It should be noted that Raven McDavid's general interests caused him to seek and record a significantly greater number of terms than Guy Lowman.
+
+The development of the automobile has changed the type and amount of road financing.  The first federal highway act was passed in 1916; state highways departments were established around 1920, the paving of secondary roads came in the 1930's (connected with the relief programs of the New Deal), and the Interstate Highway system (built to military specifications) was established in 1954.  As a result, the classification of roads is difficult and complicated.  The lists in this section recognize these complications.
+
+1.) "Road" as a pronunciation item.
+2.) Major roads.
+    A.) By formal status, construction and maintenance by state or federal governments.  Highways, especially state ~, federal ~, super~, interstate (~), "main road", or "big ~"
+    B.) Roads with a permanent surface requiring minor or occasional repairs: asphalt road, black top ~, brick ~, concrete ~, tar and gravel ~.
+3.) Less important roads.
+    A.) Roads built and maintained by county or local government: county road, concession, public road (often defined by informants as highways).
+    B.) Roads subsidiary to more important roads: back roads, side ~, lateral ~, county ~, secondary ~, farm to market ~, pest ~, school bus ~.
+    C.) Roads with surfaces needing constant attention: dirt road, sand-clay ~, sand and gravel ~, clay ~, gravel ~, shell ~.
+4.) Short roads, built and maintained for local conveniences at (voluntary) private expense, often on one family's land (private road) or shared by a group of families (neighborhood road); "plantation road" and "farm road" may be used in either sense.  Private driveway, lane, avenue (gap).
+5.) "Path, "Sidewalk" and the like.
+
+Note: Types or construction and function: until fairly recently paved roads were limited to the vicinity of urban areas and to a few inter-city roads in densely populated areas.  With the paving of secondary roads, the distinction between highways as paved and side roads as dirt or gravel ceased to exist.  The distinction between "paved road" (concrete, sheet asphalt, brick) and less-durable "blacktop" or "surface treated" involves a knowledge of road construction that few lay informants possess; the distinction has been further obscured as older paved roads -- disintegrating with age, weather, and heavy traffic -- have been resurfaced with asphalt. The editors feel that it is least confusing to list all types of paced roads in one list and unpaved surfaces in another, while retaining informants' comments on historical distinctions.
+
+Stress is retained when indicated by the field worker.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:	
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 31#6, there are no inappropriate responses.
+	
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 31 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+31#P		30#8
+31#P		31#6
+31#1		31#1
+		31#2 (no question)
+31#2		
+31#3		31#3
+31#4		31#4
+31#5		31#6 (similar)
+31#6		31#5
+31#7		31#7
+31#8 M

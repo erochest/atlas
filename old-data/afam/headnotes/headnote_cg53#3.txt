@@ -1,0 +1,88 @@
+whose (cg53#3.asc)
+
+Items
+=====
+        a boy his father got plenty    1
+              a boy that his father    1
+        a boy whose father was rich    1
+  any little thing that they wanted    1
+         anything good for medicine    1
+               anything that's hard    1
+                       grow for ***    1
+         he the boy his father rich    1
+       he's a boy had a rich father    1
+    he's the boy have a rich father    1
+       he's the boy his father rich    1
+     he's the boy his father's rich    1
+he's the boy that got a rich father    1
+   he's the boy what he father rich    1
+  he's the boy what his father rich    1
+he's the man that his father's rich    1
+him is the boy what had that rich father    1
+him the boy who have that rich father    1
+        him the man his father rich    1
+                       his father's    4
+                  his father's rich    1
+                 I have one go down    1
+                   it's in his hair    1
+                                 NR   12
+                people that he knew    1
+                               rich    2
+           that her husband is dead    1
+                    that his father    1
+                 that his father is    1
+                  that his father's   10
+that horse back there don't have no saddle    1
+          that young man pa is rich    1
+that's the boy have a wealthy father    1
+     that's the boy him father rich    1
+   that's the boy his father's rich    2
+that's the boy what got a rich father    1
+that's the man what have a rich father    1
+there's the skillet what had the legs    1
+ this is a boy father is a rich man    1
+    this is the boy his father rich    1
+this was my daughter what died place    1
+           we had a wind blow a lot    1
+                            what is    1
+               what's the lady name    1
+                     who his father    2
+                  who is the boy pa    1
+                 who young man that    1
+                              whose    1
+                       whose father    3
+                whose father's rich    1
+                          worked on    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

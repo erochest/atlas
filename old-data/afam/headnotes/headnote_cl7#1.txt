@@ -1,0 +1,23 @@
+dry spell (cl7#1.asc)
+
+Items
+=====
+                            drought   29
+                                dry    1
+                        dry drought   15
+                          dry spell   16
+                           dry time    1
+                        dry weather    4
+                  dry weather spell    1
+        I ask master for some water    1
+                     long dry spell    1
+                                 NR   14
+                         rain spell    1
+                       real drought    2
+                     real dry spell    1
+                   we had a drought    1
+
+Pronunciations
+==============
+                                  "    1
+

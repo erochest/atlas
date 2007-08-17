@@ -1,0 +1,2967 @@
+"frost","NY1","50","N","N"," ","fr∑∫{∞}st","MS"," ",1
+"frost","NY2A","51.1","N","N"," ","fr∑∫st","MS"," ",2
+"white frost","NY2B","51.2","O","N"," ","hw•±øt$fr∑∫st","MS"," ",3
+"frost","NY2C","51.3","N","Y"," ","fr∑´∫{∞}st","MS","AUX",4
+"black frost","NY2C","51.3","O","Y","""when you have ice¢","bl·{±øΩ}k$fr∑´∫{∞}st","MS","AUX",4
+"ice","NY2C","51.3","N","Y"," ","∏±ø´s","MS","INA",4
+"killing frost","NY3A","401","O","N"," ","k{h}±Ï±øn$fr∑Ω∫st","MS"," ",5
+"frost","NY3A","401","N","N"," ","fr∑Ω∫st","MS"," ",5
+"dew","NY3A","401","N","Y"," ","dπºu","MS","INA",5
+"frost","NY3B","403","N","N"," ","fr∑Ω∫st","MS"," ",6
+"killing frost","NY3B","403","O","N"," ","k{h}±Ï±øÓ$fr∑Ω∫{∞}st","MS"," ",6
+"dew","NY3B","403","N","Y"," ","dπ´u","MS","INA",6
+"black frost","NY3C","402","O","N"," ","bÏ·k$fr∂´:st","MS"," ",7
+"frost","NY3C","402","N","N"," ","fr∂´:st","MS"," ",7
+"dew","NY3C","402","N","Y"," ","dπ´æu","MS","INA",7
+"frost","NY3D","404","N","N"," ","fr∑∫{∞}st","MS"," ",8
+"killing frost","NY3D","404","O","N"," ","k{h}±l±øÓ$fr∑∫{∞}st","MS"," ",8
+"dew","NY3D","404","N","Y"," ","d±øuº","MS","INA",8
+"black frost","NY4A","405","O","N"," ","bÏ·k$fr∑∫st","MS"," ",9
+"frost","NY4A","405","N","N"," ","fr∑∫st","MS"," ",9
+"dew","NY4A","405","N","Y"," ","duº∫","MS","INA",9
+"frost","NY4B","407","N","N"," ","fr∑Ω∫st","MS"," ",10
+"dew","NY4B","407","N","Y"," ","duº{w}","MS","INA",10
+"heavy freeze","NY4C","408","O","N"," ","h≤v±ø´{±ø´º}$friΩæiz","MS"," ",11
+"frost","NY4C","408","N","N"," ","fr∑∫{∞}st","MS"," ",11
+"dew","NY4C","408","N","Y"," ","dπ´uº","MS","INA",11
+"heavy frost","NY5A","409","O","N"," ","h≤v±ø´$fr∑´∫{∞}st","MS"," ",12
+"frost","NY5A","409","N","N"," ","fr∑´∫{∞}st","MS"," ",12
+"dew","NY5A","409","N","Y"," ","duº∫","MS","INA",12
+"frost","NY5B","410","N","N"," ","fr∑Ω∫st","MS"," ",13
+"dew","NY5B","410","N","Y"," ","duΩº{u}","MS","INA",13
+"frost","NY5C","411","N","N"," ","fr∑∫{∞}st","MS"," ",14
+"dew","NY5C","411","N","Y"," ","dπ›´u›","MS","INA",14
+"frost","NY5D","412","N","N"," ","fr∑∫{∞}st","MS"," ",15
+"hard frost","NY5D","412","O","N"," ","hµæ:d$fr∑∫{∞}st","MS"," ",15
+"dew","NY5D","412","N","Y"," ","duº∫","MS","INA",15
+"frost","NY5E","413","N","N"," ","fr∑∫{∞}st","MS"," ",16
+"dew","NY5E","413","N","Y"," ","duΩº∫","MS","INA",16
+"killing frost","NY5F","414","O","N"," ","ık{h}±æÏ±øÓ$Âfr∑∫{∞}st","MS"," ",17
+"frost","NY5F","414","N","N"," ","fr∑∫{∞}st","MS"," ",17
+"dew","NY5F","414","N","Y"," ","dπu›","MS","INA",17
+"frost","NY5G","415","N","N"," ","fr∑Ω∫{∞}st","MS"," ",18
+"dew","NY5G","415","N","Y"," ","dπ´u","MS","INA",18
+"freeze","NY5H!","416!","N","N"," ","fÚü’±´iz","MS"," ",19
+"frost","NY5H!","416!","N","N"," ","fÚü’∑Ω∫{∞}st","MS"," ",19
+"dew","NY5H!","416!","N","Y"," ","d{j}uº∫","MS","INA",19
+"killing frost","NY5I!","417!","O","N"," ","k{h}±Ï±øÓ$fr∑∫{∞}st","MS"," ",20
+"frost","NY5I!","417!","N","N"," ","fr∑∫{∞}st","MS"," ",20
+"dew","NY5I!","417!","N","Y"," ","d±øuº","MS","INA",20
+"black frost","NY6A","418","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",21
+"frost","NY6A","418","N","N"," ","fr∑∫{∞}st","MS"," ",21
+"dew","NY6A","418","N","Y"," ","duº{u´º}","MS","INA",21
+"heavy frost","NY6B","419","O","N"," ","h≤v±ø´$fr∂´∫{∞}st","MS"," ",22
+"frost","NY6B","419","N","N"," ","fr∂´∫{∞}st","MS"," ",22
+"dew","NY6B","419","N","Y"," ","duº∫","MS","INA",22
+"frost","NY7A","420","N","N"," ","fr∑ó∫{∞}st","MS"," ",23
+"dew","NY7A","420","N","Y"," ","dèuº∫","MS","INA",23
+"frost","NY7B","421","N","N"," ","fr∑´∫{∞}st","MS"," ",24
+"dew","NY7B","421","N","Y"," ","du∫","MS","INA",24
+"frost","NY7C","422","N","N"," ","fr∑´∫{∞}st","MS"," ",25
+"dew","NY7C","422","N","Y"," ","duº∫","MS","INA",25
+"frost","NY7D","423","N","N"," ","fr∑∫{∞}st","MS"," ",26
+"dew","NY7D","423","N","Y"," ","du∫","MS","INA",26
+"heavy frost","NY7E","424","O","N"," ","h≤v±ø´º$fr∑∫st","MS"," ",27
+"frost","NY7E","424","N","N"," ","fr∑∫st","MS"," ",27
+"dew","NY7E","424","N","Y"," ","duΩº∫","MS","INA",27
+"heavy frost","NY7F","425","O","N"," ","h≤viΩæ$fr∑Ωst","MS"," ",28
+"frost","NY7F","425","N","N"," ","fr∑Ωst","MS"," ",28
+"dew","NY7F","425","N","Y"," ","duº∫","MS","INA",28
+"frost","NY7G","426","N","N"," ","fˆü’à∑Ωst","MS"," ",29
+"dew","NY7G","426","N","Y"," ","dπ´º{w}","MS","INA",29
+"frost","NY7H","427","N","N"," ","fr∑∫{∞}st","MS"," ",30
+"freeze","NY7H","427","N","N","rare","friΩiz","MS"," ",30
+"dew","NY7H","427","N","Y"," ","dπºu","MS","INA",30
+"heavy frost","NY7I","428","O","N"," ","h≤v±ø´º$fr∑Ω∫{∞}st","MS"," ",31
+"frost","NY7I","428","N","N"," ","fr∑Ω∫{∞}st","MS"," ",31
+"dew","NY7I","428","N","Y"," ","duº∫","MS","INA",31
+"frost","NY7J!","429!","N","N"," ","fr∑∫{∞}st","MS"," ",32
+"dew","NY7J!","429!","N","Y"," ","duΩº∫","MS","INA",32
+"frost","NY7K!","430!","N","N"," ","fr∑´∫st","MS"," ",33
+"dew","NY7K!","430!","N","Y"," ","duΩº{u}","MS","INA",33
+"frost","NY7L!","431!","N","N"," ","fÒéà›∑∫st","MS"," ",34
+"dew","NY7L!","431!","N","Y"," ","djuº∫","MS","INA",34
+"hoarfrost","NY7M!","432!","N","N"," ","h∑∫∞$fr∑∫{∞}st","MS"," ",35
+"hard frost","NY7M!","432!","O","N"," ","hµæ:d$fr∑∫{∞}st","MS"," ",35
+"dew","NY7M!","432!","N","Y"," ","du∫","MS","INA",35
+"frost","NY8","432b","N","N"," ","fr∑∫st","MS"," ",36
+"black frost","NY8","432b","O","N"," ","bl·k$fr∑∫st","MS"," ",36
+"dew","NY8","432b","N","Y"," ","du∫","MS","INA",36
+"frost","NY9A","432c","N","N"," ","fr∑∫{∞}st","MS"," ",37
+"black frost","NY9A","432c","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",37
+"dew","NY9A","432c","N","Y"," ","duº∫","MS","INA",37
+"frost","NY9B","433","N","N"," ","fr∑Ω:st","MS"," ",38
+"black frost","NY9B","433","O","N"," ","bl·∫k$fr∑:st","MS"," ",38
+"dew","NY9B","433","N","Y"," ","duº∫","MS","INA",38
+"frost","NY9C","434","N","N"," ","fr∑Ω∫{∞}st","MS"," ",39
+"black frost","NY9C","434","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",39
+"dew","NY9C","434","N","Y"," ","dπ´u","MS","INA",39
+"frost","NY10A","435","N","N"," ","fr∂´∫{∞}st","MS"," ",40
+"black frost","NY10A","435","O","N"," ","bl·∫k$fr∂´∫{∞}st","MS"," ",40
+"dew","NY10A","435","N","Y"," ","duº∫","MS","INA",40
+"frost","NY10B!","436!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",41
+"heavy frost","NY10B!","436!","O","N"," ","h≤v±ø´$fr∑Ω∫{∞}st","MS"," ",41
+"dew","NY10B!","436!","N","Y"," ","duº∫","MS","INA",41
+"frost","NY11","438","N","N"," ","fr∂´∫{∞}st","MS"," ",42
+"killing frost","NY11","438","O","N"," ","k{h}±øÏ±øÓ$fr∂´∫{∞}st","MS"," ",42
+"black frost","NY11","438","O","N"," ","bl·k$fr∑∫st","MS"," ",42
+"dew","NY11","438","N","Y"," ","duΩº∫","MS","INA",42
+"black frost","NY12A","439(*)","O","N"," ","bÏ·´k$fr∑∫{∞}st","MS"," ",43
+"frost","NY12A","439(*)","N","N"," ","fr∑∫{∞}st","MS"," ",43
+"dew","NY12A","439(*)","N","Y"," ","duΩº∫","MS","INA",43
+"dew","NY12A","439(*)","N","Y"," ","d±æu","MS","AUX/INA",43
+"frost","NY12B","440","N","N"," ","fr∑Ω∫{∞}st","MS"," ",44
+"black frost","NY12B","440","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",44
+"dew","NY12B","440","N","Y"," ","dπºu","MS","INA",44
+"black frost","NY12C!","441!","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",45
+"frost","NY12C!","441!","N","N"," ","fr∑∫{∞}st","MS"," ",45
+"dew","NY12C!","441!","N","Y"," ","d±´uº","MS","INA",45
+"frost","NY13A","443","N","N"," ","fr∑∫{∞}st","MS"," ",46
+"heavy frost","NY13A","443","O","N"," ","h≤v±ø´$fr∑∫{∞}st","MS"," ",46
+"dew","NY13A","443","N","Y"," ","du∫","MS","INA",46
+"heavy frost","NY13B!","444!","O","N"," ","h≤v±ø´$fr∑´∫st","MS"," ",47
+"frost","NY13B!","444!","N","N"," ","fr∑´∫{∞}st","MS"," ",47
+"black frost","NY13B!","444!","O","Y","sister-in-law","Âbl·∫k$ıfr∑´∫st","MS","HRD",47
+"dew","NY13B!","444!","N","Y"," ","du∫","MS","INA",47
+"frost","NY14A","445","N","N"," ","fr∂´∫{∞}st","MS"," ",48
+"hard freeze","NY14A","445","O","N"," ","ıhµ∫¥d$Âfri∫z","MS"," ",48
+"dew","NY14A","445","N","Y"," ","duº∫","MS","INA",48
+"freeze","NY14B","446","N","N"," ","friΩiz","MS"," ",49
+"frost","NY14B","446","N","N"," ","fr∂´∫{∞}st","MS"," ",49
+"dew","NY14B","446","N","Y"," ","duº∫","MS","INA",49
+"black frost","NY15A","447","O","N"," ","bÏ·´k$fr∂´∫{∞}st","MS"," ",50
+"frost","NY15A","447","N","N"," ","fr∂´∫{∞}st","MS"," ",50
+"dew","NY15A","447","N","Y"," ","du∫","MS","INA",50
+"frost","NY15B","448","N","N"," ","fr∂∫{∞}st","MS"," ",51
+"killing frost","NY15B","448","O","N"," ","k±æÏ±øÓ$fr∂∫{∞}st","MS"," ",51
+"dew","NY15B","448","N","Y"," ","d±øu","MS","INA",51
+"frost","NY16A","449","N","N"," ","fr∑´:{∞}st","MS"," ",52
+"black frost","NY16A","449","O","N"," ","bl·´k$fr∑´:{∞}st","MS"," ",52
+"dew","NY16A","449","N","Y"," ","du:","MS","INA",52
+"heavy frost","NY16B","450","O","N"," ","h≤v±ø´$fr∑∫st","MS"," ",53
+"frost","NY16B","450","N","N"," ","fr∑∫st","MS"," ",53
+"dew","NY16B","450","N","Y"," ","du∫","MS","INA",53
+"black frost","NY17A","451(*)","O","N"," ","bl·∫k$fr∂´∫st","MS"," ",54
+"frost","NY17A","451(*)","N","N"," ","fr∂´∫st","MS"," ",54
+"freeze","NY17A","451(*)","N","N"," ","friΩiz","MS"," ",54
+"black frost","NY17A","451(*)","O","Y"," ","bl·k$fr∂´∫st","MS","AUX",54
+"dew","NY17A","451(*)","N","Y"," ","d±æuº","MS","INA",54
+"dew","NY17A","451(*)","N","Y"," ","du:","MS","AUX/INA",54
+"heavy frost","NY17B","452","O","N"," ","h≤v±ø´º$fr∂´∫{∞}st","MS"," ",55
+"frost","NY17B","452","N","N"," ","fr∂´∫{∞}st","MS"," ",55
+"dew","NY17B","452","N","Y"," ","du∫","MS","INA",55
+"frost","NY18A","453","N","N"," ","fr∂´:st","MS"," ",56
+"killing frost","NY18A","453","O","N"," ","k{h}±ΩæÏ∞n$fr∂´:st","MS"," ",56
+"dew","NY18A","453","N","Y"," ","d±øuº","MS","INA",56
+"hard frost","NY18B","454","O","N"," ","haæ¥d$fr∂´∫{∞}st","MS"," ",57
+"frost","NY18B","454","N","N"," ","fr∂´∫{∞}st","MS"," ",57
+"dew","NY18B","454","N","Y"," ","d±øu","MS","INA",57
+"frost","NY18C!","455!","N","N"," ","fr∑∫{∞}st","MS"," ",58
+"hard frost","NY18C!","455!","O","N"," ","hµ:d$fr∑∫{∞}st","MS"," ",58
+"dew","NY18C!","455!","N","Y"," ","djuº∫","MS","INA",58
+"black frost","NY19","456","O","N"," ","bl·´k$fr∂´∫{∞}st","MS"," ",59
+"frost","NY19","456","N","N"," ","fr∂´∫{∞}st","MS"," ",59
+"dew","NY19","456","N","Y"," ","du∫","MS","INA",59
+"frost","NY20A","457","N","N"," ","fr∑∫st","MS"," ",60
+"freeze","NY20A","457","N","N"," ","fri∫z","MS"," ",60
+"dew","NY20A","457","N","Y"," ","d±øæu∫","MS","INA",60
+"black frost","NY20B","458","O","N"," ","bÏ·º∫k$fr∂´∫{∞}st","MS"," ",61
+"frost","NY20B","458","N","N"," ","fr∂´∫{∞}st","MS"," ",61
+"dew","NY20B","458","N","Y"," ","d±øuº","MS","INA",61
+"frost","NY21","459","N","N"," ","fr∂´∫{∞}st","MS"," ",62
+"killing frost","NY21","459","O","N"," ","k±l±øÓ$fr∂´∫{∞}st","MS"," ",62
+"dew","NY21","459","N","Y"," ","du{w}","MS","INA",62
+"heavy frost","NY22","460","O","N"," ","h≤v±ø´$fr∑Ω:{∞}st","MS"," ",63
+"frost","NY22","460","N","N"," ","fr∑Ω:{∞}st","MS"," ",63
+"black frost","NY22","460","O","N"," ","bl·∫k$fr∑Ω:{∞}st","MS"," ",63
+"dew","NY22","460","N","Y"," ","du:","MS","INA",63
+"NR","NY23A","461"," ","N"," "," ","MS"," ",64
+"white frost","NY23B","462a","O","N"," ","hwa´±øºt$frè∑∫{∞}st","MS"," ",65
+"freeze","NY23B","462a","N","N"," ","frè±´∫jz","MS"," ",65
+"frost","NY23B","462a","N","N"," ","frè∑∫{∞}st","MS"," ",65
+"hoarfrost","NY23C","462b","N","N"," ","Âho¥frè∂´∫{∞}st","MS"," ",66
+"frost","NY23C","462b","N","N"," ","frè∂´∫{∞}st","MS"," ",66
+"black frost","NY23C","462b","O","N","colder [than frost or hoarfrost]","Â{bè}bl·k$ıfrﬁ{∞}st","MS"," ",66
+"black frost","NY23C","462b","O","N","colder [than frost or hoarfrost]","Â{bè}bl·k$ıfrèóﬁs","MS"," ",66
+"black frost","NY24A","463","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",67
+"frost","NY24A","463","N","N"," ","fr∂´∫{∞}st","MS"," ",67
+"freeze","NY24A","463","N","N"," ","fri∫z","MS"," ",67
+"dew","NY24A","463","N","Y"," ","d±´ºuº","MS","INA",67
+"frost","NY24B!","464!","N","N"," ","fr∂´∫{∞}st","MS"," ",68
+"black frost","NY24B!","464!","O","N"," ","bl·∫k$fr∂´∫{∞}st","MS"," ",68
+"dew","NY24B!","464!","N","Y"," ","duæ:","MS","INA",68
+"white frost","NY25A","465","O","N"," ","hwµ´º±øt$frè∑Ω∫{∞}st","MS"," ",69
+"black frost","NY25A","465","O","N"," ","bl·Ωk$frè∑Ω∫{∞}st","MS"," ",69
+"frost","NY25A","465","N","N"," ","frè∑Ω∫{∞}st","MS"," ",69
+"frost","NY25A","465","N","N"," ","frèﬁº{∞}s","MS","CNV",69
+"freeze","NY25B","466","N","N"," ","frèiΩiz","MS"," ",70
+"white frost","NY25B","466","O","N"," ","Âhwµ±øt$ıfrè∂î´∫{∞}st","MS"," ",70
+"frost","NY25B","466","N","N"," ","frè∂∫{∞}st","MS"," ",70
+"frosty","NY25B","466","A","Y"," ","Âfrè∑Ω∫{∞}st±´{i}","MS","INA/CNV",70
+"black frost","NY26A","467","O","N","only on trees","ÂbÏ·k$ıfrè∂´s","MS"," ",71
+"freeze","NY26A","467","N","N"," ","frèiΩiz","MS"," ",71
+"frost","NY26A","467","N","N"," ","frè∑Ω∫s","MS","CNV",71
+"frost","NY26A","467","N","N"," ","frè∑Ωst","MS","CNV",71
+"frost","NY26B","468","N","N"," ","frèµæ{∞}st","MS"," ",72
+"white frost","NY26B","468","O","N"," ","ıhw∞Ω±æt$Âfrè∂´{∞}st","MS"," ",72
+"black frost","NY26B","468","O","N"," ","bÏ·Ωk$frè∂´{∞}st","MS"," ",72
+"freeze","NY26B","468","N","N"," ","fri∫z","MS"," ",72
+"NR","NY26C","469"," ","N"," "," ","MS"," ",73
+"white frost","NY27A","470","O","N"," ","hw•±øt$frè∂´∫{∞}st","MS"," ",74
+"hard frost","NY27A","470","O","N"," ","ıhµ¥d$Âfr∂´∫st","MS"," ",74
+"black frost","NY27A","470","O","N","""brings a rain¢","bÏ·k$frè∂´∫{∞}st","MS"," ",74
+"frost","NY27A","470","N","N"," ","frèﬁº{∞}st","MS"," ",74
+"frost","NY27A","470","N","N"," ","frè∂´∫{∞}st","MS"," ",74
+"brings a rain","NY27A","470","E","Y"," ","br±Óz$∞$ÂreΩ∫±øn","MS","INA",74
+"frost","NY27B","471","N","N"," ","fr∑Ω∫s","MS","CNV",75
+"black frost","NY27C","472","O","N","sure sign of winter","ÂbÏ·k$ıfrè∂´∫{∞}s","MS"," ",76
+"common frost","NY27C","472","O","N"," ","Âkµm∞´n$ıfrè∂´∫{∞}s","MS"," ",76
+"frost","NY27C","472","N","N"," ","frè∂´∫st","MS"," ",76
+"freeze","NY27C","472","N","N","harder [than frost]","frèiΩiz","MS"," ",76
+"frosty","NY27C","472","A","Y"," ","frè∂´∫st±´æ{iæ}","MS","INA",76
+"hard frost","NY28A","473a","O","N"," ","Âhµé¥d$ıfrè∑Ω∫s","MS"," ",77
+"white frost","NY28A","473a","O","N"," ","Âhw•´±øt$frè∂∫st","MS"," ",77
+"black frost","NY28A","473a","O","N"," ","bÏ·k$frè∂∫st","MS"," ",77
+"frost","NY28A","473a","N","N"," ","frèﬁ∫st","MS"," ",77
+"hoarfrost","NY28A","473a","N","N"," ","ÂhoéΩº¥frè∂∫st","MS"," ",77
+"killing frost","NY28A","473a","O","N"," ","k±´l±øºÓ$frè∂∫st","MS"," ",77
+"frost","NY28A","473a","N","N"," ","frè∂∫st","MS"," ",77
+"black frost","NY28B","473b(*)","O","N","kills everything","bÏ·k$frè∂´∫{∞}st","MS"," ",78
+"white frost","NY28B","473b(*)","O","N"," ","Âhw•´±øt$ıfrè∂´∫{∞}st","MS"," ",78
+"frost","NY28B","473b(*)","N","N"," ","fr∑Ω∫{∞}st","MS"," ",78
+"hard frost","NY28B","473b(*)","O","N"," ","Âhµ¥d$ıfr∑Ω∫st","MS"," ",78
+"NR","NY28C"," "," ","N"," "," ","MS"," ",79
+"light frost","NY29A","474a","O","N"," ","Âl•±øt$ıfr∑Ω∫{∞}st","MS"," ",80
+"frost","NY29A","474a","N","N"," ","fr∑Ω∫{∞}st","MS"," ",80
+"heavy frost","NY29A","474a","O","N","freezes","Âh≤´v±´æ$fr∑Ω∫{∞}st","MS"," ",80
+"frost","NY29B","474b","N","N"," ","frè∂´∫{∞}s","MS","CNV",81
+"white frost","NY29B","474b","O","N"," ","Âw•´±øt$ıfrè∂´{s}","MS"," ",81
+"hard frost","NY29B","474b","O","N","freezes ground","Âhµ¥{d}$ıfrèﬁó∫{∞}s","MS"," ",81
+"white frost","NY29C","474c","O","N"," ","hw∞±øºt$frè∑Ω∫{∞}st","MS"," ",82
+"killing frost","NY29C","474c","O","N"," ","ık`±Ïn$Âfrè∑Ω∫{∞}st","MS"," ",82
+"light frost","NY29C","474c","O","N"," ","Âl∞±øºt$ıfrè∑Ω∫{∞}st","MS"," ",82
+"freeze","NY30A","475a","N","N"," ","friΩ∫{i}z","MS"," ",83
+"frost","NY30A","475a","N","N"," ","fr∑Ω∫{∞}st","MS"," ",83
+"freeze","NY30B","475b","N","N","colder [than heavy frost]","fr±´iz","MS"," ",84
+"heavy frost","NY30B","475b","O","N"," ","h≤´v±´æ$frè∂st","MS"," ",84
+"white frost","NY30B","475b","O","N"," ","hw•±øºt$frè∂st","MS"," ",84
+"frost","NY30B","475b","N","N"," ","fr∂´∫{∞}st","MS","CNV",84
+"slight frost","NY30B","475b","O","N"," ","slè•±øºt$frè∂st","MS"," ",84
+"NR","NY30C","475c"," ","N"," "," ","MS"," ",85
+"NR","NY30D","475d"," ","N"," "," ","MS"," ",86
+"freeze","NY30E","475e","N","N"," ","fri∫z","MS"," ",87
+"frost","NY30E","475e","N","N"," ","frè∂{∞}st","MS"," ",87
+"freeze-up","NY30E","475e","N","Y"," ","Âfrèi∫z$ı∏´p","MS","AUX",87
+"black frost","NY30E","475e","O","Y"," ","ÂbÏ·k$ıfr∑Ω∫{∞}st","MS","AUX",87
+"black frost","NY30E","475e","O","Y"," ","ÂbÏ·k$ıfrè∂{∞}st","MS","HRD",87
+"white frost","NY31A","478a","O","N"," ","Âhw•´±øt$ıfÚè∑Ω∫{∞}st","MS"," ",88
+"black frost","NY31A","478a","O","N","very bad","Âbl·k$ıfÚè∑Ω∫{∞}st","MS"," ",88
+"frost","NY31A","478a","N","N"," ","fÚè∂´s","MS","CNV",88
+"freeze","NY31A","478a","N","N"," ","fÚiΩæiz","MS"," ",88
+"hard frost","NY31A","478a","O","N"," ","Âhµ¥d$ıfÚ∂´{∞}st","MS"," ",88
+"white frost","NY31B","478b","O","N"," ","Âhw∞±øºt$ıfrè∂´{∞}s","MS"," ",89
+"hoarfrost","NY31B","478b","N","N"," ","Âhoº∞ıfÚ∂´st","MS"," ",89
+"killing frost","NY31B","478b","O","N"," ","k±l±øÓ$fÚ∂´st","MS"," ",89
+"freeze","NY31B","478b","N","N"," ","fÚèiΩæ∫iz","MS"," ",89
+"black frost","NY31B","478b","O","N"," ","bl·k$fÚ∂´st","MS"," ",89
+"white frost","NY32A","479a","O","N"," ","Âhw•´±øt$ıfÚ∂´st","MS"," ",90
+"hard frost","NY32A","479a","O","N"," ","Âhµ¥d$ıfÚè∂´s","MS"," ",90
+"freeze-up","NY32A","479a","N","N"," ","fÚèiΩiz∞´p","MS"," ",90
+"frost","NY32A","479a","N","N"," ","fÚè∑Ωst","MS"," ",90
+"gray frost","NY32A","479a","O","N","not so damaging","ÂgÚáeΩ{±ø}$ıfÚ∑Ω∫st","MS"," ",90
+"light frost","NY32B","479b","O","N"," ","ÂÏ•±øt$ıfÚè∂st","MS"," ",91
+"black frost","NY32B","479b","O","N","harder [than frost]","bÏ·k$fÚè∂st","MS"," ",91
+"frost","NY32B","479b","N","N"," ","fÚè∂î{∞}st","MS"," ",91
+"hard frost","NY32B","479b","O","N"," ","Âhµé´¥d$ıfÚè∂st","MS"," ",91
+"frost","NY33A","480","N","N"," ","fr∂´∫{∞}st","MS"," ",92
+"frost","NY33B","481","N","N"," ","fr∂∫{∞}st","MS"," ",93
+"white frost","NY33B","481","O","N"," ","ÂÀwµ±øt$ıfrè∂∫{∞}st","MS"," ",93
+"white frost","NY33B","481","O","N"," ","{À}w∞Ω±øºt$frè∂∫{∞}st","MS"," ",93
+"white frost","NY33C","482","O","N"," ","hw∞±øºt$fr∑Ω∫{∞}st","MS"," ",94
+"frost","NY33C","482","N","N"," ","fr∑Ω∫{∞}st","MS"," ",94
+"frost","NY34A","483","N","N"," ","fÚè∂î{∞}st","MS","CNV",95
+"hard freeze","NY34A","483","O","N"," ","ıh·¥d$ÂfÚèiΩiz","MS"," ",95
+"white frost","NY34A","483","O","N"," ","Âhw•±øt$ıfr∑Ω∫s","MS"," ",95
+"black frost","NY34A","483","O","N"," ","Âb≈·k$ıfÚè∑Ωºs","MS"," ",95
+"late frost","NY34A","483","O","N"," ","ÂleΩ±øt$ıfÚè∑Ω∫s","MS","CNV",95
+"NR","NY34B","484"," ","N"," "," ","MS"," ",96
+"NR","NY34C","485"," ","N"," "," ","MS"," ",97
+"hoarfrost","NY34D!","486!","N","N"," ","Âhoøæ∞ıfrè∂´s","MS"," ",98
+"hard freeze","NY34D!","486!","O","N"," ","ıhµ∫∞d$ÂfrèiΩiz","MS"," ",98
+"frost","NY34D!","486!","N","N"," ","frè∂´st","MS"," ",98
+"white frost","NY34D!","486!","O","N"," ","Âhw•±øt$ıfrè∑Ωst","MS"," ",98
+"freeze-up","NY34D!","486!","N","N"," ","ÂfrèiΩiz∞´p","MS"," ",98
+"black frost","NY35A","487","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",99
+"frost","NY35A","487","N","N"," ","fr∂´∫{∞}st","MS"," ",99
+"dew","NY35A","487","N","Y"," ","duº∫","MS","INA",99
+"frost","NY35B","488","N","N"," ","fr∂´∫{∞}st","MS"," ",100
+"freeze","NY35B","488","N","N"," ","fri∫z","MS"," ",100
+"dew","NY35B","488","N","Y"," ","du∫","MS","INA",100
+"frost","NY35C!","489!","N","N"," ","fr∂´{∞}st","MS"," ",101
+"black frost","NY35C!","489!","O","N"," ","ÂbÏ·k$fr∂´{∞}st","MS"," ",101
+"dew","NY35C!","489!","N","Y"," ","du∫","MS","INA",101
+"frost","NY36A","491","N","N"," ","fr∂´∫{∞}st","MS"," ",102
+"black frost","NY36A","491","O","N"," ","bl·∫k$fr∂´∫{∞}st","MS"," ",102
+"dew","NY36A","491","N","Y"," ","d±ø›´uº","MS","INA",102
+"frost","NY36B","492","N","N"," ","fr∂´∫{∞}st","MS"," ",103
+"black frost","NY36B","492","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",103
+"dew","NY36B","492","N","Y"," ","d±øu","MS","INA",103
+"black frost","NY37A","493","O","N"," ","bl·k$fr∂´º∫st","MS"," ",104
+"frost","NY37A","493","N","N"," ","fr∂´º∫st","MS"," ",104
+"dew","NY37A","493","N","Y"," ","d±øu","MS","INA",104
+"frost","NY37B","494","N","N"," ","fr∂´∫{∞}st","MS"," ",105
+"black frost","NY37B","494","O","N"," ","bÏ·´k$fr∂´∫{∞}st","MS"," ",105
+"dew","NY37B","494","N","Y"," ","du∫","MS","INA",105
+"frost","NY37C!","495!","N","N"," ","fr∂´∫{∞}st","MS"," ",106
+"dew","NY37C!","495!","N","Y"," ","du∫","MS","INA",106
+"frost","NY38A","497(*)","N","N"," ","fr∂´∫{∞}st","MS"," ",107
+"hard frost","NY38A","497(*)","O","N"," ","hµ¥d$fr∂´∫{∞}st","MS"," ",107
+"dew","NY38A","497(*)","N","Y"," ","d±øu","MS","INA",107
+"frost","NY38B","498","N","N"," ","fr∂´∫{∞}st","MS"," ",108
+"black frost","NY38B","498","O","N"," ","bl·∫k$fr∂´∫{∞}st","MS"," ",108
+"dew","NY38B","498","N","Y"," ","du:","MS","INA",108
+"frost","NY38C"," ","N","N"," ","fr∑Ω∫{∞}st","MS"," ",109
+"black frost","NY38C"," ","O","N"," ","bÏ·k$fr∑Ω∫{∞}st","MS"," ",109
+"dew","NY38C"," ","N","Y"," ","duΩº∫","MS","INA",109
+"frost","NY39A","499","N","N"," ","fr∂´∫{∞}st","MS"," ",110
+"freeze","NY39A","499","N","N"," ","fri∫z","MS"," ",110
+"dew","NY39A","499","N","Y"," ","du∫","MS","INA",110
+"frost","NY39B","500","N","N"," ","fr∂´∫{∞}st","MS"," ",111
+"black frost","NY39B","500","O","N"," ","bl·∫k$fr∂´∫{∞}st","MS"," ",111
+"dew","NY39B","500","N","Y"," ","du{w}","MS","INA",111
+"frost","NY40A","501","N","N"," ","fr∂´∫{∞}st","MS"," ",112
+"black freeze","NY40A","501","O","N"," ","bl·∫k$fri∫z","MS"," ",112
+"dew","NY40A","501","N","Y"," ","duº∫","MS","INA",112
+"frost","NY40B","502","N","N"," ","fr∂´∫{∞}st","MS"," ",113
+"black frost","NY40B","502","O","N"," ","bl·´k$fr∂´∫{∞}st","MS"," ",113
+"dew","NY40B","502","N","Y"," ","du∫","MS","INA",113
+"frost","NY41","504","N","N"," ","fr∂´∫{∞}st","MS"," ",114
+"freeze","NY41","504","N","N"," ","fri∫z","MS"," ",114
+"dew","NY41","504","N","Y"," ","du{w}","MS","INA",114
+"frost","NY42A","505","N","N"," ","fr∂´∫st","MS"," ",115
+"black frost","NY42A","505","O","N"," ","bÏ·k$fr∂´∫st","MS"," ",115
+"dew","NY42A","505","N","Y"," ","d±øuΩº","MS","INA",115
+"frost","NY42B","506","N","N"," ","fr∂{∞}st","MS"," ",116
+"killing frost","NY42B","506","O","N"," ","k±øÏ±øÓ$fr∂{∞}st","MS"," ",116
+"dew","NY42B","506","N","Y"," ","du∫","MS","INA",116
+"white frost","NY43A","507","O","N"," ","hw•›±ø´t$fr∂´∫{∞}st","MS"," ",117
+"heavy frost","NY43A","507","O","N"," ","h≤v±ø´$fr∂´∫{∞}st","MS"," ",117
+"dew","NY43A","507","N","Y"," ","d±øu","MS","INA",117
+"freeze","NY43B","507b","N","N"," ","fri∫z","MS"," ",118
+"frost","NY43B","507b","N","N"," ","fr∂´∫{∞}st","MS"," ",118
+"dew","NY43B","507b","N","Y"," ","duº∫","MS","INA",118
+"frost","NY43C!","508!","N","N"," ","fr∂{∞}st","MS"," ",119
+"black frost","NY43C!","508!","O","N"," ","bÏ·∫k$fr∂{∞}st","MS"," ",119
+"dew","NY43C!","508!","N","Y"," ","du{w}","MS","INA",119
+"frost","NY44A","511","N","N"," ","fr∑Ω∫{∞}st","MS"," ",120
+"black frost","NY44A","511","O","N"," ","bÏ·∫k$fr∑Ω:{∞}st","MS"," ",120
+"dew","NY44A","511","N","Y"," ","d±ø{uº}","MS","INA",120
+"frost","NY44B","512","N","N"," ","fr∂∫{∞}st","MS"," ",121
+"freeze","NY44B","512","N","N"," ","fri∫z","MS"," ",121
+"dew","NY44B","512","N","Y"," ","dπw","MS","INA",121
+"frost","NY45A","513a","N","N"," ","fÚ∑Ωs","MS","CNV",122
+"white frost","NY45A","513a","O","N"," ","Âhw•´±ø't$ıfÚ∑Ωs","MS"," ",122
+"black frost","NY45A","513a","O","N","worse [than white frost]","Âb≈·k$ıfÚ∑Ωs","MS"," ",122
+"hard freeze","NY45A","513a","O","N"," ","Âh•Ω¥d$ıfÚèiΩiz","MS"," ",122
+"NR","NY45B","513b"," ","N"," "," ","MS"," ",123
+"NR","NY45C","513c"," ","N"," "," ","MS"," ",124
+"hoarfrost","NY45D!","513d!","N","N"," ","Âhoøé¥ıfÚ∑Ω∫st","MS"," ",125
+"freeze","NY45D!","513d!","N","N"," ","fÚèiΩiz","MS"," ",125
+"frost","NY45D!","513d!","N","N"," ","fÚè∑Ω∫∞st","MS"," ",125
+"frost","NY46A","515a","N","N"," ","fr∂s","MS","CNV",126
+"frost","NY46A","515a","N","N"," ","fÚ∂´{∞}s","MS"," ",126
+"frosty","NY46A","515a","A","Y"," ","fÚè∂st±´æ","MS","INA/CNV",126
+"black frost","NY46A","515a","O","N"," ","Âb≈·k$ıfÚﬁst","MS"," ",126
+"freeze","NY46A","515a","N","N"," ","fÚèiΩiz","MS"," ",126
+"frost","NY46B","515b","N","N"," ","fr∑Ω∫{∞}st","MS"," ",127
+"frost","NY46C","515c","N","N"," ","fr∑Ωºs{t}","MS"," ",128
+"hoarfrost","NY47A","517(*)","N","N"," ","Âhoé¥ıfÚè¿Ωæ{∞}st","MS"," ",129
+"white frost","NY47A","517(*)","O","N"," ","Âhw•±øt$ıfÚé∂´s","MS"," ",129
+"black frost","NY47A","517(*)","O","N","= ""freeze¢","Âb≈·k$ıfÚé∑Ω∫st","MS"," ",129
+"freeze","NY47A","517(*)","N","N"," ","fÚèiΩiz","MS","CNV",129
+"freeze","NY47A","517(*)","N","Y"," ","friΩæiz","MS","AUX",129
+"frost","NY47A","517(*)","N","Y"," ","fr∂´∫st","MS","AUX",129
+"dew","NY47A","517(*)","N","Y"," ","d±øæuº","MS","AUX/INA",129
+"frost","NY47B","518","N","N"," ","fr∂´∫{∞}st","MS"," ",130
+"killing frost","NY47B","518","O","N"," ","k±Ï±øÓ$fr∂´∫{∞}st","MS"," ",130
+"dew","NY47B","518","N","Y"," ","duº{w}","MS","INA",130
+"white frost","NY48A","519a","O","N"," ","Âhw∞Ω±øt$ıfrè∑Ωs","MS"," ",131
+"light frost","NY48A","519a","O","N"," ","Âl•±øt$ıfrè∂∫{∞}st","MS","CNV",131
+"light frost","NY48A","519a","O","N"," ","Âl∞±øt$ıfrè∑Ωs","MS"," ",131
+"black frost","NY48A","519a","O","N"," ","Âbl·Ωk$ıfrè∑Ωs","MS"," ",131
+"freeze","NY48A","519a","N","N"," ","fr±øºiz","MS"," ",131
+"freeze","NY48A","519a","N","N"," ","frè±øiz","MS","CNV",131
+"NR","NY48B","519b"," ","N"," "," ","MS"," ",132
+"frost","NY48C","519c","N","N"," ","fr∂´∫st","MS"," ",133
+"white frost","NY48C","519c","O","N"," ","Âhw∞±øºt$ıfrè∂´ºst","MS"," ",133
+"white frost","NY48C","519c","O","N"," ","Âhw∞±øºt$ıfrè∑Ω∫s","MS"," ",133
+"black frost","NY48C","519c","O","N"," ","Âbl·Ωk$ıfr∂î{∞}st","MS"," ",133
+"freeze","NY48C","519c","N","N","still colder [than black frost]","frè±øiz","MS"," ",133
+"frost","NY48D","519d","N","N"," ","frè∂{∞}st","MS"," ",134
+"white frost","NY48D","519d","O","N"," ","Âhw∞Ω±øt$ıfrè∑Ωst","MS"," ",134
+"black frost","NY48D","519d","O","N"," ","ÂbÏ·k$ıfrè∂st","MS"," ",134
+"freeze","NY48D","519d","N","N"," ","friΩiz","MS"," ",134
+"hard frost","NY48D","519d","O","N"," ","hµé¥d$frè∂st","MS"," ",134
+"NR","NY49A","520"," ","N"," "," ","MS"," ",135
+"frost","NY49B","521","N","N"," ","fr∂´∫{∞}st","MS"," ",136
+"freeze","NY49B","521","N","N"," ","fri∫z","MS"," ",136
+"dew","NY49B","521","N","Y"," ","duΩº{u}","MS","INA",136
+"light frost","NY49C","522a","O","N"," ","Âlaæ±øt$fr∑Ω∫{∞}st","MS"," ",137
+"frost","NY49C","522a","N","N"," ","frﬁst","MS","CNV",137
+"frost","NY49C","522a","N","N"," ","Âfr∑Ω∫{∞}st","MS"," ",137
+"heavy frost","NY49C","522a","O","N"," ","Âh≤v±ø{±ø´}$fr∑Ω∫{∞}st","MS"," ",137
+"hard frost","NY49C","522a","O","N"," ","Âhµ∞›d$fr∑Ω∫{∞}st","MS"," ",137
+"dew","NY49C","522a","N","Y"," ","duøæ{uø´æ}","MS","INA",137
+"frost","NY49D","522b","N","N","dew","fr∂´st","MS"," ",138
+"dew","NY49D","522b","N","Y"," ","duΩºuº","MS","INA",138
+"frost","NY50A","523","N","N"," ","frè∂´∫s","MS"," ",139
+"white frost","NY50A","523","O","N"," ","Âhw∞Ω±øt$ıfrèó∂´∫s","MS"," ",139
+"good freeze","NY50A","523","O","N"," ","Âgπd$ıfrè±øiz","MS"," ",139
+"frost","NY50B","524","N","N"," ","fÚè∑Ωst","MS"," ",140
+"white frost","NY50B","524","O","N"," ","Âhw≥º±øt$ıfÚè∑Ωst","MS"," ",140
+"killing frost","NY50B","524","O","N"," ","Âkà±l±øÓ$ıfÚè∑Ωst","MS"," ",140
+"freezes","NY50B","524","N","N","plural","fÚè±´æiz±øºz","MS"," ",140
+"frost","NY51A","525a","N","N"," ","fÚè∑Ω∫st","MS","CNV",141
+"hard frost","NY51A","525a","O","N"," ","Âhµ¥d$ıfÚè∑Ω∫st","MS"," ",141
+"freeze","NY51A","525a","N","N"," ","fÚèiΩiz","MS"," ",141
+"freezes","NY51A","525a","N","N"," ","fÚèiΩiz±øºz","MS","CNV",141
+"frost","NY51B","525b","N","N"," ","frè∂{∞}st","MS"," ",142
+"frost","NY51B","525b","N","N"," ","frèﬁst","MS"," ",142
+"frost","NY51B","525b","N","N"," ","fr∑Ω∫{∞}s","MS","CNV",142
+"black frost","NY51B","525b","O","N","same as `freeze'","Âbl·k$ıfr∂îst","MS"," ",142
+"freeze","NY51B","525b","N","N","same as `black frost'","frèiΩiz","MS"," ",142
+"frost","NY51C","525c","N","N"," ","fÚè∑Ωst","MS"," ",143
+"black frost","NY51C","525c","O","N"," ","ÂbÏ·k$ıfÚè∑Ωst","MS"," ",143
+"freeze","NY51C","525c","N","N","hard","fÚèiΩiz","MS"," ",143
+"frost","NY51D","525d","N","N"," ","frè∑Ωst","MS","CNV",144
+"NR","NY51E!","525e!"," ","N"," "," ","MS"," ",145
+"frost","NY52A","527","N","N"," ","fÚè∂´∫{∞}st","MS"," ",146
+"freeze","NY52A","527","N","N"," ","fÚèiΩiz","MS"," ",146
+"black frost","NY52A","527","O","N"," ","Âb≈·k$ıfÚ∂´º∫{∞ó}st","MS"," ",146
+"frost","NY52B","528","N","N"," ","frè∑Ω∫st","MS","CNV",147
+"frost","NY52C","528b","N","N"," ","frﬁºst","MS"," ",148
+"frosty cold","NY52C","528b","O","Y"," ","Âfrﬁóst±ø$ko{π}Ï","MS","INA/CNV",148
+"frost","NY53A","529","N","N"," ","fÚè∑Ω∫st","MS"," ",149
+"black frost","NY53A","529","O","N","same as `freeze'; ""freezes pretty solid¢","Âb≈·k$ıfÚè∑Ωst","MS"," ",149
+"freeze","NY53A","529","N","N","same as `black frost'","fÚèiΩiz","MS"," ",149
+"frost","NY53B!","530!","N","N"," ","fÚè∑Ω∫st","MS"," ",150
+"freeze","NY53B!","530!","N","N"," ","fÚèiΩiz","MS"," ",150
+"hoarfrost","NY53B!","530!","N","N"," ","Âhoø∞ıfÚè∂´ºst","MS"," ",150
+"frost","NY54A","531","N","N"," ","fr∂´∫st","MS"," ",151
+"dew","NY54A","531","N","Y"," ","duøΩuø","MS","INA",151
+"frost","NY54B","532","N","N"," ","fr∂´∫{∞}st","MS"," ",152
+"white frost","NY55A","533","O","N","not much damage","Âhw•´±øt$ıfÚè∑∫st","MS"," ",153
+"frost","NY55A","533","N","N"," ","fÚ∑Ω∫{∞}st","MS"," ",153
+"hoarfrost","NY55A","533","N","N"," ","Âhoé¥ıfÚè∑∫st","MS"," ",153
+"freeze","NY55A","533","N","N"," ","fÚèiΩ{j}z","MS"," ",153
+"frost","NY55B","534","N","N"," ","fr∂´∫st","MS"," ",154
+"light frosts","NY55B","534","O","N"," ","Âl•±øt$ıfr∂´º{∞}sts","MS"," ",154
+"frost","NY55B","534","N","N"," ","fr∂´∫{∞}s","MS","CNV",154
+"killing frosts","NY55B","534","O","N"," ","Âkà±∫l±øºÓ$ıfrè∂´s","MS"," ",154
+"freeze","NY55B","534","N","N"," ","frèi∫iz","MS"," ",154
+"white frost","NY56A","535","O","N"," ","Âhw∞±ø{t}$ıfÚè∑Ω∫{∞}s","MS"," ",155
+"little frost","NY56A","535","O","N"," ","ıl±øÒÏ$ÂfÚè∂∫{∞}st","MS"," ",155
+"freeze","NY56A","535","N","N"," ","fÚèiΩ∫iz","MS"," ",155
+"frost","NY56B","536","N","N"," ","fÚè∂´st","MS"," ",156
+"frost","NY56B","536","N","N"," ","fÚè∑Ω∫st","MS"," ",156
+"hard freeze","NY56B","536","O","N"," ","ıhµº¥d$ÂfÚèiΩiz","MS"," ",156
+"light frost","NY57A","537a","O","N"," ","l•´±øt$fÚ∑Ω∫{∞}st","MS"," ",157
+"frost","NY57A","537a","N","N"," ","fÚ∑Ω∫{∞}st","MS"," ",157
+"freeze","NY57A","537a","N","N"," ","fÚèiΩiz","MS"," ",157
+"NR","NY57B","537b"," ","N"," "," ","MS"," ",158
+"light frost","NY57C!","537c!","O","N"," ","Âlµ´º±øt$ıfÚ∂st","MS"," ",159
+"frost","NY57C!","537c!","N","N"," ","fÚµæst","MS"," ",159
+"heavy frost","NY57C!","537c!","O","N"," ","Âh≤v±´æ$ıfÚ∂st","MS"," ",159
+"killing frost","NY57C!","537c!","O","N"," ","Âkà±´l±øn$ıfÚ∂st","MS"," ",159
+"freeze","NY57C!","537c!","N","N"," ","fÚiΩiz","MS"," ",159
+"light frost","NY58A","539a","O","N"," ","l∂Ωæ±øt$frè∑Ωº∫st","MS"," ",160
+"frost","NY58A","539a","N","N"," ","frè∑Ωº∫st","MS"," ",160
+"like dew","NY58A","539a","K","Y"," ","l∞±øk$ÂduΩu","MS","INA/CNV",160
+"frost","NY58B","539b","N","N"," ","fÚè∂´∫s","MS"," ",161
+"white frost","NY58B","539b","O","N"," ","Âhw∞Ω±øº't$ıfrè∂´ºst","MS"," ",161
+"black frost","NY58B","539b","O","N","""a killer¢","b≈·k$ıfrè∂´ºst","MS"," ",161
+"freeze","NY58B","539b","N","N"," ","fÚèái∫{j}z","MS"," ",161
+"killer","NY58B","539b","N","Y"," ","Âkà±l¥","MS","INA",161
+"NR","NY58C","539c"," ","N"," "," ","MS"," ",162
+"white frost","NY58D!","539d!","O","N"," ","Âhwµ´±øt$ıfÚèá∑Ω∫{∞}s{t}","MS"," ",163
+"heavy frost","NY58D!","539d!","O","N"," ","Âhev±´æ$ıfÚèá∑Ω∫{∞}s{t}","MS"," ",163
+"killing frost","NY58D!","539d!","O","N"," ","k±l±øºÓ$fÚèá∑Ω∫{∞}s{t}","MS"," ",163
+"hard frost","NY58D!","539d!","O","Y"," ","hµ∫∞d$fÚèá∑Ω∫{∞}s{t}","MS","AUX",163
+"freeze","NY58D!","539d!","N","N"," ","fÚóái∫{j}z","MS"," ",163
+"frost","NY58E!","539e!","N","N"," ","frè∂´∫{∞ó}st","MS"," ",164
+"frost","NY58E!","539e!","N","N"," ","fr∑Ω∫st","MS"," ",164
+"real freeze","NY58E!","539e!","O","N"," ","ıriΩ∫Ï$Âfrèi∫i´z","MS"," ",164
+"heavy dew","NY58E!","539e!","O","Y"," ","ñh≤´v±´æ$ÂduΩºuº","MS","INA",164
+"NR","NY58F!","539f!"," ","N"," "," ","MS"," ",165
+"white frost","NY59A","543","O","N"," ","hw•´±øt$frè∂îst","MS"," ",166
+"freeze","NY59A","543","N","N"," ","fÚèiΩ{i}z","MS"," ",166
+"frost","NY59A","543","N","N"," ","frè∂îst","MS"," ",166
+"black frost","NY59A","543","O","N"," ","Âb≈·k$ıfrè∂îst","MS"," ",166
+"frost","NY59B","544","N","N"," ","fr∂{∞}st","MS"," ",167
+"freeze","NY59B","544","N","N"," ","friΩiz","MS"," ",167
+"dew","NY59B","544","N","Y"," ","d±øuº","MS","INA",167
+"frost","NY60A","545","N","N"," ","fÚèﬁó{∞}st","MS"," ",168
+"hard freeze","NY60A","545","O","N"," ","Âhµº∞´d$ıfÚèi∫{j}z","MS"," ",168
+"light frost","NY60A","545","O","N"," ","Âl•´±øt$ıfÚèﬁó{∞}st","MS"," ",168
+"black frost","NY60A","545","O","N"," ","Âbl·k$ıfÚè∂st","MS"," ",168
+"white frost","NY60B!","546!","O","N"," ","Âhw∞Ω±øt$ıfr∂st","MS"," ",169
+"frost","NY60B!","546!","N","N"," ","fr∑Ωst","MS","CNV",169
+"freeze","NY60B!","546!","N","N"," ","fÚèi´iz","MS"," ",169
+"black frost","NY60B!","546!","O","N"," ","b≈·k$ıfr∂st","MS"," ",169
+"frost","NY60B!","546!","N","N"," ","frè∂{∞}st","MS","CNV",169
+"killing frost","NY60B!","546!","O","N"," ","kà±´Ï±øÓ$fr∂st","MS"," ",169
+"frost","NY61A","547","N","N"," ","fr∑Ω∫∞›st","MS"," ",170
+"heavy frost","NY61A","547","O","N"," ","Âh≤v±´æ$ıfr∑Ωst","MS"," ",170
+"black frost","NY61A","547","O","Y"," ","ÂbÏ·∫k$ıfr∑Ωst","MS","SUG/HRD",170
+"freeze","NY61A","547","N","N"," ","fÚèiΩ∫iz","MS"," ",170
+"hoarfrost","NY61B","548","N","N"," ","Âho¥frèﬁós","MS"," ",171
+"freeze","NY61B","548","N","N"," ","frèiΩiz","MS"," ",171
+"frost","NY61B","548","N","N"," ","frèﬁós","MS"," ",171
+"freezing frost","NY61B","548","O","N"," ","Âfri∫z±øºÓ$frèﬁós","MS"," ",171
+"frost","NY62A","551a","N","N"," ","fr∑Ω∫st","MS"," ",172
+"black frost","NY62A","551a","O","N"," ","Âb≈·k$ıfr∂´s","MS"," ",172
+"freeze","NY62A","551a","N","N","harder [than frost]","fr±ø∫iz","MS"," ",172
+"white frost","NY62B","551b","O","N"," ","hw∞±øºt$frè∑Ω∫st","MS"," ",173
+"freeze","NY62B","551b","N","N"," ","fri∫z","MS"," ",173
+"frost","NY62B","551b","N","N"," ","frè∑Ω∫st","MS"," ",173
+"black frost","NY62B","551b","O","N"," ","bÏé·k$frè∑Ω∫st","MS"," ",173
+"frost","NY62C","551c","N","N"," ","fr∑∫st","MS"," ",174
+"white frost","NY62C","551c","O","N"," ","Âw•´±øt$fr∑∫st","MS"," ",174
+"hard frost","NY62C","551c","O","N"," ","ıhµé∫¥d$Âfr∑∫st","MS"," ",174
+"light frost","NY62D!","551d!","O","N"," ","ıl•Ω±øt$Âfrè∂st","MS"," ",175
+"black frost","NY62D!","551d!","O","N"," ","ıbÏ·k$Âfr∂st","MS"," ",175
+"freeze","NY62D!","551d!","N","N","kills","frèi∫{j}z","MS"," ",175
+"heavy dew","NY62D!","551d!","O","Y"," ","ıh≤´v±´æ$Âdjuº","MS","INA",175
+"frosts","NY63A","556a","N","N","plural","Âfr∑Ω∫ss","MS","CNV",176
+"light frost","NY63A","556a","O","N"," ","Âl∞Ω±øt$ıfr∑Ω∫{∞}st","MS"," ",176
+"killing frost","NY63A","556a","O","N"," ","Âk±´l±øºÓ$ıfr∑Ωº∫st","MS"," ",176
+"white frost","NY63A","556a","O","Y"," ","hw•´±øt$fr∑Ω∫{∞}st","MS","HRD",176
+"black frost","NY63A","556a","O","N"," ","Âbl·k$fr∑Ω∫{∞}st","MS"," ",176
+"hard frost","NY63A","556a","O","N"," ","Âhµé¥d$fr∑Ω∫{∞}st","MS"," ",176
+"freeze","NY63A","556a","N","N"," ","frèiΩiz","MS"," ",176
+"white frost","NY63B","556b","O","N"," ","hw•´±øt$Âfr∂î∫{∞}st","MS"," ",177
+"frost","NY63B","556b","N","N"," ","fr∑Ω∫{∞}st","MS"," ",177
+"frost","NY63B","556b","N","N"," ","fr∂∫{∞}st","MS"," ",177
+"freeze","NY63B","556b","N","N","colder [than frost]","fr±iz","MS"," ",177
+"frost","NY63C","556c","N","N"," ","fr∂´{∞}st","MS"," ",178
+"black freeze","NY63C","556c","O","N"," ","ıbl·k$Âfriæiz","MS"," ",178
+"dew","NY63C","556c","N","Y"," ","d±øuº","MS","INA",178
+"hoarfrost","NY63D!","556d!","N","N"," ","Âhoøæ¥ıfr∑º∫st","MS"," ",179
+"hard frost","NY63D!","556d!","O","N"," ","Âhµ¥d$ıfr∑Ω∫st","MS"," ",179
+"freeze","NY63D!","556d!","N","N","heavier, colder [than frost]","frèiΩjz","MS"," ",179
+"freeze","NY63D!","556d!","N","N","heavier, colder [than frost]","frèi∫z","MS","CNV",179
+"freeze","NY63D!","556d!","N","Y"," ","frè±´z","MS","HRD",179
+"frost","NY64A","557a","N","N"," ","frè∑Ω∫st","MS"," ",180
+"white frost","NY64A","557a","O","N"," ","ÂhwaΩ±øt$ıfr∑Ω∫s","MS"," ",180
+"black frost","NY64A","557a","O","N","same as `freeze'","ÂbÏ·k$ıfr∑Ω∫s","MS"," ",180
+"freeze","NY64A","557a","N","N","same as `black frost'","fri∫{j}z","MS"," ",180
+"white frost","NY64B","557b","O","N"," ","Âhwa±øt$ıfrè∂∫{∞}s","MS"," ",181
+"freeze","NY64B","557b","N","N","colder [than white frost]","frèi∫{j}z","MS"," ",181
+"frost","NY64C!","557c!","N","N"," ","fr∑Ωst","MS"," ",182
+"hoarfrost","NY64C!","557c!","N","N"," ","h∑´º¥fr∑Ωst","MS"," ",182
+"killing frost","NY64C!","557c!","O","N"," ","Âkà±´l±øºÓ$ıfrè∂∫{∞}s","MS"," ",182
+"freeze","NY64C!","557c!","N","N"," ","fri∫{j}z","MS"," ",182
+"hoarfrost","NY64C!","557c!","N","N"," ","h∑´º¥frè∂∫{∞}st","MS"," ",182
+"frost","NJ1A","1","N","N"," ","fr∂´∫{∞}s","MS"," ",183
+"killing frost","NJ1A","1","O","N"," ","kà±{∞}Ï∞n$fr∂´∫{∞}s","MS"," ",183
+"frost","NJ1B","2","N","N"," ","fr∂´º∫{∞}st","MS"," ",184
+"killing frost","NJ1B","2","O","N"," ","k±Ï±øÓ$fr∂´º∫{∞}st","MS"," ",184
+"frost","NJ2A","3(*)","N","N"," ","fr∂´º∫{∞}st","MS"," ",185
+"killing frost","NJ2A","3(*)","O","N"," ","k±Ï∞n$fr∂´º∫{∞}st","MS"," ",185
+"frost","NJ2B","4","N","N"," ","fr∂´º∫{∞}st","MS"," ",186
+"freeze","NJ2B","4","N","N"," ","friΩiz","MS"," ",186
+"frost","NJ3A","5","N","N"," ","fr∂´º∫{∞}st","MS"," ",187
+"black frost","NJ3A","5","O","N"," ","bÏ·´k$fr∂´º∫{∞}st","MS"," ",187
+"frost","NJ3B","6","N","N"," ","fr∂´º∫{∞}st","MS"," ",188
+"black frost","NJ3B","6","O","N"," ","bl·k$fr∂´º∫{∞}st","MS"," ",188
+"frost","NJ4A","7","N","N"," ","fr∂´º∫st","MS"," ",189
+"killing frost","NJ4A","7","O","N"," ","k±Ï±øÓ$fr∂´º∫st","MS"," ",189
+"frost","NJ4B","8","N","N"," ","fr∂´º∫{∞}st","MS"," ",190
+"killing frost","NJ4B","8","O","N"," ","k±æÏ±øÓ$fr∂´º∫{∞}st","MS"," ",190
+"frost","NJ5A","9","N","N"," ","fr∂´∫{∞}st","MS"," ",191
+"killing frost","NJ5A","9","O","N"," ","k±Ï∞n$fr∂´∫{∞}st","MS"," ",191
+"frost","NJ5B","10","N","N"," ","fr∂´º∫{∞}st","MS"," ",192
+"black frost","NJ5B","10","O","N"," ","bÏ·k$fr∂´º∫{∞}st","MS"," ",192
+"frost","NJ6A","11","N","N"," ","fr∑Ω∫{∞}st","MS"," ",193
+"heavy frost","NJ6A","11","O","N"," ","h≤v±ø´º$fr∑Ω∫{∞}st","MS"," ",193
+"dew","NJ6A","11","N","Y"," ","dπ´ºuº","MS","INA",193
+"black frost","NJ6B","12","O","N"," ","bÏ·∫k$fr∂´∫{∞}st","MS"," ",194
+"frost","NJ6B","12","N","N"," ","fr∂´∫{∞}st","MS"," ",194
+"frost","NJ7A","17","N","N"," ","fr∂´∫{∞}st","MS"," ",195
+"black frost","NJ7A","17","O","N"," ","bÏ·´k$fr∂´∫{∞}st","MS"," ",195
+"frost","NJ7B!","18!","N","N"," ","fr∂´∫{∞}st","MS"," ",196
+"black frost","NJ7B!","18!","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",196
+"killing frost","NJ7B!","18!","O","N"," ","k±øÏ±øÓ$fr∂´∫{∞}st","MS"," ",196
+"dew","NJ7B!","18!","N","Y"," ","dπ´ºuº","MS","INA",196
+"black frost","NJ8A","19","O","N"," ","bl·∫k$fr∂´∫{∞}st","MS"," ",197
+"dew","NJ8A","19","N","Y"," ","dπ´ºuº","MS","INA",197
+"frost","NJ8B","20","N","N"," ","fr∑Ω∫{∞}st","MS"," ",198
+"black frost","NJ8B","20","O","N"," ","bÏ·k$fr∑Ω∫{∞}st","MS"," ",198
+"dew","NJ8B","20","N","Y"," ","duº∫","MS","INA",198
+"frost","NJ9A","21","N","N"," ","fr∂∫{∞}st","MS"," ",199
+"black frost","NJ9A","21","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",199
+"dew","NJ9A","21","N","Y"," ","dπø´uæ","MS","INA",199
+"frost","NJ9B","22","N","N"," ","fr∂∫{∞}st","MS"," ",200
+"black frost","NJ9B","22","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",200
+"dew","NJ9B","22","N","Y"," ","dπ´º{uº}","MS","INA",200
+"frost","NJ10A","24b","N","N"," ","fr∑´∫{∞}st","MS"," ",201
+"black frost","NJ10A","24b","O","N"," ","Âbl·k$ıfr∑´∫{∞}st","MS"," ",201
+"dew","NJ10A","24b","N","Y"," ","dπºu","MS","INA",201
+"frost","NJ10B","23","N","N"," ","fr∂´∫st","MS"," ",202
+"freeze","NJ10B","23","N","N"," ","fr±æiz","MS"," ",202
+"dew","NJ10B","23","N","Y"," ","duº∫","MS","INA",202
+"frost","NJ10C","24","N","N"," ","fr∂´∫{∞}st","MS"," ",203
+"freeze","NJ10C","24","N","N"," ","fr±´iz","MS"," ",203
+"dew","NJ10C","24","N","Y"," ","duøΩuøæ","MS","INA",203
+"frost","NJ10D!","24c!","N","N"," ","fr∂´∫{∞}st","MS"," ",204
+"killing frost","NJ10D!","24c!","O","N"," ","k{h}±Ï±øÓ$fr∂´∫{∞}st","MS"," ",204
+"dew","NJ10D!","24c!","N","Y"," ","duº∫","MS","INA",204
+"frost","NJ11A","25","N","N"," ","fr∂∫{∞}st","MS"," ",205
+"black frost","NJ11A","25","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",205
+"dew","NJ11A","25","N","Y"," ","duº∫","MS","INA",205
+"frost","NJ11B","26a","N","N"," ","fr∑Ω∫{∞}st","MS"," ",206
+"killing frost","NJ11B","26a","O","N"," ","k±Ï±øÓ$fr∑Ω∫{∞}st","MS"," ",206
+"dew","NJ11B","26a","N","Y"," ","dπ´uº","MS","INA",206
+"frost","NJ11C","26b","N","N"," ","fr∂∫{∞}st","MS"," ",207
+"heavy frost","NJ11C","26b","O","N"," ","h≤v±ø´$fr∂∫{∞}st","MS"," ",207
+"killing frost","NJ11C","26b","O","N"," ","k±l±øÓ$fr∂∫{∞}st","MS"," ",207
+"frost","NJ12A","27","N","N"," ","fr∑Ω∫st","MS"," ",208
+"black frost","NJ12A","27","O","N"," ","bÏ·k$fr∑Ω∫st","MS"," ",208
+"dew","NJ12A","27","N","Y"," ","dπ´ºuº","MS","INA",208
+"frost","NJ12B","28","N","N"," ","fr∂´∫{∞}st","MS"," ",209
+"freeze","NJ12B","28","N","N"," ","fr±›i›z","MS"," ",209
+"dew","NJ12B","28","N","Y"," ","dπ´ºuº","MS","INA",209
+"frost","NJ13A","29","N","N"," ","fr∂´∫{∞}st","MS"," ",210
+"frost","NJ13B","30","N","N"," ","fr∂´{∞}st","MS"," ",211
+"black frost","NJ13B","30","O","N"," ","bl·k$fr∂´{∞}st","MS"," ",211
+"dew","NJ13B","30","N","Y"," ","duº∫","MS","INA",211
+"frost","NJ14A","31","N","N"," ","fr∂î´º∫st","MS"," ",212
+"black frost","NJ14A","31","O","N"," ","bl·k$fr∂î´º∫st","MS"," ",212
+"dew","NJ14A","31","N","Y"," ","duº∫","MS","INA",212
+"frost","NJ14B","32","N","N"," ","fr∂´∫{∞}st","MS"," ",213
+"killing frost","NJ14B","32","O","N"," ","k±øÏ±øÓ$fr∂´∫{∞}st","MS"," ",213
+"dew","NJ14B","32","N","Y"," ","duøæ∫","MS","INA",213
+"frost","NJ15A","33","N","N"," ","fr∑Ω∫{∞}st","MS"," ",214
+"black frost","NJ15A","33","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",214
+"dew","NJ15A","33","N","Y"," ","dπ´uº","MS","INA",214
+"frost","NJ15B","34","N","N"," ","fr∂{∞}st","MS"," ",215
+"black frost","NJ15B","34","O","N"," ","bÏ·k$fr∂{∞}st","MS"," ",215
+"dew","NJ15B","34","N","Y"," ","dπ´æuº","MS","INA",215
+"frost","NJ16A","35","N","N"," ","fr∑Ω∫{∞}st","MS"," ",216
+"black frost","NJ16A","35","O","N"," ","bèl·k$fr∑Ω∫{∞}st","MS"," ",216
+"dew","NJ16A","35","N","Y"," ","dèπ´æuº","MS","INA",216
+"frost","NJ16B","36","N","N"," ","fr∑∫{∞}st","MS"," ",217
+"black frost","NJ16B","36","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",217
+"dew","NJ16B","36","N","Y"," ","dπ›´ºu›º","MS","INA",217
+"frost","NJ17A","37","N","N"," ","fr∂´∫{∞}st","MS"," ",218
+"black frost","NJ17A","37","O","N"," ","bÏ·´k$fr∂´∫{∞}st","MS"," ",218
+"dew","NJ17A","37","N","Y"," ","dπ›ºu›º","MS","INA",218
+"frost","NJ17B","38","N","N"," ","fr∑Ω:{∞}st","MS"," ",219
+"black frost","NJ17B","38","O","N"," ","bl·∫k$fr∑Ω:{∞}st","MS"," ",219
+"dew","NJ17B","38","N","Y"," ","dπuº","MS","INA",219
+"frost","NJ18A","41","N","N"," ","fr∑Ω∫st","MS"," ",220
+"killing frost","NJ18A","41","O","N"," ","k{h}±øÏ±øÓ$fr∑Ω∫st","MS"," ",220
+"dew","NJ18A","41","N","Y"," ","dπº{uº}","MS","INA",220
+"frost","NJ18B","42","N","N"," ","fr∑∫st","MS"," ",221
+"frost","NJ18B","42","N","N"," ","fr∑:{∞}st","MS"," ",221
+"dew","NJ18B","42","N","Y"," ","dπ›´π›º","MS","INA",221
+"frost","NJ18C!","43!","N","N"," ","fr∑:st","MS"," ",222
+"freeze","NJ18C!","43!","N","Y"," ","friΩiz","MS","HRD",222
+"dew","NJ18C!","43!","N","Y"," ","duΩº{uº}","MS","INA",222
+"frost","NJ18D!","44!","N","N"," ","fr∂´∫{∞}st","MS"," ",223
+"killing frost","NJ18D!","44!","O","N"," ","k{h}±Ï±øÓ$fr∂´∫{∞}st","MS"," ",223
+"dew","NJ18D!","44!","N","Y"," ","duº∫","MS","INA",223
+"frost","NJ19A","45","N","N"," ","fr∑∫{∞}st","MS"," ",224
+"dew","NJ19A","45","N","Y"," ","dπ´u","MS","INA",224
+"frost","NJ19B!","46!","N","N"," ","fr∑Ω∫st","MS"," ",225
+"dew","NJ19B!","46!","N","Y"," ","du∫","MS","INA",225
+"frost","NJ20A","47","N","N"," ","fr∂´∫{∞}st","MS"," ",226
+"frost","NJ20A","47","N","N"," ","fr∑Ωst","MS"," ",226
+"dew","NJ20A","47","N","Y"," ","duΩæ{uº}","MS","INA",226
+"frost","NJ20B","47b","N","N"," ","fr∑´∫{∞}st","MS"," ",227
+"heavy frost","NJ20B","47b","O","N"," ","h≤v±ø´$fr∑´∫{∞}st","MS"," ",227
+"dew","NJ20B","47b","N","Y"," ","du∫","MS","INA",227
+"frost","NJ21A","48","N","N"," ","fr∑´∫{∞}st","MS"," ",228
+"black frost","NJ21A","48","O","N"," ","bl·k$fr∑´∫{∞}st","MS"," ",228
+"dew","NJ21A","48","N","Y"," ","duº∫","MS","INA",228
+"frost","NJ21B","49","N","N"," ","fr∑´º∫{∞}st","MS"," ",229
+"heavy frost","NJ21B","49","O","N"," ","h≤viΩæ$fr∑´º∫{∞}st","MS"," ",229
+"black frost","NJ21B","49","O","N"," ","bÏ·k$fr∑´º∫{∞}st","MS"," ",229
+"dew","NJ21B","49","N","Y"," ","dèuº∫","MS","INA",229
+"frost","PA1A","51","N","N"," ","fr∑Ω∫{∞}st","MS"," ",230
+"frost","PA1B","52","N","N"," ","fr∑ó∫{∞}st","MS"," ",231
+"frost","PA1C","53","N","N"," ","fr∂´∫{∞}st","MS"," ",232
+"hoarfrost","PA1D","54","N","N"," ","Âh∑¥ıfr∑∫{∞}st","MS"," ",233
+"frost","PA1D","54","N","N","""black¢","fr∑∫{∞}st","MS"," ",233
+"frost","PA1E!","55!","N","N"," ","fr∑st","MS"," ",234
+"hard frost","PA1E!","55!","O","N"," ","hµóæ¥d$fr∑st","MS"," ",234
+"black frost","PA1E!","55!","O","N"," ","bl·k$fr∑st","MS"," ",234
+"frost","PA1F!","56!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",235
+"hard frost","PA1F!","56!","O","N"," ","hµóºrd$fr∑Ω∫{∞}st","MS"," ",235
+"black frost","PA1F!","56!","O","Y"," ","bl·∫k$fr∑Ω∫{∞}st","MS","SUG",235
+"frost","PA1G!","57!","N","N"," ","fr∑Ωst","MS"," ",236
+"black frost","PA1G!","57!","O","N"," ","bl·k$fr∑Ωst","MS"," ",236
+"frost","PA1H!","58!","N","N"," ","fr∑∫{∞}st","MS"," ",237
+"killing frost","PA1H!","58!","O","N"," ","k±l±øÓ$fr∑∫{∞}st","MS"," ",237
+"frost","PA2A","59","N","N"," ","fr∑∫{∞}st","MS"," ",238
+"black frost","PA2A","59","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",238
+"frost","PA2B","60","N","N"," ","fr∑∫{∞}st","MS"," ",239
+"black frost","PA2B","60","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",239
+"frost","PA3A","61","N","N"," ","fr∑∫{∞}st","MS"," ",240
+"heavy frost","PA3A","61","O","N"," ","h≤´v±ø´$fr∑∫{∞}st","MS"," ",240
+"frost","PA3B","62","N","N"," ","fr∑∫{∞}st","MS"," ",241
+"black frost","PA3B","62","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",241
+"frost","PA3C","62b","N","N"," ","fr∑∫{∞}st","MS"," ",242
+"black frost","PA3C","62b","O","N"," ","bl·k$fr∑∫st","MS"," ",242
+"frost","PA4A","63","N","N"," ","fr∑Ω∫st","MS"," ",243
+"black frost","PA4A","63","O","N"," ","bÏ·k$fr∑Ω∫st","MS"," ",243
+"frost","PA4B!","64!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",244
+"black frost","PA4B!","64!","O","N"," ","bÏ·k$fr∑Ω∫{∞}st","MS"," ",244
+"frost","PA5A","65(*)","N","N"," ","fr∑∫{∞}st","MS"," ",245
+"black frost","PA5A","65(*)","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",245
+"frost","PA5A","65(*)","N","Y"," ","fr∑∫st","MS","AUX",245
+"bad frost","PA5A","65(*)","O","Y"," ","b·d$fr∑∫st","MS","AUX",245
+"frost","PA5B","65b","N","N"," ","fr∂´∫{∞}st","MS"," ",246
+"heavy frost","PA5B","65b","O","N"," ","h≤v±ø´$fr∂´∫{∞}st","MS"," ",246
+"frost","PA5C","66","N","N"," ","fr∑Ω∫{∞}st","MS"," ",247
+"black frost","PA5C","66","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",247
+"frost","PA5D","67","N","N"," ","fr∂´∫{∞}st","MS"," ",248
+"freeze","PA5D","67","N","N"," ","fr±iΩz","MS"," ",248
+"frost","PA5E!","68!","N","N"," ","fr∂´∫{∞}st","MS"," ",249
+"black frost","PA5E!","68!","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",249
+"ein Reif","PA6A","69","O","Y"," ","∞n$Âra±øf∞","MS","INA",250
+"frost","PA6A","69","N","N"," ","fr∑∫{∞}st","MS"," ",250
+"hard frost","PA6A","69","O","N"," ","hµ{rü’}dè$fr∑∫st","MS"," ",250
+"frost","PA6B","71","N","N"," ","fr∑∫st","MS"," ",251
+"heavy frost","PA6B","71","O","N"," ","h≤v±ø$fr∑∫st","MS"," ",251
+"frost","PA6C","71b","N","N"," ","fr∑∫st","MS"," ",252
+"heavy frost","PA6C","71b","O","N"," ","h≤ˆiΩæ$fr∑∫st","MS"," ",252
+"hoarfrost","PA6D!","72!","N","N"," ","h∑´∞éfr∑Ω∫{∞}st","MS"," ",253
+"hard frost","PA6D!","72!","O","N"," ","hµ¥d$fr∑Ω{∞}st","MS"," ",253
+"frost","PA7A","73","N","N"," ","fr∑Ω∫{∞}st","MS"," ",254
+"black frost","PA7A","73","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",254
+"frost","PA7B","74","N","N"," ","fr∂´∫{∞}st","MS"," ",255
+"black frost","PA7B","74","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",255
+"frost","PA7C","75","N","N"," ","fr∑∫st","MS"," ",256
+"heavy frost","PA7C","75","O","N"," ","h≤ˆ±ø$fr∑∫st","MS"," ",256
+"frost","PA7D!","76!","N","N"," ","fr∑∫{∞}st","MS"," ",257
+"hard frost","PA7D!","76!","O","N"," ","hµæ¥d$fr∑∫st","MS"," ",257
+"frost","PA8A","77","N","N"," ","fr∑∫{∞}st","MS"," ",258
+"black frost","PA8A","77","O","N"," ","bÏ·k$fr∑∫{∞}st","MS"," ",258
+"frost","PA8B","78","N","N"," ","fr∂´∫{∞}st","MS"," ",259
+"black frost","PA8B","78","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",259
+"frost","PA8C","79","N","N"," ","fr∑∫st","MS"," ",260
+"heavy frost","PA8C","79","O","N"," ","h≤ˆ±ø´$fr∑∫st","MS"," ",260
+"black frost","PA8C","79","O","N"," ","pîl·›k$fr∑∫st","MS"," ",260
+"frost","PA8D!","80!","N","N"," ","fr∑´∫st","MS"," ",261
+"Reif","PA9A","83","N","Y","light [German]","ra±øf∞","MS","INA",262
+"Frost","PA9A","83","N","Y","heavy","frπÛt","MS","INA",262
+"frost","PA9A","83","N","N"," ","fr∑∫st","MS"," ",262
+"frost","PA9B","83b","N","N"," ","fr∑´∫st","MS"," ",263
+"heavy frost","PA9B","83b","O","N"," ","h≤v±ø´º$fr∑´∫st","MS"," ",263
+"frost","PA9C!","84!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",264
+"heavy frost","PA9C!","84!","O","N"," ","h≤v±ø´$fr∑Ω∫{∞}st","MS"," ",264
+"frost","PA10","87","N","N"," ","fr∑∫st","MS"," ",265
+"frost","PA11A","89","N","N"," ","fr∂´:{∞}st","MS"," ",266
+"heavy frost","PA11A","89","O","N"," ","h≤v±ø´º$fr∂´:{∞}st","MS"," ",266
+"dry frost","PA11B","90(*)","O","N","turns to fog quickly","dra±ø$fr∂{∞}st","MS"," ",267
+"frost","PA11B","90(*)","N","Y"," ","fr∑Ω∫{∞}st","MS","AUX",267
+"killing frost","PA11B","90(*)","O","Y"," ","kà±Ï±øÓ$fr∑Ω∫{∞}st","MS","AUX",267
+"wet frost","PA11B","90(*)","O","N","heavier [than dry frost]","w≤t$fr∂{∞}st","MS"," ",267
+"frost","PA12A","91","N","N"," ","fr∂´∫st","MS"," ",268
+"killing frost","PA12A","91","O","N"," ","k±Ï∞n$fr∂´∫st","MS"," ",268
+"frost","PA12B","92","N","N"," ","fr∑Ω∫{∞}st","MS"," ",269
+"hard frost","PA12B","92","O","N"," ","haæ¥d$fr∑Ω∫{∞}st","MS"," ",269
+"frost","PA13A","93","N","N"," ","fr∂´∫st","MS"," ",270
+"heavy frost","PA13A","93","O","N"," ","h≤v±ø´$fr∂´∫st","MS"," ",270
+"frost","PA13B","94","N","N"," ","fr∂´∫{∞}st","MS"," ",271
+"black frost","PA13B","94","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",271
+"frost","PA14A","95(*)","N","N"," ","fr∑Ω∫st","MS"," ",272
+"heavy frost","PA14A","95(*)","O","N"," ","h≤ˆ±ø$fr∑Ω∫st","MS"," ",272
+"frost","PA14B","96","N","N"," ","fr∑Ω:st","MS"," ",273
+"heavy frost","PA14B","96","O","N"," ","h≤v±ø$fr∑Ω:st","MS"," ",273
+"frost","PA14C"," ","N","N"," ","fr∑Ω∫st","MS"," ",274
+"Jack Frost","PA14C"," ","O","N"," ","d˙·k$fr∑∫st","MS"," ",274
+"frost","PA15A","99","N","N"," ","fr∑Ω∫{∞}st","MS"," ",275
+"freeze","PA15A","99","N","N"," ","fr±iz","MS"," ",275
+"frost","PA15B","99b","N","N"," ","fr∑Ω∫{∞}st","MS"," ",276
+"freeze","PA15B","99b","N","N"," ","friΩiz","MS"," ",276
+"frost","PA15C!","100!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",277
+"killing frost","PA15C!","100!","O","N"," ","k±l±øÓ$fr∑Ω∫{∞}st","MS"," ",277
+"frost","PA16A","101","N","N"," ","fÒé›∑Ω∫st","MS"," ",278
+"killing frost","PA16A","101","O","N"," ","k±l±Ó$fÒé›∑Ω∫st","MS"," ",278
+"frost","PA16B","102","N","N"," ","fr∑∫{∞}st","MS"," ",279
+"heavy frost","PA16B","102","O","N"," ","h≤v±ø´$fr∑∫{∞}st","MS"," ",279
+"frost","PA16C","103","N","N"," ","fr∑Ω∫{∞}st","MS"," ",280
+"black frost","PA16C","103","O","N"," ","bÏ·k$fr∑Ω∫{∞}st","MS"," ",280
+"Reif","PA17A","105","N","Y","[German]","ra±øf∞","MS","INA",281
+"frost","PA17A","105","N","N"," ","fr∑Ω∫st","MS"," ",281
+"frost","PA17B","106","N","N"," ","fr∑Ωst","MS"," ",282
+"white frost","PA18A","107","O","N"," ","hwa´æ±øt$fr∑∫{∞}st","MS"," ",283
+"frost","PA18A","107","N","N"," ","fr∑∫{∞}st","MS"," ",283
+"frost","PA18B!","108!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",284
+"frost","PA19A","113","N","N"," ","fr∑Ω∫st","MS"," ",285
+"black frost","PA19A","113","O","N"," ","bÏ·æk$fr∑Ω∫st","MS"," ",285
+"frost","PA19B","114","N","N"," ","fr∑Ω∫{∞}st","MS"," ",286
+"heavy frost","PA19B","114","O","N"," ","h≤´æv±ø´$fr∑Ω∫{∞}st","MS"," ",286
+"frost","PA20A","115","N","N"," ","fr∑Ω∫{∞}st","MS"," ",287
+"black frost","PA20A","115","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",287
+"frost","PA20B","116","N","N"," ","fr∂´º∫{∞}st","MS"," ",288
+"black frost","PA20B","116","O","N"," ","bl·k$fr∂´º∫{∞}st","MS"," ",288
+"frost","PA21A","117","N","N"," ","fr∂´∫{∞}st","MS"," ",289
+"black frost","PA21A","117","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",289
+"frost","PA21B","118","N","N"," ","fr∂´∫{∞}st","MS"," ",290
+"killing frost","PA21B","118","O","N"," ","k±Ï±øÓ$fr∂´∫st","MS"," ",290
+"frost","PA22A","119","N","N"," ","fr∂´∫{∞}st","MS"," ",291
+"freeze","PA22A","119","N","N"," ","fri∫z","MS"," ",291
+"frost","PA22B","120","N","N"," ","fr∂´º{∞}st","MS"," ",292
+"black frost","PA22B","120","O","N","colder [than frost]","bl·k$fr∂´º{∞}st","MS"," ",292
+"frost","PA23A","121","N","N"," ","fr∂´∫{∞}st","MS"," ",293
+"black frost","PA23A","121","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",293
+"frost","PA23B","122","N","N"," ","fr∂´º{∞}st","MS"," ",294
+"freeze","PA23B","122","N","N"," ","friΩ{i}z","MS"," ",294
+"frost","PA24A","123","N","N"," ","fr∂´º∫{∞}st","MS"," ",295
+"killing frost","PA24A","123","O","N"," ","k±Ωl±øÓ$fr∂´º∫{∞}st","MS"," ",295
+"frost","PA24B","124","N","N"," ","fr∂´º∫{∞}st","MS"," ",296
+"black frost","PA24B","124","O","N"," ","bÏ·k$fr∂´º∫{∞}st","MS"," ",296
+"frost","PA25A","125","N","N"," ","fr∂´º∫st","MS"," ",297
+"black frost","PA25A","125","O","N"," ","bÏ·k$fr∂´º∫st","MS"," ",297
+"frost","PA25B","126","N","N"," ","fr∂´º∫{∞}st","MS"," ",298
+"hard frost","PA25B","126","O","N"," ","hµ¥d$fr∂´º∫{∞}st","MS"," ",298
+"frost","PA26A","127","N","N"," ","fr∂´∫{∞}st","MS"," ",299
+"black frost","PA26A","127","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",299
+"frost","PA26B","128","N","N"," ","fr∂´∫{∞}st","MS"," ",300
+"black frost","PA26B","128","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",300
+"frost","PA27A","131","N","N"," ","fr∑Ωst","MS"," ",301
+"freeze","PA27A","131","N","N"," ","friΩ{i}{∞›}z","MS"," ",301
+"frost","PA27B","132","N","N"," ","fr∂´∫{∞}st","MS"," ",302
+"freeze","PA27B","132","N","N"," ","friΩæiz","MS"," ",302
+"frost","PA28A","135","N","N"," ","fr∂´:{∞}st","MS"," ",303
+"black frost","PA28A","135","O","N"," ","bÏ·æk$fr∂´:{∞}st","MS"," ",303
+"frost","PA28B!","136!","N","N"," ","fr∂´∫{∞}st","MS"," ",304
+"heavy frost","PA28B!","136!","O","N"," ","h≤v±ø´$fr∂´∫{∞}st","MS"," ",304
+"frost","PA29A","139(*)","N","N"," ","fr∂´{∞}st","MS"," ",305
+"frost","PA29A","139(*)","N","Y"," ","fr∂´∫{∞}st","MS","AUX",305
+"hard frost","PA29A","139(*)","O","N"," ","hµ¥d$fr∂´{∞}st","MS"," ",305
+"heavy frost","PA29A","139(*)","O","Y"," ","h≤v±ø$fr∂´∫{∞}st","MS","AUX",305
+"frost","PA29B","140","N","N"," ","fr∂´:st","MS"," ",306
+"black frost","PA29B","140","O","N"," ","bÏ·æk$fr∂´:st","MS"," ",306
+"freeze","PA29B","140","N","N"," ","friΩ{i}z","MS"," ",306
+"frost","PA30A","143","N","N"," ","fr∂´º{∞}st","MS"," ",307
+"black frost","PA30A","143","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",307
+"frost","PA30B","144","N","N"," ","fr∂´∫{∞}st","MS"," ",308
+"black frost","PA30B","144","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",308
+"frost","PA31A","145","N","N"," ","fr∂´∫{∞}st","MS"," ",309
+"black frost","PA31A","145","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",309
+"frost","PA31B","146","N","N"," ","fr∂∫{∞}st","MS"," ",310
+"black frost","PA31B","146","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",310
+"frost","PA32A","147","N","N"," ","fÒé›∑∫{∞}st","MS"," ",311
+"black frost","PA32A","147","O","N"," ","bÏ·æk$fÒé›∑∫{∞}st","MS"," ",311
+"frost","PA32B","148","N","N"," ","fr∂´∫{∞}st","MS"," ",312
+"freeze","PA32B","148","N","N"," ","friΩ∫z","MS"," ",312
+"frost","PA33A","151","N","N"," ","fr∑Ω∫{∞}st","MS"," ",313
+"freeze","PA33A","151","N","N"," ","friΩæiz","MS"," ",313
+"frost","PA33B","152","N","N"," ","fr∂∫st","MS"," ",314
+"freeze","PA33B","152","N","N"," ","friΩiz","MS"," ",314
+"frost","PA34A","155","N","N"," ","fr∂´∫{∞}st","MS"," ",315
+"black frost","PA34A","155","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",315
+"frost","PA34B","156","N","N"," ","fr∂´{∞}st","MS"," ",316
+"freeze","PA34B","156","N","N"," ","friΩiz","MS"," ",316
+"frost","PA34C!","155b!","N","N"," ","fr∂´st","MS"," ",317
+"killing frost","PA34C!","155b!","O","N"," ","k±ΩÏ±øÓ$fr∂´st","MS"," ",317
+"frost","PA35A","157","N","N"," ","fr∂´∫{∞}st","MS"," ",318
+"freeze","PA35A","157","N","N"," ","friΩæiz","MS"," ",318
+"frost","PA35B","158(*)","N","N"," ","fr∂´∫{∞}st","MS"," ",319
+"killing frost","PA35B","158(*)","O","N"," ","k±Ï±øÓ$fr∂´∫{∞}st","MS"," ",319
+"freeze","PA35B","158(*)","N","N"," ","friΩæiz","MS"," ",319
+"frost","PA35C"," ","N","N"," ","fr∑Ω:{∞}st","MS"," ",320
+"black frost","PA35C"," ","O","N"," ","bÏ·k$fr∑Ω:{∞}st","MS"," ",320
+"frost","PA36A","159","N","N"," ","fr∂î∫{∞}st","MS"," ",321
+"black frost","PA36A","159","O","N"," ","bÏ·k$fr∂î∫{∞}st","MS"," ",321
+"frost","PA36B","160","N","N"," ","fÒé›∂´ºst","MS"," ",322
+"heavy frost","PA36B","160","O","N"," ","h≤v±ø$fÒé›∂´ºst","MS"," ",322
+"frost","PA37A","161(*)","N","N"," ","fr∂´∫st","MS"," ",323
+"awful frost","PA37A","161(*)","O","N"," ","∂´∫fπl$fr∂´∫st","MS"," ",323
+"frost","PA37B","162","N","N"," ","fr∂{∞}st","MS"," ",324
+"killing frost","PA37B","162","O","N"," ","k±lç±Ó$fr∂{∞}st","MS"," ",324
+"frost","PA37C"," ","N","N"," ","fr∂´∫{∞}st","MS"," ",325
+"frost","PA38A","163","N","N"," ","fr∂´∫st","MS"," ",326
+"freeze","PA38A","163","N","N"," ","friΩæiz","MS"," ",326
+"frost","PA38B","164","N","N"," ","fr∂∫{∞}st","MS"," ",327
+"black frost","PA38B","164","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",327
+"frost","PA39A","165","N","N"," ","fr∂{∞}st","MS"," ",328
+"dark frost","PA39A","165","O","N"," ","dµrk$fr∂{∞}st","MS"," ",328
+"freeze","PA39A","165","N","N"," ","friz","MS"," ",328
+"frost","PA39B","166","N","N"," ","fr∑Ω∫{∞}st","MS"," ",329
+"freeze","PA39B","166","N","N"," ","friΩæiz","MS"," ",329
+"frost","PA40A","167","N","N"," ","fr∂´{∞}st","MS"," ",330
+"black frost","PA40A","167","O","N"," ","bl·k$fr∂´{∞}st","MS"," ",330
+"frost","PA40B","168","N","N"," ","fr∂´∫{∞}st","MS"," ",331
+"killing frost","PA40B","168","O","N"," ","k±Ï±øÓ$fr∂´∫{∞}st","MS"," ",331
+"frost","PA41A","171","N","N"," ","fr∑Ω∫{∞}st","MS"," ",332
+"water frost","PA41A","171","O","N","colder [than frost]","Âwµ´æÒ¥$ıfr∑Ω∫{∞}st","MS"," ",332
+"frost","PA41B","172","N","N"," ","fr∂´∫{∞}st","MS"," ",333
+"black frost","PA41B","172","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",333
+"frost","PA42A","175","N","N"," ","fr∂´∫{∞}st","MS"," ",334
+"black frost","PA42A","175","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",334
+"frost","PA42B","176","N","N"," ","fr∂´∫{∞}st","MS"," ",335
+"freeze","PA42B","176","N","N"," ","friæiz","MS"," ",335
+"frost","PA43A","177","N","N"," ","fr∑Ω∫{∞}st","MS"," ",336
+"freeze","PA43A","177","N","N"," ","friΩiz","MS"," ",336
+"frost","PA43B","178","N","N"," ","fr∑∫{∞}st","MS"," ",337
+"freeze","PA43B","178","N","N"," ","friΩizè","MS"," ",337
+"frost","PA44A","179","N","N"," ","fr∂st","MS"," ",338
+"freeze","PA44A","179","N","N"," ","friΩiz","MS"," ",338
+"frost","PA44B","180","N","N"," ","fr∂´{∞}st","MS"," ",339
+"freeze","PA44B","180","N","N"," ","friΩiz","MS"," ",339
+"frost","PA45A","181","N","N"," ","fr∑Ω∫{∞}st","MS"," ",340
+"freeze","PA45A","181","N","N"," ","fri›æi›z","MS"," ",340
+"frost","PA45B","182","N","N"," ","fr∑∫{∞}st","MS"," ",341
+"black frost","PA45B","182","O","N"," ","bèl·k$fr∑∫st","MS"," ",341
+"frost","PA46A","185","N","N"," ","fr∑∫st","MS"," ",342
+"big frost","PA46A","185","O","N"," ","b±g$fr∑∫st","MS"," ",342
+"killing frost","PA46A","185","O","Y"," ","kà±Ï±øn$fr∑∫st","MS","SUG",342
+"black frost","PA46A","185","O","Y"," ","bl·k$fr∑∫st","MS","SUG",342
+"frost","PA46B","186","N","N"," ","fr∂´∫{∞}st","MS"," ",343
+"black frost","PA46B","186","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",343
+"killing frost","PA46B","186","O","N"," ","k±Ï±øÓ$fr∂´∫{∞}st","MS"," ",343
+"frost","PA47A","189","N","N"," ","fr∑Ω∫st","MS"," ",344
+"black frost","PA47A","189","O","N"," ","bl·k$fr∑Ω∫st","MS"," ",344
+"frost","PA47B","190","N","N"," ","fr∑∫st","MS"," ",345
+"black frost","PA47B","190","O","N"," ","bl·k$fr∑∫st","MS"," ",345
+"frost","PA48A","191","N","N"," ","fr∂´∫{∞}st","MS"," ",346
+"black frost","PA48A","191","O","N"," ","bÏ·k$fr∂´∫{∞}st","MS"," ",346
+"frost","PA48B","192","N","N"," ","fr∑Ω∫st","MS"," ",347
+"freeze","PA48B","192","N","N"," ","fr±æiz","MS"," ",347
+"frost","PA48C","193","N","N"," ","fr∂{∞}st","MS"," ",348
+"freeze","PA48C","193","N","N"," ","fr±´iz","MS"," ",348
+"frost","PA49A","194","N","N"," ","fr∂´∫{∞}st","MS"," ",349
+"black frost","PA49A","194","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",349
+"frost","PA49B","195","N","N"," ","fr∑Ω∫{∞}st","MS"," ",350
+"freeze","PA49B","195","N","N"," ","friΩæiz","MS"," ",350
+"frost","PA50A","196","N","N"," ","fr∑Ω∫{∞}st","MS"," ",351
+"black frost","PA50A","196","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",351
+"frost","PA50B","197","N","N"," ","fr∑Ω∫{∞}st","MS"," ",352
+"freeze","PA50B","197","N","N"," ","friæiz","MS"," ",352
+"frost","PA50C!","198!","N","N"," ","fr∂∫{∞}st","MS"," ",353
+"freeze","PA50C!","198!","N","N"," ","fr±æiz","MS"," ",353
+"frost","PA51A","199","N","N"," ","fr∂î{∞}st","MS"," ",354
+"frost","PA51B","200","N","N"," ","fr∂{∞}st","MS"," ",355
+"white frost","PA52A","201","O","N"," ","ıhw•›æ±øt$Âfr∂´∫{∞}st","MS"," ",356
+"freeze","PA52A","201","N","N"," ","fr±æiz","MS"," ",356
+"frost","PA52B!","202!","N","N"," ","fr∂{∞}st","MS"," ",357
+"black frost","PA52B!","202!","O","N"," ","bÏ·k$fr∂{∞}st","MS"," ",357
+"frost","PA53A","203","N","N"," ","fr∂∫{∞}st","MS"," ",358
+"black frost","PA53A","203","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",358
+"freeze","PA53A","203","N","N"," ","fr±æiz","MS"," ",358
+"frost","PA53B","204","N","N"," ","fr∂{∞}st","MS"," ",359
+"freeze","PA53B","204","N","N"," ","fr±´jz","MS"," ",359
+"frost","PA54A","205","N","N"," ","fr∂∫{∞}st","MS"," ",360
+"freeze","PA54A","205","N","N"," ","fr±æiz","MS"," ",360
+"frost","PA54B","206","N","N"," ","fr∂´∫{∞}st","MS"," ",361
+"black frost","PA54B","206","O","N"," ","bÏ·æk$fr∂´∫{∞}st","MS"," ",361
+"frost","PA55A","207","N","N"," ","fr∂∫{∞}st","MS"," ",362
+"black frost","PA55A","207","O","N"," ","bÏ·æ∫k$fr∂∫{∞}st","MS"," ",362
+"freeze","PA55A","207","N","N"," ","fr±iz","MS"," ",362
+"frost","PA55B","208","N","N"," ","fr∂º{∞}st","MS"," ",363
+"killing frost","PA55B","208","O","N"," ","k±Ï±øÓ$fr∂º{∞}st","MS"," ",363
+"frost","PA56A","211(*)","N","N"," ","fr∂´∫st","MS"," ",364
+"freeze","PA56A","211(*)","N","N"," ","friæiz","MS"," ",364
+"frost","PA56A","211(*)","N","Y"," ","fr∂´∫{∞}st","MS","AUX",364
+"black frost","PA56A","211(*)","O","Y"," ","bÏ·k$fr∂´∫{∞}st","MS","AUX",364
+"frost","PA56B","212","N","N"," ","fr∂´∫{∞}st","MS"," ",365
+"freeze","PA56B","212","N","N"," ","fr±iz","MS"," ",365
+"frost","PA57A","213","N","N"," ","fr∂{∞}st","MS"," ",366
+"freeze","PA57A","213","N","N"," ","friæiz","MS"," ",366
+"frost","PA57B","214","N","N"," ","fr∂´∫{∞}st","MS"," ",367
+"freeze","PA57B","214","N","N"," ","fri∫z","MS"," ",367
+"frost","PA58A","215","N","N"," ","fr∂´∫{∞}st","MS"," ",368
+"black frost","PA58A","215","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",368
+"frost","PA58B","216","N","N"," ","fr∂´{∞}st","MS"," ",369
+"freeze","PA58B","216","N","N"," ","fr±æiz","MS"," ",369
+"frost","PA59A","219","N","N"," ","fr∂´{∞}st","MS"," ",370
+"black frost","PA59A","219","O","N"," ","bl·∫k$fr∂´{∞}st","MS"," ",370
+"frost","PA59B","220","N","N"," ","fr∂´∫{∞}st","MS"," ",371
+"black frost","PA59B","220","O","N"," ","ıbÏ·k$Âfr∂´∫{∞}st","MS"," ",371
+"frost","PA60A","221","N","N"," ","fr∂´{∞}st","MS"," ",372
+"freeze","PA60A","221","N","N"," ","friΩæiz","MS"," ",372
+"frost","PA60B","222","N","N"," ","fr∂{∞}st","MS"," ",373
+"freeze","PA60B","222","N","N"," ","friΩæiz","MS"," ",373
+"frost","PA61A","223","N","N"," ","fr∂´{∞}st","MS"," ",374
+"freeze","PA61A","223","N","N"," ","friΩæiz","MS"," ",374
+"frost","PA61B","224","N","N"," ","fr∂{∞}st","MS"," ",375
+"killing frost","PA61B","224","O","N"," ","k±ΩæÏ±øÓ$fr∂{∞}st","MS"," ",375
+"freeze","PA61B","224","N","N"," ","friΩæiz","MS"," ",375
+"frost","PA62A","229","N","N"," ","fr∂st","MS"," ",376
+"freeze","PA62A","229","N","N"," ","friΩæiz","MS"," ",376
+"frost","PA62B","230","N","N"," ","fr∂{∞}st","MS"," ",377
+"black frost","PA62B","230","O","N"," ","bl·k$fr∂{∞}st","MS"," ",377
+"frost","PA63A","231","N","N"," ","fr∂{∞}st","MS"," ",378
+"heavy frost","PA63A","231","O","N"," ","h≤v±ø´$fr∂{∞}st","MS"," ",378
+"frost","PA63B","232","N","N"," ","fr∂´∫{∞}st","MS"," ",379
+"freeze","PA63B","232","N","N"," ","friΩæiz","MS"," ",379
+"frost","PA64A","233","N","N"," ","fr∂´{∞}st","MS"," ",380
+"freeze","PA64A","233","N","N"," ","fri∫z","MS"," ",380
+"frost","PA64B","234","N","N"," ","fr∂îº{∞}st","MS"," ",381
+"black freeze","PA64B","234","O","N"," ","bl·k$friæiz","MS"," ",381
+"frost","PA65A","237","N","N"," ","fr∂´∫{∞}st","MS"," ",382
+"freeze","PA65A","237","N","N"," ","fr±iΩz","MS"," ",382
+"frost","PA65B","238","N","N"," ","fr∂{∞}st","MS"," ",383
+"freeze","PA65B","238","N","N"," ","fr±iz","MS"," ",383
+"frost","PA66A","239","N","N"," ","fr∂∫{∞}st","MS"," ",384
+"freeze","PA66A","239","N","N"," ","fr±æiz","MS"," ",384
+"frost","PA66B","240","N","N"," ","fr∂{∞}st","MS"," ",385
+"killing frost","PA66B","240","O","N"," ","k±{∞}Ï±øΩn$fr∂{∞}st","MS"," ",385
+"frost","PA67A","243","N","N"," ","fr∂∫{∞}st","MS"," ",386
+"black frost","PA67A","243","O","N"," ","bl·k$fr∂∫{∞}st","MS"," ",386
+"freeze","PA67A","243","N","N"," ","friΩiz","MS"," ",386
+"frost","PA67B","244","N","N"," ","fr∂{∞}st","MS"," ",387
+"killing frost","PA67B","244","O","N"," ","k±Ï±øÓ$fr∂{∞}st","MS"," ",387
+"frost","WV1!","88!","N","N"," ","fr∑Ω∑´st","MS"," ",388
+"black frost","WV1!","88!","O","N"," ","bl·k$fr∑Ω∑´st","MS"," ",388
+"frost","WV2","89","N","N"," ","fr∂´∫st","MS"," ",389
+"black frost","WV2","89","O","N"," ","bl·k$fr∂´∫st","MS"," ",389
+"frost","WV3","91","N","N"," ","fr∑Ω∫{∞}st","MS"," ",390
+"freeze","WV3","91","N","N"," ","friΩ∫iz","MS"," ",390
+"frost","WV4A","92","N","N"," ","fr∑∫st","MS"," ",391
+"freeze","WV4A","92","N","N"," ","friΩiz","MS"," ",391
+"frost","WV4B","93","N","N"," ","fr∑∫{∞}s{t}","MS"," ",392
+"black frost","WV4B","93","O","N","heavier [than frost]","bl·k$fr∑∫{∞}s{t}","MS"," ",392
+"keen","WV4B","93","A","Y"," ","k±´jn","MS","INA",392
+"frost","WV5","94","N","N"," ","fr∑Ω∫{∞}st","MS"," ",393
+"freeze","WV5","94","N","N"," ","friΩi{∞}z","MS"," ",393
+"frost","WV6A","95","N","N"," ","fr∑∫{∞}st","MS"," ",394
+"freeze","WV6A","95","N","N"," ","friΩiz","MS"," ",394
+"frost","WV6B","96","N","N"," ","fr∑Ω∫{∞}st","MS"," ",395
+"freeze","WV6B","96","N","N"," ","friΩiz","MS"," ",395
+"frost","WV7A","97","N","N"," ","fr∑∫{∞}st","MS"," ",396
+"black frost","WV7A","97","O","N"," ","bl·k$fr∑∑´st","MS"," ",396
+"frost","WV7B","98","N","N"," ","fr∑Ω∫{∞}st","MS"," ",397
+"frost","WV8A","97b","N","N"," ","fr∑∫{∞}st","MS"," ",398
+"black frost","WV8A","97b","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",398
+"freeze","WV8A","97b","N","N"," ","friæiz","MS"," ",398
+"dew","WV8A","97b","N","Y"," ","djuøæ","MS","INA",398
+"frost","WV8B","98b","N","N"," ","fr∑Ω∫st","MS"," ",399
+"black frost","WV8B","98b","O","N"," ","bl·k$fr∑Ω∫st","MS"," ",399
+"dew","WV8B","98b","N","Y"," ","djuøæ∫","MS","INA",399
+"frost","WV9A","301","N","N"," ","fr∂´∫∑Ωst","MS"," ",400
+"black frost","WV9A","301","O","N"," ","bl·´k$fr∂´∫∑Ωst","MS"," ",400
+"frost","WV9B","302","N","N"," ","fr∑Ω∫{∞}st","MS"," ",401
+"freeze","WV9B","302","N","N"," ","friΩæiz","MS"," ",401
+"frost","WV10A","303","N","N"," ","fr∂´∫st","MS"," ",402
+"freeze","WV10A","303","N","N"," ","fr±iz","MS"," ",402
+"dew","WV10A","303","N","Y"," ","duº∫","MS","INA",402
+"frost","WV10B","303b","N","N"," ","fr∑∫st","MS"," ",403
+"freeze","WV10B","303b","N","N"," ","friæiz","MS"," ",403
+"frost","WV10C","304","N","N"," ","fr∑Ω∫{∞}st","MS"," ",404
+"black frost","WV10C","304","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",404
+"frost","WV11A","305","N","N"," ","fr∑∫st","MS"," ",405
+"freeze","WV11A","305","N","N"," ","fr±´iz","MS"," ",405
+"frost","WV11B!","306!","N","N"," ","fr∑∫{∞}st","MS"," ",406
+"freeze","WV11B!","306!","N","N"," ","friæiz","MS"," ",406
+"frost","WV12A","307","N","N"," ","fr∂´∫{∞}st","MS"," ",407
+"killing frost","WV12A","307","O","N"," ","kà±l±øÓ$fr∂´∫st","MS"," ",407
+"dew","WV12A","307","N","Y"," ","duΩº∫","MS","INA",407
+"frost","WV12B","308","N","N"," ","fr∂´∫{∞}st","MS"," ",408
+"freeze","WV12B","308","N","N"," ","friΩiz","MS"," ",408
+"dew","WV12B","308","N","Y"," ","duøæ∫","MS","INA",408
+"frost","WV13A","309","N","N"," ","fr∑Ω∫st","MS"," ",409
+"freeze","WV13A","309","N","N"," ","friΩæiz","MS"," ",409
+"dew","WV13A","309","N","Y"," ","dπ´º{uº}","MS","INA",409
+"frost","WV13B","310","N","N"," ","fr∑Ω∫{∞}st","MS"," ",410
+"freeze","WV13B","310","N","N"," ","friæiz","MS"," ",410
+"dew","WV13B","310","N","Y"," ","d{i}uø","MS","INA",410
+"frost","WV14A","311","N","N"," ","fr∑Ω∫{∞}st","MS"," ",411
+"freeze","WV14A","311","N","N"," ","friæiz","MS"," ",411
+"dew","WV14A","311","N","Y"," ","duøΩuøæ","MS","INA",411
+"frost","WV14B","312","N","N"," ","fr∑∫st","MS"," ",412
+"freeze","WV14B","312","N","N"," ","friæiz","MS"," ",412
+"dew","WV14B","312","N","Y"," ","dπ›´uø›º","MS","INA",412
+"frost","WV15A","313","N","N"," ","fr∂´∫st","MS"," ",413
+"heavy freeze","WV15A","313","O","N"," ","h≤v±ø´$Âfr±´æiz","MS"," ",413
+"dew","WV15A","313","N","Y"," ","dπø´uº","MS","INA",413
+"frost","WV15B","314","N","N"," ","fr∑Ω∫{∞}st","MS"," ",414
+"freeze","WV15B","314","N","N"," ","friΩæiz","MS"," ",414
+"dew","WV15B","314","N","Y"," ","duº∫","MS","INA",414
+"frost","WV16A","315","N","N"," ","fr∑Ω∫{∞}st","MS"," ",415
+"heavy frost","WV16A","315","O","N"," ","h≤v±ø´$fr∑Ω∫{∞}st","MS"," ",415
+"light dews","WV16A","315","O","Y"," ","la±øt$d˙uøæ∫z","MS","INA",415
+"heavy dews","WV16A","315","O","Y"," ","h≤v±ø´$d˙uøæ∫z","MS","INA",415
+"frost","WV16B","316","N","N"," ","fr∑∫{∞}st","MS"," ",416
+"freeze","WV16B","316","N","N"," ","friæiz","MS"," ",416
+"dew","WV16B","316","N","Y"," ","duº∫","MS","INA",416
+"frost","WV17A","317","N","N"," ","fr∑Ω∫{∞}st","MS"," ",417
+"freeze","WV17A","317","N","N"," ","friΩiz","MS"," ",417
+"dew","WV17A","317","N","Y"," ","diΩuøæ","MS","INA",417
+"frost","WV17B","317b","N","N"," ","fr∑Ω∫{∞}st","MS"," ",418
+"hard freeze","WV17B","317b","O","N"," ","ıhµæ¥d$ÂfriΩiz","MS"," ",418
+"dew","WV17B","317b","N","Y"," ","duº","MS","INA",418
+"frost","WV17C","318","N","N"," ","fr∑Ω∫st","MS"," ",419
+"dew","WV17C","318","N","Y"," ","dπ´uº","MS","INA",419
+"frost","WV18A","319","N","N"," ","fr∑Ω∫{∞}st","MS"," ",420
+"Jack Frost","WV18A","319","O","N"," ","d˙·k$fr∑Ω∫{∞}st","MS"," ",420
+"dew","WV18A","319","N","Y"," ","dπ´uº","MS","INA",420
+"frost","WV18B","320","N","N"," ","fr∂´∫{∞}st","MS"," ",421
+"freeze","WV18B","320","N","N"," ","friæiz","MS"," ",421
+"dew","WV18B","320","N","Y"," ","duº∫","MS","INA",421
+"frost","WV19A","321","N","N"," ","fr∂´∫{∞}st","MS"," ",422
+"freeze","WV19A","321","N","N"," ","friΩæiz","MS"," ",422
+"frost","WV19B","322","N","N"," ","fr∑∫st","MS"," ",423
+"freeze","WV19B","322","N","N"," ","fri∫z","MS"," ",423
+"frost","WV20A","323","N","N"," ","fr∑:{∞}st","MS"," ",424
+"killing frost","WV20A","323","O","N"," ","k±´{∞}Ï∞n$fr∑:{∞}st","MS"," ",424
+"frost","WV20B","324","N","N"," ","fr∑Ω∑st","MS"," ",425
+"black frost","WV20B","324","O","N"," ","bl·k$fr∑Ω∑st","MS"," ",425
+"frost","WV21A","325","N","N"," ","fr∑{∑´}st","MS"," ",426
+"black freeze","WV21A","325","O","N"," ","bl·k$friΩiz","MS"," ",426
+"frost","WV21B","326","N","N"," ","fr∑∫{∞}st","MS"," ",427
+"Jack Frost","WV21B","326","O","N"," ","d˙·k$fr∑∫{∞}st","MS"," ",427
+"frost","WV22A","327","N","N"," ","fr∂st","MS"," ",428
+"freeze","WV22A","327","N","N"," ","friæiz","MS"," ",428
+"dew","WV22A","327","N","Y"," ","d{iΩæ}uø","MS","INA",428
+"frost","WV22B","328","N","N"," ","fr∂´{∞}st","MS"," ",429
+"frost","WV23A","331","N","N"," ","fr∑Ω∫{∞}st","MS"," ",430
+"freeze","WV23A","331","N","N"," ","friæiz","MS"," ",430
+"dew","WV23A","331","N","Y"," ","djuø∫","MS","INA",430
+"frost","WV23B","332","N","N"," ","fr∂´∫st","MS"," ",431
+"freeze","WV23B","332","N","N"," ","fri∫z","MS"," ",431
+"dew","WV23B","332","N","Y"," ","duøîæ","MS","INA",431
+"frost","WV24A","335","N","N"," ","fr∑Ω∫st","MS"," ",432
+"freeze","WV24A","335","N","N"," ","fri∫z","MS"," ",432
+"dew","WV24A","335","N","Y"," ","djºuø∫","MS","INA",432
+"frost","WV24B","336","N","N"," ","fr∑Ω∫st","MS"," ",433
+"killing frost","WV24B","336","O","N"," ","k±l∞n$fr∑Ω∫st","MS"," ",433
+"dew","WV24B","336","N","Y"," ","d{iΩ}uøæ∫","MS","INA",433
+"frost","WV25A","337","N","N"," ","fr∑Ω∫st","MS"," ",434
+"freeze","WV25A","337","N","N"," ","friæiz","MS"," ",434
+"dew","WV25A","337","N","Y"," ","di›uø","MS","INA",434
+"frost","WV25B","338","N","N"," ","fr∑Ω∫{∞}st","MS"," ",435
+"freeze","WV25B","338","N","N"," ","friæiz","MS"," ",435
+"dew","WV25B","338","N","Y"," ","djºuø∫","MS","INA",435
+"frost","WV26A","339","N","N"," ","fr∑Ω∫{∞}st","MS"," ",436
+"freeze","WV26A","339","N","N"," ","friæiz","MS"," ",436
+"dew","WV26A","339","N","Y"," ","d†{i}uø","MS","INA",436
+"frost","WV26B","340","N","N"," ","fr∂´∑st","MS"," ",437
+"freeze","WV26B","340","N","N"," ","fri´æiz","MS"," ",437
+"dew","WV26B","340","N","Y"," ","d{i}uø∫","MS","INA",437
+"frost","WV27A","341","N","N"," ","fr∑Ω∫{∞}st","MS"," ",438
+"heavy frost","WV27A","341","O","N"," ","h≤v±ø´$fr∑Ω∫{∞}st","MS"," ",438
+"freeze","WV27A","341","N","N"," ","friΩæiz","MS"," ",438
+"frost","WV27B","342","N","N"," ","fr∑Ω∫st","MS"," ",439
+"killing frost","WV27B","342","O","N"," ","k±´l∞n$fr∑Ω∫st","MS"," ",439
+"dew","WV27B","342","N","Y"," ","dπ´uº","MS","INA",439
+"frost","WV28A","343","N","N"," ","fr∑Ω∫st","MS"," ",440
+"awful frost","WV28A","343","O","N"," ","∑Ω∫fÏ$fr∑Ω∫st","MS"," ",440
+"dew","WV28A","343","N","Y"," ","d†{i}uø","MS","INA",440
+"frost","WV28B","344","N","N"," ","fr∑∫{∞}st","MS"," ",441
+"freeze","WV28B","344","N","N"," ","friæiz","MS"," ",441
+"frost","WV29A","345","N","N"," ","fr∑∫{∑´}st","MS"," ",442
+"freeze","WV29A","345","N","N"," ","friæiz","MS"," ",442
+"dew","WV29A","345","N","Y"," ","d†juø∫","MS","INA",442
+"frost","WV29B","346","N","N"," ","fr∂´∫st","MS"," ",443
+"dew","WV29B","346","N","Y"," ","d{i}uø","MS","INA",443
+"frost","WV30A","347","N","N"," ","fr∂´∑Ωst","MS"," ",444
+"freeze","WV30A","347","N","N"," ","fr±iz","MS"," ",444
+"frost","WV30B","348","N","N"," ","fr∑Ω∫st","MS"," ",445
+"freeze","WV30B","348","N","N"," ","friæiz","MS"," ",445
+"dew","WV30B","348","N","Y"," ","d{i}uø","MS","INA",445
+"frost","WV31A","349","N","N"," ","fr∑∫st","MS"," ",446
+"freeze","WV31A","349","N","N"," ","friæiz","MS"," ",446
+"frost","WV31B","350","N","N"," ","fr∂´∑Ωst","MS"," ",447
+"freeze","WV31B","350","N","N"," ","friæiz","MS"," ",447
+"frost","WV32A","353","N","N"," ","fr∑Ω∑´st","MS"," ",448
+"freeze","WV32A","353","N","N"," ","friæiz","MS"," ",448
+"frost","WV32B","354","N","N"," ","fr∑Ω∑st","MS"," ",449
+"freeze","WV32B","354","N","N"," ","friæiz","MS"," ",449
+"frost","WV33A","355","N","N"," ","fr∑Ω∑st","MS"," ",450
+"freeze","WV33A","355","N","N"," ","friæiz","MS"," ",450
+"frost","WV33B","356","N","N"," ","fr∂´∑Ωst","MS"," ",451
+"freeze","WV33B","356","N","N"," ","friΩæiz","MS"," ",451
+"frost","WV34A","359","N","N"," ","fr∑∫st","MS"," ",452
+"freeze","WV34A","359","N","N"," ","friæiz","MS"," ",452
+"dew","WV34A","359","N","Y"," ","d{i}uø","MS","INA",452
+"frost","WV34B","360","N","N"," ","fr∑Ω∫st","MS"," ",453
+"hard freeze","WV34B","360","O","N"," ","hµ¥d$friΩiz","MS"," ",453
+"dew","WV34B","360","N","Y"," ","duøæ∫","MS","INA",453
+"frost","WV35A","361","N","N"," ","fr∑∫{∞}st","MS"," ",454
+"heavy frost","WV35A","361","O","N"," ","h≤v±ø´$fr∑∫{∞}st","MS"," ",454
+"dew","WV35A","361","N","Y"," ","d{j}uø","MS","INA",454
+"frost","WV35B","362","N","N"," ","fr∑Ω∫st","MS"," ",455
+"freeze","WV35B","362","N","N"," ","friæiz","MS"," ",455
+"dew","WV35B","362","N","Y"," ","d{iΩæ}uø","MS","INA",455
+"frost","WV36A","363","N","N"," ","fr∑Ω∑st","MS"," ",456
+"freeze","WV36A","363","N","N"," ","friΩæiz","MS"," ",456
+"dew","WV36A","363","N","Y"," ","duº∫","MS","INA",456
+"frost","WV36B","364","N","N"," ","fr∑∫st","MS"," ",457
+"freeze","WV36B","364","N","N"," ","friΩæiz","MS"," ",457
+"dew","WV36B","364","N","Y"," ","d{iΩæ}uø","MS","INA",457
+"frost","WV37A","365","N","N"," ","fr∑Ω∫st","MS"," ",458
+"freeze","WV37A","365","N","N"," ","friæiz","MS"," ",458
+"dew","WV37A","365","N","Y"," ","duøuøæ","MS","INA",458
+"frost","WV37B!","366!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",459
+"killing frost","WV37B!","366!","O","N"," ","k±Ï±øÓ$fr∑Ω∫{∞}st","MS"," ",459
+"dew","WV37B!","366!","N","Y"," ","duøæ","MS","INA",459
+"frost","WV38A","367","N","N"," ","fr∂´∫st","MS"," ",460
+"killing frost","WV38A","367","O","N"," ","k±l∞n$fr∂´∫st","MS"," ",460
+"dew","WV38A","367","N","Y"," ","duøîæ∫","MS","INA",460
+"frost","WV38B","368","N","N"," ","fr∑Ω∫st","MS"," ",461
+"freeze","WV38B","368","N","N"," ","friΩiz","MS"," ",461
+"dew","WV38B","368","N","Y"," ","duøæ∫","MS","INA",461
+"frost","WV39A","369","N","N"," ","fr∑Ω∑st","MS"," ",462
+"black frost","WV39A","369","O","N"," ","bl·k$fr∑Ω∑st","MS"," ",462
+"dew","WV39A","369","N","Y"," ","dπø´uøæ","MS","INA",462
+"frost","WV39B","370","N","N"," ","fr∂´{∞}st","MS"," ",463
+"killing frost","WV39B","370","O","N"," ","k±l±øÓ$fr∂´{∞}st","MS"," ",463
+"dew","WV39B","370","N","Y"," ","duø∫","MS","INA",463
+"frost","WV39C!","371!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",464
+"killing frost","WV39C!","371!","O","N"," ","k±l±øÓ$fr∑Ω∫{∞}st","MS"," ",464
+"freeze","WV39C!","371!","N","N","heaviest","friΩiz","MS"," ",464
+"dew","WV39C!","371!","N","Y"," ","duº∫","MS","INA",464
+"frost","WV40A","373","N","N"," ","fr∑∫st","MS"," ",465
+"freeze","WV40A","373","N","N"," ","friΩiz","MS"," ",465
+"frost","WV40B","374","N","N"," ","fr∑Ω∫st","MS"," ",466
+"freeze","WV40B","374","N","N"," ","friæiz","MS"," ",466
+"frost","WV41A","375","N","N"," ","fr∑Ω∫{∞}st","MS"," ",467
+"black one","WV41A","375","O","N"," ","bl·k$∞n","MS"," ",467
+"frost","WV41B","376","N","N"," ","fr∑Ω∫{∞}st","MS"," ",468
+"biting frost","WV41B","376","O","N"," ","ba±øtn$fr∑Ω∫{∞}st","MS"," ",468
+"dew","WV41B","376","N","Y"," ","d{iΩ}uø","MS","INA",468
+"frost","WV42A","377","N","N"," ","fr∑∫{∞}st","MS"," ",469
+"freeze","WV42A","377","N","N"," ","friæiz","MS"," ",469
+"dew","WV42A","377","N","Y"," ","duø∫","MS","INA",469
+"frost","WV42B","378","N","N"," ","fr∑Ω∫{∞}st","MS"," ",470
+"freeze","WV42B","378","N","N"," ","friæiz","MS"," ",470
+"dew","WV42B","378","N","Y"," ","duº∫","MS","INA",470
+"frost","WV43A","381","N","N"," ","fr∑Ω∫{∞}st","MS"," ",471
+"black frost","WV43A","381","O","N"," ","bl·æk$fr∑Ω∫{∞}st","MS"," ",471
+"dew","WV43A","381","N","Y"," ","dπ´uº","MS","INA",471
+"frost","WV43B","382","N","N"," ","fr∑Ω∫{∞}st","MS"," ",472
+"heavy frost","WV43B","382","O","N"," ","h≤v±ø´$fr∑Ω∫st","MS"," ",472
+"dew","WV43B","382","N","Y"," ","duº∫","MS","INA",472
+"frost","WV44A","383","N","N"," ","fr∑Ω∫st","MS"," ",473
+"freeze","WV44A","383","N","N"," ","friΩæiz","MS"," ",473
+"dew","WV44A","383","N","Y"," ","dπø´uø","MS","INA",473
+"frost","WV44B","384","N","N"," ","fr∑Ω∫st","MS"," ",474
+"freeze","WV44B","384","N","N"," ","fr±´æiz","MS"," ",474
+"dew","WV44B","384","N","Y"," ","duº∫","MS","INA",474
+"frost","WV45A","385","N","N"," ","fr∂´∫st","MS"," ",475
+"killing frost","WV45A","385","O","N"," ","kà{h}±Ï±øÓ$fr∂´∫st","MS"," ",475
+"dew","WV45A","385","N","Y"," ","duº∫","MS","INA",475
+"frost","WV45B","386","N","N"," ","fr∑Ω∫st","MS"," ",476
+"freeze","WV45B","386","N","N"," ","friæiz","MS"," ",476
+"dew","WV45B","386","N","Y"," ","duøæ∫","MS","INA",476
+"frost","WV46A","387","N","N"," ","fr∑∫st","MS"," ",477
+"freeze","WV46A","387","N","N"," ","friæiz","MS"," ",477
+"frost","WV46B","388","N","N"," ","fr∑Ω∫st","MS"," ",478
+"black frost","WV46B","388","O","N"," ","bl·k$fr∑Ω∫st","MS"," ",478
+"dew","WV46B","388","N","Y"," ","dπøuøæ","MS","INA",478
+"frost","WV47A","389","N","N"," ","fr∑Ω∫{∞}st","MS"," ",479
+"freeze","WV47A","389","N","N"," ","friΩæiz","MS"," ",479
+"dew","WV47A","389","N","Y"," ","duº∫","MS","INA",479
+"frost","WV47B","390","N","N"," ","fr∑Ω∫{∞}st","MS"," ",480
+"freeze","WV47B","390","N","N"," ","fr±∫iz","MS"," ",480
+"dew","WV47B","390","N","Y"," ","dπ´ºuº","MS","INA",480
+"frost","WV48A","391","N","N"," ","fr∑Ω∫{∞}st","MS"," ",481
+"freeze","WV48A","391","N","N"," ","friæiz","MS"," ",481
+"dew","WV48A","391","N","Y"," ","duº","MS","INA",481
+"frost","WV48B","391b","N","N"," ","fr∑∫st","MS"," ",482
+"black frost","WV48B","391b","O","N"," ","bl·k$fr∑∫st","MS"," ",482
+"dew","WV48B","391b","N","Y"," ","duº∫","MS","INA",482
+"frost","WV48C","392","N","N"," ","fr∑Ω∫st","MS"," ",483
+"freeze","WV48C","392","N","N"," ","friΩiz","MS"," ",483
+"dew","WV48C","392","N","Y"," ","dπ´ºuº","MS","INA",483
+"frost","WV48D","392b","N","N"," ","fr∑Ω∫st","MS"," ",484
+"freeze","WV48D","392b","N","N"," ","fr±´iz","MS"," ",484
+"dew","WV48D","392b","N","Y"," ","dπuº","MS","INA",484
+"frost","WV49A","393","N","N"," ","fr∑∫{∞}st","MS"," ",485
+"freeze","WV49A","393","N","N"," ","friæiz","MS"," ",485
+"frost","WV49B","394","N","N"," ","fr∑Ω∫{∞}st","MS"," ",486
+"freeze","WV49B","394","N","N"," ","friΩiz","MS"," ",486
+"dew","WV49B","394","N","Y"," ","duøæ∫","MS","INA",486
+"frost","WV50A","395","N","N"," ","fr∂´∫{∞}st","MS"," ",487
+"freeze","WV50A","395","N","N"," ","friΩæiz","MS"," ",487
+"frost","WV50B","396","N","N"," ","fr∑Ω∫{∞}st","MS"," ",488
+"freeze","WV50B","396","N","N"," ","fÒé›iæiz","MS"," ",488
+"frost","WV51A","261","N","N"," ","fr∂´∫{∞}st","MS"," ",489
+"killing frost","WV51A","261","O","N"," ","kà±Ï±øÓ$fr∂´∫{∞}st","MS"," ",489
+"dew","WV51A","261","N","Y"," ","dπuº","MS","INA",489
+"frost","WV51B","262","N","N"," ","fr∑Ω∫st","MS"," ",490
+"freeze","WV51B","262","N","N"," ","friæiz","MS"," ",490
+"dew","WV51B","262","N","Y"," ","duøæ∫","MS","INA",490
+"frost","WV52A","258","N","N"," ","fr∂´∫{∞}st","MS"," ",491
+"freeze","WV52A","258","N","N"," ","friΩæiz","MS"," ",491
+"dew","WV52A","258","N","Y"," ","duøæ∫","MS","INA",491
+"frost","WV52B","259","N","N"," ","fr∂´∫{∞}st","MS"," ",492
+"black frost","WV52B","259","O","N","rare","bl·k$fr∂´∫{∞}st","MS"," ",492
+"freeze","WV52B","259","N","N"," ","friΩæiz","MS"," ",492
+"dew","WV52B","259","N","Y"," ","duøæ∫","MS","INA",492
+"frost","WV52C!","260!","N","N"," ","fr∂´∫{∞}st","MS"," ",493
+"hoarfrost","WV52C!","260!","N","N"," ","hoΩ¥fr∂´∫{∞}st","MS"," ",493
+"dew","WV52C!","260!","N","Y"," ","duº∫","MS","INA",493
+"frost","WV53A","257","N","N"," ","fr∂´∫{∞}st","MS"," ",494
+"dew","WV53A","257","N","Y"," ","duº∫","MS","INA",494
+"frost","WV53B","257b","N","N"," ","fr∂´∫{∞}st","MS"," ",495
+"freeze","WV53B","257b","N","N"," ","friæiz","MS"," ",495
+"dew","WV53B","257b","N","Y"," ","duº∫","MS","INA",495
+"frost","WV53C!","257c!","N","N"," ","fr∂´∫st","MS"," ",496
+"black frost","WV53C!","257c!","O","N"," ","bl·k$fr∂´∫st","MS"," ",496
+"freeze","WV53C!","257c!","N","N"," ","friæ∫z","MS"," ",496
+"dew","WV53C!","257c!","N","Y"," ","duº∫","MS","INA",496
+"frost","WV54A","255","N","N"," ","fr∂´∫{∞}st","MS"," ",497
+"killing frost","WV54A","255","O","N"," ","k±Ï±øÓ$fr∂´∫{∞}st","MS"," ",497
+"frost","WV54B","256","N","N"," ","fr∑Ω∫{∞}st","MS"," ",498
+"black frost","WV54B","256","O","N"," ","bÏ·k$fr∑Ω∫{∞}st","MS"," ",498
+"frost","DE1A","11","N","N"," ","fr∂´∫{∞}st","MS"," ",499
+"killing frost","DE1A","11","O","N"," ","kà±Ï±øÓ$fr∂´∫{∞}st","MS"," ",499
+"frost","DE1B","12","N","N"," ","fr∂´∫{∞}st","MS"," ",500
+"nipping spell","DE1B","12","O","N"," ","n±p±øÓ$sp≤{∞}Ï","MS"," ",500
+"frost","DE1C!","13!","N","N"," ","fr∂´∫{∞}st","MS"," ",501
+"frost","DE2A","15(*)","N","Y"," ","fr∂´∫{∞}s{t}","MS","AUX",502
+"black frost","DE2A","15(*)","O","Y"," ","bl·k$fr∂´∫{∞}s{t}","MS","AUX",502
+"fresh","DE2A","15(*)","A","Y","= `chilly', not `keen'","fr≤Û","MS","AUX/INA",502
+"chilly","DE2A","15(*)","A","Y"," ","tÛ±Ï±øΩ","MS","AUX/INA",502
+"keen","DE2A","15(*)","A","Y"," ","ki∫jn","MS","AUX/INA",502
+"frost","DE2B","16","N","N"," ","fr∂´∫{∞}st","MS"," ",503
+"heavy frost","DE2B","16","O","N"," ","h≤v±ø$fr∂´∫{∞}st","MS"," ",503
+"frost","DE2C"," ","N","N"," ","fr∂∫{∞}s{t}","MS"," ",504
+"black frost","DE2C"," ","O","N"," ","bl·k$fr∂∫{∞}s{t}","MS"," ",504
+"right airish","DE2C"," ","K","Y"," ","r•Ω±øt$≤¥|±øÛ","MS","INA",504
+"keen","DE2C"," ","A","Y"," ","ki∫jn","MS","INA",504
+"frost","DE3A","18","N","N"," ","fr∑Ω∫st","MS"," ",505
+"killing frost","DE3A","18","O","N"," ","k±Ï±øΩn$fr∑Ω∫st","MS"," ",505
+"frost","DE3B","19","N","N"," ","fr∂´∫{∞}st","MS"," ",506
+"freeze","DE3B","19","N","N"," ","fr±´iz","MS"," ",506
+"frost","DE3C!","17!","N","N"," ","fr∂´∫{∞}st","MS"," ",507
+"killing frost","DE3C!","17!","O","N"," ","k{h}±{∞}Ï±øÓ$fr∂´∫{∞}st","MS"," ",507
+"frost","DE4","20","N","N"," ","fr∑Ω∫{∞}st","MS"," ",508
+"freeze","DE4","20","N","N"," ","friΩiz","MS"," ",508
+"frost","DE5A","21","N","N"," ","fr∂´∫{∞}st","MS"," ",509
+"Jack Frost","DE5A","21","O","N","a); big one","d˙·k$fr∂´∫{∞}st","MS"," ",509
+"airish","DE5A","21","A","Y"," ","·æ¥±øÛ","MS","SUG/INA",509
+"keen","DE5A","21","A","Y"," ","kiΩjn","MS","INA",509
+"chilly","DE5A","21","A","Y"," ","tÛ±øÏ±øΩ","MS","INA",509
+"frost","DE5B","22","N","N"," ","fr∂´∫{∞}st","MS"," ",510
+"freeze","DE5B","22","N","N"," ","friΩiz","MS"," ",510
+"frost","DE6A","23","N","N"," ","fr∑Ω∫st","MS"," ",511
+"terrible frost","DE6A","23","O","N"," ","t≤æ¥∞bÏ$fr∑Ω∫st","MS"," ",511
+"frost","DE6B","24","N","N"," ","fr∂´∫{∞}st","MS"," ",512
+"heavy frost","DE6B","24","O","N"," ","h≤v±ø$fr∂´∫{∞}st","MS"," ",512
+"frost","MD1A","27","N","N"," ","fr∑Ω∫{∞}st","MS"," ",513
+"black frost","MD1A","27","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",513
+"frost","MD1B","28","N","N"," ","fr∑Ω∫st","MS"," ",514
+"black frost","MD1B","28","O","N"," ","bl·k$fr∑∫st","MS"," ",514
+"frost","MD2A","31a","N","N"," ","fr∑∫st","MS"," ",515
+"black frost","MD2A","31a","O","N"," ","bl·´kà$fr∑∫st","MS"," ",515
+"killing frost","MD2A","31a","O","N"," ","k±l±øΩn$fr∑∫st","MS"," ",515
+"frost","MD2B","32","N","N"," ","fr∑Ω∫{∞}st","MS"," ",516
+"big frost","MD2B","32","O","N"," ","b±g$fr∑Ω∫{∞}st","MS"," ",516
+"frost","MD3A","33","N","N"," ","fr∑Ω∫{∞}s","MS"," ",517
+"big frost","MD3A","33","O","N"," ","b±g$fr∑Ω∫{∞}s","MS"," ",517
+"heavy frost","MD3A","33","O","N"," ","h≤v±ø$fr∑Ω∫{∞}s","MS"," ",517
+"frost","MD3B","34","N","N"," ","fr∑Ω∫{∞}st","MS"," ",518
+"killing frost","MD3B","34","O","N"," ","k±l∞n$fr∑Ω∫st","MS"," ",518
+"frost","MD4A","35b","N","N"," ","fr∑Ω∫st","MS"," ",519
+"freeze","MD4A","35b","N","N"," ","friΩæiz","MS"," ",519
+"frost","MD4B","35","N","N"," ","fr∑Ω∫s{t}","MS"," ",520
+"black frost","MD4B","35","O","N"," ","bÏ·Ωæk$fr∑Ω∫s{t}","MS"," ",520
+"Jack Frost","MD4B","35","O","N","= `black frost'","d˙·k$fr∑Ω∫s{t}","MS"," ",520
+"frost","MD4C","36","N","N"," ","fr∂´∫{∞}s{t}","MS"," ",521
+"killing frost","MD4C","36","O","N","heavier [than frost]","k±l±øÓ$fr∂´∫{∞}s{t}","MS"," ",521
+"fresh","MD4C","36","A","Y"," ","fr≤´Û","MS","SUG/INA",521
+"keen","MD4C","36","A","Y"," ","kijn","MS","INA",521
+"frost","MD5A","37","N","N"," ","fr∂´st","MS"," ",522
+"heavy frost","MD5A","37","O","N"," ","h≤v±ø$fr∂´∫st","MS"," ",522
+"frost","MD5B","38","N","N"," ","fr∂´∫{∞}st","MS"," ",523
+"freeze","MD5B","38","N","N"," ","friΩiz","MS"," ",523
+"frost","MD6A","39(*)","N","N"," ","fr∑Ω∫s{t}","MS"," ",524
+"freeze","MD6A","39(*)","N","N"," ","friΩiz","MS"," ",524
+"frost","MD6A","39(*)","N","Y"," ","fr∑Ω∫s","MS","AUX",524
+"black frost","MD6A","39(*)","O","Y"," ","bl·k$fr∑Ω∫s","MS","AUX",524
+"frost","MD6B","40","N","N"," ","fr∑Ω∫{∞}st","MS"," ",525
+"black frost","MD6B","40","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",525
+"frost","MD7A","41","N","N"," ","fr∂´∫st","MS"," ",526
+"black frost","MD7A","41","O","N"," ","bl·k$fr∂´∫st","MS"," ",526
+"frost","MD7B","41b","N","N"," ","fr∂´∑Ωst","MS"," ",527
+"killing frost","MD7B","41b","O","N"," ","k±l±øÓ$fr∂´∑Ωst","MS"," ",527
+"frost","MD7C!","42!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",528
+"killing frost","MD7C!","42!","O","N"," ","k±l±øΩn$fr∑Ω∫{∞}st","MS"," ",528
+"frost","MD8A","43","N","N"," ","fr∑Ωst","MS"," ",529
+"freeze","MD8A","43","N","N"," ","friΩæ{i}{∞Ωæ}z","MS"," ",529
+"frost","MD8B","44","N","N"," ","fr∑Ω∫st","MS"," ",530
+"freeze","MD8B","44","N","N"," ","friΩiz","MS"," ",530
+"frost","MD9N","N46","N","N"," ","fr∂´∫{∞}s{t}","MS"," ",531
+"keen","MD9N","N46","A","Y"," ","kijn","MS","INA",531
+"sharp","MD9N","N46","A","Y"," ","Û∂∫p","MS","INA",531
+"airish","MD9N","N46","A","Y"," ","·Ωær±øÛ","MS","INA",531
+"chilly","MD9N","N46","A","Y"," ","tÛ±Ï±øΩ","MS","INA",531
+"frost","MD9A","45","N","N"," ","fr∂´∫st","MS"," ",532
+"black frost","MD9A","45","O","N"," ","bl·k$fr∂´∫st","MS"," ",532
+"frost","MD9B","46","N","N"," ","fr∑Ω∫s{t}","MS"," ",533
+"killing frost","MD9B","46","O","N"," ","k±l±øΩn$fr∑Ω∫s{t}","MS"," ",533
+"frost","MD10A","49","N","N"," ","fr∑∫{∞}st","MS"," ",534
+"black frost","MD10A","49","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",534
+"frost","MD10B","50","N","N"," ","fr∑Ω∫{∞}st","MS"," ",535
+"white frost","MD10B","50","O","N","light","w•±øt$fr∑Ω∫{∞}st","MS"," ",535
+"black frost","MD10B","50","O","N","heavy","bl·k$fr∑Ω∫{∞}st","MS"," ",535
+"freeze","MD10B","50","N","N"," ","fri∫z","MS"," ",535
+"frost","MD11","51","N","N"," ","fr∑:st","MS"," ",536
+"black frost","MD11","51","O","N"," ","bl·k$fr∑:st","MS"," ",536
+"frost","MD12A","52","N","N"," ","fr∑∫{∞}st","MS"," ",537
+"black frost","MD12A","52","O","N"," ","bl·´∫k$fr∑∫{∞}st","MS"," ",537
+"frost","MD12B","53","N","N"," ","fr∑∫{∞}st","MS"," ",538
+"black frost","MD12B","53","O","N"," ","bÏ·k$fr∑∫{∞}st","MS"," ",538
+"frost","MD13A","54(*)","N","N"," ","fr∑:{∞}s{t}","MS"," ",539
+"heavy frost","MD13A","54(*)","O","N"," ","h≤v±ø$fr∑:{∞}s{t}","MS"," ",539
+"frost","MD13B","55","N","N"," ","fr∑´:{∞}s{t}","MS"," ",540
+"heavy frost","MD13B","55","O","N"," ","h≤v±ø$fr∑´:{∞}s{t}","MS"," ",540
+"frost","MD13C","56","N","N"," ","fr∑∫{∞}s{t}","MS"," ",541
+"hoarfrost","MD13C","56","N","N"," ","h∑´¥fr∑∫{∞}s{t}","MS"," ",541
+"frost","MD13D!","57!","N","N"," ","fr∑´∫{∞}st","MS"," ",542
+"black frost","MD13D!","57!","O","N"," ","bl·k$fr∑´∫{∞}st","MS"," ",542
+"frost","MD13E!","58!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",543
+"chilly","MD13E!","58!","A","Y"," ","tÛ±l±ø","MS","INA",543
+"sharp","MD13E!","58!","A","Y"," ","Ûóﬁó∫p","MS","INA",543
+"frosty","MD13E!","58!","A","Y"," ","fr∑Ω∫st±ø","MS","INA",543
+"frost","MD13F!","59!","N","N"," ","fr∑:st","MS"," ",544
+"hard freeze","MD13F!","59!","O","N"," ","hﬁº∫∂´d$fri∫{i´}z","MS"," ",544
+"frost","MD13G"," ","N","N"," ","fr∑∫{∞}s{t}","MS"," ",545
+"heavy frost","MD13G"," ","O","N"," ","h≤v±ø$fr∑∫{∞}s{t}","MS"," ",545
+"frost","MD14","61(*)","N","N"," ","fr∑´∫{∞}st","MS"," ",546
+"black frost","MD14","61(*)","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",546
+"schwartze Reife","MD14","61(*)","O","Y","Pennsylvania German","Ûwﬁº{“}ts∞$raæ±øf∞","MS","AUX/INA",546
+"Reife","MD14","61(*)","N","Y","Pennsylvania German","raæ±øf∞","MS","AUX/INA",546
+"frost","MD15A","62","N","N"," ","fr∑∫{∞}st","MS"," ",547
+"black frost","MD15A","62","O","N"," ","bÏ·k$fr∑∫{∞}st","MS"," ",547
+"frost","MD15B","63","N","N"," ","fr∑:st","MS"," ",548
+"killing frost","MD15B","63","O","N"," ","k±l±øÓ$fr∑:st","MS"," ",548
+"black frost","MD15B","63","O","N"," ","bl·k$fr∑:st","MS"," ",548
+"frost","MD16","64","N","N"," ","fr∑´∫{∞}st","MS"," ",549
+"black frost","MD16","64","O","N"," ","bl·k$fr∑´∫s{t}","MS"," ",549
+"fresh","MD16","64","A","Y"," ","fr≤Û","MS","INA",549
+"keen","MD16","64","A","Y"," ","k±´jn","MS","INA",549
+"sharp","MD16","64","A","Y"," ","Û∂´º¥p","MS","INA",549
+"right airish","MD16","64","K","Y"," ","r•±øt$≤¥|±øÛ","MS","INA",549
+"frost","MD17A","65","N","N"," ","fr∑Ω{∞}st","MS"," ",550
+"black frost","MD17A","65","O","N"," ","bl·k$fr∑Ω{∞}st","MS"," ",550
+"frost","MD17B","66","N","N"," ","fr∑Ω∑st","MS"," ",551
+"freeze","MD17B","66","N","N"," ","friΩiz","MS"," ",551
+"frost","MD18A","67","N","N"," ","fr∑∫∑´st","MS"," ",552
+"black frost","MD18A","67","O","N"," ","bl·k$fr∑:st","MS"," ",552
+"frost","MD18B","68","N","N"," ","fr∑∫{∞}st","MS"," ",553
+"black frost","MD18B","68","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",553
+"frost","MD19A","69","N","N"," ","fr∑∫s{t}","MS"," ",554
+"black frost","MD19A","69","O","N"," ","bl·´k$fr∑∫s","MS"," ",554
+"frost","MD19B","70","N","N"," ","fr∑:{∞}s{t}","MS"," ",555
+"black frost","MD19B","70","O","N"," ","bl·´k$fr∑:s","MS"," ",555
+"frost","MD20A","71","N","N"," ","fr∑∫{∞}st","MS"," ",556
+"airish","MD20A","71","A","Y"," ","·{∞}r±øÛ","MS","INA",556
+"sharp","MD20A","71","A","Y"," ","Ûµæ:p","MS","INA",556
+"chilly","MD20A","71","A","Y"," ","tÛ±l±øΩ","MS","INA",556
+"frost","MD20B","72","N","N"," ","fr∑∫{∞}st","MS"," ",557
+"black frost","MD20B","72","O","N"," ","bl·k$fr∑∫{∞}st","MS"," ",557
+"frost","MD20C!","73!","N","N"," ","fr∑∫{∞}st","MS"," ",558
+"heavy frost","MD20C!","73!","O","N"," ","h≤v±ø›Ω$fr∑∫{∞}st","MS"," ",558
+"frost","MD21A","75","N","N"," ","fr∂´∫{∞}st","MS"," ",559
+"black frost","MD21A","75","O","N"," ","blç·k$fr∂∫s{t}","MS"," ",559
+"frost","MD21B","76","N","N"," ","fr∑∫{∞}st","MS"," ",560
+"biting frost","MD21B","76","O","N"," ","b•±ø'tn$fr∑∫{∞}st","MS"," ",560
+"frost","MD22N","N77","N","N"," ","fr∑:s","MS"," ",561
+"black frost","MD22N","N77","O","N"," ","bl·k$fr∑:s","MS"," ",561
+"frost","MD22M","N78","N","N"," ","fr∑:s","MS"," ",562
+"black frost","MD22M","N78","O","N"," ","blç·k$fr∑:s","MS"," ",562
+"frost","MD22A","77","N","N"," ","fré∑é´∫{∞}s{t}","MS"," ",563
+"biting frost","MD22A","77","O","N"," ","b•±øtn$fré∑é´∫{∞}s{t}","MS"," ",563
+"keen","MD22A","77","A","Y"," ","kiΩ∫n","MS","INA",563
+"sharp","MD22A","77","A","Y"," ","Ûµæ∫p","MS","INA",563
+"airish","MD22A","77","A","Y"," ","≤´{∞}r±øÛ","MS","INA",563
+"biting frost","MD22B","78","O","N"," ","b•±ø´tn$fr∑:st","MS"," ",564
+"frost","MD22B","78","N","N"," ","fr∑:st","MS"," ",564
+"black frost","MD22C!","79!","O","N"," ","bl·k$fr∑∫s{t}","MS"," ",565
+"frost","MD22C!","79!","N","N"," ","fr∑∫s{t}","MS"," ",565
+"heavy frost","MD23A","80b","O","N"," ","h≤v±ø›Ω$fr∑∫s{t}","MS"," ",566
+"frost","MD23A","80b","N","N"," ","fr∑∫s{t}","MS"," ",566
+"black frost","MD23B","80a","O","N"," ","bl·k$frﬁ∫{∞}st","MS"," ",567
+"frost","MD23B","80a","N","N"," ","frﬁ∫{∞}st","MS"," ",567
+"frost","MD23C","81","N","N"," ","fr∑∫{∞}st","MS"," ",568
+"black frost","MD23C","81","O","N"," ","bl·k$fr∑∫st","MS"," ",568
+"frost","MD24","82","N","N"," ","fr∑:s","MS"," ",569
+"black frost","MD24","82","O","N"," ","bl·k$fr∑:s","MS"," ",569
+"frost","MD25","84","N","N"," ","fr∂´∫st","MS"," ",570
+"black frost","MD25","84","O","N"," ","bl·k$fr∂´∫st","MS"," ",570
+"freeze","MD26A","83","N","N"," ","friz","MS"," ",571
+"frost","MD26A","83","N","N"," ","fr∂´∫st","MS"," ",571
+"frost","MD26B","83A","N","N"," ","fr∂´∫{∞}st","MS"," ",572
+"freeze","MD26B","83A","N","N"," ","Âfr±iz","MS"," ",572
+"frost","MD27A","85","N","N"," ","fr∑∫{∞}st","MS"," ",573
+"freeze","MD27A","85","N","N"," ","friΩæiz","MS"," ",573
+"frost","MD27B","86","N","N"," ","fr∑∫{∞}st","MS"," ",574
+"freeze","MD27B","86","N","N"," ","friΩiz","MS"," ",574
+"frost","DC1A","99","N","N"," ","fr∑∫{∞}s{t}","MS"," ",575
+"sharp","DC1A","99","A","Y"," ","Ûﬁº∫{∞}p","MS","INA",575
+"nifty","DC1A","99","A","Y"," ","n±Ωæ{∞}ft±ø","MS","INA/SIC",575
+"keen","DC1A","99","A","Y"," ","k±›{i}{∞}n","MS","INA",575
+"frost","DC1B!","100!","N","N"," ","fr∑´∫{∞}s{t}","MS"," ",576
+"heavy frost","DC1B!","100!","O","N"," ","h≤v±ø$fr∑´∫{∞}s{t}","MS"," ",576
+"frost","VA1!","101!","N","N"," ","fr∂´º∫{∑}st","MS"," ",577
+"black frost","VA2A","103","O","N"," ","bl·ºk$fr∑Ω∫{∞}s{t}","MS"," ",578
+"frost","VA2A","103","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",578
+"frost","VA2B","104","N","Y"," ","fr∂º∂´{∞}st","MS","AUX",579
+"frost","VA3A","105(*)","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",580
+"black frost","VA3B","106","O","N"," ","bl·k$fr∑Ω∫{∞}st","MS"," ",581
+"frost","VA3B","106","N","N"," ","fr∑Ω∫{∞}st","MS"," ",581
+"frost","VA3C"," ","N","N"," ","fr∂´∫{∞}st","MS"," ",582
+"black frost","VA3C"," ","O","N"," ","bÏ·Ωæk$fr∂´∫{∞}st","MS"," ",582
+"frost","VA4N","N109","N","N"," ","fr∑Ω∫{∞}s","MS"," ",583
+"frost","VA5A","107","N","N"," ","fr∑´∫{∞}s{t}","MS"," ",584
+"biting frost","VA5A","107","O","N"," ","b•±øtê±øÓ$fr∑∫{∞}s{t}","MS"," ",584
+"frost","VA5B","108","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",585
+"black frost","VA5B","108","O","N","heavier [than frost]","bl·k$fr∂´{∑Ω}s{t}","MS"," ",585
+"frost","VA6A","113","N","N"," ","fr∑óΩ∫{∞}st","MS"," ",586
+"black frost","VA6A","113","O","N","heavier [than frost]","bl·k$fr∑óΩ∫{∞}st","MS"," ",586
+"frost","VA6B","114","N","N"," ","fr∑Ω∫{∞}st","MS"," ",587
+"killing frost","VA6B","114","O","N","heavier [than frost]","k±lç±øΩn fr∑Ω∫{∞}st","MS"," ",587
+"frost","VA7A","121","N","N"," ","fr∑:s","MS"," ",588
+"frost","VA7B","122","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",589
+"frost","VA8A","123","N","N"," ","fr∑∫{∞}s{t}","MS"," ",590
+"chilly","VA8A","123","A","Y"," ","tÛ±l±øΩ","MS","INA",590
+"sharp","VA8A","123","A","Y"," ","Ûµæ∫p","MS","INA",590
+"right airish","VA8A","123","K","Y"," ","r•±øt$·{∞}{r}±øÛ","MS","INA",590
+"frost","VA8B","124","N","N"," ","fr∑Ωº{∑}s{t}","MS"," ",591
+"killing frost","VA8B","124","O","N"," ","kà±lç±øΩn$fr∑Ω{∑}s{t}","MS"," ",591
+"frost","VA8C!","125!","N","N"," ","fr∑∫{∞}s{t}","MS"," ",592
+"frost","VA9A","117","N","N"," ","fr∑:s","MS"," ",593
+"freeze","VA9A","117","N","N"," ","friΩæiz","MS"," ",593
+"frost","VA9B!","118!","N","N"," ","fr∑Ω{∑´}st","MS"," ",594
+"big frost","VA10A","127","O","N","heavier [than frost]","b±g$fr∑Ω∫s{t}","MS"," ",595
+"killing frost","VA10A","127","O","N","heavier [than frost]","k±l±øΩn$fr∑Ω∫s{t}","MS"," ",595
+"frost","VA10A","127","N","N"," ","fr∑Ω∫s{t}","MS"," ",595
+"frost","VA10B","128","N","N"," ","fr∑Ω∫{∑}s{t}","MS"," ",596
+"frost","VA11A","129","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",597
+"big frost","VA11A","129","O","N"," ","b±g$fr∑Ω∫{∞}s{t}","MS"," ",597
+"frost","VA11B","130","N","N"," ","fr∂î´º{∂´}st","MS"," ",598
+"frost","VA12N","N131","N","N"," ","fr∑:s","MS"," ",599
+"Jack Frost","VA12A","131","O","N"," ","d˙·k$fr∑Ω∫{∞}s{t}","MS"," ",600
+"frost","VA12B!","132!","N","N"," ","fr∑∫s{t}","MS"," ",601
+"freeze","VA12B!","132!","N","N","heavier [than frost]","fri{i´}{∞}z","MS"," ",601
+"frost","VA13A","133","N","N"," ","fr∂´∫{∞}st","MS"," ",602
+"killing frost","VA13A","133","O","N"," ","k±lç±øΩn$fr∂´:{∞}s{t}","MS"," ",602
+"frost","VA13B","134","N","N"," ","fr∑Ω{∑}st","MS"," ",603
+"frost","VA14A","135","N","N"," ","fr∂∫{∂´º}s{t}","MS"," ",604
+"freeze","VA14A","135","N","N"," ","friΩ∫z","MS"," ",604
+"sharp","VA14A","135","A","Y"," ","Û∂∫p","MS","INA",604
+"keen","VA14A","135","A","Y"," ","ki∫n","MS","INA",604
+"chilly","VA14A","135","A","Y"," ","tÛ±l±øΩ","MS","INA",604
+"frost","VA14B","136","N","N"," ","fr∂∂ó´s{t}","MS"," ",605
+"frost","VA14C","137","N","N","[∂´º{∑Ω}] is allophone of /∂:/","fr∂´º{∑Ω}s{t}","MS"," ",606
+"frost","VA15N","N139(*)","N","N"," ","fr∑∫s{t}","MS"," ",607
+"frost","VA15N","N139(*)","N","Y"," ","fr∑:s","MS","AUX",607
+"Jack Frost","VA15N","N139(*)","O","Y","a big one","d˙·k$fr∑:s","MS","AUX",607
+"frost","VA15A","139","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",608
+"frost","VA15B","140","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",609
+"killing frost","VA15B","140","O","N","heavier [than frost]","kà±´lç±øΩn$fr∑Ω{∑}s{t}","MS"," ",609
+"frost","VA16A","141","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",610
+"frost","VA16B","142","N","N"," ","fr∑∫{∑´}s{t}","MS"," ",611
+"frost","VA17A","143","N","N"," ","fr∑îΩ:{∞}s{t}","MS"," ",612
+"frost","VA17B","144","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",613
+"frost","VA18","145","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",614
+"frost","VA19A","146","N","N"," ","fr∑ó´:st","MS"," ",615
+"frost","VA19B","147","N","N"," ","fr∂ó´{∑}s{t}","MS"," ",616
+"frost","VA19C!","148!","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",617
+"heavy frost","VA19C!","148!","O","N"," ","h≤v±øΩ$fr∂´{∑Ω}s{t}","MS"," ",617
+"frost","VA20A","149","N","N"," ","fr∑∫s{t}","MS"," ",618
+"heavy frost","VA20A","149","O","N"," ","h≤v±ø$fr∑∫s{t}","MS"," ",618
+"frost","VA20B","150(*)","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",619
+"killing frost","VA20B","150(*)","O","N"," ","k±l±øÓ$fr∑Ω{∑}s{t}","MS"," ",619
+"freeze","VA20C"," ","N","N"," ","fr±´iΩz","MS"," ",620
+"frost","VA20C"," ","N","N"," ","fr∂´∫{∑Ω}s{t}","MS"," ",620
+"frost","VA21N","N153","N","N"," ","fÚ∑∫{∞}s","MS"," ",621
+"frost","VA21A","153","N","N"," ","frî∑Ω∫s{t}","MS"," ",622
+"black frost","VA21A","153","O","N"," ","bl·∫k$fr∑Ω∫s{t}","MS"," ",622
+"frost","VA21B","154","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",623
+"black frost","VA21B","154","O","N"," ","bl·∫k$fr∑Ω∫{∞}s{t}","MS"," ",623
+"frost","VA22","155","N","N"," ","fr∑Ω∫s{t}","MS"," ",624
+"frost","VA23A","156","N","N"," ","fr∑Ω∫{∞}st","MS"," ",625
+"frost","VA23B","157","N","N"," ","fr∂º∫{∂´}s{t}","MS"," ",626
+"killing frost","VA23B","157","O","N"," ","k±l±øΩn$fr∂º∫{∂´}s{t}","MS"," ",626
+"keen","VA23B","157","A","Y","rare","ki∫n","MS","SUG/INA",626
+"chilly","VA23B","157","A","Y"," ","tÛ±l±øΩ","MS","INA",626
+"frost","VA24","159","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",627
+"frost","VA25","160(*)","N","N","""had ice¢","fr∑:s{t}","MS"," ",628
+"frost","VA25","160(*)","N","Y"," ","fr∑Ω∫{∞}s{t}","MS","AUX",628
+"had ice","VA25","160(*)","E","Y"," ","h·d$•æ±øs","MS","INA",628
+"frost","VA26A","161A","N","N"," ","fr∂´∫{∞}s","MS"," ",629
+"sharp","VA26A","161A","A","Y"," ","Û∂∫p","MS","INA",629
+"airish","VA26A","161A","A","Y"," ","·{r}±øÛ","MS","INA",629
+"keen","VA26A","161A","A","Y"," ","kài∫n","MS","INA",629
+"frost","VA26B","161","N","N"," ","fr∂´º∫{∞}st","MS"," ",630
+"frost","VA26C","162","N","N"," ","fr∂´∫{∞}st","MS"," ",631
+"killing frost","VA26C","162","O","Y"," ","k±l±øÓ$fr∂´∫{∞}st","MS","DDT",631
+"frost","VA27","163(*)","N","N"," ","fr∂´∫{∞}st","MS"," ",632
+"frost","VA27","163(*)","N","Y"," ","fr∑Ω{∞}s{t}","MS","AUX",632
+"frost","VA28A","164","N","N"," ","fr∂´∫s{t}","MS"," ",633
+"Jack Frost","VA28A","164","O","N"," ","d˙·k$fr∂´∫s{t}","MS"," ",633
+"frost","VA28B","165","N","N"," ","fr∂´∑Ωst","MS"," ",634
+"killing frost","VA28B","165","O","N"," ","kà±lç±øn$fr∂´∑Ωst","MS"," ",634
+"frost","VA29","166","N","N"," ","fr∑Ω∫s{t}","MS"," ",635
+"killing frost","VA29","166","O","N"," ","kà{h}±{∞}Ï±øΩn$fr∑Ω∫s{t}","MS"," ",635
+"frost","VA30A","167","N","N"," ","fr∑∫{∞}s{t}","MS"," ",636
+"frost","VA30B!","167a!","N","N"," ","fr∑Ω∫s{t}","MS"," ",637
+"frost","VA30C!","168!","N","N"," ","fr∂´{∑}s{t}","MS"," ",638
+"freeze","VA30C!","168!","N","N","heavier [than frost]","friΩ∫z","MS"," ",638
+"chilly","VA30C!","168!","A","Y"," ","tÛ±{∞}l±øΩ","MS","INA",638
+"snappy","VA30C!","168!","A","Y","autumn, bracing","sn·p±øΩ","MS","SUG/INA",638
+"frost","VA30D!","169!","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",639
+"black frost","VA30D!","169!","O","N"," ","bl·k$fr∑Ω∫{∞}s{t}","MS"," ",639
+"frost","VA30E!","170!","N","N"," ","fr∂º{∑Ω}s{t}","MS"," ",640
+"freeze","VA30E!","170!","N","N"," ","friΩ{i}z","MS"," ",640
+"frost","VA31A","171(*)(**)","N","N"," ","fr∑Ω∫s","MS"," ",641
+"frost","VA31B","172","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",642
+"frost","VA31C"," ","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",643
+"killing frost","VA31C"," ","O","N"," ","kà±{∞}Ï±øΩn$fr∑Ω∫{∞}s{t}","MS"," ",643
+"frost","VA32!","175!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",644
+"killing frost","VA32!","175!","O","N"," ","kà±lç±øÓ$fr∑Ω∫{∞}st","MS"," ",644
+"frost","VA33A","173","N","N"," ","fr∑Ω∫{∞}st","MS"," ",645
+"frost","VA33B","174","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",646
+"frost","VA34A","177(*)","N","Y"," ","fr∑Ω∫{∞}s","MS","AUX",647
+"snappy","VA34A","177(*)","A","Y"," ","sn·p±øΩ","MS","INA",647
+"airish","VA34A","177(*)","A","Y","mild","·Ωær±øÛ","MS","INA",647
+"chilly","VA34A","177(*)","A","Y"," ","ÂtÛ±l±ø","MS","INA",647
+"frost","VA34B","178","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",648
+"frost","VA35A","179","N","N"," ","fr∑Ω∫{∞}s","MS"," ",649
+"killing frost","VA35A","179","O","N","heavier [than frost]","k±l±øΩn$fr∑Ω∫{∞}s","MS"," ",649
+"frost","VA35B","180","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",650
+"Jack Frost","VA35B","180","O","N"," ","d˙·´k$fr∂´{∑Ω}s{t}","MS"," ",650
+"frost","VA36A","181","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",651
+"frost","VA36B","182","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",652
+"frost","VA37","183","N","N"," ","fr∂´{∑Ω}st","MS"," ",653
+"freeze","VA37","183","N","N"," ","fr±´iΩz","MS"," ",653
+"frost","VA38","185","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",654
+"fresh","VA38","185","A","Y","disappearing","fr≤Û","MS","OLD/INA",654
+"chilly","VA38","185","A","Y"," ","tÛ±l±øΩ","MS","INA",654
+"frost","VA39!","186!","N","N"," ","fr∂îº{∂}s{t}","MS"," ",655
+"frost","VA40A","187","N","N"," ","fr∑Ω∫{∞}st","MS"," ",656
+"frost","VA40B","188","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",657
+"frost","VA41A","191","N","N"," ","fr∑∫{∞}s","MS"," ",658
+"Jack Frost","VA41A","191","O","N"," ","d˙·k$fr∑∫{∞}s","MS"," ",658
+"frost","VA41B","192","N","N"," ","fr∂´∫{∞}st","MS"," ",659
+"frost","VA42A","193(*)(**)","N","N"," ","fr∑Ω∫s{t}","MS"," ",660
+"frost","VA42A","193(*)(**)","N","Y"," ","fr∂´{∑Ω}{∞}s{t}","MS","AUX",660
+"killing frost","VA42A","193(*)(**)","O","Y"," ","kà±lç±øΩn$fr∂´{∑Ω}{∞}s{t}","MS","AUX",660
+"frost","VA42A","193(*)(**)","N","Y"," ","fr∂´{∑Ω}s{t}","MS","AUX2",660
+"black frost","VA42A","193(*)(**)","O","Y","heavier [than frost]","bl·k$fr∂´{∑Ω}s{t}","MS","AUX2",660
+"frost","VA42B","194","N","N"," ","fr∂´{∑Ω}{∞}s{t}","MS"," ",661
+"biting frost","VA42B","194","O","N"," ","b•±øtê±øÓ$fr∂´{∑Ω}{∞}s{t}","MS"," ",661
+"frost","VA43N","N195","N","N"," ","fr∑∫s","MS"," ",662
+"killing frost","VA43N","N195","O","N"," ","kà±l±øΩn$fr∑∫s","MS"," ",662
+"frost","VA43A","195","N","N"," ","fr∑∫{∞}s{t}","MS"," ",663
+"freeze","VA43A","195","N","N","heavier [than frost]","friæi´z","MS"," ",663
+"frost","VA43B","196","N","N"," ","fr∑∫{∞}s{t}","MS"," ",664
+"frost","VA44A","199","N","N"," ","fr∂ó´∑óΩs","MS"," ",665
+"frost","VA44B","200","N","N"," ","fr∂´{∑}s{t}","MS"," ",666
+"black frost","VA44B","200","O","N"," ","blç·´ºk$fr∂´{∑}s{t}","MS"," ",666
+"frost","VA45A","201","N","N"," ","fr∑∫{∑´}s{t}","MS"," ",667
+"keen","VA45A","201","A","Y"," ","ki∫n","MS","INA",667
+"frost","VA45B","202","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",668
+"killing frost","VA45B","202","O","N"," ","kà±lç±øÓ$fr∑Ω∫{∞}s{t}","MS"," ",668
+"frost","VA46N","N207","N","N"," ","fr∑Ω∫s","MS"," ",669
+"killing frost","VA46N","N207","O","N"," ","k{h}±lç∞´n$fr∑Ω∫s","MS"," ",669
+"sharp","VA46N","N207","A","Y"," ","Ûµ∫p","MS","SUG/INA",669
+"severe","VA46N","N207","A","Y"," ","s∞Âv±´∞","MS","INA",669
+"frost","VA46A","207","N","N"," ","fr∑Ω∑∫st","MS"," ",670
+"killing frost","VA46A","207","O","N"," ","k{h}±l±øΩn$fr∑Ω∑∫st","MS"," ",670
+"frost","VA46A","207","N","Y"," ","fr∂´{∑Ω}st","MS","AUX",670
+"black frost","VA46A","207","O","Y","heavier [than frost]","bl·k$fr∂´{∑Ω}st","MS","AUX",670
+"sharp","VA46A","207","A","Y"," ","Ûµ∫{∞}p","MS","INA",670
+"airish","VA46A","207","A","Y"," ","µ´ºr±øΩÛ","MS","INA",670
+"keen","VA46A","207","A","Y"," ","kài∫n","MS","AUX/INA",670
+"airish","VA46A","207","A","Y"," ","·ær±øÛ","MS","AUX/INA",670
+"frost","VA46B!","208!","N","N"," ","fr∂´∫{∞}s{t}","MS"," ",671
+"freeze","VA46B!","208!","N","N"," ","fr±´iz","MS"," ",671
+"frost","VA47","211","N","N"," ","fr∑Ω∫{∞}st","MS"," ",672
+"freeze","VA47","211","N","N","heavier [than frost]","fri:z","MS"," ",672
+"frost","VA48A","213(*)","N","N"," ","fr∂´{∑Ω}{∞}st","MS"," ",673
+"black frost","VA48A","213(*)","O","Y"," ","blç·´ºk$fr∂´∑ós{t}","MS","AUX",673
+"killing frost","VA48A","213(*)","O","N"," ","kà±´lç±øΩn$fr∂ó´∫{∞}s{t}","MS"," ",673
+"frost","VA48A","213(*)","N","Y"," ","fr∂´∑ós{t}","MS","AUX",673
+"frost","VA48B","214","N","N"," ","fr∂´∑óΩs{t}","MS"," ",674
+"killing frost","VA48B","214","O","N"," ","kà±´lç±øn$fr∂´∑óΩs{t}","MS"," ",674
+"frost","VA49A","215","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",675
+"killing frost","VA49A","215","O","N"," ","kà±´lç±øΩn$fr∑Ω∫{∞}s{t}","MS"," ",675
+"frost","VA49B","216","N","N"," ","fr∑Ω{∑ó}s{t}","MS"," ",676
+"frost","VA50A","217","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",677
+"freeze","VA50A","217","N","N"," ","fr±´iΩz","MS"," ",677
+"frost","VA50B","218","N","N"," ","fr∂´∑st","MS"," ",678
+"big frost","VA50B","218","O","N"," ","b±g$fr∂´∑st","MS"," ",678
+"frost","VA51A","219","N","N"," ","fr∑Ω∫{∞}s","MS"," ",679
+"black frost","VA51A","219","O","N"," ","bl·´k$fr∑Ω∫{∞}s","MS"," ",679
+"NA","VA51B","220(*)"," ","N"," "," ","MS"," ",680
+"frost","VA51C"," ","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",681
+"frost","VA52A","224","N","N"," ","fr∂´∫{∞}s{t}","MS"," ",682
+"frost","VA52B","225","N","N"," ","fr∂ó´∫{∞}s{t}","MS"," ",683
+"frost","VA52C!","226!","N","N"," ","fr∂ó´∫{∞}s{t}","MS"," ",684
+"black frost","VA52C!","226!","O","N"," ","bl·k$fr∂ó´∫{∞}s{t}","MS"," ",684
+"frost","VA53A","227","N","N"," ","fr∑Ω:s{t}","MS"," ",685
+"frost","VA53B","228","N","N"," ","fr∑Ω∫st","MS"," ",686
+"killing frost","VA53B","228","O","N"," ","kà±{∞}Ï±øÓ$fr∑Ω∫st","MS"," ",686
+"black frost","VA53B","228","O","N"," ","bÏ·k$fr∑Ω∫st","MS"," ",686
+"frost","VA54A","229","N","N"," ","fr∑Ω{∑´}s{t}","MS"," ",687
+"black frost","VA54A","229","O","N","heavier [than frost]","bl·´k$fr∑Ω{∑´}s{t}","MS"," ",687
+"keen","VA54A","229","A","Y"," ","k±´jn","MS","INA",687
+"airish","VA54A","229","A","Y","wind","·{±øΩ}¥|±øÛ","MS","INA",687
+"frost","VA54B","230","N","N"," ","fr∑Ω∫{∞}st","MS"," ",688
+"frost","VA55A","233(*)","N","N"," ","fr∑´∫{∞}s{t}","MS"," ",689
+"frost","VA55A","233(*)","N","Y"," ","fr∑∫{∞}s{t}","MS","AUX",689
+"freeze","VA55A","233(*)","N","N"," ","friΩæiz","MS"," ",689
+"Reif","VA55A","233(*)","N","Y","[German]","rµº∫±øΩf∞","MS","AUX/INA",689
+"keen","VA55A","233(*)","A","Y"," ","kiΩjn","MS","INA",689
+"frosty","VA55A","233(*)","A","Y"," ","fr∑´∫st±ø´","MS","INA",689
+"recht luftig","VA55A","233(*)","K","Y"," ","’≤cçt$lπ´ft±cç","MS","AUX/INA",689
+"right airish","VA55A","233(*)","K","Y"," ","r•±øt$Â≤¥|±øÛ","MS","AUX/INA",689
+"frost","VA55B","234(*)","N","N"," ","fr∂´{∑}st","MS"," ",690
+"black frost","VA55B","234(*)","O","N"," ","bl·k$fr∑Ω{∞}st","MS"," ",690
+"freeze","VA55B","234(*)","N","Y","heavier [than frost]","fr±iΩz","MS","AUX",690
+"frost","VA55B","234(*)","N","Y"," ","fr∑Ω∫{∞}st","MS","AUX",690
+"frost","VA56A","237","N","N"," ","fr∑Ω{∑}st","MS"," ",691
+"freeze","VA56A","237","N","N"," ","friΩæiz","MS"," ",691
+"frost","VA56B","238","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",692
+"freeze","VA56B","238","N","N","heavier [than frost]","friΩæ∫jz","MS"," ",692
+"frost","VA57A","239","N","N"," ","fr∂º{∞}s{t}","MS"," ",693
+"freeze","VA57A","239","N","N"," ","friΩæiz","MS"," ",693
+"frost","VA57B","240","N","N"," ","fr∂´∫{∞}st","MS"," ",694
+"freeze","VA57B","240","N","N"," ","friΩæiz","MS"," ",694
+"frost","VA58","241(*)","N","N"," ","fr∂ó´∫s{t}","MS"," ",695
+"killing frost","VA58","241(*)","O","Y","heavier [than frost]","k±l±øΩn$fr∑∫s{t}","MS","AUX",695
+"frost","VA58","241(*)","N","Y"," ","fr∑∫s{t}","MS","AUX",695
+"frost","VA59N","N241","N","N"," ","fr∑∫{∞}s{t}","MS"," ",696
+"blackjack frost","VA59N","N241","O","N","heavier [than frost]","Âbl·´kd˙·´k$Âfr∑∫s{t}","MS"," ",696
+"raw","VA59N","N241","A","Y","damp also","r∑{∑´}","MS","INA",696
+"fresh","VA59N","N241","A","Y","a little bit chilly","fr≤´Û","MS","INA",696
+"frost","VA59A","242","N","N"," ","fr∑îΩ∑´{∞}s{t}","MS"," ",697
+"killing frost","VA59A","242","O","N","heavier [than frost]","k±lç±øΩn$fr∑îΩ∑´{∞}s{t}","MS"," ",697
+"frost","VA59B!","243!","N","N"," ","fr∑Ωº∫{∑}s{t}","MS"," ",698
+"frost","VA60","244(*)","N","Y"," ","fr∂st","MS","AUX",699
+"freeze","VA60","244(*)","N","Y","heavier [than frost]","friΩæiz","MS","AUX",699
+"frost","VA61A","245(*)","N","N"," ","fr∂´º{∞´æ}st","MS"," ",700
+"black frost","VA61A","245(*)","O","N","heavier [than frost]","bl·›´k$fr∂´º∫{∑´æ}st","MS"," ",700
+"snappy","VA61A","245(*)","A","Y","colder [than `airish']","sn·p±ø","MS","INA",700
+"airish","VA61A","245(*)","A","Y","cold","·{e}r±øΩÛ","MS","INA",700
+"frosty","VA61A","245(*)","A","Y","air cold","fr∂´º{∞´æ}st±ø","MS","INA",700
+"frost","VA61B!","246!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",701
+"NA","VA61C"," "," ","N"," "," ","MS"," ",702
+"frost","VA62A","247(*)","N","N"," ","fr∑Ω∑ós{t}","MS"," ",703
+"frost","VA62A","247(*)","N","Y"," ","fr∑óΩ∫{∞}s{t}","MS","AUX",703
+"freeze","VA62A","247(*)","N","Y"," ","friΩ∫{∞}z","MS","AUX",703
+"frost","VA62B","248","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",704
+"Jack Frost","VA62B","248","O","N","heavy","d˙·k$fr∑Ω∫{∞}s{t}","MS"," ",704
+"frost","VA63A","251","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",705
+"frost","VA63B","252","N","N"," ","fr∑Ω∫{∞}st","MS"," ",706
+"frost","VA64A","255","N","N"," ","fr∑Ω{∑ó}s","MS"," ",707
+"big frost","VA64A","255","O","N"," ","b±g$fr∑Ω{∑ó}s","MS"," ",707
+"frost","VA64B","256","N","N"," ","fr∂´º{∑óΩ}s{t}","MS"," ",708
+"freeze","VA64B","256","N","N","heavier [than frost]","friΩj{∞}z","MS"," ",708
+"frost","VA65A","257","N","N"," ","fr∂´∫{∞}st","MS"," ",709
+"freeze","VA65A","257","N","N"," ","friæiz","MS"," ",709
+"sharp","VA65A","257","A","Y"," ","Ûµ´ºrp","MS","INA",709
+"frost","VA65B","258","N","N"," ","fr∑Ω∫{∞}st","MS"," ",710
+"black frost","VA65B","258","O","N","heavier [than frost]","bl·k$fr∑Ω∫{∞}st","MS"," ",710
+"airish","VA65B","258","A","Y"," ","µ{∞}r±øÛ","MS","INA",710
+"keen","VA65B","258","A","Y","wind","kiΩin","MS","INA",710
+"frost","VA65C!","259!","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",711
+"frost","VA66A","261","N","N"," ","fr∑Ω∫{∞}st","MS"," ",712
+"frost","VA66B","262","N","N"," ","fr∑Ω{∑}{∞}s{t}","MS"," ",713
+"big frost","VA66B","262","O","N","heavier [than frost]","b±g$fr∑Ω{∑}{∞}s{t}","MS"," ",713
+"frost","VA67A","267","N","N"," ","fr∑Ω∫{∑}s{t}","MS"," ",714
+"frost","VA67B","268","N","N"," ","fr∂´∫{∞}s{t}","MS"," ",715
+"frost","VA68A","269","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",716
+"frost","VA68B","270","N","N"," ","fr∑∫{∞}st","MS"," ",717
+"frost","VA69A","273","N","N"," ","fr∂´{∑Ω}s{t}","MS"," ",718
+"frost","VA69B","274","N","N"," ","fr∂´{∑}s{t}","MS"," ",719
+"killing frost","VA69B","274","O","N"," ","kà±l±øΩn$fr∂´{∑}s{t}","MS"," ",719
+"frost","VA70A","275","N","N"," ","fr∑∫st","MS"," ",720
+"freeze","VA70A","275","N","N","heavier [than frost]","friΩ∫z","MS"," ",720
+"piercing","VA70A","275","A","Y"," ","p±´{∞}rs∞´n","MS","INA",720
+"airish","VA70A","275","A","Y","jocularly","·{∞}r±øÛ","MS","AMS/INA",720
+"frost","VA70B","276","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",721
+"freeze","VA70B","276","N","N","heavier [than frost]","fr±´∫iΩz","MS"," ",721
+"frost","VA71A","285","N","N"," ","fr∑Ω∫st","MS"," ",722
+"frost","VA71B","286","N","N"," ","fr∂´{∑Ω}st","MS"," ",723
+"frost","VA72A","287","N","N"," ","fr∑Ω∑st","MS"," ",724
+"frost","VA72B","288","N","N"," ","fr∂´∫{∞}s{t}","MS"," ",725
+"frost","VA73","291","N","N"," ","fr∑Ω∫{∞}st","MS"," ",726
+"frost","VA74A","293","N","N"," ","fr∂´∫s{t}","MS"," ",727
+"frost","VA74A","293","N","N"," ","fr∑Ω∫s{t}","MS"," ",727
+"frost","VA74B!","294!","N","N"," ","fr∂´∫{∑Ω}st","MS"," ",728
+"Jack Frost","VA74B!","294!","O","N","heavier [than frost]","d˙·k$fr∂´∫{∑Ω}st","MS"," ",728
+"freeze","VA75A","297","N","N","heavier [than frost]","fr±´iΩz","MS"," ",729
+"frost","VA75A","297","N","N"," ","fr∂´∫{∑Ω}s{t}","MS"," ",729
+"frost","VA75B","298","N","N"," ","fr∂´∫{∞}st","MS"," ",730
+"freeze","VA75B","298","N","N"," ","fr±´iΩz","MS"," ",730
+"frost","NC1","303","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",731
+"frost","NC2A","301","N","Y"," ","fr∂´∫st","MS","AUX2",732
+"killing frost","NC2A","301","O","Y"," ","kà±lç±øΩn$fr∑Ω∫st","MS","AUX2",732
+"airish","NC2A","301","A","Y"," ","·æ{∞}r±øΩÛ","MS","AUX2/INA",732
+"piercing","NC2A","301","A","Y"," ","pij{±}∞é{r}s±øΩn","MS","AUX2/INA",732
+"frost","NC2B","304","N","N"," ","fr∑∫{∑´}s{t}","MS"," ",733
+"frost","NC3A","305","N","N"," ","fr∑:s{t}","MS"," ",734
+"Jack Frost","NC3A","305","O","N","points of ice stick up out of ground","d˙·'k$fr∑:s{t}","MS"," ",734
+"frosts","NC3A","305","N","N","plural","fr∑:s{t}±øz","MS"," ",734
+"frost","NC3B","306","N","N"," ","fr∑Ω∑st","MS"," ",735
+"frost","NC4A","307","N","N"," ","fr∑∫st","MS"," ",736
+"freeze","NC4A","307","N","N"," ","friæi∫z","MS"," ",736
+"frost","NC4B","308","N","N"," ","fr∑Ω{∑´}s{t}","MS"," ",737
+"freeze","NC4B","308","N","N"," ","fr±´æiz","MS"," ",737
+"frost","NC5A","309","N","N"," ","fr∑Ω∑st","MS"," ",738
+"frost","NC5B","310","N","N"," ","fr∑Ω∑s{t}","MS"," ",739
+"frost","NC6!","311!","N","N"," ","fr∑Ω∑´s{t}","MS"," ",740
+"freeze","NC6!","311!","N","N"," ","friΩ∫{i}z","MS"," ",740
+"frost","NC7A","315(*)","N","Y"," ","fr∂´{∑}s{t}","MS","AUX",741
+"frosts","NC7A","315(*)","N","Y","plural","fr∂´{∞}st±øz","MS","AUX",741
+"killing frost","NC7A","315(*)","O","Y","heavier [than frost]","kà±l±øΩn$fr∂´{∑}s{t}","MS","AUX",741
+"black frost","NC7A","315(*)","O","Y","heavier [than frost]","bl·ºk$fr∂´{∑}s{t}","MS","AUX",741
+"chilly","NC7A","315(*)","A","Y"," ","tÛ±lç±øΩ","MS","AUX/INA",741
+"sharp","NC7A","315(*)","A","Y"," ","Ûµ∫p","MS","INA",741
+"airish","NC7A","315(*)","A","Y"," ","·´ær±øÛ","MS","INA",741
+"frost","NC7B","316","N","N"," ","fr∑{∑´}st","MS"," ",742
+"frost","NC8N","N317","N","N"," ","fr∑∫s","MS"," ",743
+"freeze","NC8N","N317","N","N"," ","friiz","MS"," ",743
+"frost","NC8A","317","N","N"," ","fr∂´∑Ωst","MS"," ",744
+"black frost","NC8A","317","O","N"," ","bl·'k$fr∂´∑Ωst","MS"," ",744
+"frost","NC8B","318(*)","N","N"," ","fr∑Ω∫{∞}st","MS"," ",745
+"frost","NC9A","319","N","N"," ","fr∑∫{∞}st","MS"," ",746
+"frost","NC9B","320","N","N"," ","fr∑Ω∑s{t}","MS"," ",747
+"frost","NC10A","321","N","N"," ","fr∑Ω∫st","MS"," ",748
+"freeze","NC10A","321","N","N","heavier [than frost]","friΩæ∫{i}z","MS"," ",748
+"sharp","NC10A","321","A","Y"," ","Ûµ´rîp","MS","INA",748
+"fresh","NC10A","321","A","Y","starting","frî≤Û","MS","INA",748
+"frost","NC10B","323","N","N"," ","fr∑∫st","MS"," ",749
+"frost","NC10C","322","N","N"," ","fr∑ó:st","MS"," ",750
+"frost","NC11A","325","N","N"," ","fr∂´∑Ωst","MS"," ",751
+"freeze","NC11A","325","N","N","heavier [than frost]","fr±Ωæiz","MS"," ",751
+"frost","NC11B","326","N","N"," ","fr∑Ω∫{∞}st","MS"," ",752
+"freeze","NC11B","326","N","N"," ","fr±´iz","MS"," ",752
+"frost","NC12A","327(*)","N","N"," ","fr∂´∑Ωs{t}","MS"," ",753
+"frost","NC12A","327(*)","N","Y"," ","fr∑∫st","MS","AUX",753
+"killing frost","NC12A","327(*)","O","Y","heavier [than frost]","k±lç±øΩn$fr∑∫st","MS","AUX",753
+"black frost","NC12A","327(*)","O","Y","heavier [than frost]","bl·k$fr∑∫st","MS","AUX",753
+"frost","NC12B","328","N","N"," ","fr∑Ωº∑´s{t}","MS"," ",754
+"frost","NC13A","329","N","N"," ","fr∑Ω∑∫s{t}","MS"," ",755
+"frost","NC13B","330(*)","N","N"," ","fr∑Ω∫∑s{t}","MS"," ",756
+"frost","NC13B","330(*)","N","Y"," ","fr∂´∑st","MS","AUX",756
+"frost","NC14N","N331","N","N"," ","fr∑Ω∫s","MS"," ",757
+"black frost","NC14N","N331","O","N"," ","bl·k$fr∑Ω∫s","MS"," ",757
+"frost","NC14A","331","N","N"," ","fr∂´∫∑Ωs{t}","MS"," ",758
+"frost","NC14B","332","N","N"," ","fr∑Ω∫{∞}st","MS"," ",759
+"freeze","NC14B","332","N","N","heavier [than frost]","friΩiz","MS"," ",759
+"airish","NC14B","332","A","Y"," ","·{∞}r±øÛ","MS","INA",759
+"sharp","NC14B","332","A","Y"," ","Ûµæ∫{∞é}p","MS","INA",759
+"frost","NC14C!","333!","N","N"," ","fr∂´∑Ωst","MS"," ",760
+"freeze","NC14C!","333!","N","N"," ","friΩæiz","MS"," ",760
+"frost","NC15A","335(*)","N","N"," ","fr∑∑´st","MS"," ",761
+"frost","NC15B","336","N","N"," ","fr∂´∑Ωst","MS"," ",762
+"frost","NC15C"," ","N","N"," ","fr∑Ω∑s{t}","MS"," ",763
+"freeze","NC15C"," ","N","N"," ","friΩæiz","MS"," ",763
+"frost","NC16A","339(*)","N","N"," ","fr∂´∑st","MS"," ",764
+"frost","NC16B","340","N","N"," ","fr∑Ω∑´s{t}","MS"," ",765
+"frost","NC17A","337","N","N"," ","fr∑∑´st","MS"," ",766
+"freeze","NC17A","337","N","N","heavier [than frost]","friΩæiz","MS"," ",766
+"frosts","NC17A","337","N","N","plural","fr∑Ω∫∑st±øz","MS"," ",766
+"frost","NC17B","338","N","N"," ","fr∂´∑Ωs{t}","MS"," ",767
+"frost","NC18A","341","N","N"," ","fr∑∫st","MS"," ",768
+"frost","NC18B","342","N","N"," ","fr∑∫s{t}","MS"," ",769
+"frost","NC19A","343","N","N"," ","fr∑Ω∑´st","MS"," ",770
+"frost","NC19B","344","N","N"," ","fr∑´∫st","MS"," ",771
+"frost","NC20A","345","N","N"," ","fr∂´∫{∞}st","MS"," ",772
+"edgy","NC20A","345","A","Y"," ","eΩ{±ø}d˙±ø","MS","INA",772
+"airish","NC20A","345","A","Y"," ","≤¥é±øÛ","MS","INA",772
+"chilly","NC20A","345","A","Y"," ","tÛ±l±øΩ","MS","INA",772
+"sharp","NC20A","345","A","Y"," ","Ûµ¥é∫p","MS","INA",772
+"frost","NC20B","346a","N","N"," ","fr∂´∫{∞}st","MS"," ",773
+"frost","NC20C","346b","N","N"," ","fr∂´∫{∞}st","MS"," ",774
+"frost","NC21A","347","N","N"," ","fr∑ó:st","MS"," ",775
+"frost","NC21B","348","N","N"," ","fr∑∫st","MS"," ",776
+"frost","NC22A","349","N","N"," ","fÒé›∑´∫st","MS"," ",777
+"freeze","NC22A","349","N","N"," ","friΩ∫{i}z","MS"," ",777
+"sharp","NC22A","349","A","Y"," ","Ûµ∫{∞é}p","MS","INA",777
+"airish","NC22A","349","A","Y"," ","eΩæ{∞}r±øÛ","MS","INA",777
+"raw","NC22A","349","A","Y"," ","r∑∫{∑´}","MS","INA",777
+"chilly","NC22A","349","A","Y"," ","tÛ±lç±ø","MS","INA",777
+"frost","NC22B","349b","N","N"," ","fr∂´∫{∞}st","MS"," ",778
+"frost","NC23A","351a","N","N"," ","fr∑∫{∞}st","MS"," ",779
+"freeze","NC23A","351a","N","N"," ","friæiz","MS"," ",779
+"frost","NC23B","351b(*)","N","N"," ","fr∑Ω∫st","MS"," ",780
+"freeze","NC23B","351b(*)","N","N"," ","friΩæiz","MS"," ",780
+"frost","NC23C!","351c!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",781
+"freeze","NC23C!","351c!","N","N"," ","friæ∫{∞´æ}z","MS"," ",781
+"frost","NC23D!","351d!","N","N"," ","fr∑Ω∑s{t}","MS"," ",782
+"killing frost","NC23D!","351d!","O","N"," ","k±l±øÓ$fr∑Ω∫st","MS"," ",782
+"freeze","NC23D!","351d!","N","N"," ","fri∫{i}{∞æ}z","MS"," ",782
+"frost","NC24N","N352","N","N"," ","fr∑∫s{t}","MS"," ",783
+"frost","NC24A","352a","N","N"," ","fr∑s{t}","MS"," ",784
+"freeze","NC24A","352a","N","N"," ","friz","MS"," ",784
+"frost","NC24B","352b","N","N"," ","fr∑Ω∫{∞}st","MS"," ",785
+"frost","NC25N","N353","N","N"," ","fr∑Ω∑s","MS"," ",786
+"black frost","NC25N","N353","O","N"," ","bl·k$fr∑Ω∑s","MS"," ",786
+"sharp","NC25N","N353","A","Y"," ","Ûµ∫{∞é}p","MS","INA",786
+"sharp","NC25N","N353","A","Y"," ","Ûµ∫¥p","MS","INA",786
+"chilly","NC25N","N353","A","Y"," ","tÛ±lç±ø","MS","INA",786
+"airish","NC25N","N353","A","Y"," ","·´{∞}r±øÛ","MS","SUG/INA",786
+"keen","NC25N","N353","A","Y"," ","ki∫n","MS","SUG/INA",786
+"frost","NC25A","353","N","N"," ","fr∑Ω∫st","MS"," ",787
+"frost","NC25B","354","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",788
+"black frost","NC25B","354","O","N"," ","bl·k$fr∑Ω∫s{t}","MS"," ",788
+"keen","NC25B","354","A","Y"," ","kài∫n","MS","INA",788
+"sharp","NC25B","354","A","Y"," ","Ûµ∫p","MS","INA",788
+"chilly","NC25B","354","A","Y"," ","tÛ±lç±ø","MS","INA",788
+"airish","NC25B","354","A","Y","especially women","·r±øÛ","MS","SUG/INA",788
+"frost","NC26A","355a","N","N"," ","fr∑∑´st","MS"," ",789
+"freeze","NC26A","355a","N","N"," ","friæiz","MS"," ",789
+"frost","NC26B","355b","N","N"," ","fr∑Ω∑´st","MS"," ",790
+"freeze","NC26B","355b","N","N"," ","fr±´iΩz","MS"," ",790
+"frost","NC26C!","356!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",791
+"killing frost","NC26C!","356!","O","N"," ","k±l±øÓ$fr∑Ω∫{∞}st","MS"," ",791
+"freeze","NC26C!","356!","N","N","heaviest","friΩæiz","MS"," ",791
+"frost","NC27A","357","N","N"," ","fr∑∫st","MS"," ",792
+"freeze","NC27A","357","N","N"," ","friΩæiz","MS"," ",792
+"frost","NC27B","258","N","N"," ","fr∑Ω∑´st","MS"," ",793
+"freeze","NC27B","258","N","N"," ","friæiz","MS"," ",793
+"frost","NC28A","361","N","N"," ","fr∑Ω∑st","MS"," ",794
+"freeze","NC28A","361","N","N"," ","fr±´æiz","MS"," ",794
+"frost","NC28B","361b","N","N"," ","fr∑∑´st","MS"," ",795
+"heavy frost","NC28B","361b","O","N"," ","h≤v±ø$fr∑∑´st","MS"," ",795
+"freeze","NC28B","361b","N","N","more severe than a heavy frost","friæiz","MS"," ",795
+"frost","NC28C","362","N","N"," ","fr∑Ω∑´st","MS"," ",796
+"freeze","NC28C","362","N","N"," ","friæiz","MS"," ",796
+"frost","NC29A","363(*)","N","N"," ","fr∑∫s","MS"," ",797
+"freeze","NC29A","363(*)","N","N","heavier [than frost]","friΩ∫z","MS"," ",797
+"frost","NC29A","363(*)","N","Y"," ","fr∂´{∑ó}st","MS","AUX",797
+"killing frost","NC29A","363(*)","O","Y"," ","kà±´lç±ø´n$fr∂´{∑ó}st","MS","AUX",797
+"sharp","NC29A","363(*)","A","Y"," ","Ûµærp","MS","INA",797
+"galey day","NC29A","363(*)","O","Y","windy","ıgàe{±ø}l±ø$Âde{±ø}","MS","INA",797
+"chilly","NC29A","363(*)","A","Y"," ","tÛ±´æ{∞}lç±ø","MS","AUX/INA",797
+"airish","NC29A","363(*)","A","Y"," ","·{∞}r±øÛ","MS","INA",797
+"airish","NC29A","363(*)","A","Y"," ","·r±øÛ","MS","AUX/INA",797
+"sharp","NC29A","363(*)","A","Y"," ","Ûµ∫{∞é}p","MS","AUX/INA",797
+"frost","NC29B","364","N","N"," ","fr∑Ω∑st","MS"," ",798
+"killing frost","NC29B","364","O","N"," ","k±l±øΩn$fr∑Ω∑st","MS"," ",798
+"frost","NC30A","365","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",799
+"big frost","NC30A","365","O","N"," ","b±g$fr∑Ω{∑}s{t}","MS"," ",799
+"frost","NC30B","366","N","N"," ","fr∑Ω∫{∞}st","MS"," ",800
+"killing frost","NC30B","366","O","N"," ","kà±lç±øΩn$fr∑Ω∫{∞}st","MS"," ",800
+"frost","NC31A","367","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",801
+"killing frost","NC31A","367","O","N"," ","kà±´l±øΩn$fr∑Ω{∑}s{t}","MS"," ",801
+"frost","NC31B","368","N","N"," ","fr∑{∑´}s{t}","MS"," ",802
+"freeze","NC31B","368","N","N"," ","fr±´æiΩz","MS"," ",802
+"frost","NC32A","369","N","N"," ","fr∑{∑´}s{t}","MS"," ",803
+"black frost","NC32A","369","O","N"," ","blç·k$fr∑{∑´}s{t}","MS"," ",803
+"sharp","NC32A","369","A","Y"," ","Ûµ´{∞é}p","MS","SUG/INA",803
+"airish","NC32A","369","A","Y"," ","·æ{∞}r±øÛ","MS","SUG/INA",803
+"snappy","NC32A","369","A","Y"," ","sn·p±øΩ","MS","SUG/INA",803
+"frost","NC32B!","370!","N","N"," ","fr∂´∑Ωst","MS"," ",804
+"frost","NC33A","373","N","N"," ","fr∑Ω∫∑´s{t}","MS"," ",805
+"frost","NC33B","374","N","N"," ","fr∑Ω∑st","MS"," ",806
+"frost","NC34A","375","N","N"," ","fr∑∑´st","MS"," ",807
+"frost","NC34A","375","N","N"," ","fr∑oΩst","MS"," ",807
+"frost","NC34B","376","N","N"," ","fr∑∑´st","MS"," ",808
+"freeze","NC34B","376","N","N"," ","friΩiz","MS"," ",808
+"frost","NC35A","377","N","N"," ","fr∑Ω{∑}st","MS"," ",809
+"black frost","NC35A","377","O","Y","heavier [than frost]","bl·k$fr∑Ω{∑}st","MS","SUG",809
+"airish","NC35A","377","A","Y","when real warm and then a cold wind comes up","·{∞}r±øÛ","MS","SUG/INA",809
+"keen","NC35A","377","A","Y"," ","kài∫n","MS","SUG/INA",809
+"chilly","NC35A","377","A","Y"," ","tÛ±lç±ø","MS","INA",809
+"sharp","NC35A","377","A","Y"," ","Ûµæ∫p","MS","SUG/INA",809
+"frost","NC35B","378","N","N"," ","fr∑Ω∑´st","MS"," ",810
+"freeze","NC35B","378","N","N"," ","friæiz","MS"," ",810
+"frost","NC36N","N381","N","N"," ","fr∑∫s{t}","MS"," ",811
+"freeze","NC36N","N381","N","N"," ","fri∫z","MS"," ",811
+"frost","NC36A","381","N","N"," ","fr∑Ω∫st","MS"," ",812
+"freeze","NC36A","381","N","N"," ","friæiz","MS"," ",812
+"frost","NC36B","382","N","N"," ","fr∑Ω∑st","MS"," ",813
+"killing frost","NC36B","382","O","N"," ","k±l±øΩn$fr∑Ω∑st","MS"," ",813
+"freeze","NC36B","382","N","N","coldest","friæiz","MS"," ",813
+"frost","NC37A","383","N","N"," ","fr∑∑´s{t}","MS"," ",814
+"killing frost","NC37A","383","O","N"," ","kà±lç±øΩn$fr∑∑´s{t}","MS"," ",814
+"frost","NC37B","384","N","N"," ","fr∂´∫∑Ωs{t}","MS"," ",815
+"killing frost","NC37B","384","O","N"," ","kà±lç±øΩn$frî∂´∑Ωs{t}","MS"," ",815
+"frost","NC38N","N385","N","N"," ","fr∑∫s","MS"," ",816
+"black frost","NC38N","N385","O","N"," ","bl·k$fr∑∫s","MS"," ",816
+"frost","NC38A","385","N","N"," ","fr∑∫∑´st","MS"," ",817
+"frost","NC38B","386","N","N"," ","fr∑Ω∑st","MS"," ",818
+"freeze","NC38B","386","N","N","heavier [than frost]","fr±æiΩz","MS"," ",818
+"frost","NC39A","389","N","N"," ","fr∑Ω∫{∞}s","MS"," ",819
+"freeze","NC39A","389","N","N","heavier [than frost]","fr±´iΩz","MS"," ",819
+"frost","NC39B!","390!","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",820
+"killing frost","NC39B!","390!","O","N"," ","kà±lç±øΩn$fr∑Ω∫{∞}s{t}","MS"," ",820
+"frost","NC40A","391","N","N"," ","fr∑∫s{t}","MS"," ",821
+"Jack Frost","NC40A","391","O","N","heavier [than frost]","d˙·k$fr∑∫s{t}","MS"," ",821
+"edgy","NC40A","391","A","Y"," ","·´∫d˙±ø","MS","INA",821
+"frost","NC40B","392","N","N"," ","fr∑Ω∫st","MS"," ",822
+"hard freeze","NC40B","392","O","N"," ","hﬁóº∫{∞é}d$friΩæiz","MS"," ",822
+"frost","NC41!","393!","N","N"," ","fr∂´∫{∞}st","MS"," ",823
+"black frost","NC41!","393!","O","N"," ","bl·k$fr∂´∫{∞}st","MS"," ",823
+"frost","NC42A","403","N","N"," ","fr∑Ω∫{∞}st","MS"," ",824
+"freeze","NC42A","403","N","N"," ","friΩæiz","MS"," ",824
+"frost","NC42B","404(*)","N","N"," ","fr∑Ω∑st","MS"," ",825
+"killing frost","NC42B","404(*)","O","N","heaviest","k±lç±øΩn$fr∑Ω∑st","MS"," ",825
+"Jack Frost","NC42B","404(*)","O","N","puffs up out of ground","d˙·k$fr∑Ω∑st","MS"," ",825
+"freeze","NC42B","404(*)","N","Y"," ","friΩæ∫{j}z","MS","AUX",825
+"frost","NC43A","397","N","N"," ","fr∑Ω∑st","MS"," ",826
+"killing frost","NC43A","397","O","N"," ","k±{∞}l±øΩn$fr∑Ω∑st","MS"," ",826
+"frost","NC43B","398","N","N"," ","fr∑∫st","MS"," ",827
+"freeze","NC43B","398","N","N"," ","fr±´iz","MS"," ",827
+"frost","NC44","410(*)","N","N"," ","fr∑Ω∫{∞}st","MS"," ",828
+"killing frost","NC44","410(*)","O","N"," ","k±lç±øΩn$fr∑Ω∫{∞}st","MS"," ",828
+"frost","NC44","410(*)","N","Y"," ","fr∂´∫st","MS","AUX",828
+"freeze","NC44","410(*)","N","Y"," ","friΩiz","MS","AUX",828
+"frost","NC45A","409(*)","N","N"," ","fr∑Ω∫st","MS"," ",829
+"black frost","NC45A","409(*)","O","N"," ","bl·Ωæk$fr∑Ω∫st","MS"," ",829
+"frost","NC45B"," ","N","N"," ","fr∑Ω∫{∞}st","MS"," ",830
+"freeze","NC45B"," ","N","N"," ","friΩ∫z","MS"," ",830
+"frost","NC46A","411","N","N"," ","fr∂´∑Ωst","MS"," ",831
+"freeze","NC46A","411","N","N","heavier [than frost]","friΩiz","MS"," ",831
+"frost","NC46B","412","N","N"," ","fr∑Ω∫st","MS"," ",832
+"freeze","NC46B","412","N","N"," ","friΩiz","MS"," ",832
+"frost","NC46C!","412b!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",833
+"frost","NC46C!","412b!","N","N"," ","k±l±øÓ$fr∑Ω∫{∞}st","MS"," ",833
+"frost","NC47","413","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",834
+"snappy","NC47","413","A","Y"," ","sn·p±ø","MS","NEW/INA",834
+"keen","NC47","413","A","Y"," ","kijn","MS","INA",834
+"frost","NC48","418","N","N"," ","fr∑Ω∑st","MS"," ",835
+"Jack Frost","NC48","418","O","N","heavier [than frost]","d˙·k$fr∑Ω∑st","MS"," ",835
+"frost","NC49","421","N","N"," ","fr∑Ω∑st","MS"," ",836
+"freeze","NC49","421","N","N"," ","friΩiz","MS"," ",836
+"frost","NC50A","422","N","N"," ","fr∑Ω∑st","MS"," ",837
+"freeze","NC50A","422","N","N"," ","friΩiz","MS"," ",837
+"frost","NC50B!","423!","N","N"," ","fr∑Ω∑st","MS"," ",838
+"freeze","NC50B!","423!","N","N"," ","friæiz","MS"," ",838
+"frost","NC51A","427","N","N"," ","fr∑Ω∫{∞}st","MS"," ",839
+"freeze","NC51A","427","N","N"," ","fri∫z","MS"," ",839
+"frost","NC51B","428","N","N"," ","fr∂´∫{∞}st","MS"," ",840
+"freeze","NC51B","428","N","N"," ","friæ{i}z","MS"," ",840
+"frost","NC52N","N429","N","N"," ","fr∑´∫{∞}s{t}","MS"," ",841
+"frost","NC52A","429","N","N"," ","fr∂´∑Ωst","MS"," ",842
+"freeze","NC52A","429","N","N"," ","friΩæiz","MS"," ",842
+"frost","NC52B","430","N","N"," ","fr∑Ω∑´st","MS"," ",843
+"freeze","NC52B","430","N","N"," ","friΩæiz","MS"," ",843
+"frost","NC53A","431","N","N"," ","frî∑Ω∑st","MS"," ",844
+"black frost","NC53A","431","O","N"," ","bl·k$fr∑Ω∑st","MS"," ",844
+"frost","NC53B","432","N","N"," ","fr∑∑´st","MS"," ",845
+"freeze","NC53B","432","N","N"," ","friæiz","MS"," ",845
+"frost","NC54A","433","N","Y","not natural, pron. of younger generation","fr∂æ{∞}s{t}","MS","HRD",846
+"frost","NC54A","433","N","Y"," ","fr∑´{oΩ}s{t}","MS","COR",846
+"sharp","NC54A","433","A","Y"," ","Ûµ:p","MS","INA",846
+"airish","NC54A","433","A","Y"," ","·´{±øΩ}r±øÛ","MS","INA",846
+"frost","NC54B","434","N","N"," ","fr∑Ω∫{∞}st","MS"," ",847
+"Jack Frost","NC54B","434","O","N"," ","d˙·›k$fr∑Ω∫{∞}st","MS"," ",847
+"frost","NC55","435","N","N"," ","fr∑Ω∑st","MS"," ",848
+"freeze","NC55","435","N","N"," ","friΩæiz","MS"," ",848
+"frost","NC56A","436","N","N"," ","fr∂´∫{∞}st","MS"," ",849
+"freeze","NC56A","436","N","N"," ","friΩiz","MS"," ",849
+"frost","NC56B!","437!","N","N"," ","fr∂´{∑}{∞}st","MS"," ",850
+"killing frost","NC56B!","437!","O","N"," ","k±{∞}l±øÓ$fr∑Ω∫{∞}st","MS"," ",850
+"frost","NC57A","438a","N","N"," ","fr∑Ω∫{∞}st","MS"," ",851
+"freeze","NC57A","438a","N","N"," ","friΩæjz","MS"," ",851
+"frost","NC57B","438b","N","N"," ","fr∑Ω∫{∞}st","MS"," ",852
+"hard freeze","NC57B","438b","O","N"," ","hµæ∫{∞}d$friΩ{i}z","MS"," ",852
+"frost","NC58A","439","N","N"," ","fr∂´∑Ωst","MS"," ",853
+"freeze","NC58A","439","N","N"," ","friΩæiz","MS"," ",853
+"frost","NC58B","440","N","N"," ","fr∂´∑Ωst","MS"," ",854
+"freeze","NC58B","440","N","N"," ","friΩiz","MS"," ",854
+"frost","NC59","441(*)","N","N"," ","fr∑:s","MS"," ",855
+"black frost","NC59","441(*)","O","N"," ","bl·k$fr∑∫{∑´}s{t}","MS"," ",855
+"airish","NC59","441(*)","A","Y","mild","·r±øΩÛ","MS","INA",855
+"sharp","NC59","441(*)","A","Y"," ","Û∂´º¥p","MS","INA",855
+"frost","NC60","442","N","N"," ","fr∑Ω∫s{t}","MS"," ",856
+"freeze","NC60","442","N","N"," ","friΩæiz","MS"," ",856
+"frost","NC61A","443","N","N"," ","fr∂´∫st","MS"," ",857
+"freeze","NC61A","443","N","N"," ","friΩæiz","MS"," ",857
+"frost","NC61B","444","N","N"," ","fr∂´∫{∞}st","MS"," ",858
+"freeze","NC61B","444","N","N"," ","friΩiz","MS"," ",858
+"frost","NC62A","447","N","N"," ","fr∑Ω∑st","MS"," ",859
+"freeze","NC62A","447","N","N","heavier [than frost]","friΩiz","MS"," ",859
+"frost","NC62B","448","N","N"," ","fr∂´∑Ωst","MS"," ",860
+"freeze","NC62B","448","N","N"," ","friΩæiz","MS"," ",860
+"frost","NC63A","449","N","N"," ","fr∑Ω∫{∞}st","MS"," ",861
+"frost","NC63B","450","N","N"," ","fr∑Ω∑st","MS"," ",862
+"freeze","NC63B","450","N","N","heavier [than frost]","friΩjz","MS"," ",862
+"frost","NC64A","453","N","N"," ","fr∂´∫st","MS"," ",863
+"freeze","NC64A","453","N","N"," ","fr±´iz","MS"," ",863
+"frost","NC64B","454","N","N"," ","fr∂´∫st","MS"," ",864
+"freeze","NC64B","454","N","N"," ","fri∫z","MS"," ",864
+"frost","NC65A","461","N","N"," ","fr∂´∑Ωst","MS"," ",865
+"freeze","NC65A","461","N","N"," ","fr±iΩz","MS"," ",865
+"frost","NC65B","462","N","N"," ","fr∑∫{∑´}s{t}","MS"," ",866
+"sharp","NC65B","462","A","Y"," ","Û∂º¥p","MS","INA",866
+"airish","NC65B","462","A","Y"," ","·¥|±øÛ","MS","INA",866
+"frost","NC66A","465","N","N"," ","fr∑Ω∫st","MS"," ",867
+"killing frost","NC66A","465","O","N"," ","k±l∞´ºn$fr∑Ω∫st","MS"," ",867
+"frost","NC66B","466","N","N"," ","fr∂´∑Ωst","MS"," ",868
+"freeze","NC66B","466","N","N"," ","fr±´iz","MS"," ",868
+"frost","NC67A","469","N","N"," ","fr∑Ω∫st","MS"," ",869
+"freeze","NC67A","469","N","N"," ","fr±´iΩz","MS"," ",869
+"frost","NC67B","470","N","N"," ","fr∑∫{∑´}s{t}","MS"," ",870
+"freeze","NC67B","470","N","N"," ","friΩæiz","MS"," ",870
+"airish","NC67B","470","A","Y"," ","·{r}±øÛ","MS","INA",870
+"chilly","NC67B","470","A","Y"," ","tÛ±l±ø","MS","INA",870
+"fresh","NC67B","470","A","Y"," ","fr≤´∫{∞}Û","MS","INA",870
+"frost","NC68A","473","N","N"," ","fr∑Ω∑st","MS"," ",871
+"freeze","NC68A","473","N","N","colder [than frost]","fr±Ωiz","MS"," ",871
+"frost","NC68B","474","N","N"," ","fr∑Ω∑st","MS"," ",872
+"frost","NC69A","477","N","N"," ","fr∑Ω∫st","MS"," ",873
+"freeze","NC69A","477","N","N"," ","friΩiz","MS"," ",873
+"frost","NC69B","478","N","N"," ","fr∑{∑´}st","MS"," ",874
+"chilly","NC69B","478","A","Y"," ","tÛ±lç±ø","MS","INA",874
+"sharp","NC69B","478","A","Y"," ","Ûµ∫¥p","MS","INA",874
+"fresh","NC69B","478","A","Y","mildly","fr≤Û","MS","INA",874
+"frost","NC70A","479","N","N"," ","fr∑Ω∑st","MS"," ",875
+"frost","NC70B","480","N","N"," ","fr∑Ω∫{∞}st","MS"," ",876
+"frost","NC71A","481","N","N"," ","fr∑Ω∑st","MS"," ",877
+"freeze","NC71A","481","N","N"," ","friΩiz","MS"," ",877
+"frost","NC71B","482","N","N"," ","fr∑Ω∫st","MS"," ",878
+"freeze","NC71B","482","N","N"," ","friΩiz","MS"," ",878
+"frost","NC71C!","483!","N","N"," ","fr∂´∑Ωst","MS"," ",879
+"freeze","NC71C!","483!","N","N"," ","friΩiz","MS"," ",879
+"frost","NC72A","487","N","N"," ","fr∑∑´st","MS"," ",880
+"freeze","NC72A","487","N","N"," ","friΩjz","MS"," ",880
+"frost","NC72B","488","N","N"," ","fr∑Ω∫{∞}st","MS"," ",881
+"freeze","NC72B","488","N","N"," ","fÒé›iΩiz","MS"," ",881
+"frost","NC73A","491","N","N"," ","fr∑Ω∑st","MS"," ",882
+"frost","NC73B","492","N","N"," ","fr∑Ω{∞}s{t}","MS"," ",883
+"chilly","NC73B","492","A","Y"," ","tÛ±l±ø","MS","INA",883
+"frost","NC74A","493","N","N"," ","fr∑Ω:st","MS"," ",884
+"freeze","NC74A","493","N","N"," ","friΩiz","MS"," ",884
+"frost","NC74B","494","N","N"," ","fr∑Ωº∑st","MS"," ",885
+"killing frost","NC74B","494","O","N","heavier [than frost]","kà{h}±l±øΩn$fr∑Ωº∑st","MS"," ",885
+"frost","NC75A","495","N","N"," ","fr∑Ω∑st","MS"," ",886
+"freeze","NC75A","495","N","N","colder [than frost]","friΩiz","MS"," ",886
+"frost","NC75B","496","N","N"," ","fr∑Ω∑st","MS"," ",887
+"frost","SC1A","203.1","N","N"," ","fr∑∫{∞}st","MS"," ",888
+"freeze","SC1A","203.1","N","N"," ","fri∫z","MS"," ",888
+"frost","SC1B","203.2","N","N"," ","fr∑∑´st","MS"," ",889
+"freeze","SC2A","204.1(*)","N","N"," ","fri∫z","MS"," ",890
+"frost","SC2A","204.1(*)","N","N"," ","fr∑∑´st","MS"," ",890
+"freeze","SC2B","204.2","N","N"," ","friæiz","MS"," ",891
+"frost","SC2B","204.2","N","N"," ","fr∑Ω∑´s{t}","MS"," ",891
+"frost","SC2C"," ","N","N"," ","fr∑∑´st","MS"," ",892
+"frost","SC3A","205.1","N","N"," ","fr∑´{∑´}st","MS"," ",893
+"airish","SC3A","205.1","A","Y"," ","·{∞}r±øÛ","MS","SUG/INA",893
+"frost","SC3B","205.2","N","N"," ","fr∑Ω∫{∞}s","MS","CNV",894
+"freeze","SC3B","205.2","N","N"," ","fri∫{j}z","MS","CNV",894
+"frost","SC3C!","205.3!","N","N"," ","fÚ∑´{∞ó}st","MS"," ",895
+"hoarfrost","SC3C!","205.3!","N","N"," ","Âho∫∞ıfÚè∑´{∞ó}st","MS"," ",895
+"freeze","SC3C!","205.3!","N","N","harder [than frost]","fÚèi∫{±ø}z","MS"," ",895
+"light frost","SC3C!","205.3!","O","N"," ","Âlµ´º±øt$ıfÚ∑´{∞}st","MS"," ",895
+"heavy frost","SC3C!","205.3!","O","N"," ","Âh≤Ω{∞}v±ø´º$ıfÚ∑´{∞}st","MS"," ",895
+"killing frost","SC3C!","205.3!","O","N"," ","Âk`±´lç±øºn$ıfÚè∑´{∞ó}st","MS"," ",895
+"cold spell","SC3C!","205.3!","O","N"," ","Âk`o∫{π}Ï$ısp≤´{∞}l","MS","CNV",895
+"frost","SC4A","206.1","N","N"," ","fÚè∑´{∞}s","MS"," ",896
+"frost","SC4B","206.2","N","N"," ","fÚè∑∫{∞}s","MS"," ",897
+"killing frost","SC4B","206.2","O","N"," ","Âkà`±´lç±øºn$ıfÚè∑∫{∞}st","MS"," ",897
+"black frost","SC4B","206.2","O","N"," ","Âb≈·Ω{∞}k$ıfÚè∑º{∞}s","MS"," ",897
+"freeze","SC4B","206.2","N","N"," ","fÚèi∫{±ø}z","MS"," ",897
+"cold spell","SC4B","206.2","O","N"," ","Âk`o∫{∞}l$ısp≤´{∞}l","MS"," ",897
+"frost","SC4C","206.3","N","N"," ","fÚè∑º∫{∞}st","MS"," ",898
+"freeze","SC4C","206.3","N","N"," ","fÚi∫{±ø}z","MS"," ",898
+"white frost","SC4C","206.3","O","N","lighter [than black frost]","Âhwµ´±øt$fÚè∑º∫{∞}s","MS"," ",898
+"black frost","SC4C","206.3","O","N","more severe [than white frost]","Âb≈·{∞}k$fÚè∑º∫{∞}s{t}","MS"," ",898
+"cold snap","SC4C","206.3","O","N"," ","Âk`oº{∞ó}l$ısnè·{∞}p","MS"," ",898
+"cold spell","SC4C","206.3","O","N"," ","Âk`oº{∞ó}l$ısp≤´{∞}l","MS"," ",898
+"dew","SC4C","206.3","N","Y"," ","djuø∫","MS","INA",898
+"white frost","SC5A","207.1","O","N","[oΩ∫{∞}]: /∑/","Âhw•Ωº±øt$ıfrèoΩ∫{∞}s","MS"," ",899
+"frost","SC5A","207.1","N","N"," ","frè∑´∫∞st","MS"," ",899
+"black frost","SC5A","207.1","O","N","[oΩ∫{∞}]: /∑/; ""stew out the ground¢","Âb≈·Ω{∞}k$ıfrèoΩ∫{∞}s","MS"," ",899
+"freeze","SC5A","207.1","N","N"," ","frèi∫z","MS"," ",899
+"stew out the ground","SC5A","207.1","E","Y"," ","Âstjuø∫$ıµπt$dë±ø´º$Âgráµ∫πn","MS","INA/SIC",899
+"NR","SC5B","207.2"," ","N"," "," ","MS"," ",900
+"NR","SC5C","207.2A"," ","N"," "," ","MS"," ",901
+"frost","SC5D!","207.3!","N","N"," ","fÚè∑∫{∞}s","MS"," ",902
+"light frost","SC5D!","207.3!","O","N"," ","Âl∏Ωº±øt$ıfÚ∑∫{∞}s","MS"," ",902
+"black frost","SC5D!","207.3!","O","N","everything killed","Âb≈·Ω{∞}k$ıfÚè∑∫{∞}s","MS"," ",902
+"freeze","SC6N","N208","N","N"," ","fÚèi∫{±ø}z","MS","CNV",903
+"dew","SC6N","N208","N","Y"," ","d˙uø∫","MS","INA",903
+"candle","SC6N","N208","N","Y","icicle","k`·{∞}Ò˛l","MS","INA",903
+"frost","SC6A","208.1","N","N"," ","fr∂st","MS"," ",904
+"killing frost","SC6A","208.1","O","N"," ","k{h}±Ωl±øΩn$fr∂st","MS"," ",904
+"airish this morning","SC6A","208.1","K","Y"," ","Â·´{∞}r±øÛ$t±øs$m∑∫n±øÓ","MS","INA",904
+"chilly","SC6A","208.1","A","Y"," ","tÛ±Ω{∞}l±ø","MS","INA",904
+"frost","SC6B","208.2(*)","N","N"," ","frè∑∫{∞}st","MS"," ",905
+"white frost","SC6B","208.2(*)","O","N"," ","Âhw∞±øt$ıfrè∑∫{∞}st","MS"," ",905
+"black frost","SC6B","208.2(*)","O","N","ground ""freezes¢","Âbla´k$ıfrè∑∫{∞}st","MS"," ",905
+"freezes","SC6B","208.2(*)","V","Y","ground)","frèái∫{±ø}z±øz","MS","INA",905
+"freeze","SC6B","208.2(*)","N","N"," ","frèi∫{±ø}z","MS","CNV",905
+"freeze","SC6C!","208.3!","N","N"," ","fri∫{±ø}z","MS"," ",906
+"white frost","SC6C!","208.3!","O","N"," ","Âw∞±øt$ıfrè∑∫{∞}s","MS"," ",906
+"black frost","SC6C!","208.3!","O","N","no dew","Âbl·Ω{∞}k$ıfrè∑∫{∞}s","MS"," ",906
+"frost","SC6C!","208.3!","N","N"," ","frè∑∫{∞}s","MS","CNV",906
+"frost","SC6C!","208.3!","N","N"," ","fÚè∑∫{∞}s","MS"," ",906
+"freeze the fall","SC6C!","208.3!","E","Y","snow or sleet","frèi∫{±ø}z$dë∞$f∑∫{∞}l","MS","INA",906
+"dry blizzard","SC6C!","208.3!","O","Y"," ","ÂdéÚ•Ωæ±ø$bl±øz∞´d","MS","INA",906
+"blizzard","SC6C!","208.3!","N","Y"," ","Âbl±øz∞d","MS","INA",906
+"NR","SC6D"," "," ","N"," "," ","MS"," ",907
+"NR","SC7N","N209"," ","N"," "," ","MS"," ",908
+"frost","SC7A","209.1","N","N"," ","fÚè∑´º{∞}st","MS"," ",909
+"freeze","SC7A","209.1","N","N"," ","fÚi´∫{±ø}z","MS"," ",909
+"frost","SC7B","209.2","N","N"," ","fÚè∑´º{∞}st","MS"," ",910
+"black frost","SC7B","209.2","O","N"," ","Âb≈·{∞}k$ıfÚè∑º{∞}st","MS"," ",910
+"white frost","SC7B","209.2","O","N"," ","hw∏º±øt$fÚè∑º{∞}st","MS"," ",910
+"white frost","SC7B","209.2","O","Y"," ","Âw∏º±øt$ıfÚè∑º∫{∞ó}st","MS","AUX",910
+"freeze","SC7B","209.2","N","N"," ","fÚi∫z","MS"," ",910
+"NR","SC7C!","209.3!"," ","N"," "," ","MS"," ",911
+"frost","SC7D!","209.4!","N","N"," ","fÚè∑º{∞}st","MS"," ",912
+"light frost","SC7D!","209.4!","O","N"," ","Âl∏´º±øt$fÚè∑º{∞}s","MS"," ",912
+"light frost","SC7D!","209.4!","O","N"," ","Âl∏´º±øt$ıfÚè∑º∫{∞}s","MS"," ",912
+"heavy frost","SC7D!","209.4!","O","N"," ","Âh≤´∫{∞}v±ø´º$ıfÚè∑º{∞}s","MS"," ",912
+"freeze","SC7D!","209.4!","N","N"," ","fÚèi∫{±ø}z","MS"," ",912
+"white frost","SC7D!","209.4!","O","N"," ","w∏º±øt$fÚè∑º∫{∞}s","MS"," ",912
+"white frost","SC7D!","209.4!","O","N","spelling pronunciation","Âhw∏º±øt$ıfÚè∑º∫{∞}s","MS"," ",912
+"killing frost","SC7D!","209.4!","O","N"," ","Âkà±´lç±øºÓ$fÚ∑º{∞}st","MS"," ",912
+"black frost","SC7D!","209.4!","O","N"," ","Âb≈·Ωk$fÚè∑º∫{∞}st","MS"," ",912
+"light frost","SC8A","210.1","O","N"," ","Âl•±øt$ıfÚ∑Ω∫{∞}s","MS"," ",913
+"Jack Frost","SC8A","210.1","O","N","ground frost","Âd˙·Ω{∞}k$ıfÚ∑º∫{∞}s","MS"," ",913
+"frost","SC8A","210.1","N","N"," ","fÚè∑´º∫{∞ó}s","MS"," ",913
+"black frost","SC8A","210.1","O","N"," ","Âb≈·Ω{∞}k$ıfÚè∑Ω{∞}s","MS"," ",913
+"heavy frosts","SC8A","210.1","O","N"," ","Âh≤´{∞}v±øΩº$ıfÚ∑º∫{∞}s±øºz","MS"," ",913
+"freeze","SC8A","210.1","N","N","mostly after rain or snow","fÚi∫{±ø}z","MS"," ",913
+"frost","SC8B","210.2","N","N"," ","ÂfÚè∑Ωº∫{∞}s","MS"," ",914
+"good frosts","SC8B","210.2","O","N"," ","Âgπø´{∞}d$ıfÚ∑Ωº∫{∞}s±øºz","MS","SIC",914
+"freeze","SC8B","210.2","N","N"," ","fÚèi∫z","MS"," ",914
+"frost","SC8C","210.3","N","N"," ","fÚèá∑Ω∫{∞}s","MS"," ",915
+"frost","SC8C","210.3","N","N"," ","fÚèá∑´{∞}s","MS"," ",915
+"Jack Frost","SC8C","210.3","O","N"," ","Âd˙·{∞}k$ıfÚèá∑º∫{∞}s","MS"," ",915
+"freeze","SC8C","210.3","N","N"," ","fÚèi∫z","MS"," ",915
+"freeze","SC8C","210.3","N","N"," ","fÚèi∫{±ø}z","MS","CNV",915
+"frost","SC9A","211.1","N","N"," ","fÚè∑ó´º∫{∞}st","MS"," ",916
+"light frost","SC9A","211.1","O","N"," ","Âl∞±øt$ıfÚè∑ó´∫{∞}st","MS"," ",916
+"ground freeze","SC9A","211.1","O","N"," ","gÚµ´º∫on$ÂfÚèi∫z","MS"," ",916
+"first frost","SC9B","211.2","O","N"," ","Âf≥ó´æ{∞}s$ıfÚè∑Ωº∫{∞}s","MS","CNV",917
+"light frost","SC9B","211.2","O","N"," ","Âl∞Ω±øt$ıfÚ∑Ω∫{∞}s","MS"," ",917
+"heavy frost","SC9B","211.2","O","N"," ","Âh≤´{∞}v±ø´º$ıfÚ∑Ω∫{∞}s","MS"," ",917
+"freeze","SC9B","211.2","N","N"," ","fÚèi∫z","MS","CNV",917
+"freeze","SC9B","211.2","N","N"," ","ÂfÚi∫{±ø}z","MS"," ",917
+"frost","SC9C!","211.3!","N","N"," ","fÚ∑Ωº∫{∞}st","MS"," ",918
+"freeze","SC9C!","211.3!","N","N"," ","fÚèi∫z","MS"," ",918
+"NR","SC9D!","211.4!"," ","N"," "," ","MS"," ",919
+"frost","SC10A","212.1","N","N"," ","fÚè∑Ωº∫{∞}s","MS"," ",920
+"freeze","SC10A","212.1","N","N"," ","fÚèi∫{±ø}z","MS"," ",920
+"NR","SC10B!","212.2!"," ","N"," "," ","MS"," ",921
+"giffy","SC10C!","212.3!","A","Y","damp and cold","gà±´f±æiæ","MS","HRD/INA",922
+"frost","SC11N","N213","N","N"," ","fr∑∫{∞}s","MS"," ",923
+"black frost","SC11N","N213","O","N"," ","blç·Ωæk$fr∑∫{∞}s","MS"," ",923
+"airish","SC11N","N213","A","Y"," ","e{∞}r±øÛ","MS","SUG/INA",923
+"raw","SC11N","N213","A","Y"," ","r∑:","MS","INA",923
+"frost","SC11M!","2n213!","N","N"," ","fÚè∑º∫{∞}s","MS"," ",924
+"cold snap","SC11M!","2n213!","O","N"," ","Âk`o´º∫{∞}l$ısnè·Ωp","MS"," ",924
+"light freeze","SC11M!","2n213!","O","N"," ","Âl∏Ωº±øt$fÚèi∫{±ø}z","MS"," ",924
+"white frost","SC11M!","2n213!","O","N"," ","Âw∏º±øt$ıfÚ∑Ωº∫{∞}s","MS"," ",924
+"freeze","SC11M!","2n213!","N","N"," ","fÚèi∫{±ø}z","MS","CNV",924
+"frost","SC11A","213.1(*)","N","N"," ","frè∑º∫{∞}st","MS","CNV",925
+"freeze","SC11A","213.1(*)","N","N"," ","frèiΩæ∫±øz","MS","CNV/SIC",925
+"frost","SC11A","213.1(*)","N","Y"," ","fr∑∫{∞}s{t}","MS","AUX",925
+"black frost","SC11A","213.1(*)","O","Y","heavier [than frost]","bl·æk$fr∑∫{∞}s{t}","MS","AUX",925
+"heavy frost","SC11B","213.11","O","N"," ","Âh≤∫v±ø$ıfr∑∫{∞}s","MS"," ",926
+"nipping","SC11B","213.11","A","Y"," ","n±p±ø´Ó","MS","INA",926
+"snappy","SC11B","213.11","A","Y"," ","sn·{∞}p±ø","MS","INA",926
+"white frost","SC11C","213.2","O","N"," ","Âw∏º±øt$ıfÚè∑´º∫{∞}s","MS"," ",927
+"frost","SC11C","213.2","N","N"," ","fÚè∑º∫{∞}s","MS"," ",927
+"killing frost","SC11C","213.2","O","N"," ","Âk`±ælç±øºÓ$ıfÚè∑º∫{∞}s","MS"," ",927
+"black frost","SC11C","213.2","O","N"," ","Âb≈·k$ıfÚè∑º∫{∞}s","MS"," ",927
+"freeze","SC11C","213.2","N","N","harder [than frost]","fÚèi∫{±ø}z","MS"," ",927
+"frost","SC11D","213.3","N","N","precipitation","fÚè∑º∫{∞}st","MS"," ",928
+"frost","SC11D","213.3","N","N","precipitation","fÚè∑Ωº∫{∞}st","MS"," ",928
+"freeze","SC11D","213.3","N","N","low temperature","fÚèi∫z","MS"," ",928
+"NR","SC11E","213.4"," ","N"," "," ","MS"," ",929
+"freeze","SC11F","213.5","N","N"," ","fÚèi∫{±ø}z","MS","CNV",930
+"frost","SC11G!","213.7!","N","N"," ","fÚ∂ó´∫{∞}st","MS"," ",931
+"frost","SC11G!","213.7!","N","N"," ","fÚ∑Ω∫{∞}st","MS"," ",931
+"freeze","SC11G!","213.7!","N","N","more severe [than frost]","fÚèiæ∫z","MS"," ",931
+"frost","SC11H!","213.8!","N","N","lighter [than freeze]","fÚè∑´º∫{∞}s","MS"," ",932
+"frost","SC11H!","213.8!","N","N","lighter [than freeze]","fÚè∑Ωº∫{∞}st","MS"," ",932
+"freeze","SC11H!","213.8!","N","N","more severe [than frost]","fÚèi∫{±ø}z","MS"," ",932
+"cold snap","SC11H!","213.8!","O","N"," ","Âk`o´º∫{∞}l$ısnè·Ωp","MS"," ",932
+"frost","SC11I!","213.9!","N","Y"," ","fr∑∫{∞}s{t}","MS","AUX",933
+"brisk","SC11I!","213.9!","A","Y","rare","bÚ±øsk","MS","AUX/INA",933
+"sharp","SC11I!","213.9!","A","Y"," ","Ûµ∫p","MS","AUX/INA",933
+"keen","SC11I!","213.9!","A","Y"," ","cái{∞}n","MS","AUX/INA",933
+"frost","SC11J!","213.10!","N","N"," ","fÚè∑º∫{∞}st","MS"," ",934
+"white frost","SC11J!","213.10!","O","N"," ","Âhw∏Ωº±øt$ıfÚè∑º∫{∞}st","MS"," ",934
+"hard frost","SC11J!","213.10!","O","N"," ","Âhﬁ∫{∞}d$ıfÚè∑º∫{∞}st","MS"," ",934
+"black frost","SC11J!","213.10!","O","N","worse [than white frost]","Âb≈·Ωk$ıfÚ∑º∫{∞}st","MS"," ",934
+"freeze","SC11J!","213.10!","N","N"," ","fÚèi∫{±ø}z","MS"," ",934
+"frost","SC12A","214.1","N","N"," ","fÚè∑∫{∞}s","MS"," ",935
+"heavy frost","SC12A","214.1","O","N"," ","Âh≤´{∞}v±ø´º$ıfÚè∑´∫{∞}s","MS"," ",935
+"frost","SC12B","214.2","N","N"," ","fr∑∫s","MS"," ",936
+"black frost","SC12B","214.2","O","N"," ","blç·ºk$fr∑∫{∞}s","MS"," ",936
+"frost","SC13","213.6","N","N"," ","fÚè∑∫{∞}s","MS"," ",937
+"freeze","SC13","213.6","N","N"," ","fÚèi∫{±ø}z","MS"," ",937
+"frost","SC14A","215.1","N","N"," ","fr∑Ω∫{s}{t}","MS"," ",938
+"killing frost","SC14A","215.1","O","N","heavier [than frost]","kà±lç±øÓ$fr∑Ω∫{∞}s","MS"," ",938
+"sharp","SC14A","215.1","A","Y"," ","Ûaæ∫{∞}p","MS","INA",938
+"chilly","SC14A","215.1","A","Y"," ","tÛ±Ωælç±ø","MS","INA",938
+"frosty","SC14A","215.1","A","Y"," ","fr∑Ω∫st±ø","MS","INA",938
+"airish","SC14A","215.1","A","Y"," ","e{∞}r±øÛ","MS","INA",938
+"fresh","SC14A","215.1","A","Y","only chilly","fr≤Û","MS","SUG/INA",938
+"frost","SC14B","215.2","N","N"," ","fÚè∑Ωº∫{∞}s","MS"," ",939
+"heavy frost","SC14B","215.2","O","N"," ","Âh≤´{∞}v±ø´º$ıfÚ∑º∫{∞}st","MS"," ",939
+"light frost","SC14B","215.2","O","N"," ","Âl•±øt$ıfÚ∑º∫{∞}st","MS"," ",939
+"Jack Frost","SC14B","215.2","O","Y"," ","Âd˙·{∞}k$ıfÚè∑Ωº∫{∞}st","MS","HRD",939
+"freeze","SC14B","215.2","N","N"," ","fÚèi∫z","MS","CNV",939
+"late freeze","SC14B","215.2","O","N"," ","Âle∫{∞}t$ıfÚèi∫z","MS"," ",939
+"frost","SC14B","215.2","N","N"," ","fÚè∑Ωº∫{∞}s","MS"," ",939
+"ice","SC14B","215.2","N","Y"," ","•´±øs","MS","INA",939
+"white frost","SC15A","216.1","O","N"," ","Âhwµ´±øt$ıfÚ∑´∫{∞}s","MS"," ",940
+"light frost","SC15A","216.1","O","N"," ","Âlµ´º±øt$ıfÚ∑∫{∞}s","MS"," ",940
+"black frost","SC15A","216.1","O","N","= ""freeze¢","Âb≈·{∞}k$ıfÚ∑º∫{∞}s","MS"," ",940
+"frost","SC15A","216.1","N","N"," ","fÚ∑º∫{∞}s","MS","CNV",940
+"freeze","SC15A","216.1","N","N"," ","fÚi∫z","MS","CNV",940
+"freeze","SC15A","216.1","N","N"," ","fÚèi∫z","MS","CNV",940
+"frost","SC15B","216.2","N","N"," ","fÚè∑º{∞}st","MS"," ",941
+"killing frost","SC15B","216.2","O","N"," ","Âkà`±´lç±øºn$ÂfÚ∑º{∞}st","MS"," ",941
+"light frost","SC15B","216.2","O","N"," ","Âlµ´º±øt$ÂfÚ∑º∫{∞}st","MS"," ",941
+"freeze","SC15B","216.2","N","N"," ","fÚèi∫{±ø}z","MS"," ",941
+"frost","SC15C","216.3","N","N"," ","fÚè∑ó´º∫{∞}st","MS","CNV",942
+"freeze","SC15C","216.3","N","N"," ","fÚèi∫{±ø}z","MS","CNV",942
+"frost","SC16N","N217","N","N"," ","fÚè∑´∫{∞}s","MS"," ",943
+"white frost","SC16N","N217","O","N"," ","Âhwµ∫±øt$ıfÚ∑´{∞}s","MS"," ",943
+"black frost","SC16N","N217","O","N"," ","Âbl·{∞}k$ıf≈èoΩ{∞}s","MS","SIC",943
+"freeze","SC16N","N217","N","N"," ","fÚèi∫{±ø}z","MS","SIC",943
+"cold drouth","SC16N","N217","O","N"," ","Âk`o´∫{πø}Ï$ıdéÚ·´oºs","MS","SIC",943
+"freeze","SC16","217.1","N","N"," ","frèi∫z","MS","CNV",944
+"freeze up","SC16","217.1","E","Y"," ","fri∫z$¶›´p","MS","INA/CNV",944
+"frost","SC17A","218.1","N","N"," ","fÚ∑Ωº{∞ó}st","MS"," ",945
+"white frost","SC17A","218.1","O","N"," ","Âhwµ´±øt$ıfÚ∑Ωº∫∞st","MS"," ",945
+"freezes","SC17A","218.1","V","N"," ","fÚèi∫{±ø}z±øºz","MS"," ",945
+"NR","SC17B","218.2"," ","N"," "," ","MS"," ",946
+"NR","SC17C","218.3"," ","N"," "," ","MS"," ",947
+"light frost","SC17D","218.4","O","N"," ","Âl•Ω±øt$ıfÚè∑´{∞}st","MS"," ",948
+"heavy frost","SC17D","218.4","O","N"," ","Âh≤´{∞}v±ø´º$ıfÚè∑∫{∞}st","MS"," ",948
+"late frost","SC17D","218.4","O","N"," ","Âle∫{∞}t$ıfÚè∑∫{∞}st","MS"," ",948
+"black frost","SC17D","218.4","O","Y"," ","Âb≈·{∞}k$ıfÚè∑∫{∞}st","MS","HRD",948
+"frost","SC18N","N219","N","N"," ","frè∑´º∫{∞}s","MS"," ",949
+"frost","SC18N","N219","N","N"," ","frè∑º∫{∞}s","MS"," ",949
+"freeze","SC18N","N219","N","N","severe, heavier [than frost]","frèi´æ∫z","MS"," ",949
+"frost","SC18A","219.1","N","N","don't freeze water","fÒè∑º∫{∞}st","MS"," ",950
+"black frost","SC18A","219.1","O","N","= ice","b≈·Ωk$ıfrè∑´º∫{∞}s","MS"," ",950
+"freeze","SC18A","219.1","N","N"," ","friΩ∫{±ø}z","MS"," ",950
+"freeze","SC18A","219.1","N","N"," ","fri∫z","MS","CNV",950
+"freeze","SC18A","219.1","N","N"," ","friæ∫z","MS","CNV",950
+"cold snaps","SC18A","219.1","O","N"," ","kà`o´º∫{∞}l$ısn·Ωps","MS","CNV",950
+"ice","SC18A","219.1","N","Y"," ","•´±s","MS","INA",950
+"ice","SC18A","219.1","N","Y"," ","∞Ω±s","MS","INA",950
+"light frost","SC18B","219.2","O","N"," ","Âl•´±t$ıfÚè∑º∫{∞}s","MS"," ",951
+"white frost","SC18B","219.2","O","N"," ","Âw∞´±t$ıfÚè∑º∫∞s","MS"," ",951
+"black frost","SC18B","219.2","O","N","heavier [than freeze]","Âb≈·Ωk$ıfÚè∑º∫{∞}{s}","MS"," ",951
+"black frost","SC18B","219.2","O","N","heavier [than freeze]","Âb≈·Ωk$ıfÚè∑º∫{∞}s","MS"," ",951
+"frost","SC18B","219.2","N","N"," ","fÚè∑º∫{∞}s","MS","CNV",951
+"freeze","SC18B","219.2","N","N","very heavy","fÚèi∫z","MS","CNV",951
+"frost","SC18C!","219.3(*)!","N","N"," ","frè∑Ωº∫{∞}st","MS"," ",952
+"frost","SC18C!","219.3(*)!","N","N"," ","fr∑º∫{∞}st","MS"," ",952
+"freeze","SC18C!","219.3(*)!","N","N","""everything¢","frèiæ∫z","MS"," ",952
+"everything","SC18C!","219.3(*)!","P","Y"," ","Â≤´v¥±ø´ºı˘i´Ó","MS","INA",952
+"NR","SC18D!"," "," ","N"," "," ","MS"," ",953
+"white frost","SC19N","N220","O","N"," ","w•±øt$fr∑Ω∫st","MS"," ",954
+"freeze","SC19N","N220","N","N","heavier [than white frost]","fri∫z","MS"," ",954
+"fresh","SC19N","N220","A","Y","mild","fr≤ΩÛ","MS","INA",954
+"airish","SC19N","N220","A","Y","intermediate between `fresh' and `sharp'","≤´r±øÛ","MS","INA",954
+"sharp","SC19N","N220","A","Y","very cold","Ûaæ∫p","MS","INA",954
+"NR","SC19A","220.1"," ","N"," "," ","MS"," ",955
+"frost","SC19B","220.4","N","N"," ","fr∑{∞}st","MS"," ",956
+"chilly","SC19B","220.4","A","Y"," ","tÛ±æl±ø","MS","INA",956
+"chilly","SC19B","220.4","A","Y"," ","tÛ±øºl±ø","MS","INA",956
+"frost","SC19C","220.2(*)","N","N","40 degrees","frè∑Ωº∫{∞}st","MS"," ",957
+"freeze","SC19C","220.2(*)","N","N","32 degrees, more severe [than frost]","frèiæ∫z","MS"," ",957
+"ice","SC19C","220.2(*)","N","Y"," ","•Ωæ±s","MS","INA",957
+"NR","SC19D!","220.3!"," ","N"," "," ","MS"," ",958
+"NR","SC19E!"," "," ","N"," "," ","MS"," ",959
+"killing frost","SC20A","221.1","O","N"," ","Âkà`±´l±øºn$ıfrè∑´oΩs","MS"," ",960
+"black frost","SC20A","221.1","O","N"," ","Âbl·{≤}k$ıfrè∑´os","MS"," ",960
+"freeze","SC20A","221.1","N","N","32 degrees or lower","frèi∫{j}z","MS"," ",960
+"freeze","SC20B","221.2","N","N","hard","frèi∫{j}z","MS","CNV",961
+"frost","SC20C","221.3","N","N"," ","frè∑Ω∫∑st","MS"," ",962
+"light frost","SC20C","221.3","O","N"," ","Âla´æ∫±øt$ıfrè∑Ω∫∑st","MS"," ",962
+"heavy frost","SC20C","221.3","O","N"," ","Âh≤´{∞}v±ø´º$ıfrè∑Ω∫∑st","MS"," ",962
+"freeze","SC20C","221.3","N","N"," ","frèi∫z","MS"," ",962
+"ice","SC20C","221.3","N","Y"," ","a´æ∫±øs","MS","INA",962
+"freeze","SC20D!","221.4!","N","N"," ","frèi∫z","MS","CNV",963
+"frost","SC21A","222.1","N","N"," ","fr∑Ω∑s{t}","MS"," ",964
+"freeze","SC21A","222.1","N","N"," ","friΩæiz","MS"," ",964
+"frost","SC21B","222.2","N","N"," ","fr∑Ω∫{∞}st","MS"," ",965
+"freeze","SC21B","222.2","N","N"," ","fri∫{∞}z","MS"," ",965
+"frost","SC22N","N223","N","N"," ","fr∂´{∞}s{t}","MS"," ",966
+"killing frost","SC22N","N223","O","N"," ","k{h}±l±øΩn$fr∂´{∞}s{t}","MS"," ",966
+"airish","SC22N","N223","A","Y"," ","·{∞}r±øÛ","MS","INA",966
+"frost","SC22A","223.1","N","N"," ","fÚ∂´{∞}st","MS"," ",967
+"Jack Frost","SC22A","223.1","O","N","ground [freezes]","Âd˙·{∞}k$ıfÚ∑´{∞}st","MS"," ",967
+"heavy frost","SC22A","223.1","O","N","ground [freezes]","Âh≤´{∞}v±ø´º$ıfÚ∑´{∞}st","MS"," ",967
+"freeze","SC22A","223.1","N","N"," ","fÚèi∫{±ø}z","MS"," ",967
+"frost","SC22B","223.2","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",968
+"bracing","SC22B","223.2","A","Y"," ","bre∫s±øΩn","MS","INA",968
+"chilly","SC22B","223.2","A","Y"," ","tÛ±l±ø","MS","INA",968
+"frost","SC22C!","223.3!","N","N"," ","fÚè∑Ω∫{∞}st","MS"," ",969
+"hoarfrost","SC22C!","223.3!","N","N"," ","Âho∫∞óıfÚè∑∫{∞}st","MS"," ",969
+"freeze","SC22C!","223.3!","N","N"," ","fÚèi∫{±ø}z","MS"," ",969
+"frost","SC23A","224.1","N","N"," ","fÚè∑´∫{∞}st","MS"," ",970
+"when frost comes","SC23A","224.1"," "," "," ","hw±Ω{∞}n$ÂfÚ∑´{∞}s$ık`∏´{∞}mz{zè}","MS","RN2",970
+"ice ain't very far off","SC23A","224.1","S","Y"," ","Âµº±øs$ıe∫{∞}nt$Âv≤´∫r±øΩº$ıf≥´∫$Â∑∫{∞}f","MS","INA/RN1",970
+"frost","SC23B","224.2","N","N"," ","fÚè∑´{∞}st","MS"," ",971
+"freeze","SC23B","224.2","N","N"," ","fÚèi∫z","MS"," ",971
+"cold spell","SC23B","224.2","O","N"," ","Âk`oº∫π{l}$ısp≤´l","MS","CNV",971
+"frost","SC23C","224.3","N","N"," ","fÚè∑Ω∫{∞}st","MS"," ",972
+"freeze","SC23C","224.3","N","N","harder [than frost]","fÚèi∫z","MS"," ",972
+"NR","SC23D","224.4"," ","N"," "," ","MS"," ",973
+"freeze","SC23E!","224.5!","N","N"," ","fÚèi∫{±ø}z","MS","CNV",974
+"frost","SC24N","N225","N","N"," ","fÚè∑º{∞}s","MS"," ",975
+"freezing weather","SC24N","N225","O","N"," ","ÂfÚèi∫{±ø}z±øºn$ıw≤´{∞}‰∞","MS"," ",975
+"frost","SC24A","225.1","N","N"," ","fÚè∑∫{∞}s","MS"," ",976
+"cool","SC24A","225.1","A","Y"," ","k`uø∫l","MS","INA",976
+"frost","SC24B","225.11","N","N"," ","fÚè∑Ω∫{∞}s","MS"," ",977
+"black frost","SC24B","225.11","O","N","""freezes underneath¢","Âb≈·{∞}k$ıfÚè∑Ω{∞}s","MS"," ",977
+"freezing weather","SC24B","225.11","O","N"," ","ÂfÚi∫{±ø}z±øºn$ıw≤´{∞}‰∞","MS"," ",977
+"frost","SC24C","225.2","N","N"," ","fÚè∑∫{∞}s","MS"," ",978
+"NR","SC24D!","225.3!"," ","N"," "," ","MS"," ",979
+"frost","SC25A","226.1","N","N"," ","fr∑∫{∞}s{t}","MS"," ",980
+"killing frost","SC25A","226.1","O","N"," ","kà±lç±øn$fr∑∫{∞}s{t}","MS"," ",980
+"airish","SC25A","226.1","A","Y"," ","·r±øÛ","MS","INA",980
+"chilly","SC25A","226.1","A","Y"," ","tÛ±lç±ø","MS","INA",980
+"dew","SC25A","226.1","N","Y"," ","d{±}uøæ","MS","INA",980
+"white frost","SC25B","226.2","O","N"," ","Âhwa´æ±øt$ıfrè∑∫{∞}st","MS"," ",981
+"frost","SC25B","226.2","N","N"," ","frè∑∫{∞}st","MS","CNV",981
+"black frost","SC25B","226.2","O","N","colder [than frost]","Âb≈è·´{≤}k$ıfrè∑´∫{∞ó}s","MS"," ",981
+"freeze","SC25B","226.2","N","N"," ","frèi∫z","MS","CNV",981
+"frost","SC25C!","226.3!","N","N"," ","frè∑∫{∞}s","MS"," ",982
+"freeze","SC25C!","226.3!","N","N"," ","fri∫z","MS"," ",982
+"frost","SC26A","227.1","N","N"," ","frè∑´º∫{∞}s","MS"," ",983
+"light freeze","SC26A","227.1","O","N"," ","Âl•Ωº±øt$ıfrèi∫{±ø}z","MS"," ",983
+"spew up","SC26A","227.1","E","Y","""spew up¢","Âspuø$ı¶Ωp","MS","INA",983
+"Jack Frost","SC26A","227.1","O","N","""spew up¢","Âd˙·{∞}k$ıfrè∑Ωº∫{∞}s","MS"," ",983
+"Jack Frost","SC26B!","227.2!","O","N"," ","Âd˙·{≤}k$ıfrè∑∫{∞}s","MS"," ",984
+"frost","SC26B!","227.2!","N","N"," ","fr∑{∞}st","MS"," ",984
+"hoarfrost","SC26B!","227.2!","N","N","""spews up¢","Âho´∫∞óıfrè∑∫{∞}st","MS"," ",984
+"black frost","SC26B!","227.2!","O","N"," ","Âbl·{∞}k$ıfrè∑Ω∫{∞}st","MS"," ",984
+"spews up","SC26B!","227.2!","E","Y"," ","Âsp{±ø}uø∫z$ı∏Ωp","MS","INA",984
+"freeze","SC26B!","227.2!","N","N"," ","frèi∫z","MS"," ",984
+"cold spell","SC26B!","227.2!","O","N"," ","Âko∫{∞}l$ısp≤´{∞}l","MS"," ",984
+"frost","SC27A","228.1","N","N"," ","fr∑∫{∞}st","MS"," ",985
+"chilly","SC27A","228.1","A","Y"," ","tÛ±æl±ø","MS","INA",985
+"a little cool","SC27A","228.1","K","Y"," ","∞$l±Òl$kuøl","MS","INA",985
+"white frost","SC27B","228.2","O","N"," ","Âhwa´±ø't$ıfrè∑∫{∞}s","MS"," ",986
+"black frost","SC27B","228.2","O","N"," ","Âbl·{∞}k$ıfrè∑∫{∞}s","MS"," ",986
+"frost","SC27B","228.2","N","N"," ","frè∑∫{∞}s","MS","CNV",986
+"freeze","SC27B","228.2","N","N"," ","frèi∫z","MS"," ",986
+"ice","SC27B","228.2","N","Y"," ","•Ωº±øs","MS","INA",986
+"frost","SC28A","229.1","N","N"," ","frè∑∫{∞}s","MS","CNV",987
+"black frost","SC28A","229.1","O","N","less severe [than white frost]","Âbl·{∞}k$ıfrè∑∫{∞}s","MS"," ",987
+"white frost","SC28A","229.1","O","N"," ","Âhwµº±øt$ıfrè∑∫{∞}s","MS"," ",987
+"freeze","SC28A","229.1","N","N"," ","frèi∫z","MS"," ",987
+"freeze-up","SC28B","217.2","N","N"," ","Âfrèi∫zı¶›Ωp","MS"," ",988
+"freeze","SC28B","217.2","N","N"," ","frèi∫z","MS","CNV",988
+"light frost","SC28C","229.2","O","N"," ","Âla´æ±øt$ıfrè∑∫{∞}s","MS"," ",989
+"killing frost","SC28C","229.2","O","N"," ","kà±lç±øºn$frè∑∫{∞}s","MS"," ",989
+"frost","SC28C","229.2","N","N"," ","frè∑∫{∞}s","MS"," ",989
+"frost","SC28D","229.3","N","N"," ","Âfrè∑Ω∫{∞}st","MS"," ",990
+"freeze-up","SC28D","229.3","N","N"," ","Âfrèi∫zı¶Ωp","MS"," ",990
+"light frost","SC29A","230.2(*)","O","N"," ","Âlaæ±øt$ıfrèoΩ∫{∞}s","MS"," ",991
+"frost","SC29A","230.2(*)","N","N"," ","frèá∑∫{∞}s","MS"," ",991
+"frosty","SC29A","230.2(*)","A","Y"," ","frè∑ó´{∞}st±øº","MS","INA",991
+"heavy frost","SC29A","230.2(*)","O","N"," ","Âh≤´{∞}v±øº$ıfrèoΩ∫{∞}s","MS"," ",991
+"freeze","SC29A","230.2(*)","N","N"," ","frèi∫z","MS"," ",991
+"gentle freeze-up","SC29A","230.2(*)","O","N"," ","Âd˙±´nl$Âfrèi∫z$¶Ωp","MS"," ",991
+"frost","SC29B","230.1(*)","N","N"," ","frè∑Ω∫{∞}st","MS","CNV",992
+"frosty","SC29C","230.3","A","Y"," ","frè∑´{∞}st±ø´º","MS","INA/CNV",993
+"freeze","SC29C","230.3","N","N"," ","frèi∫{±ø}z","MS","CNV",993
+"freeze","SC29D"," ","N","N"," ","frèái∫z","MS"," ",994
+"NR","SC29E"," "," ","N"," "," ","MS"," ",995
+"frost","SC30A","231.1","N","N"," ","fr∑Ω∫{∞}s{t}","MS"," ",996
+"frost","SC30B","231.2","N","N"," ","fÚè∂´∫∑s","MS","CNV",997
+"freeze","SC30B","231.2","N","N"," ","fÚèi∫jz","MS","CNV",997
+"frost","SC30C!","231.3!","N","N"," ","fÚè∑º∫{∞}st","MS"," ",998
+"freeze","SC30C!","231.3!","N","N"," ","fÚèi∫{±ø}z","MS"," ",998
+"freeze","SC30C!","231.3!","N","N"," ","fÚèi∫z","MS"," ",998
+"white frost","SC31A","232.1","O","N"," ","Âhwa´æ∫±øt$ıfrè∑´∫{∞ó}s","MS"," ",999
+"frost","SC31A","232.1","N","N"," ","frè∑Ω∑st","MS"," ",999
+"black frost","SC31A","232.1","O","N","does more damage","Âbl·´{≤}k$ıfrè∑´∫{∞ó}s","MS"," ",999
+"freeze","SC31A","232.1","N","N"," ","frèi∫z","MS","CNV",999
+"ice","SC31A","232.1","N","Y"," ","a´æ∫±øs","MS","INA",999
+"heavy dew","SC31A","232.1","O","Y"," ","Âh≤´{∞}v±ø´º$ñdjuø∫","MS","INA",999
+"coarse frost","SC31B","232.2","O","N"," ","Âko´º∫∞ós$ıfrè∂´∫os","MS"," ",1000
+"frost","SC31B","232.2","N","N"," ","frè∂´∫∑s","MS"," ",1000
+"frost","SC31B","232.2","N","N"," ","frè∂´ºos","MS"," ",1000
+"freeze","SC31B","232.2","N","N"," ","frèi∫{j}z","MS"," ",1000
+"frost","SC32A","233.1","N","N"," ","fÚ∑Ω{∞}st","MS"," ",1001
+"freeze","SC32A","233.1","N","N","heavier [than frost]","fÚèi∫{±ø}z","MS"," ",1001
+"NR","SC32B","233.2"," ","N"," "," ","MS"," ",1002
+"frost","SC32C","233.3","N","N"," ","fÚè∑Ω{∞}st","MS"," ",1003
+"freeze","SC32C","233.3","N","N"," ","fÚèi∫{j}z","MS"," ",1003
+"frost","SC32D","233.4","N","N"," ","fÚè∑´º{∞}st","MS"," ",1004
+"freeze","SC32D","233.4","N","N"," ","fÚèi∫{j}z","MS"," ",1004
+"cold snap","SC32D","233.4","O","N"," ","Âk`oº∫πl$ısnè·´{∞}p","MS"," ",1004
+"frost","SC33A","234.1","N","N"," ","fr∑∫{∞}st","MS"," ",1005
+"black frost","SC33A","234.1","O","N","heavier [than frost]","bl·k$fr∑∫{∞}st","MS"," ",1005
+"frost","SC33B","234.2","N","N"," ","fÚè∑Ωost","MS"," ",1006
+"freeze","SC33B","234.2","N","N"," ","fÚèi∫jz","MS"," ",1006
+"frost","SC34A","235.1","N","N"," ","fÚè∂´∫∑s","MS"," ",1007
+"freeze","SC34A","235.1","N","N"," ","fÚ±ø´º∫{já}z","MS"," ",1007
+"frost","SC34B","235.2","N","N"," ","fÚ∂´∫∑st","MS"," ",1008
+"freeze","SC34B","235.2","N","N"," ","fÚi∫jz","MS"," ",1008
+"NR","SC34C","235.3"," ","N"," "," ","MS"," ",1009
+"frost","SC35A","236.1","N","N"," ","fÚè∂´∫∑st","MS"," ",1010
+"freeze","SC35A","236.1","N","N"," ","fÚèi´∫z","MS"," ",1010
+"NA","SC35B","236.2"," ","N"," "," ","MS"," ",1011
+"dew","SC35C","236.3(*)","N","Y"," ","d{±}uø∫","MS","INA/CNV",1012
+"chilly","SC35C","236.3(*)","A","Y"," ","tÛ±lç±ø´","MS","INA",1012
+"light frost","SC35C","236.3(*)","O","N"," ","Âlaæ±øt$ıfr∑Ω∑st","MS"," ",1012
+"big frost","SC35C","236.3(*)","O","N"," ","b±g$fr∑Ω∑st","MS"," ",1012
+"heavy frost","SC35C","236.3(*)","O","N"," ","h≤v±ø$fr∑Ω∑st","MS"," ",1012
+"killing frost","SC35C","236.3(*)","O","N"," ","k±lç±øn$fr∑Ω∑st","MS"," ",1012
+"cold","SC35C","236.3(*)","A","Y"," ","k`o∫{π}Ï","MS","INA",1012
+"frost","SC35C","236.3(*)","N","N"," ","fr∑Ω∑st","MS"," ",1012
+"freeze","SC35D"," ","N","N"," ","fÚèi∫jz","MS"," ",1013
+"frost","SC35D"," ","N","N"," ","fÚè∂´∫∑´s","MS"," ",1013
+"NR","SC35E!"," "," ","N"," "," ","MS"," ",1014
+"frost","SC36A","237.1","N","N"," ","fÚè∂´∑st","MS","CNV",1015
+"frost","SC36B","237.2","N","N"," ","fÚè∑Ωost","MS"," ",1016
+"freeze","SC36B","237.2","N","N","colder, more severe [than frost]","fÚèiΩæ∫jz","MS"," ",1016
+"frost","SC36C","237.3","N","N"," ","fÚè∂´∑st","MS"," ",1017
+"white frost","SC36C","237.3","O","Y"," ","Âhwµ´º±øt$ıfÚè∂´∑st","MS","OLD/HRD",1017
+"black frost","SC36C","237.3","O","Y","nearly a freeze","Âb≈·{≤}k$ıfÚè∂´∫∑st","MS","OLD",1017
+"freeze","SC36C","237.3","N","N"," ","fÚèi∫jz","MS"," ",1017
+"frost","SC36D!","237.4!","N","N"," ","fÚè∂´º∫∑ºst","MS","CNV",1018
+"freeze","SC36D!","237.4!","N","N","hard","fÚèiæ∫i´æz","MS","CNV",1018
+"frost","SC37","238","N","N"," ","fr∑Ωs","MS"," ",1019
+"cool","SC37","238","A","Y"," ","kuøæl","MS","INA",1019
+"chilly","SC37","238","A","Y"," ","tÛ±l±ø","MS","INA",1019
+"frost","SC38N","N239","N","N"," ","fÚ∂´∑´s","MS","CNV",1020
+"frost","SC38N","N239","N","N"," ","fÚ∑Ω∫∑´s","MS","CNV",1020
+"freeze","SC38N","N239","N","N","lots harder [than frost]","fÚèi∫jz","MS"," ",1020
+"frost","SC38A","239.1","N","N","same [as black frost/freeze]; ""it's ice froze¢","fÚè∑Ωost","MS"," ",1021
+"black frost","SC38A","239.1","O","Y","same [as frost/freeze]; ""it's ice froze¢","Âb≈·{≤}k$ıfÚ∑Ωost","MS","HRD",1021
+"freeze","SC38A","239.1","N","N","same [as black frost/frost]; ""it's ice froze¢","fÚèi∫jz","MS","CNV",1021
+"it's ice froze","SC38A","239.1","S","Y"," ","±´ts$Âa´æ±øs$ıfÚo∫πz","MS","INA",1021
+"frost","SC38B","239.2","N","N"," ","fÚè∂´oΩs{t}","MS"," ",1022
+"heavy frost","SC38B","239.2","O","N"," ","Âh≤v±ø´º$ıfÚè∂´ost","MS"," ",1022
+"freeze","SC38B","239.2","N","N"," ","fÚèiæ∫jz","MS"," ",1022
+"NR","SC38C!","239.3!"," ","N"," "," ","MS"," ",1023
+"frost","SC38D!","239.4(*)!","N","N"," ","fÚ∂∫{∑}st","MS"," ",1024
+"freeze","SC38D!","239.4(*)!","N","N"," ","fÚi∫jz","MS"," ",1024
+"NA","SC38E!"," "," ","N"," "," ","MS"," ",1025
+"frost","SC39A","240.1","N","N"," ","fÚè∑Ω∫ost","MS"," ",1026
+"Jack Frost","SC39A","240.1","O","N"," ","Âd˙·{≤}k$ıfÚè∂´∫∑´st","MS"," ",1026
+"freeze","SC39A","240.1","N","N"," ","fÚèi∫{±ø}z","MS"," ",1026
+"frost","SC39B!","240.2!","N","N"," ","fÚèó∑Ω∑s","MS"," ",1027
+"black frost","SC39B!","240.2!","O","N"," ","Âb≈·{≤}k$ıfÚè∑Ω∑s","MS"," ",1027
+"Jack Frost","SC39B!","240.2!","O","N"," ","Âd˙·{≤}k$ıfÚè∑Ω∑s","MS"," ",1027
+"white frost","SC39B!","240.2!","O","N"," ","Âhwa´æ±øt$ıfÚ∑Ω∑´s","MS"," ",1027
+"hoarfrost","SC39B!","240.2!","N","N"," ","Âhoº∫πıfÚó∑Ω∑´s","MS"," ",1027
+"freeze","SC39B!","240.2!","N","N"," ","fÚèi∫jz","MS"," ",1027
+"dew","SC39B!","240.2!","N","Y"," ","djuø∫u","MS","INA",1027
+"dew","SC39B!","240.2!","N","Y"," ","d{j}uø∫u","MS","INA",1027
+"frost","SC40A","241.1","N","N","caused from dew","frè∑Ωost","MS"," ",1028
+"freeze","SC40A","241.1","N","N","caused from rain","frè±iz","MS"," ",1028
+"frost","SC40B","241.2","N","N","""heavy dew¢","fÚè∂´oΩst","MS"," ",1029
+"frost","SC40B","241.2","N","N","""heavy dew¢","fÚè∑ΩoΩst","MS"," ",1029
+"freeze","SC40B","241.2","N","N"," ","fr±iz","MS"," ",1029
+"heavy dew","SC40B","241.2","O","Y"," ","Âh≤´v±ø´º$djyæuø´","MS","INA",1029
+"frost","SC41A","242.1","N","N"," ","fr∑Ω{∑}s","MS"," ",1030
+"chilly","SC41A","242.1","A","Y"," ","tÛ±ø∫{∞}lç±øΩ","MS","INA",1030
+"frost","SC41B","242.2","N","N"," ","frèﬁó´º∫{∑}st","MS"," ",1031
+"frost","SC41B","242.2","N","N"," ","frè∂´ost","MS","CNV",1031
+"freeze","SC41B","242.2","N","N"," ","frè±iz","MS"," ",1031
+"frost","SC42N","N243","N","N"," ","frè∂´ºoΩs","MS"," ",1032
+"frost","SC42N","N243","N","N"," ","frè∂´os","MS"," ",1032
+"freeze","SC42N","N243","N","N"," ","frèióΩi´z","MS"," ",1032
+"freezing cold","SC42N","N243","O","Y","[{Ï}]: doubtful","friói´z±æn$k`oº∫πº{Ï}","MS","INA/FDT",1032
+"NR","SC42M"," "," ","N"," "," ","MS"," ",1033
+"frost","SC42A","243.1","N","N"," ","frè∑ºoºs","MS","CNV",1034
+"frost","SC42A","243.1","N","N"," ","frè∑Ωoºs","MS","CNV",1034
+"frost","SC42A","243.1","N","N"," ","frè∑Ωºoºs","MS","CNV",1034
+"freeze","SC42A","243.1","N","N","colder [than frost]","frèióΩæi´æz","MS"," ",1034
+"frost","SC42B!","243.2!","N","N"," ","frè∂´∑st","MS"," ",1035
+"freeze","SC42B!","243.2!","N","N","colder [than frost]","frè±´æiæz","MS"," ",1035
+"heavy frost","SC42C!","243.3!","O","N"," ","Âh≤v±ø$frè∑Ω{oº}s{t}","MS"," ",1036
+"frosted over","SC42C!","243.3!","K","Y"," ","frè∑Ω{∑º}st±øΩºd$Âoº∫{πº}v∞","MS","INA",1036
+"freeze","SC42C!","243.3!","N","N","about 10 degrees colder than a frost","frèiΩiz","MS"," ",1036
+"NR","SC42D!","243.4!"," ","N"," "," ","MS"," ",1037
+"frost","SC42E!","243.5!","N","N"," ","frè∑Ω∑st","MS"," ",1038
+"freeze","SC42E!","243.5!","N","N"," ","friΩ{i}z","MS"," ",1038
+"NR","SC43A","244.1"," ","N"," "," ","MS"," ",1039
+"frost","SC43B","244.2","N","N"," ","frè∑ºoºst","MS"," ",1040
+"frost","SC43B","244.2","N","N"," ","frè∑î´º∫o›st","MS"," ",1040
+"frost","SC43B","244.2","N","N"," ","frè∂´oΩs{t}","MS","CNV",1040
+"frosted","SC43B","244.2","A","Y"," ","frè∂´oΩst±øºd","MS","INA/CNV",1040
+"freeze","SC43B","244.2","N","N","""little more severe¢ [than frost]","frèióæi´æz","MS"," ",1040
+"little more severe","SC43B","244.2","K","Y"," ","Âl±´têÏ$ımoΩº∫¥$ısi±´∫Âvè±Ω∫∞é","MS","INA",1040
+"frost","SC43C","244.3","N","N"," ","frè∂´∑st","MS"," ",1041
+"freeze","SC43C","244.3","N","N","forms ice","frèióΩæi´æz","MS"," ",1041
+"light frost","SC44A","245.1","O","N"," ","Âlµ´±øt$ıfrè∂´ºoºs","MS","CNV",1042
+"frost","SC44A","245.1","N","N"," ","frè∂î´º∫oºs","MS","CNV",1042
+"frost","SC44A","245.1","N","N"," ","frè∑Ωost","MS","CNV",1042
+"freeze","SC44A","245.1","N","N","colder [than frost]","frè±´æi´z","MS"," ",1042
+"freeze","SC44A","245.1","N","N","colder [than frost]","friæi´ºz","MS"," ",1042
+"NR","SC44B","245.2"," ","N"," "," ","MS"," ",1043
+"frost","GA1N","N246","N","N"," ","fr∑´∫{∞}s","MS"," ",1044
+"chilly","GA1N","N246","A","Y"," ","tÛ±æl±ø","MS","INA",1044
+"frost","GA1A","246.1(*)","N","N"," ","fÚè∑º∫{∞}s","MS"," ",1045
+"Jack Frost","GA1A","246.1(*)","O","N"," ","Âd˙·{≤}k$ıfÚè∑Ωº{∞}s","MS"," ",1045
+"frost","GA1A","246.1(*)","N","Y"," ","fr∑∫{∑´}s{t}","MS","AUX2",1045
+"freeze","GA1A","246.1(*)","N","N"," ","fÚèi∫{±ø}z","MS","CNV",1045
+"airish","GA1A","246.1(*)","A","Y"," ","·´{∞}r±Û","MS","INA",1045
+"frost","GA1B","246.11","N","N","""dew¢","fr∑Ω∫st","MS"," ",1046
+"freeze","GA1B","246.11","N","N"," ","fri∫{±ø}z","MS"," ",1046
+"dew","GA1B","246.11","N","Y"," ","duø∫","MS","INA",1046
+"frost","GA1C","246.2","N","N"," ","fÚè∑º∫{∞}s","MS"," ",1047
+"NR","GA1D","246.3"," ","N"," "," ","MS"," ",1048
+"frost","GA1E","246.4","N","N"," ","fÚè∑Ωº∫{∞}st","MS"," ",1049
+"freeze","GA1E","246.4","N","N"," ","fÚèi∫{±ø}z","MS"," ",1049
+"frost","GA1F!","246.5!","N","N"," ","fr∑Ω∫st","MS"," ",1050
+"airish","GA1F!","246.5!","A","Y"," ","er±øÛ","MS","INA",1050
+"sharp","GA1F!","246.5!","A","Y","rare","Ûµæ∫p","MS","INA",1050
+"fresh","GA1F!","246.5!","A","Y","only cool","fr≤ΩÛ","MS","INA",1050
+"NR","GA1G!","246.6!"," ","N"," "," ","MS"," ",1051
+"frost","GA1H!","246.7!","N","N"," ","frè∑Ωº∫{∑º}st","MS"," ",1052
+"frost","GA1H!","246.7!","N","Y"," ","frè∑Ωº∫{∑º}s","MS","AUX/CNV",1052
+"freeze","GA1H!","246.7!","N","N"," ","frèiΩæiæz","MS"," ",1052
+"frost","GA1H!","246.7!","N","N"," ","frè∑´º∫{∑º}s","MS"," ",1052
+"ground would be white frost","GA2N","N247","S","N"," ","ÂgÚáµ´º∫πn∞´d$b±ø$Âhwµ±øt$fÚè∑º{∞}s","MS"," ",1053
+"frosts","GA2N","N247","N","N","two or three)","fÚè∑º∫{∞}st±øºz","MS","SIC",1053
+"frost","GA2A","247.1","N","N"," ","fÚè∑º∫{∞}st","MS"," ",1054
+"heavy frost","GA2A","247.1","O","N"," ","Âh≤´{∞}v±ø´º$ıfÚè∑º∫{∞}st","MS"," ",1054
+"black freeze","GA2A","247.1","O","N"," ","Âb≈·{≤}k$ıfÚèi∫{±ø}z","MS"," ",1054
+"freeze","GA2A","247.1","N","N"," ","fÚèi∫z","MS","CNV",1054
+"frost","GA2B","247.2","N","N"," ","fÚè∑º∫{∞}st","MS"," ",1055
+"freeze","GA2B","247.2","N","N"," ","fÚèi∫jz","MS"," ",1055
+"heavy dew","GA2B","247.2","O","Y"," ","Âh≤∫{∞}v±ø´º$ñdjuøº","MS","INA",1055
+"dew itch","GA2B","247.2","O","Y","like athlete's foot","Âdjuøº$ı±´tÛ","MS","INA",1055
+"frost","GA3A","248.1","N","N"," ","frè∑:st","MS"," ",1056
+"Jack Frost","GA3A","248.1","O","N","little spews of ice in lowland","d˙aæk$frè∑:st","MS"," ",1056
+"fresh","GA3A","248.1","A","Y"," ","fr≤Û","MS","INA",1056
+"rather sharp","GA3A","248.1","K","Y"," ","rµæ:‰∞$Ûµæ:p","MS","INA",1056
+"airish","GA3A","248.1","A","Y"," ","≤´r±øÛ","MS","INA",1056
+"frost","GA3B","248.2","N","N"," ","frè∑∫{∞}st","MS"," ",1057
+"frost","GA3B","248.2","N","N"," ","frè∑´º∫{∞}st","MS"," ",1057
+"freeze","GA3B","248.2","N","N"," ","frèi∫z","MS"," ",1057
+"white frost","GA4N","N249","O","N"," ","w•±øt$fr∑∫s","MS"," ",1058
+"black frost","GA4N","N249","O","N","heavier [than white frost]","blça´k$fr∑∫s","MS"," ",1058
+"chilly","GA4N","N249","A","Y"," ","tÛ±lç±ø","MS","INA",1058
+"airish","GA4N","N249","A","Y"," ","e{∞}r±øÛ","MS","INA",1058
+"frost","GA4A","249.1","N","N"," ","frè∑´{∞}st","MS"," ",1059
+"freeze","GA4A","249.1","N","N"," ","frèi∫{±ø}z","MS"," ",1059
+"frost","GA4B","249.2","N","N"," ","frè∑´{∞}s","MS"," ",1060
+"black frost","GA4B","249.2","O","N"," ","Âbl·Ω{∞}k$ıfrè∑´{∞}s","MS"," ",1060
+"freeze","GA4B","249.2","N","N"," ","fri∫{±ø}","MS"," ",1060
+"mist","GA4B","249.2","N","Y"," ","m±øst","MS","INA",1060
+"rabbit dew","GA4B","249.2","O","Y","same as `mist'","r·Ω{∞}b±ø't$d±ø´º∫uø","MS","INA",1060
+"frost","GA4C!","249.3!","N","N"," ","fr∑´∫st","MS"," ",1061
+"black frost","GA4C!","249.3!","O","N"," ","Âbl·Ω{∞}k$ıfr∑∫{∞}st","MS"," ",1061
+"white frost","GA4C!","249.3!","O","N"," ","Âhw•±øt$ıfr∑∫{∞}st","MS"," ",1061
+"heavy frost","GA4C!","249.3!","O","N"," ","Âh≤´v±øº$ıfr∑∫{∞}st","MS"," ",1061
+"freeze","GA4C!","249.3!","N","N"," ","fri∫z","MS"," ",1061
+"white frost","GA5A","250.1","O","N"," ","Â{h}w∞±øt$ıfrè∑´∫{∞}st","MS"," ",1062
+"late frost","GA5A","250.1","O","N"," ","Âle´∫t$ıfrè∑´∫{∞}st","MS"," ",1062
+"black frost","GA5A","250.1","O","N"," ","Âbl·Ω{∞}k$ıfrè∑´∫{∞}st","MS"," ",1062
+"frost","GA5A","250.1","N","N"," ","frè∑ó´∫{∞}s","MS","CNV",1062
+"freeze","GA5A","250.1","N","N"," ","frèi∫{±ø}z","MS"," ",1062
+"freeze","GA5A","250.1","N","N"," ","frèiæ∫{±ø}z","MS"," ",1062
+"freezing","GA5A","250.1","A","Y"," ","frèi∫z±øºÓ","MS","INA/CNV",1062
+"cold snap","GA5A","250.1","O","N"," ","ÂkoΩ∫∞l$ısnè·Ω{∞}p","MS"," ",1062
+"NR","GA5B","250.2"," ","N"," "," ","MS"," ",1063
+"frost","GA5C","250.3","N","N"," ","frè∑Ω∫{∞}s","MS","CNV",1064
+"freeze","GA5D!","250.4!","N","N"," ","frèi∫{±ø}z","MS","CNV",1065
+"killing frost","GA5E!","250.5!","O","N"," ","Âkà±´lç±øn$ıfrè∑´{∞ó}s","MS"," ",1066
+"killing frost","GA5E!","250.5!","O","N"," ","Âkà±´lç±øn$ıfrè∑´∫{∞}st","MS"," ",1066
+"black frost","GA5E!","250.5!","O","N"," ","Âbl·Ω{∞}k$ıfrè∑´∫{∞}s","MS"," ",1066
+"black frost","GA5E!","250.5!","O","N"," ","Âbl·Ω{∞}k$ıfrè∑´∫∞›st","MS"," ",1066
+"frost","GA5E!","250.5!","N","N"," ","frèi∫{±ø}z","MS"," ",1066
+"frost","GA6A","251.1","N","N"," ","fr∑Ωº∫{∞}s","MS"," ",1067
+"light frost","GA6A","251.1","O","N"," ","Âl∞Ω±øt$ıfr∑Ωº∫{∞}st","MS"," ",1067
+"heavy frost","GA6A","251.1","O","N"," ","Âh≤´{∞}v±ø´º$ıfr∑Ωº∫{∞}st","MS"," ",1067
+"freeze","GA6A","251.1","N","N"," ","fri∫{±ø}z","MS"," ",1067
+"white frost","GA6B!","251.2!","O","N","ordinary","Âhw∞Ω±øt$ıfrè∑ó{∞}s{t}","MS"," ",1068
+"heavy frost","GA6B!","251.2!","O","N"," ","Âh≤´{∞}v±ø´º$ıfr∑´{∞}st","MS"," ",1068
+"black frost","GA6B!","251.2!","O","N","= ""ice¢","Âbl·{∞}k$ıfrè∑ó{∞}st","MS"," ",1068
+"late freeze","GA6B!","251.2!","O","N"," ","Âle´t$ıfrèi∫z","MS"," ",1068
+"ice","GA6B!","251.2!","N","Y"," ","∞´æ±øs","MS","INA",1068
+"heavy frost","GA7","256","O","N"," ","Âh≤´{∞}v±ø´º$ıfÚè∑Ω∫∑st","MS"," ",1069
+"freeze","GA7","256","N","N","heavier and colder [than heavy frost]","fÚèi∫z","MS"," ",1069
+"black frost","GA8A","257.1","O","N"," ","Âbl·Ω{∞}k$ıfrè∑ó´{∞}st","MS"," ",1070
+"freezes","GA8A","257.1","N","N"," ","fri∫z±øºz","MS"," ",1070
+"frost","GA8B","257.2","N","N"," ","frè∑Ω{∞}s","MS"," ",1071
+"heavy frost","GA8B","257.2","O","N"," ","Âh≤´{∞}v±ø´º$ıfrè∑Ω{∞}s","MS"," ",1071
+"light frost","GA8B","257.2","O","N"," ","Âlça∫±øt$ıfrè∑Ω{∞}s","MS"," ",1071
+"light freeze","GA8B","257.2","O","N"," ","ıla´æ∫±øt$Âfrèi∫z","MS"," ",1071
+"frost","GA9A","257A.1","N","N"," ","fr∂´os{t}","MS"," ",1072
+"dew","GA9A","257A.1","N","Y"," ","d{±}uø{uø´}","MS","INA",1072
+"frost","GA9B","257A.2","N","N"," ","fr∑Ω∫{∞}st","MS"," ",1073
+"frost","GA9B","257A.2","N","N"," ","fr∑Ω∫st","MS"," ",1073
+"hard freeze","GA9B","257A.2","O","N"," ","Âhµ¥d$ıfri{i´}z","MS"," ",1073
+"frost","GA10A","258.1","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",1074
+"black frost","GA10A","258.1","O","N","no white visible","blç·k$fr∑Ω{∑}s{t}","MS"," ",1074
+"sharp","GA10A","258.1","A","Y"," ","Ûµ´¥p","MS","INA",1074
+"chilly","GA10A","258.1","A","Y"," ","tÛ±lç±æ","MS","INA",1074
+"frost","GA10B","258.2","N","N"," ","frè∑´∫{∞}st","MS"," ",1075
+"freeze","GA10B","258.2","N","N"," ","frèi∫z","MS","CNV",1075
+"freeze","GA10B","258.2","N","N"," ","frèi∫{±ø}z","MS","CNV",1075
+"frost","GA11N","N258A","N","N"," ","fr∑os","MS"," ",1076
+"snow","GA11N","N258A","N","Y"," ","sno{π}","MS","INA",1076
+"NR","GA12A","259.1"," ","N"," "," ","MS"," ",1077
+"hoarfrost","GA12B!","259.2(.3)","N","N","stands up","Âhoº{∞}ıfr∑Ω∫st","MS"," ",1078
+"frost","GA12B!","259.2(.3)","N","N"," ","fr∑Ω∫st","MS"," ",1078
+"real freeze","GA12B!","259.2(.3)","O","N"," ","ır±∫{∞}l$Âfri∫z","MS"," ",1078
+"hard freeze","GA12B!","259.2(.3)","O","N"," ","hµ∫∞d$fri∫z","MS"," ",1078
+"frost","GA13A","260.1","N","N"," ","fr∑∫{∞}st","MS"," ",1079
+"black frost","GA13A","260.1","O","N"," ","blç·Ωk$fr∑∫{∞}st","MS"," ",1079
+"airish","GA13A","260.1","A","Y"," ","≤´r±øÛ","MS","INA",1079
+"chilly","GA13A","260.1","A","Y"," ","tÛ±lç±ø","MS","INA",1079
+"fresh","GA13A","260.1","A","Y","cool","fr≤Û","MS","INA",1079
+"dew","GA13A","260.1","N","Y"," ","d{i}uº","MS","INA",1079
+"frost","GA13B!","260.2!","N","N"," ","frè∑Ωº{∞}st","MS"," ",1080
+"freeze","GA13B!","260.2!","N","N"," ","frèiº∫{±ø}z","MS"," ",1080
+"freeze","GA13B!","260.2!","N","N"," ","frèi∫{±ø}z","MS","CNV",1080
+"black frost","GA13B!","260.2!","O","N"," ","Âb{∞}l·{∞}k$ıfr∑Ωº∞›st","MS"," ",1080
+"frost","GA13B!","260.2!","N","N"," ","fr∑Ω∫{∞}st","MS"," ",1080
+"frost","GA13B!","260.2!","N","N"," ","frè∂´º∞Ωst","MS"," ",1080
+"white frost","GA13B!","260.2!","O","N"," ","Âhwa´æ±øt$ıfr∑º∫∞st","MS"," ",1080
+"frost","GA14A","261.1","N","N"," ","fÚè∑Ωºs","MS","CNV",1081
+"white frost","GA14A","261.1","O","N"," ","Âhwa´æ∫±øt$ıfÚè∑º{∞}st","MS"," ",1081
+"killing frost","GA14A","261.1","O","N"," ","Âkà±´lç±æn$ıfÚè∑º{∞}s","MS"," ",1081
+"freeze","GA14A","261.1","N","N","heavier [than frost]","fÚèi∫jz","MS"," ",1081
+"hard freeze","GA14A","261.1","O","N"," ","Âhﬁº∫∞d$ıfÚèi∫jz","MS"," ",1081
+"light freeze","GA14A","261.1","O","N"," ","Âla´æ∫±øt$ıfÚèi∫jz","MS"," ",1081
+"frost","GA14B","261.3","N","N"," ","fÚè∑∫{∞}s","MS","CNV",1082
+"frost","GA14C","261.2","N","N"," ","fÚè∑º∫{∞}st","MS"," ",1083
+"frosty","GA14C","261.2","A","Y"," ","fÚè∑º∫{∞}st±ø´º","MS","INA/CNV",1083
+"freeze","GA14C","261.2","N","N"," ","fÚèiæ∫{±ø}z","MS"," ",1083
+"freeze","GA14C","261.2","N","N"," ","fÚèi∫{j}z","MS"," ",1083
+"frost","GA14C","261.2","N","N"," ","fÚè∑º∫{∞}st","MS"," ",1083
+"dew","GA14C","261.2","N","Y"," ","djuº","MS","INA",1083
+"heavy dew","GA14C","261.2","O","Y"," ","ñh≤´{∞}v±ø´º$Âdjuøº∫w","MS","INA",1083
+"dew","GA14C","261.2","N","Y","(settle on it","djuøº∫","MS","INA/CNV",1083
+"frost","GA15A","262.1","N","N"," ","fr∑Ω∫s{t}","MS"," ",1084
+"keen","GA15A","262.1","A","Y"," ","kijn","MS","INA",1084
+"chilly","GA15A","262.1","A","Y"," ","tÛ±{∞}l±ø","MS","INA",1084
+"sharp","GA15A","262.1","A","Y"," ","Ûµº∫p","MS","INA",1084
+"frost","GA15B","262.2","N","N"," ","frè∑∫{∞}st","MS"," ",1085
+"big frost","GA15B","262.2","O","N"," ","Âb±´g$ıfrè∑∫{∞}st","MS"," ",1085
+"little frost","GA15B","262.2","O","N"," ","Âl±´têl$ıfrè∑∫{∞}st","MS"," ",1085
+"freeze","GA15B","262.2","N","N"," ","frèi∫{j}z","MS"," ",1085
+"frost","GA16A","263.2","N","N"," ","frè∑∫{∞}st","MS"," ",1086
+"light frost","GA16A","263.2","O","N"," ","Âl•º±øt$ıfrè∑´{∞ó}st","MS"," ",1086
+"heavy frost","GA16A","263.2","O","N"," ","Âh≤´{∞}v±ø´º$ıfrè∑´{∞ó}st","MS"," ",1086
+"freeze","GA16A","263.2","N","N"," ","fri∫z","MS"," ",1086
+"frost","GA16B","263.1","N","N"," ","fr∑Ωº∫{∞}st","MS"," ",1087
+"light frost","GA16B","263.1","O","N"," ","Âla´æ∫±øt$ıfr∑Ωº∫{∞}st","MS"," ",1087
+"heavy frost","GA16B","263.1","O","N"," ","Âh≤´{∞}v±ø´º$ıfr∑Ωº∫{∞}st","MS"," ",1087
+"freeze","GA16B","263.1","N","N"," ","frèi∫{±ø}z","MS"," ",1087
+"frost","GA16C","263.21","N","N"," ","fr∑Ωo´st","MS"," ",1088
+"frost","GA16C","263.21","N","N"," ","fr∑Ω{o}{∞}s","MS"," ",1088
+"frost","GA16C","263.21","N","N"," ","fr∑∫∞s","MS"," ",1088
+"heavy frost","GA16C","263.21","O","N"," ","h≤v±ø$fr∑∫∞s","MS"," ",1088
+"freeze","GA16C","263.21","N","N"," ","fri∫{i´}z","MS"," ",1088
+"hard freeze","GA16C","263.21","O","N"," ","hµ´∞d$fri∫{i´}z","MS"," ",1088
+"dew","GA16C","263.21","N","Y"," ","d{±}uø","MS","INA",1088
+"frost","GA16D!","263.3!","N","N"," ","frè∑∫{∞}s{t}","MS"," ",1089
+"freeze","GA16D!","263.3!","N","N","more severe [than frost]","frèi∫{±ø}z","MS"," ",1089
+"frost","GA17N","N264","N","N"," ","fr∑Ωost","MS"," ",1090
+"cool","GA17N","N264","A","Y"," ","k`uø{uø´}l","MS","INA",1090
+"frost","GA17","264","N","N"," ","fr∑∫s","MS"," ",1091
+"cool","GA17","264","A","Y"," ","k`uø∫l","MS","INA",1091
+"chilly","GA17","264","A","Y"," ","tÛ±lç±ø´","MS","INA",1091
+"dew","GA17","264","N","Y"," ","d{±ø}uø∫","MS","INA",1091
+"frost","GA18A","264A.1","N","N"," ","fr∑∫{∑´}st","MS"," ",1092
+"frost","GA18B","264A.2","N","N"," ","fr∂oΩst","MS"," ",1093
+"freeze","GA18B","264A.2","N","N"," ","fri∫{i´}z","MS"," ",1093
+"nippy","GA18B","264A.2","A","Y"," ","n±p±ø","MS","INA",1093
+"cool","GA18B","264A.2","A","Y"," ","k`uø{uº}Ï","MS","INA",1093
+"big white frost","GA19A","265.1","O","Y"," ","Âb±{∞}g$Âhwa´∫∞t$ıfr∑Ω∑›s","MS","AUX2",1094
+"freeze","GA19A","265.1","N","Y"," ","frèi∫{j}z","MS","AUX2",1094
+"big frost","GA19B","265.2","O","N"," ","Âb±´{∞}g$ıfr∑´º∫oºst","MS"," ",1095
+"heavy frost","GA19B","265.2","O","N"," ","Âh≤´{∞}v±ø´º$ıfrè∂´º∫∑ºs","MS"," ",1095
+"freezing weather","GA19B","265.2","O","N"," ","Âfrèi∫{j}z±øºn$ıw≤´{∞}‰∞´","MS"," ",1095
+"frost","GA20A","266.1","N","N"," ","frè∑Ω∫∑st","MS"," ",1096
+"heavy frost","GA20A","266.1","O","N"," ","Âh≤´{∞}v±ø´º$ıfr∑º∑´ºst","MS"," ",1096
+"light frost","GA20A","266.1","O","N"," ","Âla´æ∫∞t$ıfr∑´º∫oºs","MS"," ",1096
+"freeze","GA20A","266.1","N","N","colder [than frost]","frèiæ∫{±ø}z","MS"," ",1096
+"NR","GA20B","266.2"," ","N"," "," ","MS"," ",1097
+"frost","GA21A","267.1","N","N"," ","fr∂´∑st","MS"," ",1098
+"light frost","GA21A","267.1","O","N","melts quickly","Âla´æ±øt$ıfr∂´∑st","MS"," ",1098
+"heavy frost","GA21A","267.1","O","N","may stay","Âh≤v±ø´$ıfr∂´∑st","MS"," ",1098
+"freezing","GA21A","267.1","A","Y"," ","fri∫i´zn","MS","INA",1098
+"NR","GA21B","267.2"," ","N"," "," ","MS"," ",1099
+"frost","GA22A","268A.1","N","N"," ","fr∑Ω{∑}s{t}","MS"," ",1100
+"chilly","GA22A","268A.1","A","Y"," ","tÛ±lç±ø´","MS","INA",1100
+"frost","GA22B","268A.2","N","N"," ","fr∑Ω∑st","MS"," ",1101
+"freeze","GA22B","268A.2","N","N"," ","friæ∫{±ø}z","MS"," ",1101
+"ice","GA22B","268A.2","N","Y"," ","a´∫±øs","MS","INA",1101
+"freeze","GA23A","268.1","N","N"," ","fri∫{±ø}z","MS","CNV",1102
+"frost","GA23B","268.11","N","N"," ","fr∂´πst","MS"," ",1103
+"dew","GA23B","268.11","N","Y"," ","d{i}uø{uø´}","MS","INA",1103
+"frost","GA23C","268.2","N","N"," ","fr∂´ost","MS"," ",1104
+"freeze","GA23C","268.2","N","N","""heaved¢","fri∫z","MS"," ",1104
+"heaved","GA23C","268.2","V","Y"," ","hiiΩˆd","MS","INA",1104
+"NR","GA23D!","268.3"," ","N"," "," ","MS"," ",1105
+"frost","GA23E!","268.4!","N","N"," ","fr∑Ω∑st","MS"," ",1106
+"frost","GA23F!","268.5!","N","N"," ","fÚ∑∫{∞}st","MS"," ",1107
+"frost","GA24N","N269","N","N"," ","fr∑os","MS"," ",1108
+"freeze","GA24N","N269","N","N"," ","friΩ{i´}z","MS"," ",1108
+"little freeze","GA24N","N269","O","N"," ","ıl±têÏ$ÂfriΩi´z","MS"," ",1108
+"frost","GA24A","269.1","N","N"," ","fr∑∫{∑´}s{t}","MS"," ",1109
+"right airish","GA24A","269.1","K","Y"," ","raæ≤ºt$Â·´{∞}r±øÛ","MS","INA",1109
+"frost","GA24B","269.2","N","N"," ","frè∑º∫∑s","MS"," ",1110
+"Jack Frost","GA24B","269.2","O","N","spewed up","Âd˙·{≤}k$ıfrè∑∫∑´s","MS"," ",1110
+"frost","GA24B","269.2","N","N"," ","frè∑´∫ost","MS","CNV",1110
+"freeze","GA24B","269.2","N","N"," ","frèi∫jz","MS","CNV",1110
+"frost","GA25N","N269A","N","N"," ","fr∑ost","MS"," ",1111
+"big frost","GA25N","N269A","O","N"," ","Âb±g$ıfr∑ost","MS"," ",1111
+"freeze","GA25N","N269A","N","N"," ","fri{i´}z","MS"," ",1111
+"frost","GA26","270A","N","N"," ","fr∑Ω∫∞st","MS"," ",1112
+"light frost","GA26","270A","O","N"," ","Âla±øt$ıfr∑Ω∫∞st","MS"," ",1112
+"heavy frost","GA26","270A","O","N"," ","Âh≤´v±ø$ıfr∑Ω∫∞st","MS"," ",1112
+"Jack Frost","GA26","270A","O","N"," ","Âd˙·k$ıfr∑Ω∫∞st","MS"," ",1112
+"freeze","GA26","270A","N","N"," ","fri∫{i´}z","MS"," ",1112
+"hard freeze","GA26","270A","O","N"," ","ıhﬁ∞d$Âfri∫{i´}z","MS"," ",1112
+"a good bite","GA27!","270!","O","Y"," ","∞$Âgπ{∞}d$Âbﬁ±ø›t","MS","INA",1113
+"cold","GA27!","270!","A","Y"," ","koπøÏ","MS","INA",1113
+"frost","GA27!","270!","N","N"," ","fr∑∫{{∑´}s","MS"," ",1113
+"frost","GA28","271a","N","N"," ","fr∂{∞}st","MS"," ",1114
+"cold","GA28","271a","A","Y"," ","koπΩld","MS","INA",1114
+"heavy frost","GA29A","271.1","O","N"," ","Âh≤´v±ø´º$ıfrè∑´∫{∞ó}st","MS"," ",1115
+"light frost","GA29A","271.1","O","N"," ","Âlµ´±øt$ıfrè∑´∫{∞ó}st","MS"," ",1115
+"frost","GA29A","271.1","N","N"," ","frè∑´∫{∞}st","MS"," ",1115
+"freeze","GA29A","271.1","N","N"," ","frèi∫z","MS"," ",1115
+"white frost","GA29B","271.2","O","N"," ","Âhwµ´±øt$ıfrè∂´∫∑s","MS"," ",1116
+"Jack Frost","GA29B","271.2","O","N","""spews up icicles¢","Âd˙·´{≤}k$ıfrè∂´∫∑s","MS"," ",1116
+"big frost","GA29B","271.2","O","N"," ","Âb±´g$ıfrè∂´∫∑s","MS"," ",1116
+"spews up icicles","GA29B","271.2","E","Y"," ","Âspjuø∫z$ı¶Ωp$Âµ´±øsıs±´kÏz","MS","INA",1116
+"freezing","GA29B","271.2","A","Y"," ","fri∫z±øºn","MS","INA",1116
+"NR","GA30A","272.1(*)"," ","N"," "," ","MS"," ",1117
+"frost","GA30B","272.2(*)","N","N"," ","fÚè∂´∫∑s","MS","CNV",1118
+"light frost","GA30C!","272.3!","O","N"," ","la±øt$fr∑Ωost","MS"," ",1119
+"killing frost","GA30C!","272.3!","O","N"," ","k±lç±øºÓ$fr∑Ωost","MS"," ",1119
+"frost","GA30C!","272.3!","N","N"," ","fr∑Ωost","MS"," ",1119
+"hoarfrost","GA30C!","272.3!","N","N","""spews up¢","ho∫∞fr∑Ωost","MS"," ",1119
+"spews up","GA30C!","272.3!","E","Y"," ","Âsp{±}uø{uø´}z$ı∏´p","MS","INA",1119
+"hard freeze","GA30C!","272.3!","O","N"," ","Âhµæ∫∞d$ıfri∫{i´}z","MS"," ",1119
+"freeze","GA30C!","272.3!","N","N"," ","fri∫{i´}z","MS"," ",1119
+"NR","GA30D"," "," ","N"," "," ","MS"," ",1120
+"NA","GA30E"," "," ","N"," "," ","MS"," ",1121
+"frost","GA31","272A","N","N"," ","fr∂´ost","MS"," ",1122
+"freeze","GA31","272A","N","N"," ","fri∫{i´}z","MS"," ",1122
+"frost","GA32","272B","N","N"," ","fr∂î∫{∑}{s}{t}","MS"," ",1123
+"freeze","GA32","272B","N","N"," ","fri∫{i´}z","MS"," ",1123
+"frost","GA33A","272C1","N","N"," ","fr∂´ost","MS"," ",1124
+"frost","GA33B","272C2","N","N"," ","fr∂´os{t}","MS"," ",1125
+"dew","GA33B","272C2","N","Y"," ","d±{∞}u","MS","INA",1125
+"freezes","GA34N","N273","N","N","plural; heavier [than frost]","frèi∫{j}z±øºz","MS"," ",1126
+"frost","GA34N","N273","N","N"," ","frè∑´∫s","MS","CNV",1126
+"frost","GA34N","N273","N","N"," ","frè∑Ω∫{∑}s","MS"," ",1126
+"light frost","GA34N","N273","O","N"," ","Âlaæ±øt$ıfrè∑∫∑´s","MS"," ",1126
+"Jack Frost","GA34N","N273","O","N"," ","Âd˙·{≤}k$ıfrè∑´oºs","MS"," ",1126
+"frost","GA34A","273.1","N","N"," ","fr∑Ω∫{∑}s{t}","MS"," ",1127
+"keen","GA34A","273.1","A","Y"," ","kijn","MS","INA",1127
+"frost","GA34B","273.2","N","N"," ","frè∑∫∑´st","MS"," ",1128
+"freeze","GA34B","273.2","N","N"," ","frèi∫{j}z","MS"," ",1128
+"Jack Frost","GA34B","273.2","O","N","dew","Âd˙·{≤}k$ıfrè∑∫∑´st","MS"," ",1128
+"Tom Frost","GA34B","273.2","O","N","spews up","Ât`ﬁóm$ıfrè∑∫∑´st","MS"," ",1128
+"frost","GA35N","N273A","N","N"," ","fr∂´∑st","MS"," ",1129
+"frost","GA36N","N274A","N","N"," ","fr∂´ost","MS","CNV",1130
+"freeze","GA36N","N274A","N","N"," ","fri{i´}z","MS"," ",1130
+"frost","GA37N","2N274","N","N"," ","frﬁó∂s","MS"," ",1131
+"freeze","GA37N","2N274","N","N"," ","fri∫{i´}z","MS"," ",1131
+"cool","GA37N","2N274","A","Y"," ","k`uø∫l","MS","INA",1131
+"dew","GA37N","2N274","N","Y"," ","d{±}uø{uø´}","MS","INA",1131
+"frosting","GA37N","2N274","N","Y"," ","frﬁóst±øÓ","MS","INA/CNV",1131
+"ice","GA37N","2N274","N","Y"," ","a´æ±øs","MS","INA",1131
+"frost","GA37M!","NC274","N","N"," ","fr∂´{∞}st","MS"," ",1132
+"light freeze","GA37M!","NC274","O","N"," ","ıla´æ±øt$Âfriæ{i´}z","MS"," ",1132
+"black frost","GA37A","274.1","O","N"," ","Âbl·{≤}k$ıfrè∑º∫{∞ó}s","MS"," ",1133
+"big white frost","GA37A","274.1","O","N"," ","Âb±´g$Âhwaæ±øt$ıfrè∑Ω∑s","MS"," ",1133
+"solid freeze","GA37A","274.1","O","N"," ","Âsﬁl±øºd$ıfrèi∫jz","MS","CNV",1133
+"freeze","GA37A","274.1","N","N"," ","frèi∫jz","MS","CNV",1133
+"frost","GA37A","274.1","N","N"," ","frè∑Ω∫∑s","MS","CNV",1133
+"frost","GA37A","274.1","N","N"," ","frè∂∫∑Ωs","MS","CNV",1133
+"freeze","GA37B","274.2","N","N"," ","frèi∫jz","MS"," ",1134
+"late frost","GA37B","274.2","O","N"," ","Âle´±æt$ıfrè∑∫∑´s","MS"," ",1134
+"frost","GA37B","274.2","N","N"," ","frè∑Ω∑s","MS"," ",1134
+"frost","GA37C","274.21","N","N"," ","frﬁóst","MS"," ",1135
+"freeze","GA37C","274.21","N","N"," ","friæ{i´}z","MS"," ",1135
+"freezes","GA37C","274.21","N","N","plural","friæ{i´}z±øz","MS"," ",1135
+"frost","GA37C","274.21","N","N"," ","fr∂î{∂}st","MS"," ",1135
+"frosts","GA37C","274.21","N","N"," ","fr∂sts","MS"," ",1135
+"dew","GA37C","274.21","N","Y"," ","d{±}uø{uø´}","MS","INA",1135
+"rough","GA37D!","274.7!","A","Y"," ","r∏´ºf","MS","INA",1136
+"raw","GA37D!","274.7!","A","Y"," ","r∂´o","MS","INA",1136
+"frost","GA37D!","274.7!","N","N"," ","fr∂´ost","MS"," ",1136
+"frost","GA37E!","274.8!","N","N"," ","fr∂´ost","MS"," ",1137
+"freeze","GA37E!","274.8!","N","N"," ","friΩæiz","MS"," ",1137
+"NR","GA37F!","274.3!"," ","N"," "," ","MS"," ",1138
+"heavy frost","GA37G!","274.4!","O","N"," ","h≤´{∞}v±æiæ$ıfrè∑Ω∑s{t}","MS"," ",1139
+"freeze","GA37G!","274.4!","N","N"," ","frèiæ∫{j}z","MS"," ",1139
+"heavy dew","GA37G!","274.4!","O","Y"," ","Âh≤´{±ø}v±æiæ$ñdjuø∫{w}","MS","INA",1139
+"frost","GA37H!","274.5!","N","N"," ","fr∑∫{∑´º}st","MS"," ",1140
+"frost","GA37H!","274.5!","N","N"," ","frè∑´∫{∞}st","MS"," ",1140
+"freezes","GA37H!","274.5!","N","N","plural","frèi∫jz±øºz","MS"," ",1140
+"frost","GA37H!","274.5!","N","N"," ","frè∑∫∑´s","MS","CNV",1140
+"heavy frost","GA37H!","274.5!","O","N"," ","Âh≤´{∞}v±æi$ıfrè∑∫∑´ºst","MS"," ",1140
+"frost","GA37I!","274.6!","N","N"," ","fr∂´ost","MS"," ",1141
+"dew","GA37I!","274.6!","N","Y"," ","d±øu","MS","INA",1141
+"killing frost","GA37I!","274.6!","O","N"," ","Âk±´l±øºn$ıfr∂´ost","MS"," ",1141
+"heavy frost","GA37I!","274.6!","O","N"," ","Âh≤v±ø´$ıfr∂´ost","MS"," ",1141
+"frost","GA38","275","N","N"," ","fr∑Ω∫{π}st","MS"," ",1142
+"cool","GA38","275","A","Y"," ","k`uø∫{uø´}Ï","MS","INA",1142
+"frost","GA39","275A","N","N"," ","fr∂´oΩs","MS"," ",1143
+"frost","GA40","276A","N","N"," ","fr∑Ω{o}st","MS"," ",1144
+"freeze","GA40","276A","N","N"," ","fri∫{i´}z","MS"," ",1144
+"hard freeze","GA40","276A","O","N"," ","Âhµ¥d$ıfri∫{i´}z","MS"," ",1144
+"cold spell","GA40","276A","O","N"," ","Âk`oº{π}Ï{d}$ısp≤∫{∞}Ï","MS"," ",1144
+"frost","GA41","276B","N","N"," ","fr∂´ost","MS"," ",1145
+"frost","GA41","276B","N","N"," ","fr∑Ω∫∑st","MS","CNV",1145
+"freezes","GA42A","276.1","N","N","there was)","frèi∫jz±øz","MS"," ",1146
+"frost","GA42A","276.1","N","N"," ","frè∂´∫∑st","MS"," ",1146
+"frost","GA42A","276.1","N","N"," ","frè∑∫∑´st","MS"," ",1146
+"freeze","GA42B","276.2","N","N"," ","frèiæ∫jz","MS"," ",1147
+"Jack Frost","GA42B","276.2","O","N"," ","Âd˙·{≤}k$ıfrè∑∫∑´st","MS"," ",1147
+"frosty","GA42B","276.2","N","Y"," ","Âfrè∑∫∑´st±ø´","MS","INA",1147
+"sharp","GA43","277","A","Y"," ","Ûµº¥p","MS","INA",1148
+"freezes","GA43","277","N","N"," ","fri∫jz±ø´z","MS"," ",1148
+"frost","GA43","277","N","N"," ","fr∑:s{t}","MS"," ",1148
+"freeze","GA44A","278.1","N","N"," ","frèi∫jz","MS"," ",1149
+"a light one","GA44A","278.1","O","N"," ","∞$laæ∫∞´'t$n","MS"," ",1149
+"frost","GA44A","278.1","N","N"," ","frè∑∫∑´st","MS"," ",1149
+"heavy frosts","GA44A","278.1","O","N"," ","Âh≤´v±ø´º$ıfrè∑∫∑´st±øºz","MS"," ",1149
+"frost","GA44B","278.2","N","N"," ","frè∑∫∑´st","MS","CNV",1150
+"freeze","GA44B","278.2","N","N"," ","frèi∫jz","MS","CNV",1150
+"freeze","GA44C","278.3","N","N"," ","frèi∫{j}z","MS"," ",1151
+"frost-proof beans","GA44C","278.3","O","Y"," ","Âfrè∑Ω∫∑s$ıp`rèuø∫{w}f$Âbi∫{j}nz","MS","INA/CNV",1151
+"light frost","GA44C","278.3","O","N"," ","Âla´æ±øt$ıfrè∑∫∑´s","MS"," ",1151
+"Jack Frost","GA44C","278.3","O","N","""all white¢","Âd˙·{≤}k$ıfrè∑∫∑´s","MS"," ",1151
+"NR","GA44D","278.4"," ","N"," "," ","MS"," ",1152
+"freeze","GA44E","278.5","N","N"," ","fri{i´}z","MS","CNV",1153
+"mountain dew","GA44E","278.5","O","Y"," ","Âma´æπn'tn$ñd{i}uø{uø}","MS","INA",1153
+"frost","GA44E","278.5","N","N"," ","fr∑Ω{∑}st","MS"," ",1153
+"heavy frost","GA44E","278.5","O","N"," ","Âh≤v±ø$ıfr∑Ω{∑}st","MS"," ",1153
+"frost","FL1","252","N","N"," ","frè∑´∫{∞}s","MS"," ",1154
+"frost","FL1","252","N","N"," ","frè∑´∫{∞ó}st","MS"," ",1154
+"freeze","FL1","252","N","N"," ","fri∫{±ø}z","MS","CNV",1154
+"freezes","FL2A","253.1","N","N","bad","frèi∫z±øºz","MS"," ",1155
+"heavy frost","FL2A","253.1","O","N"," ","Âh≤´v±ø´º$ıfrè∑´∫{∞}st","MS"," ",1155
+"light frost","FL2A","253.1","O","N"," ","Âlµ´º±øt$ıfrè∑´∫{∞}st","MS"," ",1155
+"frosty","FL2A","253.1","A","Y"," ","frè∑∫{∞}st±ø´º","MS","INA",1155
+"freeze","FL2B","253.2","N","N"," ","fri∫{i´}z","MS"," ",1156
+"frost","FL2B","253.2","N","N"," ","fr∑Ω∫{∞}st","MS"," ",1156
+"hard freeze","FL2B","253.2","O","N"," ","hµæ∫∞d$fri∫{i´}z","MS"," ",1156
+"deep freeze","FL2B","253.2","O","N"," ","di{i´}p$fri∫{i´}z","MS"," ",1156
+"frosts","FL2C!","253.3!","N","N"," ","frè∑º∫{∑}ss","MS"," ",1157
+"frost","FL2C!","253.3!","N","N"," ","frè∑º∫{∑}st","MS"," ",1157
+"freeze","FL2C!","253.3!","N","N"," ","frèi∫{±ø}z","MS"," ",1157
+"white frost","FL2C!","253.3!","O","N"," ","Âhw•´±øt$ıfrè∑Ωº∫∞›st","MS"," ",1157
+"light frost","FL2C!","253.3!","O","N"," ","Âl•´±øt$ıfrè∑Ωº∫∞›st","MS"," ",1157
+"freeze","FL3A","254.1","N","N"," ","fri∫z","MS"," ",1158
+"freeze","FL3A","254.1","N","N"," ","frèi∫{±ø}z","MS","CNV",1158
+"black frost","FL3A","254.1","O","N"," ","Âbl·{≤}k$ıfrè∑´∫{∞}s","MS"," ",1158
+"frost","FL3A","254.1","N","N"," ","frè∑´∫{∞}s","MS"," ",1158
+"frost","FL3B!","254.2!","N","N"," ","frè∑Ω∫{∞}st","MS","CNV",1159
+"dew","FL4","254A","N","Y"," ","d{i}uø{uø´}","MS","INA",1160
+"heavy frost","FL4","254A","O","N"," ","Âh≤v±ø$ıfr∂´∑´st","MS"," ",1160
+"heavy freeze","FL4","254A","O","N","heavier [than heavy frost]","Âh≤v±ø$ıfri∫{i´}z","MS"," ",1160
+"NR","FL5A","255.1"," ","N"," "," ","MS"," ",1161
+"freezing","FL5B","255.2","A","Y"," ","frèiæ∫z±øºn","MS","INA/CNV",1162
+"heavy frost","FL5B","255.2","O","N"," ","Âh≤´v±ø´º$ıfrè∑∫{∞}s","MS"," ",1162
+"freeze","FL5B","255.2","N","N"," ","frèi∫z","MS"," ",1162
+"","","","","","","","","",

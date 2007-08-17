@@ -1,0 +1,2643 @@
+"living room","NY1","50","O","N"," "," ","l±æv±øÓ$rπ´m","MS",1
+"sitting room","NY1","50","O","N"," "," ","s±tê±øÓ$rπ´m","MS",1
+"rented","NY1","50","V","Y"," ","INA","r≤ntê±øΩd","MS",1
+"setting room","NY2A","51.1","O","N"," "," ","s≤'tn$rum","MS",2
+"rented","NY2A","51.1","V","Y"," ","INA","r≤ntê±øΩd","MS",2
+"sitting room","NY2B","51.2","O","N"," "," ","s±ætê±øÓ$rum","MS",3
+"rented","NY2B","51.2","V","Y"," ","INA","r≤nt±øΩd","MS",3
+"living room","NY2C","51.3","O","N"," "," ","l±v±øÓ$rum","MS",4
+"sitting room","NY2C","51.3","O","Y"," ","AUX","Âs±'tn$ıru∫m","MS",4
+"sitting room","NY2C","51.3","O","N"," "," ","s±'tn$rum","MS",4
+"living room","NY2C","51.3","O","Y"," ","AUX","Âl±v±øΩÓ$ıru∫m","MS",4
+"rented","NY2C","51.3","V","Y"," ","INA","r≤nt±Ωd","MS",4
+"sitting room","NY3A","401","O","N"," "," ","Âs±øÒ±øÓ$rπ´um","MS",5
+"living room","NY3B","403","O","Y"," ","NEW","ÂÏ±v±øÓ$ırπ´um","MS",6
+"sitting room","NY3B","403","O","N","next best"," ","s±'tn$rπ´um","MS",6
+"parlor","NY3B","403","O","N","best"," ","p{h}µ:l∞","MS",6
+"living room","NY3C","402","O","N"," "," ","ÂÏ±v±øÓ$ırπΩæum","MS",7
+"sitting room","NY3C","402","O","Y"," ","OLD","Âs±æÒ±øÓ$rπΩæum","MS",7
+"setting room","NY3D","404","O","N"," "," ","s≤'tn$rπ›´u›m","MS",8
+"parlor","NY3D","404","N","Y","best","OLD","pµæ:l∞","MS",8
+"sitting room","NY4A","405","O","N"," "," ","s±'tn$ruº∫m","MS",9
+"parlor","NY4A","405","N","N","best room"," ","p{h}µ:l∞","MS",9
+"setting room","NY4B","407","O","N"," "," ","s≤'tn$ruº∫m","MS",10
+"living room","NY4C","408","O","N"," "," ","ÂÏ±v±øÓ$rπum","MS",11
+"sitting room","NY4C","408","O","Y"," ","OLD","s±æÒ±øÓ$rπum","MS",11
+"sitting room","NY5A","409","O","N"," "," ","s±øÒ±øÓ$ruº∫m","MS",12
+"parlor","NY5B","410","N","Y"," ","OLD","pµ:l∞","MS",13
+"living room","NY5B","410","O","N"," "," ","l±v±øÓ$rπ´um","MS",13
+"setting room","NY5B","410","O","Y"," ","NEW","s≤Ò±øÓ$rπ´um","MS",13
+"living room","NY5C","411","O","N"," "," ","Ï±æv±øÓ$rπ›´ºu›m","MS",14
+"front room","NY5C","411","O","N"," "," ","fr∏ºnt$rπ›´ºu›m","MS",14
+"living room","NY5D","412","O","N"," "," ","l±æv±øÓ$ru∫m","MS",15
+"parlor","NY5D","412","N","Y"," ","OLD","p{h}µ:l∞","MS",15
+"living room","NY5E","413","O","N"," "," ","l±v±øÓ$rπ´m","MS",16
+"parlor","NY5E","413","N","N"," "," ","p{h}µº:l∞","MS",16
+"best room","NY5E","413","O","N"," "," ","b≤st$rπ´m","MS",16
+"living room","NY5F","414","O","N"," "," ","Ï±æv±øÓ$rπum","MS",17
+"parlor","NY5F","414","N","Y","obsolete only","OLD","p{h}µ∫l∞","MS",17
+"living room","NY5G","415","O","N"," "," ","l±v±øÓ$rπum","MS",18
+"parlor","NY5G","415","N","Y"," ","OLD","p{h}ﬁº∫{∞}l∞","MS",18
+"living room","NY5H!","416!","O","N"," "," ","l±æv±øÓ$ruº∫m","MS",19
+"parlor","NY5H!","416!","N","Y","best","OLD","pµæ∫l∞´","MS",19
+"sitting room","NY5H!","416!","O","Y"," ","OLD","s±Ò±øÓ$ruº∫m","MS",19
+"parlor","NY5H!","416!","N","Y","best","OLD","pﬁº∫l∞´","MS",19
+"sitting room","NY5I!","417!","O","N"," "," ","Âs±Ò±øÓ$rπuºm","MS",20
+"living room","NY5I!","417!","O","Y"," ","NEW","l±æv±øÓ$rπ´uºm","MS",20
+"sitting room","NY6A","418","O","N"," "," ","s±Ò±øÓ$ru∫m","MS",21
+"living room","NY6B","419","O","N"," "," ","ÂÏ±v±øÓ$ıruº∫m","MS",22
+"front room","NY7A","420","O","N"," "," ","fr∏ºnt$ru∫m","MS",23
+"living room","NY7A","420","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",23
+"living room","NY7B","421","O","N"," "," ","Ï±øv±øÓ$ru∫m","MS",24
+"front room","NY7B","421","O","Y"," ","OLD","fr∏nt$ru∫m","MS",24
+"parlor","NY7B","421","N","Y"," ","OLD","p{h}µ∫Ï∞","MS",24
+"living room","NY7C","422","O","N"," "," ","Ï±æv±øÓ$ruº∫m","MS",25
+"front room","NY7C","422","O","N"," "," ","fÚ∏ºnt{s}{h}$ruº∫m","MS",25
+"living room","NY7D","423","O","N"," "," ","l±v±øÓ$ruº∫m","MS",26
+"parlor","NY7D","423","N","Y"," ","OLD","p{h}µ:l∞","MS",26
+"sitting room","NY7E","424","O","N"," "," ","s±øÒ±øÓ$ruº∫m","MS",27
+"parlor","NY7F","425","N","Y"," ","OLD","p{h}ﬁº:l∞","MS",28
+"living room","NY7F","425","O","N"," "," ","l±v±øÓ$ruº∫m","MS",28
+"front room","NY7G","426","O","N"," "," ","fˆü’∏nt$rπ´ºuºm","MS",29
+"living room","NY7G","426","O","Y","her children say","NEW","Ï±æv±øÓ$rπ´ºuºm","MS",29
+"parlor","NY7G","426","N","Y"," ","OLD","pµæ:l∞","MS",29
+"living room","NY7H","427","O","N"," "," ","Ï±øv±øÓ$rπum","MS",30
+"parlor","NY7H","427","N","N"," "," ","p{h}µæ∫{∞}l∞","MS",30
+"front room","NY7H","427","O","N","in ""Railroad Flats¢, in tenement houses"," ","Âfr∏nt$ırπum","MS",30
+"living room","NY7I","428","O","N"," "," ","l±v±øÓ$ruº∫m","MS",31
+"parlor","NY7I","428","N","Y"," ","OLD","pµæ:l∞","MS",31
+"living room","NY7J!","429!","O","N"," "," ","Âl±v±øÓ$ru∫m","MS",32
+"drawing room","NY7J!","429!","O","N","more formal [than living room, parlor]"," ","ÂdÚ∑∫±øÓ$ıru∫m","MS",32
+"library","NY7J!","429!","N","N","second floor"," ","la±øbr∞r±ø´","MS",32
+"parlor","NY7J!","429!","N","Y"," ","OLD","pﬁº∫l∞","MS",32
+"living room","NY7K!","430!","O","N"," "," ","l±æv±øÓ$ru∫m","MS",33
+"library","NY7K!","430!","N","N"," "," ","laæ±øbr≤ær±ø´","MS",33
+"back parlor","NY7K!","430!","O","N"," "," ","b·k$pµæ:l∞","MS",33
+"front parlor","NY7K!","430!","O","N"," "," ","fr∏ºnt$pµ:l∞","MS",33
+"living room","NY7L!","431!","O","N","in apartments, now"," ","Âl±v±øÓ$ruº∫m","MS",34
+"second drawing room","NY7L!","431!","O","N","rarely used; unheated"," ","s≤k∞nd$dÚ∑:±øÓ$ruº∫m","MS",34
+"library","NY7L!","431!","N","N","upstairs"," ","la±øbr≤æÒé±ø´","MS",34
+"drawing room","NY7L!","431!","O","N","in old houses"," ","dÚ∑:±øÓ$ruº∫m","MS",34
+"library","NY7M!","432!","N","N","used as living room"," ","laæ∫≤´br≤r±ø","MS",35
+"parlor","NY7M!","432!","N","N","formal"," ","pµæ:l∞","MS",35
+"living room","NY7M!","432!","O","N","in her country house"," ","l±v±øÓ$ruº∫m","MS",35
+"parlor","NY8","432b","N","Y"," ","OLD","pµæ∫l∞","MS",36
+"living room","NY8","432b","O","Y"," ","NEW","l±v±øÓ$ru∫m","MS",36
+"sitting room","NY8","432b","O","Y","second best","OLD","s±ø`Ò±øÓ$ru∫m","MS",36
+"living room","NY9A","432c","O","N"," "," ","Ï±v±øÓ$ruº∫m","MS",37
+"parlor","NY9A","432c","N","N"," "," ","pµ¥l¥","MS",37
+"front parlor","NY9B","433","O","N"," "," ","fr∏ºnt$pµ´¥∫l¥","MS",38
+"sitting room","NY9B","433","O","N","more used [than parlors]"," ","s±ætê±øÓ$ru∫m","MS",38
+"back parlor","NY9B","433","O","N"," "," ","b·´k$pµ´¥∫l¥","MS",38
+"front parlor","NY9C","434","O","N"," "," ","fr∏nt$pµ∫{∞}l∞é","MS",39
+"sitting room","NY9C","434","O","N","occupied more [than parlors]"," ","s±øÒ±øÓ$ru∫m","MS",39
+"back parlor","NY9C","434","O","N"," "," ","b·k$pµ∫{∞}l∞","MS",39
+"front room","NY10A","435","O","N"," "," ","fr∏nt$ruº∫m","MS",40
+"living room","NY10A","435","O","Y"," ","NEW","Âl±v±øÓ$ruº∫m","MS",40
+"parlor","NY10A","435","N","N"," ","SIC","pa´æ±øl¥","MS",40
+"sitting room","NY10B!","436!","O","N"," "," ","s±`Ò±øÓ$ru∫m","MS",41
+"library","NY10B!","436!","N","N"," "," ","la∫±øbr∞›r±ø´","MS",41
+"living room","NY10B!","436!","O","Y"," ","NEW","l±æv±øÓ$ru∫m","MS",41
+"living room","NY11","438","O","N"," "," ","Âl±øv±øÓ$ıruº∫m","MS",42
+"parlor","NY11","438","N","Y","best room","OLD","pµæ¥l¥","MS",42
+"living room","NY12A","439(*)","O","N"," "," ","l±v±øΩn$ruΩº∫m","MS",43
+"parlor","NY12A","439(*)","N","N"," "," ","p{h}µ´¥Ï¥","MS",43
+"parlor","NY12A","439(*)","N","Y"," ","AUX","p{h}µ´æ¥l¥","MS",43
+"setting room","NY12A","439(*)","O","Y"," ","AUX","s≤'tn$rπm","MS",43
+"parlor","NY12B","440","N","N","best room"," ","p{h}µ´º¥Ï¥","MS",44
+"sitting room","NY12B","440","O","Y","second best","OLD","s±æÒ±øÓ$rπm","MS",44
+"living room","NY12B","440","O","Y"," ","NEW","l±æv±øÓ$rπm","MS",44
+"living room","NY12C!","441!","O","N"," "," ","l±æv±øÓ$ruº∫m","MS",45
+"back parlor","NY12C!","441!","O","Y"," ","OLD","b·k$pµ∞él¥","MS",45
+"back parlor","NY12C!","441!","O","Y"," ","OLD","Âb·k$pµ¥›l¥›","MS",45
+"parlor","NY13A","443","N","N"," "," ","pµ¥l¥","MS",46
+"front room","NY13A","443","O","N"," "," ","Âfr∏nt$ıru∫m","MS",46
+"little sitting room","NY13B!","444!","O","N"," "," ","l±øÒÏ$s±øÒ±øÓ$ru∫m","MS",47
+"living room","NY13B!","444!","O","N"," "," ","l±æv±øÓ$ru∫m","MS",47
+"setting room","NY14A","445","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",48
+"living room","NY14B","446","O","N"," "," ","ÂÏ±v±øÓ$ru∫m","MS",49
+"sitting room","NY14B","446","O","N"," "," ","s±æÒ±øÓ$ruΩº∫m","MS",49
+"parlor","NY15A","447","N","N"," "," ","paæ¥Ï¥","MS",50
+"setting room","NY15A","447","O","N"," "," ","Âs≤tê±øÓ$ırπm","MS",50
+"living room","NY15B","448","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",51
+"sitting room","NY15B","448","O","N"," "," ","Âs±øÒ±øÓ$ru∫m","MS",51
+"living room","NY16A","449","O","Y","[±ø´]: doubtful","FDT","Ï±ø´v±øÓ$rπm","MS",52
+"parlor","NY16A","449","N","Y"," ","OLD","p{h}µ:Ï∞","MS",52
+"sitting room","NY16B","450","O","N"," "," ","s±øÒ±øÓ$ru∫m","MS",53
+"living room","NY17A","451(*)","O","N"," "," ","Âl±v±øn$ıru∫m","MS",54
+"setting room","NY17A","451(*)","O","Y"," ","AUX","s≤tn$ruº∫m","MS",54
+"living room","NY17B","452","O","N"," "," ","Ï±v±øÓ$rπ›u›m","MS",55
+"parlor","NY17B","452","N","Y","best","OLD","pµ¥l¥","MS",55
+"sitting room","NY17B","452","O","Y"," ","OLD","s±æÒ±øÓ$rπ›u›m","MS",55
+"front room","NY18A","453","O","N"," "," ","fr∏ºnt$rπ´um","MS",56
+"parlor","NY18A","453","N","N","best"," ","p{h}µ´¥l¥","MS",56
+"setting room","NY18A","453","O","N"," "," ","s≤'tn$rπ´um","MS",56
+"front room","NY18B","454","O","N"," "," ","fr∏ºnt$ru∫m","MS",57
+"living room","NY18B","454","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",57
+"library","NY18C!","455!","N","N"," "," ","Âlaæ±øıb{rü’à}≤r±ø´","MS",58
+"parlor","NY18C!","455!","N","N","at front"," ","p{h}µ:l∞","MS",58
+"sitting room","NY18C!","455!","O","Y","as a child; = living room","OLD","s±æÒ±øÓ$ruº∫m","MS",58
+"living room","NY18C!","455!","O","N","upstairs"," ","Ï±v±øÓ$ruº∫m","MS",58
+"parlor","NY19","456","N","N"," "," ","pµ´º¥Ï¥","MS",59
+"sitting room","NY20A","457","O","N"," "," ","s±Ò±øÓ$ru∫m","MS",60
+"parlor","NY20A","457","N","N"," "," ","pµ´¥Ï¥","MS",60
+"living room","NY20B","458","O","N"," "," ","ÂÏ±øv±øÓ$rπm","MS",61
+"parlor","NY20B","458","N","N","best room"," ","paæ¥Ï¥","MS",61
+"setting room","NY21","459","O","N"," "," ","Âs≤Ò±øÓ$ru∫m","MS",62
+"parlor","NY21","459","N","Y","best room","OLD","pa¥Ï¥","MS",62
+"living room","NY21","459","O","Y"," ","NEW","Ï±v±øÓ$ru∫m","MS",62
+"living room","NY22","460","O","N"," "," ","l±v±øÓ$ru∫m","MS",63
+"setting room","NY22","460","O","Y"," ","OLD","s≤Ò±øÓ$ru∫m","MS",63
+"setting room","NY23A","461","O","N"," "," ","Âs≤'tn$ıruΩº∫um","MS",64
+"parlor","NY23A","461","N","N"," "," ","p`µº¥l¥´","MS",64
+"big room","NY23B","462a","O","N"," "," ","Âb±´g$ıráπ´∫{∞}m","MS",65
+"living room","NY23B","462a","O","N"," "," ","l±´v±øºÓ$ráπ´∫{∞}m","MS",65
+"parlor","NY23B","462a","N","N"," "," ","p`µéæ¥l¥","MS",65
+"front room","NY23C","462b","O","N"," "," ","frè∏˛´ntéÚπ›ºm","MS",66
+"parlor","NY23C","462b","N","N"," "," ","p`µé¥l¥","MS",66
+"sitting room","NY23C","462b","O","N"," ","CNV","Âs±´tê±æÓ$ıruøΩ∫uºm","MS",66
+"sitting room","NY24A","463","O","N"," "," ","Âs±øÒ±øÓ$ıruº∫m","MS",67
+"living room","NY24B!","464!","O","N"," "," ","l±æv±øÓ$rπm","MS",68
+"front room","NY24B!","464!","O","N"," "," ","fÚ∏nt$rπm","MS",68
+"parlor","NY24B!","464!","N","N"," "," ","pa´æ¥Ï¥","MS",68
+"living room","NY25A","465","O","N"," "," ","Âl±øv±øºn$ırπ´m","MS",69
+"parlor","NY25A","465","N","N"," "," ","pµé¥l¥´æ","MS",69
+"living room","NY25A","465","O","N"," "," ","l±øv±øºn$rπ´∫um","MS",69
+"living room","NY25B","466","O","N"," "," ","Âl±øv±øÓ$ırπ´um","MS",70
+"parlor","NY25B","466","N","N"," "," ","pµé¥l¥","MS",70
+"sitting room","NY25B","466","O","N"," "," ","Âs±ætê±øºÓ$ırπ´∫um","MS",70
+"setting room","NY26A","467","O","N"," "," ","Âs≤'tn$ırπîºm","MS",71
+"parlor","NY26A","467","N","N"," "," ","pµé¥l¥´º","MS",71
+"dining room","NY26A","467","O","Y"," ","INA","Âd•´æ∫±ønnñ$rπ´m","MS",71
+"living room","NY26B","468","O","N"," "," ","Âl±´v±øºÓ$ıruΩ∫m","MS",72
+"sitting room","NY26B","468","O","N"," "," ","Âs±´Ò±øºÓ$ıruΩ∫m","MS",72
+"parlor","NY26B","468","N","N"," ","CNV","paé´¥l∞é","MS",72
+"living room","NY26B","468","O","N"," "," ","Âl±Ωv±øºÓ$ruΩ∫m","MS",72
+"living room","NY26C","469","O","N"," "," ","Âl±´v∞´n$ırπº∫m","MS",73
+"living room","NY27A","470","O","N"," "," ","Âl±æv±øºn$rπ´∫um","MS",74
+"parlor","NY27A","470","N","Y","""years ago¢","OLD","pµé¥l¥","MS",74
+"living room","NY27B","471","O","N"," "," ","Âl±´v±øΩn$ı{rè}rπ´∫{∞}m","MS",75
+"sitting room","NY27B","471","O","N"," "," ","Âs±´'tn$ırπ∫{∞}m","MS",75
+"parlor","NY27B","471","N","N"," "," ","pµé¥l¥","MS",75
+"sitting room","NY27C","472","O","N"," "," ","Âs±æ'tn$ırπ´∫m","MS",76
+"living room","NY27C","472","O","N","now","CNV","Âl±æv±øºn$ırπ´∫m","MS",76
+"parlor","NY27C","472","N","N"," "," ","p`µé¥l¥Ω","MS",76
+"living room","NY28A","473a","O","N"," ","CNV","Âl±´v±øºn$ırπΩ∫m","MS",77
+"parlors","NY28A","473a","N","N"," "," ","p`µé¥l¥Ωz","MS",77
+"living room","NY28B","473b(*)","O","N"," "," ","Âl±´v±øºÓ$ırπ´m","MS",78
+"parlor","NY28B","473b(*)","N","N","more formal [than living room]"," ","pµé¥l¥","MS",78
+"sitting room","NY28B","473b(*)","O","Y","less formal [than parlor]","SUG/DDT","Âs±æÒ±øºÓ$ırπ˛´{u˛}","MS",78
+"parlor","NY28C"," ","N","N","for company"," ","pµé¥l¥","MS",79
+"living room","NY28C"," ","O","N"," "," ","Âl±æv±øºÓ$ırπ∫um","MS",79
+"parlor","NY29A","474a","N","N"," "," ","Âpµé¥l¥","MS",80
+"sitting room","NY29A","474a","O","N","less formal [than parlor]"," ","Âs±'tn$ırπm","MS",80
+"parlor","NY29B","474b","N","N"," "," ","pµl∞é","MS",81
+"front room","NY29B","474b","O","N"," "," ","Âfrè∏ΩntéÚπºm","MS",81
+"front room","NY29B","474b","O","N"," ","CNV","Âfrè∏˛Ω{Á}$ıruΩ∫um","MS",81
+"parlor","NY29B","474b","N","N"," "," ","pµé¥l¥","MS",81
+"living room","NY29C","474c","O","N"," "," ","Âl±v±øºÓ$ıruΩ∫m","MS",82
+"parlor","NY29C","474c","N","N"," "," ","Âpµé¥l¥","MS",82
+"sitting room","NY29C","474c","O","N"," "," ","Âs±tê±øºÓ$ıru∫m","MS",82
+"setting room","NY29C","474c","O","N"," "," ","Âs≤'tn$ıru∫m","MS",82
+"parlor","NY30A","475a","N","N"," "," ","pµé¥l¥","MS",83
+"parlor","NY30B","475b","N","N"," "," ","pµéº¥l¥","MS",84
+"living room","NY30B","475b","O","N"," "," ","Âl±´v±øºn$ıruø∫{uº}m","MS",84
+"sitting room","NY30B","475b","O","N"," ","CNV","Âs±ø'tn$ırπm","MS",84
+"parlor","NY30C","475c","N","N","""no man's lands¢"," ","Âpµé¥l¥","MS",85
+"living room","NY30C","475c","O","N"," "," ","Âl±´v±øºÓ$ıruΩ∫{u}m","MS",85
+"no man's lands","NY30C","475c","O","Y"," ","INA/HRD","Ânoº{πº}$ım·∫{∞}nz$Âl·∫{∞}nz","MS",85
+"parlor","NY30D","475d","N","N"," "," ","Âpµé¥l¥","MS",86
+"sitting room","NY30D","475d","O","N"," "," ","Âs±'tn$ırπ´{u}m","MS",86
+"living room","NY30E","475e","O","N"," "," ","Âl±v±øÓ$ırπ∫m","MS",87
+"parlors","NY30E","475e","N","N","""all respectable people¢"," ","Âpµé¥l¥´z","MS",87
+"morgue","NY30E","475e","N","Y"," ","NEW/INA","m∑é¥g","MS",87
+"living room","NY31A","478a","O","N"," "," ","ÂÏ±æv±øÓ$ıÚuΩum","MS",88
+"front room","NY31A","478a","O","N"," ","CNV","ÂfÚè∏ºnıtéÚπum","MS",88
+"parlor","NY31A","478a","N","N"," ","CNV","Âpµé¥l¥","MS",88
+"living room","NY31B","478b","O","N"," "," ","ÂÏ±æv±øºÓ$ıÚuΩºuºm","MS",89
+"parlor","NY31B","478b","N","N","fancier [than living room]"," ","Âpµé¥l¥","MS",89
+"sitting room","NY32A","479a","O","N"," "," ","Âs±ætê±øºÓ$ıÚπum","MS",90
+"living room","NY32A","479a","O","N"," "," ","Âl±æv±øÓ$ıÚπum","MS",90
+"parlor","NY32B","479b","N","N"," "," ","p`µé¥l¥","MS",91
+"living room","NY32B","479b","O","N"," ","CNV","ÂÏ±æv±øÓ$ıÚéπm","MS",91
+"parlor","NY32B","479b","N","N"," ","CNV","p`•é¥l¥","MS",91
+"living room","NY33A","480","O","N"," "," ","Âl±´v±øná$ırπ´∫um","MS",92
+"front room","NY33A","480","O","N"," "," ","Âfrè∏Ωnt$ırπ´∫um","MS",92
+"living room","NY33B","481","O","N"," "," ","Âl±v±øºÓ$ıruΩum","MS",93
+"parlor","NY33B","481","N","Y"," ","OLD","pµé¥l¥","MS",93
+"living room","NY33C","482","O","N"," "," ","Âl±´v±øºÓ$ırπ´um","MS",94
+"sitting room","NY34A","483","O","N"," "," ","Âs±ætê±øºÓ$ıÚuΩºuºm","MS",95
+"parlor","NY34A","483","N","N"," "," ","pµé¥l¥","MS",95
+"front parlor","NY34B","484","O","N"," ","CNV","ıfÚè∏ºnt$Âpµé´¥l¥","MS",96
+"back parlor","NY34B","484","O","N"," "," ","Âb·k$ıpµé´¥l¥","MS",96
+"parlor","NY34C","485","N","N"," "," ","pµé¥l¥","MS",97
+"living room","NY34C","485","O","N"," "," ","ÂÏ±æv±øºÓ$ıÚuΩum","MS",97
+"double parlor","NY34D!","486!","O","N"," "," ","Âd∏´bÏ$ıpµé¥l¥","MS",98
+"living rooms","NY34D!","486!","O","Y"," ","NEW","Âl±æv±øºÓ$ıÚuΩºuºmz","MS",98
+"sitting room","NY34D!","486!","O","Y"," ","NEW","Âs±Ò±øºÓ$ıÚuΩºuºm","MS",98
+"drawing room","NY34D!","486!","O","N"," "," ","ÂdéÚ∑Ω±øΩÓ$ıÚuΩºuºm","MS",98
+"parlor","NY35A","487","N","N"," "," ","pa´æ¥l¥","MS",99
+"living room","NY35A","487","O","Y"," ","NEW","l±v±øΩn$ru∫m","MS",99
+"living room","NY35B","488","O","N"," "," ","ÂÏ±æv±øÓ$ru∫m","MS",100
+"parlor","NY35B","488","N","Y"," ","OLD","pµ¥l¥","MS",100
+"living room","NY35C!","489!","O","N"," "," ","l±v±øÓ$ru∫m","MS",101
+"library","NY35C!","489!","N","N"," "," ","Ïa´æ±øbr≤¥±ø´","MS",101
+"setting room","NY36A","491","O","N"," "," ","s≤tn$ru∫m","MS",102
+"living room","NY36B","492","O","N"," "," ","Âl±v±øn$ruº∫m","MS",103
+"sitting room","NY36B","492","O","N"," "," ","s±øÒ±øÓ$ruº∫m","MS",103
+"parlor","NY37A","493","N","N","""entered only with shoes off¢"," ","pa´æ¥l¥","MS",104
+"living room","NY37A","493","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",104
+"setting room","NY37A","493","O","Y"," ","OLD","s≤Ò±øn$ru∫m","MS",104
+"living room","NY37B","494","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",105
+"living room","NY37C!","495!","O","N"," "," ","l±v±øÓ$ru´m","MS",106
+"parlor","NY37C!","495!","N","N"," "," ","paæ¥Ï¥","MS",106
+"living room","NY38A","497(*)","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",107
+"sitting room","NY38A","497(*)","O","Y","natural","OLD","s±'tn$ru∫m","MS",107
+"living room","NY38B","498","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",108
+"living room","NY38C"," ","O","N"," "," ","ÂÏ±v±øÓ$ıru∫m","MS",109
+"parlor","NY38C"," ","N","Y","best","OLD","pµ´¥Ï¥","MS",109
+"setting room","NY39A","499","O","N"," "," ","s≤'tn$ru∫m","MS",110
+"parlor","NY39B","500","N","N"," "," ","paæ¥Ï¥","MS",111
+"living room","NY39B","500","O","N","second best"," ","Ï±v±øÓ$ru∫m","MS",111
+"setting room","NY40A","501","O","N"," "," ","s≤'tn$ru∫m","MS",112
+"parlor","NY40A","501","N","Y","best","OLD","pµ´º¥Ï¥","MS",112
+"living room","NY40B","502","O","N"," "," ","ÂÏ±v±øÓ$ru∫m","MS",113
+"parlor","NY40B","502","N","Y","best","OLD","pµ´º¥Ï¥","MS",113
+"sitting room","NY40B","502","O","Y","second best","OLD","s±Ò±øÓ$ru∫m","MS",113
+"living room","NY41","504","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",114
+"parlor","NY41","504","N","Y","best","OLD","pµ´º¥Ï¥","MS",114
+"sitting room","NY41","504","O","Y","second best","OLD","s±Ò±øÓ$ru∫m","MS",114
+"parlor","NY42A","505","N","N"," "," ","p`aæ¥Ï¥","MS",115
+"living room","NY42A","505","O","N","second best"," ","l±v±øΩn$ru∫m","MS",115
+"front room","NY42B","506","O","N"," "," ","fr∏nt$ruºm","MS",116
+"setting room","NY43A","507","O","N"," "," ","s≤'tn$ruΩ∫m","MS",117
+"sitting room","NY43B","507b","O","N"," "," ","s±{Á}tn$ruº∫m","MS",118
+"living room","NY43C!","508!","O","N"," "," ","Ï±v±øÓ$ruº∫m","MS",119
+"living room","NY44A","511","O","N"," "," ","Ï±v±øΩn$ru∫m","MS",120
+"parlor","NY44A","511","N","Y","best room","OLD","pµ¥l¥","MS",120
+"sitting room","NY44B","512","O","N"," "," ","Âs±æÒ±øÓ$ıru∫m","MS",121
+"living room","NY45A","513a","O","N"," "," ","Âl±æv±øΩn$ıréπ˛´m","MS",122
+"parlor","NY45A","513a","N","N"," "," ","p`µé¥l¥","MS",122
+"living room","NY45A","513a","O","N"," "," ","Âl±æv±øΩn$ırπ´{u}m","MS",122
+"living room","NY45B","513b","O","N"," "," ","Âl±æv±øºn$ıÚπºm","MS",123
+"sitting room","NY45B","513b","O","N"," "," ","Âs±æ'tn$ırπ´{u}m","MS",123
+"parlor","NY45B","513b","N","N"," ","CNV","pµl∞é","MS",123
+"sitting room","NY45B","513b","O","N"," "," ","Âs±ætê±øºÓ$ırπ´{u}m","MS",123
+"living room","NY45C","513c","O","N"," "," ","Âl±æv±øÓ$ıÚπ´m","MS",124
+"parlor","NY45C","513c","N","N"," "," ","Âpµé¥l¥","MS",124
+"living room","NY45D!","513d!","O","N"," "," ","Âl±æv±æÓ$ıÚáuΩºuºm","MS",125
+"front room","NY45D!","513d!","O","N"," ","CNV","ÂfÚè∏nt$ırπ´m","MS",125
+"parlor","NY45D!","513d!","N","N"," ","CNV","pµé¥l¥","MS",125
+"sitting room","NY46A","515a","O","N"," "," ","Âs±ætê±øºÓ$ıÚπº∫m","MS",126
+"parlor","NY46A","515a","N","N"," "," ","pµé¥l¥","MS",126
+"front room","NY46A","515a","O","N"," ","CNV","ÂfÚ∏ºnt$ırπ´ºm","MS",126
+"setting room","NY46A","515a","O","N"," "," ","Âs≤´'tn$ıÚπº∫m","MS",126
+"living room","NY46B","515b","O","N"," "," ","Âl±v±øn$ıruΩº∫uºm","MS",127
+"living room","NY46C","515c","O","N"," "," ","Âl±v±øºÓ$ırπ∫m","MS",128
+"parlor","NY46C","515c","N","N"," "," ","p`µº¥l¥","MS",128
+"front room","NY46C","515c","O","Y"," ","NEW","Âfr∏´ºnt$ırπ´m","MS",128
+"setting room","NY47A","517(*)","O","N"," "," ","Âs≤'tn$ıÚπ´m","MS",129
+"living room","NY47A","517(*)","O","Y"," ","AUX","ÂÏ±v±øÓ$rπ´æm","MS",129
+"setting room","NY47A","517(*)","O","Y"," ","AUX","s≤Ò±øÓ$rπ´æm","MS",129
+"living room","NY47B","518","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",130
+"sitting room","NY48A","519a","O","N"," "," ","Âs±ætn$ırπ∫uºm","MS",131
+"parlor","NY48B","519b","N","N"," "," ","pµé¥l¥","MS",132
+"parlor","NY48C","519c","N","N"," ","CNV","Âpµé∫l¥","MS",133
+"front parlor","NY48C","519c","O","N"," ","CNV","Âfrè∏∫nt$ıpµé¥l¥","MS",133
+"living room","NY48D","519d","O","N"," "," ","Âl±æv±øÓ$ıruΩºuºm","MS",134
+"parlor","NY48D","519d","N","N"," "," ","Âpµé¥l¥","MS",134
+"parlor","NY48D","519d","N","N"," ","CNV","Âp•é¥l¥","MS",134
+"parlor","NY49A","520","N","N"," "," ","Âpµé¥l¥´","MS",135
+"setting room","NY49B","521","O","N"," "," ","s≤'tn$rπ´um","MS",136
+"living room","NY49C","522a","O","N"," "," ","Âl±v±øn$ıruΩº∫m","MS",137
+"parlor","NY49C","522a","N","N"," "," ","p`µº¥l¥","MS",137
+"parlor","NY49C","522a","N","N"," "," ","p`µ¥l¥","MS",137
+"living room","NY49C","522a","O","N"," "," ","Âl±v±øn$ırπºm","MS",137
+"living room","NY49D","522b","O","N"," "," ","ÂÏ±v±øÓ$ıruº∫m","MS",138
+"den","NY49D","522b","N","N","smaller [than living room]"," ","d≤∫n","MS",138
+"living room","NY50A","523","O","N"," "," ","Âl±æv±øÓ$ıÚáπ´m","MS",139
+"parlor","NY50A","523","N","N"," "," ","Âpµé¥l¥","MS",139
+"parlor","NY50A","523","N","N"," ","CNV","paæ¥l¥","MS",139
+"living room","NY50B","524","O","N"," "," ","Âl±æv±øºÓ$ıÚπºuºm","MS",140
+"parlor","NY50B","524","N","N"," "," ","pµé¥l¥","MS",140
+"parlor","NY50B","524","N","N"," ","CNV","pµé∫l¥","MS",140
+"sitting room","NY51A","525a","O","N"," "," ","Âs±æ'tn$ıÚπºm","MS",141
+"parlor","NY51A","525a","N","N"," "," ","pµé¥l¥","MS",141
+"living rooms","NY51B","525b","O","N"," "," ","Âl±æv±øºn$ırπºmz","MS",142
+"parlor","NY51B","525b","N","N"," "," ","pµé¥l¥","MS",142
+"sitting room","NY51C","525c","O","N"," "," ","Âs±ætê±øÓ$ıÚuΩºuºm","MS",143
+"parlor","NY51C","525c","N","N"," "," ","pµé¥l¥","MS",143
+"living room","NY51D","525d","O","N"," "," ","Âl±øºv±øÓ$ıÚáπ›m","MS",144
+"parlor","NY51D","525d","N","N"," "," ","pµé¥l¥","MS",144
+"parlor","NY51E!","525e!","N","N"," "," ","p•é¥l¥","MS",145
+"parlor","NY51E!","525e!","N","N"," "," ","pµ´¥l¥","MS",145
+"living room","NY52A","527","O","N"," "," ","Âl±´v±øºÓ$ırπΩm","MS",146
+"parlor","NY52A","527","N","N","""double doors¢"," ","Âpµ´æ¥l¥","MS",146
+"double doors","NY52A","527","O","Y"," ","INA","Âd∏ºbÏ$ıdoéº¥z","MS",146
+"parlor","NY52B","528","N","N"," "," ","pµé¥l¥","MS",147
+"living room","NY52B","528","O","N"," "," ","Âl±æv±øÓ$ıruøΩuøm","MS",147
+"sitting room","NY52C","528b","O","N"," "," ","Âs±tê±øºÓ$ıruø∫m","MS",148
+"living room","NY52C","528b","O","N"," "," ","Âl±v±øÓ$ıruø∫m","MS",148
+"parlor","NY53A","529","N","N"," "," ","Âp•Ω¥l¥","MS",149
+"setting room","NY53A","529","O","N"," "," ","Âs≤´'tn$ıÚπ´m","MS",149
+"sitting room","NY53B!","530!","O","N"," "," ","Âs±ætê±øºÓ$ıÚπm","MS",150
+"living room","NY53B!","530!","O","Y"," ","NEW","Âl±æv±øºÓ$ıÚπ´m","MS",150
+"parlor","NY53B!","530!","N","N","more formal [than sitting room]"," ","Âpµé∫¥l¥","MS",150
+"living room","NY54A","531","O","N"," "," ","Âl±v±øΩn$ırπm","MS",151
+"living room","NY54B","532","O","N"," "," ","Âl±v±ø›Ó$ıru∫m","MS",152
+"rumpus room","NY54B","532","O","Y"," ","NEW","Âr∏ºmp∞s$ıru∫m","MS",152
+"living room","NY55A","533","O","N"," "," ","Âl±´v±øÓ$ırπum","MS",153
+"parlor","NY55A","533","N","N","separate"," ","pµé´¥l¥","MS",153
+"setting room","NY55A","533","O","N"," ","CNV","Âs≤´tê±øºÓ$ıÚπm","MS",153
+"parlor","NY55B","534","N","N"," "," ","pµé¥l¥","MS",154
+"sitting room","NY55B","534","O","N"," "," ","Âs±´tê±øºÓ$ırπm","MS",154
+"room","NY55B","534","N","Y"," ","INA/CNV","rπm","MS",154
+"living room","NY55B","534","O","N"," "," ","l±æv±øºÓ$rπm","MS",154
+"sitting room","NY55B","534","O","N"," ","CNV","Âs±æÒ±øºÓ$ırπm","MS",154
+"room","NY55B","534","N","Y"," ","INA/CNV","rπum","MS",154
+"living room","NY56A","535","O","N"," "," ","Âl±æv±øΩn$ıÚæuΩ∫m","MS",155
+"front room","NY56A","535","O","N"," ","CNV","Âfr∏ºnt$ıÚu˛Ωu˛m","MS",155
+"parlor stove","NY56A","535","O","Y"," ","INA/CNV","Âpµé¥l¥$ıstoΩºπºv","MS",155
+"parlor cook stove","NY56A","535","O","Y"," ","INA/CNV","Âpµé¥l¥$Âkπk$ıstoΩºπºv","MS",155
+"front room","NY56B","536","O","N"," "," ","ÂfÚ∏ºnt$ıÚuΩum","MS",156
+"parlor","NY56B","536","N","N"," "," ","p`µé¥l¥","MS",156
+"sitting room","NY57A","537a","O","N"," "," ","Âs±´Ò±øÓ$ıÚπm","MS",157
+"parlor","NY57A","537a","N","N"," "," ","pµé¥l¥","MS",157
+"front room","NY57A","537a","O","N"," ","CNV","ÂfÚ∏ºnt$ıÚπ{u}m","MS",157
+"sitting room","NY57A","537a","O","N"," "," ","Âs±´Ò±øÓ$Úπ{u}m","MS",157
+"sitting room","NY57B","537b","O","N"," "," ","Âs±ætê±øÓ$ıÚπu›m","MS",158
+"living room","NY57B","537b","O","N"," "," ","Âl±æv±øÓ$ıÚπu›m","MS",158
+"parlor","NY57B","537b","N","N","across hall from living room"," ","p`µé¥l¥","MS",158
+"setting room","NY57B","537b","O","N"," "," ","Âs≤æt±øÓ$ıÚπu›m","MS",158
+"sitting room","NY57C!","537c!","O","N"," "," ","Âs±ætê±øÓ$ıÚu›Ωu›m","MS",159
+"living room","NY57C!","537c!","O","Y"," ","NEW","Âl±æv±øÓ$ıÚu›Ωu›m","MS",159
+"parlor","NY57C!","537c!","N","N"," "," ","pµé¥l¥","MS",159
+"parlor","NY58A","539a","N","N"," "," ","pµé¥l¥","MS",160
+"front room","NY58A","539a","O","N"," "," ","frè∏ºntéÚπº{uº}m","MS",160
+"parlor","NY58B","539b","N","N","""shut up¢"," ","pµé¥l¥","MS",161
+"living room","NY58B","539b","O","N"," "," ","Âl±´æv±øn$ıÚuΩum","MS",161
+"shut up","NY58B","539b","E","Y"," ","INA","ÂÛ≤t$ı∏ºp","MS",161
+"sitting room","NY58B","539b","O","N"," "," ","s±´'tn$ıÚuø˛Ωæuø˛æ{m}","MS",161
+"front room","NY58B","539b","O","N"," ","CNV","ÂfÚè∏ºnt$ıÚéuø{uø}m","MS",161
+"living room","NY58C","539c","O","N"," "," ","Âl±æv±øºÓ$ırπ{u}m","MS",162
+"sitting room","NY58C","539c","O","N"," "," ","Âs±´tê±øºÓ$ırπ{u}m","MS",162
+"parlor","NY58C","539c","N","N"," "," ","pµé¥l¥","MS",162
+"parlor","NY58D!","539d!","N","N"," "," ","pµ∫∞l∞é","MS",163
+"living room","NY58D!","539d!","O","N"," "," ","Âl±´v±øΩÓ$ırπm","MS",163
+"sitting room","NY58D!","539d!","O","N"," ","CNV","Âs±æÒ±øºÓ$ıróπ´m","MS",163
+"parlor","NY58E!","539e!","N","N"," "," ","pµ¥l¥","MS",164
+"front parlor","NY58E!","539e!","O","N","shut off"," ","frè∏ºnt$pµ¥l¥","MS",164
+"back parlor","NY58E!","539e!","O","N"," "," ","b·´{≤}k$pµ¥l¥","MS",164
+"drawing room","NY58E!","539e!","O","Y"," ","NEW","ÂdéÚ∑Ω∫±øºÓ$ırπºm","MS",164
+"living room","NY58E!","539e!","O","Y","old library","NEW","Âl±´v±øºÓ$ıÚπ´m","MS",164
+"front room","NY58E!","539e!","O","N"," ","CNV","ÂfÚè∏ºnt$ıÚπºm","MS",164
+"parlor","NY58E!","539e!","N","N"," "," ","pµ¥l∞é¥æ","MS",164
+"living room","NY58F!","539f!","O","N"," "," ","Âl±æv±øºÓ$ırπΩm","MS",165
+"parlor","NY58F!","539f!","N","N"," ","CNV","pµ∫l∞","MS",165
+"sitting room","NY58F!","539f!","O","N"," ","CNV","Âs±æÒ±øºÓ$ıÚπ´m","MS",165
+"east hall","NY58F!","539f!","O","N"," ","CNV","Âi∫{j}st$ıh∂´Ï","MS",165
+"living room","NY59A","543","O","N"," "," ","Âl±æv±øÓ$ıÚπ´m","MS",166
+"parlor","NY59A","543","N","N"," "," ","Âpµé¥l¥","MS",166
+"room","NY59A","543","N","Y"," ","INA/CNV","ÚuøΩuøm","MS",166
+"sitting room","NY59A","543","O","N"," "," ","Âs±ø'tn$ıÚuΩum","MS",166
+"sitting room","NY59A","543","O","N"," ","CNV","Âs±øtê±øÓ$ıÚuΩum","MS",166
+"sitting room","NY59B","544","O","N"," "," ","s±t±øΩn$rπ´m","MS",167
+"parlor","NY60A","545","N","N"," "," ","pµé¥l¥","MS",168
+"living room","NY60A","545","O","N"," "," ","Âl±´v±øºÓ$ıÚuΩum","MS",168
+"sitting room","NY60A","545","O","N"," ","CNV","Âs±æÒ±øÓ$ıÚuΩum","MS",168
+"sitting room","NY60B!","546!","O","N"," "," ","Âs±ætê±øºÓ$ıÚπ´m","MS",169
+"best parlor","NY60B!","546!","O","N"," "," ","Âb≤´s$ıpµé¥l¥´","MS",169
+"setting room","NY61A","547","O","N"," "," ","Âs≤'tn$ıru˛Ωº{u˛}m","MS",170
+"sitting room","NY61B","548","O","N"," "," ","Âs±´tê±øºÓ$ıruº∫m","MS",171
+"parlor","NY61B","548","N","N"," ","CNV","pµé¥l¥","MS",171
+"sitting room","NY62A","551a","O","N"," "," ","Âs±tê±øÓ$ıruøΩuøm","MS",172
+"parlor","NY62A","551a","N","N"," "," ","pµé¥l¥","MS",172
+"setting room","NY62B","551b","O","N"," "," ","Âs≤´tên$ıru∫m","MS",173
+"living room","NY62B","551b","O","N"," ","CNV","Âl±æv±øºÓ$ırπ˛{m}","MS",173
+"front room","NY62B","551b","O","N"," ","CNV","Âfrè∏ºnt$ıréπ´∫m","MS",173
+"parlor","NY62C","551c","N","N"," "," ","pµé¥l¥","MS",174
+"sitting rooms","NY62C","551c","O","N"," "," ","Âs±´tê±øºÓ$ırπ´∫umz","MS",174
+"living room","NY62C","551c","O","N"," "," ","Âl±´v±øºÓ$ıru˛Ω∫{u˛}m","MS",174
+"parlor","NY62D!","551d!","N","N"," "," ","pµé¥l¥","MS",175
+"living room","NY62D!","551d!","O","N","second floor"," ","Âl±´v±øºÓ$ıráπ›´m","MS",175
+"living rooms","NY62D!","551d!","O","N"," "," ","Âl±´v±øºÓ$ıráπî›ºms","MS",175
+"sitting rooms","NY62D!","551d!","O","N"," "," ","Âs±´tê±æÓ$ıráπºmz","MS",175
+"room","NY62D!","551d!","N","Y"," ","INA/CNV","rπΩm","MS",175
+"setting room","NY62D!","551d!","O","N"," ","CNV","Âs≤´'tn$ıruΩ∫m","MS",175
+"parlor","NY63A","556a","N","N"," "," ","Âpµé´¥l¥","MS",176
+"living room","NY63A","556a","O","N"," "," ","Âl±´v±øºn$ırπm","MS",176
+"sitting rooms","NY63A","556a","O","N"," "," ","Âs±æ'tn$ırπu›mz","MS",176
+"room","NY63A","556a","N","Y"," ","INA/CNV","ÂruΩum","MS",176
+"room","NY63A","556a","N","Y"," ","INA/CNV/SIC","rπΩ∫m","MS",176
+"setting room","NY63A","556a","O","N"," ","CNV","ıs≤'tn$Ârπum","MS",176
+"sitting rooms","NY63A","556a","O","N"," "," ","Âs±æ'tn$ırπmz","MS",176
+"parlor","NY63B","556b","N","N","older name [than living room]"," ","p•´¥l¥","MS",177
+"living room","NY63B","556b","O","N"," "," ","Âl±´v±øºÓ$ırπ´m","MS",177
+"sitting room","NY63B","556b","O","N"," "," ","Âs±æÒ±øºÓ$ırπ´m","MS",177
+"living room","NY63C","556c","O","N"," "," ","Âl±v±øÓ$rπ´m","MS",178
+"sitting room","NY63C","556c","O","N"," "," ","s±tn$rπ´m","MS",178
+"parlor","NY63C","556c","N","Y","best room","OLD","pµº¥l¥","MS",178
+"sitting room","NY63D!","556d!","O","N"," "," ","Âs±æÒ±øºÓ$rπî›ºm","MS",179
+"best room","NY63D!","556d!","O","N"," "," ","Âb≤´st$ırπ´m","MS",179
+"sitting room","NY63D!","556d!","O","N"," "," ","Âs±æ'tn$ırπî›ºm","MS",179
+"company room","NY64A","557a","O","N"," "," ","Âk∏˛{m}p∞´n±´æ$ırπm","MS",180
+"living room","NY64A","557a","O","N"," "," ","Âl±´v±øºn$ırπm","MS",180
+"parlor","NY64A","557a","N","N"," ","CNV","pµé¥l¥´","MS",180
+"front parlor","NY64B","557b","O","N"," "," ","Âfrè∏ºnt$ıpµé¥l¥","MS",181
+"living room","NY64B","557b","O","N"," "," ","Âl±v±øºÓ$ırπ∫m","MS",181
+"rooms","NY64B","557b","N","Y"," ","INA/CNV","rπmz","MS",181
+"living room","NY64C!","557c!","O","N"," "," ","Âl±´v±øºÓ$ırπm","MS",182
+"parlor","NY64C!","557c!","N","N","""DAR meetings¢"," ","p`µé¥l¥","MS",182
+"front room","NY64C!","557c!","O","N"," ","CNV","fr∏Ωnt$rπ›m","MS",182
+"parlor","NJ1A","1","N","N"," "," ","pµ∫l¥","MS",183
+"setting room","NJ1A","1","O","N"," "," ","s≤tn$ruøæ∫m","MS",183
+"sitting room","NJ1B","2","O","N"," "," ","s±tê±øÓ$ruøæ∫m","MS",184
+"parlor","NJ1B","2","N","Y","best room","OLD","p∂îº¥l¥","MS",184
+"setting room","NJ2A","3(*)","O","N"," "," ","s≤tn$ruºm","MS",185
+"parlor","NJ2A","3(*)","N","N"," "," ","p∂´º¥l¥","MS",185
+"parlor","NJ2A","3(*)","N","Y","best","AUX","p∂´º∫{∞}l¥","MS",185
+"living room","NJ2A","3(*)","O","Y"," ","AUX/NEW","l±v±øÓ$ruøæ∫m","MS",185
+"living room","NJ2B","4","O","N"," "," ","l±v±øÓ$ruºm","MS",186
+"parlor","NJ2B","4","N","N"," "," ","pµl¥","MS",186
+"front room","NJ3A","5","O","N"," "," ","fr∏´nt$ruºm","MS",187
+"sitting room","NJ3B","6","O","N"," "," ","s±Ò±øÓ$ruºm","MS",188
+"parlor","NJ4A","7","N","N"," "," ","p∂∫l¥","MS",189
+"setting room","NJ4A","7","O","N"," "," ","s≤tn$ru∫m","MS",189
+"setting room","NJ4B","8","O","N"," "," ","s≤tê±øÓ$ru∫m","MS",190
+"front room","NJ5A","9","O","N"," "," ","fr∏nt$ruº∫m","MS",191
+"sitting room","NJ5B","10","O","N"," "," ","s±'tn$ruøæ∫m","MS",192
+"setting room","NJ6A","11","O","N"," "," ","Âs≤tê±øÓ$ırπºuºm","MS",193
+"setting room","NJ6B","12","O","N"," "," ","s≤'tn$ruøΩm","MS",194
+"sitting room","NJ7A","17","O","N"," "," ","Âs±tê±øÓ$ıruº∫m","MS",195
+"living room","NJ7B!","18!","O","N"," "," ","l±æv±øÓ$rπ´ºuºm","MS",196
+"sitting room","NJ7B!","18!","O","Y"," ","OLD","s±øÒ±øÓ$rπ´ºuºm","MS",196
+"parlor","NJ7B!","18!","O","N","best room"," ","pﬁº∫¥l¥","MS",196
+"setting room","NJ8A","19","O","N"," "," ","s≤'tn$rπ´um","MS",197
+"parlor","NJ8B","20","N","Y"," ","OLD","p{h}µæ∫Ï¥","MS",198
+"front room","NJ9A","21","O","N"," "," ","Âfr∏nt$rπ´ºuºm","MS",199
+"sitting room","NJ9B","22","O","N"," "," ","s±Ò±øÓ$ruΩº∫m","MS",200
+"parlor","NJ10A","24b","N","N"," "," ","p{h}µ∞él∞é","MS",201
+"front room","NJ10A","24b","O","N"," "," ","Âfr∏ºnt$ırπ´um","MS",201
+"parlor","NJ10B","23","N","Y","best room","OLD","p{h}µ∫l¥","MS",202
+"living room","NJ10B","23","O","Y"," ","NEW","Ï±æv±øÓ$ruΩºm","MS",202
+"setting room","NJ10B","23","O","N"," "," ","s≤Ò±øÓ$ruΩºm","MS",202
+"sitting room","NJ10C","24","O","N"," "," ","s±ΩæÒ±øÓ$ruΩº∫m","MS",203
+"living room","NJ10D!","24c!","O","N"," "," ","Ï±æv±øÓ$ruº∫m","MS",204
+"parlor","NJ10D!","24c!","N","Y"," ","OLD","p{h}µ∫l∞é","MS",204
+"sitting room","NJ11A","25","O","N"," "," ","s±Ò±øÓ$ruΩ∫m","MS",205
+"sitting room","NJ11B","26a","O","N"," "," ","s±Ò±øÓ$ruΩº∫m","MS",206
+"living room","NJ11B","26a","O","Y"," ","NEW","l±v±øÓ$ruΩº∫m","MS",206
+"sitting room","NJ11C","26b","O","N"," "," ","Âs±Ò±øÓ$ıruΩº∫m","MS",207
+"parlor","NJ11C","26b","N","N","best room"," ","pµ∫l¥","MS",207
+"parlor","NJ12A","27","N","Y"," ","OLD","pµæ∫Ï¥","MS",208
+"sitting room","NJ12A","27","O","N"," "," ","s±øÒ±øÓ$ruøæ∫m","MS",208
+"living room","NJ12B","28","O","N"," "," ","Âl±v±øÓ$ruº∫m","MS",209
+"sitting room","NJ12B","28","O","Y"," ","OLD","s±Ò±øÓ$ruº∫m","MS",209
+"parlor","NJ12B","28","N","Y","best room","OLD","pµl¥","MS",209
+"living room","NJ13A","29","O","N"," "," ","Âl±v±øÓ$ruº∫m","MS",210
+"setting room","NJ13A","29","O","Y"," ","OLD","Âs≤Ò±øÓ$ruº∫m","MS",210
+"parlor","NJ13A","29","N","Y","best","OLD","pµ∫l¥","MS",210
+"living room","NJ13B","30","O","N"," "," ","l±v±øÓ$ruº∫m","MS",211
+"parlor","NJ13B","30","N","Y"," ","OLD","pµæ¥l¥","MS",211
+"sitting room","NJ14A","31","O","N"," "," ","Âs±Ò±øÓ$ıruº∫m","MS",212
+"parlor","NJ14A","31","N","Y","best","OLD","pµæ¥l¥","MS",212
+"living room","NJ14B","32","O","N"," "," ","Âl±v±øÓ$ıruøæ∫m","MS",213
+"sitting room","NJ14B","32","O","Y"," ","OLD","s±Ò±øÓ$ruøæ∫m","MS",213
+"parlor","NJ14B","32","N","Y","best","OLD","pµ¥l¥","MS",213
+"setting room","NJ15A","33","O","N"," "," ","Âs≤Ò±øÓ$ıruº∫m","MS",214
+"living room","NJ15B","34","O","N"," "," ","Âl±v±øÓ$ıruº∫m","MS",215
+"parlor","NJ15B","34","N","Y","best","OLD","pµ¥l¥","MS",215
+"front room","NJ16A","35","O","N"," "," ","fr∏nt$ruΩºuºm","MS",216
+"parlor","NJ16A","35","N","Y","best","OLD","pµæ∫{∞}l¥","MS",216
+"living room","NJ16B","36","O","N"," "," ","l±v±øÓ$rπ´ºuºm","MS",217
+"parlor","NJ16B","36","N","Y","best","OLD","pﬁº¥l¥","MS",217
+"living room","NJ17A","37","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",218
+"front parlor","NJ17A","37","O","N","as a child; best"," ","fr∏nt$pµ¥l¥","MS",218
+"back parlor","NJ17A","37","O","N"," "," ","b·k$pµ¥l¥","MS",218
+"sitting room","NJ17B","38","O","N"," "," ","Âs±Ò±øÓ$ıruΩº∫m","MS",219
+"living room","NJ17B","38","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",219
+"living room","NJ18A","41","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",220
+"sitting room","NJ18A","41","O","Y"," ","OLD","Âs±'t±øÓ$ruΩº∫m","MS",220
+"parlor","NJ18A","41","N","Y"," ","OLD","p{h}µæ∫{∞}Ï∞","MS",220
+"living room","NJ18B","42","O","N"," "," ","Ï±æv±øÓ$rπ›´u›m","MS",221
+"parlor","NJ18B","42","N","Y","best","OLD","p{h}µæ∫l∞","MS",221
+"living room","NJ18C!","43!","O","N"," "," ","ÂÏ±v±øÓ$ıruº∫m","MS",222
+"living room","NJ18D!","44!","O","N"," "," ","Ï±æv±øÓ$rπm","MS",223
+"parlor","NJ18D!","44!","N","N","as a child"," ","p{h}µ∫{∞}l¥","MS",223
+"two parlors","NJ19A","45","O","N"," "," ","‰∞$ıtuø∫$Âpµ∫l∞éz","MS",224
+"living rooms","NJ19A","45","O","N"," "," ","Âl±v±øÓ$ıru∫mz","MS",224
+"living room","NJ19B!","46!","O","N"," "," ","Âl±v±øÓ$ırum","MS",225
+"parlor","NJ19B!","46!","N","Y"," ","OLD","p{h}µæ∫l∞","MS",225
+"parlor","NJ20A","47","N","N"," "," ","pµ∫l¥","MS",226
+"living room","NJ20A","47","O","N"," "," ","l±v±øÓ$ruº∫m","MS",226
+"spoorruim","NJ20A","47","N","Y"," ","INA","spoΩ∫{∞}r$r≤Ωºπm","MS",226
+"levenruim","NJ20A","47","N","Y"," ","INA","le∫v∞$r≤Ωºπm","MS",226
+"parlor","NJ20B","47b","N","Y"," ","OLD","p{h}µæ∫l∞∫","MS",227
+"living room","NJ20B","47b","O","N"," "," ","Ï±v±øÓ$ru∫m","MS",227
+"living room","NJ21A","48","O","N"," "," ","Âl±v±øÓ$ıru∫m","MS",228
+"parlor","NJ21A","48","N","N","best room"," ","p{h}µ¥l¥","MS",228
+"living room","NJ21B","49","O","N"," "," ","Âl±v±øÓ$ıru∫m","MS",229
+"parlor","PA1A","51","N","N"," "," ","pµ∫l∞›{r}","MS",230
+"living room","PA1A","51","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",230
+"parlor","PA1B","52","N","N"," "," ","pµæ∫l¥","MS",231
+"living room","PA1B","52","O","Y"," ","NEW","l±v±øÓ$ruº∫m","MS",231
+"parlor","PA1C","53","N","N"," "," ","pµæ∫l¥","MS",232
+"living room","PA1C","53","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",232
+"living room","PA1D","54","O","N"," "," ","Ï±v±øÓ$ruº∫m","MS",233
+"sitting room","PA1D","54","O","N"," "," ","Âs±tê±øÓ$ıruº∫m","MS",233
+"parlor","PA1D","54","N","Y","best room","OLD","pﬁº∫l¥","MS",233
+"drawing room","PA1E!","55!","O","N"," "," ","dr∑∫±øÓ$rπm","MS",234
+"parlor","PA1E!","55!","N","Y"," ","OLD","pﬁº∫l¥","MS",234
+"living room","PA1E!","55!","O","N","intimate"," ","l±v±øÓ$rπm","MS",234
+"library","PA1F!","56!","N","N"," "," ","Âla∫±øΩıbr≤r±ø","MS",235
+"parlor","PA1F!","56!","N","Y","large","OLD","pﬁ∫l¥","MS",235
+"sitting room","PA1F!","56!","O","N","upstairs"," ","s±tê±øÓ$rπ∫m","MS",235
+"sitting room","PA1G!","57!","O","N"," "," ","s±tê±øÓ$rπm","MS",236
+"library","PA1G!","57!","N","N","if one"," ","lµº±øbr±ø","MS",236
+"parlor","PA1G!","57!","N","N","if one"," ","pﬁ∫l¥","MS",236
+"living room","PA1G!","57!","O","Y"," ","NEW","l±v±øÓ$rπm","MS",236
+"living room","PA1H!","58!","O","N"," "," ","l±v±øÓ$ruºm","MS",237
+"parlor","PA1H!","58!","N","N","in old houses; best"," ","pﬁº∫l∞","MS",237
+"sitting room","PA1H!","58!","O","N"," "," ","s±tê±øÓ$ruºm","MS",237
+"library","PA1H!","58!","N","N","in some houses"," ","Ïµ≤´br±ø","MS",237
+"sitting room","PA2A","59","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",238
+"parlor","PA2A","59","N","N"," "," ","pﬁó{¥}l¥","MS",238
+"parlor","PA2B","60","N","N"," "," ","pﬁºl¥","MS",239
+"sitting room","PA2B","60","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",239
+"parlor","PA3A","61","N","Y"," ","OLD","pµæ∫l¥","MS",240
+"living room","PA3A","61","O","Y","usually","NEW","l±v±øÓ$ruº∫m","MS",240
+"setting room","PA3B","62","O","N"," "," ","s≤tê±øÓ$ru∫m","MS",241
+"sitting room","PA3C","62b","O","N"," "," ","s±tê±øÓ$rπm","MS",242
+"setting room","PA4A","63","O","N"," "," ","s≤{Á}tn$ruΩº∫m","MS",243
+"living room","PA4B!","64!","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",244
+"parlor","PA4B!","64!","N","Y"," ","OLD","pµæ∫l¥","MS",244
+"front room","PA5A","65(*)","O","N"," "," ","Âfr∏nt$ıruº∫m","MS",245
+"living room","PA5A","65(*)","O","Y"," ","NEW","Âl±v±øÓ$ıruº∫m","MS",245
+"living room","PA5A","65(*)","O","Y"," ","AUX/NEW","l±v±øÓ$rπm","MS",245
+"parlor","PA5A","65(*)","N","Y"," ","AUX","pµ∫l¥","MS",245
+"sitting room","PA5B","65b","O","N"," "," ","s±tê±øÓ$ruΩº∫m","MS",246
+"setting room","PA5C","66","O","N"," "," ","s≤Ò±øÓ$ruøuºm","MS",247
+"parlor","PA5C","66","N","N"," "," ","pµl¥","MS",247
+"sitting room","PA5D","67","O","N"," "," ","s±ΩæÒ±øÓ$ruº∫m","MS",248
+"living room","PA5E!","68!","O","N"," "," ","l±v∞n$ruº∫m","MS",249
+"front room","PA5E!","68!","O","N"," "," ","fr∏´nt$ruº∫m","MS",249
+"sitting room","PA6A","69","O","N"," "," ","sî±tî±Ó$rum","MS",250
+"living room","PA6B","71","O","N"," "," ","l±v±øÓ$rπ›m","MS",251
+"front room","PA6B","71","O","N"," "," ","fr∏´nt$rπ›m","MS",251
+"front room","PA6C","71b","O","N"," "," ","fr∏ntî$ru∫m","MS",252
+"living room","PA6D!","72!","O","N"," "," ","Âl±v±øÓ$ıru∫m","MS",253
+"parlor","PA6D!","72!","N","Y","best room","OLD","pﬁ∫l¥","MS",253
+"sitting room","PA6D!","72!","O","Y"," ","OLD","s±tê±øÓ$ru∫m","MS",253
+"living room","PA7A","73","O","N"," "," ","Âl±v±øÓ$ıruº∫m","MS",254
+"sitting room","PA7A","73","O","N"," "," ","Âs±tê±øÓ$ıruº∫m","MS",254
+"living room","PA7B","74","O","N"," "," ","Âl±v±øÓ$ıruøΩæ∫m","MS",255
+"sitting room","PA7B","74","O","Y"," ","OLD","s±Ò±øÓ$ıruøΩæ∫m","MS",255
+"parlor","PA7B","74","N","Y","best room","OLD","pµ¥l¥","MS",255
+"parlor","PA7C","75","N","N"," "," ","pﬁºrl∞r","MS",256
+"setting room","PA7C","75","O","N"," "," ","s≤tî±øÓ$ruΩºm","MS",256
+"living room","PA7D!","76!","O","N"," "," ","Âl±v±øÓ$ruº∫m","MS",257
+"parlor","PA7D!","76!","N","Y","a better room [than living room]","OLD","pµæ¥l¥","MS",257
+"sitting room","PA8A","77","O","N"," "," ","s±tn$ruºm","MS",258
+"living room","PA8B","78","O","N"," "," ","l±v±øÓ$ruøæ∫m","MS",259
+"the room","PA8B","78","O","N"," ","CNV","‰∞$ruøæ∫m","MS",259
+"sitting room","PA8B","78","O","Y"," ","OLD","s±Ò±øÓ$ruøæ∫m","MS",259
+"sitting room","PA8C","79","O","N"," "," ","s±tî±øÓ$ru∫m","MS",260
+"parlor","PA8D!","80!","N","N"," "," ","pﬁó∫l¥","MS",261
+"living room","PA8D!","80!","O","Y"," ","NEW","l±v±øÓ$ruº∫m","MS",261
+"sitting room","PA9A","83","O","N"," "," ","sî±tî±Ó$ru∫m","MS",262
+"setting room","PA9B","83b","O","N"," "," ","Âs≤tn$ıruº∫m","MS",263
+"parlor","PA9B","83b","N","N","best"," ","pﬁó¥l¥","MS",263
+"parlor","PA9C!","84!","N","Y"," ","OLD","pµæ∫l¥","MS",264
+"living room","PA9C!","84!","O","N"," "," ","Âl±v±øÓ$ruº∫m","MS",264
+"sitting room","PA10","87","O","N"," "," ","s±tî±Ó$ru∫m","MS",265
+"parlor","PA10","87","N","Y"," ","OLD","pﬁ{rü’}l∞{rü’}","MS",265
+"living room","PA11A","89","O","N"," "," ","ÂÏ±v±øÓ$ru∫m","MS",266
+"parlor","PA11A","89","N","Y","best","OLD","pﬁæ¥l¥","MS",266
+"front room","PA11B","90(*)","O","N"," "," ","fr∏´nt$ru›Ωºm","MS",267
+"parlor","PA11B","90(*)","N","Y"," ","AUX","pµ´º¥Ï¥","MS",267
+"setting room","PA11B","90(*)","O","Y"," ","AUX","s≤Ò±øÓ$ru∫m","MS",267
+"parlor","PA12A","91","N","N"," "," ","p∂´∫l¥","MS",268
+"the room","PA12A","91","O","N"," "," ","‰∞$ruΩº∫m","MS",268
+"sitting room","PA12B","92","O","N"," "," ","s±Ò±øÓ$ruΩºm","MS",269
+"setting room","PA13A","93","O","N"," "," ","s≤tê∞n$ru∫m","MS",270
+"living room","PA13B","94","O","N"," "," ","ÂÏ±v±øÓ$ıru∫m","MS",271
+"the room","PA13B","94","O","Y"," ","OLD","‰∞$ru∫m","MS",271
+"parlor","PA14A","95(*)","N","N"," "," ","pﬁº{∞}{rü’}l∞{rü’}","MS",272
+"living room","PA14B","96","O","N"," "," ","l±v±øÓ$ruΩºm","MS",273
+"setting room","PA14C"," ","O","N"," "," ","s≤tî±øÓ$ruºm","MS",274
+"setting room","PA15A","99","O","N"," "," ","s≤t±øΩn$ru∫m","MS",275
+"the room","PA15B","99b","O","N"," "," ","‰∞$ruº∫m","MS",276
+"parlor","PA15C!","100!","N","N"," "," ","pµº¥l¥","MS",277
+"sitting room","PA15C!","100!","O","N"," "," ","s±tê±øÓ$rπ´m","MS",277
+"parlor","PA16A","101","N","N"," "," ","p{h}aæ{r}l∞{r}","MS",278
+"living room","PA16B","102","O","N"," "," ","l±v±øÓ$ru∫m","MS",279
+"parlor","PA16C","103","N","N"," "," ","pµæ∫¥›l¥","MS",280
+"front room","PA16C","103","O","N"," "," ","fr∏ºnt$ru∫m","MS",280
+"living room","PA17A","105","O","N"," "," ","l±ˆ±øÓ$rum","MS",281
+"parlor","PA17A","105","N","N"," "," ","pµ{rü’}l∞{r}","MS",281
+"living room","PA17B","106","O","N"," "," ","Âl±ˆ±Ó$ırum","MS",282
+"parlor","PA17B","106","N","Y"," ","OLD","pﬁº{r}l∞{rü’}","MS",282
+"living room","PA18A","107","O","N"," "," ","l±v±øÓ$ruº∫m","MS",283
+"parlor","PA18A","107","N","N"," "," ","pﬁó∫l¥","MS",283
+"living room","PA18B!","108!","O","N"," "," ","l±v±øÓ$rπm","MS",284
+"setting room","PA19A","113","O","N"," "," ","Âs≤Ωtn$ıru∫m","MS",285
+"living room","PA19B","114","O","N"," "," ","Ï±Ωæv±Ó$ruΩº∫m","MS",286
+"parlor","PA19B","114","N","N"," "," ","pﬁó¥l¥","MS",286
+"sitting room","PA19B","114","O","N"," "," ","s±tê±øÓ$ruΩº∫m","MS",286
+"setting room","PA19B","114","O","N"," ","CNV","s≤tê±øÓ$ruΩº∫m","MS",286
+"setting room","PA20A","115","O","N"," "," ","s≤'tn$ruΩº∫m","MS",287
+"living room","PA20B","116","O","N"," "," ","l±v±øÓ$ru∫m","MS",288
+"sitting room","PA20B","116","O","N"," "," ","s±tê±øÓ$ru∫m","MS",288
+"parlor","PA21A","117","N","N"," "," ","pµº¥l¥","MS",289
+"dining room","PA21A","117","O","Y","at front","INA","d•Ω±øn±øΩn$rum","MS",289
+"setting room","PA21B","118","O","N"," "," ","s≤tê±øÓ$ru∫m","MS",290
+"parlor","PA22A","119","N","N"," "," ","paæ¥l¥","MS",291
+"living room","PA22A","119","O","Y"," ","NEW","l±v±øÓ$rπm","MS",291
+"living room","PA22B","120","O","N"," "," ","l±v±øΩÓ$ruΩº∫m","MS",292
+"parlor","PA22B","120","N","N"," "," ","pµ´º¥l¥","MS",292
+"living room","PA23A","121","O","N"," "," ","l±v±øÓ$ru∫m","MS",293
+"sitting room","PA23A","121","O","Y"," ","OLD","s±Ò±øÓ$ru∫m","MS",293
+"sitting room","PA23B","122","O","N"," "," ","s±ΩÒ±øÓ$ru∫m","MS",294
+"setting room","PA24A","123","O","N"," "," ","s≤Ò±øÓ$rπm","MS",295
+"living room","PA24B","124","O","N"," "," ","l±v±øÓ$ru∫m","MS",296
+"setting room","PA24B","124","O","N"," "," ","s≤tê±øÓ$ru∫m","MS",296
+"parlor","PA24B","124","N","Y","best","OLD","paæ¥l¥","MS",296
+"sitting room","PA25A","125","O","N"," "," ","Âs±tê±øÓ$ıru∫m","MS",297
+"sitting room","PA25B","126","O","N"," "," ","s±Ò±øÓ$ru∫m","MS",298
+"parlor","PA26A","127","N","N"," "," ","paæ¥l¥","MS",299
+"setting room","PA26A","127","O","N"," "," ","s≤tên$rπm","MS",299
+"living room","PA26B","128","O","N"," "," ","Âl±v±øÓ$ru∫m","MS",300
+"setting room","PA26B","128","O","N"," "," ","s≤'tn$ru∫m","MS",300
+"parlor","PA27A","131","N","N"," "," ","paæ¥l¥","MS",301
+"setting room","PA27A","131","O","N"," "," ","s≤tê±øΩn$ru∫m","MS",301
+"setting room","PA27B","132","O","N"," "," ","Âs≤tê±øÓ$rπm","MS",302
+"parlor","PA28A","135","N","N"," "," ","paæ¥l¥","MS",303
+"setting room","PA28A","135","O","N"," "," ","s≤tê∞n$rπm","MS",303
+"sitting room","PA28B!","136!","O","N"," "," ","Âs±Ò±øÓ$ırπm","MS",304
+"living room","PA28B!","136!","O","Y"," ","NEW","ÂÏ±v±øÓ$ırπm","MS",304
+"sitting room","PA29A","139(*)","O","N"," "," ","s±tê±øÓ$ru∫m","MS",305
+"setting room","PA29A","139(*)","O","Y"," ","AUX","s≤tê±øÓ$ru∫m","MS",305
+"living room","PA29B","140","O","N"," "," ","Ï±v∞n$ru∫m","MS",306
+"parlor","PA29B","140","N","Y"," ","OLD","pµ¥Ï¥","MS",306
+"setting room","PA30A","143","O","N"," "," ","s≤tn$ru›Ωºm","MS",307
+"living room","PA30B","144","O","N"," "," ","Âl±v±øÓ$ıruΩºm","MS",308
+"sitting room","PA30B","144","O","N"," "," ","Âs±Ò±øÓ$ıruΩºm","MS",308
+"living room","PA31A","145","O","N"," "," ","l±v±øÓ$ru∫m","MS",309
+"setting room","PA31A","145","O","N"," "," ","s≤tê±øÓ$ru∫m","MS",309
+"living room","PA31B","146","O","N"," "," ","Âl±v±øÓ$ıru∫m","MS",310
+"sitting room","PA32A","147","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",311
+"living room","PA32B","148","O","Y"," ","NEW","l±v±øÓ$ru∫m","MS",312
+"sitting room","PA32B","148","O","N"," "," ","s±{Ò}±Ó$ru∫m","MS",312
+"parlor","PA33A","151","N","N"," "," ","pﬁº¥l¥","MS",313
+"living room","PA33A","151","O","N"," "," ","Âl±v±øÓ$ıruøæ∫m","MS",313
+"the room","PA33B","152","O","N"," "," ","‰∞$ruº∫m","MS",314
+"sitting room","PA33B","152","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",314
+"sitting room","PA34A","155","O","N"," "," ","s±Ò±øÓ$ruΩº∫m","MS",315
+"sitting room","PA34B","156","O","N"," "," ","s±Ò±øÓ$ruΩº∫m","MS",316
+"sitting room","PA34C!","155b!","O","N"," "," ","s±tê±øÓ$rπm","MS",317
+"parlor","PA34C!","155b!","N","N","a better room [than sitting room]"," ","pµ{¥}l¥","MS",317
+"setting room","PA35A","157","O","N"," "," ","s≤tn$ruΩº∫m","MS",318
+"setting room","PA35B","158(*)","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",319
+"setting room","PA35C"," ","O","N"," "," ","s≤Ò±øÓ$ru∫m","MS",320
+"parlor","PA36A","159","N","N"," "," ","paæ{¥}l¥","MS",321
+"setting room","PA36A","159","O","N"," "," ","s≤tê±øÓ$ru∫m","MS",321
+"living room","PA36B","160","O","N"," "," ","Âl±v±øÓ$ru∫m","MS",322
+"setting room","PA36B","160","O","N"," "," ","s≤tn$ru∫m","MS",322
+"setting room","PA37A","161(*)","O","N"," "," ","Âs≤tî±Ó$ırπm","MS",323
+"living room","PA37B","162","O","N"," "," ","lç±v±øÓ$rπ´m","MS",324
+"setting room","PA37C"," ","O","N"," "," ","s≤tê±øÓ$rum","MS",325
+"setting room","PA38A","163","O","N"," "," ","s≤Ò±ø´Ó$ruº∫m","MS",326
+"setting room","PA38B","164","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",327
+"sitting room","PA39A","165","O","N"," "," ","s±tê±øÓ$ruΩºm","MS",328
+"parlor","PA39A","165","N","N","best room"," ","pµ{r}l¥","MS",328
+"sitting room","PA39B","166","O","N"," "," ","s±Ò±øÓ$ru∫m","MS",329
+"sitting room","PA40A","167","O","N"," "," ","Âs±tê±øÓ$ruº∫m","MS",330
+"living room","PA40B","168","O","N"," "," ","Ï±v±øÓ$ruºm","MS",331
+"the room","PA40B","168","O","Y"," ","OLD","‰∞$ruº∫m","MS",331
+"setting room","PA40B","168","O","Y","proper","OLD","s≤tê±øÓ$ruº∫m","MS",331
+"parlor","PA41A","171","N","N"," "," ","pµ{¥}l¥","MS",332
+"setting room","PA41A","171","O","N"," "," ","Âs≤tê±øÓ$ıru∫m","MS",332
+"living room","PA41B","172","O","N"," "," ","l±v±øÓ$ruº∫m","MS",333
+"sitting room","PA41B","172","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",333
+"sitting room","PA42A","175","O","N"," "," ","Âs±tê±øÓ$ırπm","MS",334
+"parlor","PA42B","176","N","N","a best room"," ","pµ´¥l¥","MS",335
+"setting room","PA42B","176","O","N"," "," ","s≤Ò±øÓ$ruΩº∫m","MS",335
+"setting room","PA43A","177","O","N"," "," ","s≤'tn$ruΩº∫m","MS",336
+"sitting room","PA43B","178","O","N"," "," ","s±tê±øÓ$ruΩº∫m","MS",337
+"sitting room","PA44A","179","O","N"," "," ","Âs±Ò±øÓ$ıruΩº∫m","MS",338
+"living room","PA44B","180","O","N"," "," ","Âl±v±øÓ$ırπm","MS",339
+"parlor","PA44B","180","N","Y","best room","OLD","pµ´¥l¥","MS",339
+"sitting room","PA45A","181","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",340
+"sitting room","PA45B","182","O","N"," "," ","Âs±Ò±øÓ$ıruº∫m","MS",341
+"sitting room","PA46A","185","O","N"," "," ","Âs±Ò±øÓ$ıruø∫m","MS",342
+"living room","PA46B","186","O","N"," "," ","l±v±øÓ$ruø∫m","MS",343
+"front room","PA47A","189","O","N"," "," ","Âfr∏ºnt$ıruøæ∫m","MS",344
+"living room","PA47B","190","O","Y"," ","NEW","Âl±v±øÓ$ruøæ∫m","MS",345
+"sitting room","PA47B","190","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",345
+"setting room","PA48A","191","O","N"," "," ","s≤tê±øÓ$ruº∫m","MS",346
+"front room","PA48B","192","O","N"," "," ","fr∏ºnt$ruø∫m","MS",347
+"parlor","PA48C","193","N","N"," "," ","pµrl¥","MS",348
+"living room","PA48C","193","O","Y"," ","NEW","l±v±øÓ$ruøæ∫m","MS",348
+"sitting room","PA49A","194","O","N"," "," ","Âs±tê±øÓ$ıruø∫m","MS",349
+"setting room","PA49B","195","O","N"," "," ","Âs≤tê±øÓ$ıruøΩuøæm","MS",350
+"parlor","PA50A","196","N","N"," "," ","pﬁºrl¥","MS",351
+"sitting room","PA50A","196","O","N"," "," ","Âs±'tn$ıruøæ∫m","MS",351
+"living room","PA50B","197","O","N"," "," ","Âl±v±øÓ$ruº∫m","MS",352
+"parlor","PA50B","197","N","N"," "," ","pµrél¥","MS",352
+"living room","PA50C!","198!","O","N"," "," ","Âl±v±øÓ$ıruø∫m","MS",353
+"parlor","PA50C!","198!","N","N"," "," ","Âpµrl¥","MS",353
+"parlor","PA51A","199","N","N"," "," ","pµærl¥","MS",354
+"living room","PA51A","199","O","N","used every day"," ","Âl±æv±øÓ$ıruøæ∫m","MS",354
+"living room","PA51B","200","O","N"," "," ","Âl±v±øÓ$ıruø∫m","MS",355
+"parlor","PA51B","200","N","N"," "," ","parl¥","MS",355
+"setting room","PA52A","201","O","N"," "," ","s≤'tn$ruøΩæ{u}m","MS",356
+"living room","PA52B!","202!","O","N"," "," ","l±v±øÓ$ruº∫m","MS",357
+"sitting room","PA52B!","202!","O","Y"," ","OLD","s±tê±øÓ$ruº∫m","MS",357
+"parlor","PA53A","203","N","N"," "," ","parl∞›r","MS",358
+"setting room","PA53A","203","O","N"," "," ","s≤tn$rπ´uºm","MS",358
+"parlor","PA53B","204","N","N"," "," ","parl¥","MS",359
+"back room","PA53B","204","O","N","individual term"," ","b·k$ruºm","MS",359
+"living room","PA53B","204","O","N"," "," ","ÂÏ±v±øÓ$ruºm","MS",359
+"living room","PA54A","205","O","N"," "," ","Ï±Ωv∞n$ruøæ∫m","MS",360
+"setting room","PA54A","205","O","N"," "," ","s≤'tn$ruøæ∫m","MS",360
+"parlor","PA54B","206","N","N"," "," ","pﬁºrl¥","MS",361
+"sitting room","PA54B","206","O","N"," "," ","Âs±tê±øÓ$ıruº∫m","MS",361
+"parlor","PA55A","207","N","N"," "," ","Âparl¥","MS",362
+"setting room","PA55A","207","O","N"," "," ","s≤tê±øÓ$rπum","MS",362
+"living room","PA55B","208","O","N"," "," ","ÂÏ±v±øÓ$ırπ´uºm","MS",363
+"parlor","PA55B","208","N","Y","best room","OLD","parl¥","MS",363
+"parlor","PA56A","211(*)","N","N","best room"," ","pµrl¥","MS",364
+"reception room","PA56A","211(*)","O","N","every day use"," ","r±ø´Âs≤pÛ∞n$ru∫m","MS",364
+"sitting room","PA56A","211(*)","O","N","natural; every day use"," ","s±tê±øÓ$ru∫m","MS",364
+"setting room","PA56A","211(*)","O","Y"," ","AUX","s≤t∞n$ruº∫m","MS",364
+"front room","PA56A","211(*)","O","Y"," ","AUX","fr∏nt$ruº∫m","MS",364
+"sitting room","PA56B","212","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",365
+"parlor","PA57A","213","N","N"," "," ","pµrl¥","MS",366
+"setting room","PA57A","213","O","N"," "," ","s≤tê±øÓ$ruøº∫m","MS",366
+"living room","PA57B","214","O","N"," "," ","Âl±v±øÓ$ıruº∫m","MS",367
+"sitting room","PA57B","214","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",367
+"sitting room","PA58A","215","O","N"," "," ","s±tê±øÓ$ruøæ∫m","MS",368
+"sitting room","PA58B","216","O","N"," "," ","s±Ò±øÓ$ruø∫m","MS",369
+"setting room","PA59A","219","O","N"," "," ","s≤'tn$ruΩºm","MS",370
+"parlor","PA59A","219","N","N"," "," ","pµºrl¥","MS",370
+"living room","PA59B","220","O","N"," "," ","ÂÏ±v±øÓ$ıruøæ∫m","MS",371
+"parlor","PA59B","220","N","Y"," ","OLD","pµrl¥","MS",371
+"parlor","PA60A","221","N","N","best room"," ","pµrl¥","MS",372
+"living room","PA60A","221","O","N","next best"," ","l±v∞n$ruø∫m","MS",372
+"setting room","PA60B","222","O","N"," "," ","s≤tê±øÓ$ruøæ∫m","MS",373
+"sitting room","PA61A","223","O","N"," "," ","s±'tn$ruø∫m","MS",374
+"living room","PA61B","224","O","N"," "," ","Âl±v±øÓ$ıruøæ∫m","MS",375
+"parlor","PA62A","229","N","N"," "," ","pµºrl¥","MS",376
+"sitting room","PA62A","229","O","N"," "," ","s±tê±øÓ$ruΩºm","MS",376
+"the room","PA62B","230","O","N"," "," ","‰∞$ruº∫m","MS",377
+"parlor","PA63A","231","N","N"," "," ","pµºrl¥","MS",378
+"living room","PA63B","232","O","N"," "," ","Âl±v±øÓ$ıruºm","MS",379
+"parlor","PA63B","232","N","N","best room"," ","pµrél¥","MS",379
+"parlor","PA64A","233","N","N"," "," ","pµº¥l¥","MS",380
+"living room","PA64A","233","O","Y"," ","NEW","l±v±øÓ$ru∫m","MS",380
+"setting room","PA64A","233","O","Y"," ","NEW","s≤'tn$ru∫m","MS",380
+"sitting room","PA64B","234","O","N"," "," ","Âs±tê±øÓ$ıru∫m","MS",381
+"setting room","PA65A","237","O","N"," "," ","s≤'tn$ruΩº∫m","MS",382
+"living room","PA65B","238","O","N"," "," ","Ï±Ωv±øÓ$ru∫m","MS",383
+"setting room","PA66A","239","O","N"," "," ","Âs≤tê±øÓ$ıru∫m","MS",384
+"living room","PA66B","240","O","N"," "," ","Âl±v±øΩn$ıru∫m","MS",385
+"sitting room","PA67A","243","O","N"," "," ","s±'tn$ruøæ∫m","MS",386
+"sitting room","PA67B","244","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",387
+"parlor","PA67B","244","N","N","best"," ","paæ¥l¥","MS",387
+"living room","WV1!","88!","O","N"," "," ","l±v±øÓ$rπ´m","MS",388
+"library","WV1!","88!","N","Y"," ","OLD","laæ∫≤æbr±ø","MS",388
+"parlor","WV1!","88!","N","Y","little-used best room","OLD","p∂∫l∞","MS",388
+"sitting room","WV2","89","O","N"," "," ","s±Ò±øÓ$rπm","MS",389
+"setting room","WV3","91","O","N"," "," ","s≤'tn$rum","MS",390
+"setting room","WV4A","92","O","N"," "," ","s≤'tn$ruº∫m","MS",391
+"sitting room","WV4B","93","O","N"," "," ","s±{Á}tn$ruøΩæ∫{uº}m","MS",392
+"rented me a room","WV4B","93","E","Y"," ","INA","r≤´n{tê}±ød$miΩæ$∞$ruº∫m","MS",392
+"hired","WV4B","93","V","Y","wife says","INA/HRD","haæ{≤æ}¥d","MS",392
+"sitting room","WV5","94","O","N"," "," ","s±tê±øÓ$ru∫m","MS",393
+"setting room","WV6A","95","O","N"," "," ","s≤'tn$ru∫m","MS",394
+"front room","WV6B","96","O","N"," "," ","fr∏´nt$ruº∫m","MS",395
+"sitting room","WV7A","97","O","N"," "," ","s±´Ò±øÓ$ru∫m","MS",396
+"living room","WV7B","98","O","N"," "," ","l±v±øÓ$ruº∫m","MS",397
+"sitting room","WV7B","98","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",397
+"setting room","WV8A","97b","O","N"," "," ","Âs≤tn$ıruøº∫m","MS",398
+"living room","WV8B","98b","O","N"," "," ","Âl±v±øÓ$ıruº∫m","MS",399
+"front room","WV8B","98b","O","N"," "," ","Âfr∏ºnt$ıruº∫m","MS",399
+"setting room","WV9A","301","O","N"," "," ","s≤tn$ruº∫m","MS",400
+"sitting room","WV9B","302","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",401
+"setting room","WV10A","303","O","N"," "," ","s≤tn$ruº∫m","MS",402
+"setting room","WV10B","303b","O","N"," "," ","s≤tn$ruøæ∫m","MS",403
+"parlor","WV10B","303b","N","N","best room"," ","pµ{¥}l¥","MS",403
+"living room","WV10C","304","O","N"," "," ","Âl±v±øÓ$ruº∫m","MS",404
+"setting room","WV10C","304","O","N"," "," ","Âs≤Ò±øÓ$ruº∫m","MS",404
+"setting room","WV11A","305","O","N"," "," ","s≤Ò±øÓ$ruøæ∫m","MS",405
+"parlor","WV11B!","306!","N","Y","best","OLD","pµæÏ¥","MS",406
+"sitting room","WV11B!","306!","O","Y","next best","OLD","s±Ò±øÓ$ruº∫m","MS",406
+"sitting room","WV12A","307","O","N"," "," ","Âs±Ò±øÓ$ıruøæ∫m","MS",407
+"living room","WV12B","308","O","N"," "," ","l±v±øÓ$ruøæ∫m","MS",408
+"parlor","WV12B","308","N","Y","best","OLD","pµ¥l¥","MS",408
+"sitting room","WV13A","309","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",409
+"living room","WV13B","310","O","N"," "," ","l±∫v±øÓ$ruøæ∫m","MS",410
+"parlor","WV13B","310","N","N"," "," ","pﬁº¥l¥","MS",410
+"sitting room","WV14A","311","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",411
+"front room","WV14B","312","O","N"," "," ","fr∏˛nt$ruøæ∫m","MS",412
+"parlor","WV15A","313","N","N"," "," ","pﬁ¥´l¥","MS",413
+"the room","WV15A","313","O","Y"," ","OLD","‰∞$Âruº∫m","MS",413
+"parlor","WV15B","314","N","N","best room"," ","pµæ{¥}l¥","MS",414
+"sitting room","WV15B","314","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",414
+"setting room","WV16A","315","O","N"," "," ","s≤tê±øÓ$ruøæ∫m","MS",415
+"living room","WV16B","316","O","N"," "," ","Âl±ˆ±øÓ$ruøæ∫m","MS",416
+"front room","WV16B","316","O","Y","natural","SUG/OLD","fr∏nt$ruøæ∫m","MS",416
+"setting room","WV17A","317","O","N"," "," ","Âs≤tê±øÓ$ıruøæ∫m","MS",417
+"sitting room","WV17B","317b","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",418
+"setting room","WV17C","318","O","N"," "," ","Âs≤Ò±øÓ$ıruº∫m","MS",419
+"setting room","WV18A","319","O","N"," "," ","Âs≤tê±øÓ$ıruøæ∫m","MS",420
+"sitting room","WV18B","320","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",421
+"big house","WV19A","321","O","N"," "," ","Âb±g$ıh·∫uøs","MS",422
+"sitting room","WV19B","322","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",423
+"parlor","WV20A","323","N","N"," "," ","pµrél¥","MS",424
+"setting room","WV20A","323","O","N"," "," ","s≤tn$ruø∫m","MS",424
+"living room","WV20B","324","O","N"," "," ","Âl±v±øÓ$ıruº∫m","MS",425
+"parlor","WV20B","324","N","Y","best","OLD","pµrél¥","MS",425
+"sitting room","WV20B","324","O","Y","second best","OLD","Âs±Ò±øÓ$ruº∫m","MS",425
+"big house","WV21A","325","O","N","beds in it"," ","b±g$h·uøºs","MS",426
+"setting room","WV21A","325","O","N","beds in it"," ","Âs≤tê±øÓ$ıruøæ∫m","MS",426
+"living room","WV21B","326","O","N"," "," ","Âl±v∞n$ıruøæ∫m","MS",427
+"parlor","WV21B","326","N","N","best"," ","pµ¥l¥","MS",427
+"setting room","WV21B","326","O","N","next best"," ","s≤tn$ruøæ∫m","MS",427
+"setting room","WV22A","327","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",428
+"living room","WV22B","328","O","N"," "," ","l±v±øÓ$ruøæ∫m","MS",429
+"home room","WV22B","328","O","Y"," ","OLD","hoºπm$ruøæ∫m","MS",429
+"setting room","WV23A","331","O","N"," "," ","s≤Ò±øÓ$ruøæ∫m","MS",430
+"sitting room","WV23B","332","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",431
+"parlor","WV24A","335","N","N"," "," ","pµ¥l¥","MS",432
+"living room","WV24B","336","O","N"," "," ","Âl±æv±øÓ$ıruøæ∫m","MS",433
+"sitting room","WV24B","336","O","N"," "," ","s±øÒ±øÓ$ruøæ∫m","MS",433
+"living room","WV25A","337","O","Y"," ","NEW","l±v∞n$ruº∫m","MS",434
+"front room","WV25A","337","O","N"," "," ","fr∏ºnt$rπ´uºm","MS",434
+"parlor","WV25A","337","N","Y","best","OLD","pµ¥l¥","MS",434
+"parlor","WV25B","338","N","N","best"," ","pµ¥l¥","MS",435
+"living room","WV25B","338","O","N","second best"," ","l±v±øÓ$ruøæ∫m","MS",435
+"sitting room","WV25B","338","O","N"," "," ","s±æÒ±øÓ$ruøæ∫m","MS",435
+"setting room","WV26A","339","O","N"," "," ","s≤tn$ruøæ∫m","MS",436
+"living room","WV26B","340","O","N"," "," ","l±v±øÓ$ruº∫m","MS",437
+"parlor","WV26B","340","N","Y"," ","OLD","pµ¥l¥","MS",437
+"setting room","WV27A","341","O","N"," "," ","Âs≤Ò±øÓ$ruº∫m","MS",438
+"front room","WV27B","342","O","N"," "," ","Âfr∏∫nt$ruº∫m","MS",439
+"living room","WV28A","343","O","N"," "," ","l±v∞n$ruøæ∫m","MS",440
+"parlor","WV28A","343","N","Y"," ","OLD","pµæ{¥}l{¥}","MS",440
+"living room","WV28B","344","O","N"," "," ","Âl±v±øÓ$ruø∫m","MS",441
+"front room","WV29A","345","O","N"," "," ","fr∏ºnt$ruø∫m","MS",442
+"sitting room","WV29B","346","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",443
+"parlor","WV30A","347","N","N"," "," ","pµ¥l¥","MS",444
+"setting room","WV30A","347","O","N"," "," ","s≤tn$ruø∫m","MS",444
+"the house","WV30A","347","O","Y"," ","SUG/OLD","‰∞$h·Ω∫πøs","MS",444
+"living room","WV30B","348","O","N"," "," ","Âl±∫v±øÓ$ıruø∫m","MS",445
+"big room","WV30B","348","O","Y"," ","OLD","b±g$ruø∫m","MS",445
+"the house","WV31A","349","O","N"," "," ","‰∞$h·∫πøs","MS",446
+"setting room","WV31A","349","O","N"," "," ","s≤tn$ruøæ∫m","MS",446
+"front room","WV31B","350","O","N"," "," ","fr∏ºnt$ruøæ∫m","MS",447
+"front room","WV32A","353","O","N"," "," ","fr∏ºnt$ruøæ∫m","MS",448
+"living room","WV32B","354","O","N"," "," ","Âl±∫v∞n$ıruøæ∫m","MS",449
+"the house","WV32B","354","O","N","log cabin"," ","‰∞$h·∫πøs","MS",449
+"setting room","WV33A","355","O","N"," "," ","Âs≤'tn$ıruøæ∫m","MS",450
+"front room","WV33B","356","O","N"," "," ","fr∏ºnt$ruø∫m","MS",451
+"setting room","WV34A","359","O","N"," "," ","Âs≤´∫Ò±øÓ$ıruøæ∫m","MS",452
+"setting room","WV34B","360","O","N"," "," ","Âs≤Ò±øÓ$ruº∫m","MS",453
+"setting room","WV35A","361","O","N"," "," ","Âs≤Ò±øÓ$ıruøæ∫m","MS",454
+"living room","WV35B","362","O","N"," "," ","Âl±v±øÓ$ıruøæ∫m","MS",455
+"sitting room","WV35B","362","O","N"," "," ","Âs±Ò±øÓ$ıruøæ∫m","MS",455
+"the room","WV36A","363","O","N"," "," ","‰∞$Âruøæ∫m","MS",456
+"front room","WV36B","364","O","N"," "," ","fr∏nt$ru∫m","MS",457
+"front room","WV37A","365","O","N"," "," ","fr∏º∫nt$ruøæ∫m","MS",458
+"sitting room","WV37B!","366!","O","N"," "," ","Âs±Ò±øÓ$ruøîæ∫m","MS",459
+"setting room","WV38A","367","O","N"," "," ","s≤Ò±øÓ$ruøæ∫m","MS",460
+"the house part","WV38B","368","O","N"," "," ","‰∞$ha´∫πøs$pµæ¥t","MS",461
+"setting room","WV38B","368","O","N"," "," ","s≤tn$ruøæ∫m","MS",461
+"living room","WV39A","369","O","N"," "," ","Âl±æ∫v±øÓ$ıruº∫m","MS",462
+"sitting room","WV39A","369","O","N"," "," ","Âs±æÒ±øÓ$ıruº∫m","MS",462
+"living room","WV39B","370","O","N"," "," ","l±v±øÓ$ruøæ∫m","MS",463
+"parlor","WV39B","370","N","Y","best room","OLD","pµ¥l¥","MS",463
+"living room","WV39C!","371!","O","N"," "," ","l±v±øÓ$ruΩº∫m","MS",464
+"parlor","WV39C!","371!","N","N"," "," ","pµ{¥}l¥","MS",464
+"front room","WV40A","373","O","N"," "," ","fr∏ºnt$ruº∫m","MS",465
+"living room","WV40B","374","O","N"," "," ","Ï±v±øÓ$ruøæ∫m","MS",466
+"parlor","WV40B","374","N","Y"," ","OLD","pﬁ¥l¥","MS",466
+"the room","WV41A","375","O","N"," "," ","‰∞$ruøæ∫m","MS",467
+"front room","WV41A","375","O","N"," "," ","fr∏´ºnt$ruøæ∫m","MS",467
+"front room","WV41B","376","O","N"," "," ","fr∏ºnt$ruøæ∫m","MS",468
+"front room","WV42A","377","O","N"," "," ","fr∏ºnt$ruøæ∫m","MS",469
+"sitting room","WV42B","378","O","N"," "," ","Âs±tê±øÓ$ıruº∫m","MS",470
+"setting room","WV43A","381","O","N"," "," ","s≤Ò±øÓ$ruøæ∫m","MS",471
+"front room","WV43B","382","O","N"," "," ","fr∏º∫nt$ruøæ∫m","MS",472
+"setting room","WV44A","383","O","N"," "," ","s≤Ò±øÓ$ruøm","MS",473
+"setting room","WV44B","384","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",474
+"living room","WV45A","385","O","N"," "," ","ÂÏ±v∞n$ıruº∫m","MS",475
+"sitting room","WV45B","386","O","N"," "," ","Âs±Ò±øÓ$ıruøæ∫m","MS",476
+"setting room","WV46A","387","O","N"," "," ","s≤tê±øÓ$ruøæ∫m","MS",477
+"front room","WV46A","387","O","N"," "," ","fr∏ºnt$ruøæ∫m","MS",477
+"setting room","WV46B","388","O","N"," "," ","Âs≤Ò±øÓ$ıruøæ∫m","MS",478
+"front room","WV47A","389","O","N","best"," ","fr∏ºnt$ruº∫m","MS",479
+"sitting room","WV47A","389","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",479
+"setting room","WV47B","390","O","N"," "," ","s≤tên$ruº∫m","MS",480
+"sitting room","WV48A","391","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",481
+"setting room","WV48B","391b","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",482
+"setting room","WV48C","392","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",483
+"living room","WV48D","392b","O","N"," "," ","Ï±v±øÓ$ruº∫m","MS",484
+"setting room","WV48D","392b","O","N"," "," ","s≤Ò±øÓ$ruº∫m","MS",484
+"setting room","WV49A","393","O","N"," "," ","Âs≤Ò±øÓ$ıruº∫m","MS",485
+"sitting room","WV49B","394","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",486
+"NR","WV50A","395"," ","N"," "," "," ","MS",487
+"living room","WV50B","396","O","Y"," ","NEW","Ï±∫v±øÓ$ruøæ∫m","MS",488
+"sitting room","WV50B","396","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",488
+"sitting room","WV51A","261","O","N"," "," ","Âs±øÒ±øÓ$ıruº∫m","MS",489
+"front room","WV51A","261","O","N"," "," ","fr∏ºnt$ruº∫m","MS",489
+"living room","WV51B","262","O","N"," "," ","Ï±v±øÓ$ruº∫m","MS",490
+"sitting room","WV51B","262","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",490
+"front room","WV52A","258","O","N"," "," ","fr∏ºnt$ruø∫m","MS",491
+"sitting room","WV52B","259","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",492
+"living room","WV52B","259","O","N"," "," ","Âl±v±øÓ$ruøæ∫m","MS",492
+"library","WV52C!","260!","N","N"," "," ","Âla±øΩıbr≤¥±ø","MS",493
+"living room","WV52C!","260!","O","N"," "," ","Âl±v±øÓ$ruøæ∫m","MS",493
+"parlor","WV52C!","260!","N","Y"," ","OLD","pµ¥l¥","MS",493
+"parlor","WV53A","257","N","N"," "," ","pµæ¥l¥","MS",494
+"sitting room","WV53A","257","O","N"," "," ","Âs±Ò±øÓ$ıruº∫m","MS",494
+"sitting room","WV53B","257b","O","N"," "," ","s±'tn$ruº∫m","MS",495
+"sitting room","WV53C!","257c!","O","N"," "," ","Âs±tê±øÓ$ıruøæ∫m","MS",496
+"living room","WV53C!","257c!","O","Y"," ","NEW","Âl±v±øÓ$ıruøæ∫m","MS",496
+"sitting room","WV53C!","257c!","O","N"," "," ","Âs±tn$ıruøæ∫m","MS",496
+"setting room","WV54A","255","O","N"," "," ","s≤'tn$ruø∫m","MS",497
+"setting room","WV54B","256","O","N"," "," ","Âs≤'tn$ıruø∫m","MS",498
+"sitting room","DE1A","11","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",499
+"living room","DE1B","12","O","Y"," ","NEW","l±v±øÓ$ruøæ∫m","MS",500
+"sitting room","DE1B","12","O","Y"," ","OLD","s±tê±øÓ$ruøæ∫m","MS",500
+"parlor","DE1C!","13!","N","N","at front"," ","pµæ∫Ï¥","MS",501
+"sitting room","DE1C!","13!","O","N"," "," ","s±Ò±øÓ$ruøæ∫m","MS",501
+"sitting room","DE2A","15(*)","O","Y"," ","AUX","s±tê±øÓ$rπm","MS",502
+"rented a room","DE2A","15(*)","E","Y"," ","AUX/INA","r≤{n}{tê}∞d$∞$rπm","MS",502
+"living room","DE2B","16","O","N"," "," ","l±v±øÓ$ruøæ∫m","MS",503
+"sitting room","DE2B","16","O","N"," "," ","s±tê±øÓ$ruøæ∫m","MS",503
+"parlor","DE2B","16","N","Y","best room","OLD","pµl¥","MS",503
+"sitting room","DE2C"," ","O","N"," "," ","s±tê±øÓ$ruΩº∫m","MS",504
+"parlor","DE2C"," ","N","N","front room; better [than sitting room]"," ","p{h}µ{∞}l¥","MS",504
+"rented a room","DE2C"," ","E","Y"," ","INA","r≤´ntê±ød$∞$ru∫m","MS",504
+"setting room","DE3A","18","O","N"," "," ","s≤tn$rπ´æm","MS",505
+"parlor","DE3B","19","N","N"," "," ","p∂∫l¥","MS",506
+"sitting room","DE3B","19","O","N"," "," ","s±tn$ruøæ∫m","MS",506
+"library","DE3C!","17!","N","N","= `sitting room'"," ","laæ∫≤br≤r±ø","MS",507
+"sitting room","DE3C!","17!","O","N"," "," ","s±Ò±øÓ$rπm","MS",507
+"setting room","DE4","20","O","N"," "," ","s≤tn$ruøΩ∫{uø}m","MS",508
+"parlor","DE5A","21","N","N"," "," ","p∂´º¥Ï¥","MS",509
+"front room","DE5A","21","O","N","= `parlor'"," ","fr∏nt$ruøΩæm","MS",509
+"setting room","DE5A","21","O","N","a second room"," ","s≤'tn$ruøΩæm","MS",509
+"rented a room","DE5A","21","E","Y"," ","INA","r≤n{tê}±ød$∞$ruøΩm","MS",509
+"front room","DE5B","22","O","N"," "," ","fr∏´nt$ruø{uøæ}m","MS",510
+"living room","DE5B","22","O","Y"," ","NEW","l±v±øÓ$ruø{uøæ}m","MS",510
+"setting room","DE6A","23","O","N"," "," ","s≤tn$rπ´m","MS",511
+"sitting room","DE6B","24","O","N"," "," ","s±'tn$ruøΩuøæm","MS",512
+"setting room","MD1A","27","O","N"," "," ","s≤tn$rπ´m","MS",513
+"living room","MD1B","28","O","Y"," ","NEW","l±v±øÓ$rπ´m","MS",514
+"sitting room","MD1B","28","O","N"," "," ","s±Ò±øÓ$rπ´m","MS",514
+"setting room","MD2A","31a","O","N"," "," ","s≤tn$rπm","MS",515
+"sitting room","MD2B","32","O","N"," "," ","s±Ò±øÓ$rπm","MS",516
+"parlor","MD3A","33","N","N"," "," ","pﬁ:l∞","MS",517
+"setting room","MD3B","34","O","N"," "," ","s≤tn$rπm","MS",518
+"sitting room","MD4A","35b","O","N"," "," ","s±t±øΩn$ruøæ∫m","MS",519
+"setting room","MD4B","35","O","N"," "," ","s≤Ò±øÓ$ruøæ∫m","MS",520
+"parlor","MD4B","35","N","N"," "," ","p∂¥l¥","MS",520
+"parlor","MD4C","36","N","N","best"," ","p∂´¥éÏ¥","MS",521
+"dining room","MD4C","36","O","N","used as a sitting room"," ","dµ±øΩn±øÓ$ruøΩæ{uº}m","MS",521
+"rented a room","MD4C","36","E","Y","longer period [than `hired a room']","INA","r≤ntê±ød$∞$ruøΩæ{uº}m","MS",521
+"hired a room","MD4C","36","E","Y"," ","INA","h∂´r±ød$∞$ruøΩæ{uº}m","MS",521
+"living room","MD5A","37","O","N"," "," ","l±v±øΩn$ruøæ∫m","MS",522
+"parlor","MD5A","37","N","N"," "," ","p∂´∫{∞}l¥›","MS",522
+"living room","MD5B","38","O","Y"," ","NEW","l±v±øÓ$rπ´m","MS",523
+"parlor","MD5B","38","N","Y","best","OLD","pﬁ:l∞","MS",523
+"sitting room","MD5B","38","O","Y","less best [than parlor]","OLD","s±tê±øÓ$rπm","MS",523
+"parlor","MD6A","39(*)","N","N"," "," ","p∂º¥l¥","MS",524
+"living room","MD6B","40","O","N"," "," ","l±v±øΩn$ruøæ∫m","MS",525
+"parlor","MD6B","40","N","N"," "," ","p∂´¥›l¥›","MS",525
+"parlor","MD7A","41","N","N","best"," ","p∂´∫l¥","MS",526
+"setting room","MD7A","41","O","N"," ","SIC","s≤tn$r±æm","MS",526
+"sitting room","MD7B","41b","O","N","natural"," ","s±Ò±øÓ$ruø∫m","MS",527
+"living room","MD7B","41b","O","N"," "," ","l±v±øΩn$ruø∫m","MS",527
+"living room","MD7C!","42!","O","N"," "," ","l±v±øÓ$ruøæ∫m","MS",528
+"parlor","MD7C!","42!","N","N","best room"," ","p∑Ω∫l¥","MS",528
+"sitting room","MD7C!","42!","O","Y"," ","OLD","s±tê±øÓ$ruøæ∫m","MS",528
+"setting room","MD8A","43","O","N"," "," ","s≤tn$rπ´m","MS",529
+"living room","MD8B","44","O","N"," "," ","l±v±øΩn$rπm","MS",530
+"sitting room","MD8B","44","O","N"," "," ","s±tn$rπm","MS",530
+"sitting room","MD9N","N46","O","N","in common houses"," ","s±Án$rπm","MS",531
+"drawing room","MD9N","N46","O","N","in best houses"," ","dr∂∫|±øΩn$rπm","MS",531
+"parlor","MD9N","N46","N","N"," "," ","p∂∫{∞}Ï∞","MS",531
+"rented a room","MD9N","N46","E","Y"," ","INA","r≤ntê±ød$∞$rπm","MS",531
+"living room","MD9A","45","O","N"," "," ","l±v±øÓ$ruøΩuøæm","MS",532
+"parlor","MD9A","45","N","N"," "," ","pµl¥","MS",532
+"living room","MD9B","46","O","N"," "," ","l±v±øΩn$rπ´m","MS",533
+"parlor","MD9B","46","N","N"," "," ","p∂∫l¥","MS",533
+"sitting room","MD10A","49","O","N"," "," ","s±tê±øÓ$rπ´m","MS",534
+"living room","MD10B","50","O","N"," "," ","l±v±øÓ$rπø´{uøΩ}m","MS",535
+"sitting room","MD10B","50","O","Y"," ","OLD","s±tê±øÓ$rπø´{uøΩ}m","MS",535
+"parlor","MD10B","50","N","Y","best","OLD","pﬁó∫l¥","MS",535
+"setting room","MD11","51","O","N"," "," ","s≤'tn$ruøæuºm","MS",536
+"parlor","MD11","51","N","N","best room, locked up"," ","pﬁº∫l∞","MS",536
+"living room","MD12A","52","O","N"," "," ","l±v±øÓ$ruøΩuºm","MS",537
+"best room","MD12A","52","O","N"," "," ","b≤st$ruøΩuºm","MS",537
+"parlor","MD12B","53","N","N"," "," ","pµæ∞él∞é","MS",538
+"sitting room","MD12B","53","O","N"," "," ","s±'tn$rπ´ºm","MS",538
+"living room","MD13A","54(*)","O","N"," "," ","l±v±øÓ$ruøΩuøæm","MS",539
+"parlor","MD13A","54(*)","N","N"," "," ","pﬁl∞é","MS",539
+"parlor","MD13B","55","N","N"," "," ","pﬁº:l∞","MS",540
+"living room","MD13B","55","O","N"," "," ","l±v±øÓ$ruº∫m","MS",540
+"living room","MD13C","56","O","N"," "," ","l±v±øÓ$ruº∫m","MS",541
+"parlor","MD13C","56","N","N"," "," ","pﬁ∫l¥","MS",541
+"parlor","MD13D!","57!","N","N"," "," ","pﬁ∫∂l∞","MS",542
+"living room","MD13D!","57!","O","N"," "," ","l±v±øÓ$ruøΩ∫m","MS",542
+"sitting room","MD13D!","57!","O","N"," "," ","s±Ò±øÓ$ruøΩ∫m","MS",542
+"drawing room","MD13E!","58!","O","Y","in country estate as a child","OLD","dr∑Ω∫±øÓ$rπøm","MS",543
+"parlor","MD13E!","58!","N","Y","in city","NEW","pﬁ∫l∞","MS",543
+"sitting room","MD13E!","58!","O","Y","formerly as a bedroom (master slept downstairs)","NEW","s±tê±øÓ$rπøm","MS",543
+"music room","MD13E!","58!","O","Y","in country estate as a child","OLD","m{i}uøz±øk$rπøm","MS",543
+"rented a room","MD13E!","58!","E","Y"," ","INA","r≤n{tê}±øΩæd$∞$rπø{∞}m","MS",543
+"library","MD13F!","59!","N","N","commonly"," ","lµº∫{≤æ}br±ø","MS",544
+"front parlor","MD13F!","59!","O","N","on 2nd flr. of town house; for entertaining"," ","fr∏´ºnt$pﬁº:∂´l∞","MS",544
+"back parlor","MD13F!","59!","O","N","on second floor of town house"," ","b·k$pﬁº:∂´l∞","MS",544
+"sitting room","MD13F!","59!","O","Y","in her country house","OLD","s±ΩæÒ±øÓ$rπº∫{∞}m","MS",544
+"office","MD13F!","59!","N","N","commonly on 2nd flr.; same as `library'"," ","∑:f∞´æs","MS",544
+"living room","MD13F!","59!","O","N","in her country house"," ","l±v±øÓ$rπº∫{∞}m","MS",544
+"sitting room","MD13G"," ","O","N"," "," ","s±'tn$ruº∫m","MS",545
+"parlor","MD13G"," ","N","N","best"," ","pµl¥","MS",545
+"sitting room","MD14","61(*)","O","N"," "," ","s±Ò±øÓ$ruøæm","MS",546
+"setting room","MD15A","62","O","N"," "," ","s≤'tn$rπ´ºm","MS",547
+"living room","MD15B","63","O","N"," "," ","l±v±øÓ$rπ´ºm","MS",548
+"parlor","MD15B","63","N","N"," "," ","pﬁ∫{∞é}l∞","MS",548
+"sitting room","MD16","64","O","N"," "," ","s±tê±øÓ$ruΩº∫m","MS",549
+"parlor","MD16","64","N","N"," "," ","p∂´º¥él¥é","MS",549
+"rented a room","MD16","64","E","Y"," ","INA","r≤ntê∞´d$∞$ruº∫m","MS",549
+"parlor","MD17A","65","N","N","some houses have both parlor and library"," ","p∂ºl¥","MS",550
+"sitting room","MD17A","65","O","N","upstairs"," ","s±Ò±øÓ$ruº∫m","MS",550
+"library","MD17A","65","N","N","some houses have both parlor and library"," ","lµ∫≤br±ø","MS",550
+"setting room","MD17B","66","O","N"," "," ","s≤tê±øÓ$ruºm","MS",551
+"parlor","MD18A","67","N","N","best room"," ","pﬁ∂îl∞","MS",552
+"setting room","MD18A","67","O","N"," "," ","s≤tn$rπ´m","MS",552
+"sitting room","MD18B","68","O","N"," "," ","s±'tn$rπ´ºm","MS",553
+"living room","MD18B","68","O","Y"," ","NEW","l±v±øn$rπ´ºm","MS",553
+"parlor","MD19A","69","N","N"," "," ","pµæ∫l∞","MS",554
+"parlor","MD19B","70","N","N","best room"," ","pﬁº:l∞","MS",555
+"setting room","MD19B","70","O","N"," "," ","s≤tê±øΩn$rπ´æm","MS",555
+"front room","MD20A","71","O","N"," "," ","fr∏æ{∞}nt$rπ{∞}m","MS",556
+"rented a room","MD20A","71","E","Y"," ","INA","Âr≤ntê±øΩd$∞$rπ{∞}m","MS",556
+"living room","MD20B","72","O","Y"," ","NEW","l±æv±øΩn$ruøuøæm","MS",557
+"sitting room","MD20B","72","O","N","next best"," ","s±'tn$ruøuøæm","MS",557
+"parlor","MD20B","72","N","N","best"," ","pﬁº∫l∞","MS",557
+"living room","MD20C!","73!","O","N"," "," ","l±v±øΩn$rπ´m","MS",558
+"parlor","MD20C!","73!","N","Y"," ","OLD","pﬁ:l∞","MS",558
+"front room","MD21A","75","O","N"," "," ","fr∏nt$rπm","MS",559
+"parlor","MD21A","75","N","Y"," ","OLD","pﬁ∫l∞","MS",559
+"setting room","MD21B","76","O","N"," "," ","s≤'tn$rπ´ºm","MS",560
+"parlor room","MD22N","N77","O","N"," "," ","pﬁ∫l∞$rπm","MS",561
+"parlor","MD22M","N78","N","N"," "," ","pﬁ:l∞","MS",562
+"parlor","MD22A","77","N","N"," "," ","pﬁº∫{∞}l∞","MS",563
+"setting room","MD22A","77","O","N"," "," ","s≤tê±ø˛´n$ruΩº∫m","MS",563
+"rented a room","MD22A","77","E","Y"," ","INA","ré≤ntê±øΩæd$∞$ruø´æ∫m","MS",563
+"sitting room","MD22B","78","O","N"," "," ","s±tn$rπ´m","MS",564
+"sitting room","MD22C!","79!","O","N"," "," ","s±tê±øÓ$rπm","MS",565
+"front room","MD23A","80b","O","N"," "," ","fr∏ºnt$rπm","MS",566
+"parlor","MD23A","80b","N","N","best"," ","pﬁ:l∞","MS",566
+"parlor room","MD23B","80a","O","N","best"," ","pﬁ∫l∞$rπ´ºm","MS",567
+"setting room","MD23B","80a","O","N","every day"," ","s≤tn$rπ´ºm","MS",567
+"parlor","MD23C","81","N","N","best room"," ","pﬁ:l∞","MS",568
+"living room","MD23C","81","O","Y"," ","NEW","l±v±øΩn$rπ´m","MS",568
+"setting room","MD23C","81","O","Y"," ","NEW","s≤tn$rπm","MS",568
+"setting room","MD24","82","O","N"," "," ","s≤tê±øΩn$rπ´m","MS",569
+"living room","MD25","84","O","N"," "," ","l±v±øÓ$rπ´æm","MS",570
+"setting room","MD25","84","O","N"," "," ","s≤Ò±øÓ$rπ´æm","MS",570
+"the room","MD26A","83","O","N","as distinct from `the kitchen'"," ","‰∞$rπø´uøæm","MS",571
+"setting room","MD26A","83","O","N"," "," ","s≤tn$rπø´uøæm","MS",571
+"library","MD26B","83A","N","N","more used [than parlor]"," ","la∫≤br≤{r}±ø","MS",572
+"parlor","MD26B","83A","N","N","special occasions"," ","pµ¥l¥","MS",572
+"front room","MD27A","85","O","N"," "," ","fr∏nt$ru∫m","MS",573
+"front room","MD27A","85","O","N"," "," ","fr∏nt$ru∫m","MS",573
+"living room","DC1A","99","O","N"," "," ","l±v∞n$rπm","MS",575
+"parlor","DC1A","99","N","N"," "," ","pﬁ∫{∞}Ï∞","MS",575
+"rented a room","DC1A","99","E","Y"," ","INA","r≤ntê∞´d$∞$rπm","MS",575
+"living room","DC1B!","100!","O","N"," "," ","l±v±øÓ$rπm","MS",576
+"sitting room","DC1B!","100!","O","Y","next best room","OLD","s±Ò±øÓ$rπm","MS",576
+"parlor","DC1B!","100!","N","Y","best room","OLD","pﬁ:{∞}l∞","MS",576
+"living room","VA1!","101!","O","N"," "," ","l±v±øÓ$rπm","MS",577
+"parlor","VA1!","101!","N","Y"," ","OLD","pﬁº∫∂´º{∞}l∞","MS",577
+"setting room","VA2A","103","O","N"," "," ","s≤{tê}±øΩn$ruΩ∫m","MS",578
+"chamber","VA2A","103","N","Y"," ","AUX","tÛ·´{±ø}mb∞","MS",578
+"setting room","VA2B","104","O","Y"," ","AUX","s≤'tn$rπ´m","MS",579
+"sitting room","VA3A","105(*)","O","N"," "," ","s±tê±øÓ$rπ´æm","MS",580
+"sitting room","VA3B","106","O","N"," "," ","s±tê±øÓ$ruº∫m","MS",581
+"setting room","VA3C"," ","O","N"," "," ","s≤Ò±øÓ$ruΩº∫m","MS",582
+"setting room","VA4N","N109","O","N"," "," ","s≤'tn$rπm","MS",583
+"setting room","VA5A","107","O","N"," "," ","s≤tê±øÓ$rπ´m","MS",584
+"large room","VA5A","107","O","N"," "," ","lµ∫{∞}d˙$rπ´m","MS",584
+"sitting room","VA5B","108","O","N"," "," ","s±'tn$rπm","MS",585
+"sitting room","VA6A","113","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",586
+"living room","VA6B","114","O","N"," "," ","l±v±øÓ$ruº∫m","MS",587
+"sitting room","VA6B","114","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",587
+"setting room","VA7A","121","O","N"," "," ","s≤'tn$rπ´m","MS",588
+"parlor","VA7A","121","N","N","a best room"," ","pµ∫l∞","MS",588
+"sitting room","VA7B","122","O","N"," "," ","s±tên$rπ´m","MS",589
+"parlor","VA7B","122","N","Y"," ","OLD","p{h}µ∫{∞}l∞","MS",589
+"parlor","VA8A","123","N","N"," "," ","pﬁº∫{∞}l∞","MS",590
+"setting room","VA8A","123","O","N"," "," ","s≤´'tn$rπøm","MS",590
+"rented a room","VA8A","123","E","Y"," ","INA","r≤ntê±øΩd$∞$rπøm","MS",590
+"parlor","VA8B","124","N","N"," "," ","pµ∫{∞}l∞","MS",591
+"sitting room","VA8B","124","O","N"," "," ","s±Áütn$rπ´m","MS",591
+"parlor","VA8C!","125!","N","N"," "," ","pﬁº:l∞","MS",592
+"drawing room","VA8C!","125!","O","Y","mother said","OLD/HRD","dÚ∑∫±øn$rπm","MS",592
+"setting room","VA9A","117","O","N"," "," ","s≤Án$rπøæm","MS",593
+"sitting room","VA9B!","118!","O","N"," "," ","s±øÁn$rπm","MS",594
+"setting room","VA10A","127","O","N"," "," ","s≤'tn$ruøΩæ{uøæ}m","MS",595
+"parlor","VA10B","128","N","N"," "," ","pµﬁl∞","MS",596
+"sitting room","VA10B","128","O","N","a second, more-used room [than parlor]"," ","s±tê±øÓ$rπm","MS",596
+"living room","VA11A","129","O","N"," "," ","l±v±øΩn$rπ´m","MS",597
+"setting room","VA11A","129","O","N"," "," ","s≤tê±øÓ$rπ´m","MS",597
+"parlor","VA11B","130","N","N"," "," ","p∂îºﬁ´l∞","MS",598
+"living room","VA11B","130","O","N"," "," ","l±v±øΩn$rπm","MS",598
+"the room","VA12N","N131","O","N"," "," ","{d}∞$rπm","MS",599
+"parlor","VA12N","N131","N","N"," "," ","pﬁ:l∞","MS",599
+"chamber","VA12A","131","N","N"," "," ","tÛe{∞}mb∞","MS",600
+"setting room","VA12A","131","O","N"," "," ","s≤'tn$rπ´m","MS",600
+"parlor","VA12B!","132!","N","N","best"," ","p{h}ﬁº∫l∞","MS",601
+"sitting room","VA12B!","132!","O","N"," "," ","s±tê±øÓ$rπ´m","MS",601
+"parlor","VA13A","133","N","N"," "," ","p∂:l∞","MS",602
+"living room","VA13A","133","O","N"," "," ","l±v±øΩn$rπm","MS",602
+"living room","VA13B","134","O","N"," "," ","lç±v±øΩn$rπ´m","MS",603
+"chamber","VA13B","134","N","Y"," ","OLD","tÛeΩ±ømb∞","MS",603
+"parlor","VA13B","134","N","Y"," ","OLD","pﬁº{ﬁó´}l∞","MS",603
+"living room","VA14A","135","O","N"," "," ","l±v±øΩn$rπm","MS",604
+"sitting room","VA14A","135","O","N"," "," ","s±tê±øΩn$rπm","MS",604
+"parlor","VA14A","135","N","N"," "," ","p∂∫l∞","MS",604
+"rented a room","VA14A","135","E","Y"," ","INA","r≤´n{tê}±ød$∞$rπ´m","MS",604
+"setting room","VA14B","136","O","N"," "," ","s≤'tn$rπ´m","MS",605
+"living room","VA14C","137","O","N"," "," ","l±v±øΩn$rπ´m","MS",606
+"parlor","VA15N","N139(*)","N","N"," "," ","p{h}µ∫l∞","MS",607
+"setting room","VA15N","N139(*)","O","N"," "," ","s≤'tn$rπ´∫m","MS",607
+"chamber","VA15A","139","N","N","a bed-/sitting room on ground floor"," ","tÛeΩ±ømb∞","MS",608
+"parlor","VA15A","139","N","N"," "," ","pµæ∫l∞","MS",608
+"living room","VA15B","140","O","N"," "," ","l±v±øΩn$rπm","MS",609
+"parlor","VA15B","140","N","N"," "," ","pﬁºﬁól∞","MS",609
+"setting room","VA16A","141","O","N"," "," ","s≤Ò±øÓ$rπm","MS",610
+"living room","VA16B","142","O","N"," "," ","l±æv±øÓ$rπm","MS",611
+"setting room","VA16B","142","O","N"," "," ","s≤tê±øÓ$rπm","MS",611
+"parlor","VA16B","142","N","N"," "," ","pﬁº∂ºl∞","MS",611
+"chamber","VA17A","143","N","N","largest bedroom downstairs,","RN1","tÛe{±ø}mb∞","MS",612
+" ","VA17A","143"," "," ","used as a sitting room","RN2"," ","MS",612
+"chamber room","VA17B","144","O","N"," "," ","tÛ≤´∫{±øΩ}mb∞$rπm","MS",613
+"setting room","VA17B","144","O","N","later [than `chamber room']"," ","s≤tn$rπm","MS",613
+"sitting room","VA18","145","O","N"," "," ","s±Án$rπ´{∞}m","MS",614
+"setting room","VA19A","146","O","N"," "," ","s≤Án$ruøΩuøm","MS",615
+"setting room","VA19B","147","O","N"," "," ","s≤'tn$rπø´{uøæ}m","MS",616
+"living room","VA19C!","148!","O","N","20 years"," ","l±v±øÓ$rπ´m","MS",617
+"sitting room","VA19C!","148!","O","N"," "," ","s±tê±øÓ$rπ´m","MS",617
+"parlor","VA19C!","148!","N","N"," "," ","p∂º∫∂´l∞","MS",617
+"parlor","VA20A","149","N","N"," "," ","pµæ∫{∞}l∞","MS",618
+"sitting room","VA20A","149","O","N"," "," ","s±'tn$ruøΩuøm","MS",618
+"living room","VA20B","150(*)","O","N"," "," ","l±v±øΩn$rπm","MS",619
+"sitting room","VA20B","150(*)","O","N"," "," ","s±tê±øÓ$rπm","MS",619
+"parlor","VA20B","150(*)","N","N"," "," ","pµæ:l∞","MS",619
+"living room","VA20C"," ","O","Y"," ","NEW","l±v±øΩn$rπm","MS",620
+"parlor","VA20C"," ","N","N","best room"," ","pﬁó∫{∞}l∞","MS",620
+"sitting room","VA20C"," ","O","N"," "," ","s±tê±ø›n$rπm","MS",620
+"front room","VA21N","N153","O","N"," "," ","fÚ∏˛n{t}$rπm","MS",621
+"setting room","VA21A","153","O","N"," "," ","s≤'tn$rπm","MS",622
+"setting room","VA21B","154","O","N"," "," ","s≤tê±øÓ$rπ´m","MS",623
+"front room","VA22","155","O","N"," "," ","fr∏nt$rπm","MS",624
+"the room","VA23A","156","O","N"," "," ","‰∞$rπ´{uøΩ}m","MS",625
+"sitting room","VA23B","157","O","N"," "," ","s±'tn$rπ´m","MS",626
+"rented a room","VA23B","157","E","Y"," ","INA","r≤{n}{tê}±øΩd$∞$rπ´m","MS",626
+"sitting room","VA24","159","O","N"," "," ","s±tê±øÓ$rπm","MS",627
+"parlor","VA24","159","N","N","luxurious"," ","pµæﬁ´ºl∞","MS",627
+"sitting room","VA25","160(*)","O","N"," "," ","s±'tn$rπøuøΩm","MS",628
+"big room","VA25","160(*)","O","Y"," ","AUX","b±æ∫g$rπø´uøΩm","MS",628
+"setting room","VA26A","161A","O","N"," "," ","s≤'tn$rπøm","MS",629
+"hired a room","VA26A","161A","E","Y"," ","INA","haæ{≤æ}{∞}d$∞$rπøm","MS",629
+"setting room","VA26B","161","O","N"," "," ","s≤'tn$rπøuøm","MS",630
+"big room","VA26B","161","O","N","nicest"," ","b±g$rπøuøm","MS",630
+"colonnade","VA26B","161","N","Y"," ","INA","kµ∫l∞n≤´∫{∞}d","MS",630
+"living room","VA26C","162","O","Y"," ","NEW","l±v±øÓ$rπm","MS",631
+"setting room","VA26C","162","O","Y","used as such","OLD","s≤tê±øÓ$rπm","MS",631
+"parlor","VA26C","162","N","Y","best room","OLD","p∂∫{∞}l∞","MS",631
+"setting room","VA27","163(*)","O","N"," "," ","s≤'tn$rπø{uøΩ}m","MS",632
+"rented a room","VA27","163(*)","E","Y"," ","AUX/INA","r≤´ntê±ød$∞$ruøº{uø}m","MS",632
+"setting room","VA28A","164","O","N"," "," ","s≤'tn$ruø{uøæ}m","MS",633
+"sitting room","VA28B","165","O","N"," "," ","s±tê±øÓ$rπm","MS",634
+"parlor","VA28B","165","N","N"," "," ","pﬁº∂´l∞","MS",634
+"front room","VA29","166","O","N"," "," ","fr∏{∞}nt$rπ´m","MS",635
+"setting room","VA30A","167","O","N"," "," ","s≤'tn$rπ{∞}m","MS",636
+"living room","VA30B!","167a!","O","N"," "," ","l±v±øÓ$rπm","MS",637
+"drawing room","VA30B!","167a!","O","Y","in handsome house","OLD","dr∑Ω∫±øÓ$rπm","MS",637
+"parlor","VA30B!","167a!","O","Y"," ","OLD","pﬁº∫l∞","MS",637
+"living room","VA30C!","168!","O","Y"," ","NEW","l±v±øÓ$rπm","MS",638
+"sitting room","VA30C!","168!","O","Y"," ","OLD","s±tê±øÓ$rπΩº∫m","MS",638
+"parlor","VA30C!","168!","N","Y"," ","OLD","pµæ:{∞}l∞","MS",638
+"parlor","VA30C!","168!","N","Y"," ","OLD","pﬁº:{∞}l∞","MS",638
+"rented a room","VA30C!","168!","E","Y"," ","INA","r≤ntê±øΩd$∞$rπΩº{∞}m","MS",638
+"parlor","VA30D!","169!","N","N"," "," ","pﬁº∫{∞}l∞","MS",639
+"living room","VA30D!","169!","O","N"," "," ","l±v±øÓ$rπm","MS",639
+"parlor","VA30E!","170!","N","Y"," ","OLD","pµæ∂´ºl∞","MS",640
+"living room","VA30E!","170!","O","Y"," ","NEW","l±v±øÓ$rπm","MS",640
+"sitting room","VA30E!","170!","O","Y","always upstairs","SUG","s±t±øÓ$rπm","MS",640
+"setting room","VA31A","171(*)(**)","O","N"," "," ","s≤Áütn$rπm","MS",641
+"sitting room","VA31B","172","O","N"," "," ","s±tê±øÓ$rπ´m","MS",642
+"parlor","VA31B","172","N","Y"," ","OLD","pµæ∫{∞}l∞","MS",642
+"front room","VA31C"," ","O","N"," "," ","fr∏{∞}n{t}$rπ´m","MS",643
+"living room","VA32!","175!","O","N"," "," ","l±v±øÓ$rπm","MS",644
+"drawing room","VA32!","175!","O","N","very handsome"," ","dr∂´∫±øÓ$rπm","MS",644
+"parlor","VA32!","175!","N","Y"," ","OLD","p∂´º∫{∞}l∞","MS",644
+"setting room","VA33A","173","O","N"," "," ","s≤tn$rπm","MS",645
+"living room","VA33B","174","O","N"," "," ","l±v±øΩn$rπm","MS",646
+"parlor","VA33B","174","N","N","best room"," ","p∂î´º∫{∂´}l∞","MS",646
+"chamber","VA33B","174","N","Y","large bedroom downstairs","OLD/INA","tÛeΩ±ømb∞","MS",646
+"living room","VA34A","177(*)","O","Y"," ","AUX/NEW","l±v±øΩn$rπm","MS",647
+"parlor","VA34A","177(*)","N","Y","best","AUX","pµæ∫{∞}l∞","MS",647
+"setting room","VA34A","177(*)","O","Y"," ","AUX","s≤tn$rπm","MS",647
+"rented a room","VA34A","177(*)","E","Y"," ","INA","r±ntê±ød$∞$rπºm","MS",647
+"parlor","VA34B","178","N","N"," "," ","p∂∫{∂´æ}l∞","MS",648
+"living","VA34B","178","V","Y"," ","INA","l±v±øΩn","MS",648
+"chamber","VA35A","179","N","N","downstairs bed-/sitting room"," ","tÛe∫{±øΩ}mb∞","MS",649
+"parlor","VA35A","179","N","Y","best room","OLD","pﬁº:l∞","MS",649
+"living room","VA35B","180","O","N"," "," ","l±v±øΩn$rπ´m","MS",650
+"sitting room","VA35B","180","O","N"," "," ","s±tn$rπm","MS",650
+"parlor","VA35B","180","N","N"," "," ","pﬁó∫{∞}l∞","MS",650
+"setting room","VA36A","181","O","N"," "," ","s≤'tn$rπ´m","MS",651
+"parlor","VA36A","181","N","N","a best room"," ","pﬁ:l∞","MS",651
+"chamber","VA36A","181","N","Y"," ","OLD","tÛeΩ∫{±ø˛}mb∞","MS",651
+"living room","VA36B","182","O","N"," "," ","l±v±øΩÓ$rπm","MS",652
+"big room","VA36B","182","O","Y"," ","OLD","b±´g$rπm","MS",652
+"parlor","VA36B","182","N","N"," "," ","pﬁ∫{∞}l∞","MS",652
+"setting room","VA37","183","O","N"," "," ","s≤'tn$rπø˛º{uø˛}m","MS",653
+"sitting room","VA38","185","O","N"," "," ","s±tê±øÓ$rπm","MS",654
+"setting room","VA38","185","O","N"," "," ","s≤tê±øÓ$rπm","MS",654
+"living room","VA38","185","O","Y"," ","NEW","l±v±øÓ$rπm","MS",654
+"rented a room","VA38","185","E","Y"," ","INA","r≤ntê±ød$∞$rπm","MS",654
+"parlor","VA39!","186!","N","N"," "," ","p∂º∂´l∞","MS",655
+"sitting room","VA39!","186!","O","N"," "," ","s±tê±øÓ$rπm","MS",655
+"sitting room","VA40A","187","O","N"," "," ","s±tê±øÓ$rπ´∫{∞}m","MS",656
+"front room","VA40B","188","O","N"," "," ","fr∏˛´{∞˛}nt$rπ˛m","MS",657
+"sitting room","VA40B","188","O","N"," "," ","s±tê±øÓ$rπ˛m","MS",657
+"setting room","VA41A","191","O","N"," "," ","s≤'tn$rπm","MS",658
+"front room","VA41A","191","O","N","best"," ","fr∏{∞}nt$rπm","MS",658
+"sitting room","VA41B","192","O","N"," "," ","s±'tn$rπm","MS",659
+"living room","VA41B","192","O","N"," "," ","l±v±øn$rπm","MS",659
+"parlor","VA41B","192","N","N","a better room [than sitting room, living room]"," ","p∂∫{∞}l∞","MS",659
+"parlor","VA42A","193(*)(**)","N","N"," "," ","p{h}µµæl∞","MS",660
+"living room","VA42A","193(*)(**)","O","Y"," ","NEW","l±v±øΩn$rπ´m","MS",660
+"sitting room","VA42A","193(*)(**)","O","Y"," ","AUX","s±'tn$rπ´m","MS",660
+"setting room","VA42B","194","O","N"," "," ","s≤Ò±øÓ$rπ´{∞}m","MS",661
+"chamber room","VA43N","N195","O","N","a living room or setting room"," ","tÛe∫mb∞$rπm","MS",662
+"parlor","VA43N","N195","N","Y","best room","OLD","pﬁº∫l∞","MS",662
+"setting room","VA43A","195","O","N"," "," ","s≤tn$rπ´m","MS",663
+"living room","VA43B","196","O","N"," "," ","l±v±øΩn$rπm","MS",664
+"sitting room","VA43B","196","O","N"," "," ","s±'tn$rπm","MS",664
+"parlor","VA44A","199","N","N"," "," ","pµ∫{∞}l∞","MS",665
+"living room","VA44A","199","O","Y"," ","NEW","l±∫v±øΩn$rπm","MS",665
+"sitting room","VA44B","200","O","N"," "," ","s±Ò±øÓ$rπ´m","MS",666
+"setting room","VA44B","200","O","Y"," ","OLD","s≤Ò±øÓ$rπ´m","MS",666
+"living room","VA45A","201","O","N"," "," ","l±Ωv±øΩn$rπ´ºm","MS",667
+"setting room","VA45A","201","O","N"," "," ","s≤tn$rπ´ºm","MS",667
+"rented a room","VA45A","201","E","Y"," ","INA","r≤{n}{tê}±ø›{d}$∞$rπ´m","MS",667
+"living room","VA45B","202","O","N"," "," ","l±v±øÓ$rπm","MS",668
+"sitting room","VA45B","202","O","N"," "," ","s±Ò±øÓ$rπm","MS",668
+"front room","VA46N","N207","O","N"," "," ","fr∏´nt$ruΩº∫m","MS",669
+"setting room","VA46N","N207","O","N","with fireplace and beds"," ","s≤tê±øÓ$ruΩº∫m","MS",669
+"rented a room","VA46N","N207","E","Y"," ","INA","r≤ntê∞´d$∞$ruΩº∫m","MS",669
+"living room","VA46A","207","O","N","common room"," ","lç±v±øΩn$rπø´{uº}m","MS",670
+"front room","VA46A","207","O","N","the best room"," ","fr∏nt$rπø´{uº}m","MS",670
+"parlor","VA46A","207","N","Y","best room","HRD","pµ∫{∞}l∞","MS",670
+"rented a room","VA46A","207","E","Y"," ","INA","r≤ntê±øºd$∞$ruΩº∫m","MS",670
+"living room","VA46B!","208!","O","N"," "," ","l±v±øÓ$rπ{∞}m","MS",671
+"setting room","VA47","211","O","N"," "," ","s≤'tn$rπm","MS",672
+"parlor","VA47","211","N","N","best room"," ","pﬁº∫l∞","MS",672
+"parlor room","VA48A","213(*)","O","N","natural"," ","p∂´º{∞}l∞$ruøΩ∫m","MS",673
+"sitting room","VA48A","213(*)","O","Y"," ","NEW","s±'tn$ruøΩ∫m","MS",673
+"setting room","VA48A","213(*)","O","Y"," ","AUX","s≤'tn$ruøΩ∫m","MS",673
+"sitting room","VA48B","214","O","N"," "," ","s±'tn$ruøΩ{uø}m","MS",674
+"parlor","VA48B","214","N","N"," "," ","pﬁº∫{∞}l∞","MS",674
+"parlor","VA49A","215","N","N"," "," ","pµ∫{∞}l∞","MS",675
+"setting room","VA49A","215","O","N"," "," ","s≤'tn$ruøΩ∫m","MS",675
+"parlor","VA49B","216","N","N"," "," ","pﬁº∫l∞","MS",676
+"living room","VA49B","216","O","N"," "," ","l±v±øÓ$ruø∫m","MS",676
+"front room","VA50A","217","O","N"," "," ","fr∏nt$rπm","MS",677
+"parlor","VA50A","217","N","N"," "," ","pµ∫{∞}l∞","MS",677
+"living room","VA50B","218","O","N"," "," ","l±v±øΩn$rπm","MS",678
+"sitting room","VA50B","218","O","N"," "," ","s±tê±øn$rπm","MS",678
+"setting room","VA51A","219","O","N"," "," ","s≤´tn$rπm","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"living room","VA51C"," ","O","N"," "," ","l±v±øΩn$rπø›uø›Ωm","MS",681
+"parlor","VA51C"," ","N","N"," "," ","pµ∫{∞}l∞","MS",681
+"sitting room","VA52A","224","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",682
+"living room","VA52B","225","O","N"," "," ","Ï±Ωæv±øÓ$ruº∫m","MS",683
+"sitting room","VA52B","225","O","N"," "," ","s±Ò±øÓ$ruº∫m","MS",683
+"living room","VA52C!","226!","O","N"," "," ","l±v±øÓ$ruº∫m","MS",684
+"parlor","VA52C!","226!","N","Y"," ","OLD","pﬁº:{∞}l¥","MS",684
+"parlor","VA53A","227","N","N"," "," ","pµ´¥l¥","MS",685
+"living room","VA53B","228","O","N"," "," ","Ï±v±øÓ$ruøΩm","MS",686
+"sitting room","VA53B","228","O","Y","next best","OLD","s±Ò±øÓ$ruøΩm","MS",686
+"parlor","VA53B","228","N","Y","best","OLD","pµ´¥Ï¥","MS",686
+"setting room","VA54A","229","O","N"," "," ","s≤Án$róuº∫m","MS",687
+"rented a room","VA54A","229","E","Y"," ","INA","r≤´n{tê}±øΩd$∞$ruº∫m","MS",687
+"living room","VA54B","230","O","N"," "," ","l±v±øÓ$rπø´∫m","MS",688
+"sitting room","VA54B","230","O","N"," "," ","s±tê±øÓ$rπø´∫m","MS",688
+"sitting room","VA55A","233(*)","O","N"," "," ","s±tê±øÓ$ruøæ∫m","MS",689
+"Besuchstube","VA55A","233(*)","N","Y","Pa. German for `parlor'","AUX/INA","Âpsu›ºxÛtπ›´ºp","MS",689
+"parlor","VA55A","233(*)","O","Y"," ","AUX","p∂îº∫∞él¥","MS",689
+"Hockstube","VA55A","233(*)","N","Y","Pa. German for `sitting room'","AUX/INA","Âh∏´kÛtπ›´ºp","MS",689
+"setting room","VA55A","233(*)","O","Y"," ","AUX","s≤Án$ruº∫m","MS",689
+"rented a room","VA55A","233(*)","E","Y"," ","INA","r≤n{tê}∞´d$∞$ruøΩæm","MS",689
+"rented a room","VA55A","233(*)","E","Y"," ","AUX/INA","r≤ntê±ød$∞$ruº∫m","MS",689
+"living room","VA55B","234(*)","O","N"," "," ","l±v±øÓ$rπm","MS",690
+"sitting room","VA55B","234(*)","O","Y"," ","OLD","s±Ò±øÓ$rπm","MS",690
+"parlor","VA55B","234(*)","N","Y","to entertain","AUX","pµ´æ¥l¥","MS",690
+"sitting room","VA56A","237","O","N"," "," ","s±Ò±øÓ$ruøΩæm","MS",691
+"living room","VA56B","238","O","N"," "," ","l±v±øÓ$ruøΩæm","MS",692
+"sitting room","VA56B","238","O","N"," "," ","s±Ò±øÓ$ruøΩæm","MS",692
+"setting room","VA57A","239","O","N"," "," ","s≤Án$rπ´m","MS",693
+"living room","VA57B","240","O","N"," "," ","l±æv∞´n$rπ´∫m","MS",694
+"parlor","VA57B","240","N","Y"," ","OLD","pµ∫∞él∞é","MS",694
+"parlor","VA58","241(*)","N","N"," "," ","p{h}µæ∫l∞","MS",695
+"setting room","VA58","241(*)","O","N"," "," ","s≤'tn$rπ´m","MS",695
+"rented a room","VA58","241(*)","E","Y"," ","AUX/INA","r≤ntê±øΩd$∞$rπ´m","MS",695
+"setting room","VA59N","N241","O","N"," "," ","s≤´∫'tn$rπ´∫m","MS",696
+"rented a room","VA59N","N241","E","Y"," ","INA","r≤´n{tê}±øΩd$∞$rπ´∫m","MS",696
+"living room","VA59A","242","O","N"," "," ","lç±v±øΩn$rπ´m","MS",697
+"parlor","VA59A","242","N","N","best, shut up"," ","p{h}µæ∫{∞}l∞","MS",697
+"living room","VA59B!","243!","O","N"," "," ","l±v±øÓ$rπm","MS",698
+"parlor","VA59B!","243!","N","Y"," ","OLD","p{h}ﬁºﬁó´ºl∞","MS",698
+"front room","VA60","244(*)","O","Y"," ","AUX","fr∏nt$ruøΩæ∫m","MS",699
+"parlor","VA61A","245(*)","N","N","same [as `front room']"," ","pµæ∫{∞}l∞","MS",700
+"living room","VA61A","245(*)","O","Y","same [as `sitting room']","NEW","l±v∞´n$rπ´{uº}m","MS",700
+"front room","VA61A","245(*)","O","Y","same [as `parlor']","NEW","fr∏nt$rπ´{uº}m","MS",700
+"setting room","VA61A","245(*)","O","Y","same [as `living room']","SUG/OLD","s≤'tn$rπ´{uº}m","MS",700
+"rented a room","VA61A","245(*)","E","Y"," ","INA","r≤n{tê}∞ºd$∞$rπ´{uº}m","MS",700
+"sitting room","VA61B!","246!","O","N"," "," ","s±Ò±øÓ$rπm","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"sitting room","VA62A","247(*)","O","N"," "," ","s±´∫Ò±øÓ$rπ´m","MS",703
+"setting room","VA62A","247(*)","O","Y"," ","AUX","s≤Án$rπº{∞}m","MS",703
+"parlor room","VA62A","247(*)","N","Y"," ","AUX","pµæ∞l∞$rπº{∞}m","MS",703
+"sitting room","VA62B","248","O","N"," "," ","s±Án$rπm","MS",704
+"setting room","VA63A","251","O","N"," "," ","s≤'tn$ruøΩ{uø}m","MS",705
+"front room","VA63B","252","O","N"," "," ","fr∏{∞}nt$ruøΩ{uø}m","MS",706
+"warm room","VA64A","255","O","N"," "," ","w∑Ω∫{∑}m$Âruøæ∫m","MS",707
+"sitting room","VA64B","256","O","N","more used room [than front room, parlor]"," ","s±ΩÒ±øÓ$ruøΩ{uøæ}m","MS",708
+"front room","VA64B","256","O","N","better room [than sitting room]"," ","fr∏˛{∞˛}nt$ruøΩ{uøæ}m","MS",708
+"parlor","VA64B","256","N","Y","better room [than sitting room]","OLD","pµæ:l∞","MS",708
+"parlor room","VA65A","257","O","N"," "," ","pµ{r}l¥$rπ´{uº}m","MS",709
+"setting room","VA65A","257","O","N"," "," ","s≤tê±øÓ$rπ´{uº}m","MS",709
+"rented","VA65A","257","V","Y"," ","INA","r≤n{tê}∞´d","MS",709
+"setting room","VA65B","258","O","N"," "," ","s≤tn$rπø´{uº}m","MS",710
+"front room","VA65B","258","O","N","even when not in front"," ","fr∏´nt$rπø´{uº}m","MS",710
+"hired me a room","VA65B","258","E","Y"," ","INA","hµº{∞}rd$miΩæ$∞$rπø´{uº}m","MS",710
+"drawing room","VA65C!","259!","O","N","in a house so built; in her mother's house"," ","dr∑Ω∫±øÓ$ruø∫m","MS",711
+"living room","VA65C!","259!","O","Y","in her country house","NEW","l±∫v±øÓ$ruø∫m","MS",711
+"sitting room","VA65C!","259!","O","N","natural; dying out; in her town house"," ","s±Ò±øÓ$ruø∫m","MS",711
+"big room","VA66A","261","O","N"," "," ","b±´g$ruøæ∫m","MS",712
+"setting room","VA66B","262","O","N"," "," ","s≤Án$ruøΩ∫m","MS",713
+"setting room","VA67A","267","O","N"," "," ","s≤'tn$ruøΩ∫{uø}m","MS",714
+"fire room","VA67A","267","O","N"," "," ","fµ{≤æ}¥$ruøΩ{uø}m","MS",714
+"sitting room","VA67B","268","O","N"," "," ","s±tê±øÓ$ruøΩ∫{uø}m","MS",715
+"parlor","VA67B","268","N","N","better room [than sitting room]"," ","pµæ¥l¥","MS",715
+"front room","VA68A","269","O","N"," "," ","fr∏´ºnt$ruøΩ∫m","MS",716
+"parlor","VA68B","270","N","N"," "," ","pµ{∞é}l∞","MS",717
+"setting room","VA69A","273","O","N"," "," ","s≤ÒÓ$ruøΩæm","MS",718
+"living room","VA69B","274","O","N"," "," ","l±v±øΩn$ruøΩ∫m","MS",719
+"sitting room","VA69B","274","O","N"," "," ","s±Ò±øΩn$ruøΩ∫m","MS",719
+"parlor","VA69B","274","N","N"," "," ","pµ∫{∞}l∞","MS",719
+"living room","VA70A","275","O","N"," "," ","l±∫v±øÓ$rπø´{uº}m","MS",720
+"setting room","VA70A","275","O","N"," "," ","s≤{∞}tê±øÓ$rπø´{uº}m","MS",720
+"parlor","VA70A","275","N","N","best room"," ","p{h}µ´¥l¥","MS",720
+"rented","VA70A","275","V","Y"," ","INA","r≤˛{n}{tê}∞´d","MS",720
+"living room","VA70B","276","O","N"," "," ","Ï±Ω∫{∞}v±øÓ$ruøΩ{uø}m","MS",721
+"setting room","VA70B","276","O","N"," "," ","s≤'tn$ruøΩ{uø}m","MS",721
+"sitting room","VA71A","285","O","N"," "," ","s±'tn$ruøΩ∫{uø}m","MS",722
+"front room","VA71A","285","O","Y"," ","SUG","fr∏´∫{∞}nt$ruøΩ∫{uø}m","MS",722
+"living room","VA71B","286","O","N"," "," ","Ï±{∞}v∞´n$rjuøΩ{uø}m","MS",723
+"parlor","VA71B","286","N","Y","best room","OLD","pµ´¥l¥","MS",723
+"setting room","VA72A","287","O","N"," "," ","s≤'tn$ruøΩ{uø}m","MS",724
+"setting room","VA72B","288","O","N"," "," ","s≤'tn$ruøΩ∫{uø}m","MS",725
+"sitting room","VA73","291","O","N"," "," ","s±t±øÓ$ruøΩ∫{uøæ}m","MS",726
+"setting room","VA74A","293","O","N"," "," ","s≤tê±øÓ$ruøΩ∫{uø}m","MS",727
+"parlor","VA74B!","294!","N","N"," "," ","pµæﬁî´ºÏ∞´","MS",728
+"living room","VA74B!","294!","O","Y"," ","NEW","l±v±øÓ$rπ´{∞}m","MS",728
+"setting room","VA75A","297","O","N"," "," ","s≤'tn$ruøΩ{uø}m","MS",729
+"sitting room","VA75B","298","O","N"," "," ","s±tê±øÓ$ruøΩ{uø}m","MS",730
+"setting room","NC1","303","O","N"," "," ","s≤'tn$rπø{uøæ}m","MS",731
+"setting room","NC2A","301","O","Y"," ","AUX2","s≤tê±øΩn$rπ´ºm","MS",732
+"hired me a room","NC2A","301","E","Y"," ","AUX2/INA","hµ´{∞}rd$mi$∞$rπ´º{∞}m","MS",732
+"living room","NC2B","304","O","N"," "," ","l±v±øΩn$rπø´{uøæ}m","MS",733
+"parlor","NC2B","304","N","N"," "," ","pµæ∫l∞{∞é}","MS",733
+"parlor room","NC3A","305","O","N"," "," ","pﬁ´∫{∞é}l∞é$rπøuøm","MS",734
+"setting room","NC3A","305","O","N"," "," ","s≤Áütn$rπøuøm","MS",734
+"living room","NC3B","306","O","N"," "," ","l±v±øΩn$ruøΩ{uø}m","MS",735
+"sitting room","NC3B","306","O","N"," "," ","s±æ'tn$ruøΩ{uø}m","MS",735
+"setting room","NC4A","307","O","N"," "," ","s≤'tn$rπø´{uøΩ}m","MS",736
+"sitting room","NC4B","308","O","N"," "," ","s±tn$rπ´m","MS",737
+"parlor","NC4B","308","N","Y"," ","OLD","pﬁº∫l∞","MS",737
+"setting room","NC5A","309","O","N"," "," ","s≤´tên$rπø´{uø}m","MS",738
+"living room","NC5B","310","O","N"," "," ","l±v±øÓ$rπ´{uΩº}m","MS",739
+"sitting room","NC5B","310","O","N"," "," ","s±'tn$rπ´{uΩº}m","MS",739
+"sitting room","NC6!","311!","O","N"," "," ","s±tê±øÓ$rπ´m","MS",740
+"parlor","NC6!","311!","N","N","best room"," ","pﬁº∫{∞}l∞","MS",740
+"setting room","NC7A","315(*)","O","Y"," ","AUX","s≤tê±øΩn$rπø´{uøæ}m","MS",741
+"parlor","NC7A","315(*)","N","Y","best room","AUX","pµæ{∞}l∞","MS",741
+"parlor","NC7B","316","N","N","best room"," ","p∂∫{∞é}l∞é","MS",742
+"living room","NC7B","316","O","N"," "," ","l±v±øÓ$rπø´{uø}m","MS",742
+"setting room","NC7B","316","O","Y"," ","OLD","s≤Án$rπø´{uø}m","MS",742
+"setting room","NC8N","N317","O","N"," "," ","s≤'tn$ruΩº∫m","MS",743
+"setting room","NC8A","317","O","N"," "," ","s≤Án$rπø´uøm","MS",744
+"sitting room","NC8B","318(*)","O","N"," "," ","s±'tn$rπø´uøm","MS",745
+"sitting room","NC8B","318(*)","O","Y"," ","AUX","s±Án$ruøΩuøm","MS",745
+"setting room","NC9A","319","O","N"," "," ","s≤'tn$rπø´{uøæ}m","MS",746
+"living room","NC9B","320","O","N"," "," ","l±v±øΩn$rπø´{uø}m","MS",747
+"sitting room","NC9B","320","O","N"," "," ","s±'tn$rπø´{uø}m","MS",747
+"setting room","NC10A","321","O","N"," "," ","s≤tn$rπøº{uøæ}m","MS",748
+"rented a room","NC10A","321","E","Y"," ","INA","r≤ntê±øΩd$∞$rπº{uø}m","MS",748
+"sitting room","NC10B","323","O","N"," "," ","s±tê±øΩn$rπø´{uøæ}m","MS",749
+"sitting room","NC10C","322","O","N"," "," ","s±'tn$rπø´{uø}m","MS",750
+"setting room","NC11A","325","O","N"," "," ","s≤Án$rπø´uøæm","MS",751
+"living room","NC11B","326","O","Y"," ","NEW","l±v±øn$rπø´uøm","MS",752
+"sitting room","NC11B","326","O","N"," "," ","s±tê±øÓ$rπø´uøm","MS",752
+"setting room","NC12A","327(*)","O","N"," "," ","s≤Án$rπø˛uø˛Ωm","MS",753
+"living room","NC12A","327(*)","O","Y"," ","AUX/NEW","l±v±øΩn$ruø{uøæ}m","MS",753
+"front room","NC12A","327(*)","O","Y","better [than living room]","AUX","fr∏nt$ruø{uøæ}m","MS",753
+"setting room","NC12A","327(*)","O","Y","most natural","AUX","s≤tn$ruø{uøæ}m","MS",753
+"rented a room","NC12A","327(*)","E","Y"," ","AUX/INA","r≤nt$∞$ruøΩ{uøæ}m","MS",753
+"living room","NC12B","328","O","N"," "," ","l±v±øΩn$rπø{uø}m","MS",754
+"sitting room","NC12B","328","O","N"," "," ","s±Án$rπø{uø}m","MS",754
+"parlor","NC12B","328","N","N"," "," ","p∂´º∫{∞é}l∞é","MS",754
+"setting room","NC13A","329","O","N"," "," ","s≤Án$ruøΩ{uøæ}m","MS",755
+"front room","NC13B","330(*)","O","N"," "," ","fr∏nt$rπø´{uø}m","MS",756
+"parlor","NC13B","330(*)","N","Y","as a girl","OLD","pµæ∫∞él¥","MS",756
+"sitting room","NC13B","330(*)","O","Y"," ","AUX","s±`t±øÓ$ruø{uøæ}m","MS",756
+"sitting room","NC13B","330(*)","O","Y"," ","AUX","s±Án$ruø{uøæ}m","MS",756
+"living room","NC13B","330(*)","O","Y"," ","AUX","l±v±øΩn$ruø{uøæ}m","MS",756
+"sitting room","NC14N","N331","O","N"," "," ","s±tên$rπæm","MS",757
+"fire room","NC14N","N331","O","N"," "," ","fµ∫∞é$rπæm","MS",757
+"setting room","NC14A","331","O","N"," "," ","s≤'tn$rπø´{uøæ}m","MS",758
+"front room","NC14A","331","O","N"," "," ","fr∏n't$rπø´{uøæ}m","MS",758
+"sitting room","NC14B","332","O","N"," "," ","s±t±øÓ$ruø{uøæ}m","MS",759
+"rented a room","NC14B","332","E","Y"," ","INA","r≤ntê±ød$∞$ruøæ{uº}m","MS",759
+"living room","NC14C!","333!","O","Y"," ","NEW","l±v±øÓ$rπ´{uº}m","MS",760
+"sitting room","NC14C!","333!","O","N","frequented more"," ","s±tê±øÓ$rπ´{uº}m","MS",760
+"parlor","NC14C!","333!","N","N","used just after Civil War; best room"," ","p∂º∫{∂}{∞}l∞","MS",760
+"the room","NC15A","335(*)","O","N"," "," ","‰∞$ruøΩ{uø˛}m","MS",761
+"setting room","NC15A","335(*)","O","N"," "," ","s≤Án$rπø´{uø}m","MS",761
+"sitting room","NC15B","336","O","N"," "," ","s±tê±øÓ$ruøº{uø}m","MS",762
+"parlor","NC15B","336","N","Y","best room","OLD","pﬁº∫{∞é}l∞","MS",762
+"setting room","NC15C"," ","O","N"," "," ","s≤Áütn$rπ´{uº}m","MS",763
+"setting room","NC16A","339(*)","O","N"," "," ","s≤Án$ruøΩ{uø˛æ}m","MS",764
+"sitting room","NC16A","339(*)","O","Y"," ","AUX","s±∫tê±øΩn$ruøΩ{uøæ}m","MS",764
+"parlor","NC16A","339(*)","N","Y"," ","AUX","pµ∫{∞é}l∞é","MS",764
+"sitting room","NC16B","340","O","N"," "," ","s±Án$ruøΩ{uøæ}m","MS",765
+"setting room","NC17A","337","O","N"," "," ","s≤tê±øΩn$ruøΩ{uø}m","MS",766
+"big house","NC17A","337","O","Y","the one room of a log house,","INA/RN1","Âb±´iΩæg$h·∫πøΩs","MS",766
+" ","NC17A","337"," "," ","kitchen was separate","RN2"," ","MS",766
+"living room","NC17B","338","O","N"," "," ","l±v±øΩn$ruøΩ{uøæ}m","MS",767
+"sitting room","NC17B","338","O","N"," "," ","s±Áütn$ruøΩ{uøæ}m","MS",767
+"setting room","NC18A","341","O","N"," "," ","s≤tê±øΩn$ruΩº∫m","MS",768
+"sitting room","NC18B","342","O","N"," ","SIC","s±'tn$ro´∫m","MS",769
+"setting room","NC19A","343","O","N"," "," ","s≤Án$ruøΩ{uø}m","MS",770
+"living room","NC19B","344","O","Y"," ","NEW","l±∫v±øΩn$rπî´æm","MS",771
+"sitting room","NC19B","344","O","N"," "," ","s±Án$rπî´æm","MS",771
+"parlor","NC19B","344","N","N","best room"," ","pﬁó∫{∞é}l∞é","MS",771
+"living room","NC20A","345","O","Y"," ","NEW","l±Ω{∞}v±øn$ruø{uøæ}m","MS",772
+"setting room","NC20A","345","O","N"," "," ","s≤tn$ruø{uøæ}m","MS",772
+"rented","NC20A","345","E","Y"," ","INA","r≤´n{tê}±øΩd","MS",772
+"sitting room","NC20B","346a","O","N"," "," ","s±tê±øÓ$rπø´{uø}m","MS",773
+"living room","NC20C","346b","O","N"," "," ","l±v±øΩn$rπø´}uø}m","MS",774
+"sitting room","NC20C","346b","O","N"," "," ","s±tê±øΩn$rπø´{uø}m","MS",774
+"parlor","NC20C","346b","N","N"," "," ","pﬁó´º∫¥l¥","MS",774
+"setting room","NC21A","347","O","N"," "," ","s≤'tn$ruΩº∫m","MS",775
+"parlor room","NC21A","347","O","N"," "," ","pµæl¥$ruΩº∫m","MS",775
+"front room","NC21B","348","O","N"," "," ","fr∏∫nt$rπ´m","MS",776
+"living room","NC22A","349","O","N"," "," ","lç±v±øΩn$ruº∫m","MS",777
+"front room","NC22A","349","O","N","the best room"," ","fr∏´nt$ruº∫m","MS",777
+"setting room","NC22A","349","O","N"," "," ","s≤tn$ruº∫m","MS",777
+"rented a room","NC22A","349","E","Y"," ","INA","r≤n{tê}±øΩd$∞$ruº∫m","MS",777
+"living room","NC22B","349b","O","N"," "," ","l±v±øn$rπm","MS",778
+"sitting room","NC22B","349b","O","N"," "," ","s±tê±øÓ$rπm","MS",778
+"parlor","NC22B","349b","N","N"," "," ","pµ∞él∞é","MS",778
+"living room","NC23A","351a","O","N"," "," ","l±v±øΩn$ruΩºm","MS",779
+"parlor","NC23A","351a","N","N"," "," ","pµ∫{∞}l∞","MS",779
+"living room","NC23B","351b(*)","O","N"," "," ","l±v±øÓ$ruøΩ{uøæ}m","MS",780
+"parlor","NC23B","351b(*)","N","N"," "," ","pﬁº{∂}{∞}l∞","MS",780
+"front room","NC23B","351b(*)","O","Y"," ","AUX","fr∏˛n't$rπ´{uΩº}m","MS",780
+"parlor","NC23B","351b(*)","N","Y"," ","AUX","pµ∫{∞}l∞","MS",780
+"living room","NC23B","351b(*)","O","Y"," ","AUX/NEW","l±v±øΩn$ruΩº∫m","MS",780
+"living room","NC23C!","351c!","O","N"," "," ","l±v±øΩn$rπm","MS",781
+"sitting room","NC23C!","351c!","O","N"," "," ","s±tê±øÓ$rπm","MS",781
+"sitting room","NC23D!","351d!","O","N"," "," ","s±tê±øÓ$rπm","MS",782
+"front room","NC23D!","351d!","O","Y","best room","NEW","fr∏nt$rπm","MS",782
+"parlor","NC23D!","351d!","N","N","best room"," ","p{h}ﬁº{∞}l∞","MS",782
+"parlor","NC24N","N352","N","N"," "," ","pµæ{∞é}l∞","MS",783
+"sitting room","NC24A","352a","O","N"," "," ","s±'tn$ruΩºm","MS",784
+"parlor","NC24B","352b","N","N"," "," ","pﬁº∫{∞é}l∞é","MS",785
+"front room","NC24B","352b","O","N"," "," ","fr∏nt$rπm","MS",785
+"front room","NC25N","N353","O","N"," "," ","fr∏´nt$ruº∫m","MS",786
+"sitting room","NC25N","N353","O","N"," "," ","s±tn$ruº∫m","MS",786
+"rented a room","NC25N","N353","E","Y"," ","INA","r≤´n{tê}±øΩd$∞$ruº∫m","MS",786
+"setting room","NC25A","353","O","N"," "," ","s≤tê±øΩn$ruΩº∫m","MS",787
+"front room","NC25B","354","O","N"," "," ","fr∏´nt$ruº∫m","MS",788
+"setting room","NC25B","354","O","N"," "," ","s≤tn$ruº∫m","MS",788
+"the upper room","NC25B","354","O","N"," "," ","{d}{±ø}${Á}∏´∫p∞$ruº∫m","MS",788
+"rented a room","NC25B","354","E","Y","[uº]:  doubtful","INA/FDT","r≤ntê±øΩd$∞$ruºm","MS",788
+"setting room","NC26A","355a","O","N"," "," ","s≤'tn$ruøº{uº}m","MS",789
+"setting room","NC26B","355b","O","N"," "," ","s≤'tn$ruøΩuøæm","MS",790
+"sitting room","NC26C!","356!","O","N"," "," ","s±tê±øÓ$rπm","MS",791
+"front room","NC26C!","356!","O","N","the best room"," ","fr∏nt$rπm","MS",791
+"parlor","NC26C!","356!","N","Y","the best room","OLD","pﬁóº∫{∞}l∞","MS",791
+"front room","NC27A","357","O","N"," "," ","fr∏nt$ruΩºm","MS",792
+"living room","NC27B","358","O","N"," "," ","l±v±øn$ruº∫m","MS",793
+"parlor","NC27B","358","N","N"," "," ","p{h}ﬁº∫{∞é}l∞é","MS",793
+"fire room","NC28A","361","O","N"," "," ","fµ´{±ø}¥$ruøΩ{uøæ}m","MS",794
+"setting room","NC28A","361","O","N"," "," ","s≤'tn$ruøΩ{uøæ}m","MS",794
+"big house","NC28A","361","O","N"," "," ","Âb±g$haæ∫πΩs","MS",794
+"big house","NC28A","361","O","N"," "," ","Âb±g$haπs","MS",794
+"the house","NC28B","361b","O","N"," ","SIC","d±ø$ha∫πs","MS",795
+"living room","NC28C","362","O","N"," "," ","l±∫v±øΩn$ruΩº{uº}m","MS",796
+"parlor","NC28C","362","N","Y"," ","OLD","pﬁ∫{∞}l∞","MS",796
+"setting room","NC29A","363(*)","O","N"," "," ","s≤tn$rπ´ºm","MS",797
+"waiting room","NC29A","363(*)","O","N"," "," ","we{±ø}tn$rπ´ºm","MS",797
+"parlor","NC29A","363(*)","N","N"," "," ","pµæ∫{∞é}l∞é","MS",797
+"rented a room","NC29A","363(*)","E","Y"," ","INA","r≤ntê±øΩd$∞$Âruø˛Ωæm","MS",797
+"rented a room","NC29A","363(*)","E","Y"," ","AUX/INA","r≤ntê±ød$∞$ruº∫m","MS",797
+"setting room","NC29B","364","O","N"," "," ","s≤'tn$ruøΩuøm","MS",798
+"parlor","NC30A","365","N","N"," "," ","pµ∫l∞","MS",799
+"setting room","NC30A","365","O","N"," "," ","s≤´'tn$rπø{uøΩ}m","MS",799
+"living room","NC30B","366","O","N"," "," ","l±v±øn$rπø›{uøΩ}m","MS",800
+"sitting room","NC30B","366","O","N"," "," ","s±'tn$rπø›{uøΩ}m","MS",800
+"parlor","NC30B","366","N","N","best room"," ","pµæ∫{∞é}l∞","MS",800
+"sitting room","NC31A","367","O","N"," "," ","s±t±øΩn$rπø˛{uø˛Ω}m","MS",801
+"living room","NC31B","368","O","Y"," ","NEW","l±v±øn$rπø´uøΩm","MS",802
+"sitting room","NC31B","368","O","N"," "," ","s±'tn$rπø´uøΩm","MS",802
+"the room","NC32A","369","O","N"," "," ","d∞$ruΩº∫m","MS",803
+"sitting room","NC32A","369","O","N"," "," ","s±tn$ruΩº∫m","MS",803
+"rented a room","NC32A","369","E","Y"," ","INA","r≤´n{tê}±ød$∞$ruΩº∫m","MS",803
+"living room","NC32B!","370!","O","N"," "," ","l±v±øÓ$ruøΩm","MS",804
+"sitting room","NC32B!","370!","O","N"," "," ","s±tê±øÓ$ruøΩm","MS",804
+"great house","NC33A","373","O","N"," "," ","Âgr≤´{∞}t$h·∫πøs","MS",805
+"living room","NC33B","374","O","N"," "," ","l±∫v±øΩn$ruøΩ{uø}m","MS",806
+"sitting room","NC33B","374","O","N"," "," ","s±Án$ruøΩ{uø}m","MS",806
+"parlor","NC33B","374","N","Y","best room","OLD","pµóæ{∞é}l∞","MS",806
+"parlor","NC34A","375","N","N"," "," ","pµ´æ¥l¥","MS",807
+"front room","NC34A","375","O","N"," "," ","fr∏´nt$rπø´{uø}m","MS",807
+"parlor","NC34A","375","N","N"," "," ","p∂´¥l¥","MS",807
+"living room","NC34B","376","O","N"," "," ","l±v±øΩn$rπø´uøæm","MS",808
+"sitting room","NC34B","376","O","N"," "," ","s±Án$rπø´ºuøm","MS",808
+"parlor","NC34B","376","N","Y","best room","OLD","p{h}ﬁóº∫{∞}l∞","MS",808
+"front room","NC34B","376","O","N","for company; also used as bedroom"," ","fr∏ó´{∞}nt$rπø´{uø}m","MS",808
+"sitting room","NC35A","377","O","N"," "," ","s±t±øÓ$rπ´m","MS",809
+"big house","NC35A","377","O","Y","= the house (kitchen not attached)","SUG/OLD/INA","b±g$h•´πs","MS",809
+"hired a room","NC35A","377","E","Y"," ","INA","hµº∫{∞é}d$∞$ruº∫m","MS",809
+"rented a room","NC35A","377","E","Y"," ","INA","r≤n{tê}±øΩd$∞$ruº∫m","MS",809
+"living room","NC35B","378","O","N"," "," ","l±∫v±øΩn$ruøΩ{uøæ}m","MS",810
+"parlor","NC35B","378","N","N"," "," ","pµæ∫{∞é}l∞é","MS",810
+"setting room","NC36N","N381","O","N"," "," ","s≤tên$rπ´æm","MS",811
+"big house","NC36A","381","O","N","natural"," ","Âb±´g$ha∫πs","MS",812
+"front room","NC36B","382","O","N"," "," ","fr∏nt$ruøΩæ{uº}m","MS",813
+"sitting room","NC36B","382","O","N"," "," ","s±'tn$ruøΩæ{uº}m","MS",813
+"parlor","NC37A","383","N","N","best"," ","pµæ∫{∞}l∞","MS",814
+"sitting room","NC37A","383","O","N"," "," ","s±tê±øΩn$rπø´uøm","MS",814
+"sitting room","NC37B","384","O","N"," "," ","s±'tn$rπø›{uøΩ}m","MS",815
+"setting room","NC38N","N385","O","N"," "," ","s≤tên$rπm","MS",816
+"sitting room","NC38A","385","O","N"," "," ","s±Áütn$rπø´uøæm","MS",817
+"parlor room","NC38A","385","O","N"," "," ","pµ∫l∞$rπø´uøæm","MS",817
+"great house","NC38A","385","O","Y","the house part [exclusive of kitchen & shed]","INA","Âgr≤{∞}t$Àa´æ∫πs","MS",817
+"living room","NC38B","386","O","N"," "," ","l±v±øÓ$ruøΩ{uø}m","MS",818
+"sitting room","NC38B","386","O","N"," "," ","s±tê±øÓ$ruøΩ{uø}m","MS",818
+"parlor","NC38B","386","N","Y","for a best room","OLD","pµ∫{∞é}l∞","MS",818
+"parlor room","NC39A","389","O","N"," "," ","pµ∫l∞$ruøΩ{uø}m","MS",819
+"setting room","NC39A","389","O","N"," "," ","s≤'tn$ruøΩ{uø}m","MS",819
+"living room","NC39B!","390!","O","Y"," ","NEW","l±v±øn$rπm","MS",820
+"sitting room","NC39B!","390!","O","N","another room [i.e not best room]"," ","s±tê±øΩn$rπm","MS",820
+"parlor","NC39B!","390!","N","N","best room"," ","pµ∫l∞","MS",820
+"setting room","NC40A","391","O","N"," "," ","s≤tn$ruΩº∫m","MS",821
+"big house","NC40A","391","O","Y"," ","OLD/HRD","Âb±g$h·Ωπs","MS",821
+"great house","NC40A","391","O","Y"," ","SUG/HRD/OLD","Âgre∫t$h·Ωπs","MS",821
+"great house","NC40A","391","O","Y"," ","SUG/HRD/OLD","Âgr≤´{∞}t$h·Ωπs","MS",821
+"hired me a room","NC40A","391","E","Y"," ","INA","haæ∫{≤æ}∞d$miΩæ$∞$ruΩº∫m","MS",821
+"parlor","NC40B","392","N","N"," "," ","pﬁóº∫{∞é}l∞","MS",822
+"sitting room","NC40B","392","O","N"," "," ","s±'tn$rπø´{uøº}m","MS",822
+"parlor","NC41!","393!","N","N","a best room"," ","pﬁ∂Ï∞","MS",823
+"sitting room","NC41!","393!","O","N","used more [than parlor]"," ","s±tê±øÓ$rπm","MS",823
+"sitting room","NC42A","403","O","N"," "," ","s±'tn$ruø{uøæ}m","MS",824
+"parlor","NC42B","404(*)","N","N"," "," ","pµ∫{∞é}l∞","MS",825
+"front room","NC42B","404(*)","O","N"," "," ","fr∏nt$ruøΩ{uøæ}m","MS",825
+"living room","NC42B","404(*)","O","Y"," ","NEW","l±∫v±øΩn$ruøΩ{uøæ}m","MS",825
+"big house","NC42B","404(*)","O","Y","oldest","OLD","Âb±g$ha´æπ´s","MS",825
+"living room","NC43A","397","O","Y"," ","NEW","l±v±øΩn$ruøΩ{uøæ}m","MS",826
+"house","NC43A","397","N","Y"," ","OLD","ha´æπ´s","MS",826
+"big house","NC43A","397","O","Y"," ","OLD","b±g$haΩºπ´s","MS",826
+"sitting room","NC43B","398","O","N"," "," ","s±tê±øÓ$ruΩº{uº}m","MS",827
+"setting room","NC44","410(*)","O","N"," "," ","s≤'tn$ruøΩæ{uº}m","MS",828
+"front room","NC45A","409(*)","O","N"," "," ","fr∏nt$ruøΩæ{uº}m","MS",829
+"setting room","NC45B"," ","O","N"," "," ","s≤'tn$ruø{uøæ}m","MS",830
+"big house","NC45B"," ","O","Y"," ","OLD","Âb±´iΩg$h·æπ´s","MS",830
+"big house","NC46A","411","O","N"," "," ","Âb±g$ha´æπs","MS",831
+"sitting room","NC46B","412","O","N"," "," ","s±tê±øÓ$ruøΩæ{uº}m","MS",832
+"living room","NC46C!","412b!","O","N"," "," ","l±v±øÓ$ruΩº{u}m","MS",833
+"parlor","NC47","413","N","N"," "," ","pµ´¥l¥","MS",834
+"setting room","NC47","413","O","N"," "," ","s≤Án$ruøΩ∫m","MS",834
+"rented a room","NC47","413","E","Y"," ","INA","r≤{n}{tê}±ød$∞$ruΩ∫m","MS",834
+"sitting room","NC48","418","O","N"," "," ","s±tê±øÓ$ruø{uøæ}m","MS",835
+"fire room","NC49","421","O","N"," "," ","fµæ¥$ruøΩæuºm","MS",836
+"sitting room","NC50A","422","O","N"," "," ","s±tê±øÓ$ruøΩæuºm","MS",837
+"living room","NC50B!","423!","O","N"," "," ","l±v±øΩn$ruøΩ{uø}m","MS",838
+"sitting room","NC50B!","423!","O","N"," "," ","s±tê±øΩn$ruøΩ{uø}m","MS",838
+"setting room","NC51A","427","O","N"," "," ","s≤tê±øΩn$rπ´{uº}m","MS",839
+"big house","NC51A","427","O","N"," "," ","Âb±g$ha∫πΩs","MS",839
+"sitting room","NC51B","428","O","N"," "," ","s±tê±øÓ$rπ´{uº}m","MS",840
+"living room","NC52N","N429","O","Y"," ","NEW","l±v±øΩn$ruºm","MS",841
+"parlor","NC52N","N429","N","Y"," ","OLD","p{h}ﬁ:l∞","MS",841
+"quarter","NC52N","N429","N","N","for colored"," ","kw∑∫{∞}Ò∞","MS",841
+"big house","NC52N","N429","O","Y","white people","OLD","Âb±g$ha∫πΩs","MS",841
+"setting room","NC52A","429","O","N"," "," ","s≤'tn$ruøΩ{uøæ}m","MS",842
+"living room","NC52B","430","O","Y"," ","NEW","l±v±øΩn$ruøΩ{uøæ}m","MS",843
+"sitting room","NC52B","430","O","N"," "," ","s±'tn$ruøΩ{uøæ}m","MS",843
+"parlor","NC52B","430","N","N","best"," ","pﬁ∫{∞}l∞","MS",843
+"setting room","NC53A","431","O","N"," "," ","s≤'tn$rπø´uøΩæm","MS",844
+"living room","NC53B","432","O","N"," "," ","l±v±øΩn$ruøuøæm","MS",845
+"front room","NC53B","432","O","Y"," ","OLD","fr∏nt$ruøuøæm","MS",845
+"parlor","NC53B","432","N","Y","best room","OLD","pﬁº∞él∞é","MS",845
+"setting room","NC54A","433","O","N"," "," ","s≤tê±øÓ$ruøΩ{uøæ}m","MS",846
+"rented a room","NC54A","433","E","Y"," ","INA","r≤n{tê}±øΩd$∞$ruΩº∫m","MS",846
+"front room","NC54B","434","O","N"," "," ","fr∏´{∞}nt$rπø´æ{uøæ}m","MS",847
+"the room","NC55","435","O","N"," "," ","d∞´$ruøΩæuºm","MS",848
+"big house","NC55","435","O","N"," "," ","b±g$ha´πΩs","MS",848
+"living room","NC56A","436","O","N"," "," ","l±v∞´n$ruøΩæuºm","MS",849
+"sitting room","NC56A","436","O","N"," "," ","s±tê∞´n$ruø´æuºm","MS",849
+"living room","NC56B!","437!","O","N"," "," ","l±v±øÓ$rπ´{∞}m","MS",850
+"parlor","NC56B!","437!","N","Y","formerly a best room","OLD","pﬁºﬁ{∞}l∞","MS",850
+"front room","NC57A","438a","O","N"," "," ","fr∏´nt$rπ´{∞}m","MS",851
+"big house","NC57A","438a","O","N"," "," ","Âb±´g$h•ºπ´s","MS",851
+"living room","NC57B","438b","O","N"," "," ","l±v±øΩn$ruøΩæ{uø}m","MS",852
+"front room","NC57B","438b","O","N"," "," ","fr∏´nt$ruøΩæ{uø}m","MS",852
+"setting room","NC58A","439","O","Y"," ","NEW","s≤'tn$ruø{uøæ}m","MS",853
+"front room","NC58A","439","O","N"," "," ","fr∏´{∞}nt$ruø{uøæ}m","MS",853
+"front room","NC58B","440","O","N"," "," ","fr∏˛´nt$ruøΩæ{uº}m","MS",854
+"living room","NC59","441(*)","O","Y"," ","NEW","l±v±øΩn$ruøæ∫m","MS",855
+"setting room","NC59","441(*)","O","N"," "," ","s≤'tn$ruøæ∫m","MS",855
+"parlor","NC59","441(*)","N","N","best room"," ","p∂´º¥l¥","MS",855
+"rented a room","NC59","441(*)","E","Y"," ","INA","r≤´n{tê}±øΩd$∞$ruøΩ{uøæ}m","MS",855
+"living room","NC60","442","O","N"," "," ","l±v±øΩn$ruø{uøæ}m","MS",856
+"parlor","NC60","442","N","Y"," ","OLD","pµ´∞él∞é","MS",856
+"big house","NC61A","443","O","N"," "," ","b±g$ha´æπs","MS",857
+"living room","NC61B","444","O","N"," "," ","l±∫v±øΩn$ruøΩæ{uø}m","MS",858
+"sitting room","NC61B","444","O","N"," "," ","s±t±øÓ$ruøΩæ{uø}m","MS",858
+"sitting room","NC62A","447","O","N"," "," ","s±Án$ruΩº{uº}m","MS",859
+"front room","NC62B","448","O","N"," "," ","fr∏{∞}nt$ruΩº{uº}m","MS",860
+"big house","NC62B","448","O","Y"," ","OLD","Âb±g$h·∫πøΩs","MS",860
+"big house","NC63A","449","O","N"," "," ","b±´g$ha∫πs","MS",861
+"setting room","NC63A","449","O","N"," "," ","s≤tê±øÓ$ruøΩæuºm","MS",861
+"living room","NC63B","450","O","N"," "," ","l±v±øn$ruø{uøæ}m","MS",862
+"sitting room","NC63B","450","O","N"," "," ","s±tê±øÓ$ruø{uøæ}m","MS",862
+"fire room","NC64A","453","O","N"," "," ","fµ∫¥$ruøuøæm","MS",863
+"big house","NC64A","453","O","N"," "," ","b±g$ha∫{πøΩ}s","MS",863
+"sitting room","NC64B","454","O","N"," "," ","s±tê±øÓ$ruΩºuºm","MS",864
+"sitting room","NC65A","461","O","N"," "," ","s±'tn$ruøΩ{uø}m","MS",865
+"big house","NC65A","461","O","Y"," ","OLD","Âb±{∞}g$h·Ω∫πøs","MS",865
+"front room","NC65B","462","O","N"," "," ","fr∏´{∞}nt$ruøΩæ∫m","MS",866
+"sitting room","NC65B","462","O","N"," "," ","s±Án$ruøΩæ∫m","MS",866
+"parlor","NC65B","462","N","N","a better room [than sitting/front room],","RN1","p∂º¥l¥","MS",866
+" ","NC65B","462"," "," ","rarely had","RN2"," ","MS",866
+"rented a room","NC65B","462","E","Y"," ","INA","r≤ntê±ød$∞$ruøΩæ{uº}m","MS",866
+"setting room","NC66A","465","O","N"," "," ","s≤'tn$ruøΩæuºm","MS",867
+"big house","NC66A","465","O","Y"," ","OLD","Âb±g${À}·Ω∫πΩs","MS",867
+"living room","NC66B","466","O","N"," "," ","l±v±øΩn$ruøΩuøæm","MS",868
+"parlor","NC66B","466","N","Y"," ","OLD","pﬁº∞él∞é","MS",868
+"fire room","NC67A","469","O","N"," "," ","fµ´æ¥$rπø´uøæm","MS",869
+"the room","NC67B","470","O","Y","main part of the house (not the kitchen)","INA","‰∞$ruøΩæ∫m","MS",870
+"setting room","NC67B","470","O","N"," "," ","s≤'tn$ruøΩæ∫m","MS",870
+"parlor room","NC67B","470","O","N","better room [than setting room]"," ","pµæ¥l¥$ruøΩæ∫m","MS",870
+"rented a room","NC67B","470","E","Y"," ","INA","r≤n{tê}±øΩd$∞$ruøΩæ∫m","MS",870
+"living room","NC68A","473","O","N"," "," ","l±∫v±øΩæn$ruøΩ{uø}m","MS",871
+"big house","NC68A","473","O","Y"," ","OLD","Âb±{∞æ}g$h·Ω∫πøΩs","MS",871
+"living room","NC68B","474","O","N"," "," ","l±v±øΩn$ruøΩuøæm","MS",872
+"parlor","NC68B","474","N","Y"," ","OLD","pµ´¥l¥","MS",872
+"big house","NC69A","477","O","N"," "," ","Âb±g$haæ∫πs","MS",873
+"setting room","NC69A","477","O","N"," "," ","s≤'tn$ruø{uøæ}m","MS",873
+"front room","NC69B","478","O","N"," "," ","fr∏´∫{∞}nt$ruøΩ{uøæ}m","MS",874
+"sitting room","NC69B","478","O","N"," "," ","s±Áütn$ruøΩ{uøæ}m","MS",874
+"rented a room","NC69B","478","E","Y"," ","INA","r≤´n{tê}±ød$∞$ruøΩ∫{uø}m","MS",874
+"front room","NC70A","479","O","N"," "," ","fr∏´∫{∞}nt$ruøΩæ{uº}m","MS",875
+"setting room","NC70B","480","O","N"," "," ","s≤tê±øÓ$ruøΩº{uø}m","MS",876
+"living room","NC71A","481","O","Y"," ","NEW","l±v±øΩn$ruøΩuøm","MS",877
+"big house","NC71A","481","O","Y"," ","OLD","Âb±g$h·∫πøΩs","MS",877
+"living room","NC71B","482","O","N"," "," ","l±v±øÓ$ruø{uøæ}m","MS",878
+"setting room","NC71B","482","O","N"," "," ","s≤tê±øÓ$ruø{uøæ}m","MS",878
+"parlor","NC71C!","483!","N","N","a little used room"," ","pµ´æ∞él¥","MS",879
+"living room","NC71C!","483!","O","N"," "," ","l±v±øÓ$ruø{uøæ}m","MS",879
+"sitting room","NC71C!","483!","O","Y"," ","OLD","s±tê±øÓ$ruø{uøæ}m","MS",879
+"big room","NC72A","487","O","N"," "," ","b±g$ruøΩæ{uøæ}m","MS",880
+"setting room","NC72A","487","O","N"," "," ","s≤'tn$ruøΩæ{uøæ}m","MS",880
+"living room","NC72B","488","O","N"," "," ","l±v±øn$ruøΩ{uøæ}m","MS",881
+"setting room","NC72B","488","O","N"," "," ","s≤'tn$ruøΩ{uøæ}m","MS",881
+"setting room","NC73A","491","O","N"," "," ","s≤tê±øΩn$ruøΩæ{uøæ}m","MS",882
+"front room","NC73A","491","O","N"," "," ","fr∏´nt$ruøΩæ{uøº}m","MS",882
+"parlor","NC73B","492","N","N"," "," ","pµé´¥l¥","MS",883
+"setting room","NC73B","492","O","N"," "," ","s≤Án$ruøΩæ∫m","MS",883
+"rented a room","NC73B","492","E","Y"," ","INA","r≤n{tê}±ød$∞$ruøΩæ∫m","MS",883
+"big house","NC74A","493","O","N"," "," ","b±g$h·Ω∫πøs","MS",884
+"living room","NC74B","494","O","Y"," ","NEW","l±v±øÓ$ruøΩæ{uº}m","MS",885
+"sitting room","NC74B","494","O","N"," "," ","s±t±øÓ$ruøΩæ{uº}m","MS",885
+"parlor","NC74B","494","N","Y","best room","OLD","pµ´æ¥l∞éæ","MS",885
+"big house","NC74B","494","O","Y","uneducated","OLD","Âb±g$h·∫πøs","MS",885
+"front room","NC75A","495","O","N"," "," ","fr∏{∞}nt$ruøΩ{uøæ}m","MS",886
+"living room","NC75B","496","O","N"," "," ","l±v±øΩn$ruøΩæ{uº}m","MS",887
+"sitting room","NC75B","496","O","N"," "," ","s±tê±øÓ$ruøΩæ{uº}m","MS",887
+"parlor","NC75B","496","N","N","best room"," ","pµ´¥él¥","MS",887
+"living room","SC1A","203.1","O","N"," "," ","l±v±øn$ruøΩ{uøæ}m","MS",888
+"setting room","SC1A","203.1","O","N"," "," ","s≤'tn$ruøΩ{uøæ}m","MS",888
+"parlor","SC1B","203.2","N","N"," "," ","pﬁº∞él∞","MS",889
+"sitting room","SC1B","203.2","O","N"," "," ","s±tê±øΩn$ruΩºum","MS",889
+"parlor","SC2A","204.1(*)","N","N"," "," ","pµæ∫{∞é}l∞é","MS",890
+"setting room","SC2A","204.1(*)","O","N"," "," ","s≤tên$ruøΩuøæm","MS",890
+"big house","SC2A","204.1(*)","O","N"," "," ","Âb±g$ıh·∫πøΩs","MS",890
+"living room","SC2B","204.2","O","N"," "," ","l±v±øΩn$ruøΩ{uøæ}m","MS",891
+"setting room","SC2B","204.2","O","N"," "," ","s≤tên$ruøΩ{uøæ}m","MS",891
+"front room","SC2C"," ","O","N"," "," ","fr∏ó´nt$ruº∫m","MS",892
+"setting room","SC3A","205.1","O","N"," "," ","s≤tn$ruΩº∫m","MS",893
+"the big house","SC3A","205.1","O","Y","= the main house (kitchen not joined)","INA","d∞$b±g$ha´æ∫πs","MS",893
+"rented me","SC3A","205.1","E","Y"," ","INA","r≤nt±øΩd$mi","MS",893
+"parlor","SC3B","205.2","N","N"," "," ","p`ﬁóæ∫¥l∞´","MS",894
+"living rooms","SC3B","205.2","O","Y"," ","NEW","l±Ω{∞}v±øºn$ÚπΩº∫{∞}mz","MS",894
+"parlor","SC3B","205.2","N","N"," "," ","p`ﬁº∫¥æl¥´æ","MS",894
+"living room","SC3C!","205.3!","O","N"," "," ","Âl±´{∞}v±ºn$ıÚπø´∫{∞}m","MS",895
+"parlor","SC3C!","205.3!","N","N"," "," ","p`µæ∫{∞}l∞æ","MS",895
+"buckra setting hall","SC3C!","205.3!","O","Y"," ","OLD","ıb¶Ω{∞}k∞$Âs≤´{∞}'tn$ıh∑:©","MS",895
+"living room","SC4A","206.1","O","N"," "," ","Âl±´{±ø}v±øºn$ırπø´∫{πø}m","MS",896
+"parlor","SC4B","206.2","N","N"," "," ","Âp`µ∫∞l∞","MS",897
+"living room","SC4B","206.2","O","Y"," ","NEW","Âl±´v±øºn$ırπø´∫{πø}m","MS",897
+"front room","SC4B","206.2","O","N"," ","CNV","ÂfÚè∏´{∞}nt$ıÚuøº∫{πø}m","MS",897
+"living room","SC4B","206.2","O","Y"," ","NEW/CNV","Âl±´{±ø}v±øºn$ıÚuø∫{∞}m","MS",897
+"sitting room","SC4C","206.3","O","N"," "," ","Âs±æ'tn$ıruø˛∫{u˛}m","MS",898
+"parlor","SC4C","206.3","N","N","only opened on state occasions"," ","Âp`µæ∫{∞é}l∞","MS",898
+"living room","SC4C","206.3","O","N"," ","CNV","Âl±´{±ø}v±øΩn$ırπø´æ∫m","MS",898
+"sitting room","SC5A","207.1","O","N"," "," ","Âs±´tn$ıruø∫m","MS",899
+"living room","SC5A","207.1","O","Y"," ","AUX/CNV","Âl±´v±øºn$ıruø∫m","MS",899
+"parlor","SC5A","207.1","N","Y"," ","AUX/CNV","Âp`µæ∫¥l¥","MS",899
+"dining room","SC5A","207.1","O","Y"," ","INA","Âdµ∫{∞}n±øºn$ıruø∫m","MS",899
+"hall","SC5B","207.2","N","N","as a boy 30' X 20'"," ","Âh∑º∫{∞}Ï","MS",900
+"sitting room","SC5B","207.2","O","N"," "," ","Âs±´{∞}Ò±øºÓ$ırπøΩ∫{∞}m","MS",900
+"hall","SC5C","207.2A","N","N","""we called it¢","CNV","Âh∑º∫{∞}Ï","MS",901
+"parlor","SC5D!","207.3!","N","N"," "," ","p`µ∫∞l∞","MS",902
+"entrance hall","SC5D!","207.3!","O","Y"," ","INA","Â≤Ω{∞}ntéÚènñts$ıh∑º∫{∞}Ï","MS",902
+"sitting room","SC5D!","207.3!","O","N"," "," ","Âs±´tê±øºÓ$ırπø∫{∞}m","MS",902
+"setting room","SC6N","N208","O","N"," "," ","Âs≤´'tn$ıruøm","MS",903
+"living room","SC6N","N208","O","Y"," ","NEW","Âl±´{∞}v±æn$ıruø˛∫u˛´{m}","MS",903
+"parlor","SC6A","208.1","N","N"," "," ","p∂∫{∞}l∞","MS",904
+"sitting room","SC6A","208.1","O","N"," "," ","s±t±Ó$ruºm","MS",904
+"setting room","SC6A","208.1","O","N"," "," ","s≤t±Ó$ruºm","MS",904
+"rented a room","SC6A","208.1","E","Y"," ","INA","r≤ntê±ød$∞$ruºm","MS",904
+"hall","SC6B","208.2(*)","N","N"," "," ","Âh∑´∫{∞}l","MS",905
+"front room","SC6B","208.2(*)","O","N"," "," ","Âfrè∏Ωnt$ırπ´º{∞}m","MS",905
+"sitting room","SC6B","208.2(*)","O","N","called it then"," ","Âs±´'tn$ırπ´º{∞}m","MS",905
+"visiting room","SC6B","208.2(*)","O","N"," "," ","Âv±´z±øº'tn$ırπºm","MS",905
+"company room","SC6B","208.2(*)","O","N"," "," ","k•˛{∞˛}mp∞n±øΩº$rπºm","MS",905
+"living rooms","SC6C!","208.3!","O","N"," "," ","Âl±´v±øºn$ıruø∫mz","MS",906
+"parlor","SC6C!","208.3!","N","N","older [than living room]"," ","pµæ∫∞l∞","MS",906
+"living room","SC6C!","208.3!","O","N"," "," ","Âl±´v±øºn$ırπ∫{∞}m","MS",906
+"parlor","SC6C!","208.3!","N","N","older [than living room]"," ","Âpµ∫∞l∞æ","MS",906
+"living room","SC6D"," ","O","N"," "," ","Âl±´{∞}v±øºn$ıruø∫{u}m","MS",907
+"setting room","SC6D"," ","O","N"," "," ","Âs≤´{∞}tê±æÓ$ıruø∫{w}m","MS",907
+"parlor","SC6D"," ","N","N"," "," ","p`µæ∫{∞}l∞Ω","MS",907
+"setting room","SC7N","N209","O","N"," "," ","Âs≤∫'tn$ırπøæ∫{∞}m","MS",908
+"parsonage","SC7N","N209","N","Y"," ","INA/SIC","Âp`a∫{∞}snñ±øºd˙","MS",908
+"parlor","SC7A","209.1","N","N"," "," ","p`µæ∫{∞}l∞´","MS",909
+"setting room","SC7A","209.1","O","N"," "," ","Âs≤´'tn$ıruø∫{w}m","MS",909
+"living room","SC7B","209.2","O","N"," "," ","Âl±´v±øºÓ$ırπø´∫{∞}m","MS",910
+"parlor","SC7B","209.2","N","N"," "," ","Âp`µ∫{∞}l∞æ","MS",910
+"drawing room","SC7B","209.2","O","N"," "," ","ÂdéÚ∑º∫±øºÓ$ırπøæ{∞}m","MS",910
+"sitting room","SC7B","209.2","O","N"," "," ","Âs±´tê±øΩÓ$ırπøæ{∞}m","MS",910
+"sitting room","SC7C!","209.3!","O","N"," "," ","Âs±´tê±øºÓ$ırπøº∫{∞}m","MS",911
+"parlor","SC7C!","209.3!","N","N"," "," ","Âp`µæ∫{∞}l∞æ","MS",911
+"sitting room","SC7D!","209.4!","O","N"," ","SIC","Âs±´tê±æÓ$ıruø∫{w}n","MS",912
+"living room","SC7D!","209.4!","O","N"," "," ","Âl±´∞v±æÓ$ıruø∫{∞}m","MS",912
+"parlors","SC7D!","209.4!","N","N","formal"," ","Âp`µæ∫∞l∞´æz","MS",912
+"drawing room","SC7D!","209.4!","O","Y","most formal","HRD","dÚ∑´º∫±´æÓ$ruø∫{w}m","MS",912
+"drawing room","SC7D!","209.4!","O","Y","most formal","HRD","dÚ∑´º∫±´æÓ$ruøΩ∫{∞}m","MS",912
+"sitting room","SC8A","210.1","O","N"," "," ","Âs±´æ'tn$ıÚuøΩæ∫{∞}m","MS",913
+"hall","SC8A","210.1","N","Y"," ","NEW/CNV","Âh∂´∫{∞}Ï","MS",913
+"living room","SC8B","210.2","O","N"," "," ","Âl±´{∞}v±øºn$ıÚuø∫m","MS",914
+"parlor","SC8B","210.2","N","N"," "," ","pµ∫∞l∞","MS",914
+"sitting room","SC8B","210.2","O","N"," "," ","Âs±ø'tn$ıÚuø∫m","MS",914
+"hall","SC8B","210.2","N","Y"," ","SUG","Âh∑´º∫{∞}l","MS",914
+"hall","SC8C","210.3","N","N"," "," ","Âh∑Ω∫{∞}Ï","MS",915
+"front room","SC8C","210.3","O","Y"," ","NEW","ÂfÚè∏´{∞}nt$ıruø∫m","MS",915
+"in the hollow of the house","SC8C","210.3","Q","Y"," ","INA","±øºn$dë±ø´º$Âhﬁl∞$∞$dë±ø´º$Âh•ºπs","MS",915
+"hall","SC9A","211.1","N","N","""father's¢ (old place)"," ","Âh∑´{∞}Ï","MS",916
+"middle hall","SC9A","211.1","O","N","still call it"," ","Âm±´{∞}dÏ$ıh∑Ωº∫{∞}Ï","MS",916
+"father's","SC9A","211.1","N","Y"," ","INA","Âfµæ∫{∞}‰∞´{z}","MS",916
+"the hall","SC9B","211.2","O","N"," "," ","d±ø´º$Âh∑´∫{∞}Ï","MS",917
+"living room","SC9B","211.2","O","Y","""I ain't going to say ""living room'¢","NEW","Âl±´{∞}v±øºn$ıÚuø∫m","MS",917
+"I ain't going to say `living room'","SC9B","211.2","S","Y"," ","INA","∞$Âe˛´∫{Ó}$ıgwµæ∫±øn$t∞$Âse´∫$Âl±´{∞}v±øºn$ıÚuø∫m","MS",917
+"the hall","SC9B","211.2","O","N"," ","CNV","dë±ø$Âh∑Ωº∫{∞}Ï","MS",917
+"living room","SC9C!","211.3!","O","N"," "," ","Âl±´{∞}v±øºÓ$ıÚuø∫m","MS",918
+"parlor","SC9C!","211.3!","N","Y","""old time¢","OLD","p`µ∫{∞}l∞","MS",918
+"the hall","SC9D!","211.4!","O","N","""the big room¢"," ","dë±ø´º$Âh∑´∫{∞}Ï","MS",919
+"the big room","SC9D!","211.4!","O","Y","old plantation name","OLD","dë±ø´º$Âb±´{∞}g$ıÚuø∫m","MS",919
+"parlor","SC9D!","211.4!","N","Y","""don't hear now¢","OLD","pµæ∫l∞é´º","MS",919
+"living room","SC9D!","211.4!","O","Y"," ","NEW","l±´{∞}v±øºn$Úuø∫m","MS",919
+"living room","SC10A","212.1","O","N"," "," ","Âl±æv±ø›ºn$ıruø´∫m","MS",920
+"parlor","SC10A","212.1","N","N"," "," ","p`ﬁ∫{∞}l∞æ","MS",920
+"living room","SC10B!","212.2!","O","N"," "," ","Âl±´v±øÓ$ırπº{∞}m","MS",921
+"the hall","SC10B!","212.2!","O","Y","Negroes always called the living room)","HRD","dë±ø$Âh∑´∫∞›l","MS",921
+"parlor","SC10B!","212.2!","N","N"," "," ","Âpµ∫∞l∞º","MS",921
+"living room","SC10C!","212.3!","O","N"," "," ","Âl±´v±øºn$ıruøæ∫m","MS",922
+"parlor","SC10C!","212.3!","N","N"," "," ","pµ∫∞l∞","MS",922
+"living room","SC10C!","212.3!","O","N"," "," ","Âl±øv±øºÓ$ıruøæ∫m","MS",922
+"sitting room","SC11N","N213","O","N","most used"," ","s±tn$rπ´m","MS",923
+"parlor","SC11N","N213","N","N","best room"," ","pµ∫{∞}l∞","MS",923
+"rent a room","SC11N","N213","E","Y"," ","INA","ır≤ntê$∞$Ârπ´m","MS",923
+"parlor","SC11M!","2n213!","N","N","less used [than living room]"," ","p`ﬁé∫{∞é}l∞é","MS",924
+"living room","SC11M!","2n213!","O","N"," "," ","Âl±´æv±æÓ$ıruøΩ∫{∞}m","MS",924
+"dining room","SC11M!","2n213!","O","Y"," ","INA","Âda´æ±øn±æÓ$ıruø∫{uø´}m","MS",924
+"front room","SC11M!","2n213!","N","N","less used [than living room]"," ","ÂfÚá∏´ºnt$ıruøæ∫{∞}m","MS",924
+"parlor","SC11M!","2n213!","N","N","less used [than living room]"," ","p`ﬁº{∞}l∞æ","MS",924
+"living room","SC11M!","2n213!","O","N"," "," ","Âl±æv±æÓ$ıru∫{∞}m","MS",924
+"front room","SC11A","213.1(*)","O","N","for company"," ","Âfrè∏nt$ırπºm","MS",925
+"parlor","SC11A","213.1(*)","N","N","for company"," ","p`ﬁ∫{∞}l∞´","MS",925
+"dining room","SC11A","213.1(*)","O","Y","for family","INA","Âdaæ∫±øn±æÓ$ırπø´æm","MS",925
+"setting room","SC11A","213.1(*)","O","Y"," ","AUX","s≤{∞}tê±ø´Ó$rπ´m","MS",925
+"parlor","SC11A","213.1(*)","N","Y","better type [than setting room]","AUX","p{h}µ∫{∞}lç∞","MS",925
+"I rented me a room","SC11A","213.1(*)","S","Y"," ","INA","a±ø$r≤ntê±ød$miΩæ$∞$rπ´m","MS",925
+"living room","SC11B","213.11","O","N"," "," ","l±v±øÓ$ruøºm","MS",926
+"front room","SC11C","213.2","O","N"," "," ","ÂfÚ∏Ωnt$ıÚuøæ∫m","MS",927
+"living room","SC11C","213.2","O","N"," "," ","Âl±øºv±ø›n$ıruø∫{m}","MS",927
+"parlor","SC11C","213.2","N","N","""used to be till got to using it so much¢"," ","p`∂l∞æ","MS",927
+"lounge room","SC11D","213.3","O","N"," "," ","Âlµ´∫πnd˙$ıryæ∫uø´m","MS",928
+"parlor","SC11D","213.3","N","N"," "," ","Âp`ﬁº∫∞l∞´","MS",928
+"reception room","SC11D","213.3","O","N"," "," ","r±øΩÂs≤pÛ∞´n$ıruøº∫uø´m","MS",928
+"sitting room","SC11D","213.3","O","N"," "," ","Âs±´æÒ±æÓ$ıryæ∫uø´m","MS",928
+"solarium","SC11D","213.3","N","N"," "," ","so´ºÂle´∫¥±ø´º∞´m","MS",928
+"sun parlor","SC11D","213.3","O","N"," "," ","Âs∏´n$ıp`ﬁº∫∞l∞´æ","MS",928
+"front room","SC11E","213.4","O","N"," "," ","ÂfÚè∏ºnté$ıÚèπø´m","MS",929
+"living room","SC11E","213.4","O","N","not sure of difference, if any,","RN1","Âl±øºv±ø›n$ıruø∫{uø´}m","MS",929
+" ","SC11E","213.4"," "," ","between living room and parlor","RN2"," ","MS",929
+"parlor","SC11E","213.4","N","N","not sure of difference, if any,","RN1","Âp`ﬁ{∞é}l∞´æ","MS",929
+"sitting room","SC11E","213.4","O","N"," "," ","Âs±æ'tn$ıruø∫{w}{m}","MS",929
+"front room","SC11E","213.4","O","N"," "," ","ÂfÚè∏ºnté$ıÚèπø∫m","MS",929
+"front room","SC11E","213.4","O","N"," ","CNV","ÂfÚè∏´ºnt$ıÚuø∫{πø}m","MS",929
+" ","SC11E","213.4"," "," ","between living room and parlor","RN2"," ","MS",929
+"entry","SC11E","213.4","N","Y"," ","INA","Â≤´ntéÚè±ø´º","MS",929
+"front room","SC11F","213.5","O","N"," "," ","ÂfÚè∏ºnt$ıruø∫uø´{m}","MS",930
+"living room","SC11F","213.5","O","N"," "," ","Âl±øºv±æÓ$ıÚuø∫uø´{m}","MS",930
+"parlor","SC11F","213.5","N","Y","""in my childhood¢","OLD","p`ﬁ∫{∞}l∞Ω","MS",930
+"sitting room","SC11F","213.5","O","N"," "," ","Âs±øºtê±æÓ$ıÚuø∫uø´m","MS",930
+"living room","SC11G!","213.7!","O","N","= ""other room¢"," ","Âl±æv±›æÓ$ıruø∫uø´m","MS",931
+"sitting room","SC11G!","213.7!","O","N"," "," ","Âs±øºtê±ø›ºÓ$ıruø∫uø´m","MS",931
+"parlor","SC11G!","213.7!","N","N","rarely used, ""special occ.¢; = ""front room¢"," ","p`ﬁº{∞}l∞","MS",931
+"front room","SC11G!","213.7!","O","N","rarely used; ""special occ.¢; = ""parlor¢"," ","fÚè∏´ºnt$ıruøº∫uø´m","MS",931
+"special occasions","SC11G!","213.7!","O","Y"," ","INA","Âsp≤Ûl$∞Âk`e´∫˙nz{zè}","MS",931
+"other room","SC11G!","213.7!","O","Y"," ","INA","Â∏º‰∞$ıruøº∫uø´m","MS",931
+"living room","SC11H!","213.8!","O","N"," "," ","Âl±æv±øºÓ$ıruøº∫m","MS",932
+"sitting room","SC11H!","213.8!","O","N"," "," ","Âs±ætê±øºÓ$ıruø∫m","MS",932
+"parlor","SC11H!","213.8!","N","N","""special company¢"," ","p`ﬁ∫{∞}l∞´æ","MS",932
+"front room","SC11H!","213.8!","O","Y"," ","SUG/HRD","fÚè∏ºnt$rπø›m","MS",932
+"sitting room","SC11H!","213.8!","O","N"," "," ","Âs±ætê±øºÓ$ırπø´m","MS",932
+"living room","SC11I!","213.9!","O","Y","modern combination room","AUX/NEW","lç±æv±øÓ$ruº∫m","MS",933
+"sitting room","SC11I!","213.9!","O","Y","diff. from drawing room in her father's house","AUX","s±Ωæt±øÓ$ruº∫m","MS",933
+"drawing room","SC11I!","213.9!","O","Y","diff. from sitting room in her father's house","AUX","dÚ∑∫|±øÓ$ruº∫m","MS",933
+"parlor","SC11I!","213.9!","N","Y","only in common people's houses","AUX","pµ∫{∞}l∞","MS",933
+"rented a room","SC11I!","213.9!","E","Y"," ","AUX/INA","Âr≤ntê±øΩd$∞$ruº∫m","MS",933
+"yellow room","SC11J!","213.10!","O","N"," "," ","Âj≤æl∞ó´æ$ıruø∫uø´m","MS",934
+"parlor","SC11J!","213.10!","N","N"," ","CNV","p`ﬁ∫{∞}l∞´","MS",934
+"sitting room","SC11J!","213.10!","O","N"," "," ","Âs±´tê±æÓ$ıruø∫uø´m","MS",934
+"back room","SC11J!","213.10!","O","N"," "," ","Âb·Ωk$ıruø∫uø´m","MS",934
+"drawing room","SC11J!","213.10!","O","N"," ","CNV","ÂdéÚ∑´º∫|±æn$ıruø∫m","MS",934
+"yellow room","SC11J!","213.10!","O","N"," "," ","Âj≥ºl∞$ıruø∫uø´m","MS",934
+"parlor","SC11J!","213.10!","N","N"," "," ","p`ﬁº∫l∞","MS",934
+"setting room","SC12A","214.1","O","N"," "," ","Âs≤´'tn$ıÚuø∫m","MS",935
+"sitting room","SC12B","214.2","O","N"," "," ","s±tn$rπ´m","MS",936
+"parlor","SC12B","214.2","N","N"," "," ","pµæ:l∞","MS",936
+"rented","SC12B","214.2","V","Y"," ","INA","r≤ntê±øΩd","MS",936
+"living room","SC13","213.6","O","N"," "," ","Âl±´v±øºn$rmñ","MS",937
+"parlor","SC13","213.6","N","Y","""long time ago¢","OLD","pµ∫∞l∞","MS",937
+"long time ago","SC13","213.6","K","Y"," ","INA/SIC","Âlµ{∞}Ó$ıtµ∫±øm$∞Âgoº∫","MS",937
+"parlor","SC14A","215.1","N","Y"," ","OLD","paæ∫{∞}l∞","MS",938
+"sitting room","SC14A","215.1","O","N"," "," ","s±tê±øÓ$rπm","MS",938
+"I rented a room","SC14A","215.1","S","Y"," ","INA","a´æ±ø$r≤æntê±øΩd$∞$rπm","MS",938
+"parlor","SC14B","215.2","N","N"," "," ","p`µæ∫{∞}l∞","MS",939
+"sitting room","SC14B","215.2","O","Y"," ","NEW","Âs±´tê±øºÓ$Úuø∫m","MS",939
+"living rooms","SC14B","215.2","O","Y"," ","NEW","l±´{∞}v±øºÓ$Úuø∫mz","MS",939
+"drawing room","SC14B","215.2","O","Y"," ","OLD","ÂdéÚ∑´∫|±øºÓ$ıÚuø∫m","MS",939
+"hall","SC15A","216.1","N","N"," "," ","Âh∑´º∫{∞}l","MS",940
+"living room","SC15A","216.1","O","Y"," ","NEW","Âl±´{∞}v±øºn$ıÚuø∫m","MS",940
+"parlor","SC15B","216.2","N","N"," "," ","p`µæ∫{∞}l∞","MS",941
+"living room","SC15B","216.2","O","Y"," ","NEW","Âl±´{∞}v±øºn$ıÚπø´æ{∞}m","MS",941
+"living room","SC15C","216.3","O","N","""sit and talk¢"," ","l±´{∞}v±øºÓ$ıÚuøæ∫{∞}m","MS",942
+"parlor","SC15C","216.3","N","N","""we'd call it¢"," ","p`µæ∫∞l∞æ","MS",942
+"hall","SC15C","216.3","N","Y"," ","HRD","h∑Ωº∫{∞}l","MS",942
+"company room","SC15C","216.3","O","Y","bedroom","INA","Âk∏´º{∞}mp∞n±ø´º$ıÚuø∫{∞}m","MS",942
+"preacher's room","SC15C","216.3","O","Y","bedroom","INA","ÂpÚi∫tÛ∞´æz$ıÚuøΩ∫{∞}m","MS",942
+"sitting room","SC16N","N217","O","N"," "," ","Âs±´tê±øºÓ$ıruø∫{πø}m","MS",943
+"parlor","SC16N","N217","N","N"," "," ","p`∂{∞}l∞æ","MS",943
+"living rooms","SC16","217.1","O","N"," "," ","l±∫{∞}v±øn$ırπ∫{∞}mz","MS",944
+"parlor","SC16","217.1","N","Y"," ","OLD","p`ﬁ∫∞l∞","MS",944
+"eating room","SC16","217.1","O","Y","now dining room","OLD/INA","Âi∫tê±øºÓ$ıruΩwm","MS",944
+"parlor","SC17A","218.1","N","N"," "," ","Âp`µ∫∞él∞","MS",945
+"living room","SC17A","218.1","O","Y"," ","NEW","Âl±´{±ø}v±øºn$ıruø∫m","MS",945
+"parlor","SC17B","218.2","N","N"," "," ","p`µ∫∞l∞","MS",946
+"sitting room","SC17B","218.2","O","N"," "," ","Âs±´'tn$ıruø∫m","MS",946
+"parlor","SC17C","218.3","N","N"," "," ","p`µ∫{∞}l∞","MS",947
+"living room","SC17D","218.4","O","Y"," ","NEW","Âl±´{∞}v±øΩÓ$ırπøΩ{∞}m","MS",948
+"parlor","SC17D","218.4","N","N"," "," ","p`µæ∫{∞}l∞","MS",948
+"sitting room","SC17D","218.4","O","N"," "," ","Âs±´'tn$ırπø∫{∞}m","MS",948
+"parlor","SC18N","N219","N","N"," "," ","p`µ´∫{∞}l∞´æ","MS",949
+"sitting room","SC18N","N219","O","N"," "," ","Âs±´'tn$ıruøΩº∫{uø}m","MS",949
+"living room","SC18N","N219","O","Y"," ","NEW","Âl±´æv±æn$ruø´º∫{uø}m","MS",949
+"parlor","SC18A","219.1","N","N","stiff, formal; where they ""lay the dead out¢"," ","p{Ê}ﬁº∫{∞}l∞","MS",950
+"living room","SC18A","219.1","O","N"," "," ","Âl±ø´ºv±øºÓ$rπ´æm","MS",950
+"sitting room","SC18A","219.1","O","N","informal"," ","Âs±´tê±æÓ$ırπø´æm","MS",950
+"sitting room","SC18A","219.1","O","N","informal"," ","s±´'tn$rπø´æm","MS",950
+"lay the dead out","SC18A","219.1","E","Y"," ","INA","le´∫$dë∞$Âd≤´d$ı∏ó´ºπt","MS",950
+"sitting room","SC18B","219.2","O","N","""depends on how large a house¢"," ","Âs±´Ò±æÓ$ırπøæm","MS",951
+"parlor","SC18B","219.2","N","N","""depends on how large a house¢;","RN1","p`µæ{∞}l∞","MS",951
+"front room","SC18B","219.2","O","Y","of doctor's office","INA/CNV","Âfrè∏´nt$ırπøæm","MS",951
+"parlor","SC18B","219.2","N","N","""depends on how large a house¢;","RN1","p`µº∫{∞}l∞","MS",951
+"parlor","SC18B","219.2","N","N","""depends on how large a house"";","RN1","p`ﬁº∫{∞}l∞","MS",951
+" ","SC18B","219.2"," "," ","more sedate [than sitting room]","RN2"," ","MS",951
+" ","SC18B","219.2"," "," ","more sedate [than sitting room]","RN2"," ","MS",951
+" ","SC18B","219.2"," "," ","more sedate [than sitting room]","RN2"," ","MS",951
+"parlor","SC18C!","219.3(*)!","N","Y","""olden days¢","OLD/AMS","p`ﬁ∫{∞}l∞æ","MS",952
+"living room","SC18C!","219.3(*)!","O","N"," "," ","Âl±øºv±›æÓ$ıryæ∫{uø}m","MS",952
+"sitting room","SC18C!","219.3(*)!","O","N"," ","CNV","Âs±øÒ±æÓ$ırπø›m","MS",952
+"front room","SC18C!","219.3(*)!","O","Y"," ","HRD","ÂfÚè∏´nt$ıryæ∫{∞}m","MS",952
+"drawing room","SC18D!"," ","O","N","company"," ","dÚ∑∫|±›æÓ$rπ›m","MS",953
+"reception room","SC18D!"," ","O","N","company"," ","r±øÂs≤´pÛn$rπø›m","MS",953
+"living room","SC18D!"," ","O","Y"," ","NEW","Âl±´v±æÓ$ırπø›m","MS",953
+"parlor","SC18D!"," ","N","Y","in old days","OLD","p`µæ∫{∞}l∞","MS",953
+"music room","SC18D!"," ","O","N","""dance¢"," ","Âmjyæ∫z±øºk$ırπøî{∞}m","MS",953
+"dance","SC18D!"," ","N","Y"," ","INA","d·∫{∞}nts","MS",953
+"setting room","SC19N","N220","O","N"," "," ","s≤tn$rπm","MS",954
+"front room","SC19N","N220","O","N","fireplace; better [than setting room]"," ","fr∏Ωnt$rπm","MS",954
+"rent a room","SC19N","N220","E","Y"," ","INA","r≤Ωænt$∞$rπm","MS",954
+"drawing room","SC19A","220.1","O","N","entertained in"," ","ÂdÚ∑Ωº|±›æÓ$rπøºm","MS",955
+"parlor","SC19A","220.1","N","N"," "," ","p`ﬁé∫{∞}l∞æ","MS",955
+"sitting room","SC19A","220.1","O","N"," "," ","Âs±´Ò±›æÓ$ırπøº∫{∞}m","MS",955
+"parlor","SC19A","220.1","N","N"," "," ","p`ﬁ∫{∞}l∞","MS",955
+"living room","SC19B","220.4","O","N"," "," ","l±v±øÓ$ruøm","MS",956
+"sitting room","SC19C","220.2(*)","O","N"," "," ","Âs±´'tn$ıryæ∫{m}","MS",957
+"living room","SC19C","220.2(*)","O","N"," "," ","Âl±´æv±æÓ$ır°∫{∞}m","MS",957
+"parlor","SC19C","220.2(*)","N","N"," "," ","p`µæ∫{∞}l∞","MS",957
+"middle room","SC19C","220.2(*)","N","N","in family","CNV","Âm±ø´dl$ıryæm","MS",957
+"sitting room","SC19C","220.2(*)","O","N"," "," ","Âs±´t±æÓ$ırπºm","MS",957
+"living room","SC19D!","220.3!","O","N"," "," ","Âl±´v±øΩÓ$ırπºm","MS",958
+"library","SC19E!"," ","N","N"," "," ","Âla´∫∞br∞Ωr±ø´º","MS",959
+"drawing room","SC19E!"," ","O","Y","in old houses; most formal,","OLD/RN1","ÂdÚ∑º|±æÓ$ruø´æ{∞}m","MS",959
+"living room","SC19E!"," ","O","Y"," ","NEW","Âl±æv±æÓ$ırπø´æm","MS",959
+"parlor","SC19E!"," ","N","N","less formal [than drawing room]"," ","p`µæ∫l∞Ω","MS",959
+"sitting room","SC19E!"," ","O","Y","""quite old¢","OLD/HRD","Âs±ætê±æÓ$ırπøæm","MS",959
+" ","SC19E!"," "," "," ","used only for real company","RN2"," ","MS",959
+"library","SC19E!"," ","N","Y"," ","HRD","ıla´∞Âb≤´r±ø´º","MS",959
+"drawing room","SC19E!"," ","O","Y","in old houses; most formal,","OLD/RN1","ÂdÚ∑´º|±æÓ$ruø´æ{∞}m","MS",959
+" ","SC19E!"," "," "," ","used only for real company","RN2"," ","MS",959
+"parlor","SC19E!"," ","N","N","less formal [than drawing room]"," ","p`µl∞Ω","MS",959
+"front room","SC20A","221.1","O","N"," "," ","Âfrè¶Ωnt$ıruø∫wm","MS",960
+"sitting room","SC20A","221.1","O","N"," "," ","Âs±´'tn$ıruø∫wm","MS",960
+"hall","SC20A","221.1","N","N","sometimes wide enough to = living room","CNV","hﬁ´∑l","MS",960
+"main house","SC20A","221.1","O","N","= living room","CNV","Âme´∫±øn$ıhµ´ºos","MS",960
+"hall","SC20B","221.2","N","N","in old houses"," ","Âh∑∫∑´l","MS",961
+"company room","SC20B","221.2","O","N"," "," ","Âk¶Ωmpn±ø´º$ıruø∫wm","MS",961
+"parlor","SC20B","221.2","N","Y"," ","NEW/SIC","pµæ∫l¥","MS",961
+"parlor","SC20C","221.3","N","N"," "," ","p`µæ∫¥l¥","MS",962
+"living room","SC20C","221.3","O","Y"," ","NEW","Âl±´v±øºn$ıráuø∫{w}m","MS",962
+"parlor","SC20C","221.3","N","N"," "," ","p`µæ∫¥l∞´","MS",962
+"shed room","SC20C","221.3","O","Y","at back of house","INA","ÂÛ≤´d$ıruø∫wm","MS",962
+"sitting room","SC20D!","221.4!","O","N"," "," ","Âs±Ωtê±øºÓ$ırπº{∞}m","MS",963
+"living room","SC20D!","221.4!","O","N"," "," ","l±´v±øΩÓ$rπº{∞}m","MS",963
+"parlor","SC20D!","221.4!","N","Y","in old days","OLD","p`ﬁº∫∞l∞","MS",963
+"big house","SC21A","222.1","O","N"," "," ","Âb±∫g$ıh·∫πøΩs","MS",964
+"living room","SC21B","222.2","O","N"," "," ","l±v±ºn$ruøæ∫m","MS",965
+"front room","SC21B","222.2","O","N"," "," ","fr∏´n{t}$ruøæ∫m","MS",965
+"parlor","SC22N","N223","N","N"," "," ","p{h}µº∫{∞}Ï∞","MS",966
+"sitting room","SC22N","N223","O","N"," "," ","s±tn$rπ´m","MS",966
+"rented a room","SC22N","N223","E","Y"," ","INA","r≤nt±ød$∞$rπ´æm","MS",966
+"living room","SC22A","223.1","O","N"," "," ","Âl±´{∞}v±ºn$ıÚπø´∫{∞}m","MS",967
+"parlor","SC22A","223.1","N","N"," "," ","p`µæ∫{∞}l∞´","MS",967
+"living room","SC22B","223.2","O","Y"," ","NEW","l±v±øΩn$rπ´m","MS",968
+"parlor","SC22B","223.2","N","Y"," ","OLD","pµ∫{∞}l∞","MS",968
+"drawing room","SC22B","223.2","O","Y","finer room [than sitting room]","OLD","dr∑|±øΩn$rπ´m","MS",968
+"sitting room","SC22B","223.2","O","N","plainer [than drawing room]"," ","s±tê±øn$rπ´m","MS",968
+"rented a room","SC22B","223.2","E","Y"," ","INA","Âr≤ntê±øΩd$∞$rπm","MS",968
+"parlor","SC22C!","223.3!","N","N"," "," ","p`µæ∫{∞}l∞","MS",969
+"sitting room","SC22C!","223.3!","O","N"," "," ","Âs±´{∞}tê±øΩÓ$ıÚπø´∫{∞}m","MS",969
+"drawing room","SC22C!","223.3!","O","N"," "," ","déÚ∑´∫|±øºÓ$ıÚπø´∫{∞}m","MS",969
+"living room","SC23A","224.1","O","N"," "," ","Âl±´{∞}v±øºn$ıÚuø∫m","MS",970
+"sitting room","SC23A","224.1","O","N","same thing [as `living room']"," ","Âs±øº{∞}'tn$ıÚuø∫m","MS",970
+"parlor","SC23A","224.1","N","N","same thing [as `sitting room']"," ","p`µ´∫{∞}l∞","MS",970
+"living room","SC23B","224.2","O","N"," "," ","Âl±´{∞}v±øºn$ıÚuøæ{w}m","MS",971
+"parlor","SC23B","224.2","N","N"," "," ","p`µéæ∫¥l¥´æ","MS",971
+"living room","SC23C","224.3","O","N"," "," ","Âl±´{∞}v±øºÓ$ıÚuøΩ∫{∞}m","MS",972
+"living room","SC23D","224.4","O","N","same as `parlor', in our house"," ","l±´{∞}v±øºÓ$ıÚuø∫{w}m","MS",973
+"parlor","SC23D","224.4","N","N","not much used locally"," ","p`µæ∫{∞}l∞æ","MS",973
+"parlor","SC23D","224.4","N","N","not much used locally"," ","p`µ∫∞l∞","MS",973
+"sitting room","SC23E!","224.5!","O","Y"," ","OLD","Âs±´{∞}tê±øºÓ$ıÚπøî´∫{∞}m","MS",974
+"living room","SC23E!","224.5!","O","Y"," ","NEW","Âl±´{∞}v±øºÓ$ıÚπø´∫{∞}m","MS",974
+"parlor","SC23E!","224.5!","N","Y","""name gone out¢; for special company","OLD","p`µæ∫{∞}l∞","MS",974
+"setting room","SC24N","N225","O","N"," "," ","Âs≤´'tn$rπø´æ{∞}m","MS",975
+"living room","SC24A","225.1","O","N"," "," ","Âl±∫v±øn$ıruøæ∫m","MS",976
+"parlor","SC24B","225.11","N","N"," "," ","p`µæ∫l∞æ","MS",977
+"sitting room","SC24B","225.11","O","N"," "," ","Âs±´'tn$ıruø∫{w}m","MS",977
+"front room","SC24C","225.2","O","N"," "," ","ÂfÚè∏´{∞}nt$ıÚuø∫wm","MS",978
+"sitting room","SC24C","225.2","O","N"," "," ","Âs±øº'tn$ıÚuø∫{w}m","MS",978
+"parlor","SC24D!","225.3!","N","N"," "," ","p`µæ∫∞l∞","MS",979
+"drawing room","SC24D!","225.3!","O","N"," ","CNV","ÂdÚ∑º∫|±øºÓ$ıÚπø´∫{∞}m","MS",979
+"living room","SC24D!","225.3!","O","N","in basement"," ","Âl±´{∞}v±øºÓ$ırπø´{∞}m","MS",979
+"setting room","SC25A","226.1","O","N"," "," ","s≤tn$rπm","MS",980
+"parlor room","SC25A","226.1","O","Y"," ","NEW","p`µæ∫{∞}l∞$rπm","MS",980
+"rented me a room","SC25A","226.1","E","Y"," ","INA","r≤ntê±ød$miΩæ$∞$rπ{∞}m","MS",980
+"living room","SC25B","226.2","O","N"," "," ","Âl±´v±øºn$ıruø∫{πø}m","MS",981
+"parlor","SC25B","226.2","N","N","""don't have now¢"," ","p`µæ∫{∞}l∞","MS",981
+"the house","SC25B","226.2","O","Y","= main living room","HRD","‰∞$Âha´æ∞ós","MS",981
+"sitting room","SC25C!","226.3!","O","N"," "," ","Âs±´'tn$ıruø∫m","MS",982
+"parlor","SC25C!","226.3!","N","N"," "," ","p`ﬁ∫{∞}l∞æ","MS",982
+"parlor","SC26A","227.1","N","N"," "," ","pµæ∫l∞","MS",983
+"sitting room","SC26A","227.1","O","N"," "," ","Âs±´'tn$ırπ˛∫{m}","MS",983
+"sitting room","SC26B!","227.2!","O","N"," "," ","Âs±´tê±øΩn$ır¶›m","MS",984
+"living room","SC26B!","227.2!","O","N"," "," ","Âl±Ω{∞}v±øÓ$ır¶óm","MS",984
+"parlor","SC26B!","227.2!","N","N","""special guests¢"," ","pµæ∫{∞}l∞´","MS",984
+"special guests","SC26B!","227.2!","O","Y"," ","INA","Âsp≤´Ûl$ıgà≤´{∞}s","MS",984
+"living room","SC27A","228.1","O","N"," "," ","Âl±v±øn$ıruø∫m","MS",985
+"sitting room","SC27B","228.2","O","N"," "," ","Âs±´'tn$ıruº∫m","MS",986
+"parlor","SC27B","228.2","N","N"," "," ","pµæ∫∞l∞","MS",986
+"parlor","SC27B","228.2","N","N"," "," ","pµæ∫∞él∞","MS",986
+"setting room","SC28A","229.1","O","N"," "," ","Âs≤´'tn$ıruº∫m","MS",987
+"living room","SC28A","229.1","O","N"," "," ","l±´{∞}v±øÓ$ruº∫m","MS",987
+"parlor","SC28A","229.1","N","N"," "," ","p`µæ∞l∞","MS",987
+"living room","SC28B","217.2","O","N"," "," ","Âl±´v±øºn$ıráuø∫m","MS",988
+"parlor","SC28B","217.2","N","N"," "," ","p`ﬁ∫{∞}l∞","MS",988
+"living room","SC28C","229.2","O","N"," "," ","l±´{∞}v±øºn$ıruø∫{πø}m","MS",989
+"parlor","SC28C","229.2","N","N","""never used it much""","CNV","p`∂∫{∞}l∞æ","MS",989
+"parlor","SC28C","229.2","N","N","""never used it much"""," ","p`ﬁ´º∫{∞}l∞æ","MS",989
+"setting room","SC28D","229.3","O","N"," ","CNV","Âs≤´'tn$ıruø∫m","MS",990
+"parlor","SC28D","229.3","N","N","""kids can't go in unless there's company,","RN1","p`µæ∞l∞´","MS",990
+" ","SC28D","229.3"," "," ","and then they'd better be careful where","RN2"," ","MS",990
+" ","SC28D","229.3"," "," ","they put their feet¢","RN3"," ","MS",990
+"kids","SC28D","229.3","N","Y"," ","INA","kà±´{∞}dz","MS",990
+" ","SC28D","229.3"," "," ","they put their feet¢","RN3"," ","MS",990
+"parlor","SC28D","229.3","N","N","""kids can't go in unless there's company,","RN1","pµæ∫∞l∞´æ","MS",990
+" ","SC28D","229.3"," "," ","and then they'd better be careful where","RN2"," ","MS",990
+"living room","SC28D","229.3","O","N"," "," ","Âl±´{±ø}v±øºn$ıruø∫m","MS",990
+"sitting room","SC29A","230.2(*)","O","N"," "," ","Âs±´'tÓ$ırπºm","MS",991
+"front room","SC29A","230.2(*)","O","N"," "," ","Âfr›¶Ω{∞}nt$ırπºm","MS",991
+"hall room","SC29B","230.1(*)","O","N"," "," ","Âh∑∫{∞}l$ıruºm","MS",992
+"sitting room","SC29B","230.1(*)","O","N"," "," ","Âs±´tê±øºÓ$ıruøæm","MS",992
+"parlor","SC29B","230.1(*)","N","N"," "," ","p`µ∫{∞}l∞´","MS",992
+"company room","SC29B","230.1(*)","O","Y"," ","HRD","Âk`¶∫{∞}mp∞´n±ø´º$ıruøæ∫m","MS",992
+"sitting room","SC29B","230.1(*)","O","N"," ","SIC","Âs±´t`∞´n$ıruøæm","MS",992
+"company room","SC29C","230.3","O","N"," "," ","Âkà¶Ω{∞}mp∞´n±´º$ıruº∫m","MS",993
+"living room","SC29C","230.3","O","N"," "," ","Âl±´{∞}v±øºn$ıráuøæ∫{∞ó}m","MS",993
+"living room","SC29C","230.3","O","N"," "," ","Âl±´{∞}v±øºn$ıráuº∫{∞}m","MS",993
+"parlor","SC29D"," ","N","N"," "," ","pµæ∫∞l∞","MS",994
+"company room","SC29D"," ","N","Y"," ","HRD","Âk¶Ω{∞}m'pn±ø´º$ı„uø∫{∞}m","MS",994
+"living room","SC29D"," ","O","N","bed in it"," ","Âl±´{∞}v±øºÓ$ıráuøæ∫{∞}m","MS",994
+"setting room","SC29D"," ","O","N"," ","CNV","Âs≤´t{h}n$ı„àuºm","MS",994
+"parlor","SC29E"," ","N","N","used for ""sitting room¢ when they had company"," ","p`µ∫{∞}l∞´æ","MS",995
+"sitting room","SC29E"," ","O","N"," "," ","Âs±´Ò±øºÓ$ırπø´{∞}m","MS",995
+"front room","SC29E"," ","O","N"," "," ","ÂfÚè¶Ω{∞}nt$ıÚèπø´{∞}m","MS",995
+"parlor","SC30A","231.1","N","N"," "," ","pµ∫{∞}l∞","MS",996
+"sitting room","SC30A","231.1","O","N"," "," ","s±tê±øºn$ruøΩæ∫m","MS",996
+"living room","SC30A","231.1","O","N"," "," ","l±v±øΩÓ$ruøΩæ∫m","MS",996
+"rented a room","SC30A","231.1","E","Y"," ","INA","r≤{n}{tê}±ød$∞$ruøΩæ∫m","MS",996
+"parlor","SC30B","231.2","N","N"," ","CNV","p`ﬁº∫{∞}l∞","MS",997
+"sitting room","SC30B","231.2","O","N"," ","CNV","Âs±´'tn$ıruøº∫wm","MS",997
+"living room","SC30C!","231.3!","O","N"," "," ","Âl±´v±æÓ$ırπ´ºm","MS",998
+"parlor","SC30C!","231.3!","N","N","shut up all the time"," ","p`ﬁº∫{∞}l∞","MS",998
+"big house","SC30C!","231.3!","O","N","= master's house as opposed to the quarters","CNV","Âb±´g$ıha´æπ›s","MS",998
+"library","SC30C!","231.3!","N","N"," "," ","Âla´æ∫{∞}b≤∫r±´º","MS",998
+"parlor","SC30C!","231.3!","N","N","shut up all the time"," ","p`µæ∫{∞}l∞æ","MS",998
+"front room","SC31A","232.1","O","N"," "," ","Âfr¶Ω{∞}nt$ıruø∫m","MS",999
+"sitting room","SC31B","232.2","O","N"," "," ","Âs±´'tn$ırπøm","MS",1000
+"front room","SC31B","232.2","O","N"," "," ","frè∑î´ºnt$rπ›m","MS",1000
+"parlor","SC32A","233.1","N","N","same as `company room' and `living room'"," ","Âp`ﬁº∫{∞}l∞","MS",1001
+"company room","SC32A","233.1","O","N","same as `parlor' and `living room'"," ","Âk`¶º{∞}mp∞n±ø´º$ıÚπø´∫{∞}m","MS",1001
+"living room","SC32A","233.1","O","N","same as `parlor' and `company room'"," ","Âl±´{∞}v±øºÓ$ıÚπø´∫{∞}m","MS",1001
+"sitting room","SC32A","233.1","O","N"," "," ","Âs±´{∞}tê±øºÓ$ıÚπø´∫{∞}m","MS",1001
+"living room","SC32A","233.1","O","N"," "," ","Âl±´{∞}v±øºÓ$ıÚuø∫m","MS",1001
+"parlor","SC32B","233.2","N","N"," "," ","Âp`µæ∫l∞","MS",1002
+"living room","SC32B","233.2","O","N"," "," ","Âl±´{∞}v±øºÓ$ıÚπø´º∫{∞}m","MS",1002
+"living room","SC32C","233.3","O","N"," "," ","Âl±´{∞}v±øºn$ıÚuø∫m","MS",1003
+"parlor","SC32C","233.3","N","Y","old days","OLD","p`ﬁº{∞}l∞","MS",1003
+"sitting room","SC32C","233.3","O","N"," "," ","Âs±´tê±øºÓ$ıÚπø´æ{∞}m","MS",1003
+"living room","SC32C","233.3","O","N"," "," ","Âl±´{∞}v±øºn$ıÚπøΩæ{∞}m","MS",1003
+"sitting room","SC32D","233.4","O","N"," "," ","Âs±´tê±æÓ$ıÚuø∫m","MS",1004
+"more formal","SC32D","233.4","K","Y"," ","INA","ımoº∫πº$Âf∑Ω∑mÏ","MS",1004
+"parlor","SC32D","233.4","N","N","""more formal¢ [than sitting room]"," ","p`µæ∫{∞}l∞","MS",1004
+"setting room","SC33A","234.1","O","N"," "," ","s≤Áütn$rîuøΩ{uøæ}m","MS",1005
+"rented a room","SC33A","234.1","E","Y"," ","INA","r≤n{tê}±ød$∞$ruøΩ{uøæ}m","MS",1005
+"living room","SC33B","234.2","O","N"," "," ","Âl±´{∞}v±øºn$ıÚuø∫{w}m","MS",1006
+"sitting room","SC34A","235.1","O","N"," "," ","Âs±´{∞}'tn$ıÚπø∫{∞}m","MS",1007
+"parlor","SC34A","235.1","N","N"," "," ","Âp`ﬁº∫{∞é}l∞´æ","MS",1007
+"living room","SC34A","235.1","O","N"," ","CNV","Âl±´{∞}v±øºn$ıÚπø´º∫{∞}m","MS",1007
+"company room","SC34B","235.2","O","N","in grandfather's house"," ","k`¶˛Ω{∞˛}{m}p∞n±ø´º$ıÚuø∫{w}m","MS",1008
+"living room","SC34B","235.2","O","N","nowadays"," ","Âl±´{∞}v±øºn$ıÚuø∫{w}m","MS",1008
+"parlor","SC34C","235.3","N","N"," "," ","Âp`ﬁº∫{∞}l∞","MS",1009
+"living room","SC34C","235.3","O","N","same as `family sitting room', `family room'"," ","Âl±´{∞}v±øΩÓ$ıÚπº{∞}m","MS",1009
+"family sitting room","SC34C","235.3","O","N","same as `living room', `family room'"," ","Âf·´{∞}ml±ø´º$Âs±´tê±øºÓ$ıÚπ´º{∞}m","MS",1009
+"sitting room","SC34C","235.3","O","N"," ","CNV","Âs±´{∞}'tn$ıÚπ´º∫{∞}m","MS",1009
+"big house","SC34C","235.3","O","N","as opposed to tenant houses"," ","Âb±´{∞}g$ıha´æoºs","MS",1009
+"family room","SC34C","235.3","O","N","same as `living room', `family sitting room'"," ","Âf·´{∞}ml±ø´º$ıÚπ´º∫{∞}m","MS",1009
+"living room","SC35A","236.1","O","N"," "," ","Âl±´{∞}v±øºn$ıÚπø´∫{∞}m","MS",1010
+"sitting room","SC35A","236.1","O","N"," "," ","Âs±´'tn$ıÚuø∫{w}m","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"living room","SC35C","236.3(*)","O","N"," "," ","Âl±vÓ$ıruΩºuºm","MS",1012
+"sitting room","SC35C","236.3(*)","O","N"," "," ","Âs±'tn$ıruΩºuºm","MS",1012
+"sitting room","SC35D"," ","O","N","for ""kids¢"," ","Âs±´{∞}tê±øºÓ$ıÚuø∫m","MS",1013
+"living room","SC35D"," ","O","N","more formal [than sitting room]"," ","Âl±´{∞}v±ø›ºn$ıÚuø∫{w}m","MS",1013
+"front room","SC35D"," ","O","Y","more formal [than sitting room]","HRD","ÂfÚ¶Ω{∞}nt$ıÚuø∫{w}m","MS",1013
+"kids","SC35D"," ","N","Y","for)","INA","kà`±´{∞}dz{zè}","MS",1013
+"sitting room","SC35D"," ","O","N","for ""kids¢"," ","Âs±´{∞}'tn$ıÚuø∫{w}m","MS",1013
+"setting room","SC35D"," ","O","N"," "," ","Âs≤´{∞}'tn$ıÚuø∫{w}m","MS",1013
+"parlor","SC35E!"," ","N","N"," "," ","p`µæ∫{∞}l∞´","MS",1014
+"sitting room","SC35E!"," ","O","Y","[{w}]: doubtful","FDT","Âs±æ'tn$ıruø∫{w}m","MS",1014
+"room","SC35E!"," ","N","Y"," ","INA","ruøæ∫wm","MS",1014
+"big house","SC36A","237.1","O","N","= house proper, as opposed to kitchen","CNV","Âb±´g$ıhµ´ºπs","MS",1015
+"sitting room","SC36A","237.1","O","N"," ","CNV","Âs±´'tn$ıÚuø∫wm","MS",1015
+"parlors","SC36A","237.1","N","N"," "," ","Âp`µé∫∞él∞æz","MS",1015
+"parlor","SC36A","237.1","N","N"," "," ","Âp`ﬁéº∫¥l¥æ","MS",1015
+"living room","SC36B","237.2","O","N"," "," ","Âl±´v±æn$ıÚuø∫{w}m","MS",1016
+"parlor","SC36B","237.2","N","N","didn't have one"," ","p`ﬁéº∫¥l¥æ","MS",1016
+"company room","SC36B","237.2","O","N"," "," ","Âk`¶˛Ω{m}p∞´n±ø´º$ıÚuø∫{w}m","MS",1016
+"front room","SC36B","237.2","O","Y"," ","AUX/CNV","ÂfÚè¶Ωnt$ıÚuøæ∫m","MS",1016
+"living room","SC36B","237.2","O","N"," ","CNV","Âl±´v±ø˛æ{n}$ıÚuøæ∫wm","MS",1016
+"living room","SC36C","237.3","O","N"," "," ","Âl±´v±æÓ$ıruøuø´m","MS",1017
+"parlor","SC36C","237.3","N","N","hardly ever used"," ","Âp`ﬁéº∫{∞é}l∞éæ","MS",1017
+"parlor","SC36C","237.3","N","N"," "," ","Âp`ﬁº∫∞él¥$ıh·Ωz","MS",1017
+"living room","SC36C","237.3","O","N"," "," ","Âl±´v±æÓ$ıruøæm","MS",1017
+"parlor","SC36C","237.3","N","N","hardly ever used"," ","p`ﬁ∫{¥}l¥","MS",1017
+"parlor","SC36C","237.3","N","N","hardly ever used","CNV","Âp`ﬁéº∫¥æl¥´æ","MS",1017
+"parlor","SC36C","237.3","N","N","hardly ever used"," ","Âp`ﬁéº∫{¥}l¥","MS",1017
+"parlor","SC36D!","237.4!","N","N"," "," ","p`ﬁ∫{∞}l∞æ","MS",1018
+"living room","SC37","238","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1019
+"parlor","SC38N","N239","N","N"," "," ","Âp`ﬁ{∞}l∞´æ","MS",1020
+"living room","SC38N","N239","O","N"," "," ","Âl±´æv±øºn$ırπø´m","MS",1020
+"social room","SC38N","N239","O","N"," "," ","ÂsoÛÏ$ırπøm","MS",1020
+"parlor","SC38N","N239","N","N"," "," ","p`µº∫{∞}l∞","MS",1020
+"living room","SC38A","239.1","O","N"," "," ","Âl±´v±æn$ıruø∫{w}m","MS",1021
+"parlor","SC38A","239.1","N","N"," "," ","p`ﬁ∫{∞}l∞´","MS",1021
+"front room","SC38B","239.2","O","N","""entrance¢"," ","ÂfÚè¶Ωºnt$ıruø∫{w}m","MS",1022
+"living room","SC38B","239.2","O","N"," "," ","Âl±æv±øºn$ıruø∫{w}m","MS",1022
+"parlor","SC38B","239.2","N","N","state occasions; ""piano¢, ""organ¢"," ","p`µæ∫{∞}l∞æ","MS",1022
+"piano","SC38B","239.2","N","Y"," ","INA","p`±ø´ºÂ·n∞Ω","MS",1022
+"organ","SC38B","239.2","N","Y"," ","INA","Â∑º∫{∞}g∞æn","MS",1022
+"living rooms","SC38C!","239.3!","O","N"," "," ","Âl±´v±æÓ$ıruø{w}mz","MS",1023
+"sitting rooms","SC38C!","239.3!","O","Y"," ","NEW","Âs±´tê±æÓ$ıruø∫{w}mz","MS",1023
+"company room","SC38C!","239.3!","O","N","Dutch Fork"," ","Âk`¶Ωm'p∞n±ø´º$ıruø∫wm","MS",1023
+"parlors","SC38C!","239.3!","N","N"," "," ","p`ﬁ∫l∞æz","MS",1023
+"parlor","SC38D!","239.4(*)!","N","N","""formal¢"," ","p`µæ∫{∞}l∞æ","MS",1024
+"living room","SC38D!","239.4(*)!","O","N"," "," ","Âl±´v±æÓ$ıruø´º∫{w}m","MS",1024
+"formal","SC38D!","239.4(*)!","A","Y"," ","INA","Âf∑Ωº∫m∞æÏ","MS",1024
+"with drawing room","SC38D!","239.4(*)!","Q","Y","grandmother","OLD","Âw±´‰$ıdéÚ∂´º∑|±æÓ$ÂÚuøº∫wm","MS",1024
+"parlor","SC38D!","239.4(*)!","N","N","""formal¢"," ","p`ﬁº∫{∞}l∞","MS",1024
+"living room","SC38D!","239.4(*)!","O","N"," "," ","Âl±´v±æÓ$ıruøº∫{w}m","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"parlor","SC39A","240.1","N","N"," "," ","p`µæ∫{∞}l∞é´","MS",1026
+"living room","SC39A","240.1","O","N"," "," ","Âl±æv±øºn$ırπºm","MS",1026
+"sitting room","SC39A","240.1","O","Y"," ","NEW","Âs±´'tn$ıruøæ∫wm","MS",1026
+"tea room","SC39A","240.1","O","Y"," ","NEW","t`i∫j$ıruø∫wm","MS",1026
+"parlor","SC39A","240.1","N","N"," "," ","p`µ∫{∞}l∞","MS",1026
+"sitting room","SC39A","240.1","O","Y"," ","NEW/CNV","Âs±´'tn$ıruº∫{w}m","MS",1026
+"parlors","SC39B!","240.2!","N","N","""first story¢"," ","p`ﬁº{∞}l∞´z","MS",1027
+"parlor","SC39B!","240.2!","N","N","""first story¢"," ","p`µéæ∫{¥}l∞´","MS",1027
+"living room","SC39B!","240.2!","O","N"," "," ","Âl±´v±æn$ıruø∫wm","MS",1027
+"sitting room","SC39B!","240.2!","O","N"," ","CNV","Âs±´'tn$ıruø∫wm","MS",1027
+"best room","SC39B!","240.2!","O","N","""piano¢"," ","Âb≤´st$ıruøæ∫wm","MS",1027
+"first story","SC39B!","240.2!","N","Y"," ","INA","Âf≥æ∫s$ıstoº∫πør›±ø´º","MS",1027
+"parlor","SC39B!","240.2!","N","N","""first story¢","CNV","p`µæ∫{∞}l∞","MS",1027
+"piano","SC39B!","240.2!","O","Y"," ","INA","p`j·∫{∞}n∞æ","MS",1027
+"bedroom","SC39B!","240.2!","N","Y"," ","INA","Âb≤´dıÚuø∫{w}m","MS",1027
+"cutting room","SC39B!","240.2!","O","Y"," ","INA","Âk`¶Ωtê±æÓ$ıruøwm","MS",1027
+"sitting room","SC40A","241.1","O","N"," "," ","Âs±´tê±æÓ$ırπ´º∫{uº}m","MS",1028
+"living room","SC40A","241.1","O","N","don't have"," ","Âl±v±æn$ırπ´ºum","MS",1028
+"parlor room","SC40A","241.1","O","N","don't have"," ","Âp`µæl∞$ıruΩºum","MS",1028
+"parlors","SC40A","241.1","N","N"," ","CNV","Âp`ﬁº∫l∞z","MS",1028
+"living room","SC40B","241.2","O","N"," "," ","Âl±´v±æÓ$rπø´uºm","MS",1029
+"reception room","SC40B","241.2","O","N"," "," ","r±øºÂs≤´ptÛn$ırπø´uºm","MS",1029
+"drawing room","SC40B","241.2","O","N"," "," ","dÚ∂´o±æÓ$ırπø´{u}m","MS",1029
+"parlor","SC40B","241.2","N","Y"," ","OLD","p`µæl∞","MS",1029
+"living room","SC41A","242.1","O","N"," "," ","l±v±øÓ$ruøΩ∫m","MS",1030
+"setting room","SC41A","242.1","O","N"," "," ","s≤Áütn$ruøΩ∫m","MS",1030
+"rented a room","SC41A","242.1","E","Y"," ","INA","r≤´{n}{tê}±øΩd$∞$ruøΩ∫m","MS",1030
+"front room","SC41B","242.2","O","N"," "," ","Âfr∏ó´ænt$ıruøæu´m","MS",1031
+"sitting room","SC41B","242.2","O","N"," "," ","Âs±´tê±æÓ$ıruø∫u´ºm","MS",1031
+"living room","SC41B","242.2","O","N"," "," ","Âl±´v±æÓ$ıruø∫u´ºm","MS",1031
+"parlors","SC41B","242.2","N","Y","""Sunday people¢","HRD","Âpµ∫{∞}l∞z{zè}","MS",1031
+"sitting room","SC42N","N243","O","N"," "," ","Âs±´tên$rπø˛´uø˛æ{m}","MS",1032
+"living room","SC42N","N243","O","N"," "," ","Âl±´æ{∞}v±æn$rπº{∞}m","MS",1032
+"parlor","SC42N","N243","N","N"," ","CNV","p`µæ∫l∞","MS",1032
+"parlor","SC42N","N243","N","N"," ","CNV","pµæ∫l∞","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"living room","SC42A","243.1","O","N"," "," ","Âl±óæv±Ó$Ârπº∫uºm","MS",1034
+"parlor","SC42A","243.1","N","N"," "," ","pﬁéº∫l∞","MS",1034
+"living room","SC42A","243.1","O","N"," "," ","l±óæv±Ó$ruøæ∫uø´m","MS",1034
+"room","SC42A","243.1","N","Y"," ","INA/CNV","ry˛Ωæuø˛æm","MS",1034
+"living room","SC42B!","243.2!","O","N"," "," ","Âl±´æv±æÓ$ıryæ∫{uø´}m","MS",1035
+"sitting room","SC42B!","243.2!","O","N","""family¢"," ","Âs±´tê±æÓ$ıryæuø´m","MS",1035
+"parlor","SC42B!","243.2!","N","N","""guests¢"," ","p`ﬁ∫∞l∞Ω","MS",1035
+"family","SC42B!","243.2!","N","Y"," ","INA","Âf·m{b}l±øº","MS",1035
+"guests","SC42B!","243.2!","N","Y"," ","INA","gà≤´∫ss","MS",1035
+"front room","SC42B!","243.2!","O","N"," ","CNV","ÂfÚè¶Ωnt$ıruø∫uø´m","MS",1035
+"living room","SC42C!","243.3!","O","N","city: where you stay all time"," ","Âl±v±æÓà$ruøæuøæm","MS",1036
+"sitting room","SC42C!","243.3!","O","N"," "," ","Âs±´tê±Ó$rπø´uøm","MS",1036
+"parlor","SC42C!","243.3!","N","N","in country: opened only on state occasions:","RN1","pµæ∫l∞","MS",1036
+"big room","SC42C!","243.3!","O","N"," "," ","Âb±æg$ruøæ{u}m","MS",1036
+"sitting room","SC42C!","243.3!","O","N"," ","CNV","Âs±tên$ırπøuø´æm","MS",1036
+"sitting room","SC42C!","243.3!","O","N"," "," ","Âs±Ωt±n$ırπø´uøm","MS",1036
+"parlor","SC42C!","243.3!","N","N","in country: opened only on state occasions:","RN1","Âpµ∫l∞é","MS",1036
+"big house","SC42C!","243.3!","O","N","= the home vs. tenant house"," ","biΩg$hµ´º∫πºs","MS",1036
+" ","SC42C!","243.3!"," "," ","weddings, funerals, courting, missionary soc.","RN2"," ","MS",1036
+"home","SC42C!","243.3!","N","Y","= the house vs. tenant house","INA","ho˛∫{π˛}m","MS",1036
+" ","SC42C!","243.3!"," "," ","weddings, funerals, courting, missionary soc.","RN2"," ","MS",1036
+"living room","SC42D!","243.4!","O","N"," "," ","Âl±æv±øΩæÓ$ıróπm","MS",1037
+"den","SC42D!","243.4!","N","N"," "," ","d≤´∫{∞}n","MS",1037
+"sitting room","SC42D!","243.4!","O","Y","more country","HRD","Âs±tê±øÓ$rπ´m","MS",1037
+"I rented a room","SC42D!","243.4!","S","Y"," ","INA","∞$r≤˛´Ò˛±ød$∞$rπΩºm","MS",1037
+"living room","SC42E!","243.5!","O","N"," "," ","l±∫v±øºn$rπø›m","MS",1038
+"parlor","SC42E!","243.5!","N","Y","older, more formal [than living room]","OLD","p`ﬁº∫{∞}l∞","MS",1038
+"den","SC42E!","243.5!","N","N","different [from parlor and living room]"," ","d≤{∞}n","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"living room","SC43B","244.2","O","N","most of the time"," ","Âl±æv±æn$ıruø∫u´ºm","MS",1040
+"parlor","SC43B","244.2","N","N"," "," ","p`ﬁéº∫l¥","MS",1040
+"living room","SC43B","244.2","O","N","most of the time"," ","Âl±´ævn$ıruøæu´ºm","MS",1040
+"living room","SC43C","244.3","O","N"," ","CNV","Âl±´æv±æÓ$ruΩºum","MS",1041
+"parlor","SC43C","244.3","N","N"," "," ","Âp`ﬁ∫{∞}l∞é","MS",1041
+"living room","SC43C","244.3","O","N"," "," ","Âl±´æv±æÓ$rπ´ºm","MS",1041
+"sitting room","SC44A","245.1","O","N"," "," ","Âs±´tê±æÓ$ruø´uø›´æm","MS",1042
+"front room","SC44A","245.1","O","N"," "," ","frè∏ó˛nt$ruøºu´m","MS",1042
+"parlor","SC44A","245.1","N","N","special occasions"," ","Âp`µéæ∫¥l∞é","MS",1042
+"company room","SC44A","245.1","O","Y"," ","OLD","k`∏˛´mp∞n±ø´º$ruøΩuø´æm","MS",1042
+"parlor","SC44B","245.2","N","N","strangers, etc."," ","p{h}ﬁº∫l∞","MS",1043
+"sitting room","SC44B","245.2","O","N","family"," ","Âs±´tê±æÓ$ruø˛º∫uø˛´{m}","MS",1043
+"company room","SC44B","245.2","O","Y","= ""bedroom¢","INA","Âk`¶˛{m}p∞›n±ø´º$Âruø˛º∫uø˛´æm","MS",1043
+"bedroom","SC44B","245.2","N","Y"," ","INA","Âbe´dıruø˛º∫uø´m","MS",1043
+"living room","GA1N","N246","O","N"," "," ","Âl±v±øÓ$ırπº∫{∞}m","MS",1044
+"parlor","GA1N","N246","N","N","older [than living room]"," ","pµ´{∞}l∞","MS",1044
+"living room","GA1N","N246","O","N"," "," ","l±v±øÓ$rπm","MS",1044
+"parlor","GA1A","246.1(*)","N","N"," "," ","p`µ∫{∞}l∞æ","MS",1045
+"sitting room","GA1A","246.1(*)","O","N"," "," ","Âs±´'tn$r¶ó›m","MS",1045
+"parlor","GA1A","246.1(*)","N","Y"," ","AUX2","pµærl¥","MS",1045
+"front room","GA1A","246.1(*)","O","Y"," ","AUX2","fr∏nt$ruº∫m","MS",1045
+"setting room","GA1A","246.1(*)","O","Y"," ","AUX2","Âs≤tê±øΩn$ruº∫m","MS",1045
+"big house","GA1A","246.1(*)","O","N","mansion as opposed to servants' quarters","CNV","Âb±´g${h}•πs","MS",1045
+"rented me a room","GA1A","246.1(*)","E","Y"," ","AUX/INA","r≤æn`t±øΩd$miΩæ$∞$ruº∫m","MS",1045
+"living room","GA1B","246.11","O","N"," "," ","Âl±øºv±øÓ$ıruøæm","MS",1046
+"living room","GA1B","246.11","O","N"," "," ","Âl±æv±øn$ıruø∫m","MS",1046
+"guest room","GA1B","246.11","O","N"," "," ","Âgà≤æs$ıruø∫m","MS",1046
+"living room","GA1C","246.2","O","N"," "," ","Âl±æv±æn$ırπø∫{∞}m","MS",1047
+"front parlor","GA1C","246.2","O","N"," "," ","ÂfÚè∏´nt$ıp`µæ{∞}l∞æ","MS",1047
+"back parlor","GA1C","246.2","O","N"," "," ","b·{∞}k$p`µæ{∞}l∞æ","MS",1047
+"parlor","GA1D","246.3","N","N","""don't call 'em now¢"," ","p`µæ{∞}l∞æ","MS",1048
+"double parlor","GA1D","246.3","N","N"," "," ","Âd∏ºbl$ıp`µæ∫{∞}l∞æ","MS",1048
+"living room","GA1D","246.3","O","N"," "," ","Âl±´v±æÓ$ırπø{∞}m","MS",1048
+"living room","GA1E","246.4","O","N","""sat around¢"," ","Âl±´v±æÓ$ıruø∫{w}m","MS",1049
+"parlor","GA1E","246.4","N","N","""kept for company¢"," ","p`ﬁº∫∞l∞æ","MS",1049
+"front parlor","GA1F!","246.5!","O","N"," "," ","ıfr∏nt$Âpµæ∫lç∞","MS",1050
+"drawing room","GA1F!","246.5!","O","N"," "," ","dr∑∫±øÓ$rπ´m","MS",1050
+"living room","GA1F!","246.5!","O","Y"," ","NEW","Âlç±v±øÓ$rπ´m","MS",1050
+"sitting room","GA1F!","246.5!","O","N"," "," ","s±tê±øÓ$rπ´m","MS",1050
+"rented a room","GA1F!","246.5!","E","Y"," ","INA","r≤nt±øΩæd$∞$rπ´m","MS",1050
+"living room","GA1G!","246.6!","O","N"," "," ","Âl±´v±æn$ıruø∫{∞}m","MS",1051
+"study room","GA1G!","246.6!","O","N","smaller [than living room]"," ","Âst∏d±ø´º$ıruø∫m","MS",1051
+"parlor","GA1G!","246.6!","N","Y","""years ago¢","OLD","p`µæ∫{∞}l∞æ","MS",1051
+"parlor floor","GA1G!","246.6!","O","Y"," ","INA/CNV","Âp`µ∫{∞}l∞$ıf≈èoº∫∞","MS",1051
+"living room","GA1G!","246.6!","O","N"," "," ","l±´v±æÓ$ryæuø´m","MS",1051
+"parlor","GA1H!","246.7!","N","N"," "," ","p`ﬁº∫{∞}l∞","MS",1052
+"living room","GA1H!","246.7!","O","N"," "," ","Âl±´æv±æÓ$ıryΩæuøm","MS",1052
+"sitting room","GA1H!","246.7!","O","N"," "," ","Âs±´ætê±æÓ$ıryæuø´m","MS",1052
+"drawing room","GA1H!","246.7!","O","Y","would not call; too formal","HRD","ÂdÚ∑Ω±æÓ$ıryΩæuøm","MS",1052
+"front room","GA2N","N247","O","N"," "," ","ÂfÚ∏ºnt$ıruø∫{w}{m}","MS",1053
+"living room","GA2N","N247","O","Y"," ","HRD","Âl±´v±æn$ruø∫{w}m","MS",1053
+"front room","GA2N","N247","O","N"," "," ","fÚ∏ºnt$ruø∫m","MS",1053
+"parlor","GA2A","247.1","N","N"," "," ","p`µæ¥l¥´æ","MS",1054
+"living room","GA2A","247.1","O","N"," "," ","Âl±æv±æn$ıruø∫m","MS",1054
+"living room","GA2A","247.1","O","N"," "," ","Âl±æv±æn$ıruø∫wm","MS",1054
+"parlor","GA2A","247.1","N","N"," "," ","p`ﬁ∫¥›l¥´","MS",1054
+"parlor","GA2B","247.2","N","Y","old name","OLD","p`µéæ∫¥›Ωlç¥´æ","MS",1055
+"living room","GA2B","247.2","O","Y"," ","NEW","Âl±´v±øºn$ırπ∫{∞}m","MS",1055
+"big house","GA2B","247.2","O","N","as distinct from kitchen"," ","Âb±´æ{∞}g$ıhµ´ºπs","MS",1055
+"sitting room","GA3A","248.1","O","N"," "," ","Âs±tê±øÓ$rπm","MS",1056
+"parlor","GA3A","248.1","N","N"," "," ","p`µæ:l∞","MS",1056
+"rented a room","GA3A","248.1","E","Y"," ","INA","r≤Ωæntê±øΩd$∞$rπm","MS",1056
+"hired a room","GA3A","248.1","E","Y"," ","INA/SUG/OLD","haæ±ø∞d$∞$rπm","MS",1056
+"living room","GA3B","248.2","O","Y"," ","NEW","Âl±´v±øºn$ıruø∫m","MS",1057
+"setting room","GA4N","N249","O","N"," "," ","s≤tn$rπ˛´m","MS",1058
+"rent a room","GA4N","N249","E","Y"," ","INA","r≤nt$∞$rπm","MS",1058
+"sitting room","GA4A","249.1","O","N"," "," ","Âs±Ò±øÓ$ıruø∫m","MS",1059
+"living room","GA4A","249.1","O","N"," "," ","Âl±´{∞}v±øºÓ$ruø∫m","MS",1059
+"parlor","GA4A","249.1","N","Y","""select and secreted¢","OLD","pµæ∞él¥","MS",1059
+"select and secreted","GA4A","249.1","K","Y"," ","INA","s±øÂl≤´{∞}kt$∞n$s±ø´ºÂkrá±∫tê±øºd","MS",1059
+"sitting room","GA4A","249.1","O","N"," "," ","Âs±ΩÒ±øºÓ$ruø∫m","MS",1059
+"room","GA4A","249.1","N","Y"," ","INA/CNV","r¶ºm","MS",1059
+"parlor","GA4B","249.2","N","N"," "," ","pﬁóº∫{∞}l∞","MS",1060
+"sitting room","GA4B","249.2","O","N"," "," ","Âs±øº'tn$ırπºm","MS",1060
+"living room","GA4C!","249.3!","O","N"," "," ","Âl±ø´{∞}v±øºn$ırum","MS",1061
+"parlor","GA4C!","249.3!","N","N","in mother's house"," ","pµ∫{∞}l∞","MS",1061
+"living room","GA4C!","249.3!","O","N"," "," ","Âl±ø´{∞}v±øºn$ıruøº∫{πø}m","MS",1061
+"parlor","GA5A","250.1","N","N"," "," ","pﬁó{∞}l∞","MS",1062
+"living rooms","GA5A","250.1","O","N","nowadays"," ","Âl±´{∞}vÓ$rπî›mz","MS",1062
+"big living room","GA5A","250.1","O","N"," "," ","Âb±´{∞}g$Âl±´{∞}v±øΩÓ$ruøΩm","MS",1062
+"living room","GA5B","250.2","O","N"," "," ","Âl±´{∞}v±øºn$ıruº∫m","MS",1063
+"parlor","GA5C","250.3","N","N"," "," ","p`µæ∫∞l∞","MS",1064
+"sitting rooms","GA5C","250.3","O","N","now"," ","Âs±´æ{∞}tê±øºÓ$ırπº{∞}mz","MS",1064
+"parlor","GA5C","250.3","N","N"," "," ","pﬁîº∫l∞","MS",1064
+"parlors","GA5D!","250.4!","N","N"," "," ","Âpﬁó∫{∞}l∞´z","MS",1065
+"parlor","GA5D!","250.4!","N","N"," "," ","pµ´æ∫{∞}l∞æ","MS",1065
+"parlor","GA5D!","250.4!","N","N"," "," ","p∂∫l∞","MS",1065
+"parlor","GA5E!","250.5!","N","N","only state occasions"," ","pﬁº∫∞l∞","MS",1066
+"living room","GA5E!","250.5!","O","N"," "," ","l±´{∞}v±øºÓ$ıruøΩæ∫{∞}m","MS",1066
+"sitting room","GA5E!","250.5!","O","N","didn't have"," ","Âs±´'tn$ırπø›æm","MS",1066
+"parlor","GA5E!","250.5!","N","N","only state occasions"," ","pµæ∫∞l∞","MS",1066
+"sitting room","GA6A","251.1","O","N"," "," ","Âs±´'tÓ$ruøæm","MS",1067
+"parlor","GA6A","251.1","N","Y","as a boy","OLD","p`µæ∫∞l∞","MS",1067
+"parlor","GA6A","251.1","N","Y","as a boy","OLD","pµ∫∞l∞","MS",1067
+"sitting room","GA6A","251.1","O","N"," "," ","Âs±'tn$ırπø˛æm","MS",1067
+"parlor","GA6B!","251.2!","N","N"," "," ","pµ∫∞l∞","MS",1068
+"sitting rooms","GA6B!","251.2!","O","N","didn't have them"," ","Âs±´tê±øºÓ$ırπø´{∞}mz","MS",1068
+"living room","GA6B!","251.2!","O","Y"," ","NEW","Âl±´{∞}v±øºÓ$ıruø∫m","MS",1068
+"living room","GA6B!","251.2!","O","Y"," ","NEW","Âl±´{∞}v±øºÓ$ıÚuø∫m","MS",1068
+"big house","GA7","256","O","N","= big room"," ","Âb±´{∞}g$ıh·Ωπs","MS",1069
+"big room","GA7","256","O","N"," "," ","Âb±´{∞}g$ıÚπø∫{πø}m","MS",1069
+"big room","GA7","256","O","N"," "," ","Âb±´{∞}g$ıÚuø∫m","MS",1069
+"front room","GA8A","257.1","O","N"," "," ","Âfr•˛æ{n}'{t}$ıruºm","MS",1070
+"sitting room","GA8A","257.1","O","N"," "," ","Âs±´æ'tn$ıruº∫m","MS",1070
+"parlor","GA8A","257.1","N","N"," "," ","p`µæ∫¥l∞é","MS",1070
+"front room","GA8A","257.1","O","N"," "," ","Âfr•˛'{t}$ıruº∫m","MS",1070
+"parlor","GA8B","257.2","N","N"," "," ","Âpµæ∫¥l¥","MS",1071
+"living room","GA8B","257.2","O","N"," "," ","Âl±´{∞}v±øºn$ıruø∫m","MS",1071
+"front room","GA8B","257.2","O","N","small houses"," ","frè∏∫{∞}nt$ıruøæ∫m","MS",1071
+"big house","GA8B","257.2","O","N","main: opposed to kitchen"," ","Âb±´{∞}g$ıhaæ∞ós","MS",1071
+"living room","GA8B","257.2","O","N"," "," ","Âl±v±øÓ$ıruº∫m","MS",1071
+"sitting room","GA9A","257A.1","O","N"," "," ","Âs±'tn$ıruø∫m","MS",1072
+"living room","GA9B","257A.2","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1073
+"parlor","GA10A","258.1","N","N"," "," ","Âpµ´¥lç¥","MS",1074
+"the front room","GA10A","258.1","O","Y"," ","NEW","d∞$Âfr∏˛n{t}$ıru∫m","MS",1074
+"rented a room","GA10A","258.1","E","Y"," ","INA","r≤ntê±øΩd$∞$ruº∫m","MS",1074
+"parlor","GA10B","258.2","N","N"," "," ","Âpµé¥l¥","MS",1075
+"parlor","GA10B","258.2","N","N"," "," ","p`µæ∫¥l¥","MS",1075
+"living room","GA11N","N258A","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1076
+"sitting room","GA11N","N258A","O","N"," "," ","Âs±tê±øºÓ$ıruø{uø´}m","MS",1076
+"front room","GA11N","N258A","O","N"," "," ","fr∏´ºnt$ruø{uø´}m","MS",1076
+"big room","GA11N","N258A","O","N"," "," ","Âb±g$ıruø{uø´}m","MS",1076
+"dens","GA11N","N258A","N","N"," "," ","d±∫{∞}nz","MS",1076
+"living room","GA11N","N258A","O","N"," "," ","ÂliΩv±øÓ$ıruø{uø´}m","MS",1076
+"parlor","GA12A","259.1","N","N","for guests, ministers"," ","p`µéæ¥l¥´æ","MS",1077
+"living room","GA12A","259.1","O","N"," "," ","Âl±v±øÓ$ıruø{uø´}m","MS",1077
+"big house","GA12A","259.1","O","N","house proper: opposed to kitchen,","RN1","Âb±´g$ıh·Ωπs","MS",1077
+"parlor","GA12A","259.1","N","N","for guests, ministers"," ","p`µæ∫¥l¥´æ","MS",1077
+" ","GA12A","259.1"," "," ","slaves' quarters, etc.","RN2"," ","MS",1077
+"living room","GA12B!","259.2(.3)","O","N"," "," ","Âl±v±øn$ıruø›m","MS",1078
+"red room","GA12B!","259.2(.3)","O","N","usual name"," ","r≤d$rπ´m","MS",1078
+"foyer","GA12B!","259.2(.3)","N","Y"," ","INA","Âfoº∞›j∞","MS",1078
+"living room","GA12B!","259.2(.3)","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1078
+"parlor","GA13A","260.1","N","Y","old word as a boy","OLD","p{h}µ∫{∞}l∞","MS",1079
+"sitting room","GA13A","260.1","O","Y"," ","NEW/SIC","s±tn$ro´∫m","MS",1079
+"rented","GA13A","260.1","V","Y"," ","INA","r≤˛ntê±øΩd","MS",1079
+"parlor","GA13B!","260.2!","N","Y","when a boy","OLD","pµ´æ∫¥l¥´æ","MS",1080
+"parlors","GA13B!","260.2!","N","Y","when a boy","OLD","pµ∫l∞é´z","MS",1080
+"living room","GA13B!","260.2!","O","Y"," ","NEW","Âl±´{∞}v±øÓ$ırπºm","MS",1080
+"drawing room","GA13B!","260.2!","O","Y"," ","NEW/HRD","ÂdéÚ∑´∫|±øºÓ$ırπºm","MS",1080
+"living room","GA14A","261.1","O","N"," "," ","Âl±´æv±æn$ıruø∫{w}m","MS",1081
+"sitting room","GA14A","261.1","O","N"," "," ","Âs±´'tn$ıruø∫{w}m","MS",1081
+"parlor","GA14A","261.1","N","N"," "," ","p`µæ∫{∞}l∞´æ","MS",1081
+"parlors","GA14A","261.1","N","N"," "," ","p`ﬁº∫{∞}l∞´ºz","MS",1081
+"sitting room","GA14B","261.3","O","N"," "," ","Âs±´'tn$ıruø˛∫{w˛}m","MS",1082
+"parlor","GA14B","261.3","N","N"," "," ","p`µéæ∫l∞é´æ","MS",1082
+"parlor","GA14B","261.3","N","N"," "," ","p`µæ∫∞él∞é´æ","MS",1082
+"living room","GA14C","261.2","O","N"," "," ","l±´v±øºn$ıruø∫{w}m","MS",1083
+"parlor","GA14C","261.2","N","N"," "," ","p`ﬁº∫{∞}l∞","MS",1083
+"big house","GA14C","261.2","O","N","house proper: opp. to slave qtrs, kitchen"," ","Âb±´g$ıha´æπs","MS",1083
+"living room","GA14C","261.2","O","N"," "," ","l±´v±æn$ıruø∫{w}m","MS",1083
+"parlor","GA15A","262.1","N","N"," "," ","pµ∫{∞}l∞","MS",1084
+"sitting room","GA15A","262.1","O","N"," "," ","s±tê±øΩn$ruøΩ∫m","MS",1084
+"rented","GA15A","262.1","V","Y"," ","INA","r≤{n}{tê}±øΩd","MS",1084
+"living room","GA15B","262.2","O","N"," "," ","Âl±´v±øºn$ıruø˛∫m","MS",1085
+"living room","GA16A","263.2","O","N"," "," ","Âl±´{∞}v±ø˛ºn$ırπ›˛m","MS",1086
+"parlor","GA16A","263.2","N","N","rich people have"," ","p`µæ∫∞l∞´","MS",1086
+"front parlor","GA16B","263.1","O","N"," "," ","Âfrè¶Ω{∞}nt$ıpµ∫{∞}l∞","MS",1087
+"back parlor","GA16B","263.1","O","N"," "," ","Âb·{∞}k$ıpµ∫{∞}l∞","MS",1087
+"summer parlor","GA16B","263.1","O","N"," "," ","Âs¶Ωm∞$ıpµæ∫{∞}l∞","MS",1087
+"sitting room","GA16B","263.1","O","N"," "," ","Âs±´tê±øºÓ$ırπº{∞}m","MS",1087
+"living room","GA16B","263.1","O","N"," "," ","l±´v±øºÓ$rπº{∞}m","MS",1087
+"parlor","GA16B","263.1","N","N"," "," ","p`µ∫{∞}l∞","MS",1087
+"back parlor","GA16B","263.1","O","N"," "," ","b·Ω{∞}k$p`µ∫{∞}l∞","MS",1087
+"living room","GA16C","263.21","O","N"," "," ","Âl±v±øn$ıru›m","MS",1088
+"living room","GA16C","263.21","O","N"," "," ","Âl±v±øn$ıruø›m","MS",1088
+"living room","GA16C","263.21","O","N"," "," ","Âl±æv±øΩÓ$ırπΩ{∞}m","MS",1088
+"parlor","GA16D!","263.3!","N","N","upstairs, 2 on second floor"," ","pﬁ∫l∞","MS",1089
+"parlors","GA16D!","263.3!","N","N","upstairs; 2 on second floor"," ","pµæ{∞}l∞´z","MS",1089
+"living room","GA16D!","263.3!","O","N"," "," ","Âl±´v±øºÓ$rπº{∞}m","MS",1089
+"living room","GA16D!","263.3!","O","N"," "," ","Âl±´v±øºÓ$ırπ∫{∞}m","MS",1089
+"parlors","GA16D!","263.3!","N","N","upstairs; 2 on second floor"," ","p`µæ∫∞l∞´z","MS",1089
+"living room","GA17N","N264","O","N"," "," ","Âl±v±øn$ıruøî{∞}m","MS",1090
+"living room","GA17N","N264","O","N"," "," ","l±v±øn$ruø{uø´}m","MS",1090
+"living room","GA17","264","O","N"," "," ","Âl±v±øºÓ$ıruø{uø´}m","MS",1091
+"living room","GA17","264","O","N"," "," ","Âl±v±øÓ$ıruø{uø´}m","MS",1091
+"living room","GA18A","264A.1","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1092
+"front room","GA18A","264A.1","O","N"," "," ","fr∏´ºnt$ruø{uø´}m","MS",1092
+"living room","GA18A","264A.1","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1092
+"living room","GA18B","264A.2","O","Y"," ","NEW","Âl±v±øn$ıruø{uø´}m","MS",1093
+"front room","GA18B","264A.2","O","Y"," ","OLD","Âfr∏ºnt$ıruø{uø´}m","MS",1093
+"parlor","GA18B","264A.2","N","N","fancier [than living room, front room]"," ","p`µ¥l¥","MS",1093
+"front room","GA18B","264A.2","O","Y"," ","OLD","Âfr∏´ºnt$ıruø{uø´}m","MS",1093
+"living room","GA19A","265.1","O","N","""what we call our'n¢"," ","Âl±´{∞}v±ø›ºn$ıruøº∫m","MS",1094
+"big room","GA19A","265.1","O","N"," "," ","Âb±´{∞}g$ıruøæ∫m","MS",1094
+"fire room","GA19A","265.1","O","N"," "," ","Âfaæ∫¥$ıruøæ∫m","MS",1094
+"big house","GA19A","265.1","O","N","main one: opposed to kitchen"," ","Âb±Ω{∞}g$ıhµ´º∞ós","MS",1094
+"guest room","GA19B","265.2","O","N","always a bed in it"," ","Âgà±Ω{∞}s$ıruøæ∫m","MS",1095
+"parlors","GA19B","265.2","N","N"," "," ","pµéæ∫¥l¥z{zè}","MS",1095
+"living room","GA20A","266.1","O","N"," "," ","l±´v±øºÓ$ıruøº∫m","MS",1096
+"living room","GA20A","266.1","O","N"," "," ","Âl±´{∞}v±øºÓ$ırπº∫{∞}m","MS",1096
+"living room","GA20B","266.2","O","N"," "," ","Âl±´{∞}v±øºn$ıruøæ∫m","MS",1097
+"parlor","GA20B","266.2","N","N"," "," ","Âpµé¥l¥","MS",1097
+"living room","GA21A","267.1","O","N"," "," ","Âl±v±øn$ruø›m","MS",1098
+"living room","GA21A","267.1","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1098
+"sitting room","GA21B","267.2","O","N"," "," ","Âs±´'tn$ıruø∫{w}m","MS",1099
+"big room","GA21B","267.2","O","N"," "," ","Âb±´g$ıráuø∫m","MS",1099
+"living room","GA22A","268A.1","O","N"," "," ","Âl±v±øn$ıruø˛uø˛´m","MS",1100
+"in the house","GA22A","268A.1","Q","Y","opposed to kitchen","INA","±æn$‰∞$Âhaæπs","MS",1100
+"parlor","GA22B","268A.2","N","N"," "," ","pµæ∫∞l∞","MS",1101
+"living room","GA22B","268A.2","O","N"," "," ","Âl±´{∞}v±øºÓ$ırπ´º{∞}m","MS",1101
+"living room","GA22B","268A.2","O","N"," "," ","Âl±´v±øºÓ$ıruΩº{∞}m","MS",1101
+"reception room","GA23A","268.1","O","N","""now¢"," ","r±øÂs≤´{∞}pÛn$ıruøº∫m","MS",1102
+"parlor","GA23A","268.1","N","Y","""long time ago""","OLD","pﬁó∫{∞}l∞","MS",1102
+"living room","GA23B","268.11","O","N"," "," ","Âl±v±øn$ruø{uø´}m","MS",1103
+"living room","GA23B","268.11","O","N"," "," ","Âl±v±øºn$ruø{uø´}m","MS",1103
+"living room","GA23C","268.2","O","N"," "," ","Âl±v±øÓ$ıruø{uø´}m","MS",1104
+"living room","GA23C","268.2","O","N"," "," ","Âl±v±øÓ$ıruø∫{uø´}m","MS",1104
+"parlor","GA23D!","268.3","N","N"," "," ","pµæ∫∞l∞","MS",1105
+"living room","GA23D!","268.3","O","Y"," ","NEW","Âl±´v±øΩÓ$ıruøº∫m","MS",1105
+"sitting room","GA23D!","268.3","O","N"," "," ","Âs±´ætê±øºÓ$ruøº∫m","MS",1105
+"drawing room","GA23D!","268.3","O","N"," "," ","ÂdéÚ∑´∫|±øºÓ$ruøº∫m","MS",1105
+"sitting room","GA23D!","268.3","O","N"," "," ","Âs±´tê±øºÓ$ıruøº∫m","MS",1105
+"living room","GA23E!","268.4!","O","N","new house"," ","Âl±v±øn$ıruø{uø´}m","MS",1106
+"sitting room","GA23E!","268.4!","O","N","in basement"," ","Âs±tê±øÓ$ıruø{uø´}m","MS",1106
+"parlor","GA23E!","268.4!","N","N","in old house"," ","p`ﬁ´∞l∞","MS",1106
+"company room","GA23E!","268.4!","O","N","= parlor"," ","Âk`∏´ºmp∞n±ø´º$ıruø´º{uøº}m","MS",1106
+"sitting room","GA23E!","268.4!","O","N","in basement"," ","ıs±tê±øÓ$Âruøî{uø´}m","MS",1106
+"living room","GA23E!","268.4!","O","N","new house"," ","Âl±v±øÓ$ıruø{uø´}m","MS",1106
+"parlor","GA23E!","268.4!","N","N","in old house"," ","p`µæ{∞}l∞","MS",1106
+"living room","GA23F!","268.5!","O","N"," "," ","Âl±v±øn$ıruø∫m","MS",1107
+"den","GA23F!","268.5!","N","N"," "," ","d±{∞}n","MS",1107
+"parlor","GA23F!","268.5!","N","N"," "," ","p`µ∫{∞}l∞","MS",1107
+"parlor","GA23F!","268.5!","N","N"," "," ","p`ﬁ∫{∞}l∞","MS",1107
+"big rooms","GA24N","N269","O","N"," "," ","Âb±g$ıruø{uø´}mz","MS",1108
+"big room","GA24N","N269","O","N"," "," ","Âb±g$ıruø∫m","MS",1108
+"parlor","GA24A","269.1","N","N"," "," ","p∂º∫{∞é}l∞","MS",1109
+"sitting room","GA24A","269.1","O","N"," "," ","Âs±'tn$ırπøΩæ∫m","MS",1109
+"rented a room","GA24A","269.1","E","Y"," ","INA","r≤{n}{tê}±øΩd$∞$ruøΩæ∫m","MS",1109
+"sitting room","GA24B","269.2","O","N"," "," ","Âs±´'tn$ıruø∫{w}m","MS",1110
+"big room","GA24B","269.2","O","N"," "," ","Âb±´g$ıruø∫{w}m","MS",1110
+"living room","GA24B","269.2","O","N"," ","CNV","Âl±v±øºn$ıruø∫{w}m","MS",1110
+"front room","GA25N","N269A","O","N"," "," ","Âfr∏´ºnt$ıruøæ{uø´æ}m","MS",1111
+"living room","GA26","270A","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1112
+"living room","GA26","270A","O","N"," "," ","Âl±v±øn$ıruø∫m","MS",1112
+"parlor","GA27!","270!","N","N"," "," ","p`ﬁ∫l∞","MS",1113
+"living room","GA27!","270!","O","N","larger [than parlor]"," ","Âl±v±øºn$ıruø{uø´}m","MS",1113
+"sitting room","GA28","271a","O","N"," "," ","Âs±tê±øºÓ$ırπm","MS",1114
+"family living room","GA28","271a","O","N"," "," ","f·ml±ø$Âl±v±øÓ$ıruøΩ{uø}m","MS",1114
+"den","GA28","271a","N","N"," "," ","d≤´{∞}n","MS",1114
+"sitting room","GA28","271a","O","N"," "," ","Âs±tê±øºÓ$ıruø{uø´}m","MS",1114
+"sitting room","GA28","271a","O","N"," "," ","Âs±tê±øºÓ$ırπøæ∫{∞}m","MS",1114
+"sitting room","GA28","271a","O","N"," "," ","Âs±tê±øºÓ$ırπø´{uø}m","MS",1114
+"front room","GA29A","271.1","O","N"," "," ","Âfrè¶Ωnt$ıruø∫m","MS",1115
+"front room","GA29A","271.1","O","N"," "," ","Âfrè¶Ωnt$ıruøº∫m","MS",1115
+"parlor","GA29B","271.2","N","N"," "," ","p`µæ∫∞l∞","MS",1116
+"living room","GA29B","271.2","O","N"," "," ","Âl±´v±øºÓ$ıruø˛∫m","MS",1116
+"front room","GA29B","271.2","O","N"," ","CNV","Âfr¶Ωnt$ıruø˛m","MS",1116
+"living room","GA29B","271.2","O","N"," "," ","Âl±´v±øºÓ$ıruø˛∫{m}","MS",1116
+"parlor","GA30A","272.1(*)","N","N"," "," ","p`µæ∫∞l∞","MS",1117
+"living room","GA30A","272.1(*)","O","N"," "," ","ÂliΩ∫{±ø}v±øºÓ$ırπøæ∫{∞}m","MS",1117
+"family rooms","GA30A","272.1(*)","O","N"," "," ","Âf·{∞}ml±ø´º$ırπøæ∫{∞}mz","MS",1117
+"living room","GA30A","272.1(*)","O","N"," "," ","Âl±´{±ø}v±øºn$ırπøæ∫{∞}m","MS",1117
+"living room","GA30B","272.2(*)","O","N"," "," ","Âl±´{∞}v±øºn$ıruø∫{πø}m","MS",1118
+"parlor","GA30B","272.2(*)","N","N"," "," ","p`µæ∫∞l∞´","MS",1118
+"living room","GA30B","272.2(*)","O","N"," "," ","Âl±´{∞}v±øºn$ıruø{w}m","MS",1118
+"sitting room","GA30C!","272.3!","O","N"," "," ","Âs±tê±øÓ$ıruø∫m","MS",1119
+"music room","GA30C!","272.3!","O","N"," "," ","m{±}uø{uø´}z±øºk$ruø∫m","MS",1119
+"work room","GA30C!","272.3!","O","Y"," ","INA","Âw≥æ±øk$ıruø{uø´}m","MS",1119
+"sitting room","GA30C!","272.3!","O","N"," "," ","Âs±tê±øÓ$ıruø{uø´}m","MS",1119
+"parlor","GA30D"," ","N","N","don't let anybody sleep in parlor"," ","p`ﬁº{∞}l∞","MS",1120
+"living room","GA30D"," ","O","N"," "," ","Âl±´{∞}v±øºn$ıruø∫{πø}m","MS",1120
+"parlor","GA30D"," ","N","N","don't let anybody sleep in parlor"," ","p`µæ∫∞l∞","MS",1120
+"living room","GA30D"," ","O","N"," "," ","Âl±´{∞}v±øæn$ıruø∫wm","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"living room","GA31","272A","O","N"," "," ","Âl±v±øºn$ırπø{uø´}m","MS",1122
+"living room","GA31","272A","O","N"," "," ","Âl±∫v±øºÓ$ıruøΩ{uø}m","MS",1122
+"big house","GA32","272B","O","N","main portion: opposed to kitchen"," ","Âb±g$ıh·Ωπs","MS",1123
+"living room","GA32","272B","O","N"," "," ","Âl±´v±øn$ıruø{uø´}m","MS",1123
+"den","GA32","272B","N","N"," "," ","d≤∫n","MS",1123
+"living room","GA32","272B","O","N"," "," ","Âl±vÌ$ıruø{uø´}m","MS",1123
+"den","GA33A","272C1","N","N"," "," ","d±∫{±ø}n","MS",1124
+"living room","GA33A","272C1","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1124
+"family room","GA33A","272C1","O","N"," "," ","Âf·ml±ø$ıruø{uø´}m","MS",1124
+"den","GA33B","272C2","N","N"," "," ","d±{∞}n","MS",1125
+"living room","GA33B","272C2","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1125
+"parlor","GA34N","N273","N","N"," "," ","p`µæ∫{∞}l∞","MS",1126
+"living room","GA34N","N273","O","N","later name [than `parlor']","SIC","Âl±´v±øºn$ıruø˛´","MS",1126
+"sitting room","GA34A","273.1","O","N"," "," ","s±Án$ruø´∫m","MS",1127
+"rented a room","GA34A","273.1","E","Y"," ","INA","r≤{n}{tê}±øΩd$∞$ruøΩ∫m","MS",1127
+"living room","GA34B","273.2","O","N"," "," ","Âl±´v±øºn$ıruø∫m","MS",1128
+"parlor","GA34B","273.2","N","Y"," ","OLD","p`µæ∫∞l∞","MS",1128
+"living room","GA34B","273.2","O","N"," "," ","Âl±´v±øºn$ıruø∫wm","MS",1128
+"living room","GA35N","N273A","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1129
+"den place","GA35N","N273A","O","N"," "," ","Âd±∫{∞}n$ıple{±ø}s","MS",1129
+"living room","GA36N","N274A","O","N"," "," ","Âl±v±øn$ıruøæ{uø´æ}m","MS",1130
+"living room","GA37N","2N274","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1131
+"living room","GA37M!","NC274","O","N"," "," ","Âl±v±øÓ$ıruΩºuºm","MS",1132
+"den","GA37M!","NC274","N","N"," "," ","d≤´∫{∞}n","MS",1132
+"living room","GA37M!","NC274","O","N"," "," ","Âl±v±øÓ$ıruº{∞}m","MS",1132
+"living room","GA37M!","NC274","O","N"," "," ","Âl±v±øÓ$ırπºm","MS",1132
+"setting room","GA37A","274.1","O","N"," "," ","Âs≤´'tn$ıruø∫{w}m","MS",1133
+"living room","GA37A","274.1","O","Y"," ","NEW","Âl±´v±øºn$ıruø∫{w}m","MS",1133
+"living room","GA37B","274.2","O","N"," "," ","Âl±´v±æn$ıruø∫wm","MS",1134
+"parlor","GA37B","274.2","N","Y","only for important occasions","AMS","p`µæ∫∞l∞","MS",1134
+"living room","GA37B","274.2","O","N"," "," ","Âl±´v±æn$ıruø∫{w}m","MS",1134
+"NR","GA37C","274.21"," ","N"," "," "," ","MS",1135
+"living room","GA37D!","274.7!","O","N"," "," ","Âl±v±øÓ$ıruø{uø´}m","MS",1136
+"parlor","GA37D!","274.7!","N","N"," "," ","p`µæ∞l∞","MS",1136
+"living room","GA37D!","274.7!","O","N"," "," ","Âl±v±øn$ıruø{uø´}m","MS",1136
+"living room","GA37D!","274.7!","O","N"," "," ","Âl±v±øÓ$ırπ´ºm","MS",1136
+"living room","GA37D!","274.7!","O","N"," "," ","Âl±v±øÓ$ıruøæ∫{uø´æ}m","MS",1136
+"living room","GA37E!","274.8!","O","Y"," ","NEW","Âl±v±øºÓ$ıruø{uø´}m","MS",1137
+"sitting room","GA37E!","274.8!","O","N"," "," ","Âs±tê±øn$ruø{uø´}m","MS",1137
+"parlor","GA37E!","274.8!","N","Y"," ","OLD","p`µæ∫l∞","MS",1137
+"front room","GA37F!","274.3!","O","N"," ","CNV","Âfrè¶Ωnt$ıruø∫{w}m","MS",1138
+"living room","GA37F!","274.3!","O","N"," "," ","Âl±´v±øºn$ıruø∫{w}m","MS",1138
+"parlor","GA37F!","274.3!","N","N"," "," ","pﬁl∞æ","MS",1138
+"parlor","GA37F!","274.3!","N","N"," "," ","pﬁ∫l∞","MS",1138
+"parlor","GA37F!","274.3!","N","N"," ","CNV","p`µæl∞","MS",1138
+"parlor","GA37G!","274.4!","N","N"," "," ","p`µæ∞él¥","MS",1139
+"living room","GA37G!","274.4!","O","N"," "," ","Âl±´v±øºÓ$ıruøº∫wm","MS",1139
+"parlor","GA37G!","274.4!","N","N"," "," ","p`µæ∫¥l¥´","MS",1139
+"parlor","GA37G!","274.4!","N","N"," "," ","p`µæ∫∞l∞","MS",1139
+"sitting room","GA37H!","274.5!","O","N"," "," ","Âs±´tê±øºÓ$ırπøº{∞}m","MS",1140
+"living room","GA37H!","274.5!","O","N"," "," ","Âl±´v±øºÓ$ırπº{∞}m","MS",1140
+"parlor","GA37H!","274.5!","N","N"," "," ","p`µæ∫{∞}l∞","MS",1140
+"sitting room","GA37H!","274.5!","O","N"," "," ","Âs±´Ò±øºÓ$ırπº{∞}m","MS",1140
+"parlor","GA37H!","274.5!","N","N"," "," ","p`µ∫{∞}l∞","MS",1140
+"living room","GA37I!","274.6!","O","N"," "," ","Âl±v±øÓ$ıruø{uø´}m","MS",1141
+"drawing room","GA37I!","274.6!","O","N"," "," ","ÂdéÚ∑Ω{∑}±øÓ$ıruø{uø´}m","MS",1141
+"setting room","GA38","275","O","N"," "," ","Âs≤´'tn$ruø∫{uø´}m","MS",1142
+"living room","GA39","275A","O","N"," "," ","Âl±v±øºn$ıruø{uø´}m","MS",1143
+"television room","GA39","275A","O","N"," "," ","Ât≤l∞ıv±˙∞n$ıruø{uø´}m","MS",1143
+"parlor","GA39","275A","N","Y"," ","OLD","p`ﬁº∫∞él∞","MS",1143
+"parlor","GA39","275A","N","Y"," ","OLD","p`µæ∫l∞","MS",1143
+"living room","GA40","276A","O","N"," "," ","Âl±v±øºn$ıruøæ∫m","MS",1144
+"big house","GA41","276B","O","N"," "," ","ÂbiΩg$ıh·Ωos","MS",1145
+"living room","GA41","276B","O","Y"," ","NEW","Âl±v±øn$ıruøæm","MS",1145
+"living room","GA41","276B","O","Y"," ","NEW/CNV","Âl±v±øn$ıruøΩm","MS",1145
+"big house","GA41","276B","O","N"," "," ","ıb±´g$Âh·Ωπºs","MS",1145
+"big room","GA42A","276.1","O","N"," "," ","Âb±´g$ıruø∫{w}m","MS",1146
+"living room","GA42A","276.1","O","N"," "," ","Âl±´v±øºn$ıruøº∫wàm","MS",1146
+"living room","GA42A","276.1","O","N"," "," ","Âl±´v±øºÓ$ıruøº∫wm","MS",1146
+"big house","GA42A","276.1","O","Y","""we called the big bedroom on the N. side¢","INA","Âb±´g$ıh·oºs","MS",1146
+"living room","GA42B","276.2","O","N"," "," ","Âl±´v±øºn$ıruø∫{w}m","MS",1147
+"house","GA42B","276.2","N","N","= main room"," ","Âh·´o´s","MS",1147
+"hired","GA43","277","V","Y"," ","INA","haæ∫{≤æ}¥d","MS",1148
+"rented a room","GA43","277","E","Y"," ","INA","r≤{n}{tê}±ø›Ωd$∞$ruøΩ∫m","MS",1148
+"sitting room","GA43","277","O","N"," "," ","Âs±Án$ıruøΩæ∫m","MS",1148
+"setting room","GA44A","278.1","O","N"," "," ","Âs≤´'tn$ıruø∫{w}m","MS",1149
+"big house","GA44B","278.2","O","N"," "," ","Âb±´g$ıh·Ωos","MS",1150
+"house","GA44C","278.3","N","N","big downstairs room"," ","Âh·∞ós","MS",1151
+"big house","GA44C","278.3","O","N","after kitchen built"," ","Âb±g$ıh·os","MS",1151
+"bedroom","GA44D","278.4","N","Y"," ","INA","Âb≤´dıruø∫m","MS",1152
+"living rooms","GA44D","278.4","O","Y"," ","NEW","Âl±´v±øn$ıruø˛∫{m}z","MS",1152
+"setting room","GA44D","278.4","O","N"," "," ","Âs≤´'tn$ıruø˛∫m","MS",1152
+"living room","GA44E","278.5","O","N"," "," ","Âl±v±øn$ıruøm","MS",1153
+"sitting room","FL1","252","O","N"," "," ","Âs±´tn$ırπº{∞}m","MS",1154
+"living room","FL2A","253.1","O","N"," "," ","Âl±´v±øºn$ırπº{∞}m","MS",1155
+"living room","FL2A","253.1","O","N"," "," ","Âl±´v±øºn$ır∏ó´º{∞}m","MS",1155
+"family room","FL2B","253.2","O","N","in our house, a large area; may include kitchen"," ","Âf·ml±ø$ıruø{uø´}m","MS",1156
+"living room","FL2B","253.2","O","N"," "," ","Âl±v±øn$ırπø´æm","MS",1156
+"living room","FL2B","253.2","O","N"," "," ","Âl±´v±øÓ$ıruø∫m","MS",1156
+"living room","FL2B","253.2","O","N"," "," ","Âl±v±øÓ$ıruø∫m","MS",1156
+"living room","FL2B","253.2","O","N"," "," ","Âliæv±øÓ$ırπø´æm","MS",1156
+"front room","FL2C!","253.3!","O","N"," "," ","ıfrè∏´{∞}nt$Ârπº{∞}m","MS",1157
+"family living room","FL2C!","253.3!","O","N"," "," ","Âf·{∞}ml±ø´º$Âl±´v±øºÓ$ırπº{∞}m","MS",1157
+"parlor","FL2C!","253.3!","N","N"," "," ","p`µæ∫{∞}l∞´","MS",1157
+"parlor","FL2C!","253.3!","N","N"," "," ","p`µ∫{∞}l∞","MS",1157
+"living rooms","FL2C!","253.3!","O","N"," "," ","Âl±´v±øºÓ$ırπº{∞}mz","MS",1157
+"company room","FL2C!","253.3!","O","N"," "," ","Âk`∏´{∞}mpn±ø´º$ırπ´º{∞}m","MS",1157
+"parlor","FL3A","254.1","N","N"," "," ","p`µ∫{∞}l∞","MS",1158
+"parlor","FL3A","254.1","N","N"," "," ","p`µæ∫{∞}l∞","MS",1158
+"living room","FL3A","254.1","O","N"," "," ","Âl±´{∞}v±øΩn$ırπº{∞}m","MS",1158
+"sitting room","FL3B!","254.2!","O","N"," "," ","Âs±tê±øºÓ$ırπºm","MS",1159
+"parlor","FL3B!","254.2!","N","N"," "," ","p`µ∫{∞}l∞","MS",1159
+"sewing room","FL3B!","254.2!","O","Y"," ","INA","Âsoº∫±øºÓ$ırπºm","MS",1159
+"parlor","FL3B!","254.2!","N","N"," "," ","p`µæl∞","MS",1159
+"living room","FL3B!","254.2!","O","Y"," ","NEW","Âl±´v±øºÓ$ırπºm","MS",1159
+"living room","FL4","254A","O","N"," "," ","Âl±v±øn$ruø´m","MS",1160
+"front room","FL4","254A","O","Y"," ","SUG/OLD","Âfr∏´ºnt$ırπø´uøm","MS",1160
+"parlor","FL5A","255.1","N","N"," ","CNV","Âpﬁ∫{∞}l∞","MS",1161
+"parlor","FL5A","255.1","N","N"," ","CNV","p`ﬁ∫{∞}l∞","MS",1161
+"parlor matches","FL5A","255.1","O","Y","the big ones","INA","p`ﬁ∫{∞}l∞$m·tÛ±øz","MS",1161
+"parlors","FL5B","255.2","N","N","""not much these days¢"," ","p`ﬁ∫{∞}l∞´z","MS",1162
+"living room","FL5B","255.2","O","N"," "," ","Âl±v±øºn$rm","MS",1162
+"living room","FL5B","255.2","O","N"," "," ","Âl±´{∞}v±øºn$r¶º{∞}m","MS",1162
+"parlor","FL5B","255.2","N","N","""not much these days¢"," ","p`µæ{∞}l∞æ","MS",1162
+"","","","","","","","","",

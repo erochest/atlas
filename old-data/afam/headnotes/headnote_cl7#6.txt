@@ -1,0 +1,24 @@
+living room (cl7#6.asc)
+
+Items
+=====
+                          big house    1
+                       chamber room    1
+                        dining room    1
+                       drawing room    1
+                          fire room    1
+                         front room   14
+                        living room    8
+                                 NR   13
+                             parlor   18
+                        parlor room    2
+      parlor, but we don't got that    1
+                          parsonage    1
+                            quarter    1
+                       setting room   27
+                       sitting room    9
+                        social room    1
+          some call them the parlor    1
+                           the hall    1
+                           the room    1
+

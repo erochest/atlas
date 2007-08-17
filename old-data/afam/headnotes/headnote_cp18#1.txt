@@ -1,0 +1,97 @@
+wash the dishes (cp18#1.asc)
+
+Items
+=====
+                          boil them    1
+                           dish pan    1
+                             dishes    1
+                      do the dishes    2
+                  I wash the dishes    1
+                                 NR    2
+                             pullis    1
+                               wash    3
+                        wash dishes    4
+                            wash it    1
+                    wash my clothes    1
+                     wash my dishes    1
+                           wash pan    1
+                    wash the dishes   37
+                          wash them    2
+                    wash them plate    1
+                       wash them up    1
+                 wash up the dishes    9
+                   wash your dishes    1
+                     washed them up    1
+                            washing    1
+                        washing off    1
+                 washing the dishes    1
+                    washing them up    1
+
+Pronunciations
+==============
+                              wa±¿ó    1
+                            wµ{±¿}ó    1
+                           wµ«{±¿}ó    1
+                           wµ«¾{°}ó    1
+                              wµ«¾ó    3
+                               wµ«ó    2
+                            wµº{°}ó    1
+                           wµº{±¿}ó    1
+                              wµ¼ºó    1
+                               wµ¼ó    1
+                               wµ¾ó    3
+                            wµ¾ó°«n    2
+                                wµó   18
+                           w¶{°}ón–    1
+                        w¶”«¼{±¿½}ó    1
+                               w¶¼ó    3
+                                w¶ó    6
+                           w·½º{°}ó    1
+                              w·½¼ó    1
+                            wÞ•{°}ó    1
+                           wÞ«¼{°}ó    1
+                              wÞ«¼ó    1
+                               wÞ¼ó    1
+                            åwµ{°}ó    1
+                           åwµ¾ó±¿n    1
+                               åwµó    3
+                              åw¶”ó    1
+                           åw¶¾{°}ó    1
+                           åwÞ¼{°}ó    1
+                               åwÞó    4
+                               õwaó    1
+                           õwµ¾{°}ó    1
+                               õwµó    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

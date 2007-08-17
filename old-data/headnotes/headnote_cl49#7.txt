@@ -1,0 +1,111 @@
+I don't care for any (cl49#7.asc)
+
+Items
+=====
+                               care    1
+                       care for any    1
+        didn't care anything for it    1
+                 didn't care for it    1
+                 don't care for any    1
+                      don't like it    1
+                    don't want none    1
+       I ain't feel like it no more    1
+                  I ain't want none    1
+             I didn't wish any more    1
+           I didn't wish any, ma'am    1
+                       I don't care    1
+               I don't care for any   13
+          I don't care for any more    1
+             I don't choose for any    1
+                  I don't choose it    1
+                   I don't eat rice    1
+                   I don't eat that    1
+                  I don't eats that    1
+              I don't feel like any    1
+                    I don't like it    2
+                I don't relish this    1
+                   I don't want any    2
+                    I don't want it    1
+                  I don't want none    1
+                   I don't wish any    7
+              I don't wish any more    5
+               I don't wish no more    1
+                       I got plenty    3
+                      I have enough    2
+                      I have plenty    1
+          I never did care for meat    1
+            I wouldn't care for any    1
+              I wouldn't choose any   10
+             I wouldn't choose none    1
+           I wouldn't wish any more    1
+             I'm don't care for any    1
+                     No I thank you    1
+                       no thank you    8
+                          no thanks    3
+               No, I got plenty now    1
+                                 NR    8
+           Thank you, I have enough    1
+             Well, I don't wish any    1
+              wouldn't care for any    2
+                wouldn't choose any    1
+
+Pronunciations
+==============
+                             c‡`e«°    1
+                           k[i¾½]°½   1
+                            k[±¿«]°    1
+                                ke°   1
+                               ke½°   1
+                                ki°   1
+                         kˆ[j]`á«º°    1
+                           kˆ[±]²«°    1
+                            kˆ`±½º°    1
+                               kˆ²«    1
+                               kˆ²°    1
+                              kˆ²º´    1
+                              kˆ²½°    1
+                            kˆ¼²«º°    1
+                               k±«°   1
+                               k±¿´    1
+                              k²{°}   1
+                               k²«°   1
+                                k²´   1
+                                k²¾   1
+                             åk[±]°   1
+                              åke½°   1
+                              åki°¾   1
+                              åk²º°   1
+                               åká°   1
+
+
+
+
+L: If you decide not to eat something, you say, "I don't _____."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+	
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 49#7, there are no inappropriate responses.
+
+	Darwin:
+		
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 49 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+49#P		49#5
+49#P		49#3
+49#1		49#1
+49#2		49#2
+49#3		49#4a,b
+49#4		49#6
+49#5		49#7
+49#6
+49#7		49#8a,b

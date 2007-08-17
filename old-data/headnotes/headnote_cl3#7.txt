@@ -1,0 +1,73 @@
+Sunday week (cl3#7.asc)
+
+Items
+=====
+                             a week    1
+            a week from next Sunday    1
+                        next Sunday    3
+                   next Sunday week    2
+                  next Tuesday week    1
+                   next week Friday    2
+                   next week Monday    2
+                 next week Saturday    1
+                   next week Sunday    4
+                  next week Tuesday    2
+                next week Wednesday    2
+                                 NR   18
+                       Sunday  week    1
+                      Sunday a week    2
+                  Sunday after next    9
+           Sunday after this coming    1
+               Sunday coming a week    1
+                        Sunday next    2
+                        Sunday week   19
+               the following Sunday    1
+                    the next Sunday    2
+                          two weeks    1
+                     Wednesday week    1
+                               week    1
+
+
+Is he coming)   /record equivalents/
+M:  He's going to leave next Sunday;  a week beyond Sunday would be what?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The field worker recorded this expression and its equivalents in contexts like "He is coming Sunday a week". Note that many informants use the phrase "Sunday (a) week" also in contexts like "He was here Sunday a week".  McDavid sometimes recorded another day of the week than Sunday.
+
+Notes from University of Georgia Atlas staff (1998-2000): 
+
+	Johnson:
+
+The referent of the expressions in this file is unclear for McDavid's fieldwork.  It may be assumed that Lowman only recorded phrases for the Sunday a week after the next Sunday, but the proliferation of responses recorded by McDavid, including "next Sunday," etc., indicate that he recorded any phrase referring to future time without noting its specific referent in most cases (although some comments like "= next Sunday" and "not the same as 'Sunday week'¢ are an attempt to clarify).  Thus many responses other than the target response are left as appropriate.
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 3#7, "a week" is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 3 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+		3#1 (no question)
+		3#2 (no question)
+3#1 X		
+3#2		3#3
+3#3		3#4
+3#4		3#5
+		3#6 (no question)
+3#5		3#7
+3#6		
+3#7		4#1
+3#8		
+

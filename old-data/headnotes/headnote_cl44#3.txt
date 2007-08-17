@@ -1,0 +1,69 @@
+wheat bread (cl44#3.asc)
+
+Items
+=====
+                          *** flour    1
+                        baker bread    1
+                       bakers bread    1
+                              bread   14
+                         corn bread    2
+                           crackers    1
+                      dog *** bread    1
+                      English flour    1
+                        flour bread    2
+                        flour dread    1
+                       graham bread    1
+                     homemade bread    1
+                        light bread   37
+                         light loaf    2
+                         loaf bread   31
+                              loafs    1
+                                 NR    1
+                      oatmeal bread    1
+                              pones    1
+                          rye bread    2
+                  self rising bread    1
+                          wasp nest   10
+                    wasp nest bread    2
+                        wasp's nest    2
+                         wasps nest    1
+                  wasps' nest bread    1
+                        wheat bread    6
+                        wheat flour    1
+                  wheat flour bread    1
+                        white bread    6
+                  whole wheat bread    1
+                        yeast bread    1
+
+
+
+
+L: What is made of flour baked in loaves?  When it is made to rise with 	yeast, you call it _____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 44#3, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 44 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+44#P
+44#P
+44#1		44#1
+44#2		44#2
+44#3		44#3
+44#4		44#4
+44#5		44#5
+44#6		44#6
+44#7		44#7, 44#8

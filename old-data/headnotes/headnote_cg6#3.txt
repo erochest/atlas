@@ -1,0 +1,77 @@
+blew hard (cg6#3.asc)
+
+Items
+=====
+                   been blowed down    1
+                               blew    6
+                      blew and blew    1
+                           blew bad    1
+                          blew down    1
+                          blew hard    1
+                     blew up breeze    1
+                             blewed    1
+                               blow    1
+                      blow and blow    1
+                             blowed    8
+                   blowed all night    1
+                  blowed and blowed   14
+                         blowed off    1
+                          blowed up    2
+                              blown    1
+                              blows    1
+                           did blew    1
+                               gust    1
+                          have blew    1
+                          hurricane    1
+                     it blowed hard    1
+         lightning strike pine tree    1
+                                 NR    8
+                      the wind blow   11
+                 the wind blow hard    5
+    the wind blow well this morning    1
+                     the wind sharp    1
+        the wind was high yesterday    1
+                        was blowing    1
+  we had a terrible blow last night    1
+    when wind blow hard it's a gale    1
+                wind blow the house    1
+                   wind have blowed    1
+
+
+it)
+
+L:  The rain poured and the wind ____ hard.
+M:  I just got some clothes hung up on the line when the wind came along and ____.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 6#3, "lightning strike pine tree" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 6, of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+		 
+Handbook	Preliminary Worksheets
+----------------------------------
+6#P
+6#P		6#5
+6#1		6#1
+6#2		6#2
+6#3		6#3
+		6#4 (no question)
+6#4		
+6#5a		
+6#5b
+6#6a
+6#6b
+6#7		
+6#8		6#6
+6#9		6#7

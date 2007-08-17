@@ -1,0 +1,64 @@
+draining (cl30#1.asc)
+
+Items
+=====
+                              ditch    2
+                           ditch it    3
+                              drain   13
+                           drain it    5
+                       drain it off    1
+                     drain the land    4
+                    drain the marsh    1
+                drain the water off    1
+                         drain them    1
+                            drained    2
+                        drained out    1
+                           draining   31
+                               draw    1
+                                 NR    2
+                     they drain 'em    2
+        they drain 'em with a canal    1
+               they drain the marsh    4
+                    they drain them    1
+            they draining the marsh    2
+          they's draining the swamp    1
+you can drain a swamp by digging a canal or a ditch    1
+            you can drain the marsh    2
+     you drain a swamp with a canal    1
+
+
+
+
+L: If they are getting water off the marshes, you say they are _____.
+M: Now suppose you had land, a bit swampy, and you wanted to put it to 	cultivation.  What would you do to the land to get the water off?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 30#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 30 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+30#P		30#4		
+30#P		30#4
+30#1		30#1
+30#2
+30#3		30#2
+		30#3 (no question)
+30#4		30#5
+30#5a		30#6
+30#5b		30#6
+30#5c
+		30#7
+31#P		30#8

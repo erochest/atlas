@@ -1,0 +1,82 @@
+yoke of oxen (cg33#6.asc)
+
+Items
+=====
+                     a double draft    1
+                               a ox    1
+                             a oxen    2
+                   a pair of horses    1
+                    a pair of mules    1
+                     a yoke of oxen    1
+                            an oxen    1
+                               cart    1
+                               cows    1
+                      double string    1
+                  double yoke of ox    1
+              double yoke of steers    1
+                               mule    1
+                                 NR   14
+                                 ox    2
+                               oxen    1
+                              oxens    1
+                               pair    4
+                      pair of mules    2
+                       pair of oxen    1
+                      pair of oxens    3
+                       pair of oxes    1
+                             steers    1
+                               team    4
+                      team of mules    1
+                       team of oxen    1
+                     two yoke of ox   11
+                   two yoke of oxen    7
+  When you broke a steer he's an ox    1
+                               yoke    1
+                         yoke of ox    2
+                       yoke of oxen    8
+                      yoke of oxens    5
+                       yoke of oxes    2
+                     yoke of steers    3
+                              yokes    1
+                      yokes of oxen    1
+
+
+
+
+L: The ones you drive carts with. If you had four of them you would say you 	were driving two _____ of oxen.
+M: In our grandfather's time what kinds of animals were used to pull heavy 	loads besides horses?  Some work animals resembled bulls and they were called _____.  Some resembled horses and they were called _____.  Two hitched together would be a _____; four harnessed together would be called two _____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+		A number of informants use the inflected forms of "yoke" and "pair" in this context.  Some informants drop off the "of."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 33#6, "pair of mules" and "a pair of horses" are inappropriate.  Marginalia is inappropriate as well.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 33 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+33#P		
+33#1a		33#1
+33#1b		
+33#2		33#2
+33#3		33#3
+33#4		33#4
+33#5		33#5
+33#6		33#6
+33#7		33#7
+33#8		33#8

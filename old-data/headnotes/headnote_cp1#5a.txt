@@ -1,0 +1,53 @@
+nine (cp1#5a.asc)
+
+Items
+=====
+                               nine   45
+                                 NR   20
+
+
+L:  I want you to do some counting for me.  What is the first number?  Next?  Next?
+M:  Count from one to twenty slowly.
+
+Notes on target items and data collection procedures:
+
+	R. McDavid: 
+
+Although this list comes from page 1 in the worksheet, the field workers generally asked for the item near the end of the interview.  It was usually Lowman's practice to elicit numbers by asking the informants to count slowly.  McDavid, on the other hand, recorded a great many of the numerals during the interview and from general conversation with the result that his records have numerous conversational forms and often several variant pronunciations from the same informant.
+
+The Atlas includes a number of lists in which numerals were an integral part of the responses, such as weight, weights and measure, time, go, distance and so forth.  Except when there was no response for the lists of this section those numerals have not been used here but have been retained where elicited.   
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 1#5a,
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 1 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+1#1a		1#1a
+1#1b		1#1b
+1#2a		1#1c
+1#2b		1#1d
+1#3a		1#2a
+1#3b		1#2b
+1#4a		1#2c
+1#4b		1#2d
+1#5a		1#3a
+1#5b		1#3b
+1#6a 		1#3c
+1#6b		1#3d
+1#7a		1#4a
+1#7b		1#4b
+1#8a		1#4c
+1#8b		1#4d

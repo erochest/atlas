@@ -1,0 +1,61 @@
+cloudburst (cl6#1.asc)
+
+Items
+=====
+                                big    1
+                           big rain    8
+                    bottom drop out    2
+                         cloudburst    8
+                      cloudbursters    1
+                            cyclone    1
+                         death rain    1
+                       death shower    1
+                          down pour    4
+                           downfall    1
+                           downpour    4
+                       flash shower    2
+                              flood    3
+                         floodering    1
+                       gully washer    8
+             hard falling down rain    1
+                     hard mild rain    1
+                          hard rain    5
+                        hard shower    7
+                         heavy rain    9
+                       heavy shower    5
+                      heavy weather    2
+heavy weather that make up and go over kind of quick    1
+             it rain down craw fish    1
+           it rain down poggy-woggy    1
+                       it rain hard    1
+                 it rain hard today    1
+                  it rain very hard    1
+                   it's a hard rain    1
+                         large rain    1
+                                 NR    8
+                          pour down    4
+                     pour down rain    1
+                               rain    1
+                     rain pour down    1
+                         rain storm    1
+                    real heavy rain    1
+                             shower    7
+                     shower of rain    1
+                            showers    1
+                               soak    1
+                             squall    3
+                          squash up    1
+                              storm    1
+    the cloud look like it's bustin    1
+                      thundersquall    1
+                            tornado    1
+                        trash mover    1
+                        trash piler    1
+                   very hard shower    1
+                            wash up    1
+                       washing rain    1
+                            washout    1
+            we had a big floodering    1
+                we had a big shower    1
+                   we have a shower    1
+

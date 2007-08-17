@@ -1,0 +1,20 @@
+night (cl2#6.asc)
+
+Items
+=====
+                         after dark    1
+               after twelve o'clock    1
+                          breakfast    1
+                               dark    3
+                            evening   13
+                         first dark    2
+                       good evening    3
+                         good night    2
+                              night   39
+                                 NR   18
+                            sundown    1
+
+Pronunciations
+==============
+                                  "    1
+

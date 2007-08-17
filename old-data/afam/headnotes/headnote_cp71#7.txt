@@ -1,0 +1,100 @@
+teeth (cp71#7.asc)
+
+Items
+=====
+                        false teeth    1
+                          her teeth    1
+                                 NR   35
+                          one teeth    1
+                              teeth   35
+                         teeth ache    1
+                             teeths    1
+                              tooth   23
+                             tooths    1
+
+Pronunciations
+==============
+                              t`i:ù    1
+                        t`i[i«][±]ù    1
+                           t`i[i«]f    2
+                           t`i[±«]ù    1
+                             t`ii«f    1
+                           t`iº[i]ù    1
+                          t`iº[i«]f    1
+                          t`iº[i«]ù    1
+                       t`iº[±«]ù±¿z    1
+                          t`iº[±¿]ù    1
+                              t`iºf    1
+                             t`iºjù    1
+                             t`iºt‘    3
+                              t`iºù    3
+                             t`iºù‘    1
+                             t`iºù“    1
+                               t`iù    1
+                           t`u¼½u¼ù    1
+                              t`u¼ù    1
+                          t`u¿º[w]ù    1
+                         t`u¿º[¹¿]ù    1
+                    t`u¿ºwù±¿¼z[z]    1
+                             t`u¿ºù    1
+                        t`u¿¼º[¹¿]ù    1
+                            t`u¿¼ºù    1
+                          t`u¿¾u«¼f    1
+                         t`u¿¾u¿¾«ù    1
+                            t`±[i]ù    1
+                           t`¹¿[u¿]    1
+                            t`¹¿u¿ù    1
+                         t`¹¿º[w]t‘    1
+                          t`¹¿º¹¿«ù    1
+                            ti[i«]ù    1
+                              ti«ºù    1
+                               ti«ù    2
+                           tiº[±«]f    1
+                             tiº[æ]    1
+                               tiºù    3
+                             ti¾½ºù    1
+                                tiù    5
+                               tuf•    1
+                               tu¼f    1
+                            tu¼º[F]    1
+                              tu¼ºæ    1
+                           tu¼½º[ù]    1
+                              tu¼½ù    1
+                               tu¼ù    2
+                                tuù    1
+                               t±iù    1
+                             t±Œ«iù    1
+                         t¹¿Œ½[u¼]ù    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

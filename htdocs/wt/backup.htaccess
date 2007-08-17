@@ -1,0 +1,3 @@
+#Action wt-handler /lap/cgi-bin/wt.py
+Action wt-handler /lap/cgi-bin/wt.fpy
+SetHandler wt-handler

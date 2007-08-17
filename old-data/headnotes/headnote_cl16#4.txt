@@ -1,0 +1,78 @@
+rail fence (cl16#4.asc)
+
+Items
+=====
+                        bottom rail    1
+                     cross and pile    1
+                           ditch in    1
+                              fence    4
+                      fence railing    1
+                         fence worm    1
+                          log fence    1
+                          lot fence    1
+                                 NR    7
+                          old farmy    1
+                        panel fence    1
+                       picket fence    1
+                              posts    1
+                         rack fence    1
+                         rail fence   46
+                        rail fences    7
+                              rails    1
+                         slab fence    1
+                        snake fence    1
+                    split log fence    1
+                    stake-and-rided    1
+                    stake-and-rider    2
+                             stakes    1
+                      ten foot long    1
+                      ten rail high    1
+       that don't use down here now    1
+                         three inch    1
+                       wattle fence    2
+      we used to call it worm fence    1
+                        wood paling    1
+                               worm    1
+                         worm fence   15
+                          worm rail    4
+                            zig zag    1
+
+
+
+
+L: What would you call the kind of fence made of split rails laid in a zig-zag 	fashion?
+M: What kind of fence did you have around your field?
+P: And then what did you call the extension you might build above the top rail 	to save lumber while keeping the fence high enough to hold in the big 		animals?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+Terms for rails laid in a zigzag fashion include "worm fence" and "snake fence." All these compounds have level stress.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 16#4, "that don't use down here now" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 16 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+16#P		16#8
+16#P		16#3
+16#1		16#1
+16#2		16#2
+16#3		16#4
+16#4		16#5
+16#5		16#6
+16#6		16#7

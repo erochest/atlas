@@ -1,0 +1,25 @@
+backlog (cl8#5.asc)
+
+Items
+=====
+                         back chunk    1
+                           back log    5
+                         back piece    1
+                         back stick    6
+                          back wood    2
+                            backlog   37
+                           backwood    1
+                              chunk    3
+                             closet    1
+                                log   19
+                           log heap    1
+                               logs    5
+                       logs of wood    1
+             long big piece of wood    1
+                                 NR    3
+                           old wood    1
+                              piece    1
+                            sapling    1
+                              stick    1
+                            yulelog    1
+

@@ -1,0 +1,46 @@
+nice day (cl5#3.asc)
+
+Items
+=====
+                                bad    1
+                          beautiful    2
+                      beautiful day    5
+                  beautiful weather    1
+                          clear day    1
+                               cool    1
+                           cool day    1
+                               fair    1
+                           fair day    3
+                    fairly pleasant    1
+                fairly pleasant day    1
+                               fine    3
+                           fine day    6
+                           good day    8
+                      good fair day    1
+                           gorgeous    1
+                    it ain't so hot    1
+                   it's a clear day    2
+                     it's a dry day    1
+                    it's a fine day    1
+                    it's a good day    2
+                it's a moderate day    1
+                    it's a nice day    2
+              it's a nice day today    1
+                it's a pleasant day    1
+          it's a very hot day today    1
+                  it's fine weather    1
+                         lovely day    3
+                               mean    1
+                           mild day    1
+                           nice day   17
+                                 NR   14
+                           pleasant    2
+                       pleasant day    7
+                             pretty    4
+                         pretty day   12
+                  the sun hot today    1
+               the weather pleasant    1
+                today is a nice day    1
+                           warm day    1
+                      we use 'good'    1
+

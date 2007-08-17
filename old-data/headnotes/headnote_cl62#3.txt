@@ -1,0 +1,58 @@
+poison ivy (cl62#3.asc)
+
+Items
+=====
+                       cowitch vine    1
+                      holly berries    1
+                         ivory bush    1
+                                ivy    3
+                             nettle    1
+                                 NR   29
+                          plum rash    1
+                             poison    4
+                         poison ash    1
+                        poison bush    2
+                       poison ivory    6
+                         poison ivy   10
+                         poison oak   25
+                    poison oak vine    1
+                       poison oakry    1
+                        poison vine    5
+                        stag's vine    1
+                       thunder wood    1
+
+
+
+
+M: Any kinds of bushes that make your skin break out when you brush against 	them?
+P: Are there different kinds?  Do they grow differently?  Do they have 	different numbers of leaves?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 62#3, an occurrence of "stag's vine" is marked inappropriate (b).
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 62 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+62#1		62#1
+62#2		62#2
+62#3
+62#4		62#3
+		62#4
+62#5		62#5
+		62#6
+		62#7 (no question)
+62#6		62#8
+62#7
+62#8

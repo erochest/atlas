@@ -1,0 +1,2429 @@
+"frying pan","NY1","50","O","N"," "," ","MS"," ",1
+"spider","NY1","50","N","Y"," "," ","MS","SUG/HRD",1
+"spider","NY2A","51.1","N","N"," "," ","MS"," ",2
+"skillet","NY2A","51.1","N","N"," "," ","MS"," ",2
+"spider","NY2B","51.2","N","N"," "," ","MS"," ",3
+"skillet","NY2B","51.2","N","N"," "," ","MS"," ",3
+"frying pan","NY2C","51.3","O","N"," "," ","MS"," ",4
+"spider","NY2C","51.3","N","Y"," "," ","MS","SUG/HRD",4
+"skillet","NY2C","51.3","N","N","frying pan"," ","MS"," ",4
+"frying pan","NY3A","401","O","N"," "," ","MS"," ",5
+"spider","NY3B","403","N","N"," "," ","MS"," ",6
+"frying pan","NY3C","402","N","N"," "," ","MS"," ",7
+"spider","NY3C","402","N","Y","Y"," ","MS","SUG/HRD",7
+"frying pan","NY3D","404","O","N"," "," ","MS"," ",8
+"spider","NY3D","404","N","N","old-fashioned kind"," ","MS"," ",8
+"frying pan","NY4A","405","O","N"," "," ","MS"," ",9
+"spider","NY4A","405","N","N","iron, short handle"," ","MS"," ",9
+"frying pan","NY4B","407","O","N"," "," ","MS"," ",10
+"frying pan","NY4C","408","O","N"," "," ","MS"," ",11
+"frying pan","NY5A","409","O","N"," "," ","MS"," ",12
+"frying pan","NY5B","410","O","N"," "," ","MS"," ",13
+"frying pan","NY5C","411","O","N"," "," ","MS"," ",14
+"frying pan","NY5D","412","O","N"," "," ","MS"," ",15
+"frying pan","NY5E","413","O","N"," "," ","MS"," ",16
+"spider","NY5E","413","N","N","old type, heavy"," ","MS"," ",16
+"frying pan","NY5F","414","O","N"," "," ","MS"," ",17
+"frying pan","NY5G","415","O","N"," "," ","MS"," ",18
+"frying pan","NY5H!","416!","O","N"," "," ","MS"," ",19
+"frying pan","NY5I!","417!","O","N"," "," ","MS"," ",20
+"spider","NY5I!","417!","N","Y","as a child"," ","MS","SUG/OLD",20
+"frying pan","NY6A","418","O","N"," "," ","MS"," ",21
+"spider","NY6A","418","N","N"," "," ","MS"," ",21
+"frying pan","NY6B","419","O","N"," "," ","MS"," ",22
+"frying pan","NY7A","420","O","N"," "," ","MS"," ",23
+"frying pan","NY7B","421","O","N"," "," ","MS"," ",24
+"frying pan","NY7C","422","O","N"," "," ","MS"," ",25
+"frying pan","NY7D","423","O","N"," "," ","MS"," ",26
+"frying pan","NY7E","424","O","N"," "," ","MS"," ",27
+"frying pan","NY7F","425","O","N"," "," ","MS"," ",28
+"frying pan","NY7G","426","O","N"," "," ","MS"," ",29
+"frying pan","NY7H","427","O","N"," "," ","MS"," ",30
+"skillet","NY7H","427","N","Y","not used"," ","MS","SUG/HRD",30
+"frying pan","NY7I","428","O","N"," "," ","MS"," ",31
+"frying pan","NY7J!","429!","O","N"," "," ","MS"," ",32
+"frying pan","NY7K!","430!","O","N"," "," ","MS"," ",33
+"frying pan","NY7L!","431!","O","N"," "," ","MS"," ",34
+"frying pan","NY7M!","432!","O","N"," "," ","MS"," ",35
+"frying pan","NY8","432b","O","N"," "," ","MS"," ",36
+"spider","NY8","432b","N","Y","as a child"," ","MS","OLD",36
+"spider","NY9A","432c","N","N"," "," ","MS"," ",37
+"frying pan","NY9A","432c","O","N"," "," ","MS"," ",37
+"spider","NY9B","433","N","N"," "," ","MS"," ",38
+"frying pan","NY9C","434","O","N"," "," ","MS"," ",39
+"spider","NY10A","435","N","N","legs"," ","MS"," ",40
+"frying pan","NY10B!","436!","O","N"," "," ","MS"," ",41
+"skillet","NY10B!","436!","N","N"," "," ","MS"," ",41
+"frying pan","NY11","438"," ","N"," "," ","MS"," ",42
+"frying pan","NY12A","439(*)","O","N"," "," ","MS"," ",43
+"spider","NY12A","439(*)","N","N"," "," ","MS"," ",43
+"spider","NY12B","440","N","N"," "," ","MS"," ",44
+"frying pan","NY12B","440","O","N","modern only"," ","MS"," ",44
+"frying pan","NY12C!","441!","O","N"," "," ","MS"," ",45
+"spider","NY13A","443","N","N"," "," ","MS"," ",46
+"spider","NY13B!","444!","N","N"," "," ","MS"," ",47
+"frying pan","NY13B!","444!","O","N","modern only"," ","MS"," ",47
+"frying pan","NY14A","445","O","N"," "," ","MS"," ",48
+"frying pan","NY14B","446","O","N"," "," ","MS"," ",49
+"spider","NY14B","446","N","N"," "," ","MS"," ",49
+"spider","NY15A","447","N","N"," "," ","MS"," ",50
+"frying pan","NY15B","448","O","N"," "," ","MS"," ",51
+"spider","NY16A","449","N","N"," "," ","MS"," ",52
+"frying pan","NY16A","449","O","N"," "," ","MS"," ",52
+"frying pan","NY16B","450","O","N"," "," ","MS"," ",53
+"spider","NY16B","450","N","N"," "," ","MS"," ",53
+"spider","NY17A","451(*)","N","N"," "," ","MS"," ",54
+"spider","NY17B","452","N","Y"," "," ","MS","OLD",55
+"frying pan","NY17B","452","O","N"," "," ","MS"," ",55
+"spider","NY18A","453","N","N"," "," ","MS"," ",56
+"skillet","NY18A","453","N","Y","deep kind with bail"," ","MS","OLD",56
+"frying pan","NY18B","454","O","N"," "," ","MS"," ",57
+"spider","NY18C!","455!","N","N"," "," ","MS"," ",58
+"fryer","NY19","456","O","N"," "," ","MS"," ",59
+"frying pan","NY19","456","O","N"," "," ","MS"," ",59
+"spider","NY20A","457","N","N"," "," ","MS"," ",60
+"frying pan","NY20B","458","O","N"," "," ","MS"," ",61
+"spider","NY21","459","N","N"," "," ","MS"," ",62
+"spider","NY22","460","N","N"," "," ","MS"," ",63
+"spider","NY23A","461","N","N","still call it"," ","MS"," ",64
+"frying pan","NY23B","462a","O","N"," "," ","MS"," ",65
+"spider","NY23B","462a","N","Y"," "," ","MS","AMS",65
+"frying pans","NY23C","462b","O","N"," "," ","MS"," ",66
+"spiders","NY23C","462b","N","N"," "," ","MS"," ",66
+"grill","NY23C","462b","N","N","for steaks, etc."," ","MS"," ",66
+"spider","NY24A","463","N","N"," "," ","MS"," ",67
+"frying pan","NY24B!","464!","O","N"," "," ","MS"," ",68
+"frying pan","NY25A","465","O","N"," "," ","MS"," ",69
+"spider","NY25A","465","N","N","iron; short handle"," ","MS"," ",69
+"griddle","NY25A","465","N","N"," "," ","MS","CNV",69
+"frying pan","NY25B","466","O","N"," "," ","MS"," ",70
+"skillet","NY25B","466","N","N"," "," ","MS"," ",70
+"spider","NY25B","466","N","N"," "," ","MS"," ",70
+"pancake griddle","NY25B","466","O","N"," "," ","MS"," ",70
+"frying pans","NY26A","467","O","N"," "," ","MS"," ",71
+"spider","NY26A","467","N","N"," "," ","MS"," ",71
+"frying pan","NY26B","468","O","N"," "," ","MS"," ",72
+"spiders","NY26B","468","N","N"," "," ","MS"," ",72
+"frying pans","NY26C","469","O","N"," "," ","MS"," ",73
+"spider","NY26C","469","N","Y"," "," ","MS","SUG",73
+"frying pan","NY27A","470","O","N"," "," ","MS"," ",74
+"spider","NY27A","470","N","Y"," "," ","MS","AMS",74
+"frying pan","NY27B","471","O","Y"," "," ","MS","NEW",75
+"spider","NY27B","471","N","N"," "," ","MS"," ",75
+"fry pan","NY27C","472","O","N"," "," ","MS"," ",76
+"spider","NY27C","472","N","Y","grandfather's term"," ","MS","HRD",76
+"skillet","NY28A","473a","N","N","cast iron"," ","MS"," ",77
+"frying pan","NY28A","473a","O","N","thin metal"," ","MS"," ",77
+"frying pan","NY28B","473b(*)","N","N","always"," ","MS"," ",78
+"spider","NY28B","473b(*)","N","N"," "," ","MS"," ",78
+"spider","NY28B","473b(*)","N","N"," "," ","MS"," ",78
+"oven","NY28C"," ","N","N"," "," "," "," ",79
+"frying pan","NY29A","474a","O","N","light"," ","MS"," ",80
+"spider","NY29A","474a","N","N","heavy, cast iron, short handle"," ","MS"," ",80
+"frying pans","NY29B","474b","O","N"," "," ","MS"," ",81
+"spider","NY29B","474b","N","Y"," "," ","MS","SUG/HRD",81
+"frying pan","NY29C","474c","O","N"," "," ","MS"," ",82
+"spider","NY29C","474c","N","N"," "," ","MS"," ",82
+"frying pan","NY30A","475a","O","N"," "," ","MS"," ",83
+"spider","NY30A","475a","N","Y"," "," ","MS","OLD",83
+"skillet","NY30B","475b","N","N"," "," ","MS"," ",84
+"frying pan","NY30B","475b","O","N"," "," ","MS"," ",84
+"cook oven","NY30B","475b","O","N"," "," ","MS"," ",84
+"spider","NY30B","475b","N","Y"," "," ","MS","SUG",84
+"spider","NY30C","475c","N","N"," "," ","MS"," ",85
+"frying pan","NY30D","475d","O","N"," "," ","MS"," ",86
+"spider","NY30D","475d","N","N","three legs; had to take eye out of stove"," ","MS"," ",86
+"frying pan","NY30E","475e","O","N"," "," ","MS"," ",87
+"spider","NY30E","475e","N","N"," "," ","MS"," ",87
+"frying pan","NY31A","478a","O","N"," "," ","MS","CNV",88
+"iron spider","NY31A","478a","O","N"," "," ","MS"," ",88
+"frying pan","NY31B","478b","O","N"," "," ","MS"," ",89
+"spider","NY31B","478b","N","N"," "," ","MS"," ",89
+"frying pans","NY32A","479a","O","N"," "," ","MS"," ",90
+"spiders","NY32A","479a","N","N"," "," ","MS"," ",90
+"spider","NY32B","479b","N","N"," "," ","MS"," ",91
+"frying pan","NY33A","480","O","N"," "," ","MS"," ",92
+"spider","NY33A","480","N","N"," "," ","MS"," ",92
+"NR","NY33B","481"," ","N"," "," ","MS"," ",93
+"iron frying pan","NY33C","482","O","N"," "," ","MS"," ",94
+"skillet","NY33C","482","N","N"," "," ","MS"," ",94
+"spider","NY33C","482","N","Y"," "," ","MS","OLD",94
+"spider","NY34A","483","N","N"," "," ","MS"," ",95
+"frying pan","NY34B","484","O","N"," "," ","MS"," ",96
+"skillet","NY34B","484","N","N"," "," ","MS"," ",96
+"spiders","NY34B","484","N","N","""we had¢"," ","MS"," ",96
+"spider","NY34C","485","N","N"," "," ","MS"," ",97
+"frying pan","NY34C","485","O","N"," "," ","MS"," ",97
+"spider","NY34D!","486!","N","N"," "," ","MS"," ",98
+"spider","NY34D!","486!","N","N"," "," ","MS","CNV",98
+"spider","NY35A","487","N","N"," "," ","MS"," ",99
+"spider","NY35B","488","N","N"," "," ","MS"," ",100
+"frying pan","NY35C!","489!","O","N"," "," ","MS"," ",101
+"spider","NY36A","491","N","N"," "," ","MS"," ",102
+"frying pan","NY36A","491","O","N"," "," ","MS"," ",102
+"spider","NY36B","492","N","N"," "," ","MS"," ",103
+"frying pan","NY37A","493","O","N"," "," ","MS"," ",104
+"spider","NY37A","493","N","N"," "," ","MS"," ",104
+"frying pan","NY37B","494","O","N"," "," ","MS"," ",105
+"spider","NY37C!","495!","N","N"," "," ","MS"," ",106
+"spider","NY38A","497(*)","N","N"," "," ","MS"," ",107
+"spider","NY38B","498","N","N"," "," ","MS"," ",108
+"spider","NY38C"," ","N","N"," "," "," "," ",109
+"spider","NY39A","499","N","N"," "," ","MS"," ",110
+"spider","NY39B","500","N","N"," "," ","MS"," ",111
+"spider","NY40A","501","N","N"," "," ","MS"," ",112
+"spider","NY40B","502","N","N"," "," ","MS"," ",113
+"spider","NY41","504","N","N"," "," ","MS"," ",114
+"spider","NY42A","505","N","N"," "," ","MS"," ",115
+"spider","NY42B","506","N","N"," "," ","MS"," ",116
+"spider","NY43A","507","N","N"," "," ","MS"," ",117
+"frying pan","NY43A","507","O","N"," "," ","MS"," ",117
+"spider","NY43B","507b","N","N"," "," ","MS"," ",118
+"frying pan","NY43C!","508!","O","N"," "," ","MS"," ",119
+"frying pan","NY44A","511","O","N"," "," ","MS"," ",120
+"frying pan","NY44B","512","O","N"," "," ","MS"," ",121
+"spiders","NY45A","513a","N","N"," "," ","MS"," ",122
+"spiders","NY45B","513b","N","N"," "," ","MS"," ",123
+"pancake griddle","NY45B","513b","O","N"," "," ","MS"," ",123
+"frying pan","NY45C","513c","O","N"," "," ","MS"," ",124
+"spider","NY45C","513c","N","N","2¢ high"," ","MS"," ",124
+"spiders","NY45D!","513d!","N","N"," "," ","MS"," ",125
+"frying pans","NY46A","515a","O","N"," "," ","MS"," ",126
+"frying pans","NY46A","515a","O","N"," "," ","MS"," ",126
+"spider","NY46B","515b","N","N"," "," ","MS"," ",127
+"frying pan","NY46C","515c","O","N"," "," ","MS"," ",128
+"frying pan","NY47A","517(*)","O","N"," "," ","MS"," ",129
+"skillet","NY47A","517(*)","N","Y","iron"," ","MS","OLD",129
+"spider","NY47A","517(*)","N","Y"," "," ","MS","SUG",129
+"frying pan","NY47B","518","O","N"," "," ","MS"," ",130
+"spiders","NY48A","519a","N","N"," "," ","MS"," ",131
+"spider","NY48B","519b","N","N"," "," ","MS"," ",132
+"griddle","NY48B","519b","N","N"," "," ","MS"," ",132
+"spider","NY48C","519c","N","N","heavy"," ","MS"," ",133
+"frying pan","NY48C","519c","O","N","long handle, steel"," ","MS"," ",133
+"skillet","NY48C","519c","N","N"," "," ","MS","HRD",133
+"frying pans","NY48D","519d","O","N"," "," ","MS"," ",134
+"spider","NY48D","519d","N","Y"," "," ","MS","OLD",134
+"NR","NY49A","520"," ","N"," "," ","MS"," ",135
+"frying pan","NY49B","521","O","N"," "," ","MS"," ",136
+"frying pan","NY49C","522a","O","N"," "," ","MS"," ",137
+"skillet","NY49C","522a","N","N","with legs"," ","MS"," ",137
+"spider","NY49D","522b","N","N"," "," ","MS"," ",138
+"frying pan","NY49D","522b","O","N"," "," ","MS"," ",138
+"spiders","NY50A","523","N","N"," "," ","MS"," ",139
+"iron spiders","NY50A","523","O","N"," "," ","MS"," ",139
+"spider","NY50B","524","N","N","iron"," ","MS"," ",140
+"pancake griddle","NY50B","524","O","N"," "," ","MS"," ",140
+"frying pans","NY51A","525a","O","N"," "," ","MS"," ",141
+"spiders","NY51A","525a","N","N"," "," ","MS"," ",141
+"skillets","NY51A","525a","N","N","long handled"," ","MS"," ",141
+"iron spiders","NY51B","525b","N","N"," "," ","MS"," ",142
+"frying pans","NY51B","525b","O","N"," "," ","MS"," ",142
+"skillets","NY51C","525c","N","N"," "," ","MS"," ",143
+"spiders","NY51C","525c","N","Y"," "," ","MS","OLD",143
+"frying pans","NY51C","525c","O","Y"," "," ","MS","NEW",143
+"skillet","NY51D","525d","N","N","mother called it"," ","MS","HRD",144
+"spider","NY51D","525d","N","Y"," "," ","MS","NEW",144
+"frying pan","NY51E!","525e!","O","N","iron, black"," ","MS"," ",145
+"spider","NY51E!","525e!","N","N","for meat; ??????"," ","MS"," ",145
+"pans","NY51E!","525e!","N","Y"," "," ","MS","INA",145
+"spiders","NY52A","527","N","N"," "," ","MS"," ",146
+"iron spider","NY52B","528","O","N"," "," ","MS"," ",147
+"frying pan","NY52C","528b","O","Y"," "," ","MS","NEW",148
+"spider","NY52C","528b","N","Y","mother said"," ","MS","OLD/HRD",148
+"skillet","NY53A","529","N","N"," "," ","MS"," ",149
+"skillet","NY53B!","530!","N","N"," "," ","MS"," ",150
+"frying pan","NY53B!","530!","O","N"," "," ","MS"," ",150
+"spider","NY53B!","530!","N","N"," "," ","MS"," ",150
+"fry pan","NY54A","531","O","N"," "," ","MS"," ",151
+"spider","NY54A","531","N","N"," "," ","MS"," ",151
+"frying pan","NY54B","532","O","N"," "," ","MS"," ",152
+"spider","NY54B","532","N","N","big, cast iron"," ","MS"," ",152
+"spiders","NY55A","533","N","N"," "," ","MS"," ",153
+"spiders","NY55B","534","N","N"," "," ","MS"," ",154
+"frying pan","NY55B","534","O","Y"," "," ","MS","NEW",154
+"spider","NY56A","535","N","N"," "," ","MS"," ",155
+"frying pan","NY56A","535","O","N"," "," ","MS","CNV",155
+"spiders","NY56B","536","N","N"," "," ","MS"," ",156
+"spider","NY57A","537a","N","N"," "," ","MS"," ",157
+"spiders","NY57B","537b","N","N","shallow"," ","MS"," ",158
+"skillet","NY57B","537b","N","N","deeper"," ","MS"," ",158
+"frying pan","NY57B","537b","O","N"," "," ","MS"," ",158
+"frying pan","NY57C!","537c!","O","N"," "," ","MS"," ",159
+"skillets","NY57C!","537c!","N","N","sometimes"," ","MS"," ",159
+"spider","NY57C!","537c!","N","Y","""used to call it¢"," ","MS","OLD",159
+"frying pan","NY58A","539a","O","N"," "," ","MS"," ",160
+"skillet","NY58A","539a","N","N"," "," ","MS"," ",160
+"spiders","NY58B","539b","N","N"," "," ","MS"," ",161
+"frying pan","NY58B","539b","O","N"," "," ","MS"," ",161
+"frying pan","NY58C","539c","O","N"," "," ","MS"," ",162
+"spider","NY58C","539c","N","N"," "," ","MS"," ",162
+"griddles","NY58C","539c","N","N"," "," ","MS"," ",162
+"frying pans","NY58D!","539d!","O","N"," "," ","MS"," ",163
+"spiders","NY58D!","539d!","N","N","heavy iron"," ","MS"," ",163
+"frying pan","NY58E!","539e!","O","N"," "," ","MS"," ",164
+"skillet","NY58E!","539e!","N","N"," "," ","MS"," ",164
+"spider","NY58E!","539e!","N","Y","iron"," ","MS","OLD",164
+"frying pan","NY58F!","539f!","O","N"," "," ","MS"," ",165
+"spider","NY58F!","539f!","N","N"," "," ","MS"," ",165
+"broiler","NY58F!","539f!","N","N"," "," ","MS"," ",165
+"saucepan","NY58F!","539f!","N","N"," "," ","MS"," ",165
+"spiders","NY59A","543","N","Y"," "," ","MS","OLD",166
+"skillets","NY59A","543","N","Y"," "," ","MS","NEW",166
+"spider","NY59B","544","N","N"," "," ","MS"," ",167
+"spider","NY60A","545","N","N","usually round"," ","MS"," ",168
+"fry pans","NY60B!","546!","O","N"," "," ","MS"," ",169
+"frying pan","NY60B!","546!","O","N","big"," ","MS"," ",169
+"griddle","NY60B!","546!","N","N"," "," ","MS"," ",169
+"spider","NY60B!","546!","N","N","long; over two stove eyes"," ","MS"," ",169
+"frying pans","NY61A","547","O","N"," "," ","MS"," ",170
+"spiders","NY61A","547","N","N"," "," ","MS"," ",170
+"spiders","NY61B","548","N","N"," "," ","MS"," ",171
+"spider","NY62A","551a","N","N"," "," ","MS"," ",172
+"spider","NY62B","551b","N","N"," "," ","MS"," ",173
+"griddle","NY62B","551b","N","N"," "," ","MS"," ",173
+"frying pan","NY62C","551c","O","N"," "," ","MS"," ",174
+"pan","NY62C","551c","N","N"," "," ","MS"," ",174
+"frying pan","NY62D!","551d!","O","N"," "," ","MS"," ",175
+"skillet","NY62D!","551d!","N","N"," "," ","MS"," ",175
+"spider","NY62D!","551d!","N","N"," "," ","MS"," ",175
+"spider","NY63A","556a","N","N"," "," ","MS"," ",176
+"frying pan","NY63A","556a","O","Y"," "," ","MS","HRD",176
+"skillet","NY63A","556a","N","Y"," "," ","MS","HRD",176
+"spiders","NY63B","556b","N","N"," "," ","MS"," ",177
+"skillet","NY63C","556c","N","N"," "," ","MS"," ",178
+"frying pan","NY63C","556c","O","N"," "," ","MS"," ",178
+"spider","NY63C","556c","N","Y"," "," ","MS","OLD",178
+"skillet","NY63D!","556d!","N","N"," "," ","MS"," ",179
+"skillet","NY63D!","556d!","N","N","iron"," ","MS"," ",179
+"fry pan","NY63D!","556d!","O","N","sheet metal"," ","MS"," ",179
+"skillets","NY64A","557a","N","N"," "," ","MS"," ",180
+"spiders","NY64A","557a","N","Y"," "," ","MS","NEW",180
+"spider","NY64B","557b","N","N","oldest had legs"," ","MS"," ",181
+"frying pan","NY64B","557b","O","N"," "," ","MS"," ",181
+"frying pans","NY64C!","557c!","O","N"," "," ","MS"," ",182
+"spiders","NY64C!","557c!","N","N"," "," ","MS"," ",182
+"frying pan","NJ1A","1","O","N"," "," ","MS"," ",183
+"skillet","NJ1A","1","N","N"," "," ","MS"," ",183
+"frying pan","NJ1B","2","O","N"," "," ","MS"," ",184
+"spider","NJ1B","2","N","N"," "," ","MS"," ",184
+"skillet","NJ2A","3(*)","N","N"," "," ","MS"," ",185
+"frying pan","NJ2A","3(*)","O","N"," "," ","MS"," ",185
+"frying pan","NJ2B","4","O","N"," "," ","MS"," ",186
+"skillet","NJ2B","4","N","N"," "," ","MS"," ",186
+"frying pan","NJ3A","5","O","N"," "," ","MS"," ",187
+"frying pan","NJ3B","6","O","N"," "," ","MS"," ",188
+"skillet","NJ3B","6","N","Y"," "," ","MS","OLD",188
+"frying pan","NJ4A","7","O","N"," "," ","MS"," ",189
+"skillet","NJ4A","7","N","N"," "," ","MS"," ",189
+"frying pan","NJ4B","8","O","N"," "," ","MS"," ",190
+"spider","NJ4B","8","N","Y"," "," ","MS","SUG/OLD",190
+"spider","NJ5A","9","N","N"," "," ","MS"," ",191
+"skillet","NJ5A","9","N","N"," "," ","MS"," ",191
+"frying pan","NJ5B","10","O","N"," "," ","MS"," ",192
+"skillet","NJ5B","10","N","Y"," "," ","MS","OLD",192
+"frying pan","NJ6A","11","O","N"," "," ","MS"," ",193
+"spider","NJ6A","11","N","Y"," "," ","MS","OLD",193
+"frying pan","NJ6B","12","O","N"," "," ","MS"," ",194
+"spider","NJ6B","12","N","N"," "," ","MS"," ",194
+"frying pan","NJ7A","17","O","N","Y"," ","MS","NEW",195
+"spider pan","NJ7A","17","O","Y"," "," ","MS","OLD",195
+"frying pan","NJ7B!","18!","O","N"," "," ","MS"," ",196
+"skillet","NJ7B!","18!","N","N"," "," ","MS"," ",196
+"frying pan","NJ8A","19","O","N"," "," ","MS"," ",197
+"frying pan","NJ8A","19","O","N"," "," ","MS"," ",197
+"frying pan","NJ8B","20","O","N"," "," ","MS"," ",198
+"frying pan","NJ9A","21","O","N"," "," ","MS"," ",199
+"spider","NJ9A","21","N","Y"," "," ","MS","OLD",199
+"frying pan","NJ9B","22","O","N"," "," ","MS"," ",200
+"spider","NJ9B","22","N","N"," "," ","MS"," ",200
+"frying pan","NJ10A","24b","O","N"," "," ","MS"," ",201
+"skillet","NJ10A","24b","N","N"," "," ","MS"," ",201
+"frying pan","NJ10B","23","O","N"," "," ","MS"," ",202
+"frying pan","NJ10C","24","N","N"," "," ","MS"," ",203
+"frying pan","NJ10D!","24c!","O","N"," "," ","MS"," ",204
+"frying pan","NJ11A","25","O","N"," "," ","MS"," ",205
+"frying pan","NJ11B","26a","O","N"," "," ","MS"," ",206
+"spider","NJ11B","26a","N","N"," "," ","MS","OLD/HRD",206
+"frying pan","NJ11C","26b","O","N"," "," ","MS"," ",207
+"skillet","NJ11C","26b","N","Y"," "," ","MS","OLD",207
+"frying pan","NJ12A","27","O","N"," "," ","MS"," ",208
+"frying pan","NJ12A","27","O","N"," "," ","MS"," ",208
+"skillet","NJ12A","27","N","N"," "," ","MS"," ",208
+"frying pan","NJ12B","28","O","N"," "," ","MS"," ",209
+"skillet","NJ13A","29","N","N"," "," ","MS"," ",210
+"frying pan","NJ13B","30","O","N"," "," ","MS"," ",211
+"skillet","NJ13B","30","N","N","rare"," ","MS"," ",211
+"frying pan","NJ14A","31","O","N"," "," ","MS"," ",212
+"skillet","NJ14A","31","N","N"," "," ","MS"," ",212
+"frying pan","NJ14B","32","O","N"," "," ","MS"," ",213
+"skillet","NJ14B","32","N","Y"," "," ","MS","OLD",213
+"spider","NJ14B","32","N","N"," "," ","MS"," ",213
+"frying pan","NJ15A","33","O","N"," "," ","MS"," ",214
+"skillet","NJ15A","33","N","N"," "," ","MS"," ",214
+"frying pan","NJ15B","34","O","N"," "," ","MS"," ",215
+"skillet","NJ15B","34","N","N"," "," ","MS"," ",215
+"frying pan","NJ16A","35","O","N"," "," ","MS"," ",216
+"skillet","NJ16A","35","N","N"," "," ","MS"," ",216
+"fry pan","NJ16B","36","O","N"," "," ","MS"," ",217
+"frying pan","NJ17A","37","O","N"," "," ","MS"," ",218
+"skillet","NJ17A","37","N","N"," "," ","MS"," ",218
+"spider","NJ17A","37","N","N","grid-iron over coals"," ","MS"," ",218
+"frying pan","NJ17B","38","O","N"," "," ","MS"," ",219
+"skillet","NJ17B","38","N","N"," "," ","MS"," ",219
+"frying pan","NJ18A","41","O","N"," "," ","MS"," ",220
+"frying pan","NJ18B","42","O","N"," "," ","MS"," ",221
+"frying pan","NJ18C!","43!","O","N"," "," ","MS"," ",222
+"frying pan","NJ18D!","44!","O","N"," "," ","MS"," ",223
+"frying pan","NJ19A","45","O","N"," "," ","MS"," ",224
+"frying pan","NJ19B!","46!","O","N"," "," ","MS"," ",225
+"skillet","NJ20A","47","N","N"," "," ","MS"," ",226
+"frying pan","NJ20B","47b","O","N"," "," ","MS"," ",227
+"frying pan","NJ21A","48","O","N"," "," ","MS"," ",228
+"skillet","NJ21A","48","N","N"," "," ","MS"," ",228
+"frying pan","NJ21B","49","O","N"," "," ","MS"," ",229
+"skillet","NJ21B","49","N","N"," "," ","MS"," ",229
+"frying pan","PA1A","51","O","N"," "," ","MS"," ",230
+"frying pan","PA1B","52","O","N"," "," ","MS"," ",231
+"frying pan","PA1C","53","O","N"," "," ","MS"," ",232
+"skillet","PA1C","53","N","N"," "," ","MS"," ",232
+"frying pan","PA1D","54","O","N"," "," ","MS"," ",233
+"skillet","PA1D","54","N","N"," "," ","MS"," ",233
+"frying pan","PA1E!","55!","O","N"," "," ","MS"," ",234
+"frying pan","PA1F!","56!","O","N"," "," ","MS"," ",235
+"frying pan","PA1G!","57!","O","N"," "," ","MS"," ",236
+"frying pan","PA1H!","58!","O","N"," "," ","MS"," ",237
+"frying pan","PA2A","59","O","N"," "," ","MS"," ",238
+"skillet","PA2A","59","N","N"," "," ","MS"," ",238
+"frying pan","PA2B","60","O","N"," "," ","MS"," ",239
+"skillet","PA3A","61","N","Y"," "," ","MS","OLD",240
+"frying pan","PA3A","61","O","N"," "," ","MS"," ",240
+"frying pan","PA3B","62","O","N"," "," ","MS"," ",241
+"frying pan","PA3C","62b","O","N"," "," ","MS"," ",242
+"frying pan","PA4A","63","O","N"," "," ","MS"," ",243
+"frying pan","PA4B!","64!","O","N"," "," ","MS"," ",244
+"frying pan","PA5A","65(*)","O","N"," "," ","MS"," ",245
+"skillet","PA5A","65(*)","N","N","handle to it"," ","MS"," ",245
+"skillet","PA5B","65b","N","N"," "," ","MS"," ",246
+"frying pan","PA5C","66","O","N"," "," ","MS"," ",247
+"skillet","PA5C","66","N","Y"," "," ","MS","OLD",247
+"frying pan","PA5D","67","O","N"," "," ","MS"," ",248
+"skillet","PA5D","67","N","N"," "," ","MS"," ",248
+"frying pan","PA5E!","68!","O"," "," "," ","MS"," ",249
+"skillet","PA5E!","68!","N","N"," "," ","MS"," ",249
+"??????","PA6A","69","O","N"," "," ","MS"," ",250
+"frying pan","PA6B","71","O","N"," "," ","MS"," ",251
+"skillet","PA6B","71","N","N"," "," ","MS"," ",251
+"frying pan","PA6C","71b","O","N"," "," ","MS"," ",252
+"frying pan","PA6D!","72!","O","N"," "," ","MS"," ",253
+"frying pan","PA7A","73","O","N","no handle"," ","MS"," ",254
+"skillet","PA7A","73","N","N","handle"," ","MS"," ",254
+"frying pan","PA7B","74","O","N","no handle"," ","MS"," ",255
+"skillet","PA7B","74","N","N","handle, heavier"," ","MS"," ",255
+"pan","PA7C","75","N","N"," "," ","MS"," ",256
+"frying pan","PA7D!","76!","O","N"," "," ","MS"," ",257
+"frying pan","PA8A","77","O","N"," "," ","MS"," ",258
+"skillet","PA8A","77","N","N"," "," ","MS"," ",258
+"frying pan","PA8B","78","O","N"," "," ","MS"," ",259
+"skillet","PA8B","78","N","N"," "," ","MS"," ",259
+"frying pan","PA8C","79","O","N"," "," ","MS"," ",260
+"frying pan","PA8D!","80!","O","N"," "," ","MS"," ",261
+"pan","PA9A","83","N","N"," "," ","MS"," ",262
+"frying pan","PA9B","83b","O","Y"," "," ","MS","SUG",263
+"skeleton","PA9B","83b","O","Y"," "," ","MS","FDT",263
+"skillet","PA9C!","84!","N","N"," "," ","MS"," ",264
+"pan","PA10","87","N","N"," "," ","MS"," ",265
+"skillet","PA11A","89","N","N"," "," ","MS"," ",266
+"frying pan","PA11B","90(*)","O","Y"," "," ","MS","AUX",267
+"frying pan","PA12A","91","O","N"," "," ","MS"," ",268
+"skillet","PA12A","91","N","N"," "," ","MS"," ",268
+"frying pan","PA12B","92","O","N"," "," ","MS"," ",269
+"skillet","PA12B","92","N","N"," "," ","MS"," ",269
+"spider","PA12B","92","N","N","the tripod for the big iron kettle"," ","MS"," ",269
+"frying pan","PA13A","93","O","N"," "," ","MS"," ",270
+"skillet","PA13A","93","N","N"," "," ","MS"," ",270
+"frying pan","PA13B","94","O","N"," "," ","MS"," ",271
+"skillet","PA13B","94","N","N"," "," ","MS"," ",271
+"frying pan","PA14A","95(*)","O","N"," "," ","MS"," ",272
+"frying pan","PA14B","96","O","N"," "," ","MS"," ",273
+"skillet","PA14B","96","N","N"," "," ","MS"," ",273
+"frying pan","PA14C"," ","O","N"," "," "," "," ",274
+"frying pan","PA15A","99","O","N"," "," ","MS"," ",275
+"spider","PA15A","99","N","N"," "," ","MS"," ",275
+"skillet","PA15B","99b","N","N"," "," ","MS"," ",276
+"frying pan","PA15B","99b","O","N"," "," ","MS"," ",276
+"frying pan","PA15C!","100!","O","N"," "," ","MS"," ",277
+"pan","PA16A","101","N","N"," "," ","MS"," ",278
+"frying pan","PA16B","102","O","N"," "," ","MS"," ",279
+"frying pan","PA16C","103","O","N"," "," ","MS"," ",280
+"pan","PA17A","105","N","N"," "," ","MS"," ",281
+"frying pan","PA17B","106","O","N"," "," ","MS"," ",282
+"frying pan","PA18A","107","O","Y"," "," ","MS","NEW",283
+"pan","PA18B!","108!","N","N"," "," ","MS"," ",284
+"skillet","PA18B!","108!","N","N"," "," ","MS"," ",284
+"frying pan","PA19A","113","O","N","thin"," ","MS"," ",285
+"skillet","PA19A","113","N","N","iron, heavy"," ","MS"," ",285
+"frying pan","PA19B","114","O","N"," "," ","MS"," ",286
+"skillet","PA20A","115","N","N"," "," ","MS"," ",287
+"skillet","PA20B","116","N","N"," "," ","MS"," ",288
+"frying pan","PA20B","116","O","N"," "," ","MS"," ",288
+"frying pan","PA21A","117","O","N"," "," ","MS"," ",289
+"spider","PA21A","117","N","N"," "," ","MS"," ",289
+"frying pan","PA21B","118","O","N"," "," ","MS"," ",290
+"spider","PA21B","118","N","N"," "," ","MS"," ",290
+"frying pan","PA22A","119","O","Y"," "," ","MS","NEW",291
+"spider","PA22A","119","N","N"," "," ","MS"," ",291
+"frying pan","PA22B","120","O","N"," "," ","MS"," ",292
+"skillet","PA22B","120","N","N"," "," ","MS"," ",292
+"spider","PA22B","120","N","N"," "," ","MS"," ",292
+"frying pan","PA23A","121","O","N"," "," ","MS"," ",293
+"spider","PA23A","121","N","N"," "," ","MS"," ",293
+"frying pan","PA23B","122","O","N"," "," ","MS"," ",294
+"spider","PA23B","122","N","N"," "," ","MS"," ",294
+"frying pan","PA24A","123","O","N"," "," ","MS"," ",295
+"skillet","PA24A","123","N","N"," "," ","MS"," ",295
+"spider","PA24A","123","N","Y"," "," ","MS","SUG",295
+"frying pan","PA24B","124","O","N"," "," ","MS"," ",296
+"spider","PA24B","124","N","N"," "," ","MS"," ",296
+"skillet","PA25A","125","N","N"," "," ","MS"," ",297
+"frying pan","PA25B","126","O","N"," "," ","MS"," ",298
+"skillet","PA25B","126","N","N"," "," ","MS"," ",298
+"spider","PA26A","127","N","N"," "," ","MS"," ",299
+"frying pan","PA26B","128","O","N"," "," ","MS"," ",300
+"spider","PA26B","128","N","N"," "," ","MS"," ",300
+"spider","PA27A","131","N","N"," "," ","MS"," ",301
+"frying pan","PA27B","132","O","N"," "," ","MS"," ",302
+"spider","PA27B","132","N","N"," "," ","MS"," ",302
+"frying pan","PA28A","135","O","N"," "," ","MS"," ",303
+"frying pan","PA28B!","136!","O","N"," "," ","MS"," ",304
+"spider","PA28B!","136!","N","Y"," "," ","MS","SUG",304
+"frying pan","PA29A","139(*)","O","N"," "," ","MS"," ",305
+"skillet","PA29B","140","N","N"," "," ","MS"," ",306
+"spider","PA30A","143","N","N"," "," ","MS"," ",307
+"spider","PA30B","144","N","N"," "," ","MS"," ",308
+"frying pan","PA30B","144","O","N"," "," ","MS"," ",308
+"frying pan","PA31A","145","O","N"," "," ","MS"," ",309
+"spider","PA31A","145","N","N"," "," ","MS"," ",309
+"skillet","PA31B","146","N","Y"," "," ","MS","NEW",310
+"spider","PA31B","146","N","Y"," "," ","MS","OLD",310
+"skillet","PA32A","147","N","N"," "," ","MS"," ",311
+"frying pan","PA32B","148","O","N"," "," ","MS"," ",312
+"skillet","PA32B","148","N","N"," "," ","MS"," ",312
+"skillet","PA33A","151","N","N"," "," ","MS"," ",313
+"skillet","PA33B","152","N","Y"," "," ","MS","DBT",314
+"frying pan","PA34A","155","O","N","steel"," ","MS"," ",315
+"skillet","PA34A","155","N","N","deeper, metal"," ","MS"," ",315
+"skillet","PA34B","156","N","N"," "," ","MS"," ",316
+"frying pan","PA34C!","155b!","O","N"," "," ","MS"," ",317
+"skillet","PA35A","157","N","N"," "," ","MS"," ",318
+"skillet","PA35B","158(*)","N","N"," "," ","MS"," ",319
+"skillet","PA35C"," ","N","N"," "," "," "," ",320
+"frying pan","PA36A","159","O","N"," "," ","MS"," ",321
+"skillet","PA36A","159","N","N"," "," ","MS"," ",321
+"frying pan","PA36B","160","O","N"," "," ","MS"," ",322
+"skillet","PA36B","160","N","N"," "," ","MS"," ",322
+"pan","PA37A","161(*)","N","N"," "," ","MS"," ",323
+"skillet","PA37A","161(*)","N","N"," "," ","MS"," ",323
+"pan","PA37B","162","N","N"," "," ","MS"," ",324
+"pan","PA37C"," ","N","N"," "," "," "," ",325
+"skillet","PA38A","163","N","N"," "," ","MS"," ",326
+"frying pan","PA38B","164","O","N"," "," ","MS"," ",327
+"skillet","PA38B","164","N","N"," "," ","MS"," ",327
+"skillet","PA39A","165","N","N"," "," ","MS"," ",328
+"skillet","PA39B","166","N","N"," "," ","MS"," ",329
+"skillet","PA40A","167","N","N"," "," ","MS"," ",330
+"skillet","PA40B","168","N","N"," "," ","MS"," ",331
+"frying pan","PA41A","171","O","N"," "," ","MS"," ",332
+"frying pan","PA41B","172","O","N"," "," ","MS"," ",333
+"skillet","PA41B","172","N","N"," "," ","MS"," ",333
+"skillet","PA42A","175","N","N"," "," ","MS"," ",334
+"skillet","PA42B","176","N","N"," "," ","MS"," ",335
+"skillet","PA43A","177","N","N"," "," ","MS"," ",336
+"skillet","PA43B","178","N","N"," "," ","MS"," ",337
+"skillet","PA44A","179","N","N"," "," ","MS"," ",338
+"skillet","PA44B","180","N","N"," "," ","MS"," ",339
+"NR","PA45A","181"," ","N"," "," ","MS"," ",340
+"skillet","PA45B","182","N","N"," "," ","MS"," ",341
+"skillet","PA46A","185","N","N"," "," ","MS"," ",342
+"skillet","PA46B","186","N","N"," "," ","MS"," ",343
+"skillet","PA47A","189","N","N"," "," ","MS"," ",344
+"skillet","PA47B","190","N","N"," "," ","MS"," ",345
+"skillet","PA48A","191","N","N"," "," ","MS"," ",346
+"skillet","PA48B","192","N","N"," "," ","MS"," ",347
+"frying pan","PA48B","192","O","N"," "," ","MS"," ",347
+"skillet","PA48C","193","N","N"," "," ","MS"," ",348
+"skillet","PA49A","194","N","N"," "," ","MS"," ",349
+"skillet","PA49B","195","N","N"," "," ","MS"," ",350
+"skillet","PA50A","196","N","N"," "," ","MS"," ",351
+"skillet","PA50B","197","N","N"," "," ","MS"," ",352
+"skillet","PA50C!","198!","N","N"," "," ","MS"," ",353
+"skillet","PA51A","199","N","N"," "," ","MS"," ",354
+"skillet","PA51B","200","N","N"," "," ","MS"," ",355
+"skillet","PA52A","201","N","N"," "," ","MS"," ",356
+"skillet","PA52B!","202!","N","N"," "," ","MS"," ",357
+"skillet","PA53A","203","N","N"," "," ","MS"," ",358
+"skillet","PA53B","204","N","N"," "," ","MS"," ",359
+"skillet","PA54A","205","N","N"," "," ","MS"," ",360
+"skillet","PA54B","206","N","N"," "," ","MS"," ",361
+"skillet","PA55A","207","N","N"," "," ","MS"," ",362
+"skillet","PA55B","208","N","N"," "," ","MS"," ",363
+"skillet","PA56A","211(*)","N","N"," "," ","MS"," ",364
+"skillet","PA56B","212","N","N"," "," ","MS"," ",365
+"skillet","PA57A","213","N","N"," "," ","MS"," ",366
+"frying pan","PA57A","213","O","N"," "," ","MS"," ",366
+"skillet","PA57B","214","N","N"," "," ","MS"," ",367
+"skillet","PA58A","215","N","N"," "," ","MS"," ",368
+"skillet","PA58B","216","N","N"," "," ","MS"," ",369
+"skillet","PA59A","219","N","N"," "," ","MS"," ",370
+"skillet","PA59B","220","N","N"," "," ","MS"," ",371
+"skillet","PA60A","221","N","N"," "," ","MS"," ",372
+"frying pan","PA60B","222","O","N"," "," ","MS"," ",373
+"skillet","PA61A","223","N","N"," "," ","MS"," ",374
+"skillet","PA61B","224","N","N"," "," ","MS"," ",375
+"frying pan","PA62A","229","O","N"," "," ","MS"," ",376
+"skillet","PA62A","229","N","N"," "," ","MS"," ",376
+"skillet","PA62B","230","N","N"," "," ","MS"," ",377
+"frying pan","PA62B","230","O","N"," "," ","MS"," ",377
+"skillet","PA63A","231","N","N"," "," ","MS"," ",378
+"spider","PA63A","231","N","Y"," "," ","MS","OLD",378
+"frying pan","PA63B","232","O","N"," "," ","MS"," ",379
+"skillet","PA63B","232","N","N"," "," ","MS"," ",379
+"frying pan","PA64A","233","O","N"," "," ","MS"," ",380
+"spider","PA64A","233","N","N"," "," ","MS"," ",380
+"spider","PA64B","234","N","N"," "," ","MS"," ",381
+"skillet","PA64B","234","N","N","less used"," ","MS"," ",381
+"frying pan","PA65A","237","O","N"," "," ","MS"," ",382
+"skillet","PA65B","238","N","N"," "," ","MS"," ",383
+"skillet","PA66A","239","N","N"," "," ","MS"," ",384
+"spider","PA66B","240","N","N"," "," ","MS"," ",385
+"spider","PA67A","243","N","N"," "," ","MS"," ",386
+"spider","PA67B","244","N","N"," "," ","MS"," ",387
+"frying pan","WV1!","88!","O","N"," "," ","MS"," ",388
+"skillet","WV1!","88!","N","N"," "," ","MS"," ",388
+"skillet","WV2","89","N","N"," "," ","MS"," ",389
+"skillet","WV3","91","N","N"," "," ","MS"," ",390
+"frying pan","WV3","91","O","N"," "," ","MS"," ",390
+"skillet","WV4A","92","N","N"," "," ","MS"," ",391
+"frying pan","WV4A","92","O","N"," "," ","MS"," ",391
+"skillet","WV4B","93","N","N"," "," ","MS"," ",392
+"skillet","WV5","94","N","N"," "," ","MS"," ",393
+"frying pan","WV5","94","O","N"," "," ","MS"," ",393
+"frying pan","WV6A","95","O","N"," "," ","MS"," ",394
+"skillet","WV6A","95","N","N"," "," ","MS"," ",394
+"frying pan","WV6B","96","O","N"," "," ","MS"," ",395
+"frying pan","WV7A","97","O","N"," "," ","MS"," ",396
+"skillet","WV7A","97","N","N"," "," ","MS"," ",396
+"fry pan","WV7B","98","O","N"," "," ","MS"," ",397
+"skillet","WV8A","97b","N","N"," "," ","MS"," ",398
+"skillet","WV8B","98b","N","N"," "," ","MS"," ",399
+"skillet","WV9A","301","N","N"," "," ","MS"," ",400
+"skillet","WV9B","302","N","N"," "," ","MS"," ",401
+"skillet","WV10A","303","N","N"," "," ","MS"," ",402
+"skillet","WV10B","303b","N","N"," "," ","MS"," ",403
+"frying pan","WV10B","303b","O","N"," "," ","MS"," ",403
+"skillet","WV10C","304","N","N"," "," ","MS"," ",404
+"frying pan","WV11A","305","O","N"," "," ","MS"," ",405
+"skillet","WV11B!","306!","N","N"," "," ","MS"," ",406
+"skillet","WV12A","307","N","N"," "," ","MS"," ",407
+"skillet","WV12B","308","N","N"," "," ","MS"," ",408
+"frying pan","WV13A","309","O","N"," "," ","MS"," ",409
+"skillet","WV13A","309","N","N","cast iron"," ","MS"," ",409
+"skillet","WV13B","310","N","N"," "," ","MS"," ",410
+"skillet","WV14A","311","N","N"," "," ","MS"," ",411
+"frying pan","WV14B","312","O","N"," "," ","MS"," ",412
+"skillet","WV14B","312","N","N"," "," ","MS"," ",412
+"skillet","WV15A","313","N","N"," "," ","MS"," ",413
+"skillet","WV15B","314","N","N"," "," ","MS"," ",414
+"frying pan","WV16A","315","O","N","long handle"," ","MS"," ",415
+"skillet","WV16A","315","N","N","short handle"," ","MS"," ",415
+"frying pan","WV16B","316","O","N"," "," ","MS"," ",416
+"skillet","WV16B","316","N","N"," "," ","MS"," ",416
+"skillet","WV17A","317","N","N"," "," ","MS"," ",417
+"skillet","WV17B","317b","N","N"," "," ","MS"," ",418
+"skillet","WV17C","318","N","N"," "," ","MS"," ",419
+"frying pan","WV18A","319","O","N"," "," ","MS"," ",420
+"skillet","WV18A","319","N","N","especially the old fashioned kind"," ","MS"," ",420
+"skillet","WV18B","320","N","N"," "," ","MS"," ",421
+"skillet","WV19A","321","N","N"," "," ","MS"," ",422
+"skillet","WV19B","322","N","N"," "," ","MS"," ",423
+"skillet","WV20A","323","N","N"," "," ","MS"," ",424
+"skillet","WV20B","324","N","N"," "," ","MS"," ",425
+"skillet","WV21A","325","N","N"," "," ","MS"," ",426
+"skillet","WV21B","326","N","N"," "," ","MS"," ",427
+"frying pan","WV22A","327","O","N"," "," ","MS"," ",428
+"skillet","WV22B","328","N","N"," "," ","MS"," ",429
+"skillet","WV23A","331","N","N"," "," ","MS"," ",430
+"skillet","WV23B","332","N","N"," "," ","MS"," ",431
+"frying pan","WV24A","335","O","N"," "," ","MS"," ",432
+"skillet","WV24A","335","N","N"," "," ","MS"," ",432
+"skillet","WV24B","336","N","N"," "," ","MS"," ",433
+"frying pan","WV25A","337","O","N"," "," ","MS"," ",434
+"skillet","WV25A","337","N","N"," "," ","MS"," ",434
+"skillet","WV25B","338","N","N"," "," ","MS"," ",435
+"frying pan","WV26A","339","O","N"," "," ","MS"," ",436
+"skillet","WV26A","339","N","N"," "," ","MS"," ",436
+"skillet","WV26B","340","N","N"," "," ","MS"," ",437
+"skillet","WV27A","341","N","N"," "," ","MS"," ",438
+"skillet","WV27B","342","N","N"," "," ","MS"," ",439
+"frying pan","WV28A","343","O","N"," "," ","MS"," ",440
+"skillet","WV28A","343","N","N"," "," ","MS"," ",440
+"skillet","WV28B","344","N","N"," "," ","MS"," ",441
+"frying pan","WV29A","345","O","N"," "," ","MS"," ",442
+"skillet","WV29A","345","N","Y","old fashioned kind"," ","MS","OLD",442
+"skillet","WV29B","346","N","N"," "," ","MS"," ",443
+"frying pan","WV30A","347","O","N"," "," ","MS"," ",444
+"NR","WV30B","348"," ","N"," "," ","MS"," ",445
+"fry pan","WV31A","349","O","N"," "," ","MS"," ",446
+"skillet","WV31A","349","N","N"," "," ","MS"," ",446
+"skillet","WV31B","350","N","N"," "," ","MS"," ",447
+"frying pan","WV32A","353","O","N"," "," ","MS"," ",448
+"fry skillet","WV32A","353","O","N"," "," ","MS"," ",448
+"skillet","WV32B","354","N","N"," "," ","MS"," ",449
+"skillet","WV33A","355","N","N"," "," ","MS"," ",450
+"skillet","WV33B","356","N","N"," "," ","MS"," ",451
+"skillet","WV34A","359","N","N"," "," ","MS"," ",452
+"frying pan","WV34B","360","O","N"," "," ","MS"," ",453
+"skillet","WV34B","360","N","N"," "," ","MS"," ",453
+"frying pan","WV35A","361","O","N"," "," ","MS"," ",454
+"skillet","WV35A","361","N","N"," "," ","MS"," ",454
+"skillet","WV35B","362","N","N"," "," ","MS"," ",455
+"skillet","WV36A","363","N","N"," "," ","MS"," ",456
+"skillet","WV36B","364","N","N"," "," ","MS"," ",457
+"skillet","WV37A","365","N","N"," "," ","MS"," ",458
+"frying pan","WV37B!","366!","O","N"," "," ","MS"," ",459
+"skillet","WV37B!","366!","N","N"," "," ","MS"," ",459
+"skillet","WV38A","367","N","N"," "," ","MS"," ",460
+"frying pan","WV38A","367","O","N"," "," ","MS"," ",460
+"frying pan","WV38B","368","O","N"," "," ","MS"," ",461
+"skillet","WV38B","368","N","N"," "," ","MS"," ",461
+"frying pan","WV39A","369","O","N"," "," ","MS"," ",462
+"skillet","WV39A","369","N","N"," "," ","MS"," ",462
+"skillet","WV39B","370","N","N"," "," ","MS"," ",463
+"skillet","WV39C!","371!","N","N"," "," ","MS"," ",464
+"skillet","WV40A","373","N","N"," "," ","MS"," ",465
+"frying pan","WV40B","374","O","N"," "," ","MS"," ",466
+"skillet","WV40B","374","N","N"," "," ","MS"," ",466
+"frying pan","WV41A","375","O","N"," "," ","MS"," ",467
+"skillet","WV41A","375","N","N"," "," ","MS"," ",467
+"skillet","WV41B","376","N","N"," "," ","MS"," ",468
+"skillet","WV42A","377","N","N"," "," ","MS"," ",469
+"skillet","WV42B","378","N","N"," "," ","MS"," ",470
+"skillet","WV43A","381","N","N"," "," ","MS"," ",471
+"frying pan","WV43B","382","O","N"," "," ","MS"," ",472
+"skillet","WV43B","382","N","N"," "," ","MS"," ",472
+"skillet","WV44A","383","N","N"," "," ","MS"," ",473
+"skillet","WV44B","384","N","N"," "," ","MS"," ",474
+"skillet","WV45A","385","N","N"," "," ","MS"," ",475
+"skillet","WV45B","386","N","N"," "," ","MS"," ",476
+"frying pan","WV46A","387","O","N"," "," ","MS"," ",477
+"skillet","WV46B","388","N","N"," "," ","MS"," ",478
+"frying pan","WV47A","389","O","N"," "," ","MS"," ",479
+"skillet","WV47B","390","N","N"," "," ","MS"," ",480
+"skillet","WV48A","391","N","N"," "," ","MS"," ",481
+"frying pan","WV48B","391b","O","N"," "," ","MS"," ",482
+"skillet","WV48B","391b","N","N"," "," ","MS"," ",482
+"frying pan","WV48C","392","O","N"," "," ","MS"," ",483
+"skillet","WV48C","392","N","N"," "," ","MS"," ",483
+"skillet","WV48D","392b","N","N","O"," ","MS"," ",484
+"skillet","WV49A","393","N","N"," "," ","MS"," ",485
+"skillet","WV49B","394","N","N"," "," ","MS"," ",486
+"skillet","WV50A","395","N","N"," "," ","MS"," ",487
+"skillet","WV50B","396","N","N"," "," ","MS"," ",488
+"skillet","WV51A","261","N","N"," "," ","MS"," ",489
+"skillet","WV51B","262","N","N"," "," ","MS"," ",490
+"skillet","WV52A","258","N","N"," "," ","MS"," ",491
+"skillet","WV52B","259","N","N"," "," ","MS"," ",492
+"skillet","WV52C!","260!","N","N"," "," ","MS"," ",493
+"skillet","WV53A","257","N","N"," "," ","MS"," ",494
+"skillet","WV53B","257b","N","N"," "," ","MS"," ",495
+"skillet","WV53C!","257c!","N","N"," "," ","MS"," ",496
+"skillet","WV54A","255","N","N"," "," ","MS"," ",497
+"skillet","WV54B","256","N","N"," "," ","MS"," ",498
+"frying pan","DE1A","11","O","N"," "," ","MS"," ",499
+"skillet","DE1A","11","N","N"," "," ","MS"," ",499
+"frying pan","DE1B","12","O","N"," "," ","MS"," ",500
+"skillet","DE1B","12","N","Y"," "," ","MS","SUG/HRD",500
+"frying pan","DE1C!","13!","O","N"," "," ","MS"," ",501
+"frying pan","DE2A","15(*)","O","N"," "," ","MS"," ",502
+"skillet","DE2A","15(*)","N","N"," "," ","MS"," ",502
+"frying pan","DE2B","16","O","N"," "," ","MS"," ",503
+"skillet","DE2B","16","N","N"," "," ","MS"," ",503
+"NR","DE2C"," "," ","N"," "," "," "," ",504
+"spider","DE3A","18","N","N"," "," ","MS"," ",505
+"skillet","DE3A","18","N","N"," "," ","MS"," ",505
+"frying pan","DE3B","19","O","N"," "," ","MS"," ",506
+"skillet","DE3B","19","N","N"," "," ","MS"," ",506
+"frying pan","DE3C!","17!","O","N"," "," ","MS"," ",507
+"skillet","DE3C!","17!","N","N"," "," ","MS"," ",507
+"frying pan","DE4","20","O","N"," "," ","MS"," ",508
+"skillet","DE4","20","N","N"," "," ","MS"," ",508
+"frying pan","DE5A","21","O","N"," "," ","MS"," ",509
+"skillet","DE5A","21","N","N"," "," ","MS"," ",509
+"frying pan","DE5B","22","O","N"," "," ","MS"," ",510
+"frying pan","DE6A","23","O","N"," "," ","MS"," ",511
+"frying pan","DE6B","24","O","N"," "," ","MS"," ",512
+"skillet","MD1A","27","N","N"," "," ","MS"," ",513
+"frying pan","MD1B","28","O","N"," "," ","MS"," ",514
+"skillet","MD1B","28","N","N"," "," ","MS"," ",514
+"frying pan","MD2A","31a","O","N"," "," ","MS"," ",515
+"skillet","MD2A","31a","N","N"," "," ","MS"," ",515
+"frying pan","MD2B","32","O","N"," "," ","MS"," ",516
+"skillet","MD2B","32","N","N"," "," ","MS"," ",516
+"skillet","MD3A","33","N","N"," "," ","MS"," ",517
+"frying pan","MD3A","33","O","N"," "," ","MS"," ",517
+"skillet","MD3B","34","N","N"," "," ","MS"," ",518
+"frying pan","MD4A","35b","O","N"," "," ","MS"," ",519
+"frying pan","MD4B","35","O","N"," "," ","MS"," ",520
+"skillet","MD4C","36","N","N"," "," ","MS"," ",521
+"spider","MD4C","36","N","N"," "," ","MS"," ",521
+"frying pan","MD5A","37","O","N"," "," ","MS"," ",522
+"skillet","MD5A","37","N","N"," "," ","MS"," ",522
+"frying pan","MD5B","38","O","N"," "," ","MS"," ",523
+"spider","MD5B","38","N","Y"," "," ","MS","OLD",523
+"frying pan","MD6A","39(*)","O","N"," "," ","MS"," ",524
+"spider","MD6A","39(*)","N","Y"," "," ","MS","OLD",524
+"spider","MD6B","40","N","N"," "," ","MS"," ",525
+"frying pan","MD6B","40","O","N"," "," ","MS"," ",525
+"frying pan","MD7A","41","O","N"," "," ","MS"," ",526
+"spider","MD7B","41b","N","N"," "," ","MS"," ",527
+"frying pan","MD7B","41b","O","N"," "," ","MS"," ",527
+"skillet","MD7C!","42!","N","N"," "," ","MS"," ",528
+"frying pan","MD7C!","42!","O","N"," "," ","MS"," ",528
+"frying pan","MD8A","43","O","N"," "," ","MS"," ",529
+"skillet","MD8A","43","N","N"," "," ","MS"," ",529
+"frying pan","MD8B","44","O","N"," "," ","MS"," ",530
+"spider","MD8B","44","N","Y"," "," ","MS","OLD",530
+"spider","MD9N","N46","N","N"," "," ","MS"," ",531
+"frying pan","MD9N","N46","O","N"," "," ","MS"," ",531
+"skillet","MD9A","45","N","N"," "," ","MS"," ",532
+"spider","MD9A","45","N","N"," "," ","MS"," ",532
+"skillet","MD9B","46","N","N"," "," ","MS"," ",533
+"frying pan","MD9B","46","O","N"," "," ","MS"," ",533
+"skillet","MD10A","49","N","N"," "," ","MS"," ",534
+"frying pan","MD10B","50","O","N"," "," ","MS"," ",535
+"skillet","MD10B","50","N","N"," "," ","MS"," ",535
+"skillet","MD11","51","N","N"," "," ","MS"," ",536
+"frying pan","MD12A","52","O","N"," "," ","MS"," ",537
+"skillet","MD12A","52","N","N"," "," ","MS"," ",537
+"skillet","MD12B","53","N","N"," "," ","MS"," ",538
+"frying pan","MD12B","53","O","N"," "," ","MS"," ",538
+"frying pan","MD13A","54(*)","O","N"," "," ","MS"," ",539
+"skillet","MD13A","54(*)","N","N"," "," ","MS"," ",539
+"frying pan","MD13B","55","O","N"," "," ","MS"," ",540
+"frying pan","MD13C","56","O","N"," "," ","MS"," ",541
+"frying pan","MD13D!","57!","O","N"," "," ","MS"," ",542
+"frying pan","MD13E!","58!","O","N"," "," ","MS"," ",543
+"frying pan","MD13F!","59!","O","N"," "," ","MS"," ",544
+"frying pan","MD13G"," ","O","N"," "," "," "," ",545
+"frying pan","MD14","61(*)","O","N"," "," ","MS"," ",546
+"skillet","MD14","61(*)","N","N"," "," ","MS"," ",546
+"frying pan","MD15A","62","O","N"," "," ","MS"," ",547
+"skillet","MD15A","62","N","N"," "," ","MS"," ",547
+"skillet","MD15B","63","N","N"," "," ","MS"," ",548
+"frying pan","MD15B","63","O","N"," "," ","MS"," ",548
+"frying pan","MD16","64","O","N"," "," ","MS"," ",549
+"frying pan","MD17A","65","O","N"," "," ","MS"," ",550
+"skillet","MD17A","65","N","N"," "," ","MS"," ",550
+"frying pan","MD17B","66","O","N"," "," ","MS"," ",551
+"skillet","MD17B","66","N","Y"," "," ","MS","OLD",551
+"skillet","MD18A","67","N","N"," "," ","MS"," ",552
+"skillet","MD18B","68","N","N"," "," ","MS"," ",553
+"skillet","MD19A","69","N","N"," "," ","MS"," ",554
+"frying pan","MD19B","70","O","N"," "," ","MS"," ",555
+"skillet","MD19B","70","N","N"," "," ","MS"," ",555
+"skillet","MD20A","71","N","N"," "," ","MS"," ",556
+"frying pan","MD20A","71","O","N"," "," ","MS"," ",556
+"skillet","MD20B","72","N","N"," "," ","MS"," ",557
+"frying pan","MD20B","72","O","N"," "," ","MS"," ",557
+"frying pan","MD20C!","73!","O","N"," "," ","MS"," ",558
+"skillet","MD20C!","73!","N","N"," "," ","MS"," ",558
+"frying pan","MD21A","75","O","N"," "," ","MS"," ",559
+"frying pan","MD21B","76","O","N"," "," ","MS"," ",560
+"skillet","MD21B","76","N","N"," "," ","MS"," ",560
+"frying pan","MD22N","N77","O","N"," "," ","MS"," ",561
+"frying pan","MD22M","N78","O","N"," "," ","MS"," ",562
+"frying pan","MD22A","77","O","N"," "," ","MS"," ",563
+"frying pan","MD22B","78","O","N"," "," ","MS"," ",564
+"frying pan","MD22C!","79!","O","N"," "," ","MS"," ",565
+"frying pan","MD23A","80b","O","N"," "," ","MS"," ",566
+"frying pan","MD23B","80a","O","N"," "," ","MS"," ",567
+"skillet","MD23B","80a","N","N"," "," ","MS"," ",567
+"frying pan","MD23C","81","O","N"," "," ","MS"," ",568
+"frying pan","MD24","82","O","N"," "," ","MS"," ",569
+"skillet","MD24","82","N","N"," "," ","MS"," ",569
+"skillet","MD25","84","N","N"," "," ","MS"," ",570
+"skillet","MD26A","83","N","N"," "," ","MS"," ",571
+"frying pan","MD26B","83A","O","N"," "," ","MS"," ",572
+"skillet","MD27A","85","N","N"," "," ","MS"," ",573
+"skillet","MD27B","86","N","N"," "," ","MS"," ",574
+"skillet","DC1A","99","N","N"," "," ","MS"," ",575
+"frying pan","DC1A","99","O","N"," "," ","MS"," ",575
+"frying pan","DC1B!","100!","O","N"," "," ","MS"," ",576
+"frying pan","VA1!","101!","O","N"," "," ","MS"," ",577
+"skillet","VA1!","101!","N","N"," "," ","MS"," ",577
+"frying pan","VA2A","103","O","N"," "," ","MS"," ",578
+"skillet","VA2A","103","N","N"," "," ","MS"," ",578
+"skillet","VA2B","104","N","Y"," "," ","MS","AUX",579
+"frying pan","VA2B","104","O","Y"," "," ","MS","AUX",579
+"NR","VA3A","105(*)"," ","N"," "," ","MS"," ",580
+"skillet","VA3B","106","N","N"," "," ","MS"," ",581
+"skillet","VA3C"," ","N","N"," "," "," "," ",582
+"frying pan","VA4N","N109","O","N"," "," ","MS"," ",583
+"skillet","VA4N","N109","N","N"," "," ","MS"," ",583
+"skillet","VA5A","107","N","N"," "," ","MS"," ",584
+"frying pan","VA5A","107","O","N"," "," ","MS"," ",584
+"frying pan","VA5B","108","O","N"," "," ","MS"," ",585
+"skillet","VA6A","113","N","N"," "," ","MS"," ",586
+"frying pan","VA6B","114","O","N"," "," ","MS"," ",587
+"skillet","VA6B","114","N","N"," "," ","MS"," ",587
+"frying pan","VA7A","121","O","N"," "," ","MS"," ",588
+"skillet","VA7A","121","N","N"," "," ","MS"," ",588
+"frying pan","VA7B","122","O","N"," "," ","MS"," ",589
+"skillet","VA7B","122","N","N"," "," ","MS"," ",589
+"frying pan","VA8A","123","O","N"," "," ","MS"," ",590
+"frying pan","VA8B","124","O","N"," "," ","MS"," ",591
+"frying pan","VA8C!","125!","O","N"," "," ","MS"," ",592
+"skillet","VA8C!","125!","N"," "," "," ","MS"," ",592
+"skillet","VA9A","117","N","N"," "," ","MS"," ",593
+"skillet","VA9B!","118!","N","N"," "," ","MS"," ",594
+"frying pan","VA10A","127","O","N"," "," ","MS"," ",595
+"frying pan","VA10B","128","O","N"," "," ","MS"," ",596
+"frying pan","VA11A","129","O","N"," "," ","MS"," ",597
+"frying pan","VA11B","130","O","N"," "," ","MS"," ",598
+"frying pan","VA12N","N131","O","N"," "," ","MS"," ",599
+"frying pan","VA12A","131","O","N"," "," ","MS"," ",600
+"skillet","VA12A","131","N","N"," "," ","MS"," ",600
+"frying pan","VA12B!","132!","O","N"," "," ","MS"," ",601
+"skillet","VA12B!","132!","N","N"," "," ","MS"," ",601
+"frying pan","VA13A","133","O","N"," "," ","MS"," ",602
+"pan","VA13B","134","N","N"," "," ","MS"," ",603
+"skillet","VA13B","134","N","Y"," "," ","MS","OLD",603
+"frying pan","VA14A","135","O","N"," "," ","MS"," ",604
+"frying spider","VA14B","136","O","N"," "," ","MS"," ",605
+"spider","VA14C","137","N","N"," "," ","MS"," ",606
+"frying pan","VA14C","137","O","N"," "," ","MS"," ",606
+"frying pan","VA15N","N139(*)","O","N"," "," ","MS"," ",607
+"skillet","VA15N","N139(*)","N","Y","deep pan with legs"," ","MS","INA",607
+"spider","VA15A","139","N","N"," "," ","MS"," ",608
+"frying spider","VA15A","139","O","N"," "," ","MS"," ",608
+"frying pan","VA15B","140","O","N"," "," ","MS"," ",609
+"fry pan","VA16A","141","O","N"," "," ","MS"," ",610
+"spider","VA16A","141","N","N"," "," ","MS"," ",610
+"spider","VA16B","142","N","N"," "," ","MS"," ",611
+"frying pan","VA16B","142","O","N"," "," ","MS"," ",611
+"frying pan","VA17A","143","O","N"," "," ","MS"," ",612
+"spider","VA17B","144","N","N","with legs"," ","MS"," ",613
+"frying pan","VA18","145","O","N"," "," ","MS"," ",614
+"frying spider","VA19A","146","O","N","with legs"," ","MS"," ",615
+"frying pan","VA19A","146","O","N"," "," ","MS"," ",615
+"frying pan","VA19B","147","O","N"," "," ","MS"," ",616
+"spider","VA19B","147","N","N"," "," ","MS"," ",616
+"frying pan","VA19C!","148!","O","N"," "," ","MS"," ",617
+"spider","VA20A","149","N","N"," "," ","MS"," ",618
+"skillet","VA20A","149","N","N"," "," ","MS"," ",618
+"frying pan","VA20B","150(*)","O","N"," "," ","MS"," ",619
+"spider","VA20B","150(*)","N","N"," "," ","MS"," ",619
+"frying pan","VA20C"," ","O","N"," "," "," "," ",620
+"frying pan","VA21N","N153","O","N"," "," ","MS"," ",621
+"frying pan","VA21A","153","O","N"," "," ","MS"," ",622
+"spider","VA21A","153","N","N"," "," ","MS"," ",622
+"skillet","VA21A","153","N","N"," "," ","MS"," ",622
+"frying pan","VA21B","154","O","N"," "," ","MS"," ",623
+"frying pan","VA22","155","O","N"," "," ","MS"," ",624
+"spider","VA23A","156","N","N"," "," ","MS"," ",625
+"frying pan","VA23A","156","O","N"," "," ","MS"," ",625
+"frying pan","VA23B","157","O","N"," "," ","MS"," ",626
+"frying pan","VA24","159","O","N"," "," ","MS"," ",627
+"skillet","VA24","159","N","N"," "," ","MS"," ",627
+"frying pan","VA25","160(*)","O","N"," "," ","MS"," ",628
+"spider","VA26A","161A","N","N"," "," ","MS"," ",629
+"spider","VA26B","161","N","N"," "," ","MS"," ",630
+"frying pan","VA26C","162","O","N"," "," ","MS"," ",631
+"spider","VA26C","162","N","N"," "," ","MS"," ",631
+"spider","VA27","163(*)","N","N"," "," ","MS"," ",632
+"frying pan","VA27","163(*)","O","N"," "," ","MS"," ",632
+"spider","VA28A","164","N","N"," "," ","MS"," ",633
+"frying pan","VA28A","164","O","N"," "," ","MS"," ",633
+"spider","VA28A","164","N","N"," "," ","MS"," ",633
+"spider","VA28B","165","N","N"," "," ","MS"," ",634
+"frying pan","VA28B","165","O","N"," "," ","MS"," ",634
+"frying pan","VA29","166","O","N"," "," ","MS"," ",635
+"frying pan","VA30A","167","O","N"," "," ","MS"," ",636
+"skillet","VA30A","167","N","N"," "," ","MS"," ",636
+"frying pan","VA30B!","167a!","O","N"," "," ","MS"," ",637
+"frying pan","VA30C!","168!","O","N"," "," ","MS"," ",638
+"frying pan","VA30D!","169!","O","N"," "," ","MS"," ",639
+"frying pan","VA30E!","170!","O","N"," "," ","MS"," ",640
+"frying pan","VA31A","171(*)(**)","O","N"," "," ","MS"," ",641
+"frying pan","VA31B","172","O","N"," "," ","MS"," ",642
+"frying pan","VA31C"," ","O","N"," "," "," "," ",643
+"frying pan","VA32!","175!","O","N"," "," ","MS"," ",644
+"frying pan","VA33A","173","O","N"," "," ","MS"," ",645
+"frying pan","VA33B","174","O","N"," "," ","MS"," ",646
+"frying pan","VA34A","177(*)","O","N"," "," ","MS"," ",647
+"frying pan","VA34B","178","O","N"," "," ","MS"," ",648
+"frying pan","VA35A","179","O","N"," "," ","MS"," ",649
+"frying pan","VA35B","180","O","N"," "," ","MS"," ",650
+"fry pan","VA36A","181","O","N"," "," ","MS"," ",651
+"spider","VA36A","181","N","N"," "," ","MS"," ",651
+"skillet","VA36A","181","N","N"," "," ","MS"," ",651
+"frying pan","VA36B","182","O","N"," "," ","MS"," ",652
+"spider","VA36B","182","N","N","with legs"," ","MS"," ",652
+"frying pan","VA37","183","O","N"," "," ","MS"," ",653
+"spider","VA38","185","N","Y"," "," ","MS","SUG",654
+"frying pan","VA38","185","O","N"," "," ","MS"," ",654
+"skillet","VA39!","186!","N","N"," "," ","MS"," ",655
+"frying pan","VA39!","186!","O","N"," "," ","MS"," ",655
+"spider","VA39!","186!","N","N"," "," ","MS"," ",655
+"spider","VA40A","187","N","N"," "," ","MS"," ",656
+"frying pan","VA40B","188","O","N"," "," ","MS"," ",657
+"spider","VA40B","188","N","N"," "," ","MS"," ",657
+"frying pan","VA41A","191","O","N"," "," ","MS"," ",658
+"skillet","VA41A","191","N","N"," "," ","MS"," ",658
+"frying pan","VA41B","192","O","N"," "," ","MS"," ",659
+"frying pan","VA42A","193(*)(**)","O","N"," "," ","MS"," ",660
+"frying pan","VA42B","194","O","N"," "," ","MS"," ",661
+"frying pan","VA43N","N195","O","N"," "," ","MS"," ",662
+"frying pan","VA43A","195","O","N"," "," ","MS"," ",663
+"frying pan","VA43B","196","O","N"," "," ","MS"," ",664
+"frying pan","VA44A","199","O","N"," "," ","MS"," ",665
+"frying pan","VA44B","200","O","N"," "," ","MS"," ",666
+"frying pan","VA45A","201","O","N"," "," ","MS"," ",667
+"frying pan","VA45B","202","O","N"," "," ","MS"," ",668
+"skillet","VA46N","N207","N","N","with legs"," ","MS"," ",669
+"frying pan","VA46A","207","O","N"," "," ","MS"," ",670
+"skillet","VA46B!","208!","N","N"," "," ","MS"," ",671
+"frying pan","VA47","211","O","N"," "," ","MS"," ",672
+"skillet","VA47","211","N","N"," "," ","MS"," ",672
+"frying pan","VA48A","213(*)","O","N"," "," ","MS"," ",673
+"skillet","VA48A","213(*)","N","N"," "," ","MS"," ",673
+"skillet","VA48B","214","N","N"," "," ","MS"," ",674
+"frying pan","VA48B","214","O","N"," "," ","MS"," ",674
+"frying pan","VA49A","215","O","N"," "," ","MS"," ",675
+"frying pan","VA49B","216","O","N"," "," ","MS"," ",676
+"frying pan","VA50A","217","O","N"," "," ","MS"," ",677
+"skillet","VA50A","217","N","N"," "," ","MS"," ",677
+"frying pan","VA50B","218","O","N"," "," ","MS"," ",678
+"frying pan","VA51A","219","O","N"," "," ","MS"," ",679
+"NR","VA51B","220(*)"," ","N"," "," ","MS"," ",680
+"frying pan","VA51C"," ","O","N"," "," "," "," ",681
+"skillet","VA52A","224","N","N"," "," ","MS"," ",682
+"skillet","VA52B","225","N","N"," "," ","MS"," ",683
+"skillet","VA52C!","226!","N","N"," "," ","MS"," ",684
+"frying pan","VA53A","227","O","N"," "," ","MS"," ",685
+"frying pan","VA53B","228","O","N"," "," ","MS"," ",686
+"skillet","VA53B","228","N","N"," "," ","MS"," ",686
+"skillet","VA54A","229","N","N"," "," ","MS"," ",687
+"frying pan","VA54A","229","O","N"," "," ","MS"," ",687
+"skillet","VA54B","230","N","N"," "," ","MS"," ",688
+"frying pan","VA54B","230","O","Y"," "," ","MS","NEW",688
+"skillet","VA55A","233(*)","N","N"," "," ","MS"," ",689
+"frying pan","VA55A","233(*)","O","N"," "," ","MS"," ",689
+"frying pan","VA55B","234(*)","O","N"," "," ","MS"," ",690
+"skillet","VA55B","234(*)","N","N"," "," ","MS"," ",690
+"frying pan","VA56A","237","O","N"," "," ","MS"," ",691
+"skillet","VA56A","237","N","N"," "," ","MS"," ",691
+"skillet","VA56B","238","N","N"," "," ","MS"," ",692
+"frying pan","VA56B","238","O","N"," "," ","MS"," ",692
+"frying pan","VA57A","239","O","N"," "," ","MS"," ",693
+"skillet","VA57A","239","N","N"," "," ","MS"," ",693
+"skillet","VA57B","240","N","N"," "," ","MS"," ",694
+"frying pan","VA58","241(*)","O","N"," "," ","MS"," ",695
+"skillet","VA58","241(*)","N","N"," "," ","MS"," ",695
+"frying pan","VA59N","N241","O","N"," "," ","MS"," ",696
+"frying pan","VA59A","242","O","N"," "," ","MS"," ",697
+"frying pan","VA59B!","243!","O","N"," "," ","MS"," ",698
+"skillet","VA59B!","243!","N","N","with legs"," ","MS"," ",698
+"skillet","VA60","244(*)","N","N"," "," ","MS"," ",699
+"frying pan","VA60","244(*)","O","N"," "," ","MS"," ",699
+"skillet","VA61A","245(*)","N","N"," "," ","MS"," ",700
+"frying pan","VA61A","245(*)","O","Y"," "," ","MS","NEW",700
+"skillet","VA61B!","246!","N","N"," "," ","MS"," ",701
+"NR","VA61C"," "," ","N"," "," "," "," ",702
+"skillet","VA62A","247(*)","N","N"," "," ","MS"," ",703
+"frying pan","VA62A","247(*)","O","Y"," "," ","MS","NEW",703
+"frying pan","VA62B","248","O","N"," "," ","MS"," ",704
+"skillet","VA62B","248","N","N"," "," ","MS"," ",704
+"frying pan","VA63A","251","O","N"," "," ","MS"," ",705
+"skillet","VA63B","252","N","N"," "," ","MS"," ",706
+"frying pan","VA63B","252","O","N"," "," ","MS"," ",706
+"frying pan","VA64A","255","O","N"," "," ","MS"," ",707
+"frying pan","VA64B","256","O","N"," "," ","MS"," ",708
+"skillet","VA65A","257","N","N"," "," ","MS"," ",709
+"frying pan","VA65A","257","O","N"," "," ","MS"," ",709
+"skillet","VA65B","258","N","N"," "," ","MS"," ",710
+"frying pan","VA65C!","259!","O","N"," "," ","MS"," ",711
+"skillet","VA65C!","259!","N","N"," "," ","MS"," ",711
+"skillet","VA66A","261","N","N"," "," ","MS"," ",712
+"frying pan","VA66A","261","O","N"," "," ","MS"," ",712
+"skillet","VA66B","262","N","N","with legs"," ","MS"," ",713
+"skillet","VA67A","267","N","N"," "," ","MS"," ",714
+"frying pan","VA67A","267","O","Y"," "," ","MS","NEW",714
+"skillet","VA67B","268","N","N"," "," ","MS"," ",715
+"frying pan","VA67B","268","O","N"," "," ","MS"," ",715
+"frying skillet","VA68A","269","O","N"," "," ","MS"," ",716
+"frying pan","VA68B","270","O","N"," "," ","MS"," ",717
+"frying pan","VA69A","273","O","N"," "," ","MS"," ",718
+"skillet","VA69B","274","N","N"," "," ","MS"," ",719
+"frying pan","VA69B","274","O","N"," "," ","MS"," ",719
+"skillet","VA70A","275","N","N"," "," ","MS"," ",720
+"fryer","VA70A","275","N","N"," "," ","MS"," ",720
+"skillet","VA70B","276","N","N"," "," ","MS"," ",721
+"frying pan","VA70B","276","O","N"," "," ","MS"," ",721
+"frying pan","VA71A","285","O","N"," "," ","MS"," ",722
+"frying pan","VA71B","286","O","N"," "," ","MS"," ",723
+"frying pan","VA72A","287","O","N"," "," ","MS"," ",724
+"frying skillet","VA72A","287","O","N"," "," ","MS"," ",724
+"skillet","VA72B","288","N","N"," "," ","MS"," ",725
+"skillet","VA73","291","N","N"," "," ","MS"," ",726
+"frying pan","VA73","291","O","N"," "," ","MS"," ",726
+"frying pan","VA74A","293","O","N"," "," ","MS"," ",727
+"skillet","VA74A","293","N","N"," "," ","MS"," ",727
+"skillet","VA74B!","294!","N","N"," "," ","MS"," ",728
+"frying pan","VA74B!","294!","O","N"," "," ","MS"," ",728
+"skillet","VA75A","297","N","N"," "," ","MS"," ",729
+"frying pan","VA75B","298","O","N"," "," ","MS"," ",730
+"skillet","VA75B","298","N","N"," "," ","MS"," ",730
+"spider","NC1","303","N","N"," "," ","MS"," ",731
+"frying pan","NC2A","301","O","Y"," "," ","MS","AUX",732
+"spider","NC2A","301","N","Y","with legs"," ","MS","AUX",732
+"skillet","NC2A","301","N","Y","with legs"," ","MS","AUX",732
+"creeper","NC2A","301","N","Y"," "," ","MS","OLD",732
+"spider","NC2B","304","N","N"," "," ","MS"," ",733
+"spider","NC3A","305","N","N"," "," ","MS"," ",734
+"skillet","NC3B","306","N","N","with legs"," ","MS"," ",735
+"frying pan","NC3B","306","O","N"," "," ","MS"," ",735
+"frying pan","NC4A","307","O","N"," "," ","MS"," ",736
+"frying pan","NC4B","308","O","N"," "," ","MS"," ",737
+"frying pan","NC5A","309","O","N"," "," ","MS"," ",738
+"spider","NC5B","310","N","N"," "," ","MS"," ",739
+"creeper","NC5B","310","N","N"," "," ","MS"," ",739
+"fryer","NC5B","310","N","N"," "," ","MS"," ",739
+"frying pan","NC6!","311!","O","N"," "," ","MS"," ",740
+"spider","NC6!","311!","N","N"," "," ","MS"," ",740
+"frying pan","NC7A","315(*)","O","Y"," "," ","MS","AUX",741
+"frying pan","NC7B","316","O","N"," "," ","MS"," ",742
+"spider","NC8N","N317","N","N"," "," ","MS"," ",743
+"frying pan","NC8A","317","O","N"," "," ","MS"," ",744
+"spider","NC8A","317","N","N"," "," ","MS"," ",744
+"frying pan","NC8B","318(*)","O","N"," "," ","MS"," ",745
+"spider","NC8B","318(*)","N","Y"," "," ","MS","AUX",745
+"frying pan","NC9A","319","O","N"," "," ","MS"," ",746
+"spider","NC9A","319","N","N"," "," ","MS"," ",746
+"frying pan","NC9B","320","O","N"," "," ","MS"," ",747
+"frying pan","NC10A","321","O","N"," "," ","MS"," ",748
+"frying pan","NC10B","323","O","N"," "," ","MS"," ",749
+"frying pan","NC10C","322","O","N"," "," ","MS"," ",750
+"frying pan","NC10C","322","O","N"," "," ","MS"," ",750
+"frying pan","NC11A","325","O","N"," "," ","MS"," ",751
+"spider","NC11B","326","N","N"," "," ","MS"," ",752
+"frying pan","NC12A","327(*)","O","Y"," "," ","MS","AUX",753
+"frying pan","NC12A","327(*)","O","N"," "," ","MS"," ",753
+"frying pan","NC12B","328","O","N"," "," ","MS"," ",754
+"spider","NC13A","329","N","N"," "," ","MS"," ",755
+"frying pan","NC13B","330(*)","O","N"," "," ","MS"," ",756
+"spider","NC14N","N331","N","N"," "," ","MS"," ",757
+"frying pan","NC14A","331","O","N"," "," ","MS"," ",758
+"frying pan","NC14B","332","O","N"," "," ","MS"," ",759
+"spider","NC14C!","333!","N","N"," "," ","MS"," ",760
+"frying pan","NC15A","335(*)","O","N"," "," ","MS"," ",761
+"spider","NC15A","335(*)","N","N"," "," ","MS"," ",761
+"frying pan","NC15B","336","O","N"," "," ","MS"," ",762
+"spider","NC15B","336","N","N"," "," ","MS"," ",762
+"frying pan","NC15C"," ","O","N"," "," "," "," ",763
+"frying pan","NC16A","339(*)","O","N"," "," ","MS"," ",764
+"frying pan","NC16B","340","O","N"," "," ","MS"," ",765
+"spider","NC16B","340","N","N"," "," ","MS"," ",765
+"frying pan","NC17A","337","O","N"," "," ","MS"," ",766
+"frying pan","NC17B","338","O","N"," "," ","MS"," ",767
+"spider","NC18A","341","N","N"," "," ","MS"," ",768
+"frying pan","NC18B","342","O","N"," "," ","MS"," ",769
+"frying pan","NC19A","343","O","N"," "," ","MS"," ",770
+"spider","NC19B","344","N","N"," "," ","MS"," ",771
+"frying pan","NC20A","345","O","N"," "," ","MS"," ",772
+"frying pan","NC20B","346a","O","N"," "," ","MS"," ",773
+"frying pan","NC20C","346b","O","N"," "," ","MS"," ",774
+"spider","NC21A","347","N","N"," "," ","MS"," ",775
+"frying pan","NC21B","348","O","N"," "," ","MS"," ",776
+"frying pan","NC22A","349","O","N"," "," ","MS"," ",777
+"fry spider","NC22A","349","O","N"," "," ","MS"," ",777
+"frying pan","NC22B","349b","O","N"," "," ","MS"," ",778
+"frying pan","NC23A","351a","O","N"," "," ","MS"," ",779
+"frying pan","NC23B","351b(*)","O","N"," "," ","MS"," ",780
+"frying pan","NC23B","351b(*)","O","Y"," "," ","MS","AUX",780
+"frying pan","NC23C!","351c!","O","N"," "," ","MS"," ",781
+"frying pan","NC23D!","351d!","O","N"," "," ","MS"," ",782
+"frying pan","NC24N","N352","O","N"," "," ","MS"," ",783
+"frying pan","NC24A","352a","O","N"," "," ","MS"," ",784
+"spider","NC24A","352a","N","N"," "," ","MS"," ",784
+"frying pan","NC24B","352b","O","N"," "," ","MS"," ",785
+"spider","NC24B","352b","N","N"," "," ","MS"," ",785
+"frying pan","NC25N","N353","O","N"," "," ","MS"," ",786
+"spider","NC25A","353","N","N"," "," ","MS"," ",787
+"frying pan","NC25B","354","O","N"," "," ","MS"," ",788
+"skillet","NC25B","354","N","N","with legs"," ","MS"," ",788
+"frying pan","NC26A","355a","O","N"," "," ","MS"," ",789
+"spider","NC26A","355a","N","N"," "," ","MS"," ",789
+"frying pan","NC26B","355b","O","N"," "," ","MS"," ",790
+"frying pan","NC26C!","356!","O","N"," "," ","MS"," ",791
+"skillet","NC26C!","356!","N","N"," "," ","MS"," ",791
+"frying pan","NC27A","357","O","N"," "," ","MS"," ",792
+"spider","NC27A","357","N","N"," "," ","MS"," ",792
+"frying pan","NC27B","258","O","N"," "," ","MS"," ",793
+"spider","NC27B","258","N","N"," "," ","MS"," ",793
+"frying pan","NC28A","361","O","N"," "," ","MS"," ",794
+"spider","NC28A","361","N","N","with legs"," ","MS"," ",794
+"frying pan","NC28B","361b","O","N"," "," ","MS"," ",795
+"spider","NC28B","361b","N","N"," "," ","MS"," ",795
+"frying pan","NC28C","362","O","N"," "," ","MS"," ",796
+"frying pan","NC29A","363(*)","O","N"," "," ","MS"," ",797
+"spider","NC29B","364","N","N"," "," ","MS"," ",798
+"frying pan","NC29B","364","O","N"," "," ","MS"," ",798
+"frying pan","NC30A","365","O","N"," "," ","MS"," ",799
+"spider","NC30A","365","N","N"," "," ","MS"," ",799
+"frying pan","NC30B","366","O","N"," "," ","MS"," ",800
+"spider","NC30B","366","N","N","with legs"," ","MS"," ",800
+"frying pan","NC31A","367","O","N"," "," ","MS"," ",801
+"spider","NC31A","367","N","N"," "," ","MS"," ",801
+"frying pan","NC31B","368","O","N"," "," ","MS"," ",802
+"spider","NC31B","368","N","N"," "," ","MS"," ",802
+"frying pan","NC32A","369","O","N"," "," ","MS"," ",803
+"frying pan","NC32B!","370!","O","N"," "," ","MS"," ",804
+"spider","NC32B!","370!","N","N"," "," ","MS","OLD",804
+"frying pan","NC33A","373","O","N"," "," ","MS"," ",805
+"frying pan","NC33B","374","O","N"," "," ","MS"," ",806
+"frying pan","NC34A","375","O","N"," "," ","MS"," ",807
+"frying pan","NC34B","376","O","N"," "," ","MS"," ",808
+"frying pan","NC35A","377","O","N"," "," ","MS"," ",809
+"spider","NC35A","377","N","N"," "," ","MS","OLD",809
+"frying pan","NC35B","378","O","N"," "," ","MS"," ",810
+"spider","NC35B","378","N","N"," "," ","MS"," ",810
+"frying pan","NC36N","N381","O","N"," "," ","MS"," ",811
+"frying pan","NC36A","381","O","N"," "," ","MS"," ",812
+"spider","NC36B","382","N","N"," "," ","MS"," ",813
+"frying pan","NC37A","383","O","N"," "," ","MS"," ",814
+"frying pan","NC37B","384","O","N"," "," ","MS"," ",815
+"skillet","NC37B","384","N","N"," "," ","MS"," ",815
+"frying pan","NC38N","N385","O","N"," "," ","MS"," ",816
+"frying pan","NC38A","385","O","N"," "," ","MS"," ",817
+"frying pan","NC38B","386","O","N"," "," ","MS"," ",818
+"frying pan","NC39A","389","O","N"," "," ","MS"," ",819
+"frying pan","NC39B!","390!","O","N"," "," ","MS"," ",820
+"frying pan","NC40A","391","O","N"," "," ","MS"," ",821
+"frying pan","NC40B","392","O","N"," "," ","MS"," ",822
+"skillet","NC40B","392","N","N"," "," ","MS"," ",822
+"frying pan","NC41!","393!","O","N"," "," ","MS"," ",823
+"frying pan","NC42A","403","O","N"," "," ","MS"," ",824
+"skillet","NC42A","403","N","N"," "," ","MS"," ",824
+"frying pan","NC42B","404(*)","O","N"," "," ","MS"," ",825
+"frying pan","NC43A","397","O","N"," "," ","MS"," ",826
+"frying pan","NC43B","398","O","N"," "," ","MS"," ",827
+"frying pan","NC44","410(*)","O","N"," "," ","MS"," ",828
+"skillet","NC44","410(*)","N","N"," "," ","MS","AUX",828
+"frying pan","NC45A","409(*)","O","N"," "," ","MS"," ",829
+"frying pan","NC45B"," ","O","N"," "," "," "," ",830
+"frying pan","NC46A","411","O","N"," "," ","MS"," ",831
+"skillet","NC46A","411","N","N"," "," ","MS"," ",831
+"frying pan","NC46B","412","O","N"," "," ","MS"," ",832
+"skillet","NC46B","412","N","N"," "," ","MS"," ",832
+"frying pan","NC46C!","412b!","O","N"," "," ","MS"," ",833
+"frying pan","NC47","413","O","N"," "," ","MS"," ",834
+"frying pan","NC48","418","O","N"," "," ","MS"," ",835
+"skillet","NC48","418","N","N","with legs"," ","MS"," ",835
+"frying pan","NC49","421","O"," "," "," ","MS"," ",836
+"frying pan","NC50A","422","O","N"," "," ","MS"," ",837
+"frying pan","NC50B!","423!","O","N"," "," ","MS"," ",838
+"frying pan","NC51A","427","O","N"," "," ","MS"," ",839
+"frying pan","NC51B","428","O","N"," "," ","MS"," ",840
+"fryer","NC52N","N429","N","N"," "," ","MS","NEW",841
+"frying pan","NC52A","429","O","N"," "," ","MS"," ",842
+"frying pan","NC52B","430","O","N"," "," ","MS"," ",843
+"frying pan","NC53A","431","O","N"," "," ","MS"," ",844
+"skillet","NC53A","431","N","N"," "," ","MS"," ",844
+"frying pan","NC53B","432","O","N"," "," ","MS"," ",845
+"frying pan","NC54A","433","O","N"," "," ","MS"," ",846
+"frying pan","NC54B","434","O","N"," "," ","MS"," ",847
+"frying pan","NC55","435","O","N"," "," ","MS"," ",848
+"skillet","NC55","435","N","N"," "," ","MS"," ",848
+"frying pan","NC56A","436","O","N"," "," ","MS"," ",849
+"frying pan","NC56B!","437!","O","N"," "," ","MS"," ",850
+"frying pan","NC57A","438a","O","N"," "," ","MS"," ",851
+"skillet","NC57A","438a","N","N"," "," ","MS"," ",851
+"frying pan","NC57B","438b","O","N"," "," ","MS"," ",852
+"frying pan","NC58A","439","O","N"," "," ","MS"," ",853
+"frying pan","NC58B","440","O","N"," "," ","MS"," ",854
+"frying pan","NC59","441(*)","O","N"," "," ","MS"," ",855
+"frying pan","NC60","442","O","N"," "," ","MS"," ",856
+"frying pan","NC61A","443","O","N"," "," ","MS"," ",857
+"skillet","NC61A","443","N","N"," "," ","MS"," ",857
+"frying pan","NC61B","444","O","N"," "," ","MS"," ",858
+"frying pan","NC62A","447","O","N"," "," ","MS"," ",859
+"frying pan","NC62B","448","O","N"," "," ","MS"," ",860
+"frying pan","NC63A","449","O","N"," "," ","MS"," ",861
+"frying pan","NC63B","450","O","N"," "," ","MS"," ",862
+"frying pan","NC64A","453","O","N"," "," ","MS"," ",863
+"frying pan","NC64B","454","O","N"," "," ","MS"," ",864
+"frying pan","NC65A","461","O","N"," "," ","MS"," ",865
+"frying pan","NC65B","462","O","N"," "," ","MS"," ",866
+"skillet","NC65B","462","N","N","with legs"," ","MS"," ",866
+"frying pan","NC66A","465","O","N"," "," ","MS"," ",867
+"frying pan","NC66B","466","O","N"," "," ","MS"," ",868
+"frying pan","NC67A","469","O","N"," "," ","MS"," ",869
+"frying pan","NC67B","470","O","N"," "," ","MS"," ",870
+"frying pan","NC68A","473","O","N"," "," ","MS"," ",871
+"frying pan","NC68B","474","O","N"," "," ","MS"," ",872
+"frying pan","NC69A","477","O","N"," "," ","MS"," ",873
+"skillet","NC69A","477","N","N"," "," ","MS"," ",873
+"frying pan","NC69B","478","O","N"," "," ","MS"," ",874
+"frying pan","NC70A","479","O","N"," "," ","MS"," ",875
+"skillet","NC70A","479","N","N"," "," ","MS"," ",875
+"frying pan","NC70B","480","O","N"," "," ","MS"," ",876
+"skillet","NC70B","480","N","N"," "," ","MS"," ",876
+"frying pan","NC71A","481","O","N"," "," ","MS"," ",877
+"skillet","NC71A","481","N","N"," "," ","MS"," ",877
+"frying pan","NC71B","482","O","N"," "," ","MS"," ",878
+"frying pan","NC71C!","483!","O","N"," "," ","MS"," ",879
+"frying pan","NC72A","487","O","N"," "," ","MS"," ",880
+"frying pan","NC72B","488","O","N"," "," ","MS"," ",881
+"frying pan","NC73A","491","O","N"," "," ","MS"," ",882
+"frying pan","NC73B","492","O","N"," "," ","MS"," ",883
+"frying pan","NC74A","493","O","N"," "," ","MS"," ",884
+"frying pan","NC74B","494","O","N"," "," ","MS"," ",885
+"skillet","NC74B","494","N","N","with legs"," ","MS"," ",885
+"frying pan","NC75A","495","O","N"," "," ","MS"," ",886
+"frying pan","NC75B","496","O","N"," "," ","MS"," ",887
+"spider","SC1A","203.1","N","N"," "," ","MS"," ",888
+"frying pan","SC1B","203.2","O","N"," "," ","MS"," ",889
+"frying pan","SC2A","204.1(*)","O","N"," "," ","MS"," ",890
+"spider","SC2A","204.1(*)","N","N"," "," ","MS"," ",890
+"frying pan","SC2B","204.2","O","N"," "," ","MS"," ",891
+"spider","SC2B","204.2","N","N","three legs, flat bottom"," ","MS"," ",891
+"skillet","SC2B","204.2","N","N","three legs, round bottom; to heat water"," ","MS"," ",891
+"frying pan","SC2C"," ","O","N"," "," "," ","NEW/SIC",892
+"frying pan","SC3A","205.1","O","N"," "," ","MS"," ",893
+"spider","SC3A","205.1","N","N","for baking (occ. for frying) none when he was boy"," ","MS"," ",893
+"skillet","SC3A","205.1","N","N","for warming water; round bottom"," ","MS"," ",893
+"spiders","SC3B","205.2","N","N","long handled"," ","MS"," ",894
+"spider","SC3C!","205.3!","N","N","open"," ","MS"," ",895
+"griddle","SC3C!","205.3!","N","N"," "," ","MS"," ",895
+"frying pans","SC4A","206.1","O","N"," "," ","MS","NEW",896
+"spider","SC4A","206.1","N","N","three legs and a handle"," ","MS"," ",896
+"frying pan","SC4B","206.2","O","N","fish and eggs"," ","MS"," ",897
+"skillet","SC4B","206.2","N","N","top (cooked vegetables)"," ","MS"," ",897
+"spider","SC4B","206.2","N","N"," "," ","MS"," ",897
+"frying pan","SC4C","206.3","O","N"," "," ","MS"," ",898
+"skillet","SC4C","206.3","N","N","big old frying pan"," ","MS"," ",898
+"spider","SC4C","206.3","N","N","legs"," ","MS"," ",898
+"frying pan","SC5A","207.1","O","N"," "," ","MS"," ",899
+"spider","SC5A","207.1","N","N"," "," ","MS"," ",899
+"frying pans","SC5B","207.2","O","N"," "," ","MS"," ",900
+"spider","SC5B","207.2","N","N","long handle, 3 ft."," ","MS"," ",900
+"skillet","SC5B","207.2","N","N"," "," ","MS"," ",900
+"frying pans","SC5C","207.2A","O","N"," "," ","MS"," ",901
+"spider","SC5C","207.2A","N","N","legs"," ","MS"," ",901
+"frying pan","SC5D!","207.3!","O","N"," "," ","MS"," ",902
+"spider","SC5D!","207.3!","N","N"," "," ","MS"," ",902
+"skillet","SC5D!","207.3!","N","N"," "," ","MS"," ",902
+"frying pan","SC6N","N208","O","N","gets down flat"," ","MS"," ",903
+"spiders","SC6N","N208","N","N","3 foot (to it)"," ","MS"," ",903
+"little skillet","SC6N","N208","O","N","smaller, round bottom"," ","MS"," ",903
+"frying pan","SC6A","208.1","O","N"," "," ","MS"," ",904
+"fry pan","SC6A","208.1","O","N"," "," ","MS"," ",904
+"spider","SC6A","208.1","N","N","deep flat bottom"," ","MS"," ",904
+"skillet","SC6A","208.1","N","N","round for boiling handle"," ","MS"," ",904
+"frying pans","SC6B","208.2(*)","O","N"," "," ","MS"," ",905
+"spider","SC6B","208.2(*)","N","N"," "," ","MS"," ",905
+"fry pan","SC6B","208.2(*)","O","N"," "," ","MS","CNV",905
+"spider","SC6C!","208.3!","N","N"," "," ","MS"," ",906
+"skillet","SC6C!","208.3!","N","N","deep, with legs, used by negroes"," ","MS"," ",906
+"frying pan","SC6D"," ","O","N"," "," "," "," ",907
+"frying pan","SC7N","N209","O","N","small, used for ""boiling soup"""," ","MS"," ",908
+"boiling soup","SC7N","N209","O","Y"," "," ","MS","INA",908
+"spider","SC7N","N209","N","N","flat bottom (some have legs)"," ","MS"," ",908
+"frying pan","SC7A","209.1","O","N"," "," ","MS"," ",909
+"spiders","SC7A","209.1","N","N"," "," ","MS"," ",909
+"frying pan","SC7A","209.1","O","N"," "," ","MS","CNV",909
+"skillet","SC7A","209.1","N","N"," "," ","MS"," ",909
+"pans","SC7A","209.1","N","N"," "," ","MS"," ",909
+"frying pan","SC7B","209.2","O","N"," "," ","MS"," ",910
+"spider","SC7B","209.2","N","N"," "," ","MS"," ",910
+"frying pan","SC7C!","209.3!","O","N"," "," ","MS"," ",911
+"skillet","SC7C!","209.3!","N","N"," "," ","MS"," ",911
+"skillet","SC7C!","209.3!","N","N"," "," ","MS"," ",911
+"frying pan","SC7D!","209.4!","O","N"," "," ","MS"," ",912
+"skillet","SC7D!","209.4!","N","N"," "," ","MS"," ",912
+"spiders","SC7D!","209.4!","N","Y"," "," ","MS","AUX",912
+"spider","SC8A","210.1","N","N"," "," ","MS"," ",913
+"spiders","SC8B","210.2","N","N","legs"," ","MS"," ",914
+"frying pan","SC8C","210.3","O","N","iron"," ","MS"," ",915
+"skillet","SC8C","210.3","N","N"," "," ","MS"," ",915
+"a spider","SC8C","210.3","O","N"," "," ","MS"," ",915
+"spider","SC9A","211.1","N","N","to fry meat or bake bread in"," ","MS"," ",916
+"skillet","SC9A","211.1","N","N","to cook bread on"," ","MS"," ",916
+"frying pan","SC9B","211.2","O","N"," "," ","MS"," ",917
+"skillet","SC9B","211.2","N","N"," "," ","MS"," ",917
+"spider","SC9B","211.2","N","N","three legs"," ","MS"," ",917
+"frying pan","SC9C!","211.3!","O","N"," "," ","MS"," ",918
+"spider","SC9C!","211.3!","N","N","old time legs"," ","MS"," ",918
+"frying pan","SC9D!","211.4!","O","N"," "," ","MS"," ",919
+"spider","SC9D!","211.4!","N","N","frying pan with legs"," ","MS"," ",919
+"frying pan","SC10A","212.1","O","N"," "," ","MS"," ",920
+"skillet","SC10A","212.1","N","N","some people"," ","MS"," ",920
+"frying pan","SC10B!","212.2!","O","N"," "," ","MS"," ",921
+"frying pan","SC10C!","212.3!","O","N"," "," ","MS"," ",922
+"spider","SC10C!","212.3!","N","N","small"," ","MS"," ",922
+"frying pan","SC11N","N213","O","N"," "," ","MS"," ",923
+"spider","SC11N","N213","N"," "," "," ","MS"," ",923
+"skillet","SC11N","N213","N","N"," "," ","MS"," ",923
+"frying pan","SC11M!","2n213!","O","N"," "," ","MS"," ",924
+"skillet","SC11M!","2n213!","N","N"," "," ","MS"," ",924
+"frying pan","SC11A","213.1(*)","O","N"," "," ","MS"," ",925
+"spider","SC11A","213.1(*)","N","Y"," "," ","MS","HRD",925
+"skillet","SC11A","213.1(*)","N","N"," "," ","MS"," ",925
+"frying pan","SC11B","213.11","O","N"," "," ","MS"," ",926
+"skillet","SC11B","213.11","N","N"," "," ","MS"," ",926
+"frying pan","SC11C","213.2","O","N"," "," ","MS"," ",927
+"skillet","SC11C","213.2","N","N"," "," ","MS"," ",927
+"skillet","SC11C","213.2","N","N"," "," ","MS"," ",927
+"frying pan","SC11D","213.3","O","N"," "," ","MS"," ",928
+"spider","SC11D","213.3","N","N"," "," ","MS"," ",928
+"skillet","SC11D","213.3","N","N"," "," ","MS"," ",928
+"frying pan","SC11E","213.4","O","N"," "," ","MS"," ",929
+"skillet","SC11E","213.4","N","N"," "," ","MS"," ",929
+"spider","SC11E","213.4","N","N"," "," ","MS"," ",929
+"frying pan","SC11F","213.5","O","N"," "," ","MS"," ",930
+"cast iron skillet","SC11F","213.5","O","N"," "," ","MS"," ",930
+"frying pan","SC11G!","213.7!","O","N"," "," ","MS"," ",931
+"skillet","SC11G!","213.7!","N","N"," "," ","MS"," ",931
+"smaller scale","SC11G!","213.7!","O","Y"," "," ","MS","INA",931
+"frying pan","SC11H!","213.8!","O","N"," "," ","MS"," ",932
+"skillet","SC11H!","213.8!","N","N"," "," ","MS"," ",932
+"spider","SC11H!","213.8!","N","N"," "," ","MS"," ",932
+"frying pan","SC11I!","213.9!","O","Y"," "," ","MS","AUX",933
+"frying pan","SC11J!","213.10!","O","N"," "," ","MS"," ",934
+"frying pan","SC11J!","213.10!","O","N"," "," ","MS"," ",934
+"skillet","SC11J!","213.10!","N","N"," "," ","MS"," ",934
+"NR","SC12A","214.1"," "," "," "," ","MS"," ",935
+"frying pan","SC12B","214.2","O","N"," "," ","MS"," ",936
+"skillet","SC12B","214.2","N","N"," "," ","MS"," ",936
+"spider","SC12B","214.2","N","N","long handle, 3 legs, deep"," ","MS"," ",936
+"frying pan","SC13","213.6","O","N"," "," ","MS"," ",937
+"skillet","SC13","213.6","N","N","cast iron (deeper)"," ","MS"," ",937
+"frying pan","SC14A","215.1","O","N"," "," ","MS"," ",938
+"spider","SC14A","215.1","N","N","long handle, 6 legs, deep"," ","MS"," ",938
+"frying pan","SC14B","215.2","O","N"," "," ","MS"," ",939
+"skillet","SC14B","215.2","N","N","""heard cook and ask about¢"," ","MS","NEW",939
+"spider","SC14B","215.2","N","N","""built upon legs¢"," ","MS"," ",939
+"frying pan","SC15A","216.1","O","N"," "," ","MS"," ",940
+"spiders","SC15A","216.1","N","N","= hooks, legs"," ","MS"," ",940
+"griddle","SC15A","216.1","N","N"," "," ","MS"," ",940
+"trivet","SC15A","216.1","N","N","3 legs on a ring"," ","MS"," ",940
+"frying pans","SC15B","216.2","O","N","fried in"," ","MS"," ",941
+"skillet","SC15B","216.2","N","N"," "," ","MS"," ",941
+"spider","SC15B","216.2","N","N","baked in"," ","MS"," ",941
+"spiders","SC15C","216.3","N","N","on legs"," ","MS"," ",942
+"frying pan","SC16N","N217","O","N"," "," ","MS"," ",943
+"spider","SC16N","N217","N","N"," "," ","MS"," ",943
+"skillet","SC16N","N217","N","N"," "," ","MS"," ",943
+"NR","SC16","217.1"," "," "," "," ","MS","N",944
+"frying pan","SC17A","218.1","O","N"," "," ","MS"," ",945
+"spider","SC17A","218.1","N","N"," "," ","MS"," ",945
+"skillets","SC17A","218.1","N","N"," "," ","MS","CNV",945
+"frying pans","SC17B","218.2","O","N"," "," ","MS"," ",946
+"skillet","SC17B","218.2","N","N"," "," ","MS"," ",946
+"spiders","SC17B","218.2","N","N"," "," ","MS"," ",946
+"griddle iron","SC17B","218.2","O","N","legs"," ","MS"," ",946
+"frying pan","SC17C","218.3","O","N"," "," ","MS"," ",947
+"skillet","SC17C","218.3","N","N"," "," ","MS"," ",947
+"spider","SC17C","218.3","N","N"," "," ","MS"," ",947
+"frying pan","SC17D","218.4","O","N","always cast iron"," ","MS"," ",948
+"spider","SC17D","218.4","N","N"," "," ","MS"," ",948
+"skillet","SC17D","218.4","N","N"," "," ","MS"," ",948
+"frying pan","SC18N","N219","O","N"," "," ","MS"," ",949
+"spider","SC18N","N219","N","N"," "," ","MS"," ",949
+"skillet","SC18N","N219","N","N"," "," ","MS"," ",949
+"frying pan","SC18A","219.1","O","N"," "," ","MS"," ",950
+"spider","SC18A","219.1","N","N"," "," ","MS"," ",950
+"skillet","SC18A","219.1","N","N"," "," ","MS"," ",950
+"frying pan","SC18B","219.2","O","N"," "," ","MS"," ",951
+"skillet","SC18B","219.2","N","N"," "," ","MS"," ",951
+"spider","SC18B","219.2","N","N"," "," ","MS"," ",951
+"frying pan","SC18C!","219.3(*)!","O","N","now out of light metal"," ","MS"," ",952
+"skillet","SC18C!","219.3(*)!","N","N"," "," ","MS"," ",952
+"spider","SC18C!","219.3(*)!","N","N"," "," ","MS"," ",952
+"NR","SC18D!"," "," ","N"," "," "," "," ",953
+"frying pan","SC19N","N220","O","N"," "," ","MS"," ",954
+"spider","SC19N","N220","N","N","bake, deep, top, flat bottom"," ","MS"," ",954
+"skillet","SC19N","N220","N","N","= saucepan"," ","MS"," ",954
+"frying pan","SC19A","220.1","O","N"," "," ","MS"," ",955
+"frying pan","SC19A","220.1","O","N"," "," ","MS","CNV",955
+"spider","SC19A","220.1","N","N"," "," ","MS"," ",955
+"frying pan","SC19B","220.4","O","N"," "," ","MS"," ",956
+"fry pan","SC19B","220.4","O","N"," "," ","MS"," ",956
+"frying pan","SC19C","220.2(*)","O","N"," "," ","MS"," ",957
+"spider","SC19C","220.2(*)","N","N"," "," ","MS"," ",957
+"skillet","SC19C","220.2(*)","N","N"," "," ","MS"," ",957
+"frying pan","SC19D!","220.3!","O","N"," "," ","MS"," ",958
+"skillet","SC19D!","220.3!","N","N"," "," ","MS"," ",958
+"spider","SC19D!","220.3!","N","N"," "," ","MS"," ",958
+"NR","SC19E!"," "," ","N"," "," "," "," ",959
+"frying pan","SC20A","221.1","O","N"," "," ","MS"," ",960
+"spiders","SC20A","221.1","N","N"," "," ","MS"," ",960
+"skillet","SC20A","221.1","N","N"," "," ","MS"," ",960
+"frying pan","SC20B","221.2","O","N","square sides, flat bottom"," ","MS"," ",961
+"spider","SC20B","221.2","N","N","legs and long handle"," ","MS"," ",961
+"skillet","SC20B","221.2","N","N","small, on legs, heated water in"," ","MS"," ",961
+"frying pan","SC20C","221.3","O","N"," "," ","MS"," ",962
+"skillet","SC20C","221.3","N","N"," "," ","MS"," ",962
+"spider","SC20C","221.3","N","N"," "," ","MS"," ",962
+"frying pan","SC20D!","221.4!","O","N"," "," ","MS"," ",963
+"spider","SC20D!","221.4!","N","N"," "," ","MS"," ",963
+"skillet","SC20D!","221.4!","N","N"," "," ","MS"," ",963
+"frying pan","SC21A","222.1","O","N"," "," ","MS"," ",964
+"spider","SC21A","222.1","N","N"," "," ","MS"," ",964
+"frying pan","SC21B","222.2","O","N"," "," ","MS"," ",965
+"skillet","SC21B","222.2","N","N"," "," ","MS"," ",965
+"frying pan","SC22N","N223","O","N"," "," ","MS"," ",966
+"spider","SC22N","N223","N","N"," "," ","MS"," ",966
+"skillet","SC22N","N223","N","N","long handle, legs, very deep, round bottom"," ","MS"," ",966
+"frying pan","SC22A","223.1","O","N"," "," ","MS"," ",967
+"spider","SC22A","223.1","N","N"," "," ","MS"," ",967
+"skillet","SC22A","223.1","N","N"," "," ","MS"," ",967
+"frying pan","SC22B","223.2","O","N"," "," ","MS"," ",968
+"spider","SC22B","223.2","N","N"," "," ","MS"," ",968
+"skillet","SC22B","223.2","N","N"," "," ","MS"," ",968
+"frying pan","SC22C!","223.3!","O","N"," "," ","MS"," ",969
+"skillet","SC22C!","223.3!","N","N"," "," ","MS"," ",969
+"spider","SC22C!","223.3!","N","N"," "," ","MS"," ",969
+"spider","SC23A","224.1","N","N"," "," ","MS"," ",970
+"griddles","SC23A","224.1","N","N"," "," ","MS"," ",970
+"spider","SC23B","224.2","N","N"," "," ","MS"," ",971
+"skillet","SC23B","224.2","N","N"," "," ","MS"," ",971
+"frying pan","SC23C","224.3","O","N"," "," ","MS"," ",972
+"spider","SC23C","224.3","N","N"," "," ","MS"," ",972
+"frying pan","SC23D","224.4","O","N"," "," ","MS"," ",973
+"spider","SC23D","224.4","N","N"," "," ","MS"," ",973
+"skillet","SC23D","224.4","N","N"," "," ","MS"," ",973
+"frying pans","SC23E!","224.5!","O","N"," "," ","MS"," ",974
+"spider","SC23E!","224.5!","N","N"," "," ","MS"," ",974
+"frying pan","SC24N","N225","O","N"," "," ","MS"," ",975
+"spider","SC24N","N225","N","N"," "," ","MS"," ",975
+"frying pan","SC24A","225.1","O","N"," "," ","MS","CNV",976
+"spider","SC24A","225.1","N","N"," "," ","MS"," ",976
+"frying pan","SC24B","225.11","O","N"," "," ","MS"," ",977
+"skillet","SC24B","225.11","N","N"," "," ","MS"," ",977
+"spider","SC24B","225.11","N","N"," "," ","MS"," ",977
+"frying pan","SC24C","225.2","O","N"," "," ","MS"," ",978
+"skillets","SC24C","225.2","N","N"," "," ","MS"," ",978
+"spider","SC24C","225.2","N","N"," "," ","MS"," ",978
+"spider","SC24D!","225.3!","N","N"," "," ","MS"," ",979
+"skillet","SC24D!","225.3!","N","N"," "," ","MS"," ",979
+"fry pan","SC25A","226.1","O","N"," "," ","MS"," ",980
+"spider","SC25A","226.1","N","N","handle on, deep to bake, legs"," ","MS"," ",980
+"skillet","SC25A","226.1","N","N","3 legs, handle, to boil, deep, round bottom"," ","MS"," ",980
+"frying pan","SC25B","226.2","O","N"," "," ","MS"," ",981
+"spider","SC25B","226.2","N","N"," "," ","MS"," ",981
+"skillet","SC25B","226.2","N","N","small pot for heating water"," ","MS"," ",981
+"frying pans","SC25C!","226.3!","O","N"," "," ","MS"," ",982
+"skillet","SC25C!","226.3!","N","N"," "," ","MS"," ",982
+"spider","SC25C!","226.3!","N","N","had legs"," ","MS"," ",982
+"frying pans","SC26A","227.1","O","N"," "," ","MS"," ",983
+"skillet","SC26A","227.1","N","N","no legs"," ","MS"," ",983
+"spiders","SC26A","227.1","N","N","legs"," ","MS"," ",983
+"frying pan","SC26B!","227.2!","O","N"," "," ","MS"," ",984
+"skillet","SC26B!","227.2!","N","N"," "," ","MS"," ",984
+"spider","SC26B!","227.2!","N","N","heavy thick iron"," ","MS"," ",984
+"frying pan","SC27A","228.1","O","N"," "," ","MS"," ",985
+"spider","SC27A","228.1","N","N"," "," ","MS"," ",985
+"frying pan","SC27B","228.2","O","N"," "," ","MS"," ",986
+"spiders","SC27B","228.2","N","N"," "," ","MS"," ",986
+"skillet","SC27B","228.2","N","N","pot with long handle"," ","MS"," ",986
+"frying pan","SC28A","229.1","O","N"," "," ","MS","CNV",987
+"spider","SC28A","229.1","N","N"," "," ","MS"," ",987
+"griddle","SC28A","229.1","N","N"," "," ","MS"," ",987
+"frying pan","SC28B","217.2","O","N"," "," ","MS"," ",988
+"spider","SC28B","217.2","N","N"," "," ","MS"," ",988
+"griddle","SC28B","217.2","N","N"," "," ","MS"," ",988
+"frying pan","SC28C","229.2","O","N"," "," ","MS"," ",989
+"spider","SC28C","229.2","N","N"," "," ","MS"," ",989
+"frying pan","SC28D","229.3","O","N"," "," ","MS"," ",990
+"skillet","SC28D","229.3","N","N"," "," ","MS"," ",990
+"spiders","SC29A","230.2(*)","N","N"," "," ","MS"," ",991
+"skillet","SC29A","230.2(*)","N","N"," "," ","MS"," ",991
+"frying pan","SC29B","230.1(*)","O","N"," "," ","MS","CNV",992
+"skillet","SC29B","230.1(*)","N","N"," "," ","MS"," ",992
+"spider","SC29B","230.1(*)","N","N"," "," ","MS","CNV",992
+"frying pan","SC29C","230.3","O","N"," "," ","MS"," ",993
+"skillet","SC29C","230.3","N","N"," "," ","MS","CNV",993
+"spider","SC29C","230.3","N","N"," "," ","MS"," ",993
+"spider","SC29D"," ","N","N"," "," "," "," ",994
+"frying pan","SC29E"," ","O","N"," "," "," "," ",995
+"frying pan","SC30A","231.1","O","N"," "," ","MS"," ",996
+"spider","SC30A","231.1","N","N"," "," ","MS"," ",996
+"skillet","SC30A","231.1","N","N"," "," ","MS"," ",996
+"frying pan","SC30B","231.2","O","N"," "," ","MS"," ",997
+"skillet","SC30B","231.2","N","N"," "," ","MS"," ",997
+"spider","SC30B","231.2","N","N"," "," ","MS"," ",997
+"frying pan","SC30C!","231.3!","O","N"," "," ","MS"," ",998
+"skillet","SC30C!","231.3!","N","N"," "," ","MS"," ",998
+"spider","SC30C!","231.3!","N","N"," "," ","MS"," ",998
+"frying pan","SC31A","232.1","O","N"," "," ","MS"," ",999
+"frying pan","SC31A","232.1","O","N"," "," ","MS"," ",999
+"frying pan","SC31B","232.2","O","N"," "," ","MS"," ",1000
+"spider","SC31B","232.2","N","N"," "," ","MS"," ",1000
+"frying pans","SC32A","233.1","O","N"," "," ","MS"," ",1001
+"skillet","SC32A","233.1","N","N"," "," ","MS"," ",1001
+"spider","SC32A","233.1","N","N"," "," ","MS"," ",1001
+"frying pan","SC32B","233.2","O","N"," "," ","MS"," ",1002
+"skillet","SC32B","233.2","N","N"," "," ","MS"," ",1002
+"spider","SC32B","233.2","N","N"," "," ","MS"," ",1002
+"frying pan","SC32C","233.3","O","N"," "," ","MS"," ",1003
+"skillet","SC32C","233.3","N","N"," "," ","MS"," ",1003
+"spider","SC32C","233.3","N","N"," "," ","MS"," ",1003
+"frying pan","SC32D","233.4","O","N"," "," ","MS"," ",1004
+"frying pan","SC32D","233.4","O","N"," "," ","MS"," ",1004
+"skillet","SC32D","233.4","N","N"," "," ","MS"," ",1004
+"frying pan","SC33A","234.1","O","N"," "," ","MS"," ",1005
+"skillet","SC33A","234.1","N","N"," "," ","MS"," ",1005
+"frying pans","SC33B","234.2","O","N"," "," ","MS"," ",1006
+"spider","SC33B","234.2","N","N"," "," ","MS"," ",1006
+"skillet","SC33B","234.2","N","N"," "," ","MS"," ",1006
+"frying pan","SC34A","235.1","O","N"," "," ","MS"," ",1007
+"skillet","SC34A","235.1","N","N"," "," ","MS"," ",1007
+"skillet","SC34A","235.1","N","N"," "," ","MS","CNV",1007
+"frying pan","SC34B","235.2","O","N"," "," ","MS"," ",1008
+"frying pan","SC34B","235.2","O","N"," "," ","MS","CNV",1008
+"skillet","SC34B","235.2","N","N"," "," ","MS"," ",1008
+"frying pan","SC34C","235.3","O","N"," "," ","MS"," ",1009
+"skillet","SC34C","235.3","N","N"," "," ","MS"," ",1009
+"frying pan","SC35A","236.1","O","N"," "," ","MS"," ",1010
+"skillet","SC35A","236.1","N","N"," "," ","MS"," ",1010
+"frying pan","SC35B","236.2","O","N","sheet metal"," ","MS"," ",1011
+"skillet","SC35B","236.2","N","N","old name = iron"," ","MS"," ",1011
+"frying pan","SC35C","236.3(*)","O","N"," "," ","MS"," ",1012
+"skillet","SC35C","236.3(*)","N","N"," "," ","MS"," ",1012
+"spider","SC35C","236.3(*)","N","N"," "," ","MS","SUG",1012
+"NR","SC35D"," "," ","N"," "," "," "," ",1013
+"frying pan","SC35E!"," ","O","N"," "," "," "," ",1014
+"frying pan","SC36A","237.1","O","N"," "," ","MS","CNV",1015
+"skillet","SC36A","237.1","N","N"," "," ","MS"," ",1015
+"skillets","SC36A","237.1","N","N"," "," ","MS"," ",1015
+"frying pan","SC36B","237.2","O","N"," "," ","MS"," ",1016
+"pans","SC36B","237.2","N","N"," "," ","MS"," ",1016
+"spiders","SC36B","237.2","N","N"," "," ","MS"," ",1016
+"frying pan","SC36C","237.3","O","N"," "," ","MS"," ",1017
+"skillet","SC36C","237.3","N","N"," "," ","MS"," ",1017
+"frying pan","SC36D!","237.4!","O","N"," "," ","MS"," ",1018
+"frying pan","SC37","238","O","N"," "," ","MS"," ",1019
+"frying pan","SC38N","N239","O","N"," "," ","MS"," ",1020
+"spider","SC38N","N239","N","N"," "," ","MS"," ",1020
+"skillet","SC38N","N239","N","N"," "," ","MS"," ",1020
+"frying pans","SC38A","239.1","O","Y"," "," ","MS","NEW",1021
+"spider","SC38A","239.1","N","N"," "," ","MS","SIC",1021
+"skillet","SC38A","239.1","N","N"," "," ","MS"," ",1021
+"frying pan","SC38B","239.2","O","N"," "," ","MS"," ",1022
+"skillet","SC38B","239.2","N","N"," "," ","MS"," ",1022
+"spider","SC38B","239.2","N","N"," "," ","MS"," ",1022
+"frying pan","SC38C!","239.3!","O","N"," "," ","MS"," ",1023
+"skillet","SC38C!","239.3!","N","N"," "," ","MS"," ",1023
+"spider","SC38C!","239.3!","N","N"," "," ","MS"," ",1023
+"frying pan","SC38D!","239.4(*)!","O","N"," "," ","MS"," ",1024
+"skillets","SC38D!","239.4(*)!","N","N"," "," ","MS"," ",1024
+"spider","SC38D!","239.4(*)!","N","N"," "," ","MS"," ",1024
+"NR","SC38E!"," "," ","N"," "," "," "," ",1025
+"frying pan","SC39A","240.1","O","N"," "," ","MS"," ",1026
+"skillet","SC39A","240.1","N","N"," "," ","MS"," ",1026
+"spider","SC39A","240.1","N","N"," "," ","MS"," ",1026
+"frying pan","SC39B!","240.2!","O","N"," "," ","MS"," ",1027
+"skillet","SC39B!","240.2!","N","N"," "," ","MS"," ",1027
+"spider","SC39B!","240.2!","N","N"," "," ","MS"," ",1027
+"frying pan","SC40A","241.1","O","N"," "," ","MS"," ",1028
+"frying pan","SC40A","241.1","O","N"," "," ","MS"," ",1028
+"frying pan","SC40A","241.1","O","N"," "," ","MS"," ",1028
+"frying pan","SC40B","241.2","O","N"," "," ","MS"," ",1029
+"skillet","SC40B","241.2","N","N"," "," ","MS"," ",1029
+"spider","SC40B","241.2","N","N"," "," ","MS"," ",1029
+"frying pan","SC41A","242.1","O","N"," "," ","MS"," ",1030
+"skillet","SC41A","242.1","N"," "," "," ","MS"," ",1030
+"spider","SC41A","242.1","N","N"," "," ","MS"," ",1030
+"frying pan","SC41B","242.2","O","N"," "," ","MS"," ",1031
+"spiders","SC41B","242.2","N","N"," "," ","MS"," ",1031
+"frying pan","SC42N","N243","O","N"," "," ","MS"," ",1032
+"skillets","SC42N","N243","N","N"," "," ","MS"," ",1032
+"spider","SC42N","N243","N","Y"," "," ","MS","SUG/HRD",1032
+"NR","SC42M"," "," ","N"," "," "," "," ",1033
+"fryer","SC42A","243.1","N","N"," "," ","MS"," ",1034
+"skillet","SC42A","243.1","N","N"," "," ","MS"," ",1034
+"frying pan","SC42B!","243.2!","O","N"," "," ","MS"," ",1035
+"skillet","SC42B!","243.2!","N","N"," "," ","MS"," ",1035
+"skillet","SC42B!","243.2!","N","N"," "," ","MS"," ",1035
+"frying pan","SC42C!","243.3!","O","N"," "," ","MS"," ",1036
+"skillet","SC42C!","243.3!","N","N"," "," ","MS"," ",1036
+"spider","SC42C!","243.3!","N","N"," "," ","MS"," ",1036
+"frying pan","SC42D!","243.4!","O","N","general term"," ","MS"," ",1037
+"skillet","SC42D!","243.4!","N","N"," "," ","MS"," ",1037
+"frying pan","SC42E!","243.5!","O","N"," "," ","MS"," ",1038
+"skillet","SC42E!","243.5!","N","N"," "," ","MS"," ",1038
+"NR","SC43A","244.1"," ","N"," "," ","MS"," ",1039
+"frying pan","SC43B","244.2","O","N"," "," ","MS"," ",1040
+"frying pan","SC43B","244.2","O","N"," "," ","MS"," ",1040
+"skillet","SC43B","244.2","N","N"," "," ","MS"," ",1040
+"frying pan","SC43C","244.3","O","Y"," "," ","MS","AUX",1041
+"skillet","SC43C","244.3","N","N"," "," ","MS"," ",1041
+"spider","SC43C","244.3","N","N"," "," ","MS"," ",1041
+"frying pan","SC44A","245.1","O","N"," "," ","MS"," ",1042
+"skillet","SC44A","245.1","N","N"," "," ","MS"," ",1042
+"little skillets","SC44A","245.1","O","N"," "," ","MS"," ",1042
+"spiders","SC44A","245.1","N","N"," "," ","MS"," ",1042
+"frying pan","SC44B","245.2","O","N"," "," ","MS"," ",1043
+"skillet","SC44B","245.2","N","N"," "," ","MS"," ",1043
+"spiders","SC44B","245.2","N","N"," "," ","MS"," ",1043
+"frying pan","GA1N","N246","O","N"," "," ","MS"," ",1044
+"skillet","GA1N","N246","N","N"," "," ","MS"," ",1044
+"frying pan","GA1A","246.1(*)","O","N"," "," ","MS"," ",1045
+"skillet","GA1A","246.1(*)","N","N"," "," ","MS"," ",1045
+"spider","GA1A","246.1(*)","N","N"," "," ","MS"," ",1045
+"frying pan","GA1B","246.11","O","N"," "," ","MS"," ",1046
+"skillet","GA1B","246.11","N","N"," "," ","MS"," ",1046
+"spiders","GA1B","246.11","N","N"," "," ","MS"," ",1046
+"frying pan","GA1C","246.2","O","N"," "," ","MS","CNV",1047
+"frying pan","GA1D","246.3","O","N"," "," ","MS"," ",1048
+"skillet","GA1D","246.3","N","N"," "," ","MS"," ",1048
+"frying pan","GA1E","246.4","O","N"," "," ","MS"," ",1049
+"skillet","GA1E","246.4","N","N"," "," ","MS"," ",1049
+"frying pan","GA1F!","246.5!","O","N"," "," ","MS"," ",1050
+"skillet","GA1F!","246.5!","N","N"," "," ","MS"," ",1050
+"spider","GA1F!","246.5!","N","N"," "," ","MS"," ",1050
+"frying pan","GA1G!","246.6!","O","N"," "," ","MS"," ",1051
+"griddle pan","GA1G!","246.6!","O","N"," "," ","MS"," ",1051
+"frying pan","GA1H!","246.7!","O","N"," "," ","MS"," ",1052
+"frying pan","GA1H!","246.7!","O","N"," "," ","MS"," ",1052
+"skillet","GA1H!","246.7!","N","N"," "," ","MS"," ",1052
+"frying pan","GA2N","N247","O","N"," "," ","MS"," ",1053
+"spiders","GA2N","N247","N","N"," "," ","MS"," ",1053
+"spider","GA2A","247.1","N","N"," "," ","MS"," ",1054
+"shallow spider","GA2A","247.1","O","N"," "," ","MS"," ",1054
+"frying pan","GA2B","247.2","O","N"," "," ","MS"," ",1055
+"skillet","GA2B","247.2","N","N"," "," ","MS"," ",1055
+"spider","GA2B","247.2","N","N"," "," ","MS"," ",1055
+"hoe cake spider","GA2B","247.2","O","N"," "," ","MS"," ",1055
+"frying pan","GA3A","248.1","O","N"," "," ","MS"," ",1056
+"skillet","GA3A","248.1","N","N"," "," ","MS"," ",1056
+"spider","GA3A","248.1","N","N"," "," ","MS"," ",1056
+"frying pans","GA3B","248.2","O","N"," "," ","MS"," ",1057
+"spider","GA3B","248.2","N","N"," "," ","MS"," ",1057
+"frying pan","GA4N","N249","O","N"," "," ","MS"," ",1058
+"skillet","GA4N","N249","N","N"," "," ","MS"," ",1058
+"spider","GA4N","N249","N","N"," "," ","MS"," ",1058
+"frying pans","GA4A","249.1","O","N"," "," ","MS"," ",1059
+"frying pan","GA4A","249.1","O","N"," "," ","MS"," ",1059
+"skillet","GA4A","249.1","N","Y"," "," ","MS","NEW",1059
+"frying pans","GA4B","249.2","O","N"," "," ","MS"," ",1060
+"spider","GA4B","249.2","N","N"," "," ","MS"," ",1060
+"frying pan","GA4C!","249.3!","O","N"," "," ","MS"," ",1061
+"frying pans","GA5A","250.1","O","N"," "," ","MS"," ",1062
+"skillet","GA5A","250.1","N","N"," "," ","MS"," ",1062
+"spider","GA5A","250.1","N","N"," "," ","MS"," ",1062
+"frying pan","GA5B","250.2","O","N"," "," ","MS","CNV",1063
+"frying pans","GA5C","250.3","O","N"," "," ","MS"," ",1064
+"spider","GA5C","250.3","N","N"," "," ","MS"," ",1064
+"frying pans","GA5D!","250.4!","O","N"," "," ","MS"," ",1065
+"spider","GA5D!","250.4!","N","N"," "," ","MS"," ",1065
+"frying pan","GA5E!","250.5!","O","N"," "," ","MS"," ",1066
+"spider","GA5E!","250.5!","N","N"," "," ","MS"," ",1066
+"frying pan","GA6A","251.1","O","N"," "," ","MS"," ",1067
+"skillet","GA6A","251.1","N","N"," "," ","MS"," ",1067
+"spider","GA6A","251.1","N","N"," "," ","MS"," ",1067
+"frying pan","GA6B!","251.2!","O","N"," "," ","MS"," ",1068
+"spider","GA6B!","251.2!","N","Y"," "," ","MS","HRD",1068
+"frying pan","GA7","256","O","Y"," "," ","MS","NEW",1069
+"skillet","GA7","256","N","N"," "," ","MS"," ",1069
+"spiders","GA7","256","N","N"," "," ","MS"," ",1069
+"frying pan","GA8A","257.1","O","N"," "," ","MS"," ",1070
+"spider","GA8A","257.1","N","N"," "," ","MS"," ",1070
+"frying pan","GA8B","257.2","O","N"," "," ","MS"," ",1071
+"skillet","GA8B","257.2","N","N"," "," ","MS"," ",1071
+"spider","GA8B","257.2","N","N"," "," ","MS"," ",1071
+"griddle","GA8B","257.2","N","N"," "," ","MS"," ",1071
+"frying pan","GA9A","257A.1","O","N"," "," ","MS"," ",1072
+"frying pan","GA9A","257A.1","O","N"," "," ","MS"," ",1072
+"frying pan","GA9B","257A.2","O","N"," "," ","MS"," ",1073
+"skillet","GA9B","257A.2","N","N"," "," ","MS"," ",1073
+"frying pan","GA10A","258.1","O","N"," "," ","MS"," ",1074
+"skillet","GA10A","258.1","N","N"," "," ","MS"," ",1074
+"spider","GA10A","258.1","N","N"," "," ","MS"," ",1074
+"frying pan","GA10B","258.2","O","N"," "," ","MS"," ",1075
+"spiders","GA10B","258.2","N","N"," "," ","MS","CNV",1075
+"frying pan","GA11N","N258A","O","N"," "," ","MS"," ",1076
+"skillet","GA11N","N258A","N","N"," "," ","MS"," ",1076
+"frying pan","GA12A","259.1","O","N"," "," ","MS"," ",1077
+"spider","GA12A","259.1","N","N"," "," ","MS"," ",1077
+"griddle","GA12A","259.1","N","N"," "," ","MS"," ",1077
+"skillet","GA12A","259.1","N","N"," "," ","MS","CNV",1077
+"frying pan","GA12B!","259.2(.3)","O","N"," "," ","MS"," ",1078
+"skillet","GA12B!","259.2(.3)","N","N"," "," ","MS"," ",1078
+"frying pan","GA13A","260.1","O","N"," "," ","MS"," ",1079
+"skillet","GA13A","260.1","N","N"," "," ","MS"," ",1079
+"spider","GA13A","260.1","N","N"," "," ","MS"," ",1079
+"frying pan","GA13B!","260.2!","O","N"," "," ","MS"," ",1080
+"skillet","GA13B!","260.2!","N","N"," "," ","MS"," ",1080
+"griddle","GA13B!","260.2!","N","N"," "," ","MS"," ",1080
+"frying pan","GA13B!","260.2!","O","N"," "," ","MS"," ",1080
+"frying pan","GA14A","261.1","O","N"," "," ","MS"," ",1081
+"spiders","GA14A","261.1","N","N"," "," ","MS"," ",1081
+"frying pan","GA14B","261.3","O","N"," "," ","MS"," ",1082
+"skillet","GA14B","261.3","N","N"," "," ","MS"," ",1082
+"spiders","GA14B","261.3","N","N"," "," ","MS"," ",1082
+"frying pan","GA14C","261.2","O","N"," "," ","MS"," ",1083
+"spiders","GA14C","261.2","N","N"," "," ","MS"," ",1083
+"frying pan","GA15A","262.1","O","N"," "," ","MS"," ",1084
+"skillet","GA15A","262.1","N","N"," "," ","MS"," ",1084
+"spider","GA15A","262.1","N","N"," "," ","MS"," ",1084
+"frying pan","GA15B","262.2","O","N"," "," ","MS"," ",1085
+"skillet","GA15B","262.2","N","N"," "," ","MS"," ",1085
+"spiders","GA15B","262.2","N","N"," "," ","MS"," ",1085
+"griddle","GA15B","262.2","N","N"," "," ","MS"," ",1085
+"frying pan","GA16A","263.2","O","N"," "," ","MS"," ",1086
+"spiders","GA16A","263.2","N","N"," "," ","MS"," ",1086
+"frying pan","GA16B","263.1","O","N"," "," ","MS"," ",1087
+"spiders","GA16B","263.1","N","N"," "," ","MS"," ",1087
+"frying pan","GA16C","263.21","O","N"," "," ","MS"," ",1088
+"skillet","GA16C","263.21","N","N"," "," ","MS"," ",1088
+"frying pan","GA16D!","263.3!","O","N"," "," ","MS"," ",1089
+"skillet","GA16D!","263.3!","N","N"," "," ","MS"," ",1089
+"spider","GA16D!","263.3!","N","N"," "," ","MS"," ",1089
+"frying pan","GA17N","N264","O","N"," "," ","MS"," ",1090
+"skillet","GA17N","N264","N","N"," "," ","MS"," ",1090
+"spider","GA17N","N264","N","N"," "," ","MS"," ",1090
+"griddle","GA17N","N264","N","N"," "," ","MS"," ",1090
+"pan","GA17","264","N","N"," "," ","MS"," ",1091
+"skillet","GA17","264","N","N"," "," ","MS"," ",1091
+"spider","GA17","264","N","N"," "," ","MS"," ",1091
+"frying pan","GA18A","264A.1","O","N"," "," ","MS"," ",1092
+"skillet","GA18A","264A.1","N","N"," "," ","MS"," ",1092
+"spider","GA18A","264A.1","N","N"," "," ","MS"," ",1092
+"frying pan","GA18B","264A.2","O","N"," "," ","MS"," ",1093
+"skillets","GA18B","264A.2","N","N"," "," ","MS"," ",1093
+"spiders","GA18B","264A.2","N","N"," "," ","MS"," ",1093
+"spider","GA19A","265.1","N","N"," "," ","MS"," ",1094
+"frying pan","GA19B","265.2","O","N"," "," ","MS"," ",1095
+"skillet","GA19B","265.2","N","N"," "," ","MS"," ",1095
+"spider","GA19B","265.2","N","N"," "," ","MS"," ",1095
+"frying pan","GA20A","266.1","O","N"," "," ","MS"," ",1096
+"spiders","GA20A","266.1","N","N"," "," ","MS"," ",1096
+"spider","GA20B","266.2","N","N"," "," ","MS"," ",1097
+"skillet","GA21A","267.1","N","N"," "," ","MS"," ",1098
+"spider","GA21A","267.1","N","N"," "," ","MS"," ",1098
+"frying pan","GA21B","267.2","O","N"," "," ","MS"," ",1099
+"spider","GA21B","267.2","N","N"," "," ","MS"," ",1099
+"frying pan","GA22A","268A.1","O","N"," "," ","MS"," ",1100
+"frying pan","GA22B","268A.2","O","Y"," "," ","MS","NEW",1101
+"spiders","GA22B","268A.2","N","N","heavy, cast in iron rough"," ","MS"," ",1101
+"skillet","GA22B","268A.2","N","N","heavy, cast in iron rough"," ","MS"," ",1101
+"frying pans","GA23A","268.1","O","N","cast iron"," ","MS"," ",1102
+"skillet","GA23A","268.1","N","N"," "," ","MS"," ",1102
+"spiders","GA23A","268.1","N","N"," "," ","MS"," ",1102
+"frying pan","GA23B","268.11","O","N","iron"," ","MS"," ",1103
+"frying pan","GA23B","268.11","O","N","aluminum"," ","MS"," ",1103
+"frying pan","GA23C","268.2","O","N"," "," ","MS"," ",1104
+"skillet","GA23C","268.2","N","N","iron"," ","MS"," ",1104
+"frying pan","GA23D!","268.3","O","Y","old term"," ","MS","NEW",1105
+"frying pan","GA23E!","268.4!","O","N"," "," ","MS"," ",1106
+"frying pan","GA23F!","268.5!","O","N"," "," ","MS"," ",1107
+"frying pan","GA24N","N269","O","N"," "," ","MS"," ",1108
+"frying pan","GA24A","269.1","O","N","flat bottom"," ","MS"," ",1109
+"skillet","GA24A","269.1","N","N","iron 2 or 3 inches, legs on it for fire place"," ","MS"," ",1109
+"spider","GA24A","269.1","N","N"," "," ","MS"," ",1109
+"frying pan","GA24B","269.2","O","N"," "," ","MS"," ",1110
+"spider","GA24B","269.2","N","N"," "," ","MS"," ",1110
+"skillet","GA24B","269.2","N","N","for coffee"," ","MS","CNV",1110
+"frying pan","GA25N","N269A","O","N"," "," ","MS"," ",1111
+"skittle","GA25N","N269A","O","N","skillet"," ","MS"," ",1111
+"frying pan","GA26","270A","O","N"," "," ","MS"," ",1112
+"skillet","GA26","270A","N","N","sides are low"," ","MS"," ",1112
+"with three legs","GA27!","270!","O","Y"," "," ","MS","INA",1113
+"skillet","GA27!","270!","N","N"," "," ","MS"," ",1113
+"spider","GA27!","270!","N","N","with three legs"," ","MS"," ",1113
+"frying pan","GA28","271a","O","N"," "," ","MS"," ",1114
+"skillet","GA28","271a","N","N"," "," ","MS"," ",1114
+"spider","GA28","271a","N","Y"," "," ","MS","SUG",1114
+"frying pans","GA29A","271.1","O","N","round on legs"," ","MS"," ",1115
+"skillet","GA29A","271.1","N","N","more like present frying pan"," ","MS"," ",1115
+"spider","GA29A","271.1","N","N"," "," ","MS"," ",1115
+"frying pan","GA29B","271.2","O","N"," "," ","MS"," ",1116
+"spiders","GA29B","271.2","N","N","sometimes = frying pan"," ","MS"," ",1116
+"bread hoes","GA29B","271.2","O","N"," "," ","MS"," ",1116
+"skillet","GA30A","272.1(*)","N","N"," "," ","MS"," ",1117
+"cast iron skillet","GA30A","272.1(*)","O","N"," "," ","MS"," ",1117
+"frying pan","GA30A","272.1(*)","O","N"," "," ","MS"," ",1117
+"frying pan","GA30A","272.1(*)","O","N"," "," ","MS","CNV",1117
+"frying pan","GA30B","272.2(*)","O","N"," "," ","MS"," ",1118
+"skillet","GA30B","272.2(*)","N","N","heavier and thicker than frying pan"," ","MS"," ",1118
+"spider","GA30B","272.2(*)","N","N"," "," ","MS"," ",1118
+"frying pan","GA30C!","272.3!","O","N","circular, no sides"," ","MS"," ",1119
+"skillet","GA30C!","272.3!","N","N","hoe"," ","MS"," ",1119
+"NR","GA30D"," "," ","N"," "," "," "," ",1120
+"NR","GA30E"," "," ","N"," "," "," "," ",1121
+"frying pan","GA31","272A","O","N"," "," ","MS"," ",1122
+"skillet","GA31","272A","N","N"," "," ","MS"," ",1122
+"frying pan","GA32","272B","O","N"," "," ","MS"," ",1123
+"skillet","GA32","272B","N","N","with legs, for fireplace"," ","MS"," ",1123
+"frying pan","GA33A","272C1","O","N"," "," ","MS"," ",1124
+"skillet","GA33A","272C1","N","N"," "," ","MS"," ",1124
+"frying pan","GA33B","272C2","O","N"," "," ","MS"," ",1125
+"skillet","GA34N","N273","N","N"," "," ","MS"," ",1126
+"frying pan","GA34A","273.1","O","N","natural"," ","MS"," ",1127
+"skillet","GA34A","273.1","N","N","fry meat, three legs, flat bottom"," ","MS"," ",1127
+"skillet","GA34B","273.2","N","N","for frying"," ","MS"," ",1128
+"spider","GA34B","273.2","N","N","handle"," ","MS"," ",1128
+"skillet","GA35N","N273A","N","N"," "," ","MS"," ",1129
+"frying pan","GA36N","N274A","O","N"," "," ","MS"," ",1130
+"frying pan","GA37N","2N274","O","N"," "," ","MS"," ",1131
+"skillet","GA37M!","NC274","N","N"," "," ","MS"," ",1132
+"skillet","GA37A","274.1","N","N"," "," ","MS"," ",1133
+"frying pan","GA37B","274.2","O","N"," "," ","MS"," ",1134
+"skillet","GA37B","274.2","N","N","flat-cooking, corn bread, some with legs"," ","MS"," ",1134
+"frying pan","GA37C","274.21","O","N"," "," ","MS"," ",1135
+"skillet","GA37C","274.21","N","N"," "," ","MS"," ",1135
+"frying pan","GA37D!","274.7!","O","N"," "," ","MS"," ",1136
+"frying pan","GA37E!","274.8!","O","N"," "," ","MS"," ",1137
+"skillet","GA37E!","274.8!","N","N","thicker"," ","MS"," ",1137
+"skillet","GA37F!","274.3!","N","N","frying - flat bottom"," ","MS"," ",1138
+"skillet","GA37G!","274.4!","N","N","""bisquit pan"""," ","MS"," ",1139
+"frying pans","GA37H!","274.5!","O","N"," "," ","MS"," ",1140
+"skillet","GA37H!","274.5!","N","N"," "," ","MS"," ",1140
+"frying pan","GA37I!","274.6!","O","N"," "," ","MS"," ",1141
+"skillet","GA37I!","274.6!","N","N"," "," ","MS"," ",1141
+"frying pan","GA38","275","O","N","not quite as deep"," ","MS"," ",1142
+"skillet","GA38","275","N","Y","bake corn bread in"," ","MS","SUG",1142
+"spider","GA38","275","N","N","legs"," ","MS"," ",1142
+"frying pan","GA39","275A","O","N"," "," ","MS"," ",1143
+"on frying pan","GA39","275A","E","N"," "," ","MS"," ",1143
+"frying pan","GA40","276A","O","N"," "," ","MS"," ",1144
+"electric frying pan","GA40","276A","O","N"," "," ","MS"," ",1144
+"frying pan","GA40","276A","O","N"," "," ","MS"," ",1144
+"skillet","GA40","276A","N","N"," "," ","MS"," ",1144
+"iron skillet","GA40","276A","O","N"," "," ","MS"," ",1144
+"frying pans","GA41","276B","O","N"," "," ","MS"," ",1145
+"frying pans","GA42A","276.1","O","Y"," "," ","MS","NEW",1146
+"skillet","GA42A","276.1","N","N","long handles, legs - ""hot irons on them"""," ","MS"," ",1146
+"skillet","GA42B","276.2","N","N"," "," ","MS"," ",1147
+"frying pan","GA43","277","O","N"," "," ","MS"," ",1148
+"skillet","GA43","277","N","N","baked in; three legs, flat bottom"," ","MS"," ",1148
+"frying pan","GA44A","278.1","O","N","no legs, handle, set on sticks, or on cook"," ","MS"," ",1149
+"skillet","GA44A","278.1","N","N","three legs and handle"," ","MS"," ",1149
+"frying pan","GA44B","278.2","O","N"," "," ","MS"," ",1150
+"skillet","GA44B","278.2","N","N"," "," ","MS"," ",1150
+"skillets","GA44C","278.3","N","N"," "," ","MS"," ",1151
+"frying pan","GA44D","278.4","O","N"," "," ","MS"," ",1152
+"skillet","GA44D","278.4","N","N","baked bread in"," ","MS"," ",1152
+"skillets","GA44E","278.5","N","N","pans"," ","MS"," ",1153
+"frying pan","FL1","252","O","N"," "," ","MS"," ",1154
+"spider","FL1","252","N","N"," "," ","MS"," ",1154
+"frying pans","FL2A","253.1","O","N"," "," ","MS"," ",1155
+"skillet","FL2A","253.1","N","Y"," "," ","MS","HRD",1155
+"frying pan","FL2B","253.2","O","N"," "," ","MS"," ",1156
+"frying pan","FL2C!","253.3!","O","N"," "," ","MS"," ",1157
+"spider","FL2C!","253.3!","N","N"," "," ","MS"," ",1157
+"spiders","FL3A","254.1","N","N","for frying"," ","MS"," ",1158
+"frying pans","FL3B!","254.2!","O","N"," "," ","MS"," ",1159
+"skillet","FL3B!","254.2!","N","N","had a lid, used to bake in"," ","MS"," ",1159
+"frying pan","FL4","254A","O","N"," "," ","MS"," ",1160
+"skillet","FL4","254A","N","N"," "," ","MS"," ",1160
+"skillet","FL5A","255.1","N","N","pot with three legs and handle"," ","MS"," ",1161
+"frying pan","FL5B","255.2","O","N"," "," ","MS"," ",1162
+"skillet","NY2A","51.1","N","N","round bottom, short legs; frying pan"," ","MS"," ",2
+"skillet","NY2B","51.2","N","N","frying pan"," ","MS"," ",3
+"spider","NY12A","439(*)","N","Y"," "," ","MS","AUX",43
+"frying pan","NY12A","439(*)","N","Y"," "," ","MS","AUX",43
+"spider","NY17A","451(*)","N","Y"," "," ","MS","AUX",54
+"griddle","NY28B","473b(*)","N","N"," "," ","MS","CNV",78
+"oven","NY28C"," ","N","N"," "," "," "," ",79
+"spiders","NY34A","483","N","N"," "," ","MS","CNV",95
+"skillet","NY34D!","486!","N","Y"," "," ","MS","HRD",98
+"iron","NY34D!","486!","N","Y"," "," ","MS","INA",98
+"spider","NY45A","513a","N","N"," "," ","MS"," ",122
+"spider","NY46A","515a","N","Y"," "," ","MS","SUG",126
+"frying pan","NY47A","517(*)","N","Y"," "," ","MS","AUX",129
+"with legs","NY49C","522a","Q","Y"," "," ","MS","INA",137
+"bread pans","NY51E!","525e!","O","Y"," "," ","MS","INA",145
+"spider","NY53B!","530!","N","N"," "," ","MS","CNV",150
+"spider","NY58D!","539d!","N","N","heavy iron"," ","MS"," ",163
+"fryer","NY58F!","539f!","N","Y"," "," ","MS","HRD",165
+"skillet","NY60B!","546!","N","N","small"," ","MS"," ",169
+"spider","NY61A","547","N","N"," "," ","MS","CNV",170
+"spider","NY62A","551a","N","N"," "," ","MS"," ",172
+"spider","NY63D!","556d!","N","Y","word not known today"," ","MS","OLD",179
+"frying pan","NJ2A","3(*)","O","Y"," "," ","MS","AUX",185
+"skillet","NJ2A","3(*)","N","Y"," "," ","MS","AUX",185
+"spider","NJ2B","4","N","N"," "," ","MS"," ",186
+"spider","NJ3B","6","N","Y"," "," ","MS","OLD",188
+"frying pan","NJ5A","9","N","Y"," "," ","MS","NEW",191
+"spider","NJ8A","19","N","N","heavier"," ","MS"," ",197
+"spider","NJ10B","23","N","N"," "," ","MS"," ",202
+"spider","NJ10C","24","N","Y"," "," ","MS","OLD",203
+"spider","NJ12A","27","N","Y"," "," ","MS","SUG/HRD",208
+"skillet","NJ16B","36","N","N"," "," ","MS"," ",217
+"frying pan","PA5A","65(*)","O","Y"," "," ","MS","AUX",245
+"spider","PA11A","89","N","Y"," "," ","MS","HRD",266
+"spider","PA15B","99b","N","Y","legs"," ","MS"," LD",276
+"spider","PA15C!","100!","N","N"," "," ","MS"," ",277
+"skillet","PA16C","103","N","N"," "," ","MS"," ",280
+"pan","PA17A","105","N","N"," "," ","MS"," ",281
+"frying pan","PA29A","139(*)","O","Y"," "," ","MS","AUX",305
+"skillet","PA34C!","155b!","N","N"," "," ","MS"," ",317
+"skillet","PA37B","162","N","N"," "," ","MS"," ",324
+"skillet","PA37C"," ","N","N"," "," "," "," ",325
+"skillet","MD22N","N77","N","N"," "," ","MS"," ",561
+"spider","MD2A","31a","N","N","with legs"," ","MS"," ",515
+"spider","MD4A","35b","N","N","with legs"," ","MS"," ",519
+"skillet","MD6A","39(*)","N","Y"," "," ","MS","AUX",524
+"frying pan","MD6A","39(*)","O","Y"," "," ","MS","AUX",524
+"spider","MD6A","39(*)","N","Y"," "," ","MS"," ",524
+"spider","MD7A","41","N","N","with legs"," ","MS"," ",526
+"skillet","MD7A","41","N","Y"," "," ","MS","SUG",526
+"spider","MD11","51","N","N","with legs"," ","MS"," ",536
+"spider","MD12A","52","N","N","with legs"," ","MS"," ",537
+"skillet","MD13G"," ","N","N"," "," "," "," ",545
+"skillet","MD13B","55","N","Y"," "," ","MS","SUG/OLD",540
+"spider","MD13D!","57!","N","Y","with legs"," ","MS","OLD",542
+"skillet","MD13E!","58!","N","Y"," "," ","MS","OLD",543
+"spider","MD13E!","58!","N","Y","with legs"," ","MS","OLD",543
+"skillet","MD16","64","N","N"," "," ","MS"," ",549
+"skillet","MD20A","71","N","N"," "," ","MS"," ",556
+"Dutch oven","MD20A","71","O","N"," "," ","MS"," ",556
+"spider","MD21B","76","N","Y","with legs"," ","MS","SUG",560
+"spider","MD22N","N77","N","N","with legs"," ","MS"," ",561
+"skillet","MD22M","N78","N","N"," "," ","MS"," ",562
+"skillet","MD22M","N78","N","Y","with legs; deep pan"," ","MS","INA",562
+"spider","MD22M","N78","N","N","with legs"," ","MS"," ",562
+"spider","MD22A","77","N","N","with legs"," ","MS"," ",563
+"skillet","MD22A","77","N","N","with legs"," ","MS"," ",563
+"meat pan","MD22A","77","N","N"," "," ","MS"," ",563
+"skillet","MD22C!","79!","N","N"," "," ","MS"," ",565
+"spider","MD23B","80a","N","N","with legs"," ","MS"," ",567
+"spider","MD24","82","N","N","with legs"," ","MS"," ",569
+"spider","MD26A","83","N","N","with legs"," ","MS"," ",571
+"skillet","MD26B","83A","N","N"," "," ","MS"," ",572
+"spider","VA1!","101!","N","N","with legs"," ","MS"," ",577
+"spider","VA2A","103","N","Y"," "," ","MS","SUG/OLD",578
+"skillet","VA2B","104","N","Y"," "," ","MS","AUX",579
+"oven","VA2B","104","N","Y"," "," ","MS","AUX",579
+"oven","VA4N","N109","N","N"," "," ","MS"," ",583
+"oven","VA5A","107","N","N"," "," ","MS"," ",584
+"spider","VA5B","108","N","N","with legs"," ","MS"," ",585
+"skillet","VA8A","123","N","N","with legs"," ","MS"," ",590
+"skillet","VA8B","124","N","Y","with legs"," ","MS","OLD",591
+"frying pan","VA9B!","118!","O","N"," "," ","MS"," ",594
+"skillet","VA10A","127","N","N","with legs"," ","MS"," ",595
+"spider","VA10A","127","N","N","with legs"," ","MS"," ",595
+"spider","VA10B","128","N","Y","with legs"," ","MS","OLD",596
+"skillet","VA10B","128","N","N","with legs"," ","MS"," ",596
+"skillet","VA11A","129","N","N","with legs"," ","MS"," ",597
+"skillet","VA11B","130","N","N","with legs"," ","MS"," ",598
+"spider","VA11B","130","N","Y","with legs"," ","MS","SUG",598
+"spider","VA12N","N131","N","N","with legs"," ","MS"," ",599
+"spider","VA12A","131","N","N","with legs"," ","MS"," ",600
+"spider","VA12B!","132!","N","N","with legs"," ","MS"," ",601
+"skillet","VA13A","133","N","N"," "," ","MS"," ",602
+"spider","VA13A","133","N","N","with legs"," ","MS"," ",602
+"stew kettle","VA13A","133","O","Y"," "," ","MS","INA",602
+"spider","VA14A","135","N","N","with legs"," ","MS"," ",604
+"skillet","VA14A","135","N","N","with legs"," ","MS"," ",604
+"spider","VA14B","136","N","N","with legs"," ","MS"," ",605
+"spider","VA14B","136","N","N","with legs"," ","MS"," ",605
+"spider","VA15N","N139(*)","N","N","with legs"," ","MS"," ",607
+"skillet","VA15A","139","N","N"," "," ","MS"," ",608
+"skillet","VA15B","140","N","N"," "," ","MS"," ",609
+"spider","VA15B","140","N","N","with legs"," ","MS"," ",609
+"spider","VA17A","143","N","N","with legs"," ","MS"," ",612
+"spider","VA18","145","N","N","with legs"," ","MS"," ",614
+"skillet","VA18","145","N","N"," "," ","MS"," ",614
+"frying spider","VA19A","146","O","N"," "," ","MS"," ",615
+"spider","VA19A","146","N","N"," "," ","MS"," ",615
+"skillet","VA19B","147","N","N","with legs"," ","MS"," ",616
+"spider","VA19C!","148!","N","Y","with legs"," ","MS","OLD",617
+"skillet","VA20C"," ","N","N"," "," "," "," ",620
+"spider","VA20C"," ","N","N"," "," "," "," ",620
+"spider","VA21N","N153","N","N","with legs"," ","MS"," ",621
+"skillet","VA21B","154","N","N","with legs"," ","MS"," ",623
+"spider","VA21B","154","N","N","with legs"," ","MS"," ",623
+"spider","VA22","155","N","N","with legs"," ","MS"," ",624
+"skillet","VA22","155","N","N","with legs"," ","MS"," ",624
+"spider","VA23B","157","N","N","with legs"," ","MS"," ",626
+"skillet","VA23B","157","N","N","with legs"," ","MS"," ",626
+"spider","VA24","159","N","N","with legs"," ","MS"," ",627
+"spider","VA25","160(*)","N","N","with legs"," ","MS"," ",628
+"spider","VA25","160(*)","N","Y"," "," ","MS","AUX",628
+"skillet","VA26A","161A","N","N","with legs"," ","MS"," ",629
+"frying pan","VA26B","161","O","N"," "," ","MS"," ",630
+"skillet","VA26B","161","N","N"," "," ","MS"," ",630
+"spider","VA27","163(*)","N","Y"," "," ","MS","AUX",632
+"frying pan","VA27","163(*)","O","Y"," "," ","MS","AUX",632
+"spider","VA27","163(*)","N","N"," "," ","MS"," ",632
+"skillet","VA28A","164","N","N"," "," ","MS"," ",633
+"skillet","VA28A","164","N","N"," "," ","MS"," ",633
+"skillet","VA29","166","N","N"," "," ","MS"," ",635
+"skillet","VA30B!","167a!","N","N"," "," ","MS"," ",637
+"spider","VA30C!","168!","N","N","with legs"," ","MS"," ",638
+"skillet","VA30C!","168!","N","Y"," "," ","MS","SUG",638
+"skillet","VA31A","171(*)(**)","N","N","with legs"," ","MS"," ",641
+"skillet","VA31C"," ","N","N"," "," "," "," ",643
+"spider","VA31C"," ","N","N","with legs"," "," "," ",643
+"skillet","VA31B","172","N","N","with legs"," ","MS"," ",642
+"spider","VA31B","172","N","N","with legs"," ","MS"," ",642
+"skillet","VA33A","173","N","N","with legs"," ","MS"," ",645
+"skillet","VA33B","174","N","N","with legs"," ","MS"," ",646
+"spider","VA33B","174","N","N","with legs"," ","MS"," ",646
+"spider","VA34A","177(*)","N","Y","with legs"," ","MS","AUX",647
+"skillet","VA34A","177(*)","N","Y","with legs"," ","MS","AUX",647
+"griddle","VA34A","177(*)","N","Y"," "," ","MS","INA",647
+"skillet","VA34B","178","N","N","with legs"," ","MS"," ",648
+"spider","VA35A","179","N","N","with legs"," ","MS"," ",649
+"oven","VA35A","179","N","Y"," "," ","MS","INA",649
+"skillet","VA35B","180","N","N","with legs"," ","MS"," ",650
+"cricket","VA36A","181","N","N"," "," ","MS"," ",651
+"skillet","VA36B","182","N","N"," "," ","MS"," ",652
+"spider","VA37","183","N","N","with legs"," ","MS"," ",653
+"skillet","VA37","183","N","N"," "," ","MS"," ",653
+"creeper","VA38","185","N","Y"," "," ","MS","SUG/OLD",654
+"skillet","VA41B","192","N","N","with legs"," ","MS"," ",659
+"skillet","VA42A","193(*)(**)","N","N","with legs"," ","MS"," ",660
+"frying pan","VA42A","193(*)(**)","O","Y"," "," ","MS","AUX",660
+"skillet","VA42A","193(*)(**)","N","Y"," "," ","MS","AUX",660
+"spiders","VA42A","193(*)(**)","N","Y"," "," ","MS","AUX",660
+"skillet","VA42B","194","N","N","with legs"," ","MS"," ",661
+"spider","VA42B","194","N","N","with legs"," ","MS"," ",661
+"skillet","VA43N","N195","N","N"," "," ","MS"," ",662
+"oven","VA43N","N195","N","Y"," "," ","MS","INA",662
+"skillet","VA43A","195","N","N","with legs"," ","MS"," ",663
+"skillet","VA43B","196","N","N","with legs"," ","MS"," ",664
+"skillet","VA44A","199","N","N","with legs"," ","MS"," ",665
+"skillet","VA44B","200","N","N","with legs"," ","MS"," ",666
+"spider","VA44B","200","N","N"," "," ","MS"," ",666
+"skillet","VA45A","201","N","N","with legs"," ","MS"," ",667
+"spider","VA45A","201","N","N"," "," ","MS"," ",667
+"skillet","VA45B","202","N","N"," "," ","MS"," ",668
+"frying pan","VA46N","N207","O","N"," "," ","MS"," ",669
+"skillet","VA46A","207","N","Y","with legs"," ","MS","OLD",670
+"spider","VA46A","207","N","N"," "," ","MS"," ",670
+"frying pan","VA48A","213(*)","O","Y"," "," ","MS","AUX",673
+"skillet","VA48A","213(*)","N","Y"," "," ","MS","AUX",673
+"skillet","VA49A","215","N","N","with legs"," ","MS"," ",675
+"skillet","VA49B","216","N","N"," "," ","MS"," ",676
+"spider","VA50A","217","N","N"," "," ","MS"," ",677
+"skillet","VA50B","218","N","N"," "," ","MS"," ",678
+"skillet","VA51A","219","N","N","with legs"," ","MS"," ",679
+"spider","VA51A","219","N","N","with legs"," ","MS"," ",679
+"skillet","VA51C"," ","N","N","with legs"," "," "," ",681
+"spider","VA51C"," ","N","N","with legs"," "," "," ",681
+"skillet","VA53A","227","N","N","with legs"," ","MS"," ",685
+"Dutch oven","VA53A","227","O","Y"," "," ","MS","INA",685
+"spider","VA54B","230","N","Y","with legs"," ","MS","OLD",688
+"frying pan","VA55A","233(*)","O","Y"," "," ","MS","AUX",689
+"skillet","VA55A","233(*)","N","Y"," "," ","MS","AUX",689
+"Dutch oven","VA55A","233(*)","O","Y"," "," ","MS","INA",689
+"frying pan","VA56B","238","O","N"," "," ","MS"," ",692
+"spider","VA56B","238","N","Y"," "," ","MS","SUG/HRD",692
+"frying pan","VA58","241(*)","O","Y"," "," ","MS","AUX",695
+"skillet","VA58","241(*)","N","Y"," "," ","MS","AUX",695
+"skillet","VA59N","N241","N","N","with legs"," ","MS"," ",696
+"skillet","VA59A","242","N","N","with legs"," ","MS"," ",697
+"spider","VA62A","247(*)","N","Y"," "," ","MS","SUG",703
+"frying pan","VA62A","247(*)","O","Y"," "," ","MS","AUX",703
+"skillet","VA62A","247(*)","N","Y"," "," ","MS","AUX",703
+"skillet","VA62B","248","N","N"," "," ","MS"," ",704
+"skillet","VA63A","251","N","N"," "," ","MS"," ",705
+"skillet","VA63B","252","N","N"," "," ","MS"," ",706
+"baker","VA63B","252","N","Y"," "," ","MS","INA",706
+"skillet","VA64A","255","N","N","with legs"," ","MS"," ",707
+"skillet","VA64B","256","N","N"," "," ","MS"," ",708
+"spider","VA65B","258","N","N","with legs"," ","MS"," ",710
+"frying pan","VA66B","262","O","N"," "," ","MS"," ",713
+"skillet","VA68A","269","N","N","with legs"," ","MS"," ",716
+"skillet","VA68B","270","N","N","with legs"," ","MS"," ",717
+"skillet","VA69A","273","N","N","with legs"," ","MS"," ",718
+"spider","VA70A","275","N","Y"," "," ","MS","SUG",720
+"skillet","VA70B","276","N","N"," "," ","MS"," ",721
+"oven","VA70B","276","N","Y"," "," ","MS","INA",721
+"skillet","VA71A","285","N","N"," "," ","MS"," ",722
+"baker","VA70B","276","N","Y"," "," ","MS","INA",721
+"skillet","VA71B","286","N","N","with legs"," ","MS"," ",723
+"oven","VA72A","287","N","Y"," "," ","MS","INA",724
+"baker","VA72A","287","N","Y"," "," ","MS","INA",724
+"skillet","VA73","291","N","N"," "," ","MS"," ",726
+"oven","VA74B!","294!","N","Y"," "," ","MS","INA",728
+"oven","VA75A","297","N","Y"," "," ","MS","INA",729
+"baker","VA75B","298","N","Y"," "," ","MS","INA",730
+"frying pan","NC1","303","O","N"," "," ","MS"," ",731
+"skillet","NC1","303","N","N","with legs"," ","MS"," ",731
+"skillet","NC3A","305","N","N","with legs"," ","MS"," ",734
+"spider","NC3B","306","N","Y"," "," ","MS","OLD",735
+"creeper","NC3B","306","N","Y","with legs"," ","MS","SUG",735
+"spider","NC4A","307","N","N","with legs"," ","MS"," ",736
+"skillet","NC4A","307","N","N","with legs"," ","MS"," ",736
+"creeper","NC4A","307","N","Y"," "," ","MS","SUG/OLD",736
+"skillet","NC4B","308","N","N","with legs"," ","MS"," ",737
+"spider","NC4B","308","N","N","with legs"," ","MS"," ",737
+"creeper","NC4B","308","N","N"," "," ","MS"," ",737
+"skillet","NC5A","309","N","N","with legs"," ","MS"," ",738
+"creeper","NC5A","309","N","N"," "," ","MS"," ",738
+"creeper","NC6!","311!","N","N"," "," ","MS","SUG/OLD",740
+"spider","NC7A","315(*)","N","N","with legs"," ","MS"," ",741
+"skillet","NC7A","315(*)","N","N","with legs"," ","MS"," ",741
+"creeper","NC7A","315(*)","N","N","with legs"," ","MS"," ",741
+"spider","NC7B","316","N","N"," "," ","MS"," ",742
+"skillet","NC8A","317","N","N"," "," ","MS"," ",744
+"spider","NC8B","318(*)","N","N"," "," ","MS"," ",745
+"frying pan","NC8B","318(*)","O","Y"," "," ","MS","AUX",745
+"skillet","NC9A","319","N","N","long handle"," ","MS"," ",746
+"frying pan","NC1","303","O","Y"," "," ","MS","AUX",731
+"skillet","NC1","303","N","N"," "," ","MS"," ",731
+"skillet","NC9B","320","N","N","round bottom"," ","MS"," ",747
+"spider","NC9B","320","N","N"," "," ","MS"," ",747
+"spider","NC10A","321","N","N","with legs"," ","MS"," ",748
+"skillet","NC10A","321","N","N","with legs"," ","MS"," ",748
+"spider","NC10B","323","N","N"," "," ","MS"," ",749
+"skillet","NC10B","323","N","N","with legs"," ","MS"," ",749
+"spider","NC10C","322","N","N"," "," ","MS"," ",750
+"spider","NC11A","325","N","N","with legs"," ","MS"," ",751
+"skillet","NC11A","325","N","N","with legs"," ","MS"," ",751
+"spider","NC12A","327(*)","N","N"," "," ","MS"," ",753
+"spider","NC12A","327(*)","N","Y"," "," ","MS","AUX",753
+"skillet","NC12A","327(*)","N","Y"," "," ","MS","AUX",753
+"spider","NC12B","328","N","N"," "," ","MS"," ",754
+"skillet","NC13A","329","N","N","with legs"," ","MS"," ",755
+"spider","NC13B","330(*)","N","N"," "," ","MS"," ",756
+"spider","NC13B","330(*)","N","Y"," "," ","MS","AUX",756
+"frying pan","NC13B","330(*)","O","Y"," "," ","MS","AUX",756
+"skillet","NC13B","330(*)","N","Y"," "," ","MS","AUX",756
+"spider","NC14A","331","N","N"," "," ","MS"," ",758
+"skillet","NC14A","331","N","N","with legs"," ","MS"," ",758
+"spider","NC14B","332","N","N"," "," ","MS"," ",759
+"skillet","NC14B","332","N","N","with legs"," ","MS"," ",759
+"skillet","NC15A","335(*)","N","N","round bottom"," ","MS"," ",761
+"skillet","NC15B","336","N","N","round bottom"," ","MS"," ",762
+"spider","NC15C"," ","N","N"," "," "," "," ",763
+"skillet","NC15C"," ","N","N"," "," "," "," ",763
+"spider","NC16A","339(*)","N","N","with legs"," ","MS"," ",764
+"skillet","NC16A","339(*)","N","N","with legs"," ","MS"," ",764
+"frying pan","NC16A","339(*)","O","Y"," "," ","MS","AUX",764
+"spider","NC16A","339(*)","N","Y"," "," ","MS","AUX",764
+"skillet","NC16A","339(*)","N","Y"," "," ","MS","AUX",764
+"spider","NC17A","337","N","N","with legs"," ","MS"," ",766
+"skillet","NC17A","337","N","N","with legs"," ","MS"," ",766
+"spider","NC18B","342","N","N"," "," ","MS"," ",769
+"spider","NC19A","343","N","N","with legs"," ","MS"," ",770
+"skillet","NC19A","343","N","N","with legs"," ","MS"," ",770
+"spider","NC20A","345","N","N","with legs"," ","MS"," ",772
+"skillet","NC20A","345","N","N","round bottom"," ","MS"," ",772
+"skillet","NC20B","346a","N","N"," "," ","MS"," ",773
+"spider","NC20B","346a","N","N"," "," ","MS"," ",773
+"spider","NC20C","346b","N","N","with legs"," ","MS"," ",774
+"skillet","NC20C","346b","N","N","with legs"," ","MS"," ",774
+"spider","NC21B","348","N","N"," "," ","MS"," ",776
+"skillet","NC22A","349","N","N"," "," ","MS"," ",777
+"spider","NC22B","349b","N","N","with legs"," ","MS"," ",778
+"spider","NC23A","351a","N","N","with legs"," ","MS"," ",779
+"skillet","NC23A","351a","N","N","with legs"," ","MS"," ",779
+"spider","NC23B","351b(*)","N","N"," "," ","MS"," ",780
+"spider","NC23B","351b(*)","N","Y"," "," ","MS","AUX",780
+"spider","NC23D!","351d!","N","N","with legs"," ","MS"," ",782
+"spider","NC24N","N352","N","N"," "," ","MS"," ",783
+"spider","NC25N","N353","N","N"," "," ","MS"," ",786
+"skillet","NC25N","N353","N","N"," "," ","MS"," ",786
+"spider","NC25B","354","N","N"," "," ","MS"," ",788
+"spider","NC26B","355b","N","N","with legs"," ","MS"," ",790
+"spider","NC26C!","356!","N","N","with legs"," ","MS"," ",791
+"spider","NC28C","362","N","N","with legs"," ","MS"," ",796
+"skillet","NC28C","362","N","N","with legs"," ","MS"," ",796
+"spider","NC29A","363(*)","N","N"," "," ","MS"," ",797
+"skillet","NC29A","363(*)","N","N"," "," ","MS","SUG",797
+"skillet","NC30A","365","N","N","round bottom"," ","MS"," ",799
+"skillet","NC30B","366","N","N","with legs"," ","MS"," ",800
+"skillet","NC31A","367","N","N","round bottom"," ","MS"," ",801
+"skillet","NC31B","368","N","N","with skillet"," ","MS"," ",802
+"skillet","NC32A","369","N","N","with legs"," ","MS"," ",803
+"spider","NC32A","369","N","N","with legs"," ","MS"," ",803
+"skillet","NC32B!","370!","N","N","with legs"," ","MS"," ",804
+"spider","NC33A","373","N","N","with legs"," ","MS"," ",805
+"skillet","NC33A","373","N","N","with legs"," ","MS"," ",805
+"spider","NC33B","374","N","N","with legs"," ","MS"," ",806
+"skillet","NC33B","374","N","N","with legs"," ","MS"," ",806
+"spider","NC34A","375","N","N","with legs"," ","MS","SUG/OLD",807
+"skillet","NC34A","375","N","N","with legs"," ","MS","SUG/OLD",807
+"spider","NC34B","376","N","N"," "," ","MS"," ",808
+"skillet","NC34B","376","N","N"," "," ","MS"," ",808
+"skillet","NC35A","377","N","N","with legs"," ","MS"," ",809
+"skillet","NC35B","378","N","N","with legs"," ","MS"," ",810
+"spider","NC36N","N381","N","N"," "," ","MS"," ",811
+"spider","NC36A","381","N","N","with legs"," ","MS"," ",812
+"spider","NC37A","383","N","N","with legs"," ","MS","N0-",814
+"skillet","NC37A","383","N","N","with legs"," ","MS"," ",814
+"spider","NC38N","N385","N","N"," "," ","MS"," ",816
+"spider","NC38A","385","N","N","with legs"," ","MS"," ",817
+"skillet","NC38A","385","N","N","with legs"," ","MS"," ",817
+"spider","NC38B","386","N","N","with legs"," ","MS"," ",818
+"skillet","NC39A","389","N","N","with legs"," ","MS"," ",819
+"spider","NC39A","389","N","N","with legs"," ","MS"," ",819
+"skillet","NC39B!","390!","N","N","with legs"," ","MS"," ",820
+"skillet","NC40A","391","N","N"," "," ","MS","OLD",821
+"spider","NC40A","391","N","N"," "," ","MS","OLD",821
+"frying pan","NC42B","404(*)","O","N"," "," ","MS","AUX",825
+"spider","NC42B","404(*)","N","N","with legs"," ","MS"," ",825
+"skillet","NC42B","404(*)","N","N"," "," ","MS","AUX",825
+"skillet","NC43A","397","N","N","with legs"," ","MS"," ",826
+"spider","NC43A","397","N","N","with legs"," ","MS"," ",826
+"skillet","NC43B","398","N","N","with legs"," ","MS"," ",827
+"frying pan","NC44","410(*)","O","N"," "," ","MS","AUX",828
+"skillet","NC45A","409(*)","N","N","with legs"," ","MS"," ",829
+"skillet","NC45B"," ","N","N"," "," "," "," ",830
+"skillet","NC47","413","N","N","with legs"," ","MS"," ",834
+"skillet","NC49","421","N"," ","with legs"," ","MS"," ",836
+"skillet","NC50A","422","N","N","with legs"," ","MS"," ",837
+"skillet","NC50B!","423!","N","N","with legs"," ","MS"," ",838
+"skillet","NC51A","427","N","N","with legs"," ","MS"," ",839
+"skillet","NC51B","428","N","N"," "," ","MS"," ",840
+"spider","NC52N","N429","N","N"," "," ","MS","OLD",841
+"spider","NC52A","429","N","N","with legs"," ","MS"," ",842
+"skillet","NC52A","429","N","N","with legs"," ","MS"," ",842
+"spider","NC52B","430","N","N","with legs"," ","MS"," ",843
+"skillet","NC52B","430","N","N","with legs"," ","MS"," ",843
+"skillet","NC53B","432","N","N","with legs"," ","MS","HRD",845
+"skillet","NC54A","433","N","N","with legs"," ","MS"," ",846
+"skillet","NC54B","434","N","N","with legs"," ","MS"," ",847
+"skillet","NC56A","436","N","N","with legs"," ","MS"," ",849
+"skillet","NC57B","438b","N","N","with legs"," ","MS"," ",852
+"skillet","NC58A","439","N","N","with legs"," ","MS"," ",853
+"skillet","NC58B","440","N","N","with legs"," ","MS"," ",854
+"skillet","NC59","441(*)","N","N","with legs"," ","MS"," ",855
+"spider","NC59","441(*)","N","N","with legs"," ","MS","N0-",855
+"skillet","NC60","442","N","N"," "," ","MS"," ",856
+"skillet","NC61B","444","N","N","with legs"," ","MS"," ",858
+"skillet","NC62A","447","N","N","with legs"," ","MS"," ",859
+"skillet","NC62B","448","N","N","with legs"," ","MS"," ",860
+"skillet","NC63A","449","N","N","with legs"," ","MS"," ",861
+"skillet","NC63B","450","N","N","with legs"," ","MS"," ",862
+"skillet","NC64A","453","N","N"," "," ","MS"," ",863
+"skillet","NC64B","454","N","N","with legs"," ","MS"," ",864
+"skillet","NC65A","461","N","N","with legs"," ","MS"," ",865
+"spider","NC65B","462","N","N"," "," ","MS"," ",866
+"skillet","NC66A","465","N","N","with legs"," ","MS"," ",867
+"skillet","NC66B","466","N","N","with legs"," ","MS"," ",868
+"skillet","NC67A","469","N","N","with legs"," ","MS"," ",869
+"skillet","NC67B","470","N","N","with legs"," ","MS"," ",870
+"skillet","NC68A","473","N","N","with legs"," ","MS"," ",871
+"skillet","NC68B","474","N","N","with legs"," ","MS"," ",872
+"skillet","NC69B","478","N","N","with legs"," ","MS"," ",874
+"spider","NC69B","478","N","N"," "," ","MS"," ",874
+"skillet","NC71B","482","N","N"," "," ","MS"," ",878
+"skillet","NC71C!","483!","N","N"," "," ","MS"," ",879
+"skillet","NC72A","487","N","N","with legs"," ","MS"," ",880
+"skillet","NC73A","491","N","N","with legs"," ","MS"," ",882
+"skillet","NC73B","492","N","N","with legs"," ","MS"," ",883
+"spider","NC74A","493","N","N"," "," ","MS"," ",884
+"skillet","NC74A","493","N","N","with legs"," ","MS"," ",884
+"spider","NC74B","494","N","N"," "," ","MS"," ",885
+"skillet","NC75A","495","N","N","with legs"," ","MS"," ",886
+"skillet","NC75B","496","N","N","with legs"," ","MS","OLD",887
+"spider","SC2C"," ","N","N"," "," "," "," ",892
+"spider","SC6B","208.2(*)","N","N"," "," ","MS"," ",905
+"skillet","SC6C!","208.3!","N","N"," "," ","MS","CNV",906
+"spider","SC6D"," ","N","N","three legs two inches long"," "," "," ",907
+"skillet","SC7N","N209","N","N"," "," ","MS"," ",908
+"spider","SC7C!","209.3!","N","Y"," "," ","MS","SUG",911
+"skillet","SC7D!","209.4!","N","N"," "," ","MS"," ",912
+"cast iron","SC7D!","209.4!","O","N","had legs underneath"," ","MS"," ",912
+"spider","SC10A","212.1","N","N"," "," ","MS"," ",920
+"skillets","SC10A","212.1","N","N"," "," ","MS"," ",920
+"spider","SC10B!","212.2!","N","N","long-legged had handle"," ","MS"," ",921
+"skillet","SC10C!","212.3!","N","Y"," "," ","MS","SUG",922
+"skillet","SC11M!","2n213!","N","N"," "," ","MS"," ",924
+"skillet","SC11M!","2n213!","N","N"," "," ","MS","CNV",924
+"flat without sides","SC11M!","2n213!","O","N"," "," ","MS"," ",924
+"big iron","SC11M!","2n213!","O","N"," "," ","MS"," ",924
+"spider","SC11C","213.2","N","N"," "," ","MS"," ",927
+"or cast iron","SC11E","213.4","O","Y"," "," ","MS","INA",929
+"spider","SC11G!","213.7!","N","Y"," "," ","MS","SUG/HRD",931
+"spider","SC11H!","213.8!","N","N"," "," ","MS","CNV",932
+"spider","SC11J!","213.10!","N","N"," "," ","MS"," ",934
+"spider","SC13","213.6","N","Y","""never called it in this house¢"," ","MS","HRD",937
+"frying pan","SC14B","215.2","O","N","""always called it¢"," ","MS"," ",939
+"spiders","SC15C","216.3","N","N","on legs"," ","MS"," ",942
+"griddle hoe","SC16N","N217","O","N"," "," ","MS"," ",943
+"spiders","SC18B","219.2","N","N"," "," ","MS"," ",951
+"spiders","SC18C!","219.3(*)!","N","N"," "," ","MS"," ",952
+"spider","SC18C!","219.3(*)!","N","Y"," "," ","MS","AUX",952
+"frying pan","SC18C!","219.3(*)!","O","Y","now out of light metal"," ","MS","AUX",952
+"frying pan","SC19A","220.1","O","N"," "," ","MS"," ",955
+"skillet","SC19A","220.1","N","N"," "," ","MS"," ",955
+"skillet","SC19B","220.4","N","N"," "," ","MS"," ",956
+"spider","SC27A","228.1","N","Y"," "," ","MS","REP",985
+"skillets","SC29E"," ","N","N"," "," "," "," ",995
+"skillet","SC29E"," ","N","N"," "," "," "," ",995
+"spider","SC29E"," ","N","N"," "," "," "," ",995
+"spiders","SC31A","232.1","N","N"," "," ","MS"," ",999
+"skillet","SC32B","233.2","N","N"," "," ","MS"," ",1002
+"spider","SC32D","233.4","N","N"," "," ","MS"," ",1004
+"spider","SC34A","235.1","N","Y"," "," ","MS","SUG/HRD",1007
+"skillet","SC34B","235.2","N","N"," "," ","MS"," ",1008
+"spider","SC34B","235.2","N","Y"," "," ","MS","SUG/HRD",1008
+"skillet","SC35A","236.1","N","N"," "," ","MS"," ",1010
+"spider","SC35C","236.3(*)","N","N"," "," ","MS","SUG",1012
+"skillet","SC35E!"," ","N","N"," "," "," "," ",1014
+"skillet","SC35E!"," ","N","N"," "," "," "," ",1014
+"spiders","SC36A","237.1","N","Y"," "," ","MS","SUG/HRD",1015
+"skillet","SC36B","237.2","N","N"," "," ","MS","CNV",1016
+"skillet","SC36C","237.3","N","N"," "," ","MS"," ",1017
+"spider","SC38D!","239.4(*)!","N","N"," "," ","MS"," ",1024
+"skillet","SC38D!","239.4(*)!","N","Y"," "," ","MS","HRD",1024
+"spider","SC40A","241.1","N","N"," "," ","MS"," ",1028
+"spider","SC40A","241.1","N","N"," "," ","MS"," ",1028
+"skillet","SC40A","241.1","N","N"," "," ","MS"," ",1028
+"skillet","SC40A","241.1","N","N"," "," ","MS"," ",1028
+"frying pan","SC41B","242.2","O","N"," "," ","MS"," ",1031
+"skillet","SC41B","242.2","N","N"," "," ","MS"," ",1031
+"skillets","SC42N","N243","N","N"," "," ","MS"," ",1032
+"skillet","SC42N","N243","N","N"," "," ","MS"," ",1032
+"fryer","SC42A","243.1","N","N"," "," ","MS"," ",1034
+"skillet","SC42A","243.1","N","N"," "," ","MS","CNV",1034
+"spider","SC42B!","243.2!","N","Y"," "," ","MS","OLD",1035
+"skillet","SC42D!","243.4!","N","N"," "," ","MS"," ",1037
+"spider","SC43B","244.2","N","Y"," "," ","MS","HRD",1040
+"skillets","SC44B","245.2","N","N"," "," ","MS"," ",1043
+"skillet","GA1B","246.11","N","N"," "," ","MS"," ",1046
+"pans for baking","GA1D","246.3","O","N"," "," ","MS"," ",1048
+"spider","GA1H!","246.7!","N","Y"," "," ","MS","HRD",1052
+"spider","GA4A","249.1","N","N"," "," ","MS"," ",1059
+"spider","GA4A","249.1","N","N"," "," ","MS"," ",1059
+"skillet","GA4C!","249.3!","N","N"," "," ","MS"," ",1061
+"spider","GA4C!","249.3!","N","N"," "," ","MS"," ",1061
+"spider","GA9A","257A.1","N","N"," "," ","MS"," ",1072
+"spider","GA13B!","260.2!","N","Y"," "," ","MS","SUG/HRD",1080
+"spiders","GA19A","265.1","N","Y"," "," ","MS","CNV/AUX",1094
+"griddle","GA22B","268A.2","N","N","very shallow"," ","MS"," ",1101
+"griddle","GA22B","268A.2","N","N","very shallow"," ","MS"," ",1101
+"cast iron","GA23A","268.1","O","Y"," "," ","MS","INA",1102
+"spider","GA23D!","268.3","N","N","originally three legs"," ","MS"," ",1105
+"skillet","GA23D!","268.3","N","N"," "," ","MS"," ",1105
+"skillet","GA23E!","268.4!","N","N"," "," ","MS"," ",1106
+"spider","GA29A","271.1","N","N"," "," ","MS","CNV",1115
+"frying pan","GA30B","272.2(*)","O","N"," "," ","MS","CNV",1118
+"pan","GA30B","272.2(*)","N","N"," "," ","MS"," ",1118
+"skillet","GA34A","273.1","N","N"," "," ","MS"," ",1127
+"a hoe","GA34B","273.2","O","N","shallow, for breadmaking, may be round or square"," ","MS"," ",1128
+"frying pan","GA36N","N274A","O","N"," "," ","MS"," ",1130
+"skillet","GA37D!","274.7!","N","N"," "," ","MS"," ",1136
+"frying pan","GA37E!","274.8!","O","N"," "," ","MS","CNV",1137
+"bisquit pan","GA37G!","274.4!","N","Y"," "," ","MS","INA",1139
+"black skillet","GA40","276A","O","N"," "," ","MS"," ",1144
+"hot irons on them","GA42A","276.1","O","Y"," "," ","MS","INA",1146
+"spider","FL4","254A","N","Y"," "," ","MS","SUG",1160
+"oven","SC3B","205.2","N","N","for biscuits"," ","MS"," ",894
+"oven","SC3C!","205.3!","N","N","had a lid"," ","MS"," ",895
+"oven","SC4C","206.3","N","N"," "," ","MS"," ",898
+"oven","SC5A","207.1","N","N"," "," ","MS"," ",899
+"oven","SC5C","207.2A","N","N"," "," ","MS"," ",901
+"oven","SC6N","N208","N","N","over fire"," ","MS"," ",903
+"spider","SC6D"," ","N","N","three legs, 2 inches long vertically"," "," "," ",907
+"","","","","","","","","",

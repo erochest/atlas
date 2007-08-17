@@ -1,0 +1,63 @@
+hearth (cp8#2.asc)
+
+Items
+=====
+                     chimney hearth    5
+                        fire hearth   15
+                         fire place    3
+                          fireplace    7
+                         fireplaces    1
+                                hat    1
+                             hearth   66
+                        hearth rock    2
+                     mantel columns    1
+                                 NR    1
+                              smoke    1
+
+
+L:  The open place on the floor in front of the fireplace.
+M:  What do you call the front of an old-fashioned stove?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The following types of pronunciation are current:  [hµ´ù,  hµºù,  h´ù,  h³ù,  háù,  há´ù].
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:
+
+The vowel is the focus of interest for this item. Relic forms with [á] are found especially in NC and VA, those with [³] in the Middle Atlantic States, GA and SC.
+	
+"Fireplace" was regularly elicited by McDavid in conjunction with "hearth" and "chimney."  It may appear in either first, second, or third position on the field records.  It was not included in either list manuscript.  We have included it here with "hearth", and have not marked it inappropriate, since it could conceivably be a response to a question intended to elicit "hearth" and it is listed in the main body of the field record rather than in the margin.  More likely it should be considered a supplemental worksheet item added by McDavid as a way to record the vowel of "fire."  Thus, it should probably not be treated as a lexical variant, as "fire hearth," "firerock," or "chimney hearth" might be.
+
+	Cohen:
+		
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 8#2, marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 8 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+		8#1 (no question)
+8#Pa
+8#Pb
+8#1		8#2a
+8#2		8#2b
+8#3		
+8#4		8#3
+		8#4
+8#5		8#5
+8#6		
+8#7		8#6
+8#8		8#7
+8#9		8#8

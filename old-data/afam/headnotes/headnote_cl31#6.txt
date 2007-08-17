@@ -1,0 +1,146 @@
+side road (cl31#6.asc)
+
+Items
+=====
+                             avenue    1
+                          back road    3
+                    branch-off road    1
+                            by-path    1
+                             bypass    1
+                             byroad   13
+                              byway    1
+                       country road    2
+                      country roads    1
+                        county road    1
+                          dirt road   13
+                          foot path    1
+                        gravel road    6
+                            highway    1
+                            lead-in    1
+                      lead-off road    1
+                      magnolia road    1
+                  neighborhood road    6
+                                 NR   24
+                     old dirt roads    1
+                     one-way street    1
+                               path    2
+                    plantation road    3
+                        public road    1
+                       quarter road    1
+                      read-off road    1
+                          sand road    1
+                    secondary roads    1
+                    settlement road    1
+                         shell road    2
+                          side road   11
+                       tar and rock    1
+                       through road    2
+                         woods road    1
+
+Pronunciations
+==============
+                        ba¾±¿½ro«ºd    1
+                      ba¾º[²¾]ro½ºd    1
+                     ba¾º{²¼}õro«ºd    1
+                       bµº{²¾]ro«ºd    1
+                          bák$ro«ºd    1
+                       d³¼t$ro¼¹¿d    1
+                     d³«¼±¿t$ro[¹]d    1
+                 d³«¾±¿t$ro¼[¹¼]{d}    1
+               gráv°«[ì]$ro¼[¹¼]{d}    1
+                   grá{°}v°ì$ro[¹]d    1
+                     k¸«¾ntò±¿$ro¹d    1
+                     liºd·½ºf$ro«ºd    1
+       má½gåno¼º{°}lj°«$õòo¿¾º{°}d    1
+             ne«[°«¾]b°h¹{°}d$ro«ºd    1
+               ne«º{°}v°h¹d$ro«{°}d    1
+                neºb°h¹{°}d$roº[¹]d    1
+                 neº{°}b°h¹¼d$ro½ºd    1
+        o«¼º{°}l$†d°º[±¿]t$õro«¼ºdz    1
+                         p¸bl±k$rod    1
+                     riºd·½ºf$ro«ºd    1
+                      sa«±¿¼d$ro¹¿d    1
+                    sa«¾º±¿d$ro¼¹¼d    1
+                          sµ¾±d$rod    2
+                       w¹dz$ro[¹½]d    1
+                         åbak$ro«ºd    1
+                       åba¾±¿½õro:d    1
+                    åba¾º{²¾]õro«ºd    1
+                       åbµ«±¿õro«ºd    1
+                        åbµ«²«ro«ºd    1
+                    åbµ«¼±¿õroº[¹]d    1
+                    åbµ±¿½õr•oº[¹]d    1
+                     åbµº±¿åro«{°}d    1
+                     åbµ¼±¿½ro«{°}d    1
+                       åbµ¼±¿õro«ºd    1
+                     åbá½k$ro¿º{°}d    1
+             åd¤º[±¿]t$õr¸•«¾º¹¼{d}    1
+                  åd³•«º±¿t$õro«¼ºd    1
+                       åd³«±¿t$ro¹d    1
+                  åd³±¿«t$õro¼º{°}d    1
+                    åd³º±¿t$õro¼¹¼d    1
+                  åd³½±¿t$õro¼º[°]d    1
+                 åd³½¾[±¿]t$õro[¹]d    1
+                 åd³¾[´]t$õro¼[¹¼]d    1
+                  åd³¾±¿t$õro[¹]{d}    1
+                  åd³¾±¿t$õòo¼º[¹]d    1
+                   ågráv°«l$õro¼¹¼d    1
+                    ågrá«{°}vì$ro¹d    1
+                  ågráºvì$õro¼[¹¼]d    1
+               ågráº{°}v°«ì$õro¼¹¼d    1
+             åk`Ù½ntò±¿«¼$åro¼º¹d    1
+                    åkw·½ºt°$ro½ºd    1
+            åkˆ`¸«¼ntò“±¿¼«$õro¿dz    1
+             åne«b°½h¹¼d$õro«¼º{°}d    1
+        åneº{°}b°õh¹¼{°}d$åro¼º[°]d    1
+        åp`ìántõeº±ó°«n$åro«¼º[¹]d    1
+       åp`ìáşõt`e{°«]ón–$åro«º{°}d    1
+                åsa«¾:{°}d$õroº[¹]d    1
+              åsa«¾º{°}d$õro¿¼º[¹]d    1
+                  åsa«¾º±¿d$õro¼¹¼d    1
+                 åsa¾{°}d$õro[¹]{d}    1
+                     åsa¾±¿½d$õro:d    1
+                  ås²tì–m²nt$ro½ºd    1
+               ås²«kîõd²ºr±¿$åro¿dz    1
+                   åsµº°d$ro«¼º{°}d    1
+                      ås¶”º±¿d$ro¹d    1
+                       åsáºn$ro[¹]d    1
+                         åó²l$õroºd    1
+                      åó²l$õro«¼ºd    1
+                        åùu¼º$ro«ºd    1
+                   åùu¿¾[u¼]$õro«ºd    1
+               õbrántóå·½ºf$roº[¹]d    1
+             õpláéntåe«{°}ó°n$roºd    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

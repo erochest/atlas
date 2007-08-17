@@ -1,0 +1,13 @@
+northeast (cp6#6b.asc)
+
+Items
+=====
+                              north    6
+                          northeast   25
+                     northeast wind    2
+                        northeaster    2
+                          northerly    1
+                           northern    8
+                      northern neck    2
+                                 NR   38
+

@@ -1,0 +1,1225 @@
+"February","NY1","50","N","N"," "," ","febiΩæw∞r±ø","MS",1
+"February","NY1","50","N","Y"," ","OLD","feb∞w∞r±ø","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"February","NY2B","51.2","N","N"," "," ","f≤bruºw∞r±ø","MS",3
+"February","NY2B","51.2","N","N","natural"," ","f≤b∞w∞r±ø","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"February","NY3A","401","N","N"," "," ","f≤æbjuºw≤æré±ø´º","MS",5
+"February","NY3B","403","N","N"," "," ","f≤æbjuºw≤r±ø´","MS",6
+"February","NY3C","402","N","N"," "," ","f≤æbjuøw≤ær±ø´º","MS",7
+"February","NY3D","404","N","N"," "," ","f≤æbjuºw≤ær±ø´º","MS",8
+"February","NY4A","405","N","N"," "," ","f≤bjuøw≤r±ø´º","MS",9
+"February","NY4B","407","N","N"," "," ","f≤æb∞w≤ær±ø´","MS",10
+"February","NY4C","408","N","N"," "," ","f≤æbjuºw≤ær±ø´º","MS",11
+"February","NY5A","409","N","N"," "," ","Âf≤bjuºıw≤r±ø´","MS",12
+"February","NY5B","410","N","N"," "," ","f≤b∞w≤r±ø´º","MS",13
+"February","NY5C","411","N","N"," "," ","f≤bruºw∞r±ø´","MS",14
+"February","NY5D","412","N","N"," "," ","Âf≤bruºıw≤ær±ø´","MS",15
+"February","NY5E","413","N","N"," "," ","f≤bjuºw≤r±ø´º","MS",16
+"February","NY5F","414","N","N"," "," ","f≤bw≤ær±ø´º","MS",17
+"February","NY5G","415","N","N"," "," ","f≤bjuøæw≤r±ø´º","MS",18
+"February","NY5H!","416!","N","N"," "," ","f≤bróü’uºw≤r±ø´º","MS",19
+"February","NY5I!","417!","N","N"," "," ","f≤æbruºw≤r±ø´º","MS",20
+"February","NY6A","418","N","N"," "," ","Âf≤æbjuºıw≤ær±ø´","MS",21
+"February","NY6B","419","N","N"," "," ","f≤æbjuøæw≤ær±ø´","MS",22
+"February","NY7A","420","N","N"," "," ","f∞b∞w≤æˆür›±ø´","MS",23
+"February","NY7B","421","N","N"," "," ","f≤æbjuºw≤›ær±ø´º","MS",24
+"February","NY7C","422","N","N"," "," ","f≤æbjuº∫w≤r±ø´","MS",25
+"February","NY7D","423","N","N"," "," ","f≤bjuºw≤r±ø","MS",26
+"February","NY7E","424","N","N"," "," ","f≤æbruºw≤ær±ø´","MS",27
+"February","NY7F","425","N","N"," "," ","Âf≤bjuøæıw≤Òé›±ø´","MS",28
+"February","NY7G","426","N","N"," "," ","f≤brπ´w≤ˆürü’±ø","MS",29
+"February","NY7H","427","N","N"," "," ","f≤æbruºw≤r±ø´º","MS",30
+"NR","NY7I","428"," ","N"," "," "," ","MS",31
+"February","NY7J!","429!","N","N"," "," ","f≤æbruºw≤æÒé›±ø´","MS",32
+"February","NY7K!","430!","N","N"," "," ","f≤bruºw≤ær±ø´","MS",33
+"February","NY7L!","431!","N","N"," "," ","f≤æbÒé›àuºw≤æÒé›±ø´","MS",34
+"February","NY7M!","432!","N","N"," "," ","f≤bjuø∫w≤r±ø","MS",35
+"February","NY8","432b","N","N"," "," ","f≤bjuºw≤r±ø´","MS",36
+"February","NY9A","432c","N","N"," "," ","f≤bruºw≤¥±ø´","MS",37
+"February","NY9B","433","N","N"," "," ","f≤bruºw≤¥±ø´","MS",38
+"February","NY9C","434","N","N"," "," ","f≤bruºw≤ær±ø´º","MS",39
+"February","NY10A","435","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",40
+"February","NY10B!","436!","N","N"," "," ","Âf≤bjuºıw≤¥±ø´","MS",41
+"February","NY11","438","N","N"," "," ","Âf≤bjuøæıw≤r±ø´","MS",42
+"February","NY12A","439(*)","N","N"," "," ","f≤b±øu›ºw≤¥±ø´","MS",43
+"February","NY12B","440","N","N"," "," ","f≤bjuøæw≤¥±ø´","MS",44
+"February","NY12C!","441!","N","N"," "," ","f≤bruºw≤r±ø´","MS",45
+"February","NY13A","443","N","N"," "," ","f≤bjuºw∞›r±ø´","MS",46
+"February","NY13B!","444!","N","N"," "," ","f≤b∞Ωw≤r±ø´","MS",47
+"February","NY14A","445","N","Y"," ","AUX","f≤bjuºw≤¥±ø´","MS",48
+"February","NY14B","446","N","N"," "," ","Âf≤bjuº∫ıw≤¥±ø´","MS",49
+"February","NY15A","447","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",50
+"February","NY15B","448","N","N"," "," ","f≤b±ø´uº{w}≤¥±ø´","MS",51
+"February","NY16A","449","N","N"," "," ","f≤æbjuºw≤r±ø´","MS",52
+"February","NY16B","450","N","N"," "," ","f≤bjuºw∞r±ø","MS",53
+"February","NY17A","451(*)","N","N"," "," ","f≤b∞w≤´¥±ø´","MS",54
+"February","NY17B","452","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",55
+"February","NY18A","453","N","N"," "," ","f≤b∞w≤¥±ø´","MS",56
+"February","NY18B","454","N","N"," "," ","f≤b∞w¥±ø´","MS",57
+"February","NY18C!","455!","N","N"," "," ","f≤bruºw∞rü’±ø´","MS",58
+"February","NY19","456","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",59
+"February","NY20A","457","N","N"," "," ","f≤b±ø´uºw≤r±ø´","MS",60
+"February","NY20B","458","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",61
+"February","NY21","459","N","N"," "," ","f≤b∞w¥±ø´","MS",62
+"February","NY22","460","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"February","NY23B","462a","N","N"," "," ","Âf≤´b∞ıw≤é¥±´æ","MS",65
+"February","NY23C","462b","N","N"," "," ","Âf≤b¥{w}≥º¥±´æ","MS",66
+"February","NY24A","463","N","N"," "," ","f≤bj±øuº{w}≤¥±ø´","MS",67
+"February","NY24B!","464!","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",68
+"February","NY25A","465","N","N"," "," ","Âf≤bj∞w≤Ωæ¥±´æ","MS",69
+"February","NY25B","466","N","N"," "," ","Âf≤br∞ıw≤∫¥±´æ","MS",70
+"February","NY26A","467","N","N"," "," ","f≤b∞{ró}≤é¥±´æ","MS",71
+"February","NY26B","468","N","N"," "," ","Âf≤´bj∞óıw≤é¥±´æ","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"February","NY27A","470","N","N"," "," ","Âf≤´bj∞óıw≤¥±´æ","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"February","NY27C","472","N","N"," "," ","f≤b∞w≥º¥±´æ","MS",76
+"February","NY28A","473a","N","N"," ","CNV","Âf≤b∞ıw≤∫¥±´æ","MS",77
+"February","NY28B","473b(*)","N","N"," "," ","f≤bj∞w±øΩº¥±´æ","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"February","NY29A","474a","N","N"," "," ","Âf≤bj∞´w≤é¥±´æ","MS",80
+"February","NY29B","474b","N","N"," "," ","f≤Ωbw≤é¥±´æ","MS",81
+"February","NY29C","474c","N","N"," "," ","f≤b¥w≤éæ¥±´æ","MS",82
+"February","NY30A","475a","N","N"," "," ","Âf≤b¥≤é¥±´æ","MS",83
+"February","NY30B","475b","N","N"," "," ","f≤bj∞w≤éæ¥±´æ","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"February","NY30E","475e","N","N"," "," ","Âf≤b{r}∞óı{w}≤é¥±´æ","MS",87
+"February","NY31A","478a","N","N"," "," ","Âf≤´bj∞ıw≤é¥±´æ","MS",88
+"February","NY31A","478a","N","N"," "," ","Âf≤b∞ıw≤é¥±´æ","MS",88
+"February","NY31B","478b","N","N"," "," ","Âf≤bj∞ıw≤é¥±´æ","MS",89
+"February","NY32A","479a","N","N"," "," ","Âf≤b¥{w}¥±´æ","MS",90
+"February","NY32B","479b","N","N"," "," ","Âf≤b¥ıw≤æ¥±´æ","MS",91
+"February","NY33A","480","N","N"," ","CNV","Âf≤b∞ıw≤¥±´æ","MS",92
+"February","NY33B","481","N","N"," "," ","Âf≤bj∞ıw≤é¥±´æ","MS",93
+"February","NY33C","482","N","N"," "," ","Âf≤b±ø≤é¥±´æ","MS",94
+"February","NY34A","483","N","N"," "," ","Âf≤∫bj∞ıw≤éæ¥±´æ","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"February","NY34C","485","N","N"," ","CNV","Âf≤´b∞ıw≤é¥±´æ","MS",97
+"February","NY34D!","486!","N","N"," "," ","Âf≤b¥{w}≤¥±´æ","MS",98
+"February","NY35A","487","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",99
+"February","NY35B","488","N","N"," "," ","f≤bbjuºw≤¥±ø´","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"February","NY36A","491","N","N"," "," ","f≤b∞w≤¥±ø´","MS",102
+"February","NY36B","492","N","N"," "," ","f≤bj±øuºw≤¥±ø´","MS",103
+"February","NY37A","493","N","N"," "," ","f≤b±ø›´uºw≤¥±ø´","MS",104
+"February","NY37B","494","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",105
+"February","NY37C!","495!","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",106
+"February","NY38A","497(*)","N","N"," "," ","f≤b±ø›uºw¥±ø´","MS",107
+"February","NY38B","498","N","N"," "," ","f≤bj±øuºw≤æ¥±ø´","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"February","NY39A","499","N","N"," "," ","f≤bw≤¥±ø´","MS",110
+"February","NY39B","500","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",111
+"February","NY40A","501","N","N"," "," ","f≤br±øæu{w}≤æ¥±ø´","MS",112
+"February","NY40B","502","N","N"," "," ","f≤bjuw≤¥±ø´","MS",113
+"February","NY41","504","N","N"," "," ","Âf≤bjuºıw≤¥±ø´","MS",114
+"February","NY42A","505","N","N"," "," ","f≤bj±øuºw≤¥±ø´","MS",115
+"February","NY42B","506","N","N"," "," ","f≤b±ø›uw≤¥±ø´","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"February","NY43B","507b","N","N"," "," ","f≤bruºw≤¥±ø´","MS",118
+"February","NY43C!","508!","N","N"," "," ","f≤bruºw≤¥±ø´","MS",119
+"February","NY44A","511","N","N"," "," ","f≤bj±øuºw≤´¥±ø´","MS",120
+"February","NY44B","512","N","N"," "," ","f≤bjuºw¥∫±ø´","MS",121
+"February","NY45A","513a","N","N"," ","CNV","Âf≤bj∞óıw≤´¥±´æ","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"February","NY45D!","513d!","N","N"," "," ","Âf≤bj∞ıw≤éæ¥±´æ","MS",125
+"February","NY46A","515a","N","N"," "," ","ıf≤´bj∞Âw≤é¥±øº","MS",126
+"February","NY46B","515b","N","N"," "," ","Âf≤bj∞›w≤æ¥±´","MS",127
+"February","NY46C","515c","N","N"," "," ","f≤bj∞›w≤¥±´","MS",128
+"February","NY47A","517(*)","N","N"," "," ","f≤´bjπ{w}≤é¥±´æ","MS",129
+"February","NY47B","518","N","N"," "," ","f≤bjuº{w}≤¥±ø´","MS",130
+"February","NY48A","519a","N","N"," "," ","Âf≤b∞ıw≤¥±ø","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"February","NY48C","519c","N","N"," "," ","Âf≤b∞éıw≤¥±øº","MS",133
+"February","NY48D","519d","N","N"," "," ","Âf≤bjπw≥éº¥±øº","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"February","NY49C","522a","N","N"," "," ","f≤b±øˆ≤r±ø","MS",137
+"February","NY49D","522b","N","N"," "," ","f≤brπ{w}≤æ¥±ø","MS",138
+"February","NY50A","523","N","N"," "," ","Âf≤bwé∞ıw≤æ¥±øº","MS",139
+"February","NY50B","524","N","N"," "," ","Âf≤bj∞ıw±Ωæ¥±øº","MS",140
+"February","NY51A","525a","N","N"," "," ","Âf≤bπ≤æ¥±´æ","MS",141
+"February","NY51B","525b","N","N"," "," ","Âf≤´bj∞ıw≥é¥±øº","MS",142
+"February","NY51B","525b","N","Y"," ","AUX","Âf≤br∞ıw≥é¥±øº","MS",142
+"February","NY51C","525c","N","N"," "," ","Âf≤bj∞óıw≤æ¥±´æ","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"February","NY52A","527","N","N"," "," ","Âf≤bj∞ıw≤æ¥±´æ","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"February","NY52C","528b","N","N"," "," ","Âf≤bjuø{w}≤r±ø","MS",148
+"February","NY53A","529","N","N"," "," ","Âf≤´b¥ıw≤æ¥±´æ","MS",149
+"February","NY53B!","530!","N","N"," "," ","Âf≤bj∞óıw≤¥±´æ","MS",150
+"February","NY54A","531","N","N"," "," ","Âf≤bj∞ıw≤¥±ø´","MS",151
+"February","NY54B","532","N","N"," "," ","Âf≤b¥≤¥±ø","MS",152
+"February","NY55A","533","N","N"," "," ","Âf≤bjπı≤¥±´æ","MS",153
+"February","NY55B","534","N","N"," "," ","f≤br∞ó{w}≤¥±´æ","MS",154
+"February","NY56A","535","N","N"," "," ","Âf≤b{j}uºıw≤∫¥±´æ","MS",155
+"February","NY56B","536","N","N"," ","CNV","Âf≤b∞ıw≤é¥±´æ","MS",156
+"February","NY56B","536","N","N"," ","CNV","Âf≤bÚ∞ıw≤é´¥±æ{iæ}","MS",156
+"February","NY57A","537a","N","N"," "," ","Âf≤bj∞ıw≤é¥±´æ","MS",157
+"NR","NY57B","537b"," ","N"," "," "," ","MS",158
+"February","NY57C!","537c!","N","N"," "," ","Âf≤∫bÒéπ›ı{w}≤¥±´æ","MS",159
+"February","NY58A","539a","N","N"," "," ","Âf≤b∞ıw≤é¥±´æ","MS",160
+"February","NY58B","539b","N","N"," "," ","Âf≤b{j}∞éıw≤éæ¥±´æ","MS",161
+"NR","NY58C","539c"," ","N"," "," "," ","MS",162
+"February","NY58D!","539d!","N","N"," "," ","Âf≤´b∞w≤¥±´æ","MS",163
+"February","NY58D!","539d!","N","N"," "," ","Âf≤´bj∞ów≤¥±´æ","MS",163
+"February","NY58D!","539d!","N","N"," "," ","Âf≤´bjπº{w}≤¥±´æ","MS",163
+"February","NY58E!","539e!","N","N"," "," ","Âf±Ωb∞ıw≤¥±´æ","MS",164
+"NA","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"February","NY59A","543","N","N"," "," ","Âf≤b¥ıw≤é¥±´æ","MS",166
+"February","NY59B","544","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",167
+"February","NY60A","545","N","N"," "," ","Âf≤´bÚ∞ıw≤∫¥±´æ","MS",168
+"February","NY60A","545","N","N"," ","CNV","Âf≤´bj∞óıw≤∫¥±´æ","MS",168
+"February","NY60B!","546!","N","N"," ","CNV","Âf≤bj∞ıw≤é¥±´æ","MS",169
+"February","NY61A","547","N","N"," "," ","Âf≤bj∞ˆ≤¥±´æ","MS",170
+"February","NY61B","548","N","N"," ","CNV","Âf≤bj∞ıw≤¥±´æ","MS",171
+"February","NY61B","548","N","N"," ","CNV","Âf≤bj∞óı≤é∫¥±´æ","MS",171
+"February","NY62A","551a","N","N"," "," ","Âf≤bj∞ów≤´¥±´æ","MS",172
+"February","NY62B","551b","N","N"," ","CNV","Âf≤´bw≤¥±´æ","MS",173
+"February","NY62C","551c","N","N"," "," ","Âf≤br∞ó{w}≤é¥±´æ","MS",174
+"February","NY62D!","551d!","N","N"," "," ","Âf≤bj∞ˆ≤é¥±´æ","MS",175
+"February","NY63A","556a","N","N"," "," ","Âf≤bj∞óıw≤æ∫¥±´æ","MS",176
+"February","NY63B","556b","N","N"," "," ","Âf≤´bj∞ów¥±´æ","MS",177
+"February","NY63C","556c","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",178
+"February","NY63D!","556d!","N","N"," ","CNV","Âf≤´bj∞ów≤é¥±´æ","MS",179
+"February","NY63D!","556d!","N","N"," ","CNV","Âf≤´bj∞ıw≥º¥±´æ","MS",179
+"February","NY64A","557a","N","N"," ","CNV","Âf≤´bj∞óıw≤é¥±´æ","MS",180
+"February","NY64B","557b","N","N"," "," ","Âf≤´b{j}∞ıw≤¥±´æ","MS",181
+"NR","NY64C!","557c!"," ","N"," "," "," ","MS",182
+"February","NJ1A","1","N","N"," "," ","f≤bjuøw¥±ø´","MS",183
+"February","NJ1B","2","N","N"," "," ","f≤bjuøw≤¥±ø{±ø´}","MS",184
+"February","NJ2A","3(*)","N","N"," "," ","f≤bjuøw¥{Òé}±ø´","MS",185
+"February","NJ2B","4","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",186
+"February","NJ3A","5","N","N"," "," ","f≤b∞w≤æ¥±ø›{±ø´}","MS",187
+"February","NJ3B","6","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",188
+"February","NJ4A","7","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",189
+"February","NJ4B","8","N","N"," "," ","f≤b∞w≤æ¥±ø","MS",190
+"February","NJ5A","9","N","N"," "," ","f≤bjuøw≤æ¥{Òé}±ø´","MS",191
+"February","NJ5B","10","N","N"," "," ","f≤bjuøæw≤æ¥±ø","MS",192
+"February","NJ6A","11","N","N"," "," ","f≤bjuøæw≤r±ø´","MS",193
+"February","NJ6B","12","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",194
+"February","NJ7A","17","N","N"," "," ","f≤bjuøæw≤´æ¥±ø´","MS",195
+"February","NJ7B!","18!","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",196
+"Second Month","NJ7B!","18!","O","N"," "," ","s≤k∞n{d}$m∏nt˘","MS",196
+"February","NJ8A","19","N","N"," "," ","f≤bjuøæw¥{Òé}±ø´º","MS",197
+"February","NJ8B","20","N","N"," "," ","f≤bjuºw≤¥±ø´º","MS",198
+"February","NJ9A","21","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",199
+"February","NJ9B","22","N","N"," "," ","Âf≤bjuøıw≤¥±ø´º","MS",200
+"February","NJ10A","24b","N","N"," "," ","f≤bjuºw≤r±ø´º","MS",201
+"February","NJ10B","23","N","N"," "," ","f≤b∞w{∞}¥±ø´º","MS",202
+"February","NJ10C","24","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",203
+"February","NJ10D!","24c!","N","N"," "," ","f≤bruºw≤ær±ø´","MS",204
+"February","NJ11A","25","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",205
+"February","NJ11B","26a","N","N"," "," ","f≤bruºw≤¥±ø´","MS",206
+"February","NJ11B","26a","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",206
+"February","NJ11C","26b","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",207
+"February","NJ12A","27","N","N"," "," ","f≤bruºw≤¥±ø´º","MS",208
+"February","NJ12A","27","N","N"," "," ","f≤bjuºw≤¥±ø´º","MS",208
+"February","NJ12B","28","N","N"," "," ","f≤b∞w≤æ¥±ø´º","MS",209
+"February","NJ13A","29","N","N"," "," ","f≤b∞w∞¥±ø´º","MS",210
+"February","NJ13B","30","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",211
+"February","NJ14A","31","N","N"," "," ","f≤bjuøw≤r±ø›{±ø´}","MS",212
+"February","NJ14B","32","N","N"," "," ","Âf≤bjuøıw≤¥±ø›{±ø´}","MS",213
+"February","NJ15A","33","N","N"," "," ","f≤b∞w≤æ¥±ø´º","MS",214
+"February","NJ15B","34","N","N"," "," ","f≤bjuøw≤¥±ø´º","MS",215
+"February","NJ16A","35","N","N"," "," ","f≤bjuøw≤æ¥±ø´º","MS",216
+"February","NJ16B","36","N","N"," "," ","f≤æbjuºw≤ær±ø´","MS",217
+"February","NJ17A","37","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",218
+"February","NJ17B","38","N","N"," "," ","f≤bjuøæw≤æ¥±ø´º","MS",219
+"February","NJ18A","41","N","N"," "," ","f≤bruºw≤r±ø´","MS",220
+"February","NJ18B","42","N","N"," "," ","f≤br∞w≤r±ø´","MS",221
+"February","NJ18C!","43!","N","N"," "," ","f≤bruºw≤r±ø´º","MS",222
+"February","NJ18D!","44!","N","N"," "," ","f≤bruºw≤¥±ø´º","MS",223
+"February","NJ19A","45","N","N"," "," ","f≤æbruº≤r±ø´","MS",224
+"February","NJ19B!","46!","N","N"," "," ","f≤bjuºw≤r±ø´","MS",225
+"February","NJ20A","47","N","N"," "," ","f≤bruºw≤r±ø´º","MS",226
+"February","NJ20B","47b","N","N"," "," ","Âf≤bjuºıw≤ær±ø´º","MS",227
+"February","NJ21A","48","N","N"," "," ","f≤bjuºw≤r±ø´º","MS",228
+"February","NJ21B","49","N","N"," "," ","f≤bjuºw≤r±ø´º","MS",229
+"February","PA1A","51","N","N"," "," ","Âf≤bjuºıw≤Òé›±ø´","MS",230
+"February","PA1B","52","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",231
+"February","PA1C","53","N","N"," "," ","f≤bruΩº{w}≤¥±ø´","MS",232
+"February","PA1D","54","N","N"," "," ","f≤bjuº{w}≤›æ¥±ø´","MS",233
+"February","PA1E!","55!","N","N"," "," ","f≤bruºw≤æ¥±ø","MS",234
+"February","PA1F!","56!","N","N"," "," ","f≤bruº≤r±ø","MS",235
+"February","PA1G!","57!","N","N"," "," ","f≤bruºw≤æ¥±ø","MS",236
+"February","PA1H!","58!","N","N"," "," ","f≤bruºw≤æ¥±ø´","MS",237
+"February","PA2A","59","N","N"," "," ","f≤bjuºw≤ær±ø","MS",238
+"February","PA2B","60","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",239
+"February","PA3A","61","N","N"," "," ","f≤bjuºw≤æ¥±ø","MS",240
+"February","PA3B","62","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",241
+"February","PA3C","62b","N","N"," "," ","f≤bjuºw≤r±ø","MS",242
+"February","PA4A","63","N","N"," "," ","Âf≤b∞ıw≤¥±ø","MS",243
+"February","PA4B!","64!","N","N"," "," ","f≤bjuºw≤æ¥±ø","MS",244
+"February","PA5A","65(*)","N","N"," "," ","f≤bjuºw≤´¥±ø´","MS",245
+"February","PA5B","65b","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",246
+"February","PA5C","66","N","N"," "," ","f≤bjuøæw¥±ø","MS",247
+"February","PA5D","67","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",248
+"February","PA5E!","68!","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",249
+"February","PA6A","69","N","N"," "," ","f∞b∞ˆ≤Òé›±ø","MS",250
+"February","PA6B","71","N","N"," "," ","Âf≤bjuºı≤r±ø","MS",251
+"February","PA6C","71b","N","N"," "," ","f≤pîjuºˆ≤r±ø","MS",252
+"February","PA6D!","72!","N","N"," "," ","f≤bjuºw≤ær±ø","MS",253
+"February","PA7A","73","N","N"," "," ","f≤bjuøw≤´¥±ø´º","MS",254
+"February","PA7B","74","N","N"," "," ","f≤bjuøw≤r±ø´","MS",255
+"February","PA7C","75","N","N"," "," ","f≤bjuº≤r±ø","MS",256
+"February","PA7D!","76!","N","N"," "," ","f≤bruΩº{w}≤r±ø","MS",257
+"February","PA7D!","76!","N","N"," "," ","f≤bjuº{w}≤r±ø","MS",257
+"February","PA8A","77","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",258
+"February","PA8B","78","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",259
+"February","PA8C","79","N","N"," "," ","f≤pîj∞ˆ≤r±ø","MS",260
+"February","PA8D!","80!","N","N"," "," ","f≤bruºw≤¥±ø´","MS",261
+"February","PA9A","83","N","N"," "," ","f≤bèj∞ˆ≤r±ø","MS",262
+"February","PA9B","83b","N","N"," "," ","f≤bjuºw≤¥±ø","MS",263
+"February","PA9C!","84!","N","N"," "," ","Âf≤bjuºıw≤r±ø","MS",264
+"February","PA10","87","N","N"," "," ","f≤bèj∞|≤Òé›±ø","MS",265
+"February","PA11A","89","N","N"," "," ","f≤bj∞w¥±ø´","MS",266
+"February","PA11B","90(*)","N","N"," "," ","f≤bjuºw≤r±ø´","MS",267
+"February","PA12A","91","N","N"," "," ","f≤bj∞w≤›æ¥›{Òé}±ø´","MS",268
+"February","PA12B","92","N","N"," "," ","f≤bj∞w≤¥±ø","MS",269
+"February","PA13A","93","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",270
+"February","PA13B","94","N","N"," "," ","f≤bjuºw≤æ¥±ø´","MS",271
+"February","PA14A","95(*)","N","N"," "," ","Âf≤bè±ø´º|ı≤Òé›±ø","MS",272
+"February","PA14B","96","N","N"," "," ","f≤b∞w≤r±ø","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"February","PA15A","99","N","N"," "," ","f≤bj∞w≤æÒé›±ø","MS",275
+"February","PA15B","99b","N","N"," "," ","Âf≤bjuºıw≤ær±ø","MS",276
+"February","PA15C!","100!","N","N"," "," ","f≤bruºw≤æÒé›±ø","MS",277
+"February","PA16A","101","N","N"," "," ","f≤pî∞|≤{∞}Òé›±ø","MS",278
+"February","PA16A","101","N","N"," "," ","Âf≤pîj∞|≤{∞}Òé›±ø","MS",278
+"February","PA16B","102","N","N"," "," ","f≤bjuºw≤ær±ø","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"February","PA17A","105","N","N"," "," ","f≤bèj∞|≤Òé›±ø","MS",281
+"February","PA17B","106","N","N"," "," ","f≤bru∫≤r±ø","MS",282
+"February","PA18A","107","N","N"," "," ","f≤bju≤r±ø","MS",283
+"February","PA18B!","108!","N","N"," "," ","f≤bruºw≤¥±ø","MS",284
+"February","PA19A","113","N","N"," "," ","f≤bjuøw¥±ø","MS",285
+"February","PA19B","114","N","N"," "," ","Âf≤bjuºıw≤ær±ø","MS",286
+"February","PA20A","115","N","N"," "," ","f≤b∞w¥±ø","MS",287
+"February","PA20B","116","N","N"," "," ","f≤bjuºw≤r±ø","MS",288
+"February","PA21A","117","N","N"," "," ","Âf≤bjuºıw≤r±ø","MS",289
+"February","PA21B","118","N","N"," "," ","f≤bjuºw≤¥±ø","MS",290
+"February","PA22A","119","N","N"," "," ","f≤bj±øuºw≤r±ø","MS",291
+"February","PA22B","120","N","N"," "," ","f≤bjuºw≤r±ø","MS",292
+"February","PA23A","121","N","N"," "," ","f≤bj∞w≤r±ø","MS",293
+"February","PA23B","122","N","N"," "," ","f≤bjuºw≤r±ø","MS",294
+"February","PA24A","123","N","N"," "," ","f≤bj∞w≤r±ø","MS",295
+"February","PA24B","124","N","N"," "," ","f≤bjuºw≤r±ø","MS",296
+"February","PA25A","125","N","N"," "," ","f≤bjuºw¥±ø´","MS",297
+"February","PA25B","126","N","N"," "," ","f≤bjuºw≤ær±ø´","MS",298
+"February","PA26A","127","N","N"," "," ","f≤b±ø›w›≤´r±ø","MS",299
+"February","PA26B","128","N","N"," "," ","f≤b±øuøæw≤¥±ø´","MS",300
+"February","PA27A","131","N","Y"," ","AUX","f≤bj±ø›w›≤æ¥±ø´","MS",301
+"February","PA27B","132","N","N"," "," ","Âf≤bj±æuıw≤r±ø","MS",302
+"February","PA28A","135","N","N"," "," ","f≤bjuº{w}≤æ¥±ø´","MS",303
+"February","PA28B!","136!","N","N"," "," ","f≤bjuºw≤ær±ø´","MS",304
+"February","PA29A","139(*)","N","N"," "," ","f≤bjuøæw≤æ¥±ø","MS",305
+"February","PA29B","140","N","N"," "," ","f≤bju›w≤æ¥±ø›´","MS",306
+"February","PA30A","143","N","N"," "," ","f≤bj∞w≤r±ø","MS",307
+"February","PA30B","144","N","N"," "," ","f≤b∞w≤´ær±ø","MS",308
+"February","PA31A","145","N","N"," "," ","f≤bjuºw≤¥±ø´","MS",309
+"February","PA31B","146","N","N"," "," ","f≤bjuøw¥±ø´","MS",310
+"February","PA32A","147","N","N"," "," ","f≤bju›æw≤æ¥±ø´","MS",311
+"February","PA32B","148","N","N"," "," ","f≤bjuºw¥±ø´","MS",312
+"February","PA33A","151","N","N"," "," ","Âf≤bj∞ˆ∞Òé›±ø","MS",313
+"February","PA33B","152","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",314
+"February","PA34A","155","N","N"," "," ","f≤bjuºw¥›±ø","MS",315
+"February","PA34B","156","N","N"," "," ","Âf≤bjuøı{w}≤æ¥±ø´","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"February","PA35A","157","N","N"," "," ","f≤bjuº{w}≤¥±ø´","MS",318
+"February","PA35B","158(*)","N","N"," "," ","f≤bjuøw¥∫±ø´","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"February","PA36A","159","N","N"," "," ","f≤bj∞|≤¥±ø´","MS",321
+"February","PA36B","160","N","N"," "," ","Âf≤b∞ıw≤¥±ø","MS",322
+"February","PA37A","161(*)","N","N"," "," ","f≤bèjuºˆ≤r±ø","MS",323
+"February","PA37B","162","N","N"," "," ","f≤´bruº≤r±ø","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"February","PA38A","163","N","N"," "," ","Âf≤bjuøıw≤æ¥±ø","MS",326
+"February","PA38B","164","N","N"," "," ","f≤æbjuøw≤æ¥±ø´","MS",327
+"February","PA39A","165","N","N"," "," ","f≤bruº∫≤r±ø´","MS",328
+"February","PA39B","166","N","N"," "," ","Âf≤bjuøıw¥∫±ø´º","MS",329
+"February","PA40A","167","N","N"," "," ","Âf≤æbjuøıw≤æ¥±ø","MS",330
+"February","PA40B","168","N","N"," "," ","f≤bjuº{w}≤r±ø","MS",331
+"February","PA41A","171","N","N"," "," ","f≤bjuøw¥±ø´","MS",332
+"February","PA41B","172","N","N"," "," ","f≤bjuº≤r±ø","MS",333
+"February","PA42A","175","N","N"," "," ","f≤bjuºw¥±ø","MS",334
+"February","PA42B","176","N","N"," "," ","f≤bjuøæw¥±ø´","MS",335
+"February","PA43A","177","N","N"," "," ","f≤b∞w¥±ø´","MS",336
+"February","PA43B","178","N","N"," "," ","f≤bj∞w¥±ø","MS",337
+"February","PA44A","179","N","N"," "," ","f≤bjuºw¥±ø´","MS",338
+"February","PA44B","180","N","N"," "," ","Âf≤bj∞ıw≤æ¥±ø","MS",339
+"February","PA45A","181","N","N"," "," ","f≤bjuøw∞r±ø´","MS",340
+"February","PA45B","182","N","N"," "," ","f≤bj∞|≤r±ø´","MS",341
+"February","PA46A","185","N","N"," "," ","f≤bj∞w∞r±ø´","MS",342
+"February","PA46B","186","N","N"," "," ","Âf≤bjuøıw≤æ¥±ø´","MS",343
+"February","PA47A","189","N","N"," "," ","f≤b∞w≤ær±ø´","MS",344
+"February","PA47B","190","N","N"," "," ","f≤bjuøw≤æré±ø´","MS",345
+"February","PA48A","191","N","N"," "," ","Âf≤bjuøıw≤ær±ø´","MS",346
+"February","PA48B","192","N","N"," "," ","Âf≤bjuøı≤r±ø","MS",347
+"February","PA48C","193","N","N"," "," ","f≤bjuø≤r±ø","MS",348
+"February","PA49A","194","N","N"," "," ","f≤æbjuø≤r±ø´","MS",349
+"February","PA49B","195","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"February","PA50B","197","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",352
+"February","PA50C!","198!","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",353
+"February","PA51A","199","N","N"," "," ","f≤bjuøæw≤r±ø´","MS",354
+"February","PA51B","200","N","N"," "," ","f≤bj∞w≤{∞}r±ø´","MS",355
+"February","PA52A","201","N","N"," "," ","f≤bjuøæw≤æ{∞}r±ø","MS",356
+"February","PA52B!","202!","N","N"," "," ","f≤bruºw≤ær±ø","MS",357
+"February","PA53A","203","N","N"," "," ","f≤bjuº{w}≤ær±ø","MS",358
+"February","PA53B","204","N","N"," "," ","f≤bjuøæw≤r±ø","MS",359
+"February","PA54A","205","N","N"," "," ","f≤bjuøw∞r±ø{±ø´}","MS",360
+"February","PA54B","206","N","N"," "," ","f≤bjuøw≤r±ø","MS",361
+"February","PA55A","207","N","N"," "," ","f≤bjuº≤r±ø","MS",362
+"February","PA55B","208","N","N"," "," ","f≤bjuøw≤æ{∞}r±ø´","MS",363
+"February","PA56A","211(*)","N","N"," "," ","f≤b∞w≤r±ø","MS",364
+"February","PA56B","212","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",365
+"February","PA57A","213","N","N"," "," ","f≤bjuøw≤r±ø","MS",366
+"February","PA57B","214","N","N"," "," ","f≤bjuøw≤r±ø´","MS",367
+"February","PA58A","215","N","N"," "," ","f≤b∞w∞r±ø{±ø´}","MS",368
+"February","PA58B","216","N","N"," "," ","f≤æbjuøw∞r±ø{±ø´}","MS",369
+"February","PA59A","219","N","N"," "," ","f≤bjuw∞r±ø","MS",370
+"February","PA59B","220","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",371
+"February","PA60A","221","N","N"," "," ","Âf≤bjuøı≤{∞}r±ø´","MS",372
+"February","PA60B","222","N","N"," "," ","f≤bjuø≤r±ø´","MS",373
+"February","PA61A","223","N","N"," "," ","Âf≤bjuøıw∞Òé›±ø´","MS",374
+"February","PA61B","224","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",375
+"February","PA62A","229","N","N"," "," ","f≤b∞w≤ær±ø´","MS",376
+"February","PA62B","230","N","N"," "," ","f≤æbjuøæw≤ær±ø´","MS",377
+"February","PA63A","231","N","N"," "," ","f≤b∞w≤ær±ø´","MS",378
+"February","PA63B","232","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",379
+"February","PA64A","233","N","N"," "," ","f≤bj±øw≤´¥±ø´","MS",380
+"February","PA64B","234","N","N"," "," ","f≤bruº≤¥±ø´","MS",381
+"February","PA65A","237","N","N"," "," ","f≤br±ø›u›w≤r±ø","MS",382
+"February","PA65B","238","N","N"," "," ","f≤bjuΩºw∞r±ø{±ø´º}","MS",383
+"February","PA66A","239","N","N"," "," ","f≤b∞w≤ær±ø","MS",384
+"February","PA66B","240","N","N"," "," ","f≤bjuºw≤æ¥±ø{±ø´}","MS",385
+"February","PA67A","243","N","N"," "," ","f≤bj±øw≤¥±ø´","MS",386
+"February","PA67B","244","N","N"," "," ","f≤b∞w≤´¥±ø´","MS",387
+"February","WV1!","88!","N","N"," "," ","f≤b∞w≤r±ø","MS",388
+"February","WV2","89","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",389
+"February","WV3","91","N","N"," "," ","f≤b∞w≤¥±ø","MS",390
+"February","WV4A","92","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",391
+"February","WV4B","93","N","N"," "," ","f≤b±øw≤æ¥±ø´","MS",392
+"February","WV5","94","N","N"," "," ","f≤bjuøw≤¥±ø","MS",393
+"February","WV6A","95","N","N"," "," ","f≤b∞w¥±ø´","MS",394
+"February","WV6B","96","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",395
+"February","WV7A","97","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",396
+"February","WV7B","98","N","N"," "," ","f≤bjuø›≤¥±ø´","MS",397
+"February","WV8A","97b","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",398
+"February","WV8B","98b","N","N"," "," ","f≤bruºw≤¥±ø´","MS",399
+"February","WV9A","301","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",400
+"February","WV9B","302","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",401
+"February","WV10A","303","N","N"," "," ","Âf≤b∞w≤¥±ø›{±ø´}","MS",402
+"February","WV10B","303b","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",403
+"February","WV10C","304","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",404
+"February","WV11A","305","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",405
+"February","WV11B!","306!","N","N"," "," ","f≤bruºw≤r±ø","MS",406
+"February","WV12A","307","N","N"," "," ","f≤bruø≤¥±ø´","MS",407
+"February","WV12B","308","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",408
+"February","WV13A","309","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",409
+"February","WV13B","310","N","N"," "," ","f≤bruøw≤æ¥±ø´","MS",410
+"February","WV14A","311","N","N"," "," ","f≤bjuøæw≤æ¥±ø´","MS",411
+"February","WV14B","312","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",412
+"February","WV15A","313","N","N"," "," ","f≤bjuøw¥±ø´","MS",413
+"February","WV15B","314","N","N"," "," ","Âf≤bjuøıw≤¥±ø´","MS",414
+"February","WV16A","315","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",415
+"February","WV16B","316","N","N"," "," ","f≤bruøw≤æ¥±ø´","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"February","WV17B","317b","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",418
+"February","WV17C","318","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",419
+"February","WV18A","319","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",420
+"February","WV18B","320","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",421
+"February","WV19A","321","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",422
+"February","WV19B","322","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",423
+"February","WV20A","323","N","N"," "," ","f≤b∞w≤r±ø","MS",424
+"February","WV20B","324","N","N"," "," ","f≤bjuøw≤r±ø´","MS",425
+"February","WV21A","325","N","N"," "," ","f≤b∞w≤r±ø´","MS",426
+"February","WV21B","326","N","N"," "," ","f≤bjuøw≤r±ø´","MS",427
+"February","WV22A","327","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",428
+"February","WV22B","328","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",429
+"February","WV23A","331","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",430
+"February","WV23B","332","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",431
+"February","WV24A","335","N","N"," "," ","f≤b∞w≤¥±ø´","MS",432
+"February","WV24B","336","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",433
+"February","WV25A","337","N","N"," "," ","f≤bj∞w≤´æ¥±ø´","MS",434
+"February","WV25B","338","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",435
+"February","WV26A","339","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",436
+"February","WV26B","340","N","N"," "," ","f≤bruøæw{∞}¥±ø´","MS",437
+"February","WV27A","341","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",438
+"February","WV27B","342","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",439
+"February","WV28A","343","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",440
+"February","WV28B","344","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",441
+"February","WV29A","345","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",442
+"February","WV29B","346","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",443
+"February","WV30A","347","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",444
+"February","WV30B","348","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",445
+"February","WV31A","349","N","N"," "," ","f≤b∞w∞¥›±ø´","MS",446
+"February","WV31B","350","N","N"," "," ","f≤b∞w≤{r}±ø","MS",447
+"February","WV32A","353","N","N"," "," ","f≤b∞w∞r±ø´","MS",448
+"February","WV32B","354","N","N"," "," ","f≤b∞w≤ær±ø","MS",449
+"February","WV33A","355","N","N"," "," ","f≤b∞w≤r±ø´","MS",450
+"February","WV33B","356","N","N"," "," ","f≤bjuøw≤´r±ø","MS",451
+"February","WV34A","359","N","N"," "," ","f≤´∫bj∞w≤æ¥±ø´","MS",452
+"February","WV34B","360","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",453
+"February","WV35A","361","N","N"," "," ","f≤b∞w{∞}¥±ø´","MS",454
+"February","WV35B","362","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",455
+"February","WV36A","363","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",456
+"February","WV36B","364","N","N"," "," ","Âf≤bjuøıw≤æ¥±ø´","MS",457
+"February","WV37A","365","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",458
+"February","WV37B!","366!","N","N"," "," ","f≤br∞w≤¥±ø´","MS",459
+"February","WV38A","367","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",460
+"February","WV38B","368","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",461
+"February","WV39A","369","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",462
+"February","WV39B","370","N","N"," "," ","f≤bj∞w∞¥±ø´","MS",463
+"February","WV39C!","371!","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",464
+"February","WV40A","373","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",465
+"February","WV40B","374","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",466
+"February","WV41A","375","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",467
+"February","WV41B","376","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",468
+"February","WV42A","377","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",469
+"February","WV42B","378","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",470
+"February","WV43A","381","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",471
+"February","WV43B","382","N","N"," "," ","f≤b∞w≤¥±ø´","MS",472
+"February","WV44A","383","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",473
+"February","WV44B","384","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",474
+"February","WV45A","385","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",475
+"February","WV45B","386","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",476
+"February","WV46A","387","N","N"," "," ","f≤bjuøw∞ré±ø´","MS",477
+"February","WV46B","388","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",478
+"February","WV47A","389","N","N"," "," ","f≤bjuøw{∞}¥±ø´","MS",479
+"February","WV47B","390","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",480
+"February","WV48A","391","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"February","WV48D","392b","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",484
+"February","WV49A","393","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",485
+"February","WV49B","394","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",486
+"February","WV50A","395","N","N"," "," ","f≤b∞w≤ær±ø","MS",487
+"February","WV50B","396","N","N"," "," ","f≤bjuøw≤¥±ø","MS",488
+"February","WV51A","261","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",489
+"February","WV51B","262","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",490
+"February","WV52A","258","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",491
+"February","WV52B","259","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",492
+"February","WV52C!","260!","N","N"," "," ","f≤bjuø{w}≤æ¥±ø´","MS",493
+"February","WV53A","257","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"February","WV53C!","257c!","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",496
+"February","WV54A","255","N","N"," "," ","f≤æbjuø≤{r}±ø´","MS",497
+"February","WV54B","256","N","N"," "," ","f≤bj∞w≤ær±ø´","MS",498
+"February","DE1A","11","N","N"," "," ","f≤bjuøw≤æ¥±ø›{±ø´}","MS",499
+"February","DE1B","12","N","N"," "," ","f≤bruøw¥∫±ø´","MS",500
+"February","DE1B","12","N","N","mostly"," ","f≤bjuøw¥∫±ø´","MS",500
+"February","DE1C!","13!","N","N"," "," ","f≤bruøw≤æ{∞}¥±ø›{±ø´}","MS",501
+"February","DE2A","15(*)","N","N"," "," ","f≤bjuøw≤¥±ø","MS",502
+"February","DE2B","16","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"February","DE3A","18","N","N"," "," ","f≤b∞w≤æ¥±ø","MS",505
+"February","DE3B","19","N","N"," "," ","f≤bjuøw¥±ø","MS",506
+"February","DE3C!","17!","N","N"," "," ","f≤bjuøw≤¥±ø","MS",507
+"February","DE4","20","N","N"," "," ","f≤bjuøˆ≤{r}±ø","MS",508
+"February","DE5A","21","N","N"," "," ","f≤b±ø´w¥Òé›±ø´","MS",509
+"February","DE5B","22","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",510
+"February","DE6A","23","N","N"," "," ","f≤b∞w¥±ø","MS",511
+"February","DE6B","24","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",512
+"February","MD1A","27","N","N"," "," ","f≤bjuøw¥±ø´","MS",513
+"February","MD1B","28","N","N"," "," ","f≤´bjuøw≤æ¥±ø","MS",514
+"February","MD2A","31a","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",515
+"February","MD2B","32","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",516
+"February","MD3A","33","N","N"," "," ","f≤b∞w≤æ¥±ø","MS",517
+"February","MD3B","34","N","N"," "," ","f≤b∞w¥±ø","MS",518
+"February","MD4A","35b","N","N"," "," ","f≤bj∞w≤æ¥±ø´","MS",519
+"February","MD4B","35","N","N"," "," ","f≤b∞w≤æ¥±ø","MS",520
+"February","MD4C","36","N","N"," "," ","f≤b±ø´w≤´ær±ø","MS",521
+"February","MD5A","37","N","N"," "," ","f≤b∞w∞›¥±ø","MS",522
+"February","MD5B","38","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",523
+"February","MD6A","39(*)","N","N"," "," ","f≤bw¥›Òé›±ø","MS",524
+"February","MD6B","40","N","N"," "," ","f≤bjuøw¥±ø","MS",525
+"February","MD7A","41","N","N"," "," ","f≤b∞w¥∫±ø","MS",526
+"February","MD7B","41b","N","N"," "," ","f≤bjuøw≤æ¥±ø","MS",527
+"February","MD7C!","42!","N","N"," "," ","f≤bjuøw≤¥±ø","MS",528
+"February","MD8A","43","N","N"," "," ","f≤b{∞}w¥±ø","MS",529
+"February","MD8B","44","N","N"," "," ","f≤b∞w¥±ø","MS",530
+"February","MD9N","N46","N","N"," "," ","f≤bw≤æ{r}±ø","MS",531
+"February","MD9A","45","N","N"," "," ","f≤bjuøw¥±ø","MS",532
+"February","MD9B","46","N","N"," "," ","f≤b∞w≤æ¥±ø","MS",533
+"February","MD10A","49","N","N"," "," ","f≤b∞w∞r±ø","MS",534
+"February","MD10B","50","N","N"," "," ","f≤bjuøw≤r±ø","MS",535
+"February","MD11","51","N","N"," "," ","f≤b∞{w}≤{r}±ø","MS",536
+"February","MD12A","52","N","N"," "," ","f≤bjuøw≤r±ø","MS",537
+"February","MD12B","53","N","N"," "," ","f≤bjuøw≤ær±ø","MS",538
+"February","MD13A","54(*)","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",539
+"February","MD13B","55","N","N"," "," ","f≤b±ø´w≤›æ{r}±ø","MS",540
+"February","MD13C","56","N","N"," "," ","f≤bruøæw≤¥±ø","MS",541
+"February","MD13D!","57!","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",542
+"February","MD13E!","58!","N","N"," "," ","f≤b∞w≤Ω{∞}r±ø","MS",543
+"February","MD13F!","59!","N","N"," "," ","f≤bruø≤{∞}{r}±ø","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"February","MD14","61(*)","N","N"," "," ","f≤bjuø≤{r}±ø","MS",546
+"February","MD15A","62","N","N"," "," ","f≤b∞w∞r±ø›Ω","MS",547
+"February","MD15B","63","N","N"," "," ","f≤bjuøw≤r±ø","MS",548
+"February","MD16","64","N","N"," "," ","f≤bjuøw¥±ø","MS",549
+"February","MD17A","65","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",550
+"February","MD17B","66","N","N"," "," ","f≤b∞w≤r±ø›Ω","MS",551
+"February","MD18A","67","N","N"," "," ","f≤´b±øw≤æ{r}±ø","MS",552
+"February","MD18B","68","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",553
+"February","MD19A","69","N","N"," "," ","f≤bruøw≤r±ø","MS",554
+"February","MD19B","70","N","N"," "," ","f≤b∞w≤æ{r}±ø›Ω","MS",555
+"February","MD20A","71","N","N"," "," ","f≤b±ø´w∞r±ø","MS",556
+"February","MD20B","72","N","N"," "," ","f≤b∞w≤{r}±ø","MS",557
+"February","MD20C!","73!","N","N"," "," ","f≤bjuøw≤r±ø›Ω","MS",558
+"February","MD21A","75","N","N"," "," ","f≤b∞w≤{r}±ø›Ω","MS",559
+"February","MD21B","76","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"February","MD22M","N78","N","N"," "," ","f≤´b∞w≤´{r}±ø›Ω","MS",562
+"February","MD22A","77","N","N"," "," ","f≤br±øw∞¥±ø","MS",563
+"February","MD22B","78","N","N"," "," ","f≤´b∞w≤{r}±øΩ","MS",564
+"February","MD22C!","79!","N","N"," "," ","f≤br∞w≤{r}±ø","MS",565
+"February","MD23A","80b","N","N"," "," ","f≤´b∞w≤´{r}±ø›Ω","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"February","MD23C","81","N","N"," "," ","f≤b∞w≤{r}±ø","MS",568
+"February","MD24","82","N","N"," "," ","f≤´b∞w≤r±ø","MS",569
+"February","MD25","84","N","N"," "," ","f≤bjuøw≤r±ø","MS",570
+"February","MD26A","83","N","N"," "," ","f≤bjuøw∞¥±ø","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"February","MD27A","85","N","N"," "," ","f≤b∞w≤æ¥±ø´","MS",573
+"February","MD27B","86","N","N"," "," ","f≤bjuøæw≤¥±ø´","MS",574
+"February","DC1A","99","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",575
+"February","DC1B!","100!","N","N"," "," ","f≤bjuøw≤r±ø›","MS",576
+"February","VA1!","101!","N","N"," "," ","f≤b{r}{uøΩº}w≤{∞}r±ø","MS",577
+"February","VA2A","103","N","N"," "," ","f≤b{r}{uø}w≤æ{r}±ø","MS",578
+"February","VA2B","104","N","N"," "," ","f≤b{∞}w≤æ{r}±øΩ","MS",579
+"February","VA3A","105(*)","N","N"," "," ","f≤bjuø{w}≤æ¥|±ø´","MS",580
+"February","VA3B","106","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"February","VA4N","N109","N","N"," "," ","f≤b∞w≤´æ{r}±øΩ","MS",583
+"February","VA5A","107","N","N"," "," ","f≤b∞›w≤r±ø","MS",584
+"February","VA5B","108","N","N"," "," ","f≤b{j}{uø}{w}≤{r}±ø","MS",585
+"February","VA6A","113","N","N"," "," ","f≤b∞w≤{r}±ø","MS",586
+"February","VA6B","114","N","N"," "," ","f≤b{±ø}w¿º{r}±ø","MS",587
+"February","VA7A","121","N","N"," "," ","f≤b{∞}{w}≤æ{r}±øΩ","MS",588
+"February","VA7B","122","N","N"," "," ","f≤b{j}{uø}w≤æ{r}±øΩ","MS",589
+"February","VA8A","123","N","N"," "," ","f≤b∞w≤æ{r}{±øΩ}","MS",590
+"February","VA8B","124","N","N"," "," ","f≤b{i}uøw≤ær±øΩ","MS",591
+"February","VA8C!","125!","N","N"," "," ","f≤b∞w≤{∞}r±ø","MS",592
+"February","VA9A","117","N","N"," "," ","f≤b∞w≤{r}±øΩ","MS",593
+"February","VA9B!","118!","N","N"," "," ","f≤b{∞}w·ær±øΩ","MS",594
+"February","VA10A","127","N","N"," "," ","f≤b{∞}{w}≤æ{r}±øΩ","MS",595
+"February","VA10B","128","N","N"," "," ","f≤bjuø∫w≤æ{r}±ø","MS",596
+"February","VA11A","129","N","N"," "," ","f≤b±øw≤æ{r}±øΩ","MS",597
+"February","VA11B","130","N","N"," "," ","f≤bw≤æ{r}±øΩ","MS",598
+"February","VA12N","N131","N","N"," "," ","Ê≤b{‚ó}e∫","MS",599
+"February","VA12A","131","N","N"," "," ","f≤b{∞}w≤´æ{r}±ø","MS",600
+"February","VA12B!","132!","N","N"," "," ","f≤bjuø{w}≤{r}±øΩ","MS",601
+"February","VA13A","133","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",602
+"February","VA13B","134","N","N"," "," ","f≤∫bjuø{w}≤{r}±øΩ","MS",603
+"February","VA14A","135","N","N"," "," ","f≤b±ø´w≤{r}±ø","MS",604
+"February","VA14B","136","N","N"," "," ","f≤b∞w≤æ{r}±øΩ","MS",605
+"February","VA14C","137","N","N"," "," ","f≤b{∞}w≤r±ø","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"February","VA15A","139","N","N"," "," ","f≤bw≤æ{r}±ø","MS",608
+"February","VA15B","140","N","N"," "," ","f≤bw≤æ{r}±øΩ","MS",609
+"February","VA16A","141","N","N"," "," ","f≤bjuø{w}≤æ{r}±øΩ","MS",610
+"February","VA16B","142","N","N"," "," ","f≤b∞w≤ær±øΩ","MS",611
+"Negroes","VA16B","142","N","Y"," ","INA","nigr∞z","MS",611
+"February","VA16B","142","N","Y","""Negroes¢","HRD","f±b∞w≤ær±øΩ","MS",611
+"February","VA17A","143","N","N"," "," ","f≤bjuøw≤´æ{r}±øΩ","MS",612
+"February","VA17B","144","N","N"," "," ","f≤bjuøw≥r±øΩ","MS",613
+"February","VA18","145","N","N"," "," ","f≤bjuøw≤ær±øΩ","MS",614
+"February","VA19A","146","N","N"," "," ","f≤b∞w≤´{∞}{r}±ø","MS",615
+"February","VA19B","147","N","N"," "," ","f≤b±øv¿{∞é}{r}±øΩ","MS",616
+"February","VA19C!","148!","N","N"," "," ","f≤b{j}{uøΩ}w≤æ{∞}r±øΩ","MS",617
+"February","VA20A","149","N","N"," "," ","f≤b±ø{w}{≤æ}{r}{±øΩ}","MS",618
+"February","VA20B","150(*)","N","N"," "," ","f≤b{∞}{w}{≤æ}{r}{±ø}","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"February","VA21N","N153","N","N"," "," ","f≤b±øw≤´ær±ø","MS",621
+"February","VA21A","153","N","N"," "," ","f≤b∞w≤æ{r}±øΩ","MS",622
+"February","VA21B","154","N","N"," "," ","f≤b∞w≤{r}±øΩ","MS",623
+"February","VA22","155","N","N"," "," ","f≤´b∞w≤æ{r}±ø","MS",624
+"February","VA23A","156","N","N"," "," ","f≤b∞w≤ær±øΩ","MS",625
+"February","VA23B","157","N","N"," "," ","f≤bjuøw≤ær±øΩ","MS",626
+"February","VA24","159","N","N"," "," ","f≤b{r}{∞}w≤ær±ø","MS",627
+"February","VA25","160(*)","N","N"," "," ","f≤bjuøw≤æÒé›±ø","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"February","VA26B","161","N","N"," "," ","f≤bjuø{w}≤æ{r}±øΩ","MS",630
+"February","VA26C","162","N","N"," "," ","f≤bjuøw≤æ{r}±øΩ","MS",631
+"February","VA27","163(*)","N","N"," "," ","f≤b∞w≤æ{r}±øΩ","MS",632
+"February","VA28A","164","N","N"," "," ","f≤b∞w≤æ{r}{±øΩ}","MS",633
+"February","VA28B","165","N","N"," "," ","f≤b{j}uøw≤æ{r}±øΩ","MS",634
+"February","VA29","166","N","N"," "," ","f≤b∞w≤r±øΩ","MS",635
+"February","VA30A","167","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"February","VA30C!","168!","N","N"," "," ","f≤b{r}{uøΩæ}w≤æ{∞}r±øΩ","MS",638
+"February","VA30C!","168!","N","N"," "," ","f≤bjuøw≤æ{∞}r±øΩ","MS",638
+"February","VA30D!","169!","N","N"," "," ","f≤b{r}{uø}≤ær±øΩ","MS",639
+"February","VA30E!","170!","N","N"," "," ","f≤bjuøw≤Ωær±ø","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"February","VA31B","172","N","N"," "," ","f≤b{j}{uø}w≤{r}±øΩ","MS",642
+"February","VA31C"," ","N","N"," "," ","f≤b{∞}w≤æ{r}±øΩ","MS",643
+"February","VA32!","175!","N","N"," "," ","f≤b∞w≤ær±øΩ","MS",644
+"February","VA33A","173","N","N"," "," ","f≤b{∞}w≤{r}±øΩ","MS",645
+"February","VA33B","174","N","N"," "," ","f≤b±øw≤æ{r}±øΩ","MS",646
+"February","VA34A","177(*)","N","N"," "," ","f≤b±øw≤ær±øΩ","MS",647
+"February","VA34B","178","N","N"," "," ","f≤{∞}bw≤{r}±øΩ","MS",648
+"February","VA35A","179","N","N"," "," ","f≤b±ø{‚ó}≤´æ{r}±øΩ","MS",649
+"February","VA35B","180","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",650
+"February","VA36A","181","N","N"," "," ","f≤b±øw≤´ær±ø","MS",651
+"February","VA36B","182","N","N"," "," ","f≤bjuø{w}≤´æ{r}±øΩ","MS",652
+"February","VA37","183","N","N"," "," ","Âf≤b∞ıwe›{±ø}{r}±øΩ","MS",653
+"February","VA38","185","N","N"," "," ","f≤bjuøw≤r±ø","MS",654
+"February","VA38","185","N","Y"," ","OLD","f≤b∞ˆ≤r±ø","MS",654
+"February","VA39!","186!","N","N"," "," ","f≤b{r}{πøΩæ}w≤æ{r}±øΩ","MS",655
+"February","VA40A","187","N","N"," "," ","f≤b∞w≤ær±ø","MS",656
+"February","VA40B","188","N","N"," "," ","f≤bjuøº{‚ó}{∞}¥r±ø","MS",657
+"February","VA41A","191","N","N"," "," ","f≤b±øw≤{r}±ø","MS",658
+"February","VA41B","192","N","N"," "," ","f≤b∞w{¿}{r}±øΩ","MS",659
+"February","VA42A","193(*)(**)","N","N"," "," ","f≤b±øw≤´{r}±øΩ","MS",660
+"February","VA42B","194","N","N"," "," ","f≤b∞w≤æ{r}±øΩ","MS",661
+"February","VA43N","N195","N","N"," "," ","f≤b{w}≤æ{r}±øΩ","MS",662
+"February","VA43A","195","N","N"," "," ","f≤bw≤´æ{r}±ø","MS",663
+"February","VA43B","196","N","N"," "," ","f≤´∫b±ø{w}≤´æ{r}±øΩ","MS",664
+"February","VA44A","199","N","N"," "," ","f≤b±øw≤ær±ø","MS",665
+"February","VA44B","200","N","N"," "," ","f≤b±ø´w≤æ{r}±øΩ","MS",666
+"February","VA45A","201","N","N"," "," ","f≤bw∞r±øΩ","MS",667
+"February","VA45B","202","N","N"," "," ","f≤b{r}{≤}{r}±ø","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"February","VA46A","207","N","N"," "," ","f≤biweær±ø","MS",670
+"February","VA46B!","208!","N","N"," "," ","f≤b{iΩæ}uø{w}{≤}r±ø","MS",671
+"February","VA47","211","N","N"," "," ","f≤b∞w≤´{r}±øΩ","MS",672
+"February","VA48A","213(*)","N","N"," "," ","f≤b±øw{≤}{r}±ø","MS",673
+"February","VA48B","214","N","N"," "," ","f≤bjuø{w}≤´{r}±ø","MS",674
+"February","VA49A","215","N","N"," "," ","f≤b{±ø}{w}≤{r}±ø","MS",675
+"February","VA49B","216","N","N"," "," ","f≤b∞w≤{r}±ø","MS",676
+"February","VA50A","217","N","N"," "," ","f≤b±øw≤{r}±øΩ","MS",677
+"February","VA50B","218","N","N"," "," ","f≤∫b{∞}w≤æ{r}±øΩ","MS",678
+"February","VA51A","219","N","N"," "," ","f≤bw≤{r}±øΩ","MS",679
+"February","VA51B","220(*)","N","N"," "," ","f≤{∞}b∞w≤æ{r}±øΩ","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"February","VA52A","224","N","N"," "," ","f≤b{j}uø≤¥±ø´","MS",682
+"February","VA52B","225","N","N"," "," ","f≤bjuøw≤{¥}±ø´","MS",683
+"February","VA52C!","226!","N","N"," "," ","f≤bjuø{w}≤æ¥±ø´","MS",684
+"February","VA53A","227","N","N"," "," ","f≤bjuøˆ≤¥±ø´","MS",685
+"February","VA53B","228","N","N"," "," ","f≤b±ø´w≤æ¥±ø´","MS",686
+"February","VA54A","229","N","N"," "," ","f≤´bjuøw¥±ø´","MS",687
+"February","VA54B","230","N","N"," "," ","f≤b±ø´{w}{≤æ}{r}{±ø´}","MS",688
+"February","VA55A","233(*)","N","N"," "," ","f≤b∞w¥∫±ø","MS",689
+"February","VA55B","234(*)","N","N"," "," ","f≤bjuø{w}≤¥±ø´","MS",690
+"February","VA56A","237","N","N"," "," ","f≤b{r}{uø}w≤¥±ø´","MS",691
+"February","VA56B","238","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",692
+"February","VA57A","239","N","N"," "," ","f≤bjuøw≤æ¥±ø´","MS",693
+"February","VA57B","240","N","N"," "," ","f≤bw≤´æ¥±ø´","MS",694
+"February","VA58","241(*)","N","N"," "," ","f≤b{∞}w≤æ{r}±øΩ","MS",695
+"February","VA59N","N241","N","N"," "," ","f≤b{∞}we{r}{±ø}","MS",696
+"February","VA59A","242","N","N"," "," ","f≤b{∞}w≤{r}±ø","MS",697
+"February","VA59B!","243!","N","N"," "," ","f≤b{r}{uø}w≤æ{r}±ø","MS",698
+"February","VA60","244(*)","N","N"," "," ","f≤bjuøw≤¥±ø´","MS",699
+"February","VA61A","245(*)","N","N"," "," ","f≤bjuø{w}≤{r}±ø","MS",700
+"February","VA61B!","246!","N","N"," "," ","f≤b{∞}w≤{r}±ø","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"February","VA62A","247(*)","N","N"," "," ","f≤b∞w≤{r}±øΩ","MS",703
+"February","VA62B","248","N","N"," "," ","f≤b∞{r}≤{r}±ø","MS",704
+"February","VA63A","251","N","N"," "," ","f≤b∞w≤›Ωæ¥±ø›{±ø´}","MS",705
+"February","VA63B","252","N","N"," "," ","f≤æb∞w≤æ¥±ø›{±ø´}","MS",706
+"February","VA64A","255","N","N"," "," ","f≤b∞w{∞}{¥}{±ø}","MS",707
+"February","VA64B","256","N","N"," "," ","f≤b{r}{∞´}{≤}{r}{±øΩ}","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"February","VA65B","258","N","N"," "," ","f≤bj{uøΩ}{w}{∞}{r}{±ø}","MS",710
+"February","VA65C!","259!","N","N"," "," ","f≤bjuøº{w}≤{∞}{r}±ø","MS",711
+"February","VA66A","261","N","N"," "," ","f≤∫b∞w≤{∞}{r}±øΩ","MS",712
+"February","VA66B","262","N","N"," "," ","f≤bjuø{w}≤{∞}{r}±øΩ","MS",713
+"February","VA67A","267","N","N"," "," ","f≤bjuø{w}≤{∞}{¥}±ø","MS",714
+"February","VA67A","267","N","Y","natural","OLD","f≤b∞w≤{∞}{¥}±ø","MS",714
+"February","VA67B","268","N","N"," "," ","f≤b{∞}w≤¥±ø´","MS",715
+"February","VA68A","269","N","N"," "," ","f≤bjuø{w}≤{∞}{r}±øΩ","MS",716
+"February","VA68B","270","N","N"," "," ","f≤b∞w≤{r}±ø","MS",717
+"February","VA69A","273","N","N"," "," ","f≤b∞w≤{r}±ø","MS",718
+"February","VA69B","274","N","N"," "," ","f≤b{∞}w≤{r}±ø","MS",719
+"February","VA70A","275","N","N"," "," ","f≤bjuøΩ{w}≤r±ø","MS",720
+"February","VA70B","276","N","N"," "," ","f≤b{r}{∞}w≤¥±ø´","MS",721
+"February","VA71A","285","N","N"," "," ","f≤b{∞}w≤{¥}±ø´","MS",722
+"February","VA71B","286","N","N"," "," ","f≤b{j}uøw{≤}{r}±ø´","MS",723
+"February","VA72A","287","N","N"," "," ","f≤b∞w{∞}¥±ø›{±ø´}","MS",724
+"February","VA72B","288","N","N"," "," ","f≤b∞w{∞}¥±ø›{±ø´}","MS",725
+"February","VA73","291","N","N"," "," ","f≤b{∞}w≤¥±ø´","MS",726
+"February","VA74A","293","N","N"," "," ","f≤b{∞}{w}{≤}{¥}±ø´","MS",727
+"February","VA74B!","294!","N","N"," "," ","f≤b∞w≤{r}±ø","MS",728
+"February","VA75A","297","N","N"," "," ","f≤b∞w≤æ{¥}±ø›{±ø´}","MS",729
+"February","VA75B","298","N","N"," "," ","f≤bjuøºw≤æ{¥}±ø›{±ø´}","MS",730
+"February","NC1","303","N","N"," "," ","f≤b∞ˆ≤ær±ø","MS",731
+"February","NC2A","301","N","N"," "," ","f≤bw¥∫±ø","MS",732
+"February","NC2B","304","N","N"," "," ","f≤b{ˆ}≤{r}±ø","MS",733
+"February","NC3A","305","N","N"," "," ","f≤b∞ˆ≤r±ø","MS",734
+"February","NC3B","306","N","N"," "," ","f≤bjuøˆ≤æ¥±ø","MS",735
+"February","NC4A","307","N","N"," "," ","f≤b∞w≤´{±ø}{r}±øΩ","MS",736
+"February","NC4B","308","N","N"," "," ","f≤b{∞}{ˆ}≤æ{r}±ø","MS",737
+"February","NC5A","309","N","N"," "," ","f≤bˆ≤{r}±ø","MS",738
+"February","NC5B","310","N","N"," "," ","f≤bjuø{w}≤æ{r}±ø","MS",739
+"February","NC6!","311!","N","N"," "," ","f≤b{j}uøw≤æ{r}±ø","MS",740
+"February","NC7A","315(*)","N","N"," "," ","f≤b{i}uøw≤´r±ø","MS",741
+"February","NC7B","316","N","N"," "," ","f≤b∞{w}≤{r}±ø","MS",742
+"February","NC8N","N317","N","N"," "," ","f≤b∞ˆ≤{r}±ø","MS",743
+"February","NC8A","317","N","N"," "," ","f≤b∞w≤{r}±ø","MS",744
+"February","NC8B","318(*)","N","N"," "," ","f≤b∞w≤{r}±ø","MS",745
+"February","NC9A","319","N","N"," "," ","f≤b∞{w}≤{r}±ø","MS",746
+"February","NC9B","320","N","N"," "," ","f≤b{±ø}ˆ≤{r}±ø","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"February","NC10B","323","N","N"," "," ","f≤b{j}{uø}ˆ≤æÒé›±ø›{±ø´}","MS",749
+"February","NC10C","322","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",750
+"February","NC11A","325","N","N"," "," ","Âf≤b∞ıˆ∞ré±ø","MS",751
+"February","NC11B","326","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",752
+"February","NC12A","327(*)","N","N"," "," ","f≤{∞}b∞w≤´æ{r}±ø","MS",753
+"February","NC12B","328","N","N"," "," ","f≤b{j}{uø}w≤{r}±ø","MS",754
+"February","NC13A","329","N","N"," "," ","f≤b∞w≤´æ{r}±ø","MS",755
+"February","NC13B","330(*)","N","N"," "," ","f≤b∞weΩ{±ø}r±ø","MS",756
+"February","NC14N","N331","N","N"," "," ","f≤b∞ˆ≤{r}±ø","MS",757
+"February","NC14A","331","N","N"," "," ","f≤bjuøˆ≤{Òé}±ø","MS",758
+"February","NC14B","332","N","N"," "," ","f≤bjuøw≤ær±ø","MS",759
+"February","NC14C!","333!","N","N"," "," ","f≤bjuøˆà≤æ{r}±ø","MS",760
+"February","NC15A","335(*)","N","N"," "," ","f≤b∞w≤{r}±øΩ","MS",761
+"February","NC15B","336","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"February","NC16A","339(*)","N","N"," "," ","f≤b∞w·{r}±ø","MS",764
+"February","NC16B","340","N","N"," "," ","f≤bjuøº{w}{≤æ}{r}±øΩ","MS",765
+"February","NC17A","337","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",766
+"February","NC17B","338","N","N"," "," ","f≤{∞}b±ø{w}≤{r}±ø","MS",767
+"February","NC18A","341","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",768
+"February","NC18B","342","N","N"," "," ","f≤bjuø{w}≤Ω{r}±ø","MS",769
+"February","NC19A","343","N","N"," "," ","f≤b∞w·ré±ø","MS",770
+"February","NC19B","344","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",771
+"February","NC20A","345","N","N"," "," ","f≤bjuøw≤r±ø","MS",772
+"February","NC20B","346a","N","N"," "," ","f≤b{∞}ˆ∞{r}±ø","MS",773
+"February","NC20C","346b","N","N"," "," ","f≤b{j}uø{w}≤{r}±ø","MS",774
+"February","NC21A","347","N","N"," "," ","f≤b{∞}we{±ø}r±ø","MS",775
+"February","NC21B","348","N","N"," "," ","f≤´±øbjuø{w}≤{r}±ø","MS",776
+"February","NC22A","349","N","N"," "," ","f≤b∞w·´ær±ø","MS",777
+"February","NC22B","349b","N","N"," "," ","f≤bjuø{w}≤æ{r}±ø","MS",778
+"February","NC23A","351a","N","N"," "," ","f≤æb∞w≤r±ø","MS",779
+"February","NC23B","351b(*)","N","N"," "," ","f≤bjuøw≤Ωr±ø","MS",780
+"February","NC23C!","351c!","N","N"," "," ","f≤b{iΩæ}uø{w}≤{r}±ø","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"February","NC24N","N352","N","N"," "," ","f≤b∞w≤{r}±ø","MS",783
+"February","NC24A","352a","N","N"," "," ","f≤bjuøw≤ær±ø","MS",784
+"February","NC24B","352b","N","N"," "," ","f≤b∞w≤{r}±ø","MS",785
+"February","NC25N","N353","N","N"," "," ","f≤b±ø‚≤´{r}±ø","MS",786
+"February","NC25A","353","N","N"," "," ","f≤b∞w≤r±ø","MS",787
+"February","NC25B","354","N","N"," "," ","f≤br∞w·ær±ø","MS",788
+"February","NC25B","354","N","N"," "," ","f≤b±ø´w·ær±ø","MS",788
+"February","NC26A","355a","N","N"," "," ","f≤b∞w≤´r±ø","MS",789
+"February","NC26B","355b","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",790
+"February","NC26C!","356!","N","N"," "," ","f≤bjuø{w}≤æ{∞}{r}±ø","MS",791
+"February","NC27A","357","N","N"," "," ","f≤b{j}uøw≤r±ø","MS",792
+"February","NC27B","258","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",793
+"February","NC28A","361","N","N"," "," ","f≤b∞w≤ær±ø","MS",794
+"February","NC28B","361b","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",795
+"February","NC28C","362","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",796
+"February","NC29A","363(*)","N","N"," "," ","f≤bjuø{‚ó}≤´r±ø","MS",797
+"February","NC29B","364","N","N"," "," ","f≤bjuø{w}≤{r}±ø","MS",798
+"February","NC30A","365","N","N"," "," ","f≤´b∞weΩ{±ø}{r}±øΩ","MS",799
+"February","NC30B","366","N","N"," "," ","f≤bjuø{w}≤´æ{r}±ø","MS",800
+"February","NC31A","367","N","N"," "," ","f≤b±øw≤´æ{r}±ø","MS",801
+"February","NC31B","368","N","N"," "," ","f≤bjuø{w}≤æ{r}±øΩ","MS",802
+"February","NC32A","369","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",803
+"February","NC32B!","370!","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",804
+"February","NC33A","373","N","N"," "," ","f≤{∞}bjuøw∞ºré±ø","MS",805
+"February","NC33B","374","N","N"," "," ","f≤b∞w≤{∞}{r}±ø","MS",806
+"February","NC34A","375","N","N"," "," ","f≤b∞w·›æré±ø","MS",807
+"February","NC34B","376","N","N"," "," ","f≤bjuø{w}≤{r}±ø","MS",808
+"February","NC35A","377","N","N"," "," ","f≤b±ø{πø}w·´r±ø","MS",809
+"February","NC35A","377","N","N"," "," ","f≤b∞w·´r±ø","MS",809
+"February","NC35B","378","N","N"," "," ","f≤bjuøºw·æ{r}±ø","MS",810
+"February","NC36N","N381","N","N"," "," ","f≤b∞w≤´{r}±ø","MS",811
+"February","NC36A","381","N","N"," "," ","fe∫{±øΩ}bjuøw≤ær±ø","MS",812
+"February","NC36B","382","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",813
+"February","NC37A","383","N","N"," "," ","f≤b±øw≤´æ{r}±øΩ","MS",814
+"February","NC37B","384","N","N"," "," ","f≤b{±ø}w≤æ{r}±øΩ","MS",815
+"February","NC38N","N385","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"February","NC38B","386","N","N"," "," ","f≤{∞}b∞w≤æ{r}±ø","MS",818
+"February","NC39A","389","N","N"," "," ","f≤b{∞}w≤´æ{r}±øΩ","MS",819
+"February","NC39B!","390!","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",820
+"February","NC40A","391","N","N"," "," ","f≤bw≤´r±ø","MS",821
+"February","NC40B","392","N","N"," "," ","f≤b∞w≤æ{∞}{r}±ø","MS",822
+"February","NC41!","393!","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",823
+"February","NC42A","403","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",824
+"February","NC42B","404(*)","N","N"," "," ","f≤b±ø´w≤´æ{r}±ø","MS",825
+"February","NC43A","397","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",826
+"February","NC43B","398","N","N"," "," ","f≤b±øw≤´æ{r}±ø","MS",827
+"February","NC44","410(*)","N","N"," "," ","f≤b∞w≤ær±ø","MS",828
+"February","NC45A","409(*)","N","N"," "," ","f≤b∞w∞{r}±ø","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"February","NC46A","411","N","N"," "," ","f≤bjuø≤´æ{r}±ø","MS",831
+"February","NC46B","412","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",832
+"February","NC46C!","412b!","N","N"," "," ","f≤{∞}bjuøw≤æ{∞}r±ø","MS",833
+"February","NC47","413","N","N"," "," ","f≤b∞w≤r±ø","MS",834
+"February","NC48","418","N","N"," "," ","f≤bjuøw≤ær±ø","MS",835
+"February","NC49","421","N","N"," "," ","f≤b∞w¥{r}±ø","MS",836
+"February","NC50A","422","N","N"," "," ","f≤bjuøw≤ær±ø","MS",837
+"February","NC50B!","423!","N","N"," "," ","f≤´bjuøw≤´{r}±ø","MS",838
+"February","NC51A","427","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",839
+"February","NC51B","428","N","N"," "," ","f≤b{∞}w≤æ{r}±ø","MS",840
+"February","NC51B","428","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",840
+"February","NC52N","N429","N","N"," "," ","f≤b∞w≤r±ø","MS",841
+"February","NC52A","429","N","N"," "," ","f≤b{r}uø{w}≤›ær±ø´","MS",842
+"February","NC52B","430","N","N"," "," ","f≤´bjuø{w}≤æ{r}±ø","MS",843
+"February","NC53A","431","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",844
+"February","NC53B","432","N","N"," "," ","f≤bjuøw≤ær±ø","MS",845
+"February","NC54A","433","N","N"," "," ","f≤b∞w≤{r}±ø","MS",846
+"February","NC54B","434","N","N"," "," ","f≤bjuø{w}≤æ{r}±ø","MS",847
+"February","NC55","435","N","N"," "," ","f≤bjuøw≤›æ{r}±ø´","MS",848
+"February","NC56A","436","N","N"," "," ","f≤bjuø{w}≤æ{r}±ø´","MS",849
+"February","NC56B!","437!","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",850
+"February","NC57A","438a","N","N"," "," ","f≤b∞w≤æ{r}±ø","MS",851
+"February","NC57B","438b","N","N"," "," ","f≤b∞w≤æ{∞}r±ø","MS",852
+"February","NC58A","439","N","N"," "," ","f∞b{j}uøw≤›´æré±ø","MS",853
+"February","NC58B","440","N","N"," "," ","f≤b{∞}w≤´æré±ø","MS",854
+"February","NC59","441(*)","N","Y"," ","AUX","f≤b∞w≤{r}±ø","MS",855
+"February","NC60","442","N","N"," "," ","f≤bjuø{w}≤æ{r}±ø","MS",856
+"February","NC61A","443","N","N"," "," ","f≤bw{¥}{r}±ø´","MS",857
+"February","NC61B","444","N","N"," "," ","f≤bjuøw¥{r}±ø","MS",858
+"February","NC62A","447","N","N"," "," ","f≤b∞w∞ºré±ø","MS",859
+"February","NC62B","448","N","N"," "," ","f≤{∞}b∞w≤´ær±ø","MS",860
+"February","NC63A","449","N","N"," "," ","f≤b±øw≤´æÒé›±ø","MS",861
+"February","NC63B","450","N","N"," "," ","f≤b{±ø}w¥±ø","MS",862
+"February","NC64A","453","N","N"," "," ","f≤b∞w≤›æÒé›±ø´","MS",863
+"February","NC64B","454","N","N"," "," ","f≤b{i}uøw≤ær±ø","MS",864
+"February","NC65A","461","N","N"," "," ","f≤b∞w¥{r}±ø","MS",865
+"February","NC65B","462","N","N"," "," ","f≤b∞w≤r±ø","MS",866
+"February","NC66A","465","N","N"," "," ","f≤b∞w¥{r}±ø","MS",867
+"February","NC66B","466","N","N"," "," ","f≤bjuøw≤ær±ø´","MS",868
+"February","NC67A","469","N","N"," "," ","f≤b∞w∞ré±øΩ","MS",869
+"February","NC67B","470","N","N"," "," ","f≤bjuøw≤r±ø","MS",870
+"February","NC68A","473","N","N"," "," ","f≤b∞w¥{Òé}±ø´","MS",871
+"February","NC68B","474","N","N"," "," ","f≤{∞}b∞w¥{r}±ø´","MS",872
+"February","NC69A","477","N","N"," "," ","f≤b{∞}w¥{ré}±ø","MS",873
+"February","NC69B","478","N","N"," "," ","f≤b∞w¥±ø","MS",874
+"February","NC70A","479","N","N"," "," ","f≤b∞w¥ré±ø´","MS",875
+"February","NC70B","480","N","N"," "," ","f≤bjuøw¥ré±ø","MS",876
+"February","NC71A","481","N","N"," "," ","f≤b∞w≤æré›±ø´","MS",877
+"February","NC71B","482","N","N"," "," ","f≤b∞w¥Úé±ø´","MS",878
+"February","NC71C!","483!","N","N"," "," ","f≤b{r}uø≤æ{∞}r±ø","MS",879
+"February","NC72A","487","N","N"," "," ","f≤bjuø≤´æ{r}±ø´","MS",880
+"February","NC72B","488","N","N"," "," ","f≤b∞w¥{r}±ø","MS",881
+"February","NC73A","491","N","N"," "," ","f≤bjuøw≤´æré±ø´","MS",882
+"February","NC73B","492","N","N"," "," ","f≤b∞w≤{r}±ø","MS",883
+"February","NC74A","493","N","N"," "," ","f≤b∞w≤´æré±ø´","MS",884
+"February","NC74B","494","N","N"," "," ","f≤bjuø≤´æ{ré}±ø´","MS",885
+"February","NC75A","495","N","N"," "," ","f∞b∞w¥›r›±ø","MS",886
+"February","NC75B","496","N","N"," "," ","f≤bjuøw≤æré±ø´","MS",887
+"February","SC1A","203.1","N","N"," "," ","f≤bjuøw≤{r}±ø","MS",888
+"February","SC1B","203.2","N","N"," "," ","f≤b{j}uøw≤æ{r}±ø","MS",889
+"February","SC2A","204.1(*)","N","N"," "," ","f≤b∞w≤ær±ø","MS",890
+"February","SC2B","204.2","N","N"," "," ","f≤b±øw≤ær±ø","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"February","SC3A","205.1","N","N"," "," ","f≤bjuøw¥›|±ø","MS",893
+"February","SC3A","205.1","N","Y"," ","OLD","f≤b±øw¥|±ø","MS",893
+"February","SC3B","205.2","N","N"," "," ","Âf≤´{∞}b∞ıw≤´æ∫r±ø´º","MS",894
+"February","SC3C!","205.3!","N","N"," ","SIC","Âf≤Ω{∞}bj∞ıv≤∫r±ø´º","MS",895
+"February","SC3C!","205.3!","N","Y"," ","REP","Âf≤Ω{∞}bj∞ıw≤´∫r±ø´º","MS",895
+"February","SC4A","206.1","N","N"," ","CNV","Âf≤´{∞}ıw≤´∫r±ø´º","MS",896
+"February","SC4B","206.2","N","N"," "," ","Âf≤´b{j}∞ıw≤´r±ø´º","MS",897
+"February","SC4C","206.3","N","N"," "," ","Âf≤´{∞}bıw≤æ∫r±ø´º","MS",898
+"February","SC5A","207.1","N","N"," ","CNV","Âf≤´bıw≤´æ∫r±ø´º","MS",899
+"February","SC5A","207.1","N","Y"," ","AUX/CNV","Âf≤´bj∞ıw≤∫r±ø´º","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"February","SC5C","207.2A","N","N"," "," ","Âf≤´bju∞ıw≤∫r±ø´º","MS",901
+"February","SC5D!","207.3!","N","N"," "," ","Âf≤´b{j}∞›ıw≤´∫r±ø´º","MS",902
+"February","SC5D!","207.3!","N","N"," "," ","Âf≤´b{j}ıw≤´∫r±ø´º","MS",902
+"February","SC6N","N208","N","N","""coming¢","CNV","Âf≤´bj∞ıw≤∫r±ø´º","MS",903
+"coming","SC6N","N208","A","Y"," ","INA","k`∏º{∞}m±øºn","MS",903
+"February","SC6A","208.1","N","N"," "," ","f≤bjuøw·ær±ø","MS",904
+"NR","SC6B","208.2(*)"," ","N"," "," "," ","MS",905
+"February","SC6C!","208.3!","N","N"," "," ","Âf≤´bj∞ıw≤∫r±ø","MS",906
+"NR","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"February","SC7A","209.1","N","N"," "," ","f≤´b∞w≤´∫r±ø´º","MS",909
+"February","SC7B","209.2","N","N"," "," ","Âf≤´b∞ır≤∫r±ø´º","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"February","SC7D!","209.4!","N","Y","[∞é]: doubtful","FDT","Âf≤Ωb∞éıw≤´æ∫r±ø´º","MS",912
+"February","SC8A","210.1","N","N"," "," ","Âf≤´{∞}bj∞ıwe∫r±ø´º","MS",913
+"February","SC8B","210.2","N","N"," "," ","Âf≤´{∞}b±ø´ºıw≤∫r±ø´º","MS",914
+"February","SC8B","210.2","N","N"," "," ","Âf≤´{∞}bj∞ıw≤∫r±ø´º","MS",914
+"February","SC8C","210.3","N","N"," "," ","Âf≤´{∞}bw≤´∫r±ø´º","MS",915
+"February","SC8C","210.3","N","N"," ","CNV","Âf{j}≤´{∞}bıwé≤´∫{∞}r±ø´º","MS",915
+"February","SC9A","211.1","N","N"," ","CNV","Âf≤´{∞}bıw≤∫r±ø´º","MS",916
+"February","SC9B","211.2","N","N"," "," ","Âf≤´{∞}b∞ıweΩ∫r±ø´º","MS",917
+"February","SC9C!","211.3!","N","N"," "," ","Âf≤´{∞}b∞ıw≤∫r±ø´º","MS",918
+"February","SC9D!","211.4!","N","N"," ","CNV","Âf≤´{∞}bıw≤∫r±ø´º","MS",919
+"February","SC10A","212.1","N","N"," "," ","Âf≤´bjuøıw≤∫r±ø´º","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"February","SC11N","N213","N","N"," "," ","f≤b{j}uøw·Ωær±ø","MS",923
+"February","SC11M!","2n213!","N","N"," "," ","Âf≤bÚó∞ıw≤∫r±ø´º","MS",924
+"February","SC11A","213.1(*)","N","N"," "," ","Âf≤bw≤∫r±ø´º","MS",925
+"February","SC11B","213.11","N","N"," "," ","Âf≤br±øˆ≤´∫r±ø","MS",926
+"February","SC11C","213.2","N","N"," "," ","Âf≤b∞óı‚≤∫r±ø´º","MS",927
+"February","SC11D","213.3","N","N"," "," ","Âf≤bjó±øıw≤æ∫r±ø´º","MS",928
+"February","SC11E","213.4","N","N"," ","CNV","Âf≤´b{Úó}∞ıw≤∫r±ø´º","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"February","SC11G!","213.7!","N","N"," "," ","Âf≤bÚ±ø›{w}≤∫r±ø´º","MS",931
+"February","SC11H!","213.8!","N","N"," "," ","Âf≤b{Úó}∞w≤∫r±ø´º","MS",932
+"February","SC11I!","213.9!","N","N"," "," ","f≤bw∞r±ø","MS",933
+"February","SC11J!","213.10!","N","N"," "," ","Âf≤bjuøw≤∫r±ø´º","MS",934
+"February","SC11J!","213.10!","N","N"," "," ","f≤b{jó}πw≤∫r±ø´º","MS",934
+"February","SC11J!","213.10!","N","N"," "," ","Âf≤b{Úó}∞ıw≤´∫r±ø","MS",934
+"February","SC11J!","213.10!","N","N"," "," ","Âf≤bw≤∫r±ø´º","MS",934
+"February","SC12A","214.1","N","N"," "," ","Âf≤´{∞}bıw≤´æ∫r›±ø´º","MS",935
+"February","SC12B","214.2","N","N"," "," ","Âf≤b±øı‚er±ø","MS",936
+"NR","SC13","213.6"," ","N"," "," "," ","MS",937
+"February","SC14A","215.1","N","N"," "," ","f≤bjuøæw≤ær±ø","MS",938
+"February","SC14B","215.2","N","N"," ","CNV","Âf≤´{∞}bıw≤∫r±ø´º","MS",939
+"February","SC15A","216.1","N","N"," ","CNV","Âf≤´b∞ıw≤´æ∫r±ø´º","MS",940
+"February","SC15B","216.2","N","N"," ","CNV","Âf≤´{∞}bıw≤´∫r±ø´º","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"February","SC16N","N217","N","N"," "," ","Âf≤´{∞}b±øıw≤´∫r±ø´º","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"February","SC17A","218.1","N","N"," ","CNV","f≤´{∞}b∞ıw≤´∫rà±ø´º","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"February","SC17D","218.4","N","N"," "," ","Âf≤´b{Úó}≤´∫r±ø´º","MS",948
+"February","SC18N","N219","N","N"," "," ","Âf≤bj∞æw≤r±ø´º","MS",949
+"February","SC18A","219.1","N","N"," "," ","Âf≤bj∞›w≤∫r±ø´º","MS",950
+"February","SC18A","219.1","N","N"," ","CNV","Âf≤´b∞èıw≤´∫r±ø´º","MS",950
+"February","SC18B","219.2","N","N"," "," ","Âf≤´bj∞ó{w}≤∫r±ø´º","MS",951
+"February","SC18C!","219.3(*)!","N","N"," "," ","Âf≤br±ø›r≤∫r±ø´º","MS",952
+"February","SC18C!","219.3(*)!","N","N"," "," ","f≤b{r}±ør≤∫r±ø´º","MS",952
+"February","SC18C!","219.3(*)!","N","N"," "," ","Âf≤æbj∞ºı≤r±ø´º","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"February","SC19B","220.4","N","N"," "," ","f≤b∞›ˆ≥ºr±øΩ","MS",956
+"February","SC19C","220.2(*)","N","Y","[{w}]: doubtful","FDT","Âf≤´æbjé∞ó´æ{w}≤∫r±ø´º","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"February","SC20A","221.1","N","N"," "," ","f≤´b∞ıw≥´∫r±ø´º","MS",960
+"February","SC20A","221.1","N","N"," ","CNV","Âf≤´b∞ıw≤´∫r±ø´º","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"February","SC20C","221.3","N","N"," "," ","Âf≤´b∞ıw≤´æ∫r±ø´º","MS",962
+"February","SC20D!","221.4!","N","N"," "," ","Âf≤´bj∞ıw≤∫r±ø´º","MS",963
+"February","SC21A","222.1","N","N"," "," ","f≤b∞w≤ær±ø","MS",964
+"February","SC21B","222.2","N","N"," "," ","Âf≤{∞}bjuøıw≤æ{r}±ø","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"February","SC22A","223.1","N","N"," "," ","Âf≤´{∞}b{j}∞›w≤∫r±ø´º","MS",967
+"February","SC22A","223.1","N","N"," ","CNV","Âf≤´{∞}bj∞ıw≤∫r±ø´º","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"February","SC22C!","223.3!","N","N"," "," ","Âf≤Ω{∞}b{j}∞w≤æ∫r›±øΩº","MS",969
+"February","SC23A","224.1","N","N"," "," ","Âf≤´{∞}bıw≤´∫rà›±ø´º","MS",970
+"February","SC23B","224.2","N","N"," "," ","Âf≤´{∞}b∞›´ıw≤´∫r±ø´º","MS",971
+"February","SC23C","224.3","N","N"," "," ","Âf≤´{∞}b±øºıw≤´∫rà±ø´º","MS",972
+"NR","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"February","SC24A","225.1","N","Y","[{w}]: doubtful","FDT","Âf≤b{w}±øıˆ≤ær±ø","MS",976
+"February","SC24B","225.11","N","N"," ","CNV","Âf≤´{∞}bj∞èıw≤´∫r±ø´º","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"NR","SC25A","226.1"," ","N"," "," "," ","MS",980
+"February","SC25B","226.2","N","N"," "," ","Âf≤´∫b±øv≤r±ø´º","MS",981
+"February","SC25C!","226.3!","N","N"," "," ","Âf≤´b±øıweΩ∫r±øΩº","MS",982
+"February","SC26A","227.1","N","N"," ","CNV","Âf≤´{∞}b∞‚≤æ∫r±ø´º","MS",983
+"NR","SC26B!","227.2!"," ","N"," "," "," ","MS",984
+"February","SC27A","228.1","N","N"," "," ","Âf≤bj±øv≤∫r±ø","MS",985
+"February","SC27B","228.2","N","N"," "," ","Âf≥´b∞w≥´∫r›±ø´º","MS",986
+"February","SC28A","229.1","N","N"," "," ","Âf≤´{∞}b∞‚eΩ∫r±ø´º","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"February","SC28C","229.2","N","N"," "," ","Âf≤´{∞}b±øıw≤´∫r±ø´º","MS",989
+"February","SC28D","229.3","N","N"," "," ","Âf≤´bj∞ıw≤´∫{r}±ø´º","MS",990
+"February","SC29A","230.2(*)","N","N"," "," ","Âf≤´{∞}bj∞w≥º∫r±ø´º","MS",991
+"NR","SC29B","230.1(*)"," ","N"," "," "," ","MS",992
+"February","SC29C","230.3","N","N"," "," ","Âf≤´b∞ıw≤´æ∫r±ø´º","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NR","SC29E"," "," ","N"," "," "," ","MS",995
+"February","SC30A","231.1","N","N"," "," ","f≤bjuøw≤r±ø","MS",996
+"February","SC30B","231.2","N","N"," "," ","Âf≤´bj∞ˆ≤´æ∫r±ø´º","MS",997
+"February","SC30C!","231.3!","N","N"," "," ","Âf≤´bjé∞ıwé≤´r±ø´º","MS",998
+"February","SC30C!","231.3!","N","N"," "," ","Âf≤´bjé∞ó›ıw≤´∫r±ø´º","MS",998
+"February","SC31A","232.1","N","N"," "," ","Âf≤´{∞}b±øıweΩ∫r±ø´º","MS",999
+"February","SC31B","232.2","N","N"," "," ","Âf≤´b∞›w≤´∫r›±ø´º","MS",1000
+"February","SC32A","233.1","N","N"," "," ","Âf≤´{∞}b∞w≤´∫r±ø","MS",1001
+"February","SC32A","233.1","N","N"," "," ","Âf≤´{∞}b∞ıw≤∫rà±ø´º","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"February","SC32C","233.3","N","N"," "," ","Âf≤´{∞}bj∞ıw≤´æ∫r±ø´º","MS",1003
+"February","SC32D","233.4","N","N"," "," ","Âf≤´{∞}b{j}∞ıw≤´∫r±ø´º","MS",1004
+"February","SC33A","234.1","N","N"," "," ","f≤b±øΩw≤{r}±ø","MS",1005
+"February","SC33B","234.2","N","N"," "," ","Âf≤´{∞}bw≤´∫r±ø´º","MS",1006
+"February","SC34A","235.1","N","N"," "," ","Âf≤´{∞}bj∞ıw≤´∫r±ø´º","MS",1007
+"February","SC34B","235.2","N","N"," "," ","Âf≤´{∞}bj∞ıw≤´r±ø","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"February","SC35A","236.1","N","N"," "," ","Âf≤´{∞}bıw≤´∫r±ø´º","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"February","SC35C","236.3(*)","N","N"," "," ","f≤b{j}±øw≤r±ø›","MS",1012
+"February","SC35D"," ","N","N"," "," ","f≤´{∞}b∞w≤´∫r±ø´º","MS",1013
+"NR","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"February","SC36B","237.2","N","N"," "," ","Âf≤´bjé∞ów≤∫r±ø´º","MS",1016
+"February","SC36B","237.2","N","N"," ","CNV","Âf≤´bıw≤æ∫r±ø´º","MS",1016
+"February","SC36C","237.3","N","N"," "," ","Âf≤´bj∞w≤´∫r›±ø´º","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"February","SC37","238","N","N"," "," ","Âf≤b∞´ıw≤ær±ø","MS",1019
+"February","SC38N","N239","N","N"," "," ","Âf≤b{jé}≤w≤∫r›±ø´º","MS",1020
+"February","SC38A","239.1","N","N"," "," ","Âf≤b∞ıw≤∫{r}±ø´º","MS",1021
+"February","SC38B","239.2","N","N"," "," ","Âf≤b{Á}{jé}∞ıw≤æ∫r±ø´º","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"February","SC38D!","239.4(*)!","N","N"," "," ","Âf≤bjé∞{w}≤∫r±ø´º","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," ","MS",1025
+"February","SC39A","240.1","N","N"," ","CNV","Âf≤´b±ø´ºıw≤´æ∫r±ø´º","MS",1026
+"February","SC39B!","240.2!","N","N"," "," ","Âf≤´b∞r≤∫r±ø´º","MS",1027
+"February","SC40A","241.1","N","N"," "," ","f≤´bw≤r±ø´º","MS",1028
+"February","SC40A","241.1","N","N"," ","CNV","Âf≤´{b}jπ›ıw≤´r±ø´º","MS",1028
+"February","SC40A","241.1","N","N"," ","CNV","Âf≤´bı{w}≤´r±ø´º","MS",1028
+"February","SC40B","241.2","N","N"," "," ","Âf≤´b∞ıw≤´r±ø´º","MS",1029
+"February","SC41A","242.1","N","N"," "," ","f≤bjuøw≤r±ø","MS",1030
+"February","SC41B","242.2","N","N"," "," ","Âf≤´bπéºıw≤´r±ø´º","MS",1031
+"February","SC41B","242.2","N","N"," "," ","Âf≤´bw≤´{r}±ø´º","MS",1031
+"February","SC42N","N243","N","N"," "," ","Âf≤Ωb∞óıw≤Ωæ∫r±ø","MS",1032
+"February","SC42N","N243","N","N"," "," ","Âf≤∫bw≤æ∫r›±øè›º","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"February","SC42A","243.1","N","N"," "," ","Âf≤bjóπºıw≤Ωær±ø´º","MS",1034
+"February","SC42B!","243.2!","N","N"," "," ","Âf≤´b∏r∞ór±ø´º","MS",1035
+"February","SC42C!","243.3!","N","N"," "," ","Âf≤b{w}jπøw≤r±ø","MS",1036
+"February","SC42C!","243.3!","N","N"," "," ","Âf≤´bjπw≤r±øº","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"February","SC42E!","243.5!","N","N"," "," ","Âf≤bjπø´{w}≤r±ø´º","MS",1038
+"February","SC43A","244.1","N","N"," "," ","Âf≤´b∞éıw≤´r±ø´º","MS",1039
+"February","SC43B","244.2","N","N"," ","CNV","Âf≤b∞ıw≤ær›±ø´º","MS",1040
+"February","SC43C","244.3","N","N"," "," ","Âf≤bwé≤ær±øΩº","MS",1041
+"February","SC43C","244.3","N","N"," "," ","Âf≤´b∞ó›ró›≤ær±ø","MS",1041
+"February","SC43C","244.3","N","N"," "," ","Âf≤´æbw≤r±ø","MS",1041
+"February","SC44A","245.1","N","N"," "," ","Âf≤bróπºı{w}≤´r±ø´º","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"February","GA1N","N246","N","N"," "," ","f≤b∞ˆ≤r±ø","MS",1044
+"February","GA1A","246.1(*)","N","Y"," ","AUX","f≤bÁw≤æ∫r±ø","MS",1045
+"February","GA1B","246.11","N","N"," "," ","Âf≤bróuº≤r±ø","MS",1046
+"February","GA1C","246.2","N","N"," ","CNV","f≤bÚó¥±ø´º","MS",1047
+"February","GA1D","246.3","N","N"," ","CNV","f≤´bw≤∫r±ø´º","MS",1048
+"February","GA1E","246.4","N","N"," "," ","Âf≤´b∞éóıw≤∫r±ø´º","MS",1049
+"February","GA1F!","246.5!","N","N"," "," ","f≤b{j}u´ºw≤Ωr±ø","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"February","GA1H!","246.7!","N","N"," "," ","Âf≤´bjuøΩºıw≤´∫r±øº","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"February","GA2A","247.1","N","N"," "," ","Âf≤b∞w≥º∫r±ø","MS",1054
+"NR","GA2B","247.2"," ","N"," "," "," ","MS",1055
+"February","GA3A","248.1","N","Y"," ","OLD","Âf≤Ωæbw≤Ωr±ø","MS",1056
+"February","GA3A","248.1","N","N"," "," ","Âf≤bju´ºw≤Ωr±ø","MS",1056
+"NR","GA3B","248.2"," ","N"," "," "," ","MS",1057
+"February","GA4N","N249","N","N"," "," ","f≤Ωb±ø´ˆ≤r±ø","MS",1058
+"February","GA4A","249.1","N","N"," "," ","Âf≤´b∞w≥ºr±ø´º","MS",1059
+"February","GA4B","249.2","N","N"," ","CNV","Âf≤´{∞}b∞ıw≤´∫r±ø´º","MS",1060
+"February","GA4C!","249.3!","N","N"," "," ","Âf≤´{∞}bjuø∫{w}≤æ∫r±ø´º","MS",1061
+"February","GA5A","250.1","N","N"," "," ","f≤´b∞{wé}≤æ∫r±ø","MS",1062
+"February","GA5A","250.1","N","N"," ","CNV","Âf≤´{∞}bj∞óıw≤∫r±ø´º","MS",1062
+"February","GA5B","250.2","N","N"," ","CNV","f≤{∞}b‚≥∫r±ø´º","MS",1063
+"February","GA5C","250.3","N","N"," "," ","Âf≤{∞}bıw≥´∫r±øº","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"February","GA5E!","250.5!","N","N"," "," ","Âf≤´b{r}∞r≥∫r±ø´º","MS",1066
+"February","GA6A","251.1","N","N"," "," ","Âf≤´{∞}b‚≤∫r±øº","MS",1067
+"February","GA6B!","251.2!","N","N"," "," ","Âf≤{∞}bjuø{w}ı≤∫r±øº","MS",1068
+"February","GA7","256","N","N"," ","CNV","Âf≤´{∞}{b}j∞ó´æıw≤´∫r±ø´º","MS",1069
+"February","GA8A","257.1","N","N"," "," ","Âf≤´{∞}bj∞ıw≤∫r±ø´º","MS",1070
+"February","GA8B","257.2","N","N"," "," ","Âf≤´{∞}bj∞‚≤æ∫r±ø´º","MS",1071
+"February","GA9A","257A.1","N","N"," "," ","Âf≤b±øóıw≤r±ø","MS",1072
+"February","GA9A","257A.1","N","N"," "," ","Âf≤b±øèıw≤{r}±ø","MS",1072
+"February","GA9B","257A.2","N","N"," "," ","Âf≤b±øè›ıw≤r±ø","MS",1073
+"February","GA9B","257A.2","N","N"," "," ","Âf≤b∞ıw≤´r±ø","MS",1073
+"February","GA10A","258.1","N","N"," "," ","Âf≤b±øıw¥|±ø","MS",1074
+"February","GA10B","258.2","N","N"," ","CNV","Âf≤´bıw≤∫r±ø´º","MS",1075
+"February","GA11N","N258A","N","N"," "," ","Âf≤b±øıw≤r±ø","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"February","GA12B!","259.2(.3)","N","N"," "," ","Âf≤bjuøıw≤r±ø","MS",1078
+"February","GA12B!","259.2(.3)","N","N"," "," ","Âf≤b±øıw≤r±ø","MS",1078
+"February","GA13A","260.1","N","Y"," ","OLD","f≤b±øw≤r±ø","MS",1079
+"February","GA13A","260.1","N","N"," "," ","f≤bj∞w≤r±ø","MS",1079
+"February","GA13B!","260.2!","N","N"," "," ","Âf≤´b{ró}∞w≤´æ∫r±ø´º","MS",1080
+"February","GA14A","261.1","N","N"," "," ","f≤´b{j}∞w≤ær±ø´º","MS",1081
+"February","GA14A","261.1","N","N"," ","CNV","Âf≤bıw≤∫r±ø","MS",1081
+"February","GA14A","261.1","N","N"," ","CNV","f≤´bj∞æw≤∫r±ø´º","MS",1081
+"February","GA14B","261.3","N","N"," "," ","Âf≤´{b}já∞ı{w}≤æ∫r±ø´º","MS",1082
+"February","GA14C","261.2","N","N"," "," ","Âf≤´b∞ıw≤´æ∫r±ø´º","MS",1083
+"February","GA15A","262.1","N","N"," "," ","f≤b∞›w≤r±ø","MS",1084
+"NR","GA15B","262.2"," ","N"," "," "," ","MS",1085
+"February","GA16A","263.2","N","N"," "," ","Âf≤´{b}{j}∞´w≤´r±ø´º","MS",1086
+"February","GA16B","263.1","N","N"," "," ","Âf≤´b±ø‚≤∫r±ø´º","MS",1087
+"February","GA16C","263.21","N","N"," "," ","Âf≤{b}juø{w}≤r±ø","MS",1088
+"February","GA16D!","263.3!","N","N"," "," ","Âf≤´{∞}b∞›ıw≤´∫r±ø´º","MS",1089
+"February","GA17N","N264","N","N"," "," ","Âf≤b{±}±øw≤r±ø","MS",1090
+"February","GA17","264","N","N"," "," ","f≤br∞w¥±ø´º","MS",1091
+"February","GA18A","264A.1","N","N"," "," ","Âf≤b±øw≤r±ø","MS",1092
+"February","GA18B","264A.2","N","N"," "," ","Âf≤b{ró}±øıw≤r±ø","MS",1093
+"February","GA19A","265.1","N","Y"," ","AUX2","Âf§´{∞}{b}j›∞›ı{w}≥´∫r±ø´º","MS",1094
+"February","GA19A","265.1","N","Y"," ","AUX2","f≥´º{∞}{b}{j}∞w≤´∫{r}±ø´º","MS",1094
+"February","GA19B","265.2","N","N"," "," ","Âf±Ω{∞}{b}j∞ıw≤´æ∫r±ø´º","MS",1095
+"February","GA20A","266.1","N","N"," "," ","Âf≤´{∞}bıw≤´æ∫|±ø´º","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"February","GA21A","267.1","N","N"," "," ","Âf≤vj∞w≤r±´","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"February","GA22A","268A.1","N","N"," "," ","f≤{b}j±øw≤ær±ø","MS",1100
+"February","GA22B","268A.2","N","N"," "," ","f≤´{∞}b∞w≥º∫r±ø´º","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"February","GA23B","268.11","N","N"," "," ","Âf≤bjuøîıw≤r±ø","MS",1103
+"February","GA23C","268.2","N","N"," "," ","Âf≤bj∞w≤r±ø","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"February","GA23E!","268.4!","N","N"," "," ","Âf≤bjuîró≤r±ø´","MS",1106
+"February","GA23F!","268.5!","N","N"," "," ","f≤{b}{j}±øw≤r±ø","MS",1107
+"February","GA24N","N269","N","N"," "," ","Âf≤b±øw≤r±ø","MS",1108
+"February","GA24A","269.1","N","N"," "," ","f≤bjuøw≤æ{r}±ø","MS",1109
+"February","GA24B","269.2","N","N"," "," ","f≤´bw±Ωæ∫r±ø´º","MS",1110
+"February","GA24B","269.2","N","N"," "," ","f≤´bw≤´∫r±ø´º","MS",1110
+"February","GA24B","269.2","N","N"," "," ","f≤´bw≤∫r±ø´º","MS",1110
+"February","GA25N","N269A","N","N"," "," ","Âf≤b∞ıw≤r±ø","MS",1111
+"February","GA26","270A","N","N"," "," ","Âf≤{b}{j}±ø›ıw≤›r±ø","MS",1112
+"February","GA27!","270!","N","N"," "," ","f≤b∞w≤Ωr±ø","MS",1113
+"February","GA28","271a","N","N"," "," ","Âf≤v∞w≤r±ø","MS",1114
+"February","GA29A","271.1","N","N"," "," ","Âf≤´bıw≤´∫r±ø´º","MS",1115
+"February","GA29B","271.2","N","N"," "," ","Âf≤´b{j}±øı≤∫r±ø´º","MS",1116
+"NR","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NR","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"February","GA30C!","272.3!","N","N"," "," ","Âf≤bjuø›w≤r±ø´","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","MS",1120
+"NR","GA30E"," "," ","N"," "," "," ","MS",1121
+"February","GA31","272A","N","N"," "," ","Âf≤b¥w≤r±ø","MS",1122
+"February","GA32","272B","N","N"," "," ","f≤bj›∞w≤r±ø","MS",1123
+"February","GA33A","272C1","N","N"," "," ","f≤bj∞w≤´æ{∞}r±ø","MS",1124
+"February","GA33B","272C2","N","N"," "," ","Âf≤´bjπw≤r±ø","MS",1125
+"February","GA34N","N273","N","Y","[∞è›]: doubtful","FDT","Âf≤´b∞è›ıw≤´ró±ø´º","MS",1126
+"February","GA34A","273.1","N","N"," "," ","f≤b∞w≤r±ø","MS",1127
+"February","GA34B","273.2","N","N"," "," ","Âf≤´{b}{j}∞ıw≤´æ∫r±ø´º","MS",1128
+"February","GA34B","273.2","N","N"," "," ","Âf≤´{b}{j}∞ıw≥´∫r∞","MS",1128
+"February","GA35N","N273A","N","N"," "," ","Âf≤b∞w≤r±ø","MS",1129
+"February","GA36N","N274A","N","N"," "," ","f≤b∞w≤Ωr±ø","MS",1130
+"February","GA37N","2N274","N","N"," "," ","f≤brπøî{ˆ}≤r±ø","MS",1131
+"February","GA37M!","NC274","N","N"," "," ","Âf≤brπø≤r±ø","MS",1132
+"February","GA37A","274.1","N","N"," ","CNV","Âf≤´{b}ıw≤´∫r±ø´º","MS",1133
+"February","GA37B","274.2","N","N"," ","CNV","Âf≤´{b}{∞}ıw≤´æ∫r±ø´º","MS",1134
+"February","GA37C","274.21","N","N"," "," ","Âf≤bjuø{w}≤r±ø","MS",1135
+"February","GA37D!","274.7!","N","N"," "," ","Âf≤bjπø{w}≤r±ø","MS",1136
+"February","GA37E!","274.8!","N","N"," "," ","Âf≤bjπø{w}≤r±ø","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"February","GA37G!","274.4!","N","N"," "," ","Âf≤´bjuø∫ıw≤´∫r±æiæ","MS",1139
+"February","GA37H!","274.5!","N","N"," "," ","Âf≤´{b}{j}∞ıw≤´∫r±ø´º","MS",1140
+"February","GA37H!","274.5!","N","N"," "," ","Âf≤´bw≤´∫r±æiæ","MS",1140
+"February","GA37I!","274.6!","N","N"," "," ","Âf≤{b}juΩº≤r±ø´","MS",1141
+"February","GA38","275","N","N"," "," ","f≤bjrw≤ær±ø´º","MS",1142
+"February","GA39","275A","N","N"," "," ","Âf≤bjuø{w}≤´r±ø´","MS",1143
+"February","GA40","276A","N","N"," "," ","f≤b∞w≤r±ø´","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"February","GA42A","276.1","N","N"," "," ","Âf≤´b∞ıw≥´º∫r±ø´º","MS",1146
+"NR","GA42B","276.2"," ","N"," "," "," ","MS",1147
+"February","GA43","277","N","N"," "," ","f≤b∞w≤{r}±ø","MS",1148
+"February","GA44A","278.1","N","N"," "," ","Âf≤´b∞›ıw≤´æ∫r±ø´º","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"February","GA44C","278.3","N","N"," "," ","Âf≤´b∞ıw≤´æ∫r±ø´º","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"February","GA44E","278.5","N","N"," "," ","Âf≤b∞é{w}≤r±ø","MS",1153
+"February","FL1","252","N","N"," "," ","Âf≤´bj∞ıw≤∫r±ø´º","MS",1154
+"February","FL2A","253.1","N","N"," "," ","Âf≤´bjuøıw≤´∫r±ø´º","MS",1155
+"February","FL2B","253.2","N","N"," "," ","Âf≤b{r}uøw≤r±øº","MS",1156
+"February","FL2C!","253.3!","N","N"," ","CNV","Âf≤´b∞ıw≤∫r±ø´º","MS",1157
+"February","FL3A","254.1","N","N"," "," ","Âf≤´bj∞ıw≤∫r±ø´º","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"NR","FL4","254A"," ","N"," "," "," ","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"February","FL5B","255.2","N","N"," "," ","Âf≤´{b}j∞ıw≥´º∫r±ø´º","MS",1162
+"","","","","","","","","",

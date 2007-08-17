@@ -1,0 +1,1579 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NR","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NR","NY2C","51.3"," ","N"," "," "," ","MS",4
+"hayfield","NY3A","401","N","N"," "," ","Âhe±øıfi∫{∞}Ïd","MS",5
+"hayfield","NY3B","403","N","N"," "," ","he±øfi∫Ïd","MS",6
+" ","NY3C","402"," "," ","cf. Belport, L.I. where = salt marsh only","RN2"," ","MS",7
+"meadow","NY3C","402","N","N","can = pasture land (not wet) or salt marsh","RN1","Âm≤doΩºπ","MS",7
+"hayfield","NY3D","404","N","N"," "," ","he±øfi∫Ïd","MS",8
+"hay lot","NY4A","405","O","N","upland"," ","heΩ±ø$lµ´t","MS",9
+"grass meadows","NY4A","405","O","N","rare"," ","gr·∫s$m≤d∞z","MS",9
+"hay lot","NY4B","407","O","N"," "," ","heΩ±ø$lµ›´t","MS",10
+"meadow","NY4C","408","N","N"," "," ","m≤doΩºπ","MS",11
+"NR","NY5A","409"," ","N"," "," "," ","MS",12
+"field","NY5B","410","N","N"," "," ","fi∫{∞}Ïd","MS",13
+"meadow","NY5B","410","N","Y"," ","SUG","m≤do›Ωºπ›","MS",13
+"hayfield","NY5C","411","N","N"," "," ","heΩ±øfi∫{∞}Ïd","MS",14
+"meadow","NY5D","412","N","N"," "," ","m≤do›ºπ›","MS",15
+"hayfield","NY5E","413","N","N"," "," ","ÂheΩ±øıfi∫{∞}Ïd","MS",16
+"hayfield","NY5F","414","N","Y"," ","SUG","ÂheΩ±øıfiΩ∫{∞}Ïd","MS",17
+"meadow","NY5G","415","N","N"," "," ","m≤doΩºπ","MS",18
+"meadow","NY5H!","416!","N","N"," "," ","m≤do›Ωºπ›","MS",19
+"hayfield","NY5I!","417!","N","N"," "," ","ÂheΩ±øıfi∫Ïd","MS",20
+"hayfield","NY6A","418","N","N"," "," ","Âh≤´±ø´ıfi∫Ïd","MS",21
+"hayfield","NY6B","419","N","N"," "," ","heΩ±øfi∫{∞}Ïd","MS",22
+"NR","NY7A","420"," ","N"," "," "," ","MS",23
+"NR","NY7B","421"," ","N"," "," "," ","MS",24
+"NR","NY7C","422"," ","N"," "," "," ","MS",25
+"meadows","NY7D","423","N","N","wet; also = salt marsh"," ","m≤doΩºπz","MS",26
+"meadows","NY7E","424","N","N"," "," ","m≤doΩºπz","MS",27
+"meadow","NY7F","425","N","N"," "," ","Âm≤do›Ωºπ›","MS",28
+"meadow","NY7G","426","N","N"," "," ","m≤doΩºπ","MS",29
+"meadow","NY7H","427","N","N"," "," ","Âm≤doΩºπ","MS",30
+"meadow","NY7I","428","N","N"," "," ","m≤doΩºπ","MS",31
+"NR","NY7J!","429!"," ","N"," "," "," ","MS",32
+"hayfield","NY7K!","430!","N","N"," "," ","heΩ±øfi∫Ïd","MS",33
+"meadow","NY7L!","431!","N","N"," "," ","m≤d¿π","MS",34
+"meadow","NY7M!","432!","N","N"," "," ","m≤doΩºπ","MS",35
+"hayfield","NY8","432b","N","N"," "," ","heΩ±øıfi∫Ïd","MS",36
+"meadow","NY9A","432c","N","N"," "," ","m≤doΩºπ","MS",37
+"meadow","NY9B","433","N","N","upland hay"," ","m≤doºπ","MS",38
+"swale","NY9B","433","N","Y","narrow strip","INA","sweæ∫{±ø}Ï","MS",38
+"meadow","NY9C","434","N","N"," "," ","m≤ædoΩºπ","MS",39
+"swale","NY10A","435","N","Y"," ","INA","swe±ø{∞}Ï","MS",40
+"meadow","NY10A","435","N","N","low"," ","m≤d¥","MS",40
+"swale","NY10B!","436!","N","Y"," ","INA","sweΩ±ø{∞}Ï","MS",41
+"meadow","NY10B!","436!","N","N","low or high"," ","m≤doΩºπ","MS",41
+"meadow","NY11","438","N","N"," "," ","m≤doΩºπ","MS",42
+"swale","NY12A","439(*)","N","Y"," ","INA","sweΩ±øÏ","MS",43
+"meadow","NY12A","439(*)","N","N","low or high"," ","m≤d∞","MS",43
+"swale","NY12A","439(*)","N","Y"," ","AUX/INA","sweΩæ±ø{∞}Ï","MS",43
+"meadow","NY12A","439(*)","N","Y","hay; high","AUX","m≤d¥","MS",43
+"hayfield","NY12B","440","N","N"," "," ","heΩ±ø´fi∫{∞}Ïd","MS",44
+"meadow","NY12B","440","N","N"," "," ","m≤doΩºπ","MS",44
+"meadow","NY12C!","441!","N","N"," "," ","m≤doπ","MS",45
+"meadow","NY13A","443","N","N","low or high"," ","m≤doπ","MS",46
+"swale","NY13A","443","N","Y"," ","INA","sweæ{∞}Ï","MS",46
+"meadow","NY13B!","444!","N","N"," "," ","m≤doπ","MS",47
+"hayfield","NY13B!","444!","N","N"," "," ","he±øfi∫{∞}Ïd","MS",47
+"swale","NY14A","445","N","Y"," ","INA","swe±ø{∞}Ï","MS",48
+"meadow","NY14A","445","N","N","low or high"," ","m≤d∞","MS",48
+"meadow","NY14B","446","N","N","low or high"," ","m≤doΩºπ","MS",49
+"swale","NY14B","446","N","Y"," ","INA","swe±ø{∞}Ï","MS",49
+"swale","NY15A","447","N","Y"," ","INA","swàeæ{±ø}{∞}Ï","MS",50
+"meadow","NY15A","447","N","N","low or high"," ","m≤doΩ∫{πΩ}","MS",50
+"meadows","NY15B","448","N","N","low or high"," ","m≤doº{π}z","MS",51
+"plaatsje","NY15B","448","N","Y","marsh meadow for hay; Dutch","INA","ÂpÏaæ∫tÛ±ø´","MS",51
+"swale","NY15B","448","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",51
+"meadow","NY16A","449","N","N"," "," ","m≤d∞","MS",52
+"swale","NY16A","449","N","Y"," ","INA","sweæ∫{±ø}Ï","MS",52
+"meadow","NY16B","450","N","N","low"," ","m≤d∞","MS",53
+"meadow","NY17A","451(*)","N","N","low or high"," ","m≤d∞","MS",54
+"hayfield","NY17A","451(*)","N","Y","upland","AUX","heΩ{±ø}fi∫{∞}Ïd","MS",54
+"meadow","NY17A","451(*)","N","Y","lower","AUX","m≤d¥","MS",54
+"meadow","NY17B","452","N","N"," "," ","m≤do{π}","MS",55
+"meadow","NY18A","453","N","N","both up and low"," ","m≤doπ","MS",56
+"swale","NY18A","453","N","Y"," ","INA","sweΩ±øÏ","MS",56
+"meadow","NY18B","454","N","N"," "," ","m≤d∞","MS",57
+"meadow","NY18C!","455!","N","N","low or high"," ","m≤doπ","MS",58
+"meadow","NY19","456","N","N"," "," ","m≤doºπ","MS",59
+"swale","NY19","456","N","Y"," ","INA","swe±øÏ","MS",59
+"swale","NY20A","457","N","Y","lowish","INA","swe{±ø}{∞}Ï","MS",60
+"meadow","NY20A","457","N","N","up"," ","m≤doº{π}","MS",60
+"swale","NY20B","458","N","Y","low","INA","sweΩ±ø{∞}Ï","MS",61
+"meadow","NY20B","458","N","N","high"," ","m≤doΩπ","MS",61
+"swale","NY21","459","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",62
+"meadow","NY21","459","N","N","up"," ","m≤do{π}","MS",62
+"swale","NY22","460","N","Y"," ","INA","sweæ∫{±øæ}{∞}Ï","MS",63
+"meadow","NY22","460","N","N","high or low"," ","m≤d∞","MS",63
+"meadow","NY23A","461","N","N"," "," ","m≤doº{πº}","MS",64
+"meadows","NY23B","462a","N","N","lowland; got to seed it every 3 years"," ","m≤´d∞z","MS",65
+"meadow land","NY23C","462b","O","N"," "," ","Âm≤´d∞ó{w}$l·´∫{∞}n","MS",66
+"swale","NY23C","462b","N","Y","where common","INA","swè≤´±æÏñ","MS",66
+"swale","NY24A","463","N","Y"," ","INA","sweΩ±øÏ","MS",67
+"meadow","NY24A","463","N","N","high or low"," ","m≤d∞","MS",67
+"hayfield","NY24B!","464!","N","N","up or low"," ","heΩ±øfiΩ∫{∞}Ïd","MS",68
+"meadow","NY24B!","464!","N","N","up or low"," ","m≤doΩºπ","MS",68
+"swale","NY24B!","464!","N","Y"," ","INA","sweΩæ±ø{∞}Ï","MS",68
+"meadows","NY25A","465","N","N"," "," ","Âm≤´doº{πº}z","MS",69
+"meadows","NY25A","465","N","N"," ","CNV","Âm≤´do›º{πº}z","MS",69
+"beaver meadow","NY25A","465","O","Y","= swale; cut hay off of","INA/SIC","Âb±{i}v¥$ım≤´d¥","MS",69
+"swale","NY25A","465","N","Y","low and marshy","INA","swèeΩ±øæÏ","MS",69
+"meadow","NY25B","466","N","N","had been worked, seeded down for hay"," ","m≤´d∞ó","MS",70
+"meadow","NY25B","466","N","N","had been worked, seeded down for hay"," ","m≤´d∞ó{w}","MS",70
+"swale","NY25B","466","N","Y","low ""ravine¢ through field, ""too wet to cut¢","INA","swè≤∫±øÏ","MS",70
+"ravine","NY25B","466","N","Y"," ","INA","r∞Âv±∫in","MS",70
+"meadow","NY26A","467","N","N","planted in grass"," ","Âm≤´d¥","MS",71
+"hay ground","NY26A","467","O","N"," "," ","ÂheΩ±ø$ıgrá·Ω∫πn{d}","MS",71
+"swale","NY26A","467","N","Y","high on one side, lowland on other","INA","swèeΩ∫±øºÏ","MS",71
+"swale grass","NY26A","467","O","Y"," ","INA","ÂswèeΩ∫±øÏ$ıgrá·{∞}s","MS",71
+"fly","NY26A","467","N","N","cleared by water: kill"," ","Âflè•∫±øº","MS",71
+"fly hay","NY26A","467","O","Y"," ","INA","Âflè•∫±æ$ıheΩ∫±øº","MS",71
+"new-seeded meadow","NY26B","468","O","N","cut several years running"," ","ÂnuøΩ∫ısi∫d±øºd$Âm≤´d∞ó{w}","MS",72
+"prairies","NY26B","468","N","N"," ","CNV","p∞Âr≤é´¥±øºz","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"hay land","NY27A","470","O","N"," "," ","ÂheΩ∫±ø$ıl·Ω∫n","MS",74
+"meadow","NY27A","470","N","N"," "," ","Âm≤´d∞ó","MS",74
+"swale","NY27A","470","N","Y","in meadow","INA","swèeΩ±øÏ","MS",74
+"swale","NY27B","471","N","Y","""never can do anything with it¢","INA","swèeΩ±øÏ","MS",75
+"meadow","NY27B","471","N","N","low or high"," ","m≤´d∞ó{w}","MS",75
+"swale","NY27C","472","N","Y"," ","INA","swèeΩ∫±øÏ","MS",76
+"meadow","NY27C","472","N","N"," "," ","m≤´d∞","MS",76
+"meadow","NY28A","473a","N","N"," ","CNV","Âm≤´doΩ{πº}","MS",77
+"swale","NY28A","473a","N","Y","diff. from marsh: kind of ditch in meadow","INA","sweΩ∫{∞}Ï","MS",77
+"meadow","NY28B","473b(*)","N","N","level land"," ","m≤´d∞ó{πø}","MS",78
+"swale","NY28B","473b(*)","N","Y","not on our farm","SUG/HRD/INA","swèeΩ∫±øÏ","MS",78
+"NA","NY28C","473bX"," ","N"," "," "," ","MS",79
+"swale","NY29A","474a","N","Y","can't depend on the crop","INA","swèe∫{±ø}Ï","MS",80
+"meadow","NY29A","474a","N","N"," "," ","m≤d∞ó","MS",80
+"hayfield","NY29B","474b","N","N"," "," ","ÂheΩ∫{±ø}ıfi∫Ï","MS",81
+"meadow","NY29B","474b","N","N"," "," ","Âm≤´doº{πº}","MS",81
+"swale","NY29B","474b","N","Y","no trees, lilies, etc: about like a swamp","SUG/INA","swèeΩ∫±øÏ","MS",81
+"swale","NY29C","474c","N","Y","very wet","INA","swèeΩ∫±øÏ","MS",82
+"meadow","NY29C","474c","N","N"," "," ","Âm≤´d∞ó","MS",82
+" ","NY30A","475a"," "," ","can't cross with a team","RN2"," ","MS",83
+"meadow","NY30A","475a","N","N"," "," ","Âm≤´doº{πº}","MS",83
+"swale","NY30A","475a","N","Y","no timber; water stands biggest part of the time:","RN1/INA","swèeΩ{±ø}Ï","MS",83
+"swale","NY30B","475b","N","Y","always water","INA","swèe∫{±ø}Ï","MS",84
+"meadow","NY30B","475b","N","N"," "," ","Âm≤doº{πº}","MS",84
+"swaley","NY30B","475b","A","Y","= very wet","INA","swe∫{±ø}lç±´æ","MS",84
+"meadow","NY30C","475c","N","N","high land"," ","m≤doº{πº}","MS",85
+"beaver meadow","NY30C","475c","O","N"," "," ","bi∫v∞é$m≤´doº{πº}","MS",85
+"beaver meadow","NY30C","475c","O","N"," "," ","bi∫v¥$m≤´doº{πº}","MS",85
+"swale","NY30C","475c","N","Y","= marsh","INA","swèeΩ∫Ï","MS",85
+"meadow","NY30D","475d","N","N","cut grass off"," ","m≤´doø{πøæ}","MS",86
+"swale","NY30D","475d","N","Y","""can wash out¢","INA","swèeΩ{±ø}Ï","MS",86
+"beaver meadow","NY30D","475d","O","N"," "," ","Âbi∫v¥$ım≤´doøº{πø}","MS",86
+"swale","NY30E","475e","N","Y","wet; wild grass","INA","swèe∫{±ø}Ï","MS",87
+"meadow","NY30E","475e","N","N"," "," ","m≤doº{πº}","MS",87
+"meadow","NY31A","478a","N","N","plowed for hay"," ","m≤´d∞ó{πø}","MS",88
+"swale","NY31A","478a","N","Y","too wet to be tillable; [{±ø}]: doubtful","FDT/INA","swèe∫{±ø}Ï","MS",88
+"meadows","NY31B","478b","N","N"," "," ","m≤´d∞´z","MS",89
+"greensward","NY31B","478b","N","Y","grandfather's term","OLD","gÚáiΩinsw∑Ω¥d","MS",89
+"swale","NY31B","478b","N","Y","small; grass","HRD/INA","swèeΩ±øÏñ","MS",89
+"pond holes","NY31B","478b","O","Y","small; grass","HRD/INA","Âpµn$ıhoΩºπºÏz","MS",89
+"swale","NY32A","479a","N","Y","smaller than swamp","INA","swèeΩ∫{±ø}Ï","MS",90
+"meadow land","NY32A","479a","O","N"," "," ","Âm≤´d∞$ıl·∫{∞}n","MS",90
+"meadow","NY32B","479b","N","N"," ","CNV","m≤´d∞ó{πø}","MS",91
+"swale","NY32B","479b","N","Y","some call a swamp `swale'","HRD/INA","swè≤´∫{±ø}Ï","MS",91
+"swale grass","NY32B","479b","O","Y","in a long thin strip","INA","ÂswèeΩ∫{±ø}Ï$ıgÚá·s","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"NA","NY33B","481"," ","N"," "," "," ","MS",93
+"meadow","NY33C","482","N","N"," "," ","m≤´doº{πº}","MS",94
+"beaver meadow","NY33C","482","O","N"," "," ","biΩiv¥$m≤´doº{πº}","MS",94
+"swale","NY33C","482","N","Y","grass grows","INA","swèeΩ∫{±ø}Ïñ","MS",94
+"swale","NY34A","483","N","Y"," ","INA","sweΩ∫Ï","MS",95
+"meadow","NY34A","483","N","N","when green"," ","m≤´d∞ó{πø}","MS",95
+"hayfield","NY34A","483","N","N"," "," ","Âhe∫{±ø}ıfiΩiÏ","MS",95
+"NA","NY34B","484"," ","N"," "," "," ","MS",96
+"meadow","NY34C","485","N","N"," "," ","m≤´doΩºπº","MS",97
+"swale","NY34C","485","N","Y","like swamp, but less vegetation","INA","swèeΩ∫{±ø}Ï","MS",97
+"meadow","NY34D!","486!","N","N"," "," ","m≤´doøπº","MS",98
+"meadow","NY35A","487","N","N"," "," ","m≤d∞","MS",99
+"swale","NY35A","487","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",99
+"meadow","NY35B","488","N","N"," "," ","m≤do{πΩ}","MS",100
+"swale hole","NY35B","488","O","Y"," ","INA","sweæ{±ø}{∞}Ï$ho{π}Ï","MS",100
+"swale","NY35C!","489!","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",101
+"hayfield","NY35C!","489!","N","N"," "," ","Âhe±øıfi∫{∞}Ïd","MS",101
+"meadow","NY36A","491","N","N"," "," ","m≤d∞","MS",102
+"swale","NY36A","491","N","Y"," ","INA","sweæ∫{±øΩ}{∞}Ï","MS",102
+"swale","NY36B","492","N","Y"," ","INA","sweΩ∫{±øΩ}Ï","MS",103
+"meadow","NY36B","492","N","N","up"," ","m≤d∞","MS",103
+"swale","NY37A","493","N","Y"," ","INA","sweæ{±ø}{∞}Ï","MS",104
+"meadow","NY37A","493","N","N","up"," ","m≤doπ","MS",104
+"swale","NY37B","494","N","Y"," ","INA","sweæ{±ø}{∞}Ï","MS",105
+"meadow","NY37B","494","N","N"," "," ","m≤do{π}","MS",105
+"hayfield","NY37C!","495!","N","N"," "," ","he∫{±ø}ıfi∫{∞}Ïd","MS",106
+"meadow","NY38A","497(*)","N","N"," "," ","m≤d∞","MS",107
+"swale","NY38A","497(*)","N","Y"," ","INA","sweæ∫{±ø}{∞}Ï","MS",107
+"swale","NY38B","498","N","Y"," ","INA","sweæ∫{±øΩ}{∞}Ï","MS",108
+"meadow","NY38B","498","N","N"," "," ","m≤do{π}","MS",108
+"meadow","NY38C","497X","N","N"," "," ","m≤doº{π}","MS",109
+"swale","NY38C","497X","N","Y"," ","INA","swe{±øΩ}Ï","MS",109
+"meadow","NY39A","499","N","N","up"," ","m≤d∞","MS",110
+"swale","NY39A","499","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",110
+"meadow","NY39B","500","N","N"," "," ","m≤do{π}","MS",111
+"swale","NY39B","500","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",111
+"meadow","NY40A","501","N","N"," "," ","m≤doº{π}","MS",112
+"swale","NY40A","501","N","Y"," ","INA","sweæ{±ø}{∞}Ï","MS",112
+"swale","NY40B","502","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",113
+"meadow","NY40B","502","N","N","upland"," ","m≤do{π}","MS",113
+"swale","NY41","504","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",114
+"meadow","NY41","504","N","N"," "," ","m≤do{π}","MS",114
+"swale","NY42A","505","N","Y"," ","INA","swe∫{±ø}{∞}Ï","MS",115
+"meadow","NY42A","505","N","N"," "," ","m≤do{π}","MS",115
+"meadow","NY42B","506","N","N"," "," ","Âm≤doΩ{πΩ}","MS",116
+"swale","NY43A","507","N","Y"," ","INA","swe∫{±øΩ}{∞}Ï","MS",117
+"meadow","NY43A","507","N","N"," "," ","m≤d¥","MS",117
+"swale","NY43B","507b","N","Y"," ","INA","sweæ{±øΩ}{∞}Ï","MS",118
+"meadow","NY43B","507b","N","N"," "," ","m≤do{π}","MS",118
+"hayfield","NY43C!","508!","N","N"," "," ","Âh≤´±øıfi∫{∞}Ïd","MS",119
+"swale","NY43C!","508!","N","Y"," ","SUG/HRD/INA","sweΩ±ø{∞}Ï","MS",119
+"swale","NY44A","511","N","Y"," ","INA","swe{±ø}{∞}Ï","MS",120
+"meadow","NY44A","511","N","N"," "," ","m≤do{π}","MS",120
+"meadow","NY44B","512","N","N"," "," ","m≤do{π}","MS",121
+"swale","NY44B","512","N","Y"," ","INA","swe±ø{∞}Ï","MS",121
+"meadow","NY45A","513a","N","N"," "," ","m≤´d∞ó{πø}","MS",122
+"swale","NY45B","513b","N","Y","cattails","INA","swèeΩ∫Ï","MS",123
+"meadow","NY45B","513b","N","N"," "," ","m≤´d∞ó{w}","MS",123
+"meadow","NY45C","513c","N","N","hay on or off"," ","m≤´d∞ó{w}","MS",124
+"hayfield","NY45C","513c","N","N"," "," ","ÂheΩ{±ø}ıfiΩiÏ","MS",124
+"hay land","NY45C","513c","O","N"," "," ","ÂheΩ±ø$ıl·∫{∞}n","MS",124
+"swale","NY45D!","513d!","N","Y","not too sure","SUG/HRD/INA","swèeΩ±øÏ","MS",125
+"hay meadows","NY45D!","513d!","O","N"," "," ","ÂheΩ±ø$ım≤´d∞ó{πø}z","MS",125
+"meadow","NY46A","515a","N","N","where hay is"," ","m≤´d∞ó","MS",126
+"swale","NY46A","515a","N","Y"," ","INA","swèeΩ∫Ï","MS",126
+"swale grass","NY46A","515a","O","Y"," ","INA","ÂswèeΩ∫Ï$gÚá·s","MS",126
+"meadows","NY46B","515b","N","N"," "," ","m≤d¥z","MS",127
+"meadow","NY46C","515c","N","N"," "," ","m≤do›{π}","MS",128
+"meadows","NY47A","517(*)","N","N"," "," ","m≤´d∞óz","MS",129
+"hayfields","NY47A","517(*)","N","N"," "," ","ÂheΩ±øıfiΩiÏz","MS",129
+"prairie","NY47A","517(*)","N","Y","not local?","AUX/CNV","pr≤é¥±´æ","MS",129
+"meadow","NY47A","517(*)","N","Y"," ","AUX","m≤ΩdoΩ{πΩ}","MS",129
+"swale","NY47A","517(*)","N","Y","[{±ø}]: doubtful; grass","FDT/INA","swe∫{±ø}Ï","MS",129
+"swale","NY47B","518","N","Y"," ","INA","sweΩ{±ø}{∞}Ï","MS",130
+"meadow","NY47B","518","N","N"," "," ","m≤d∞","MS",130
+"swale","NY48A","519a","N","Y"," ","INA","sweΩ±øÏ","MS",131
+"meadow","NY48A","519a","N","N"," "," ","m≤´d∞ó{πø}","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"meadow","NY48C","519c","N","N","for hay"," ","m≤´d∞ó{πø}","MS",133
+"marshy","NY48C","519c","A","Y"," ","INA","Âmµé¥Û±øº","MS",133
+"swale hole","NY48C","519c","O","Y"," ","INA","ÂswèeΩ{±ø}Ï$ıhoΩºπºÏ","MS",133
+"swale","NY48C","519c","N","Y","""marshy, low¢, not as wet as swamp; ""grass¢","INA","swèeΩ±øÏ","MS",133
+"low","NY48C","519c","A","Y"," ","INA","ÏoΩºπº","MS",133
+"grass","NY48C","519c","N","Y"," ","INA","grá·s","MS",133
+"meadow","NY48D","519d","N","N"," "," ","m≤d∞ó{πø}","MS",134
+"swale","NY48D","519d","N","Y"," ","INA","swèeΩ±øÏ","MS",134
+"swale grass","NY48D","519d","O","Y"," ","INA","ÂswèeΩ±øÏ$ıgÚá·∫s","MS",134
+"swale","NY49A","520","N","Y","wet, low place; no trees","SUG/INA","swèe∫±øºÏ","MS",135
+"meadow","NY49A","520","N","N"," "," ","Âm≤´d∞","MS",135
+"swale","NY49B","521","N","Y"," ","INA","sweΩ{±øΩ}{∞}Ï","MS",136
+"hayfield","NY49B","521","N","N"," "," ","he∫{±ø}fi∫{∞}Ïd","MS",136
+"meadow","NY49C","522a","N","N","= pasture"," ","Âm≤do{π}","MS",137
+"meadow","NY49C","522a","N","N","= pasture"," ","Âm≤´doº{πº}","MS",137
+"hayfield","NY49C","522a","N","N"," "," ","Âhe{±ø}ıfi{i´}Ïd","MS",137
+"meadow","NY49D","522b","N","N"," "," ","Âm≤doº{πº}","MS",138
+"meadow","NY50A","523","N","Y","natural","SUG","Âm≤´d∞ó{πø}","MS",139
+"hayfield","NY50A","523","N","N"," "," ","ÂheΩ±øıfiΩiÏd","MS",139
+"swale","NY50A","523","N","Y"," ","INA","swèeΩ±øºÏ","MS",139
+"meadow land","NY50B","524","O","N","low or high"," ","Âm≤´d∞ó{πø}$ıl·´∫n","MS",140
+"swale","NY50B","524","N","Y","low and wet, not always under water","INA","swè≤´∫±øÏñ","MS",140
+"meadows","NY51A","525a","N","Y","[{πø}]: doubtful","FDT","Âm≤´d∞ó{πø}z","MS",141
+"swales","NY51A","525a","N","Y","low; can be drained","INA","sweΩ∫±øÏz","MS",141
+"swale","NY51B","525b","N","Y"," ","INA","swèe∫{±ø}Ï","MS",142
+"meadow","NY51B","525b","N","N","some used for low land"," ","m≤´d∞ó{πø}","MS",142
+"swale","NY51C","525c","N","Y","wet spots you couldn't plow","INA","swèeΩ{±ø}Ïñ","MS",143
+"meadow","NY51C","525c","N","N","for hay"," ","m≤´doø{πæ}","MS",143
+"meadow","NY51D","525d","N","N"," ","CNV","m≤´d∞ó","MS",144
+"hay lot","NY51E!","525e!","O","N"," "," ","ÂheΩ±ø$ılµt","MS",145
+"meadow","NY51E!","525e!","N","N","not necessarily low"," ","m≤d∞óæ{πø}","MS",145
+"swale","NY51E!","525e!","N","Y","moist","SUG/INA","swè≤´∫±øÏ","MS",145
+"meadows","NY52A","527","N","N"," "," ","m≤´doø{πº}z","MS",146
+"off of it","NY52A","527","Q","Y"," ","INA","∑Ωf$nñ$±øt","MS",146
+"swale","NY52A","527","N","Y","dries out; cut hay ""off of it¢","INA","swèeΩ∫{±ø}Ï","MS",146
+"down in the swale","NY52B","528","Q","Y","wet in spring, not so wet later","INA","d•πn$±øΩn$‰∞$ÂswèeΩ±øÏ","MS",147
+"meadow","NY52B","528","N","N"," "," ","m≤d∞ó","MS",147
+"meadow","NY52C","528b","N","Y","rare","SUG","Âm≤do›ºπ›º","MS",148
+"hayfield","NY52C","528b","N","N"," "," ","Âhe±øıfi∫Ïd","MS",148
+"grassland","NY53A","529","N","N","same as `meadow'"," ","ÂgÚá·sılè·∫{∞}n","MS",149
+"meadow","NY53A","529","N","Y","same as `grassland'","SUG","m≤d∞ó{πø}","MS",149
+"swale","NY53A","529","N","Y","higher land than swamp","SUG/INA","swèeΩ∫{±ø}Ï","MS",149
+"meadow","NY53B!","530!","N","N"," "," ","m≤´doº{πº}","MS",150
+"meadows","NY53B!","530!","N","N"," ","CNV","m≤´doΩºπºz","MS",150
+"swale","NY53B!","530!","N","Y"," ","SUG/HRD/INA","sweΩ±øÏ","MS",150
+"hay","NY54A","531","N","Y"," ","INA","he{±ø}","MS",151
+"hayfield","NY54B","532","N","N"," "," ","Âhe±øıfi∫Ï{d}","MS",152
+"meadow","NY55A","533","N","N","low or high"," ","m≤´d∞ó{w}","MS",153
+"prairie","NY55A","533","N","N","Texas","CNV","prèeΩ∫¥±´æ","MS",153
+"swale grass","NY55A","533","O","Y"," ","INA","ÂswèeΩ{±ø}Ï$ıgrá·s","MS",153
+"swales","NY55B","534","N","Y","not sure of definition","SUG/HRD/DBT","sweΩ∫±øÏz","MS",154
+"meadow land","NY55B","534","O","N","not always low-lying"," ","Âm≤´d∞ó{πø}$ıl·´∫{∞}n","MS",154
+"swale","NY56A","535","N","Y"," ","INA","sweΩ{±ø}Ï","MS",155
+"swale grass","NY56A","535","O","Y"," ","INA","ÂsweΩ{±ø}Ï$ıgÚá·{∞}s","MS",155
+"meadow","NY56A","535","N","N"," "," ","m≤´doº{πº}","MS",155
+"swale grass","NY56B","536","O","Y"," ","INA","ÂswèeΩ∫{±ø}Ï$ıgÚá·s","MS",156
+"meadows","NY56B","536","N","N","""flat land¢ or ""rolling land¢"," ","m≤´doº{πº}z","MS",156
+"rolling land","NY56B","536","O","Y"," ","INA","Úo∫πºÏ±øn$l·Ωænd","MS",156
+"meadow","NY57A","537a","N","N"," "," ","m≤´doº{πº}","MS",157
+"meadow","NY57A","537a","N","N"," "," ","m≤´d∞","MS",157
+"hayfield","NY57A","537a","N","N"," "," ","ÂheΩ±øıfiΩiÏd","MS",157
+"swale","NY57A","537a","N","Y","smaller [than swamp]","INA","sweΩÏ","MS",157
+"meadow","NY57B","537b","N","N"," "," ","m≤doº{πº}","MS",158
+"swale","NY57B","537b","N","Y","not tillable; low, near stream","INA","sweΩ∫{±ø}Ï","MS",158
+"swale grass","NY57B","537b","O","Y"," ","INA/CNV","ÂsweΩ∫Ï$ıgÚ·s","MS",158
+"hayfield","NY57C!","537c!","N","N"," "," ","Âhe∫{±ø}ıfi∫Ïd","MS",159
+"meadow","NY57C!","537c!","N","Y"," ","SUG","m≤doº{πº}","MS",159
+"swale","NY58A","539a","N","Y","bullrushes","INA","sweΩ{±ø}Ï","MS",160
+"meadow","NY58A","539a","N","N"," "," ","Âm≤´d∞ó{πø}","MS",160
+"meadow","NY58B","539b","N","N"," "," ","m≤´doº{πº}","MS",161
+"prairies","NY58B","539b","N","N","not local","CNV","p`∞›ÂreΩ¥±øºz","MS",161
+"swale","NY58B","539b","N","Y","low, alongside stream","INA","sweΩ∫±ø{∞}Ï","MS",161
+"prairies","NY58B","539b","N","N","not local","CNV","pÚè≤∫¥±øz","MS",161
+"swale","NY58C","539c","N","Y","under water much of year","INA","swèeΩ±øÏ","MS",162
+"meadow","NY58C","539c","N","N"," "," ","m≤´doº{πº}","MS",162
+"swale","NY58D!","539d!","N","Y","cattails","INA","sweΩ±øÏ","MS",163
+"meadow","NY58D!","539d!","N","N"," "," ","m≤´doº{πº}","MS",163
+"meadow","NY58E!","539e!","N","Y"," ","SUG","m≤doø{πº}","MS",164
+"meadow","NY58F!","539f!","N","N"," ","CNV","m≤´doº{πº}","MS",165
+"meadow","NY59A","543","N","N"," "," ","m≤´d∞ó{πø}","MS",166
+"meadow","NY59B","544","N","N"," "," ","m≤do›Ωπ›Ω","MS",167
+"swale","NY60A","545","N","Y","swampy land","INA","swèeΩ{±ø}Ï","MS",168
+"meadow","NY60A","545","N","N"," "," ","m≤´d∞ó{πø}","MS",168
+"hay lot","NY60B!","546!","O","N"," "," ","ÂheΩ{±ø}$ılµt","MS",169
+"swaley spot","NY60B!","546!","O","Y"," ","INA/CNV","ÂswèeΩ{±ø}lç±´æ$ıspµt","MS",169
+"swale","NY60B!","546!","N","Y","low-growing water plants, along canal","INA","sweΩ∫{±ø}Ï","MS",169
+"meadow","NY60B!","546!","N","N","part of pasture, not good to plow"," ","m≤d∞ó{πø}","MS",169
+"meadow","NY61A","547","N","N","where [water] stands 2--3 years"," ","m≤d∞ó{w}","MS",170
+"hayfield","NY61A","547","N","N","following word began with /d/"," ","ÂheΩ{±ø}ıfi∫l","MS",170
+"grass bottom","NY61A","547","O","N"," "," ","Âgrá·s$ıbµtê∞´m","MS",170
+"meadow","NY61B","548","N","N","low or high"," ","m≤´d∞ó´{w}","MS",171
+"meadow","NY61B","548","N","N","low or high","CNV","m≤´d∞ó´{πø}","MS",171
+"swale","NY61B","548","N","Y","cattails","INA","swè≤´±øÏ","MS",171
+"swale","NY62A","551a","N","Y","unfamiliar","SUG/HRD/INA","swe∫{±ø}Ï","MS",172
+"meadow","NY62A","551a","N","N","good grass"," ","m≤´d∞ó","MS",172
+"swale","NY62B","551b","N","Y","buttercups","INA","séwèeΩ∫{±ø}Ï","MS",173
+"meadow","NY62B","551b","N","N","not necessarily low"," ","m≤´doø{πøæ}","MS",173
+"meadow","NY62C","551c","N","N"," "," ","m≤´doº∫{πº}","MS",174
+"meadows","NY62D!","551d!","N","N"," "," ","m≤´d∞óz","MS",175
+"swale","NY62D!","551d!","N","Y","low strip; could be farmed","INA","swèeΩ∫{±ø}Ï","MS",175
+"meadow","NY63A","556a","N","N"," "," ","m≤´d∞ó","MS",176
+"swale","NY63A","556a","N","Y","smaller than swamp","INA","swèeΩ∫{±ø}Ï","MS",176
+"swale hole","NY63A","556a","O","Y"," ","INA","ÂswèeΩ±øÏ$ıhoºπºÏ","MS",176
+"meadows","NY63B","556b","N","N","in grass"," ","m≥ºd∞óz","MS",177
+"swale","NY63B","556b","N","Y","= `slough hole'; very wet","SUG/INA","sweΩ∫{±ø}Ï","MS",177
+"slough hole","NY63B","556b","O","Y","= `swale'; very wet","INA","ÂsÏèuΩº∫u$ıhoº∫{πº}Ï","MS",177
+"swale","NY63C","556c","N","Y"," ","INA","sweΩ±ø{∞}Ï","MS",178
+"meadow","NY63C","556c","N","N"," "," ","m≤d∞","MS",178
+"swale","NY63D!","556d!","N","Y","smaller than meadow; very wet, occ. dried","INA","swèeΩ∫{±ø}Ïñ","MS",179
+"meadow","NY63D!","556d!","N","N","(or pasture"," ","Âm≤´d∞ó{w}","MS",179
+"meadow","NY64A","557a","N","N"," "," ","m≤´d∞ó","MS",180
+"swales","NY64A","557a","N","Y"," ","SUG/HRD/INA","swe∫{±ø}Ïz","MS",180
+"hayfield","NY64B","557b","N","N"," "," ","Âhe∫{±}ıfi∫Ï","MS",181
+"swale","NY64B","557b","N","Y"," ","INA","swè≤´∫±øÏ","MS",181
+"hayfield","NY64C!","557c!","N","N","[Ï]: strongly velarized"," ","ÂheΩ∫{±ø}ıfi∫Ï","MS",182
+"meadow","NY64C!","557c!","N","N","= pasture"," ","m≤´d∞ó{πø}","MS",182
+"NR","NJ1A","1"," ","N"," "," "," ","MS",183
+"NR","NJ1B","2"," ","N"," "," "," ","MS",184
+"meadow","NJ2A","3(*)","N","N","salt or fresh"," ","m≤d¥","MS",185
+"meadow","NJ2B","4","N","N"," "," ","m≤d∞","MS",186
+"meadow","NJ3A","5","N","N"," "," ","m≤´d∞","MS",187
+"meadow","NJ3B","6","N","N"," "," ","m≤d∞","MS",188
+"meadow","NJ4A","7","N","N"," "," ","m≤´d∞","MS",189
+"meadow","NJ4B","8","N","N"," "," ","m≤d∞","MS",190
+"meadow","NJ5A","9","N","N"," "," ","m≤d¥","MS",191
+"meadow","NJ5B","10","N","N"," "," ","m≤d∞","MS",192
+"field","NJ6A","11","N","N","fresh water"," ","fi∫Ïd","MS",193
+"NR","NJ6B","12"," ","N"," "," "," ","MS",194
+"meadow","NJ7A","17","N","N"," "," ","m≤d∞","MS",195
+"meadow","NJ7B!","18!","N","N"," "," ","Âm≤do›Ωºπ›","MS",196
+"cripple","NJ8A","19","N","Y","= swale","INA","kr±pÏ","MS",197
+"cripple","NJ8B","20","N","Y","= swale","INA","kr±pÏ","MS",198
+"meadow","NJ9A","21","N","N","tillable"," ","m≤doΩºπ","MS",199
+"meadow","NJ9B","22","N","N"," "," ","m≤d∞","MS",200
+"hayfield","NJ10A","24b","N","N"," "," ","h≤´±ø´fi∫{∞}Ï{d}","MS",201
+"meadow","NJ10B","23","N","N"," "," ","m≤d∞","MS",202
+"meadow","NJ10C","24","N","N","tillable"," ","m≤d∞","MS",203
+"meadow","NJ10D!","24c!","N","N","low"," ","m≤doΩºπ","MS",204
+"field","NJ10D!","24c!","N","N","high"," ","fi∫Ïd","MS",204
+"meadow","NJ11A","25","N","N"," "," ","m≤d∞","MS",205
+"meadow","NJ11B","26a","N","N"," "," ","m≤doîºπ","MS",206
+"hayfield","NJ11C","26b","N","N","high"," ","h≤±øfiΩ{i}Ïd","MS",207
+"meadow","NJ11C","26b","N","N","low, for pasture"," ","m≤d∞","MS",207
+"meadow","NJ12A","27","N","N"," "," ","m≤d∞","MS",208
+"meadow","NJ12B","28","N","N"," "," ","m≤d∞","MS",209
+"meadow","NJ13A","29","N","N"," "," ","m≤d¥","MS",210
+"meadow","NJ13B","30","N","N"," "," ","m≤d∞","MS",211
+"meadow","NJ14A","31","N","N"," "," ","m≤d∞","MS",212
+"meadow","NJ14B","32","N","N"," "," ","m≤d∞","MS",213
+"meadow","NJ15A","33","N","N"," "," ","m≤doΩºπ","MS",214
+"swale","NJ15A","33","N","Y"," ","INA","sw≤±ø{∞}Ï","MS",214
+"meadow","NJ15B","34","N","N"," "," ","m≤d∞","MS",215
+"swale","NJ15B","34","N","Y"," ","INA","sw≤±ø{∞}Ï","MS",215
+"meadow ground","NJ16A","35","O","N"," "," ","m≤d¥$gra´∫πn{d}","MS",216
+"meadow","NJ16B","36","N","N"," "," ","m≤ædo´ºπ","MS",217
+"swale","NJ16B","36","N","Y","in a meadow","INA","sw≤±ø{∞}Ï","MS",217
+"slank","NJ16B","36","N","Y","overflowed land","INA","sl·Ók","MS",217
+"meadows","NJ17A","37","N","N"," "," ","m≤d∞z","MS",218
+"meadow","NJ17B","38","N","N"," "," ","m≤do›ºπ›","MS",219
+"meadow","NJ18A","41","N","N","also local term for salt marsh"," ","m≤ædoΩºπ","MS",220
+"meadow","NJ18B","42","N","N","also traditional local term for marsh"," ","m≤doΩºπ","MS",221
+"hayfield","NJ18C!","43!","N","N"," "," ","Âhe±øıfi∫Ïd","MS",222
+"meadow","NJ18C!","43!","N","N","rare; also local term for marsh"," ","m≤doΩºπ","MS",222
+"meadow","NJ18D!","44!","N","N"," "," ","m≤doΩºπ","MS",223
+"hayfield","NJ19A","45","N","N"," "," ","Âhe±øıfi∫Ïd","MS",224
+"hayfield","NJ19B!","46!","N","N"," "," ","ÂheΩ±øıfi∫{∞}Ïd","MS",225
+"vly","NJ20A","47","N","Y","Dutch [borrowing]","INA","vl·Ω±ø","MS",226
+"meadow","NJ20A","47","N","N"," "," ","m≤do›ºπ›","MS",226
+"NR","NJ20B","47b"," ","N"," "," "," ","MS",227
+"meadow","NJ21A","48","N","N","low or high, for hay"," ","m≤doπ","MS",228
+"meadow","NJ21B","49","N","N"," "," ","m≤doΩºπ","MS",229
+"meadow","PA1A","51","N","N"," "," ","m≤d∞","MS",230
+"meadow","PA1B","52","N","N"," "," ","m≤Ωdo›Ωºπ›","MS",231
+"meadow","PA1C","53","N","N"," "," ","m≤d∞","MS",232
+"meadow","PA1D","54","N","N"," "," ","m≤d∑›´ºπ›","MS",233
+"meadow","PA1E!","55!","N","N","rare"," ","m≤doΩπ","MS",234
+"swale","PA1E!","55!","N","Y","may have learned this in NY State","INA","sw≤æ±øÏ","MS",234
+"meadow","PA1F!","56!","N","N"," "," ","m≤d∞","MS",235
+"meadow","PA1G!","57!","N","N"," "," ","m≤doº{π}","MS",236
+"swale","PA1G!","57!","N","Y","in earlier deeds, not used now","OLD/INA","sw≤±øÏ","MS",236
+"cripple","PA1G!","57!","N","Y","in earlier deeds, not used now","OLD","kr±pÏ","MS",236
+"meadow","PA1H!","58!","N","N","low"," ","m≤doΩºπ","MS",237
+"meadow","PA2A","59","N","N"," "," ","m≤d∞","MS",238
+"meadow","PA2B","60","N","N"," "," ","m≤d∑´π","MS",239
+"meadow","PA3A","61","N","N"," "," ","m≤d∞","MS",240
+"meadow","PA3B","62","N","N"," "," ","m≤d∑›´ºπ›","MS",241
+"meadow","PA3C","62b","N","N"," "," ","m≤d∞","MS",242
+"meadow","PA4A","63","N","N"," "," ","m≤d∞","MS",243
+"meadow","PA4B!","64!","N","N"," "," ","m≤d∞","MS",244
+"meadow","PA5A","65(*)","N","N"," "," ","m≤d∞","MS",245
+"meadow","PA5B","65b","N","N"," "," ","m≤d∞","MS",246
+"meadow","PA5C","66","N","N"," "," ","m≤do›Ωºπ›","MS",247
+"meadow","PA5D","67","N","N"," "," ","m≤æd∞","MS",248
+"meadow","PA5E!","68!","N","N"," "," ","m≤d∞","MS",249
+"meadow","PA6A","69","N","N"," "," ","m≤dèo∫","MS",250
+"meadow","PA6B","71","N","N"," "," ","m≤d∞","MS",251
+"meadow","PA6C","71b","N","N"," "," ","m≤d∞","MS",252
+"meadow","PA6D!","72!","N","N"," "," ","m≤d∞","MS",253
+"meadow","PA7A","73","N","N"," "," ","m≤d∞","MS",254
+"meadow","PA7B","74","N","N"," "," ","m≤d∞","MS",255
+"meadow","PA7C","75","N","N"," "," ","m≤d∞","MS",256
+"meadow","PA7D!","76!","N","N"," "," ","m≤d∞","MS",257
+"meadow","PA8A","77","N","N"," "," ","m≤d∞","MS",258
+"meadow","PA8B","78","N","N"," "," ","m≤d∞","MS",259
+"meadow","PA8C","79","N","N"," "," ","m≤dè∞","MS",260
+"meadow","PA8D!","80!","N","N"," "," ","m≤do∫","MS",261
+"meadow","PA9A","83","N","N"," "," ","m≤d∞","MS",262
+"meadow","PA9B","83b","N","N"," "," ","m≤d∞","MS",263
+"meadow","PA9C!","84!","N","N"," "," ","m≤d∞","MS",264
+"meadow","PA10","87","N","N"," "," ","m≤d∞","MS",265
+"meadow","PA11A","89","N","N"," "," ","m≤d∞","MS",266
+"meadow","PA11B","90(*)","N","N"," "," ","m≤do{π}","MS",267
+"meadow","PA11B","90(*)","N","Y"," ","AUX","m≤{∞}d∞","MS",267
+"meadow","PA12A","91","N","N","low"," ","m≤d∞","MS",268
+"meadow","PA12B","92","N","N","low"," ","m≤d∞","MS",269
+"meadow","PA13A","93","N","N"," "," ","m≤d∞","MS",270
+"meadow","PA13B","94","N","N","low"," ","m≤d∞","MS",271
+"meadow","PA14A","95(*)","N","N"," "," ","m≤dèo∫","MS",272
+"meadow","PA14B","96","N","N"," "," ","m≤do{π}","MS",273
+"meadow","PA14C","95X","N","N"," "," ","m≤dè∞","MS",274
+"meadow","PA15A","99","N","N"," "," ","m≤d∞","MS",275
+"swale","PA15B","99b","N","Y","a wet upland","INA","sweΩ±ø{∞}Ï","MS",276
+"meadow","PA15B","99b","N","N"," "," ","m≤do›{π}","MS",276
+"meadow","PA15C!","100!","N","N"," "," ","m≤do›º","MS",277
+"meadow","PA16A","101","N","N"," "," ","m≤tío","MS",278
+"meadow","PA16B","102","N","N"," "," ","m≤do","MS",279
+"meadow","PA16C","103","N","N"," "," ","m≤do›Ω{π}","MS",280
+"meadow","PA17A","105","N","N"," "," ","m≤dèo∫","MS",281
+"meadow","PA17B","106","N","N"," "," ","m≤do∫","MS",282
+"meadow","PA18A","107","N","N"," "," ","m≤d∞","MS",283
+"meadow","PA18B!","108!","N","N"," "," ","m≤d∞","MS",284
+"swale","PA18B!","108!","N","Y","small valley, depression, bad drainage","SUG/INA","sweΩ±øÏ","MS",284
+"swale","PA19A","113","N","Y","small","INA","sweΩ±øÏ","MS",285
+"meadow","PA19A","113","N","N"," "," ","m≤doº{π}","MS",285
+"bog meadow","PA19B","114","O","N"," "," ","bµæg$m≤doº{π}","MS",286
+"swale","PA19B","114","N","Y"," ","INA","swe±øÏ","MS",286
+"swale","PA20A","115","N","Y"," ","INA","sweΩ±øÏ","MS",287
+"meadow","PA20A","115","N","N"," "," ","m≤d¥","MS",287
+"swale","PA20B","116","N","Y"," ","INA","sweæ±øÏ","MS",288
+"meadow","PA20B","116","N","N"," "," ","m≤doº{π}","MS",288
+"meadow","PA21A","117","N","N"," "," ","m≤d∞","MS",289
+"meadow","PA21B","118","N","N"," "," ","m≤d∞","MS",290
+"swale","PA21B","118","N","Y","between meadow and swamp","INA","sweæ{±ø}{∞}Ï","MS",290
+"meadow","PA22A","119","N","N"," "," ","m≤do›{π}","MS",291
+"swale","PA22A","119","N","Y"," ","INA","swe{±øº}Ï","MS",291
+"meadow","PA22B","120","N","N"," "," ","m≤doΩ{π}","MS",292
+"meadow","PA23A","121","N","N"," "," ","m≤Ωæd∞","MS",293
+"swale","PA23A","121","N","Y","leads to a swamp","INA","sweΩ∫{±øΩ}Ï","MS",293
+"meadow","PA23B","122","N","N"," "," ","m≤d∞","MS",294
+"swale","PA23B","122","N","Y","along a spring run","INA","swe{±ø}Ï","MS",294
+"swale","PA24A","123","N","Y"," ","INA","swe∫{±øΩ}{∞}Ï","MS",295
+"meadow","PA24A","123","N","N"," "," ","m≤do›{π}","MS",295
+"meadow","PA24B","124","N","N"," "," ","m≤d∞","MS",296
+"meadow","PA25A","125","N","N"," "," ","m≤dπ","MS",297
+"meadow","PA25B","126","N","N"," "," ","m≤d∞","MS",298
+"meadow","PA26A","127","N","N"," "," ","m≤d∞","MS",299
+"meadow","PA26B","128","N","N"," "," ","m≤d∞","MS",300
+"meadow","PA27A","131","N","N"," "," ","m≤doº{π}","MS",301
+"meadow","PA27B","132","N","N","up or low"," ","m≤doΩπ","MS",302
+"meadow","PA28A","135","N","N"," "," ","m≤d∞","MS",303
+"meadow","PA28B!","136!","N","N"," "," ","m≤do›Ωºπ›","MS",304
+"meadow","PA29A","139(*)","N","N"," "," ","m≤d∞","MS",305
+"meadow","PA29B","140","N","N"," "," ","m≤d∞","MS",306
+"meadow","PA30A","143","N","N","low or up"," ","m≤do›º{π}","MS",307
+"meadow","PA30B","144","N","N","low or up"," ","m≤doº{π}","MS",308
+"meadow","PA31A","145","N","N"," "," ","m≤d∞","MS",309
+"swale","PA31B","146","N","Y","wet, in a field","INA","sweæ±ø{∞}Ï","MS",310
+"meadow","PA31B","146","N","N"," "," ","m≤dπ","MS",310
+"meadow","PA32A","147","N","N"," "," ","m≤d∞","MS",311
+"meadow","PA32B","148","N","N"," "," ","m≤d∞","MS",312
+"meadow","PA33A","151","N","N","up or low"," ","m≤d∞","MS",313
+"meadow","PA33B","152","N","N"," "," ","m≤d∞","MS",314
+"meadow","PA34A","155","N","N"," "," ","m≤d∞","MS",315
+"meadow","PA34B","156","N","N"," "," ","m≤d∞","MS",316
+"meadow","PA34C!","155b!","N","N"," "," ","m≤do›Ωºπ›","MS",317
+"meadow","PA35A","157","N","N"," "," ","m≤d∞","MS",318
+"meadow","PA35B","158(*)","N","N"," "," ","m≤d∞","MS",319
+"meadow","PA35C","158X","N","N"," "," ","m≤d∞","MS",320
+"meadow","PA36A","159","N","N"," "," ","m≤d∞","MS",321
+"meadow","PA36B","160","N","N"," "," ","m≤d∞","MS",322
+"meadow","PA37A","161(*)","N","N"," "," ","m≤do","MS",323
+"meadow","PA37B","162","N","N"," "," ","m≤dè∞","MS",324
+"meadow","PA37C","161X","N","N"," "," ","m≤dè∞","MS",325
+"meadow","PA38A","163","N","N"," "," ","m≤d∞","MS",326
+"meadow","PA38B","164","N","N"," "," ","m≤d∞","MS",327
+"meadow","PA39A","165","N","N"," "," ","m≤´æd∞","MS",328
+"meadow","PA39B","166","N","N"," "," ","m≤d∞","MS",329
+"meadow","PA40A","167","N","N"," "," ","m≤d∞","MS",330
+"meadow","PA40B","168","N","N"," "," ","m≤d∞","MS",331
+"meadow","PA41A","171","N","N"," "," ","m≤d∞","MS",332
+"meadow","PA41B","172","N","N"," "," ","m≤d∞","MS",333
+"meadow","PA42A","175","N","N"," "," ","m≤d∞","MS",334
+"meadow","PA42B","176","N","N"," "," ","m≤d∞","MS",335
+"meadow","PA43A","177","N","N"," "," ","m≤d∞","MS",336
+"meadow","PA43B","178","N","N"," "," ","m≤d∞","MS",337
+"meadow","PA44A","179","N","N"," "," ","m≤d∞","MS",338
+"meadow","PA44B","180","N","N"," "," ","m≤d∞","MS",339
+"meadow","PA45A","181","N","N"," "," ","m≤d∞","MS",340
+"meadow","PA45B","182","N","N"," "," ","m≤d∞","MS",341
+"meadow","PA46A","185","N","N"," "," ","m≤d∞","MS",342
+"meadow","PA46B","186","N","N"," "," ","m≤d∞","MS",343
+"meadow","PA47A","189","N","N"," "," ","m≤d¥","MS",344
+"meadow","PA47B","190","N","N"," "," ","m≤d∞","MS",345
+"meadow","PA48A","191","N","N","high or low"," ","m≤d∞","MS",346
+"meadow","PA48B","192","N","N","high or low"," ","m≤d∞","MS",347
+"meadow","PA48C","193","N","N"," "," ","m≤d∞","MS",348
+"meadow","PA49A","194","N","N"," "," ","m≤d∞","MS",349
+"meadow","PA49B","195","N","N"," "," ","m≤d∞","MS",350
+"meadow","PA50A","196","N","N"," "," ","m≤´æd∞","MS",351
+"meadow","PA50B","197","N","N"," "," ","m≤d∞","MS",352
+"meadow","PA50C!","198!","N","N"," "," ","m≤d∞","MS",353
+"meadow","PA51A","199","N","Y"," ","SUG","m≤d∞","MS",354
+"meadow","PA51B","200","N","N"," "," ","m≤d∞","MS",355
+"meadow","PA52A","201","N","N"," "," ","m≤æd∞","MS",356
+"meadow","PA52B!","202!","N","N"," "," ","m≤{∞}doΩº{π}","MS",357
+"meadow","PA53A","203","N","N"," "," ","m≤d∞","MS",358
+"NR","PA53B","204"," ","N"," "," "," ","MS",359
+"meadow","PA54A","205","N","N"," "," ","m≤d∞","MS",360
+"meadow","PA54B","206","N","N"," "," ","m≤d∞","MS",361
+"meadow","PA55A","207","N","N"," "," ","m≤d∞","MS",362
+"meadow","PA55B","208","N","N","low or high"," ","m≤d∞","MS",363
+"meadow","PA56A","211(*)","N","Y"," ","AUX","m≤d∞","MS",364
+"meadow","PA56A","211(*)","N","N"," "," ","m≤æd∞","MS",364
+"swale","PA56A","211(*)","N","Y","runs through field","INA","sw≤´±ø{∞}Ï","MS",364
+"meadow","PA56B","212","N","N"," "," ","m≤d∞","MS",365
+"meadow","PA57A","213","N","N"," "," ","m≤d∞","MS",366
+"meadow","PA57B","214","N","N"," "," ","m≤d∞","MS",367
+"meadow","PA58A","215","N","N"," "," ","m≤d∞","MS",368
+"meadow","PA58B","216","N","N"," "," ","m≤d∞","MS",369
+"meadow","PA59A","219","N","N"," "," ","m≤d∞","MS",370
+"meadow","PA59B","220","N","N"," "," ","m≤d∞","MS",371
+"meadow","PA60A","221","N","N"," "," ","m≤d∞","MS",372
+"meadow","PA60B","222","N","N"," "," ","m≤d∞","MS",373
+"meadow","PA61A","223","N","N"," "," ","m≤d∞","MS",374
+"meadow","PA61B","224","N","N"," "," ","m≤d∞","MS",375
+"meadow","PA62A","229","N","N"," "," ","m≤d∞","MS",376
+"meadow","PA62B","230","N","N","low"," ","m≤d∞","MS",377
+"meadow","PA63A","231","N","N"," "," ","m≤d∞","MS",378
+"meadow","PA63B","232","N","N"," "," ","m≤do{π}","MS",379
+"swale","PA64A","233","N","Y"," ","INA","swe±øÏ","MS",380
+"meadow","PA64A","233","N","N"," "," ","m≤´do›π›","MS",380
+"swale hole","PA64B","234","O","Y"," ","INA","sweΩ±øÏ$hoΩπÏ","MS",381
+"meadow","PA64B","234","N","N"," "," ","m≤do›π›","MS",381
+"meadow","PA65A","237","N","N"," "," ","m≤doΩ{π}","MS",382
+"meadow","PA65B","238","N","N"," "," ","m≤d∞","MS",383
+"swale","PA65B","238","N","Y","a cut through field; marshy","INA","sw≤´±ø{∞}Ï","MS",383
+"meadow","PA66A","239","N","N"," "," ","m≤æ{∞}d∞","MS",384
+"swale","PA66B","240","N","Y","wet cut","INA","sweΩ±ø{∞}Ï","MS",385
+"meadow","PA66B","240","N","N"," "," ","m≤dπ","MS",385
+"meadow","PA67A","243","N","N"," "," ","m≤d∞","MS",386
+"swale","PA67A","243","N","Y"," ","INA","sweΩ±ø{∞}Ï","MS",386
+"meadow","PA67B","244","N","N"," "," ","m≤d∞","MS",387
+"swale","PA67B","244","N","Y","in a field","INA","sweΩ±øÏ","MS",387
+"meadow","WV1!","88!","N","N"," "," ","m≤d∞","MS",388
+"meadow","WV2","89","N","N","same as `bottom'"," ","m≤d∞","MS",389
+"meadow","WV3","91","N","N","up or lowland"," ","m≤d¥","MS",390
+"meadow","WV4A","92","N","N","up or low"," ","m≤d¥","MS",391
+"meadow","WV4B","93","N","N","any grass, high or low"," ","m≤{∞}d∞","MS",392
+"meadow","WV5","94","N","N","low or upland"," ","m≤d¥","MS",393
+"meadow","WV6A","95","N","N","up or low"," ","m≤d¥","MS",394
+"meadow","WV6B","96","N","N","upland also"," ","m≤d∞","MS",395
+"meadow","WV7A","97","N","N"," "," ","m≤d∞","MS",396
+"meadow","WV7B","98","N","N","even upland; mowable"," ","m≤d∞","MS",397
+"meadow","WV8A","97b","N","N"," "," ","m≤d¥","MS",398
+"meadow","WV8B","98b","N","N"," "," ","m≤d∞","MS",399
+"meadow","WV9A","301","N","Y"," ","SUG","m≤d∞","MS",400
+"meadow","WV9B","302","N","N"," "," ","m≤d∞","MS",401
+"meadow","WV10A","303","N","N"," "," ","m≤d¥","MS",402
+"meadow","WV10B","303b","N","N"," "," ","m≤∫d¥","MS",403
+"meadow","WV10C","304","N","N"," "," ","m≤d∞","MS",404
+"meadow","WV11A","305","N","N"," "," ","m≤∫d∞","MS",405
+"meadow","WV11B!","306!","N","N"," "," ","m≤d∞","MS",406
+"meadow","WV12A","307","N","N"," "," ","m≤d∞","MS",407
+"meadow","WV12B","308","N","N"," "," ","m≤d∞","MS",408
+"meadow","WV13A","309","N","N"," "," ","m≤do{π}","MS",409
+"meadow","WV13B","310","N","N"," "," ","m≤d∞","MS",410
+"meadow","WV14A","311","N","N"," "," ","m≤d¥","MS",411
+"meadow","WV14B","312","N","N"," "," ","m≤æd∞","MS",412
+"meadow","WV15A","313","N","N"," "," ","m≤d∞","MS",413
+"meadow","WV15B","314","N","N"," "," ","m≤d∞","MS",414
+"meadow","WV16A","315","N","N"," "," ","m≤d¥","MS",415
+"meadow","WV16B","316","N","N"," "," ","m≤d∞","MS",416
+"meadow","WV17A","317","N","N"," "," ","m≤d¥","MS",417
+"meadow","WV17B","317b","N","N"," "," ","m≤d∞","MS",418
+"meadow","WV17C","318","N","N"," "," ","m≤d¥","MS",419
+"meadow","WV18A","319","N","N"," "," ","m≤d∞","MS",420
+"meadow","WV18B","320","N","N"," "," ","m≤d∞","MS",421
+"meadow","WV19A","321","N","N"," "," ","m≤d∞","MS",422
+"meadow","WV19B","322","N","N"," "," ","m≤d∞","MS",423
+"meadow","WV20A","323","N","N"," "," ","m≤∫d¥","MS",424
+"meadow","WV20B","324","N","N"," "," ","m≤d∞","MS",425
+"meadow","WV21A","325","N","N"," "," ","m≤d¥","MS",426
+"meadow","WV21B","326","N","N"," "," ","m≤d∞","MS",427
+"meadow","WV22A","327","N","N"," "," ","m≤d∞","MS",428
+"meadow","WV22B","328","N","N"," "," ","m≤{d}∞Ω","MS",429
+"meadow","WV23A","331","N","N"," "," ","m≤d∞","MS",430
+"meadow","WV23B","332","N","N"," "," ","m≤d∞","MS",431
+"meadow","WV24A","335","N","N"," "," ","m≤d¥","MS",432
+"meadow","WV24B","336","N","N"," "," ","m≤´{d}∞","MS",433
+"meadow","WV25A","337","N","N"," "," ","m≤d¥","MS",434
+"meadow","WV25B","338","N","N"," "," ","m≤d∞","MS",435
+"meadow","WV26A","339","N","N"," "," ","m≤d¥","MS",436
+"meadow","WV26B","340","N","N"," "," ","m≤d¥","MS",437
+"meadow","WV27A","341","N","N"," "," ","m≤d¥","MS",438
+"meadow","WV27B","342","N","N"," "," ","m≤d∞","MS",439
+"meadow","WV28A","343","N","N"," "," ","m≤d∞","MS",440
+"meadow","WV28B","344","N","N"," "," ","m≤d∞","MS",441
+"meadow","WV29A","345","N","N"," "," ","m≤d∞","MS",442
+"meadow","WV29B","346","N","N"," "," ","m≤d∞","MS",443
+"meadow","WV30A","347","N","N"," "," ","m≤d¥","MS",444
+"meadow","WV30B","348","N","N"," "," ","m≤d∞","MS",445
+"meadow","WV31A","349","N","Y"," ","SUG","m≤d¥","MS",446
+"meadow","WV31B","350","N","N"," "," ","m≤d∞é","MS",447
+"meadow","WV32A","353","N","N"," "," ","m≤d¥","MS",448
+"meadow","WV32B","354","N","N"," "," ","m≤d∞","MS",449
+"meadow","WV33A","355","N","N","hillside"," ","m≤d¥","MS",450
+"meadow","WV33B","356","N","N"," "," ","m≤´d∞","MS",451
+"meadow","WV34A","359","N","N"," "," ","m≤d¥","MS",452
+"meadow","WV34B","360","N","N"," "," ","m≤d∞","MS",453
+"meadow","WV35A","361","N","N"," "," ","m≤d¥","MS",454
+"meadow","WV35B","362","N","N"," "," ","m≤d∞","MS",455
+"meadow","WV36A","363","N","N"," "," ","m≤d¥","MS",456
+"meadow","WV36B","364","N","N"," "," ","m≤d∞","MS",457
+"meadow","WV37A","365","N","N"," "," ","m≤d∞","MS",458
+"meadow","WV37B!","366!","N","N"," "," ","m≤d∞","MS",459
+"meadow","WV38A","367","N","N"," "," ","m≤d¥","MS",460
+"meadow","WV38B","368","N","N"," "," ","m≤d∞","MS",461
+"meadow","WV39A","369","N","N"," "," ","m≤d∞","MS",462
+"meadow","WV39B","370","N","N"," "," ","m≤d∞","MS",463
+"meadow","WV39C!","371!","N","N"," "," ","m≤d∞","MS",464
+"meadow","WV40A","373","N","N"," "," ","m≤d¥","MS",465
+"meadow","WV40B","374","N","N"," "," ","m≤d¥","MS",466
+"meadow","WV41A","375","N","N"," "," ","m≤d¥","MS",467
+"meadow","WV41B","376","N","N"," "," ","m≤d¥","MS",468
+"meadow field","WV42A","377","O","N"," "," ","m≤d∞$fi∫{∞}Ïd","MS",469
+"meadow","WV42B","378","N","N"," "," ","m≤d∞","MS",470
+"meadow","WV43A","381","N","N"," "," ","m≤d∞","MS",471
+"meadow","WV43B","382","N","N"," "," ","m≤d∞","MS",472
+"meadow","WV44A","383","N","N"," "," ","m≤d∞","MS",473
+"meadow","WV44B","384","N","N"," "," ","m≤d∞","MS",474
+"meadow","WV45A","385","N","N"," "," ","m≤d∞","MS",475
+"meadow","WV45B","386","N","N"," "," ","m≤d∞","MS",476
+"meadow","WV46A","387","N","N"," "," ","m≤d¥","MS",477
+"meadow","WV46B","388","N","N"," "," ","m≤d∞","MS",478
+"meadow","WV47A","389","N","N"," "," ","m≤d∞","MS",479
+"meadow","WV47B","390","N","N"," "," ","m≤d¥","MS",480
+"meadow","WV48A","391","N","N"," "," ","m≤d∞","MS",481
+"meadow","WV48B","391b","N","N"," "," ","m≤d∞","MS",482
+"meadow","WV48C","392","N","N"," "," ","m≤d∞","MS",483
+"meadow","WV48D","392b","N","N"," "," ","m≤d∞","MS",484
+"meadow","WV49A","393","N","N"," "," ","m≤d¥","MS",485
+"meadow","WV49B","394","N","N"," "," ","m≤´d∞","MS",486
+"meadow","WV50A","395","N","N"," "," ","m≤d∞","MS",487
+"meadow","WV50B","396","N","N"," "," ","m≤d¥","MS",488
+"meadow","WV51A","261","N","N"," "," ","m≤d∞","MS",489
+"meadow","WV51B","262","N","N"," "," ","m≤d∞","MS",490
+"meadow","WV52A","258","N","N"," "," ","m≤d∞","MS",491
+"meadow","WV52B","259","N","N"," "," ","m≤d∞","MS",492
+"meadow","WV52C!","260!","N","N"," "," ","m≤d∞","MS",493
+"meadow","WV53A","257","N","N"," "," ","m≤d∞","MS",494
+"meadow","WV53B","257b","N","N","upland"," ","m≤d∞","MS",495
+"meadow","WV53C!","257c!","N","N"," "," ","m≤d∞","MS",496
+"meadow","WV54A","255","N","N"," "," ","m≤d∞","MS",497
+"meadow","WV54B","256","N","N"," "," ","m≤d∞","MS",498
+"meadow","DE1A","11","N","N"," "," ","m≤d∞","MS",499
+"meadow","DE1B","12","N","N"," "," ","m≤d∞","MS",500
+"meadow","DE1C!","13!","N","N"," "," ","m≤d∞","MS",501
+"NA","DE2A","15(*)"," ","N"," "," "," ","MS",502
+"meadow","DE2B","16","N","N"," "," ","m≤d∞","MS",503
+"meadow","DE2C","15X","N","N","even when planted in corn, stream usually"," ","m≤{∞}d∞","MS",504
+"meadow","DE3A","18","N","N"," "," ","m≤´d∞","MS",505
+"meadow","DE3B","19","N","N","not tilled"," ","m≤d∞","MS",506
+"meadow","DE3C!","17!","N","N"," "," ","m≤d∞","MS",507
+"meadow","DE4","20","N","N"," "," ","m≤d¥","MS",508
+"pasture","DE5A","21","N","N"," "," ","pﬁºst¥é","MS",509
+"meadow","DE5A","21","N","Y"," ","NEW","m≤{∞}d¥é","MS",509
+"meadow","DE5B","22","N","N"," "," ","m≤d∞","MS",510
+"meadow","DE6A","23","N","N"," "," ","m≤d∞","MS",511
+"meadow","DE6B","24","N","N"," "," ","m≤d∞","MS",512
+"meadow","MD1A","27","N","N"," "," ","m≤d∞","MS",513
+"meadow","MD1B","28","N","N"," "," ","m≤d∞","MS",514
+"meadow","MD2A","31a","N","N"," "," ","m≤d∞","MS",515
+"meadow","MD2B","32","N","N"," "," ","m≤d¥","MS",516
+"meadow","MD3A","33","N","N"," "," ","m≤d∞","MS",517
+"meadow","MD3B","34","N","N"," "," ","m≤d∞","MS",518
+"meadow","MD4A","35b","N","N"," "," ","m≤d∞","MS",519
+"meadow","MD4B","35","N","N"," "," ","m≤d∞","MS",520
+"meadow","MD4C","36","N","N","low with a stream through it"," ","m≤{∞}d∞","MS",521
+"meadow","MD5A","37","N","N"," "," ","m≤d∞","MS",522
+"meadow","MD5B","38","N","N"," "," ","m≤d∞","MS",523
+"meadow","MD6A","39(*)","N","N"," "," ","m≤d∞","MS",524
+"meadow","MD6B","40","N","N"," "," ","m≤d∞","MS",525
+"meadow","MD7A","41","N","N"," "," ","m≤d¥›","MS",526
+"meadow","MD7B","41b","N","N"," "," ","m≤d∞","MS",527
+"meadow","MD7C!","42!","N","N"," "," ","m≤{∞}Ò∞","MS",528
+"meadow","MD8A","43","N","N"," "," ","m≤d∞","MS",529
+"meadow","MD8B","44","N","N"," "," ","m≤d∞","MS",530
+"meadow","MD9N","N46","N","N"," "," ","m≤æ{∞}d∞","MS",531
+"meadow","MD9A","45","N","N"," "," ","m≤d∞","MS",532
+"meadow","MD9B","46","N","N"," "," ","m≤d∞","MS",533
+"meadow","MD10A","49","N","N"," "," ","m≤d∞","MS",534
+"meadow","MD10B","50","N","N"," "," ","m≤d∞","MS",535
+"meadow","MD11","51","N","N","grass"," ","m≤d∞","MS",536
+"meadow","MD12A","52","N","N"," "," ","m≤d∞","MS",537
+"meadow","MD12B","53","N","N"," "," ","m≤d∞","MS",538
+"meadow","MD13A","54(*)","N","N"," "," ","m≤d∞é","MS",539
+"meadow","MD13B","55","N","N"," "," ","m≤d∞","MS",540
+"meadow","MD13C","56","N","N"," "," ","m≤doΩº{π}","MS",541
+"meadow","MD13D!","57!","N","N"," "," ","m≤´d∞","MS",542
+"meadow","MD13E!","58!","N","N","low or high"," ","m≤æ{∞}d∞","MS",543
+"meadow","MD13F!","59!","N","N"," "," ","m≤æ{∞}d∞","MS",544
+"meadow","MD13G","54X","N","Y"," ","SUG/DBT","m≤d∞","MS",545
+"meadows","MD14","61(*)","N","N"," "," ","m≤d∞z","MS",546
+"meadow","MD14","61(*)","N","Y"," ","AUX","m≤d∞","MS",546
+"eine Wiese","MD14","61(*)","O","Y","German","AUX/INA","∞n$w±s","MS",546
+"eine Wiese","MD14","61(*)","O","Y","German","AUX/INA","∞n$‚ó±s","MS",546
+"spouty land","MD15A","62","O","N","wet"," ","Âsp•πt±ø´$ıl·∫{∞}nd","MS",547
+"meadow","MD15A","62","N","N"," "," ","m≤d∞é","MS",547
+"meadow","MD15B","63","N","N"," "," ","m≤d∞","MS",548
+"bottom land","MD16","64","O","N"," "," ","bµætê∞m$l·{∞}n{d}","MS",549
+"bottom","MD16","64","N","N","only grass, too wet for anything else"," ","bµæ{∞}tê∞m","MS",549
+"meadow","MD17A","65","N","N"," "," ","m≤d∞","MS",550
+"meadow","MD17B","66","N","N"," "," ","m≤d∞","MS",551
+"meadow","MD18A","67","N","N"," "," ","m≤d∞","MS",552
+"meadow","MD18B","68","N","N"," "," ","m≤doΩº","MS",553
+"meadow","MD19A","69","N","N"," "," ","m≤d∞","MS",554
+"meadow","MD19B","70","N","N"," "," ","m≤d∞","MS",555
+"meadows","MD20A","71","N","N"," "," ","m≤´∫{∞}d∞z","MS",556
+"meadow","MD20B","72","N","N","grass"," ","m≤d∞","MS",557
+"NR","MD20C!","73!"," ","N"," "," "," ","MS",558
+"meadow","MD21A","75","N","N","stream"," ","m≤d∞","MS",559
+"meadow","MD21B","76","N","N"," "," ","m≤d∞","MS",560
+"meadow","MD22N","N77","N","N"," "," ","m≤´d∞","MS",561
+"meadow","MD22M","N78","N","N"," "," ","m≤´d∞","MS",562
+"meadow","MD22A","77","N","N"," "," ","m≤{∞}d¥","MS",563
+"meadow","MD22B","78","N","N"," "," ","m≤{d}∞","MS",564
+"meadow","MD22C!","79!","N","N"," "," ","m≤d∞","MS",565
+"meadow","MD23A","80b","N","N"," "," ","m≤›´æd∞","MS",566
+"meadow","MD23B","80a","N","N","wet"," ","m≤d∞","MS",567
+"meadow","MD23C","81","N","N"," "," ","m≤d∞","MS",568
+"meadow","MD24","82","N","N"," "," ","m≤´d∞","MS",569
+"meadow","MD25","84","N","N"," "," ","m≤d∞","MS",570
+"meadow","MD26A","83","N","N"," "," ","m≤d∞","MS",571
+"meadow","MD26B","83A","N","N"," "," ","m≤doº{π}","MS",572
+"meadow","MD27A","85","N","N","low or upland"," ","m≤d¥","MS",573
+"meadow","MD27B","86","N","N","up or low"," ","m≤d∞","MS",574
+"meadow","DC1A","99","N","N","timothy grass"," ","m≤doΩ∫","MS",575
+"meadow","DC1B!","100!","N","Y","rare","SUG","m≤doΩº{π}","MS",576
+"meadow","VA1!","101!","N","N","/Òø/ is a separate phoneme from /Ò/"," ","m≤{∞}ÒøoΩ{π}","MS",577
+"meadow","VA2A","103","N","N"," "," ","m≤{∞}do∫","MS",578
+"meadow","VA2B","104","N","Y"," ","AUX","m≤{∞}d∞","MS",579
+"NR","VA3A","105(*)"," ","N"," "," "," ","MS",580
+"meadow","VA3B","106","N","N"," "," ","m≤{∞}d∞","MS",581
+"meadow","VA3C","105X","N","N"," "," ","m≤æ{∞}d¥","MS",582
+"meadow","VA4N","N109","N","N"," "," ","m≤d∞","MS",583
+"meadow","VA5A","107","N","N"," "," ","m≤{∞}d∞","MS",584
+"meadow","VA5B","108","N","N"," "," ","m≤{∞}d∞","MS",585
+"meadow","VA6A","113","N","N"," "," ","m≤{∞}d∞é","MS",586
+"meadows","VA6B","114","N","N"," "," ","m≤{∞}d∞z","MS",587
+"meadow","VA7A","121","N","N"," "," ","m≤{∞}d∞","MS",588
+"meadow","VA7B","122","N","N"," "," ","m≤{∞}d∞","MS",589
+"meadow","VA8A","123","N","N"," "," ","m≤æ{∞}d∞","MS",590
+"meadow","VA8B","124","N","N","dry marshland"," ","m≤{∞}d∞","MS",591
+"meadow","VA8C!","125!","N","N"," "," ","m≤{∞}do{π}","MS",592
+"meadow","VA9A","117","N","N","good land"," ","m≤{∞}d∞","MS",593
+"meadow","VA9B!","118!","N","N"," "," ","m≤´{∞}d∞","MS",594
+"meadow","VA10A","127","N","N"," "," ","m≤{∞}{d}∞","MS",595
+"meadow","VA10A","127","N","N"," "," ","m≤{∞}Òø∞","MS",595
+"meadow","VA10B","128","N","N"," "," ","m≤{∞}do","MS",596
+"meadow","VA10B","128","N","N"," "," ","m≤{∞}ÒøoΩ","MS",596
+"meadow","VA11A","129","N","N"," "," ","m≤{∞}d∞","MS",597
+"meadow","VA11B","130","N","N"," "," ","m≤{∞}d∞","MS",598
+"meadow","VA12N","N131","N","N"," "," ","m≤{∞}Ò∞","MS",599
+"meadow land","VA12A","131","O","N","too wet to cultivate"," ","m≤æ{∞}d∞$l·{∞}n{d}","MS",600
+"meadow","VA12B!","132!","N","N"," "," ","m≤{∞}d∞","MS",601
+"meadow","VA13A","133","N","N"," "," ","m≤{∞}d∞","MS",602
+"meadow","VA13B","134","N","N","usually not cultivable"," ","m≤{∞}d∞","MS",603
+"meadow","VA14A","135","N","N"," "," ","m≤{∞}d∞","MS",604
+"NR","VA14B","136"," ","N"," "," "," ","MS",605
+"meadow","VA14C","137","N","N"," "," ","m≤{∞}d∞","MS",606
+"meadow","VA15N","N139(*)","N","N"," "," ","m≤Ò∞","MS",607
+"meadow","VA15N","N139(*)","N","N"," "," ","m≤ÒÒ∞","MS",607
+"meadow","VA15A","139","N","N"," "," ","m≤{∞}d∞","MS",608
+"meadow","VA15B","140","N","N","on fresh stream"," ","m≤{∞}d∞","MS",609
+"meadow","VA16A","141","N","N"," "," ","m≤´∫{∞}d∞","MS",610
+"meadow","VA16B","142","N","N","very low"," ","m≤{∞}d∞","MS",611
+"meadow","VA17A","143","N","N","even if cultivated; [≤´]: very high"," ","m≤´{∞}d∞","MS",612
+"meadow","VA17B","144","N","N"," "," ","m≤{∞}d∞","MS",613
+"meadow","VA18","145","N","N"," "," ","m≤{∞}d∞","MS",614
+"meadow","VA19A","146","N","N","similar to a swamp, more open"," ","m≤{∞}d∞","MS",615
+"meadow","VA19B","147","N","N","same as `bottom', `low ground'"," ","m≤{∞}d∞","MS",616
+"meadow","VA19C!","148!","N","N"," "," ","m≤{∞}d∞","MS",617
+"NR","VA20A","149"," ","N"," "," "," ","MS",618
+"NR","VA20B","150(*)"," ","N"," "," "," ","MS",619
+"NR","VA20C","150X"," ","N"," "," "," ","MS",620
+"NR","VA21N","N153"," ","N"," "," "," ","MS",621
+"meadow","VA21A","153","N","N","too wet to do anything in"," ","m≤{∞}d∞","MS",622
+"meadow","VA21B","154","N","N"," "," ","m≤{∞}d∞","MS",623
+"meadow","VA22","155","N","N"," "," ","m≤{∞}{d}∞","MS",624
+"meadow","VA22","155","N","N"," "," ","m≤{∞}{dø}∞","MS",624
+"meadow","VA23A","156","N","N","grass and bushes, wet"," ","m≤{∞}d∞","MS",625
+"meadow","VA23B","157","N","N","miry grass lands"," ","m≤{∞}d∞","MS",626
+"meadow","VA24","159","N","N"," "," ","m≤{∞}d∞","MS",627
+"NR","VA25","160(*)"," ","N"," "," "," ","MS",628
+"pasture","VA26A","161A","N","N"," "," ","p·{∞}st∞é","MS",629
+"NR","VA26B","161"," ","N"," "," "," ","MS",630
+"meadow","VA26C","162","N","Y","= pasture","OLD","m≤{∞}d∞","MS",631
+"meadow","VA27","163(*)","N","N","wetter than lowland; fresh grass"," ","m≤d¥","MS",632
+"meadow","VA27","163(*)","N","N","wetter than lowland; fresh grass"," ","m≤{∞}d¥","MS",632
+"NR","VA28A","164"," ","N"," "," "," ","MS",633
+"NR","VA28B","165"," ","N"," "," "," ","MS",634
+"meadow","VA29","166","N","N"," "," ","m≤{∞}d∞","MS",635
+"meadow","VA30A","167","N","N"," "," ","m≤{∞}d∞´æ","MS",636
+"meadow","VA30B!","167a!","N","N"," "," ","m≤{∞}{d}∞","MS",637
+"meadow","VA30C!","168!","N","N"," "," ","m≤æ{∞}d∞","MS",638
+"meadow","VA30D!","169!","N","N"," "," ","m≤{∞}do›Ω{π}","MS",639
+"meadow","VA30E!","170!","N","N"," "," ","m≤{∞}d∞","MS",640
+"meadow","VA31A","171(*)(**)","N","N"," "," ","m≤{∞}{d}∞","MS",641
+"meadow","VA31C"," ","N","N"," "," ","m≤{∞}do›{πΩ}","MS",643
+"NR","VA31B","172"," ","N"," "," "," ","MS",642
+"meadow","VA32!","175!","N","N"," "," ","m≤{∞}d∞","MS",644
+"meadow","VA33A","173","N","N"," "," ","m≤{∞}d∞","MS",645
+"meadow","VA33B","174","N","N"," "," ","m≤{∞}d∞","MS",646
+"meadow","VA34A","177(*)","N","Y","grown up, uncultivated","AUX","m≤{∞}d∞","MS",647
+"meadow","VA34B","178","N","N"," "," ","m≤{∞}d∞","MS",648
+"meadow","VA35A","179","N","N"," "," ","m≤´{∞}d∞","MS",649
+"NR","VA35B","180"," ","N"," "," "," ","MS",650
+"meadow","VA36A","181","N","N"," "," ","m≤{∞}{d}∞","MS",651
+"meadow","VA36B","182","N","Y","rare","SUG/DBT","m≤d∞","MS",652
+"meadow","VA37","183","N","N"," "," ","m≤´d∞","MS",653
+"NR","VA38","185"," ","N"," "," "," ","MS",654
+"meadow","VA39!","186!","N","N"," "," ","m≤{∞}d∞","MS",655
+"meadow","VA40A","187","N","N"," "," ","m≤d¥","MS",656
+"NR","VA40B","188"," ","N"," "," "," ","MS",657
+"meadow","VA41A","191","N","N"," "," ","m≤´∫{∞}d∞","MS",658
+"NR","VA41B","192"," ","N"," "," "," ","MS",659
+"meadow","VA42A","193(*)(**)","N","N"," "," ","m≤∫{∞}{d}∞","MS",660
+"meadow","VA42B","194","N","N"," "," ","m≤{∞}d∞","MS",661
+"meadow","VA43N","N195","N","N"," "," ","m≤´{∞}{d}∞","MS",662
+"meadow","VA43A","195","N","Y","rare","SUG","m≤{d}∞","MS",663
+"meadow","VA43B","196","N","N"," "," ","m≤´∫d∞","MS",664
+"meadow","VA44A","199","N","N"," "," ","m≤{∞}d∞","MS",665
+"meadow","VA44B","200","N","N"," "," ","m≤{∞}d∞","MS",666
+"meadow","VA44B","200","N","N"," "," ","m≤Òø∞","MS",666
+"NR","VA45A","201"," ","N"," "," "," ","MS",667
+"meadow","VA45B","202","N","N"," "," ","m≤{∞}d∞","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"meadow","VA46A","207","N","N"," "," ","m≤d∞","MS",670
+"meadow","VA46B!","208!","N","N"," "," ","m≤{∞}do{π}","MS",671
+"meadow","VA46B!","208!","N","N"," "," ","m≤{∞}Òøo{π}","MS",671
+"meadow","VA47","211","N","N"," "," ","m≤{∞}d∞","MS",672
+"meadow","VA47","211","N","N"," "," ","m≤{∞}Òø∞","MS",672
+"meadow","VA48A","213(*)","N","N"," "," ","m≤d∞","MS",673
+"meadow","VA48B","214","N","N"," "," ","m≤{∞}d∞","MS",674
+"NR","VA49A","215"," ","N"," "," "," ","MS",675
+"NR","VA49B","216"," ","N"," "," "," ","MS",676
+"NR","VA50A","217"," ","N"," "," "," ","MS",677
+"NR","VA50B","218"," ","N"," "," "," ","MS",678
+"NR","VA51A","219"," ","N"," "," "," ","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"NR","VA51C","220X"," ","N"," "," "," ","MS",681
+"meadow","VA52A","224","N","N"," "," ","m≤{∞}d∞","MS",682
+"meadow","VA52B","225","N","N"," "," ","m≤{∞}d∞","MS",683
+"meadow","VA52C!","226!","N","N"," "," ","m≤{∞}{d}oΩ{π}","MS",684
+"meadow","VA53A","227","N","N","grass, high or low"," ","m≤{∞}d¥","MS",685
+"meadow","VA53B","228","N","N","not cultivated, grass land"," ","m≤´æd∞","MS",686
+"meadow","VA54A","229","N","N"," "," ","m≤{∞}d¥","MS",687
+"meadow","VA54B","230","N","N"," "," ","m≤{∞}d∞","MS",688
+"meadow land","VA55A","233(*)","O","N","on a stream"," ","m≤´{∞}d¥$l·{∞}n{d}","MS",689
+"meadow","VA55A","233(*)","N","Y","stream","AUX","m≤{∞}d∞","MS",689
+"Wiese","VA55A","233(*)","N","Y","German","AUX/INA","ˆ±´º{∞}s","MS",689
+"meadows","VA55B","234(*)","N","N","same as `bottoms'"," ","m≤{∞}d∞z","MS",690
+"meadow","VA56A","237","N","N","high or low"," ","m≤d¥","MS",691
+"meadow","VA56B","238","N","N"," "," ","m≤{∞}d∞","MS",692
+"meadows","VA57A","239","N","N"," "," ","m≤{∞}d∞éz","MS",693
+"meadow","VA57B","240","N","N","even when cultivated for wheat; always low"," ","m≤{∞}d∞é","MS",694
+"meadow","VA58","241(*)","N","N"," "," ","m≤{∞}d∞","MS",695
+"prairie","VA58","241(*)","N","Y"," ","AUX/CNV","p∞re´∫r∞","MS",695
+"meadow","VA58","241(*)","N","Y"," ","AUX","m≤d∞","MS",695
+"meadow","VA59N","N241","N","N"," "," ","m≤do´º","MS",696
+"meadow","VA59N","N241","N","N"," "," ","m≤d∞","MS",696
+"NR","VA59A","242"," ","N"," "," "," ","MS",697
+"NR","VA59B!","243!"," ","N"," "," "," ","MS",698
+"meadows","VA60","244(*)","N","Y","high or low","AUX","m≤d∞z","MS",699
+"meadow","VA61A","245(*)","N","N"," "," ","m≤{∞}d¥","MS",700
+"meadow","VA61B!","246!","N","N","cultivated or grass"," ","m≤{∞}d∞","MS",701
+"meadow land","VA61C","245X","O","N"," "," ","m≤d∞$l·´∫{∞}nd","MS",702
+"meadow","VA62A","247(*)","N","N"," "," ","m≤∫{∞}d∞","MS",703
+"meadow","VA62B","248","N","N","rare"," ","m≤{∞}d∞","MS",704
+"meadow land","VA63A","251","O","N","high or low"," ","m≤d¥$Ï·Ω∫{∞}n","MS",705
+"meadow","VA63B","252","N","N","high or low"," ","m≤{∞}d∞","MS",706
+"meadow","VA64A","255","N","N"," "," ","m≤{∞}d∞","MS",707
+"meadow","VA64B","256","N","N"," "," ","m≤{∞}d∞","MS",708
+"meadow","VA65A","257","N","N"," "," ","m≤d¥","MS",709
+"meadow","VA65B","258","N","N"," "," ","m≤{∞}d¥","MS",710
+"meadow","VA65C!","259!","N","N"," "," ","m≤{∞}doΩ{π}","MS",711
+"meadow land","VA66A","261","O","N","grassed"," ","m≤{∞}d∞$l·∫{∞}n{d}","MS",712
+"meadow","VA66B","262","N","N"," "," ","m≤º∫{∞}d∞","MS",713
+"meadow","VA67A","267","N","N","high or low"," ","m≤{∞}d¥","MS",714
+"meadow","VA67B","268","N","N","high or low"," ","m≤{∞}d∞","MS",715
+"meadow","VA68A","269","N","N"," "," ","m≤{∞}d∞é","MS",716
+"meadow","VA68B","270","N","N","good size for mowing"," ","m≤{∞}d∞é","MS",717
+"meadow","VA69A","273","N","N"," "," ","m≤{∞}d∞","MS",718
+"grass bottoms","VA69A","273","O","N"," "," ","gr·∫{≤º}s$bµ´æ{∞}Ò∞mz","MS",718
+"meadow","VA69B","274","N","N"," "," ","m≤{∞}d∞","MS",719
+"meadow","VA70A","275","N","N","worthy of being mowed"," ","m≤d¥","MS",720
+"meadow","VA70B","276","N","N"," "," ","m≤∫{∞}d∞","MS",721
+"meadow","VA71A","285","N","N","lowland, undrained"," ","m≤{∞}d∞é","MS",722
+"meadow","VA71B","286","N","N","high or low"," ","m≤{∞}d∞","MS",723
+"meadow","VA72A","287","N","N","all grass land"," ","m≤d{∞}¥","MS",724
+"NR","VA72B","288"," ","N"," "," "," ","MS",725
+"meadow","VA73","291","N","N","high or low"," ","m≤{∞}d∞é","MS",726
+"meadow","VA74A","293","N","N","high grassland also"," ","m≤{∞}d∞é","MS",727
+"meadow","VA74B!","294!","N","N","high or low"," ","m≤{∞}d∞","MS",728
+"meadow","VA75A","297","N","N","high or low"," ","m≤{∞}d∞é","MS",729
+"meadow","VA75B","298","N","N","high grassland also"," ","m≤{∞}d∞","MS",730
+"grass patch","NC1","303","O","N"," "," ","Âgr·æ{±øΩ}s$ıp·{±øΩ}tÛ","MS",731
+"meadow","NC2A","301","N","Y","for grazing; not wet","AUX","m≤d∞","MS",732
+"NR","NC2B","304"," ","N"," "," "," ","MS",733
+"NR","NC3A","305"," ","N"," "," "," ","MS",734
+"NR","NC3B","306"," ","N"," "," "," ","MS",735
+"meadow","NC4A","307","N","N","wet grass"," ","m≤{∞}d∞","MS",736
+"NR","NC4B","308"," ","N"," "," "," ","MS",737
+"NR","NC5A","309"," ","N"," "," "," ","MS",738
+"NR","NC5B","310"," ","N"," "," "," ","MS",739
+"NR","NC6!","311!"," ","N"," "," "," ","MS",740
+"meadow","NC7A","315(*)","N","Y","bottom land, not cleaned up","AUX","m≤{∞}d∞","MS",741
+"glade","NC7B","316","N","N"," "," ","gleΩjd","MS",742
+"meadow","NC7B","316","N","N","huckleberries grow"," ","m≤{∞}d∞é","MS",742
+"NR","NC8N","N317"," ","N"," "," "," ","MS",743
+"NR","NC8A","317"," ","N"," "," "," ","MS",744
+"NR","NC8B","318(*)"," ","N"," "," "," ","MS",745
+"NR","NC9A","319"," ","N"," "," "," ","MS",746
+"NR","NC9B","320"," ","N"," "," "," ","MS",747
+"meadow","NC10A","321","N","N","none here; low, wet"," ","m≤{∞}d¥","MS",748
+"NR","NC10B","323"," ","N"," "," "," ","MS",749
+"NR","NC10C","322"," ","N"," "," "," ","MS",750
+"NR","NC11A","325"," ","N"," "," "," ","MS",751
+"NR","NC11B","326"," ","N"," "," "," ","MS",752
+"NR","NC12A","327(*)"," ","N"," "," "," ","MS",753
+"NR","NC12B","328"," ","N"," "," "," ","MS",754
+"glade","NC13A","329","N","N","like prairie land"," ","gl≤´±ø´d","MS",755
+"NR","NC13B","330(*)"," ","N"," "," "," ","MS",756
+"meadow","NC14N","N331","N","N"," "," ","m≤{∞}d∞","MS",757
+"savanna","NC14N","N331","N","N","trees scattered"," ","s∞ˆ·n∞","MS",757
+"NR","NC14A","331"," ","N"," "," "," ","MS",758
+"meadow","NC14B","332","N","N","rare, little here"," ","m≤{∞}d∞","MS",759
+"pasture land","NC14B","332","O","N","not so low"," ","p·stÛ∞é$l·{∞}nd","MS",759
+"meadow","NC14C!","333!","N","N","grassy land, low but not too wet"," ","m≤{∞}d∞","MS",760
+"NR","NC15A","335(*)"," ","N"," "," "," ","MS",761
+"NR","NC15B","336"," ","N"," "," "," ","MS",762
+"meadow","NC15C","335X","N","N","low grass, reeds"," ","m≤´{∞}{d}∞","MS",763
+"NR","NC16A","339(*)"," ","N"," "," "," ","MS",764
+"NR","NC16B","340"," ","N"," "," "," ","MS",765
+"NR","NC17A","337"," ","N"," "," "," ","MS",766
+"NR","NC17B","338"," ","N"," "," "," ","MS",767
+"meadow","NC18A","341","N","N"," "," ","m≤{∞}d¥","MS",768
+"meadow","NC18B","342","N","N"," "," ","m≤{∞}d∞","MS",769
+"NR","NC19A","343"," ","N"," "," "," ","MS",770
+"NR","NC19B","344"," ","N"," "," "," ","MS",771
+"savanna land","NC20A","345","O","N"," "," ","s∞Âv·{∞}n∞$l·{∞}n","MS",772
+"NR","NC20B","346a"," ","N"," "," "," ","MS",773
+"NR","NC20C","346b"," ","N"," "," "," ","MS",774
+"meadow","NC21A","347","N","N"," "," ","m≤{∞}d¥","MS",775
+"meadow","NC21B","348","N","N","grassy, open woodland; wire grass on it"," ","m≤{∞}d∞","MS",776
+"meadow","NC22A","349","N","N","too wet to cultivate, us. wetter than bottoms"," ","m≤{∞}d∞é","MS",777
+"savanna","NC22B","349b","N","N","grassy, wet, open woods"," ","s∞v·{∞}n∞","MS",778
+"meadow","NC23A","351a","N","N"," "," ","m≤{∞}d∞","MS",779
+"savanna","NC23A","351a","N","N","trees too"," ","s∞v·æ{∞}n∞","MS",779
+"meadow","NC23B","351b(*)","N","N"," "," ","m≤∫{∞}d∞","MS",780
+"savanna","NC23B","351b(*)","N","N","lower, wetter than meadow"," ","s∞v·∫n∞","MS",780
+"savanna","NC23B","351b(*)","N","Y","wetter than meadow","AUX","s∞v·n∞","MS",780
+"meadow","NC23B","351b(*)","N","Y"," ","AUX","m≤{∞}d∞","MS",780
+"meadow","NC23C!","351c!","N","N"," "," ","m≤{∞}d∞","MS",781
+"savanna","NC23C!","351c!","N","N","thick undergrowth"," ","s∞v·n∞","MS",781
+"savanna","NC23D!","351d!","N","N","grassy, wet"," ","s∞v·{∞}n∞","MS",782
+"lowland","NC24N","N352","N","N"," "," ","lo´∫l·n{d}","MS",783
+"savanna","NC24A","352a","N","N"," "," ","s∞v·Ωn∞é","MS",784
+"meadow","NC24B","352b","N","N","wet"," ","m≤{∞}d∞","MS",785
+"savanna","NC24B","352b","N","N","not as wet as meadow; grass and woods"," ","s∞v·∫n∞","MS",785
+"NR","NC25N","N353"," ","N"," "," "," ","MS",786
+"meadow","NC25A","353","N","N"," "," ","m≤æ{∞}d¥","MS",787
+"swamp pasture","NC25B","354","O","N"," "," ","Âsw∑∫mp$p·{∞}st∞","MS",788
+"NR","NC26A","355a"," ","N"," "," "," ","MS",789
+"NR","NC26B","355b"," ","N"," "," "," ","MS",790
+"NR","NC26C!","356!"," ","N"," "," "," ","MS",791
+"meadow","NC27A","357","N","N","wet; broom grass"," ","m≤{∞}d¥","MS",792
+"savanna","NC27B","358","N","N","away from river"," ","s∞v·{∞}n∞","MS",793
+"savanna","NC28A","361","N","N","wet; grass"," ","s∞v·∫n¥","MS",794
+"meadow","NC28B","361b","N","N"," "," ","m≤d¥","MS",795
+"savanna","NC28C","362","N","N","grassy"," ","s∞v·{∞}n∞","MS",796
+"meadow","NC29A","363(*)","N","N","river marsh"," ","m≤{∞}d∞é","MS",797
+"NR","NC29B","364"," ","N"," "," "," ","MS",798
+"NR","NC30A","365"," ","N"," "," "," ","MS",799
+"meadow","NC30B","366","N","N"," "," ","m≤´{∞}d∞","MS",800
+"meadow land","NC31A","367","O","N"," "," ","m≤´d∞$l·∫{∞}n{d}","MS",801
+"meadow","NC31B","368","N","Y","rare","SUG/HRD","m≤´d∞","MS",802
+"meadow","NC32A","369","N","N","too wet for any use, shrubbish in woods"," ","m≤d∞","MS",803
+"NR","NC32B!","370!"," ","N"," "," "," ","MS",804
+"NR","NC33A","373"," ","N"," "," "," ","MS",805
+"NR","NC33B","374"," ","N"," "," "," ","MS",806
+"NR","NC34A","375"," ","N"," "," "," ","MS",807
+"NR","NC34B","376"," ","N"," "," "," ","MS",808
+"meadow","NC35A","377","N","N","rare, only 1 near here, never seen it; muddy, low"," ","m≤d∞","MS",809
+"NR","NC35B","378"," ","N"," "," "," ","MS",810
+"NR","NC36N","N381"," ","N"," "," "," ","MS",811
+"NR","NC36A","381"," ","N"," "," "," ","MS",812
+"meadow","NC36B","382","N","N","wet"," ","m≤d∞","MS",813
+"meadow","NC37A","383","N","N"," "," ","m≤{∞}{d}∞","MS",814
+"meadow","NC37A","383","N","N"," "," ","m≤{∞}Ò∞","MS",814
+"meadow","NC37B","384","N","N","wet"," ","m≤{∞}d∞","MS",815
+"meadow","NC38N","N385","N","N"," "," ","m≤{∞}ÒÒ∞","MS",816
+"NR","NC38A","385"," ","N"," "," "," ","MS",817
+"NR","NC38B","386"," ","N"," "," "," ","MS",818
+"meadow","NC39A","389","N","N","wet"," ","m≤∫{∞}d∞","MS",819
+"meadow","NC39B!","390!","N","N"," "," ","m≤´{∞}d∞","MS",820
+"meadow","NC40A","391","N","N","moister than bottom"," ","m≤{∞}d∞","MS",821
+"meadow","NC40B","392","N","N"," "," ","m≤{∞}d∞","MS",822
+"meadow","NC41!","393!","N","Y"," ","SUG","m≤doπ","MS",823
+"meadow","NC42A","403","N","N"," "," ","m≤d∞é","MS",824
+"meadow","NC42B","404(*)","N","N"," "," ","m≤d∞","MS",825
+"meadow","NC43A","397","N","Y","rare","SUG/OLD","m≤{∞}d∞","MS",826
+"meadow","NC43B","398","N","N"," "," ","m≤{∞}{d}∞","MS",827
+"meadow","NC44","410(*)","N","N"," "," ","m≤{∞}d∞","MS",828
+"meadow","NC45A","409(*)","N","N"," "," ","m≤{∞}d∞æ","MS",829
+"meadow","NC45B","409X","N","N"," "," ","m≤{∞}d∞","MS",830
+"meadow","NC46A","411","N","N"," "," ","m≤∫{∞}d¥","MS",831
+"meadow","NC46B","412","N","N"," "," ","m≤{∞}d∞é","MS",832
+"meadow","NC46C!","412b!","N","N"," "," ","m≤{∞}d∞","MS",833
+"meadow","NC47","413","N","Y","obsolete, formerly used","OLD","m≤{∞}d¥","MS",834
+"meadow","NC48","418","N","N"," "," ","m≤{∞}d∞","MS",835
+"meadow","NC49","421","N","N"," "," ","m≤{∞}d∞","MS",836
+"meadow","NC50A","422","N","N"," "," ","m≤{∞}d∞","MS",837
+"meadow","NC50B!","423!","N","N"," "," ","m≤{∞}d∞","MS",838
+"meadow","NC51A","427","N","N"," "," ","m≤{∞}d∞é","MS",839
+"meadow","NC51B","428","N","N"," "," ","m≤{∞}d∞é","MS",840
+"meadow","NC52N","N429","N","N"," "," ","m≤{∞}{d}∞","MS",841
+"meadow","NC52A","429","N","N"," "," ","m≤´∫{∞}d∞é","MS",842
+"meadow","NC52B","430","N","N"," "," ","m≤{∞}d∞","MS",843
+"meadow","NC53A","431","N","N"," "," ","m≤æd∞é","MS",844
+"meadow","NC53B","432","N","N"," "," ","m≤d∞","MS",845
+"meadow","NC54A","433","N","N","low"," ","m≤{∞}d∞é","MS",846
+"meadows","NC54B","434","N","N"," "," ","m≤{∞}d∞z","MS",847
+"meadow","NC55","435","N","N"," "," ","m≤{∞}{d}∞é","MS",848
+"meadow","NC56A","436","N","N"," "," ","m≤{∞}d∞é","MS",849
+"meadow","NC56B!","437!","N","N"," "," ","m≤{∞}do›Ω{π}","MS",850
+"meadow","NC57A","438a","N","N"," "," ","m≤{∞}d∞é","MS",851
+"meadow","NC57B","438b","N","N"," "," ","m≤{∞}d∞","MS",852
+"meadow","NC58A","439","N","N"," "," ","m≤{∞}d¥","MS",853
+"meadows","NC58B","440","N","N"," "," ","m≤{∞}d∞z","MS",854
+"meadow","NC59","441(*)","N","N","even on hill"," ","m≤{∞}d¥","MS",855
+"meadow","NC60","442","N","N"," "," ","m≤{∞}d∞","MS",856
+"meadow","NC61A","443","N","N"," "," ","m≤d¥","MS",857
+"meadow","NC61B","444","N","N","low"," ","m≤d∞","MS",858
+"meadow","NC62A","447","N","N","level lowland; same as `bottom'"," ","m≤d¥","MS",859
+"meadow","NC62B","448","N","N","level grassy land, low or high"," ","m≤d∞","MS",860
+"meadow land","NC63A","449","O","N","same as `bottom land'"," ","Âm≤d∞$ıl·{∞}n{d}","MS",861
+"meadow","NC63B","450","N","N","same as `branch bottom'"," ","m≤{∞}d¥","MS",862
+"meadow","NC64A","453","N","N","always low, grassy"," ","m≤{∞}d¥","MS",863
+"meadow","NC64B","454","N","N","low"," ","m≤{∞}d∞","MS",864
+"meadow","NC65A","461","N","N","high or low"," ","m≤{∞}d¥","MS",865
+"meadow","NC65B","462","N","N"," "," ","m≤∞´d∞","MS",866
+"meadow","NC66A","465","N","N","low"," ","m≤{∞}d¥","MS",867
+"meadow","NC66B","466","N","N"," "," ","m≤{∞}d∞","MS",868
+"meadow","NC67A","469","N","N","high or low"," ","m≤d∞é","MS",869
+"meadow","NC67B","470","N","N","any grass land, even hilltop"," ","m≤{∞}d∞","MS",870
+"meadow","NC68A","473","N","N"," "," ","m≤{∞}d¥","MS",871
+"meadow","NC68B","474","N","N"," "," ","m≤d∞","MS",872
+"meadow","NC69A","477","N","N"," "," ","m≤{∞}d¥","MS",873
+"meadow land","NC69B","478","O","N"," "," ","m≤{∞}d∞é$l·∫{∞}n{d}","MS",874
+"meadow","NC70A","479","N","N"," "," ","m≤∫{∞}d¥","MS",875
+"meadow","NC70B","480","N","N"," "," ","m≤{∞}d∞","MS",876
+"meadow","NC71A","481","N","N","grass, high or low"," ","m≤´{∞}d¥","MS",877
+"meadow","NC71B","482","N","N","high or low"," ","m≤{∞}d∞","MS",878
+"meadow","NC71C!","483!","N","N"," "," ","m≤{∞}d∞","MS",879
+"meadow","NC72A","487","N","N"," "," ","m≤{∞}d¥","MS",880
+"meadow","NC72B","488","N","N"," "," ","m≤{∞}d∞","MS",881
+"meadow land","NC73A","491","O","N","high or low"," ","m≤{∞}d¥$l·{∞}n{d}","MS",882
+"meadow","NC73B","492","N","N"," "," ","m≤{∞}d¥","MS",883
+"meadow","NC74A","493","N","N"," "," ","m≤{∞}d¥","MS",884
+"meadow","NC74B","494","N","N"," "," ","m≤´{∞}d∞","MS",885
+"meadow","NC75A","495","N","N","high or low"," ","m≤{∞}d¥","MS",886
+"meadow","NC75B","496","N","N"," "," ","m≤{∞}d∞","MS",887
+"savanna","SC1A","203.1","N","N","low, flat woods"," ","s∞Âv·n∞","MS",888
+"clear","SC1B","203.2","V","Y"," ","INA","kl≤∫∞é","MS",889
+"meadow","SC2A","204.1(*)","N","N"," "," ","m≤æ{∞}d∞é","MS",890
+"NR","SC2B","204.2"," ","N"," "," "," ","MS",891
+"NR","SC2C","204.1X"," ","N"," "," "," ","MS",892
+"savanna lands","SC3A","205.1","O","N","open grass lands"," ","s∞Âv·{∞}n∞é$l·{∞}n{d}{z}","MS",893
+"savannas","SC3B","205.2","N","N","""mostly called¢"," ","s∞é´Âv·∫{∞}n¥´æz","MS",894
+"savanna lands","SC3B","205.2","O","N"," "," ","s±øéΩÂv·∫{∞}n¥æ$ıl·∫{∞}nz{zè}","MS",894
+"savanna","SC3C!","205.3!","N","N"," "," ","s∞Âv·´{∞}n∞æ","MS",895
+"meadow","SC3C!","205.3!","N","Y","mostly a book word","HRD","m≤´{∞}d∞","MS",895
+"savanna","SC4A","206.1","N","N","on edge of swamp"," ","s∞Âv·Ω{∞}n∞æ","MS",896
+"savanna land","SC4A","206.1","O","N","for ""pasture¢; overflowed in ""high water¢"," ","s∞Âv·∫{∞}n∞$ıl·∫{∞}n","MS",896
+"high water","SC4A","206.1","O","Y"," ","INA","Âhµ∫±ø$ıw∑∫{∞}Ò∞æ","MS",896
+"savanna","SC4B","206.2","N","N","marsh hen = Indian pullets"," ","s∞Âv·Ω∫{∞}n∞","MS",897
+"savanna","SC4C","206.3","N","N","low, watery, swampy"," ","s∞Âv·{∞}n¥z{zè}","MS",898
+"savanna","SC5A","207.1","N","N","only ""broom sage¢"," ","s∞Âva´∫{∞}n∞","MS",899
+"crawfish land","SC5A","207.1","O","Y"," ","AUX/OLD","Âk`rèá∑´∫{∞}f±´{∞}Û$ıl·Ω∫{∞}n","MS",899
+"meadow","SC5B","207.2","N","N","grass, not cultivated"," ","m≤´{∞}d∞æ","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"savanna","SC5D!","207.3!","N","Y"," ","AUX","s∞Âv·∫{∞}n∞","MS",902
+"savanna","SC6N","N208","N","N"," "," ","s∞Âv·n∞","MS",903
+"savanna land","SC6N","N208","O","N"," "," ","s∞Â‚·{∞}n∞$ıl·∫{∞}n","MS",903
+"prairie land","SC6N","N208","O","N"," "," ","Âp`Úèe∫rà±´æ$ıl·∫{∞}n","MS",903
+"low prairie land","SC6N","N208","O","N"," "," ","Âlo´º∫$ıp`ÚèeΩ∫rà±æ$Âl·∫{∞}n","MS",903
+"savanna","SC6A","208.1","N","N","plain of wire grass, fresh water"," ","s∞Âv·{∞}n¥","MS",904
+"savanna land","SC6B","208.2(*)","O","N","low, holds water, grassy"," ","s∞Âva´∫{∞}n∞$ıla´∫{∞}n","MS",905
+"savanna","SC6C!","208.3!","N","N"," "," ","s∞Âva´∫{∞}n∞","MS",906
+"savanna","SC6D","208.2X","N","N","open, grassy, not cultivatable"," ","s∞Âv·{∞}n∞","MS",907
+"savannas","SC6D","208.2X","N","N","open, grassy, not cultivatable"," ","s∞Âv·Ω∫{∞}n∞æzè","MS",907
+"NR","SC7N","N209"," ","N"," "," "," ","MS",908
+"savanna land","SC7A","209.1","O","N"," "," ","s∞Â‚·Ω{∞}n∞$ıl·Ω{∞}n","MS",909
+"meadow","SC7B","209.2","N","Y","""unused pasture¢","SUG","m≤´d∞óæ","MS",910
+"savanna land","SC7B","209.2","O","N"," "," ","s∞Âv·∫{∞}n∞$ıl·∫{∞}nd","MS",910
+"savanna","SC7C!","209.3!","N","N"," "," ","s∞Âv·Ω{∞}n∞","MS",911
+"savannas","SC7D!","209.4!","N","N","grass land"," ","s∞Âv·∫{∞}n∞´zè","MS",912
+"savanna lands","SC7D!","209.4!","O","N"," "," ","s∞Âv·Ω∫{∞}n∞$ıl·∫{∞}nz{zè}","MS",912
+"savanna","SC8A","210.1","N","N","""no trees don't grow¢"," ","s∞Âv·Ω{∞}n∞","MS",913
+"savanna","SC8B","210.2","N","N","low"," ","s∞Âva´∫{∞}n∞","MS",914
+"hedgerow","SC8B","210.2","N","Y"," ","INA","Âh≤´{∞}dıÚo´∫{∞ó}","MS",914
+"savanna","SC8C","210.3","N","N","only broom straw"," ","s∞Âv·Ω∫{∞}n∞","MS",915
+"savanna","SC9A","211.1","N","Y"," ","SUG","s∞Âv·Ω{∞}n∞","MS",916
+"old field","SC9B","211.2","O","N"," ","CNV","Âo∫{∞ó}l$ıfi∫{∞}l","MS",917
+"savanna","SC9C!","211.3!","N","N","one in the county"," ","s∞Âv·∫{∞}n∞","MS",918
+"savannas","SC9D!","211.4!","N","N","open country; grassy; generally wet"," ","s±øÂv·Ω∫{∞}n∞´æz","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"savannas","SC10B!","212.2!","N","N","open, grassy, little timber"," ","s∞Âva´{∞}n∞´z","MS",921
+"savannas","SC10C!","212.3!","N","N"," "," ","s∞›Âv·∫{∞}n∞´z","MS",922
+"NR","SC11N","N213"," ","N"," "," "," ","MS",923
+"NR","SC11M!","2n213!"," ","N"," "," "," ","MS",924
+"NR","SC11A","213.1(*)"," ","N","not in Charleston"," "," ","MS",925
+"NR","SC11B","213.11"," ","N","never heard of `savanna'"," "," ","MS",926
+"NR","SC11C","213.2"," ","N"," "," "," ","MS",927
+"meadow","SC11D","213.3","N","N","""fertile¢; ""flat¢, between elevations"," ","m≤´do´º∫{∞}","MS",928
+"grass","SC11E","213.4","N","Y"," ","INA","gÚ·∫{∞}s","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"meadow","SC11G!","213.7!","N","Y","just a book word from ""Little Boy Blue¢","HRD/CNV","m≤d∞óæ","MS",931
+"meadow","SC11G!","213.7!","N","Y","just a book word from ""Little Boy Blue¢","HRD/CNV","m≤do´º","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"meadows","SC11I!","213.9!","N","N","dry pasture land"," ","m≤{∞}doz","MS",933
+"meadow","SC11J!","213.10!","N","N","""low¢, ""flat¢, ""grassy¢"," ","m≤do›´º","MS",934
+"low","SC11J!","213.10!","A","Y"," ","INA","lo´º∫{∞}","MS",934
+"meadow","SC11J!","213.10!","N","N","""low¢, ""flat¢, ""grassy¢"," ","m≤doø","MS",934
+"pine land","SC11J!","213.10!","O","Y"," ","INA","Âpa´æ∫±øn$ıl·Ω∫{∞}n","MS",934
+"flat","SC11J!","213.10!","A","Y"," ","INA","f≈è·Ωt","MS",934
+"grassy","SC11J!","213.10!","A","Y"," ","INA","gÚá·Ωs±ø´º","MS",934
+"savannas","SC12A","214.1","N","N","flat, reaches off a good distance"," ","s∞Âv·∫{∞}n∞z","MS",935
+"meadow","SC12B","214.2","N","N","dry lowland"," ","m≤{∞}d∞","MS",936
+"meadow","SC13","213.6","N","N"," "," ","m≤´{∞}d∞","MS",937
+"meadow","SC14A","215.1","N","Y","rare; ordinary pasture, not low","SUG","m≤Ωæ{∞}d∞","MS",938
+"savannas","SC14B","215.2","N","N"," "," ","s∞Âv·∫{∞}n∞´z","MS",939
+"the old savanna","SC15A","216.1","O","N","open pond, holds lots of water"," ","dë±ø´º$Âo∫{∞}l$s∞Âv·∫{∞}n∞","MS",940
+"canebrakes","SC15A","216.1","N","N"," "," ","Âcáe∫{∞}nıbÚe∫{∞}ks","MS",940
+"bottoms","SC15B","216.2","N","N","""can't make nothing on it¢; ""cow'll bog in 'em¢;","RN1","Âbﬁtê∞´mz","MS",941
+"savanna","SC15C","216.3","N","N","= ""dried lake¢, ""pond¢"," ","s∞Âv·∫{∞}n∞","MS",942
+"meadow land","SC16N","N217","O","N","in a swamp or ""basin¢"," ","Âm≤´{∞}d∞$ıl·{∞}n","MS",943
+"crawfish land","SC16N","N217","O","N"," "," ","Âk`Úá∑´∫{∞}f±∫{∞}Û$ıl·∫{∞}n","MS",943
+"basin","SC16N","N217","N","Y"," ","INA","be´{∞}sn","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"lay-out land","SC17A","218.1","O","N"," "," ","Âle´∫$ı·∫oºt$Âl·∫{∞}ºn","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"savannas","SC17D","218.4","N","N","in river swamp"," ","s∞Âv·{∞}n∞´z","MS",948
+"open savannas","SC17D","218.4","O","N"," "," ","Âoº{∞}'pm$s∞ıv·{∞}n∞´z{zè}","MS",948
+"NR","SC18N","N219"," ","N"," "," "," ","MS",949
+"pine barrens","SC18A","219.1","O","N"," "," ","Âp`µ∫±øn$ıb·Ω∫r∞´nz","MS",950
+"pine barren","SC18B","219.2","O","N","dry waste"," ","Âp`µ´∫∞n$ıb·´r∞›n","MS",951
+"pasture land","SC18B","219.2","O","N"," "," ","Âp`·ΩÛt∞´æ$ıl·∫{≤}n","MS",951
+"meadows","SC18B","219.2","N","Y","upstate","HRD","m≤´d∞Ωz","MS",951
+"NR","SC18C!","219.3(*)!"," ","N"," "," "," ","MS",952
+"NA","SC18D!","219.3X"," ","N"," "," "," ","MS",953
+"NR","SC19N","N220"," ","N"," "," "," ","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"pasture","SC19B","220.4","N","N","grazing"," ","p·stÛ∞","MS",956
+"NR","SC19C","220.2(*)"," ","N"," "," "," ","MS",957
+"savannas","SC19D!","220.3!","N","N"," "," ","s∞Âv·∫{∞}n∞´z","MS",958
+"NA","SC19E!","220.2X"," ","N"," "," "," ","MS",959
+"meadows","SC20A","221.1","N","Y","""don't think we've got that around here¢","SUG/HRD","m≤´d∞´z","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"meadow","SC20C","221.3","N","N","grows up in grass"," ","m≤´∞d∞","MS",962
+"low ground pasture","SC20C","221.3","O","N"," "," ","Âloº∫πº$ıgráµ´º∫∞ón$Âp`·≤stÛ∞ó","MS",962
+"boggy place","SC20C","221.3","O","Y","soft, in field","INA","Âbµæ{∞}g±ø´º$ıp`lèe∫{±ø}{s}","MS",962
+"pine flats","SC20D!","221.4!","O","N","generally not wet, never deeply flooded"," ","Âp`a´æ{∞}n$ıflè·{∞}ts","MS",963
+"savannas","SC20D!","221.4!","N","Y","grass and cane; generally nearer coast","SUG/HRD","s∞Âv·∫{∞}n∞´z","MS",963
+"meadow","SC21A","222.1","N","N"," "," ","m≤æ{∞}d∞é","MS",964
+"meadow","SC21B","222.2","N","N"," "," ","m≤{∞}d∞é","MS",965
+"meadow","SC22N","N223","N","N"," "," ","m≤æd∞","MS",966
+"savanna","SC22A","223.1","N","N","water'll stand on it and not flow off"," ","s∞Âv·∫{∞}n∞","MS",967
+"NR","SC22B","223.2"," ","N"," "," "," ","MS",968
+"savanna","SC22C!","223.3!","N","N","low, flat, holds water"," ","s∞Âv·{∞}n∞","MS",969
+"meadow","SC22C!","223.3!","N","Y","gather hay (rarely used)","SUG","m≤´{∞}d∞","MS",969
+"savanna","SC23A","224.1","N","N","cane and grass, can be improved"," ","s∞›Âv·∫{∞}n∞","MS",970
+"old savanna bay","SC23A","224.1","O","N"," "," ","Âo∫{∞}l$s∞ıv·∫{∞}n∞$be∫{±ø}","MS",970
+"savanna","SC23B","224.2","N","N","""reached way back¢"," ","s∞Âv·∫{∞}n¥´æ","MS",971
+"savannas","SC23C","224.3","N","N"," "," ","s∞Âv·Ω{∞}n∞z","MS",972
+"NR","SC23D","224.4"," ","N"," "," "," ","MS",973
+"savanna land","SC23E!","224.5!","O","N","not used here"," ","s∞Âv·Ω∫{∞}n∞$ıl·∫{∞}n","MS",974
+"flats","SC23E!","224.5!","N","N"," "," ","f≈è·Ω{∞}ts","MS",974
+"old field","SC24N","N225","O","N","has been planted and abandoned"," ","Âoº∫{∞}l$ıfi∫{∞}l","MS",975
+"savanna","SC24N","N225","N","N","no trees; low basin"," ","s∞Âv·∫{∞}n∞","MS",975
+"savanna","SC24A","225.1","N","N"," "," ","s∞Âv·∫n∞","MS",976
+"savanna","SC24B","225.11","N","N","up here and above: not in lower end of county"," ","s∞Âv·Ω{∞}n∞","MS",977
+"savanna","SC24C","225.2","N","N"," "," ","s∞Âv·Ω∫{∞}n∞","MS",978
+"savanna land","SC24C","225.2","O","N"," "," ","s∞Âv·∫{∞}n∞$ıl·{∞}n","MS",978
+"cane savanna","SC24D!","225.3!","O","N"," "," ","Âk`e´∫{∞}n$s∞ıv·{∞}n∞","MS",979
+"joint grass bottom","SC25A","226.1","O","N","where joint grass grows"," ","Âd˙µæ±ønt$gr·{±øΩ}s$Âbµ´æ{∞}Ò∞m","MS",980
+"meadow","SC25B","226.2","N","N","cut hay off of"," ","m≤´{∞}d∞","MS",981
+"Johnson grass","SC25B","226.2","O","Y"," ","INA","Âd˙ﬁ˛{∞˛}nsn$ıgrá·{≤}s","MS",981
+"Egyptian grass","SC25B","226.2","O","Y"," ","INA","±øÂd˙±´pÛn$ıgrá·{≤}s","MS",981
+"savanna","SC25C!","226.3!","N","N","in geology"," ","s∞Âv·Ω{∞}n∞","MS",982
+"old sobbed-out lands","SC26A","227.1","O","N","between streams"," ","ıoº∫l$Âsﬁ´ºbıd•ºot$Âl·∫{∞}nz","MS",983
+"boggy land","SC26A","227.1","O","N","between streams"," ","Âb∑Ω{∞}g±ø´º$ıl·∫{∞}n","MS",983
+"savannas","SC26B!","227.2!","N","N","between two streams, opening near streams"," ","s∞Âv·∫{∞}n∞z","MS",984
+"pasture lands","SC26B!","227.2!","O","N"," "," ","Âp·{∞}stÛ∞ó$ıl·∫{∞}nz","MS",984
+"NR","SC27A","228.1"," ","N"," "," "," ","MS",985
+"bog","SC27B","228.2","N","Y","in field","INA","b∑ó´∫{∞ó}g","MS",986
+"canebrake","SC28A","229.1","N","N"," "," ","Âcá`e´∫nıbre´∫k","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"meadow","SC28C","229.2","N","N","just cleared"," ","m≤´{∞}d∞","MS",989
+"NR","SC28D","229.3"," ","N"," "," "," ","MS",990
+"hay farm","SC29B","230.1(*)","O","N"," "," ","Âhe´∫$ıfﬁ∫∞m","MS",992
+"lowland","SC29A","230.2(*)","N","N","grassy, often flooded"," ","Âloº∫ıl·´º∫{∞º}n","MS",991
+"old field","SC29C","230.3","O","N","not necessarily low"," ","Âoº∫{∞}l$ıfi∫{∞}l","MS",993
+"bog","SC29D","230.2X","N","Y","in field","INA","bﬁg","MS",994
+"NR","SC29E","230.1X"," ","N"," "," "," ","MS",995
+"meadow","SC30A","231.1","N","N"," "," ","m≤{∞}d∞","MS",996
+"meadow","SC30B","231.2","N","N"," "," ","m≤´d∞æ","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"NR","SC31A","232.1"," ","N"," "," "," ","MS",999
+"pasture","SC31B","232.2","N","N"," "," ","p`·´{≤}stÛ∞´","MS",1000
+"meadow","SC32A","233.1","N","N"," "," ","m≤´∫{∞}d∞","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"NR","SC32C","233.3"," ","N"," "," "," ","MS",1003
+"meadows","SC32D","233.4","N","N"," ","CNV","m≤´{∞}d∞´zè","MS",1004
+"meadow","SC33A","234.1","N","N","low"," ","m≤{∞}d∞","MS",1005
+"meadow","SC33B","234.2","N","N"," "," ","m≤´{∞}Ò∞æ","MS",1006
+"meadow","SC34A","235.1","N","N"," "," ","m≤´{∞}d∞´æ","MS",1007
+"meadow","SC34B","235.2","N","N"," "," ","m≤´{∞}d∞æ","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"meadow","SC35A","236.1","N","N"," ","CNV","m≤´{∞}d∞é","MS",1010
+"meadow","SC35B","236.2","N","N"," "," ","m≤´{∞}d∞","MS",1011
+"canebrake","SC35B","236.2","N","N"," "," ","Âcá`e∫±ænıbÚe∫±æk","MS",1011
+"meadow","SC35C","236.3(*)","N","N"," "," ","m≤d∞","MS",1012
+"NA","SC35D","236.2X"," ","N"," "," "," ","MS",1013
+"NA","SC35E!","236.3X"," ","N"," "," "," ","MS",1014
+"meadow land","SC36A","237.1","O","N","improved, for hay"," ","Âm≤´d∞›´æ$ıl·∫{≤}n","MS",1015
+"idle land","SC36A","237.1","O","N"," "," ","Âµ´º∫{±ø}dÏ$ıl·∫{≤}n","MS",1015
+"meadow land","SC36B","237.2","O","N","""not a great deal¢"," ","Âm≤´d∞$ıl·∫{≤}n","MS",1016
+"meadow","SC36C","237.3","N","N","cut hay off of"," ","m≤´d∞","MS",1017
+"meadow","SC36C","237.3","N","N","cut hay off of","CNV","m≤´d∞´æ","MS",1017
+"meadow","SC36C","237.3","N","N","cut hay off of","CNV","m≤´d∞Ω","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"big field of grass","SC37","238","O","N"," "," ","Âb±g$ıfil$∞$Âgr·∫s","MS",1019
+"meadow","SC38N","N239","N","N","""has water settled¢"," ","m≤´d∞æ","MS",1020
+"has water settled","SC38N","N239","E","Y"," ","INA","h·Ωz$Âw∑Ωº∫{∞}tê∞$s≤´tÏd","MS",1020
+"meadow","SC38A","239.1","N","N"," "," ","m≤´d∞æ","MS",1021
+"wet bottom","SC38A","239.1","O","N"," "," ","Âw≤´t$ıbﬁ't∞´m","MS",1021
+"pasture land","SC38B","239.2","O","N","""grass¢"," ","Âp`·stÛ∞æ$ıl·∫{≤}n","MS",1022
+"grass","SC38B","239.2","N","Y"," ","INA","gÚá·∫≤s","MS",1022
+"meadow land","SC38B","239.2","O","N","not ""for pasture¢, ""cut it for hay¢"," ","Âm≤d∞$ıl·∫{∞}n","MS",1022
+"cut it for hay","SC38B","239.2","E","Y"," ","INA","Âk`¶Ò$±øt$f∞$Âhe∫±","MS",1022
+"for pasture","SC38B","239.2","Q","Y"," ","INA","f∞$Âp`·stÛ∞","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"meadow","SC38D!","239.4(*)!","N","N"," "," ","m≤d∞óæ","MS",1024
+"meadow","SC38D!","239.4(*)!","N","N"," "," ","m≤´doø›{w}","MS",1024
+"meadow","SC38D!","239.4(*)!","N","N"," "," ","m≤´Òoø›{w}","MS",1024
+"NA","SC38E!","239.4X"," ","N"," "," "," ","MS",1025
+"meadow","SC39A","240.1","N","N","not cultivated; cut grass or for grazing"," ","m≤´d∞´æ","MS",1026
+"meadows","SC39A","240.1","N","N","not cultivated; cut grass or for grazing"," ","m≤´d∞´æz","MS",1026
+"meadow","SC39B!","240.2!","N","N","cut"," ","m≤´d∞´","MS",1027
+"meadows","SC39B!","240.2!","N","N","cut"," ","m≤´d∞´æz","MS",1027
+"meadows","SC39B!","240.2!","N","N","cut"," ","m≤´d∞é´æz","MS",1027
+"meadow","SC40A","241.1","N","N"," "," ","m≤d∞æ","MS",1028
+"field of grass","SC40A","241.1","O","N"," "," ","ıf±´iÏ$∞$Âgr·´≤s","MS",1028
+"meadow","SC40B","241.2","N","N","(or pasture"," ","m≤´d∞ó´æ{w}","MS",1029
+"pasture","SC40B","241.2","N","N","meadow or)"," ","p`·´stÛ∞ó´æ","MS",1029
+"or","SC40B","241.2","J","Y"," ","INA","∂›´o›","MS",1029
+"meadow","SC41A","242.1","N","N"," "," ","m≤∫{∞}d∞","MS",1030
+"meadows","SC41B","242.2","N","N"," "," ","m≤´d∞óæz","MS",1031
+"meadow bottoms","SC42N","N243","O","N","a place near the Southern Railroad"," ","Âm≤´d∞$ıbﬁºtê∞›mz{zè}","MS",1032
+"NA","SC42M","N243X"," ","N"," "," "," ","MS",1033
+"meadow","SC42A","243.1","N","N","any field with grass"," ","m≤´d∞","MS",1034
+"second bottom","SC42A","243.1","O","N"," "," ","Âs≤´k∞›n$Âbﬁtê∞›m","MS",1034
+"meadow","SC42B!","243.2!","N","N","low, floodable"," ","m≤d∞æ","MS",1035
+"meadow","SC42B!","243.2!","N","N","low, floodable"," ","meΩd∞","MS",1035
+"flats","SC42C!","243.3!","N","N"," "," ","flè·´ts","MS",1036
+"meadow","SC42C!","243.3!","N","N","a particular low place on a farm"," ","m≤∫d∞ó´æ","MS",1036
+"meadows","SC42C!","243.3!","N","N"," "," ","m≤∫d∞ózè","MS",1036
+"meadow","SC42D!","243.4!","N","N"," "," ","m≤›æ{∞}d∞›","MS",1037
+"pasture","SC42D!","243.4!","N","N"," "," ","p·∫stÛ∞é","MS",1037
+"meadow","SC42E!","243.5!","N","N"," "," ","m≤∫d∞","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"meadow","SC43B","244.2","N","N"," "," ","m≤´{±ø}d∞","MS",1040
+"meadow","SC43B","244.2","N","N"," "," ","m≤´d∞é","MS",1040
+"second bottom","SC43B","244.2","O","N"," "," ","Âs≤´k∞›{n}t$Âbﬁºtê∞›m","MS",1040
+"meadow","SC43C","244.3","N","N"," "," ","m±Ωd∞","MS",1041
+"meadow","SC44A","245.1","N","N","unfenced, in fields, not mowed"," ","Âm≤´d¥æ","MS",1042
+"range","SC44A","245.1","N","Y","[˙è]: doubtful","FDT","re˛∫{iøî˛}ndé˙è","MS",1042
+"stubble","SC44A","245.1","N","N","till taken in"," ","st¶Ωb¶{Ï}","MS",1042
+"meadow","SC44B","245.2","N","N"," "," ","Âm≤´d∞é´æ","MS",1043
+"meadow","SC44B","245.2","N","N"," ","CNV","m≤´d∞´æ","MS",1043
+"lowland","GA1N","N246","N","N"," "," ","Âloıl·∫{∞}n","MS",1044
+"NR","GA1A","246.1(*)"," ","N"," "," "," ","MS",1045
+"NR","GA1B","246.11"," ","N"," "," "," ","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"meadow","GA1F!","246.5!","N","N"," "," ","m≤Ω{∞}do›´º","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"lowland","GA1H!","246.7!","N","Y","not just along river; not nec. grassy","AUX/CNV","ÂloΩº∫{π}ıl·´∫{∞}n","MS",1052
+"lowland","GA1H!","246.7!","N","Y","any land about sea level or below","AUX/CNV","ÂloΩº∫{π}ıl·´∫{≤}n","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"NR","GA2B","247.2"," ","N"," "," "," ","MS",1055
+"meadows","GA3A","248.1","N","N","higher grasslands"," ","m≤Ω{∞}do›´z","MS",1056
+"NR","GA3B","248.2"," ","N"," "," "," ","MS",1057
+"savanna","GA4N","N249","N","N","fresh water, bastard grass and myrtle grow"," ","s∞wa∫{∞}n∞","MS",1058
+"meadows","GA4A","249.1","N","Y"," ","HRD","m≤´{∞}d∞´z","MS",1059
+"The Meadow","GA4B","249.2","O","N","proper name"," ","‰±ø$m≤´{∞}d∞","MS",1060
+"meadow","GA4C!","249.3!","N","N","part of mainland, but low"," ","m≤´∫{∞}d∞","MS",1061
+"old field","GA5A","250.1","O","N","grass and cane"," ","Âo∫{∞}l$ıfi∫lç","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"NR","GA5C","250.3"," ","N"," "," "," ","MS",1064
+"savanna","GA5D!","250.4!","N","N"," "," ","s∞›Âv·Ω{∞}n∞","MS",1065
+"prairie","GA5E!","250.5!","N","N"," ","SIC","p∞›Âre´∫Ò±ø´º","MS",1066
+"meadows","GA6A","251.1","N","N"," ","CNV","Âm≤∫∞d∞´z","MS",1067
+"meadows","GA6B!","251.2!","N","Y","usually ""flat woods¢","SUG","m≤´{∞}d∞´z","MS",1068
+"flat woods","GA6B!","251.2!","O","Y"," ","INA","Âflè·{∞}t$ıwπº{∞}dz","MS",1068
+"prairies","GA6B!","251.2!","N","Y"," ","HRD","Âpre∫{∞}rà{±ø´º}z","MS",1068
+"flat woods","GA6B!","251.2!","O","Y"," ","INA","flè·{∞}t$w∞´dz","MS",1068
+"canebrake","GA7","256","N","N","cane and reeds"," ","Âcáe´∫{±ø}nıbÚe´∫k","MS",1069
+"meadows","GA7","256","N","N","near bridge"," ","m≤´{∞}d∞´z","MS",1069
+"NR","GA8A","257.1"," ","N"," "," "," ","MS",1070
+"canebrakes","GA8B","257.2","N","N"," "," ","Âk`e∫{±ø}nıbre∫{±ø}ks","MS",1071
+"meadow","GA9A","257A.1","N","N"," ","CNV","m≤d∞","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"NR","GA10A","258.1"," ","N"," "," "," ","MS",1074
+"bog","GA10B","258.2","N","Y","soft place in field","INA","b∑Ω∫{∞ó}g","MS",1075
+"NR","GA11N","N258A"," ","N"," "," "," ","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"NR","GA12B!","259.2(.3)"," ","N"," "," "," ","MS",1078
+"meadows","GA13A","260.1","N","N"," "," ","Âm≤{∞}do›´ºz","MS",1079
+"meadow lands","GA13B!","260.2!","O","N","blacker land"," ","Âm±Ωd∞ó$ıl·∫{∞}nz","MS",1080
+"meadow lands","GA13B!","260.2!","O","N","blacker land"," ","Âm≤´{∞}d∞$ıl·∫{∞}nz","MS",1080
+"old field","GA14A","261.1","O","N","abandoned after cultivation"," ","Âoº∫{π}Ï$ıfi∫jÏ","MS",1081
+"lay-out land","GA14B","261.3","O","N","could be used for farming; stays idle a year"," ","Âle∫{±ø}ıµ´ºπt$Âl·{≤}n","MS",1082
+"NR","GA14C","261.2"," ","N"," "," "," ","MS",1083
+"meadow","GA15A","262.1","N","N"," "," ","m≤´{∞}d∞","MS",1084
+"NR","GA15B","262.2"," ","N"," "," "," ","MS",1085
+"pasture land","GA16A","263.2","O","N","grass, canes"," ","Âp`·{∞}st∞$ıl·∫{≤}n","MS",1086
+"canebrake","GA16B","263.1","N","N"," "," ","Âkàeº∫{∞}nıbre´∫k","MS",1087
+"meadow","GA16C","263.21","N","N","= pasture(?)","CNV","m≤∫{∞}d∞","MS",1088
+"pasture land","GA16D!","263.3!","O","N"," "," ","Âp`·{≤}stÛ∞ó´$ıl·∫{≤}n","MS",1089
+"savannas","GA16D!","263.3!","N","Y"," ","HRD","s∞›Âv·∫{∞}n∞´z","MS",1089
+"NR","GA17N","N264"," ","N"," "," "," ","MS",1090
+"meadow","GA17","264","N","N"," "," ","m≤d∞","MS",1091
+"NR","GA18A","264A.1"," ","N"," "," "," ","MS",1092
+"NR","GA18B","264A.2"," ","N"," "," "," ","MS",1093
+"palmetto land","GA19A","265.1","O","N"," "," ","Âp·{∞}lım≤´tê¥$Âl·∫{∞}n","MS",1094
+"canebrake","GA19A","265.1","N","N"," "," ","Âcáe∫{±ø}nıbre∫{±ø}k","MS",1094
+"NR","GA19B","265.2"," ","N"," "," "," ","MS",1095
+"meadow","GA20A","266.1","N","Y","anywhere, hilltop or bottom","SUG","m≤´{∞}d∞","MS",1096
+"meadow land","GA20B","266.2","O","N","low, next to swamp"," ","Âm≤´{∞}d∞$ıl·∫{∞}n","MS",1097
+"pasture","GA21A","267.1","N","N"," "," ","p`·stj∞","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"pasture","GA22A","268A.1","N","N","= meadow"," ","p`·∫stÛ∞","MS",1100
+"meadow","GA22B","268A.2","N","N"," "," ","Âm≤´∫{∞}d∞","MS",1101
+"bog","GA23A","268.1","N","Y","soft, in field","INA","b∂∫{∞}g","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"pasture","GA23C","268.2","N","N"," "," ","p`·stÛ¥","MS",1104
+"meadow","GA23C","268.2","N","N"," "," ","m≤Òoº{π}","MS",1104
+"meadow","GA23D!","268.3","N","N"," ","CNV","Âm≤´{∞}d∞","MS",1105
+"meadow land","GA23D!","268.3","O","Y"," ","SUG","Âm≤´{∞}d∞$ıl·∫{∞}n","MS",1105
+"field","GA23E!","268.4!","N","N"," "," ","fi∫{∞}ld","MS",1106
+"prairie","GA23E!","268.4!","N","Y"," ","SUG","p`reΩ{∞}r±ø´","MS",1106
+"meadow","GA23F!","268.5!","N","N"," "," ","m≤Ò∞","MS",1107
+"prairie","GA23F!","268.5!","N","N"," ","CNV","p`re∫{∞}r±ø","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"meadow bottom","GA24A","269.1","O","N"," "," ","m≤{∞}d∞$b∂º{∞}Ò∞m","MS",1109
+"meadow","GA24B","269.2","N","N"," "," ","m≤´d∞","MS",1110
+"meadow","GA25N","N269A","N","N"," "," ","m≤Òoº{πº}","MS",1111
+"NR","GA26","270A"," ","N"," "," "," ","MS",1112
+"meadow","GA27!","270!","N","N","not necessarily flooded"," ","m≤d∞","MS",1113
+"high meadow","GA27!","270!","O","N"," "," ","Âha´æ∫{∞}$m≤d∞","MS",1113
+"pasturage","GA28","271a","N","N","= meadow"," ","p`·stÛ∞r±ødè˙è","MS",1114
+"meadow","GA29A","271.1","N","Y","""don't know exactly what it is¢","SUG/HRD/DBT","m±Ωæd∞","MS",1115
+"stubble field","GA29B","271.2","O","N","not necessarily wet"," ","Âst¶Ωbl$ıfi∫l","MS",1116
+"meadow","GA30A","272.1(*)","N","N","cut hay off; richest"," ","m≤´∫{±ø}d∞","MS",1117
+"meadow","GA30B","272.2(*)","N","N","in ""pasture¢"," ","m≤´{∞}d∞","MS",1118
+"meadow","GA30C!","272.3!","N","N"," "," ","m≤∫d∞","MS",1119
+"NR","GA30D","272.1X"," ","N"," "," "," ","MS",1120
+"NA","GA30E","272.2X"," ","N"," "," "," ","MS",1121
+"meadows","GA31","272A","N","N"," "," ","m≤´Ò∞´z","MS",1122
+"meadow land","GA31","272A","O","N"," "," ","Âm≤´Ò∞$ıl·∫{∞}n","MS",1122
+"pasture","GA32","272B","N","N"," "," ","p·´{≤}stj∞","MS",1123
+"meadow","GA33A","272C1","N","N"," "," ","Âm≤d∞","MS",1124
+"grassy bottom","GA33A","272C1","O","N"," "," ","ıgr·´{≤}s±ø$Âbµætê∞´m","MS",1124
+"meadow","GA33B","272C2","N","N"," "," ","m≤d∞","MS",1125
+"meadow","GA34N","N273","N","N"," ","CNV","Âm≤´d∞","MS",1126
+"meadow","GA34A","273.1","N","N","wet"," ","m≤{∞}d∞","MS",1127
+"meadow","GA34B","273.2","N","N","if mowed"," ","Âm≤´d∞ó","MS",1128
+"meadow","GA35N","N273A","N","Y"," ","SUG","Âm≤do{π}","MS",1129
+"meadow","GA36N","N274A","N","N","= ""bottom¢, but grass only"," ","m≤d∞","MS",1130
+"pastures","GA36N","N274A","N","N"," "," ","p`·st∞´z","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"plains","GA37M!","NC274","N","Y"," ","DBT/HES","ple{±ø}nz","MS",1132
+"prairie","GA37A","274.1","N","N","in Florida","CNV","p∞Âre´∫{±ø}r±ø´º","MS",1133
+"meadow","GA37B","274.2","N","N"," "," ","m≤´{∞}d∞","MS",1134
+"NR","GA37C","274.21"," ","N"," "," "," ","MS",1135
+" ","GA37D!","274.7!"," "," ","a literary word","RN2"," ","MS",1136
+"meadow","GA37D!","274.7!","N","N","just a grassy place, irrespective of elevation,","RN1","m≤{d}∞ó","MS",1136
+"NR","GA37E!","274.8!"," ","N"," "," "," ","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"NR","GA37G!","274.4!"," ","N"," "," "," ","MS",1139
+"meadow","GA37H!","274.5!","N","Y"," ","SUG/DBT","m≤´{∞}d∞","MS",1140
+"pasture","GA37I!","274.6!","N","N"," "," ","Âp`·stÛ∞","MS",1141
+"meadow","GA37I!","274.6!","N","Y"," ","SUG","m≤doº{πº}","MS",1141
+"meadow","GA38","275","N","N"," "," ","m≤Ò¥","MS",1142
+"pasture","GA39","275A","N","N"," "," ","Âp`·∫{≤}stj∞","MS",1143
+"NR","GA40","276A"," ","N"," "," "," ","MS",1144
+"prairie","GA41","276B","N","N"," ","CNV","pr≤r±ø","MS",1145
+"an old swag","GA42A","276.1","O","N","`swag land' = lowland"," ","∞n$ıoº∫πºl$Âswè·Ω∫{≤}g","MS",1146
+"meadow","GA42A","276.1","N","Y","grass","SUG","Âm≤´d¥","MS",1146
+"meadowing","GA42A","276.1","V","N","= 1) grazing in a meadow","CNV/RN1","Âm≤´d∞r±øºn","MS",1146
+"meadow","GA42B","276.2","N","N"," "," ","m≤æd¥´","MS",1147
+"meadow","GA42B","276.2","N","N"," "," ","m≤æd∞´","MS",1147
+"meadow","GA43","277","N","N"," "," ","m≤{∞}d¥","MS",1148
+"meadow","GA44A","278.1","N","N"," "," ","m≤´d¥´","MS",1149
+"meadow","GA44B","278.2","N","N","= bottom land, in grass"," ","Âm≤d¥´","MS",1150
+"meadow land","GA44C","278.3","O","N"," "," ","Âm≤´d¥$ıl·∫{∞}n","MS",1151
+"meadow","GA44D","278.4","N","N"," "," ","m≤´∫{∞}d¥","MS",1152
+"NR","GA44E","278.5"," ","N"," "," "," ","MS",1153
+"level land","FL1","252","O","N"," "," ","Âl≤´vl$ıÏ·∫{≤}n","MS",1154
+"blackjack ridge","FL1","252","O","N"," "," ","Âbl·{≤}kıd˙·k$Âr±´d˙","MS",1154
+"prairie","FL1","252","N","N","grass, lower [than blackjack ridge]"," ","p∞›Âr≤∫r±ø´º","MS",1154
+"marshy land","FL2A","253.1","O","N"," "," ","Âmµéæ∫¥Û±ø´º$ıl·∫{≤}n","MS",1155
+"prairies","FL2A","253.1","N","N","further than marshy land"," ","p`∞Âre´∫r±ø´ºz","MS",1155
+"NR","FL2B","253.2"," ","N"," "," "," ","MS",1156
+"prairies","FL2C!","253.3!","N","N","open space: grass"," ","p`rèe∫r±ø´ºz","MS",1157
+"prairie","FL3A","254.1","N","N"," "," ","p`∞Âre´∫r±ø´º","MS",1158
+"low sour","FL3B!","254.2!","O","N"," "," ","Âlo´º∫$ısa´æ∫w∞","MS",1159
+"prairies","FL3B!","254.2!","N","N","trees, sparse"," ","p`∞Âre´∫r±ø´ºz","MS",1159
+"prairie","FL4","254A","N","N","pasture, flat"," ","p∞›Âr≤´r±ø","MS",1160
+"prairie","FL4","254A","N","N","""pasture¢; ""flat¢"," ","prè≤´r±ø´","MS",1160
+"prairie","FL5A","255.1","N","N","saw grass","SIC","p`rè≤´∫r∞","MS",1161
+"prairie","FL5A","255.1","N","N","saw grass","CNV","prè≥´∫r±ø´º","MS",1161
+"prairie","FL5B","255.2","N","N","grassy, easily flooded"," ","p`∞›Âr≤´∫r±ø´º","MS",1162
+"field","NY7E","424","N","N"," "," ","fi∫Ïd","MS",27
+"swale","NY23A","461","N","Y"," ","INA","ÂswèeΩ∫±´Ï","MS",64
+"mire hole","NY27A","470","O","Y","in field","INA","Âm•∫¥´$ıhoº∫πºÏ","MS",74
+"mire","NY31B","478b","N","Y","where cows get stuck","INA","Âm•∫±ø¥","MS",89
+"creek bottoms","NY32B","479b","O","N","used to cut grass out of) (for hay","CNV","Âkrá±k$ıbµtê∞´mz","MS",91
+"mire hole","NY45B","513b","O","Y","soft place in field","INA","Âm•∫±ø¥$ıho˛Ω∫π˛ºÏ","MS",123
+"pond","NY45C","513c","N","Y"," ","INA/CNV","pµ∫n","MS",124
+"springs","NY45C","513c","N","Y","soft, in field","INA","sprè±øÓz","MS",124
+"frog pond","NY46A","515a","O","Y"," ","INA/CNV","ÂfÚèµg$ıpµ∫n","MS",126
+"pond","NY46A","515a","N","Y"," ","INA/CNV","pµ∫nd","MS",126
+"ponds","NY46C","515c","N","Y"," ","INA","pµ∫nz","MS",128
+"pond","NY55A","533","N","Y"," ","INA","pµ∫nd","MS",153
+"bog grass","NY56A","535","O","Y"," ","INA","Âbµg$ıgÚá·{∞}s","MS",155
+"bunch grass","NY56A","535","O","Y"," ","INA","Âb∏ΩntÛ$ıgÚá·s","MS",155
+"flat land","NY56B","536","O","Y"," ","INA","Âf≈·t$ıl·Ωænd","MS",156
+"marshes","NY58C","539c","N","Y","same as `swale'","INA","Âmµé´¥Û±øºz","MS",162
+"swale","NY59A","543","N","Y","trees","INA","ÂsweΩ{±ø}Ï","MS",166
+"marsh","NY60A","545","N","Y","similar to swale","INA","maéæ·Û","MS",168
+"meadow","NY64B","557b","N","N"," "," ","m≤´doø{πøæ}","MS",181
+"meadow","PA19B","114","N","N"," "," ","m≤doº{π}","MS",286
+"buffalo wallow","DE2C","15X","O","Y","= `bottom'","INA","Âb∏f∞loΩº{π}$wµ{∞}Ï∞","MS",504
+"bottom","DE2C","15X","N","Y","low, wet place in field; no stream","INA","bµÒ∞m","MS",504
+"bottoms","DE3B","19","N","Y","wet place in field","INA","bµÒ∞mz","MS",506
+"branch","DE6A","23","N","Y","small","INA","br·∫ntÛ","MS",511
+"bottom land","MD11","51-","O","Y","bushes; rougher than meadow; wet","INA","bµæÒ∞m$l·∫{∞}nd","MS",536
+"meadow","MD16","64","N","N","only grass, too wet for anything else"," ","m≤{∞}d∞","MS",549
+"glade","MD27B","86","N","N","wet land"," ","gleΩ±ød","MS",574
+"flats","VA15A","139","N","N","wet meadow"," ","fl·∫ts","MS",608
+"bottom","VA15B","140","N","Y","wet place in a field","INA","bµ´{∞}Ò∞m","MS",609
+"meadow","SC1B","203.2","N","N","too wet to ""clear¢"," ","m≤{∞}d∞é","MS",889
+"pasture","SC4A","206.1","N","Y"," ","INA","p`·Ω{∞}st∞´æ","MS",896
+"marsh hen","SC4B","206.2","O","Y","same as `Indian pullets'","INA","Âmµæ∫¥Û$ıh≤´{∞}n","MS",897
+"Indian pullets","SC4B","206.2","O","Y","same as `marsh hen'","INA","Â±´nd±ø´º∞´n$ıp`πºl±øºts","MS",897
+"selvage","SC4C","206.3","N","Y","on edge of field, poor land","INA","Âs≤´Ïv±øºd˙","MS",898
+"bog","SC4C","206.3","N","Y","small, in pasture","INA","b∑º∫{∞}g","MS",898
+"broom sage","SC5A","207.1","O","Y"," ","INA","Âbruºm$ıse∫{∞}d˙","MS",899
+"bog","SC5D!","207.3!","N","Y","soft place in pasture","AUX/SUG/INA","b∂ó´{∞}g","MS",902
+"old field","SC6D","208.2X","O","N","abandoned farm","CNV","Âoº∫{πº}Ï$ıfi∫{∞}Ï","MS",907
+"unused pasture","SC7B","209.2","O","N"," "," ","Â∏ºnıjuø∫{u}zd$p`·{∞}stÛ∞óæ","MS",910
+"bog","SC7D!","209.4!","N","Y","soft place in field","INA","b∂´{∞}g","MS",912
+"no trees don't grow","SC8A","210.1","S","Y","""no trees don't grow¢","INA","Âno$ıtéÚi∫z$do˛´º∫{∞˛}$ÂgÚáo´º{∞ó}","MS",913
+"bog","SC8A","210.1","N","Y","in a field","INA","bµæ{∞}g","MS",913
+"old field","SC8C","210.3","O","N","abandoned clearings, orig. applied to","RN1","Âo∫{∞ó}l$ıfi∫{∞}l","MS",915
+"hill land","SC9A","211.1","O","N","near branch"," ","Âh±´{∞}l$ıl·{∞}n","MS",916
+"pine land","SC9D!","211.4!","O","Y","detached","INA","Âpµ∫±øn$ıl·∫{∞}n","MS",919
+"bogs","SC10B!","212.2!","N","Y","soft, in field","INA","b∑∫{∞}gz","MS",921
+"fertile","SC11D","213.3","A","Y"," ","INA","f≥´æ∫tÁl","MS",928
+"flat","SC11D","213.3","A","Y"," ","INA","f≈è·Ωt","MS",928
+"uplands","SC11J!","213.10!","N","Y"," ","INA","Â∏´pl∞nz","MS",934
+"bog","SC14B","215.2","N","Y","in a field","INA","bﬁ∫{∞}g","MS",939
+"bog hole","SC15A","216.1","O","Y","in a field, soft place","INA","Âb∂ó∫{∞}g$ıho´∫{∞}l","MS",940
+"cow'll bog in them","SC15B","216.2","S","Y"," ","INA","kµ´∫oul$Âb∂ó´∫{∞}g$ı±´{∞}n$∞´m","MS",941
+"pond","SC15C","216.3","N","Y"," ","INA","p∂ó´∫{∞}nd","MS",942
+"dried lake","SC15C","216.3","O","Y"," ","INA","ÂdéÚµ´∫±ød$le∫{∞}k","MS",942
+"sobby land","SC15C","216.3","O","N"," "," ","Âsﬁób±ø´º$ıl·∫{∞}n","MS",942
+"bog","SC15C","216.3","N","Y","soft place in field","CNV/INA","b∂ó´∫{∞}g","MS",942
+"boggy place","SC15C","216.3","O","Y"," ","CNV/INA","Âbﬁóg±ø´º$ıp≈èe∫{∞}s","MS",942
+"sobby","SC15B","216.2","A","Y"," ","INA","sﬁób±ø´º","MS",941
+"sour","SC15B","216.2","A","Y"," ","INA","sa´æ∫∞ó|∞","MS",941
+"boggyish","SC18A","219.1","A","Y"," ","CNV/INA","Âb∂g±ø´º|±øºÛ","MS",950
+"bog hole","SC22C!","223.3!","O","Y","in a field","INA","Âb∂{∞}g$ıho∫{∞}Ï","MS",969
+"bay","SC23A","224.1","N","N"," "," ","be∫{±ø}","MS",970
+"bog holes","SC24C","225.2","O","Y","in field","INA","Âb∑∫{∞}g$ıhoº{∞}Ïz","MS",978
+"savanna pond","SC26A","227.1","O","Y"," ","INA","s∞›Âv·Ω{∞}n∞$ıp∑∫{∞}n","MS",983
+"bog","SC26B!","227.2!","N","Y","soft, in field","INA","b∑∫{∞}g","MS",984
+"slough","SC26B!","227.2!","N","Y","soft, in field","INA/SIC","sloº∫","MS",984
+"marshy place","SC26B!","227.2!","O","Y","soft, in field","INA","Âmﬁ∫∞Û±ø´º$ple∫s","MS",984
+"bog hole","SC31B","232.2","O","Y","in field","INA","Âb∑´∫oΩg$ıho´º∫Ï","MS",1000
+"bog","SC32A","233.1","N","Y","small, soft, in field","INA","bﬁ∫{∞}g","MS",1001
+"bog","SC32D","233.4","N","Y","small, in a field","INA","b∑´∫{∞}g","MS",1004
+" ","SC15B","216.2"," "," ","""sobby¢; ""sour¢","RN2"," ","MS",941
+" ","SC8C","210.3"," "," ","fields cleared by Indians","RN2"," ","MS",915
+"bog","GA4A","249.1","N","Y","in field; cow might get stuck","HRD/INA","b∑ó´∫{∞}g","MS",1059
+"bog","GA4C!","249.3!","N","Y","cattle get stuck; in field","INA","b∑´∫{∞}g","MS",1061
+"field","GA5E!","250.5!","N","N"," "," ","Âfi∫lç","MS",1066
+"old field","GA5E!","250.5!","O","N"," "," ","Âo∫{∞}l$ıfilç","MS",1066
+"bog hole","GA7","256","O","Y","soft, in field","INA","Âbﬁ∫g$ıhoº∫{πº}Ï","MS",1069
+"bog","GA13B!","260.2!","N","Y","soft, in field","INA","b∑´∫{∞}g","MS",1080
+"bog","GA14A","261.1","N","Y","soft place in pasture","INA","bﬁ{∞}g","MS",1081
+"pasture","GA9A","257A.1","N","Y"," ","INA","p·stÛ¥","MS",1072
+"boggy land","GA16D!","263.3!","O","Y","place in field","INA","Âbﬁg±ø´$l·{∞}n","MS",1089
+"boggy land","GA20B","266.2","O","Y","soft, in field","INA","Âb∂´∫∑g±ø´º$ıl·∫{∞}n","MS",1097
+"hillside","GA25N","N269A","N","Y"," ","INA","Âh±∫{∞}Ïısa´æ∫{∞}d","MS",1111
+"mire","GA29A","271.1","N","Y","soft, in field","INA","mµ´æ∫∞","MS",1115
+"pasture","GA30B","272.2(*)","N","Y"," ","INA","Âp`·{∞}stÛ∞","MS",1118
+"bottom","GA36N","N274A","N","Y"," ","INA","bﬁtê∞´m","MS",1130
+" ","GA42A","276.1"," "," ","2) putting out to graze in a meadow","RN2"," ","MS",1146
+"hammock","FL1","252","N","N","richer than blackjack"," ","h·∫{≤}m∞´k","MS",1154
+"pasture","FL4","254A","N","Y"," ","INA","p`·´stÛ¥","MS",1160
+"flat","FL4","254A","A","Y"," ","INA","fl·t","MS",1160
+"","","","","","","","","",

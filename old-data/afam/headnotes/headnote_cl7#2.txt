@@ -1,0 +1,49 @@
+rising (cl7#2.asc)
+
+Items
+=====
+                     blowing harder    1
+                         blowing up    1
+                           breezing    1
+                        breezing up    3
+                             coming    1
+                          coming up    1
+                       getting high    3
+                     getting higher    2
+          getting higher and higher    2
+                      getting rough    1
+                   getting stronger    2
+                         increasing    3
+           it raise a little harder    1
+      it's coming up a little storm    1
+                          it's high    1
+                        kindling up    1
+                         moderating    1
+                                 NR   16
+                         picking up    4
+                  pretty heavy wind    1
+                            raising    3
+                       raising high    1
+                             rising   14
+                              rough    1
+                        she arising    1
+                       springing up    1
+                 started to blowing    1
+                        stirring up    1
+                       sure is high    1
+the wind blow higher now than this morning    1
+             the wind getting heavy    1
+            the wind getting higher    1
+          the wind getting stronger    1
+            the wind going to raise    1
+                      the wind gust    1
+           the wind is blowing high    1
+                the wind is raising    1
+           the wind is raising high    1
+                 the wind is rising    1
+            the wind is rising high    2
+                the wind is so high    1
+              the wind is very high    1
+                 the wind rise high    1
+when the wind been blow like it do now, we see wind gust    1
+

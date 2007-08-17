@@ -1,0 +1,1637 @@
+"clearing up","NY1","50","E","N"," "," ","kl±ær±øÓ$∏p","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"clearing off","NY2B","51.2","E","N"," "," ","kl±∞r±øΩn$∑∫f","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"clearing","NY3A","401","V","N"," "," ","kÏ±∞r±øÓ","MS",5
+"clearing off","NY3B","403","E","N"," "," ","kÏ±∞±øÓ$∑Ω∫f","MS",6
+"clearing","NY3C","402","V","N"," "," ","kÏ±¥r±øÓ","MS",7
+"clearing up","NY3D","404","E","N"," "," ","kÏ±∞r±øÓ$∏ºp","MS",8
+"clearing off","NY4A","405","E","N"," "," ","kÏ±∞r±øÓ$∑∫{∞}f","MS",9
+"clearing away","NY4B","407","E","N"," "," ","ıkÏ±∞r±øΩn$∞ÂweΩ±ø","MS",10
+"clearing up","NY4C","408","E","N"," "," ","kÏ±ær±øÓ$Â∏ºp","MS",11
+"clearing","NY5A","409","V","N"," "," ","kÏ±´∫∞r±øÓ","MS",12
+"clearing up","NY5B","410","E","N"," "," ","ıkÏ±∫∞r±øÓ$Â∏ºp","MS",13
+"clearing","NY5C","411","V","N"," "," ","kÏ±∫∞r±øÓ","MS",14
+"clearing up","NY5D","412","E","N"," "," ","ıkÏ±∫∞r±øÓ$Â∏ºp","MS",15
+"clearing","NY5E","413","V","N"," "," ","kÏ±∫∞r±øÓ","MS",16
+"clearing","NY5F","414","V","N"," "," ","kÏ±º∫∞r±øÓ","MS",17
+"clearing","NY5G","415","V","N"," "," ","kÏ±∫∞r±øÓ","MS",18
+"clearing","NY5H!","416!","V","N"," "," ","kÏ±∞róü’›±øÓ","MS",19
+"clearing","NY5I!","417!","V","N"," "," ","kÏ±¥›|±øÓ","MS",20
+"clearing off","NY6A","418","E","N"," "," ","ıkÏ≤∫∞r∞n$Â∑∫{∞}{f}","MS",21
+"breaking up","NY6A","418","E","N"," "," ","br≤±øk∞n$∏´ºp","MS",21
+"clearing","NY6B","419","V","N"," "," ","kÏ±∫∞r±øÓ","MS",22
+"clearing up","NY7A","420","E","N"," "," ","ıkÏ±∫∞r∞n$Â∏ºp","MS",23
+"clearing up","NY7B","421","E","N"," "," ","ıkÏ±´∫∞r±øÓ$Â∏ºp","MS",24
+"clearing up","NY7C","422","E","N"," "," ","ıkÏ±∫∞r∞n$Â∏ºp","MS",25
+"clearing up","NY7D","423","E","N"," "," ","ıkÏ±∫∞r›±øÓ$Â∏ºp","MS",26
+"clearing up","NY7E","424","E","N"," "," ","ıkÏ±∫∞r±øÓ$Â∏ºp","MS",27
+"clearing","NY7F","425","V","N"," "," ","kÏ±´∞r±øÓ","MS",28
+"clearing","NY7G","426","V","N"," "," ","kÏ±´∫∞ˆürü’›±øÓ","MS",29
+"clearing up","NY7H","427","E","N"," "," ","kl±∞r±øÓ$Â∏´ºp","MS",30
+"clearing off","NY7I","428","E","N"," "," ","ıkÏ±´∫∞r±øÓ$Â∑:{∞}f","MS",31
+"clearing","NY7J!","429!","V","N"," "," ","kÏ±´∫∞r±øÓ","MS",32
+"clearing","NY7K!","430!","V","N"," "," ","kÏ±´∫∞r±øÓ","MS",33
+"clearing up","NY7L!","431!","E","N"," "," ","ıkÏ±∞´ré›±øÓ$Â∏ºp","MS",34
+"clearing","NY7M!","432!","V","N"," "," ","kl±´∫∞r±øÓ","MS",35
+"clearing off","NY8","432b","E","N"," "," ","ıkÏ±∞r±øÓ$Â∑∫{∞}f","MS",36
+"clearing","NY9A","432c","V","N"," "," ","kÏ±¥±øÓ","MS",37
+"clearing","NY9A","432c","V","N"," "," ","kÏ±{∞}r±øÓ","MS",37
+"breaking","NY9B","433","V","N"," "," ","bre±øk±øÓ","MS",38
+"clearing","NY9C","434","V","N"," "," ","kl±∞r±øÓ","MS",39
+"clearing","NY10A","435","V","N"," "," ","kÏ±¥±øÓ","MS",40
+"clearing off","NY10B!","436!","E","N"," "," ","kÏ±¥±øÓ$∑Ω∫{∞}f","MS",41
+"clearing","NY11","438","V","N"," "," ","kÏ±{∞}r±øÓ","MS",42
+"clearing away","NY12A","439(*)","E","N"," "," ","kÏ±¥±øÓ$∞weΩ±ø´","MS",43
+"clearing","NY12B","440","V","N"," "," ","kÏ±¥±øÓ","MS",44
+"clearing","NY12C!","441!","V","N"," "," ","kÏ±∞r±øÓ","MS",45
+"clearing up","NY13A","443","E","N"," "," ","ıkÏ±∞r∞n$Â∏p","MS",46
+"clearing","NY13B!","444!","V","N"," "," ","kÏ±∫∞r±øÓ","MS",47
+"clearing up","NY14A","445","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",48
+"clearing off","NY14A","445","E","N"," "," ","ıkÏ±¥±øÓ$∂´∫f","MS",48
+"clearing up","NY14B","446","E","N"," "," ","kÏ±∫∞r±øÓ$Â∏ºp","MS",49
+"clearing","NY15A","447","V","N"," "," ","kÏ±¥±øÓ","MS",50
+"clearing up","NY15B","448","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",51
+"clearing","NY16A","449","V","N"," "," ","kÏ±∞r±øÓ","MS",52
+"clearing up","NY16B","450","E","N"," "," ","ıkÏ±∫∞r±øÓ$Â∏ºp","MS",53
+"clearing off","NY17A","451(*)","E","N"," "," ","kÏ±¥±øΩn$Â∂´∫{∞}f","MS",54
+"clearing up","NY17B","452","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",55
+"clearing up","NY18A","453","E","N"," "," ","kÏ±¥±øΩn$∏Ωp","MS",56
+"clearing up","NY18B","454","E","N"," "," ","ıkÏ±Ω¥∞n$Â∏p","MS",57
+"clearing up","NY18C!","455!","E","N"," "," ","ıkÏ±∫∞r±øÓ$Â∏p","MS",58
+"clearing","NY19","456","V","N"," "," ","kÏ±¥±øÓ","MS",59
+"clearing up","NY20A","457","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",60
+"clearing up","NY20B","458","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",61
+"clearing up","NY21","459","E","N"," "," ","kÏ±¥∞n$∏p","MS",62
+"clearing","NY22","460","V","N"," "," ","kÏ±¥±øÓ","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"clearing off","NY23B","462a","E","N"," "," ","Âklè±¥±øºn$ı∑Ω∫{∞}f","MS",65
+"clearing up","NY23C","462b","E","N"," "," ","Âk`Ïè±ø¥±øºÓ$ı∏´p","MS",66
+"clearing up","NY24A","463","E","N"," "," ","ıkÏ±¥±øΩn$Â∏Ωp","MS",67
+"breaking up","NY24B!","464!","E","N"," "," ","bre∫±øk±øÓ$∏Ωp","MS",68
+"clearing up","NY24B!","464!","E","N"," "," ","kÏ±¥±øÓ$∏Ωp","MS",68
+"clear away","NY25A","465","E","N"," "," ","ıkl±ø¥$∞ÂweΩ∫{±ø}","MS",69
+"clear off","NY25A","465","E","N"," "," ","ıkl±ø¥$Â∑Ω∫{∞}f","MS",69
+"clearing off","NY25B","466","E","N"," "," ","ıkÏ±øé¥±øºÓ$Âµóæ∫{∞}f","MS",70
+"clearing off","NY26A","467","E","N"," "," ","ıkÏ±é¥n$Â∑Ω∫f","MS",71
+"breaking away","NY26A","467","E","N"," "," ","breΩ±øk±øºn$∞ÂweΩ∫±ø","MS",71
+"clearing up","NY26A","467","E","N"," "," ","ıkÏ±é¥n$Â∏Ωp","MS",71
+"burning off","NY26A","467","E","N"," "," ","Âb¥∫n±øºn$ı∑Ω∫f","MS",71
+"going to clear","NY26B","468","E","N"," "," ","ıgoºπº±øºÓ$t∞$ÂkÏ±é¥","MS",72
+"going to clear up","NY26B","468","E","N"," "," ","ıgoºπº±øºÓ$t∞$ÂkÏè±é›¥$Â∏Ωp","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"clearing off","NY27A","470","E","N"," "," ","Âklè±Ω¥n$ı∂´∫f","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"clearing up","NY27C","472","E","N"," "," ","Âkl±ø¥n$ı∏Ωp","MS",76
+"burning off","NY27C","472","E","Y","especially in summer","OLD","ıb≥æ¥nn$Â∑Ω∫{∞}f","MS",76
+"clearing off","NY28A","473a","E","N","""Pa used to say¢"," ","Âkl±ø¥±øºÓ$∑Ω∫{∞}f","MS",77
+"breaking away","NY28A","473a","E","N"," "," ","ÂbreΩ∫{±ø}k±øºn$∞ıweΩ∫{±ø}","MS",77
+"clearing away","NY28A","473a","E","N"," "," ","Âkl±ø¥±øºÓ$∞ıweΩ±ø","MS",77
+"clearing up","NY28B","473b(*)","E","N"," "," ","ıkliΩ¥±æÓ$Â•æp","MS",78
+"breaking away","NY28B","473b(*)","E","N"," "," ","ıbreΩ±øk±øºÓ$∞ÂweΩ∫±ø","MS",78
+"clear up","NY28B","473b(*)","E","N"," ","CNV","ıkÏi¥$Â∏Ωp","MS",78
+"clearing up","NY28B","473b(*)","E","N"," "," ","klè±´¥±æn$•æp","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"clear up","NY29A","474a","E","N"," "," ","Âklè±é¥$ı∏Ωp","MS",80
+"cleared up","NY29B","474b","E","N"," "," ","ÂkÏè±é¥d$ı∏Ωp","MS",81
+"cleared up","NY29C","474c","E","N"," "," ","ÂkÏ±é¥d$ı∏p","MS",82
+"clearing up","NY30A","475a","E","N"," "," ","Âtlç±¥±øºn$ı∏Ωp","MS",83
+"clearing away","NY30A","475a","E","N"," "," ","Âtlçè±¥±øºn$∞ıweΩ∫{±ø}","MS",83
+"cleared away","NY30B","475b","E","N"," "," ","Âklè±¥d$∞ıweΩ∫{±ø}","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"clearing up","NY30E","475e","E","N"," "," ","Âklè±¥±øΩÓ$ı•p","MS",87
+"clearing up","NY31A","478a","E","N"," "," ","Âk≈iΩ¥±øÓ$ı¶Ωp","MS",88
+"clear off","NY31B","478b","E","N"," "," ","Âk≈è±é¥$ı∑∫f","MS",89
+"patch of blue as big as","NY31B","478b","K","Y"," ","INA/RN1","p·tÛ∞$b≈uøuø´$∞z$Âb±´g$∞z","MS",89
+"a dutchman's britches","NY31B","478b"," "," "," ","RN2","∞$ıd∏´tÛm∞´nz$Âbr±´tÛ∞´z","MS",89
+"clearing up","NY32A","479a","E","N"," "," ","ıkl±¥±øºÓ$Â∏ºp","MS",90
+"weather going to cease","NY32A","479a","S","N"," "," ","Âw≤‰¥$ıgoΩºπºntê∞$ÂsiΩis","MS",90
+"clearing off","NY32A","479a","E","N"," "," ","ıkl±¥±øºÓ$Â∑∫f","MS",90
+"ceasing","NY32A","479a","V","N"," "," ","siΩis±øn","MS",90
+"ceasing","NY32A","479a","E","N"," "," ","siΩis±øºÓ","MS",90
+"clearing up","NY32B","479b","E","N"," "," ","Âk≈è±¥±øºÓ$ı∏´ºp","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"clearing","NY33B","481","V","N"," "," ","klè±é¥±øºÓ","MS",93
+"clearing up","NY33B","481","E","N"," "," ","klè±é¥±øºÓ$•æp","MS",93
+"clear up","NY33C","482","E","N"," "," ","Âklè±é¥$ı∏Ωp","MS",94
+"clear","NY33C","482","E","N"," "," ","klè±é¥","MS",94
+"clearing up","NY34A","483","E","N"," "," ","Âk≈è±¥±øÓ$ı∏ºp","MS",95
+"clearing","NY34A","483","V","N"," "," ","Âk≈è±ø¥±øÓ","MS",95
+"breaking away","NY34A","483","E","N"," "," ","ÂbÚeΩ±øk±øÓ$∞ıweΩ±ø","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"clearing","NY34D!","486!","V","N"," "," ","klè±é¥±øÓ","MS",98
+"clearing","NY35A","487","V","N"," "," ","kÏ±¥±øΩÓ","MS",99
+"clearing up","NY35B","488","E","N"," "," ","ıkÏ±¥±øÓ$Â∏Ωp","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"clearing up","NY36A","491","E","N"," "," ","kÏ±¥±øΩn$∏p","MS",102
+"clearing up","NY36B","492","E","N"," "," ","kÏ±¥±øÓ$∏Ωp","MS",103
+"clearing up","NY37A","493","E","N"," "," ","kÏ±¥±øÓ$∏Ωp","MS",104
+"clearing up","NY37B","494","E","N"," "," ","ıkÏ±æ¥±øÓ$Â∏p","MS",105
+"clearing","NY37C!","495!","V","N"," "," ","kÏ±¥±øÓ","MS",106
+"clearing up","NY38A","497(*)","E","N"," "," ","kÏ±´¥±øΩn$∏p","MS",107
+"clearing up","NY38B","498","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"clearing off","NY39A","499","E","N"," "," ","kÏ±¥±øΩn$∂´∫{∞}f","MS",110
+"clearing up","NY39B","500","E","N"," "," ","ıkl±æ¥±øΩn$Â∏p","MS",111
+"clearing up","NY40A","501","E","N"," "," ","kÏ±¥±øΩn$∏p","MS",112
+"clearing off","NY40A","501","E","N"," "," ","kÏ±¥±øΩn$∂∫f","MS",112
+"clearing","NY40B","502","V","N"," "," ","kÏ±¥±øÓ","MS",113
+"clearing up","NY41","504","E","N"," "," ","ıkÏ±¥±øÓ$Â∏Ωp","MS",114
+"clearing","NY42A","505","V","N"," "," ","kÏ±¥±øÓ","MS",115
+"clearing up","NY42A","505","E","N"," "," ","kÏ±¥±øÓ$∏Ωp","MS",115
+"clearing up","NY42B","506","E","N"," "," ","kÏ±¥±øΩn$∏p","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"clearing up","NY43B","507b","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",118
+"clearing","NY43C!","508!","V","N"," "," ","kÏ±¥±øÓ","MS",119
+"clearing up","NY44A","511","E","N"," "," ","ıkÏ±¥±øΩn$Â∏p","MS",120
+"clearing up","NY44B","512","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",121
+"clearing up","NY45A","513a","E","N"," "," ","Âk≈≤´¥n$ı∏ºp","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"clearing up","NY45D!","513d!","E","N"," "," ","Âk≈±é¥±øºÓ$ı∏Ωp","MS",125
+"clear up","NY46A","515a","E","N"," "," ","k≈è±è¥$Â∏´p","MS",126
+"make a dutchman's pants","NY46A","515a"," "," "," ","RN2","meΩ±øk$∞Âd∏´tÛm∞´nz$p·nts","MS",126
+"blue sky enough to","NY46A","515a","S","Y"," ","INA/RN1","Âb≈uøΩæuøæ$ıskµ´±ø$∞´n∏´f$t∞","MS",126
+"breaking for the better","NY46B","515b","E","N"," "," ","bre{±}k±øn$f¥$‰∞$b≤tê¥","MS",127
+"broke","NY46B","515b","V","N","weather has); i.e. changed for better or worse"," ","broπ´k","MS",127
+"clearing","NY46C","515c","V","N"," "," ","kl±æ∫{∞}¥±øºÓ","MS",128
+"break away","NY47A","517(*)","E","N"," "," ","ıbreΩ±øk$∞ÂweΩ∫{±ø}","MS",129
+"clear up","NY47A","517(*)","E","N"," "," ","ıkl≥é´º¥$Â∏ºp","MS",129
+"clearing","NY47B","518","V","N"," "," ","kÏ±é¥±øÓ","MS",130
+"going to clear up","NY48A","519a","E","N"," "," ","ıgoΩºπº±ø›n$t∞$kl±é¥$Â∏´p","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"clearing up","NY48C","519c","E","N"," "," ","ıklè±¥±øÓ$Â∏´p","MS",133
+"breaking away","NY48D","519d","E","N"," "," ","bÚeΩ±øk±øºÓ$∞ÂweΩ±øº","MS",134
+"clearing","NY48D","519d","V","N"," "," ","k≈±é¥±øn","MS",134
+"NA","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"brightening","NY49C","522a","V","N"," "," ","Âbr•´±ø'tn±øÓ","MS",137
+"changing","NY49C","522a","V","N"," "," ","tÛe{±ø}nd˙±øÓ","MS",137
+"brightening up","NY49D","522b","E","N"," "," ","Âbr•±ø'tn±øÓ$ı∏´ºp","MS",138
+"going to clear up","NY50A","523","E","N"," "," ","ıgoΩºπΩºÓ$k≈è±ø¥$Â∏´p","MS",139
+"going to clear up","NY50B","524","E","N"," "," ","goæπºn$t∞$klè±é¥$Â∏´p","MS",140
+"cleared off","NY51A","525a","E","N"," "," ","Âk≈è±ø¥d$ı∑∫f","MS",141
+"clear up","NY51A","525a","E","N"," "," ","Âk≈è±é¥$ı∏ºp","MS",141
+"cleared up","NY51A","525a","E","N"," "," ","k≈è±ø¥d$∏óºp","MS",141
+"clearing","NY51B","525b","V","N"," "," ","k≈è±¥±øÓ","MS",142
+"breaking away","NY51B","525b","E","N"," "," ","ıbÚóeΩ±øk±øÓ$∞ÂweΩ∫±ø","MS",142
+"clearing up","NY51C","525c","E","N"," "," ","ık≈è±é¥±øÓ$Â∏Ωp","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"cleared up","NY52A","527","E","N"," "," ","Âk≈è±é¥d$∏Ωp","MS",146
+"fairing up","NY52A","527","E","N"," "," ","Âf≤Ω¥n$ı∏Ωp","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"clearing up","NY52C","528b","E","N"," "," ","Âkl±¥±øºn$ı∏ºp","MS",148
+"clearing up","NY53A","529","E","N"," "," ","ıkÏè≤¥n$Â∏ºp","MS",149
+"clear off","NY53B!","530!","E","N"," "," ","Âk≈è±é¥$ı∑Ω{∞}f","MS",150
+"clearing up","NY54A","531","E","N"," "," ","ÂkÏ±é¥±øn$ı∏ºp","MS",151
+"breaking","NY54B","532","V","N"," "," ","Âbre±øk±øÓ","MS",152
+"clearing up","NY55A","533","E","N"," "," ","ÂkÏè±¥±øºÓ$ı∏ºp","MS",153
+"clearing","NY55B","534","V","N"," "," ","ÂkÏè±é¥±øºn","MS",154
+"going to clear off","NY55B","534","E","N"," "," ","goº{πº}±øºÓ$t∞$ıkÏè±¥$Â∂´f","MS",154
+"going to clear off","NY56A","535","E","N"," "," ","goΩºπºntê∞$ık≈±¥$Â∑Ω∫f","MS",155
+"going to clear up","NY56A","535","E","N"," "," ","goΩºπºntê∞$ık≈±¥$Â∏ºp","MS",155
+"clearing up","NY56B","536","E","N"," "," ","Âkl±é¥±øÓ$ı∏ºp","MS",156
+"going to clear up","NY57A","537a","E","N"," "," ","ıgoΩºπºntê∞$k≈±øº¥$Â∏ºp","MS",157
+"clear off","NY57B","537b","E","N"," ","CNV","k≈è±é¥$Â∑Ω∫f","MS",158
+"clearing off","NY57C!","537c!","E","N"," "," ","Âk≈±é¥±øÓ$∑Ω∫f","MS",159
+"clearing","NY57C!","537c!","V","N"," "," ","Âk≈±é¥±øÓ","MS",159
+"clearing away","NY58A","539a","E","N"," "," ","Âk≈±é¥±øºÓ$∞ıweΩ∫{±ø}","MS",160
+"going to clear off","NY58B","539b","E","N"," "," ","goø±ø›n$t∞$Âk≈è±é¥$ı∑Ω∫f","MS",161
+"clearing","NY58B","539b","V","N"," ","CNV","k≈è±ø¥±øºn","MS",161
+"clear up","NY58B","539b","E","N"," "," ","Âk≈è±é¥$ı∏ºp","MS",161
+"clear up","NY58B","539b","E","N"," "," ","Âk≈è±é¥$ı∏´ºp","MS",161
+"don't look for blue sky in the east","NY58B","539b","S","Y"," ","INA","Âdoπnt$ılπk$f¥$Âb≈uøΩu$ısk•´±ø$±øºn$‰∞´$ÂiΩis","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"clearing","NY58D!","539d!","V","N"," "," ","Âk≈±é¥±øÓ","MS",163
+"clearing","NY58E!","539e!","V","N"," "," ","Âk≈±éΩ¥±øºÓ","MS",164
+"clearing","NY58E!","539e!","V","N"," "," ","Âk≈±éΩ¥±øºÓ","MS",164
+"clearing","NY58F!","539f!","V","N"," ","CNV","kÏè±é¥±øΩÓ","MS",165
+"clearing up","NY58F!","539f!","E","N"," ","CNV","k`Ï±é¥±øΩÓ$ı∏ºp","MS",165
+"clearing up","NY59A","543","E","N"," "," ","Âk≈è±æ¥±øÓ$ı∏ºp","MS",166
+"clearing","NY59B","544","V","N"," "," ","kÏ±¥±øÓ","MS",167
+"clearing away","NY60A","545","E","N"," "," ","ÂkÏ±øé¥±øºÓ$∞ıweΩ±øº","MS",168
+"clearing","NY60B!","546!","V","N"," "," ","k≈≤é´¥±øÓ","MS",169
+"clearing","NY60B!","546!","V","N"," ","CNV","k≈è±é¥±øºn","MS",169
+"clear up","NY61A","547","E","N"," ","CNV","ıklè±ø¥$Â∏Ωp","MS",170
+"cleared up","NY61A","547","E","N"," "," ","Âklè±¥d$ı∏ºp","MS",170
+"cleared","NY61A","547","V","N"," ","CNV","kl±¥d","MS",170
+"going to clear up","NY61B","548","E","N"," "," ","ıgoºπ›º|nñ$t∞$ıkÏè±é¥$Â∏ºp","MS",171
+"clearing up","NY62A","551a","E","N"," "," ","ıklè±¥n$Â∏´ºp","MS",172
+"clearing up","NY62B","551b","E","N"," "," ","ıklè±¥±øºÓ$Â∏ºp","MS",173
+"clearing off","NY62B","551b","E","N"," "," ","ıklè±¥±øºÓ$∂´f","MS",173
+"clearing away","NY62B","551b","E","N"," "," ","ıklè±¥±øºÓ$∞ÂweΩ{±ø}","MS",173
+"clear off","NY62B","551b","E","N"," "," ","kl±Ω¥$∂´f","MS",173
+"clearing up","NY62C","551c","E","N"," "," ","Âtlçè±éÒé¥±øºÓ$ı∏ºp","MS",174
+"clearing up","NY62D!","551d!","E","N"," "," ","Âklè±é¥±øºÓ$Â∏ºp","MS",175
+"clearing","NY62D!","551d!","V","N"," "," ","Âklè±é¥±øºÓ","MS",175
+"breaking away","NY63A","556a","E","N"," "," ","ÂbrèeΩ±øk±øºn$∞ıweΩ∫{±ø}","MS",176
+"clear up","NY63A","556a","E","N"," ","CNV","Âk≈è±é¥$∏ºp","MS",176
+"cleared off","NY63B","556b","E","N"," "," ","Âk≈±é¥d$ı∑Ωf","MS",177
+"cleared up","NY63B","556b","E","N"," "," ","Âk≈±é¥d$ı∏ºp","MS",177
+"clearing","NY63C","556c","V","N"," "," ","kÏ±¥±øÓ","MS",178
+"clearing up","NY63D!","556d!","E","N"," "," ","Âk≈±é¥±øºÓ$ı∏´ºp","MS",179
+"clouds are breaking away","NY63D!","556d!","S","N"," "," ","Âklµπdz$¥$Âbre∫{±ø}k±øºÓ$∞ÂweΩ∫{±ø}","MS",179
+"breaking through","NY63D!","556d!","E","N"," "," ","ÂbreΩ{±ø}k±øÓ$ı˘Òéèuº","MS",179
+"cleared off","NY64A","557a","E","N"," "," ","Âklè±é¥d$ı∑Ω∫f","MS",180
+"clearing up","NY64B","557b","E","N"," "," ","Âklè±é¥±øºÓ$ı∏Ωp","MS",181
+"clearing","NY64C!","557c!","V","N"," "," ","klè±é¥±øºÓ","MS",182
+"clearing off","NJ1A","1","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",183
+"clearing off","NJ1B","2","E","N"," "," ","kÏ±¥∞n$∂îº∫{∞}f","MS",184
+"clearing away","NJ2A","3(*)","E","N"," "," ","kÏ±¥∞n$∞w≤±ø","MS",185
+"clearing","NJ2B","4","V","N"," "," ","kÏ±¥±øÓ","MS",186
+"clearing off","NJ3A","5","E","N"," "," ","kÏ±´¥∞n$∂´º∫{∞}f","MS",187
+"clearing","NJ3B","6","V","N"," "," ","kÏ±æ¥±øÓ","MS",188
+"clearing up","NJ4A","7","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",189
+"clearing","NJ4B","8","V","N"," "," ","kÏ±¥±øÓ","MS",190
+"clearing off","NJ5A","9","E","N"," "," ","kÏ±¥∞n$∂´∫f","MS",191
+"clearing off","NJ5B","10","E","N"," "," ","kÏ±´¥±øÓ$∑º∫{∞}f","MS",192
+"clearing off","NJ6A","11","E","N"," "," ","kÏ±¥∞n$∑Ω∫f","MS",193
+"clearing up","NJ6B","12","E","N"," "," ","kÏ±¥±øÓ$∏´{∞}p","MS",194
+"clearing up","NJ7A","17","E","N"," "," ","kÏ±´¥±ø Ó$Â∏ó´{∞}p","MS",195
+"clearing","NJ7B!","18!","V","N"," "," ","kÏ±¥±øÓ","MS",196
+"clearing off","NJ8A","19","E","N"," "," ","ıkÏ±¥±øÓ$Â∂´∫f","MS",197
+"clearing up","NJ8B","20","E","N"," "," ","kÏ±¥±øÓ$∏ºp","MS",198
+"clearing off","NJ9A","21","E","N"," "," ","kÏ±¥∞n$Â∂´∫f","MS",199
+"clearing","NJ9B","22","V","N"," "," ","kÏ±¥±øÓ","MS",200
+"clearing up","NJ10A","24b","E","N"," "," ","ıkÏ±∫∞r∞n$Â∏ºp","MS",201
+"clearing up","NJ10B","23","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",202
+"clearing up","NJ10C","24","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",203
+"clearing","NJ10D!","24c!","V","N"," "," ","kÏ±∞r±øÓ","MS",204
+"clearing up","NJ11A","25","E","N"," "," ","kÏ±¥±øÓ$∏æp","MS",205
+"clearing","NJ11B","26a","V","N"," "," ","kÏ±{∞}r±øÓ","MS",206
+"clearing up","NJ11C","26b","E","N"," "," ","ıkÏ±¥∞n$Â∏p","MS",207
+"clearing up","NJ12A","27","E","N"," "," ","ıkÏ±æ¥±øÓ$Â∏ºp","MS",208
+"clearing off","NJ12B","28","E","N"," "," ","ıkÏ≤æ¥±øÓ$Â∂´∫{∞}f","MS",209
+"clearing off","NJ13A","29","E","N"," "," ","kÏ±¥±øÓ$Â∂´∫f","MS",210
+"clearing","NJ13B","30","V","N"," "," ","kÏ±¥±øÓ","MS",211
+"clearing away","NJ14A","31","E","N"," "," ","ıkÏ±¥±øÓ$∞Âw≤±ø","MS",212
+"clearing","NJ14B","32","V","N"," "," ","kÏ±{∞}r±øÓ","MS",213
+"clearing up","NJ15A","33","E","N"," "," ","ıkÏ±¥±øÓ$Â∏›Ωp","MS",214
+"clearing away","NJ15B","34","E","N"," "," ","ıkÏ±¥±øÓ$∞Âw≤Ω±ø","MS",215
+"clearing up","NJ16A","35","E","N"," "," ","kÏ±{∞}ré∞n$∏´ºp","MS",216
+"breaking away","NJ16B","36","E","N"," "," ","ıbr≤±øk∞n$∞Âw≤Ω±ø","MS",217
+"clearing off","NJ16B","36","E","N"," "," ","kÏ±{∞}r∞n$∑Ω:{∞}f","MS",217
+"clearing","NJ17A","37","V","N"," "," ","kÏ{≥}¥±øÓ","MS",218
+"clearing","NJ17B","38","V","N"," "," ","kÏ±¥±øÓ","MS",219
+"clearing off","NJ18A","41","E","N"," "," ","kÏ±∫∞r±øÓ$∑:f","MS",220
+"clearing up","NJ18B","42","E","N"," "," ","ıkÏ±∞r±øÓ$Â∏ºp","MS",221
+"clearing off","NJ18C!","43!","E","N"," "," ","ıkÏ±¥±øÓ$Â∑:f","MS",222
+"clearing","NJ18D!","44!","V","N"," "," ","kÏ±¥±øÓ","MS",223
+"clearing","NJ19A","45","V","N"," "," ","kÏ±∫∞r±øÓ","MS",224
+"clearing up","NJ19B!","46!","E","N"," "," ","ıkÏ±∫∞r±øÓ$Â∏ºp","MS",225
+"clearing up","NJ20A","47","E","N"," "," ","ıkl±∞r±øÓ$Â∏p","MS",226
+"clearing","NJ20B","47b","V","N"," "," ","kÏ±´∫∞r±øÓ","MS",227
+"clearing","NJ21A","48","V","N"," "," ","kÏ±r±øÓ","MS",228
+"clearing off","NJ21B","49","E","N"," "," ","ıkÏè±{∞}r±øÓ$Â∑:{∞}f","MS",229
+"breaking away","PA1A","51","E","N"," "," ","breΩæ{±ø}k±øÓ$∞ÂweΩæ±","MS",230
+"clearing away","PA1A","51","E","N"," "," ","kl±{∞}r±øÓ$∞ÂweΩæ±","MS",230
+"clearing up","PA1B","52","E","N"," "," ","ıkÏ±¥±øÓ$Â∏p","MS",231
+"clearing","PA1C","53","V","N"," "," ","kÏ±´¥±øÓ","MS",232
+"cleared up","PA1D","54","E","N"," "," ","ıkÏ±¥d$Â∏Ωp","MS",233
+"clearing up","PA1E!","55!","E","N"," "," ","ıkÏ±¥±øÓ$Â∏æp","MS",234
+"clearing","PA1F!","56!","V","N"," "," ","kl±¥±øÓ","MS",235
+"clearing","PA1G!","57!","V","N"," "," ","kl±¥±øÓ","MS",236
+"clearing up","PA1H!","58!","E","N"," "," ","kl±´¥±øÓ$∏p","MS",237
+"clearing off","PA2A","59","E","N"," "," ","kl±¥±øÓ$∑Ω∫{∞}f","MS",238
+"clearing up","PA2B","60","E","N"," "," ","ıkÏ±¥±øÓ$Â∏Ωp","MS",239
+"clearing off","PA3A","61","E","N"," "," ","kl±¥±øÓ$∑∫{∞}f","MS",240
+"clearing","PA3B","62","V","N"," "," ","kÏ±´¥±øÓ","MS",241
+"clearing","PA3C","62b","V","N"," "," ","kl±¥±øÓ","MS",242
+"clearing off","PA4A","63","E","N"," "," ","ıkl±¥±øn$Â∑Ω∫{∞}f","MS",243
+"clearing up","PA4B!","64!","E","N"," "," ","kl±¥±øÓ$∏p","MS",244
+"clearing off","PA5A","65(*)","E","N"," "," ","ıkÏ±´¥∞n$Â∑∫{∞}f","MS",245
+"clearing off","PA5B","65b","E","N"," "," ","kÏ±¥±øÓ$∂´∫{∞}f","MS",246
+"clearing","PA5C","66","V","N"," "," ","kl±¥±øÓ","MS",247
+"clearing","PA5D","67","V","N"," "," ","kÏ¥∫|±øÓ","MS",248
+"clearing off","PA5E!","68!","E","N"," "," ","kl±´¥∞n$Â∂´∫f","MS",249
+"clearing off","PA6A","69","E","N"," "," ","ıkliΩ{∞}Òé›±Ó$Â∑∫f","MS",250
+"clearing off","PA6B","71","E","N"," "," ","ıkl±∞r±øÓ$Â∑Ω∫f","MS",251
+"clearing up","PA6C","71b","E","N"," "," ","kl±´∞r∞n$∏´p","MS",252
+"clearing","PA6D!","72!","V","N"," "," ","kl±¥é±øÓ","MS",253
+"clearing off","PA7A","73","E","N"," "," ","ıkl±¥∞n$Â∂´∫f","MS",254
+"clearing off","PA7B","74","E","N"," "," ","kl±¥±øÓ$∂´∫f","MS",255
+"clearing","PA7C","75","V","N"," "," ","kl±∞r±øÓ","MS",256
+"clearing up","PA7D!","76!","E","N"," "," ","ıkl±¥±øÓ$Â∏´p","MS",257
+"clearing up","PA8A","77","E","N"," "," ","kÏ±¥∞n$∏´º{∞}p","MS",258
+"clearing off","PA8B","78","E","N"," "," ","ıkl±¥±øÓ$Â∑Ωº∫{∞}f","MS",259
+"clearing off","PA8C","79","E","N"," "," ","ıkl±∞r±øÓ$Â∑∫f","MS",260
+"clearing up","PA8D!","80!","E","N"," "," ","ıkl±¥±øÓ$Â∏´æp","MS",261
+"clearing","PA9A","83","V","N"," "," ","kl±{∞}r±øÓ","MS",262
+"clearing","PA9B","83b","V","N","[Ï]: strongly velarized"," ","kÏ±¥±øÓ","MS",263
+"clearing","PA9C!","84!","V","N"," "," ","kl±¥±øÓ","MS",264
+"clearing off","PA10","87","E","N"," "," ","ıkl±∞r±øÓ$Â∑∫f","MS",265
+"clearing off","PA11A","89","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",266
+"clearing up","PA11B","90(*)","E","N"," "," ","ıkÏ±¥∞n$Â∏´p","MS",267
+"clearing off","PA12A","91","E","N"," "," ","kÏ±¥±øÓ$Â∂´:f","MS",268
+"clearing","PA12B","92","V","N"," "," ","kÏ±¥±øÓ","MS",269
+"clearing off","PA13A","93","E","N"," "," ","ıkÏ±¥∞n$Â∂´:f","MS",270
+"clearing off","PA13B","94","E","N"," "," ","kÏ±¥±øÓ$Â∂´º∫f","MS",271
+"clearing up","PA14A","95(*)","E","N"," "," ","ıkîlçi{∞}Òé›±Ó$Â∏´p","MS",272
+"clearing up","PA14B","96","E","N"," "," ","ıkl±r±øÓ$Â∏´æp","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"clearing","PA15A","99","V","N"," "," ","kl±r±øÓ","MS",275
+"clearing off","PA15B","99b","E","N"," "," ","kl±¥±øÓ$∑Ω∫{∞}f","MS",276
+"clearing","PA15C!","100!","V","N"," "," ","kl±¥±øÓ","MS",277
+"clearing","PA16A","101","V","N"," "," ","kîlçiΩ{∞}Òé›±øÓ","MS",278
+"clearing","PA16B","102","V","N"," "," ","kl±{∞}r±øÓ","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"clearing up","PA17A","105","E","N"," "," ","klç±´{∞}r±Ó$Â∏´p","MS",281
+"clearing up","PA17B","106","E","N"," "," ","kl±∞r±Ó$∏´p","MS",282
+"clearing off","PA18A","107","E","N"," "," ","ıkl±´¥±øÓ$Â∑´∫f","MS",283
+"clearing off","PA18B!","108!","E","N"," "," ","ıkÏ±¥±øÓ$Â∑Ω∫f","MS",284
+"clearing up","PA19A","113","E","N"," "," ","ıkl±¥∞n$Â∏Ωp","MS",285
+"clearing","PA19B","114","V","N"," "," ","kl±¥±øÓ","MS",286
+"cleared off","PA20A","115","E","N"," "," ","kl±¥d$∑Ωº∫f","MS",287
+"clearing off","PA20B","116","E","N"," "," ","kl±r±øÓ$∑Ω∫f","MS",288
+"clearing up","PA21A","117","E","N"," "," ","ıkl±¥±øΩn$Â∏Ωp","MS",289
+"clearing up","PA21B","118","E","N"," "," ","kl±¥±øÓ$∏p","MS",290
+"clearing up","PA22A","119","E","N"," "," ","kl±¥±øΩn$∏Ωp","MS",291
+"clearing up","PA22B","120","E","N"," "," ","kl±¥±øÓ$∏Ωp","MS",292
+"clearing up","PA23A","121","E","N"," "," ","kl±¥±øΩn$∏∫p","MS",293
+"clearing up","PA23B","122","E","N"," "," ","ıkl±¥±øÓ$Â∏Ωp","MS",294
+"clearing off","PA24A","123","E","N"," "," ","kl±¥±øΩn$∂´º∫f","MS",295
+"clearing","PA24B","124","V","N"," "," ","kl±¥±øÓ","MS",296
+"clearing off","PA25A","125","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",297
+"clearing up","PA25B","126","E","N"," "," ","kl±¥±øÓ$∏p","MS",298
+"clearing off","PA26A","127","E","N"," "," ","kl±¥±øΩn$∂´∫f","MS",299
+"clearing off","PA26B","128","E","N"," "," ","kl±¥±øÓ$∂´f","MS",300
+"clearing","PA27A","131","V","Y"," ","AUX","kl±¥±øÓ","MS",301
+"clearing up","PA27B","132","E","N"," "," ","ıkl±¥±øÓ$Â∏Ωp","MS",302
+"clearing up","PA28A","135","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",303
+"clearing","PA28B!","136!","V","N"," "," ","kÏ±¥±øÓ","MS",304
+"clearing up","PA29A","139(*)","E","N"," "," ","ıkÏ±´¥±øÓ$Â∏p","MS",305
+"clearing up","PA29B","140","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",306
+"clearing up","PA30A","143","E","N"," "," ","ıkl±¥±øΩn$Â∏Ωp","MS",307
+"clearing off","PA30B","144","E","N"," "," ","kl±¥±øÓ$∂´º∫f","MS",308
+"clearing off","PA31A","145","E","N"," "," ","kÏ±¥±øΩn$∂´∫{∞}f","MS",309
+"clearing","PA31B","146","V","N"," "," ","kÏ±´¥±øÓ","MS",310
+"clearing off","PA32A","147","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",311
+"clearing off","PA32B","148","E","N"," "," ","kÏ±¥±øÓ$∂´:f","MS",312
+"clearing up","PA33A","151","E","N"," "," ","kl±´{∞}ré±øÓ$∏p","MS",313
+"clearing up","PA33B","152","E","N"," "," ","kÏ±¥∞n$∏p","MS",314
+"clearing off","PA33B","152","E","N"," "," ","kÏ±¥∞n$∂∫f","MS",314
+"clearing up","PA34A","155","E","N"," "," ","ıkÏ±¥∞n$Â∏Ωp","MS",315
+"clearing off","PA34B","156","E","N"," "," ","ıkÏ±¥±øÓ$Â∂´:f","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"clearing up","PA35A","157","E","N"," "," ","ıkÏ±¥∞n$Â∏Ωp","MS",318
+"clearing off","PA35B","158(*)","E","N"," "," ","kÏ±¥±øÓ$∑Ω:f","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"clearing off","PA36A","159","E","N"," "," ","kÏ±¥±øÓ$∂î´º∫f","MS",321
+"clearing off","PA36B","160","E","N"," "," ","ıkÏ±¥±øÓ$Â∂´º∫f","MS",322
+"clearing off","PA37A","161(*)","E","N"," "," ","kl±´{∞}r±øÓ$∂´∫f","MS",323
+"clearing up","PA37B","162","E","N"," "," ","kl±¥±øÓ$∏p","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"clearing up","PA38A","163","E","N"," "," ","kÏ±¥∞n$∏Ωp","MS",326
+"clearing off","PA38B","164","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",327
+"clearing","PA39A","165","V","N"," "," ","kl±¥±øÓ","MS",328
+"clearing up","PA39B","166","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",329
+"clearing off","PA40A","167","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",330
+"clearing off","PA40B","168","E","N"," "," ","kl±¥∞n$∂´:{∞}f","MS",331
+"clearing off","PA41A","171","E","N"," "," ","kÏ±´¥±øÓ$∑Ω∫f","MS",332
+"clearing off","PA41B","172","E","N"," "," ","ıkl±´¥±øÓ$Â∑∫{∞}f","MS",333
+"clearing up","PA42A","175","E","N"," "," ","ıkÏ±æ¥±øÓ$Â∏Ωp","MS",334
+"clearing off","PA42B","176","E","N"," "," ","ıkÏ±¥∞n$Â∑∫f","MS",335
+"clearing off","PA43A","177","E","N"," "," ","ıkÏ±¥∞n$Â∑Ω∫f","MS",336
+"clearing off","PA43B","178","E","N"," "," ","kÏ±¥±øÓ$∑Ω∫{∞}f","MS",337
+"clearing away","PA43B","178","E","N"," "," ","kÏ±¥±øÓ$∞weΩ±ø","MS",337
+"clearing off","PA44A","179","E","N"," "," ","kl±¥∞n$∂∫f","MS",338
+"clearing off","PA44B","180","E","N"," "," ","kÏ±¥±øÓ$∂´∫f","MS",339
+"clearing up","PA45A","181","E","N"," "," ","ıkÏ±r∞n$Â∏ºp","MS",340
+"clearing up","PA45B","182","E","N"," "," ","ıkÏ±´{∞}r±øÓ$Â∏ºp","MS",341
+"clearing off","PA46A","185","E","N"," "," ","kÏ±r±øÓ$∑Ω∫f","MS",342
+"clearing up","PA46B","186","E","N"," "," ","ıkÏ±r±øÓ$Â∏Ωp","MS",343
+"clearing up","PA47A","189","E","N"," "," ","kÏ±r∞n$∏´ºp","MS",344
+"clearing up","PA47B","190","E","N"," "," ","ıkÏ±ré±øÓ$Â∏ºp","MS",345
+"clearing up","PA48A","191","E","N"," "," ","ıkl±{∞}r±øÓ$Â∏ºp","MS",346
+"breaking away","PA48B","192","E","N"," ","CNV","br≤±øk∞n$∞w≤±ø","MS",347
+"clearing up","PA48B","192","E","N"," "," ","kÏ±r±øÓ$∏p","MS",347
+"clearing up","PA48C","193","E","N"," "," ","ıkÏ±r±øÓ$Â∏ºp","MS",348
+"clearing off","PA49A","194","E","N"," "," ","ıkl±r±øÓ$Â∂´∫f","MS",349
+"clearing off","PA49B","195","E","N"," "," ","kÏ±ré±øÓ$∑Ω∫f","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"clearing","PA50B","197","V","N"," "," ","kl±r±øÓ","MS",352
+"clearing up","PA50C!","198!","E","N"," "," ","ıkÏ±r±øÓ$Â∏ºp","MS",353
+"clearing up","PA51A","199","E","N"," "," ","kl±r±øÓ$∏›Ωp","MS",354
+"clearing up","PA51B","200","E","N"," "," ","ıkl±{∞}ré±øÓ$Â∏Ωp","MS",355
+"clearing up","PA52A","201","E","N"," "," ","ıkÏ±{∞}r∞n$Â∏Ωp","MS",356
+"clearing up","PA52B!","202!","E","N"," "," ","kÏ±{∞}r±øÓ$∏p","MS",357
+"clearing off","PA53A","203","E","N"," "," ","ıkÏ±{∞}r∞n$Â∂∫{∞}f","MS",358
+"clearing up","PA53B","204","E","N"," "," ","ıkÏ±r±øÓ$Â∏p","MS",359
+"clearing up","PA54A","205","E","N"," "," ","ıkÏ±{∞}r±øÓ$Â∏Ωp","MS",360
+"clearing up","PA54B","206","E","N"," "," ","kÏ±{∞}r±øÓ$Â∏Ωp","MS",361
+"clearing up","PA55A","207","E","N"," "," ","kÏ±r∞n$∏p","MS",362
+"clearing up","PA55B","208","E","N"," "," ","ıkÏ±´{∞}r±øÓ$Â∏p","MS",363
+"clearing up","PA56A","211(*)","E","N"," "," ","ıkÏ±r±øÓ$Â∏Ωp","MS",364
+"clearing up","PA56B","212","E","N"," "," ","kÏ±r±øÓ$∏Ωp","MS",365
+"clearing up","PA57A","213","E","N"," "," ","kl±r∞n$Â∏Ωp","MS",366
+"clearing up","PA57B","214","E","N"," "," ","ıkÏ±r±øÓ$Â∏p","MS",367
+"clearing up","PA58A","215","E","N"," "," ","ıkÏ±¥±øÓ$Â∏Ωp","MS",368
+"clearing off","PA58B","216","E","N"," "," ","ıkÏ±¥±øÓ$Â∂´∫{∞}f","MS",369
+"clearing up","PA59A","219","E","N"," "," ","kl±´ré±øÓ$∏Ωp","MS",370
+"clearing","PA59B","220","V","N"," "," ","kÏ±r±øÓ","MS",371
+"clearing up","PA60A","221","E","N"," "," ","ıkÏ±r∞n$Â∏Ωp","MS",372
+"clearing up","PA60B","222","E","N"," "," ","kÏ±ær±øÓ$∏Ωp","MS",373
+"clearing up","PA61A","223","E","N"," "," ","ıkÏ±´ré∞n$Â≥p","MS",374
+"clearing up","PA61B","224","E","N"," "," ","kÏ±r±ø´Ó$Â∏ºp","MS",375
+"clearing up","PA62A","229","E","N"," "," ","ıkÏ±´ré±øÓ$Â∏Ωp","MS",376
+"clearing up","PA62B","230","E","N"," "," ","ıkÏ±´r∞n$Â∏Ωp","MS",377
+"clearing up","PA63A","231","E","N"," "," ","ıkÏ±r±øÓ$Â∏p","MS",378
+"clearing up","PA63B","232","E","N"," "," ","ıkÏ±¥±øÓ$Â∏ºp","MS",379
+"clearing up","PA64A","233","E","N"," "," ","ıkÏ±´¥±øÓ$Â∏Ωp","MS",380
+"clearing up","PA64B","234","E","N"," "," ","ıkÏ±¥±øÓ$Â∏Ωp","MS",381
+"clearing up","PA65A","237","E","N"," "," ","ıkÏ±¥±øΩn$Â∏p","MS",382
+"clearing","PA65B","238","V","N"," "," ","kÏ±¥±øÓ","MS",383
+"clearing up","PA66A","239","E","N"," "," ","ıkÏ±{∞}r∞n$Â∏p","MS",384
+"clearing up","PA66B","240","E","N"," "," ","ıkÏ±¥±øΩn$Â∏Ωp","MS",385
+"clearing up","PA67A","243","E","N"," "," ","kÏ±¥±øΩn$∏Ωp","MS",386
+"clearing","PA67B","244","V","N"," "," ","kÏ±¥±øÓ","MS",387
+"clearing up","PA67B","244","E","N"," "," ","kÏ±¥±øÓ$Â∏p","MS",387
+"clearing off","WV1!","88!","E","N"," "," ","kl±{∞}r±øÓ$∑Ω∑f","MS",388
+"clearing off","WV2","89","E","N"," "," ","kl≤¥∞Ó$∂´∫f","MS",389
+"clearing up","WV3","91","E","N"," "," ","kl≤¥∞n$∏{∞}p","MS",390
+"clearing up","WV4A","92","E","N"," "," ","kl±¥∞n$∏´{∞}p","MS",391
+"clearing up","WV4B","93","E","N"," "," ","kl¥∫±øÓ$∏{∞}p","MS",392
+"clearing off","WV4B","93","E","N"," "," ","kl¥∫±øÓ$∑∫f","MS",392
+"clearing off","WV5","94","E","N"," "," ","kÏ±¥∞n$∑Ω∫f","MS",393
+"clearing off","WV6A","95","E","N"," "," ","kl±¥∞n$∑∫f","MS",394
+"clearing off","WV6B","96","E","N"," "," ","kl±¥∞n$∑Ω∑f","MS",395
+"clearing off","WV7A","97","E","N"," "," ","kÏ±¥∞n$∑Ω∑f","MS",396
+"clearing off","WV7B","98","E","N"," "," ","kÏ±¥±øÓ$∑Ω∑f","MS",397
+"fairing up","WV7B","98","E","N"," "," ","f≤¥±øÓ$∏´{∞}p","MS",397
+"clearing up","WV8A","97b","E","N"," "," ","ıkl±¥∞n$Â∏ºp","MS",398
+"clearing up","WV8B","98b","E","N"," "," ","ıkl±¥±øÓ$Â∏º{∞}p","MS",399
+"clearing up","WV9A","301","E","N"," "," ","ıkl≤Ω¥∞n$Â∏ºp","MS",400
+"clearing up","WV9B","302","E","N"," "," ","ıkl{∞}¥±øÓ$Â∏º{∞}p","MS",401
+"clearing up","WV10A","303","E","N"," "," ","kÏ±Ωæ¥∞n$∏ºp","MS",402
+"clearing up","WV10B","303b","E","N"," "," ","ıkÏ±¥∞n$Â∏p","MS",403
+"clearing up","WV10C","304","E","N"," "," ","ıkÏ±æ¥±øÓ$Â∏º∫{∞}p","MS",404
+"clearing up","WV11A","305","E","N"," "," ","kl±r∞n$∏´º∫p","MS",405
+"clearing off","WV11B!","306!","E","N"," "," ","kl±r±øÓ$∑Ω∫f","MS",406
+"clearing up","WV12A","307","E","N"," "," ","kÏ±¥∞n$∏ºp","MS",407
+"clearing up","WV12B","308","E","N"," "," ","ıkl±¥±øÓ$Â∏ºp","MS",408
+"clearing up","WV13A","309","E","N"," "," ","ıkÏ≤¥±øÓ$Â∏ºp","MS",409
+"clearing up","WV13B","310","E","N"," "," ","kl±¥∞n$Â∏ºp","MS",410
+"clearing up","WV14A","311","E","N"," "," ","ÂkÏ±¥±øÓ$Â∏º{∞}p","MS",411
+"clearing off","WV14B","312","E","N"," "," ","kÏ±¥±øÓ$∂´∑f","MS",412
+"clearing up","WV15A","313","E","N"," "," ","kÏ±¥∞n$∏º{∞}p","MS",413
+"clearing up","WV15B","314","E","N"," "," ","kÏ±¥±øÓ$∏ºp","MS",414
+"fairing up","WV16A","315","E","N"," "," ","f≤¥∞n$∏ºp","MS",415
+"clearing up","WV16B","316","E","N"," "," ","kÏ≤æ¥±øÓ$∏ºp","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"clearing up","WV17B","317b","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",418
+"breaking away","WV17C","318","E","N"," "," ","bre±øk∞n$∞we±ø","MS",419
+"clearing up","WV17C","318","E","N"," "," ","kl±¥∞n$∏º{∞}p","MS",419
+"clearing up","WV18A","319","E","N"," "," ","kÏ±¥∞n$∏º{∞}p","MS",420
+"clearing up","WV18B","320","E","N"," "," ","kÏ±¥±øÓ$∏ºp","MS",421
+"clearing up","WV19A","321","E","N"," "," ","kl±¥∞n$∏ºp","MS",422
+"clearing up","WV19B","322","E","N"," "," ","kl{∞}¥±øÓ$∏´ºp","MS",423
+"clear","WV19B","322","E","N"," ","CNV","kl≤¥","MS",423
+"clearing up","WV20A","323","E","N"," "," ","ıkl±r∞n$Â∏´ºp","MS",424
+"clearing up","WV20B","324","E","N"," "," ","kÏ±ré±øÓ$∏´º{∞}p","MS",425
+"fairing up","WV21A","325","E","N"," "," ","f≤¥∞n$∏´ºp","MS",426
+"clearing up","WV21B","326","E","N"," "," ","kl{∞}¥∞n$Â∏´ºp","MS",427
+"clearing up","WV22A","327","E","N"," "," ","kl±¥±øÓ$∏p","MS",428
+"clearing up","WV22B","328","E","N"," "," ","kl±æ¥±øÓ$∏º{∞}p","MS",429
+"clearing off","WV23A","331","E","N"," "," ","kl±¥±øÓ$∑Ω∫f","MS",430
+"clearing up","WV23B","332","E","N"," "," ","kl±¥∞n$∏ºp","MS",431
+"clearing up","WV24A","335","E","N"," "," ","kl±¥±øÓ$Â∏ºp","MS",432
+"breaking off","WV24B","336","E","N"," "," ","bre±øk±øÓ$∑Ω∫{∑}f","MS",433
+"clearing up","WV24B","336","E","N"," "," ","ıkl±¥±øÓ$Â∏º∫p","MS",433
+"clearing up","WV25A","337","E","N"," "," ","ıkl±¥∞n$Â∏ºp","MS",434
+"clearing up","WV25B","338","E","N"," "," ","ıkl±¥∞n$Â∏ºp","MS",435
+"clearing up","WV26A","339","E","N"," "," ","kl{∞}¥∞n$∏º{∞}p","MS",436
+"fairing up","WV26B","340","E","N"," "," ","f·´¥∞n$∏ºp","MS",437
+"clearing up","WV26B","340","E","N"," "," ","kl{∞}¥∞n$∏ºp","MS",437
+"clearing up","WV27A","341","E","N"," "," ","kl{∞}¥∞n$∏º∫p","MS",438
+"clearing up","WV27B","342","E","N"," "," ","kl±{∞}¥∞n$∏Ω∫p","MS",439
+"fairing up","WV28A","343","E","N"," "," ","ıf·¥∞n$Â∏p","MS",440
+"clearing up","WV28B","344","E","N"," "," ","kl±¥±øÓ$∏º{∞}p","MS",441
+"clearing up","WV29A","345","E","N"," "," ","kl·´æ¥∞n$∏ºp","MS",442
+"clearing up","WV29B","346","E","N"," "," ","kl·{¥}±øÓ$∏ºp","MS",443
+"clearing up","WV30A","347","E","N"," "," ","kl·Ωæ¥∞n$∏º{∞}p","MS",444
+"fairing up","WV30B","348","E","N"," "," ","f·¥±øÓ$∏º∫p","MS",445
+"clearing up","WV31A","349","E","N"," "," ","kl{∞}¥›∞n$≥∫{∞}p","MS",446
+"fairing up","WV31B","350","E","N"," "," ","ıf·¥∞n$Â∏º∫{∞}p","MS",447
+"a-fairing","WV32A","353","V","N"," "," ","∞$f·Ωæ¥∞n","MS",448
+"clearing up","WV32B","354","E","N"," "," ","kl∞›r∞n$∏ºp","MS",449
+"clearing up","WV33A","355","E","N"," "," ","ıkl∞r∞n$Â∏ºp","MS",450
+"fairing up","WV33B","356","E","N"," "," ","ıf·¥±øÓ$Â∏ºp","MS",451
+"clearing up","WV34A","359","E","N"," "," ","ıkl≤æ¥±øÓ$Â∏´º{∞}p","MS",452
+"clearing up","WV34B","360","E","N"," "," ","ıkl∞›¥∞n$Â∏ºp","MS",453
+"clearing up","WV35A","361","E","N"," "," ","kl∞¥∞n$∏ºp","MS",454
+"clearing","WV35B","362","V","N"," "," ","kl≤¥±øÓ","MS",455
+"clearing up","WV36A","363","E","N"," "," ","ıkl≤æ¥∞n$Â∏ºp","MS",456
+"clearing up","WV36B","364","E","N"," "," ","kÏ≤æ¥±øÓ$Â∏ºp","MS",457
+"clearing up","WV37A","365","E","N"," "," ","kl±¥±øÓ$∏ºp","MS",458
+"clearing off","WV37B!","366!","E","N"," "," ","ıkl±¥±øÓ$Â∑Ω∫f","MS",459
+"clearing up","WV38A","367","E","N"," "," ","ıkl≤¥±øÓ$Â∏ºp","MS",460
+"clearing up","WV38B","368","E","N"," "," ","ıkl±¥∞n$Â∏ºp","MS",461
+"clearing off","WV39A","369","E","N"," "," ","kÏ≤´æ¥±øÓ$∑Ω∑f","MS",462
+"clearing up","WV39B","370","E","N"," "," ","ıkÏ±¥±øÓ$Â∏ºp","MS",463
+"clearing","WV39C!","371!","V","N"," "," ","kÏ±¥±øÓ","MS",464
+"clearing up","WV40A","373","E","N"," "," ","ıkÏ±¥±øÓ$Â∏º{∞}p","MS",465
+"clearing up","WV40B","374","E","N"," "," ","ıkÏ≤æ¥∞n$Â∏º{∞}p","MS",466
+"clearing off","WV41A","375","E","N"," "," ","kl{∞}¥∞n$∑Ω∑f","MS",467
+"fairing up","WV41B","376","E","N"," "," ","f·´¥±øÓ$∏´º{∞}p","MS",468
+"clearing up","WV42A","377","E","N"," "," ","kÏ±¥±øÓ$∏ºp","MS",469
+"clearing up","WV42B","378","E","N"," "," ","ıkÏ±¥±øÓ$Â∏º{∞}p","MS",470
+"clearing","WV43A","381","V","N"," "," ","kl{∞}¥∞n","MS",471
+"fairing up","WV43B","382","E","N"," "," ","f≤¥∞n$∏ºp","MS",472
+"clearing up","WV44A","383","E","N"," "," ","ıkl≤æ¥∞n$Â∏º{∞}p","MS",473
+"clearing off","WV44B","384","E","N"," "," ","kl±¥∞n$∑Ω∫f","MS",474
+"clearing up","WV45A","385","E","N"," "," ","ıkl±¥±øÓ$Â∏ºp","MS",475
+"clearing up","WV45B","386","E","N"," "," ","kl±¥±øÓ$Â∏º{∞}p","MS",476
+"breaking away","WV46A","387","E","N"," "," ","bre±øk∞n$∞Âwe±ø","MS",477
+"clearing up","WV46A","387","E","N"," "," ","ıkl±ré∞n$Â∏ºp","MS",477
+"clearing up","WV46B","388","E","N"," "," ","kl≤æ¥±øÓ$∏º{∞}p","MS",478
+"clearing up","WV47A","389","E","N"," "," ","ıkÏ±¥∞n$Â∏ºp","MS",479
+"clearing up","WV47B","390","E","N"," "," ","kl±¥∞n$∏º{∞}p","MS",480
+"clearing up","WV48A","391","E","N"," "," ","kÏ±Ωæ¥±øÓ$∏´º{∞}p","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"clearing up","WV48D","392b","E","N"," "," ","kÏ±¥±øÓ$∏ºp","MS",484
+"clearing off","WV49A","393","E","N"," "," ","ıkÏ±ré∞n$Â∑Ω{∑}f","MS",485
+"clearing up","WV49B","394","E","N"," "," ","ÂkÏ±æ¥∞n$Â∏ºp","MS",486
+"clearing up","WV50A","395","E","N"," "," ","kl±r±øÓ$∏p","MS",487
+"clearing up","WV50B","396","E","N"," "," ","ıkÏ±¥±øÓ$Â∏ºp","MS",488
+"clearing up","WV51A","261","E","N"," "," ","ıkÏ±æ¥±øÓ$Â∏º{∞}p","MS",489
+"clearing up","WV51B","262","E","N"," "," ","ıkÏ±ø¥±øÓ$Â∏º{∞}p","MS",490
+"clearing up","WV52A","258","E","N"," "," ","kl±¥∞n$Â∏ºp","MS",491
+"clearing up","WV52B","259","E","N"," "," ","ıkÏ±¥±øÓ$Â∏›p","MS",492
+"clearing up","WV52C!","260!","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",493
+"clearing up","WV53A","257","E","N"," "," ","kÏ±æ¥±øÓ$∏p","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"clearing up","WV53C!","257c!","E","N"," "," ","kÏ±¥±øÓ$∏ºp","MS",496
+"clearing off","WV54A","255","E","N"," "," ","kÏ±r±øÓ$∑Ω∫f","MS",497
+"clearing up","WV54B","256","E","N"," "," ","kÏ±{∞}ré∞n$∏Ωp","MS",498
+"clearing up","DE1A","11","E","N"," "," ","kÏ±¥é±øÓ$∏{∞}p","MS",499
+"clearing up","DE1B","12","E","N"," "," ","kÏ±¥±øÓ$∏{∞}p","MS",500
+"clearing","DE1C!","13!","V","N"," "," ","kÏ±´¥±øÓ","MS",501
+"breaking away","DE2A","15(*)","E","N"," "," ","br≤´±øk±øÓ$∞w≤±ø","MS",502
+"clearing off","DE2A","15(*)","E","N"," "," ","kl¥±øÓ$∑Ωº{∞}f","MS",502
+"clearing off","DE2B","16","E","N"," "," ","kÏ±´¥±øÓ$∂´º∫f","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"clearing away","DE3A","18","E","N"," "," ","kÏ·æ¥±øΩn$∞w≤±ø´","MS",505
+"clearing off","DE3B","19","E","N"," "," ","kÏ·´æ¥±øΩn$∑Ω∫f","MS",506
+"clearing up","DE3C!","17!","E","N"," "," ","kÏ±¥±øÓ$∏p","MS",507
+"clearing up","DE4","20","E","N"," "," ","kÏ±æ¥±øΩn$∏p","MS",508
+"clearing up","DE5A","21","E","N"," "," ","kÏ¥é{Òé}±øΩn$∏´p","MS",509
+"breaking away","DE5B","22","E","N"," "," ","br≤±øk±øΩn$∞w≤±ø","MS",510
+"clearing up","DE5B","22","E","N"," "," ","kÏ±¥±øΩn$∏{∞}p","MS",510
+"clearing off","DE6A","23","E","N"," "," ","kÏ·¥±øΩn$∂´º∫f","MS",511
+"clearing","DE6B","24","V","N"," "," ","kl±¥±øÓ","MS",512
+"clearing","MD1A","27","V","N"," "," ","kl≤¥∞n","MS",513
+"clearing","MD1B","28","V","N"," "," ","kl±Ωæ¥±øÓ","MS",514
+"clearing up","MD2A","31a","E","N"," "," ","kl·Ωæ¥±øΩn$∏p","MS",515
+"clearing off","MD2A","31a","E","N"," "," ","kl·Ωæ¥±øΩn$∑∫f","MS",515
+"clearing off","MD2B","32","E","N"," "," ","kl±¥∞n$∑∫f","MS",516
+"clearing up","MD2B","32","E","N"," "," ","kl±¥∞n$∏{∞}p","MS",516
+"clearing up","MD3A","33","E","N"," "," ","kl·æ¥±øΩn$∏´ºp","MS",517
+"clearing up","MD3B","34","E","N"," "," ","kÏ{∞}¥∞n$∏´ºp","MS",518
+"clearing off","MD3B","34","E","N"," "," ","kÏ{∞}¥∞n$∑Ω∫f","MS",518
+"clearing up","MD4A","35b","E","N"," "," ","kl±´¥±øΩn$∏´{∞}p","MS",519
+"clearing up","MD4B","35","E","N"," "," ","kl·æ¥±øΩn$∏p","MS",520
+"clearing","MD4C","36","V","N"," "," ","kÏ¥∫±øÓ","MS",521
+"clearing off","MD5A","37","E","N"," "," ","kÏ·æ¥±øΩn$∑Ω∫f","MS",522
+"clearing up","MD5B","38","E","N"," "," ","kl±Ω¥±øÓ$∏p","MS",523
+"clearing up","MD6A","39(*)","E","N"," "," ","kÏ·æ¥±øΩn$∏º{∞}p","MS",524
+"clearing off","MD6B","40","E","N"," "," ","kl{∞}¥∫±øÓ$∂´∫f","MS",525
+"clearing up","MD6B","40","E","N"," "," ","kl{∞}¥∫±øÓ$∏ºp","MS",525
+"clearing off","MD7A","41","E","N"," "," ","kl·æ¥±øΩn$∑Ω∫∑f","MS",526
+"clearing up","MD7B","41b","E","N"," "," ","kl±¥±øÓ$∏ºp","MS",527
+"clearing up","MD7C!","42!","E","N"," "," ","kl±¥±øΩn$∏ºp","MS",528
+"clearing off","MD8A","43","E","N"," "," ","kl·æ¥±øΩn$∂´∫f","MS",529
+"breaking away","MD8B","44","E","N"," ","SIC","br≤k±øΩn$∞weΩ±øΩ","MS",530
+"clearing off","MD8B","44","E","N"," "," ","kl{±ø}¥±øΩn$∂´∫f","MS",530
+"clearing up","MD9N","N46","E","N"," "," ","kl·{∞}r±øΩn$∏´p","MS",531
+"clearing off","MD9A","45","E","N"," "," ","kÏ±¥±øΩn$∂´∫f","MS",532
+"clearing off","MD9A","45","E","N"," "," ","kÏ·æ¥±øΩn$∂´∫f","MS",532
+"clearing off","MD9B","46","E","N"," "," ","kÏ±æ¥±øΩn$∂´∫f","MS",533
+"clearing up","MD10A","49","E","N"," "," ","kl±¥±øÓ$∏´{∞}p","MS",534
+"clearing off","MD10B","50","E","N"," "," ","kl±¥±øÓ$∑Ω:f","MS",535
+"clearing off","MD11","51","E","N"," "," ","kÏ·∫∞{r}±øΩn$∑:f","MS",536
+"clearing up","MD12A","52","E","N"," "," ","kl≤∫¥±øΩn$∏º{∞}p","MS",537
+"clearing off","MD12B","53","E","N"," "," ","kÏ±´¥∞n$∑:f","MS",538
+"clearing up","MD13A","54(*)","E","N"," "," ","kl±¥±øÓ$∏º{∞}p","MS",539
+"breaking away","MD13A","54(*)","E","N"," "," ","br≤´±øk±øΩn$∞w≤´±ø","MS",539
+"clearing","MD13B","55","V","N"," "," ","kl≤¥±øΩn","MS",540
+"clearing up","MD13C","56","E","N"," "," ","kl±¥±øÓ$∏º{∞}p","MS",541
+"clearing","MD13D!","57!","V","N"," "," ","kl±∞r±øÓ","MS",542
+"clearing up","MD13E!","58!","E","N"," "," ","kl±∞r±øÓ$∏p","MS",543
+"clearing up","MD13F!","59!","E","N"," "," ","kl±Ω∞r±øÓ$∏´{∞}p","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"clearing off","MD14","61(*)","E","N"," "," ","kl±¥∞n$∑:f","MS",546
+"clearing off","MD15A","62","E","N"," "," ","kl≤´∞r±øΩn$∑∑´f","MS",547
+"clearing off","MD15B","63","E","N"," "," ","kÏ≤{∞}{r}±øÓ$∑:f","MS",548
+"clearing up","MD15B","63","E","N"," "," ","kÏ≤{∞}{r}±øÓ$∏´{∞}p","MS",548
+"clearing off","MD16","64","E","N"," "," ","kl¥∫±øÓ$∑∫{∑´}f","MS",549
+"clearing up","MD17A","65","E","N"," "," ","kl±¥±øÓ$∏´{∞}p","MS",550
+"clearing up","MD17B","66","E","N"," "," ","kl∞Ω¥±øÓ$∏´{∞}p","MS",551
+"clearing off","MD18A","67","E","N"," "," ","kl·´∫∞|±øΩn$∑´:f","MS",552
+"clearing up","MD18B","68","E","N"," "," ","kl≤´∞r±øÓ$∏´{∞}p","MS",553
+"clearing up","MD19A","69","E","N"," "," ","kl≤´∞r±øΩn$∏´ºp","MS",554
+"clearing away","MD19B","70","E","N"," "," ","kl≤´∞r±øΩn$∞we±ø","MS",555
+"clearing up","MD20A","71","E","N"," "," ","kl·´{∞}r±øΩÓ$∏{∞}p","MS",556
+"clearing off","MD20B","72","E","N"," "," ","kl≤´:|±øΩn$∑Ω∑f","MS",557
+"clearing off","MD20C!","73!","E","N"," "," ","kl±∞r±øΩn$∑:f","MS",558
+"breaking","MD20C!","73!","V","N"," "," ","bre{±ø}k±øΩn","MS",558
+"clearing away","MD21A","75","E","N"," "," ","kl≤{r}±øΩn$∞we´∫{±øΩ}","MS",559
+"clearing up","MD21B","76","E","N"," "," ","kl≤∫{∞}{r}±øΩn$∏´º{∞}p","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"clearing up","MD22M","N78","E","N"," "," ","kle›Ω∞›|±øΩn$∏´p","MS",562
+"clearing","MD22A","77","V","N"," "," ","kl≤∫|±øÓ","MS",563
+"clearing up","MD22B","78","E","N"," "," ","kl≤´∫∞|±øΩn$∏´{∞}p","MS",564
+"clearing","MD22C!","79!","V","N"," "," ","kle›∞r±øÓ","MS",565
+"clearing up","MD23A","80b","E","N"," "," ","kl≤´∞r±øΩn$∏´ºp","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"clearing","MD23C","81","V","N"," "," ","kl±∞r±øÓ","MS",568
+"clearing","MD24","82","V","N"," "," ","kle›∞›{r}±øΩn","MS",569
+"clearing","MD25","84","V","N"," "," ","kÏ±¥±øÓ","MS",570
+"clearing up","MD26A","83","E","N"," "," ","kl±¥±øÓ$∏´º{∞}p","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"clearing up","MD27A","85","E","N"," "," ","kÏ±¥∞n$∏p","MS",573
+"clearing off","MD27B","86","E","N"," "," ","kÏ±¥±øÓ$∑∫f","MS",574
+"clearing","DC1A","99","V","N"," "," ","kl·∫{∞}{∞´}n","MS",575
+"clearing","DC1B!","100!","V","N"," "," ","kl±∞r±øÓ","MS",576
+"clearing","VA1!","101!","V","N"," "," ","kl±∞r±øÓ","MS",577
+"clearing away","VA2A","103","E","N"," "," ","kl·´∞r±øΩn$∞we∫","MS",578
+"clearing off","VA2A","103","E","N"," "," ","kl·´∞r±øΩn$∑Ω∫f","MS",578
+"clearing up","VA2B","104","E","N"," "," ","kl·∞{r}±øΩn$∏´{∞}p","MS",579
+"clearing off","VA3A","105(*)","E","N"," "," ","kÏ¥∫∞´n$∑Ω∫f","MS",580
+"clearing off","VA3B","106","E","N"," "," ","kl±´¥±øÓ$∑Ω∫f","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"clearing up","VA4N","N109","E","N"," "," ","kl·{∞}{r}±øΩn$∏´{∞}p","MS",583
+"clearing off","VA5A","107","E","N"," "," ","kl·´∞r±øΩn$∑∫{∑´}f","MS",584
+"clearing off","VA5B","108","E","N"," "," ","kl≤{∞}r±øΩn$∑Ω{∑}f","MS",585
+"clearing off","VA6A","113","E","N"," "," ","kl¿∫{∞}{r}±øΩn$∑Ω{∑}f","MS",586
+"clearing","VA6B","114","V","N"," "," ","kl±{∞}r±øÓ","MS",587
+"clearing off","VA7A","121","E","N"," "," ","klç≤{∞}{r}±øΩn$∑óΩ:f","MS",588
+"fairing off","VA7B","122","E","N"," "," ","f·∞r±øΩn$∑Ω∫{∑}f","MS",589
+"clearing up","VA7B","122","E","N"," "," ","kl≤{∞}{r}±øΩn$∏p","MS",589
+"fairing off","VA8A","123","E","N"," "," ","f·∞r±øΩn$∑∫f","MS",590
+"clearing off","VA8B","124","E","N"," "," ","kl≤{∞}{r}±øÓ$∑îΩº{∑Ω}f","MS",591
+"clearing","VA8C!","125!","V","N"," "," ","kl±∞r±øÓ","MS",592
+"clearing up","VA8C!","125!","E","N"," "," ","kl±∞r±øÓ$∏ó{∞}p","MS",592
+"clearing off","VA9A","117","E","N"," "," ","kl·´{∞}{r}±øΩn$∑Ω{∑}f","MS",593
+"clearing up","VA9B!","118!","E","N"," "," ","kl·´{∞}{r}±øΩn$∏ó´º{∞}p","MS",594
+"clearing off","VA10A","127","E","N"," "," ","kl≥´º{∞}{r}±øΩn$∑Ω∫{∑}f","MS",595
+"clearing","VA10B","128","V","N"," "," ","kl±∞r±øÓ","MS",596
+"clearing away","VA11A","129","E","N"," "," ","kl≤{∞}{r}±øΩn$∞we{±ø}","MS",597
+"clearing off","VA11B","130","E","N"," "," ","kl≤{∞}{r}±øΩn$∂îº∂´ºf","MS",598
+"clearing off","VA12N","N131","E","N"," "," ","kl≤|∞´n$∑Ω∫{∑}f","MS",599
+"clearing off","VA12A","131","E","N"," "," ","kl≤{r}±øΩn$∑Ω∫f","MS",600
+"clearing off","VA12B!","132!","E","N"," "," ","kl≤{r}±øÓ$∑Ω∫f","MS",601
+"clearing up","VA13A","133","E","N"," "," ","kl·{∞}{r}±øΩn$∏{∞}p","MS",602
+"clearing","VA13B","134","V","N"," "," ","kl≤æ{∞}{r}±øΩÓ","MS",603
+"clearing off","VA14A","135","E","N"," "," ","kl·{∞}{r}±øΩn$∑Ω∫f","MS",604
+"clearing up","VA14B","136","E","N"," "," ","kl≤∞r±øΩn$∏{∞}p","MS",605
+"clearing","VA14C","137","V","N"," "," ","kl≤{∞}{r}±øÓ","MS",606
+"clearing off","VA14C","137","E","N"," "," ","kl≤{∞}{r}±øÓ$∂º∂´f","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"clearing off","VA15A","139","E","N"," "," ","kl≥´∫{r}±øΩn$∑Ω∫f","MS",608
+"clearing off","VA15B","140","E","N"," "," ","kl≤{r}±øΩn$∑Ω∫{∑}f","MS",609
+"clearing","VA16A","141","V","N"," "," ","kl·´∞r±øΩn","MS",610
+"clearing up","VA16B","142","E","N"," "," ","kl≤{∞}r±øΩn$∏{∞}p","MS",611
+"fairing up","VA17A","143","E","N"," "," ","f·∫{∞}{r}±øΩn$∏ó´{∞}p","MS",612
+"clearing off","VA17A","143","E","N"," "," ","kl·´{∞}{r}±øΩn$∑îΩæ∫f","MS",612
+"clearing up","VA17B","144","E","N"," "," ","kl≤{r}±øΩn$∏ó˛´{∞}p","MS",613
+"clearing off","VA18","145","E","N"," "," ","klç±∞r±øΩn$∑Ω:f","MS",614
+"clearing up","VA19A","146","E","N"," "," ","kl≤{∞}r±øΩn$∏´{∞}p","MS",615
+"clearing","VA19B","147","V","N"," "," ","kl≤›{±ø}{∞}r±øΩn","MS",616
+"clear","VA19B","147","V","N"," "," ","kl≤´{±ø}∞","MS",616
+"clearing up","VA19C!","148!","E","N"," "," ","kl±∞r±øΩn$∏{∞}p","MS",617
+"clearing","VA20A","149","V","N"," "," ","kl≤´{∞}{r}±øΩn","MS",618
+"clearing","VA20B","150(*)","V","N"," "," ","kl±∞r±øΩn","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"breaking away","VA21N","N153","E","N"," "," ","br≤´æk±øn$∞we´∫{±ø}","MS",621
+"clearing up","VA21N","N153","E","N"," "," ","kl·´º∫{∞}{r}±øΩn$∏{∞}p","MS",621
+"clearing off","VA21A","153","E","N"," "," ","kl≤{∞}{r}±øΩn$∑Ω∫{∑}f","MS",622
+"clearing off","VA21B","154","E","N"," "," ","kl≤{∞}{r}±øΩn$∑Ω∫f","MS",623
+"clearing off","VA22","155","E","N"," "," ","kl·´∞r±øΩn$∂´º∫{∞}f","MS",624
+"clearing up","VA22","155","E","N"," "," ","kl·´∞r±øΩn$∏ó{∞}p","MS",624
+"clearing off","VA23A","156","E","N"," "," ","kl¿∞ér±øΩn$∑Ω∫{∞}f","MS",625
+"clearing off","VA23B","157","E","N"," "," ","kl·›´∞›r±øn$∂´º∫f","MS",626
+"clearing off","VA24","159","E","N"," "," ","kl¿{∞é}{r}±øΩn$∑Ω{∑}f","MS",627
+"clearing off","VA24","159","E","N"," ","CNV","kl±´∞r±øΩn$∑Ω{∑}f","MS",627
+"clearing up","VA25","160(*)","E","N"," "," ","kl{∞}¥±øΩn$∏{∞}p","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"clearing off","VA26B","161","E","N"," "," ","kl{∞}¥±øΩn$∂´º∫{∞}f","MS",630
+"clearing off","VA26C","162","E","N"," "," ","kl±∞r±øÓ$∂´º∫f","MS",631
+"clearing off","VA27","163(*)","E","N"," "," ","kl{∞}¥∫±øΩn$∂´º∫{∞}f","MS",632
+"clearing","VA28A","164","V","N"," "," ","kl±øΩº{∞}{r}±øΩn","MS",633
+"clearing","VA28B","165","V","N"," "," ","kl≤´{∞}r±øΩn","MS",634
+"clearing off","VA29","166","E","N"," "," ","kl≥´º{∞}{r}±øÓ$∑∫{∑´}f","MS",635
+"clearing up","VA30A","167","E","N"," "," ","kl¿º{∞}{r}±øΩn$∏´{∞}p","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"clearing","VA30C!","168!","V","N"," "," ","kl±Ω∞r±øΩn","MS",638
+"clearing","VA30D!","169!","V","N"," "," ","kl±∞r±øÓ","MS",639
+"clearing off","VA30E!","170!","E","N"," "," ","kl±∞r±øÓ$∂´{∑Ω}f","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"clearing up","VA31B","172","E","N"," "," ","kl±Ω∞r±øΩn$∏´{∞}p","MS",642
+"clearing up","VA31C"," ","E","N"," "," ","kl·´æ{∞}{r}±øΩn$∏´{∞}p","MS",643
+"clearing","VA32!","175!","V","N"," "," ","kl±∞r±øÓ","MS",644
+"clearing off","VA33A","173","E","N"," "," ","kl±´∞r±øΩn$∂´º∫{∂´}f","MS",645
+"fairing up","VA33B","174","E","N"," "," ","f·{∞}r±øΩn$∏{∞}p","MS",646
+"clearing","VA33B","174","V","N"," "," ","kliΩ∞r±øΩn","MS",646
+"clearing off","VA34A","177(*)","E","N"," "," ","kl·{∞}r±øΩn$∂´∫{∑Ω}f","MS",647
+"breaking","VA34A","177(*)","V","N"," "," ","breΩ±øk±øΩn","MS",647
+"clearing off","VA34B","178","E","N"," "," ","kl±{∞}{r}±øΩn$∂´º{∂´}f","MS",648
+"clearing up","VA35A","179","E","N"," "," ","kl·{∞}{r}±øΩn$∏´{∞}p","MS",649
+"fairing off","VA35B","180","E","Y"," ","SUG","f·∞r±øΩn$∂´º{∂´}f","MS",650
+"clearing up","VA35B","180","E","N"," "," ","kl±∫∞r±øΩn$∏ó´{∞}p","MS",650
+"clearing up","VA36A","181","E","N"," "," ","kl¿é{∞é}{r}±øΩn$∏´{∞}p","MS",651
+"fairing off","VA36A","181","E","N"," "," ","f·{∞}r±øΩn$∑Ω{∑}f","MS",651
+"clearing up","VA36B","182","E","N"," "," ","kl±∞r±øΩn$∏´{∞}p","MS",652
+"clearing off","VA36B","182","E","N"," "," ","kl±∞r±øΩn$∑Ωº{∑}f","MS",652
+"clearing off","VA37","183","E","N"," "," ","kl±∞r±øn$∑Ω∑f","MS",653
+"clearing","VA38","185","V","N"," "," ","kl≤{∞}r±øΩn","MS",654
+"clearing off","VA39!","186!","E","N"," "," ","kl±∞r±øÓ$∂º∂´f","MS",655
+"clearing up","VA40A","187","E","N"," "," ","kl{∞}¥∫±øΩn$∏´æ{∞}p","MS",656
+"clearing off","VA40A","187","E","N"," "," ","kl{∞}¥∫±øΩn$∑Ω{∑}f","MS",656
+"clearing up","VA40B","188","E","N"," "," ","kl{∞}¥∫±øΩn$∏´∫{∞}p","MS",657
+"clearing up","VA41A","191","E","N"," "," ","kl±›∞›|±øΩn$∏ó´{∞}p","MS",658
+"clearing up","VA41B","192","E","N"," "," ","kl±›Ω∞›r±øΩn$∏{∞}p","MS",659
+"clearing off","VA42A","193(*)(**)","E","N"," "," ","klç≥´∫{∞}{r}±øΩn$∑Ω∫{∑}f","MS",660
+"clearing off","VA42B","194","E","N"," "," ","kl±∞r±øΩn$∑Ω∫f","MS",661
+"NR","VA43N","N195"," ","N"," "," "," ","MS",662
+"clearing away","VA43A","195","E","N"," "," ","kl·{∞}{r}±øΩn$∞we∫{±øΩ}","MS",663
+"clearing up","VA43B","196","E","N"," "," ","kl≥∫{∞é}{r}±øΩn$∏{∞}p","MS",664
+"clearing off","VA44A","199","E","N"," "," ","kl¿æ∫{r}±øΩn$∑Ω∑óf","MS",665
+"clearing up","VA44B","200","E","N"," "," ","kl≤{∞}{r}±øΩn$∏{∞}p","MS",666
+"clearing up","VA45A","201","E","N"," "," ","kl·{∞}{r}±øΩn$∏´p","MS",667
+"clearing off","VA45B","202","E","N"," "," ","kl¿º∫{r}±øÓ$∑Ω{∑}f","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"clearing off","VA46A","207","E","N"," "," ","kl≤r±øΩn$∑∫f","MS",670
+"clearing up","VA46B!","208!","E","N"," "," ","kl±∞º{r}±øΩn$∏ó´º{∞}p","MS",671
+"clearing up","VA47","211","E","N"," "," ","kl≥{∞}{r}±øΩn$∏{∞}p","MS",672
+"clearing","VA48A","213(*)","V","N"," "," ","kl¿∫{r}±øΩn","MS",673
+"clearing off","VA48B","214","E","N"," "," ","kl¿é´º{r}±øΩn$∑Ω{∑ó}f","MS",674
+"clearing away","VA48B","214","E","N"," "," ","kl¿é´º{r}±øΩn$∞we{±ø}","MS",674
+"clearing","VA49A","215","V","N"," "," ","kl≥´∫{∞}{r}±øΩn","MS",675
+"clearing off","VA49B","216","E","N"," "," ","kl±∞r±øÓ$∑Ω{∑ó}f","MS",676
+"clearing off","VA50A","217","E","N"," "," ","kl≥º{∞}{r}±øΩn$∂´{∑Ω}f","MS",677
+"breaking up","VA50A","217","E","N"," "," ","bre{±øΩ}k±øΩn$∏´{∞}p","MS",677
+"clearing off","VA50B","218","E","N"," "," ","kl≤´{∞}{r}±øΩn$∂´∑Ωf","MS",678
+"clearing up","VA51A","219","E","N"," "," ","kl≤{∞}{r}±øΩn$∏ó´p","MS",679
+"clearing up","VA51B","220(*)","E","N"," "," ","kl±{∞}r±øΩn$∏´{∞}p","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"clearing off","VA52A","224","E","N"," "," ","kli›¥±øÓ$∑Ω∫f","MS",682
+"NR","VA52B","225"," ","N"," "," "," ","MS",683
+"clearing up","VA52C!","226!","E","N"," "," ","kÏ±¥±øÓ$∏Ω{∞}p","MS",684
+"clearing off","VA53A","227","E","N"," "," ","kl±¥|∞´n$∑Ω∫f","MS",685
+"clearing up","VA53B","228","E","N"," "," ","kl¥∫±øÓ$∏´º{∞}p","MS",686
+"clearing off","VA54A","229","E","N"," "," ","kl¥∫±øΩn$∑Ω∫{∑}f","MS",687
+"clearing up","VA54B","230","E","N"," "," ","kl±¥±øÓ$∏´{∞}p","MS",688
+"clearing off","VA55A","233(*)","E","N"," "," ","kl±¥∞´n$∑ó{∑ó´}f","MS",689
+"clearing off","VA55B","234(*)","E","N"," "," ","kÏ±´¥±øÓ$∂´∂ó´ºf","MS",690
+"fairing up","VA56A","237","E","N"," "," ","f≤¥|∞´n$∏ó´º{∞}p","MS",691
+"clearing off","VA56B","238","E","N"," "," ","kÏè±›¥±øÓ$∑Ωºf","MS",692
+"clearing","VA56B","238","V","N"," "," ","kÏè±›¥±øÓ","MS",692
+"clearing up","VA57A","239","E","N"," "," ","kl≥›¥›∞´n$∏º{∞}p","MS",693
+"clearing off","VA57B","240","E","N"," "," ","kl≥›¥›∞´n$∂´º{∑Ω}f","MS",694
+"clearing","VA58","241(*)","V","N"," "," ","kl¿´∫{∞}±øΩn","MS",695
+"clearing up","VA59N","N241","E","N"," "," ","kl≥´{r}±øΩn$≥p","MS",696
+"clearing away","VA59A","242","E","N"," "," ","kÏè≤{∞}{r}±øΩn$∞weΩ±ø","MS",697
+"clearing","VA59B!","243!","V","N"," "," ","kÏ±∞r±øÓ","MS",698
+"clearing up","VA59B!","243!","E","N"," "," ","kÏ±∞r±øÓ$∏æ{∞}p","MS",698
+"fairing up","VA60","244(*)","E","N"," "," ","f≤Ωæ¥|±øÓ$∏{∞}p","MS",699
+"clearing up","VA61A","245(*)","E","N"," "," ","kl≤´{∞}r∞n$∏p","MS",700
+"clearing off","VA61B!","246!","E","N"," "," ","kl±¥|±øÓ$∑Ω{∑ó}f","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"clearing up","VA62A","247(*)","E","N"," "," ","kl¿∫{∞}{r}±øΩn$∏ó´º{∞}p","MS",703
+"clearing off","VA62B","248","E","N"," "," ","kl≤{∞}{r}±øΩn$∑Ω{∑}f","MS",704
+"clearing off","VA63A","251","E","N"," "," ","kÏ±¥|∞n$∑Ω∫{∑}f","MS",705
+"clearing off","VA63B","252","E","N"," "," ","kÏ±¥|∞´n$∂î´∑îΩf","MS",706
+"clearing off","VA64A","255","E","N"," "," ","kl¿∫{∞é}{r}±øΩn$∑Ω{∑}f","MS",707
+"clearing","VA64B","256","V","N"," "," ","kl≤{∞}r±øÓ","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"clearing up","VA65B","258","E","N"," "," ","kl¥∫|∞´n$∏p","MS",710
+"clearing off","VA65B","258","E","N"," "," ","kl¥∫|∞´n$∑Ω{∑}f","MS",710
+"clearing up","VA65C!","259!","E","N"," "," ","kl±Ω{∞}r±øÓ$∏{∞}p","MS",711
+"clearing off","VA66A","261","E","N"," "," ","kl≤{∞}r±øΩn$∑Ω{∑}f","MS",712
+"clearing up","VA66B","262","E","N"," "," ","kl¿{∞}r±øn$∏ó´º{∞}p","MS",713
+"fairing up","VA66B","262","E","N"," "," ","f·∫∞r±øΩn$∏ó´º{∞}p","MS",713
+"fairing up","VA67A","267","E","N"," "," ","f·∫{∞}¥±øÓ$∏´º∫{∞}p","MS",714
+"clearing","VA67B","268","V","N"," "," ","kÏ{∞}¥±øÓ","MS",715
+"a-clearing off","VA68A","269","E","N"," "," ","∞kl≤¥|±øΩn$∑Ω{∑ó}f","MS",716
+"clearing up","VA68B","270","E","N"," "," ","kl¥∫±øÓ$∏´º{∞}p","MS",717
+"clearing up","VA69A","273","E","N"," "," ","kl≥∫{r}±øΩn$∏´{∞}p","MS",718
+"clearing off","VA69B","274","E","N"," "," ","kl±Ωº∞r±øΩn$∂´{∑óΩ}f","MS",719
+"clearing up","VA70A","275","E","N"," "," ","kl±r±øÓ$∏´∫p","MS",720
+"fairing up","VA70B","276","E","N"," "," ","f·¥∫±øÓ$∏´º∫{∞}p","MS",721
+"clearing up","VA71A","285","E","N"," "," ","kÏ{∞}¥∫∞n$∏´º∫{∞}p","MS",722
+"clearing up","VA71B","286","E","N"," "," ","kÏ±¥±øÓ$∏´º∫{∞}p","MS",723
+"clearing off","VA72A","287","E","N"," "," ","kÏ{∞´}¥∫∞´n$∑Ω∫{∑}f","MS",724
+"fairing up","VA72B","288","E","N"," "," ","f·æ¥∫∞n$≥:{∞}p","MS",725
+"fairing off","VA73","291","E","N"," "," ","f·{∞}r∞n$∑Ω∫{∑}f","MS",726
+"clearing off","VA73","291","E","N"," "," ","kÏ{∞}¥∞n$∑Ω∫{∑}f","MS",726
+"clearing off","VA74A","293","E","N"," "," ","kl{∞}¥∫∞´n$∂´{∑Ω}f","MS",727
+"clearing up","VA74B!","294!","E","N"," "," ","kl≤r±øÓ$∏´º{∞}p","MS",728
+"clearing up","VA75A","297","E","N"," "," ","kÏ{∞}¥∞n$≥{∞}p","MS",729
+"breaking off","VA75B","298","E","N"," "," ","br≤´±øk±øÓ$∂´∫{∑Ω}f","MS",730
+"clearing off","NC1","303","E","N"," "," ","kl{∞}¥∫±øΩn$∑Ωº∫∑f","MS",731
+"clearing away","NC2A","301","E","N"," "," ","kl¥∫±øΩn$∞w≤´±ø","MS",732
+"clearing off","NC2A","301","E","N"," "," ","kl¥∫±øΩn$∑Ω{∑}f","MS",732
+"clearing up","NC2B","304","E","N"," "," ","kl·¥|±øΩn$∏˛´{¥˛}p","MS",733
+"fairing","NC3A","305","V","N"," "," ","f·∫{∞é}±øΩn","MS",734
+"clearing up","NC3A","305","E","N"," "," ","kl≥é¥±øΩn$∏´{∞}p","MS",734
+"clearing up","NC3B","306","E","N"," "," ","kl±∞¥±øΩn$∏{∞}p","MS",735
+"breaking off","NC4A","307","E","N"," "," ","breΩæ±øk±øΩn$∑Ω{∑}f","MS",736
+"clearing off","NC4A","307","E","N"," "," ","kl≥º{∞}{r}±øΩn$∑Ω{∑}f","MS",736
+"fairing off","NC4B","308","E","N"," "," ","f·{∞}r±øΩn$∑Ω∑´f","MS",737
+"clearing up","NC4B","308","E","N"," "," ","kl≥{∞é}{r}±øΩn$∏´∫{∞}p","MS",737
+"cleared up","NC5A","309","E","N"," "," ","kl≤´¥d$∏´{∞}p","MS",738
+"clearing up","NC5B","310","E","N"," "," ","kl≤{∞}r±øΩn$∏{∞}p","MS",739
+"clearing up","NC6!","311!","E","N"," "," ","kl±∞r±øÓ$∏ó´∫{∞}p","MS",740
+"clearing up","NC7A","315(*)","E","N"," "," ","kl·∞r±øΩn$∏´∫p","MS",741
+"fairing off","NC7A","315(*)","E","Y","rare","SUG/HRD","f·{∞}r±øΩn$∑∫{∑´}f","MS",741
+"clearing up","NC7B","316","E","N"," "," ","kl≥é›´º¥›|±øΩn$∏´º∫{∞}p","MS",742
+"fairing off","NC7B","316","E","N"," "," ","f·¥|±øΩn$∑Ωº∑´f","MS",742
+"fairing","NC8N","N317","V","N"," "," ","{∆}·∫{∞}|±øΩn","MS",743
+"clearing off","NC8A","317","E","N"," "," ","kl·¥|±øΩn$∑Ω∑f","MS",744
+"fairing off","NC8B","318(*)","E","N"," "," ","f·{∞}{r}±øn$∑Ω∑f","MS",745
+"clearing off","NC8B","318(*)","E","N"," "," ","kl≥{∞é}r±øΩn$∑Ω∑f","MS",745
+"clearing off","NC9A","319","E","N"," "," ","kl¿é∫{r}±øn$∑:f","MS",746
+"clearing off","NC9B","320","E","N"," "," ","kl¿é∫{r}±øΩn$∑Ω∫∑f","MS",747
+"clearing away","NC9B","320","E","N"," "," ","kl¿é∫{r}±øΩn$∞w≤´±ø´","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"clearing","NC10B","323","V","N"," "," ","kl·¥{Òé}±ø›n","MS",749
+"clearing up","NC10C","322","E","N"," "," ","kl≥é∫¥±øÓ$∏ó´∫{∞}p","MS",750
+"clearing off","NC11A","325","E","N"," "," ","kl·ré±øÓ$∑Ω∑f","MS",751
+"clearing off","NC11B","326","E","N"," "," ","kl±´ré±øΩn$∑Ω∫f","MS",752
+"fairing up","NC12A","327(*)","E","N"," "," ","f·{∞}¥±øΩn$∏´º∫{∞}p","MS",753
+"clearing up","NC12A","327(*)","E","N"," "," ","kl{∞}¥±øΩn$∏´º∫{∞}p","MS",753
+"clearing off","NC12B","328","E","N"," "," ","kl±{∞}{r}±øΩn$∑Ωº{∑}f","MS",754
+"clearing off","NC13A","329","E","N"," "," ","kl·∫{¥}±øÓ$∑Ω∫∑f","MS",755
+"clearing off","NC13B","330(*)","E","N"," "," ","kl·∫¥±øn$∑Ω∑f","MS",756
+"clearing off","NC14N","N331","E","N"," "," ","kl±{∞}{r}±øΩn$∑Ω∫f","MS",757
+"clearing off","NC14N","N331","E","N"," "," ","kl·∫∞{r}±øΩn$∑Ω∫f","MS",757
+"fairing up","NC14A","331","E","N"," "," ","f·∫{∞}r±øΩn$∏ó∫{∞}p","MS",758
+"clearing up","NC14A","331","E","N"," "," ","kl·{∞}r±øΩn$∏ó∫{∞}p","MS",758
+"clearing away","NC14B","332","E","N"," "," ","kl·{∞}r±øΩn$∞w≤æj","MS",759
+"clearing up","NC14B","332","E","N"," "," ","kl±∞r±øΩn$∏p","MS",759
+"clearing up","NC14C!","333!","E","N"," "," ","kl±∞{r}±øÓ$∏ó{∞}p","MS",760
+"fairing off","NC15A","335(*)","E","N"," "," ","f·∫∞ér±øΩn$∑Ω∑∫f","MS",761
+"clearing up","NC15B","336","E","N"," "," ","kl¿é¥|±øn$∏ó´{∞}p","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"settling off","NC16A","339(*)","E","N"," "," ","s≤´Ál±øΩn$∑Ω∑f","MS",764
+"clearing off","NC16A","339(*)","E","N"," "," ","kl·{∞}r±øΩn$∑Ω∑f","MS",764
+"clearing off","NC16B","340","E","N"," "," ","kl{±}¥±øΩn$∑Ω∑f","MS",765
+"fairing off","NC16B","340","E","N"," "," ","f·´{∞}r±øÓ$∑Ω∑f","MS",765
+"fairing off","NC17A","337","E","N"," "," ","f·∫{∞}r±øΩn$∑Ω∫∑f","MS",766
+"a-settling off","NC17A","337","E","N"," "," ","∞s≤têÏñ±øΩn$∑Ω∫∑f","MS",766
+"fairing off","NC17B","338","E","N"," "," ","f·{∞}r±øΩn$∑Ω∑f","MS",767
+"clearing up","NC17B","338","E","N"," "," ","kl≤Ω∞r±øΩn$∏´{∞}p","MS",767
+"clearing up","NC18A","341","E","N"," "," ","kl·´∫∞r±øΩn$∏´{∞}p","MS",768
+"fairing off","NC18A","341","E","N"," "," ","f·´∫∞r±øΩn$∑Ω∫f","MS",768
+"breaking away","NC18A","341","E","N"," "," ","bre{±ø}k±øΩn$∞we{±ø}","MS",768
+"clearing up","NC18B","342","E","N"," "," ","kl·´∞r±øΩn$∏∫{∞}p","MS",769
+"fairing up","NC18B","342","E","N"," "," ","f·∞r±øΩn$∏∫{∞}p","MS",769
+"breaking away","NC19A","343","E","N"," "," ","bre±øk±øn$∞we±ø","MS",770
+"clearing away","NC19A","343","E","N"," "," ","tl·¥±øΩn$∞we±ø","MS",770
+"clearing","NC19B","344","V","N"," "," ","kliΩæ{∞}r±øn","MS",771
+"fairing","NC19B","344","V","N","[·∞]: seems to be a subsidiary member of","RN1","f·∞r±øn","MS",771
+" ","NC19B","344"," "," ","/≤´∫∞/ phoneme used before [r]","RN2"," ","MS",771
+"fair","NC19B","344","V","N"," "," ","f≤´∫∞","MS",771
+"faired","NC19B","344","V","N"," "," ","f≤´∫∞d","MS",771
+"clearing up","NC20A","345","E","N"," "," ","kl≤æ¥±øΩn$∏∫p","MS",772
+"clearing off","NC20B","346a","E","N"," "," ","kl¥∫±øn$∂´∫f","MS",773
+"clearing off","NC20C","346b","E","N"," "," ","kl≥é¥±ø´n$∑Ω∫f","MS",774
+"clearing off","NC21A","347","E","N"," "," ","kl≤Ω¥±øΩn$∑Ω∑f","MS",775
+"fairing off","NC21B","348","E","N"," "," ","f≤ré±øn$∑∫f","MS",776
+"clearing up","NC22A","349","E","N"," "," ","kl·{∞}r±øΩn$∏´∫p","MS",777
+"fairing off","NC22A","349","E","N"," "," ","f·∫{∞}r±øΩn$∑∫f","MS",777
+"clearing","NC22B","349b","V","N"," "," ","kl≤∞r±øΩn","MS",778
+"clearing off","NC23A","351a","E","N"," "," ","kl≤Ω∫∞{r}±øΩn$∑Ω∫f","MS",779
+"fairing up","NC23B","351b(*)","E","N"," "," ","f≤∫∞r±øΩn$∏Ω∫p","MS",780
+"clearing up","NC23B","351b(*)","E","N"," "," ","kl≤∞r±øΩn$∏Ω∫p","MS",780
+"clearing up","NC23C!","351c!","E","N"," "," ","kl≤∫∞r±øÓ$∏{∞}p","MS",781
+"clearing up","NC23C!","351c!","E","N","acquired pronunciation"," ","kl±∫∞r±øÓ$∏{∞}p","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"clearing up","NC24N","N352","E","N"," "," ","kl≤´∞|∞n$∏{∞}p","MS",783
+"fairing","NC24N","N352","V","N"," "," ","f≤´∞|∞n","MS",783
+"fairing","NC24A","352a","V","N"," "," ","f≤æ{∞}{r}±øΩn","MS",784
+"clearing up","NC24A","352a","E","N"," "," ","kl≤{∞}{r}±øΩn$∏´º{∞}p","MS",784
+"clearing away","NC24B","352b","E","N"," "," ","kl≤´æ¥±øÓ$∞we∫{±ø}","MS",785
+"fairing off","NC24B","352b","E","N"," "," ","f≤¥±øΩn$∑∫f","MS",785
+"fairing off","NC25N","N353","E","N"," "," ","f≤{r}{±ø}n$∑{∑´}f","MS",786
+"clearing up","NC25N","N353","E","N"," "," ","kl·{∞}{r}n$¶´ºp","MS",786
+"clearing off","NC25A","353","E","N"," "," ","kl·´ær±øΩn$∑Ω∑f","MS",787
+"fairing off","NC25B","354","E","N"," "," ","f·{∞}r±øΩn$∑∫f","MS",788
+"clearing","NC25B","354","V","N"," "," ","kl±{∞}r±øΩn","MS",788
+"clearing off","NC26A","355a","E","N"," "," ","kl≤r±øΩn$∑Ω∑´f","MS",789
+"clearing off","NC26B","355b","E","N"," "," ","kÏ±´∞ér±øΩn$∑Ω∑f","MS",790
+"fairing off","NC26B","355b","E","N"," "," ","f·∞é{r}±øΩn$∑Ω∑f","MS",790
+"clearing up","NC26C!","356!","E","N"," "," ","kliΩ∞r±øÓ$∏ó{∞}p","MS",791
+"fairing off","NC26C!","356!","E","N"," "," ","f·∞r±øΩn$∑Ω∑f","MS",791
+"fairing off","NC27A","357","E","N"," "," ","f≤{∞}{r}±øΩn$∑:f","MS",792
+"clearing up","NC27B","258","E","N"," "," ","kl≤¥±øÓ$∏´º{∞}p","MS",793
+"clearing off","NC28A","361","E","N"," "," ","kl≤Ωæ¥±øΩn$∑Ω∑f","MS",794
+"fairing off","NC28A","361","E","N"," "," ","f≤æ¥±øΩn$∑Ω∑f","MS",794
+"fairing off","NC28B","361b","E","N"," "," ","f≤¥±øΩn$∑∑´f","MS",795
+"clearing off","NC28B","361b","E","N"," "," ","kl≤¥±øΩn$∑∑´f","MS",795
+"fairing off","NC28C","362","E","N"," "," ","f≤Ωær±øΩn$∑Ω∑f","MS",796
+"clearing up","NC28C","362","E","N"," "," ","kl±{r}±øΩn$∏ó´º{∞}p","MS",796
+"clearing off","NC29A","363(*)","E","N"," "," ","kl¥∫±øΩn$∑∫{∑´}f","MS",797
+"fairing up","NC29A","363(*)","E","N"," "," ","f·¥±øΩn$∏´∫p","MS",797
+"fairing off","NC29B","364","E","N"," "," ","f≤Ωæ¥∫±øΩn$∑Ω∑f","MS",798
+"breaking off","NC30A","365","E","N"," "," ","br≤´æ±øk±øn$∑∫f","MS",799
+"clearing off","NC30A","365","E","N"," "," ","kl¿é∫{r}±øΩn$∑∫{∑´}f","MS",799
+"clearing up","NC30B","366","E","N"," "," ","kl±∞r±øΩn$∏ó´{∞}p","MS",800
+"fairing off","NC31A","367","E","N"," "," ","f·∫{∞}r±øΩn$∑Ω∑f","MS",801
+"clearing off","NC31A","367","E","N"," "," ","kl≥{∞é}{r}±øΩn$∑Ω∑f","MS",801
+"clearing off","NC31B","368","E","N"," "," ","kl±Ω∞r±øn$∑îΩ∑f","MS",802
+"clearing up","NC31B","368","E","N"," "," ","kl±Ω∞r±øn$≥æ{∞}p","MS",802
+"opening up","NC32A","369","E","N"," "," ","oΩ{π}pn±øΩn$∏´p","MS",803
+"clearing off","NC32A","369","E","N"," "," ","kl·{∞}r±øΩn$∑∫f","MS",803
+"breaking away","NC32A","369","E","N"," "," ","breΩ{±ø}k±øΩn$∞weΩ{±ø´}","MS",803
+"fairing off","NC32A","369","E","N"," "," ","f·∫{∞}r±øn$∑∫f","MS",803
+"fairing","NC32B!","370!","V","N"," "," ","f·{∞}r±øΩn","MS",804
+"clearing","NC32B!","370!","V","N"," "," ","kl±ør±øΩn","MS",804
+"fairing off","NC33A","373","E","N"," "," ","f•¥|±øΩn$∑Ω∑f","MS",805
+"fairing off","NC33B","374","E","Y"," ","SUG","f·¥|±øΩn$∑Ω∑f","MS",806
+"clearing up","NC33B","374","E","N"," "," ","kl·æ¥|±øΩn$≥ó∫{∞}p","MS",806
+"fairing off","NC34A","375","E","N"," "," ","f·Ωæ¥é∫±øn$∑∑´f","MS",807
+"fairing off","NC34B","376","E","N"," "," ","f·∫{∞}r±øΩn$∑∑´f","MS",808
+"clearing off","NC34B","376","E","N"," "," ","kl·∫{∞}r±øΩn$∑∑´f","MS",808
+"clearing up","NC35A","377","E","N"," "," ","kl·´{∞}r±øΩn$∏´p","MS",809
+"fairing off","NC35A","377","E","N"," "," ","f·{∞}r±øΩn$∑Ω∫{∑}f","MS",809
+"clearing up","NC35B","378","E","N"," "," ","kl·´∞ér±øΩn$≥{∞}p","MS",810
+"fairing off","NC35B","378","E","N"," "," ","f·∞ér±øΩn$∑Ω∑f","MS",810
+"breaking off","NC36N","N381","E","N"," "," ","br≤´k±øΩn$∑:f","MS",811
+"fairing up","NC36N","N381","E","N"," "," ","f≤´∫∞›|±øΩn$∏ó´{∞}p","MS",811
+"fairing off","NC36A","381","E","N"," "," ","f·∞r±øΩn$∑Ω∑f","MS",812
+"clearing up","NC36B","382","E","N"," "," ","kl≤Ω{¥}±øΩn$∏´æ{∞}p","MS",813
+"fairing up","NC36B","382","E","Y"," ","SUG","f≤Ω{¥}±øΩn$∏´æ{∞}p","MS",813
+"clearing off","NC37A","383","E","N"," "," ","kl≤r±øΩn$∂´∑Ωf","MS",814
+"fairing off","NC37A","383","E","N"," "," ","f·∞{r}±øΩn$∂´∑Ωf","MS",814
+"breaking off","NC37B","384","E","N"," "," ","breΩæ±øk±øΩn$∑Ω∑f","MS",815
+"clearing up","NC37B","384","E","N"," "," ","kl≤∫|±øΩn$∏´{∞}p","MS",815
+"clearing off","NC38N","N385","E","N"," "," ","kl·∫∞|±øΩn$∑Ω∫f","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"clearing up","NC38B","386","E","N"," "," ","kl±{∞}{r}±øΩn$∏ó´∫{∞}p","MS",818
+"clearing up","NC38B","386","E","N"," "," ","kl¿{∞é}{r}±øΩn$∏ó´∫{∞}p","MS",818
+"clearing up","NC38B","386","E","N"," "," ","kl¿{∞é}{r}±øΩn$∏ó´∫{∞}p","MS",818
+"clearing up","NC39A","389","E","N"," "," ","kl≤´{∞}|±øΩn$∏´{∞}p","MS",819
+"clearing up","NC39B!","390!","E","N"," "," ","kl±Ω∞r±øΩn$∏´{∞}p","MS",820
+"clearing off","NC40A","391","E","N"," "," ","kl≤r±øΩn$∑∫{∑´}f","MS",821
+"fairing off","NC40A","391","E","N"," "," ","f·{∞}r±øΩn$∑∫{∑´}f","MS",821
+"clearing up","NC40B","392","E","N"," "," ","kl·´{∞}{r}±øΩn$∏´{∞}p","MS",822
+"clearing up","NC41!","393!","E","N"," "," ","kl±∞r±øÓ$∏´{∞}p","MS",823
+"clearing up","NC42A","403","E","N"," "," ","kl·∞é{r}±øΩn$∏ó´º{∞}p","MS",824
+"fairing off","NC42B","404(*)","E","N"," "," ","f·{∞}r±øÓ$∑Ω∑f","MS",825
+"fairing off","NC43A","397","E","N"," "," ","f·∞r±øΩn$∑Ω∑f","MS",826
+"clearing off","NC43B","398","E","N"," "," ","kÏ≤{∞}{r}±øÓ$∑Ω∑f","MS",827
+"clearing up","NC44","410(*)","E","N"," "," ","kl¿º{∞é}±øΩn$∏´{∞}p","MS",828
+"clearing off","NC45A","409(*)","E","N"," "," ","kl≥{∞é}{r}±øΩn$∑Ω∑f","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"clearing off","NC46A","411","E","N"," "," ","kl·´∞é{r}±øΩn$∑Ω∑f","MS",831
+"clearing off","NC46B","412","E","N"," "," ","kl±∞é±øΩn$∑Ω∑f","MS",832
+"clearing up","NC46C!","412b!","E","N"," "," ","kl±∞r±øÓ$∏ó{∞}p","MS",833
+"clearing off","NC47","413","E","N"," "," ","kl·¥|±øΩn$∑Ω∫f","MS",834
+"fairing up","NC48","418","E","N"," "," ","f·´¥±øÓ$∏ó´{∞}p","MS",835
+"fairing off","NC49","421","E","N"," "," ","f·{∞}ré∞´n$∑Ω∑f","MS",836
+"clearing up","NC50A","422","E","N"," "," ","kÏ±Ω{∞}{r}±øΩn$∏´{∞}p","MS",837
+"clearing up","NC50B!","423!","E","N"," "," ","kl±∞r±øÓ$∏´º∫{∞}p","MS",838
+"fairing off","NC51A","427","E","N"," "," ","f·r±øΩn$∑Ωº{∑}f","MS",839
+"clearing","NC51B","428","V","N"," "," ","kl≥é{r}±øΩn","MS",840
+"fairing","NC51B","428","V","N"," "," ","f·´∞r±øΩn","MS",840
+"fairing up","NC52N","N429","E","N"," "," ","f·∞r±øΩn$∏´{∞}p","MS",841
+"clearing up","NC52A","429","E","N"," "," ","kl·Ωæ{r}±øΩn$∏´{∞}p","MS",842
+"fairing off","NC52B","430","E","N"," "," ","f·´∞r±øΩn$∑Ω∑f","MS",843
+"fairing off","NC53A","431","E","N"," "," ","f·∫{∞é}±øΩn$∑Ω∑f","MS",844
+"clearing up","NC53B","432","E","N"," "," ","kl±∞é∫±øΩn$∏´º{∞}p","MS",845
+"breaking away","NC54A","433","E","N"," "," ","bre{±ø}k±øΩn$∞we∫±ø","MS",846
+"clearing off","NC54A","433","E","N"," "," ","kl·¥|±øΩn$∑´∫{∑ó´}f","MS",846
+"fairing up","NC54B","434","E","N"," "," ","f·{∞}r±øΩn$∏´º∫{∞}p","MS",847
+"clearing up","NC54B","434","E","N"," "," ","kl·´{∞é}r±øΩn$∏´º∫{∞}p","MS",847
+"fairing off","NC55","435","E","N"," "," ","f·æ∫{∞é}r±øΩn$∑Ω∑f","MS",848
+"breaking off","NC55","435","E","N"," "," ","breΩ{±ø}k±øΩn$∑Ω∑f","MS",848
+"clearing off","NC56A","436","E","N"," "," ","kl±∞é±øÓ$∑Ω∑f","MS",849
+"clearing up","NC56B!","437!","E","N"," "," ","kl±∞r±øÓ$∏∫{∞}p","MS",850
+"clearing up","NC57A","438a","E","N"," "," ","kl¿º{∞é}{r}±øΩn$∏´{∞}p","MS",851
+"fairing up","NC57A","438a","E","N"," "," ","fµ∫{∞}r±øΩn$∏´{∞}p","MS",851
+"breaking up","NC57A","438a","E","N"," "," ","breΩ{±ø}k±øΩn$∏´{∞}p","MS",851
+"clearing up","NC57B","438b","E","N"," "," ","kl±Ω∞r±øΩn$∏´º{∞}p","MS",852
+"clearing off","NC58A","439","E","N"," "," ","kl¥∫±øΩn$∑Ω∑f","MS",853
+"clearing off","NC58B","440","E","N"," "," ","kl≤´¥|±øΩn$∑Ω∑f","MS",854
+"clearing off","NC59","441(*)","E","Y"," ","AUX","kl¥∫±øΩn$∑Ω{∑´}f","MS",855
+"clearing up","NC60","442","E","N"," "," ","kl·∞é{r}±øΩn$∏ó´{∞}p","MS",856
+"clearing off","NC61A","443","E","N"," "," ","kl≤æ{r}±øΩn$∑Ω∑f","MS",857
+"clearing up","NC61B","444","E","N"," "," ","kl±æ¥±øÓ$∏´{∞}p","MS",858
+"clearing off","NC62A","447","E","N"," "," ","kl{∞}¥é∫±øΩn$∑Ω∑f","MS",859
+"clearing up","NC62B","448","E","N"," "," ","kl≤¥±øÓ$∏´∫{∞}p","MS",860
+"clearing off","NC63A","449","E","N"," "," ","kl¥∫±øΩn$∑Ω∑f","MS",861
+"clearing away","NC63B","450","E","N"," "," ","kl≤æ¥±øΩn$∞weΩ±ø","MS",862
+"clearing off","NC64A","453","E","N"," "," ","kl≤Ωæré±øΩn$∑Ω∑f","MS",863
+"clearing up","NC64B","454","E","N"," "," ","kl≤¥|±øÓ$∏{∞}p","MS",864
+"clearing up","NC65A","461","E","N"," "," ","kl¥∫±øΩn$∏ó´{∞}p","MS",865
+"clearing off","NC65B","462","E","N"," "," ","kl·¥|±øΩn$∑:f","MS",866
+"a-clearing up","NC66A","465","E","N"," "," ","∞kl·∞r±øΩn$∏´{∞}p","MS",867
+"fairing off","NC66B","466","E","N"," "," ","f·¥±øΩn$∑Ω∑f","MS",868
+"clearing up","NC67A","469","E","N"," "," ","tl≥ré±øΩn$∏´∫{∞}p","MS",869
+"clearing off","NC67B","470","E","N"," "," ","kl·¥±øΩn$∑{∑´}f","MS",870
+"clearing off","NC68A","473","E","N"," "," ","kl¥∫±øΩn$∑Ω∑f","MS",871
+"clearing up","NC68B","474","E","N"," "," ","kl¥∫±øΩn$∏ó∫{∞}p","MS",872
+"clearing off","NC69A","477","E","N"," "," ","kl¥{r}±øΩn$∑Ω∑f","MS",873
+"clearing off","NC69B","478","E","N"," "," ","kl·¥±øΩn$∑{∑´}f","MS",874
+"clearing off","NC70A","479","E","N"," "," ","kl·Ωæré±øΩn$∑Ω∑f","MS",875
+"clearing up","NC70B","480","E","N"," "," ","kl±ré±øÓ$∏ó´∫{∞}p","MS",876
+"clearing off","NC71A","481","E","N"," "," ","kl¥∫±øΩn$∑Ω∑f","MS",877
+"clearing up","NC71B","482","E","N"," "," ","kl¥∫±øΩn$∏´{∞}p","MS",878
+"fairing up","NC71B","482","E","N"," "," ","f·ré±øΩn$∏´{∞}p","MS",878
+"clearing up","NC71C!","483!","E","N"," "," ","kl±¥|±øÓ$∏´{∞}p","MS",879
+"clearing","NC71C!","483!","V","N"," "," ","kl±¥|±øÓ","MS",879
+"clearing up","NC72A","487","E","N"," "," ","kl·´æré±øΩn$∏ó´{∞}p","MS",880
+"clearing off","NC72B","488","E","N"," "," ","kl¥{r}±øΩn$∑Ω∑f","MS",881
+"clearing off","NC73A","491","E","N"," "," ","kl¥ré±øΩn$∑Ω∑f","MS",882
+"clearing off","NC73B","492","E","N"," "," ","kl·¥±øΩn$∑∫f","MS",883
+"clearing off","NC74A","493","E","N"," "," ","kl¥∫±øΩn$∑Ω∑f","MS",884
+"clearing off","NC74B","494","E","N","mostly"," ","kl¥{r}±øΩn$∑Ω∑f","MS",885
+"clearing up","NC74B","494","E","N"," "," ","kl¥{r}±øΩn$∏ó´{∞}p","MS",885
+"clearing off","NC75A","495","E","N"," "," ","kl¥∫±øΩn$∑Ω∑f","MS",886
+"clearing up","NC75B","496","E","N"," "," ","kl¥∫±øΩn$∏ó´{∞}p","MS",887
+"fairing off","SC1A","203.1","E","N"," "," ","f≤∫{∞}r±øΩn$∑Ω∫f","MS",888
+"clearing off","SC1B","203.2","E","N"," "," ","kl≤∫∞é{r}±øΩn$∑Ω∫f","MS",889
+"clearing off","SC2A","204.1(*)","E","N"," "," ","ıkl≥ér±øΩn$Â∑∑´f","MS",890
+"clearing up","SC2B","204.2","E","N"," "," ","ıkl≤∫{∞é}{r}±øΩn$Â∏ó´{∞}p","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"fairing off","SC3A","205.1","E","N"," "," ","f·æ{∞}r±øÓ$∑´∫f","MS",893
+"clearing off","SC3B","205.2","E","N"," "," ","k`≈≤æ∫r›nñ$ı∑Ω{∞}f","MS",894
+"fairing off","SC3B","205.2","E","N"," "," ","Âf·´∫{∞}rànñ$ı∑∫{∞}f","MS",894
+"clear up","SC3B","205.2","E","N"," "," ","t`lçè≥´∫r$ı¶Ω{∞}p","MS",894
+"breaking off","SC3C!","205.3!","E","N"," "," ","ÂbÚe´∫±øk±øºn$ı∑∫{∞}f","MS",895
+"clearing","SC3C!","205.3!","V","N"," "," ","k`≈è≤∫r±øºn","MS",895
+"fairing off","SC3C!","205.3!","E","N"," "," ","f≤∫r±øºn$∑∫{∞}f","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"clearing up","SC4B","206.2","E","N"," "," ","Âk`≈≤∫rnñ$ı∏´{∞}p","MS",897
+"clearing off","SC4B","206.2","E","N"," "," ","Âk`≈≤∫rnñ$ı∑∫{∞}f","MS",897
+"fairing off","SC4B","206.2","E","N"," "," ","Âf≤∫r±øºn$ı∑∫{∞}f","MS",897
+"fairing up","SC4B","206.2","E","N"," "," ","Âf≤∫r±øºn$ı∏´{∞}p","MS",897
+"clear off","SC4B","206.2","E","N"," ","CNV","Âk`≈è≤∫∞$ı∑∫{∞}f","MS",897
+"clearing up","SC4B","206.2","E","N"," "," ","Âk`≈≤∫r±øºn$∏´{∞}p","MS",897
+"fair off","SC4C","206.3","E","N"," "," ","Âf≤∫r$ı∑º∫{∞}f","MS",898
+"break off","SC4C","206.3","E","Y"," ","SUG","ÂbÚe∫{∞}k$ı∑º∫{∞}f","MS",898
+"clear off","SC5A","207.1","E","N"," "," ","Âklè≤´∫$ı∑f","MS",899
+"break off","SC5A","207.1","E","N"," "," ","Âbre∫k$ı∑Ω{∞}f","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"clearing off","SC5D!","207.3!","E","N"," "," ","Âk`≈≤∫rà±øºÓ$ı∑∫{∞}f","MS",902
+"breaking off","SC5D!","207.3!","E","Y","""among the Negroes¢","SUG/HRD","ÂbÚe∫{∞}k±æÓ$ı∑∫{∞}f","MS",902
+"fairing up","SC5D!","207.3!","E","Y","""common expression¢","SUG","Âf≤∫rà±æÓ$ı∏´{∞}p","MS",902
+"brightening up","SC5D!","207.3!","E","N"," "," ","ÂbÚ•Ωº±øtn±æÓ$ı∏´{∞}p","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"fairing off","SC6A","208.1","E","N"," "," ","f≤æ¥±øΩn$∑∫f","MS",904
+"clear up","SC6B","208.2(*)","E","N"," "," ","Âklè≥´∫¥$ı∏ó´p","MS",905
+"clouds is fading","SC6B","208.2(*)","S","N"," ","CNV","Âtlçèµ´∫odz$±øºz$Âfe´∫{∞}dn","MS",905
+"clear up","SC6C!","208.3!","E","N"," ","CNV","Âklè≤∫¥$ı∏ºp","MS",906
+"going to break","SC6C!","208.3!","E","N"," ","CNV","ıgo´º±ø›n$t∞$Âbre∫{∞}k","MS",906
+"cleared up","SC6C!","208.3!","E","N"," "," ","Âklè≤∫∞d$ı∏´p","MS",906
+"clear up","SC6C!","208.3!","E","N"," ","CNV","ıklè·´¥$Â∏ºp","MS",906
+"NA","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"clearing up","SC7A","209.1","E","N"," "," ","Âk≈≤´|nñ$ı∏´º{∞}p","MS",909
+"over with","SC7A","209.1","K","N"," "," ","o´º∫{∞}v∞›$w±ø›˘","MS",909
+"breaking","SC7A","209.1","V","Y"," ","SUG","bÚe´{∞}k±øºn","MS",909
+"clearing off","SC7A","209.1","E","N"," "," ","Âk`≈≥´∫{r}nñ$ı∑º{∞}f","MS",909
+"weather's broken","SC7B","209.2","S","N"," "," ","w≤∫{∞}‰∞´z$bÚo´º∫{∞}k∞´n","MS",910
+"clear up","SC7B","209.2","E","N"," "," ","Âk`≈±Ω∫rı∏º{∞}p","MS",910
+"breaking up","SC7B","209.2","E","N"," "," ","ÂbÚe∫{∞}k±æn$ı∏´{∞}p","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"clearing up","SC7D!","209.4!","E","N"," "," ","Âk`≈e´∫r±ø›n$ı∏º{∞}p","MS",912
+"fairing off","SC7D!","209.4!","E","N","""out in the country¢"," ","ÂfeΩ∫r±øºÓ$ı∑º{∞}f","MS",912
+"breaking","SC7D!","209.4!","V","N"," "," ","bÚe´{∞´º}k±øºÓ","MS",912
+"weather's broke up","SC8A","210.1","S","N"," "," ","w≤´{∞}‰∞z$ÂbÚo´∫{∞}k$∞´p","MS",913
+"cleared up","SC8A","210.1","E","N"," "," ","Âk≈≤´∫ràd$ı∏´º{∞}p","MS",913
+"faired off","SC8A","210.1","E","N"," "," ","Âf≤∫∞d$ı∑º∫∞f","MS",913
+"faired off","SC8A","210.1","E","N"," "," ","Âf≤∫¥d$ı∑º∫∞f","MS",913
+"clear off","SC8B","210.2","E","N"," "," ","Âtlçè≤´∫$ı∑´º∫{∞}f","MS",914
+"fair off","SC8B","210.2","E","N"," "," ","Âf≤∫∞›$ı∑´º∫{∞}f","MS",914
+"going to break off","SC8C","210.3","E","N"," "," ","goø˛Ò˛∞$ÂbÚe´∫k$ı∑Ω∫{∞}f","MS",915
+"clear off","SC8C","210.3","E","N"," "," ","Âk≈≤´æ∫∞$ı∑´{∞}f","MS",915
+"cleared up","SC9A","211.1","E","N"," "," ","Âklè≥´∫{∞}d$ı∏´{∞}p","MS",916
+"broke off","SC9A","211.1","S","N"," "," ","ÂbÚo∫{∞}k$ı∑ó´∫{∞}f","MS",916
+"cleared off","SC9B","211.2","E","N"," "," ","Âk≈è≤∫∞d$ı∑∫{∞}f","MS",917
+"broke off","SC9B","211.2","E","N"," "," ","ÂbÚo∫{∞}k$ı∑∫{∞}f","MS",917
+"faired off","SC9B","211.2","E","N"," "," ","Âf≤∫∞d$ı∑∫{∞}f","MS",917
+"fairing off","SC9C!","211.3!","E","N"," "," ","Âf≤´∫r±øºn$ı∑´º{∞}f","MS",918
+"clearing off","SC9C!","211.3!","E","N"," "," ","Âk≈è≤´∫r±øºn$ı∑´∫{∞}f","MS",918
+"breaking off","SC9C!","211.3!","E","Y","rustic; sometimes says himself","HRD","ÂbÚe´∫{∞}kà±øºn$ı∑Ωº{∞}f","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"fairing off","SC10A","212.1","E","N"," "," ","Âf≤∫r±ø›ºÓ$ı∑º∫{∞}f","MS",920
+"fairing up","SC10A","212.1","E","N"," "," ","Âf≤∫r±øºÓ$ı∏ºp","MS",920
+"clearing off","SC10A","212.1","E","N"," "," ","Âk`≈≤æ∫r±ø›ºÓ$ı∑º{∞}f","MS",920
+"clear up","SC10B!","212.2!","E","N"," ","CNV","Âklè≤∫¥$∏ºp","MS",921
+"NA","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"breaking","SC11N","N213","V","N"," "," ","bre∫kà±øn","MS",923
+"clearing","SC11N","N213","V","N"," "," ","kl≤{∞}r±øΩn","MS",923
+"clearing up","SC11M!","2n213!","E","N"," "," ","ık`≈e∫r±øºÓ$Â•p","MS",924
+"clouds going over","SC11M!","2n213!","S","N"," "," ","Âk`≈µ´º∫πdz$ıgo´º∫|±æÓ$Âo´º∫{∞}v¥´æ","MS",924
+"clearing up","SC11A","213.1(*)","E","N"," "," ","Âk`≈≤´∫r±›Ó$ı∏ó´ºp","MS",925
+"clear off","SC11A","213.1(*)","E","N"," ","CNV","Âkà≈±Ω∫r$ı∑º∫{∞}f","MS",925
+"clearing up","SC11B","213.11","E","N"," "," ","ıtlçeΩr±øÓ$Â∏p","MS",926
+"fairing up","SC11C","213.2","E","Y"," ","SUG/HRD","Âf≤∫r±ø›ºÓ$ı∏ºp","MS",927
+"cleared up","SC11C","213.2","E","N"," "," ","Âk≈≤∫∞d$ı∏ºp","MS",927
+"clearing","SC11C","213.2","V","N"," "," ","k`≈≤r±øºÓ","MS",927
+"clear","SC11C","213.2","V","N"," ","CNV","t`lçè≤´∫∞","MS",927
+"clouds are scattering","SC11C","213.2","S","N"," "," ","Âk≈èµ´∫πdz$∞$Âskà·tê∞r±øºÓ","MS",927
+"going to have a change","SC11D","213.3","E","N"," "," ","Âgo´º∫n∞Ω$ıh·Ωv$∞$ÂtÛ`e´∫{∞}nd˙","MS",928
+"cleared up","SC11D","213.3","E","N"," "," ","Âk≈≤Ω∫¥d$ı∏ºp","MS",928
+"is broke","SC11D","213.3","E","N"," "," ","z$ÂbÚo´º∫{∞}k","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"clearing up","SC11G!","213.7!","E","N"," "," ","Âk`≈e∫r±ø›Ó$ı•´p","MS",931
+"clearing","SC11G!","213.7!","V","N"," "," ","Âk`≈èe´∫r±ø›Ó","MS",931
+"clearing off","SC11H!","213.8!","E","N"," "," ","Âk`≈≤´rnñ$ı∑Ωº∫{∞}f","MS",932
+"clearing up","SC11H!","213.8!","E","N"," "," ","Âk`≈≤´rnñ$ı∏ºp","MS",932
+"fairing off","SC11H!","213.8!","E","N"," "," ","Âf≤´∫r±øºÓ$ı∑º∫{∞}f","MS",932
+"fairing off","SC11H!","213.8!","E","N"," "," ","Âf≤´∫r±ø›ºÓ$∂ó´ºf","MS",932
+"clearing up","SC11I!","213.9!","E","N"," "," ","ıkl±∞r±øn$Â∏Ωp","MS",933
+"clear","SC11J!","213.10!","V","N"," "," ","k`≈èi∫¥","MS",934
+"clearing","SC11J!","213.10!","V","N"," "," ","k`≈i∫r±øºÓ","MS",934
+"clear it","SC11J!","213.10!","E","Y"," ","INA/CNV","Âk`≈èiΩ∫r±øºt","MS",934
+"clearing up","SC11J!","213.10!","E","N"," "," ","Âk`≈èi∫r±øºÓ$ı∏ºp","MS",934
+"clear up","SC11J!","213.10!","E","N"," ","CNV","Âk`≈èi∫r$ı∏´p","MS",934
+"clearing off","SC11J!","213.10!","E","N"," ","CNV","Ât`lçè±Ω∫r±æÓ$ı∑´º∫{∞}f","MS",934
+"clearing off","SC12A","214.1","E","N"," "," ","k`≈èeΩ∫|±øºn$ı∑´∫{∞}f","MS",935
+"cleared off","SC12A","214.1","E","N"," ","CNV","Âk`≈≤´∫∞d$ı∑Ω{∞}f","MS",935
+"good fair weather","SC12A","214.1","O"," "," ","RN2","Âgπø´æ{∞}d$ıf≤∫∞$Âw≤´∫{∞}‰∞","MS",935
+"looks like it's coming","SC12A","214.1","E","N"," ","RN1","Âlπøæ{∞}ks$ılµ´∫±øk$±øºts$k`∏´{∞}m±øºn","MS",935
+"clearing off","SC12B","214.2","E","N"," "," ","ıkle∞r±øΩn$Â∑´∫f","MS",936
+"fairing off","SC12B","214.2","E","N"," "," ","ıfe∞r±øÓ$Â∑´∫f","MS",936
+"break up","SC13","213.6","E","N"," "," ","Âbre´∫k$ı∏ºp","MS",937
+"clear up","SC13","213.6","E","N"," "," ","Âklèe´∫rı∏ºp","MS",937
+"fairing off","SC14A","215.1","E","Y"," ","SUG","fe´∞r±øÓ$∑Ω∫f","MS",938
+"breaking off","SC14A","215.1","E","N"," "," ","ıbre{∞}k±øÓ$Â∑Ω∫f","MS",938
+"clearing up","SC14A","215.1","E","N"," "," ","ıkle∞r±øÓ$Â∏Ωp","MS",938
+"clear off","SC14B","215.2","E","N"," "," ","Âk`≈è≤æ∫rı∑∫{∞}f","MS",939
+"faired off","SC14B","215.2","E","N"," ","CNV","Âf≤∫∞d$ı∑∫{∞}f","MS",939
+"fair off","SC15A","216.1","E","N"," "," ","Âf≤´∫$ı∑º∫{∞}f","MS",940
+"going to be a-changing","SC15A","216.1","E","N"," "," ","Âgo˛$ıbi∫$∞ÂtÛe∫{∞}nd˙±øºn","MS",940
+"broke off","SC15A","216.1","E","N","it's)"," ","Âbro´∫{∞}k$ı∑´∫{∞ó}f","MS",940
+"going to break","SC15B","216.2","E","N"," "," ","go˛Ò˛∞$ÂbÚe´∫{∞}k","MS",941
+"clears up","SC15B","216.2","E","N"," ","CNV","Âk≈≤´∫∞z$ı∏´º{∞}p","MS",941
+"faired off","SC15B","216.2","E","N"," "," ","Âf≤´∫∞d$ı∑º∫{∞}f","MS",941
+"make a change","SC15B","216.2","E","N"," "," ","ıme´∫{∞}k$∞$ÂtÛe´∫{∞}nd˙","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"faired off","SC16N","N217","E","N"," "," ","Âf≤∫∞d$ı∑´{∞}f","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"fair off","SC17A","218.1","E","N"," "," ","Âf≤´∫¥$ı∑´{∞}f","MS",945
+"faired off","SC17A","218.1","E","N"," ","CNV","Âf≤´∫∞d$ı∑∫{∞}f","MS",945
+"fairs off","SC17A","218.1","E","N"," ","CNV","Âf≤´∫¥àz$ı∑´{∞}f","MS",945
+"fairs off","SC17A","218.1","E","N"," ","CNV","Âfe´∫¥z$ı∑Ω{∞}f","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"breaking off","SC17D","218.4","E","N","rain's)"," ","ÂbÚe∫{∞}k±øºn$ı∑´{∞}f","MS",948
+"clearing off","SC17D","218.4","E","N"," "," ","Âk`≈≤´∫r±øºÓ$ı∑∫{∞}f","MS",948
+"fair","SC17D","218.4","A","N"," "," ","f≤´∫∞","MS",948
+"cleared up","SC17D","218.4","E","N"," "," ","Âk≈≤´∫{∞}d$ı¶Ω{∞}p","MS",948
+"clearing up","SC18N","N219","E","N"," ","CNV","Ât`lç±´∫{∞}n$ı∏óºp","MS",949
+"fairing off","SC18N","N219","E","Y"," ","SUG/HRD","Âf≤Ω∫r±ø´ºn$ı∑º∫{∞}f","MS",949
+"cleared up","SC18N","N219","E","N"," "," ","Âtlç≤´∫{∞}d$ı∏´p","MS",949
+"clear up","SC18A","219.1","E","N"," "," ","kà`≈è≤´∫$ı{Á}∏´p","MS",950
+"fairing off","SC18A","219.1","E","N","""sailor would say¢"," ","f≤∫r±ø´ºn$ı∑º∫{∞}f","MS",950
+"clear up","SC18A","219.1","E","N"," "," ","Âkà≈è≤∫r$ı∏´p","MS",950
+"breaking off","SC18B","219.2","E","Y"," ","HRD","Âbre´∫k±æn$ı∑Ωº∫{∞}f","MS",951
+"clear up","SC18B","219.2","E","N"," "," ","k`≈è±Ω∫r∏´p","MS",951
+"cleared off","SC18C!","219.3(*)!","E","N"," "," ","Âkà`≈è≤´∫∞d$∑º∫{∞}f","MS",952
+"cleared up","SC18C!","219.3(*)!","E","N"," "," ","Âkà`≈è≤´∫∞d$∏´p","MS",952
+"faired off","SC18C!","219.3(*)!","E","Y","in Beaufort, as in most SC tidewater,","HRD/RN1","Âf≤Ω∫∞d$ı∑º∫{∞}f","MS",952
+" ","SC18C!","219.3(*)!"," "," ","only one front vowel before /r/ (phonemically);","RN2"," ","MS",952
+" ","SC18C!","219.3(*)!"," "," ","phonetically, it may range from [±] to [≤Ω];","RN3"," ","MS",952
+" ","SC18C!","219.3(*)!"," "," ","`ears' and `airs' are homonymous","RN4"," ","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NA","SC19A","220.1"," ","N"," "," "," ","MS",955
+"clearing","SC19B","220.2","V","N"," ","CNV","kl≤∫r±øn","MS",956
+"stopped","SC19C","220.3","V","N"," "," ","stﬁpt","MS",957
+"cleared up","SC19C","220.3","E","N"," "," ","kà`≈è±Ω∫∞d$¶Ωp","MS",957
+"held up","SC19C","220.3","E","N"," "," ","Âh≤ld$∞Ωºp","MS",957
+"NR","SC19D!","220.4!"," ","N"," "," "," ","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"slacked off","SC20A","221.1","E","N"," "," ","Âslè±Ωkt$ı∑∫∑´f","MS",960
+"fairing off","SC20A","221.1","E","N"," "," ","Âf·∫r±øºn$ı∑Ω∑f","MS",960
+"fair off","SC20A","221.1","E","N"," ","CNV","Âf·∫∞$ı∑Ω∑f","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"faired off","SC20C","221.3","E","N"," "," ","Âf·´∫∞´d$ı∑∫∑´f","MS",962
+"faired up","SC20C","221.3","E","N"," "," ","f·´∫∞d$¶Ωp","MS",962
+"faired off","SC20C","221.3","E","N"," "," ","Âf≤Ω∫∞d$ı∑∫∑´f","MS",962
+"cleared up","SC20C","221.3","E","N"," "," ","Âklè≤∫∞d$ı¶Ωp","MS",962
+"fair off","SC20C","221.3","E","N"," ","CNV","ıf≤∫∞$Â∑∫∑´f","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"fairing off","SC21A","222.1","E","N"," "," ","f·´æ∫∞ér±øΩn$∑∑´f","MS",964
+"fairing off","SC21B","222.2","E","N"," "," ","f·´{∞}r±øΩn$∑Ωº∑f","MS",965
+"clearing away","SC21B","222.2","E","N"," "," ","kl·´{∞}r±øΩn$∞we{±ø}","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"cleared off","SC22A","223.1","E","N"," "," ","Âk`≈è≤∫∞d$ı∑Ω{∞}f","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"breaking off","SC22C!","223.3!","E","N"," "," ","ÂbÚe∫{∞}k±ø›ºÓ$ı∑∫{∞}f","MS",969
+"clearing up","SC22C!","223.3!","E","N"," "," ","Âk`≈≤´∫r±øºÓ$ı∏´{∞}p","MS",969
+"fairing off","SC23A","224.1","E","N"," "," ","f·´|±øºn$ı∑º∫{∞}f","MS",970
+"fairs off","SC23A","224.1","E","N"," ","CNV","f·´∫∞z$ı∑∫{∞}f","MS",970
+"going to break off","SC23A","224.1","E","N"," "," ","goøºÒ˛∞$ÂbÚe∫{∞}k$ı∑Ω∫{∞}f","MS",970
+"breaking off","SC23A","224.1","E","N"," "," ","ÂbÚe∫{∞}kà±øºn$ı∑Ωº∫{∞}f","MS",970
+"going to change","SC23B","224.2","E","N"," "," ","ıgoøæn∞$ÂtÛ`e∫{∞}nd˙","MS",971
+"breaking off","SC23B","224.2","E","N"," "," ","ÂbÚe∫{∞}kà±øºn$ı∑∫{∞}f","MS",971
+"fair up","SC23B","224.2","E","N"," "," ","Âf·´∫$ı¶Ω{∞}p","MS",971
+"clearing off","SC23C","224.3","E","N"," "," ","Âk`≈è≤∫r±øºn$ı∑Ω∫{∞}f","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NA","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"clear","SC24N","N225","V","N","about to)"," ","k`≈≤∫","MS",975
+"fair up","SC24N","N225","E","N","about to)"," ","Âf≤∫$∞´p","MS",975
+"fair off","SC24A","225.1","E","N"," "," ","ÂfeΩ∞$ı∑∫f","MS",976
+"going to fair off","SC24A","225.1","S","N"," "," ","go˛$ıf≤∞›$Â∑∫f","MS",976
+"about to fair off","SC24A","225.1","S","N"," "," ","Âba´πΩ't$ıf≤∞›$Â∑∫f","MS",976
+"fair off","SC24B","225.11","E","N"," "," ","Âf≤∫rı∑º{∞}f","MS",977
+"to clear up","SC24B","225.11","E","N"," "," ","t∞$Âk`≈≤´$∞Ωp","MS",977
+"have some clear weather","SC24B","225.11","E","N"," "," ","ıh·Ω{∞}v$sm$Âk`≈è≤´∞$Âw≤´{∞}‰∞","MS",977
+"clouds going to break off","SC24B","225.11","S","N"," "," ","Âk`≈µ´º∫odz$goøn∞$bÚe∫{∞}k$∑∫{∞}f","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"clearing away","SC25A","226.1","E","N"," "," ","kl·æ{∞}r±øΩn$∞Âwe∫","MS",980
+"clearing off","SC25A","226.1","E","N"," "," ","kl·æ{∞}r±øΩn$∑∫{∑´}f","MS",980
+"fairing off","SC25A","226.1","E","N"," "," ","f·{∞}r±øΩn$∑∫{∑´}f","MS",980
+"fairing off","SC25B","226.2","E","N"," "," ","Âf·∫r±øºÓ$ı∑∫∑´f","MS",981
+"clear off","SC25B","226.2","E","N"," "," ","Âklè≤´æ∫r$ı∑∫∑´f","MS",981
+"clear up","SC25C!","226.3!","E","N"," "," ","Âk`lè±∫∞$ı¶Ωp","MS",982
+"clear off","SC25C!","226.3!","E","N"," "," ","Âk`lè≥´∫{∞}$ı∑∫{∞}f","MS",982
+"fairing off","SC26A","227.1","E","N"," "," ","Âf≤∫r±øºn$ı∑∫{∞}f","MS",983
+"be faired off","SC26A","227.1","E","N","it'll)","CNV","b±ø$Âf≤∫∞d$ı∑∫{∞}f","MS",983
+"clearing off","SC26A","227.1","E","N"," "," ","Âklè≤´∫r±øºn$ı∑∫{∞}f","MS",983
+"faired up","SC26B!","227.2!","E","N"," "," ","Âf≤∫∞d$ı∏Ω{∞}p","MS",984
+"break off","SC26B!","227.2!","E","N"," "," ","Âbre∫k$ı∑∫{∞}f","MS",984
+"clear up","SC26B!","227.2!","E","N"," "," ","Âklè≤∫r$∞Ωp","MS",984
+"fair up","SC27A","228.1","E","N"," "," ","ıf≤{∞}{r}$Â∏p","MS",985
+"break off","SC27A","228.1","E","N"," "," ","Âbre∫k$ı∑{∞ó}f","MS",985
+"clouds is breaking","SC27A","228.1","S","N"," "," ","kla´æπdz$±øz$bre∫k±øn","MS",985
+"clear up","SC27A","228.1","E","N"," "," ","Âkle∞$ı∏p","MS",985
+"clouds is breaking","SC27A","228.1","S","N"," ","CNV","kla´πdz$±øz$bre∫k±øn","MS",985
+"about to fair off","SC27B","228.2","E","N"," "," ","Âb•ºπt$ıt∞$Âf≤´∫r$ı∑´∫{∞}f","MS",986
+"about to break off","SC27B","228.2","E","N"," "," ","Âb•ºπt$ıt∞$Âbre∫k$ı∑∫{∞}f","MS",986
+"clearing up","SC28A","229.1","E","N"," ","CNV","Âkl≤´æ∫r±øºn$ı¶Ω{∞}p","MS",987
+"faired up","SC28A","229.1","E","N"," "," ","Âf·∞d$ı¶Ω{∞}p","MS",987
+"fairing up","SC28B","217.2","E","N"," "," ","Âf≥Ω∫r±øºn$ı¶Ωp","MS",988
+"breaking off","SC28B","217.2","E","N"," "," ","Âbre´∫k{x}±øºn$ı∑∫{∞}f","MS",988
+"break off","SC28C","229.2","E","N"," "," ","Âbre´∫k$ı∑∫{∞}f","MS",989
+"clear up","SC28C","229.2","E","N"," "," ","Âklè≤´∫|∞p","MS",989
+"fair up","SC28C","229.2","E","N"," "," ","Âf≤Ω∫|∞´p","MS",989
+"faired up","SC28D","229.3","E","N"," "," ","Âf≤∫∞d$ı¶Ω{∞}p","MS",990
+"slacked up","SC28D","229.3","E","N","(temporarily"," ","Âslè·{≤}kt$ı¶Ω{∞}p","MS",990
+"cleared off","SC28D","229.3","E","N"," "," ","Âkl≤´∫∞d$ı∑∫{∞}f","MS",990
+"cleared up","SC28D","229.3","E","N"," "," ","Âkl≤´∫∞d$ı¶Ω{∞}p","MS",990
+"cleared off","SC29A","230.2(*)","E","N"," "," ","Âklè≥∫¥d$ı∑∫{∞}f","MS",991
+"faired off","SC29A","230.2(*)","S","N"," "," ","Âf·Ω∫¥d$ı∑Ω∫{∞}f","MS",991
+"cleared off","SC29A","230.2(*)","E","N"," ","CNV","Âklè≥´∫{¥}d$∑Ω{∞}f","MS",991
+"cleared up","SC29B","230.1(*)","E","N"," ","CNV","Âtlçè≤´∫∞d$ı¶Ωp","MS",992
+"fair off","SC29C","230.3","E","N"," "," ","f·´∫$ı∑∫{∞}f","MS",993
+"clear up","SC29C","230.3","E","N","gonna)"," ","Âklè·´∫$∞Ωp","MS",993
+"cleared up","SC29C","230.3","E","N"," ","CNV","Âtlçè≤´æ∞d$ı¶Ω{∞}p","MS",993
+"break off","SC29C","230.3","E","N"," "," ","Âbráe∫k$ı∑∫{∞}f","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"clearing up","SC30A","231.1","E","N"," "," ","kl·∞{r}±øΩn$∏´º∫{∞}p","MS",996
+"break off","SC30B","231.2","E","N"," "," ","ÂbÚe∫k$ı∑Ωº∫∑ºf","MS",997
+"clear off","SC30B","231.2","E","N"," "," ","Âk≈è≤´∫$ı∂´º∑ºf","MS",997
+"clear up","SC30B","231.2","E","N"," "," ","Âtlçè≤´∫$ı¶Ωp","MS",997
+"fair off","SC30B","231.2","E","N"," "," ","Âf·∫∞›$ı∂´º∫∑ºf","MS",997
+"clear up","SC30C!","231.3!","E","N"," "," ","k`≈≤´æ∫r¶Ωp","MS",998
+"clear off","SC30C!","231.3!","E","N"," "," ","k`≈≤´æ∫r∂´∫∑f","MS",998
+"break off","SC31A","232.1","E","N"," "," ","Âbre´æ∫k$ı∑∫{∞}f","MS",999
+"fair off","SC31A","232.1","E","N"," "," ","Âf·´∫{≤}$ı∑´∫{∞}f","MS",999
+"faired away","SC31B","232.2","E","N"," "," ","Âf·´∫{±ø}d$∞ıwe´∫","MS",1000
+"breaking off","SC31B","232.2","E","N"," "," ","Âbre∫{±ø}k±øºn$ı∑Ω∫∑f","MS",1000
+"faired off","SC32A","233.1","E","N"," "," ","Âf≤∫∞d$ı∑´º{∞}f","MS",1001
+"cleared off","SC32A","233.1","E","N"," "," ","Âk`≈è≤∫∞d$ı∑´{∞}f","MS",1001
+"clear off","SC32A","233.1","E","N"," ","CNV","Âk`≈≤∫r$ı∑º∫{∞}f","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"clearing off","SC32C","233.3","E","N"," "," ","Âk`≈≤´∫r±øºn$ı∑Ω{∞}f","MS",1003
+"clearing","SC32D","233.4","V","N"," "," ","k`≈è≤´∫r±øºn","MS",1004
+"clear off","SC32D","233.4","E","N"," "," ","Âk`≈è≤´|ı∑Ω∫{∞}f","MS",1004
+"fair off","SC32D","233.4","E","N"," "," ","Âf≤∫$ı∑´∫{∞}f","MS",1004
+"clearing off","SC33A","234.1","E","N"," "," ","kl·{∞}{r}±øΩn$∑∫{∑´}f","MS",1005
+"clearing off","SC33B","234.2","E","N"," "," ","Âk`≈≤´∫n$ı∂´∫∑f","MS",1006
+"fair off","SC33B","234.2","E","N"," "," ","Âf·´∫|ı∂´∫∑f","MS",1006
+"fair off","SC34A","235.1","E","N"," "," ","Âf≤∫¥$ı∂´∫∑f","MS",1007
+"clear off","SC34A","235.1","E","N"," "," ","k`≈è≤´∫¥$ı∂´∫∑f","MS",1007
+"clear up","SC34B","235.2","E","N"," "," ","k`≈≤´∫¥$∞´p","MS",1008
+"fair off","SC34B","235.2","E","N"," "," ","Âf·´∫¥$ı∂´∫∑f","MS",1008
+"weather's going to break","SC34B","235.2","S","N"," "," ","w≤´{∞}‰¥´æz$ıgoºn∞$bÚe∫±ø´ºk","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"going to clear up","SC35A","236.1","E","N"," "," ","ıgo˛º∫π˛º$Âk`≈≤´∫¥$ı¶Ω{∞}p","MS",1010
+"fair up","SC35A","236.1","E","N"," "," ","Âf·´∫$ı¶Ω{∞}p","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"fair up","SC35C","236.3(*)","E","N"," "," ","Âf·∫$ı∏´p","MS",1012
+"clear off","SC35C","236.3(*)","E","N"," "," ","Âkl≤∫$ı∑Ω{∑}f","MS",1012
+"clear off","SC35D"," ","E","N"," "," ","Âk`≈±∫¥$ı∂´∑f","MS",1013
+"fair up","SC35D"," ","E","N"," "," ","Âf·´∫¥$ı¶º{∞}p","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"fairing off","SC36B","237.2","E","Y"," ","SUG/HRD","Âf·é∫r±øºÓ$ı∂´∑f","MS",1016
+"clearing off","SC36B","237.2","E","N"," "," ","Âk`≈è≤´æ∫r±æÓ$ı∂´∫∑'f","MS",1016
+"fair up","SC36C","237.3","E","N"," "," ","Âf·´∫¥$ı¶Ωp","MS",1017
+"fair off","SC36C","237.3","E","N"," "," ","Âf·∫¥$ı∂´∫∑f","MS",1017
+"clear up","SC36C","237.3","E","N"," "," ","Âk≈≤æ∫¥$ı¶Ωp","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"clear off","SC37","238","E","N"," "," ","Âkl≤´∞$ı∑Ω{∑}f","MS",1019
+"clearing up","SC38N","N239","E","N"," "," ","Âk`≈≤´∫{r}±ø›ºn$ı¶Ωp","MS",1020
+"faired off","SC38N","N239","E","N"," "," ","Âf·Ω∫∞d$ı∑Ωof","MS",1020
+"moderating off","SC38N","N239","E","N"," "," ","Âmµd∞re∫{±}'tn$ı∂´∑f","MS",1020
+"lightening up","SC38N","N239","E","N"," ","CNV","Âla´æ±ø'tn±æn$¶Ωp","MS",1020
+"fair off","SC38A","239.1","E","N"," ","CNV","Âf·Ω∫∞$ı∂´of","MS",1021
+"fairing off","SC38A","239.1","E","N"," "," ","Âf·´∫{r}±æn$ı∑Ω∫of","MS",1021
+"break off","SC38A","239.1","E","N"," "," ","ÂbÚe∫{±}k$ı∑Ω∫of","MS",1021
+"clear up","SC38A","239.1","E","N"," "," ","Âk`≈è≤´∫∞$ı¶Ωp","MS",1021
+"cleared off","SC38B","239.2","E","N"," "," ","Âk`≈≤´∫∞d$ı∂´of","MS",1022
+"faired off","SC38B","239.2","E","N"," "," ","Âf·´∫∞d$ı∂´of","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"faired off","SC38D!","239.4(*)!","E","Y"," ","HRD","Âf·´∫∞d$ı∂´∑f","MS",1024
+"cleared up","SC38D!","239.4(*)!","E","N"," "," ","k`≈±Ω∫∞d$ı¶Ωp","MS",1024
+"clearing up","SC38E!"," ","E","N"," "," ","Âk`Ïè≤´∫r±ø›ºn$¶Ωºp","MS",1025
+"cleared off","SC39A","240.1","E","N"," "," ","Âk`≈è≤´∞d$ı∂´∑f","MS",1026
+"broke off","SC39A","240.1","E","N"," "," ","ÂbÚoº∫πºk$ı∂´∑f","MS",1026
+"faired off","SC39A","240.1","E","N"," "," ","Âf·∫∞d$ı∂´∑f","MS",1026
+"breaking off","SC39A","240.1","E","Y","old farmer, customer in store, native to comm.","AUX/CNV","ÂbÚe∫{±}k±æn$∂´∫∑f","MS",1026
+"held up","SC39B!","240.2!","E","N"," "," ","Âh≤´Ïd$¶Ωp","MS",1027
+"fixing to clear","SC39B!","240.2!","E","N"," "," ","Âf±´ksn$t∞$k`≈≤´∫∞","MS",1027
+"clear","SC39B!","240.2!","V","N"," "," ","Âk`≈≤´∫∞","MS",1027
+"clearing off","SC39B!","240.2!","E","N"," "," ","Âk`≈≥´º∫rnñ$ı∑∫∑´f","MS",1027
+"clear off","SC39B!","240.2!","E","N"," "," ","Âk`≈≤´∫$ı∑´of","MS",1027
+"faired off","SC39B!","240.2!","E","N"," "," ","Âf·Ω∫∞d$ı∂´∑f","MS",1027
+"breaking off","SC40A","241.1","E","N"," "," ","Âbreæ∫iøk{x}±æn$ı∑Ωof","MS",1028
+"clearing off","SC40A","241.1","E","N"," "," ","k`lè≤´{ró}±æn$ı∂´∑´f","MS",1028
+"fairing off","SC40A","241.1","E","Y","[{r}]: doubtful","FDT","Âf·´{r}±›æn$ı∑Ωof","MS",1028
+"clearing off","SC40B","241.2","E","N"," "," ","Âk`lè±Ω∞r±æÓ$∑ΩoΩf","MS",1029
+"fairing off","SC40B","241.2","E","N","rare"," ","Âf≤Ωr±æÓ$ı∂´ºoΩf","MS",1029
+"clearing up","SC40B","241.2","E","N"," "," ","Âk`lè±Ω∞r±æÓ$¶Ωp","MS",1029
+"clearing off","SC41A","242.1","E","N"," "," ","kl·´¥|±øΩn$∑∫{∑´}f","MS",1030
+"clearing up","SC41A","242.1","E","N"," "," ","kl·´¥|±øΩn$∏ó´º{∞}p","MS",1030
+"clear off","SC41B","242.2","E","N"," "," ","k`lè±Ω∞é$ı∂´of","MS",1031
+"fair up","SC41B","242.2","E","N"," "," ","Âf·´{≤é}$ı¶óΩp","MS",1031
+"clear off","SC42N","N243","E","N"," "," ","Âk`lè≤Ω∫∞$ı∂´ºoΩf","MS",1032
+"clear","SC42N","N243","V","N"," "," ","k`l≤´∫{∞}","MS",1032
+"break off","SC42N","N243","E","N"," "," ","Âbreæ∫±øk$ı∂´oΩf","MS",1032
+"breaking off","SC42N","N243","E","N"," "," ","ÂbreΩ∫{±ø}k±æn$ı∂´of","MS",1032
+"fair up","SC42N","N243","E","N"," "," ","Âf·´∫r∏´p","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"clear off","SC42A","243.1","E","N"," "," ","k`l≤é´æ¥$ı∂´ºoºf","MS",1034
+"fair up","SC42A","243.1","E","N"," ","CNV","Âf·´∫$ı∏´p","MS",1034
+"clear up","SC42A","243.1","E","N"," "," ","k`lè∏´º¥$ı∏´p","MS",1034
+"fair up","SC42A","243.1","E","N"," "," ","Âf·æ¥$¶Ωp","MS",1034
+"clearing off","SC42B!","243.2!","E","N"," "," ","Âk`l±Ω∫¥±æn$ı∂´of","MS",1035
+"clear skies","SC42B!","243.2!","O","N"," "," ","Ât`l±Ω∞$ıskµ´∫±ºz","MS",1035
+"light around the edge","SC42B!","243.2!","O","Y"," ","OLD","lµ´±øt$∞Ârµ´ºπn$‰∞$Â≤´∫{±ø}d˙","MS",1035
+"fairing off","SC42B!","243.2!","E","Y","what mountain people ""would say¢","OLD","Âf≤∫r±æn$ı∂´of","MS",1035
+"lightening","SC42B!","243.2!","V","N"," "," ","Âlµ±øtnñ±æÓ","MS",1035
+"would say","SC42B!","243.2!","E","Y"," ","INA","Âwπºd$ıse∫iøî","MS",1035
+"fairing up","SC42C!","243.3!","E","N"," "," ","Âf·´r±ø›ºÓ$ı∏´p","MS",1036
+"clearing winds","SC42C!","243.3!","E","N"," "," ","Ât`lè≤´r±ø›n$w±øænz","MS",1036
+"breaking","SC42C!","243.3!","V","N"," "," ","bre∫±øk±ø›ºÓ","MS",1036
+"clearing up","SC42C!","243.3!","E","N"," "," ","Ât`lè≤´r±ø›ºÓà$ı∏´p","MS",1036
+"clearing off","SC42C!","243.3!","E","N"," "," ","Ât`lè≤´r±ø›ºÓà$ı∑ΩoΩºf","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"clearing up","SC42E!","243.5!","E","N"," "," ","tlç≤´∫r±øΩÓ$∏´ºp","MS",1038
+"clearing off","SC42E!","243.5!","E","N"," "," ","tlç≤´∫r±øΩÓ$∑Ω∑f","MS",1038
+"clearing","SC42E!","243.5!","V","N"," "," ","tlç≤´∫r±øΩÓ","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"clearing off","SC43B","244.2","E","N"," "," ","Âk`lè≤´ær±˛æ{n}$Â∂´ºπΩf","MS",1040
+"fairing","SC43B","244.2","V","N"," "," ","Âf·Ωæ∫rnñ","MS",1040
+"fairing off","SC43B","244.2","E","N"," "," ","Âf·´∫r›±›æn$∂´oΩf","MS",1040
+"clearing up","SC43C","244.3","E","N"," ","CNV","Âklè±Ωær±æn$ı¶Ωp","MS",1041
+"break off","SC43C","244.3","E","Y"," ","OLD","bre∫{iøî}k$ı∂´∫oΩf","MS",1041
+"clear off","SC43C","244.3","E","N"," "," ","k`lè≤´r$∂´oΩf","MS",1041
+"fair up","SC43C","244.3","E","N"," "," ","Âf·´¥$¶Ωp","MS",1041
+"clearing off","SC44A","245.1","E","N"," "," ","Âk`lè≤´ær±æn$¶Ωp","MS",1042
+"clearing up","SC44A","245.1","E","N"," "," ","Âkl≤´r±æn$ı∂´of","MS",1042
+"settling up","SC44A","245.1","E","N"," "," ","Âs≤´tl±æn$ı¶Ωp","MS",1042
+"fairing up","SC44A","245.1","E","N"," "," ","Âf·´r±æn$ı¶óΩp","MS",1042
+"NA","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"turn out to be pretty","GA1N","N246","E","N"," "," ","ıt{≥æ}¥n$Â•´πt$t∞$bi$p{r}±øtê±ø","MS",1044
+"clear up","GA1A","246.1(*)","E","N"," "," ","k`≈è≤∫r∞æp","MS",1045
+"clear off","GA1B","246.11","E","N"," "," ","ÂkleΩ{∞}{r}$ı∑∫{∞}f","MS",1046
+"be clear","GA1B","246.11","E","N"," "," ","bi$kl≤∫{∞}","MS",1046
+"cleared up","GA1C","246.2","E","N"," ","CNV","Âk≈è≤´∫∞›d$∏ºp","MS",1047
+"clear up","GA1C","246.2","E","N"," "," ","k`≈è≤∫r$∞Ωp","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"cleared","GA1E","246.4","V","N"," "," ","Âk≈èiΩ∫∞d","MS",1049
+"cleared up","GA1E","246.4","E","N"," "," ","Âk≈èiΩ∫∞d$ı∏p","MS",1049
+"clearing up","GA1F!","246.5!","E","N"," "," ","klçe∞r±øÓ$∏Ωp","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"clear up","GA1H!","246.7!","E","N"," "," ","Ât`lç±Ω∫r$ı∏óºp","MS",1052
+"clear off","GA1H!","246.7!","E","N"," "," ","t`lç±Ω∫r$∑Ωº∫{o}f","MS",1052
+"breaking","GA1H!","246.7!","V","N","always improvement"," ","breæ±øk±øÓ","MS",1052
+"clear","GA1H!","246.7!","V","N"," "," ","t`lç±Ω∫∞","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"fair off","GA2A","247.1","E","N"," "," ","ıf·Ω¥$Â∑º{∞}f","MS",1054
+"break off","GA2A","247.1","E","N"," "," ","ÂbÚe∫±øk$ı∑º{∞}f","MS",1054
+"fairing off","GA2B","247.2","E","N"," "," ","Âf·´∫¥º±æn$ı∑º∫{∞}f","MS",1055
+"breaking off","GA2B","247.2","E","Y"," ","OLD","ÂbÚe∫{±ø}k±æn$ı∑º∫{∞}f","MS",1055
+"clearing up","GA2B","247.2","E","N"," "," ","Âk`≈è≤´∫¥º±øºn$ı∏´{∞}p","MS",1055
+"fairing up","GA3A","248.1","E","N"," "," ","fe∞r±øÓ$∏Ωp","MS",1056
+"clearing up","GA3A","248.1","E","N"," "," ","kle∞r±øÓ$∏Ωp","MS",1056
+"clear up","GA3B","248.2","E","N"," "," ","Âklè≤∫∞$ı∏´p","MS",1057
+"fairing up","GA4N","N249","E","N"," "," ","fe∫{∞}±øΩn$∏Ωp","MS",1058
+"clearing up","GA4N","N249","E","N"," "," ","klçeΩ∫|±øΩn$∏Ωp","MS",1058
+"turned off fair","GA4A","249.1","E","N"," "," ","Ât≥ó´æ∫±ønd$ı∑´{∞}f$Âf≤´æ∫{∞}","MS",1059
+"cleared off","GA4A","249.1","E","N"," "," ","Âkl≤∫∞d$ı∑´∫{∞ó}f","MS",1059
+"cleared up","GA4A","249.1","E","N"," "," ","ÂtlçèeΩ∫∞d$ı∏Ωp","MS",1059
+"clear off","GA4B","249.2","E","N"," "," ","ÂtlçèeΩ∫r$ı∑Ω∫{∞}f","MS",1060
+"clear up","GA4B","249.2","E","N"," "," ","tlçèe´∫|∏Ωp","MS",1060
+"breaking","GA4B","249.2","V","N"," "," ","bre´∫k{x}±øΩn","MS",1060
+"faired off","GA4C!","249.3!","E","N"," "," ","ÂfeΩ∫∞d$ı∑ó∫{∞ó}f","MS",1061
+"cleared off","GA4C!","249.3!","E","N"," "," ","ÂtlçèeΩ∫∞d$ı∑Ω∫{∞}f","MS",1061
+"weather's broke","GA5A","250.1","S","N","generally bad to good"," ","Âw≤´{∞}‰∞z$ıbroó´∫k","MS",1062
+"cleared off","GA5A","250.1","E","N"," "," ","Âk≈è≤∫∞d$ı∑ó´∫f","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"going to break","GA5C","250.3","E","N"," "," ","ıgoø˛∞$Âbre´∫k","MS",1064
+"cleared up","GA5C","250.3","E","N"," "," ","Âklè≤∫∞d$ı∏p","MS",1064
+"clear off","GA5D!","250.4!","E","N"," ","CNV","Âtlçè≤Ω∫∞$ı∑´{∞}f","MS",1065
+"clearing up","GA5E!","250.5!","E","N"," "," ","Âkl≤∫r±ø›n$ı∏p","MS",1066
+"clear up","GA6A","251.1","E","N"," "," ","ÂklèeΩ∫r$∞Ωp","MS",1067
+"fair up","GA6A","251.1","E","N"," "," ","Âf≤∫r$∞Ωp","MS",1067
+"clear up","GA6A","251.1","E","N"," "," ","Âklè≤´∫r$∏ºp","MS",1067
+"clearing up","GA6B!","251.2!","E","N"," "," ","Âk≈è≤∫r±øΩÓ$ı∏º{∞}p","MS",1068
+"weather is breaking","GA6B!","251.2!","S","N"," "," ","Âw≤´{∞}‰∞$±øºz$Âbre´∫k±øºÓ","MS",1068
+"breaking off","GA7","256","E","N"," "," ","bre∫kà±øºn$ı∑Ω∫∑f","MS",1069
+"fairing off","GA7","256","E","N"," "," ","Âf·´∫|±øΩn$ı∑Ω∑f","MS",1069
+"going to fair off","GA8A","257.1","E","N"," "," ","ıgoøÒ˛∞$Âf·∫¥$ı∑´{∞}f","MS",1070
+"faired up","GA8B","257.2","E","N"," "," ","Âf·´∫¥d$ı∏´p","MS",1071
+"cleared off","GA8B","257.2","E","N"," "," ","ÂklèiΩ∫¥ºd$ı∑Ω{∞}f","MS",1071
+"fair off","GA9A","257A.1","E","N"," "," ","Âf≤r∑of","MS",1072
+"clear up","GA9B","257A.2","E","N"," "," ","Âkl·´r$ı∏´ºp","MS",1073
+"clearing off","GA10A","258.1","E","N"," "," ","kl·´¥±øΩn$∑Ω∫f","MS",1074
+"fairing off","GA10A","258.1","E","N"," "," ","Âf·´¥±øΩn$∑Ω∫f","MS",1074
+"faired off","GA10B","258.2","E","N"," "," ","Âf≤∫¥d$ı∑∫{∞}f","MS",1075
+"a-fairing off","GA10B","258.2","E","N"," "," ","∞Âf≤∫¥±øºn$ı∑∫{∞}f","MS",1075
+"settled off","GA10B","258.2","E","N"," "," ","Âs≤´têld$ı∑∫{∞}f","MS",1075
+"cleared all up","GA11N","N258A","E","N"," "," ","Âkl≤∞d$ı∂´oÏ$Â∏´ºp","MS",1076
+"clear up","GA11N","N258A","E","N"," "," ","Âkl≤∫∞$ı∏´ºp","MS",1076
+"cleared","GA11N","N258A","V","N"," ","CNV","kl≤´∞d","MS",1076
+"break off","GA11N","N258A","E","N"," "," ","Âbre{±ø}k$ı∂´of","MS",1076
+"cleared up","GA11N","N258A","E","N"," ","CNV","kl≤´∞d$∏´ºp","MS",1076
+"is broke","GA11N","N258A","E","N"," "," ","±øz$Âbro{πΩ}k","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"fairing up","GA12B!","259.2(.3)","E","N"," "," ","Âf·´r±øn$ı∏´ºp","MS",1078
+"fairing off","GA13A","260.1","E","N"," "," ","fe´∞r±øΩn$∑∫f","MS",1079
+"going to clear off","GA13B!","260.2!","E","N"," "," ","gon∞$klè≤´∫r$∂´º∫{∞}f","MS",1080
+"cleared up","GA13B!","260.2!","E","N"," ","CNV","Âklè≤´∫¥d$ı∏´p","MS",1080
+"going to fair off","GA13B!","260.2!","E","N"," "," ","gon∞$Âf≤∫r$ı∂´{∞}f","MS",1080
+"fair up","GA14A","261.1","E","N"," "," ","Âf≤Ω∫¥$ı∏´{∞}p","MS",1081
+"fair off","GA14A","261.1","E","N"," "," ","Âf≤∫r$ı∑º∫{∞}f","MS",1081
+"clear up","GA14A","261.1","E","N"," "," ","Âk`≈è≤∫¥$ı∏´{∞}p","MS",1081
+"weather going to break off","GA14A","261.1","S","N"," "," ","Âw≤´‰∞$ıgo˛Ò∞$ÂbÚe∫{±ø}k$ı∑º∫{∞}f","MS",1081
+"clear off","GA14B","261.3","E","N"," "," ","Âk≈≤Ω∫∞›$ı∑º∫{∞}f","MS",1082
+"going to break off","GA14B","261.3","E","N"," "," ","goøæÒ∞$ÂbÚe∫{±ø}k$ı∑º∫{∞}f","MS",1082
+"fairing off","GA14B","261.3","E","N"," "," ","Âf·´∫|±øºn$ı∑º∫{∞}f","MS",1082
+"clouds is breaking","GA14C","261.2","S","N"," "," ","k`≈èµ´º∫πdz$±ø›z$ÂbÚe∫{±ø}k±æn","MS",1083
+"break off","GA14C","261.2","E","N"," "," ","ÂbÚe∫{±ø}k$ı∑º∫{∞}f","MS",1083
+"clearing up","GA14C","261.2","E","N"," "," ","Âk`≈è≤´∫r±æn$ı∏´{∞}p","MS",1083
+"fairing off","GA14C","261.2","E","N"," "," ","Âf≤´∫r±øºn$ı∑º∫{∞}f","MS",1083
+"clearing off","GA14C","261.2","E","N"," "," ","Ât`lçè≤´∫r±øºn$ı∑º∫{∞}f","MS",1083
+"fairing off","GA15A","262.1","E","N"," "," ","f·{∞}{r}±ø›Ωn$∑∫f","MS",1084
+"break off","GA15B","262.2","E","N"," "," ","Âbre∫k$ı∑∫∑´f","MS",1085
+"clear off","GA15B","262.2","E","N"," "," ","Âklè·´∫$ı∑∫∑´f","MS",1085
+"fair off","GA15B","262.2","E","N"," "," ","Âf·´∫$ı∑∫∑´f","MS",1085
+"fairing off","GA16A","263.2","E","N"," "," ","Âf·´∫r›±øºn$ı∂´∫{∑º}f","MS",1086
+"clearing up","GA16A","263.2","E","N"," "," ","Âkle∫r±øºn$ı∏´p","MS",1086
+"cleared off","GA16B","263.1","E","N"," ","CNV","Âk`lèe´∫∞d$ı∑∫{∞}f","MS",1087
+"cleared off","GA16B","263.1","E","N"," "," ","Âklèi∫∞d$ı∑∫{∞}f","MS",1087
+"fairing off","GA16B","263.1","E","N"," "," ","Âf≤∫r±øΩn$ı∑∫{∞}f","MS",1087
+"clearing","GA16C","263.21","V","N"," "," ","kl≤æ{∞}r±øn","MS",1088
+"cleared off","GA16D!","263.3!","E","N"," "," ","Âklè±Ω∫∞d$ı∑∫{∞}f","MS",1089
+"faired off","GA16D!","263.3!","E","Y"," ","HRD","Âf·´∫∞d$ı∑∫{∞}f","MS",1089
+"fair off","GA17N","N264","E","N"," "," ","Âf·∫∞$ı∑Ω∑f","MS",1090
+"cleared up","GA17N","N264","E","N"," "," ","Âkl≤∫∞d$ı∏´p","MS",1090
+"cleared up","GA17N","N264","E","N"," "," ","Âkl≤∫∞d$ı∏´ºp","MS",1090
+"clearing up","GA17N","N264","E","N"," "," ","Âkl±∫{∞}r±øÓ$∏´p","MS",1090
+"cleared off","GA17","264","E","N"," "," ","Âtlç≤´∞d$ı∑Ω{∑}f","MS",1091
+"fairing off","GA17","264","E","N"," "," ","Âf·Ω∫{∞}r±øn$ı∑Ω{∑}f","MS",1091
+"breaking","GA17","264","V","N"," "," ","bre{±ø}k±ø›ºn","MS",1091
+"clearing","GA17","264","V","N"," "," ","tlç≤´r±øºn","MS",1091
+"fairing off","GA18A","264A.1","E","N"," "," ","Âf·∫{r}±øn$ı∂´oΩf","MS",1092
+"going to be pretty","GA18B","264A.2","E","N"," "," ","go˛º{π˛º}$t∞$bi$p`±ø{¥}tê±ø","MS",1093
+"going to clear up","GA18B","264A.2","E","N"," "," ","ıgoº{π}±øn$t∞$Âkl≤Ω{∞}r$∏´ºp","MS",1093
+"going to be fair","GA18B","264A.2","E","N"," "," ","ıgo{π}±øn$t∞$bi$Âf·´∫∞","MS",1093
+"cleared up","GA19A","265.1","E","Y"," ","AUX2","Âklè≤æ∫¥ºd$ı¶Ωp","MS",1094
+"going to break off","GA19A","265.1","E","Y"," ","AUX2","goøæn∞$Âbre´∫{±ø}k$ı∂´∑f","MS",1094
+"weather broke off","GA19A","265.1","S","Y"," ","AUX2","w≤´{∞}‰¥´æ$Âbroº∫{πº}k$ı∑Ω∫∑f","MS",1094
+"clear up","GA19A","265.1","E","Y"," ","AUX2/CNV","Âklè≤´¥$ı¶Ω{∞}p","MS",1094
+"clear off","GA19B","265.2","E","N"," "," ","Âklè≤∫¥$ı∑∫∑´f","MS",1095
+"fairing up","GA20A","266.1","E","N"," "," ","Âf≤∫r±øΩn$ı¶º{∞}p","MS",1096
+"weather's going to break","GA20A","266.1","S","N"," "," ","Âw≤´{∞}‰¥z$ıgwa´æ∫{∞}n∞$Âbre∫{±ø}k","MS",1096
+"fairing off","GA20A","266.1","E","N"," "," ","Âf≤∫r±øΩn$ı∂´∑f","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"fairing up","GA21A","267.1","E","N"," "," ","Âf·r±øn$ı∏ºp","MS",1098
+"clearing up","GA21A","267.1","E","N"," "," ","Âkl≤Ωr±øn$ı∏ºp","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"going to fair off","GA22A","268A.1","E","N"," "," ","go˛{π˛}$f·∫∞$Â∑Ω∑f","MS",1100
+"faired off","GA22B","268A.2","E","N"," "," ","Âf·´∫∞d$ı∑Ω{∑}f","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"lighted up","GA23B","268.11","E","N"," "," ","Âla´æ∫±øtê±ød$ı∏ºp","MS",1103
+"fair off","GA23B","268.11","E","N"," "," ","Âf·∫{∞}r∑Ω{∑}f","MS",1103
+"clear up","GA23B","268.11","E","N"," "," ","Âkl≤∫∞$ı∏ºp","MS",1103
+"fair off","GA23C","268.2","E","N"," "," ","Âf·∫∞$ı∑∫f","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"is broken","GA23E!","268.4!","E","N"," "," ","±øz$Âbroº{πº}kÓ","MS",1106
+"is changed","GA23E!","268.4!","E","N","notice `changed' in FAVORABLE sense"," ","±øz$ÂtÛe{±ø}nd˙d","MS",1106
+"clearing up","GA23E!","268.4!","E","N"," "," ","Âkl±∞r±øºÓ$ı∏´ºp","MS",1106
+"clearing up","GA23F!","268.5!","E","N"," "," ","Âkl±∫r±øÓ$ı∏´ºp","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"fairing off","GA24A","269.1","E","N"," "," ","f·∞r±øΩn$∑:f","MS",1109
+"cleared off","GA24B","269.2","E","N"," "," ","Âk`l≤´∫∞d$ı∑Ω∑f","MS",1110
+"faired off","GA24B","269.2","E","N"," "," ","Âf·∫∞d$ı∑Ω∑f","MS",1110
+"broke off","GA24B","269.2","E","N"," "," ","Âbroº∫πΩk$ı∑Ω∑f","MS",1110
+"clearing up","GA25N","N269A","E","N"," "," ","Âkl≤´∫±øn$ı∏´ºp","MS",1111
+"fairing off","GA26","270A","E","N"," "," ","Âf·´{∞}r±øn$ı∑Ω∑´f","MS",1112
+"fairing off","GA27!","270!","E","N"," "," ","f·´|±øºn$ı∑Ω{∑}f","MS",1113
+"clear off","GA28","271a","E","N"," "," ","k`l±∞é$∑Ω{∞}f","MS",1114
+"clear off","GA29A","271.1","E","N"," "," ","Âklè≤´∫$ı∑º∫{∞}f","MS",1115
+"clouds is breaking up","GA29A","271.1","E","N"," "," ","klèa´∫∞ódz$±øºz$Âbre´∫k{x}±øºn$ı¶Ωp","MS",1115
+"fairing off","GA29A","271.1","E","N"," "," ","Âf·´∫±øºn$ı∑º{∞}f","MS",1115
+"fair off","GA29B","271.2","E","N"," "," ","Âf·´∫$ı∑º∫{∞ó}f","MS",1116
+"fair off","GA29B","271.2","E","N"," "," ","Âf·r$ı∑º∫{∑´º}f","MS",1116
+"clear off","GA29B","271.2","E","N"," "," ","Âklè≤´∫r$ı∑º∫{∑´º}f","MS",1116
+"NR","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"clear up","GA30B","272.2(*)","E","N"," "," ","Âk`≈è≤´∫¥$ı¶Ω{∞}p","MS",1118
+"clearing","GA30C!","272.3!","V","N"," "," ","Âkl≤´∫{∞}r±øÓ","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"clearing up","GA31","272A","E","N"," "," ","Âkl·Ω{∞}r±øn$ı∏´ºp","MS",1122
+"clearing off","GA32","272B","E","N"," "," ","Âkl≤´∫|±øn$ı∑Ω{∞}f","MS",1123
+"clearing up","GA33A","272C1","E","N"," "," ","Âkl≤´r±øn$ı∏´ºp","MS",1124
+"clearing","GA33B","272C2","V","N"," "," ","kl≤´{∞}r±øÓ","MS",1125
+"fair off","GA34N","N273","E","N"," "," ","Âf·∫$ı∑Ω∑f","MS",1126
+"clearing off","GA34A","273.1","E","N"," "," ","kl·´∫{∞}|±øΩn$∑Ω∫{∑}f","MS",1127
+"fair up","GA34B","273.2","E","N"," "," ","Âf·´∫{∞}$ı¶Ωp","MS",1128
+"clear up","GA34B","273.2","E","N"," "," ","Âk`lè≤´∫∞$ı¶Ωp","MS",1128
+"break off","GA34B","273.2","E","N"," "," ","Âbre∫{±ø}k$ı∑Ω∑f","MS",1128
+"NR","GA35N","N273A"," ","N"," "," "," ","MS",1129
+"clearing off","GA36N","N274A","E","N"," "," ","Âkl≤´∫±øºn$ı∂´of","MS",1130
+"fairing","GA37N","2N274","V","N"," "," ","f·´∫r±øÓ","MS",1131
+"going to clear","GA37M!","3N274","E","N"," "," ","go{π}±øÓ$t∞$Âkl±∫∞","MS",1132
+"clearing up","GA37M!","3N274","E","N"," "," ","ıkl±r±øÓ$Â∏´ºp","MS",1132
+"fair off","GA37A","274.1","E","N"," "," ","Âf·´∫∞$ı∑Ω∑f","MS",1133
+"clear up","GA37A","274.1","E","N"," "," ","Âkle´∫¥$ı¶Ωp","MS",1133
+"blow off","GA37A","274.1","E","N"," "," ","Âblèoºπº$ı∑∫∑´f","MS",1133
+"clear up","GA37B","274.2","E","N"," "," ","k`lè≤´{∞}$¶Ωp","MS",1134
+"hold up","GA37B","274.2","E","N"," "," ","Âhoº∫πºÏd$ı¶Ωp","MS",1134
+"fairing off","GA37B","274.2","E","N"," "," ","Âf·∫r±øºn$ı∑Ω∑f","MS",1134
+"going to clear off","GA37C","274.21","E","N"," "," ","goº{πº}n$Âkl±∞$ı∂´of","MS",1135
+"going to turn off pretty","GA37C","274.21","E","N"," "," ","goº{πº}n$Ât≥æ¥n$ı∑Ω∑f$Âp{r}±øt±ø","MS",1135
+"clearing up","GA37D!","274.7!","E","N"," "," ","Âkl±∫{∞}r±øÓ$ı∏´ºp","MS",1136
+"going to clear up","GA37D!","274.7!","E","N"," "," ","goº{πº}n∞$Âkl±∫{∞}r∏´ºp","MS",1136
+"changing","GA37D!","274.7!","V","N"," "," ","tÛe{±ø}nd˙±øÓ","MS",1136
+"getting fair weather","GA37E!","274.8!","E","N"," "," ","ıgà≤´tê±øºÓ$Âf·∫∞$ıw≤‰∞","MS",1137
+"getting better","GA37E!","274.8!","E","N"," "," ","ıgà≤´tê±øºÓ$Âb≤´tê∞","MS",1137
+"clearing","GA37E!","274.8!","V","N"," "," ","kl±∫{∞}r±øÓ","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"clear off","GA37G!","274.4!","E","N"," "," ","ÂkleΩ∫$ı∑Ω∫∑f","MS",1139
+"clearing off","GA37G!","274.4!","E","N"," "," ","ÂklèeΩ∫r±øºn$ı∑Ω∫∑f","MS",1139
+"fairing off","GA37G!","274.4!","E","Y"," ","SUG/HRD/HES","Âf·´∫r±øºÓ$ı∑Ω∫∑f","MS",1139
+"clearing off","GA37H!","274.5!","E","N"," "," ","Âklè±∫r±øºÓ$ı∑∫∑´f","MS",1140
+"clear up","GA37H!","274.5!","E","N"," ","CNV","Âkl≤´∫∞$ı¶Ωp","MS",1140
+"fairing off","GA37H!","274.5!","E","Y","not often","HRD","Âf·´∫{∞}r±øºÓ$ı∑∫∑´f","MS",1140
+"clear","GA37I!","274.6!","V","N"," "," ","tlç±´∞","MS",1141
+"clearing up","GA37I!","274.6!","E","N"," "," ","Âtlç±´r±øºÓ$ı∏´ºp","MS",1141
+"clearing off","GA38","275","E","N"," "," ","Âkl≤r±øn$ı∑Ω∫{π}f","MS",1142
+"cleared off","GA38","275","E","N"," "," ","Âkl≤´¥d$ı∑Ω∑f","MS",1142
+"fairing off","GA38","275","E","Y","natural","SUG","Âf·´r±øÓ$ı∑Ω∫{π}f","MS",1142
+"going to clear up","GA39","275A","E","N"," "," ","ıgoº{πº}n∞$Âkl≤´{∞}$ı∏´ºp","MS",1143
+"clear off","GA40","276A","E","N"," "," ","Âkl≤∫r$ı∑Ω{o}f","MS",1144
+"fair off","GA40","276A","E","N"," "," ","Âf·Ω∫r$ı∑Ω{o}f","MS",1144
+"clear up","GA41","276B","E","N"," "," ","Âkl≥º¥$ı∏´ºp","MS",1145
+"fair up","GA42A","276.1","E","N"," "," ","Âf·é¥$ı¶Ωp","MS",1146
+"going to break off","GA42A","276.1","E","N"," "," ","goø˛n∞$Âbre∫±øºk$ı∑Ω∫∑f","MS",1146
+"clouds are breaking off","GA42A","276.1","S","N"," "," ","klèa´æ∫∞ódz$∞$Âbre∫±øºk±øºn$ı∑∫∑´f","MS",1146
+"fair off","GA42B","276.2","E","N"," "," ","Âf·∫¥$ı∑∫∑´f","MS",1147
+"clear off","GA42B","276.2","E","N"," "," ","ık`lè±øéÂr∑Ω∑f","MS",1147
+"clearing up","GA43","277","E","N"," "," ","kl¥∫±øΩn$∏´º{∞}p","MS",1148
+"cleared off","GA44A","278.1","E","N"," "," ","Âk`lè±øΩ∫¥d$ı∑∫∑´f","MS",1149
+"cleared up","GA44A","278.1","E","N"," "," ","Âklè≥´∫¥d$ı¶Ωp","MS",1149
+"faired up","GA44A","278.1","E","N"," "," ","Âf·∫¥d$ı¶Ωp","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"clears off","GA44C","278.3","E","N"," ","CNV","Âklè≥é´∫¥z$ı∑∫∑´f","MS",1151
+"moderating","GA44C","278.3","V","N"," "," ","Âmad¥ıe∫{±ø}'tn","MS",1151
+"fairing up","GA44C","278.3","E","N"," "," ","Âf·´∫¥±øºn$ı¶Ωp","MS",1151
+"clearing off","GA44C","278.3","E","N"," "," ","Âk`lè≥´∫¥±øºn$ı∑∫∑´f","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"clearing off","GA44E","278.5","E","N"," "," ","Âkl≤r±øn$ı∑Ωof","MS",1153
+"clearing off","FL1","252","E","N"," "," ","Âkl≤∫r±øºn$∑›f","MS",1154
+"fairing up","FL1","252","E","N"," "," ","Âf≤´nñ$ı∏´p","MS",1154
+"clearing off","FL2A","253.1","E","N"," "," ","Âklè≥´º∫r±øºn$ı∑∫{∞}f","MS",1155
+"faired off","FL2A","253.1","E","N"," "," ","Âf≤é∫¥d$ı∑∫{∞}f","MS",1155
+"clearing","FL2B","253.2","V","N"," "," ","kl≤æ{∞}r±øÓ","MS",1156
+"break","FL2C!","253.3!","V","N"," "," ","Âbre∫{∞}k","MS",1157
+"fair off","FL2C!","253.3!","E","N"," "," ","Âf≤´r$ı∑´∫{∞}f","MS",1157
+"clear off","FL2C!","253.3!","E","N"," "," ","ÂklèiΩ∫r∑∫{∞}f","MS",1157
+"change","FL2C!","253.3!","V","N"," "," ","tÛe∫{∞}nd˙","MS",1157
+"clearing up","FL3A","254.1","E","N"," "," ","Âkl≤∫r±øºn$ı∏´p","MS",1158
+"weather's breaking up","FL3A","254.1","S","N"," "," ","ıw≤´‰∞´z$Âbre´∫k±øºn$ı∏ºp","MS",1158
+"cleared up","FL3A","254.1","E","N"," ","CNV","Âkl≤∫∞d$ı∏ºp","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"fair up","FL4","254A","E","N"," "," ","Âf·´¥$ı∏´ºp","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"cleared up","FL5B","255.2","E","N"," "," ","Âtlçè≤´∫∞d$ı¶Ωp","MS",1162
+"","","","","","","","","",

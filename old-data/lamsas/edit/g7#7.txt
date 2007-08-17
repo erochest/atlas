@@ -1,0 +1,1416 @@
+"foot high","NY1","50","K","N"," ","fπt$h•Ω±ø","MS"," ",1
+"foot high","NY2A","51.1","K","N"," ","fπt$h•±ø","MS"," ",2
+"foot high","NY2B","51.2","K","N"," ","fπt$hµ´±ø","MS"," ",3
+"feet high","NY2C","51.3","K","Y"," ","fijt$h∏∫±ø´","MS","AUX",4
+"foot high","NY2C","51.3","K","N"," ","fπt$hµº±ø","MS"," ",4
+"feet","NY3A","401","N","N"," ","f±´it","MS"," ",5
+"foot","NY3A","401","N","N"," ","fπt","MS","CNV",5
+"feet","NY3B","403","N","N"," ","fiΩit","MS"," ",6
+"feet","NY3C","402","N","N"," ","fiΩit","MS"," ",7
+"feet","NY3D","404","N","N"," ","fi∫t","MS"," ",8
+"feet","NY4A","405","N","N"," ","fiΩit","MS"," ",9
+"foot","NY4B","407","N","N"," ","fπt","MS"," ",10
+"feet","NY4C","408","N","N"," ","fi∫t","MS"," ",11
+"feet","NY5A","409","N","N"," ","fi∫t","MS"," ",12
+"feet","NY5B","410","N","N"," ","fi∫t","MS"," ",13
+"feet","NY5C","411","N","N"," ","fiΩit","MS"," ",14
+"feet","NY5D","412","N","N"," ","fiΩ∫t","MS"," ",15
+"feet","NY5E","413","N","N"," ","fiΩit","MS"," ",16
+"feet","NY5F","414","N","N"," ","f±it","MS"," ",17
+"feet","NY5G","415","N","N"," ","f±it","MS"," ",18
+"feet","NY5H!","416!","N","N"," ","fiΩit","MS"," ",19
+"feet","NY5I!","417!","N","N"," ","fi∫t","MS"," ",20
+"foot","NY6A","418","N","N"," ","fπt","MS"," ",21
+"foot","NY6B","419","N","N"," ","fπt","MS"," ",22
+"foot","NY7A","420","N","N"," ","fπt","MS"," ",23
+"foot","NY7B","421","N","N"," ","fπt","MS"," ",24
+"foot","NY7C","422","N","N"," ","fπt","MS"," ",25
+"feet","NY7D","423","N","N"," ","fi∫t","MS"," ",26
+"feet","NY7E","424","N","N"," ","fi∫t","MS"," ",27
+"foot","NY7E","424","N","N"," ","fπt","MS","CNV",27
+"feet","NY7F","425","N","N"," ","fiΩ{i}t","MS"," ",28
+"feet","NY7G","426","N","N"," ","f±jt","MS"," ",29
+"foot","NY7H","427","N","N"," ","fπt","MS"," ",30
+"feet","NY7I","428","N","N"," ","fiΩit","MS"," ",31
+"feet","NY7J!","429!","N","N"," ","fiΩit","MS"," ",32
+"feet","NY7K!","430!","N","N"," ","fiΩ∫t","MS"," ",33
+"feet","NY7L!","431!","N","N"," ","fi∫t","MS"," ",34
+"feet","NY7M!","432!","N","N"," ","fi∫t","MS"," ",35
+"feet","NY8","432b","N","N"," ","fi∫t","MS"," ",36
+"feet","NY9A","432c","N","N"," ","fi∫t","MS"," ",37
+"feet","NY9B","433","N","N"," ","fi∫t","MS"," ",38
+"feet","NY9C","434","N","N"," ","fi∫t","MS"," ",39
+"feet","NY10A","435","N","N"," ","fi∫t","MS"," ",40
+"feet","NY10B!","436!","N","N"," ","fi∫t","MS"," ",41
+"foot","NY11","438","N","N"," ","fπt","MS"," ",42
+"feet","NY12A","439(*)","N","N"," ","fiΩit","MS"," ",43
+"feet","NY12A","439(*)","N","Y"," ","fi∫t","MS","AUX",43
+"feet","NY12B","440","N","N"," ","fi∫t","MS"," ",44
+"feet","NY12C!","441!","N","N"," ","fi∫t","MS"," ",45
+"feet","NY13A","443","N","N"," ","fi∫t","MS"," ",46
+"feet","NY13B!","444!","N","N"," ","fi∫t","MS"," ",47
+"feet","NY14A","445","N","N"," ","fi∫t","MS"," ",48
+"feet","NY14B","446","N","N"," ","fi∫t","MS"," ",49
+"feet","NY15A","447","N","N"," ","fi∫t","MS"," ",50
+"feet","NY15B","448","N","N"," ","fi∫t","MS"," ",51
+"feet","NY16A","449","N","N"," ","fi∫t","MS"," ",52
+"feet","NY16B","450","N","N"," ","fi∫t","MS"," ",53
+"feet","NY17A","451(*)","N","N"," ","fiΩit","MS"," ",54
+"feet","NY17A","451(*)","N","Y"," ","fiΩ∫t","MS","AUX",54
+"heights","NY17A","451(*)","N","Y"," ","he±ø˘s","MS","INA",54
+"foot","NY17B","452","N","N"," ","fπt","MS"," ",55
+"feet high","NY18A","453","K","N"," ","fi›Ωi›t$h•Ω±ø´","MS"," ",56
+"foot","NY18B","454","N","N"," ","fπt","MS"," ",57
+"feet","NY18C!","455!","N","N"," ","fi∫t","MS"," ",58
+"feet","NY19","456","N","N"," ","fi∫t","MS"," ",59
+"foot","NY19","456","N","N"," ","fπt","MS"," ",59
+"feet","NY20A","457","N","N"," ","fi∫t","MS"," ",60
+"feet","NY20B","458","N","N"," ","fi∫t","MS"," ",61
+"feet","NY21","459","N","N"," ","fi∫t","MS"," ",62
+"feet","NY22","460","N","N"," ","fi∫t","MS"," ",63
+"feet","NY23A","461","N","N"," ","f±´it","MS","CNV",64
+"foot","NY23B","462a","N","N"," ","fπ´t","MS","CNV",65
+"feet","NY23C","462b","N","N"," ","fiΩ∫it","MS"," ",66
+"feet high","NY23C","462b","K","N"," ","fi∫{j}t$hµ∫±ø´º","MS","CNV",66
+"feet","NY24A","463","N","N"," ","fi∫t","MS"," ",67
+"feet","NY24B!","464!","N","N"," ","fiΩ∫t","MS"," ",68
+"feet","NY25A","465","N","N"," ","f±æ∫it","MS"," ",69
+"foot","NY25A","465","N","N"," ","fπ´t","MS","CNV",69
+"foot","NY25B","466","N","N"," ","fπt","MS"," ",70
+"feet","NY26A","467","N","N"," ","fi∫t","MS"," ",71
+"foot","NY26A","467","N","N"," ","fπt","MS","CNV",71
+"foot long","NY26A","467","K","N"," ","fπt$l∑Ω∫Ó","MS","CNV",71
+"feet high","NY26B","468","K","N"," ","f±it$Âhﬁ´º±ø","MS"," ",72
+"feet high","NY26B","468","K","N"," ","f±it$h•Ωæ∫±ø","MS"," ",72
+"feet","NY26C","469","N","N"," ","fiøΩº∫i{t}","MS"," ",73
+"feet","NY26C","469","N","N"," ","fi∫t","MS","CNV",73
+"feet","NY27A","470","N","N"," ","fi∫i´{t}","MS"," ",74
+"foot long","NY27A","470","K","N"," ","fπt$l∑Ω∫{∞}Ó","MS","CNV",74
+"feet","NY27B","471","N","N"," ","fi:{j}t","MS"," ",75
+"feet","NY27C","472","N","N"," ","fi∫{j}t","MS"," ",76
+"foot","NY28A","473a","N","N"," ","fπt","MS","CNV",77
+"feet","NY28B","473b(*)","N","N"," ","fi∫t","MS"," ",78
+"NR","NY28C"," "," ","N"," "," ","MS"," ",79
+"foot high","NY29A","474a","K","N"," ","fπt$Âhµ∫±øº","MS"," ",80
+"foot","NY29B","474b","N","N","(square","fπt","MS","CNV",81
+"feet","NY29C","474c","N","N"," ","fi∫t","MS"," ",82
+"feet high","NY30A","475a","K","N"," ","fi∫t$h•Ωæ∫±øº","MS"," ",83
+"feet high","NY30B","475b","K","N"," ","fi∫t$h•∫±ø","MS","CNV",84
+"feet","NY30B","475b","N","N"," ","fi∫t","MS","CNV",84
+"foot long","NY30C","475c","K","N"," ","fπt$Âl∑Ω∫Ó","MS","CNV",85
+"feet","NY30C","475c","N","N"," ","fi∫t","MS","CNV",85
+"foot","NY30D","475d","N","N"," ","fπt","MS","CNV",86
+"feet","NY30E","475e","N","N"," ","fi∫t","MS","CNV",87
+"feet","NY31A","478a","N","N"," ","fi∫t","MS","CNV",88
+"feet","NY31A","478a","N","N"," ","fiΩit","MS","CNV",88
+"feet long","NY31A","478a","K","N"," ","fiΩit$l∑Ó","MS","CNV",88
+"feet","NY31B","478b","N","N"," ","fiΩit","MS"," ",89
+"foot high","NY31B","478b","K","N"," ","fπt$h•∫±ø","MS"," ",89
+"foot high","NY32A","479a","K","N"," ","fπt$h•∫±ø","MS","CNV",90
+"foot deep","NY32B","479b","K","N"," ","fπt$ÂdiΩip","MS","CNV",91
+"feet","NY32B","479b","N","N","in width","fiΩit","MS"," ",91
+"feet","NY33A","480","N","N"," ","fi∫t","MS","CNV",92
+"feet high","NY33B","481","K","N"," ","fi∫t$hµ´∫±ø","MS"," ",93
+"feet","NY33C","482","N","N"," ","f±´it","MS"," ",94
+"foot","NY34A","483","N","N"," ","fπt","MS","CNV",95
+"NR","NY34B","484"," ","N"," "," ","MS"," ",96
+"feet","NY34C","485","N","N"," ","fiΩit","MS","CNV",97
+"feet","NY34D!","486!","N","N"," ","fiΩit","MS"," ",98
+"feet","NY35A","487","N","N"," ","fi∫t","MS"," ",99
+"foot","NY35B","488","N","N"," ","fπt","MS"," ",100
+"feet","NY35C!","489!","N","N"," ","fi∫t","MS"," ",101
+"foot","NY36A","491","N","N"," ","fπt","MS"," ",102
+"foot","NY36B","492","N","N"," ","fπt","MS"," ",103
+"feet","NY37A","493","N","N"," ","fi∫t","MS"," ",104
+"foot","NY37B","494","N","N"," ","fπt","MS"," ",105
+"feet","NY37C!","495!","N","N"," ","fi∫t","MS"," ",106
+"feet","NY38A","497(*)","N","N"," ","fiΩit","MS"," ",107
+"foot","NY38B","498","N","N"," ","fπt","MS"," ",108
+"feet","NY38C"," ","N","N"," ","fi∫t","MS"," ",109
+"feet","NY39A","499","N","N"," ","fi∫t","MS"," ",110
+"foot","NY39B","500","N","N"," ","fπt","MS"," ",111
+"feet","NY40A","501","N","N"," ","fi∫t","MS"," ",112
+"feet","NY40B","502","N","N"," ","fi{j}t","MS"," ",113
+"feet","NY41","504","N","N"," ","fi∫t","MS"," ",114
+"feet high","NY42A","505","K","N"," ","fi∫t$hµ´∫±ø","MS"," ",115
+"feet","NY42B","506","N","N"," ","fiΩi›t","MS"," ",116
+"feet","NY43A","507","N","N"," ","fiΩ∫t","MS"," ",117
+"foot","NY43A","507","N","N"," ","fπt","MS","CNV",117
+"feet","NY43B","507b","N","N"," ","fi∫t","MS"," ",118
+"feet","NY43C!","508!","N","N"," ","fi∫t","MS"," ",119
+"feet","NY44A","511","N","N"," ","fi∫{j}t","MS"," ",120
+"feet","NY44B","512","N","N"," ","fi∫t","MS"," ",121
+"feet","NY45A","513a","N","N"," ","fiΩit","MS","CNV",122
+"NR","NY45B","513b"," ","N"," "," ","MS"," ",123
+"foot wide","NY45C","513c","K","N"," ","fπºt$Âw•∫±ød","MS","CNV",124
+"foot long","NY45C","513c","K","N"," ","fπt$Âl∑∫{∞}Ó","MS","CNV",124
+"feet","NY45D!","513d!","N","N"," ","fiΩit","MS"," ",125
+"feet","NY46A","515a","N","N"," ","fi∫i´t","MS","CNV",126
+"feet","NY46A","515a","N","N"," ","fiΩit","MS","CNV",126
+"feet","NY46B","515b","N","N"," ","fiΩit","MS"," ",127
+"foot","NY46B","515b","N","N"," ","fπt","MS","CNV",127
+"foot","NY46B","515b","N","Y"," ","fπ{∞}t","MS","AUX/CNV",127
+"feet","NY46C","515c","N","N"," ","f±it","MS"," ",128
+"feet","NY46C","515c","N","N"," ","fiΩit","MS"," ",128
+"foot high","NY47A","517(*)","K","N"," ","fπt$h•∫±ø","MS","CNV",129
+"foot","NY47A","517(*)","N","N"," ","fπºt","MS","CNV",129
+"foot","NY47A","517(*)","N","Y"," ","fπt","MS","AUX",129
+"feet","NY47B","518","N","N"," ","fi∫t","MS"," ",130
+"foot","NY48A","519a","N","N"," ","fπt","MS","CNV",131
+"feet across","NY48B","519b","K","N"," ","fiΩitê$∞Âkrèá∑Ωst","MS","CNV",132
+"feet","NY48B","519b","N","N"," ","fiΩit","MS","CNV",132
+"foot wide","NY48B","519b","K","N"," ","fπt$Âw•∫±ød","MS","CNV",132
+"feet square","NY48C","519c","K","N"," ","fiΩit$skwè·é´¥","MS","CNV",133
+"feet","NY48D","519d","N","N"," ","fiΩit","MS"," ",134
+"feet long","NY49A","520","K","N"," ","fiΩit$l∑∫{∞}Ó","MS","CNV",135
+"feet","NY49A","520","N","N"," ","fiΩit","MS","CNV",135
+"foot","NY49B","521","N","N"," ","fπt","MS"," ",136
+"feet","NY49C","522a","N","N"," ","fi{i´}t","MS","CNV",137
+"feet high","NY49C","522a","K","N"," ","fi{i´}t$haæ±ø","MS"," ",137
+"foot high","NY49C","522a","K","N"," ","fπt$ha´±ø","MS"," ",137
+"feet","NY49D","522b","N","N"," ","fi{i´}t","MS"," ",138
+"feet","NY50A","523","N","N"," ","fiΩit","MS","CNV",139
+"feet","NY50B","524","N","N"," ","fiΩit","MS"," ",140
+"foot square","NY50B","524","K","N"," ","fπ´t$skwè·é¥","MS"," ",140
+"feet","NY50B","524","N","N"," ","f±´it","MS","CNV",140
+"feet","NY51A","525a","N","N"," ","fiΩ∫it","MS","CNV",141
+"feet high","NY51A","525a","K","N"," ","fiΩit$Âhµ´±ø","MS"," ",141
+"feet long","NY51B","525b","K","N"," ","fiΩit$l∂´∫Ó","MS","CNV",142
+"feet deep","NY51B","525b","K","N"," ","fiΩit$diΩip","MS","CNV",142
+"foot high","NY51C","525c","K","N"," ","fπt$h•Ω∫±ø","MS"," ",143
+"NR","NY51D","525d"," ","N"," "," ","MS"," ",144
+"feet","NY51E!","525e!","N","N"," ","fiΩit","MS"," ",145
+"feet wide","NY51E!","525e!","K","N"," ","fiΩit$wµº±ød","MS","CNV",145
+"foot","NY52A","527","N","N"," ","fπt","MS"," ",146
+"NR","NY52B","528"," ","N"," "," ","MS"," ",147
+"foot high","NY52C","528b","K","N"," ","fπºt$ha´∫{∞}","MS"," ",148
+"foot","NY53A","529","N","N"," ","fπt","MS","CNV",149
+"feet long","NY53A","529","K","N"," ","fiΩit$l∑∫Ó","MS","CNV",149
+"feet","NY53A","529","N","N"," ","fiΩit","MS","CNV",149
+"feet","NY53B!","530!","N","N"," ","fiΩit","MS"," ",150
+"foot","NY54A","531","N","N"," ","fπt","MS"," ",151
+"foot high","NY54B","532","K","N"," ","fπºt$ha´∫±ø","MS"," ",152
+"feet","NY54B","532","N","N"," ","fi{i´}t","MS"," ",152
+"feet","NY55A","533","N","N"," ","fi∫{j}t","MS"," ",153
+"feet high","NY55B","534","K","N"," ","fi∫{j}t$Âh∞Ωæ∫±ø","MS"," ",154
+"feet","NY56A","535","N","N"," ","fi∫{j}t","MS"," ",155
+"feet","NY56A","535","N","N"," ","fiΩit","MS","CNV",155
+"feet","NY56A","535","N","N"," ","fiΩæit","MS","CNV",155
+"foot tall","NY56A","535","K","N"," ","fπt$t∑Ω∫Ï","MS","CNV",155
+"feet","NY56B","536","N","N"," ","fiΩit","MS"," ",156
+"foot","NY57A","537a","N","N"," ","fπºt","MS"," ",157
+"feet","NY57B","537b","N","N"," ","fiΩit","MS","CNV",158
+"feet","NY57C!","537c!","N","N"," ","fiΩit","MS"," ",159
+"feet","NY58A","539a","N","N"," ","fi∫{j}t","MS"," ",160
+"foot long","NY58B","539b","K","N"," ","fπt$l∑Ω∫{∞}Ó","MS"," ",161
+"feet","NY58B","539b","N","N"," ","fiΩit","MS","CNV",161
+"foot","NY58B","539b","N","N"," ","fπt","MS","CNV",161
+"foot deep","NY58B","539b","K","N"," ","fπt$di∫{j}p","MS","CNV",161
+"foot wide","NY58B","539b","K","N"," ","fπºt$w•´∫±ød","MS","CNV",161
+"foot wide","NY58B","539b","K","N"," ","fπt$w•Ω∫±ød","MS","CNV",161
+"NR","NY58C","539c"," ","N"," "," ","MS"," ",162
+"feet","NY58D!","539d!","N","N"," ","fi∫{j}t","MS","CNV",163
+"foot","NY58D!","539d!","N","N"," ","fπºt","MS"," ",163
+"feet","NY58E!","539e!","N","N"," ","fiΩit","MS"," ",164
+"feet","NY58E!","539e!","N","N"," ","fi∫{j}t","MS","CNV",164
+"feet","NY58F!","539f!","N","N"," ","fi∫{j}t","MS"," ",165
+"feet","NY59A","543","N","N"," ","fi∫{j}t","MS"," ",166
+"feet","NY59B","544","N","N"," ","fi{j}t","MS"," ",167
+"foot","NY60A","545","N","N"," ","fπt","MS","CNV",168
+"feet long","NY60B!","546!","K","N"," ","f±it$Âl∑∫{∞}Ó","MS","CNV",169
+"foot high","NY61A","547","K","N"," ","fπt$Âhµ´∫±ø","MS","CNV",170
+"feet","NY61B","548","N","N"," ","fi∫{j}t","MS","CNV",171
+"foot","NY61B","548","N","N"," ","fπt","MS"," ",171
+"foot wide","NY62A","551a","K","N"," ","fπt$Âw•Ω∫±ød","MS"," ",172
+"foot square","NY62A","551a","K","N"," ","fπt$Âskwè≤éæ¥","MS"," ",172
+"foot","NY62A","551a","N","N"," ","fπt","MS","CNV",172
+"foot","NY62B","551b","N","N"," ","fπt","MS","CNV",173
+"feet","NY62C","551c","N","N"," ","fi∫t","MS"," ",174
+"feet square","NY62D!","551d!","K","N"," ","fi∫t$skw·é´¥","MS","CNV",175
+"three dollar","NY62D!","551d!","O","Y"," ","˘Úi∫$dµl¥","MS","INA",175
+"foot","NY63A","556a","N","N"," ","fπt","MS","CNV",176
+"foot thick","NY63A","556a","K","N"," ","fπt$˘±´k","MS","CNV",176
+"feet wide","NY63B","556b","K","N"," ","fiΩit$w•Ω∫±ød","MS","CNV",177
+"foot","NY63C","556c","N","N"," ","fπt","MS"," ",178
+"feet square","NY63D!","556d!","K","N"," ","fi∫t$skwè≤¥","MS"," ",179
+"feet","NY64A","557a","N","N"," ","fit","MS"," ",180
+"feet","NY64B","557b","N","N"," ","fi∫{j}t","MS"," ",181
+"NR","NY64C!","557c!"," ","N"," "," ","MS"," ",182
+"foot high","NJ1A","1","K","N"," ","fπt$hµº±øΩ","MS"," ",183
+"feet high","NJ1B","2","K","N"," ","fiΩit$hµ±ø","MS"," ",184
+"foot high","NJ2A","3(*)","K","N"," ","fπt$hµ≤´","MS"," ",185
+"foot high","NJ2A","3(*)","K","Y"," ","fπt$hµ∫≤","MS","AUX",185
+"foot high","NJ2B","4","K","N"," ","fπt$hµº∫≤´","MS"," ",186
+"feet high","NJ3A","5","K","N"," ","fiΩit$hµ≤´","MS"," ",187
+"feet high","NJ3B","6","K","N"," ","fiΩit$haæ±øΩ","MS"," ",188
+"foot high","NJ4A","7","K","N"," ","fπt$haæ±ø","MS"," ",189
+"foot high","NJ4B","8","K","N"," ","fπt$ha∫±øΩ","MS"," ",190
+"foot high","NJ5A","9","K","N"," ","fπ{∞}t$hµ±øΩ","MS"," ",191
+"foot high","NJ5B","10","K","N"," ","fπt$hµ∫±ø","MS"," ",192
+"feet","NJ6A","11","N","N"," ","fi∫t","MS"," ",193
+"foot high","NJ6B","12","K","N"," ","fπt$hµº±øΩ","MS"," ",194
+"foot high","NJ7A","17","K","N"," ","fπt$hµº±ø","MS"," ",195
+"feet","NJ7B!","18!","N","N"," ","f±i´t","MS"," ",196
+"feet","NJ8A","19","N","N"," ","fi∫t","MS"," ",197
+"foot","NJ8B","20","N","N"," ","fπt","MS"," ",198
+"feet","NJ9A","21","N","N"," ","f±it","MS"," ",199
+"feet","NJ9B","22","N","N"," ","f±´jt","MS"," ",200
+"foot","NJ10A","24b","N","N"," ","fπ{∞}t","MS"," ",201
+"foot","NJ10B","23","N","N"," ","fπt","MS"," ",202
+"feet","NJ10B","23","N","N"," ","f±it","MS"," ",202
+"feet","NJ10C","24","N","N"," ","f±it","MS"," ",203
+"feet","NJ10D!","24c!","N","N"," ","fi∫t","MS"," ",204
+"feet","NJ11A","25","N","N"," ","fi∫{i´}t","MS"," ",205
+"feet","NJ11B","26a","N","N"," ","f±it","MS"," ",206
+"foot","NJ11C","26b","N","N"," ","fπt","MS"," ",207
+"feet","NJ12A","27","N","N"," ","f±it","MS"," ",208
+"foot","NJ12B","28","N","N"," ","fπt","MS"," ",209
+"feet","NJ13A","29","N","N"," ","fiΩ{i}t","MS"," ",210
+"feet","NJ13B","30","N","N"," ","fiΩit","MS"," ",211
+"feet","NJ14A","31","N","N"," ","f±it","MS"," ",212
+"foot","NJ14B","32","N","N"," ","fπt","MS"," ",213
+"feet","NJ15A","33","N","N"," ","f±i´t","MS"," ",214
+"feet","NJ15B","34","N","N"," ","f±´it","MS"," ",215
+"feet","NJ16A","35","N","N"," ","f±it","MS"," ",216
+"feet","NJ16B","36","N","N"," ","f±it","MS"," ",217
+"foot","NJ17A","37","N","N"," ","fπt","MS"," ",218
+"feet","NJ17B","38","N","N"," ","f±it","MS"," ",219
+"feet","NJ18A","41","N","N"," ","fiΩ{i}t","MS"," ",220
+"feet","NJ18B","42","N","N"," ","fiΩjt","MS"," ",221
+"feet","NJ18C!","43!","N","N"," ","fi∫t","MS"," ",222
+"feet","NJ18D!","44!","N","N"," ","fiΩit","MS"," ",223
+"feet","NJ19A","45","N","N"," ","fi∫t","MS"," ",224
+"feet","NJ19B!","46!","N","N"," ","fi∫t","MS"," ",225
+"feet","NJ20A","47","N","N"," ","fiΩit","MS"," ",226
+"voet","NJ20A","47","N","Y","Dutch","vπt∞","MS","INA",226
+"foot","NJ20B","47b","N","N"," ","fπt","MS"," ",227
+"feet","NJ21A","48","N","N"," ","fi∫t","MS"," ",228
+"foot","NJ21B","49","N","N"," ","fπt","MS"," ",229
+"feet high","PA1A","51","K","N"," ","fiΩºt$ha±ø","MS"," ",230
+"foot high","PA1B","52","K","N"," ","fπt$hµ±ø","MS"," ",231
+"feet high","PA1C","53","K","N"," ","fiΩit$hµ∫±ø","MS"," ",232
+"feet high","PA1D","54","K","N"," ","f±it$hµ±ø","MS"," ",233
+"feet high","PA1E!","55!","K","N"," ","fiΩit$hµ±ø","MS"," ",234
+"feet high","PA1F!","56!","K","N"," ","fiΩit$ha∫±øΩ","MS"," ",235
+"feet high","PA1G!","57!","K","N"," ","fiΩit$hµº±ø","MS"," ",236
+"feet high","PA1H!","58!","K","N"," ","fiΩit$hµæ∫≤´","MS"," ",237
+"foot high","PA2A","59","K","N"," ","fπt$hµ±ø","MS"," ",238
+"feet high","PA2B","60","K","N"," ","f±it$hµ∫±ø","MS"," ",239
+"feet high","PA3A","61","K","N"," ","f±´it$hµº±ø","MS"," ",240
+"feet high","PA3B","62","K","N"," ","f±it$hµ±ø","MS"," ",241
+"feet high","PA3C","62b","K","N"," ","fiΩit$haæ±ø","MS"," ",242
+"feet high","PA4A","63","K","N"," ","fiΩit$hµº±ø","MS"," ",243
+"feet high","PA4B!","64!","K","N"," ","fiΩit$hµº±ø","MS"," ",244
+"feet high","PA5A","65(*)","K","N"," ","f±´it$haæ±ø","MS"," ",245
+"foot high","PA5A","65(*)","K","Y"," ","fπ{∞}t$hµ´±ø","MS","AUX",245
+"feet","PA5B","65b","N","N"," ","f±it$hµº∫±ø","MS"," ",246
+"feet high","PA5C","66","K","N"," ","f±it$hµ±ø","MS"," ",247
+"feet","PA5D","67","N","N"," ","f±iΩt$ha±ø","MS"," ",248
+"foot high","PA5E!","68!","K","N"," ","fπt$ha±ø","MS"," ",249
+"feet high","PA6A","69","K","N"," ","fi∫t$haº±ø","MS"," ",250
+"feet high","PA6B","71","K","N"," ","fit$ha±ø","MS"," ",251
+"feet high","PA6C","71b","K","N"," ","fi´∫t$haº±øΩ","MS"," ",252
+"feet high","PA6D!","72!","K","N"," ","fi∫t$haæ±ø","MS"," ",253
+"feet high","PA7A","73","K","N"," ","fi∫t$haæ±ø","MS"," ",254
+"foot","PA7A","73","N","N"," ","fπt","MS","CNV",254
+"feet high","PA7B","74","K","N"," ","fiΩjt$ha±ø","MS"," ",255
+"foot high","PA7C","75","K","N"," ","fπt$ha±ø","MS"," ",256
+"feet high","PA7D!","76!","K","N"," ","fiΩit$haæ±øΩ","MS"," ",257
+"foot high","PA8A","77","K","N"," ","fπ{∞}t$ha±ø","MS"," ",258
+"feet high","PA8B","78","K","N"," ","fiΩit$ha±ø","MS"," ",259
+"feet high","PA8C","79","K","N"," ","fi∫t$ha±ø","MS"," ",260
+"feet high","PA8D!","80!","K","N"," ","fiΩit$ha∫≤","MS"," ",261
+"feet high","PA9A","83","K","N"," ","fi∫t$haæ±ø","MS"," ",262
+"feet high","PA9B","83b","K","N"," ","fi´∫t$haæ∫±ø","MS"," ",263
+"feet high","PA9C!","84!","K","N"," ","f±´it$ha∫±øΩ","MS"," ",264
+"feet high","PA10","87","K","N"," ","fi∫t$ha±ø","MS"," ",265
+"foot high","PA11A","89","K","N"," ","fπºt$ha±ø","MS"," ",266
+"foot high","PA11B","90(*)","K","N"," ","fπt$ha±ø","MS"," ",267
+"foot high","PA11B","90(*)","K","Y"," ","fπ{∞}t$ha´æ±ø","MS","AUX",267
+"feet high","PA12A","91","K","N"," ","fiΩ{i}t$ha±ø","MS"," ",268
+"foot high","PA12B","92","K","N"," ","fπt$haæ±ø","MS"," ",269
+"feet high","PA13A","93","K","N"," ","fiΩit$ha±ø","MS"," ",270
+"feet high","PA13B","94","K","N"," ","fiΩit$ha±ø","MS"," ",271
+"feet high","PA14A","95(*)","K","N"," ","fi∫t$haæ±ø","MS"," ",272
+"feet high","PA14B","96","K","N"," ","fit$hµ´±ø","MS"," ",273
+"NR","PA14C"," "," ","N"," "," ","MS"," ",274
+"feet high","PA15A","99","K","N"," ","f±it$h•Ω±ø","MS"," ",275
+"foot high","PA15B","99b","K","N"," ","fπ{∞}t$ha´æ±ø","MS"," ",276
+"foot high","PA15C!","100!","K","N"," ","fπt$ha´æ±ø","MS"," ",277
+"foot high","PA16A","101","K","N"," ","fπt$ha±ø","MS"," ",278
+"feet high","PA16B","102","K","N"," ","fiΩit$hµº±ø","MS"," ",279
+"foot high","PA16C","103","K","N"," ","fπt$ha±ø´","MS"," ",280
+"feet high","PA17A","105","K","N"," ","fi∫t$ha∫±ø","MS"," ",281
+"foot high","PA17B","106","K","N"," ","fπt$haæ±ø","MS"," ",282
+"foot high","PA18A","107","K","N"," ","fπt$ha´æ±ø","MS"," ",283
+"foot high","PA18B!","108!","K","N"," ","fπt$hµº±ø","MS"," ",284
+"foot high","PA19A","113","K","N"," ","fπ{∞}t$hµ´±ø","MS"," ",285
+"feet high","PA19B","114","K","N"," ","f±iΩt$haæ±ø","MS"," ",286
+"feet high","PA20A","115","K","N"," ","fiΩ∫it$hµº±ø","MS"," ",287
+"feet high","PA20B","116","K","N"," ","f±´i{t}$h•Ω±ø","MS"," ",288
+"foot high","PA21A","117","K","N"," ","fπ{∞}t$h•Ω±ø","MS"," ",289
+"feet high","PA21B","118","K","N"," ","fiΩ{i}t$h•Ω±ø","MS"," ",290
+"foot high","PA22A","119","K","N"," ","fπt$ha´æ±ø","MS"," ",291
+"foot high","PA22B","120","K","N"," ","fπ{∞}t$h•Ω±ø","MS"," ",292
+"feet high","PA23A","121","K","N"," ","fiΩ∫t$ha´æ±ø","MS"," ",293
+"foot high","PA23B","122","K","N"," ","fπt$ha´æ±ø","MS"," ",294
+"feet high","PA24A","123","K","N"," ","fiΩ∫t$ha´æ±ø","MS"," ",295
+"feet high","PA24B","124","K","N"," ","fiΩit$h•Ω±ø","MS"," ",296
+"feet high","PA25A","125","K","N"," ","fiΩ∫t$ha±ø","MS"," ",297
+"feet high","PA25B","126","K","N"," ","fiΩ{i}t$ha±ø","MS"," ",298
+"feet high","PA26A","127","K","N"," ","f±´it$ha´æ±ø","MS"," ",299
+"feet high","PA26B","128","K","N"," ","fi∫t$ha´æ±ø´","MS"," ",300
+"feet high","PA27A","131","K","N"," ","fi{j}t$ha´æ±ø","MS"," ",301
+"feet high","PA27B","132","K","N"," ","fiΩit$ha´æ±ø","MS"," ",302
+"feet high","PA28A","135","K","N"," ","fiΩit$haæ±ø","MS"," ",303
+"feet high","PA28B!","136!","K","N"," ","fiΩit$ha±ø","MS"," ",304
+"foot high","PA29A","139(*)","K","N"," ","fπt$ha±ø´","MS"," ",305
+"feet high","PA29A","139(*)","K","Y"," ","fiΩit$ha±ø","MS","AUX",305
+"feet high","PA29B","140","K","N"," ","fi{i´}t$ha±ø","MS"," ",306
+"foot","PA29B","140","N","N"," ","fπt","MS","CNV",306
+"feet high","PA30A","143","K","N"," ","fi{j}t$ha´æ±ø","MS"," ",307
+"foot high","PA30B","144","K","N"," ","fπ{∞}t$ha´æ±ø","MS"," ",308
+"feet high","PA31A","145","K","N"," ","fijt$ha´æ±ø","MS"," ",309
+"feet high","PA31B","146","K","N"," ","fijt$ha´æ±ø","MS"," ",310
+"feet high","PA32A","147","K","N"," ","fi{j}t$hµº±ø´","MS"," ",311
+"foot high","PA32B","148","K","N"," ","fπt$hµ∫±ø´","MS"," ",312
+"feet","PA33A","151","N","N"," ","fiΩit","MS"," ",313
+"feet high","PA33B","152","K","N"," ","fiΩit$haæ±ø","MS"," ",314
+"foot high","PA34A","155","K","N"," ","fπt$ha±ø","MS"," ",315
+"feet high","PA34B","156","K","N"," ","fiΩit$ha±ø","MS"," ",316
+"feet high","PA34C!","155b!","K","N"," ","fiΩjt$ha±ø","MS"," ",317
+"feet high","PA35A","157","K","N"," ","fiΩæit$haæ±ø","MS"," ",318
+"feet high","PA35B","158(*)","K","N"," ","fiΩæit$haæj","MS"," ",319
+"feet high","PA35C"," ","K","N"," ","fit$ha±ø","MS"," ",320
+"feet high","PA36A","159","K","N"," ","fi∫t$haº∫±ø","MS"," ",321
+"feet high","PA36B","160","K","N"," ","fiΩ∫{j}t$ha´æ±ø","MS"," ",322
+"foot high","PA37A","161(*)","K","N"," ","fπt$ha±ø","MS"," ",323
+"feet high","PA37B","162","K","N"," ","fi∫t$ha±ø´","MS"," ",324
+"feet high","PA37C"," ","K","N"," ","fi∫t$ha±ø´","MS"," ",325
+"feet high","PA38A","163","K","N"," ","fiΩæit$haæ±ø","MS"," ",326
+"feet high","PA38B","164","K","N"," ","fi∫t$haæ±ø","MS"," ",327
+"feet high","PA39A","165","K","N"," ","fiΩit$ha±ø´","MS"," ",328
+"feet high","PA39B","166","K","N"," ","fiΩæi´t$haæ∫±ø´","MS"," ",329
+"feet high","PA40A","167","K","N"," ","fiΩit$ha±ø´","MS"," ",330
+"feet high","PA40B","168","K","N"," ","f±it$ha±ø","MS"," ",331
+"feet high","PA41A","171","K","N"," ","fi{i´}t$ha±ø´","MS"," ",332
+"feet high","PA41B","172","K","N"," ","fiΩit$haæ∫≤","MS"," ",333
+"feet high","PA42A","175","K","N"," ","f±´it$ha´æ±ø","MS"," ",334
+"feet high","PA42B","176","K","N"," ","fiæjt$haæ±ø","MS"," ",335
+"feet high","PA43A","177","K","N"," ","fiΩit$haæ∫±ø","MS"," ",336
+"feet high","PA43B","178","K","N"," ","fiΩit$haæ∫≤","MS"," ",337
+"feet high","PA44A","179","K","N"," ","fiæit$ha±ø","MS"," ",338
+"feet high","PA44B","180","K","N"," ","fiΩit$haæ∫±ø","MS"," ",339
+"feet high","PA45A","181","K","N"," ","fiæit$ha≤´","MS"," ",340
+"feet high","PA45B","182","K","N"," ","f±´it$ha±ø","MS"," ",341
+"feet high","PA46A","185","K","N"," ","fiΩit$ha∫≤","MS"," ",342
+"feet high","PA46B","186","K","N"," ","fiΩit$haæ∫≤","MS"," ",343
+"feet","PA47A","189","N","N"," ","fi∫t","MS"," ",344
+"feet high","PA47B","190","K","N"," ","fiæit$haæ±øΩ","MS"," ",345
+"feet high","PA48A","191","K","N"," ","f±æit$haæ±ø","MS"," ",346
+"feet high","PA48B","192","K","N"," ","f±æit$ha±ø","MS"," ",347
+"feet high","PA48C","193","K","N"," ","f±it$ha±ø","MS"," ",348
+"feet high","PA49A","194","K","N"," ","f±æit$haæ±ø","MS"," ",349
+"feet high","PA49B","195","K","N"," ","f±´æit$hµº±ø","MS"," ",350
+"feet high","PA50A","196","K","N"," ","fi∫t$ha›´æ±ø","MS"," ",351
+"foot high","PA50B","197","K","N"," ","fπt$ha±ø","MS"," ",352
+"feet high","PA50C!","198!","K","N"," ","f±æit$haæ±ø","MS"," ",353
+"feet high","PA51A","199","K","N"," ","f±jt$ha±ø","MS"," ",354
+"feet high","PA51B","200","K","N"," ","f±æit$ha±ø","MS"," ",355
+"feet high","PA52A","201","K","N"," ","f±æit$ha›´±ø","MS"," ",356
+"feet high","PA52B!","202!","K","N"," ","f±it$ha±ø","MS"," ",357
+"feet high","PA53A","203","K","N"," ","f±æjt$ha±ø","MS"," ",358
+"foot high","PA53B","204","K","N"," ","fπt$ha±ø","MS"," ",359
+"feet high","PA54A","205","K","N"," ","f±æit$ha´æ±ø","MS"," ",360
+"feet high","PA54B","206","K","N"," ","f±æit$haæ±ø","MS"," ",361
+"feet high","PA55A","207","K","N"," ","f±it$ha±ø","MS"," ",362
+"feet high","PA55B","208","K","N"," ","f±it$haæ±ø","MS"," ",363
+"feet high","PA56A","211(*)","K","N"," ","fiæit$ha±ø","MS"," ",364
+"feet","PA56A","211(*)","N","Y"," ","fiΩit","MS","AUX",364
+"foot high","PA56B","212","K","N"," ","fπt$hµº±ø","MS"," ",365
+"feet high","PA57A","213","K","N"," ","f±´jt$ha±ø","MS"," ",366
+"feet high","PA57B","214","K","N"," ","fiæit$ha±ø","MS"," ",367
+"feet high","PA58A","215","K","N"," ","f±æit$ha´æ±ø","MS"," ",368
+"feet high","PA58B","216","K","N"," ","f±æit$ha±ø","MS"," ",369
+"feet high","PA59A","219","K","N"," ","fiΩit$ha±ø","MS"," ",370
+"feet","PA59B","220","N","N"," ","fiæit","MS"," ",371
+"feet high","PA60A","221","K","N"," ","fiΩit$haæ±ø","MS"," ",372
+"feet high","PA60B","222","K","N"," ","f±it$ha±ø","MS"," ",373
+"feet high","PA61A","223","K","N"," ","f±it$ha±ø","MS"," ",374
+"foot high","PA61B","224","K","N"," ","fπt$ha±ø","MS"," ",375
+"feet high","PA62A","229","K","N"," ","fiΩit$haº±ø","MS"," ",376
+"feet high","PA62B","230","K","N"," ","f±´it$ha±ø","MS"," ",377
+"feet high","PA63A","231","K","N"," ","fiΩjt$ha´æ±ø","MS"," ",378
+"feet high","PA63B","232","K","N"," ","fiΩjt$ha´æ±ø","MS"," ",379
+"feet high","PA64A","233","K","N"," ","fi∫t$ha´æ±ø","MS"," ",380
+"foot high","PA64B","234","K","N"," ","fπt$h•Ω±ø","MS"," ",381
+"feet high","PA65A","237","K","N"," ","f±it$ha±ø","MS"," ",382
+"feet high","PA65B","238","K","N"," ","f±it$ha±ø","MS"," ",383
+"feet high","PA66A","239","K","N"," ","f±´it$ha´æ±ø","MS"," ",384
+"foot high","PA66B","240","K","N"," ","fπ{∞}t $h•›±ø›","MS"," ",385
+"feet high","PA67A","243","K","N"," ","fijt$h•›Ω±ø›","MS"," ",386
+"feet high","PA67B","244","K","N"," ","fiΩ∫jt$h•›±ø›","MS"," ",387
+"feet high","WV1!","88!","K","N"," ","fiΩit$haæ∫≤æ","MS"," ",388
+"foot high","WV2","89","K","N"," ","fπ{∞}t$haæ∫{≥æ}","MS"," ",389
+"foot high","WV3","91","K","N"," ","fπt$haæ∫≤","MS"," ",390
+"feet high","WV4A","92","K","N"," ","fi´it$haæ∫≤æ","MS"," ",391
+"feet","WV4B","93","N","N"," ","fiΩjt","MS"," ",392
+"feet high","WV5","94","K","N"," ","fiΩit$haæ∫≤","MS"," ",393
+"feet high","WV6A","95","K","N"," ","fiΩ{i}t$haæ∫≤æ","MS"," ",394
+"feet high","WV6B","96","K","N"," ","fiΩit$ha∫≤","MS"," ",395
+"foot high","WV7A","97","K","N"," ","fπt$hµ∫≤´","MS"," ",396
+"feet high","WV7B","98","K","N"," ","fiΩit$hµº∫≤´","MS"," ",397
+"feet","WV8A","97b","N","N"," ","fiæit","MS"," ",398
+"feet","WV8B","98b","N","N"," ","fi∫t","MS"," ",399
+"feet","WV9A","301","N","N"," ","fiæit$ha∫≤","MS"," ",400
+"feet","WV9B","302","N","N"," ","fi∫t$haæ∫≤","MS"," ",401
+"feet","WV10A","303","N","N"," ","f±it","MS"," ",402
+"feet high","WV10B","303b","K","N"," ","fiæit$haæ±øΩ","MS"," ",403
+"feet high","WV10C","304","K","N"," ","fi∫t$ha±ø","MS"," ",404
+"foot high","WV11A","305","K","N"," ","fπº{∞}t$ha∫±ø","MS"," ",405
+"feet high","WV11B!","306!","K","N"," ","fi∫t$ha∫±ø","MS"," ",406
+"feet","WV12A","307","N","N"," ","fiΩit","MS"," ",407
+"foot","WV12B","308","N","N"," ","fπt","MS"," ",408
+"feet","WV13A","309","N","N"," ","fiΩæit","MS"," ",409
+"feet","WV13B","310","N","N"," ","fiΩæit","MS"," ",410
+"feet","WV14A","311","N","N"," ","fiΩit","MS"," ",411
+"feet","WV14B","312","N","N"," ","fiæit","MS"," ",412
+"feet high","WV15A","313","K","N"," ","f±´it$hµ≤","MS"," ",413
+"feet","WV15B","314","N","N"," ","fiΩit","MS"," ",414
+"feet","WV16A","315","N","N"," ","fiΩit","MS"," ",415
+"feet high","WV16B","316","K","N"," ","fii´t$ha∫≤","MS"," ",416
+"feet","WV17A","317","N","N"," ","f±´it","MS"," ",417
+"foot","WV17B","317b","N","N"," ","fπº{∞}t","MS"," ",418
+"feet","WV17C","318","N","N"," ","f±it","MS"," ",419
+"feet","WV18A","319","N","N"," ","fiΩit","MS"," ",420
+"feet","WV18B","320","N","N"," ","fiΩæit","MS"," ",421
+"feet high","WV19A","321","K","N"," ","fiΩit$hµº≤","MS"," ",422
+"feet high","WV19B","322","K","N"," ","fi∫t$ha≤æ","MS"," ",423
+"feet high","WV20A","323","K","N"," ","fi∫t$haæ∫{≤æ}","MS"," ",424
+"foot","WV20A","323","N","N"," ","fπt","MS","CNV",424
+"feet","WV20B","324","N","N"," ","fiΩit","MS"," ",425
+"foot high","WV21A","325","K","N"," ","fπt$ha∫≤æ","MS"," ",426
+"feet high","WV21B","326","K","N"," ","fi∫t$ha≤æ","MS"," ",427
+"feet","WV22A","327","N","N"," ","fiΩit","MS"," ",428
+"feet","WV22B","328","N","N"," ","fiΩæit","MS"," ",429
+"feet","WV23A","331","N","N"," ","fi∫t","MS"," ",430
+"feet","WV23B","332","N","N"," ","fi∫t","MS"," ",431
+"feet","WV24A","335","N","N"," ","fi∫t","MS"," ",432
+"feet","WV24B","336","N","N"," ","fi∫t","MS"," ",433
+"feet","WV25A","337","N","N"," ","fiæit","MS"," ",434
+"feet","WV25B","338","N","N"," ","fiΩ∫t","MS"," ",435
+"feet","WV26A","339","N","N"," ","fiΩit","MS"," ",436
+"foot","WV26B","340","N","N"," ","fπºt","MS"," ",437
+"feet","WV27A","341","N","N"," ","fiΩæit","MS"," ",438
+"feet","WV27B","342","N","N"," ","fiΩæi´t","MS"," ",439
+"feet","WV28A","343","N","N"," ","fiΩit","MS"," ",440
+"feet","WV28B","344","N","N"," ","fiæit","MS"," ",441
+"foot","WV29A","345","N","N"," ","fπ{∞}t","MS"," ",442
+"feet","WV29B","346","N","N"," ","fiΩæit","MS"," ",443
+"feet high","WV30A","347","K","N"," ","fi∫t$ha∫≤æ","MS"," ",444
+"feet","WV30B","348","N","N"," ","f±´it","MS"," ",445
+"feet","WV31A","349","N","N"," ","fi´∫t","MS"," ",446
+"feet high","WV31B","350","K","N"," ","fiæit$haæ∫≤","MS"," ",447
+"feet","WV32A","353","N","N"," ","fi∫t","MS"," ",448
+"feet high","WV32B","354","K","N"," ","fiæit$ha∫≤æ","MS"," ",449
+"feet","WV33A","355","N","N"," ","fiæit","MS"," ",450
+"feet","WV33B","356","N","N"," ","fiΩæit","MS"," ",451
+"foot","WV34A","359","N","N"," ","fπ{∞}t","MS"," ",452
+"feet","WV34B","360","N","N"," ","fiΩit","MS"," ",453
+"foot","WV35A","361","N","N"," ","fπºt","MS"," ",454
+"feet","WV35B","362","N","N"," ","fiæit","MS"," ",455
+"feet high","WV36A","363","K","N"," ","fiΩit$ha±øΩ","MS"," ",456
+"feet","WV36B","364","N","N"," ","fiΩæit","MS"," ",457
+"foot","WV37A","365","N","N"," ","fπºt","MS"," ",458
+"feet","WV37B!","366!","N","N"," ","fiΩit","MS"," ",459
+"feet","WV38A","367","N","N"," ","fiΩit","MS"," ",460
+"foot","WV38B","368","N","N"," ","fπºt","MS"," ",461
+"feet","WV39A","369","N","N"," ","fiæit","MS"," ",462
+"foot","WV39B","370","N","N"," ","fπt","MS"," ",463
+"feet","WV39C!","371!","N","N"," ","f±´it","MS"," ",464
+"feet high","WV40A","373","K","N"," ","fi∫t$ha∫≤æ","MS"," ",465
+"feet","WV40B","374","N","N"," ","fiΩæit","MS"," ",466
+"feet high","WV41A","375","K","N"," ","fiΩit$ha∫{≤æ}","MS"," ",467
+"feet","WV41B","376","N","N"," ","fiæit","MS"," ",468
+"feet","WV42A","377","N","N"," ","f±´it","MS"," ",469
+"feet","WV42B","378","N","N"," ","fiΩæit","MS"," ",470
+"foot","WV43A","381","N","N"," ","fπºt","MS"," ",471
+"foot","WV43B","382","N","N"," ","fπºt","MS"," ",472
+"feet","WV44A","383","N","N"," ","fi∫t","MS"," ",473
+"feet","WV44B","384","N","N"," ","fiΩæit","MS"," ",474
+"feet","WV45A","385","N","N"," ","f±´it","MS"," ",475
+"feet","WV45B","386","N","N"," ","fi∫t","MS"," ",476
+"feet","WV46A","387","N","N"," ","fiΩit","MS"," ",477
+"feet","WV46B","388","N","N"," ","fiΩæit","MS"," ",478
+"feet","WV47A","389","N","N"," ","fiΩit","MS"," ",479
+"feet","WV47B","390","N","N"," ","f±it","MS"," ",480
+"feet","WV48A","391","N","N"," ","f±´it","MS"," ",481
+"feet","WV48B","391b","N","N"," ","f±´it","MS"," ",482
+"feet","WV48C","392","N","N"," ","fiΩit","MS"," ",483
+"feet","WV48D","392b","N","N"," ","f±´it","MS"," ",484
+"feet high","WV49A","393","K","N"," ","fiæit$ha∫≤","MS"," ",485
+"feet","WV49B","394","N","N"," ","f±´it","MS"," ",486
+"feet","WV50A","395","N","N"," ","fiΩæit","MS"," ",487
+"feet","WV50B","396","N","N"," ","fi∫t","MS"," ",488
+"feet","WV51A","261","N","N"," ","fiΩæit","MS"," ",489
+"feet","WV51B","262","N","N"," ","fi∫t","MS"," ",490
+"feet","WV52A","258","N","N"," ","f±´it","MS"," ",491
+"foot","WV52A","258","N","N"," ","fπºt","MS","CNV",491
+"feet","WV52B","259","N","N"," ","fiæit","MS"," ",492
+"feet","WV52C!","260!","N","N"," ","f±´it","MS"," ",493
+"feet","WV53A","257","N","N"," ","fiæit","MS"," ",494
+"feet","WV53B","257b","N","N"," ","fiæit","MS"," ",495
+"feet","WV53C!","257c!","N","N"," ","fiΩit","MS"," ",496
+"feet high","WV54A","255","K","N"," ","f±æit$ha›´æ±ø","MS"," ",497
+"feet high","WV54B","256","K","N"," ","fiΩit$ha±ø","MS"," ",498
+"foot high","DE1A","11","K","N"," ","fπ{∞}t$ha´æ±ø","MS"," ",499
+"feet high","DE1B","12","K","N"," ","fiΩit$haæ±øΩ","MS"," ",500
+"feet high","DE1C!","13!","K","N"," ","fiΩit$haæ±ø","MS"," ",501
+"feet high","DE2A","15(*)","K","Y"," ","fijt$hµ±ø","MS","AUX",502
+"foot high","DE2A","15(*)","N","Y"," ","fπt$hµ±ø","MS","AUX/SUG/HRD",502
+"foot high","DE2B","16","K","N"," ","fπt$hµ≤´","MS"," ",503
+"foot high","DE2C"," ","K","N"," ","fπ{∞}t$hµ±ø","MS"," ",504
+"feet high","DE3A","18","K","N"," ","fiΩit$haæ±ø","MS"," ",505
+"foot high","DE3B","19","K","N"," ","fπt$haæ∫≤æ","MS"," ",506
+"feet high","DE3C!","17!","K","N"," ","fiΩit$haæ∫≤æ","MS"," ",507
+"foot high","DE4","20","K","N"," ","fπ{∞}t$haæ≤´","MS"," ",508
+"feet high","DE5A","21","K","N"," ","fijt$hµ±ø","MS"," ",509
+"feet high","DE5B","22","K","N"," ","fiΩit$haæ∫≤´","MS"," ",510
+"foot high","DE6A","23","K","N"," ","fπt$haæ∫≤","MS"," ",511
+"feet high","DE6B","24","K","N"," ","fiΩit$haæ∫≤æ","MS"," ",512
+"feet high","MD1A","27","K","N"," ","fit$hµ´±ø","MS"," ",513
+"feet high","MD1B","28","K","N"," ","fijt$haæ±ø","MS"," ",514
+"feet high","MD2A","31a","K","N"," ","fiΩit$hµ∫≤´","MS"," ",515
+"feet high","MD2B","32","K","N"," ","fit$haæ≤","MS"," ",516
+"foot high","MD3A","33","K","N"," ","fπt$haæ±øΩ","MS"," ",517
+"foot high","MD3B","34","K","N"," ","fπt$haæ≤´n","MS"," ",518
+"feet high","MD4A","35b","K","N"," ","fi{j}t$h•Ωº±ø","MS"," ",519
+"feet high","MD4B","35","K","N"," ","f±´it$hµº∫≤´","MS"," ",520
+"foot high","MD4C","36","K","N"," ","fπt$hµ±øΩ","MS"," ",521
+"feet high","MD5A","37","K","N"," ","fπt$haæ∫≤æ","MS"," ",522
+"feet high","MD5B","38","K","N"," ","fiΩit$haæ∫≤æ","MS"," ",523
+"foot high","MD6A","39(*)","K","N"," ","fπt$ha´æ±ø","MS"," ",524
+"foot high","MD6A","39(*)","K","Y"," ","fπt$haæ≤´","MS","AUX",524
+"feet high","MD6B","40","K","N"," ","fiΩit$haæ±øΩ","MS"," ",525
+"foot high","MD7A","41","K","N"," ","fπt$hµ≤","MS"," ",526
+"feet high","MD7B","41b","K","N"," ","fiΩit$haæ≤´","MS"," ",527
+"feet high","MD7C!","42!","K","N"," ","fiΩjt$hµ∫≤´","MS"," ",528
+"foot high","MD8A","43","K","N"," ","fπt$haæ∫≤","MS"," ",529
+"feet high","MD8B","44","K","N"," ","fiΩjt$hµ∫≤´","MS"," ",530
+"foot high","MD9N","N46","K","N"," ","fπt$hµ±øΩ","MS"," ",531
+"feet high","MD9A","45","K","N"," ","fiΩit$hµ≤´","MS"," ",532
+"foot high","MD9B","46","K","N"," ","fπt$hµº≤","MS"," ",533
+"feet","MD10A","49","N","N"," ","fit","MS"," ",534
+"foot high","MD10B","50","K","N"," ","fπºt$haæ∫≤æ","MS"," ",535
+"feet high","MD11","51","K","N"," ","fit$haæ∫≤","MS"," ",536
+"foot","MD12A","52","N","N"," ","fπ{∞}t","MS"," ",537
+"feet high","MD12B","53","K","N"," ","fit$hµ∫≤","MS"," ",538
+"foot high","MD13A","54(*)","K","N"," ","fπº{∞}t$hµ∫≤","MS"," ",539
+"feet high","MD13B","55","K","N"," ","fi∫t$haæ∫≤","MS"," ",540
+"feet high","MD13C","56","K","N"," ","fi´{j}t$hµº∫≤","MS"," ",541
+"feet high","MD13D!","57!","K","N"," ","fi∫t$ha∫≤","MS"," ",542
+"feet high","MD13E!","58!","K","N"," ","fiΩit$hµ∫{≤æ}","MS"," ",543
+"feet high","MD13F!","59!","K","N"," ","fi∫t$hµº∫≤æ","MS"," ",544
+"feet high","MD13G"," ","K","N"," ","fiΩit$haæ∫≤æ","MS"," ",545
+"feet high","MD14","61(*)","K","N"," ","fit$hµ≤","MS"," ",546
+"foot","MD14","61(*)","N","Y"," ","fπt","MS","AUX",546
+"Fuss","MD14","61(*)","N","Y","German","fu∫s","MS","INA",546
+"foot high","MD15A","62","K","N"," ","fπt$hµ≤","MS"," ",547
+"feet","MD15B","63","N","N"," ","fit","MS"," ",548
+"feet high","MD16","64","K","N"," ","fiΩjt$haæ≤æ","MS"," ",549
+"feet high","MD17A","65","K","N"," ","fit$hµ∫≤","MS"," ",550
+"feet high","MD17B","66","K","N"," ","fi{j}t$hµº≤","MS"," ",551
+"feet high","MD18A","67","K","N"," ","fit$haæ∫≤","MS"," ",552
+"feet high","MD18B","68","K","N"," ","fit$haæ∫≤æ","MS"," ",553
+"feet high","MD19A","69","K","N"," ","fi∫t$haæ≤","MS"," ",554
+"foot high","MD19B","70","K","N"," ","fπt$haæ∫≤æ","MS"," ",555
+"feet high","MD20A","71","K","N"," ","fijt$hµº∫±øΩ","MS"," ",556
+"feet high","MD20B","72","K","N"," ","fi∫t$haæ∫≤æ","MS"," ",557
+"feet high","MD20C!","73!","K","N"," ","fit$haæ∫≤","MS"," ",558
+"feet high","MD21A","75","K","N"," ","fi´t$hµº±øΩ","MS"," ",559
+"feet high","MD21B","76","K","N"," ","fit$hµº≤","MS"," ",560
+"feet high","MD22N","N77","K","N"," ","fit$ha±øΩ","MS"," ",561
+"feet high","MD22M","N78","K","N"," ","fi´t$haæ±øΩ","MS"," ",562
+"foot high","MD22A","77","K","N"," ","fπt$hµ´±ø","MS"," ",563
+"feet high","MD22B","78","K","N"," ","fit$ha≤´","MS"," ",564
+"feet high","MD22C!","79!","K","N"," ","fit$haæ∫≤æ","MS"," ",565
+"feet high","MD23A","80b","K","N"," ","fit$haæ∫≤æ","MS"," ",566
+"feet high","MD23B","80a","K","N"," ","fit$haº∫≤","MS"," ",567
+"feet high","MD23C","81","K","N"," ","fit$hµ≤","MS"," ",568
+"foot high","MD24","82","K","N"," ","fπt$ha±ø","MS"," ",569
+"feet","MD25","84","N","N"," ","fit","MS"," ",570
+"foot high","MD25","84","K","N"," ","fπt$haæ∫≤","MS"," ",570
+"feet high","MD26A","83","K","N"," ","fiΩit$hµº±ø","MS"," ",571
+"feet high","MD26B","83A","K","N"," ","fiΩit$haæ∫≤æ","MS"," ",572
+"feet high","MD27A","85","K","N"," ","fiΩæit$hµº∫±øΩ","MS"," ",573
+"feet high","MD27B","86","K","N"," ","fiΩit$haæ∫≤´","MS"," ",574
+"foot high","DC1A","99","K","N"," ","fπ{∞}t$hµ∫{≤æ}","MS"," ",575
+"feet high","DC1B!","100!","K","N"," ","fi∫t$hµº∫≤æ","MS"," ",576
+"feet","VA1!","101!","N","N"," ","fiΩit","MS"," ",577
+"feet","VA2A","103","N","N"," ","fiΩº{i}t","MS"," ",578
+"feet","VA2B","104","N","Y"," ","f±´it","MS","AUX",579
+"feet","VA3A","105(*)","N","N"," ","fiΩ∫t","MS"," ",580
+"feet","VA3B","106","N","N"," ","fiΩit","MS"," ",581
+"feet","VA3C"," ","N","N"," ","fiΩ{i}t","MS"," ",582
+"feet","VA4N","N109","N","N"," ","fiΩt","MS"," ",583
+"feet high","VA5A","107","K","N"," ","fiΩ{i}t$hµº≤´æ","MS"," ",584
+"feet","VA5B","108","N","N"," ","fi∫t","MS"," ",585
+"feet","VA6A","113","N","N"," ","fiΩ{i}t","MS"," ",586
+"feet","VA6B","114","N","N"," ","fi{j}t","MS"," ",587
+"foot","VA7A","121","N","N"," ","fπ{∞}t","MS"," ",588
+"feet","VA7B","122","N","N"," ","fi∫t","MS"," ",589
+"feet","VA8A","123","N","N"," ","fijt","MS"," ",590
+"foot","VA8B","124","N","N"," ","fπ{∞}t","MS"," ",591
+"feet","VA8C!","125!","N","N"," ","fiΩ∫t","MS"," ",592
+"feet","VA9A","117","N","N"," ","fiΩæit","MS"," ",593
+"feet","VA9B!","118!","N","N"," ","fiΩæit","MS"," ",594
+"feet","VA10A","127","N","N"," ","fi´iΩt","MS"," ",595
+"feet","VA10B","128","N","N"," ","fi∫t","MS"," ",596
+"feet","VA11A","129","N","N"," ","fi´iΩt","MS"," ",597
+"feet","VA11B","130","N","N"," ","fi´iΩt","MS"," ",598
+"foot high","VA12N","N131","K","N"," ","fπ{∞}t$","MS"," ",599
+"foot","VA12N","N131","N","N"," ","Êπ{∞}t","MS"," ",599
+"feet","VA12A","131","N","N"," ","fi∫t","MS"," ",600
+"feet","VA12B!","132!","N","N"," ","fi∫t","MS"," ",601
+"foot","VA13A","133","N","N"," ","fπ{∞}t","MS"," ",602
+"feet","VA13B","134","N","N"," ","fi∫t","MS"," ",603
+"feet high","VA14A","135","K","N"," ","fi∫t$haæ∫{≤æ}","MS"," ",604
+"foot","VA14B","136","N","N"," ","fπ{∞}t","MS"," ",605
+"feet","VA14C","137","N","N"," ","fi∫t","MS"," ",606
+"feet","VA15N","N139(*)","N","N"," ","fi∫t","MS"," ",607
+"feet","VA15N","N139(*)","N","Y"," ","Êi∫t","MS","AUX",607
+"foot high","VA15A","139","K","N"," ","fπ{∞}t$haæ±ø","MS"," ",608
+"feet","VA15B","140","N","N"," ","fi{i´}t","MS"," ",609
+"feet","VA16A","141","N","N"," ","fiΩæ:t","MS"," ",610
+"foot","VA16A","141","N","N"," ","fπº{∞}t","MS"," ",610
+"foot","VA16B","142","N","N"," ","fπ{∞}t","MS"," ",611
+"feet","VA17A","143","N","N"," ","fiΩ{i}t","MS"," ",612
+"foot","VA17B","144","N","N"," ","fπ{∞}t","MS"," ",613
+"feet","VA18","145","N","N"," ","fi∫t","MS"," ",614
+"foot","VA19A","146","N","N"," ","fπ{∞}Áüt","MS"," ",615
+"foot high","VA19B","147","K","N"," ","fπ{∞}t$hµ´±øΩ","MS"," ",616
+"feet","VA19C!","148!","N","N"," ","fi´iΩt","MS"," ",617
+"feet","VA20A","149","N","N"," ","fi∫t","MS"," ",618
+"foot","VA20B","150(*)","N","N"," ","fπ{∞}t","MS"," ",619
+"feet","VA20C"," ","N","N"," ","f±Ωæit","MS"," ",620
+"foot","VA21N","N153","N","N"," ","Êüfπ{∞}t","MS"," ",621
+"foot high","VA21A","153","K","N"," ","fπº{∞}t","MS"," ",622
+"feet","VA21B","154","N","N"," ","fiΩ{i}t","MS"," ",623
+"feet","VA22","155","N","N"," ","f±´iΩt","MS"," ",624
+"feet high","VA23A","156","K","N"," ","f±iΩt$hµæ∫≤æ","MS"," ",625
+"foot high","VA23B","157","K","N"," ","fπt$ha∫{≤æ}","MS"," ",626
+"feet high","VA24","159","K","N"," ","fiΩ{i}t$haæ∫{≤æ}","MS"," ",627
+"foot","VA25","160(*)","N","N"," ","fπ{∞}t","MS"," ",628
+"feet","VA25","160(*)","N","Y"," ","f±æiΩt","MS","AUX",628
+"feet high","VA26A","161A","K","N"," ","fijt$hµ∫{≤æ}","MS"," ",629
+"foot","VA26B","161","N","N"," ","fπ{∞}t","MS"," ",630
+"feet","VA26C","162","N","N"," ","fiΩit","MS"," ",631
+"feet high","VA27","163(*)","K","N"," ","fi´iΩt","MS"," ",632
+"feet high","VA27","163(*)","K","N"," ","fijt$hµ∫±ø","MS"," ",632
+"feet","VA28A","164","N","Y","[{t}]: doubtful","fiΩi{t}","MS","FDT",633
+"feet","VA28B","165","N","N"," ","fiΩit","MS"," ",634
+"feet","VA29","166","N","N"," ","fiΩit","MS"," ",635
+"feet","VA30A","167","N","N"," ","fiΩ∫t","MS"," ",636
+"feet","VA30B!","167a!","N","N"," ","fi∫t","MS"," ",637
+"foot high","VA30C!","168!","K","N"," ","fπt$haæ∫{≤æ}","MS"," ",638
+"feet","VA30D!","169!","N","N"," ","fiΩ{i}t","MS"," ",639
+"feet","VA30E!","170!","N","N"," ","fiΩit","MS"," ",640
+"feet","VA31A","171(*)(**)","N","N"," ","fi∫t","MS"," ",641
+"feet","VA31A","171(*)(**)","N","Y"," ","f±´iΩt","MS","AUX2",641
+"feet","VA31B","172","N","N"," ","fiΩæ∫t","MS"," ",642
+"NA","VA31C"," "," ","N"," "," ","MS"," ",643
+"feet","VA32!","175!","N","N"," ","fi∫t","MS"," ",644
+"feet","VA33A","173","N","N"," ","fi∫t","MS"," ",645
+"feet","VA33B","174","N","N"," ","fi∫t","MS"," ",646
+"feet","VA34A","177(*)","N","Y"," ","fiΩ{i}t","MS","AUX",647
+"feet","VA34B","178","N","N"," ","f±´iΩt","MS"," ",648
+"foot","VA35A","179","N","N"," ","fπ{∞}t","MS"," ",649
+"feet","VA35B","180","N","N"," ","fi∫t","MS"," ",650
+"feet","VA36A","181","N","N"," ","fi´æiΩt","MS"," ",651
+"feet","VA36B","182","N","N"," ","fi∫t","MS"," ",652
+"feet","VA37","183","N","N"," ","f±iΩt","MS"," ",653
+"feet high","VA38","185","K","N"," ","fiΩit$ha∫≤æ","MS"," ",654
+"feet high","VA39!","186!","K","N"," ","f±´iΩt$hµº∫≤æ","MS"," ",655
+"foot","VA40A","187","N","N"," ","fπ{∞}t","MS"," ",656
+"foot","VA40B","188","N","N"," ","fπº{∞}t","MS"," ",657
+"feet","VA41A","191","N","N"," ","fi´iΩt","MS"," ",658
+"feet","VA41B","192","N","N"," ","fi∫t","MS"," ",659
+"feet","VA42A","193(*)(**)","N","N"," ","fi∫t","MS"," ",660
+"feet","VA42A","193(*)(**)","N","Y"," ","f±iΩt","MS","AUX",660
+"foot","VA42A","193(*)(**)","N","Y"," ","fπ{∞}t","MS","AUX2",660
+"feet","VA42B","194","N","N"," ","fiΩit","MS"," ",661
+"feet","VA43N","N195","N","N"," ","fi∫t","MS"," ",662
+"feet","VA43A","195","N","N"," ","fit","MS"," ",663
+"feet","VA43B","196","N","N"," ","fi{i´}t","MS"," ",664
+"feet","VA44A","199","N","N"," ","fiΩit","MS"," ",665
+"feet","VA44B","200","N","N"," ","fi∫t","MS"," ",666
+"feet high","VA45A","201","K","N"," ","fi∫t$haæ∫{≤æ}","MS"," ",667
+"feet","VA45B","202","N","N"," ","fiΩit","MS"," ",668
+"NR","VA46N","N207"," ","N"," "," ","MS"," ",669
+"foot high","VA46A","207","K","N"," ","fπt$haæ∫{±øΩ}","MS"," ",670
+"foot high","VA46A","207","K","Y"," ","fπt$ha∫{±øΩ}","MS","AUX",670
+"feet","VA46B!","208!","N","N"," ","f±´it","MS"," ",671
+"feet","VA47","211","N","N"," ","fi:t","MS"," ",672
+"feet","VA48A","213(*)","N","N"," ","f±´iΩt","MS"," ",673
+"foot high","VA48A","213(*)","K","Y"," ","fπº{∞}t$haæ∫≤æ","MS","AUX",673
+"feet","VA48B","214","N","N"," ","fiΩ{i}t","MS"," ",674
+"foot","VA49A","215","N","N"," ","fπ{∞}t","MS"," ",675
+"foot","VA49B","216","N","N"," ","fπ{∞}t","MS"," ",676
+"feet","VA50A","217","N","N"," ","f±´iΩt","MS"," ",677
+"feet","VA50B","218","N","N"," ","fiΩt","MS"," ",678
+"feet","VA51A","219","N","N"," ","fi∫t","MS"," ",679
+"NA","VA51B","220(*)"," ","N"," "," ","MS"," ",680
+"feet high","VA51C"," ","K","N"," ","fiΩ∫t$ha∫{∞º}","MS"," ",681
+"feet","VA52A","224","N","N"," ","fi∫t","MS"," ",682
+"feet","VA52B","225","N","N"," ","fiΩit","MS"," ",683
+"feet high","VA52C!","226!","K","N"," ","fi∫t$hµæ∫±øΩ","MS"," ",684
+"feet","VA53A","227","N","N"," ","fiΩ∫t","MS"," ",685
+"feet","VA53B","228","N","N"," ","fiΩ∫t","MS"," ",686
+"foot","VA54A","229","N","N"," ","fπºt","MS"," ",687
+"feet","VA54B","230","N","N"," ","f±´iΩt","MS"," ",688
+"feet","VA55A","233(*)","N","N"," ","fiΩæit","MS"," ",689
+"foot high","VA55A","233(*)","K","Y"," ","fπ{∞}t$hµ∫≤æ","MS","AUX",689
+"Fuss hoch","VA55A","233(*)","K","Y","German","fis$ho∫x","MS","AUX/INA",689
+"feet","VA55B","234(*)","N","N"," ","f±´iΩt","MS"," ",690
+"feet high","VA55B","234(*)","K","Y"," ","fiΩ∫t$hµ±øΩ","MS","AUX",690
+"feet","VA56A","237","N","N"," ","fiΩæjt","MS"," ",691
+"feet","VA56B","238","N","N"," ","fiΩæjt","MS"," ",692
+"foot","VA57A","239","N","N"," ","fπº{∞}t","MS"," ",693
+"feet","VA57B","240","N","N"," ","fiΩ∫t","MS"," ",694
+"foot","VA58","241(*)","N","N"," ","fπ{∞}t","MS"," ",695
+"foot high","VA58","241(*)","K","Y"," ","fπt$haæ±øΩ","MS","AUX",695
+"feet high","VA59N","N241","K","N"," ","fijt$haæ±øΩ","MS"," ",696
+"feet","VA59A","242","N","N"," ","fiΩit","MS"," ",697
+"feet","VA59B!","243!","N","N"," ","fi∫t","MS"," ",698
+"feet","VA60","244(*)","N","Y"," ","fiΩæit","MS","AUX",699
+"foot high","VA61A","245(*)","K","N"," ","fπt$haæ∫{≤Ωæ}","MS"," ",700
+"feet","VA61B!","246!","N","N"," ","fiΩ∫t","MS"," ",701
+"NA","VA61C"," "," ","N"," "," ","MS"," ",702
+"feet","VA62A","247(*)","N","N"," ","fi∫t","MS"," ",703
+"feet","VA62A","247(*)","N","Y"," ","fiΩit","MS","AUX",703
+"feet","VA62B","248","N","N"," ","fiΩ{i}t","MS"," ",704
+"feet","VA63A","251","N","N"," ","f±iΩt","MS"," ",705
+"feet","VA63B","252","N","N"," ","f±it","MS"," ",706
+"feet","VA64A","255","N","N"," ","fi∫t","MS"," ",707
+"feet","VA64B","256","N","N"," ","f±´it","MS"," ",708
+"foot high","VA65A","257","K","N"," ","fπt$haæ∫{≤æ}","MS"," ",709
+"foot high","VA65B","258","K","N"," ","fπøt$haæ∫{≤æ}","MS"," ",710
+"feet","VA65C!","259!","N","N"," ","fi∫t","MS"," ",711
+"feet","VA66A","261","N","N"," ","fi{j}t","MS"," ",712
+"foot","VA66A","261","N","N"," ","fπø{∞}t","MS"," ",712
+"foot high","VA66B","262","K","N"," ","fπº{∞}t","MS"," ",713
+"feet","VA67A","267","N","N"," ","f±´it","MS"," ",714
+"feet","VA67B","268","N","N"," ","f±´iΩt","MS"," ",715
+"foot","VA68A","269","N","N"," ","fπø{∞}t","MS"," ",716
+"foot","VA68B","270","N","N"," ","fπº{∞}t","MS"," ",717
+"feet","VA69A","273","N","N"," ","f±´iΩt","MS"," ",718
+"feet","VA69B","274","N","N"," ","fiΩ{i}t","MS"," ",719
+"foot high","VA70A","275","K","N"," ","fπøt$ha∫{≤æ}","MS"," ",720
+"feet","VA70B","276","N","N"," ","f±´jt","MS"," ",721
+"feet","VA71A","285","N","N"," ","fiΩit","MS"," ",722
+"feet","VA71B","286","N","N"," ","f±´iΩt","MS"," ",723
+"feet high","VA72A","287","K","N"," ","fi∫t$hµ∫{∞º}","MS"," ",724
+"foot","VA72B","288","N","N"," ","fπø:{∞}t","MS"," ",725
+"foot","VA73","291","N","N"," ","fπø{∞}t","MS"," ",726
+"feet","VA74A","293","N","N"," ","fiΩjt","MS"," ",727
+"feet","VA74B!","294!","N","N"," ","f±´it","MS"," ",728
+"foot","VA75A","297","N","N"," ","fπø{∞}t","MS"," ",729
+"feet","VA75B","298","N","N"," ","f±´iΩt","MS"," ",730
+"foot","NC1","303","N","N"," ","fπ{∞}t","MS"," ",731
+"foot high","NC2A","301","K","Y"," ","fπt$hµ∫±ø","MS","AUX2",732
+"feet","NC2B","304","N","N"," ","f±´it","MS"," ",733
+"feet","NC3A","305","N","N"," ","f±´jÁt","MS"," ",734
+"feet","NC3B","306","N","N"," ","fiΩ{i}t","MS"," ",735
+"foot","NC4A","307","N","N"," ","fπ{∞}t","MS"," ",736
+"feet","NC4B","308","N","N"," ","fit","MS"," ",737
+"feet","NC5A","309","N","N"," ","fiΩit","MS"," ",738
+"feet","NC5B","310","N","N"," ","f±´i´t","MS"," ",739
+"feet","NC6!","311!","N","N"," ","fiΩjt","MS"," ",740
+"feet","NC7A","315(*)","N","Y"," ","fiΩit","MS","AUX",741
+"feet","NC7B","316","N","N"," ","f±´jt","MS"," ",742
+"foot","NC8N","N317","N","N"," ","fπ{∞}t","MS"," ",743
+"feet","NC8A","317","N","N"," ","fiΩit","MS"," ",744
+"feet","NC8B","318(*)","N","N"," ","fii´t","MS"," ",745
+"foot","NC8B","318(*)","N","N"," ","fπ{∞}t","MS","CNV",745
+"feet","NC8B","318(*)","N","Y"," ","fiΩæit","MS","AUX",745
+"feet","NC9A","319","N","N"," ","f±´it","MS"," ",746
+"feet","NC9B","320","N","N"," ","fiΩit","MS"," ",747
+"feet","NC10A","321","N","N"," ","fiΩæ{iΩ}t","MS"," ",748
+"foot","NC10A","321","N","N","rare","fπt","MS"," ",748
+"foot high","NC10B","323","K","N"," ","fπø∫{∞}t$hµæ∫±øΩ","MS"," ",749
+"feet","NC10C","322","N","N"," ","fiΩ{i}t","MS"," ",750
+"foot high","NC10C","322","K","Y"," ","fπ{∞}t$hµ∫≤´æ","MS","HRD",750
+"feet","NC11A","325","N","N"," ","f±Ωæit","MS"," ",751
+"feet","NC11B","326","N","N"," ","f±´it","MS"," ",752
+"feet","NC12A","327(*)","N","N"," ","f±´iΩt","MS"," ",753
+"feet","NC12B","328","N","N"," ","fiΩjt","MS"," ",754
+"foot high","NC13A","329","K","N"," ","fπ{∞}t","MS"," ",755
+"feet","NC13B","330(*)","N","N"," ","f±iΩt","MS"," ",756
+"foot","NC13B","330(*)","N","Y"," ","fπ{∞}t","MS","AUX",756
+"foot","NC14N","N331","N","N"," ","fπ{∞}t","MS"," ",757
+"feet","NC14A","331","N","N"," ","f±∫iΩt","MS"," ",758
+"NR","NC14B","332"," ","N"," "," ","MS"," ",759
+"feet","NC14C!","333!","N","N"," ","fi´æit","MS"," ",760
+"foot","NC15A","335(*)","N","N"," ","fπ{∞}t","MS"," ",761
+"feet","NC15B","336","N","N"," ","fiΩæit","MS"," ",762
+"feet","NC15C"," ","N","N"," ","fiΩit","MS"," ",763
+"foot","NC16A","339(*)","N","N"," ","fπ{∞}t","MS"," ",764
+"feet","NC16B","340","N","N"," ","fiΩæit","MS"," ",765
+"feet","NC17A","337","N","N"," ","f±´iæt","MS"," ",766
+"feet","NC17B","338","N","N"," ","f±´iΩt","MS"," ",767
+"foot","NC18A","341","N","N"," ","fπ{∞}t","MS"," ",768
+"feet","NC18B","342","N","N"," ","fi∫t","MS"," ",769
+"foot","NC19A","343","N","N"," ","fπ{∞}t","MS"," ",770
+"ever how many they sawed made","NC19A","343","S","N"," ","Â≤v¥$ıh·u$ım≤n±ø$ı‰eΩ±ø$Âs∑:d$ımeΩ±ød","MS","CNV/RN1",770
+"four thousand feet","NC19A","343"," "," "," ","Âfo∫¥$ı˘∞´∫πzn$ıfi´∫t","MS","RN2",770
+"feet","NC19B","344","N","N"," ","f±´iΩt","MS"," ",771
+"foot high","NC20A","345","K","N"," ","fπºt$hﬁº∫±øΩ","MS"," ",772
+"feet","NC20B","346a","N","N"," ","f±´it","MS"," ",773
+"foot high","NC20C","346b","K","N"," ","fπ{∞}t","MS"," ",774
+"foot high","NC21A","347","K","N"," ","fπ{∞}t","MS"," ",775
+"feet","NC21B","348","N","N"," ","fiΩit","MS"," ",776
+"foot high","NC22A","349","K","N"," ","fπt$hµº∫{≤æ}","MS"," ",777
+"feet","NC22B","349b","N","N"," ","fiΩæit","MS"," ",778
+"feet","NC23A","351a","N","N"," ","fiΩæit","MS"," ",779
+"feet","NC23B","351b(*)","N","N"," ","fiæit","MS"," ",780
+"feet","NC23B","351b(*)","N","Y"," ","fi∫t","MS","AUX",780
+"feet","NC23C!","351c!","N","N"," ","fi∫t","MS"," ",781
+"feet","NC23D!","351d!","N","N"," ","fiæ{j}t","MS"," ",782
+"feet","NC24N","N352","N","N"," ","fit","MS"," ",783
+"feet","NC24A","352a","N","N"," ","fi´t","MS"," ",784
+"feet","NC24B","352b","N","N"," ","fi˛∫t","MS"," ",785
+"feet high","NC25N","N353","K","N"," ","fit$hµ∫{±øæ}","MS"," ",786
+"feet","NC25A","353","N","N"," ","fiΩæ{j}t","MS"," ",787
+"foot high","NC25B","354","K","N"," ","fπt$hµº{±øΩ}","MS"," ",788
+"foot high","NC26A","355a","K","N"," ","fπ{∞}t","MS"," ",789
+"feet","NC26B","355b","N","N"," ","f±´iΩt","MS"," ",790
+"feet","NC26C!","356!","N","N"," ","fiΩæit","MS"," ",791
+"foot","NC27A","357","N","N"," ","fπ{∞}t","MS"," ",792
+"feet","NC27B","258","N","N"," ","fi∫t","MS"," ",793
+"foot","NC28A","361","N","N"," ","fπΩ∫{∞}t","MS"," ",794
+"feet","NC28B","361b","N","N"," ","fiæjt","MS"," ",795
+"feet","NC28C","362","N","N"," ","fiæ∫t","MS"," ",796
+"feet high","NC29A","363(*)","K","N"," ","fiΩt$haæ∫±øΩ","MS"," ",797
+"feet high","NC29A","363(*)","K","Y"," ","fit$hµæ±ø","MS","AUX",797
+"feet","NC29B","364","N","N"," ","f±´ºit","MS"," ",798
+"feet","NC30A","365","N","N"," ","fi∫t","MS"," ",799
+"feet","NC30B","366","N","N"," ","f±›´i›Ωt","MS"," ",800
+"feet","NC31A","367","N","N"," ","f±›´i›Ωt","MS"," ",801
+"foot","NC31B","368","N","N"," ","fπ{∞}t","MS"," ",802
+"feet high","NC32A","369","K","N"," ","fi∫t$haæ∫{≤æ}","MS"," ",803
+"feet","NC32B!","370!","N","N"," ","fiΩit","MS"," ",804
+"foot","NC33A","373","N","N"," ","fπ´º{∞}t","MS"," ",805
+"foot","NC33B","374","N","N"," ","fπîº∫{∞}t","MS"," ",806
+"feet","NC34A","375","N","N"," ","fiΩit","MS"," ",807
+"foot","NC34B","376","N","N"," ","fπ{∞}t","MS"," ",808
+"feet high","NC35A","377","K","N"," ","fit$ha∫{≤æ}","MS"," ",809
+"foot","NC35A","377","N","N"," ","fπt","MS"," ",809
+"feet","NC35B","378","N","N"," ","fi∫t","MS"," ",810
+"feet","NC36N","N381","N","N"," ","fi´∫t","MS"," ",811
+"foot","NC36A","381","N","N"," ","fπ{∞}t","MS"," ",812
+"feet","NC36B","382","N","N"," ","fiΩæit","MS"," ",813
+"feet","NC37A","383","N","N"," ","f±›´i›t","MS"," ",814
+"feet","NC37B","384","N","N"," ","f±´iΩt","MS"," ",815
+"foot","NC38N","N385","N","N"," ","fπ{∞}t","MS"," ",816
+"foot","NC38A","385","N","N"," ","fπ{∞}t","MS"," ",817
+"feet","NC38B","386","N","N"," ","f±´i´æt","MS"," ",818
+"feet","NC38B","386","N","N"," ","f±´jt","MS"," ",818
+"feet","NC39A","389","N","N"," ","f±´iΩt","MS"," ",819
+"feet","NC39B!","390!","N","N"," ","fi∫t","MS"," ",820
+"foot high","NC40A","391","K","N"," ","fπt$haæ∫{≤æ}","MS"," ",821
+"feet","NC40B","392","N","N"," ","fiΩæjt","MS"," ",822
+"feet","NC41!","393!","N","N"," ","fiΩit","MS"," ",823
+"feet","NC42A","403","N","N"," ","fiæ{j}t","MS"," ",824
+"feet","NC42B","404(*)","N","N"," ","fiΩjt","MS"," ",825
+"feet","NC42B","404(*)","N","Y"," ","f±´æit","MS","AUX",825
+"feet","NC43A","397","N","N"," ","fiΩjt","MS"," ",826
+"foot","NC43B","398","N","N"," ","fπ{∞}t","MS"," ",827
+"foot","NC44","410(*)","N","N"," ","fπ{∞}t","MS"," ",828
+"foot","NC45A","409(*)","N","N"," ","fπ{∞}t","MS"," ",829
+"feet","NC45B"," ","N","N"," ","fiΩ∫t","MS"," ",830
+"feet","NC46A","411","N","N"," ","fiΩ{j}t","MS"," ",831
+"foot","NC46B","412","N","N"," ","fπ{∞}t","MS"," ",832
+"feet","NC46C!","412b!","N","N"," ","fiΩit","MS"," ",833
+"foot high","NC47","413","K","N"," ","fπ{∞}t$haæ∫{∞º}","MS"," ",834
+"feet","NC48","418","N","N"," ","fiΩæit","MS"," ",835
+"feet","NC49","421","N","N"," ","fi∫{jà}t","MS"," ",836
+"feet","NC50A","422","N","N"," ","fiΩjt","MS"," ",837
+"feet","NC50B!","423!","N","Y","[{j}]: doubtful","fiæ{j}t","MS","DDT",838
+"foot","NC51A","427","N","N"," ","fπ∫{∞}t","MS"," ",839
+"feet","NC51B","428","N","N"," ","fiæ{j}t","MS"," ",840
+"foot","NC52N","N429","N","N"," ","fπ´æ{∞}t","MS"," ",841
+"foot","NC52A","429","N","N"," ","fπ{∞}t","MS"," ",842
+"feet","NC52B","430","N","N"," ","fi´æjt","MS"," ",843
+"feet","NC53A","431","N","N"," ","fiΩ∫t","MS"," ",844
+"feet","NC53B","432","N","N"," ","fiæit","MS"," ",845
+"foot high","NC54A","433","K","N"," ","fπΩº{∞}t$haæ∫{∞º}","MS"," ",846
+"feet","NC54B","434","N","N"," ","fiΩæjt","MS"," ",847
+"feet","NC55","435","N","N"," ","fi∫t","MS"," ",848
+"feet","NC56A","436","N","N"," ","fi∫t","MS"," ",849
+"feet","NC56B!","437!","N","N"," ","fi∫t","MS"," ",850
+"feet","NC57A","438a","N","N"," ","fiΩæit","MS"," ",851
+"feet","NC57B","438b","N","N"," ","f±´it","MS"," ",852
+"foot","NC58A","439","N","N"," ","fπ{∞}t","MS"," ",853
+"foot","NC58B","440","N","N"," ","fπº{∞}t","MS"," ",854
+"foot high","NC59","441(*)","K","N"," ","fπt$hµ{≤æ}","MS"," ",855
+"feet","NC60","442","N","Y","[{j}]: doubtful","fiΩæ{j}t","MS","DDT",856
+"feet","NC61A","443","N","N"," ","fijt","MS"," ",857
+"foot","NC61B","444","N","N"," ","fπ{∞}t","MS"," ",858
+"feet","NC62A","447","N","N"," ","fi{j}t","MS"," ",859
+"feet","NC62B","448","N","N"," ","fiΩ{i}t","MS"," ",860
+"foot","NC63A","449","N","N"," ","fπ{∞}t","MS"," ",861
+"feet","NC63B","450","N","N"," ","fiΩit","MS"," ",862
+"feet","NC64A","453","N","N"," ","f±´iΩt","MS"," ",863
+"feet","NC64B","454","N","N"," ","fi∫t","MS"," ",864
+"foot","NC65A","461","N","N"," ","fπ{∞}t","MS"," ",865
+"feet high","NC65B","462","K","N"," ","fijt$hµ∫{≤æ}","MS"," ",866
+"foot","NC65B","462","N","Y"," ","fπø{∞}t","MS","SUG",866
+"feet","NC66A","465","N","N"," ","fiΩjt","MS"," ",867
+"feet","NC66B","466","N","N"," ","fi∫{j}t","MS"," ",868
+"feet","NC67A","469","N","N"," ","f±iΩt","MS"," ",869
+"feet high","NC67B","470","K","N"," ","fijt$hµº∫{∞}","MS"," ",870
+"feet","NC68A","473","N","N"," ","f±Ωit","MS"," ",871
+"feet","NC68B","474","N","N"," ","f±iΩt","MS"," ",872
+"feet","NC69A","477","N","N"," ","fiΩjt","MS"," ",873
+"feet high","NC69B","478","K","N"," ","fi{j}t$haæ∫{∞}","MS"," ",874
+"foot high","NC70A","479","K","N"," ","fπ∞t","MS"," ",875
+"feet","NC70B","480","N","N"," ","f±´it","MS"," ",876
+"feet","NC71A","481","N","N"," ","fijt","MS"," ",877
+"feet","NC71B","482","N","N"," ","fi{j}t","MS"," ",878
+"feet","NC71C!","483!","N","N"," ","fiΩit","MS"," ",879
+"feet high","NC72A","487","K","N"," ","fijt$haæ∫{≤æ}","MS"," ",880
+"feet","NC72B","488","N","N"," ","fiΩit","MS"," ",881
+"foot","NC73A","491","N","N"," ","fπ{∞}t","MS"," ",882
+"feet high","NC73B","492","K","N"," ","fijt$hµ∫{≤æ}","MS"," ",883
+"feet","NC74A","493","N","N"," ","fiΩjt","MS"," ",884
+"feet","NC74B","494","N","N"," ","fiΩit","MS"," ",885
+"feet","NC75A","495","N","Y","[{j}]: doubtful","fiΩ{j}t","MS","DDT",886
+"feet","NC75B","496","N","N"," ","f±´it","MS"," ",887
+"foot","SC1A","203.1","N","N"," ","fπ{∞}t","MS"," ",888
+"feet","SC1B","203.2","N","N"," ","fiæit","MS"," ",889
+"feet","SC2A","204.1(*)","N","N"," ","fi∫t","MS"," ",890
+"feet","SC2B","204.2","N","N"," ","fit","MS"," ",891
+"NR","SC2C"," "," ","N"," "," ","MS"," ",892
+"foot high","SC3A","205.1","K","N"," ","fπt$hµº∫{±øΩ}","MS"," ",893
+"foot","SC3B","205.2","N","N"," ","fπø´æ{∞}t","MS","CNV",894
+"feet high","SC3C!","205.3!","K","N"," ","fi∫{j}t$hµº∫±","MS"," ",895
+"feet in the body","SC4A","206.1","K","N"," ","fi∫t$±øºn$dë±ø´º$bµæ∫{∞}d±æiæ","MS"," ",896
+"feet","SC4A","206.1","N","N"," ","fi∫{±ø}t","MS","CNV",896
+"feet high","SC4B","206.2","K","N"," ","fi∫{±ø}t$hµæ∫±ø","MS"," ",897
+"feet","SC4C","206.3","N","N"," ","fi∫{±ø}t","MS"," ",898
+"feet high","SC5A","207.1","K","N"," ","fi∫{±ø}t$hµæ∫±ø","MS"," ",899
+"foot deep","SC5A","207.1","K","N"," ","fπºd$di∫p","MS","SIC",899
+"feet long","SC5B","207.2","K","N"," ","fi∫{±øt}$l∑´º∫{∞}Ó","MS"," ",900
+"feet tall","SC5B","207.2","K","N"," ","fi∫t$t`∑º∫{∞}l","MS","CNV",900
+"foot long","SC5B","207.2","K","N"," ","fπø´{∞}t$l∑º∫{∞}Ó","MS","CNV",900
+"feet","SC5C","207.2A","N","N"," ","fi∫{±ø}t","MS","CNV",901
+"feet high","SC5D!","207.3!","K","N"," ","fi∫{±ø}t$hµ∫±ø","MS"," ",902
+"feet","SC6N","N208","N","N"," ","fi∫'t","MS"," ",903
+"foot high","SC6N","N208","K","N"," ","fπº{∞}t$hµ∫±ø","MS","CNV",903
+"foot","SC6A","208.1","N","Y"," ","fπºt","MS","SUG",904
+"feet high","SC6A","208.1","K","N"," ","fit$ha±ø","MS"," ",904
+"foot high","SC6B","208.2(*)","K","N"," ","fπºt$hﬁ∫±ø","MS"," ",905
+"feet high","SC6B","208.2(*)","K","N"," ","fi∫t$l∑´{∞}Ó","MS","CNV",905
+"feet","SC6C!","208.3!","N","N"," ","fi∫t$hﬁ∫±øº","MS"," ",906
+"feet","SC6C!","208.3!","N","N"," ","fi∫t","MS","CNV",906
+"foot tall","SC6D"," ","K","N"," ","fπº{∞}t$t`∑´º∫{∞}l","MS","CNV",907
+"feet","SC7N","N209","N","N"," ","fi∫t","MS"," ",908
+"feet","SC7N","N209","N","N"," ","fiΩ{∞}t","MS","CNV",908
+"feet","SC7A","209.1","N","N"," ","fi∫t","MS"," ",909
+"feet high","SC7A","209.1","K","N"," ","fi∫t$Âhµ∫±ø","MS"," ",909
+"foot","SC7A","209.1","N","N"," ","fπº{∞}t","MS","CNV",909
+"feet high","SC7B","209.2","K","N"," ","fi∫t$hµ∫j∞æ","MS"," ",910
+"feet tall","SC7B","209.2","K","N"," ","fiæt$t`∑º∫{∞}l","MS","CNV",910
+"feet","SC7C!","209.3!","N","N"," ","fi∫{j}t","MS"," ",911
+"feet","SC7D!","209.4!","N","N"," ","fi∫{j}t","MS"," ",912
+"foot","SC7D!","209.4!","N","Y","""po' buckra¢","fπº{∞}t","MS","HRD",912
+"feet long","SC8A","210.1","K","N"," ","fi∫t$l∑´∫{∞}Ó","MS"," ",913
+"foot long","SC8A","210.1","K","N"," ","fπø´æ{∞}t$l∑Ω∫{∞}Ó","MS","CNV",913
+"foot","SC8A","210.1","N","N"," ","fπø´æ{∞}t","MS","CNV",913
+"feet high","SC8B","210.2","K","N"," ","fi∫t$hﬁº∫±ø","MS"," ",914
+"foot high","SC8C","210.3","K","N"," ","fπø´æ{∞}t$hµ´∫±ø","MS"," ",915
+"feet long","SC8C","210.3","K","N"," ","fi∫t$l∑Ω∫{∞}Ó","MS","CNV",915
+"feet high","SC9A","211.1","K","N"," ","fi∫t$hµæ∫±ø","MS"," ",916
+"feet","SC9B","211.2","N","N"," ","fi∫t","MS","CNV",917
+"foot","SC9B","211.2","N","N"," ","fπø´æ{∞}t","MS","CNV",917
+"feet high","SC9C!","211.3!","K","N"," ","fi∫t$hµ∫±ø","MS"," ",918
+"feet square","SC9D!","211.4!","K","N"," ","fi∫t$skwè≤´∫∞","MS"," ",919
+"feet long","SC9D!","211.4!","K","N"," ","fi∫t$l∑Ωº∫{∞}Ó","MS","CNV",919
+"feet","SC10A","212.1","N","N"," ","fi∫±øt","MS"," ",920
+"feet high","SC10B!","212.2!","K","N"," ","fi∫t$hﬁ∫±æ","MS"," ",921
+"feet high","SC10C!","212.3!","K","N"," ","fi∫t$hµ∫±ø","MS"," ",922
+"feet high","SC11N","N213","K","N"," ","fit$hµº±ø","MS"," ",923
+"feet","SC11M!","2n213!","N","N"," ","fiΩ∫t","MS"," ",924
+"feet tall","SC11M!","2n213!","K","N"," ","fi∫{±ø}t$t`∑´∫{∞}l","MS","CNV",924
+"feet","SC11A","213.1(*)","N","N"," ","fi∫jt","MS","CNV",925
+"foot high","SC11A","213.1(*)","K","Y"," ","fπt$ha±ø","MS","AUX",925
+"feet","SC11B","213.11","N","N"," ","fi∫t","MS"," ",926
+"foot","SC11C","213.2","N","N"," ","fπºt","MS"," ",927
+"feet","SC11D","213.3","N","N"," ","fi∫i´t","MS"," ",928
+"foot high","SC11D","213.3","K","Y"," ","fπºt$ha´æ∫∞","MS","HRD",928
+"foot","SC11E","213.4","N","N"," ","fπºt","MS","CNV",929
+"feet","SC11E","213.4","N","N"," ","fi∫t","MS"," ",929
+"feet high","SC11F","213.5","K","N"," ","fi∫i´t$hµº∫±ø","MS"," ",930
+"feet in height","SC11F","213.5","K","N"," ","fi∫i´t$n$h•Ωº±øt","MS"," ",930
+"feet","SC11G!","213.7!","N","N"," ","fiæ∫t","MS"," ",931
+"feet","SC11H!","213.8!","N","N"," ","fi∫{±ø}t","MS"," ",932
+"feet high","SC11I!","213.9!","K","Y"," ","fi∫t$haæ∫±øΩ","MS","AUX",933
+"feet","SC11J!","213.10!","N","N"," ","fi∫t","MS","CNV",934
+"feet high","SC11J!","213.10!","K","N"," ","fi∫t$ha´æ∫∞","MS"," ",934
+"feet","SC12A","214.1","N","N"," ","fi∫{j}t","MS","CNV",935
+"foot deep","SC12A","214.1","K","N"," ","fπøæ{∞}t$di∫p","MS","CNV",935
+"feet","SC12A","214.1","N","N"," ","fi∫t","MS","CNV",935
+"foot wide","SC12A","214.1","K","N","old time:  few sealed [ceilings]","fπø´æ∫{∞}t$wµ∫{±ø}d","MS"," ",935
+"foot high","SC12A","214.1","K","N"," ","fπø´æ{∞}t$hﬁº∫±ø","MS","CNV",935
+"foot high","SC12B","214.2","K","N"," ","fπt$hµæ∫±ø","MS"," ",936
+"feet high","SC13","213.6","K","N"," ","fi∫t$hµ∫±ø","MS"," ",937
+"feet high","SC14A","215.1","K","N"," ","fit$ha±ø","MS"," ",938
+"feet high","SC14B","215.2","K","N"," ","fi∫t$haº∫±øº","MS"," ",939
+"feet high","SC15A","216.1","K","N"," ","fi∫t$hﬁº∫±ø","MS"," ",940
+"feet apart","SC15A","216.1","K","N"," ","fit$∞pµæ∫{∞}t","MS","CNV",940
+"feet","SC15B","216.2","N","N"," ","fi∫t","MS"," ",941
+"feet wide","SC15C","216.3","K","N"," ","fi∫t$wµ´º∫±ød","MS"," ",942
+"foot wide","SC16N","N217","K","N"," ","fπ´º{∞}t$wµ∫±ød","MS","CNV",943
+"foot and a half high","SC16N","N217","K","N"," ","fπº{∞´}t$n$∞$h·{∞}f$hﬁ∫±øº","MS"," ",943
+"NR","SC16","217.1"," ","N"," "," ","MS"," ",944
+"foot wide","SC17A","218.1","K","N"," ","fπº{∞}t$wµ∫±ød","MS"," ",945
+"feet long","SC17A","218.1","K","N"," ","fi∫t$l∑∫{∞}Ó","MS"," ",945
+"foot high","SC17B","218.2","K","N"," ","fπº{∞}t$hµæ∫±ø","MS","CNV",946
+"feet long","SC17C","218.3","K","N"," ","fi∫t$l∑∫{∞}Ó","MS"," ",947
+"feet high","SC17C","218.3","K","N"," ","fi∫t$hµæ∫±ø","MS","CNV",947
+"feet high","SC17D","218.4","K","N"," ","fi∫t$hµ∫±ø","MS"," ",948
+"feet high","SC18N","N219","K","N"," ","f±æiæt$hµ´∫∞","MS"," ",949
+"feet","SC18A","219.1","N","N","wide","fi∫t","MS","CNV",950
+"foot","SC18A","219.1","N","N","deep","fπºt","MS","CNV",950
+"foot","SC18B","219.2","N","N","deep","fπºt","MS","CNV",951
+"feet","SC18B","219.2","N","N","wide","fi∫t","MS","CNV",951
+"feet high","SC18C!","219.3(*)!","K","N"," ","fi∫t$hµ∫±ø","MS"," ",952
+"NR","SC18D!"," "," ","N"," "," ","MS"," ",953
+"feet high","SC19N","N220","K","N"," ","fi∫t$h•Ω∫±øΩ","MS"," ",954
+"feet","SC19A","220.1","N","N"," ","fi∫{t}","MS"," ",955
+"feet high","SC19B","220.4","K","N"," ","fiæ∫t$ha´æ∫±ø","MS"," ",956
+"feet","SC19C","220.2(*)","N","N"," ","fi∫t","MS"," ",957
+"feet high","SC19D!","220.3!","K","N"," ","fi∫t$hµ∫±ø","MS"," ",958
+"feet","SC19D!","220.3!","N","N"," ","fi∫t","MS","CNV",958
+"foot","SC19D!","220.3!","N","N"," ","fπºt","MS","CNV",958
+"feet high","SC19E!"," ","K","N"," ","fi´∫t$ha´∫∞","MS"," ",959
+"feet high","SC20A","221.1","K","N"," ","fi∫{j}t$hﬁº∫±ø","MS"," ",960
+"feet","SC20A","221.1","N","N"," ","fi∫{j}t","MS","CNV",960
+"feet high","SC20B","221.2","K","N"," ","fi∫{j}t$hµæ∫±ø","MS"," ",961
+"feet high","SC20C","221.3","K","N"," ","fi∫{j}t$ha´æ∫{∞}","MS"," ",962
+"feet high","SC20D!","221.4!","K","N"," ","fi∫{j}t$ha´æ∫{∞}","MS"," ",963
+"feet","SC21A","222.1","N","N"," ","fiæit","MS"," ",964
+"foot","SC21B","222.2","N","N"," ","fπº∫{∞}t","MS"," ",965
+"feet high","SC22N","N223","K","N"," ","fiΩt$haæ∫±øΩ","MS"," ",966
+"feet high","SC22A","223.1","K","N"," ","fi∫±øt$ha´æ∫{∞}","MS"," ",967
+"feet high","SC22B","223.2","K","N"," ","fit$ha∫±øΩ","MS"," ",968
+"foot ceilings","SC22C!","223.3!","O","N"," ","ıfπøæ{∞}t$Âsi∫lç±øºÓz{zè}","MS"," ",969
+"feet","SC22C!","223.3!","N","N"," ","fi∫{±ø}t","MS"," ",969
+"feet high","SC23A","224.1","K","N"," ","fi∫{±ø}t$Âha´æ∫{∞}","MS"," ",970
+"feet","SC23A","224.1","N","N"," ","fi∫{±ø}t","MS","CNV",970
+"foot","SC23B","224.2","N","N"," ","fπîΩæ{∞}t","MS"," ",971
+"foot","SC23B","224.2","N","N"," ","fπæ{∞}t","MS","CNV",971
+"feet high","SC23C","224.3","K","N"," ","fi∫t$haæ∫{∞}","MS"," ",972
+"feet","SC23D","224.4","N","N"," ","fi∫t","MS","CNV",973
+"feet high","SC23D","224.4","K","N"," ","fi∫{±ø}t$ha´æ∫{∞}","MS"," ",973
+"feet","SC23E!","224.5!","N","N"," ","fi∫t","MS"," ",974
+"feet high","SC24N","N225","K","N"," ","fi∫{±ø}t$hµ∫±ø","MS"," ",975
+"foot","SC24A","225.1","N","N"," ","fπt","MS","CNV",976
+"foot long","SC24A","225.1","K","N"," ","fπt$l∑oΩÓ","MS","CNV",976
+"foot deep","SC24A","225.1","K","N"," ","fπt$di∫p","MS","CNV",976
+"foot","SC24B","225.11","N","N"," ","fπº{∞}t","MS"," ",977
+"feet","SC24B","225.11","N","Y"," ","fi∫±øt","MS","COR",977
+"NR","SC24C","225.2"," ","N"," "," ","MS"," ",978
+"feet high","SC24D!","225.3!","K","N"," ","fiΩ{j}t$hµº∫±ø","MS"," ",979
+"feet","SC24D!","225.3!","N","N"," ","fi∫{±ø}t","MS","CNV",979
+"foot high","SC25A","226.1","K","N"," ","fπt$hµæ∫±øΩ","MS"," ",980
+"feet high","SC25B","226.2","K","N"," ","fi∫t$ha´æ∫{∞}","MS","CNV",981
+"feet","SC25C!","226.3!","N","N"," ","fi∫t","MS"," ",982
+"feet high","SC26A","227.1","K","N"," ","fi∫t$haæ∫∞´","MS"," ",983
+"feet deep","SC26A","227.1","K","N"," ","fi∫t$di∫p","MS","CNV",983
+"foot","SC26A","227.1","N","N","(high","fπºd","MS","CNV",983
+"feet","SC26B!","227.2!","N","N"," ","fi∫t","MS"," ",984
+"feet high","SC26B!","227.2!","K","N"," ","fi∫t$ha´æ∫{∞}","MS","CNV",984
+"feet high","SC27A","228.1","K","N"," ","fi∫t$hµº∫±ø","MS"," ",985
+"feet","SC27B","228.2","N","N"," ","fiæ∫±øt","MS"," ",986
+"foot","SC28A","229.1","N","N"," ","fπºt","MS","CNV",987
+"feet high","SC28A","229.1","K","N"," ","fi∫t$ha´æ∫{∞}","MS"," ",987
+"feet high","SC28B","217.2","K","N"," ","fi∫t$ha´æ∫{∞}","MS"," ",988
+"feet","SC28C","229.2","N","N"," ","fi∫t","MS"," ",989
+"feet","SC28D","229.3","N","N"," ","fi∫t","MS"," ",990
+"foot high","SC29A","230.2(*)","K","N"," ","fπ›ºt$hµ´º∫{±ø}","MS"," ",991
+"foot high","SC29B","230.1(*)","K","N"," ","fπº{∞}t$ha´∫±ø","MS"," ",992
+"foot","SC29B","230.1(*)","N","N"," ","fπº{∞}t","MS","CNV",992
+"foot","SC29B","230.1(*)","N","N"," ","fπºt","MS","CNV",992
+"foot long","SC29B","230.1(*)","K","N"," ","fπºt$l∂{∞}Ó","MS","CNV",992
+"height","SC29B","230.1(*)","N","Y"," ","haæ∫±øt˘","MS","INA/CNV",992
+"foot","SC29C","230.3","N","N"," ","fπºt","MS","CNV",993
+"feet","SC29C","230.3","N","N"," ","fi∫t","MS","CNV",993
+"foot long","SC29C","230.3","K","N"," ","fπºt$l∑Ω∫{∞}Ó","MS","CNV",993
+"feet high","SC29D"," ","K","N"," ","fi∫t$ha´æ∫{∞}","MS"," ",994
+"feet high","SC29E"," ","K","N"," ","fi∫t$hµ´∫±ø›","MS"," ",995
+"feet high","SC30A","231.1","K","N"," ","fijt$haæ∫{eæ}","MS"," ",996
+"feet","SC30B","231.2","N","N"," ","fi∫jt","MS","CNV",997
+"feet wide","SC30B","231.2","K","N"," ","fi∫jt$waæ∫{∞}d","MS"," ",997
+"feet high","SC30B","231.2","K","N"," ","fi∫jt$ha´æ∫{∞}","MS","CNV",997
+"feet","SC30C!","231.3!","N","N"," ","fi∫jt","MS"," ",998
+"foot","SC31A","232.1","N","N"," ","fπºt","MS"," ",999
+"feet wide","SC31B","232.2","K","N"," ","fi∫t$wa´æ∫{∞}d","MS"," ",1000
+"feet","SC32A","233.1","N","N"," ","fi∫jt","MS"," ",1001
+"feet high","SC32A","233.1","K","N"," ","fi∫{j}t$ha´æ∫{∞}","MS"," ",1001
+"feet","SC32A","233.1","N","N"," ","fi∫{j}t","MS"," ",1001
+"NR","SC32B","233.2"," ","N"," "," ","MS"," ",1002
+"feet high","SC32C","233.3","K","N"," ","fi∫{j}t$ha´æ∫{∞}","MS"," ",1003
+"feet high","SC32D","233.4","K","N"," ","fi∫jt$hµº∫±ø","MS"," ",1004
+"foot high","SC33A","234.1","K","N"," ","fπ{∞}t$haæ∫{∞º}","MS"," ",1005
+"feet","SC33B","234.2","N","N"," ","fi∫{j}t","MS","CNV",1006
+"foot wide","SC33B","234.2","K","N"," ","fπ´º{∞}t$wa´æ∫{∞}d","MS","CNV",1006
+"feet high","SC34A","235.1","K","N"," ","ıfi∫jt$Âha´æ{∞}","MS"," ",1007
+"feet high","SC34B","235.2","K","N"," ","fi∫{j}t$ha´æ∫{∞}","MS"," ",1008
+"foot long","SC34B","235.2","K","N"," ","fπº{∞}t$l∂´∫∑Ó","MS","CNV",1008
+"feet high","SC34C","235.3","K","N"," ","fi∫jt$ha´æ∫{∞}","MS"," ",1009
+"foot high","SC35A","236.1","K","N"," ","fπº{∞}t$ha´æ∫{∞}","MS","CNV",1010
+"NA","SC35B","236.2"," ","N"," "," ","MS"," ",1011
+"foot","SC35C","236.3(*)","N","N"," ","fπt","MS"," ",1012
+"feet high","SC35D"," ","K","N"," ","fêi∫jt$ha´æ∫{∞}","MS"," ",1013
+"feet","SC35E!"," ","N","N"," ","fi∫jt","MS"," ",1014
+"feet high","SC35E!"," ","K","N"," ","fi∫jt$ha´æ∫{∞}","MS"," ",1014
+"feet","SC35E!"," ","N","N"," ","fi∫{j}t","MS","CNV",1014
+"feet","SC36A","237.1","N","N"," ","fi∫jt","MS"," ",1015
+"feet","SC36B","237.2","N","N","(tall","fi∫jt","MS"," ",1016
+"feet","SC36C","237.3","N","N"," ","fi∫jt","MS","CNV",1017
+"feet","SC36C","237.3","N","N"," ","fi∫i´t","MS"," ",1017
+"foot","SC36C","237.3","N","N"," ","fπºt","MS","CNV",1017
+"foot tall","SC36C","237.3","K","N"," ","fπºt$t`∂´∫∑Ï","MS","CNV",1017
+"feet","SC36D!","237.4!","N","N"," ","fi∫{j}t","MS","CNV",1018
+"feet high","SC37","238","K","N"," ","fi∫{j´}t$ha´æ∫{∞}","MS"," ",1019
+"foot","SC38N","N239","N","N"," ","fπøºt","MS"," ",1020
+"foot","SC38A","239.1","N","N"," ","fπºt","MS","CNV",1021
+"feet high","SC38A","239.1","K","N"," ","fi∫jt$ha´æ∫±ø›","MS"," ",1021
+"feet","SC38B","239.2","N","N"," ","fi∫t","MS"," ",1022
+"inches","SC38B","239.2","N","Y"," ","iΩntÛ±øºz","MS","INA/CNV",1022
+"feet","SC38C!","239.3!","N","N"," ","fi∫jt","MS"," ",1023
+"feet high","SC38D!","239.4(*)!","K","N"," ","fi∫jt$ha´æ∫{∞}","MS"," ",1024
+"NA","SC38E!"," "," ","N"," "," ","MS"," ",1025
+"feet","SC39A","240.1","N","N"," ","fi∫jt","MS","CNV",1026
+"inch","SC39A","240.1","N","Y"," ","iøî´ntÛ","MS","INA/CNV",1026
+"feet","SC39B!","240.2!","N","N"," ","fi∫jt","MS"," ",1027
+"feet broad","SC39B!","240.2!","K","N"," ","fi∫jt$bÚ∂´∫∑d","MS","CNV",1027
+"foot broad","SC39B!","240.2!","K","N"," ","fπºt$bÚ∑º∫oºd","MS","CNV",1027
+"foot long","SC39B!","240.2!","K","N"," ","fπºt$l∂´∫∑Ó","MS","CNV",1027
+"feet","SC40A","241.1","N","N"," ","f±it","MS","CNV",1028
+"foot","SC40A","241.1","N","Y"," ","fπ´ºt","MS","AUX/CNV",1028
+"foot square","SC40A","241.1","K","Y"," ","fπ´ºt$skwè·´∞","MS","AUX/CNV",1028
+"feet","SC40B","241.2","N","N"," ","f±it","MS"," ",1029
+"feet","SC40B","241.2","N","N"," ","fiΩit","MS"," ",1029
+"feet high","SC41A","242.1","K","N"," ","fijt$haæ∫{±øΩ}","MS"," ",1030
+"feet high","SC41B","242.2","K","N"," ","fii´t$hµ´∫∞","MS"," ",1031
+"foot high","SC41B","242.2","K","N"," ","fπ´t$hµ´º∫{∞}","MS","CNV",1031
+"foot ceiling","SC41B","242.2","O","N"," ","fπ´ºt$Âs±æil±æÓ","MS","CNV",1031
+"foot","SC41B","242.2","N","N"," ","fπºt","MS","CNV",1031
+"feet","SC41B","242.2","N","N"," ","f±it","MS","CNV",1031
+"feet","SC41B","242.2","N","N"," ","fii´t","MS","CNV",1031
+"feet","SC42N","N243","N","N"," ","fiæi´æt","MS"," ",1032
+"feet high","SC42N","N243","K","N"," ","fiæ∫t$ha´æ∫{∞}","MS"," ",1032
+"feet","SC42N","N243","N","N"," ","fijt","MS","CNV",1032
+"NR","SC42M"," "," ","N"," "," ","MS"," ",1033
+"feet high","SC42A","243.1","K","N"," ","fii´t$hµæ∫","MS"," ",1034
+"foot","SC42A","243.1","N","N"," ","fπºt","MS"," ",1034
+"foot","SC42A","243.1","N","N"," ","fπº{∞}t","MS","CNV",1034
+"foot","SC42A","243.1","N","N"," ","fπ´ºt","MS","CNV",1034
+"foot of water","SC42A","243.1","O","N"," ","fπ´tê$∞$w∂´∑´tê∞","MS","CNV",1034
+"feet","SC42B!","243.2!","N","N"," ","f±´æi´æt","MS"," ",1035
+"feet","SC42C!","243.3!","N","N"," ","f±´it","MS"," ",1036
+"feet high","SC42C!","243.3!","K","N"," ","fi{i´}t$h•∫","MS"," ",1036
+"foot ceiling","SC42C!","243.3!","O","Y"," ","ıfπæt$Âs±{i}l±ø›ºÓ","MS","INA",1036
+"feet high","SC42D!","243.4!","K","N"," ","f±›æ±›´t$ha∫{≤æ}","MS"," ",1037
+"feet high","SC42E!","243.5!","K","N"," ","fi∫t$ha´æ{∞}","MS"," ",1038
+"foot","SC43A","244.1","N","N"," ","fπ´ºt","MS","CNV",1039
+"feet","SC43A","244.1","N","N"," ","fii´t","MS","CNV",1039
+"foot","SC43A","244.1","N","N"," ","fπºt","MS","CNV",1039
+"foot","SC43B","244.2","N","N"," ","fπº{∞}t","MS"," ",1040
+"foot","SC43B","244.2","N","N"," ","fπ´ºt","MS","CNV",1040
+"feet","SC43C","244.3","N","N"," ","fiæ∫i´t","MS"," ",1041
+"feet","SC44A","245.1","N","N"," ","fii´t","MS","CNV",1042
+"feet tall","SC44A","245.1","K","N"," ","fii´t$t†`∂´o","MS"," ",1042
+"feet","SC44B","245.2","N","N"," ","fiæi´t","MS"," ",1043
+"feet","GA1N","N246","N","N"," ","fi∫t","MS"," ",1044
+"feet high","GA1A","246.1(*)","K","N"," ","ıfi∫{±ø}t$haæ∫{±ø}","MS"," ",1045
+"foot high","GA1A","246.1(*)","K","Y"," ","fπt$Âha±ø","MS","AUX2",1045
+"NR","GA1B","246.11"," ","N"," "," ","MS"," ",1046
+"feet","GA1C","246.2","N","N"," ","fi∫{±ø}t","MS","CNV",1047
+"feet high","GA1D","246.3","K","N"," ","fi∫t$hµº∫±ø","MS"," ",1048
+"feet","GA1D","246.3","N","N"," ","fi´∫t","MS","CNV",1048
+"NR","GA1E","246.4"," ","N"," "," ","MS"," ",1049
+"feet high","GA1F!","246.5!","K","N"," ","fit$hµ´∫{≤æ}","MS"," ",1050
+"feet high","GA1G!","246.6!","K","N"," ","fi∫t$ha´æ∫{∞}","MS"," ",1051
+"feet","GA1G!","246.6!","N","N"," ","fi∫{±ø}t","MS","CNV",1051
+"feet","GA1H!","246.7!","N","N"," ","fi∫{∞}t","MS"," ",1052
+"feet","GA1H!","246.7!","N","N"," ","fiæ∫t","MS","CNV",1052
+"feet high","GA2N","N247","K","N"," ","fi∫t$hµ∫±ø","MS"," ",1053
+"foot high","GA2N","N247","K","Y"," ","fπΩt$hµ∫±ø","MS","AUX/CNV",1053
+"foots","GA2N","N247","N","Y"," ","fπºts","MS","AUX/CNV",1053
+"feet high","GA2A","247.1","K","N"," ","fi∫{j}t$hµº∫±ø","MS"," ",1054
+"foot","GA2A","247.1","N","Y","my)","f∏´{∞}t","MS","INA/CNV/SIC",1054
+"foot","GA2B","247.2","N","N"," ","fπºt","MS"," ",1055
+"foot high","GA2B","247.2","K","N"," ","fπºt$hµ∫±ø","MS"," ",1055
+"feet","GA2B","247.2","N","N"," ","fi∫{j}t","MS"," ",1055
+"feet high","GA3A","248.1","K","N"," ","fit$haæ±øΩ","MS"," ",1056
+"foot","GA3B","248.2","N","N"," ","fπºt","MS"," ",1057
+"feet high","GA3B","248.2","K","N"," ","fi∫t$hµ´º∫±ø","MS"," ",1057
+"foot high","GA4N","N249","K","N"," ","fπt$haæ∫≤´æ","MS"," ",1058
+"feet","GA4A","249.1","N","N"," ","fi∫t","MS","CNV",1059
+"feet","GA4B","249.2","N","N"," ","fi∫t","MS","CNV",1060
+"feet","GA4C!","249.3!","N","N"," ","fi∫t$hµ∫±ø","MS"," ",1061
+"feet","GA4C!","249.3!","N","N"," ","fi∫t","MS","CNV",1061
+"feet high","GA5A","250.1","K","N"," ","fi∫t$hµæ∫±ø","MS"," ",1062
+"foot long","GA5A","250.1","K","N"," ","fπ›ºt$l∑´∫{∞ó}Ó","MS","CNV",1062
+"NR","GA5B","250.2"," ","N"," "," ","MS"," ",1063
+"feet","GA5C","250.3","N","N"," ","fi∫t","MS"," ",1064
+"feet deep","GA5D!","250.4!","K","N"," ","fi∫t$di∫{±ø}p","MS"," ",1065
+"feet high","GA5D!","250.4!","K","N"," ","fi∫t${h}ﬁº∫±ø","MS"," ",1065
+"feet","GA5E!","250.5!","N","N"," ","fi∫t","MS"," ",1066
+"feet","GA5E!","250.5!","N","Y"," ","fi∫{±ø}t","MS","AUX/CNV",1066
+"foot wide","GA6A","251.1","K","N"," ","fπº{∞}t$wﬁº∫±ød","MS","CNV",1067
+"feet","GA6A","251.1","N","N"," ","fi∫t","MS"," ",1067
+"foot","GA6A","251.1","N","N"," ","fπº{∞}t","MS","CNV",1067
+"feet high","GA6B!","251.2!","K","N"," ","fi∫t$hµ∫±ø","MS"," ",1068
+"foot long","GA7","256","K","N"," ","fπº{∞}t$l∑º∫{∑´º}Ó","MS","CNV",1069
+"foot high","GA7","256","K","N"," ","fπîº{∞}t$ha´æ∫{∞}","MS"," ",1069
+"foot high","GA8A","257.1","K","N"," ","fπº{∞}t$ha´æ∫{±ø}","MS"," ",1070
+"feet","GA8B","257.2","N","N"," ","fi∫t","MS"," ",1071
+"foot","GA8B","257.2","N","N"," ","fπºt","MS","CNV",1071
+"feet","GA9A","257A.1","N","N"," ","fi{i´}t","MS"," ",1072
+"foot","GA9B","257A.2","N","N"," ","fπt","MS"," ",1073
+"foot","GA9B","257A.2","N","N"," ","fπºt","MS"," ",1073
+"foot high","GA9B","257A.2","K","N"," ","fπºt$ha´æ∫{∞}","MS"," ",1073
+"foot high","GA10A","258.1","K","N"," ","fπt$ha∫±øΩ","MS"," ",1074
+"feet high","GA10B","258.2","K","N"," ","fi∫t$hµæ∫±ø","MS"," ",1075
+"feet high","GA11N","N258A","K","N"," ","fi∫t$ha´æ∫{∞}","MS"," ",1076
+"foot long","GA12A","259.1","K","N"," ","fπºt$l∑º∫{∞}Ó","MS","CNV",1077
+"feet wide","GA12A","259.1","K","N"," ","fi∫t$wµ´º∫±ød","MS","CNV",1077
+"foot high","GA12B!","259.2(.3)","K","N"," ","fπºt$ha´æ∫{∞}","MS"," ",1078
+"foot ceiling","GA12B!","259.2(.3)","O","Y"," ","fπºt$si∫lç±øn","MS","INA",1078
+"foot high","GA13A","260.1","K","N"," ","fπt$hµ∫±øΩ","MS"," ",1079
+"feet high","GA13B!","260.2!","K","N"," ","fi∫t$hµº∫±ø","MS"," ",1080
+"feet high","GA14A","261.1","K","N"," ","fi∫jt$ha´æ∫{±ø}","MS","CNV",1081
+"feet high","GA14B","261.3","K","N"," ","fi∫jt$hµ´º∫{±ø}","MS"," ",1082
+"feet in the heighth","GA14C","261.2","K","N"," ","fi∫jt$±øºn$‰∞$Âhµº±ø˘","MS"," ",1083
+"foot","GA14C","261.2","N","N"," ","fπº{∞}t","MS"," ",1083
+"feet high","GA15A","262.1","K","N"," ","fijt$hµº∫{≤æ}","MS"," ",1084
+"foot high","GA15B","262.2","K","N"," ","fπºt$hµº∫±ø","MS","CNV",1085
+"foot","GA16A","263.2","N","N"," ","fπº{∞}t","MS"," ",1086
+"foot wide","GA16A","263.2","K","N"," ","fπºt$wa´æ∫{∞}d","MS"," ",1086
+"feet high","GA16B","263.1","K","N"," ","ıfi∫t$Âhaæ∫±ø","MS"," ",1087
+"feet","GA16B","263.1","N","N"," ","fi∫t","MS","CNV",1087
+"feet","GA16C","263.21","N","N"," ","fi∫{i´}t","MS"," ",1088
+"feet high","GA16D!","263.3!","K","N"," ","fi∫t$haæ∫±ø","MS"," ",1089
+"feet","GA16D!","263.3!","N","N"," ","fi∫t","MS","CNV",1089
+"feet","GA17N","N264","N","N"," ","fi∫{i´}t","MS"," ",1090
+"feet","GA17","264","N","N"," ","fiΩæit","MS","CNV",1091
+"NR","GA18A","264A.1"," ","N"," "," ","MS"," ",1092
+"feet high","GA18B","264A.2","K","N"," ","fi∫{i´}t$ha´æ∫{∞}","MS"," ",1093
+"feet out","GA18B","264A.2","K","N"," ","fi∫{i´}t$a´πt","MS"," ",1093
+"foot long","GA19A","265.1","K","N"," ","fπº{∞}t$Âl∑Ωº∫∑ºÓ","MS","CNV",1094
+"feet wide","GA19A","265.1","K","N"," ","ıfi∫{j}t$Âwa´æ∫{∞}d","MS"," ",1094
+"feet high","GA19B","265.2","K","N"," ","ıfi∫{j}t$Âha´æ∫{∞}","MS"," ",1095
+"foot","GA20A","266.1","N","N"," ","fπºt","MS"," ",1096
+"foot","GA20A","266.1","N","N"," ","fπº{∞}t","MS"," ",1096
+"feet high","GA20B","266.2","K","N"," ","ıfi∫{j}t$Âha´æ∫{∞}","MS"," ",1097
+"foot high","GA21A","267.1","K","N"," ","ıfπøæt$Âha´æ∫{∞}","MS"," ",1098
+"NR","GA21B","267.2"," ","N"," "," ","MS"," ",1099
+"foot","GA22A","268A.1","N","N"," ","fπºt","MS","CNV",1100
+"feet","GA22B","268A.2","N","N"," ","fi∫t","MS","CNV",1101
+"feet high","GA22B","268A.2","K","N"," ","ıfi∫t$Âhaæ∫±ø","MS"," ",1101
+"feet high","GA23A","268.1","K","N"," ","Âfi∫t$ıha´æ∫{∞}","MS"," ",1102
+"feet high","GA23B","268.11","K","N"," ","ıfi{i´}t$Âha´æ∫{∞}","MS"," ",1103
+"NR","GA23C","268.2"," ","N"," "," ","MS"," ",1104
+"feet","GA23D!","268.3","N","N"," ","fi∫t","MS"," ",1105
+"feet","GA23E!","268.4!","N","N"," ","fi∫{i´}t","MS"," ",1106
+"NR","GA23F!","268.5!"," ","N"," "," ","MS"," ",1107
+"feet","GA24N","N269","N","N"," ","fi∫{i´}t","MS"," ",1108
+"foot","GA24N","N269","N","N"," ","fπº{∞}t","MS"," ",1108
+"foot high","GA24A","269.1","K","N"," ","fπº{∞}t$haæ∫{≤æ}","MS"," ",1109
+"foot high","GA24B","269.2","K","N"," ","fπºt$ha´æ∫{∞}","MS","CNV",1110
+"NR","GA25N","N269A"," ","N"," "," ","MS"," ",1111
+"feet","GA26","270A","N","N"," ","fi∫{i´}t","MS"," ",1112
+"NR","GA27!","270!"," ","N"," "," ","MS"," ",1113
+"feet","GA28","271a","N","N"," ","fi{i´}t","MS"," ",1114
+"feet high","GA28","271a","K","N"," ","fi∫{i´}t$Âhaæ∫{∞}","MS"," ",1114
+"feet","GA29A","271.1","N","N"," ","fi∫t","MS"," ",1115
+"feet high","GA29B","271.2","K","N"," ","fi∫t$Âhµ´∫","MS"," ",1116
+"feet","GA29B","271.2","N","N"," ","fi∫t","MS","CNV",1116
+"feet","GA30A","272.1(*)","N","N"," ","fi∫{±ø}t","MS"," ",1117
+"feet high","GA30A","272.1(*)","K","N"," ","ıfi∫t$Âha´æ∫{∞}","MS","CNV",1117
+"foot","GA30A","272.1(*)","N","N"," ","fπ´º{∞}t","MS","CNV",1117
+"feet tall","GA30B","272.2(*)","K","N"," ","ıfi∫{j}t$Ât`∂´∫∑Ï","MS"," ",1118
+"feet","GA30C!","272.3!","N","N"," ","fi{i´}t","MS"," ",1119
+"feet","GA30D"," ","N","N","took ruler and measured it [ceiling]","fi∫t","MS"," ",1120
+"NA","GA30E"," "," ","N"," "," ","MS"," ",1121
+"foot high","GA31","272A","K","N"," ","fπºt$Âha´æ∫{∞}","MS","CNV",1122
+"foot","GA32","272B","N","N"," ","fπ∫t","MS"," ",1123
+"NR","GA33A","272C1"," ","N"," "," ","MS"," ",1124
+"NR","GA33B","272C2"," ","N"," "," ","MS"," ",1125
+"foot","GA34N","N273","N","N"," ","fπºt","MS","CNV",1126
+"foot too high","GA34N","N273","K","N"," ","ıfπºt$ıt`uø∫$Âha´æ∫{∞}","MS"," ",1126
+"foot high","GA34A","273.1","K","N"," ","fπºt$haæ∫{≤æ}","MS"," ",1127
+"feet high","GA34B","273.2","K","N"," ","ıfi∫jt$Âha´æ∫{∞}","MS"," ",1128
+"feet","GA35N","N273A","N","N"," ","Âfi{i´}n","MS"," ",1129
+"feet","GA35N","N273A","N","N"," ","fi{i´}t","MS","CNV",1129
+"feet","GA36N","N274A","N","N"," ","fi{i´}t","MS"," ",1130
+"feets","GA36N","N274A","N","N"," ","fi{i´}ts","MS"," ",1130
+"feet","GA37N","2N274","N","N"," ","fi{i´}t","MS"," ",1131
+"feet high","GA37M!","NC274","K","N"," ","fi∫{i´}t$ha´æ∫±ø","MS"," ",1132
+"feet","GA37A","274.1","N","N"," ","fi∫jt","MS","CNV",1133
+"foot long","GA37A","274.1","K","N"," ","ıfπºt$Âl∂∫∑ΩÓ","MS","CNV",1133
+"feet","GA37A","274.1","N","N"," ","fi∫t","MS","CNV",1133
+"foot","GA37B","274.2","N","N"," ","fπºt","MS","CNV",1134
+"feet high","GA37B","274.2","K","N"," ","ıfi∫jt$Âhµ´∫±ø","MS"," ",1134
+"NR","GA37C","274.21"," ","N"," "," ","MS"," ",1135
+"feet high","GA37D!","274.7!","K","N"," ","ıfi∫{i´}t$Âha´æ∫{∞}","MS"," ",1136
+"feet long","GA37D!","274.7!","K","N"," ","fi∫{i´}t$Âl∂´oÓ","MS"," ",1136
+"feet high","GA37E!","274.8!","K","N"," ","ıfi{i´}t$Âha´æ∫{∞}","MS"," ",1137
+"feet","GA37E!","274.8!","N","N"," ","fi{i}t","MS","CNV",1137
+"foot ceilings","GA37E!","274.8!","O","Y"," ","ıfπøæt$Âsi{i´}l±ønz","MS","INA",1137
+"NR","GA37F!","274.3!"," ","N"," "," ","MS"," ",1138
+"feet high","GA37G!","274.4!","K","N"," ","ıfi∫{j}t$Âha´æ∫{∞}","MS"," ",1139
+"feet","GA37H!","274.5!","N","N"," ","fi∫{j}t","MS"," ",1140
+"feet high","GA37I!","274.6!","K","N"," ","ıfi∫{i}t$Âha´æ∫{∞}","MS"," ",1141
+"foot ceilings","GA37I!","274.6!","O","Y"," ","ıfπ´t$Âsi∫lç±øÓz","MS","INA",1141
+"feet high","GA38","275","K","N"," ","ıfi∫t$Âha´æ∫{∞}","MS"," ",1142
+"feet high","GA39","275A","K","N"," ","ıfiæt$Âha´æ∫{∞}","MS"," ",1143
+"feet","GA40","276A","N","N"," ","fi∫{i´}t","MS"," ",1144
+"NR","GA41","276B"," ","N"," "," ","MS"," ",1145
+"foot wide","GA42A","276.1","K","N"," ","fπºt$Âwa´æ∫{∞}d","MS"," ",1146
+"foot square","GA42A","276.1","K","N"," ","ıfπºt$Âskwè·é∫¥º","MS"," ",1146
+"feet high","GA42B","276.2","K","N"," ","ıfi∫t$Âhµ´∫±ø›","MS"," ",1147
+"height","GA42B","276.2","N","Y"," ","ha´æ∫{∞}t˘","MS","INA/CNV",1147
+"foot high","GA43","277","K","N"," ","fπt$haæ∫{≤æ}","MS"," ",1148
+"foot high","GA44A","278.1","K","N"," ","ıfπº{∞}t$Âhaæ∫{±ø}","MS"," ",1149
+"feet high","GA44B","278.2","K","N"," ","ıfi∫{j}t$Âhaæ∫{∞}","MS"," ",1150
+"foot high","GA44C","278.3","K","N"," ","ıfπºt$Âhµ´º∫∞´","MS"," ",1151
+"foot high","GA44D","278.4","K","N"," ","ıfπ›´ºt$Âha´æ∫{∞}","MS"," ",1152
+"feet","GA44E","278.5","N","N"," ","fi{i´}t","MS"," ",1153
+"height","FL1","252","N","Y"," ","Âhµ´æ∫±øt˘","MS","INA",1154
+"feet high","FL1","252","K","N"," ","ıfi∫t$Âhµ´∫±ø","MS"," ",1154
+"NR","FL2A","253.1"," ","N"," "," ","MS"," ",1155
+"feet","FL2B","253.2","N","N"," ","fi∫{i´}t","MS"," ",1156
+"feet","FL2B","253.2","N","N"," ","fi{i´}t","MS","CNV",1156
+"foot long","FL2B","253.2","K","N"," ","fπºt$l∑Ωº∫{∞}Ó","MS","CNV",1156
+"foot","FL2C!","253.3!","N","N"," ","fπ´ºt","MS","CNV",1157
+"feet house","FL2C!","253.3!","K","N"," ","fi∫t$h∏Ωºπºs","MS"," ",1157
+"feet","FL2C!","253.3!","N","N"," ","fi∫t","MS","CNV",1157
+"feet wide","FL2C!","253.3!","K","N"," ","ıfi∫t$Âwµ∫±ød","MS","CNV",1157
+"feet long","FL2C!","253.3!","K","N"," ","fi∫t$l∑∫{∞ó}Ó","MS","CNV",1157
+"feet high","FL3A","254.1","K","N"," ","fi∫t$hµ∫±ø","MS"," ",1158
+"feet","FL3A","254.1","N","N"," ","fi∫t","MS"," ",1158
+"feet high","FL3B!","254.2!","K","N"," ","ıfi∫t$Âhµ∫±øº","MS"," ",1159
+"foot square","FL4","254A","K","N"," ","ıfπºt$Âskw·Ω∫¥","MS","CNV",1160
+"foot wide","FL4","254A","K","N"," ","fπºt$Âwa´æ∫{∞}d","MS","CNV",1160
+"foot","FL4","254A","N","N"," ","fuøæt","MS"," ",1160
+"feet long","FL5A","255.1","K","N"," ","ıfi∫t$Âl∑´∫{∞}Ó","MS"," ",1161
+"feet long","FL5A","255.1","K","N"," ","fi∫t$l∑∫{∞}Ó","MS","CNV",1161
+"feet","FL5A","255.1","N","N"," ","fi∫t","MS","CNV",1161
+"feet","FL5B","255.2","N","N"," ","fi∫t","MS"," ",1162
+"feet wide","FL5B","255.2","K","N"," ","fi∫t$Âwµ´º∫±ød","MS","CNV",1162
+"","","","","","","","","",

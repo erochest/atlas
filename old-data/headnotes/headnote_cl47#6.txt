@@ -1,0 +1,86 @@
+cobbler (cl47#6.asc)
+
+Items
+=====
+                       apple cobble    1
+                      apple cobbler    6
+                     apple dumpling    5
+                    apple dumplings    1
+                          apple pie   32
+                         apple pies    1
+                      apple pot pie    1
+                        apple sauce    4
+                         apple tart    1
+                     berry dumpling    1
+               black berry dumpling    1
+                       black coffee    1
+                       blackberries    1
+                               cake    1
+                         cherry pie    1
+                            cobbler    6
+                        cobbler pie    2
+                            custard    2
+                     deep apple pie    1
+                 deep pan apple pie    1
+                         dewberries    1
+                         double pie    1
+                           dumpling    2
+                         family pie    3
+                        family tart    1
+                    green apple pie    1
+                             my pie    1
+                                 NR    9
+                           oven pie    1
+                      peach cobbler    1
+             peach or apple cobbler    1
+                          peach pie    1
+                               pear    1
+                                pie    3
+                               pies    1
+                          plain pie    1
+                            pot pie    2
+                     potato cobbler    1
+                         potato pie    2
+                            pudding    2
+                               stew    1
+                   sweet potato pie    1
+                              torts    1
+
+
+
+
+L: What is baked in a deep dish, made of apples with a crust on top?
+P: Something like a fruit pie except it has several layers of fruits and 	pastry?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 47#6,  "stew" is inappropriate, as is marginalia. 
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 47 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+47#P
+47#P		47#5
+47#1a
+47#1b		47#1
+		47#2 (no question)
+47#1c
+47#1d M
+47#1e
+47#1f M
+47#2
+47#3		47#3
+47#4		47#4
+47#5		47#6
+47#6		47#7

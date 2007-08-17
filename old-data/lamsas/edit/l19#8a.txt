@@ -1,0 +1,1432 @@
+"NO RESPONSE","NY1","50"," ","N"," "," ","MS"," ",1
+"NO RESPONSE","NY2A","51.1"," ","N"," "," ","MS"," ",2
+"NO RESPONSE","NY2B","51.2"," ","N"," "," ","MS"," ",3
+"NO RESPONSE","NY2C","51.3"," ","N"," "," ","MS"," ",4
+"grist of corn","NY3A","401"," ","N"," "," ","MS"," ",5
+"grist of corn","NY3B","403"," ","N"," "," ","MS"," ",6
+"grist of corn","NY3C","402"," ","N"," "," ","MS"," ",7
+"grist of corn","NY3D","404"," ","N"," "," ","MS"," ",8
+"grist of corn","NY4A","405"," ","N"," "," ","MS"," ",9
+"grist of corn","NY4B","407"," ","N"," "," ","MS"," ",10
+"NO RESPONSE","NY4C","408"," ","N"," "," ","MS"," ",11
+"load of corn","NY5A","409"," ","N"," "," ","MS"," ",12
+"NO RESPONSE","NY5B","410"," ","N"," "," ","MS"," ",13
+"NO RESPONSE","NY5C","411"," ","N"," "," ","MS"," ",14
+"NO RESPONSE","NY5D","412"," ","N"," "," ","MS"," ",15
+"NO RESPONSE","NY5E","413"," ","N"," "," ","MS"," ",16
+"NO RESPONSE","NY5F","414"," ","N"," "," ","MS"," ",17
+"NO RESPONSE","NY5G","415"," ","N"," "," ","MS"," ",18
+"NO RESPONSE","NY5H!","416!"," ","N","Y"," ","MS","load of wood",19
+"NO RESPONSE","NY5I!","417!"," ","N"," "," ","MS"," ",20
+"bag of corn","NY6A","418"," ","N"," "," ","MS"," ",21
+"NO RESPONSE","NY6B","419"," ","N"," "," ","MS"," ",22
+"NO RESPONSE","NY7A","420"," ","N"," "," ","MS"," ",23
+"NO RESPONSE","NY7B","421"," ","N"," "," ","MS"," ",24
+"NO RESPONSE","NY7C","422"," ","N"," "," ","MS"," ",25
+"NO RESPONSE","NY7D","423"," ","N"," "," ","MS"," ",26
+"NO RESPONSE","NY7E","424"," ","N"," "," ","MS"," ",27
+"NO RESPONSE","NY7F","425"," ","N"," "," ","MS"," ",28
+"NO RESPONSE","NY7G","426"," ","N"," "," ","MS"," ",29
+"NO RESPONSE","NY7H","427"," ","N"," "," ","MS"," ",30
+"NO RESPONSE","NY7I","428"," ","N"," "," ","MS"," ",31
+"NO RESPONSE","NY7J!","429!"," ","N"," "," ","MS"," ",32
+"NO RESPONSE","NY7K!","430!"," ","N"," "," ","MS"," ",33
+"NO RESPONSE","NY7L!","431!"," ","N"," "," ","MS"," ",34
+"NO RESPONSE","NY7M!","432!"," ","N"," "," ","MS"," ",35
+"NO RESPONSE","NY8","432b"," ","N"," "," ","MS"," ",36
+"NO RESPONSE","NY9A","432c"," ","N"," "," ","MS"," ",37
+"grist of corn","NY9B","433"," ","N"," "," ","MS"," ",38
+"grist of corn","NY9C","434"," ","N"," "," ","MS"," ",39
+"grist of corn","NY10A","435"," ","N"," "," ","MS"," ",40
+"NO RESPONSE","NY10B!","436!"," ","N"," "," ","MS"," ",41
+"NO RESPONSE","NY11","438"," ","N"," "," ","MS"," ",42
+"grist of corn","NY12A","439(*)"," ","N"," "," ","MS"," ",43
+"grist of corn","NY12B","440"," ","N"," "," ","MS"," ",44
+"NO RESPONSE","NY12C!","441!"," ","N"," "," ","MS"," ",45
+"grist of corn","NY13A","443"," ","N"," "," ","MS"," ",46
+"grist of corn","NY13B!","444!"," ","N"," "," ","MS"," ",47
+"grist of corn","NY14A","445"," ","N"," "," ","MS"," ",48
+"grist of corn","NY14B","446"," ","N"," "," ","MS"," ",49
+"grist of corn","NY15A","447"," ","N"," "," ","MS"," ",50
+"grist of corn","NY15B","448"," ","N"," "," ","MS"," ",51
+"grist of corn","NY16A","449"," ","N"," "," ","MS"," ",52
+"ERROR","NY16B","450"," ","N"," "," ","MS"," ",53
+"grist of corn","NY17A","451(*)"," ","N"," "," ","MS"," ",54
+"grist of corn","NY17B","452"," ","N"," "," ","MS"," ",55
+"grist of corn","NY18A","453"," ","N"," "," ","MS"," ",56
+"grist of corn","NY18B","454"," ","N"," "," ","MS"," ",57
+"NO RESPONSE","NY18C!","455!"," ","N"," "," ","MS"," ",58
+"grist of corn","NY19","456"," ","N"," "," ","MS"," ",59
+"grist of corn","NY20A","457"," ","N"," "," ","MS"," ",60
+"grist of corn","NY20B","458"," ","N"," "," ","MS"," ",61
+"grist of corn","NY21","459"," ","N"," "," ","MS"," ",62
+"grist of corn","NY22","460"," ","N"," "," ","MS"," ",63
+"jag","NY23A","461"," ","N","Y"," ","MS","jag: part lo",64
+"grist of corn","NY23B","462a"," ","N"," "," ","MS"," ",65
+"grist","NY23C","462b"," ","N"," "," ","MS"," ",66
+"jag","NY23C","462b"," ","N","Y"," ","MS","jag: part lo",66
+"grist of corn","NY24A","463"," ","N"," "," ","MS"," ",67
+"grinding of corn","NY24B!","464!"," ","N","Y"," ","MS"," ",68
+"a sack of corn","NY25A","465"," ","N","Y"," ","MS","jag of wood:",69
+"bag of wheat","NY25B","466"," ","N"," "," ","MS"," ",70
+"grist","NY25B","466"," ","N","Y"," ","MS","grist:both w",70
+"grist","NY26A","467"," ","N","Y"," ","MS","part load; j",71
+"grist","NY26B","468"," ","N","Y"," ","MS","little jag:",72
+"NO RESPONSE","NY26C","469"," ","N","Y"," ","MS","green grist",73
+"grist","NY27A","470"," ","N"," "," ","MS"," ",74
+"part of a load","NY27A","470"," ","N","Y"," ","MS","jag of wood:",74
+"load","NY27B","471"," ","N"," "," ","MS"," ",75
+"grist","NY27C","472"," ","N"," "," ","MS"," ",76
+"jag","NY27C","472"," ","N","Y"," ","MS","jag: wood or",76
+"grist","NY28A","473a"," ","N"," "," ","MS"," ",77
+"just a jag of wood","NY28A","473a"," ","N"," "," ","MS"," ",77
+"half load","NY28A","473a"," ","N"," "," ","MS"," ",77
+"load of green grist","NY28B","473b(*)"," ","N"," "," ","MS"," ",78
+"little jag","NY28B","473b(*)"," ","N"," "," ","MS"," ",78
+" ","NY28C"," "," "," "," "," "," "," ",79
+"grist","NY29A","474a"," ","N"," "," ","MS"," ",80
+"load","NY29B","474b"," ","N"," "," ","MS"," ",81
+"jag of wood","NY29B","474b"," ","N"," "," ","MS"," ",81
+"grist","NY29C","474c"," ","N","Y"," ","MS","the miller w",82
+"little jag of wood","NY30A","475a"," ","N"," "," ","MS"," ",83
+"grist","NY30A","475a"," ","N"," "," ","MS"," ",83
+"load","NY30B","475b"," ","N"," "," ","MS"," ",84
+"jag","NY30B","475b"," ","N","Y"," ","MS","cv:load; jag",84
+"jag","NY30C","475c"," ","N"," "," ","MS"," ",85
+"grist","NY30C","475c"," ","N"," "," ","MS"," ",85
+"grist","NY30D","475d"," ","N"," "," ","MS"," ",86
+"jag","NY30D","475d"," ","N"," "," ","MS"," ",86
+"jag","NY30E","475e"," ","N"," "," ","MS"," ",87
+"grist","NY30E","475e"," ","N"," "," ","MS"," ",87
+"jag","NY31A","478a"," ","N","Y"," ","MS","jag: less th",88
+"grist","NY31A","478a"," ","N"," "," ","MS"," ",88
+"grist of wheat","NY31A","478a"," ","N"," "," ","MS"," ",88
+"jag","NY31B","478b"," ","N","Y"," ","MS","jag: part lo",89
+"grist","NY31B","478b"," ","N"," "," ","MS"," ",89
+"grist","NY32A","479a"," ","N"," "," ","MS"," ",90
+"half load","NY32A","479a"," ","N"," "," ","MS"," ",90
+"jag","NY32A","479a"," ","N","Y"," ","MS","j: of hay",90
+"load","NY32B","479b"," ","N","Y"," ","MS","l: of wheat;",91
+"NO RESPONSE","NY33A","480"," ","N","Y"," ","MS","jag:***: sug",92
+"NO RESPONSE","NY33B","481"," ","N"," "," ","MS"," ",93
+"NO RESPONSE","NY33C","482"," ","N","Y"," ","MS","half a jag:*",94
+"jag","NY34A","483"," ","N","Y"," ","MS","part of load",95
+"grist","NY34A","483"," ","N"," "," ","MS"," ",95
+"NO RESPONSE","NY34B","484"," ","N","Y"," ","MS","cv:flour:***",96
+"grist","NY34C","485"," ","N","Y"," ","MS","grist mill:*",97
+"NO RESPONSE","NY34D!","486!"," ","N"," "," ","MS"," ",98
+"grist of corn","NY35A","487"," ","N"," "," ","MS"," ",99
+"grist of corn","NY35B","488"," ","N"," "," ","MS"," ",100
+"NO RESPONSE","NY35C!","489!"," ","N"," "," ","MS"," ",101
+"grist of corn","NY36A","491"," ","N"," "," ","MS"," ",102
+"grist of corn","NY36B","492"," ","N"," "," ","MS"," ",103
+"grist of corn","NY37A","493"," ","N"," "," ","MS"," ",104
+"grist of corn","NY37B","494"," ","N"," "," ","MS"," ",105
+"NO RESPONSE","NY37C!","495!"," ","N"," "," ","MS"," ",106
+"grist of corn","NY38A","497(*)"," ","N","Y"," ","MS","aux: same;",107
+"grist of corn","NY38B","498"," ","N"," "," ","MS"," ",108
+" ","NY38C"," "," "," "," "," "," "," ",109
+"grist of corn","NY39A","499"," ","N"," "," ","MS"," ",110
+"grist of corn","NY39B","500"," ","N"," "," ","MS"," ",111
+"grist of corn","NY40A","501"," ","N"," "," ","MS"," ",112
+"load of corn","NY40B","502"," ","N"," "," ","MS"," ",113
+"grist of corn","NY40B","502"," ","N"," "," ","MS"," ",113
+"grist of corn","NY41","504"," ","N"," "," ","MS"," ",114
+"grist of corn","NY42A","505"," ","N"," "," ","MS"," ",115
+"grist of corn","NY42B","506"," ","N"," "," ","MS"," ",116
+"grist of corn","NY43A","507"," ","N"," "," ","MS"," ",117
+"grist of corn","NY43B","507b"," ","N"," "," ","MS"," ",118
+"NO RESPONSE","NY43C!","508!"," ","N"," "," ","MS"," ",119
+"grist of corn","NY44A","511"," ","N"," "," ","MS"," ",120
+"grist of corn","NY44B","512"," ","N"," "," ","MS"," ",121
+"ERROR","NY45A","513a"," ","N"," "," ","MS"," ",122
+"grist","NY45B","513b"," ","N","Y"," ","MS","load of wood",123
+"grist","NY45C","513c"," ","N"," "," ","MS"," ",124
+"part of a load","NY45C","513c"," ","N"," "," ","MS"," ",124
+"jag of hay","NY45C","513c"," ","N"," "," ","MS"," ",124
+"NO RESPONSE","NY45D!","513d!"," ","N"," "," ","MS"," ",125
+"grist to the mill","NY46A","515a"," ","N","Y"," ","MS","jag***",126
+"NO RESPONSE","NY46B","515b"," ","N"," "," ","MS"," ",127
+"NO RESPONSE","NY46C","515c"," ","N"," "," ","MS"," ",128
+"grist of corn","NY47A","517(*)"," ","N","Y"," ","MS","half load:**",129
+"grist","NY47A","517(*)"," ","N"," "," ","MS"," ",129
+"grist of corn","NY47B","518"," ","N"," "," ","MS"," ",130
+"grist","NY48A","519a"," ","N","Y"," ","MS","jag",131
+"jag of hay","NY48B","519b"," ","N","Y"," ","MS","g: to mill;",132
+"grist","NY48B","519b"," ","N"," "," ","MS"," ",132
+"grist","NY48C","519c"," ","N","Y"," ","MS","g: for feed;",133
+"grist","NY48D","519d"," ","N","Y"," ","MS","shack; chack",134
+"grist","NY49A","520"," ","N","Y"," ","MS","load; jag:**",135
+"grist of corn","NY49B","521"," ","N"," "," ","MS"," ",136
+"NO RESPONSE","NY49C","522a"," ","N"," "," ","MS"," ",137
+"NO RESPONSE","NY49D","522b"," ","N"," "," ","MS"," ",138
+"NO RESPONSE","NY50A","523"," ","N","Y"," ","MS","jag:***; hal",139
+"grist","NY50B","524"," ","N"," "," ","MS"," ",140
+"grist mill","NY50B","524"," ","N","Y"," ","MS","part of a lo",140
+"jag","NY51A","525a"," ","N","Y"," ","MS","g: of corn",141
+"grist","NY51A","525a"," ","N"," "," ","MS"," ",141
+"grist","NY51B","525b"," ","N"," "," ","MS"," ",142
+"jag","NY51B","525b"," ","N","Y"," ","MS","jag: part lo",142
+"jag","NY51C","525c"," ","N","Y"," ","MS","jag of hay",143
+"grist","NY51C","525c"," ","N"," "," ","MS"," ",143
+"grist","NY51D","525d"," ","N"," "," ","MS"," ",144
+"jag","NY51D","525d"," ","N","Y"," ","MS","gr: toll",144
+"grist mills","NY51E!","525e!"," ","N"," "," ","MS"," ",145
+"jag","NY51E!","525e!"," ","N","Y"," ","MS"," ",145
+" ","NY51E!","525e!"," "," "," "," ","MS"," ",145
+"grist","NY52A","527"," ","N"," "," ","MS"," ",146
+"jag","NY52A","527"," ","N"," "," ","MS"," ",146
+"grist","NY52B","528"," ","N"," "," ","MS"," ",147
+"jag","NY52B","528"," ","N","Y"," ","MS","grist: to mi",147
+"NO RESPONSE","NY52C","528b"," ","N","Y"," ","MS","six loads",148
+"jag","NY53A","529"," ","N","Y"," ","MS","jag: part lo",149
+"grist","NY53B!","530!"," ","N","Y"," ","MS"," ",150
+"NO RESPONSE","NY54A","531"," ","N","Y"," ","MS","loads:wagon;",151
+"NO RESPONSE","NY54B","532"," ","N","Y"," ","MS","loads; a hal",152
+"jag","NY55A","533"," ","N","Y"," ","MS","jag: part lo",153
+"grist","NY55A","533"," ","N"," "," ","MS"," ",153
+"grist","NY55B","534"," ","N"," "," ","MS"," ",154
+"jag of wood","NY55B","534"," ","N"," "," ","MS"," ",154
+"jag","NY56A","535"," ","N"," "," ","MS"," ",155
+"grist","NY56A","535"," ","N"," "," ","MS"," ",155
+"grist","NY56B","536"," ","N","Y"," ","MS","loads:***: o",156
+"jag","NY57A","537a"," ","N"," "," ","MS"," ",157
+"grist","NY57A","537a"," ","N"," "," ","MS"," ",157
+"grist","NY57B","537b"," ","N"," "," ","MS"," ",158
+"jag","NY57B","537b"," ","N","Y"," ","MS","grist: 10% t",158
+"grist","NY57C!","537c!"," ","N"," "," ","MS"," ",159
+"jag","NY57C!","537c!"," ","N"," "," ","MS"," ",159
+"grist","NY58A","539a"," ","N","Y"," ","MS","sug: grist;",160
+"load","NY58A","539a"," ","N"," "," ","MS"," ",160
+"load","NY58B","539b"," ","N"," "," ","MS"," ",161
+"jag","NY58B","539b"," ","N"," "," ","MS"," ",161
+"grist","NY58B","539b"," ","N"," "," ","MS"," ",161
+"grist","NY58C","539c"," ","N"," "," ","MS"," ",162
+"jag","NY58C","539c"," ","N","Y"," ","MS","grist: to mi",162
+"load of green","NY58D!","539d!"," ","N"," "," ","MS"," ",163
+"NO RESPONSE","NY58E!","539e!"," ","N"," "," ","MS"," ",164
+"NO RESPONSE","NY58F!","539f!"," ","N"," "," ","MS"," ",165
+"jag","NY59A","543"," ","N","Y"," ","MS","j: part load",166
+"grist","NY59A","543"," ","N"," "," ","MS"," ",166
+"grist of corn","NY59B","544"," ","N"," "," ","MS"," ",167
+"grist","NY60A","545"," ","N"," "," ","MS"," ",168
+"jag","NY60A","545"," ","N","Y"," ","MS","part of a lo",168
+"load","NY60B!","546!"," ","N","Y"," ","MS"," ",169
+"grist","NY60B!","546!"," ","N"," "," ","MS"," ",169
+"part of a load","NY61A","547"," ","N"," "," ","MS"," ",170
+"jag","NY61A","547"," ","N"," "," ","MS"," ",170
+"grist","NY61A","547"," ","N"," "," ","MS"," ",170
+"wagon load","NY61B","548"," ","N"," "," ","MS"," ",171
+"jag","NY61B","548"," ","N","Y"," ","MS","w.l.: of gra",171
+"jag","NY62A","551a"," ","N","Y"," ","MS","grist: to mi",172
+"grist","NY62A","551a"," ","N"," "," ","MS"," ",172
+"part of a load","NY62A","551a"," ","N"," "," ","MS"," ",172
+"load","NY62A","551a"," ","N"," "," ","MS"," ",172
+"jag","NY62B","551b"," ","N","Y"," ","MS","jag: smaller",173
+"grist to the mill","NY62B","551b"," ","N"," "," ","MS"," ",173
+"NO RESPONSE","NY62C","551c"," ","N","Y"," ","MS","jag: only of",174
+"shag","NY62D!","551d!"," ","N"," "," ","MS"," ",175
+"the grist","NY62D!","551d!"," ","N"," "," ","MS"," ",175
+"jag","NY62D!","551d!"," ","N","Y"," ","MS"," ",175
+"jag","NY63A","556a"," ","N","Y"," ","MS","j: of wood;",176
+"grist","NY63A","556a"," ","N"," "," ","MS"," ",176
+"jag","NY63B","556b"," ","N"," "," ","MS"," ",177
+"grist","NY63B","556b"," ","N"," "," ","MS"," ",177
+"grist of corn","NY63C","556c"," ","N"," "," ","MS"," ",178
+"grist","NY63D!","556d!"," ","N","Y"," ","MS"," ",179
+"jag","NY64A","557a"," ","N","Y"," ","MS","jag of wood*",180
+"grist","NY64A","557a"," ","N"," "," ","MS"," ",180
+"jag","NY64B","557b"," ","N","Y"," ","MS","cv:wagon loa",181
+"grist","NY64B","557b"," ","N"," "," ","MS"," ",181
+"grinding","NY64C!","557c!"," ","N","Y"," ","MS"," ",182
+"ERROR","NJ1A","1"," ","N"," "," ","MS"," ",183
+"jag of corn","NJ1B","2"," ","N"," "," ","MS"," ",184
+"jag of corn","NJ2A","3(*)"," ","N"," "," ","MS"," ",185
+"grist of corn","NJ2A","3(*)"," ","N"," "," ","MS"," ",185
+"jag of corn","NJ2B","4"," ","N"," "," ","MS"," ",186
+"jag of corn","NJ3A","5"," ","N"," "," ","MS"," ",187
+"grist of corn","NJ3A","5"," ","N"," "," ","MS"," ",187
+"grist of corn","NJ3B","6"," ","N"," "," ","MS"," ",188
+"jag of corn","NJ3B","6"," ","N"," "," ","MS"," ",188
+"grist of corn","NJ4A","7"," ","N"," "," ","MS"," ",189
+"jag of corn","NJ4A","7"," ","N"," "," ","MS"," ",189
+"jag of corn","NJ4B","8"," ","N"," "," ","MS"," ",190
+"grist of corn","NJ4B","8"," ","N"," "," ","MS"," ",190
+"jag of corn","NJ5A","9"," ","N"," "," ","MS"," ",191
+"jag of corn","NJ5B","10"," ","N"," "," ","MS"," ",192
+"grist of corn","NJ6A","11"," ","N"," "," ","MS"," ",193
+"jag of corn","NJ6B","12"," ","N"," "," ","MS"," ",194
+"jag of corn","NJ7A","17"," ","N"," "," ","MS"," ",195
+"grist of corn","NJ7B!","18!"," ","N"," "," ","MS"," ",196
+"grist of corn","NJ8A","19"," ","N"," "," ","MS"," ",197
+"grist of corn","NJ8B","20"," ","N"," "," ","MS"," ",198
+"grist of corn","NJ9A","21"," ","N"," "," ","MS"," ",199
+"grist of corn","NJ9B","22"," ","N"," "," ","MS"," ",200
+"grist of corn","NJ10A","24b"," ","N"," "," ","MS"," ",201
+"grist of corn","NJ10B","23"," ","N"," "," ","MS"," ",202
+"grist of corn","NJ10C","24"," ","N"," "," ","MS"," ",203
+"grist of corn","NJ10D!","24c!"," ","N"," "," ","MS"," ",204
+"grist","NJ11A","25"," ","N"," "," ","MS"," ",205
+"ERROR","NJ11B","26a"," ","N"," "," ","MS"," ",206
+"grist of corn","NJ11C","26b"," ","N"," "," ","MS"," ",207
+"grist of corn","NJ12A","27"," ","N"," "," ","MS"," ",208
+"ERROR","NJ12B","28"," ","N"," "," ","MS"," ",209
+"grist of corn","NJ13A","29"," ","N"," "," ","MS"," ",210
+"grist of corn","NJ13B","30"," ","N"," "," ","MS"," ",211
+"grist of corn","NJ14A","31"," ","N"," "," ","MS"," ",212
+"grist of corn","NJ14B","32"," ","N"," "," ","MS"," ",213
+"grist of corn","NJ15A","33"," ","N"," "," ","MS"," ",214
+"grist of corn","NJ15B","34"," ","N"," "," ","MS"," ",215
+"grist of corn","NJ16A","35"," ","N"," "," ","MS"," ",216
+"jag of corn","NJ16A","35"," ","N","Y"," ","MS","sug:jag of c",216
+"grist of corn","NJ16B","36"," ","N"," "," ","MS"," ",217
+"grist of corn","NJ17A","37"," ","N"," "," ","MS"," ",218
+"jag of corn","NJ17B","38"," ","N"," "," ","MS"," ",219
+"grist of corn","NJ17B","38"," ","N"," "," ","MS"," ",219
+"NO RESPONSE","NJ18A","41"," ","N"," "," ","MS"," ",220
+"NO RESPONSE","NJ18B","42"," ","N"," "," ","MS"," ",221
+"NO RESPONSE","NJ18C!","43!"," ","N"," "," ","MS"," ",222
+"NO RESPONSE","NJ18D!","44!"," ","N"," "," ","MS"," ",223
+"NO RESPONSE","NJ19A","45"," ","N"," "," ","MS"," ",224
+"NO RESPONSE","NJ19B!","46!"," ","N"," "," ","MS"," ",225
+"NO RESPONSE","NJ20A","47"," ","N"," "," ","MS"," ",226
+"grist of corn","NJ20B","47b"," ","N"," "," ","MS"," ",227
+"grist of corn","NJ21A","48"," ","N"," "," ","MS"," ",228
+"NO RESPONSE","NJ21B","49"," ","N"," "," ","MS"," ",229
+"NO RESPONSE","PA1A","51"," ","N"," "," ","MS"," ",230
+"NO RESPONSE","PA1B","52"," ","N"," "," ","MS"," ",231
+"NO RESPONSE","PA1C","53"," ","N"," "," ","MS"," ",232
+"NO RESPONSE","PA1D","54"," ","N"," "," ","MS"," ",233
+"NO RESPONSE","PA1E!","55!"," ","N"," "," ","MS"," ",234
+"NO RESPONSE","PA1F!","56!"," ","N"," "," ","MS"," ",235
+"jag of corn","PA1G!","57!"," ","N","Y"," ","MS","sug: part wa",236
+"grist of corn","PA1H!","58!"," ","N"," "," ","MS"," ",237
+"grist of corn","PA2A","59"," ","N"," "," ","MS"," ",238
+"jag of corn","PA2A","59"," ","N"," "," ","MS"," ",238
+"jag of corn","PA2B","60"," ","N","Y"," ","MS","***; j.c.: p",239
+"grist of corn","PA2B","60"," ","N"," "," ","MS"," ",239
+"NO RESPONSE","PA3A","61"," ","N"," "," ","MS"," ",240
+"jag of corn","PA3B","62"," ","N"," "," ","MS"," ",241
+"grist of corn","PA3B","62"," ","N"," "," ","MS"," ",241
+"grist of corn","PA3C","62b"," ","N"," "," ","MS"," ",242
+"jag","PA3C","62b"," ","N","Y"," ","MS","jag=1/4 load",242
+"grist of corn","PA4A","63"," ","N"," "," ","MS"," ",243
+"jag of corn","PA4A","63"," ","N","Y"," ","MS","j= part load",243
+"grist of corn","PA4B!","64!"," ","N","Y"," ","MS","o-f",244
+"grist of corn","PA5A","65(*)"," ","N"," "," ","MS"," ",245
+"jag of corn","PA5B","65b"," ","N","Y"," ","MS","aux: also gr",246
+"grist of corn","PA5B","65b"," ","N"," "," ","MS"," ",246
+"grist of corn","PA5C","66"," ","N"," "," ","MS"," ",247
+"jag  of corn","PA5C","66"," ","N","Y"," ","MS","j=part load",247
+"grist of corn","PA5D","67"," ","N","Y"," ","MS"," ",248
+"jag of corn","PA5E!","68!"," ","N"," "," ","MS"," ",249
+"grist of corn","PA6A","69"," ","N"," "," ","MS"," ",250
+"NO RESPONSE","PA6B","71"," ","N"," "," ","MS"," ",251
+"NO RESPONSE","PA6C","71b"," ","N"," "," ","MS"," ",252
+"NO RESPONSE","PA6D!","72!"," ","N"," "," ","MS"," ",253
+"bag of corn","PA7A","73"," ","N"," "," ","MS"," ",254
+"jag of corn","PA7A","73"," ","N","Y"," ","MS","j=part load;",254
+"grist of corn","PA7B","74"," ","N"," "," ","MS"," ",255
+"jag of corn","PA7B","74"," ","N","Y"," ","MS","j=part load",255
+"chag of corn","PA7C","75"," ","N","Y"," ","MS","part load",256
+"NO RESPONSE","PA7D!","76!"," ","N"," "," ","MS"," ",257
+"grist","PA8A","77"," ","N"," "," ","MS"," ",258
+"jag of corn","PA8A","77"," ","N","Y"," ","MS","j=part load",258
+"jag of corn","PA8B","78"," ","N","Y"," ","MS","j=part load",259
+"grist of corn","PA8B","78"," ","N"," "," ","MS"," ",259
+"NO RESPONSE","PA8C","79"," ","N"," "," ","MS"," ",260
+"NO RESPONSE","PA8D!","80!"," ","N"," "," ","MS"," ",261
+"NO RESPONSE","PA9A","83"," ","N"," "," ","MS"," ",262
+"NO RESPONSE","PA9B","83b"," ","N"," "," ","MS"," ",263
+"NO RESPONSE","PA9C!","84!"," ","N"," "," ","MS"," ",264
+"NO RESPONSE","PA10","87"," ","N"," "," ","MS"," ",265
+"grist of corn","PA11A","89"," ","N"," "," ","MS"," ",266
+"jag of corn","PA11A","89"," ","N","Y"," ","MS","j=part load",266
+"grist of corn","PA11B","90(*)"," ","N"," "," ","MS"," ",267
+"grist of corn","PA12A","91"," ","N"," "," ","MS"," ",268
+"jag of corn","PA12A","91"," ","N"," "," ","MS"," ",268
+"jag of corn","PA12B","92"," ","N","Y"," ","MS","jag=esp. of",269
+"grist of corn","PA12B","92"," ","N"," "," ","MS"," ",269
+"grist of corn","PA13A","93"," ","N"," "," ","MS"," ",270
+"jago of corn","PA13A","93"," ","N","Y"," ","MS","j=part load",270
+"grist of corn","PA13B","94"," ","N"," "," ","MS"," ",271
+"NO RESPONSE","PA14A","95(*)"," ","N"," "," ","MS"," ",272
+"NO RESPONSE","PA14B","96"," ","N"," "," ","MS"," ",273
+" ","PA14C"," "," "," "," "," "," "," ",274
+"grist of corn","PA15A","99"," ","N"," "," ","MS"," ",275
+"grist of corn","PA15B","99b"," ","N"," "," ","MS"," ",276
+"jag of corn","PA15B","99b"," ","N"," "," ","MS"," ",276
+"NO RESPONSE","PA15C!","100!"," ","N"," "," ","MS"," ",277
+"grist of corn","PA16A","101"," ","N"," "," ","MS"," ",278
+"NO RESPONSE","PA16B","102"," ","N"," "," ","MS"," ",279
+"NO RESPONSE","PA16C","103"," ","N"," "," ","MS"," ",280
+"NO RESPONSE","PA17A","105"," ","N"," "," ","MS"," ",281
+"NO RESPONSE","PA17B","106"," ","N"," "," ","MS"," ",282
+"jag of corn","PA18A","107"," ","N","Y"," ","MS","j=part load",283
+"grist of corn","PA18A","107"," ","N"," "," ","MS"," ",283
+"NO RESPONSE","PA18B!","108!"," ","N"," "," ","MS"," ",284
+"jag of corn","PA19A","113"," ","N"," "," ","MS"," ",285
+"grist of corn","PA19A","113"," ","N"," "," ","MS"," ",285
+"jag of corn","PA19B","114"," ","N"," "," ","MS"," ",286
+"grist of corn","PA19B","114"," ","N"," "," ","MS"," ",286
+"grist of corn","PA20A","115"," ","N"," "," ","MS"," ",287
+"jago of corn","PA20A","115"," ","N"," "," ","MS"," ",287
+"grist of corn","PA20B","116"," ","N"," "," ","MS"," ",288
+"jag of corn","PA20B","116"," ","N"," "," ","MS"," ",288
+"jag of corn","PA21A","117"," ","N"," "," ","MS"," ",289
+"grist of corn","PA21A","117"," ","N"," "," ","MS"," ",289
+"jag of corn","PA21B","118"," ","N","Y"," ","MS","j=sug, part",290
+"grist of corn","PA21B","118"," ","N"," "," ","MS"," ",290
+"grist of corn","PA22A","119"," ","N"," "," ","MS"," ",291
+"jag of corn","PA22A","119"," ","N","Y"," ","MS","j=part load",291
+"grist of corn","PA22B","120"," ","N"," "," ","MS"," ",292
+"jag of corn","PA22B","120"," ","N"," "," ","MS"," ",292
+"jag of corn","PA23A","121"," ","N","Y"," ","MS","j=part load",293
+"grist of corn","PA23A","121"," ","N"," "," ","MS"," ",293
+"jag of corn","PA23B","122"," ","N","Y"," ","MS","j=part load",294
+"grist of corn","PA23B","122"," ","N"," "," ","MS"," ",294
+"grist of corn","PA24A","123"," ","N"," "," ","MS"," ",295
+"grist of corn","PA24B","124"," ","N"," "," ","MS"," ",296
+"jag of corn","PA24B","124"," ","N","Y"," ","MS","j=part load",296
+"jag of corn","PA25A","125"," ","N"," "," ","MS"," ",297
+"grist of corn","PA25A","125"," ","N"," "," ","MS"," ",297
+"grist of corn","PA25B","126"," ","N"," "," ","MS"," ",298
+"jag of corn","PA25B","126"," ","N"," "," ","MS"," ",298
+"jag","PA26A","127"," ","N","Y"," ","MS","jag=part loa",299
+"grist of corn","PA26A","127"," ","N"," "," ","MS"," ",299
+"grist of corn","PA26B","128"," ","N"," "," ","MS"," ",300
+"boag of corn","PA27A","131"," ","N"," "," ","MS"," ",301
+"grist of corn","PA27A","131"," ","N"," "," ","MS"," ",301
+"grist of corn","PA27B","132"," ","N"," "," ","MS"," ",302
+"jag of corn","PA27B","132"," ","N","Y"," ","MS","j=part load",302
+"grist of corn","PA28A","135"," ","N"," "," ","MS"," ",303
+"jag of corn","PA28A","135"," ","N","Y"," ","MS","part load=ja",303
+"NO RESPONSE","PA28B!","136!"," ","N"," "," ","MS"," ",304
+"jag of hay","PA29A","139(*)"," ","N","Y"," ","MS","j=part load",305
+"grist of corn","PA29A","139(*)"," ","N"," "," ","MS"," ",305
+"grist of corn","PA29B","140"," ","N"," "," ","MS"," ",306
+"jag of corn","PA29B","140"," ","N"," "," ","MS"," ",306
+"grist of corn","PA30A","143"," ","N"," "," ","MS"," ",307
+"grist of corn","PA30B","144"," ","N"," "," ","MS"," ",308
+"grist of corn","PA31A","145"," ","N"," "," ","MS"," ",309
+"grist of corn","PA31B","146"," ","N"," "," ","MS"," ",310
+"jag","PA31B","146"," ","N","Y"," ","MS","j=smaller",310
+"grist of corn","PA32A","147"," ","N"," "," ","MS"," ",311
+"jag","PA32A","147"," ","N","Y"," ","MS","jag=part loa",311
+"grist of corn","PA32B","148"," ","N"," "," ","MS"," ",312
+"jag","PA32B","148"," ","N","Y"," ","MS","jag=part loa",312
+"jag","PA33A","151"," ","N"," "," ","MS"," ",313
+"grist of corn","PA33A","151"," ","N"," "," ","MS"," ",313
+"grist of corn","PA33B","152"," ","N"," "," ","MS"," ",314
+"jag","PA34A","155"," ","N","Y"," ","MS","j=small load",315
+"grist of corn","PA34A","155"," ","N"," "," ","MS"," ",315
+"grist of corn","PA34B","156"," ","N"," "," ","MS"," ",316
+"grist of corn","PA34C!","155b!"," ","N"," "," ","MS"," ",317
+"grist of corn","PA35A","157"," ","N"," "," ","MS"," ",318
+"jag","PA35A","157"," ","N","Y"," ","MS","j=part load",318
+"jag","PA35B","158(*)"," ","N","Y"," ","MS","aux: also g.",319
+"grist of corn","PA35B","158(*)"," ","N"," "," ","MS"," ",319
+" ","PA35C"," "," "," "," "," "," "," ",320
+"jag","PA36A","159"," ","N","Y"," ","MS","jag:sug",321
+"grist of corn","PA36A","159"," ","N"," "," ","MS"," ",321
+"grist of corn","PA36B","160"," ","N"," "," ","MS"," ",322
+"jag","PA36B","160"," ","N"," "," ","MS"," ",322
+"chack","PA37A","161(*)"," ","N","Y"," ","MS","ch: small lo",323
+"grist of corn","PA37A","161(*)"," ","N"," "," ","MS"," ",323
+"jag of corn","PA37B","162"," ","N","Y"," ","MS","small load",324
+" ","PA37C"," "," "," "," "," "," "," ",325
+"jag of corn","PA38A","163"," ","N","Y"," ","MS","part load",326
+"jag","PA38B","164"," ","N","Y"," ","MS","j=part load",327
+"grist of corn","PA38B","164"," ","N"," "," ","MS"," ",327
+"grist of corn","PA39A","165"," ","N"," "," ","MS"," ",328
+"jag","PA39A","165"," ","N","Y"," ","MS","j=small",328
+" ","PA39B","166"," "," "," "," ","MS"," ",329
+"jag","PA39B","166"," ","N","Y"," ","MS","j=part load",329
+"jag of corn","PA40A","167"," ","N"," "," ","MS"," ",330
+"jag of corn","PA40B","168"," ","N","Y"," ","MS","part load",331
+"grist of corn","PA41A","171"," ","N"," "," ","MS"," ",332
+"jag","PA41A","171"," ","N","Y"," ","MS","small load",332
+"grist of corn","PA41B","172"," ","N","Y"," ","MS","jag of c:par",333
+"jag","PA42A","175"," ","N","Y"," ","MS","***; j=small",334
+"grist of corn","PA42A","175"," ","N"," "," ","MS"," ",334
+"jag of corn","PA42B","176"," ","N","Y"," ","MS","small load",335
+"grist of corn","PA43A","177"," ","N"," "," ","MS"," ",336
+"jag","PA43A","177"," ","N"," "," ","MS"," ",336
+"jag of corn","PA43B","178"," ","N","Y"," ","MS","small load",337
+"jag","PA44A","179"," ","N","Y"," ","MS","small",338
+"grist of corn","PA44A","179"," ","N"," "," ","MS"," ",338
+"jag","PA44B","180"," ","N"," "," ","MS"," ",339
+"grist of corn","PA44B","180"," ","N"," "," ","MS"," ",339
+"grist of corn","PA45A","181"," ","N"," "," ","MS"," ",340
+"bushel of corn","PA45B","182"," ","N"," "," ","MS"," ",341
+"grist of corn","PA46A","185"," ","N"," "," ","MS"," ",342
+"grist of corn","PA46B","186"," ","N"," "," ","MS"," ",343
+"grist of corn","PA47A","189"," ","N"," "," ","MS"," ",344
+"jag","PA47B","190"," ","N"," "," ","MS"," ",345
+"grist of corn","PA47B","190"," ","N"," "," ","MS"," ",345
+"grist of corn","PA48A","191"," ","N"," "," ","MS"," ",346
+"grist of corn","PA48B","192"," ","N"," "," ","MS"," ",347
+"jag","PA48B","192"," ","N","Y"," ","MS","j=small",347
+"jag","PA48C","193"," ","N","Y"," ","MS","jag=small",348
+"grist of corn","PA48C","193"," ","N"," "," ","MS"," ",348
+"jag","PA49A","194"," ","N","Y"," ","MS","jag:small",349
+"grist of corn","PA49A","194"," ","N"," "," ","MS"," ",349
+"jag","PA49B","195"," ","N","Y"," ","MS","jag:small",350
+"grist of corn","PA49B","195"," ","N"," "," ","MS"," ",350
+"bushel of corn","PA50A","196"," ","N"," "," ","MS"," ",351
+"grist of corn","PA50B","197"," ","N"," "," ","MS"," ",352
+"grist of corn","PA50C!","198!"," ","N"," "," ","MS"," ",353
+"jag","PA50C!","198!"," ","N","Y"," ","MS"," ",353
+"NO RESPONSE","PA51A","199"," ","N"," "," ","MS"," ",354
+"NO RESPONSE","PA51B","200"," ","N"," "," ","MS"," ",355
+"jag","PA52A","201"," ","N"," "," ","MS"," ",356
+"grist of corn","PA52A","201"," ","N"," "," ","MS"," ",356
+"grist of corn","PA52B!","202!"," ","N"," "," ","MS"," ",357
+"grist of corn","PA53A","203"," ","N"," "," ","MS"," ",358
+"jag","PA53A","203"," ","N"," "," ","MS"," ",358
+"jag","PA53B","204"," ","N","Y"," ","MS","jag: small",359
+"grist of corn","PA53B","204"," ","N"," "," ","MS"," ",359
+"grist of corn","PA54A","205"," ","N"," "," ","MS"," ",360
+"jag","PA54A","205"," ","N","Y"," ","MS","jag: small",360
+"jag","PA54B","206"," ","N","Y"," ","MS","jag: small l",361
+"grist of corn","PA54B","206"," ","N"," "," ","MS"," ",361
+"grist of corn","PA55A","207"," ","N"," "," ","MS"," ",362
+"jag","PA55A","207"," ","N","Y"," ","MS","j:small load",362
+"jag","PA55B","208"," ","N","Y"," ","MS","j: part load",363
+"grist of corn","PA55B","208"," ","N"," "," ","MS"," ",363
+"grist of corn","PA56A","211(*)"," ","N"," "," ","MS"," ",364
+"grist of corn","PA56B","212"," ","N"," "," ","MS"," ",365
+"grist of corn","PA57A","213"," ","N"," "," ","MS"," ",366
+"jag","PA57A","213"," ","N","Y"," ","MS","jag:small",366
+"grist of corn","PA57B","214"," ","N"," "," ","MS"," ",367
+"grist of corn","PA58A","215"," ","N"," "," ","MS"," ",368
+"jag","PA58A","215"," ","N","Y"," ","MS","j: small loa",368
+"grist of corn","PA58B","216"," ","N"," "," ","MS"," ",369
+"jag","PA58B","216"," ","N","Y"," ","MS","j: small",369
+"grist of corn","PA59A","219"," ","N"," "," ","MS"," ",370
+"jag","PA59A","219"," ","N","Y"," ","MS","jag:small",370
+"grist of corn","PA59B","220"," ","N"," "," ","MS"," ",371
+"grist of corn","PA60A","221"," ","N"," "," ","MS"," ",372
+"grist of corn","PA60B","222"," ","N"," "," ","MS"," ",373
+"jag","PA60B","222"," ","N","Y"," ","MS","j: small",373
+"grist of corn","PA61A","223"," ","N"," "," ","MS"," ",374
+"grist of corn","PA61B","224"," ","N"," "," ","MS"," ",375
+"grist of corn","PA62A","229"," ","N","Y"," ","MS","o-f",376
+"jag","PA62B","230"," ","N","Y"," ","MS","j: small",377
+"grist of corn","PA62B","230"," ","N"," "," ","MS"," ",377
+"grist of corn","PA63A","231"," ","N"," "," ","MS"," ",378
+"jag","PA63A","231"," ","N"," "," ","MS"," ",378
+"jag","PA63B","232"," ","N","Y"," ","MS","jag: small",379
+"grist of corn","PA63B","232"," ","N"," "," ","MS"," ",379
+"grist of corn","PA64A","233"," ","N"," "," ","MS"," ",380
+"jag","PA64A","233"," ","N","Y"," ","MS","j: small",380
+"jag","PA64B","234"," ","N","Y"," ","MS","j: small",381
+"grist of corn","PA64B","234"," ","N"," "," ","MS"," ",381
+"grist of corn","PA65A","237"," ","N"," "," ","MS"," ",382
+"jag of hay","PA65A","237"," ","N","Y"," ","MS","j.h.: sug: s",382
+"jag of hay","PA65B","238"," ","N","Y"," ","MS","j.h.: small",383
+"grist of corn","PA65B","238"," ","N"," "," ","MS"," ",383
+"grist of corn","PA66A","239"," ","N"," "," ","MS"," ",384
+"jag","PA66A","239"," ","N","Y"," ","MS","jag:part loa",384
+"jag","PA66B","240"," ","N","Y"," ","MS","j: part load",385
+"grist of corn","PA66B","240"," ","N"," "," ","MS"," ",385
+"grist of corn","PA67A","243"," ","N"," "," ","MS"," ",386
+"jag","PA67A","243"," ","N","Y"," ","MS","j: small",386
+"grist of corn","PA67B","244"," ","N"," "," ","MS"," ",387
+"bag","WV1!","88!"," ","N"," "," ","MS"," ",388
+"jag","WV2","89"," ","N"," "," ","MS"," ",389
+"grist of corn","WV2","89"," ","N"," "," ","MS"," ",389
+"grist of corn","WV3","91"," ","N"," "," ","MS"," ",390
+"jag","WV3","91"," ","N"," "," ","MS"," ",390
+"jag","WV4A","92"," ","N"," "," ","MS"," ",391
+"grist of corn","WV4A","92"," ","N"," "," ","MS"," ",391
+"grist of corn","WV4B","93"," ","N"," "," ","MS"," ",392
+"grist of corn","WV5","94"," ","N"," "," ","MS"," ",393
+"jag","WV5","94"," ","N"," "," ","MS"," ",393
+"grist of corn","WV6A","95"," ","N"," "," ","MS"," ",394
+"jag","WV6A","95"," ","N"," "," ","MS"," ",394
+"bag","WV6B","96"," ","N"," "," ","MS"," ",395
+"jag","WV6B","96"," ","N"," "," ","MS"," ",395
+"jag","WV7A","97"," ","N"," "," ","MS"," ",396
+"grist of corn","WV7A","97"," ","N"," "," ","MS"," ",396
+"jag","WV7B","98"," ","N"," "," ","MS"," ",397
+"grist of corn","WV7B","98"," ","N"," "," ","MS"," ",397
+"grist of corn","WV8A","97b"," ","N"," "," ","MS"," ",398
+"grist of corn","WV8B","98b"," ","N"," "," ","MS"," ",399
+"grist of corn","WV9A","301"," ","N","Y"," ","MS","sug",400
+"grist of corn","WV9B","302"," ","N"," "," ","MS"," ",401
+"grist of corn","WV10A","303"," ","N"," "," ","MS"," ",402
+"grist of corn","WV10B","303b"," ","N"," "," ","MS"," ",403
+"grist of corn","WV10C","304"," ","N"," "," ","MS"," ",404
+"grist of corn","WV11A","305"," ","N"," "," ","MS"," ",405
+"grist of corn","WV11B!","306!"," ","N"," "," ","MS"," ",406
+"grist of corn","WV12A","307"," ","N"," "," ","MS"," ",407
+"grist of corn","WV12B","308"," ","N"," "," ","MS"," ",408
+"grist of corn","WV13A","309"," ","N"," "," ","MS"," ",409
+"grist of corn","WV13B","310"," ","N"," "," ","MS"," ",410
+"grist of corn","WV14A","311"," ","N"," "," ","MS"," ",411
+"grist of corn","WV14B","312"," ","N"," "," ","MS"," ",412
+"grist of corn","WV15A","313"," ","N"," "," ","MS"," ",413
+"grist of corn","WV15B","314"," ","N"," "," ","MS"," ",414
+"grist of corn","WV16A","315"," ","N"," "," ","MS"," ",415
+"grist of corn","WV16B","316"," ","N"," "," ","MS"," ",416
+"grist of corn","WV17A","317"," ","N"," "," ","MS"," ",417
+"grist of corn","WV17B","317b"," ","N"," "," ","MS"," ",418
+"grist of corn","WV17C","318"," ","N"," "," ","MS"," ",419
+"grist of corn","WV18A","319"," ","N"," "," ","MS"," ",420
+"grist","WV18B","320"," ","N"," "," ","MS"," ",421
+"grist of corn","WV19A","321"," ","N"," "," ","MS"," ",422
+"grist of corn","WV19B","322"," ","N"," "," ","MS"," ",423
+"grist of corn","WV20A","323"," ","N"," "," ","MS"," ",424
+"grist of corn","WV20B","324"," ","N"," "," ","MS"," ",425
+"grist of corn","WV21A","325"," ","N"," "," ","MS"," ",426
+"grist of corn","WV21B","326"," ","N"," "," ","MS"," ",427
+"grist of corn","WV22A","327"," ","N"," "," ","MS"," ",428
+"grist of corn","WV22B","328"," ","N"," "," ","MS"," ",429
+"grist of corn","WV23A","331"," ","N"," "," ","MS"," ",430
+"grist of corn","WV23B","332"," ","N"," "," ","MS"," ",431
+"grist of corn","WV24A","335"," ","N"," "," ","MS"," ",432
+"turn of corn","WV24B","336"," ","N","Y"," ","MS","g=turn",433
+"grist of corn","WV24B","336"," ","N"," "," ","MS"," ",433
+"turn","WV25A","337"," ","N"," "," ","MS"," ",434
+"turn","WV25B","338"," ","N"," "," ","MS"," ",435
+"turn","WV26A","339"," ","N"," "," ","MS"," ",436
+"turn","WV26B","340"," ","N"," "," ","MS"," ",437
+"grist of corn","WV27A","341"," ","N"," "," ","MS"," ",438
+"grist of corn","WV27B","342"," ","N"," "," ","MS"," ",439
+"turn","WV28A","343"," ","N"," "," ","MS"," ",440
+"turn","WV28B","344"," ","N"," "," ","MS"," ",441
+"turn","WV29A","345"," ","N"," "," ","MS"," ",442
+"turn","WV29B","346"," ","N"," "," ","MS"," ",443
+"turn","WV30A","347"," ","N"," "," ","MS"," ",444
+"turn","WV30B","348"," ","N"," "," ","MS"," ",445
+"turn","WV31A","349"," ","N"," "," ","MS"," ",446
+"turn","WV31B","350"," ","N"," "," ","MS"," ",447
+"turn","WV32A","353"," ","N"," "," ","MS"," ",448
+"turn","WV32B","354"," ","N"," "," ","MS"," ",449
+"turn","WV33A","355"," ","N","Y"," ","MS","to be ground",450
+"turn","WV33B","356"," ","N"," "," ","MS"," ",451
+"turn","WV34A","359"," ","N"," "," ","MS"," ",452
+"turn","WV34B","360"," ","N"," "," ","MS"," ",453
+"turn","WV35A","361"," ","N"," "," ","MS"," ",454
+"turn","WV35B","362"," ","N"," "," ","MS"," ",455
+"turn","WV36A","363"," ","N"," "," ","MS"," ",456
+"turn","WV36B","364"," ","N"," "," ","MS"," ",457
+"grist of corn","WV37A","365"," ","N"," "," ","MS"," ",458
+"grist of corn","WV37B!","366!"," ","N"," "," ","MS"," ",459
+"grist of corn","WV38A","367"," ","N"," "," ","MS"," ",460
+"load","WV38B","368"," ","N"," "," ","MS"," ",461
+"NO RESPONSE","WV39A","369"," ","N"," "," ","MS"," ",462
+"grist of corn","WV39B","370"," ","N"," "," ","MS"," ",463
+"grist of corn","WV39C!","371!"," ","N"," "," ","MS"," ",464
+"grist of corn","WV40A","373"," ","N"," "," ","MS"," ",465
+"grist of corn","WV40B","374"," ","N"," "," ","MS"," ",466
+"grist of corn","WV41A","375"," ","N"," "," ","MS"," ",467
+"grist of corn","WV41B","376"," ","N"," "," ","MS"," ",468
+"grist of corn","WV42A","377"," ","N"," "," ","MS"," ",469
+"grist of corn","WV42B","378"," ","N"," "," ","MS"," ",470
+"grist","WV43A","381"," ","N"," "," ","MS"," ",471
+"grist of corn","WV43B","382"," ","N"," "," ","MS"," ",472
+"grist of corn","WV44A","383"," ","N"," "," ","MS"," ",473
+"grist of corn","WV44B","384"," ","N"," "," ","MS"," ",474
+"grist of corn","WV45A","385"," ","N"," "," ","MS"," ",475
+"grist of corn","WV45B","386"," ","N"," "," ","MS"," ",476
+"grist of corn","WV46A","387"," ","N"," "," ","MS"," ",477
+"grist of corn","WV46B","388"," ","N"," "," ","MS"," ",478
+"grist of corn","WV47A","389"," ","N"," "," ","MS"," ",479
+"grist of corn","WV47B","390"," ","N"," "," ","MS"," ",480
+"grist of corn","WV48A","391"," ","N"," "," ","MS"," ",481
+"grist of corn","WV48B","391b"," ","N"," "," ","MS"," ",482
+"grist of corn","WV48C","392"," ","N"," "," ","MS"," ",483
+"grist of corn","WV48D","392b"," ","N"," "," ","MS"," ",484
+"grist of corn","WV49A","393"," ","N"," "," ","MS"," ",485
+"jag","WV49A","393"," ","N","Y"," ","MS","j of corn: s",485
+"grist of corn","WV49B","394"," ","N"," "," ","MS"," ",486
+"grist of corn","WV50A","395"," ","N"," "," ","MS"," ",487
+"grist of corn","WV50B","396"," ","N"," "," ","MS"," ",488
+"grist of corn","WV51A","261"," ","N"," "," ","MS"," ",489
+"grist of corn","WV51B","262"," ","N"," "," ","MS"," ",490
+"grist of corn","WV52A","258"," ","N"," "," ","MS"," ",491
+"NO RESPONSE","WV52B","259"," ","N"," "," ","MS"," ",492
+"NO RESPONSE","WV52C!","260!"," ","N"," "," ","MS"," ",493
+"grist of corn","WV53A","257"," ","N"," "," ","MS"," ",494
+"grist of corn","WV53B","257b"," ","N"," "," ","MS"," ",495
+"grist of corn","WV53C!","257c!"," ","N"," "," ","MS"," ",496
+"grist of corn","WV54A","255"," ","N"," "," ","MS"," ",497
+"jag","WV54B","256"," ","N","Y"," ","MS","j of corn: s",498
+"grist of corn","WV54B","256"," ","N"," "," ","MS"," ",498
+"jag","DE1A","11"," ","N"," "," ","MS"," ",499
+"NO RESPONSE","DE1B","12"," ","N"," "," ","MS"," ",500
+"NO RESPONSE","DE1C!","13!"," ","N"," "," ","MS"," ",501
+"NO RESPONSE","DE2A","15(*)"," ","N"," "," ","MS"," ",502
+"grist of corn","DE2B","16"," ","N"," "," ","MS"," ",503
+" ","DE2C"," "," "," "," "," "," "," ",504
+"jag","DE3A","18"," ","N"," "," ","MS"," ",505
+"jag","DE3B","19"," ","N"," "," ","MS"," ",506
+"jag","DE3C!","17!"," ","N"," "," ","MS"," ",507
+"jag","DE4","20"," ","N"," "," ","MS"," ",508
+"grist of corn","DE5A","21"," ","N"," "," ","MS"," ",509
+"jag","DE5B","22"," ","N"," "," ","MS"," ",510
+"jag","DE6A","23"," ","N"," "," ","MS"," ",511
+"jag","DE6B","24"," ","N"," "," ","MS"," ",512
+"bag of corn","MD1A","27"," ","N"," "," ","MS"," ",513
+"jag","MD1A","27"," ","N"," "," ","MS"," ",513
+"grist of corn","MD1B","28"," ","N"," "," ","MS"," ",514
+"grist of corn","MD2A","31a"," ","N"," "," ","MS"," ",515
+"jag","MD2B","32"," ","N"," "," ","MS"," ",516
+"jag","MD3A","33"," ","N"," "," ","MS"," ",517
+"jag","MD3B","34"," ","N"," "," ","MS"," ",518
+"NO RESPONSE","MD4A","35b"," ","N"," "," ","MS"," ",519
+"jag","MD4B","35"," ","N"," "," ","MS"," ",520
+"NO RESPONSE","MD4C","36"," ","N"," "," ","MS"," ",521
+"turn","MD5A","37"," ","N"," "," ","MS"," ",522
+"jag","MD5B","38"," ","N"," "," ","MS"," ",523
+"sack","MD6A","39(*)"," ","N"," "," ","MS"," ",524
+"jag","MD6B","40"," ","N"," "," ","MS"," ",525
+"jag","MD7A","41"," ","N"," "," ","MS"," ",526
+"jag","MD7B","41b"," ","N"," "," ","MS"," ",527
+"NO RESPONSE","MD7C!","42!"," ","N"," "," ","MS"," ",528
+"grinding","MD8A","43"," ","N"," "," ","MS"," ",529
+"jag","MD8B","44"," ","N"," "," ","MS"," ",530
+"grinding of corn","MD8B","44"," ","N"," "," ","MS"," ",530
+"jag","MD9N","N46"," ","N"," "," ","MS"," ",531
+"jag","MD9A","45"," ","N"," "," ","MS"," ",532
+"jag","MD9B","46"," ","N"," "," ","MS"," ",533
+"sack","MD10A","49"," ","N"," "," ","MS"," ",534
+"jag","MD10B","50"," ","N"," "," ","MS"," ",535
+"hundred of corn","MD10B","50"," ","N"," "," ","MS"," ",535
+"sack","MD11","51"," ","N"," "," ","MS"," ",536
+"bag of corn","MD12A","52"," ","N"," "," ","MS"," ",537
+"jag","MD12B","53"," ","N"," "," ","MS"," ",538
+"turn","MD13A","54(*)"," ","N"," "," ","MS"," ",539
+"bag of corn","MD13A","54(*)"," ","N","Y"," ","MS","aux: b. of c",539
+"NO RESPONSE","MD13B","55"," ","N"," "," ","MS"," ",540
+"NO RESPONSE","MD13C","56"," ","N"," "," ","MS"," ",541
+"sack","MD13D!","57!"," ","N"," "," ","MS"," ",542
+"NO RESPONSE","MD13E!","58!"," ","N"," "," ","MS"," ",543
+"sack","MD13F!","59!"," ","N"," "," ","MS"," ",544
+" ","MD13G"," "," "," "," "," "," "," ",545
+"bag of corn","MD14","61(*)"," ","N"," "," ","MS"," ",546
+"jag","MD15A","62"," ","N"," "," ","MS"," ",547
+"sack","MD15B","63"," ","N"," "," ","MS"," ",548
+"jag","MD15B","63"," ","N"," "," ","MS"," ",548
+"NO RESPONSE","MD16","64"," ","N"," "," ","MS"," ",549
+"bag of corn","MD17A","65"," ","N"," "," ","MS"," ",550
+"bail of corn","MD17B","66"," ","N"," "," ","MS"," ",551
+"jag","MD18A","67"," ","N","Y"," ","MS","j:7-8 bushel",552
+"sack","MD18A","67"," ","N"," "," ","MS"," ",552
+"jag","MD18B","68"," ","N"," "," ","MS"," ",553
+"NO RESPONSE","MD19A","69"," ","N"," "," ","MS"," ",554
+"NO RESPONSE","MD19B","70"," ","N"," "," ","MS"," ",555
+"jag","MD20A","71"," ","N"," "," ","MS"," ",556
+"NO RESPONSE","MD20B","72"," ","N"," "," ","MS"," ",557
+"NO RESPONSE","MD20C!","73!"," ","N"," "," ","MS"," ",558
+"bag of corn","MD21A","75"," ","N"," "," ","MS"," ",559
+"jag","MD21A","75"," ","N"," "," ","MS"," ",559
+"bag of corn","MD21B","76"," ","N"," "," ","MS"," ",560
+"NO RESPONSE","MD22N","N77"," ","N"," "," ","MS"," ",561
+"jag","MD22M","N78"," ","N"," "," ","MS"," ",562
+"sack","MD22M","N78"," ","N"," "," ","MS"," ",562
+"NO RESPONSE","MD22A","77"," ","N"," "," ","MS"," ",563
+"bag of corn","MD22B","78"," ","N"," "," ","MS"," ",564
+"jag","MD22B","78"," ","N"," "," ","MS"," ",564
+"NO RESPONSE","MD22C!","79!"," ","N"," "," ","MS"," ",565
+"little jag of corn","MD23A","80b"," ","N"," "," ","MS"," ",566
+"sack","MD23A","80b"," ","N"," "," ","MS"," ",566
+"sack","MD23B","80a"," ","N"," "," ","MS"," ",567
+"little jag of corn","MD23C","81"," ","N"," "," ","MS"," ",568
+"jag","MD24","82"," ","N"," "," ","MS"," ",569
+"sack","MD24","82"," ","N"," "," ","MS"," ",569
+"jag","MD25","84"," ","N"," "," ","MS"," ",570
+"sack","MD25","84"," ","N"," "," ","MS"," ",570
+"jag","MD26A","83"," ","N"," "," ","MS"," ",571
+"sack","MD26A","83"," ","N"," "," ","MS"," ",571
+"NO RESPONSE","MD26B","83A"," ","N"," "," ","MS"," ",572
+"jag","MD27A","85"," ","N","Y"," ","MS","j: part load",573
+"grist of corn","MD27A","85"," ","N"," "," ","MS"," ",573
+"grist of corn","MD27B","86"," ","N"," "," ","MS"," ",574
+"jag","MD27B","86"," ","N"," "," ","MS"," ",574
+"NO RESPONSE","DC1A","99"," ","N"," "," ","MS"," ",575
+"NO RESPONSE","DC1B!","100!"," ","N"," "," ","MS"," ",576
+"NO RESPONSE","VA1!","101!"," ","N"," "," ","MS"," ",577
+"grist of corn","VA2A","103"," ","N"," "," ","MS"," ",578
+"bag of corn","VA2B","104"," ","N"," "," ","MS"," ",579
+"bag of corn","VA3A","105(*)"," ","N","Y"," ","MS","aux",580
+"bag of corn","VA3B","106"," ","N"," "," ","MS"," ",581
+"sack","VA3B","106"," ","N"," "," ","MS"," ",581
+" ","VA3C"," "," "," "," "," "," "," ",582
+"turn","VA4N","N109"," ","N"," "," ","MS"," ",583
+"turn","VA5A","107"," ","N"," "," ","MS"," ",584
+"sack","VA5B","108"," ","N"," "," ","MS"," ",585
+"turn","VA6A","113"," ","N"," "," ","MS"," ",586
+"sack","VA6A","113"," ","N"," "," ","MS"," ",586
+"sack","VA6B","114"," ","N"," "," ","MS"," ",587
+"bag of corn","VA6B","114"," ","N"," "," ","MS"," ",587
+"turn","VA7A","121"," ","N"," "," ","MS"," ",588
+"turn","VA7B","122"," ","N"," "," ","MS"," ",589
+"bag of corn","VA7B","122"," ","N"," "," ","MS"," ",589
+"NO RESPONSE","VA8A","123"," ","N"," "," ","MS"," ",590
+"sack","VA8B","124"," ","N"," "," ","MS"," ",591
+"bag of corn","VA8B","124"," ","N","Y"," ","MS","b. of corn:",591
+"NO RESPONSE","VA8C!","125!"," ","N"," "," ","MS"," ",592
+"turn","VA9A","117"," ","N"," "," ","MS"," ",593
+"NO RESPONSE","VA9B!","118!"," ","N"," "," ","MS"," ",594
+"bag of corn","VA10A","127"," ","N"," "," ","MS"," ",595
+"mill turn","VA10B","128"," ","N","Y"," ","MS","corn you car",596
+"bag of corn","VA11A","129"," ","N"," "," ","MS"," ",597
+"turn","VA11B","130"," ","N"," "," ","MS"," ",598
+"bag of corn","VA11B","130"," ","N"," "," ","MS"," ",598
+"ERROR","VA12N","N131"," ","N"," "," ","MS"," ",599
+"bag of corn","VA12A","131"," ","N"," "," ","MS"," ",600
+"a milling of corn","VA12A","131"," ","N"," "," ","MS"," ",600
+"shoulder turn","VA12A","131"," ","N","Y"," ","MS","b.c.: 2 bu.;",600
+"jag","VA12B!","132!"," ","N"," "," ","MS"," ",601
+"turn","VA12B!","132!"," ","N"," "," ","MS"," ",601
+"bag of corn","VA13A","133"," ","N"," "," ","MS"," ",602
+"bag of corn","VA13B","134"," ","N"," "," ","MS"," ",603
+"NO RESPONSE","VA14A","135"," ","N"," "," ","MS"," ",604
+"bag of corn","VA14B","136"," ","N"," "," ","MS"," ",605
+"bag of corn","VA14C","137"," ","N"," "," ","MS"," ",606
+"turn","VA15N","N139(*)"," ","N","Y"," ","MS","t. of c.: as",607
+"bag of corn","VA15N","N139(*)"," ","N"," "," ","MS"," ",607
+"bag of corn","VA15A","139"," ","N"," "," ","MS"," ",608
+"turn","VA15A","139"," ","N"," "," ","MS"," ",608
+"bag of corn","VA15B","140"," ","N"," "," ","MS"," ",609
+"turn","VA16A","141"," ","N"," "," ","MS"," ",610
+"NO RESPONSE","VA16B","142"," ","N"," "," ","MS"," ",611
+"turn","VA17A","143"," ","N"," "," ","MS"," ",612
+"turn","VA17B","144"," ","N"," "," ","MS"," ",613
+"sack","VA18","145"," ","N"," "," ","MS"," ",614
+"sack","VA18","145"," ","N"," "," ","MS"," ",614
+"turn","VA18","145"," ","N","Y"," ","MS","both resp: 2",614
+"bag of corn","VA19A","146"," ","N"," "," ","MS"," ",615
+"bag of corn","VA19B","147"," ","N"," "," ","MS"," ",616
+"bag of corn","VA19C!","148!"," ","N"," "," ","MS"," ",617
+"bag of corn","VA20A","149"," ","N"," "," ","MS"," ",618
+"bag of corn","VA20B","150(*)"," ","N"," "," ","MS"," ",619
+" ","VA20C"," "," "," "," "," "," "," ",620
+"bushel of corn","VA21N","N153"," ","N"," "," ","MS"," ",621
+"NO RESPONSE","VA21A","153"," ","N"," "," ","MS"," ",622
+"bag of corn","VA21B","154"," ","N"," "," ","MS"," ",623
+"bag of corn","VA22","155"," ","N"," "," ","MS"," ",624
+"bag of corn","VA23A","156"," ","N"," "," ","MS"," ",625
+"turn","VA23A","156"," ","N"," "," ","MS"," ",625
+"NO RESPONSE","VA23B","157"," ","N"," "," ","MS"," ",626
+"sack","VA24","159"," ","N"," "," ","MS"," ",627
+"NO RESPONSE","VA25","160(*)"," ","N"," "," ","MS"," ",628
+"basket of corn","VA26A","161A"," ","N"," "," ","MS"," ",629
+"basket of corn","VA26B","161"," ","N"," "," ","MS"," ",630
+"bag of corn","VA26C","162"," ","N"," "," ","MS"," ",631
+"bag of corn","VA27","163(*)"," ","N"," "," ","MS"," ",632
+"bag of corn","VA28A","164"," ","N"," "," ","MS"," ",633
+"bag of corn","VA28B","165"," ","N"," "," ","MS"," ",634
+"bag of corn","VA29","166"," ","N"," "," ","MS"," ",635
+"bag of corn","VA30A","167"," ","N"," "," ","MS"," ",636
+"turn","VA30A","167"," ","N"," "," ","MS"," ",636
+"NO RESPONSE","VA30B!","167a!"," ","N"," "," ","MS"," ",637
+"NO RESPONSE","VA30C!","168!"," ","N"," "," ","MS"," ",638
+"bag of corn","VA30D!","169!"," ","N"," "," ","MS"," ",639
+"bag of corn","VA30E!","170!"," ","N"," "," ","MS"," ",640
+"bag of corn","VA31A","171(*)(**)"," ","N"," "," ","MS"," ",641
+"turn","VA31A","171(*)(**)"," ","N"," "," ","MS"," ",641
+"NO RESPONSE","VA31B","172"," ","N"," "," ","MS"," ",642
+" ","VA31C"," "," "," "," "," "," "," ",643
+"sack","VA32!","175!"," ","N"," "," ","MS"," ",644
+"turn","VA33A","173"," ","N"," "," ","MS"," ",645
+"turn","VA33B","174"," ","N"," "," ","MS"," ",646
+"NO RESPONSE","VA34A","177(*)"," ","N"," "," ","MS"," ",647
+"bag of corn","VA34B","178"," ","N"," "," ","MS"," ",648
+"bag of corn","VA35A","179"," ","N"," "," ","MS"," ",649
+"bag of corn","VA35B","180"," ","N"," "," ","MS"," ",650
+"bag of corn","VA36A","181"," ","N"," "," ","MS"," ",651
+"bag of corn","VA36B","182"," ","N"," "," ","MS"," ",652
+"bag of corn","VA37","183"," ","N"," "," ","MS"," ",653
+"NO RESPONSE","VA38","185"," ","N"," "," ","MS"," ",654
+"NO RESPONSE","VA39!","186!"," ","N"," "," ","MS"," ",655
+"bag of corn","VA40A","187"," ","N"," "," ","MS"," ",656
+"bag of corn","VA40B","188"," ","N"," "," ","MS"," ",657
+"turn","VA41A","191"," ","N"," "," ","MS"," ",658
+"sack","VA41B","192"," ","N"," "," ","MS"," ",659
+"turn","VA42A","193(*)(**)"," ","N"," "," ","MS"," ",660
+"sack","VA42A","193(*)(**)"," ","N","Y"," ","MS","***; aux: sa",660
+"turn","VA42B","194"," ","N","Y"," ","MS","sack=2 bu.",661
+"sack","VA42B","194"," ","N"," "," ","MS"," ",661
+"bag of corn","VA43N","N195"," ","N"," "," ","MS"," ",662
+"bag of corn","VA43A","195"," ","N"," "," ","MS"," ",663
+"turn","VA43A","195"," ","N","Y"," ","MS","turn: a bag",663
+"turn","VA43B","196"," ","N"," "," ","MS"," ",664
+"bag of corn","VA43B","196"," ","N"," "," ","MS"," ",664
+"turn","VA44A","199"," ","N"," "," ","MS"," ",665
+"turn","VA44B","200"," ","N"," "," ","MS"," ",666
+"NO RESPONSE","VA45A","201"," ","N"," "," ","MS"," ",667
+"sack","VA45B","202"," ","N"," "," ","MS"," ",668
+"turn","VA45B","202"," ","N","Y"," ","MS","t. of c: o-f",668
+"turn","VA46N","N207"," ","N"," "," ","MS"," ",669
+"turn","VA46A","207"," ","N"," "," ","MS"," ",670
+" ","VA46B!","208!"," "," "," "," ","MS"," ",671
+"turn","VA46B!","208!"," ","N"," "," ","MS"," ",671
+"bag of corn","VA47","211"," ","N"," "," ","MS"," ",672
+"turn","VA47","211"," ","N"," "," ","MS"," ",672
+"turn","VA48A","213(*)"," ","N"," "," ","MS"," ",673
+"turn","VA48B","214"," ","N"," "," ","MS"," ",674
+"sack","VA49A","215"," ","N"," "," ","MS"," ",675
+"turn","VA49A","215"," ","N"," "," ","MS"," ",675
+"turn","VA49B","216"," ","N","Y"," ","MS","o-f",676
+"turn","VA50A","217"," ","N"," "," ","MS"," ",677
+"bag of corn","VA50B","218"," ","N"," "," ","MS"," ",678
+"sack","VA51A","219"," ","N"," "," ","MS"," ",679
+"bag of corn","VA51B","220(*)"," ","N","Y"," ","MS","aux",680
+" ","VA51C"," "," "," "," "," "," "," ",681
+"sack","VA52A","224"," ","N"," "," ","MS"," ",682
+"grist of corn","VA52A","224"," ","N","Y"," ","MS","g. of c: o-f",682
+"bag of corn","VA52B","225"," ","N"," "," ","MS"," ",683
+"grist of corn","VA52C!","226!"," ","N"," "," ","MS"," ",684
+"turn","VA53A","227"," ","N"," "," ","MS"," ",685
+"sack","VA53A","227"," ","N"," "," ","MS"," ",685
+"NO RESPONSE","VA53B","228"," ","N"," "," ","MS"," ",686
+"grist of corn","VA54A","229"," ","N"," "," ","MS"," ",687
+"turn","VA54B","230"," ","N"," "," ","MS"," ",688
+"grist of corn","VA55A","233(*)"," ","N"," "," ","MS"," ",689
+"NO RESPONSE","VA55B","234(*)"," ","N"," "," ","MS"," ",690
+"bag of corn","VA56A","237"," ","N"," "," ","MS"," ",691
+"grist of corn","VA56B","238"," ","N"," "," ","MS"," ",692
+"bag of corn","VA56B","238"," ","N"," "," ","MS"," ",692
+"grist of corn","VA57A","239"," ","N"," "," ","MS"," ",693
+"bag of corn","VA57B","240"," ","N"," "," ","MS"," ",694
+"sack","VA58","241(*)"," ","N"," "," ","MS"," ",695
+"turn","VA58","241(*)"," ","N"," "," ","MS"," ",695
+"bag of corn","VA59N","N241"," ","N"," "," ","MS"," ",696
+"turn","VA59N","N241"," ","N"," "," ","MS"," ",696
+"turn","VA59A","242"," ","N"," "," ","MS"," ",697
+"bag of corn","VA59A","242"," ","N"," "," ","MS"," ",697
+"bag of corn","VA59B!","243!"," ","N"," "," ","MS"," ",698
+"grist of corn","VA60","244(*)"," ","N"," "," ","MS"," ",699
+"sack","VA61A","245(*)"," ","N"," "," ","MS"," ",700
+"bag of corn","VA61A","245(*)"," ","N"," "," ","MS"," ",700
+"grist of corn","VA61B!","246!"," ","N"," "," ","MS"," ",701
+" ","VA61C"," "," "," "," "," "," "," ",702
+"turn","VA62A","247(*)"," ","N","Y"," ","MS","t of c:aux;",703
+"bag of corn","VA62A","247(*)"," ","N"," "," ","MS"," ",703
+"turn","VA62B","248"," ","N"," "," ","MS"," ",704
+"sack","VA63A","251"," ","N"," "," ","MS"," ",705
+"polk of corn","VA63A","251"," ","N","Y"," ","MS","see list",705
+"grist of corn","VA63A","251"," ","N"," "," ","MS"," ",705
+"polk of corn","VA63B","252"," ","N"," "," ","MS"," ",706
+"sack","VA63B","252"," ","N","Y"," ","MS","polk:1/2 bu;",706
+"turn","VA64A","255"," ","N"," "," ","MS"," ",707
+"sack","VA64B","256"," ","N"," "," ","MS"," ",708
+"turn","VA64B","256"," ","N"," "," ","MS"," ",708
+"turn","VA65A","257"," ","N"," "," ","MS"," ",709
+"turn","VA65B","258"," ","N"," "," ","MS"," ",710
+"bag of corn","VA65C!","259!"," ","N"," "," ","MS"," ",711
+"turn","VA66A","261"," ","N"," "," ","MS"," ",712
+"turn","VA66B","262"," ","N"," "," ","MS"," ",713
+"turn","VA67A","267"," ","N"," "," ","MS"," ",714
+"turn","VA67B","268"," ","N"," "," ","MS"," ",715
+"grist of corn","VA67B","268"," ","N"," "," ","MS"," ",715
+"turn","VA68A","269"," ","N"," "," ","MS"," ",716
+"turn","VA68B","270"," ","N"," "," ","MS"," ",717
+"sack","VA69A","273"," ","N"," "," ","MS"," ",718
+"turn","VA69B","274"," ","N"," "," ","MS"," ",719
+"turn","VA70A","275"," ","N"," "," ","MS"," ",720
+"grist of corn","VA70A","275"," ","N"," "," ","MS"," ",720
+"grist of corn","VA70B","276"," ","N"," "," ","MS"," ",721
+"turn","VA71A","285"," ","N"," "," ","MS"," ",722
+"turn","VA71B","286"," ","N"," "," ","MS"," ",723
+"turn","VA72A","287"," ","N"," "," ","MS"," ",724
+"turn","VA72B","288"," ","N"," "," ","MS"," ",725
+"turn","VA73","291"," ","N"," "," ","MS"," ",726
+"sack","VA74A","293"," ","N"," "," ","MS"," ",727
+"turn","VA74A","293"," ","N"," "," ","MS"," ",727
+"grist of corn","VA74B!","294!"," ","N"," "," ","MS"," ",728
+"turn","VA74B!","294!"," ","N"," "," ","MS"," ",728
+"turn","VA75A","297"," ","N"," "," ","MS"," ",729
+"bag of corn","VA75B","298"," ","N"," "," ","MS"," ",730
+"turn","VA75B","298"," ","N"," "," ","MS"," ",730
+"bag of corn","NC1","303"," ","N"," "," ","MS"," ",731
+"bag of corn","NC2A","301"," ","N"," "," ","MS"," ",732
+"sack","NC2A","301"," ","N","Y"," ","MS","b. of c:aux;",732
+"bag of corn","NC2B","304"," ","N"," "," ","MS"," ",733
+"bag of corn","NC3A","305"," ","N"," "," ","MS"," ",734
+"bag of corn","NC3B","306"," ","N"," "," ","MS"," ",735
+"bag of corn","NC4A","307"," ","N"," "," ","MS"," ",736
+"sack","NC4B","308"," ","N"," "," ","MS"," ",737
+"bag of corn","NC5A","309"," ","N"," "," ","MS"," ",738
+"bag of corn","NC5B","310"," ","N"," "," ","MS"," ",739
+"NO RESPONSE","NC6!","311!"," ","N"," "," ","MS"," ",740
+"NO RESPONSE","NC7A","315(*)"," ","N"," "," ","MS"," ",741
+"sack","NC7B","316"," ","N"," "," ","MS"," ",742
+"sack","NC8N","N317"," ","N"," "," ","MS"," ",743
+"sack","NC8A","317"," ","N"," "," ","MS"," ",744
+"bag of corn","NC8B","318(*)"," ","N"," "," ","MS"," ",745
+"sack","NC8B","318(*)"," ","N"," "," ","MS"," ",745
+"bushel of corn","NC9A","319"," ","N"," "," ","MS"," ",746
+"bag of corn","NC9B","320"," ","N"," "," ","MS"," ",747
+"NO RESPONSE","NC10A","321"," ","N"," "," ","MS"," ",748
+"sack","NC10B","323"," ","N"," "," ","MS"," ",749
+"NO RESPONSE","NC10C","322"," ","N"," "," ","MS"," ",750
+"sack","NC11A","325"," ","N"," "," ","MS"," ",751
+"bag of corn","NC11B","326"," ","N"," "," ","MS"," ",752
+"bag of corn","NC12A","327(*)"," ","N"," "," ","MS"," ",753
+"sack","NC12B","328"," ","N"," "," ","MS"," ",754
+"bag of corn","NC13A","329"," ","N"," "," ","MS"," ",755
+"bag of corn","NC13B","330(*)"," ","N"," "," ","MS"," ",756
+"bag of corn","NC14N","N331"," ","N"," "," ","MS"," ",757
+"NO RESPONSE","NC14A","331"," ","N"," "," ","MS"," ",758
+"NO RESPONSE","NC14B","332"," ","N"," "," ","MS"," ",759
+"bag of corn","NC14C!","333!"," ","N"," "," ","MS"," ",760
+"sack","NC15A","335(*)"," ","N"," "," ","MS"," ",761
+"sack","NC15B","336"," ","N"," "," ","MS"," ",762
+" ","NC15C"," "," "," "," "," "," "," ",763
+"sack","NC16A","339(*)"," ","N"," "," ","MS"," ",764
+"bag of corn","NC16A","339(*)"," ","N"," "," ","MS"," ",764
+"bag of corn","NC16B","340"," ","N"," "," ","MS"," ",765
+"sack","NC16B","340"," ","N"," "," ","MS"," ",765
+"sack","NC17A","337"," ","N"," "," ","MS"," ",766
+"sack","NC17B","338"," ","N"," "," ","MS"," ",767
+"sack","NC18A","341"," ","N"," "," ","MS"," ",768
+"sack","NC18B","342"," ","N"," "," ","MS"," ",769
+"bag of corn","NC19A","343"," ","N"," "," ","MS"," ",770
+"bag of corn","NC19B","344"," ","N"," "," ","MS"," ",771
+"NO RESPONSE","NC20A","345"," ","N"," "," ","MS"," ",772
+"bag of corn","NC20B","346a"," ","N"," "," ","MS"," ",773
+"bag of corn","NC20C","346b"," ","N"," "," ","MS"," ",774
+"sack","NC21A","347"," ","N"," "," ","MS"," ",775
+"bag of corn","NC21B","348"," ","N"," "," ","MS"," ",776
+"turn","NC22A","349"," ","N"," "," ","MS"," ",777
+"bag of corn","NC22B","349b"," ","N"," "," ","MS"," ",778
+"sack","NC23A","351a"," ","N"," "," ","MS"," ",779
+"bag of corn","NC23B","351b(*)"," ","N"," "," ","MS"," ",780
+"bag of corn","NC23C!","351c!"," ","N"," "," ","MS"," ",781
+"NO RESPONSE","NC23D!","351d!"," ","N"," "," ","MS"," ",782
+"sack","NC24N","N352"," ","N"," "," ","MS"," ",783
+"sack","NC24A","352a"," ","N"," "," ","MS"," ",784
+"bag of corn","NC24B","352b"," ","N"," "," ","MS"," ",785
+"bag of corn","NC25N","N353"," ","N"," "," ","MS"," ",786
+"sack","NC25A","353"," ","N"," "," ","MS"," ",787
+"sack","NC25B","354"," ","N"," "," ","MS"," ",788
+"sack","NC26A","355a"," ","N"," "," ","MS"," ",789
+"bag of corn","NC26B","355b"," ","N"," "," ","MS"," ",790
+"sack","NC26C!","356!"," ","N"," "," ","MS"," ",791
+"sack","NC27A","357"," ","N"," "," ","MS"," ",792
+"sack","NC27B","258"," ","N"," "," ","MS"," ",793
+"bag of corn","NC28A","361"," ","N"," "," ","MS"," ",794
+"bag of corn","NC28B","361b"," ","N"," "," ","MS"," ",795
+"bag of corn","NC28C","362"," ","N"," "," ","MS"," ",796
+"NO RESPONSE","NC29A","363(*)"," ","N"," "," ","MS"," ",797
+"sack","NC29B","364"," ","N"," "," ","MS"," ",798
+"bag of corn","NC30A","365"," ","N"," "," ","MS"," ",799
+"bag of corn","NC30B","366"," ","N"," "," ","MS"," ",800
+"sack","NC31A","367"," ","N"," "," ","MS"," ",801
+"turn","NC31A","367"," ","N"," "," ","MS"," ",801
+"bag of corn","NC31B","368"," ","N"," "," ","MS"," ",802
+"turn","NC32A","369"," ","N"," "," ","MS"," ",803
+"sack","NC32B!","370!"," ","N"," "," ","MS"," ",804
+"bag of corn","NC33A","373"," ","N"," "," ","MS"," ",805
+"sack","NC33B","374"," ","N"," "," ","MS"," ",806
+"sack","NC34A","375"," ","N"," "," ","MS"," ",807
+"bag of corn","NC34B","376"," ","N"," "," ","MS"," ",808
+"sack","NC34B","376"," ","N"," "," ","MS"," ",808
+"sack","NC35A","377"," ","N"," "," ","MS"," ",809
+"sack","NC35B","378"," ","N"," "," ","MS"," ",810
+"bag of corn","NC36N","N381"," ","N"," "," ","MS"," ",811
+"bag of corn","NC36A","381"," ","N"," "," ","MS"," ",812
+"bag of corn","NC36B","382"," ","N"," "," ","MS"," ",813
+"sack","NC37A","383"," ","N"," "," ","MS"," ",814
+"sack","NC37B","384"," ","N"," "," ","MS"," ",815
+"sack","NC38N","N385"," ","N"," "," ","MS"," ",816
+"bag of corn","NC38A","385"," ","N"," "," ","MS"," ",817
+"sack","NC38B","386"," ","N"," "," ","MS"," ",818
+"sack","NC39A","389"," ","N"," "," ","MS"," ",819
+"bag of corn","NC39B!","390!"," ","N"," "," ","MS"," ",820
+"turn","NC40A","391"," ","N"," "," ","MS"," ",821
+"sack","NC40A","391"," ","N"," "," ","MS"," ",821
+"bag of corn","NC40B","392"," ","N"," "," ","MS"," ",822
+"sack","NC41!","393!"," ","N"," "," ","MS"," ",823
+"grist of corn","NC42A","403"," ","N"," "," ","MS"," ",824
+"sack","NC42B","404(*)"," ","N","Y"," ","MS","aux:sack of",825
+"grist of corn","NC42B","404(*)"," ","N"," "," ","MS"," ",825
+"sack","NC43A","397"," ","N"," "," ","MS"," ",826
+"grist of corn","NC43B","398"," ","N"," "," ","MS"," ",827
+"sack","NC44","410(*)"," ","N"," "," ","MS"," ",828
+"turn","NC44","410(*)"," ","N"," "," ","MS"," ",828
+"sack","NC45A","409(*)"," ","N","Y"," ","MS"," ",829
+"turn","NC45A","409(*)"," ","N"," "," ","MS"," ",829
+" ","NC45B"," "," "," "," "," "," "," ",830
+"grist of corn","NC46A","411"," ","N"," "," ","MS"," ",831
+"sack","NC46B","412"," ","N"," "," ","MS"," ",832
+"grist of corn","NC46B","412"," ","N"," "," ","MS"," ",832
+"sack","NC46C!","412b!"," ","N"," "," ","MS"," ",833
+"turn","NC47","413"," ","N"," "," ","MS"," ",834
+"grasp of corn","NC48","418"," ","Y"," "," ","MS"," ",835
+" ","NC49","421"," "," "," "," ","MS"," ",836
+"turn","NC50A","422"," ","N"," "," ","MS"," ",837
+"grist of corn","NC50B!","423!"," ","N"," "," ","MS"," ",838
+"sack","NC51A","427"," ","N"," "," ","MS"," ",839
+"bag of corn","NC51B","428"," ","N"," "," ","MS"," ",840
+"sack","NC52N","N429"," ","N"," "," ","MS"," ",841
+"turn","NC52A","429"," ","N"," "," ","MS"," ",842
+"turn","NC52B","430"," ","N"," "," ","MS"," ",843
+"turn","NC53A","431"," ","N"," "," ","MS"," ",844
+"sack","NC53B","432"," ","N"," "," ","MS"," ",845
+"turn","NC54A","433"," ","N"," "," ","MS"," ",846
+"sack","NC54B","434"," ","N"," "," ","MS"," ",847
+"grist of corn","NC54B","434"," ","N"," "," ","MS"," ",847
+"sack","NC55","435"," ","N"," "," ","MS"," ",848
+"grist of corn","NC56A","436"," ","N"," "," ","MS"," ",849
+"NO RESPONSE","NC56B!","437!"," ","N"," "," ","MS"," ",850
+"turn","NC57A","438a"," ","N"," "," ","MS"," ",851
+"turn","NC57B","438b"," ","N"," "," ","MS"," ",852
+"turn","NC58A","439"," ","N"," "," ","MS"," ",853
+"turn","NC58B","440"," ","N"," "," ","MS"," ",854
+"turn","NC59","441(*)"," ","N"," "," ","MS"," ",855
+"turn","NC60","442"," ","N"," "," ","MS"," ",856
+"turn","NC61A","443"," ","N"," "," ","MS"," ",857
+"grist of corn","NC61B","444"," ","N"," "," ","MS"," ",858
+"sack","NC61B","444"," ","N"," "," ","MS"," ",858
+"turn","NC62A","447"," ","N"," "," ","MS"," ",859
+"turn","NC62B","448"," ","N"," "," ","MS"," ",860
+"turn","NC63A","449"," ","N"," "," ","MS"," ",861
+"turn","NC63B","450"," ","N"," "," ","MS"," ",862
+"turn","NC64A","453"," ","N"," "," ","MS"," ",863
+"turn","NC64B","454"," ","N"," "," ","MS"," ",864
+"sack","NC64B","454"," ","N"," "," ","MS"," ",864
+"turn","NC65A","461"," ","N"," "," ","MS"," ",865
+"turn","NC65B","462"," ","N"," "," ","MS"," ",866
+"turn","NC66A","465"," ","N"," "," ","MS"," ",867
+"turn","NC66B","466"," ","N"," "," ","MS"," ",868
+"turn","NC67A","469"," ","N"," "," ","MS"," ",869
+"turn","NC67B","470"," ","N","Y"," ","MS","to carry to",870
+"turn","NC68A","473"," ","N"," "," ","MS"," ",871
+"turn","NC68B","474"," ","N"," "," ","MS"," ",872
+"turn","NC69A","477"," ","N"," "," ","MS"," ",873
+"sack","NC69A","477"," ","N"," "," ","MS"," ",873
+"turn of meal","NC69B","478"," ","N"," "," ","MS"," ",874
+"turn","NC69B","478"," ","N"," "," ","MS"," ",874
+"turn","NC70A","479"," ","N"," "," ","MS"," ",875
+"NO RESPONSE","NC70B","480"," ","N"," "," ","MS"," ",876
+"turn","NC71A","481"," ","N"," "," ","MS"," ",877
+"turn","NC71B","482"," ","N"," "," ","MS"," ",878
+"turn","NC71C!","483!"," ","N"," "," ","MS"," ",879
+"turn","NC72A","487"," ","N"," "," ","MS"," ",880
+"turn","NC72B","488"," ","N"," "," ","MS"," ",881
+"turn","NC73A","491"," ","N"," "," ","MS"," ",882
+"turn","NC73B","492"," ","N"," "," ","MS"," ",883
+"turn","NC74A","493"," ","N"," "," ","MS"," ",884
+"turn","NC74B","494"," ","N"," "," ","MS"," ",885
+"turn","NC75A","495"," ","N"," "," ","MS"," ",886
+"turn","NC75B","496"," ","N"," "," ","MS"," ",887
+"sack","SC1A","203.1"," ","N"," "," ","MS"," ",888
+"sack","SC1B","203.2"," ","N"," "," ","MS"," ",889
+"bag of corn","SC2A","204.1(*)"," ","N"," "," ","MS"," ",890
+"sack","SC2A","204.1(*)"," ","N","Y"," ","MS","aux:sack of",890
+"milling of corn","SC2B","204.2"," ","N"," "," ","MS"," ",891
+"sack","SC2B","204.2"," ","N"," "," ","MS"," ",891
+" ","SC2C"," "," "," "," "," "," "," ",892
+"turn","SC3A","205.1"," ","N","Y"," ","MS","as much as y",893
+"load of wheat","SC3B","205.2"," ","N","Y"," ","MS","seconds:***:",894
+"sack of corn","SC3C!","205.3!"," ","N"," "," ","MS"," ",895
+" ","SC3C!","205.3!"," "," "," "," ","MS"," ",895
+"corn","SC3C!","205.3!"," ","N"," "," ","MS"," ",895
+"grinding","SC4A","206.1"," ","N","Y"," ","MS","half meal an",896
+"grinding","SC4B","206.2"," ","N","Y"," ","MS","water mills;",897
+"milling","SC4C","206.3"," ","N"," "," ","MS"," ",898
+"grinding","SC4C","206.3"," ","N","Y"," ","MS","mother's ter",898
+"grinding","SC5A","207.1"," ","N"," "," ","MS"," ",899
+"sack","SC5B","207.2"," ","N","Y"," ","MS","half and hal",900
+"grinding","SC5C","207.2A"," ","N"," "," ","MS"," ",901
+"NO RESPONSE","SC5D!","207.3!"," ","N"," "," ","MS"," ",902
+"NO RESPONSE","SC6N","N208"," ","N"," "," ","MS"," ",903
+"NO RESPONSE","SC6A","208.1"," ","N"," "," ","MS"," ",904
+"turns","SC6B","208.2(*)"," ","N","Y"," ","MS","wheat",905
+"NO RESPONSE","SC6C!","208.3!"," ","N"," "," ","MS"," ",906
+" ","SC6D"," "," "," "," "," "," "," ",907
+"NO RESPONSE","SC7N","N209"," ","N"," "," ","MS"," ",908
+"bushel","SC7A","209.1"," ","N"," "," ","MS"," ",909
+"NO RESPONSE","SC7B","209.2"," ","N"," "," ","MS"," ",910
+"grinding","SC7C!","209.3!"," ","N","Y"," ","MS","informant?",911
+"sack","SC7D!","209.4!"," ","N"," "," ","MS"," ",912
+"NO RESPONSE","SC8A","210.1"," ","N"," "," ","MS"," ",913
+"bunch of corn","SC8B","210.2"," ","N","Y"," ","MS","mortar:***;",914
+"NO RESPONSE","SC8C","210.3"," ","N"," "," ","MS"," ",915
+"NO RESPONSE","SC9A","211.1"," ","N"," "," ","MS"," ",916
+"NO RESPONSE","SC9B","211.2"," ","N"," "," ","MS"," ",917
+"NO RESPONSE","SC9C!","211.3!"," ","N"," "," ","MS"," ",918
+"NO RESPONSE","SC9D!","211.4!"," ","N"," "," ","MS"," ",919
+"some corn","SC10A","212.1"," ","N"," "," ","MS"," ",920
+"NO RESPONSE","SC10B!","212.2!"," ","N"," "," ","MS"," ",921
+"NO RESPONSE","SC10C!","212.3!"," ","N"," "," ","MS"," ",922
+"NO RESPONSE","SC11N","N213"," ","N"," "," ","MS"," ",923
+"NO RESPONSE","SC11M!","2n213!"," ","N"," "," ","MS"," ",924
+"NO RESPONSE","SC11A","213.1(*)"," ","N"," "," ","MS"," ",925
+"NO RESPONSE","SC11B","213.11"," ","N"," "," ","MS"," ",926
+"bushel of corn","SC11C","213.2"," ","N"," "," ","MS"," ",927
+"NO RESPONSE","SC11D","213.3"," ","N"," "," ","MS"," ",928
+"NO RESPONSE","SC11E","213.4"," ","N"," "," ","MS"," ",929
+"NO RESPONSE","SC11F","213.5"," ","N"," "," ","MS"," ",930
+"NO RESPONSE","SC11G!","213.7!"," ","N"," "," ","MS"," ",931
+"sack of flour","SC11H!","213.8!"," ","N"," "," ","MS"," ",932
+"NO RESPONSE","SC11I!","213.9!"," ","N"," "," ","MS"," ",933
+"NO RESPONSE","SC11J!","213.10!"," ","N"," "," ","MS"," ",934
+"bushel of corn","SC12A","214.1"," ","N","Y"," ","MS","water mill:*",935
+"NO RESPONSE","SC12B","214.2"," ","N"," "," ","MS"," ",936
+"NO RESPONSE","SC13","213.6"," ","N"," "," ","MS"," ",937
+"turn","SC14A","215.1"," ","N","Y"," ","MS","sug:t of c:",938
+"sack","SC14B","215.2"," ","N"," "," ","MS"," ",939
+"milling of corn","SC15A","216.1"," ","N"," "," ","MS"," ",940
+"grinding","SC15B","216.2"," ","N"," "," ","MS"," ",941
+"milling of corn","SC15C","216.3"," ","N"," "," ","MS"," ",942
+"grinding","SC16N","N217"," ","N","Y"," ","MS","sug, o-f;",943
+"sack","SC16","217.1"," ","N","Y"," ","MS","corn",944
+"grinding","SC17A","218.1"," ","N"," "," ","MS"," ",945
+"grinding","SC17B","218.2"," ","N","Y"," ","MS","corn",946
+"grinding","SC17C","218.3"," ","N","Y"," ","MS","meal:***; gr",947
+"grinding","SC17D","218.4"," ","N"," "," ","MS"," ",948
+"load of corn","SC18N","N219"," ","N"," "," ","MS"," ",949
+"NO RESPONSE","SC18A","219.1"," ","N"," "," ","MS"," ",950
+"NO RESPONSE","SC18B","219.2"," ","N"," "," ","MS"," ",951
+"load of corn","SC18C!","219.3(*)!"," ","N"," "," ","MS"," ",952
+"turn","SC18C!","219.3(*)!"," ","N","Y"," ","MS"," ",952
+" ","SC18D!"," "," "," "," "," "," "," ",953
+"sack","SC19N","N220"," ","N","Y"," ","MS","1 1/2 bushel",954
+"load","SC19A","220.1"," ","N"," "," ","MS"," ",955
+"load","SC19A","220.1"," ","N","Y"," ","MS","load:***:(?)",955
+"wagon load","SC19B","220.4"," ","N"," "," ","MS"," ",956
+"load","SC19C","220.2(*)"," ","N"," "," ","MS"," ",957
+"turn","SC19C","220.2(*)"," ","N"," "," ","MS"," ",957
+"NO RESPONSE","SC19D!","220.3!"," ","N"," "," ","MS"," ",958
+" ","SC19E!"," "," "," "," "," "," "," ",959
+"turning","SC20A","221.1"," ","N","Y"," ","MS","meal:***",960
+"milling","SC20B","221.2"," ","N","Y"," ","MS","corn",961
+"NO RESPONSE","SC20C","221.3"," ","N"," "," ","MS"," ",962
+"NO RESPONSE","SC20D!","221.4!"," ","N"," "," ","MS"," ",963
+"sack","SC21A","222.1"," ","N"," "," ","MS"," ",964
+"sack","SC21B","222.2"," ","N"," "," ","MS"," ",965
+"turn","SC22N","N223"," ","N","Y"," ","MS","what you can",966
+"chants of corn","SC22A","223.1"," ","N","Y"," ","MS","heard",967
+"NO RESPONSE","SC22B","223.2"," ","N"," "," ","MS"," ",968
+"bag of corn","SC22C!","223.3!"," ","N"," "," ","MS"," ",969
+"turn","SC23A","224.1"," ","N"," "," ","MS"," ",970
+"NO RESPONSE","SC23B","224.2"," ","N"," "," ","MS"," ",971
+"NO RESPONSE","SC23C","224.3"," ","N"," "," ","MS"," ",972
+"sack","SC23D","224.4"," ","N"," "," ","MS"," ",973
+"load","SC23E!","224.5!"," ","N","Y"," ","MS"," ",974
+"turn","SC24N","N225"," ","N","Y"," ","MS","time to grin",975
+"NO RESPONSE","SC24A","225.1"," ","N"," "," ","MS"," ",976
+"grinding","SC24B","225.11"," ","N","Y"," ","MS","cv:grding;",977
+"turn","SC24B","225.11"," ","N"," "," ","MS"," ",977
+"turn","SC24C","225.2"," ","N"," "," ","MS"," ",978
+"NO RESPONSE","SC24D!","225.3!"," ","N"," "," ","MS"," ",979
+"NO RESPONSE","SC25A","226.1"," ","N"," "," ","MS"," ",980
+"turn","SC25B","226.2"," ","N","Y"," ","MS","grist mills:",981
+"mill","SC25B","226.2"," ","N"," "," ","MS"," ",981
+"NO RESPONSE","SC25C!","226.3!"," ","N"," "," ","MS"," ",982
+"turn","SC26A","227.1"," ","N"," "," ","MS"," ",983
+"NO RESPONSE","SC26B!","227.2!"," ","N"," "," ","MS"," ",984
+"NO RESPONSE","SC27A","228.1"," ","N"," "," ","MS"," ",985
+"mill","SC27B","228.2"," ","N"," "," ","MS"," ",986
+"sack","SC27B","228.2"," ","N"," "," ","MS"," ",986
+"NO RESPONSE","SC28A","229.1"," ","N"," "," ","MS"," ",987
+"sack","SC28B","217.2"," ","N"," "," ","MS"," ",988
+"NO RESPONSE","SC28C","229.2"," ","N"," "," ","MS"," ",989
+"NO RESPONSE","SC28D","229.3"," ","N"," "," ","MS"," ",990
+"sack","SC29A","230.2(*)"," ","N","Y"," ","MS","aux:meal and",991
+"grinding","SC29B","230.1(*)"," ","N","Y"," ","MS","cv",992
+"turn","SC29C","230.3"," ","N","Y"," ","MS","s. of c: ove",993
+"sack","SC29C","230.3"," ","N"," "," ","MS"," ",993
+" ","SC29D"," "," "," "," "," "," "," ",994
+" ","SC29E"," "," "," "," "," "," "," ",995
+"turn","SC30A","231.1"," ","N"," "," ","MS"," ",996
+"turn","SC30B","231.2"," ","N"," "," ","MS"," ",997
+"NO RESPONSE","SC30C!","231.3!"," ","N"," "," ","MS"," ",998
+"turn","SC31A","232.1"," ","N","Y"," ","MS","corn",999
+"mill turn","SC31B","232.2"," ","N"," "," ","MS"," ",1000
+"NO RESPONSE","SC32A","233.1"," ","N"," "," ","MS"," ",1001
+"turn","SC32B","233.2"," ","N"," "," ","MS"," ",1002
+"NO RESPONSE","SC32C","233.3"," ","N"," "," ","MS"," ",1003
+"sack","SC32D","233.4"," ","N"," "," ","MS"," ",1004
+"turn","SC33A","234.1"," ","N","Y"," ","MS","***:sic;",1005
+"turn","SC33B","234.2"," ","N","Y"," ","MS","corn",1006
+"grist","SC34A","235.1"," ","N","Y"," ","MS","heard, didn'",1007
+"grist of corn","SC34B","235.2"," ","N"," "," ","MS"," ",1008
+"NO RESPONSE","SC34C","235.3"," ","N"," "," ","MS"," ",1009
+"NO RESPONSE","SC35A","236.1"," ","N"," "," ","MS"," ",1010
+"NO RESPONSE","SC35B","236.2"," ","N"," "," ","MS"," ",1011
+"bushel","SC35C","236.3(*)"," ","N"," "," ","MS"," ",1012
+"turn","SC35C","236.3(*)"," ","N","Y"," ","MS","aux: t. of c",1012
+" ","SC35D"," "," "," "," "," "," "," ",1013
+" ","SC35E!"," "," "," "," "," "," "," ",1014
+"turn","SC36A","237.1"," ","N"," "," ","MS"," ",1015
+"turn","SC36B","237.2"," ","N","Y"," ","MS","corn or whea",1016
+"turn","SC36C","237.3"," ","N"," "," ","MS"," ",1017
+"NO RESPONSE","SC36D!","237.4!"," ","N"," "," ","MS"," ",1018
+"wagon load","SC37","238"," ","N"," "," ","MS"," ",1019
+"turn of wheat","SC38N","N239"," ","N"," "," ","MS"," ",1020
+"turn","SC38N","N239"," ","N"," "," ","MS"," ",1020
+"turn of wheat","SC38A","239.1"," ","N"," "," ","MS"," ",1021
+"turn","SC38A","239.1"," ","N"," "," ","MS"," ",1021
+"turn","SC38B","239.2"," ","N"," "," ","MS"," ",1022
+"NO RESPONSE","SC38C!","239.3!"," ","N"," "," ","MS"," ",1023
+"NO RESPONSE","SC38D!","239.4(*)!"," ","N"," "," ","MS"," ",1024
+" ","SC38E!"," "," "," "," "," "," "," ",1025
+"whole load","SC39A","240.1"," ","N"," "," ","MS"," ",1026
+"turnings","SC39A","240.1"," ","N"," "," ","MS"," ",1026
+"turn","SC39B!","240.2!"," ","N"," "," ","MS"," ",1027
+"turn of meal","SC39B!","240.2!"," ","N","Y"," ","MS"," ",1027
+"NO RESPONSE","SC40A","241.1"," ","N"," "," ","MS"," ",1028
+"NO RESPONSE","SC40B","241.2"," ","N"," "," ","MS"," ",1029
+"turn","SC41A","242.1"," ","N"," "," ","MS"," ",1030
+"NO RESPONSE","SC41B","242.2"," ","N"," "," ","MS"," ",1031
+"NO RESPONSE","SC42N","N243"," ","N"," "," ","MS"," ",1032
+" ","SC42M"," "," "," "," "," "," "," ",1033
+"NO RESPONSE","SC42A","243.1"," ","N"," "," ","MS"," ",1034
+"turn","SC42B!","243.2!"," ","N","Y"," ","MS"," ",1035
+"turn","SC42C!","243.3!"," ","N","Y"," ","MS"," ",1036
+"NO RESPONSE","SC42D!","243.4!"," ","N"," "," ","MS"," ",1037
+"NO RESPONSE","SC42E!","243.5!"," ","N"," "," ","MS"," ",1038
+"turn","SC43A","244.1"," ","N"," "," ","MS"," ",1039
+"turn","SC43B","244.2"," ","N","Y"," ","MS","or horseback",1040
+"turn","SC43C","244.3"," ","N","Y"," ","MS","usu. a meali",1041
+"turn","SC44A","245.1"," ","N"," "," ","MS"," ",1042
+"load","SC44A","245.1"," ","N","Y"," ","MS","turn: a litt",1042
+"turn","SC44B","245.2"," ","N"," "," ","MS"," ",1043
+"load of wheat","SC44B","245.2"," ","N","Y"," ","MS","turn: small",1043
+"NO RESPONSE","GA1N","N246"," ","N"," "," ","MS"," ",1044
+"load","GA1A","246.1(*)"," ","N"," "," ","MS"," ",1045
+"load","GA1B","246.11"," ","N","Y"," ","MS","in a wagon",1046
+"NO RESPONSE","GA1C","246.2"," ","N"," "," ","MS"," ",1047
+"NO RESPONSE","GA1D","246.3"," ","N"," "," ","MS"," ",1048
+"NO RESPONSE","GA1E","246.4"," ","N"," "," ","MS"," ",1049
+"NO RESPONSE","GA1F!","246.5!"," ","N"," "," ","MS"," ",1050
+"NO RESPONSE","GA1G!","246.6!"," ","N"," "," ","MS"," ",1051
+"NO RESPONSE","GA1H!","246.7!"," ","N"," "," ","MS"," ",1052
+"NO RESPONSE","GA2N","N247"," ","N"," "," ","MS"," ",1053
+"NO RESPONSE","GA2A","247.1"," ","N"," "," ","MS"," ",1054
+"milling of corn","GA2B","247.2"," ","N"," "," ","MS"," ",1055
+"NO RESPONSE","GA3A","248.1"," ","N"," "," ","MS"," ",1056
+"grinding","GA3B","248.2"," ","N"," "," ","MS"," ",1057
+"NO RESPONSE","GA4N","N249"," ","N"," "," ","MS"," ",1058
+"NO RESPONSE","GA4A","249.1"," ","N"," "," ","MS"," ",1059
+"NO RESPONSE","GA4B","249.2"," ","N"," "," ","MS"," ",1060
+"NO RESPONSE","GA4C!","249.3!"," ","N"," "," ","MS"," ",1061
+"NO RESPONSE","GA5A","250.1"," ","N"," "," ","MS"," ",1062
+"NO RESPONSE","GA5B","250.2"," ","N"," "," ","MS"," ",1063
+"NO RESPONSE","GA5C","250.3"," ","N"," "," ","MS"," ",1064
+"NO RESPONSE","GA5D!","250.4!"," ","N","Y"," ","MS","cv:corn meal",1065
+"NO RESPONSE","GA5E!","250.5!"," ","N","Y"," ","MS","grits mill:*",1066
+"NO RESPONSE","GA6A","251.1"," ","N"," "," ","MS"," ",1067
+"NO RESPONSE","GA6B!","251.2!"," ","N"," "," ","MS"," ",1068
+"grinding","GA7","256"," ","N"," "," ","MS"," ",1069
+"bushel of corn","GA7","256"," ","N"," "," ","MS"," ",1069
+"grinding","GA8A","257.1"," ","N"," "," ","MS"," ",1070
+"milling","GA8B","257.2"," ","N"," "," ","MS"," ",1071
+"grinding","GA8B","257.2"," ","N","Y"," ","MS","corn",1071
+"NO RESPONSE","GA9A","257A.1"," ","N"," "," ","MS"," ",1072
+"loads","GA9B","257A.2"," ","N"," "," ","MS"," ",1073
+"turn of corn","GA10A","258.1"," ","N","Y"," ","MS","what you can",1074
+"grinding","GA10B","258.2"," ","N","Y"," ","MS","commons:***",1075
+"NO RESPONSE","GA11N","N258A"," ","N","Y"," ","MS","grist mill:*",1076
+"grist","GA12A","259.1"," ","N","Y"," ","MS","sug, heard,",1077
+"bushel","GA12B!","259.2(.3)"," ","N","Y"," ","MS"," ",1078
+"turn","GA13A","260.1"," ","N","Y"," ","MS","wagon load o",1079
+"NO RESPONSE","GA13B!","260.2!"," ","N"," "," ","MS"," ",1080
+"NO RESPONSE","GA14A","261.1"," ","N"," "," ","MS"," ",1081
+"milling of corn","GA14B","261.3"," ","N"," "," ","MS"," ",1082
+"milling of corn","GA14C","261.2"," ","N"," "," ","MS"," ",1083
+"NO RESPONSE","GA15A","262.1"," ","N"," "," ","MS"," ",1084
+"NO RESPONSE","GA15B","262.2"," ","N"," "," ","MS"," ",1085
+"grinding","GA16A","263.2"," ","N"," "," ","MS"," ",1086
+"load","GA16B","263.1"," ","N"," "," ","MS"," ",1087
+"load","GA16C","263.21"," ","N"," "," ","MS"," ",1088
+"half load","GA16C","263.21"," ","N"," "," ","MS"," ",1088
+"NO RESPONSE","GA16D!","263.3!"," ","N"," "," ","MS"," ",1089
+"NO RESPONSE","GA17N","N264"," ","N"," "," ","MS"," ",1090
+"NO RESPONSE","GA17","264"," ","N"," "," ","MS"," ",1091
+"turn","GA18A","264A.1"," ","N"," "," ","MS"," ",1092
+"half a bushel","GA18A","264A.1"," ","N"," "," ","MS"," ",1092
+"turn","GA18B","264A.2"," ","N","Y"," ","MS","meal:***;",1093
+"NO RESPONSE","GA19A","265.1"," ","N"," "," ","MS"," ",1094
+"NO RESPONSE","GA19B","265.2"," ","N"," "," ","MS"," ",1095
+"grinding","GA20A","266.1"," ","N"," "," ","MS"," ",1096
+"grinding","GA20B","266.2"," ","N","Y"," ","MS","grinding:hea",1097
+"mill turn","GA20B","266.2"," ","N"," "," ","MS"," ",1097
+"sack","GA21A","267.1"," ","N"," "," ","MS"," ",1098
+"bushel","GA21A","267.1"," ","N"," "," ","MS"," ",1098
+"turn","GA21B","267.2"," ","N"," "," ","MS"," ",1099
+"NO RESPONSE","GA22A","268A.1"," ","N"," "," ","MS"," ",1100
+"NO RESPONSE","GA22B","268A.2"," ","N"," "," ","MS"," ",1101
+"sack","GA23A","268.1"," ","N"," "," ","MS"," ",1102
+"NO RESPONSE","GA23B","268.11"," ","N"," "," ","MS"," ",1103
+"NO RESPONSE","GA23C","268.2"," ","N"," "," ","MS"," ",1104
+"NO RESPONSE","GA23D!","268.3"," ","N"," "," ","MS"," ",1105
+"NO RESPONSE","GA23E!","268.4!"," ","N"," "," ","MS"," ",1106
+"bushel","GA23F!","268.5!"," ","N"," "," ","MS"," ",1107
+"NO RESPONSE","GA24N","N269"," ","N"," "," ","MS"," ",1108
+"turn","GA24A","269.1"," ","N"," "," ","MS"," ",1109
+"NO RESPONSE","GA24B","269.2"," ","N","Y"," ","MS","corn sacks:*",1110
+"two bushels","GA25N","N269A"," ","N","Y"," ","MS","usu. quantit",1111
+"bushel","GA25N","N269A"," ","N"," "," ","MS"," ",1111
+"NO RESPONSE","GA26","270A"," ","N"," "," ","MS"," ",1112
+"bushel","GA27!","270!"," ","N"," "," ","MS"," ",1113
+"NO RESPONSE","GA28","271a"," ","N"," "," ","MS"," ",1114
+"load of wheat","GA29A","271.1"," ","N"," "," ","MS"," ",1115
+"grinding","GA29B","271.2"," ","N"," "," ","MS"," ",1116
+"turn of flour","GA30A","272.1(*)"," ","N","Y"," ","MS","""all you can",1117
+"turn","GA30A","272.1(*)"," ","N"," "," ","MS"," ",1117
+"turn","GA30B","272.2(*)"," ","N"," "," ","MS"," ",1118
+"turn","GA30C!","272.3!"," ","N","Y"," ","MS"," ",1119
+" ","GA30D"," "," "," "," "," "," "," ",1120
+" ","GA30E"," "," "," "," "," "," "," ",1121
+"turn","GA31","272A"," ","N"," "," ","MS"," ",1122
+"NO RESPONSE","GA32","272B"," ","N"," "," ","MS"," ",1123
+"bushel","GA33A","272C1"," ","N","Y"," ","MS","grain; wagon",1124
+"bushel","GA33B","272C2"," ","N","Y"," ","MS","of corn to m",1125
+"NO RESPONSE","GA34N","N273"," ","N"," "," ","MS"," ",1126
+"turn","GA34A","273.1"," ","N"," "," ","MS"," ",1127
+"NO RESPONSE","GA34B","273.2"," ","N"," "," ","MS"," ",1128
+"NO RESPONSE","GA35N","N273A"," ","N"," "," ","MS"," ",1129
+"two bushel","GA36N","N274A"," ","N"," "," ","MS"," ",1130
+"NO RESPONSE","GA37N","2N274"," ","N"," "," ","MS"," ",1131
+"NO RESPONSE","GA37M!","NC274"," ","N"," "," ","MS"," ",1132
+"a whole chants","GA37A","274.1"," ","N"," "," ","MS"," ",1133
+"a little peach trees","GA37A","274.1"," ","N"," "," ","MS"," ",1133
+"a bushel","GA37A","274.1"," ","N","Y"," ","MS","cv:a w.ch.;",1133
+"turn","GA37A","274.1"," ","N"," "," ","MS"," ",1133
+"turn","GA37B","274.2"," ","N"," "," ","MS"," ",1134
+"a whole chants","GA37B","274.2"," ","N","Y"," ","MS","turn: one-ha",1134
+"NO RESPONSE","GA37C","274.21"," ","N"," "," ","MS"," ",1135
+"sack","GA37D!","274.7!"," ","N"," "," ","MS"," ",1136
+"milling","GA37E!","274.8!"," ","N","Y"," ","MS"," ",1137
+"NO RESPONSE","GA37F!","274.3!"," ","N"," "," ","MS"," ",1138
+"turn","GA37G!","274.4!"," ","N"," "," ","MS"," ",1139
+"grinding","GA37G!","274.4!"," ","N"," "," ","MS"," ",1139
+"NO RESPONSE","GA37H!","274.5!"," ","N"," "," ","MS"," ",1140
+"NO RESPONSE","GA37I!","274.6!"," ","N"," "," ","MS"," ",1141
+"NO RESPONSE","GA38","275"," ","N"," "," ","MS"," ",1142
+"bushel","GA39","275A"," ","N","Y"," ","MS","turn: is com",1143
+"NO RESPONSE","GA40","276A"," ","N"," "," ","MS"," ",1144
+"turn","GA41","276B"," ","N","Y"," ","MS","sug: turn of",1145
+"bunch of corn","GA41","276B"," ","N"," "," ","MS"," ",1145
+"turn","GA42A","276.1"," ","N"," "," ","MS"," ",1146
+"mill turn","GA42B","276.2"," ","N","Y"," ","MS","wheat, corn",1147
+"grist","GA43","277"," ","N"," "," ","MS"," ",1148
+"tow sack","GA43","277"," ","N"," "," ","MS"," ",1148
+"turn","GA43","277"," ","N"," "," ","MS"," ",1148
+"grist of corn","GA43","277"," ","N","Y"," ","MS","gr of c.: he",1148
+"turn","GA44A","278.1"," ","N"," "," ","MS"," ",1149
+"turn","GA44B","278.2"," ","N","Y"," ","MS","one of two b",1150
+"turn","GA44C","278.3"," ","N","Y"," ","MS","amount to mi",1151
+"NO RESPONSE","GA44D","278.4"," ","N"," "," ","MS"," ",1152
+"bushel","GA44E","278.5"," ","N","Y"," ","MS","corn",1153
+"grinding","FL1","252"," ","N"," "," ","MS"," ",1154
+"NO RESPONSE","FL2A","253.1"," ","N"," "," ","MS"," ",1155
+"bushel","FL2B","253.2"," ","N","Y"," ","MS","bushel: usua",1156
+"sack","FL2C!","253.3!"," ","N","Y"," ","MS","corn",1157
+"NO RESPONSE","FL3A","254.1"," ","N"," "," ","MS"," ",1158
+"sack of corn","FL3B!","254.2!"," ","N"," "," ","MS"," ",1159
+"turn of corn","FL4","254A"," ","N"," "," ","MS"," ",1160
+"peck","FL4","254A"," ","N"," "," ","MS"," ",1160
+"bushel","FL4","254A"," ","N"," "," ","MS"," ",1160
+"milling","FL5A","255.1"," ","N"," "," ","MS"," ",1161
+"NO RESPONSE","FL5B","255.2"," ","N"," "," ","MS"," ",1162
+"","","","","","","","","",

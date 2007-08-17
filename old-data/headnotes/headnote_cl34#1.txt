@@ -1,0 +1,76 @@
+stallion (cl34#1.asc)
+
+Items
+=====
+                     breeding horse    1
+                                cut    1
+                          cut horse    1
+                            gelding    1
+                    gentleman horse    1
+                              horse    1
+                          horse man    1
+                             horses    1
+                           jack ass    2
+                        male animal    1
+                         male horse   10
+                               mare    1
+                                 NR    4
+                         seed horse    1
+                           stallion   40
+                     stallion horse    1
+                              steer    1
+                            stirred    1
+                               stud   23
+                         stud horse   17
+                         stud-horse    1
+                              studs    1
+                           the male    1
+
+Pronunciations
+==============
+                                  "    2
+                  h∑º∫{∞}s±ø´ºz[zè]    1
+
+
+
+
+L: What do you call the male horse?
+P: Years ago did women use that word?  Would men say that in the presence 	of women? 
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The common plain terms are "stallion," "stud," and "stud horse;" the more common polite terms are "male horse," "male," and "stable horse."
+	
+All complex expressions, except "male horse" and "big horse" are stressed on the first element.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 34#1, "steer" and "jackass" are inappropriate, as is marginalia.  
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 34 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+34#P		34#2
+34#P
+34#1		34#1
+34#2		34#3 (similar)
+34#3		34#4
+34#4		34#5
+34#5		
+34#6		34#6
+34#7
+34#8		34#7 (game)
+34#9		34#8

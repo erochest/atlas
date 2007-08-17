@@ -1,0 +1,1297 @@
+"what time is it?","NY1","50","S","N"," "," ","hwµ´'t$tµ´±øm$±z$±øt","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"what time is it?","NY2B","51.2","S","N"," "," ","{h}wµ´t$t•±øm$±z$±øt","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"what time is it?","NY3A","401","S","N"," "," ","w∏º't$tµ´±øm$±æz$±øt","MS",5
+"what time is it?","NY3B","403","S","N"," "," ","wµ't$ta±øm$±øz$∞t","MS",6
+"what time is it?","NY3C","402","S","N"," "," ","wµ't$t{h}µ∫±øm$±z$∞t","MS",7
+"what time is it?","NY3D","404","S","N"," "," ","w∏º't$t{h}a±øm$ı±æz$±øt","MS",8
+"what time is it?","NY4A","405","S","N"," "," ","wµ´'t$t{h}a´æ±øm$±æz$∞t","MS",9
+"what time is it?","NY4B","407","S","N"," "," ","w∏'t$t{h}a´æ±øm$±æz$±øt","MS",10
+"what time is it?","NY4C","408","S","N"," "," ","ıw∏'t$Ât{h}aæ±øm$ı±zè$∞t","MS",11
+"what time is it?","NY5A","409","S","N"," "," ","w∏´t$tµ∫±øm$±z$∞t","MS",12
+"what time is it?","NY5B","410","S","N"," "," ","wµ´'t$Ât{h}a±øm$ı±z$∞t","MS",13
+"what time is it?","NY5C","411","S","N"," "," ","w∏ºt$ta∫±øm$±z$∞t","MS",14
+"what time is it?","NY5D","412","S","N"," "," ","ıw∏º't$Ât{h}a∫±øΩm$±øz$∞t","MS",15
+"what time is it?","NY5E","413","S","N"," "," ","ıwµ´'t$Ât{h}a±øm$ı±æz$∞t","MS",16
+"what time is it?","NY5F","414","S","N"," "," ","wµ´'t$Ât{h}a±øm$±z$∞t","MS",17
+"what time is it?","NY5G","415","S","N"," "," ","wµ´t$t{h}µº±øm$±z$∞t","MS",18
+"what time is it?","NY5H!","416!","S","N"," "," ","ıw∏t$Ât{h}a±øm$ı±z$∞t","MS",19
+"what time is it?","NY5I!","417!","S","N"," "," ","hw∏ºt$t{h}a±øm$±øz$∞t","MS",20
+"what time is it?","NY6A","418","S","N"," "," ","wµ´t$t{h}µ∫±øm$±z$∞t","MS",21
+"what time is it?","NY6B","419","S","N"," "," ","w∏ºt$t{h}a∫±øΩm$±æz$∞t","MS",22
+"what time is it?","NY7A","420","S","N"," "," ","w∏º't$Ât{h}a±øm$±øz$∞t","MS",23
+"what time is it?","NY7B","421","S","N"," "," ","wµ´'t$t{h}a±øm$±øz$∞t","MS",24
+"what time is it?","NY7C","422","S","N"," "," ","w∏ºt$Ât{h}µº∫±øm$ı±æz$∞t","MS",25
+"what time is it?","NY7D","423","S","N"," "," ","wµ´t$t{h}a±øm$±z$∞t","MS",26
+"what time is it?","NY7E","424","S","N"," "," ","wµ't$ıta±øm$Â±æz$∞t","MS",27
+"what time is it?","NY7F","425","S","N"," "," ","wµ´t$Ât{h}a±øm$ı±z$∞t","MS",28
+"what time is it?","NY7G","426","S","N"," "," ","w∏æt$t{h}µº±øm$±z$∞t","MS",29
+"what time is it?","NY7H","427","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",30
+"what time is it?","NY7I","428","S","N"," "," ","hwèµ´t$t{h}aæ±øm$±øz$∞t","MS",31
+"what time is it?","NY7J!","429!","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",32
+"what time is it?","NY7K!","430!","S","N"," "," ","wµ´t$t{h}a´æ±øm$±z$∞t","MS",33
+"what time is it?","NY7L!","431!","S","N"," "," ","w∏ºt$Ât{h}a±øm$±z$∞t","MS",34
+"what time is it?","NY7M!","432!","S","N"," "," ","wµ´æt$Ât{h}aæ∫≤´m$ı±z$∞t","MS",35
+"what time is it?","NY8","432b","S","N"," "," ","w∏ºt$Âta±øm$ı±æz$∞t","MS",36
+"what time is it?","NY9A","432c","S","N"," "," ","w∏t$Ât{h}a±øm$ı±z$∞t","MS",37
+"what time is it?","NY9B","433","S","N"," "," ","hw∏t$Ât•Ω±øm$ı±æz$∞t","MS",38
+"what time is it?","NY9C","434","S","N"," "," ","hw∏ºt$Ât{h}aæ±øm$ı±z$∞t","MS",39
+"what time is it?","NY10A","435","S","N"," "," ","w∏t$Ât•Ω±øm$ı±z$∞t","MS",40
+"what time is it?","NY10B!","436!","S","N"," "," ","ıw∏t$Âta±øm$ı±z$∞t","MS",41
+"what time is it?","NY11","438","S","N"," "," ","w∏t$t{h}µº∫±øm$±z$∞t","MS",42
+"what time is it?","NY12A","439(*)","S","N"," "," ","w∏t$t{h}•±øm$±z$±øt","MS",43
+"what time is it?","NY12B","440","S","N"," "," ","wµ't$t{h}a±øm$±æz$±øΩt","MS",44
+"what time is it?","NY12C!","441!","S","N"," "," ","w∏ºt$t{h}a±øm$±z$±øΩt","MS",45
+"what time is it?","NY13A","443","S","N"," "," ","w∏t$Âta±øm$ı±z$∞t","MS",46
+"what time is it?","NY13B!","444!","S","N"," "," ","w∏t$Âta±øm$±z$∞t","MS",47
+"what time is it?","NY14A","445","S","N"," "," ","w∏t$ta´æ±øm$±z$∞t","MS",48
+"what time is it?","NY14B","446","S","N"," "," ","w∏t$Âta±øm$ı±z$∞t","MS",49
+"what time is it?","NY15A","447","S","N"," "," ","hwaæ∫t$ta´æ±øm$±z$±øt","MS",50
+"what time is it?","NY15B","448","S","N"," "," ","hw∏t$Âta±øm$±z$±øt","MS",51
+"what time is it?","NY16A","449","S","N"," "," ","w∏ºt$ta±øm$±z$∞t","MS",52
+"what time is it?","NY16B","450","S","N"," "," ","wµt$t{h}a∫±øm$±z$∞t","MS",53
+"what time is it?","NY17A","451(*)","S","N"," "," ","hwµ∫t$Ât•Ω±øm$ı±z$±øt","MS",54
+"what time is it?","NY17B","452","S","N"," "," ","ıw∏t$Ât{h}a±øm$±æz$∞t","MS",55
+"what time is it?","NY18A","453","S","N"," "," ","hwµt$t•±øm$±z$±øt","MS",56
+"what time is it?","NY18B","454","S","N"," "," ","hwµt$Ât{h}a±øm$ı±æz$∞t","MS",57
+"what time is it?","NY18C!","455!","S","N"," "," ","wµt$taæ±øm$±æz$∞t","MS",58
+"what time is it?","NY19","456","S","N"," "," ","w∏t$ta´æ±øm$±z$∞t","MS",59
+"what time is it?","NY20A","457","S","N"," "," ","w∏t$Ât•±øm$ı±z$±øt","MS",60
+"what time is it?","NY20B","458","S","N"," "," ","w∏t$Âta´æ±øm$ı±z$±øt","MS",61
+"what time is it?","NY21","459","S","N"," "," ","hw∏t$ta´æ±øm$±z$∞t","MS",62
+"what time is it?","NY22","460","S","N"," "," ","wµºt$Âta±øm$ı±z$∞t","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"what's the time of day?","NY23B","462a","S","N"," "," ","hw∏Ωts$‰∞$Âta´æ∫±øm$∞v$deΩ∫±´æ","MS",65
+"what time","NY23C","462b","O","Y"," ","INA/CNV","hw∏Ωt$Âtµ∫±æm","MS",66
+"what time is it?","NY23C","462b","S","N"," "," ","hw∏Ωt$Âtµ∫±øm$ı±´z$±øt","MS",66
+"what time is it?","NY24A","463","S","N"," "," ","hw∏t$Âta´æ±øm$ı±z$±øt","MS",67
+"what time be it?","NY24A","463","S","Y"," ","SUG/OLD","hw∏t$Âta´æ±øm$biΩ∫$±øt","MS",67
+"what time is it?","NY24B!","464!","S","N"," "," ","hw∏Ωt$ta±øm$±z$±øt","MS",68
+"what time of day is it?","NY25A","465","S","N"," "," ","Âhw¶ót$ıt•´∫±øm$∞$ÂdeΩ±ø$ı±´z$±øt","MS",69
+"what time is it?","NY25B","466","S","N"," "," ","hw∏Ωt$Âtµæ∫±øm$ı±æz$±øt","MS",70
+"what time is it?","NY26A","467","S","N"," "," ","hw∏Ωt$Ât∞∫±´æm$ı±´z$±øºt","MS",71
+"what time is it?","NY26B","468","S","N"," ","CNV","hw∏Ωt$Âtµ∫±øm$ı±æz$±øt","MS",72
+"what time is it?","NY26B","468","S","N"," "," ","hw∏Ωt$Âtµæ±øm$ı±´z$±øt","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"what time is it?","NY27A","470","S","N"," "," ","ıhw∏Ωt$Ât•∫±øºm$ı±´z$±øt","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"what time is it?","NY27C","472","S","N"," "," ","hw¶t$Âtµ∫±øm$ı±øºz$±øt","MS",76
+"what time is it?","NY28A","473a","S","N"," "," ","ıhw∏´ºt$Ât`µ´∫±øm$ı±øºz$±øt","MS",77
+"what time have you?","NY28B","473b(*)","S","N"," "," ","Âhw∏Ωt$ıtµ∫±øm$ıh·´∫v$ÂjuΩ∫u","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"what time is it?","NY29A","474a","S","N"," "," ","hw∏Ωt$Ât•´±øm$ı±æz$±øt","MS",80
+"what time is it?","NY29B","474b","S","N"," "," ","hw∞›Á$Ât•∫±øm$ı±æz$±øt","MS",81
+"what time you got?","NY29B","474b","S","N"," "," ","Àw∞Ω$Ât•´∫±æm$j∞$ıgµt","MS",81
+"what time is it?","NY29C","474c","S","N"," "," ","hw∞Ωt$Ât•∫±øm$±øz$±øt","MS",82
+"what's the time?","NY29C","474c","S","N"," "," ","hw∏Ωts$‰±´æ$Ât•∫±øºm","MS",82
+"what's the right time?","NY30A","475a","S","N"," "," ","Âhw∏Ωts$‰∞$ır•´±øt$Ât•∫±øºm","MS",83
+"what time is it?","NY30B","475b","S","N"," "," ","hw∏´t$t•´±øm$ı±z$±øt","MS",84
+"what time it was","NY30C","475c","E","Y"," ","INA","Âhw∏t$ıt•∫±øm$±øºÂt`w∏{∞}z","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"what time is it?","NY30E","475e","S","N"," "," ","hw∏Ωt$Âtµ´∫±øm$ı±´z$±øt","MS",87
+"what time is it?","NY31A","478a","S","N"," "," ","ıÀw¶Ωºt$Ât•∫±øm$ı±∫z$±øt","MS",88
+"what time of day is it?","NY31B","478b","S","N"," "," ","Âhw∏ºt$ıt•´±øm$∞$ÂdeΩ±ø$±ø›Ωz$±øt","MS",89
+"what time of day is it?","NY32A","479a","S","N"," "," ","Âhw¶Ωºt$ıt•Ω∫±øm$∞$ÂdeΩ∫±ø$±øz$±øt","MS",90
+"what's the time of day?","NY32B","479b","S","N"," "," ","Âhw∏´ts$‰∞$ıt`•∫±øm$∞$ÂdeΩ∫±ø","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"what time is it?","NY33B","481","S","N"," "," ","Àw∏t$Ât•∫±æm$ı±ø∫z$±øt","MS",93
+"what time is it?","NY33C","482","S","N"," "," ","ıhw∏Ωt$Âtµ∫±øm$ı±´z$±øºt","MS",94
+"what time is it?","NY34A","483","S","N"," "," ","ıhw¶Ωt$Ât•∫±øm$±z$±øt","MS",95
+"NA","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"what time is it?","NY34D!","486!","S","N"," "," ","{À}w∏´t$Ât∏º±øm$ı±∫z$±øt","MS",98
+"what time is it?","NY35A","487","S","N"," "," ","hw∏t$t•±øm$±z$±øt","MS",99
+"what time is it?","NY35B","488","S","N"," "," ","hw∏t$t•Ω±øm$±z$±øt","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"what time is it?","NY36A","491","S","N"," "," ","hw∏t$t•Ω±øm$±z$±øt","MS",102
+"what time is it?","NY36B","492","S","N"," "," ","hw∏t$t•Ω±øm$±z$±øΩt","MS",103
+"what time is it?","NY37A","493","S","N"," "," ","hwµt$Ât•±ø´m$ı±z$±øt","MS",104
+"what time is it?","NY37B","494","S","N"," "," ","hw∏t$Âta´æ±øm$ı±æz$±øt","MS",105
+"what time is it?","NY37C!","495!","S","N"," "," ","ıhw∏t$Âta´æ±øm$ı±z$±øΩt","MS",106
+"what time be it?","NY38A","497(*)","S","N"," "," ","hw∏t$Âta´æ±ø´m$ıbi∫$±øt","MS",107
+"what time is it?","NY38B","498","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øΩt","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"what time is it?","NY39A","499","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øt","MS",110
+"what time is it?","NY39B","500","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øt","MS",111
+"what time is it?","NY40A","501","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øt","MS",112
+"what time is it?","NY40B","502","S","N"," "," ","ıhw∏t$Âta±øm$ı±z$±øΩt","MS",113
+"what time is it?","NY41","504","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øΩt","MS",114
+"what time is it?","NY42A","505","S","N"," "," ","ıhw∏t$Âta±ø´m$ı±z$±øt","MS",115
+"what time is it?","NY42B","506","S","N"," "," ","hw∏t$Ât•Ω±øm$ı±z$±øΩt","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"what time is it?","NY43B","507b","S","N"," "," ","ıhw∏t$Ât•Ω±øm$ı±z$±øt","MS",118
+"what time is it?","NY43C!","508!","S","N"," "," ","hw∏t$ta±ø´m$±z$±øt","MS",119
+"what time is it?","NY44A","511","S","N"," "," ","hw∏t$t•Ω±øm$±z$±øt","MS",120
+"what time is it?","NY44B","512","S","N"," "," ","hw∏t$t•±øm$±z$±øt","MS",121
+"what time is it?","NY45A","513a","S","N"," "," ","ıhw∏ºt$Ât•∫±øm$ı±z$±øt","MS",122
+"have you got the time of day?","NY45A","513a","S","N"," "," ","h∞v$ıjuΩu$Âgµt$‰∞$Ât•Ω±øm$∞$deΩ±ø","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"what time is it?","NY45D!","513d!","S","N"," "," ","hw∏ºt$Âtµ∫±øm$ı±æz$±øt","MS",125
+"what time is it?","NY46A","515a","S","N"," "," ","ıhw∏ºt$Âtµ´±øm$ı±z$±øºt","MS",126
+"what time is it?","NY46B","515b","S","N"," "," ","ı{h}w∏ºt$Ât•±øm$ı±æz$±øt","MS",127
+"what time is it?","NY46B","515b","S","N"," "," ","w∏{∞}t$t•Ω±´m$±z$±øt","MS",127
+"what time is it?","NY46C","515c","S","N"," "," ","{h}w∏Ωºt$ıta´æ±´m$Â±z$±øt","MS",128
+"what time is it?","NY47A","517(*)","S","N"," "," ","hw∏ºt$Ât•∫±øm$ı±∫z$±øºt","MS",129
+"what time is it?","NY47B","518","S","N"," "," ","hw∏t$t•±øm$±z$±øΩt","MS",130
+"what's the time?","NY48A","519a","S","N"," "," ","Àw∏´ts$‰∞$Ât•±øm","MS",131
+"what time is it?","NY48A","519a","S","N"," "," ","ÂÀw¶Ωt$ıt•±øm$Â±z$±øt","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"what time is it?","NY48C","519c","S","N"," "," ","ıhw∞›´t$Ât•±øm$±øz$±øt","MS",133
+"what time you got?","NY48C","519c","S","N"," "," ","hw∞Ωt$ıt•±øm$j∞$Âgµt","MS",133
+"what time is it?","NY48D","519d","S","N"," "," ","Âhw∏´t$ıt•±øm$Â±∫z$±øt","MS",134
+"give me the time","NY48D","519d","S","N"," "," ","ıgà±v$miΩi$‰∞$Ât•´±øm","MS",134
+"NA","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"what time is it?","NY49C","522a","S","N"," "," ","ıhw∏ºt$Âta´±øm$ı±∫z$±øt","MS",137
+"could I have the time, please?","NY49D","522b","S","N"," "," ","kπd$•±ø$h·´v$‰∞$Ât`•±øm$ıpli{i´}z","MS",138
+"what time is it?","NY50A","523","S","N"," "," ","ıhw∏´t$Âtaæ±øm$±øºz$Â±'t","MS",139
+"what time is it?","NY50B","524","S","N"," "," ","ıhw∏´t$Ât•±øm$ı±øz$±øt","MS",140
+"what time you got?","NY51A","525a","S","N"," "," ","hw∞´t$Ât`∞Ω∫±øm$j∞$ıgµt","MS",141
+"what time is it?","NY51A","525a","S","N"," ","CNV","Âhw∏ºt$ıt•∫±øm$Â±´z$±øºt","MS",141
+"what time is it?","NY51B","525b","S","N"," "," ","ıhw∏Ωt$Âtaæ±øm$±øz$±øt","MS",142
+"what time is it?","NY51C","525c","S","N"," "," ","ıhw∏Ωt$Ât•∫±øm$ı±∫z$±øt","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"what time is it?","NY52A","527","S","N"," "," ","ıhw∏Ωt$Ât•∫±øm$ı±∫z$±øt","MS",146
+"what time is it?","NY52B","528","S","N"," ","CNV","Âhw∏ºt$ıt•±øm$Â±∫z$±øt","MS",147
+"would you give me the time?","NY52C","528b","S","N"," "," ","wπºd˙∞$Âg±∫v$ımi{i´}$‰∞$Âta´±øm","MS",148
+"what time is it?","NY52C","528b","S","N"," "," ","ıhw∏ºt$Ât`a∫±øm$ı±∫z$±øt","MS",148
+"would you give me the time of day?","NY52C","528b","S","N"," "," ","wπºd˙∞$Âg±∫v$ımi{i´}$‰∞$Âta´±øm$∞$Âde∫±ø","MS",148
+"what time of day is it?","NY53A","529","S","N"," "," ","Âhw∏ºt$ıt•∫±øm$∞$ÂdeΩ∫{±ø}$±æz$±øt","MS",149
+"what time is it?","NY53B!","530!","S","N"," "," ","ıhw∏ºt$Ât•Ωæ±øm$±øz$±øt","MS",150
+"what time is it?","NY54A","531","S","N"," "," ","hw∏ºt$Ât•±øm$ı±z$±øt","MS",151
+"what time is it?","NY54B","532","S","N"," "," ","ıhw∏ºt$Ât•±øm$ı±›z$±øt","MS",152
+"what time is it?","NY55A","533","S","N"," "," ","Àw∞´t$Ât•´±øm$±øz$±øt","MS",153
+"what time is it?","NY55B","534","S","N"," "," ","ıhw∏´t$Ât∞Ωæ∫±øm$Â±´z$±øt","MS",154
+"what time is it?","NY56A","535","S","N"," "," ","Âhw¶ºt$ıt•´±øm$Â±∫z$±øt","MS",155
+"can you tell me the time?","NY56A","535","S","N"," "," ","k±øºn$j∞$Ât≤Ï$m±æ$‰∞$t∞Ω±øm","MS",155
+"what time are you","NY56A","535","E","Y"," ","INA/CNV","Âhw∏Ωt$ıt•´∫±øm$Âµé¥$j∞ó","MS",155
+"what time is it?","NY56B","536","S","N"," "," ","ıhw∏Ωt$Ât•∫±øm$ı±∫z$±øt","MS",156
+"what time is it?","NY57A","537a","S","N"," "," ","hw∏Ωt$Âtµ´º±øm$±øz$±øºt","MS",157
+"NR","NY57B","537b"," ","N"," "," "," ","MS",158
+"what time is it?","NY57C!","537c!","S","N"," "," ","hw¶ºt$Ât•´±øm$±øºz$±øºt","MS",159
+"what time is it?","NY58A","539a","S","N"," "," ","ıhw∏ºt$Ât•∫±øm$ı±´z$±øt","MS",160
+"what time is it?","NY58B","539b","S","N"," "," ","Âhw¶Ωt$ıtµ´±øm$Â±∫z$±øºt","MS",161
+"what time you got?","NY58B","539b","S","N"," "," ","Âhw¶›Ωt$ıtµ´±øm$j∞$ıgµt","MS",161
+"watch that","NY58B","539b","E","Y"," ","INA","Âw∂tÛ$ı‰·´t","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"what time is it?","NY58D!","539d!","S","N"," "," ","ıhw∏›ºt$Ât•Ω±øºm$ı±´z$±øt","MS",163
+"what time is it?","NY58E!","539e!","S","N"," "," ","Âhw∏´t$ıta´±øm$Â±z$±øºt","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"what time is it?","NY59A","543","S","N"," "," ","hw∏Ωt$Ât•∫±øm$ı±æz$±øt","MS",166
+"what time is it?","NY59B","544","S","N"," "," ","hwµºt$t•´±ø´m$±z$±øΩt","MS",167
+"what time is it?","NY60A","545","S","N"," "," ","Âhw∏´t$ıtµ´±øm$±z$±øt","MS",168
+"what time is it?","NY60B!","546!","S","N"," "," ","ıhw∏´t$Ât•´±øm$±øz$±øt","MS",169
+"what's the time?","NY60B!","546!","S","N"," "," ","ıhw∏´ts$‰∞$Ât•´±øm","MS",169
+"what time is it?","NY61A","547","S","N"," "," ","ıhw∏Ω∫t$Ât•∫±øºm$ı±æz$±øt","MS",170
+"what time you got?","NY61B","548","S","N"," "," ","Âhw∏ºt$ıt∞±ø´m$Âjuº∫$ıgµt","MS",171
+"what time is it?","NY61B","548","S","N"," "," ","ıhw∏ºt$Ât•∫±øm$ı±æz$±øt","MS",171
+"what time have you got?","NY62A","551a","S","N"," "," ","ıhw∏´t$Ât`∞Ω±øm${À}≤Ωv$ıjuº$Âg•æt","MS",172
+"what time is it?","NY62B","551b","S","N"," "," ","ıhw∏ºt$Âtaæ∫±øΩm$ı±z$±øºt","MS",173
+"what time have you got?","NY62C","551c","S","N"," "," ","ıhw∏Ωt$Ât∞Ω±øm${À}∞´v$ıjuº∫$Âgµt","MS",174
+"what time is it?","NY62D!","551d!","S","N"," "," ","hw∏ºt$Ât•∫±øm$ı±z$±øºt","MS",175
+"what time you got?","NY63A","556a","S","N"," "," ","Âhw∏ºt$ıt•´∫±øm$juøΩuø$Âgµ{∞}t","MS",176
+"what time it is","NY63B","556b","E","Y","I'd ask him)","INA","hw∏ºt$Âtµ´∫±øm$±øıt±´∫z","MS",177
+"what time is it?","NY63C","556c","S","N"," "," ","hw∏t$t•Ω±øm$ı±z$±øΩt","MS",178
+"what time is it?","NY63D!","556d!","S","N"," "," ","hw∏´ºt$Âtµ∫±øm$±øz$±øt","MS",179
+"what time of day is it?","NY63D!","556d!","S","Y","[eΩ{±ø}]: doubtful","FDT","hw∏´ºt$ıt•∫±øm$∞$ÂdeΩ{±ø}$ı±æz$±øt","MS",179
+"what time is it?","NY64A","557a","S","Y","[±´z]: doubtful","FDT","ıhw∏ºt$Ât•´±øm$ı±´z$±øt","MS",180
+"what time is it?","NY64B","557b","S","N"," "," ","hw•æt$Ât∞Ω∫±øm$ı±´z$±øt","MS",181
+"what time is it?","NY64C!","557c!","S","N"," "," ","ıhw∏Ωt$Ât•∫±øm$ı±æz$±øt","MS",182
+"what time is it?","NJ1A","1","S","N"," "," ","w∏t$tµ±øm$±z$∞t","MS",183
+"what time is it?","NJ1B","2","S","N"," "," ","w∏t$tµ´±ø´m$±z$∞t","MS",184
+"what time of day is it?","NJ2A","3(*)","S","N"," "," ","w∏t$tµ±øm$∞$Âde±ø$±z$∞t","MS",185
+"what time is it?","NJ2B","4","S","N"," "," ","w∏t$taæ±øm$±z$∞t","MS",186
+"what time is it?","NJ3A","5","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",187
+"what time is it?","NJ3B","6","S","N"," "," ","w∏´t$taæ±øm$±z$∞t","MS",188
+"what time is it?","NJ4A","7","S","N"," "," ","w∏t$taæ±øm$±z$∞t","MS",189
+"what time is it?","NJ4B","8","S","N"," "," ","w∏t$taæ∫≤m$±z$∞t","MS",190
+"what time is it?","NJ5A","9","S","N"," "," ","wµt$tµº∫±øm$±z$∞t","MS",191
+"what time is it?","NJ5B","10","S","N"," "," ","w∏t$tµ∫±øm$±z$∞t","MS",192
+"what time is it?","NJ6A","11","S","N"," "," ","w∏t$t{h}µº∫±øm$±z$∞t","MS",193
+"what time is it?","NJ6B","12","S","N"," "," ","w∏t$taæ±øm$±z$∞t","MS",194
+"what time is it?","NJ7A","17","S","N"," "," ","w∏ó´t$tµº∫±øm$±z$∞t","MS",195
+"what time is it?","NJ7B!","18!","S","N"," "," ","w∏t$tµ±øΩm$±z$∞t","MS",196
+"what time is it?","NJ8A","19","S","N"," "," ","w∏ºt$t{h}µ±øm$±z$∞t","MS",197
+"what time is it?","NJ8B","20","S","N"," "," ","w∏ºt$Ât{h}µ±øm$±z$∞t","MS",198
+"what time is it?","NJ9A","21","S","N"," "," ","w∏t$Âtµ∫±øm$ı±æz$∞t","MS",199
+"what time is it?","NJ9B","22","S","N"," "," ","w∏t$tµ∫±øm$±z$∞t","MS",200
+"what time is it?","NJ10A","24b","S","N"," "," ","w∏t$Ât{h}µ±øm$±æz$∞t","MS",201
+"what time of day is it?","NJ10B","23","S","N"," "," ","w∏t$tµ±øm$∞$d≤±ø$±z$∞t","MS",202
+"what time is it?","NJ10C","24","S","N"," "," ","w∏t$Âtµ±øm$ı±z$∞t","MS",203
+"what time is it?","NJ10D!","24c!","S","N"," "," ","w∏t$t{h}a∫±øΩm$±z$∞t","MS",204
+"what time is it?","NJ11A","25","S","N"," "," ","w∏t$tµº±øm$±z$∞t","MS",205
+"what time is it?","NJ11B","26a","S","N"," "," ","w∏t$t{h}µ∫±øm$±æz$∞t","MS",206
+"what time is it?","NJ11C","26b","S","N"," "," ","w∏t$tµº±øm$±z$∞t","MS",207
+"what time is it?","NJ12A","27","S","N"," "," ","ıw∏ºt$Âtµ±øm$ı±z$∞t","MS",208
+"NR","NJ12B","28"," ","N"," "," "," ","MS",209
+"what time is it?","NJ13A","29","S","N"," "," ","w∏t$tµº±øm$±z$∞t","MS",210
+"what time is it?","NJ13B","30","S","N"," "," ","w∏t$tµ´º±øm$±z$∞t","MS",211
+"what time of day is it?","NJ14A","31","S","N"," "," ","w∏t$tµ±øm$∞$Âd≤±ø$ı±Ωæz$±{∞}t","MS",212
+"what time is it?","NJ14B","32","S","N"," "," ","w∏Ωt$Âtµº±øm$ı±z$∞t","MS",213
+"what time is it?","NJ15A","33","S","N"," "," ","w∏t$Âta±øm$ı±z$∞t","MS",214
+"what time is it?","NJ15B","34","S","N"," "," ","wµ›t$tµ∫±øm$±z$∞t","MS",215
+"what time is it?","NJ16A","35","S","N"," "," ","w∏t$Ât{h}aæ±øm$ı±æz$∞t","MS",216
+"what time is it?","NJ16B","36","S","N"," "," ","w∏ºt$t{h}µ∫±øm$±z$∞t","MS",217
+"what time is it?","NJ17A","37","S","N"," "," ","w∏t$tµ±øm$±z$∞t","MS",218
+"what time is it?","NJ17B","38","S","N"," "," ","w∏t$Âtµ±øm$ı±z$∞t","MS",219
+"what time is it?","NJ18A","41","S","N"," "," ","wµ´æt$t{h}µ∫±øm$±z$∞t","MS",220
+"what time is it?","NJ18B","42","S","N"," "," ","w∏ºt$Ât{h}aæ±øm$ı±æz$∞t","MS",221
+"what time is it?","NJ18C!","43!","S","N"," "," ","wµ´'t$t{h}a±øm$±æz$∞t","MS",222
+"what time is it?","NJ18D!","44!","S","N"," "," ","w∏t$Ât{h}a±øm$ı±z$∞t","MS",223
+"what time is it?","NJ19A","45","S","N"," "," ","w∏ºt$t{h}a±øm$±z$∞t","MS",224
+"what time is it?","NJ19B!","46!","S","N"," "," ","w∏t$t{h}a∫±øm$±æz$∞t","MS",225
+"what time is it?","NJ20A","47","S","N"," "," ","w∏t$Âta±øm$±z$∞t","MS",226
+"what time is it?","NJ20B","47b","S","N"," "," ","wµt$t{h}aæ∫±øm$±z$∞t","MS",227
+"what time is it?","NJ21A","48","S","N"," "," ","w∏º't$Ât{h}aæ±øm$ı±z$∞t","MS",228
+"what time is it?","NJ21B","49","S","N"," "," ","w∏ºt$Ât{h}aæ±øm$±æz$∞t","MS",229
+"what time is it?","PA1A","51","S","N"," "," ","wµt$ta±øm$±z$∞t","MS",230
+"what time is it?","PA1B","52","S","N"," "," ","wµt$t{h}µº∫±øΩm$±z$∞t","MS",231
+"what time is it?","PA1C","53","S","N"," "," ","wµ´æt$taæ±øm$±z$∞t","MS",232
+"what time is it?","PA1D","54","S","N"," "," ","wµ´t$Âtaæ±øm$ı±z$∞t","MS",233
+"what time is it?","PA1E!","55!","S","N"," "," ","wµ´æt$tµ±øm$±z$∞t","MS",234
+"what time is it?","PA1F!","56!","S","N"," "," ","wµ´æt$taæ∫±øΩm$±z$±øΩt","MS",235
+"what time is it?","PA1G!","57!","S","N"," "," ","wµ´æt$tµ∫±øΩm$±z$∞t","MS",236
+"what time is it?","PA1H!","58!","S","N"," "," ","wµ´æt$tµ∫±øΩm$±z$∞t","MS",237
+"what time is it?","PA2A","59","S","N"," "," ","wµ´æt$tµº±øm$∞$d≤±ø$±z$∞t","MS",238
+"what time is it?","PA2B","60","S","N"," "," ","wµ´æt$tµº±øm$±z$∞t","MS",239
+"what time is it?","PA3A","61","S","N"," "," ","wµ´æt$Âtaæ±øm$ı±z$∞t","MS",240
+"what time is it?","PA3B","62","S","N"," "," ","wµ´t$taæ±øm$±z$∞t","MS",241
+"what time is it?","PA3C","62b","S","N"," "," ","wµæt$Âta±øm$ı±z$∞t","MS",242
+"what time is it?","PA4A","63","S","N"," "," ","wµ´æt$Âtµº±øm$ı±z$∞t","MS",243
+"what time is it?","PA4B!","64!","S","N"," "," ","ıwµt$Âtaæ±øm$ı±z$∞t","MS",244
+"what time is it?","PA5A","65(*)","S","N"," "," ","ıwµ´æt$Âta±øm$ı±z$∞t","MS",245
+"what time is it?","PA5B","65b","S","N"," "," ","w∏t$Âtaæ∫±øΩm$ı±z$∞t","MS",246
+"what time is it?","PA5C","66","S","N"," "," ","wµæt$Âtµ±øm$ı±z$∞t","MS",247
+"what time is it?","PA5D","67","S","N"," "," ","{h}w∏t$Âta∫±øΩm$ı±æz$∞t","MS",248
+"what time is it?","PA5E!","68!","S","N"," "," ","w∏t$Âta±øm$ı±z$∞t","MS",249
+"what time is it?","PA6A","69","S","N"," "," ","wµ´æt$Âta±øm$±sî$∞t","MS",250
+"what time is it?","PA6B","71","S","N"," "," ","wµ´æt$ta±øm$±z$∞t","MS",251
+"what time is it?","PA6C","71b","S","N"," "," ","wµ´æt$ta±øm$±sî$∞t","MS",252
+"what time is it?","PA6D!","72!","S","N"," "," ","wµæt$Âtaæ±øm$ı±z$∞t","MS",253
+"what time is it?","PA7A","73","S","N"," "," ","w∏ºt$Âta±øm$ı±z$∞t","MS",254
+"what time is it?","PA7B","74","S","N"," "," ","w∏´ºt$ta∫±øm$±z$∞t","MS",255
+"what time is it?","PA7C","75","S","N"," "," ","ˆµ´æt$Ât{h}aæ±øm$ı±zè$±t","MS",256
+"what time is it?","PA7D!","76!","S","N"," "," ","wµæt$Âta∫±øm$±z$∞t","MS",257
+"what time is it?","PA8A","77","S","N"," "," ","w∏´t$Âta∫±øΩm$±z$∞t","MS",258
+"what time is it?","PA8B","78","S","N"," "," ","w∏t$ta∫±øΩm$±z$∞t","MS",259
+"what time is it?","PA8C","79","S","N"," "," ","wﬁt$Âta±øm$ı±s$±t","MS",260
+"what time is it?","PA8D!","80!","S","N"," "," ","wﬁºt$Âta∫≤m$±z$∞t","MS",261
+"what time is it?","PA9A","83","S","N"," "," ","wµ´æt$Âta±øm$ı±s$∞t","MS",262
+"what time is it?","PA9B","83b","S","N"," "," ","wﬁt$taæ±øm$±z$∞t","MS",263
+"what time is it?","PA9C!","84!","S","N"," "," ","wµt$Âtaæ∫±øΩm$ı±z$∞t","MS",264
+"what time is it?","PA10","87","S","N"," "," ","wµæt$Âta±øm$ı±s$∞t","MS",265
+"what time is it?","PA11A","89","S","N"," "," ","w∂î´ºt$Âta±øm$±z$∞t","MS",266
+"what time is it?","PA11B","90(*)","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",267
+"what time is it?","PA12A","91","S","N"," "," ","wﬁ´ºt$Âta±øm$ı±z$∞t","MS",268
+"what time is it?","PA12B","92","S","N"," "," ","wµ´æt$taæ±øm$±z$∞t","MS",269
+"what time is it?","PA13A","93","S","N"," "," ","wµ´æt$Âta´æ±øm$±z$∞t","MS",270
+"what time is it?","PA13B","94","S","N"," "," ","w∏t$Âta±øm$±z$∞t","MS",271
+"what time is it?","PA14A","95(*)","S","N"," "," ","ˆµ´æt$Âta±øm$ı±s$±t","MS",272
+"what time is it?","PA14B","96","S","N"," "," ","wµæt$ta±øm$±z$∞t","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"what time is it?","PA15A","99","S","N"," "," ","hw∏t$Âtaæ±øm$ı±Ωz$±øt","MS",275
+"what time is it?","PA15B","99b","S","N"," "," ","wµ´æt$Âta´æ±øm$ı±z$∞t","MS",276
+"what time is it?","PA15C!","100!","S","N"," "," ","hw∏t$ta›±øm$±z$±øΩt","MS",277
+"what time is it?","PA16A","101","S","N"," "," ","wµæt$t{h}a∫±øΩm$±s$±øt","MS",278
+"what time is it?","PA16B","102","S","N"," "," ","wµt$taæ±øm$±z$∞t","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"what time is it?","PA17A","105","S","N"," "," ","wµt$Âta∫±øm$ı±s$±øt","MS",281
+"what time is it?","PA17B","106","S","N"," "," ","wµæt$Âtaæ±øm$ı±zè$∞t","MS",282
+"what time is it?","PA18A","107","S","N"," "," ","wµt$ta±øm$±z$∞t","MS",283
+"what time is it?","PA18B!","108!","S","N"," "," ","wµt$Âtaæ±øm$ı±z$∞t","MS",284
+"what time is it?","PA19A","113","S","N"," "," ","wﬁ´ºt$taæ±øm$±z$∞t","MS",285
+"what time is it?","PA19B","114","S","N"," "," ","w∏t$Âtaæ±øm$±z$∞t","MS",286
+"what time is it?","PA20A","115","S","N"," "," ","w∏t$Âtaæ±øm$ı±z$∞t","MS",287
+"what time is it?","PA20B","116","S","N"," "," ","w∏t$Âtµ´±øm$±z$∞t","MS",288
+"what time is it?","PA21A","117","S","N"," "," ","hw∏Ωt$t•±øm$±z$±øt","MS",289
+"what time is it?","PA21B","118","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øt","MS",290
+"NR","PA22A","119"," ","N"," "," "," ","MS",291
+"what time is it?","PA22B","120","S","N"," "," ","hwµt$ta´æ±øm$±z$±øΩt","MS",292
+"what time is it?","PA23A","121","S","N"," "," ","ıhw∏Ωt$Âta´æ±øm$±z$±øΩt","MS",293
+"what time is it?","PA23B","122","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øt","MS",294
+"what time of day is it?","PA24A","123","S","N"," "," ","hw∏Ωt$ıta´æ±øm$∞$Âde{±øΩ}$±z$±øt","MS",295
+"what time is it?","PA24B","124","S","N"," "," ","hw∏Ωt$Âta´æ±øm$ı±z$±øt","MS",296
+"what time of day is it?","PA25A","125","S","N"," "," ","hwµt$ta›±ø›m$∞$deΩ∫{±ø}$±z$±øΩt","MS",297
+"what time of day is it?","PA25B","126","S","N"," "," ","w∏t$ta±øm$∞$deΩ∫{±øΩ}$±z$±ø›Ωæt","MS",298
+"what time is it?","PA26A","127","S","N"," "," ","hw∏Ωt$Âta´æ±øm$ı±z$±øΩt","MS",299
+"what time is it?","PA26B","128","S","N"," "," ","hwµ´t$Âta´æ±ø´m$ı±z$±øt","MS",300
+"what time is it?","PA27A","131","S","Y"," ","AUX","hw∏Ωt$ta´æ±øm$±z$±øΩt","MS",301
+"what time is it?","PA27B","132","S","N"," "," ","hw∏Ωt$Âta´æ±øm$ı±z$±øΩt","MS",302
+"what time of day is it?","PA28A","135","S","N"," "," ","wµ´æt$ta±øm$∞$de∫{±øΩ}$±z$∞t","MS",303
+"what time is it?","PA28B!","136!","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",304
+"what time is it?","PA29A","139(*)","S","N"," "," ","wﬁ´ºt$ta±ø´m$±z$∞t","MS",305
+"what time is it?","PA29B","140","S","N"," "," ","w∂´ºt$ta±øm$±z$∞t","MS",306
+"what time is it?","PA30A","143","S","N"," "," ","hw∏Ωt$ta´æ±øm$±z$±øΩt","MS",307
+"what time of day is it?","PA30B","144","S","N"," "," ","hwµt$ta´æ±øm$∞$de{±ø}$±z$±øt","MS",308
+"what time is it?","PA31A","145","S","N"," "," ","hwµt$Âta±øm$ı±z$±øΩt","MS",309
+"what time is it?","PA31B","146","S","N"," "," ","hw∏t$ta´æ±øm$±z$±øΩt","MS",310
+"what time is it?","PA32A","147","S","N"," "," ","wﬁºt$ta±øm$±z$∞t","MS",311
+"what time is it?","PA32B","148","S","N"," "," ","w∏t$Âtaæ±øm$ı±z$∞t","MS",312
+"what time is it?","PA33A","151","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",313
+"what time is it?","PA33B","152","S","N"," "," ","w∂´ºt$Âta±øm$ı±z$∞t","MS",314
+"what time of day?","PA34A","155","S","N"," "," ","hw∏Ωt$ıta±øm$∞$ÂdeΩ±ø","MS",315
+"what time is it?","PA34B","156","S","N"," "," ","hw∏t$Âta´æ±ø´m$±z$∞t","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"what time is it?","PA35A","157","S","N"," "," ","w∂´ºt$ta±øm$±z$∞t","MS",318
+"what time is it?","PA35B","158(*)","S","N"," "," ","w∏t$taæ±øm$±z$∞t","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"what time is it?","PA36A","159","S","N"," "," ","wµ´æt$ta±øm$±z$∞t","MS",321
+"what time is it?","PA36B","160","S","N"," "," ","w∏t$ta∫±øm$±z$∞t","MS",322
+"what time is it?","PA37A","161(*)","S","N"," "," ","w∏t$ta±øm$±sî$∞t","MS",323
+"what time is it?","PA37B","162","S","N"," "," ","wµ´t$ta±øm$±zè$∞t","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"what time is it?","PA38A","163","S","N"," "," ","hw∏t$taæ±øm$±z$∞t","MS",326
+"what time is it?","PA38B","164","S","N"," "," ","w∏t$Âta±øm$ı±z$∞t","MS",327
+"what o'clock is it?","PA39A","165","S","N"," "," ","hw∏t$∞Âklﬁk$±z$∞t","MS",328
+"what time is it?","PA39A","165","S","N"," "," ","hw∏t$Âta±øm$±z$∞t","MS",328
+"what time is it?","PA39B","166","S","N"," "," ","w∏t$Âta±øm$±z$∞t","MS",329
+"what time is it?","PA40A","167","S","N"," "," ","w∂´ºt$ta±øm$±z$∞t","MS",330
+"what time is it?","PA40B","168","S","N"," "," ","w∏Ωt$ta±øm$±z$∞t","MS",331
+"what time is it?","PA41A","171","S","N"," "," ","wµ´æt$Âta±ø´m$ı±z$∞t","MS",332
+"what time is it?","PA41B","172","S","N"," "," ","wﬁºt$ta∫±øm$±z$∞t","MS",333
+"what time is it?","PA42A","175","S","N"," "," ","w∏t$Âta±øm$ı±z$∞t","MS",334
+"what time is it?","PA42B","176","S","N"," "," ","w∏t$ta±øm$±z$∞t","MS",335
+"what time is it?","PA43A","177","S","N"," "," ","hw∏t$taæ±øΩm$±z$∞t","MS",336
+"what time is it?","PA43B","178","S","N"," "," ","w∏t$tµ∫≤m$±z$±øt","MS",337
+"what time is it?","PA44A","179","S","N"," "," ","hw∏t$Âta±øm$ı±z$∞t","MS",338
+"what time is it?","PA44B","180","S","N"," "," ","hw∏t$Âta±øm$ı±z$∞t","MS",339
+"what time is it?","PA45A","181","S","N"," "," ","hw∏t$ta≤m$±z$∞t","MS",340
+"what time is it?","PA45B","182","S","N"," "," ","w∏Ωt$Âta±øm$ı±z$∞t","MS",341
+"what time is it?","PA46A","185","S","N"," "," ","hw∏t$ta∫≤m$±z$∞t","MS",342
+"what time is it?","PA46B","186","S","N"," "," ","hw∏ºt$Âta∫±øΩm$ı±z$∞t","MS",343
+"what time is it?","PA47A","189","S","N"," "," ","hw∏´ºt$ta±øΩm$±z$∞t","MS",344
+"what time is it?","PA47B","190","S","N"," "," ","ıhw∏ºt$Âta±øΩm$ı±z$∞t","MS",345
+"what time of day is it?","PA48A","191","S","N"," "," ","hwﬁt$ta±øm$∞$d≤±ø$±z$∞t","MS",346
+"what time of day is it?","PA48B","192","S","N"," "," ","hwﬁ´ºt$ta∫±øΩm$∞$d≤±ø$±z$∞t","MS",347
+"what time is it?","PA48C","193","S","N"," "," ","hw∏›ºt$ta±øm$±z$∞t","MS",348
+"what time is it?","PA49A","194","S","N"," "," ","hw∏ºt$ta∫±øΩm$±z$∞t","MS",349
+"what time is it?","PA49B","195","S","N"," "," ","hw∏t$taæ±øm$±z$∞t","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"what time of day?","PA50B","197","S","N"," "," ","hw∏t$ta±øΩm$∞$deΩ±ø","MS",352
+"what time is it?","PA50C!","198!","S","N"," "," ","hw∏ºt$Âta∫±øm$ı±z$∞t","MS",353
+"what time is it?","PA51A","199","S","N"," "," ","hw∏Ωt$Âta±øm$ı±z$∞t","MS",354
+"what time is it?","PA51B","200","S","N"," "," ","w∏›t$Âta∫±øm$ı±z$∞t","MS",355
+"what time is it?","PA52A","201","S","N"," "," ","hw∏Ωt$Âta±øm$ı±z$∞t","MS",356
+"what time is it?","PA52B!","202!","S","N"," "," ","hw∏Ωt$Âta±øm$ı±z$±øΩt","MS",357
+"what time is it?","PA53A","203","S","N"," "," ","hw∏Ωt$ta´æ±øm$±z$∞t","MS",358
+"what time is it?","PA53B","204","S","N"," "," ","hw∏Ωt$ta±øm$±z$∞t","MS",359
+"what time is it?","PA54A","205","S","N"," "," ","hw∏Ωt$ta±øm$±z$∞t","MS",360
+"what time is it?","PA54B","206","S","N"," "," ","hw∏Ωt$Âta±øm$ı±z$∞t","MS",361
+"what time of day is it?","PA55A","207","S","N"," "," ","hw∏Ωt$ta±øm$∞$d≤±ø$±z$∞t","MS",362
+"what time is it?","PA55B","208","S","N"," "," ","w∏Ωt$Âta±øm$ı±z$∞t","MS",363
+"what time is it?","PA56A","211(*)","S","N"," "," ","hw∏Ωt$ta±øm$±z$∞t","MS",364
+"what time is it?","PA56B","212","S","N"," "," ","hw∏ºt$Âtaæ±øm$ı±z$∞t","MS",365
+"what time is it?","PA57A","213","S","N"," "," ","hw∏Ωt$ta±øm$±z$∞t","MS",366
+"what time is it?","PA57B","214","S","N"," "," ","hw∏t$Âta±øm$ı±z$∞t","MS",367
+"what time is it?","PA58A","215","S","N"," "," ","hw∏Ωt$Âta±øm$ı±z$∞t","MS",368
+"what time of day is it?","PA58B","216","S","N"," "," ","hw∏Ωt$ta±øm$∞$Âd≤±ø$ı±z$∞t","MS",369
+"what time is it?","PA59A","219","S","N"," "," ","hw∏Ωt$ta±øm$±z$±øt","MS",370
+"what time is it?","PA59B","220","S","N"," "," ","hw∏Ωt$Âta±øm$ı±z$∞t","MS",371
+"what time of day is it?","PA60A","221","S","N"," "," ","hw∏Ωt$ta´æ±øm$∞$ıd≤´±ø$±z$∞t","MS",372
+"what time is it?","PA60B","222","S","N"," "," ","hw∏Ωt$ta±øm$±z$∞t","MS",373
+"what time is it?","PA61A","223","S","N"," "," ","w∏ºt$Âta´æ±øm$ı±z$∞t","MS",374
+"what time is it?","PA61B","224","S","N"," "," ","hw∏Ωt$ta±øm$±z$∞t","MS",375
+"what time is it?","PA62A","229","S","N"," "," ","hw∏t$Âta±øm$ı±z$∞t","MS",376
+"what time is it?","PA62B","230","S","N"," "," ","w∏t$Âta±øm$±z$∞t","MS",377
+"what time is it?","PA63A","231","S","N"," "," ","hw∏Ωt$ta´æ±øm$±z$±øΩt","MS",378
+"what time is it?","PA63B","232","S","N"," "," ","hw∏Ωt$ta±øm$±zè$±øΩt","MS",379
+"what time is it?","PA64A","233","S","N"," "," ","hwµt$ta´æ±øm$±z$±øΩt","MS",380
+"what time is it?","PA64B","234","S","N"," "," ","hwµt$t•Ω±øm$±z$±øΩt","MS",381
+"what time of day is it?","PA65A","237","S","N"," "," ","hw∏t$ta±øm$∞$d≤±ø$±z$±øt","MS",382
+"what time is it?","PA65B","238","S","N"," "," ","hw∏Ωt$ta±øm$±z$±øΩt","MS",383
+"what time is it?","PA66A","239","S","N"," "," ","hw∏Ωt$Âta±øm$±z$±øt","MS",384
+"what time is it?","PA66B","240","S","N"," "," ","hw∏Ωt$ta±øm$±z$±øt","MS",385
+"what time is it?","PA67A","243","S","N"," "," ","hw∏t$Ât•±øm$ı±z$±øt","MS",386
+"what time is it?","PA67B","244","S","N"," "," ","hw∏ºt$Ât•±ø´m$±z$±øΩt","MS",387
+"what time is it?","WV1!","88!","S","N"," "," ","hw∏´t$ta∫≤æm$±z$∞t","MS",388
+"what time is it?","WV2","89","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±st","MS",389
+"what time is it?","WV3","91","S","N"," "," ","hwµt$ta∫≤m$±z$∞t","MS",390
+"what time is it?","WV4A","92","S","N"," "," ","hw∏t$taæ∫≤æm$±z$∞t","MS",391
+"what time is it?","WV4B","93","S","N"," "," ","hwµ´æt$taæ≤æm$±{∞}z$∞´t","MS",392
+"what time is it?","WV5","94","S","N"," "," ","hw∏Ωt$ta∫≤m$±z$∞t","MS",393
+"what time is it?","WV6A","95","S","N"," "," ","hwµ´æt$ta∫≤m$±z$∞t","MS",394
+"what time is it?","WV6B","96","S","N"," "," ","hw∏t$ta∫≤æm$±z$∞t","MS",395
+"what time is it?","WV7A","97","S","N"," "," ","hw∏t$ta∫≤m$±z$∞t","MS",396
+"what time is it?","WV7B","98","S","N"," "," ","hw∏t$taæ∫≤m$±z$∞t","MS",397
+"what time is it?","WV8A","97b","S","N"," "," ","hwµ´t$ta∫≤m$±z$∞t","MS",398
+"what time is it?","WV8B","98b","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",399
+"what time is it?","WV9A","301","S","N"," "," ","hw∏t$Âta∫±øΩm$ı±z$∞t","MS",400
+"what time is it?","WV9B","302","S","N"," "," ","hw∏ºt$Âta∫±øΩm$ı±z$∞t","MS",401
+"what time is it?","WV10A","303","S","N"," "," ","hw∏ºt$ta±øm$±z$∞t","MS",402
+"what time is it?","WV10B","303b","S","N"," "," ","hw∏t$Âtaæ∫±øΩm$ı±z$∞t","MS",403
+"what time is it?","WV10C","304","S","N"," "," ","hwµ´æt$Âta∫±øm$ı±z$∞t","MS",404
+"what time is it?","WV11A","305","S","N"," "," ","hwﬁt$Âtaæ∫±øm$ı±z$∞t","MS",405
+"what time is it?","WV11B!","306!","S","N"," "," ","hwﬁº{∞}t$Âta±øm$±z$∞t","MS",406
+"what time is it?","WV12A","307","S","N"," "," ","hw∏ºt$Âta±øm$±z$∞t","MS",407
+"what time is it?","WV12B","308","S","N"," "," ","hw∏ºt$ta≤´m$±z$∞t","MS",408
+"what time of day is it?","WV13A","309","S","N"," "," ","hw∏ºt$ta∫≤´m$∞$deΩ±ø$±z$∞t","MS",409
+"what time is it?","WV13B","310","S","N"," "," ","ıhw∏ºt$Âtaæ∫≤m$ı±z$∞t","MS",410
+"what time is it?","WV14A","311","S","N"," "," ","hw∏ºt$Âta±øm$ı±z$∞t","MS",411
+"what time is it?","WV14B","312","S","N"," "," ","hw∏ºt$Âta∫≤æm$±z$∞t","MS",412
+"what time is it?","WV15A","313","S","N"," "," ","hwµt$ta±øm$±z$∞t","MS",413
+"what time is it?","WV15B","314","S","N"," "," ","hw∏t$ta±øΩm$±z$∞t","MS",414
+"what time is it?","WV16A","315","S","N"," "," ","hw∏t$ta±øm$±z$∞t","MS",415
+"what time is it?","WV16B","316","S","N"," "," ","hwµæt$taæ∫≤´m$±z$∞t","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"what time is it?","WV17B","317b","S","N"," "," ","hw∏t$Âta∫±øΩm$ı±z$∞t","MS",418
+"what time of day is it?","WV17C","318","S","N"," "," ","hw∏ºt$ta±øm$∞$de±ø$±z$∞t","MS",419
+"what time is it?","WV18A","319","S","N"," "," ","hw∏t$Âtaæ≤´m$ı±z$∞t","MS",420
+"what time is it?","WV18B","320","S","N"," "," ","hw∏t$ta∫≤´m$±z$∞t","MS",421
+"what time is it?","WV19A","321","S","N"," "," ","hw∏ºt$ta≤m$±z$∞t","MS",422
+"what time is it?","WV19B","322","S","N"," "," ","hw∏ºt$Âta∫≤m$ı±z$∞t","MS",423
+"what time is it?","WV20A","323","S","N"," "," ","ıhw∏´ºt$Âta∫≤m$±z$∞t","MS",424
+"what time is it?","WV20B","324","S","N"," "," ","hw∏t$Âta∫{≤æ}m$ı±z$∞t","MS",425
+"what time is it?","WV21A","325","S","N"," "," ","hw∏´ºt$ta≤m$±z$∞t","MS",426
+"what time is it?","WV21B","326","S","N"," "," ","hw∏´ºt$Âta∫≤m$ı±z$∞t","MS",427
+"what time is it?","WV22A","327","S","N"," "," ","hw∏t$ta±øm$±z$∞t","MS",428
+"what time is it?","WV22B","328","S","N"," "," ","hw∏ºt$ta±øΩm$±z$∞t","MS",429
+"what time is it?","WV23A","331","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",430
+"what time is it?","WV23B","332","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",431
+"what time is it?","WV24A","335","S","N"," "," ","hw∏ºt$Âta∫≤m$ı±z$∞t","MS",432
+"what time of day is it?","WV24B","336","S","N"," "," ","hw∏ºt$ta≤m$∞$de±ø$±z$∞t","MS",433
+"what time of day is it?","WV25A","337","S","N"," "," ","hw∏ºt$ta∫≤m$∞$de±ø$±z$∞t","MS",434
+"what time is it?","WV25B","338","S","N"," "," ","hw∏ºt$ta≤m$±z$∞t","MS",435
+"what time is it?","WV26A","339","S","N"," "," ","hw∏ºt$Âta∫≤m$±z$∞t","MS",436
+"what's the time of day?","WV26B","340","S","N"," "," ","hw∏ºts$‰∞$taæ∫≤m$∞$de±ø","MS",437
+"what time of day is it?","WV27A","341","S","N"," "," ","hw∏ºt$ta≤m$∞$deΩ±ø$±z$∞t","MS",438
+"what time is it?","WV27B","342","S","N"," "," ","ıhw∏ºt$Âta∫≤m$ı±z$∞t","MS",439
+"what time of day is it?","WV28A","343","S","N"," "," ","hw∏ºt$ta∫±øm$∞$de±ø$±z$∞t","MS",440
+"what time is it?","WV28B","344","S","N"," "," ","hw∏ºt$ta∫≤m$±{∞}z$∞t","MS",441
+"what time is it?","WV29A","345","S","N"," "," ","hw∏ºt$taæ∫≤m$±z$∞t","MS",442
+"what time is it?","WV29B","346","S","N"," "," ","hw∏t$Âta∫≤m$ı±z$∞t","MS",443
+"what time is it?","WV30A","347","S","N"," "," ","hwﬁºt$ta≤m$±z$∞t","MS",444
+"what time is it?","WV30B","348","S","N"," "," ","ıhw∏ºt$Âta∫≤m$ı±z$∞t","MS",445
+"what time of day is it?","WV31A","349","S","N"," "," ","hwﬁ´ºt$ta∫≤m$∞$Âde±ø$±z$∞t","MS",446
+"what time is it?","WV31B","350","S","N"," "," ","hwµt$Âta∫≤m$ı±z$∞t","MS",447
+"what time is it?","WV32A","353","S","N"," "," ","hwﬁºt$taæ∫≤æm$±z$∞t","MS",448
+"what time is it?","WV32B","354","S","N"," "," ","hw∏t$ta∫≤m$±z$∞t","MS",449
+"what time of day is it?","WV33A","355","S","N"," "," ","hwﬁºt$tµº≤m$∞$deΩ±ø$±z$∞t","MS",450
+"what time is it?","WV33B","356","S","N"," "," ","hw∏ºt$taæ≤m$±z$∞t","MS",451
+"what time is it?","WV34A","359","S","N"," "," ","hw∏ºt$ta∫≤m$±{∞}z$∞t","MS",452
+"what time of day?","WV34B","360","S","N"," "," ","hw∏ºt$ta∫≤m$∞$d≤´±ø","MS",453
+"what time is it?","WV35A","361","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",454
+"what time is it?","WV35B","362","S","N"," "," ","hw∏ºt$Âta∫≤m$ı±z$∞t","MS",455
+"what time of day is it?","WV36A","363","S","N"," "," ","hw∏ºt$ta≤m$∞$d≤´±ø$±z$∞t","MS",456
+"what time is it?","WV36B","364","S","N"," "," ","ıhw∏ºt$Âtaæ∫≤æm$ı±z$∞t","MS",457
+"what time is it?","WV37A","365","S","N"," "," ","ıhw∏ºt$Âta±øm$ı±z$∞t","MS",458
+"what time is it?","WV37B!","366!","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",459
+"what time is it?","WV38A","367","S","N"," "," ","ıhw∏ºt$Âtaæ∫≤m$ı±z$∞t","MS",460
+"what time is it?","WV38B","368","S","N"," "," ","hw∏ºt$Âtaæ∫≤æm$ı±∫z$∞t","MS",461
+"what time is it?","WV39A","369","S","N"," "," ","hw∏ºt$Âtaæ∫≤m$ı±z$∞t","MS",462
+"what time is it?","WV39B","370","S","N"," "," ","hw∏ºt$Âta∫±øΩm$ı±z$∞t","MS",463
+"what time is it?","WV39C!","371!","S","N"," "," ","hw∏ºt$Âta∫≤m$ı±z$∞t","MS",464
+"what time is it?","WV40A","373","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",465
+"what time is it?","WV40B","374","S","N"," "," ","hw∏ºt$taæ∫≤m$±z$∞t","MS",466
+"what time of day is it?","WV41A","375","S","N"," "," ","hw∏ºt$ta∫{≤æ}m$∞$de±ø$±z$∞t","MS",467
+"what time is it?","WV41B","376","S","N"," "," ","ıhw∏ºt$Âta∫≤´m$ı±z$∞t","MS",468
+"what time is it?","WV42A","377","S","N"," "," ","hw∏t$Âtaæ∫±øΩm$ı±z$∞t","MS",469
+"what time is it?","WV42B","378","S","N"," "," ","ıhw∏ºt$Âta±øm$ı±z$∞t","MS",470
+"what time is it?","WV43A","381","S","N"," "," ","hw∏ºt$ta±øΩm$±z$∞t","MS",471
+"what time is it?","WV43B","382","S","N"," "," ","hw∏ºt$ta∫≤m$±z$∞t","MS",472
+"what time is it?","WV44A","383","S","N"," "," ","ıhw∏ºt$Âta∫±øm$±z$∞t","MS",473
+"what time of day is it?","WV44B","384","S","N"," "," ","hw∏t$ta±øm$∞$d≤´±ø$±z$∞t","MS",474
+"what time is it?","WV45A","385","S","N"," "," ","hw∏t$Âta±øm$ı±z$∞t","MS",475
+"what time is it?","WV45B","386","S","N"," "," ","hw∏ºt$taæ∫±øΩm$±z$∞t","MS",476
+"what time is it?","WV46A","387","S","N"," "," ","hwﬁ´ºt$ta≤m$±z$∞t","MS",477
+"what time is it?","WV46B","388","S","N"," "," ","hw∏ºt$tµº±øΩm$±z$∞t","MS",478
+"what time is it?","WV47A","389","S","N"," "," ","ıhw∏t$Âtaæ≤´m$ı±z$∞t","MS",479
+"what time is it?","WV47B","390","S","N"," "," ","ıhw∏t$Âtaæ∫≤´m$±z$∞t","MS",480
+"what time is it?","WV48A","391","S","N"," "," ","hw∏ºt$taæ±øm$±z$∞t","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"what time is it?","WV48D","392b","S","N"," "," ","ıhw∏ºt$Âta±øm$±z$∞t","MS",484
+"what time is it?","WV49A","393","S","N"," "," ","ıhw∏ºt$Âtaæ∫≤m$ı±z$∞t","MS",485
+"what time is it?","WV49B","394","S","N"," "," ","hw∏ºt$Âtaæ∫≤´m$ı±z$∞t","MS",486
+"what time is it?","WV50A","395","S","N"," "," ","hw∏ºt$Âta±øm$ı±z$∞t","MS",487
+"what time is it?","WV50B","396","S","N"," "," ","hw∏t$ta±øm$±z$∞t","MS",488
+"what time is it?","WV51A","261","S","N"," "," ","hw∏t$Âta±øm$±z$∞t","MS",489
+"what time is it?","WV51B","262","S","N"," "," ","ıhw∏ºt$Âtaæ∫±øm$ı±z$∞t","MS",490
+"what time is it?","WV52A","258","S","N"," "," ","hw∏ºt$ta±øm$±z$∞t","MS",491
+"what time is it?","WV52B","259","S","N"," "," ","hw∏ºt$ta±øm$±z$∞t","MS",492
+"what time is it?","WV52C!","260!","S","N"," "," ","hw∏t$ta±øΩm$±z$∞t","MS",493
+"what time is it?","WV53A","257","S","N"," "," ","ıhw∏t$Âta±øm$±z$∞t","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"what time is it?","WV53C!","257c!","S","N"," "," ","ıhw∏ºt$Âta±øm$ı±z$∞t","MS",496
+"what time is it?","WV54A","255","S","N"," "," ","hw∏ºt$ta∫±øm$±z$∞t","MS",497
+"what time is it?","WV54B","256","S","N"," "," ","hw∏ºt$ta±øm$±z$∞t","MS",498
+"what time is it?","DE1A","11","S","N"," "," ","w∏t$taæ±øm$±z$∞t","MS",499
+"what time is it?","DE1B","12","S","N"," "," ","w∏t$taæ∫±øm$±z$∞t","MS",500
+"what time is it?","DE1C!","13!","S","N"," "," ","w∏t$taæ∫±øΩm$±z$∞t","MS",501
+"what time is it?","DE2A","15(*)","S","N"," "," ","wµ´æ{∞}t$tµ∫±øΩm$±z$∞´t","MS",502
+"what time is it?","DE2B","16","S","N"," "," ","w∏t$taæ∫±øΩm$±z$∞t","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"what time is it?","DE3A","18","S","N"," "," ","{h}w∏t$ta±øm$±z$±øΩt","MS",505
+"what time is it?","DE3B","19","S","N"," "," ","{h}w∏t$taæ±øΩm$±z$±øΩt","MS",506
+"what time is it?","DE3C!","17!","S","N"," "," ","hw∏t$taæ∫±øΩm$±z$∞t","MS",507
+"what time is it?","DE4","20","S","N"," "," ","w∏t$taæ±Ωm$±z$±øΩt","MS",508
+"what time is it?","DE5A","21","S","N"," "," ","w∏´t$tµ±øΩm$±z$±øt","MS",509
+"what time is it?","DE5B","22","S","N"," "," ","w∏t$taæ∫≤m$±z$±øt","MS",510
+"what time of day is it?","DE6A","23","S","N"," "," ","w∏t$taæ∫≤m$∞$Âd≤≤´æ$±z$±øt","MS",511
+"what time is it?","DE6B","24","S","N"," "," ","w∏t$taæ∫≤æm$±z$±øΩt","MS",512
+"what time is it?","MD1A","27","S","N"," "," ","{h}w∏t$ta∫±øΩm$±z$∞t","MS",513
+"what time is it?","MD1B","28","S","N"," "," ","w∏´t$ta±øm$±æz$∞t","MS",514
+"what time is it?","MD2A","31a","S","N"," "," ","{h}w∏ºt$taæ∫≤æm$±z$±øt","MS",515
+"what time is it?","MD2B","32","S","N"," "," ","w∏ºt$taæ±øΩm$±z$∞t","MS",516
+"what time is it?","MD3A","33","S","N"," "," ","w∏t$taæ∫≤˛m$±z$±øt","MS",517
+"what time is it?","MD3B","34","S","N"," "," ","w∏t$tµº≤æm$±z$∞t","MS",518
+"what time is it?","MD4A","35b","S","N"," "," ","w∏t$ta´æ±øm$±z$±øt","MS",519
+"what time is it?","MD4B","35","S","N"," "," ","hw∏t$tµº∫≤´m$±z$±øt","MS",520
+"what time is it?","MD4C","36","S","N"," "," ","w∏t$tµ±øΩm$±z$±øΩt","MS",521
+"what time is it?","MD5A","37","S","N"," "," ","w∏t$taæ∫≤æm$±z$±øΩt","MS",522
+"what time is it?","MD5B","38","S","N"," "," ","w∏t$taæ∫≤æm$±z$±øΩt","MS",523
+"what time is it?","MD6A","39(*)","S","N"," "," ","w∏t$ta´æ±øm$±z$±øt","MS",524
+"what time is it?","MD6B","40","S","N"," "," ","w∏t$taæ±øΩm$±z$±øΩt","MS",525
+"what time is it?","MD7A","41","S","N"," "," ","hw∏t$tµ±øΩm$±z$±øΩt","MS",526
+"what time is it?","MD7B","41b","S","N"," "," ","w∏t$taæ∫≤m$±z$±øt","MS",527
+"what time is it?","MD7C!","42!","S","N"," "," ","w∏t$tµº∫≤´m$±z$±øt","MS",528
+"what time is it?","MD8A","43","S","N"," "," ","{h}w∏t$taæ∫±øΩm$±z$±øΩt","MS",529
+"what time is it?","MD8B","44","S","N"," "," ","w∏t$tµ∫≤æm$±z$±øt","MS",530
+"what time is it?","MD9N","N46","S","N"," "," ","hw∏´t$tµ∫{≤æ}m$±øs$±øt","MS",531
+"what time is it?","MD9A","45","S","N"," "," ","{h}w∏t$taæ∫≤æm$±z$±øt","MS",532
+"what time is it?","MD9B","46","S","N"," "," ","w∏t$taæ∫≤æm$±z$±øt","MS",533
+"what time is it?","MD10A","49","S","N"," "," ","w∏t$taæ±øm$±z$±øΩt","MS",534
+"what time is it?","MD10B","50","S","N"," "," ","hw∏´t$tµ≤´m$±z$±øt","MS",535
+"what time is it?","MD11","51","S","N"," "," ","hw∏´t$taæ∫≤m$±z$±øt","MS",536
+"what time is it?","MD12A","52","S","N"," "," ","hw∏t$taæ∫≤m$±z$±øt","MS",537
+"what time is it?","MD12B","53","S","N"," "," ","w∏´t$tµ∫≤m$±z$∞´t","MS",538
+"what time is it?","MD13A","54(*)","S","N"," "," ","w∏t$tµ∫≤m$±z$±øt","MS",539
+"what time is it?","MD13B","55","S","N"," "," ","w∏t$ta∫≤´m$±z$±øt","MS",540
+"what time is it?","MD13C","56","S","N"," "," ","w∏t$taæ±øm$±z$∞t","MS",541
+"what time is it?","MD13D!","57!","S","N"," "," ","hw∏´t$taæ∫≤m$±z$±øt","MS",542
+"what time is it?","MD13E!","58!","S","N"," "," ","hwﬁ´ºt$tµ≤æm$±{∞}z$±øΩt","MS",543
+"what time is it?","MD13F!","59!","S","N"," "," ","hw∏ºt$tµº∫≤m$±{∞}z$∞´t","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"what time is it?","MD14","61(*)","S","N"," "," ","w∏´ºt$tµº∫≤m$±z$±øt","MS",546
+"what time is it?","MD15A","62","S","N"," "," ","hw∏´t$taæ∫≤æm$±z$±øt","MS",547
+"what time is it?","MD15B","63","S","N"," "," ","w∏´t$taæ∫≤m$±z$±øΩt","MS",548
+"what time is it?","MD16","64","S","N"," "," ","wﬁ´ºt$tµº∫≤æm$±{∞}z$∞´t","MS",549
+"what time is it?","MD17A","65","S","N"," "," ","w∏´t$taæ∫≤m$±z$∞t","MS",550
+"what time is it?","MD17B","66","S","N"," "," ","w∏t$tµ∫≤æm$±z$∞t","MS",551
+"what time is it?","MD18A","67","S","N"," "," ","hw∏´t$taæ∫≤æm$±z$±øt","MS",552
+"what time is it?","MD18B","68","S","N"," "," ","hw∏t$taæ≤´m$±z$±øt","MS",553
+"what time is it?","MD19A","69","S","N"," "," ","hw∏´t$ta≤m$±z$±øt","MS",554
+"what time is it?","MD19B","70","S","N"," "," ","hw∏´t$taæ∫≤æm$±z$±øt","MS",555
+"what time is it?","MD20A","71","S","N"," "," ","w∏t$tµº∫±øΩm$±z$±øt","MS",556
+"what time is it?","MD20B","72","S","N"," "," ","hw∏´ºt$taæ≤m$±z$±øt","MS",557
+"what time is it?","MD20C!","73!","S","N"," "," ","hw∏t$ta∫≤æm$±z$±øt","MS",558
+"what time is it?","MD21A","75","S","N"," "," ","hw∏´t$ta≤´m$±z$±øt","MS",559
+"what time is it?","MD21B","76","S","N"," "," ","hw∏´t$tµº≤m$±z$±øt","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"what time is it?","MD22M","N78","S","N"," "," ","{h}w∏t$ta±øΩm$±z$±øt","MS",562
+"what time is it?","MD22A","77","S","N"," "," ","hw∏t$tµ∫±øΩm$±z$±øΩt","MS",563
+"what time is it?","MD22B","78","S","N"," "," ","hw∏t$taæ∫≤æm$±z$±øt","MS",564
+"what time is it?","MD22C!","79!","S","N"," "," ","hw∏´t$taæ∫≤æm$±z$±øt","MS",565
+"what time is it?","MD23A","80b","S","N"," "," ","hw∏t$tµº∫≤æm$±z$±øt","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"what time is it?","MD23C","81","S","N"," "," ","hw∏´t$taæ∫≤m$±z$±øt","MS",568
+"what time","MD24","82","O","Y"," ","INA/DDT","hw∏´t$taæ±øm","MS",569
+"what time is it?","MD25","84","S","N"," "," ","hw∏´t$taæ∫≤m$±z$±øt","MS",570
+"what time is it?","MD26A","83","S","N"," "," ","hw∏t$taæ±øΩm$±st","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"what time of day is it?","MD27A","85","S","N"," "," ","hw∏t$taæ∫≤æm$∞$de±$±z$∞t","MS",573
+"what time is it?","MD27B","86","S","N"," "," ","hw∏t$ta∫≤æm$±z$∞t","MS",574
+"what time is it?","DC1A","99","S","N"," "," ","hwﬁ´ºt$tµº≤æm$∞´z$∞´t","MS",575
+"what time is it?","DC1B!","100!","S","N"," "," ","w∏´t$taæ∫≤æm$±z$±øt","MS",576
+"what time is it?","VA1!","101!","S","N"," "," ","hw∏´ºt$ta∫{∞æ}m$±z$±øt","MS",577
+"what time is it?","VA2A","103","S","N"," "," ","{h}wµ´æt$taæ≤æm$±z$±øt","MS",578
+"what time is it?","VA2B","104","S","N"," "," ","hw∏´t$taæ∫≤´æm$±z$±øt","MS",579
+"what time is it?","VA3A","105(*)","S","N"," "," ","hw∏t$tµ∫{≤æ}m$±z$±øt","MS",580
+"what o'clock is it?","VA3B","106","S","N"," "," ","hw∏tê$∞klµ´k$±{∞}z$∞´t","MS",581
+"what time is it?","VA3B","106","S","N"," "," ","hw∏tê$ta∫±øΩm$±{∞}z$∞´t","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"what time is it?","VA4N","N109","S","N"," "," ","hw∏´t$tµ´æ±øm$±z$±øt","MS",583
+"what time is it?","VA5A","107","S","N"," "," ","wµ´æ{∞}t$ta±øm$±{∞}z$±øt","MS",584
+"what time is it?","VA5B","108","S","N"," "," ","hw∏ó´t$taæ≤æm$±{∞}z$±øt","MS",585
+"what time is it?","VA6A","113","S","N"," "," ","hw∏ó´ºt$tµº≤m$±{∞}z$±øt","MS",586
+"what time is it?","VA6B","114","S","N"," "," ","hw∏ó´t$taæ∫≤m$±{∞}z$±øt","MS",587
+"what time is it?","VA7A","121","S","N"," "," ","hw∏´t$taæ∫≤æm$±z$±øt","MS",588
+"what time is it?","VA7B","122","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±{∞}z$±øt","MS",589
+"what time is it?","VA8A","123","S","N"," "," ","hw∏´t$tµ∫{≤æ}m$±z$±øt","MS",590
+"what time is it?","VA8B","124","S","N"," "," ","hw∏´ºt$ta±øΩm$±{∞}z$±øt","MS",591
+"what time is it?","VA8C!","125!","S","N"," "," ","hw∏óº{∞}t$taæ∫{∞º}m$±øz$±t","MS",592
+"what time is it?","VA9A","117","S","N"," "," ","hw∏ót$ta∫{∞º}m$±z$±øt","MS",593
+"what time is it?","VA9B!","118!","S","N"," "," ","hw∏´t$tµº∫{∞º}m$±z$±øt","MS",594
+"what time is it?","VA10A","127","S","N"," "," ","hw∏t$ta›±ø›m$±z$±øt","MS",595
+"what time is it?","VA10B","128","S","N"," "," ","hw∏t$ta∫{∞º}m$±z$±øt","MS",596
+"what time is it?","VA11A","129","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±z$±øt","MS",597
+"what time is it?","VA11B","130","S","N"," "," ","hw∏t$taæ∫{∞º}m$±{∞}z$±øt","MS",598
+"what time is it?","VA12N","N131","S","N"," "," ","hw∏t$tµæ∫≤´æm$±z$±øt","MS",599
+"what time is it?","VA12A","131","S","N"," "," ","hw∏ót$ta≤m$±{∞}z$±øt","MS",600
+"what time is it?","VA12B!","132!","S","N"," "," ","hw∏ó´ºt$ta±øΩm$±{∞}z$±øt","MS",601
+"what time is it?","VA13A","133","S","N"," "," ","hw∏´t$taæ≤m$±{∞}z$±øt","MS",602
+"what time is it?","VA13B","134","S","N"," "," ","w∏´t$taæ∫≤æm$±{∞}z$±øt","MS",603
+"what time is it?","VA14A","135","S","N"," "," ","hwµt$tµæ∫{≤æ}m$±z$±øt","MS",604
+"what time is it?","VA14B","136","S","N"," "," ","hw∏´t$tµ≤æm$±z$±øt","MS",605
+"what time is it?","VA14C","137","S","N"," "," ","hw∏t$ta≤m$±{∞}z$±øt","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"what time is it?","VA15A","139","S","N"," "," ","hw∏æt$ta±øm$±{∞}z$±øt","MS",608
+"what time is it?","VA15B","140","S","N"," "," ","hw∏ó´æt$taæ≤æm$±{∞}z$±øt","MS",609
+"what time is it?","VA16A","141","S","N"," "," ","hw∏´t$taæ∫{∞º}m$±{∞}z$±øΩt","MS",610
+"what time is it?","VA16B","142","S","N"," "," ","hw∏t$taæ≤´m$±{∞}z$±øt","MS",611
+"what time is it?","VA17A","143","S","N"," "," ","hw∏´t$taæ≤æm$±z$±øΩt","MS",612
+"what time is it?","VA17B","144","S","N"," "," ","hw∏´{∞}t$tµº≤æm$±z$±øt","MS",613
+"what time is it?","VA18","145","S","N"," "," ","hw∏´t$ta∫≤´m$±{∞}z$±øt","MS",614
+"what time is it?","VA19A","146","S","N"," "," ","hw∏´t$t{h}µ´º±øm$±z$±øt","MS",615
+"what time is it?","VA19B","147","S","N"," "," ","hw∏{∞}t$tµ≤æm$±z$±øt","MS",616
+"what time is it?","VA19C!","148!","S","N"," "," ","hw∏ó´{∞}t$tµº∫≤æm$±z$±øt","MS",617
+"what time is it?","VA20A","149","S","N"," "," ","hw∏t$taæ∫≤æm$±z$±øt","MS",618
+"what time is it?","VA20B","150(*)","S","N"," "," ","hw∏´t$taæ≤æm$±z$±øt","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"what time is it?","VA21N","N153","S","N"," "," ","hw∏t$tµ´º±øΩm$±z$±øt","MS",621
+"what time is it?","VA21A","153","S","N"," "," ","hw∏{∞}t$taæ∫{∞º}m$±{∞}z$±øt","MS",622
+"what time is it?","VA21B","154","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±{∞}z$±øt","MS",623
+"what time is it?","VA22","155","S","N"," "," ","hw∏ó´t$taæ∫{∞º}m$±z$±øt","MS",624
+"what time is it?","VA23A","156","S","N"," "," ","hw∏ó{∞}t$t{h}µæ∫≤m$±z$±øt","MS",625
+"what time is it?","VA23B","157","S","N"," "," ","hw∏t$tµ{≤æ}m$±z$±øt","MS",626
+"what time is it?","VA24","159","S","N"," "," ","hw∏{∞}t$taæ≤æm$±z$±øt","MS",627
+"what time is it?","VA25","160(*)","S","N"," "," ","hw∏t$tµæ∫≤´æm$±z$±øt","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"what time is it?","VA26B","161","S","N"," "," ","hw∏t$tµ≤´m$±z$±øt","MS",630
+"what time is it?","VA26C","162","S","N"," "," ","hw∏´t$tµ∫≤æm$±z$±øt","MS",631
+"what time is it?","VA27","163(*)","S","N"," "," ","hwµ´t$tµ±øΩm$±z$±øt","MS",632
+"what time is it?","VA28A","164","S","N"," "," ","hw∏´t$tµæ∫≤æm$±z$±øt","MS",633
+"what time is it?","VA28B","165","S","N"," "," ","hw∏´t$taæ∫≤m$±z$±øt","MS",634
+"what time is it?","VA29","166","S","N"," "," ","hw∏´{∞}t$taæ∫{≤æ}m$±{∞}z$±øt","MS",635
+"what time is it?","VA30A","167","S","N"," "," ","hw∏´t$tµº∫≤æm$±z$±øΩt","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"what time is it?","VA30C!","168!","S","N"," "," ","hw∏t$taæ∫{∞º}m$±z$±øt","MS",638
+"what o'clock is it?","VA30D!","169!","S","N"," "," ","hw∏´tê$∞klµ´æ{∞}k$±{∞}z$±øt","MS",639
+"what time is it?","VA30D!","169!","S","N"," "," ","hw∏´t$tµº∫{≤æ}m$±{∞}z$±øt","MS",639
+"what time is it?","VA30E!","170!","S","N"," "," ","hw∏t$taæ∫{∞º}m$±{∞}z$±øt","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"what time is it?","VA31B","172","S","N"," "," ","hw∏´{∞}t$taæ∫{∞º}m$±{∞}z$±øt","MS",642
+"what time is it?","VA31C"," ","S","N"," "," ","hw∏´{∞}t$ta∫{∞º}m$±z$±øΩt","MS",643
+"what time is it?","VA32!","175!","S","N"," "," ","hw∏{∞}t$taæ∫{≤æ}m$±z$±øt","MS",644
+"what time is it?","VA33A","173","S","N"," "," ","hw∏t$ta∫{≤æ}m$±{∞}z$±øt","MS",645
+"what time is it?","VA33B","174","S","N"," "," ","hw∏{∞}t$taæ∫{∞º}m$±{∞}z$±øt","MS",646
+"what time is it?","VA34A","177(*)","S","N"," "," ","hw∏t$taæ{∞º}m$±øz$±øt","MS",647
+"what time is it?","VA34B","178","S","N"," "," ","hw∏ó´{∞}t$taæ∫{∞º}m$±z$±øΩt","MS",648
+"what time is it?","VA35A","179","S","N"," "," ","hw∏´t$tµº∫{≤æ}m$±z$±øt","MS",649
+"what time is it?","VA35B","180","S","N"," "," ","hw∏´t$taæ∫{∞º}m$±z$±øΩt","MS",650
+"what time is it?","VA36A","181","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±z$±øt","MS",651
+"what time is it?","VA36B","182","S","N"," "," ","hw∏´t$taæ∫{∞º}m$±z$±øt","MS",652
+"what time is it?","VA37","183","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$±z$±øt","MS",653
+"what time is it?","VA38","185","S","N"," "," ","hw∏æ't$taæ∫≤æm$±z$±øt","MS",654
+"what time is it?","VA39!","186!","S","N"," "," ","hw∏{∞}t$taæ∫{≤æ}m$±z$±øt","MS",655
+"what time is it?","VA40A","187","S","N"," "," ","hwèﬁ´º{∞}t$tµæ≤æm$±z$±øt","MS",656
+"what time is it?","VA40B","188","S","N"," "," ","hw∏´t$tµº∫{≤æ}m$±z$±øt","MS",657
+"what time is it?","VA41A","191","S","N"," "," ","hw∏´{∞}t$taæ∫{≤æ}m$±z$±øt","MS",658
+"what time is it?","VA41B","192","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±z$±øt","MS",659
+"what time is it?","VA42A","193(*)(**)","S","N"," "," ","hw∏´t$taæ≤æm$±z$±øt","MS",660
+"what time is it?","VA42B","194","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±{∞}z$±øΩt","MS",661
+"what time is it?","VA43N","N195","S","N"," "," ","hw∏´t$taæ≤æm$±z$±øt","MS",662
+"what time is it?","VA43A","195","S","N"," "," ","hw∏´æt$taæ∫{≤æ}m$±z$±øt","MS",663
+"what time is it?","VA43B","196","S","N"," "," ","hw∏´t$taæ∫{∞º}m$±z$±øt","MS",664
+"what time is it?","VA44A","199","S","N"," "," ","hw∏ó´ºt$tµ∫{≤æ}m$±z$±øt","MS",665
+"what time is it?","VA44B","200","S","N"," "," ","hw∏t$ta∫{∞º}m$±{∞}z$±øt","MS",666
+"what time is it?","VA45A","201","S","N"," "," ","hw∏´t$ta∫{∞º}m$±z$±øt","MS",667
+"what time is it?","VA45B","202","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±{∞}z$±øt","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"what time is it?","VA46A","207","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±z$±øt","MS",670
+"what time is it?","VA46B!","208!","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±{∞}z$±øt","MS",671
+"what time is it?","VA47","211","S","N"," "," ","hw∏t$ta{≤æ}m$±z$±øt","MS",672
+"what time is it?","VA48A","213(*)","S","N"," "," ","hw∏{∞}t$taæ∫{≤æ}m$±{∞}z$±øt","MS",673
+"what time is it?","VA48B","214","S","N"," "," ","hw∏ó´ºt$ta∫{∞º}m$±{∞}z$±øt","MS",674
+"what time is it?","VA49A","215","S","N"," "," ","hw∏ºt$tµº∫{≤æ}m$±{∞}z$±øt","MS",675
+"what time is it?","VA49B","216","S","N"," "," ","hw∏ó´ºt$taæ∫{∞º}m$±{∞}z$±øt","MS",676
+"what time is it?","VA50A","217","S","N"," "," ","hw∏t$ta≤æm$±z$±øt","MS",677
+"what time is it?","VA50B","218","S","N"," "," ","hw∏´t$taæ∫{∞º}m$±z$±øt","MS",678
+"what time is it?","VA51A","219","S","N"," "," ","hw∏´{∞}t$taæ∫{≤æ}m$±{∞}z$±øt","MS",679
+"what time is it?","VA51B","220(*)","S","N"," "," ","hw∏´t$ta∫{∞º}m$±z$±øt","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"what time is it?","VA52A","224","S","N"," "," ","hw∏t$ta±øm$±{∞}z$∞´t","MS",682
+"what time is it?","VA52B","225","S","N"," "," ","hw∏´t$tµº∫≤æm$±{∞}z$∞t","MS",683
+"what time is it?","VA52C!","226!","S","N"," "," ","hw∏Át$tµ∫≤æm$±{∞}z$∞´t","MS",684
+"what time is it?","VA53A","227","S","N"," "," ","wµ´æt$taæ≤æm$±{∞}z$∞´t","MS",685
+"what time is it?","VA53B","228","S","N"," "," ","hwµ´æt$taæ≤æm$±z$∞´t","MS",686
+"what time is it?","VA54A","229","S","N"," "," ","{h}wµ´æt$tµº∫≤æm$±z$±øt","MS",687
+"what time is it?","VA54B","230","S","N"," "," ","hw∏ót$taæ≤æm$±{∞}z$±øt","MS",688
+"what time is it?","VA55A","233(*)","S","N"," "," ","hwﬁ´ºt$tµ≤æm$±{∞}z$∞´t","MS",689
+"what time is it?","VA55B","234(*)","S","N"," "," ","hw∏t$ta≤m$±{∞}z$∞´t","MS",690
+"what time is it?","VA56A","237","S","N"," "," ","hw∏´ºt$ta∫±øΩm$±{∞}z$∞´t","MS",691
+"what time is it?","VA56B","238","S","N"," "," ","hw∏t$ta≤m$±{∞}z$∞´t","MS",692
+"what time is it?","VA57A","239","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±{∞}z$∞´t","MS",693
+"what time is it?","VA57B","240","S","N"," "," ","hw∏t$tµº≤æm$±{∞}z$∞´t","MS",694
+"what time is it?","VA58","241(*)","S","N"," "," ","hw∏´t$taæ≤æm$±z$±øt","MS",695
+"what time is it?","VA59N","N241","S","N"," "," ","hw∏´t$taæ±øΩm$±z$±øt","MS",696
+"what o'clock is it?","VA59N","N241","S","N"," "," ","hw∏´tê$∞klﬁ´ºk$±z$±øt","MS",696
+"what time is it?","VA59A","242","S","N"," "," ","hw∏´t$taæ∫≤æm$±z$±øt","MS",697
+"what time is it?","VA59B!","243!","S","N"," "," ","hw∏t$taæ≤æm$±z$±øt","MS",698
+"what time is it?","VA60","244(*)","S","N"," "," ","hw∏t$taæ∫≤´m$±{∞}z$∞´t","MS",699
+"what time is it?","VA61A","245(*)","S","N"," "," ","hw∏t$ta±øΩm$±z$∞t","MS",700
+"what time is it?","VA61B!","246!","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±{∞}z$±øt","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"what time is it?","VA62A","247(*)","S","N"," "," ","hw∏ó´t$taæ≤´m$±{∞}z$±øt","MS",703
+"what time is it?","VA62B","248","S","N"," "," ","hw∏´ºt$tµº≤æm$±{∞}z$±øt","MS",704
+"what time is it?","VA63A","251","S","N"," "," ","hw∏´t$taæ∫≤æm$±{∞}z$∞t","MS",705
+"what time is it?","VA63B","252","S","N"," "," ","hwµ´æt$tµæ∫{≤æ}m$±{∞}z$∞´t","MS",706
+"what time is it?","VA64A","255","S","N"," "," ","hw∏ó´ºt$taæ∫{∞º}m$±{∞}z$±øt","MS",707
+"what o'clock is it?","VA64A","255","S","N"," "," ","hw∏ó´ºtê$∞klµ´æk$±{∞}z$±øt","MS",707
+"what time is it?","VA64B","256","S","N"," "," ","hw∏º{∞}t$taæ∫{≤æ}m$±{∞}z$±øt","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"what time is it?","VA65B","258","S","N"," "," ","hwµ´æt$taæ∫{≤æ}m$±{∞}z$±øt","MS",710
+"what time is it?","VA65C!","259!","S","N"," "," ","hw∏´º{∞}t$taæ∫{∞º}m$±{∞}z$±øt","MS",711
+"what time is it?","VA66A","261","S","N"," "," ","hwµ´æt$taæ∫{∞º}m$±{∞}z$±øt","MS",712
+"what time is it?","VA66B","262","S","N"," "," ","hwµ›´æt$taæ∫{≤º}m$±{∞}z$±øt","MS",713
+"what time is it?","VA67A","267","S","N"," "," ","hw∏´ºt$tﬁº∫{≤æ}m$±{∞}z$∞t","MS",714
+"what time is it?","VA67B","268","S","N"," "," ","hwﬁ´º{∞}t$tµº{≤æ}m$±{∞}z$∞t","MS",715
+"what time is it?","VA68A","269","S","N"," "," ","hw∏´ºt$taæ∫{∞º}m$±{∞}z$±øt","MS",716
+"what time is it?","VA68B","270","S","N"," "," ","hw∏´ºt$taæ∫{∞º}m$±{∞}z$±øt","MS",717
+"what time is it?","VA69A","273","S","N"," "," ","hw∏ºt$taæ∫{∞º}m$±{∞}z$±øΩt","MS",718
+"what time is it?","VA69B","274","S","N"," "," ","hw∏´ºt$taæ∫{≤æ}m$±{∞}z$±øt","MS",719
+"what time is it?","VA70A","275","S","N"," "," ","hwµ´æt$taæ∫{≤æ}m$±z${±ø}{t}","MS",720
+"what time is it?","VA70B","276","S","N"," "," ","hwﬁ´ºt$tµº∫{∞º}m$±∫{∞}z$∞t","MS",721
+"what time is it?","VA71A","285","S","N"," "," ","hwﬁ´º{∞}t$taæ∫{≤æ}m$±{∞}z$∞t","MS",722
+"what time is it?","VA71B","286","S","N"," "," ","hwµ´æ{∞}t$taæ∫{∞º}m$±{∞}z$∞t","MS",723
+"what time is it?","VA72A","287","S","N"," "," ","hwﬁ´ºt$tµ∫{≤æ}m$±∫{∞}z$∞´t","MS",724
+"what o'clock is it?","VA72B","288","S","N"," "," ","hwﬁ´ºtê$∞klﬁ´º∫{∞}k$±∫{∞}z$∞´t","MS",725
+"what time is it?","VA73","291","S","N"," "," ","hwﬁ›´ºt$taæ{≤æ}m$±{∞}z$∞t","MS",726
+"what time is it?","VA74A","293","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$±{∞}z$∞t","MS",727
+"what time is it?","VA74B!","294!","S","N"," "," ","hw∏ºt$tµº∫{∞º}m$±{∞}z$∞t","MS",728
+"what time is it?","VA75A","297","S","N"," "," ","hwﬁ›´ºt$tµº{∞º}m$±{∞}z$∞t","MS",729
+"what time is it?","VA75B","298","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$±{∞}z$∞t","MS",730
+"what time is it?","NC1","303","S","N"," "," ","hwµ´æt$tﬁº∫≤´æm$±z$±øt","MS",731
+"what time is it?","NC2A","301","S","N"," "," ","hw∏t$tµæ±øΩm$±z$±øt","MS",732
+"what time is it?","NC2B","304","S","N"," "," ","hw∏´{∞}t$tµ∫≤æm$±z$±øt","MS",733
+"what time is it?","NC3A","305","S","N"," "," ","hwµ´æt$tµº±øm$±{∞}z$±øt","MS",734
+"what time is it?","NC3B","306","S","N"," "," ","hw∏t$taæ∫≤æm$±z$±øt","MS",735
+"what time of day is it?","NC4A","307","S","N"," "," ","hwµ´æt$tµ≤æm$∞$ÂdeΩæ±ø´$±z$±øt","MS",736
+"what time is it?","NC4B","308","S","N"," "," ","hwﬁ´º{∞}t$taæ∫{∞º}m$±z$±øt","MS",737
+"what time is it?","NC5A","309","S","N"," "," ","hwµ´æt$taæ∫±øΩm$±z$±øt","MS",738
+"what time is it?","NC5B","310","S","N"," "," ","hwµ´æ{∞}t$ta∫{∞º}m$±{∞}z$±øt","MS",739
+"what time is it?","NC6!","311!","S","N"," "," ","hwµ´æ't$taæ∫{∞º}m$±z$±øt","MS",740
+"what time is it?","NC7A","315(*)","S","N"," "," ","hwµ´æ{∞}t$taæ∫{≤æ}m$±z$±øt","MS",741
+"what o'clock is it?","NC7A","315(*)","S","N"," "," ","hwµ´æ{∞}tê$∞klµ´æ{∞}k$±z$±øt","MS",741
+"what time is it?","NC7B","316","S","N"," "," ","hwµ´æt$taæ∫{∞º}m$±∫z$±øt","MS",742
+"what time of day is it?","NC8N","N317","S","N"," "," ","hwµ´æt$ta∫±øΩm$∞$de∫$±z$±øt","MS",743
+"what time is it?","NC8A","317","S","N"," "," ","hwµ´æ't$ta´æ±øm$±z$±øt","MS",744
+"what time is it?","NC8B","318(*)","S","N"," "," ","hwµ´æ't$t{h}aæ∫{∞º}m$±z$±øt","MS",745
+"what time is it?","NC9A","319","S","N"," "," ","hw∂´º{∞}'t$tµ±øm$±{z}$±øt","MS",746
+"what time is it?","NC9B","320","S","N"," "," ","hwµ´æt$tµæ∫±øm$±z$±øt","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"what time is it?","NC10B","323","S","N"," "," ","wµ´æ't$tµæ∫≤´æm$±z$±ø't","MS",749
+"what time is it?","NC10C","322","S","N"," "," ","hwµ´æ{∞}t$tµ∫≤´æm$±{∞}z$±øt","MS",750
+"what time is it?","NC11A","325","S","N"," "," ","hwﬁ´º't$tµæ∫±øm$±z$±øt","MS",751
+"what time is it?","NC11B","326","S","N"," "," ","hwﬁ´º{∞}t$tµæ∫±øm$±{∞}z$±øt","MS",752
+"what time is it?","NC12A","327(*)","S","N"," "," ","hwﬁ´ºt$taæ±øΩm$±z$±øt","MS",753
+"what time is it?","NC12B","328","S","N"," "," ","hwµ´æt$ta∫{∞º}m$±z$±øt","MS",754
+"what time is it?","NC13A","329","S","N"," "," ","hwﬁ´ºt$t{h}a´æ±øm$±z$±øt","MS",755
+"what time is it?","NC13B","330(*)","S","N"," "," ","hwﬁ´º't$tµ∫≤æm$±∫z$±øt","MS",756
+"what time is it?","NC14N","N331","S","N"," "," ","hwµ´æ$taæ∫±øΩm$±z$±øΩt","MS",757
+"what time is it?","NC14A","331","S","N"," "," ","hw∂´ºt$tµ∫±øΩm$±∫z$±øt","MS",758
+"what o'clock is it?","NC14B","332","S","N"," "," ","hw∏´tê$∞klµ´æk$±z$±øt","MS",759
+"what time is it?","NC14B","332","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±z$±øt","MS",759
+"what time is it?","NC14C!","333!","S","N"," "," ","hwﬁ´ºt$ta±øΩm$±z$±øt","MS",760
+"what time is it?","NC15A","335(*)","S","N"," "," ","hwﬁ´ºt$tµº≤´æm$±z$±øt","MS",761
+"what time is it?","NC15B","336","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$±{∞}z$±øt","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"what time is it?","NC16A","339(*)","S","N"," "," ","hwﬁ´æ{∞}t$tµº∫{≤æ}m$±{∞}z$±øt","MS",764
+"what time of day is it?","NC16B","340","S","N"," "," ","hwﬁ´ºt$tµº∫{≤æ}m$∞$Âd≤´±´$±{∞}z$±øt","MS",765
+"what time is it?","NC17A","337","S","N"," "," ","hwﬁ´º{∞}t$tµ∫{≤æ}m$±z$±øt","MS",766
+"what time is it?","NC17B","338","S","N"," "," ","hwﬁ´ºt$taæ∫{≤æ}m$±z$±øt","MS",767
+"what time is it?","NC18A","341","S","N"," "," ","hwﬁ´º't$tµ´±øm$±z$±øt","MS",768
+"what time is it?","NC18B","342","S","N"," "," ","hwµ›´æ't$taæ∫{≤æ}m$±z$±øt","MS",769
+"what time is it?","NC19A","343","S","N"," "," ","hwﬁ´ºt$tµº∫{≤æ}m$±∫z$±øt","MS",770
+"what time is it?","NC19B","344","S","N"," "," ","hwﬁ´ºt$tµº∫{≤æ}m$±∫z$±øt","MS",771
+"what time is it?","NC20A","345","S","N"," "," ","hwµ´æt$tµæ±øm$±z$±øt","MS",772
+"what time is it?","NC20B","346a","S","N"," "," ","hwﬁ´ºt$taæ∫±øm$±z$±øt","MS",773
+"what time is it?","NC20C","346b","S","N"," "," ","hwﬁ´ºÁ$tµæ∫±øΩm$±z$±ø´'t","MS",774
+"what time is it?","NC21A","347","S","N"," "," ","hwµ´æ't$tµ´±øm$±z$±øt","MS",775
+"what time of day is it?","NC21B","348","S","N"," "," ","hwﬁ't$taæ∫{∞º}m$∞$d≤´±ø$±∫z$±øt","MS",776
+"what time is it?","NC22A","349","S","N"," "," ","hwµ´æt$tµº∫{≤æ}m$±z$±øt","MS",777
+"what time is it?","NC22B","349b","S","N"," "," ","hwµ´'t$taæ∫{≤æ}m$±z$±øt","MS",778
+"what time is it?","NC23A","351a","S","N"," "," ","hwµ´t$tµ±øm$±z$±øt","MS",779
+"what time is it?","NC23B","351b(*)","S","N"," "," ","hwµ›´t$tµ∫{≤æ}m$±z$±øt","MS",780
+"what time is it?","NC23C!","351c!","S","N"," "," ","hw∏t$taæ∫≤æm$±z$±øt","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"what time is it?","NC24N","N352","S","N"," "," ","hwµ´æt$tµ´±øm$±z$±øt","MS",783
+"what time is it?","NC24A","352a","S","N"," "," ","hwﬁ´ºt$taæ∫≤´m$±z$±øt","MS",784
+"what time of day is it?","NC24B","352b","S","N"," "," ","hwµ´æt$tµ´±øm$∞$de{±ø}$±z$±øt","MS",785
+"what time is it?","NC25N","N353","S","N"," "," ","hwﬁ´ºt$tµ∫{±øΩ}m$±z$±øt","MS",786
+"what time is it?","NC25A","353","S","N"," "," ","hwﬁ´ºt$tµ´±øm$±z$±øt","MS",787
+"what time is it?","NC25B","354","S","N"," "," ","hw∏´t$tµ´∫{±øΩ}m$±zè$±øt","MS",788
+"what time is it?","NC26A","355a","S","N"," "," ","hwﬁ´ºt$tµæ∫≤æm$±z$±øt","MS",789
+"what time is it?","NC26B","355b","S","N"," "," ","hw∏›t$taæ∫≤æm$±∫z$±øt","MS",790
+"what time is it?","NC26C!","356!","S","N"," "," ","hw∏´t$taæ∫±øΩm$±{∞}z$±øt","MS",791
+"what time is it?","NC27A","357","S","N"," "," ","hwﬁ´æ't$tµ∫≤æm$±z$±øt","MS",792
+"what time is it?","NC27B","258","S","N"," "," ","hwµ´æ't$taæ∫≤æm$±∫z$±øt","MS",793
+"what time of day is it?","NC28A","361","S","N"," "," ","hwµ´æt$tµ∫≤æm$∞$deæ±ø$±z$±øΩt","MS",794
+"what time of day is it?","NC28B","361b","S","N"," "," ","hwµ´æt$tµæ∫≤´æm$∞$de´{±ø}$±z$±øt","MS",795
+"what time is it?","NC28C","362","S","N"," "," ","hwµ´æt$tµ∫{≤æ}m$±z$±øt","MS",796
+"what time is it?","NC29A","363(*)","S","N"," "," ","hwﬁ´ºt$taæ∫±øΩm$±z$±øt","MS",797
+"what time is it?","NC29B","364","S","N"," "," ","hwµ´æt$taæ∫{≤æ}m$±∫z$±øt","MS",798
+"what time is it?","NC30A","365","S","N"," "," ","hwﬁ´ºt$tµº≤æm$±z$±øt","MS",799
+"what time is it?","NC30B","366","S","N"," "," ","hwµ´æ{∞}t$taæ∫{∞º}m$±z$±øt","MS",800
+"what time is it?","NC31A","367","S","N"," "," ","hwﬁ´º{∞}t$taæ{∞}m$±z$±øt","MS",801
+"what time is it?","NC31B","368","S","N"," "," ","hwﬁ´ºt$ta∫{∞º}m$±z$±øt","MS",802
+"what time is it?","NC32A","369","S","N"," "," ","hwµ´æ{∞}t$taæ∫{≤æ}m$±z$±øt","MS",803
+"what time is it?","NC32B!","370!","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$±{∞}z$±øt","MS",804
+"what time is it?","NC33A","373","S","N"," "," ","hwﬁ´º{∞}'t$tµº∫{≤æ}m$±∫z$±øt","MS",805
+"what time is it?","NC33B","374","S","N"," "," ","hwﬁ´º{∞}t$taæ∫{∞º}m$±{∞}z$±øt","MS",806
+"what time is it?","NC34A","375","S","N"," "," ","hwﬁ´º't$tµ∫±øΩm$±∫z$±øt","MS",807
+"what time is it?","NC34B","376","S","N"," "," ","hwﬁ´º{∞}t$taæ∫{∞º}m$±z$±øt","MS",808
+"what o'clock is it?","NC35A","377","S","N"," "," ","hw∏´tê$∞klµ´æk$±z$±øt","MS",809
+"what time is it?","NC35B","378","S","N"," "," ","hwµ›´t$taæ∫{≤æ}m$±{∞}z$±øt","MS",810
+"what time is it?","NC36N","N381","S","N"," "," ","hw∏´t$tµº≤´m$±z$±øt","MS",811
+"what time is it?","NC36A","381","S","N"," "," ","hwµ´æt$taæ≤æm$±z$±øt","MS",812
+"what time is it?","NC36B","382","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±z$±øt","MS",813
+"what time is it?","NC37A","383","S","N"," "," ","hw∏´t$ta∫{∞º}m$±z$±øt","MS",814
+"what time is it?","NC37B","384","S","N"," "," ","hw∏´t$ta∫{∞º}m$±z$±øt","MS",815
+"what time is it?","NC38N","N385","S","N"," "," ","hw∏ó´{∞}t$t{h}aæ∫{≤æ}m$±z$±øt","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"what time is it?","NC38B","386","S","N"," "," ","hwﬁ´º't$ta∫{∞º}m$±z$±øt","MS",818
+"what time is it?","NC39A","389","S","N"," "," ","hw∏t$ta∫{∞º}m${±}{z}$±øt","MS",819
+"what time is it?","NC39B!","390!","S","N"," "," ","hw∏´t$ta∫{∞º}m$±z$±øt","MS",820
+"what time is it?","NC40A","391","S","N"," "," ","hwµ´æ{∞}t$ta∫{≤æ}m$±z$±øt","MS",821
+"what time of day is it?","NC40B","392","S","N"," "," ","hw∏Ωæt$taæ∫≤æm$∞$de∫{±ø}$±z$±øΩt","MS",822
+"what time is it?","NC41!","393!","S","N"," "," ","hw∏Ωt$taæ∫{≤æ}m$±z$±øt","MS",823
+"what time is it?","NC42A","403","S","N"," "," ","hwﬁ´ºt$taæ∫≤æm$±{∞}z$±øΩt","MS",824
+"what time of day is it?","NC42B","404(*)","S","N"," "," ","hw∏ót$taæ∫{≤æ}m$∞$deΩ±ø$±z$±øΩt","MS",825
+"what time is it?","NC43A","397","S","N"," "," ","hw∏´t$taæ∫±øm$±z$±øΩt","MS",826
+"what time is it?","NC43B","398","S","N"," "," ","hw∏´t$ta∫≤æm$±{∞}z$±øt","MS",827
+"what time is it?","NC44","410(*)","S","N"," "," ","hw∏ó´t$taæ∫{∞º}m$±z$±øt","MS",828
+"what time is it?","NC45A","409(*)","S","N"," "," ","hw∏´t$taæ∫{≤æ}m$±z$±øt","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"what time is it?","NC46A","411","S","N"," "," ","hwﬁ´ºt$taæ∫≤æm$±z$±øt","MS",831
+"what time is it?","NC46B","412","S","N"," "," ","hw∏t$ta∫{≤æ}m$±z$±øt","MS",832
+"what time is it?","NC46C!","412b!","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±z$±øt","MS",833
+"what time is it?","NC47","413","S","N"," "," ","hwµ´æt$taæ∫{∞º}m$±z$±øt","MS",834
+"what time of day is it?","NC48","418","S","N"," "," ","hwµ´æt$taæ∫{≤æ}m$∞$d≤´æ±ø´$±{∞}z$±øΩt","MS",835
+"what time is it?","NC49","421","S","N"," "," ","hwﬁ´ºt$taæ∫≤æm$±z$∞´t","MS",836
+"what time is it?","NC50A","422","S","N"," "," ","hw∏t$taæ∫{≤æ}m$±z$±øΩt","MS",837
+"what time is it?","NC50B!","423!","S","N"," "," ","hw∏ºt$taæ∫{∞º}m$±z$±øt","MS",838
+"what time is it?","NC51A","427","S","N"," "," ","hwµ´t$taæ∫{≤æ}m$±z$±øt","MS",839
+"what time of day is it?","NC51B","428","S","N"," "," ","hw∏›´ºt$taæ∫{≤æ}m$∞$Âde{±ø}$±z$±øΩt","MS",840
+"what time is it?","NC52N","N429","S","N"," "," ","hwµ´æt$tµº∫{≤æ}m$±z$±øt","MS",841
+"what time is it?","NC52A","429","S","N"," "," ","hwµ›´æt$taæ∫≤´m$±∫z$±øt","MS",842
+"what time is it?","NC52B","430","S","N"," "," ","hw∏´æt$ta∫{≤æ}m$±z$±øt","MS",843
+"what time is it?","NC53A","431","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$±z$±øt","MS",844
+"what time is it?","NC53B","432","S","N"," "," ","hw∏{∞}t$taæ∫{≤æ}m$±z$±øΩt","MS",845
+"what time is it?","NC54A","433","S","N"," "," ","hw∏ó´t$tµº∫{≤æ}m$±{∞}z$±øt","MS",846
+"what time is it?","NC54B","434","S","N"," "," ","hwµ´t$taæ∫{≤æ}m$±z$±øt","MS",847
+"what time is it?","NC55","435","S","N"," "," ","hw∏t$ta±øΩm$±z$±øΩt","MS",848
+"what time is it?","NC56A","436","S","N"," "," ","hw∏ºt$taæ∫≤´æm$±{∞}z$∞´t","MS",849
+"what time is it?","NC56B!","437!","S","N"," "," ","hw∏´ºt$taæ∫≤æm$±{∞}z$±øt","MS",850
+"what time of day is it?","NC57A","438a","S","N"," "," ","hw∏t$taæ∫{≤æ}m$∞$de∫{±ø}$±{∞}z$±øt","MS",851
+"what time is it?","NC57B","438b","S","N"," "," ","hw∏ºt$taæ∫{≤æ}m$±z$±øΩt","MS",852
+"what time of day is it?","NC58A","439","S","N"," "," ","hwµ´æ't$taæ∫{∞º}m$∞$deΩ±ø$±z$±øt","MS",853
+"what time is it?","NC58B","440","S","N"," "," ","hwﬁ›´ºt$taæ∫{∞º}m$±z$±øt","MS",854
+"what time is it?","NC59","441(*)","S","Y"," ","AUX","hwﬁ´ºt$tµº∫{≤æ}m$±z$±øt","MS",855
+"what time is it?","NC60","442","S","N"," "," ","hw∏t$taæ∫≤æm$±z$±øt","MS",856
+"what time is it?","NC61A","443","S","N"," "," ","hwﬁ´º{∞}t$ta∫{≤æ}m$±z$±øt","MS",857
+"what time is it?","NC61B","444","S","N"," "," ","hw∏´t$taæ{≤æ}m$±z$±øt","MS",858
+"what time of day is it?","NC62A","447","S","N"," "," ","hwﬁ´º{∞}t$tµº∫{∞}m$∞$deΩ±ø$±z$±øt","MS",859
+"what time of day is it?","NC62B","448","S","N"," "," ","hwﬁ›´ºt$Âtaæ∫{≤æ}m$∞$ÂdeΩ±ø$±z$±øt","MS",860
+"what time is it?","NC63A","449","S","N"," "," ","hwµ´æ't$taæ∫{∞º}m$±z$±øt","MS",861
+"what time is it?","NC63B","450","S","N"," "," ","hwµ´æt$taæ∫{∞º}m$±z$±øt","MS",862
+"what time is it?","NC64A","453","S","N"," "," ","hw∂›´ºt$taæ∫≤æm$±z$±øΩt","MS",863
+"what time is it?","NC64B","454","S","N"," "," ","hwﬁ´ºt$taæ∫{≤æ}m$±{∞}z$±øΩt","MS",864
+"what time is it?","NC65A","461","S","N"," "," ","hwﬁ´ºt$taæ∫≤æm$±{∞}z$±øt","MS",865
+"what time is it?","NC65B","462","S","N"," "," ","hwﬁ´ºt$tµº∫{≤æ}m$±z$±øt","MS",866
+"what time is it?","NC66A","465","S","N"," "," ","hwµ´æt$taæ∫≤æm$±{∞}z$±øΩt","MS",867
+"what time of day is it?","NC66B","466","S","N"," "," ","hwﬁ´ºt$taæ∫{∞º}m$∞$de{±ø}$±z$±øt","MS",868
+"what's the time of day?","NC67A","469","S","N"," "," ","hwﬁ´ºtüs${t}∞$tµº∫≤æm$∞$deΩeæ","MS",869
+"what time is it?","NC67B","470","S","N"," "," ","hwﬁ´ºt$taæ∫{≤æ}m$±z$±øt","MS",870
+"what time is it?","NC68A","473","S","N"," "," ","hwﬁ´ºt$taæ∫±øΩm$±{∞}z$±øt","MS",871
+"what time is it?","NC68B","474","S","N"," "," ","hwﬁ´º{∞}t$taæ∫≤æm$±{∞}z$±øt","MS",872
+"what time is it?","NC69A","477","S","N"," "," ","hwﬁ´ºt$taæ≤æm$±{∞}z$±øt","MS",873
+"what time is it?","NC69B","478","S","N"," "," ","hwﬁ´ºt$ta∫{∞º}m$±z$±øΩt","MS",874
+"what time of day is it?","NC70A","479","S","N"," "," ","hwﬁ´ºt$Âtaæ≤æm$∞$deΩ±$±z$±øt","MS",875
+"what time is it?","NC70B","480","S","N"," "," ","hwﬁ´º{∞}t$taæ∫{≤æ}m$±z$±øt","MS",876
+"what time of day is it?","NC71A","481","S","N"," "," ","hwﬁ´ºt$taæ∫±øΩm$∞$de±ø$±{∞}z$±øt","MS",877
+"what time is it?","NC71B","482","S","N"," "," ","hwﬁ´ºt$tµº≤æm$±{∞}z$±øt","MS",878
+"what time is it?","NC71C!","483!","S","N"," "," ","hwﬁ´ºt$taæ∫≤´æm$±z$±øΩt","MS",879
+"what time is it?","NC72A","487","S","N"," "," ","hwﬁ´º{∞}t$tµº∫≤æm$±{∞}z$±øt","MS",880
+"what time is it?","NC72B","488","S","N"," "," ","hwﬁ´ºt$taæ∫{≤æ}m$±z$±øt","MS",881
+"what time is it?","NC73A","491","S","N"," "," ","hwﬁ´ºt$Âtµ∫{≤º}m$∞$deΩ±ø$±{∞}z$±øt","MS",882
+"what time of day is it?","NC73B","492","S","N"," "," ","hwﬁ´ºt$tµº∫{≤æ}m$±z$±øt","MS",883
+"what time is it?","NC74A","493","S","N"," "," ","hwﬁ´ºt$taæ±øm$±z$±øt","MS",884
+"what time is it?","NC74B","494","S","N"," "," ","hwﬁ´ºt$taæ∫≤æm$±z$±øt","MS",885
+"what time is it?","NC75A","495","S","N"," "," ","hwﬁ´ºt$ta´æ±øm$±z$±øt","MS",886
+"what time is it?","NC75B","496","S","N"," "," ","hwµ´æt$taæ∫{≤æ}m$±{∞}z$±øt","MS",887
+"what time is it?","SC1A","203.1","S","N"," "," ","hwµ´t$ta≤´m$±z$±øt","MS",888
+"what time is it?","SC1B","203.2","S","N"," "," ","hwµ´ºt$taæ≤´m$±z$±øΩt","MS",889
+"what time of day is it?","SC2A","204.1(*)","S","N"," "," ","ıhwﬁ´º't$ıtµ∫≤æm$∞$Âde∫{±øΩ}$ı±{∞}z$±øt","MS",890
+"what time is it?","SC2B","204.2","S","N"," "," ","ıhwﬁ´º{∞}t$Âtµº∫{≤æ}m$±z$±øΩt","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"what time is it?","SC3A","205.1","S","N"," "," ","hw∂î´ºt$Âtµ∫{≤æ}m$±z$±øt","MS",893
+"what's the time of day?","SC3B","205.2","S","N"," "," ","hw¶Ωs$‰±ø$t`a´∫{∞}m$∞$Âde∫{±ø}","MS",894
+"what time is it?","SC3B","205.2","S","N"," "," ","hw¶Ωt$Ât`a´∫{∞}m$ı±´{∞}z$±øΩ't","MS",894
+"what time of day is it?","SC3C!","205.3!","S","N"," "," ","hw¶Ω{∞}t$t`µ´º∫{∞}m$∞$Âde∫$ı±´{∞}z$±øºt","MS",895
+"what time is it?","SC3C!","205.3!","S","N"," "," ","hw∏´{∞}t$Ât`µ´º∫{∞}m$±øºz$±øºt","MS",895
+"what time have you got?","SC4A","206.1","S","N"," "," ","hw¶Ωt$Âtµ∫±øm$∞´v$ıjuø$Âg∂{∞}t","MS",896
+"what time is it?","SC4A","206.1","S","N"," "," ","hw¶Ωt$Âtµ∫±øm$ı±´{±ø}z$±øºt","MS",896
+"what time is it?","SC4A","206.1","S","N"," "," ","hw∞´t$Ât`µ∫±øm$±øºz$±øºt","MS",896
+"what o'clock","SC4B","206.2","O","Y","""heard it in my youth¢","SUG/HRD/OLD","hw¶ΩÒ∞$Âk`≈è∂î{∞}k","MS",897
+"about what time is it?","SC4B","206.2","S","N"," "," ","∞Âb•Ωºoºt$ıhw¶Ωt$Âtµ∫±øm$ı±´{±ø}z$±øΩt","MS",897
+"what time is it?","SC4C","206.3","S","N"," "," ","hw∞Ωt$Âtµ´∫±øm$±ø›z$±øºt","MS",898
+"what time you got?","SC4C","206.3","S","N"," "," ","hw∞Ωt$Ât`µ∫±øm{j}$j∞$ıgµæ{∞}t","MS",898
+"you got the time?","SC4C","206.3","S","N"," ","CNV","j∞$gﬁ{∞}t$‰±ø$Ât`µ∫±øm","MS",898
+"what time is it?","SC5A","207.1","S","N"," "," ","hw∏´t$Âtµ´∫±øm$ı±∫z$±øºt","MS",899
+"what time is it?","SC5B","207.2","S","N"," "," ","hw∞Ωt$Âtµ∫±øm$±ø›z$±øt","MS",900
+"what time is it?","SC5B","207.2","S","N"," "," ","hw∞Ωt$Âtµ∫±øm$ı±´{±ø}z$±øt","MS",900
+"give me the time of day","SC5B","207.2","S","N"," "," ","g±´$m±ø´º$‰∞$Ât`µ∫±øm$∞$ıde∫","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"what time is it?","SC5D!","207.3!","S","N"," "," ","hw∞›Ωt$t`µ∫±øm$±ø›z$±øºt","MS",902
+"what time of day is it?","SC5D!","207.3!","S","N"," "," ","hw∞›Ωt$t`µ∫±øm$∞$Âde∫$±øºz$±øºt","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"what time of day is it?","SC6A","208.1","S","N"," "," ","hw∂ît$ıtaæ∫±øΩm$∞$Âde∫{±ø}$ı±z$±øt","MS",904
+"what time you got?","SC6B","208.2(*)","S","N"," "," ","Âhw∏Ωt$ıtµ∫±øm$j∞$Âg∂t","MS",905
+"what time is it?","SC6B","208.2(*)","S","N"," "," ","hw∏Ωt$Âtµ∫±øm$ı±´z$±øt","MS",905
+"what time of day is it?","SC6C!","208.3!","S","N"," "," ","Âhw•æt$ıtﬁº±øm$∞$Âde´∫$ı±´{∞}z$±øt","MS",906
+"what o'clock is it?","SC6C!","208.3!","S","N"," "," ","hw•t$∞Âklèﬁók$ı±´{∞}z$±øt","MS",906
+"what time is it?","SC6C!","208.3!","S","N"," "," ","hw∏Ωt$Âtﬁ∫±øm$ı±´{∞}z$±øt","MS",906
+"what time you got?","SC6D"," ","S","N"," "," ","hw∞´t$Ât`µ∫±øm{j}$j{∞}$ıgﬁ{∞}t","MS",907
+"what time it is?","SC7N","N209","S","N"," "," ","Âw∏ºÁ$ıt`µ∫±øm$±øºt`±´{∞}z","MS",908
+"what time is it?","SC7A","209.1","S","N"," "," ","w∞Ωt$Âtµ´∫±m$ı±ø›z$±øºt","MS",909
+"what time of day is it?","SC7B","209.2","S","N"," "," ","hw∞Ωt$t`µ∫±øm$∞$Âde∫$±øºz$±øt","MS",910
+"what o'clock is it?","SC7B","209.2","S","Y"," ","AUX","hw∞Ωt$∞Âk`≈ﬁ{∞}k$±øºz$±øt","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"what o'clock is it?","SC7D!","209.4!","S","N"," "," ","ıhw∏´tê$∞Âk`≈∂{∞}k$ı±´{∞}z$±øºt","MS",912
+"what time you got?","SC7D!","209.4!","S","N"," "," ","{h}w∞´t$t`µ∫±øm$j∞$g∂{∞}t","MS",912
+"what time is you got?","SC8A","210.1","S","N"," ","CNV","ıhw∏´º{∞}t$Âtµ∫±øm$±øºz$j∞$gµæ{∞}t","MS",913
+"what time you have?","SC8A","210.1","S","N"," "," ","hw∞t$Âtµ∫±øm$j∞$h·∫{∞}v","MS",913
+"you have the time?","SC8B","210.2","S","N"," ","CNV","Âjuø$ıh·{∞}v$d±ø´º$Ât`µæ∫±øm","MS",914
+"what time is it?","SC8C","210.3","S","N"," "," ","hw∞æ't$tµ´∫±øm$±øz$±øºt","MS",915
+"what time have you got?","SC9A","211.1","S","N"," "," ","hw∞Ωt$Ât`µ´º∫±øm$∞v$j∞$Âgµæ{∞}t","MS",916
+"what time is it?","SC9B","211.2","S","N"," "," ","hw∞´t$Âtµ´±øm$ı±´{∞}z$±øºt","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"what time is it?","SC10A","212.1","S","N"," ","CNV","w∏ºt$Ât`µ´º∫±øm$±ø›ºz$±øºt","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"what time is it?","SC11N","N213","S","N"," "," ","w∏t$Âtµ∫±øm$±z$±øt","MS",923
+"what o'clock is it?","SC11N","N213","S","N"," "," ","w∏tê$∞Âkl∂k$±z$±øt","MS",923
+"what time is it?","SC11M!","2n213!","S","N"," "," ","{h}w∞Ωt$Ât`µ´º∫±øm$±ø›ºz$±øºt","MS",924
+"what's the time of day?","SC11A","213.1(*)","S","N"," "," ","Âw∂óts$‰∞$ıt`a´æ∫±øm$∞$Âde´∫","MS",925
+"what time is it?","SC11B","213.11","S","N"," "," ","{À}w∏t$Ât•Ωæ±øm$±øºz$±øΩæt","MS",926
+"what time is it?","SC11C","213.2","S","N"," "," ","{À}w∏ºt$Âtµ´º∫±øm$±ø›ºz$±øºt","MS",927
+"what time is it?","SC11D","213.3","S","N"," ","CNV","w∏Ωt$t`a´æ∫{∞}m$±øºz$±øºt","MS",928
+"what time is it?","SC11E","213.4","S","N"," ","CNV","w∞Ωt$t`µº∫±øm$±øºz$±øºt","MS",929
+"what time you got?","SC11E","213.4","S","N"," ","CNV","w∞t$Ât`µ∫±øm$j∞$ıgﬁt","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"what time is it?","SC11G!","213.7!","S","N"," "," ","{h}w•Ωt$Âtµ´º∫±øm$±ø›ºz$±øºt","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"what o'clock is it?","SC11I!","213.9!","S","Y"," ","SUG/HRD/OLD","{h}w∏tê$∞Âkl∂î´ºk$±z$±øt","MS",933
+"what time is it?","SC11I!","213.9!","S","N"," "," ","{h}w∏t$taæ∫±øΩm$±æz$±øt","MS",933
+"what o'clock is it?","SC11J!","213.10!","S","Y","""I consider that's right¢","OLD","hw•´t$∞Âk≈è∂k$±æz$±øºt","MS",934
+"what o'clock is it?","SC11J!","213.10!","S","N"," ","CNV","ıw∂´t$∞ºÂk≈è∂k$±øºz$±ø›t","MS",934
+"what time is it?","SC11J!","213.10!","S","N"," "," ","hw∏Ωt$t`µ´º∫±øm$ı±æz$±øºt","MS",934
+"do you have the right time?","SC12A","214.1","S","N"," "," ","d∞$Âjuø∫$ıh·{∞}v$‰∞$Âr•´±øt$ıt`µ∫±øm","MS",935
+"what time is it?","SC12B","214.2","S","N"," "," ","w∂´ºt$Âtµº∫±øm$ı±z$±øt","MS",936
+"what o'clock is it?","SC12B","214.2","S","N"," "," ","w∂´ºtê$∞kl∂k$ı±z$±øt","MS",936
+"what time is it?","SC13","213.6","S","N"," "," ","w∞t$tµ∫±øm$±øºz$±øºt","MS",937
+"what o'clock is it?","SC14A","215.1","S","N"," "," ","w∏Ωtê$∞Âkl∂k$±z$±øt","MS",938
+"what time of day is it?","SC14A","215.1","S","N"," "," ","w∏Ωt$ıta±øm$∞$Âde´∫$±z$±øt","MS",938
+"please give me the time","SC14B","215.2","S","N"," "," ","p`lèi∫z$gà±´{∞}v$m±ø´º$‰∞$Ât`µ∫±øm","MS",939
+"what time is it?","SC14B","215.2","S","N"," "," ","Âhw¶Ω{∞}t$ıt`µ∫±øm$Â±´{∞}z$±øºt","MS",939
+"what time of day is it by your watch?","SC15A","216.1","S","N"," ","RN1","Âhw∏´º{∞}t$ıtµ´∫±øm$∞$Âde´∫$±øºz$±øt","MS",940
+" ","SC15A","216.1"," "," "," ","RN2","ıbµ∫±ø$jo∫$Âwﬁó{∞}tÛ","MS",940
+"what time of day is it?","SC15A","216.1","S","N"," "," ","Âhw∏´º{∞}t$ıtµ∫±øm$∞$Âde´∫$ı±øz$±øt","MS",940
+"what time of day you got?","SC15B","216.2","S","N"," "," ","Âw∏ºt$tµ´º∫{±ø}m$∞$Âde´∫$j∞$ıgﬁó´º't","MS",941
+"what time have you got?","SC15B","216.2","S","N"," "," ","w∏´º{∞}t$tµ´∫{±ø}m$∞´v$juø$Âgﬁó´º't","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"what time is it?","SC16N","N217","S","N"," "," ","Âhw¶Ω{∞}t$ıtµ∫±øm$Â±´{±ø}z$±øºt","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"you got the time?","SC17A","218.1","S","N"," ","CNV","Âjuø∫$ıgﬁ{∞}t$dë±ø´º$Ât`µ∫±øm","MS",945
+"what time is it?","SC17A","218.1","S","N"," ","CNV","w∞´t$ıt`µ∫±øm$Â±´{±ø}z$±øºt","MS",945
+"what time you got?","SC17B","218.2","S","N"," "," ","hw∞´t$Ât`µæ∫±øm$j∞$ıgﬁ{∞}t","MS",946
+"NA","SC17C","218.3"," ","N"," "," "," ","MS",947
+"what time is it?","SC17D","218.4","S","N"," "," ","hw∞Ωt$t`µ∫±øm$±øºz$±øt","MS",948
+"what time is it?","SC18N","N219","S","N"," "," ","w∏´t$Ât`µ∫±øm$±øºz$±øºt","MS",949
+"what time is it getting to be?","SC18A","219.1","S","N"," "," ","ıw∏´t$Âtµ∫±øm$±ºz$±øºt$Âgà≤æ'tn$t∞›$bi∫","MS",950
+"about what time is it?","SC18A","219.1","S","N"," "," ","∞b•´πt$w∏›t$tµ∫±øm$±øºz$±øºt","MS",950
+"what time is it?","SC18B","219.2","S","N"," "," ","ÂÀw∏´t$Âtµ∫±øm$±øºz$±øºt","MS",951
+"what time of day it is","SC18B","219.2","E","Y","do you know)","INA/CNV","ıw∏t$t`µ∫{∞}m$∞$Âde´$±øºt$±øºz","MS",951
+"what time have you got?","SC18C!","219.3(*)!","S","N"," ","CNV","w∏ºt$Ât`µ∫±øm$≤›æv$jyæ∫{π}$Âgàﬁt","MS",952
+"what hour is it?","SC18C!","219.3(*)!","S","N"," ","CNV","w∏ºt$Âµ∫π∞$Á±ø›ºz$±øºt","MS",952
+"what time is it?","SC18C!","219.3(*)!","S","N"," ","CNV","w∏ºt$Ât`µ´∫±øm$±øºz$±øºt","MS",952
+"what time do you have?","SC18C!","219.3(*)!","S","N"," ","CNV","w∏t$Âtµ∫±øm$d∞$jyæ∫$ıh·Ω∫{∞}v","MS",952
+"NA","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"what time is it?","SC19B","220.4","S","N"," "," ","ıÀw∏´t$Ât`aæ±øm$±øz$±øt","MS",956
+"what time is it?","SC19C","220.2(*)","S","N"," "," ","w∞æt$Âtµ∫±øm$±øºz$±øº{t}","MS",957
+"what time is it?","SC19D!","220.3!","S","N"," "," ","{h}w∞›t$Âtµ∫±øm$±øz$±øºt","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"what time is it?","SC20A","221.1","S","N"," "," ","hw¶Ωt$Âtﬁº∫±øm$ı±´z$±øºt","MS",960
+"what o'clock is it?","SC20A","221.1","S","Y","""I HAVE heard it¢","SUG/HRD","hw¶Ωt$∞Âtlçﬁk$ı±´z$±øºt","MS",960
+"times","SC20A","221.1","N","Y"," ","INA","tﬁ∫±ø›mz","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"what time is it?","SC20C","221.3","S","N"," "," ","hwﬁ´ºt$Âta´æ∫{∞}m$ı±´z$±øºt","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"what time is it?","SC21A","222.1","S","N"," "," ","hwµ´æt$taæ∫{≤æ}m$±{∞}z$±øt","MS",964
+"what time is it?","SC21B","222.2","S","N"," "," ","hwµ´æt$taæ∫{∞º}m$±z$±øt","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"what's the hour?","SC22A","223.1","S","N"," ","CNV","ıhw¶Ω{∞}ts$‰±ø´º$Âµº∫o›w∞","MS",967
+"what time is it?","SC22A","223.1","S","N"," ","CNV","hw∏{∞}t$t`µ´º∫{∞}m$±øºz$±øt","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"what time is it?","SC22C!","223.3!","S","N"," "," ","hw¶Ωt$Ât`µ´º±øm$±øºz$±øºt","MS",969
+"what time is it?","SC23A","224.1","S","N"," "," ","hw∏´º't$Ât`µ´º∫{∞}m$±øºz$±øºt","MS",970
+"what time of day it is?","SC23B","224.2","S","N"," "," ","hw¶Ωt$t`a´æ∫{∞}m$∞$ıde∫$∞t`±´{∞}z","MS",971
+"what time is it?","SC23C","224.3","S","N"," "," ","hw∞´t$Âtµ´º∫{±ø}m$±z$±øt","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NA","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"what time is it?","SC24N","N225","S","N"," ","CNV","hw∞´t$Ât`µ∫±øm$±øºz$±øt","MS",975
+"what time you got?","SC24A","225.1","S","N"," "," ","Âhw∏›´t$ıtµ´æ∫{∞}m$j∞$Âg∂t","MS",976
+"what's the hour?","SC24B","225.11","S","N"," "," ","hw∞Ωts$dë±ø´º$Âµ∫∞ó","MS",977
+"what time of day is it?","SC24B","225.11","S","N"," "," ","hw∞´'tµ∫±øm$∞$Âde´∫$±øºz$±øt","MS",977
+"what time is it?","SC24C","225.2","S","N"," "," ","hw∞´t$Ât`µ∫±øm$±ø›ºz$±øt","MS",978
+"what time do you have?","SC24D!","225.3!","S","N"," ","CNV","hw∞´t$t`µ∫±øm$d∞$ıjuø∫$Âh·∫{∞}v","MS",979
+"what time is it?","SC24D!","225.3!","S","N"," ","CNV","hw∞´t$t`µº∫±øm$±øºz$±øºt","MS",979
+"what time is it?","SC25A","226.1","S","N"," "," ","hw∏´t$Âtµ∫{≤}m$±z$±øt","MS",980
+"what o'clock is it?","SC25A","226.1","S","N"," "," ","hw∏´tê$∞Âkl∂î´ºk$±z$±øt","MS",980
+"what time of day is it?","SC25B","226.2","S","N"," "," ","Âhw¶Ωt$ıta´æ∫{∞}m$∞$Âde´∫$ı±´z$±øt","MS",981
+"what time is it?","SC25C!","226.3!","S","N"," "," ","Âhw¶Ωt$ıt`a´æ∫{∞}m$Â±´z$±øºt","MS",982
+"what time of day is it?","SC26A","227.1","S","N"," "," ","Âhw¶Ωt$ıta´æ∫{∞}m$∞$Âde´∫$ı±´z$±øºt","MS",983
+"what time have you?","SC26B!","227.2!","S","N"," "," ","hw∏´t$ıta´æ∫{∞}m$Âh·{∞}v$j∞","MS",984
+"what time is it?","SC27A","228.1","S","N"," "," ","Â{h}w∏t$ıtaæ{∞}m$Â±z$±øt","MS",985
+"what time have you got?","SC27B","228.2","S","N"," "," ","hw∞´t$Ât`a´æ∫{∞}m$h·v$j∞$Âgﬁót","MS",986
+"what time have you got?","SC28A","229.1","S","N"," "," ","Âhw¶Ωt$ıta´æ∫{∞}m∞$juø›$Âgﬁ{∞}t","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"what time is it?","SC28C","229.2","S","N"," "," ","hw¶Ωt$t`a´æ∫{∞}m$ı±øºz$±øºt","MS",989
+"what time is it?","SC28D","229.3","S","N"," "," ","ıhw¶Ωt$Âta´æ∫{∞}m$ı±´z$±øºt","MS",990
+"do you have the time?","SC28D","229.3","S","N"," "," ","Âduø$juø$ıh·∫{∞}v$‰∞$t`a´æ∫{∞}m","MS",990
+"what time do you have?","SC28D","229.3","S","N"," "," ","ıhw¶Ωt$Âta´æ∫{∞}m$ıduø$j∞$Âh·{∞}v","MS",990
+"what time you got?","SC29A","230.2(*)","S","N"," ","CNV","Âhw¶Ωt$ıtaæ±øm$j∞$Âgﬁ∫{∞}t","MS",991
+"NR","SC29B","230.1(*)"," ","N"," "," "," ","MS",992
+"what time is it?","SC29C","230.3","S","N"," "," ","Âhwµ´æt$ıta´æ∫{∞}m$Â±´{∞}z$±øºt","MS",993
+"what time of day is it?","SC29C","230.3","S","N"," "," ","hw¶Ωt$Âta´æ∫{∞}m$∞$Âde´∫$ı±´{∞}z$±øºt","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"what time is it?","SC30A","231.1","S","N"," "," ","hw∂î´ºt$Âtµ∫≤æm$±z$±øt","MS",996
+"what o'clock is it?","SC30A","231.1","S","Y","rare","SUG/HRD","hw∂î´ºtê$∞kl∂î∫k$±z$±øt","MS",996
+"what time is it?","SC30B","231.2","S","N"," "," ","hw¶Ωt$Ât`a´æ∫{∞}m$ı±æz$±øt","MS",997
+"what's the time of day?","SC30B","231.2","S","Y","""old time¢","OLD","hw¶Ωts$‰±ø$Âta´æ∫{∞}m$∞$de´∫±ø´º","MS",997
+"what time have you?","SC30B","231.2","S","N"," "," ","hw¶Ωt$Âta´æ∫{∞}m$ıh·∫v{j}$j∞´æ","MS",997
+"what time is it?","SC30B","231.2","S","N"," ","CNV","Âhw¶Ωt$ıt`a´æ∫{∞}m$ı±æz$±øt","MS",997
+"what time","SC30B","231.2","O","Y"," ","INA/CNV","Âhw¶Ωt$ıt`a´æ∫{∞}m","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"what time is it?","SC31A","232.1","S","N"," "," ","Âhw¶Ωt$Âtﬁ´æ{∞}m$ı±´{∞}z$±øºt","MS",999
+"what time of day is it?","SC31A","232.1","S","N"," ","CNV","Âhw∏´ı'ta´æ∫{∞}m$∞$Âde´∫$ı±´æ{∞}z$±øºt","MS",999
+"what time is it?","SC31B","232.2","S","N"," "," ","Âhw∏´t$ıt`a´æ∫{∞}m$∞$Âde∫{±ø}$ı±´{∞}z$±øºt","MS",1000
+"what time of day is it?","SC32A","233.1","S","N"," "," ","hw∞´t$ıta´æ∫{∞}m$∞$de∫{±ø}$ı±´{∞}z$±øºt","MS",1001
+"what time is it?","SC32A","233.1","S","N"," "," ","hw∞´t$Âta´æ∫{∞}m$ı±´{∞}z$±øºt","MS",1001
+"what's the hour?","SC32A","233.1","S","N"," "," ","hw∞´ts$‰±ø´º$Â·Ω∫ow∞æ","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"what time is it?","SC32C","233.3","S","N"," "," ","hw∞´t$Ât`a´æ∫{∞}m$±øz$±ø't","MS",1003
+"what time is it?","SC32D","233.4","S","N"," "," ","hw∞´t$t`a´æ∫{∞}m$±øºz$±øºt","MS",1004
+"what time is it?","SC33A","234.1","S","N"," "," ","hw∏´t$taæ∫{∞º}m$±z$±øt","MS",1005
+"what time is it?","SC33B","234.2","S","N"," "," ","hw¶Ωt$Ât`aæ∫±øm$ı±´{∞}z$±øºt","MS",1006
+"what was the hour?","SC34A","235.1","S","N"," "," ","hw¶Ωt$w∞´z$‰±ø´º$Â·æ∫w¥´æ","MS",1007
+"what time of day is it?","SC34A","235.1","S","N"," "," ","Âhw¶Ωt$ıt`a´æ∫{∞}m$∞$Âde∫±ø´º$±øºz$±øºt","MS",1007
+"what time have you?","SC34B","235.2","S","N"," "," ","hw¶Ωt$t`a´æ∫{∞}m$h·´∫{∞}v$Âjuø∫w","MS",1008
+"what is your time?","SC34B","235.2","S","N"," "," ","hw¶Ωt$±øºz$joº∫π$Ât`a´æ∫{∞}m","MS",1008
+"what time have you?","SC34B","235.2","S","N"," "," ","hw¶Ωt$t`a´æ∫{∞}m$∞$juø∫w","MS",1008
+"what time is it?","SC34C","235.3","S","N"," ","CNV","hw∞´t$Âta´æ∫m$±øºz$±øºt","MS",1009
+"what time is it?","SC35A","236.1","S","N"," "," ","hw¶Ωt$t`a´æ∫{∞}m$±øºz$±ø›t","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"what time is it?","SC35C","236.3(*)","S","N"," "," ","hw∏´t$Âtaæ∫{∞}m$ı±æz$±øt","MS",1012
+"what time is it?","SC35D"," ","S","N"," "," ","hw∞t$Âtaæ∫{∞}m$ı±æz$±øt","MS",1013
+"NR","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"what time is it?","SC36B","237.2","S","N"," "," ","hw¶Ωt$t`µ´º∫±øm$ıiΩz$±ø´ºt","MS",1016
+"what time have you?","SC36B","237.2","S","N"," "," ","hw¶Ωt$Ât`µº∫±øm$h·´v$Âjuøº∫w","MS",1016
+"what time is it?","SC36C","237.3","S","N"," ","CNV","{h}w∏Ωºt$t`a´∫m$±ø›z$±øºt","MS",1017
+"what time is it?","SC36D!","237.4!","S","N"," ","CNV","hw∞´t$Âtµ´º∫{∞}m$±ø›ºz$±øºt","MS",1018
+"what time is it?","SC37","238","S","N"," "," ","Âhw∏t$ıta´æ∫{∞}m$Â±z$±øt","MS",1019
+"what time is it?","SC38N","N239","S","N"," "," ","ıhw¶Ωt$Âta´æ∫{±ø}m$±øºz$±øºt","MS",1020
+"do you know the time?","SC38A","239.1","S","N"," ","CNV","duø∫{w}$j∞$Âno∫π$‰∞›$ıt`a´æ∫±øm","MS",1021
+"what time is it?","SC38A","239.1","S","N"," ","CNV","hw∞t$Âtaæ∫{∞}m$±øºz$±øºt","MS",1021
+"what time is it?","SC38B","239.2","S","N"," "," ","hw∏t$t`a´æ∫{∞}m$ı±z$±øºt","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"what time is it?","SC38D!","239.4(*)!","S","N"," "," ","hw∞›t$Âta´æ∫{∞}m$±ø›z$±ø›t","MS",1024
+"what o'clock is it?","SC38D!","239.4(*)!","S","Y"," ","HRD","hw∞Ωt$∞Âk≈èﬁk$ı±´æz$±ºt","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," ","MS",1025
+"what's the hour?","SC39A","240.1","S","N"," "," ","hw¶Ωts$‰±ø´º$Âµº∫w∞´æ","MS",1026
+"what time is it?","SC39A","240.1","S","N"," ","CNV","Âhw∞Ωt$ıt`a´æ∫{∞}m$±øz$±øºt","MS",1026
+"what time of night is it?","SC39A","240.1","S","N"," "," ","hw¶Ωt$Âta´æ∫{∞}m$∞$Âna´æ±øt$ı±´z$±øºt","MS",1026
+"what time of day is it?","SC39A","240.1","S","N"," "," ","hw¶Ωt$Âta´æ∫{∞}m$∞$Âde´∫$ı±´z$±øºt","MS",1026
+"what time it is?","SC39B!","240.2!","S","N"," "," ","Âhw¶Ωt$t`·∫{±ø}m$±ø›ıt`±´z","MS",1027
+"what time of day is it?","SC39B!","240.2!","S","N"," "," ","hw¶t$t`a´æ∫{∞}m$∞$Âde´∫$±ø›z$±øt","MS",1027
+"what time have you got?","SC40A","241.1","S","N"," "," ","ıhwﬁΩºt$Ât`µ´∫m$ıh·´v$jy›æuø›$Âgﬁºt","MS",1028
+"what time of day is it?","SC40A","241.1","S","N"," "," ","ıhwﬁ´ºt$ıt`µ´∫{∞}m$∞$Âde∫±ø$±z$±øºt","MS",1028
+"what time have you?","SC40A","241.1","S","N"," "," ","ıhwﬁΩºt$Ât`µ´∫m$h≤Ωv$jyæuø","MS",1028
+"what time of day is it?","SC40B","241.2","S","N"," "," ","hw∞Ωt$t`a´æ∫∞m$∞$Âde∫{iøî}$ı±´æz$±øºt","MS",1029
+"what time is it?","SC40B","241.2","S","N"," "," ","hw∞Ωt$Ât`µ´º∫∞m$ı±´z$±øºt","MS",1029
+"what time is it?","SC41A","242.1","S","N"," "," ","hw∂î´ºt$Âtaæ∫{≤æ}m$±z$±øt","MS",1030
+"what time of day?","SC41B","242.2","S","N"," "," ","hw¶Ωt$t`µ´±øm$∞$Âde∫{iøî}","MS",1031
+"what time it is?","SC41B","242.2","S","N"," "," ","{h}w∞´æt$Ât`µ∫{∞}m$±øtê$ı±´æz","MS",1031
+"what time is it?","SC42N","N243","S","N"," "," ","{h}w∏´t$t`a´æ∫{±ø}m$ı±´æz$±øºt","MS",1032
+"what time of day is it?","SC42N","N243","S","Y","[{∞}]: doubtful","FDT","{À}w∞æt$t`a´æ∫{∞}m$∞$de´∫iøî$ı±´z$±øºt","MS",1032
+"NA","SC42M"," "," ","N"," "," "," ","MS",1033
+"what time is it?","SC42A","243.1","S","N"," "," ","ıhw∞$Ât`aæ∫{∞}m$ı±´z$±øºt","MS",1034
+"I wonder what time it is","SC42A","243.1","S","N"," "," ","aæ∫$Âw¶Ωnd∞$hw∏´tt`µæ∫{∞}m$±øΩºt`±´æ∫z","MS",1034
+"NR","SC42B!","243.2!"," ","N"," "," "," ","MS",1035
+"what time is it?","SC42C!","243.3!","S","N"," "," ","ıhw∞Á$t`aæ∫m$ı±øΩz$±øºÁ","MS",1036
+"what time is it?","SC42C!","243.3!","S","N"," "," ","Âhw∞t$Ât`aæ∫m$ı±øºz$±øºt","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"what time is it?","SC42E!","243.5!","S","N"," "," ","hw∞Ωt$Ât`a´æ∫{∞}m$±ø›z$±øºt","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"what time have you?","SC43B","244.2","S","N"," "," ","hw∏´t$Âtaæ∫{∞}m$Âh≤Ωv$j∞´æ","MS",1040
+"what time is it?","SC43B","244.2","S","N"," "," ","hw∏Ωt$Âta´æ∫{∞}m$Â±æz$±øºt","MS",1040
+"what time is it?","SC43B","244.2","S","N"," ","CNV","hw¶Ωt$Ât`a´æ∫{∞}m$±´z$±øΩºt","MS",1040
+"what time of day is it?","SC43C","244.3","S","N"," "," ","Âhw∏t$t`aæ∫{±ø}m$∞$Âde´{iø}$±æzè$±øΩºt","MS",1041
+"what's the hour?","SC44A","245.1","S","N"," "," ","Âhw∏´ts$‰±ø´º$Â·æow∞éæ","MS",1042
+"what time it","SC44A","245.1","O","Y"," ","INA/CNV","hw∏´t$t`µ´∫∞›m$±øΩºt","MS",1042
+"what time is it?","SC44A","245.1","S","N"," "," ","ıhw∏t$Ât`a´æ∫±øm$ı±æz$±øºt","MS",1042
+"what time have you?","SC44A","245.1","S","N"," "," ","ıhw∏ót$Ât`a´æ∫±øm$h≤Ωv$jyæuø´","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"NR","GA1N","N246"," ","N"," "," "," ","MS",1044
+"what time is it?","GA1A","246.1(*)","S","N"," ","CNV","w∑Ωt$t`µ∫±øm$±ø›z$±øºt","MS",1045
+"NA","GA1B","246.11"," ","N"," "," "," ","MS",1046
+"what's the matter?","GA1C","246.2","S","Y"," ","INA/CNV","ıw∏Ωºts$‰∞$Âm·{∞}tê∞æ","MS",1047
+"what time have you?","GA1D","246.3","S","N"," "," ","w∏ºt$Ât`µ∫±øm$∞$ıjπ","MS",1048
+"what time you have?","GA1D","246.3","S","N"," "," ","hw∏›t$t`µ∫±øm$j∞$Âh·Ω∫{∞}v","MS",1048
+"what time is it?","GA1E","246.4","S","N"," ","CNV","w∞t$Ât`µº∫{±}m$±z$±øt","MS",1049
+"what o'clock is it?","GA1F!","246.5!","S","N"," "," ","w∏Ωt$∞Âkl•k$±z$±øt","MS",1050
+"what time is it?","GA1F!","246.5!","S","N"," "," ","w∏Ωt$Âtaæ±øΩm$±z$±øt","MS",1050
+"what time is it?","GA1G!","246.6!","S","N"," ","CNV","w∞t$Ât`µº∫±øm$±øºz$±øt","MS",1051
+"what time is it?","GA1H!","246.7!","S","N"," ","CNV","hwﬁ´ºt$Ât`a´æ∫{∞}m$±øºz$±øºt","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"what's the time of day?","GA2A","247.1","S","N"," "," ","hw∞Ωts$‰∞$t`µ´º∫±øm$∞$Âde∫±ø´º","MS",1054
+"what time is it?","GA2A","247.1","S","Y"," ","HRD","hw∞Ωt$t`µ∫±øm$±øºz$±øt","MS",1054
+"what time is it?","GA2B","247.2","S","N"," "," ","hw∞Ωt$Ât`µ´º∫±ø›m$±øºz$±øºt","MS",1055
+"what o'clock is it?","GA3A","248.1","S","N"," "," ","ıw∏Ωtê$∞Âkl∂k$±z$±øt","MS",1056
+"what time is it?","GA3A","248.1","S","N"," "," ","hw¶t$Âtaæ∫±øm$±z$±øt","MS",1056
+"what time is it?","GA3A","248.1","S","N","often"," ","w∏t$Âtaæ∫±øm$±z$±øt","MS",1056
+"what time is it?","GA3B","248.2","S","N"," "," ","hw∏´t$Ât`µ´º∫±øm$ı±´{∞}z$±øºt","MS",1057
+"could you give me","GA3B","248.2","E","Y"," ","INA/DDT","kπºd˙juø$Âgà±´v$m±ø´º","MS",1057
+"what time it is?","GA4N","N249","S","N"," ","SIC","w∏Ωt$taæ±øm$±øtê$±øz","MS",1058
+"what o'clock is?","GA4N","N249","S","N"," ","SIC","w∏Ωtê$∞kl∂îk$±z","MS",1058
+"what time is it?","GA4A","249.1","S","N"," "," ","hw∏›'t$Âtµº∫±øm$±øz$±øºt","MS",1059
+"NR","GA4B","249.2"," ","N"," "," "," ","MS",1060
+"do you have the time?","GA4C!","249.3!","S","N"," "," ","d∞$Âjuø∫$ıh·Ω{∞}v$‰∞$Âtµ´∫±øm","MS",1061
+"what time is it?","GA4C!","249.3!","S","N"," "," ","ıhw∏Ωt$Âtµ´∫±øm$ı±´∫{∞}z$±øºt","MS",1061
+"what time is it?","GA5A","250.1","S","N"," "," ","hw∏Ωt$Âtµ∫±øm$ı±´æ{∞}z$±ø´t","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"what time is it?","GA5C","250.3","S","N"," "," ","{h}w∏´t$Âtµ∫±øm$±ø›z$±ø›t","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"what time is it?","GA5E!","250.5!","S","N"," "," ","ıhw∏ΩÂtµ∫±øm$ı±´æz$±ø›t","MS",1066
+"what time of day is it?","GA6A","251.1","S","N"," "," ","Âhw∏t$tµ´∫±øm$∞$Âde´∫$ı±´{∞}z$±øºt","MS",1067
+"what o'clock is it?","GA6B!","251.2!","S","N"," "," ","hw∏ºt$∞Âklèﬁók$ı±´{∞}z$±øºt","MS",1068
+"what o'clock is it?","GA6B!","251.2!","S","N"," "," ","hw∏ºt$ıo∫Âklè∂k$ı±´z$±øºt","MS",1068
+"what time you got?","GA7","256","S","N"," "," ","hw∏Ωºt$Âta´æ∫{∞}m$juø∫$ıgﬁºt","MS",1069
+"could you tell me the time of day?","GA8A","257.1","S","N"," "," ","Âkπºd˙uø$Ât≤´{©}$ımi∫$‰±ø´º$Âta´æ∫{∞}m$∞$ıde´∫","MS",1070
+"what time is it?","GA8A","257.1","S","N"," "," ","ıhw∏ΩÁ$ta´æ∫{∞}m$±øºz$±øºt","MS",1070
+"about what time is it?","GA8B","257.2","S","N"," "," ","∞Âba´æoÁ$ıhw∏´t$Âta´æ∫{∞}m$±øºz$±øºt","MS",1071
+"what time is it?","GA9A","257A.1","S","N"," "," ","hw∏´ºt$Âta´æ∫{∞}m$ı±∫z$±øt","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"what time is it?","GA10A","258.1","S","N"," "," ","hw∂î´ºt$taæ∫±øΩm$±z$±øt","MS",1074
+"what o'clock is it?","GA10A","258.1","S","N"," "," ","hw∂î´ºtê$∞klç∂´ºk$±z$±øt","MS",1074
+"what time is it?","GA10B","258.2","S","N"," "," ","ıhw∏´t$Ât`µ´±øm$ı±´z$±øt","MS",1075
+"what's the time?","GA10B","258.2","S","N"," "," ","hw∏´ts$‰±ø$Ât`µ∫±øm","MS",1075
+"NR","GA11N","N258A"," ","N"," "," "," ","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"what time is it?","GA12B!","259.2(.3)","S","N"," "," ","hw∏´ºt$Âta´æ∫{∞}m$±›æz$±øt","MS",1078
+"what o'clock is it?","GA13A","260.1","S","N"," "," ","w∏Ω{∞}tê$∞$kl∂îk$ı±z$±øt","MS",1079
+"what time is it?","GA13A","260.1","S","N"," "," ","w∏Ω{∞}t$Âtaæ∫±øΩm$ı±z$±øt","MS",1079
+"what is the time of day?","GA13B!","260.2!","S","N"," "," ","hw∏´tê$±øºz$‰∞$Âta´æ∫±øm$∞´v$Âde´∫","MS",1080
+"what is the time?","GA13B!","260.2!","S","N"," "," ","hw∏´tê$±øºz$‰∞$Âta´æ∫±øm","MS",1080
+"what time is it?","GA13B!","260.2!","S","N"," ","CNV","Âhw∏´t$ıta´æ∫±øm$Â±´æz$±øt","MS",1080
+"give me","GA14A","261.1","E","Y"," ","INA","gà±´{∞}$m±ø´º","MS",1081
+"what time is it?","GA14A","261.1","S","N"," "," ","hw∏Ωt$t`a´æ∫±øm$±øºz$±øt","MS",1081
+"what time of day is it?","GA14B","261.3","S","N"," "," ","Âhw∏´t$ıta´æ∫{∞}m$∞$Âde∫{±ø}$±øºz$±øt","MS",1082
+"what time it is","GA14B","261.3","E","Y","I'd ask)","INA","ıhw∏´t$Âta´æ∫±øm$±´t$±øºz","MS",1082
+"what time is it?","GA14C","261.2","S","N"," "," ","hw∏´t$Ât`µ´º∫±øm$±øºz$±øt","MS",1083
+"what time is it?","GA15A","262.1","S","N"," "," ","hwµ´∫{∞}t$Âtaæ∫{≤æ}m$±z$±øt","MS",1084
+"what time you got?","GA15B","262.2","S","N"," "," ","ıhw¶Ωt$Ât`aæ∫±øºm$juø$Âgﬁt","MS",1085
+"what time is it, please?","GA16A","263.2","S","N"," "," ","ıhwﬁ´ºt$t`a´æ{∞}m$±øºz$±øºt$p`lèi∫{±ø}z","MS",1086
+"would you give me the time, please?","GA16B","263.1","S","N"," "," ","wπºd˙uø$ıgà±´v$m±ø´º$‰∞$Ât`a´æ∫{∞}m$ıpli∫z","MS",1087
+"what time of day is it?","GA16B","263.1","S","N"," "," ","hw∞›t$ıta´æ∫{∞}m$∞$Âde´$±øz$±øºt","MS",1087
+"what time is it?","GA16C","263.21","S","N"," "," ","hw∏´ºt$Âta´æ∫{∞}m$ı±∫z$±øt","MS",1088
+"what time is it?","GA16D!","263.3!","S","N"," "," ","Âhw¶Ωt$ıta´æ±øm$Â±´æ{∞}z$±øºt","MS",1089
+"what's the time of day?","GA17N","N264","S","N"," "," ","{h}w∏ts$zë∞$ta´æ∫{∞}m$∞$Âde{±ø}","MS",1090
+"what's the time?","GA17","264","S","N"," "," ","{h}w∏ºtzë∞$Âta´æ∫{∞}m","MS",1091
+"what's the time?","GA17","264","S","N"," "," ","{h}w∏ºtzèëiΩi$Âta´æ∫{∞}m","MS",1091
+"what time is it?","GA17","264","S","N"," "," ","{h}w∏ºt$ıtaæ∫{∞}m$Â±z$±øºt","MS",1091
+"what time is it?","GA18A","264A.1","S","N"," "," ","ıhw∏Ωºt$Âta´æ∫{∞}m$ı±z$±øt","MS",1092
+"what time is it?","GA18B","264A.2","S","N"," "," ","Âhwµ´t$ıta´æ∫{∞}m$Â±z$±øt","MS",1093
+"what time of day is it?","GA19A","265.1","S","Y"," ","AUX2","hw¶Ωt$ta´æ∫{∞}m$∞$Âde´∫±ø$ı±´æ{∞}z$±øºt","MS",1094
+"what time of day is it?","GA19A","265.1","S","Y"," ","AUX2","hw∞´'ta´æ∫{∞}m$∞$Âde´∫±ø$ı±´æ{∞}z$±øºt","MS",1094
+"have you got the time of day?","GA19B","265.2","S","N"," "," ","h·´v$Âjuø$ıgﬁó´º't$‰±ø´º$Âta´æ∫{∞}m$∞$ıde∫±øΩº","MS",1095
+"what time have you got?","GA19B","265.2","S","N"," "," ","ıhw∞´æt$Âta´æ∫{∞}m$∞´v$juø$Âgﬁó´º{∞}t","MS",1095
+"what time you got?","GA20A","266.1","S","N"," ","CNV","ıhw¶›Ωt$Âta´∫{∞}m$j∞$ıgµæ{∞}t","MS",1096
+"what time of day is it?","GA20A","266.1","S","N"," "," ","Âhw¶Ω{∞}t$ıta´æ∫{∞}m$∞$Âde´{±ø}$ı±´z$±øºt","MS",1096
+"what time you got?","GA20A","266.1","S","N"," "," ","ıhw¶Ω{∞}t$Âta´æ∫{∞}m$j∞ó$Âgµ´æ{∞}t","MS",1096
+"what time is it?","GA20B","266.2","S","N"," ","CNV","Âhw¶Ωt$ıta´æ∫{∞}m$Â±´{∞}z$±øºt","MS",1097
+"have you the time?","GA21A","267.1","S","N"," "," ","Âh·´v$juø$‰∞$Âta´æ∫{∞}m","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"what time have you?","GA22A","268A.1","S","N"," "," ","hw∏t$Âta´æ∫{∞}m$Âh·´{∞}ˆ$jπø›","MS",1100
+"what time of day is it?","GA22B","268A.2","S","N"," "," ","Âhw¶Ω'ta´æ∫{∞}m$∞$Âde´∫$ı±øºz$±øt","MS",1101
+"what time you got?","GA23A","268.1","S","N"," "," ","hw¶Ωt$Âtµ´º∫±øm$j∞$ıgﬁóºt","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"NR","GA23C","268.2"," ","N"," "," "," ","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"what time is it?","GA23E!","268.4!","S","N"," "," ","hw∏´ºt$Âta´æ∫{∞}m$ı±z$±øt","MS",1106
+"NR","GA23F!","268.5!"," ","N"," "," "," ","MS",1107
+"do you know what time of day it is?","GA24N","N269","S","N"," "," ","duø$juø$no{π}$Âhw∏´ºt$ta´æ∫{∞}m$∞$Âde{±ø}$±øt$ı±∫z","MS",1108
+"what time is it?","GA24A","269.1","S","N"," "," ","hw∂î´ºt$Âtµ∫{≤}m$±z$±øt","MS",1109
+"what time is it?","GA24B","269.2","S","N"," "," ","ıhw¶Ωt$Ât`a´æ∫{∞}m$ı±´z$±øºt","MS",1110
+"NR","GA25N","N269A"," ","N"," "," "," ","MS",1111
+"what time is it?","GA26","270A","S","N"," "," ","ıhw∏´t$Âta´æ∫{∞}m$ı±z$±øt","MS",1112
+"what time is it?","GA27!","270!","S","N"," "," ","ıhw∏{∞}t$ta∫{∞}m$Â±z$±øt","MS",1113
+"what time is it?","GA28","271a","S","N"," "," ","ıhw∏t$Âta´æ∫{∞}m$ı±∫z$±øt","MS",1114
+"what time of day you got?","GA29A","271.1","S","N"," "," ","Âhw¶Ωt$ıtµ´º∫±ø›m$∞$Âde´$Âjuø$ıg∂t","MS",1115
+"what time you got?","GA29A","271.1","S","N"," "," ","Âhw¶Ωt$ıtµ´∫±øm$Âjuø$ıg∂t","MS",1115
+"what time is it?","GA29B","271.2","S","N"," "," ","ıhw¶Ωt$Âtµ´º∫∞m$ı±´z$±øºt","MS",1116
+"what time is it?","GA29B","271.2","S","N"," "," ","Âhwﬁ´ºt$ıtµ´º∫{∞}m$ı±´z$±øºt","MS",1116
+"NR","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"what time is it?","GA30B","272.2(*)","S","N"," ","CNV","hw∞´t$Ât`a´æ∫{∞}m$±ø›z$±øºt","MS",1118
+"what time is it?","GA30C!","272.3!","S","N"," "," ","hw∏´ºt$Âta´æ∫{∞}m$ı±z$±øt","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"what time have you got?","GA31","272A","S","N"," "," ","hw∏´ºt$Âta´æ∫{∞}m$ıh·∫v$juø$Âgﬁºt","MS",1122
+"what time is it?","GA32","272B","S","N"," "," ","hw∏´t$Âta∫{∞}m$ı±z$±øt","MS",1123
+"NR","GA33A","272C1"," ","N"," "," "," ","MS",1124
+"what time is it?","GA33B","272C2","S","N"," "," ","ıhw∏´ºt$Âta´æ∫{∞}m$ı±æz$±øt","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"what time is it?","GA34A","273.1","S","N"," "," ","hw∏ó´t$taæ∫{≤æ}m$±{∞}z$±øt","MS",1127
+"what time is it?","GA34B","273.2","S","N"," "," ","hw¶Ωt$t`a´æ∫{∞}m$ı±´z$±øºt","MS",1128
+"what time of day is it?","GA35N","N273A","S","N"," "," ","w∏´ºt$ıta´æ∫{∞}m$∞$Âde{±ø}$ı±z$±øt","MS",1129
+"what time do you have?","GA36N","N274A","S","N"," "," ","Âhw∏´ºt$ıta´æ∫{∞}m$ıduø$juøº$Âh·∫{∞}ˆ","MS",1130
+"what time is it?","GA37N","2N274","S","N"," "," ","ıhw∏´ºt$Âta´æ∫{∞}m$ı±z$±øΩt","MS",1131
+"what time is it?","GA37M!","NC274","S","N"," "," ","hw∞´t$Ât`a´æ∫{∞}m$ı±zè$±øt","MS",1132
+"what time of day is it?","GA37A","274.1","S","N"," "," ","Âhw¶Ωt$ıt`a´æ∫{∞}m$∞$Âde´∫$±´z$±øºt","MS",1133
+"what time is it?","GA37B","274.2","S","N"," "," ","Âhw¶Ωt$ıt`a´æ∫{∞}m$±æz$±øºt","MS",1134
+"what time is it?","GA37C","274.21","S","N"," "," ","Âhw∏´ºt$ıta´æ∫{∞}m$Â±∫z$±øt","MS",1135
+"what time is it?","GA37D!","274.7!","S","N"," "," ","hw∏Ωt$Âta´æ∫{∞}m$ı±∫z$±øt","MS",1136
+"what time is it?","GA37E!","274.8!","S","N"," "," ","ıhw∏´ºt$Âta´æ∫{∞}m$ı±z$±øt","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"what time is it?","GA37G!","274.4!","S","N"," "," ","ıhw¶Ωt$Âta´æ∫{∞}m$ı±´z$±øºt","MS",1139
+"what time have you got?","GA37H!","274.5!","S","N"," "," ","ıhw¶Ωt$Ât`a´æ∫{∞}m$h∞´v$ıjπø$Âgﬁº{∞}t","MS",1140
+"what time is it?","GA37H!","274.5!","S","N"," "," ","ıhw¶Ωt$Ât`a´æ∫{∞}m$ı±∫{∞}z$±øºt","MS",1140
+"what time is it?","GA37I!","274.6!","S","N"," "," ","ıhw∏´t$Ât`a´æ∫{∞}m$ı±z$±øt","MS",1141
+"what time of day?","GA38","275","S","N"," "," ","w∞t$ta∫±øm$∞$de{±ø}","MS",1142
+"what time of night?","GA38","275","S","N"," "," ","w∞t$ta∫±øm$∞$na∞t","MS",1142
+"please tell me the time","GA39","275A","S","N"," "," ","pli∫z$t≤l$m±{i}$‰∞$Âta´æ∫{∞}m","MS",1143
+"what time is it?","GA39","275A","S","N"," "," ","hw∏´t$Âta´æ∫{∞}m$ı±∫z$±øt","MS",1143
+"what time is it?","GA40","276A","S","N"," "," ","ıhw∏æt$Âtaæ∫m$ı±z$±øt","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"what time you got?","GA42A","276.1","S","N"," "," ","Âhwﬁ´ºt$ıta´æ∫{∞}m$j∞$ÂgﬁΩº{∞}t","MS",1146
+"what's the time of day?","GA42B","276.2","S","N"," "," ","hw¶Ωts$‰∞$ta´æ∫{∞}m$∞$Âde∫{±ø}","MS",1147
+"what time is it?","GA43","277","S","N"," "," ","hw∂î´ºt$taæ∫{≤æ}m$±øz$±øt","MS",1148
+"what time have you?","GA44A","278.1","S","N"," "," ","Âhw∏Ωt$Ât`a´æ∫{∞}m$∞$Âjuøº∫wà","MS",1149
+"how's your watch?","GA44A","278.1","S","N"," "," ","Âh·∫oz$j∞$Âwﬁ{∞}tÛ","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"what time of day have you got?","GA44C","278.3","S","N"," "," ","Âhw¶Ωt$ıt`a´æ∫{∞}m$∞$Âde∫{±ø}$ıh·{≤}v$j∞$Âgﬁºt","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"what time is it?","GA44E","278.5","S","N"," "," ","ıhw∏´ºt$Âta´æ∫{∞}m$ı±z$±øt","MS",1153
+"will you please tell me the time?","FL1","252","S","N"," "," ","ıw±æl$Âjuø∫$ıpli∫z$Ât≤´l$m±ø´º$‰∞$tµ´∫±øm","MS",1154
+"what time","FL1","252","O","Y"," ","INA","Âhw∏´t$ıtµ∫±øm","MS",1154
+"what's the time of day?","FL1","252","S","N"," "," ","Âhw∏´ts$‰±ø$Âtµ´∫±øm$∞$Âde´∫","MS",1154
+"what time of day is it?","FL2A","253.1","S","N"," "," ","Âhw∏t$ıtµ´º∫±øm$∞$Âde´∫$ı±øz$±ø›ºt","MS",1155
+"what time is it?","FL2B","253.2","S","N"," "," ","hw∏´ºt$Âta´æ{∞}m$ı±z$±øt","MS",1156
+"what time of day is it?","FL2C!","253.3!","S","N"," "," ","Âhw∏t$ıtµ∫±øm$∞$Âde´∫$ı±´z$±øºt","MS",1157
+"what time is it?","FL2C!","253.3!","S","N"," "," ","ıhw∏›t$Âtµ∫±øm$ı±z$±øºt","MS",1157
+"what time is it?","FL3A","254.1","S","N"," "," ","hw∏ºt$Âtµ∫±øm$±øºz$±øºt","MS",1158
+"have you got the time?","FL3A","254.1","S","N"," "," ","h·{∞}v$ju›$g∂t$‰±ø$Âtµ´º∫±øm","MS",1158
+"what time you got?","FL3A","254.1","S","N"," "," ","Âhw∏´t$ıt`a´æ∫{∞}m$j∞$Âgﬁót","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"what time is it?","FL4","254A","S","N"," "," ","ıhw∏´ºt$Âta´æ∫{∞}m$ı±z$±øt","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"what time is it?","FL5B","255.2","S","N"," "," ","hw∏´t$Âta´æ∫{∞}m$ı±´z$±øºt","MS",1162
+"","","","","","","","","",

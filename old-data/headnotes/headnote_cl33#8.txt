@@ -1,0 +1,82 @@
+calve (cl33#8.asc)
+
+Items
+=====
+                         be calving    1
+                           be fresh    3
+                         bring calf    2
+                              calve    2
+                            calving    1
+                         come fresh    2
+                            come in    1
+                         delivering    1
+                        drop a calf    2
+                          drop calf    3
+                          expecting    1
+                   find a baby calf    1
+                        find a calf   11
+                  fixing to freshen    1
+                       found a calf    1
+                            freshen    3
+                         freshening    1
+                        have a calf    8
+                                 he    1
+                  He drop calf soon    1
+            He going to drop a calf    1
+                           in short    1
+                       is expecting    1
+My cow going to drop a calf in short    1
+                                 NR   14
+                                she    1
+                    She drop a calf    1
+                      She drop calf    2
+           She going to drop a calf    2
+             She going to drop calf    2
+           She going to have a calf    2
+             She going to have calf    1
+                      She with calf    1
+         She's going to drop a calf    1
+           She's going to drop calf    2
+She's springing now; expects to have a calf in a few days    1
+             the cow will drop calf    1
+                        to be fresh    1
+
+
+
+
+L: If you had a cow by the name of Daisy expecting a calf, you say, "Daisy 	is going to ______."
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The expressions here were recorded in the sentence "She is going to have a calf" or in a similar context.  Some expressions for "calve" are socially restricted.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 33#8, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 33 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+33#P		
+33#1a		33#1
+33#1b		
+33#2		33#2
+33#3		33#3
+33#4		33#4
+33#5		33#5
+33#6		33#6
+33#7		33#7
+33#8		33#8

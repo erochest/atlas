@@ -1,0 +1,1376 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NR","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NR","NY2C","51.3"," ","N"," "," "," ","MS",4
+"furniture","NY3A","401","N","N"," "," ","f°´n±¿tó´","MS",5
+"furniture","NY3B","403","N","N"," "," ","f³{°}n±¿tó°","MS",6
+"furniture","NY3C","402","N","N"," "," ","f´n±¿tó´","MS",7
+"furniture","NY3D","404","N","N"," "," ","fÀ{°«}n±¿tó°","MS",8
+"furniture","NY4A","405","N","N"," "," ","f°´İn±¿tó°","MS",9
+"furniture","NY4B","407","N","N"," "," ","f¸¼{r}n±¿tó°","MS",10
+"furniture","NY4C","408","N","N"," "," ","f³±¿n±¿tó°","MS",11
+"furniture","NY5A","409","N","N"," "," ","f³±¿n±¿tó°","MS",12
+"furniture","NY5B","410","N","N"," "," ","fÀ±¿«n±¿tó°","MS",13
+"furniture","NY5C","411","N","N"," "," ","f³{±¿½}n±¿tó°","MS",14
+"furniture","NY5D","412","N","N"," "," ","f³ºn±¿tó°","MS",15
+"furniture","NY5E","413","N","N"," "," ","fÀ±¿n±¿tó°","MS",16
+"furniture","NY5F","414","N","N"," "," ","fÀ±¿n±¿tó°","MS",17
+"furniture","NY5G","415","N","N"," "," ","f³{±¿½}n±¿tó°","MS",18
+"furniture","NY5H!","416!","N","N"," "," ","f¸«¼nİ±¿İtó°","MS",19
+"furniture","NY5I!","417!","N","N"," "," ","f³º{°}n±¿tó°","MS",20
+"furniture","NY6A","418","N","N"," "," ","f¸¼n±¿«tó°","MS",21
+"furniture","NY6B","419","N","N"," "," ","f³«º{°«}n±¿tó°«","MS",22
+"furniture","NY7A","420","N","N"," "," ","fÀ±¿n±¿tó°","MS",23
+"furniture","NY7B","421","N","N"," "," ","fÀ±¿n±¿tó°","MS",24
+"furniture","NY7C","422","N","N"," "," ","f³±¿n±¿tó°«","MS",25
+"furniture","NY7D","423","N","N"," "," ","fÀ”±¿n±¿tó°","MS",26
+"furniture","NY7E","424","N","N"," "," ","fÀ±¿n±¿tó°«","MS",27
+"furniture","NY7F","425","N","N"," "," ","f³—«¼ºn±¿tó°","MS",28
+"furniture","NY7G","426","N","N"," "," ","fÀ”±¿«n±¿tó°","MS",29
+"furniture","NY7H","427","N","N"," "," ","f³{°}n±¿tó°","MS",30
+"furniture","NY7I","428","N","N"," "," ","fÀ”{±¿}n±¿tó°","MS",31
+"furniture","NY7J!","429!","N","N"," "," ","f³«ºn±¿tó°","MS",32
+"furniture","NY7K!","430!","N","N"," "," ","f³«ºn±¿tó°","MS",33
+"furniture","NY7L!","431!","N","N"," "," ","f³«¼ºn±¿tó°","MS",34
+"furniture","NY7M!","432!","N","N"," "," ","f³«¼ºn±¿tó°","MS",35
+"furniture","NY8","432b","N","N"," "," ","fÀ±¿n±¿tó°","MS",36
+"furniture","NY9A","432c","N","N"," "," ","f´ºn°«tó´","MS",37
+"furniture","NY9B","433","N","N"," "," ","f´ºn±¿tó´","MS",38
+"furniture","NY9C","434","N","N"," "," ","f³«º{°}n±¿tó°","MS",39
+"furniture","NY10A","435","N","N"," "," ","f´n±¿tó´","MS",40
+"furniture","NY10B!","436!","N","N"," "," ","f´n±¿tó´","MS",41
+"furniture","NY11","438","N","N"," "," ","f´n±¿tó´","MS",42
+"furniture","NY12A","439(*)","N","N"," "," ","f´n±¿tó´","MS",43
+"furniture","NY12A","439(*)","N","Y"," ","AUX","f´n°ó´","MS",43
+"furniture","NY12B","440","N","N"," "," ","f´n±¿tó°","MS",44
+"furniture","NY12C!","441!","N","N"," "," ","f³{±¿}n±¿tó°","MS",45
+"furniture","NY13A","443","N","N"," "," ","f³n±¿tó´","MS",46
+"furniture","NY13B!","444!","N","N"," "," ","f³{±¿½}n±¿tó°","MS",47
+"furniture","NY14A","445","N","N"," "," ","f´n±¿tó´","MS",48
+"furniture","NY14B","446","N","N"," "," ","f´n±¿tó´","MS",49
+"furniture","NY15A","447","N","N"," "," ","f´n±¿tó´","MS",50
+"furniture","NY15B","448","N","N"," "," ","f´n±¿tó´","MS",51
+"furniture","NY16A","449","N","N"," "," ","f¸«¼n±¿tó°","MS",52
+"furniture","NY16B","450","N","N"," "," ","fÀ{°«}n±¿tó°","MS",53
+"furniture","NY17A","451(*)","N","N"," "," ","f´n±¿tóu½¼´","MS",54
+"furniture","NY17A","451(*)","N","Y"," ","AUX","f{°½}´n±¿t”ó”°","MS",54
+"furniture","NY17B","452","N","N"," "," ","f´n±¿tó´","MS",55
+"furniture","NY18A","453","N","N"," "," ","f´n±¿tó´","MS",56
+"furniture","NY18B","454","N","N"," "," ","f´n±¿tó´","MS",57
+"furniture","NY18C!","455!","N","N"," "," ","f³«º{±¿¼}n±¿tó°«","MS",58
+"furniture","NY19","456","N","N"," "," ","f´İn±¿tó´","MS",59
+"furniture","NY20A","457","N","N"," "," ","f´½{´}n±¿tó´","MS",60
+"furniture","NY20B","458","N","N"," "," ","f´n±¿tó´","MS",61
+"furniture","NY21","459","N","N"," "," ","f´n±¿tó´","MS",62
+"furniture","NY22","460","N","N"," "," ","f´n±¿tó´","MS",63
+"furniture","NY23A","461","N","N"," "," ","f³¾´n±¿tó´«","MS",64
+"furniture","NY23B","462a","N","Y"," ","SUG","åf³¾´n±¿¼tó´«","MS",65
+"furniture","NY23C","462b","N","N"," "," ","åf³¾´n±«¾tó´","MS",66
+"furniture","NY24A","463","N","N"," "," ","f´n±¿tó´","MS",67
+"furniture","NY24B!","464!","N","N"," "," ","f´n±¿tó´","MS",68
+"furniture","NY25A","465","N","N"," "," ","f³½¾´n±«¾tó´«","MS",69
+"furniture","NY25B","466","N","N"," "," ","åf³½¾º´n±¿¼tó´","MS",70
+"furniture","NY26A","467","N","N"," "," ","åf³¾´n±«¾tó´","MS",71
+"furniture","NY26B","468","N","N"," "," ","åf³¾´n±¿¼tó´","MS",72
+"furniture","NY26C","469","N","N"," "," ","åf³¾´n±¿¼tó´«","MS",73
+"furniture","NY27A","470","N","N"," "," ","åf³¾´n±¿¼tó´","MS",74
+"furniture","NY27B","471","N","N"," "," ","åf³¾´n±«¾õtóu½¼´","MS",75
+"furniture","NY27C","472","N","N"," "," ","åf³¾´n±«¾tó´","MS",76
+"furniture","NY28A","473a","N","N"," "," ","åf³¾´n±¿¼tó´«¾","MS",77
+"furniture","NY28B","473b(*)","N","N"," "," ","åf³¾´n±¿tó´","MS",78
+"furniture","NY28B","473b(*)","N","N"," ","CNV","åf³¾n±¿tó´","MS",78
+"furniture","NY28C"," ","N","N"," ","SIC","f´«n±¿tó´"," ",79
+"furniture","NY29A","474a","N","N"," "," ","åf³¾´n±«¾tó´","MS",80
+"furniture","NY29B","474b","N","N"," "," ","åf³¾´n±«¾tó´","MS",81
+"furniture","NY29C","474c","N","N"," "," ","åf³¾´n±«¾tó´","MS",82
+"furniture","NY30A","475a","N","N"," "," ","åf³¾´n±«¾tó´","MS",83
+"furniture","NY30B","475b","N","N"," "," ","åf³¾´n±¿¼tó´","MS",84
+"furniture","NY30B","475b","N","N"," ","CNV","åf´«¾n±¿¼tó´","MS",84
+"furniture","NY30B","475b","N","N"," ","CNV","õf³¾´n±«¾åtó¹«´","MS",84
+"furniture","NY30C","475c","N","N"," ","CNV","åf³¾´n±¿¼tó´","MS",85
+"furniture","NY30D","475d","N","N"," "," ","åf³¾´n±«¾tó´","MS",86
+"furniture","NY30E","475e","N","N"," "," ","åf³¾´n±¿tó´","MS",87
+"furniture","NY31A","478a","N","N"," ","CNV","åf³¾´n±¿tó´","MS",88
+"furniture","NY31A","478a","N","N"," "," ","åf³¾´n±¿tó´«z","MS",88
+"furniture","NY31B","478b","N","N"," "," ","f³«´n±¿«tó±¿½","MS",89
+"furniture","NY32A","479a","N","N"," "," ","åf³¾´n±¿tó´½","MS",90
+"furniture","NY32B","479b","N","N"," "," ","åf³¾´n±«¾tó´","MS",91
+"furniture","NY33A","480","N","N"," "," ","åf³¾´n±«¾tó´¾","MS",92
+"furniture","NY33B","481","N","N"," ","CNV","åf³´n±«¾tó´","MS",93
+"furniture","NY33C","482","N","N"," "," ","f³¾´n±«¾tó´","MS",94
+"stuff","NY33C","482","N","N"," ","CNV","st¸{°}f","MS",94
+"furniture","NY34A","483","N","N"," "," ","åf³«´n±¿İtó´","MS",95
+"furniture","NY34B","484","N","N"," "," ","åf³«´n±¿¼tó´","MS",96
+"furniture","NY34B","484","N","N"," "," ","åf³«´ntó´","MS",96
+"furniture","NY34C","485","N","N"," "," ","f³¾´n±¿¼tó´","MS",97
+"furniture","NY34D!","486!","N","N"," "," ","f³«´ntó´«","MS",98
+"furniture","NY34D!","486!","N","N"," ","CNV","åf³´n°İtó´«¾","MS",98
+"a vessel","NY34D!","486!","O","Y","= chamber pot","INA","e½±¿$åv²«sì","MS",98
+"furniture","NY35A","487","N","N"," "," ","f´n±¿tó´","MS",99
+"furniture","NY35B","488","N","N"," "," ","f´n±¿tó´","MS",100
+"furniture","NY35C!","489!","N","N"," "," ","f´n±¿tó´","MS",101
+"furniture","NY36A","491","N","N"," "," ","f´n±¿«tó´","MS",102
+"furniture","NY36B","492","N","N"," "," ","f´n±¿tó´","MS",103
+"furniture","NY37A","493","N","N"," "," ","åf´n±¿õt±¿u¼´","MS",104
+"furniture","NY37B","494","N","N"," "," ","f´n±¿tó´","MS",105
+"furniture","NY37C!","495!","N","N"," "," ","f´n±¿tó´","MS",106
+"furniture","NY38A","497(*)","N","N"," "," ","f´n±¿tó´","MS",107
+"furniture","NY38B","498","N","N"," "," ","f´n±¿«tó´","MS",108
+"furniture","NY38C"," ","N","N"," "," ","f´n±¿tó´"," ",109
+"furniture","NY39A","499","N","N"," "," ","f´n±¿tó´","MS",110
+"furniture","NY39B","500","N","N"," "," ","f´n±¿tó´","MS",111
+"furniture","NY40A","501","N","N"," "," ","f´n±¿tó´","MS",112
+"furniture","NY40B","502","N","N"," "," ","f´İn±¿tó´","MS",113
+"furniture","NY41","504","N","N"," "," ","f´n±¿tó´","MS",114
+"furniture","NY42A","505","N","N"," "," ","f´n±¿tóu½¼´","MS",115
+"furniture","NY42B","506","N","N"," "," ","f´n±¿tó´","MS",116
+"furniture","NY43A","507","N","N"," "," ","f´n±¿tó´","MS",117
+"furniture","NY43B","507b","N","N"," "," ","f´ºn±¿tó´","MS",118
+"furniture","NY43C!","508!","N","N"," "," ","f´n±¿tó´","MS",119
+"furniture","NY44A","511","N","N"," "," ","åf´n±¿õt±¿u½¼´","MS",120
+"furniture","NY44B","512","N","N"," "," ","f´n±¿tó´","MS",121
+"furniture","NY45A","513a","N","N"," "," ","åf³´n±¿tó´","MS",122
+"furniture","NY45B","513b","N","N"," "," ","f³¾´n±«¾tó´","MS",123
+"furniture","NY45C","513c","N","N"," "," ","f³¾´n±¿¼tó´","MS",124
+"furniture","NY45C","513c","N","N"," ","CNV","åf³½¾´İn±¿tó´","MS",124
+"furniture","NY45D!","513d!","N","N"," "," ","åf³¾´n±«¾tó´","MS",125
+"furniture","NY46A","515a","N","N"," "," ","åf³«´n±¿¼tó´","MS",126
+"furniture","NY46A","515a","N","N"," ","CNV","åf³±¿½n±¿tó´","MS",126
+"furniture","NY46B","515b","N","N"," "," ","f´n±¿tó´","MS",127
+"furniture","NY46C","515c","N","N"," "," ","f{³}´n±¿tó´","MS",128
+"furniture","NY47A","517(*)","N","N"," ","SIC","åf³¾´n±«¾tó³¾´","MS",129
+"furniture","NY47A","517(*)","N","Y"," ","AUX","f¾´n±¿tó´","MS",129
+"furniture","NY47B","518","N","N"," "," ","f´n±¿tó´","MS",130
+"furniture","NY48A","519a","N","N"," "," ","f³¾´n±¿tó´","MS",131
+"furniture","NY48B","519b","N","N"," "," ","åf³¾´n±¿tó´","MS",132
+"furniture","NY48C","519c","N","N"," "," ","åf³¾´n±¿tó´","MS",133
+"furniture","NY48C","519c","N","N"," ","CNV","åf³¾´n±¿tó°","MS",133
+"furniture","NY48D","519d","N","N"," "," ","åf³«´n±¿½tó´","MS",134
+"furniture","NY49A","520","N","N"," "," ","åf³¾´n±¿¼tó´","MS",135
+"furniture","NY49B","521","N","N"," "," ","f´n±¿tó´","MS",136
+"furniture","NY49C","522a","N","N"," ","CNV","f{°}´n±¿tó´","MS",137
+"furniture","NY49D","522b","N","N"," "," ","f{°}´n±¿tó´","MS",138
+"furniture","NY50A","523","N","N"," "," ","f³¾´n±¿tó´","MS",139
+"furniture","NY50B","524","N","N"," "," ","åf³½¾´n±¿tó{¹¼}´","MS",140
+"furniture","NY51A","525a","N","N"," "," ","f³½´n±«¾tó´","MS",141
+"furniture","NY51A","525a","N","N"," ","CNV","f³½n±«¾tó´","MS",141
+"furniture","NY51A","525a","N","N"," ","CNV","f³¾n±¾tó´","MS",141
+"furniture","NY51B","525b","N","N"," "," ","f³¾´n±¿¼tó´","MS",142
+"furniture","NY51C","525c","N","N"," "," ","åf³¾n±¿tó°¾","MS",143
+"furniture","NY51D","525d","N","N"," "," ","åf³¾´n±¿İtó´","MS",144
+"furniture","NY51E!","525e!","N","N"," "," ","åf³«´n±¿¼tó´","MS",145
+"furniture","NY51E!","525e!","N","N"," ","CNV","åf³½°n±¿tó´","MS",145
+"furniture","NY52A","527","N","N"," "," ","åf³¾´n±¿tó´","MS",146
+"furniture","NY52B","528","N","N"," "," ","f³¾´n±¿tó´","MS",147
+"furniture","NY52C","528b","N","N"," "," ","f´n±¿tó´","MS",148
+"furniture","NY53A","529","N","N"," "," ","åf³½¾n±¿tó°«","MS",149
+"furniture","NY53A","529","N","N"," "," ","åf³¾´—İn±«¾tó°«","MS",149
+"furniture","NY53B!","530!","N","N"," "," ","f³ºn±«¾tó°«","MS",150
+"furniture","NY53B!","530!","N","N"," ","CNV","åf³¾±¿n±¿tó°","MS",150
+"furniture","NY53B!","530!","N","N"," ","CNV/SIC","åf³¾±¿n±¿ó°","MS",150
+"furniture","NY54A","531","N","N"," "," ","åf´n±¿tó´","MS",151
+"utensils","NY54A","531","N","Y"," ","INA","ju½uåt`²nsìz","MS",151
+"household goods","NY54B","532","O","N"," "," ","åh¥¹sõho¹ìd$åg¹dz","MS",152
+"furniture","NY55A","533","N","N"," "," ","åf³¾´n±«¾tó¹´","MS",153
+"furniture","NY55A","533","N","N"," "," ","åf³½¾´n±«¾tó´","MS",153
+"furniture","NY55B","534","N","N"," "," ","åf³¾´n±«¾õt{±}u¼´","MS",154
+"furniture","NY56A","535","N","N"," "," ","åf³¾´n±¾tó´","MS",155
+"furniture","NY56A","535","N","N"," "," ","f´¾ntó´","MS",155
+"furniture","NY56A","535","N","N"," ","CNV","f´¾n±¿İtó´","MS",155
+"furniture","NY56B","536","N","N"," "," ","åf³¾´n±¿¼tó´","MS",156
+"furniture","NY56B","536","N","N"," ","CNV","åf¸¼{´}n±¿tó´—","MS",156
+"furniture","NY57A","537a","N","N"," "," ","åf³¾´n±«¾tó´","MS",157
+"furniture","NY57A","537a","N","N"," "," ","åf³½¾ºn±¿tó´","MS",157
+"furniture","NY57B","537b","N","N"," "," ","åf³¾´n±«¾tó´","MS",158
+"furniture","NY57C!","537c!","N","N"," "," ","f³¾´ntó´","MS",159
+"furniture","NY57C!","537c!","N","N"," "," ","f³«´n±¿tó´","MS",159
+"furniture","NY58A","539a","N","N"," "," ","åf³¾´n±¿İtó´","MS",160
+"furniture","NY58B","539b","N","N"," "," ","åf³¾´n±¿tó°¾","MS",161
+"furniture","NY58C","539c","N","N"," "," ","åf³¾´n±«¾tó´«","MS",162
+"furniture","NY58D!","539d!","N","N"," "," ","f³«±¿½n±¿¼tó´«","MS",163
+"furniture","NY58D!","539d!","N","N"," "," ","åf³«±¿n±¾tó°","MS",163
+"furniture","NY58E!","539e!","N","N"," "," ","åÆ³¾´n±«¾tó´","MS",164
+"furniture","NY58E!","539e!","N","N"," "," ","åf³«¾´n±¾tó´","MS",164
+"furniture","NY58F!","539f!","N","N"," "," ","åf³¾±¿İn±¿¼tó°","MS",165
+"furniture","NY59A","543","N","N"," "," ","åf³¾´n±¿tó´","MS",166
+"furniture","NY59B","544","N","N"," "," ","f´n±¿tó´","MS",167
+"furniture","NY60A","545","N","N"," "," ","f³«´n±¿¼tó´","MS",168
+"furniture","NY60A","545","N","N"," "," ","f³«´n±¿tóu¼´","MS",168
+"furniture","NY60B!","546!","N","N"," "," ","f³«¾´n±«¾tó¹´","MS",169
+"furniture","NY61A","547","N","N"," "," ","åf³¾n±«¾tó´«¾","MS",170
+"furniture","NY61A","547","N","N"," ","CNV","åf³¾n±«¾tó´«","MS",170
+"furniture","NY61B","548","N","N"," "," ","åf³¾´n±¾tó´","MS",171
+"furniture","NY62A","551a","N","N"," "," ","f´«¾n±«¾tó´«","MS",172
+"furniture","NY62A","551a","N","N"," "," ","åf³¾´n±¿tó´","MS",172
+"furniture","NY62B","551b","N","N"," "," ","åf³¾´n±«¾tó´","MS",173
+"furniture","NY62C","551c","N","N"," "," ","åf³¾´n±«¾tó´«","MS",174
+"furniture","NY62C","551c","N","N"," ","CNV","åf³¾º{´}n±«¾tó´«","MS",174
+"furnitures","NY62D!","551d!","N","N"," "," ","åf³¾´n±«¾tó´z","MS",175
+"furniture","NY63A","556a","N","N"," "," ","åf³¾´n±«¾tó´","MS",176
+"furniture factory","NY63A","556a","O","N"," ","CNV","åf³«´n±«¾tó´$õfáktò±","MS",176
+"furniture","NY63B","556b","N","N"," "," ","åf´¾n±«¾tó´","MS",177
+"furniture","NY63C","556c","N","N"," "," ","f´n±¿«tó´","MS",178
+"furniture","NY63D!","556d!","N","N"," "," ","åf´¾n±«¾tó´","MS",179
+"furniture","NY64A","557a","N","N"," "," ","åf³¾´n±«¾õtó´—«","MS",180
+"furniture","NY64B","557b","N","N"," "," ","åf³½´n±¾tó´","MS",181
+"furniture","NY64C!","557c!","N","N"," "," ","åf³«´n±«¾tó´","MS",182
+"furniture","NJ1A","1","N","N"," "," ","f´n±¿tó´","MS",183
+"furniture","NJ1B","2","N","N"," "," ","åf´n±¿tó´","MS",184
+"furniture","NJ2A","3(*)","N","N"," "," ","f´n±¿tó´","MS",185
+"furniture","NJ2A","3(*)","N","Y"," ","AUX","f´½´n±¿tó´","MS",185
+"furniture","NJ2B","4","N","N"," "," ","f´n±¿İtó´","MS",186
+"furniture","NJ3A","5","N","N"," "," ","f´n°stó´","MS",187
+"furniture","NJ3B","6","N","N"," "," ","f´n±¿tó´","MS",188
+"furniture","NJ4A","7","N","N"," "," ","f´n±¿tó´","MS",189
+"furniture","NJ4B","8","N","N"," "," ","f´n°tó´","MS",190
+"furniture","NJ5A","9","N","N"," "," ","f´½n±¿tó´","MS",191
+"furniture","NJ5B","10","N","N"," "," ","f´n±¿tó´","MS",192
+"furniture","NJ6A","11","N","N"," "," ","f´n±¿tó´","MS",193
+"furniture","NJ6B","12","N","N"," "," ","f´n±¿tó´","MS",194
+"furniture","NJ7A","17","N","N"," "," ","f´n±¿«tó´","MS",195
+"furniture","NJ7B!","18!","N","N"," "," ","f{°}´n±¿tó´","MS",196
+"furniture","NJ8A","19","N","N"," "," ","åf´n±¿tó´","MS",197
+"furniture","NJ8B","20","N","N"," "," ","f´n±¿tó´","MS",198
+"furniture","NJ9A","21","N","N"," "," ","f°rn±¿tó´","MS",199
+"furniture","NJ9B","22","N","N"," "," ","f{°}´n±¿tó´","MS",200
+"furniture","NJ10A","24b","N","N"," "," ","fÀ{±¿½}n±¿tó°","MS",201
+"furniture","NJ10B","23","N","N"," "," ","f{°}´n±¿tó´","MS",202
+"furniture","NJ10C","24","N","N"," "," ","f{°½}´n±¿tó´","MS",203
+"furniture","NJ10D!","24c!","N","N"," "," ","f°½°n±¿tó°","MS",204
+"furniture","NJ11A","25","N","N"," "," ","f´İn±¿tó´","MS",205
+"furniture","NJ11B","26a","N","N"," "," ","f´n±¿«¼tó´","MS",206
+"furniture","NJ11C","26b","N","N"," "," ","f{°½}´n±¿tó´","MS",207
+"furniture","NJ12A","27","N","N"," "," ","f°İ¾rn±¿tó´","MS",208
+"furniture","NJ12B","28","N","N"," "," ","åf{°}´n±¿tó´","MS",209
+"furniture","NJ13A","29","N","N"," "," ","f{°}´n±¿tó´","MS",210
+"furniture","NJ13B","30","N","N"," "," ","åf´n±¿tó´","MS",211
+"furniture","NJ14A","31","N","N"," "," ","åf{°}´n±¿tó´","MS",212
+"furniture","NJ14B","32","N","N"," "," ","f{°}´n±¿tó´","MS",213
+"furniture","NJ15A","33","N","N"," "," ","f´ntó´","MS",214
+"furniture","NJ15B","34","N","N"," "," ","f{°}´n±¿tó´","MS",215
+"furniture","NJ16A","35","N","N"," "," ","f°´n±¿tó´","MS",216
+"furniture","NJ16B","36","N","N"," "," ","f°İrn±¿tó´","MS",217
+"furniture","NJ17A","37","N","N"," "," ","f{°}´İ«n±¿tó´","MS",218
+"furniture","NJ17B","38","N","N"," "," ","f´n±¿tó´","MS",219
+"furniture","NJ18A","41","N","N"," "," ","fÀ±¿n±¿tó°","MS",220
+"furniture","NJ18B","42","N","N"," "," ","f³{°}n±¿tó°","MS",221
+"furniture","NJ18C!","43!","N","N"," "," ","f´ºn±¿tó´","MS",222
+"furniture","NJ18D!","44!","N","N"," "," ","åf´n±¿tó´","MS",223
+"furniture","NJ19A","45","N","N"," "," ","f³{±¿}n±¿tó°","MS",224
+"furniture","NJ19B!","46!","N","N"," "," ","fÀ±¿n±¿tó°","MS",225
+"furniture","NJ20A","47","N","N"," "," ","f°İ{r}n±¿tó°İ{r}","MS",226
+"furniture","NJ20B","47b","N","N"," "," ","fÀ±¿n±¿tó°«","MS",227
+"furniture","NJ21A","48","N","N"," "," ","f´n±¿tó´","MS",228
+"furniture","NJ21B","49","N","N"," "," ","f{°}´n±¿tó´","MS",229
+"furniture","PA1A","51","N","N"," "," ","f´n±¿tó´İ","MS",230
+"furniture","PA1B","52","N","N"," "," ","f´n±¿tó´","MS",231
+"furniture","PA1C","53","N","N"," "," ","f´n±¿tó´","MS",232
+"furniture","PA1D","54","N","N"," "," ","åf´n±¿«tó´","MS",233
+"furniture","PA1E!","55!","N","N"," "," ","f´n±¿tó´","MS",234
+"furniture","PA1F!","56!","N","N"," "," ","f´n±¿tó´","MS",235
+"furniture","PA1G!","57!","N","N"," "," ","f´n±¿tó´","MS",236
+"furniture","PA1H!","58!","N","N"," "," ","f´«n±¿tó´«","MS",237
+"furniture","PA2A","59","N","N"," "," ","f´½n±¿tó´","MS",238
+"furniture","PA2B","60","N","N"," "," ","f´n±¿tó´","MS",239
+"furniture","PA3A","61","N","N"," "," ","f´n±¿tó´","MS",240
+"furniture","PA3B","62","N","N"," "," ","f´n±¿tó´","MS",241
+"furniture","PA3C","62b","N","N"," "," ","f´n±¿tó´","MS",242
+"furniture","PA4A","63","N","N"," "," ","f´n°tó´","MS",243
+"furniture","PA4B!","64!","N","N"," "," ","f´n°tó´","MS",244
+"furniture","PA5A","65(*)","N","N"," "," ","f´n±¿tó´","MS",245
+"furniture","PA5B","65b","N","N"," "," ","f´n±¿tó´","MS",246
+"furniture","PA5C","66","N","N"," "," ","f´n±¿tó´","MS",247
+"furniture","PA5D","67","N","N"," "," ","f´n±¿tó´","MS",248
+"furniture","PA5E!","68!","N","N"," "," ","f´n±¿«tó´","MS",249
+"furniture","PA6A","69","N","N"," "," ","f°{±¿}n±¿tó°{rŸÕ}","MS",250
+"furniture","PA6B","71","N","N"," "," ","f³{±¿}n±¿tó°{rŸÕ}","MS",251
+"furniture","PA6C","71b","N","N"," "," ","f°rŸÕn±¿dú°rŸÕ","MS",252
+"furniture","PA6D!","72!","N","N"," "," ","f´n±¿tó´","MS",253
+"furniture","PA7A","73","N","N"," "," ","f´n±¿tó´","MS",254
+"furniture","PA7B","74","N","N"," "," ","f´n±¿tó´","MS",255
+"furniture","PA7C","75","N","N"," "," ","f°İrn±¿tó°r","MS",256
+"furniture","PA7D!","76!","N","N"," "," ","f´n±¿tó´","MS",257
+"furniture","PA8A","77","N","N"," "," ","f´n±¿«tó´","MS",258
+"furniture","PA8B","78","N","N"," "," ","f´n°tó´","MS",259
+"furniture","PA8C","79","N","N"," "," ","f¸«¾n±¿tó°{r}","MS",260
+"furniture","PA8D!","80!","N","N"," "," ","f´n±¿tó´","MS",261
+"furniture","PA9A","83","N","N"," "," ","åf´n±¿tju½¼r","MS",262
+"furniture","PA9B","83b","N","N"," "," ","f°´n±¿tó´","MS",263
+"furniture","PA9C!","84!","N","N"," "," ","f´n±¿tó´","MS",264
+"furniture","PA10","87","N","N"," "," ","f°rn±¿tó°{rŸÕ}","MS",265
+"furniture","PA11A","89","N","N"," "," ","f´n±¿tó´","MS",266
+"furniture","PA11B","90(*)","N","N"," "," ","f´n±¿tó´","MS",267
+"furniture","PA11B","90(*)","N","Y"," ","AUX","f´İn±¿tó´İ","MS",267
+"furniture","PA12A","91","N","N"," "," ","åf´n±¿«tó´","MS",268
+"furniture","PA12B","92","N","N"," "," ","f´n±¿tó´","MS",269
+"furniture","PA13A","93","N","N"," "," ","f´n±¿tó´","MS",270
+"furniture","PA13B","94","N","N"," "," ","åf´n±¿«tó´","MS",271
+"furniture","PA14A","95(*)","N","N"," "," ","f°rn±¿tj°r","MS",272
+"furniture","PA14B","96","N","N"," "," ","f´n±¿«tó´","MS",273
+"furniture","PA14C"," ","N","N"," "," ","f°İrn±¿tó°{r}"," ",274
+"furniture","PA15A","99","N","N"," "," ","åf´n±¿tó´","MS",275
+"furniture","PA15B","99b","N","N"," "," ","f´n±¿tó´","MS",276
+"furniture","PA15C!","100!","N","N"," "," ","f´n±¿tó´","MS",277
+"furniture","PA16A","101","N","N"," "," ","f°rn°ó°{r}","MS",278
+"furniture","PA16B","102","N","N"," "," ","f´n±¿«tó´","MS",279
+"furniture","PA16C","103","N","N"," "," ","f´n±¿tó´","MS",280
+"furniture","PA17A","105","N","N"," "," ","f´n±¿tó°{rŸÕ}","MS",281
+"furniture","PA17B","106","N","N"," "," ","f°rn°tó°r","MS",282
+"furniture","PA18A","107","N","N"," "," ","f´n±¿tó´","MS",283
+"furniture","PA18B!","108!","N","N"," "," ","f°rn±¿tó´","MS",284
+"furniture","PA19A","113","N","N"," "," ","f´n±¿tó´","MS",285
+"furniture","PA19B","114","N","N"," "," ","f´n±¿tó´","MS",286
+"furniture","PA20A","115","N","N"," "," ","f´n±¿tó´","MS",287
+"furniture","PA20B","116","N","N"," "," ","åf´n±¿tó´","MS",288
+"furniture","PA21A","117","N","N"," "," ","åf´n±¿tó´","MS",289
+"furniture","PA21B","118","N","N"," "," ","f´n±¿tó´","MS",290
+"furniture","PA22A","119","N","N"," "," ","f´n±¿tó´","MS",291
+"furniture","PA22B","120","N","N"," "," ","f´n±¿tó´","MS",292
+"furniture","PA23A","121","N","N"," "," ","f´İn±¿tó´İ","MS",293
+"furniture","PA23B","122","N","N"," "," ","åf´n±¿tó´","MS",294
+"furniture","PA24A","123","N","N"," "," ","f´n±¿tó´","MS",295
+"furniture","PA24B","124","N","N"," "," ","f´n±¿tó´","MS",296
+"furniture","PA25A","125","N","N"," "," ","f´n±¿tó´","MS",297
+"furniture","PA25B","126","N","N"," "," ","f´n±¿«tó´","MS",298
+"furniture","PA26A","127","N","N"," "," ","f´n±¿tó´","MS",299
+"furniture","PA26B","128","N","N"," "," ","f´n±¿tj´","MS",300
+"furniture","PA27A","131","N","N"," "," ","f´n±¿tó´","MS",301
+"furniture","PA27B","132","N","N"," "," ","f´n±¿tó´","MS",302
+"furniture","PA28A","135","N","N"," "," ","f´n±¿tó´","MS",303
+"furniture","PA28B!","136!","N","N"," "," ","f´n±¿tó´","MS",304
+"furniture","PA29A","139(*)","N","N"," "," ","f´n±¿tó´","MS",305
+"furniture","PA29A","139(*)","N","Y"," ","AUX","f´n°tó´","MS",305
+"furniture","PA29B","140","N","N"," "," ","f´n±¿tó´«","MS",306
+"furniture","PA30A","143","N","N"," "," ","åf´n±¿õtóu½¼´","MS",307
+"furniture","PA30B","144","N","N"," "," ","f´İn±¿tó´","MS",308
+"furniture","PA31A","145","N","N"," "," ","f´n±¿tó´","MS",309
+"furniture","PA31B","146","N","N"," "," ","f´n±¿tó´","MS",310
+"furniture","PA32A","147","N","N"," "," ","f´«n°tó´","MS",311
+"furniture","PA32B","148","N","N"," "," ","f´«n±¿tó´«","MS",312
+"furniture","PA33A","151","N","N"," "," ","f°İ½rn±¿tó´","MS",313
+"furniture","PA33B","152","N","N"," "," ","f´n±¿tó´","MS",314
+"furniture","PA34A","155","N","N"," "," ","f°{r}n°tó´","MS",315
+"furniture","PA34B","156","N","N"," "," ","f´n±¿tó´","MS",316
+"furniture","PA34C!","155b!","N","N"," "," ","f´n°tó´","MS",317
+"furniture","PA35A","157","N","N"," "," ","f´n±¿tó´","MS",318
+"furniture","PA35B","158(*)","N","N"," "," ","f´n±¿tó´","MS",319
+"NR","PA35C"," "," ","N"," "," "," "," ",320
+"furniture","PA36A","159","N","N"," "," ","f´n±¿tó´","MS",321
+"furniture","PA36B","160","N","N"," "," ","f´İn±¿tó´İ","MS",322
+"furniture","PA37A","161(*)","N","N"," "," ","f°rn±¿tju¼{°}r","MS",323
+"furniture","PA37B","162","N","N"," "," ","f´n±¿tó´","MS",324
+"furniture","PA37C"," ","N","N"," "," ","f´n±¿«tó´"," ",325
+"furniture","PA38A","163","N","N"," "," ","åf´n±¿tó´","MS",326
+"furniture","PA38B","164","N","N"," "," ","f´n±¿tó´","MS",327
+"furniture","PA39A","165","N","N"," "," ","f´n°tóu¼´","MS",328
+"furniture","PA39B","166","N","N"," "," ","f´{n}±¿«tó´","MS",329
+"furniture","PA40A","167","N","N"," "," ","f´n±¿tó´","MS",330
+"furniture","PA40B","168","N","N"," "," ","f´n±¿tó´","MS",331
+"furniture","PA41A","171","N","N"," "," ","f´n±¿tó´","MS",332
+"furniture","PA41B","172","N","N"," "," ","f´n±¿«tó´","MS",333
+"furniture","PA42A","175","N","N"," "," ","f´n±¿tó´","MS",334
+"furniture","PA42B","176","N","N"," "," ","f´n±¿tó´","MS",335
+"furniture","PA43A","177","N","N"," "," ","f´n°ó´","MS",336
+"furniture","PA43B","178","N","N"," "," ","f´n±¿tó´","MS",337
+"furniture","PA44A","179","N","N"," "," ","f´n±¿tó´","MS",338
+"furniture","PA44B","180","N","N"," "," ","f´n±¿tó´","MS",339
+"furniture","PA45A","181","N","N"," "," ","f°İrn±¿tó´","MS",340
+"furniture","PA45B","182","N","N"," "," ","f°İrn±¿tó´","MS",341
+"furniture","PA46A","185","N","N"," "," ","f´n±¿tó´","MS",342
+"furniture","PA46B","186","N","N"," "," ","f´n±¿tó´","MS",343
+"furniture","PA47A","189","N","N"," "," ","f°İrn±¿tó´","MS",344
+"furniture","PA47B","190","N","N"," "," ","f°İrn±¿tó´","MS",345
+"furniture","PA48A","191","N","N"," "," ","f°İrn±¿tó´","MS",346
+"furniture","PA48B","192","N","N"," "," ","åf°İrn±¿tó´","MS",347
+"furniture","PA48C","193","N","N"," "," ","åf°İrn±¿tó´","MS",348
+"furniture","PA49A","194","N","N"," "," ","f°İrn±¿tó´","MS",349
+"furniture","PA49B","195","N","N"," "," ","f°İrn±¿tó´","MS",350
+"furniture","PA50A","196","N","N"," "," ","f°İrn±¿tó´","MS",351
+"furniture","PA50B","197","N","N"," "," ","f°İrn±¿tó´","MS",352
+"furniture","PA50C!","198!","N","N"," "," ","åf°İrn±¿tó´","MS",353
+"furniture","PA51A","199","N","N"," "," ","f°İrn±¿tó´","MS",354
+"furniture","PA51B","200","N","N"," "," ","f°İrn±¿tó´","MS",355
+"furniture","PA52A","201","N","N"," "," ","f°İrn±¿tó´","MS",356
+"furniture","PA52B!","202!","N","N"," "," ","f°İrn±¿tó´","MS",357
+"furniture","PA53A","203","N","N"," "," ","f°İrn±¿tó´","MS",358
+"furniture","PA53B","204","N","N"," "," ","f´n±¿tó°İrİ","MS",359
+"furniture","PA54A","205","N","N"," "," ","f°İrn±¿tó´","MS",360
+"furniture","PA54B","206","N","N"," "," ","f°İrn±¿tó´","MS",361
+"furniture","PA55A","207","N","N"," "," ","f{°}´n±¿tó´","MS",362
+"furniture","PA55B","208","N","N"," "," ","f°rn±¿«tó´","MS",363
+"furniture","PA56A","211(*)","N","N"," "," ","f°İrn±¿tó´","MS",364
+"furniture","PA56A","211(*)","N","Y"," ","AUX","f°İrn±¿tó´","MS",364
+"furniture","PA56B","212","N","N"," "," ","f°İrn±¿tó´","MS",365
+"furniture","PA57A","213","N","N"," "," ","f°½rn±¿tó´","MS",366
+"furniture","PA57B","214","N","N"," "," ","f°İrn±¿tó´","MS",367
+"furniture","PA58A","215","N","N"," "," ","åf°İrn±¿tó´","MS",368
+"furniture","PA58B","216","N","N"," "," ","f´n±¿tó´","MS",369
+"furniture","PA59A","219","N","N"," "," ","f{°}´n±¿tó´","MS",370
+"furniture","PA59B","220","N","N"," "," ","f°İrn±¿tó´","MS",371
+"furniture","PA60A","221","N","N"," "," ","åf°İrn±¿tó´","MS",372
+"furniture","PA60B","222","N","N"," "," ","f°İ½rn±¿tó´","MS",373
+"furniture","PA61A","223","N","N"," "," ","f°İrn±¿tó´","MS",374
+"furniture","PA61B","224","N","N"," "," ","f°İ½rn±¿tó´","MS",375
+"furniture","PA62A","229","N","N"," "," ","f°İrn±¿tó´","MS",376
+"furniture","PA62B","230","N","N"," "," ","åf°İrn±¿tó´","MS",377
+"furniture","PA63A","231","N","N"," "," ","åf°İrn±¿tó´","MS",378
+"furniture","PA63B","232","N","N"," "," ","f°İrn±¿tó´","MS",379
+"furniture","PA64A","233","N","N"," "," ","f´n±¿tó´","MS",380
+"furniture","PA64B","234","N","N"," "," ","f´n±¿tó´","MS",381
+"furniture","PA65A","237","N","N"," "," ","f´n±¿tó´","MS",382
+"furniture","PA65B","238","N","N"," "," ","f´n±¿tó´","MS",383
+"furniture","PA66A","239","N","N"," "," ","åf°İrn±¿tó´","MS",384
+"furniture","PA66B","240","N","N"," "," ","f´n±¿tó´","MS",385
+"furniture","PA67A","243","N","N"," "," ","f´n±¿tó´İ","MS",386
+"furniture","PA67B","244","N","N"," "," ","f´n±¿tó´","MS",387
+"furniture","WV1!","88!","N","N"," "," ","fÀ{°}n±¿tó°","MS",388
+"furniture","WV2","89","N","N"," "," ","f´n±¿İtó´","MS",389
+"furniture","WV3","91","N","N"," "," ","f´n±¿tó´","MS",390
+"furniture","WV4A","92","N","N"," "," ","f´n±¿tó´","MS",391
+"furniture","WV4B","93","N","N"," "," ","åf´{n}±¿İtó´","MS",392
+"furniture","WV5","94","N","N"," "," ","f´n±¿tó´","MS",393
+"furniture","WV6A","95","N","N"," "," ","f´n±¿tó´","MS",394
+"furniture","WV6B","96","N","N"," "," ","f¸«n±¿tó´","MS",395
+"furniture","WV7A","97","N","N"," "," ","f{°}´n±¿tó´","MS",396
+"furniture","WV7B","98","N","N"," "," ","f´n±¿tó´","MS",397
+"furniture","WV8A","97b","N","N"," "," ","åf{°}´n±¿tó´","MS",398
+"furniture","WV8B","98b","N","N"," "," ","f{°}´n±¿tó´","MS",399
+"furniture","WV9A","301","N","N"," "," ","f°İrn±¿tó´","MS",400
+"furniture","WV9B","302","N","N"," "," ","f´n±¿tó´","MS",401
+"furniture","WV10A","303","N","N"," "," ","f´n±¿tó´","MS",402
+"furniture","WV10B","303b","N","N"," "," ","f{°}´n±¿tó´","MS",403
+"furniture","WV10C","304","N","N"," "," ","f{°}´n±¿«tó´","MS",404
+"furniture","WV11A","305","N","N"," "," ","f°İrn±¿tó´","MS",405
+"furniture","WV11B!","306!","N","N"," "," ","f°İrn±¿tó´","MS",406
+"furniture","WV12A","307","N","N"," "," ","f{°}´n±¿t{±}´","MS",407
+"furniture","WV12B","308","N","N"," "," ","f{°}´n±¿tó´","MS",408
+"furniture","WV13A","309","N","N"," "," ","f{°}´n±¿tó´","MS",409
+"furniture","WV13B","310","N","N"," "," ","f{°}´n±¿tó´","MS",410
+"furniture","WV14A","311","N","N"," "," ","f{°}´n±¿tó´","MS",411
+"furniture","WV14B","312","N","N"," "," ","åf{°}´n±¿tó´","MS",412
+"furniture","WV15A","313","N","N"," "," ","f{°}´n±¿t{i½¾}u¿´","MS",413
+"furniture","WV15B","314","N","N"," "," ","åf{°}´n±¿tó´","MS",414
+"furniture","WV16A","315","N","N"," "," ","f{°}´n±¿t{±}´","MS",415
+"furniture","WV16B","316","N","N"," "," ","f°İrn±¿tó´","MS",416
+"furniture","WV17A","317","N","N"," "," ","f°İrn±¿tó´","MS",417
+"furniture","WV17B","317b","N","N"," "," ","f{°}´n±¿tó´","MS",418
+"furniture","WV17C","318","N","N"," "," ","f{°}´n±¿tó´","MS",419
+"furniture","WV18A","319","N","N"," "," ","f{°}´n±¿tó´","MS",420
+"furniture","WV18B","320","N","N"," "," ","f{°}´n±¿tó´","MS",421
+"furniture","WV19A","321","N","N"," "," ","f¸¼n±¿ó°","MS",422
+"furniture","WV19B","322","N","N"," "," ","f´n±¿tó´","MS",423
+"furniture","WV20A","323","N","N"," "," ","f°İrn±¿tó´","MS",424
+"furniture","WV20B","324","N","N"," "," ","f°İrn±¿tó´","MS",425
+"furniture","WV21A","325","N","N"," "," ","f°İrn±¿tó´","MS",426
+"furniture","WV21B","326","N","N"," "," ","f°İrn±¿tó´","MS",427
+"furniture","WV22A","327","N","N"," "," ","f{°}´n±¿tó´","MS",428
+"furniture","WV22B","328","N","N"," "," ","f°İrn±¿tó´","MS",429
+"furniture","WV23A","331","N","N"," "," ","åf{°}´n±¿«tó´","MS",430
+"furniture","WV23B","332","N","N"," "," ","f´n±¿tó´","MS",431
+"furniture","WV24A","335","N","N"," "," ","f´n±¿tó´","MS",432
+"furniture","WV24B","336","N","N"," "," ","f{°}´n±¿tó´","MS",433
+"furniture","WV25A","337","N","N"," "," ","f{°}´n±¿tó´","MS",434
+"furniture","WV25B","338","N","N"," "," ","f{°}´n±¿tó´","MS",435
+"furniture","WV26A","339","N","N"," "," ","f{°}´n±¿tó´","MS",436
+"furniture","WV26B","340","N","N"," "," ","f{°}´n±¿tó´","MS",437
+"furniture","WV27A","341","N","N"," "," ","åf{°}´n±¿tó´","MS",438
+"furniture","WV27B","342","N","N"," "," ","f{°}´n±¿tó´","MS",439
+"furniture","WV28A","343","N","N"," "," ","f{°}´n±¿tó´","MS",440
+"furniture","WV28B","344","N","N"," "," ","f{°}´n±¿t{i½¾}{°}´","MS",441
+"furniture","WV29A","345","N","N"," "," ","åf°´n±¿t±¿«","MS",442
+"furniture","WV29B","346","N","N"," "," ","f{°}´n±¿tó´","MS",443
+"furniture","WV30A","347","N","N"," "," ","f{°}´n±¿t°","MS",444
+"furniture","WV30B","348","N","N"," "," ","f{°}´n±¿t´","MS",445
+"furniture","WV31A","349","N","N"," "," ","åf{°}´İn±¿õt{i½¾}{°}´İ","MS",446
+"furniture","WV31B","350","N","N"," "," ","f°İrn±¿t´","MS",447
+"furniture","WV32A","353","N","N"," "," ","f°İrn±¿t´","MS",448
+"furniture","WV32B","354","N","N"," "," ","åf°İrn±¿tó´","MS",449
+"furniture","WV33A","355","N","N"," "," ","f°İrn±¿tó´","MS",450
+"furniture","WV33B","356","N","N"," "," ","f°İrn±¿t {i}u¿","MS",451
+"furniture","WV34A","359","N","N"," "," ","f{°}´nİ±¿tó´","MS",452
+"furniture","WV34B","360","N","N"," "," ","f¸¼n±¿tó´","MS",453
+"furniture","WV35A","361","N","N"," "," ","f{°}´n±¿t {j}u¿´","MS",454
+"furniture","WV35B","362","N","N"," "," ","åf{°}´n±¿«tó´","MS",455
+"furniture","WV36A","363","N","N"," "," ","f{°}´n±¿tó´","MS",456
+"furniture","WV36B","364","N","N"," "," ","f{°}´n±¿ó´","MS",457
+"furniture","WV37A","365","N","N"," "," ","f´n±¿tó´","MS",458
+"furniture","WV37B!","366!","N","N"," "," ","f{°}´n±¿tó´","MS",459
+"furniture","WV38A","367","N","N"," "," ","f{°}´n±¿tó´","MS",460
+"furniture","WV38B","368","N","N"," "," ","f{°}´n±¿«tó´İ","MS",461
+"furniture","WV39A","369","N","N"," "," ","f¸°n±¿tó´","MS",462
+"furniture","WV39B","370","N","N"," "," ","f´n±¿tó´","MS",463
+"furniture","WV39C!","371!","N","N"," "," ","f´n±¿tó´","MS",464
+"furniture","WV40A","373","N","N"," "," ","f{°}´n±¿tó´","MS",465
+"furniture","WV40B","374","N","N"," "," ","f{°}´n±¿tó´","MS",466
+"furniture","WV41A","375","N","N"," "," ","f°İrn±¿tó°","MS",467
+"furniture","WV41B","376","N","N"," "," ","f{°}´n±¿tó°¼","MS",468
+"furniture","WV42A","377","N","N"," "," ","f{°}´n±¿tó´","MS",469
+"furniture","WV42B","378","N","N"," "," ","åf{°}´n±¿tó´","MS",470
+"furniture","WV43A","381","N","N"," "," ","f{°}´n±¿tj´","MS",471
+"furniture","WV43B","382","N","N"," "," ","f{°}´n±¿tó´","MS",472
+"furniture","WV44A","383","N","N"," "," ","f´n±¿tó´","MS",473
+"furniture","WV44B","384","N","N"," "," ","f´n±¿tó´","MS",474
+"furniture","WV45A","385","N","N"," "," ","f´n±¿tó´","MS",475
+"furniture","WV45B","386","N","N"," "," ","f´n±¿tó´","MS",476
+"furniture","WV46A","387","N","N"," "," ","f´n±¿tó´","MS",477
+"furniture","WV46B","388","N","N"," "," ","f{°}´n±¿tó´","MS",478
+"furniture","WV47A","389","N","N"," "," ","f{°}´n±¿tó´","MS",479
+"furniture","WV47B","390","N","N"," "," ","f{°}´n±¿tó´","MS",480
+"furniture","WV48A","391","N","N"," "," ","f{°}´n±¿«tó´","MS",481
+"furniture","WV48B","391b","N","N"," "," ","f´n±¿tó´","MS",482
+"furniture","WV48C","392","N","N"," "," ","f{°}´n±¿tó´","MS",483
+"furniture","WV48D","392b","N","N"," "," ","f´n±¿tó´","MS",484
+"furniture","WV49A","393","N","N"," "," ","f°İrn±¿tó´","MS",485
+"furniture","WV49B","394","N","N"," "," ","f´n±¿tó´","MS",486
+"furniture","WV50A","395","N","N"," "," ","f°İrn±¿tó´","MS",487
+"furniture","WV50B","396","N","N"," "," ","f°İrn±¿tó´","MS",488
+"furniture","WV51A","261","N","N"," "," ","f{°}´n±¿tó´","MS",489
+"furniture","WV51B","262","N","N"," "," ","f°İrn±¿tó°r","MS",490
+"furniture","WV52A","258","N","N"," "," ","f{°}´n±¿İtó´","MS",491
+"furniture","WV52B","259","N","N"," "," ","f´n±¿tó´","MS",492
+"furniture","WV52C!","260!","N","N"," "," ","f´n±¿tó´","MS",493
+"furniture","WV53A","257","N","N"," "," ","f{°}´n±¿tó´","MS",494
+"furniture","WV53B","257b","N","N"," "," ","åf{°}´n±¿tó´","MS",495
+"furniture","WV53C!","257c!","N","N"," "," ","f´n±¿tó´","MS",496
+"furniture","WV54A","255","N","N"," "," ","f°İrn±¿tó´","MS",497
+"furniture","WV54B","256","N","N"," "," ","f°İrn±¿ó´","MS",498
+"furniture","DE1A","11","N","N"," "," ","f´n±¿tó´","MS",499
+"furniture","DE1B","12","N","N"," "," ","f´n±¿tó´","MS",500
+"furniture","DE1C!","13!","N","N"," "," ","f´n±¿tó´","MS",501
+"furniture","DE2A","15(*)","N","Y"," ","AUX","f´n±¿tó´","MS",502
+"furniture","DE2B","16","N","N"," "," ","f´n±¿tó´","MS",503
+"furniture","DE2C"," ","N","N"," "," ","f´{n}±¿İtó´","MS",504
+"furniture","DE3A","18","N","N"," "," ","f´n±¿tó´","MS",505
+"furniture","DE3B","19","N","N"," "," ","f´n±¿tó´","MS",506
+"furniture","DE3C!","17!","N","N"," "," ","f´n±¿tó´","MS",507
+"furniture","DE4","20","N","N"," "," ","f´n±¿tó´","MS",508
+"furniture","DE5A","21","N","N"," "," ","f´n±¿tó´","MS",509
+"housing goods","DE5A","21","O","N"," "," ","h¥¼¹zn$g¹dz","MS",509
+"furniture","DE5B","22","N","N"," "," ","f´n±¿tó´","MS",510
+"furniture","DE6A","23","N","N"," "," ","åf´n±¿tó´","MS",511
+"furniture","DE6B","24","N","N"," "," ","f´n±¿tó´","MS",512
+"furniture","MD1A","27","N","N"," "," ","f´n±¿tó´","MS",513
+"furniture","MD1B","28","N","N"," "," ","f´n±¿tó´","MS",514
+"furniture","MD2A","31a","N","N"," "," ","f³½´n±¿tó´","MS",515
+"furniture","MD2B","32","N","N"," "," ","f´n±¿İtó´","MS",516
+"furniture","MD3A","33","N","N"," "," ","f³{°}n±¿ó°","MS",517
+"furniture","MD3B","34","N","N"," "," ","f´İn±¿tó´","MS",518
+"furniture","MD4A","35b","N","N"," "," ","f´n±¿tó´","MS",519
+"furniture","MD4B","35","N","N"," "," ","f{°½}´n±¿tó´","MS",520
+"furniture","MD4C","36","N","N"," "," ","f´n±¿tó´","MS",521
+"house furnishing","MD4C","36","O","N"," "," ","åh³¾¹s$f´n±¿ó±¿î","MS",521
+"furniture","MD5A","37","N","N"," "," ","f´n±¿tó´","MS",522
+"furniture","MD5B","38","N","N"," "," ","f´½n±¿tó´","MS",523
+"furniture","MD6A","39(*)","N","N"," "," ","åf³{°}n±¿õt {i½¾}u¿º","MS",524
+"furniture","MD6A","39(*)","N","Y","[{i¿½¾}]: doubtful","AUX/FDT","åf³½°n±¿«õt{i¿½¾}u¿","MS",524
+"furniture","MD6B","40","N","N"," "," ","f´½n±¿tó´","MS",525
+"furniture","MD7A","41","N","N"," "," ","åf³´n±¿t±¿İ{±¿«}","MS",526
+"furniture","MD7B","41b","N","N"," "," ","f´n±¿tó´","MS",527
+"furniture","MD7C!","42!","N","N"," "," ","f³°n±¿tó°","MS",528
+"furniture","MD8A","43","N","N"," "," ","f³°n±¿tó°","MS",529
+"furniture","MD8B","44","N","N"," "," ","f³°n±¿tó°","MS",530
+"furniture","MD9N","N46","N","N"," "," ","f´n±¿tj°","MS",531
+"furniture","MD9A","45","N","N"," "," ","f{°}´n±¿tó´","MS",532
+"furniture","MD9B","46","N","N"," "," ","f°´n±¿tó´","MS",533
+"furniture","MD10A","49","N","N"," "," ","f³{°}n±¿tó°","MS",534
+"furniture","MD10B","50","N","N"," "," ","f´n±¿tó´","MS",535
+"furniture","MD11","51","N","N"," "," ","fÀ”{±¿½¾}n±¿tó°","MS",536
+"furniture","MD11","51","N","N"," "," ","f¸«¼n±¿tó°","MS",536
+"furniture","MD12A","52","N","N"," "," ","f´n±¿tó´","MS",537
+"furniture","MD12B","53","N","N"," "," ","f´n±¿tó´","MS",538
+"furniture","MD13A","54(*)","N","N"," "," ","f°İ´n±¿tó°","MS",539
+"furniture","MD13A","54(*)","N","N"," "," ","f³—n±¿tó´","MS",539
+"furniture","MD13B","55","N","N"," "," ","f´n±¿tó´","MS",540
+"furniture","MD13C","56","N","N"," "," ","f´n±¿tó´","MS",541
+"furniture","MD13D!","57!","N","N"," "," ","fÀ{°}n±¿½tó°","MS",542
+"furniture","MD13E!","58!","N","N"," "," ","f³ºn±¿½tó°","MS",543
+"furniture","MD13E!","58!","N","N","occasionally"," ","f³º{°}n±¿tó°","MS",543
+"furniture","MD13F!","59!","N","N"," "," ","f³{°}n°«tó°","MS",544
+"NR","MD13G"," "," ","N"," "," "," "," ",545
+"furniture","MD14","61(*)","N","N"," "," ","f´n±¿«tó´","MS",546
+"furniture","MD14","61(*)","N","Y"," ","AUX","f³½°n±¿tó°","MS",546
+"furniture","MD15A","62","N","N"," "," ","f´n±¿tó°","MS",547
+"furniture","MD15B","63","N","N"," "," ","f³{°}n±¿tó°","MS",548
+"furniture","MD16","64","N","N"," "," ","f´{n}±¿İtó´","MS",549
+"furniture","MD17A","65","N","N"," "," ","f´n±¿tó´","MS",550
+"furniture","MD17B","66","N","N"," "," ","f°½´n±¿tó´","MS",551
+"furniture","MD18A","67","N","N"," "," ","f³{°}n±¿tó°","MS",552
+"furniture","MD18B","68","N","N"," "," ","f°´n±¿tó°","MS",553
+"furniture","MD19A","69","N","N"," "," ","f³{°}n±¿ó°","MS",554
+"furniture","MD19B","70","N","N"," "," ","f°½³n±¿tó°","MS",555
+"furniture","MD20A","71","N","N"," "," ","f³İ´İn±¿tó°","MS",556
+"furniture","MD20B","72","N","N"," "," ","f³{°}n±¿tó°","MS",557
+"furniture","MD20C!","73!","N","N"," "," ","f³°n±¿tó°","MS",558
+"furniture","MD21A","75","N","N"," "," ","f¸«n±¿{t}ó°","MS",559
+"furniture","MD21B","76","N","N"," "," ","f³{°}n±¿tó°","MS",560
+"furniture","MD22N","N77","N","N"," "," ","f³{±¿½}´n±¿ó°","MS",561
+"furniture","MD22M","N78","N","N"," "," ","åf¸«¼n±¿ó°","MS",562
+"furniture","MD22A","77","N","N"," "," ","åf³{°}n±¿tó¹¿«°","MS",563
+"furniture","MD22B","78","N","N"," "," ","f¸«n±¿ó°","MS",564
+"furniture","MD22C!","79!","N","N"," "," ","f³{°}n±¿tó°","MS",565
+"furniture","MD23A","80b","N","N"," "," ","f¸«¼n±¿ó°","MS",566
+"furniture","MD23B","80a","N","N"," "," ","f³{°}n±¿dú°","MS",567
+"furniture","MD23C","81","N","N"," "," ","f³°n±¿tó°","MS",568
+"furniture","MD24","82","N","N"," "," ","f³{°}n±¿tó°","MS",569
+"furniture","MD25","84","N","N"," "," ","f´½´n±¿tó´","MS",570
+"furniture","MD26A","83","N","N"," "," ","f´n±¿İtó´","MS",571
+"furniture","MD26B","83A","N","N"," "," ","åf´n±¿tó´","MS",572
+"furniture","MD27A","85","N","N"," "," ","f´n±¿tó´","MS",573
+"furniture","MD27B","86","N","N"," "," ","f´n±¿tó´","MS",574
+"furniture","DC1A","99","N","N"," "," ","f³«¾º{°}n±¿tó°","MS",575
+"furniture","DC1B!","100!","N","N"," "," ","f³«ºn±¿tó°","MS",576
+"furniture","VA1!","101!","N","N"," "," ","fÀ«n±¿tó°","MS",577
+"furniture","VA2A","103","N","N"," "," ","f³{°«}n±¿tó°«","MS",578
+"house fixings","VA2A","103","O","N"," "," ","h²½¾¹s$f±¾ks±¿½nz","MS",578
+"furniture","VA2B","104","N","Y"," ","AUX","f¸n±¿t {i½¾}u¿½","MS",579
+"furniture","VA3A","105(*)","N","N"," "," ","f´n±¿tó´","MS",580
+"furniture","VA3B","106","N","N"," "," ","f´n±¿tó´","MS",581
+"furniture","VA3C"," ","N","N"," "," ","f´n±¿tó´"," ",582
+"furniture","VA4N","N109","N","N"," "," ","f¸«ºn±¿tó°","MS",583
+"house furniture","VA5A","107","O","N"," "," ","h°½¼¹½¼s$f¸—«¼n±¿tó°","MS",584
+"furniture","VA5B","108","N","N"," "," ","f³n±¿tó°","MS",585
+"furniture","VA6A","113","N","N"," "," ","f¸«¼n±¿tó°","MS",586
+"furniture","VA6B","114","N","N"," "," ","f´n±¿tó°","MS",587
+"furniture","VA7A","121","N","N"," "," ","f³¾º{°}n±¿tó°","MS",588
+"furniture","VA7B","122","N","N"," "," ","f³{°}n±¿t{j}°","MS",589
+"furniture","VA8A","123","N","N"," "," ","f³¾{°}n±¿tó°","MS",590
+"furniture","VA8B","124","N","N"," "," ","f³{°}n±¿tó°«","MS",591
+"furniture","VA8C!","125!","N","N"," "," ","f³{°}n±¿tó°","MS",592
+"furniture","VA9A","117","N","N","[³—]: allophone of /¸/"," ","f³—{°}n±¿t {i½¾}u¿½¾","MS",593
+"furniture","VA9B!","118!","N","N"," "," ","f³{°}n±¿tó°","MS",594
+"furniture","VA10A","127","N","N"," "," ","f³½°n±¿tó°","MS",595
+"furniture","VA10B","128","N","N"," "," ","f³n±¿tó°","MS",596
+"furniture","VA11A","129","N","N"," "," ","f³—{°}n±¿tó°","MS",597
+"furniture","VA11B","130","N","N"," "," ","f³{°}n±¿tó°","MS",598
+"house furniture","VA12N","N131","O","N"," "," ","õh¶«¼¹«¾s$åf¸¾n±¿ó°","MS",599
+"house furniture","VA12A","131","O","N"," "," ","h°½u½¼s$f³{°}n±¿ó°","MS",600
+"furniture","VA12B!","132!","N","N"," "," ","f³{°}n±¿tó°","MS",601
+"furniture","VA13A","133","N","N"," "," ","f³´n±¿tó°","MS",602
+"furniture","VA13B","134","N","N"," "," ","f³İ´İn±¿tó°","MS",603
+"furniture","VA14A","135","N","N"," "," ","f³º{°}n±¿tó°","MS",604
+"house fixings","VA14A","135","O","N"," "," ","åh²İ½¾¹«s$õf±ks±¿½nz","MS",604
+"house tricks","VA14A","135","O","Y"," ","SUG","åh²İ½¾¹«s$õtr±ks","MS",604
+"furniture","VA14B","136","N","N"," "," ","f°´n±¿tó°","MS",605
+"furniture","VA14C","137","N","N"," "," ","f³{°}n±¿t j°","MS",606
+"furniture","VA15N","N139(*)","N","N"," "," ","f¸n±¿ó°","MS",607
+"furniture","VA15N","N139(*)","N","Y"," ","AUX","f¸—n±¿ó°","MS",607
+"furniture","VA15N","N139(*)","N","Y"," ","AUX","f³½{°}n±¿ó°","MS",607
+"furniture","VA15N","N139(*)","N","N"," "," ","f¸¼n±¿ó°","MS",607
+"furniture","VA15A","139","N","N"," "," ","f³{°}n±¿tó°","MS",608
+"furniture","VA15B","140","N","N"," "," ","f³°n±¿tó°","MS",609
+"furniture","VA16A","141","N","N"," "," ","fÀ¾º{°}n±¿tó°","MS",610
+"furniture","VA16B","142","N","N"," "," ","fÀ«ºn±¿tó°","MS",611
+"furniture","VA17A","143","N","N"," "," ","f¸«{°}n±¿ó°«","MS",612
+"furniture","VA17B","144","N","N"," "," ","åf³º{°}n±¿tó°","MS",613
+"furniture","VA18","145","N","N"," "," ","f°İ³İn±¿tó°","MS",614
+"furniture","VA19A","146","N","N"," "," ","f³½{°}n±¿tó°¾","MS",615
+"furniture","VA19B","147","N","N"," "," ","f¸°n±¿tó°","MS",616
+"furniture","VA19C!","148!","N","N"," "," ","f³°n±¿tó°","MS",617
+"furniture","VA20A","149","N","N"," "," ","f³¾n±¿tó°","MS",618
+"furniture","VA20B","150(*)","N","N"," "," ","f³{°}n±¿tó°","MS",619
+"furniture","VA20C"," ","N","N"," "," ","f°´n±¿tó°«"," ",620
+"house furniture","VA21N","N153","O","N"," "," ","h¥½¾¹¾s$f³{±¿½}{n}±¿İtó°","MS",621
+"furniture","VA21A","153","N","N"," "," ","f¸{°}n±¿t j°","MS",622
+"furniture","VA21B","154","N","N"," "," ","f¸{°}n±¿{t}ó°","MS",623
+"furniture","VA22","155","N","N"," "," ","f³½{°}n±¿tó°","MS",624
+"furniture","VA23A","156","N","N"," "," ","f°´n±¿tó°","MS",625
+"furniture","VA23B","157","N","N"," "," ","f³n±¿½tó°","MS",626
+"furniture","VA24","159","N","N"," "," ","f³«{°}n±¿tó°","MS",627
+"furniture","VA25","160(*)","N","N"," "," ","f°´n±¿tó´","MS",628
+"furniture","VA25","160(*)","N","Y"," ","AUX","f°´n±¿tó´«","MS",628
+"furniture","VA26A","161A","N","N"," "," ","f³½³n±¿tó°","MS",629
+"furniture","VA26B","161","N","N"," "," ","f°´n±¿tó´","MS",630
+"furniture","VA26C","162","N","N"," "," ","f³{°}n±¿{t}ó°","MS",631
+"furniture","VA27","163(*)","N","N"," "," ","f{°}´n±¿tó´","MS",632
+"furniture","VA27","163(*)","N","Y"," ","AUX","f´n±¿tó´«","MS",632
+"furniture","VA28A","164","N","N"," "," ","f³{°}n±¿tó°","MS",633
+"furniture","VA28B","165","N","N"," "," ","f³{°}n±¿tó°","MS",634
+"furniture","VA29","166","N","N"," "," ","f³{°}n±¿tó°","MS",635
+"furniture","VA30A","167","N","N"," "," ","f³°n±¿tó°","MS",636
+"furniture","VA30B!","167a!","N","N"," "," ","f³ºn±¿tó°","MS",637
+"furniture","VA30C!","168!","N","N"," "," ","f³{°}{n}±¿½tó°","MS",638
+"furniture","VA30D!","169!","N","N"," "," ","f³ºn±¿tó°","MS",639
+"furniture","VA30E!","170!","N","N"," "," ","f³«¼ºn±¿tó°","MS",640
+"furniture","VA31A","171(*)(**)","N","N"," "," ","f³{°}n±¿t{±«}u¿½¼","MS",641
+"furniture","VA31B","172","N","N"," "," ","f³{°}n±¿tó°","MS",642
+"furniture","VA31A","171(*)(**)","N","Y"," ","AUX","f³½{°}n±¿t j°","MS",641
+"furniture","VA32!","175!","N","N"," "," ","f³—{°}n±¿tó°","MS",644
+"furniture","VA33A","173","N","N"," "," ","f³{°}n±¿tó°","MS",645
+"furniture","VA33B","174","N","N"," "," ","f³{°}n±¿tó°","MS",646
+"furniture","VA34A","177(*)","N","Y"," ","AUX","f³{°}n±¿ó°","MS",647
+"furniture","VA34B","178","N","N"," "," ","f³—{°}n±¿tó°","MS",648
+"furniture","VA35A","179","N","N"," "," ","f³{°}n±¿tó°","MS",649
+"furniture","VA35B","180","N","N"," "," ","f³{°}n±¿tó°","MS",650
+"furniture","VA36A","181","N","N"," "," ","f³{°}n±¿tó°","MS",651
+"furniture","VA36B","182","N","N"," "," ","f³«{°}n±¿tó°","MS",652
+"furniture","VA37","183","N","N"," "," ","åf¸n±¿õt {i}u¿","MS",653
+"furniture","VA38","185","N","N"," "," ","f³n±¿tó°","MS",654
+"furniture","VA39!","186!","N","N"," "," ","fÀ«¼º{°}n±¿tó°","MS",655
+"furniture","VA40A","187","N","N"," "," ","f°½´n±¿t {i½¾}°´","MS",656
+"furniture","VA40B","188","N","N"," "," ","f°İ½´n±¿tó´","MS",657
+"furniture","VA41A","191","N","N"," "," ","f³½{°}n±¿t {±}u¿İ½","MS",658
+"furniture","VA41B","192","N","N"," "," ","f³{°}n±¿tó°","MS",659
+"furniture","VA42A","193(*)(**)","N","N"," "," ","f¸«n±¿t {i}u¿","MS",660
+"furniture","VA42A","193(*)(**)","N","Y"," ","AUX","f´«n±¿t {±«}°","MS",660
+"furniture","VA42A","193(*)(**)","N","Y"," ","AUX2","f¸n±¿t {i½¾}u¿","MS",660
+"furniture","VA42B","194","N","N"," "," ","f°³n±¿tó°","MS",661
+"furniture","VA43N","N195","N","N"," "," ","f¸«n±¿tó°","MS",662
+"furniture","VA43A","195","N","N"," "," ","f³{°}n±¿t {±«}u¿İ°","MS",663
+"furniture","VA43B","196","N","N"," "," ","fÀ{°}n±¿{t}ó°","MS",664
+"furniture","VA44A","199","N","N"," "," ","fÀ´n±¿tó°","MS",665
+"furniture","VA44B","200","N","N"," "," ","f³³n±¿tó°«","MS",666
+"house furniture","VA45A","201","O","N"," "," ","h°½¼¹«¼s$f³n±¿½t°","MS",667
+"house plunder","VA45A","201","O","Y","often","SUG/OLD","h°½¼¹«¼s$pl¸¾{°}nd°","MS",667
+"furniture","VA45B","202","N","N"," "," ","f³{°}n±¿t {±«¾}°","MS",668
+"furniture","VA46N","N207","N","N"," "," ","f¸n±¿tó°«","MS",669
+"furniture","VA46A","207","N","N"," "," ","f³{°}n±¿tó°","MS",670
+"plunder","VA46A","207","N","N","natural"," ","pl¸nd°","MS",670
+"plunder","VA46A","207","N","Y","old things","AUX","pl¸nd°","MS",670
+"furniture","VA46A","207","N","Y"," ","AUX","f¸n±¿ó°","MS",670
+"furniture","VA46B!","208!","N","N"," "," ","f³º{°«¼}n±¿tó°","MS",671
+"furniture","VA47","211","N","N"," "," ","f¸{°}n±¿ó°","MS",672
+"furniture","VA48A","213(*)","N","N"," "," ","åf³´n±¿t {±«}u¿¾","MS",673
+"furniture","VA48A","213(*)","N","Y"," ","AUX","f³«¾°n±¿tó°","MS",673
+"furniture","VA48B","214","N","N"," "," ","f³ºn±¿tó°","MS",674
+"furniture","VA49A","215","N","N"," "," ","f¸«{°}n±¿tó°","MS",675
+"furniture","VA49B","216","N","N"," "," ","f´ºn±¿tó°","MS",676
+"furniture","VA50A","217","N","N"," "," ","f¸«n±¿tó°","MS",677
+"furniture","VA50B","218","N","N"," "," ","f³{°}n±¿tó°","MS",678
+"furniture","VA51A","219","N","N"," "," ","f¸—«º{°}n±¿t {±«}°","MS",679
+"house plunder","VA51A","219","O","Y"," ","SUG/OLD","h°¹«s$pl¸—«{°}nd°","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"furniture","VA51C"," ","N","N"," "," ","f³{°}n±¿tó°"," ",681
+"furniture","VA52A","224","N","N"," "," ","f´n±¿tó´","MS",682
+"furniture","VA52B","225","N","N"," "," ","f³İ´İn±¿tó°","MS",683
+"furniture","VA52C!","226!","N","N"," "," ","f³{°}n±¿tó°","MS",684
+"furniture","VA53A","227","N","Y"," ","SUG","f´n±¿tó´","MS",685
+"plunder","VA53A","227","N","Y"," ","SUG/OLD","pì¸«{°}nd´","MS",685
+"house property","VA53A","227","O","N"," "," ","ha¾¹s$prµ«¾p°t±¿½{±¿}","MS",685
+"furniture","VA53B","228","N","N"," "," ","f´n±¿İtó´","MS",686
+"furniture","VA54A","229","N","N"," "," ","f´nn– İtó´","MS",687
+"plunder","VA54A","229","N","Y"," ","SUG/HRD","pl¸«{°}nd´","MS",687
+"furniture","VA54B","230","N","N"," "," ","f³«ºn±¿tó°«","MS",688
+"furniture","VA55A","233(*)","N","N"," "," ","f´{n}±¿İtó´","MS",689
+"furniture","VA55A","233(*)","N","Y"," ","AUX","f´n±¿tó´","MS",689
+"furniture","VA55B","234(*)","N","N"," "," ","f´«n±¿İtó°«","MS",690
+"furniture","VA55B","234(*)","N","Y"," ","AUX","f´n±¿tó´«","MS",690
+"furniture","VA56A","237","N","N"," "," ","f´{n}±¿İtó´","MS",691
+"furniture","VA56B","238","N","N"," "," ","f´ºn±¿tó´","MS",692
+"furniture","VA57A","239","N","N"," "," ","f¸n±¿tó´","MS",693
+"furniture","VA57B","240","N","N"," "," ","f³İ³İn±¿tó°","MS",694
+"house furniture","VA58","241(*)","O","N"," "," ","h°us$f¸«¼n±¿t {i}u¿½","MS",695
+"NR","VA59N","N241"," ","N"," "," "," ","MS",696
+"furniture","VA59A","242","N","N"," "," ","f³{°«}n±¿tó°","MS",697
+"furniture","VA59B!","243!","N","N"," "," ","f³«¾{°}n±¿tó°","MS",698
+"furniture","VA60","244(*)","N","Y"," ","AUX","f´ºn±¿tó´","MS",699
+"furniture","VA61A","245(*)","N","N"," "," ","åf´n±¿tó´İ","MS",700
+"furniture","VA61B!","246!","N","N"," "," ","f´n±¿tó´","MS",701
+"NA","VA61C"," "," ","N"," "," "," "," ",702
+"furniture","VA62A","247(*)","N","N"," "," ","f¸—«{°}n±¿t {i}u¿","MS",703
+"furniture","VA62A","247(*)","N","Y"," ","AUX","f¸«¼{°}n±¿tó°","MS",703
+"furniture","VA62B","248","N","N"," "," ","f³n±¿tó°","MS",704
+"furniture","VA63A","251","N","N"," "," ","f´n±¿tó´","MS",705
+"furniture","VA63B","252","N","N"," "," ","f´ºn±¿tó´","MS",706
+"house plunder","VA63B","252","O","N"," "," ","h¥¼¹s$pl¸«{°}nd´","MS",706
+"furniture","VA64A","255","N","N"," "," ","f³°n±¿t {i½¾}u¿½","MS",707
+"furniture","VA64B","256","N","N"," "," ","åf´ºn±¿tó°«","MS",708
+"furniture","VA65A","257","N","N"," "," ","f³n°tó´","MS",709
+"plunder","VA65A","257","N","N"," "," ","pl¸«nd´","MS",709
+"furniture","VA65B","258","N","N"," "," ","åf´n±¿tó´","MS",710
+"house plunder","VA65B","258","O","N","furniture"," ","åhá¾¹s$õpl¸nd´","MS",710
+"goods and chattels","VA65B","258","O","N","all possessions"," ","g¹¿{°}dz$n$tóátìz","MS",710
+"furniture","VA65C!","259!","N","N"," "," ","f³ºn±¿t {±«¾}°","MS",711
+"furniture","VA66A","261","N","N"," "," ","f¸«¼n±¿t {i½¾}u¿¾","MS",712
+"furniture","VA66B","262","N","N"," "," ","f¸{°}n±¿ó°","MS",713
+"furniture","VA67A","267","N","N"," "," ","f°´n±¿tó´«","MS",714
+"furniture","VA67B","268","N","N"," "," ","f¸°n±¿tó°","MS",715
+"furniture","VA68A","269","N","N"," "," ","f´ºn±¿tó°","MS",716
+"furniture","VA68B","270","N","N"," "," ","f´ºn±¿t {±«¾}u¿½","MS",717
+"furniture","VA69A","273","N","N"," "," ","f³°n±¿tó°","MS",718
+"furniture","VA69B","274","N","N"," "," ","f³½°n±¿tó°","MS",719
+"furniture","VA70A","275","N","N"," "," ","f³{n}±¿İ«tó´","MS",720
+"house plunder","VA70A","275","O","N"," "," ","há¾¹«s$pl¸ş«nd´","MS",720
+"furniture","VA70B","276","N","N"," "," ","f´ºn±¿tó´","MS",721
+"furniture","VA71A","285","N","N"," "," ","f°°n±¿tó°","MS",722
+"furniture","VA71B","286","N","N"," "," ","f°°«n±¿tó°«","MS",723
+"furniture","VA72A","287","N","N"," "," ","f{°}´n±¿tó´","MS",724
+"house plunder","VA72A","287","O","N"," "," ","åháº¹¿s$õpl³½º{°}nd´","MS",724
+"furniture","VA72B","288","N","N"," "," ","f´n±¿tó´","MS",725
+"house plunder","VA72B","288","O","Y"," ","OLD","åhá½:¹¿½s$õpì¸«¼º{°}nd´","MS",725
+"furniture","VA73","291","N","N"," "," ","f{°}´n±¿tó´","MS",726
+"house tricks","VA73","291","O","N"," "," ","háº¹¿s$tr±ks","MS",726
+"furniture","VA74A","293","N","N"," "," ","f´ºn±¿tó°","MS",727
+"furniture","VA74A","293","N","N"," "," ","f³ºn±¿tó°","MS",727
+"furniture","VA74B!","294!","N","N"," "," ","f°³n±¿tó°«","MS",728
+"furniture","VA75A","297","N","N"," "," ","f´½{´}n±¿tó´","MS",729
+"furniture","VA75B","298","N","N"," "," ","f°{°«}n±¿tó°«","MS",730
+"furniture","NC1","303","N","N"," "," ","f´n±¿tó°«","MS",731
+"furniture","NC2A","301","N","Y"," ","AUX2","åf´ºn±¿tó°","MS",732
+"fixtures","NC2A","301","N","Y"," ","AUX2/SUG/OLD","åf±kstr±¿z","MS",732
+"furniture","NC2B","304","N","N"," "," ","f³{°}n±¿tó°{°}","MS",733
+"furniture","NC3A","305","N","N"," "," ","f³°n±¿tó°","MS",734
+"furniture","NC3B","306","N","N"," "," ","f³°n±¿tó°","MS",735
+"furniture","NC4A","307","N","N"," "," ","f¸«n±¿t {iº}u¿İ°","MS",736
+"furniture","NC4B","308","N","N"," "," ","f³½´n±¿tó°","MS",737
+"furniture","NC5A","309","N","N"," "," ","f³°n±¿t {i½¾}°","MS",738
+"furniture","NC5B","310","N","N"," "," ","f³{°}n±¿tó°","MS",739
+"furniture","NC6!","311!","N","N"," "," ","fÀ{±¿½}n±¿tó°","MS",740
+"furnitures","NC7A","315(*)","N","Y"," ","AUX","f³{°}n±¿tóju¿½°z","MS",741
+"plunder","NC7A","315(*)","N","Y","especially of old kitchen furniture","AUX/OLD","pl¸«{°}nd°","MS",741
+"furniture","NC7B","316","N","N"," "," ","f³´n±¿tó°","MS",742
+"furniture","NC8N","N317","N","N"," "," ","f³{°}n±¿tó°","MS",743
+"furniture","NC8A","317","N","N"," "," ","f°´n±¿t {i}u¿º´","MS",744
+"furniture","NC8B","318(*)","N","N"," "," ","f³{°}n±¿ó°","MS",745
+"furniture","NC8B","318(*)","N","Y"," ","AUX","f¸—n±¿tó°¾","MS",745
+"furniture","NC9A","319","N","N"," "," ","fÀ{°}n±¿t {i}u¿","MS",746
+"furniture","NC9B","320","N","N"," "," ","fÀºn±¿tó°","MS",747
+"furniture","NC10A","321","N","N"," "," ","f°rn±¿tó´","MS",748
+"house rig-up","NC10A","321","O","N","not ""boughten¢"," ","õh²½¾¹s$år±g¸«ºp","MS",748
+"furniture","NC10B","323","N","N"," "," ","f³°n±¿tj´","MS",749
+"furniture","NC10C","322","N","N"," "," ","f³´n±¿t {j}´","MS",750
+"furniture","NC11A","325","N","N"," "," ","f³½´n±¿t {i½¾}u¿´","MS",751
+"furniture","NC11B","326","N","N"," "," ","f´ºn±¿tó´","MS",752
+"furniture","NC12A","327(*)","N","N"," "," ","f³´n±¿t {i½¾}u¿","MS",753
+"furniture","NC12A","327(*)","N","Y"," ","AUX","f³«n±¿tó°","MS",753
+"plunder","NC12A","327(*)","N","Y"," ","AUX/SUG/OLD","pl¸{°}nd°","MS",753
+"furniture","NC12B","328","N","N"," "," ","f¸—½¼{°}n±¿tó°","MS",754
+"furniture","NC13A","329","N","N"," "," ","f³´n±¿tó´","MS",755
+"trumpery","NC13A","329","N","N"," "," ","tò¸—mpr±¿","MS",755
+"furniture","NC13B","330(*)","N","N"," "," ","f°´n±¿t {±«}´","MS",756
+"furniture","NC13B","330(*)","N","Y"," ","AUX","f³°n±¿tó°","MS",756
+"furniture","NC14N","N331","N","N"," "," ","f³½{°}n±¿t {i½¾}u¿","MS",757
+"furniture","NC14A","331","N","N"," "," ","f³½{°}n±¿tó°","MS",758
+"furniture","NC14B","332","N","N"," "," ","åf´«n±¿tó´","MS",759
+"plunder","NC14B","332","N","Y"," ","OLD","pl¸¼º{°}nd°","MS",759
+"house fixings","NC14B","332","O","Y"," ","SUG/HRD","åha«¹s$õf±ks±¿nz","MS",759
+"furniture","NC14C!","333!","N","N"," "," ","fÀ±¿«n±¿tó°","MS",760
+"furniture","NC15A","335(*)","N","N"," "," ","åf¸«¼n±¿õt {i}u¿¼","MS",761
+"furniture","NC15B","336","N","N"," "," ","fÀ½´n±¿t {i½¾}u¿{°}","MS",762
+"furniture","NC15C"," ","N","N"," "," ","f¸—«ºn±¿t {i}u¿"," ",763
+"furniture","NC16A","339(*)","N","N"," "," ","f¸«¼{°}n±¿t {i½¾}u¿","MS",764
+"furniture","NC16A","339(*)","N","Y"," ","AUX","f¸—«¼n±¿'t°","MS",764
+"furniture","NC16B","340","N","N"," "," ","åf³½°n±¿õt {i}u¿{°}","MS",765
+"furniture","NC17A","337","N","N"," "," ","f³´n±¿t {i}u¿İ°","MS",766
+"house plunder","NC17A","337","O","N"," "," ","åhá½º¹¿½s$õpl¸—¾º{°}nd°","MS",766
+"furniture","NC17B","338","N","N"," "," ","f¸¼n±¿tó°","MS",767
+"furniture","NC18A","341","N","N"," "," ","f´n±¿t {i}u¿","MS",768
+"furniture","NC18B","342","N","N"," "," ","f³ºn±¿t{i½¾}°","MS",769
+"furniture","NC19A","343","N","N"," "," ","f´½´n±¿t {i½¾}u¿{´}","MS",770
+"furniture","NC19B","344","N","N"," "," ","f³°n±¿tó°","MS",771
+"furniture","NC20A","345","N","N"," "," ","f´ºn±¿tj´","MS",772
+"furniture","NC20B","346a","N","N"," "," ","f´n±¿t {±«¼}°","MS",773
+"furniture","NC20C","346b","N","N"," "," ","f³İ´n±¿tó°","MS",774
+"furniture","NC21A","347","N","N"," "," ","f³½´n±¿t {i½¾}u¿½´","MS",775
+"furniture","NC21B","348","N","N"," "," ","f³½´n±¿t {i}u¿{°}","MS",776
+"furniture","NC22A","349","N","N"," "," ","f³½{°}n±¿tó°","MS",777
+"furniture","NC22B","349b","N","N"," "," ","f³{°}n±¿tó°","MS",778
+"furniture","NC23A","351a","N","N"," "," ","f¸{°}n±¿tó°","MS",779
+"furniture","NC23B","351b(*)","N","N"," "," ","f³«n±¿tó°","MS",780
+"furniture","NC23B","351b(*)","N","Y"," ","AUX","f³½{°}n±¿tó°","MS",780
+"furniture","NC23C!","351c!","N","N"," "," ","fÀ«ºn±¿tó°","MS",781
+"furniture","NC23D!","351d!","N","N"," "," ","f³«ºn±¿tó°","MS",782
+"furniture","NC24N","N352","N","N"," "," ","f¸{°}n±¿t±¿","MS",783
+"furniture","NC24A","352a","N","N"," "," ","f³½´n±¿tó°","MS",784
+"furniture","NC24B","352b","N","N"," "," ","f´n±¿tó´","MS",785
+"furniture","NC25N","N353","N","N"," "," ","f´ºn±¿t i¾u¿","MS",786
+"plunder","NC25N","N353","N","N"," "," ","pl¸«{°}nd°","MS",786
+"furniture","NC25A","353","N","N"," "," ","f´n±¿t {i½¾}u¿İ½´","MS",787
+"furniture","NC25B","354","N","N"," "," ","f³n±¿tó°","MS",788
+"plunder","NC25B","354","N","Y","slangish","SUG","pl¸«nd°","MS",788
+"furniture","NC26A","355a","N","N"," "," ","f´n±¿t {i}u¿İ°","MS",789
+"furniture","NC26B","355b","N","N"," "," ","f³½°n±¿t {i½¾}u¿°","MS",790
+"furniture","NC26C!","356!","N","N"," "," ","f³«ºn±¿tó°","MS",791
+"furniture","NC27A","357","N","N"," "," ","f³½´n±¿t {i½¾}u¿½´","MS",792
+"furniture","NC27B","358","N","N"," "," ","f°³n±¿tó°","MS",793
+"furniture","NC28A","361","N","N"," "," ","f{°}´n±¿t {i}u¿´","MS",794
+"furniture","NC28B","361b","N","N"," "," ","f´ºn±¿t {i½¾}u¿´","MS",795
+"furniture","NC28C","362","N","N"," "," ","f³n±¿tó°","MS",796
+"furniture","NC29A","363(*)","N","N"," "," ","åf³°n±¿tju¿","MS",797
+"house plunder","NC29A","363(*)","O","N","oftener"," ","ha¹s$pl¸«{°}nd°","MS",797
+"furniture","NC29A","363(*)","N","Y"," ","AUX","f´n±¿tj¹İ«°","MS",797
+"plunder","NC29A","363(*)","N","Y"," ","AUX","pl¸nd°","MS",797
+"furniture","NC29B","364","N","N"," "," ","f´n±¿t{i½¾}´","MS",798
+"furniture","NC30A","365","N","N"," "," ","f³½{°}n±¿t {±}u¿İ","MS",799
+"furniture","NC30B","366","N","N"," "," ","f³{°}n±¿t{i}u¿İ°","MS",800
+"furniture","NC31A","367","N","N"," "," ","f³{°}n±¿t{i½¾}°","MS",801
+"furniture","NC31B","368","N","N"," "," ","f³{°«}n±¿tó°","MS",802
+"furniture","NC32A","369","N","N"," "," ","f³{°}n±¿t i—İu¿İ","MS",803
+"plunder","NC32A","369","N","Y"," ","SUG","pl¸«º{°}nd°","MS",803
+"house fixings","NC32A","369","O","Y"," ","SUG/OLD","åhá¾¹¿s$õf±ks±¿½¾nz","MS",803
+"furniture","NC32B!","370!","N","N"," "," ","f³—º{°}n±¿tó°","MS",804
+"furniture","NC33A","373","N","N"," "," ","f´—ºn±¿t {i}u¿{°}","MS",805
+"furniture","NC33B","374","N","N"," "," ","f³°n±¿t {i}°","MS",806
+"furniture","NC34A","375","N","N"," "," ","f³½´n±¿t{i½¾}u¿İ´","MS",807
+"furniture","NC34B","376","N","N"," "," ","fÀ°nn±¿tó°","MS",808
+"furniture","NC35A","377","N","N"," "," ","f¸«n±¿tó°","MS",809
+"house plunder","NC35A","377","O","Y"," ","SUG/OLD","åha«¾¹s$pl¸«nd°","MS",809
+"tricks","NC35A","377","N","Y"," ","SUG/OLD","tr±ks","MS",809
+"furniture","NC35B","378","N","N"," "," ","f³´n±¿t {i½¾}u¿İ°","MS",810
+"furniture","NC36N","N381","N","N"," "," ","f¸«¼n±¿t {±«}°","MS",811
+"furniture","NC36A","381","N","N"," "," ","f¸«{r}n±¿ó°{r}","MS",812
+"furniture","NC36B","382","N","N"," "," ","f³½°n±¿t {i½¾}°","MS",813
+"furniture","NC37A","383","N","N"," "," ","f³{°}n±¿tó°","MS",814
+"furniture","NC37B","384","N","N"," "," ","f³½{°}n±¿tó°","MS",815
+"furniture","NC38N","N385","N","N"," "," ","f³{°}n±¿tó°","MS",816
+"furniture","NC38A","385","N","N"," "," ","f³½{°}n±¿t {i½¾}u¿","MS",817
+"furniture","NC38B","386","N","N"," "," ","f³½{°}n±¿tó°","MS",818
+"furniture","NC39A","389","N","N"," "," ","f³{°}n±¿t {i½¾}u¿","MS",819
+"furniture","NC39B!","390!","N","N"," "," ","f³{°}n±¿tó°","MS",820
+"furniture","NC40A","391","N","N"," "," ","f³n±¿½¾tó°","MS",821
+"plunder","NC40A","391","N","Y"," ","SUG/OLD","pl¦½¼nd°","MS",821
+"plunder","NC40A","391","N","Y"," ","SUG/OLD","pl¸«nd°","MS",821
+"tricks","NC40A","391","N","Y"," ","SUG","tr±ks","MS",821
+"furniture","NC40B","392","N","N"," "," ","f³½{°}n±¿t {i½¾}°","MS",822
+"furniture","NC41!","393!","N","N"," "," ","f³{°}n±¿t {i½¾}°","MS",823
+"furniture","NC42A","403","N","N"," "," ","f³°n±¿t {i½¾}u¿İ°","MS",824
+"furniture","NC42B","404(*)","N","N"," "," ","åf³°n±¿õt {i½¾}u¿°","MS",825
+"furniture","NC42B","404(*)","N","Y"," ","AUX","f³½°n±¿tó´","MS",825
+"furniture","NC43A","397","N","N"," "," ","f³n±¿ó°","MS",826
+"house plunder","NC43A","397","O","N"," "," ","ha«¾¹«s$pl¸«nd°","MS",826
+"furniture","NC43B","398","N","N"," "," ","f¸{°}n±¿tó°","MS",827
+"furniture","NC44","410(*)","N","N"," "," ","f¸{°}n±¿t {i½¾}°º","MS",828
+"furniture","NC44","410(*)","N","Y"," ","AUX","f³{°}n±¿t {i½¾}u¿°","MS",828
+"furniture","NC45A","409(*)","N","N"," "," ","f¸—«n±¿t {±½¾}°","MS",829
+"furniture","NC45B"," ","N","N"," "," ","f¸—«n±¿t {I½¾}u¿"," ",830
+"furniture","NC46A","411","N","N"," "," ","f¸«¼{°}n±¿t {i½¾}u¿İ°","MS",831
+"furniture","NC46B","412","N","N"," "," ","f°½°n±¿tó´«","MS",832
+"furniture","NC46C!","412b!","N","N"," "," ","f³{°}n±¿tó°","MS",833
+"house furniture","NC47","413","O","N"," "," ","há¹¿s$f´{n}±¿İtó´","MS",834
+"furniture","NC48","418","N","N"," "," ","åf³´n±¿õt {i½¾}u¿´","MS",835
+"furniture","NC49","421","N","N"," "," ","f°´n±¿t{i½}u¿´","MS",836
+"furniture","NC50A","422","N","N"," "," ","f°{r}n±¿tó°","MS",837
+"furniture","NC50B!","423!","N","N"," "," ","f°´n±¿tó°","MS",838
+"furniture","NC51A","427","N","N"," "," ","åf³°n±¿t {j}°","MS",839
+"furniture","NC51B","428","N","N"," "," ","f³½´n±¿t {±«¾}°","MS",840
+"furniture","NC52N","N429","N","N"," "," ","f³—n±¿tó°","MS",841
+"furniture","NC52A","429","N","N"," "," ","f³½°n±¿t {i½¾}u¿İ°","MS",842
+"furniture","NC52B","430","N","N"," "," ","f³½¾n±¿tó°","MS",843
+"furniture","NC53A","431","N","N"," "," ","f³½{°}n±¿t {±«}u¿°","MS",844
+"furniture","NC53B","432","N","N"," "," ","f³½{°}±¿t {±«}°","MS",845
+"house furniture","NC54A","433","O","N"," "," ","háº¹¿½s$f³{´}n±¿tó´","MS",846
+"furniture","NC54B","434","N","N"," "," ","f¸«¼n±¿tó°","MS",847
+"furniture","NC55","435","N","N"," "," ","f³½°n±¿t {i½¾}u¿°","MS",848
+"furniture","NC56A","436","N","N"," "," ","f³°«n±¿tó°","MS",849
+"furniture","NC56B!","437!","N","N"," "," ","f³º{°}n±¿tó°","MS",850
+"furniture","NC57A","438a","N","N"," "," ","f³n±¿t {i½¾}u¿°","MS",851
+"furniture","NC57B","438b","N","N"," "," ","f¸«n±¿t {i½¾}u¿{°}","MS",852
+"furniture","NC58A","439","N","N"," "," ","f°´n±¿t {i½¾}u¿º´","MS",853
+"furniture","NC58B","440","N","N"," "," ","f´n±¿İt {i½¾}u¿´","MS",854
+"furniture","NC59","441(*)","N","N"," "," ","f´n±¿t{±«¼}u¿İ´","MS",855
+"house plunder","NC59","441(*)","O","N"," "," ","ha«º¹s$pl¸«º{°}nd´","MS",855
+"furniture","NC60","442","N","N"," "," ","f³´n±¿t {i½¾}u¿°","MS",856
+"furniture","NC61A","443","N","N"," "," ","f°{r}n±¿t {i½¾}u¿¾","MS",857
+"furniture","NC61B","444","N","N"," "," ","f´n±¿tó´","MS",858
+"furniture","NC62A","447","N","N"," "," ","f°½´n±¿t {i½¾}u¿İ´","MS",859
+"furniture","NC62B","448","N","N"," "," ","f´n±¿t {i½}u¿İ´","MS",860
+"house plunder","NC63A","449","O","N"," "," ","haº¹s$pl¸«¼{°}nd´","MS",861
+"furniture","NC63B","450","N","N"," "," ","f´n±¿tó´","MS",862
+"furniture","NC64A","453","N","N"," "," ","f´n±¿ó´","MS",863
+"furniture","NC64B","454","N","N"," "," ","f°½rn±¿tó´İ","MS",864
+"furniture","NC65A","461","N","N"," "," ","f´n±¿tó´","MS",865
+"furniture","NC65B","462","N","N"," "," ","f´n±¿t {i½¾}u¿İ½´","MS",866
+"plunder","NC65B","462","N","Y"," ","SUG","pl¸«º{°}nd´","MS",866
+"furniture","NC66A","465","N","N"," "," ","f°İ½´n±¿tó°","MS",867
+"furniture","NC66B","466","N","N"," "," ","f³n±¿tó°","MS",868
+"furniture","NC67A","469","N","N"," "," ","f³°n±¿t {i½¾}u¿","MS",869
+"furniture","NC67B","470","N","N"," "," ","f´n±¿t{i}u¿½°","MS",870
+"house plunder","NC67B","470","O","N"," "," ","há½º¹¿½s$pl¸«{°}nd°","MS",870
+"furniture","NC68A","473","N","N"," "," ","f´n±¿t {±}´","MS",871
+"furniture","NC68B","474","N","N"," "," ","f´½{´}n±¿tó´","MS",872
+"furniture","NC69A","477","N","N"," "," ","f´½{´}n±¿t {i½¾}´","MS",873
+"furniture","NC69B","478","N","N"," "," ","f´{n}±¿İtó°","MS",874
+"house plunder","NC69B","478","O","N"," "," ","háº¹¿½s$pl¸«{°}nd°","MS",874
+"furniture","NC70A","479","N","N"," "," ","f°{´}n±¿tóu¿½¾´","MS",875
+"house plunder","NC70A","479","O","N"," "," ","åháº¹¿s$õpl¸¾{°}nd´","MS",875
+"furniture","NC70B","480","N","N"," "," ","f°´n±¿tó´","MS",876
+"furniture","NC71A","481","N","N"," "," ","f´n±¿t {i½¾}´","MS",877
+"furniture","NC71B","482","N","N"," "," ","f´½´n±¿t{i½¾}´","MS",878
+"furniture","NC71C!","483!","N","N"," "," ","f´n±¿tó´","MS",879
+"furniture","NC72A","487","N","N"," "," ","f°½´n±¿t±¿«","MS",880
+"furniture","NC72B","488","N","N"," "," ","f´n±¿t {±«}´","MS",881
+"furniture","NC73A","491","N","N"," "," ","f´½{´}n±¿t {i½¾}u¿´","MS",882
+"furniture","NC73B","492","N","N"," "," ","åf´n±¿t{±}u¿İ´İ","MS",883
+"house plunder","NC73B","492","O","Y"," ","OLD","åhá½º¹¿s$õpl¸—«{°}nd´","MS",883
+"furniture","NC74A","493","N","N"," "," ","f´½{´}n±¿t {i½}u¿´","MS",884
+"furniture","NC74B","494","N","N"," "," ","f´n±¿tó´","MS",885
+"furniture","NC75A","495","N","N"," "," ","f´n±¿tó´","MS",886
+"furniture","NC75B","496","N","N"," "," ","f´{n}±¿İtó´","MS",887
+"furniture","SC1A","203.1","N","N"," "," ","f¸«¼{°}n±¿t {i¿}{u¿}","MS",888
+"furniture","SC1B","203.2","N","N"," "," ","f³½{°}n±¿t {±}°","MS",889
+"furniture","SC2A","204.1(*)","N","N"," "," ","f³°n±¿t {i}u¿","MS",890
+"furniture","SC2B","204.2","N","N"," "," ","f³°«n±¿tó°","MS",891
+"furniture","SC2C"," ","N","N"," "," ","f³°n±¿t {±«}u¿"," ",892
+"furniture","SC3A","205.1","N","N"," "," ","åf´ºn±¿t {j}u¿¼","MS",893
+"house plunder","SC3A","205.1","O","N"," "," ","åha«¾¹s$pl¸«º{°}nd°","MS",893
+"house fixings","SC3A","205.1","O","Y"," ","SUG","åha«¾¹s$f±ks±¿½nz","MS",893
+"furniture","SC3B","205.2","N","N"," "," ","åf³«º{´}n±¿¼õt'°¼´—«¾","MS",894
+"furniture","SC3B","205.2","N","N"," "," ","åf³«¾º{´}n±¿¾tó°½","MS",894
+"furniture","SC3C!","205.3!","N","N"," "," ","f³«{°}n±¿«¼tó°«","MS",895
+"furniture","SC4A","206.1","N","N"," "," ","åf³«º{°}n±¿«¼tó°¾","MS",896
+"furniture","SC4B","206.2","N","N"," "," ","åf³¾º{°}n±¿«¼tó°«","MS",897
+"furniture","SC4B","206.2","N","N"," "," ","åf³«¾º{´}n±¿«¼tó°¾","MS",897
+"furniture","SC4B","206.2","N","N"," ","CNV","åf³«º{´}n±¿¼tó°","MS",897
+"furniture","SC4C","206.3","N","N"," "," ","f³«º{´}n±¿«¼tó°«¾","MS",898
+"furniture","SC5A","207.1","N","N"," "," ","åf³—«¾ºn±¿«¼tó°","MS",899
+"furniture","SC5B","207.2","N","N"," "," ","åf³«º{°}n±¿tó°¾","MS",900
+"furniture","SC5B","207.2","N","N"," ","CNV","f³«n±¿«¼tó°","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"furniture","SC5D!","207.3!","N","N"," "," ","åf³¼{±¿ş}n±¿«¼tó°¾","MS",902
+"furniture","SC5D!","207.3!","N","N"," "," ","åf³«ºn±¿«¼tó°«","MS",902
+"furniture","SC6N","N208","N","N"," "," ","f³«{°}n±¿«¼tó°¾","MS",903
+"furniture","SC6A","208.1","N","N"," "," ","fÀ{r}n±¿tj´","MS",904
+"plunder","SC6A","208.1","N","Y"," ","SUG/OLD","pl¸«{°}nd´","MS",904
+"furniture","SC6B","208.2(*)","N","N"," "," ","åf³«¾º°n±¿tó°","MS",905
+"furniture","SC6C!","208.3!","N","N"," "," ","åf³—«¾º°«n±¿tó°","MS",906
+"furniture","SC6D"," ","N","N"," "," ","åf³«¾º{°}n±¿«¼tó°«¾"," ",907
+"NR","SC7N","N209"," ","N"," "," "," ","MS",908
+"furniture","SC7A","209.1","N","N"," ","CNV","åf³«º±¿n±¿İtó°","MS",909
+"furniture","SC7A","209.1","N","N"," ","CNV","f³«º{±¿}n±¿«¼tó°¾","MS",909
+"furniture","SC7B","209.2","N","N"," "," ","åf³«º{±¿}n±¿«¼tó°«¾","MS",910
+"furniture","SC7C!","209.3!","N","N"," ","CNV","åf³«ºn±¿«¼tó°","MS",911
+"furniture","SC7D!","209.4!","N","N"," "," ","åf³«{±¿}n±¿«¼tó°¾","MS",912
+"furniture","SC8A","210.1","N","N"," "," ","åf³«¾±¿n±¿«¼tó°","MS",913
+"furniture","SC8B","210.2","N","N"," "," ","f³—«¾{±¿}n±¿tó°","MS",914
+"furniture","SC8C","210.3","N","N"," "," ","f³—«¾º±¿n±¿«¼tó°«","MS",915
+"furniture","SC9A","211.1","N","N"," "," ","åf³«º{´}n±¿tó°","MS",916
+"furniture","SC9B","211.2","N","N"," "," ","f³«¾{°}n±¿tó°","MS",917
+"furniture","SC9B","211.2","N","N"," ","CNV","åf³«¾º{°}n±¿«¼tó°«","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"furniture","SC9D!","211.4!","N","N"," "," ","f³«¾±¿n±¿«¼tó°«¾","MS",919
+"table","SC9D!","211.4!","N","Y"," ","INA","teº{°}bl","MS",919
+"furnished","SC10A","212.1","N","Y"," ","INA","f³—«¾º±¿n±¿¼ót","MS",920
+"furniture","SC10B!","212.2!","N","N"," "," ","f³—«¾º{°}n±¿tó°","MS",921
+"furniture","SC10C!","212.3!","N","N"," "," ","f³—«¾º°n±¿tó°","MS",922
+"furniture","SC11N","N213","N","N"," "," ","åfÀİ{r}n±¿tó°","MS",923
+"furniture","SC11M!","2n213!","N","N"," "," ","åf³—«¼±¿n±¿«¼tó°«¾","MS",924
+"furnishings","SC11M!","2n213!","N","N"," "," ","åf³—«±¿n±¿¼ó±¾îz{z}","MS",924
+"livingroom suite","SC11M!","2n213!","O","N"," "," ","ål±«v±¾îõru¿¼º{u¿«¼}m$swi¾ºt","MS",924
+"furniture","SC11A","213.1(*)","N","N"," "," ","åf³—«º±¿n±¿¼t°«","MS",925
+"furniture","SC11A","213.1(*)","N","Y"," ","AUX","fÀ«n±¿tó°«","MS",925
+"furniture","SC11B","213.11","N","N"," "," ","f³«¾{´}n±¿tó°","MS",926
+"furniture","SC11C","213.2","N","N"," "," ","åf³«¾º±¿İn±¿İtó°«¾º","MS",927
+"furniture","SC11D","213.3","N","N"," "," ","åf³—«¾º±¿n±¿tó°","MS",928
+"room furnishings","SC11D","213.3","O","N"," "," ","åru¿ºu¿«m$õf³—«¾º±¿n±¿¼ó±½¾îz{z}","MS",928
+"furniture","SC11E","213.4","N","N"," ","CNV","fÀ«¾º{±¿}n±¿¼{t}ó°«¾","MS",929
+"furniture","SC11F","213.5","N","N"," ","CNV","åf³«¾n±¿tó°—«¾","MS",930
+"furniture","SC11G!","213.7!","N","N"," "," ","åf³—«¾º{±¿}n±¿tó°—«¾","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"furniture","SC11I!","213.9!","N","Y"," ","AUX","fÀ«n±¿tó°","MS",933
+"furniture","SC11J!","213.10!","N","N"," "," ","åf³—«¾±¿n±¿¼tó°—«¾","MS",934
+"furniture","SC11J!","213.10!","N","N"," ","CNV","åf³¾º{±¿}n±¿¼tó°«¾","MS",934
+"furniture","SC12A","214.1","N","N"," "," ","åf³—«¾º±¿n±¿¼tó°","MS",935
+"furniture","SC12B","214.2","N","N"," "," ","åf´n±¿tó°","MS",936
+"plunder","SC12B","214.2","N","Y"," ","SUG","åpl¸{°}nd°","MS",936
+"furniture","SC13","213.6","N","N"," "," ","åf³«¾±¿n±¿tó°«","MS",937
+"furniture","SC14A","215.1","N","N"," "," ","f³ºn±¿tó°","MS",938
+"furniture","SC14B","215.2","N","N"," "," ","åf³—«¾º±¿n±¿tó°«","MS",939
+"furniture","SC15A","216.1","N","N"," "," ","f³—«¾º{±¿}n±¿«¼tó°«¾","MS",940
+"furniture","SC15A","216.1","N","N"," "," ","åf³«¾º{°}n±¿tó°","MS",940
+"furniture","SC15B","216.2","N","N"," "," ","åf³—«¾º{°}n±¿«¼tó°«¾","MS",941
+"furniture","SC15C","216.3","N","N"," "," ","åf³«¾º±¿n±¿«¼tó°¾","MS",942
+"store furniture","SC16N","N217","O","N"," "," ","åsto«º$õf³«º±¿n±¿tó°«¾","MS",943
+"furniture","SC16","217.1","N","N"," "," ","åfÀ½¾{´}n±¿tó°—«¾","MS",944
+"furniture","SC16","217.1","N","N"," "," ","åfÀ½¾{´}n±¿tó°«","MS",944
+"furniture","SC17A","218.1","N","N"," "," ","f³«º°n±¿«¼tó°«¾","MS",945
+"furniture","SC17B","218.2","N","N"," "," ","f³«{°}n±¿«¼tó°","MS",946
+"furniture","SC17C","218.3","N","N"," "," ","f³«±¿n±¿«¼tó°","MS",947
+"furniture","SC17D","218.4","N","N"," "," ","f³«±¿n±¿¼tó°","MS",948
+"furniture","SC18N","N219","N","N"," ","CNV","åf³—«ºn±¿¼tó°İ","MS",949
+"furniture","SC18A","219.1","N","N"," ","CNV","åf³—«º±¿n±¿«¼tó°¾","MS",950
+"furniture","SC18A","219.1","N","N"," ","CNV","åf³—«º±¿n±¿¼tó°¾","MS",950
+"furniture","SC18A","219.1","N","N"," ","CNV","f³«º{±¿}±¿«¼tó°","MS",950
+"furniture","SC18B","219.2","N","N"," ","CNV","åf³—¾º{±¿}n±¿«¼tó°¾","MS",951
+"furniture","SC18B","219.2","N","N"," ","CNV","åf³—¾º±¿n±¿¼tó°¾","MS",951
+"bedroom fixtures","SC18B","219.2","O","N"," ","CNV","åb²«dò¹¿¾m$õf±«kstó°¾z","MS",951
+"furniture","SC18C!","219.3(*)!","N","N"," ","CNV","åf³—«¼º{±¿}n±¿¼tó°¾","MS",952
+"furniture","SC18D!"," ","N","N"," "," ","åf³—«¾º±¿n±¿«¼tó°¾"," ",953
+"furniture","SC19N","N220","N","N"," "," ","åf¸n±¿ó°","MS",954
+"plunder","SC19N","N220","N","N","commonly"," ","åpl¸½nd°","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"furniture","SC19B","220.4","N","N"," "," ","åf³¾º{´}n±¿tó°","MS",956
+"furniture","SC19C","220.2(*)","N","N"," ","CNV","f³—«º{±¿}n±¿«¼tó°½","MS",957
+"furniture","SC19C","220.2(*)","N","N"," ","CNV","åf³«º{±¿}n±¿«¼tó°½","MS",957
+"furniture","SC19D!","220.3!","N","N"," ","SIC","åf³—«¾º°«n±¿¼tó±¿½","MS",958
+"furniture","SC19D!","220.3!","N","N"," "," ","åf³—«¾º±¿n±¿¼tó°","MS",958
+"furniture","SC19E!"," ","N","N"," "," ","åf³—«º±¿n±¿¼tó°¾"," ",959
+"glass","SC19E!"," ","N","Y"," ","INA/CNV","gÅá½{°}s"," ",959
+"glass","SC19E!"," ","N","Y"," ","INA/CNV","dlá½{°}s"," ",959
+"looking glass","SC19E!"," ","O","Y"," ","INA/CNV","ål¹¼k±¾î$õdlá½{°}s"," ",959
+"furniture","SC20A","221.1","N","N"," "," ","åf³—«º°n±¿tó°","MS",960
+"furniture","SC20B","221.2","N","N"," "," ","åf³¾º´n±¿¼tó´«","MS",961
+"furniture","SC20C","221.3","N","N"," "," ","åf³—«º{°}n±¿tó°","MS",962
+"furniture","SC20D!","221.4!","N","N"," "," ","åf³—«º{°}n±¿«¼tó°","MS",963
+"furniture","SC21A","222.1","N","N"," "," ","f³{°}n±¿t {±¿}°","MS",964
+"furniture","SC21B","222.2","N","N"," "," ","f³{°}n±¿tó°","MS",965
+"furniture","SC22N","N223","N","N"," "," ","f³{°«}n±¿ó°","MS",966
+"plunder","SC22N","N223","N","N","if old and worn"," ","åpl¸«º{°}nd°","MS",966
+"furniture","SC22A","223.1","N","N"," "," ","åf³—º±¿n±¿tó°","MS",967
+"furniture","SC22B","223.2","N","N"," "," ","åfÀ«n±¿tó°","MS",968
+"furniture","SC22C!","223.3!","N","N"," "," ","åfÀ¾º±¿n±¿tó°","MS",969
+"furniture","SC23A","224.1","N","N"," "," ","åf³«¾º{°}n±¿¼tó°«¾","MS",970
+"furniture","SC23A","224.1","N","N"," ","CNV","åf³«¾º{°}n±¿«¼tó°","MS",970
+"furniture","SC23B","224.2","N","N"," "," ","åf³«º{±¿}n±¿¼tó´«¾","MS",971
+"furniture","SC23C","224.3","N","N"," "," ","åf³—«¾º±¿n±¿«¼tó°«¾","MS",972
+"furniture","SC23D","224.4","N","N"," "," ","åf³«¾º{°}n±¿tó°","MS",973
+"furniture","SC23E!","224.5!","N","N"," "," ","åf³«¾º{°}n±¿«¼tó°«¾","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"furniture","SC24A","225.1","N","Y"," "," ","åf³¾{´}n±¿tó°","MS",976
+"house furniture","SC24A","225.1","O","Y"," "," ","åhµ¹s$õf³¾´n±¿tó°","MS",976
+"room suite","SC24A","225.1","O","Y"," "," ","åru¼ºm$õsu¼ºt","MS",976
+"furniture","SC24B","225.11","N","N"," "," ","åf´«ºn±¿«¼tó°¾","MS",977
+"furniture","SC24C","225.2","N","N"," "," ","åf³«{°}n±¿«¼tó°","MS",978
+"furniture","SC24D!","225.3!","N","N"," "," ","åf³½{°}n±¿«¼tó°¾","MS",979
+"furniture","SC25A","226.1","N","N"," "," ","f³«¾º{°}n±¿tó°","MS",980
+"furniture","SC25B","226.2","N","N"," "," ","åf³—«¾º°«n±¿tó°«","MS",981
+"furniture","SC25C!","226.3!","N","N"," ","CNV","åf³«º°«n±¿tó°","MS",982
+"furniture","SC26A","227.1","N","N"," "," ","åf³—«¾º°«n±¿tó´","MS",983
+"mahogany","SC26A","227.1","N","Y"," ","INA","m°åh·½{°}g°«n±¿«¼","MS",983
+"furniture","SC26B!","227.2!","N","N"," "," ","åf³—«¾º±¿n±¿«¼tó°","MS",984
+"pictures","SC26B!","227.2!","N","Y"," ","INA","p±«'któ°—½z","MS",984
+"furniture","SC27A","228.1","N","N"," "," ","åf³¾{°}n±¿tó°","MS",985
+"furniture","SC27B","228.2","N","N"," "," ","åf³«¾±¿n±¿¼tó°","MS",986
+"furniture","SC28A","229.1","N","N"," "," ","åf³¾±¿n±¿«¼tju¿º°","MS",987
+"furniture","SC28B","217.2","N","N"," ","CNV","åf³—¾º±¿n±¿«¼tó°","MS",988
+"furniture","SC28C","229.2","N","N"," "," ","åf³—«¾º±¿n±¿tó°¾","MS",989
+"furniture store","SC28D","229.3","O","N"," "," ","åf³«¾{°}n±¿«¼tó°$õsto«¼º°","MS",990
+"furniture","SC29A","230.2(*)","N","N"," "," ","f³—«¾º°n±¿¼tjˆuº°","MS",991
+"furniture","SC29A","230.2(*)","N","N"," ","SIC","åf³«¾º{´}n±¿«¼tju¿ºñ","MS",991
+"furniture","SC29A","230.2(*)","N","N"," "," ","f³—«¾º°n±¿¼tjˆuº´","MS",991
+"furniture","SC29B","230.1(*)","N","N"," ","SIC","åf³«¾º{´}n±¿¼õt`ju¿ºñ","MS",992
+"furniture","SC29B","230.1(*)","N","N"," "," ","åf³—«¾º°n±¿¼t`ju¿º°","MS",992
+"furniture","SC29B","230.1(*)","N","N"," ","SIC","åf³—«¾º°n±¿¼t`juºñ","MS",992
+"furniture","SC29B","230.1(*)","N","N"," "," ","åf³«¾º{´}n±¿¼õt`ju¿º´","MS",992
+"furniture","SC29C","230.3","N","N"," ","CNV","åf³«¾°n±¿tju¿¼°","MS",993
+"NR","SC29D"," "," ","N"," "," "," "," ",994
+"furniture","SC29E"," ","N","N"," "," ","åf³«¾{°}n±¿½tó°¾"," ",995
+"furniture","SC30A","231.1","N","N"," "," ","åf¸«¼n±¿t{i}u¿{°}","MS",996
+"house fixings","SC30A","231.1","O","N"," "," ","åhá½º¹¿½s$õf±¿{°}ks±¿½nz","MS",996
+"furniture","SC30B","231.2","N","N"," "," ","f³«n±¿¼tó°«","MS",997
+"furniture","SC30B","231.2","N","N"," ","CNV","åf³¾n±¿«¼tó°«¾","MS",997
+"furniture","SC30C!","231.3!","N","N"," "," ","åf³«ºn±¿«¼tó°«¾","MS",998
+"furniture","SC30C!","231.3!","N","N"," ","CNV","åf³—«º{±¿}n±¿«¼tó°¾","MS",998
+"furniture","SC31A","232.1","N","N"," ","CNV","f³—«¾º{°}n±¿«¼tó°","MS",999
+"NR","SC31B","232.2"," ","N"," "," "," ","MS",1000
+"furniture","SC32A","233.1","N","N"," "," ","åf³«º±¿n±¿«¼tó°","MS",1001
+"furniture","SC32A","233.1","N","N"," "," ","åf³«¾º{°}n±¿¼tó°","MS",1001
+"furniture","SC32B","233.2","N","N"," "," ","åf³«¾º±¿n±¿«¼tó°«¾","MS",1002
+"furniture","SC32C","233.3","N","N"," "," ","åf³—«¾º±¿n±¿tó°","MS",1003
+"furniture","SC32D","233.4","N","N"," "," ","åf³—¾±¿n±¿«¼tó°¾","MS",1004
+"furniture","SC33A","234.1","N","N"," "," ","åf¸«¼º{°}n±¿ó°½","MS",1005
+"furniture","SC33B","234.2","N","N"," "," ","åf³¾±¿n±¿«¼tó°«","MS",1006
+"furniture","SC34A","235.1","N","N"," "," ","åf³«¾º{´}n±¿«¼tó°«","MS",1007
+"furniture","SC34B","235.2","N","N"," "," ","åf³¾º±¿İn±¿¼tó°«¾","MS",1008
+"furniture","SC34B","235.2","N","N"," "," ","åf³¾{´}n±¿¼tó°«¾","MS",1008
+"tricks","SC34B","235.2","N","N"," ","CNV","t`ò±«{°}ks","MS",1008
+"furniture","SC34C","235.3","N","N","""blanket box¢"," ","åf³«¾º±¿n±¿«¼tó°«¾","MS",1009
+"blanket box","SC34C","235.3","O","N"," "," ","åbÅ¶«²îk±¿¼t$õbŞ{°}ks","MS",1009
+"furniture","SC35A","236.1","N","N"," "," ","f³«¾º{´}n±¿«¼tó°«¾","MS",1010
+"furniture","SC35B","236.2","N","N"," "," ","åf³—«¾º±¿n±¿«¼tó°«¾","MS",1011
+"furniture","SC35C","236.3(*)","N","N"," "," ","åf¸«¼n±¿tó±¿—","MS",1012
+"NA","SC35D"," "," ","N"," "," "," "," ",1013
+"furniture","SC35E!"," ","N","N"," "," ","åf´«¾ºn±¿tó°—«¾"," ",1014
+"furniture","SC35E!"," ","N","N"," ","CNV","åf´«ºn±¿«¼tó°«¾"," ",1014
+"furniture","SC36A","237.1","N","N"," "," ","åf´«¾n±¿«¼tju¼º´¾","MS",1015
+"furniture","SC36A","237.1","N","N"," ","CNV","åf³«º{±¿}n±¿«¼tó°«¾","MS",1015
+"house fixings","SC36A","237.1","O","Y"," ","AMS/OLD","åhµ«¹s$õf±«ks±¾ns","MS",1015
+"NR","SC36B","237.2"," ","N"," "," "," ","MS",1016
+"furniture","SC36C","237.3","N","N"," "," ","åf³«ºn±¿«¼tó°«","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"furniture","SC37","238","N","N"," "," ","åf³¾n±¿tó°¾","MS",1019
+"furniture","SC38N","N239","N","N"," "," ","åf³«¾º±¿n±¿«¼tó°«¾","MS",1020
+"furniture","SC38A","239.1","N","N"," "," ","åf³«ºn±¿«¼tó°«","MS",1021
+"furniture","SC38B","239.2","N","N"," ","CNV","åf³«¾º±¿n±¿«¼tó°«¾","MS",1022
+"furniture","SC38B","239.2","N","N"," "," ","åf³«¾º{±¿}n±¿tó°«¾","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"furniture","SC38D!","239.4(*)!","N","N"," ","CNV","åf³«¾º{°}n±¿«¼tó°«¾","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," "," ",1025
+"furniture","SC39A","240.1","N","N"," "," ","åf³«ºn±¿«¼tó°¾","MS",1026
+"furniture","SC39A","240.1","N","N"," "," ","åf³«¾ºn±¿«¼tó°«¾","MS",1026
+"album","SC39A","240.1","N","Y"," ","INA","á«{²}ìb°—«¾m","MS",1026
+"pictures","SC39A","240.1","N","Y"," ","INA","p`±«któ°«z","MS",1026
+"household","SC39A","240.1","N","Y","old word for furniture","OLD","åhµ«¼º¹sõho¼º¹ì","MS",1026
+"household goods","SC39A","240.1","O","Y","old word for furniture","OLD","åhµ¼º¹sõhoº¹l$åg¹¼dz{z}","MS",1026
+"furniture","SC39B!","240.2!","N","N"," "," ","åf³«º±¿n±¿ştó°«¾","MS",1027
+"furniture","SC39B!","240.2!","N","N"," "," ","åf³«ºn±¿«¼tó°","MS",1027
+"furniture","SC40A","241.1","N","N"," "," ","åf³«º{±¿}n±¿tó°¾","MS",1028
+"furniture","SC40A","241.1","N","N"," "," ","åf³«ºn±¿tó°½¾","MS",1028
+"furniture","SC40B","241.2","N","N"," "," ","åf³—«ºn±¿tó°«¾","MS",1029
+"furniture","SC41A","242.1","N","N"," "," ","åf´ºn±¿tó´","MS",1030
+"furniture","SC41B","242.2","N","N"," "," ","åf³«ºn±¿¼tó°«¾","MS",1031
+"furniture","SC42N","N243","N","N"," "," ","åf³½{±¿}n±¿½¼tó°","MS",1032
+"furniture","SC42N","N243","N","N"," "," ","åf¤½º{±¿}n±¿½¼tó°","MS",1032
+"furniture","SC42M"," ","N","N"," "," ","åf´º{±¿}n±¿İtó°İ"," ",1033
+"furniture","SC42A","243.1","N","N"," ","CNV","åf¤¾n±¿İtó´","MS",1034
+"furniture","SC42B!","243.2!","N","N"," "," ","åf³«¾º{±¿}n±¿«tó°«¾","MS",1035
+"furniture","SC42C!","243.3!","N","N"," "," ","åf´¾n±¿½¼tó°","MS",1036
+"furniture","SC42C!","243.3!","N","N"," "," ","åf¸«¼n±¿İtó°","MS",1036
+"plunder","SC42C!","243.3!","N","Y"," ","SUG/HRD","pl¸«nd°","MS",1036
+"household goods","SC42C!","243.3!","O","N"," "," ","åhá¹sho{¹½}ì$g¹dz","MS",1036
+"NR","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"furniture","SC42E!","243.5!","N","N"," "," ","åf³«¾ºn±¿tó°","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"furniture","SC43B","244.2","N","N"," "," ","åf´«n±¿İõt`jy¾u¿´","MS",1040
+"furniture","SC43B","244.2","N","N"," "," ","åf´«¾ºn±¿İ{t}jy¾u´","MS",1040
+"furniture","SC43C","244.3","N","N"," "," ","åf°«n±¿½¼tó°","MS",1041
+"furniture","SC44A","245.1","N","N"," "," ","åf´«¾ºn±¿¼tóu¿¾´","MS",1042
+"furniture","SC44A","245.1","N","N"," ","CNV","åf´«¾ºn±¿tó´","MS",1042
+"furniture","SC44B","245.2","N","N"," "," ","åf³«ºn±¿½¼tó°","MS",1043
+"furniture","GA1N","N246","N","N"," "," ","åf³¾´n±¿tó°","MS",1044
+"furniture","GA1A","246.1(*)","N","N"," "," ","åf³«º{°}n±¿¼tó°—¾","MS",1045
+"furniture","GA1A","246.1(*)","N","Y"," ","AUX2","åf´n±¿{t}{ó}{´}","MS",1045
+"plunder","GA1A","246.1(*)","N","Y"," ","AUX2","pl¸nd´","MS",1045
+"furniture","GA1B","246.11","N","N"," "," ","åf³º{°}n±¿tó°«","MS",1046
+"furniture","GA1C","246.2","N","N"," "," ","åf³«º±¿n±¿«¼tó°«¾","MS",1047
+"furniture","GA1D","246.3","N","N"," "," ","åf³«±¿n±¿«¼tó°¾","MS",1048
+"furniture","GA1D","246.3","N","N"," ","CNV","åf³«º±¿n±¿«¼tó°¾","MS",1048
+"antique stuff","GA1D","246.3","O","N"," "," ","åáº{°}nõt`iºk$õst¸«f","MS",1048
+"furniture","GA1E","246.4","N","N"," "," ","åf³«{±¿}n±¿«¼tó°—¾","MS",1049
+"furniture","GA1F!","246.5!","N","N"," "," ","f³¾º{°}n±¿tó°","MS",1050
+"furniture","GA1G!","246.6!","N","N"," "," ","åf³«±¿n±¿tó°«¾","MS",1051
+"furnish","GA1G!","246.6!","V","Y"," ","INA","åf³«±¿n±¿¼ó","MS",1051
+"furniture","GA1H!","246.7!","N","N"," "," ","åf¤—½º{±¿}n±¿¼tó°½¾","MS",1052
+"furniture","GA1H!","246.7!","N","N"," ","CNV","åf¤—½º±¿n±¿«¼tó°½","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"furniture","GA2B","247.2","N","N"," "," ","åf´¾ºn±¿«¼tó´«¾","MS",1055
+"NR","GA3A","248.1"," ","N"," "," "," ","MS",1056
+"furniture","GA3B","248.2","N","N"," "," ","åf³—«¾º°n±¿¼tó°","MS",1057
+"furniture","GA3B","248.2","N","N"," "," ","åf³«¾º´n±¿tó°«","MS",1057
+"furniture","GA4N","N249","N","N"," "," ","f¸½n±¿ó°","MS",1058
+"furniture","GA4A","249.1","N","N"," "," ","åf³—¾±¿n±¿tó°","MS",1059
+"furniture","GA4B","249.2","N","N"," "," ","åf³«¾±¿n±¿tó°","MS",1060
+"furniture","GA4C!","249.3!","N","N"," "," ","åfÀ¾º±¿n±¿tó°","MS",1061
+"furniture","GA5A","250.1","N","N"," "," ","åfÀ«º±¿İn±¿tó°¾","MS",1062
+"furniture","GA5A","250.1","N","N"," "," ","åfÀ«º°İ«n±¿tó°¾","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"furniture","GA5C","250.3","N","N"," "," ","åfÀ«º±¿İn±¿«¼tó°","MS",1064
+"furniture","GA5D!","250.4!","N","N"," "," ","åfÀ«¾º°n±¿«¼tó°","MS",1065
+"furniture","GA5E!","250.5!","N","N"," "," ","åfÀ«º±¿½n±¿«¼tó°«¾","MS",1066
+"furniture","GA6A","251.1","N","N"," ","CNV","åf³—«¾º°«n±¿¼tó°¾","MS",1067
+"furniture","GA6B!","251.2!","N","N"," ","SIC","åf³—«¾º°½n±¿¼t{j}°—½¾","MS",1068
+"furniture","GA7","256","N","N"," "," ","åf³«¾º±¿n±¿¼tó°«¾","MS",1069
+"furniture","GA8A","257.1","N","N"," "," ","åf³¾º{´«}n±¿«¼tó°«","MS",1070
+"furniture","GA8B","257.2","N","N"," "," ","åf³«¾º´n±¿«¼tju¿º´«¾","MS",1071
+"furniture","GA9A","257A.1","N","N"," "," ","åf{´½}´n±¿tó´","MS",1072
+"furniture","GA9A","257A.1","N","N"," "," ","åf¸«¼n±¿tju¿°","MS",1072
+"furniture","GA9B","257A.2","N","N"," "," ","åf³¾´n±¿tju¿¾°","MS",1073
+"furniture","GA10A","258.1","N","N"," "," ","åf´«ºn±¿tj´«","MS",1074
+"furniture","GA10B","258.2","N","N"," "," ","åf³«¾º´n±¿«¼t´","MS",1075
+"furniture","GA10B","258.2","N","N"," "," ","åf³«¾º´n±¿«¼tóu¿İ´İ","MS",1075
+"furniture","GA11N","N258A","N","N"," "," ","åf³«n±¿tó°","MS",1076
+"furniture","GA11N","N258A","N","N"," "," ","åf³«ºn±¿tó°","MS",1076
+"furniture","GA12A","259.1","N","N"," "," ","åf´¾ºn±¿¼tó°¾","MS",1077
+"furniture","GA12B!","259.2(.3)","N","N"," "," ","åf³¾n±¿tó°","MS",1078
+"furniture","GA12B!","259.2(.3)","N","N"," "," ","åf³¾n±¿tó´","MS",1078
+"furniture","GA12B!","259.2(.3)","N","N"," "," ","åf³¾´n±¿tó´","MS",1078
+"furnishings","GA12B!","259.2(.3)","N","N"," "," ","åf³¾±¿n±¿¼ó±¿îz","MS",1078
+"furniture","GA13A","260.1","N","N"," "," ","åf³{°}n±¿tó°","MS",1079
+"plunder","GA13A","260.1","N","Y"," ","OLD","åpl¸½nd°","MS",1079
+"furniture","GA13B!","260.2!","N","N"," "," ","åf³¾º±¿n±¿¼tó°«","MS",1080
+"NR","GA14A","261.1"," ","N"," "," "," ","MS",1081
+"furniture","GA14B","261.3","N","N"," "," ","åf³«º{°}n±¿«¼tó°¾","MS",1082
+"furniture","GA14C","261.2","N","N"," "," ","åf³«º{°}n±¿«¼tó°«¾","MS",1083
+"furniture","GA14C","261.2","N","N"," ","CNV","åf³«º{°}n±¿¼tó°","MS",1083
+"furniture","GA15A","262.1","N","N"," "," ","åf¸«{°}n±¿tó°","MS",1084
+"plunder","GA15A","262.1","N","N"," "," ","pl¸{°}nd°","MS",1084
+"furniture","GA15B","262.2","N","N"," "," ","åf³¾º±¿n±¿İtó°","MS",1085
+"furniture","GA16A","263.2","N","N"," "," ","åf³—«¾º°n±¿tó°¾","MS",1086
+"furniture","GA16A","263.2","N","N"," ","CNV","åf³«¾º°«n±¿tó°","MS",1086
+"furniture","GA16B","263.1","N","N"," "," ","åf³«¾±¿n±¿«¼tó°«","MS",1087
+"furniture","GA16C","263.21","N","N"," "," ","åf³¾º±¿İn±¿tó°","MS",1088
+"furniture","GA16D!","263.3!","N","N"," "," ","åf³«¾±¿n±¿¼tó°İ¾","MS",1089
+"furniture","GA17N","N264","N","N"," "," ","åf³¾{±¿}n±¿tó°","MS",1090
+"furniture","GA17","264","N","N"," "," ","åf³şn±¿tó±¿","MS",1091
+"NR","GA18A","264A.1"," ","N"," "," "," ","MS",1092
+"furniture","GA18B","264A.2","N","N"," "," ","åf³¾n±¿tju¿{°}","MS",1093
+"furniture","GA19A","265.1","N","N"," "," ","åf³¾º´n±¿¼tju¿º´","MS",1094
+"furniture","GA19B","265.2","N","N"," "," ","åf³«¾º´n±¿«¼tju¿º´","MS",1095
+"furniture","GA20A","266.1","N","N"," "," ","åf³«¾º´n±¿«¼tóu¿º´«¾","MS",1096
+"furniture","GA20A","266.1","N","N"," ","CNV","åf³«¾º±¿n±¿«¼tju¿º´","MS",1096
+"furniture","GA20B","266.2","N","N"," ","CNV","åf³¾º{´}n±¿«¼tó´«","MS",1097
+"furniture","GA21A","267.1","N","N"," "," ","åf³¾n°«tóu¿º°","MS",1098
+"furniture","GA21A","267.1","N","N"," "," ","åf³¾n°«õtju¿İ{°}","MS",1098
+"furnishings","GA21A","267.1","N","N"," "," ","åf³¾{´}n±¿ó±¿îz","MS",1098
+"furniture","GA21B","267.2","N","N"," "," ","åf³«º±¿½n±¿¼tó°","MS",1099
+"furniture","GA22A","268A.1","N","N"," "," ","åf³¾{´}n±¿İtó°","MS",1100
+"furniture","GA22B","268A.2","N","N"," "," ","åf³—«¾±¿İ½n±¿tó°","MS",1101
+"furniture","GA23A","268.1","N","N"," "," ","åf³—¾º°n±¿tó°¾","MS",1102
+"furniture","GA23A","268.1","N","N"," "," ","åf³—«¾º±¿½n±¿İ¼tó°İ","MS",1102
+"furniture","GA23B","268.11","N","N"," "," ","åf³¾n±¿t{j}°","MS",1103
+"furniture","GA23C","268.2","N","N"," "," ","åf³«±¿n±¿tó°","MS",1104
+"furniture","GA23D!","268.3","N","N"," "," ","åf³«¾º±¿n±¿tó°«¾","MS",1105
+"furniture","GA23E!","268.4!","N","N"," "," ","åf³¾{±¿}n±¿tó°","MS",1106
+"furniture","GA23E!","268.4!","N","N"," ","CNV","åf¸«¼n±¿tó°","MS",1106
+"furniture","GA23F!","268.5!","N","N"," "," ","åf³«±¿n±¿tó°","MS",1107
+"furniture","GA24N","N269","N","N"," "," ","åf³¾±¿n±¿tó°","MS",1108
+"furniture","GA24N","N269","N","N"," ","CNV","åf³¾{±¿}n±¿tju¿°","MS",1108
+"furniture","GA24A","269.1","N","N"," "," ","åf¸«¼{°}n±¿t{i«}°","MS",1109
+"furniture","GA24B","269.2","N","N"," "," ","åf³—«¾º{°}n±¿¼tó°","MS",1110
+"furniture","GA25N","N269A","N","N"," "," ","åf¸«¼n±¿tó°","MS",1111
+"furniture","GA26","270A","N","N"," "," ","åf¸«¼{n}±¿İt°«¾","MS",1112
+"furniture","GA26","270A","N","N"," ","CNV","åf³«¾n±¿İtó°","MS",1112
+"furniture","GA27!","270!","N","N"," "," ","åf³n±¿tó°","MS",1113
+"furniture","GA27!","270!","N","N"," "," ","åf³n±¿tó°","MS",1113
+"NR","GA28","271a"," ","N"," "," "," ","MS",1114
+"furniture","GA29A","271.1","N","N"," "," ","åf³—¾º°½n±¿¼tó°","MS",1115
+"furniture","GA29B","271.2","N","N"," "," ","åf³—«¾º°½n±¿tó°¾","MS",1116
+"furniture","GA30A","272.1(*)","N","N"," "," ","åf³«{°}n±¿«¼õtó°","MS",1117
+"homemade furniture","GA30A","272.1(*)","O","N"," "," ","åhoºõmeº{±¿}d$åf³«{°}n±¿«¼õtó°","MS",1117
+"furniture","GA30A","272.1(*)","N","N"," ","CNV","åf³«¾º{°}n±¿«¼tó°","MS",1117
+"tricks","GA30A","272.1(*)","N","N"," ","CNV","t`ò±«{°}ks","MS",1117
+"furniture","GA30B","272.2(*)","N","N"," "," ","åf³«º{°}n±¿«¼õt`ju¿¼º°","MS",1118
+"furniture","GA30C!","272.3!","N","N"," "," ","åf³«¾{°}n±¿tó°","MS",1119
+"furniture","GA30C!","272.3!","N","N"," "," ","åf³¾´n±¿tó°","MS",1119
+"furniture","GA30D"," ","N","N"," "," ","åf³¾º±¿n±¿½tó°"," ",1120
+"NA","GA30E"," "," ","N"," "," "," "," ",1121
+"furniture","GA31","272A","N","N"," "," ","åf³´n±¿tju¿°","MS",1122
+"furniture","GA32","272B","N","N"," "," ","åf³¾´n±¿tó¹İ«¼´İ","MS",1123
+"furniture","GA33A","272C1","N","N"," ","CNV","åf³¾´n±¿tj¹¿´","MS",1124
+"furniture","GA33A","272C1","N","N"," "," ","åf³¾±¿n±¿tóu¿º","MS",1124
+"furniture","GA33B","272C2","N","N"," "," ","åf³¾´n±¿õtju¿½´","MS",1125
+"furniture","GA34N","N273","N","N"," "," ","åf³—«¾º°«n±¿tó°—","MS",1126
+"furniture","GA34A","273.1","N","N"," "," ","åf¸«{°}n±¿t{i}u¿°","MS",1127
+"furniture","GA34B","273.2","N","N"," "," ","åf³«¾±¿İn±¿«¼tó°","MS",1128
+"household furniture","GA35N","N273A","O","N"," "," ","åhaº¹sõho¹ì$åf¸«¼n±¿tóju¿º","MS",1129
+"furniture","GA36N","N274A","N","N"," "," ","åf¸«¼n±¿tóu¿º","MS",1130
+"furniture","GA37N","2N274","N","N"," "," ","åf³±¿½n±¿õtóu¿°","MS",1131
+"furniture","GA37M!","NC274","N","N"," "," ","åf³«¾n±¿tó°«","MS",1132
+"furniture","GA37A","274.1","N","N"," "," ","åf¤º´n±¿tó´«","MS",1133
+"furniture","GA37B","274.2","N","N"," "," ","åf³—«¾º°n±¿¼tó°«","MS",1134
+"furniture","GA37C","274.21","N","N"," "," ","åf³¾´n±¿tó°","MS",1135
+"furniture","GA37D!","274.7!","N","N"," "," ","åf³¾ºn±¿tó°«","MS",1136
+"furniture","GA37E!","274.8!","N","N"," "," ","åf³«n±¿tó°","MS",1137
+"furniture","GA37F!","274.3!","N","N"," ","CNV","åf³—«¾°n±¿tó°—","MS",1138
+"furniture","GA37F!","274.3!","N","N"," "," ","åf³¾n±¿«¼tó°«","MS",1138
+"furniture","GA37G!","274.4!","N","N"," "," ","åf³¾º°n±¿¼tó°«","MS",1139
+"furniture","GA37G!","274.4!","N","N"," "," ","åf³—«¾º±¿tó°«","MS",1139
+"furniture","GA37H!","274.5!","N","N"," "," ","åf³—«¾º{°}n±¿¼tó°","MS",1140
+"furniture","GA37I!","274.6!","N","N"," "," ","åf³¾{±¿}n±¿tó°","MS",1141
+"NR","GA38","275"," ","N"," "," "," ","MS",1142
+"suite","GA39","275A","N","N"," "," ","su¼u«¼t","MS",1143
+"furniture","GA39","275A","N","N"," "," ","åf³İ´n±¿tó´","MS",1143
+"furniture","GA40","276A","N","N"," "," ","åf³¾´n±¿tju¿´","MS",1144
+"bedroom suite","GA40","276A","O","N"," "," ","åb²dru¿{u¿«}m$õsu¿º{u¿«}t","MS",1144
+"house plunder","GA41","276B","O","Y"," ","SUG","åhá½º¹s$õpÅ¦½¼nd´","MS",1145
+"furniture","GA42A","276.1","N","N"," "," ","åf³«º´n±¿tó´«","MS",1146
+"furniture","GA42A","276.1","N","N"," "," ","åf³«¾º´n±¿tó¹¿¾º´","MS",1146
+"furniture","GA42B","276.2","N","N"," "," ","åf³«´n±¿¼tju¿´—«","MS",1147
+"furniture","GA43","277","N","N"," "," ","åf´n±¿t{i½}u¿½°","MS",1148
+"furniture","GA44A","278.1","N","N"," "," ","åf³¾º´n±¿«¼tó´«","MS",1149
+"furniture","GA44B","278.2","N","N"," "," ","åf³¾º´n±¿«¼t`ju¿º´","MS",1150
+"temperature","GA44C","278.3","N","Y"," ","INA","åt`±mp´õt`ju¿º´","MS",1151
+"furniture","GA44C","278.3","N","N","cf. ""temperature¢","CNV","õf³«º´n±¿«¼åt`ju¿º{´}","MS",1151
+"furniture","GA44D","278.4","N","N"," "," ","åf³¾º´n±¿tó´¾","MS",1152
+"furniture","GA44E","278.5","N","N"," "," ","åf³¾´n±¿õtju¿´","MS",1153
+"furniture","FL1","252","N","N"," "," ","åf³—¾º{°}n±¿¼tó°","MS",1154
+"furniture","FL2A","253.1","N","N"," "," ","åf³¾º°İ«n±¿¼tó°¾","MS",1155
+"furniture","FL2B","253.2","N","N"," "," ","f³«¾±¿n±¿tó°","MS",1156
+"furniture","FL2C!","253.3!","N","N"," "," ","åf³—«¾±¿n±¿tó±¿½","MS",1157
+"furniture","FL3A","254.1","N","N"," "," ","åf³«º{°}n±¿tó°","MS",1158
+"furniture","FL3B!","254.2!","N","N"," "," ","åf³—«¾°«n±¿¼tó°¾","MS",1159
+"furniture","FL4","254A","N","N"," "," ","åf³¾´n±¿tó´","MS",1160
+"house fixings","FL4","254A","O","Y"," ","SUG","åha«¹s$õf±ksnz","MS",1160
+"furniture","FL5A","255.1","N","N"," "," ","åf³«¾±¿n±¿tju¿º°","MS",1161
+"furniture","FL5B","255.2","N","N"," "," ","åf³—«¾º°n±¿tó°«","MS",1162
+"NA","VA31C"," "," ","N"," "," "," ","MS",643
+"","","","","","","","","",

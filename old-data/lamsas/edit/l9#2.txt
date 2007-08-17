@@ -1,0 +1,2154 @@
+"bureau","NY1","50","N","N"," "," ","åb±¿«¹ro½¼¹¼","MS",1
+"chest of drawers","NY1","50","O","N","with or without mirror"," ","tó²st$°v$dò·º{°}z","MS",1
+"bureau","NY2A","51.1","N","N"," "," ","b±¿¹r°","MS",2
+"chest of drawers","NY2B","51.2","O","N","with or without mirror"," ","tó²st$°v$dò·º{°}z","MS",3
+"bureau","NY2B","51.2","N","N"," "," ","b±«¹¿r°","MS",3
+"bureau","NY2C","51.3","N","N"," "," ","åb±¿«¹«ro½¹","MS",4
+"chest of drawers","NY2C","51.3","O","N","opened up on top"," ","tó²st$°v$dò·º{°}z","MS",4
+"chest of drawers","NY2C","51.3","O","Y","plain top","AUX","tó²st$°v$dò·º{°}z","MS",4
+"bureau","NY2C","51.3","N","Y"," ","AUX","b±¿«u¼r·½¼¹","MS",4
+"bureau","NY3A","401","N","N"," "," ","bj¹«¼{°}ro½¼¹","MS",5
+"bureau","NY3B","403","N","N"," "," ","b±İ«u½¼ro½¼¹","MS",6
+"bureau","NY3C","402","N","N"," "," ","bju¿¾{°}r°","MS",7
+"bureau","NY3D","404","N","N"," "," ","b±İ«u¿½¾roİ¼¹İ","MS",8
+"dresser","NY4A","405","N","N"," "," ","dò²s°","MS",9
+"bureau","NY4A","405","N","N"," "," ","b±{°}roİ½¼¹İ","MS",9
+"bureau","NY4B","407","N","N"," "," ","b±«°rÀ«¾¹","MS",10
+"bureau","NY4C","408","N","N"," "," ","bju¼ºr°","MS",11
+"bureau","NY5A","409","N","N"," "," ","bju½¼°roİ¼¹İ","MS",12
+"bureau","NY5B","410","N","N"," "," ","bj¹«º°r°","MS",13
+"dresser","NY5B","410","N","Y"," ","NEW","dò²s°","MS",13
+"bureau","NY5C","411","N","N"," "," ","bj¹«¼°roİ¼¹İ","MS",14
+"chest of drawers","NY5D","412","O","N","no mirror"," ","tó²st$°$dò·º°z","MS",15
+"highboy","NY5D","412","N","N","no mirror"," ","åha±¿õb·«¼±¿","MS",15
+"bureau","NY5D","412","N","N"," "," ","bj¹«°ro½¼¹","MS",15
+"bureau","NY5E","413","N","Y"," ","OLD","bj¹°ro½¼¹","MS",16
+"dresser","NY5E","413","N","N"," "," ","dò²s°","MS",16
+"chiffonier","NY5E","413","N","N","tall"," ","õó±f°«ån±«º°","MS",16
+"bureau","NY5F","414","N","N"," "," ","bj¹°ro½¼¹","MS",17
+"dresser","NY5G","415","N","N"," "," ","dò²s°","MS",18
+"bureau","NY5G","415","N","Y","as a child","OLD","bj¹«¼u¼r°","MS",18
+"bureau","NY5H!","416!","N","N"," "," ","åb{j}u¿½¾{°}rŸÕo”½¼¹","MS",19
+"bureau","NY5I!","417!","N","N"," "," ","b±İ«¹°roİ½¼¹İ","MS",20
+"chiffonier","NY5I!","417!","N","N","tallest"," ","õó±f°ån±«º°","MS",20
+"chifforobe","NY5I!","417!","N","N","tall"," ","åó±f°õro½¼¹b","MS",20
+"bureau","NY6A","418","N","N"," "," ","bj¹°r°","MS",21
+"bureau","NY6B","419","N","N"," "," ","bju½¼{°}r°","MS",22
+"dresser","NY7A","420","N","N"," "," ","dò²s°","MS",23
+"chifforobe","NY7B","421","N","N","tall"," ","åó±f°İõro½¼¹b","MS",24
+"bureau","NY7B","421","N","Y"," ","OLD","bju¿¾{°}r","MS",24
+"dresser","NY7B","421","N","N"," "," ","dò²s°","MS",24
+"bureau","NY7C","422","N","N"," "," ","bj¹«°r°","MS",25
+"bureau","NY7D","423","N","N"," "," ","bj¹«¼º°r°","MS",26
+"bureau","NY7E","424","N","N"," "," ","bju¿½°r°","MS",27
+"bureau","NY7F","425","N","N"," "," ","bju¼ñİ°","MS",28
+"dresser","NY7F","425","N","N"," "," ","dò²s°«","MS",28
+"bureau","NY7G","426","N","Y"," ","OLD","bj¹«°öŸrŸÕˆo½¹","MS",29
+"chiffonier","NY7G","426","N","N","tall"," ","õtó±f°ån±«º°","MS",29
+"dresser","NY7G","426","N","N"," "," ","döŸÕˆ²s°","MS",29
+"dresser","NY7H","427","N","N"," "," ","dò²s°İ","MS",30
+"chifforobe","NY7H","427","N","Y","tall","OLD","ó±f°ro½¼¹b","MS",30
+"bureau","NY7I","428","N","N"," "," ","bju¼{°}ro½¼¹","MS",31
+"chiffonier","NY7I","428","N","N","tall"," ","õó²f°ån±«º°","MS",31
+"bureau","NY7J!","429!","N","N"," "," ","bj¹«°ro½¼¹","MS",32
+"bureau","NY7K!","430!","N","N"," "," ","bj¹«°roİ¼¹İ","MS",33
+"bureau","NY7L!","431!","N","N"," "," ","åbj¹°ñˆİo½¼¹","MS",34
+"chest of drawers","NY7L!","431!","O","N"," "," ","tó²st$°v$dò·:{°}z","MS",34
+"highboy","NY7L!","431!","N","N"," "," ","ha±¿b·±¿«","MS",34
+"lowboy","NY7L!","431!","N","N"," "," ","lÀ¹b·±¿«","MS",34
+"bureau","NY7M!","432!","N","N"," "," ","bj¹«°ro½¼¹","MS",35
+"bureau","NY8","432b","N","N"," "," ","bj¹«°ro½¼¹","MS",36
+"bureau","NY9A","432c","N","N"," "," ","bi½¾u½¼ro½º{¹½}","MS",37
+"bureau","NY9B","433","N","N"," "," ","b±İ«¼u¿½¾ro{¹}","MS",38
+"bureau","NY9C","434","N","N"," "," ","bju½¼°roİ½¼¹İ","MS",39
+"bureau","NY10A","435","N","N"," "," ","bju¿½¾´°","MS",40
+"bureau","NY10B!","436!","N","N"," "," ","bj¹°İro¹","MS",41
+"bureau","NY11","438","N","N"," "," ","bju¿½¾°r°","MS",42
+"bureau","NY12A","439(*)","N","Y"," ","AUX","åb±¿u½¼õro½¹","MS",43
+"dresser","NY12A","439(*)","N","Y"," ","NEW","dò²s´","MS",43
+"bureau","NY12A","439(*)","N","N"," "," ","b±¾u¼r°","MS",43
+"chest of drawers","NY12B","440","O","N","tall"," ","tó²st$°v$dò·º´z","MS",44
+"dresser","NY12B","440","N","Y"," ","NEW","dò²s´","MS",44
+"bureau","NY12B","440","N","Y"," ","NEW","bju¿½¼´o½¹","MS",44
+"bureau","NY12C!","441!","N","N"," "," ","bj¹«°ro¹","MS",45
+"bureau","NY13A","443","N","N"," "," ","bju½¼ro½¹","MS",46
+"bureau","NY13B!","444!","N","N"," "," ","bj¹«°r°","MS",47
+"chest of drawers","NY13B!","444!","O","N","tall"," ","tó²st$°İv$dò·º°z","MS",47
+"bureau","NY14A","445","N","N"," "," ","b±¿«u¼ro½¹","MS",48
+"dresser","NY14A","445","N","Y"," ","NEW","dò²s´","MS",48
+"bureau","NY14B","446","N","N"," "," ","bju½¼´°","MS",49
+"dresser","NY14B","446","N","N"," "," ","dò²s´","MS",49
+"bureau","NY15A","447","N","N"," "," ","b±¿u½¼ro½º{¹½}","MS",50
+"chest of drawers","NY15A","447","O","N","tall"," ","tó²st$°$dò·´z","MS",50
+"dresser","NY15B","448","N","N"," "," ","dò²s´","MS",51
+"bureau","NY15B","448","N","N"," "," ","b±¿¹«¼r°","MS",51
+"bureau","NY16A","449","N","N"," "," ","bj¹°r°","MS",52
+"bureau","NY16B","450","N","N"," "," ","bj¹°ro¹","MS",53
+"bureau","NY17A","451(*)","N","N"," "," ","åb±u¼õro¹","MS",54
+"dresser","NY17A","451(*)","N","Y"," ","AUX","dò²s´","MS",54
+"bureau","NY17A","451(*)","N","Y"," ","AUX","bju½¼°r°","MS",54
+"bureau","NY17B","452","N","N"," "," ","bju¿½¾´o½¹","MS",55
+"bureau","NY18A","453","N","N"," "," ","åb±¼¹ro¹","MS",56
+"dresser","NY18B","454","N","N"," "," ","dr²s´","MS",57
+"bureau","NY18B","454","N","N"," "," ","bju½¼´oİ¼¹İ","MS",57
+"bureau","NY18C!","455!","N","N"," "," ","bj¹«¼°rŸÕİˆo{¹}","MS",58
+"bureau","NY19","456","N","N"," "," ","bj¹«¼´o¼¹","MS",59
+"bureau","NY20A","457","N","N"," "," ","b±¿¾u¼ro½¹½","MS",60
+"bureau","NY20B","458","N","Y"," ","OLD","b±¿u½¼r°","MS",61
+"chest of drawers","NY20B","458","O","N"," "," ","õtó²st$°v$ådò·´z","MS",61
+"bureau","NY21","459","N","N"," "," ","b±¿İ¼u½¼ro{¹}","MS",62
+"bureau","NY22","460","N","N"," "," ","bju¿½{°}ro½º{¹}","MS",63
+"bureau","NY23A","461","N","N"," ","SIC","åb±¿´°—","MS",64
+"bureau","NY23B","462a","N","N"," "," ","åbju½¼º´o¿½¼{¹}","MS",65
+"chambers","NY23B","462a","N","Y","= bedroom","INA","tóe½ºi½¾mb´«¾z","MS",65
+"bureau","NY23C","462b","N","N"," "," ","bj¹¿«´°","MS",66
+"chest of drawers","NY23C","462b","O","N"," "," ","åtó²st$°«v$õdò·º|´z","MS",66
+"bureau","NY24A","463","N","N"," "," ","b±¿u¼r°","MS",67
+"chest of drawers","NY24B!","464!","O","Y","tall","OLD","tó²st$°v$dò·´z","MS",68
+"chiffonier","NY24B!","464!","N","Y","tall","OLD","õó±f°ån±«´","MS",68
+"bureau","NY24B!","464!","N","N"," "," ","b±¿´ºoİ½¹İ","MS",68
+"bureau","NY25A","465","N","N"," "," ","åb±¿u¿õro¼{¹¼}","MS",69
+"chest","NY25A","465","N","N"," "," ","tóá«{°}st","MS",69
+"sideboard","NY25A","465","N","N"," "," ","åsa¼±¿¼dõbo´d","MS",69
+"bureau","NY25B","466","N","N","""glass¢"," ","bju¿ºr°","MS",70
+"bureau","NY25B","466","N","N","""glass¢"," ","b{±¿}u½º´o½{¹}","MS",70
+"chest of drawers","NY25B","466","O","N"," "," ","õtó²st$°$ådò¶”ºz","MS",70
+"glass","NY25B","466","N","Y"," ","INA","gìá{°}s","MS",70
+"dresser","NY26A","467","N","N"," "," ","dò²«s´","MS",71
+"bureau","NY26B","468","N","N"," "," ","åbju¿½´°—","MS",72
+"bureaus","NY26B","468","N","N"," "," ","åbju¿º´°{¹¿}z","MS",72
+"highboys","NY26B","468","N","N"," "," ","åha±¿$õb·«±¿z","MS",72
+"commodes","NY26C","469","N","N"," "," ","k°åmo¼º¹¼dz","MS",73
+"dressers","NY26C","469","N","N"," "," ","dò²«s´«z","MS",73
+"bureau","NY27A","470","N","N"," "," ","bj¹«¼´°","MS",74
+"dresser","NY27A","470","N","Y"," ","NEW","dò²«s´«¾","MS",74
+"dresser","NY27B","471","N","N"," "," ","dò²«s´","MS",75
+"bureau","NY27B","471","N","N"," "," ","bju¿º´°","MS",75
+"drawers","NY27B","471","N","Y"," ","INA","dò¶«|´z","MS",75
+"bureau","NY27C","472","N","N"," "," ","bj¹¿´°—","MS",76
+"dressers","NY28A","473a","N","N"," "," ","dò²«s´«¾z","MS",77
+"bureau","NY28A","473a","N","N","no mirror"," ","åb±¿º´o¿«{¹¿}","MS",77
+"bureau","NY28B","473b(*)","N","N","""large drawer¢"," ","åb±¿º{u¿}õro¼¹","MS",78
+"bureaus","NY28B","473b(*)","N","N","""large drawer¢"," ","åb±¿ºuõro¼{¹¼}z","MS",78
+"large drawer","NY28B","473b(*)","O","Y"," ","INA","õlŞ´dú$ådò·½º","MS",78
+"drawers","NY28C"," ","N","N"," "," ","dò¶«º|´z","MS",79
+"chest of drawers","NY28C"," ","O","N"," "," ","tó²«st$°v$dò·½º|´z","MS",79
+"bureaus","NY28C"," ","N","N"," "," ","bju¿½´°—z","MS",79
+"chest of drawers","NY28C"," ","O","N"," "," ","tó²ºst$°v$dò¶«º|´z","MS",79
+"glass","NY29A","474a","N","Y"," ","INA","gìá{°}s","MS",80
+"bureau drawer","NY29A","474a","O","N","usually with a ""glass¢"," ","åbju¿º´°$õdò·½º´","MS",80
+"bureau","NY29A","474a","N","N","usually with a ""glass¢","CNV","åbu¿¼ºu´°","MS",80
+"bureau","NY29B","474b","N","N","no mirror"," ","åbu¿¼u´o¼º¹","MS",81
+"dresser","NY29B","474b","N","N","mirror"," ","dò²«s´","MS",81
+"bureaus","NY29C","474c","N","N"," "," ","bu¿¼u´°«z","MS",82
+"dressers","NY29C","474c","N","N"," "," ","dò²s´z","MS",82
+"dressers","NY30A","475a","N","N"," "," ","dò²«s´«z","MS",83
+"commode","NY30B","475b","N","N"," "," ","k°åmo½¼{¹}d","MS",84
+"dressers","NY30B","475b","N","N"," "," ","dò²¾s´z","MS",84
+"dresser","NY30C","475c","N","N"," "," ","ådò²s´","MS",85
+"commode","NY30C","475c","N","N","washbowl"," ","k°åmo¼º¹¼{°}d","MS",85
+"stand","NY30C","475c","N","N"," "," ","stáº{°}n","MS",85
+"chest of drawers","NY30D","475d","O","N"," "," ","tó²¾st$°$dò·½´z","MS",86
+"dresser","NY30E","475e","N","N","now"," ","dò²s´","MS",87
+"bureau","NY30E","475e","N","Y","previously","OLD","åbju¿¾ºro¼º{¹º}","MS",87
+"bureau","NY31A","478a","N","N","no mirror"," ","b±¿u¿´o¼{¹¼}","MS",88
+"chest of drawers","NY31A","478a","O","N"," "," ","õtó²«st°$ådò·½º´z","MS",88
+"stand","NY31A","478a","N","N"," "," ","stá«{°}n","MS",88
+"bureau","NY31B","478b","N","N"," "," ","åb±¿´o¼{¹¼}","MS",89
+"dresser","NY31B","478b","N","N"," "," ","dò²s´","MS",89
+"washstand","NY31B","478b","N","N"," "," ","åwµóõstá«{°}n","MS",89
+"bureaus","NY32A","479a","N","N"," "," ","bju¿º´°—{¹¿}z","MS",90
+"bureaus","NY32B","479b","N","Y"," ","OLD","åb±¿u¿´o½{¹¼}z","MS",91
+"dresser","NY32B","479b","N","N"," "," ","dò²«s´«","MS",91
+"dresser","NY33A","480","O","N"," "," ","ådò²«s´","MS",92
+"NR","NY33B","481"," ","N"," "," "," ","MS",93
+"dressers","NY33C","482","N","N"," "," ","dò²«s´«z","MS",94
+"dry goods box","NY33C","482","O","Y","in old days","AMS/OLD","ådòµº±$g¹dz$åbµks","MS",94
+"commodes","NY33C","482","N","Y","mother used to call","OLD/HRD","k°åmo¼¹¼dz","MS",94
+"bureau","NY34A","483","N","N"," "," ","b±¿u¿´°","MS",95
+"chest of drawers","NY34B","484","O","N"," ","CNV","tó²«st$°$ådò·¼´z","MS",96
+"bureau","NY34B","484","N","N"," "," ","åb±u¿ºõòo½¼¹¼","MS",96
+"bureau","NY34B","484","N","N"," ","CNV","bju¿´°","MS",96
+"dresser","NY34B","484","N","N"," "," ","dò²s´","MS",96
+"a drawers","NY34B","484","O","Y"," ","INA","°ådò·«´z","MS",96
+"washstand","NY34B","484","N","N","""a drawers¢","CNV","åw·«¼óõstáºn","MS",96
+"bureaus","NY34C","485","N","N"," "," ","åbju¿´°—z","MS",97
+"bureau","NY34D!","486!","N","N"," "," ","bju¿½¾u¿¾õro½¼¹¼","MS",98
+"bureau","NY34D!","486!","N","N"," "," ","åb±¿İu¿r°—","MS",98
+"commode","NY34D!","486!","N","N"," "," ","k°åmo¿¾¹¼d","MS",98
+"chest of drawers","NY35A","487","O","N","tall"," ","tó²st$°$ådò·´z","MS",99
+"bureau","NY35A","487","N","N"," "," ","b±¿u½¼´°","MS",99
+"bureau","NY35B","488","N","N"," "," ","b±¿«¹«ro{¹}","MS",100
+"dresser","NY35B","488","N","N"," "," ","dò²s´","MS",100
+"bureau","NY35C!","489!","N","N"," "," ","bj¹{°}ro¼{¹}","MS",101
+"bureau","NY36A","491","N","N"," "," ","åb±¿¹«õro{¹}","MS",102
+"dresser","NY36B","492","N","N"," "," ","dò²s´","MS",103
+"bureau","NY36B","492","N","N"," "," ","b±¿u½¼r°","MS",103
+"bureau","NY37A","493","N","N"," "," ","b±¿¾u½¼r°","MS",104
+"chest of drawers","NY37A","493","O","N","tall"," ","õtó²st$°$ådò·½´z","MS",104
+"chest of drawers","NY37B","494","O","N"," "," ","õtó²st$°$ådò·´z","MS",105
+"chest of drawers","NY37C!","495!","O","N"," "," ","tó²st$°$dò·´z","MS",106
+"bureau","NY37C!","495!","N","N"," "," ","b±¿«¹«r°","MS",106
+"bureau","NY38A","497(*)","N","N"," "," ","b±¿«u½¼r°","MS",107
+"dresser","NY38B","498","N","N"," "," ","dò²s´","MS",108
+"bureau","NY38B","498","N","N"," "," ","b±¿¹«r°","MS",108
+"chest of drawers","NY38C"," ","O","N","tall"," ","õtó²st$°$ådò·´z","MS",109
+"dresser","NY38C"," ","N","N"," "," ","dò²s´","MS",109
+"bureau","NY38C"," ","N","Y"," ","OLD","b±¿İ«¹«r°","MS",109
+"bureau","NY39A","499","N","N"," "," ","b±¿¹«r°","MS",110
+"dresser","NY39B","500","N","N"," "," ","dò²s´","MS",111
+"bureau","NY39B","500","N","N"," "," ","b±ro{¹}","MS",111
+"NR","NY40A","501"," ","N"," "," "," ","MS",112
+"dresser","NY40B","502","N","Y"," ","NEW","dò²s´","MS",113
+"bureau","NY40B","502","N","N"," "," ","b±¿İ«¹´o½{¹½}","MS",113
+"bureau","NY41","504","N","N"," "," ","b±¿¹«ro{¹}","MS",114
+"dresser","NY41","504","N","N"," "," ","dò²s´","MS",114
+"bureau","NY42A","505","N","N"," "," ","b±¿u½¼roº{¹}","MS",115
+"bureau","NY42B","506","N","N"," "," ","bj¹«ro½{¹}","MS",116
+"dresser","NY42B","506","N","N"," "," ","dò²s´","MS",116
+"bureau","NY43A","507","N","N"," "," ","åb±¿¹«r°","MS",117
+"bureau","NY43B","507b","N","N"," "," ","b±¿¹´°","MS",118
+"dresser","NY43C!","508!","N","N"," "," ","dò²s´","MS",119
+"bureau","NY43C!","508!","N","N"," "," ","b±¿İ«u½¼´o½¼{¹}","MS",119
+"bureau","NY44A","511","N","N"," "," ","åb±¿«u½¼õro{¹}","MS",120
+"bureau","NY44B","512","N","N"," "," ","b±¿«u½¼´°","MS",121
+"dresser","NY44B","512","N","N"," "," ","dò²s´","MS",121
+"bureau","NY45A","513a","N","N"," "," ","åb±¿u¿´°—","MS",122
+"bureaus","NY45B","513b","N","Y"," ","OLD","bju¿º´°«z","MS",123
+"dresser","NY45B","513b","N","N"," "," ","ådò²«s´","MS",123
+"bureau","NY45C","513c","N","N"," "," ","åbju¿º´°—","MS",124
+"stand","NY45C","513c","N","N"," "," ","stá«º{°}nd","MS",124
+"bureau","NY45D!","513d!","N","N"," "," ","bju½¼´°—","MS",125
+"washstand","NY45D!","513d!","N","N"," "," ","åwµóõstáº{°}n","MS",125
+"glass","NY46A","515a","N","Y"," ","INA","gìás","MS",126
+"dresser","NY46A","515a","N","N","""glass¢"," ","dò²«s´","MS",126
+"chest of drawers","NY46A","515a","O","N"," "," ","õtó²«st$°$ådò·½º´z","MS",126
+"stand","NY46A","515a","N","N"," "," ","stáºn","MS",126
+"commode","NY46B","515b","N","N"," "," ","k°mo¹«d","MS",127
+"dresser","NY46B","515b","N","N","mirror"," ","dò²s´","MS",127
+"bureau","NY46B","515b","N","N"," "," ","bj¹«´°","MS",127
+"chest of drawers","NY46C","515c","O","N"," "," ","tó²¼st$°$dr·º°z","MS",128
+"bureau","NY46C","515c","N","N","mirror"," ","bju½¼u¼r°","MS",128
+"bureau","NY47A","517(*)","N","Y"," ","AUX","bj¹«{°}r°","MS",129
+"dresser","NY47A","517(*)","N","Y"," ","AUX","dò²s´","MS",129
+"bureau","NY47A","517(*)","N","N"," "," ","bju¼ºro½¼¹¼","MS",129
+"chest of drawers","NY47B","518","O","N"," "," ","tó²st$°$dò·´z","MS",130
+"bureau","NY48A","519a","N","N","""big drawers¢"," ","åb±¿u¿´°«z","MS",131
+"big drawers","NY48A","519a","O","Y"," ","INA","åb±«g$õdòŞº{°}z","MS",131
+"dresser","NY48B","519b","N","N","""looking glass¢"," ","ådò²s´","MS",132
+"looking glass","NY48B","519b","O","Y"," ","INA","ål¹k±¿n$õgìás","MS",132
+"highboys","NY48C","519c","N","N"," "," ","åh¥±¿õb·«±¿z","MS",133
+"dressers","NY48C","519c","N","Y"," ","NEW","dò²s´z","MS",133
+"bureaus","NY48C","519c","N","N"," "," ","åb±¿u¿´°—z","MS",133
+"highboys","NY48D","519d","N","N"," "," ","åh°±¿¼õb·«±¿z","MS",134
+"dresser","NY48D","519d","N","N","""drawers¢, ""mirror¢"," ","dò²«s´","MS",134
+"drawers","NY48D","519d","N","Y"," ","INA","dò·½ºz","MS",134
+"mirror","NY48D","519d","N","Y"," ","INA","mj±¾´¼´","MS",134
+"bureau","NY49A","520","N","N"," "," ","bju¿´°","MS",135
+"chests of drawers","NY49A","520","O","N"," "," ","tó²«sz$°«v$ådò·«º|´«z","MS",135
+"stand","NY49A","520","N","N"," "," ","stáº{°}n","MS",135
+"bureau","NY49B","521","N","N"," "," ","b±¿u½¼r°","MS",136
+"looking glass","NY49C","522a","O","Y"," ","INA","ål¹kî$õgìá«s","MS",137
+"bureau","NY49C","522a","N","N","""looking glass¢"," ","åb±¿u¿´o½{¹¼}","MS",137
+"dresser","NY49C","522a","N","N","""looking glass¢"," ","dò²s´","MS",137
+"highboys","NY49C","522a","N","N","no mirror"," ","åha«±¿õb·±¿z","MS",137
+"dresser","NY49D","522b","N","N","lower, wider [than chest of drawers]; mirror"," ","dò²s´","MS",138
+"chest of drawers","NY49D","522b","O","N","same [as chiffonier]"," ","õtó²¾st$°v$ådò·½´z","MS",138
+"chiffonier","NY49D","522b","N","Y","same [as chest of drawers]","OLD","ó±f°ån±º´","MS",138
+"dresser","NY50A","523","N","N"," "," ","dò²«s´","MS",139
+"bureaus","NY50A","523","N","N"," "," ","bj¹«¼º´°—{¹¿}z","MS",139
+"commode","NY50B","524","N","N"," "," ","k°åmo¼¹¼d","MS",140
+"dresser","NY50B","524","N","N"," "," ","dò²s´","MS",140
+"bureaus","NY51A","525a","N","N"," "," ","åb±¿u´°—z","MS",141
+"chest","NY51A","525a","N","N","= boxes"," ","tó²«ss","MS",141
+"bureau","NY51B","525b","N","N"," "," ","åbju¿´°","MS",142
+"stand","NY51B","525b","N","N"," "," ","stá«ºn","MS",142
+"dresser","NY51C","525c","N","N"," "," ","dò²s´","MS",143
+"bureaus","NY51C","525c","N","N"," "," ","bj¹¼r°—z","MS",143
+"bureau","NY51D","525d","N","N"," "," ","b±¿¹´°—","MS",144
+"dresser","NY51D","525d","N","N"," "," ","dò²«s´","MS",144
+"chiffoniers","NY51D","525d","N","N"," "," ","åó²«f°õn²«´z","MS",144
+"bureau","NY51E!","525e!","N","N"," "," ","bju¿´o¼{¹¼}","MS",145
+"washstand","NY51E!","525e!","N","N"," "," ","åwµóõstáº{°}n","MS",145
+"bureaus","NY52A","527","N","N"," "," ","bju¿¼´°z","MS",146
+"dressers","NY52B","528","N","N"," "," ","dò²«s´«z","MS",147
+"bureau","NY52B","528","N","N"," "," ","åbju¿´oİ½¼¹İ¼","MS",147
+"looking glass","NY52B","528","O","Y"," ","INA","åì¹k±¿î$õgìás","MS",147
+"dresser","NY52C","528b","N","N","mirror"," ","dò²s´","MS",148
+"bureau","NY52C","528b","N","N","mirror"," ","õbju¿¾{u¿«¾}´°","MS",148
+"chest of drawers","NY52C","528b","O","N","no mirror"," ","åtó²st$°$õdò¶´z","MS",148
+"bureau","NY52C","528b","N","N","mirror","CNV","åb±¾´o½{¹}","MS",148
+"chest of drawers","NY53A","529","O","N"," "," ","õtó²«st$°$ådò¶«º´z","MS",149
+"bureau","NY53A","529","N","N"," "," ","åbj¹´°","MS",149
+"a bureaus","NY53B!","530!","O","N"," "," ","°åbju½¼u¼õro½¼¹¼z","MS",150
+"dresser","NY53B!","530!","N","Y"," ","NEW","dò²«s´","MS",150
+"washstand","NY53B!","530!","N","Y"," ","INA","åw¶«óõstáºn","MS",150
+"bureau","NY54A","531","N","N","not always mirror"," ","b{±}¹¼´°","MS",151
+"chest of drawers","NY54B","532","O","N"," "," ","tó²st$°$dò·º´z","MS",152
+"dressers","NY54B","532","N","N"," "," ","dò²«s´«z","MS",152
+"bureau","NY55A","533","N","N"," ","CNV","bju¿u¿´°","MS",153
+"bureau","NY55A","533","N","N"," "," ","bju¿½u¿´°","MS",153
+"commode","NY55A","533","N","N"," "," ","k°åmo½¼º{°}d","MS",153
+"bureau","NY55A","533","N","N"," "," ","bju½¼u¼´o¼¹¼","MS",153
+"dresser","NY55A","533","N","Y"," ","NEW","dò²s´","MS",153
+"bureau","NY55B","534","N","N"," "," ","åbju¿ºõro¼¹¼","MS",154
+"bureau","NY56A","535","N","N"," "," ","b±¿—´o¿{¹¿}","MS",155
+"black ash","NY56A","535","O","Y"," ","INA","õbìák$åá«{²}ó","MS",155
+"highboy","NY56B","536","N","Y"," ","NEW","åh¥º±¿õb·«º±¿","MS",156
+"bureau","NY56B","536","N","N"," ","CNV","åb±¿u¿´°—","MS",156
+"bureau","NY56B","536","N","N"," "," ","bju¿º´°","MS",156
+"bureau","NY57A","537a","N","Y","older name than dresser","OLD","åb±¿u¿´°—{¹¿}","MS",157
+"commode","NY57A","537a","N","N"," "," ","k°åmo½¼¹¼d","MS",157
+"dresser","NY57A","537a","N","N"," "," ","ådò²s´","MS",157
+"commode","NY57B","537b","N","N"," "," ","k°åmo½¼¹¼d","MS",158
+"bureau","NY57B","537b","N","N"," "," ","åb±¿u¿´õo¼¹¼","MS",158
+"chest of drawers","NY57B","537b","O","N"," "," ","åtó²«st$°$ådr·´z","MS",158
+"bureau","NY57C!","537c!","N","N","""mirror¢"," ","åbju¼´o½¼{¹¼}","MS",159
+"commode","NY57C!","537c!","N","N"," "," ","k°åmo½¼¹¼d","MS",159
+"mirror","NY57C!","537c!","N","Y"," ","INA","m±¾´´","MS",159
+"bureau","NY58A","539a","N","N"," "," ","åbju¿õro¿¹¼","MS",160
+"chamber","NY58A","539a","N","Y"," ","INA","tóe±¿mb´","MS",160
+"commode","NY58A","539a","N","N","""chamber¢"," ","k°åmo½¼º¹¼d","MS",160
+"commode","NY58B","539b","N","N"," "," ","k`°åmo¼¹¼d","MS",161
+"bureau","NY58B","539b","N","N"," "," ","åb±¿u¿´°—{¹¿}","MS",161
+"stand","NY58B","539b","N","N"," "," ","stá«º{°}n","MS",161
+"bureau","NY58C","539c","N","N"," "," ","bju¿”´°—","MS",162
+"a peer glass","NY58D!","539d!","O","N"," "," ","°$åpji½º°$õglás","MS",163
+"bureau","NY58D!","539d!","N","N","""a peer glass¢"," ","åbju¿”u¿«õr—‡o¼{¹¼}","MS",163
+"dresser","NY58D!","539d!","N","N"," "," ","dò—²«s°«","MS",163
+"bureau","NY58E!","539e!","N","N"," "," ","b±¿u¿´o¼¹¼","MS",164
+"chest of drawers","NY58E!","539e!","O","N","man's clothes"," ","õtó²«st$°v$ådò·«º´z","MS",164
+"washstand","NY58E!","539e!","N","N","plumbing"," ","åw¶´óõstáº{°}n","MS",164
+"chest of drawers","NY58F!","539f!","O","N"," "," ","tó²«st$°«v$ådò·«´«z","MS",165
+"bureau","NY58F!","539f!","N","N"," "," ","åbju¼´o¼{¹¼}","MS",165
+"bureau","NY58F!","539f!","N","N"," "," ","åbju¼´o¼{¹¼}°—","MS",165
+"bureau","NY59A","543","N","Y"," ","OLD","åb¹¿½¾´o¼{¹¼}","MS",166
+"dresser","NY59A","543","N","N"," "," ","dò²«s´","MS",166
+"commode","NY59A","543","N","N"," "," ","k°åmo½¼¹¼d","MS",166
+"dresser","NY59B","544","N","N"," "," ","dr²s´","MS",167
+"bureau","NY59B","544","N","N"," "," ","b±¾u½¼r°","MS",167
+"bureaus","NY60A","545","N","N"," "," ","åbju¿¼º´°—z","MS",168
+"chests of drawers","NY60B!","546!","O","N"," "," ","õtó²«sts$°«v$ådò·º´z","MS",169
+"bureau","NY60B!","546!","N","N"," "," ","bj¹¼´°","MS",169
+"dresser","NY60B!","546!","N","Y"," ","NEW","dò²«s´","MS",169
+"washstand","NY60B!","546!","N","N","a ""slop jar¢"," ","åw¶óõstá«n","MS",169
+"slop jar","NY60B!","546!","O","Y"," ","INA","åslµp$õdúµ´","MS",169
+"looking glass","NY61A","547","O","Y"," ","INA","ål¹'kî$dláºs","MS",170
+"mirror","NY61A","547","N","Y"," ","INA","m²«´´","MS",170
+"mirror","NY61A","547","N","Y"," ","INA","m²½´´","MS",170
+"bureau","NY61A","547","N","N","""looking glass¢, ""mirror¢"," ","åbju¿¼´°","MS",170
+"bureau","NY61B","548","N","N"," "," ","bju¿½ºu¿´°","MS",171
+"dresser","NY61B","548","N","N","""looking glass¢"," ","ådò²«s´","MS",171
+"looking glass","NY61B","548","O","Y"," ","INA","ål¹'kî$õgìás","MS",171
+"pot","NY61B","548","N","Y"," ","INA","p`µt","MS",171
+"bureaus","NY62A","551a","N","N"," "," ","bu¿ºu¼´°z","MS",172
+"commodes","NY62B","551b","N","N"," "," ","k°åmoº{¹}dz","MS",173
+"bureau","NY62B","551b","N","N"," ","CNV","åb¹¿¼u¿¾´°","MS",173
+"bureau","NY62B","551b","N","N"," "," ","b{¹¿}u¿´°","MS",173
+"bureau","NY62B","551b","N","N"," ","CNV","b¹¿¼u´°","MS",173
+"bureau","NY62C","551c","N","N"," "," ","åb{j}u¿´o½{¹¼}","MS",174
+"dresser","NY62C","551c","N","N"," "," ","dò²«s´","MS",174
+"bureau","NY62C","551c","N","N"," "," ","b±¿u¿´o¼{¹¼}","MS",174
+"bureau","NY62D!","551d!","N","N"," "," ","åbu¿¼º´o¼¹¼","MS",175
+"dresser","NY62D!","551d!","N","Y"," ","NEW","dò²«s´","MS",175
+"dresser","NY63A","556a","N","N"," "," ","dò²«s´","MS",176
+"bureaus","NY63A","556a","N","N"," "," ","åbju¿ºu¿«õro¼{¹¼}z","MS",176
+"chest of drawers","NY63A","556a","O","Y"," ","NEW","õtó²«st$°$ådò·º´z","MS",176
+"bureaus","NY63B","556b","N","Y"," ","OLD","åb±u¿´°—z","MS",177
+"dresser","NY63B","556b","N","N"," "," ","ådò²«s´","MS",177
+"dresser","NY63C","556c","N","N"," "," ","dr²s´","MS",178
+"chest of drawers","NY63C","556c","O","N"," "," ","õtó²st$°$ådr¶«º{°}z","MS",178
+"mirror","NY63D!","556d!","N","Y"," ","INA","m±¾´´","MS",179
+"bureau","NY63D!","556d!","N","N","""mirror¢"," ","åb¹¿u¿´o¿¾{¹¼}","MS",179
+"washstand","NY63D!","556d!","N","N"," "," ","åw¶óõstáº{°}n","MS",179
+"wash hand stands","NY63D!","556d!","O","Y"," ","NEW","åwŞ—ó$õhá{°}n{d}$åstáº{°}nz","MS",179
+"bureau","NY64A","557a","N","N"," "," ","bju¿º´°—","MS",180
+"chest of drawers","NY64A","557a","O","N"," "," ","õtó²«st$°$ådò¶«º|´«z","MS",180
+"bureau","NY64B","557b","N","N"," "," ","åb±¿İ¼u¿´°—","MS",181
+"dresser","NY64B","557b","N","Y"," ","NEW","dò²«s´","MS",181
+"bureau","NY64B","557b","N","N"," "," ","bu¿¼u¿´°","MS",181
+"little stand","NY64B","557b","O","N"," "," ","õl±ºtì$õstáº{°}n","MS",181
+"dresser","NY64C!","557c!","N","N"," "," ","dò²«s´","MS",182
+"bureau","NJ1A","1","N","N"," "," ","bju¿¾´°","MS",183
+"bureau","NJ1B","2","N","N"," "," ","bju¿½¾{°}roİ½¼¹İ","MS",184
+"bureau","NJ2A","3(*)","N","N"," "," ","bju½¼{°}ro½¹","MS",185
+"bureau","NJ2A","3(*)","N","Y"," ","AUX","åbju¿½¾{°}ro½¼¹","MS",185
+"bureau","NJ2B","4","N","N"," "," ","bju¿½¾r°","MS",186
+"bureau","NJ3A","5","N","N"," "," ","bju½¼{°}roİ½¼¹İ","MS",187
+"bureau","NJ3B","6","N","N"," "," ","bju¿´|´İ","MS",188
+"bureau","NJ4A","7","N","N"," "," ","bju¿¾{°}r°","MS",189
+"bureau","NJ4B","8","N","N"," "," ","bju½¼´°","MS",190
+"bureau","NJ5A","9","N","N"," "," ","bj¹°roİ½¼¹İ","MS",191
+"bureau","NJ5B","10","N","N"," "," ","bju¿½{°}roİ½¼¹İ","MS",192
+"dresser","NJ6A","11","N","N"," "," ","dò²s´","MS",193
+"bureau","NJ6A","11","N","N"," "," ","bju½¼´o¼¹","MS",193
+"bureau","NJ6B","12","N","N"," "," ","bju¿½{°}r°","MS",194
+"bureau","NJ7A","17","N","N"," "," ","bj¹«{°}ro½¼¹","MS",195
+"bureau","NJ7B!","18!","N","N"," "," ","åbju¿½{°}rÀ¹","MS",196
+"bureau","NJ8A","19","N","N"," "," ","åbju½¼{°}´oİ½¼¹İ","MS",197
+"bureau","NJ8B","20","N","N"," "," ","åbju¿ro¼¹","MS",198
+"bureau","NJ9A","21","N","N"," "," ","bj¹°r°","MS",199
+"bureau","NJ9B","22","N","N"," "," ","bju¿ro½¼¹","MS",200
+"bureau","NJ10A","24b","N","N"," "," ","bj¹«°ro½¼¹","MS",201
+"bureau","NJ10B","23","N","N"," "," ","bju¿½¾{°}r°","MS",202
+"bureau","NJ10C","24","N","N"," "," ","bju¿½¾{°}r°","MS",203
+"bureau","NJ10D!","24c!","N","N"," "," ","bju½¼roİ½¼¹İ","MS",204
+"bureau","NJ11A","25","N","N"," "," ","bju«{°}r°","MS",205
+"bureau","NJ11B","26a","N","N"," "," ","åbj¹¿¾{°}ro”½¼¹","MS",206
+"chest of drawers","NJ11B","26a","O","N","tall"," ","tó²st$°v$dr·´z","MS",206
+"NR","NJ11C","26b"," ","N"," "," "," ","MS",207
+"bureau","NJ12A","27","N","N"," "," ","bju¿½¾{°}r°","MS",208
+"bureau","NJ12B","28","N","N"," "," ","bju¿{°}r°","MS",209
+"bureau","NJ13A","29","N","N"," "," ","bju½¼{°}ro½¼¹","MS",210
+"bureau","NJ13B","30","N","N"," "," ","bj¹«¾{°}r°","MS",211
+"chest of drawers","NJ14A","31","O","N","taller [than bureau]"," ","tó²st$°$dò·´z","MS",212
+"bureau","NJ14A","31","N","N"," "," ","bju¿½¾{°}ro½¼¹","MS",212
+"bureau","NJ14B","32","N","N"," "," ","bju¿½{°}ro½¼¹","MS",213
+"bureau","NJ15A","33","N","N"," "," ","bju¿½¾{°}r°","MS",214
+"chest of drawers","NJ15A","33","O","N"," "," ","tó²st$°$dò·´z","MS",214
+"bureau","NJ15B","34","N","N"," "," ","bju¿½{°}r°","MS",215
+"bureau","NJ16A","35","N","N"," "," ","bju¿{°}r°","MS",216
+"chifforobe","NJ16B","36","N","N"," "," ","åó±f°ro”½¼º¹b","MS",217
+"dresser","NJ16B","36","N","N"," "," ","dò²s´","MS",217
+"bureau","NJ17A","37","N","N"," "," ","bju¿r°","MS",218
+"chest of drawers","NJ17B","38","O","N","tall"," ","tó²st$°$dò·´z","MS",219
+"bureau","NJ17B","38","N","N"," "," ","bju¿{°}r°","MS",219
+"bureau","NJ18A","41","N","N"," "," ","bju½¼{°}r°","MS",220
+"bureau","NJ18B","42","N","N"," "," ","bj¹«{°}ro½¼¹","MS",221
+"bureau","NJ18C!","43!","N","N"," "," ","åbj¹°rÀİ«¹İ","MS",222
+"chest of drawers","NJ18D!","44!","O","N","taller [than bureau]"," ","tó²st$°v$ådò·´z","MS",223
+"bureau","NJ18D!","44!","N","N"," "," ","bju¿½¼´Àİ¾¹İ«","MS",223
+"bureau","NJ19A","45","N","N"," "," ","bj¹°r°","MS",224
+"dresser","NJ19A","45","N","N"," "," ","dò²s°","MS",224
+"dresser","NJ19B!","46!","N","N"," "," ","dò²s°","MS",225
+"bureau","NJ19B!","46!","N","N"," "," ","bj¹«°r°","MS",225
+"bureau","NJ20A","47","N","N"," "," ","bju¼r°","MS",226
+"chest","NJ20A","47","N","N"," "," ","tó²st","MS",226
+"kast","NJ20A","47","N","Y","Dutch","INA","åkµ¾ºst","MS",226
+"bureau","NJ20B","47b","N","N"," "," ","bj¹°ro½¹","MS",227
+"bureau","NJ21A","48","N","N"," "," ","bj¹«°ro½¼¹","MS",228
+"dresser","NJ21B","49","N","N"," "," ","dò²s´","MS",229
+"bureau","NJ21B","49","N","N"," "," ","bju¼r°","MS",229
+"bureau","PA1A","51","N","N"," "," ","bju½¼{°}r°","MS",230
+"bureau","PA1B","52","N","N"," "," ","bju¿½¾{°}r°","MS",231
+"bureau","PA1C","53","N","N"," "," ","bju½¼{°}r°","MS",232
+"highboy","PA1D","54","N","N","tall"," ","åha¾±¿õb·«±¿","MS",233
+"bureau","PA1D","54","N","N"," "," ","bju½¼{°}r°","MS",233
+"dresser","PA1E!","55!","N","N","= chest of drawers"," ","dò²s´","MS",234
+"bureau","PA1E!","55!","N","N"," "," ","bj¹{°}ro½¹","MS",234
+"bureau","PA1F!","56!","N","N"," "," ","bju¿½¾{°}ro½¼¹","MS",235
+"highboy","PA1F!","56!","N","N","tall"," ","åhaº±¿½õb·«±¿","MS",235
+"bureau","PA1G!","57!","N","N"," "," ","bj¹{°}r°","MS",236
+"highboy","PA1H!","58!","N","N","tall"," ","åhµ¾º²õbo½º±¿","MS",237
+"bureau","PA1H!","58!","N","N"," "," ","bj¹«{°}ro½¼¹","MS",237
+"bureau","PA2A","59","N","N"," "," ","bju¼{°}r°","MS",238
+"highboy","PA2A","59","N","N"," "," ","ha¾±¿b·«±¿","MS",238
+"bureau","PA2B","60","N","N"," "," ","bju¼{°}r·«¹","MS",239
+"bureau","PA3A","61","N","N"," "," ","bj¹{°}r°","MS",240
+"bureau","PA3B","62","N","N"," "," ","bju¿½{°}roİ½{¹}","MS",241
+"bureau","PA3C","62b","N","N"," "," ","bju½¼{°}ro½¼¹","MS",242
+"bureau","PA4A","63","N","N"," "," ","bju½¼{°}ro½¹","MS",243
+"bureau","PA4B!","64!","N","N"," "," ","bj¹{°}ro¹","MS",244
+"bureau","PA5A","65(*)","N","Y"," ","AUX","bj¹{°}r°","MS",245
+"bureau","PA5A","65(*)","N","N"," "," ","bju½¼{°}ro½¼¹","MS",245
+"bureau","PA5B","65b","N","N"," "," ","bju¼{°}r°","MS",246
+"highboy","PA5B","65b","N","N","= chest of drawers"," ","hµ¼±¿bo½±¿«","MS",246
+"bureau","PA5C","66","N","N"," "," ","bju½¼{°}rÀ¾¹½","MS",247
+"bureau","PA5D","67","N","N"," "," ","bj¹«{°}roİ½¼¹İ","MS",248
+"dresser","PA5D","67","N","Y"," ","NEW","dò²s´","MS",248
+"bureau","PA5E!","68!","N","N"," "," ","bju¿½{°}ro½¼¹","MS",249
+"bureau","PA6A","69","N","N"," "," ","p”ju{°}ro","MS",250
+"bureau","PA6B","71","N","N"," "," ","bju¼{°}r°","MS",251
+"NR","PA6C","71b"," ","N"," "," "," ","MS",252
+"chest of drawers","PA6D!","72!","O","N","tall"," ","tó²st$°$dò·½{r}z","MS",253
+"bureau","PA6D!","72!","N","N"," "," ","bju½¼{°}r°","MS",253
+"highboy","PA7A","73","N","N"," "," ","åha±¿õbo½±¿","MS",254
+"bureau","PA7A","73","N","N"," "," ","bju¿¾´oİ½¼{¹}","MS",254
+"bureau","PA7B","74","N","N"," "," ","bju¿½¾{°}r°","MS",255
+"bureau","PA7C","75","N","N"," "," ","bju½¼{°}r°","MS",256
+"case of drawers","PA7C","75","O","N","tall"," ","õkeºs$°$ådr·º{°}rz","MS",256
+"chest of drawers","PA7D!","76!","O","N"," "," ","tó²st$°v$dr·º´z","MS",257
+"bureau","PA7D!","76!","N","N"," "," ","åbju¼{°}r°","MS",257
+"bureau","PA8A","77","N","N"," "," ","b±«¼´o½¼{¹}","MS",258
+"chest of drawers","PA8A","77","O","N"," "," ","õtó²st$°$ådò·«´z","MS",258
+"bureau","PA8B","78","N","N"," "," ","bju¿½¾{°}ro½¼{¹}","MS",259
+"bureau","PA8C","79","N","N"," "," ","åp”ju¼{°}õro«º","MS",260
+"bureau","PA8D!","80!","N","N"," "," ","bju¿½¾{°}r°","MS",261
+"bureau","PA9A","83","N","N"," ","SIC","bru½¼roº","MS",262
+"bureau","PA9B","83b","N","N"," "," ","bju½¼{°}r{°}","MS",263
+"highboy","PA9C!","84!","N","N","tall"," ","åhaº±¿½õb·±¿","MS",264
+"bureau","PA9C!","84!","N","N"," "," ","bju¿½¾{°}r°","MS",264
+"chest of drawers","PA9C!","84!","O","N","tall"," ","õtó²st$°$ådò·´z","MS",264
+"bureau","PA10","87","N","N"," "," ","bju¼{°}ñİº°","MS",265
+"dresser","PA11A","89","N","Y"," ","NEW","dò²s´","MS",266
+"bureau","PA11A","89","N","N"," "," ","bj¹{°}r°","MS",266
+"chest of drawers","PA11B","90(*)","O","Y","taller [than bureau]","AUX","tó²st$°$dò·«´z","MS",267
+"bureau","PA11B","90(*)","N","N"," "," ","bju½¼{°}r°","MS",267
+"bureau","PA11B","90(*)","N","Y"," ","AUX","bj¹r°","MS",267
+"bureau","PA12A","91","N","N"," "," ","bj¹{°}r°","MS",268
+"bureau","PA12B","92","N","N"," "," ","bj¹{°}r°","MS",269
+"bureau","PA13A","93","N","N"," ","SIC","br¹r°","MS",270
+"bureau","PA13B","94","N","N"," "," ","bj¹¼{°}r°","MS",271
+"bureau","PA14A","95(*)","N","N"," "," ","p”ju¼{°}r°","MS",272
+"bureau","PA14A","95(*)","N","Y","""Dutch¢ name","AUX/INA","pi½r{°}ñ‡o«º","MS",272
+"wardrobe","PA14B","96","N","N"," "," ","åw·«´dõroº{¹}b","MS",273
+"NR","PA14C"," "," ","N"," "," "," ","MS",274
+"bureau","PA15A","99","N","N","no glass"," ","bju½¼ro{¹}","MS",275
+"dresser","PA15A","99","N","N"," "," ","dò²s´","MS",275
+"bureau","PA15B","99b","N","N"," "," ","bj¹«{°}ro¹","MS",276
+"bureau","PA15C!","100!","N","N"," "," ","bju¿½¾r°","MS",277
+"bureau","PA16A","101","N","N"," "," ","p”ju½¼{°}ñİ°","MS",278
+"dresser","PA16A","101","N","N"," "," ","t”r²s°{rŸÕ}","MS",278
+"chest of drawers","PA16B","102","O","N"," "," ","tó²st$°$dò·´z","MS",279
+"dresser","PA16B","102","N","N"," "," ","dò²s´","MS",279
+"bureau","PA16C","103","N","N"," "," ","bju½¼r°","MS",280
+"bureau","PA17A","105","N","N"," "," ","bju½¼{°}r°","MS",281
+"bureau","PA17B","106","N","N"," "," ","bju½¼{°}r°","MS",282
+"bureau","PA18A","107","N","N"," "," ","bju½¼{°}roİ½¼{¹}","MS",283
+"dresser","PA18A","107","N","N"," "," ","dò²s´","MS",283
+"bureau","PA18B!","108!","N","N"," "," ","bju½¼{°}r°","MS",284
+"chest of drawers","PA18B!","108!","O","N","tall"," ","õtó²st$°$ådò·´z","MS",284
+"bureau","PA19A","113","N","N"," "," ","bj¹«{°}r°","MS",285
+"bureau","PA19B","114","N","N"," "," ","bju«{°}r°","MS",286
+"bureau","PA20A","115","N","N"," "," ","bju¿r´","MS",287
+"bureau","PA20B","116","N","N"," "," ","bj¹{°}ro½{¹}","MS",288
+"dresser","PA20B","116","N","N"," "," ","dò²s´","MS",288
+"bureau","PA21A","117","N","N"," "," ","b±¿¹¿r°","MS",289
+"dresser","PA21B","118","N","N"," "," ","dò²s´","MS",290
+"bureau","PA21B","118","N","N"," "," ","b±İu¼r°","MS",290
+"bureau","PA22A","119","N","N"," "," ","b±¿¹ro{¹}","MS",291
+"bureau","PA22B","120","N","N"," "," ","b±u½¼r°","MS",292
+"dresser","PA22B","120","N","N"," "," ","dò²s´","MS",292
+"bureau","PA23A","121","N","N"," "," ","b±¿u½roİ{¹}","MS",293
+"bureau","PA23B","122","N","N"," "," ","b±¾¹¿roİ¼{¹}","MS",294
+"bureau","PA24A","123","N","N"," "," ","b±¹«roİ¼{¹}","MS",295
+"bureau","PA24B","124","N","N"," "," ","bj¹{°}r°","MS",296
+"dresser","PA25A","125","N","N"," "," ","dr²s´","MS",297
+"bureau","PA25A","125","N","N"," "," ","åb±¿¹«ro½¹","MS",297
+"bureau","PA25B","126","N","N"," "," ","bj¹r°","MS",298
+"bureau","PA26A","127","N","N"," "," ","åb±¿¹ro½¹","MS",299
+"bureau","PA26B","128","N","N"," "," ","b±{¹¿}r°","MS",300
+"dresser","PA26B","128","N","N"," "," ","dò²s´","MS",300
+"dresser","PA27A","131","N","Y"," ","NEW","dò²s´","MS",301
+"bureau","PA27A","131","N","N"," "," ","b{±}¹¿ro¼{¹}","MS",301
+"bureau","PA27B","132","N","N"," "," ","b±İ«¹ro½¼¹","MS",302
+"bureau","PA28A","135","N","N"," "," ","åbj¹{°}roİ¼{¹}","MS",303
+"bureau","PA28B!","136!","N","N"," "," ","bj¹{°}r°","MS",304
+"chest of drawers","PA28B!","136!","O","N","high, no glass"," ","tó²st$°$dr·«´z","MS",304
+"bureau","PA29A","139(*)","N","N"," "," ","bju¿½{°}r°","MS",305
+"bureau","PA29A","139(*)","N","Y"," ","AUX","bj¹{°}r°","MS",305
+"dresser","PA29A","139(*)","N","N"," "," ","dr²s´","MS",305
+"bureau","PA29B","140","N","N"," "," ","bju¼{°}r°","MS",306
+"bureau","PA30A","143","N","N"," "," ","åb±¾¹¼r°","MS",307
+"bureau","PA30B","144","N","N"," "," ","b±¾¹«r°","MS",308
+"bureau","PA31A","145","N","N"," "," ","bju¿½¾{°}ro½¹","MS",309
+"bureau","PA31B","146","N","N"," "," ","b±«{°}ro½¹","MS",310
+"chest of drawers","PA32A","147","O","N","taller [than bureau]"," ","tó²st$°$dò·«º´z","MS",311
+"bureau","PA32A","147","N","N"," "," ","bj¹«¼r°","MS",311
+"chest of drawers","PA32B","148","O","N","tall"," ","tó²st$°$ådò·«º´z","MS",312
+"dresser","PA32B","148","N","N","mirror"," ","dò²s´","MS",312
+"bureau","PA32B","148","N","N","no mirror"," ","bj¹«´°","MS",312
+"dresser","PA33A","151","N","N"," "," ","dr²s´","MS",313
+"bureau","PA33A","151","N","N"," "," ","bju¿{°}r°","MS",313
+"bureau","PA33B","152","N","N"," "," ","bju¿{°}r°","MS",314
+"dresser","PA33B","152","N","N"," "," ","dr²s´","MS",314
+"bureau","PA34A","155","N","N"," "," ","bju¿½{°}r°","MS",315
+"bureau","PA34B","156","N","N"," "," ","bj¹«{°}r°","MS",316
+"bureau","PA34C!","155b!","N","N"," "," ","bj¹«{°}r·¼¹","MS",317
+"chest of drawers","PA34C!","155b!","O","N"," "," ","tó²st$°v$dr·´z","MS",317
+"bureau","PA35A","157","N","N"," "," ","bj¹{°}r°","MS",318
+"bureau","PA35B","158(*)","N","N"," "," ","bj¹«{°}r°","MS",319
+"chest of drawers","PA35B","158(*)","O","N","tall"," ","tó²st$°$dr·«´z","MS",319
+"chest of drawers","PA35C"," ","O","N","tall"," ","tó²st$°$ådr·«´z","MS",320
+"bureau","PA35C"," ","N","N"," "," ","bj¹«¼{°}r°","MS",320
+"bureau","PA36A","159","N","N"," "," ","bj¹{°}ro{¹}","MS",321
+"bureau","PA36B","160","N","N"," "," ","åbj¹r°","MS",322
+"dresser","PA36B","160","N","Y"," ","NEW","dr²s´","MS",322
+"bureau","PA37A","161(*)","N","N"," "," ","bju½¼{°}r°","MS",323
+"bureau","PA37B","162","N","N"," "," ","bju¿{°}r°","MS",324
+"bureau","PA37C"," ","N","N"," "," ","bju¼{°}ro{¹}","MS",325
+"bureau","PA38A","163","N","N"," "," ","åbj¹{°}ro½¼{¹}","MS",326
+"bureau","PA38B","164","N","N"," "," ","bj¹«¼{°}r°","MS",327
+"bureau","PA39A","165","N","N"," "," ","bj¹{°}r°","MS",328
+"bureau","PA39B","166","N","N"," "," ","bj¹«¼{°}r°","MS",329
+"bureau","PA40A","167","N","N"," "," ","bju¿½¼{°}r°","MS",330
+"bureau","PA40B","168","N","N"," "," ","bju¿½¾{°}r°","MS",331
+"bureau","PA41A","171","N","N"," "," ","bju¿¾{°}r°","MS",332
+"dresser","PA41A","171","N","Y"," ","NEW","dò²s´","MS",332
+"bureau","PA41B","172","N","N"," "," ","bj¹{°}r°","MS",333
+"bureau","PA42A","175","N","N"," "," ","åbj¹«{°}r°","MS",334
+"bureau","PA42B","176","N","N"," "," ","bju¼{°}r°","MS",335
+"bureau","PA43A","177","N","N"," "," ","bj¹«{°}ro¿¾¹","MS",336
+"bureau","PA43B","178","N","N"," "," ","bj¹«¼{°}r°","MS",337
+"bureau","PA44A","179","N","N"," "," ","bj¹«{°}ro½¼¹","MS",338
+"chest of drawers","PA44A","179","O","N"," "," ","õtó²st$°$ådò·´z","MS",338
+"bureau","PA44B","180","N","N"," "," ","bju¿½{°}r°","MS",339
+"bureau","PA45A","181","N","N"," "," ","bju¿¼{°}ro½¹½","MS",340
+"bureau","PA45B","182","N","N"," "," ","bju½¼{°}r°","MS",341
+"dresser","PA46A","185","N","N"," "," ","dr²s´","MS",342
+"bureau","PA46A","185","N","N"," "," ","bju¿{°}rÀ¹","MS",342
+"dresser","PA46B","186","N","N"," "," ","dr²s´","MS",343
+"bureau","PA46B","186","N","Y"," ","OLD","bju¿{°}r°","MS",343
+"bureau","PA47A","189","N","N"," "," ","bju¿{°}ro¼¹","MS",344
+"dresser","PA47B","190","N","N"," "," ","dr²s´","MS",345
+"bureau","PA47B","190","N","N"," "," ","åbju¿ro¼¹","MS",345
+"bureau","PA48A","191","N","N"," "," ","bju¿½¾{°}rÀ«¾¹","MS",346
+"bureau","PA48B","192","N","N"," "," ","bju¿¾{°}r°","MS",347
+"bureau","PA48C","193","N","N"," "," ","åbju¿{°}rÀ¹","MS",348
+"bureau","PA49A","194","N","N"," "," ","bju¿{°}r°","MS",349
+"bureau","PA49B","195","N","N"," "," ","bju¿½{°}r°","MS",350
+"bureau","PA50A","196","N","N"," "," ","bju¿”½{°}r°","MS",351
+"dresser","PA50B","197","N","N"," "," ","dr²s´","MS",352
+"dresser","PA50C!","198!","N","N"," "," ","dr²s´","MS",353
+"bureau","PA50C!","198!","N","N","no glass"," ","bju¿{°}r°","MS",353
+"dresser","PA51A","199","N","N"," "," ","dr²s´","MS",354
+"bureau","PA51A","199","N","N"," "," ","bju¿{°}r°","MS",354
+"highboy","PA51B","200","N","Y","old-fashioned kind","OLD","åha±¿õb·«±¿","MS",355
+"bureau","PA51B","200","N","N","marble top; drawers each side"," ","bju¿{°}r°","MS",355
+"dresser","PA51B","200","N","N"," "," ","dò²s´","MS",355
+"bureau","PA52A","201","N","N"," "," ","bju½¼{°}r°","MS",356
+"dresser","PA52B!","202!","N","N"," "," ","dr²s´","MS",357
+"bureau","PA52B!","202!","N","N"," "," ","bju¿¾{°}r°","MS",357
+"bureau","PA53A","203","N","Y","no glass","OLD","bju¼{°}r°","MS",358
+"dresser","PA53A","203","N","N"," "," ","dr²{°}s´","MS",358
+"dresser","PA53B","204","N","N"," "," ","dr²s´","MS",359
+"bureau","PA53B","204","N","Y","no glass","OLD","bju¼{°}r°","MS",359
+"dresser","PA54A","205","N","N"," "," ","dr²s´","MS",360
+"bureau","PA54A","205","N","Y","tall; no glass","OLD","bju¿{°}r°","MS",360
+"bureau","PA54B","206","N","Y"," ","OLD","bju¿{°}r°","MS",361
+"dresser","PA54B","206","N","N"," "," ","dr²s´","MS",361
+"bureau","PA55A","207","N","N"," "," ","bj¹«¾{°}r·«¼{¹}","MS",362
+"bureau","PA55B","208","N","N"," "," ","bju¼{°}r°","MS",363
+"bureau","PA56A","211(*)","N","N"," "," ","bju¿¾{°}r°","MS",364
+"bureau","PA56A","211(*)","N","Y"," ","AUX","bju¿r°","MS",364
+"dresser","PA56B","212","N","N"," "," ","dr²s´","MS",365
+"bureau","PA56B","212","N","N","no glass"," ","bju¿{°}r°","MS",365
+"bureau","PA57A","213","N","N"," "," ","bju¿¾{°}r°","MS",366
+"dresser","PA57A","213","N","N"," "," ","dr²s´","MS",366
+"bureau","PA57B","214","N","N"," "," ","bju¿½¾{°}r°","MS",367
+"bureau","PA58A","215","N","N"," "," ","bju¿½¾{°}r°","MS",368
+"dresser","PA58B","216","N","N"," "," ","dr²s´","MS",369
+"bureau","PA58B","216","N","N"," "," ","bju¿{°}r°","MS",369
+"dresser","PA59A","219","N","Y"," ","NEW","dr²s´","MS",370
+"bureau","PA59A","219","N","N"," "," ","bju¿¾{°}r°","MS",370
+"bureau","PA59B","220","N","N"," "," ","bju¿r°","MS",371
+"dresser","PA59B","220","N","N","mirror"," ","dr²s´","MS",371
+"bureau","PA60A","221","N","N"," "," ","bju¿{°}r°","MS",372
+"bureau","PA60B","222","N","N"," "," ","bju¿½¾{°}r°","MS",373
+"bureau","PA61A","223","N","N"," "," ","bju¿½{°}rÀ¾¹","MS",374
+"dresser","PA61B","224","N","N"," "," ","dr²s´","MS",375
+"bureau","PA61B","224","N","N"," "," ","bju¿”½{°}r°","MS",375
+"bureau","PA62A","229","N","N"," "," ","bju¿½{°}r°","MS",376
+"dresser","PA62B","230","N","N"," "," ","dr²s´","MS",377
+"bureau","PA62B","230","N","N"," "," ","bju¿{°}r°","MS",377
+"bureau","PA63A","231","N","N"," "," ","bju¿{°}r°","MS",378
+"bureau","PA63B","232","N","N"," "," ","bju¿{°}r°","MS",379
+"dresser","PA63B","232","N","N"," "," ","dr²s´","MS",379
+"chest of drawers","PA63B","232","O","N"," "," ","tó²st$°$dr·rz","MS",379
+"bureau","PA64A","233","N","N"," "," ","b±¿«¼u½¼r°","MS",380
+"chest of drawers","PA64A","233","O","N"," ","SIC","õtó²st$°$ådò¶«º{°}z","MS",380
+"highboy","PA64A","233","N","N"," "," ","åh¥½±¿õb·«±¿","MS",380
+"bureau","PA64B","234","N","Y"," ","OLD","b±¿«¼¹«r°","MS",381
+"chest of drawers","PA64B","234","O","N","tall"," ","tó²st$°v$dò¶«´z","MS",381
+"dresser","PA64B","234","N","N"," "," ","dò²s´","MS",381
+"bureau","PA65A","237","N","N"," "," ","b±¿¹«¼r°","MS",382
+"dresser","PA65A","237","N","N"," "," ","dò²s´","MS",382
+"bureau","PA65B","238","N","N","no glass"," ","b±¿¼u½¼{°}r°","MS",383
+"chest of drawers","PA65B","238","O","N","no glass"," ","tó²st$°$dò·´z","MS",383
+"dresser","PA65B","238","N","N"," "," ","dò²s´","MS",383
+"bureau","PA66A","239","N","N"," "," ","bj¹¿r°","MS",384
+"bureau","PA66B","240","N","N"," "," ","b±¾¹«r°","MS",385
+"bureau","PA67A","243","N","N"," "," ","b±¿u¿½r°","MS",386
+"bureau","PA67B","244","N","N"," "," ","åb±¾¹¼r°","MS",387
+"chest of drawers","PA67B","244","O","N","tall"," ","õtó²st$°$ådr”·´z","MS",387
+"bureau","WV1!","88!","N","N"," "," ","bju¿¾ºro¹","MS",388
+"chest of drawers","WV1!","88!","O","N","no mirror"," ","tó²st$°v$dò·º{°}z","MS",388
+"bureau","WV2","89","N","N"," "," ","åbju¿½¾{°}r°","MS",389
+"chest of drawers","WV2","89","O","N"," "," ","õtó²st$°$ådò·½º{°}z","MS",389
+"bureau","WV3","91","N","N"," "," ","bju¿¼ºro{¹}","MS",390
+"dresser","WV3","91","N","Y"," ","NEW","dò²s´","MS",390
+"bureau","WV4A","92","N","N"," "," ","bju½¼{°}ro¼¹","MS",391
+"bureau","WV4B","93","N","N"," "," ","åbju¿½¾ro½¼","MS",392
+"dresser","WV5","94","N","Y"," ","NEW","dò²s´","MS",393
+"bureau","WV5","94","N","N"," "," ","b±«´o¼¹","MS",393
+"bureau","WV6A","95","N","N"," "," ","åb±´o{¹}","MS",394
+"bureau","WV6B","96","N","N"," "," ","åbju¿{°}ro¼¹","MS",395
+"bureau","WV7A","97","N","N"," "," ","bju¿{°}ro¼{¹}","MS",396
+"bureau","WV7B","98","N","N"," "," ","åbju¿{°}ro¿¾¹","MS",397
+"bureau","WV8A","97b","N","N"," "," ","bju½¼{°}roº{¹}","MS",398
+"dresser","WV8B","98b","N","Y"," ","NEW","dò²s´","MS",399
+"bureau","WV8B","98b","N","N"," "," ","åbju¿¾ºõro{¹}","MS",399
+"bureau","WV9A","301","N","N"," "," ","b±«{°}ro¼{¹}","MS",400
+"bureau","WV9B","302","N","N"," "," ","bju¿½{°}ro¼¹","MS",401
+"dresser","WV10A","303","N","N"," "," ","dò²s´","MS",402
+"bureau","WV10B","303b","N","N"," "," ","bju¿½¾{°}ñİoº{¹}","MS",403
+"dresser","WV10B","303b","N","N"," "," ","dr²s´","MS",403
+"bureau","WV10C","304","N","N"," "," ","bju¿½{°}ro½{¹}","MS",404
+"bureau","WV11A","305","N","N"," "," ","åbju¿«¾ºõro¼¹","MS",405
+"bureau","WV11B!","306!","N","N"," "," ","b{i¿}u¿ro”½¼¹","MS",406
+"chest of drawers","WV11B!","306!","O","N"," "," ","õtó²st$°$ådò·º´z","MS",406
+"bureau","WV12A","307","N","N"," "," ","bju¿{°}ro½¹","MS",407
+"bureau","WV12B","308","N","N"," "," ","bju¿{°}ro½{¹}","MS",408
+"dresser","WV12B","308","N","N"," "," ","dr²s´","MS",408
+"bureau","WV13A","309","N","N"," "," ","bju¿¾ºro¼{¹}","MS",409
+"chest of drawers","WV13B","310","O","N","taller [than dresser]"," ","tó²st$°$dr·´z","MS",410
+"dresser","WV13B","310","N","N"," "," ","dr²s´","MS",410
+"bureau","WV14A","311","N","N"," "," ","bju¿´°","MS",411
+"dresser","WV14A","311","N","N"," "," ","dr²s´","MS",411
+"bureau","WV14B","312","N","N"," "," ","bju¿ro½¹","MS",412
+"dresser","WV14B","312","N","N"," "," ","dr²s´","MS",412
+"bureau","WV15A","313","N","Y","tall","OLD","b{j}u¿ro½¼¹","MS",413
+"dresser","WV15A","313","N","N","glass"," ","dr²s´","MS",413
+"chest of drawers","WV15A","313","O","Y","tall","OLD","tó²st$°$dr·´z","MS",413
+"dresser","WV15B","314","N","N"," "," ","dr²s´","MS",414
+"bureau","WV15B","314","N","Y"," ","OLD","bju¿{°}ro¿½º{¹½}","MS",414
+"bureau","WV16A","315","N","N"," "," ","bju¿¾ºro½º{¹½}","MS",415
+"dresser","WV16A","315","N","N"," "," ","dr²s´","MS",415
+"bureau","WV16B","316","N","N"," "," ","bju¿rÀ«¹","MS",416
+"dresser","WV16B","316","N","N"," "," ","dr²s´","MS",416
+"dresser","WV17A","317","N","N"," "," ","dr²s´","MS",417
+"bureau","WV17A","317","N","N","no glass"," ","bju¿ºr°","MS",417
+"bureau","WV17B","317b","N","N"," "," ","åbju¿{°}ro½º{¹}","MS",418
+"bureau","WV17C","318","N","N"," "," ","bju¿½¾{°}ro½¹","MS",419
+"bureau","WV18A","319","N","N"," "," ","bju¿ro½º{¹}","MS",420
+"dresser","WV18A","319","N","N"," "," ","dr²s´","MS",420
+"bureau","WV18B","320","N","N"," "," ","bju¿½ro½{¹}","MS",421
+"dresser","WV18B","320","N","N"," "," ","dr²s´","MS",421
+"bureau","WV19A","321","N","N"," "," ","b±«{°}ro¼{¹}","MS",422
+"dresser","WV19A","321","N","N"," "," ","dr²s´","MS",422
+"dresser","WV19B","322","N","N"," "," ","dr²s´","MS",423
+"bureau","WV19B","322","N","N"," "," ","bju¿½¾{°}r°","MS",423
+"bureau","WV19B","322","N","N"," "," ","bju¿½¾{°}ro½¹","MS",423
+"bureau","WV20A","323","N","N"," "," ","bju¿¾ro{¹}","MS",424
+"dresser","WV20A","323","N","N"," "," ","dr²s´","MS",424
+"dresser","WV20B","324","N","N"," "," ","dr²s´","MS",425
+"bureau","WV20B","324","N","N"," "," ","bju¿ºro”½¼¹","MS",425
+"bureau","WV21A","325","N","N"," "," ","b{i}u¿ro{¹}","MS",426
+"bureau","WV21B","326","N","N"," "," ","bju¿ºro”¼¹","MS",427
+"bureau","WV22A","327","N","N"," "," ","åbju½¼{°}´o{¹}","MS",428
+"chest of drawers","WV22B","328","O","N","taller [than bureau]"," ","õtó²st$°$ådò·´z","MS",429
+"bureau","WV22B","328","N","N"," "," ","bju¿{°}ro¼¹","MS",429
+"bureau","WV23A","331","N","N"," "," ","bju¿½¾{°}roº{¹}","MS",430
+"dresser","WV23B","332","N","N"," "," ","dr²s´","MS",431
+"NR","WV24A","335"," ","N"," "," "," ","MS",432
+"bureau","WV24B","336","N","N"," "," ","bju¿ºroº{¹}","MS",433
+"bureau","WV25A","337","N","N"," "," ","åbju¿«¾ºõro{¹}","MS",434
+"bureau","WV25B","338","N","N"," "," ","bju¿ºro½¹","MS",435
+"bureau","WV26A","339","N","N"," "," ","b{i}u¿½´oº{¹}","MS",436
+"dresser","WV26A","339","N","N"," "," ","dr²ºs´","MS",436
+"dresser","WV26B","340","N","N"," "," ","dr²s´","MS",437
+"bureau","WV27A","341","N","N"," "," ","åbju¿´õo{¹}","MS",438
+"dresser","WV27B","342","N","N"," "," ","dr²½ºs´","MS",439
+"bureau","WV27B","342","N","Y"," ","OLD","åb{i}u¿õro½¹","MS",439
+"bureau","WV28A","343","N","N"," "," ","åbju¿ºõro½¹","MS",440
+"dresser","WV28A","343","N","N"," "," ","dr²s´","MS",440
+"dresser","WV28B","344","N","N"," "," ","dr²s´","MS",441
+"bureau","WV28B","344","N","N"," "," ","bju¿{°}ro½{¹}","MS",441
+"bureau","WV29A","345","N","N"," "," ","åbju¿¾ºroº{¹}","MS",442
+"bureau","WV29B","346","N","Y"," ","OLD","bju¿ro{¹}","MS",443
+"dresser","WV29B","346","N","N"," "," ","dr²s´","MS",443
+"bureau","WV30A","347","N","N"," "," ","bju¿¾ro{¹}","MS",444
+"dresser","WV30B","348","N","N"," "," ","dr²s´","MS",445
+"bureau","WV30B","348","N","N"," "," ","bju¿¾ºroº","MS",445
+"bureau","WV31A","349","N","N"," "," ","åbju¿{°}ro{¹}","MS",446
+"dresser","WV31A","349","N","N"," "," ","dr²«s´İ","MS",446
+"dresser","WV31B","350","N","N"," "," ","dr²s´","MS",447
+"bureau","WV31B","350","N","N"," "," ","bju¿ºroº{¹}","MS",447
+"chifforobe","WV32A","353","N","N","tall"," ","åó±ftõroº{¹}b","MS",448
+"bureau","WV32A","353","N","N","no glass"," ","b±«{°}roº{¹}","MS",448
+"dresser","WV32A","353","N","N"," "," ","dr²s´","MS",448
+"bureau","WV32B","354","N","N"," "," ","bju¿{u¿«¾}roº{¹}","MS",449
+"dresser","WV32B","354","N","N"," "," ","dr²s´","MS",449
+"bureau","WV33A","355","N","N","big"," ","bju¿¾ro½º{¹½}","MS",450
+"dresser","WV33A","355","N","N"," "," ","dr²s´","MS",450
+"bureau","WV33B","356","N","N"," "," ","åbju¿{u¿«¾}õroº{¹½}","MS",451
+"dresser","WV33B","356","N","N"," "," ","dr²«s´","MS",451
+"bureau","WV34A","359","N","N"," "," ","bju¿ºro½¹","MS",452
+"dresser","WV34A","359","N","N"," "," ","dr²«ºs´","MS",452
+"bureau","WV34B","360","N","Y"," ","OLD","bju¿´°","MS",453
+"dresser","WV34B","360","N","N"," "," ","dr²s´","MS",453
+"dresser","WV35A","361","N","N"," "," ","dr²s´","MS",454
+"dresser","WV35B","362","N","N"," "," ","dr²ºs´","MS",455
+"bureau","WV35B","362","N","N"," "," ","bju¿¼ro½¹","MS",455
+"bureau","WV36A","363","N","N"," "," ","bju¿{°}roº{¹}","MS",456
+"dresser","WV36A","363","N","Y"," ","NEW","dr²s´","MS",456
+"dresser","WV36B","364","N","N"," "," ","dr²s´","MS",457
+"bureau","WV36B","364","N","Y"," ","SUG/OLD","åbju¿¾ºro½¹","MS",457
+"bureau","WV37A","365","N","Y"," ","OLD","biİ½¾u¿ro½¹","MS",458
+"dresser","WV37A","365","N","N"," "," ","dr²s´","MS",458
+"dresser","WV37B!","366!","N","N"," "," ","dr²s´","MS",459
+"bureau","WV37B!","366!","N","N"," "," ","bju¿¾ro¼¹","MS",459
+"bureau","WV38A","367","N","Y"," ","OLD","bju¿¾ro¼¹","MS",460
+"chest","WV38A","367","N","N","tall"," ","tó²{°}st","MS",460
+"chifforobe","WV38A","367","N","Y","tall","NEW","ó±f°ro¹b","MS",460
+"dresser","WV38A","367","N","N"," "," ","dò²s´","MS",460
+"dresser","WV38B","368","N","N"," "," ","dr²s´","MS",461
+"dresser","WV39A","369","N","N"," "," ","dr²s´","MS",462
+"dresser","WV39B","370","N","Y"," ","NEW","dr²s´","MS",463
+"bureau","WV39B","370","N","N"," "," ","åb±{°}rõo½¹","MS",463
+"bureau","WV39C!","371!","N","N"," "," ","bju¿´o¹","MS",464
+"highboy","WV39C!","371!","N","N","high"," ","haº²b·±¿","MS",464
+"lowboy","WV39C!","371!","N","N","low"," ","lo¹b·±¿","MS",464
+"dresser","WV39C!","371!","N","N"," "," ","dr²s´—","MS",464
+"bureau","WV40A","373","N","N"," "," ","bju¿{u¿«¾}ro¼{¹}","MS",465
+"dresser","WV40B","374","N","N"," "," ","dr²s´","MS",466
+"bureau","WV40B","374","N","Y"," ","OLD","bju¿ro½¼¹","MS",466
+"chest of drawers","WV40B","374","O","N","tall"," ","tó²«st$°$ådr·´z","MS",466
+"bureau","WV41A","375","N","N"," "," ","bju¿ºro{¹}","MS",467
+"dresser","WV41B","376","N","N"," "," ","dr²s´","MS",468
+"dresser","WV42A","377","N","N"," "," ","dr²s´","MS",469
+"bureau","WV42A","377","N","N","no glass"," ","bju¿ro{¹}","MS",469
+"bureau","WV42B","378","N","Y"," ","OLD","bju¿{°}ro¼{¹}","MS",470
+"dresser","WV42B","378","N","N"," "," ","dr²s´","MS",470
+"dresser","WV43A","381","N","N"," "," ","dr²s´","MS",471
+"bureau","WV43A","381","N","Y"," ","OLD","bju¿ro½¼¹","MS",471
+"bureau","WV43B","382","N","Y"," ","OLD","åb±«´õÀ¾¹","MS",472
+"dresser","WV43B","382","N","N"," "," ","dr²s´","MS",472
+"bureau","WV44A","383","N","N"," "," ","bju¿¾{°}rÀ¾¹","MS",473
+"dresser","WV44B","384","N","N"," "," ","dr²s´","MS",474
+"bureau","WV44B","384","N","N"," "," ","åbju¿½´°","MS",474
+"bureau","WV45A","385","N","Y"," ","SUG/OLD","bju¿´o½¹","MS",475
+"dresser","WV45A","385","N","N"," "," ","dr²s´","MS",475
+"bureau","WV45B","386","N","N"," "," ","bju¿´°","MS",476
+"dresser","WV45B","386","N","N"," "," ","dr²s´","MS",476
+"bureau","WV46A","387","N","N"," "," ","åbju¿½¾{°}ro½¹","MS",477
+"bureau","WV46B","388","N","Y"," ","OLD","b±«´À«¹","MS",478
+"dresser","WV46B","388","N","N"," "," ","dr²s´","MS",478
+"dresser","WV47A","389","N","N"," "," ","dr²s´","MS",479
+"bureau","WV47A","389","N","N","no glass"," ","bju¿ro½¹","MS",479
+"bureau","WV47B","390","N","N"," "," ","b±«{°}´°½¼¹","MS",480
+"dresser","WV47B","390","N","N"," "," ","dr²s´","MS",480
+"dresser","WV48A","391","N","Y"," ","NEW","dr²s´","MS",481
+"bureau","WV48A","391","N","N"," "," ","bju¿ºrÀ¹","MS",481
+"bureau","WV48B","391b","N","N"," "," ","bi½{°}ro½¹","MS",482
+"dresser","WV48B","391b","N","N"," "," ","dr²s´","MS",482
+"dresser","WV48C","392","N","N"," "," ","dr²s´","MS",483
+"bureau","WV48C","392","N","N","no glass"," ","bju¿ro½º{¹}","MS",483
+"bureau","WV48D","392b","N","N"," "," ","bju¿{°}ro½¹","MS",484
+"dresser","WV48D","392b","N","N","glass"," ","dr²s´","MS",484
+"dresser","WV49A","393","N","N"," "," ","dr²s´","MS",485
+"bureau","WV49A","393","N","N"," "," ","bju¿¾{°}ro”¼{¹}","MS",485
+"bureau","WV49B","394","N","N"," "," ","bi½{°}´õo½¼¹","MS",486
+"dresser","WV49B","394","N","N"," "," ","dr²s´","MS",486
+"dresser","WV50A","395","N","Y"," ","NEW","dr²s´","MS",487
+"bureau","WV50A","395","N","N"," "," ","bju¿¾ºro½¹","MS",487
+"bureau","WV50B","396","N","N"," "," ","bju¿¾{°}ro¼{¹}","MS",488
+"dresser","WV50B","396","N","N"," "," ","dr²s´","MS",488
+"dresser","WV51A","261","N","N"," "," ","dr²s´","MS",489
+"bureau","WV51A","261","N","N","no glass"," ","bju¿ro½¼¹","MS",489
+"bureau","WV51B","262","N","N"," "," ","bju¿{°}rÀ¹","MS",490
+"bureau","WV52A","258","N","N"," "," ","bju½¼{°}r·«¼¹","MS",491
+"dresser","WV52A","258","N","Y"," ","NEW","dr²s´","MS",491
+"bureau","WV52B","259","N","Y"," ","SUG/OLD","bju¿½{°}´°","MS",492
+"dresser","WV52B","259","N","N"," "," ","dr²s´","MS",492
+"bureau","WV52C!","260!","N","Y"," ","OLD","bju¿½¾´o½¹","MS",493
+"dresser","WV52C!","260!","N","N"," "," ","dr²¾s´","MS",493
+"bureau","WV53A","257","N","N"," "," ","bju¿´°","MS",494
+"chiffonier","WV53B","257b","N","Y","tall type","NEW","õó±f°ån±«´","MS",495
+"bureau","WV53B","257b","N","N","low"," ","bju¿º{°}´°","MS",495
+"bureau","WV53C!","257c!","N","N"," "," ","bju¿r°","MS",496
+"dresser","WV53C!","257c!","N","N"," "," ","dr²s´","MS",496
+"bureau","WV54A","255","N","N"," "," ","bju¿{°}r°","MS",497
+"dresser","WV54B","256","N","N"," "," ","dr²s´","MS",498
+"bureau","WV54B","256","N","N"," "," ","åbju¿rÀ¹","MS",498
+"bureau","DE1A","11","N","N"," "," ","bju¿ro½¼¹","MS",499
+"chest of drawers","DE1B","12","O","N"," "," ","tó²st$°$ådò·´z","MS",500
+"bureau","DE1B","12","N","N","also"," ","bju¿½{°}ro½¼¹","MS",500
+"dresser","DE1B","12","N","N"," "," ","dò²s´","MS",500
+"bureau","DE1C!","13!","N","N"," "," ","bju¿¾ro½¼¹","MS",501
+"bureau","DE2A","15(*)","N","Y"," ","AUX2","bj¹¿{°}r°","MS",502
+"chest of drawers","DE2A","15(*)","O","Y","tall, drawers","AUX2/OLD","õtó²st$°v$ådr·«´z","MS",502
+"chest of drawers","DE2B","16","O","N"," "," ","tó²st$°$ådò·«´z","MS",503
+"bureau","DE2B","16","N","N"," "," ","bju¿½´o¿½¾¹","MS",503
+"bureau","DE2C"," ","N","N"," "," ","bju½¼{°}ro½¼¹","MS",504
+"bureau","DE3A","18","N","N"," "," ","åbju¿¾ro½¼¹","MS",505
+"bureau","DE3B","19","N","N"," "," ","bjˆu¿½õro½¼¹","MS",506
+"dresser","DE3B","19","N","N"," "," ","dò²s´","MS",506
+"chest of drawers","DE3C!","17!","O","N","tall"," ","õtó²st$°$ådò¶«º´z","MS",507
+"bureau","DE3C!","17!","N","N"," "," ","bju¿½¾{°}õro½¼¹","MS",507
+"bureau","DE4","20","N","N"," "," ","bju¿{u¿«¾}ro¼¹","MS",508
+"chest of drawers","DE4","20","O","N"," "," ","tó²«st$°$dò·½º´z","MS",508
+"bureau","DE5A","21","N","N"," "," ","bj¹¿«¼{°}ro½{¹}","MS",509
+"bureau","DE5B","22","N","N"," "," ","bju¿½¾ro¼¹","MS",510
+"chest of drawers","DE5B","22","O","N","tall"," ","tó²st$°$dò¶«´z","MS",510
+"sideboard","DE6A","23","N","N","tall"," ","saº²dbo´d","MS",511
+"bureau","DE6A","23","N","N"," "," ","bju¿ºro½¹","MS",511
+"bureau","DE6B","24","N","N"," "," ","bju¿´°","MS",512
+"chest of drawers","DE6B","24","O","N","tall"," ","tó²st$°$dò¶«º´z","MS",512
+"chest of drawers","MD1A","27","O","N","high"," ","tó²«st$°$dò·«º´z","MS",513
+"bureau","MD1A","27","N","N"," "," ","bju¿½r°","MS",513
+"bureau","MD1B","28","N","N"," "," ","bju¿¾ro½{¹}","MS",514
+"chest of drawers","MD1B","28","O","N","tall"," ","tó²st$°$dò·«´z","MS",514
+"bureau","MD2A","31a","N","N"," "," ","bju¿ºro½¹","MS",515
+"bureau","MD2B","32","N","N"," "," ","åbju¿õro¿½¾¹«","MS",516
+"bureau","MD3A","33","N","N"," "," ","b{r}u¿½¾ro½{¹}","MS",517
+"bureau","MD3B","34","N","N"," "," ","b{±«}u¿½ro½¼¹","MS",518
+"bureau","MD4A","35b","N","N"," "," ","bju¿ro½¼¹","MS",519
+"bureau","MD4B","35","N","N"," "," ","åbju¿¾ºõro½¹","MS",520
+"chiffonier","MD4C","36","N","N","tall"," ","åó²v°n{j}±«´","MS",521
+"chest of drawers","MD4C","36","O","N","tall"," ","tó²st$°v$ådò¶«´z","MS",521
+"bureau","MD4C","36","N","N"," "," ","bi¹¿r°","MS",521
+"bureau","MD5A","37","N","N"," "," ","bju¿ro¼¹«","MS",522
+"bureau","MD5B","38","N","N"," "," ","bju¿ro½¼¹","MS",523
+"bureau","MD6A","39(*)","N","N"," "," ","åbiu¿õro½¹","MS",524
+"safe","MD6A","39(*)","N","Y"," ","AUX","s²«e¾f","MS",524
+"bureau","MD6A","39(*)","N","Y"," ","AUX","bi½{°}ro½¼¹","MS",524
+"bureau","MD6B","40","N","N"," "," ","bju¿¼ºro½¹","MS",525
+"sideboard","MD7A","41","N","Y"," ","OLD","åsa¾±¿dõboº{´}d","MS",526
+"bureau","MD7A","41","N","N"," "," ","bi½´°","MS",526
+"bureau","MD7B","41b","N","N"," "," ","bju¿½{°}r°","MS",527
+"bureau","MD7C!","42!","N","N","usually mirror"," ","bju¿½¾{°}ro½¹","MS",528
+"chest of drawers","MD7C!","42!","O","N"," "," ","tó²st$°$dò·½º{´}z","MS",528
+"sideboard","MD8A","43","N","N","more drawers [than bureau]"," ","åsa¾²«dõbo½´d","MS",529
+"bureau","MD8A","43","N","N"," "," ","bjo´","MS",529
+"bureau","MD8B","44","N","N"," "," ","bju¿½r°","MS",530
+"bureau","MD9N","N46","N","N"," "," ","bi¹¿«¼ro","MS",531
+"bureau","MD9A","45","N","N"," "," ","bju¿½{°}r°","MS",532
+"chest of drawers","MD9B","46","O","N"," "," ","tó²st$°$dò·º´z","MS",533
+"bureau","MD9B","46","N","N"," "," ","bju¿½{°}r°","MS",533
+"chest of drawers","MD10A","49","O","N"," "," ","tó²st$°$dò·º°z","MS",534
+"bureau","MD10A","49","N","N"," "," ","b{±}u¿r°","MS",534
+"bureau","MD10B","50","N","N"," "," ","b{j}u¿½{°}ro½¼{¹}","MS",535
+"bureau","MD11","51","N","N"," "," ","bju¿½{°}r°","MS",536
+"chest of drawers","MD11","51","O","N"," "," ","tó²st$°$dò·:{°}z","MS",536
+"chest of drawers","MD12A","52","O","N","nine drawers"," ","tó²st$°v$dò·«º´z","MS",537
+"bureau","MD12A","52","N","N"," "," ","bju¿u¿¾{°}ro¿¾u«¼","MS",537
+"bureau","MD12B","53","N","N"," "," ","bju¿ro¿¼¹¼","MS",538
+"chest of drawers","MD12B","53","O","N","tall"," ","tó²st$°$dò·«º´z","MS",538
+"bureau","MD13A","54(*)","N","N"," "," ","bju¿¾ro½¼u","MS",539
+"chest of drawers","MD13A","54(*)","O","N","no glass"," ","tó²st$°{v}$dò·º°z","MS",539
+"bureau","MD13B","55","N","N"," "," ","bju¿¾roİ¼¹İ","MS",540
+"bureau","MD13C","56","N","N"," "," ","bju¿½{°}ro½¼¹","MS",541
+"chest of drawers","MD13D!","57!","O","N"," "," ","tó²st$°$dò·º{°}z","MS",542
+"bureau","MD13D!","57!","N","N"," "," ","bju¿u¿«¾ro¼{¹}","MS",542
+"bureau","MD13E!","58!","N","N"," "," ","b{j}u¿¾roº","MS",543
+"bureau","MD13F!","59!","N","N"," "," ","bju¿½{°}ro¿”¹¼","MS",544
+"bureau","MD13G"," ","N","N"," "," ","b±«{¹¿}ro¼{¹}","MS",545
+"chest of drawers","MD14","61(*)","O","N"," "," ","tó²st$°$dò·«´z","MS",546
+"bureau","MD14","61(*)","N","N"," "," ","bju¿r°","MS",546
+"bureau","MD14","61(*)","N","Y"," ","AUX","bj«u¼r°","MS",546
+"bureau","MD14","61(*)","N","Y"," ","AUX","bj«u¼Õ°","MS",546
+"bureau","MD15A","62","N","N"," "," ","bju¿r°","MS",547
+"chest of drawers","MD15A","62","O","N"," "," ","tó±st$°$dò·«:°z","MS",547
+"bureau","MD15B","63","N","N"," "," ","bju¿r°","MS",548
+"chest of drawers","MD15B","63","O","N"," "," ","tó²st$°$dò·º{°}z","MS",548
+"bureau","MD16","64","N","N"," "," ","bju¿½{°}r°","MS",549
+"bureau drawer","MD16","64","O","Y","as a girl","OLD","bju¿½{°}r°$ådr·«´","MS",549
+"bureau","MD17A","65","N","N"," "," ","bju¿ro¼¹","MS",550
+"dresser","MD17A","65","N","Y"," ","NEW","dò²s°","MS",550
+"chest of drawers","MD17A","65","O","N","high"," ","tó²st$°$dò·º´z","MS",550
+"bureau","MD17B","66","N","N"," "," ","bju¿½{°}ro½¹","MS",551
+"chest of drawers","MD18A","67","O","N","taller [than bureau]"," ","tó²«st$°$dòo«:{°}z","MS",552
+"bureau","MD18A","67","N","N"," "," ","åbiº{°}õro½¹","MS",552
+"sideboard","MD18A","67","N","N","for clothes; opens like a door"," ","åsa¾º²¾dõb·«:{°}d","MS",552
+"chest of drawers","MD18B","68","O","N"," "," ","tó²st$°$dò·:{°}z","MS",553
+"bureau","MD18B","68","N","N"," "," ","åbi½¾u¿¾õro¼¹«","MS",553
+"bureau","MD19A","69","N","N"," "," ","åbju¿õro½¹","MS",554
+"bureau","MD19B","70","N","Y"," ","OLD","bju¿r°","MS",555
+"chest of drawers","MD19B","70","O","N","tall"," ","tó²«st$°$dò·º°z","MS",555
+"bureau","MD20A","71","N","N"," "," ","bju¿½{°}r°","MS",556
+"bureau","MD20B","72","N","N"," "," ","bju¿½r°","MS",557
+"bureau","MD20C!","73!","N","N"," "," ","åbju¿ºõro½¼¹","MS",558
+"sideboard","MD21A","75","N","N","long ones"," ","åsa¾º²«dõbo½º°d","MS",559
+"bureau","MD21A","75","N","N"," "," ","åbju¿ºõro{¹}","MS",559
+"bureau","MD21B","76","N","N"," "," ","åbju¿ro{¹}","MS",560
+"bureau","MD22N","N77","N","N"," "," ","åbju¿¾õro{¹}","MS",561
+"bureau","MD22M","N78","N","N"," "," ","åbju¿{u¿«¾}õro«","MS",562
+"chest of drawers","MD22M","N78","O","N"," "," ","õtó±s$°$ådò·:z","MS",562
+"bureau","MD22A","77","N","N"," "," ","bj¹¿«{°}ro{¹½}","MS",563
+"bureau","MD22B","78","N","N"," "," ","bju¿ºro½{¹}","MS",564
+"bureau","MD22C!","79!","N","N"," "," ","bju¿½¾ro«¼","MS",565
+"bureau","MD23A","80b","N","N"," "," ","bju¿¼ºroİ½¼{¹}","MS",566
+"sideboard","MD23A","80b","N","N"," "," ","åsa¾º²¾dõbo½º°d","MS",566
+"sideboard","MD23B","80a","N","N","flat, low"," ","åsa¾º²dõboºd","MS",567
+"bureau","MD23B","80a","N","N"," "," ","bju¿½¼ro«","MS",567
+"bureau","MD23C","81","N","N"," "," ","bju¿¾ro¼{¹}","MS",568
+"bureau","MD24","82","N","N"," "," ","åbju¿¾ro«¼","MS",569
+"bureau","MD25","84","N","N"," "," ","bju½{°}r°","MS",570
+"bureau","MD26A","83","N","N"," "," ","bju¿½ro¿İ½¹«","MS",571
+"dresser","MD26A","83","N","Y"," ","NEW","dò²s´","MS",571
+"bureau","MD26B","83A","N","N"," "," ","bju¼ºro¼{¹}","MS",572
+"bureau","MD27A","85","N","N"," "," ","bju½¼{°}õro¼{¹}","MS",573
+"dresser","MD27A","85","N","Y"," ","NEW","dò²s´","MS",573
+"bureau","MD27B","86","N","N"," "," ","bju¿½¾{°}ro{¹}","MS",574
+"dresser","MD27B","86","N","Y"," ","NEW","dò²s´","MS",574
+"dresser","DC1A","99","N","Y"," ","NEW","dò²s°","MS",575
+"bureau","DC1A","99","N","N"," "," ","bju¿{°}ro½","MS",575
+"bureau","DC1B!","100!","N","N"," "," ","bju¿«¼ºro½¼¹","MS",576
+"bureau","VA1!","101!","N","N"," "," ","bju¿ºro{¹}","MS",577
+"bureau","VA2A","103","N","N"," "," ","b{i}u¼roº","MS",578
+"bureau","VA2B","104","N","Y"," ","AUX","bju¿«{°}ro½{¹}","MS",579
+"bureau","VA3A","105(*)","N","N"," "," ","bju¿½´|°","MS",580
+"bureau","VA3B","106","N","N"," "," ","bju¿½{°}ro½¼{¹}","MS",581
+"bureau","VA3C"," ","N","N"," "," ","bj¹¿«´|o½¼¹","MS",582
+"case of drawers","VA3C"," ","O","N","tall"," ","keº±s$°$dr·º´z","MS",582
+"bureau","VA4N","N109","N","N"," "," ","bju¿{°}ro{¹}","MS",583
+"bureau","VA5A","107","N","N"," "," ","b{j}u½¼{u}ro{¹}","MS",584
+"bureau","VA5B","108","N","N"," "," ","bju¿½{°}ro{¹}","MS",585
+"bureau","VA6A","113","N","N"," "," ","bju¼º{r}o{¹}","MS",586
+"bureau","VA6B","114","N","N"," "," ","b{r}u¼{°}ro{¹}","MS",587
+"bureau","VA6B","114","N","N"," "," ","b{j}u¼ro{¹}","MS",587
+"bureau","VA7A","121","N","N"," "," ","bju¿r°","MS",588
+"bureau","VA7B","122","N","N"," "," ","bju¿{r}o{¹}","MS",589
+"bureau","VA8A","123","N","N"," "," ","bju¿«{°}r°","MS",590
+"bureau","VA8B","124","N","N","no glass"," ","b{j}u¿½{°}ro{¹}","MS",591
+"dresser","VA8B","124","N","Y"," ","NEW","dr²{°}s°","MS",591
+"bureau","VA8C!","125!","N","N"," "," ","bj¹¿½{°}ro½{¹}","MS",592
+"chest of drawers","VA8C!","125!","O","N","tall; only drawers"," ","tó²«st$°v$dò·{°}z","MS",592
+"bureau","VA9A","117","N","N"," "," ","bi½º{°}ro½{¹}","MS",593
+"bureau","VA9B!","118!","N","N","low; usually mirror"," ","bju¿½{°}ro½{¹}","MS",594
+"chest of drawers","VA9B!","118!","O","N","high"," ","tó²st$°v$dò·º{°}z","MS",594
+"bureau","VA10A","127","N","N"," "," ","bju¿{u¿«¾}ro½{¹½}","MS",595
+"chest of drawers","VA10B","128","O","N","tall"," ","tó²«st$°v$dò·½º{°}z","MS",596
+"bureau","VA10B","128","N","N"," "," ","bju¿{u¿«}ro{¹}","MS",596
+"bureau","VA11A","129","N","N"," "," ","bju¿{r}°","MS",597
+"bureau","VA11B","130","N","N"," "," ","bju¿¼{r}o½{¹}","MS",598
+"bureau","VA12N","N131","N","N"," "," ","bju¿roº","MS",599
+"bureau","VA12A","131","N","N"," "," ","b{j}u¿½¾{°}r°","MS",600
+"chest of drawers","VA12A","131","O","N","tall"," ","tó²st$°$dò·½º{°}z","MS",600
+"chest of drawers","VA12B!","132!","O","N","tall"," ","tó²st$°$dr·º{°}z","MS",601
+"bureau","VA12B!","132!","N","N"," "," ","åbj¹¿«ro{¹}","MS",601
+"bureau","VA13A","133","N","N"," "," ","bju¿½¾{°}ro½{¹}","MS",602
+"chest of drawers","VA13B","134","O","N","high"," ","tó²st$°$ådr·½º{·}z","MS",603
+"dresser","VA13B","134","N","Y","low","NEW","dr²{°}s°","MS",603
+"bureau","VA13B","134","N","N","low"," ","åb{i}u¿ro¹","MS",603
+"bureau","VA14A","135","N","N"," "," ","b{i½¾}¹¿«ro","MS",604
+"bureau","VA14B","136","N","N"," "," ","bju¿«r°","MS",605
+"chest of drawers","VA14B","136","O","N","tall"," ","tó²st$°$dr¶¶«{°}z","MS",605
+"bureau","VA14C","137","N","N"," "," ","bju¿ro½¹","MS",606
+"dresser","VA14C","137","N","Y"," ","NEW","dò²¾{°}s°","MS",606
+"chest of drawers","VA14C","137","O","N","tall"," ","tó²«st$°{v}$ådr·½º{°}s","MS",606
+"bureau","VA15N","N139(*)","N","N"," "," ","bju¼ºro¼","MS",607
+"bureau","VA15N","N139(*)","N","Y"," ","AUX","b{i½}u¿ro{¹}","MS",607
+"drawers","VA15N","N139(*)","N","Y"," ","AUX/OLD","dr·º{°}z","MS",607
+"bureau","VA15A","139","N","N"," "," ","bju¿½¾{°}ro¹","MS",608
+"drawers","VA15A","139","N","N","older than bureau"," ","dr·º{°}z","MS",608
+"chest of drawers","VA15B","140","O","N","tall; no mirror"," ","tó²«st$°{v}$dr·º{°}z","MS",609
+"bureau","VA15B","140","N","N"," "," ","bju¿ro½{¹}","MS",609
+"bureau","VA16A","141","N","N"," "," ","bju¿¼{u¿}ro½¹","MS",610
+"chest of drawers","VA16A","141","O","N"," "," ","tó²st$°v$dr·º{°}z","MS",610
+"chest of drawers","VA16B","142","O","N","tall"," ","åtó²«s{t}$°v$dr·º{°}z","MS",611
+"bureau","VA16B","142","N","N"," "," ","b{i½¾}¹¿«¼{°}ro{¹}","MS",611
+"bureau","VA17A","143","N","N"," "," ","b{i½¾}u¿½{°}ro½{¹}","MS",612
+"bureau","VA17B","144","N","N"," "," ","bju¿{°}ro{¹}","MS",613
+"chest of drawers","VA17B","144","O","N"," "," ","tó²st$°v$dr·½º{°}z","MS",613
+"bureau","VA18","145","N","N"," "," ","bju¿½¾{°}ro½{¹¿}","MS",614
+"bureau","VA19A","146","N","N"," "," ","bju¿½¼{°}ro¿u¼","MS",615
+"bureau","VA19B","147","N","N"," "," ","bju¿{w}ro½¹","MS",616
+"bureau","VA19C!","148!","N","N"," "," ","bj¹«{°}ro½¹","MS",617
+"bureau","VA20A","149","N","N"," "," ","bju¿¾ºro½{¹½}","MS",618
+"bureau","VA20B","150(*)","N","N"," "," ","bj¹{°}ro½{¹}","MS",619
+"bureau","VA20C"," ","N","N"," "," ","bj¹¿«{r}°","MS",620
+"bureau","VA21N","N153","N","N"," "," ","biºro«¼","MS",621
+"bureau","VA21A","153","N","N"," "," ","bju¿¾ro½{¹}","MS",622
+"chest of drawers","VA21B","154","O","N","high"," ","tó²{°}st$°$ådr·½º{°}z","MS",623
+"bureau","VA21B","154","N","N"," "," ","bju¿¾{u¼}ro{¹¿}","MS",623
+"NR","VA22","155"," ","N"," "," "," ","MS",624
+"bureau","VA23A","156","N","N"," "," ","b{±«}u¿½{°}ro½¹","MS",625
+"bureau","VA23B","157","N","N"," "," ","bju¿½¾ro½{¹}","MS",626
+"chest of drawers","VA24","159","O","N","no glass; heavy, antique"," ","õtó²st$°v$ådr·½º{°}z","MS",627
+"bureau","VA24","159","N","N","glass"," ","b{±«}u¿½{°}ro½{¹}","MS",627
+"bureau","VA25","160(*)","N","Y"," ","AUX","åbju¿½¾{°}rÀ¹","MS",628
+"bureau","VA25","160(*)","N","N"," "," ","bju¿ºro½¼¹","MS",628
+"chest of drawers","VA26A","161A","O","N"," "," ","tó²st$°$dr¶«{°}z","MS",629
+"bureau","VA26A","161A","N","N"," "," ","åbj¹¿¼{°}re","MS",629
+"bureau","VA26B","161","N","N"," "," ","bju¿½{°}ro½¹","MS",630
+"chest of drawers","VA26C","162","O","N"," "," ","tó²st$°v$ådò¶«º°z","MS",631
+"bureau","VA26C","162","N","N"," "," ","bju¿½õro½¹","MS",631
+"bureau","VA27","163(*)","N","N"," "," ","b±ro½¹","MS",632
+"bureau","VA27","163(*)","N","Y"," ","AUX","b{i½}¹¿r°","MS",632
+"bureau","VA28A","164","N","N"," "," ","bju¿¾{°}ro½{¹}","MS",633
+"bureau","VA28B","165","N","N"," "," ","bj¹¿«{°}r°","MS",634
+"bureau","VA29","166","N","N"," "," ","åb{i½¾}u¿{°}õro{¹}","MS",635
+"bureau","VA30A","167","N","N"," "," ","bj¹¿½{°}ro{¹}","MS",636
+"bureau","VA30B!","167a!","N","N"," "," ","bju¿½¾{°}ro½{¹½}","MS",637
+"bureau","VA30C!","168!","N","N"," "," ","b{i½¾}¹¿{°}ro½","MS",638
+"bureau","VA30D!","169!","N","N"," "," ","bju¿½{°}roİ½¹İ","MS",639
+"bureau","VA30E!","170!","N","N"," "," ","bj¹¿«{°}{r}o½¹","MS",640
+"bureau","VA31A","171(*)(**)","N","N"," "," ","b{±}u¿½ro{¹}","MS",641
+"bureau","VA31A","171(*)(**)","N","Y"," ","AUX2","b{i½¾}¹¿«r°","MS",641
+"bureau","VA31B","172","N","N"," "," ","b{±«}¹¿«ro½{¹}","MS",642
+"NA","VA31C"," "," ","N"," "," "," ","MS",643
+"bureau","VA32!","175!","N","N"," "," ","bj¹¿«{°}{r}o½¼{¹}","MS",644
+"bureau","VA33A","173","N","N"," "," ","bi½{°}ro½{¹}","MS",645
+"bureau","VA33B","174","N","N"," "," ","b{i½¾}u¿ro¼{¹}","MS",646
+"chest of drawers","VA34A","177(*)","O","Y"," ","AUX","tó²st$°$dr·½º{°}z","MS",647
+"bureau","VA34A","177(*)","N","Y"," ","AUX/NEW","b{y}y¾ro½{¹}","MS",647
+"bureau","VA34B","178","N","N"," "," ","bju¿½{°}{r}°","MS",648
+"bureau","VA35A","179","N","N"," "," ","åbju¿{u¿«¾}õro{¹}","MS",649
+"bureau","VA35B","180","N","N"," "," ","bju¿{°}r°","MS",650
+"bureau","VA36A","181","N","N"," "," ","bju¿ro«¼¹","MS",651
+"bureau","VA36B","182","N","N"," "," ","bju¿½{°}ro{¹}","MS",652
+"bureau","VA37","183","N","N"," "," ","bj¹¿«{°}r°","MS",653
+"bureau","VA38","185","N","N"," "," ","bj¹{°}ro½{¹}","MS",654
+"dresser","VA38","185","N","Y"," ","NEW","dr²{°}s°","MS",654
+"chest of drawers","VA39!","186!","O","N"," "," ","tó²{°}st$°{v}$ådr¶«·½s","MS",655
+"bureau","VA39!","186!","N","N"," "," ","bju¿½¾{°}ro½¹","MS",655
+"bureau","VA40A","187","N","N"," "," ","bi½º{°}´o½¹","MS",656
+"bureau","VA40B","188","N","N"," "," ","bju¿{°}ro½¼¹","MS",657
+"bureau","VA41A","191","N","N"," "," ","b{i½¾}u¿½ºro{¹½}","MS",658
+"bureau","VA41B","192","N","N"," "," ","bju¿¾{°}{r}o{¹}","MS",659
+"chest of drawers","VA41B","192","O","Y","taller [than bureau]; no glass","OLD","tó²st$°$dr¶«º{°}z","MS",659
+"dresser","VA42A","193(*)(**)","N","Y"," ","AUX/NEW","dò²{°}s°","MS",660
+"bureau","VA42A","193(*)(**)","N","Y"," ","AUX2","bju¿¼{°}r°","MS",660
+"bureau","VA42A","193(*)(**)","N","N"," "," ","bju¿ro½{¹}","MS",660
+"bureau","VA42A","193(*)(**)","N","Y"," ","AUX","bju¿«°r°","MS",660
+"chest of drawers","VA42B","194","O","N","no glass"," ","tó²st$°$dr·½º{°}z","MS",661
+"bureau","VA42B","194","N","N"," "," ","b{i½¾}u¿½{°}ro½","MS",661
+"dresser","VA42B","194","N","Y"," ","NEW","dr²º{°}s°","MS",661
+"bureau","VA43N","N195","N","N"," "," ","bju¿½¾ro","MS",662
+"bureau","VA43A","195","N","N"," "," ","bju¿½{°}ro½{¹}","MS",663
+"bureau","VA43B","196","N","N"," "," ","bju¿ºro{¹½}","MS",664
+"bureau","VA44A","199","N","N"," "," ","bju¿½{°}r°","MS",665
+"bureau","VA44B","200","N","N"," "," ","b{±«}u¿½r°","MS",666
+"bureau","VA45A","201","N","N"," "," ","b{j}u¿{°}r°","MS",667
+"dresser","VA45A","201","N","N"," "," ","dò²¾s°","MS",667
+"bureau","VA45B","202","N","N"," "," ","bju¿½{°}r°","MS",668
+"bureau","VA46N","N207","N","N"," "," ","bju¿ro","MS",669
+"bureau","VA46A","207","N","N"," "," ","bi½¾¹¿ro½¼¹","MS",670
+"dresser","VA46A","207","N","N"," "," ","dr²s°½","MS",670
+"dresser","VA46A","207","N","Y"," ","AUX/NEW","d{r}²s°","MS",670
+"bureau","VA46A","207","N","Y"," ","AUX","bi{°}ro","MS",670
+"bureau","VA46B!","208!","N","N"," "," ","bju¿«{°}ro½{¹}","MS",671
+"bureau","VA47","211","N","N"," "," ","b{j}u¿{°}r°","MS",672
+"bureau","VA48A","213(*)","N","Y"," ","AUX","bju¿ro½{¹}","MS",673
+"bureau","VA48A","213(*)","N","N"," "," ","bj¹¿«{°}ro½{¹}","MS",673
+"dresser","VA48B","214","N","N"," "," ","dr²s°","MS",674
+"bureau","VA48B","214","N","N"," "," ","bju¿½¼ro{¹}","MS",674
+"bureau","VA49A","215","N","N"," "," ","bju¿ro{¹}","MS",675
+"bureau","VA49B","216","N","N"," "," ","b{i½¾}¹¿«{°}ro½{¹}","MS",676
+"bureau","VA50A","217","N","N"," "," ","bj¹¿{°}r°","MS",677
+"bureau","VA50B","218","N","N"," "," ","bju¿ro{¹}","MS",678
+"NR","VA51A","219"," ","N"," "," "," ","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"bureau","VA51C"," ","N","N"," "," ","bj¹¿«{°}r°","MS",681
+"bureau","VA52A","224","N","Y","no glass","OLD","bju¿¾{°}ro½¼{¹}","MS",682
+"case of drawers","VA52A","224","O","N","tall drawers"," ","ke±¿s$°$dr·º´z","MS",682
+"dresser","VA52A","224","N","N"," "," ","dr²s´","MS",682
+"bureau","VA52B","225","N","Y"," ","OLD","bju¿{u¿¾}r°","MS",683
+"dresser","VA52B","225","N","N"," "," ","dr²s°","MS",683
+"bureau","VA52C!","226!","N","N"," "," ","bju¿¾ro½º¹½","MS",684
+"bureau","VA53A","227","N","N"," "," ","bj¹«{°}´|o{¹½}","MS",685
+"bureau","VA53B","228","N","N"," "," ","bju¿½´|°","MS",686
+"bureau","VA54A","229","N","N"," "," ","bju¿¾ro¼{¹}","MS",687
+"bureau","VA54B","230","N","N"," "," ","b{i}u¿¼ºro½{¹}","MS",688
+"bureau","VA55A","233(*)","N","N"," "," ","b{±«}¹¿¼r°","MS",689
+"bureau","VA55A","233(*)","N","Y"," ","AUX","bjuro","MS",689
+"bureau","VA55A","233(*)","N","Y"," ","AUX","bju¿¾{°}roº","MS",689
+"dresser","VA55B","234(*)","N","Y"," ","NEW","dr²{°}s´","MS",690
+"bureau","VA55B","234(*)","N","Y"," ","OLD","bju¿ro½{¹}","MS",690
+"bureau","VA56A","237","N","N"," "," ","bju¿½¾{°}ro{¹}","MS",691
+"bureau","VA56B","238","N","N"," "," ","bju¿¾ºro{¹}","MS",692
+"dresser","VA56B","238","N","N"," "," ","dr²{°}s´","MS",692
+"dresser","VA57A","239","N","Y"," ","NEW","dr²s°","MS",693
+"bureau","VA57A","239","N","N"," "," ","åb{j}u¿¾ro½{¹}","MS",693
+"bureau","VA57B","240","N","Y"," ","OLD","b{j}u¿¾ºro{¹}","MS",694
+"dresser","VA57B","240","N","N"," "," ","dr²ºs°","MS",694
+"bureau","VA58","241(*)","N","Y"," ","AUX","bi½¾¹¿ro","MS",695
+"bureau","VA58","241(*)","N","N"," "," ","bju¿{r}°","MS",695
+"bureau","VA59N","N241","N","N"," "," ","b{j}u¼{w}ro«","MS",696
+"bureau","VA59A","242","N","N","no mirror"," ","bju¿ro¼¹","MS",697
+"chest of drawers","VA59A","242","O","N"," "," ","tó²st$°$dr·½º{°}z","MS",697
+"bureau","VA59B!","243!","N","N"," "," ","bju¿½{°}{r}o½{¹}","MS",698
+"dresser","VA60","244(*)","N","Y","glass","AUX","dr²s´","MS",699
+"bureau","VA60","244(*)","N","Y","plain; no glass","AUX","b{i}i¿¼{r}o{¹}","MS",699
+"bureau","VA61A","245(*)","N","N"," "," ","b±«{°}ro½¼¹","MS",700
+"dresser","VA61A","245(*)","N","Y"," ","NEW","dr²s°{r}","MS",700
+"dresser","VA61B!","246!","N","Y"," ","NEW","dò²s´","MS",701
+"chest of drawers","VA61B!","246!","O","N","tall"," ","tó²st$°v$dr·½º°z","MS",701
+"bureau","VA61B!","246!","N","N"," "," ","b{i½¾}u¿½¾ro½{¹}","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"bureau","VA62A","247(*)","N","N"," "," ","åbju¿õro{¹}","MS",703
+"bureau","VA62A","247(*)","N","Y"," ","AUX","bj¹¿«{°}ro{¹}","MS",703
+"bureau","VA62B","248","N","N"," "," ","åbju¿{°}roİ½{¹İ}","MS",704
+"dresser","VA63A","251","N","N","glass; ever since a boy"," ","dr²s´","MS",705
+"bureau","VA63A","251","N","N"," "," ","b{i}u¿½´|o½{¹}","MS",705
+"NR","VA63B","252"," ","N"," "," "," ","MS",706
+"bureau","VA64A","255","N","N"," "," ","bju¿º{r}o½{¹}","MS",707
+"bureau","VA64B","256","N","Y"," ","OLD","åb{i}u¿½{r}o½{¹}","MS",708
+"dresser","VA64B","256","N","N"," "," ","dr²{°}s°","MS",708
+"bureaus","VA65A","257","N","N"," "," ","åbju¿{°}ro½¼¹z","MS",709
+"bureau","VA65B","258","N","N"," "," ","bju¿{u«¼}ro½¼¹","MS",710
+"bureau","VA65C!","259!","N","N","mirror"," ","bju¿¾{w}ro½{¹}","MS",711
+"chest of drawers","VA65C!","259!","O","N","no mirror"," ","tó²s{t}$°v$dr·½º{°}z","MS",711
+"bureau","VA66A","261","N","N"," "," ","bj¹¿«{°}ro½¹","MS",712
+"bureau","VA66B","262","N","N"," "," ","b{j}u¿½¼{°}{r}o½{¹}","MS",713
+"bureau","VA67A","267","N","N"," "," ","bju¿{wˆ}ro½¼¹«","MS",714
+"bureau","VA67B","268","N","N"," "," ","bju¿ro½¼¹","MS",715
+"bureau","VA68A","269","N","N"," "," ","bju¿«¼ro{¹}","MS",716
+"dresser","VA68B","270","N","N"," "," ","dr²{°}s°","MS",717
+"bureau","VA68B","270","N","N"," "," ","b{i½¾}u¿½{°}r{°}","MS",717
+"bureau","VA69A","273","N","N"," "," ","bju¿{w}ro{¹}","MS",718
+"bureau","VA69B","274","N","N"," "," ","bju¿½{°}ro½¹","MS",719
+"dresser","VA70A","275","N","Y"," ","NEW","dr²{°}s´","MS",720
+"chest of drawers","VA70A","275","O","N","no glass"," ","tó²st$°$dr·º{°}rz","MS",720
+"bureau","VA70A","275","N","N","glass"," ","åby½¾¹¿ro½¼¹","MS",720
+"chest of drawers","VA70B","276","O","N"," "," ","tó²{°}st$°v$dò·º{°}´z","MS",721
+"bureau","VA70B","276","N","N"," "," ","bju¿{u«¾}ro½¼¹","MS",721
+"bureau","VA71A","285","N","N"," "," ","bju¿º{°}ro½¼¹","MS",722
+"bureau","VA71B","286","N","N"," "," ","åbju¿{u¿¾}õro½¼¹","MS",723
+"bureau","VA72A","287","N","N"," "," ","bju¿{u¿«}roİ¹İ«","MS",724
+"bureau","VA72B","288","N","N"," "," ","bju¿{u¿¾}ro½¼{¹«}","MS",725
+"bureau","VA73","291","N","N"," "," ","bju¿½{°}ro½¹","MS",726
+"bureau","VA74A","293","N","N"," "," ","åbju¿{u¿«¾}õro¹«","MS",727
+"bureau","VA74B!","294!","N","N"," "," ","bju¿¼{°}ro½¹«","MS",728
+"bureau","VA75A","297","N","N"," "," ","bju¿½ro½¹","MS",729
+"bureau","VA75B","298","N","N"," "," ","åbju¿{wˆ}ro½{¹«}","MS",730
+"bureau","NC1","303","N","N"," "," ","åbi:õro¼¹«","MS",731
+"bureau","NC2A","301","N","Y"," ","AUX2","bju¿¼{u¿}ro¼{¹}","MS",732
+"bureau","NC2B","304","N","N"," "," ","bju¿{u¿½¾}ro¼{¹«}","MS",733
+"bureau","NC3A","305","N","N"," "," ","bju¿{u¿}ro½¼{¹}","MS",734
+"bureau","NC3B","306","N","N"," "," ","bi¾u¿”rÀ”¾¹”«","MS",735
+"bureau","NC4A","307","N","N"," "," ","bj¹«{°}r°","MS",736
+"bureau","NC4B","308","N","N"," "," ","bj¹¿{°}r°","MS",737
+"bureau","NC5A","309","N","N"," "," ","bju¿{°}r°","MS",738
+"dresser","NC5B","310","N","Y","last 20 years","NEW","dò²s°","MS",739
+"bureau","NC5B","310","N","N"," "," ","bju¿{°}r","MS",739
+"chest of drawers","NC5B","310","O","N","tall"," ","tó±st$°$ådr·º°z","MS",739
+"bureau","NC6!","311!","N","N"," "," ","bju¿{°}ro¼¹","MS",740
+"bureau","NC7A","315(*)","N","Y"," ","AUX","bj¹¿¼{°}r°","MS",741
+"dresser","NC7B","316","N","N"," "," ","dr²{°}s°","MS",742
+"bureau","NC7B","316","N","Y"," ","OLD","bju¿¼{°}r°","MS",742
+"bureau","NC8N","N317","N","N"," "," ","bju¿{°}r°","MS",743
+"bureau","NC8A","317","N","N"," "," ","bju¿{u¿«¾}ro½¼¹","MS",744
+"bureau","NC8B","318(*)","N","Y"," ","AUX","bj¹«¾{°}ro½¼¹","MS",745
+"bureau","NC8B","318(*)","N","N"," "," ","bj¹¿«{°}r°","MS",745
+"bureau","NC9A","319","N","N"," "," ","bju¿{u¿«}ro¿½¹","MS",746
+"bureau","NC9B","320","N","N"," "," ","bju¿ºr°","MS",747
+"bureau","NC10A","321","N","N"," "," ","bju¿½{°}ro½¼{¹}","MS",748
+"bureau","NC10B","323","N","N"," "," ","bju¿¼{u¿«}rÀ¾¹«","MS",749
+"bureau","NC10C","322","N","N","mirror"," ","bju¿´º°","MS",750
+"chest of drawers","NC10C","322","O","N","tall"," ","tó²st$°$dò·:´z","MS",750
+"bureau","NC11A","325","N","N"," "," ","bj¹¿{°}r°","MS",751
+"bureau","NC11B","326","N","N"," "," ","b{i—}y½¾{°}r°","MS",752
+"dresser","NC12A","327(*)","N","Y"," ","AUX/NEW","dr²¾{°}s°","MS",753
+"bureau","NC12A","327(*)","N","N"," "," ","b{i—}¹¿«¼{°}r°","MS",753
+"bureau","NC12A","327(*)","N","Y"," ","AUX","bj¹¿«{°}r°","MS",753
+"bureau","NC12B","328","N","N"," "," ","bju¿¼{°}r°","MS",754
+"chest of drawers","NC12B","328","O","N","tall; no mirror"," ","tó²{°}st$°$dr·½¼{·}°İz","MS",754
+"bureau","NC13A","329","N","N"," "," ","bju¿{°}r°","MS",755
+"bureau","NC13B","330(*)","N","Y"," ","AUX","bju¿½{°}ro½¼¹","MS",756
+"bureau","NC13B","330(*)","N","N"," "," ","bju¿½º{°}r°","MS",756
+"bureau","NC14N","N331","N","N"," "," ","bju¿{°}r°","MS",757
+"bureau","NC14A","331","N","N"," "," ","bj¡«{u¿½¼}r°","MS",758
+"dresser","NC14A","331","N","Y"," ","NEW","dr²{°}s°","MS",758
+"bureau","NC14B","332","N","N"," "," ","bju¿ro½¼¹","MS",759
+"chest of drawers","NC14B","332","O","N","tall, drawers"," ","tó²st$°$dr·½º°z","MS",759
+"bureau","NC14C!","333!","N","N"," "," ","bju¿½{°}r°","MS",760
+"bureau","NC15A","335(*)","N","N"," "," ","bju¿¼{r}Àİ«¹İ","MS",761
+"bureau","NC15B","336","N","N"," "," ","bju¿¼{°}{r}°¾","MS",762
+"bureau","NC15C"," ","N","N"," "," ","b{±½¼}u¿¼{°}ro{¹}","MS",763
+"bureau","NC16A","339(*)","N","N"," "," ","bju¿½{°}{r}°","MS",764
+"bureau","NC16A","339(*)","N","Y"," ","AUX","bju¿½{°}r°","MS",764
+"bureau","NC16B","340","N","N"," "," ","bj¡«¾{u¿¼}r°","MS",765
+"bureau","NC17A","337","N","N"," "," ","åbju¿{u¿«}õro¿u½¼","MS",766
+"bureau","NC17B","338","N","N"," "," ","bju¿¼{°}r°","MS",767
+"bureau","NC18A","341","N","N"," "," ","bju¿½{°}r°","MS",768
+"bureau","NC18B","342","N","N"," "," ","b{i½¾}u¿½r°","MS",769
+"bureau","NC19A","343","N","N"," "," ","bju¿r°","MS",770
+"bureau","NC19B","344","N","N"," "," ","bju¿{°}r°","MS",771
+"chest of drawers","NC20A","345","O","N"," "," ","tó±st$°$dr¶«º´z","MS",772
+"bureau","NC20A","345","N","N"," "," ","åbju¿ºro½¼¹","MS",772
+"dresser","NC20A","345","N","N"," "," ","dò²{°}s´","MS",772
+"bureau","NC20B","346a","N","N"," "," ","bju¿½{°}r°","MS",773
+"bureau","NC20C","346b","N","N"," "," ","bju¿{°}r°","MS",774
+"dresser","NC20C","346b","N","Y"," ","NEW","dò²{°}s´","MS",774
+"bureau","NC21A","347","N","N"," "," ","bju¿{°}ro","MS",775
+"bureau","NC21B","348","N","N"," "," ","bju¿½{°}r°","MS",776
+"dresser","NC22A","349","N","N","one drawer, with two doors below"," ","dr²{°}s°","MS",777
+"bureau","NC22A","349","N","N","three drawers"," ","bju¿½r°","MS",777
+"bureau","NC22B","349b","N","Y"," ","OLD","bju¿{u¼}ro½{¹}","MS",778
+"chest of drawers","NC22B","349b","O","N","only drawers"," ","tó²st$°v$dò·½º°z","MS",778
+"dresser","NC22B","349b","N","N"," "," ","dò²s°","MS",778
+"bureau","NC23A","351a","N","N"," "," ","bju¿½{°}r°","MS",779
+"bureau","NC23B","351b(*)","N","Y"," ","AUX","bju¿½¾{°}r°","MS",780
+"bureau","NC23B","351b(*)","N","N"," "," ","bju½¼{°}r°","MS",780
+"chest of drawers","NC23B","351b(*)","O","Y","tall, plain, modern","AUX","tó²st$°v$dò·½º°z","MS",780
+"dresser","NC23B","351b(*)","N","N"," "," ","dò²s°","MS",780
+"bureau","NC23C!","351c!","N","N"," "," ","bju¿½¾{°}ro¼¹","MS",781
+"bureau","NC23D!","351d!","N","N","natural"," ","bju¿ºr°","MS",782
+"bureau","NC23D!","351d!","N","N"," "," ","bju¿ºro¼{¹}","MS",782
+"bureau","NC24N","N352","N","N","cf. `letter':  [r-] and [l-] interchangeable","SIC","bju¼l°","MS",783
+"letter","NC24N","N352","N","Y","interchangeable with [l²`t°]","INA","r²`t°","MS",783
+"letter","NC24N","N352","N","Y","interchangeable with [r²`t°]","INA","l²`t°","MS",783
+"bureau","NC24A","352a","N","N"," "," ","bju¿r°","MS",784
+"dresser","NC24B","352b","N","N","last 20 years"," ","dò²s´","MS",785
+"bureau","NC24B","352b","N","N"," "," ","bju¿r°","MS",785
+"bureau","NC25N","N353","N","N"," "," ","bju¿½r°","MS",786
+"bureau","NC25A","353","N","N"," "," ","bju¿½r°","MS",787
+"chest of drawers","NC25B","354","O","Y","no glass","OLD","tó±st$°$dò·½º°z","MS",788
+"bureau","NC25B","354","N","N"," "," ","bju¿½r°","MS",788
+"bureau","NC26A","355a","N","N"," "," ","bju¿{u¿«¾}ro¼¹","MS",789
+"bureau","NC26B","355b","N","N"," "," ","bju¿{u¿¾}ro¼{¹}","MS",790
+"dresser","NC26B","355b","N","Y"," ","NEW","dò²{°}s°","MS",790
+"bureau","NC26C!","356!","N","N","mirror"," ","bju¿{u¿¾}ro½{¹}","MS",791
+"chest of drawers","NC26C!","356!","O","N"," "," ","tó²{°}st$°v$dò·½º°z","MS",791
+"bureau","NC27A","357","N","N"," "," ","b{j}u¿¾r°","MS",792
+"bureau","NC27B","358","N","N"," "," ","bju¿¾r°","MS",793
+"bureau","NC28A","361","N","N"," "," ","b{j}u¿r°","MS",794
+"bureau","NC28B","361b","N","N"," "," ","b{±«¼}u¿¾ro¼{¹}","MS",795
+"bureau","NC28C","362","N","Y"," ","OLD","bju¿r°","MS",796
+"dresser","NC28C","362","N","N"," "," ","dò²s´","MS",796
+"bureau","NC29A","363(*)","N","Y"," ","AUX","bj¹¼{°}r°","MS",797
+"bureau","NC29A","363(*)","N","N"," "," ","bju¿r°","MS",797
+"clothes stand","NC29A","363(*)","O","N"," "," ","kloºz$stá{°}n","MS",797
+"bureau","NC29B","364","N","N"," "," ","b{i½¾}u¿ro½{¹}","MS",798
+"dresser","NC29B","364","N","Y"," ","NEW","dò²ºs´","MS",798
+"bureau","NC30A","365","N","N"," "," ","b±«{°}ro¼¹","MS",799
+"bureau","NC30B","366","N","N"," "," ","bj¹¿«{°}r°","MS",800
+"bureau","NC31A","367","N","N"," "," ","bj¹¿«{°}ro¼{¹}","MS",801
+"bureau","NC31B","368","N","N"," "," ","bj¡¾{°}r°","MS",802
+"bureau","NC32A","369","N","N"," "," ","biİu¿r°","MS",803
+"bureau","NC32B!","370!","N","N"," "," ","bju¿{°}ro½¹","MS",804
+"NR","NC33A","373"," ","N"," "," "," ","MS",805
+"bureau","NC33B","374","N","N"," "," ","bju¿½{°}r°","MS",806
+"bureau","NC34A","375","N","N"," "," ","b±{°}ro½¼¹","MS",807
+"bureau","NC34B","376","N","N"," "," ","bj¡¾{u¿¼}r°","MS",808
+"chest of drawers","NC34B","376","O","N","more drawers [than bureau]"," ","tó²«{°}st$°$dò··«z","MS",808
+"bureau","NC35A","377","N","N"," "," ","bju¿¾ro¼{¹}","MS",809
+"bureau","NC35B","378","N","N"," "," ","bju¿«{°}r°","MS",810
+"dresser","NC35B","378","N","N"," "," ","dò²s°","MS",810
+"bureau","NC36N","N381","N","N"," "," ","åb{i½¾}u¼õro«º","MS",811
+"bureau","NC36A","381","N","N"," "," ","b{i½¾}u¿r°","MS",812
+"dresser","NC36B","382","N","Y"," ","NEW","dò²s°","MS",813
+"bureau","NC36B","382","N","N"," "," ","bju¿{u¿¾}ro½{¹}","MS",813
+"bureau","NC37A","383","N","N"," "," ","åbju¿¼õro{¹}","MS",814
+"bureau","NC37B","384","N","N"," "," ","b{±«}u¿ro{¹}","MS",815
+"bureau","NC38N","N385","N","N"," "," ","b{i}u¿¾ro","MS",816
+"bureau","NC38A","385","N","N"," "," ","bi½{°}ro{¹}","MS",817
+"bureau","NC38B","386","N","N"," "," ","bju¿{°}roİ½¼{¹}","MS",818
+"bureau","NC39A","389","N","N"," "," ","åbju¿ºro{¹}","MS",819
+"bureau","NC39B!","390!","N","N"," "," ","bj¹¿{°}ro½¼{¹}","MS",820
+"chest of drawers","NC39B!","390!","O","N"," "," ","õtó²st$°v$ådò·º{°}z","MS",820
+"dresser","NC40A","391","N","Y"," ","NEW","dò²s°","MS",821
+"bureau","NC40A","391","N","N"," "," ","bju¿{°}r°","MS",821
+"bureau","NC40B","392","N","N"," "," ","b{i½¾}u¿ºro½{¹}","MS",822
+"bureau","NC41!","393!","N","N"," "," ","bju¿½{°}ro½¹","MS",823
+"bureau","NC42A","403","N","N"," "," ","b{j}u¿{°}ro½{¹}","MS",824
+"bureau","NC42B","404(*)","N","Y"," ","AUX","bju¿½¾{°}ro½¹","MS",825
+"bureau","NC42B","404(*)","N","N"," "," ","bju¿½¾{°}r°","MS",825
+"bureau","NC43A","397","N","N"," "," ","b{j}u¿¾ro½¹","MS",826
+"dresser","NC43B","398","N","N"," "," ","dò²s°","MS",827
+"bureau","NC43B","398","N","N"," "," ","b{i½¾}u¿«¾ro½{¹}","MS",827
+"chest of drawers","NC44","410(*)","O","N","no glass; tall"," ","tó±st$°$dò·½º{°}z","MS",828
+"bureau","NC44","410(*)","N","N"," "," ","b±{°}ro{¹½}","MS",828
+"bureau","NC44","410(*)","N","Y"," ","AUX","bju¿¾ro{¹}","MS",828
+"bureau","NC45A","409(*)","N","N"," "," ","åb{i½¾}u¿½{°}ro{¹½}","MS",829
+"bureau","NC45B"," ","N","N"," "," ","b{j}u¿{u¿«}ro{¹}","MS",830
+"bureau","NC46A","411","N","N"," "," ","åbju¿{u¿«¾}ro{¹}","MS",831
+"chest of drawers","NC46A","411","O","N"," "," ","tó±st$°$dò·½º°z","MS",831
+"dresser","NC46B","412","N","Y"," ","NEW","dò²s´","MS",832
+"bureau","NC46B","412","N","N"," "," ","bju¿{°}r°","MS",832
+"chest of drawers","NC46B","412","O","N","no glass"," ","tó±st$°{v}$dò·½º°z","MS",832
+"dresser","NC46C!","412b!","N","N"," "," ","dò²s°","MS",833
+"bureau","NC46C!","412b!","N","N"," "," ","bju¿¾{u¼}ro½¹","MS",833
+"bureau","NC47","413","N","N"," "," ","bi½{°}´o{¹}","MS",834
+"stand of drawers","NC47","413","O","N","high, no glass"," ","õstán°$ådr·º´z","MS",834
+"bureau","NC48","418","N","N"," "," ","b{i½¾}u¿½¾ro½¹","MS",835
+"bureau","NC49","421","N","N"," "," ","bju¿ºr°","MS",836
+"bureau","NC50A","422","N","N"," "," ","bju¿{u¿«}ro½¹","MS",837
+"dresser","NC50B!","423!","N","Y"," ","NEW","dò²¾s°","MS",838
+"bureau","NC50B!","423!","N","N"," "," ","b{i½}u¿ro½¼{¹}","MS",838
+"bureau","NC51A","427","N","N"," "," ","b{i½¾}u¿ro¹","MS",839
+"bureau","NC51B","428","N","N"," "," ","b{i}u¿ro½¹","MS",840
+"dresser","NC52N","N429","N","Y"," ","NEW","dò²s°","MS",841
+"bureau","NC52N","N429","N","N"," "," ","bju¿¾roº","MS",841
+"sideboard","NC52A","429","N","N","no glass; low"," ","åsµ¼º²¾dõboº´d","MS",842
+"bureau","NC52A","429","N","N"," "," ","bju¿{u¿«}ro½¼¹","MS",842
+"chest of drawers","NC52A","429","O","N","no glass; high"," ","tó²st$°$ådò·º°z","MS",842
+"bureau","NC52B","430","N","N"," "," ","bju¿{u¿¾}ro{¹}","MS",843
+"bureau","NC53A","431","N","N"," "," ","bju¿ro½o","MS",844
+"bureau","NC53B","432","N","N"," "," ","b{i½¾}u¿½¾{°}ro½¹½","MS",845
+"bureau","NC54A","433","N","N"," "," ","b{i½¾}¹¿¼{°}ro{¹}","MS",846
+"chest of drawers","NC54B","434","O","N"," "," ","tó²{°}st$°v$dò·½º´z","MS",847
+"bureau","NC54B","434","N","N"," "," ","åb{j}u¿{u¿«}õro½¹","MS",847
+"bureau","NC55","435","N","N"," "," ","b{j}u¿½{°}ro½¹","MS",848
+"bureau","NC56A","436","N","N"," "," ","b{i½¾}u¿{°}ro½{¹½}","MS",849
+"dresser","NC56B!","437!","N","N"," "," ","dò²{°}s°","MS",850
+"chest of drawers","NC56B!","437!","O","N","all drawers"," ","tó²º{°}st$°v$dò·½º°z","MS",850
+"bureau","NC57A","438a","N","N"," "," ","b{i½¾}u¿½¾ro{¹}","MS",851
+"bureau","NC57B","438b","N","N"," "," ","bju¿{u¿«¾}ro½{¹}","MS",852
+"dresser","NC57B","438b","N","N"," "," ","dò²s°","MS",852
+"dresser","NC58A","439","N","Y"," ","NEW","dò²s´","MS",853
+"bureau","NC58A","439","N","N"," "," ","bju¿{u¿¾}ro½¹","MS",853
+"dresser","NC58B","440","N","N"," "," ","dò²s´","MS",854
+"bureau","NC58B","440","N","N"," "," ","bju¿{u¿«¾}´o½{¹}","MS",854
+"bureau","NC59","441(*)","N","N"," "," ","b{i½¾}¹¿«´o½{¹}","MS",855
+"dresser","NC59","441(*)","N","Y"," ","NEW","dò²º{°}s´","MS",855
+"bureau","NC60","442","N","N"," "," ","b{i½¾}u¿{°}ro½{¹}","MS",856
+"bureau","NC61A","443","N","N"," "," ","b{i½¾}u¿ro½{¹}","MS",857
+"bureau","NC61B","444","N","N"," "," ","b{±½¼}u¼ºro½¼¹","MS",858
+"stand of drawers","NC61B","444","O","N"," "," ","stánd$°v$dò·½º´z","MS",858
+"dresser","NC62A","447","N","Y"," ","NEW","dò²ºs´","MS",859
+"bureau","NC62A","447","N","N"," "," ","bju¿¾{u¼}ro½{¹}","MS",859
+"dresser","NC62B","448","N","N"," "," ","dò²s´","MS",860
+"bureau","NC62B","448","N","N","no glass"," ","b{i½¾}u¿ro½¹","MS",860
+"safe","NC62B","448","N","Y","drawers and doors","OLD","se½±¿f","MS",860
+"NR","NC63A","449"," ","N"," "," "," ","MS",861
+"bureau","NC63B","450","N","N"," "," ","bju¿{u¿«¾}ro½¼{¹}","MS",862
+"bureau","NC64A","453","N","N"," "," ","b{i½}u¿{°}ro½¹","MS",863
+"bureau","NC64B","454","N","N"," "," ","b{j}u¿½¾{°}roº","MS",864
+"dresser","NC64B","454","N","N"," "," ","dò²s´","MS",864
+"bureau","NC65A","461","N","N"," "," ","bju¿{u¿¾}ro½{¹}","MS",865
+"bureau","NC65B","462","N","N"," "," ","b{i}u¿ro{¹}","MS",866
+"chest of drawers","NC65B","462","O","Y"," ","OLD","tó²st$°v$dr·´z","MS",866
+"dresser","NC65B","462","N","N"," "," ","dò²{°}s´","MS",866
+"bureau","NC66A","465","N","N"," "," ","bju¿½{u¼}ro½¹","MS",867
+"bureau","NC66B","466","N","N"," "," ","bju¿{°}ro½¹","MS",868
+"chest of drawers","NC66B","466","O","N"," "," ","tó²{°}st$°v$dò·½º´z","MS",868
+"bureau","NC67A","469","N","N"," "," ","b{i½¾}u¼ºro½ºo","MS",869
+"bureau","NC67B","470","N","N"," "," ","b{i}u¿½roº","MS",870
+"dresser","NC67B","470","N","Y"," ","NEW","dr²s°","MS",870
+"bureau","NC68A","473","N","N"," "," ","åb{i}u¿ro½¹","MS",871
+"bureau","NC68B","474","N","N"," "," ","b{±«}u¿½ro½¹","MS",872
+"chest of drawers","NC68B","474","O","N","high one"," ","tó²{°}st$°$dò·½º´z","MS",872
+"bureau","NC69A","477","N","N"," "," ","b{i½¾}u¿½{°}ro½¹","MS",873
+"dresser","NC69B","478","N","N"," "," ","dr²{°}s°","MS",874
+"bureau","NC69B","478","N","N"," "," ","b{i}u¿{°}ro{¹}","MS",874
+"bureau","NC70A","479","N","N"," "," ","bju¿½{°}ro½¹","MS",875
+"dresser","NC70A","479","N","Y"," ","NEW","dò²s°","MS",875
+"chest of drawers","NC70B","480","O","N","no glass; all drawers"," ","õtó²st$°v$ådò·½º´z","MS",876
+"dresser","NC70B","480","N","N"," "," ","dò²s´","MS",876
+"dresser","NC71A","481","N","Y"," ","NEW","dò²{°}s´","MS",877
+"bureau","NC71A","481","N","N"," "," ","b{i½¾}u¿¾ro{¹}","MS",877
+"bureau","NC71B","482","N","N"," "," ","bju¿{u¿«¾}ro½¹","MS",878
+"dresser","NC71B","482","N","Y"," ","NEW","dò²s´","MS",878
+"bureau","NC71C!","483!","N","N"," "," ","bju¿½¾{°}ro½¹","MS",879
+"bureau","NC72A","487","N","N"," "," ","b{i}¹¿«ro½{¹}","MS",880
+"bureau","NC72B","488","N","N"," "," ","bju¿¾{°}ro½¹","MS",881
+"dresser","NC73A","491","N","N"," "," ","dò²s´","MS",882
+"bureau","NC73A","491","N","N"," "," ","bju¿¾ro½¹","MS",882
+"bureau","NC73B","492","N","N"," "," ","b{i½}¹¿ro«{¹}","MS",883
+"dresser","NC73B","492","N","N"," "," ","dò²{°}s´","MS",883
+"bureau","NC74A","493","N","N"," "," ","bju¿{°}r°","MS",884
+"dresser","NC74B","494","N","N"," "," ","dò²s´","MS",885
+"bureau","NC74B","494","N","N"," "," ","bju¿{u¿«¾}ro½{¹}","MS",885
+"bureau","NC75A","495","N","N"," "," ","åbi½¾{°}õro½{¹}","MS",886
+"bureau","NC75B","496","N","N"," "," ","åbju¿õro½¹","MS",887
+"bureau","SC1A","203.1","N","N"," "," ","bju¿{°}r°","MS",888
+"bureau","SC1B","203.2","N","N"," "," ","bju¿{°}r°","MS",889
+"bureau","SC2A","204.1(*)","N","N"," "," ","b{±«}u¿½ro½","MS",890
+"chest of drawers","SC2B","204.2","O","N"," "," ","tó²{°}st$°v$dò·º°z","MS",891
+"dresser","SC2B","204.2","N","Y"," ","NEW","dò²s°","MS",891
+"bureau","SC2B","204.2","N","N"," "," ","bju¿{u¿«¾}r°","MS",891
+"bureau","SC2C"," ","N","N"," "," ","åbju¿¾ro{¹}","MS",892
+"dresser","SC3A","205.1","N","Y"," ","NEW","dr²{°}s°","MS",893
+"bureau","SC3A","205.1","N","N"," "," ","bju¿¼{°}r°","MS",893
+"dressers","SC3B","205.2","N","N"," "," ","dò²«{°}s´«¾z","MS",894
+"dresser","SC3B","205.2","N","N"," ","CNV","dò²«{°}s°«","MS",894
+"chest","SC3C!","205.3!","N","N"," "," ","tó`²«{°}s","MS",895
+"dressing table","SC3C!","205.3!","O","N"," "," ","ådò²«{°}s±¿n$õt`eº±¿b©","MS",895
+"vanity","SC3C!","205.3!","N","Y"," ","NEW","åváº{°}n°t`±¿«¼","MS",895
+"bureau","SC3C!","205.3!","N","N"," "," ","bju¼º{w}ro¼º¹¼","MS",895
+"dresser","SC3C!","205.3!","N","Y"," ","NEW","dò²«{°}s°","MS",895
+"dresser","SC4A","206.1","N","N","""mirror¢"," ","dò²«{°}s°","MS",896
+"mirror","SC4A","206.1","N","Y"," ","INA","m±«r°","MS",896
+"trunk","SC4A","206.1","N","N"," "," ","t`ò¸«{°}îk","MS",896
+"washstands","SC4A","206.1","N","N"," "," ","åwµ«{°}óõstá½{°}nz","MS",896
+"bureau","SC4B","206.2","N","N"," "," ","bju¿¼ºro¼","MS",897
+"drawers","SC4B","206.2","N","N"," "," ","dò·«¼º|°z","MS",897
+"drawers","SC4B","206.2","N","N"," "," ","dò·º°z","MS",897
+"washstand","SC4B","206.2","N","N"," "," ","åwµ¾{°}óõstáº{°}n","MS",897
+"bureau","SC4C","206.3","N","N"," "," ","bjy¾ºro¼{°}","MS",898
+"bureaus","SC5A","207.1","N","N"," "," ","åbju¿ºõro¼ºz","MS",899
+"sideboard","SC5A","207.1","N","N"," "," ","åsŞ¼±¿dõbo«¼{°—«}d","MS",899
+"desk","SC5A","207.1","N","N"," "," ","d²«s","MS",899
+"bureau","SC5B","207.2","N","N"," "," ","bju¿¼ºro¼º","MS",900
+"sideboard","SC5B","207.2","N","N"," "," ","åsµ«±¿dõbo«¼º{°}d","MS",900
+"bureaus","SC5C","207.2A","N","N"," "," ","åbju¿¼ºõroº{°}z","MS",901
+"bureau","SC5D!","207.3!","N","N","""mirror¢"," ","åbju¿¼ºõro«¼º","MS",902
+"mirror","SC5D!","207.3!","N","Y"," ","INA","m±«r°","MS",902
+"chest of drawers","SC5D!","207.3!","O","N"," "," ","åtó`²«st$°«v$ådò·¼º°z{z}","MS",902
+"drawers","SC5D!","207.3!","N","N","""mirror¢"," ","dò·¼º°z","MS",902
+"big mirror","SC6N","N208","O","Y"," ","INA","åb±«{°}g$õm±«{°}r°«¾","MS",903
+"bureau","SC6N","N208","N","N","""big mirror¢"," ","bju¿¼ºr°«¾","MS",903
+"dresser","SC6A","208.1","N","N"," "," ","dr²s°","MS",904
+"bureau","SC6A","208.1","N","N"," "," ","bju¿¾ºro«","MS",904
+"glass","SC6B","208.2(*)","N","Y"," ","INA","gla«{°}s","MS",905
+"bureau","SC6B","208.2(*)","N","N","""glass¢"," ","åbju¿ºõroº{°}","MS",905
+"dressers","SC6B","208.2(*)","N","Y","""now¢","NEW","dò²«¾{°}s°«z","MS",905
+"now","SC6B","208.2(*)","A","Y"," ","INA","nµºo","MS",905
+"bureau drawers","SC6C!","208.3!","O","N"," "," ","åbju¿ºr°$õdò·«º°İz","MS",906
+"bureau","SC6C!","208.3!","N","Y"," ","AUX","åbju¿ºõro«º{°}","MS",906
+"dresser","SC6C!","208.3!","N","N"," "," ","dò²«s°","MS",906
+"trunks","SC6C!","208.3!","N","Y"," ","AUX","tò¸—îks","MS",906
+"bureau","SC6D"," ","N","N"," "," ","bju¿ºõro¼º¹","MS",907
+"dresser","SC6D"," ","N","Y"," ","NEW","dò²«{°}s°","MS",907
+"bureau","SC7N","N209","N","N","""in and out¢"," ","åbju¿¼ºr‡o¼º{¹}","MS",908
+"in and out","SC7N","N209","Q","Y"," ","INA/SIC","õiºn$°½n$å¸½¾¹t","MS",908
+"trunk","SC7N","N209","N","N"," "," ","t`ò¸—¾îk","MS",908
+"bureau","SC7A","209.1","N","N"," "," ","åbju¿ºro«¼º{°}","MS",909
+"dresser","SC7B","209.2","N","N","marble top"," ","ådò²«¾{°}s°","MS",910
+"bureau","SC7B","209.2","N","N","""drawers¢"," ","åbju¿¼ºwõro¼º{°}","MS",910
+"drawers","SC7B","209.2","N","Y"," ","INA","dò·«¼º°z","MS",910
+"dresser","SC7B","209.2","N","N","marble top"," ","dò²«{°}s°","MS",910
+"safety drawer","SC7B","209.2","O","N"," "," ","åseº{±¿}ft±¿«¼$õdò·¼º°","MS",910
+"bureau","SC7C!","209.3!","N","N"," "," ","bju¿º{w}ro¼º¹¼","MS",911
+"moveable sideboard","SC7C!","209.3!","O","N"," "," ","åmu¿º{w}v°bì$åsµ¼º±¿dõbo¼º¹d","MS",911
+"drawers","SC7C!","209.3!","N","N"," "," ","dòo¼º°z","MS",911
+"table","SC7C!","209.3!","N","Y"," ","INA/CNV","t`eº{°}bì","MS",911
+"bureau","SC7D!","209.4!","N","Y","[{¹}]: doubtful; don't have","FDT","åbju¿ºr‡o¼º{¹}","MS",912
+"chest of drawers","SC7D!","209.4!","O","N"," "," ","åtó`²«{°}st$°$õdò·¼º°z","MS",912
+"chest","SC7D!","209.4!","N","N"," "," ","tó`²«{°}st","MS",912
+"dressing table","SC7D!","209.4!","O","N"," "," ","dò²«{°}s±«¾î$õt`eº{°}bì","MS",912
+"dresser","SC8A","210.1","N","Y"," ","NEW","dò²«{°}s°","MS",913
+"bureau","SC8A","210.1","N","N"," "," ","åbju¿ºro«¼º","MS",913
+"chest","SC8A","210.1","N","N","for laying away"," ","tó²«{°}st","MS",913
+"desk","SC8A","210.1","N","N"," "," ","d²«{°}s","MS",913
+"box","SC8A","210.1","N","N","for laying away"," ","bŞ—{°}ks","MS",913
+"bureau","SC8B","210.2","N","N"," "," ","bju¿ºro¼","MS",914
+"dresser","SC8B","210.2","N","N"," "," ","dò²º{°}s°","MS",914
+"dresser","SC8C","210.3","N","N"," ","CNV","dò²«{°}s°«","MS",915
+"bureau","SC8C","210.3","N","N"," "," ","åbju¿ºroº{°}","MS",915
+"box","SC8C","210.3","N","N"," "," ","b¶{°}ks","MS",915
+"bureau","SC9A","211.1","N","N"," "," ","åbju¿ºro¿¼º","MS",916
+"box","SC9A","211.1","N","N"," "," ","bŞ¼{°}ks","MS",916
+"dresser","SC9B","211.2","N","Y"," ","NEW","dò±½{°}s°","MS",917
+"bureau","SC9B","211.2","N","N","""my mammy never could git [one]¢"," ","åbju¿¼ºro¼º","MS",917
+"cabinet","SC9B","211.2","N","N"," "," ","kˆ`á½{°}b°n±¿¼t","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"bureau","SC9D!","211.4!","N","N"," "," ","åbju¿¼ºõro«¼º","MS",919
+"vanity","SC10A","212.1","N","N","smaller [than bureau]"," ","åvá½n±¿t±¿«¼","MS",920
+"chest of drawers","SC10A","212.1","O","N","no mirror"," ","åtó`²«st$°$õdò·¼º°zz","MS",920
+"bureau","SC10A","212.1","N","Y","""old time¢","OLD","åbju¿¼ºõro¼«º{°}","MS",920
+"bureaus","SC10B!","212.2!","N","N"," "," ","åb{±¿}u¿õro¼º{°}z","MS",921
+"sideboards","SC10B!","212.2!","N","Y","for dishes","INA","åsµ«º±¿dõbo«¼ºdz","MS",921
+"sideboards","SC10B!","212.2!","N","Y","for dishes","INA","åsµ«º±¿dõbo¼º°İdz","MS",921
+"chest on a chest","SC10C!","212.3!","O","N"," "," ","åtó²«st$õ·—«º{°—}n$°$åtó²«{°}st","MS",922
+"bureau","SC10C!","212.3!","N","N"," "," ","åbju¼ºr°—","MS",922
+"bureau","SC10C!","212.3!","N","N"," "," ","åbju¿ºõro¼º","MS",922
+"sugar chest","SC10C!","212.3!","O","Y"," ","DBT","åó¹¼g°$õtó²«{°}s","MS",922
+"trunk chest","SC10C!","212.3!","O","N"," "," ","åtò¸½{°}îk$õtó²«{°}s","MS",922
+"chifforobe","SC11N","N213","N","N","fancy one"," ","åó±f°åro","MS",923
+"bureau","SC11N","N213","N","N"," "," ","bju¿ro«","MS",923
+"plain","SC11M!","2n213!","A","Y"," ","INA","p`le«º{°}n","MS",924
+"bureaus","SC11M!","2n213!","N","N","""mirror¢"," ","åbju¿¼ºõro«¼º{°}z","MS",924
+"chest of drawers","SC11M!","2n213!","O","N","""plain¢"," ","åtó²«st$°½v$õdò·¼º°z","MS",924
+"mirror","SC11M!","2n213!","N","Y"," ","INA","åm±¿¼r°","MS",924
+"drawers","SC11M!","2n213!","N","N","""plain¢"," ","dò·½¼º{°}z","MS",924
+"cupboard","SC11A","213.1(*)","N","N","""could be called¢"," ","k`¦½b°«d","MS",925
+"bureau","SC11A","213.1(*)","N","Y"," ","AUX","bju¿½¾{°}ro¼","MS",925
+"dresser","SC11A","213.1(*)","N","N"," "," ","dò²«s°","MS",925
+"bureau","SC11A","213.1(*)","N","N"," "," ","bj¹¿«¼ºro«¼º","MS",925
+"bureau","SC11B","213.11","N","N","a triple dresser"," ","bju¿roº{°}","MS",926
+"dresser","SC11B","213.11","N","N"," "," ","dò²«s°","MS",926
+"chest of drawers","SC11B","213.11","O","N"," "," ","õtó²st$°$ådr·º°z","MS",926
+"chest of drawers","SC11C","213.2","O","N"," "," ","õtó`²«st$°$ådò·¼º°z","MS",927
+"bureau","SC11C","213.2","N","N"," "," ","åbju¿¼r°«¼º","MS",927
+"washstand","SC11C","213.2","N","N"," "," ","åwŞóõstá½n","MS",927
+"washstand","SC11C","213.2","N","N"," "," ","åwŞóõtá½º{°}n","MS",927
+"bureau","SC11D","213.3","N","N","top drawers smaller; always mirror"," ","bjy¾ºu¿«ro«¼º","MS",928
+"chest of drawers","SC11D","213.3","O","N","all drawers, also sometimes with mirror"," ","åtó±½st$°½v$õdò·¼º°z","MS",928
+"chifforobe","SC11D","213.3","N","N","drawers and hanging space"," ","åó±«f°õro«¼º{°}b","MS",928
+"dresser","SC11E","213.4","N","N","""with drawers¢","CNV","dò²«s°«","MS",929
+"with drawers","SC11E","213.4","Q","Y"," ","INA/CNV","w±¿¼ä$ådò·¼º{°}z","MS",929
+"mirror attached","SC11F","213.5","O","Y"," ","INA","åm±r°¾$°åt`á½tó{t}","MS",930
+"vanity","SC11F","213.5","N","N","place to put your knees"," ","åvá½n±¿½t±¿i","MS",930
+"vanity dresser","SC11F","213.5","O","N","place to put your knees"," ","åvá½n±¿½t±¿«¼$õdò²¾s°«¾","MS",930
+"bureau","SC11F","213.5","N","N","""mirror attached¢; longer drawers [than dresser]"," ","bju¿¼ºro«¼º","MS",930
+"chest of drawers","SC11F","213.5","O","N","tall"," ","tó`²«st$°«v$dò¶—«º{°}z","MS",930
+"chest of drawers","SC11G!","213.7!","O","N","no big mirror"," ","åtó²«st$°½v$õdò·¼º°İz","MS",931
+"bureau","SC11G!","213.7!","N","N","""big mirror¢"," ","åbju¿¼ºõro¼º","MS",931
+"dresser","SC11G!","213.7!","N","N"," "," ","dò²¾s°½¾","MS",931
+"big mirror","SC11G!","213.7!","O","Y"," ","INA","õb±«g$åm±¿¼r°¾","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"bureau","SC11I!","213.9!","N","Y","glass","AUX","bju¿½ro«","MS",933
+"chest of drawers","SC11I!","213.9!","O","Y","tall set of drawers","AUX","tó²st$°v$dò·º{°}z","MS",933
+"bureau","SC11J!","213.10!","N","N","""looking glass¢"," ","bjy¾ºro«¼","MS",934
+"chest of drawers","SC11J!","213.10!","O","N"," "," ","åtó²«st$°v$õdò·¼º{°}z","MS",934
+"chest upon a chest","SC11J!","213.10!","O","N"," "," ","åtó²«st$°p`¸«n$õtó²«st","MS",934
+"looking glass","SC11J!","213.10!","O","Y"," ","INA","ål¹¼k±¾î$õgÅá½{°}s","MS",934
+"sideboards","SC12A","214.1","N","N"," "," ","åsµº±¿¼dõboº°İdz","MS",935
+"bureaus","SC12A","214.1","N","N"," "," ","åbju¿ºro¼º{°}z","MS",935
+"sideboards","SC12A","214.1","N","N"," "," ","åsµº±¿¼dõboºdz","MS",935
+"glasses","SC12A","214.1","N","Y","= mirrors","INA/CNV","dlá{°}s±¿¼z","MS",935
+"boxes","SC12A","214.1","N","N"," "," ","b¶{°}ks±¿¼z","MS",935
+"trunks","SC12A","214.1","N","N"," "," ","t`ò¦½{°}îks","MS",935
+"bureau","SC12B","214.2","N","N"," "," ","bju¿roº","MS",936
+"bureaus","SC13","213.6","N","N"," "," ","åbju¿ºõro¼ºz","MS",937
+"tables","SC13","213.6","N","Y"," ","INA","te«ºblz","MS",937
+"bureau","SC14A","215.1","N","N"," "," ","åbju¼ro«","MS",938
+"dresser","SC14A","215.1","N","Y","low","NEW","dò²{°}s°½","MS",938
+"chest of drawers","SC14A","215.1","O","Y","= bureau","SUG","tó²{°}st$°$dò·º{°}z","MS",938
+"dresser","SC14B","215.2","N","Y"," ","NEW","dò²«{°}s°","MS",939
+"bureaus","SC14B","215.2","N","N"," "," ","åbju¿¼ºro¼º{°}z","MS",939
+"bureaus","SC15A","216.1","N","N"," "," ","åbju¿ºõro¼º{°}z","MS",940
+"dressers","SC15B","216.2","N","Y","""call them now¢","NEW","dò±½º{°}s°z","MS",941
+"bureaus","SC15B","216.2","N","N"," "," ","åbju¿ºõro¼º{°}z","MS",941
+"trunk","SC15B","216.2","N","N"," "," ","tò¸—«¼{°}îk","MS",941
+"dresser","SC15C","216.3","N","Y"," ","NEW","dò²«{°}s°","MS",942
+"bureau","SC15C","216.3","N","N"," "," ","åbju¿õro«¼","MS",942
+"washstand","SC15C","216.3","N","N"," "," ","åwµ¾{°«}óõstáº{°}n","MS",942
+"bureau","SC16N","N217","N","N","""mirror¢","SIC","biºro¼","MS",943
+"mirror","SC16N","N217","N","Y"," ","INA","m²«ºr°","MS",943
+"trunk","SC16N","N217","N","N"," "," ","t`ò¦½îk","MS",943
+"bureau","SC16","217.1","N","N","same [as dresser], ""drawers¢"," ","åb{i}u¿¾õroº","MS",944
+"drawers","SC16","217.1","N","N"," "," ","dò·º{·—}z","MS",944
+"bureau","SC16","217.1","N","N","same [as dresser], ""drawers¢"," ","åb{i}u¿¾õro{¹}","MS",944
+"dresser","SC16","217.1","N","N","same [as bureau]"," ","dò²s°","MS",944
+"dresser","SC16","217.1","N","N","same [as bureau]"," ","d‘ò²s°","MS",944
+"bureaus","SC17A","218.1","N","Y","""used to call it¢","AMS/OLD","åbju¿¼ºõro¼º{°}z","MS",945
+"dressers","SC17A","218.1","N","Y","""call it now¢","NEW","dò²«{°}s´«¾z","MS",945
+"made chests","SC17A","218.1","O","N"," "," ","åme«ºd$õtó±«{°}st±¿¼z","MS",945
+"trunks","SC17A","218.1","N","N"," "," ","tò¦½{°}îks","MS",945
+"sideboard","SC17A","218.1","N","N"," "," ","åsµ¼±¿dõboº°d","MS",945
+"dresser","SC17B","218.2","N","Y"," ","HES","dò²«{°}s°","MS",946
+"bureau","SC17B","218.2","N","N"," ","CNV","åbju¿ºro¼º","MS",946
+"clothes chest","SC17B","218.2","O","N","box"," ","åk`Åo«¼ºz$õtó`²«{°}s","MS",946
+"bureaus","SC17C","218.3","N","N"," "," ","bju¿ºroº{°}z","MS",947
+"sideboard","SC17C","218.3","N","N"," "," ","åsµ«º±¿dõboº{°}d","MS",947
+"washstands","SC17C","218.3","N","N"," "," ","åwµ¾{°}óõstáº{°}nz{z}","MS",947
+"bureau","SC17D","218.4","N","Y"," ","OLD","åbju¿¼ºro¼º","MS",948
+"dresser","SC17D","218.4","N","Y"," ","NEW","dò²«{°}s°","MS",948
+"chifforobe","SC18N","N219","N","N"," "," ","åó±«f°ro«¼º{b}","MS",949
+"chest of drawers","SC18A","219.1","O","N"," "," ","åtó`²«st$°$õdò·¼º{°}z{z}","MS",950
+"chest on a chest","SC18A","219.1","O","N"," "," ","t ó `²«st$·¼n$°õt ó `²«st","MS",950
+"highboy","SC18A","219.1","N","N"," "," ","åhµ«º±¿õb·¼º±¿","MS",950
+"bureau","SC18A","219.1","N","N","mirror"," ","åbjy¾ºõro«¼","MS",950
+"commode","SC18A","219.1","N","N","small chest"," ","kˆ`°åmo«¼º{°}d","MS",950
+"lowboy","SC18A","219.1","N","N"," "," ","ålo«¼ºõb·½¼º±¿","MS",950
+"dressing table","SC18A","219.1","O","N","on legs, one drawer or two in line, mirror"," ","ådò²¾sn$õt`e«ºbì","MS",950
+"chest of drawers","SC18B","219.2","O","N"," "," ","åtó²¾st$°$õdò·¼º{°}z","MS",951
+"dressers","SC18B","219.2","N","N"," "," ","dò²¾s°¾z","MS",951
+"chiffonier","SC18B","219.2","N","N"," "," ","åó±«f°n²«º°","MS",951
+"highboy","SC18B","219.2","N","N"," "," ","åhµº±¿$õb·¼º±¿","MS",951
+"bureau","SC18B","219.2","N","N","mostly mirror"," ","åbjy¾ºro¼","MS",951
+"chest of drawers","SC18C!","219.3(*)!","O","N","no mirror"," ","tó²«st$°v$õdò·¼º{·}z","MS",952
+"bureau","SC18C!","219.3(*)!","N","N","""I call it¢"," ","åbjy¾ºro«¼","MS",952
+"dressers","SC18C!","219.3(*)!","N","Y"," ","NEW","dò²s°¾z","MS",952
+"chest of drawers","SC18D!"," ","O","N","no mirror"," ","åtó`²st$°$õdò·«¼º{°}z","MS",953
+"chiffonier","SC18D!"," ","N","Y"," ","NEW","åó±f°n²«°","MS",953
+"bureau","SC18D!"," ","N","Y"," ","NEW","bjy¾ºro«¼º","MS",953
+"bureau","SC19N","N220","N","N"," "," ","bju¼ro«º","MS",954
+"mirrors","SC19A","220.1","N","Y"," ","INA","åm±¿ºr°«¾z","MS",955
+"chifforobe","SC19A","220.1","N","N"," "," ","åó±«f°õro«¼ºb","MS",955
+"chest of drawers","SC19A","220.1","O","N"," "," ","åtó²«st$°$õdò·¼º°İz","MS",955
+"bureaus","SC19A","220.1","N","Y","""mirrors¢","NEW","bjy¾ºro«¼º{°}z","MS",955
+"bureau","SC19A","220.1","N","N","""mirrors¢"," ","åbj¹¿¼ro«¼","MS",955
+"deep drawers","SC19A","220.1","O","N","no mirror"," ","ådiºp$õdò·¼º{°}z","MS",955
+"dresser","SC19B","220.4","N","N"," "," ","dò²s°","MS",956
+"lowboy","SC19C","220.2(*)","N","N"," "," ","ålo«¼º¹õb·½¼±¿«¼","MS",957
+"commode","SC19C","220.2(*)","N","N","shorter [than chest of drawers]"," ","kˆ`°åmo«¼º{¹}d","MS",957
+"chest of drawers","SC19C","220.2(*)","O","N"," "," ","åtó²«st$o½v$õdò·¼º{°}z","MS",957
+"bureau","SC19C","220.2(*)","N","N"," "," ","bjy¾ºro«¼","MS",957
+"blanket chest","SC19C","220.2(*)","O","N"," "," ","åbláºîki¿¼t$õtó²«st","MS",957
+"dressing table","SC19C","220.2(*)","O","Y"," ","NEW","ådò²«¾s±¾î$õt`e«ºbl","MS",957
+"dressers","SC19D!","220.3!","N","N"," "," ","dò²«s°«z","MS",958
+"sideboard","SC19D!","220.3!","N","N"," "," ","åsµº±¿dõbo¼º°d","MS",958
+"cedar chest","SC19E!"," ","O","N"," "," ","åsiºd°$õtó²«s{t}","MS",959
+"dressing table","SC19E!"," ","O","N"," "," ","ådò²«s±¾î$õt`e«º{°}bì","MS",959
+"camphor chest","SC19E!"," ","O","N"," "," ","åkˆ`²½m{p}f°$õtó²«{°}st","MS",959
+"bureau","SC19E!"," ","N","N"," "," ","åbjy¾u¿õro«¼º{°}","MS",959
+"bureau","SC19E!"," ","N","N"," "," ","åbjy¾º{°}´o«¼","MS",959
+"chest of drawers","SC19E!"," ","O","N","np ""looking glass¢"," ","åtó²ºst$°½v$õdò·¼º°z{z}","MS",959
+"looking glass","SC19E!"," ","O","Y"," ","INA/CNV","ål¹¼k±¾î$õdlá½{°}s","MS",959
+"glass","SC19E!"," ","N","Y"," ","INA/CNV","gÅá½es","MS",959
+"bureau","SC20A","221.1","N","N"," "," ","åbju¿ºõro¼º¹¼","MS",960
+"bureau","SC20B","221.2","N","N"," "," ","åbju¿¼ºõro¼º¹¼","MS",961
+"bureau","SC20C","221.3","N","N"," "," ","åbju¿ºõro¼º¹¼","MS",962
+"trunk","SC20C","221.3","N","N"," "," ","tòo—îk","MS",962
+"trunk","SC20C","221.3","N","N"," "," ","tò¦—½îk","MS",962
+"dresser","SC20D!","221.4!","N","N","now"," ","dò²«s°","MS",963
+"bureau","SC20D!","221.4!","N","N","then"," ","åbju¿º{w}õro¼º{¹¼}","MS",963
+"bureau","SC21A","222.1","N","N"," "," ","åbju¿{u¿«¾}ro¼{¹}","MS",964
+"bureau","SC21B","222.2","N","N"," "," ","åbju¿{°}ro{¹}","MS",965
+"dresser","SC21B","222.2","N","Y"," ","NEW","dò²s°","MS",965
+"bureau","SC22N","N223","N","N"," "," ","bju¿½¾{°}ro","MS",966
+"highboy","SC22A","223.1","N","Y","tall; no mirror","DBT","åha«¾º{°}õbo½±¿¼","MS",967
+"mirror","SC22A","223.1","N","Y"," ","INA","m±«ºr°¾","MS",967
+"bureaus","SC22A","223.1","N","N","""mirror¢"," ","åbju¿¼ºro«¼º{°}z","MS",967
+"bureau","SC22B","223.2","N","N"," "," ","bju¿roº","MS",968
+"chest of drawers","SC22C!","223.3!","O","N"," "," ","tó`²«{°}st$°v$ådò·½º°İz","MS",969
+"bureaus","SC22C!","223.3!","N","N"," "," ","bju¿¼ºro¼º{°}z","MS",969
+"dresser dresser","SC23A","224.1","O","N","""didn't have any to call¢ (when he was a boy)"," ","ådò²«{°}s°$õdò·½º{°}","MS",970
+"bureaus","SC23B","224.2","N","N"," "," ","åbju¿¼º{w}ro¼{°}z","MS",971
+"chest","SC23B","224.2","N","N"," "," ","tó`±½{°}st","MS",971
+"dressers","SC23B","224.2","N","Y"," ","NEW","dò²«{°}°«¾z","MS",971
+"bureau","SC23C","224.3","N","N"," "," ","bju¿ºro¼º","MS",972
+"dresser","SC23D","224.4","N","N"," "," ","dò²«{°}s°","MS",973
+"bureau","SC23D","224.4","N","N"," "," ","åbju¿¼º{w}ro¼º¹¼","MS",973
+"washstand","SC23D","224.4","N","N"," "," ","åwµ¾{°}óõstá«º{°}n","MS",973
+"looking glass","SC23E!","224.5!","O","Y"," ","INA","ål¹¿«¾k±¿¼î$õdlá{°}s","MS",974
+"bureau","SC23E!","224.5!","N","N","""looking glass¢"," ","bju¿ºro¼º{°}","MS",974
+"trunk","SC24N","N225","N","N"," "," ","t`ò¦½{°}îk","MS",975
+"dresser","SC24A","225.1","N","N"," "," ","dò²¾s°","MS",976
+"clothes chest","SC24B","225.11","O","N","cedar chest, ""box-like¢"," ","åk`Åo¼{°}z$õtó`±«{±¿}s","MS",977
+"box-like","SC24B","225.11","A","Y"," ","INA","åb¶{°}ksõlµ«±¿k","MS",977
+"bureau","SC24C","225.2","N","N"," "," ","åbjy¾ro«¼º","MS",978
+"dressers","SC24C","225.2","N","N"," "," ","dò²«{°}s°«z","MS",978
+"highboys","SC24D!","225.3!","N","N"," "," ","åhµ¼º±¿õb·½º±¿z","MS",979
+"bureau","SC24D!","225.3!","N","N"," "," ","åbju¿¼ºõòo¼º","MS",979
+"sideboard","SC24D!","225.3!","N","N","""liquer¢"," ","åsµ¼º±¿dõbo¼º{°}d","MS",979
+"drawers","SC24D!","225.3!","N","N"," "," ","dò·¼{°}z","MS",979
+"cabinet table","SC24D!","225.3!","O","N"," "," ","åc‡á½{°}b±¿¼nõn±¿¼t$t`eº{°¼}bì","MS",979
+"liquer","SC24D!","225.3!","N","Y"," ","AMS/INA","l±«k°","MS",979
+"chest of drawers","SC25A","226.1","O","N","high one, with door at top for hats"," ","õtó±st$°v$ådò·º{°}z","MS",980
+"bureaus","SC25A","226.1","N","Y"," ","NEW","bju¿½¾{°}r°z","MS",980
+"set of drawers","SC25A","226.1","O","Y","natural","OLD","õs²t$°v$ådò·º{°}z","MS",980
+"dresser","SC25B","226.2","N","Y"," ","NEW","dò²«{°}s°","MS",981
+"bureau","SC25B","226.2","N","N"," "," ","åbju¿õro¼º{°}","MS",981
+"bureau","SC25C!","226.3!","N","N","""mirror¢"," ","åbju¿ºõro«¼º{°—}","MS",982
+"dressing table","SC25C!","226.3!","O","N"," "," ","ådò±¿s±¿¼î$õt`eºbì","MS",982
+"night table","SC25C!","226.3!","O","N"," "," ","åna«¾±¿t$õt`e«bl","MS",982
+"vanity","SC25C!","226.3!","N","N"," "," ","åvá½{°}n±¿«¼t±¿«¼","MS",982
+"chest of drawers","SC25C!","226.3!","O","N","""taller¢ [than bureau et al.]"," ","åtó²«{°}st$°$õdò·«{°}z","MS",982
+"mirror","SC25C!","226.3!","N","Y"," ","INA","m{j}±¿r°","MS",982
+"mirror","SC25C!","226.3!","N","Y"," ","INA","m±¿r°","MS",982
+"taller","SC25C!","226.3!","A","Y"," ","INA","t`·«{°}l°","MS",982
+"cedar chest","SC25C!","226.3!","O","N","""mirror¢"," ","åsiºd°$õtó³«{°}st","MS",982
+"bureau","SC26A","227.1","N","N"," "," ","åbju¿¾ºõro¼","MS",983
+"washstand","SC26A","227.1","N","N"," "," ","åwµ¾{°}óõstáº{°}n","MS",983
+"bureau","SC26B!","227.2!","N","N"," "," ","åbju¿ºro«¼º","MS",984
+"chiffonier","SC26B!","227.2!","N","N"," "," ","åó±¿f°õn²º°","MS",984
+"chest of drawers","SC27A","228.1","O","N"," "," ","tó²st$°v$dò·½°z","MS",985
+"bureau","SC27A","228.1","N","Y"," ","OLD","bju¿ro","MS",985
+"bureau","SC27B","228.2","N","N"," "," ","åbju¿ºõro«¼º","MS",986
+"washstand","SC27B","228.2","N","N","""basin¢, ""pitcher¢"," ","åwµ«¾{°}óõstá«{°}n","MS",986
+"basin","SC27B","228.2","N","Y"," ","INA","åb¥«°İsn","MS",986
+"pitcher","SC27B","228.2","N","Y"," ","INA","p`i«°tó°«¾","MS",986
+"dressers","SC28A","229.1","N","N"," "," ","dò²«¾{°}s°½z","MS",987
+"washstands","SC28B","217.2","N","Y","""old-time people¢","HRD/OLD","åwµ{°}óõstá{°}nz","MS",988
+"chest of drawers","SC28B","217.2","O","N"," "," ","åtó²«{°}st$°$õdò·¼º°İz","MS",988
+"bureau","SC28B","217.2","N","N","big mirror"," ","åbju¿ºõro¼º","MS",988
+"dresser","SC28C","229.2","N","N"," "," ","dò²«{°}s°","MS",989
+"chest of drawers","SC28D","229.3","O","N"," "," ","åtó²º{°}st$°$õdò·«º°z","MS",990
+"bureau","SC28D","229.3","N","N"," "," ","åbju¿ºõro¼º","MS",990
+"washstand","SC28D","229.3","N","N"," "," ","åwµ¾{°}óõstá{°}n","MS",990
+"white night stand","SC28D","229.3","O","N"," "," ","åËwµ«{°}t$õnµ¾{°}t$åstáº{°}n","MS",990
+"trunk","SC28D","229.3","N","N"," "," ","t`ò¦½{°}îk","MS",990
+"bureaus","SC29A","230.2(*)","N","N"," "," ","åbju¿ºro¼ºz","MS",991
+"bureaus","SC29B","230.1(*)","N","N","""glass¢; ""heavy¢"," ","åbju¿õro¼º{°}z","MS",992
+"heavy","SC29B","230.1(*)","A","Y"," ","INA","h²«{°}v±¿«¼","MS",992
+"glass","SC29B","230.1(*)","N","Y"," ","INA","gÅá{°}s","MS",992
+"chest","SC29B","230.1(*)","N","N"," "," ","tó²«{°}s","MS",992
+"trunk","SC29B","230.1(*)","N","N"," "," ","tò¸{°}îk","MS",992
+"dresser","SC29B","230.1(*)","N","Y"," ","NEW","dò²«{°}s°«","MS",992
+"dresser","SC29C","230.3","N","Y"," ","NEW","dò³«{°}s°","MS",993
+"dresser","SC29C","230.3","N","N"," "," ","dò²«¾{°}s°","MS",993
+"sideboard","SC29C","230.3","N","Y"," ","OLD","åsa¾º°½dõbo«¼ºd","MS",993
+"sideboard","SC29C","230.3","N","Y"," ","OLD","åsa¾º°½dõbo¼º°İd","MS",993
+"bureaus","SC29D"," ","N","N"," "," ","åb±¿u¿õro¼{°}z","MS",994
+"boxes","SC29D"," ","N","N"," "," ","åbµ¾ks±¿z","MS",994
+"bureaus","SC29E"," ","N","N","""mirror¢"," ","åbju¿ºro«¼º{°}z{z}","MS",995
+"dressers","SC29E"," ","N","N"," "," ","dò²«º{°}s´«¾z","MS",995
+"mirror","SC29E"," ","N","Y"," ","INA","åm±¿¼´°","MS",995
+"bureau","SC30A","231.1","N","N"," "," ","b{i}½u¿½ro«º","MS",996
+"chest of drawers","SC30B","231.2","O","N"," "," ","åtó`²«st$°$õdò·¼º·«¼z","MS",997
+"bureau","SC30B","231.2","N","N","had plenty in the old time"," ","åbju¿¼º´o½¼º¹","MS",997
+"chest of drawers","SC30C!","231.3!","O","Y"," ","NEW","åtó`±½st$°«v$õdòo¼º¹¼z{z}","MS",998
+"a glass on top","SC30C!","231.3!","O","Y"," ","NEW","°$ågÅá{²}s$¶«on$åt`Şp","MS",998
+"bureau","SC30C!","231.3!","N","N","""a glass on top¢"," ","bju¿ºw´o«¼º¹¼","MS",998
+"dresser","SC30C!","231.3!","N","Y"," ","NEW","dò±½s°«¾","MS",998
+"dressers","SC31A","232.1","N","N"," ","CNV","ådr³«{°}s°«z","MS",999
+"bureaus","SC31A","232.1","N","N"," "," ","åbju¿¼ºõro«¼ºz","MS",999
+"dresser","SC31B","232.2","N","N"," "," ","ådò²«s´","MS",1000
+"bureau","SC31B","232.2","N","Y","as a boy","OLD","bju¿ºro¿«¾","MS",1000
+"homemade chest","SC31B","232.2","O","N"," "," ","åhoºmõme«ºd$õtó²«º{°}s","MS",1000
+"bureau drawer","SC32A","233.1","O","N"," "," ","bjy¾ºro¼º¹¼$ådò·½º°","MS",1001
+"chest of drawers","SC32B","233.2","O","N"," "," ","åtó`²«{°}st$°$õdò·«º{°}z","MS",1002
+"bureau","SC32B","233.2","N","N","""mirror¢ in the middle"," ","bjy¾ºro¼º{¹¼}","MS",1002
+"sideboard","SC32B","233.2","N","Y"," ","FDT","åsa¾º°dõbo¼¹¼d","MS",1002
+"mirror","SC32B","233.2","N","Y"," ","INA","åm±¿«ºr°","MS",1002
+"bureau","SC32C","233.3","N","N"," "," ","åbju¿ºro¼º¹¼","MS",1003
+"bureau","SC32D","233.4","N","N"," "," ","åbju¿¼ºro¼º","MS",1004
+"chest of drawers","SC32D","233.4","O","N","an older piece [than bureau]"," ","åtó²«{°}st$°$õdò·¼º°z","MS",1004
+"bureau","SC33A","234.1","N","N"," "," ","b{i}u¿¾ºro½{¹}","MS",1005
+"dresser","SC33B","234.2","N","N"," "," ","dò²«{°}s°«","MS",1006
+"sideboard","SC34A","235.1","N","N"," "," ","åsa«¾º{°}dõbo¼º{´}d","MS",1007
+"bureau","SC34A","235.1","N","N"," "," ","bju¿¼ºwro¼º¹¼","MS",1007
+"bureau","SC34B","235.2","N","N","nothing for shirts in those days"," ","åbju¿º{w}õro¼º¹¼","MS",1008
+"dressing table","SC34C","235.3","O","N","smaller [than dresser]"," ","ådò²«{°}s±¿¼î$õt`e½{±¿}bì","MS",1009
+"chest of drawers","SC34C","235.3","O","N"," "," ","tó`²«º{°}s$°«v$ådò·½¼º·¼z","MS",1009
+"dresser","SC34C","235.3","N","N"," "," ","dò²«{°}s°«¾","MS",1009
+"bureaus","SC34C","235.3","N","N","still call"," ","bju¿¼ºwˆõro¼º¹¼z","MS",1009
+"dresser","SC35A","236.1","N","N"," "," ","ådò±½s{°}«¾","MS",1010
+"chest of drawers","SC35A","236.1","O","N"," "," ","åtó`²«{°}st$°$õdò¶«ºoz","MS",1010
+"bureau","SC35A","236.1","N","Y"," ","OLD","bju¿ºro¼º¹¼","MS",1010
+"washstand","SC35A","236.1","N","Y"," ","OLD","åwŞ¼{°}óõstá«n","MS",1010
+"with a mirror","SC35B","236.2","Q","Y"," ","INA","w±¿ä$°$åm±«ºr°«¾","MS",1011
+"dresser","SC35B","236.2","N","N"," "," ","dò²«s´«¾","MS",1011
+"bureau","SC35B","236.2","N","N"," "," ","åbju¿¼ºwõòo¼º¹¼","MS",1011
+"washstand","SC35B","236.2","N","N","same thing [as bureau]; ""with a mirror¢"," ","åw¶±¿İóõstá«{°}n","MS",1011
+"bureau","SC35C","236.3(*)","N","N"," "," ","åbju¿{u¿«}õro½{¹¼}","MS",1012
+"bureau","SC35C","236.3(*)","N","N"," "," ","b{±}u¿{u¿«}ro½{¹¼}","MS",1012
+"dresser","SC35C","236.3(*)","N","N"," "," ","dò²s°","MS",1012
+"drawers","SC35C","236.3(*)","N","N"," "," ","ådò·º{¹¼}z","MS",1012
+"mirror","SC35C","236.3(*)","N","Y"," ","INA","m±¾r°","MS",1012
+"NA","SC35D"," "," ","N"," "," "," ","MS",1013
+"bureau","SC35E!"," ","N","N"," "," ","åbju¿¼ºro«¼º¹","MS",1014
+"looking glass","SC35E!"," ","O","Y"," ","INA","ål¹¼k±¾n$õdlá{°}s","MS",1014
+"bureau","SC36A","237.1","N","Y"," ","OLD/CNV","bju¿ºroº¹","MS",1015
+"dressers","SC36A","237.1","N","Y"," ","NEW/CNV","dò²«s°¾z","MS",1015
+"high table","SC36A","237.1","O","Y","""slanting¢ surface---write on it","INA","åhµ¾º±¿$õt`eº±©{ì}","MS",1015
+"slanting","SC36A","237.1","A","Y"," ","INA","åsÅá{²}n'tn","MS",1015
+"bureaus","SC36B","237.2","N","N"," "," ","bju¿¼º{w}ro¼º¹z","MS",1016
+"chests of drawers","SC36B","237.2","O","Y"," ","NEW","åtó²«sts$°½v$õdò¶«º·º|´z","MS",1016
+"bureaus","SC36B","237.2","N","Y"," ","AUX","åbju¿¼ºroİ«¼z","MS",1016
+"highboy","SC36B","237.2","N","N"," "," ","åhµ¼±¿$õbo¼º±¿","MS",1016
+"sideboard","SC36B","237.2","N","N"," "," ","åsa¾º±¿dõbo¼º¹d","MS",1016
+"bureau","SC36C","237.3","N","N","""glass¢; ""very little difference¢"," ","bjy¾u¿ro¼º¹¼","MS",1017
+"dressing table","SC36C","237.3","O","N","""very little difference¢, not glass"," ","ådr²sn$õt`eºbì","MS",1017
+"bureau","SC36C","237.3","N","N","""glass¢, ""very little difference¢"," ","bjy¾ºro¼º¹¼","MS",1017
+"glass","SC36C","237.3","N","Y"," ","INA","gÅá²s","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"dresser","SC37","238","N","N","""mirror¢, ""looking glass¢"," ","dò²s´","MS",1019
+"bureau","SC37","238","N","N","""mirror¢, ""looking glass¢"," ","b{±}u¿{u¿«}ro¼{¹¼}","MS",1019
+"mirror","SC37","238","N","Y"," ","INA","m±r´","MS",1019
+"looking glass","SC37","238","O","Y"," ","INA","ål¹¼k±¿î$õglá«{²}s","MS",1019
+"chest","SC37","238","N","N"," "," ","tó²st","MS",1019
+"chest","SC38N","N239","N","Y"," ","OLD","tó`±s","MS",1020
+"bureau","SC38N","N239","N","N"," "," ","åbju¿ºro¼º¹¼","MS",1020
+"bureaus","SC38A","239.1","N","N","""make 'em ourself¢"," ","bju¿½ºro¼º¹¼z","MS",1021
+"make them ourselves","SC38A","239.1","E","Y"," ","INA","åme«ºk°«m$a«¾º¹ås²{©}f","MS",1021
+"bureau","SC38B","239.2","N","Y"," ","NEW","åbju¿¾ºõro¼º¹¼","MS",1022
+"highboy","SC38B","239.2","N","N","""tall; don't see now¢"," ","åha«¾º{°}õbo½¼º±¿","MS",1022
+"highboy","SC38B","239.2","N","N","""tall; don't see now¢"," ","åha«¾º{±¿}õb·¼º±¿İ","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"highboys","SC38D!","239.4(*)!","N","Y"," ","HRD","åha«¾º{°}õb·«¼º±¿z","MS",1024
+"lowboys","SC38D!","239.4(*)!","N","Y"," ","HRD","ålo¼º¹¼õb·¼º±¿z","MS",1024
+"chiffonier","SC38D!","239.4(*)!","N","N"," "," ","ó±f°n²«º°","MS",1024
+"chest of drawers","SC38D!","239.4(*)!","O","N"," "," ","åtó`²«st$°½v$õdò·½¼º°İz","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," ","MS",1025
+"bureau","SC39A","240.1","N","N"," "," ","åbju¿ºro¼º¹","MS",1026
+"chest of drawers","SC39A","240.1","O","N"," "," ","åtó`²«st$°$õdò·½¼º°İz","MS",1026
+"bureaus","SC39B!","240.2!","N","N","""glass¢"," ","åbju¿ºõroº{¹}{z}","MS",1027
+"bureau","SC39B!","240.2!","N","N","""glass¢"," ","åbju¿ºroº{¹}","MS",1027
+"chest","SC39B!","240.2!","N","N","""glass¢"," ","tó`±½ss","MS",1027
+"big boxes","SC39B!","240.2!","O","Y","to keep bedding in","INA","õb±«g$åb¶ks±¿¼z","MS",1027
+"glass","SC39B!","240.2!","N","Y"," ","INA","gÅá{²}s","MS",1027
+"dressers","SC40A","241.1","N","Y","they call 'em now, instead of trunks","NEW","dò²«¾s°z","MS",1028
+"bureau","SC40A","241.1","N","Y"," ","OLD","åbjy¾u¿«õro¼º¹","MS",1028
+"chest","SC40A","241.1","N","N"," "," ","tó±st","MS",1028
+"bureau","SC40B","241.2","N","Y","for woman","OLD","åbjy¾u¿õro½¼º{¹}","MS",1029
+"dressers","SC40B","241.2","N","Y","smaller than [bureau or highboy]","NEW","dò²«s°«¾z","MS",1029
+"highboy","SC40B","241.2","N","N","man's"," ","åhµ«¼º{°}õbo½¼±¿","MS",1029
+"bureau","SC41A","242.1","N","N"," "," ","b{i}¹¿{°}ro{¹}","MS",1030
+"chest of drawers","SC41B","242.2","O","Y"," ","NEW","åtó±«st$°İv$õdò·ºo°İz","MS",1031
+"chest of drawers","SC41B","242.2","O","Y"," ","NEW","åtó²«st$°İv$õdò·ºo°İz","MS",1031
+"bureau","SC41B","242.2","N","N"," "," ","bjy¾u¿«ro¼º¹¼","MS",1031
+"bureau","SC42N","N243","N","N","low and wide"," ","åbjyu«¼õro½¼¹","MS",1032
+"chest of drawers","SC42N","N243","O","N","same as chifforobe, chiffonier"," ","åtó±½st$°$õdòŞ«o½¼z","MS",1032
+"bureau","SC42N","N243","N","N","low and wide"," ","åbju¿u«¼õro¼¹¼","MS",1032
+"dresser","SC42N","N243","N","N","low and wide"," ","ådò²«ss°","MS",1032
+"chiffonier","SC42N","N243","N","N","tall, narrow"," ","åó±«f°õn±½°","MS",1032
+"chifforobe","SC42N","N243","N","N","tall, narrow"," ","ó±«f°ro«¼¹¼b","MS",1032
+"bureau","SC42N","N243","N","N","low and wide"," ","åbjy¾u¿«¼õro½¼ºu","MS",1032
+"dresser","SC42N","N243","N","N","low and wide"," ","dò²«s‘°","MS",1032
+"chest of drawers","SC42N","N243","O","N","no mirror"," ","åt ó ²«st$°$õdò·½¼ºo¼z","MS",1032
+"dresser","SC42N","N243","N","N","low and wide"," ","dò²«s°½","MS",1032
+"bureau","SC42N","N243","N","N","low and wide"," ","åbjy¾y«¾õro½¼¹İ","MS",1032
+"chest of drawers","SC42N","N243","O","N","no mirror"," ","åt ó ±½st$°$õdò·½¼o¼z","MS",1032
+"NA","SC42M"," "," ","N"," "," "," ","MS",1033
+"sideboard","SC42A","243.1","N","Y"," ","OLD","åsa¾º±¿dõbo¼¹¼d","MS",1034
+"bureau","SC42A","243.1","N","Y"," ","OLD","bjy¾u¿«¾ro¼º{¹}","MS",1034
+"chest of drawers","SC42A","243.1","O","Y"," ","NEW","åtó²«st$°İv$õdò¶{w}°İz","MS",1034
+"dresser","SC42A","243.1","N","N"," "," ","dò²«s°","MS",1034
+"large mirror","SC42B!","243.2!","O","Y"," ","INA","lŞº°dú$m{j}±¿´°","MS",1035
+"chiffonier","SC42B!","243.2!","N","N","high, small ""mirror¢"," ","åó±«f°n²«°","MS",1035
+"bureau","SC42B!","243.2!","N","N","""large mirror¢"," ","åby½¾ºu¿ro¼º¹¼","MS",1035
+"chest of drawers","SC42B!","243.2!","O","N","no mirror"," ","åtó²«st$°«v$õdò·¼º°¾z","MS",1035
+"chiffonier","SC42B!","243.2!","N","N","high, small ""mirror¢"," ","åó±«f°İ½n±½°","MS",1035
+"bureau","SC42B!","243.2!","N","N","""large mirror¢"," ","åby«¾u¿õro½¼¹","MS",1035
+"mirror","SC42B!","243.2!","N","Y"," ","INA","m{j}±¿«¼r{°¾}","MS",1035
+"chiffonier","SC42C!","243.3!","N","N","high piece of furniture, drawers and mirror"," ","åó±f°İn²«°","MS",1036
+"bureau","SC42C!","243.3!","N","N","low piece, long drawers, mirror"," ","åbju¼õro{¹}","MS",1036
+"chest of drawers","SC42C!","243.3!","O","N","high piece, drawers, no mirror"," ","tó²«st$°İv$dr·½º°z","MS",1036
+"highboy","SC42C!","243.3!","N","N","high piece, drawers, no mirror"," ","åhµ«ºõb·½±¿¼","MS",1036
+"dresser","SC42C!","243.3!","N","Y","same as bureau","SUG","ådò²s°","MS",1036
+"chifforobe","SC42C!","243.3!","N","N"," "," ","åó±f°õro¹b","MS",1036
+"chiffonier","SC42C!","243.3!","N","N","high piece of furniture, drawers and mirror"," ","åó±f°õn²½{°}","MS",1036
+"chest of drawers","SC42C!","243.3!","O","N","high piece, drawers, no mirror"," ","åtó²«st$°v$õdr¶«º·|°İz","MS",1036
+"bureau","SC42C!","243.3!","N","N","low piece, long drawer, mirror"," ","åbju{u}õro¼{¹¼}","MS",1036
+"bureau","SC42D!","243.4!","N","N","drawers clear across"," ","åbyİ¾u¼ºro¼{¹}","MS",1037
+"dresser","SC42D!","243.4!","N","Y"," ","HRD","dò²s°","MS",1037
+"chiffonier","SC42D!","243.4!","N","N","cf. ""drawers¢"," ","åó±¿¼f°ån±º°½","MS",1037
+"drawers","SC42D!","243.4!","N","N"," "," ","dò·½º{°}z","MS",1037
+"chifforobe","SC42E!","243.5!","N","N"," "," ","åó±f°ro¼º¹½b","MS",1038
+"bureau","SC42E!","243.5!","N","N"," "," ","åbju¿”½u¿õro¼{¹¼}","MS",1038
+"chest of drawers","SC42E!","243.5!","O","N"," "," ","õtó²st$°$ådò·¼°z","MS",1038
+"bureaus","SC43A","244.1","N","N"," ","CNV","åby¾u¿õro¼º{¹¼}z","MS",1039
+"dresser","SC43B","244.2","N","Y"," ","NEW","dò²«¼s´","MS",1040
+"bureau","SC43B","244.2","N","Y"," ","OLD","åbjyºu¿õro¼ºu","MS",1040
+"bureau","SC43B","244.2","N","Y"," ","OLD","bjy¾ºu¿ro½¼º{¹¼}","MS",1040
+"dresser","SC43B","244.2","N","Y"," ","NEW/CNV","dò²¼s´","MS",1040
+"bureaus","SC43C","244.3","N","Y"," ","OLD","åbjyu¿«¾roº¹z","MS",1041
+"dresser","SC43C","244.3","N","Y"," ","NEW","dò²«¾s°","MS",1041
+"chifforobe","SC43C","244.3","N","N"," "," ","åó±«f°ro¼º¹b","MS",1041
+"clothespress","SC43C","244.3","N","N"," "," ","åk`loº¹z$õpr²«ºs","MS",1041
+"chest","SC43C","244.3","N","N"," "," ","tó²«ss","MS",1041
+"bureaus","SC44A","245.1","N","Y"," ","OLD","bjyu¿«ro½¼¹¼z","MS",1042
+"dresser","SC44A","245.1","N","N"," "," ","dò²s´","MS",1042
+"sideboards","SC44A","245.1","N","N"," ","CNV","åsµ«¼º±¿dõbo¼¹¼°İdz","MS",1042
+"dressers","SC44B","245.2","N","Y"," ","NEW","dò²«¾s°z","MS",1043
+"bureaus","SC44B","245.2","N","Y"," ","OLD","bjy¾u¿õro¼º¹¼z","MS",1043
+"bureau","GA1N","N246","N","N"," "," ","åb{i}u¼õro¼{¹}","MS",1044
+"chest of drawers","GA1N","N246","O","N"," "," ","åtó²st$°$õdò·º°z","MS",1044
+"dresser","GA1A","246.1(*)","N","Y"," ","AUX2/NEW","dò²{°}s´","MS",1045
+"bureau","GA1A","246.1(*)","N","Y"," ","AUX2","bju¼ºro","MS",1045
+"bureau","GA1A","246.1(*)","N","N"," "," ","bju¿¼ºro«¼º{°}","MS",1045
+"washstand","GA1A","246.1(*)","N","Y","Negroes","HRD","åwµ¾{°}óstáº{°}n","MS",1045
+"sideboards","GA1A","246.1(*)","N","Y","dining room","INA","åsµ¼º±¿dõbo¼º°dz","MS",1045
+"desk","GA1A","246.1(*)","N","Y"," ","INA","d²«sk","MS",1045
+"mirror","GA1B","246.11","N","Y"," ","INA","m±r°","MS",1046
+"dresser","GA1B","246.11","N","N","""mirror¢"," ","dò²s°","MS",1046
+"bureau drawers","GA1C","246.2","O","N"," "," ","åbjy¾ºr°$õdò·¼{°}z","MS",1047
+"cedar chest","GA1D","246.3","O","N"," "," ","åsiºjd°$õtó²«st","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"bureau","GA1F!","246.5!","N","N"," "," ","bju«¼ºro«º","MS",1050
+"chest of drawers","GA1F!","246.5!","O","N","no glass"," ","tó²st$°v$dr·½ºz","MS",1050
+"bureau drawer","GA1G!","246.6!","O","N"," "," ","åbju¿ºõro¼$ådò·¼º","MS",1051
+"bookcases","GA1G!","246.6!","N","Y"," ","INA/CNV","åb¹¼çõkeº{°}s±¿¼z","MS",1051
+"cedar chests","GA1G!","246.6!","O","N"," "," ","åsiºd°$õtó²ºsts","MS",1051
+"bureau","GA1H!","246.7!","N","N","with mirror"," ","åbjy¾u¿«õro½¼","MS",1052
+"chest of drawers","GA1H!","246.7!","O","N","without mirror"," ","tó²«st$°$dò·½:{°}z","MS",1052
+"dresser","GA1H!","246.7!","N","Y","""when I grew up¢","NEW","dò²«¾s°½","MS",1052
+"dresser","GA2N","N247","N","N"," "," ","dò²«s°","MS",1053
+"bureau","GA2N","N247","N","N"," "," ","bju¿¼ºr°","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"bureau","GA2B","247.2","N","N"," "," ","bju¿¼ºr°","MS",1055
+"bureau","GA3A","248.1","N","N"," "," ","åbju«¼ro«º","MS",1056
+"dresser","GA3B","248.2","N","N"," "," ","dò²«s´«","MS",1057
+"bureau","GA3B","248.2","N","N"," "," ","åbju¿ºõro¼º","MS",1057
+"bureau","GA4N","N249","N","N"," "," ","bju¿¾ro«","MS",1058
+"chiffonier","GA4A","249.1","N","N"," "," ","åó±«{°}f°õn±º°","MS",1059
+"bureaus","GA4A","249.1","N","N"," "," ","bju¿ºro¿İz","MS",1059
+"dressers","GA4A","249.1","N","Y","small, ""some caal it these days¢","NEW","dò²«¾{°}s´¾z","MS",1059
+"bureau","GA4A","249.1","N","N"," "," ","åbju¿¾ºro¼º","MS",1059
+"bureau","GA4B","249.2","N","N"," "," ","åb±¿«¼ºuõro¼","MS",1060
+"dressers","GA4B","249.2","N","Y"," ","NEW","dò³«{°}s°«z","MS",1060
+"chest","GA4B","249.2","N","Y"," ","NEW","tó²«{°}s","MS",1060
+"bureaus","GA4C!","249.3!","N","Y","as a girl","OLD","åbju¿¾ºro«ºz","MS",1061
+"dressers","GA4C!","249.3!","N","N"," "," ","dò²«{°}s°¾z","MS",1061
+"bureau","GA5A","250.1","N","N"," "," ","åb±¿¼ºu¿r°","MS",1062
+"bureau drawers","GA5A","250.1","O","N"," "," ","åbju¿º´°—$õdr·«º°İz","MS",1062
+"sets of drawers","GA5A","250.1","O","N"," "," ","ås²«{°}ts$°$õdò·—½º°İz","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"bureau","GA5C","250.3","N","N"," "," ","åb±¿—ºu¿õro¼º","MS",1064
+"washstand","GA5C","250.3","N","N"," "," ","åwŞ¼{°}óõstáº{°}n","MS",1064
+"bureau drawers","GA5D!","250.4!","O","N"," "," ","åb±¿ºu¿ºr‡o$õdr·—½º°«z","MS",1065
+"drawer","GA5D!","250.4!","N","N"," "," ","dò·—«º|°","MS",1065
+"bureau drawers","GA5E!","250.5!","O","N"," "," ","åb±¿—ºu¿roº$õdr·½º°z","MS",1066
+"trunk","GA5E!","250.5!","N","N","heavy clothing"," ","tr¦—¼îk","MS",1066
+"bureau drawers","GA6A","251.1","O","N"," "," ","åbju¿¼ºr°—$õdr·¼º°z","MS",1067
+"chest of drawers","GA6A","251.1","O","Y"," ","NEW","åtó²«{°}st$°$õdr·¼º°z","MS",1067
+"bureau","GA6B!","251.2!","N","N"," "," ","bjy¾ºr°½","MS",1068
+"mirror","GA7","256","N","Y"," ","INA","åmá«¾ºr°","MS",1069
+"dresser drawers","GA7","256","O","N","""a mirror¢, ""a glass¢"," ","ådò±¿½s°$õdò·¼º°z","MS",1069
+"glass","GA7","256","N","Y"," ","INA","dlá{°}s","MS",1069
+"box trunk","GA7","256","O","N"," "," ","åbµ¾{°}ks$õtò¦½{°}îk","MS",1069
+"bureau","GA8A","257.1","N","N"," "," ","åb±¿«¼ºu¿ro¼","MS",1070
+"chest of drawers","GA8A","257.1","O","N"," "," ","åtó²«{°}st$°$õdò·º´z","MS",1070
+"dresser drawers","GA8B","257.2","O","N"," "," ","ådò³«s´$õdò·º´z","MS",1071
+"bureau drawers","GA8B","257.2","O","Y","used to call","OLD","åbju¿ºr°$õdò·º´z","MS",1071
+"chest","GA8B","257.2","N","N"," "," ","tó²«{°}st","MS",1071
+"cedar chest","GA8B","257.2","O","N"," "," ","åsiºñ°$õtó²«{°}st","MS",1071
+"chest of drawers","GA9A","257A.1","O","N"," "," ","õtó²st$°$ådò·´z","MS",1072
+"dresser","GA9A","257A.1","N","N","""mirror¢"," ","dò²«¾s´","MS",1072
+"mirror","GA9A","257A.1","N","Y"," ","INA","m±¾r°","MS",1072
+"chest","GA9A","257A.1","N","N"," "," ","tó²«st","MS",1072
+"sideboard","GA9A","257A.1","N","N"," ","CNV","åsa«¾{°}dõboº´d","MS",1072
+"dresser","GA9B","257A.2","N","N"," "," ","dò²s´","MS",1073
+"drawers","GA9B","257A.2","N","N"," "," ","dò·´z","MS",1073
+"washstand","GA9B","257A.2","N","N"," "," ","åwµ¾óõstá«{°}n","MS",1073
+"dresser","GA10A","258.1","N","N","""bought ones¢"," ","dr²{°}s´","MS",1074
+"made ones","GA10A","258.1","O","Y"," ","INA","åmeºd$°nz","MS",1074
+"bought ones","GA10A","258.1","O","Y"," ","INA","b·º{°}t$°½nz","MS",1074
+"bureau","GA10A","258.1","N","N","""bought ones¢"," ","bj¹«{°}ro","MS",1074
+"sideboard","GA10A","258.1","N","N","made ones"," ","åsa¾º²¾d$õbo´d","MS",1074
+"bureau","GA10B","258.2","N","N"," "," ","bju¿ºr°","MS",1075
+"sideboard","GA10B","258.2","N","N"," "," ","åsŞº±¿dõbo«º´d","MS",1075
+"chest of drawers","GA11N","N258A","O","N"," "," ","åtó±st$°$õdò·º°z","MS",1076
+"chest","GA11N","N258A","N","N"," "," ","tó±{°}s","MS",1076
+"sideboard","GA11N","N258A","N","N"," "," ","åsa«¾º{°}dõboº{¹}d","MS",1076
+"bureau","GA12A","259.1","N","N"," ","CNV","bju¿¼ºr°—","MS",1077
+"chest of drawers","GA12A","259.1","O","N"," "," ","åtó`²«st$°«v$õdò·¼º´z","MS",1077
+"dresser","GA12A","259.1","N","N"," ","CNV","dò²«s´«¾","MS",1077
+"bureau","GA12A","259.1","N","N"," ","CNV","åbju¿¼ºro¼{¹}","MS",1077
+"washstand","GA12A","259.1","N","N"," ","CNV","åwµ¾óõstá{²}n","MS",1077
+"dresser","GA12B!","259.2(.3)","N","N"," "," ","dò²s°","MS",1078
+"bureau","GA12B!","259.2(.3)","N","N"," "," ","bju¼º{°}ro¼º","MS",1078
+"dresser","GA13A","260.1","N","Y"," ","NEW","dr²{°}s°","MS",1079
+"bureau","GA13A","260.1","N","N"," "," ","bju¿ro«º","MS",1079
+"chest","GA13B!","260.2!","N","N"," "," ","tó²º{°}s","MS",1080
+"bureau","GA13B!","260.2!","N","N","""glass¢"," ","åbju¿ºõro¼º","MS",1080
+"glass","GA13B!","260.2!","N","Y"," ","INA","glá«{°}s","MS",1080
+"chest","GA14A","261.1","N","N"," "," ","tó`±«{°}st","MS",1081
+"bureau","GA14B","261.3","N","N"," "," ","åbju¿¼ºro¼º¹¼º","MS",1082
+"trunk","GA14B","261.3","N","N"," "," ","t`ò¸—¼{°}îk","MS",1082
+"homemade chest","GA14B","261.3","O","N"," "," ","åho¼ºmõmeº{±¿}d$tó`²«{°}s","MS",1082
+"bureau","GA14C","261.2","N","N"," "," ","åbju¿ºr°","MS",1083
+"bureau","GA15A","262.1","N","N"," "," ","b{i}u¿½r°","MS",1084
+"chest of drawers","GA15B","262.2","O","N"," "," ","åtó²«st$°$õdò·º°İz","MS",1085
+"bureau","GA15B","262.2","N","N"," "," ","bju¿ºr°","MS",1085
+"trunks","GA15B","262.2","N","N"," "," ","tò¦½îks","MS",1085
+"dressers","GA16A","263.2","N","N","mirror"," ","dò²«{°}s´İ«z","MS",1086
+"bureau","GA16A","263.2","N","Y","= dresser","OLD","åbju¿ºro¼","MS",1086
+"dresser","GA16A","263.2","N","N","mirror"," ","dò²«{°}s°","MS",1086
+"chest of drawers","GA16A","263.2","O","N","no mirror"," ","åtó²«{°}st$°$õdò·º°z","MS",1086
+"checkrobes","GA16A","263.2","N","N","no mirror"," ","åtó±«kõro¼º{°}bz","MS",1086
+"sideboard","GA16A","263.2","N","N","for underwear"," ","åsa«¾º°«dõbo¼º°d","MS",1086
+"trunks","GA16A","263.2","N","N","for underwear"," ","t`ò¸—îks","MS",1086
+"bureau drawer","GA16B","263.1","O","N"," "," ","bju¿ºr°$dò·¼","MS",1087
+"dresser","GA16B","263.1","N","Y"," ","NEW","dò²«{°}s°","MS",1087
+"bureau","GA16B","263.1","N","N"," "," ","åbju¿ºroİ¼","MS",1087
+"dresser","GA16C","263.21","N","N"," "," ","dò²«s°","MS",1088
+"bureau","GA16C","263.21","N","N"," "," ","b{±}u¿ºr°","MS",1088
+"chest of drawers","GA16C","263.21","O","N"," "," ","tó²st$°$ådò·º°z","MS",1088
+"bureaus","GA16D!","263.3!","N","N"," "," ","åbju¿ºõro¼º{z}","MS",1089
+"bureau drawers","GA16D!","263.3!","O","N"," "," ","åbju¿ºro$ådòoº{°}z","MS",1089
+"chest of drawers","GA17N","N264","O","N"," "," ","åtó²st$°$õdò·º°İz","MS",1090
+"dresser","GA17","264","N","N","low"," ","dr²s°","MS",1091
+"NR","GA18A","264A.1"," ","N"," "," "," ","MS",1092
+"chifforobe drawers","GA18B","264A.2","O","Y"," ","INA","åó±¾f°õro{¹}b$ådò·º°z","MS",1093
+"mirror","GA18B","264A.2","N","Y"," ","INA","m±r°","MS",1093
+"dresser","GA18B","264A.2","N","N","""mirror¢"," ","dò²s°","MS",1093
+"chest of drawers","GA18B","264A.2","O","N","""drawers¢ only"," ","åtó²st$°$õdò·º°z","MS",1093
+"dresser","GA19A","265.1","N","N","mirror"," ","dò²«{°}s´«¾","MS",1094
+"trunk","GA19A","265.1","N","N"," "," ","tò¦½{°}îk","MS",1094
+"bureau","GA19B","265.2","N","N"," "," ","bju¿ºr°¾","MS",1095
+"bureaus","GA20A","266.1","N","Y"," ","OLD/CNV","bju¿¼ºr°İ«z","MS",1096
+"bureaus","GA20A","266.1","N","Y"," ","OLD","bju¿ºr°İ«z","MS",1096
+"dressers","GA20A","266.1","N","N"," "," ","dò²«{°}z°«z","MS",1096
+"chest","GA20A","266.1","N","N"," ","CNV","tó±«{°}st","MS",1096
+"bureaus","GA20A","266.1","N","Y"," ","OLD/COR","åbju¿ºõro¼º{¹¼}z","MS",1096
+"dresser","GA20B","266.2","N","N"," "," ","dò²«s´«¾","MS",1097
+"bureau drawer","GA20B","266.2","O","N"," "," ","åbju¿ºroİ¼$õdò·½·","MS",1097
+"chest of drawers","GA20B","266.2","O","N"," "," ","åtó²«{°}st$°$õdò·½º°z","MS",1097
+"bureau","GA21A","267.1","N","N","""glass¢"," ","åbju¿º{u¿«}õro¼{¹}","MS",1098
+"glass","GA21A","267.1","N","Y"," ","INA","glá«{²}s","MS",1098
+"dresser","GA21A","267.1","N","N","""glass¢"," ","dò²«s°","MS",1098
+"bureau","GA21B","267.2","N","Y"," ","OLD","åbjuºwr°","MS",1099
+"dresser","GA21B","267.2","N","N"," "," ","dò±¿s°","MS",1099
+"washstand","GA21B","267.2","N","N"," "," ","åwµº{±¿}óõstá{°}n","MS",1099
+"washstand","GA21B","267.2","N","N"," "," ","åwµ¾{°}óõstá{°}n","MS",1099
+"chest of drawers","GA22A","268A.1","O","N"," "," ","tó²st$°İ$dr·½°{z}","MS",1100
+"bureaus","GA22B","268A.2","N","N"," "," ","åb±¿«¼ºu¿õro¼º{¹¼}z","MS",1101
+"dressers","GA23A","268.1","N","N"," "," ","dò²«{°}s°«z","MS",1102
+"trunk","GA23A","268.1","N","N"," "," ","tò¸«{°}îk","MS",1102
+"dresser","GA23B","268.11","N","N"," "," ","dò²s°","MS",1103
+"mirror","GA23B","268.11","N","Y"," ","INA","m±¾r°","MS",1103
+"chest of drawers","GA23B","268.11","O","N","taller [than dresser]"," ","åtó²st$°$õdò·½°«z","MS",1103
+"chest of drawers","GA23C","268.2","O","N"," "," ","õtó²«st$°v$ådò¶«ow°«z","MS",1104
+"dresser","GA23C","268.2","N","N"," "," ","dr²«s°","MS",1104
+"chifforobe","GA23C","268.2","N","Y","= dresser","OLD","åó±f°õro{¹}b","MS",1104
+"bureau drawers","GA23D!","268.3","O","N"," "," ","åbju¿¼ºõro¼{¹}$ådò·½º°z","MS",1105
+"chest of drawers","GA23D!","268.3","O","N"," "," ","åtó²«{°}st$°«v$õdò·«º°z","MS",1105
+"chest on a chest","GA23D!","268.3","O","N"," "," ","åtó²«{°}st$õ¶«·n$åtó²«{°}st","MS",1105
+"dresser","GA23E!","268.4!","N","N"," "," ","dò²s°½","MS",1106
+"chest","GA23F!","268.5!","N","N"," "," ","tó²«st","MS",1107
+"chifforobe","GA23F!","268.5!","N","N"," "," ","åó±f°õro{¹}b","MS",1107
+"dresser","GA24N","N269","N","N"," "," ","dò²«s°","MS",1108
+"chest of drawer","GA24N","N269","O","N"," "," ","åtó²st$°$õdò·½·","MS",1108
+"drawer","GA24N","N269","N","Y"," ","INA","dò·½·","MS",1108
+"sideboard","GA24A","269.1","N","Y","dishes and clothes","OLD","åsa¾{²¾}dõboº{°}d","MS",1109
+"bureau","GA24A","269.1","N","N"," "," ","b{i}u¿ro{¹}","MS",1109
+"chest","GA24B","269.2","N","N","pine plank"," ","tó`±{°}st","MS",1110
+"dresser","GA24B","269.2","N","N"," "," ","dò²«s°","MS",1110
+"bureaus","GA24B","269.2","N","N"," "," ","åbju¿¼õro¼¹¼z","MS",1110
+"chest of drawers","GA25N","N269A","O","N"," "," ","åtó²st$°$õdò·°{z}","MS",1111
+"bureau","GA25N","N269A","N","N"," "," ","åb{i}u¿{u¿«}roº","MS",1111
+"dresser","GA26","270A","N","N","mirror"," ","dò²s°","MS",1112
+"chest of drawers","GA26","270A","O","N"," "," ","tó²st$°$dò·«°İz","MS",1112
+"bureau","GA27!","270!","N","N"," ","CNV","åb{±}u¿õro¼{¹}","MS",1113
+"drawer","GA27!","270!","N","N"," ","CNV","dò·½º{°}","MS",1113
+"chest of drawers","GA28","271a","O","N"," "," ","tó²ºst$°v$dò¶”«¼{°}z","MS",1114
+"chest of drawers","GA28","271a","O","N"," "," ","tó²ºst$°v$ådò·°z","MS",1114
+"glass on it","GA29A","271.1","O","Y"," ","INA","glá{°}s$·¼n$±¿¼t","MS",1115
+"bureau","GA29A","271.1","N","N","""glass on it¢"," ","åbju¿ºõro¼{¹¼}","MS",1115
+"chest","GA29A","271.1","N","N","for laying clothes"," ","tó±«s","MS",1115
+"trunks","GA29A","271.1","N","N","for laying clothes"," ","tòo”îks","MS",1115
+"bureaus","GA29B","271.2","N","N","""mirror¢"," ","åbju¿ºõro¼º{°—}z","MS",1116
+"mirror","GA29B","271.2","N","Y"," ","INA","m±«ºr°","MS",1116
+"chest of drawers","GA29B","271.2","O","N"," "," ","åtó²«st$°$õdò·º°İz","MS",1116
+"chest of drawers","GA29B","271.2","O","Y"," ","INA","åtó²«st$°v$õdò·º°İz","MS",1116
+"glass","GA30A","272.1(*)","N","Y"," ","INA","glá{°«¼}s","MS",1117
+"bureaus","GA30A","272.1(*)","N","N","sometimes a ""glass¢"," ","bju¿¼º{w}roº{¹}z","MS",1117
+"chest","GA30A","272.1(*)","N","N"," "," ","tó`±«{°}s","MS",1117
+"chest","GA30A","272.1(*)","N","N"," "," ","tó²«{°}st","MS",1117
+"chiffonier","GA30B","272.2(*)","N","N"," "," ","åó±«{°}f°õne½º°","MS",1118
+"chests","GA30B","272.2(*)","N","N","open lid, with lock and key"," ","tó²«{°}sts","MS",1118
+"bureau","GA30C!","272.3!","N","N"," "," ","åb{±}u¿{u¿«}õro¼{¹¼}","MS",1119
+"bureau drawer","GA30D"," ","O","N"," "," ","åbju¿º{w}õro¼º¹¼$ådò·¼°İ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"dresser","GA31","272A","N","N","""glass¢"," ","dò²s°","MS",1122
+"dresser","GA31","272A","N","N","""glass¢"," ","dò²º{°}s°","MS",1122
+"glass","GA31","272A","N","Y","= ""mirror¢","INA","gìá«{²}s","MS",1122
+"mirror","GA31","272A","N","Y"," ","INA","m{±}±¾r°","MS",1122
+"chest of drawers","GA31","272A","O","N","taller, slimmer than dresser; no mirror","SIC","tó²st$°$dò·º°","MS",1122
+"chest of drawers","GA32","272B","O","N"," "," ","õtó²st$°$ådò·º°—z","MS",1123
+"chest of drawers","GA33A","272C1","O","N"," "," ","åtó²st$°$õdò¶«o±¿z","MS",1124
+"bedroom","GA33B","272C2","N","Y"," ","INA","åb²dõru¿{u¿«}m","MS",1125
+"dresser","GA33B","272C2","N","N"," "," ","dò²s´","MS",1125
+"bureau","GA34N","N273","N","N"," "," ","åbju¿ºr‡oº¹","MS",1126
+"washstand","GA34N","N273","N","N"," "," ","åwµ¾{°}óõstá{²}n","MS",1126
+"chest of drawers","GA34A","273.1","O","N"," "," ","tó²{°}st$°v$dr·½º{·}z","MS",1127
+"bureau","GA34A","273.1","N","N"," "," ","b{i}u¿½r°","MS",1127
+"bureaus","GA34B","273.2","N","N"," "," ","åbju¿º{w}õro¼º¹¼z","MS",1128
+"chest of drawers","GA34B","273.2","O","N"," "," ","õtó`²«st$°$ådò·¼º°z","MS",1128
+"chest","GA35N","N273A","N","N"," "," ","tó²st","MS",1129
+"mirror","GA36N","N274A","N","Y"," ","INA","m±ºr°","MS",1130
+"chest of drawers","GA36N","N274A","O","N","""drawers¢ only"," ","åtó²st$°$õdò·½°z","MS",1130
+"chest of drawers","GA36N","N274A","O","N","""drawers¢ only"," ","åtó²st$°$õdò¶«oz","MS",1130
+"dresser","GA36N","N274A","N","N","mirror"," ","dò²s°","MS",1130
+"drawers","GA36N","N274A","N","Y"," ","INA","dò¶«oz","MS",1130
+"chest of drawers","GA37N","2N274","O","N"," "," ","tó²st$°«v$ådò¶«·z","MS",1131
+"chest of drawers","GA37M!","NC274","O","N","four-tiered"," ","tó²st$°«v$dò·½°İz","MS",1132
+"chest of drawers","GA37M!","NC274","O","N","four-tiered"," ","tó²st$°«v$dò¶«°z","MS",1132
+"bureau","GA37A","274.1","N","N"," "," ","åbju¿¼wåro¼º¹¼","MS",1133
+"chest","GA37A","274.1","N","N"," "," ","åtó±«{°}st","MS",1133
+"box","GA37A","274.1","N","N"," "," ","bŞ{°}ks","MS",1133
+"trunk","GA37A","274.1","N","N"," "," ","tò¦¼{°}îk","MS",1133
+"dressers","GA37B","274.2","N","N"," "," ","dò²«s°«z","MS",1134
+"bureaus","GA37B","274.2","N","N","marble top"," ","åbju¿ºwõro¼º¹¼z","MS",1134
+"chest of drawers","GA37C","274.21","O","N"," "," ","åtó²«st$°v$ådò¶«o°«{z}","MS",1135
+"dresser","GA37C","274.21","N","N"," "," ","dò²«s°«","MS",1135
+"chest on a chest","GA37C","274.21","O","N"," "," ","åtó°«st$õ¶«·n$åtó²«st","MS",1135
+"bureau","GA37D!","274.7!","N","N"," ","CNV","b{±}u¿ro¼{¹¼}","MS",1136
+"chest of drawers","GA37E!","274.8!","O","N"," "," ","õtó²«st$°$ådò·½º·´«z","MS",1137
+"dresser","GA37E!","274.8!","N","N"," "," ","dò²«s°","MS",1137
+"bureau","GA37F!","274.3!","N","N"," "," ","åbju¿ºõro¼º¹¼","MS",1138
+"chest of drawers","GA37G!","274.4!","O","Y"," ","NEW","åtó²«{°}st$°$õdò·º°z","MS",1139
+"bureau drawer","GA37G!","274.4!","O","N","""mirror¢"," ","åbju¿ºro$õdò·º{°}","MS",1139
+"bureau","GA37G!","274.4!","N","N","""mirror¢"," ","bju¿ºro«¼º","MS",1139
+"mirror","GA37G!","274.4!","N","Y"," ","INA","m±ºr°","MS",1139
+"mirror","GA37H!","274.5!","N","Y"," ","INA","åm±ºr°","MS",1140
+"a glass attached","GA37H!","274.5!","O","Y"," ","INA","°$glá{°}s$°åt`á²tót","MS",1140
+"bureau drawers","GA37H!","274.5!","O","N","""a glass attached¢, ""mirror¢"," ","åbju¿ºro¼{¹¼}$õdò·«º°z","MS",1140
+"chiffoniers","GA37H!","274.5!","N","Y","""mirror¢","NEW","åó±«f°õn±º°z","MS",1140
+"chest of drawers","GA37I!","274.6!","O","N","""mirror¢"," ","õtó²st$°ö$ådò·º°z","MS",1141
+"mirror","GA37I!","274.6!","N","Y"," ","INA","m±r°","MS",1141
+"dressing table","GA37I!","274.6!","O","N"," "," ","ådò²s±¿î$õte{±¿}b°«ì","MS",1141
+"dresser","GA38","275","N","N"," "," ","dr²s´","MS",1142
+"dresser","GA39","275A","N","N"," "," ","dò²s´","MS",1143
+"dresser","GA40","276A","N","N"," "," ","dò²«s´","MS",1144
+"chest of drawers","GA40","276A","O","N"," "," ","åtó²st$°$õdò·º´z","MS",1144
+"bedroom","GA40","276A","N","Y"," ","INA","åb²dõru¿{u¿«}m","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"dressers","GA42A","276.1","N","N","out of plank"," ","dò±¿½s´«z","MS",1146
+"chest","GA42A","276.1","N","N"," "," ","tó±«{°}s","MS",1146
+"dressers","GA42B","276.2","N","N","""we never had¢"," ","ådò±¿½¼s´«z","MS",1147
+"bureaus","GA42B","276.2","N","N","""we never had¢"," ","åbju¿ºõro¼º¹¼z","MS",1147
+"bureau","GA43","277","N","N"," "," ","b{±¿}u¿½¾ro{¹}","MS",1148
+"bureaus","GA44A","278.1","N","N"," "," ","åbju¿ºõro¼º¹¼z","MS",1149
+"bureaus","GA44B","278.2","N","N"," "," ","åbju¿ºõro¼º¹¼z","MS",1150
+"bureaus","GA44C","278.3","N","N"," "," ","åbju¿ºõro¼º¹¼z","MS",1151
+"dresser drawer","GA44D","278.4","O","N"," "," ","ådò±¿½¼s´$õdò·¼º´","MS",1152
+"bureau","GA44E","278.5","N","N"," "," ","åb{i}u¿{u¿«}õro¼{¹¼}","MS",1153
+"dressers","GA44E","278.5","N","N"," "," ","ådò²s´¾z","MS",1153
+"dressers","FL1","252","N","N","""mirror¢"," ","dò²«s°«z","MS",1154
+"mirror","FL1","252","N","Y"," ","INA/SIC","m²ºr°","MS",1154
+"chest","FL2A","253.1","N","N"," "," ","tó²«{°}st","MS",1155
+"bureaus","FL2A","253.1","N","N"," "," ","bju¿ºr°¾z","MS",1155
+"chest of drawers","FL2B","253.2","O","N"," "," ","õtó²st$°v$ådò·º°z","MS",1156
+"dresser","FL2B","253.2","N","N"," "," ","dò²s°","MS",1156
+"bureau drawers","FL2C!","253.3!","O","N"," "," ","åb±¿ºu¿r°$õdò·{°}z","MS",1157
+"bureaus","FL3A","254.1","N","N"," "," ","åbju¿ºõro¼ºz","MS",1158
+"washstand","FL3A","254.1","N","N"," "," ","åw¶{°}óõstáº{²}n","MS",1158
+"dresser is","FL3B!","254.2!","S","Y"," ","NEW","dò²«s°rŸ±¿¼z","MS",1159
+"dresser","FL3B!","254.2!","N","Y"," ","NEW","dò²«°s°«","MS",1159
+"bureaus","FL3B!","254.2!","N","N"," "," ","bju¿ºr°z","MS",1159
+"washstand","FL3B!","254.2!","N","N"," "," ","åwµ¾{°}óõstáº{°}n","MS",1159
+"dressers","FL4","254A","N","N"," "," ","dò²«s´«z","MS",1160
+"bureau","FL5A","255.1","N","N"," "," ","åbju¿ºõro¼º","MS",1161
+"bureau","FL5B","255.2","N","N"," "," ","åbju¿ºõro¼º{¹¼}","MS",1162
+"","","","","","","","","",

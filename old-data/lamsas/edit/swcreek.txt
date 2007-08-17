@@ -1,0 +1,61 @@
+"swamp","NY60B!","546!","N","N","might have elms","sw∂mp","MS"," ",169
+"swamp","MD19B","70","N","N"," ","sw∑∫mp","MS"," ",555
+"swamp","MD21B","76","N","N"," ","swµæmp","MS"," ",560
+"swamp","VA10A","127","N","N"," ","sw∑Ωmp","MS"," ",595
+"swamp","VA10B","128","N","N"," ","sw∑Ω{∑}mp","MS"," ",596
+"swamp","VA11A","129","N","Y"," ","sw∑Ω∫mp","MS","SUG",597
+"swamp","VA13A","133","N","N","running water","sw∂ó´∫mp","MS"," ",602
+"swamp","VA13B","134","N","N","running water","sw∑∫mp","MS"," ",603
+"swamp","VA14B","136","N","N"," ","swµ´æ{∞}mp","MS"," ",605
+"swamp","VA16A","141","N","N"," ","sw∑:mp","MS"," ",610
+"swamp","VA18","145","N","N"," ","sw∑∫mp","MS"," ",614
+"swamp","VA19A","146","N","N"," ","swﬁ´{∞}mp","MS"," ",615
+"swamp","VA21N","N153","N","N"," ","sw∑∫mp","MS"," ",621
+"swamp","VA34B","178","N","N"," ","sw∂´∫{∞}mp","MS"," ",648
+"swamp","VA35B","180","N","N"," ","sw∂´∑mp","MS"," ",650
+"swamp","VA36A","181","N","N"," ","sw∑:mp","MS"," ",651
+"swamp","VA37","183","N","N"," ","sw∑∫∑´mp","MS"," ",653
+"swamp","NC3A","305","N","N","fresh","sw∑ó:mp","MS"," ",734
+"swamp","NC3B","306","N","N"," ","sw∑Ω∫{∑}mp","MS"," ",735
+"swamp","NC4A","307","N","N"," ","sw∑:mp","MS"," ",736
+"swamp","NC4B","308","N","N"," ","s{w}∑{∑´}mp","MS"," ",737
+"swamp","NC5B","310","N","N"," ","sw∑∫mp","MS"," ",739
+"swamp","NC6!","311!","N","N"," ","sw∑∑∫mp","MS"," ",740
+"swamp","NC7A","315(*)","N","Y","trees; always drained","sw∑Ω∫{∑}mp","MS","AUX",741
+"swamp","NC7B","316","N","N"," ","sw∑∑´mp","MS"," ",742
+"swamp","NC8N","N317","N","N","larger than branch","sw∑∫mp","MS"," ",743
+"swamp","NC8A","317","N","N"," ","sw∑∑´mp","MS"," ",744
+"swamp","NC9A","319","N","N"," ","sw∑ó∫mp","MS"," ",746
+"swamp","NC12A","327(*)","N","N"," ","swﬁ´º{∞}mp","MS"," ",753
+"swamp","NC12B","328","N","N"," ","sw∑∑´mp","MS"," ",754
+"swamp","NC13A","329","N","N"," ","sw∑Ω∫mp","MS"," ",755
+"swamp","NC13B","330(*)","N","Y"," ","sw∑Ωmp","MS","AUX",756
+"swamp","NC15C","335(*)","N","N"," ","sw∑ó∫mp","MS"," ",763
+"swamp","NC15A","335(*)","N","N"," ","sw∑ó∑´mp","MS"," ",761
+"swamp","NC16A","339(*)","N","N","smaller than creek","swﬁ´º∫{∞}mp","MS"," ",764
+"swamp","NC16B","340","N","N"," ","swﬁ{∞}mp","MS"," ",765
+"swamp","NC17B","338","N","N"," ","swﬁ∫{∞}mp","MS"," ",767
+"swamp","NC18A","341","N","N"," ","sw∑∫mp","MS"," ",768
+"swamp","NC19A","343","N","N"," ","swﬁ{∞}mp","MS"," ",770
+"swamp","NC20C","346b","N","N"," ","sw∑:mp","MS"," ",774
+"swamp","NC24N","N352","N","N"," ","sw∑∫mp","MS"," ",783
+"swamp","NC24A","352a","N","N"," ","sw∑∫mp","MS"," ",784
+"swamp","NC24B","352b","N","N","includes edges","sw∑:mp","MS"," ",785
+"swamp","NC25A","353","N","N","wide, sluggish","swﬁ´ºmp","MS"," ",787
+"swamp","NC26A","355a","N","N","includes edges","sw∑∑´mp","MS"," ",789
+"swamp","NC26B","355b","N","N","wooded slopes included","sw∑∑´mp","MS"," ",790
+"swamp","NC26C!","356!","N","N","includes banks and trees","sw∑Ω∑mp","MS"," ",791
+"swamp","NC27A","357","N","N"," ","sw∑∫mp","MS"," ",792
+"swamp","NC29A","363(*)","N","N","""a big branch¢; always stream course through","sw∑∫mp","MS","RN6",797
+"swamp","NC29B","364","N","N"," ","sw∑∫mp","MS"," ",798
+"swamp","NC31B","368","N","N"," ","sw∑∑´mp","MS"," ",802
+"swamp","NC33A","373","N","N"," ","sw∑∑´mp","MS"," ",805
+"swamp","NC33B","374","N","N","includes trees and land","swµ´æ{∞}mp","MS"," ",806
+"swamp","NC36A","381","N","N"," ","sw∑∫mp","MS"," ",812
+"swamp","SC7D!","209.4!","N","N","bigger than branch","swè∑´∫{∞}mp","MS"," ",912
+"swamp","SC8A","210.1","N","N"," ","swèµæ{∞}mp","MS"," ",913
+"swamp","SC8B","210.2","N","N"," ","swè∑´º∫{∞}mp","MS","CNV",914
+"swamp","SC8B","210.2","N","N"," ","sw∑ó´º∫{∞}mp","MS","CNV",914
+"swamp","GA1A","246.1(*)","N","N","fresh water","swè∂∫{∞}mp","MS"," ",1045
+"swamp","GA17N","N264","N","Y"," ","sw∂´∑mp","MS","SUG",1090
+"","","","","","","","","",

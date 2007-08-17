@@ -1,0 +1,2213 @@
+"evening","NY1","50","N","N"," "," ","ijvn±øÓ","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"evening","NY2B","51.2","N","N"," "," ","ijvn±øΩn","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"evening","NY3A","401","N","N","c. sundown"," ","iΩ∫vn±øn","MS",5
+"night","NY3A","401","N","N"," "," ","nµ›´º±øt","MS",5
+"evening","NY3B","403","N","N"," "," ","i∫vn±øÓ","MS",6
+"night","NY3B","403","N","N"," "," ","na±øt","MS",6
+"night","NY3C","402","N","N"," "," ","naæ±øt","MS",7
+"evening","NY3D","404","N","N"," "," ","i∫vn±øÓ","MS",8
+"night","NY3D","404","N","N"," "," ","na±øt","MS",8
+"evening","NY4A","405","N","N","c. 6 PM"," ","iΩ∫vn±øÓ","MS",9
+"night","NY4B","407","N","N"," "," ","na´æ±øt","MS",10
+"evening","NY4C","408","N","N"," "," ","i∫vn±øÓ","MS",11
+"night","NY4C","408","N","N"," "," ","na±øt","MS",11
+"evening","NY5A","409","N","N"," "," ","i∫vn±øÓ","MS",12
+"night","NY5A","409","N","N"," "," ","na±øt","MS",12
+"night","NY5B","410","N","N"," "," ","na±øt","MS",13
+"evening","NY5C","411","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",14
+"night","NY5C","411","N","N"," "," ","na±øt","MS",14
+"evening","NY5D","412","N","N"," "," ","ivn±øÓ","MS",15
+"night","NY5D","412","N","N"," "," ","na±øt","MS",15
+"evening","NY5E","413","N","N","c. sundown"," ","i∫vn±øÓ","MS",16
+"night","NY5E","413","N","N"," "," ","na±øt","MS",16
+"night","NY5F","414","N","N"," "," ","na±øt","MS",17
+"evening","NY5G","415","N","N","c. 5 PM"," ","iΩ∫vn±øÓ","MS",18
+"night","NY5G","415","N","N"," "," ","na›æ±ø›t","MS",18
+"night","NY5H!","416!","N","N"," "," ","na±øt","MS",19
+"evening","NY5I!","417!","N","N"," "," ","iΩ∫vn±øÓ","MS",20
+"night","NY6A","418","N","N"," "," ","na´æ±øt","MS",21
+"night","NY6B","419","N","N"," "," ","na±øt","MS",22
+"night","NY7A","420","N","N"," "," ","na±øt","MS",23
+"night","NY7B","421","N","N"," "," ","na±øt","MS",24
+"night","NY7C","422","N","N"," "," ","naæ±ø't","MS",25
+"night","NY7D","423","N","N"," "," ","na±øt","MS",26
+"night","NY7E","424","N","N"," "," ","na±øt","MS",27
+"night","NY7F","425","N","N"," "," ","na±øt","MS",28
+"evening","NY7F","425","N","N","c. sundown"," ","i∫vn±øÓ","MS",28
+"night","NY7G","426","N","N"," "," ","naæ±øt","MS",29
+"evening","NY7G","426","N","N","c. supper"," ","i∫vn±øÓ","MS",29
+"night","NY7H","427","N","N"," "," ","na´æ±øt","MS",30
+"night","NY7I","428","N","N"," "," ","na±øt","MS",31
+"night","NY7J!","429!","N","N"," "," ","na±øt","MS",32
+"night","NY7K!","430!","N","N"," "," ","na±øt","MS",33
+"night","NY7L!","431!","N","N"," "," ","na±øt","MS",34
+"night","NY7M!","432!","N","N"," "," ","naæ±øt","MS",35
+"evening","NY7M!","432!","N","N"," "," ","i∫vn±øÓ","MS",35
+"night","NY8","432b","N","N"," "," ","na±øt","MS",36
+"evening","NY8","432b","N","N"," "," ","Âi∫vn±øÓ","MS",36
+"night","NY9A","432c","N","N"," "," ","na±øt","MS",37
+"evening","NY9A","432c","N","N"," "," ","i∫vn±øÓ","MS",37
+"night","NY9B","433","N","N"," "," ","n•Ω±øt","MS",38
+"evening","NY9B","433","N","N"," "," ","i∫vn±øÓ","MS",38
+"night","NY9C","434","N","N"," "," ","na±øt","MS",39
+"evening","NY9C","434","N","N"," "," ","i∫vn±øÓ","MS",39
+"night","NY10A","435","N","N"," "," ","n•Ω±øt","MS",40
+"evening","NY10A","435","N","N"," "," ","i∫vn±øÓ","MS",40
+"night","NY10B!","436!","N","N"," "," ","na±øt","MS",41
+"evening","NY10B!","436!","N","N","6 PM"," ","i∫vn±øÓ","MS",41
+"night","NY11","438","N","N"," "," ","na±øt","MS",42
+"evening","NY11","438","N","N"," "," ","i∫vn±øÓ","MS",42
+"evening","NY12A","439(*)","N","N"," "," ","i∫vn±øÓ","MS",43
+"night","NY12A","439(*)","N","N"," "," ","n•±øt","MS",43
+"night","NY12B","440","N","N"," "," ","na±øt","MS",44
+"night","NY12C!","441!","N","N"," "," ","na±øt","MS",45
+"night","NY13A","443","N","N"," "," ","na±øt","MS",46
+"evening","NY13A","443","N","N","6 PM"," ","i∫vn±øÓ","MS",46
+"evening","NY13B!","444!","N","N"," "," ","i∫vn±øÓ","MS",47
+"night","NY13B!","444!","N","N"," "," ","na´æ±øt","MS",47
+"night","NY14A","445","N","Y"," ","AUX","n•Ωº±øt","MS",48
+"night","NY14B","446","N","N"," "," ","na±øt","MS",49
+"evening","NY14B","446","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",49
+"good night","NY14B","446","I","N"," ","CNV","gπ›d$Ânµ±øΩt","MS",49
+"evening","NY15A","447","N","N"," "," ","i∫vn±øÓ","MS",50
+"night","NY15A","447","N","N"," "," ","na±øt","MS",50
+"night","NY15B","448","N","N"," "," ","na´æ±øt","MS",51
+"evening","NY15B","448","N","N","c. sundown"," ","i∫vn±øÓ","MS",51
+"night","NY16A","449","N","N"," "," ","na±øt","MS",52
+"evening","NY16B","450","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",53
+"night","NY16B","450","N","N"," "," ","na±øt","MS",53
+"evening","NY17A","451(*)","N","N"," "," ","i∫vn±øÓ","MS",54
+"night","NY17A","451(*)","N","N"," "," ","n•±ø´t","MS",54
+"night","NY17B","452","N","N"," "," ","na´æ±øt","MS",55
+"evening","NY18A","453","N","N"," "," ","i∫vn±øΩn","MS",56
+"night","NY18A","453","N","N"," "," ","n•Ω±øt","MS",56
+"night","NY18B","454","N","N"," "," ","na±øt","MS",57
+"evening","NY18B","454","N","N","sun goes down"," ","i∫vn±øÓ","MS",57
+"night","NY18C!","455!","N","N"," "," ","nµ±øt","MS",58
+"evening","NY19","456","N","N"," "," ","i∫vn±øÓ","MS",59
+"night","NY19","456","N","N"," "," ","na´æ±øt","MS",59
+"evening","NY20A","457","N","N","sundown"," ","i∫vn±øÓ","MS",60
+"night","NY20A","457","N","N"," "," ","n•±øt","MS",60
+"night","NY20B","458","N","N"," "," ","na´æ±øt","MS",61
+"evening","NY20B","458","N","N"," "," ","i∫vn±øÓ","MS",61
+"night","NY21","459","N","N"," "," ","na´æ±øt","MS",62
+"evening","NY21","459","N","N","c. twilight"," ","i∫vn±øÓ","MS",62
+"evening","NY22","460","N","N"," "," ","i∫vn±øÓ","MS",63
+"night","NY22","460","N","N"," "," ","naæ∫±øt","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"night","NY23B","462a","N","N"," "," ","nµ´±øºt","MS",65
+"evening","NY23B","462a","N","N","till dark"," ","iΩ∫ivn±øºÓ","MS",65
+"good evening","NY23B","462a","I","N"," "," ","gπ´d$i∫{j}vn±øºÓ","MS",65
+"good night","NY23B","462a","I","N"," "," ","gπ´∫d$Ânµ±æt","MS",65
+"at night","NY23B","462a","Q","N"," ","CNV","∞t$Ânµ´±øt","MS",65
+"evening","NY23C","462b","N","N","till 9 or 10 PM"," ","Â±´∫jvn±øºÓ","MS",66
+"nights","NY23C","462b","N","N"," ","CNV","nµ´º±øºts","MS",66
+"nights","NY23C","462b","N","N"," ","CNV","nµ±´ts","MS",66
+"good evening","NY23C","462b","I","N"," "," ","gπd$ÂiΩ∫ivn±øºÓ","MS",66
+"good night","NY23C","462b","I","N"," "," ","gπd$Ânµ±øºt","MS",66
+"night","NY24A","463","N","N"," "," ","na´æ±øt","MS",67
+"evening","NY24A","463","N","N"," "," ","i∫vn±øΩn","MS",67
+"evening","NY24B!","464!","N","N"," "," ","Âi∫vn±øÓ","MS",68
+"even at night","NY25A","465","K","Y"," ","INA/CNV","ÂiΩ∫jvn$±øºt$Ânﬁ±øt","MS",69
+"night","NY25A","465","N","N"," ","CNV","n•æ±øt","MS",69
+"evening","NY25A","465","N","N","when sun sets"," ","Âi∫vn±øºÓ","MS",69
+"good evening","NY25A","465","I","N"," "," ","gπ›d$Âi∫vn±øn","MS",69
+"good evening","NY25A","465","I","N"," "," ","gπ›d$Âi∫vn±øÓ","MS",69
+"good night","NY25A","465","I","N"," "," ","gπ›d$Ânﬁó´º±øt","MS",69
+"at night","NY25B","466","Q","N"," ","CNV","∞t$Ân•Ωº±øt","MS",70
+"evening","NY25B","466","N","N","after sundown"," ","ÂiΩ∫ivn±øºÓ","MS",70
+"good night","NY25B","466","I","N"," "," ","gπd$Âna˛æ±øt","MS",70
+"good evening","NY25B","466","I","N"," "," ","gπÂÒóiΩin±øºÓ","MS",70
+"night","NY26A","467","N","N"," "," ","nµ´æ±øt","MS",71
+"evening","NY26A","467","N","N","till midnight"," ","i∫vn±øºn","MS",71
+"good evening","NY26A","467","I","N"," "," ","gπd$Âi∫vn±øºn","MS",71
+"good night","NY26A","467","I","N"," "," ","ıgπd$Ân•Ωæ±øt","MS",71
+"good night","NY26A","467","I","N"," ","CNV","gπ›Ωd$Ânµ´±øt","MS",71
+"at night","NY26B","468","Q","N"," "," ","∞æt$Ânµæ±øt","MS",72
+"evening","NY26B","468","N","N","""till you went to bed¢ (c. 9 PM, maybe)","CNV","i∫vn±øºÓ","MS",72
+"good evening","NY26B","468","I","N"," "," ","gπd$ÂiΩivn±øºÓ","MS",72
+"good night","NY26B","468","I","N"," "," ","gπd$Ânµ´º±øt","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"night","NY27A","470","N","N","after 9 PM"," ","nµ´±øt","MS",74
+"good night","NY27A","470","I","N"," "," ","gπd$Ânµ´±øt","MS",74
+"this evening","NY27A","470","O","N"," "," ","‰±øs$i∫vn±øºn","MS",74
+"evening","NY27B","471","N","N"," "," ","iΩ∫ivn±øºÓ","MS",75
+"evening","NY27C","472","N","N","after 6 PM"," ","i∫{j}vn±øºÓ","MS",76
+"good night","NY27C","472","I","N"," "," ","gπ›d$Ânµ±øºt","MS",76
+"night","NY28A","473a","N","N"," "," ","n•º±øºt","MS",77
+"night","NY28A","473a","N","N"," ","CNV","nµ±øt","MS",77
+"night","NY28A","473a","N","N"," "," ","Ânµ´±øt","MS",77
+"good night","NY28A","473a","I","N"," "," ","ıgπd$Ânµ´º±øt","MS",77
+"evening","NY28B","473b(*)","N","N","""till bedtime¢"," ","i∫vn±øºÓ","MS",78
+"night","NY28B","473b(*)","N","N","after dark"," ","nµ´±øt","MS",78
+"nights","NY28B","473b(*)","N","N","after dark","CNV","na˛æ±ø˛ts","MS",78
+"good night","NY28B","473b(*)","I","N"," "," ","gπd$Ân•Ω±øt","MS",78
+"till bed time","NY28B","473b(*)","Q","Y"," ","INA","t±øÏ$Âb≤´tıtµ∫±øm","MS",78
+"good evening","NY28B","473b(*)","I","N"," "," ","gπd$Âi∫vn±øºÓ","MS",78
+"night","NY28C"," ","N","N"," ","CNV","nµ±øt","MS",79
+"evening","NY28C"," ","N","N"," ","CNV","i∫vn±øºÓ","MS",79
+"evening","NY29A","474a","N","N","till sundown"," ","i∫vn±øºn","MS",80
+"night","NY29A","474a","N","N"," "," ","nµ´º±øºt","MS",80
+"evening","NY29A","474a","N","N","till sundown","CNV","Âi∫v∞´n±æÓ","MS",80
+"good evening","NY29A","474a","I","N"," "," ","ıgπd$Âi∫vn±øºÓ","MS",80
+"good night","NY29A","474a","I","N"," "," ","gπd$Ânµ´º±øt","MS",80
+"night","NY29B","474b","N","N"," "," ","n•±øºt","MS",81
+"evening","NY29B","474b","N","N"," ","CNV","iΩivn±øºn","MS",81
+"good night","NY29B","474b","I","N"," "," ","ıgπd$Ân•º±øt","MS",81
+"night","NY29C","474c","N","N"," ","CNV","nµ´º±øt","MS",82
+"good night","NY29C","474c","I","N"," "," ","gπ{Á}Ânµ±øt","MS",82
+"evening","NY30A","475a","N","N"," "," ","i∫v±øºn","MS",83
+"night","NY30A","475a","N","N","after 10 PM"," ","nµ´±øt","MS",83
+"good evening","NY30A","475a","I","N"," "," ","Âgπd$ıi∫vn±øºn","MS",83
+"good night","NY30A","475a","I","N"," "," ","Âgπd$ınµ´º±øt","MS",83
+"evening","NY30B","475b","N","N"," ","CNV","i∫{j}vn±øºÓ","MS",84
+"at night","NY30B","475b","Q","N"," ","CNV","∞t$Ân•´±øt","MS",84
+"evening","NY30B","475b","N","N"," ","CNV","i∫vn±øºÓ","MS",84
+"good evening","NY30B","475b","I","N","either greeting or leaving"," ","ıgπ´d$Âi∫vn±øºn","MS",84
+"evening","NY30C","475c","N","N"," ","CNV","i∫vn±øºn","MS",85
+"night","NY30C","475c","N","N"," ","CNV","nµ´±øt","MS",85
+"evening","NY30D","475d","N","N"," ","CNV","i∫vn±øºn","MS",86
+"good night","NY30D","475d","I","N"," ","CNV","ıgπd$Ânµº±øt","MS",86
+"night","NY30E","475e","N","N"," "," ","nµ´±øt","MS",87
+"evening","NY30E","475e","N","N"," "," ","i∫vn±øºÓ","MS",87
+"good night","NY30E","475e","I","N"," "," ","gπd$Ân•æ±øt","MS",87
+"good evening","NY30E","475e","I","N"," "," ","gπd$Âi∫vn±øºÓ","MS",87
+"good evening","NY31A","478a","I","N"," "," ","ıguΩd$ÂiΩivn±øºÓ","MS",88
+"evening","NY31A","478a","N","N","till bedtime","CNV","iΩivn±øºÓ","MS",88
+"evenings","NY31A","478a","N","N","till bedtime","CNV","iΩivn±øºnz","MS",88
+"good night","NY31A","478a","I","N","not usual on meeting"," ","ıgπ´d$Ân•´±øt","MS",88
+"good night","NY31A","478a","I","N","not usual on meeting","CNV","Âgπın•±øt","MS",88
+"evening","NY31B","478b","N","N"," "," ","iΩivn±øºÓ","MS",89
+"night","NY31B","478b","N","N"," ","CNV","n•Ωº±øt","MS",89
+"good night","NY31B","478b","I","N","greeting"," ","Âgπd$ın•´±øt","MS",89
+"good evening","NY31B","478b","I","N"," "," ","ıgπd$ÂiΩi´vn±øÓ","MS",89
+"evening","NY32A","479a","N","N"," "," ","iΩivn±øºÓ","MS",90
+"night","NY32A","479a","N","N"," "," ","n•Ω±øt","MS",90
+"good evening","NY32A","479a","I","N"," "," ","ıgπd$ÂiΩivn±øºn","MS",90
+"good night","NY32A","479a","I","N"," "," ","ıgπd$Ân•Ω±øt","MS",90
+"good night","NY32A","479a","I","N"," ","CNV","ıgπd$Ân•±øºt","MS",90
+"at night","NY32B","479b","Q","N"," ","CNV","∞t$Âna±øt","MS",91
+"evening","NY32B","479b","N","N"," "," ","iΩivn±øºÓ","MS",91
+"good night","NY32B","479b","I","N"," "," ","Âgπd$ın•Ω±øt","MS",91
+"night","NY33A","480","N","N"," ","CNV","nµ´±øt","MS",92
+"evening","NY33A","480","N","N"," ","CNV","i∫vn±øºÓ","MS",92
+"good night","NY33A","480","I","N"," ","CNV","gπ›ºÂnµ´º±øt","MS",92
+"night","NY33B","481","N","N"," ","CNV","n•±øºt","MS",93
+"evening","NY33B","481","N","N","""anytime after supper¢"," ","iΩivn±øºÓ","MS",93
+"at night","NY33B","481","Q","N"," "," ","∞t$Ân•±øt","MS",93
+"good day","NY33B","481","I","N"," "," ","gπ›dÂdeΩ±øΩ","MS",93
+"good night","NY33B","481","I","N"," "," ","gπd$Ânµ±øt","MS",93
+"night","NY33C","482","N","N"," "," ","nµ±øt","MS",94
+"tonight","NY33C","482","N","N"," ","CNV","t∞Ânµ±øºt","MS",94
+"night","NY33C","482","N","N"," ","CNV","nµ´±øºt","MS",94
+"evening","NY33C","482","N","N"," "," ","iΩ{j}vn±øºn","MS",94
+"good night","NY33C","482","I","N","late"," ","gπ{Á}Ânµ±øºt","MS",94
+"good evening","NY33C","482","I","N"," "," ","ıgπd$ÂiΩivn±øºÓ","MS",94
+"evening","NY34A","483","N","N"," ","CNV","iΩivn±øºÓ","MS",95
+"good night","NY34A","483","I","N","exclamation on meeting"," ","Âgπ´d$ın•´±øt","MS",95
+"good night","NY34A","483","I","N"," "," ","Âgπ´d$ın•´±øt","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"evening","NY34D!","486!","N","N"," "," ","ÂiΩivn±øÓ","MS",98
+"good night","NY34D!","486!","I","N"," ","CNV","ıgπd$Ân•Ω±øt","MS",98
+"good night","NY34D!","486!","I","N"," "," ","gπd$Ân•±øt","MS",98
+"evening","NY34D!","486!","N","N"," "," ","Âi∫{j}vn±øºÓ","MS",98
+"night","NY34D!","486!","N","N"," "," ","nµ±øt","MS",98
+"night","NY35A","487","N","N"," "," ","n•±ø´t","MS",99
+"evening","NY35A","487","N","N","6 PM"," ","i∫vn±øΩn","MS",99
+"evening","NY35B","488","N","N"," "," ","i∫vn±øÓ","MS",100
+"night","NY35B","488","N","N"," "," ","n•±øt","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"night","NY36A","491","N","N"," "," ","n•±øt","MS",102
+"evening","NY36A","491","N","N"," "," ","i∫vn±øΩn","MS",102
+"evening","NY36B","492","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",103
+"night","NY36B","492","N","N"," "," ","n•æ±øt","MS",103
+"evening","NY37A","493","N","N"," "," ","i∫vn±øÓ","MS",104
+"night","NY37A","493","N","N"," "," ","n•±øt","MS",104
+"evening","NY37B","494","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",105
+"night","NY37B","494","N","N"," "," ","n•Ω±ø´t","MS",105
+"evening","NY37C!","495!","N","N","c. 7 PM"," ","i∫vn±øÓ","MS",106
+"night","NY37C!","495!","N","N"," "," ","na´æ±øt","MS",106
+"night","NY38A","497(*)","N","N"," "," ","n•±øt","MS",107
+"evening","NY38A","497(*)","N","N","c. 7 PM"," ","i∫vn±øÓ","MS",107
+"night","NY38B","498","N","N"," "," ","n•Ω±øt","MS",108
+"evening","NY38B","498","N","N","c. 7 PM"," ","i∫vn±øÓ","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"evening","NY39A","499","N","N","c. 6 PM, or sunset"," ","i∫vn±øÓ","MS",110
+"night","NY39A","499","N","N"," "," ","na´æ±øt","MS",110
+"night","NY39B","500","N","N"," "," ","n•±øt","MS",111
+"evening","NY39B","500","N","N","c. 6 PM"," ","i∫vn±øΩn","MS",111
+"evening","NY40A","501","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",112
+"night","NY40A","501","N","N"," "," ","nµ´±øt","MS",112
+"night","NY40B","502","N","N"," "," ","na´æ±øt","MS",113
+"evening","NY40B","502","N","N","6 PM"," ","i∫vn±øÓ","MS",113
+"evening","NY41","504","N","N","c. 6 PM"," ","Âi∫vn±øÓ","MS",114
+"night","NY41","504","N","N"," "," ","n•±ø´t","MS",114
+"night","NY42A","505","N","N"," "," ","n•∫±ø´t","MS",115
+"evening","NY42A","505","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",115
+"night","NY42B","506","N","N"," "," ","n•Ω±øt","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"evening","NY43B","507b","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",118
+"night","NY43B","507b","N","N"," "," ","n•±ø´t","MS",118
+"night","NY43C!","508!","N","N"," "," ","na´æ±ø´t","MS",119
+"evening","NY43C!","508!","N","N","c. 7 PM"," ","i∫vn±øÓ","MS",119
+"night","NY44A","511","N","N"," "," ","n•±ø´t","MS",120
+"evening","NY44A","511","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",120
+"evening","NY44B","512","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",121
+"night","NY44B","512","N","N"," "," ","n•æ±øt","MS",121
+"night","NY45A","513a","N","N"," ","CNV","nµ´±øt","MS",122
+"last night","NY45A","513a","O","N"," ","CNV","Âl·s$ın•´±øt","MS",122
+"evening","NY45A","513a","N","N","at dusk"," ","iΩivn±øºÓ","MS",122
+"good night","NY45A","513a","I","N"," ","CNV","ıgπd$Ânµ´º±øt","MS",122
+"night","NY45B","513b","N","N"," ","CNV","n•Ω±øt","MS",123
+"Saturday night","NY45B","513b","O","N"," ","CNV","ıs·tê¥d±´æ$Ân•±øt","MS",123
+"at night","NY45B","513b","Q","N"," ","CNV","∞t$Ân•Ω±øt","MS",123
+"night","NY45C","513c","N","N"," ","CNV","n•Ω±øt","MS",124
+"evening","NY45D!","513d!","N","N"," "," ","Â±ivn±øÓ","MS",125
+"good evening","NY45D!","513d!","I","N"," "," ","ıgπd$ÂiΩivn±øºÓ","MS",125
+"good night","NY45D!","513d!","I","N"," "," ","gπd$Ânµº±øt","MS",125
+"evening","NY46A","515a","N","N"," ","CNV","iΩi‚n±øÓ","MS",126
+"night","NY46A","515a","N","N"," ","CNV","nµ´º±øt","MS",126
+"evening","NY46A","515a","N","N"," "," ","ÂiΩivn±øºÓ","MS",126
+"good night","NY46A","515a","I","N"," "," ","ıgπ{d}$Ânµ´º±øt","MS",126
+"evening","NY46B","515b","N","N"," "," ","iΩivn±øn","MS",127
+"good evening","NY46C","515c","I","N","6 PM"," ","gπ›ºd$iΩivn±ø´ºÓ","MS",128
+"good night","NY46C","515c","I","N"," "," ","gπ›d$Âna´∫±øt","MS",128
+"good night","NY46C","515c","I","N"," "," ","gπd$Âna´æ±´t","MS",128
+"good evening","NY46C","515c","I","N","6 PM"," ","gπ´d$±iΩvn±ø´ºÓ","MS",128
+"evening","NY47A","517(*)","N","N","after dark"," ","ÂiΩivn±øºn","MS",129
+"good night","NY47A","517(*)","I","N","""both comin' and goin'¢"," ","gπd$Ân•´±øt","MS",129
+"good evening","NY47A","517(*)","I","N"," "," ","gπd$ÂiΩivn±øºÓ","MS",129
+"good night","NY47A","517(*)","I","N","""both comin' and goin'¢"," ","gπd$Ân•Ω±øt","MS",129
+"night","NY47B","518","N","N"," "," ","n•±øt","MS",130
+"evening","NY47B","518","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",130
+"evening","NY48A","519a","N","N"," "," ","iΩivn±øºn","MS",131
+"night","NY48A","519a","N","N"," "," ","Ân•´±øt","MS",131
+"good night","NY48A","519a","I","N"," "," ","gπ›d$Ân∞Ω±øt","MS",131
+"good evening","NY48A","519a","I","N"," "," ","gπd$ÂiΩæivn±øn","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"night","NY48C","519c","N","N"," ","CNV","na˛´±øt","MS",133
+"evening","NY48C","519c","N","N"," ","CNV","iΩivn±øÓ","MS",133
+"good night","NY48C","519c","I","N"," "," ","ıgπd$Ânaæ∫±øt","MS",133
+"evening","NY48D","519d","N","N"," "," ","Â±´ivn±øÓ","MS",134
+"at night","NY48D","519d","Q","N"," ","CNV","∞t$Ân•´±øt","MS",134
+"good evening","NY48D","519d","I","N"," "," ","gπÂÒiΩivn±øÓ","MS",134
+"good night","NY48D","519d","I","N"," "," ","gπ›ºd$Ân•±øΩt","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"night","NY49C","522a","N","N","after 9 PM"," ","n•´±øt","MS",137
+"at night","NY49C","522a","N","N","after 9 PM"," ","∞t$Ân•Ω±øt","MS",137
+"good night","NY49C","522a","I","N","on leaving"," ","gπºd$Ân•´±øt","MS",137
+"evening","NY49C","522a","N","N","6 PM to midnight"," ","i{i´}vn±øÓ","MS",137
+"evening","NY49C","522a","N","N","6 PM to midnight"," ","i{i´}vn±øºÓ","MS",137
+"evening","NY49D","522b","N","N"," "," ","i{i´}vn±øÓ","MS",138
+"night","NY49D","522b","N","N"," "," ","n•´±øt","MS",138
+"good night","NY49D","522b","I","N"," "," ","gπd$n•´±øt","MS",138
+"night","NY50A","523","N","N"," ","CNV","na´±øt","MS",139
+"evening","NY50A","523","N","N"," "," ","±´ivn±øÓ","MS",139
+"good night","NY50A","523","I","N"," "," ","ıgπd$Ân•Ω±øºt","MS",139
+"good evening","NY50A","523","I","N"," "," ","ıgπ›´ºd$Â±ivn±øºÓ","MS",139
+"night","NY50B","524","N","N"," ","CNV","naæ±øt","MS",140
+"evening","NY50B","524","N","N"," "," ","iΩivn±øn","MS",140
+"last night","NY50B","524","O","N"," ","CNV","ÂÏ·s$ına´±øt","MS",140
+"good evening","NY50B","524","I","N"," "," ","gπºd$Â±´ivn±øn","MS",140
+"good night","NY50B","524","I","N"," "," ","ıgπd$Ânaæ±øt","MS",140
+"midnight","NY51A","525a","N","Y"," ","INA/CNV","Âm±ædın•Ω±øt","MS",141
+"good evening","NY51A","525a","I","N"," "," ","gπd$ÂiΩivn±øºÓ","MS",141
+"good night","NY51A","525a","I","N"," ","CNV","ıgπd$Ân•Ω±øt","MS",141
+"this evening","NY51A","525a","O","N"," ","CNV","‰±øs$ÂiΩivn±øºÓ","MS",141
+"night","NY51B","525b","N","N"," ","CNV","n•±øt","MS",142
+"evening","NY51B","525b","N","N"," "," ","±øivn±øÓ","MS",142
+"good night","NY51B","525b","I","N"," "," ","ıgπøî´d$Ânaæ±øt","MS",142
+"nights","NY51C","525c","N","N"," ","CNV","n•±øts","MS",143
+"evenings","NY51C","525c","N","N"," ","CNV","iΩivn±øºnz","MS",143
+"good night","NY51C","525c","I","N"," "," ","gπd$Ân•∫±øt","MS",143
+"nights","NY51D","525d","N","N"," ","CNV","n•Ω±øts","MS",144
+"evening","NY51D","525d","N","N"," ","CNV","iΩivn±øºÓ","MS",144
+"evening","NY51E!","525e!","N","N"," ","CNV","iΩivn±øÓ","MS",145
+"evening","NY52A","527","N","N"," "," ","iΩivn±øn","MS",146
+"good night","NY52A","527","I","N"," "," ","gπ›d$Ân•´±øt","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"evening","NY52C","528b","N","N","after supper"," ","i∫{i´}vn±øºn","MS",148
+"night","NY52C","528b","N","N","later than `evening'"," ","n•±øt","MS",148
+"night","NY53A","529","N","N","after 9 PM"," ","Ân•Ω±øt","MS",149
+"evening","NY53A","529","N","N","6 PM"," ","iΩivn±øÓ","MS",149
+"good night","NY53A","529","I","N"," "," ","ıgπd$Ân•±øt","MS",149
+"evening","NY53B!","530!","N","N"," "," ","i∫i´vn±øÓ","MS",150
+"night","NY53B!","530!","N","N"," ","CNV","nµ´º±øt","MS",150
+"good night","NY53B!","530!","I","N"," "," ","gπd$Ân•Ωæ±øt","MS",150
+"good evening","NY53B!","530!","I","N"," "," ","gπ›d$ÂiΩivn±øÓ","MS",150
+"evening","NY54A","531","N","N"," "," ","Âi∫{i´}vn±øÓ","MS",151
+"evening","NY54B","532","N","N","6 PM"," ","Âi∫{i´}vn±øÓ","MS",152
+"evening","NY54B","532","N","N","6 PM"," ","Âi{i´}vn±øn","MS",152
+"evening","NY54B","532","N","N","6 PM"," ","Âi{i´}vn±øÓ","MS",152
+"night","NY55A","533","N","N"," ","CNV","nµ´±øt","MS",153
+"evening","NY55A","533","N","N","starts c. 5 PM or sundown"," ","i∫{j}vn±øºÓ","MS",153
+"good evening","NY55A","533","I","N"," "," ","gπd$ÂiΩivn±øºÓ","MS",153
+"good night","NY55A","533","I","N"," "," ","gπd$Ân•º∫±øt","MS",153
+"good night","NY55A","533","I","N"," "," ","gπd$n•´º±øt","MS",153
+"good night","NY55A","533","I","N"," ","CNV","ıgπd$ın•Ω±øt","MS",153
+"evening","NY55B","534","N","N","""sometimes till midnight¢","CNV","Âi∫{j}vn±øºn","MS",154
+"night","NY55B","534","N","N"," "," ","Ân•´±øt","MS",154
+"good evening","NY55B","534","I","N","meet or leave"," ","ıgπºd$Âi∫{j}vn±øÓ","MS",154
+"good night","NY55B","534","I","N","not for meeting"," ","Âgπd$ın•´±øt","MS",154
+"night","NY56A","535","N","N"," "," ","n∞±øt","MS",155
+"evening","NY56A","535","N","N","4--11 PM"," ","i∫{j}vn±øºn","MS",155
+"good night","NY56A","535","I","N"," "," ","gπd$Ân∞Ω±øt","MS",155
+"evening","NY56B","536","N","N","no limit"," ","iΩivn±øÓ","MS",156
+"good night","NY56B","536","I","N"," "," ","gπ{d}$Ân•±øt","MS",156
+"good day","NY56B","536","I","N"," "," ","gπÂdeΩ{±ø}","MS",156
+"goodbye","NY56B","536","I","N"," "," ","gπdÂb•∫±ø","MS",156
+"nights","NY57A","537a","N","N"," ","CNV","Ân•´±øts","MS",157
+"night","NY57A","537a","N","N"," ","CNV","n•±øt","MS",157
+"evening","NY57A","537a","N","N"," "," ","iΩivn±øºÓ","MS",157
+"night before last","NY57A","537a","O","N"," ","CNV","ın∞Ω±øt$ÂfoéΩ¥$ıl·´{≤}st","MS",157
+"good night","NY57A","537a","I","N"," "," ","ıgπd$Ân•±øt","MS",157
+"night","NY57B","537b","N","N"," ","CNV","Ân•Ω∫±øt","MS",158
+"evening","NY57C!","537c!","N","N"," "," ","ÂiΩivn±øºÓ","MS",159
+"good night","NY57C!","537c!","I","N"," "," ","Âgπd$ınµ´±øt","MS",159
+"good evening","NY57C!","537c!","I","N"," "," ","ıgπd$ÂiΩivn±øºÓ","MS",159
+"night","NY58A","539a","N","N"," ","CNV","n•Ω±øt","MS",160
+"good evening","NY58A","539a","I","N"," "," ","ıgπd$Âi∫{j}vn±øºÓ","MS",160
+"evening","NY58A","539a","N","N"," ","CNV","i∫{j}vn±øºn","MS",160
+"Sunday evening","NY58A","539a","O","N"," ","CNV","ıs∏Ωnd±´æ$Âi∫{j}ˆn±øºÓ","MS",160
+"good night","NY58A","539a","I","N"," "," ","gπd$Ân•´±øt","MS",160
+"night","NY58B","539b","N","N","after dark","CNV","nµ˛´º±ø˛t","MS",161
+"evening","NY58B","539b","N","N","after sundown"," ","iΩ∫ivn±øn","MS",161
+"night","NY58B","539b","N","N","after dark","CNV","nµ´±øºt","MS",161
+"good evening","NY58B","539b","I","N"," "," ","ıgπd$Âi∫{j}vn±øºn","MS",161
+"good night","NY58B","539b","I","N","on leaving, in Canada on meeting"," ","Âgπó∫{d}$ınµ´º±ø't","MS",161
+"good night","NY58B","539b","I","N","on leaving, in Canada on meeting"," ","Âgπd$ın•Ω±øt","MS",161
+"night","NY58B","539b","N","N","after dark"," ","Ân•Ωæ±øt","MS",161
+"NR","NY58C","539c"," ","N"," "," "," ","MS",162
+"night","NY58D!","539d!","N","N"," ","CNV","Ânµ´±øt","MS",163
+"good evening","NY58D!","539d!","I","N"," "," ","ıgπd$Âi∫{j}vn±øºÓ","MS",163
+"good night","NY58D!","539d!","I","N"," "," ","ıgπd$Ânµ´±øºt","MS",163
+"good night","NY58D!","539d!","I","N"," ","CNV","Âgπd$ınµ´±øt","MS",163
+"this evening","NY58D!","539d!","O","N"," ","CNV","‰±øs$$Âi∫{j}vn±øºÓ","MS",163
+"evening","NY58E!","539e!","N","N"," "," ","Âi∫{j}vn±øºÓ","MS",164
+"good night","NY58E!","539e!","I","N"," "," ","ıgπd$Ânµ´±øt","MS",164
+"at night","NY58F!","539f!","Q","N"," ","CNV","∞t$Ân•Ω±øt","MS",165
+"evening","NY58F!","539f!","N","N"," ","CNV","iΩivn±øºÓ","MS",165
+"this evening","NY59A","543","O","N"," ","CNV","‰±øs$Âi∫ivn±øÓ","MS",166
+"evening","NY59A","543","N","N"," "," ","Âi∫{j}vn±øÓ","MS",166
+"good night","NY59A","543","I","N"," "," ","gπd$Ân•´±øt","MS",166
+"night","NY59A","543","N","N","after dark","CNV","n•Ω±øt","MS",166
+"night","NY59B","544","N","N"," "," ","n•´±ø´t","MS",167
+"good evening","NY60A","545","I","N"," "," ","ıgπd$ÂiΩivn±øºÓ","MS",168
+"night","NY60A","545","N","N"," "," ","n•´±øt","MS",168
+"good night","NY60A","545","I","N"," "," ","ıgπd$Ân•´±øt","MS",168
+"night","NY60B!","546!","N","N"," ","CNV","n•´±øt","MS",169
+"evening","NY60B!","546!","N","N"," "," ","i∫{j}vn±øÓ","MS",169
+"good night","NY60B!","546!","I","N"," ","CNV","ıgπd$Ân•´±øt","MS",169
+"evening","NY61A","547","N","N","till midnight"," ","i∫vn±øºn","MS",170
+"good evening","NY61A","547","I","N"," "," ","ıgπd$Âi∫vn±øΩÓ","MS",170
+"good night","NY61A","547","I","N"," "," ","ıgπd$Ân•º±øºt","MS",170
+"night","NY61B","548","N","N"," "," ","Ân∞Ω±øºt","MS",171
+"good evening","NY61B","548","I","N"," "," ","ıgπ´d$Âi∫vn±øºÓ","MS",171
+"evening","NY61B","548","N","N","after 6 PM till ""dark¢"," ","i∫‚n±øºÓ","MS",171
+"good night","NY61B","548","I","N"," "," ","Âgπd$ın•Ω±øºt","MS",171
+"good night","NY61B","548","I","N"," ","CNV","gπd$Ân•Ω±øt","MS",171
+"dark","NY61B","548","N","Y"," ","INA","Âdµé´º¥k","MS",171
+"evening","NY62A","551a","N","N","till 10 PM"," ","i∫vn±øºÓ","MS",172
+"good night","NY62A","551a","I","N"," "," ","gπó´d$Ân∞±øºt","MS",172
+"the whole night","NY62B","551b","O","N"," ","CNV","‰∞$ıhoøÏ$Ân•´±øt","MS",173
+"evening","NY62B","551b","N","N","till 9--0 PM","CNV","i∫{j}vn±øºÓ","MS",173
+"night","NY62B","551b","N","N"," ","CNV","n•Ω±øt","MS",173
+"good night","NY62B","551b","I","N"," "," ","Âgπd$ınµº±øt","MS",173
+"good evening","NY62B","551b","I","N"," "," ","Âgπd$ıi∫{j}vn±øºÓ","MS",173
+"goodbye","NY62B","551b","I","N"," ","CNV","gπdÂb•´±ø","MS",173
+"tonight","NY62C","551c","A","N"," ","CNV","t∞Ân•´±øºt","MS",174
+"evening","NY62C","551c","N","N"," "," ","i∫{j}vn±øºÓ","MS",174
+"good night","NY62C","551c","I","N"," "," ","Âgπ´d$ın•º±øt","MS",174
+"good evening","NY62C","551c","I","N"," "," ","gπd$Âi∫{j}vn±øºÓ","MS",174
+"evening","NY62D!","551d!","N","N"," "," ","Âi∫{j}vn±øºÓ","MS",175
+"night","NY62D!","551d!","N","N"," ","CNV","n∞±æt","MS",175
+"good night","NY62D!","551d!","I","N"," "," ","gπd$Ân∞±øºt","MS",175
+"good evening","NY62D!","551d!","I","N"," "," ","gπd$Âi∫{j}vn±øºÓ","MS",175
+"evening","NY63A","556a","N","N"," ","CNV","i∫{j}vn±øºn","MS",176
+"evening","NY63A","556a","N","N"," "," ","i∫{j}vn±øºÓ","MS",176
+"night","NY63A","556a","N","N"," "," ","Ân•Ω±øt","MS",176
+"good evening","NY63A","556a","I","N"," "," ","Âgπd$ıi∫{j}vn±øºÓ","MS",176
+"good night","NY63A","556a","I","N"," "," ","Âgπd$ın•±øt","MS",176
+"night","NY63B","556b","N","N"," ","CNV","nµ´±øt","MS",177
+"evening","NY63B","556b","N","N"," "," ","i∫{j}vn±øºÓ","MS",177
+"good night","NY63B","556b","I","N"," "," ","Âgπd$ına´æ±øt","MS",177
+"night","NY63C","556c","N","N"," "," ","n•±ø´t","MS",178
+"last night","NY63D!","556d!","O","N"," ","CNV","ıl·´s$Ânµ´±øt","MS",179
+"evening","NY63D!","556d!","N","N"," ","CNV","i∫{j}vn±øºÓ","MS",179
+"good night","NY63D!","556d!","I","N"," "," ","ıgπ{d}$Ânµ´±øºt","MS",179
+"evening","NY64A","557a","N","N"," "," ","i∫{j}vn±øºÓ","MS",180
+"good night","NY64A","557a","I","N"," "," ","gπd$Ân∞Ω±øºt","MS",180
+"evening","NY64B","557b","N","N","starts when it gets dark, lasts till midnight","CNV","i∫{j}vn±øºÓ","MS",181
+"good evening","NY64B","557b","I","N"," "," ","gπ›ΩÂdi∫{j}vn±´Ó","MS",181
+"good night","NY64B","557b","I","N"," "," ","gπd$Ân•º∫±øt","MS",181
+"night","NY64C!","557c!","N","N","after 10 or 11 PM"," ","Ân∞±øºt","MS",182
+"evening","NY64C!","557c!","N","N","6--10 or 11 PM"," ","i∫{j}vn±æÓ","MS",182
+"good evening","NY64C!","557c!","I","N"," "," ","gπd$Âi∫{j}vn±øÓ","MS",182
+"good night","NY64C!","557c!","I","N","not on meeting"," ","gπd$Ân∞±øºt","MS",182
+"night","NJ1A","1","N","N"," "," ","nµº±øt","MS",183
+"evening","NJ1B","2","N","N"," "," ","iΩivn±øÓ","MS",184
+"evening","NJ2A","3(*)","N","N"," "," ","iΩivn±øÓ","MS",185
+"night","NJ2A","3(*)","N","N"," "," ","naæ±øt","MS",185
+"evening","NJ2B","4","N","N"," "," ","iΩivn±øÓ","MS",186
+"night","NJ2B","4","N","N","later than `evening'"," ","naæ±øt","MS",186
+"evening","NJ3A","5","N","N"," "," ","iΩivn±øÓ","MS",187
+"night","NJ3A","5","N","N"," "," ","nµæ±øt","MS",187
+"evening","NJ3B","6","N","N","after supper"," ","i∫vn±øÓ","MS",188
+"night","NJ3B","6","N","N"," "," ","na±øt","MS",188
+"evening","NJ4A","7","N","N","toward sunset"," ","iΩivn±øÓ","MS",189
+"night","NJ4A","7","N","N"," "," ","na±øt","MS",189
+"evening","NJ4B","8","N","N","after sundown"," ","iΩivn±øÓ","MS",190
+"night","NJ4B","8","N","N"," "," ","naæ∫±øt","MS",190
+"night","NJ5A","9","N","N","late or later than `evening'"," ","nµ±øt","MS",191
+"evening","NJ5A","9","N","N","at dark"," ","iΩivn∞n","MS",191
+"night","NJ5A","9","N","N","later than `evening'"," ","nµ±øt","MS",191
+"night","NJ5B","10","N","N"," "," ","nµ±øt","MS",192
+"evening","NJ5B","10","N","N","5 PM"," ","iΩivn±øÓ","MS",192
+"evening","NJ6A","11","N","N","c. 6 PM"," ","i∫vn±øÓ","MS",193
+"night","NJ6A","11","N","N"," "," ","naæ±øt","MS",193
+"evening","NJ6B","12","N","N","6 PM"," ","iΩ{i}vn±øÓ","MS",194
+"night","NJ6B","12","N","N"," "," ","naæ±øt","MS",194
+"night","NJ7A","17","N","N"," "," ","naæ±øt","MS",195
+"night","NJ7B!","18!","N","N"," "," ","nµ±øt","MS",196
+"night","NJ8A","19","N","N"," "," ","nµº±øt","MS",197
+"night","NJ8B","20","N","N"," "," ","naæ±øt","MS",198
+"night","NJ9A","21","N","N"," "," ","nµ´º±øt","MS",199
+"night","NJ9B","22","N","N"," "," ","nµ´º±øt","MS",200
+"evening","NJ10A","24b","N","N","6 PM"," ","i∫vn±øÓ","MS",201
+"night","NJ10A","24b","N","N"," "," ","naæ±øt","MS",201
+"night","NJ10B","23","N","N"," "," ","nµ´º±øt","MS",202
+"night","NJ10C","24","N","N"," "," ","nµº±øt","MS",203
+"night","NJ10D!","24c!","N","N"," "," ","na±øt","MS",204
+"night","NJ11A","25","N","N"," "," ","nµº±øt","MS",205
+"night","NJ11B","26a","N","N"," "," ","nµ´±øt","MS",206
+"NR","NJ11C","26b"," ","N"," "," "," ","MS",207
+"night","NJ12A","27","N","N"," "," ","nµ±øt","MS",208
+"evening","NJ12B","28","N","N"," "," ","iΩæivn±øÓ","MS",209
+"night","NJ13A","29","N","N"," "," ","naæ±øt","MS",210
+"night","NJ13B","30","N","N"," "," ","nµ´º±øt","MS",211
+"night","NJ14A","31","N","N"," "," ","nµ´±øt","MS",212
+"evening","NJ14B","32","N","N","c. 6 PM"," ","iΩivn±øÓ","MS",213
+"night","NJ14B","32","N","N"," "," ","nµº±øt","MS",213
+"night","NJ15A","33","N","N"," "," ","na´æ±øt","MS",214
+"night","NJ15B","34","N","N"," "," ","nµ´º±øt","MS",215
+"evening","NJ15B","34","N","N"," "," ","iΩæivn±øÓ","MS",215
+"night","NJ16A","35","N","N"," "," ","na´æ±øt","MS",216
+"evening","NJ16B","36","N","N"," "," ","iΩæivn±øÓ","MS",217
+"night","NJ17A","37","N","N"," "," ","nµ´±øt","MS",218
+"evening","NJ17B","38","N","N","c. sundown"," ","iΩ{i}vn±øÓ","MS",219
+"night","NJ18A","41","N","N"," "," ","naæ±øt","MS",220
+"evening","NJ18B","42","N","N","c. sundown"," ","i∫vn±øÓ","MS",221
+"night","NJ18B","42","N","N"," "," ","na±øt","MS",221
+"night","NJ18C!","43!","N","N","at night"," ","na±øt","MS",222
+"evening","NJ18C!","43!","N","N","c. after dinner"," ","i∫vn±øÓ","MS",222
+"evening","NJ18D!","44!","N","N"," "," ","i∫vn±øÓ","MS",223
+"night","NJ18D!","44!","N","N"," "," ","na±øt","MS",223
+"night","NJ19A","45","N","N"," "," ","na±øt","MS",224
+"evening","NJ19B!","46!","N","N"," "," ","i∫vn±øÓ","MS",225
+"night","NJ19B!","46!","N","N"," "," ","na±øt","MS",225
+"night","NJ20A","47","N","N"," "," ","na±øt","MS",226
+"evening","NJ20B","47b","N","N"," "," ","i∫vn±øÓ","MS",227
+"night","NJ20B","47b","N","N"," "," ","naæ±øt","MS",227
+"night","NJ21A","48","N","N"," "," ","na±øt","MS",228
+"evening","NJ21A","48","N","N"," "," ","i∫vn±øÓ","MS",228
+"evening","NJ21B","49","N","N","c. supper"," ","i∫vn±øÓ","MS",229
+"night","NJ21B","49","N","N"," "," ","na±ø´t","MS",229
+"night","PA1A","51","N","N"," "," ","na±øt","MS",230
+"evening","PA1A","51","N","N","after dark"," ","iΩivn±øÓ","MS",230
+"evening","PA1B","52","N","N","6 PM"," ","i∫vn±øÓ","MS",231
+"night","PA1B","52","N","N"," "," ","naæ±øt","MS",231
+"night","PA1C","53","N","N"," "," ","naæ±øt","MS",232
+"evening","PA1C","53","N","N","c. 6 PM"," ","iΩivn±øÓ","MS",232
+"evening","PA1D","54","N","N"," "," ","iΩivn±øn","MS",233
+"night","PA1D","54","N","N"," "," ","na±øt","MS",233
+"night","PA1E!","55!","N","N"," "," ","nµ∫±øt","MS",234
+"evening","PA1E!","55!","N","N","after sundown"," ","iΩivn±øÓ","MS",234
+"evening","PA1F!","56!","N","N"," "," ","i∫vn±øÓ","MS",235
+"night","PA1F!","56!","N","N"," "," ","na±øt","MS",235
+"night","PA1G!","57!","N","N"," "," ","naæ±øt","MS",236
+"evening","PA1G!","57!","N","N","may begin as early as 3:30 or 4 PM, esp. in winter"," ","iΩivn±øÓ","MS",236
+"evening","PA1H!","58!","N","N","c. 7 PM"," ","iΩivn±øÓ","MS",237
+"night","PA1H!","58!","N","N","bedtime"," ","nµ±øΩt","MS",237
+"night","PA2A","59","N","N"," "," ","naæ±øt","MS",238
+"evening","PA2A","59","N","N","sundown"," ","iΩivn±øÓ","MS",238
+"evening","PA2B","60","N","N"," "," ","iΩvn±øÓ","MS",239
+"night","PA2B","60","N","N"," "," ","nµ´º±øt","MS",239
+"night","PA3A","61","N","N"," "," ","naæ±øt","MS",240
+"evening","PA3A","61","N","N","after supper"," ","iΩivn±øÓ","MS",240
+"evening","PA3B","62","N","N"," "," ","iΩivn±øÓ","MS",241
+"night","PA3B","62","N","N"," "," ","na±øt","MS",241
+"night","PA3C","62b","N","N"," "," ","na±øt","MS",242
+"evening","PA3C","62b","N","N"," "," ","i∫vn±øÓ","MS",242
+"evening","PA4A","63","N","N"," "," ","iΩivn±øÓ","MS",243
+"night","PA4A","63","N","N"," "," ","nµº∫±øt","MS",243
+"night","PA4B!","64!","N","N","c. 3:30 PM"," ","na±øt","MS",244
+"evening","PA5A","65(*)","N","N"," "," ","i∫vn±øÓ","MS",245
+"night","PA5A","65(*)","N","N"," "," ","na±øt","MS",245
+"night","PA5B","65b","N","N"," "," ","na±øt","MS",246
+"evening","PA5C","66","N","N"," "," ","±ivn±øÓ","MS",247
+"night","PA5C","66","N","N"," "," ","nµ´º±øt","MS",247
+"night","PA5D","67","N","N"," "," ","na±øt","MS",248
+"evening","PA5D","67","N","N"," "," ","±´ivn±øÓ","MS",248
+"evening","PA5E!","68!","N","N"," "," ","iΩ∫vn±øÓ","MS",249
+"night","PA5E!","68!","N","N"," "," ","na±øt","MS",249
+"night","PA6A","69","N","N"," "," ","na±øΩt","MS",250
+"evening","PA6A","69","N","N"," "," ","i∫ˆn±øÓ","MS",250
+"evening","PA6B","71","N","N"," "," ","i∫vn±øn","MS",251
+"night","PA6B","71","N","N"," "," ","na±øt","MS",251
+"night","PA6C","71b","N","N"," "," ","na±øt","MS",252
+"evening","PA6C","71b","N","N"," "," ","i∫ˆn±øÓ","MS",252
+"evening","PA6D!","72!","N","N"," "," ","i∫v∞›n±øÓ","MS",253
+"night","PA6D!","72!","N","N"," "," ","na±ø{∞}t","MS",253
+"night","PA7A","73","N","N"," "," ","na±øt","MS",254
+"evening","PA7A","73","N","N"," "," ","i∫vn±øÓ","MS",254
+"evening","PA7B","74","N","N"," "," ","i{j}vn±øÓ","MS",255
+"night","PA7B","74","N","N"," "," ","na±øt","MS",255
+"night","PA7C","75","N","N"," "," ","naæ∫±øt","MS",256
+"evening","PA7C","75","N","N"," "," ","i∫ˆn±Ó","MS",256
+"evening","PA7D!","76!","N","N"," "," ","Âi∫vn±øÓ","MS",257
+"night","PA7D!","76!","N","N"," "," ","na±øt","MS",257
+"night","PA8A","77","N","N","dark"," ","na±øt","MS",258
+"evening","PA8A","77","N","N"," "," ","i∫vn±øÓ","MS",258
+"evening","PA8B","78","N","N"," "," ","iΩ{i}vn±øÓ","MS",259
+"night","PA8B","78","N","N","later than `evening'"," ","na±øt","MS",259
+"night","PA8C","79","N","N"," "," ","na±øt","MS",260
+"evening","PA8D!","80!","N","N"," "," ","i∫vn±øÓ","MS",261
+"night","PA8D!","80!","N","N"," "," ","na±øt","MS",261
+"evening","PA9A","83","N","N"," "," ","i∫vn±øÓ","MS",262
+"night","PA9A","83","N","N"," "," ","na±øt","MS",262
+"night","PA9B","83b","N","N"," "," ","na±øt","MS",263
+"evening","PA9B","83b","N","N"," "," ","iΩ∫vn±øÓ","MS",263
+"night","PA9C!","84!","N","N"," "," ","na±øt","MS",264
+"evening","PA9C!","84!","N","N"," "," ","iΩivn±øÓ","MS",264
+"evening","PA10","87","N","N"," "," ","iˆn±Ó","MS",265
+"night","PA10","87","N","N"," "," ","na±øt","MS",265
+"evening","PA11A","89","N","N"," "," ","iΩ{i}vn±øÓ","MS",266
+"night","PA11A","89","N","N"," "," ","na±øt","MS",266
+"night","PA11B","90(*)","N","N"," "," ","na±øt","MS",267
+"evening","PA11B","90(*)","N","N"," "," ","Âi∫vn±øÓ","MS",267
+"night","PA12A","91","N","N"," "," ","na´æ±øt","MS",268
+"evening","PA12A","91","N","N"," "," ","Âi∫vn±øÓ","MS",268
+"evening","PA12B","92","N","N"," "," ","i∫{v}n±øÓ","MS",269
+"night","PA12B","92","N","N"," "," ","na±øt","MS",269
+"evening","PA13A","93","N","N"," "," ","i∫vn±øÓ","MS",270
+"night","PA13A","93","N","N"," "," ","na›´æ±øt","MS",270
+"night","PA13B","94","N","N"," "," ","na±øt","MS",271
+"evening","PA13B","94","N","N"," "," ","iΩivn±øÓ","MS",271
+"night","PA14A","95(*)","N","N"," "," ","na∫±øtî","MS",272
+"evening","PA14A","95(*)","N","N"," "," ","i∫ˆn±øÓ","MS",272
+"evening","PA14B","96","N","N"," "," ","iævn±øÓ","MS",273
+"night","PA14B","96","N","N"," "," ","na±øt","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"evening","PA15A","99","N","N"," "," ","iΩivn±øÓ","MS",275
+"night","PA15A","99","N","N"," "," ","na±øt","MS",275
+"night","PA15B","99b","N","N"," "," ","na´æ±øt","MS",276
+"evening","PA15B","99b","N","N"," "," ","iΩ{i}vn±øÓ","MS",276
+"evening","PA15C!","100!","N","N"," "," ","iΩ{i}vn±øÓ","MS",277
+"night","PA15C!","100!","N","N"," "," ","na›±øt","MS",277
+"night","PA16A","101","N","N"," "," ","na±øt","MS",278
+"evening","PA16A","101","N","N"," "," ","i∫ˆˆn±øÓ","MS",278
+"evening","PA16B","102","N","N"," "," ","i∫vn±øÓ","MS",279
+"night","PA16B","102","N","N"," "," ","naæ±øt","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"evening","PA17A","105","N","N"," "," ","iˆn±Ó","MS",281
+"night","PA17A","105","N","N"," "," ","na±øt","MS",281
+"evening","PA17B","106","N","N"," "," ","i∫vn±Ó","MS",282
+"night","PA17B","106","N","N"," "," ","naæ±øt","MS",282
+"night","PA18A","107","N","N"," "," ","na±øt","MS",283
+"evening","PA18A","107","N","N"," "," ","i∫vn±øÓ","MS",283
+"night","PA18B!","108!","N","N"," "," ","na±øt","MS",284
+"evening","PA18B!","108!","N","N"," "," ","iΩ{i}vn±øÓ","MS",284
+"night","PA19A","113","N","N"," "," ","naæ±øt","MS",285
+"evening","PA19A","113","N","N"," "," ","iΩ{i}vn±øÓ","MS",285
+"night","PA19B","114","N","N"," "," ","naæ±øt","MS",286
+"evening","PA19B","114","N","N"," "," ","iΩ{i}vn±øÓ","MS",286
+"evening","PA20A","115","N","N"," "," ","iΩ{i}vnu∫n","MS",287
+"night","PA20A","115","N","N"," "," ","naΩæ±øt","MS",287
+"evening","PA20B","116","N","N"," "," ","iΩ{i}vn±øΩn","MS",288
+"night","PA20B","116","N","N"," "," ","n•Ω±øt","MS",288
+"evening","PA21A","117","N","N"," "," ","Âi∫vn±øΩn","MS",289
+"night","PA21A","117","N","N"," "," ","n•±øt","MS",289
+"evening","PA21B","118","N","N"," "," ","iΩ∫{v}n±ø›n","MS",290
+"night","PA21B","118","N","N"," "," ","na´æ±øt","MS",290
+"night","PA22A","119","N","N"," "," ","na´æ±øt","MS",291
+"evening","PA22A","119","N","N"," "," ","i∫vn±øn","MS",291
+"night","PA22B","120","N","N"," "," ","na´æ±øt","MS",292
+"evening","PA22B","120","N","N"," "," ","i∫vn±øÓ","MS",292
+"night","PA23A","121","N","N"," "," ","na´æ±øt","MS",293
+"evening","PA23A","121","N","N"," "," ","iΩ{i}vn±øÓ","MS",293
+"night","PA23B","122","N","N"," "," ","na´æ±øt","MS",294
+"evening","PA23B","122","N","Y","[iΩ{i}]: doubtful","FDT","iΩ{i}vn±øÓ","MS",294
+"evening","PA24A","123","N","N"," "," ","iΩvn±øÓ","MS",295
+"night","PA24A","123","N","N"," "," ","na´æ±øt","MS",295
+"evening","PA24B","124","N","N"," "," ","iΩ{i}vn±øÓ","MS",296
+"night","PA24B","124","N","N"," "," ","na´æ±øt","MS",296
+"evening","PA25A","125","N","N"," "," ","i{v}n±øÓ","MS",297
+"night","PA25A","125","N","N"," "," ","na∫±øt","MS",297
+"evening","PA25B","126","N","N"," "," ","iΩ∫vn±øÓ","MS",298
+"night","PA25B","126","N","N"," "," ","na´æ±øt","MS",298
+"night","PA26A","127","N","N"," "," ","na´æ±øt","MS",299
+"evening","PA26A","127","N","N"," "," ","iΩ{i}vn±øΩn","MS",299
+"night","PA26B","128","N","N","dark, later than `evening'"," ","na´æ±øt","MS",300
+"evening","PA26B","128","N","N","before dark"," ","ivn±øÓ","MS",300
+"night","PA27A","131","N","Y"," ","AUX","na´æ±øt","MS",301
+"evening","PA27A","131","N","Y"," ","AUX","iΩvn±øÓ","MS",301
+"night","PA27B","132","N","N"," "," ","na´æ±øt","MS",302
+"evening","PA27B","132","N","N"," "," ","±´ivn±øÓ","MS",302
+"evening","PA28A","135","N","N"," "," ","iΩ∫vn±øÓ","MS",303
+"night","PA28A","135","N","N"," "," ","na±øt","MS",303
+"evening","PA28B!","136!","N","N"," "," ","iΩ{i}vn±øÓ","MS",304
+"night","PA28B!","136!","N","N"," "," ","na±øt","MS",304
+"evening","PA29A","139(*)","N","N"," "," ","i∫vn±øÓ","MS",305
+"night","PA29A","139(*)","N","N"," "," ","na±ø´t","MS",305
+"evening","PA29B","140","N","N"," "," ","ivn±øÓ","MS",306
+"night","PA29B","140","N","N"," "," ","na±øt","MS",306
+"night","PA30A","143","N","N"," "," ","n•Ωº±øt","MS",307
+"evening","PA30A","143","N","N","dusk"," ","ivn±øÓ","MS",307
+"night","PA30B","144","N","N"," "," ","na´æ±øt","MS",308
+"evening","PA30B","144","N","N"," "," ","i∫vn±øÓ","MS",308
+"night","PA31A","145","N","N"," "," ","na´æ±øt","MS",309
+"evening","PA31A","145","N","N"," "," ","ijvn±øÓ","MS",309
+"night","PA31B","146","N","N"," "," ","na´æ±øt","MS",310
+"evening","PA31B","146","N","N"," "," ","i{j}vn±øÓ","MS",310
+"evening","PA32A","147","N","N"," "," ","iΩ{i}vn±øÓ","MS",311
+"night","PA32A","147","N","N"," "," ","na´æ±øt","MS",311
+"evening","PA32B","148","N","N"," "," ","ivn±øn","MS",312
+"night","PA32B","148","N","N"," "," ","na±øt","MS",312
+"night","PA33A","151","N","N"," "," ","na±øt","MS",313
+"night","PA33B","152","N","N"," "," ","na±øt","MS",314
+"evening","PA33B","152","N","N"," "," ","iΩivn±øÓ","MS",314
+"evening","PA34A","155","N","N"," "," ","i∫vn±øÓ","MS",315
+"night","PA34A","155","N","N"," "," ","na±øt","MS",315
+"night","PA34B","156","N","N"," "," ","na±øt","MS",316
+"evening","PA34B","156","N","N"," "," ","iΩivn±øÓ","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"night","PA35A","157","N","N"," "," ","na∫±øt","MS",318
+"evening","PA35B","158(*)","N","N","after 5 PM"," ","ivn±øÓ","MS",319
+"night","PA35B","158(*)","N","N"," "," ","na±ø´t","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"evening","PA36A","159","N","N"," "," ","iΩ{i}vn±øÓ","MS",321
+"night","PA36A","159","N","N"," "," ","na±øt","MS",321
+"evening","PA36B","160","N","N"," "," ","ivn±øÓ","MS",322
+"night","PA36B","160","N","N"," "," ","na´æ±øt","MS",322
+"evening","PA37A","161(*)","N","N","c. 5 or 6 PM"," ","i∫ˆn±øÓ","MS",323
+"night","PA37A","161(*)","N","N"," "," ","naº∫±øt","MS",323
+"evening","PA37B","162","N","N","6 PM"," ","i∫vn±øÓ","MS",324
+"night","PA37B","162","N","N"," "," ","na∫±øt","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"night","PA38A","163","N","N","later than `evening'"," ","na±øt","MS",326
+"evening","PA38A","163","N","N"," "," ","iΩivn±øÓ","MS",326
+"evening","PA38B","164","N","N"," "," ","iΩ{i}vn±øÓ","MS",327
+"night","PA39A","165","N","N"," "," ","na±øt","MS",328
+"evening","PA39A","165","N","N"," "," ","Âivn±øÓ","MS",328
+"evening","PA39B","166","N","N"," "," ","ivn±øÓ","MS",329
+"night","PA39B","166","N","N","later"," ","na±øt","MS",329
+"evening","PA40A","167","N","N","towards sunset"," ","iΩ∫vn±øÓ","MS",330
+"night","PA40A","167","N","N"," "," ","na±øt","MS",330
+"night","PA40B","168","N","N"," "," ","na±øt","MS",331
+"evening","PA40B","168","N","N"," "," ","i∫vn±øÓ","MS",331
+"night","PA41A","171","N","N"," "," ","na›±ø›t","MS",332
+"evening","PA41A","171","N","N"," "," ","i∫vn±øÓ","MS",332
+"evening","PA41B","172","N","N"," "," ","i´∫vn±øÓ","MS",333
+"night","PA41B","172","N","N"," "," ","na±øt","MS",333
+"evening","PA42A","175","N","N"," "," ","iΩivn±øÓ","MS",334
+"night","PA42A","175","N","N"," "," ","na´æ±øt","MS",334
+"night","PA42B","176","N","N"," "," ","naæ±øt","MS",335
+"evening","PA42B","176","N","N","sundown"," ","i∫vn±øÓ","MS",335
+"night","PA43A","177","N","N"," "," ","na´æ±øt","MS",336
+"evening","PA43A","177","N","N","c. 5--6 PM"," ","iΩivn∞Ó","MS",336
+"evening","PA43B","178","N","N"," "," ","iΩivn±øÓ","MS",337
+"night","PA43B","178","N","N"," "," ","na´æ±øt","MS",337
+"evening","PA44A","179","N","N"," "," ","i∫vn±øÓ","MS",338
+"night","PA44A","179","N","N"," "," ","na±øt","MS",338
+"night","PA44B","180","N","N"," "," ","na∫±øt","MS",339
+"evening","PA44B","180","N","N"," "," ","iΩivn±øÓ","MS",339
+"night","PA45A","181","N","N"," "," ","na±øt","MS",340
+"evening","PA45A","181","N","N"," "," ","iΩ{i}vn±øÓ","MS",340
+"night","PA45B","182","N","N"," "," ","na±øt","MS",341
+"night","PA46A","185","N","N"," "," ","naæ±øt","MS",342
+"evening","PA46A","185","N","N"," "," ","iΩivn±øÓ","MS",342
+"evening","PA46B","186","N","N"," "," ","iΩ{i}vn±øÓ","MS",343
+"night","PA46B","186","N","N"," "," ","na±øt","MS",343
+"night","PA47A","189","N","N"," "," ","na´æ±øt","MS",344
+"evening","PA47B","190","N","N"," "," ","iΩivn±øÓ","MS",345
+"night","PA48A","191","N","N"," "," ","na±øt","MS",346
+"evening","PA48A","191","N","N"," "," ","±ivn±øÓ","MS",346
+"evening","PA48B","192","N","N"," "," ","±´ivn±øÓ","MS",347
+"night","PA48B","192","N","N"," "," ","na±øt","MS",347
+"night","PA48C","193","N","N"," "," ","na±øt","MS",348
+"evening","PA48C","193","N","N"," "," ","±ivn±øÓ","MS",348
+"evening","PA49A","194","N","N"," "," ","iΩivn±øÓ","MS",349
+"night","PA49A","194","N","N"," "," ","naæ±øt","MS",349
+"night","PA49B","195","N","N"," "," ","nµº±øt","MS",350
+"evening","PA49B","195","N","N"," "," ","iΩivn±øÓ","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"night","PA50B","197","N","N"," "," ","na±øt","MS",352
+"evening","PA50B","197","N","N"," "," ","iΩ{i}vn±øÓ","MS",352
+"evening","PA50C!","198!","N","N"," "," ","±´ivn±øÓ","MS",353
+"night","PA50C!","198!","N","N"," "," ","na±øt","MS",353
+"night","PA51A","199","N","N"," "," ","na±øt","MS",354
+"evening","PA51A","199","N","N"," "," ","iΩivn±øÓ","MS",354
+"evening","PA51B","200","N","N"," "," ","iΩivn±øÓ","MS",355
+"night","PA51B","200","N","N"," "," ","na±øt","MS",355
+"night","PA52A","201","N","N"," "," ","na´æ±øt","MS",356
+"evening","PA52A","201","N","N"," "," ","±´vn±øÓ","MS",356
+"evening","PA52B!","202!","N","N"," "," ","±ivn±øÓ","MS",357
+"night","PA52B!","202!","N","N"," "," ","na±øt","MS",357
+"evening","PA53A","203","N","N"," "," ","±æivn±øÓ","MS",358
+"evening","PA53B","204","N","N"," "," ","iΩ{i}vn±øÓ","MS",359
+"night","PA54A","205","N","N"," "," ","na±øt","MS",360
+"evening","PA54A","205","N","N"," "," ","Â±´ivn±øÓ","MS",360
+"evening","PA54B","206","N","N"," "," ","Â±´ivn±øÓ","MS",361
+"night","PA54B","206","N","N"," "," ","na±øt","MS",361
+"night","PA55A","207","N","N"," "," ","na±øt","MS",362
+"evening","PA55A","207","N","N"," "," ","±ivn±øÓ","MS",362
+"evening","PA55B","208","N","N"," "," ","±´ivn±øÓ","MS",363
+"night","PA56A","211(*)","N","N"," "," ","na±øt","MS",364
+"evening","PA56A","211(*)","N","N"," "," ","iΩ{i}vn±øÓ","MS",364
+"evening","PA56B","212","N","N"," "," ","iΩivn±øÓ","MS",365
+"night","PA56B","212","N","N"," "," ","na±øt","MS",365
+"evening","PA57A","213","N","N"," "," ","iΩivn±øÓ","MS",366
+"night","PA57A","213","N","N"," "," ","na±ø´t","MS",366
+"night","PA57B","214","N","N"," "," ","na±øt","MS",367
+"evening","PA57B","214","N","N"," "," ","iΩ{i}vn±øÓ","MS",367
+"night","PA58A","215","N","N"," "," ","na±øt","MS",368
+"evening","PA58A","215","N","N"," "," ","iΩivn±øÓ","MS",368
+"evening","PA58B","216","N","N"," "," ","±ivn±øÓ","MS",369
+"night","PA59A","219","N","N"," "," ","na±øt","MS",370
+"evening","PA59A","219","N","N"," "," ","iΩ{i}vn±øÓ","MS",370
+"evening","PA59B","220","N","N"," "," ","iΩ{i}vn±øÓ","MS",371
+"night","PA59B","220","N","N"," "," ","na±øt","MS",371
+"night","PA60A","221","N","N"," "," ","na›´æ±ø›t","MS",372
+"night","PA60B","222","N","N"," "," ","na´æ±øt","MS",373
+"evening","PA60B","222","N","N"," "," ","iΩivn±øÓ","MS",373
+"night","PA61A","223","N","N"," "," ","na´æ±øt","MS",374
+"evening","PA61B","224","N","N"," "," ","iΩivn±øÓ","MS",375
+"night","PA61B","224","N","N"," "," ","na›´æ±ø›t","MS",375
+"night","PA62A","229","N","N"," "," ","na±øt","MS",376
+"evening","PA62A","229","N","N"," "," ","iΩivn±øÓ","MS",376
+"evening","PA62B","230","N","N"," "," ","iΩivn±øÓ","MS",377
+"night","PA62B","230","N","N"," "," ","na±øt","MS",377
+"night","PA63A","231","N","N"," "," ","na´æ±øt","MS",378
+"evening","PA63A","231","N","N"," "," ","iΩ{i}vn±øÓ","MS",378
+"evening","PA63B","232","N","N"," "," ","iΩjvn±øÓ","MS",379
+"night","PA63B","232","N","N"," "," ","na±øt","MS",379
+"night","PA64A","233","N","N"," "," ","na´æ±øt","MS",380
+"evening","PA64A","233","N","N"," "," ","iΩ{j}vn±øÓ","MS",380
+"evening","PA64B","234","N","N"," "," ","i{j}vn±øÓ","MS",381
+"night","PA64B","234","N","N"," "," ","n•±øt","MS",381
+"evening","PA65A","237","N","N"," "," ","±ivn±øn","MS",382
+"night","PA65B","238","N","N"," "," ","na±øt","MS",383
+"evening","PA65B","238","N","N"," "," ","±´ivn±øÓ","MS",383
+"night","PA66A","239","N","N"," "," ","na´æ±øt","MS",384
+"evening","PA66A","239","N","N"," "," ","±ivn±øÓ","MS",384
+"evening","PA66B","240","N","N"," "," ","iΩivn±øÓ","MS",385
+"night","PA66B","240","N","N"," "," ","na´æ±øt","MS",385
+"evening","PA67A","243","N","N"," "," ","iΩ{i}vn±øÓ","MS",386
+"night","PA67A","243","N","N"," "," ","n•±øt","MS",386
+"night","PA67B","244","N","N"," "," ","n•±øt","MS",387
+"evening","PA67B","244","N","N"," "," ","iΩ{i}vn±øÓ","MS",387
+"night","WV1!","88!","N","N"," "," ","n•Ω±øt","MS",388
+"night","WV2","89","N","N"," "," ","na´æ±øt","MS",389
+"night","WV3","91","N","N"," "," ","naæ±øt","MS",390
+"good night","WV3","91","I","N","greeting; rare"," ","gπød$n•Ωº±øt","MS",390
+"night","WV4A","92","N","N"," "," ","naæ±øt","MS",391
+"night","WV4B","93","N","N"," "," ","n•Ωº±øt","MS",392
+"night","WV5","94","N","N"," "," ","na±øt","MS",393
+"night","WV6A","95","N","N"," "," ","naæ∫±øt","MS",394
+"night","WV6B","96","N","N"," "," ","naæ±øt","MS",395
+"night","WV7A","97","N","N"," "," ","naæ∫±øt","MS",396
+"evening","WV7B","98","N","N"," "," ","iΩivn±øÓ","MS",397
+"night","WV7B","98","N","N","6 PM; dark"," ","naæ±øt","MS",397
+"night","WV8A","97b","N","N"," "," ","na±øt","MS",398
+"night","WV8B","98b","N","N"," "," ","na±øt","MS",399
+"night","WV9A","301","N","N"," "," ","na±øΩt","MS",400
+"night","WV9B","302","N","N"," "," ","naæ±øt","MS",401
+"night","WV10A","303","N","N"," "," ","na±øt","MS",402
+"night","WV10B","303b","N","N"," "," ","nµº∫±øt","MS",403
+"night","WV10C","304","N","N"," "," ","naæ±øt","MS",404
+"evening","WV10C","304","N","N","c. 5 PM"," ","i∫vn∞n","MS",404
+"evening","WV11A","305","N","N"," "," ","iΩivn±øÓ","MS",405
+"night","WV11A","305","N","N"," "," ","na∫±øt","MS",405
+"night","WV11B!","306!","N","N"," "," ","na∫±øt","MS",406
+"evening","WV11B!","306!","N","N","toward sundown"," ","i∫vn±øÓ","MS",406
+"evening","WV12A","307","N","N","c. 7 PM in summer"," ","iΩ{i}vn±øÓ","MS",407
+"night","WV12A","307","N","N"," "," ","na±øt","MS",407
+"night","WV12B","308","N","N"," "," ","na∫±øt","MS",408
+"evening","WV12B","308","N","N"," "," ","ivn±øÓ","MS",408
+"night","WV13A","309","N","N"," "," ","na±øt","MS",409
+"evening","WV13B","310","N","N","usually c. 6 PM; occasionally = afternoon"," ","iΩ{i}vn±øÓ","MS",410
+"night","WV13B","310","N","N"," "," ","na±øt","MS",410
+"night","WV14A","311","N","N"," "," ","na±øt","MS",411
+"night","WV14B","312","N","N"," "," ","na±øΩt","MS",412
+"evening","WV14B","312","N","N"," "," ","i∫vn±øÓ","MS",412
+"night","WV15A","313","N","N"," "," ","na±øt","MS",413
+"evening","WV15B","314","N","N","c. 6 PM"," ","iΩ{i}vn±øÓ","MS",414
+"night","WV15B","314","N","N"," "," ","na±øt","MS",414
+"night","WV16A","315","N","N"," "," ","na∫±ø›t","MS",415
+"night","WV16B","316","N","N"," "," ","na≤´t","MS",416
+"evening","WV16B","316","N","N","c. 5 PM"," ","i∫vn±øÓ","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"night","WV17B","317b","N","N"," "," ","na±øΩt","MS",418
+"evening","WV17C","318","N","N","after c. 4 PM"," ","i∫vn±øÓ","MS",419
+"night","WV17C","318","N","N"," "," ","na›´æ±øt","MS",419
+"night","WV18A","319","N","N"," "," ","na∫≤´t","MS",420
+"night","WV18B","320","N","N"," "," ","na∫±øΩt","MS",421
+"night","WV19A","321","N","N"," "," ","naæ∫±øt","MS",422
+"night","WV19B","322","N","N"," "," ","na±ø´t","MS",423
+"night","WV20A","323","N","N"," "," ","na±øt","MS",424
+"night","WV20B","324","N","N"," "," ","na∫≤t","MS",425
+"night","WV21A","325","N","N"," "," ","na±øt","MS",426
+"night","WV21B","326","N","N"," "," ","na≤´t","MS",427
+"night","WV22A","327","N","N"," "," ","na›´æ±øt","MS",428
+"night","WV22B","328","N","N"," "," ","na´æ±øt","MS",429
+"night","WV23A","331","N","N"," "," ","n•±øt","MS",430
+"night","WV23B","332","N","N"," "," ","na´æ∫±øt","MS",431
+"night","WV24A","335","N","N"," "," ","n•Ω±øt","MS",432
+"night","WV24B","336","N","N"," "," ","na∫±øt","MS",433
+"night","WV25A","337","N","N"," "," ","na∫±øt","MS",434
+"night","WV25B","338","N","N"," "," ","na±øt","MS",435
+"night","WV26A","339","N","N"," "," ","na∫±øt","MS",436
+"night","WV26B","340","N","N"," "," ","na∫±øt","MS",437
+"night","WV27A","341","N","N"," "," ","naæ±øt","MS",438
+"night","WV27B","342","N","N"," "," ","na∫±øt","MS",439
+"night","WV28A","343","N","N"," "," ","na∫±øt","MS",440
+"night","WV28B","344","N","N"," "," ","na∫≤´t","MS",441
+"night","WV29A","345","N","N"," "," ","na∫±øt","MS",442
+"night","WV29B","346","N","N"," "," ","na∫±øt","MS",443
+"night","WV30A","347","N","N"," "," ","na∫≤t","MS",444
+"night","WV30B","348","N","N"," "," ","na∫±øΩt","MS",445
+"night","WV31A","349","N","N"," "," ","na∫≤æt","MS",446
+"night","WV31B","350","N","N"," "," ","na∫≤t","MS",447
+"night","WV32A","353","N","N"," "," ","na∫≤t","MS",448
+"night","WV32B","354","N","N"," "," ","naæ∫≤t","MS",449
+"night","WV33A","355","N","N"," "," ","nµº∫≤t","MS",450
+"night","WV33B","356","N","N"," "," ","na∫±øt","MS",451
+"night","WV34A","359","N","N"," "," ","na∫±øΩt","MS",452
+"night","WV34B","360","N","N"," "," ","na∫±øΩt","MS",453
+"night","WV35A","361","N","N"," "," ","na∫≤´t","MS",454
+"night","WV35B","362","N","N"," "," ","na∫±øΩt","MS",455
+"night","WV36A","363","N","N"," "," ","na∫±øΩt","MS",456
+"night","WV36B","364","N","N"," "," ","na∫±øt","MS",457
+"night","WV37A","365","N","N"," "," ","na∫±øt","MS",458
+"night","WV37B!","366!","N","N"," "," ","na›±øt","MS",459
+"night","WV38A","367","N","N"," "," ","na∫±øΩt","MS",460
+"night","WV38B","368","N","N"," "," ","na∫±øΩt","MS",461
+"night","WV39A","369","N","N"," "," ","na∫±øt","MS",462
+"night","WV39B","370","N","N"," "," ","na±øt","MS",463
+"night","WV39C!","371!","N","N"," "," ","na±øt","MS",464
+"evening","WV39C!","371!","N","N","after supper"," ","iΩivn±øÓ","MS",464
+"night","WV40A","373","N","N"," "," ","naæ∫±øΩt","MS",465
+"night","WV40B","374","N","N"," "," ","nµº±øΩt","MS",466
+"night","WV41A","375","N","N"," "," ","na∫≤t","MS",467
+"night","WV41B","376","N","N"," "," ","na±øt","MS",468
+"night","WV42A","377","N","N"," "," ","naæ∫±øt","MS",469
+"evening","WV42A","377","N","N","c. 5 PM"," ","iΩ∫vn±øÓ","MS",469
+"night","WV42B","378","N","N"," "," ","na±øt","MS",470
+"night","WV43A","381","N","N"," "," ","na±øt","MS",471
+"night","WV43B","382","N","N"," "," ","na∫±øΩt","MS",472
+"night","WV44A","383","N","N"," "," ","na±øt","MS",473
+"night","WV44B","384","N","N"," "," ","na∫±øt","MS",474
+"evening","WV45A","385","N","N","c. 6 PM"," ","iæ∫vn±øÓ","MS",475
+"night","WV45A","385","N","N"," "," ","na±øt","MS",475
+"night","WV45B","386","N","N"," "," ","naæ±øt","MS",476
+"night","WV46A","387","N","N"," "," ","na∫±øΩt","MS",477
+"night","WV46B","388","N","N"," "," ","naæ±øt","MS",478
+"night","WV47A","389","N","N"," "," ","naæ±øt","MS",479
+"night","WV47B","390","N","N"," "," ","na±øt","MS",480
+"night","WV48A","391","N","N"," "," ","na∫±øt","MS",481
+"evening","WV48A","391","N","N","c. 6--7 PM"," ","iΩ{i}vn±øÓ","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"night","WV48D","392b","N","N"," "," ","naæ∫±øt","MS",484
+"evening","WV49A","393","N","N"," "," ","iæivn±øÓ","MS",485
+"night","WV49A","393","N","N"," "," ","na∫≤´t","MS",485
+"evening","WV49B","394","N","N"," "," ","iΩivn±øÓ","MS",486
+"night","WV50A","395","N","N"," "," ","na±øt","MS",487
+"evening","WV50B","396","N","N","c. 6 PM"," ","i{j}vn±øÓ","MS",488
+"night","WV50B","396","N","N"," "," ","na∫±øt","MS",488
+"NR","WV51A","261"," ","N"," "," "," ","MS",489
+"evening","WV51B","262","N","Y","after the old 4 o'clock supper","OLD","i∫vn±øÓ","MS",490
+"night","WV51B","262","N","N"," "," ","na±øt","MS",490
+"night","WV52A","258","N","N"," "," ","na∫±øt","MS",491
+"night","WV52B","259","N","N"," "," ","na±øt","MS",492
+"NR","WV52C!","260!"," ","N"," "," "," ","MS",493
+"night","WV53A","257","N","N"," "," ","na›±ø›t","MS",494
+"evening","WV53A","257","N","N","at dusk, formerly after noon"," ","i∫vn±øÓ","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"night","WV53C!","257c!","N","N"," "," ","na±øt","MS",496
+"evening","WV54A","255","N","N"," "," ","iΩivn±øÓ","MS",497
+"night","WV54A","255","N","N"," "," ","na±øt","MS",497
+"evening","WV54B","256","N","N"," "," ","iΩivn±øÓ","MS",498
+"night","WV54B","256","N","N"," "," ","na±øt","MS",498
+"night","DE1A","11","N","N"," "," ","na±øt","MS",499
+"evening","DE1A","11","N","N","at dark"," ","iΩivn±øÓ","MS",499
+"night","DE1B","12","N","N"," "," ","na±øt","MS",500
+"evening","DE1B","12","N","N","at dark; rare"," ","iΩivn±øÓ","MS",500
+"evening","DE1C!","13!","N","N","after dark"," ","iΩivn±øÓ","MS",501
+"night","DE1C!","13!","N","N","= whole night"," ","na±øt","MS",501
+"night","DE2A","15(*)","N","N"," "," ","nµº±øt","MS",502
+"evening","DE2B","16","N","N","early darkness"," ","iΩivn±øÓ","MS",503
+"night","DE2B","16","N","N","all darkness"," ","na´æ±øt","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"night","DE3A","18","N","N"," "," ","naæ±øt","MS",505
+"night","DE3B","19","N","N"," "," ","naæ±øt","MS",506
+"night","DE3C!","17!","N","N"," "," ","na±øt","MS",507
+"evening","DE4","20","N","N","after dark"," ","i∫vn±øΩn","MS",508
+"night","DE4","20","N","N","later than `evening'"," ","naæ±øt","MS",508
+"night","DE5A","21","N","N","= after sundown"," ","n•Ω±øt","MS",509
+"evening","DE5A","21","N","N"," "," ","iΩæjvn±øÓ","MS",509
+"night","DE5B","22","N","N"," "," ","na±øt","MS",510
+"night","DE6A","23","N","N"," "," ","naæ±øt","MS",511
+"night","DE6B","24","N","N"," "," ","na∫±øt","MS",512
+"night","MD1A","27","N","N"," "," ","na±øt","MS",513
+"evening","MD1B","28","N","N"," "," ","ivn±øÓ","MS",514
+"night","MD1B","28","N","N","after 8 PM"," ","na±øt","MS",514
+"night","MD2A","31a","N","N"," "," ","na´æ±øt","MS",515
+"evening","MD2B","32","N","N"," "," ","i∫vn±øÓ","MS",516
+"night","MD2B","32","N","N","after supper, after dark"," ","na´æ±øt","MS",516
+"night","MD3A","33","N","N"," "," ","n•Ω±øt","MS",517
+"evening","MD3B","34","N","N"," "," ","iΩivn±øΩn","MS",518
+"night","MD3B","34","N","N","after supper, after dark"," ","na´æ±øt","MS",518
+"night","MD4A","35b","N","N"," "," ","na´æ±øt","MS",519
+"night","MD4B","35","N","N"," "," ","na´æ∫±øt","MS",520
+"evening","MD4C","36","N","N"," "," ","ÁiΩjvn±øÓ","MS",521
+"night","MD5A","37","N","N"," "," ","n•Ωæ±ø´t","MS",522
+"night","MD5B","38","N","N"," "," ","na´æ±øt","MS",523
+"night","MD6A","39(*)","N","N"," "," ","n•Ω∫±øt","MS",524
+"night","MD6B","40","N","N"," "," ","n•Ωº±ø´t","MS",525
+"night","MD7A","41","N","N"," "," ","nµ´±øt","MS",526
+"night","MD7B","41b","N","N"," "," ","n•±øt","MS",527
+"evening","MD7B","41b","N","N","after sunset"," ","iΩvn±øÓ","MS",527
+"night","MD7C!","42!","N","N"," "," ","n•Ω±øt","MS",528
+"night","MD8A","43","N","N"," "," ","na´æ±øt","MS",529
+"night","MD8B","44","N","N"," "," ","n•±øt","MS",530
+"night","MD9N","N46","N","N"," "," ","n•±øt","MS",531
+"night","MD9A","45","N","N"," "," ","n•±øt","MS",532
+"night","MD9B","46","N","N"," "," ","n•±øt","MS",533
+"night","MD10A","49","N","N"," "," ","naæ±øt","MS",534
+"night","MD10B","50","N","N"," "," ","n•Ω±øt","MS",535
+"night","MD11","51","N","N"," "," ","naæ±øt","MS",536
+"night","MD12A","52","N","N"," "," ","naæ±øt","MS",537
+"night","MD12B","53","N","N"," "," ","nµ´±øt","MS",538
+"night","MD13A","54(*)","N","N"," "," ","nµ±øt","MS",539
+"evening","MD13A","54(*)","N","Y"," ","NEW","i∫vn±øÓ","MS",539
+"evening","MD13B","55","N","N","begins at 6 PM"," ","i∫vn±øÓ","MS",540
+"night","MD13B","55","N","N","later than `evening', after 9 PM;","RN1","n•Ω±øt","MS",540
+" ","MD13B","55"," "," ","as a child, used for after 6 PM","RN2"," ","MS",540
+"night","MD13C","56","N","N","after dark"," ","na´æ±øt","MS",541
+"evening","MD13C","56","N","N","after supper"," ","ivn±øÓ","MS",541
+"NR","MD13D!","57!"," ","N"," "," "," ","MS",542
+"evening","MD13E!","58!","N","Y"," ","NEW","iΩ∫vn±øÓ","MS",543
+"night","MD13E!","58!","N","N"," "," ","nµ´º±øt","MS",543
+"evening","MD13F!","59!","N","N"," "," ","iΩivn±øÓ","MS",544
+"night","MD13F!","59!","N","N"," "," ","nµº±øΩt","MS",544
+"NR","MD13G"," "," ","N"," "," "," ","MS",545
+"night","MD14","61(*)","N","N"," "," ","nµº±øΩt","MS",546
+"night","MD15A","62","N","N"," "," ","n•±øt","MS",547
+"night","MD15B","63","N","N"," "," ","n•Ωº±øt","MS",548
+"night","MD16","64","N","N"," "," ","nµ´º±øt","MS",549
+"good night","MD16","64","I","N","greeting"," ","gπd$Ânµ±øt","MS",549
+"night","MD17A","65","N","N"," "," ","na´æ±øt","MS",550
+"night","MD17B","66","N","N"," "," ","na´æ±øt","MS",551
+"night","MD18A","67","N","N"," "," ","n•Ωº±øt","MS",552
+"night","MD18B","68","N","N"," "," ","n•±øt","MS",553
+"night","MD19A","69","N","N"," "," ","n•±øt","MS",554
+"night","MD19B","70","N","N"," "," ","n•Ωº±øt","MS",555
+"night","MD20A","71","N","N"," "," ","n•±øt","MS",556
+"good night","MD20A","71","I","N","greeting"," ","gπd$Ân•±øt","MS",556
+"night","MD20B","72","N","N"," "," ","n•±øt","MS",557
+"evening","MD20C!","73!","N","N"," "," ","i∫vn±øΩn","MS",558
+"night","MD21A","75","N","N"," "," ","n•±øt","MS",559
+"night","MD21B","76","N","N"," "," ","n•±øt","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"night","MD22M","N78","N","N"," "," ","n•±øt","MS",562
+"night","MD22A","77","N","N"," "," ","n•±øt","MS",563
+"good night","MD22A","77","I","N","greeting"," ","gπød$n•±øt","MS",563
+"night","MD22B","78","N","N"," "," ","n•Ωº±øt","MS",564
+"good night","MD22B","78","I","N","greeting"," ","gπd$Ân•±øt","MS",564
+"night","MD22C!","79!","N","N"," "," ","n•±øt","MS",565
+"night","MD23A","80b","N","N"," "," ","n•±øt","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"night","MD23C","81","N","N"," "," ","n•Ω±øt","MS",568
+"night","MD24","82","N","N"," "," ","n•´±øt","MS",569
+"night","MD25","84","N","N"," "," ","na±øt","MS",570
+"night","MD26A","83","N","N"," "," ","n•Ωæ±øt","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"night","MD27A","85","N","N"," "," ","naæ∫±øt","MS",573
+"night","MD27B","86","N","N"," "," ","na±øt","MS",574
+"evening","MD27B","86","N","N","after 6 PM"," ","i∫vn±øÓ","MS",574
+"night","DC1A","99","N","N"," "," ","naæ±øt","MS",575
+"evening","DC1A","99","N","Y"," ","NEW","iΩ{∞´}vn∞´n","MS",575
+"night","DC1B!","100!","N","N"," "," ","na´æ±øt","MS",576
+"night","VA1!","101!","N","N"," "," ","n•±øt","MS",577
+"evening","VA1!","101!","N","N"," "," ","i∫vn±øÓ","MS",577
+"night","VA2A","103","N","N"," "," ","n•Ωº±øt","MS",578
+"evening","VA2A","103","N","N","for the last 25 years"," ","i∫vn±øÓ","MS",578
+"good night","VA2A","103","I","N","greeting"," ","gπd$Ân•º±øt","MS",578
+"night","VA2B","104","N","N"," "," ","n•±øt","MS",579
+"night","VA3A","105(*)","N","N"," "," ","nµ´±øt","MS",580
+"night","VA3B","106","N","N"," "," ","n•±øt","MS",581
+"evening","VA3B","106","N","Y"," ","NEW","i∫{j}vn±øÓ","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"night","VA4N","N109","N","N"," "," ","n•æ±øt","MS",583
+"night","VA5A","107","N","N"," "," ","n•›´º±øt","MS",584
+"evening","VA5B","108","N","Y"," ","NEW","i∫{j}vn±øΩn","MS",585
+"night","VA5B","108","N","N"," "," ","n•±øt","MS",585
+"night","VA6A","113","N","N"," "," ","n•±øt","MS",586
+"night","VA6B","114","N","N"," "," ","n•±øt","MS",587
+"night","VA7A","121","N","N"," "," ","n•±øt","MS",588
+"night","VA7B","122","N","N"," "," ","n•±øt","MS",589
+"night","VA8A","123","N","N"," "," ","n•±øt","MS",590
+"good night","VA8A","123","I","N","greeting"," ","gπd$Ân•±øt","MS",590
+"night","VA8B","124","N","N"," "," ","n•›´±øt","MS",591
+"night","VA8C!","125!","N","N","usually"," ","n•±øt","MS",592
+"evening","VA8C!","125!","N","N"," "," ","i∫vn±øÓ","MS",592
+"night","VA9A","117","N","N"," "," ","n•±øt","MS",593
+"good night","VA9A","117","I","N","greeting"," ","gπd$n•±øt","MS",593
+"night","VA9B!","118!","N","N"," "," ","n•±øt","MS",594
+"night","VA10A","127","N","N"," "," ","n•±øt","MS",595
+"night","VA10B","128","N","N"," "," ","n•±øt","MS",596
+"night","VA11A","129","N","N"," "," ","n•±øt","MS",597
+"good night","VA11A","129","I","N","greeting"," ","gπd$n•±øt","MS",597
+"night","VA11B","130","N","N"," "," ","n•±øt","MS",598
+"night","VA12N","N131","N","N"," "," ","n•±øt","MS",599
+"night","VA12A","131","N","N"," "," ","n•›æ±øt","MS",600
+"night","VA12B!","132!","N","N"," "," ","n•›´±øt","MS",601
+"night","VA13A","133","N","N"," "," ","n•±øt","MS",602
+"evening","VA13B","134","N","N"," "," ","i∫vn±øΩn","MS",603
+"night","VA13B","134","N","Y"," ","OLD","n•±øt","MS",603
+"night","VA14A","135","N","N"," "," ","n•±øt","MS",604
+"good night","VA14A","135","I","N","greeting"," ","gπø´d$Ân•±øt","MS",604
+"night","VA14B","136","N","N"," "," ","n•±øt","MS",605
+"good night","VA14B","136","I","N","greeting"," ","gπd$n•±øt","MS",605
+"night","VA14C","137","N","N"," "," ","n•Ω±øt","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"night","VA15A","139","N","N"," "," ","n•›±øt","MS",608
+"night","VA15B","140","N","N"," "," ","n•±øt","MS",609
+"night","VA16A","141","N","N"," "," ","n•±øt","MS",610
+"night","VA16B","142","N","N"," "," ","n•æ±øt","MS",611
+"night","VA17A","143","N","N"," "," ","n•±øt","MS",612
+"night","VA17B","144","N","N"," "," ","n•±øt","MS",613
+"night","VA18","145","N","N"," "," ","n•›´±øt","MS",614
+"night","VA19A","146","N","N"," "," ","nµ´æ±øt","MS",615
+"night","VA19A","146","N","N"," "," ","nµ´æ∫±øt","MS",615
+"night","VA19B","147","N","N"," "," ","n•æ±øt","MS",616
+"night","VA19C!","148!","N","N"," "," ","n•±øt","MS",617
+"night","VA20A","149","N","N"," "," ","n•æ±øt","MS",618
+"evening","VA20B","150(*)","N","N"," "," ","i∫vn±øn","MS",619
+"night","VA20B","150(*)","N","Y"," ","OLD","n•±øt","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"night","VA21N","N153","N","N"," "," ","n•±øt","MS",621
+"night","VA21A","153","N","N"," "," ","n•±ø´t","MS",622
+"good night","VA21A","153","I","N","greeting"," ","ıgπd$Ân•±øt","MS",622
+"night","VA21B","154","N","N"," "," ","n•±øt","MS",623
+"night","VA22","155","N","N"," "," ","n•±øt","MS",624
+"night","VA23A","156","N","N"," "," ","na´æ±øt","MS",625
+"night","VA23B","157","N","N"," "," ","n•´±øt","MS",626
+"night","VA24","159","N","N"," "," ","n•±øt","MS",627
+"night","VA25","160(*)","N","N"," "," ","na´æ±øt","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"night","VA26B","161","N","N"," "," ","n•Ω±øt","MS",630
+"night","VA26C","162","N","N"," "," ","n•Ω±øt","MS",631
+"night","VA27","163(*)","N","N"," "," ","n•Ωº±øt","MS",632
+"night","VA27","163(*)","N","N"," "," ","na´æ±øt","MS",632
+"night","VA28A","164","N","N"," "," ","na´æ±øt","MS",633
+"night","VA28B","165","N","N"," "," ","na´æ±øt","MS",634
+"night","VA29","166","N","N"," "," ","n•±øt","MS",635
+"night","VA30A","167","N","N"," "," ","n•±ø´t","MS",636
+"night","VA30A","167","N","N"," "," ","n•∫iøΩt","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"night","VA30C!","168!","N","Y","as a child","OLD","n•Ω±øt","MS",638
+"evening","VA30C!","168!","N","N"," "," ","iΩ∫vn±øΩn","MS",638
+"evening","VA30D!","169!","N","Y"," ","NEW","ivn±øÓ","MS",639
+"night","VA30D!","169!","N","N"," "," ","n•±øt","MS",639
+"night","VA30E!","170!","N","N"," "," ","n•±øt","MS",640
+"NR","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"night","VA31B","172","N","N"," "," ","n•±øt","MS",642
+"night","VA31C"," ","N","N"," "," ","n•±øt","MS",643
+"night","VA32!","175!","N","N"," "," ","n•±øt","MS",644
+"night","VA33A","173","N","N"," "," ","n•Ω±øt","MS",645
+"night","VA33B","174","N","N"," "," ","n•±øt","MS",646
+"night","VA34A","177(*)","N","N"," "," ","n•´±øt","MS",647
+"night","VA34B","178","N","N"," "," ","n•±øt","MS",648
+"night","VA35A","179","N","N"," "," ","n•±øt","MS",649
+"night","VA35B","180","N","N"," "," ","n•±øt","MS",650
+"night","VA36A","181","N","N"," "," ","n•±øt","MS",651
+"night","VA36B","182","N","N"," "," ","n•Ω±ø´t","MS",652
+"night","VA37","183","N","N"," "," ","n•±øt","MS",653
+"night","VA38","185","N","N"," "," ","n•±øt","MS",654
+"good night","VA38","185","I","Y","greeting","SUG/HRD/OLD","gπd$n•±øt","MS",654
+"night","VA39!","186!","N","N"," "," ","n•±øt","MS",655
+"night","VA40A","187","N","N"," "," ","n•æ∫±øt","MS",656
+"night","VA40B","188","N","N"," "," ","n•Ω±øt","MS",657
+"night","VA41A","191","N","N"," "," ","n•±øt","MS",658
+"night","VA41B","192","N","N"," "," ","n•±øt","MS",659
+"night","VA42A","193(*)(**)","N","N"," "," ","n•›´±øt","MS",660
+"night","VA42B","194","N","N"," "," ","n•±øt","MS",661
+"night","VA43N","N195","N","N"," "," ","n•´±øt","MS",662
+"night","VA43A","195","N","N"," "," ","n•±ø´t","MS",663
+"night","VA43B","196","N","N"," "," ","n•´±øt","MS",664
+"night","VA44A","199","N","N"," "," ","n•´±øt","MS",665
+"night","VA44B","200","N","N"," "," ","n•±øt","MS",666
+"night","VA45A","201","N","N"," "," ","n•±øt","MS",667
+"night","VA45B","202","N","N"," "," ","n•±øt","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"night","VA46A","207","N","N"," "," ","n∞±øt","MS",670
+"good night","VA46A","207","I","N","greeting"," ","gπd$n•±øt","MS",670
+"evening","VA46B!","208!","N","Y"," ","NEW","i∫{j}vn±øÓ","MS",671
+"night","VA46B!","208!","N","N"," "," ","n•±øt","MS",671
+"night","VA47","211","N","N"," "," ","n•´±øt","MS",672
+"good night","VA47","211","I","N","greeting"," ","gπd$Ân•´±øt","MS",672
+"night","VA48A","213(*)","N","N"," "," ","n•±øt","MS",673
+"night","VA48B","214","N","N"," "," ","n•Ω±øt","MS",674
+"night","VA49A","215","N","N"," "," ","n•´±øt","MS",675
+"night","VA49B","216","N","N"," "," ","n•±øt","MS",676
+"night","VA50A","217","N","N"," "," ","n•±øt","MS",677
+"night","VA50B","218","N","N"," "," ","n•±øt","MS",678
+"night","VA51A","219","N","N"," "," ","n•±øt","MS",679
+"night","VA51B","220(*)","N","N"," "," ","n•±øt","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"evening","VA52A","224","N","N","until dark"," ","i∫{j}vn±øÓ","MS",682
+"night","VA52A","224","N","N","after dark"," ","n•±øt","MS",682
+"night","VA52B","225","N","N"," "," ","nµ´±øΩt","MS",683
+"night","VA52C!","226!","N","N"," "," ","n•Ω±øt","MS",684
+"night","VA53A","227","N","N"," "," ","na±øΩt","MS",685
+"good night","VA53A","227","I","N","greeting; occasionally"," ","gπºd$Âna±øΩt","MS",685
+"night","VA53B","228","N","N"," "," ","na´æ±øt","MS",686
+"night","VA54A","229","N","N"," "," ","n•±øt","MS",687
+"night","VA54B","230","N","N"," "," ","na´æ±øt","MS",688
+"evening","VA54B","230","N","N"," "," ","iΩ∫vn±øΩn","MS",688
+"night","VA55A","233(*)","N","N"," "," ","na´æ±øt","MS",689
+"good night","VA55A","233(*)","I","N","greeting"," ","gπd$Ânµ´º±øt","MS",689
+"night","VA55B","234(*)","N","N"," "," ","na´æ±øt","MS",690
+"night","VA56A","237","N","N"," "," ","na±øt","MS",691
+"night","VA56B","238","N","N"," "," ","n•±øt","MS",692
+"night","VA57A","239","N","N"," "," ","n•±øt","MS",693
+"night","VA57B","240","N","N"," "," ","n•±øt","MS",694
+"night","VA58","241(*)","N","N"," "," ","n•±øt","MS",695
+"night","VA59N","N241","N","N"," "," ","n∞±ø´t","MS",696
+"night","VA59A","242","N","N"," "," ","n•Ω±øt","MS",697
+"night","VA59B!","243!","N","N"," "," ","n•±øt","MS",698
+"night","VA60","244(*)","N","N"," "," ","n•´±øt","MS",699
+"night","VA61A","245(*)","N","N"," "," ","n•±øt","MS",700
+"good night","VA61A","245(*)","I","N","greeting"," ","gπºd$Ân•±øt","MS",700
+"evening","VA61B!","246!","N","Y"," ","NEW","i∫{j}vn±øÓ","MS",701
+"night","VA61B!","246!","N","N","natural"," ","n•±øt","MS",701
+"NR","VA61C"," "," ","N"," "," "," ","MS",702
+"night","VA62A","247(*)","N","N"," "," ","n•±øt","MS",703
+"night","VA62B","248","N","N"," "," ","n•±øt","MS",704
+"night","VA63A","251","N","N"," "," ","na´æ±øt","MS",705
+"good night","VA63A","251","I","N","greeting"," ","gπd$Ân•Ω±øt","MS",705
+"night","VA63B","252","N","N"," "," ","na´æ∫iΩæt","MS",706
+"night","VA64A","255","N","N"," "," ","n•Ωº±øt","MS",707
+"good night","VA64A","255","I","N","greeting"," ","gπºd$n•º±øt","MS",707
+"night","VA64B","256","N","N"," "," ","na´æ±øt","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"night","VA65B","258","N","N"," "," ","n•Ω±øt","MS",710
+"night","VA65C!","259!","N","N"," "," ","na±øt","MS",711
+"night","VA66A","261","N","N"," "," ","na´æ±øt","MS",712
+"good night","VA66A","261","I","N","greeting"," ","gπød$na´æ±øt","MS",712
+"night","VA66B","262","N","N"," "," ","na´æ±øt","MS",713
+"night","VA67A","267","N","N"," "," ","nµæ∫≤æt","MS",714
+"night","VA67B","268","N","N"," "," ","nµº∫≤æt","MS",715
+"night","VA68A","269","N","N"," "," ","na∫±øΩt","MS",716
+"good night","VA68A","269","I","N","greeting"," ","ıgπød$Âna∫±øΩt","MS",716
+"night","VA68B","270","N","N"," "," ","na∫≤æt","MS",717
+"good night","VA68B","270","I","N"," "," ","gπød$na≤æt","MS",717
+"night","VA69A","273","N","N"," "," ","n•Ω±øt","MS",718
+"good night","VA69A","273","I","N"," "," ","gπd$Ân•±øt","MS",718
+"night","VA69B","274","N","N"," "," ","n•Ωº±øt","MS",719
+"night","VA70A","275","N","N"," "," ","na±øΩt","MS",720
+"night","VA70B","276","N","N"," "," ","nµ∫≤æt","MS",721
+"night","VA71A","285","N","N"," "," ","nµº∫{≤æ}t","MS",722
+"night","VA71B","286","N","N"," "," ","naæ∫{∞º}t","MS",723
+"night","VA72A","287","N","N"," "," ","nµ∫{≤æ}t","MS",724
+"night","VA72B","288","N","N"," "," ","nµº∫{≤æ}t","MS",725
+"night","VA73","291","N","N"," "," ","naæ≤´æt","MS",726
+"night","VA74A","293","N","N"," "," ","naæ∫{≤æ}t","MS",727
+"night","VA74B!","294!","N","N"," "," ","nµ´∫{≤æ}t","MS",728
+"night","VA75A","297","N","N"," "," ","nµº∫{≤æ}t","MS",729
+"night","VA75B","298","N","N"," "," ","naæ∫{∞º}t","MS",730
+"night","NC1","303","N","N"," "," ","n•Ωæ∫±øt","MS",731
+"night","NC2A","301","N","N"," "," ","nµ´æ±øt","MS",732
+"night","NC2B","304","N","N"," "," ","n•±øt","MS",733
+"night","NC3A","305","N","N"," "," ","naæ∫±øt","MS",734
+" ","NC3A","305"," "," ","7 and 9 PM before going back home again","RN2"," ","MS",734
+"to come to spend bedtime","NC3A","305","E","N","= to spend an hour or 2 visiting at night between","RN1","t∞$k∏m$t∞$sp≤{∞}nd$Âb≤{∞}d$tµº±øΩm","MS",734
+"night","NC3B","306","N","N"," "," ","na´æ∫±øt","MS",735
+"night","NC4A","307","N","N"," "," ","n•Ωæ∫±øt","MS",736
+"good night","NC4A","307","I","N","greeting"," ","gπød$nµ´æ±øt","MS",736
+"night","NC4B","308","N","N"," "," ","n•Ω±øt","MS",737
+"night","NC5A","309","N","N"," "," ","na´æ∫±øt","MS",738
+"night","NC5B","310","N","N"," "," ","na˛´æ∫±ø˛t","MS",739
+"night","NC6!","311!","N","N"," "," ","naæ∫±øΩt","MS",740
+"night","NC7A","315(*)","N","N"," "," ","nµ´º±øΩt","MS",741
+"good night","NC7A","315(*)","I","N","greeting; rare"," ","gπ´ºd$Âna±øt","MS",741
+"night","NC7B","316","N","N"," "," ","naæ∫±øt","MS",742
+"night","NC8N","N317","N","N"," "," ","n•Ω∫±øt","MS",743
+"night","NC8A","317","N","N"," "," ","naæ∫±øΩt","MS",744
+"night","NC8B","318(*)","N","N"," "," ","na∫±øΩt","MS",745
+"night","NC9A","319","N","N"," "," ","nµ˛∫±ø˛t","MS",746
+"good night","NC9A","319","I","N","greeting"," ","ıgπ{∞}d$Ânµ∫±øt","MS",746
+"night","NC9B","320","N","N"," "," ","nµæ∫±øt","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"night","NC10B","323","N","N"," "," ","nµæ∫±øΩt","MS",749
+"evening","NC10C","322","N","N"," "," ","±ivn±øn","MS",750
+"night","NC11A","325","N","N"," "," ","nµ∫±øt","MS",751
+"night","NC11B","326","N","N"," "," ","nµ´æ∫±øt","MS",752
+"night","NC12A","327(*)","N","N"," "," ","naæ∫±øΩt","MS",753
+"night","NC12B","328","N","N"," "," ","na∫±øΩt","MS",754
+"night","NC13A","329","N","N"," "," ","naæ∫±øt","MS",755
+"good night","NC13A","329","I","N","greeting"," ","ıgπd$Âna´æ±øt","MS",755
+"night","NC13B","330(*)","N","N"," "," ","nµ∫≤æt","MS",756
+"night","NC14N","N331","N","N"," "," ","naæ∫±øt","MS",757
+"night","NC14A","331","N","N"," "," ","nµ∫≤´æt","MS",758
+"night","NC14B","332","N","N"," "," ","naæ∫±øt","MS",759
+"evening","NC14C!","333!","N","N","in her class, her parents' usage also"," ","i∫vn±øÓ","MS",760
+"night","NC15A","335(*)","N","N"," "," ","nµº∫±øΩt","MS",761
+"night","NC15B","336","N","N"," "," ","naæ∫{≤æ}t","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"night","NC16A","339(*)","N","N"," "," ","nµº∫{≤æ}t","MS",764
+"night","NC16B","340","N","N"," "," ","naæ∫{≤æ}t","MS",765
+"night","NC17A","337","N","N"," "," ","nµ∫{≤æ}t","MS",766
+"night","NC17B","338","N","N"," "," ","na´æ∫±øt","MS",767
+"night","NC18A","341","N","N"," "," ","naæ∫±øt","MS",768
+"night","NC18B","342","N","N"," "," ","na∫±øt","MS",769
+"night","NC19A","343","N","N"," "," ","nµº∫{≤æ}t","MS",770
+"night","NC19B","344","N","N"," "," ","nµ∫≤æt","MS",771
+"night","NC20A","345","N","N","later than `evening'"," ","nµæ±øt","MS",772
+"evening","NC20A","345","N","N","if daylight (supper is at 3:30 or 4:30 PM)"," ","iΩivn±øΩn","MS",772
+"good night","NC20A","345","I","N","greeting"," ","gπø´d$nµæ±øt","MS",772
+"night","NC20B","346a","N","N"," "," ","nµ∫±øΩt","MS",773
+"night","NC20C","346b","N","N"," "," ","nµ´∫±øt","MS",774
+"night","NC21A","347","N","N"," "," ","nµ´∫±øt","MS",775
+"night","NC21B","348","N","N"," "," ","nµº∫{≤æ}t","MS",776
+"night","NC22A","349","N","N"," "," ","n•±øt","MS",777
+"night","NC22B","349b","N","N"," "," ","na´æ∫±øt","MS",778
+"night","NC23A","351a","N","N"," "," ","nµ±øΩt","MS",779
+"night","NC23B","351b(*)","N","N"," "," ","nµ∫±øΩt","MS",780
+"night","NC23C!","351c!","N","N"," "," ","n•æ±øt","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"night","NC24N","N352","N","N"," "," ","nµ´±øt","MS",783
+"night","NC24N","N352","N","N"," "," ","n•Ω±øt","MS",783
+"night","NC24A","352a","N","N"," "," ","na´æ±øt","MS",784
+"night","NC24B","352b","N","N"," "," ","nµ´±øt","MS",785
+"night","NC25N","N353","N","N"," "," ","nµ´∫{±øΩ}t","MS",786
+"night","NC25A","353","N","N"," "," ","nµ´∫±øt","MS",787
+"night","NC25B","354","N","N"," "," ","nµ´∫{±øΩ}t","MS",788
+"good night","NC25B","354","I","N","greeting"," ","gπd$nµ´∫{±øΩ}t","MS",788
+"night","NC26A","355a","N","N"," "," ","nµæ∫≤´æt","MS",789
+"night","NC26B","355b","N","N"," "," ","nµº∫≤æt","MS",790
+"night","NC26C!","356!","N","N"," "," ","n•Ωº±øt","MS",791
+"evening","NC26C!","356!","N","N"," "," ","i{j}vn±øÓ","MS",791
+"NR","NC27A","357"," ","N"," "," "," ","MS",792
+"night","NC27B","358","N","N"," "," ","naæ∫≤´æt","MS",793
+"night","NC28A","361","N","N"," "," ","nµæ∫≤´æt","MS",794
+"night","NC28B","361b","N","N"," "," ","nµæ∫≤´t","MS",795
+"evening","NC28C","362","N","Y"," ","NEW","iΩæ{j}vn±øn","MS",796
+"night","NC28C","362","N","N"," "," ","nµº∫≤´t","MS",796
+"night","NC29A","363(*)","N","N"," "," ","naæ∫±øΩt","MS",797
+"night","NC29B","364","N","N"," "," ","naæ∫{≤æ}t","MS",798
+"night","NC30A","365","N","N"," "," ","na´æ∫±øt","MS",799
+"night","NC30B","366","N","N"," "," ","na´æ∫±øΩt","MS",800
+"night","NC31A","367","N","N"," "," ","n•±øt","MS",801
+"night","NC31B","368","N","N"," "," ","na∫±øΩt","MS",802
+"night","NC32A","369","N","N"," "," ","naæ±øΩt","MS",803
+"good night","NC32A","369","I","N","greeting"," ","gπ´ºd$Ânaæ±øΩt","MS",803
+"night","NC32B!","370!","N","N"," "," ","naæ≤æt","MS",804
+"night","NC33A","373","N","N"," "," ","nµº∫{∞º}t","MS",805
+"night","NC33B","374","N","N"," "," ","naæ∫{∞º}t","MS",806
+"night","NC34A","375","N","N"," "," ","nµ∫±øΩt","MS",807
+"night","NC34B","376","N","N"," "," ","na∫{∞º}t","MS",808
+"night","NC35A","377","N","N"," "," ","n•±øt","MS",809
+"good night","NC35A","377","I","N","greeting"," ","gπd$n•{±ø}t","MS",809
+"night","NC35B","378","N","N"," "," ","naæ∫≤æt","MS",810
+"night","NC36N","N381","N","N"," "," ","n•Ω±øt","MS",811
+"night","NC36A","381","N","N"," "," ","naæ±øt","MS",812
+"night","NC36B","382","N","N"," "," ","naæ∫≤´t","MS",813
+"night","NC37A","383","N","N"," "," ","n•±øt","MS",814
+"night","NC37B","384","N","N"," "," ","n•±øt","MS",815
+"night","NC38N","N385","N","N"," "," ","n•›±øt","MS",816
+"NR","NC38A","385"," ","N"," "," "," ","MS",817
+"night","NC38B","386","N","N"," "," ","naæ∫±øΩt","MS",818
+"night","NC39A","389","N","N"," "," ","n•æ±øt","MS",819
+"good night","NC39A","389","I","N","greeting"," ","ıgπd$Ân•±øt","MS",819
+"night","NC39B!","390!","N","N"," "," ","n•±øt","MS",820
+"night","NC40A","391","N","N"," "," ","na±øt","MS",821
+"night","NC40B","392","N","N"," "," ","n•Ω±øt","MS",822
+"night","NC41!","393!","N","N"," "," ","na∫±øt","MS",823
+"evening","NC41!","393!","N","N"," "," ","iΩæjvn±øÓ","MS",823
+"night","NC42A","403","N","N"," "," ","naæ∫±øΩt","MS",824
+"night","NC42B","404(*)","N","N"," "," ","naæ∫±øΩt","MS",825
+"night","NC43A","397","N","N"," "," ","naæ∫±øt","MS",826
+"night","NC43B","398","N","N"," "," ","naæ∫±øt","MS",827
+"night","NC44","410(*)","N","N"," "," ","na´æ±øt","MS",828
+"night","NC45A","409(*)","N","N"," "," ","na´æ±øt","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"night","NC46A","411","N","N"," "," ","naæ∫±øt","MS",831
+"good night","NC46A","411","I","Y","greeting","SUG","ıgπd$Âna´æ±øt","MS",831
+"night","NC46B","412","N","N"," "," ","na∫±øt","MS",832
+"evening","NC46C!","412b!","N","N"," "," ","iΩæjvn±øÓ","MS",833
+"night","NC46C!","412b!","N","N"," "," ","naæ∫≤´æt","MS",833
+"night","NC47","413","N","N"," "," ","naæ∫{≤æ}t","MS",834
+"good night","NC47","413","I","N","greeting"," ","gπød$naæ∫{≤æ}t","MS",834
+"night","NC48","418","N","N"," "," ","na∫±øΩt","MS",835
+"night","NC49","421","N","N"," "," ","naæ:{≤æ}t","MS",836
+"night","NC50A","422","N","N"," "," ","naæ∫≤æt","MS",837
+"evening","NC50B!","423!","N","Y","modern term for ""the fore part of the night¢","NEW","i∫vn±øΩn","MS",838
+"night","NC50B!","423!","N","N"," "," ","na∫≤´t","MS",838
+"fore part of the night","NC50B!","423!","O","N","the)"," ","foπ$pﬁétê$∞$‰∞$naæ≤´t","MS",838
+"night","NC51A","427","N","N"," "," ","naæ∫≤æt","MS",839
+"night","NC51B","428","N","N"," "," ","naæ∫≤æt","MS",840
+"night","NC52N","N429","N","N"," "," ","naæ∫±øΩt","MS",841
+"night","NC52A","429","N","N"," "," ","naæ∫±øΩt","MS",842
+"night","NC52B","430","N","N"," "," ","naæ∫±øΩt","MS",843
+"night","NC53A","431","N","N"," "," ","na∫{≤æ}t","MS",844
+"night","NC53B","432","N","N"," "," ","naæ∫{≤æ}t","MS",845
+"night","NC54A","433","N","N"," "," ","nµº∫{≤æ}t","MS",846
+"night","NC54B","434","N","N"," "," ","naæ∫≤æt","MS",847
+"night","NC55","435","N","N"," "," ","naæ∫±øΩt","MS",848
+"good night","NC55","435","I","N","greeting"," ","ıgπd$Âna±øΩt","MS",848
+"night","NC56A","436","N","N"," "," ","naæ∫±øΩt","MS",849
+"evening","NC56B!","437!","N","Y"," ","NEW","iΩæjvn±øÓ","MS",850
+"night","NC56B!","437!","N","N"," "," ","naæ∫≤´t","MS",850
+"night","NC57A","438a","N","N"," "," ","na´æ∫±øt","MS",851
+"night","NC57B","438b","N","N"," "," ","na∫±øt","MS",852
+"night","NC58A","439","N","N"," "," ","naæ∫{∞º}t","MS",853
+"night","NC58B","440","N","N"," "," ","naæ∫{∞º}t","MS",854
+"night","NC59","441(*)","N","Y"," ","AUX","nµº∫{≤æ}t","MS",855
+"night","NC60","442","N","N"," "," ","naæ∫±øt","MS",856
+"night","NC61A","443","N","N"," "," ","na∫±øΩt","MS",857
+"night","NC61B","444","N","N"," "," ","naæ∫{≤æ}t","MS",858
+"night","NC62A","447","N","N"," "," ","nµº∫{≤æ}t","MS",859
+"night","NC62B","448","N","N"," "," ","na∫≤´æt","MS",860
+"night","NC63A","449","N","N"," "," ","naæ∫{≤æ}t","MS",861
+"night","NC63B","450","N","N"," "," ","na∫{∞º}t","MS",862
+"night","NC64A","453","N","N"," "," ","naæ∫{≤æ}t","MS",863
+"night","NC64B","454","N","N","after bedtime"," ","na∫≤æt","MS",864
+"evening","NC64B","454","N","N"," "," ","i{j}vn±øÓ","MS",864
+"night","NC65A","461","N","N"," "," ","na∫±øΩt","MS",865
+"night","NC65B","462","N","N"," "," ","nµº∫{≤æ}t","MS",866
+"night","NC66A","465","N","N"," "," ","naæ∫{≤æ}t","MS",867
+"good night","NC66A","465","I","N"," "," ","ıgπ{∞}d$Ânaæ∫≤æt","MS",867
+"night","NC66B","466","N","N"," "," ","naæ∫{≤æ}t","MS",868
+"night","NC67A","469","N","N"," "," ","nµ∫≤´æt","MS",869
+"night","NC67B","470","N","N"," "," ","naæ∫{≤æ}t","MS",870
+"night","NC68A","473","N","N"," "," ","naæ∫≤´æt","MS",871
+"night","NC68B","474","N","N"," "," ","naæ∫≤´æt","MS",872
+"night","NC69A","477","N","N"," "," ","naæ∫≤æt","MS",873
+"night","NC69B","478","N","N"," "," ","naæ∫{∞º}t","MS",874
+"good night","NC69B","478","I","N"," "," ","gπød$naæ∫{∞º}t","MS",874
+"night","NC70A","479","N","N"," "," ","naæ∫≤æt","MS",875
+"night","NC70B","480","N","N"," "," ","naæ∫{≤æ}t","MS",876
+"night","NC71A","481","N","N"," "," ","naæ∫≤´æt","MS",877
+"night","NC71B","482","N","N"," "," ","nµº∫≤æt","MS",878
+"evening","NC71C!","483!","N","Y"," ","NEW","iΩ{j}vn±øΩn","MS",879
+"night","NC71C!","483!","N","N"," "," ","naæ∫≤´æt","MS",879
+"night","NC72A","487","N","N"," "," ","naæ∫≤æt","MS",880
+"night","NC72B","488","N","N"," "," ","naæ∫{≤æ}t","MS",881
+"night","NC73A","491","N","N"," "," ","nµº∫≤æt","MS",882
+"night","NC73B","492","N","N"," "," ","nµº∫{≤æ}t","MS",883
+"night","NC74A","493","N","N"," "," ","naæ∫±øt","MS",884
+"night","NC74B","494","N","N"," "," ","naæ∫≤æt","MS",885
+"night","NC75A","495","N","N"," "," ","na∫±øt","MS",886
+"night","NC75B","496","N","N"," "," ","naæ∫{≤æ}t","MS",887
+"night","SC1A","203.1","N","N"," "," ","na∫≤æt","MS",888
+"night","SC1B","203.2","N","N"," "," ","naæ≤´t","MS",889
+"night","SC2A","204.1(*)","N","N"," "," ","nµº∫±øt","MS",890
+"night","SC2B","204.2","N","N"," "," ","naæ∫±øΩt","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"night","SC3A","205.1","N","N"," "," ","nµ´∫{±øΩ}t","MS",893
+"good night","SC3A","205.1","I","N","greeting"," ","gπd$nµ∫{±øΩ}t","MS",893
+"night","SC3B","205.2","N","N"," ","CNV","nµ´±øt","MS",894
+"night","SC3B","205.2","N","N"," ","CNV","nµº±øt","MS",894
+"night","SC3B","205.2","N","N"," ","CNV","nµ∫±øt","MS",894
+"night","SC3B","205.2","N","N"," ","CNV","nµ´º±æt","MS",894
+"good evening","SC3B","205.2","I","N"," "," ","Âgπøæ∫{∞}d$ıi∫{j}‚n±ø›n","MS",894
+"good night","SC3B","205.2","I","N"," "," ","Âgπø´{∞}d$ına´æ∫±øt","MS",894
+"of a night","SC3B","205.2","Q","N"," ","CNV","∞´v∞$Ânµº∫±øt","MS",894
+"evening","SC3C!","205.3!","N","N","6 PM to midnight"," ","i∫{j}vn±øºÓ","MS",895
+"night","SC3C!","205.3!","N","N"," "," ","nµ´±øt","MS",895
+"good night","SC3C!","205.3!","I","N"," "," ","ıgπø´æ{∞}d$Ân•Ω±øÁ","MS",895
+"good evening","SC3C!","205.3!","I","N"," "," ","gπæ∫d$Âi∫‚n±øºn","MS",895
+"good night","SC3C!","205.3!","I","N"," "," ","ıgπø´æ{∞}d$nµ´º±øt","MS",895
+"night","SC4A","206.1","N","N"," "," ","nµ´º±øt","MS",896
+"evening","SC4B","206.2","N","N"," "," ","i∫vn±øºÓ","MS",897
+"night","SC4B","206.2","N","N","""when it gets dark¢"," ","nµ´±øt","MS",897
+"good night","SC4B","206.2","I","N"," "," ","ıgπº{∞}d$Ânµ´º±øt","MS",897
+"night","SC4B","206.2","N","N"," "," ","n•Ω±øt","MS",897
+"good evening","SC4B","206.2","I","N","after sunset"," ","ıgπº{∞}d$Âi∫vn±øºÓ","MS",897
+"night","SC4C","206.3","N","N"," ","CNV","nµ´º±øºt","MS",898
+"good night","SC4C","206.3","I","N"," "," ","ıgπº{∞}d$Ânµ´º±øt","MS",898
+"good evening","SC5A","207.1","I","N"," "," ","ıgπºd$Âi∫‚n±øºn","MS",899
+"night","SC5A","207.1","N","N","after supper"," ","Ân•´º±øt","MS",899
+"night","SC5A","207.1","N","N","after supper"," ","n•±øt","MS",899
+"night","SC5A","207.1","N","N","after supper","CNV","n∞Ω±øt","MS",899
+"good night","SC5A","207.1","I","N","don't say now on meeting; used to say"," ","Âgπºd$ın•´±øt","MS",899
+"good night","SC5B","207.2","I","N"," "," ","ıgπº{∞}d$Ân•Ω±øt","MS",900
+"night","SC5B","207.2","N","N","after dark"," ","n•º±ø't","MS",900
+"night","SC5B","207.2","N","N","after dark"," ","n•Ωº±øt","MS",900
+"evening","SC5B","207.2","N","N","till after dark"," ","i∫jvn±´æ{±}Ó","MS",900
+"good night","SC5C","207.2A","I","N"," "," ","gπ›ºd$Ân≥´±øt","MS",901
+"night","SC5C","207.2A","N","N"," "," ","n≥Ω±t","MS",901
+"night","SC5D!","207.3!","N","N","after supper"," ","Ân•Ωº±øt","MS",902
+"night","SC5D!","207.3!","N","N","after supper"," ","n•Ωæ±øt","MS",902
+"good night","SC5D!","207.3!","I","N","not on meeting"," ","ıgπºd$Ân•óΩæ±øt","MS",902
+"evening","SC5D!","207.3!","N","N"," "," ","Âi∫{±ø}vn±æÓ","MS",902
+"evening","SC5D!","207.3!","N","N"," ","CNV","Âi∫‚n±øºÓ","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"night","SC6A","208.1","N","N"," "," ","na´{±øΩ}t","MS",904
+"good night","SC6A","208.1","I","N","greeting"," ","gπd$Âna∫{±øæ}t","MS",904
+"night","SC6B","208.2(*)","N","N"," ","CNV","n∞Ωº±øt","MS",905
+"evening","SC6B","208.2(*)","N","N","might last till midnight"," ","i∫{±ø}vn±øºn","MS",905
+"night","SC6B","208.2(*)","N","N"," "," ","n∞Ω±øt","MS",905
+"good night","SC6B","208.2(*)","I","N"," "," ","gπºd$Ân∞±øºt","MS",905
+"good evening","SC6B","208.2(*)","I","N"," "," ","g∞ód$Âi∫{±ø}vn±øºn","MS",905
+"night","SC6C!","208.3!","N","N"," ","CNV","n∞º±øt","MS",906
+"night","SC6C!","208.3!","N","N"," ","CNV","n∞Ω±øt","MS",906
+"goodbye","SC6C!","208.3!","I","N"," "," ","Âgπºd$ıb•Ωæ∫±ø","MS",906
+"good night","SC6C!","208.3!","I","N","after supper"," ","gπºd$Ân∞Ω±øt","MS",906
+"good evening","SC6C!","208.3!","I","N"," "," ","ıgπºd$Âi∫{±ø}vn±øºn","MS",906
+"NR","SC6D"," "," ","N"," "," "," ","MS",907
+"evening","SC7N","N209","N","N"," "," ","i∫jvn±øºn","MS",908
+"good night, sir","SC7N","N209","I","N"," ","CNV","gπº{∞}d$Ân∏º±øt$s∞","MS",908
+"night","SC7A","209.1","N","N"," "," ","n•´±øt","MS",909
+"good night","SC7A","209.1","I","N"," "," ","ıgπº∫{∞}d$Ân•´±øt","MS",909
+"night","SC7B","209.2","N","N"," ","CNV","n•º±øt","MS",910
+"evening","SC7B","209.2","N","N"," ","CNV","Âi∫‚n±æÓ","MS",910
+"night","SC7B","209.2","N","N"," ","CNV","n•Ω±øt","MS",910
+"night","SC7B","209.2","N","N"," ","CNV","n•´±øt","MS",910
+"good evening","SC7B","209.2","I","N"," "," ","gπ´º{∞}d$i∫vn±æÓ","MS",910
+"good night","SC7B","209.2","I","N"," ","CNV","Âgπº∫{∞}d$ın∏º±øt","MS",910
+"night","SC7C!","209.3!","N","N"," ","CNV","n•´±øt","MS",911
+"night","SC7D!","209.4!","N","N"," ","CNV","n•´±øt","MS",912
+"good night","SC7D!","209.4!","I","N"," "," ","ıgπº{∞}d$Ân•´±ø't","MS",912
+"night","SC8A","210.1","N","N","after dark","CNV","n∞±øt","MS",913
+"evening","SC8A","210.1","N","N","""lasts till twelve o'clock at night¢"," ","Âi∫vn±øºn","MS",913
+"good evening","SC8A","210.1","I","N"," "," ","g∞ó´d$Âi∫vn±øºÓ","MS",913
+"good night","SC8A","210.1","I","N"," "," ","ıgπø´{∞}d$Ân∞Ω±øt","MS",913
+"good night","SC8A","210.1","I","N"," ","CNV","ıgπø´æ{∞}d$Ân∞±øt","MS",913
+"good evening","SC8A","210.1","I","N","after dark","CNV","Âgπø´{∞}d$ıi∫vn±øºn","MS",913
+"bye","SC8A","210.1","I","N"," ","CNV","bµæ∫±ø","MS",913
+"lasts till twelve o'clock at night","SC8A","210.1","S","Y"," ","INA","l·Ω{∞}s±øºz$tÏ$tw≤´{∞}Ïv$∞k≈ﬁ{∞}k$∞t$Ân∞±øt","MS",913
+"night","SC8B","210.2","N","N"," "," ","n∞Ω±øt","MS",914
+"good night","SC8B","210.2","I","N"," "," ","gπø´{∞}d$Ân∞Ω±øt","MS",914
+"good evening","SC8B","210.2","I","N"," "," ","gπø´{∞}d$Âi∫‚n±øºn","MS",914
+"night","SC8C","210.3","N","N"," ","CNV","n∞Ω±øt","MS",915
+"night","SC8C","210.3","N","N"," ","CNV","n∞Ωº±øt","MS",915
+"good night","SC8C","210.3","I","N"," "," ","gπø›´d$Ân∞Ω±øt","MS",915
+"good evening","SC8C","210.3","I","N"," "," ","gπøî›d$Âi∫‚n±øºn","MS",915
+"night","SC9A","211.1","N","N"," "," ","n∞Ω±øt","MS",916
+"night","SC9A","211.1","N","N"," ","CNV","n∞±øt","MS",916
+"night","SC9A","211.1","N","N"," ","CNV","n∞Ωæ±øt","MS",916
+"evening","SC9A","211.1","N","N"," "," ","Âi∫{j}vn±øºn","MS",916
+"good evening","SC9A","211.1","I","N","meeting or leaving, after dark"," ","gπøº{∞}d$Âi∫‚n±øºn","MS",916
+"good evening","SC9A","211.1","I","N","meeting or leaving, after dark"," ","ıgπø›d$Âi∫vn±øºn","MS",916
+"good night","SC9A","211.1","I","N"," "," ","gπø›{d}$Ân∞Ωº±øt","MS",916
+"goodbye","SC9A","211.1","I","N"," ","CNV","Âgπøæ{∞}dıbµ∫±ø","MS",916
+"night","SC9B","211.2","N","N"," ","CNV","n∞±øt","MS",917
+"good night","SC9B","211.2","I","N"," "," ","ıgπø´æ{∞}d$Ân•º±ø't","MS",917
+"good evening","SC9B","211.2","I","N","after noon"," ","ıgπø´æ{∞}d$Âi∫vn±øºn","MS",917
+"good evening","SC9B","211.2","I","N","after noon"," ","ıgπø´{∞}d$Âi∫vn±øºn","MS",917
+"night","SC9C!","211.3!","N","N","after dark"," ","n∞±øt","MS",918
+"good night","SC9C!","211.3!","I","N"," "," ","gπø›´d$Ân∞±øt","MS",918
+"evening","SC9D!","211.4!","N","N","as usual in SC, also used for 2--4 PM","CNV","Âi∫vn±øºn","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"night","SC10B!","212.2!","N","N"," ","CNV","n∞±øºt","MS",921
+"evening","SC10C!","212.3!","N","N","until about 10 PM"," ","i∫vn±øºÓ","MS",922
+"night","SC10C!","212.3!","N","N"," ","CNV","n∞Ω±øt","MS",922
+"night","SC11N","N213","N","N","doesn't use `good night' as greeting"," ","n•´±øt","MS",923
+"night","SC11M!","2n213!","N","N"," ","CNV","n•Ω±øt","MS",924
+"evening","SC11M!","2n213!","N","N","usually say till 11 PM or midnight"," ","i∫i´vn±øºn","MS",924
+"good night","SC11M!","2n213!","I","N"," "," ","gπºd$Ân•Ωº±øt","MS",924
+"good evening","SC11M!","2n213!","I","N","after 4 PM","CNV","Âgàπºd$ıi∫vnnñ","MS",924
+"good evening","SC11M!","2n213!","I","N","after 4 PM","CNV","Âgπºd$ıi∫vn±›n","MS",924
+"evening","SC11A","213.1(*)","N","N","after supper"," ","iΩ∫i´vn±æÓ","MS",925
+"night","SC11A","213.1(*)","N","N","6 PM--6 AM"," ","n•º±øt","MS",925
+"good evening","SC11A","213.1(*)","I","N"," "," ","ıguΩºd$Âi∫i´vn±æÓ","MS",925
+"good night","SC11A","213.1(*)","I","N"," "," ","Âgπ´ºd$ın•Ωº±øt","MS",925
+"tonight","SC11A","213.1(*)","A","N","6 PM--6 AM"," ","t`∞›Ân•º±øt","MS",925
+"night","SC11B","213.11","N","N"," "," ","na±øΩt","MS",926
+"evening","SC11B","213.11","N","N","after dark"," ","Âi∫vn±øÓ","MS",926
+"good night","SC11B","213.11","I","N","never on meeting"," ","ıgπ´ºd$Ân∞±øt","MS",926
+"evening","SC11C","213.2","N","N"," "," ","Âi∫{±ø}vn±øºÓ","MS",927
+"good night","SC11C","213.2","I","N"," "," ","gπºd$Ân∏Ωº±øt","MS",927
+"good evening","SC11C","213.2","I","N"," "," ","ıgπºd$Âi∫{±ø}vn±øºÓ","MS",927
+"last night","SC11C","213.2","O","N"," "," ","ıl·∫{∞}s$Ân•´±øt","MS",927
+"nights","SC11D","213.3","N","N"," ","CNV","n∏º±øts","MS",928
+"evening","SC11D","213.3","N","N","same as `night'"," ","i∫vn±æÓ","MS",928
+"night","SC11D","213.3","N","N","same as `evening'"," ","n•º±øt","MS",928
+"good night","SC11D","213.3","I","N"," ","CNV","gπºd$Ân•±øt","MS",928
+"good evening","SC11D","213.3","I","N"," ","CNV","gπd$Âi∫vn±æÓ","MS",928
+"night","SC11E","213.4","N","N"," ","CNV","n•´±øt","MS",929
+"night","SC11E","213.4","N","N"," ","CNV","n•º±øt","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"evening","SC11G!","213.7!","N","N","about same as `night'"," ","i∫{±}vn±ø›Ó","MS",931
+"evening","SC11G!","213.7!","N","N","about same as `night'"," ","i∫vn±æÓ","MS",931
+"night","SC11G!","213.7!","N","N","about same as `evening'","CNV","n•±øt","MS",931
+"night","SC11G!","213.7!","N","N","about same as `evening'"," ","n•º±øt","MS",931
+"good night","SC11G!","213.7!","I","N"," "," ","gπºd$Ân•´±øt","MS",931
+"good evening","SC11G!","213.7!","I","N","might use in late afternoon"," ","gπºd$Âi∫vn±›æÓ","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"night","SC11I!","213.9!","N","Y","formerly; doesn't use it as greeting","OLD","n•º±øt","MS",933
+"evening","SC11I!","213.9!","N","N"," "," ","ivn±øÓ","MS",933
+"night","SC11J!","213.10!","N","N","""after supper¢","CNV","n•´º±øt","MS",934
+"good night","SC11J!","213.10!","I","N","same as `goodbye'"," ","ıgπºd$Ân∏Ωº±øt","MS",934
+"after supper","SC11J!","213.10!","Q","Y"," ","INA","·Ωft∞$Âs∏ºp∞æ","MS",934
+"good evening","SC11J!","213.10!","I","N"," "," ","ıgπºd$Âi∫i´vn±æÓ","MS",934
+"goodbye","SC11J!","213.10!","I","N","same as `good night'"," ","ıgπºd$Âbµ´º∫±ø","MS",934
+"night","SC12A","214.1","N","N","after 6 PM"," ","n•Ωº±øt","MS",935
+"night","SC12A","214.1","N","N","after ""six¢ PM","CNV","n•´±øt","MS",935
+"good night","SC12A","214.1","I","N"," "," ","Âgπø´{∞}d$ın•Ωº±øt","MS",935
+"good evening","SC12A","214.1","I","N"," "," ","Âguøæ{∞}d$ıi∫‚n±øºn","MS",935
+"night","SC12A","214.1","N","N","after ""six¢ PM","CNV","n•´±øt","MS",935
+"six","SC12A","214.1","N","Y"," ","INA","s±´{∞}ks","MS",935
+"night","SC12B","214.2","N","N"," "," ","n•Ω±øt","MS",936
+"night","SC13","213.6","N","N","after dark"," ","n•´±øt","MS",937
+"good night","SC13","213.6","I","N"," "," ","gπºd$Ân•´±øt","MS",937
+"good evening","SC13","213.6","I","N","after dark"," ","gπ›d$Âi∫vn±øºn","MS",937
+"night","SC14A","215.1","N","N"," "," ","n•±øt","MS",938
+"evening","SC14B","215.2","N","N"," ","CNV","i∫{j}vn±øºn","MS",939
+"night","SC14B","215.2","N","N"," ","CNV","n•±øt","MS",939
+"night","SC14B","215.2","N","N"," ","CNV","n•æ±øt","MS",939
+"good evening","SC14B","215.2","I","N"," "," ","ıgπøæ{∞}d$Âi∫vn±øºÓ","MS",939
+"good night","SC14B","215.2","I","N"," "," ","gπø´æ{∞}d$Ân•º±øt","MS",939
+"night","SC15A","216.1","N","N","after dark","CNV","nµ´±øt","MS",940
+"good evening","SC15A","216.1","I","N"," "," ","ıgπøæ{∞}d$Âi∫vn±øºn","MS",940
+"good night","SC15A","216.1","I","N"," "," ","ıgπøæd$Ânµ´∫±øt","MS",940
+"night","SC15B","216.2","N","N","after supper"," ","nµ´º±øt","MS",941
+"good night","SC15B","216.2","I","N"," "," ","Âgπøæ{∞}d$ınµ´º∫±øΩt","MS",941
+"good night","SC15B","216.2","I","N"," ","CNV","ıgπ›´æd$Ânµ´±øt","MS",941
+"good evening","SC15B","216.2","I","N"," ","CNV","ıgπ›´æ{∞}d$Âi∫vn±øºn","MS",941
+"night","SC15C","216.3","N","N"," ","CNV","nµ´º±øt","MS",942
+"night","SC16N","N217","N","N","""starts when sun go down¢","CNV","nµ±øt","MS",943
+"good night","SC16N","N217","I","N"," "," ","ıgπº{∞}d$Ânµ´∫±øt","MS",943
+"night","SC16","217.1","N","N"," "," ","naæ±øt","MS",944
+"night","SC17A","218.1","N","N"," "," ","nµæ±øt","MS",945
+"good night","SC17A","218.1","I","N"," "," ","ıgπº{∞}d$Ânµ∫±ø{t}","MS",945
+"night","SC17B","218.2","N","N"," "," ","nµ´±øt","MS",946
+"good night","SC17C","218.3","I","N"," ","CNV","ıgπºd$Ânµ∫±øt","MS",947
+"night","SC17D","218.4","N","N"," "," ","nµ´±øt","MS",948
+"good night","SC17D","218.4","I","N"," "," ","ıgπº{∞}d$Ânµ´±øt","MS",948
+"good evening","SC18N","N219","I","N"," "," ","gπ´ºd$Âi∫vn±æÓ","MS",949
+"good night","SC18N","N219","I","N","after supper"," ","gπºd$n•æ±t","MS",949
+"good night","SC18N","N219","I","N","after supper"," ","gπºd$Ân•´±t","MS",949
+"evening","SC18A","219.1","N","N","no rule ""for it¢ [same as `night']; after supper"," ","i∫‚n±›æn","MS",950
+"lank of the evening","SC18A","219.1","O","N"," "," ","l·´Ók$∞›$‰±øΩ$Âi∫‚n±æÓ","MS",950
+"night","SC18A","219.1","N","N","no rule ""for it¢ [same as `night']; after supper"," ","n•´±øt","MS",950
+"good night","SC18A","219.1","I","N","""when a person retires¢"," ","ıgπºd$Ân•´±øt","MS",950
+"for it","SC18A","219.1","Q","Y"," ","INA","Âf≥´±øºt","MS",950
+"when a person retires","SC18A","219.1","S","Y"," ","INA","w≤n$∞$Âp`≥óº{±ø}sn$r±øºÂt`µ´∫∞z","MS",950
+"night","SC18B","219.2","N","N","after dark"," ","n•Ω±øºt","MS",951
+"good night","SC18B","219.2","I","N"," ","CNV","gπºd$Ân∏º±øt","MS",951
+"evening","SC18B","219.2","N","N","up to dark"," ","i∫{±ø}vn±øæÓ","MS",951
+"evening","SC18B","219.2","N","N","up to dark","CNV","i∫vn±æn","MS",951
+"night","SC18C!","219.3(*)!","N","N","after supper","CNV","n•´±t","MS",952
+"night","SC18C!","219.3(*)!","N","N","after supper"," ","n•Ω±t","MS",952
+"good night","SC18C!","219.3(*)!","I","N"," "," ","gπºd$Ân•Ωº±t","MS",952
+"good evening","SC18C!","219.3(*)!","I","N"," "," ","gπ›ºd$Âi∫{±ø}vn±æÓ","MS",952
+"NA","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"good night","SC19A","220.1","I","N"," ","CNV","gπºd$Ân•Ω±t","MS",955
+"night","SC19B","220.4","N","N"," "," ","n•´±øt","MS",956
+"good night","SC19B","220.4","I","N"," "," ","ıgπød$Ân∞±øt","MS",956
+"evening","SC19C","220.2(*)","N","N","""really evening¢"," ","i∫vn±æÓ","MS",957
+"night","SC19C","220.2(*)","N","N","when you're in bed"," ","n•´±t","MS",957
+"good night","SC19C","220.2(*)","I","N"," "," ","gàπºd$Ân•´±t","MS",957
+"evening","SC19D!","220.3!","N","N"," "," ","i∫vn±øºn","MS",958
+"night","SC19D!","220.3!","N","N","after supper"," ","n•º±øt","MS",958
+"good night","SC19D!","220.3!","I","N"," "," ","ıgπºd$Ân•º±øt","MS",958
+"good night","SC19E!"," ","I","N"," ","CNV","Âgàπøæd$ın•æ±t","MS",959
+"night","SC20A","221.1","N","N","after supper"," ","nµæ±øºt","MS",960
+"good night","SC20A","221.1","I","N","heard one person from NC use on greeting"," ","Âgπºd$ınµ´±øt","MS",960
+"good evening","SC20A","221.1","I","N"," "," ","g∞›d$Âi∫{j}vn±øºn","MS",960
+"night","SC20B","221.2","N","N"," ","CNV","nµº±øt","MS",961
+"good night","SC20B","221.2","I","N"," ","CNV","ıgπ{∞}d$Ânµ´º±øt","MS",961
+"evening","SC20C","221.3","N","N","after supper"," ","i∫{j}vn±æn","MS",962
+"night","SC20C","221.3","N","N","after supper"," ","nµ´º±øt","MS",962
+"good night","SC20C","221.3","I","N"," "," ","ıgπºd$Ânaæ±øt","MS",962
+"good evening","SC20C","221.3","I","N","after dark"," ","ıgπºd$Âi∫{j}vn±øºn","MS",962
+"night","SC20D!","221.4!","N","N"," "," ","naæ±øt","MS",963
+"good night","SC20D!","221.4!","I","N"," ","CNV","ıgπºd$Ânaæ±øt","MS",963
+"night","SC21A","222.1","N","N"," "," ","naæ∫{≤æ}t","MS",964
+"night","SC21B","222.2","N","N"," "," ","naæ∫{≤æ}t","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"evening","SC22A","223.1","N","N"," "," ","i∫{±ø}vn±øºn","MS",967
+"good night","SC22A","223.1","I","N"," "," ","gπø›d$Ânµº±øt","MS",967
+"good evening","SC22A","223.1","I","N"," "," ","ıgπøº{∞}d$Âi∫{±ø}vn±øºÓ","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"evening","SC22C!","223.3!","N","N","till midnight"," ","i∫{j}vn±øºÓ","MS",969
+"good night","SC22C!","223.3!","I","N"," "," ","ıgπø´{∞}d$Ânµ´º±øt","MS",969
+"good evening","SC22C!","223.3!","I","N"," "," ","ıgπø´{∞}d$Âi∫{j}vn±øºn","MS",969
+"evening","SC23A","224.1","N","N","""preachers and well-to-do get evening after","RN1","i∫‚n±øºn","MS",970
+"night","SC23A","224.1","N","N"," "," ","nµº±øt","MS",970
+"good night","SC23A","224.1","I","N"," "," ","ıgπøîæ{∞}d$Ânµº±øt","MS",970
+" ","SC23A","224.1"," "," ","sundown¢","RN2"," ","MS",970
+"good evening","SC23A","224.1","I","N"," "," ","ıgπøæ{∞}d$Âi∫ˆü‚n±øºn","MS",970
+"tonight","SC23A","224.1","A","N"," ","CNV","t`∞Ânµº±øt","MS",970
+"night","SC23B","224.2","N","N","after dark"," ","na˛´æ±ø˛t","MS",971
+"evening","SC23B","224.2","N","N"," "," ","i∫{ˆ}n±øºn","MS",971
+"good night","SC23B","224.2","I","N"," "," ","ıgπø´æ{∞}d$Ânaæ±ø't","MS",971
+"good evening","SC23B","224.2","I","N"," "," ","ıgπøæ∫{∞}d$Âi∫ˆn±øºÓ","MS",971
+"night","SC23C","224.3","N","N"," ","CNV","naæ±øt","MS",972
+"good night","SC23C","224.3","I","N"," "," ","gπø›d$Ânaæ±øt","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NA","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"night","SC24N","N225","N","N"," "," ","nµ´º±øt","MS",975
+"good night","SC24N","N225","I","N"," "," ","gπº{∞}d$Ânµº±øt","MS",975
+"night","SC24A","225.1","N","N"," "," ","nµº∫±øt","MS",976
+"good night","SC24A","225.1","I","N","never on meeting"," ","ıgπºd$Âna∫±øt","MS",976
+"good evening","SC24B","225.11","I","N","after noon; ""morning till after you've","RN1","gπº{∞}d$Âi∫{±ø}vn±øºn","MS",977
+"night","SC24B","225.11","N","N"," "," ","nµº±øt","MS",977
+"good night","SC24B","225.11","I","N","""only when I want to leave 'em¢"," ","ıgπº{∞}d$Ânµº±øt","MS",977
+" ","SC24B","225.11"," "," ","et your dinner¢","RN2"," ","MS",977
+"night","SC24C","225.2","N","N"," ","CNV","nµ´º±øt","MS",978
+"at night","SC24D!","225.3!","Q","N","brought the cows up","CNV","∞t$Âna´æ±øt","MS",979
+"night","SC25A","226.1","N","N"," "," ","nµ∫±øΩt","MS",980
+"good night","SC25A","226.1","I","Y","as a greeting","SUG/HRD","gπd$Ânµ∫±øΩt","MS",980
+"evening","SC25B","226.2","N","N"," "," ","i∫vn±øºÓ","MS",981
+"night","SC25B","226.2","N","N","""good 'n' dark¢"," ","nµ±øºt","MS",981
+"good night","SC25B","226.2","I","N"," "," ","ıgπºd$Ânµ´±øt","MS",981
+"good evening","SC25B","226.2","I","N"," "," ","ıgπºd$Âi∫vn±øºÓ","MS",981
+"evening","SC25C!","226.3!","N","N","""don't know where the division is¢ [re `night']"," ","i∫vn±øºÓ","MS",982
+"night","SC25C!","226.3!","N","N","""don't know where the division is¢ [re `evening']"," ","n•±øt","MS",982
+"good night","SC25C!","226.3!","I","N"," "," ","ıgπºd$Ânaæ±øt","MS",982
+"good evening","SC25C!","226.3!","I","N"," "," ","gπºd$Âi∫vn±øºÓ","MS",982
+"night","SC26A","227.1","N","N","after supper","CNV","naæ±øt","MS",983
+"night","SC26A","227.1","N","N","after supper"," ","na´æ±øt","MS",983
+"night","SC26A","227.1","N","N","after supper","CNV","n•´±øt","MS",983
+"good night","SC26A","227.1","I","N"," "," ","ıgπ›ºd$Ân•Ωº±øt","MS",983
+"good evening","SC26A","227.1","I","N","noon till bedtime"," ","ıgπºd$Âi∫vn±øºn","MS",983
+"night","SC26A","227.1","N","N","after supper"," ","naó´æ±øt","MS",983
+"evening","SC26B!","227.2!","N","N"," "," ","i∫vn±øºÓ","MS",984
+"night","SC26B!","227.2!","N","N"," "," ","na´æ±øt","MS",984
+"good night","SC26B!","227.2!","I","N"," "," ","gπ›d$Âna´æ±øt","MS",984
+"good evening","SC26B!","227.2!","I","N"," "," ","ıgπºd$Âi∫vn±øºÓ","MS",984
+"night","SC27A","228.1","N","N","""proper¢"," ","na´æ±t","MS",985
+"evening","SC27A","228.1","N","N","usual local term"," ","i∫ˆn±øn","MS",985
+"good night","SC27A","228.1","I","N"," "," ","Âgπºd$ına´±øt","MS",985
+"good evening","SC27A","228.1","I","N"," "," ","gπºd$Âi∫ˆn±øn","MS",985
+"evening","SC27B","228.2","N","Y"," ","NEW","i∫vn±øºn","MS",986
+"night","SC27B","228.2","N","N","after dark"," ","na´æ±øt","MS",986
+"good evening","SC27B","228.2","I","N"," "," ","ıgπºd$Âi∫vn±øºn","MS",986
+"good night","SC27B","228.2","I","N"," "," ","ıgπºd$Âna´æ∫±øt","MS",986
+"good evening","SC27B","228.2","I","N"," "," ","ıgπºÒÂi∫vn±øºn","MS",986
+"Christmas Eve night","SC28A","229.1","O","N"," ","CNV","Âkrèá±∫{∞}sm∞´s$ıi∫v$Âna´æ∫±øt","MS",987
+"dark","SC28A","229.1","A","N"," "," ","dµæ∫{∞}k","MS",987
+"good night","SC28A","229.1","I","N"," ","CNV","ıgπºd$Ânaæ∫±øt","MS",987
+"good night","SC28A","229.1","I","N"," "," ","ıgu›Ωºd$Âna´æ∫±øt","MS",987
+"good evening","SC28A","229.1","I","N","at night"," ","Âgπºd$ıi∫‚n±øºn","MS",987
+"night","SC28B","217.2","N","N"," "," ","naæ±øt","MS",988
+"night","SC28C","229.2","N","N"," "," ","na˛´æ±øt","MS",989
+"good night","SC28C","229.2","I","N"," "," ","Âgπºd$ına´æ±øt","MS",989
+"good evening","SC28C","229.2","I","N"," "," ","ıgπºd$Âi∫vn±øºn","MS",989
+"night","SC28D","229.3","N","N"," "," ","na´æ±øt","MS",990
+"good night","SC28D","229.3","I","N"," "," ","ıgπºd$Âna´æ∫±øt","MS",990
+"good evening","SC28D","229.3","I","N"," "," ","ıgπºd$Âi∫vn±øºn","MS",990
+"night","SC29A","230.2(*)","N","N","after supper"," ","na´∫±øt","MS",991
+"evening","SC29A","230.2(*)","N","N","after supper"," ","i∫vn±øºn","MS",991
+"good night","SC29A","230.2(*)","I","N"," "," ","gπºd$Âa´æ±øt","MS",991
+"evening","SC29B","230.1(*)","N","N"," "," ","i∫vn±øºn","MS",992
+"night","SC29B","230.1(*)","N","N"," "," ","na´æ∫±øt","MS",992
+"good night","SC29B","230.1(*)","I","N"," "," ","gπºd$Âna´æ∫±øt","MS",992
+"night","SC29C","230.3","N","N"," "," ","na´æ∫±øt","MS",993
+"good night","SC29C","230.3","I","N"," "," ","ıgπ›d$Âna´æ±øt","MS",993
+"nights","SC29D"," ","N","N"," ","CNV","na´±øts","MS",994
+"good night","SC29D"," ","I","N"," "," ","ıgπºd$Âna´æ±øt","MS",994
+"NR","SC29E"," "," ","N"," "," "," ","MS",995
+"afternight","SC30A","231.1","N","N"," "," ","ı·ft∞Ânµ∫{≤æ}t","MS",996
+"night","SC30B","231.2","N","N","after dark"," ","nµ´º±øt","MS",997
+"evening","SC30B","231.2","N","N","between ""sundown and dark¢"," ","i∫jvn±æn","MS",997
+"good night","SC30B","231.2","I","N","never on meeting"," ","gπºd$Ânaæ±øt","MS",997
+"good night","SC30B","231.2","I","N","never on meeting"," ","gπºd$Ânµ´±øt","MS",997
+"sundown and dark","SC30B","231.2","O","Y"," ","INA","Âs¶Ωnıdaæ∫πn$nñ$Âdﬁ∫{∞}k","MS",997
+"night","SC30C!","231.3!","N","N"," ","CNV","na´æ±øt","MS",998
+"night","SC31A","232.1","N","N"," "," ","na´æ±øt","MS",999
+"night","SC31A","232.1","N","N"," ","CNV","na´æ∫∞´t","MS",999
+"good night","SC31A","232.1","I","N","mother said on meeting or leaving"," ","Âgπºd$Âna´æ∫±øt","MS",999
+"good evening","SC31A","232.1","I","N","at night"," ","Âgπºd$ıi∫vn±øºn","MS",999
+"night","SC31B","232.2","N","N"," ","CNV","nµº±øt","MS",1000
+"night","SC31B","232.2","N","N"," "," ","nµ´º±øt","MS",1000
+"good night","SC31B","232.2","I","N"," "," ","ıgπºd$Âna´æ±æt","MS",1000
+"good evening","SC31B","232.2","I","N"," "," ","gπ›d$Âi∫{j}vn±øºn","MS",1000
+"good evening","SC31B","232.2","I","N"," "," ","Âgπd$ıi∫{j}vn±øºn","MS",1000
+"evening","SC32A","233.1","N","N","sundown till dark"," ","Âi∫{j}vn±øºn","MS",1001
+"night","SC32A","233.1","N","N","after dark","CNV","nµº±øt","MS",1001
+"night","SC32A","233.1","N","N","after dark"," ","na´±øt","MS",1001
+"good night","SC32A","233.1","I","N"," "," ","ıgπø´{∞}d$Âna˛´±øt","MS",1001
+"good evening","SC32A","233.1","I","N"," "," ","ıgπø´{∞}d$Âi∫jvn±øºÓ","MS",1001
+"at night","SC32B","233.2","Q","N"," ","CNV","∞t$Ân•º±øt","MS",1002
+"nights","SC32B","233.2","N","N"," ","CNV","na´æ±øts","MS",1002
+"night","SC32C","233.3","N","N"," ","CNV","naæ±øt","MS",1003
+"evening","SC32C","233.3","N","N"," ","CNV","i∫{j}vn±øΩn","MS",1003
+"good night","SC32C","233.3","I","N"," "," ","g∞ó›´d$Ânaæ±øt","MS",1003
+"good night","SC32C","233.3","I","N"," "," ","g≥›´d$Ânaæ{±ø}'t","MS",1003
+"good evening","SC32C","233.3","I","N"," "," ","g∞ó›´d$Âi∫{j}vn±øΩn","MS",1003
+"evening","SC32D","233.4","N","N","""sometime after night¢"," ","i∫jvn±øºÓ","MS",1004
+"night","SC32D","233.4","N","N"," "," ","na´±øt","MS",1004
+"good night","SC32D","233.4","I","N"," "," ","Âgπø´{∞}d$ınaæ±øt","MS",1004
+"good evening","SC32D","233.4","I","N"," "," ","gπø›´d$Âi∫{j}vn±øºÓ","MS",1004
+"night","SC33A","234.1","N","N"," "," ","naæ∫{≤æ}t","MS",1005
+"good night","SC33A","234.1","I","N","as a greeting"," ","gπød$Ânaæ∫{∞º}t","MS",1005
+"evening","SC33B","234.2","N","N"," "," ","i∫jvn±æÓ","MS",1006
+"night","SC33B","234.2","N","N"," "," ","naæ±øt","MS",1006
+"good evening","SC33B","234.2","I","N"," "," ","ıgπº{∞}d$Âi∫jvn±øΩn","MS",1006
+"good night","SC33B","234.2","I","N"," "," ","Âgπº{∞}d$ınaæ±øt","MS",1006
+"night","SC34A","235.1","N","N"," "," ","na´æ±øt","MS",1007
+"good night","SC34A","235.1","I","N","only on meeting"," ","Âgπº{∞}d$ınaæ±øt","MS",1007
+"evening","SC34B","235.2","N","N","till midnight"," ","i∫jvn±øºÓ","MS",1008
+"night","SC34B","235.2","N","N","after dark, till midnight"," ","na´æ±øt","MS",1008
+"good night","SC34B","235.2","I","N"," "," ","ıgπ›ºd$Ânaæ±øt","MS",1008
+"good evening","SC34B","235.2","I","N","either meet or leave, anytime after 2 PM"," ","ıgπº{∞}d$Âi∫jvn±øºÓ","MS",1008
+"early morning","SC34B","235.2","O","Y","after midnight","INA","≥´±øl±ø´º$Âm∂´∑n±øn","MS",1008
+"night","SC34C","235.3","N","N"," ","CNV","na´æ±øt","MS",1009
+"night","SC34C","235.3","N","N"," ","CNV","na´±øt","MS",1009
+"good night","SC34C","235.3","I","N"," "," ","ıgπº{∞}d$Âna´æ±øt","MS",1009
+"night","SC35A","236.1","N","N","after 6 PM"," ","naæ∫±øt","MS",1010
+"good night","SC35A","236.1","I","N"," "," ","gπº{∞}d$Ân∞æ±øt","MS",1010
+"good evening","SC35A","236.1","I","N","at night"," ","ıgπø´{∞}d$Â±∫jvn±øºn","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"night","SC35C","236.3(*)","N","N"," ","CNV","na´æ±øt","MS",1012
+"evening","SC35C","236.3(*)","N","Y"," ","SUG/HRD/DBT","i∫‚n±øºn","MS",1012
+"evening","SC35C","236.3(*)","N","Y"," ","SUG/HRD/DBT","i∫ˆn±ø›n","MS",1012
+"good night","SC35C","236.3(*)","I","N"," "," ","gπºd$Âna´æ±øt","MS",1012
+"night","SC35D"," ","N","N"," "," ","na´æ±øt","MS",1013
+"good night","SC35D"," ","I","N"," "," ","Âgπº{∞}d$ınaæ±øt","MS",1013
+"good evening","SC35D"," ","I","N"," "," ","Âgπº{∞}d$ıi∫jvn±æn","MS",1013
+"NR","SC35E!"," "," ","N"," "," "," ","MS",1014
+"night","SC36A","237.1","N","N"," ","CNV","nµ´∫±ø›t","MS",1015
+"night","SC36B","237.2","N","N","""generally begins when it gets dark¢"," ","nµº±øt","MS",1016
+"good night","SC36B","237.2","I","N","sometime after supper"," ","ıgπºd$Âna´∫±øt","MS",1016
+"good evening","SC36B","237.2","I","N","doesn't last so very long"," ","gπºd$i∫jvn±æn","MS",1016
+"evening","SC36C","237.3","N","N","""supposed to be¢"," ","i∫jvn±æn","MS",1017
+"night","SC36C","237.3","N","N"," "," ","nµ´º∫±øt","MS",1017
+"good night","SC36C","237.3","I","N"," ","CNV","ıgπºd$Ânµ´º±øt","MS",1017
+"good evening","SC36C","237.3","I","N"," ","CNV","gπºd$Âi∫jvn±æn","MS",1017
+"good evening","SC36C","237.3","I","N"," "," ","gπÂÒi∫jvn±æÓ","MS",1017
+"night","SC36D!","237.4!","N","N"," ","CNV","nµ´º±øt","MS",1018
+"night","SC37","238","N","N","after ""dark¢"," ","na´æ±øt","MS",1019
+"good night","SC37","238","I","N"," "," ","ıgπºd$Âna´æ±øt","MS",1019
+"dark","SC37","238","N","Y"," ","INA","dµæ¥k","MS",1019
+"night","SC38N","N239","N","N","after supper"," ","nµ±øt","MS",1020
+"good night","SC38N","N239","I","N"," "," ","gπºd$Ânµº∫±øt","MS",1020
+"good evening","SC38N","N239","I","N"," "," ","gπºd$Âi∫jvn±ø›ºn","MS",1020
+"night","SC38A","239.1","N","N"," ","CNV","na´æ±øt","MS",1021
+"night","SC38A","239.1","N","N"," ","CNV","na´æ∫±øt","MS",1021
+"good night","SC38A","239.1","I","N","""when we meet and leave¢ [FW never","RN1","gπºd$Âna´æ±øt","MS",1021
+"good evening","SC38A","239.1","I","N"," "," ","gπºd$Âi∫jvn±æn","MS",1021
+" ","SC38A","239.1"," "," ","observed on meeting]","RN2"," ","MS",1021
+"night","SC38B","239.2","N","N"," "," ","na´æ±øt","MS",1022
+"good evening","SC38B","239.2","I","N"," "," ","gπºd$Âi∫j‚n±æn","MS",1022
+"good night","SC38B","239.2","I","N"," "," ","ıgπºd$Âna´æ±øt","MS",1022
+"evening","SC38B","239.2","N","N","up to midnight, can start after dinner"," ","i∫j‚n±æn","MS",1022
+"goodbye","SC38B","239.2","I","N"," "," ","gπºd$Âba´æ∫{±ø}","MS",1022
+"evening","SC38C!","239.3!","N","N"," ","CNV","i∫jvn±æÓ","MS",1023
+"night","SC38C!","239.3!","N","N"," "," ","naæ±øt","MS",1023
+"good night","SC38C!","239.3!","I","N"," ","CNV","Âgπºd$ınµº±øt","MS",1023
+"night","SC38D!","239.4(*)!","N","N","""don't know when it is¢"," ","nµ´±øt","MS",1024
+"good night","SC38D!","239.4(*)!","I","N"," "," ","g∞ód$Ânµº±øt","MS",1024
+"good evening","SC38D!","239.4(*)!","I","N"," "," ","gπ›Ωd$Âi∫jvn±æÓ","MS",1024
+"evening","SC38D!","239.4(*)!","N","N","""till 12 o'clock¢"," ","i∫jvn±æÓ","MS",1024
+"night","SC38E!"," ","N","N"," ","CNV","nµº±øt","MS",1025
+"night","SC39A","240.1","N","N"," "," ","naæ±øt","MS",1026
+"good night","SC39A","240.1","I","N"," "," ","ıgπºd$Ânaæ±øt","MS",1026
+"twilight","SC39A","240.1","N","N"," "," ","Ât`wèa´æ∫{∞}ıla´æ±øt","MS",1026
+"night","SC39B!","240.2!","N","N"," "," ","na´æ±øt","MS",1027
+"evening","SC39B!","240.2!","N","N","around cities and towns"," ","iæ∫jvn±ø›n","MS",1027
+"good night","SC39B!","240.2!","I","N","mainly used in parting, occ. in meeting"," ","gπ›ºd$Âna´æ±ø't","MS",1027
+"good evening","SC39B!","240.2!","I","N"," ","CNV","Âgπºd$ıi∫j‚n±æn","MS",1027
+"good night to you","SC39B!","240.2!","I","N","mainly used in parting, occ. in meeting","CNV","Âgπºd$ına´æ±ø't$t`πø›j∞","MS",1027
+"so long","SC39B!","240.2!","I","N"," "," ","Âso´º∫π´$l∑Ω∫∑´Ó","MS",1027
+"evening quits when the sun goes down","SC39B!","240.2!","S","Y"," ","INA/RN1","Âi∫jvn±øn$Âk`wè±´ts$hw≤´n$‰∞$Âs¶Ωn","MS",1027
+" ","SC39B!","240.2!"," "," "," ","RN2","go´º∫πºz$Âd·Ω∫πn","MS",1027
+"night","SC40A","241.1","N","N"," "," ","nµ±øt","MS",1028
+"night","SC40A","241.1","N","N"," "," ","nµ´±øt","MS",1028
+"good night","SC40A","241.1","I","N","very common"," ","ıgπ´ºd$Ânµ´±øt","MS",1028
+"good night","SC40A","241.1","I","N","very common"," ","Âgπºd$ınµ±øt","MS",1028
+"evening","SC40B","241.2","N","N","after 5--6 PM"," ","±ivn±æÓ","MS",1029
+"night","SC40B","241.2","N","N"," "," ","nµ´±øt","MS",1029
+"good night","SC40B","241.2","I","N"," "," ","Âgπºd$ınµ´±øt","MS",1029
+"good night","SC40B","241.2","I","N"," "," ","ıgπ´ºd$Ânµ´±øt","MS",1029
+"night","SC41A","242.1","N","N"," "," ","naæ∫{≤æ}t","MS",1030
+"night","SC41B","242.2","N","N","from sundown"," ","na∫±øt","MS",1031
+"good night","SC41B","242.2","I","N"," "," ","Âgπ´ºd$Ânµ˛´±øt","MS",1031
+"evening","SC41B","242.2","N","N","6 PM till midnight"," ","±ivn±æn","MS",1031
+"night","SC42N","N243","N","N"," "," ","naæ∫±øt","MS",1032
+"good night","SC42N","N243","I","N","""only when leaving 'em¢"," ","g∞èÂnaæ∫±øt","MS",1032
+"good night","SC42N","N243","I","N","""only when leaving 'em¢"," ","ıgπ´ºd$Âna´æ∫±øt","MS",1032
+"night","SC42M"," ","N","N"," ","CNV","naæ±øt","MS",1033
+"after dark","SC42A","243.1","Q","Y"," ","INA","Â·ft∞$dﬁº∫{∞}k","MS",1034
+"night","SC42A","243.1","N","N","""after dark¢"," ","naæ±øt","MS",1034
+"good night","SC42A","243.1","I","N"," "," ","Âgπ´ºd$ınaæ∫±øt","MS",1034
+"howdy","SC42A","243.1","I","Y"," ","INA","haæ∫odiøîº","MS",1034
+"night","SC42B!","243.2!","N","N"," ","CNV","na´æ±øt","MS",1035
+"night","SC42B!","243.2!","N","N"," ","CNV","na˛´æ±ø˛t","MS",1035
+"good evening","SC42B!","243.2!","I","N"," "," ","g∞ó›d$Âi∫jvn±æÓ","MS",1035
+"good night","SC42B!","243.2!","I","N"," "," ","gπøæd$Âna˛æ±øt","MS",1035
+"good evening","SC42B!","243.2!","I","N"," ","CNV","gπºd$Âi∫jvn±æn","MS",1035
+"supper","SC42B!","243.2!","N","Y"," ","INA","s¶Ωp∞›","MS",1035
+"evening","SC42C!","243.3!","N","N"," "," ","ii´‚n±øºÓ","MS",1036
+"evening","SC42C!","243.3!","N","N"," "," ","ii´vn±ø›ºÓà","MS",1036
+"night","SC42C!","243.3!","N","N","""after dark¢"," ","n•Ωº±øt","MS",1036
+"good night","SC42C!","243.3!","I","N"," "," ","Âgπøæ{∞}d$n•Ωº±øt","MS",1036
+"evening","SC42C!","243.3!","N","N"," "," ","iˆn±ø›Óà","MS",1036
+"evening","SC42C!","243.3!","N","N"," "," ","i‚n±øÓ","MS",1036
+"night","SC42C!","243.3!","N","N","""after dark¢"," ","n•Ω{±ø}t","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"night","SC42E!","243.5!","N","N","after dark"," ","na´æ±øt","MS",1038
+"good night","SC42E!","243.5!","I","N"," "," ","gπø›d$Âna´æ±øt","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"night","SC43B","244.2","N","N","when dark"," ","na´æ∫±øt","MS",1040
+"evening","SC43B","244.2","N","N","on till midnight"," ","ii´vn±æn","MS",1040
+"good evening","SC43B","244.2","I","N"," "," ","Âgπ´ºd$Âii´vn±æÓ","MS",1040
+"good night","SC43B","244.2","I","N"," "," ","ıgπ´ºd$Âna´æ±øt","MS",1040
+"evening","SC43B","244.2","N","N","on till midnight","CNV","ii´vn±ΩæÓ","MS",1040
+"night","SC43C","244.3","N","N","bedtime"," ","na´æ±øt","MS",1041
+"evening","SC43C","244.3","N","N","begins c. 5 PM, after supper"," ","iΩi´vn±æÓ","MS",1041
+"good night","SC43C","244.3","I","N"," "," ","ıgπ´ºd$Ânaæ±øt","MS",1041
+"night","SC43C","244.3","N","N","bedtime","CNV","naæ±øt","MS",1041
+"evening","SC43C","244.3","N","N","begins c. 5 PM, after supper"," ","iæi´vn±æÓ","MS",1041
+"night","SC44A","245.1","N","N"," ","CNV","nµ´º∫±øt","MS",1042
+"night","SC44A","245.1","N","N"," ","CNV","nµ´º∫{±ø}t","MS",1042
+"good night","SC44A","245.1","I","N","sometimes when meeting (""old time¢)"," ","ıgπºd$Ânµ´º±øt","MS",1042
+"good night","SC44A","245.1","I","N","sometimes when meeting (""old time¢)"," ","ıgπ´ºd$Ânµ´±øt","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"good night","GA1N","N246","I","N"," "," ","gπd$na´æ±øt","MS",1044
+"goodbye","GA1N","N246","I","N"," "," ","gπd$Âba´æ∫{∞}","MS",1044
+"night","GA1A","246.1(*)","N","N"," ","CNV","n•º±øt","MS",1045
+"night","GA1A","246.1(*)","N","N"," "," ","n•´±øt","MS",1045
+"good night","GA1A","246.1(*)","I","N"," "," ","g∞ó›d$Ân•´±øt","MS",1045
+"good night","GA1A","246.1(*)","I","Y"," ","AUX","ıgπºd$Ân•´±øt","MS",1045
+"night","GA1B","246.11","N","N","after dark","CNV","n•±øt","MS",1046
+"evening","GA1B","246.11","N","N"," "," ","i∫{i´}vn±øÓ","MS",1046
+"night","GA1B","246.11","N","N","after dark"," ","n•Ωº±t","MS",1046
+"night","GA1B","246.11","N","N","after dark"," ","nµº±øt","MS",1046
+"evening","GA1C","246.2","N","N","ambiguous","CNV","i∫{±ø}vn±æn","MS",1047
+"night","GA1C","246.2","N","N"," ","CNV","n•Ωº±øt","MS",1047
+"night","GA1C","246.2","N","N"," ","CNV","n•æ±øt","MS",1047
+"goodbye","GA1C","246.2","I","N"," "," ","gπºd$Âbµº∫{±ø}","MS",1047
+"evening","GA1D","246.3","N","N"," ","CNV","i∫vn±æÓ","MS",1048
+"night","GA1D","246.3","N","N"," ","CNV","n•æ±øt","MS",1048
+"night","GA1D","246.3","N","N"," ","CNV","n•Ωæ±øt","MS",1048
+"good night","GA1D","246.3","I","N"," "," ","Âgπºd$ın•±øt","MS",1048
+"good night","GA1D","246.3","I","N"," ","CNV","ıgπ›ºd$Ân•º±øt","MS",1048
+"good evening","GA1D","246.3","I","N"," ","CNV","gπºd$Âi∫{±}vn±æn","MS",1048
+"evening","GA1E","246.4","N","N"," "," ","i∫vn±æÓ","MS",1049
+"night","GA1E","246.4","N","N"," "," ","n•±øt","MS",1049
+"night","GA1F!","246.5!","N","N"," "," ","n•±øt","MS",1050
+"evening","GA1F!","246.5!","N","N","till bedtime"," ","i∫{∞}vn±øÓ","MS",1050
+"good evening","GA1F!","246.5!","I","N"," "," ","gπd$Âi{∞}vn±øÓ","MS",1050
+"night","GA1G!","246.6!","N","N"," ","CNV","n•´±øt","MS",1051
+"evening","GA1H!","246.7!","N","Y"," ","AUX/CNV","iøîΩºiæ‚n±æn","MS",1052
+"night","GA1H!","246.7!","N","N","sometimes"," ","n•´±t","MS",1052
+"evening","GA1H!","246.7!","N","N"," ","CNV","iøîΩº∫ivn±æÓ","MS",1052
+"good evening","GA1H!","246.7!","I","N"," "," ","gπóºd$Âiæi´ævn±æÓ","MS",1052
+"good night","GA1H!","246.7!","I","N"," ","CNV","gπîΩºd$Ân•´±øt","MS",1052
+"at night","GA1H!","246.7!","Q","N"," "," ","∞tÂn•´±æt","MS",1052
+"night","GA2N","N247","N","Y"," ","AUX/CNV","nµ∫±øt","MS",1053
+"night","GA2A","247.1","N","N","dark"," ","nµº±øt","MS",1054
+"night","GA2A","247.1","N","N","dark"," ","nµ±øt","MS",1054
+"good night","GA2A","247.1","I","N"," ","CNV","gπºd$Ânµ±øt","MS",1054
+"night","GA2B","247.2","N","N"," "," ","nµº±øt","MS",1055
+"good night","GA2B","247.2","I","N","`good evening' for greeting"," ","gπºd$Ânµº±øt","MS",1055
+"good evening","GA2B","247.2","I","N","either meeting or parting"," ","gπºd$Âi∫jvn±æn","MS",1055
+"good evening","GA2B","247.2","I","N","either meeting or parting"," ","gπºd$Âi∫vn±øºn","MS",1055
+"night","GA3A","248.1","N","N","`good night' not used as greeting"," ","n•±øt","MS",1056
+"evening","GA3A","248.1","N","Y"," ","NEW","i∫vn±øÓ","MS",1056
+"night","GA3B","248.2","N","N"," ","CNV","naæ±øt","MS",1057
+"good evening","GA3B","248.2","I","N","meeting or leaving"," ","ıgπºd$Âi∫vn±øºn","MS",1057
+"good night","GA3B","248.2","I","N"," "," ","Âgπºd$ınaæ±øt","MS",1057
+"night","GA4N","N249","N","N","doesn't use `good night' as greeting"," ","n•±øt","MS",1058
+"night","GA4A","249.1","N","N","after dark","CNV","n•º±ø't","MS",1059
+"night","GA4A","249.1","N","N","after dark"," ","n•´±øt","MS",1059
+"evening","GA4A","249.1","N","N"," "," ","i∫vn±øºÓ","MS",1059
+"good evening","GA4A","249.1","I","N"," "," ","ıgπ›d$Âi∫vn±øºÓ","MS",1059
+"good night","GA4A","249.1","I","N"," "," ","ıgπ›d$Ân∞Ω±øt","MS",1059
+"good night","GA4A","249.1","I","N"," ","CNV","Âgπºd$ın•´±øt","MS",1059
+"night","GA4B","249.2","N","N"," ","CNV","n∞Ω±øt","MS",1060
+"good night","GA4B","249.2","I","N"," ","CNV","ıgπº{∞}d$Ân∞Ω±øt","MS",1060
+"night","GA4C!","249.3!","N","N","""starts around nine¢"," ","n•º±øt","MS",1061
+"evening","GA4C!","249.3!","N","N","6--9 PM"," ","i∫vn±øºÓ","MS",1061
+"good night","GA4C!","249.3!","I","N"," "," ","ıgπºd$Ân•º±øt","MS",1061
+"good evening","GA4C!","249.3!","I","N","till midnight"," ","ıgπ›ºd$Âi∫‚n±ø›Ó","MS",1061
+"night","GA5A","250.1","N","N"," "," ","n∞Ω±øt","MS",1062
+"evening","GA5A","250.1","N","N","after 6 PM (or dark)"," ","i∫ˆn±øºÓ","MS",1062
+"good night","GA5A","250.1","I","N"," "," ","ıgπd$Ân∞Ω±øºt","MS",1062
+"good evening","GA5A","250.1","I","N"," "," ","ıgπ›d$Âi∫ˆn±ø›ºÓ","MS",1062
+"night","GA5B","250.2","N","N"," ","CNV","n∞Ω±øt","MS",1063
+"good night","GA5B","250.2","I","N"," ","CNV","ıgπºd$Ân∞Ω±øt","MS",1063
+"good evening","GA5B","250.2","I","N","after dark","CNV","ıgπºd$Âi∫vn±ø›n","MS",1063
+"night","GA5C","250.3","N","N"," "," ","n∞Ω±øt","MS",1064
+"night","GA5C","250.3","N","N"," "," ","n•±ø't","MS",1064
+"good night","GA5C","250.3","I","N"," "," ","Âgπºd$ın•´±øt","MS",1064
+"good evening","GA5C","250.3","I","N"," "," ","Âgπºd$ıi∫vn±ø›Ó","MS",1064
+"night","GA5D!","250.4!","N","N"," ","CNV","n∞Ω±øt","MS",1065
+"good night","GA5D!","250.4!","I","N"," "," ","Âgπºd$ın∞æ±øt","MS",1065
+"night","GA5E!","250.5!","N","N"," ","CNV","n∞Ω±øt","MS",1066
+"good night","GA5E!","250.5!","I","N"," "," ","Âgπº{∞}d$ın•´±ø't","MS",1066
+"good night","GA5E!","250.5!","I","N"," "," ","Âgπº{∞}d$ın•±øÁ","MS",1066
+"good evening","GA5E!","250.5!","I","N"," "," ","Âgπº{∞}d$ıi∫vn±øΩn","MS",1066
+"night","GA6A","251.1","N","N","after dark"," ","n•º±øt","MS",1067
+"night","GA6A","251.1","N","N","after dark","CNV","n∞Ω±øt","MS",1067
+"night","GA6A","251.1","N","N","after dark"," ","n∞æ±øt","MS",1067
+"good night","GA6A","251.1","I","N"," "," ","Âgπ´ºd$ın∞æ±øt","MS",1067
+"good evening","GA6A","251.1","I","N","night"," ","Âgπºd$ıi∫vn±øºn","MS",1067
+"night","GA6B!","251.2!","N","N"," ","CNV","n∞Ω±øt","MS",1068
+"evening","GA6B!","251.2!","N","N","6 PM till midnight"," ","i∫vn±øºÓ","MS",1068
+"good night","GA6B!","251.2!","I","N"," "," ","Â{gè}gπºd$ın•´±øt","MS",1068
+"night","GA7","256","N","N"," ","CNV","na´æ±øt","MS",1069
+"good night","GA7","256","I","N"," "," ","Âgπº{∞}d$ına´æ∫±øt","MS",1069
+"good evening","GA7","256","I","N"," "," ","ıgπº{∞}d$Âi∫vn±øºn","MS",1069
+"dark","GA8A","257.1","N","N","after 7 PM"," ","dµæ∫¥k","MS",1070
+"good evening","GA8A","257.1","I","N"," "," ","ıgπºd$Âi∫ˆn±øºn","MS",1070
+"good night","GA8A","257.1","I","N"," "," ","Âgπî›ºd$ına´æ∫±øt","MS",1070
+"night","GA8B","257.2","N","N"," "," ","na´æ∫±øt","MS",1071
+"good night","GA8B","257.2","I","N"," "," ","ıgπ›d$Âna´æ∫±øt","MS",1071
+"good evening","GA8B","257.2","I","N","after dark"," ","ıgπºÒ$Âi∫vn±øºn","MS",1071
+"night","GA8B","257.2","N","N"," "," ","nµº±øt","MS",1071
+"night","GA9A","257A.1","N","N"," "," ","na´æt","MS",1072
+"evening","GA9A","257A.1","N","N","heard for after dark"," ","i{i´}vn±øn","MS",1072
+"at night","GA9A","257A.1","Q","N"," "," ","∞tÂna´æ±øt","MS",1072
+"of a night","GA9A","257A.1","Q","N"," "," ","∞v$∞$Âna´æ∫t","MS",1072
+"evening","GA9A","257A.1","N","N","also = afternoon","CNV","i∫ˆn±ø›n","MS",1072
+"good night","GA9A","257A.1","I","N"," "," ","Âgπd$ına´æ∫{±ø}t","MS",1072
+"night","GA9A","257A.1","N","N"," "," ","na∫t","MS",1072
+"goodbye","GA9A","257A.1","I","N"," "," ","Âgπd$ıba´æ{∞}","MS",1072
+"night","GA9B","257A.2","N","N"," "," ","na´æ∫±øt","MS",1073
+"night","GA9B","257A.2","N","N"," "," ","na´æ∫t","MS",1073
+"good night","GA9B","257A.2","I","N","not sure if for meeting"," ","gπd$Âna´æ±øt","MS",1073
+"night","GA10A","258.1","N","N"," "," ","na∫±øΩt","MS",1074
+"good night","GA10A","258.1","I","N","as a greeting"," ","gπøºd$Âna∫±øΩt","MS",1074
+"night","GA10B","258.2","N","N"," ","CNV","nµº±øt","MS",1075
+"good evening","GA10B","258.2","I","N"," "," ","gπ›d$Âi∫ˆn±ø›n","MS",1075
+"good night","GA10B","258.2","I","N"," "," ","ıgπºd$Ânµº±øt","MS",1075
+"night","GA11N","N258A","N","N"," ","CNV","na´æ∫t","MS",1076
+"good night","GA11N","N258A","I","N"," "," ","Âgπºd$ına´æ∫t","MS",1076
+"night","GA12A","259.1","N","N"," ","CNV","naæ±øt","MS",1077
+"night","GA12B!","259.2(.3)","N","N","darker"," ","na´æ±øt","MS",1078
+"last evening","GA12B!","259.2(.3)","O","N"," "," ","{l}·{∞}st$Âi∫vn±øn","MS",1078
+"evening","GA12B!","259.2(.3)","N","N","socially superior"," ","i∫{i´}vn±øn","MS",1078
+"good night","GA12B!","259.2(.3)","I","N"," "," ","ıgπºd$Âna´æ±øt","MS",1078
+"second dark","GA12B!","259.2(.3)","O","Y","somewhat jocular but occurs","AMS","Âs≤k∞´nt$dµ¥k","MS",1078
+"first dark","GA12B!","259.2(.3)","O","N","= twilight"," ","Âf≥æ¥s$ıdµ¥k","MS",1078
+"last night","GA12B!","259.2(.3)","O","N"," "," ","{Ï}·st$Âna´æ±øt","MS",1078
+"night","GA13A","260.1","N","N","doesn't use `good night' as greeting"," ","n•Ω∫±øt","MS",1079
+"evening","GA13B!","260.2!","N","N"," "," ","i∫vn±øºÓ","MS",1080
+"night","GA13B!","260.2!","N","N"," "," ","na´æ±øt","MS",1080
+"good evening","GA13B!","260.2!","I","N","""meeting¢; at dark"," ","ıgπºd$Âiæ∫±øvn±øºÓ","MS",1080
+"good night","GA13B!","260.2!","I","N","""going¢; after dark"," ","Âgπºd$ına´æ±øt","MS",1080
+"tonight","GA13B!","260.2!","A","N"," "," ","t∞Ân•º±øt","MS",1080
+"night","GA14A","261.1","N","N"," "," ","nµ´º±øt","MS",1081
+"night","GA14A","261.1","N","N"," ","CNV","naæ±øt","MS",1081
+"good night","GA14A","261.1","I","N"," "," ","Âgπºd$ına´æ±øt","MS",1081
+"good night","GA14B","261.3","I","N","""when you went to leave 'em¢"," ","ıgπºd$Âna´æ∫±øºt","MS",1082
+"good night","GA14B","261.3","I","N","""when you went to leave 'em¢","CNV","Âgπºd$ınaæ∫±øt","MS",1082
+"night","GA14C","261.2","N","N"," "," ","nµ´º±øt","MS",1083
+"good night","GA14C","261.2","I","N"," "," ","Âgπºd$ınµ´º±øt","MS",1083
+"night","GA15A","262.1","N","N"," "," ","naæ∫{≤æ}t","MS",1084
+"dark","GA15B","262.2","N","N"," "," ","dﬁ∫∞k","MS",1085
+"night","GA15B","262.2","N","N"," "," ","naæ∫±øt","MS",1085
+"night","GA15B","262.2","N","N"," "," ","nµº±øt","MS",1085
+"good evening","GA15B","262.2","I","N","noon till midnight"," ","ıgπ›ºd$Âi∫jvn±øºn","MS",1085
+"good night","GA15B","262.2","I","N"," "," ","Âgπºd$ınaæ±øt","MS",1085
+"good evening","GA15B","262.2","I","N","noon till midnight"," ","ıgπºd$Âi∫{j}vn±øºn","MS",1085
+"night","GA16A","263.2","N","N"," "," ","na´±øt","MS",1086
+"good night","GA16A","263.2","I","N"," "," ","gπºd$Âna´æ±øt","MS",1086
+"good evening","GA16A","263.2","I","N","after dark"," ","gπºd$Âi∫vn±øºÓ","MS",1086
+"night","GA16B","263.1","N","N"," "," ","na´±øt","MS",1087
+"night","GA16B","263.1","N","N"," ","CNV","naæ±øt","MS",1087
+"good night","GA16B","263.1","I","N"," "," ","ıgπºd$Ân•´æ±øt","MS",1087
+"night","GA16C","263.21","N","N"," "," ","na´æ±øt","MS",1088
+"good evening","GA16D!","263.3!","I","N","after dark"," ","Âgπºd$ıi∫vn±øºÓ","MS",1089
+"night","GA16D!","263.3!","N","N"," ","CNV","na´æ±øt","MS",1089
+"evening","GA16D!","263.3!","N","N"," "," ","i∫{±ø}vn±øºn","MS",1089
+"good night","GA16D!","263.3!","I","N"," "," ","ıgπ›ºd$Âna´æ±øt","MS",1089
+"night","GA17N","N264","N","N"," "," ","na´æ±øt","MS",1090
+"evening","GA17N","N264","N","N"," "," ","i{i´}vn±øºÓ","MS",1090
+"good night","GA17N","N264","I","N"," "," ","Âgπød$ına´±øt","MS",1090
+"good evening","GA17","264","I","N","some use it in the afternoon"," ","gπ›ºd$ÂiΩ∫vn±øºn","MS",1091
+"good night","GA17","264","I","N"," "," ","gπºd$Ânaæ±ø›t","MS",1091
+"goodbye","GA18A","264A.1","I","N"," "," ","gπºd$Âba´æ∫{∞}","MS",1092
+"night","GA18A","264A.1","N","N"," "," ","na´æ∫±øt","MS",1092
+"good evening","GA18A","264A.1","I","N","as a greeting"," ","Âgπºd$ıi{i´}vn±øn","MS",1092
+"evening","GA18B","264A.2","N","N","6 PM till midnight"," ","i{i´}vn±øn","MS",1093
+"night","GA18B","264A.2","N","N"," ","CNV","na´æ∫t","MS",1093
+"good night","GA19A","265.1","I","Y"," ","AUX2","ıgπ›ºd$Âna´±øt","MS",1094
+"good evening","GA19A","265.1","I","Y","after dark","AUX2","ıgπº{∞}d$Âi∫jvn±øºn","MS",1094
+"goodbye","GA19A","265.1","I","Y"," ","AUX2/DDT","ıgπº{∞}d$Âba´±ø","MS",1094
+"good night","GA19A","265.1","I","Y"," ","AUX2","Âgπºd$ınaæ∫∞´t","MS",1094
+"night","GA19A","265.1","N","Y"," ","AUX2","na´æ∫±øt","MS",1094
+"night","GA19B","265.2","N","N","after dark","CNV","na´æ∫∞´t","MS",1095
+"good evening","GA19B","265.2","I","N","after dark"," ","Âgπº{∞}d$ıi∫j{ˆ}n±ºn","MS",1095
+"good night","GA19B","265.2","I","N"," "," ","Âgπº{∞}d$ına´æ±øt","MS",1095
+"dark","GA20A","266.1","A","N"," "," ","dµæ∫¥k","MS",1096
+"good evening","GA20A","266.1","I","N","greeting after dark"," ","ıgπº{d}d$Âi∫{j}vn±øºn","MS",1096
+"good night","GA20A","266.1","I","N"," "," ","Âgπº{∞}d$ına´æ∫∞´t","MS",1096
+"night","GA20A","266.1","N","N","after supper"," ","na´æ∫±øΩt","MS",1096
+"night","GA20A","266.1","N","N","after supper","CNV","naæ∫∞´t","MS",1096
+"night","GA20B","266.2","N","N"," "," ","na´æ∫∞´t","MS",1097
+"good night","GA20B","266.2","I","N"," "," ","Âgπº{∞}d$ına´æ∫∞´t","MS",1097
+"night","GA21A","267.1","N","N"," "," ","na´æ∫t","MS",1098
+"good evening","GA21A","267.1","I","N","after noon"," ","gπd$Âi∫{i´}‚n±øºn","MS",1098
+"night","GA21A","267.1","N","N"," "," ","na´æ±øt","MS",1098
+"good night","GA21A","267.1","I","N"," "," ","gπøæd$Âna´æ∫±øt","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"evening","GA22A","268A.1","N","N"," "," ","i´∫‚n±øÓ","MS",1100
+"night","GA22A","268A.1","N","N"," "," ","na´±øt","MS",1100
+"good night","GA22A","268A.1","I","N"," "," ","gπ›d$Âna´±øt","MS",1100
+"good evening","GA22B","268A.2","I","N","after supper"," ","ıgπºd$Âi∫vn±ø›n","MS",1101
+"evening","GA22B","268A.2","N","N","till midnight"," ","i∫ˆn±øºn","MS",1101
+"good night","GA22B","268A.2","I","N"," "," ","g∞ód$Âna´æ±øt","MS",1101
+"night","GA23A","268.1","N","N"," ","CNV","na´æ∫±øΩt","MS",1102
+"evening","GA23B","268.11","N","N"," "," ","i{i´}vn±øn","MS",1103
+"night","GA23C","268.2","N","N","after bedtime"," ","na´±øt","MS",1104
+"evening","GA23D!","268.3","N","N","`evening' and `night' interchangeable","CNV","i∫vn±øºÓ","MS",1105
+"good night","GA23D!","268.3","I","N"," "," ","ıgπº{∞}d$Âna´æ±øt","MS",1105
+"night","GA23D!","268.3","N","N","`evening' and `night' interchangeable","CNV","na´æ±øt","MS",1105
+"night","GA23E!","268.4!","N","N"," "," ","na´±øt","MS",1106
+"evening","GA23E!","268.4!","N","N"," "," ","i{i´}vn±øÓ","MS",1106
+"good night","GA23E!","268.4!","I","N"," "," ","Âgπøæd$ına´±øt","MS",1106
+"night","GA23F!","268.5!","N","N"," "," ","na´±øt","MS",1107
+"night","GA23F!","268.5!","N","N"," ","CNV","na´æ±øt","MS",1107
+"evening","GA24N","N269","N","N"," "," ","i∫{i´}vn±øºn","MS",1108
+"night","GA24N","N269","N","N","after dark"," ","na´æ±øt","MS",1108
+"night","GA24A","269.1","N","N"," "," ","nµº∫{≤æ}t","MS",1109
+"good night","GA24A","269.1","I","N","as a greeting"," ","gπød$nµ∫{≤æ}t","MS",1109
+"evening","GA24B","269.2","N","Y"," ","NEW","i∫jvn±øºn","MS",1110
+"twilight","GA24B","269.2","N","N"," "," ","Ât`wèa´æ∫{∞}ıla´æ±øt","MS",1110
+"night","GA24B","269.2","N","N"," "," ","nµ´±øt","MS",1110
+"good night","GA24B","269.2","I","N"," "," ","Âgπºd$ınaæ±øt","MS",1110
+"good evening","GA24B","269.2","I","N"," "," ","Âgπºd$ıi∫jvn±øºÓ","MS",1110
+"night","GA25N","N269A","N","N"," "," ","na´æ±øt","MS",1111
+"night","GA26","270A","N","N","after supper (5 PM)"," ","naæ±øt","MS",1112
+"good night","GA26","270A","I","N"," "," ","gπºd$Ânaæ±øt","MS",1112
+"night","GA26","270A","N","N","after supper (5 PM)"," ","na´±ø›t","MS",1112
+"good evening","GA26","270A","I","N"," "," ","gπºd$i{i´}vn±øÓ","MS",1112
+"good night","GA26","270A","I","N"," "," ","gπºd$Âna∫{±ø}t","MS",1112
+"at night","GA26","270A","Q","N"," ","CNV","∞t$Âna´æ±øt","MS",1112
+"good evening","GA27!","270!","I","N"," "," ","gπΩº{∞}d$Âi∫ˆn±øºn","MS",1113
+"good night","GA27!","270!","I","N","suggests you're going to bed"," ","gπ{∞}d$na∫±øΩt","MS",1113
+"night","GA28","271a","N","N"," "," ","na´æ∫{±ø}t","MS",1114
+"good night","GA29A","271.1","I","N"," "," ","Âgπºd$ınµ±øt","MS",1115
+"night","GA29A","271.1","N","N"," ","CNV","nµ´±øt","MS",1115
+"good evening","GA29A","271.1","I","N"," "," ","Âgπºd$ıi∫vn±øºn","MS",1115
+"good night","GA29B","271.2","I","N"," "," ","gπ›d$Ânµ±øt","MS",1116
+"night","GA29B","271.2","N","N","after supper","CNV","nµ´º±øt","MS",1116
+"evening","GA29B","271.2","N","N"," "," ","i∫{j}vn±øºn","MS",1116
+"good evening","GA29B","271.2","I","N"," "," ","ıgπºd$Âi∫{j}vn±øºn","MS",1116
+"night","GA30A","272.1(*)","N","N"," ","CNV","naæ±øt","MS",1117
+"good night","GA30A","272.1(*)","I","N"," ","CNV","gπ›ºd$Âna´æ±øt","MS",1117
+"night","GA30B","272.2(*)","N","N"," ","CNV","naæ±øt","MS",1118
+"good night","GA30B","272.2(*)","I","N"," "," ","gπ›ºd$Ânaæ±øt","MS",1118
+"evening","GA30C!","272.3!","N","N","after supper"," ","i∫{i´}vn±øÓ","MS",1119
+"good night","GA30C!","272.3!","I","N"," "," ","ıgπºd$Âna´æ±øt","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","MS",1120
+"NR","GA30E"," "," ","N"," "," "," ","MS",1121
+"good night","GA31","272A","I","N"," "," ","gπºd$Âna´æ±ø›t","MS",1122
+"night","GA31","272A","N","N","later than `evening'"," ","na´æ±øt","MS",1122
+"evening","GA31","272A","N","N"," "," ","i{i´}vn±øºn","MS",1122
+"good night","GA32","272B","I","N"," "," ","gπøîd$Âna∫{±ø}t","MS",1123
+"night","GA32","272B","N","N","after supper"," ","na∫{±ø}t","MS",1123
+"evening","GA33A","272C1","N","N"," "," ","i{i´}‚n±øºn","MS",1124
+"night","GA33A","272C1","N","N"," "," ","na´æ±øt","MS",1124
+"evening","GA33B","272C2","N","N","after supper"," ","i∫{i´}vn±øÓ","MS",1125
+"night","GA33B","272C2","N","N","bedtime"," ","na´æ±øt","MS",1125
+"night","GA33B","272C2","N","N","bedtime"," ","na´æ∫±øt","MS",1125
+"night","GA34N","N273","N","N"," ","CNV","naæ±øt","MS",1126
+"good morning","GA34N","N273","I","N"," ","SIC","ıgπºd$Âm∑Ω∑n±øºn","MS",1126
+"night","GA34A","273.1","N","N"," "," ","naæ{≤}t","MS",1127
+"good night","GA34A","273.1","I","N","not long; VA influence; as a greeting (late)"," ","gπød$naæ∫{≤æ}t","MS",1127
+"night","GA34B","273.2","N","N"," ","CNV","naæ±øt","MS",1128
+"good night","GA34B","273.2","I","N"," "," ","ıgπºd$Ânaæ∫±øt","MS",1128
+"night","GA34B","273.2","N","N"," ","CNV","nµ´±øt","MS",1128
+"good evening","GA34B","273.2","I","N","after dark"," ","ıgπºd$Âi∫jvn±øºn","MS",1128
+"night","GA35N","N273A","N","N","after 6 PM"," ","na´æ±øt","MS",1129
+"at night","GA35N","N273A","Q","N"," ","CNV","∞tÂna´æ±øt","MS",1129
+"good night","GA35N","N273A","I","N"," "," ","gπºd$Âna´æ±øt","MS",1129
+"at night","GA36N","N274A","Q","N"," ","CNV","∞t$Âna´æ±øt","MS",1130
+"night","GA36N","N274A","N","N"," "," ","na´±øt","MS",1130
+"good night","GA36N","N274A","I","N"," "," ","ıgπºd$Âna´±øt","MS",1130
+"night","GA37N","2N274","N","N","after supper"," ","na´±øt","MS",1131
+"evening","GA37M!","NC274","N","N","begins at suppertime"," ","i∫{i´}vn±øÓ","MS",1132
+"evening","GA37M!","NC274","N","N","begins at suppertime"," ","iΩ{i´}vn±øÓ","MS",1132
+"good night","GA37A","274.1","I","N"," "," ","ıgπºd$Ânµ´±øt","MS",1133
+"night","GA37A","274.1","N","N"," ","CNV","naæ±øt","MS",1133
+"good evening","GA37A","274.1","I","N","after dark"," ","ıgπºd$Âi∫jvn±øºn","MS",1133
+"night","GA37B","274.2","N","N"," "," ","naæ±øt","MS",1134
+"good night","GA37B","274.2","I","N"," "," ","Âgπø´æd$ınaæ∫±øt","MS",1134
+"night","GA37C","274.21","N","N"," "," ","naæ±øt","MS",1135
+"evening","GA37C","274.21","N","N","after supper"," ","i{i´}vn±øÓ","MS",1135
+"evening","GA37D!","274.7!","N","N","8 PM and later"," ","i∫{i´}vn±øºn","MS",1136
+"good night","GA37D!","274.7!","I","N","almost always on parting (rather than meeting)"," ","Âgπºd$ına´æ±øt","MS",1136
+"night","GA37D!","274.7!","N","N"," "," ","na´æ±øt","MS",1136
+"evening","GA37E!","274.8!","N","N","usually after 6 PM, till 9 PM"," ","i∫{i´}vn±øºÓ","MS",1137
+"at night","GA37E!","274.8!","Q","N","later","CNV","∞t$Âna´æ±øt","MS",1137
+"good evening","GA37E!","274.8!","I","N","later"," ","gπø´d$Âi∫{i´}vn±øÓ","MS",1137
+"night","GA37E!","274.8!","N","N","later"," ","na´æ∫±øt","MS",1137
+"night","GA37F!","274.3!","N","N"," ","CNV","na´æ∫±øt","MS",1138
+"evening","GA37G!","274.4!","N","N","""till you go to bed¢"," ","i∫jvn±æÓ","MS",1139
+"good evening","GA37G!","274.4!","I","N"," "," ","ıgπºd$Âi∫jvn±æÓ","MS",1139
+"good night","GA37G!","274.4!","I","N"," "," ","Âgπºd$ına´æ±øt","MS",1139
+"good night","GA37H!","274.5!","I","N"," "," ","ıgπºd$Âna´æ±øt","MS",1140
+"night","GA37H!","274.5!","N","N"," "," ","na´æ±øt","MS",1140
+"good evening","GA37H!","274.5!","I","N","noon till bedtime"," ","gπΩd$Âi∫jvn±æÓ","MS",1140
+"night","GA37I!","274.6!","N","N"," "," ","na´±øt","MS",1141
+"evening","GA37I!","274.6!","N","N","till about 8 PM"," ","i∫{i´}vn±øÓ","MS",1141
+"night","GA38","275","N","N"," ","CNV","na´±øt","MS",1142
+"when I'd be leaving","GA38","275","S","Y"," ","INA","w≤n$aæ∫{∞}d$b±i$l±iΩv∞n›","MS",1142
+"good night","GA38","275","I","N","""when I'd be leaving¢"," ","gπøæd$Âna´±øt","MS",1142
+"night","GA39","275A","N","N","after supper"," ","na´æ±øt","MS",1143
+"night","GA39","275A","N","N","after supper"," ","na´æ∫t","MS",1143
+"good night","GA39","275A","I","N"," "," ","Âgπºd$ına´æ∫±øt","MS",1143
+"evening","GA40","276A","N","N"," "," ","i∫{i´}vn±øºn","MS",1144
+"evening","GA40","276A","N","N"," "," ","i∫{i´}vn±øºÓ","MS",1144
+"good night","GA40","276A","I","N"," "," ","gπºd$na∫t","MS",1144
+"night","GA40","276A","N","N"," ","CNV","na´æ∫±øt","MS",1144
+"night","GA40","276A","N","N"," ","CNV","na∫t","MS",1144
+"night","GA40","276A","N","N"," ","CNV","na´æ∫t","MS",1144
+"night","GA41","276B","N","N"," ","CNV","na´æ∫±øt","MS",1145
+"of a night","GA41","276B","Q","N"," ","CNV","∞v$∞$na´æ∫t","MS",1145
+"good night","GA42A","276.1","I","N"," "," ","ıgπ›d$Âna´æ∫∞´t","MS",1146
+"night","GA42A","276.1","N","N"," ","CNV","na∫{∞´}t","MS",1146
+"night","GA42A","276.1","N","N"," ","CNV","na´æ∫∞´t","MS",1146
+"good evening","GA42B","276.2","I","N","after dark"," ","ıgπºd$Âi∫jvn±øºn","MS",1147
+"of a night","GA42B","276.2","Q","N"," ","CNV","∞´v$∞$Âna´æ∫∞´t","MS",1147
+"of a night","GA42B","276.2","Q","N"," ","CNV","∞´v$∞$Ânµº∫±øt","MS",1147
+"good night","GA42B","276.2","I","N"," "," ","Âgπ´ºd$ına´æ∫∞´t","MS",1147
+"good night","GA43","277","I","N","as a greeting"," ","gπød$naæ∫{≤æ}t","MS",1148
+"night","GA43","277","N","N"," "," ","naæ∫{≤æ}t","MS",1148
+"good night","GA44A","278.1","I","N"," "," ","ıgπºd$Âna´æ∫±øt","MS",1149
+"night","GA44A","278.1","N","N"," ","CNV","naæ∫±øt","MS",1149
+"night","GA44B","278.2","N","N"," ","CNV","na´æ∫∞´t","MS",1150
+"night","GA44C","278.3","N","N","after supper"," ","naæ±øt","MS",1151
+"good night","GA44C","278.3","I","N"," "," ","ıgπºd$Âna´æ∫∞´t","MS",1151
+"good night","GA44D","278.4","I","N"," ","CNV","gπºd$Ânaæ±øt","MS",1152
+"night","GA44E","278.5","N","N"," "," ","na´æ±øt","MS",1153
+"good night","FL1","252","I","N"," "," ","gπºd$Ân•´æ±øt","MS",1154
+"night","FL1","252","N","N"," "," ","n•Ωº±øt","MS",1154
+"night","FL1","252","N","N"," ","CNV","n•´±øt","MS",1154
+"good night","FL2A","253.1","I","N","might say on meeting"," ","ıg±øó›d$Ânµ´º±øt","MS",1155
+"night","FL2A","253.1","N","N","after supper"," ","nµ´º±øt","MS",1155
+"good evening","FL2A","253.1","I","N","previously after noon; now 6 PM to midnight"," ","Âgπºd$ıi∫vn±øºn","MS",1155
+"night","FL2A","253.1","N","N","after supper"," ","Ânµ±øºt","MS",1155
+"good night","FL2A","253.1","I","N","might say on meeting"," ","Âgπºd$ınµ˛´º±ø˛t","MS",1155
+"night","FL2B","253.2","N","N","dark"," ","na´æ±øt","MS",1156
+"night","FL2C!","253.3!","N","N"," "," ","n•Ω±øt","MS",1157
+"good night","FL2C!","253.3!","I","N"," "," ","Âgπºd$ın•´±øt","MS",1157
+"good evening","FL2C!","253.3!","I","N","after dark"," ","ıgπºd$Âi∫vn±øºn","MS",1157
+"good evening","FL3A","254.1","I","N"," "," ","gπºd$i∫vn±øºn","MS",1158
+"at night","FL3A","254.1","Q","N"," "," ","∞t$Ân∞Ω±øt","MS",1158
+"good night","FL3A","254.1","I","N"," "," ","ıgπºd$Ân∞Ω±øt","MS",1158
+"good night","FL3A","254.1","I","N"," ","CNV","gπ›d$Ân•Ω±øt","MS",1158
+"night","FL3B!","254.2!","N","N"," ","CNV","n∞Ω±øt","MS",1159
+"night","FL4","254A","N","N"," ","CNV","na´æ±øt","MS",1160
+"night","FL5A","255.1","N","N"," ","CNV","naæ±øt","MS",1161
+"night","FL5B","255.2","N","N"," ","CNV","na´æ∫t","MS",1162
+"good night","FL5B","255.2","I","N"," "," ","Âgπºd$ınµ´±øt","MS",1162
+"good night","FL5B","255.2","I","N"," "," ","Âgπºd$ına´æ±øt","MS",1162
+"night","FL5B","255.2","N","N"," ","CNV","na´æ±øt","MS",1162
+"","","","","","","","","",

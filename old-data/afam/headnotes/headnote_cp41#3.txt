@@ -1,0 +1,91 @@
+crop (cp41#3.asc)
+
+Items
+=====
+                             barley    1
+                               crop   63
+                      crop of wheat    2
+                              crops    1
+                he raise a big crop    1
+       I raise a big crop this year    1
+                                job    1
+                         money crop    1
+                                 NR    3
+                   raise a big crop    1
+                we raise a big crop    3
+                              wheat    9
+
+Pronunciations
+==============
+                           k`r‡Ş¼p    1
+                            k`r‡áp    1
+                          k`r‡á{·}p    1
+                             k`rŞp    1
+                            k`r—µ¾p    1
+                             k`rµºp    2
+                        k`ò‡¶”{°}p    1
+                         k`òŠŞ¼{°}p    1
+                            k`ò‡¶p    1
+                         k`ò‡¶{°}p    1
+                            k`ò‡Şp    1
+                        k`ò‡Ş{°}ps    1
+                               krµp    2
+                              krµ—p    1
+                             krµ«¾p    3
+                              krµºp    1
+                              krµ¾p    6
+                               kr¶p   15
+                              kr¶”p    1
+                             kr¶«¼p    1
+                              kr¶¼p    3
+                              kr¶¾p    1
+                               kr·p    1
+                              kr·ºp    1
+                              kr·½p    1
+                             kr¸½¾p    1
+                               krŞp    2
+                            krŞ{°}p    1
+                             krŞ«¼p    3
+                               kráp    5
+                              krá«p    1
+                          krá«º{°}p    1
+                              krá½p    3
+                           kˆ`ñ¶”p    1
+                            kñŞ«¼p    1
+                            kòŞ«¼p    1
+              åk`rµp$°«v$õhwiº{i«}t    1
+                           åk`ò‡Şp    1
+                åm¦•½n±¿«¼$õk`ò‡Şp    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

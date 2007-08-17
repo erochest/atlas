@@ -1,0 +1,1333 @@
+"evener","NY1","50"," ","N"," "," ","MS"," ",1
+"double whiffletree","NY1","50"," ","N"," "," ","MS"," ",1
+"crossbar","NY2A","51.1"," ","N"," "," ","MS"," ",2
+"double whiffletree","NY2A","51.1"," ","N"," "," ","MS"," ",2
+"double whiffletree","NY2B","51.2"," ","N"," "," ","MS"," ",3
+"double whiffletree","NY2C","51.3"," ","N"," "," ","MS"," ",4
+"double whiffletrees","NY3A","401"," ","N"," "," ","MS"," ",5
+"double whiffletree","NY3B","403"," ","N"," "," ","MS"," ",6
+"whiffletrees","NY3C","402"," ","N"," "," ","MS"," ",7
+"whiffletrees","NY3D","404"," ","N"," "," ","MS"," ",8
+"whiffletrees","NY4A","405"," ","N"," "," ","MS"," ",9
+"swiveltrees","NY4B","407"," ","N"," "," ","MS"," ",10
+"pair of whiffletrees","NY4C","408"," ","N"," "," ","MS"," ",11
+"double whiffletree","NY5A","409"," ","N"," "," ","MS"," ",12
+"whiffletrees","NY5B","410"," ","N"," "," ","MS"," ",13
+"NO RESPONSE","NY5C","411"," ","N"," "," ","MS"," ",14
+"whiffletrees","NY5D","412"," ","N"," "," ","MS"," ",15
+"whiffletrees","NY5E","413"," ","N"," "," ","MS"," ",16
+"whiffletrees","NY5F","414"," ","N"," "," ","MS"," ",17
+"evener","NY5G","415"," ","N","Y"," ","MS","just 2 whiff",18
+"whiffletrees","NY5H!","416!"," ","N"," "," ","MS"," ",19
+"whiffletrees","NY5I!","417!"," ","N"," "," ","MS"," ",20
+"whiffletrees","NY6A","418"," ","N"," "," ","MS"," ",21
+"whiffletrees","NY6B","419"," ","N"," "," ","MS"," ",22
+"crossbar","NY7A","420"," ","N","Y"," ","MS","just 2 whiff",23
+"whiffletrees","NY7B","421"," ","N"," "," ","MS"," ",24
+"NO RESPONSE","NY7C","422"," ","N"," "," ","MS"," ",25
+"whiffletrees","NY7D","423"," ","N","Y"," ","MS","heard",26
+"whiffletrees","NY7E","424"," ","N"," "," ","MS"," ",27
+"whiffletrees","NY7F","425"," ","N"," "," ","MS"," ",28
+"NO RESPONSE","NY7G","426"," ","N"," "," ","MS"," ",29
+"whiffletrees","NY7H","427"," ","N"," "," ","MS"," ",30
+"pair of whiffletrees","NY7I","428"," ","N"," "," ","MS"," ",31
+"NO RESPONSE","NY7J!","429!"," ","N"," "," ","MS"," ",32
+"whiffletrees","NY7K!","430!"," ","N"," "," ","MS"," ",33
+"whiffletrees","NY7L!","431!"," ","N"," "," ","MS"," ",34
+"whiffletrees","NY7M!","432!"," ","N"," "," ","MS"," ",35
+"whiffletrees","NY8","432b"," ","N"," "," ","MS"," ",36
+"whiffletrees","NY9A","432c"," ","N"," "," ","MS"," ",37
+"doubletrees","NY9B","433"," ","N"," "," ","MS"," ",38
+"whiffletrees","NY9C","434"," ","N"," "," ","MS"," ",39
+"doubletree","NY10A","435"," ","N"," "," ","MS"," ",40
+"double whiffletree","NY10A","435"," ","N"," "," ","MS"," ",40
+"whiffletrees","NY10B!","436!"," ","N"," "," ","MS"," ",41
+"whiffletrees","NY11","438"," ","N"," "," ","MS"," ",42
+"double whippletree","NY12A","439(*)"," ","N"," "," ","MS"," ",43
+"double whippletrees","NY12A","439(*)"," ","N"," "," ","MS"," ",43
+"whiffletrees","NY12B","440"," ","N"," "," ","MS"," ",44
+"whiffletrees","NY12C!","441!"," ","N"," "," ","MS"," ",45
+"whiffletrees","NY13A","443"," ","N"," "," ","MS"," ",46
+"evener","NY13A","443"," ","N","Y"," ","MS","joins 2",46
+"whiffletrees","NY13B!","444!"," ","N"," "," ","MS"," ",47
+"whiffletrees","NY14A","445"," ","N"," "," ","MS"," ",48
+"evener","NY14A","445"," ","N","Y"," ","MS","joins 2",48
+"evener","NY14B","446"," ","N","Y"," ","MS","joins 2",49
+"whiffletrees","NY14B","446"," ","N"," "," ","MS"," ",49
+"doubletree","NY15A","447"," ","N"," "," ","MS"," ",50
+"doubletree","NY15B","448"," ","N"," "," ","MS"," ",51
+"evener","NY16A","449"," ","N","Y"," ","MS","joins 2",52
+"evener","NY16B","450"," ","N","Y"," ","MS","joins 2",53
+"evener","NY17A","451(*)"," ","N","Y"," ","MS","joiner",54
+"whippletrees","NY17A","451(*)"," ","N"," "," ","MS"," ",54
+"double whiffletree","NY17A","451(*)"," ","N"," "," ","MS"," ",54
+"whippletree","NY17B","452"," ","N"," "," ","MS"," ",55
+"double whiffletree","NY18A","453"," ","N"," "," ","MS"," ",56
+"whiffletree","NY18B","454"," ","N"," "," ","MS"," ",57
+"whiffletrees","NY18C!","455!"," ","N"," "," ","MS"," ",58
+"evener","NY19","456"," ","N","Y"," ","MS","joins 2",59
+"whiffletrees","NY20A","457"," ","N"," "," ","MS"," ",60
+"evener","NY20A","457"," ","N","Y"," ","MS","joins 2 tag",60
+"evener","NY20B","458"," ","N","Y"," ","MS","joins 2 tag",61
+"whiffletrees","NY20B","458"," ","N"," "," ","MS"," ",61
+"evener","NY21","459"," ","N","Y"," ","MS","joins 2 tag",62
+"whiffletrees","NY21","459"," ","N"," "," ","MS"," ",62
+"set of whiffletrees","NY22","460"," ","N"," "," ","MS"," ",63
+"evener","NY22","460"," ","N","Y"," ","MS","joins 2 tag",63
+"evener","NY23A","461"," ","N"," "," ","MS"," ",64
+"double whippletrees","NY23B","462a"," ","N"," "," ","MS"," ",65
+"evener","NY23C","462b"," ","N"," "," ","MS"," ",66
+"doubletree","NY24A","463"," ","N","Y"," ","MS","same thing",67
+"set of whippletrees","NY24A","463"," ","N"," "," ","MS"," ",67
+"whippletrees","NY24B!","464!"," ","N"," "," ","MS"," ",68
+"double whiffletree","NY25A","465"," ","N"," "," ","MS"," ",69
+"double whiffletree","NY25B","466"," ","N"," "," ","MS"," ",70
+"whippletrees","NY26A","467"," ","N"," "," ","MS"," ",71
+"whiffletrees and evener","NY26A","467"," ","N","N"," ","MS"," ",71
+"evener","NY26B","468"," ","N"," "," ","MS"," ",72
+"evener","NY26C","469"," ","N"," "," ","MS"," ",73
+"whippletrees","NY26C","469"," ","N"," "," ","MS"," ",73
+"evener","NY27A","470"," ","N"," "," ","MS"," ",74
+"evener","NY27B","471"," ","N"," "," ","MS"," ",75
+"double whippletrees","NY27C","472"," ","N"," "," ","MS"," ",76
+"evener","NY27C","472"," ","N"," "," ","MS"," ",76
+"two whippletrees","NY28A","473a"," ","N"," "," ","MS"," ",77
+"two whippletrees","NY28B","473b(*)"," ","N"," "," ","MS"," ",78
+"evener","NY28B","473b(*)"," ","N"," "," ","MS"," ",78
+" ","NY28C"," "," "," "," "," "," "," ",79
+"evener","NY29A","474a"," ","N"," "," ","MS"," ",80
+"whippletrees","NY29B","474b"," ","N"," "," ","MS"," ",81
+"evener","NY29B","474b"," ","N"," "," ","MS"," ",81
+"evener","NY29C","474c"," ","N"," "," ","MS"," ",82
+"evener","NY30A","475a"," ","N"," "," ","MS"," ",83
+"whippletrees","NY30A","475a"," ","N","Y"," ","MS","on both ends",83
+"evener","NY30B","475b"," ","N"," "," ","MS"," ",84
+"doubletree","NY30B","475b"," ","N"," "," ","MS"," ",84
+"evener","NY30C","475c"," ","N"," "," ","MS"," ",85
+"evener","NY30D","475d"," ","N"," "," ","MS"," ",86
+"eventree","NY30E","475e"," ","N"," "," ","MS"," ",87
+"evener","NY31A","478a"," ","N"," "," ","MS"," ",88
+"evener","NY31B","478b"," ","N"," "," ","MS"," ",89
+"doubletree","NY31B","478b"," ","N","Y"," ","MS","heard",89
+"evener","NY32A","479a"," ","N"," "," ","MS"," ",90
+"doubletrees","NY32A","479a"," ","N"," "," ","MS"," ",90
+"evener","NY32B","479b"," ","N"," "," ","MS"," ",91
+"evener","NY33A","480"," ","N"," "," ","MS"," ",92
+"evener","NY33B","481"," ","N"," "," ","MS"," ",93
+"evener","NY33C","482"," ","N"," "," ","MS"," ",94
+"evener","NY34A","483"," ","N"," "," ","MS"," ",95
+"NO RESPONSE","NY34B","484"," ","N"," "," ","MS"," ",96
+"reach","NY34C","485"," ","N"," "," ","MS"," ",97
+"evener","NY34C","485"," ","N"," "," ","MS"," ",97
+"NO RESPONSE","NY34D!","486!"," ","N"," "," ","MS"," ",98
+"whiffletrees","NY35A","487"," ","N"," "," ","MS"," ",99
+"evener","NY35A","487"," ","N","Y"," ","MS","joins 2",99
+"evener","NY35B","488"," ","N","Y"," ","MS","joins 2",100
+"whiffletrees","NY35B","488"," ","N"," "," ","MS"," ",100
+"whiffletrees","NY35C!","489!"," ","N"," "," ","MS"," ",101
+"whiffletrees","NY36A","491"," ","N"," "," ","MS"," ",102
+"evener","NY36A","491"," ","N","Y"," ","MS","joins 2",102
+"evener","NY36B","492"," ","N","Y"," ","MS","joins 2",103
+"whiffletrees","NY36B","492"," ","N"," "," ","MS"," ",103
+"evener","NY37A","493"," ","N","Y"," ","MS","joins 2",104
+"whiffletrees","NY37A","493"," ","N"," "," ","MS"," ",104
+"whiffletrees","NY37B","494"," ","N"," "," ","MS"," ",105
+"evener","NY37B","494"," ","N"," "," ","MS"," ",105
+"whippletrees","NY37C!","495!"," ","N"," "," ","MS"," ",106
+"whiffletrees","NY38A","497(*)"," ","N"," "," ","MS"," ",107
+"evener","NY38A","497(*)"," ","N","Y"," ","MS","joins 2",107
+"evener","NY38B","498"," ","N"," "," ","MS"," ",108
+"whippletrees","NY38B","498"," ","N"," "," ","MS"," ",108
+" ","NY38C"," "," "," "," "," "," "," ",109
+"double whiffletree","NY39A","499"," ","N"," "," ","MS"," ",110
+"evener","NY39A","499"," ","N","Y"," ","MS","joins 2",110
+"whiffletrees","NY39B","500"," ","N"," "," ","MS"," ",111
+"whippletrees","NY39B","500"," ","N"," "," ","MS"," ",111
+"evener","NY39B","500"," ","N"," "," ","MS"," ",111
+"whiffletrees","NY40A","501"," ","N"," "," ","MS"," ",112
+"doubletree","NY40A","501"," ","N"," "," ","MS"," ",112
+"evener","NY40A","501"," ","N","Y"," ","MS","joins 2",112
+"evener","NY40B","502"," ","N","Y"," ","MS","joins 2",113
+"double whiffletree","NY40B","502"," ","N"," "," ","MS"," ",113
+"whiffletrees","NY41","504"," ","N"," "," ","MS"," ",114
+"evener","NY41","504"," ","N","Y"," ","MS","joins 2",114
+"evener","NY42A","505"," ","N","Y"," ","MS","joins 2",115
+"whippletrees","NY42A","505"," ","N"," "," ","MS"," ",115
+"whippletrees","NY42B","506"," ","N"," "," ","MS"," ",116
+"evener","NY42B","506"," ","N"," "," ","MS"," ",116
+"evener","NY43A","507"," ","N"," "," ","MS"," ",117
+"whippletrees","NY43A","507"," ","N"," "," ","MS"," ",117
+"whiffletrees","NY43B","507b"," ","N"," "," ","MS"," ",118
+"evener","NY43B","507b"," ","N"," "," ","MS"," ",118
+"whiffletrees","NY43C!","508!"," ","N"," "," ","MS"," ",119
+"whiffletrees","NY44A","511"," ","N"," "," ","MS"," ",120
+"evener","NY44A","511"," ","N"," "," ","MS"," ",120
+"evener","NY44B","512"," ","N","Y"," ","MS","joins 2",121
+"whiffletree","NY44B","512"," ","N"," "," ","MS"," ",121
+"whiffletrees","NY45A","513a"," ","N"," "," ","MS"," ",122
+"evener","NY45A","513a"," ","N"," "," ","MS"," ",122
+"evener","NY45B","513b"," ","N"," "," ","MS"," ",123
+"doubletree","NY45B","513b"," ","N"," "," ","MS"," ",123
+"singletrees","NY45C","513c"," ","N"," "," ","MS"," ",124
+"doub","NY45C","513c"," ","N"," "," ","MS"," ",124
+"NO RESPONSE","NY45D!","513d!"," ","N"," "," ","MS"," ",125
+"whippletree","NY46A","515a"," ","N"," "," ","MS"," ",126
+"doubletree","NY46A","515a"," ","N"," "," ","MS"," ",126
+"doubletree","NY46B","515b"," ","N"," "," ","MS"," ",127
+"whippletrees","NY46B","515b"," ","N"," "," ","MS"," ",127
+"doubletree","NY46C","515c"," ","N"," "," ","MS"," ",128
+"doubletree","NY47A","517(*)"," ","N"," "," ","MS"," ",129
+"evener","NY47A","517(*)"," ","N","Y"," ","MS","""more unusua",129
+"whiffletrees","NY47B","518"," ","N"," "," ","MS"," ",130
+"evener","NY48A","519a"," ","N"," "," ","MS"," ",131
+"doubletree","NY48A","519a"," ","N"," "," ","MS"," ",131
+"evener","NY48B","519b"," ","N"," "," ","MS"," ",132
+"three-horse woman","NY48C","519c"," ","N"," "," ","MS"," ",133
+"evener","NY48C","519c"," ","N"," "," ","MS"," ",133
+"whiffletrees","NY48C","519c"," ","N"," "," ","MS"," ",133
+"evener","NY48D","519d"," ","N"," "," ","MS"," ",134
+"doubletrees","NY49A","520"," ","N"," "," ","MS"," ",135
+"doubletrees","NY49B","521"," ","N"," "," ","MS"," ",136
+"evener","NY49B","521"," "," ","Y"," ","MS","joins 2",136
+"crosstree","NY49C","522a"," ","N"," "," ","MS"," ",137
+"NO RESPONSE","NY49D","522b"," ","N"," "," ","MS"," ",138
+"evener","NY50A","523"," ","N"," "," ","MS"," ",139
+"evener","NY50B","524"," ","N"," "," ","MS"," ",140
+"evener","NY51A","525a"," ","N"," "," ","MS"," ",141
+"singletree","NY51B","525b"," ","N","Y"," ","MS","each end",142
+"whiffletree","NY51B","525b"," ","N","Y"," ","MS","evener",142
+"doubletrees","NY51C","525c"," ","N"," "," ","MS"," ",143
+"doubletree","NY51D","525d"," ","N"," "," ","MS"," ",144
+"evener","NY51E!","525e!"," ","N"," "," ","MS"," ",145
+"evener","NY52A","527"," ","N"," "," ","MS"," ",146
+"NO RESPONSE","NY52B","528"," ","N"," "," ","MS"," ",147
+"NO RESPONSE","NY52C","528b"," ","N"," "," ","MS"," ",148
+"trebletree","NY53A","529"," ","N"," "," ","MS"," ",149
+"doubletree","NY53A","529"," ","N"," "," ","MS"," ",149
+"NO RESPONSE","NY53B!","530!"," ","N"," "," ","MS"," ",150
+"doubletree","NY54A","531"," ","N"," "," ","MS"," ",151
+"evener","NY54B","532"," ","N"," "," ","MS"," ",152
+"doubletree","NY55A","533"," ","N"," "," ","MS"," ",153
+"two whiffletrees on an evener","NY55A","533"," ","N","N"," ","MS"," ",153
+"evener","NY55B","534"," ","N"," "," ","MS"," ",154
+"evener","NY56A","535"," ","N"," "," ","MS"," ",155
+"evener","NY56B","536"," ","N"," "," ","MS"," ",156
+"evener","NY57A","537a"," ","N"," "," ","MS"," ",157
+"evener","NY57B","537b"," ","N"," "," ","MS"," ",158
+"whippletrees","NY57C!","537c!"," ","N"," "," ","MS"," ",159
+"evener","NY58A","539a"," ","N"," "," ","MS"," ",160
+"whiffletree","NY58B","539b"," ","N"," "," ","MS"," ",161
+"evener","NY58C","539c"," ","N"," "," ","MS"," ",162
+"evener","NY58D!","539d!"," ","N"," "," ","MS"," ",163
+"doubletree","NY58E!","539e!"," ","N","Y"," ","MS"," ",164
+"NO RESPONSE","NY58F!","539f!"," ","N"," "," ","MS"," ",165
+"evener","NY59A","543"," ","N"," "," ","MS"," ",166
+"evener","NY59B","544"," ","N"," "," ","MS"," ",167
+"evener","NY60A","545"," ","N"," "," ","MS"," ",168
+"whiffletrees","NY60B!","546!"," ","N"," "," ","MS"," ",169
+"evener","NY61A","547"," ","N"," "," ","MS"," ",170
+"set of whiffletrees","NY61B","548"," ","N"," "," ","MS"," ",171
+"doubletree","NY62A","551a"," ","N"," "," ","MS"," ",172
+"two whiffletrees","NY62B","551b"," ","N"," "," ","MS"," ",173
+"whippletrees","NY62C","551c"," ","N"," "," ","MS"," ",174
+"evener","NY62D!","551d!"," ","N","Y"," ","MS"," ",175
+"whiffletree","NY62D!","551d!"," ","N"," "," ","MS"," ",175
+"evener on whippletrees","NY63A","556a"," ","N","N"," ","MS"," ",176
+" ","NY63A","556a"," "," "," "," ","MS"," ",176
+"double whiffletree","NY63B","556b"," ","N"," "," ","MS"," ",177
+"evener","NY63C","556c"," ","N"," "," ","MS"," ",178
+"evener","NY63D!","556d!"," ","N"," "," ","MS"," ",179
+"evener","NY64A","557a"," ","N"," "," ","MS"," ",180
+"evener","NY64B","557b"," ","N"," "," ","MS"," ",181
+"NO RESPONSE","NY64C!","557c!"," ","N"," "," ","MS"," ",182
+"evener","NJ1A","1"," ","N"," "," ","MS"," ",183
+"evener","NJ1B","2"," ","N"," "," ","MS"," ",184
+"double swingletree","NJ2A","3(*)"," ","N"," "," ","MS"," ",185
+"evener","NJ2B","4"," ","N"," "," ","MS"," ",186
+"double swingletree","NJ2B","4"," ","N","Y"," ","MS","heard",186
+"double swingletree","NJ3A","5"," ","N"," "," ","MS"," ",187
+"two-horse swingletree","NJ3B","6"," ","N","N"," ","MS"," ",188
+"evener","NJ3B","6"," ","N"," "," ","MS"," ",188
+"double swingletree","NJ4A","7"," ","N"," "," ","MS"," ",189
+"evener","NJ4B","8"," ","N"," "," ","MS"," ",190
+"double singletree","NJ4B","8"," ","N"," "," ","MS"," ",190
+"double swingletree","NJ5A","9"," ","N"," "," ","MS"," ",191
+"evener","NJ5A","9"," ","N"," "," ","MS"," ",191
+"doubletree","NJ5B","10"," ","N"," "," ","MS"," ",192
+"doubletree","NJ6A","11"," ","N"," "," ","MS"," ",193
+"doubletree","NJ6B","12"," ","N"," "," ","MS"," ",194
+"double singletree","NJ7A","17"," ","N"," "," ","MS"," ",195
+"double swingletree","NJ7B!","18!"," ","N"," "," ","MS"," ",196
+"swingletrees","NJ7B!","18!"," ","N"," "," ","MS"," ",196
+"NO RESPONSE","NJ8A","19"," ","N"," "," ","MS"," ",197
+"doubletree","NJ8B","20"," ","N"," "," ","MS"," ",198
+"whiffletrees","NJ9A","21"," ","N"," "," ","MS"," ",199
+"whiffletrees","NJ9B","22"," ","N"," "," ","MS"," ",200
+"whiffletrees","NJ10A","24b"," ","N"," "," ","MS"," ",201
+"whiffletrees","NJ10B","23"," ","N"," "," ","MS"," ",202
+"whiffletrees","NJ10C","24"," ","N"," "," ","MS"," ",203
+"double whiffletree","NJ10D!","24c!"," ","N"," "," ","MS"," ",204
+"double swiveltree","NJ11A","25"," ","N"," "," ","MS"," ",205
+"double whiffletree","NJ11A","25"," ","N"," "," ","MS"," ",205
+"whiffletrees","NJ11B","26a"," ","N"," "," ","MS"," ",206
+"swiveltrees","NJ11C","26b"," ","N"," "," ","MS"," ",207
+"double swiveltree","NJ12A","27"," ","N"," "," ","MS"," ",208
+"doubletree","NJ12B","28"," ","N","Y"," ","MS","""joining par",209
+"the swiveltrees","NJ13A","29"," ","N"," "," ","MS"," ",210
+"doubletree","NJ13B","30"," ","N"," "," ","MS"," ",211
+"set of swiveltrees","NJ13B","30"," ","N"," "," ","MS"," ",211
+"two span","NJ14A","31"," ","N"," "," ","MS"," ",212
+"two span","NJ14B","32"," ","N"," "," ","MS"," ",213
+"doubletree","NJ15A","33"," ","N"," "," ","MS"," ",214
+"doubletree","NJ15B","34"," ","N"," "," ","MS"," ",215
+"two span","NJ16A","35"," ","N"," "," ","MS"," ",216
+"doubletree","NJ16B","36"," ","N"," "," ","MS"," ",217
+"swiveltrees","NJ17A","37"," ","N"," "," ","MS"," ",218
+"doubletree","NJ17A","37"," ","N","Y"," ","MS","""what joins",218
+"doubletree","NJ17B","38"," ","N"," "," ","MS"," ",219
+"whiffletrees","NJ18A","41"," ","N"," "," ","MS"," ",220
+"whiffletrees","NJ18B","42"," ","N"," "," ","MS"," ",221
+"whiffletrees","NJ18C!","43!"," ","N"," "," ","MS"," ",222
+"whiffletrees","NJ18D!","44!"," ","N"," "," ","MS"," ",223
+"whiffletrees","NJ19A","45"," ","N"," "," ","MS"," ",224
+"whiffletrees","NJ19B!","46!"," ","N"," "," ","MS"," ",225
+"whiffletrees","NJ20A","47"," ","N"," "," ","MS"," ",226
+"whiffletrees","NJ20B","47b"," ","N"," "," ","MS"," ",227
+"doubletree","NJ21A","48"," ","N"," "," ","MS"," ",228
+"double whiffletree","NJ21B","49"," ","N"," "," ","MS"," ",229
+"double singletree","PA1A","51"," ","N"," "," ","MS"," ",230
+"double singletree","PA1B","52"," ","N"," "," ","MS"," ",231
+"double swingletree","PA1C","53"," ","N"," "," ","MS"," ",232
+"doubletree","PA1D","54"," ","N"," "," ","MS"," ",233
+"doubletree","PA1E!","55!"," ","N"," "," ","MS"," ",234
+"swingletrees","PA1F!","56!"," ","N"," "," ","MS"," ",235
+"doubletree","PA1G!","57!"," ","N"," "," ","MS"," ",236
+"double singletree","PA1H!","58!"," ","N","Y"," ","MS","heard",237
+"doubletree","PA2A","59"," ","N"," "," ","MS"," ",238
+"doubletree","PA2B","60"," ","N"," "," ","MS"," ",239
+"double swingletree","PA3A","61"," ","N"," "," ","MS"," ",240
+"doubletree","PA3B","62"," ","N"," "," ","MS"," ",241
+"doubletree","PA3C","62b"," ","N"," "," ","MS"," ",242
+"doubletree","PA4A","63"," ","N"," "," ","MS"," ",243
+"double singletree","PA4B!","64!"," ","N"," "," ","MS"," ",244
+"double swingletree","PA5A","65(*)"," ","N"," "," ","MS"," ",245
+"doubletree","PA5A","65(*)"," ","N"," "," ","MS"," ",245
+"doubletree","PA5B","65b"," ","N"," "," ","MS"," ",246
+"doubletree","PA5C","66"," ","N"," "," ","MS"," ",247
+"doubletree","PA5D","67"," ","N"," "," ","MS"," ",248
+"doubletree","PA5E!","68!"," ","N"," "," ","MS"," ",249
+"doubletree","PA6A","69"," ","N"," "," ","MS"," ",250
+"double swingletree","PA6B","71"," ","N"," "," ","MS"," ",251
+"doubletree","PA6C","71b"," ","N"," "," ","MS"," ",252
+"NO RESPONSE","PA6D!","72!"," ","N"," "," ","MS"," ",253
+"doubletree","PA7A","73"," ","N"," "," ","MS"," ",254
+"doubletree","PA7B","74"," ","N"," "," ","MS"," ",255
+"doubletree","PA7C","75"," ","N"," "," ","MS"," ",256
+"***","PA7C","75"," ","N","Y"," ","MS","Dutch",256
+"crosstree","PA7D!","76!"," ","Y","Y"," ","MS","heard, ? [f.",257
+"doubletree","PA8A","77"," ","N"," "," ","MS"," ",258
+"doubletree","PA8B","78"," ","N"," "," ","MS"," ",259
+"doubletree","PA8C","79"," ","N"," "," ","MS"," ",260
+"doubletree","PA8D!","80!"," ","N"," "," ","MS"," ",261
+"doubletree","PA9A","83"," ","N"," "," ","MS"," ",262
+"doubletree","PA9B","83b"," ","N"," "," ","MS"," ",263
+"NO RESPONSE","PA9C!","84!"," ","N"," "," ","MS"," ",264
+"doubletree","PA10","87"," ","N"," "," ","MS"," ",265
+"doubletree","PA11A","89"," ","N"," "," ","MS"," ",266
+"doubletree","PA11B","90(*)"," ","N"," "," ","MS"," ",267
+"doubletree","PA12A","91"," ","N"," "," ","MS"," ",268
+"doubletree","PA12B","92"," ","N"," "," ","MS"," ",269
+"doubletree","PA13A","93"," ","N"," "," ","MS"," ",270
+"doubletree","PA13B","94"," ","N"," "," ","MS"," ",271
+"doubletree","PA14A","95(*)"," ","N"," "," ","MS"," ",272
+"doubletree","PA14B","96"," ","N"," "," ","MS"," ",273
+" ","PA14C"," "," "," "," "," "," "," ",274
+"doubletree","PA15A","99"," ","N"," "," ","MS"," ",275
+"evener","PA15A","99"," ","N","Y"," ","MS"," ",275
+"ERROR","PA15B","99b"," ","N"," "," ","MS"," ",276
+"doubletree","PA15C!","100!"," ","N","Y"," ","MS"," ",277
+"doubletree","PA16A","101"," ","N"," "," ","MS"," ",278
+"double singletree","PA16B","102"," ","N"," "," ","MS"," ",279
+"doubletree","PA16C","103"," ","N"," "," ","MS"," ",280
+"doubletree","PA17A","105"," ","N"," "," ","MS"," ",281
+"double swiveltrees","PA17B","106"," ","N"," "," ","MS"," ",282
+"doubletree","PA18A","107"," ","N"," "," ","MS"," ",283
+"doubletree","PA18B!","108!"," ","N"," "," ","MS"," ",284
+"doubletree","PA19A","113"," ","N"," "," ","MS"," ",285
+"doubletree","PA19B","114"," ","N"," "," ","MS"," ",286
+"doubletree","PA20A","115"," ","N","Y"," ","MS","""part that j",287
+"doubletree","PA20B","116"," ","N"," "," ","MS"," ",288
+"doubletree","PA21A","117"," ","N","Y"," ","MS","""connects tw",289
+"double whippletree","PA21B","118"," ","N"," "," ","MS"," ",290
+"evener","PA21B","118"," ","N"," "," ","MS"," ",290
+"whiffletrees","PA22A","119"," ","N","Y"," ","MS","""the two",291
+"doubletree","PA22A","119"," ","N","Y"," ","MS","""the joining",291
+"doubletree","PA22B","120"," ","N","Y"," ","MS","the) whole t",292
+"set of whiffletrees","PA23A","121"," ","N","Y"," ","MS","""whole thing",293
+"evener","PA23A","121"," ","N","Y"," ","MS","joins the tw",293
+"doubletrees","PA23B","122"," ","N","Y"," ","MS","""pair""",294
+"evener","PA23B","122"," ","N","Y"," ","MS","""what joins",294
+"double whiffletree","PA24A","123"," ","N"," "," ","MS"," ",295
+"doubletree","PA24B","124"," ","N"," "," ","MS"," ",296
+"doubletree","PA25A","125"," ","N","Y"," ","MS","""all togethe",297
+"doubletree","PA25B","126"," ","N"," "," ","MS"," ",298
+"evener","PA26A","127"," ","N"," "," ","MS"," ",299
+"swiveltrees","PA26B","128"," ","N","Y"," ","MS","""two trees a",300
+"doubletree","PA26B","128"," ","N","Y"," ","MS","""pieces that",300
+"evener","PA27A","131"," ","N","Y"," ","MS","""joins two t",301
+"evener","PA27B","132"," ","N","Y"," ","MS","""the joining",302
+"doubletree","PA27B","132"," ","N","Y"," ","MS","""the whole t",302
+"whiffletrees","PA27B","132"," ","N","Y"," ","MS","two whifflet",302
+"doubletree","PA28A","135"," ","N"," "," ","MS"," ",303
+"NO RESPONSE","PA28B!","136!"," ","N"," "," ","MS"," ",304
+"doubletree","PA29A","139(*)"," ","N"," "," ","MS"," ",305
+"doubletree","PA29B","140"," ","N"," "," ","MS"," ",306
+"evener","PA30A","143"," ","N","Y"," ","MS","""joins two w",307
+"evener","PA30B","144"," ","N","Y"," ","MS","""joins whiff",308
+"doubletree","PA31A","145"," ","N"," "," ","MS"," ",309
+"evener","PA31B","146"," ","N","Y"," ","MS","""joins 2 wh'",310
+"doubletree","PA32A","147"," ","N"," "," ","MS"," ",311
+"doubletree","PA32B","148"," ","N"," "," ","MS"," ",312
+"doubletree","PA33A","151"," ","N"," "," ","MS"," ",313
+"doubletree","PA33B","152"," ","N"," "," ","MS"," ",314
+"doubletree","PA34A","155"," ","N"," "," ","MS"," ",315
+"doubletree","PA34B","156"," ","N"," "," ","MS"," ",316
+"doubletree","PA34C!","155b!"," ","N"," "," ","MS"," ",317
+"doubletree","PA35A","157"," ","N"," "," ","MS"," ",318
+"doubletree","PA35B","158(*)"," ","N"," "," ","MS"," ",319
+" ","PA35C"," "," "," "," "," "," "," ",320
+"doubletree","PA36A","159"," ","N"," "," ","MS"," ",321
+"doubletree","PA36B","160"," ","N"," "," ","MS"," ",322
+"doubletree","PA37A","161(*)"," ","N"," "," ","MS"," ",323
+"doubletree","PA37B","162"," ","N"," "," ","MS"," ",324
+" ","PA37C"," "," "," "," "," "," "," ",325
+"doubletree","PA38A","163"," ","N"," "," ","MS"," ",326
+"doubletree","PA38B","164"," ","N"," "," ","MS"," ",327
+"doubletree","PA39A","165"," ","N"," "," ","MS"," ",328
+"doubletree","PA39B","166"," ","N"," "," ","MS"," ",329
+"doubletree","PA40A","167"," ","N"," "," ","MS"," ",330
+"doubletree","PA40B","168"," ","N"," "," ","MS"," ",331
+"doubletree","PA41A","171"," ","N"," "," ","MS"," ",332
+"doubletree","PA41B","172"," ","N"," "," ","MS"," ",333
+"doubletree","PA42A","175"," ","N"," "," ","MS"," ",334
+"doubletree","PA42B","176"," ","N"," "," ","MS"," ",335
+"doubletree","PA43A","177"," ","N"," "," ","MS"," ",336
+"doubletree","PA43B","178"," ","N"," "," ","MS"," ",337
+"doubletree","PA44A","179"," ","N"," "," ","MS"," ",338
+"doubletree","PA44B","180"," ","N"," "," ","MS"," ",339
+"doubletree","PA45A","181"," ","N"," "," ","MS"," ",340
+"doubletree","PA45B","182"," ","N"," "," ","MS"," ",341
+"doubletree","PA46A","185"," ","N"," "," ","MS"," ",342
+"doubletree","PA46B","186"," ","N"," "," ","MS"," ",343
+"doubletree","PA47A","189"," ","N"," "," ","MS"," ",344
+"doubletree","PA47B","190"," ","N"," "," ","MS"," ",345
+"doubletree","PA48A","191"," ","N"," "," ","MS"," ",346
+"doubletree","PA48B","192"," ","N"," "," ","MS"," ",347
+"doubletree","PA48C","193"," ","N"," "," ","MS"," ",348
+"doubletree","PA49A","194"," ","N"," "," ","MS"," ",349
+"doubletree","PA49B","195"," ","N"," "," ","MS"," ",350
+"doubletree","PA50A","196"," ","N"," "," ","MS"," ",351
+"doubletree","PA50B","197"," ","N"," "," ","MS"," ",352
+"doubletree","PA50C!","198!"," ","N"," "," ","MS"," ",353
+"doubletree","PA51A","199"," ","N"," "," ","MS"," ",354
+"doubletree","PA51B","200"," ","N"," "," ","MS"," ",355
+"doubletree","PA52A","201"," ","N"," "," ","MS"," ",356
+"doubletree","PA52B!","202!"," ","N"," "," ","MS"," ",357
+"doubletree","PA53A","203"," ","N"," "," ","MS"," ",358
+"doubletree","PA53B","204"," ","N"," "," ","MS"," ",359
+"doubletree","PA54A","205"," ","N"," "," ","MS"," ",360
+"doubletree","PA54B","206"," ","N"," "," ","MS"," ",361
+"doubletree","PA55A","207"," ","N"," "," ","MS"," ",362
+"doubletree","PA55B","208"," ","N"," "," ","MS"," ",363
+"doubletree","PA56A","211(*)"," ","N"," "," ","MS"," ",364
+"doubletree","PA56B","212"," ","N"," "," ","MS"," ",365
+"doubletree","PA57A","213"," ","N"," "," ","MS"," ",366
+"doubletree","PA57B","214"," ","N"," "," ","MS"," ",367
+"doubletree","PA58A","215"," ","N"," "," ","MS"," ",368
+"doubletree","PA58B","216"," ","N"," "," ","MS"," ",369
+"doubletree","PA59A","219"," ","N"," "," ","MS"," ",370
+"doubletree","PA59B","220"," ","N"," "," ","MS"," ",371
+"doubletree","PA60A","221"," ","N"," "," ","MS"," ",372
+"doubletree","PA60B","222"," ","N"," "," ","MS"," ",373
+"doubletree","PA61A","223"," ","N"," "," ","MS"," ",374
+"doubletree","PA61B","224"," ","N"," "," ","MS"," ",375
+"doubletree","PA62A","229"," ","N"," "," ","MS"," ",376
+"doubletree","PA62B","230"," ","N"," "," ","MS"," ",377
+"doubletree","PA63A","231"," ","N"," "," ","MS"," ",378
+"doubletree","PA63B","232"," ","N"," "," ","MS"," ",379
+"evener","PA64A","233"," ","N","Y"," ","MS","joins 2 toge",380
+"evener","PA64B","234"," ","N","Y"," ","MS","joins 2 toge",381
+"evener","PA65A","237"," ","N"," "," ","MS"," ",382
+"doubletree","PA65B","238"," ","N"," "," ","MS"," ",383
+"doubletree","PA66A","239"," ","N"," "," ","MS"," ",384
+"whippletrees","PA66B","240"," ","N","Y"," ","MS"," ",385
+"doubletrees","PA66B","240"," ","N"," "," ","MS"," ",385
+"evener","PA67A","243"," ","N","Y"," ","MS","""what whiffl",386
+"whippletrees","PA67A","243"," ","N","Y"," ","MS","""the whole t",386
+"whippletrees","PA67B","244"," ","N","Y"," ","MS","""includes th",387
+"evener","PA67B","244"," ","N","Y"," ","MS","joins 2 toge",387
+"double singletree","WV1!","88!"," ","N"," "," ","MS"," ",388
+"doubletree","WV2","89"," ","N"," "," ","MS"," ",389
+"doubletree","WV3","91"," ","N"," "," ","MS"," ",390
+"doubletree","WV4A","92"," ","N"," "," ","MS"," ",391
+"doubletree","WV4B","93"," ","N"," "," ","MS"," ",392
+"doubletree","WV5","94"," ","N"," "," ","MS"," ",393
+"doubletree","WV6A","95"," ","N"," "," ","MS"," ",394
+"doubletree","WV6B","96"," ","N"," "," ","MS"," ",395
+"doubletree","WV7A","97"," ","N"," "," ","MS"," ",396
+"doubletree","WV7B","98"," ","N"," "," ","MS"," ",397
+"doubletree","WV8A","97b"," ","N"," "," ","MS"," ",398
+"doubletree","WV8B","98b"," ","N"," "," ","MS"," ",399
+"doubletree","WV9A","301"," ","N"," "," ","MS"," ",400
+"doubletree","WV9B","302"," ","N"," "," ","MS"," ",401
+"doubletree","WV10A","303"," ","N"," "," ","MS"," ",402
+"doubletree","WV10B","303b"," ","N"," "," ","MS"," ",403
+"doubletree","WV10C","304"," ","N"," "," ","MS"," ",404
+"doubletree","WV11A","305"," ","N"," "," ","MS"," ",405
+"doubletree","WV11B!","306!"," ","N"," "," ","MS"," ",406
+"doubletree","WV12A","307"," ","N"," "," ","MS"," ",407
+"doubletree","WV12B","308"," ","N"," "," ","MS"," ",408
+"doubletree","WV13A","309"," ","N"," "," ","MS"," ",409
+"doubletree","WV13B","310"," ","N"," "," ","MS"," ",410
+"doubletree","WV14A","311"," ","N"," "," ","MS"," ",411
+"doubletree","WV14B","312"," ","N"," "," ","MS"," ",412
+"doubletree","WV15A","313"," ","N"," "," ","MS"," ",413
+"doubletree","WV15B","314"," ","N"," "," ","MS"," ",414
+"doubletree","WV16A","315"," ","N"," "," ","MS"," ",415
+"doubletree","WV16B","316"," ","N"," "," ","MS"," ",416
+"doubletree","WV17A","317"," ","N"," "," ","MS"," ",417
+"doubletree","WV17B","317b"," ","N"," "," ","MS"," ",418
+"doubletree","WV17C","318"," ","N"," "," ","MS"," ",419
+"doubletree","WV18A","319"," ","N"," "," ","MS"," ",420
+"doubletree","WV18B","320"," ","N"," "," ","MS"," ",421
+"doubletree","WV19A","321"," ","N"," "," ","MS"," ",422
+"doubletree","WV19B","322"," ","N"," "," ","MS"," ",423
+"doubletree","WV20A","323"," ","Y"," "," ","MS"," ",424
+"doubletree","WV20B","324"," ","N"," "," ","MS"," ",425
+"doubletree","WV21A","325"," ","N"," "," ","MS"," ",426
+"evener","WV21B","326"," ","N","Y"," ","MS","o-f",427
+"doubletree","WV21B","326"," ","N"," "," ","MS"," ",427
+"doubletree","WV22A","327"," ","N"," "," ","MS"," ",428
+"doubletree","WV22B","328"," ","N"," "," ","MS"," ",429
+"doubletree","WV23A","331"," ","N"," "," ","MS"," ",430
+"doubletree","WV23B","332"," ","N"," "," ","MS"," ",431
+"doubletree","WV24A","335"," ","N"," "," ","MS"," ",432
+"doubletree","WV24B","336"," ","N"," "," ","MS"," ",433
+"doubletree","WV25A","337"," ","N"," "," ","MS"," ",434
+"doubletree","WV25B","338"," ","N"," "," ","MS"," ",435
+"doubletree","WV26A","339"," ","N"," "," ","MS"," ",436
+"doubletree","WV26B","340"," ","N"," "," ","MS"," ",437
+"doubletree","WV27A","341"," ","N"," "," ","MS"," ",438
+"doubletree","WV27B","342"," ","N"," "," ","MS"," ",439
+"doubletree","WV28A","343"," ","N"," "," ","MS"," ",440
+"doubletree","WV28B","344"," ","N"," "," ","MS"," ",441
+"doubletree","WV29A","345"," ","N"," "," ","MS"," ",442
+"doubletree","WV29B","346"," ","N"," "," ","MS"," ",443
+"doubletree","WV30A","347"," ","N"," "," ","MS"," ",444
+"doubletree","WV30B","348"," ","N"," "," ","MS"," ",445
+"doubletree","WV31A","349"," ","N"," "," ","MS"," ",446
+"double swingletree","WV31B","350"," ","N"," "," ","MS"," ",447
+"doubletree","WV32A","353"," ","N"," "," ","MS"," ",448
+"doubletree","WV32B","354"," ","N"," "," ","MS"," ",449
+"doubletree","WV33A","355"," ","N"," "," ","MS"," ",450
+"doubletree","WV33B","356"," ","N"," "," ","MS"," ",451
+"doubletree","WV34A","359"," ","N"," "," ","MS"," ",452
+"doubletree","WV34B","360"," ","N"," "," ","MS"," ",453
+"doubletree","WV35A","361"," ","N"," "," ","MS"," ",454
+"doubletree","WV35B","362"," ","N"," "," ","MS"," ",455
+"doubletree","WV36A","363"," ","N"," "," ","MS"," ",456
+"doubletree","WV36B","364"," ","N"," "," ","MS"," ",457
+"doubletree","WV37A","365"," ","N"," "," ","MS"," ",458
+"doubletree","WV37B!","366!"," ","N"," "," ","MS"," ",459
+"doubletree","WV38A","367"," ","N"," "," ","MS"," ",460
+"doubletree","WV38B","368"," ","N"," "," ","MS"," ",461
+"doubletree","WV39A","369"," ","N"," "," ","MS"," ",462
+"doubletree","WV39B","370"," ","N"," "," ","MS"," ",463
+"doubletree","WV39C!","371!"," ","N"," "," ","MS"," ",464
+"doubletree","WV40A","373"," ","N"," "," ","MS"," ",465
+"doubletree","WV40B","374"," ","N"," "," ","MS"," ",466
+"doubletree","WV41A","375"," ","N"," "," ","MS"," ",467
+"doubletree","WV41B","376"," ","N"," "," ","MS"," ",468
+"doubletree","WV42A","377"," ","N"," "," ","MS"," ",469
+"doubletree","WV42B","378"," ","N"," "," ","MS"," ",470
+"doubletree","WV43A","381"," ","N"," "," ","MS"," ",471
+"doubletree","WV43B","382"," ","N"," "," ","MS"," ",472
+"doubletree","WV44A","383"," ","N"," "," ","MS"," ",473
+"doubletree","WV44B","384"," ","N"," "," ","MS"," ",474
+"doubletree","WV45A","385"," ","N"," "," ","MS"," ",475
+"doubletree","WV45B","386"," ","N"," "," ","MS"," ",476
+"doubletree","WV46A","387"," ","N"," "," ","MS"," ",477
+"doubletree","WV46B","388"," ","N"," "," ","MS"," ",478
+"doubletree","WV47A","389"," ","N"," "," ","MS"," ",479
+"doubletree","WV47B","390"," ","N"," "," ","MS"," ",480
+"doubletree","WV48A","391"," ","N"," "," ","MS"," ",481
+"doubletree","WV48B","391b"," ","N"," "," ","MS"," ",482
+"evener","WV48C","392"," ","N"," "," ","MS"," ",483
+"doubletree","WV48C","392"," ","N"," "," ","MS"," ",483
+"doubletree","WV48D","392b"," ","N"," "," ","MS"," ",484
+"evener","WV48D","392b"," ","N"," "," ","MS"," ",484
+"doubletree","WV49A","393"," ","N"," "," ","MS"," ",485
+"doubletree","WV49B","394"," ","N"," "," ","MS"," ",486
+"doubletree","WV50A","395"," ","N"," "," ","MS"," ",487
+"doubletree","WV50B","396"," ","N"," "," ","MS"," ",488
+"doubletree","WV51A","261"," ","N"," "," ","MS"," ",489
+"doubletree","WV51B","262"," ","N"," "," ","MS"," ",490
+"doubletree","WV52A","258"," ","N"," "," ","MS"," ",491
+"doubletree","WV52B","259"," ","N"," "," ","MS"," ",492
+"doubletree","WV52C!","260!"," ","N"," "," ","MS"," ",493
+"doubletree","WV53A","257"," ","N"," "," ","MS"," ",494
+"doubletree","WV53B","257b"," ","N"," "," ","MS"," ",495
+"doubletree","WV53C!","257c!"," ","N"," "," ","MS"," ",496
+"doubletree","WV54A","255"," ","N"," "," ","MS"," ",497
+"doubletree","WV54B","256"," ","N"," "," ","MS"," ",498
+"doubletree","DE1A","11"," ","N"," "," ","MS"," ",499
+"doubletree","DE1B","12"," ","N"," "," ","MS"," ",500
+"NO RESPONSE","DE1C!","13!"," ","N"," "," ","MS"," ",501
+"doubletree","DE2A","15(*)"," ","N"," "," ","MS"," ",502
+"doubletree","DE2B","16"," ","N"," "," ","MS"," ",503
+" ","DE2C"," "," "," "," "," "," "," ",504
+"doubletree","DE3A","18"," ","N"," "," ","MS"," ",505
+"two horse singletree","DE3A","18"," ","N"," "," ","MS"," ",505
+"doubletree","DE3B","19"," ","N"," "," ","MS"," ",506
+"doubletree","DE3C!","17!"," ","N"," "," ","MS"," ",507
+"doubletree","DE4","20"," ","N"," "," ","MS"," ",508
+"double swingletree","DE5A","21"," ","N"," "," ","MS"," ",509
+"doubletree","DE5B","22"," ","N"," "," ","MS"," ",510
+"double swingletree","DE6A","23"," ","N"," "," ","MS"," ",511
+"crossbar","DE6B","24"," ","N"," "," ","MS"," ",512
+"double swingletree","DE6B","24"," ","N"," "," ","MS"," ",512
+"stretcher","DE6B","24"," ","N"," "," ","MS"," ",512
+"doubletree","MD1A","27"," ","N"," "," ","MS"," ",513
+"tripletree","MD1B","28"," ","N"," "," ","MS"," ",514
+"doubletree","MD1B","28"," ","N"," "," ","MS"," ",514
+"doubletree","MD2A","31a"," ","N"," "," ","MS"," ",515
+"doubletree","MD2B","32"," ","N"," "," ","MS"," ",516
+"crosstree","MD3A","33"," ","N"," "," ","MS"," ",517
+"double singletree","MD3A","33"," ","N"," "," ","MS"," ",517
+"doubletree","MD3B","34"," ","N"," "," ","MS"," ",518
+"double swingletree","MD4A","35b"," ","N"," "," ","MS"," ",519
+"doubletree","MD4B","35"," ","N"," "," ","MS"," ",520
+"tripletree","MD4C","36"," ","N"," "," ","MS"," ",521
+"doubletree","MD4C","36"," ","N"," "," ","MS"," ",521
+"doubletree","MD5A","37"," ","N"," "," ","MS"," ",522
+"doubletree","MD5B","38"," ","N"," "," ","MS"," ",523
+"doubletree","MD6A","39(*)"," ","N"," "," ","MS"," ",524
+"double swingletree","MD6A","39(*)"," ","N"," "," ","MS"," ",524
+"doubletree","MD6B","40"," ","N"," "," ","MS"," ",525
+"double swingletree","MD7A","41"," ","N"," "," ","MS"," ",526
+"doubletree","MD7B","41b"," ","N"," "," ","MS"," ",527
+"doubletree","MD7C!","42!"," ","N"," "," ","MS"," ",528
+"double swingletree","MD8A","43"," ","N"," "," ","MS"," ",529
+"double singletree","MD8B","44"," ","N"," "," ","MS"," ",530
+"doubletree","MD8B","44"," ","N"," "," ","MS"," ",530
+"doubletree","MD9N","N46"," ","N"," "," ","MS"," ",531
+"doubletree","MD9A","45"," ","N"," "," ","MS"," ",532
+"doubletree","MD9B","46"," ","N"," "," ","MS"," ",533
+"doubletree","MD10A","49"," ","N"," "," ","MS"," ",534
+"doubletree","MD10B","50"," ","N"," "," ","MS"," ",535
+"doubletree","MD11","51"," ","N"," "," ","MS"," ",536
+"doubletree","MD12A","52"," ","N"," "," ","MS"," ",537
+"doubletree","MD12B","53"," ","N"," "," ","MS"," ",538
+"doubletree","MD13A","54(*)"," ","N"," "," ","MS"," ",539
+"doubletree","MD13B","55"," ","N"," "," ","MS"," ",540
+"double swingletree","MD13C","56"," ","N"," "," ","MS"," ",541
+"double swingletree","MD13D!","57!"," ","N"," "," ","MS"," ",542
+"NO RESPONSE","MD13E!","58!"," ","N"," "," ","MS"," ",543
+"NO RESPONSE","MD13F!","59!"," ","N"," "," ","MS"," ",544
+" ","MD13G"," "," "," "," "," "," "," ",545
+"doubletree","MD14","61(*)"," ","N"," "," ","MS"," ",546
+"double swingletree","MD15A","62"," ","N"," "," ","MS"," ",547
+"doubletree","MD15B","63"," ","N"," "," ","MS"," ",548
+"doubletree","MD16","64"," ","N"," "," ","MS"," ",549
+"double singletree","MD17A","65"," ","N"," "," ","MS"," ",550
+"doubletree","MD17B","66"," ","N"," "," ","MS"," ",551
+"doubletree","MD18A","67"," ","N"," "," ","MS"," ",552
+"doubletree","MD18B","68"," ","N"," "," ","MS"," ",553
+"drawbar","MD18B","68"," ","N"," "," ","MS"," ",553
+"doubletree","MD19A","69"," ","N"," "," ","MS"," ",554
+"doubletree","MD19B","70"," ","N"," "," ","MS"," ",555
+"doubletree","MD20A","71"," ","N"," "," ","MS"," ",556
+"double swingletree","MD20B","72"," ","N"," "," ","MS"," ",557
+"NO RESPONSE","MD20C!","73!"," ","N"," "," ","MS"," ",558
+"doubletree","MD21A","75"," ","N"," "," ","MS"," ",559
+"double swingletree","MD21B","76"," ","N"," "," ","MS"," ",560
+"double singletree","MD22N","N77"," ","N"," "," ","MS"," ",561
+"double swingletree","MD22M","N78"," ","N"," "," ","MS"," ",562
+"long swingletree","MD22M","N78"," ","N"," "," ","MS"," ",562
+"doubletree","MD22A","77"," ","N"," "," ","MS"," ",563
+"double singletree","MD22B","78"," ","N"," "," ","MS"," ",564
+"double singletree","MD22C!","79!"," ","N"," "," ","MS"," ",565
+"double singletree","MD23A","80b"," ","N"," "," ","MS"," ",566
+"double singletree","MD23B","80a"," ","N"," "," ","MS"," ",567
+"doubletree","MD23C","81"," ","N"," "," ","MS"," ",568
+"long singletree","MD24","82"," ","N"," "," ","MS"," ",569
+"double singletree","MD24","82"," ","N"," "," ","MS"," ",569
+"doubletree","MD25","84"," ","N"," "," ","MS"," ",570
+"doubletree","MD26A","83"," ","N"," "," ","MS"," ",571
+"NO RESPONSE","MD26B","83A"," ","N"," "," ","MS"," ",572
+"doubletree","MD27A","85"," ","N"," "," ","MS"," ",573
+"doubletree","MD27B","86"," ","N"," "," ","MS"," ",574
+"doubletree","DC1A","99"," ","N"," "," ","MS"," ",575
+"NO RESPONSE","DC1B!","100!"," ","N"," "," ","MS"," ",576
+"NO RESPONSE","VA1!","101!"," ","N"," "," ","MS"," ",577
+"doubletree","VA2A","103"," ","N"," "," ","MS"," ",578
+"triple doubletree","VA2B","104"," ","N"," "," ","MS"," ",579
+"doubletree","VA2B","104"," ","N"," "," ","MS"," ",579
+"doubletree","VA3A","105(*)"," ","N"," "," ","MS"," ",580
+"doubletree","VA3B","106"," ","N"," "," ","MS"," ",581
+" ","VA3C"," "," "," "," "," "," "," ",582
+"doubletree","VA4N","N109"," ","N"," "," ","MS"," ",583
+"triple doubletree","VA4N","N109"," ","N"," "," ","MS"," ",583
+"doubletree","VA5A","107"," ","N"," "," ","MS"," ",584
+"doubletree","VA5B","108"," ","N"," "," ","MS"," ",585
+"doubletree","VA6A","113"," ","N"," "," ","MS"," ",586
+"doubletree","VA6B","114"," ","N"," "," ","MS"," ",587
+"doubletree","VA7A","121"," ","N"," "," ","MS"," ",588
+"triple doubletree","VA7A","121"," ","N"," "," ","MS"," ",588
+"tripletree","VA7B","122"," ","N"," "," ","MS"," ",589
+"double bar","VA7B","122"," ","N"," "," ","MS"," ",589
+"doublebar","VA8A","123"," ","N"," "," ","MS"," ",590
+"crossbar","VA8B","124"," ","N"," "," ","MS"," ",591
+"doubletree","VA8C!","125!"," ","N"," "," ","MS"," ",592
+"double crossbar","VA9A","117"," ","N"," "," ","MS"," ",593
+"crossbar","VA9A","117"," ","N"," "," ","MS"," ",593
+"doublebar","VA9B!","118!"," ","N"," "," ","MS"," ",594
+"crossbar","VA10A","127"," ","N"," "," ","MS"," ",595
+"triple crossbar","VA10A","127"," ","N"," "," ","MS"," ",595
+"doubletree","VA10B","128"," ","N"," "," ","MS"," ",596
+"doubletree bar","VA10B","128"," ","N"," "," ","MS"," ",596
+"double singletree","VA11A","129"," ","N"," "," ","MS"," ",597
+"doublebar","VA11B","130"," ","N"," "," ","MS"," ",598
+"NO RESPONSE","VA12N","N131"," ","N"," "," ","MS"," ",599
+"crossbar","VA12A","131"," ","N"," "," ","MS"," ",600
+"double crossbar","VA12A","131"," ","N"," "," ","MS"," ",600
+"doublebar","VA12B!","132!"," ","N"," "," ","MS"," ",601
+"double singletree","VA13A","133"," ","N"," "," ","MS"," ",602
+"double bar","VA13B","134"," ","N"," "," ","MS"," ",603
+"double singletree","VA14A","135"," ","N"," "," ","MS"," ",604
+"doubletree","VA14B","136"," ","N"," "," ","MS"," ",605
+"double singletree","VA14C","137"," ","N"," "," ","MS"," ",606
+"crossbar","VA15N","N139(*)"," ","N"," "," ","MS"," ",607
+"double bar","VA15A","139"," ","N"," "," ","MS"," ",608
+"double bar","VA15B","140"," ","N"," "," ","MS"," ",609
+"double bar","VA16A","141"," ","N"," "," ","MS"," ",610
+"double bar","VA16B","142"," ","N"," "," ","MS"," ",611
+"triple bar","VA17A","143"," ","N"," "," ","MS"," ",612
+"double bar","VA17A","143"," ","N"," "," ","MS"," ",612
+"double bar","VA17B","144"," ","N"," "," ","MS"," ",613
+"double bar","VA18","145"," ","N"," "," ","MS"," ",614
+"double bar","VA19A","146"," ","N"," "," ","MS"," ",615
+"double swinglebar","VA19B","147"," ","N"," "," ","MS"," ",616
+"double bar","VA19C!","148!"," ","N"," "," ","MS"," ",617
+"double swingletree","VA20A","149"," ","N"," "," ","MS"," ",618
+"double bar","VA20B","150(*)"," ","N"," "," ","MS"," ",619
+"double swinglebar","VA20B","150(*)"," ","N"," "," ","MS"," ",619
+" ","VA20C"," "," "," "," "," "," "," ",620
+"double bar","VA21N","N153"," ","N"," "," ","MS"," ",621
+"double bar","VA21A","153"," ","N"," "," ","MS"," ",622
+"double bar","VA21B","154"," ","N"," "," ","MS"," ",623
+"double bar","VA22","155"," ","N"," "," ","MS"," ",624
+"double swingletree","VA23A","156"," ","N"," "," ","MS"," ",625
+"double bar","VA23B","157"," ","N"," "," ","MS"," ",626
+"double bar","VA24","159"," ","N"," "," ","MS"," ",627
+"triple tree","VA24","159"," ","N"," "," ","MS"," ",627
+"NO RESPONSE","VA25","160(*)"," ","N"," "," ","MS"," ",628
+"NO RESPONSE","VA26A","161A"," ","N"," "," ","MS"," ",629
+"double swingletree","VA26B","161"," ","N"," "," ","MS"," ",630
+"double singletree","VA26B","161"," ","N"," "," ","MS"," ",630
+"double singletree","VA26C","162"," ","N"," "," ","MS"," ",631
+"double swingletree","VA27","163(*)"," ","N"," "," ","MS"," ",632
+"double swingletree","VA28A","164"," ","N"," "," ","MS"," ",633
+"double singletree","VA28B","165"," ","N"," "," ","MS"," ",634
+"triple bley","VA29","166"," ","0"," "," ","MS"," ",635
+"doubletree","VA29","166"," ","N"," "," ","MS"," ",635
+"doubletree","VA30A","167"," ","N"," "," ","MS"," ",636
+"dour","VA30B!","167a!"," ","N"," "," ","MS"," ",637
+"double singletree","VA30B!","167a!"," ","N"," "," ","MS"," ",637
+"doubletree","VA30C!","168!"," ","N"," "," ","MS"," ",638
+"NO RESPONSE","VA30D!","169!"," ","N"," "," ","MS"," ",639
+"doubletree","VA30E!","170!"," ","N"," "," ","MS"," ",640
+"double bar","VA31A","171(*)(**)"," ","N"," "," ","MS"," ",641
+"double singletree","VA31A","171(*)(**)"," ","N"," "," ","MS"," ",641
+"doubletree","VA31B","172"," ","N"," "," ","MS"," ",642
+" ","VA31C"," "," "," "," "," "," "," ",643
+"NO RESPONSE","VA32!","175!"," ","N"," "," ","MS"," ",644
+"triple bar","VA33A","173"," ","N"," "," ","MS"," ",645
+"double bar","VA33A","173"," ","N"," "," ","MS"," ",645
+"double bar","VA33B","174"," ","N"," "," ","MS"," ",646
+"double bar","VA34A","177(*)"," ","N"," "," ","MS"," ",647
+"double bar","VA34B","178"," ","N"," "," ","MS"," ",648
+"double bar","VA35A","179"," ","N"," "," ","MS"," ",649
+"crossbar","VA35A","179"," ","N"," "," ","MS"," ",649
+"doubletree","VA35B","180"," ","N"," "," ","MS"," ",650
+"double singletree","VA36A","181"," ","N"," "," ","MS"," ",651
+"double singletree","VA36B","182"," ","N"," "," ","MS"," ",652
+"triple singletree","VA36B","182"," ","N"," "," ","MS"," ",652
+"double singletree","VA37","183"," ","N"," "," ","MS"," ",653
+"doubletree","VA38","185"," ","N"," "," ","MS"," ",654
+"NO RESPONSE","VA39!","186!"," ","N"," "," ","MS"," ",655
+"double swingletree","VA40A","187"," ","N"," "," ","MS"," ",656
+"doubletree","VA40B","188"," ","N"," "," ","MS"," ",657
+"triple bar","VA41A","191"," ","N"," "," ","MS"," ",658
+"double bar","VA41A","191"," ","N"," "," ","MS"," ",658
+"doubletree","VA41B","192"," ","N"," "," ","MS"," ",659
+"doubletree","VA42A","193(*)(**)"," ","N"," "," ","MS"," ",660
+"triple bar","VA42A","193(*)(**)"," ","N"," "," ","MS"," ",660
+"double singletree","VA42B","194"," ","N"," "," ","MS"," ",661
+"doubletree","VA43N","N195"," ","N"," "," ","MS"," ",662
+"triple bar","VA43A","195"," ","N","Y"," ","MS","heard",663
+"double bar","VA43A","195"," ","N"," "," ","MS"," ",663
+"double bar","VA43B","196"," ","N"," "," ","MS"," ",664
+"tripletree","VA43B","196"," ","N"," "," ","MS"," ",664
+"double singletree","VA44A","199"," ","N"," "," ","MS"," ",665
+"tripletree","VA44B","200"," ","N"," "," ","MS"," ",666
+"doubletree","VA44B","200"," ","N"," "," ","MS"," ",666
+"doubletree","VA45A","201"," ","N"," "," ","MS"," ",667
+"doubletree","VA45B","202"," ","N"," "," ","MS"," ",668
+"tripletree","VA46N","N207"," ","N"," "," ","MS"," ",669
+"doubletree","VA46N","N207"," ","N"," "," ","MS"," ",669
+"doubletree","VA46A","207"," ","N"," "," ","MS"," ",670
+"doubletree","VA46B!","208!"," ","N"," "," ","MS"," ",671
+"doubletree","VA47","211"," ","N"," "," ","MS"," ",672
+"double swingletree","VA48A","213(*)"," ","N"," "," ","MS"," ",673
+"doubletree","VA48B","214"," ","N"," "," ","MS"," ",674
+"doubletree","VA49A","215"," ","N"," "," ","MS"," ",675
+"doubletree","VA49B","216"," ","N"," "," ","MS"," ",676
+"tripletree","VA50A","217"," ","N","Y"," ","MS","heard",677
+"double bar","VA50A","217"," ","N"," "," ","MS"," ",677
+"doubletree","VA50B","218"," ","N"," "," ","MS"," ",678
+"doubletree","VA51A","219"," ","N"," "," ","MS"," ",679
+"double singletree","VA51B","220(*)"," ","N"," "," ","MS"," ",680
+" ","VA51C"," "," "," "," "," "," "," ",681
+"doubletree","VA52A","224"," ","N"," "," ","MS"," ",682
+"doubletree","VA52B","225"," ","N"," "," ","MS"," ",683
+"doubletree","VA52C!","226!"," ","N"," "," ","MS"," ",684
+"doubletree","VA53A","227"," ","N"," "," ","MS"," ",685
+"doubletree","VA53B","228"," ","N"," "," ","MS"," ",686
+"doubletree","VA54A","229"," ","N"," "," ","MS"," ",687
+"doubletree","VA54B","230"," ","N"," "," ","MS"," ",688
+"doubletree","VA55A","233(*)"," ","N"," "," ","MS"," ",689
+"doubletree","VA55B","234(*)"," ","N"," "," ","MS"," ",690
+"doubletree","VA56A","237"," ","N"," "," ","MS"," ",691
+"doubletree","VA56B","238"," ","N"," "," ","MS"," ",692
+"doubletree","VA57A","239"," ","N"," "," ","MS"," ",693
+"doubletree","VA57B","240"," ","N"," "," ","MS"," ",694
+"doubletree","VA58","241(*)"," ","N"," "," ","MS"," ",695
+"tripletree","VA58","241(*)"," ","N"," "," ","MS"," ",695
+"spreader","VA59N","N241"," ","N"," "," ","MS"," ",696
+"doubletree","VA59N","N241"," ","N"," "," ","MS"," ",696
+"doubletree","VA59A","242"," ","N"," "," ","MS"," ",697
+"tripletree","VA59A","242"," ","N"," "," ","MS"," ",697
+"NO RESPONSE","VA59B!","243!"," ","N"," "," ","MS"," ",698
+"doubletree","VA60","244(*)"," ","N"," "," ","MS"," ",699
+"doubletree","VA61A","245(*)"," ","N"," "," ","MS"," ",700
+"doubletree","VA61B!","246!"," ","N"," "," ","MS"," ",701
+" ","VA61C"," "," "," "," "," "," "," ",702
+"tripletree","VA62A","247(*)"," ","N"," "," ","MS"," ",703
+"doubletree","VA62A","247(*)"," ","N"," "," ","MS"," ",703
+"doubletree","VA62B","248"," ","N"," "," ","MS"," ",704
+"doubletree","VA63A","251"," ","N"," "," ","MS"," ",705
+"doubletree","VA63B","252"," ","N"," "," ","MS"," ",706
+"doubletree","VA64A","255"," ","N"," "," ","MS"," ",707
+"doubletree","VA64B","256"," ","N"," "," ","MS"," ",708
+"doubletree","VA65A","257"," ","N"," "," ","MS"," ",709
+"doubletree","VA65B","258"," ","N"," "," ","MS"," ",710
+"NO RESPONSE","VA65C!","259!"," ","N"," "," ","MS"," ",711
+"doubletree","VA66A","261"," ","N"," "," ","MS"," ",712
+"doubletree","VA66B","262"," ","N"," "," ","MS"," ",713
+"doubletree","VA67A","267"," ","N"," "," ","MS"," ",714
+"doubletree","VA67B","268"," ","N"," "," ","MS"," ",715
+"tripletree","VA67B","268"," ","N"," "," ","MS"," ",715
+"doubletree","VA68A","269"," ","N"," "," ","MS"," ",716
+"doubletree","VA68B","270"," ","N"," "," ","MS"," ",717
+"doubletree","VA69A","273"," ","N"," "," ","MS"," ",718
+"doubletree","VA69B","274"," ","N"," "," ","MS"," ",719
+"doubletree","VA70A","275"," ","N"," "," ","MS"," ",720
+"tripletree","VA70B","276"," ","N"," "," ","MS"," ",721
+"doubletree","VA70B","276"," ","N"," "," ","MS"," ",721
+"doubletree","VA71A","285"," ","N"," "," ","MS"," ",722
+"evener","VA71A","285"," ","N"," "," ","MS"," ",722
+"tripletree","VA71B","286"," ","N"," "," ","MS"," ",723
+"doubletree","VA71B","286"," ","N"," "," ","MS"," ",723
+"doubletree","VA72A","287"," ","N"," "," ","MS"," ",724
+"spread","VA72B","288"," ","S"," "," ","MS"," ",725
+"etcher","VA73","291"," ","N","Y"," ","MS","o-f",726
+"doubletree","VA74A","293"," ","N"," "," ","MS"," ",727
+"eventree","VA74A","293"," ","N"," "," ","MS"," ",727
+"NO RESPONSE","VA74B!","294!"," ","N"," "," ","MS"," ",728
+"tripletree","VA75A","297"," ","N"," "," ","MS"," ",729
+"doubletree","VA75A","297"," ","N"," "," ","MS"," ",729
+"doubletree","VA75B","298"," ","N"," "," ","MS"," ",730
+"tripletree","VA75B","298"," ","N"," "," ","MS"," ",730
+"double singletree","NC1","303"," ","N"," "," ","MS"," ",731
+"double swingletree","NC2A","301"," ","N"," "," ","MS"," ",732
+"double swingletree","NC2B","304"," ","N"," "," ","MS"," ",733
+"double swingletree","NC3A","305"," ","N"," "," ","MS"," ",734
+"double singletree","NC3B","306"," ","N"," "," ","MS"," ",735
+"double singletree","NC4A","307"," ","N"," "," ","MS"," ",736
+"double singletree","NC4B","308"," ","N"," "," ","MS"," ",737
+"double swingletree","NC5A","309"," ","N"," "," ","MS"," ",738
+"double swingletree","NC5B","310"," ","N"," "," ","MS"," ",739
+"NO RESPONSE","NC6!","311!"," ","N"," "," ","MS"," ",740
+"double swingletree","NC7A","315(*)"," ","N"," "," ","MS"," ",741
+"doubletree","NC7B","316"," ","N"," "," ","MS"," ",742
+"double singletree","NC8N","N317"," ","N"," "," ","MS"," ",743
+"double swingletree","NC8A","317"," ","N"," "," ","MS"," ",744
+"double swingletree","NC8B","318(*)"," ","N"," "," ","MS"," ",745
+"double swingletree","NC8B","318(*)"," ","N"," "," ","MS"," ",745
+"double swingletree","NC9A","319"," ","N"," "," ","MS"," ",746
+"double singletree","NC9B","320"," ","N"," "," ","MS"," ",747
+"double swingletree","NC10A","321"," ","N"," "," ","MS"," ",748
+"double swingletree","NC10B","323"," ","N"," "," ","MS"," ",749
+"double singletree","NC10C","322"," ","N"," "," ","MS"," ",750
+"double singletree","NC11A","325"," ","N"," "," ","MS"," ",751
+"double singletree","NC11B","326"," ","N"," "," ","MS"," ",752
+"double swingletree","NC12A","327(*)"," ","N"," "," ","MS"," ",753
+"doubletree","NC12B","328"," ","N"," "," ","MS"," ",754
+"double swingletree","NC13A","329"," ","N"," "," ","MS"," ",755
+"crosstree","NC13B","330(*)"," ","N"," "," ","MS"," ",756
+"double singletree","NC13B","330(*)"," ","N"," "," ","MS"," ",756
+"double swingletree","NC14N","N331"," ","N"," "," ","MS"," ",757
+"double swingletree","NC14A","331"," ","N"," "," ","MS"," ",758
+"crosstree","NC14A","331"," ","N"," "," ","MS"," ",758
+"double swingletree","NC14B","332"," ","N"," "," ","MS"," ",759
+"double singletree","NC14B","332"," ","N"," "," ","MS"," ",759
+"doubletree","NC14C!","333!"," ","N"," "," ","MS"," ",760
+"double singletree","NC15A","335(*)"," ","N"," "," ","MS"," ",761
+"doubletree","NC15A","335(*)"," ","N"," "," ","MS"," ",761
+"doubletree","NC15B","336"," ","N"," "," ","MS"," ",762
+" ","NC15C"," "," "," "," "," "," "," ",763
+"doubletree","NC16A","339(*)"," ","N"," "," ","MS"," ",764
+"double swingletree","NC16A","339(*)"," ","N"," "," ","MS"," ",764
+"doubletree","NC16B","340"," ","N"," "," ","MS"," ",765
+"doubletree","NC17A","337"," ","N"," "," ","MS"," ",766
+"doubletree","NC17B","338"," ","N"," "," ","MS"," ",767
+"double swingletree","NC18A","341"," ","N"," "," ","MS"," ",768
+"double swingletree","NC18B","342"," ","N"," "," ","MS"," ",769
+"doubletree","NC19A","343"," ","N"," "," ","MS"," ",770
+"doubletree","NC19B","344"," ","N"," "," ","MS"," ",771
+"double swingletree","NC20A","345"," ","N"," "," ","MS"," ",772
+"double swingletree","NC20B","346a"," ","N"," "," ","MS"," ",773
+"double swingletree","NC20C","346b"," ","N"," "," ","MS"," ",774
+"double swingletree","NC21A","347"," ","N"," "," ","MS"," ",775
+"doubletree","NC21B","348"," ","N"," "," ","MS"," ",776
+"doubletree","NC22A","349"," ","N"," "," ","MS"," ",777
+"singletree","NC22B","349b"," ","N"," "," ","MS"," ",778
+"doubletree","NC22B","349b"," ","N"," "," ","MS"," ",778
+"double singletree","NC23A","351a"," ","N"," "," ","MS"," ",779
+"doubletree","NC23B","351b(*)"," ","N"," "," ","MS"," ",780
+"double singletree","NC23B","351b(*)"," ","N"," "," ","MS"," ",780
+"double singletree","NC23C!","351c!"," ","N"," "," ","MS"," ",781
+"doubletree","NC23D!","351d!"," ","N"," "," ","MS"," ",782
+"double singletree","NC24N","N352"," ","N"," "," ","MS"," ",783
+"doubletree","NC24A","352a"," ","N"," "," ","MS"," ",784
+"doubletree","NC24B","352b"," ","N"," "," ","MS"," ",785
+"double swingletree","NC25N","N353"," ","N"," "," ","MS"," ",786
+"doubletree","NC25A","353"," ","N"," "," ","MS"," ",787
+"doubletree","NC25B","354"," ","N"," "," ","MS"," ",788
+"NO RESPONSE","NC26A","355a"," ","N"," "," ","MS"," ",789
+"doubletree","NC26B","355b"," ","N"," "," ","MS"," ",790
+"double singletree","NC26C!","356!"," ","N"," "," ","MS"," ",791
+"doubletree","NC27A","357"," ","N"," "," ","MS"," ",792
+"doubletree","NC27B","258"," ","N"," "," ","MS"," ",793
+"double swingletree","NC28A","361"," ","N"," "," ","MS"," ",794
+" 1","NC28B","361b"," ","N"," "," ","MS"," ",795
+"doubletree","NC28C","362"," ","N"," "," ","MS"," ",796
+"doubletree","NC29A","363(*)"," ","N"," "," ","MS"," ",797
+"double singletree","NC29B","364"," ","N"," "," ","MS"," ",798
+"double singletree","NC30A","365"," ","N"," "," ","MS"," ",799
+"double singletree","NC30A","365"," ","N"," "," ","MS"," ",799
+"double swingletree","NC30B","366"," ","N"," "," ","MS"," ",800
+"doubletree","NC31A","367"," ","N"," "," ","MS"," ",801
+"tripletree","NC31B","368"," ","N"," "," ","MS"," ",802
+"doubletree","NC31B","368"," ","N"," "," ","MS"," ",802
+"doubletree","NC32A","369"," ","N"," "," ","MS"," ",803
+"doubletree","NC32B!","370!"," ","N"," "," ","MS"," ",804
+"double swingletree","NC33A","373"," ","N"," "," ","MS"," ",805
+"doubletree","NC33B","374"," ","N"," "," ","MS"," ",806
+"double swingletree","NC34A","375"," ","N"," "," ","MS"," ",807
+"doubletree","NC34B","376"," ","N"," "," ","MS"," ",808
+"doubletree","NC35A","377"," ","N"," "," ","MS"," ",809
+"doubletree","NC35B","378"," ","N"," "," ","MS"," ",810
+"double singletree","NC36N","N381"," ","N"," "," ","MS"," ",811
+"doubletree","NC36A","381"," ","N"," "," ","MS"," ",812
+"doubletree","NC36B","382"," ","N"," "," ","MS"," ",813
+"doubletree","NC37A","383"," ","N"," "," ","MS"," ",814
+"doubletree","NC37B","384"," ","N"," "," ","MS"," ",815
+"doubletree","NC38N","N385"," ","N"," "," ","MS"," ",816
+"doubletree","NC38A","385"," ","N"," "," ","MS"," ",817
+"doubletree","NC38B","386"," ","N"," "," ","MS"," ",818
+" ","NC39A","389"," "," "," "," ","MS"," ",819
+"tripletree","NC39A","389"," ","N"," "," ","MS"," ",819
+"doubletree","NC39B!","390!"," ","N"," "," ","MS"," ",820
+"doubletree","NC40A","391"," ","N"," "," ","MS"," ",821
+"doubletree","NC40B","392"," ","N"," "," ","MS"," ",822
+"doubletree","NC41!","393!"," ","N"," "," ","MS"," ",823
+"doubletree","NC42A","403"," ","N"," "," ","MS"," ",824
+"doubletree","NC42B","404(*)"," ","N"," "," ","MS"," ",825
+"doubletree","NC43A","397"," ","N"," "," ","MS"," ",826
+"doubletree","NC43B","398"," ","N"," "," ","MS"," ",827
+"doubletree","NC44","410(*)"," ","N"," "," ","MS"," ",828
+"doubletree","NC45A","409(*)"," ","N"," "," ","MS"," ",829
+" ","NC45B"," "," "," "," "," "," "," ",830
+"doubletree","NC46A","411"," ","N"," "," ","MS"," ",831
+"doubletree","NC46B","412"," ","N"," "," ","MS"," ",832
+"doubletree","NC46C!","412b!"," ","N"," "," ","MS"," ",833
+"doubletree","NC47","413"," ","N"," "," ","MS"," ",834
+"doubletree","NC48","418"," ","N"," "," ","MS"," ",835
+" ","NC49","421"," "," "," "," ","MS"," ",836
+"NO RESPONSE","NC50A","422"," ","N"," "," ","MS"," ",837
+"doubletree","NC50B!","423!"," ","N"," "," ","MS"," ",838
+"doubletree","NC51A","427"," ","N"," "," ","MS"," ",839
+"doubletree","NC51B","428"," ","N"," "," ","MS"," ",840
+"doubletree","NC52N","N429"," ","N"," "," ","MS"," ",841
+"doubletree","NC52A","429"," ","N"," "," ","MS"," ",842
+"doubletree","NC52B","430"," ","N"," "," ","MS"," ",843
+"doubletree","NC53A","431"," ","N"," "," ","MS"," ",844
+"doubletree","NC53B","432"," ","N"," "," ","MS"," ",845
+"doubletree","NC54A","433"," ","N"," "," ","MS"," ",846
+"doubletree","NC54B","434"," ","N"," "," ","MS"," ",847
+"doubletree","NC55","435"," ","N"," "," ","MS"," ",848
+"doubletree","NC56A","436"," ","N"," "," ","MS"," ",849
+"doubletree","NC56B!","437!"," ","N"," "," ","MS"," ",850
+"doubletree","NC57A","438a"," ","N"," "," ","MS"," ",851
+"doubletree","NC57B","438b"," ","N"," "," ","MS"," ",852
+"doubletree","NC58A","439"," ","N"," "," ","MS"," ",853
+"doubletree","NC58B","440"," ","N"," "," ","MS"," ",854
+"double swingletree","NC59","441(*)"," ","N"," "," ","MS"," ",855
+"doubletree","NC60","442"," ","N"," "," ","MS"," ",856
+"doubletree","NC61A","443"," ","N"," "," ","MS"," ",857
+"evener","NC61B","444"," ","N"," "," ","MS"," ",858
+"doubletree","NC62A","447"," ","N"," "," ","MS"," ",859
+"doubletree","NC62B","448"," ","N"," "," ","MS"," ",860
+"doubletree","NC63A","449"," ","N"," "," ","MS"," ",861
+"doubletree","NC63B","450"," ","N"," "," ","MS"," ",862
+"doubletree","NC64A","453"," ","N"," "," ","MS"," ",863
+"doubletree","NC64B","454"," ","N"," "," ","MS"," ",864
+"doubletree","NC65A","461"," ","N"," "," ","MS"," ",865
+"doubletree","NC65B","462"," ","N"," "," ","MS"," ",866
+"doubletree","NC66A","465"," ","N"," "," ","MS"," ",867
+"doubletree","NC66B","466"," ","N"," "," ","MS"," ",868
+"doubletree","NC67A","469"," ","N"," "," ","MS"," ",869
+"doubletree","NC67B","470"," ","N"," "," ","MS"," ",870
+"doubletree","NC68A","473"," ","N"," "," ","MS"," ",871
+"doubletree","NC68B","474"," ","N"," "," ","MS"," ",872
+"doubletree","NC69A","477"," ","N"," "," ","MS"," ",873
+"doubletree","NC69B","478"," ","N"," "," ","MS"," ",874
+"doubletree","NC70A","479"," ","N"," "," ","MS"," ",875
+"doubletree","NC70B","480"," ","N"," "," ","MS"," ",876
+"doubletree","NC71A","481"," ","N"," "," ","MS"," ",877
+"doubletree","NC71B","482"," ","N"," "," ","MS"," ",878
+"double singletree","NC71C!","483!"," ","N"," "," ","MS"," ",879
+"doubletree","NC72A","487"," ","N"," "," ","MS"," ",880
+"doubletree","NC72B","488"," ","N"," "," ","MS"," ",881
+"double singletree","NC73A","491"," ","N"," "," ","MS"," ",882
+"doubletree","NC73B","492"," ","N"," "," ","MS"," ",883
+"doubletree","NC74A","493"," ","N"," "," ","MS"," ",884
+"doubletree","NC74B","494"," ","N"," "," ","MS"," ",885
+"doubletree","NC75A","495"," ","N"," "," ","MS"," ",886
+"doubletree","NC75B","496"," ","N"," "," ","MS"," ",887
+"doubletree","SC1A","203.1"," ","N"," "," ","MS"," ",888
+"doubletree","SC1B","203.2"," ","N"," "," ","MS"," ",889
+"doubletree","SC2A","204.1(*)"," ","N"," "," ","MS"," ",890
+"doubletree","SC2B","204.2"," ","N"," "," ","MS"," ",891
+" ","SC2C"," "," "," "," "," "," "," ",892
+"doubletree","SC3A","205.1"," ","N"," "," ","MS"," ",893
+"doubletree","SC3B","205.2"," ","N"," "," ","MS"," ",894
+"doubletree","SC3C!","205.3!"," ","N"," "," ","MS"," ",895
+"doubletree","SC4A","206.1"," ","N"," "," ","MS"," ",896
+"NO RESPONSE","SC4B","206.2"," ","N"," "," ","MS"," ",897
+"doubletree","SC4C","206.3"," ","N"," "," ","MS"," ",898
+"evener","SC4C","206.3"," ","N","Y"," ","MS","heard; not i",898
+"doubletree","SC5A","207.1"," ","N"," "," ","MS"," ",899
+"doubletree","SC5B","207.2"," ","N"," "," ","MS"," ",900
+"doubletrees","SC5C","207.2A"," ","N"," "," ","MS"," ",901
+"doubletree","SC5D!","207.3!"," ","N"," "," ","MS"," ",902
+"double singletree","SC6N","N208"," ","N"," "," ","MS"," ",903
+"doubletree","SC6N","N208"," ","N"," "," ","MS"," ",903
+"crosstree","SC6A","208.1"," ","N"," "," ","MS"," ",904
+"doubletree","SC6A","208.1"," ","N"," "," ","MS"," ",904
+"doubletree","SC6B","208.2(*)"," ","N"," "," ","MS"," ",905
+"doubletree","SC6C!","208.3!"," ","N"," "," ","MS"," ",906
+" ","SC6D"," "," "," "," "," "," "," ",907
+"doubletree","SC7N","N209"," ","N"," "," ","MS"," ",908
+"doubletree","SC7A","209.1"," ","N"," "," ","MS"," ",909
+"doubletree","SC7B","209.2"," ","N"," "," ","MS"," ",910
+"doublebar","SC7C!","209.3!"," ","N"," "," ","MS"," ",911
+"two singlebars","SC7C!","209.3!"," ","N"," "," ","MS"," ",911
+"doubletree","SC7D!","209.4!"," ","N","Y"," ","MS","heard",912
+"doubletree","SC8A","210.1"," ","N"," "," ","MS"," ",913
+"crossbar","SC8B","210.2"," ","N"," "," ","MS"," ",914
+"two swingletrees","SC8B","210.2"," ","N"," "," ","MS"," ",914
+"doubletree","SC8B","210.2"," ","N","Y"," ","MS","heard; doubl",914
+"doubletree","SC8C","210.3"," ","N"," "," ","MS"," ",915
+"two singletrees","SC9A","211.1"," ","N"," "," ","MS"," ",916
+"doubletree","SC9A","211.1"," ","N"," "," ","MS"," ",916
+"doubletree","SC9B","211.2"," ","N","Y"," ","MS","2-horse",917
+"doubletree","SC9C!","211.3!"," ","N"," "," ","MS"," ",918
+"doubletree","SC9D!","211.4!"," ","N"," "," ","MS"," ",919
+"doubletree","SC10A","212.1"," ","N","Y"," ","MS","fellow worke",920
+"doubletree","SC10B!","212.2!"," ","N"," "," ","MS"," ",921
+"NO RESPONSE","SC10C!","212.3!"," ","N"," "," ","MS"," ",922
+"NO RESPONSE","SC11N","N213"," ","N"," "," ","MS"," ",923
+"NO RESPONSE","SC11M!","2n213!"," ","N"," "," ","MS"," ",924
+"doubletree","SC11A","213.1(*)"," ","N"," "," ","MS"," ",925
+"double singletree","SC11A","213.1(*)"," ","N"," "," ","MS"," ",925
+"NO RESPONSE","SC11B","213.11"," ","N"," "," ","MS"," ",926
+"NO RESPONSE","SC11C","213.2"," ","N"," "," ","MS"," ",927
+"doubletree","SC11D","213.3"," ","N"," "," ","MS"," ",928
+"double singletree","SC11E","213.4"," ","N"," "," ","MS"," ",929
+"doubletree","SC11E","213.4"," ","N"," "," ","MS"," ",929
+"NO RESPONSE","SC11F","213.5"," ","N"," "," ","MS"," ",930
+"NO RESPONSE","SC11G!","213.7!"," ","N"," "," ","MS"," ",931
+"NO RESPONSE","SC11H!","213.8!"," ","N"," "," ","MS"," ",932
+"NO RESPONSE","SC11I!","213.9!"," ","N"," "," ","MS"," ",933
+"NO RESPONSE","SC11J!","213.10!"," ","N"," "," ","MS"," ",934
+"double singletree","SC12A","214.1"," ","N"," "," ","MS"," ",935
+"doubletree","SC12B","214.2"," ","N"," "," ","MS"," ",936
+"doubletree","SC13","213.6"," ","N"," "," ","MS"," ",937
+"doubletree","SC14A","215.1"," ","N"," "," ","MS"," ",938
+"double singletree","SC14B","215.2"," ","N"," "," ","MS"," ",939
+"doubletree","SC15A","216.1"," ","N","Y"," ","MS","singletree o",940
+"two singletrees","SC15B","216.2"," ","N"," "," ","MS"," ",941
+"doubletree","SC15C","216.3"," ","N"," "," ","MS"," ",942
+"two) singletrees","SC15C","216.3"," ","N"," "," ","MS"," ",942
+"doubletree","SC16N","N217"," ","N"," "," ","MS"," ",943
+"NO RESPONSE","SC16","217.1"," ","N"," "," ","MS"," ",944
+"double swingletree","SC17A","218.1"," ","N"," "," ","MS"," ",945
+"doubletree","SC17B","218.2"," ","N"," "," ","MS"," ",946
+"NO RESPONSE","SC17C","218.3"," ","N"," "," ","MS"," ",947
+"doubletree","SC17D","218.4"," ","N"," "," ","MS"," ",948
+"doubletree","SC18N","N219"," ","Y"," "," ","MS"," ",949
+"doubletree","SC18A","219.1"," ","N"," "," ","MS"," ",950
+"doubletree","SC18B","219.2"," ","N"," "," ","MS"," ",951
+"NO RESPONSE","SC18C!","219.3(*)!"," ","N"," "," ","MS"," ",952
+" ","SC18D!"," "," "," "," "," "," "," ",953
+"double singletree","SC19N","N220"," ","N"," "," ","MS"," ",954
+"doubletree","SC19A","220.1"," ","N"," "," ","MS"," ",955
+"doubletree","SC19B","220.4"," ","N"," "," ","MS"," ",956
+"NO RESPONSE","SC19C","220.2(*)"," ","N"," "," ","MS"," ",957
+"doubletree","SC19D!","220.3!"," ","N"," "," ","MS"," ",958
+" ","SC19E!"," "," "," "," "," "," "," ",959
+"doubletree","SC20A","221.1"," ","N"," "," ","MS"," ",960
+"singletree","SC20A","221.1"," ","N"," "," ","MS"," ",960
+"doubletree","SC20B","221.2"," ","N"," "," ","MS"," ",961
+"doubletree","SC20C","221.3"," ","N"," "," ","MS"," ",962
+"doubletrees","SC20D!","221.4!"," ","N"," "," ","MS"," ",963
+"doubletree","SC21A","222.1"," ","N"," "," ","MS"," ",964
+"doubletree","SC21B","222.2"," ","N"," "," ","MS"," ",965
+"NO RESPONSE","SC22N","N223"," ","N"," "," ","MS"," ",966
+"doubletree","SC22A","223.1"," ","N"," "," ","MS"," ",967
+"doubletree","SC22B","223.2"," ","N"," "," ","MS"," ",968
+"doubletree","SC22C!","223.3!"," ","N"," "," ","MS"," ",969
+"doubletree","SC23A","224.1"," ","N","Y"," ","MS","2-horse",970
+"doubletree","SC23B","224.2"," ","N"," "," ","MS"," ",971
+"NO RESPONSE","SC23C","224.3"," ","N"," "," ","MS"," ",972
+"doubletree","SC23D","224.4"," ","N"," "," ","MS"," ",973
+"doubletree","SC23E!","224.5!"," ","N"," "," ","MS"," ",974
+"doubletree","SC24N","N225"," ","N"," "," ","MS"," ",975
+"doubletree","SC24A","225.1"," ","N"," "," ","MS"," ",976
+"doubletree","SC24B","225.11"," ","N"," "," ","MS"," ",977
+"doubletree","SC24C","225.2"," ","N"," "," ","MS"," ",978
+"doubletree","SC24D!","225.3!"," ","N"," "," ","MS"," ",979
+"double singletree","SC25A","226.1"," ","N"," "," ","MS"," ",980
+"doubletree","SC25B","226.2"," ","N","Y"," ","MS","2 swingletre",981
+"NO RESPONSE","SC25C!","226.3!"," ","N"," "," ","MS"," ",982
+"doubletree","SC26A","227.1"," ","N"," "," ","MS"," ",983
+"doubletree","SC26B!","227.2!"," ","N"," "," ","MS"," ",984
+"doubletree","SC27A","228.1"," ","N"," "," ","MS"," ",985
+"doubletree","SC27B","228.2"," ","N"," "," ","MS"," ",986
+"wagon swingletee","SC28A","229.1"," ","N"," "," ","MS"," ",987
+"doubletree","SC28A","229.1"," ","N"," "," ","MS"," ",987
+"doubletree","SC28B","217.2"," ","N"," "," ","MS"," ",988
+"ERROR","SC28C","229.2"," ","N"," "," ","MS"," ",989
+"NO RESPONSE","SC28D","229.3"," ","N"," "," ","MS"," ",990
+"doubletree","SC29A","230.2(*)"," ","N"," "," ","MS"," ",991
+"doubletree","SC29B","230.1(*)"," ","N","Y"," ","MS","on harrons",992
+"doubletree","SC29C","230.3"," ","N"," "," ","MS"," ",993
+" ","SC29D"," "," "," "," "," "," "," ",994
+" ","SC29E"," "," "," "," "," "," "," ",995
+"doubletree","SC30A","231.1"," ","N"," "," ","MS"," ",996
+"doubletree","SC30B","231.2"," ","N"," "," ","MS"," ",997
+"NO RESPONSE","SC30C!","231.3!"," ","N"," "," ","MS"," ",998
+"doubletree","SC31A","232.1"," ","N"," "," ","MS"," ",999
+"doubletrees","SC31B","232.2"," ","N"," "," ","MS"," ",1000
+"whiffletree","SC32A","233.1"," ","Y"," "," ","MS"," ",1001
+"doubletree","SC32A","233.1"," ","N"," "," ","MS"," ",1001
+"NO RESPONSE","SC32B","233.2"," ","N"," "," ","MS"," ",1002
+"doubletree","SC32C","233.3"," ","N"," "," ","MS"," ",1003
+"doubletree","SC32D","233.4"," ","N","Y"," ","MS","heard",1004
+"doubletree","SC33A","234.1"," ","N"," "," ","MS"," ",1005
+"doubletree","SC33B","234.2"," ","N"," "," ","MS"," ",1006
+"doubletree","SC34A","235.1"," ","N"," "," ","MS"," ",1007
+"doubletree","SC34A","235.1"," ","N","Y"," ","MS","goes across",1007
+"two) singletree","SC34A","235.1"," ","N"," "," ","MS"," ",1007
+"doubletree","SC34B","235.2"," ","N"," "," ","MS"," ",1008
+"NO RESPONSE","SC34C","235.3"," ","N"," "," ","MS"," ",1009
+"NO RESPONSE","SC35A","236.1"," ","N"," "," ","MS"," ",1010
+"doubletree","SC35B","236.2"," ","N"," "," ","MS"," ",1011
+"doubletrees","SC35C","236.3(*)"," ","N"," "," ","MS"," ",1012
+" ","SC35D"," "," "," "," "," "," "," ",1013
+" ","SC35E!"," "," "," "," "," "," "," ",1014
+"doubletree","SC36A","237.1"," ","N","Y"," ","MS","cv.",1015
+"doubletree","SC36B","237.2"," ","N"," "," ","MS"," ",1016
+"doubletree","SC36C","237.3"," ","N","Y"," ","MS","cv.; sometim",1017
+"NO RESPONSE","SC36D!","237.4!"," ","N"," "," ","MS"," ",1018
+"doubletree","SC37","238"," ","N"," "," ","MS"," ",1019
+"doubletree","SC38N","N239"," ","N"," "," ","MS"," ",1020
+"double swingletree","SC38N","N239"," ","N"," "," ","MS"," ",1020
+"doubletree","SC38A","239.1"," ","N"," "," ","MS"," ",1021
+"double singletree","SC38B","239.2"," ","N"," "," ","MS"," ",1022
+"doubletree","SC38B","239.2"," ","N"," "," ","MS"," ",1022
+"double singletree","SC38B","239.2"," ","N"," "," ","MS"," ",1022
+"double swingletree","SC38C!","239.3!"," ","N","Y"," ","MS"," ",1023
+"NO RESPONSE","SC38D!","239.4(*)!"," ","N"," "," ","MS"," ",1024
+" ","SC38E!"," "," "," "," "," "," "," ",1025
+"doubletree","SC39A","240.1"," ","N"," "," ","MS"," ",1026
+"singletrees","SC39A","240.1"," ","N"," "," ","MS"," ",1026
+"doubletree","SC39B!","240.2!"," ","N","Y"," ","MS"," ",1027
+"doubletree","SC40A","241.1"," ","N"," "," ","MS"," ",1028
+"double swingletree","SC40B","241.2"," ","N"," "," ","MS"," ",1029
+"doubletree","SC41A","242.1"," ","N"," "," ","MS"," ",1030
+"doubletree","SC41B","242.2"," ","N"," "," ","MS"," ",1031
+"double singletree","SC42N","N243"," ","N"," "," ","MS"," ",1032
+" ","SC42M"," "," "," "," "," "," "," ",1033
+"doubletree","SC42A","243.1"," ","N"," "," ","MS"," ",1034
+"doubletree","SC42B!","243.2!"," ","Y","Y"," ","MS"," ",1035
+"doubletree","SC42C!","243.3!"," ","Y","Y"," ","MS"," ",1036
+"NO RESPONSE","SC42D!","243.4!"," ","N"," "," ","MS"," ",1037
+"NO RESPONSE","SC42E!","243.5!"," ","N"," "," ","MS"," ",1038
+"NO RESPONSE","SC43A","244.1"," ","N"," "," ","MS"," ",1039
+"doubletree","SC43B","244.2"," ","N"," "," ","MS"," ",1040
+"doubletree","SC43C","244.3"," ","N"," "," ","MS"," ",1041
+"doubletree","SC44A","245.1"," ","N"," "," ","MS"," ",1042
+"doubletree","SC44B","245.2"," ","N"," "," ","MS"," ",1043
+"doubletree","GA1N","N246"," ","N"," "," ","MS"," ",1044
+"double singletree","GA1A","246.1(*)"," ","N"," "," ","MS"," ",1045
+"NO RESPONSE","GA1B","246.11"," ","N"," "," ","MS"," ",1046
+"NO RESPONSE","GA1C","246.2"," ","N"," "," ","MS"," ",1047
+"doubletree","GA1D","246.3"," ","N"," "," ","MS"," ",1048
+"NO RESPONSE","GA1E","246.4"," ","N"," "," ","MS"," ",1049
+"doubletree","GA1F!","246.5!"," ","N"," "," ","MS"," ",1050
+"NO RESPONSE","GA1G!","246.6!"," ","N"," "," ","MS"," ",1051
+"doubletree","GA1H!","246.7!"," ","N"," "," ","MS"," ",1052
+"doubletree","GA2N","N247"," ","N"," "," ","MS"," ",1053
+"doubletree","GA2A","247.1"," ","N"," "," ","MS"," ",1054
+"two) singletrees","GA2A","247.1"," ","N"," "," ","MS"," ",1054
+"two) singletrees","GA2B","247.2"," ","N"," "," ","MS"," ",1055
+"doubletree","GA2B","247.2"," ","N"," "," ","MS"," ",1055
+"doubletree","GA3A","248.1"," ","N"," "," ","MS"," ",1056
+"NO RESPONSE","GA3B","248.2"," ","N"," "," ","MS"," ",1057
+"doubletree","GA4N","N249"," ","N"," "," ","MS"," ",1058
+"doubletrees","GA4A","249.1"," ","Y"," "," ","MS"," ",1059
+"doubletree","GA4B","249.2"," ","N"," "," ","MS"," ",1060
+"swifletree","GA4B","249.2"," ","N"," "," ","MS"," ",1060
+"doubletree","GA4C!","249.3!"," ","N"," "," ","MS"," ",1061
+"doubletree","GA5A","250.1"," ","N"," "," ","MS"," ",1062
+"NO RESPONSE","GA5B","250.2"," ","N"," "," ","MS"," ",1063
+"doubletree","GA5C","250.3"," ","N"," "," ","MS"," ",1064
+"NO RESPONSE","GA5D!","250.4!"," ","N"," "," ","MS"," ",1065
+"NO RESPONSE","GA5E!","250.5!"," ","N"," "," ","MS"," ",1066
+"double swingletree","GA6A","251.1"," ","N"," "," ","MS"," ",1067
+"doubletree","GA6B!","251.2!"," ","N"," "," ","MS"," ",1068
+"double singletree","GA7","256"," ","N"," "," ","MS"," ",1069
+"doubletree","GA8A","257.1"," ","N"," "," ","MS"," ",1070
+"doubletree","GA8B","257.2"," ","N"," "," ","MS"," ",1071
+"NO RESPONSE","GA9A","257A.1"," ","N"," "," ","MS"," ",1072
+"NO RESPONSE","GA9B","257A.2"," ","N"," "," ","MS"," ",1073
+"doubletree","GA10A","258.1"," ","N"," "," ","MS"," ",1074
+"doubletree","GA10B","258.2"," ","N"," "," ","MS"," ",1075
+"NO RESPONSE","GA11N","N258A"," ","N"," "," ","MS"," ",1076
+"two) singletrees","GA12A","259.1"," ","N"," "," ","MS"," ",1077
+"doubletree","GA12A","259.1"," ","N"," "," ","MS"," ",1077
+"doubletree","GA12B!","259.2(.3)"," ","N"," "," ","MS"," ",1078
+"doubletree","GA13A","260.1"," ","N"," "," ","MS"," ",1079
+"doubletree","GA13B!","260.2!"," ","N"," "," ","MS"," ",1080
+"doubletree","GA14A","261.1"," ","N"," "," ","MS"," ",1081
+"doubletree","GA14B","261.3"," ","N"," "," ","MS"," ",1082
+"double singletrees","GA14C","261.2"," ","N"," "," ","MS"," ",1083
+"doubletree","GA14C","261.2"," ","N"," "," ","MS"," ",1083
+"doubletree","GA15A","262.1"," ","N"," "," ","MS"," ",1084
+"doubletree","GA15B","262.2"," ","N","Y"," ","MS","2 horses",1085
+"doubletree","GA16A","263.2"," ","N"," "," ","MS"," ",1086
+"doubletree","GA16B","263.1"," ","N"," "," ","MS"," ",1087
+"NO RESPONSE","GA16C","263.21"," ","N"," "," ","MS"," ",1088
+"NO RESPONSE","GA16D!","263.3!"," ","N"," "," ","MS"," ",1089
+"double singletree","GA17N","N264"," ","N"," "," ","MS"," ",1090
+"doubletree","GA17","264"," ","N"," "," ","MS"," ",1091
+"doubletree","GA18A","264A.1"," ","N"," "," ","MS"," ",1092
+"doubletree","GA18B","264A.2"," ","N"," "," ","MS"," ",1093
+"doubletree","GA19A","265.1"," ","N"," "," ","MS"," ",1094
+"doubletree","GA19B","265.2"," ","N"," "," ","MS"," ",1095
+"doubletree","GA20A","266.1"," ","N"," "," ","MS"," ",1096
+"++++++++++++++++++++","GA20B","266.2"," "," "," "," ","MS"," ",1097
+"doubletree","GA20B","266.2"," ","N"," "," ","MS"," ",1097
+"-","GA21A","267.1"," ","N"," "," ","MS"," ",1098
+"doubletrees","GA21B","267.2"," ","N"," "," ","MS"," ",1099
+"doubletree","GA22A","268A.1"," ","N"," "," ","MS"," ",1100
+"doubletree","GA22B","268A.2"," ","N"," "," ","MS"," ",1101
+"double singletree","GA23A","268.1"," ","N"," "," ","MS"," ",1102
+"doubletree","GA23B","268.11"," ","N"," "," ","MS"," ",1103
+"NO RESPONSE","GA23C","268.2"," ","N"," "," ","MS"," ",1104
+"NO RESPONSE","GA23D!","268.3"," ","N"," "," ","MS"," ",1105
+"NO RESPONSE","GA23E!","268.4!"," ","N"," "," ","MS"," ",1106
+"NO RESPONSE","GA23F!","268.5!"," ","N"," "," ","MS"," ",1107
+"NO RESPONSE","GA24N","N269"," ","N"," "," ","MS"," ",1108
+"doubletree","GA24A","269.1"," ","N"," "," ","MS"," ",1109
+"doubletree","GA24B","269.2"," ","N"," "," ","MS"," ",1110
+"doubletree","GA25N","N269A"," ","N"," "," ","MS"," ",1111
+"doubletree","GA26","270A"," ","N"," "," ","MS"," ",1112
+"doubletree","GA27!","270!"," ","N"," "," ","MS"," ",1113
+"doubletree","GA28","271a"," ","N"," "," ","MS"," ",1114
+"doubletree","GA29A","271.1"," ","N"," "," ","MS"," ",1115
+"doubletree","GA29B","271.2"," ","N"," "," ","MS"," ",1116
+"doubletree","GA30A","272.1(*)"," ","N"," "," ","MS"," ",1117
+"doubletree","GA30B","272.2(*)"," ","N"," "," ","MS"," ",1118
+"doubletree","GA30C!","272.3!"," ","N"," "," ","MS"," ",1119
+" ","GA30D"," "," "," "," "," "," "," ",1120
+" ","GA30E"," "," "," "," "," "," "," ",1121
+"doubletree","GA31","272A"," ","N"," "," ","MS"," ",1122
+"tripletree","GA31","272A"," ","N"," "," ","MS"," ",1122
+"NO RESPONSE","GA32","272B"," ","N"," "," ","MS"," ",1123
+"doubletree","GA33A","272C1"," ","N"," "," ","MS"," ",1124
+"NO RESPONSE","GA33B","272C2"," ","N"," "," ","MS"," ",1125
+"doubletree","GA34N","N273"," ","N"," "," ","MS"," ",1126
+"doubletree","GA34A","273.1"," ","N"," "," ","MS"," ",1127
+"doubletree","GA34B","273.2"," ","N"," "," ","MS"," ",1128
+"doubletree","GA35N","N273A"," ","N"," "," ","MS"," ",1129
+"doubletree","GA36N","N274A"," ","N","Y"," ","MS","also on bugg",1130
+"NO RESPONSE","GA37N","2N274"," ","N"," "," ","MS"," ",1131
+"doubletree","GA37M!","NC274"," ","N"," "," ","MS"," ",1132
+"doubletree","GA37A","274.1"," ","N"," "," ","MS"," ",1133
+"two swingletrees","GA37A","274.1"," ","N"," "," ","MS"," ",1133
+"doubletree","GA37B","274.2"," ","N"," "," ","MS"," ",1134
+"NO RESPONSE","GA37C","274.21"," ","N"," "," ","MS"," ",1135
+"NO RESPONSE","GA37D!","274.7!"," ","N"," "," ","MS"," ",1136
+"NO RESPONSE","GA37E!","274.8!"," ","N"," "," ","MS"," ",1137
+"NO RESPONSE","GA37F!","274.3!"," ","N"," "," ","MS"," ",1138
+"doubletree","GA37G!","274.4!"," ","N"," "," ","MS"," ",1139
+"doubletree","GA37H!","274.5!"," ","N"," "," ","MS"," ",1140
+"NO RESPONSE","GA37I!","274.6!"," ","N"," "," ","MS"," ",1141
+"doubletree","GA38","275"," ","N"," "," ","MS"," ",1142
+"doubletree","GA39","275A"," ","N"," "," ","MS"," ",1143
+"NO RESPONSE","GA40","276A"," ","N"," "," ","MS"," ",1144
+"doubletree","GA41","276B"," ","N","Y"," ","MS","heard",1145
+"doubletree","GA42A","276.1"," ","N"," "," ","MS"," ",1146
+"singletree","GA42B","276.2"," ","N","Y"," ","MS","on each end",1147
+"doubletree","GA42B","276.2"," ","N"," "," ","MS"," ",1147
+"doubletree","GA43","277"," ","N"," "," ","MS"," ",1148
+"singletrees","GA44A","278.1"," ","N"," "," ","MS"," ",1149
+"doubletree","GA44B","278.2"," ","N"," "," ","MS"," ",1150
+"doubletree","GA44C","278.3"," ","N"," "," ","MS"," ",1151
+"doubletree","GA44D","278.4"," ","N"," "," ","MS"," ",1152
+"doubletree","GA44E","278.5"," ","N"," "," ","MS"," ",1153
+"NO RESPONSE","FL1","252"," ","N"," "," ","MS"," ",1154
+"NO RESPONSE","FL2A","253.1"," ","N"," "," ","MS"," ",1155
+"NO RESPONSE","FL2B","253.2"," ","N"," "," ","MS"," ",1156
+"doubletree","FL2C!","253.3!"," ","N"," "," ","MS"," ",1157
+"crossbar","FL3A","254.1"," ","N"," "," ","MS"," ",1158
+"doubletree","FL3B!","254.2!"," ","N"," "," ","MS"," ",1159
+"doubletree","FL4","254A"," ","N"," "," ","MS"," ",1160
+"doubletree","FL5A","255.1"," ","N"," "," ","MS"," ",1161
+"doubletree","FL5B","255.2"," ","N"," "," ","MS"," ",1162
+"","","","","","","","","",

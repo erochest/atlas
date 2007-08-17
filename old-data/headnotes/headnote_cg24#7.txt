@@ -1,0 +1,109 @@
+am I going to (cg24#7.asc)
+
+Items
+=====
+                ain't I going today    1
+             ain't no lotta getting    1
+             ain't they going today    1
+                         am I going    1
+                      am I going to    3
+             am I going to get some    1
+                         am I gonna    2
+                           are they    2
+                     are they going    2
+                  are they going to    2
+              are they going to get    1
+         are they going to get some    1
+                     are they gonna    1
+                         are we ***    1
+                     are you coming    1
+                      are you going    1
+                              going    4
+                           going to    1
+                              gonna    1
+                     he *** on foot    1
+                        he go there    1
+                       he more like    1
+                  he something huge    1
+                            I going    1
+                  I like these kind    1
+                         is I going   20
+                      is I going to    3
+             is I going to get some    2
+             is I going to the city    1
+           is I going to town today    1
+                   is I going today    1
+                  is I going today?    1
+               is I the going today    1
+                is them going today    1
+                            is they    1
+                      is they going   18
+                   is they going to    3
+          is they going to get some    2
+          is they going to the city    1
+        is they going to town today    1
+                is they going today    1
+                       is you going    2
+                    is you half way    2
+                                 NR   12
+                      that the kind    1
+               that the kind I like    1
+                               them    2
+                      them the kind    3
+            them the kind I fond of    1
+               them the kind I like    6
+             them's the kind I like    3
+                              thems    4
+                      these the kind    2
+              these the kind I like    2
+                         they going    2
+                      they going to    1
+            they is the kind I like    1
+             they were going to get    1
+                              we go    1
+                           we going    1
+                           we gonna    1
+                    what am I going    1
+                      what the name    1
+               what you drive in it    1
+                      you coming on    1
+                             you go    2
+                          you going    1
+                       you going to    1
+                 you just over here    1
+
+
+
+
+P: He said he was going to get some (cake or whatever); now [gesturing to oneself]--to get some of that.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 24#7, the following responses are inappropriate: "what you drive in it," "what the name," "ain't no lotta getting," "you just over here," "he something huge," "he more like," "is you half way," "he *** on foot," and "them the kind I like"(plus similar constructions: "I like these kind," "them's the kind I like," "them the kind I fond of," "these the kind," "these the kind I like," "them the kind," "they is the kind I like," "that the kind," "that the kind I like").
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 24 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+23#8		24#1
+24#1		24#2
+24#2		
+24#3		24#3
+24#4		24#4a
+24#5		24#4b
+		24#5 (no question)
+24#6a		24#6a
+24#6b		24#6b
+24#7a		24#7a
+24#7b		24#7b
+		24#8

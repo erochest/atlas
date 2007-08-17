@@ -1,0 +1,137 @@
+<table align="center" width="80%" bgcolor="#EEEEEF" cellpadding="8">
+<tr><td valign="center" align="left">
+<font size="-1"><b><i><a href="browse.html">Back</a> to Browse</i></b>
+(without changes)</font>
+</td></tr>
+<tr><td valign="center" align="left">
+<font size="-1"><b><i>Reset</i></b></font>
+</td></tr>
+<tr><td valign="center" align="right">
+<form method="GET" action="browse.html">
+<input type="hidden" name="clear" value="1">
+Reset the data view:&nbsp;<input type="submit" value="Reset">
+</form>
+</td>
+</tr>
+<!--wt:reset-->
+  <tr><td valign="center" align="right">
+  <form method="GET" action="browse.html">
+  <input type="hidden" name="clear" value="1">
+  <input type="hidden" name="target" value="$$%targetid$$">
+  Reset the data view, but keep the current target ("$$target$$"):&nbsp;
+  <input type="submit" value="Reset">
+  </form>
+  </td></tr>
+<!--wt:/reset-->
+<!--wt:search-->
+<tr><td valign="center" align="left">
+<font size="-1"><b><i>Query Options</i></b></font>
+</td></tr>
+  <!--wt:select-->
+    <tr><td valign="center" align="right">
+    <p>Linguistic data for this data set:&nbsp;
+    <form method="PUT" action="browse.html">
+    <select name="target">
+    <option value="">None</option>
+    <!--wt:targetOption-->
+      <option value="$$%targetid$$">$$target$$</option>
+    <!--wt:/targetOption-->
+    </select>
+    <input type="submit"></form></p>
+    </td></tr>
+  <!--wt:/select-->
+  <!--wt:options-->
+    <tr><td>
+    <form method="GET" action="browse.html">
+    <table width="100%">
+    <tr><td valign="top" align="right">Null Responses:</td>
+    <td valign="top">
+    <input type="radio" name="nrhidden" value="1" $$=nrhidden$$>&nbsp;Hide<br>
+    <input type="radio" name="nrhidden" value="0" $$=nrshown$$>&nbsp;Show
+    </td></tr>
+    <tr><td valign="top" align="right">Use Simplified Phonetics:</td>
+    <td valign="top">
+    <input type="radio" name="fullphone" value="0" $$=simplephone$$>&nbsp;Simplified<br>
+    <input type="radio" name="fullphone" value="1" $$=fullphone$$>&nbsp;Full
+    </td></tr>
+
+    <tr><td colspan="2" align="right">
+    <input type="submit">&nbsp;<input type="reset">
+    </td></tr>
+    </table>
+    </form>
+    </td></tr>
+  <!--wt:/options-->
+<!--wt:/search-->
+<tr><td valign="center" align="left">
+<font size="-1"><b><i>Advanced Search</i></b></font>
+</td></tr>
+<tr><td valign="top" align="right">
+<form method="GET" action="browse.html">
+<table border="0">
+<tr><td><b><font size="-1">Field</font></b></td>
+<td><b><font size="-1">Operator</font></b></td>
+<td><b><font size="-1">Value</font></b></td></tr>
+<!--wt:expr-->
+  <tr>
+  <td><select name="left$$n$$">
+  <option selected="1" value="">&lt;None&gt;</option>
+  <!--wt:fieldoption-->
+    <option value="$$%field$$">$$field$$</option>
+  <!--wt:/fieldoption-->
+  </select>
+  </td>
+  <td><select name="op$$n$$">
+  <option selected="1" value="EQ">=</option>
+  <option value="NE">&lt;&gt;</option>
+  <option value="LT">&lt;</option>
+  <option value="GT">&gt;</option>
+  <option value="LE">&lt;=</option>
+  <option value="GE">&gt;=</option>
+  <option value="IN">contains</option>
+  </select>
+  </td>
+  <td><input name="right$$n$$"></td>
+  </tr>
+  <!--wt:join-->
+    <tr><td colspan="3" align="center">
+    <select name="join$$n$$">
+    <option selected="1" value="AND">AND</option>
+    <option value="OR">OR</option>
+    </select>
+    </td></tr>
+  <!--wt:/join-->
+<!--wt:/expr-->
+<tr><td colspan="3" align="right">
+<input type="submit">&nbsp;<input type="reset">
+</td></tr>
+</table>
+</form>
+</td></tr>
+<!--wt:phonetic-->
+  <tr><td valign="center" align="left">
+  <font size="-1"><b><i>Phonetic Search</i></b></font>
+  </td></tr>
+  <tr><td valign="top" align="right">
+  <form method="GET" action="browse.html">
+  <table border="0">
+  <tr><td valign="top" align="right">
+  Select a phonetic symbol to search for:
+  </td><td valign="top" align="right">
+  <input type="hidden" name="left" value="$$field$$">
+  <input type="hidden" name="op" value="IN">
+  <select name="right" class="phonetic">
+  <!--wt:symbol-->
+    <option value="$$%symbol$$">$$=charref$$ ($$name$$)</option>
+  <!--wt:/symbol-->
+  </select>
+  </td></tr>
+  <tr><td colspan="2" align="right">
+  <input type="submit">&nbsp;<input type="reset">
+  </td></tr>
+  </table>
+  </form>
+  </td></tr>
+<!--wt:/phonetic-->
+
+</table>

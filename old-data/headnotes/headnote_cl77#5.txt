@@ -1,0 +1,100 @@
+boil (cl77#5.asc)
+
+Items
+=====
+                               boil   59
+                             cancer    1
+                          carbuncle    2
+         carbuncle back of his neck    1
+                               corn    1
+                             fester    1
+                         got a corn    1
+                                 NR    8
+                            raising    1
+                             rising   20
+                            risings    1
+                           swelling    2
+                             tetter    1
+                               welt    2
+
+Pronunciations
+==============
+                             baæ≤æl    1
+                          baæ∫{≤æ}Ï    1
+                          baæ∫±øΩlç    1
+                            baæ∫≤´Ï    1
+                             bo±ø´l    1
+                            boΩ±øΩl    1
+                           boΩ∫±øΩÏ    1
+                           boøæ∫±øl    1
+                            boÈ±øΩÏ    1
+                           bµ´±øΩlç    1
+                            bµ´∫±øÏ    1
+                          bµ´º∫{±}Ï    1
+                             bµ±øΩÏ    1
+                           bµ∫{≤æ}Ï    1
+                             bµ∫±øÏ    1
+                            bµº±øΩl    1
+                          bµº∫{≤æ}Ï    1
+                           bµº∫±øΩl    1
+                              bµæ±l    9
+                            bµæ∫±øÏ    1
+                            bµæ∫≤æÏ    1
+                               b∂±l    5
+                              b∂º±l    6
+                             b∑[±]l    1
+                             b∑´±øl    1
+                             b∑±ø∫Ï    1
+                             b∑±øΩÏ    1
+                              b∑±øÏ    1
+                             b∑∫±øl    1
+                            b∑∫±øΩl    1
+                             b∑∫±øÏ    1
+                            b∑Ω±øΩÏ    1
+                            b∑Ω∫±øl    1
+                            b∑Ω∫±øÏ    1
+                           b∑Ωº∫±øÏ    1
+                        ÂboΩº∫-±øºÏ    1
+                          ÂboΩº∫±øÏ    1
+                         Âbµº∫±ø{Ï}    1
+                          Âb∂´ow±øÈ    1
+                             Âb∑∫∞l    1
+                         Âb∑ΩoΩw±øΩ    1
+                             Âb∑Ω∞Ï    1
+
+
+
+
+L: Sore place on the skin beginning with b.
+M: A lump on your arm with a big core in it; it's a _____.  If more than one core?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 77#5, "cancer," "fester," and "corn" are inappropriate, as is marginalia. 
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 77 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+77#Pa		77#4
+77#Pb
+77#Pc		77#3
+77#Pd
+77#1		77#1
+77#2		20#7
+77#3		77#2
+77#4		77#5
+77#5		77#6
+77#6		77#7
+77#7		77#8
+77#8		78#1

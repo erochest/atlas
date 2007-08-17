@@ -1,0 +1,2381 @@
+"buckets","NY1","50","nci","N"," ","well bucket: wood","b∏kà±øt{s}","MS",1
+"pail","NY1","50","nch","N"," ","metal or wood","pe±øÏ","MS",1
+"buckets","NY2A","51.1","nci","N"," ","well bucket: wood","b∏´ækà±øt{s}","MS",2
+"pail","NY2A","51.1","nch","N"," ","metal or wood","pe±ø´Ï","MS",2
+"bucket","NY2B","51.2","nch","N"," ","wood, various uses","b∏kà±øΩt","MS",3
+"pails","NY2B","51.2","nci","N"," ","metal only","pe±ø´Ï{z}","MS",3
+"bucket","NY2C","51.3","nch","N"," ","wood","b∏k±øΩt","MS",4
+"pail","NY2C","51.3","nch","N"," ","metal or wood","peΩ±øÏ","MS",4
+"pail","NY3A","401","nch","N"," "," ","p{h}eΩ±ø´{∞}Ï","MS",5
+"bucket","NY3B","403","nch","N"," ","well","b∏k∞t","MS",6
+"pail","NY3B","403","nch","N"," "," ","peΩ±ø{∞}Ï","MS",6
+"pail","NY3C","402","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",7
+"bucket","NY3C","402","nch","N"," ","in well","b∏k±øΩt","MS",7
+"pail","NY3D","404","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",8
+"pail","NY4A","405","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",9
+"pail","NY4B","407","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",10
+"pail","NY4C","408","nch","N"," "," ","p{h}≤±ø{∞}Ï","MS",11
+"pail","NY5A","409","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",12
+"pail","NY5B","410","nch","N"," "," ","p{h}≤´±ø{∞}Ï","MS",13
+"pail","NY5C","411","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",14
+"pail","NY5D","412","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",15
+"pail","NY5E","413","nch","N"," "," ","p{h}eΩ±øÏ","MS",16
+"pail","NY5F","414","nch","N"," "," ","p{h}≤´±ø{∞}Ï","MS",17
+"pail","NY5G","415","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",18
+"pail","NY5H!","416!","nch","N"," "," ","p≤±ø{∞}Ï","MS",19
+"pail","NY5I!","417!","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",20
+"pail","NY6A","418","nch","N"," "," ","p{h}≤´±ø{∞}Ï","MS",21
+"pail","NY6B","419","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",22
+"pail","NY7A","420","nch","N"," "," ","peΩ±ø{∞}Ï","MS",23
+"pail","NY7B","421","nch","N"," "," ","p{h}≤´±ø´{∞}Ï","MS",24
+"pail","NY7C","422","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",25
+"pail","NY7D","423","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",26
+"pail","NY7E","424","nch","N"," "," ","p{h}e∫{±ø}Ï","MS",27
+"pail","NY7F","425","nch","N"," "," ","p{h}≤´±ø{∞}Ï","MS",28
+"pail","NY7G","426","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",29
+"pail","NY7H","427","nch","N"," "," ","p{h}≤´±ø{∞}Ï","MS",30
+"pail","NY7I","428","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",31
+"pail","NY7J!","429!","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",32
+"pail","NY7K!","430!","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",33
+"pail","NY7L!","431!","nch","N"," "," ","p{h}eΩ±øÏ","MS",34
+"pail","NY7M!","432!","nch","N"," "," ","p{h}eΩ∫{±øΩ}{∞}Ï","MS",35
+"pail","NY8","432b","nch","N"," "," ","p{h}e±øÏ","MS",36
+"pail","NY9A","432c","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",37
+"pail","NY9B","433","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",38
+"pail","NY9C","434","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",39
+"pail","NY10A","435","nch","N"," "," ","pe±ø{∞}Ï","MS",40
+"pail","NY10B!","436!","nch","N"," "," ","pe±ø{∞}Ï","MS",41
+"pail","NY11","438","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",42
+"pail","NY12A","439(*)","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",43
+"pail","NY12A","439(*)","nch","Y","AUX"," ","peΩ{±ø}{∞}Ï","MS",43
+"pail","NY12B","440","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",44
+"pail","NY12C!","441!","nch","N"," "," ","pe±ø{∞}Ï","MS",45
+"pail","NY13A","443","nch","N"," "," ","pe±ø{∞}Ï","MS",46
+"pail","NY13B!","444!","nch","N"," "," ","pe{±ø}{∞}Ï","MS",47
+"pail","NY14A","445","nch","N"," "," ","pe±ø{∞}Ï","MS",48
+"pail","NY14B","446","nch","N"," "," ","pe{±ø}{∞}Ï","MS",49
+"pail","NY15A","447","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",50
+"pail","NY15B","448","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",51
+"pail","NY16A","449","nch","N"," "," ","p{h}eæ∫{∞}Ï","MS",52
+"pail","NY16B","450","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",53
+"pail","NY17A","451(*)","nch","N"," "," ","pe:{∞}Ï","MS",54
+"pail","NY17A","451(*)","nch","Y","AUX"," ","p{h}e∫{∞}Ï","MS",54
+"bucket","NY17A","451(*)","nch","Y","AUX","= well","b∏Ωæk∞t","MS",54
+"pail","NY17B","452","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",55
+"pail","NY18A","453","nch","N"," "," ","pe±ø{∞}Ï","MS",56
+"pail","NY18B","454","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",57
+"pail","NY18C!","455!","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",58
+"pail","NY19","456","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",59
+"pail","NY20A","457","nch","N"," "," ","pe±ø{∞}Ï","MS",60
+"pail","NY20B","458","nch","N"," "," ","pe±ø{∞}Ï","MS",61
+"pail","NY21","459","nch","N"," "," ","pe{±ø}{∞}Ï","MS",62
+"pail","NY22","460","nch","N"," "," ","p{h}eæ:{∞}Ï","MS",63
+"pail","NY23A","461","nch","N"," "," ","p`eΩ±{∞}Ï","MS",64
+"tin pail","NY23A","461","nch","N"," ","milk","Ât`±´n$ıpeΩ±øÏ","MS",64
+"wooden bucket","NY23B","462a","nch","N"," "," ","ıwπdn$Âb∏´k∞´t","MS",65
+"tin metal pail","NY23B","462a","nch","N"," "," ","ıt`±´n$Âm±ø{©}Ï$ıp`e∫{±ø}Ï","MS",65
+"wooden pail","NY23B","462a","nch","N","CNV"," ","Âwπdn$ıpeΩ∫±øºÏ","MS",65
+"bucket","NY23B","462a","nch","N"," ","windlass or sweep","b∏´k∞´t","MS",65
+"pails","NY23C","462b","nci","N"," "," ","p`eΩ±ø´Ïz","MS",66
+"milk pails","NY23C","462b","nci","N"," "," ","Âm{j}±øÏk$ıp≤´±øºÏz","MS",66
+"wooden pails","NY23C","462b","nci","N"," "," ","Âwπ´dn$p`eΩ±ø´Ïz","MS",66
+"buckets","NY23C","462b","nci","Y","OLD","old fashioned, spout, screens","b∏Ωk∞ts","MS",66
+"pail","NY24A","463","nch","N"," "," ","peΩ∫±ø{∞}Ï","MS",67
+"pail","NY24B!","464!","nch","N"," "," ","pe±ø{∞}Ï","MS",68
+"bucket","NY25A","465","nch","N"," ","on well","Âb∏óΩk{x}±øºt","MS",69
+"a pail of water","NY25A","465","nch","N","CNV"," ","∞ıpeΩ±øÏ$∞´v$ÂwﬁÒ¥","MS",69
+"wooden bucket","NY25A","465","nch","N"," "," ","ıwπ´dn$Âb∏óΩk{x}±øºt","MS",69
+"pail","NY25A","465","nch","N"," "," ","ÂpeΩ∫±øÏ","MS",69
+"tin pail","NY25A","465","nch","N"," "," ","t`±´n$ıpeΩ±øÏ","MS",69
+"buckets","NY25B","466","nci","N"," ","on sweep or windlass","Âb∏Ωk±øºts","MS",70
+"pails","NY25B","466","nci","N"," ","tin, bringing in water","peΩ±æÏz","MS",70
+"pail","NY25B","466","nch","N"," ","tin, bringing in water","peΩ±ø|Ï","MS",70
+"bucket","NY26A","467","nch","N"," ","wood, on well, with a chain","Âb∏Ωk{x}±øºt","MS",71
+"pail","NY26A","467","nch","N"," ","galvanized","peΩ∫{±ø}Ï","MS",71
+"bucket","NY26B","468","nch","N"," ","wood, on well","b∏Ωk{x}±øºt","MS",72
+"pail","NY26B","468","nch","N"," ","metal, milk","peΩ∫{±ø}Ï","MS",72
+"pail","NY26B","468","nch","N"," ","metal, milk","p`eΩ∫{±ø}Ï","MS",72
+"a big bucket","NY26C","469","nch","N"," ","for milk","∞ıb±´gÂb∏Ωk{x}∞´t","MS",73
+"wooden bucket","NY26C","469","nch","N"," ","on well","Âwπdn$b∏Ωk{x}∞´t","MS",73
+"bucket","NY26C","469","nch","N"," ","on well","Âb∏Ωk{x}∞´t","MS",73
+"sap bucket","NY27A","470","nch","N"," ","on tree, no bail; pail: water","Âs·p$ıb∏k{x}±øºt","MS",74
+"tin pail","NY27A","470","nch","N"," ","milking","Ât±´n$ıp≤´±øÏ","MS",74
+"tin pail","NY27A","470","nch","N"," ","water","t`±´n$p`eΩ∫±øÏ","MS",74
+"wooden pail","NY27A","470","nch","N"," ","water","wπ´dn$p`eΩ∫±øÏ","MS",74
+"pail","NY27A","470","nch","N"," ","water","p`eΩ∫±øÏ","MS",74
+"tin pails","NY27B","471","nci","N"," ","water or milk","Ât`±´n$ıpeΩ±øÏz","MS",75
+"tin pails","NY27B","471","nci","N"," ","water or milk","Ât`±æn$ıpeΩ±øºÏz","MS",75
+"pails","NY27B","471","nci","N"," ","water or milk","peΩ±øÏz","MS",75
+"buckets","NY27C","472","nci","N"," ","on chain pump, wood","b∏k{x}∞´ts","MS",76
+"pail","NY27C","472","nch","N"," ","metal","peΩ{±ø}Ï","MS",76
+"wooden buckets","NY27C","472","nci","N"," ","on chain pump, wood","Âwπdn$b∏k{x}∞´ts","MS",76
+"tin pails","NY27C","472","nci","N"," ","milk","Ât±´n$ıpeΩ∫{±ø}Ïz","MS",76
+"pail","NY28A","473a","nch","N"," "," ","pe∫{±ø}Ï","MS",77
+"pails","NY28A","473a","nci","N"," "," ","peΩ±øÏz","MS",77
+"pailful of water","NY28A","473a","nch","N"," "," ","ÂpeΩ∫Ïfπ´Ï$∞Âwµtê¥","MS",77
+"milking pails","NY28A","473a","nci","N","CNV"," ","Âm±øÏk±øºn$peΩ±øÏz","MS",77
+"water pail","NY28A","473a","nch","N"," "," ","Âwµtê¥$ıpeΩ∫{±ø}Ï","MS",77
+"tin pails","NY28A","473a","nci","N"," "," ","t`±æn$peΩ±øÏz","MS",77
+"pail","NY28B","473b(*)","nch","N"," ","water","peΩ∫±øÏ","MS",78
+"tin pails","NY28B","473b(*)","nci","N"," ","milk","Ât±´n$ıpeΩ∫±ø|©ºz","MS",78
+"pails","NY28B","473b(*)","nci","N"," ","milk","peΩ∫{±ø}Ïz","MS",78
+" ","NY28C"," "," "," "," "," "," "," ",79
+"mop pails","NY29A","474a","nci","N"," "," ","ÂmµppeΩ{±ø}Ïz","MS",80
+"tin pails","NY29A","474a","nci","N"," ","milk","Ât±n$ıpeΩ{±ø}Ïz","MS",80
+"wooden pails","NY29A","474a","nci","N"," ","usually for storage","Âwπdn$ıp`e∫{±ø}Ïz","MS",80
+"pail","NY29A","474a","nch","N"," ","water","peΩ{±ø}Ï","MS",80
+"pail","NY29B","474b","nch","N"," ","water or milk","peΩ∫±øÏ","MS",81
+"tin pail","NY29B","474b","nch","N"," ","milk","Ât±øºn$ıpeΩ∫{±ø}Ï","MS",81
+"tin pail","NY29C","474c","nch","N"," ","water or milk","Ât`±´n$ıpeΩ∫±øÏ","MS",82
+"pail","NY29C","474c","nch","N"," ","water or milk","peΩ∫{±ø}Ï","MS",82
+"wooden bucket","NY29C","474c","nch","N"," ","water","Âwπdn$ıb∏´kê±øt","MS",82
+"wooden pail","NY30A","475a","nch","N"," ","not regularly for water","Âwπdn$ıpe∫{±ø}Ï","MS",83
+"buckets","NY30A","475a","nci","N","CNV","generally imply sap","Âb∏k{x}±øºts","MS",83
+"tin pails","NY30A","475a","nci","N"," ","water and milk","Ât±´n$ıpeΩ{±ø}Ïz","MS",83
+"pails","NY30A","475a","nci","N"," ","water and milk","peΩ∫Ïz","MS",83
+"old oaken bucket","NY30B","475b","nch","N"," ","on well","Âoº{πº}Ïd$ıoº{πº}k∞´n$Âb∏k{x}±øºt","MS",84
+"pails","NY30B","475b","nci","N"," ","milk or water","peΩ±øÏz","MS",84
+"a pail of water","NY30C","475c","nch","N"," "," ","∞ıpeΩ{±ø}Ï$∞$Âw∑Ωtê¥","MS",85
+"patent pail","NY30C","475c","nch","N"," ","12-13 qts.","p·Átn$peΩ{±ø}Ï","MS",85
+"wooden pail","NY30C","475c","nch","N"," "," ","Âwπdn$peΩ{±ø}Ï","MS",85
+"windlass and bucket","NY30C","475c","nch","N"," ","on well","w±nl±øºs$∞Ωn∞Âb∏k{x}±øºt","MS",85
+"sap buckets","NY30D","475d","nci","N","CNV"," ","Âs·Ωp$ıb∏Ωkê±øºts","MS",86
+"tin pail","NY30D","475d","nch","N"," "," ","Ât`±n$ıpeΩ∫{Ï}","MS",86
+"wooden pail","NY30D","475d","nch","N"," "," ","Âwπdn$ıpeΩ∫Ï","MS",86
+"pail","NY30D","475d","nch","N"," "," ","peΩ∫±ø{∞}Ï","MS",86
+"pail","NY30E","475e","nch","N"," ","wood or metal","pe∫{±ø}Ï","MS",87
+"tin pail","NY30E","475e","nch","N"," ","milk","Ât±n$ıpe{±ø}Ï","MS",87
+"tin pail","NY31A","478a","nch","N"," "," ","Ât`±´n$ıp`eΩ{±ø}Ï","MS",88
+"wooden pails","NY31A","478a","nci","N"," ","at first","Âwπ´dn$ıpe∫±øÏz","MS",88
+"wood pail","NY31A","478a","nch","N"," ","at first","Âwπ´d$ıpe∫{±ø}©","MS",88
+"bucket","NY31A","478a","nch","N"," ","on well","Âb∏ºk∞´t","MS",88
+"pail","NY31B","478b","nch","N"," ","even on well","peΩ∫±øÏ","MS",89
+"wooden pails","NY31B","478b","nci","N"," ","at first","Âwπdn$ıpeΩ{±ø}Ïz","MS",89
+"wooden pails","NY32A","479a","nci","N"," "," ","Âwudn$ıpeΩ{±ø}Ïz","MS",90
+"pails","NY32A","479a","nci","N"," ","even on well","p`eΩ{±ø}Ïz","MS",90
+"tin pails","NY32A","479a","nci","N"," "," ","Ât≤´n$ıp`eΩ{±ø}Ïz","MS",90
+"sap buckets","NY32B","479b","nci","N","CNV"," ","Âs·p$ıb∏Ωk±øts","MS",91
+"pail","NY32B","479b","nch","N"," ","even on well sweep?","peΩ{±ø}Ï","MS",91
+"pail","NY32B","479b","nch","N"," ","even on well sweep?","p`eΩ∫{±ø}Ï","MS",91
+"bucket","NY33A","480","nch","N"," ","wooden","b∏´kê∞´t","MS",92
+"pail","NY33A","480","nch","N"," ","metal","peΩ∫{±ø}{∞}Ï","MS",92
+"pail","NY33B","481","nch","N","CNV","metal","peΩ∫{±ø}Ï","MS",93
+"galvanized pails","NY33C","482","nci","N"," "," ","Âg·lv∞ınµ´±øz$ÂpeΩ∫±øÏz","MS",94
+"milk pail","NY33C","482","nch","N"," "," ","Âm{j}±øÏk$ıp`eΩ∫±øÏ","MS",94
+"buckets","NY33C","482","nci","N"," ","wooden","Âb∏Ωk{x}±øºts","MS",94
+"pail","NY34A","483","nch","N"," ","metal or wood","peΩ{±ø}|Ï","MS",95
+"tin pails","NY34A","483","nci","N"," ","for milk; built-in strainer","Ât`±n$ıp`eΩ∫lz","MS",95
+"water pail","NY34B","484","nch","N"," ","flares at top","ıw∑Ωtê∞é$ÂpeΩ±øºÏ","MS",96
+"bucket","NY34B","484","nch","N"," ","shaped like a barrel","Âb∏∫k∞´t","MS",96
+"pail","NY34B","484","nch","N"," ","milk","peΩ±ø{∞}Ï","MS",96
+"bucket","NY34C","485","nch","N"," ","on well; wood","b¶Ωkê±øt","MS",97
+"pail","NY34C","485","nch","N"," ","wood","p`eΩ{±ø}|Ï","MS",97
+"tin pails","NY34C","485","nci","N"," ","milk","Ât±´n$ıpeΩ{±ø}Ïz","MS",97
+"bucket","NY34D!","486!","nch","N"," ","on well","b¶Ωkê±øt","MS",98
+"pail","NY34D!","486!","nch","N"," ","water or milk","peΩ{±ø}Ï","MS",98
+"pail","NY34D!","486!","nch","N"," ","water or milk","peΩ{±ø}|Ï","MS",98
+"pail","NY35A","487","nch","N"," "," ","pe∫{±øΩ}{∞}Ï","MS",99
+"pail","NY35B","488","nch","N"," "," ","peΩ{±øΩ}{∞}Ï","MS",100
+"pail","NY35C!","489!","nch","N"," "," ","pe±ø{∞}Ï","MS",101
+"pail","NY36A","491","nch","N"," "," ","pe{±ø}{∞}Ï","MS",102
+"bucket","NY36B","492","nch","N"," ","in well","b∏Ωk±øt","MS",103
+"pail","NY36B","492","nch","N"," "," ","pe±øΩ{∞}Ï","MS",103
+"pail","NY37A","493","nch","N"," "," ","peΩ±ø{∞}Ï","MS",104
+"pail","NY37B","494","nch","N"," "," ","peΩ∫{±øΩ}{∞}Ï","MS",105
+"pail","NY37C!","495!","nch","N"," "," ","pe±ø{∞}Ï","MS",106
+"pail","NY38A","497(*)","nch","N"," "," ","peæ∫{∞´}Ï","MS",107
+"pail","NY38B","498","nch","N"," "," ","peæ∫{±øΩ}{∞}Ï","MS",108
+"pail","NY38C"," ","nch","N"," "," ","peΩ{±øΩ}{∞}Ï"," ",109
+"pail","NY39A","499","nch","N"," "," ","pe{±ø}{∞}Ï","MS",110
+"pail","NY39B","500","nch","N"," "," ","pe{±ø}{∞}Ï","MS",111
+"pail","NY40A","501","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",112
+"pail","NY40B","502","nch","N"," "," ","pe{±ø}{∞}Ï","MS",113
+"pail","NY41","504","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",114
+"pail","NY42A","505","nch","N"," "," ","pe±ø{∞}Ï","MS",115
+"pail","NY42B","506","nch","N"," "," ","p{h}e{±øΩ}{∞}Ï","MS",116
+"pail","NY43A","507","nch","N"," "," ","pe{±ø}{∞}Ï","MS",117
+"pail","NY43B","507b","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",118
+"pail","NY43C!","508!","nch","N"," "," ","peΩ±ø{∞}Ï","MS",119
+"pail","NY44A","511","nch","N"," "," ","pe{±ø}{∞}Ï","MS",120
+"pail","NY44B","512","nch","N"," "," ","pe{±ø}{∞}Ï","MS",121
+"bucket","NY45A","513a","nch","N"," ","well","b∏ºkê∞´t","MS",122
+"pails","NY45A","513a","nci","N"," ","wood or metal","peΩ{±ø}Ïz","MS",122
+"tin pails","NY45A","513a","nci","N"," ","milking","t`±´n$p{h}eΩ±ø{∞}Ï","MS",122
+"pail","NY45B","513b","nch","N"," ","carry water","peΩ∫{±ø}Ï","MS",123
+"bucket","NY45B","513b","nch","N"," ","on well sweep","b∏Ωºkê±øºt","MS",123
+"bucket","NY45B","513b","nch","N"," ","on well sweep","b•ækê∞t","MS",123
+"tin pails","NY45B","513b","nci","N"," ","for milking","t`±´n$peΩ{±ø}Ïz","MS",123
+"tin pails","NY45C","513c","nci","N"," ","water or milk","Ât`±´n$ıpeΩ∫{±ø}Ïz","MS",124
+"bucket","NY45C","513c","nch","N"," ","wooden","b¶Ωºg∞´t","MS",124
+"tin pails","NY45C","513c","nci","N"," ","water or milk","Ât`±´n$ıpeΩ∫±øÏz","MS",124
+"pail","NY45D!","513d!","nch","N"," "," ","peΩ±øÏ","MS",125
+"pail","NY45D!","513d!","nch","N"," "," ","p`eΩ±øÏ","MS",125
+"bucket","NY45D!","513d!","nch","Y","HRD","(heard) in Pennsylvania","b∏Ωk±øΩt","MS",125
+"pails","NY46A","515a","nci","N"," ","water","peΩ∫{±ø}Ïz","MS",126
+"wooden pails","NY46A","515a","nci","N"," ","water","Âwπdn$ıpeΩ{±ø}Ïz","MS",126
+"tin pails","NY46A","515a","nci","N"," ","milk","Ât±´n$ıpeΩ∫{±ø}Ïz","MS",126
+"bucket","NY46A","515a","nch","N"," ","on well","Âb´k±øºt","MS",126
+"bucket","NY46B","515b","nch","N"," ","well","b∏´k±øΩt","MS",127
+"pail","NY46B","515b","nch","N"," ","metal","pe{±ø}Ï","MS",127
+"pail","NY46C","515c","nch","N"," ","usual; milk","p`e{±ø}Ï","MS",128
+"bucket","NY46C","515c","nch","N"," ","on well; rare","b∏Ωºk±øt","MS",128
+"milk pail","NY47A","517(*)","nch","N"," ","metal","Âm±øÏk$ıpeΩ{±ø}Ï","MS",129
+"wooden pails","NY47A","517(*)","nci","N"," ","bring in water","Âwπdn$ıpeΩ{±ø}Ïz","MS",129
+"wooden bucket","NY47A","517(*)","nch","N"," ","on well","ıwπdn$Âb∏Ωkê±øºt","MS",129
+"pail","NY47A","517(*)","nch","Y","AUX"," ","peΩ{±ø}{∞}Ï","MS",129
+"pail","NY47B","518","nch","N"," "," ","pe{±ø}{∞}Ï","MS",130
+"pail","NY48A","519a","nch","N","CNV","for water","peΩ∫±øÏ","MS",131
+"buckets","NY48A","519a","nci","N"," ","on well","b∏´k±øºts","MS",131
+"tin pail","NY48A","519a","nch","N"," ","milk","Ât±n$ıpeΩ±ø|Ï","MS",131
+"water pail","NY48B","519b","nch","N"," "," ","Âw∑ΩÒ¥$ıpeΩ{±ø}Ï","MS",132
+"bucket","NY48B","519b","nch","N"," ","windlass","Âb¶óΩk±øºt","MS",132
+"tin pail","NY48B","519b","nch","N"," ","water or milk","Ât±n$ıpeΩ{±ø}Ï","MS",132
+"water bucket","NY48C","519c","nch","N"," "," ","Âwﬁóºtê¥$ıb∏Ωk±øΩt","MS",133
+"milk pails","NY48C","519c","nci","N"," "," ","Âm±øÏk$ıpeΩ±øÏz","MS",133
+"pail","NY48C","519c","nch","N","CNV"," ","peΩ±ø|Ï","MS",133
+"buckets","NY48C","519c","nci","N"," ","on well; windlass","Âb∏´k±øºts","MS",133
+"tin pails","NY48D","519d","nci","N"," ","milk","Ât±n$ıp≤{±ø}|∞Ïz","MS",134
+"pail of water","NY48D","519d","nch","Y","HRD/FRC"," ","peΩ±øÏ$∞Âw∑ΩÒ¥","MS",134
+"pails","NY48D","519d","nci","N"," "," ","p≤Ω±ø{∞}Ïz","MS",134
+"bucket of water","NY48D","519d","nch","Y","HRD"," ","Âb∏ºk±øºt$∞Âw∑ΩÒ¥","MS",134
+"oaken bucket","NY48D","519d","nch","N"," "," ","ıoΩºπΩk∞n$Âb∏´k∞´t","MS",134
+"pail","NY49A","520","nch","N"," ","even in well","peΩ±øºÏ","MS",135
+"white pail","NY49A","520","nch","N"," "," ","Âwa´æ±øt$peΩ±øºÏ","MS",135
+"tin pail","NY49A","520","nch","N"," "," ","t±n$peΩ±øºÏ","MS",135
+"pail","NY49B","521","nch","N"," "," ","pe∫±øΩ{∞}Ï","MS",136
+"pail","NY49C","522a","nch","N"," "," ","p`e±øÏ","MS",137
+"milk pail","NY49C","522a","nch","N"," "," ","Âm±Ïk$ıpe±øÏ","MS",137
+"milk can","NY49C","522a","nch","N"," "," ","Âm±Ïk$ık·∫{∞}n","MS",137
+"wooden pail","NY49C","522a","nch","N"," "," ","wπdn$p`e±øÏ","MS",137
+"wooden bucket","NY49C","522a","nch","Y","AUX"," ","wπdn$b∏ºk±øΩt","MS",137
+"mop pail","NY49C","522a","nch","N"," "," ","Âmµp$ıpe±øÏ","MS",137
+"pail","NY49D","522b","nch","N"," ","metal; milk","p`e±ø{∞}Ï","MS",138
+"bucket","NY49D","522b","nch","N"," ","wood; water","b∏ºk±øt","MS",138
+"pail","NY50A","523","nch","N"," ","water; wood","peΩ±øºÏ","MS",139
+"milk pails","NY50A","523","nci","N"," ","tin","Âm{j}±øÏk$ıpeΩ{±ø}Ïz","MS",139
+"pails","NY50B","524","nci","N"," ","metal","peΩ±øÏz","MS",140
+"milk pails","NY50B","524","nci","N"," ","metal","Âm±øÏk$ıpeΩ∫{±ø}Ïz","MS",140
+"wooden pails","NY50B","524","nci","N"," "," ","Âwπdn$ıpeΩ±øºÏz","MS",140
+"bucket","NY51A","525a","nch","N"," ","well, shipboard","Âb∏ºkê±øΩt","MS",141
+"wooden pails","NY51A","525a","nci","N"," ","water, salt, milk","wπdn$pe∫{±ø}Ïz","MS",141
+"wooden bucket","NY51A","525a","nch","N"," ","well, shipboard","Âwπdn$b∏ºkê±øºt","MS",141
+"pails","NY51A","525a","nci","N"," ","water, salt, milk","peΩ{±ø}Ïz","MS",141
+"pails","NY51B","525b","nci","N"," ","wood or metal","peΩ{±ø}Ïz","MS",142
+"tin pails","NY51B","525b","nci","N"," ","milk","t±n$peΩ{±ø}Ïz","MS",142
+"bucket","NY51B","525b","nch","N"," ","sweep; oldest wells","Âb∏´k∞´t","MS",142
+"bucket","NY51C","525c","nch","N"," ","on well","b∏Ωk±øºt","MS",143
+"tin pail","NY51C","525c","nch","N"," ","milking","Ât`±n$ıpeΩ{±ø}Ï","MS",143
+"wooden pail","NY51C","525c","nch","N"," ","water","Âwπdn$ıpeΩ{±ø}Ï","MS",143
+"pails","NY51C","525c","nci","N"," ","milking","p`e∫{∞}Ïz","MS",143
+"pail","NY51C","525c","nch","N"," ","water","p`eΩ{±ø}Ï","MS",143
+"milk bucket","NY51D","525d","nch","N"," ","no bail?????? (=piggin)","m±øΩÏk$b∏´k±øΩt","MS",144
+"tin pail","NY51D","525d","nch","N"," ","milk","Ât±n$ıpeΩ{±ø}Ï","MS",144
+"bucket","NY51D","525d","nch","N"," ","no bail?????? (=piggin)","b∏´k±øΩt","MS",144
+"buckets","NY51D","525d","nci","N"," ","on well","Âb∏´k±øºts","MS",144
+"pail","NY51D","525d","nch","N"," ","carry water","peΩ{±ø}Ï","MS",144
+"tin pails","NY51E!","525e!","nci","N"," ","water","Ât±n$ıp≤´±øÏz","MS",145
+"tin pail","NY51E!","525e!","nch","N"," ","milk","Ât±n$ıp≤±øÏ","MS",145
+"pail","NY51E!","525e!","nch","N"," ","water","peΩ{±ø}Ï","MS",145
+"wooden pails","NY51E!","525e!","nci","N"," ","water","Âwπdn$ıp≤´±øÏz","MS",145
+"pails","NY52A","527","nci","N"," "," ","p`eΩ{±ø}Ïz","MS",146
+"pail","NY52A","527","nch","N"," "," ","p`eΩ{±ø}Ï","MS",146
+"bucket","NY52A","527","nch","Y","HRD"," ","b∏Ωk±øºt","MS",146
+"bucket well","NY52A","527","nch","N","CNV"," ","b∏Ωk±øºt$ıw≤Ï","MS",146
+"bucket","NY52B","528","nch","N"," ","on well sweep","boîΩºk±øt","MS",147
+"tin pail","NY52B","528","nch","N"," ","for milking","ıt±æn$ÂpeΩ{±ø}Ï","MS",147
+"pail of water","NY52B","528","nch","N","CNV"," ","∞ıpeΩ±øÏ$∞´v$Âw∂tê¥","MS",147
+"bucket","NY52C","528b","nch","N"," "," ","b∏ºk±øÁt","MS",148
+"pail","NY52C","528b","nch","N"," ","metal","pe±øÏ","MS",148
+"oaken bucket","NY53A","529","nch","N"," ","in well","oΩºπΩk∞´n$Âb∏Ωk∞´t","MS",149
+"water pail","NY53A","529","nch","N"," ","copper","Âw∑Ωtê¥$ıpeΩ{±ø}Ï","MS",149
+"sap bucket","NY53A","529","nch","N","CNV","no handle","Âs·'pıb∏ºk±øºt","MS",149
+"twelve quart pail","NY53A","529","nch","N"," ","for milking","twè≥æÏv$kw∑Ωº¥t$ÂpeΩ{±ø}Ï","MS",149
+"pail","NY53B!","530!","nch","N"," ","carrying water","p`eΩ{±ø}Ï","MS",150
+"milk pail","NY53B!","530!","nch","N"," "," ","m{j}±øÏk$p`eΩ{±ø}Ï","MS",150
+"pail","NY53B!","530!","nch","N"," ","carrying water","peΩ∫{±ø}Ï","MS",150
+"buckets","NY53B!","530!","nci","N"," ","on well windlass","b∏ºk±øºts","MS",150
+"pails","NY54A","531","nci","N"," ","milk","p`e{±ø}{∞}Ïz","MS",151
+"buckets","NY54A","531","nci","N"," "," ","Âb∏ºk±øts","MS",151
+"bucket","NY54B","532","nch","N"," "," ","b∏ºk±øt","MS",152
+"tin bucket","NY54B","532","nch","N"," ","milk","Ât`±n$b∏ºk±øt","MS",152
+"bucket","NY55A","533","nch","N"," ","on well","bè∏ºkê±øºt","MS",153
+"pail","NY55A","533","nch","N"," ","for catching water or milk","peΩ∫{±ø}Ï","MS",153
+"rubber buckets","NY55A","533","nci","N"," ","on well","ır∏Ωb¥$Âb∏ºkê±øºts","MS",153
+"pail","NY55B","534","nch","N"," ","usually metal","peΩ{±ø}Ï","MS",154
+"bucket","NY55B","534","nch","N"," ","on well windlass","Âb∏´k±øºt","MS",154
+"tin pails","NY55B","534","nci","N"," ","milk","Ât`±´n$ıpeΩ±øÏz","MS",154
+"tin pail","NY56A","535","nch","N"," ","carry water or milking","Ât±æn$ıpeΩ∫{±ø}Ï","MS",155
+"tin pail","NY56A","535","nch","N"," ","carry water or milking","Ât±øn$ıpeΩ{±ø}Ï","MS",155
+"bucket","NY56B","536","nch","Y","OLD","old-fashioned, unless on well","Âb•Ωkê±øt","MS",156
+"bucket","NY56B","536","nch","Y"," ","old-fashioned, unless on well","Âb∏Ωkê±øt","MS",156
+"pail","NY56B","536","nch","N"," ","usual","peΩ{±ø}Ï","MS",156
+"tin pail","NY56B","536","nch","N"," ","milk","Ât`±æn$ıp`eΩ∫{±ø}Ï","MS",156
+"pail","NY57A","537a","nch","N"," ","water or milk","p`eΩ{±ø}Ï","MS",157
+"pail","NY57A","537a","nch","N"," ","water or milk","peΩ{±ø}Ï","MS",157
+"pail","NY57B","537b","nch","N"," ","general","p`eΩ∫{±ø}Ï","MS",158
+"milk pail","NY57B","537b","nch","N"," ","oldest were wood","Âm±øºÏk$ıpe∫{±ø}Ï","MS",158
+"bucket","NY57B","537b","nch","N"," ","on well","Âb∏ºkê±øºt","MS",158
+"bucket","NY57C!","537c!","nch","N"," ","in well","b∏ºk±øºt","MS",159
+"pails","NY57C!","537c!","nci","N"," ","for milking","pe∫{±ø}Ïz","MS",159
+"wooden pails","NY57C!","537c!","nci","N"," ","for carrying","wπdn$ıp`eΩ∫Ïz","MS",159
+"tin pails","NY57C!","537c!","nci","N"," ","for milking","Ât±´n$pe∫{±ø}Ïz","MS",159
+"pail","NY57C!","537c!","nch","N"," ","for carrying","peΩ{±ø}Ï","MS",159
+"wooden bucket","NY58A","539a","nch","N"," ","for carrying water","Âwπdn$ıb∏ºk∞´t","MS",160
+"tin pails","NY58A","539a","nci","N"," ","milking","Ât`±´n$ÂpeΩ{±ø}Ïz","MS",160
+"metal pails","NY58A","539a","nci","N"," ","milking","Âm≤têÏ$ÂpeΩ{±ø}Ïz","MS",160
+"pail","NY58B","539b","nch","N"," ","general; water, milk","peΩ{±ø}Ï","MS",161
+"tin pail","NY58B","539b","nch","N"," ","milking; usually strainer","t`±´n$ıpeΩ{±ø}Ï","MS",161
+"pails","NY58C","539c","nci","N"," ","usually tin","peΩ{±ø}Ïz","MS",162
+"tin pails","NY58C","539c","nci","N"," "," ","Ât`±´n$peΩ{±ø}Ïz","MS",162
+"buckets","NY58C","539c","nci","N"," ","on well","Âb∏´k∞´ts","MS",162
+"sap buckets","NY58D!","539d!","nci","N"," ","no handle","Âs·´p$ıb∏ºk±øΩts","MS",163
+"pail","NY58D!","539d!","nch","N"," "," ","peΩ±øÏ","MS",163
+"pails","NY58D!","539d!","nci","N","CNV"," ","peΩ∫±øÏz","MS",163
+"milking pail","NY58D!","539d!","nch","N"," "," ","Âm±øÏk±øºn$ıpeΩ∫±øÏ","MS",163
+"well bucket","NY58E!","539e!","nch","N"," "," ","Âw≤Ï$ıb∏ºkê±øΩt","MS",164
+"milk pail","NY58E!","539e!","nch","N"," "," ","Âm±æÏk$ıpeΩ∫±øÏ","MS",164
+"pail","NY58E!","539e!","nch","N"," ","wood or metal","peΩ∫{±ø}Ï","MS",164
+"bucket","NY58F!","539f!","nch","N"," ","on well","b∏ºk∞´t","MS",165
+"milk pail","NY58F!","539f!","nch","N"," "," ","Âm{j}±æÏk$ıpe∫{±ø}Ï","MS",165
+"pail","NY58F!","539f!","nch","N"," ","for bringing","pe{±ø}l","MS",165
+"bucket","NY59A","543","nch","N"," ","on windlass","Âb∏ºk∞´t","MS",166
+"pail of water","NY59A","543","nch","N"," "," ","ıpeΩ±øÏ$∞$Âw∂Ò¥","MS",166
+"milk pails","NY59A","543","nci","N"," "," ","Âm{j}±ø©k$ıpeΩ∫{±ø}Ïz","MS",166
+"tin pails","NY59A","543","nci","N"," "," ","Ât`±´n$ıpeΩ∫{±ø}Ïz","MS",166
+"pail","NY59B","544","nch","N"," "," ","pe{±ø}{∞}Ï","MS",167
+"pail","NY60A","545","nch","N"," ","for carrying ashes, etc.","p`eΩ{±ø}Ï","MS",168
+"bucket","NY60A","545","nch","N"," ","on well","b∏´k±øºt","MS",168
+"pail","NY60A","545","nch","N"," "," ","peΩ{±ø}Ï","MS",168
+"milk pail","NY60A","545","nch","N"," ","tin usually","Âm†±øÏk$ıp`eΩ{±ø}Ï","MS",168
+"tin pails","NY60B!","546!","nci","N"," ","milking","Ât`±n$ıp`eΩ{±ø}Ïz","MS",169
+"buckets","NY60B!","546!","nci","N"," ","on well","b∏ºk∞´ts","MS",169
+"pails","NY60B!","546!","nci","N","CNV"," ","p`eΩ{±ø}Ïz","MS",169
+"buckets","NY60B!","546!","nci","N"," ","on well","b∏Ωk∞´ts","MS",169
+"pails","NY61A","547","nci","N"," "," ","p`eΩ∫{±ø}Ïz","MS",170
+"wooden pails","NY61A","547","nci","N"," ","for well water","Âwπdn$ıpeΩ∫Ïz","MS",170
+"tin pails","NY61A","547","nci","N"," ","for milk","Ât±´n$ıp≤´∫±øÏz","MS",170
+"wooden pails","NY61B","548","nci","N"," ","milking","Âwπdn$ıpeΩ∫±øÏz","MS",171
+"oaken bucket","NY61B","548","nch","N"," ","well","oºπΩk∞´n$Âb∏k∞´t","MS",171
+"pail","NY61B","548","nch","Y","NEW","metal","peΩ±ø›Ï","MS",171
+"pails","NY61B","548","nci","N"," ","milking","peΩ∫{±ø}Ïz","MS",171
+"common pail","NY62A","551a","nch","N"," ","??????","ıkµm∞´n$ÂpeΩ±øÏ","MS",172
+"wood pail","NY62A","551a","nch","N"," "," ","Âwπd$ıpeΩ±øÏ","MS",172
+"milk pail","NY62A","551a","nch","N"," ","wood or tin","m±æÏk$pe∫±ø›Ï","MS",172
+"bucket","NY62B","551b","nch","N"," ","on sweep","Âb∏ºk{x}±øºt","MS",173
+"wooden pail","NY62B","551b","nch","N"," ","occasionally","Âwπdn$p≤∫{±ø}Ï","MS",173
+"milk pails","NY62B","551b","nci","N"," "," ","Âm±øºÏk$ıpeΩ∫±øÏz","MS",173
+"pail","NY62B","551b","nch","N"," ","usually meatl","p≤∫{±ø}Ï","MS",173
+"tin pails","NY62C","551c","nci","N"," ","water or milk","Ât±´n$ıpeΩ±ø´ºÏz","MS",174
+"wooden pails","NY62C","551c","nci","N"," ","water","Âwπdn$ıpeΩ±ø´ºÏz","MS",174
+"house pails","NY62D!","551d!","nci","N"," ","milking","Âh∏Ωπs$ıpe∫±øÏz","MS",175
+"pail","NY62D!","551d!","nch","N"," ","wood","p`e´±øÏ","MS",175
+"bucket","NY62D!","551d!","nch","N"," ","on well sweep","b∏´kê±øºt","MS",175
+"tin pails","NY62D!","551d!","nci","N"," ","milking","t`±´n$pe∫{±ø}Ïz","MS",175
+"barn pail","NY62D!","551d!","nch","N"," ","wood","Âbµ¥n$ıpe∫±øÏ","MS",175
+"pail","NY63A","556a","nch","N"," ","on well; tin","p≤Ω∫{±ø}Ï","MS",176
+"bucket pumps","NY63A","556a","nci","N"," "," ","Âb∏ºk∞´t$ıp∏´ºmps","MS",176
+"sap buckets","NY63A","556a","nci","N"," "," ","Âs·p$ıb∏ºk∞´ts","MS",176
+"bucket","NY63A","556a","nch","N"," ","without handle","b∏Ωºk∞t","MS",176
+"bucket","NY63B","556b","nch","N"," ","on well","Âb∏k∞´t","MS",177
+"pail","NY63B","556b","nch","N"," "," ","pe{±ø}Ï","MS",177
+"tin pail","NY63B","556b","nch","N"," ","milking","Ât`±´n$pe{±ø}Ï","MS",177
+"wooden pail","NY63B","556b","nch","N"," "," ","wπø´dn$pe{±ø}Ï","MS",177
+"pail","NY63C","556c","nch","N"," "," ","peΩ±ø{∞}Ï","MS",178
+"bucket","NY63D!","556d!","nch","Y","HRD","at colledge","b∏ºk∞´t","MS",179
+"candy pail","NY63D!","556d!","nch","N"," "," ","Âkà·´∫{≤}nd±´æ$ıp`eº∫±øºÏ{Ïè}","MS",179
+"water pail","NY63D!","556d!","nch","N"," "," ","Âw∑Ω{Ò}¥$ıp`e∫{±ø}Ï","MS",179
+"mop pail","NY63D!","556d!","nch","N"," "," ","Âmµp$ıp`eº∫±øºÏ{Ïè}","MS",179
+"wooden pail","NY63D!","556d!","nch","N"," "," ","Âwπdn$ıp`eº∫±øºÏ{Ïè}","MS",179
+"tin pail","NY63D!","556d!","nch","N"," ","milk; strainer","Ât±˛n$ıpeΩ∫±øÏ","MS",179
+"bucket","NY64A","557a","nch","N"," "," ","Âb∏ºk{x}±øºt","MS",180
+"milk pail","NY64A","557a","nch","N"," ","strainer","Âm±øÏk$ıpe∫±ø{∞}Ï","MS",180
+"bucket","NY64B","557b","nch","N"," ","well sweep","Âb∏ºk±øºt","MS",181
+"tin pail","NY64B","557b","nch","N"," ","strainer","Ât`±´{n}$ıpe∫{±ø}Ï","MS",181
+"bucket","NY64C!","557c!","nch","N"," ","well sweep","b¶Ωk∞´t","MS",182
+"bucket pail","NY64C!","557c!","nch","N"," ","carry ??????","b¶Ωk±øΩt$ıpeΩ{±ø}|∞›Ï","MS",182
+"tin pail","NY64C!","557c!","nch","N"," ","milking","t`±´n$p`e∫{±ø}|Ï","MS",182
+"pail","NY64C!","557c!","nch","N"," ","milking","p`e∫{±ø}|Ï","MS",182
+"bucket","NJ1A","1","nch","N"," "," ","b∏k∞t","MS",183
+"pail","NJ1B","2","nch","Y","OLD"," ","p≤±ø{∞}Ï","MS",184
+"bucket","NJ1B","2","nch","N"," "," ","b∏k∞t","MS",184
+"bucket","NJ2A","3(*)","nch","N"," "," ","b∏´æk∞´t","MS",185
+"bucket","NJ2B","4","nch","N"," "," ","b∏k∞t","MS",186
+"bucket","NJ3A","5","nch","N"," "," ","b∏k∞t","MS",187
+"bucket","NJ3B","6","nch","N"," "," ","b∏k∞t","MS",188
+"pail","NJ3B","6","nch","N"," "," ","p≤±ø{∞}Ï","MS",188
+"bucket","NJ4A","7","nch","N"," "," ","b∏´k∞t","MS",189
+"bucket","NJ4B","8","nch","N"," "," ","b∏k∞´t","MS",190
+"bucket","NJ5A","9","nch","N"," "," ","b∏k∞t","MS",191
+"bucket","NJ5B","10","nch","N"," "," ","bè∏k∞t","MS",192
+"pail","NJ6A","11","nch","N"," "," ","p≤´±ø{∞}Ï","MS",193
+"bucket","NJ6A","11","nch","N"," ","mostly","b∏k∞t","MS",193
+"bucket","NJ6B","12","nch","N"," "," ","b∏k∞t","MS",194
+"milk kettle","NJ6B","12","nch","N"," ","metal with spout","Âm±æÏk$ık±{Ò}Ï","MS",194
+"pail","NJ7A","17","nch","N"," "," ","p≤´±ø{∞}Ï","MS",195
+"bucket","NJ7A","17","nch","N"," ","modern","b∏ó´æk∞t","MS",195
+"bucket","NJ7B!","18!","nch","N"," "," ","b∏k∞t","MS",196
+"tin blickey","NJ8A","19","nch","N"," ","6-10 quarts","t±n$bÏ±k±ø´º","MS",197
+"tin kettle","NJ8A","19","nch","N"," ","6-10 quarts","t±n$k±têÏ","MS",197
+"bucket","NJ8A","19","nch","N"," ","wood or metal","b∏ºk∞t","MS",197
+"bucket","NJ8B","20","nch","N"," "," ","b∏k∞t","MS",198
+"blickey","NJ8B","20","nch","N"," ","kettle for water carrying","bÏ±k±ø´º","MS",198
+"pail","NJ9A","21","nch","N"," "," ","p≤±ø{∞}Ï","MS",199
+"pail","NJ9B","22","nch","N"," "," ","p≤´±ø{∞}Ï","MS",200
+"pail","NJ10A","24b","nch","N"," "," ","pe±ø{∞}Ï","MS",201
+"pail","NJ10B","23","nch","N"," "," ","p≤Ω±øΩ{∞}Ï","MS",202
+"pail","NJ10C","24","nch","N"," "," ","p≤±ø{∞}Ï","MS",203
+"pail","NJ10D!","24c!","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",204
+"pail","NJ11A","25","nch","N"," "," ","p≤´±ø{∞}Ï","MS",205
+"pail","NJ11B","26a","nch","N"," "," ","p≤±ø{∞}Ï","MS",206
+"pail","NJ11C","26b","nch","N"," "," ","p≤±øÏ","MS",207
+"pail","NJ12A","27","nch","N"," "," ","p{h}≤±ø{∞}Ï","MS",208
+"water pail","NJ12B","28","nch","N"," "," ","Âw∏Ò¥$ıp≤±ø{∞}Ï","MS",209
+"pail","NJ13A","29","nch","N"," "," ","p≤Ω±ø{∞}Ï","MS",210
+"pail","NJ13B","30","nch","N"," ","also, as a child","p≤±ø{∞}Ï","MS",211
+"bucket","NJ13B","30","nch","N"," ","also, as a child ??????","b∏k∞t","MS",211
+"blickey","NJ13B","30","nch","N"," ","especially = dinner pail","bl±k±ø´º","MS",211
+"pail","NJ14A","31","nch","N"," "," ","p≤´±ø´{∞}Ï","MS",212
+"blickey","NJ14B","32","nch","Y","OLD","straight sides and lid","bÏ±k±ø´º","MS",213
+"pail","NJ14B","32","nch","N"," "," ","p≤±ø{∞}Ï","MS",213
+"pail","NJ15A","33","nch","N"," "," ","p{h}≤±ø{∞}Ï","MS",214
+"blickey","NJ15A","33","nch","N"," ","small; lid; lunch","bÏ±k±ø´º","MS",214
+"pail","NJ15B","34","nch","N"," "," ","p≤±ø{∞}Ï","MS",215
+"pail","NJ16A","35","nch","N"," "," ","p≤´±ø{∞}Ï","MS",216
+"pail","NJ16B","36","nch","N"," "," ","p≤Ω∫±øÏ","MS",217
+"pail","NJ17A","37","nch","N"," "," ","p≤´±ø{∞}Ï","MS",218
+"blickey","NJ17B","38","nch","N"," ","small pail with lid","bÏ±k±ø´º","MS",219
+"pail","NJ17B","38","nch","N"," "," ","peΩ±ø{∞}Ï","MS",219
+"pail","NJ18A","41","nch","N"," "," ","p{h}≤æ±ø´Ï","MS",220
+"pail","NJ18B","42","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",221
+"pail","NJ18C!","43!","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",222
+"pail","NJ18D!","44!","nch","N"," "," ","p{h}eΩ±ø{∞}Ï","MS",223
+"pail","NJ19A","45","nch","N"," "," ","pe±ø{∞}Ï","MS",224
+"pail","NJ19B!","46!","nch","N"," "," ","peΩ±ø{∞}Ï","MS",225
+"pail","NJ20A","47","nch","N"," "," ","pe±ø{∞}Ï","MS",226
+"??????","NJ20A","47","nch","N"," ","Dutch","·∫m∞›r","MS",226
+"pail","NJ20B","47b","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",227
+"pail","NJ21A","48","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",228
+"pail","NJ21B","49","nch","N"," "," ","p{h}e±ø{∞}Ï","MS",229
+"bucket","PA1A","51","nch","N"," "," ","bè∏k∞t","MS",230
+"bucket","PA1B","52","nch","N"," ","also","bè∏k∞t","MS",231
+"pail","PA1B","52","nch","N"," "," ","p{h}≤±ø{∞}Ï","MS",231
+"bucket","PA1C","53","nch","N"," "," ","b∏k∞t","MS",232
+"bucket","PA1D","54","nch","N"," "," ","b∏k∞t","MS",233
+"pail","PA1E!","55!","nch","N"," ","modern only","p≤æ±ø{∞}Ï","MS",234
+"bucket","PA1E!","55!","nch","N"," "," ","b∏k∞t","MS",234
+"bucket","PA1F!","56!","nch","N"," "," ","b∏k∞t","MS",235
+"bucket","PA1G!","57!","nch","N"," ","usually wooden","b∏k∞t","MS",236
+"pail","PA1G!","57!","nch","N"," "," ","p≤±ø{∞}Ï","MS",236
+"bucket","PA1H!","58!","nch","N"," ","all materials","b∏k∞t","MS",237
+"bucket","PA2A","59","nch","N"," "," ","b∏k∞t","MS",238
+"bucket","PA2B","60","nch","N"," "," ","b∏Ωk∞t","MS",239
+"bucket","PA3A","61","nch","N"," "," ","b∏k∞t","MS",240
+"pail","PA3A","61","nch","N"," ","rare","p≤Ω±ø{∞}Ï","MS",240
+"bucket","PA3B","62","nch","N"," "," ","b∏k∞t","MS",241
+"bucket","PA3C","62b","nch","N"," "," ","bè∏k∞t","MS",242
+"bucket","PA4A","63","nch","N"," "," ","b∏´k∞t","MS",243
+"bucket","PA4B!","64!","nch","N"," "," ","b∏æk∞t","MS",244
+"pail","PA4B!","64!","nch","Y","OLD"," ","p≤±ø{∞}Ï","MS",244
+"bucket","PA5A","65(*)","nch","N"," "," ","b∏´k∞t","MS",245
+"bucket","PA5A","65(*)","nch","Y","AUX"," ","b∏k∞t","MS",245
+"bucket","PA5B","65b","nch","N"," "," ","b∏æk∞t","MS",246
+"bucket","PA5C","66","nch","N"," "," ","b∏k∞t","MS",247
+"bucket","PA5D","67","nch","N"," "," ","b∏k∞t","MS",248
+"bucket","PA5E!","68!","nch","N"," "," ","b∏´k∞t","MS",249
+"bucket","PA6A","69","nch","N"," "," ","pí∏´æk∞t","MS",250
+"??????","PA6A","69","nch","N"," ","[≤±øm∞Òéá] in Dutch","≤±øm∞","MS",250
+"bucket","PA6B","71","nch","N"," "," ","bè∏ó´k∞t","MS",251
+"bucket","PA6C","71b","nch","N"," "," ","pí∏´k∞t","MS",252
+"bucket","PA6D!","72!","nch","N"," "," ","b∏k∞t","MS",253
+"bucket","PA7A","73","nch","N"," "," ","b∏´ºk∞´t","MS",254
+"bucket","PA7B","74","nch","N"," "," ","b∏k∞t","MS",255
+"bucket","PA7C","75","nch","N"," "," ","bè∏´æk∞t","MS",256
+"??????","PA7C","75","nch","N"," ","Dutch","k±ˆ∞lç","MS",256
+"??????","PA7C","75","nch","Y","HRD","older Lancaster Amish","e˛Ω∫m∞{r}","MS",256
+"pail","PA7C","75","nch","N"," "," ","pe∫{∞}lç","MS",256
+"bucket","PA7D!","76!","nch","N"," "," ","b∏´k∞t","MS",257
+"bucket","PA8A","77","nch","N"," "," ","b∏k∞t","MS",258
+"bucket","PA8B","78","nch","N"," "," ","b∏k∞t","MS",259
+"bucket","PA8C","79","nch","N"," "," ","pí∏ó´k∞t","MS",260
+"??????","PA8C","79","nch","N"," ","German","k±ˆ∞lç","MS",260
+"bucket","PA8D!","80!","nch","N"," "," ","b∏óæk∞t","MS",261
+"bucket","PA9A","83","nch","N"," "," ","bè∏k∞t","MS",262
+"??????","PA9A","83","nch","N"," ","Dutch","kí±´ˆlç","MS",262
+"bucket","PA9B","83b","nch","N"," "," ","bè∏æk∞t","MS",263
+"bucket","PA9C!","84!","nch","N"," "," ","b∏k∞t","MS",264
+"bucket","PA10","87","nch","N"," "," ","bè∏ó´k∞t","MS",265
+"??????","PA10","87","nch","N"," ","Dutch","k±ˆ∞›l","MS",265
+"bucket","PA11A","89","nch","N"," "," ","b∏k∞t","MS",266
+"bucket","PA11B","90(*)","nch","Y","AUX"," ","b∏k∞t","MS",267
+"bucket","PA11B","90(*)","nch","N"," "," ","b∏`k∞t","MS",267
+"bucket","PA12A","91","nch","N"," "," ","b∏k∞t","MS",268
+"bucket","PA12B","92","nch","N"," "," ","b∏k∞t","MS",269
+"bucket","PA13A","93","nch","N"," "," ","b∏k∞t","MS",270
+"bucket","PA13B","94","nch","N"," "," ","b∏k∞t","MS",271
+"bucket","PA14A","95(*)","nch","N"," "," ","pí∏´kí∞t","MS",272
+"bucket","PA14B","96","nch","N"," ","natural","b∏´æk∞t","MS",273
+"pail","PA14B","96","nch","N"," ","especially milk","peΩ{±ø}{∞}Ï","MS",273
+"bucket","PA14C"," ","nch","N"," "," ","píoîΩºk∞t"," ",274
+"pail","PA15A","99","nch","N"," "," ","peΩ±ø{∞}Ï","MS",275
+"water pail","PA15B","99b","nch","N"," "," ","wµ{Ò}¥$peΩ±ø{∞}Ï","MS",276
+"bucket","PA15C!","100!","nch","N"," "," ","b∏k±øΩt","MS",277
+"pail","PA15C!","100!","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",277
+"bucket","PA16A","101","nch","N"," "," ","b∏ó´k∞t","MS",278
+"??????","PA16A","101","nch","N"," ","Dutch","≤˛´∫{±ø˛Ω}m∞{rü’}","MS",278
+"pail","PA16A","101","nch","N"," "," ","p{h}e∫{∞}lç","MS",278
+"bucket","PA16B","102","nch","N"," "," ","b∏k∞t","MS",279
+"bucket","PA16C","103","nch","N"," ","natural","b∏k∞t","MS",280
+"pail","PA16C","103","nch","N"," ","rare","peΩ±øÏ","MS",280
+"bucket","PA17A","105","nch","N"," "," ","bè∏ó´ækí∞tí","MS",281
+"pail","PA17A","105","nch","N"," ","rare","pe∫{∞}Ï","MS",281
+"??????","PA17A","105","nch","N"," ","Dutch","e˛∫m∞{rü’}","MS",281
+"bucket","PA17B","106","nch","N"," "," ","bè∏k∞t","MS",282
+"??????","PA17B","106","nch","N"," ","Dutch","e˛∫m∞ü{’}","MS",282
+"pail","PA18A","107","nch","N"," "," ","pe´∫{±ø}{∞}Ï","MS",283
+"bucket","PA18A","107","nch","N"," ","rare","b∏óæk∞t","MS",283
+"bucket","PA18B!","108!","nch","N"," "," ","b∏k∞t","MS",284
+"water pail","PA19A","113","nch","N"," "," ","Âw∏Ò¥$ıpeΩ±ø{∞}Ï","MS",285
+"water pail","PA19B","114","nch","N"," "," ","Âw∞Ò¥$ıpeΩ{±ø}{∞}Ï","MS",286
+"pail","PA20A","115","nch","N"," "," ","peΩ±ø{∞}Ï","MS",287
+"pail","PA20B","116","nch","N"," "," ","peΩ±ø{∞}Ï","MS",288
+"pail","PA21A","117","nch","N"," "," ","pe{±ø}{∞}Ï","MS",289
+"pail","PA21B","118","nch","N"," "," ","peæ∫{∞}Ï","MS",290
+"pail","PA22A","119","nch","N"," "," ","pe∫{±øΩ}{∞}Ï","MS",291
+"pail","PA22B","120","nch","N"," "," ","peΩ∫{±øΩ}{∞}Ï","MS",292
+"pail","PA23A","121","nch","N"," "," ","pe{±ø}{∞}Ï","MS",293
+"pail","PA23B","122","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",294
+"pail","PA24A","123","nch","N"," "," ","pe∫{±øΩ}{∞}Ï","MS",295
+"pail","PA24B","124","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",296
+"pail","PA25A","125","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",297
+"pail","PA25B","126","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",298
+"pail","PA26A","127","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",299
+"pail","PA26B","128","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",300
+"bucket","PA26B","128","nch","N"," ","well bucket","b∏Ωk±øt","MS",300
+"pail","PA27A","131","nch","N"," "," ","pe±øÏ","MS",301
+"bucket","PA27A","131","nch","N"," ","wooden well bucket","b∏Ωk±øΩt","MS",301
+"water bucket","PA27B","132","nch","N"," ","as a boy","ÂwµÒ¥$ıb∏Ωk±øΩt","MS",302
+"water pail","PA27B","132","nch","N"," ","modern only; in his family","ÂwµÒ¥$ıpe{±ø}{∞}Ï","MS",302
+"water pail","PA28A","135","nch","N"," "," ","wµæÒ¥$pe{±ø}{∞}Ï","MS",303
+"water bucket","PA28A","135","nch","N"," ","as a boy, always","wµæÒ¥$b∏k∞t","MS",303
+"bucket","PA28B!","136!","nch","N"," "," ","b∏k∞t","MS",304
+"bucket","PA29A","139(*)","nch","Y","AUX"," ","b∏k∞t","MS",305
+"pail","PA29A","139(*)","nch","Y","AUX","not used","peΩ{±ø}{∞}Ï","MS",305
+"bucket","PA29A","139(*)","nch","N"," "," ","b∏k∞t","MS",305
+"??????","PA29A","139(*)","nch","N"," ","German","k±ˆ∞›l","MS",305
+"bucket","PA29A","139(*)","nch","Y","AUX","to get a bucket of water in","b∏k∞tê","MS",305
+"bucket","PA29B","140","nch","N"," "," ","b∏k∞t","MS",306
+"pail","PA30A","143","nch","N"," "," ","pe∫{±øΩ}Ï","MS",307
+"pail","PA30B","144","nch","N"," "," ","pe{±ø}{∞}Ï","MS",308
+"pail","PA31A","145","nch","Y","OLD","natural","peΩ±ø{∞}Ï","MS",309
+"bucket","PA31A","145","nch","N"," ","modern only","b∏k±øΩt","MS",309
+"pail","PA31B","146","nch","N"," "," ","pe±ø{∞}Ï","MS",310
+"bucket","PA32A","147","nch","N"," "," ","b∏k∞t","MS",311
+"bucket","PA32B","148","nch","N"," ","natural","b∏Ωæk∞t","MS",312
+"pail","PA32B","148","nch","N"," "," ","peΩ±øÏ","MS",312
+"bucket","PA33A","151","nch","N"," "," ","b∏Ωk∞t","MS",313
+"bucket","PA33B","152","nch","N"," "," ","b∏k∞t","MS",314
+"bucket","PA34A","155","nch","N"," "," ","b∏k∞t","MS",315
+"bucket","PA34B","156","nch","N"," "," ","b∏k∞t","MS",316
+"bucket","PA34C!","155b!","nch","N"," "," ","b∏Ωk∞t","MS",317
+"bucket","PA35A","157","nch","N"," "," ","b∏Ωæk∞t","MS",318
+"bucket","PA35B","158(*)","nch","N"," "," ","b∏k∞t","MS",319
+"bucket","PA35C"," ","nch","N"," "," ","b∏ºk∞t"," ",320
+"bucket","PA36A","159","nch","N"," "," ","b∏k∞t","MS",321
+"bucket","PA36B","160","nch","N"," "," ","b∏k∞t","MS",322
+"??????","PA37A","161(*)","nch","N"," "," ","e˛∫mµ´æ{’}","MS",323
+"bucket","PA37A","161(*)","nch","N"," "," ","bè∏´æk∞t","MS",323
+"bucket","PA37B","162","nch","N"," "," ","b∏k∞t","MS",324
+"??????","PA37B","162","nch","N"," "," ","e˛∫mµ›´æ","MS",324
+"bucket","PA37C"," ","nch","N"," "," ","b∏k∞t"," ",325
+"??????","PA37C"," ","nch","N"," "," ","e˛∫mﬁ›´º{’}"," ",325
+"bucket","PA38A","163","nch","N"," "," ","b∏k∞t","MS",326
+"bucket","PA38B","164","nch","N"," "," ","b∏k∞t","MS",327
+"bucket","PA39A","165","nch","N"," "," ","b∏Ωk∞t","MS",328
+"bucket","PA39B","166","nch","N"," "," ","b∏k∞t","MS",329
+"bucket","PA40A","167","nch","N"," "," ","b∏´k∞t","MS",330
+"bucket","PA40B","168","nch","N"," "," ","bè∏Ωk∞t","MS",331
+"bucket","PA41A","171","nch","N"," "," ","b∏k∞t","MS",332
+"bucket","PA41B","172","nch","N"," "," ","b∏k∞t","MS",333
+"bucket","PA42A","175","nch","N"," "," ","b∏Ωk∞t","MS",334
+"bucket","PA42B","176","nch","N"," "," ","b∏k∞t","MS",335
+"bucket","PA43A","177","nch","N"," "," ","b∏k∞t","MS",336
+"bucket","PA43B","178","nch","N"," "," ","b∏k∞t","MS",337
+"bucket","PA44A","179","nch","N"," "," ","b∏k∞t","MS",338
+"bucket","PA44B","180","nch","N"," "," ","b∏k∞t","MS",339
+"bucket","PA45A","181","nch","N"," "," ","b∏´ºk∞t","MS",340
+"bucket","PA45B","182","nch","N"," "," ","bè∏Ωk∞t","MS",341
+"bucket","PA46A","185","nch","N"," "," ","b∏Ωk∞t","MS",342
+"bucket","PA46B","186","nch","N"," "," ","b∏Ωk∞t","MS",343
+"bucket","PA47A","189","nch","N"," "," ","b∏ºk∞t","MS",344
+"bucket","PA47B","190","nch","N"," "," ","b∏ºk∞t","MS",345
+"pail","PA47B","190","nch","N"," ","rare","pe±ø{∞}Ï","MS",345
+"bucket","PA48A","191","nch","N"," "," ","b∏k∞t","MS",346
+"bucket","PA48B","192","nch","N"," "," ","b∏ºk∞t","MS",347
+"pail","PA48C","193","nch","N"," "," ","p≤´±ø{∞}Ï","MS",348
+"bucket","PA48C","193","nch","N"," ","natural","bè∏Ωk∞t","MS",348
+"bucket","PA49A","194","nch","N"," ","natural","b∏Ωk∞t","MS",349
+"pail","PA49A","194","nch","N"," "," ","peΩ±ø{∞}Ï","MS",349
+"bucket","PA49B","195","nch","N"," "," ","b∏Ωk∞t","MS",350
+"bucket","PA50A","196","nch","N"," "," ","b∏ºk∞t","MS",351
+"bucket","PA50B","197","nch","N"," ","natural","b∏Ωk∞t","MS",352
+"pail","PA50B","197","nch","N"," "," ","peΩ±ø{∞}Ï","MS",352
+"bucket","PA50C!","198!","nch","N"," "," ","b∏ºk∞t","MS",353
+"water bucket","PA51A","199","nch","N"," "," ","wµÒ¥$b∏Ωk∞t","MS",354
+"bucket","PA51B","200","nch","N"," "," ","b∏k∞t","MS",355
+"bucket","PA52A","201","nch","N"," "," ","b∏k±øΩt","MS",356
+"pail","PA52B!","202!","nch","N"," "," ","p≤±ø{∞}Ï","MS",357
+"bucket","PA52B!","202!","nch","N"," ","more natural","b∏Ωk∞t","MS",357
+"bucket","PA53A","203","nch","N"," "," ","b∏k∞t","MS",358
+"bucket","PA53B","204","nch","N"," "," ","b∏Ωk∞t","MS",359
+"bucket","PA54A","205","nch","N"," "," ","b∏Ωk∞t","MS",360
+"bucket","PA54B","206","nch","N"," "," ","b∏k∞Ωt","MS",361
+"bucket","PA55A","207","nch","N"," "," ","b∏k∞t","MS",362
+"pail","PA55B","208","nch","N"," "," ","p≤±øΩ{∞}Ï","MS",363
+"bucket","PA55B","208","nch","Y","OLD","still natural","b∏k∞t","MS",363
+"bucket","PA56A","211(*)","nch","Y","OLD"," ","b∏k∞t","MS",364
+"bucket","PA56A","211(*)","nch","Y","AUX"," ","b∏Ωk∞t","MS",364
+"pail","PA56A","211(*)","nch","N"," ","modern","peΩ±øÏ","MS",364
+"bucket","PA56B","212","nch","N"," "," ","b∏Ωk∞t","MS",365
+"bucket","PA57A","213","nch","N"," "," ","b∏ºk∞t","MS",366
+"bucket","PA57B","214","nch","N"," ","natural","b∏Ωk∞t","MS",367
+"pail","PA57B","214","nch","N"," "," ","peΩ±øÏ","MS",367
+"bucket","PA58A","215","nch","N"," "," ","b∏Ωk∞t","MS",368
+"bucket","PA58B","216","nch","N"," "," ","b∏Ωk∞t","MS",369
+"bucket","PA59A","219","nch","N"," "," ","b∏k∞t","MS",370
+"pail","PA59B","220","nch","N"," "," ","peΩ±ø{∞}Ï","MS",371
+"bucket","PA59B","220","nch","Y","OLD"," ","b∏Ωk∞t","MS",371
+"bucket","PA60A","221","nch","N"," "," ","b∏k∞t","MS",372
+"bucket","PA60B","222","nch","N"," "," ","b∏Ωk∞t","MS",373
+"bucket","PA61A","223","nch","N"," "," ","b≥k∞t","MS",374
+"bucket","PA61B","224","nch","N"," "," ","b∏Ωk∞t","MS",375
+"bucket","PA62A","229","nch","N"," "," ","b∏k∞t","MS",376
+"bucket","PA62B","230","nch","N"," "," ","b∏k∞t","MS",377
+"bucket","PA63A","231","nch","N"," "," ","b∏k±øΩt","MS",378
+"pail","PA63B","232","nch","N"," "," ","peΩ±ø{∞}Ï","MS",379
+"bucket","PA63B","232","nch","N"," "," ","b∏k∞´ºt","MS",379
+"pail","PA64A","233","nch","N"," "," ","pe±ø{∞}Ï","MS",380
+"pail","PA64B","234","nch","N"," "," ","peΩ±ø{∞}Ï","MS",381
+"pail","PA65A","237","nch","N"," "," ","p≤´±ø{∞}Ï","MS",382
+"pail","PA65B","238","nch","N"," "," ","p≤±ø{∞}Ï","MS",383
+"pail","PA66A","239","nch","N"," "," ","p≤´±ø{∞}Ï","MS",384
+"bucket","PA66A","239","nch","Y","OLD","natural","b∏k∞t","MS",384
+"pail","PA66B","240","nch","N"," "," ","peΩ±ø{∞}Ï","MS",385
+"pail","PA67A","243","nch","N"," "," ","pe±ø{∞}Ï","MS",386
+"pail","PA67B","244","nch","N"," "," ","peΩ±ø{∞}Ï","MS",387
+"bucket","WV1!","88!","nch","N"," "," ","b∏k∞t","MS",388
+"bucket","WV2","89","nch","N"," "," ","b∏´ºk∞´t","MS",389
+"bucket","WV3","91","nch","N"," "," ","b∏k∞t","MS",390
+"bucket","WV4A","92","nch","N"," "," ","b∏k∞t","MS",391
+"bucket","WV4B","93","nch","N"," "," ","b∏´æk∞t","MS",392
+"bucket","WV5","94","nch","N"," "," ","b∏k∞t","MS",393
+"bucket","WV6A","95","nch","N"," "," ","b∏´k∞t","MS",394
+"bucket","WV6B","96","nch","N"," "," ","b∏k∞t","MS",395
+"bucket","WV7A","97","nch","N"," "," ","b∏´æ∫k∞t","MS",396
+"bucket","WV7B","98","nch","N"," "," ","b∏k∞t","MS",397
+"bucket","WV8A","97b","nch","N"," "," ","b∏´ºk∞›t","MS",398
+"bucket","WV8B","98b","nch","N"," "," ","b∏´k∞t","MS",399
+"bucket","WV9A","301","nch","N"," "," ","b∏∫k∞t","MS",400
+"pail","WV9A","301","nch","N"," ","modern only","pe±ø{∞}Ï","MS",400
+"bucket","WV9B","302","nch","N"," "," ","b∏ºk∞t","MS",401
+"bucket","WV10A","303","nch","N"," "," ","b∏ºk∞t","MS",402
+"pail","WV10A","303","nch","N"," ","rare","peΩ±ø{∞}Ï","MS",402
+"bucket","WV10B","303b","nch","N"," "," ","b∏k∞t","MS",403
+"bucket","WV10C","304","nch","N"," "," ","b∏ºk∞t","MS",404
+"bucket","WV11A","305","nch","N"," "," ","b∏º∫k∞t","MS",405
+"bucket","WV11B!","306!","nch","N"," "," ","b∏ó´ºk∞t","MS",406
+"water bucket","WV12A","307","nch","N"," "," ","wµÒ¥$b∏k∞t","MS",407
+"bucket","WV12B","308","nch","N"," "," ","b∏k∞t","MS",408
+"bucket","WV13A","309","nch","N"," "," ","b∏ºk∞t","MS",409
+"bucket","WV13B","310","nch","N"," "," ","b∏k∞t","MS",410
+"bucket","WV14A","311","nch","N"," "," ","b∏´ºk∞t","MS",411
+"bucket","WV14B","312","nch","N"," "," ","b∏k∞t","MS",412
+"bucket","WV15A","313","nch","N"," "," ","b∏k∞t","MS",413
+"bucket","WV15B","314","nch","N"," "," ","b∏k∞{t}","MS",414
+"bucket","WV16A","315","nch","N"," "," ","b∏´ºk∞t","MS",415
+"bucket","WV16B","316","nch","N"," ","natural","b∏ºk∞t","MS",416
+"pail","WV16B","316","nch","N"," ","rare","peΩ±ø{∞}Ï","MS",416
+"bucket","WV17A","317","nch","N"," "," ","b∏´ºk∞t","MS",417
+"bucket","WV17B","317b","nch","N"," "," ","b∏ºk∞t","MS",418
+"bucket","WV17C","318","nch","N"," "," ","b∏ºk∞t","MS",419
+"bucket","WV18A","319","nch","N"," "," ","b∏k∞t","MS",420
+"bucket","WV18B","320","nch","N"," "," ","b∏k∞t","MS",421
+"pail","WV18B","320","nch","N"," ","never used","peΩ±ø{∞}Ï","MS",421
+"bucket","WV19A","321","nch","N"," "," ","b∏ºk∞t","MS",422
+"bucket","WV19B","322","nch","N"," "," ","b∏´ºk∞t","MS",423
+"bucket","WV20A","323","nch","N"," "," ","b∏´k∞t","MS",424
+"bucket","WV20B","324","nch","N"," "," ","b∏ºk∞t","MS",425
+"bucket","WV21A","325","nch","N"," "," ","b∏´k∞t","MS",426
+"bucket","WV21B","326","nch","N"," "," ","b∏´k∞t","MS",427
+"bucket","WV22A","327","nch","N"," "," ","b∏ºk∞t","MS",428
+"bucket","WV22B","328","nch","N"," "," ","b∏ºk∞t","MS",429
+"bucket","WV23A","331","nch","N"," "," ","b∏ºk∞t","MS",430
+"bucket","WV23B","332","nch","N"," "," ","b∏k∞t","MS",431
+"bucket","WV24A","335","nch","N"," "," ","b∏ºk∞t","MS",432
+"bucket","WV24B","336","nch","N"," "," ","b∏ºk∞t","MS",433
+"pail","WV25A","337","nch","N"," ","1/2 bushel","peΩ∫{±ø}Ï","MS",434
+"bucket","WV25A","337","nch","N"," ","2 gallon","b∏ºk∞t","MS",434
+"bucket","WV25B","338","nch","N"," ","2 gallon; metal","b∏ºk∞t","MS",435
+"pail","WV25B","338","nch","Y","OLD","1 1/2 and 4 gallons; wood","peΩ±øÏ","MS",435
+"bucket","WV26A","339","nch","N"," "," ","b∏º∫k∞t","MS",436
+"bucket","WV26B","340","nch","N"," "," ","b∏k∞t","MS",437
+"bucket","WV27A","341","nch","N"," "," ","b∏ºk∞t","MS",438
+"bucket","WV27B","342","nch","N"," "," ","b∏∫k∞t","MS",439
+"bucket","WV28A","343","nch","N"," "," ","b∏ºk∞t","MS",440
+"bucket","WV28B","344","nch","N"," "," ","b∏ºk∞t","MS",441
+"bucket","WV29A","345","nch","N"," "," ","b∏k∞t","MS",442
+"bucket","WV29B","346","nch","N"," "," ","b∏ºk∞´ºt","MS",443
+"bucket","WV30A","347","nch","N"," "," ","b∏ºk∞t","MS",444
+"bucket","WV30B","348","nch","N"," "," ","b∏º∫k∞t","MS",445
+"bucket","WV31A","349","nch","N"," ","with bail","b∏´º∫k∞t","MS",446
+"pail","WV31A","349","nch","Y","OLD","staves, 1 long as handle","pe∫{±ø}{∞}Ï","MS",446
+"bucket","WV31B","350","nch","N"," "," ","b∏´ºkà∞´t","MS",447
+"bucket","WV32A","353","nch","N"," "," ","b∏´º∫k∞t","MS",448
+"bucket","WV32B","354","nch","N"," "," ","b∏ºk∞t","MS",449
+"bucket","WV33A","355","nch","N"," "," ","b∏ºk∞t","MS",450
+"bucket","WV33B","356","nch","N"," "," ","b∏k∞t","MS",451
+"bucket","WV34A","359","nch","N"," "," ","b∏´∫k∞t","MS",452
+"bucket","WV34B","360","nch","N"," "," ","b∏ºk∞t","MS",453
+"bucket","WV35A","361","nch","N"," "," ","b∏ºk∞t","MS",454
+"bucket","WV35B","362","nch","N"," "," ","b∏k∞t","MS",455
+"bucket","WV36A","363","nch","N"," "," ","b∏ºk∞t","MS",456
+"bucket","WV36B","364","nch","N"," "," ","b∏ºk∞t","MS",457
+"bucket","WV37A","365","nch","N"," "," ","b∏´ºk∞t","MS",458
+"bucket","WV37B!","366!","nch","N"," "," ","b∏º∫k∞t","MS",459
+"water bucket","WV38A","367","nch","N"," "," ","wµæÒ¥$b∏ºk∞t","MS",460
+"bucket","WV38B","368","nch","N"," "," ","b∏ºk∞t","MS",461
+"water bucket","WV39A","369","nch","N"," "," ","ÂwµÒ¥$ıb∏´ºk∞t","MS",462
+"bucket","WV39B","370","nch","N"," "," ","b∏k∞t","MS",463
+"bucket","WV39C!","371!","nch","N"," "," ","b∏ºk∞t","MS",464
+"pail","WV39C!","371!","nch","Y","HRD","often heard","p≤´±ø{∞}Ï","MS",464
+"bucket","WV40A","373","nch","N"," "," ","b∏ºk∞t","MS",465
+"pail","WV40B","374","nch","N"," ","modern only","p≤´±ø{∞}Ï","MS",466
+"bucket","WV40B","374","nch","N"," "," ","b∏ºk∞t","MS",466
+"bucket","WV41A","375","nch","N"," "," ","b∏´k∞t","MS",467
+"bucket","WV41B","376","nch","N"," "," ","b∏º∫k∞t","MS",468
+"bucket","WV42A","377","nch","N"," "," ","b∏´º∫k∞t","MS",469
+"bucket","WV42B","378","nch","N"," "," ","b∏ºk∞t","MS",470
+"bucket","WV43A","381","nch","N"," "," ","b∏ºk∞t","MS",471
+"bucket","WV43B","382","nch","N"," "," ","b∏ºk∞t","MS",472
+"bucket","WV44A","383","nch","N"," "," ","b∏ºk∞t","MS",473
+"bucket","WV44B","384","nch","N"," "," ","b∏k∞t","MS",474
+"pail","WV45A","385","nch","N"," "," ","p≤´±ø{∞}Ï","MS",475
+"bucket","WV45A","385","nch","N"," ","as a child","b∏k∞t","MS",475
+"bucket","WV45B","386","nch","N"," "," ","b∏ºk∞t","MS",476
+"bucket","WV46A","387","nch","N"," ","usual","b∏k∞t","MS",477
+"pail","WV46A","387","nch","N"," ","rare","pe±ø{∞}Ï","MS",477
+"pail","WV46B","388","nch","N"," "," ","peΩ±ø{∞}Ï","MS",478
+"bucket of water","WV46B","388","nch","N"," "," ","b∏ºk∞t$∞$w∑∫Ò¥","MS",478
+"bucket","WV47A","389","nch","N"," "," ","b∏ºk∞t","MS",479
+"bucket","WV47B","390","nch","N"," "," ","b∏ºk∞t","MS",480
+"bucket","WV48A","391","nch","N"," "," ","b∏k∞t","MS",481
+"bucket","WV48B","391b","nch","N"," "," ","b∏ºkà∞t","MS",482
+"pail","WV48C","392","nch","N"," "," ","p≤´±øÏ","MS",483
+"bucket","WV48D","392b","nch","N"," "," ","b∏k∞t","MS",484
+"bucket","WV49A","393","nch","N"," "," ","b∏ºk∞t","MS",485
+"water pail","WV49B","394","nch","N"," "," ","wµÒ¥$peΩ±øÏ","MS",486
+"water bucket","WV49B","394","nch","N"," ","more often","wµÒ¥$b∏ºk∞t","MS",486
+"bucket","WV50A","395","nch","N"," "," ","b∏k∞t","MS",487
+"pail","WV50B","396","nch","N"," ","modern","p≤´±øÏ","MS",488
+"bucket","WV50B","396","nch","N"," "," ","b∏k∞t","MS",488
+"take the pail and get a bucket of water","WV50B","396","nch","N"," ","N","te±øk$‰∞$p≤´±øÏ$∞n$g≤tê∞$b∏k∞tê$∞$wﬁÒ¥","MS",488
+"bucket","WV51A","261","nch","N"," ","usual","b∏ºk∞t","MS",489
+"pail","WV51A","261","nch","N"," "," ","p≤´±øÏ","MS",489
+"bucket","WV51B","262","nch","N"," "," ","b∏k∞t","MS",490
+"bucket","WV52A","258","nch","N"," "," ","b∏k∞t","MS",491
+"bucket","WV52B","259","nch","N"," "," ","b∏Ωk∞t","MS",492
+"bucket","WV52C!","260!","nch","N"," "," ","b∏ºk∞t","MS",493
+"bucket","WV53A","257","nch","N"," "," ","b∏ºk∞t","MS",494
+"bucket","WV53B","257b","nch","N"," "," ","b∏Ωk∞t","MS",495
+"bucket","WV53C!","257c!","nch","N"," "," ","b∏k∞t","MS",496
+"bucket","WV54A","255","nch","N"," "," ","b∏´ºk∞t","MS",497
+"bucket","WV54B","256","nch","N"," "," ","b∏k∞t","MS",498
+"bucket","DE1A","11","nch","N"," "," ","b∏k∞t","MS",499
+"bucket","DE1B","12","nch","N"," "," ","b∏Ωæ∫k∞t","MS",500
+"bucket","DE1C!","13!","nch","N"," "," ","b∏k∞t","MS",501
+"bucket","DE2A","15(*)","nch","N"," "," ","b∏k∞´ºt","MS",502
+"bucket","DE2B","16","nch","N"," "," ","b∏k∞´t","MS",503
+" ","DE2C"," "," "," "," "," "," "," ",504
+"bucket","DE3A","18","nch","N"," "," ","b∏ó´ºk±øΩt","MS",505
+"bucket","DE3B","19","nch","N"," "," ","b∏kà±øΩt","MS",506
+"bucket","DE3C!","17!","nch","N"," "," ","b∏æk∞t","MS",507
+"pail","DE3C!","17!","nch","Y","HRD"," ","p≤±ø{∞}Ï","MS",507
+"bucket","DE4","20","nch","N"," "," ","b∏k±øt","MS",508
+"bucket","DE5A","21","nch","N"," "," ","b∏´ækà±øΩt","MS",509
+"bucket","DE5B","22","nch","N"," "," ","b∏k±øΩt","MS",510
+"bucket","DE6A","23","nch","N"," "," ","b∏{k}±øΩt","MS",511
+"bucket","DE6B","24","nch","N"," "," ","b∏k±øt","MS",512
+"bucket","MD1A","27","nch","N"," "," ","b∏´ºk∞t","MS",513
+"bucket","MD1B","28","nch","N"," "," ","b∏k∞t","MS",514
+"water bucket","MD2A","31a","nch","N"," "," ","w∑∫Ò¥$b∏∫k±øt","MS",515
+"bucket","MD2A","31a","nch","N"," "," ","b∏∫k±øt","MS",515
+"bucket","MD2B","32","nch","N"," "," ","b∏kà∞´ºt","MS",516
+"bucket","MD3A","33","nch","N"," "," ","b∏k±øΩt","MS",517
+"bucket","MD3B","34","nch","N"," "," ","b∏k∞t","MS",518
+"water bucket","MD4A","35b","nch","N"," "," ","wµtê¥$b∏k±øΩt","MS",519
+"bucket","MD4A","35b","nch","N"," "," ","b∏k±øΩt","MS",519
+"bucket","MD4B","35","nch","N"," "," ","b∏k±øΩt","MS",520
+"bucket","MD4C","36","nch","N"," "," ","b∏k±øt","MS",521
+"bucket","MD5A","37","nch","N"," "," ","b∏ºk±øΩt","MS",522
+"bucket","MD5B","38","nch","N"," "," ","b∏k±øΩt","MS",523
+"bucket","MD6A","39(*)","nch","N"," "," ","b∏Ωk±øΩt","MS",524
+"bucket","MD6B","40","nch","N"," "," ","b∏k±øΩt","MS",525
+"bucket","MD7A","41","nch","N"," "," ","b∏k±øt","MS",526
+"bucket","MD7B","41b","nch","N"," "," ","b∏k±øΩt","MS",527
+"bucket","MD7C!","42!","nch","N"," "," ","b∏ºk±øΩt","MS",528
+"bail bucket","MD8A","43","nch","N"," "," ","be∫{∞´}Ï$b∏k±øt","MS",529
+"bucket","MD8A","43","nch","N"," "," ","b∏k±øt","MS",529
+"bucket","MD8B","44","nch","N"," "," ","b∏k±øΩt","MS",530
+"bucket","MD9N","N46","nch","N"," "," ","b∏kà±øt","MS",531
+"bucket","MD9A","45","nch","N"," "," ","b∏Ωæk±øΩt","MS",532
+"bucket","MD9B","46","nch","N"," "," ","b∏k±øΩt","MS",533
+"bucket","MD10A","49","nch","N"," "," ","b∏´k∞´t","MS",534
+"bucket","MD10B","50","nch","N"," "," ","b∏´k±øΩt","MS",535
+"bucket","MD11","51","nch","N"," "," ","b∏´ºk∞´t","MS",536
+"bucket","MD12A","52","nch","N"," "," ","b∏k±øΩt","MS",537
+"bucket","MD12B","53","nch","N"," "," ","b∏kà∞´ºt","MS",538
+"bucket","MD13A","54(*)","nch","N"," "," ","b∏k±øt","MS",539
+"bucket","MD13B","55","nch","N"," "," ","b∏k±øΩt","MS",540
+"bucket","MD13C","56","nch","N"," "," ","b∏k∞t","MS",541
+"pail","MD13C","56","nch","N"," "," ","peΩ±øÏ","MS",541
+"bucket","MD13D!","57!","nch","N"," "," ","b∏k±øΩt","MS",542
+"pail","MD13E!","58!","nch","Y","NEW"," ","peΩ∫{∞}Ï","MS",543
+"bucket","MD13E!","58!","nch","N"," "," ","b∏k±øt","MS",543
+"bucket","MD13F!","59!","nch","N"," "," ","b∏k∞´t","MS",544
+" ","MD13G"," "," "," "," "," "," "," ",545
+"bucket","MD14","61(*)","nch","N"," "," ","b∏´k∞t","MS",546
+"bucket","MD15A","62","nch","N"," "," ","b∏´k∞t","MS",547
+"bucket","MD15B","63","nch","N"," "," ","b∏´k∞t","MS",548
+"bucket","MD16","64","nch","N"," "," ","b∏´k∞t","MS",549
+"bucket","MD17A","65","nch","N"," "," ","b∏k∞´t","MS",550
+"bucket","MD17B","66","nch","N"," "," ","b∏´k∞t","MS",551
+"bucket","MD18A","67","nch","N"," "," ","b∏´k±øt","MS",552
+"bucket","MD18B","68","nch","N"," "," ","b∏ºk±øΩt","MS",553
+"bucket","MD19A","69","nch","N"," "," ","b∏k∞t","MS",554
+"bucket","MD19B","70","nch","N"," "," ","b∏k±øΩt","MS",555
+"bucket","MD20A","71","nch","N"," "," ","b∏ækà±øt","MS",556
+"bucket","MD20B","72","nch","N"," "," ","b∏´k±øΩt","MS",557
+"bucket","MD20C!","73!","nch","N"," "," ","b∏´kà±øt","MS",558
+"bucket","MD21A","75","nch","N"," "," ","b∏æk±øΩt","MS",559
+"bucket","MD21B","76","nch","N"," "," ","b∏´kà±øt","MS",560
+"bucket","MD22N","N77","nch","N"," "," ","b∏´k±øt","MS",561
+"bucket","MD22M","N78","nch","N"," "," ","b∏ó´k±øΩt","MS",562
+"water pail","MD22A","77","nch","Y","NEW"," ","w∑´∫{∞}tê∞$pe{±øΩ}Ï","MS",563
+"bucket","MD22A","77","nch","N"," "," ","b∏´∫kà±øΩt","MS",563
+"bucket","MD22B","78","nch","N"," "," ","b∏´k±øΩt","MS",564
+"bucket","MD22C!","79!","nch","N"," "," ","b∏k±øΩt","MS",565
+"bucket","MD23A","80b","nch","N"," "," ","b∏´k±øΩt","MS",566
+"bucket","MD23B","80a","nch","N"," "," ","b∏´k±øΩt","MS",567
+"bucket","MD23C","81","nch","N"," "," ","b∏´k±øΩt","MS",568
+"bucket","MD24","82","nch","N"," "," ","b∏´k±øΩt","MS",569
+"bucket","MD25","84","nch","N"," "," ","b∏´k∞t","MS",570
+"bucket","MD26A","83","nch","N"," "," ","b∏k∞t","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"bucket","MD27A","85","nch","N"," "," ","bè∏k∞t","MS",573
+"bucket","MD27B","86","nch","N"," "," ","b∏k∞t","MS",574
+"bucket","DC1A","99","nch","N"," "," ","b∏æk∞ºt","MS",575
+"bucket","DC1B!","100!","nch","N"," "," ","b∏´k±øΩt","MS",576
+"bucket","VA1!","101!","nch","N"," "," ","b∏´k±øΩt","MS",577
+"pail","VA2A","103","nch","Y","NEW"," ","pe∫{∞´}l","MS",578
+"bucket","VA2A","103","nch","N"," "," ","b∏æk±øΩt","MS",578
+"pail","VA2B","104","nch","Y","AUX"," ","p{h}eΩ±øÏ","MS",579
+"bucket","VA2B","104","nch","Y","AUX"," ","b∏kà±øΩt","MS",579
+"NR","VA3A","105(*)"," ","N"," "," "," ","MS",580
+"bucket","VA3B","106","nch","N"," "," ","b∏kà∞´t","MS",581
+"bucket","VA3C"," ","nch","N"," "," ","b∏k∞t"," ",582
+"bucket","VA4N","N109","nch","N"," "," ","b∏ó´æk±øΩt","MS",583
+"bucket","VA5A","107","nch","N"," "," ","b∏k±øt","MS",584
+"bucket","VA5B","108","nch","N"," "," ","b∏k±øΩt","MS",585
+"bucket","VA6A","113","nch","N"," "," ","b∏ó´k±øt","MS",586
+"bucket","VA6B","114","nch","N"," "," ","b∏ó´k±øΩt","MS",587
+"bucket","VA7A","121","nch","N"," "," ","b∏æk±øΩt","MS",588
+"pail","VA7A","121","nch","Y","OLD/FRC"," ","pe∫{±ø}Ï","MS",588
+"bucket","VA7B","122","nch","N"," "," ","b∏k±øΩt","MS",589
+"pail","VA8A","123","nch","N"," "," ","pe∫{±øΩæ}{∞}Ï","MS",590
+"bucket","VA8A","123","nch","Y","FRC"," ","b∏´∫kà±øt","MS",590
+"bucket","VA8B","124","nch","N"," "," ","b∏kà±øt","MS",591
+"bucket","VA8C!","125!","nch","N"," "," ","b∏ók±øt","MS",592
+"bucket","VA9A","117","nch","N"," "," ","b∏ó´ºÁk±øΩt","MS",593
+"bucket","VA9B!","118!","nch","N"," "," ","b∏óæk±øΩt","MS",594
+"bucket","VA10A","127","nch","N"," "," ","b∏æk±øΩt","MS",595
+"bucket","VA10B","128","nch","N"," "," ","b∏k±øt","MS",596
+"pail","VA11A","129","nch","Y","OLD"," ","p{h}eΩ{±ø}{∞}Ï","MS",597
+"bucket","VA11A","129","nch","N"," "," ","b∏ó´æk±øΩt","MS",597
+"pail","VA11B","130","nch","Y","OLD"," ","pe{±ø}{∞}Ï","MS",598
+"bucket","VA11B","130","nch","N"," "," ","b∏kà±øΩt","MS",598
+"bucket","VA12N","N131","nch","N"," "," ","b∏ó´æk±øΩt","MS",599
+"bucket","VA12A","131","nch","N"," "," ","b∏´æk±øΩt","MS",600
+"bucket","VA12B!","132!","nch","N"," "," ","b∏kà±øt","MS",601
+"bucket","VA13A","133","nch","N"," "," ","b∏k±øΩt","MS",602
+"bucket","VA13B","134","nch","N"," "," ","b∏k±øΩt","MS",603
+"bucket","VA14A","135","nch","N"," "," ","b∏ó´æ∫k±øΩt","MS",604
+"pail","VA14A","135","nch","N"," "," ","pe{±ø}Ï","MS",604
+"bucket","VA14B","136","nch","N"," "," ","b∏´kà±øt","MS",605
+"bucket","VA14C","137","nch","N"," "," ","b∏kà±øt","MS",606
+"bucket","VA15N","N139(*)","nch","N"," "," ","b∏æk±øt","MS",607
+"bucket","VA15A","139","nch","N"," "," ","b∏k±øΩt","MS",608
+"pail","VA15A","139","nch","Y","OLD"," ","pe{±ø}Ï","MS",608
+"piggen","VA15A","139","nch","Y","OLD"," ","p±g±øn","MS",608
+"bucket","VA15B","140","nch","N"," "," ","b∏óæk±øt","MS",609
+"bucket","VA16A","141","nch","N"," "," ","b∏k±øt","MS",610
+"bucket","VA16B","142","nch","N"," "," ","b∏óæk±øΩt","MS",611
+"pail","VA17A","143","nch","N"," "," ","pe{±ø}Ï","MS",612
+"bucket","VA17A","143","nch","N"," "," ","b∏´k±øt","MS",612
+"bucket","VA17B","144","nch","N"," "," ","b∏´æk±øΩt","MS",613
+"bucket","VA18","145","nch","N"," "," ","b∏k±øΩt","MS",614
+"bucket","VA19A","146","nch","N"," "," ","b∏∫kà±øt","MS",615
+"bucket","VA19B","147","nch","N"," "," ","b∏ókà±øt","MS",616
+"bucket","VA19C!","148!","nch","N"," "," ","b∏k±øt","MS",617
+"bucket","VA20A","149","nch","N"," "," ","b∏óækà±øt","MS",618
+"bucket","VA20B","150(*)","nch","N"," "," ","b∏æk±øt","MS",619
+"bucket","VA20C"," ","nch","N"," "," ","b∏ækà±øt"," ",620
+"bucket","VA21N","N153","nch","N"," "," ","b∏´æk±øΩt","MS",621
+"bucket","VA21A","153","nch","N"," "," ","b∏kà±øt","MS",622
+"pail","VA21A","153","nch","Y","OLD"," ","ph≤´±øÏ","MS",622
+"bucket","VA21B","154","nch","N"," "," ","b∏k±øΩt","MS",623
+"bucket","VA22","155","nch","N"," "," ","b∏k±øΩt","MS",624
+"bucket","VA23A","156","nch","N"," "," ","b∏Ωkà±øt","MS",625
+"pail","VA23B","157","nch","N"," "," ","peΩ±øÏ","MS",626
+"bucket","VA23B","157","nch","N"," "," ","b∏æk±øΩt","MS",626
+"bucket","VA24","159","nch","N"," "," ","b∏ó´k±øΩt","MS",627
+"bucket","VA25","160(*)","nch","N"," "," ","b∏kà±øt","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"bucket","VA26B","161","nch","N"," "," ","b∏kà±øt","MS",630
+"bucket","VA26C","162","nch","N"," "," ","b∏æk±øt","MS",631
+"bucket","VA27","163(*)","nch","N"," "," ","b∏kà±øt","MS",632
+"water bucket","VA27","163(*)","nch","N"," "," ","w∑Ω{¥}{Ò}¥$b∏kà±øt","MS",632
+"bucket","VA28A","164","nch","N"," "," ","b∏´æk±øt","MS",633
+"noggen","VA28A","164","nch","N"," "," ","n∂´∫g±øΩn","MS",633
+"bucket","VA28B","165","nch","N"," "," ","b∏ækà±øt","MS",634
+"bucket","VA29","166","nch","N"," "," ","b∏´k±øΩt","MS",635
+"bucket","VA30A","167","nch","N"," "," ","b∏´{∞}k±øt","MS",636
+"bucket","VA30B!","167a!","nch","N"," "," ","b∏k±øΩæt","MS",637
+"pail","VA30B!","167a!","nch","N"," "," ","peΩ{±øΩæ}Ï","MS",637
+"NR","VA30C!","168!"," ","N"," ","???????"," ","MS",638
+"bucket","VA30D!","169!","nch","N"," "," ","b∏æ{∞}k±øΩt","MS",639
+"bucket","VA30E!","170!","nch","N"," "," ","b∏æk±øt","MS",640
+"bucket","VA31A","171(*)(**)","nch","N"," "," ","b∏k±øt","MS",641
+"bucket","VA31B","172","nch","N"," "," ","b∏k±øt","MS",642
+"pail","VA31C"," ","nch","N"," "," ","pe∫{∞´º}Ï"," ",643
+"bucket","VA32!","175!","nch","N"," "," ","b∏æk±øt","MS",644
+"bucket","VA33A","173","nch","N"," "," ","b∏ók±øt","MS",645
+"bucket","VA33B","174","nch","N"," "," ","b∏k±øt","MS",646
+"pail","VA33B","174","nch","Y","OLD"," ","peΩ{±ø}{∞}Ï","MS",646
+"bucket","VA34A","177(*)","nch","Y","AUX"," ","b∏k±øt","MS",647
+"pail","VA34A","177(*)","nch","Y","AUX"," ","pe{±ø}Ï","MS",647
+"pail","VA34B","178","nch","N"," "," ","p{h}eΩ{±ø}{∞}Ï","MS",648
+"bucket","VA34B","178","nch","N"," "," ","b∏ókà±øΩt","MS",648
+"pail","VA35A","179","nch","N"," "," ","pe∫{±øΩ}Ï","MS",649
+"bucket","VA35A","179","nch","N"," "," ","b∏´ækà±øt","MS",649
+"piggen","VA35A","179","nch","N"," "," ","p±´gà±ø´n","MS",649
+"bucket","VA35B","180","nch","N"," "," ","b∏´æk±øt","MS",650
+"bucket","VA36A","181","nch","N"," "," ","b∏´æk±øt","MS",651
+"bucket","VA36B","182","nch","N"," "," ","b∏´æ∫kà±øt","MS",652
+"pail","VA37","183","nch","N"," "," ","peΩ±øÏ","MS",653
+"bucket","VA37","183","nch","N"," "," ","b∏ók±øt","MS",653
+"bucket","VA38","185","nch","N"," "," ","b∏ækà±øt","MS",654
+"bucket","VA39!","186!","nch","N"," "," ","b∏kà±øt","MS",655
+"bucket","VA40A","187","nch","N"," "," ","b∏´k±øt","MS",656
+"bucket","VA40B","188","nch","N"," "," ","b∏æ{∞}k±øt","MS",657
+"bucket","VA41A","191","nch","N"," "," ","b∏kà±øΩt","MS",658
+"noggen","VA41A","191","nch","Y","FRC"," ","n∑∫g±øΩn","MS",658
+"bucket","VA41B","192","nch","N"," "," ","b∏k±øt","MS",659
+"bucket","VA42A","193(*)(**)","nch","N"," "," ","b∏´∫k±øt","MS",660
+"pail","VA42A","193(*)(**)","nch","Y","OLD"," ","pe{±øΩ}Ï","MS",660
+"bucket","VA42B","194","nch","N"," "," ","b∏k±øΩt","MS",661
+"milk pail","VA42B","194","nch","N"," "," ","m±{∞æ}k$pe{±øΩ}Ï","MS",661
+"bucket","VA43N","N195","nch","N"," "," ","b∏´kà±øt","MS",662
+"pail","VA43N","N195","nch","N"," "," ","pe´∫{∞´}l","MS",662
+"bucket","VA43A","195","nch","N"," "," ","b∏æk±øt","MS",663
+"pail","VA43A","195","nch","Y","OLD"," ","pe∫{±ø}Ï","MS",663
+"bucket","VA43B","196","nch","N"," "," ","b∏k±øt","MS",664
+"pail","VA43B","196","nch","Y","OLD"," ","pe´∫{∞}Ï","MS",664
+"bucket","VA44A","199","nch","N"," "," ","b∏kà±øt","MS",665
+"bucket","VA44B","200","nch","N"," "," ","b∏k±øΩt","MS",666
+"bucket","VA45A","201","nch","N"," "," ","b∏k±øΩæt","MS",667
+"bucket","VA45B","202","nch","N"," "," ","b∏k±øt","MS",668
+"bucket","VA46N","N207","nch","N"," "," ","b∏k∞t","MS",669
+"bucket","VA46A","207","nch","N"," "," ","b∏´kà±øΩt","MS",670
+"bucket","VA46B!","208!","nch","N"," "," ","b∏ækà±øΩt","MS",671
+"bucket","VA47","211","nch","N"," "," ","b∏kà±øΩt","MS",672
+"pail","VA47","211","nch","N"," "," ","pe:{±øΩ}Ï","MS",672
+"noggen","VA47","211","nch","N"," "," ","n∑Ω∫{∑óΩ}g±øn","MS",672
+"piggen","VA48A","213(*)","nch","N"," "," ","p±g±øn","MS",673
+"bucket","VA48A","213(*)","nch","N"," "," ","b∏´{∞}k±øΩt","MS",673
+"bucket","VA48B","214","nch","N"," "," ","b∏´kà±øΩt","MS",674
+"bucket","VA49A","215","nch","N"," "," ","b∏´k±øΩt","MS",675
+"bucket","VA49B","216","nch","N"," "," ","b∏ºkà±øt","MS",676
+"pail","VA50A","217","nch","N"," "," ","pe∫{±øΩ}Ï","MS",677
+"bucket","VA50A","217","nch","N"," "," ","b∏kà±øt","MS",677
+"pail","VA50B","218","nch","Y","OLD"," ","pe∫{±øΩ}Ï","MS",678
+"bucket","VA50B","218","nch","N"," "," ","b∏k±øt","MS",678
+"pail","VA51A","219","nch","N"," "," ","pe´∫{∞}Ï","MS",679
+"bucket","VA51A","219","nch","N"," "," ","b∏ó´k±øt","MS",679
+"NR","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"bucket","VA51C"," ","nch","N"," "," ","b∏kà±øt"," ",681
+"bucket","VA52A","224","nch","N"," "," ","b∏k∞t","MS",682
+"bucket","VA52B","225","nch","N"," "," ","b∏k∞´t","MS",683
+"bucket","VA52C!","226!","nch","N"," "," ","b∏kà∞´ºt","MS",684
+"bucket","VA53A","227","nch","N"," "," ","b∏´k∞´t","MS",685
+"bucket","VA53B","228","nch","N"," "," ","b∏´æk∞´t","MS",686
+"bucket","VA54A","229","nch","N"," "," ","b∏´∫kà±øΩt","MS",687
+"bucket","VA54B","230","nch","N"," "," ","b∏ó´k±øt","MS",688
+"bucket","VA55A","233(*)","nch","N"," "," ","b∏k∞t","MS",689
+"bucket","VA55B","234(*)","nch","N"," "," ","b∏k∞´t","MS",690
+"bucket","VA56A","237","nch","N"," "," ","b∏´ºk∞´t","MS",691
+"bucket","VA56B","238","nch","N"," "," ","b∏k∞´t","MS",692
+"bucket","VA57A","239","nch","N"," "," ","b∏k∞´t","MS",693
+"bucket","VA57B","240","nch","N"," "," ","b∏kà∞´ºt","MS",694
+"bucket","VA58","241(*)","nch","N"," "," ","b∏ó´æk±øt","MS",695
+" ","VA59N","N241"," "," "," "," "," ","-0",696
+"bucket","VA59A","242","nch","N"," "," ","b∏´k±øt","MS",697
+"bucket","VA59B!","243!","nch","N"," "," ","b∏kà±øt","MS",698
+"bucket","VA60","244(*)","nch","N"," "," ","b∏k∞t","MS",699
+"pail","VA60","244(*)","nch","Y","OLD"," ","pe∫{±øΩ}Ï","MS",699
+"bucket","VA61A","245(*)","nch","N"," "," ","b∏kà±øt","MS",700
+"bucket","VA61B!","246!","nch","N"," "," ","b∏´ºk∞t","MS",701
+" ","VA61C"," "," "," "," "," "," "," ",702
+"pail","VA62A","247(*)","nch","Y","OLD"," ","peΩ±øÏ","MS",703
+"bucket","VA62A","247(*)","nch","N"," "," ","b∏ó´∫k±øt","MS",703
+"bucket","VA62B","248","nch","N"," "," ","b∏k±øt","MS",704
+"bucket","VA63A","251","nch","N"," "," ","b∏´k∞t","MS",705
+"bucket","VA63B","252","nch","N"," "," ","b∏´æ∫k∞´t","MS",706
+"bucket","VA64A","255","nch","N"," "," ","b∏´ºkà±øt","MS",707
+"bucket","VA64B","256","nch","N"," "," ","b∏{∞}kà±øt","MS",708
+"bucket","VA65A","257","nch","N"," "," ","b∏kà±øΩt","MS",709
+"bucket","VA65B","258","nch","N"," "," ","b∏kà∞´t","MS",710
+"bucket","VA65C!","259!","nch","N"," "," ","b∏kà±øt","MS",711
+"pail","VA65C!","259!","nch","N"," "," ","peΩ±øÏ","MS",711
+"bucket","VA66A","261","nch","N"," "," ","b∏∫kà±øt","MS",712
+"pail","VA66A","261","nch","N"," "," ","peΩ±øÏ","MS",712
+"bucket","VA66B","262","nch","N"," "," ","b∏´∫k±øt","MS",713
+"bucket","VA67A","267","nch","N"," "," ","b∏´º∫k∞t","MS",714
+"pail","VA67A","267","nch","N"," "," ","p≤´±ø´{∞}Ï","MS",714
+"piggen","VA67A","267","nch","N"," "," ","p±∫gà∞´n","MS",714
+"pail","VA67B","268","nch","Y","OLD"," ","p≤{±ø}±ø´{∞}Ï","MS",715
+"bucket","VA67B","268","nch","N"," "," ","b∏´º∫{∞}k∞´t","MS",715
+"bucket","VA68A","269","nch","N"," "," ","b∏´∫k±øΩt","MS",716
+"piggen","VA68B","270","nch","N"," "," ","p±∫g±øΩn","MS",717
+"bucket","VA68B","270","nch","N"," "," ","b∏´∫kà±øt","MS",717
+"bucket","VA69A","273","nch","N"," "," ","b∏º{∞}kà±øt","MS",718
+"bucket","VA69B","274","nch","N"," "," ","b∏´k±øt","MS",719
+"bucket","VA70A","275","nch","N"," "," ","b∏´∫{∞}k∞t","MS",720
+"bucket","VA70B","276","nch","N"," "," ","b∏´º∫{∞}k∞t","MS",721
+"bucket","VA71A","285","nch","N"," "," ","b∏´{∞}kà∞´ºt","MS",722
+"pail","VA71A","285","nch","N"," "," ","p≤´±ø´{∞}Ï","MS",722
+"bucket","VA71B","286","nch","N"," "," ","b∏´∫kà∞´ºt","MS",723
+"bucket","VA72A","287","nch","N"," "," ","b≥∫k∞´t","MS",724
+"pail","VA72A","287","nch","N"," "," ","p≤´±ø∫Ï","MS",724
+"pail","VA72B","288","nch","Y","OLD"," ","p≤´±ø´{∞}Ï","MS",725
+"piggen","VA72B","288","nch","Y","OLD"," ","p±∫gà∞´ºn","MS",725
+"bucket","VA72B","288","nch","N"," "," ","b∏´º∫{∞}k∞t","MS",725
+"bucket","VA73","291","nch","N"," "," ","b∏kà∞´ºt","MS",726
+"bucket","VA74A","293","nch","N"," "," ","b≥k∞t","MS",727
+"pail","VA74A","293","nch","N"," "," ","p≤´±øÏ","MS",727
+"bucket","VA74B!","294!","nch","N"," "," ","b∏kà∞´ºt","MS",728
+"pail","VA75A","297","nch","N"," "," ","peΩ±øÏ","MS",729
+"bucket","VA75A","297","nch","N"," "," ","b≥{∞}k∞´t","MS",729
+"bucket","VA75B","298","nch","N"," "," ","b≥kà∞´ºt","MS",730
+"pail","VA75B","298","nch","N"," "," ","p{h}≤´±ø´{∞}Ï","MS",730
+"piggen","VA75B","298","nch","Y","FRC"," ","p±gà∞´ºn","MS",730
+"bucket","NC1","303","nch","N"," "," ","b∏´∫kà±øt","MS",731
+"pail","NC1","303","nch","Y","FRC"," ","p{h}≤∫±ø´Ï","MS",731
+"bucket","NC2A","301","nch","Y","AUX"," ","b∏∫kà±øt","MS",732
+"bucket","NC2B","304","nch","N"," "," ","b∏æ∫kà±øt","MS",733
+"bucket","NC3A","305","nch","N"," "," ","b∏´kà±øt","MS",734
+"bucket","NC3B","306","nch","N"," "," ","b∏kà±øt","MS",735
+"pail","NC4A","307","nch","N"," "," ","peΩæ±øÏ","MS",736
+"bucket","NC4A","307","nch","N"," "," ","b∏´æk±øt","MS",736
+"piggen","NC4A","307","nch","N"," "," ","p±g±øn","MS",736
+"pail","NC4B","308","nch","N"," "," ","pe±ø´Ï","MS",737
+"bucket","NC4B","308","nch","N"," "," ","b∏æk±øt","MS",737
+"pail","NC5A","309","nch","Y","OLD"," ","peΩæ∫±øæÏ","MS",738
+"bucket","NC5A","309","nch","N"," "," ","b∏´∫k±øt","MS",738
+"bucket","NC5B","310","nch","N"," "," ","b∏´k±øt","MS",739
+"bucket","NC6!","311!","nch","N"," "," ","b∏ó∫kà±øt","MS",740
+"pail","NC7A","315(*)","nch","N"," "," ","pe´{±ø}{∞}Ï","MS",741
+"bucket","NC7A","315(*)","nch","Y","AUX"," ","b∏∫k±øΩt","MS",741
+"bucket","NC7B","316","nch","N"," "," ","b∏´º∫kà±øt","MS",742
+"bucket","NC8N","N317","nch","N"," "," ","b∏´∫k±øt","MS",743
+"bucket","NC8A","317","nch","N"," "," ","b∏´kà±øΩÁt","MS",744
+"pail","NC8A","317","nch","N"," "," ","peΩ±ø{∞}Ï","MS",744
+"bucket","NC8B","318(*)","nch","N"," "," ","b∏∫kà±øt","MS",745
+"bucket","NC9A","319","nch","N"," "," ","b∏ækà±øt","MS",746
+"bucket","NC9B","320","nch","N"," "," ","b∏ºkà±øt","MS",747
+"bucket","NC10A","321","nch","N"," "," ","b∏kà±øt","MS",748
+"pail","NC10B","323","nch","Y","OLD"," ","peΩ±ø{∞}Ï","MS",749
+"bucket","NC10B","323","nch","N"," "," ","b∏º∫kà±øt","MS",749
+"bucket","NC10C","322","nch","N"," "," ","b∏´∫kà±øt","MS",750
+"bucket","NC11A","325","nch","N"," "," ","b∏∫kà±øt","MS",751
+"bucket","NC11B","326","nch","N"," "," ","b∏∫kà±øt","MS",752
+"bucket","NC12A","327(*)","nch","N"," "," ","b∏´∫kà±øt","MS",753
+"pail","NC12A","327(*)","nch","N"," "," ","p≤∫±ø{∞}Ï","MS",753
+"bucket","NC12B","328","nch","N"," "," ","b∏ó´∫k±øt","MS",754
+"pail","NC12B","328","nch","N"," "," ","p≤´±ø´Ï","MS",754
+"bucket","NC13A","329","nch","N"," "," ","b∏ó∫kà±øt","MS",755
+"bucket","NC13B","330(*)","nch","N"," "," ","b∏ó´∫kà±øt","MS",756
+"pail","NC13B","330(*)","nch","Y","AUX"," ","p≤±ø{∞}Ï","MS",756
+"pail","NC14N","N331","nch","N"," "," ","p{h}e∫{±ø}{∞}Ï","MS",757
+"bucket","NC14N","N331","nch","N"," "," ","b∏´ºk±øt","MS",757
+"pail","NC14A","331","nch","Y","FRC"," ","p≤∫±øÏ","MS",758
+"bucket","NC14A","331","nch","N"," "," ","b∏kà±øt","MS",758
+"bucket","NC14B","332","nch","N"," "," ","b∏ækà±øt","MS",759
+"pail","NC14B","332","nch","Y","FRC"," ","p≤æj{∞}Ï","MS",759
+"bucket","NC14C!","333!","nch","N"," "," ","b∏ókà±øt","MS",760
+"bucket","NC15A","335(*)","nch","N"," "," ","b∏ó´∫kà±øt","MS",761
+"bucket","NC15B","336","nch","N"," "," ","b∏´∫kà±øt","MS",762
+"pail","NC15B","336","nch","N"," "," ","p≤´±ø{∞}Ï","MS",762
+" ","NC15C"," "," "," "," "," "," "," ",763
+"bucket","NC16A","339(*)","nch","N"," "," ","b∏´∫kà±øt","MS",764
+"bucket","NC16B","340","nch","N"," "," ","b∏ó´∫kà±øt","MS",765
+"water bucket","NC16B","340","nch","N"," "," ","w∑∫{∞é}Ò∞é$b∏ó´∫kà±øt","MS",765
+"pail","NC17A","337","nch","Y","OLD"," ","p≤±ø{∞}Ï","MS",766
+"bucket","NC17A","337","nch","N"," "," ","b∏´∫kà±øt","MS",766
+"bucket","NC17B","338","nch","N"," "," ","b∏´∫kà±øt","MS",767
+"bucket","NC18A","341","nch","N"," "," ","b∏ó´k±øΩt","MS",768
+"pail","NC18A","341","nch","Y","FRC"," ","peΩ±øÏ","MS",768
+"pail","NC18B","342","nch","N"," "," ","pe{±ø}{∞}Ï","MS",769
+"bucket","NC18B","342","nch","N"," "," ","b∏´∫k±øt","MS",769
+"water bucket","NC19A","343","nch","N"," "," ","w∑∫{Ò}{Ò}¥$b∏´∫kà±øt","MS",770
+"bucket","NC19A","343","nch","N"," "," ","b∏´∫kà±øt","MS",770
+"bucket","NC19B","344","nch","N"," "," ","b∏´∫kà±øt","MS",771
+"bucket","NC20A","345","nch","N"," "," ","b∏kà±øt","MS",772
+"bucket","NC20B","346a","nch","N"," "," ","b∏∫kà±øt","MS",773
+"pail","NC20C","346b","nch","Y","OLD"," ","p≤æ∫±ø´{∞}Ï","MS",774
+"bucket","NC20C","346b","nch","N"," "," ","b∏∫kà±ø´t","MS",774
+"water pail","NC21A","347","nch","N"," "," ","w∑ÒÒ¥$pe{±ø}{∞}Ï","MS",775
+"bucket","NC21A","347","nch","N"," "," ","b∏º∫k±øt","MS",775
+"bucket","NC21B","348","nch","N"," "," ","b∏Ωæ∫kà±øt","MS",776
+"water bucket","NC22A","349","nch","N"," "," ","w∑∫{∞}tê∞$b∏´kà±øt","MS",777
+"pail","NC22A","349","nch","N"," "," ","p{h}e∫{∞}Ï","MS",777
+"bucket","NC22B","349b","nch","N"," "," ","b∏k±øt","MS",778
+"bucket","NC23A","351a","nch","N"," "," ","b∏kà±øt","MS",779
+"bucket","NC23B","351b(*)","nch","N"," "," ","b∏ó∫k±øΩt","MS",780
+"bucket","NC23C!","351c!","nch","N"," "," ","b∏∫k±øt","MS",781
+"bucket","NC23D!","351d!","nch","N"," "," ","b∏´k±øt","MS",782
+"pail","NC24N","N352","nch","N"," "," ","pe´∫{∞}Ï","MS",783
+"bucket","NC24N","N352","nch","N"," "," ","b∏´k±øt","MS",783
+"water pail","NC24A","352a","nch","N"," "," ","w∑Ò¥$pe∫{∞}Ï","MS",784
+"bucket","NC24A","352a","nch","N"," "," ","b∏k±øt","MS",784
+"bucket","NC24B","352b","nch","N"," "," ","b∏∫kà±øt","MS",785
+"bucket","NC25N","N353","nch","N"," "," ","b¶kà±øt","MS",786
+"pail","NC25N","N353","nch","N"," "," ","pe´∫{∞}Ï","MS",786
+"bucket","NC25A","353","nch","N"," "," ","b∏´æ∫k±øΩt","MS",787
+"pail","NC25B","354","nch","Y","OLD"," ","pe{±ø}{∞}l","MS",788
+"milk bucket","NC25B","354","nch","Y","FRC","only in compound ""milk bucket¢","********  b¶Ωkà±øt","MS",788
+"pail","NC26A","355a","nch","Y","OLD"," ","pe∫{±ø}{∞}Ï","MS",789
+"bucket","NC26A","355a","nch","N"," "," ","b∏´æk±øΩt","MS",789
+"bucket","NC26B","355b","nch","N"," "," ","b∏ó´∫k±øΩt","MS",790
+"pail","NC26B","355b","nch","Y","OLD"," ","peΩ±øÏ","MS",790
+"bucket","NC26C!","356!","nch","N"," "," ","b∏ó´æk±øΩt","MS",791
+"bucket","NC27A","357","nch","N"," "," ","b∏´∫k±øt","MS",792
+"bucket","NC27B","258","nch","N"," "," ","b∏ó´ºk±øt","MS",793
+"bucket","NC28A","361","nch","N"," "," ","b∏´∫kà±øΩt","MS",794
+"pail","NC28A","361","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",794
+"pail","NC28B","361b","nch","Y","FRC/OLD"," ","pe{±ø}{∞}Ï","MS",795
+"bucket","NC28B","361b","nch","N"," "," ","b∏´º∫k±øt","MS",795
+"bucket","NC28C","362","nch","N"," "," ","b∏´k±øt","MS",796
+"pail","NC29A","363(*)","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",797
+"piggen","NC29A","363(*)","nch","Y","FRC"," ","p±´gà±øn","MS",797
+"bucket","NC29A","363(*)","nch","N"," "," ","b∏´kà±øt","MS",797
+"bucket","NC29B","364","nch","N"," "," ","b∏´º∫kà±øt","MS",798
+"bucket","NC30A","365","nch","N"," "," ","b≥k±øt","MS",799
+"pail","NC30A","365","nch","Y","FRC"," ","peΩ±øÏ","MS",799
+"bucket","NC30A","365","nch","N"," "," ","b∏´k±øt","MS",799
+"pail","NC30B","366","nch","Y","FRC/OLD"," ","p≤´±øÏ","MS",800
+"bucket","NC30B","366","nch","N"," "," ","b∏´∫kà±ø´t","MS",800
+"bucket","NC31A","367","nch","N"," "," ","b∏´k±øt","MS",801
+"pail","NC31A","367","nch","N"," "," ","pe∫±øΩÏ","MS",801
+"bucket","NC31B","368","nch","N"," "," ","b∏´∫kà±øt","MS",802
+"pail","NC31B","368","nch","Y","FRC/OLD"," ","peΩ±øÏ","MS",802
+"bucket","NC32A","369","nch","N"," "," ","b∏´∫kà±øt","MS",803
+"bucket","NC32A","369","nch","N"," "," ","b¶∫kà±øt","MS",803
+"pail","NC32A","369","nch","Y","FRC"," ","pe{±ø}{∞}Ï","MS",803
+"bucket","NC32B!","370!","nch","N"," "," ","b∏´∫kà±øt","MS",804
+"piggen","NC33A","373","nch","N"," "," ","p±∫gà±øn","MS",805
+"bucket","NC33A","373","nch","N"," "," ","b∏´º∫kà±øt","MS",805
+"bucket","NC33B","374","nch","N"," "," ","b≥∫kà±øt","MS",806
+"pail","NC34A","375","nch","Y","FRC"," ","p≤æ±øÏ","MS",807
+"bucket","NC34A","375","nch","N"," "," ","b∏´∫kà±øt","MS",807
+"bucket","NC34B","376","nch","N"," "," ","b∏ó´∫kà±ø´t","MS",808
+"pail","NC35A","377","nch","Y","FRC"," ","pe´∫{∞}Ï","MS",809
+"bucket","NC35A","377","nch","N"," "," ","b∏´kà±øt","MS",809
+"bucket","NC35B","378","nch","N"," "," ","b≥∫k±øΩt","MS",810
+"bucket","NC36N","N381","nch","N"," "," ","b∏´æk±øt","MS",811
+"pail","NC36N","N381","nch","N"," "," ","p{h}e∫{∞}Ï","MS",811
+"bucket","NC36A","381","nch","N"," "," ","b∏´kà±øΩt","MS",812
+"water bucket","NC36A","381","nch","N"," "," ","wﬁ´ºÒ{∞}r$b∏´kà±øΩt","MS",812
+"bucket","NC36B","382","nch","N"," "," ","b∏´∫k±øΩt","MS",813
+"bucket","NC37A","383","nch","N"," "," ","b∏k±øt","MS",814
+"pail","NC37A","383","nch","Y","FRC/OLD"," ","pe±øÏ","MS",814
+"bucket","NC37B","384","nch","N"," "," ","b∏´kà±øΩt","MS",815
+"pail","NC38N","N385","nch","N"," "," ","pe{±ø}{∞}Ï","MS",816
+"bucket","NC38N","N385","nch","N"," "," ","b∏kà±øΩºt","MS",816
+"bucket","NC38A","385","nch","N"," "," ","b∏´º∫kà±øt","MS",817
+"pail","NC38A","385","nch","Y","FRC"," ","p{h}≤´±ø{∞}Ï","MS",817
+"bucket","NC38B","386","nch","N"," "," ","b∏óæk±øt","MS",818
+"pail","NC38B","386","nch","Y","FRC"," ","p{h}eΩ±ø{∞}Ï","MS",818
+"bucket","NC39A","389","nch","N"," "," ","b∏´k±øt","MS",819
+"bucket","NC39B!","390!","nch","Y","FRC"," ","b∏´kà±øt","MS",820
+"pail","NC40A","391","nch","Y","FRC"," ","pe∫{∞}Ï","MS",821
+"bucket","NC40A","391","nch","N"," "," ","b∏´∫k±øΩæt","MS",821
+"bucket","NC40B","392","nch","N"," "," ","b∏´∫k±øt","MS",822
+"bucket","NC41!","393!","nch","N"," "," ","b∏´∫kà±øt","MS",823
+"pail","NC42A","403","nch","Y","FRC"," ","pe{±ø}{∞}Ï","MS",824
+"bucket","NC42A","403","nch","N"," "," ","b≥ók±øΩt","MS",824
+"bucket","NC42B","404(*)","nch","N"," "," ","b∏´∫kà±øt","MS",825
+"bucket","NC43A","397","nch","N"," "," ","b∏´∫k±øΩt","MS",826
+"pail","NC43B","398","nch","Y","FRC/OLD"," ","peΩ{±ø}{∞}Ï","MS",827
+"bucket","NC43B","398","nch","N"," "," ","b∏´∫k±øΩt","MS",827
+"bucket","NC44","410(*)","nch","N"," "," ","b∏´k±øΩt","MS",828
+"piggen","NC44","410(*)","nch","Y","AUX/FRC"," ","p±g±øn","MS",828
+"bucket","NC45A","409(*)","nch","N"," "," ","b∏∫k±øΩt","MS",829
+"pail","NC45B"," ","nch","Y","FRC/OLD"," ","pe∫{∞´}Ï"," ",830
+"bucket","NC46A","411","nch","N"," "," ","b∏´k±øt","MS",831
+"bucket","NC46B","412","nch","N"," "," ","b∏∫k±øΩt","MS",832
+"bucket","NC46C!","412b!","nch","N"," "," ","b∏óæk±øΩt","MS",833
+"bucket","NC47","413","nch","N"," "," ","b∏´º∫kà±øΩæt","MS",834
+"bucket","NC48","418","nch","N"," "," ","b∏k±øΩt","MS",835
+"water bucket","NC49","421","nch","N"," "," ","wﬁ´ºÒÒ¥$b∏ó´æk∞t","MS",836
+"bucket","NC49","421","nch","N"," "," ","b∏ó´æk∞t","MS",836
+"water bucket","NC50A","422","nch","N"," "," ","wﬁ´ºÒ¥$b∏ó´k±ø›t","MS",837
+"bucket","NC50A","422","nch","N"," "," ","b∏ó´k±ø›t","MS",837
+"bucket","NC50B!","423!","nch","N"," "," ","b∏´kà±øt","MS",838
+"bucket","NC51A","427","nch","N"," "," ","b∏∫kà±øΩt","MS",839
+"bucket","NC51B","428","nch","N"," "," ","b∏∫kà±øt","MS",840
+"bucket","NC52N","N429","nch","N"," "," ","b∏´∫k±øt","MS",841
+"bucket","NC52A","429","nch","N"," "," ","b∏´∫kà±øΩt","MS",842
+"pail","NC52A","429","nch","Y","FRC"," ","p≤´±ø{∞}Ï","MS",842
+"pail","NC52B","430","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",843
+"bucket","NC52B","430","nch","N"," "," ","b∏´∫k±øt","MS",843
+"bucket","NC53A","431","nch","N"," "," ","b∏´k±øΩt","MS",844
+"bucket","NC53B","432","nch","N"," "," ","b∏´º∫kà±øt","MS",845
+"pail","NC54A","433","nch","Y","FRC"," ","pe±øÏ","MS",846
+"bucket","NC54A","433","nch","N"," "," ","b∏´k±øΩt","MS",846
+"bucket","NC54B","434","nch","N"," "," ","b∏´º∫k±øt","MS",847
+"pail","NC54B","434","nch","N"," "," ","p≤æ∫±øÏ","MS",847
+"bucket","NC55","435","nch","N"," "," ","b∏´æk±øΩt","MS",848
+"bucket","NC56A","436","nch","N"," "," ","b∏´k∞´t","MS",849
+"bucket","NC56B!","437!","nch","N"," "," ","b∏k±øΩt","MS",850
+"bucket","NC57A","438a","nch","N"," "," ","b∏´ºk±øt","MS",851
+"bucket","NC57B","438b","nch","N"," "," ","b∏´ºk±øΩt","MS",852
+"bucket","NC58A","439","nch","N"," "," ","b∏ó´æk±øΩt","MS",853
+"bucket","NC58B","440","nch","N"," "," ","b∏´kà±øΩt","MS",854
+"bucket","NC59","441(*)","nch","N"," "," ","b∏ó´∫kà±øt","MS",855
+"bucket","NC60","442","nch","N"," "," ","b∏´kà±øΩt","MS",856
+"pail","NC61A","443","nch","Y","OLD"," ","peΩ{±ø}{∞}Ï","MS",857
+"bucket","NC61A","443","nch","N"," "," ","b∏´ºk±øΩt","MS",857
+"bucket","NC61B","444","nch","N"," "," ","b∏k±øΩt","MS",858
+"bucket","NC62A","447","nch","N"," "," ","b∏k±øΩt","MS",859
+"pail","NC62A","447","nch","N"," "," ","pe∫{±ø}{∞}Ï","MS",859
+"bucket","NC62B","448","nch","N"," "," ","b∏´k±øΩt","MS",860
+"bucket","NC63A","449","nch","N"," "," ","b∏´kà±øt","MS",861
+"bucket","NC63B","450","nch","N"," "," ","b∏´º∫kà±øt","MS",862
+"piggen","NC63B","450","nch","Y","FRC"," ","p±g±øn","MS",862
+"bucket","NC64A","453","nch","N"," "," ","b∏´∫kà±øt","MS",863
+"bucket","NC64B","454","nch","N"," "," ","b∏´∫kà±øΩt","MS",864
+"pail","NC64B","454","nch","N"," "," ","pe∫{∞}Ï","MS",864
+"pail","NC65A","461","nch","N"," "," ","p≤´±ø{∞}Ï","MS",865
+"bucket","NC65A","461","nch","N"," "," ","b∏´∫{∞}kà±øt","MS",865
+"bucket","NC65B","462","nch","N"," "," ","b∏∫kà±øΩt","MS",866
+"pail","NC65B","462","nch","Y","FRC"," ","pe∫{±ø}Ï","MS",866
+"pail","NC66A","465","nch","N"," "," ","pe{±ø}{∞}Ï","MS",867
+"bucket","NC66A","465","nch","N"," "," ","b∏k±øΩæt","MS",867
+"bucket","NC66B","466","nch","N"," "," ","b∏∫k±øt","MS",868
+"pail","NC66B","466","nch","Y","FRC/OLD"," ","pe{±ø}{∞}Ï","MS",868
+"pail","NC67A","469","nch","Y","FRC"," ","peΩe{∞}Ï","MS",869
+"bucket","NC67A","469","nch","N"," "," ","b∏∫k±øΩt","MS",869
+"bucket","NC67B","470","nch","N"," "," ","b∏´∫k±øt","MS",870
+"piggen","NC67B","470","nch","Y","FRC"," ","p±∫g±øn","MS",870
+"pail","NC68A","473","nch","Y","FRC"," ","p≤´{±ø}{∞}Ï","MS",871
+"bucket","NC68A","473","nch","N"," "," ","b∏ó´∫kà±øt","MS",871
+"bucket","NC68B","474","nch","N"," "," ","b∏ó´∫{∞}k±øΩt","MS",872
+"pail","NC68B","474","nch","N"," "," ","p≤{±øΩ}{∞}Ï","MS",872
+"pail","NC69A","477","nch","N"," "," ","peΩ±ø{∞}Ï","MS",873
+"bucket","NC69A","477","nch","N"," "," ","b∏óækà±øt","MS",873
+"bucket","NC69B","478","nch","N"," "," ","b∏´∫{∞}k±øt","MS",874
+"piggen","NC70A","479","nch","Y","FRC"," ","p±g±øn","MS",875
+"bucket","NC70A","479","nch","N"," "," ","b∏ækà±øt","MS",875
+"pail","NC70A","479","nch","N"," "," ","p≤´{±ø}{∞}Ï","MS",875
+"bucket","NC70B","480","nch","N"," "," ","b∏kà±øt","MS",876
+"pail","NC71A","481","nch","Y","OLD"," ","peΩ±ø{∞}Ï","MS",877
+"bucket","NC71A","481","nch","N"," "," ","b∏ó´kà±øt","MS",877
+"bucket","NC71B","482","nch","N"," "," ","b∏ækà±øt","MS",878
+"bucket","NC71C!","483!","nch","N"," "," ","b∏ækà±øt","MS",879
+"bucket","NC72A","487","nch","N"," "," ","b∏óækà±øt","MS",880
+"bucket","NC72B","488","nch","N"," "," ","b∏ækà±øt","MS",881
+"bucket","NC73A","491","nch","N"," "," ","b∏ó´ækà±øΩt","MS",882
+"pail","NC73A","491","nch","N"," "," ","pe±øΩ{∞}Ï","MS",882
+"piggen","NC73A","491","nch","Y","FRC"," ","p{h}±´∫g±øn","MS",882
+"pail","NC73B","492","nch","N"," "," ","pe∫{±ø}Ï","MS",883
+"bucket","NC73B","492","nch","N"," "," ","b∏´ºkà±øΩt","MS",883
+"bucket","NC74A","493","nch","N"," "," ","b∏ækà±øt","MS",884
+"pail","NC74A","493","nch","Y","OLD"," ","pe{±ø}{∞}Ï","MS",884
+"bucket","NC74B","494","nch","N"," "," ","b∏ó´ækà±øt","MS",885
+"pail","NC74B","494","nch","N"," "," ","peΩ{±ø}{∞}Ï","MS",885
+"bucket","NC75A","495","nch","N"," "," ","b∏´kà±øt","MS",886
+"pail","NC75A","495","nch","N"," "," ","pe{±ø}{∞}Ï","MS",886
+"bucket","NC75B","496","nch","N"," "," ","b∏ó´æ{∞}kà±ø´t","MS",887
+"pail","SC1A","203.1","nch","N"," ","stave up from handle","p{h}eΩ{±øΩ}{∞}Ï","MS",888
+"bucket","SC1A","203.1","nch","N"," "," ","b∏´º∫k±øt","MS",888
+"bucket","SC1B","203.2","nch","N"," "," ","b∏ó´k±øt","MS",889
+"bucket","SC2A","204.1(*)","nch","N"," "," ","b∏´ºkà±øt","MS",890
+"bucket","SC2B","204.2","nch","N"," "," ","b∏´æ∫k±øt","MS",891
+"bucket","SC2C"," ","nch","N"," "," ","b∏´∫k±øt"," ",892
+"bucket","SC3A","205.1","nch","N"," "," ","b¶∫k±øΩt","MS",893
+"piggens","SC3B","205.2","nci","N","CNV"," ","p`i∫gà±øºnz","MS",894
+"water buckets","SC3B","205.2","nci","N"," ","well water","Âw∑Ω∫{∞}tê∞$ıb∏ó´º{∞}k{x}±øºts","MS",894
+"well sweep","SC3B","205.2","nch","N"," "," ","Âw≤´{∞}l$ıswèi∫{j}p","MS",894
+"milk piggens","SC3B","205.2","nci","N"," "," ","m±ølk$ıp`±´{∞}gà±øºnz{zè}","MS",894
+"tin buckets","SC3B","205.2","nci","N"," ","well water","Ât±´{∞}n$ıb∏ó´º{∞}k{x}±øºts","MS",894
+"bucket","SC3B","205.2","nci","N","CNV"," ","b¶Ω{∞}kà{xà}±øºt","MS",894
+"bucket","SC3C!","205.3!","nch","N"," ","well, sweep","Âb¶Ω{∞}k±øºt","MS",895
+"oak buckets","SC3C!","205.3!","nci","N"," ","well, sweep","oº∫{πº}k$ıb¶Ω{∞}k{x}±øts","MS",895
+"piggen","SC3C!","205.3!","nch","N"," ","milked in; one stave larger","p`±´{∞}gà±øºn","MS",895
+"pail","SC3C!","205.3!","nch","N"," ","shorter, flared, open","p`e∫{±ø}Ï","MS",895
+"cedar buckets","SC3C!","205.3!","nci","N"," ","well, sweep","si:{j}d∞$ıb¶Ω{∞}k{x}±øts","MS",895
+"well bucket","SC4A","206.1","nch","N"," "," ","Âw≤´{∞}l$ıb∏´{∞}k±øºt","MS",896
+"milk pail","SC4A","206.1","nch","N"," "," ","Âm±ølk$ıp`e∫{∞}l","MS",896
+"milk bucket","SC4A","206.1","nch","N"," "," ","Âm±ølk$ıb∏´{∞}k±øº't","MS",896
+"buckets","SC4A","206.1","nci","N"," "," ","b∏´{∞}k±øºts","MS",896
+"bucket","SC4A","206.1","nch","N"," "," ","b∏´{∞}k±øºt","MS",896
+"milk piggens","SC4A","206.1","nci","Y","AUX"," ","Âm±ølk$ıp`±´{±øº}gà±ænz","MS",896
+"bucket","SC4B","206.2","nch","N","CNV"," ","b∏{∞}k±øºt","MS",897
+"milk piggen","SC4B","206.2","nch","N"," "," ","Âm±ølk$ıp`±´{±ø}g±æn","MS",897
+"piggen","SC4B","206.2","nch","N"," "," ","p`±´{±ø}gà±´n","MS",897
+"milk bucket","SC4C","206.3","nch","N"," "," ","m±ø´lk$ıb∏´k±øºt","MS",898
+"bucket","SC4C","206.3","nch","N","CNV"," ","b∏´k±øºt","MS",898
+"piggen","SC4C","206.3","nch","N","CNV","one long stave","p`±´g±øn","MS",898
+"wooden buckets","SC5A","207.1","nci","N"," "," ","wπºdn$ıb¶Ωk{x}±øΩts","MS",899
+"sweep pole","SC5A","207.1","nch","N"," "," ","Âswi∫{±ø}p$ıpo∫{∞}l","MS",899
+"bucket","SC5A","207.1","nch","N"," "," ","b¶Ωk{x}±øΩt","MS",899
+"piggens","SC5A","207.1","nci","N"," ","one stave as a handle, out of cedar","p±Ωgà±øºnz","MS",899
+"piggens","SC5A","207.1","nci","N","SIC","one stave as a handle, out of cedar","p≤´gà±øºnz","MS",899
+"milk pail","SC5B","207.2","nch","N"," "," ","m±ø´ºlk$ıp`e∫{∞}l","MS",900
+"wooden bucket","SC5B","207.2","nch","N","SIC"," ","Âwuø∫dn$ıb∏´{∞}k±øºt","MS",900
+"buckets","SC5C","207.2A","nci","N"," "," ","b∏ºk±øºts","MS",901
+"bucket","SC5C","207.2A","nch","N"," "," ","b∏´kê±øºt","MS",901
+"bucket","SC5D!","207.3!","nch","N"," "," ","b•´k±øºt","MS",902
+"tin buckets","SC5D!","207.3!","nci","N"," "," ","Ât`±´{±ø}n$ıb∏Ω{∞}k±øºts","MS",902
+"milk buckets","SC5D!","207.3!","nci","N"," ","open at top; wood; one stave longer","m±øÏk$b•´k±øºts","MS",902
+"buckets","SC5D!","207.3!","nci","N"," "," ","ıb•´k±øºts","MS",902
+"midgin bucket","SC5D!","207.3!","nch","Y","OLD","wood; for milking","Âm±´d˙±æn$ıb∏ó{∞}k±øºts","MS",902
+"well buckets","SC5D!","207.3!","nci","N"," "," ","Âw≤∫l$ıb•´k±øºts","MS",902
+"pail","SC5D!","207.3!","nci","N"," "," "," ","MS",902
+"pumps","SC5D!","207.3!","nci","N"," "," "," ","MS",902
+"wooden paddles","SC5D!","207.3!","nci","N"," "," "," ","MS",902
+"gourd dippers","SC5D!","207.3!","nci","N"," "," "," ","MS",902
+"pail","SC6N","N208","nch","N"," ","one long stave = handle","p`e´∫∞l","MS",903
+"spout strainer","SC6N","N208","nch","N"," "," ","sp∏ºπt$ıstéÚèe∫{∞}n∞","MS",903
+"bucket","SC6N","N208","nch","N"," ","well","b∏´æ{∞}kê±øºt","MS",903
+"milk bucket","SC6N","N208","nch","N"," ","cream","Âm±æ´ælçk$ıb∏óº{∞}kê±øºt","MS",903
+"milk bucket","SC6N","N208","nch","N"," ","cream","Âmj±ølk$ıb∏óº{∞}kê±øºt","MS",903
+"bucket","SC6A","208.1","nch","N"," "," ","b∏´∫kà±øt","MS",904
+"piggen","SC6A","208.1","nch","Y","OLD"," ","Âp±gà±ø´ºn","MS",904
+"water buckets","SC6B","208.2(*)","nci","N"," "," ","Âw∑∫∞tê∞$ıb∏ók{x}±øºts","MS",905
+"tin bucket","SC6B","208.2(*)","nch","N","CNV"," ","Ât±´n$ıb∏óΩk{x}±øºt","MS",905
+"water bucket","SC6B","208.2(*)","nch","N","CNV"," ","Âw∑ΩÒ∞$ıb∏Ωk{x}±øºt","MS",905
+"wooden bucket","SC6B","208.2(*)","nch","N"," "," ","Âwπºdn$ıb∏ók{x}±øºt","MS",905
+"dinner buckets","SC6C!","208.3!","nci","N","CNV"," ","Âd±n∞$ıb∏Ωk{x}±øºts","MS",906
+"metal buckets","SC6C!","208.3!","nci","Y","AUX","had come in","Âm≤´têl$ıbπîΩk{x}±øΩts","MS",906
+"wooden buckets","SC6C!","208.3!","nci","N"," "," ","wπºdn$ıbπΩk{x}±øºts","MS",906
+"piggen","SC6C!","208.3!","nch","Y","AUX","one stave came up for handle","p±´gà±øºn","MS",906
+"bucket","SC6C!","208.3!","nch","Y","AUX","cypress knee ??????","b¶óΩk{x}±øºt","MS",906
+"buckets","SC6C!","208.3!","nci","N"," "," ","bπóΩk{x}±øºts","MS",906
+"bucket","SC6C!","208.3!","nch","Y","AUX"," ","boæk{x}±øºt","MS",906
+"well pole","SC6D","208.2(*)","nch","Y","FDT","[{πº}]: doubtful","Âw≤´{∞}Ï$ıp`oº∫{πº}Ï","MS",907
+"milk bucket","SC6D","208.2(*)","nch","N","CNV"," ","mj±ø{Ï}k$ıb∏º{∞}k±øºt","MS",907
+"piggens","SC6D","208.2(*)","nci","N"," "," ","p±´g±øºnz","MS",907
+"pail","SC6D","208.2(*)","nch","N","CNV","tin","pe´∫{∞}l","MS",907
+"milk pail","SC6D","208.2(*)","nch","N","CNV"," ","Âmj±ø{©}k$ıp`e∫{∞}Ï","MS",907
+"water bucket","SC6D","208.2(*)","nch","N"," "," ","Âw∑º∫{∞}Ò∞$ıb∏ºk±ø›t","MS",907
+"milk piggens","SC6D","208.2(*)","nci","N"," "," ","Âm±ølk$ıp±´g±øºnz","MS",907
+"bucket","SC6D","208.2(*)","nch","N"," "," ","Âb∏ºk±øèt","MS",907
+"sweep","SC6D","208.2(*)","nch","N"," "," ","swèi∫{±ø}p","MS",907
+"tin bucket","SC6D","208.2(*)","nch","N"," "," ","t±´n$ıb∏ók{x}±øºt","MS",907
+"piggen","SC7N","N209","nch","N"," "," ","p`±´{∞}gà±øºn","MS",908
+"bucket","SC7N","N209","nch","N"," "," ","b∏ækê±øΩt","MS",908
+"tin bucket","SC7N","N209","nch","N"," "," ","Ât`±´{∞}n$ıb∏óæk±øºt","MS",908
+"bucket","SC7A","209.1","nch","N"," ","""I call it¢; out the well; used sweep","b∏ó´k±øt","MS",909
+"pail","SC7A","209.1","nch","Y","HRD"," ","p`e´∫{∞}l","MS",909
+"bucket","SC7A","209.1","nch","N"," ","""I call it¢; out the well; used sweep","b∏´{∞}k±øºt","MS",909
+"piggen","SC7B","209.2","nch","N"," ","one stave longer","p±´{∞}g±øºn","MS",910
+"bucket","SC7B","209.2","nch","N"," ","[-kê-] - flap","b∏º{∞}kê±øºt","MS",910
+"bucket","SC7C!","209.3!","nch","N"," ","one bucket and wheel, or two buckets","b∏´kê±øºt","MS",911
+"milk bucket","SC7C!","209.3!","nch","N"," "," ","Âm±ølk$ıb∏´kê±øºt","MS",911
+"piggen","SC7C!","209.3!","nch","N"," ","for milking; one stave longer","p`±´{∞}g±øºn","MS",911
+"pail","SC7D!","209.4!","nch","N"," "," ","p`e∫{∞}l","MS",912
+"wooden bucket","SC7D!","209.4!","nch","N"," "," ","Âwπºdn$ıb∏´º{∞}k±øºt","MS",912
+"bucket","SC7D!","209.4!","nch","N"," "," ","Âb∏´kê±øºt","MS",912
+"piggens","SC8A","210.1","nci","N"," ","cedar, white oak; to milk in","p±´{∞}gà±øºnz","MS",913
+"bucket","SC8A","210.1","nch","N"," ","cedar sweep","Âb∏´k±øºt","MS",913
+"pigeon","SC8B","210.2","nch","N"," "," ","p±´{∞}d˙nñ","MS",914
+"piggen","SC8B","210.2","nch","N"," "," ","p±´{∞}g±øºn","MS",914
+"wooden buckets","SC8B","210.2","nci","N"," "," ","Âwπø´ædn$ıb∏Ωæ{∞}k{x}±øºts","MS",914
+"bucket","SC8B","210.2","nch","N"," "," ","b∏´º{∞}k{x}±øºt","MS",914
+"tin bucket","SC8B","210.2","nch","N"," "," ","Ât`±´{∞}n$ıb∏´º{∞}k{x}±øºt","MS",914
+"milk bucket","SC8C","210.3","nch","N"," "," ","Âm±ølk$ıb∏{∞}k{x}±øºt","MS",915
+"pigeon","SC8C","210.3","nch","N"," ","one stave longer; wood ??????","p`±´{∞}d˙nñ","MS",915
+"wooden buckets","SC8C","210.3","nci","N"," ","often homemade","Âwπø´æ{∞}dn$ıb∏Ω{∞}kàxà±øºts","MS",915
+"strainer bucket","SC8C","210.3","nch","N"," "," ","stéÚe∫{∞}n∞$b∏´{∞}kà{xà}±øºt","MS",915
+"tin bucket","SC8C","210.3","nch","N"," "," ","t±´{∞}n$ıb∏{∞}k{x}±øºt","MS",915
+"oak bucket","SC9A","211.1","nch","N"," "," ","Âo∫{∞}k$ıb∏´{∞}x±øºt","MS",916
+"piggen","SC9A","211.1","nch","N"," ","one handle; one long stave","p`±´{∞}gà±øºn","MS",916
+"well bucket","SC9B","211.2","nch","N"," "," ","Âw≤´{∞}l$ıb∏´º{∞}k±øºt","MS",917
+"water bucket","SC9B","211.2","nch","N"," "," ","Âw∑∫∞ét∞$ıb∏´º{∞}k{x}±øºt","MS",917
+"water piggen","SC9B","211.2","nch","N"," ","out of cedar","Âw∑∫{∞}tê∞´º$ıp±´{∞}gà±øºn","MS",917
+"buckets","SC9B","211.2","nci","N"," "," ","b∏´º{∞}k{x}±øºts","MS",917
+"bucket","SC9C!","211.3!","nch","N"," "," ","b∏´º{∞}k{x}±øºt","MS",918
+"tin buckets","SC9D!","211.4!","nci","N"," "," ","Ât±´{∞}n$ıb∏´º{∞}k{x}±øºts","MS",919
+"piggen","SC9D!","211.4!","nch","N"," "," ","p`±´{∞}gà±øºn","MS",919
+"wooden buckets","SC9D!","211.4!","nci","N"," "," ","ıwπø´æ{∞}dn$Âb∏´º{∞}x±øºts","MS",919
+"bucket","SC10A","212.1","nch","N"," "," ","b∏Ωk{x}±øºt","MS",920
+"bucket of water","SC10A","212.1","nch","N"," "," ","Âb∏ºk{x}±øºt$∞$ıw∑º{∞}tê∞´æ","MS",920
+"milk strainer lip","SC10A","212.1","nch","N"," "," ","Âm±ølk$stéÚèe´∫{∞}n∞$ıl±æp","MS",920
+"water pail","SC10A","212.1","nch","N"," ","some people says","Âw∑º∫{∞}t∞Ω$ıp`e´∫l","MS",920
+"milk bucket","SC10A","212.1","nch","N"," "," ","Âm±ølk$ıb∏ºk{x}±øºt","MS",920
+"piggins","SC10B!","212.2!","nci","N"," ","one stave higher","Âp±´gà±øºnz","MS",921
+"gourd","SC10B!","212.2!","nch","N"," "," ","Âgo∫∞›d","MS",921
+"bucket","SC10B!","212.2!","nch","N"," "," ","Âb∏óΩk{x}±øt","MS",921
+"wooden buckets","SC10B!","212.2!","nci","N"," "," ","{wè}wπdn$ıb•k{x}±øΩts","MS",921
+"well sweep","SC10B!","212.2!","nch","N"," ","rare","Âw≤´l$ıswèi∫p","MS",921
+"bucket","SC10C!","212.3!","nch","N"," "," ","Âb•´æk{x}±øºt","MS",922
+"milk bucket","SC10C!","212.3!","nch","N"," ","tin; spout; strainer","Âm±ølk$ıb•æk{x}±ø›t","MS",922
+"bucket","SC10C!","212.3!","nch","N"," "," ","Âb•∫k{x}±øºt","MS",922
+"bucket","SC11N","N213","nch","N"," "," ","b∏ækà±øt","MS",923
+"piggen","SC11N","N213","nch","N"," ","one stave up","Âp±´gà±øºn","MS",923
+"tin piggen","SC11N","N213","nch","N"," "," ","t{h}±Ωæ{∞}n$Âp±´gà±øºn","MS",923
+"pail","SC11N","N213","nch","N"," "," ","p{h}e´∫{∞}l","MS",923
+"bucket","SC11M!","2n213!","nch","N"," ","agate","b∏óΩºk{x}±øºt","MS",924
+"bucket","SC11M!","2n213!","nch","N"," ","agate","b∏k{x}±øºt","MS",924
+"water bucket","SC11M!","2n213!","nch","N"," ","zinc","Âw∑º{∞}tê∞$ıb∏ºk±øºt","MS",924
+"tin buckets","SC11M!","2n213!","nci","N"," ","for milk, before bottles","Ât`±´n$ıb∏ók±øºts","MS",924
+"pail","SC11M!","2n213!","nch","N"," "," ","p`e´∫{∞}l","MS",924
+"milk pail","SC11M!","2n213!","nch","N"," "," ","Âm{j}±øºlçk$ıp`e∫{∞}l","MS",924
+"pail","SC11A","213.1(*)","nch","N"," "," ","p`e´∫{∞}l","MS",925
+"pail","SC11A","213.1(*)","nch","Y","AUX/HRD"," ","pe∫{∞}l","MS",925
+"bucket","SC11A","213.1(*)","nch","N"," ","at well","Âb∏Ωkê±øºt","MS",925
+"bucket","SC11A","213.1(*)","nch","Y","AUX","proper","Âb∏Ωcá±ø´t","MS",925
+"lunch basket","SC11A","213.1(*)","nch","Y","INA"," ","Âl∏´ntÛ$ıb·Ωsk±øºt","MS",925
+"bucket","SC11A","213.1(*)","nch","N"," ","at well","Âb∏Ωk±øºt","MS",925
+"dinner pail","SC11A","213.1(*)","nch","Y","AUX"," ","d±Ωæn∞$pe´∫{∞}l","MS",925
+"bucket","SC11B","213.11","nch","N"," ","tin","b•Ωk±øt","MS",926
+"bucket","SC11B","213.11","nch","N"," ","wooden","b•k±øt","MS",926
+"water pail","SC11C","213.2","nch","N"," "," ","Âw∑º∫{∞}tê∞$ıp`e´∫{∞}l","MS",927
+"bucket","SC11C","213.2","nch","N"," ","wood; galvanized; agate","Âb•´kê±øºt","MS",927
+"water bucket","SC11C","213.2","nch","N"," "," ","Âw∑º∫{∞}tê∞$ıb∏Ωºkê±ø´ºt","MS",927
+"pail","SC11C","213.2","nch","N"," ","""never notice any difference [between b. and p.]¢","p`e´∫l","MS",927
+"milk pail","SC11C","213.2","nch","N"," "," ","Âm±øºlk$ıp`e´∫{∞}l","MS",927
+"bucket","SC11D","213.3","nch","N"," ","at well","Âb∏´k{x}±øºt","MS",928
+"milk pail","SC11D","213.3","nch","N"," "," ","Âm±øºlk$ıp`e´∫{∞}l","MS",928
+"bucket","SC11D","213.3","nch","N"," ","at well","b¶Ωk{x}±øºt","MS",928
+"pail","SC11E","213.4","nch","N"," ","tin; sweep","p`e´∫lç","MS",929
+"bucket","SC11E","213.4","nch","N","CNV","wooden","b•´k±ø›t","MS",929
+"piggen","SC11E","213.4","nch","N"," "," ","Âp`±æg±ºn","MS",929
+"bucket","SC11E","213.4","nch","N"," ","wooden","b∏´ºkê±øºt","MS",929
+"bucket","SC11F","213.5","nch","N"," ","galvanized","b∏ºk{x}±øºt","MS",930
+"wooden bucket","SC11F","213.5","nch","N"," "," ","Âwπºdn$ıb∏ºk{x}±øºt","MS",930
+"buckets","SC11F","213.5","nci","N","CNV"," ","b•Ωk±øºts","MS",930
+"pail","SC11F","213.5","nch","N"," ","agate","p`e´∫l","MS",930
+"tin pail","SC11F","213.5","nch","N"," "," ","Ât`±øºn$ıp`e´∫l","MS",930
+"milk pail","SC11F","213.5","nch","N"," "," ","m±ølk$ıp`e´∫l","MS",930
+"bucket","SC11F","213.5","nch","N"," ","galvanized","b∏Ωºk{x}±øºt","MS",930
+"wooden bucket","SC11F","213.5","nch","N"," "," ","Âwπºdn$ıb∏Ωºk{x}±øºt","MS",930
+"buckets","SC11F","213.5","nci","N"," ","used to have cisterns","b•k±ø›ºts","MS",930
+"bucket","SC11G!","213.7!","nch","N"," ","metal or wood","Âb∏Ωk{x}±øt","MS",931
+"pail","SC11G!","213.7!","nch","N"," ","light metal","p`e∫l","MS",931
+"pail","SC11H!","213.8!","nch","N"," ","generally smaller than bucket","p`e´∫l","MS",932
+"milk pail","SC11H!","213.8!","nch","N"," "," ","Âm±ølk$ıp`e´∫l","MS",932
+"piggen","SC11H!","213.8!","nch","N"," ","""used to call it¢","p`±´æg±øºn","MS",932
+"pail","SC11H!","213.8!","nch","N"," ","generally smaller than bucket","p`e´∫{∞}l","MS",932
+"bucket","SC11H!","213.8!","nch","N"," "," ","Âb∏´ºkê±øºt","MS",932
+"bucket","SC11H!","213.8!","nch","N"," "," ","Âb∏óºkê±øºt","MS",932
+"milk pail","SC11H!","213.8!","nch","N"," "," ","Âm±ølk$ıp`e´∫{∞}l","MS",932
+"tin bucket","SC11I!","213.9!","nch","N"," "," ","ıt±{∞}n$Âb∏Ωkà±øt","MS",933
+"bucket","SC11I!","213.9!","nch","N"," "," ","b∏Ωkà±øt","MS",933
+"pail of milk","SC11J!","213.10!","nch","N"," "," ","Âp`e´∫{∞}lç$∞Ωv$ım±øºlçk","MS",934
+"milk pail","SC11J!","213.10!","nch","N"," "," ","Âm±øºlk$ıp`e´∫{∞}l","MS",934
+"bucket","SC11J!","213.10!","nch","N"," ","[-kê-] flap","b¶kê±øºt","MS",934
+"water bucket","SC11J!","213.10!","nch","N"," ","[-kê-] flap","Âw∑º∫Ò∞$ıb¶Ωkê±ø´ºt","MS",934
+"buckets full","SC11J!","213.10!","nci","N"," ","[-kê-] flap","Âb¶Ωkê±øΩºtsıfπ´ºl","MS",934
+"pail","SC11J!","213.10!","nch","N"," "," ","p`e´∫{∞}l","MS",934
+"water pail","SC11J!","213.10!","nch","N"," "," ","w∑º∫{∞}tê∞$ıp`e´∫{∞}l","MS",934
+"bucket","SC12A","214.1","nch","N"," ","covered it up","Âb∏ó{∞}k{x}±øºt","MS",935
+"piggens","SC12A","214.1","nci","N"," ","cedar or cypress; 1 stave higher; used as a handle","Âp`±´{∞}gà±øºnz","MS",935
+"cypress knee buckets","SC12A","214.1","nci","N"," "," ","Âsµ´∫{±ø}pÚ±øs$ıni∫$Âb∏ó´{∞}k{x}∞›´ts","MS",935
+"bucket","SC12B","214.2","nch","N"," "," ","b∏´kà±øt","MS",936
+"piggen","SC12B","214.2","nch","N"," ","stave handle","Âp±gà±øn","MS",936
+"pail","SC12B","214.2","nch","Y","SUG/OLD","not used now","pe´:{∞}l","MS",936
+"wooden bucket","SC13","213.6","nch","N"," ","bought","wπºdn$Âb∏´ºk{x}±øºt","MS",937
+"tin bucket","SC13","213.6","nch","N"," "," ","t±º{∞}n$Âb∏´ºk{x}±øºt","MS",937
+"bucket","SC13","213.6","nch","N"," "," ","Âb∏´ºk{x}±øºt","MS",937
+"pail","SC14A","215.1","nch","N"," ","stave at side for handle","pe´∫{∞}l","MS",938
+"tin bucket","SC14A","215.1","nch","N"," "," ","t±{∞}n$Âb∏Ωkà±øt","MS",938
+"bucket","SC14A","215.1","nch","N"," ","looped wire handle","b∏Ωkà±øt","MS",938
+"bucket","SC14B","215.2","nch","N"," "," ","b∏´{∞}k{x}±øºt","MS",939
+"milk pail","SC14B","215.2","nch","Y","HRD","""not common around here¢","Âm±ølk$ıp`e∫{∞}l","MS",939
+"well bucket","SC14B","215.2","nch","N"," "," ","w≤´{∞}l$ıb∏ó´{∞}k{x}±øºt","MS",939
+"cedar bucket","SC14B","215.2","nch","N"," ","for drinking water","Âsi∫d∞$ıb∏ó´{∞}k{x}±øºt","MS",939
+"milk bucket","SC14B","215.2","nch","N"," "," ","Âm±ølk$ıb∏´{∞}x±øºt","MS",939
+"piggen","SC15A","216.1","nch","N"," ","bucket with one handle","p`iΩ{∞}gà±øºn","MS",940
+"water buckets","SC15A","216.1","nci","N"," ","well sweep; hand pole","w∑´º∫t∞$ıb∏´º{∞}k±øts","MS",940
+"cedar bucket","SC15A","216.1","nch","N"," "," ","Âsi∫d∞$ıb∏´º{∞}k{x}±øºt","MS",940
+"wooden water pail","SC15A","216.1","nch","N"," ","old name","ıwπø´ædn$Âw∑´º{∞}tê∞$ıpe∫{∞}l","MS",940
+"pail","SC15A","216.1","nch","N"," "," ","pe∫{∞}l","MS",940
+"wooden bucket","SC15B","216.2","nch","N"," "," ","Âwπ´æ{∞}dn$ıb∏´º{∞}k±øºt","MS",941
+"tin milk bucket","SC15B","216.2","nch","N"," "," ","ıt`±´{∞}n$Âm±´æ{∞}lk$ıb∏ó´º{∞}k{x}±øºt","MS",941
+"gourds","SC15B","216.2","nci","N","CNV"," ","go∫{∞}dz","MS",941
+"bucket","SC15B","216.2","nch","N"," "," ","b∏ó´ºk±øºt","MS",941
+"buckets","SC15B","216.2","nci","N"," "," ","b∏ó´º{∞}k{x}±øºts","MS",941
+"wood buckets","SC15C","216.3","nci","N"," ","oak; well sweep on hand pole","Âwπø´æ{∞}d$ıb∏ó´º{∞}k{x}±øºts","MS",942
+"galvanized buckets","SC15C","216.3","nci","N"," "," ","Âgà·lv∞´ınµ∫±øzd$Âb∏ó´º{∞}k{x}±øºts","MS",942
+"tin buckets","SC15C","216.3","nci","N"," ","for milking","Ât`±´{∞}n$ıb∏ó´º{∞}k{x}±øºts","MS",942
+"big gourd","SC15C","216.3","nch","N"," ","2-3 gallons","b±´{∞}g$ıgπóΩ∫∞d","MS",942
+"bucket","SC15C","216.3","nch","N"," "," ","b∏´º{∞}k{x}±øºt","MS",942
+"milk bucket","SC16N","N217","nch","N"," ","tin","Âmj±ø©k$ıb∏´{∞}k{x}±øt","MS",943
+"buckets","SC16N","N217","nci","N"," ","wood; pulley","b∏ó∫kx±øºts","MS",943
+"piggen","SC16N","N217","nch","N"," ","one stave longer, shaped into handle","p`±´gà±øºn","MS",943
+"piggen","SC16N","N217","nch","N"," ","one stave longer, shaped into handle","Âpigà±øºn","MS",943
+"metal pail","SC16","217.1","nch","N"," "," ","Âm≤´têÏ$ıp`e´∫{∞}l","MS",944
+"big pail","SC16","217.1","nch","N"," "," ","Âb±´{∞}g$ıp`e´∫{∞}l","MS",944
+"bucket","SC16","217.1","nch","N"," "," ","b¶óΩk{x}±øºt","MS",944
+"milk bucket","SC16","217.1","nch","N"," "," ","Âm{j}±ø{©}k$ıb¶Ωk{x}±øºt","MS",944
+"windlass","SC16","217.1","nch","Y","INA","old times","w±´{∞}nl±øºs","MS",944
+"bucket","SC17A","218.1","nch","N"," "," ","b∏ó´{∞}k±øºt","MS",945
+"milk bucket","SC17A","218.1","nch","N"," "," ","m{j}±ø´Ïk$ıb∏´{∞}k±øºt","MS",945
+"water bucket","SC17A","218.1","nch","N"," "," ","w∑∫{∞}Ò∞$ıb∏´{∞}k±øºt","MS",945
+"milk piggen","SC17A","218.1","nch","N"," "," ","Âmj±ø´{©}k$ıp±´{∞}gà±øºn","MS",945
+"piggen","SC17A","218.1","nch","N"," "," ","Âp±´{∞}gà±øºn","MS",945
+"piggens","SC17B","218.2","nci","N"," "," ","p`±´g±´ænz{zè}","MS",946
+"tin milk buckets","SC17B","218.2","nci","N"," "," ","Ât`±´{∞}n$ım±øÏk$Âb∏´{∞}k±øºts","MS",946
+"bucket","SC17B","218.2","nch","N"," ","most of 'em handmade; cypress","b∏´{∞}k±øºt","MS",946
+"milk piggens","SC17B","218.2","nci","N"," "," ","Âm±øºlk$ıp`±´{∞}g±ænz","MS",946
+"cup","SC17C","218.3","nch","N"," "," ","k`∏´{∞}p","MS",947
+"big bucket","SC17C","218.3","nch","N"," "," ","ıb±´{∞}g$Âb∏´{∞}k{x}±øºt","MS",947
+"milk piggens","SC17C","218.3","nci","N"," ","one stave longer than the other","Âm{j}±øÏk$ıp`±´{∞}g±øºnz{zè}","MS",947
+"bucket","SC17C","218.3","nch","N"," "," ","b•´k{x}±øºt","MS",947
+"bucket","SC17C","218.3","nch","N"," "," ","b∏k{x}±øºt","MS",947
+"bucket","SC17D","218.4","nch","N"," "," ","Âb∏´kx±øºt","MS",948
+"bucket","SC17D","218.4","nch","N"," "," ","b∏´{∞}xê±øºt","MS",948
+"well bucket","SC17D","218.4","nch","N"," ","used to be made of wood","Âw≤´{∞}Ï$ıb∏´{∞}k{x}±øºt","MS",948
+"piggen","SC17D","218.4","nch","N"," ","wood; ""small tub w/ one handle¢; well sweeps","p`±´{±ø}g±øºn","MS",948
+"well bucket","SC18N","N219","nch","N"," "," ","Âw≤´l$ıb∏óºk{x}±øºt","MS",949
+"bucket","SC18N","N219","nch","N"," ","tin or galvanized; wood in old times","Âb∏ók{x}±ø´ºt","MS",949
+"pail","SC18N","N219","nch","Y","OLD","old times; cypress, cedar","p`e´∫{∞}l","MS",949
+"piggen","SC18A","219.1","nch","N"," ","wood; shallow; used for milking","p`±´g±æn","MS",950
+"little tin buckets","SC18A","219.1","nci","N"," ","lunch","Âl±´têl$ıt`±´n$Âb∏´ºk{x}±øºts","MS",950
+"buckets","SC18A","219.1","nci","N"," ","wood strapped with iron","Âb∏´ºk{x}±øºts","MS",950
+"ten cent can","SC18A","219.1","nch","N"," "," ","Ât`≤´nıs≤´nt$Âk{j}`·Ω∫{∞}n","MS",950
+"well buckets","SC18A","219.1","nci","N"," "," ","w≤l$ıb∏ó´ºk{x}±øºts","MS",950
+"pail","SC18A","219.1","nch","N"," "," ","p`e∫{∞}l","MS",950
+"ten cent bucket","SC18A","219.1","nch","N"," "," ","Ât`≤´nıs≤´nt$Âb∏´ºk{x}±øºt","MS",950
+"ten cent pail","SC18A","219.1","nch","N"," "," ","Ât`≤´nıs≤´nt$Âp`e∫{∞}l","MS",950
+"water bucket","SC18B","219.2","nch","N"," ","built of cedar","Âw∑Ωº∫{∞}tê∞$ıb∏ºk{x}±øºt","MS",951
+"piggen","SC18B","219.2","nch","N"," ","dovetailed; cedar and white oak","Âp`±ægà±æn","MS",951
+"pail","SC18B","219.2","nch","N"," ","smaller, quart or two","p`e´∫{∞}l","MS",951
+"milk pail","SC18C!","219.3(*)!","nch","N"," ","""we called 'em¢","Âm±ølk$ıp`e∫l","MS",952
+"bucket","SC18C!","219.3(*)!","nch","N"," ","wood or metal water bucket","Âb∏´k±øºt","MS",952
+"water bucket","SC18C!","219.3(*)!","nch","N"," "," ","Âw∑Ω∫{∞}t∞$ıb¶Ωk{x}±øºt","MS",952
+"pail","SC18C!","219.3(*)!","nch","N"," "," ","p`e∫{∞}l","MS",952
+"buckets","SC18C!","219.3(*)!","nci","N","CNV"," ","b∏´k{x}±øºts","MS",952
+"bucket on a well","SC18D!"," ","nch","N"," "," ","Âb•´k{x}±ø´ºt$∑Ωºn∞$Âw≤l"," ",953
+"pail","SC18D!"," ","nch","N"," "," ","p`e´lç"," ",953
+"pail","SC19N","N220","nch","N"," ","no handle, like tub","p{h}e´∫{∞}Ï","MS",954
+"water bucket","SC19N","N220","nch","N"," "," ","w∑Ω∫tê∞$b∏Ωkà±øt","MS",954
+"can","SC19N","N220","nch","N"," "," ","Âc{h}aºn","MS",954
+"tin bucket","SC19N","N220","nch","N"," "," ","ıt{h}±Ωn$Âb∏Ωkà±øt","MS",954
+"piggen","SC19N","N220","nch","N"," ","handle at each side; no bail","p{h}±g±øn","MS",954
+"bucket","SC19A","220.1","nch","N"," "," ","b∏´k{x}±øºt","MS",955
+"water bucket","SC19A","220.1","nch","N"," "," ","Âw∑º∫{∞}Ò∞æ$ıb∏k{x}±øºt","MS",955
+"milk pail","SC19A","220.1","nch","N"," "," ","m±ølk$p`e∫l","MS",955
+"pail","SC19A","220.1","nch","N"," "," ","p`e∫l","MS",955
+"well bucket","SC19B","220.4","nch","N"," "," ","Âw≤∫l$ıb∏´ºk±øt","MS",956
+"tin bucket","SC19B","220.4","nch","N"," "," ","t`±n$b∏´æk±øt","MS",956
+"wooden bucket","SC19C","220.2(*)","nch","N"," ","now galvanized","Âwπºdn$b∏´ºk{x}±øΩºt","MS",957
+"buckets","SC19C","220.2(*)","nci","N"," ","now galvanized","b∏´ºk{x}±øºts","MS",957
+"firkins","SC19C","220.2(*)","nci","N"," "," ","Âf≥ó´∫{±ø}k±øºnz{zè}","MS",957
+"dinner pail","SC19C","220.2(*)","nch","N"," "," ","d±øºn∞Ω$ıp`e´∫{∞}l","MS",957
+"pail","SC19C","220.2(*)","nch","Y","OLD","obsolescent; wooden ones","p`e´∫{∞}l","MS",957
+"cedar buckets","SC19D!","220.3!","nci","N"," "," ","Âsi∫d∞$ıb∏óºk{x}±øºts","MS",958
+"piggens","SC19D!","220.3!","nci","N"," ","of wood","Âp±´g±ønz","MS",958
+"white metal buckets","SC19D!","220.3!","nci","N"," "," ","Âhw∞Ω±øt$ım≤´têl$ıb∏óºk{x}±øºts","MS",958
+"buckets","SC19D!","220.3!","nci","N"," "," ","Âb∏ó´ºk{x}±øºts","MS",958
+" ","SC19E!"," "," "," "," "," "," "," ",959
+"bucket","SC20A","221.1","nch","N"," "," ","b¶Ωkê±øºt","MS",960
+"well sweep","SC20A","221.1","nch","N"," "," ","Âw≤´æl$ıswèi∫{j}p","MS",960
+"tin bucket","SC20A","221.1","nch","N"," ","for milking","Ât±´n$ıb¶Ωx±øºt","MS",960
+"well buckets","SC20B","221.2","nci","N"," "," ","Âw≥´ºl$ıb¶Ωk{x}±øºts","MS",961
+"wooden buckets","SC20B","221.2","nci","N"," "," ","Âwπ´ºdn$ıb¶Ωk{x}±øºts","MS",961
+"bucket","SC20B","221.2","nch","N"," "," ","b¶Ωk{x}±øºt","MS",961
+"oaken buckets","SC20B","221.2","nci","N"," "," ","Âo´ºπºk{x}Ó$ıb¶Ωk{x}±øºts","MS",961
+"well sweep","SC20B","221.2","nch","N"," "," ","Âw≤´l$ıswèi∫p","MS",961
+"piggens","SC20B","221.2","nci","N"," ","long stave for handle","p±´gà±øºnz","MS",961
+"water bucket","SC20C","221.3","nch","N"," "," ","w∑∫∑´tê∞$b¶ºk{x}±øºt","MS",962
+"bucket","SC20C","221.3","nch","N"," "," ","b¶Ωk{x}±øºt","MS",962
+"wooden bucket","SC20C","221.3","nch","N"," "," ","wπºdn$b¶Ωk{x}±øºt","MS",962
+"sweep","SC20C","221.3","nch","N"," "," ","swèi∫{j}p","MS",962
+"tin buckets","SC20C","221.3","nci","N"," ","for milking","t`±´{∞}n$b¶Ωk{x}±øºts","MS",962
+"house bucket","SC20D!","221.4!","nch","N"," "," ","h·∫os$ıb¶Ωk{x}±øºt","MS",963
+"well bucket","SC20D!","221.4!","nch","N"," "," ","w≤´{∞}Ï$ıb¶Ωk{x}±øºt","MS",963
+"bucket","SC20D!","221.4!","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",963
+"milk bucket","SC20D!","221.4!","nch","N"," ","metal","mj±ø∫{©}k$ıb¶Ωk{x}±øºt","MS",963
+"milk bucket","SC20D!","221.4!","nch","N"," ","metal","mj±ø©k$ıb¶Ωk{x}±øºt","MS",963
+"bucket","SC20D!","221.4!","nch","N","CNV"," ","Âb∑´k{x}±øºt","MS",963
+"wood water buckets","SC20D!","221.4!","nci","N"," "," ","ıwπºd$Âw∑Ω∑tê∞$ıb¶Ωk{x}±øºts","MS",963
+"bucket","SC21A","222.1","nch","N"," "," ","b∏ó´kà±ø´'t","MS",964
+"pail","SC21B","222.2","nch","N"," "," ","pe´∫{∞}Ï","MS",965
+"bucket","SC21B","222.2","nch","N"," "," ","b∏∫k±øt","MS",965
+"dinner bucket","SC22N","N223","nch","N"," ","metalwork","d±˛{∞}n∞$b∏kà±øt","MS",966
+"lunch box","SC22N","N223","nch","N"," ","modern; child; school","l∏´ntÛ$bµ´{∞}ks","MS",966
+"bucket","SC22N","N223","nch","N"," "," ","b∏kà±øt","MS",966
+"pail","SC22N","N223","nch","Y","OLD","old; one stave up at side","pe∫Ï","MS",966
+"lunch pail","SC22N","N223","nch","N"," ","modern; child; school","l∏´ntÛ$pe∫Ï","MS",966
+"milk pail","SC22A","223.1","nch","N"," ","wooden","Âm{j}±ø{©}k$ıp`e∫{∞}l","MS",967
+"tin buckets","SC22A","223.1","nci","N"," "," ","t`±´{∞}n$ıb∏{∞}k{x}±øºts","MS",967
+"buckets","SC22A","223.1","nci","N"," ","open well","b∏{∞}k{x}±øº'ts","MS",967
+"piggen","SC22A","223.1","nch","N"," "," ","Âp`±´{∞}gà±øºn","MS",967
+"wooden bucket","SC22A","223.1","nch","N"," ","open well","Âwπó´º{∞}dn$ıb∏{∞}k{x}±øºt","MS",967
+"piggen","SC22B","223.2","nch","Y","OLD","old; stave up for milk","Âp±gà±øn","MS",968
+"dinner pail","SC22B","223.2","nch","N"," "," ","d±ø{∞}n∞$pe´∫{∞}Ï","MS",968
+"bucket","SC22B","223.2","nch","N"," ","to carry from well to house","b∏´∫kà±øt","MS",968
+"pail","SC22B","223.2","nch","Y","OLD","old; two larger staves parallel; set in kitchen","pe´∫{∞}Ï","MS",968
+"bucket","SC22B","223.2","nch","N"," ","to carry from well to house","b∏´kà±øt","MS",968
+"bucket","SC22C!","223.3!","nch","N"," ","rope, sweep","b¶Ωx±øºt","MS",969
+"wooden buckets","SC22C!","223.3!","nci","N"," ","rope, sweep","wπøæ{∞}dn$b¶óº{∞}k{x}±øºts","MS",969
+"bucket","SC22C!","223.3!","nch","N"," ","rope, sweep","b¶Ωk{x}±øºt","MS",969
+"pail","SC22C!","223.3!","nch","N"," ","a big piggin (one tall stave)","p`e∫{∞}l","MS",969
+"piggen","SC22C!","223.3!","nch","N"," "," ","p`±´{∞}gà±øºn","MS",969
+"piggen","SC23A","224.1","nch","N"," ","""made sorta like a bucket¢","p`±´{∞}gà±øºn","MS",970
+"water buckets","SC23A","224.1","nci","N"," ","gourd; juniper","Âw∑Ω{∞}tê∞›$ıb¶Ω{∞}kx±øºts","MS",970
+"buckets","SC23A","224.1","nci","N"," ","gourd; juniper","b¶Ω{∞}kx±øºts","MS",970
+"water buckets","SC23B","224.2","nci","N"," ","open well, chain and tickle","Âw∑´∫{∞}tê¥´æ$ıb∏´{∞}k{x}±øºts","MS",971
+"pail","SC23B","224.2","nch","N"," ","one board higher than the others","p`e∫{∞}Ï","MS",971
+"milk pail","SC23B","224.2","nch","N"," "," ","Âmj±ø{©}k$ıp`e´∫{∞}Ï","MS",971
+"bucket","SC23B","224.2","nch","N"," ","open well, chain and tickle","b∏´{∞}k{x}±øºt","MS",971
+"bucket","SC23C","224.3","nch","N"," "," ","b¶Ω{∞}k{x}±øºt","MS",972
+"iron buckets","SC23D","224.4","nci","Y","NEW"," ","Âµ´º∫j∞´n$ıb¶Ωº{∞}k{x}±øºts","MS",973
+"milk buckets","SC23D","224.4","nci","N"," "," ","Âmj±ø{©}k$b¶Ωº{∞}k{x}±øºts","MS",973
+"wooden buckets","SC23D","224.4","nci","N"," "," ","Âwπæ{∞}dn$ıb¶Ωº{∞}k{x}±øΩºts","MS",973
+"bucket","SC23D","224.4","nch","Y","OLD","us. had chain and tickle; occ. sweeps esp. in SRV.","b¶Ω{∞}k{x}±øºt","MS",973
+"milk pails","SC23D","224.4","nci","N"," ","one ou and strainer","Âmj±øÏk$ıp`e∫{∞}Ïz{zè}","MS",973
+"buckets","SC23E!","224.5!","nci","N"," ","white oak; chains, well sweeps","Âb∏ó´{∞}k{x}±øºts","MS",974
+"bucket","SC23E!","224.5!","nch","N"," ","white oak; chains, well sweeps","b∏ó{∞}k{x}±øºt","MS",974
+"milk pail","SC23E!","224.5!","nch","N"," ","one stave longer than the others","mj±ø{Ï}k$ıp`e∫{∞}Ï","MS",974
+"wooden buckets","SC24N","N225","nci","N"," "," ","wπø∫{∞}dn$ıb∏ºk±øºts","MS",975
+"milk bucket","SC24N","N225","nch","N"," ","tin","m±´lçk$ıb∏´{∞}k±øºt","MS",975
+"bucket","SC24N","N225","nch","N"," "," ","b∏´k±øºt","MS",975
+"tin bucket","SC24A","225.1","nch","N"," "," ","t`±n$b∏´k±øt","MS",976
+"wooden bucket","SC24A","225.1","nch","N"," "," ","wπdn$b¶Ωk±øt","MS",976
+"bucket","SC24A","225.1","nch","N"," "," ","b¶Ωk±øt","MS",976
+"milk pail","SC24B","225.11","nch","N"," ","one stave longer","Âm{j}±ølk$ıp`e∫{∞}l","MS",977
+"wooden bucket","SC24B","225.11","nch","N"," ","""oak and different things¢","Âwπ´º{∞}dn$ıb∏´k±øºt","MS",977
+"milk buckets","SC24C","225.2","nci","N"," "," ","Âm±ølk$ıb∏´k±øºts","MS",978
+"bucket","SC24C","225.2","nch","N","CNV"," ","b∏´{∞}k±øºt","MS",978
+"well sweeps","SC24C","225.2","nci","N"," "," ","Âw≤´{∞}l$ıswèi∫{±ø}ps","MS",978
+"well bucket","SC24C","225.2","nch","N"," "," ","Âw≤´{∞}l$ıb∏k±øºt","MS",978
+"buckets","SC24D!","225.3!","nci","N"," "," ","b∏´{∞}k±øºts","MS",979
+"bucket","SC25A","226.1","nch","N"," ","if bail","b∏´∫kà±øt","MS",980
+"pail","SC25A","226.1","nch","Y","OLD","old; one stave sticking up","pe∫{∞}Ï","MS",980
+"tin bucket","SC25A","226.1","nch","N"," ","bail not used here - handle","ıt±{∞}n$Âb∏´∫kà±øt","MS",980
+"piggen","SC25B","226.2","nch","N"," "," ","p`±´g±øºn","MS",981
+"small milk piggen","SC25B","226.2","nch","N"," "," ","smè∑´{∞}Ï$mj±ø{©}k$p`±´gà±øºn","MS",981
+"well bucket","SC25B","226.2","nch","N","CNV"," ","w≤´Ï$b¶óºk{x}±øºt","MS",981
+"oaken bucket","SC25B","226.2","nch","N"," ","some homemade","Âoº∫{∞ó}k{x}Ó$ıb¶Ω{∞}k{x}±øºt","MS",981
+"pail","SC25B","226.2","nch","N"," "," ","p`e´∫{∞}Ï","MS",981
+"oak buckets","SC25C!","226.3!","nci","N"," "," ","Âoº∫k$ıb¶Ω{∞}k{x}±øºts","MS",982
+"milk pail","SC25C!","226.3!","nch","N"," "," ","m{j}±ø{©}k$ıp`e´{∞}Ï","MS",982
+"enamel buckets","SC25C!","226.3!","nci","N"," "," ","±øÂn·∫{∞}mlñ$ıb¶Ω{∞}k{x}±øºts","MS",982
+"milk pail","SC25C!","226.3!","nch","N"," "," ","Âm±ø{©}k$ıp`e´{∞}Ï","MS",982
+"buckets","SC25C!","226.3!","nci","N"," "," ","Âb¶Ωk{x}±øºts","MS",982
+"tin buckets","SC26A","227.1","nci","N"," "," ","t±´{∞}n$ıb¶Ωk{x}±øºts","MS",983
+"well sweep","SC26A","227.1","nch","N"," "," ","Âw≤´ælç$ıswèi∫p","MS",983
+"cypress bucket","SC26A","227.1","nch","N"," ","dug out","Âsaæ±øpr±ø›s$ıb¶Ω{∞}k{x}±øºt","MS",983
+"bucket","SC26A","227.1","nch","N"," "," ","Âb¶Ω{∞}k{x}±øºt","MS",983
+"piggen","SC26A","227.1","nch","N"," ","homemade","p±´g±øºn","MS",983
+"churns","SC26A","227.1","nci","N"," ","wood","ÂtÛ≥æ∫nz","MS",983
+"milk pail","SC26B!","227.2!","nch","N"," ","wooden","m{j}±øk$pe´∫l","MS",984
+"wooden buckets","SC26B!","227.2!","nci","N"," "," ","Âwπºdn$b∏óºk{x}±øºts","MS",984
+"sweep","SC26B!","227.2!","nch","N"," ","not in St. Matthews","swèi∫p","MS",984
+"tin pail","SC26B!","227.2!","nch","N"," "," ","Ât±´{∞}n$ıpe´∫l","MS",984
+"bucket and chain","SC26B!","227.2!","nch","N"," "," ","b∏ó´ºk{x}±øºt$∞´n$ÂtÛe∫n","MS",984
+"water bucket","SC27A","228.1","nch","N"," "," ","Âw∑Ω∫tê∞$ıb¶Ωk{x}±øt","MS",985
+"tin bucket","SC27A","228.1","nch","N"," "," ","Ât`±n$ıb¶Ωk{x}±øt","MS",985
+"lunch pail","SC27A","228.1","nch","N"," "," ","Âl∏ntÛ$ıp`e∫{∞}l","MS",985
+"agate bucket","SC27A","228.1","nch","N"," "," ","Â·g±øt$ıb¶Ωk{x}±øt","MS",985
+"sweep","SC27B","228.2","nch","N"," "," ","swèiæ∫{±ø}p","MS",986
+"old bucket","SC27B","228.2","nch","N"," "," ","Âo∫{∞}l$ıb∏ºkê±øºt","MS",986
+"wooden buckets","SC27B","228.2","nci","N"," "," ","Âwπºdn›$ıb∏óæk{x}±ø›ts","MS",986
+"milk bucket","SC27B","228.2","nch","N"," "," ","Âm±øºlk$ıb∏æk{x}±øºt","MS",986
+"tin bucket","SC27B","228.2","nch","N"," "," ","Ât±´{∞}n$ıb∏´æk±øºt","MS",986
+"pail","SC27B","228.2","nch","N"," ","wood; long stave for handle","pe´∫{∞}l","MS",986
+"milk pail","SC27B","228.2","nch","N"," "," ","m±øºlk$ıpe´∫{∞}l","MS",986
+"bucket","SC27B","228.2","nch","N"," "," ","Âb∏óæk{x}±øt","MS",986
+"wooden water bucket","SC28A","229.1","nch","N"," ","cypress","Âwπºdn$Âw∑∫{∞}tê∞$ıb¶Ωkê±øºt","MS",987
+"bucket","SC28A","229.1","nch","N"," "," ","b¶Ωkê±øºt","MS",987
+"tin bucket","SC28A","229.1","nch","N"," "," ","Ât±´{∞}n$ıb¶Ωkê±øºt","MS",987
+"stone pitchers","SC28A","229.1","nci","N"," "," ","Âstoº∫{∞}n$ıp`±´tÛ∞´zè","MS",987
+"milk piggen","SC28A","229.1","nch","N"," "," ","m±øºlk$p`±´gà±øºn","MS",987
+"piggen","SC28A","229.1","nch","N"," ","wooden; stave longer, as handle","p`±´gà±øºn","MS",987
+"tin bucket","SC28B","217.2","nch","N"," "," ","t`±´{∞}n$b¶Ω{∞}k{x}±øºt","MS",988
+"bucket","SC28B","217.2","nch","N"," "," ","Âb¶óΩk{x}±øºt","MS",988
+"wooden bucket","SC28B","217.2","nch","N"," "," ","wπºdn$b¶óΩ{∞}k{x}±øºt","MS",988
+"milk bucket","SC28B","217.2","nch","N"," ","galvanized","mj±ø{©}k$b¶Ω{∞}k{x}±øºt","MS",988
+"sweep","SC28B","217.2","nch","N"," "," ","swèi∫p","MS",988
+"bucket","SC28C","229.2","nch","N"," ","wheel","b∏ó´{∞}k{x}±øºt","MS",989
+"water buckets","SC28C","229.2","nci","N"," "," ","w∑Ω{∞}Ò∞$ıb∏ó´{∞}k{x}±øºts","MS",989
+"pail","SC28C","229.2","nch","N"," ","usually made out of aluminum","p`e´{∞}l","MS",989
+"gourd","SC28D","229.3","nch","N"," ","for drinking out of","go´∫∞›d","MS",990
+"churns","SC29A","230.2(*)","nci","N"," "," ","ÂtÛ≥´æ∫{¥}nz","MS",991
+"tin bucket","SC29A","230.2(*)","nch","N"," "," ","Ât`±´{∞}n$ıb¶óΩ{∞}k{x}±øºt","MS",991
+"wooden buckets","SC29A","230.2(*)","nci","N"," ","usually at well","Âwπ´ºdn$ıb¶Ωkê±øºts","MS",991
+"piggens","SC29A","230.2(*)","nci","N"," ","one long stave","p`±´{∞}g±øºnz","MS",991
+"milk bucket","SC29A","230.2(*)","nch","N"," ","usually tin","m{j}±ølk$ıb¶Ωk{x}±øºt","MS",991
+"well bucket","SC29B","230.1(*)","nch","N"," "," ","Âw≤´l$ıb∏ók{x}±øºt","MS",992
+"pail","SC29B","230.1(*)","nch","N","CNV"," ","pe∫{∞}l","MS",992
+"bucket","SC29B","230.1(*)","nch","N"," "," ","Âb¶ºk{x}±øºt","MS",992
+"wood bucket","SC29B","230.1(*)","nch","N"," ","iron band","Âwπºd$ıb∏´k{x}±øºt","MS",992
+"bucket","SC29B","230.1(*)","nch","N"," "," ","b∏ó´k{x}±øºt","MS",992
+"tin bucket","SC29B","230.1(*)","nch","N"," "," ","Ât`≤´{∞}n$ıb∏ók{x}±øºt","MS",992
+"tin bucket","SC29B","230.1(*)","nch","N"," "," ","Ât`≤´{∞}n$ıb¶óΩk{x}±øºt","MS",992
+"milk pail","SC29C","230.3","nch","N"," ","one stave longer than the others, as handle","Âm±øºlk$pe∫{∞}l","MS",993
+"milk bucket","SC29C","230.3","nch","N"," "," ","Âm±øºlçk$ıb¶k{x}±øºt","MS",993
+"bucket","SC29C","230.3","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",993
+"wooden bucket","SC29C","230.3","nch","N"," "," ","Âwπó´dn$ıb¶Ω{∞}k{x}±øºt","MS",993
+"bucket","SC29C","230.3","nch","N"," "," ","Âb¶óºk{x}±øºt","MS",993
+"well buckets","SC29D"," ","nci","N"," ","oak","Âw≤´{∞}Ï$ıb∏´{∞}k±øºts"," ",994
+"tin bucket","SC29D"," ","nch","N"," ","for milking (had a strainer)","Ât`±´{±ø}n$ıb∏´{∞}k±øºt"," ",994
+"water buckets","SC29D"," ","nci","N"," ","drinking water","w∑´{∞}tê∞$ıb∏´{∞}k±øºts"," ",994
+"bucket","SC29D"," ","nch","N"," ","windlass","b∏´{∞}k{x}±øºt"," ",994
+"bucket","SC29E"," ","nch","N","CNV"," ","b¶Ω{∞}k{x}±øºt"," ",995
+"tin bucket","SC30A","231.1","nch","N"," "," ","t±{∞}n$b∏´∫kà±øΩt","MS",996
+"bucket","SC30A","231.1","nch","N"," "," ","b∏ó´kà±øΩt","MS",996
+"pail","SC30A","231.1","nch","N"," ","staves up for handle","pe´∫{±øΩ}Ï","MS",996
+"piggen","SC30B","231.2","nch","N"," ","one stave higher than others","p`±´d˙±´n","MS",997
+"bucket","SC30B","231.2","nch","Y","OLD"," ","b¶Ωk±øºt","MS",997
+"cedar bucket","SC30B","231.2","nch","N"," ","""all bucket now¢","Âsi∫jd∞$ıb¶Ωk±øºt","MS",997
+"buckets","SC30B","231.2","nci","N"," ","had a bail","b¶ók±øºts","MS",997
+"pail","SC30B","231.2","nch","N"," ","had hand hold","p`e´∫±Ï","MS",997
+"piggen","SC30B","231.2","nch","N","CNV","one stave higher than others","p`±´g±æn","MS",997
+"piggen","SC30B","231.2","nch","N","CNV","one stave higher than others","p`±´d˙∞´æn","MS",997
+"bucket","SC30C!","231.3!","nch","N"," "," ","b¶Ωk±øºt","MS",998
+"pail","SC30C!","231.3!","nch","N"," ","small at bottom, broad at top","p`e´∫±Ï","MS",998
+"milk bucket","SC30C!","231.3!","nch","N"," "," ","Âmj±ø{©}k$ıb¶óΩk±øºt","MS",998
+"milk pail","SC30C!","231.3!","nch","Y","SUG"," ","Âmj±ø{©}Ïk$ıp`e´∫±Ï","MS",998
+"bucket","SC30C!","231.3!","nch","N"," "," ","b¶óΩk±øºt","MS",998
+"fat jars","SC31A","232.1","nci","N"," ","same as stone jars","Âf·∫{∞}t$ıd˙ﬁ∫∞›z","MS",999
+"stone jars","SC31A","232.1","nci","N"," ","same as fat jars","Âsto´∫n$ıd˙ﬁº∫∞z","MS",999
+"homemade bucket","SC31A","232.1","nch","N"," "," ","Âhoº∫mıme´∫d$Âb¶Ω{∞}k{x}±øºt","MS",999
+"milk pails","SC31A","232.1","nci","N"," ","juniper; had a bail or one long stave","mj±ø{Ï}k$pe´∫{∞}Ïz","MS",999
+"pails","SC31A","232.1","nci","N"," ","bigger, carried on head or shoulder; had no handle","pe´∫{∞}Ïz","MS",999
+"wooden bucket","SC31B","232.2","nch","N"," "," ","ÂwuΩdn$ıb¶óΩk{x}±øºt","MS",1000
+"milk strainer","SC31B","232.2","nch","N"," "," ","Âm±øºÏk$ıstéÚèi∫n∞","MS",1000
+"bucket","SC31B","232.2","nch","N"," "," ","b¶óΩ{∞}k{x}±øºt","MS",1000
+"milk piggen","SC31B","232.2","nch","N"," ","one long stave = handle","Âm±øÏk$ıp±´gà±øºn","MS",1000
+"tin buckets","SC32A","233.1","nci","N"," "," ","Ât`±´{∞}n$b¶Ω{∞}k{x}±øºts","MS",1001
+"milking pail","SC32A","233.1","nch","N"," "," ","Âm±øÏk±øºn$ıp`e∫{∞}l","MS",1001
+"buckets","SC32A","233.1","nci","N"," ","two and wheel windlass","b¶Ω{∞}k{x}±øºts","MS",1001
+"wooden pail","SC32A","233.1","nch","N"," "," ","ıwπº{∞}dn$Âpe∫{±ø}l","MS",1001
+"oak buckets","SC32B","233.2","nci","N"," "," ","o´º∫πºk$b¶º{∞}k{x}±øºts","MS",1002
+"buckets","SC32B","233.2","nci","N"," "," ","b¶º{∞}k{x}±øºts","MS",1002
+"wooden bucket","SC32B","233.2","nch","N"," "," ","wπ´{∞}dn$Âb¶º{∞}kà{xà}±øºt","MS",1002
+"piggen","SC32B","233.2","nch","N"," ","smaller at bottom, wider at top","p`i∫{∞}gà±øºn","MS",1002
+"well bucket","SC32B","233.2","nch","N"," ","smaller at bottom, wider at top","Âw≤´{∞}l$ıb¶Ωº{∞}kà{xà}±øºt","MS",1002
+"wooden buckets","SC32B","233.2","nci","N"," "," ","Âwπøî´{∞}dn$b¶º{∞}k{x}±øºts","MS",1002
+"bucket","SC32C","233.3","nch","N"," "," ","b¶Ω{∞}k±øºt","MS",1003
+"tin buckets","SC32D","233.4","nci","N"," "," ","Ât`±´{∞}n$ıb¶º{∞}kà{xà}±øºts","MS",1004
+"bucket pumps","SC32D","233.4","nci","N"," ","oak or hickory","Âb¶Ωºk{x}±øºt$ıp`¶Ω{∞}mps","MS",1004
+"pails","SC32D","233.4","nci","N"," "," ","p`e´∫{∞}lz","MS",1004
+"tin pails","SC32D","233.4","nci","N"," "," ","Ât`±´{∞}n$ıp`e´∫{∞}lz","MS",1004
+"buckets","SC32D","233.4","nci","N"," "," ","b¶Ωº{∞}kà{xà}±øºts","MS",1004
+"well buckets","SC32D","233.4","nci","N"," "," ","Âw≤´{∞}l$ıb¶Ω{∞}k{x}±øºts","MS",1004
+"bucket","SC33A","234.1","nch","N"," "," ","b∏´∫{∞}kà±øΩt","MS",1005
+"piggen","SC33A","234.1","nch","Y","OLD","old; stave up for handle","p±g±øn","MS",1005
+"wooden bucket","SC33A","234.1","nch","N"," "," ","w{πøæ∫}dn$b∏´∫{∞}k±øΩt","MS",1005
+"tin bucket","SC33A","234.1","nch","N"," "," ","t±{∞}n$b∏´∫kà±øt","MS",1005
+"pails","SC33B","234.2","nci","N"," "," ","p`e∫±øÏz","MS",1006
+"wooden buckets","SC33B","234.2","nci","N"," "," ","ıwπº{∞}dn$Âb¶º{∞}k{x}±øºts","MS",1006
+"milk pails","SC33B","234.2","nci","N"," ","tin","Âm{j}±øÏk$ıp`e∫±øÏz","MS",1006
+"tin buckets","SC34A","235.1","nci","N"," "," ","Ât`±´{∞}n$ıb¶Ω{∞}k{x}±øºts","MS",1007
+"wooden buckets","SC34A","235.1","nci","N"," "," ","Âwπ´º{∞}dn$ıb¶Ω{∞}k{x}±øºts","MS",1007
+"pail","SC34A","235.1","nch","N"," ","handle on side","p`e∫{±ø}Ï","MS",1007
+"pail","SC34A","235.1","nch","N"," ","handle on side","p`e∫j|Ï","MS",1007
+"tin buckets","SC34B","235.2","nci","N"," "," ","t`±´{∞}n$ıb¶Ω{∞}k{x}±øºts","MS",1008
+"wooden pails","SC34B","235.2","nci","N"," ","before tin buckets","Âwπº{∞}dn$ıp`e∫±øºÏz{zè}","MS",1008
+"wooden bucket","SC34B","235.2","nch","N"," ","usually out of oak","Âwπ´º∫{∞}dn$ıb¶Ω{∞}k{x}±øºt","MS",1008
+"well bucket","SC34B","235.2","nch","N"," ","usually out of oak","w≤´{∞}Ï$ıb¶Ωk{x}±øºt","MS",1008
+"milking buckets","SC34C","235.3","nci","N"," ","metal; strainer in the side","m{j}±øÏk±øºn$ıb¶Ω{∞}k{x}±øºts","MS",1009
+"buckets","SC34C","235.3","nci","N"," ","two, on windlass, sweep occasionally in country","b¶Ω{∞}k{x}±øºts","MS",1009
+"cedar buckets","SC35A","236.1","nci","N"," "," ","Âsi∫d∞$b¶º{∞}k{x}±øºts","MS",1010
+"buckets","SC35A","236.1","nci","N"," "," ","Âb¶ºk{x}±øºts","MS",1010
+"milk pail","SC35A","236.1","nch","N"," ","""what we called it¢","m{j}±ø{Ï}k$ıp`e∫±øºÏ","MS",1010
+"milk pail","SC35A","236.1","nch","N"," ","""what we called it¢","m{j}±ø{©}k$ıp`e∫±øºÏ","MS",1010
+"milk pail","SC35B","236.2","nch","N"," ","metal","Âm{j}±øÏk$ıp`e∫±æÏ","MS",1011
+"oak bucket","SC35B","236.2","nch","N"," "," ","Âoº∫πºk$ıb¶Ω{∞}k{x}±øºt","MS",1011
+"well bucket","SC35B","236.2","nch","N"," ","metal nowadays","Âw≤´{∞}Ï$Âb¶Ω{∞}k{x}±øºt","MS",1011
+"bucket","SC35C","236.3(*)","nch","N"," ","used for milking","b¶Ωk∞´t","MS",1012
+"tin bucket","SC35C","236.3(*)","nch","N"," "," ","t`±n$ıb∏ºk±øt","MS",1012
+"milk bucket","SC35C","236.3(*)","nch","N"," "," ","m{±}±æ{©}k$ıb∏ºk±øt","MS",1012
+"well bucket","SC35C","236.3(*)","nch","N"," "," ","w≤Ï$b∏k±øºt","MS",1012
+"piggens","SC35C","236.3(*)","nci","N"," ","one stave longer than rest","p±´g±øºnz","MS",1012
+" ","SC35D"," "," "," "," "," "," "," ",1013
+"wooden bucket","SC35E!"," ","nch","N"," "," ","wπºdn$b¶Ωk∞´t"," ",1014
+"bucket","SC35E!"," ","nch","N"," "," ","b¶Ωk∞´t"," ",1014
+"tin buckets","SC35E!"," ","nci","N"," "," ","Ât`±´n$ıb¶Ωk∞´æts"," ",1014
+"milk pail","SC36A","237.1","nch","N"," "," ","mj±øÏk$ıp`e∫±Ï","MS",1015
+"milk pail","SC36A","237.1","nch","Y","FDT","[{Ï}]; doubtful","mj±ø©{Ï}k$ıp`e∫±Ï","MS",1015
+"bucket","SC36A","237.1","nch","N","CNV"," ","b¶Ωk{x}±øºt","MS",1015
+"bucket","SC36A","237.1","nch","N"," "," ","b¶Ωºk±ø›t","MS",1015
+"bucket","SC36B","237.2","nch","N"," "," ","b¶ºk{x}±øºt","MS",1016
+"bucket","SC36B","237.2","nch","N"," "," ","b¶Ωk{x}±øºt","MS",1016
+"pail","SC36B","237.2","nch","N"," "," ","p`e∫±Ï","MS",1016
+"milk pail","SC36B","237.2","nch","Y","FDT","heard say many a time; [{Ï}]: doubtful","mj±ø©{Ï}k$ıp`e∫±Ï","MS",1016
+"bucket","SC36B","237.2","nch","N","CNV"," ","b¶ºk±øºt","MS",1016
+"house bucket","SC36C","237.3","nch","N"," "," ","ha´æ∫πs$b¶kê±øºt","MS",1017
+"pail","SC36C","237.3","nch","N"," "," ","p`e±Ï","MS",1017
+"bucket","SC36C","237.3","nch","N"," "," ","b¶Ωk{x}±øºt","MS",1017
+"milk pail","SC36C","237.3","nch","N"," ","milk pail, milk bucket: either","Âm{j}±øÏk$ıp`e∫±Ï","MS",1017
+"milk bucket","SC36C","237.3","nch","N"," ","milk bucket, milk pail: either","Âm±øºÏk$b¶kê±øºt","MS",1017
+"well bucket","SC36C","237.3","nch","N"," "," ","Âw≤Ï$ıb¶Ωkê±øº't","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"galvanized bucket","SC37","238","nch","N"," "," ","g·lv∞n∞æ±ø›zd$b¶Ωk±øt","MS",1019
+"bucket","SC37","238","nch","N"," "," ","b¶Ωk±øt","MS",1019
+"bucket","SC38N","N239","nch","N"," ","handle across","b¶ºkê±øºt","MS",1020
+"pail","SC38N","N239","nch","N"," ","hand hold on sides","p`e´∫±Ï","MS",1020
+"bung gourd","SC38N","N239","nch","N"," ","where didn't have buckets","Âb¶ºÓ$ıgo´º∫πºd","MS",1020
+"milk buckets","SC38A","239.1","nci","N"," "," ","m{j}±øÏk$b¶Ωk{x}±øºts","MS",1021
+"staves","SC38A","239.1","nci","N"," "," ","ste∫±vz","MS",1021
+"bucket","SC38A","239.1","nch","N"," "," ","Âb¶ºkê±øºt","MS",1021
+"tin buckets","SC38A","239.1","nci","N"," "," ","Ât`±´n$ıb¶ók±øºts","MS",1021
+"pails","SC38A","239.1","nci","N"," ","no handles","p`e∫±lçz","MS",1021
+"buckets","SC38B","239.2","nci","N"," ","two at well","b¶Ωkê±øºts","MS",1022
+"cedar bucket","SC38B","239.2","nch","N"," "," ","Âsi∫d∞$ıb¶Ωk{x}±øºt","MS",1022
+"bucket","SC38B","239.2","nch","N"," ","two at well","b¶k{x}±øºt","MS",1022
+"milk bucket","SC38B","239.2","nch","Y","SUG"," ","mj±ø{©}k$ıb¶Ωk±øºt","MS",1022
+"milk pail","SC38B","239.2","nch","N"," ","usually lighter - tin, etc.","Âm{j}±øº{©}k$ıp`e∫±Ï","MS",1022
+"piggen","SC38C!","239.3!","nch","N"," ","smaller pail","p`±´gà±æn","MS",1023
+"pail","SC38C!","239.3!","nch","N"," ","made of staves; ""tiny handle one side¢","p`e∫±Ï","MS",1023
+"pail","SC38C!","239.3!","nch","N"," ","made of staves; ""tiny handle one side¢","p`e∫{±}l","MS",1023
+"piggen","SC38C!","239.3!","nch","N"," ","smaller pail","p`iΩgà±øºn","MS",1023
+"bucket","SC38C!","239.3!","nch","Y","AUX","handle","boøk±øºt","MS",1023
+"bucket","SC38C!","239.3!","nch","N"," ","handle","Âb¶Ωk±øºt","MS",1023
+"bucket","SC38D!","239.4(*)!","nch","N"," "," ","Âb¶Ωºk±øºt","MS",1024
+"pail","SC38D!","239.4(*)!","nch","N"," ","not said much around here; ""we don't say pail¢","p`e∫±Ï","MS",1024
+"bucket","SC38D!","239.4(*)!","nch","N"," "," ","Âb¶Ωºkê±øºt","MS",1024
+" ","SC38E!"," "," "," "," "," "," "," ",1025
+"milk pail","SC39A","240.1","nch","N"," ","m.b, m.p.: no diff.; m.b.: most common","m{j}±ø{©}k$ıp`e∫{±ø´º}","MS",1026
+"milk bucket","SC39A","240.1","nch","Y","FDT","[{j}]: doubtful","Âm{j}±ø{Ï}k$ıb¶ºk±øºt","MS",1026
+"bucket and chain","SC39A","240.1","nch","N"," "," ","Âb¶Ωk±øºt$n$ÂtÛ`e∫±øºn","MS",1026
+"piggen","SC39B!","240.2!","nch","N"," ","one long stave, made of cedar","p`±´g±øºn","MS",1027
+"bucket","SC39B!","240.2!","nch","N","CNV","handle","b¶óΩºk±øºt","MS",1027
+"bucket","SC39B!","240.2!","nch","N"," ","handle","b¶óºk±øºt","MS",1027
+"pail","SC39B!","240.2!","nch","N"," ","like a bucket, but with one long stave","p`e´∫±øºÏ","MS",1027
+"tin bucket","SC40A","241.1","nch","N"," "," ","Ât`±´n$ıb¶Ωx±øºt","MS",1028
+"bucket","SC40A","241.1","nch","N"," "," ","b¶óΩkx±ø›Ωºt","MS",1028
+"pail","SC40A","241.1","nch","Y","OLD","old name, no handle","p`e´∫{iø}¶","MS",1028
+"tin buckets","SC40A","241.1","nci","N"," "," ","Ât`±˛´n$ıb¶Ωkx±øºts","MS",1028
+"wooden buckets","SC40A","241.1","nci","N"," "," ","Âwπ´ºdn$Âb¶Ωkx±øºts","MS",1028
+"buckets","SC40A","241.1","nci","N"," "," ","Âb¶Ωk{x}±øºts","MS",1028
+"milk bucket","SC40B","241.2","nch","N"," "," ","Âm{i}±¶{Ï}k$ıb¶ók{x}±øºt","MS",1029
+"buckets","SC40B","241.2","nci","N"," "," ","bπîºxà±øºts","MS",1029
+"buckets","SC40B","241.2","nci","N"," "," ","Âb∏´k{x}±ø´æts","MS",1029
+"wooden buckets","SC40B","241.2","nci","N"," "," ","Âwπºdn$ıb∏´xà±øΩºts","MS",1029
+"piggen","SC40B","241.2","nch","N"," ","small wooden bucket","p`±´g±æn","MS",1029
+"pails","SC40B","241.2","nci","N"," "," ","p`e∫{iø}¶{Ï}z","MS",1029
+"well buckets","SC40B","241.2","nci","N"," "," ","w≤´Ï$ıb¶óΩk{x}±øºts","MS",1029
+"bucket","SC41A","242.1","nch","N"," "," ","b∏ó´{∞}k±øΩt","MS",1030
+"pail","SC41A","242.1","nch","Y","OLD","old; no bail, stave up for handle","p{h}e{±ø}l","MS",1030
+"dinner bucket","SC41A","242.1","nch","N"," "," ","d±{∞}n¥´$b∏ó´{∞}k±øΩt","MS",1030
+"bucket","SC41B","242.2","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",1031
+"milk pail","SC41B","242.2","nch","N"," ","strainer","m{j}±øº{¶}k$p`eΩ∫{±ø}¶Ï","MS",1031
+"well bucket","SC41B","242.2","nch","N"," "," ","Âw≤´Ï$ıb∏´kx±øºt","MS",1031
+"bucket","SC41B","242.2","nch","N"," "," ","Âb∏´k{x}±øºt","MS",1031
+"bucket","SC42N","N243","nch","N"," ","wood or tin; has bail; would be a pail at the well","b¶Ωx±øºt","MS",1032
+"bucket","SC42N","N243","nch","N"," ","(for milk) large; has bail","b¶Ωºkê±Ωæt","MS",1032
+"water jar","SC42N","N243","nch","N"," "," ","Âw∑ΩoΩºtê∞$d˙∂º∫∞","MS",1032
+"pail","SC42N","N243","nch","N"," ","any size","p`e∫{iø}|¶","MS",1032
+"bucket","SC42N","N243","nch","N"," ","(for milk) large; has bail","b¶Ωk{x}±øºt","MS",1032
+"pail","SC42N","N243","nch","N"," ","any size","p`e∫±øºÏ","MS",1032
+"bucket","SC42N","N243","nch","N"," ","wood or tin; has bail; would be a pail at the well","b¶Ωk±øºt","MS",1032
+"bucket","SC42N","N243","nch","N"," ","wood or tin; has bail; would be a pail at the well","b¶Ωºkê±æt","MS",1032
+"well bucket","SC42N","N243","nch","N"," "," ","Âw≤æ∫Ï$Âb¶Ωºkê±øºt","MS",1032
+" ","SC42M"," "," "," "," "," "," "," ",1033
+"bucket","SC42A","243.1","nch","N","CNV"," ","Âb¶óºkê±t","MS",1034
+"bucket","SC42A","243.1","nch","N","CNV"," ","Âb∏kê±t","MS",1034
+"bucket","SC42A","243.1","nch","N"," "," ","b¶ºk±Ωt","MS",1034
+"cedar bucket","SC42A","243.1","nch","N"," "," ","sii´d∞$Âb¶Ωkê±øΩºt","MS",1034
+"bucket","SC42A","243.1","nch","N"," "," ","Âb¶óºkê±Ωæt","MS",1034
+"cedar bucket","SC42A","243.1","nch","N"," "," ","sii´d∞$Âb¶ºk±t","MS",1034
+"pail","SC42A","243.1","nch","N"," ","tin bucket for milking","p`e´∫{iø}Ï","MS",1034
+"milk can","SC42A","243.1","nch","N","CNV"," ","m±æ{¶}k$Âkà{j}`·˛´{≤˛}","MS",1034
+"pail","SC42B!","243.2!","nch","N"," ","bucket, pail: about same size; pail - tin, metal","Âp`e∫{iø}|Ï","MS",1035
+"bucket","SC42B!","243.2!","nch","N"," ","bucket, pail: about same size","Âb¶Ωkx±øºt","MS",1035
+"wooden bucket","SC42B!","243.2!","nch","N"," "," ","Âwπºdn$ıb¶Ωºk{x}±øΩºt","MS",1035
+"pail","SC42B!","243.2!","nch","N","CNV","bucket, pail: about same size; pail - tin, metal","p`e∫±øÏ","MS",1035
+"milk bucket","SC42C!","243.3!","nch","N"," "," ","myÏk$b∏´kê±øΩºt","MS",1036
+"milk pails","SC42C!","243.3!","nci","N"," "," ","mjyæÏk$Âpe∫±ø{j}Ïñz","MS",1036
+"wooden bucket","SC42C!","243.3!","nch","N"," "," ","Âwπº∫dn$Âb∏´kê±øΩºt","MS",1036
+"pail","SC42C!","243.3!","nch","N"," "," ","pe∫{±ø}j∞›Ï","MS",1036
+"bucket","SC42C!","243.3!","nch","N"," "," ","Âb∏´kê±ø´t","MS",1036
+"pail","SC42C!","243.3!","nch","N"," "," ","pe∫{±ø}Ï","MS",1036
+"bucket","SC42D!","243.4!","nch","Y","FDT","all shapes / [b∏´k∞è´t]: doubtful","b∏´k∞è´t","MS",1037
+"milk pail","SC42D!","243.4!","nch","N"," "," ","mj¶Ωº{l}k$pe∫±øl","MS",1037
+"tin pail","SC42D!","243.4!","nch","N"," ","tin pail, tin bucket: 50-50","t`±n$pe∫±øl","MS",1037
+"tin bucket","SC42D!","243.4!","nch","N"," ","tin pail, tin bucket: 50-50","t`±n$b∏´k±ø›t","MS",1037
+"bucket","SC42D!","243.4!","nch","Y","REP","all shapes","b∏´æk±ø't","MS",1037
+"lunch pail","SC42E!","243.5!","nch","N"," "," ","Âl∏´ntÛ$ıpe∫{±ø}Ï","MS",1038
+"bucket","SC42E!","243.5!","nch","N"," "," ","Âb∏´ºk±øºt","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"pail","SC43B","244.2","nch","N"," ","(water): of wood; two gallons","Âp`e´∫{¶}Ïñ","MS",1040
+"bucket","SC43B","244.2","nch","N","CNV"," ","b¶Ωx∞›t","MS",1040
+"bucket","SC43B","244.2","nch","N"," "," ","Âb¶óºkê±øºt","MS",1040
+"bucket","SC43B","244.2","nch","N"," "," ","Âb∏´k±øºt","MS",1040
+"water bucket","SC43B","244.2","nch","N"," "," ","w∂´∫oΩtê∞$ıb∏´k±øΩºt","MS",1040
+"wooden bucket","SC43B","244.2","nch","N"," "," ","wπΩºdn$Âb¶Ωx±øº{t}","MS",1040
+"bucket down","SC43B","244.2","nch","N"," ","sheet iron","Âb¶Ωx±øº{t}$da´æ∫on","MS",1040
+"pail","SC43B","244.2","nch","N"," ","(water): of wood; two gallons","Âp`e´∫{j}Ïñ","MS",1040
+"pails","SC43B","244.2","nci","N"," ","(milk): galvanized","Âp`e´∫{j}¶{Ï}z","MS",1040
+"water buckets","SC43B","244.2","nci","N"," "," ","w∂º∫tê¥$ıb¶xà±æts","MS",1040
+"well bucket","SC43C","244.3","nch","N"," "," ","w≤´¶{Ï}$b¶Ωk±øt","MS",1041
+"pail","SC43C","244.3","nch","N"," ","lerger","p`e´∫{iø}Ïñ","MS",1041
+"piggens","SC43C","244.3","nci","N"," ","different shape","p`±´g±øºnz","MS",1041
+"bucket","SC43C","244.3","nch","Y","NEW","new term","b¶Ωx±øΩºt","MS",1041
+"bucket","SC43C","244.3","nch","N"," ","see list","b¶Ωk±øt","MS",1041
+"milk pail","SC44A","245.1","nch","N"," "," ","Âmj±{¶}k$p`e∫iø{¶}","MS",1042
+"well buckets","SC44A","245.1","nci","N"," "," ","Âw≤´æÏ$ıb¶Ωk{x}±øºts","MS",1042
+"bucket","SC44A","245.1","nch","N"," "," ","b¶Ωk±øºt","MS",1042
+"milk bucket","SC44A","245.1","nch","N"," "," ","Âmj±{¶}k$Âb¶Ωk±øt","MS",1042
+"pail","SC44A","245.1","nch","N"," ","real one had lip?","p`e∫{¶}Ï","MS",1042
+"well bucket","SC44B","245.2","nch","N"," "," ","w≤´∫{∞}Ï$Âb¶Ωºk{x}±øºt","MS",1043
+"pail","SC44B","245.2","nch","N"," "," ","p`e∫iøÏ","MS",1043
+"milk pail","SC44B","245.2","nch","N"," "," ","m±´æ¶{Ï}k$Âp`e∫{iø}Ï","MS",1043
+"tin bucket","SC44B","245.2","nch","N"," "," ","t`±´n$b¶Ωkê±øºt","MS",1043
+"bucket of water","SC44B","245.2","nch","N"," "," ","b¶Ωkê±øº$∞$Âw∂´oΩtê∞","MS",1043
+"cedar bucket","SC44B","245.2","nch","N"," "," ","sii´d∞$Âb¶Ωk±øºt","MS",1043
+"bucket","SC44B","245.2","nch","N"," "," ","b¶ºk{x}±øºt","MS",1043
+"pail","SC44B","245.2","nch","N"," "," ","p`e∫{iø}Ï","MS",1043
+"milk pail","GA1N","N246","nch","N"," "," ","Âm±lk$ıpe∫{∞}l","MS",1044
+"pail","GA1N","N246","nch","N"," ","bucket, pail: same thing","p`e∫{∞}l","MS",1044
+"milk bucket","GA1N","N246","nch","N"," "," ","Âm±lk$b∏ºk±øt","MS",1044
+"bucket","GA1N","N246","nch","N"," ","bucket, pail: same thing","b∏´ºk±øt","MS",1044
+"wooden pail","GA1N","N246","nch","N"," "," ","ıwπºdn$Âp·´∫{∞}lç","MS",1044
+"dinner bucket","GA1A","246.1(*)","nch","Y","AUX"," ","d±˛{n}¥$b∏kà±øt","MS",1045
+"bucket","GA1A","246.1(*)","nch","Y","AUX"," ","b∏kà±øt","MS",1045
+"bucket","GA1A","246.1(*)","nch","N"," "," ","Âb∏kê±øºt","MS",1045
+"wooden buckets","GA1A","246.1(*)","nci","N"," ","pulley","Âwπ´ºdn$b∏k±øºts","MS",1045
+"wooden pail","GA1A","246.1(*)","nch","N"," ","wooden pail, tin pail: ""same damn thing¢","Âwπºdn$ıpe∫{∞}l","MS",1045
+"tin pail","GA1A","246.1(*)","nch","N"," ","wooden pail, tin pail: ""same damn thing¢","Ât`±∫{∞}n$ıpe∫{∞}l","MS",1045
+"pail","GA1B","246.11","nch","N"," ","metal","p`e∫{∞}l","MS",1046
+"bucket","GA1B","246.11","nch","N","AUX","wooden","b∏´k±øt","MS",1046
+"buckets","GA1C","246.2","nci","N"," "," ","b∏ók±øºts","MS",1047
+"cedar buckets","GA1C","246.2","nci","N"," "," ","Âsi∫d∞$ıb∏∫k±øºts","MS",1047
+"pail","GA1C","246.2","nch","N"," "," ","p`e∫{∞}l","MS",1047
+"aluminum pail","GA1C","246.2","nch","N"," "," ","∞Âluø∫wm±øn∞Ωm$p`e∫{∞}l","MS",1047
+"cedar buckets","GA1D","246.3","nci","N"," ","for water at house","Âsi∫d∞$ıb∏k±øºts","MS",1048
+"buckets","GA1D","246.3","nci","N","CNV","oak","b∏k±øºts","MS",1048
+"pail","GA1D","246.3","nch","N"," ","metal","p`e´∫{∞}l","MS",1048
+"bucket","GA1E","246.4","nch","N"," "," ","Âb¶Ωk±øΩt","MS",1049
+"wooden bucket","GA1E","246.4","nch","N"," "," ","Âwπºdn$ıb¶Ωk±ø›ºt","MS",1049
+"pail","GA1E","246.4","nch","N"," ","metal, shiny; dipper","p`e∫{∞}l","MS",1049
+"pail","GA1F!","246.5!","nch","N"," ","milk only","pe´∫{∞}l","MS",1050
+"lunch box","GA1F!","246.5!","nch","Y","INA"," ","lç∏ΩntÛ$bﬁks","MS",1050
+"bucket","GA1F!","246.5!","nch","N"," "," ","b∏Ωkà±øt","MS",1050
+"bucket","GA1G!","246.6!","nch","N","CNV","pumps","b∏ºk±øºt","MS",1051
+"pail","GA1H!","246.7!","nch","N"," ","don't use for water","p`e´∫l","MS",1052
+"bucket","GA1H!","246.7!","nch","N"," "," ","Âb∏´k{x}±øºt","MS",1052
+"pail","GA1H!","246.7!","nch","N"," ","don't use for water","p`e∫¶l","MS",1052
+"milk pail","GA1H!","246.7!","nch","N"," "," ","m±Ωælk$p`e´∫∞l","MS",1052
+"cedar buckets","GA2N","N247","nci","N"," ","sweep pole hand","Âsi∫d∞$ıb∏´k±øºts","MS",1053
+"bucket","GA2N","N247","nch","N"," ","lunch","b∏´ºk±øºt","MS",1053
+"milk bucket","GA2N","N247","nch","N"," "," ","Âm{j}±øÏk$ıb∏ºk±øºt","MS",1053
+"buckets","GA2N","N247","nci","N"," ","sweep pole hand","Âb∏´ºk±øºts","MS",1053
+"gourd","GA2A","247.1","nch","N"," ","for milking","goéº∫¥d","MS",1054
+"bucket","GA2A","247.1","nch","N"," "," ","b∏ºk±øºt","MS",1054
+"bucket","GA2B","247.2","nch","N"," "," ","b∏ºk±øºt","MS",1055
+"lunch bucket","GA3A","248.1","nch","N"," "," ","{l}{∏Ωæ}$b∏Ωækà±øΩæt","MS",1056
+"pail","GA3A","248.1","nch","N"," ","no handle, set on head","Âpe´∫{∞}l","MS",1056
+"bucket","GA3A","248.1","nch","N"," "," ","Âb∏Ωækà±øΩt","MS",1056
+"tin bucket","GA3B","248.2","nch","N"," "," ","t±´n$ıb±øΩæk{x}±øºt","MS",1057
+"cedar pails","GA3B","248.2","nci","N"," ","stave handle, milked in","Âsi∫d∞$ıpe´∫{∞}lz","MS",1057
+"cedar bucket","GA3B","248.2","nch","N"," "," ","ısi∫d∞$Âb±øΩæk{x}±øºt","MS",1057
+"bucket","GA3B","248.2","nch","N"," "," ","Âb∏´k{x}±øºt","MS",1057
+"pail","GA4N","N249","nch","N"," ","as a boy always; wood with wire bail","pe´∫{∞}l","MS",1058
+"bucket","GA4N","N249","nch","N"," "," ","b∏Ωækà±øt","MS",1058
+"milk pail","GA4A","249.1","nch","N"," ","tin","Âm±ølçk$ıpe∫{∞}l","MS",1059
+"milk buckets","GA4A","249.1","nci","N"," "," ","Âm±ø´ºlçk$ıb∏k{x}±øºts","MS",1059
+"oaken bucket","GA4A","249.1","nch","N"," ","curbing ???","ıo´∫{∞}k{x}Ó$Âb∏Ωk{x}±øºt","MS",1059
+"well bucket","GA4A","249.1","nch","N"," ","bail on it","Âw≤∫{∞}l$ıb∏Ωk{x}±øºt","MS",1059
+"bucket","GA4A","249.1","nch","N"," ","curbing ???","Âb∏Ωkê±øºt","MS",1059
+"milk pails","GA4A","249.1","nci","N"," "," ","Âm±øºlçk$ıpe∫lz","MS",1059
+"piggen","GA4B","249.2","nch","Y","SUG/HRD"," ","p±Ωg∞´n","MS",1060
+"wooden buckets","GA4B","249.2","nci","N"," "," ","Âwπºdn$ıb∏Ωºkê±øºts","MS",1060
+"tin buckets","GA4B","249.2","nci","N"," "," ","Ât±´{∞}n$ıb•ækê±øºts","MS",1060
+"springs","GA4B","249.2","nci","Y","INA/CNV"," ","sprè±´{∞}Óz","MS",1060
+"bucket","GA4B","249.2","nch","N"," "," ","Âb•ækê±ø›t","MS",1060
+"bucket","GA4C!","249.3!","nch","N"," ","wells curbed with solid cypress","Âb∏Ωk{x}±øºt","MS",1061
+"milk pans","GA4C!","249.3!","nci","N"," "," ","Âm{j}±ø{©}k$ıp·Ω{∞}nz","MS",1061
+"wooden bucket","GA4C!","249.3!","nch","N"," "," ","Âwπº{∞}dn$ıb∏Ωk{x}±øºt","MS",1061
+"cedar buckets","GA4C!","249.3!","nci","N"," ","wells curbed with solid cypress","Âsi∫d∞$ıb∏ó´k{x}±øºts","MS",1061
+"milk pails","GA4C!","249.3!","nci","N"," ","tin; for milking","Âm{j}±ø{©}k$pe´∫{l}z","MS",1061
+"pailing","GA5A","250.1","nch","N","SIC"," ","pe∫lç±øºÓ","MS",1062
+"bucket","GA5A","250.1","nch","N"," ","wooden","b∏óΩk{x}±øºt","MS",1062
+"piggen","GA5A","250.1","nch","Y","HRD","didn't call it at home","p±´gà±øºn","MS",1062
+"bucket","GA5B","250.2","nch","N"," "," ","b•æk{x}±øºt","MS",1063
+"milk buckets","GA5C","250.3","nci","N"," "," ","Âm{j}±ølçk$ıb∏ºkà{xà}±øºts","MS",1064
+"bucket","GA5C","250.3","nch","N"," ","""we didn't have¢","b∏´ºkê±øºt","MS",1064
+"bucket","GA5D!","250.4!","nch","N"," ","crane or windlass","b∏k{x}±øºt","MS",1065
+"tin buckets","GA5D!","250.4!","nci","N"," ","for milk; pumps","Ât±´{∞}n$ıb∏k{x}±øºts","MS",1065
+"tin pails","GA5E!","250.5!","nci","N"," "," ","Ât±´{∞}n$ıpe∫{∞}lz","MS",1066
+"tin buckets","GA5E!","250.5!","nci","N"," "," ","t±º{∞}n$ıb∏ó´k{x}±øºts","MS",1066
+"oaken buckets","GA5E!","250.5!","nci","N"," "," ","Âπóº∫{∞}k∞´n$ıb∏ó´k{x}±øºts","MS",1066
+"piggen","GA6A","251.1","nch","N"," ","cedar","p±´gà±øºn","MS",1067
+"bucket","GA6A","251.1","nch","N"," ","sweep","b∏ºk{x}±øºt","MS",1067
+"piggen","GA6A","251.1","nch","N"," ","cedar","piΩgà±øºn","MS",1067
+"water bucket","GA6A","251.1","nch","N"," ","sweep","Âw∑´º∫{∞}tê∞´æ$ıb∏ºk{x}±øºt","MS",1067
+"tin saucepans","GA6B!","251.2!","nci","N"," "," ","Ât`±´{∞}n$ıs∑Ω{∞}sp∞´nz","MS",1068
+"tin buckets","GA6B!","251.2!","nci","N"," "," ","Ât±´{∞}n$ıb∏´º{∞}k{x}±øºts","MS",1068
+"buckets","GA6B!","251.2!","nci","N"," ","sweeps, on most wells","b∏´ºk{x}±øºts","MS",1068
+"tin buckets","GA7","256","nci","N"," ","2 quarts","Ât`±´{∞}n$ıb∏ó´º{∞}k{x}±øºts","MS",1069
+"keelers","GA7","256","nci","N"," ","old name for pail","kài∫lç∞é´æz","MS",1069
+"pail","GA7","256","nch","N"," ","one stave for handle","pe´∫lç","MS",1069
+"gourds","GA7","256","nci","N"," ","used to milk in, and keep milk","goº∫πºdz","MS",1069
+"bucket","GA7","256","nch","N"," ","made out of ?????? (cypress knees)","b∏ó´º{∞}kà{xà}±øºt","MS",1069
+"bucket","GA8A","257.1","nch","N"," ","cypress knees; brick well; windlass","Âb•´æk{x}∞´t","MS",1070
+"gourds","GA8A","257.1","nci","N"," "," ","go´∫dz","MS",1070
+"pure gourds","GA8A","257.1","nci","N"," "," ","Âpjuø∫∞$ıgo´∫{π}dz","MS",1070
+"bucket","GA8B","257.2","nch","N"," "," ","b∏´k{x}±øºt","MS",1071
+"keels","GA8B","257.2","nci","N"," ","tub (brass bands)","ki´lçz","MS",1071
+"tin bucket","GA8B","257.2","nch","N"," "," ","Ât`±´{∞}n$ıb∏´{∞}k{x}±øºt","MS",1071
+"dinner pail","GA8B","257.2","nch","N"," "," ","Âd±´{∞}n∞é$ıpe∫{∞}Ï","MS",1071
+"metal bucket","GA8B","257.2","nch","N"," ","long, curled handle for hand","Âm≤´t{h}l$ıb∏´k{x}±øºt","MS",1071
+"cypress bucket","GA8B","257.2","nch","N"," "," ","Âsaæ∫±øpr±s$b∏´k{x}±øºt","MS",1071
+"milking gourd","GA8B","257.2","nch","N"," "," ","Âm{j}±ø{Ï}k±øºn$ıgo´∫¥d","MS",1071
+"milking pail","GA8B","257.2","nch","N"," "," ","Âm{j}±ø{Ï}k±øºn$ıpe∫{±ø}Ï","MS",1071
+"wooden bucket","GA9A","257A.1","nch","N"," ","to carry water","wπºdn$b∏´ºk±øt","MS",1072
+"metal buckets","GA9A","257A.1","nci","N"," "," ","m≤Òl$b∏´ºk±øts","MS",1072
+"plastic buckets","GA9A","257A.1","nci","N"," "," ","pl·st±øk$b∏´ºk±øts","MS",1072
+"bucket","GA9A","257A.1","nch","N"," "," ","b∏´ºk±øt","MS",1072
+"zinc buckets","GA9A","257A.1","nci","N"," "," ","z±Ók$b∏´ºk±øts","MS",1072
+"dinner buckets","GA9A","257A.1","nci","N"," "," ","Âd±n¥$ıb∏´ºk±øts","MS",1072
+"bucket","GA9B","257A.2","nch","N"," ","water shelf on porch, for buckets","b∏´ºk±øt","MS",1073
+"aluminum bucket","GA9B","257A.2","nch","N"," "," ","Ïuøæ∫m∞›n∞›n$b∏´ºk±øt","MS",1073
+"a bail bucket","GA9B","257A.2","nch","N"," "," ","∞Âbe{±ø}Ï$b∏´ºk±øt","MS",1073
+"bucket","GA10A","258.1","nch","N"," ","bail","b∏´º∫kà±øt","MS",1074
+"pail","GA10A","258.1","nch","Y","OLD","old; stave up for handle","p{h}e∫{∞}l","MS",1074
+"dinner bucket","GA10A","258.1","nch","N"," "," ","Âd±n¥˛$b∏´ºkà±øt","MS",1074
+"milk gourds","GA10B","258.2","nci","N"," ","for storage","Âm{j}±ølk$ıgoº∫∞édz","MS",1075
+"bucket","GA10B","258.2","nch","N"," "," ","b¶ºk{x}±øºt","MS",1075
+"wood bucket","GA10B","258.2","nch","N"," "," ","ÂwuΩº$ıb¶Ωºk{x}±øºt","MS",1075
+"tin bucket","GA10B","258.2","nch","N"," "," ","Ât`±´n$ıb¶óΩk{x}±øt","MS",1075
+"buckets","GA11N","N258A","nci","N"," "," ","b∏´ºk±øts","MS",1076
+"wooden buckets","GA11N","N258A","nci","N"," "," ","Âwπºdn$b∏´ºk±øts","MS",1076
+"pails","GA11N","N258A","nci","N"," "," ","p`e{±ø}{∞}Ïz","MS",1076
+"pail","GA11N","N258A","nch","N"," "," ","p`e{∞}Ï","MS",1076
+"water buckets","GA11N","N258A","nci","N"," "," ","w∑Ωotê∞$b∏´ºk±øts","MS",1076
+"bucket","GA11N","N258A","nch","N"," "," ","b∏´ºk±øºt","MS",1076
+"bucket","GA12A","259.1","nch","N","CNV","generally of wood","b¶Ωkê±øºt","MS",1077
+"pails","GA12A","259.1","nci","N"," ","generally of tin","p`e∫{∞}Ïz","MS",1077
+"pail","GA12A","259.1","nch","N"," ","generally of tin","Âp`e∫{±ø}Ï","MS",1077
+"bucket","GA12A","259.1","nch","N"," ","generally of wood","b¶Ωk±øºt","MS",1077
+"milk buckets","GA12A","259.1","nci","N"," "," ","Âmj±ø{Ï}k$ıb¶Ωk±øºts","MS",1077
+"bucket","GA12B!","259.2(.3)","nch","N"," ","totin' water, drawing water out of wells","Âb∏´ºk±øºt","MS",1078
+"milk pail","GA12B!","259.2(.3)","nch","N"," "," ","m±øÏk$ıpe{±ø}Ï","MS",1078
+"bucket","GA12B!","259.2(.3)","nch","N"," "," ","m±øÏk$Âb∏´ºk±øºt","MS",1078
+"pail","GA13A","260.1","nch","N"," ","large, for milk","pe´∫{∞}l","MS",1079
+"piggin","GA13A","260.1","nch","N"," ","one stave up for a handle","p±gà±øn","MS",1079
+"bucket","GA13A","260.1","nch","N"," "," ","b∏Ωækà±ø´t","MS",1079
+"dinner bucket","GA13A","260.1","nch","N"," "," ","d±Ωn∞$b∏Ωækà±øt","MS",1079
+"milk buckets","GA13B!","260.2!","nci","N"," "," ","m{j}±lk$ıb∏ºkê±øºts","MS",1080
+"tin buckets","GA13B!","260.2!","nci","N"," "," ","Ât±´n$ıb∏ºkê±øºts","MS",1080
+"the buckets","GA13B!","260.2!","nci","N","CNV/SIC"," ","‰±ø$Âb±øΩk{x}±øºts","MS",1080
+"water bucket","GA13B!","260.2!","nch","N"," ","cedar, usually","Âw∑´∫{∞}tê∞é´$ıb∏ºk{x}±øºt","MS",1080
+"piggin","GA13B!","260.2!","nch","N"," ","one stave longer","Âp±´g±øΩn","MS",1080
+"piggin","GA13B!","260.2!","nch","N"," ","one stave longer","Âp±´ºgà±øºn","MS",1080
+"big gourd","GA14A","261.1","nch","N"," "," ","Âb±´{∞}g$ıgoº∫πºd","MS",1081
+"tin bucket","GA14A","261.1","nch","N"," "," ","Ât`±´{∞}n$ıb∏´k±øºt","MS",1081
+"bucket","GA14A","261.1","nch","N"," ","well sweep, windlass","b∏´k±øºt","MS",1081
+"piggin","GA14A","261.1","nch","N"," ","one long stave; not common","Âp`±´{∞}g±øºn","MS",1081
+"water bucket","GA14B","261.3","nch","N"," "," ","Âw∑º∫{∞}tê∞$ıb¶Ω{∞}k±øºt","MS",1082
+"water bucket","GA14B","261.3","nch","N"," "," ","Âw∑º∫{∞}tê∞$ıb¶Ωk±øºt","MS",1082
+"pail","GA14B","261.3","nch","N"," "," ","p`e∫{±ø}Ï","MS",1082
+"bucket","GA14B","261.3","nch","N"," "," ","b¶Ωk±øºt","MS",1082
+"well sweep","GA14B","261.3","nch","Y","INA/CNV"," ","Âw≤´{∞}Ï$ıswi∫jp","MS",1082
+"cedar buckets","GA14C","261.2","nci","N"," "," ","Âsi∫jd∞$ıb∏´k±øºts","MS",1083
+"gourd","GA14C","261.2","nch","N"," "," ","goº∫πºd","MS",1083
+"tin bucket","GA14C","261.2","nch","N"," ","with strainer on one side, in head","t`±´{∞}n$ıb∏´k±øºt","MS",1083
+"bucket","GA14C","261.2","nch","N","CNV"," ","b∏´ºk±øºt","MS",1083
+"buckets","GA14C","261.2","nci","N"," "," ","Âb∏ºk±øºts","MS",1083
+"Sunday buckets","GA14C","261.2","nci","N"," "," ","Âs∏´{∞}nd±ø´º$ıb∏ºk±øºts","MS",1083
+"well buckets","GA14C","261.2","nci","N"," "," ","Âw≤´{∞}Ï$ıb∏´k±øºts","MS",1083
+"bucket","GA14C","261.2","nch","N"," "," ","b∏´k±øºt","MS",1083
+"tin bucket","GA14C","261.2","nch","N"," "," ","t`±´{∞}n$ıb∏´k±øºt","MS",1083
+"water pail","GA14C","261.2","nch","N"," ","wood","Âw∑º∫{∞}tê∞$ıp`e∫{±ø}Ï","MS",1083
+"tin buckets","GA15A","262.1","nci","N"," "," ","t±{∞}n$b∏kà±øΩts","MS",1084
+"bucket","GA15A","262.1","nch","N"," "," ","b∏kà±øΩt","MS",1084
+"pail","GA15A","262.1","nch","N"," ","wooden stave up for handle","pe´∫{±ø}Ï","MS",1084
+"bucket","GA15B","262.2","nch","N"," ","wood","b¶Ω{x}±øºt","MS",1085
+"bucket","GA15B","262.2","nch","N","CNV","wood","b¶ºk{x}±øºt","MS",1085
+"pails","GA15B","262.2","nci","N"," ","mostly tin, handle","p`e´∫{±ø}lz","MS",1085
+"bucket","GA15B","262.2","nch","N"," ","wood","Âb¶Ωk{x}±øºt","MS",1085
+"bucket","GA16A","263.2","nch","N"," ","windlass","Âb∏´{∞}kx±øºt","MS",1086
+"wooden bucket","GA16A","263.2","nch","N"," ","windlass","wπº{∞}dn$b∏´k{x}±øºt","MS",1086
+"piggen","GA16A","263.2","nch","N"," ","in wood, brass hoops, long stave for handle","p`±´g±øºn","MS",1086
+"tin bucket","GA16A","263.2","nch","N"," ","later, for milking","t`±´{∞}n$b∏´k{x}±øºt","MS",1086
+"cedar bucket","GA16B","263.1","nch","N"," "," ","Âsi∫d∞$b¶Ω{∞}k{x}±øºt","MS",1087
+"bucket","GA16B","263.1","nch","N"," ","windlass","Âb¶Ω{∞}k{x}±øºt","MS",1087
+"piggens","GA16B","263.1","nci","Y","HRD"," ","p`±´gà±øºnz","MS",1087
+"brass bound bucket","GA16B","263.1","nch","N"," "," ","Âbr·{∞}s$ıba´∫o›ºn$Âb¶Ω{∞}k{x}±øºt","MS",1087
+"milk pails","GA16B","263.1","nci","N"," ","""we called 'em churns¢","Âm{j}±ølk$ıpe´∫{∞}lz","MS",1087
+"bucket","GA16C","263.21","nch","N"," ","both same","b∏´k±øt","MS",1088
+"pail","GA16C","263.21","nch","N"," ","both same","p`e{±ø}l","MS",1088
+"wooden buckets","GA16D!","263.3!","nci","N"," ","in pasture","Âwπºdn$ıb∏´k{x}±øºts","MS",1089
+"milk buckets","GA16D!","263.3!","nci","N"," "," ","Âmj±øÏk$ıb∏´k{x}±øºt","MS",1089
+"oak buckets","GA16D!","263.3!","nci","N"," "," ","oº∫k$b∏´k{x}±øºts","MS",1089
+"buckets","GA16D!","263.3!","nci","N"," "," ","b∏ók{x}±øºts","MS",1089
+"bucket","GA17N","N264","nch","N","CNV"," ","b∏´k{x}±øºt","MS",1090
+"bucket","GA17","264","nch","N"," "," ","b∏´ºk±øºt","MS",1091
+"pail or bucket","GA17","264","nch","N"," "," ","p`e{±}l$∑∞$b∏{∞}gk±øt","MS",1091
+"bucket","GA18A","264A.1","nch","N"," "," ","Âb∏´ºk±øºt","MS",1092
+"pail","GA18A","264A.1","nch","Y","SUG"," ","p`e{±}Ï","MS",1092
+"jug","GA18A","264A.1","nch","N"," "," ","d˙∏´º{∞}g","MS",1092
+"milk bucket","GA18A","264A.1","nch","N"," "," ","m{±}±ølk$Âb∏´ºk±øºt","MS",1092
+"zinc bucket","GA18B","264A.2","nch","N"," "," ","z±Ók$b∏´ºk{x}±øºt","MS",1093
+"wood bucket","GA18B","264A.2","nch","N"," "," ","wπºd$b∏´ºk{x}±øºt","MS",1093
+"pail","GA18B","264A.2","nch","Y","SUG","same as bucket but less common","p`e{±ø}Ï","MS",1093
+"enamel bucket","GA18B","264A.2","nch","N"," "," ","±øÂn·m∞Ï$b∏´ºk{x}±øºt","MS",1093
+"bucket","GA18B","264A.2","nch","N"," "," ","b∏´ºk{x}±øºt","MS",1093
+"cedar buckets","GA19A","265.1","nci","N"," "," ","Âsi∫{j}d∞$ıb¶Ωk{x}±øºts","MS",1094
+"bucket","GA19A","265.1","nch","N"," ","firkin, sweep","Âb¶Ω{∞}k{x}±øºt","MS",1094
+"water bucket","GA19A","265.1","nch","N"," "," ","Âw∑Ω∑t¥$ıb¶Ω{∞}k{x}±øºt","MS",1094
+"bucket","GA19A","265.1","nch","N"," "," ","b¶Ω{∞}k{x}±è›Á","MS",1094
+"gourds","GA19A","265.1","nci","N"," "," ","goº∫rdz","MS",1094
+"wooden pail","GA19A","265.1","nch","N"," "," ","Âwπº{∞}dn$ıpe∫©","MS",1094
+"well bucket","GA19B","265.2","nch","N"," "," ","Âw≤´{∞}l$ıb¶Ωº{∞}k{x}±øºt","MS",1095
+"tin buckets","GA19B","265.2","nci","N"," ","for milking","Ât±´{∞}n$ıb¶Ωº{∞}kx±øºts","MS",1095
+"bucket","GA19B","265.2","nch","N"," "," ","b¶Ωº{∞}k{x}±øºt","MS",1095
+"homemade bucket","GA19B","265.2","nch","N"," "," ","Âho´º∫{πº}ıme∫{±æ}d$Âb¶Ωº{∞}k{x}±ø›t","MS",1095
+"bucket","GA20A","266.1","nch","N"," ","sweep","Âb¶Ωk{x}±øºt","MS",1096
+"gourds","GA20A","266.1","nci","N"," "," ","go´∫¥ádz","MS",1096
+"oak buckets","GA20A","266.1","nci","N"," "," ","Âo´º∫{∞}k$ıb¶Ω{∞}k{x}±øºts","MS",1096
+"tin bucket","GA20A","266.1","nch","N"," "," ","ıt≤´{∞}n$b¶Ω{∞}k{x}±øºt","MS",1096
+"milk gourds","GA20A","266.1","nci","N"," "," ","mj±øº{©}k$go´∫¥ádz","MS",1096
+"milk bucket","GA20A","266.1","nch","N"," "," ","Âmj±øº{l}k$b¶Ω{∞}k{x}±øºt","MS",1096
+"old oaken bucket","GA20B","266.2","nch","Y","AMS"," ","Âoº∫{πº}l$ıoº∫{πº}kÁÓ$Âb¶Ω{∞}k±øºt","MS",1097
+"tin bucket","GA20B","266.2","nch","Y","NEW"," ","Ât±´{∞}n$ıb¶Ω{∞}k{x}±øºt","MS",1097
+"milk pails","GA20B","266.2","nci","N"," ","wood","Âm{j}±ø©k$ıpe∫±ælz","MS",1097
+"bucket","GA20B","266.2","nch","N"," "," ","b¶Ω{∞}k{x}±øºt","MS",1097
+"bucket","GA21A","267.1","nch","N"," ","pail, bucket: metal","b∏º{¶}k±øt","MS",1098
+"bucket","GA21A","267.1","nch","N"," "," ","b∏´ºk{x}±øΩt","MS",1098
+"cedar bucket","GA21A","267.1","nch","N"," ","for drinking water","Âsi∫d∞$b∏´ºk{x}±øΩt","MS",1098
+"water bucket","GA21A","267.1","nch","N"," "," ","w∑ΩÒ∞$b∏´ºk{x}±øΩt","MS",1098
+"pail","GA21A","267.1","nch","N"," ","pail, bucket: metal","p`e∫{∞}l","MS",1098
+"wooden buckets","GA21B","267.2","nci","N"," ","windlass, tickle and chain, sweep","Âwπºdn$ıb¶Ωk{x}±øºts","MS",1099
+"tin bucket","GA21B","267.2","nch","N"," ","for milk","Ât`±´n$ıb¶Ωk{x}±øºt","MS",1099
+"wooden buckets","GA21B","267.2","nci","N"," ","windlass, tickle and chain, sweep","w¶ó›ºdn$Âb¶Ωk{x}±øºts","MS",1099
+"pail","GA22A","268A.1","nch","N"," "," ","p`e∫±øÏ","MS",1100
+"bucket","GA22A","268A.1","nch","Y","COR","wood or metal, rather than pail","b¶Ωºk±øt","MS",1100
+"milk bucket","GA22B","268A.2","nch","Y","FDT","[{Ï}]: doubtful","Âm{j}±ø{Ï}k$ıb¶Ωk{x}±øºt","MS",1101
+"wooden bucket","GA22B","268A.2","nch","N"," ","stouter","Âwπº{∞}dn$ıb¶Ω{∞}k{x}±øºt","MS",1101
+"buckets","GA22B","268A.2","nci","N"," ","windlass","Âb¶Ωk{x}±øºts","MS",1101
+"wooden pail","GA23A","268.1","nch","N"," ","metal bucket, milking","Âwπº∞dn$ıpe∫{±ø}l","MS",1102
+"bucket","GA23A","268.1","nch","N"," ","windlass","Âb¶Ω{∞}k{x}±øºt","MS",1102
+"metal bucket","GA23A","268.1","nch","N"," ","bail, just like weel bucket","Âm≤´têl$ıb∏´{∞}kx±øºt","MS",1102
+"wooden buckets","GA23A","268.1","nci","N"," ","in country","Âwπ´º{∞}dn$ıb∏´{∞}kx±øºts","MS",1102
+"water ramp","GA23A","268.1","nch","N"," ","ram","Âw∑Ω{∞}Ò∞$ır·∫{∞}mp","MS",1102
+"bucket","GA23B","268.11","nch","N"," ","bucket, pail: same, for either","b∏´k±øt","MS",1103
+"pail","GA23B","268.11","nch","N"," ","bucket, pail: same, for either","p`e∫{±ø}Ï","MS",1103
+"pitcher","GA23B","268.11","nch","N"," ","for milk","p`±tÛ∞","MS",1103
+"wooden bucket","GA23C","268.2","nch","N"," "," ","wπø´ædn$b∏´ºk±øt","MS",1104
+"metal bucket","GA23C","268.2","nch","N"," "," ","m≤têl$b∏´ºk±øt","MS",1104
+"pail","GA23C","268.2","nch","N"," "," ","p`e{±ø}l","MS",1104
+"bucket","GA23C","268.2","nch","N"," "," ","b∏´ºk±øt","MS",1104
+"bucket","GA23D!","268.3","nch","N"," ","well sweeps","b¶Ω{∞}kà{xà}±øºt","MS",1105
+"tin pails","GA23D!","268.3","nci","N"," ","later","Ât±Ω{∞}n$ıpe∫{∞}Ïz","MS",1105
+"piggen","GA23D!","268.3","nch","N"," "," ","p±´gà±øºn","MS",1105
+"noggin","GA23D!","268.3","nch","N"," "," ","nµæ{∞}g±øºn","MS",1105
+"bucket","GA23E!","268.4!","nch","N"," ","wood or tin","Âb∏´k±øt","MS",1106
+"pail","GA23E!","268.4!","nch","N"," ","less frequently","Âp`e{±ø}{∞}Ï","MS",1106
+"bucket","GA23F!","268.5!","nch","N"," "," ","Âb∏´ºk±ø't","MS",1107
+"pail","GA23F!","268.5!","nch","N"," "," ","p`e∫{∞}l","MS",1107
+"bucket","GA24N","N269","nch","N"," "," ","b∏´ºk±øºt","MS",1108
+"tin bucket","GA24A","269.1","nch","N"," "," ","t±{∞}n$b¶óΩº∫kà±øΩt","MS",1109
+"bucket","GA24A","269.1","nch","N"," "," ","b¶óΩº∫kà±øΩt","MS",1109
+"wooden bucket","GA24B","269.2","nch","N"," ","??????","ÂwuΩºdn$ıb¶Ωk{x}±øºt","MS",1110
+"milk bucket","GA24B","269.2","nch","N"," "," ","Âmj±ø©k$ıb¶ók{x}±øºt","MS",1110
+"tin bucket","GA24B","269.2","nch","Y","NEW","??????","Ât`±´n$ıb¶Ωx±øºt","MS",1110
+"milk pail","GA24B","269.2","nch","N"," "," ","Âmj±ø©k$ıp`e∫{±ø}lç","MS",1110
+"pail","GA25N","N269A","nch","N"," "," ","p`e±øl","MS",1111
+"water bucket","GA25N","N269A","nch","N"," "," ","Âw∑otê∞$ıb∏´ºk±øt","MS",1111
+"milk pail","GA25N","N269A","nch","N"," ","pailful: of tomatoes","m{i}±øk$p`e±øl","MS",1111
+"pail","GA26","270A","nch","N"," ","less common","pe{±}l","MS",1112
+"wooden bucket","GA26","270A","nch","N"," "," ","wπºdn$b¶Ωk{x}±øºt","MS",1112
+"water bucket","GA26","270A","nch","N"," "," ","Âw∑Ω∑´tê∞$ıb∏´ºk±øºt","MS",1112
+"tin bucket","GA26","270A","nch","N"," "," ","Ât`±∫n$ıb¶Ωk{x}±øºt","MS",1112
+"bucket","GA27!","270!","nch","N"," "," ","Âb∏´ºk{x}±øºt","MS",1113
+"pail","GA27!","270!","nch","N"," "," ","p`eΩ±øl","MS",1113
+"water bucket","GA28","271a","nch","N"," "," ","w∂∑tê∞$ıb∏´ºkê±øt","MS",1114
+"tin pail","GA28","271a","nch","N"," "," ","Ât`±n$pe{±ø}Ï","MS",1114
+"bucket","GA28","271a","nch","N"," "," ","Âb∏´ºkê±øt","MS",1114
+"tin bucket","GA28","271a","nch","N"," "," ","Ât`±n$ıb∏´ºk±øt","MS",1114
+"tin bucket","GA29A","271.1","nch","N"," ","for milking","Ât±´n$ıb¶óºkó{x}±øºt","MS",1115
+"wooden bucket","GA29A","271.1","nch","N"," ","windlass","Âwπºdn$ıb¶óºk{x}±øºt","MS",1115
+"bucket","GA29A","271.1","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",1115
+"tin bucket","GA29B","271.2","nch","N"," "," ","Ât±´{∞}n$ıb∏´k{x}±øºt","MS",1116
+"bucket","GA29B","271.2","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",1116
+"wooden bucket","GA30A","272.1(*)","nch","N"," "," ","Âwπº{∞}dn$ıbπº{∞}kx±øºt","MS",1117
+"well bucket","GA30A","272.1(*)","nch","N"," "," ","w≤´{∞}Ï$ıbπΩº{∞}k{x}±øºt","MS",1117
+"cedar bucket","GA30A","272.1(*)","nch","N"," ","for milking","Âsi∫{j}d∞$ıb¶Ωº{∞}kx±øºt","MS",1117
+"pails","GA30A","272.1(*)","nci","N"," ","in house","Âp`e∫±øÏz","MS",1117
+"homemade bucket","GA30A","272.1(*)","nch","N"," "," ","Âho´{π}ıme´∫±ød$bπºk{x}±øºt","MS",1117
+"bucket","GA30A","272.1(*)","nch","N"," "," ","b¶Ω{∞}kx±øºt","MS",1117
+"water bucket","GA30A","272.1(*)","nch","N"," "," ","w∂´∑tê∞$b¶Ω{∞}kx±øºt","MS",1117
+"tin bucket","GA30A","272.1(*)","nch","N"," "," ","t`±´∫{∞}n$ıb¶Ω{∞}kx±øºt","MS",1117
+"piggin","GA30B","272.2(*)","nch","N"," ","""I've forgotten what we did use it for¢","p`±´gà±øºn","MS",1118
+"bucket","GA30B","272.2(*)","nch","N"," "," ","b¶Ωº{∞}kx±øºt","MS",1118
+"milk pail","GA30B","272.2(*)","nch","N"," ","wooden; had a handle (bent stave)","Âm{j}±ø´Ïk$ıp`e∫{±ø}l","MS",1118
+"bucket","GA30B","272.2(*)","nch","N","CNV"," ","b¶Ω{∞}kx±øºt","MS",1118
+"bucket","GA30C!","272.3!","nch","N"," ","metal or wood","b∏´ºk±øºt","MS",1119
+"wooden buckets","GA30D"," ","nci","N"," "," ","wπº{∞}dn$Âb¶Ωkx±øºts"," ",1120
+"buckets","GA30D"," ","nci","N"," "," ","Âb¶Ωkx±øºts"," ",1120
+"piggin","GA30D"," ","nch","N"," ","one stave longer than other","p`±´{∞}gà±øºn"," ",1120
+"tin buckets","GA30D"," ","nci","N"," "," ","Ât`±´∫{∞}n$Âb¶Ω{∞}kx±øºts"," ",1120
+"milk buckets","GA30D"," ","nci","N"," "," ","mj±øÏk$ıb¶Ω{∞}kx±øºts"," ",1120
+"cedar buckets","GA30D"," ","nci","N"," "," ","si∫{j}d∞$Âb¶Ωkx±øºts"," ",1120
+" ","GA30E"," "," "," "," "," "," "," ",1121
+"water pail","GA31","272A","nch","N"," ","wood","Âwﬁótê∞$ıp`e±øÏ","MS",1122
+"milk buckets","GA31","272A","nci","N"," "," ","m{±}±øÏk$ıb∏´ºk±øts","MS",1122
+"water bucket","GA31","272A","nch","N"," ","metal","Âwﬁótê∞$b∏´ºk±øt","MS",1122
+"aluminum water bucket","GA32","272B","nch","N"," "," ","∞luø{uø´}m∞´n∞´m$w∑Ω∑tê∞$Âb∏´k{x}±øºt","MS",1123
+"water bucket","GA32","272B","nch","N"," "," ","w∑Ω∑t∞$b∏´k{x}±øºt","MS",1123
+"bucket","GA32","272B","nch","N"," "," ","b∏´ºk{x}±øºt","MS",1123
+"bucket","GA32","272B","nch","N"," "," ","b∏´k{x}±øºt","MS",1123
+"pail","GA33A","272C1","nch","N"," ","same as bucket; jug for milk","p`e{±ø}{∑}Ï","MS",1124
+"bucket","GA33A","272C1","nch","N"," ","wood, metal, or cedar","b∏´ºk{x}±øt","MS",1124
+"bucket","GA33A","272C1","nch","N"," ","wood, metal, or cedar","b∏´ºk±øºt","MS",1124
+"bucket","GA33B","272C2","nch","N"," ","wood or metal","Âb∏óºk±øt","MS",1125
+"pails","GA33B","272C2","nci","Y","FRC","also","pe{±ø}Ïz","MS",1125
+"pan","GA34N","N273","nch","N"," "," ","p`a´æ∫∞n","MS",1126
+"water bucket","GA34N","N273","nch","N"," "," ","Âw∑Ω∑tê∞$ıb¶Ωk{x}±øºt","MS",1126
+"cedar bucket","GA34N","N273","nch","N"," "," ","Âsi∫jd∞$b¶Ωk{x}±øºt","MS",1126
+"tin buckets","GA34N","N273","nci","N"," ","with leads on 'em","Ât`±´n$ıb¶Ωk{x}±øºts","MS",1126
+"bucket","GA34A","273.1","nch","N"," "," ","b∏´º∫{∞}kà±øΩt","MS",1127
+"bucket","GA34A","273.1","nch","N"," "," ","b∏´º∫{∞}k±øΩt","MS",1127
+"dinner bucket","GA34A","273.1","nch","N"," "," ","d±˛Ω∫{∞}n∞$b∏´º∫{∞}k±øt","MS",1127
+"bucket","GA34B","273.2","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",1128
+"water bucket","GA34B","273.2","nch","N"," ","house","w∑Ω∑tê∞$Âb¶Ωk{x}±øºt","MS",1128
+"cedar bucket","GA34B","273.2","nch","N"," "," ","Âsi∫jd∞$Âb¶Ωk{x}±øºt","MS",1128
+"oaken bucket","GA34B","273.2","nch","N"," ","well","Âo∫πk∞´n$Âb¶Ωk{x}±øºt","MS",1128
+"tin bucket","GA34B","273.2","nch","N"," "," ","Ât`±Ω{∞}n$Âb¶Ωk{x}±øºt","MS",1128
+"pail","GA35N","N273A","nch","N"," "," ","pe±øl","MS",1129
+"gourd","GA35N","N273A","nch","N"," "," ","goπd","MS",1129
+"bucket","GA35N","N273A","nch","N"," ","more usual","b∏´ºk±øt","MS",1129
+"water buckets","GA36N","N274A","nci","N"," "," ","Âw∂´otê∞$ıb∏´ºk±øts","MS",1130
+"bucket","GA36N","N274A","nch","N"," "," ","b∏´ºk±øΩt","MS",1130
+"pitchers","GA36N","N274A","nci","N"," "," ","p±tÛ∞´z","MS",1130
+"jug","GA36N","N274A","nch","N"," "," ","d˙è∏´ºg","MS",1130
+"pail","GA36N","N274A","nch","N"," ","= pitcher","p`e{±ø}{∞}Ï","MS",1130
+"milk bucket","GA36N","N274A","nch","N"," "," ","Âm{j}±ø∫{∞}k$ıb∏´ºk±øt","MS",1130
+"water gourd","GA36N","N274A","nch","N"," "," ","wﬁ{∞}tê∞$ıgo∫∞´d","MS",1130
+"pail","GA36N","N274A","nch","N"," ","= pitcher","p`e{±ø}Ï","MS",1130
+"bucket","GA37N","2N274","nch","N"," "," ","b∏´k{x}±øt","MS",1131
+"pail","GA37N","2N274","nch","N"," "," ","p`e{±ø}Ï","MS",1131
+"pail","GA37M!","NC274","nch","N"," ","bucket, pail: wood or tin; both names for both","p`e{±ø}l","MS",1132
+"bucket","GA37M!","NC274","nch","N"," ","bucket, pail: wood or tin; both names for both","b∏´ºk{x}±øt","MS",1132
+"well bucket","GA37A","274.1","nch","N"," ","wood","Âw≤´l$ıb¶k{x}±øºt","MS",1133
+"tin bucket","GA37A","274.1","nch","N"," "," ","Ât`±´n$ıb¶k±øºt","MS",1133
+"pail","GA37A","274.1","nch","N"," ","wooden; 1 stave longer; gen. used as foot-tub","Âp`e∫±øºlç","MS",1133
+"wooden bucket","GA37B","274.2","nch","N"," "," ","ÂwuΩdn$ıb¶Ωk{x}±øºt","MS",1134
+"tin pail","GA37B","274.2","nch","N"," "," ","Ât`±´{∞}n$ıpe∫±øÏ","MS",1134
+"tin buckets","GA37B","274.2","nci","N"," "," ","Ât`±´{∞}n$b¶Ωk{x}±øºts","MS",1134
+"pail","GA37B","274.2","nch","N"," "," ","pe∫±øÏ","MS",1134
+"cedar pail","GA37B","274.2","nch","N"," ","one stave longer","si∫jd∞$pe∫±øÏ","MS",1134
+"lunch pail","GA37C","274.21","nch","N"," "," ","l∏´ºntÛ$ıp`e{±ø}Ï","MS",1135
+"lunch box","GA37C","274.21","nch","N"," "," ","l∏´ºntÛ$ıbﬁ∫{∞}ks","MS",1135
+"bucket","GA37C","274.21","nch","N"," "," ","Âb∏´k{x}±øºt","MS",1135
+"bucket","GA37D!","274.7!","nch","N"," ","usually means metal","b∏´k±øºt","MS",1136
+"wooden bucket","GA37D!","274.7!","nch","N"," "," ","wπºdn$b∏´k±øºt","MS",1136
+"pail","GA37D!","274.7!","nch","N"," "," ","p`e{±ø}l","MS",1136
+"pail","GA37E!","274.8!","nch","N"," "," ","pe{±ø}Ï","MS",1137
+"milk pails","GA37E!","274.8!","nci","N","CNV"," ","Âm{±}±øºÏk$ıpe{±ø}Ïz","MS",1137
+"bucket","GA37E!","274.8!","nch","N"," "," ","b∏´ºk±øt","MS",1137
+"tin bucket","GA37F!","274.3!","nch","N"," ","for milking","Ât`±´{∞}n$ıb¶Ω{∞}k{x}±øºt","MS",1138
+"well buckets","GA37F!","274.3!","nci","N"," "," ","Âw≤´Ï$ıb¶Ωk{x}±øºts","MS",1138
+"bucket","GA37F!","274.3!","nch","N"," ","wound up","b¶Ωk{x}±øºt","MS",1138
+"tin buckets","GA37G!","274.4!","nci","N"," "," ","Ât`±´{∞}n$b¶Ωk{x}±øºts","MS",1139
+"wooden buckets","GA37G!","274.4!","nci","N"," "," ","Âwπºdn$b¶Ωk{x}±øºts","MS",1139
+"single bucket","GA37G!","274.4!","nch","N"," "," ","Âs±ΩÓgÏ$ıb¶Ωk{x}±øºt","MS",1139
+"bucket","GA37G!","274.4!","nch","N"," "," ","Âb¶Ω{∞}k{x}±øºt","MS",1139
+"bucket","GA37H!","274.5!","nch","N"," "," ","Âb¶Ωk{x}±øºt","MS",1140
+"milk pail","GA37H!","274.5!","nch","N"," ","tin","Âm±øÏk$ıp`e∫{±ø}lç","MS",1140
+"cedar bucket","GA37H!","274.5!","nch","N"," ","windlass, well house","Âsi∫{j}d∞$ıb∑îk{x}±øºt","MS",1140
+"pail","GA37I!","274.6!","nch","N"," "," ","pe{±ø}Ï","MS",1141
+"bucket","GA37I!","274.6!","nch","N"," ","wood or tin","b¶Ωºk±øt","MS",1141
+"water bucket","GA38","275","nch","N"," "," ","w∑Ω{∑}tê¥$b¶kê±øºt","MS",1142
+"bucket","GA39","275A","nch","N"," ","wooden or metal","Âb∏´k{x}±øt","MS",1143
+"bucket","GA40","276A","nch","N"," "," ","b∏k{x}±øt","MS",1144
+"pail","GA40","276A","nch","N"," "," ","pe±øÏ","MS",1144
+"nail bucket","GA40","276A","nch","N","CNV"," ","Âne{±ø}Ï$ıb∏´ºk{x}±øºt","MS",1144
+"buckets","GA41","276B","nci","N"," "," ","b∏´ºkà±øºts","MS",1145
+"buckets","GA41","276B","nci","N"," "," ","b∏´ºkê±øºts","MS",1145
+"cedar pails","GA42A","276.1","nci","N"," ","one stave longer than others","Âsi∫jd∞´æ$ıp`e´∫Ïz","MS",1146
+"milk pails","GA42A","276.1","nci","N"," "," ","Âmj±ø{Ï}k$p`e´∫{∞}Ïz","MS",1146
+"tin buckets","GA42A","276.1","nci","Y","NEW","later;","t`±´{∞}n$b¶Ωk{x}±øΩts","MS",1146
+"cedar buckets","GA42A","276.1","nci","N"," "," ","Âsi∫d¥$ıb¶Ωk{x}±øΩts","MS",1146
+"piggin","GA42B","276.2","nch","N"," ","homemade","Âp`iΩg±øºn","MS",1147
+"buckets","GA42B","276.2","nci","N"," "," ","ÂboîΩk{x}±øºts","MS",1147
+"tin pails","GA42B","276.2","nci","N"," ","for water","t`±´{∞}n$p`e´{±ø}lz","MS",1147
+"tin bucket","GA42B","276.2","nch","N"," "," ","Ât`±´n$ıb¶Ωk{x}±øºt","MS",1147
+"wooden pails","GA42B","276.2","nci","N"," ","for water","Âwπ´º{∞}dn$ıp`e´{±ø}lz","MS",1147
+"dinner bucket","GA43","277","nch","N"," "," ","d±˛n¥$ıb∏ó´{∞}kà±øΩt","MS",1148
+"bucket","GA43","277","nch","N"," "," ","b∏ó´{∞}kà±øΩt","MS",1148
+"water buckets","GA44A","278.1","nci","N"," "," ","Âw∑Ω∫∑tê¥´$ıb¶Ωk{x}±øºts","MS",1149
+"milk buckets","GA44A","278.1","nci","N"," "," ","Âmj±ø{©}k$ıb¶óΩk{x}±øºts","MS",1149
+"tin buckets","GA44A","278.1","nci","N"," ","dipping water","Ât`±´n$ıb¶Ωk{x}±øºts","MS",1149
+"cedar buckets","GA44A","278.1","nci","N"," "," ","Âsi∫{j}d¥$ıb¶Ωk{x}±øºts","MS",1149
+"pails","GA44A","278.1","nci","N"," ","wooden, one stave longer than others","p`e∫±ølz","MS",1149
+"buckets","GA44A","278.1","nci","N"," "," ","Âboîk{x}±øºts","MS",1149
+"cedar bucket","GA44B","278.2","nch","N"," "," ","Âsi∫{j}d∞é´$ıb¶Ωk{x}±øºt","MS",1150
+"tin bucket","GA44B","278.2","nch","N"," ","for milk","Ât`±´n$b¶Ωk{x}±øºt","MS",1150
+"tin bucket","GA44B","278.2","nch","N"," ","for milk","Ât`±´n$b¶óΩk{x}±øºt","MS",1150
+"wooden buckets","GA44C","278.3","nci","N"," "," ","Âwπºdn$ıb¶Ωk{x}±øºts","MS",1151
+"cedar buckets","GA44C","278.3","nci","N"," "," ","Âs±d¥$ıb¶Ωk{x}±øºts","MS",1151
+"milk buckets","GA44C","278.3","nci","N"," "," ","Âmj±ø©k$b¶Ωk{x}±øºt","MS",1151
+"pail","GA44C","278.3","nch","N"," ","one stave longer than the others","p`e∫{±ø}Ïñ","MS",1151
+"wooden bucket","GA44D","278.4","nch","N"," "," ","wπ´º{∞}dn$b¶óΩk{x}±øΩt","MS",1152
+"tin bucket","GA44D","278.4","nch","N"," "," ","Ât`±´{∞}n$b¶Ωk{x}±øΩt","MS",1152
+"well bucket","GA44D","278.4","nch","N"," "," ","Âw≤´{∞}Ï$ıb¶óΩk{x}±øΩt","MS",1152
+"cedar buckets","GA44E","278.5","nci","N"," "," ","ısi{i´}d¥$Âb∏´ºk±øºts","MS",1153
+"jars","GA44E","278.5","nci","N"," "," ","d˙ﬁ¥z","MS",1153
+"milking gourds","FL1","252","nci","N"," "," ","Âm±´lk±øºn$ıgo´º∫∞ódz","MS",1154
+"milk gourds","FL1","252","nci","N"," "," ","Âm±´lk$ıgo´º∫∞ódz","MS",1154
+"bucket","FL1","252","nch","N"," "," ","Âb∏´k{x}±øºt","MS",1154
+"milking bowls","FL1","252","nci","N"," "," ","Âm±´lk±øºn$bo´º∫lz","MS",1154
+"piggin","FL1","252","nch","N"," "," ","p`±ºg±øºn","MS",1154
+"cedar buckets","FL1","252","nci","N"," ","curbing of cypress","si∫d∞$ıb∏´k{x}±øºts","MS",1154
+"galvanized buckets","FL2A","253.1","nci","N"," "," ","gà·lv±øºınµ´º∫±øz$Âb∏ºk{x}±øºts","MS",1155
+"tin can","FL2A","253.1","nch","N"," ","for milking","Ât`±´{∞}n$ıcá·∫{≤}n","MS",1155
+"milk bucket","FL2A","253.1","nch","N"," ","out of tin","Âm{j}±ølk$ıb∏ó´k{x}±øºt","MS",1155
+"milk bucket","FL2A","253.1","nch","N"," ","out of tin","m±ø{l}k$ıb∏ó´k{x}±øºt","MS",1155
+"bucket","FL2A","253.1","nch","N"," "," ","b∏´k{x}±øºt","MS",1155
+"bucket","FL2B","253.2","nch","N"," "," ","b∏´kà±øt","MS",1156
+"water bucket","FL2C!","253.3!","nch","N"," ","10 quarts, used for milking","Âw∂î´º{∞}tê∞$ıb∏´{∞}k{x}±øºt","MS",1157
+"water bucket","FL2C!","253.3!","nch","N"," "," ","w∂îÒ∞$b∏´k{x}±øºt","MS",1157
+"milk buckets","FL2C!","253.3!","nci","N"," "," ","Âm±ølk$ıb∏´k{x}±øºts","MS",1157
+"bucket","FL2C!","253.3!","nch","N"," "," ","Âb∏ó´k{x}±øºt","MS",1157
+"well bucket","FL2C!","253.3!","nch","N"," ","wood","Âw≤´l$ıb∏´k{x}±øºt","MS",1157
+"pail","FL3A","254.1","nch","N"," "," ","pe´∫{∞}l","MS",1158
+"bucket","FL3A","254.1","nch","N"," "," ","b¶Ωk{x}±øºt","MS",1158
+"tin bucket","FL3B!","254.2!","nch","N"," "," ","Ât`±´n$ıb∏´k{x}±øºt","MS",1159
+"red cedar bucket","FL3B!","254.2!","nch","N"," "," ","Âr≤´{∞}d$ısi∫d∞$Âb∏ºk{x}±øt","MS",1159
+"bucket poles","FL3B!","254.2!","nci","N"," ","= sweep","Âb∏k{x}±øºt$po∫{∞}lz","MS",1159
+"water jugs","FL4","254A","nci","N"," ","metal","Âw∑Ω∑Ò¥$ıd˙¶Ωºgz","MS",1160
+"bucket","FL4","254A","nch","N"," "," ","b∏´ºk±øºt","MS",1160
+"cedar buckets","FL5A","255.1","nci","N"," "," ","Âsi∫d∞$ıb¶Ωk{x}±øºts","MS",1161
+"bucket","FL5A","255.1","nch","N"," "," ","b¶Ωk{x}±øºt","MS",1161
+"milk churns","FL5A","255.1","nci","N"," ","also out of cedar","Âm{j}±ølk$tÛ≥ó´æ±ønz","MS",1161
+"milk gourds","FL5A","255.1","nci","N"," "," ","Âm±øºlkıgo´º∫∞›dz","MS",1161
+"gourds","FL5A","255.1","nci","N"," "," ","goº∫∞dz","MS",1161
+"bucket","FL5B","255.2","nch","N","SIC"," ","Âb¶Ωk{x}±øºt","MS",1162
+"tin pail","FL5B","255.2","nch","N"," ","for milking","Ât`±´n$ıp`e´∫l","MS",1162
+"wooden bucket","FL5B","255.2","nch","N","SIC"," ","Âwπºdn$ıb¶Ωx±øºt","MS",1162
+"sweep","FL5B","255.2","nch","N","CNV"," ","swèi∫p","MS",1162
+"well bucket","FL5B","255.2","nch","N","SIC"," ","w≤´l$b¶Ωx±øºt","MS",1162
+"","","","","","","","","",

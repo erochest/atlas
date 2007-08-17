@@ -1,0 +1,107 @@
+behind the door (cl10#4f.asc)
+
+Items
+=====
+                               back    1
+                            back of    4
+                        back of the    2
+                   back of the door    4
+                             behind    8
+                          behind me    1
+                     behind my back    1
+                  behind the church    1
+                    behind the door    7
+                 behind the kitchen    1
+                            besides    1
+              broom behind the door    3
+           broom is behind the door    4
+                              close    1
+                       fennel straw    1
+                      hind the door    1
+              I hire that man today    1
+                      I rent a room    1
+                         in back of    1
+                      in the corner    2
+               in the corner inside    1
+                        in the door    1
+                          old field    1
+                     on the back of    2
+                 out the old fields    1
+               over behind the door    1
+                 over in the corner    1
+                        rent a room    1
+                      rented a room    1
+       The broom is behind the door    1
+       the broom is behind the door    3
+      The broom is behind the door.    4
+    the corner, not behind the door    1
+We don't hang anything behind the door    1
+       we put broom behind the door    1
+
+Pronunciations
+==============
+                                  "    1
+               brum$±z$b±hµ±n$d±$do    1
+  bru¼ºm$hµ¼{²¾º}n{d}${d}{±¿«}$do«º    1
+               br¹m$±z$b±hµ±n$d±$do    1
+          br¹{°}m$b±¿hµ«±¿n$d±¿$do°    1
+              br¹«m$±z$b±hµ±n$d±$do    1
+             br¹½m$±z$b±hµ¾±n$d±$do    1
+           br¹½¼m$b°Ëµ¼±¿½n$d±¿$doº    1
+               b°åha¼º±¿Ýn$ä°$do¹°‘    1
+               b±i½åhaº±n$ä°$õd·«°‘    1
+            b±¿åha«¾º{°}n$d±¿$ådoº°    1
+            b±¿åha«¾º{°}n$ä±¿$ådo¼°    1
+             b±¿åhµº±n$ä°$õdoŽ¼º¹Ž¼    1
+              b±Ý¾iÝåha¾±¿n$ä°$õdo°    1
+              båhµº±¿n$d±¿«¼$õdo«¼º    1
+           d±$brum$±z$b±hµ¾±n$d±$do    1
+          d±$bru½m$±z$b±hµ¾±n$d±$do    1
+            d±$br¹m$iz$b±hµ±n$d±$do    1
+           d±$br¹m$±z$b±hµ¾±n$d±$do    1
+            d±$br¹m$±z$b±h¶±n$d±$do    1
+           d±$br¹m$±z$b±h¶¼±n$d±$do    2
+          d±$br¹½m$±z$b°hµ¾±n$d±$do    1
+           d±$k·n°$n¶t$b±h¶±n$d±$do    1
+   o½¼º¹â$b±¿½åha«¾º{°}n$äá«$do¼º¹¼    1
+   wi$doþ$ha«î$²n±t±î$b±hµ¾±n$d±$do    1
+       wi$p±t$br¸{¸}m$b±hµ¾±n$d±$do    1
+                     ±¿n$d±¿«¼$do¼º    1
+            åba«ºk$°½v$ä°$ådo«¼º{¹}    1
+               åbá{²}k$°$ä°$ådo¼º¹¼    1
+                    åbá«k$°$d·$õdo°    1
+            åbá½¾k$°½v$ä°$ådo«¼º{¹}    1
+              åha«¾º±¿n$ä°$ådo¼º¹¼º    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

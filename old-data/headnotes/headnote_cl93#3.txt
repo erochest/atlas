@@ -1,0 +1,56 @@
+Happy New Year (cl93#3.asc)
+
+Items
+=====
+           don't mention about that    1
+                   don't mention it   21
+                 don't mention that    1
+                 don't mention them    1
+                       don't say so    1
+                     happy new year   28
+                   happy new year's    5
+             I quite obliged to you    1
+                       much obliged    4
+                           new year    3
+                      new year gift    1
+                         new year's    1
+                     new year's day    1
+                    New Year's gift    7
+                                 NR   18
+                             oblige   10
+             oh, don't mention that    1
+                        same to you    3
+
+Pronunciations
+==============
+                                  "    5
+
+L: What do you say on the first of January?
+M: What might you say about January 1st?  Any other expressions?  [If you've succeeded in getting "Christmas gift," remind informant of that and ask if there is anything similar on New Year's Day.]
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 93#3, the following responses are inappropriate: "oblige," "don't mention it," "don't say so," "don't mention that," "don't mention them," "much obliged," "don't mention about that," and "oh, don't mention that."  Marginalia is inappropriate as well.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 93 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+92#8		93#1
+93#P		93#2
+93#P		93#4
+93#1		93#3 (similar)
+93#2		93#5
+93#3		93#6
+		93#7 (no question)
+		93#8

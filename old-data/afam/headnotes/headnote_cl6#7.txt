@@ -1,0 +1,44 @@
+steady drizzle (cl6#7.asc)
+
+Items
+=====
+                       Carolina dew    1
+                            drizzle   14
+                       drizzle rain    2
+                     drizzling rain    8
+                            drizzly    1
+                       drizzly rain    1
+                        fine mister    1
+                          fine rain    2
+                           fog rain    1
+                        good shower    1
+                          hard rain    1
+                    it's a dew rain    1
+                     it's a drizzle    1
+                it's a drizzle rain    1
+              it's a drizzling rain    1
+                      light drizzle    1
+                         light rain    1
+                     little drizzle    1
+                   little mist rain    1
+                     little scourge    1
+                          mild rain    1
+                               mist    2
+                       misting rain    3
+                                 NR   12
+                             shower    7
+                        slow shower    1
+                       small shower    1
+                             soaker    1
+                     splitting snow    1
+                           sprinkle    4
+                     sprinkler rain    1
+                  sprinkling shower    1
+                             steady    2
+                     steady drizzle   19
+                        steady rain    1
+                        summer rain    1
+                that's a misty rain    1
+                  that's a set rain    1
+                   we have dew rain    1
+

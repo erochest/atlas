@@ -1,0 +1,1269 @@
+"blew","NY1","50","V","N"," "," ","bluw","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"blew","NY2B","51.2","V","N"," "," ","bl±øuº","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"blowed hard","NY3A","401","E","N"," "," ","bÏoΩºπd$hµ´æ¥d","MS",5
+"blew hard","NY3B","403","E","N"," "," ","bÏ±øu$hµ∞éd","MS",6
+"blew hard","NY3C","402","E","N"," "," ","ıbÏuº∫$Âhµ´¥d","MS",7
+"blew hard","NY3D","404","E","N"," "," ","bÏ±øu$hµæ:d","MS",8
+"blew hard","NY4A","405","E","N"," "," ","bÏπ´uº∫$hµ∫∞éd","MS",9
+"NR","NY4B","407"," ","N"," "," "," ","MS",10
+"blew hard","NY4C","408","E","N"," "," ","bÏuº∫$hﬁº:d","MS",11
+"blew hard","NY5A","409","E","N"," "," ","blu:$hµæ:{∞}d","MS",12
+"blew hard","NY5B","410","E","N"," "," ","bluº∫$hµº:{∞}d","MS",13
+"blew hard","NY5C","411","E","N"," "," ","bÏuº∫$hµ:d","MS",14
+"blew hard","NY5D","412","E","N"," "," ","bÏu∫$hﬁº:d","MS",15
+"blew hard","NY5E","413","E","N"," "," ","bÏu∫$hµº:d","MS",16
+"blew hard","NY5F","414","E","N"," "," ","bluΩºu$hµæ:d","MS",17
+"blew hard","NY5G","415","E","N"," "," ","bÏuº∫$hﬁ:d","MS",18
+"blew hard","NY5H!","416!","E","N"," "," ","bluº∫$hﬁº∫{∞}d","MS",19
+"blew hard","NY5I!","417!","E","N"," "," ","bÏuº∫$hµæ∫∞éd","MS",20
+"blew hard","NY6A","418","E","N"," "," ","bÏuº∫$hµæ:d","MS",21
+"blew hard","NY6B","419","E","N"," "," ","ıbÏuº∫$Âhµ:{∞}d","MS",22
+"blew hard","NY7A","420","E","N"," "," ","ıblu∫$Âhµº∫d","MS",23
+"blew hard","NY7B","421","E","N"," "," ","blu∫{w}$hµº:d","MS",24
+"blew hard","NY7C","422","E","N"," "," ","bÏuº∫$hµæ:d","MS",25
+"blew hard","NY7D","423","E","N"," "," ","blu∫$hµ:d","MS",26
+"blew hard","NY7E","424","E","N"," "," ","bÏu∫$hµ:d","MS",27
+"blew hard","NY7F","425","E","N"," "," ","bluº∫$hµ:d","MS",28
+"blew hard","NY7G","426","E","N"," "," ","bèÏπ´u$hﬁº:d","MS",29
+"blew hard","NY7H","427","E","N"," "," ","bÏπu$hﬁº:{∞}d","MS",30
+"blew hard","NY7I","428","E","N"," "," ","blu:$hµæ:d","MS",31
+"blew hard","NY7J!","429!","E","N"," "," ","bluº∫$hµ∫d","MS",32
+"blew hard","NY7K!","430!","E","N"," "," ","blu:$hµæ:d","MS",33
+"blew hard","NY7L!","431!","E","N"," "," ","bÏuº∫$hµæ:d","MS",34
+"blew hard","NY7M!","432!","E","N"," "," ","bluº∫$hµæ:d","MS",35
+"blew","NY8","432b","V","N"," "," ","bluº∫","MS",36
+"blew hard","NY9A","432c","E","N"," "," ","blu∫$hµ¥d","MS",37
+"blew hard","NY9B","433","E","N"," "," ","bÏuº∫$Âhµ´¥d","MS",38
+"blew hard","NY9C","434","E","N"," "," ","bÏuº∫$hµæ∫∞éd","MS",39
+"blew hard","NY10A","435","E","N"," "," ","bÏuº∫$hµæ¥d","MS",40
+"blew hard","NY10B!","436!","E","N"," "," ","bÏuº∫$hﬁóº¥d","MS",41
+"blew hard","NY11","438","E","N"," "," ","ıbluº∫$Âhµæ∫¥d","MS",42
+"blew","NY12A","439(*)","V","N"," "," ","bÏu∫","MS",43
+"blew hard","NY12B","440","E","N"," "," ","bÏu∫$hµ´º¥d","MS",44
+"blew hard","NY12C!","441!","E","N"," "," ","bÏuº∫$hµæ:d","MS",45
+"blew hard","NY13A","443","E","N"," "," ","bÏuº∫$hµæ∫rd","MS",46
+"blew hard","NY13B!","444!","E","N"," "," ","bÏuº∫$Àaæ∫d","MS",47
+"blew hard","NY14A","445","E","N"," "," ","bÏu∫$hµ¥d","MS",48
+"blew hard","NY14B","446","E","N"," "," ","bÏuº∫$hµ´º¥d","MS",49
+"blew hard","NY15A","447","E","N"," "," ","bÏ±øuº$haæ¥d","MS",50
+"blew hard","NY15B","448","E","N"," "," ","bÏ±øuº$haæ¥d","MS",51
+"blew hard","NY16A","449","E","N"," "," ","bÏu∫$hµ:d","MS",52
+"blew hard","NY16B","450","E","N"," "," ","bÏu∫$hµ∫∞éd","MS",53
+"blowed hard","NY17A","451(*)","E","N"," "," ","bÏoΩ∫{πΩ}d$haæ¥d","MS",54
+"blew hard","NY17B","452","E","N"," "," ","bÏu∫$hµ´¥d","MS",55
+"blew hard","NY18A","453","E","N"," "," ","bÏ±øæu$haæ¥d","MS",56
+"blew hard","NY18B","454","E","N"," "," ","bÏuº∫$hµ´º¥d","MS",57
+"blew hard","NY18C!","455!","E","N"," "," ","ıbÏu∫$Âhµ:{∞}d","MS",58
+"blew hard","NY19","456","E","N"," "," ","bÏu∫$haæ¥d","MS",59
+"blew hard","NY20A","457","E","N"," "," ","ıbÏ±øæuº$Âhµ´º¥d","MS",60
+"blew hard","NY20B","458","E","N"," "," ","ıbÏuº∫$Âhaæ¥d","MS",61
+"blew hard","NY21","459","E","N"," "," ","bÏu∫$hµ¥d","MS",62
+"blew hard","NY22","460","E","N"," "," ","bÏu∫$haæ¥d","MS",63
+"NA","NY23A","461"," ","N"," "," "," ","MS",64
+"blowed down","NY23B","462a","E","N"," "," ","ÂbÏoΩºπd$ıdµ´∫πn","MS",65
+"blew down","NY23C","462b","E","N"," "," ","Âb≈uΩº∫u$ıdµ∫πn","MS",66
+"blew","NY24A","463","V","N"," "," ","bÏ±øuº","MS",67
+"blew hard","NY24B!","464!","E","N"," "," ","bÏuº∫$Âhaæ¥d","MS",68
+"blowed over","NY25A","465","E","N"," "," ","Â{bè}b≈oΩºπΩd$ıoº∫πºv¥","MS",69
+"blew over","NY25B","466","E","N"," "," ","ÂbÏπº∫u´$ıoº∫πºv¥","MS",70
+"blowed all","NY26A","467","E","N","(the trees down"," ","ÂbÏoºπºd$ı∑Ωl","MS",71
+"blowed trees down","NY26B","468","E","N"," "," ","ÂbÏoºπºd$ÂtéÚèiΩiz$ıd·Ωæ∫πn","MS",72
+"NA","NY26C","469"," ","N"," "," "," ","MS",73
+"blowed a pine down","NY27A","470","E","N"," "," ","ıb≈oºπºd$∞Âp`µ´∫±øn$ıd·Ω∫πn","MS",74
+"blew out","NY27B","471","E","N"," ","CNV","Âblπø∫uº$ı·Ωπt","MS",75
+"blew down","NY27C","472","E","N"," "," ","ıbÏπu$Âdµ´º∫πn","MS",76
+"blew","NY28A","473a","V","N"," ","CNV","bÏuΩ∫u","MS",77
+"blew","NY28B","473b(*)","V","N"," "," ","bÏuΩ∫u","MS",78
+"NA","NY28C"," "," ","N"," "," "," ","MS",79
+"blew","NY29A","474a","V","N"," "," ","ÂbÏuø∫","MS",80
+"blew","NY29B","474b","V","N"," "," ","ÂbÏuº∫","MS",81
+"blew down","NY29C","474c","E","N"," "," ","Âb≈uø∫$ıd·∫πn","MS",82
+"blowed down","NY30A","475a","E","N"," "," ","Âbloº∫{πº}d$ıd≤∫πn","MS",83
+"blowed it out","NY30B","475b","E","N"," ","CNV","Âbloºπºd$±øt$ı·´πt","MS",84
+"blew","NY30B","475b","V","N"," ","CNV","bluΩ∫","MS",84
+"blew","NY30C","475c","V","N"," ","CNV","bÏuø∫","MS",85
+"NA","NY30D","475d"," ","N"," "," "," ","MS",86
+"blowed down","NY30E","475e","E","Y"," ","AUX","ÂbloΩº∫πºd$ıd·Ω∫πn","MS",87
+"blew","NY30E","475e","V","N"," ","CNV","bÏuø∫","MS",87
+"blew","NY31A","478a","V","N"," "," ","b≈uø∫uø´","MS",88
+"blowed","NY31A","478a","V","N"," ","CNV","b≈oΩºπd","MS",88
+"blew","NY31B","478b","V","N"," "," ","b≈uøΩuø","MS",89
+"blowed","NY32A","479a","V","N"," ","CNV","b≈oΩºπºd","MS",90
+"blowed over","NY32A","479a","E","N"," ","CNV","Âb≈oøæπºd$ıoΩºπºv∞é","MS",90
+"blew out","NY32B","479b","E","N"," "," ","ıb≈uΩºuº$Â•πt","MS",91
+"blew","NY33A","480","V","N"," ","CNV","bÏuΩ∫u","MS",92
+"blew it","NY33B","481","E","N"," "," ","ÂbÏuΩº∫u±øºt","MS",93
+"blew","NY33C","482","V","N"," "," ","bÏuΩu","MS",94
+"blew off apples","NY34A","483","E","N"," "," ","Âb≈uº∫$ı∂´f$Â·pÏz","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NA","NY34C","485"," ","N"," "," "," ","MS",97
+"blew","NY34D!","486!","V","N"," "," ","bluøΩuø","MS",98
+"blew hard","NY35A","487","E","N"," "," ","bÏuº∫$haæ¥d","MS",99
+"blew hard","NY35B","488","E","N"," "," ","ıbÏ±øuº$Âhµ´º¥d","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"blew hard","NY36A","491","E","N"," "," ","bl±øu$hµ¥d","MS",102
+"blew hard","NY36B","492","E","N"," "," ","bl±øu$Âhaæ¥d","MS",103
+"blew hard","NY37A","493","E","N"," "," ","bÏ±øuº$hµº¥d","MS",104
+"blowed","NY37A","493","V","N"," ","CNV","bÏoπd","MS",104
+"blew hard","NY37B","494","E","N"," "," ","blu{w}$hµ´º¥d","MS",105
+"blew hard","NY37C!","495!","E","N"," "," ","bÏuº∫$hµ´º¥d","MS",106
+"blew hard","NY38A","497(*)","E","N"," "," ","bÏ±øuº$hµ¥d","MS",107
+"blew hard","NY38B","498","E","N"," "," ","bÏ±øæu$hµº¥d","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"blew hard","NY39A","499","E","N"," "," ","bÏ±øu$haæ¥d","MS",110
+"blew hard","NY39B","500","E","N"," "," ","bÏ±øæu$hµ´º¥d","MS",111
+"blew hard","NY40A","501","E","N"," "," ","bÏ±øæu$hµº¥d","MS",112
+"blew hard","NY40B","502","E","N"," "," ","bÏuº$haæ¥d","MS",113
+"blew and blew","NY41","504","E","N"," "," ","bÏu{w}$∞n$bÏu{w}","MS",114
+"blew hard","NY42A","505","E","N"," "," ","bÏ±øuº$haæ¥d","MS",115
+"blew hard","NY42B","506","E","N"," "," ","blu∫$haæ¥d","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"blew hard","NY43B","507b","E","N"," "," ","bÏuº$haæ¥d","MS",118
+"blew hard","NY43C!","508!","E","N"," "," ","bÏuº$hµ¥d","MS",119
+"blew hard","NY44A","511","E","N"," "," ","bl±øu$hµº¥d","MS",120
+"blew hard","NY44B","512","E","N"," "," ","bÏu∫$hµ´º¥d","MS",121
+"blowed","NY45A","513a","V","N"," ","CNV","b≈oΩºπºd","MS",122
+"blowed","NY45B","513b","V","N"," ","CNV","b≈oΩºπºd","MS",123
+"NA","NY45C","513c"," ","N"," "," "," ","MS",124
+"blew so","NY45D!","513d!","E","N"," "," ","Âb≈uΩºuº$ısoøπøæ","MS",125
+"blowed","NY46A","515a","V","N"," ","CNV","b≈oΩºπºd","MS",126
+"blew","NY46B","515b","V","N"," "," ","bluΩºuº","MS",127
+"blew","NY46C","515c","V","N"," "," ","bluΩu","MS",128
+"blew","NY47A","517(*)","V","N"," "," ","b≈uΩu","MS",129
+"blew hard","NY47B","518","E","N"," "," ","bÏu{w}$hµ¥d","MS",130
+"blew","NY48A","519a","V","N"," "," ","b≈uΩºuº","MS",131
+"blowed","NY48A","519a","V","N"," ","CNV","b≈oΩºπºd","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"blew","NY48C","519c","V","N"," "," ","b≈uøΩæuøæ","MS",133
+"blew","NY48D","519d","V","N"," "," ","b≈uΩºuº","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"blew","NY49C","522a","V","N"," "," ","bluøæuø´æ","MS",137
+"was blowing like hell","NY49C","522a","E","Y"," ","INA","w∞z$Âblo{π}±ø›n$ıla´±øk$Âh≤Ï","MS",137
+"blew like the devil","NY49D","522b","E","N"," "," ","ÂbÏuΩu$ıÏ•±øk$‰∞$Âd≤v∞›Ï","MS",138
+"blew down trees","NY50A","523","E","N"," "," ","ÂbÏèuº∫$ıdµ´πºn$ÂtéÚè±ø´iz","MS",139
+"blew over","NY50B","524","E","N"," "," ","ÂbluøΩuº$ıoΩºπºv¥","MS",140
+"blew","NY51A","525a","V","N"," "," ","b≈πø´uø","MS",141
+"blowed out","NY51A","525a","E","N"," ","CNV","ÂbÏoΩºπºd$ı·æπt","MS",141
+"NR","NY51B","525b"," ","N"," "," "," ","MS",142
+"blowed","NY51C","525c","V","N"," ","CNV","b≈oΩºπºd","MS",143
+"blew","NY51D","525d","V","N"," ","CNV","bÏuΩºuº","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"blowed","NY52A","527","V","N"," ","CNV","b≈oΩºπºd","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"blew and blew","NY52C","528b","E","N"," "," ","Âbluº$∞´n$ıbluøæ{uø´æ}","MS",148
+"blowed off","NY53A","529","E","N"," "," ","Âb≈oΩºπºd$ı∑f","MS",149
+"blew","NY53B!","530!","V","N"," "," ","b≈±øóºuø","MS",150
+"blowed","NY54A","531","V","N"," "," ","bÏo{π}d","MS",151
+"blew","NY54B","532","V","N"," "," ","bÏuº∫","MS",152
+"blew","NY55A","533","V","N"," "," ","b≈uø´æuøæ","MS",153
+"the wind blew","NY55B","534","S","N"," "," ","‰∞$Âw±n$ıb≈±øóuø","MS",154
+"blowed it loose","NY56A","535","E","N"," "," ","ıblèoºπºd$±øt$ÂluΩºus","MS",155
+"blew","NY56A","535","V","N"," ","CNV","b≈πøuº","MS",155
+"blew down","NY56B","536","E","N"," "," ","Âb≈±øóuø∫$ıdµ´º∞ón","MS",156
+"blowed a hole","NY57A","537a","E","N"," "," ","b≈oΩºπºd$∞$ıhoøæπºÏ","MS",157
+"blew down","NY57A","537a","E","N"," "," ","Âb≈uøΩuø´$ıdµ∫πn","MS",157
+"was blown down","NY57A","537a","E","Y"," ","INA","w∞z$Âb≈oΩºπºn$ıdµ∫πn","MS",157
+"NA","NY57B","537b"," ","N"," "," "," ","MS",158
+"blew off","NY57C!","537c!","E","N","(the barn doors"," ","Âb≈uø∫$ı∑Ωºf","MS",159
+"blowed off","NY58A","539a","E","N"," "," ","Âb≈oΩº{πº}d$ı∑Ω∫f","MS",160
+"blowed","NY58B","539b","V","N"," "," ","b≈oºπºd","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"blew down branches","NY58D!","539d!","E","N"," "," ","Âb≈uøuø´$ıdµ∫πn$ÂbÚóá·˛´{n}tÛ±øºz","MS",163
+"blew","NY58E!","539e!","V","N"," "," ","b≈uΩ∫uº","MS",164
+"NA","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"blew down","NY59A","543","E","N","(the barn"," ","Âb≈uΩu$ıd·æπn","MS",166
+"blew hard","NY59B","544","E","N"," "," ","ıbÏ±øæuº$Âhaæ¥d","MS",167
+"blew","NY60A","545","V","N"," "," ","b≈uø∫","MS",168
+"blew down","NY60B!","546!","E","N"," ","CNV","Âb≈uΩu$ıdµ´∫πn","MS",169
+"it blew a barn","NY61A","547","S","Y","(down; [≈è]: doubtful","DDT","±øºt$Âb≈èuº$∞$Âbµ¥n","MS",170
+"blowed","NY61A","547","V","Y","[≈]: doubtful","DDT/CNV","b≈oº{πº}d","MS",170
+"blowed them in","NY61B","548","E","N"," "," ","bÏoº{πº}d$∞´m$Â±∫{∞}n","MS",171
+"blowed some barns down","NY62A","551a","E","N"," "," ","b≈o´πd$sm$Âbµé¥nz$ıdµ´∫πn","MS",172
+"blowed","NY62B","551b","V","N"," "," ","bÏo∫{π}d","MS",173
+"blew","NY62C","551c","V","N"," "," ","bÏuº∫","MS",174
+"blew","NY62D!","551d!","V","N"," "," ","bÏuº∫","MS",175
+"blowed","NY63A","556a","V","N"," ","CNV","bÏoº∫πºd","MS",176
+"blowed","NY63A","556a","V","N"," ","CNV","bloø∫πød","MS",176
+"blew down","NY63B","556b","E","N"," ","CNV","Âb≈uº∫$ıdaæπn","MS",177
+"blew hard","NY63C","556c","E","N","cf. ""blue¢"," ","bl±øuº$haæ¥d","MS",178
+"blue","NY63C","556c","A","Y"," ","INA","bÏuæ∫","MS",178
+"blew","NY63D!","556d!","V","N"," "," ","b≈uº∫","MS",179
+"blowed off","NY64A","557a","E","N"," "," ","ÂbÏoºπºd$ı∑Ω∫f","MS",180
+"blew","NY64A","557a","V","N"," "," ","bÏuº∫","MS",180
+"blew","NY64B","557b","V","N"," "," ","bÏuø∫","MS",181
+"blew down","NY64C!","557c!","E","N"," "," ","ÂbÏuº$ıdµ´∫πn","MS",182
+"blowed hard","NJ1A","1","E","N"," "," ","bÏoΩºπd$h∂º¥d","MS",183
+"blowed hard","NJ1B","2","E","N"," "," ","bÏoºπd$h∂º¥d","MS",184
+"blowed hard","NJ2A","3(*)","E","N"," "," ","bÏoºπd$h∂îº¥d","MS",185
+"blew hard","NJ2B","4","E","N"," "," ","bluøæ∫$h∂î´º¥d","MS",186
+"blowed hard","NJ3A","5","E","N"," "," ","bÏoºπd$hµæ¥d","MS",187
+"blew hard","NJ3B","6","E","N"," "," ","bÏuøæ∫$hµæ¥d","MS",188
+"blew hard","NJ4A","7","E","N"," "," ","bÏuº$hµæ¥{d}","MS",189
+"blowed hard","NJ4B","8","E","N"," "," ","bÏoºπd$h∂î´º¥d","MS",190
+"blowed hard","NJ5A","9","E","N"," "," ","bÏoøîΩæπd$h∂¥d","MS",191
+"blowed hard","NJ5B","10","E","N"," "," ","bÏoøΩπd$h∂îº¥d","MS",192
+"blew hard","NJ6A","11","E","N"," "," ","ıbÏuº∫$Âhµæ¥d","MS",193
+"blew hard","NJ6B","12","E","N"," "," ","ıbÏuøæ∫$Âh∂îº¥d","MS",194
+"blowed hard","NJ7A","17","E","N"," "," ","bÏoº{π}d$hµ´¥d","MS",195
+"blew hard","NJ7B!","18!","E","N"," "," ","ıbÏuøæ∫$Âhﬁó∫¥d","MS",196
+"blew hard","NJ8A","19","E","N"," "," ","bÏuø{uøæ}$hµ¥éd","MS",197
+"blew hard","NJ8B","20","E","N"," "," ","bÏuº∫$hﬁó¥d","MS",198
+"blew hard","NJ9A","21","E","N"," "," ","blπ´ºuº$hµæ∫¥d","MS",199
+"blew hard","NJ9B","22","E","N"," "," ","bluøæ∫$Âhµæ¥d","MS",200
+"blew hard","NJ10A","24b","E","N"," "," ","bluº∫$hﬁº∫∞d","MS",201
+"blew hard","NJ10B","23","E","N"," "," ","bÏuøΩæ∫$hµ∫¥d","MS",202
+"blew hard","NJ10C","24","E","N"," "," ","ıbÏuøæ∫$Âhµóæd","MS",203
+"blew a gale","NJ10D!","24c!","E","N"," "," ","bluº∫$∞$geΩ±ø{∞}Ï","MS",204
+"blew hard","NJ11A","25","E","N"," "," ","bÏuº∫$hµæ¥d","MS",205
+"blew hard","NJ11B","26a","E","N"," "," ","blu›Ωº{uº}$hµæ∫¥d","MS",206
+"blew hard","NJ11C","26b","E","N"," "," ","bÏuº∫$hµæ¥∫d","MS",207
+"blew hard","NJ12A","27","E","N"," "," ","bÏuøæ∫$hµæ¥d","MS",208
+"blew hard","NJ12B","28","E","N"," "," ","bÏuº∫$hµóæ∫¥ód","MS",209
+"blew hard","NJ13A","29","E","N"," "," ","bluº∫$hµ¥d","MS",210
+"blew hard","NJ13B","30","E","N"," "," ","bÏuøæ∫$hµæ¥d","MS",211
+"blew hard","NJ14A","31","E","N"," "," ","bÏπ´uº$hµæ∫¥d","MS",212
+"blew hard","NJ14B","32","E","N"," "," ","bÏuøæ∫$hµ¥d","MS",213
+"blew hard","NJ15A","33","E","N"," "," ","bÏuº∫$hµ¥d","MS",214
+"blew hard","NJ15B","34","E","N"," "," ","bÏuº∫$haærd","MS",215
+"blowed hard","NJ16A","35","E","N"," "," ","bloîΩºπd$hµæ¥d","MS",216
+"blew","NJ16B","36","V","N"," "," ","bÏuΩº∫","MS",217
+"blew hard","NJ17A","37","E","N"," "," ","bluº∫$hµ∫d","MS",218
+"blew hard","NJ17B","38","E","N"," "," ","bÏuº∫$hµóæ∫¥d","MS",219
+"blew hard","NJ18A","41","E","N"," "," ","bÏuº∫$hﬁ:d","MS",220
+"blew hard","NJ18B","42","E","N"," "," ","bÏu∫$hµæ∫∞éd","MS",221
+"blew hard","NJ18B","42","E","N"," "," ","bÏu∫$hµæ:d","MS",221
+"blew hard","NJ18C!","43!","E","N"," "," ","bÏuº∫$hµæ∫¥d","MS",222
+"blew hard","NJ18D!","44!","E","N"," "," ","bÏuº∫$hµ¥{d}","MS",223
+"blew hard","NJ19A","45","E","N"," "," ","bÏuº∫$hµ∫∞d","MS",224
+"blew hard","NJ19B!","46!","E","N"," "," ","blu∫$hﬁº:d","MS",225
+"blew hard","NJ20A","47","E","N"," "," ","bluº∫$hµrd","MS",226
+"blew","NJ20B","47b","V","N"," "," ","blu∫","MS",227
+"blew hard","NJ21A","48","E","N"," "," ","bÏuº∫$hﬁº¥d","MS",228
+"blew hard","NJ21B","49","E","N"," "," ","bluº∫$hµ¥d","MS",229
+"blew hard","PA1A","51","E","N"," "," ","ıblπ´u$Âhµ∫{r}d","MS",230
+"blew and blew","PA1B","52","E","N"," "," ","ıbluΩº∫$∞n$ÂbluΩº∫","MS",231
+"blew hard","PA1C","53","E","N"," "," ","ıbluº∫$Âhﬁó¥d","MS",232
+"blew hard","PA1D","54","E","N"," "," ","bluΩº∫$hﬁº¥d","MS",233
+"blew hard","PA1E!","55!","E","N"," "," ","ıbluº∫$Âhﬁ¥d","MS",234
+"blew hard","PA1F!","56!","E","N"," "," ","Âbluº∫$Âhﬁ¥d","MS",235
+"blew hard","PA1G!","57!","E","N"," "," ","ıbluº∫$Âhﬁº¥d","MS",236
+"blew hard","PA1H!","58!","E","N"," "," ","ıbluº∫$Âh∂º¥d","MS",237
+"blew","PA2A","59","V","N"," "," ","bluº∫","MS",238
+"blew hard","PA2B","60","E","N"," "," ","ıbluº$Âhﬁó¥d","MS",239
+"blew hard","PA3A","61","E","N"," "," ","bluº$hµæ¥d","MS",240
+"hard","PA3B","62","A","Y"," ","INA","hﬁ¥d","MS",241
+"blew hard","PA3C","62b","E","N"," "," ","bluº∫$hµæ¥d","MS",242
+"blowed hard","PA4A","63","E","N"," "," ","bÏoΩºπd$hﬁº¥d","MS",243
+"blew hard","PA4B!","64!","E","N"," "," ","bluº∫$hµæ¥d","MS",244
+"blew hard","PA5A","65(*)","E","N"," "," ","bluº$hµæ¥d","MS",245
+"blew hard","PA5B","65b","E","N"," "," ","bluº∫$hﬁ¥d","MS",246
+"blew hard","PA5C","66","E","N"," "," ","bluøΩæuº$hﬁ¥d","MS",247
+"blew hard","PA5D","67","E","N"," "," ","bluº∫$hﬁº¥d","MS",248
+"blew hard","PA5E!","68!","E","N"," "," ","ıbluº∫$Âhµæ¥d","MS",249
+"blowed","PA6A","69","V","N"," "," ","bèlo∫t","MS",250
+"blew hard","PA6B","71","E","N"," "," ","bèluº∫$hﬁ∫{∞ü’}d","MS",251
+"blew hard","PA6C","71b","E","N"," "," ","bèluº∫$hµ{rü’}tî","MS",252
+"blew hard","PA6D!","72!","E","N"," "," ","bluº∫$hﬁº¥d","MS",253
+"blew hard","PA7A","73","E","N"," "," ","bluº∫$Âhµæ¥d","MS",254
+"blew and blew","PA7B","74","E","N"," "," ","bluøæ∫$∞n$bluøæ∫","MS",255
+"blew hard","PA7C","75","E","N"," "," ","bèlu∫$hµrdè","MS",256
+"blew hard","PA7D!","76!","E","N"," "," ","ıbluº∫$Âhﬁº¥d","MS",257
+"blew hard","PA8A","77","E","N"," "," ","bluΩºuº$hﬁº¥d","MS",258
+"blew hard","PA8B","78","E","N"," "," ","bluº∫$hﬁº¥d","MS",259
+"blew hard","PA8C","79","E","N"," "," ","bèlçuº$hµært","MS",260
+"blew hard","PA8D!","80!","E","N"," "," ","ıbluº∫$Âh∂¥d","MS",261
+"blew","PA9A","83","V","N"," "," ","bèlçuº∫","MS",262
+"blew hard","PA9B","83b","E","N"," "," ","bÏuº∫$hﬁ¥éd","MS",263
+"blew hard","PA9C!","84!","E","N"," "," ","bluº∫$hﬁóº¥d","MS",264
+"blew hard","PA10","87","E","N"," "," ","ıpîluøæ∫$Âhµærtî","MS",265
+"blowed hard","PA11A","89","E","N"," "," ","blo{π}d$haæ¥d","MS",266
+"blew hard","PA11B","90(*)","E","N"," "," ","bluº∫$hµæ¥d","MS",267
+"blowed","PA12A","91","V","N"," "," ","bÏoº{π}d","MS",268
+"blew hard","PA12B","92","E","N"," "," ","bÏuº∫$hµ¥d","MS",269
+"blowed","PA13A","93","V","N"," "," ","bÏo{π}d","MS",270
+"blew","PA13B","94","V","N"," "," ","bÏuº∫","MS",271
+"blew hard","PA14A","95(*)","E","N"," "," ","bèlçuº$hµrü’t","MS",272
+"blew","PA14B","96","V","N"," "," ","blu∫","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"blew hard","PA15A","99","E","N"," "," ","ıbluº∫$Âhµæ¥d","MS",275
+"blew hard","PA15B","99b","E","N"," "," ","ıblu$Âhµ¥d","MS",276
+"blew hard","PA15C!","100!","E","N"," "," ","blu$hµ¥d","MS",277
+"blew hard","PA16A","101","E","N"," "," ","blçu∫$haæ∫rü’t","MS",278
+"blew hard","PA16B","102","E","N"," "," ","blu∫$hﬁóº¥d","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"blew hard","PA17A","105","E","Y","[rî]: dubious","DDT","ıbèlu∫$Âhµrîtî","MS",281
+"blew hard","PA17B","106","E","N"," "," ","bèlu∫$hµrü’{dè}","MS",282
+"blew hard","PA18A","107","E","N"," "," ","blu∫$hﬁó¥d","MS",283
+"blew hard","PA18B!","108!","E","N"," "," ","blu∫$Âhﬁº¥d","MS",284
+"blew hard","PA19A","113","E","N"," "," ","bluº∫$hµæ¥d","MS",285
+"blew hard","PA19B","114","E","N"," "," ","bluº∫$hﬁº¥d","MS",286
+"blew hard","PA20A","115","E","N"," "," ","ıbluº∫$Âhµæ¥d","MS",287
+"blew hard","PA20B","116","E","N"," "," ","bluº$hµæ¥d","MS",288
+"blew hard","PA21A","117","E","N"," "," ","bl±øuº$hµ¥d","MS",289
+"blew hard","PA21B","118","E","N"," "," ","blu∫$hµ¥d","MS",290
+"blew hard","PA22A","119","E","N"," "," ","bl±øuº$hµ¥d","MS",291
+"blew hard","PA22B","120","E","N"," "," ","blu∫$hµ¥d","MS",292
+"blew","PA23A","121","V","N","same pronunciation for the color"," ","bl±øu","MS",293
+"blew","PA23B","122","V","N"," "," ","bl±øuº","MS",294
+"blew","PA24A","123","V","N"," "," ","bluΩº∫","MS",295
+"blew hard","PA24B","124","E","N"," "," ","blu∫$haæ¥d","MS",296
+"blew","PA25A","125","V","N"," "," ","bl±øu","MS",297
+"blew hard","PA25B","126","E","N"," "," ","blu∫$hµ¥d","MS",298
+"blew hard","PA26A","127","E","N","cf. ""blue¢"," ","bl±øæuº$haæ¥d","MS",299
+"blue","PA26A","127","A","Y"," ","INA","bl±øæuº","MS",299
+"blew","PA26B","128","V","N","cf. ""blue¢"," ","bl±ø›u›º","MS",300
+"blue","PA26B","128","A","Y"," ","INA","blu{w}","MS",300
+"blowed","PA27A","131","V","Y"," ","AUX","bÏoπd","MS",301
+"blew","PA27A","131","V","Y"," ","AUX/NEW","bl±øu","MS",301
+"blew hard","PA27B","132","E","N"," "," ","bl±øuº$haæ¥d","MS",302
+"blowed hard","PA28A","135","E","N"," "," ","ıblo{π}d$Âhµ¥d","MS",303
+"blew hard","PA28B!","136!","E","N"," "," ","ıbluº∫$Âhﬁ¥ód","MS",304
+"blew","PA29A","139(*)","V","N"," "," ","bluº∫","MS",305
+"blew","PA29B","140","V","N"," "," ","bÏu∫","MS",306
+"blew hard","PA30A","143","E","N"," "," ","bl±øuº$haæ¥d","MS",307
+"blowed hard","PA30A","143","E","N"," "," ","bloπΩd$haæ¥d","MS",307
+"blew hard","PA30B","144","E","N"," "," ","bÏ±øuº$hµ´º¥d","MS",308
+"blew hard","PA31A","145","E","N"," "," ","blu∫$haæ¥d","MS",309
+"blew hard","PA31B","146","E","N"," "," ","ıbÏu∫$Âhµ¥d","MS",310
+"blew hard","PA32A","147","E","N"," "," ","blu∫$hµæ¥d","MS",311
+"blew hard","PA32B","148","E","N"," "," ","bÏuº∫$h∂îº¥éd","MS",312
+"blowed hard","PA33A","151","E","N"," "," ","bl¿´æπd$hﬁºrd","MS",313
+"blew hard","PA33B","152","E","N"," "," ","bluº∫$hµ´º¥d","MS",314
+"blowed","PA34A","155","V","N"," "," ","bÏoΩπd","MS",315
+"blew","PA34B","156","V","N"," "," ","bluº∫","MS",316
+"blew","PA34C!","155b!","V","Y"," ","AUX","bluøΩæuº","MS",317
+"blew hard","PA35A","157","E","N"," "," ","bÏuº∫$hµº¥d","MS",318
+"blew hard","PA35B","158(*)","E","N"," "," ","bÏuº∫$hµæ¥d","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"blew","PA36A","159","V","N"," "," ","bÏu∫","MS",321
+"blew hard","PA36B","160","E","N"," "," ","bÏuº∫$hµ¥d","MS",322
+"blew","PA37A","161(*)","V","N"," "," ","bèlçuº∫","MS",323
+"blew hard","PA37B","162","E","N"," "," ","bluøæ∫$hµ¥d","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"blew","PA38A","163","V","N"," "," ","bluøΩ{uøæ}","MS",326
+"blew hard","PA38B","164","E","N"," "," ","bÏuº$hµæ¥d","MS",327
+"blew hard","PA39A","165","E","N"," "," ","bluº∫$hµºrd","MS",328
+"blew hard","PA39B","166","E","N"," "," ","ıbluº∫$Âh∂îº¥d","MS",329
+"blew hard","PA40A","167","E","N"," "," ","ıbluøæ∫$Âhµ¥d","MS",330
+"blew hard","PA40B","168","E","N"," "," ","bluΩº∫$hµ¥d","MS",331
+"blowed hard","PA41A","171","E","N"," "," ","blo{π}d$hµæ¥d","MS",332
+"blew hard","PA41B","172","E","N"," "," ","bluøæ∫$hµ¥d","MS",333
+"blowed hard","PA42A","175","E","N"," "," ","ıbloºπd$Âhµ¥d","MS",334
+"blew and blew","PA42B","176","E","N"," "," ","ıblπ´u$∞n$Âblπ´uº","MS",335
+"blowed hard","PA43A","177","E","N"," "," ","bloºπd$hﬁ¥d","MS",336
+"blew","PA43B","178","V","N"," "," ","bÏuøΩæuº","MS",337
+"blowed hard","PA44A","179","E","N"," "," ","bloºπd$hµ¥d","MS",338
+"blew hard","PA44B","180","E","N"," "," ","bluº∫$hµ¥d","MS",339
+"blew hard","PA45A","181","E","N"," "," ","bluº∫$hﬁºréd","MS",340
+"blew hard","PA45B","182","E","N"," "," ","ıbluº∫$Âhµrd","MS",341
+"blew hard","PA46A","185","E","N"," "," ","bÏuøæ∫$hﬁºrd","MS",342
+"blew hard","PA46B","186","E","N"," "," ","bluøæ∫$hﬁºrd","MS",343
+"blew hard","PA47A","189","E","N"," "," ","bÏuøæ∫$hµæréd","MS",344
+"blowed","PA47A","189","V","N"," ","CNV","bÏoºπd","MS",344
+"blew","PA47B","190","V","N"," "," ","bÏuøæ∫","MS",345
+"blew hard","PA48A","191","E","N"," "," ","bÏuøæ∫$hµærd","MS",346
+"blew and blew","PA48B","192","E","N"," "," ","bÏuøæ∫$∞n$bÏuøæ∫","MS",347
+"blew hard","PA48B","192","E","N"," "," ","bÏuøæ∫$hµærd","MS",347
+"blew","PA48C","193","V","N"," "," ","bÏuø∫","MS",348
+"blew hard","PA49A","194","E","N"," "," ","ıbÏuøæ∫$Âhµrd","MS",349
+"blew hard","PA49B","195","E","N"," "," ","ıbÏuøæ∫$Âhﬁrd","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"blew hard","PA50B","197","E","N"," "," ","bluøæ∫$hµrd","MS",352
+"blew","PA50C!","198!","V","N"," "," ","bÏuøæ∫","MS",353
+"blew hard","PA51A","199","E","N"," "," ","bÏuøæ∫$hµærd","MS",354
+"blew","PA51B","200","V","N"," "," ","bluøæ∫","MS",355
+"blew hard","PA52A","201","E","N"," "," ","bÏuº∫$hﬁrd","MS",356
+"blew hard","PA52B!","202!","E","N"," "," ","bÏuøæ∫$hﬁrd","MS",357
+"blowed hard","PA53A","203","E","N"," "," ","ıbloΩº{π}d$ÂhaÒd","MS",358
+"blew hard","PA53B","204","E","N"," "," ","bluøΩuøæ$hard","MS",359
+"blew","PA54A","205","V","N"," "," ","bÏuøæ∫","MS",360
+"blew hard","PA54B","206","E","N"," "," ","ıbÏuøæ∫$Âhµrd","MS",361
+"blowed and blowed","PA55A","207","E","N"," "," ","bloºπd$nñ$bloºπd","MS",362
+"blew hard","PA55B","208","E","N"," "," ","bÏuøæ∫$hµºrd","MS",363
+"blew hard","PA56A","211(*)","E","N"," "," ","bluº∫$hµrd","MS",364
+"blew","PA56B","212","V","N"," "," ","bÏuøæ∫","MS",365
+"blew hard","PA57A","213","E","N"," "," ","bluøæ$hµrd","MS",366
+"blew hard","PA57B","214","E","N"," "," ","bÏuº∫$hµærd","MS",367
+"blew hard","PA58A","215","E","N"," "," ","ıbÏuøæ∫$Âhµºrd","MS",368
+"blew hard","PA58B","216","E","N"," "," ","bÏuøæ∫$Âhaærd","MS",369
+"blowed hard","PA59A","219","E","N"," "," ","bÏoΩºπd$hµréd","MS",370
+"blew hard","PA59B","220","E","N"," "," ","bluº∫$hµréd","MS",371
+"blew hard","PA60A","221","E","N"," "," ","bluøæ∫$hµrd","MS",372
+"blew hard","PA60B","222","E","N"," "," ","bluøæ∫$Âhµrd","MS",373
+"blowed hard","PA61A","223","E","N"," "," ","bloºπd$hµærd","MS",374
+"blew hard","PA61B","224","E","N"," "," ","bÏuøî$hµrd","MS",375
+"blew hard","PA62A","229","E","N"," "," ","bÏuº∫$hµrd","MS",376
+"blew hard","PA62B","230","E","N"," "," ","bÏuº∫$hµ´réd","MS",377
+"blew hard","PA63A","231","E","N"," "," ","ıbÏuº∫$Âhard","MS",378
+"blew hard","PA63B","232","E","N"," "," ","ıbluº∫$Âhµ¥é∫d","MS",379
+"blew hard","PA64A","233","E","N"," "," ","bl±øw$hµº¥›d","MS",380
+"blew hard","PA64B","234","E","N"," "," ","bluóΩ∫$haæ¥d","MS",381
+"blew","PA65A","237","V","N"," "," ","bÏ±øu","MS",382
+"blew hard","PA65B","238","E","N"," "," ","ıbÏu∫$Âhµº¥d","MS",383
+"blew hard","PA66A","239","E","N"," "," ","bÏu∫$hµº¥d","MS",384
+"blew hard","PA66B","240","E","N","cf. ""blue¢"," ","bÏ±øu$hµº¥d","MS",385
+"blue","PA66B","240","A","Y"," ","INA","bÏu∫","MS",385
+"blew hard","PA67A","243","E","N"," "," ","bl±øuº$hµº¥d","MS",386
+"blew hard","PA67B","244","E","N"," "," ","bl±øuº$Âhµ¥d","MS",387
+"blew hard","WV1!","88!","E","N"," "," ","bluº$h∂∫{∞é}d","MS",388
+"blew hard","WV2","89","E","N"," "," ","bluø∫$hµ¥d","MS",389
+"blowed hard","WV3","91","E","N"," "," ","bloπd$hµ¥d","MS",390
+"blowed hard","WV4A","92","E","N"," "," ","bloºπd$hµ¥d","MS",391
+"blowed and blowed","WV4B","93","E","N"," "," ","blo∫d$nñ$blo∫d","MS",392
+"blew hard","WV5","94","E","N"," "," ","ıbluø$Âhµæ¥d","MS",393
+"blowed","WV6A","95","V","N"," "," ","bloπd","MS",394
+"blowed","WV6B","96","V","N"," "," ","bloºπd","MS",395
+"blowed hard","WV7A","97","E","N"," "," ","bloπd$hµ¥d","MS",396
+"blowed hard","WV7B","98","E","N"," "," ","ıbÏoºπd$Âhµ¥d","MS",397
+"blowed hard","WV8A","97b","E","N"," "," ","blo∫{π}d$hﬁ¥d","MS",398
+"blew hard","WV8B","98b","E","N"," "," ","bluøæ∫$hﬁº¥d","MS",399
+"blowed hard","WV9A","301","E","N"," "," ","bloºπd$hµ¥d","MS",400
+"blew hard","WV9B","302","E","N"," "," ","bÏuøæ∫$hµæ¥d","MS",401
+"blowed hard","WV10A","303","E","N"," "," ","bloîºπd$hµ¥d","MS",402
+"blowed hard","WV10B","303b","E","N"," "," ","bÏoΩ∫πd$hµæ∫¥d","MS",403
+"blew hard","WV10C","304","E","N"," "," ","ıbÏuø∫$Âhµæ¥d","MS",404
+"blew hard","WV11A","305","E","N"," "," ","ıbÏuøæ∫$Âhﬁº∫¥d","MS",405
+"blowed hard","WV11B!","306!","E","N"," "," ","bloºπd$hﬁº¥d","MS",406
+"blew hard","WV12A","307","E","N"," "," ","bÏuº∫$hµæ¥d","MS",407
+"blew hard","WV12B","308","E","N"," "," ","ıbluøæ∫$Âhµ¥d","MS",408
+"blew hard","WV13A","309","E","N"," "," ","bluº∫$hµæ¥d","MS",409
+"blew hard","WV13B","310","E","N"," "," ","bluøæ∫$hﬁº¥d","MS",410
+"blew hard","WV14A","311","E","N"," "," ","bÏuøæ∫$hµæ¥d","MS",411
+"blew hard","WV14B","312","E","N"," "," ","bluøæ∫$hµ¥d","MS",412
+"blowed hard","WV15A","313","E","N"," "," ","bÏoºπd$hµæ¥d","MS",413
+"blowed hard","WV15B","314","E","N"," "," ","bÏoºπd$hµæ¥d","MS",414
+"blew hard","WV16A","315","E","N"," "," ","ıbluΩº∫$Âhﬁº¥d","MS",415
+"blew hard","WV16B","316","E","N"," "," ","bluº∫$hµ¥d","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"blew hard","WV17B","317b","E","N"," "," ","ıbÏuøæ∫$Âhµæ¥d","MS",418
+"blew hard","WV17C","318","E","N"," "," ","bluøæ∫$hµ¥d","MS",419
+"blew","WV18A","319","V","N"," "," ","bÏuøæ∫","MS",420
+"blew hard","WV18B","320","E","N"," "," ","bluøæ∫$hµ¥d","MS",421
+"blowed hard","WV19A","321","E","N"," "," ","bloπd$hµrd","MS",422
+"blew hard","WV19B","322","E","N"," "," ","bluøæ$hµæ¥d","MS",423
+"blew hard","WV20A","323","E","N"," "," ","ıbluøæ∫$Âhµærd","MS",424
+"blew hard","WV20B","324","E","N"," "," ","bluøæ$hµrd","MS",425
+"blowed hard","WV21A","325","E","N"," "," ","blo∫πd$hµæ¥d","MS",426
+"blew hard","WV21B","326","E","N"," "," ","bluøæ∫$hﬁº¥d","MS",427
+"blew hard","WV22A","327","E","N"," "," ","bluº∫$hµ¥d","MS",428
+"blew hard","WV22B","328","E","N"," "," ","bluøæ∫$hµ¥d","MS",429
+"blowed hard","WV23A","331","E","N"," "," ","blo∫{π}d$hµ¥d","MS",430
+"blew hard","WV23B","332","E","N"," "," ","bluº∫$hµ¥d","MS",431
+"blew hard","WV24A","335","E","N"," "," ","bluøæ∫$hµ¥d","MS",432
+"blew hard","WV24B","336","E","N"," "," ","ıbluøæ∫$Âhµæ¥d","MS",433
+"blew hard","WV25A","337","E","N"," "," ","bluº∫$hµ¥d","MS",434
+"blew hard","WV25B","338","E","N"," "," ","bluøæ∫$hµ¥d","MS",435
+"blowed hard","WV26A","339","E","N"," "," ","blo∫d$hµæ¥d","MS",436
+"blew hard","WV26B","340","E","N"," "," ","bluº∫$hﬁº¥d","MS",437
+"blowed hard","WV27A","341","E","N"," "," ","blo∫{π}d$hµæ∫¥d","MS",438
+"blowed hard","WV27B","342","E","N"," "," ","ıbloΩº∫πd$Âhµ∫¥d","MS",439
+"blowed hard","WV28A","343","E","N"," "," ","bloπd$hµ¥d","MS",440
+"blew hard","WV28B","344","E","N"," "," ","bluø∫$hµ¥d","MS",441
+"blowed hard","WV29A","345","E","N"," "," ","blo∫{π}d$hﬁº¥d","MS",442
+"blew hard","WV29B","346","E","N"," "," ","bluøæ∫$hµæ¥d","MS",443
+"blowed hard","WV30A","347","E","N"," "," ","ıblo∫{π}d$Âhµ¥d","MS",444
+"blew hard","WV30B","348","E","N"," "," ","bluº∫$hﬁº¥d","MS",445
+"blowed hard","WV31A","349","E","N"," "," ","blo∫{π}d$hﬁ∫¥›d","MS",446
+"blowed hard","WV31B","350","E","N"," "," ","blo{π}d$hµæ¥d","MS",447
+"blowed hard","WV32A","353","E","N"," "," ","blo{π}d$hµæ¥d","MS",448
+"blowed hard","WV32B","354","E","N"," "," ","blo∫{π}d$hﬁ¥d","MS",449
+"blew hard","WV33A","355","E","N"," "," ","bluº∫$hﬁºrd","MS",450
+"blew hard","WV33B","356","E","N"," "," ","bluøæ$hµ¥d","MS",451
+"blew hard","WV34A","359","E","N"," "," ","bluº∫$hﬁº¥d","MS",452
+"blowed hard","WV34B","360","E","N"," "," ","ıbloπd$Âhﬁº∫¥d","MS",453
+"blew hard","WV35A","361","E","N"," "," ","bluº$hﬁº¥d","MS",454
+"blew hard","WV35B","362","E","N"," "," ","bluøæ$hµæ¥d","MS",455
+"blowed hard","WV36A","363","E","N"," "," ","ıbloΩπd$Âhµæ∫¥d","MS",456
+"blew hard","WV36B","364","E","N"," "," ","bluº∫$hµ¥d","MS",457
+"blew hard","WV37A","365","E","N"," "," ","bluøæ∫$hµæ¥d","MS",458
+"blew hard","WV37B!","366!","E","N"," "," ","bluø$hµæ¥d","MS",459
+"blew hard","WV38A","367","E","N"," "," ","ıbluøæ∫$Âhµ¥d","MS",460
+"blowed hard","WV38B","368","E","N"," "," ","bloºπd$hﬁº¥d","MS",461
+"blew hard","WV39A","369","E","N"," "," ","bluø∫$hﬁº¥d","MS",462
+"blew hard","WV39B","370","E","N"," "," ","bluøæ∫$hµ¥éd","MS",463
+"blew hard","WV39C!","371!","E","N"," "," ","bluº∫$hµæ¥d","MS",464
+"blew hard","WV40A","373","E","N"," "," ","ıbluº∫$Âhµ¥d","MS",465
+"blew","WV40B","374","V","N"," "," ","bÏuøæ∫","MS",466
+"blew hard","WV41A","375","E","N"," "," ","bluøæ∫$hµæ¥d","MS",467
+"blew hard","WV41B","376","E","N"," "," ","bluøæ∫$hµ¥d","MS",468
+"blew hard","WV42A","377","E","N"," "," ","bÏuøæ∫$hﬁº¥d","MS",469
+"blew hard","WV42B","378","E","N"," "," ","bÏuøæ∫$hµæ¥d","MS",470
+"blew hard","WV43A","381","E","N"," "," ","bluøæ∫$hµæ¥d","MS",471
+"blew hard","WV43B","382","E","N"," "," ","bluøæ∫$hµ¥d","MS",472
+"blowed hard","WV44A","383","E","N"," "," ","bloºπd$hµ¥d","MS",473
+"blew hard","WV44B","384","E","N"," "," ","bluøæ∫$hµæ¥d","MS",474
+"blew hard","WV45A","385","E","N"," "," ","bluº∫$hµæ¥d","MS",475
+"blew hard","WV45B","386","E","N"," "," ","bluøîæ∫$hµ¥d","MS",476
+"blew hard","WV46A","387","E","N"," "," ","bluøæ∫$hµæréd","MS",477
+"blew hard","WV46B","388","E","N"," "," ","bluøæ∫$hﬁ¥d","MS",478
+"blew hard","WV47A","389","E","N"," "," ","bÏu∫$hµæ¥d","MS",479
+"blew hard","WV47B","390","E","N"," "," ","ıbÏuøæ∫$Âhﬁº¥d","MS",480
+"blew hard","WV48A","391","E","N"," "," ","bluøæ$hµæ¥d","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"blew hard","WV48D","392b","E","N"," "," ","bÏuº∫$hµ¥d","MS",484
+"blowed hard","WV49A","393","E","N"," "," ","ıbÏoøæπd$Âhµæréd","MS",485
+"NR","WV49B","394"," ","N"," "," "," ","MS",486
+"blew hard","WV50A","395","E","N"," "," ","bluøæ∫$hﬁº¥d","MS",487
+"blew hard","WV50B","396","E","N"," "," ","ıbluøæ$Âhµæ¥d","MS",488
+"blew hard","WV51A","261","E","N"," "," ","bÏuøæ∫$Âhµæ¥d","MS",489
+"blew hard","WV51B","262","E","N"," "," ","bluøæ∫$Âhﬁ¥d","MS",490
+"blew hard","WV52A","258","E","N"," "," ","bluøæ∫$hµ¥d","MS",491
+"blew hard","WV52B","259","E","N"," "," ","bluø∫$hµ¥d","MS",492
+"blew hard","WV52C!","260!","E","N"," "," ","bluº∫$hµ¥d","MS",493
+"blew hard","WV53A","257","E","N"," "," ","bluº∫$hµæ¥d","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"blew hard","WV53C!","257c!","E","N"," "," ","ıbluøæ∫$Âhµ¥d","MS",496
+"blowed hard","WV54A","255","E","N"," "," ","ıbÏ¿´πd$Âhµrd","MS",497
+"blew hard","WV54B","256","E","N"," "," ","bÏuøîæ∫$Âhﬁºréd","MS",498
+"blew","DE1A","11","V","N"," "," ","bÏuΩºuº","MS",499
+"blew","DE1B","12","V","N"," "," ","bÏuº∫","MS",500
+"blew and blew","DE1C!","13!","E","N"," "," ","bÏuøæ∫$∞n$bÏuøæ∫","MS",501
+"blowed and blowed","DE2A","15(*)","E","N"," "," ","bl¿´æπd$nñ$bl¿´æπd","MS",502
+"blew hard","DE2B","16","E","N"," "," ","ıbluøºuø$Âhµæ¥d","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"blowed and blowed","DE3A","18","E","N"," "," ","bÏoºπd$∞n$bÏoºπd","MS",505
+"blew hard","DE3B","19","E","N"," "," ","bluøæ$h∂´¥d","MS",506
+"blew hard","DE3C!","17!","E","N"," "," ","bluº∫$h∂îº¥d","MS",507
+"blowed hard","DE4","20","E","N"," "," ","bloºπd$h∂´¥d","MS",508
+"blowed and blowed","DE5A","21","E","N"," "," ","bloºπd$nñ$bÏoºπd","MS",509
+"blew hard","DE5B","22","E","N"," "," ","bluøæ$h∂´¥d","MS",510
+"blowed hard","DE6A","23","E","N"," "," ","bloºπd$h∂¥d","MS",511
+"blowed hard","DE6B","24","E","N"," "," ","bloºπd$h∂´º¥d","MS",512
+"blowed hard","MD1A","27","E","N"," "," ","bloπd$hﬁº¥d","MS",513
+"blew hard","MD1B","28","E","N"," "," ","ıbluº∫$Âhµæ¥d","MS",514
+"blowed","MD2A","31a","V","N"," "," ","bloπd","MS",515
+"blew hard","MD2B","32","E","N"," "," ","bluøæ∫$hﬁº∫¥d","MS",516
+"blowed hard","MD3A","33","E","N"," "," ","bloº∫πd$h∂´∫{¥}d","MS",517
+"blowed","MD3B","34","V","N"," "," ","bloîºπ´d","MS",518
+"blowed hard","MD4A","35b","E","N"," "," ","bloπd$h∂´º¥d","MS",519
+"blowed hard","MD4B","35","E","N"," "," ","bloΩπd$h∂´º¥d","MS",520
+"blowed and blowed","MD4C","36","E","N"," "," ","ıbloΩºπd$nñ$ÂbloΩºπd","MS",521
+"blowed and blowed","MD5A","37","E","N"," "," ","bloºπd$nñ$bloºπd","MS",522
+"blew hard","MD5B","38","E","N"," "," ","bluøæ∫$hµæ¥d","MS",523
+"blowed","MD6A","39(*)","V","N"," "," ","bloΩπd","MS",524
+"blew hard","MD6B","40","E","N"," "," ","bluøæ∫$h∂´¥d","MS",525
+"blowed hard","MD7A","41","E","N"," "," ","ıblo{π}d$Âh∂¥d","MS",526
+"blew hard","MD7B","41b","E","N"," "," ","blπ´ºuº$h∂´º¥d","MS",527
+"blew and blew","MD7C!","42!","E","N"," "," ","bluøæ∫$∞n$bluøæ∫","MS",528
+"blowed hard","MD8A","43","E","N"," "," ","bloΩπd$h∂´¥d","MS",529
+"blowed hard","MD8B","44","E","N"," "," ","bloºπ´d$h∂´¥d","MS",530
+"blowed and blowed","MD9N","N46","E","N"," "," ","blo∫d$nñ$blo∫d","MS",531
+"blowed hard","MD9A","45","E","N"," "," ","ıbÏoΩπd$Âh∂´º¥d","MS",532
+"blowed hard","MD9B","46","E","N"," "," ","bÏoºπd$h∂´¥d","MS",533
+"blew hard","MD10A","49","E","N"," "," ","bluøæ∫$hﬁº¥d","MS",534
+"blowed and blowed","MD10B","50","E","N"," "," ","bloøΩæπ´d$nñ$bloøΩæπ´d","MS",535
+"blowed and blowed","MD11","51","E","N"," "," ","ıbloπd$nñ$Âbloπd","MS",536
+"blowed and blowed","MD12A","52","E","N"," "," ","bloºπ´d$nñ$bloºπ´d","MS",537
+"blowed and blowed","MD12B","53","E","N"," "," ","bÏoºuΩºd$nñ$bÏoºπ´d","MS",538
+"blowed and blowed","MD13A","54(*)","E","N"," "," ","bloΩºπ´d$nñ$bloΩºπd","MS",539
+"blew hard","MD13B","55","E","N"," "," ","bluΩº∫$hﬁº∫¥d","MS",540
+"blew hard","MD13C","56","E","N"," "," ","bluº∫$hﬁº∫¥d","MS",541
+"blew and blew","MD13D!","57!","E","N"," "," ","bluøuøæ$∞n$bluøuøæ","MS",542
+"blew and blew","MD13E!","58!","E","N"," "," ","bluøæ∫$∞n$bluøæ∫","MS",543
+"blew and blew","MD13F!","59!","E","N"," "," ","blπø´uø´$∞n$blπø´uø´","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"blowed and blowed","MD14","61(*)","E","N"," "," ","blo´º∫{π}d$nñ$blo´º∫{π}d","MS",546
+"blowed hard","MD15A","62","E","N"," "," ","ıblo´∫{π}d$Âhﬁº∫∞éd","MS",547
+"blowed and blowed","MD15B","63","E","N"," "," ","bloºπ´d$nñ$bloºπ´d","MS",548
+"blowed and blowed","MD16","64","E","N"," "," ","bloº{π}d$nñ$bloº{π}d","MS",549
+"blew hard","MD17A","65","E","N"," "," ","bluø∫$hµ¥d","MS",550
+"blowed and blowed","MD17B","66","E","N"," "," ","bloΩºπ´d$nñ$bloΩºπ´d","MS",551
+"blowed and blowed","MD18A","67","E","N"," "," ","bloº∫{π}d$nñ$bloº∫{π}d","MS",552
+"blew and blew","MD18B","68","E","N"," "," ","bluø∫$∞n$bluø∫","MS",553
+"blew and blew","MD19A","69","E","N"," "," ","bluø∫$∞n$bluø∫","MS",554
+"blew and blew","MD19B","70","E","N"," "," ","bluø∫$∞n$bluø∫","MS",555
+"blowed and blowed","MD20A","71","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",556
+"blowed and blowed","MD20B","72","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",557
+"blew and blew","MD20C!","73!","E","N"," "," ","bluø∫$∞n$bluøæ∫","MS",558
+"blowed and blowed","MD21A","75","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",559
+"blew and blew","MD21B","76","E","N"," "," ","ıbluø{uø´æ}$∞n$Âbluø{uø´æ}","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"blowed and blowed","MD22M","N78","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",562
+"blowed and blowed","MD22A","77","E","N"," "," ","blo∫d$nñ$blo∫d","MS",563
+"blowed and blowed","MD22B","78","E","N"," "," ","blo´{π}d$∞n$blo´{π}d","MS",564
+"blew hard","MD22C!","79!","E","N"," "," ","ıbluº∫$Âhµæ∫∞éd","MS",565
+"blowed and blowed","MD23A","80b","E","N"," "," ","ıblo´∫{π}d$nñ$Âblo´∫{π}d","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"blew and blew","MD23C","81","E","N"," "," ","bluø∫$∞n$bluø∫","MS",568
+"blowed and blowed","MD24","82","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",569
+"blew and blew","MD25","84","E","N"," "," ","bluøæ∫$∞n$bÏu›´u›º","MS",570
+"blowed","MD26A","83","V","N"," "," ","bloøΩæπ´d","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"blowed hard","MD27A","85","E","N"," "," ","ıbloπd$Âhﬁº¥d","MS",573
+"blowed","MD27B","86","V","N"," "," ","bloºπd","MS",574
+"blew and blew","DC1A","99","E","N"," "," ","bluº$∞n$bluº","MS",575
+"blew and blew","DC1B!","100!","E","N"," "," ","bluø{uø´}$∞n$bluø{uø´}","MS",576
+"blew","VA1!","101!","V","N"," "," ","bluø∫","MS",577
+"blowed and blowed","VA2A","103","E","N"," "," ","blo∫{∞}d$nñ$blo∫d","MS",578
+"blowed and blowed","VA2B","104","E","N"," "," ","bloπd$nñ$bloπd","MS",579
+"blowed and blowed","VA3A","105(*)","E","N"," "," ","bÏoπd$nñ$bÏoπd","MS",580
+"blew and blew","VA3B","106","E","N"," "," ","ıbluøæ∫$∞n$Âbluøæ∫","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"blowed and blowed","VA4N","N109","E","N"," "," ","ıblo∫d$nñ$Âblo∫d","MS",583
+"blowed and blowed","VA5A","107","E","N"," "," ","blo∫d$nñ$blo∫d","MS",584
+"blew and blew","VA5B","108","E","N"," "," ","bluøæ∫$∞n$bluøæ∫","MS",585
+"blowed and blowed","VA6A","113","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",586
+"blowed and blowed","VA6B","114","E","N"," "," ","bloπd$nñ$bloπd","MS",587
+"blowed and blowed","VA7A","121","E","N"," "," ","blço{π}d$nñ$blço∫d","MS",588
+"blew and blew","VA7B","122","E","N"," "," ","blçuø{uø´æ}$∞n$bluø{uø´æ}","MS",589
+"blowed and blowed","VA8A","123","E","N"," "," ","blo{πø}d$nñ$blo´∫d","MS",590
+"blowed and blowed","VA8B","124","E","N"," "," ","blo{π}d$∞n$blo{π}{∞}d","MS",591
+"blew and blew","VA8C!","125!","E","N"," "," ","bluø∫$∞n$bluø∫","MS",592
+"blowed and blowed","VA9A","117","E","N"," "," ","blo:d$nñ$blo:d","MS",593
+"blew and blew","VA9B!","118!","E","N"," "," ","bluø´∫$∞n$bluø´∫","MS",594
+"blowed and blowed","VA10A","127","E","N"," "," ","ıblo∫{πΩ}d$nñ$Âblo∫{πΩ}d","MS",595
+"blew and blew","VA10B","128","E","N"," "," ","ıbluø:$∞n$Âbluø{uø´}","MS",596
+"blowed and blowed","VA11A","129","E","N"," "," ","blo{π}d$nñ$bloπd","MS",597
+"blowed and blowed","VA11B","130","E","N"," "," ","blo{π}d$nñ$blo∫{π}d","MS",598
+"blowed and blowed","VA12N","N131","E","N"," "," ","blo∫d$nñ$blo∫d","MS",599
+"blowed and blowed","VA12A","131","E","N"," "," ","blo∫d$nñ$blo∫d","MS",600
+"blew and blew","VA12B!","132!","E","N"," "," ","bluøæ∫$∞n$bluøæ{w}","MS",601
+"blowed and blowed","VA13A","133","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",602
+"blew and blew","VA13B","134","E","N"," "," ","bluø$∞n$bluø∫","MS",603
+"blowed and blowed","VA14A","135","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",604
+"blowed and blowed","VA14B","136","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",605
+"blew and blew","VA14C","137","E","N"," "," ","bluø∫$∞n$bluø∫","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"blowed and blowed","VA15A","139","E","N"," "," ","blço´∫d$nñ$blço´∫d","MS",608
+"blew and blew","VA15B","140","E","N"," "," ","bluøæ$∞n$bluø","MS",609
+"blowed and blowed","VA16A","141","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",610
+"blew and blew","VA16B","142","E","N"," "," ","bluøΩ{uøæ}$∞n$bluøΩ∫{uøæ}","MS",611
+"blowed and blowed","VA17A","143","E","N"," "," ","blo´∫{π}d$nñ$blo´∫{π}d","MS",612
+"blowed and blowed","VA17B","144","E","N"," "," ","bloπd$nñ$bloπd","MS",613
+"blew and blew","VA18","145","E","N"," "," ","blçuøæ∫$∞n$blçuøæ","MS",614
+"blowed and blowed","VA19A","146","E","N"," "," ","bloøuºd$nñ$bloøuºd","MS",615
+"blowed and blowed","VA19B","147","E","N"," "," ","bl∑´ºπd$nñ$bl∑´ºπd","MS",616
+"NR","VA19C!","148!"," ","N"," "," "," ","MS",617
+"blowed and blowed","VA20A","149","E","N"," "," ","blo∫d$∞n$blo∫d","MS",618
+"blew and blew","VA20B","150(*)","E","N"," "," ","bluøî$∞n$bluøî∫","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"blowed and blowed","VA21N","N153","E","N"," "," ","blo∫d$·Ωn$blo∫d","MS",621
+"blowed and blowed","VA21A","153","E","N"," "," ","bloΩ∫{π}d$nñ$bloΩ∫{πΩ}d","MS",622
+"blew and blew","VA21B","154","E","N"," "," ","bluøΩ{uø}$∞n$bluøΩ{uø}","MS",623
+"blowed and blowed","VA22","155","E","N"," "," ","ıblo∫{πø}d$nñ$Âblo∫{πø}d","MS",624
+"blowed and blowed","VA23A","156","E","N"," "," ","bl∑´ºπd$∞n$bl∑´ºπd","MS",625
+"blowed and blowed","VA23B","157","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",626
+"blew and blew","VA24","159","E","N"," "," ","ıbluø{uø´æ}$∞n$Âbluø{uø´æ}","MS",627
+"blowed and blowed","VA25","160(*)","E","N"," "," ","bl∑º∫πd$nñ$bloΩºπºd","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"blowed and blowed","VA26B","161","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",630
+"blew and blew","VA26C","162","E","N"," "," ","bluøîΩ∫$∞n$bluøΩ∫","MS",631
+"blowed and blowed","VA27","163(*)","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",632
+"blowed and blowed","VA28A","164","E","N"," "," ","ıbÏoΩπd$nñ$ÂbÏoΩπd","MS",633
+"blew and blew","VA28B","165","E","N"," "," ","ıbluøΩ{uøæ}$∞n$ÂbluøΩ{uøæ}","MS",634
+"blowed and blowed","VA29","166","E","N"," "," ","blo{πΩ}d$∞n$blo{πΩ}d","MS",635
+"blowed and blowed","VA30A","167","E","N"," "," ","ıblo∫{π}d$nñ$Âblo∫{π}d","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"blew and blew","VA30C!","168!","E","N"," "," ","bluøΩ∫$∞n$bluøΩ","MS",638
+"blew and blew","VA30D!","169!","E","N"," "," ","bluø∫$∞n$bluø{w}","MS",639
+"blew and blew","VA30E!","170!","E","N"," "," ","bluø∫{uø´}$∞n$bluø∫","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"blew and blew","VA31B","172","E","N"," "," ","bluøæ∫$∞n$bluøæ∫","MS",642
+"blowed and blowed","VA31C"," ","E","N"," "," ","ıblo∫{π}d$nñ$Âblo∫{π}d","MS",643
+"blew and blew","VA32!","175!","E","N"," "," ","ıbluøΩ∫$∞n$ÂbluøΩ∫{uø}","MS",644
+"blowed and blowed","VA33A","173","E","N"," "," ","ıblo∫{π}d$nñ$Âblo∫{π}d","MS",645
+"blowed and blowed","VA33B","174","E","N"," "," ","bloº{π}d$nñ$bloº{π}d","MS",646
+"blowed and blowed","VA34A","177(*)","E","N"," "," ","bloπd$∞n$bloπd","MS",647
+"blowed and blowed","VA34B","178","E","N"," "," ","ıbloº{π}d$nñ$Âbloº{π}d","MS",648
+"blowed and blowed","VA35A","179","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",649
+"blowed and blowed","VA35B","180","E","N"," "," ","bloπd$nñ$bloπd","MS",650
+"blowed and blowed","VA36A","181","E","N"," "," ","blo´º∫{π}d$nñ$blo´º{π}d","MS",651
+"blowed and blowed","VA36B","182","E","N"," "," ","ıblo{π}d$±øn$Âblo{π}d","MS",652
+"blowed and blowed","VA37","183","E","N"," "," ","ıbloºπd$nñ$Âbloºπd","MS",653
+"blowed and blowed","VA38","185","E","N"," "," ","ıbloΩπd$nñ$ÂbloΩπd","MS",654
+"blew and blew","VA39!","186!","E","N"," "," ","bluø{wà}$∞n$bluø{wà}","MS",655
+"blowed and blowed","VA40A","187","E","N"," "," ","blo∫πd$nñ$blo∫πd","MS",656
+"blew and blew","VA40B","188","E","N"," "," ","bluøº{uø}$∞›n$bluøº{uø}","MS",657
+"blowed and blowed","VA41A","191","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",658
+"blowed and blowed","VA41B","192","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",659
+"blowed and blowed","VA42A","193(*)(**)","E","N"," "," ","blço∫d$nñ$blço∫d","MS",660
+"blew and blew","VA42B","194","E","N"," "," ","bluø∫$∞n$bluø∫","MS",661
+"blowed and blowed","VA43N","N195","E","N"," "," ","ıblo´∫d$∞n$Âblo´∫d","MS",662
+"blowed and blowed","VA43A","195","E","N"," "," ","blo∫d$nñ$blo∫d","MS",663
+"blew and blew","VA43B","196","E","N"," "," ","ıbluø∫$∞n$Âbluø∫","MS",664
+"blowed and blowed","VA44A","199","E","N"," "," ","bloπd$nñ$bloπd","MS",665
+"blowed and blowed","VA44B","200","E","N"," "," ","blço∫d$nñ$blço∫d","MS",666
+"blowed and blowed","VA45A","201","E","N"," "," ","blo∫d$nñ$blo∫d","MS",667
+"blew and blew","VA45B","202","E","N"," "," ","bluø∫$∞n$bluø","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"blowed and blowed","VA46A","207","E","N"," "," ","blço´∫d$nñ$blço∫d","MS",670
+"blew and blew","VA46B!","208!","E","N"," "," ","bluøΩ$∞›n$bluø{uø´}","MS",671
+"blowed and blowed","VA47","211","E","N"," "," ","blo{π}d$nñ$blo∫d","MS",672
+"blowed and blowed","VA48A","213(*)","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",673
+"blew and blew","VA48B","214","E","N"," "," ","bluøº{uø´}$∞n$bluø{uø´}","MS",674
+"blowed and blowed","VA49A","215","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",675
+"blew and blew","VA49B","216","E","N"," "," ","bluø∫$∞n$bluø{uø´}","MS",676
+"blowed and blowed","VA50A","217","E","N"," "," ","blo∫{πΩ}d$nñ$blo∫{πΩ}d","MS",677
+"blowed and blowed","VA50B","218","E","N"," "," ","ıblo∫{π}d$nñ$Âblo∫{π}d","MS",678
+"blowed and blowed","VA51A","219","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",679
+"blowed and blowed","VA51B","220(*)","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"blowed and blowed","VA52A","224","E","N"," "," ","bl¿æπd$nñ$bl¿æπd","MS",682
+"blew and blew","VA52B","225","E","N"," "," ","bluøΩ{uøæ}$∞n$bluøΩ{uøæ}","MS",683
+"blew and blew","VA52C!","226!","E","N"," "," ","bÏuøî∫$∞n$bÏuøæ∫","MS",684
+"blowed and blowed","VA53A","227","E","N"," "," ","bloπd$nñ$bloπd","MS",685
+"blowed and blowed","VA53B","228","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",686
+"blowed and blowed","VA54A","229","E","N"," "," ","bloº{π}d$nñ$bloº{π}d","MS",687
+"blew and blew","VA54B","230","E","N"," "," ","bluº∫$∞n$bluº∫","MS",688
+"blowed and blowed","VA55A","233(*)","E","N"," "," ","blo∫d$nñ$blo∫d","MS",689
+"blew and blew","VA55B","234(*)","E","N"," "," ","bluøΩº{uø}$∞n$bluøΩº{uø}","MS",690
+"blowed and blowed","VA56A","237","E","N"," "," ","bloπd$∞n$bloπd","MS",691
+"blew and blew","VA56B","238","E","N"," "," ","bluº◊$∞n$bluº∫◊","MS",692
+"blowed and blowed","VA57A","239","E","N"," "," ","bloΩ{πΩ}d$nñ$bloΩ{πΩ}d","MS",693
+"blowed and blowed","VA57B","240","E","N"," "," ","bloº{π}d$nñ$blo{π}d","MS",694
+"blowed and blowed","VA58","241(*)","E","N"," "," ","blo∫d$nñ$blo∫d","MS",695
+"blowed and blowed","VA59N","N241","E","N"," "," ","blço´:d$∞n$blço∫{∞}d","MS",696
+"blew and blew","VA59A","242","E","N"," "," ","bluøΩº∫$∞n$bluøΩº{uøº}","MS",697
+"blew and blew","VA59B!","243!","E","N"," "," ","bluøΩ∫$∞n$bluøΩ{uø}","MS",698
+"blowed and blowed","VA60","244(*)","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",699
+"blowed and blowed","VA61A","245(*)","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",700
+"blew and blew","VA61B!","246!","E","N"," "," ","bluøîæ∫$∞n$bluøæ∫","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"blowed and blowed","VA62A","247(*)","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",703
+"blowed and blowed","VA62B","248","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",704
+"blowed and blowed","VA63A","251","E","N"," "," ","ıblo∫{π}d$nñ$Âblo∫{π}d","MS",705
+"it blowed and blowed","VA63B","252","S","N"," "," ","h±t$ÂbÏoîºπ´d$nñ$bÏoºπ´d","MS",706
+"blowed and blowed","VA64A","255","E","N"," "," ","bloπd$n$bloπd","MS",707
+"blew and blew","VA64B","256","E","N"," "," ","blπø´uø$∞n$blπø´uøΩ","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"blowed and blowed","VA65B","258","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",710
+"blew and blew","VA65C!","259!","E","N"," "," ","bluøΩ{uø}$∞n$bluøΩ{uø}","MS",711
+"blowed and blowed","VA66A","261","E","N"," "," ","ıbloπd$nñ$Âbloπd","MS",712
+"blowed","VA66B","262","V","N"," "," ","bloπd","MS",713
+"blowed and blowed","VA67A","267","E","N"," "," ","ıblo∫π´d$nñ$Âblo∫π´d","MS",714
+"blew and blew","VA67B","268","E","N"," "," ","bluøΩ{uø}$∞n$bluøΩ{uø}","MS",715
+"blowed and blowed","VA68A","269","E","N"," "," ","blo{π}d$nñ$bloπd","MS",716
+"blowed and blowed","VA68B","270","E","N"," "," ","bloºπd$nñ$bloºπd","MS",717
+"blowed and blowed","VA69A","273","E","N"," "," ","ıblo∫{π}d$nñ$Âblo{π}d","MS",718
+"blew and blew","VA69B","274","E","N"," "," ","bluîΩº∫$∞n$bluîΩº∫","MS",719
+"blowed and blowed","VA70A","275","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",720
+"blowed and blowed","VA70B","276","E","N"," "," ","bloΩºπ´d$nñ$bloΩºπ´d","MS",721
+"blowed and blowed","VA71A","285","E","N"," "," ","bÏoºπ´d$nñ$bÏoºπ´d","MS",722
+"blowed and blowed","VA71B","286","E","N"," "," ","bÏoîºπî´d$nñ$bÏoîºπî´d","MS",723
+"blowed and blowed","VA72A","287","E","N"," "," ","blo∫πd$nñ$blo∫πd","MS",724
+"blowed and blowed","VA72B","288","E","N"," "," ","bÏoπ´d$nñ$bÏoπ´d","MS",725
+"blowed and blowed","VA73","291","E","N"," "," ","ıbÏoπ´d$nñ$ÂbÏoπ´d","MS",726
+"blowed and blowed","VA74A","293","E","N"," "," ","ıbloπ´d$nñ$Âbloπ´d","MS",727
+"blew and blew","VA74B!","294!","E","N"," "," ","bluø{uø´}$∞n$bÏuøΩ{uø´}","MS",728
+"blowed and blowed","VA75A","297","E","N"," "," ","bÏoΩπ´d$nñ$bÏoΩπ´d","MS",729
+"blowed and blowed","VA75B","298","E","N"," "," ","ıbÏoΩπ´d$nñ$ÂbÏoΩπ´d","MS",730
+"blowed and blowed","NC1","303","E","N"," "," ","bl¿Ωæπd$nñ$bl¿Ωæπd","MS",731
+"blowed and blowed","NC2A","301","E","N"," "," ","ıbl¿πd$nñ$bl¿πd","MS",732
+"blowed and blowed","NC2B","304","E","N"," "," ","bloø∫π´d$bloø∫π´d","MS",733
+"blowed and blowed","NC3A","305","E","N"," "," ","bloΩºπ´d$nñ$bloΩºπ´d","MS",734
+"blew and blew","NC3B","306","E","N"," "," ","ıbluøΩ{uøæ}$nñ$ÂbluøΩ{uøæ}","MS",735
+"blowed and blowed","NC4A","307","E","N"," "," ","ıbl¿æπ´d$nñ$ÂbloΩºπ´d","MS",736
+"blowed and blowed","NC4B","308","E","N"," "," ","blçoøîπî´d$nñ$bloøπ´d","MS",737
+"blowed and blowed","NC5A","309","E","N"," "," ","bloøîπ´d$nñ$bloøîπ´d","MS",738
+"it blowed and blowed","NC5B","310","S","N"," "," ","h±t$bloøπ´d$nñ$bloøπ´d","MS",739
+"blew and blew","NC6!","311!","E","N"," "," ","ıbluøΩº{uø}$∞n$ÂbluøΩº{uø}","MS",740
+"blowed and blowed","NC7A","315(*)","E","N"," "," ","bloºπd$nñ$bloºπd","MS",741
+"blew and blew","NC7B","316","E","N"," "," ","bluøΩº{uø´}$∞n$bluøΩº{uø´}","MS",742
+"blowed and blowed","NC8N","N317","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",743
+"blowed and blowed","NC8A","317","E","N"," "," ","bloºπ´d$nñ$bloºπ´d","MS",744
+"blowed and blowed","NC8B","318(*)","E","N"," "," ","ıbloºπ´d$nñ$Âbloºπ´d","MS",745
+"blowed and blowed","NC9A","319","E","N"," "," ","ıbl¿π´d$nñ$bl¿π´d","MS",746
+"blowed and blowed","NC9B","320","E","N"," "," ","bloøΩºπ´ºd$nñ$bloøΩºπ´ºd","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"blowed and blowed","NC10B","323","E","N"," "," ","bl¿π´d$nñ$bl¿πd","MS",749
+"blew and blew","NC10C","322","E","N"," "," ","ıbluøΩº{uø}$∞n$ÂbluøΩº{uø}","MS",750
+"blowed and blowed","NC11A","325","E","N"," "," ","bl¿îΩº∫πd$nñ$bl¿îΩº∫πd","MS",751
+"blowed and blowed","NC11B","326","E","N"," "," ","bl¿πød$nñ$bl¿πød","MS",752
+"blowed and blowed","NC12A","327(*)","E","N"," "," ","bloøΩπ´d$nñ$bloøΩπød","MS",753
+"blew and blew","NC12B","328","E","N"," "," ","bluøΩ∫{uø}$∞n$bluøΩ∫{uø}","MS",754
+"blowed hard","NC13A","329","E","N"," "," ","ıbloøæπ´d$Âhµ´¥d","MS",755
+"blowed and blowed","NC13B","330(*)","E","N"," "," ","bl¿∫πød$nñ$bl¿∫πød","MS",756
+"blowed and blowed","NC14N","N331","E","N"," "," ","blo∫d$±øn$blo∫d","MS",757
+"blowed and blowed","NC14A","331","E","N"," "," ","ıbloΩºπd$nñ$ÂbloΩºπd","MS",758
+"blowed and blowed","NC14B","332","E","N"," "," ","bloΩ{π}d$nñ$bloΩ{π}d","MS",759
+"blew and blew","NC14C!","333!","E","N"," "," ","bluøæ$·{∞}n$bluøæ∫","MS",760
+"blowed and blowed","NC15A","335(*)","E","N"," "," ","bloΩºπ´d$±øn$bloΩºπd","MS",761
+"blowed and blowed","NC15B","336","E","N"," "," ","ıbloøπ´ºd$nñ$Âbloøπ´ºd","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"blowed and blowed","NC16A","339(*)","E","N"," "," ","bloøΩπ´d$nñ$bloøΩπ´d","MS",764
+"blowed and blowed","NC16B","340","E","N"," "," ","bloøΩuΩºd$nñ$bloøΩuΩºd","MS",765
+"blowed and blowed","NC17A","337","E","N"," "," ","bloºuΩºd$nñ$bloºuΩºd","MS",766
+"blowed and blowed","NC17B","338","E","N"," "," ","ıbloøΩæπ´d$nñ$ÂbloøΩæπ´d","MS",767
+"blowed and blowed","NC18A","341","E","N"," "," ","blo´∫{π}d$nñ$blo´∫{π}d","MS",768
+"blowed and blowed","NC18B","342","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",769
+"blowed and blowed","NC19A","343","E","N"," "," ","ıbloøuΩºd$nñ$ÂbloøuΩºd","MS",770
+"blew and blew","NC19B","344","E","N"," "," ","bluøæ∫$∞n$bluøæ∫","MS",771
+"blowed","NC20A","345","V","N"," "," ","bl¿πd","MS",772
+"blowed and blowed","NC20B","346a","E","N"," "," ","bl∑º∫πd$nñ$bl∑º∫πd","MS",773
+"blew and blew","NC20C","346b","E","N"," "," ","blπº{uøæ}$∞n$Âblπº{uøæ}","MS",774
+"blowed and blowed","NC21A","347","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",775
+"blowed and blowed","NC21B","348","E","N"," "," ","bloøΩæuΩºd$nñ$bloøΩæuΩºd","MS",776
+"blowed and blowed","NC22A","349","E","N"," "," ","blço´º∫{π}d$nñ$blço´º∫{π}d","MS",777
+"blew and blew","NC22B","349b","E","N"," "," ","bluø{uø´æ}$∞n$bluø{uø´æ}","MS",778
+"blowed and blowed","NC23A","351a","E","N"," "," ","bloΩπd$±øn$bloΩπd","MS",779
+"blowed and blowed","NC23B","351b(*)","E","Y"," ","OLD","bloºπd$nñ$bloºπd","MS",780
+"blew and blew","NC23B","351b(*)","E","N"," "," ","bluø{uø´}$∞n$bluø{uø´}","MS",780
+"blew and blew","NC23C!","351c!","E","N"," "," ","ıbluø{uø´}$∞n$Âbluø{uø´}","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"blowed and blowed","NC24N","N352","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",783
+"blowed and blowed","NC24A","352a","E","N"," "," ","bloΩ∫{π}d$nñ$bloº∫{π}d","MS",784
+"blowed and blowed","NC24B","352b","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",785
+"blowed and blowed","NC25N","N353","E","N"," "," ","blo´d$nñ$blo´d","MS",786
+"blowed and blowed","NC25A","353","E","N"," "," ","blo∫d$nñ$blo∫d","MS",787
+"blowed","NC25B","354","V","N"," "," ","blo´∫d","MS",788
+"blowed and blowed","NC26A","355a","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",789
+"blowed and blowed","NC26B","355b","E","N"," "," ","bÏoºπd$nñ$bÏoºπd","MS",790
+"blew and blew","NC26C!","356!","E","N"," "," ","bÏéuø{uø´æ}$∞n$ÂbÏéuø{uø´æ}","MS",791
+"blowed and blowed","NC27A","357","E","N"," "," ","blo∫{π}d$∞n$blo´∫{π}d","MS",792
+"blowed and blowed","NC27B","358","E","N"," "," ","blo´ºπd$nñ$blo´ºπd","MS",793
+"blowed and blowed","NC28A","361","E","N"," "," ","ıbloºπd$nñ$Âbloºπd","MS",794
+"blowed and blowed","NC28B","361b","E","N"," "," ","blo´{π}d$nñ$blo´{π}d","MS",795
+"blowed and blowed","NC28C","362","E","N"," "," ","ıbloΩº{π}d$nñ$ÂbloΩº{π}d","MS",796
+"blowed and blowed","NC29A","363(*)","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",797
+"blowed and blowed","NC29B","364","E","N"," "," ","bloøîΩπ´d$nñ$bloøîΩπ´d","MS",798
+"blowed and blowed","NC30A","365","E","N"," "," ","bloøæπd$nñ$bloøæπd","MS",799
+"blowed and blowed","NC30B","366","E","N"," "," ","ıbl¿´æπd$nñ$Âbl¿´æπd","MS",800
+"blowed and blowed","NC31A","367","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",801
+"blowed and blowed","NC31B","368","E","N"," "," ","ıbloøæπd$nñ$Âbloøæπd","MS",802
+"blowed and blowed","NC32A","369","E","N"," "," ","b≈o{π}d$nñ$b≈o{π}d","MS",803
+"blew and blew","NC32B!","370!","E","N"," "," ","bluø{uøæ}$∞n$bluø{uøæ}","MS",804
+"blowed and blowed","NC33A","373","E","N"," "," ","bloøæπ´d$nñ$bloøπ´d","MS",805
+"blowed and blowed","NC33B","374","E","N"," "," ","bloøπø´æd$±øn$bloøπ´ºd","MS",806
+"blowed and blowed","NC34A","375","E","N"," "," ","bloøΩºπ´d$nñ$bloøΩæπ´d","MS",807
+"blowed and blowed","NC34B","376","E","N"," "," ","ıbloºuºd$nñ$Âbloºuºd","MS",808
+"blowed and blowed","NC35A","377","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",809
+"blowed and blowed","NC35B","378","E","N"," "," ","bloøΩæπ´ºd$∞n$bloøΩæπ´ºd","MS",810
+"blowed and blowed","NC36N","N381","E","N"," "," ","blo´∫d$±øn$blo´∫d","MS",811
+"blowed and blowed","NC36A","381","E","N"," "," ","ıblo´∫πd$±øΩn$blo´∫{π}d","MS",812
+"blowed and blowed","NC36B","382","E","N"," "," ","blo{π}d$∞n$blo{π}d","MS",813
+"blowed and blowed","NC37A","383","E","N"," "," ","ıblo{π}d$nñ$Âblo{π}d","MS",814
+"blowed and blowed","NC37B","384","E","N"," "," ","bloΩºπd$nñ$bloΩºπd","MS",815
+"blowed and blowed","NC38N","N385","E","N"," "," ","blçoΩ∫d$±øn$blçoΩ∫d","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"blowed and blowed","NC38B","386","E","N"," "," ","bloπd$nñ$bloπd","MS",818
+"blowed and blowed","NC39A","389","E","N"," "," ","blo∫πd$nñ$blo∫πd","MS",819
+"blew and blew","NC39B!","390!","E","N"," "," ","bluøîΩ∫$∞n$bluøîΩ∫","MS",820
+"blowed and blowed","NC40A","391","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",821
+"blowed and blowed","NC40B","392","E","N"," "," ","bloΩ{π}d$nñ$bloΩ{π}d","MS",822
+"blew and blew","NC41!","393!","E","N"," "," ","ıbluø∫{uø´æ}$∞n$Âbluø∫{uø´æ}","MS",823
+"blowed hard","NC42A","403","E","N"," "," ","blo´∫{π}d$hµ∫∞éd","MS",824
+"blew hard","NC42B","404(*)","E","N"," "," ","bluø{uøæ}$hµæ∫∞éd","MS",825
+"blowed hard","NC43A","397","E","N"," "," ","bloπd$hµæ∫{∞é}d","MS",826
+"blowed and blowed","NC43B","398","E","N"," "," ","ıbloΩπd$nñ$ÂbloΩπd","MS",827
+"blowed and blowed","NC44","410(*)","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",828
+"blowed and blowed","NC45A","409(*)","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"blowed hard","NC46A","411","E","N"," "," ","bloπd$hµ´ærd","MS",831
+"blowed hard","NC46B","412","E","N"," "," ","bloπd$hµæ∫∞éd","MS",832
+"blew","NC46C!","412b!","V","N"," "," ","bluø∫{uøæ}","MS",833
+"blowed and blowed","NC47","413","E","N"," "," ","blo´º{π}d$nñ$blo´º∫{π}d","MS",834
+"blowed and blowed","NC48","418","E","N"," "," ","bloΩπd$±øn$bloΩπd","MS",835
+"blowed hard","NC49","421","E","N"," "," ","ıbloΩπd$Âhµ´æ¥d","MS",836
+"blowed hard","NC50A","422","E","N"," "," ","bloπd$hµ´æ∫∞éd","MS",837
+"blew and blew","NC50B!","423!","E","N"," "," ","bluø{uø´}$∞n$bluø{uø´}","MS",838
+"blowed and blowed","NC51A","427","E","N"," "," ","blo{π}d$±øn$blo{π}d","MS",839
+"blowed and blowed","NC51B","428","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",840
+"blowed and blowed","NC52N","N429","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",841
+"blowed and blowed","NC52A","429","E","N"," "," ","bloΩπd$±øΩn$bloΩπd","MS",842
+"blowed hard","NC52B","430","E","N"," "," ","blo´{π}d$hﬁº∫{∞}d","MS",843
+"blowed and blowed","NC53A","431","E","N"," "," ","bÏoΩπd$nñ$bÏoΩπd","MS",844
+"blowed and blowed","NC53B","432","E","N"," "," ","bÏoΩπd$nñ$bÏoΩπd","MS",845
+"blowed and blowed","NC54A","433","E","N"," "," ","blo´∫{π}d$nñ$blo´∫{π}d","MS",846
+"blowed and blowed","NC54B","434","E","N"," "," ","bloΩºπd$nñ$bloΩπd","MS",847
+"blowed hard","NC55","435","E","N"," "," ","bloΩ{π}d$hµ´æ∫¥d","MS",848
+"blowed and blowed","NC56A","436","E","N"," "," ","bloΩπd$∞n$bloΩπd","MS",849
+"blew and blew","NC56B!","437!","E","N"," "," ","bluøΩ{uø´}$∞n$bluøΩ{uø´}","MS",850
+"blowed hard","NC57A","438a","E","N"," "," ","blo{π}d$hµº∫{∞é}d","MS",851
+"blowed hard","NC57A","438a","E","N"," "," ","blo{π}d$haæ∫{∞é}d","MS",851
+"blowed hard","NC57B","438b","E","N"," "," ","blo{π}d$hﬁº∫{∞}d","MS",852
+"blowed and blowed","NC58A","439","E","N"," "," ","ıbloΩ∫πd$nñ$ÂbloΩ∫πd","MS",853
+"blowed and blowed","NC58B","440","E","N"," "," ","bÏoΩπΩd$nñ$bÏoΩπΩd","MS",854
+"blowed and blowed","NC59","441(*)","E","Y"," ","AUX","blo∫{π}d$nñ$blo∫{π}d","MS",855
+"blowed hard","NC60","442","E","N"," "," ","bloºπd$hµæ∫∞éd","MS",856
+"blowed hard","NC61A","443","E","N"," "," ","blo{π}d$hµ´¥d","MS",857
+"blew hard","NC61B","444","E","N"," "," ","bluø{uø´}$hµ´æ¥d","MS",858
+"blowed hard","NC61B","444","E","N","""careless¢"," ","bloºπød$hµ´æ¥d","MS",858
+"blowed and blowed","NC62A","447","E","N"," "," ","ıbloΩπ›´d$nñ$ÂbloΩπ›´d","MS",859
+"blowed and blowed","NC62B","448","E","N"," "," ","ıbloΩπd$nñ$ÂbloΩπd","MS",860
+"blowed hard","NC63A","449","E","N"," "," ","ıbloΩ∫{π}d$Âhµ´¥d","MS",861
+"blowed and blowed","NC63B","450","E","N"," "," ","bloºπd$nñ$bloΩπd","MS",862
+"blowed hard","NC64A","453","E","N"," "," ","blo∫d$hµ∫¥d","MS",863
+"blew hard","NC64B","454","E","N"," "," ","bluøæ{uøº}$hµ´æ¥d","MS",864
+"blowed hard","NC65A","461","E","N"," "," ","bloΩ∫πd$hµ´æ¥d","MS",865
+"blowed and blowed","NC65B","462","E","N"," "," ","ıblo{π}d$nñ$Âblo{π}d","MS",866
+"blowed","NC66A","465","V","N"," "," ","bÏoΩπd","MS",867
+"blew","NC66B","466","V","N"," "," ","bluø{uø´}","MS",868
+"blowed and blowed","NC67A","469","E","N"," "," ","ıbÏ∑´∫oΩd$nñ$ÂbÏ∑´∫oΩd","MS",869
+"blowed and blowed","NC67B","470","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",870
+"blowed hard","NC68A","473","E","N"," "," ","bloΩπd$hµ´æ¥d","MS",871
+"blew hard","NC68B","474","E","N"," "," ","bluø{uøæ}$hµ´æ¥d","MS",872
+"blowed hard","NC69A","477","E","N"," "," ","blo∫{πΩ}d$hµ´æ∫réd","MS",873
+"blowed and blowed","NC69B","478","E","N"," "," ","blo∫{π}d$nñ$blo∫{π}d","MS",874
+"blowed and blowed","NC70A","479","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",875
+"blew and blew","NC70B","480","E","N"," "," ","bluøuøæ$nñ$bluøæuº","MS",876
+"blowed hard","NC71A","481","E","N"," "," ","bloΩ{π}d$hµ´¥é∫d","MS",877
+"blew hard","NC71B","482","E","N"," "," ","bluøæuº$hµ´æ¥d","MS",878
+"blew and blew","NC71C!","483!","E","N"," "," ","ıbluø{uøæ}$∞n$Âbluø{uøæ}","MS",879
+"blowed hard","NC72A","487","E","N"," "," ","bloΩπd$hµ´æ¥éd","MS",880
+"blew hard","NC72B","488","E","N"," "," ","bluø{uøæ}$hµ´æ¥d","MS",881
+"blowed and blowed","NC73A","491","E","N"," "," ","ıbloπd$nñ$Âbloπd","MS",882
+"blowed and blowed","NC73B","492","E","N"," "," ","blo{π}d$nñ$blo{π}d","MS",883
+"blowed hard","NC74A","493","E","N"," "," ","bloΩπd$hµ´æ¥d","MS",884
+"blew hard","NC74B","494","E","N"," "," ","bluø{uøæ}$hµ´æ¥d","MS",885
+"blowed hard","NC75A","495","E","N"," "," ","bloπd$hµ´¥é›d","MS",886
+"blew hard","NC75B","496","E","N"," "," ","bluø{uøæ}$hµ´¥d","MS",887
+"blowed and blowed","SC1A","203.1","E","N"," "," ","ıbloºπd$nñ$Âbloºπd","MS",888
+"blowed and blowed","SC1B","203.2","E","N"," "," ","blo∫{π}d$nñ$Âblo∫{π}d","MS",889
+"blowed and blowed","SC2A","204.1(*)","E","N"," "," ","bloº∫{π}d$nñ$bloº∫{πΩ}d","MS",890
+"blew and blew","SC2B","204.2","E","N"," "," ","bluø{uø´æ}$∞n$bluø{uø´}","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"blowed and blowed","SC3A","205.1","E","N"," "," ","blço´∫d$nñ$blço´∫d","MS",893
+"it blowed down","SC3B","205.2","S","N"," "," ","±øºt$Âb≈o∫{π}d$ıd·´∫on","MS",894
+"blew the roofs off","SC3C!","205.3!","E","N"," "," ","b≈uø∫$‰∞$Âruø∫fs$ı∑Ω{∞}f","MS",895
+"blowed up","SC3C!","205.3!","E","N","anecdotally used","CNV","Âb≈o∫{∞}d$ı¶Ω{∞}p","MS",895
+"blowed down","SC4A","206.1","E","N"," "," ","Âb≈o∫{∞}d$ıdµ´∫πn","MS",896
+"blew","SC4B","206.2","V","N"," ","CNV","b≈uø∫","MS",897
+"blew","SC4C","206.3","V","N"," "," ","b≈uøº∫","MS",898
+"blew all the timber down","SC5A","207.1","E","N"," "," ","Âbluø∫$ı∑∫{∞}l$‰±ø$Ât±´mb∞$ıdµ∫on","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"NA","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"blew him up","SC5D!","207.3!","E","N"," "," ","Âb≈uø∫$±øΩm$ı∏Ω{∞}p","MS",902
+"blowed","SC6N","N208","V","N"," "," ","b≈o´º∫{∞}d","MS",903
+"wind blowed the house","SC6N","N208","S","N"," "," ","w±´{∞}n$b≈o´º∫{∞}d±ø´º$Âh∏Ωºπs","MS",903
+"blowed and blowed","SC6A","208.1","E","N"," "," ","ıbloºod$nñ$Âbloºod","MS",904
+"blew","SC6A","208.1","V","N"," "," ","bluº∫","MS",904
+"blowed","SC6B","208.2(*)","V","N","(houses down"," ","Âblo´º∫∞›d","MS",905
+"blowed","SC6B","208.2(*)","V","N"," "," ","bloø´∫d","MS",905
+"blowed it down","SC6B","208.2(*)","E","N"," ","CNV","Âblo∫{∞}d$±øºt$ıdµ´∫on","MS",905
+"blew up","SC6C!","208.3!","E","N"," ","CNV","Âbluø∫$ı∏óp","MS",906
+"blew all","SC6C!","208.3!","E","N"," ","CNV","Âbluø∫$ı•Ωol","MS",906
+"NA","SC6D"," "," ","N"," "," "," ","MS",907
+"NA","SC7N","N209"," ","N"," "," "," ","MS",908
+"blowed down","SC7A","209.1","E","N"," "," ","Âb≈o´º∫{∞}d$ıdµ´∫πn","MS",909
+"blew","SC7B","209.2","V","N"," "," ","b≈uø∫","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"blew down","SC7D!","209.4!","E","N"," "," ","Âb≈uøº∫$ıdµ∫πn","MS",912
+"blowed a roof off","SC8A","210.1","E","N"," "," ","b≈o´∫{∞}d$±ø$Âruø∫f$ı∑Ω∫{∞}f","MS",913
+"blew","SC8B","210.2","V","N"," "," ","b≈uø∫","MS",914
+"blowed down","SC8B","210.2","E","N"," "," ","Âb≈o∫{∞}d$ıdµ∫πn","MS",914
+"blowed down","SC8C","210.3","E","N"," ","CNV","Âblo´∫{∞}d$d∏Ω∫on","MS",915
+"blew over","SC9A","211.1","E","N"," "," ","Âb≈uø∫$ıo´∫{∞}v∞","MS",916
+"blowed down","SC9B","211.2","E","N"," "," ","Âb≈o´∫{∞}d$ıdµ´º∫on","MS",917
+"blew down","SC9C!","211.3!","E","N"," "," ","Âb≈u∫$ıdµ∫on","MS",918
+"blew","SC9D!","211.4!","V","N"," ","CNV","b≈uø∫","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"blew and blew","SC11N","N213","E","N"," "," ","bluº∫$∞n$bluº∫","MS",923
+"blew down","SC11M!","2n213!","E","N"," "," ","Âb≈uø∫$ıdµ´º∫πn","MS",924
+"blew","SC11M!","2n213!","V","N"," ","CNV","Âb≈uøº","MS",924
+"blew and blew","SC11A","213.1(*)","E","N"," "," ","b≈uø∫$nñ$b≈uøº∫{∞}","MS",925
+"blew","SC11B","213.11","V","N"," "," ","bluø∫","MS",926
+"did blew","SC11B","213.11","E","Y"," ","INA","d±d$Âblπ∫","MS",926
+"blew all of a sudden","SC11C","213.2","E","N"," "," ","Âb≈uøº∫$ı∑º∫{∞}Ï$∞Ωv$∞Âs∏ºdn","MS",927
+"were blown down","SC11C","213.2","E","Y"," ","INA","w∞$Âb≈o´º∫{∞}n$ıdµº∫πn","MS",927
+"blew my corn down","SC11D","213.3","E","N"," "," ","Âb≈uø∫$m∞$k`∑´º∫∞n$ıdµ´º∫πn","MS",928
+"blew","SC11E","213.4","V","N"," ","CNV","b≈uøº∫","MS",929
+"NA","SC11F","213.5"," ","N"," "," "," ","MS",930
+"blew","SC11G!","213.7!","V","N"," "," ","b≈uøº∫","MS",931
+"blew hard","SC11H!","213.8!","E","N"," ","CNV","Âb≈uø$ıhﬁ∫{∞}d","MS",932
+"blew and blew","SC11I!","213.9!","E","N"," "," ","bluº∫$∞n$bluº∫","MS",933
+"blew","SC11J!","213.10!","V","N"," "," ","Âb≈uøº∫","MS",934
+"blew itself out","SC11J!","213.10!","E","N"," "," ","Âb≈uøæ∫$±ø›ºtıs≤{w}f$Â∏Ωπt","MS",934
+"blowed down","SC12A","214.1","E","N"," "," ","Âb≈o∫{∞}d$ıdµ´º∫on","MS",935
+"blowed it down","SC12A","214.1","E","N"," "," ","Âb≈o∫{∞}d±øºt$ıd·æ∫on","MS",935
+"blowed and blowed","SC12B","214.2","E","N"," "," ","ıblo∫{∞}d$∞n$Âblo∫{∞}d","MS",936
+"blew","SC13","213.6","V","N"," "," ","bluøæ∫","MS",937
+"blew and blew","SC14A","215.1","E","N"," "," ","blçuº∫$∞n$blçuº∫","MS",938
+"blew down","SC14B","215.2","E","N"," "," ","Âb≈uø∫$ıdµ∫on","MS",939
+"blowed down","SC15A","216.1","E","N","thousands of trees)"," ","Âblo∫{∞ó}d$ıdµ´ºon","MS",940
+"blew down","SC15B","216.2","E","N","used in narration about a cyclone","CNV","Âb≈uøº∫$ıdaæ∫on","MS",941
+"blowed down","SC15B","216.2","E","N","used in narration about a cyclone","CNV","Âb≈o´∫{∞}d$ıdµ´ºon","MS",941
+"NA","SC15C","216.3"," ","N"," "," "," ","MS",942
+"blew up trees","SC16N","N217","E","N"," "," ","b≈uø∫$∞´p$téÚèi∫{±ø}z","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"blowed down","SC17A","218.1","E","N"," "," ","Âb≈o´{∞}d$ıda´æ∫oºn","MS",945
+"blowed","SC17B","218.2","V","N"," ","CNV","b≈o∫{∞}d","MS",946
+"blowed","SC17B","218.2","V","N"," ","CNV","b≈oº∫{∞}d","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"blew","SC17D","218.4","V","N"," "," ","b≈uø∫","MS",948
+"blowed all night","SC18N","N219","E","N"," "," ","Âblo´º∫{∞}d$ı∑´º∫l$Ân•´æ±t","MS",949
+"blew itself out","SC18A","219.1","E","N"," "," ","blyæ∫$±øºtÂs≤lç∏ó´πt","MS",950
+"blew heavy","SC18B","219.2","E","N"," "," ","blyæ∫$h≤´v±ø´º","MS",951
+"blew and blew","SC18C!","219.3(*)!","E","N"," "," ","blyæ∫$≤›æn$blyæ∫","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NA","SC19A","220.1"," ","N"," "," "," ","MS",955
+"blew","SC19B","220.4","V","N"," "," ","bluº∫","MS",956
+"blew","SC19B","220.4","V","N"," ","CNV","bluøæ∫","MS",956
+"blew and blew","SC19C","220.2(*)","E","N"," "," ","b≈yæ∫$≤›æn$b≈yæ∫","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NA","SC19E!"," "," ","N"," "," "," ","MS",959
+"blowed some trees down","SC20A","221.1","E","N"," "," ","bloº∫πºd$sm$téÚèi∫∞z$ıdµ∫on","MS",960
+"blowed","SC20A","221.1","V","N"," ","CNV","bloº∫πºd","MS",960
+"blowed down","SC20B","221.2","E","N"," "," ","Âbloº∫πºd$ıdµ∫on","MS",961
+"blew off our chimneys","SC20C","221.3","E","N"," "," ","Âbluø∫$ı∑∫∑´f$Âµ∫w∞$ÂtÛ±´{∞}mn±ø´ºz","MS",962
+"blew down","SC20C","221.3","E","N"," "," ","Âbluø∫$ıd·∫oºn","MS",962
+"NA","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"blowed and blowed","SC21A","222.1","E","N"," "," ","bloΩπd$nñ$bloΩπd","MS",964
+"blowed and blowed","SC21B","222.2","E","N"," "," ","ıbloº{π}d$nñ$Âbloº{π}d","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"blew houses down","SC22A","223.1","E","N"," "," ","ıb≈uø∫$Âh·Ωoz±øz$Âd·Ω∫oºn","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"blew things about down","SC22C!","223.3!","E","N"," "," ","Âb≈uøº∫$˘±´{∞}Óz$∞Âbµ´º∑º't","MS",969
+"blowed","SC23A","224.1","V","N"," ","CNV","b≈o∫{∞}d","MS",970
+"this blew longer","SC23A","224.1","S","N"," "," ","Â‰±´{∞}s$ıb≈uø∫$Âl∑º∫{∞}Ó∞","MS",970
+"blowed","SC23A","224.1","V","N"," ","CNV","b≈oº∫{∞}d","MS",970
+"blowed","SC23A","224.1","V","N"," ","CNV","b≈o∫{∞}d","MS",970
+"blowed off some roofs","SC23B","224.2","E","N"," "," ","Âb≈o´º∫{∞}d$ı∑Ω{∞}f$ıs¶Ω{∞}m$Âruø∫fs","MS",971
+"blew and blew","SC23C","224.3","E","N"," "," ","b≈uø$∞´n$bluø∫","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"blew","SC23E!","224.5!","V","N"," ","CNV","b≈uø∫","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"blowed","SC24A","225.1","V","N"," "," ","blo∫d","MS",976
+"blowed","SC24A","225.1","V","N"," ","CNV","bloº∫d","MS",976
+"blowed some way up in the tops of trees","SC24B","225.11","E","N"," ","RN1","Âb≈o´º∫{∞}d$ıs∏´{∞}m$Âwe∫$∞´p","MS",977
+" ","SC24B","225.11"," "," "," ","RN2","±øºn$d±ø$t`∂{∞}ps$∞$té`Úèi∫{j}z","MS",977
+"took the house clean down to the seal","SC24B","225.11","E","Y"," ","INA/RN1","t`πºk$d±ø´º$ıha´æoºs$Âk`≈èi∫jn$ıda´æ∫oºn","MS",977
+" ","SC24B","225.11"," "," "," ","RN2","t∞$dë±ø´º$s±´æ{∞}Ï","MS",977
+"blowed","SC24C","225.2","V","N"," "," ","b≈oº{∞}d","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"blowed and blowed","SC25A","226.1","E","N"," "," ","blo∫d$±øn$blo∫d","MS",980
+"blew down","SC25B","226.2","E","N"," "," ","Âbluø∫$ıdµ´º∫on","MS",981
+"blew down","SC25C!","226.3!","E","N"," "," ","Âbluº∫$ıda´∫∞ón","MS",982
+"blowed down","SC26A","227.1","E","N"," ","CNV","Âblo∫{∞}d$ıdµ´º∫on","MS",983
+"blew","SC26B!","227.2!","V","N"," "," ","bluø∫","MS",984
+"blew","SC27A","228.1","V","N"," "," ","blçuø∫","MS",985
+"blew down","SC27B","228.2","E","N"," "," ","Âbluø∫$ıdµ´∫πn","MS",986
+"blowed","SC28A","229.1","V","N"," "," ","blço´º∫{∞}d","MS",987
+"NA","SC28B","217.2"," ","N"," "," "," ","MS",988
+"blew down","SC28C","229.2","E","N"," "," ","Âbluø∫$ıda´∫∞ón","MS",989
+"blew","SC28D","229.3","V","N"," "," ","bluø∫","MS",990
+"NA","SC29A","230.2(*)"," ","N"," "," "," ","MS",991
+"blowed","SC29B","230.1(*)","V","N"," "," ","bloó´∫d","MS",992
+"blowed","SC29B","230.1(*)","V","N"," ","CNV","bloº∫d","MS",992
+"blowed","SC29C","230.3","V","N"," "," ","Âbloº∫{∞}d","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"blowed and blowed","SC30A","231.1","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",996
+"blew out","SC30B","231.2","E","N"," "," ","ıb≈uøº∫$Âaæ∫πt","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"blowed","SC31A","232.1","V","N"," ","CNV","blo´∫d","MS",999
+"blowed","SC31B","232.2","V","N","(some corn down"," ","bloº{πº}d","MS",1000
+"blowed","SC32A","233.1","V","N"," ","CNV","b≈o´º∫{πº}d","MS",1001
+"blew the tops off houses","SC32A","233.1","E","N"," ","CNV","b≈yæ∫w$‰±ø$t`ﬁ{∞}ps$ı∑Ω{∞}f$Âh·Ωoºz±øºz","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"blew","SC32C","233.3","V","N"," "," ","b≈uø∫","MS",1003
+"blew down houses","SC32D","233.4","E","N"," "," ","Âblyæ∫Ëá$ıd·Ω∫∞ón$Âh·Ω∫oºz±z","MS",1004
+"blowed and blowed","SC33A","234.1","E","N"," "," ","blo´∫d$nñ$blo´d","MS",1005
+"blew","SC33B","234.2","V","N"," "," ","b≈uø∫","MS",1006
+"NR","SC34A","235.1"," ","N"," "," "," ","MS",1007
+"blowed down","SC34B","235.2","E","N"," "," ","Âb≈oº∫πºd$ıd·Ω∫on","MS",1008
+"NA","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"blowed up","SC35A","236.1","E","N"," "," ","Âb≈oº∫πºd$∞´p","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"blowed","SC35C","236.3(*)","V","N"," "," ","b≈oº{πº}d","MS",1012
+"blew","SC35C","236.3(*)","V","N"," ","CNV","bluø{uø´}","MS",1012
+"blew the top off","SC35D"," ","E","N"," "," ","Âb≈uøº∫$‰∞$Ât`ﬁ{∞}p$ı∂´∑f","MS",1013
+"NA","SC35E!"," "," ","N"," "," "," ","MS",1014
+"blowed","SC36A","237.1","V","N"," ","CNV","b≈oº∫πd","MS",1015
+"blew the water","SC36B","237.2","E","N"," "," ","Âb≈yæ∫u$‰∞$ıw∂´∑tê¥","MS",1016
+"blowed","SC36B","237.2","V","N"," ","CNV","b≈oº∫πd","MS",1016
+"blowed","SC36C","237.3","V","N"," ","CNV","b≈oΩº∫πd","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"blew","SC37","238","V","N","(a hard wind"," ","bluø∫","MS",1019
+"a hard wind","SC37","238","O","Y"," ","INA","∞Âhµ¥d$ıw±∫{∞}n","MS",1019
+"been blowed down","SC38N","N239","E","Y","house)","INA","b±º∫n$Âb≈o∫πd$ıda´æ∫πn","MS",1020
+"blowed up","SC38N","N239","E","N","(trees"," ","Âb≈o∫πd$¶Ωp","MS",1020
+"blowed","SC38A","239.1","V","N"," ","CNV","b≈o∫πd","MS",1021
+"blowed it all down","SC38A","239.1","E","N"," ","CNV/SIC","b≈o∫{π}d$h±´t$∂´oÏ$Âda´æ∫πn","MS",1021
+"blowed cement blocks","SC38A","239.1","E","N"," ","CNV","b≈o∫πd$Âsi∫jım≤´nt$ıb≈∂îks","MS",1021
+"blowed it all away","SC38A","239.1","E","N"," ","CNV","Âb≈o∫πd$±øºt$∑Ωol$∞Âwe∫{i}","MS",1021
+"blowed","SC38B","239.2","V","N"," ","CNV","b≈oº∫πd","MS",1022
+"blowed and rained and hailed","SC38B","239.2","E","N"," "," ","b≈oº∫πd$nñ$re∫{±}nd$nñ$he∫±Ïd","MS",1022
+"NA","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"blew things","SC38D!","239.4(*)!","E","N"," "," ","Âb≈yæ∫{w}$ı˘±´Óz{zè}","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"blew down","SC39A","240.1","E","N"," "," ","Âb≈yæ∫$ıda´æπn","MS",1026
+"blowed down","SC39B!","240.2!","E","N"," "," ","Âb≈oº∫πºd$ıd·Ω∫πn","MS",1027
+"blowed up a lot of trees","SC39B!","240.2!","E","N"," ","CNV","b≈o´º∫πd$∞Ωp$∞Âlﬁtê∞$té`Úèi∫jz","MS",1027
+"blew","SC40A","241.1","V","N"," "," ","blyæuø","MS",1028
+"just blew","SC40B","241.2","E","N"," "," ","d˙¶Ωs$blyæuø´","MS",1029
+"blowed and blowed","SC41A","242.1","E","N"," "," ","blo´∫{π}d$nñ$blo´∫{π}d","MS",1030
+"blew","SC41B","242.2","V","N"," "," ","Âbluøºu´º","MS",1031
+"blew and it blew","SC41B","242.2","E","N"," "," ","blyæuø´$≤›æn$±øºt$Âblyæ∫{uø}","MS",1031
+"blew","SC42N","N243","V","N"," "," ","bluøºu´º","MS",1032
+"blowed","SC42M"," ","V","N"," ","CNV","bÏoº∫πd","MS",1033
+"blew and it blew","SC42A","243.1","E","N"," "," ","Âblyæuø´$≤n$±øºt$Âblyæuø´","MS",1034
+"blew","SC42B!","243.2!","V","N"," "," ","blyæuø","MS",1035
+"blew very hard","SC42C!","243.3!","E","N"," "," ","bluøæ∫u$v≤r±ø$hµæ∫{∞Ωæ}d","MS",1036
+"blew and blew and kept blowing","SC42C!","243.3!","E","N"," "," ","bluø∫u´$nñ$bluø∫u´$nñ$kà`≤p$bloº∫πº±ø›n","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"blew","SC42E!","243.5!","V","N"," "," ","b≈uø∫{uø´}","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"NR","SC43B","244.2"," ","N"," "," "," ","MS",1040
+"blew a gale","SC43C","244.3","E","N"," "," ","bluøº∫$∞$ge´∫Ï","MS",1041
+"blowed","SC43C","244.3","V","N"," "," ","blo´∫{π}d","MS",1041
+"blew","SC44A","245.1","V","N"," "," ","Âblyæuø´","MS",1042
+"blowed","SC44A","245.1","V","N"," "," ","bloº∫πºd","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"was blowing","GA1N","N246","E","Y"," ","INA","w∞z$Âblo∫±øn","MS",1044
+"blowed","GA1N","N246","V","N"," "," ","blo∫d","MS",1044
+"NR","GA1A","246.1(*)"," ","N"," "," "," ","MS",1045
+"blew","GA1B","246.11","V","N"," "," ","bluø∫","MS",1046
+"blow","GA1B","246.11","V","Y"," ","INA","blo","MS",1046
+"blown","GA1B","246.11","V","Y","past participle","INA","blo´∫n","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"blew","GA1D","246.3","V","N"," "," ","b≈uø∫","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"blew and blew","GA1F!","246.5!","E","N"," "," ","blçu´º∫$∞n$blçu´º∫","MS",1050
+"blew","GA1G!","246.6!","V","N"," ","CNV","bluº∫","MS",1051
+"blew and blew","GA1H!","246.7!","E","N"," "," ","Âbl±ø´uø$nñ$Âbl±ø´uø","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"blew down","GA2B","247.2","E","N"," "," ","Âb≈uø∫$ıdµ´∫πn","MS",1055
+"blowed and blowed","GA3A","248.1","E","N"," "," ","blço´∫d$∞n$blço´∫d","MS",1056
+"blowed down","GA3B","248.2","E","N","(lots of trees"," ","Âblo´º∫d$ıd·∫on","MS",1057
+"blow and blow","GA4N","N249","E","N"," "," ","blço´$∞n$blço´∫","MS",1058
+"blew down","GA4A","249.1","E","N"," "," ","Âbluø∫$ıdµ´∫on","MS",1059
+"blew","GA4B","249.2","V","N"," "," ","bluøæ∫","MS",1060
+"blew","GA4C!","249.3!","V","N"," "," ","bluøæ∫","MS",1061
+"blew off roofs","GA5A","250.1","E","N"," "," ","bluøæ∫$∑ó›´f$Âruøæ∫fs","MS",1062
+"NA","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"blew down","GA5C","250.3","E","N"," "," ","Âbluº∫$ıdµ´∫on","MS",1064
+"blew","GA5D!","250.4!","V","N"," "," ","bluøæ∫","MS",1065
+"blew off","GA5D!","250.4!","E","N"," ","CNV","ıbluø∫$Â∑´∫{∞}f","MS",1065
+"blew down","GA5E!","250.5!","E","N"," "," ","Âbluøæ∫$ıdµ´æ∫on","MS",1066
+"blowed","GA6A","251.1","V","N"," "," ","Âblo´º∫d","MS",1067
+"blew","GA6A","251.1","V","N"," ","CNV","bluøº∫","MS",1067
+"blew down","GA6B!","251.2!","E","N"," "," ","Âbluøæ∫$ıdµ∫on","MS",1068
+"blowed down","GA7","256","E","N","(nearly half the houses"," ","Âbloº∫{πº}d$ıd·Ω∫on","MS",1069
+"blowed down","GA8A","257.1","E","N","(every tree"," ","Âbloº{π}d$ıda´æ∫∞n","MS",1070
+"blowed","GA8A","257.1","V","N"," ","CNV","blo´∫d","MS",1070
+"blew","GA8B","257.2","V","N"," "," ","bluøº∫","MS",1071
+"blowed","GA8B","257.2","V","N"," "," ","blo∫{π}d","MS",1071
+"blowed that house down","GA8B","257.2","E","N"," ","CNV","Âbloî∫d$˘·´{∞}t$ıha´æ∞ós$Âda´æ∫∞ón","MS",1071
+"did blow","GA9A","257A.1","E","Y"," ","INA","Âd±d$ıbloπ","MS",1072
+"blown","GA9A","257A.1","V","Y","past participle","INA","bloπn","MS",1072
+"blew","GA9B","257A.2","V","N"," "," ","bluø∫","MS",1073
+"blowed down","GA9B","257A.2","E","N"," "," ","Âblo{π}d$ıda´πn","MS",1073
+"blowed and blowed","GA10A","258.1","E","N"," "," ","blço∫d$nñ$blço∫d","MS",1074
+"NR","GA10B","258.2"," ","N"," "," "," ","MS",1075
+"blowed","GA11N","N258A","V","N","preterit and past participle"," ","blo{π}d","MS",1076
+"blowed","GA11N","N258A","V","N","preterit and past participle","CNV","blo∫{π}d","MS",1076
+"blew","GA12A","259.1","V","N"," ","CNV","b≈uøæ∫","MS",1077
+"blowed out","GA12A","259.1","E","N"," ","CNV","Âb≈oº∫πd$ıaæπt","MS",1077
+"blew","GA12B!","259.2(.3)","V","N"," "," ","bluº","MS",1078
+"blew up a storm","GA12B!","259.2(.3)","E","N"," "," ","Âbluø$ı∏´ºp$∞Âst∑´∞m","MS",1078
+"blowed and blowed","GA13A","260.1","E","N"," "," ","blço´∫d$∞n$blço´∫d","MS",1079
+"blew them down","GA13B!","260.2!","E","N"," "," ","Âbluø∫$‰m$Âda´æ∫∞ón","MS",1080
+"NR","GA14A","261.1"," ","N"," "," "," ","MS",1081
+"blew","GA14B","261.3","V","N"," "," ","b≈uøº∫","MS",1082
+"blew","GA14B","261.3","V","N"," ","CNV","b≈uº","MS",1082
+"blowed","GA14B","261.3","V","N"," ","CNV","b≈oº∫πºd","MS",1082
+"blowed down","GA14B","261.3","E","N"," "," ","Âb≈oº∫πºd$ıdµ´º∫πn","MS",1082
+"blowed some houses","GA14C","261.2","E","N","(down"," ","ıb≈oº∫πºd$Âs∏´m$ıha´æ∫oz±øz","MS",1083
+"blowed and blowed","GA15A","262.1","E","N"," "," ","blo´d$nñ$blo∫d","MS",1084
+"blowed","GA15B","262.2","V","N"," ","CNV","blo´º∫{∞}d","MS",1085
+"blowed","GA15B","262.2","V","N"," ","CNV","bloº∫d","MS",1085
+"blowed down","GA15B","262.2","E","N"," "," ","Âblo´º∫d$ıda´∫∞ón","MS",1085
+"blew down trees","GA16A","263.2","E","N"," "," ","Âbluøº∫$ıd·∫on$ÂtéÚèi∫z","MS",1086
+"blew all the trees down","GA16B","263.1","E","N"," "," ","Âbluøº∫$ı∑∫{∞}l$d±ø$ÂtéÚèi∫z$ıda´on","MS",1087
+"did blow","GA16C","263.21","E","Y"," ","INA","Âd±d$ıbloº∫{πº}","MS",1088
+"blown","GA16C","263.21","V","Y","past participle","INA","bloº{πº}n","MS",1088
+"blew down","GA16D!","263.3!","E","N"," "," ","Âbluø∫$ıd·Ω∫on","MS",1089
+"blew hard","GA17N","N264","E","N"," "," ","b≈uø∫$hµ∫∞d","MS",1090
+"blew","GA17","264","V","N"," "," ","bluø∫","MS",1091
+"blowed","GA18A","264A.1","V","N"," "," ","blo{π}d","MS",1092
+"blew","GA18B","264A.2","V","N"," "," ","bluø∫","MS",1093
+"blowed","GA19A","265.1","V","Y"," ","AUX2","bloº∫{πº}d","MS",1094
+"blowed","GA19B","265.2","V","N"," "," ","bloº∫{πº}d","MS",1095
+"blew","GA19B","265.2","V","N"," "," ","bluøº∫","MS",1095
+"wind blowed","GA20A","266.1","S","N"," ","CNV","Âw±´{∞}n$ıblo´∫{π}d","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"blew","GA21A","267.1","V","N"," "," ","bluø∫","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"blew","GA22A","268A.1","V","N"," "," ","bluø∫","MS",1100
+"blew down","GA22B","268A.2","E","N"," "," ","Âblyæ∫$ıda´æ∫∞ón","MS",1101
+"blowed","GA22B","268A.2","V","N"," ","CNV","bloº∫πºd","MS",1101
+"blowed","GA23A","268.1","V","N"," ","CNV","Âbloº∫{∞}d","MS",1102
+"blew down","GA23B","268.11","E","N"," "," ","Âbluø$ıd·Ωπn","MS",1103
+"blew","GA23C","268.2","V","N"," "," ","b≈uø","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"blew","GA23E!","268.4!","V","N"," "," ","bluø{uø´}","MS",1106
+"blew","GA23F!","268.5!","V","N"," "," ","bluø{uø´}","MS",1107
+"blowed","GA24N","N269","V","N"," "," ","bloºπºd","MS",1108
+"did blew","GA24N","N269","E","Y"," ","INA","Âd±d$ıbluø{uø´}","MS",1108
+"wind have blowed","GA24N","N269","S","Y"," ","INA","Âw±∫{∞}n$ıh·∫{∞}v$Âbloºπºd","MS",1108
+"blewed","GA24N","N269","V","N"," "," ","bluø{uø´}d","MS",1108
+"blowed and blowed","GA24A","269.1","E","N"," "," ","blo´∫d$nñ$blo´∫d","MS",1109
+"blowed","GA24B","269.2","V","N"," ","CNV","Âbloº∫πºd","MS",1110
+"blew","GA25N","N269A","V","N"," "," ","bluø∫","MS",1111
+"blew","GA26","270A","V","N"," "," ","bluø{uø´}","MS",1112
+"blew like hell","GA27!","270!","E","N"," "," ","bluø$laº±ø›k$h≤{∞}l","MS",1113
+"blew","GA28","271a","V","N"," "," ","bluø{uø´}","MS",1114
+"blowed","GA29A","271.1","V","N"," "," ","bloº∫d","MS",1115
+"blowed","GA29A","271.1","V","N"," ","CNV","bloº∫{πº}d","MS",1115
+"blowed to pieces","GA29B","271.2","E","N"," "," ","Âbloº∫d$t∞$pis±øz","MS",1116
+"NA","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NA","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"blew","GA30C!","272.3!","V","N"," "," ","bluø{uø´}","MS",1119
+"NA","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"blowed down","GA31","272A","E","N"," ","CNV","ıbÏo{π}d$Âda´πn","MS",1122
+"blowed away","GA31","272A","E","N"," ","CNV","ıbÏoπd$∞Âwe±ø","MS",1122
+"blew hard","GA32","272B","E","N"," "," ","Âbluø{uø´}$ıhﬁ∫∞d","MS",1123
+"blowed","GA33A","272C1","V","N"," "," ","blo{π}d","MS",1124
+"blew","GA33B","272C2","V","N"," "," ","b≈uΩu›","MS",1125
+"blown","GA33B","272C2","V","Y","past participle","INA","bloπn","MS",1125
+"blowed off","GA34N","N273","E","N"," "," ","Âbloø´æ∫πºd$ı∑Ω∑f","MS",1126
+"blowed and blowed","GA34A","273.1","E","N"," "," ","bloî∫{π}d$nñ$blo∫{π}d","MS",1127
+"blew down","GA34B","273.2","E","N"," "," ","Âbluø∫$ıd·∫πn","MS",1128
+"blowed up","GA35N","N273A","E","N"," "," ","Âbloπd$ı∏´ºp","MS",1129
+"have blew","GA35N","N273A","E","Y"," ","INA","h·v$Âbluø{uø´}","MS",1129
+"blowed","GA36N","N274A","V","N"," "," ","blo∫πd","MS",1130
+"blowed","GA36N","N274A","V","N"," ","CNV","blo{π}d","MS",1130
+"blew","GA37N","2N274","V","N","preterit and past participle"," ","bluø{uø´}","MS",1131
+"blown","GA37N","2N274","V","Y","past participle","INA","bloºπºn","MS",1131
+"blew","GA37M!","NC274","V","N"," "," ","bluø{uø´}","MS",1132
+"blowed out","GA37A","274.1","E","N"," "," ","Âbloº∫πºd$ı·∫ot","MS",1133
+"blowed away","GA37B","274.2","E","N"," "," ","Âbloº∫πºd$∞ıwe∫{±ø}","MS",1134
+"blew out","GA37C","274.21","E","N"," "," ","Âbluø{uø´}$ıa´πt","MS",1135
+"blew","GA37D!","274.7!","V","N"," "," ","bluø∫","MS",1136
+"blowing","GA37E!","274.8!","V","Y"," ","INA","bloº{πº}±øÓ","MS",1137
+"blown","GA37E!","274.8!","V","Y"," ","INA","bloº{πº}n","MS",1137
+"blew","GA37E!","274.8!","V","N"," "," ","bluø{uø´}","MS",1137
+"blew","GA37F!","274.3!","V","N"," ","CNV","bluø∫","MS",1138
+"blew down","GA37G!","274.4!","E","N"," "," ","Âbluøº∫{w}$ıd·∫on","MS",1139
+"blown down","GA37G!","274.4!","E","Y","were)","INA","Âbloº∫πºn$ıd·∫on","MS",1139
+"blew over","GA37H!","274.5!","E","N"," "," ","Âbluø∫w$ıoºπºv∞","MS",1140
+"blew over","GA37H!","274.5!","E","N"," "," ","Âbluø∫{w}$ıoºπºv∞","MS",1140
+"blew","GA37H!","274.5!","V","N"," ","CNV","bluø∫","MS",1140
+"blew","GA37I!","274.6!","V","N"," "," ","bluø{uø´}","MS",1141
+"really blowed","GA38","275","E","N"," "," ","riΩ∫lç±ø´$bloπd","MS",1142
+"blew","GA39","275A","V","N"," "," ","bluø{uø´}","MS",1143
+"blew","GA40","276A","V","N"," "," ","bluøæ","MS",1144
+"blowed","GA41","276B","V","N"," ","CNV","bloº∫πºd","MS",1145
+"blowed","GA42A","276.1","V","N"," "," ","Âbloº∫πºd","MS",1146
+"blowed","GA42A","276.1","V","N"," "," ","Âbloø´æ∫πøæd","MS",1146
+"blowed several houses away","GA42B","276.2","E","N"," "," ","Âbloº∫πøºd$ıs≤´v¥Ï$Âh·∫oz±øºz$ıwe∫±ø","MS",1147
+"blowed and blowed","GA43","277","E","N"," "," ","blo∫d$nñ$blo∫d","MS",1148
+"blowed","GA44A","278.1","V","N"," "," ","blço´º∫πd","MS",1149
+"NA","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"blowed","GA44C","278.3","V","N"," ","CNV","Âbloº∫πºd","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"blowed","GA44E","278.5","V","N"," ","CNV","bloπd","MS",1153
+"blowed","FL1","252","V","N"," "," ","bloº∫d","MS",1154
+"blew","FL1","252","V","N"," "," ","bluø∫","MS",1154
+"blowed","FL2A","253.1","V","N"," ","CNV","blo∫∞›d","MS",1155
+"blow","FL2B","253.2","V","Y","infinitive","INA","bloº{πº}","MS",1156
+"blew","FL2B","253.2","V","N"," "," ","bluø{uø´}","MS",1156
+"blown","FL2B","253.2","V","Y","past participle","INA","bloº∫n","MS",1156
+"blew","FL2C!","253.3!","V","N"," "," ","bluø∫","MS",1157
+"blew","FL3A","254.1","V","N"," "," ","bluø∫","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"blew","FL4","254A","V","N","preterit and past participle"," ","bluø{w}","MS",1160
+"blowed","FL4","254A","V","N","preterit and past participle"," ","bloº∫{πøº}d","MS",1160
+"blow","FL4","254A","V","Y","infinitive","INA","b≈oº{πøº}","MS",1160
+"blowed","FL5A","255.1","V","N"," ","CNV","bloº∫d","MS",1161
+"blew down","FL5B","255.2","E","N"," "," ","Âblu∫$ıdµ´ºon","MS",1162
+"","","","","","","","","",

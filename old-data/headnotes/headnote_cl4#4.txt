@@ -1,0 +1,114 @@
+half past seven (cl4#4.asc)
+
+Items
+=====
+                              after    1
+                       eight-thirty    1
+                      eleven thirty    1
+                        four-thirty    1
+                               half    1
+                   half after seven    1
+                          half past    1
+                    half past eight    3
+                   half past eleven    1
+                     half past four    6
+                     half past nine    1
+                      half past one    2
+                    half past seven   29
+                      half past six    1
+                      half past ten    2
+                    half past three    2
+                      half past two    1
+                                 NR    9
+                               past    1
+                       seven thirty    3
+                       seven-thirty    3
+                         six-thirty    1
+                         ten-thirty    5
+          thirty minute after seven    1
+                   thirty minute to    1
+
+Pronunciations
+==============
+                      ha«f$pas$w¸«n    1
+                       ha«f$pa«s$fo    5
+                    ha«f$pa«s$fo{°}    1
+                      ha«f$pa«s$sri    1
+                     ha«f$pa«s$s²bm    9
+                       ha«f$pa«s$tu    1
+                     ha«f$pa«s$w¸«n    1
+                            ha«{°}f    1
+             ha¾º{°}f$pa¾{°}s$s²bm–    1
+                        háf$pás$sòi    1
+             há{°}f$pá{°}s{t}$s²bm–    1
+              há{°}f$pá{±¿½}s$s²bm–    1
+            há{°}Æ$pá{°}s{t}$s²«bm–    1
+                  há{æ}$páºs$seºbm–    1
+             há«{±¿}f$áft°$s²{°}bm–    1
+           há«º{°}f$pá«º{°}s$s²«bm–    1
+                  háº{f}$pás$s²«bm–    1
+              háº{°}f$páº{°}s$s²bm–    1
+             háº{°}f$páº{°}s$s²«bm–    1
+         háº{±¿}f$páº{±¿}s{t}$s²bm–    1
+            háº{æŸf}$pá«º{°}s$sebm–    1
+              há½¾f$pá½¾s$s²¾{°}v°n    1
+         åha«º{°}f$õp`a«¾{°}s$åe«ºt    1
+       åha°«{°}f$õp`a«{°}s$ånµ«º±¿n    1
+                åháf$õp`ás$ås²«v°«n    1
+              åhá{°}$p`á{°}s$åe«º°t    1
+             åhá{°}$åp`á«º²s$åt`±¾n    1
+          åhá{°}$õp`á½{°}s$t`²½{°}n    1
+        åhá{°}{ç}$p`áº{°}$ås²½{°}bm    1
+          åhá{²}f$õpá«{²}st$åe{±¿}t    1
+        åhá«{±¿}f$õpá«{²}st$ås²v°«n    1
+                  åhá«{²}$õpá«{²}st    1
+            åhá«º²«$åp`á«º²$ås²«bm–    1
+              åhá²f$õp`á{²}s$ås±«ks    1
+               åháº$õp`á«º²s$ås²«bm    1
+             åháº²f$õp`á{²}s$ål²«bm    1
+            õhá{°}f$õpá{°}s$ås²ºbm–    1
+          õháº{f}$õpáºs{t}$ås²{b}m–    1
+        õháº{±¿½}Æõpáº{±¿½}s$ås²bm–    1
+
+
+
+/get synonyms and a "half"- form/
+L:  Midway between seven o'clock and eight o'clock you'd say it's ____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The main stress is regularly on "seven".  Pronunciations with the main stress on "past" or on "after" may be due to artificial emphasis or contrast.
+
+	R. McDavid:
+
+A number of informants offered "seven thirty" as the first or only response.  Some field workers recorded the phrase with other numerals than "seven".
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 4#4, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 4 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+3#7		4#1
+4#P
+4#P		4#7
+4#1		4#2
+4#2		4#3
+4#3		4#4
+4#4		4#5
+4#5		4#6
+4#6		4#8

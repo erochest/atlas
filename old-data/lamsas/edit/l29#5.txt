@@ -1,0 +1,2092 @@
+"swamp","NY1","50","N","N","growth","swµ´æmp","MS"," ",1
+"swamp","NY2A","51.1","N","N","bushes","sw∑∫mp","MS"," ",2
+"swamp","NY2B","51.2","N","N","thicket growth; fresh water","swµ›´æmp","MS"," ",3
+"swamp","NY2C","51.3","N","N","thicket grows","swµ´{∞}mp","MS"," ",4
+"swamp","NY3A","401","N","N"," ","sw∑Ω∫mp","MS"," ",5
+"swamp","NY3B","403","N","N"," ","swµ´mp","MS"," ",6
+"swamp","NY3C","402","N","N"," ","sw∑:mp","MS"," ",7
+"swamp","NY3D","404","N","N"," ","swµ´æmp","MS"," ",8
+"swamp","NY4A","405","N","N"," ","swµ´mp","MS"," ",9
+"swamp","NY4B","407","N","N"," ","sw∑∫mp","MS"," ",10
+"swamp","NY4C","408","N","N"," ","swµ´∫mp","MS"," ",11
+"swamp","NY5A","409","N","N"," ","swµ∫mp","MS"," ",12
+"swamp","NY5B","410","N","N"," ","swµ´{∞}mp","MS"," ",13
+"swamp","NY5C","411","N","N"," ","swµ´mp","MS"," ",14
+"swamp","NY5D","412","N","N"," ","swµ´æ{∞}mp","MS"," ",15
+"swamp","NY5E","413","N","N"," ","sˆüwàµ´mp","MS"," ",16
+"swamp","NY5F","414","N","N"," ","swµ∫mp","MS"," ",17
+"swamp","NY5G","415","N","N"," ","swµmp","MS"," ",18
+"swamp","NY5H!","416!","N","N"," ","swµmp","MS"," ",19
+"swamp","NY5I!","417!","N","N"," ","swµ´∫mp","MS"," ",20
+"swamp","NY6A","418","N","N"," ","swµ∫mp","MS"," ",21
+"swamp","NY6B","419","N","N"," ","sw∂´∫mp","MS"," ",22
+"swamp","NY7A","420","N","N"," ","swµmp","MS"," ",23
+"swamp","NY7B","421","N","N"," ","swµ´mp","MS"," ",24
+"swamp","NY7C","422","N","N"," ","swµæ∫mp","MS"," ",25
+"swamp","NY7D","423","N","N"," ","swµ›´mp","MS"," ",26
+"swamp","NY7E","424","N","N"," ","swµ´mp","MS"," ",27
+"swamp","NY7F","425","N","N"," ","swµ´mp","MS"," ",28
+"swamp","NY7G","426","N","N"," ","swµ´mp","MS"," ",29
+"swamp","NY7H","427","N","N"," ","swµmp","MS"," ",30
+"swamp","NY7I","428","N","N","covered","swµ´mp","MS"," ",31
+"swamp","NY7J!","429!","N","N"," ","swµ´æmp","MS"," ",32
+"swamp","NY7K!","430!","N","N"," ","swµmp","MS"," ",33
+"swamp","NY7L!","431!","N","N"," ","swµ›´æmp","MS"," ",34
+"swamp","NY7M!","432!","N","N"," ","swµ´æ∫mp","MS"," ",35
+"swamp","NY8","432b","N","N"," ","swµmp","MS"," ",36
+"swamp","NY9A","432c","N","N"," ","swµ∫{∞}mp","MS"," ",37
+"swamp","NY9B","433","N","N"," ","sw∑Ω:mp","MS"," ",38
+"swamp","NY9C","434","N","N"," ","swµæ∫mp","MS"," ",39
+"swamp","NY10A","435","N","N"," ","swµ∫mp","MS"," ",40
+"swamp","NY10B!","436!","N","N"," ","swµ∫mp","MS"," ",41
+"swamp","NY11","438","N","N"," ","swµ´æmp","MS"," ",42
+"swamp","NY12A","439(*)","N","N"," ","sw∑∫mp","MS"," ",43
+"swamp","NY12B","440","N","N"," ","sw∑∫mp","MS"," ",44
+"swamp","NY12C!","441!","N","N"," ","swµmp","MS"," ",45
+"swamp","NY13A","443","N","N"," ","swµ∫mp","MS"," ",46
+"swamp","NY13B!","444!","N","N"," ","swµºmp","MS"," ",47
+"swamp","NY14A","445","N","N"," ","swµ∫mp","MS"," ",48
+"swamp","NY14B","446","N","N"," ","swµmp","MS"," ",49
+"swamp","NY15A","447","N","N"," ","swµº∫mp","MS"," ",50
+"swamp","NY15B","448","N","N"," ","swaæmp","MS"," ",51
+"swamp","NY16A","449","N","N"," ","swµmp","MS"," ",52
+"swamp","NY16B","450","N","N"," ","swµ∫mp","MS"," ",53
+"swamp","NY17A","451(*)","N","N"," ","swµº∫mp","MS"," ",54
+"swamp","NY17B","452","N","N"," ","swµ∫mp","MS"," ",55
+"swamp","NY18A","453","N","N"," ","swµmp","MS"," ",56
+"swamp","NY18B","454","N","N"," ","swµ∫mp","MS"," ",57
+"flat","NY18B","454","A","N"," ","fÏµº∫±ø","MS","SIC",57
+"swamp","NY18C!","455!","N","N"," ","swµ∫mp","MS"," ",58
+"swamp","NY19","456","N","N"," ","swµ∫mp","MS"," ",59
+"swamp","NY20A","457","N","N"," ","swµ∫mp","MS"," ",60
+"swamp","NY20B","458","N","N"," ","swµ∫mp","MS"," ",61
+"swamp","NY21","459","N","N"," ","swµ∫mp","MS"," ",62
+"swamp","NY22","460","N","N"," ","swµ∫mp","MS"," ",63
+"swamp","NY23A","461","N","N","wild grass","swè∂´∫{∞}mp","MS"," ",64
+"wild grass","NY23A","461","O","Y"," ","Âwµ∫±æÏ$ıgrá·{∞}s","MS","INA",64
+"swamp","NY23B","462a","N","N"," ","swè∑´∫{∞}mp","MS"," ",65
+"swamp","NY23B","462a","N","N"," ","swè∂∫{∞}mp","MS"," ",65
+"swamp","NY23C","462b","N","N"," ","swè∂´∫{∞}mp","MS"," ",66
+"marsh","NY23C","462b","N","N","same as swamp","mµé¥Û","MS"," ",66
+"swamp","NY24A","463","N","N"," ","sw∑Ω∫mp","MS"," ",67
+"swamp","NY24B!","464!","N","N"," ","swµ∫mp","MS"," ",68
+"swamps","NY25A","465","N","N"," ","swè∑´∫mps","MS"," ",69
+"swampy","NY25B","466","N","Y"," ","swµ∫mp±´æ","MS","INA",70
+"swamp ground","NY26A","467","O","Y"," ","Âswéµ∫mp$ıgráµ´º∫π›n","MS","INA",71
+"swamp","NY26B","468","N","N","has to have water in it","swè∑∫{∞}mp","MS"," ",72
+"Elm Lake","NY26C","469","O","Y"," ","Â≤´lm$ıle∫{±ø}k","MS","INA",73
+"swamp","NY27A","470","N","N"," ","swè∑Ω∫{∞}mp","MS"," ",74
+"swampy land","NY27B","471","O","N"," ","Âsw∂´∫{∞}mp±´æ$ıl·∫n","MS"," ",75
+"swamp","NY27C","472","N","N"," ","swè∑Ω∫mp","MS"," ",76
+"swamp land","NY28A","473a","O","N","with or without trees","Âswè∑Ω∫mp$ıl·∫n","MS"," ",77
+"swamp","NY28B","473b(*)","N","N"," ","swè∂∫mp","MS"," ",78
+"NA","NY28C"," "," ","N"," "," ","MS"," ",79
+"bog","NY29A","474a","N","N","wet most of the time","bﬁóg","MS"," ",80
+"swamp","NY29B","474b","N","N","trees, willows","swèµæ∫{∞}mp","MS"," ",81
+"swamp","NY29B","474b","N","N","trees, willows","swﬁóº{∞}mp","MS"," ",81
+"swamp","NY29C","474c","N","N","""boggy¢","swè∑Ω∫mp","MS"," ",82
+"swamp","NY30A","475a","N","N"," ","séwé∑Ω∫{∞}mp","MS"," ",83
+"swamp land","NY30B","475b","O","N"," ","Âsw∑Ω∫mp$ıl·∫{∞}nd","MS"," ",84
+"swamp","NY30C","475c","N","N","timber; swampy","sw∑Ωmp","MS"," ",85
+"swamp","NY30C","475c","N","N","timber; swampy","swﬁó{∞}mp","MS"," ",85
+"marsh","NY30C","475c","N","N","timber; swampy","mµé¥Û","MS"," ",85
+"swampy","NY30C","475c","N","Y"," ","swµ˛æmp±´æ","MS","CNV/INA",85
+"swamp","NY30D","475d","N","N","has to have trees; swampy","swﬁó{∞}mp","MS"," ",86
+"swampy","NY30D","475d","N","Y"," ","Âswè∑Ωmp±´æ","MS","INA",86
+"swamp","NY30E","475e","N","N","wet, in woods","swè∑∫mp","MS"," ",87
+"swamp","NY30E","475e","N","N","wet, in woods","swè∑Ω∫{∞}mp","MS"," ",87
+"swamp","NY31A","478a","N","N","timbered","swè∑Ω∫{∞}mp","MS","CNV",88
+"swamp land","NY31A","478a","O","N","timber gone","Âswè∑Ω∫mp$ıl·∫{∞}n","MS"," ",88
+"swamp land","NY31A","478a","O","N","too wet to be tillable","Âswè∂´mp$ıho´ºπºÏ","MS"," ",88
+"swamp","NY31B","478b","N","N"," ","swè∑Ω∫mp","MS"," ",89
+"marsh","NY31B","478b","N","N"," ","mµ∫∞éÛ","MS"," ",89
+"marsh","NY31B","478b","N","Y","grandfather; [·]: sic","m·Û","MS","OLD/SIC",89
+"swamp","NY32A","479a","N","N"," ","swè∂´∫mp","MS"," ",90
+"swamp","NY32A","479a","N","N"," ","swè∑Ω∫mp","MS","CNV",90
+"swamp","NY32B","479b","N","N"," ","swè∑∫mp","MS"," ",91
+"swamp","NY33A","480","N","N","trees not necessary","swèµ∫{∞}mp","MS"," ",92
+"NA","NY33B","481"," ","N"," "," ","MS"," ",93
+"swamp","NY33C","482","N","N"," ","swèµ∫{∞}mp","MS"," ",94
+"swamp","NY33C","482","N","N"," ","swèµæ∫{∞}mp","MS"," ",94
+"swamp","NY34A","483","N","N","[∑∫∑´]: sic","swè∑∫∑´mp","MS","SIC",95
+"NA","NY34B","484"," ","N"," "," ","MS"," ",96
+"swamp","NY34C","485","N","N"," ","swè∑Ω∫{∞}mp","MS"," ",97
+"marsh","NY34C","485","N","N"," ","mµé¥Û","MS"," ",97
+"swamp","NY34D!","486!","N","N"," ","swèµæmp","MS"," ",98
+"swamp","NY35A","487","N","N","trees","sw∂´∫mp","MS"," ",99
+"swamp","NY35B","488","N","N"," ","sw∂´∫mp","MS"," ",100
+"swamp","NY35C!","489!","N","N"," ","swµ∫mp","MS"," ",101
+"swamp","NY36A","491","N","N"," ","sw∂´∫mp","MS"," ",102
+"swamp","NY36B","492","N","N"," ","sw∂´∫mp","MS"," ",103
+"swamp","NY37A","493","N","N"," ","swµº∫mp","MS"," ",104
+"swamp","NY37B","494","N","N"," ","swµ∫mp","MS"," ",105
+"swamp","NY37C!","495!","N","N"," ","swµ∫mp","MS"," ",106
+"swamp","NY38A","497(*)","N","N"," ","swµ∫mp","MS"," ",107
+"fly","NY38B","498","N","N","any low swampy piece of ground","fÏ•Ω±ø´","MS"," ",108
+"swamp","NY38C"," ","N","N"," ","swµ∫mp","MS"," ",109
+"swamp","NY39A","499","N","N"," ","swµ∫mp","MS"," ",110
+"swamp","NY39B","500","N","N"," ","swµ∫mp","MS"," ",111
+"swamp","NY40A","501","N","N"," ","sw∂´∫mp","MS"," ",112
+"swamp","NY40B","502","N","N"," ","swµ∫mp","MS"," ",113
+"swamp","NY41","504","N","N"," ","sw∂´∫mp","MS"," ",114
+"swamp","NY42A","505","N","N"," ","swµ∫mp","MS"," ",115
+"swamp","NY42B","506","N","N"," ","sw∂´∫mp","MS"," ",116
+"swamp","NY43A","507","N","N"," ","sw∂´∫mp","MS"," ",117
+"swamp","NY43B","507b","N","N"," ","sw∑Ω∫mp","MS"," ",118
+"swamp","NY43C!","508!","N","N"," ","swµmp","MS"," ",119
+"swamp","NY44A","511","N","N"," ","sw∂´:mp","MS"," ",120
+"swamp","NY44B","512","N","N"," ","sw∂∫mp","MS"," ",121
+"swamp","NY45A","513a","N","N","swampy","swè∑∫mp","MS"," ",122
+"swampy","NY45A","513a","N","Y"," ","séwè∑Ω∫mp±´æ","MS","INA",122
+"swamp","NY45B","513b","N","N","not necessarily trees","swè∑Ω∫mp","MS"," ",123
+"swamp","NY45C","513c","N","N"," ","swè∑Ω∫∞mp","MS"," ",124
+"swamp","NY45C","513c","N","N"," ","swèµæ∫{∞}mp","MS"," ",124
+"swamps","NY45D!","513d!","N","N","more water than a marsh?; swampy","swﬁómps","MS"," ",125
+"swampy","NY45D!","513d!","N","Y"," ","swè∂mp±´æ","MS","INA",125
+"swamp","NY46A","515a","N","N","can't work it","swèµmp","MS"," ",126
+"marshes","NY46A","515a","N","N","same as swamp","m•é¥Û±øºz","MS"," ",126
+"swamp grass","NY46A","515a","O","Y"," ","Âswèﬁóºmp$gÚá·s","MS","INA",126
+"swamp land","NY46B","515b","O","N"," ","Âswè∂Ωº∫mp$ıl·´∫n","MS"," ",127
+"swamp","NY46C","515c","N","N"," ","swµæ∫{∞}mp","MS"," ",128
+"swamp","NY47A","517(*)","N","N"," ","swè∑∫{∞}mp","MS"," ",129
+"swamp","NY47A","517(*)","N","Y"," ","swµ∫mp","MS","AUX",129
+"swamp","NY47B","518","N","N"," ","swµmp","MS"," ",130
+"swamp","NY48A","519a","N","N"," ","swè∂mp","MS"," ",131
+"NA","NY48B","519b"," ","N"," "," ","MS"," ",132
+"swamp","NY48C","519c","N","N","trees","swèµ∫mp","MS"," ",133
+"swamp","NY48D","519d","N","N","might have trees","swèµæ∫{∞}mp","MS"," ",134
+"swamp","NY49A","520","N","N","quite large, trees usually","swèµ∫mp","MS"," ",135
+"swamp","NY49B","521","N","N"," ","sw∂´∫mp","MS"," ",136
+"swamp","NY49C","522a","N","N"," ","sw∂´∫{∞}mp","MS"," ",137
+"swamp","NY49C","522a","N","N"," ","swµ∫{∞}mp","MS"," ",137
+"swamp land","NY49C","522a","O","N"," ","Âswµ∫{∞}mp$ıl·´∫{≤}n","MS"," ",137
+"swamp","NY49D","522b","N","N"," ","swµºmp","MS"," ",138
+"swamp","NY50A","523","N","N","deeper and wetter than 'swale'","swè∂´mp","MS"," ",139
+"swamp","NY50B","524","N","N","trees","swèµ∫mp","MS"," ",140
+"swamp land","NY50B","524","O","N"," ","Âswﬁóºmp$ıl·´∫n","MS"," ",140
+"swamp","NY51A","525a","N","N","cattails","swµºmp","MS"," ",141
+"cedar swamp","NY51A","525a","O","N"," ","ısiΩid¥$Âswèµºmp","MS","CNV",141
+"swamp","NY51B","525b","N","N","trees and brush","swèµæ∫{∞}mp","MS"," ",142
+"swampy land","NY51B","525b","O","N","wetter [than swamp]; on more even ground","Âswè∂{∞}mp±øº$ıl·´∫{∞}nd","MS"," ",142
+"swamp","NY51C","525c","N","N","some timber","swè∑∫{∞}mp","MS"," ",143
+"NR","NY51D","525d"," ","N"," "," ","MS"," ",144
+"swamp","NY51E!","525e!","N","N","wooded","swèµ∫mp","MS"," ",145
+"swamp","NY52A","527","N","N","wet year round","swè∂´{∞}mp","MS"," ",146
+"swamp","NY52A","527","N","N","wet year round","swè∑Ω∫{∞}mp","MS"," ",146
+"swamp","NY52B","528","N","N","not apt to have trees","swè∂∫{∞}mp","MS"," ",147
+"swamp","NY52B","528","N","N","not apt to have trees","swè∑Ωmp","MS"," ",147
+"swamp","NY52C","528b","N","N"," ","sw∑Ω{∞}mp","MS"," ",148
+"swamp","NY53A","529","N","N","low, water part time","swè∑Ω∫{∞}mp","MS"," ",149
+"pond","NY53A","529","N","N"," ","p`µ∫n","MS"," ",149
+"swamp","NY53B!","530!","N","N"," ","swè∑∫{∞}mp","MS"," ",150
+"swamp","NY53B!","530!","N","N"," ","sw¿óæ∫mp","MS"," ",150
+"swamp","NY54A","531","N","N","swampy","sw∂{∞}mp","MS"," ",151
+"swampy","NY54A","531","N","Y"," ","sw∑Ω∫mp±ø","MS","INA",151
+"swamp","NY54B","532","N","N"," ","swµ´{∞}mp","MS"," ",152
+"swamp","NY55A","533","N","N"," ","swè∑Ω∫mp","MS"," ",153
+"swamp","NY55B","534","N","N"," ","swµ´∫mp","MS"," ",154
+"swamp","NY55B","534","N","N"," ","swèµæmp","MS"," ",154
+"swamp","NY56A","535","N","N","small or large","swﬁóº∫{∞ó}mp","MS"," ",155
+"swampy land","NY56B","536","O","N"," ","Âswèµæmp±æ$ıl·Ï{∞}n","MS"," ",156
+"swamp land","NY57A","537a","O","N"," ","Âswµæmp$ıl·∫nd","MS"," ",157
+"swamp","NY57B","537b","N","N","timber","swè∑Ωºmp","MS"," ",158
+"swamp","NY57C!","537c!","N","N"," ","swµæ∫{∞}mp","MS"," ",159
+"marsh","NY57C!","537c!","N","N","same as swamp","mµé¥Û","MS"," ",159
+"swamp land","NY58A","539a","O","N"," ","Âsw∂´mp±´æ$ıl·´∫{∞}n","MS"," ",160
+"swamp","NY58B","539b","N","N","grass, cattails; always wet","swè∂´∫{∞}mp","MS"," ",161
+"swamp","NY58B","539b","N","N","always wet, grass, cattails","swè∂∫mp","MS"," ",161
+"swamp","NY58B","539b","N","N","always wet, grass, cattails","swµæ∫{∞}mp","MS"," ",161
+"swamp","NY58C","539c","N","N"," ","swﬁº∫{∞}mp","MS"," ",162
+"swamp","NY58D!","539d!","N","N","might walk across","swµmp","MS"," ",163
+"swamp","NY58E!","539e!","N","N","reeds, roots of old trees","swèµmp","MS"," ",164
+"swamp","NY58F!","539f!","N","N"," ","swµæ∫{∞}mp","MS"," ",165
+"swamp","NY59A","543","N","N","trees","sw∑˛∫{m}p","MS"," ",166
+"NR","NY59B","544"," ","N"," "," ","MS"," ",167
+"swamp","NY60A","545","N","N"," ","swè∂´∫{∞}mp","MS"," ",168
+"swamp","NY60B!","546!","N","N","might have elms","swè∂∫{∞}mp","MS"," ",169
+"swamp elm","NY60B!","546!","O","Y"," ","Âsw∂´mp$ı≤´Ïm","MS","INA",169
+"elms","NY60B!","546!","N","Y"," ","eÏmz","MS","INA",169
+"swamp drainage","NY60B!","546!","O","N"," ","Âsw∂mp$ıdÚeΩ±øn±ød˙","MS"," ",169
+"swamps","NY61A","547","N","N","springy","swﬁómps","MS"," ",170
+"slashing","NY61A","547","N","N"," ","slè·Û±øºn","MS"," ",170
+"springy","NY61A","547","N","Y"," ","Âsprè±Ó±´æ","MS","INA",170
+"swamp","NY61B","548","N","N"," ","swµ∫mp","MS"," ",171
+"swamp land","NY61B","548","O","N"," ","Âswèµæ∫mp$ıl·∫n","MS"," ",171
+"swamps","NY62A","551a","N","N","small","swè∂mps","MS"," ",172
+"swamp land","NY62B","551b","O","N"," ","Âséwè∂´∫{∞}mp$ıl·∫nd","MS"," ",173
+"swampy land","NY62C","551c","O","N"," ","Âswè∑mp±ø´æ$ıl·´nd","MS"," ",174
+"swamp","NY62D!","551d!","N","N","trees","swèµæ∫mp","MS"," ",175
+"swamp","NY63A","556a","N","N","larger than swale; swampy","swè∑Ω∫mp","MS"," ",176
+"swampy","NY63A","556a","N","Y"," ","Âswè∑Ω∫mp±´æ","MS","INA",176
+"swamps","NY63B","556b","N","N"," ","swé∑Ω∫mps","MS"," ",177
+"swamp","NY63C","556c","N","N"," ","sw∂´∫mp","MS"," ",178
+"swamp","NY63D!","556d!","N","N","wetter than meadow","swèµæ∫{∞}mp","MS"," ",179
+"swamp grass","NY63D!","556d!","O","Y"," ","Âswﬁóºmpıgrá·∫{∞}s","MS","INA",179
+"cattail swamp","NY63D!","556d!","O","Y"," ","Âkà·tıteΩ{±ø}Ï$swèµæ∫mp","MS","INA",179
+"drain the swamp","NY63D!","556d!","O","Y"," ","ÂdÚeΩ∫±øn$‰∞$Âswèﬁº∫{∞}mp","MS","INA",179
+"swamp","NY63D!","556d!","N","N","wetter than meadow","swèﬁº∫{∞}mp","MS"," ",179
+"swamp","NY64A","557a","N","N"," ","swè∑Ω∫mp","MS"," ",180
+"swamp","NY64B","557b","N","N","a little wetter than meadow","séwè∂mp","MS"," ",181
+"swamp","NY64C!","557c!","N","N","can't clear; larger than meadow","swè∂´∫mp","MS"," ",182
+"swamp","NJ1A","1","N","N"," ","sw∂´mp","MS"," ",183
+"swamp","NJ1B","2","N","N"," ","sw∂´ºmp","MS"," ",184
+"swamp","NJ2A","3(*)","N","N"," ","sw∂´∫mp","MS"," ",185
+"swamp","NJ2B","4","N","N"," ","sw∂´∫mp","MS"," ",186
+"swamp","NJ3A","5","N","N"," ","sw∂´∫mp","MS"," ",187
+"swamp","NJ3B","6","N","N"," ","sw∂´∫mp","MS"," ",188
+"swamp","NJ4A","7","N","N"," ","sw∂´º∫mp","MS"," ",189
+"swamp","NJ4B","8","N","N"," ","sw∂´º{∞}mp","MS"," ",190
+"swamp","NJ5A","9","N","N","larger than 'branch'","sw∂´∫{∞}mp","MS"," ",191
+"swamp","NJ5B","10","N","N"," ","swµ{∞}mp","MS"," ",192
+"swamp","NJ6A","11","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",193
+"swamp","NJ6B","12","N","N"," ","swµ´æmp","MS"," ",194
+"swamp","NJ7A","17","N","N"," ","sw∂˛´∫mp","MS"," ",195
+"swamp","NJ7B!","18!","N","N","bushes","sw∑Ω∫{∞}mp","MS"," ",196
+"swamp","NJ8A","19","N","N","trees","sw∂´∫mp","MS"," ",197
+"swamp","NJ8B","20","N","N"," ","sw∑:mp","MS"," ",198
+"spung","NJ8B","20","N","N","small swamp","sp∏ºÓ","MS"," ",198
+"swamp","NJ9A","21","N","N"," ","sr∏mp","MS"," ",199
+"bog","NJ9A","21","N","N"," ","b∂∫g","MS"," ",199
+"swamp","NJ9B","22","N","N"," ","sw∂´∫mp","MS"," ",200
+"swamp","NJ10A","24b","N","N"," ","sw∑´∫{∞}mp","MS"," ",201
+"swamp","NJ10B","23","N","N"," ","sw∂´∫mp","MS"," ",202
+"swamp","NJ10C","24","N","N"," ","sw∂´∫{∞}mp","MS"," ",203
+"swamp","NJ10D!","24c!","N","N"," ","swµmp","MS"," ",204
+"swamp","NJ11A","25","N","N","bushes","sw∂´mp","MS"," ",205
+"swamp","NJ11B","26a","N","N"," ","swµæmp","MS"," ",206
+"swamp","NJ11C","26b","N","N"," ","sw∂´∫mp","MS"," ",207
+"swamp","NJ12A","27","N","N"," ","swµæ∫mp","MS"," ",208
+"swamp","NJ12B","28","N","N"," ","swµ∫mp","MS"," ",209
+"swamp","NJ13A","29","N","N"," ","sw∂´∫mp","MS"," ",210
+"swamp","NJ13B","30","N","N"," ","sw∂´mp","MS"," ",211
+"swamp","NJ14A","31","N","N"," ","sw∂´∫{∞}mp","MS"," ",212
+"swamp","NJ14B","32","N","N","trees","sw∂´∫mp","MS"," ",213
+"swamp","NJ15A","33","N","N"," ","sw∑Ω∫mp","MS"," ",214
+"swamp","NJ15B","34","N","N"," ","swµ∫mp","MS"," ",215
+"swamp","NJ16A","35","N","N"," ","swµ∫mp","MS"," ",216
+"swamp","NJ16B","36","N","N"," ","swµæ∫mp","MS"," ",217
+"swamp","NJ17A","37","N","N"," ","sw∂´∫mp","MS"," ",218
+"swamp","NJ17B","38","N","N"," ","sw∑Ω∫mp","MS"," ",219
+"swamp","NJ18A","41","N","N"," ","swµ´æmp","MS"," ",220
+"swamp","NJ18B","42","N","N"," ","swµ´mp","MS"," ",221
+"swamp","NJ18C!","43!","N","N"," ","swµæ∫mp","MS"," ",222
+"swamp","NJ18D!","44!","N","N","trees","swµæ∫mp","MS"," ",223
+"swamp","NJ19A","45","N","N"," ","swµ∫mp","MS"," ",224
+"swamp","NJ19B!","46!","N","N"," ","swµmp","MS"," ",225
+"swamp","NJ20A","47","N","N"," ","swµmp","MS"," ",226
+"swamp","NJ20B","47b","N","N"," ","swµæmp","MS"," ",227
+"swamp","NJ21A","48","N","N"," ","swµmp","MS"," ",228
+"swamp","NJ21B","49","N","N"," ","swµmp","MS"," ",229
+"swamp","PA1A","51","N","N"," ","swµmp","MS"," ",230
+"swamp","PA1B","52","N","N"," ","swﬁºmp","MS"," ",231
+"swamp","PA1C","53","N","N"," ","swﬁmp","MS"," ",232
+"swamp","PA1D","54","N","N"," ","swµmp","MS"," ",233
+"swamp","PA1E!","55!","N","N"," ","swﬁmp","MS"," ",234
+"swamp","PA1F!","56!","N","N"," ","swµæmp","MS"," ",235
+"swamp","PA1G!","57!","N","N"," ","swµæmp","MS"," ",236
+"swamp","PA1H!","58!","N","N"," ","sw∂îºmp","MS"," ",237
+"swamp","PA2A","59","N","N"," ","swµæmp","MS"," ",238
+"swamp","PA2B","60","N","N"," ","swµæmp","MS"," ",239
+"swamp","PA3A","61","N","N"," ","swµæmp","MS"," ",240
+"swamp","PA3B","62","N","N"," ","swµmp","MS"," ",241
+"swamp","PA3C","62b","N","N"," ","swµmp","MS"," ",242
+"swamp","PA4A","63","N","N","in woods","swµæmp","MS"," ",243
+"swamp","PA4B!","64!","N","N"," ","swﬁºmp","MS"," ",244
+"swamp","PA5A","65(*)","N","N"," ","swﬁmp","MS"," ",245
+"swamp","PA5A","65(*)","N","Y"," ","sw∏mp","MS","AUX/SIC",245
+"swamp","PA5B","65b","N","N"," ","sw∂´∫{∞}mp","MS"," ",246
+"swamp","PA5C","66","N","N"," ","swµ∫mp","MS"," ",247
+"swamp","PA5D","67","N","N"," ","sw∑∫mp","MS"," ",248
+"swamp","PA5E!","68!","N","N"," ","sw∑∫{∞}mp","MS"," ",249
+"swamp","PA6A","69","N","N"," ","swﬁ´ºmp","MS"," ",250
+"swamp","PA6B","71","N","N"," ","swµæmp","MS"," ",251
+"swamp","PA6C","71b","N","N"," ","swµæmp","MS"," ",252
+"swamp","PA6D!","72!","N","N"," ","sw∑Ω∫mp","MS"," ",253
+"swamp","PA7A","73","N","N"," ","sw∑Ωº∫mp","MS"," ",254
+"swamp","PA7B","74","N","N"," ","sw∑Ω∫mp","MS"," ",255
+"swamp","PA7C","75","N","N"," ","sw∑mp","MS"," ",256
+"swamp","PA7D!","76!","N","N"," ","swµmp","MS"," ",257
+"swamp","PA8A","77","N","N"," ","sw∑∫mp","MS"," ",258
+"swamp","PA8B","78","N","N"," ","sw∑Ω∫mp","MS"," ",259
+"swamp","PA8C","79","N","N"," ","swﬁmp","MS"," ",260
+"swamp","PA8D!","80!","N","N"," ","swﬁºmp","MS"," ",261
+"swamp","PA9A","83","N","N"," ","sˆﬁmp","MS"," ",262
+"swamp","PA9B","83b","N","N"," ","swµæmp","MS"," ",263
+"swamp","PA9C!","84!","N","N"," ","swµmp","MS"," ",264
+"swamp","PA10","87","N","N"," ","sˆµ´æmp","MS"," ",265
+"swamp","PA11A","89","N","N"," ","sw∂∫mp","MS"," ",266
+"swamp","PA11B","90(*)","N","N"," ","sw∂´mp","MS"," ",267
+"swamp","PA11B","90(*)","N","Y"," ","swµmp","MS","AUX",267
+"swamp","PA12A","91","N","N"," ","sw∂∫mp","MS"," ",268
+"swamp","PA12B","92","N","N"," ","sw∂´∫mp","MS"," ",269
+"swamp","PA13A","93","N","N"," ","sw∂´∫mp","MS"," ",270
+"swamp","PA13B","94","N","N"," ","sw∂´∫mp","MS"," ",271
+"swamp","PA14A","95(*)","N","N"," ","sˆµæmp","MS"," ",272
+"swamp","PA14B","96","N","N"," ","sw›µæmp","MS"," ",273
+"NR","PA14C"," "," ","N"," "," ","MS"," ",274
+"swamp","PA15A","99","N","N"," ","sw∂´∫mp","MS"," ",275
+"swamp","PA15B","99b","N","N"," ","sw∑Ω∫mp","MS"," ",276
+"swamp","PA15C!","100!","N","N"," ","sw∑Ω∫mp","MS"," ",277
+"swamp","PA16A","101","N","N"," ","swµmp","MS"," ",278
+"swamp","PA16B","102","N","N"," ","swµmp","MS"," ",279
+"swamp","PA16C","103","N","N"," ","sw∂´mp","MS"," ",280
+"swamp","PA17A","105","N","N"," ","sw∑∫mp","MS"," ",281
+"swamp","PA17B","106","N","N"," ","sw∑Ω∫mp","MS"," ",282
+"swamp","PA18A","107","N","N","bushy","swﬁºmp","MS"," ",283
+"swamp","PA18B!","108!","N","N"," ","swµmp","MS"," ",284
+"swamp","PA19A","113","N","N"," ","swµæmp","MS"," ",285
+"swamp","PA19B","114","N","N"," ","swﬁmp","MS"," ",286
+"swamp","PA20A","115","N","N"," ","swµæmp","MS"," ",287
+"swamp","PA20B","116","N","N"," ","swﬁºmp","MS"," ",288
+"swamp","PA21A","117","N","N"," ","sw∂´∫mp","MS"," ",289
+"swamp","PA21B","118","N","N"," ","sw∂mp","MS"," ",290
+"swamp","PA22A","119","N","N"," ","sw∂mp","MS"," ",291
+"swamp","PA22B","120","N","N"," ","sw∂´∫mp","MS"," ",292
+"swamp","PA23A","121","N","N"," ","swµmp","MS"," ",293
+"swamp","PA23B","122","N","N"," ","swµmp","MS"," ",294
+"swamp","PA24A","123","N","N"," ","swµmp","MS"," ",295
+"swamp","PA24B","124","N","N"," ","sw∑Ω∫mp","MS"," ",296
+"swamp","PA25A","125","N","N"," ","sw∑∫mp","MS"," ",297
+"swamp","PA25B","126","N","N"," ","sw∂´∫mp","MS"," ",298
+"swamp","PA26A","127","N","N"," ","swµmp","MS"," ",299
+"swamp","PA26B","128","N","N"," ","sw∂´∫mp","MS"," ",300
+"swamp","PA27A","131","N","N"," ","sw∑Ω∫mp","MS"," ",301
+"swamp","PA27B","132","N","N"," ","swµmp","MS"," ",302
+"swamp","PA28A","135","N","N"," ","sw∑Ω:mp","MS"," ",303
+"swamp","PA28B!","136!","N","N"," ","swµmp","MS"," ",304
+"swamp","PA29A","139(*)","N","N"," ","sw∂mp","MS"," ",305
+"swamp","PA29A","139(*)","N","N"," ","sw∂´∫mp","MS"," ",305
+"swamp","PA29B","140","N","N"," ","sw∑Ω∫mp","MS"," ",306
+"swamp","PA30A","143","N","N"," ","sw∂´º∫mp","MS"," ",307
+"swamp","PA30B","144","N","N"," ","sw∂´ºmp","MS"," ",308
+"swamp","PA31A","145","N","N"," ","sw∂´mp","MS"," ",309
+"swamp","PA31B","146","N","N"," ","swµæmp","MS"," ",310
+"swamp","PA32A","147","N","N"," ","sw∑Ω∫mp","MS"," ",311
+"swamp","PA32B","148","N","N"," ","sw∑:mp","MS"," ",312
+"swamp","PA33A","151","N","N"," ","sw∑∫mp","MS"," ",313
+"swamp","PA33B","152","N","N"," ","sw∂´∫mp","MS"," ",314
+"swamp","PA34A","155","N","N"," ","sw∑Ω∫mp","MS"," ",315
+"swamp","PA34B","156","N","N"," ","sw∂´mp","MS"," ",316
+"swamp","PA34C!","155b!","N","N"," ","sw∂mp","MS"," ",317
+"swamp","PA35A","157","N","N"," ","sw∑Ωºmp","MS"," ",318
+"swamp","PA35B","158(*)","N","N"," ","sw∑∫{∞}mp","MS"," ",319
+"swamp","PA35C"," ","N","N"," ","sw∑∫mp","MS"," ",320
+"swamp","PA36A","159","N","N"," ","sw∂´∫mp","MS"," ",321
+"swamp","PA36B","160","N","N"," ","sw∂´mp","MS"," ",322
+"swamp","PA37A","161(*)","N","N"," ","swﬁmp","MS"," ",323
+"swamp","PA37B","162","N","N"," ","swµmp","MS"," ",324
+"swamp","PA37C"," ","N","N"," ","swﬁºmp","MS"," ",325
+"swamp","PA38A","163","N","N"," ","sw∂´∫mp","MS"," ",326
+"swamp","PA38B","164","N","N"," ","sw∑∫mp","MS"," ",327
+"swamp","PA39A","165","N","N"," ","sw∂´mp","MS"," ",328
+"swamp","PA39B","166","N","N"," ","sw∑Ω∫mp","MS"," ",329
+"swamp","PA40A","167","N","N"," ","sw∂´mp","MS"," ",330
+"swamp","PA40B","168","N","N"," ","sw∂ó´∫mp","MS"," ",331
+"swamp","PA41A","171","N","N"," ","sw∑Ω∫mp","MS"," ",332
+"swamp","PA41B","172","N","N"," ","swµæmp","MS"," ",333
+"swamp","PA42A","175","N","N"," ","sw∂´∫mp","MS"," ",334
+"swamp","PA42B","176","N","N"," ","sw∂ó´∫mp","MS"," ",335
+"swamp","PA43A","177","N","N"," ","sw∂´mp","MS"," ",336
+"swamp","PA43B","178","N","N"," ","sw∑∫mp","MS"," ",337
+"swamp","PA44A","179","N","N"," ","sw∂mp","MS"," ",338
+"swamp","PA44B","180","N","N"," ","sw∂mp","MS"," ",339
+"swamp","PA45A","181","N","N"," ","swﬁmp","MS"," ",340
+"swamp","PA45B","182","N","N"," ","swµæmp","MS"," ",341
+"swamp","PA46A","185","N","N"," ","sw∑∫mp","MS"," ",342
+"swamp","PA46B","186","N","N"," ","swﬁ{∞}mp","MS"," ",343
+"swamp","PA47A","189","N","N"," ","sw∑∫mp","MS"," ",344
+"swamp","PA47B","190","N","N"," ","sw∑∫mp","MS"," ",345
+"swamp","PA48A","191","N","N"," ","sw∑∫mp","MS"," ",346
+"swamp","PA48B","192","N","N"," ","sw∑Ω∫mp","MS"," ",347
+"swamp","PA48C","193","N","N"," ","sw∂mp","MS"," ",348
+"swamp","PA49A","194","N","N"," ","sw∂´∫mp","MS"," ",349
+"swamp","PA49B","195","N","N"," ","sw∑∫mp","MS"," ",350
+"swamp","PA50A","196","N","N"," ","sw∑∫mp","MS"," ",351
+"swamp","PA50B","197","N","N"," ","sw∑Ω∫mp","MS"," ",352
+"swamp","PA50C!","198!","N","N"," ","sw∂´∫mp","MS"," ",353
+"swamp","PA51A","199","N","N"," ","sw∂mp","MS"," ",354
+"swamp","PA51B","200","N","N"," ","sw∂mp","MS"," ",355
+"swamp","PA52A","201","N","N"," ","sw∂ó´∫mp","MS"," ",356
+"swamp","PA52B!","202!","N","N"," ","sw∂´mp","MS"," ",357
+"swamp","PA53A","203","N","N"," ","sw∂´mp","MS"," ",358
+"swamp","PA53B","204","N","N"," ","sw∂´∫{∞}mp","MS"," ",359
+"swamp","PA54A","205","N","N"," ","sw∂´∫{∞}mp","MS"," ",360
+"swamp","PA54B","206","N","N"," ","sw∂´∫{∞}mp","MS"," ",361
+"swamp","PA55A","207","N","N"," ","sw∂mp","MS"," ",362
+"swamp","PA55B","208","N","N"," ","sw∂´mp","MS"," ",363
+"swamp","PA56A","211(*)","N","N"," ","sw∂´∫mp","MS"," ",364
+"swamp","PA56A","211(*)","N","Y"," ","sw∑Ω∫mp","MS","AUX",364
+"swamp","PA56B","212","N","N"," ","sw∂ó´∫{∞}mp","MS"," ",365
+"swamp","PA57A","213","N","N"," ","sw∂´∫mp","MS"," ",366
+"swamp","PA57B","214","N","N"," ","sw∂´mp","MS"," ",367
+"swamp","PA58A","215","N","N"," ","sw∂´∫mp","MS"," ",368
+"swamp","PA58B","216","N","N"," ","sw∂ó´∫mp","MS"," ",369
+"swamp","PA59A","219","N","N"," ","sw∂´mp","MS"," ",370
+"swamp","PA59B","220","N","N"," ","sw∂´∫{∞}mp","MS"," ",371
+"swamp","PA60A","221","N","N"," ","sw∑Ω∫mp","MS"," ",372
+"swamp","PA60B","222","N","N"," ","sw∂∫{∞}mp","MS"," ",373
+"swamp","PA61A","223","N","N"," ","sw∑mp","MS"," ",374
+"swamp","PA61B","224","N","N"," ","sw∂´∫mp","MS"," ",375
+"swamp","PA62A","229","N","N"," ","sw∂´∫mp","MS"," ",376
+"swamp","PA62B","230","N","N"," ","sw∂´∫mp","MS"," ",377
+"swamp","PA63A","231","N","N"," ","sw∂´mp","MS"," ",378
+"swamp","PA63B","232","N","N"," ","sw∂´mp","MS"," ",379
+"swamp","PA64A","233","N","N"," ","swµ∫mp","MS"," ",380
+"swamp","PA64B","234","N","N"," ","swµ∫mp","MS"," ",381
+"swamp","PA65A","237","N","N"," ","sw∑Ω∫mp","MS"," ",382
+"swamp","PA65B","238","N","N"," ","swµ∫mp","MS"," ",383
+"swamp","PA66A","239","N","N"," ","sw∑Ω∫mp","MS"," ",384
+"swamp","PA66B","240","N","N"," ","sw∂´∫mp","MS"," ",385
+"swamp","PA66B","240","N","N"," ","sw∑Ω∫mp","MS"," ",385
+"swamp","PA67A","243","N","N"," ","sw∂´∫mp","MS"," ",386
+"swamp","PA67B","244","N","N"," ","swµmp","MS"," ",387
+"swamp","WV1!","88!","N","N"," ","sw∑∫mp","MS"," ",388
+"swamp","WV2","89","N","N"," ","sw∂´∫mp","MS"," ",389
+"swamp","WV3","91","N","N"," ","sw∑Ω∫mp","MS"," ",390
+"swamp","WV4A","92","N","N"," ","swµmp","MS"," ",391
+"swamp","WV4B","93","N","N"," ","sw∑Ω{∞}mp","MS"," ",392
+"swamp","WV5","94","N","N"," ","sw∑Ω{∑}mp","MS"," ",393
+"swamp","WV6A","95","N","N"," ","sw∑∫mp","MS"," ",394
+"swamp","WV6B","96","N","N"," ","sw∑Ωmp","MS"," ",395
+"swamp","WV7A","97","N","N"," ","swﬁ∫mp","MS"," ",396
+"swamp","WV7B","98","N","N"," ","sw∑Ω∫mp","MS"," ",397
+"swamp","WV8A","97b","N","N"," ","sw∑∫mp","MS"," ",398
+"swamp","WV8B","98b","N","N"," ","sw∑∫mp","MS"," ",399
+"swamp","WV9A","301","N","N"," ","sw∑Ω∫mp","MS"," ",400
+"swamp","WV9B","302","N","N"," ","sw∑Ω∫mp","MS"," ",401
+"swamp","WV10A","303","N","N"," ","swµæmp","MS"," ",402
+"swamp","WV10B","303b","N","N"," ","sw∑Ω∫mp","MS"," ",403
+"swamp","WV10C","304","N","N"," ","sw∑Ω∫mp","MS"," ",404
+"swamp","WV11A","305","N","N"," ","sw∑∫mp","MS"," ",405
+"swamp","WV11B!","306!","N","N"," ","sw∑∫mp","MS"," ",406
+"swamp","WV12A","307","N","N"," ","sw∑Ω∫mp","MS"," ",407
+"swamp","WV12B","308","N","N"," ","sw∂´∫mp","MS"," ",408
+"swamp","WV13A","309","N","N"," ","sw∑∫mp","MS"," ",409
+"swamp","WV13B","310","N","N"," ","sw∑∫mp","MS"," ",410
+"swamp","WV14A","311","N","N"," ","sw∑Ω∫mp","MS"," ",411
+"swamp","WV14B","312","N","N"," ","swµæmp","MS"," ",412
+"swamp","WV15A","313","N","N"," ","sw∂∫{∑Ω}mp","MS"," ",413
+"swamp","WV15B","314","N","N"," ","sw∑Ω∫mp","MS"," ",414
+"swamp","WV16A","315","N","N"," ","sw∑Ω∫mp","MS"," ",415
+"swamp","WV16B","316","N","N"," ","sw∑Ω∫mp","MS"," ",416
+"swamp","WV17A","317","N","N"," ","sw∑Ω∫mp","MS"," ",417
+"swamp","WV17B","317b","N","N"," ","sw∑Ω∫mp","MS"," ",418
+"swamp","WV17C","318","N","N"," ","sw∑Ω∫mp","MS"," ",419
+"swamp","WV18A","319","N","N"," ","sw∑Ω∫mp","MS"," ",420
+"swamp","WV18B","320","N","N"," ","sw∂´∫mp","MS"," ",421
+"swamp","WV19A","321","N","N"," ","sw∑∫mp","MS"," ",422
+"swamp","WV19B","322","N","N"," ","sw∑:mp","MS"," ",423
+"swamp","WV20A","323","N","N"," ","sw∑∫mp","MS"," ",424
+"swamp","WV20B","324","N","N"," ","swµæmp","MS"," ",425
+"swamp","WV21A","325","N","N"," ","sw∑ó∫mp","MS"," ",426
+"swamp","WV21B","326","N","N"," ","sw∑∫mp","MS"," ",427
+"swamp","WV22A","327","N","N"," ","sw∂´mp","MS"," ",428
+"swamp","WV22B","328","N","N"," ","sw∂´∫mp","MS"," ",429
+"swamp","WV23A","331","N","N"," ","sw∑∫mp","MS"," ",430
+"swamp","WV23B","332","N","N"," ","sw∂´∫mp","MS"," ",431
+"swamp","WV24A","335","N","N"," ","sw∑∫mp","MS"," ",432
+"swamp","WV24B","336","N","N"," ","sw∑∫mp","MS"," ",433
+"glade","WV25A","337","N","N"," ","gle±ød","MS"," ",434
+"swamp","WV25B","338","N","N"," ","sw∑∫mp","MS"," ",435
+"swamp","WV26A","339","N","N"," ","sw∑∫mp","MS"," ",436
+"swamp","WV26B","340","N","N"," ","sw∑∫mp","MS"," ",437
+"swamp","WV27A","341","N","N"," ","sw∑∫mp","MS"," ",438
+"swamp","WV27B","342","N","N"," ","sw∑Ω∫mp","MS"," ",439
+"swamp","WV28A","343","N","N"," ","swﬁº∫{∞}mp","MS"," ",440
+"swamp","WV28B","344","N","N"," ","swﬁº{∞}mp","MS"," ",441
+"swamp","WV29A","345","N","N"," ","swµmp","MS"," ",442
+"swamp","WV29B","346","N","N"," ","swµmp","MS"," ",443
+"swamp","WV30A","347","N","N"," ","sw∂´∑mp","MS"," ",444
+"swamp","WV30B","348","N","N"," ","sw∑Ω∫mp","MS"," ",445
+"swamp","WV31A","349","N","N"," ","swﬁ∫mp","MS"," ",446
+"swamp","WV31B","350","N","N"," ","swﬁº∫mp","MS"," ",447
+"swamp","WV32A","353","N","N"," ","sw∑Ω∑mp","MS"," ",448
+"swamp","WV32B","354","N","N"," ","swﬁ∫{∞}mp","MS"," ",449
+"swamp","WV33A","355","N","N"," ","swﬁºmp","MS"," ",450
+"swamp","WV33B","356","N","N"," ","swµmp","MS"," ",451
+"swamp","WV34A","359","N","N"," ","swµæmp","MS"," ",452
+"swamp","WV34B","360","N","N"," ","sw∑Ω∫mp","MS"," ",453
+"swamp","WV35A","361","N","N"," ","swµæmp","MS"," ",454
+"swamp","WV35B","362","N","N"," ","sw∑Ω∫mp","MS"," ",455
+"swamp","WV36A","363","N","N"," ","sw∑Ω∫mp","MS"," ",456
+"swamp","WV36B","364","N","N"," ","sw∑Ω∫mp","MS"," ",457
+"swamp","WV37A","365","N","N"," ","sw∑Ω∫mp","MS"," ",458
+"swamp","WV37B!","366!","N","N"," ","sw∑Ω∫mp","MS"," ",459
+"swamp","WV38A","367","N","N"," ","sw∑Ω∫mp","MS"," ",460
+"swamp","WV38B","368","N","N"," ","sw∑Ω∫mp","MS"," ",461
+"swamp","WV39A","369","N","N"," ","sw∑∫mp","MS"," ",462
+"swamp","WV39B","370","N","N"," ","swµæmp","MS"," ",463
+"swamp","WV39C!","371!","N","N"," ","sw∑Ω∫mp","MS"," ",464
+"marsh","WV39C!","371!","N","N"," ","mµ¥Û","MS"," ",464
+"swamp","WV40A","373","N","N"," ","sw∑Ω∫mp","MS"," ",465
+"swamp","WV40B","374","N","N"," ","sw∑∫mp","MS"," ",466
+"swamp","WV41A","375","N","N"," ","sw∑Ω{∑}mp","MS"," ",467
+"swamp","WV41B","376","N","N"," ","sw∑∫mp","MS"," ",468
+"swamp","WV42A","377","N","N"," ","sw∑∫mp","MS"," ",469
+"swamp","WV42B","378","N","N"," ","sw∑∫mp","MS"," ",470
+"swamp","WV43A","381","N","N"," ","sw∑∫mp","MS"," ",471
+"swamp","WV43B","382","N","N"," ","sw∑Ω∫mp","MS"," ",472
+"swamp","WV44A","383","N","N"," ","sw∑Ω∫mp","MS"," ",473
+"swamp","WV44B","384","N","N"," ","sw∑∫mp","MS"," ",474
+"swamp","WV45A","385","N","N"," ","swµmp","MS"," ",475
+"swamp","WV45B","386","N","N"," ","sw∑Ω∫mp","MS"," ",476
+"swamp","WV46A","387","N","N"," ","sw∑´∫mp","MS"," ",477
+"swamp","WV46B","388","N","N"," ","sw∑ó∫mp","MS"," ",478
+"swamp","WV47A","389","N","N"," ","sw∑Ω∫mp","MS"," ",479
+"swamp","WV47B","390","N","N"," ","sw∑Ω∫mp","MS"," ",480
+"swamp","WV48A","391","N","N"," ","sw∑Ω∫mp","MS"," ",481
+"swamp","WV48B","391b","N","N"," ","sw∑∫mp","MS"," ",482
+"swamp","WV48C","392","N","N"," ","sw∑∫mp","MS"," ",483
+"swamp","WV48D","392b","N","N"," ","sw∑Ω∫mp","MS"," ",484
+"swamp","WV49A","393","N","N"," ","sw∑´∫mp","MS"," ",485
+"swamp","WV49B","394","N","N"," ","sw∑Ω∫mp","MS"," ",486
+"swamp","WV50A","395","N","N"," ","swﬁºmp","MS"," ",487
+"swamp","WV50B","396","N","N"," ","sw∑Ω∫mp","MS"," ",488
+"swamp","WV51A","261","N","N"," ","swµæmp","MS"," ",489
+"swamp","WV51B","262","N","N"," ","sw∑∫mp","MS"," ",490
+"swamp","WV52A","258","N","N"," ","sw∑Ω∫mp","MS"," ",491
+"swamp","WV52B","259","N","N"," ","sw∂´∫mp","MS"," ",492
+"swamp","WV52C!","260!","N","N"," ","sw∂´mp","MS"," ",493
+"marsh","WV52C!","260!","N","N"," ","mµ¥Û","MS"," ",493
+"swamp","WV53A","257","N","N"," ","sw∂´∫mp","MS"," ",494
+"swamp","WV53B","257b","N","N"," ","sw∂´∫mp","MS"," ",495
+"swamp","WV53C!","257c!","N","N"," ","swﬁº∫mp","MS"," ",496
+"swamp","WV54A","255","N","N"," ","sw∂∫mp","MS"," ",497
+"swamp","WV54B","256","N","N"," ","sw∑∫mp","MS"," ",498
+"swamp","DE1A","11","N","N"," ","sw∂´∫{∞}mp","MS"," ",499
+"swamp","DE1B","12","N","N"," ","sw∂∫mp","MS"," ",500
+"swamp","DE1C!","13!","N","N"," ","sw∂´∫mp","MS"," ",501
+"NA","DE2A","15(*)"," ","N"," "," ","MS"," ",502
+"swamp","DE2B","16","N","N"," ","sw∂´º∫mp","MS"," ",503
+"swamp","DE2C"," ","N","N"," ","sw∂´º{∞}mp","MS"," ",504
+"swamp","DE3A","18","N","N"," ","sw∂´∫{∞}mp","MS"," ",505
+"swamp","DE3B","19","N","N"," ","sw∂´mp","MS"," ",506
+"swamp","DE3C!","17!","N","N"," ","sw∂´∫mp","MS"," ",507
+"swamp","DE4","20","N","N"," ","sw∑Ω∫mp","MS"," ",508
+"swamp","DE5A","21","N","N","trees","sw∑∫mp","MS"," ",509
+"swamp","DE5B","22","N","N"," ","sw∂´∫mp","MS"," ",510
+"swamp","DE6A","23","N","N"," ","sw∂´∫mp","MS"," ",511
+"swamp","DE6B","24","N","N"," ","sw∂´∫mp","MS"," ",512
+"swamp","MD1A","27","N","N"," ","sw∂´mp","MS"," ",513
+"swamp","MD1B","28","N","N"," ","sw∑Ω∫mp","MS"," ",514
+"swamp","MD2A","31a","N","N"," ","sw∑∫mp","MS"," ",515
+"swamp","MD2B","32","N","N"," ","sw∑∫mp","MS"," ",516
+"swamp","MD3A","33","N","N","trees","swﬁ´∫mp","MS"," ",517
+"swamp","MD3B","34","N","N"," ","sw∑:mp","MS"," ",518
+"swamp","MD4A","35b","N","N","huckleberries","sw∑∫mp","MS"," ",519
+"swamp","MD4B","35","N","N","round; no outlet","sw∂´∫mp","MS"," ",520
+"swamp","MD4C","36","N","N","running water","sw∑Ω∫mp","MS"," ",521
+"water bog","MD4C","36","O","N","trees","w∑{∞é}tê¥$b∑∫g","MS"," ",521
+"swamp","MD5A","37","N","N","trees","sw∂´∫mp","MS"," ",522
+"swamp","MD5B","38","N","N"," ","sw∑Ω∫mp","MS"," ",523
+"swamp","MD6A","39(*)","N","N"," ","sw∂´∫mp","MS"," ",524
+"swamp","MD6B","40","N","N"," ","sw∑Ω∫mp","MS"," ",525
+"swamp","MD7A","41","N","N"," ","sw∑Ω∫mp","MS"," ",526
+"swamp","MD7B","41b","N","N"," ","sw∂´∫mp","MS"," ",527
+"swamp","MD7C!","42!","N","N"," ","sw∑Ωmp","MS"," ",528
+"swamp","MD8A","43","N","N"," ","sw∑∫mp","MS"," ",529
+"swamp","MD8B","44","N","N"," ","sw∑Ω∫mp","MS"," ",530
+"swamp","MD9N","N46","N","N","trees","sw∂´∫{∞}mp","MS"," ",531
+"swamp","MD9A","45","N","N"," ","sw∑Ω∫mp","MS"," ",532
+"swamp","MD9B","46","N","N"," ","sw∑∫mp","MS"," ",533
+"swamp","MD10A","49","N","N","trees","sw∑Ω∫mp","MS"," ",534
+"swamp","MD10B","50","N","N"," ","sw∑Ω∫mp","MS"," ",535
+"swamp","MD11","51","N","N","trees","sw∑ó´:mp","MS"," ",536
+"swamp","MD12A","52","N","N","trees","swµæmp","MS"," ",537
+"swamp","MD12B","53","N","N"," ","sw∑ó:mp","MS"," ",538
+"swamp","MD13A","54(*)","N","N"," ","sw∑∫mp","MS"," ",539
+"swamp","MD13B","55","N","N"," ","sw∑:mp","MS"," ",540
+"swamp","MD13C","56","N","N"," ","sw∑∫mp","MS"," ",541
+"swamp","MD13D!","57!","N","N"," ","sw∑∑´mp","MS"," ",542
+"swamp","MD13E!","58!","N","N"," ","sw∑´∫mp","MS"," ",543
+"swamp","MD13F!","59!","N","N","trees","sw∑ó:mp","MS"," ",544
+"NR","MD13G"," "," ","N"," "," ","MS"," ",545
+"swamp","MD14","61(*)","N","N"," ","sw∏´mp","MS"," ",546
+"swamp","MD14","61(*)","N","Y"," ","swﬁ›mp","MS","AUX",546
+"nasser land","MD14","61(*)","O","Y","German","nﬁs∞›$lﬁn{tí}","MS","INA/AUX",546
+"swamp","MD15A","62","N","N"," ","sw∑∫mp","MS"," ",547
+"swamp","MD15B","63","N","N"," ","sw∑:mp","MS"," ",548
+"swamp","MD16","64","N","N"," ","sw∑∫mp","MS"," ",549
+"swamp","MD17A","65","N","N"," ","swµæmp","MS"," ",550
+"swamp","MD17B","66","N","N"," ","swﬁºmp","MS"," ",551
+"swamp","MD18A","67","N","N"," ","sw∑:mp","MS"," ",552
+"swamp","MD18B","68","N","N","trees","swﬁºmp","MS"," ",553
+"swamp","MD19A","69","N","N"," ","sw∑:mp","MS"," ",554
+"swamp","MD19B","70","N","N"," ","sw∑:mp","MS"," ",555
+"swamp","MD20A","71","N","N"," ","sw∑∫mp","MS"," ",556
+"swamp","MD20B","72","N","N","trees","sw∑:mp","MS"," ",557
+"swamp","MD20C!","73!","N","N"," ","sw∑˛∫mp","MS"," ",558
+"swamp","MD21A","75","N","N"," ","sw∑Ω∫mp","MS"," ",559
+"swamp","MD21B","76","N","N","running water","swµmp","MS"," ",560
+"swamp","MD22N","N77","N","N"," ","swﬁºmp","MS"," ",561
+"swamp","MD22M","N78","N","N"," ","swﬁ´ºmp","MS"," ",562
+"swamp","MD22A","77","N","N","trees","sw∑∫mp","MS"," ",563
+"swamp","MD22B","78","N","N","trees","sw∑Ω∫mp","MS"," ",564
+"swamp","MD22C!","79!","N","N"," ","swµæmp","MS"," ",565
+"swamp","MD23A","80b","N","N"," ","sw∑:mp","MS"," ",566
+"swamp","MD23B","80a","N","N"," ","swﬁó∂ómp","MS"," ",567
+"swamp","MD23C","81","N","N"," ","swﬁ∂´mp","MS"," ",568
+"swamp","MD24","82","N","N"," ","sw∑∫mp","MS"," ",569
+"swamp","MD25","84","N","N"," ","sw∂´mp","MS"," ",570
+"swamp","MD26A","83","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",571
+"swamp","MD26B","83A","N","N"," ","sw∂´mp","MS"," ",572
+"swamp","MD27A","85","N","N"," ","sw∑Ω∫mp","MS"," ",573
+"swamp","MD27B","86","N","N"," ","sw∑Ω∫mp","MS"," ",574
+"swamp","DC1A","99","N","N","trees","sw∑´∫{∞}mp","MS"," ",575
+"swamp","DC1B!","100!","N","N"," ","swﬁºmp","MS"," ",576
+"swamp","VA1!","101!","N","N"," ","sw∂ó´{∑óΩ}mp","MS"," ",577
+"marsh","VA1!","101!","N","N","open","m∂´º{∂ó´}Û","MS"," ",577
+"swamp","VA2A","103","N","N","trees","sw∑Ω∫mp","MS"," ",578
+"marsh","VA2A","103","N","N","open","mµ∫{∞é}Û","MS"," ",578
+"marsh","VA2A","103","N","Y","open","m·´∫Û","MS","SUG/OLD",578
+"swamp","VA2B","104","N","Y"," ","sw∂ó´∫mp","MS","AUX",579
+"NR","VA3A","105(*)"," ","N"," "," ","MS"," ",580
+"swamp","VA3B","106","N","N","trees","sw∑Ωmp","MS"," ",581
+"marsh","VA3B","106","N","N","grass","mµ´æ¥Û","MS"," ",581
+"swamp","VA3C"," ","N","N","larger than bog","sw∑Ω∫mp","MS"," ",582
+"swamp","VA4N","N109","N","N"," ","s{w}∑∫mp","MS"," ",583
+"swamp","VA5A","107","N","N","overgrown","sw∑∫{∑´}mp","MS"," ",584
+"marsh","VA5A","107","N","N","open","mﬁº:{∞}Û","MS"," ",584
+"swamp","VA5B","108","N","N","large","sw∑Ω∫mp","MS"," ",585
+"marsh","VA5B","108","N","N","small","mﬁº:Û","MS"," ",585
+"swamp","VA6A","113","N","N","larger expanse containing marshy places","sw∑∑ómp","MS"," ",586
+"marsh","VA6A","113","N","N","very wet","m·∫{±øΩ}Û","MS"," ",586
+"swamp","VA6B","114","N","N"," ","sw∑óΩ∫mp","MS"," ",587
+"swamp","VA7A","121","N","N"," ","sw∑ó:mp","MS"," ",588
+"slash land","VA7A","121","O","N","same as 'swamp'","Âsl·{·´}Û$ıl·{∞}nd","MS"," ",588
+"swamp","VA7B","122","N","N","bushes","sw∑:mp","MS"," ",589
+"marsh","VA7B","122","N","N","grassy","mµæ∫Û","MS"," ",589
+"swamp","VA8A","123","N","N"," ","sw∑∫mp","MS"," ",590
+"sob land","VA8A","123","N","N"," ","Âs∑Ω{∑}b$l·{∞}n{d}","MS"," ",590
+"swamp","VA8B","124","N","N","small, no outlet","sw∂ó´∫mp","MS"," ",591
+"marsh","VA8B","124","N","N"," ","mµ∫{±øΩ}Û","MS"," ",591
+"marsh","VA8B","124","N","N"," ","m·Ωæ{±ø}Û","MS"," ",591
+"swamp","VA8C!","125!","N","N","trees","sw∑∫{∑´}mp","MS"," ",592
+"marsh","VA8C!","125!","N","N"," ","mµæ∫ﬁóºÛ","MS"," ",592
+"swamp","VA9A","117","N","N","trees","sw∑∫mp","MS"," ",593
+"marsh","VA9A","117","N","N"," ","mﬁº:{∞´º}Û","MS"," ",593
+"swamp","VA9B!","118!","N","N"," ","sw∑{∑˛´}mp","MS"," ",594
+"marsh","VA9B!","118!","N","N"," ","mﬁº:Û","MS"," ",594
+"marsh","VA9B!","118!","N","Y"," ","m·´{±øΩ}Û","MS","SUG/OLD",594
+"swamp","VA10A","127","N","N","running water","sw∑∫mp","MS"," ",595
+"marsh","VA10A","127","N","N","standing water","mﬁº:{∞}Û","MS"," ",595
+"marsh","VA10A","127","N","N","standing water","mµ›´º{∞}Û","MS","CNV",595
+"marsh","VA10A","127","N","Y","standing water","m·{±øΩ}Û","MS","SUG/OLD",595
+"swamp","VA10B","128","N","N","running water","sw∑Ω∫{∑}mp","MS"," ",596
+"marsh","VA10B","128","N","N","standing water","mµﬁÛ","MS"," ",596
+"swamp","VA11A","129","N","N","running water","sw∑óΩ∫mp","MS"," ",597
+"marsh","VA11A","129","N","N","sic:  [µ›´æ{∞}] as in 'not' [nµ´æ{∞}t]","mµ›´æ{∞}Û","MS","SIC",597
+"not","VA11A","129","B","Y"," ","nµ´æ{∞}t","MS","INA",597
+"swamp","VA11B","130","N","N","trees, slowly running stream","sw∂º∂´ºmp","MS"," ",598
+"swamp","VA12N","N131","N","N","little","sw∑∫mp","MS"," ",599
+"swamp","VA12A","131","N","N","inland, fresh","sw∑∫{∑´}mp","MS"," ",600
+"swamp","VA12A","131","N","N","inland, fresh","sw∑ó∫mp","MS"," ",600
+"marsh","VA12A","131","N","N","salt, on river","mﬁº:Û","MS"," ",600
+"marsh","VA12A","131","N","Y","salt, on river","m·{∞´æ}Û","MS","SUG/OLD",600
+"swamp","VA12B!","132!","N","N","fresh","sw∑óΩ∫mp","MS"," ",601
+"marsh","VA12B!","132!","N","N","salt or fresh, on river","mﬁº:Û","MS"," ",601
+"marsh","VA13A","133","N","N","larger","m∂´º∫{∞}Û","MS"," ",602
+"swamp","VA14A","135","N","N","trees","sw∑∫mp","MS"," ",604
+"swamp","VA14B","136","N","N","running water","swµ´æmp","MS"," ",605
+"marsh","VA14B","136","N","N"," ","m∂∂ó´Û","MS"," ",605
+"swamp","VA14C","137","N","N","fresh, in woods","sw∂ó∂ó´mp","MS"," ",606
+"swamp","VA15N","N139(*)","N","N","running water","sw∑∫mp","MS"," ",607
+"swamp","VA15A","139","N","N","running water","sw∑∫mp","MS"," ",608
+"swamp","VA15B","140","N","N","inland, fresh","sw∑∫mp","MS"," ",609
+"swamp","VA16A","141","N","N","running water","sw∑Ω∫mp","MS"," ",610
+"marsh","VA16A","141","N","N"," ","mµæ:Û","MS"," ",610
+"swamp","VA16B","142","N","N","running water","sw∑:mp","MS"," ",611
+"bog","VA16B","142","N","N","standing water","bµ´æ{∞æ}g","MS"," ",611
+"swamp","VA17A","143","N","N","running water","sw∑îΩ:mp","MS"," ",612
+"slash","VA17A","143","N","N","swampy land","sl·∫{·´}Û","MS"," ",612
+"swamp","VA17B","144","N","N","running brook","sw∑˛∫mp","MS"," ",613
+"marsh","VA17B","144","N","N"," ","mﬁó´º∫{∞}Û","MS"," ",613
+"swamp","VA18","145","N","N","running water","sw∑mp","MS"," ",614
+"marsh","VA18","145","N","N","5 or 6 acres","mﬁº:Û","MS"," ",614
+"marsh","VA18","145","N","Y","5 or 6 acres; old-fashioned","m·Û","MS","SUG/OLD",614
+"swamp","VA19A","146","N","N"," ","swﬁ´{∞}mp","MS"," ",615
+"swamp","VA19B","147","N","N","thick woods; sluggish water in it probably","sw∑∫mp","MS"," ",616
+"swamp","VA19C!","148!","N","N","trees, fresh","sw∑Ω{∑}mp","MS"," ",617
+"swamp","VA20A","149","N","N","running water","s{w}∑:mp","MS"," ",618
+"swamp","VA20B","150(*)","N","N"," ","sw∑Ω∑mp","MS"," ",619
+"swamp","VA20C"," ","N","N"," ","sw∂´∫mp","MS"," ",620
+"swamp","VA21N","N153","N","N","running water and wet sides","s{w}∑∫mp","MS"," ",621
+"slashy place","VA21N","N153","O","N","standing water","sl·´{±ø}Û±ø$ple´{±ø}s","MS"," ",621
+"swamp","VA21A","153","N","N","running water","sw∑óΩ∫mp","MS"," ",622
+"swamp","VA21B","154","N","N","fresh; running water","sw∑Ω∫mp","MS"," ",623
+"swamp","VA22","155","N","N","shallow; running water","sw∂ó´∫mp","MS"," ",624
+"swamp","VA23A","156","N","N","bushes; trees; running, fresher water; more inland","sw∑:mp","MS"," ",625
+"swamp","VA23B","157","N","N"," ","sw∂ó´∫mp","MS"," ",626
+"swamp","VA24","159","N","N","stream and bushes (running water)","sw∑óΩ∫mp","MS"," ",627
+"NR","VA25","160(*)"," ","N"," "," ","MS"," ",628
+"swamp","VA26A","161A","N","N"," ","sw∂ó´∫mp","MS"," ",629
+"swamp","VA26B","161","N","N","woodland (not wet), level","sw∂´∫{∞}mp","MS"," ",630
+"swamp","VA26C","162","N","N","wet woodland","sw∂´∫mp","MS"," ",631
+"swamp","VA27","163(*)","N","N","on the (de?) main","sw∂´{∞}mp","MS"," ",632
+"swamp","VA27","163(*)","N","N","on the (de?) main","sw∂´{∑Ω}mp","MS"," ",632
+"swamp","VA28A","164","N","N","a big piece of woodland, even if high land and","s{w}∑Ω∫mp","MS","RN1",633
+" ","VA28A","164"," "," ","perfectly drained"," ","MS","RN2",633
+"swamp","VA28B","165","N","N","heavy wooded land, even if well drained","sw∂´∫mp","MS"," ",634
+"swamp","VA29","166","N","N","standing water","sw∑Ω∫mp","MS"," ",635
+"swamp","VA30A","167","N","N","running water","sw∑Ω:mp","MS"," ",636
+"swamp","VA30B!","167a!","N","N","standing water","sw∑Ω{∑}mp","MS"," ",637
+"swamp","VA30C!","168!","N","N","large, tangled bushes and trees","sw∑Ωº{∑}mp","MS"," ",638
+"swamp","VA30D!","169!","N","N","trees, etc.","swµ´{∞}mp","MS"," ",639
+"marsh","VA30D!","169!","N","N","open","mµæ∫ﬁ´ºÛ","MS"," ",639
+"swamp","VA30E!","170!","N","N","trees","sw∂´{∑Ω}mp","MS"," ",640
+"marsh","VA30E!","170!","N","N","opener","mµæ∂´ºÛ","MS"," ",640
+"swamp","VA31A","171(*)(**)","N","N"," ","sw∑∫mp","MS"," ",641
+"swamp","VA31C"," ","N","N","wilderness of trees and bushes","sw∑óΩ∫mp","MS"," ",643
+"marsh","VA31C"," ","N","N","grassy","m∂´∫{∞}Û","MS"," ",643
+"swamp","VA31B","172","N","N","timber","sw∑∫mp","MS"," ",642
+"swamp","VA32!","175!","N","N","trees","swµ´æ{∞}mp","MS"," ",644
+"swamp","VA33A","173","N","N","trees","sw∂´{∑Ω}mp","MS"," ",645
+"marsh","VA33A","173","N","N","reeds","m·{±øΩ}Û","MS"," ",645
+"swamp","VA33B","174","N","N","trees, standing water","sw∂´º{∂´}mp","MS"," ",646
+"swamp","VA34A","177(*)","N","Y"," ","sw∑∫mp","MS","AUX",647
+"swamp","VA34B","178","N","N","running water","sw∂´∫mp","MS"," ",648
+"swamp","VA35A","179","N","N","running water","sw∑:mp","MS"," ",649
+"swamp","VA35B","180","N","N"," ","sw∂´∑Ωmp","MS"," ",650
+"swamp","VA36A","181","N","N","running water","s{w}∑:mp","MS"," ",651
+"swamp","VA36B","182","N","N","running water","sw∑∫mp","MS"," ",652
+"swamp","VA37","183","N","N","running water","sw∑∑´mp","MS"," ",653
+"swamp","VA38","185","N","N","trees, fresh","sw∂´{∞}mp","MS"," ",654
+"slash","VA38","185","N","N","standing water","sl·{±ø}Û","MS"," ",654
+"swamp","VA39!","186!","N","N"," ","sw∂º∂´mp","MS"," ",655
+"swamp","VA40A","187","N","N","fresh water, standing","sw∑Ω∫mp","MS"," ",656
+"swamp","VA40B","188","N","N","overgrown with trees","sw∑ó∫mp","MS"," ",657
+"swamp","VA41A","191","N","N","trees","sw∑ó{∑´}mp","MS"," ",658
+"swamp","VA41B","192","N","N"," ","sw∂´∫mp","MS"," ",659
+"swamp","VA42A","193(*)(**)","N","N","overgrown with trees","sw∑óΩ∑ómp","MS"," ",660
+"swamp","VA42B","194","N","N","trees","sw∑Ω∫mp","MS"," ",661
+"swamp","VA43N","N195","N","N"," ","sw∑´∫mp","MS"," ",662
+"swamp","VA43A","195","N","N","trees, bushes, and grass","sw∑:mp","MS"," ",663
+"swamp","VA43B","196","N","N","overgrown","sw∑ó:mp","MS"," ",664
+"swamp","VA44A","199","N","N"," ","sw∑óΩ{∑ó}mp","MS"," ",665
+"swamp","VA44B","200","N","N"," ","sw∂ó´{∑óΩ}mp","MS"," ",666
+"swamps","VA45A","201","N","N","trees","sw∑∫mps","MS"," ",667
+"swamp","VA45B","202","N","N"," ","sw∑óΩ∫mp","MS"," ",668
+"marsh","VA45B","202","N","N"," ","mµæ:Û","MS"," ",668
+"NR","VA46N","N207"," ","N"," "," ","MS"," ",669
+"swamp","VA46A","207","N","N"," ","sw∑∫mp","MS"," ",670
+"sobby land","VA46A","207","O","N"," ","sµ∫b±ø$l·∫{∞}n","MS"," ",670
+"swamp","VA46B!","208!","N","N"," ","sw∑{∑´}mp","MS"," ",671
+"swamp","VA47","211","N","N"," ","sw∑Ω∫mp","MS"," ",672
+"marsh","VA47","211","N","N"," ","mﬁº:{∞´º}Û","MS"," ",672
+"swamp","VA48A","213(*)","N","N","growth of trees","sw∑óΩ∫mp","MS"," ",673
+"swamp","VA48B","214","N","N","growth","sw∑óΩ∫mp","MS"," ",674
+"marsh","VA48B","214","N","N"," ","mﬁº∫{∞}Û","MS"," ",674
+"swamp","VA49A","215","N","N","growth, trees","sw∑óΩ∫mp","MS"," ",675
+"marsh","VA49A","215","N","N","springy place","m·∫Û","MS"," ",675
+"swamp","VA49B","216","N","N","none here","sw∑óΩ∫mp","MS"," ",676
+"swamp","VA50A","217","N","N"," ","sw∑Ω∫mp","MS"," ",677
+"swamp","VA50B","218","N","N","trees","sw∂´{∑}mp","MS"," ",678
+"swamp","VA51A","219","N","N","standing water","swﬁ´º{∞}mp","MS"," ",679
+"marsh","VA51A","219","N","N","standing water","m·{±øΩ}Û","MS"," ",679
+"NA","VA51B","220(*)"," ","N"," "," ","MS"," ",680
+"swamp","VA51C"," ","N","N"," ","sw∑Ω∑mp","MS"," ",681
+"swamp","VA52A","224","N","N"," ","sw∑Ω∫mp","MS"," ",682
+"swamp","VA52B","225","N","N"," ","sw∑óΩ{∑}mp","MS"," ",683
+"swamp","VA52C!","226!","N","N","larger than marsh","sw∑óΩ∫mp","MS"," ",684
+"swamp","VA53A","227","N","N"," ","sw∑Ω:mp","MS"," ",685
+"swamp","VA53B","228","N","N"," ","sw∑Ω{∑ó}mp","MS"," ",686
+"swamp","VA54A","229","N","N","trees","sw∑∫mp","MS"," ",687
+"swamp","VA54B","230","N","N"," ","sw∑Ω∫mp","MS"," ",688
+"swamp","VA55A","233(*)","N","Y"," ","sw∂´ºmp","MS","AUX",689
+"swamp","VA55A","233(*)","N","N"," ","sw∑∫mp","MS"," ",689
+"swamp","VA55B","234(*)","N","N"," ","sw∂´∫{∑Ω}mp","MS"," ",690
+"swamp","VA56A","237","N","N"," ","sw∑ómp","MS"," ",691
+"swamp","VA56B","238","N","N"," ","sw∑Ω∫mp","MS"," ",692
+"swamp","VA57A","239","N","N"," ","sw∂´ºmp","MS"," ",693
+"swamp","VA57B","240","N","N"," ","sw∑Ω∫mp","MS"," ",694
+"swamp","VA58","241(*)","N","N"," ","swﬁ´º{∞}mp","MS"," ",695
+"swampy place","VA58","241(*)","O","Y"," ","sw∑´∫mp±øΩ$ple∫s","MS","AUX",695
+"marsh","VA58","241(*)","N","Y","""whar frogs lives in¢","m·´{±ø}Û†","MS","AUX",695
+"swamp","VA59N","N241","N","N"," ","sw∑∫mp","MS"," ",696
+"marsh","VA59N","N241","N","N","oftener than 'swamp'","m·∫Û","MS"," ",696
+"swamp","VA59A","242","N","N"," ","sw∑Ω∫mp","MS"," ",697
+"swamp","VA59B!","243!","N","N"," ","swµ´æ{∞}mp","MS"," ",698
+"swamp","VA60","244(*)","N","Y"," ","sw∑Ω∫mp","MS","AUX",699
+"swamp","VA61A","245(*)","N","N"," ","sw∂´º{∑}m{p}","MS"," ",700
+"swamp","VA61B!","246!","N","N","wooded","sw∑óΩmp","MS"," ",701
+"marsh","VA61B!","246!","N","N","open","mµ´æ¥Û","MS"," ",701
+"swamp","VA61C"," ","N","N","permanently wet","sw∂´{∑}mp","MS"," ",702
+"marsh","VA61C"," ","N","Y","same as swamp","m·´{±ø}Û","MS","SUG",702
+"sour land","VA61C"," ","N","Y","sometimes wet","sa´π¥$l·´∫{∞}nd","MS","SUG",702
+"swamp","VA62A","247(*)","N","N"," ","swﬁó´º{∞}mp","MS"," ",703
+"swamp","VA62B","248","N","N"," ","sw∑ó∫mp","MS"," ",704
+"swamp","VA63A","251","N","N"," ","sw∑Ω∫mp","MS"," ",705
+"swamp","VA63B","252","N","N"," ","sw∂´{∑}mp","MS"," ",706
+"swamp","VA64A","255","N","N"," ","sw∑óΩ{∑ó}mp","MS"," ",707
+"swamp","VA64B","256","N","N","trees","sw∂´{∑Ω}mp","MS"," ",708
+"marsh","VA64B","256","N","N","grass","mµæ:Û","MS"," ",708
+"swamp","VA65A","257","N","N"," ","sw∂´{∑Ω}mp","MS"," ",709
+"marsh","VA65A","257","N","N","dry at low water times","mµæ{r}Û","MS"," ",709
+"marsh","VA65A","257","N","Y","dry at low water times","m·Ω{±øΩ}Û","MS","SUG/CNV",709
+"swamp","VA65B","258","N","N","traversable","sw∑∫mp","MS"," ",710
+"swamp","VA65C!","259!","N","N","bigger than 'marsh'","sw∑Ωº{∑}mp","MS"," ",711
+"marsh","VA65C!","259!","N","N"," ","mµ:Û","MS"," ",711
+"swamp","VA66A","261","N","N"," ","swµæ{∞}mp","MS"," ",712
+"marsh","VA66A","261","N","Y"," ","m·{±øΩ}Û","MS","SUG",712
+"swamp","VA66B","262","N","N"," ","sw∑ó∫mp","MS"," ",713
+"swamp","VA67A","267","N","N"," ","sw∑Ω∫mp","MS"," ",714
+"swamp","VA67B","268","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",715
+"swamp","VA68A","269","N","N"," ","sw∑óΩ∫mp","MS"," ",716
+"marshy land","VA68A","269","O","Y","same as swamp","m·∫Û±ø$l·∫{∞}n{d}","MS","SUG",716
+"swamp","VA68B","270","N","N"," ","swµæ{∞}mp","MS"," ",717
+"marsh","VA68B","270","N","N","rare","mµ∫∞éÛ","MS"," ",717
+"swamp","VA69A","273","N","N","trees, gully","sw∑óΩ{∑ó}mp","MS"," ",718
+"swamp","VA69B","274","N","N","sic: [µ´æ{∞}]","swµ´æ{∞}mp","MS","SIC",719
+"swamp","VA70A","275","N","N","same","sw∑∫mp","MS"," ",720
+"marsh","VA70A","275","N","N","same","mµ´æ{∞}rÛ","MS"," ",720
+"marsh","VA70A","275","N","N","same","m·∫{±ø}Û","MS"," ",720
+"swamp","VA70B","276","N","N"," ","sw∑:mp","MS"," ",721
+"swamp","VA71A","285","N","N"," ","sw∑Ω{∑}mp","MS"," ",722
+"swamp","VA71B","286","N","N"," ","swµ´{∞}mp","MS"," ",723
+"swamp","VA72A","287","N","N"," ","sw∑Ω∫mp","MS"," ",724
+"swamp","VA72B","288","N","N"," ","sw∑Ω∫mp","MS"," ",725
+"swamp","VA73","291","N","N"," ","sw∑Ω∫{∑}mp","MS"," ",726
+"swamp","VA74A","293","N","N"," ","s{w}∑Ω∫mp","MS"," ",727
+"swamp","VA74B!","294!","N","N"," ","sw∑Ω∫mp","MS"," ",728
+"swamp","VA75A","297","N","N"," ","sw∑Ω∫mp","MS"," ",729
+"swamp","VA75B","298","N","N"," ","sw∂´∫mp","MS"," ",730
+"swamp","NC1","303","N","N"," ","s{w}∑∫mp","MS"," ",731
+"swamp","NC2A","301","N","Y","trees","swµ´æ{∞}mp","MS","AUX",732
+"swamp","NC2A","301","N","Y","trees often","sw∑´∫mp","MS","HRD/AUX",732
+"swamp","NC2B","304","N","N","inland","sw∑˛∫mp","MS"," ",733
+"swamp","NC3A","305","N","N"," ","sw∑:mp","MS"," ",734
+"swamp","NC3B","306","N","N"," ","sw∑Ω∑´mp","MS"," ",735
+"swamp","NC4A","307","N","N","running water","sw∑∫mp","MS"," ",736
+"pocosin","NC4A","307","N","N","standing water","pí∞Âko´ºπ´s±øΩn","MS"," ",736
+"swamp","NC4B","308","N","N","running water","s{w}∑∫{∑´}mp","MS"," ",737
+"swamp","NC5A","309","N","N"," ","s{w}∑˛∫mp","MS"," ",738
+"swamp","NC5B","310","N","N"," ","sw∑∫mp","MS"," ",739
+"swamp","NC6!","311!","N","N"," ","sw∑∑´mp","MS"," ",740
+"swamp","NC7A","315(*)","N","Y","trees; always drained","sw∑Ω{∑}mp","MS","AUX",741
+"pocosin","NC7A","315(*)","N","Y","no outlet","p∞ÂkoΩ{π}sn","MS","AUX",741
+"swamp","NC7B","316","N","N"," ","sw∑∑´mp","MS"," ",742
+"swamp","NC8N","N317","N","N","larger than branch","s{w}∑∫mp","MS"," ",743
+"swamp","NC8A","317","N","N"," ","sw∑Ω∑mp","MS"," ",744
+"swamp","NC8B","318(*)","N","N"," ","sw∑Ω∫mp","MS"," ",745
+"swamp","NC8B","318(*)","N","Y"," ","sw∑mp","MS","AUX",745
+"swamp","NC9A","319","N","N"," ","sw∑ó∫mp","MS"," ",746
+"swamp","NC9B","320","N","N"," ","sw∑∑´mp","MS"," ",747
+"swamp","NC10A","321","N","N"," ","sw∑´∫mp","MS"," ",748
+"pocosin","NC10A","321","N","N","swamp with no outlet, as in Pasquotank","p∞ÂkoΩ∫{o}sn","MS"," ",748
+"swamp","NC10B","323","N","N","slash","swµ∫mp","MS","SIC",749
+"slash","NC10B","323","N","N","where a drain runs up into a swamp and stands","sl·æ{±ø}Û","MS"," ",749
+"swamp","NC10C","322","N","N"," ","sw∑ó∫mp","MS"," ",750
+"swamp","NC11A","325","N","N"," ","s{w}∑∫mp","MS"," ",751
+"swamp","NC11B","326","N","N"," ","sw∑ó∫mp","MS"," ",752
+"swamp","NC12A","327(*)","N","N"," ","swﬁ´º{∞}mp","MS"," ",753
+"swamp","NC12B","328","N","N"," ","sw∑∑´mp","MS"," ",754
+"pocosin","NC13A","329","N","N","no drainage, thick woods","p∞Âkoºπ´sn","MS"," ",755
+"swamp","NC13B","330(*)","N","N"," ","sw∑∑´mp","MS"," ",756
+"swamp","NC13B","330(*)","N","Y"," ","sw∑Ω{∞}mp","MS","AUX",756
+"swamp","NC14N","N331","N","N"," ","sw∑∫mp","MS"," ",757
+"pocosin","NC14N","N331","N","N","larger than swamp or branch","ko∫{∞´}s±øΩn","MS"," ",757
+"swamp","NC14A","331","N","N","flowing; running water","sw∑Ω∫mp","MS"," ",758
+"pocosin","NC14A","331","N","N","big, heavy swamp, no drainage","p∞Âko´ºπs±øΩn","MS"," ",758
+"swamp","NC14B","332","N","N"," ","sw∑∫mp","MS"," ",759
+"pocosin","NC14B","332","N","N","no outlet, thickly overgrown, bamboo","p∞koΩπsn","MS"," ",759
+"swamp","NC14C!","333!","N","N","trees","sˆﬁ´º{∞}mp","MS"," ",760
+"swamp","NC15A","335(*)","N","N"," ","sw∑ó∑´mp","MS"," ",761
+"swamp","NC15C","335(*)","N","N"," ","s{w}∑ó∫mp","MS"," ",763
+"pocosin","NC15C","335(*)","N","N","swamp with no drainage","p∞ÂkoΩ∫{πΩ}s±øΩn","MS"," ",763
+"swamp","NC15B","336","N","N","corn grows in it when plowed","sw∑Ω∑mp","MS"," ",762
+"pocosin","NC15B","336","N","N","no outlet","p∞Âk¿´π´sΩn","MS"," ",762
+"swamp","NC16A","339(*)","N","N","smaller than creek","swﬁ´º∫{∞}mp","MS"," ",764
+"swamp","NC16A","339(*)","N","Y","smaller than 'creek'","s{w}∑Ωæ∑mp","MS","AUX",764
+"swamp","NC16B","340","N","N"," ","swﬁ∫{∞}mp","MS"," ",765
+"swamp","NC17A","337","N","N","trees; [∂´{∑}]:  allophone of /ﬁó/","sw∂´{∑}mp","MS"," ",766
+"swamp","NC17B","338","N","N","larger than creek","swﬁ∫{∞}mp","MS"," ",767
+"swamp","NC18A","341","N","N"," ","sw∑Ω∫mp","MS"," ",768
+"swamp","NC18B","342","N","N"," ","swµ´æ{∞}mp","MS"," ",769
+"swamp","NC19A","343","N","N"," ","swﬁ{∞}mp","MS"," ",770
+"pocosin","NC19A","343","N","N","no drainage","p∞koºuΩºsn","MS"," ",770
+"swamp","NC19B","344","N","N"," ","sw∑ó∫mp","MS"," ",771
+"swamp","NC19B","344","N","N"," ","sw∑ó´∫mp","MS"," ",771
+"swamp","NC20A","345","N","N"," ","sw∂´∫mp","MS"," ",772
+"swamp","NC20B","346a","N","N"," ","sw∂ó´∫{∞}mp","MS"," ",773
+"swamp","NC20C","346b","N","N"," ","sw∑óΩ∫{∞}mp","MS"," ",774
+"swamp","NC21A","347","N","N","larger than branch","sw∑ó∫mp","MS"," ",775
+"swamp","NC21B","348","N","N"," ","sw∑ó∫mp","MS"," ",776
+"swamp","NC22A","349","N","N","very wet","sw∑´∫mp","MS"," ",777
+"lowlands","NC22A","349","N","N","swampy along the river","Âlo´º{π}l·{∞}n{d}z","MS"," ",777
+"swamp","NC22B","349b","N","N","flows sluggishly; running water","sw∑Ω∑mp","MS"," ",778
+"swamp","NC23A","351a","N","N"," ","sw∑∫mp","MS"," ",779
+"swamp","NC23B","351b(*)","N","N"," ","sw∑∫mp","MS"," ",780
+"swamp","NC23C!","351c!","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",781
+"swamp","NC23D!","351d!","N","N"," ","sw∑Ω∑mp","MS"," ",782
+"swamp","NC24N","N352","N","N"," ","sw∑ó∫mp","MS"," ",783
+"swamp","NC24A","352a","N","N"," ","sw∑∫mp","MS"," ",784
+"swamp","NC24B","352b","N","N"," ","sw∑∫mp","MS"," ",785
+"swamp","NC25N","N353","N","N","not very wet","sw∑∫mp","MS"," ",786
+"slash","NC25N","N353","N","N","water always standing","sl·{±ø}Û","MS"," ",786
+"swamp","NC25A","353","N","N","wide, sluggish","swﬁ´ºmp","MS"," ",787
+"swamp","NC25B","354","O","N","trees; not very wet","sw∑∫mp","MS"," ",788
+"swamp","NC26A","355a","N","N","includes edges","sw∑∑´mp","MS"," ",789
+"swamp","NC26B","355b","N","N","wooded slopes included","sw∑Ω∑mp","MS"," ",790
+"swamp","NC26C!","356!","N","N","includes banks and trees","sw∑Ω∑mp","MS"," ",791
+"swamp","NC27A","357","N","N"," ","sw∑∫mp","MS"," ",792
+"swamp","NC27B","258","N","N"," ","sw∑∫mp","MS"," ",793
+"swamp","NC28A","361","N","N"," ","sw∑ó∑ó´mp","MS"," ",794
+"swamp","NC28B","361b","N","N"," ","s{w}∑∑´mp","MS"," ",795
+"marsh","NC28B","361b","N","N","thick overgrown part of a swamp","m·∫{∞´º}Û","MS"," ",795
+"swamp","NC28C","362","N","N","trees","sw∑Ω∑mp","MS"," ",796
+"swamp","NC29A","363(*)","N","N","""a big branch¢; always stream course through","sw∑∫mp","MS","RN1",797
+" ","NC29A","363(*)"," "," ","though not always flowing; dries up sometimes;"," ","MS","RN2",797
+"pocosin","NC29A","363(*)","N","N","heavy growth, large, no outlet; usually at","poÂkosn","MS","RN4",797
+"flat woods","NC29A","363(*)","O","N","trees, standing, wet","Âfl·t$wπº{∞}dz","MS"," ",797
+"knoll","NC29A","363(*)","N","Y"," ","no∫{∞}Ï","MS","INA",797
+" ","NC29A","363(*)"," ","N","includes trees at sides"," ","MS","RN3",797
+" ","NC29A","363(*)"," ","N","edge nothing grows for 100 yards"," ","MS","RN5",797
+" ","NC29A","363(*)"," ","N","includes trees at sides"," ","MS","RN7",797
+" ","NC29A","363(*)"," ","N","though not always flowing; dries up sometimes;"," ","MS","RN7",797
+"swamp","NC29B","364","N","N"," ","sw∑∫mp","MS"," ",798
+"swamp","NC30A","365","N","N","running water except when dry","sw∑∫mp","MS"," ",799
+"swamp","NC30B","366","N","N","running water","sw∑´º{∑}mp","MS"," ",800
+"swamp","NC31A","367","N","N","running water","sw∑∫mp","MS"," ",801
+"swamp","NC31B","368","N","N","slowly running water","sw∑Ω{∑}mp","MS"," ",802
+"swamp","NC31B","368","N","N","slowly running water","sw∑∑´mp","MS"," ",802
+"swamp","NC32A","369","N","N","running water","swµ´æ{∞}mp","MS"," ",803
+"marsh","NC32A","369","N","N"," ","mµ∫{∞}Û","MS"," ",803
+"swamp","NC32B!","370!","N","N"," ","sw∑Ω∫mp","MS"," ",804
+"pocosin","NC32B!","370!","N","N","no outlet","p∞Âkoºπs±øn","MS"," ",804
+"swamp","NC33A","373","N","N"," ","sw∑∑´mp","MS"," ",805
+"swamp","NC33B","374","N","N","includes trees and land","swﬁ´º{∞}mp","MS"," ",806
+"swamp","NC34A","375","N","N"," ","swﬁ{∞}mp","MS"," ",807
+"swamp","NC34B","376","N","N"," ","swﬁ´º{∞}mp","MS"," ",808
+"swamp","NC35A","377","N","N","trees, large","sw∑mp","MS"," ",809
+"boggy place","NC35A","377","O","N"," ","bµ´æg±ø$ple{±ø}s","MS"," ",809
+"swamp","NC35B","378","N","N"," ","swµ´æ{∞}mp","MS"," ",810
+"swamp","NC36N","N381","N","N"," ","sw∑Ω∫mp","MS"," ",811
+"slash","NC36N","N381","N","N","small wet place with trees on each side, leading","sl·∫{∞´º}Û","MS","RN1",811
+" ","NC36N","N381"," "," ","to a swamp"," ","MS","RN2",811
+"swamp","NC36A","381","N","N"," ","sw∑∫mp","MS"," ",812
+"swamp","NC36B","382","N","N"," ","sw∑Ω∑mp","MS"," ",813
+"swamp","NC37A","383","N","N"," ","sw∑Ω∑mp","MS"," ",814
+"swamp","NC37B","384","N","N"," ","sw∑Ω∑mp","MS"," ",815
+"swamp","NC38N","N385","N","N"," ","swµ´æ{∞}mp","MS"," ",816
+"swamp","NC38A","385","N","N"," ","swﬁó´º{∞}mp","MS"," ",817
+"swamp","NC38B","386","N","N"," ","swﬁ´º{∞}mp","MS"," ",818
+"swamp","NC39A","389","N","N"," ","sw∑Ω∫mp","MS"," ",819
+"swamp","NC39B!","390!","N","N"," ","sw∑∫mp","MS"," ",820
+"swamp","NC40A","391","N","N"," ","swµ´æ∫{∞}mp","MS"," ",821
+"swamp","NC40B","392","N","N"," ","sw∑Ω∫mp","MS"," ",822
+"swamp","NC41!","393!","N","N"," ","swﬁ´º{∞}mp","MS"," ",823
+"swamp","NC42A","403","N","N"," ","sw∑Ω∫mp","MS"," ",824
+"swamp","NC42B","404(*)","N","N"," ","swﬁ´º{∞}mp","MS"," ",825
+"swamp","NC43A","397","N","N","equals water","sw∑Ω∑mp","MS"," ",826
+"swamp","NC43B","398","N","N"," ","sw∑∫mp","MS"," ",827
+"swamp","NC44","410(*)","N","N"," ","sw∑Ω∫mp","MS"," ",828
+"swamp","NC45A","409(*)","N","N"," ","swﬁ´ºmp","MS"," ",829
+"NR","NC45B"," "," ","N"," "," ","MS"," ",830
+"swamp","NC46A","411","N","N"," ","sw∑Ω∫mp","MS"," ",831
+"swamp","NC46B","412","N","N"," ","sw∑Ω∫mp","MS"," ",832
+"swamp","NC46C!","412b!","N","N"," ","sw∑Ω∫mp","MS"," ",833
+"swamp","NC47","413","N","N"," ","swµ´mp","MS"," ",834
+"swamp","NC48","418","N","N"," ","sw∑ó∑ó´mp","MS"," ",835
+"swamp","NC49","421","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",836
+"swamp","NC50A","422","N","N"," ","sw∑Ω∫mp","MS"," ",837
+"swamp","NC50B!","423!","N","N"," ","sw∂ó´∑mp","MS"," ",838
+"swamp","NC51A","427","N","N"," ","swµ∫mp","MS"," ",839
+"swamp","NC51B","428","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",840
+"swamp","NC52N","N429","N","N"," ","sw∑:mp","MS"," ",841
+"swamp","NC52A","429","N","N"," ","swﬁ´ºmp","MS"," ",842
+"swamp","NC52B","430","N","N"," ","swﬁ{∞}mp","MS"," ",843
+"swamp","NC53A","431","N","N"," ","swﬁ´º{∞}mp","MS"," ",844
+"swamp","NC53B","432","N","N"," ","swﬁ{∞}mp","MS"," ",845
+"swamp","NC54A","433","N","N"," ","swµ´æ{∞}mp","MS"," ",846
+"swamps","NC54B","434","N","N"," ","sw∑Ω∫mps","MS"," ",847
+"swamp","NC55","435","N","N"," ","swµ´æ{∞}mp","MS"," ",848
+"swamp","NC56A","436","N","N"," ","sw∑Ω∑mp","MS"," ",849
+"swamp","NC56B!","437!","N","N"," ","sw∂´∑Ωmp","MS"," ",850
+"swamp","NC57A","438a","N","N"," ","swﬁmp","MS"," ",851
+"swamp","NC57B","438b","N","N"," ","swﬁ´ºmp","MS"," ",852
+"swamp","NC58A","439","N","N"," ","sw∑Ω∫mp","MS"," ",853
+"swamp","NC58B","440","N","N"," ","swﬁ´º{∞}mp","MS"," ",854
+"swamp","NC59","441(*)","N","N"," ","sw∑ó∫mp","MS"," ",855
+"swamp","NC60","442","N","N"," ","sw∂´∫mp","MS"," ",856
+"swamp","NC61A","443","N","N"," ","sw∑Ω∫mp","MS"," ",857
+"swamp","NC61B","444","N","N"," ","sw∑Ω∫mp","MS"," ",858
+"swamp","NC62A","447","N","N","[ﬁ{∞}]: sic","swﬁ{∞}mp","MS","SIC",859
+"swamp","NC62B","448","N","N"," ","swﬁ´º{∞}mp","MS"," ",860
+"swamp","NC63A","449","N","N"," ","sw∑Ω∫mp","MS"," ",861
+"swamp","NC63B","450","N","N"," ","sw∑Ωº∑mp","MS"," ",862
+"swamp","NC64A","453","N","N"," ","sw∑Ω∫mp","MS"," ",863
+"swamp","NC64B","454","N","N"," ","swﬁ›´ºmp","MS"," ",864
+"swamp","NC65A","461","N","N"," ","swµ´æ∫{∞}mp","MS"," ",865
+"swamp","NC65B","462","N","N"," ","sw∑∫{∑´}mp","MS"," ",866
+"swamp","NC66A","465","N","N"," ","sw∑Ω∫mp","MS"," ",867
+"swamp","NC66B","466","N","N"," ","sw∑∫mp","MS"," ",868
+"swamp","NC67A","469","N","N"," ","swﬁ´º{∞}mp","MS"," ",869
+"swamp","NC67B","470","N","N"," ","swﬁº∫{∞}mp","MS"," ",870
+"swamp","NC68A","473","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",871
+"swamp","NC68B","474","N","N"," ","sw∑Ωº∑mp","MS"," ",872
+"swamp","NC69A","477","N","N"," ","swﬁ´º{∞}mp","MS"," ",873
+"swamp","NC69B","478","N","N"," ","swﬁºmp","MS"," ",874
+"swamp","NC69B","478","N","Y","father says","sw∑ó∫mp","MS","HRD",874
+"swamp","NC70A","479","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",875
+"swamp","NC70B","480","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",876
+"swamp","NC71A","481","N","N"," ","sw∑∫mp","MS"," ",877
+"swamp","NC71B","482","N","N"," ","sw∑Ω∑mp","MS"," ",878
+"swamp","NC71C!","483!","N","N"," ","swﬁ´º{∞}mp","MS"," ",879
+"swamp","NC72A","487","N","N"," ","sw∑Ω∑mp","MS"," ",880
+"swamp","NC72B","488","N","N"," ","sw∂ó´{∞}mp","MS"," ",881
+"swamp","NC73A","491","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",882
+"swamp","NC73B","492","N","N"," ","swµ´æmp","MS"," ",883
+"marsh","NC73B","492","N","N","rarely used, small","mµ¥Û","MS"," ",883
+"swamp","NC74A","493","N","N"," ","sw∑Ω∑mp","MS"," ",884
+"swamp","NC74B","494","N","N"," ","sw∂´∑Ωmp","MS"," ",885
+"swamp","NC75A","495","N","N"," ","swﬁ´º{∞}mp","MS"," ",886
+"swamp","NC75B","496","N","N"," ","sw∑Ωº∑mp","MS"," ",887
+"swamp","SC1A","203.1","N","N","larger than branch","sw∑Ω∫mp","MS"," ",888
+"swamp","SC1B","203.2","N","N","stagnant","sw∑∑´mp","MS"," ",889
+"swamp","SC2A","204.1(*)","N","N"," ","sw∑Ω∑mp","MS"," ",890
+"swamp","SC2B","204.2","N","N"," ","sw∑Ω∑mp","MS"," ",891
+"swamp","SC2C"," ","N","N"," ","sw∑∑´mp","MS"," ",892
+"bay","SC2C"," ","N","N","thick place in swamp","be{±ø}","MS"," ",892
+"swamp","SC3A","205.1","N","N","trees, no outlet","sw∑˛´∫mp","MS"," ",893
+"bay","SC3A","205.1","N","N","round swamp, same as South Carolina pocosin","be´∫","MS"," ",893
+"knoll place","SC3A","205.1","O","Y","in swamp","no´∫$ple´∫s","MS","INA",893
+"river","SC3B","205.2","N","N"," ","Âr±´{∞}v¥´æ","MS"," ",894
+"swamp","SC3B","205.2","N","N"," ","swó∑Ω∫{∞}mp","MS"," ",894
+"swamp","SC3B","205.2","N","N"," ","swè∑Ω∫{∞}mp","MS","CNV",894
+"swamp","SC3C!","205.3!","N","N","where ""hogs ranged¢","sw∑Ω{∞}mp","MS"," ",895
+"bay","SC3C!","205.3!","N","N"," ","be∫{±øº}","MS"," ",895
+"swamp","SC4A","206.1","N","N"," ","swè∑∫{∞}mp","MS"," ",896
+"river","SC4A","206.1","N","N"," ","r±´{∞}v{∞}","MS"," ",896
+"bays","SC4A","206.1","N","N","""bays ain't boggy¢","be∫{∞}z","MS"," ",896
+"swamp","SC4B","206.2","N","N"," ","swè∑∫{∞}mp","MS","CNV",897
+"swamps","SC4C","206.3","N","N","not necessarily trees","swè∑∫{∞}mps","MS"," ",898
+"swamps","SC4C","206.3","N","N","not necessarily trees","swè∑Ω∫{∞}mps","MS"," ",898
+"cypress swamp","SC4C","206.3","O","N","""would have cypress trees¢","Âsµ∫±øpÚ±øs$ıswè∑Ω{∞}mp","MS"," ",898
+"swamp","SC5A","207.1","N","N"," ","swè∑ó´∫{∞}mp","MS"," ",899
+"swamp land","SC5B","207.2","O","N","on river","Âsw∑Ωº{∞}mp$ıl·Ω{∞}n","MS"," ",900
+"swamp","SC5C","207.2A","N","N"," ","swè∑º∫{∞}mp","MS"," ",901
+"swamp land","SC5D!","207.3!","O","Y"," ","Âswè∑´∫{∞}mp$ıl·{∞}n","MS","AUX",902
+"swamp","SC6N","N208","N","N"," ","swè∑´º∫{∞}mp","MS"," ",903
+"marsh","SC6N","N208","N","N"," ","mµ∫∞Û","MS"," ",903
+"swamp","SC6A","208.1","N","N","trees; ""run¢ through it","sw∂mp","MS"," ",904
+"bay","SC6A","208.1","N","N","thickly grown; no 'run', no outlet","be´{±}","MS"," ",904
+"island","SC6A","208.1","N","Y","in swamp","aæ∫{±øΩ}l∞nt","MS","INA",904
+"swamp lands","SC6B","208.2(*)","O","N","on each side of the bay","Âswè∑´º∫{∞}mp$ıl·Ω∫{∞}nz","MS"," ",905
+"bay","SC6B","208.2(*)","N","N"," ","be´∫","MS"," ",905
+"islands","SC6B","208.2(*)","N","Y"," ",":ﬁº±øl∞nts","MS","INA",905
+"swamps","SC6C!","208.3!","N","N","trees; usually used to grow rice","swè∑∫{∞}mps","MS"," ",906
+"upland swamps","SC6C!","208.3!","O","N"," ","Â∏ºpl∞´n$swè∑∫{∞}mps","MS"," ",906
+"upland","SC6C!","208.3!","N","N","small swamps and higher part","Â∏ºpl∞´n","MS"," ",906
+"river swamps","SC6C!","208.3!","O","N"," ","Âr±øv∞$swè∑∫{∞}mps","MS"," ",906
+"highland","SC6C!","208.3!","N","N","small swamps and higher part","Âhﬁº∫±øıl·∫{∞}n","MS","CNV",906
+"swamp","SC6D"," ","N","N","on ""rivers¢","swè∑´º∫{∞}mp","MS"," ",907
+"pond","SC6D"," ","N","N","small","p`ﬁ{∞}n","MS"," ",907
+"pond","SC6D"," ","N","N","small","p`µ{∞}n","MS"," ",907
+"swamps","SC7N","N209","N","N"," ","swè∑´º∫{∞}mps","MS"," ",908
+"mucklety land","SC7N","N209","O","N"," ","Âm∏kl›ıt`±´æ$Âla´æ∫{∞}n","MS"," ",908
+"swamp land","SC7A","209.1","O","N"," ","sw∑º∫{∞}mp$ıl·∫{∞}n","MS"," ",909
+"swamp","SC7B","209.2","N","N"," ","swè∑´º∫{∞}mp","MS"," ",910
+"swamp land","SC7B","209.2","O","N","not cultivated","swè∑º∫{∞}mp$ıl·∫{∞}nd","MS"," ",910
+"bay","SC7B","209.2","N","N"," ","be∫i","MS","CNV",910
+"swamp","SC7C!","209.3!","N","N"," ","sw∂{∞}mp","MS"," ",911
+"river swamp","SC7C!","209.3!","O","N"," ","Âr±ø´ºv∞ı$sw∂{∞}mp","MS"," ",911
+"pond","SC7C!","209.3!","N","N"," ","p`ﬁ{∞}nd","MS"," ",911
+"swamp","SC7D!","209.4!","N","N","grown up area","swèµæ∫{∞}mp","MS"," ",912
+"swamp","SC7D!","209.4!","N","N","grown up area","swè∑º∫{∞}mp","MS"," ",912
+"bay","SC7D!","209.4!","N","N"," ","be´∫±ø","MS"," ",912
+"pond","SC7D!","209.4!","N","Y","holds water","p`∑º∫{∞}n","MS","AUX",912
+"all boggy","SC8A","210.1","K","Y"," ","∑Ω∫{∞}l$Âbµæ{∞}g±ø´º","MS","INA",913
+"swamp","SC8B","210.2","N","N","more growed up","sw∑ó∫{∞}mp","MS"," ",914
+"marsh","SC8B","210.2","N","N","fresh or salt","mµæ∫∞éÛ","MS"," ",914
+"marsh","SC8B","210.2","N","N","fresh or salt","mµæ∫∞Û","MS"," ",914
+"bay","SC8B","210.2","N","N","fresh or salt","be´∫","MS"," ",914
+"oceans","SC8B","210.2","N","N","fresh or salt","o´∫{∞}Ûnz","MS"," ",914
+"briar oceans","SC8B","210.2","O","N"," ","ÂbÚµ´∫{±ø}$ıo∫{∞}Ûnz{zè}","MS"," ",914
+"swamp","SC8C","210.3","N","N","thickly grown up","swè∑Ω∫{∞}mp","MS"," ",915
+"marshy land","SC8C","210.3","O","N","soggy, no trees","Âmµæ∫{∞}Û±ø´º$l·Ω∫{∞}n","MS"," ",915
+"swamp","SC8C","210.3","N","N"," ","swè∑∫{∞}mp","MS"," ",915
+"river swamp","SC8C","210.3","O","N"," ","Âr±´{∞}v∞$ıswè∑Ω∫{∞}mp","MS"," ",915
+"swamp","SC9A","211.1","N","N","thick, not planted, animals live in it","swè∑Ω∫{∞}mp","MS"," ",916
+"swamp","SC9A","211.1","N","N","thick, not planted, animals live in it","swè∑´∫{∞}mp","MS"," ",916
+"swamps","SC9A","211.1","N","N","thick, not planted, animals live in it","swè∂´∫{∞}mps","MS"," ",916
+"pond","SC9B","211.2","N","N"," ","p`∂ó´∫{∞}n","MS"," ",917
+"swamp","SC9B","211.2","N","N"," ","swè∑´∫{∞ó}mp","MS"," ",917
+"swamp","SC9B","211.2","N","N"," ","swè∑∫{∞}mp","MS","CNV",917
+"boggy pond","SC9B","211.2","O","N"," ","ıb∂ó´{∞}g±ø´º$Âp`∂ó´∫{∞ó}n","MS"," ",917
+"ponds","SC9B","211.2","N","N"," ","p∑´{∞}nz","MS"," ",917
+"bay","SC9B","211.2","N","N","part of swamp","be´∫","MS"," ",917
+"swamp","SC9C!","211.3!","N","N","usually with a stream in it","swè∑´º∫{∞}mp","MS"," ",918
+"swamps","SC9D!","211.4!","N","N","equals lowland [Âloæ∫$ıl·∫{∞}n]","swè∑´º∫{∞ó}mps","MS"," ",919
+"lowland","SC9D!","211.4!","N","N"," ","Âloæ∫$ıl·∫{∞}n]","MS"," ",919
+"knolls","SC9D!","211.4!","N","Y","high places in swamp","no´{∞}Ïz","MS","INA",919
+"swamps","SC10A","212.1","N","N","fresh water [ÂfÚ≤´æÛ$ıw∑º∫{∞}t∞º]","swè∂ó´∫{∞}mps","MS"," ",920
+"swamps","SC10A","212.1","N","N","fresh water [ÂfÚ≤´æÛ$ıw∑º∫{∞}t∞º]","swè∑º∫{∞}mps","MS"," ",920
+"fresh water","SC10A","212.1","O","N"," ","ÂfÚ≤´æÛ$ıw∑º∫{∞}t∞º","MS"," ",920
+"swamp","SC10B!","212.2!","N","N"," ","swè∑∫{∞}mp","MS","CNV",921
+"swamp","SC10C!","212.3!","N","N"," ","swè∑∫{∞}mp","MS"," ",922
+"swamp","SC11N","N213","N","N","trees","sw∂mp","MS"," ",923
+"swamp","SC11M!","2n213!","N","N"," ","sw∂´∫{∞}mp","MS"," ",924
+"swamp","SC11M!","2n213!","N","N"," ","sw∂∫{∞}mp","MS"," ",924
+"swamp","SC11A","213.1(*)","N","N"," ","sw∂´º∫{∞}mp","MS"," ",925
+"swamp","SC11A","213.1(*)","N","Y"," ","sw∂´ºmp","MS","AUX",925
+"swamp","SC11B","213.11","N","N","inland","sw∂´∫mp","MS"," ",926
+"swamp land","SC11C","213.2","O","N"," ","Âswè∑º∫{∞}mp$ıl·∫{∞}n","MS"," ",927
+"swamp","SC11C","213.2","N","N"," ","swè∑º∫{∞}mp","MS"," ",927
+"marsh","SC11C","213.2","N","Y"," ","Âmﬁ∫{∞}Û","MS","DBT",927
+"swamp","SC11D","213.3","N","N"," ","swè∂´∫{∞}mp","MS"," ",928
+"swamps","SC11D","213.3","N","N"," ","swè∑º∫{∞}mps","MS","CNV",928
+"swamp","SC11E","213.4","N","N"," ","sw∂´ºmp","MS"," ",929
+"swamp","SC11E","213.4","N","N"," ","sw∂{∞}mp","MS","CNV",929
+"swamp","SC11F","213.5","N","N"," ","sw∂{∞}mp","MS"," ",930
+"swamps","SC11G!","213.7!","N","N"," ","swè∂mps","MS"," ",931
+"swamp land","SC11G!","213.7!","O","N"," ","ÂswﬁΩ∫mp$ıl·∫{∞}nd","MS"," ",931
+"swamp","SC11H!","213.8!","N","N","fresh water [Âfä≤´æÛ*4ıw∑º∫{∞}tê∞æ]","swè∑´º∫{∞}mp","MS"," ",932
+"fresh water","SC11H!","213.8!","O","N"," ","ÂfÚ≤´æÛ$Âw∑º∫{∞}tê∞æ","MS"," ",932
+"swamp","SC11I!","213.9!","N","N"," ","swﬁ´ºmp","MS"," ",933
+"swamp","SC11J!","213.10!","N","N","grown up, trees, underbrush","swèﬁmp","MS"," ",934
+"hammock","SC11J!","213.10!","N","Y","wooded hummock in swamp","h∏Ωm∞k","MS","INA",934
+"swamp","SC11J!","213.10!","N","N","grown up, trees, underbrush","swè∂{∞}mp","MS"," ",934
+"swamps","SC11J!","213.10!","N","N","grown up, trees, underbrush","swèﬁóæmps","MS"," ",934
+"swamps","SC11J!","213.10!","N","N","grown up, trees, underbrush","swèﬁó∫{∞}mps","MS"," ",934
+"swamp","SC12A","214.1","N","N","goes dry sometimes","swè∑º∫{∞}mp","MS"," ",935
+"swamp","SC12A","214.1","N","N","goes dry sometimes","swè∑´∫{∞}mp","MS","CNV",935
+"swamp","SC12A","214.1","N","N","goes dry sometimes","swè∑∫{∞}mp","MS","CNV",935
+"tussock","SC12A","214.1","N","N","grassy place in a swamp","Ât¶Ω{∞}z±øºk","MS","CNV",935
+"swamp","SC12B","214.2","N","N","trees","sw∑ó´∫mp","MS"," ",936
+"bay","SC12B","214.2","N","N","bushes","be´:","MS"," ",936
+"swamp","SC13","213.6","N","N","not here","swè∑∫{∞}mp","MS"," ",937
+"swamp","SC14A","215.1","N","N"," ","sw∂ómp","MS"," ",938
+"swamp","SC14A","215.1","N","N"," ","s‚∂ómp","MS","CNV",938
+"bay","SC14A","215.1","N","N","thick, wooded stream bed","be´∫{∞}","MS"," ",938
+"hammock","SC14A","215.1","N","Y","in swamp","ha´æm∞k","MS","INA",938
+"knoll","SC14A","215.1","N","Y","in swamp","no´∫{∞}l","MS","INA",938
+"swamps","SC14B","215.2","N","N"," ","swè∑Ω∫{∞}mps","MS"," ",939
+"swamp land","SC14B","215.2","O","N"," ","Âswè∑´º∫{∞}mp$ıl·∫{∞}n","MS"," ",939
+"swamp","SC14B","215.2","N","N"," ","swèﬁó{∞}mp","MS"," ",939
+"swamp","SC14B","215.2","N","N"," ","swè∑∫{∞}mp","MS"," ",939
+"marsh land","SC15A","216.1","O","N"," ","Âmµæ∫∞Û$ıl·∫{∞}n","MS"," ",940
+"swamp","SC15B","216.2","N","N","full of trees; part of river","swè∑´∫{∞}mp","MS"," ",941
+"swamp","SC15B","216.2","N","N","full of trees; part of river","swè∑∫{∞ó}mp","MS"," ",941
+"swamp","SC15C","216.3","N","N","low place, full of trees, water all along","sw∑º∫{∞}mp","MS","RN1",942
+" ","SC15C","216.3"," "," ","through it; stream in middle"," ","MS","RN2",942
+"swamp","SC15C","216.3","N","N","low place, full of trees, water all along","sw∑óº∫{∞}mp","MS","RN1",942
+"swamp","SC15C","216.3","N","N","low place, full of trees, water all along","swè∑ó´∫{∞}mp","MS","CNV/RN1",942
+" ","SC15C","216.3"," "," ","through it; stream in middle"," ","MS","RN2",942
+" ","SC15C","216.3"," "," ","through it; stream in middle"," ","MS","RN2",942
+"pond","SC16N","N217","N","N"," ","p`∂ó´{∞}n","MS"," ",943
+"swamp","SC16","217.1","N","N"," ","sw∑ó´∫mp","MS","CNV",944
+"swamp","SC16","217.1","N","N"," ","swè∑ó∫mp","MS"," ",944
+"swamp","SC17A","218.1","N","N","can go fishing in it","swè∑Ω∫{∞}mp","MS"," ",945
+"swamp","SC17A","218.1","N","N","can go fishing in it","swè∑´{∞}mp","MS"," ",945
+"pond","SC17B","218.2","N","N"," ","p`∂{∞}n","MS"," ",946
+"swamps","SC17B","218.2","N","N"," ","swè∑Ω{∞}mps","MS"," ",946
+"swamp","SC17B","218.2","N","N"," ","swoΩ{∞}mp","MS"," ",946
+"swamp","SC17C","218.3","N","N"," ","swè∑´∫{∞}mp","MS"," ",947
+"swamp","SC17C","218.3","N","N"," ","swè∑∫{∞}mp","MS"," ",947
+"swamps","SC17D","218.4","N","N","small river","swè∑Ω{∞}mps","MS"," ",948
+"river swamps","SC17D","218.4","O","N","some without any river","Âr±æ{±ø}v∞$ıswè∑∫{∞}mps","MS"," ",948
+"bay","SC17D","218.4","N","N","no stream but very soft","be∫","MS"," ",948
+"swampy","SC17D","218.4","A","N"," ","swèµæ{∞}mp±ø´º","MS"," ",948
+"swamp land","SC18N","N219","O","N","""fresh¢","Âswè∑º∫{∞}mpıla´∫{∞}n","MS"," ",949
+"swamp","SC18N","N219","N","N","""upper part¢","sw∑´º∫{∞}mp","MS"," ",949
+"swamp","SC18A","219.1","N","N","generally fresh water","swè∑´º∫{∞}mp","MS"," ",950
+"swamp","SC18B","219.2","N","N","fresh water","sw∂∫{∞}mp","MS"," ",951
+"swamp","SC18C!","219.3(*)!","N","N"," ","swﬁ∫{∞}mp","MS"," ",952
+"swamp land","SC18C!","219.3(*)!","O","N"," ","Âsw∑Ω∫{∞}mp$ıl·´∫{≤}n","MS","CNV",952
+"NA","SC18D!"," "," ","N"," "," ","MS"," ",953
+"swamp","SC19N","N220","N","N"," ","swﬁ´ºmp","MS"," ",954
+"lagoon","SC19N","N220","N","N","same as swamp","Âlaæ∫Âgu˛n","MS"," ",954
+"knoll","SC19N","N220","N","Y","in swamp, a grass island","no´∫{∞}l","MS","INA",954
+"gall","SC19N","N220","N","Y","same as swamp; fresh water","g∑Ω∫lù","MS","SUG",954
+"swamps","SC19A","220.1","N","N","low, watery, fresh","swè∑º∫{∞}mps","MS"," ",955
+"swampy","SC19B","220.4","N","N"," ","sw∑∫{∞}mp±ø´º","MS"," ",956
+"swamp","SC19C","220.2(*)","N","N","fresh water","sw∑´º∫{∞}mp","MS"," ",957
+"swamps","SC19C","220.2(*)","N","N","fresh water","sw∑º∫{∞}mps","MS"," ",957
+"swamp","SC19D!","220.3!","N","N"," ","swè∑∫{∞}mp","MS"," ",958
+"cypress swamp","SC19D!","220.3!","O","N"," ","Âs∞±øpr∞´s$ıswè∑∫{∞}mp","MS"," ",958
+"NA","SC19E!"," "," ","N"," "," ","MS"," ",959
+"swamp land","SC20A","221.1","O","N"," ","Âsw∑∫∑´mp$ıl·∫{≤}n","MS"," ",960
+"pocosin","SC20A","221.1","N","N","broad and flat, full of running water","p`∞›Âk`o´º∫{πº}sn","MS"," ",960
+"bay","SC20A","221.1","N","N","an arm of a swamp","be´∫{±ø}","MS"," ",960
+"swamp","SC20B","221.2","N","N"," ","swè∑∫∑´mp","MS"," ",961
+"swamp","SC20C","221.3","N","N","always trees","swè∑∫oΩmp","MS"," ",962
+"swamp land","SC20C","221.3","O","N"," ","swè∑´∫oΩmp$ıl·∫{∞}n","MS"," ",962
+"pocosin","SC20C","221.3","N","N"," ","p∞›Âkoº∫πºsn","MS"," ",962
+"swamp","SC20D!","221.4!","N","N"," ","swè∑∫∑´mp","MS","CNV",963
+"river swamps","SC20D!","221.4!","O","N"," ","Âr±øv∞$sw∑∫∑´mps","MS"," ",963
+"slashes","SC20D!","221.4!","N","N"," ","slè·{∞}Û±øºz","MS"," ",963
+"pocosin","SC20D!","221.4!","N","N","one bay, lower end of county","p∞Âkoº∫πºsn","MS"," ",963
+"swamp","SC21A","222.1","N","N"," ","sw∑Ω∑mp","MS"," ",964
+"swamp","SC21B","222.2","N","N"," ","sw∑∫mp","MS"," ",965
+"knoll","SC22N","N223","N","Y","high place in swamp","no∫{∞}Ï","MS","INA",966
+"swamp","SC22A","223.1","N","N","along river","swè∑∫{∞}mp","MS"," ",967
+"swamp","SC22B","223.2","N","N","trees","swè∑{∑´}mp","MS"," ",968
+"pond","SC22C!","223.3!","N","N"," ","p`ﬁó{∞}n","MS"," ",969
+"swamp","SC22C!","223.3!","N","N","not always flooded","swè∂´{∞}mp","MS"," ",969
+"swamps","SC23A","224.1","N","N","trees","swè∂∫{∞}mps","MS"," ",970
+"river swamp","SC23A","224.1","O","N","trees","Âr±´{∞}v∞$swè∑´Ï{∞}mp","MS"," ",970
+"swamp","SC23B","224.2","N","N","bigger than ""pond¢; can walk about and not get wet","swè∑´∫{∞}mp","MS","higher pond",971
+"swamp","SC23C","224.3","N","N"," ","swè∑Ω{∞}mp","MS"," ",972
+"swamp","SC23C","224.3","N","N"," ","swè∂´∫{∞}mp","MS","CNV",972
+"NR","SC23D","224.4"," ","N"," "," ","MS"," ",973
+"ponds","SC23E!","224.5!","N","N"," ","pà∂´∫{∞}nz","MS"," ",974
+"swamp land","SC23E!","224.5!","O","N"," ","Âswè∑´∫{∞}mp$ıl·∫{∞}n","MS"," ",974
+"basins","SC23E!","224.5!","N","N"," ","be∫{∞}snz{zè}","MS"," ",974
+"swamp","SC24N","N225","N","N","running stream through it","swè∂´{∞}mp","MS"," ",975
+"river swamp","SC24N","N225","O","N"," ","Âr±´{∞}v{∞}$ıswè∑∫{∞}mp","MS"," ",975
+"swamp","SC24N","N225","N","N","running stream through it","swè∑Ω{∞}mp","MS"," ",975
+"basin","SC24N","N225","N","N"," ","be∫{∞}sn","MS"," ",975
+"swamp","SC24A","225.1","N","N","with a stream running through it","sw∑∫{∞}mp","MS","CNV",976
+"bay","SC24A","225.1","N","N"," ","be∫","MS"," ",976
+"swamp","SC24A","225.1","N","N","with a stream running through it","swè∑´∫mp","MS"," ",976
+"swamp","SC24B","225.11","N","N","trees","swè∑º∫{∞}mp","MS"," ",977
+"swamp","SC24B","225.11","N","N","trees","swè∑Ω{∞}mp","MS"," ",977
+"swamp land","SC24C","225.2","O","N"," ","Âsw∑Ω{∞}mp$ıl·´∫{∞}n","MS"," ",978
+"pond","SC24C","225.2","N","N"," ","p`µæ{∞}n","MS"," ",978
+"swamp land","SC24C","225.2","O","N"," ","Âsw∑Ω{∞}mp$ıl·∫{≤æ}n","MS"," ",978
+"swamps","SC24C","225.2","N","N"," ","swè∑Ω{∞}mps","MS","CNV",978
+"pond","SC24C","225.2","N","N"," ","p`∂ó´{∞}n","MS"," ",978
+"pond","SC24C","225.2","N","N"," ","p`µ∫{∞}n","MS","CNV",978
+"pond","SC24D!","225.3!","N","N"," ","p`∂ó{∞}n","MS"," ",979
+"swamp","SC24D!","225.3!","N","N"," ","swè∑º∫{∞}mp","MS"," ",979
+"swamp","SC24D!","225.3!","N","N"," ","swè∑Ω∫{∞}mp","MS","CNV",979
+"swamp","SC25A","226.1","N","N","trees","sw∑∫mp","MS"," ",980
+"bay","SC25A","226.1","N","N","large trees","be∫","MS"," ",980
+"swamp","SC25B","226.2","N","N","not much here","swè∂î∫{∞}mp","MS"," ",981
+"swamp land","SC25B","226.2","O","N","not much here","Âswè∂î∫{∞}mp$ıl·∫{≤}n","MS"," ",981
+"swamp land","SC25B","226.2","O","N","not much here","Âswè∑Ω{∞}mp$ıl·∫{≤}n","MS"," ",981
+"swamp","SC25C!","226.3!","N","N"," ","sw∂ó´∫{∞}mp","MS"," ",982
+"swampy lands","SC26A","227.1","O","N","""not tenable¢","ÂswèoΩ∫mp±ø´º$ıl·{∞}nz","MS"," ",983
+"river swamp","SC26A","227.1","O","N"," ","Âr±´v{∞}$swè∑∫{∞}mp","MS"," ",983
+"swamp","SC26A","227.1","N","N"," ","swè∑´∫mp","MS","CNV",983
+"swamp","SC26A","227.1","N","N"," ","swèoΩ∫mp","MS","CNV",983
+"swamps","SC26B!","227.2!","N","N","trees usually","swè∑∫{∞}mps","MS"," ",984
+"swamp","SC27A","228.1","N","N"," ","sw∑∫{∞}mp","MS"," ",985
+"swamp","SC27B","228.2","N","N"," ","swè∑ó´∫{∞}mp","MS"," ",986
+"swamp land","SC28A","229.1","O","N"," ","Âswè∑Ω∫{∞}mp$ıl·∫{≤}n","MS"," ",987
+"swamp","SC28A","229.1","O","N"," ","swè∂ó´∫{∞}mp","MS"," ",987
+"swamp","SC28B","217.2","N","N"," ","swè∑∫{∞}mp","MS","CNV",988
+"swamp","SC28C","229.2","N","N","Y","swè∑∫{∞}mp","MS","CNV",989
+"swamp","SC28D","229.3","N","N"," ","swè∑´∫{∞ó}mp","MS"," ",990
+"river swamps","SC29A","230.2(*)","O","N"," ","Âr±´{∞}v¥$ıswè∂∫{∞}mps","MS"," ",991
+"swamp","SC29A","230.2(*)","N","N","must have trees","swè∑∫{∞}mp","MS"," ",991
+"marsh","SC29A","230.2(*)","N","N","near stream, no trees","mﬁ∫¥Û","MS"," ",991
+"swamp land","SC29B","230.1(*)","O","N"," ","Âswè∑Ω{∞}mp$ıl·∫{∞}n","MS"," ",992
+"swamp land","SC29C","230.3","O","N"," ","Âswè∂´{∞}mp$ıl·∫{∞}n","MS"," ",993
+"river swamp","SC29C","230.3","O","N"," ","Âr±´æ{∞}v∞$ıswè∑Ω∫{∞}mp","MS"," ",993
+"swamp land","SC29C","230.3","O","N"," ","Âswè∂´º{∞}mp$ıl·∫{∞}n","MS"," ",993
+"swamps","SC29C","230.3","N","N"," ","swè∑∫{∞}mps","MS"," ",993
+"swamp","SC29D"," ","N","N"," ","swè∑Ω∫{∞}mp","MS"," ",994
+"river swamp","SC29E"," ","O","N"," ","ı*±øº{∞}v∞$Âswè∑ó´∫{∞}mp","MS"," ",995
+"swamp","SC30A","231.1","N","N"," ","sw∑∫mp","MS"," ",996
+"swamp land","SC30B","231.2","O","N","trees","Âswèﬁ∫{∞}mp$ıl·∫{≤}n","MS"," ",997
+"swamp","SC30B","231.2","N","N","trees","swèﬁ∫{∞}mp","MS"," ",997
+"swamp","SC30B","231.2","A","N"," ","swè∂∫{∞}mp±ø´º","MS","CNV",997
+"swamp","SC30C!","231.3!","N","N","big area","swè∂´∫{∑}mp","MS"," ",998
+"swamp land","SC31A","232.1","O","N"," ","Âswè∑∫{∞}mp$ıl·´∫{≤}n","MS"," ",999
+"river swamp","SC31A","232.1","O","N"," ","Âr±´v∞$ıswè∑∫{∞}mp","MS"," ",999
+"swamp","SC31B","232.2","N","N","trees growing","swè∑Ω∫∑mp","MS"," ",1000
+"swamp","SC32A","233.1","N","N"," ","swè∑´∫{∞óæ}mp","MS"," ",1001
+"NR","SC32B","233.2"," ","N"," "," ","MS"," ",1002
+"swamp","SC32C","233.3","N","N"," ","swè∑Ω∫{∞}mp","MS"," ",1003
+"swamp","SC32D","233.4","N","N"," ","swè∑´∫{∞}mp","MS"," ",1004
+"swamp","SC33A","234.1","N","N"," ","swµæ∫{∞}mp","MS"," ",1005
+"swamp","SC33B","234.2","N","N"," ","swﬁº∫mp","MS"," ",1006
+"swamp","SC34A","235.1","N","N","larger than meadow","swèµ´∫oΩmp","MS"," ",1007
+"swamp","SC34B","235.2","N","N","bigger than bulrush patch (several acres)","swè∂´∫∑mp","MS"," ",1008
+"marshy place","SC34B","235.2","O","N"," ","Âmﬁéº∫¥æÛ±æ{iæ}$ıpºÏèe∫{±}s","MS"," ",1008
+"swamp","SC34C","235.3","N","N"," ","swè∂´∫∑´mp","MS","CNV",1009
+"swamp","SC35A","236.1","N","N"," ","swè∂´∫oΩmp","MS"," ",1010
+"swamp","SC35B","236.2","N","N"," ","swè∂´∫∑mp","MS"," ",1011
+"marsh","SC35B","236.2","N","N","bulrushes","mﬁº∫{±ø}Û","MS"," ",1011
+"swamp","SC35B","236.2","N","N"," ","swè∑Ω∫omp","MS"," ",1011
+"swampy land","SC35C","236.3(*)","O","N"," ","Âsw∑Ωomp±ø$ıl·∫{∞}n","MS"," ",1012
+"swamp","SC35C","236.3(*)","N","N"," ","sw∑πmp","MS"," ",1012
+"swamp","SC35C","236.3(*)","N","N"," ","sw∑Ωo´mp","MS"," ",1012
+"NA","SC35D"," "," ","N"," "," ","MS"," ",1013
+"NA","SC35E!"," "," ","N"," "," ","MS"," ",1014
+"swamp land","SC36A","237.1","O","N","cattle can cross","Âswè∂´∫∑mp$ıl·∫{≤}n","MS"," ",1015
+"swamps","SC36A","237.1","N","N"," ","swè∂´∫{∑}mps","MS","CNV",1015
+"swamp","SC36B","237.2","N","N","""about the same¢ as `bogs'","sw∑Ω∫mp","MS"," ",1016
+"marshy land","SC36C","237.3","O","N"," ","Âmﬁé¥Û±ø´º$ıl·{≤}n","MS"," ",1017
+"swamp","SC36C","237.3","N","N"," ","swè∂º∑mp","MS","CNV",1017
+"swamp","SC36D!","237.4!","N","N"," ","swè∑´º∫oºmp","MS","CNV",1018
+"swamp","SC37","238","N","N"," ","sw∑∫{∞}mp","MS"," ",1019
+"swamp","SC37","238","N","N"," ","swﬁ{∞}mp","MS"," ",1019
+"swamp land","SC38N","N239","O","N"," ","Âswè∂´ºoºmp$ıl·∫{≤}nd","MS"," ",1020
+"marsh","SC38N","N239","N","N"," ","mﬁ∫{∞}Û","MS","CNV",1020
+"marsh","SC38N","N239","N","N"," ","m·∫{∞}Û","MS","SIC",1020
+"lowland","SC38N","N239","N","N"," ","Âlo´º∫π$ıl·∫{≤}nd","MS"," ",1020
+"marsh","SC38A","239.1","N","N"," ","mﬁ∫{∞}Û","MS"," ",1021
+"swamp","SC38A","239.1","N","N"," ","sw∂∫{∑}mp","MS","CNV",1021
+"swamps","SC38A","239.1","N","N"," ","swè∂∫{∑}mps","MS"," ",1021
+"swamps","SC38B","239.2","N","N"," ","sw∑´º∫oºmps","MS"," ",1022
+"swampy land","SC38B","239.2","O","N"," ","Âswè∂´º∫{∞}mp±ø´º$ıl·∫{≤}n","MS"," ",1022
+"swamp land","SC38B","239.2","O","N"," ","Âsw∂ºoºmp$ıl·∫{≤}n","MS"," ",1022
+"marsh","SC38B","239.2","N","N"," ","mﬁ∫{∞}Û","MS"," ",1022
+"marsh land","SC38B","239.2","O","N"," ","Âmﬁ∫{∞}Û$ıl·∫{≤}n","MS"," ",1022
+"boggy land","SC38B","239.2","O","N"," ","Âbﬁg±ø´º$ıl·∫{≤}n","MS"," ",1022
+"swamp","SC38C!","239.3!","N","N","occasionally good pasture land; doesn't know much","sw∂´∫omp","MS"," ",1023
+"bog","SC38D!","239.4(*)!","N","N"," ","bﬁ{∞}g","MS"," ",1024
+"swamp","SC38D!","239.4(*)!","N","N"," ","swè∂∫{∞}omp","MS"," ",1024
+"swamp","SC38D!","239.4(*)!","N","N"," ","swè∂î∫{∞}omp","MS"," ",1024
+"NA","SC38E!"," "," ","N"," "," ","MS"," ",1025
+"swamp","SC39A","240.1","N","N","trees and shrubbery [SÚè¶ΩbÚ±ø´º]","sw∂´∫oΩmp","MS"," ",1026
+"swamp","SC39A","240.1","N","N","trees and ""shrubbery¢","sw∑Ω∫omp","MS"," ",1026
+"marsh","SC39A","240.1","N","N","""could be out in the open¢","mﬁ∫{∞}Û","MS"," ",1026
+"marshy places","SC39A","240.1","O","N","""could be out in the open¢","Âmµæ{∞}Û±ø´º$ıp`≈èe∫{±ø}s±øºz","MS"," ",1026
+"shrubbery","SC39A","240.1","N","Y"," ","ÛÚè¶ΩbÚ±ø´º","MS","INA",1026
+"swamp","SC39B!","240.2!","N","N"," ","swè∑Ω∫∑´mp","MS"," ",1027
+"swampy","SC40A","241.1","N","N"," ","Âswè∂˛´o˛{m}p±ø´º","MS"," ",1028
+"marshes","SC40A","241.1","N","N"," ","mﬁº∫{∞}Û±øºz","MS"," ",1028
+"marshy","SC40A","241.1","N","N"," ","Âmﬁ´º∫{∞}*±ø´º","MS"," ",1028
+"swamp","SC40A","241.1","N","N"," ","Âswè∂˛´ºo˛mp","MS"," ",1028
+"swamp","SC40A","241.1","N","N"," ","Âsw∑˛ºo˛mp","MS"," ",1028
+"marsh","SC40B","241.2","N","N"," ","mﬁº∫Û","MS"," ",1029
+"swamp","SC40B","241.2","N","N"," ","swèﬁ˛º∫{∞˛}mp","MS"," ",1029
+"swamp","SC41A","242.1","N","N"," ","swﬁºmp","MS"," ",1030
+"marsh","SC41B","242.2","N","N","might be dangerous","mﬁº∫{∞}Û","MS"," ",1031
+"swamp","SC41B","242.2","N","N","anything of a dampness; not necessarily dangerous","sw∂˛´º∫o˛Ωº{m}p","MS"," ",1031
+"swamp","SC42N","N243","N","Y"," ","swo˛Ωo˛´º{m}p","MS","SUG",1032
+"marsh","SC42N","N243","N","N"," ","mﬁîº∫{∞}Û","MS"," ",1032
+"Swamp Rabbit","SC42N","N243","O","N","a local nickname for the Greenville & Northern RR","Âswè∑omp$ır·b±øºt","MS","CNV",1032
+"NA","SC42M"," "," ","N"," "," ","MS"," ",1033
+"swamp","SC42A","243.1","N","N"," ","swﬁ˛´º∫{∞˛}mp","MS","CNV",1034
+"marsh","SC42A","243.1","N","N"," ","mﬁéæ¥Û","MS"," ",1034
+"swamp","SC42A","243.1","N","N"," ","swﬁ˛ºo˛Ω{m}p","MS","CNV",1034
+"swamp","SC42B!","243.2!","N","N"," ","swﬁ∫{∞}mp","MS"," ",1035
+"swampy land","SC42B!","243.2!","O","N"," ","Âswèﬁ∫{∞}mp±ø´º$ıl·´∫{≤}n","MS"," ",1035
+"marsh","SC42B!","243.2!","N","N","not such a permanent thing","mﬁ∫{∞}Û","MS"," ",1035
+"marshy land","SC42B!","243.2!","O","N"," ","Âmﬁ∫{∞}Û±ø´º$ıl·´∫≤n","MS"," ",1035
+"swamp","SC42B!","243.2!","N","N"," ","swè∂´∑ºmp","MS"," ",1035
+"swamp","SC42C!","243.3!","N","N"," ","swè∂´o˛Ωmp","MS"," ",1036
+"marsh","SC42C!","243.3!","N","N"," ","mﬁ∫{±ø}Û","MS"," ",1036
+"tussock","SC42C!","243.3!","N","Y","""little pice of grass sticking up in a swamp¢; in","t∏´s±ø›Ωk","MS","INA",1036
+" ","SC42C!","243.3!"," ","N","low country, used to call moonshine liquor"," ","MS"," ",1036
+" ","SC42C!","243.3!"," ","N","""tussock¢ because the stills were located on"," ","MS"," ",1036
+" ","SC42C!","243.3!"," ","N","little squares of firm land in the swamp"," ","MS"," ",1036
+"tussock","SC42C!","243.3!","N","Y"," ","Ât∏´s±øΩk","MS","INA",1036
+"swamp","SC42D!","243.4!","N","N","likely submerged; can't be drained","sw∑∫¶ómp","MS"," ",1037
+"swamps","SC42D!","243.4!","N","N","likely submerged; can't be drained","sw∑ó˛´∫mps","MS","CNV",1037
+"swamp","SC42E!","243.5!","N","N","big trees; near coast","sw∑Ω{∑}mp","MS"," ",1038
+"NR","SC43A","244.1"," ","N"," "," ","MS"," ",1039
+"swamp","SC43B","244.2","N","N"," ","sw∂˛´ºo˛º{m}p","MS"," ",1040
+"swamp","SC43B","244.2","N","N"," ","sw∑›´ºo›ºmp","MS"," ",1040
+"marshes","SC43B","244.2","N","N"," ","m∂îº∫¥Û±øz","MS"," ",1040
+"marsh","SC43C","244.3","N","N","""big swamp¢","mµé∫¥Û","MS"," ",1041
+"swamp","SC43C","244.3","N","N"," ","sw∂˛´º∫mp","MS"," ",1041
+"swamp","SC43C","244.3","N","N"," ","sw∂∂´mp","MS"," ",1041
+"swampy","SC43C","244.3","N","Y"," ","Âsw∂˛{m}p±ø´º","MS","SUG",1041
+"big swamp","SC43C","244.3","O","Y","equals 'marsh'","Âb±´g$ısw∂∂´{m}p","MS","FDT",1041
+"swamp","SC44A","245.1","N","N","larger","sw∑˛∫o˛{m}p","MS"," ",1042
+"dry ponds","SC44A","245.1","O","N"," ","ÂdÚµæ∫±ø$ıp`∂´{o}n{d}zè","MS"," ",1042
+"swamp","SC44B","245.2","N","N"," ","sw∑˛Ωo˛{m}p","MS"," ",1043
+"swamp","SC44B","245.2","N","N"," ","swo˛Ωo˛{m}p","MS"," ",1043
+"swamp","SC44B","245.2","N","N"," ","sw∂˛´o˛{m}p","MS"," ",1043
+"swamp","GA1N","N246","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",1044
+"swamp","GA1A","246.1(*)","N","N","fresh water","swè∂∫{∞}mp","MS"," ",1045
+"swamp","GA1B","246.11","N","N"," ","sw∑Ωmp","MS"," ",1046
+"NR","GA1C","246.2"," ","N"," "," ","MS"," ",1047
+"NR","GA1D","246.3"," ","N"," "," ","MS"," ",1048
+"NR","GA1E","246.4"," ","N"," "," ","MS"," ",1049
+"swamp","GA1F!","246.5!","N","N","trees, water","sw∑∫mp","MS"," ",1050
+"NR","GA1G!","246.6!"," ","N"," "," ","MS"," ",1051
+"swamps","GA1H!","246.7!","N","N"," ","swè∑Ω∫{∞}mps","MS"," ",1052
+"swamps","GA1H!","246.7!","N","N"," ","swè∑´º∫{∞}mps","MS"," ",1052
+"swamp","GA2N","N247","N","N"," ","swè∑´º∫{∞}mp","MS"," ",1053
+"pond","GA2N","N247","N","N"," ","p`∂∫{∞}n","MS"," ",1053
+"swamp","GA2N","N247","N","Y"," ","swè∑Ω∫{∞}mp","MS","AUX",1053
+"bay","GA2N","N247","N","Y","in the trees","be∫{±ø}","MS","AUX/CNV",1053
+"shrubbery","GA2A","247.1","N","Y"," ","sÚè∏´ºb∞r±ø´º","MS","INA",1054
+"swamp","GA2A","247.1","N","Y"," ","swè∂´∫{∞}mp","MS","SUG",1054
+"creek","GA2B","247.2","N","N"," ","Âk`Úèái∫jk","MS"," ",1055
+"river swamps","GA2B","247.2","O","N"," ","Âr±´v¥$swè∂∫{∞}mps","MS"," ",1055
+"swamps","GA2B","247.2","N","N"," ","sw∂´{∞}mps","MS"," ",1055
+"slash ponds","GA2B","247.2","O","N","slash pines standing in water","Âs≈·{≤}Û$ıp`∂{∞}nz","MS"," ",1055
+"greasy pond","GA2B","247.2","O","N","where gum forms a scum on the water","ÂgÚái∫jz±ø´º$ıp`ﬁ∫{∞}n","MS"," ",1055
+"island","GA2B","247.2","N","Y","firm land in the swamps","Âµ´º∫{±ø}l∞´n","MS","INA",1055
+"island","GA2B","247.2","N","Y","firm land in the swamps","Âµ´º∫{±ø}l∞´nt","MS","INA",1055
+"island","GA2B","247.2","N","Y","firm land in the swamps","Âµ´º∫{∞}l∞´nt","MS","INA",1055
+"hammock","GA2B","247.2","N","Y","firm land in the swamps","h·∫{∞}m∞´k","MS","INA",1055
+"swamp","GA3A","248.1","N","N"," ","sw∂´mp","MS"," ",1056
+"bay","GA3A","248.1","N","N","no outlet","be´∫{∞}","MS"," ",1056
+"knoll","GA3A","248.1","N","Y","in lowlands, a dry spot","no´∫{∞}l","MS","INA",1056
+"swamps","GA3B","248.2","N","N","not near","swè∂ó´∫{∞}mps","MS"," ",1057
+"swamp","GA4N","N249","N","N","very thick one; as long as 2 or 3 miles","sw∑∫mp","MS"," ",1058
+"bay","GA4N","N249","N","Y"," ","be´∫","MS","SUG",1058
+"knoll","GA4N","N249","N","Y","little island in swamp or marsh","no´∫l","MS","INA",1058
+"swamp","GA4A","249.1","N","N"," ","swè∑∫{∞}mp","MS"," ",1059
+"hammock","GA4A","249.1","N","Y"," ","ha´m∞´k","MS","INA",1059
+"swamp","GA4B","249.2","N","N","trees","swè∑Ω∫{∞}mp","MS"," ",1060
+"hammock","GA4B","249.2","N","Y"," ","h·∫{∞}m{∞´}k","MS","INA",1060
+"swamp land","GA4C!","249.3!","O","N"," ","Âswè∑´∫{∞}mp$ıl·∫{∞}n","MS"," ",1061
+"hammocks","GA4C!","249.3!","N","Y","small grassy places in marsh","h·∫{∞}m{∞´}ks","MS","INA",1061
+"swamps","GA5A","250.1","N","N","nearly always had water","swè∑´∫{∞}mps","MS"," ",1062
+"tussocks","GA5A","250.1","N","N","high grassy place, in swamp","t∏óΩs±øºks","MS"," ",1062
+"bog","GA5B","250.2"," ","N"," ","b•´∫{∞ó}g","MS","CNV",1063
+"swamp","GA5C","250.3","N","N"," ","swè∑ó´∫{∞}mp","MS"," ",1064
+"swamp land","GA5C","250.3","O","N"," ","Âswè∑ó´∫{∞ó}mp$ıl·Ω{∞}n","MS"," ",1064
+"hammocks","GA5C","250.3","N","Y","high land in the swamp","h·{∞}m∞´ks","MS","INA",1064
+"high land","GA5C","250.3","O","Y","(in the swamp","Âhµ∫±ø$ıl·{∞}n","MS","INA",1064
+"swamps","GA5D!","250.4!","N","N"," ","swè∂ó´∫{∞}mps","MS","CNV",1065
+"swamp","GA5E!","250.5!","N","N"," ","swè∑´∫{∞ó}mp","MS"," ",1066
+"bays","GA5E!","250.5!","N","N"," ","be∫{∞}z","MS"," ",1066
+"cypress bays","GA5E!","250.5!","O","N"," ","Âsµæ±øpr∞´s$Âbe´∫∞z","MS"," ",1066
+"swamp land","GA6A","251.1","O","N","fresh or salt","Âswè∑´∫{∞}mp$ıl·Ω∫{∞}n","MS"," ",1067
+"swamps","GA6A","251.1","N","N"," ","swè∑´∫{∞}mps","MS"," ",1067
+"swamps on high land","GA6A","251.1","O","Y"," ","Âswèµ∑´∫{∞}mps$ı∑´n$Âhﬁº∫±ø$ıl·´∫{∞}n","MS","INA",1067
+"hog hammock","GA6A","251.1","O","Y"," ","h∑´{∞}g$ıha´∫{∞}m∞´k","MS","INA",1067
+"swamps","GA6B!","251.2!","N","N","trees; easily overflown","swè∑´∫{∞}mps","MS","-0",1068
+"open ponds","GA6B!","251.2!","O","N"," ","ıo∫{∞}'pm$Âp`∑Ω∫{∞ó}nz","MS"," ",1068
+"overflown","GA6B!","251.2!","V","Y"," ","Âoº∫v∞ıflo∫{∞}n","MS","INA",1068
+"overflowed","GA6B!","251.2!","V","Y"," ","Âoº∫v∞ıflèo∫{∞}d","MS","COR",1068
+"island","GA6B!","251.2!","N","Y","large, grassy patch","µ∫±øl∞´n","MS","INA",1068
+"tussock","GA6B!","251.2!","N","Y","small elevation","t`∏´ºs±øºk","MS","INA",1068
+"hammocks","GA6B!","251.2!","N","Y","hardwood growth","Âh·∫{∞}m∞´ks","MS","INA",1068
+"ponds","GA7","256","N","N"," ","p∑Ω∫∑nz","MS","CNV",1069
+"swamp","GA7","256","N","N"," ","swè∑Ω∫∑mp","MS"," ",1069
+"high land","GA7","256","O","Y","grassy places in swamp, usually above water,","Âha´æ∫{∞}ıl·∫{∞}n","MS","INA/RN3",1069
+"hammocks","GA7","256","N","Y","grassy places in swamp, usually above water, good","h·∫{∞}m∞´ks","MS","INA",1069
+" ","GA7","256"," ","N","good for grazing"," ","MS","RN4",1069
+" ","GA7","256"," "," ","for grazing"," ","MS","RN2",1069
+"swamp","GA8A","257.1","N","N"," ","swè∑Ω∫{∞}mp","MS"," ",1070
+"hammock","GA8A","257.1","N","Y"," ","h·∫{∞}m∞´k","MS","INA",1070
+"islands","GA8A","257.1","N","Y"," ","aæ∫±øl·Ωnz","MS","INA",1070
+"swamp","GA8B","257.2","N","N"," ","swè∑´∫{∞}mp","MS"," ",1071
+"swamp","GA9A","257A.1","N","N"," ","sw∂´omp","MS"," ",1072
+"swamps","GA9A","257A.1","N","N"," ","sw∂´{∑}mps","MS"," ",1072
+"swamps","GA9A","257A.1","N","N"," ","swè∂´omps","MS"," ",1072
+"swamps","GA9B","257A.2","N","N"," ","sw∑Ω∫mps","MS"," ",1073
+"swamp","GA10A","258.1","N","N","trees","sw∑Ω∫mp","MS"," ",1074
+"bay","GA10A","258.1","N","N","titi and huckleberry bushes","be∫","MS"," ",1074
+"titi","GA10A","258.1","N","Y"," ","ta∫±øΩda∫±øΩ","MS","INA",1074
+"hammock","GA10A","258.1","N","Y","in swamp","Âh·m∞k","MS","INA",1074
+"swamp","GA10B","258.2","N","N"," ","swè∑∫{∞}mp","MS"," ",1075
+"ponds","GA10B","258.2","N","N","wet bottom land","p`∑∫{∞}nz","MS"," ",1075
+"swamp","GA11N","N258A","N","N"," ","swﬁ{∞}mp","MS"," ",1076
+"sobby","GA11N","N258A","N","N"," ","sﬁb±ø","MS"," ",1076
+"NR","GA12A","259.1"," ","N"," "," ","MS"," ",1077
+"swamp","GA12B!","259.2(.3)","N","N"," ","sw∂´º∫mp","MS"," ",1078
+"swamp","GA12B!","259.2(.3)","N","N"," ","swﬁó{∞}mp","MS"," ",1078
+"swamp","GA13A","260.1","N","N","large, trees, water","sw∑Ω∫mp","MS"," ",1079
+"bay","GA13A","260.1","N","N","small swamp; long-shaped [e´∫]: very high e","be´∫","MS"," ",1079
+"swamp","GA13B!","260.2!","N","N","lowland, trees","Âswè∑∫{∞}mp","MS"," ",1080
+"swamp land","GA13B!","260.2!","O","N","river, higher up","Âswè∑ó´{∞}mp$ıl·∫{∞}n","MS"," ",1080
+"hammock lands","GA13B!","260.2!","O","Y","cleared, woodlands around","Âh·´{∞}m∞´k$ıl·´∫{∞}nz","MS","INA",1080
+"high swamp","GA14A","261.1","O","N","comparatively firm","Âha´æ∫±ø$ıswè∑Ωº∫{∞}mp","MS","CNV",1081
+"swamp","GA14A","261.1","N","N"," ","swè∂´∫{∞}mp","MS"," ",1081
+"swamp","GA14A","261.1","N","N"," ","swè∑º∫{∞}mp","MS","CNV",1081
+"high hammock","GA14A","261.1","O","Y"," ","Âhµ´º∫±ø$ıh·{∞}m∞´k","MS","INA",1081
+"hammock","GA14A","261.1","N","Y","bushy land","hµ∫{∞}m∞´k","MS","INA",1081
+"swamp","GA14B","261.3","N","N"," ","swè∑º∫{∞}mp","MS"," ",1082
+"swamps","GA14B","261.3","N","N"," ","swè∂´∫{∞}mps","MS"," ",1082
+"low places","GA14C","261.2","O","N"," ","Âloº∫{π}$ıp`≈èe∫{±ø}s±ø´ºz","MS"," ",1083
+"swamp","GA14C","261.2","N","N"," ","swè∑º∫{∞}mp","MS"," ",1083
+"swamp land","GA14C","261.2","O","N"," ","Âswè∑º∫{∞}mp$ıl·{≤}nd","MS"," ",1083
+"swamp","GA14C","261.2","N","N"," ","swè∂´∫{∞}mp","MS","CNV",1083
+"swampy places","GA14C","261.2","O","N"," ","Âswè∑º∫{∞}mp±ø´º$ıp`≈èe{±ø}s±øºz","MS","CNV",1083
+"swamp","GA15A","262.1","N","N","trees","sw∑Ωmp","MS"," ",1084
+"swamp land","GA15B","262.2","O","N"," ","Âsw∑∫{∞}mp$ıl·∫{≤}n","MS"," ",1085
+"swamp","GA15B","262.2","N","N"," ","swè∑´∫{∞}mp","MS","CNV",1085
+"swamp land","GA16A","263.2","O","N","trees","Âswè∂ó´∫{∞}mp$ıl·∫{≤}n","MS"," ",1086
+"swamp land","GA16B","263.1","O","N"," ","Âswè∑∫{∞}mp$ıl·∫{∞}n","MS"," ",1087
+"swamp","GA16B","263.1","N","N"," ","swè∑´∫{∞}mp","MS","CNV",1087
+"creek","GA16B","263.1","N","N"," ","Âkrèái∫k","MS","CNV",1087
+"swamp","GA16B","263.1","N","N"," ","swè∑∫{∞}mp","MS","CNV",1087
+"swamp","GA16C","263.21","N","N"," ","sw∂´oΩmp","MS"," ",1088
+"swampy land","GA16C","263.21","O","N"," ","Âswè∂´mp±ø´$ıl·´∫{∞}n","MS"," ",1088
+"swamp land","GA16D!","263.3!","O","N"," ","Âswè∑∫{∞}mp$ıl·{∞}n","MS"," ",1089
+"pond","GA17N","N264","N","N"," ","p`µ∫n","MS"," ",1090
+"river swamp","GA17N","N264","O","N"," ","Âr±v∞$ısw∂´{∑}mp","MS"," ",1090
+"swamp","GA17","264","N","N"," ","sw∑{∑ó}mp","MS"," ",1091
+"swamp","GA18A","264A.1","N","N"," ","sw∂´omp","MS"," ",1092
+"bottomy wet place","GA18B","264A.2","O","N"," ","Âbµæt∞m±ø$Âw≤t$ıple{±ø}s","MS"," ",1093
+"swamp","GA19A","265.1","N","N"," ","swè∑Ω∫∑mp","MS"," ",1094
+"swamp","GA19B","265.2","N","N"," ","swè∑´º∫oºmp","MS"," ",1095
+"swamp land","GA20A","266.1","O","N","along river","Âswè∑Ω∫∑mp$ıl·∫{≤}n","MS"," ",1096
+"swamp fields","GA20A","266.1","O","N","along river","Âswè∑∫{∑´}mp$Âfi∫{∞}lz","MS"," ",1096
+"swamp land","GA20B","266.2","O","N","trees","Âswè∂∫∑Ωmp$ıl·∫{∞}n","MS"," ",1097
+"swamp","GA21A","267.1","N","N"," ","swµ´æmp","MS"," ",1098
+"pond","GA21A","267.1","N","N"," ","p`µæ∫nd","MS"," ",1098
+"swamp","GA21B","267.2","N","N"," ","sw∂∫{∞}mp","MS"," ",1099
+"NR","GA22A","268A.1"," ","N"," "," ","MS"," ",1100
+"swamp land","GA22B","268A.2","O","N"," ","Âswè∑Ω∫∑mp$ıl·∫{≤}n","MS"," ",1101
+"swamp","GA23A","268.1","N","N"," ","sw∑ó´∫{∞ó}mp","MS"," ",1102
+"swamps","GA23A","268.1","N","N"," ","swè∑∫{∞}mps","MS","CNV",1102
+"swamp","GA23B","268.11","N","N"," ","sw∑Ωomp","MS"," ",1103
+"swamp","GA23C","268.2","N","N","big or small","sw∑Ω∫{∞}mp","MS"," ",1104
+"swamp","GA23D!","268.3","N","N","fresh water","swè∂´º∫∑Ωºmp","MS"," ",1105
+"swamp","GA23E!","268.4!","N","N"," ","sw∑oΩmp","MS"," ",1106
+"swamp","GA23F!","268.5!","N","N"," ","swﬁ{∞}mp","MS"," ",1107
+"swamp","GA24N","N269","N","N"," ","swﬁ´º∫{∞}mp","MS","CNV",1108
+"boggy place","GA24A","269.1","O","N"," ","b∂{∞}g±ø$ple{±ø}s","MS"," ",1109
+"swamp","GA24A","269.1","N","N","larger than boggy place","sw∂´∫{∞}mp","MS"," ",1109
+"swamps","GA24B","269.2","N","N"," ","swè∑Ω∫{∞}mps","MS"," ",1110
+"pond","GA24B","269.2","N","N"," ","p`∑Ω∫∑n","MS"," ",1110
+"swamp","GA25N","N269A","N","N"," ","sw∑∫omp","MS","CNV",1111
+"swamp","GA26","270A","N","N"," ","sw∂´∫∑mp","MS"," ",1112
+"swamps","GA26","270A","N","N"," ","sw∂´∑mps","MS","CNV",1112
+"swamp grass","GA26","270A","O","Y"," ","sw∂´∫∑mp$gr·´{≤}s","MS","INA/CNV",1112
+"swamp","GA27!","270!","N","N"," ","sw∑Ω∑mp","MS"," ",1113
+"swamp","GA28","271a","N","N"," ","swﬁºmp","MS"," ",1114
+"swamp","GA28","271a","N","N"," ","sw∂´mp","MS"," ",1114
+"swamp","GA29A","271.1","N","N"," ","swè∂∫{∞}mp","MS"," ",1115
+"swamp","GA29A","271.1","N","N"," ","swèﬁº{∞ó}mp","MS","CNV",1115
+"swamp land","GA29B","271.2","O","N","may have trees","Âswè∑∫{∞ó}mp$ıl·∫{∞}n","MS"," ",1116
+"swamp","GA30A","272.1(*)","N","N","thick growth","sw∂´∫∑Ωmp","MS"," ",1117
+"overflow","GA30B","272.2(*)","N","N"," ","Âoº∫πΩºv∞ıf≈èoº∫πº","MS"," ",1118
+"swamp","GA30B","272.2(*)","N","N"," ","swèﬁ{∞}mp","MS"," ",1118
+"swamp","GA30C!","272.3!","N","N"," ","sw∑Ω∫{∞}mp","MS"," ",1119
+"swamp grass","GA30C!","272.3!","O","Y"," ","Âsw∑Ωomp$ıgr·´{≤}s","MS","INA",1119
+"NR","GA30D"," "," ","N"," "," ","MS"," ",1120
+"NA","GA30E"," "," ","N"," "," ","MS"," ",1121
+"swamps","GA31","272A","N","N"," ","sw∂´{∑}mps","MS"," ",1122
+"swamp","GA31","272A","N","N"," ","swµæ{∞}mp","MS"," ",1122
+"NR","GA32","272B"," ","N"," "," ","MS"," ",1123
+"swamp","GA33A","272C1","N","N","big or small","sw∂´omp","MS"," ",1124
+"marsh","GA33B","272C2","N","N"," ","mﬁ´º∫{∞}Û","MS"," ",1125
+"marsh","GA33B","272C2","N","N"," ","mµ´æ∫¥›Û","MS"," ",1125
+"swamps","GA34N","N273","N","N"," ","swè∂´∫∑mps","MS"," ",1126
+"swamp","GA34A","273.1","N","N","trees","sw∑Ωº{∑}mp","MS"," ",1127
+"swamps","GA34B","273.2","N","N"," ","swè∑∫∑´mps","MS"," ",1128
+"swampy land","GA35N","N273A","O","N"," ","Âsw∂omp±ø$ıl·´∫n","MS"," ",1129
+"swamp","GA35N","N273A","N","N"," ","sw∂omp","MS"," ",1129
+"swamp","GA36N","N274A","N","N"," ","sw∂´oΩmp","MS"," ",1130
+"low place","GA36N","N274A","O","N"," ","Âlo{π}$ıple{±ø}s","MS","CNV",1130
+"river swamps","GA36N","N274A","O","N"," ","Âr±v∞$ısw∂´omps","MS","CNV",1130
+"miry","GA36N","N274A","O","Y"," ","mµ∫r±ø´","MS","INA",1130
+"swamps","GA37N","2N274","N","N"," ","swﬁ{∞ó}mps","MS"," ",1131
+"marsh","GA37M!","NC274","N","N","inland","mµ∫Û","MS"," ",1132
+"swampy land","GA37A","274.1","O","N"," ","Âswè∑º∑mp±ø´º$ıl·∫{≤}n","MS"," ",1133
+"swamp","GA37B","274.2","N","N"," ","swè∂´∫∑mp","MS"," ",1134
+"swamp","GA37C","274.21","N","N"," ","swﬁmp","MS"," ",1135
+"swamps","GA37C","274.21","N","N"," ","swﬁ{∞}mps","MS"," ",1135
+"swamp","GA37D!","274.7!","N","N"," ","sw∂´∑mp","MS"," ",1136
+"swamp","GA37E!","274.8!","N","N"," ","sw∂´{∑}mp","MS"," ",1137
+"swamps","GA37F!","274.3!","N","N"," ","swè∂´∫mps","MS"," ",1138
+"swamp","GA37G!","274.4!","N","N"," ","swè∑∫∑´mp","MS"," ",1139
+"pond","GA37H!","274.5!","N","N"," ","p`µæ{∞}n","MS"," ",1140
+"swamp","GA37H!","274.5!","N","N","long","swè∂´∫∑mp","MS"," ",1140
+"bog","GA37I!","274.6!","N","N","wet, shady land","bµ∫g","MS"," ",1141
+"swamp","GA38","275","N","N"," ","sw∑Ω∫{∑ó}mp","MS"," ",1142
+"swamp","GA39","275A","N","N"," ","sw∂˛´o˛Ωmp","MS"," ",1143
+"swamp","GA40","276A","N","N"," ","sw∑Ω∑´mp","MS"," ",1144
+"swamp","GA40","276A","N","N"," ","sw∂´{∑}mp","MS"," ",1144
+"swamp","GA41","276B","N","N"," ","sw∂omp","MS"," ",1145
+"swamps","GA41","276B","N","N"," ","sw∑Ω{o}mps","MS","CNV",1145
+"swamps","GA42A","276.1","N","N"," ","swè∑º∫∑´ºmps","MS"," ",1146
+"swamp","GA42B","276.2","N","N"," ","swè∂´∑Ωmp","MS"," ",1147
+"swamp","GA42B","276.2","N","N"," ","swèﬁ{∞}mp","MS","CNV",1147
+"swamp","GA43","277","N","N","overgrown","sw∑Ω∫mp","MS"," ",1148
+"swampy land","GA44A","278.1","O","N"," ","Âswè∑Ωº∫∑ºmp±ø´º$ıl·∫{∞}n","MS"," ",1149
+"swamps","GA44B","278.2","N","N","bushes, few trees","swè∑´∫oΩmps","MS"," ",1150
+"swamp","GA44C","278.3","N","N"," ","swè∑∫∑´mp","MS"," ",1151
+"swamps","GA44D","278.4","N","N"," ","swè∑Ω∫∑mps","MS"," ",1152
+"swamp land","GA44E","278.5","O","N"," ","Âsw∂´{∑}mp$ıl·´∫nd","MS"," ",1153
+"swamps","FL1","252","N","N"," ","swè∑∫{∞}mps","MS"," ",1154
+"ponds","FL1","252","N","N","poorer than 'swamps'","p∑∫{∞}nz","MS"," ",1154
+"swamp","FL2A","253.1","N","N","land is low, very wet","swè∑∫{∞ó}mp","MS"," ",1155
+"swamp","FL2A","253.1","N","N","land is low, very wet","swè∂î´∫{∞ó}mp","MS","CNV",1155
+"cypress pond","FL2A","253.1","O","N"," ","Âsaæ±øp{r}±øs$ıp∑∫{∞}n","MS"," ",1155
+"hammock","FL2A","253.1","N","Y","hardwood","h·∫{≤}m∞´k","MS","INA",1155
+"hammock land","FL2A","253.1","O","Y","hardwood","Âh·∫{≤}m∞´k$l·∫{≤}n","MS","INA",1155
+"hammock land","FL2A","253.1","O","Y","hardwood","Âh·∫{≤}m∞´k$l·´∫{∞}nd","MS","INA",1155
+"swamp","FL2B","253.2","N","N"," ","swﬁ∫{∞}mp","MS"," ",1156
+"hammock land","FL2C!","253.3!","O","Y","hardwood; might be overflowed","Âh·Ω∫{∞}m∞´k$ıl·∫{≤}n","MS","INA",1157
+"swamp","FL2C!","253.3!","N","N","cypress in water, up to two feet deep","swè∑Ω∫{∞}mp","MS"," ",1157
+"swamp","FL3A","254.1","N","N"," ","swè∑∫{∞}mp","MS"," ",1158
+"marsh land","FL3A","254.1","O","N"," ","Âmµæ∫{∞}Û$ıl·{≤}n","MS"," ",1158
+"river swamp","FL3A","254.1","O","N"," ","r±´v∞$swè∑∫{∞}mp","MS"," ",1158
+"swamp","FL3B!","254.2!","N","N","trees thick","swè∑Ω∫{∞}mp","MS"," ",1159
+"swamp","FL4","254A","N","N","""timber¢","sw∂´oΩmp","MS"," ",1160
+"swamp","FL4","254A","N","N","""timber¢","sw∑Ω∑´mp","MS"," ",1160
+"swamp","FL4","254A","N","N","""timber¢","sw∂´∑mp","MS"," ",1160
+"swamp","FL4","254A","N","N","""timber¢","sw∑Ω∑mp","MS","CNV",1160
+"timber","FL4","254A","N","Y"," ","t±mb¥","MS","INA",1160
+"swamp","FL5A","255.1","N","N"," ","swè∑´∫{∞ó}mp","MS"," ",1161
+"marshy land","FL5A","255.1","O","N"," ","Âmµæ∫∞Û±ø´º$ıl·´∫{≤}n","MS"," ",1161
+"hammock pine","FL5A","255.1","O","Y","big, course grain","Âh·{∞}m∞k$ıp`aæ∫±øΩn","MS","INA",1161
+"hammock","FL5A","255.1","N","Y","high, dry land -- hardwood growth","h·∫{∞}m∞´k","MS","INA",1161
+"hammock","FL5B","255.2","N","Y","heavy woodland, high and dry","h·{∞}m∞´k","MS","INA",1162
+"swamp","FL5B","255.2","N","N","timbered; flooded most of the time","swè∑´∫{∞ó}mp","MS"," ",1162
+"bog","NY1","50","N","N","open","bµ∫g","MS"," ",1
+"marsh","NY1","50","N","N","cranberries, no grass","mµ∞éÛ","MS"," ",1
+"muck hole","NY2A","51.1","O","N"," ","m∏æ∫k$hoπÏ","MS"," ",2
+"meadow bog","NY2A","51.1","O","N","grassy lump between two holes","Âm≤d∞$bµæ∫g","MS"," ",2
+"Slough","NY2A","51.1","N","Y","The); = a pond; only used as proper name","sl≤π","MS","SUG",2
+"bog","NY2B","51.2","N","N","solid grass patch to step on going across the mars","bµ´æg","MS"," ",3
+"slough","NY2B","51.2","N","Y","place where water stands","sl≤Ωæπ","MS","SUG",3
+"marsh","NY2B","51.2","N","N","wild cranberries; hay not mowed","mµ∫Û","MS"," ",3
+"marsh","NY2B","51.2","N","N","natural [pron.]; wild cranberries; hay not mowed","m·∫Û","MS"," ",3
+"bog","NY2C","51.3","N","N","vines and bog grass; fresh","bµ´æ∫g","MS"," ",4
+"bog","NY5B","410","N","N"," ","bµ´g","MS"," ",13
+"bog","NY5G","415","N","N","cranberry","bµg","MS"," ",18
+"bog","NY7G","426","N","N","open","bµ´g","MS"," ",29
+"bog","NY7I","428","N","N","open","bµ´g","MS"," ",31
+"The Green Fly","NY12C!","441!","O","Y","a place name","‰∞$gri∫n$flaæ±ø","MS","OLD/HRD",45
+"fly","NY12C!","441!","N","Y","from older people","flaæ±ø","MS","OLD/HRD",45
+"fly","NY13A","443","N","N"," ","fÏµ´º±ø´","MS"," ",46
+"The Fly","NY14A","445","O","N","a swampy place near here","‰∞$fÏa´æ∫±ø","MS"," ",48
+"Vly Mountain","NY15A","447","O","N","a place name","ÂvÏ•Ω±ø´$Âm≤Ωπn'tn","MS"," ",50
+"fly","NY16A","449","N","Y","swampy bay of river","fÏµº∫±ø","MS","SUG",52
+"The Fly","NY20A","457","O","N","place name of Franklinton, a marshy area","‰∞$ÂfÏµ´±ø","MS"," ",60
+"fly","NY20B","458","N","Y","one near Sloanesville","fÏa´æ±ø","MS","SUG/OLD",61
+"fly","NY22","460","N","N","low marsh, boggy","fÏaæ∫±ø","MS"," ",63
+"fly","NY23A","461","N","N","= swamp","flèµº∫±´æ","MS"," ",64
+"bog","NY23B","462a","N","N","wet; clusters","bµg","MS"," ",65
+"bogland","NY23B","462a","N","N","level","bµgl·∫{∞}nd","MS"," ",65
+"fly","NY23B","462a","N","N","between hills","fîlèµ∫±´æ","MS"," ",65
+"fly","NY23C","462b","N","Y"," ","flèµ´∫±´æ","MS","SUG/HRD",66
+"mire","NY23C","462b","N","N"," ","mµº∫±æ¥","MS"," ",66
+"peat bogs","NY23C","462b","O","N"," ","Âp`iΩit$ıbµ∫gz","MS"," ",66
+"fly","NY25A","465","N","N","two to three acres, like a pond when heavy rains","flè∏Ω±ø","MS"," ",69
+"interval","NY25A","465","N","Y","stream through marsh","Â±˛{n}t¥ıvÏ","MS","SUG/HRD",69
+"intervale","NY25A","465","N","Y","stream through marsh","Â±˛{n}t¥ıveΩ±øºÏ","MS","SUG/HRD",69
+"teeters","NY26A","467","V","Y"," ","t`i∫tê¥´z","MS","AUX/INA",71
+"swale","NY26B","468","N","N","= swamp","swèeΩ∫{±ø}Ï","MS"," ",72
+"fly","NY26B","468","N","N","= swamp","Âflèµ∫±øº","MS"," ",72
+"bog","NY26B","468","N","N"," ","bµ∫g","MS"," ",72
+"bog hay","NY26B","468","O","Y"," ","Âbµ∫g$ıheΩ∫±ø","MS","INA",72
+"fly","NY27A","470","N","N"," ","flè•´∫±ø","MS","CNV",74
+"pond hole","NY27A","470","O","N"," ","Âpµ∫nd$ıhoº∫πºÏ","MS"," ",74
+"interval","NY29A","474a","N","N"," ","Â±ænt¥vÏ","MS"," ",80
+"bog","NY29B","474b","N","N","trees, willows","bµ∫{∞}g","MS"," ",81
+"springy water","NY29B","474b","O","N"," ","Âsépr±æÓ±´æ$ıwµtê¥","MS"," ",81
+"boggy","NY29C","474c","A","Y"," ","bµ∫g±æ{iæ}","MS","INA",82
+"frog hole","NY30C","475c","O","N"," ","Âfrè∑Ω∫g$ıhoº{πº}Ï","MS"," ",85
+"bog hole","NY30D","475d","O","N","soft","Âb∑∫g$ıhoøº{π}Ï","MS","SIC",86
+"swamps","NY31A","478a","N","N","timbered","swè∑Ω∫{∞}mps","MS","CNV",88
+"bog","NY33C","482","N","N","wetter than swamp","bµ∫{∞}g","MS"," ",94
+"bogs","NY34A","483","N","N"," ","bµgz","MS"," ",95
+"bog","NY34C","485","N","N"," ","bµ∫{∞}g","MS"," ",97
+"bog","NY35A","487","N","N","open","bµ∫g","MS"," ",99
+"The Fly","NY35B","488","O","N","place name near here: swampy hole near creek","‰∞$ÂfÏ•Ω±ø","MS"," ",100
+"The Fly","NY36A","491","O","N","place name for a low swampy area near Chittenango","‰∞$ÂfÏ•´±ø´","MS"," ",102
+"fly","NY37B","494","N","Y","in Adirondacks, for swampy place","fÏa´æ∫±ø´","MS","SUG",105
+"fly","NY38A","497(*)","N","N","any water hole in swmapy ground","fÏ•Ωº±ø´","MS"," ",107
+"The Fly","NY39A","499","O","N","place name here for a muddy pond","‰∞$fÏa´æ±ø","MS"," ",110
+"boggy piece","NY45A","513a","O","N"," ","Âbµg±´æ$ıpiΩis","MS"," ",122
+"boggy land","NY45A","513a","O","N"," ","Âbµg±´æ$ıl·n","MS"," ",122
+"bog ground","NY45C","513c","O","N","soft","Âbµg$ıgÚæ•∫πn","MS"," ",124
+"bog","NY48A","519a","N","N"," ","bµ∫g","MS"," ",131
+"bog","NY51A","525a","N","N"," ","bµ∫g","MS"," ",141
+"slough hole","NY51C","525c","O","N","cattails","s≈aæπ$ıhoΩºπºÏ","MS"," ",143
+"bog","NY51E!","525e!","N","N","not local?","bµ∫{∞}g","MS"," ",145
+"bog","NY56B","536","N","N","low and wet","bµ∫{∞}g","MS"," ",156
+"bog","NY57B","537b","N","N"," ","bµ∫{∞}g","MS"," ",158
+"sink holes","NY57B","537b","O","N"," ","Âs±˛´Ó$koΩºπºÏz","MS"," ",158
+"mud hole","NY57C!","537c!","O","N"," ","Âm∏ºd$ıhoΩº{πº}Ï","MS"," ",159
+"bogs","NY58C","539c","N","N"," ","bµ∫gz","MS"," ",162
+"bog","NY58D!","539d!","N","N","water a good part of the time","b∂´∫{∞}g","MS"," ",163
+"bog","NY58D!","539d!","N","Y"," ","bµ∫g","MS","AUX",163
+"wild rice","NY60B!","546!","O","N"," ","Âw•∫±øÏ$ıÚ•´±øs","MS"," ",169
+"swale","NY61A","547","N","N"," ","swè≤´∫±øÏ","MS"," ",170
+"bog land","NY61B","548","O","N"," ","Âbµg$ıl·∫{∞}n","MS"," ",171
+"mire","NY64C!","557c!","N","N"," ","Âm•´±ø¥","MS","CNV",182
+"Cannawanga Swamp","NY64C!","557c!","O","N"," ","Âkµºn∞wµºÓg∞$Âswèµ∫mp","MS"," ",182
+"branch","NJ5A","9","N","N","trees","br·{∞}ntÛ","MS"," ",191
+"bog","NJ10C","24","N","N"," ","b∂´∫g","MS"," ",203
+"slough","NJ11A","25","N","N"," ","sla´∫π","MS"," ",205
+"bog","NJ11B","26a","N","N"," ","bµæg","MS"," ",206
+"slough","NJ12A","27","N","N"," ","sÏa´∫π","MS"," ",208
+"bogs","NJ15B","34","N","N"," ","b∂´∫{∞}gz","MS"," ",215
+"bog","NJ18C!","43!","N","N","open","bµ∫g","MS"," ",222
+"bog","NJ18D!","44!","N","N","open","bµ∫g","MS"," ",223
+"slank","NJ20A","47","N","N"," ","sÏ·›˛´Ók","MS"," ",226
+"The Bog on Vly","NJ21A","48","O","N","a place name for a swamp","‰∞$ıbµ∫g$∞n$Âflaæ∫±ø","MS"," ",228
+"vly","PA4B!","64!","N","N","saw in old document","fÏaæ±ø","MS"," ",244
+"bog","PA18A","107","N","N"," ","bµ∫g","MS"," ",283
+"copse","PA5A","65(*)","N","Y","ck. sp. (Ger.?); = copse","kµp±ø´","MS","INA",245
+"branch","DE3C!","17!","N","N","smaller than swamp","br·∫{∞}ntÛ","MS"," ",507
+"boggy land","DE5A","21","O","N"," ","b∑∫g±ø$Ï·∫{∞}n{d}","MS"," ",509
+"branch","MD4A","35b","N","N","trees","br·ntÛ","MS"," ",519
+"branch","MD4B","35","N","N"," ","br·∫ntÛ","MS"," ",520
+"branch","MD6B","40","N","Y","small wood","br·ntÛ","MS","INA",525
+"bog","MD20A","71","N","N","miry","b∑{∑´}g","MS"," ",556
+"bog","DC1A","99","N","N","nothing grows; never saw one","b∂îºg","MS"," ",575
+"bog","VA3C"," ","N","N","not fit for to farm","bµ´æ{∞}g","MS"," ",582
+"bog","VA8C!","125!","N","N","sink","bµ´{∞}g","MS"," ",592
+"marsh","VA14A","135","N","N","fresh or salt","mﬁº∫Û","MS"," ",604
+"low grounds","VA21B","154","O","N","wild overgrown wetland","Âloπ$gr·πn{d}z","MS"," ",623
+"low grounds","VA23B","157","O","N","trees; uncultivated: too wet","Âloπ´$gr·πnz","MS"," ",626
+"mire","VA43N","N195","N","N"," ","ma´æ{±ø}∞","MS"," ",662
+"mire","VA45A","201","N","N","bog","ma{≤´}∞","MS"," ",667
+"bog","VA50A","217","N","N"," ","bﬁ´º{∞}g","MS"," ",677
+"slough","VA61C"," ","N","Y","in a little ravine running up from the bottoms","sl·æπ","MS","SUG",702
+"branch","NC8N","N317","N","N"," ","br·ntÛ","MS"," ",743
+"bog","NC11A","325","N","N","miry","bﬁ´º{∞}g","MS"," ",751
+"bog","NC11B","326","N","N","sinkable","bﬁ´º{∞}g","MS"," ",752
+"branch","NC12B","328","N","N"," ","br·{±ø}ntÛ","MS"," ",754
+"branch","NC14N","N331","N","N"," ","br·æ{±øΩ}ntÛ","MS"," ",757
+"glade","NC14A","331","N","N","low, thick like a branch","gl≤∫±ø´d","MS"," ",758
+"branch","NC14A","331","N","N","run to it","br·{±ø}ntÛ","MS"," ",758
+"bog","NC14C!","333!","N","N"," ","bµæ{∞}g","MS"," ",760
+"branch","NC16B","340","N","N"," ","br·±øntÛ","MS"," ",765
+"slough","NC19A","343","N","N","from a river","sluø{uø}","MS"," ",770
+"bog","NC20A","345","N","N","sinkable","b∂´∫g","MS"," ",772
+"branch","NC21A","347","N","N","small one","br·∫ntÛ","MS"," ",775
+"branch","NC21B","348","N","N"," ","br·{±ø˛Ω}ntÛ","MS"," ",776
+"slough","NC22A","349","N","N","drains into river","sluøæ{uº}","MS"," ",777
+"branch","NC22B","349b","N","N","smaller than swamp; flows sluggishly","br·∫{∞}ntÛ","MS"," ",778
+"sink","NC24B","352b","N","N"," ","s±˛Ók","MS"," ",785
+"branch","NC24B","352b","N","N","small swamp","br·∫{∞}ntÛ","MS"," ",785
+"slough","NC25N","N353","N","Y","washed-out place along the river; trees","sluº∫","MS","SUG",786
+"miry place","NC25N","N353","O","N","sinkable","mﬁº{∞}r±ø$ple´∫s","MS"," ",786
+"bog","NC25B","354","N","N","mires one","bﬁg","MS"," ",788
+"The Meadow","NC26A","355a","O","Y","spec. one green swampy place (branch) so named her","‰∞$m≤d∞é","MS","INA",789
+"branch","NC26A","355a","N","N"," ","br·∫±øntÛ","MS"," ",789
+"branch","NC26B","355b","N","N","wooded slopes included","br·∫{±ø}ntÛ","MS"," ",790
+"slash","NC26B","355b","N","N","wet arm of a branch","sl·´∫{±ø}Û","MS"," ",790
+"bog","NC29A","363(*)","N","N","sinkable","bﬁ{π}g","MS"," ",797
+"slash","NC29A","363(*)","N","N","overgrown intermittent outlet from pond to creek","sl·∫{±ø}Û","MS"," ",797
+"bog","NC32A","369","N","N","where cows sink out of sight","bµ´æ{∞´º}g","MS"," ",803
+"boggy place","NC40A","391","O","N"," ","bµ´æg±ø$ple{±ø}{s}","MS"," ",821
+"boggy place","NC54A","433","O","N","very wet","b∑∫g±ø$ple±øs","MS"," ",846
+"boggy land","NC69B","478","O","N","very wet","Âbﬁº∫g±ø$l·{∞}n{d}","MS"," ",874
+"branch","SC1A","203.1","N","N"," ","br·ntÛ","MS"," ",888
+"branch","SC1B","203.2","N","N","smaller than swamp","br·{∞}ntÛ","MS"," ",889
+"slough","SC3A","205.1","N","N","draining mud pond","sluº∫","MS"," ",893
+"boggy place","SC3A","205.1","O","N","sinkable","bﬁg±ø$ple´∫s","MS"," ",893
+"slashy place","SC3A","205.1","O","N","sinkable","sl·{±ø}Û±ø$ple´∫s","MS"," ",893
+"gallberry bush","SC3A","205.1","O","Y","grows wh.rock w/sand u.neath makes land valueless","g∑∫Ïb≤r±ø$bπÛ","MS","SUG",893
+"hogs ranged","SC3C!","205.3!","S","Y"," ","h∑Ω{∞}gz$Âre∫{±ø}nd˙d","MS","INA",895
+"bog","SC3C!","205.3!","N","N"," ","b∑Ω{∞}g","MS"," ",895
+"bog hole","SC3C!","205.3!","O","N"," ","Âb∂{∞}g$ıhoº∫πº{l}","MS"," ",895
+"bog hole","SC4A","206.1","O","N","soft place","Âb∑∫{∞}g$ı{h}o∫{∞ó}Ï","MS"," ",896
+"bog","SC4B","206.2","N","N"," ","b∑∫{∞}g","MS"," ",897
+"Princess Pond","SC4B","206.2","O","N","arm of swamp between Wright's Bluff and Summerton","ÂpÚè±´{∞}nts±øºs$ıp`µ˛æ∫{∞˛}n","MS"," ",897
+"bays","SC5A","207.1","N","N","a place where other branches would empty","be∫{∞}z","MS"," ",899
+"sloughs","SC5A","207.1","N","Y","[{π}] doubtful; place wh other branches wouldempty","sluø∫{π}z","MS","FDT",899
+"bogs","SC5A","207.1","N","N"," ","b∑´∫{∞ó}gz","MS"," ",899
+"cow bogs","SC5A","207.1","O","N"," ","Âkàµ´º∫o$ıb∑´∫{∞ó}gz","MS"," ",899
+"Johnson's Swamp","SC5B","207.2","O","N"," ","Âd˙∂ó∫nsnz$ıswèoΩ{∞}mp","MS"," ",900
+"Murray's Swamp","SC5B","207.2","O","N"," ","m≥´∫r±øºz$ıswèoΩ{∞}mp","MS"," ",900
+"Flat Swamp","SC5B","207.2","O","N"," ","flè·Ω{∞}t$swèoΩ{∞}mp","MS"," ",900
+"pond","SC5D!","207.3!","N","Y"," ","p`∑Ω∫{∞}n","MS","AUX/CNV",902
+"mud hole","SC6N","N208","O","N"," ","Âm∏æ{∞}d$ıho´ºl","MS"," ",903
+"bog","SC6N","N208","N","N"," ","b∂{∞}g","MS"," ",903
+"bog","SC6A","208.1","N","N"," ","b∂∫{πΩ}g","MS"," ",904
+"Carver's Bay","SC6B","208.2(*)","O","N"," ","Âkµæ∫∞v∞´z$ıbe´∫","MS"," ",905
+"Boggy Pond","SC6B","208.2(*)","O","N","deep, boggy","Âb∑∫{∞ó}g±ø´º$p∂ón","MS"," ",905
+"mill pond","SC6B","208.2(*)","O","N"," ","Âm±øΩl$ıp∑∫{∞ó}n","MS"," ",905
+"dairy slough","SC6B","208.2(*)","O","N"," ","Âde´∫r±ø´º$ıslèuø∫","MS"," ",905
+"Boggy Pond Slough","SC6B","208.2(*)","O","N"," ","Âb∑∫{∞}g±ø´º$ıp∂ó{∞}n$Âsluø∫","MS"," ",905
+"slough","SC6C!","208.3!","N","N"," ","slèuø∫","MS"," ",906
+"Carver's Bay","SC6C!","208.3!","O","N"," ","Âkµæ∫∞v∞´{z}$ıbe´∫","MS"," ",906
+"boggy","SC6C!","208.3!","A","N"," ","b∑∫{∞}g±ø´º","MS"," ",906
+"rivers","SC6D"," ","N","N"," ","r±´{∞}v∞´zè","MS"," ",907
+"bog","SC7A","209.1","N","N"," ","b∑´º{∞}g","MS"," ",909
+"boggy","SC7A","209.1","A","N"," ","b∑´º{∞}g±ø´º","MS"," ",909
+"swamp","SC7B","209.2","N","N"," ","swè∑º∫{∞}mp","MS","CNV",910
+"Barren Swamp","SC8B","210.2","O","N"," ","Âb≥´æ∫±øn$ısw∑Ω∫{∞}mp","MS"," ",914
+"Rock Hole Swamp","SC8B","210.2","O","N"," ","Âr∂ók$ıho´{∞}l$Âsw∑ó´∫{∞ó}mp","MS"," ",914
+"Dog Hole Swamp","SC8B","210.2","O","N"," ","Âd∑Ω∫{∞}g$ıho´{∞}l$Âsw∑ó´∫{∞ó}mp","MS"," ",914
+"Raper Bay","SC8B","210.2","O","N"," ","Âre´{∞}p∞$ıbe´∫","MS"," ",914
+"Piney Bay","SC8B","210.2","O","N"," ","Âpµº∫±øn±ø´º$ıbe´∫","MS"," ",914
+"Hell Hole Bay","SC8B","210.2","O","N"," ","Âh≤´{∞}l$ıho´∫{∞ó}l$Âbe´∫","MS"," ",914
+"Oak Swamp","SC8B","210.2","O","N"," ","Âo´{∞ó}k$ıswè∑ó∫{∞ó}mp","MS"," ",914
+"ocean bay","SC8B","210.2","O","N"," ","Âo´{∞}Û∞´n$ıbe´∫","MS"," ",914
+"wet place","SC8C","210.3","O","N"," ","Âw≤´{∞}t$ıp≈e∫{∞}s","MS","CNV",915
+"pond","SC8C","210.3","N","N","water","p`ﬁ{∞}n","MS"," ",915
+"pond","SC8C","210.3","N","N","water","p`∂´∫{∞}n","MS"," ",915
+"boggy","SC9A","211.1","A","N"," ","b∑Ω∫{∞}g±ø´º","MS"," ",916
+"bog hole","SC9B","211.2","N","N","small","Âb∂´∫{∞ó}g$ıho´∫{∞ó}l","MS"," ",917
+"lakes","SC9D!","211.4!","N","N"," ","le´∫{∞}ks","MS"," ",919
+"bog","SC9D!","211.4!","N","N"," ","b∑:{∞ó}g","MS"," ",919
+"quicksand","SC9D!","211.4!","N","N"," ","Âkw±´{∞}kıs·∫{∞}n","MS"," ",919
+"Begin Swamp","SC9D!","211.4!","O","N"," ","Âb±´gà±øºn$ıswè∑ó´º∫{∞}mp","MS"," ",919
+"slough","SC10B!","212.2!","N","N","low waterway connecting swamps; slow-moving water","slèuøæ∫","MS"," ",921
+"boggy","SC10C!","212.3!","A","N"," ","Âb∑∫{∞}g±ø´º","MS"," ",922
+"bog","SC10C!","212.3!","N","N"," ","b∑∫{∞}g","MS"," ",922
+"slough","SC10C!","212.3!","N","Y"," ","slèuº∫","MS","SUG",922
+"bog","SC11N","N213","N","N","sink in","b∑∫g","MS"," ",923
+"Hellhole Swamp","SC11E","213.4","O","N"," ","Âh≤lçıho´º∫{l}$Âsw∑º∫{∞}mp","MS"," ",929
+"mire","SC11G!","213.7!","N","Y","""in crossword puzzles¢","mµ´∫{j}∞","MS","HRD",931
+"bog","SC11G!","213.7!","N","Y","""in crossword puzzles¢","b∑º∫{∞}g","MS","HRD",931
+"bayou","SC12A","214.1","N","N"," ","Âbµæ∫±ø|±øºu","MS"," ",935
+"spring","SC12A","214.1","N","N"," ","spÚè±´{∞}Ó","MS"," ",935
+"boggy places","SC12A","214.1","O","N","same as `springy places'","Âbﬁ{∞}g±ø´º$ıp`≈èeæ∫{∞}s±øz","MS"," ",935
+"springy places","SC12A","214.1","O","N","same as `boggy places'","spÚè±´{∞}Ó±ø´º$p`≈eæ∫{∞}s±øºz","MS"," ",935
+"bog","SC12B","214.2","N","N","sink","b∑´∫g","MS"," ",936
+"bog","SC13","213.6","N","N"," ","bµº∫{∞}g","MS"," ",937
+"bog hole","SC14A","215.1","O","N","quick sand","b∑∫g$ho´∫{∞}l","MS"," ",938
+"Little Salkehatchie Swamp","SC15A","216.1","O","N","primary stress on `swamp'","ıl±´{∞}têl$Âs∑Ωº∫{Ï}k±ø´ºıh·∫{∞}tÛ±ø´º$swè∑ó∫{∞}mp","MS"," ",940
+"lakes","SC15B","216.2","N","N"," ","le∫{∞}ks","MS"," ",941
+"quicksand","SC15B","216.2","N","N","don't have","Âkwè±´{∞}kıs·∫{∞}n","MS"," ",941
+"mud holes","SC15B","216.2","O","N","""like a lake¢","Âm∏´{∞}d$ıho∫{∞}Ïz","MS"," ",941
+"spring head","SC15C","216.3","O","N"," ","ÂspÚ±´{∞}Ó$ıh≤´∫{∞}d","MS"," ",942
+"boggy land","SC16N","N217","O","N"," ","Âb∑´{∞}g±ø´º$ıl·∫{∞}n","MS"," ",943
+"boggy land","SC17A","218.1","O","N"," ","Âb∑´{∞}g±ø´º$ıl·{∞}n","MS"," ",945
+"lake","SC17A","218.1","N","N"," ","le´∫{±øº}k","MS"," ",945
+"main sink","SC17B","218.2","O","N"," ","Âme´∫{∞}n$ıs±´{∞}Ók","MS"," ",946
+"main run","SC17B","218.2","O","N"," ","Âme´{∞}n$ır∏´{∞}n","MS"," ",946
+"Salt Catcher Swamp","SC17D","218.4","O","N"," ","Âs∑Ω{∞}Ït$ıkà`≤´{∞}tÛ∞$Âswè∑Ω∫{∞}mp","MS"," ",948
+"spring head","SC17D","218.4","O","N"," ","ÂspÚè±´{∞}Ó$ıh≤´{∞}d","MS"," ",948
+"quicksand","SC17D","218.4","N","N"," ","Âk`w±´kıs·{∞}n","MS"," ",948
+"boggy land","SC17D","218.4","O","N","very soft","Âb∑Ω{∞}g±ø´º$ıl·{∞}n","MS"," ",948
+"bog holes","SC17D","218.4","O","N"," ","Âb∑{∞}g$ıho∫{∞}Ïz","MS"," ",948
+"fresh","SC18N","N219","A","Y"," ","fr≤´{±ø}Û","MS","INA",949
+"upper part","SC18N","N219","O","Y"," ","Â∏ó´ºp∞Ω$p`aæ{∞}t","MS","INA",949
+"pond","SC18A","219.1","N","Y"," ","p`∂´∫{∞}nd","MS","CNV/INA",950
+"bog","SC19N","N220","N","N","sinkable","b∑Ω∫g","MS"," ",954
+"pond","SC19A","220.1","N","N"," ","p`ﬁ∫{∞}n","MS"," ",955
+"bog","SC19C","220.2(*)","N","N"," ","b∑∫{∞}g","MS"," ",957
+"slough","SC20B","221.2","N","N"," ","slçèuøº∫","MS"," ",961
+"slough","SC20D!","221.4!","N","N"," ","slèuøæ∫{w}","MS"," ",963
+"catfish bay","SC20D!","221.4!","O","N"," ","Âcá·{≤}tıf±´{∞}Û$Âbe´∫±ø","MS"," ",963
+"a dead run of the river","SC20D!","221.4!","O","N"," ","∞$Âd≤´{∞}d$ır¶Ωn$∞$‰∞$Âr±øv∞","MS"," ",963
+"boggy land","SC23A","224.1","O","N","soft, cows sink in","Âbﬁ{∞}g±ø´º$ıl·∫{∞}n","MS"," ",970
+"pond","SC23B","224.2","N","N"," ","p`∑Ω∫{∞}n","MS"," ",971
+"pond","SC23B","224.2","N","N"," ","p`ﬁó{∞}nd","MS"," ",971
+"bog","SC23B","224.2","N","N","soft place","b∂∫og","MS"," ",971
+"bog","SC23E!","224.5!","N","Y","soft place","b∑Ω∫{∞}g","MS","HES",974
+"suck hole","SC24B","225.11","O","N"," ","Âs¶Ωº{∞}k$ıho∫{∞}l","MS"," ",977
+"bog","SC24B","225.11","N","N","""is wet land you can't stand up on¢","b∑Ω{∞}g","MS"," ",977
+"mill ponds","SC24B","225.11","O","N","""have to have a dam¢","Âm±´{∞}l$ıp`∑Ω{∞}nz{zè}","MS"," ",977
+"boggy","SC24B","225.11","A","N"," ","Âb∂´{∞ó}g±æiæ","MS"," ",977
+"swimming ponds","SC24C","225.2","O","Y","[µΩ] doubtful; a pond in community","Âswè±´m±ºn$ıp`µΩ{∞}nz","MS","DDT",978
+"bog hole","SC25A","226.1","O","N","in a swamp; sinkable","Âbµ´æg$ho∫{∞}Ï","MS"," ",980
+"not tenable","SC26A","227.1","K","Y"," ","nﬁºt$Ât≤´{∞}n∞bl","MS","INA/SIC",983
+"boggy","SC26B!","227.2!","A","N"," ","Âb∑∫{∞}g±ø´º","MS"," ",984
+"dry swamp","SC27A","228.1","O","N"," ","ÂdÚa´±ø$ısw∑∫{∞}mp","MS"," ",985
+"Copper Swamp","SC27A","228.1","O","N"," ","Âk`πp∞$sw∑∫{∞}mp","MS"," ",985
+"pond","SC27A","228.1","N","N"," ","p`∑∫{∞}n{d}","MS"," ",985
+"bog","SC28A","229.1","N","N"," ","Âb∂g","MS"," ",987
+"boggy land","SC28A","229.1","O","N"," ","Âb∂g±ø´º$ıl·∫{≤}n","MS"," ",987
+"boggy land","SC28B","217.2","O","N","not much","Âbﬁg±øº{±ø}$ıl·∫{≤}n","MS"," ",988
+"boggy land","SC29C","230.3","O","N","soft, cattle get stuck","Âbﬁ{∞}g±ø´º$ıl·{∞}n","MS"," ",993
+"soggy land","SC30B","231.2","O","N"," ","Âs∂∫{∑}g±ø´º$ıl·∫{≤}n","MS"," ",997
+"bog","SC30B","231.2","N","N","same as `soggy land'","b∂´∫{∑}'gè","MS"," ",997
+"marsh","SC30B","231.2","N","N","same as `soggy land'","mﬁ∫{∞}Û","MS"," ",997
+"island","SC30C!","231.3!","N","N"," ","Âaæ∫{∞}l∞´n","MS","CNV",998
+"boggy place","SC31A","232.1","O","N"," ","Âbµæ{∞}∞g±ø´º$ıp≈èe´∫{∞}s","MS"," ",999
+"bog","SC33B","234.2","N","N","small place","b∂´oΩg","MS"," ",1006
+"bog hole","SC34B","235.2","O","N"," ","Âb∂∫{∑}g$ıhoº∫πºÏ","MS"," ",1008
+"bulrush patch","SC34B","235.2","O","N"," ","Âbπº{∞}ÏıÚ¶Ω{∞}Û$p`·´{≤}tÛ","MS"," ",1008
+"boggy","SC35B","236.2","A","N"," ","Âb∂∫∂´g±æiæ","MS"," ",1011
+"slough","SC35C","236.3(*)","N","N","wide, shallow","sluø","MS"," ",1012
+"bog","SC36A","237.1","N","N"," ","b∂´∫∑g","MS"," ",1015
+"bogs","SC36B","237.2","N","N","water standing","bﬁó∫{∞}gz","MS"," ",1016
+"bogs","SC36B","237.2","N","N","water standing","b∂∫{∞}gz","MS"," ",1016
+"bog","SC36C","237.3","N","N","small soft place","b∂´∫∑g","MS"," ",1017
+"slough","SC37","238","N","N"," ","sluº∫","MS"," ",1019
+"bog","SC38N","N239","N","N"," ","b∑Ωº∫oºg","MS"," ",1020
+"Pale Pond","SC38N","N239","O","N"," ","Âp`e∫{±}Ï$ıp`ﬁn","MS"," ",1020
+"island","SC38N","N239","N","N"," ","Âa´æ∫±øl∞´n","MS"," ",1020
+"bog","SC38A","239.1","N","N"," ","b∂´∫g","MS"," ",1021
+"can't","SC38A","239.1","V","Y"," ","Âk`·˛∫±ø˛nt","MS","INA",1021
+"bog","SC39A","240.1","N","N","""seemingly has no bottom¢","bﬁg","MS"," ",1026
+"seemingly has no bottom","SC39A","240.1","E","Y"," ","si∫jm±ænl±ø´º$Âh·z$ınoºπ$Âbﬁtê∞´m","MS","INA",1026
+"bayous","SC39A","240.1","N","N"," ","baæ∫|∞z","MS"," ",1026
+"mire","SC39B!","240.2!","N","N","""got no bottom¢","mµ∫∞","MS"," ",1027
+"got no bottom","SC39B!","240.2!","E","Y"," ","gﬁt$no∫π$bﬁÒ∞´m","MS","INA",1027
+"bog","SC39B!","240.2!","N","N","very sticky","b∂´∫{∑}g","MS"," ",1027
+"bog","SC39B!","240.2!","N","N","very sticky","b∂∫{∑}g","MS"," ",1027
+"bog","SC39B!","240.2!","N","N","very sticky","b∂g","MS"," ",1027
+"boggy","SC40A","241.1","A","N"," ","b∂´∫oΩg±ø´º","MS"," ",1028
+"boggy","SC40A","241.1","A","N"," ","bﬁºg±øº","MS"," ",1028
+"Florida","SC40A","241.1","N","Y"," ","flèﬁº¥›∞d∞Ωæ","MS","INA",1028
+"bog","SC40B","241.2","N","N"," ","b∂∂´g","MS"," ",1029
+"mire","SC40B","241.2","N","N"," ","mµ´º∫∞›","MS"," ",1029
+"boggy place","SC41B","242.2","O","N","softer than swamp","Âbﬁºg±ø´º$Âp`lèe∫{iøî}s","MS"," ",1031
+"suck hole","SC41B","242.2","O","N","softer than swamp","Âs¶Ωk$ıhoº∫πºÏ","MS"," ",1031
+"bog","SC42A","243.1","N","N"," ","bﬁº∫{∞}g","MS"," ",1034
+"boggy land","SC42A","243.1","O","N"," ","bﬁ{∞}g{iøî}$l·´∫{±øΩ}n","MS"," ",1034
+"mire","SC42A","243.1","N","N"," ","maéæ¥","MS"," ",1034
+"bog","SC42A","243.1","N","N"," ","bﬁg","MS"," ",1034
+"cow mires","SC42A","243.1","O","N"," ","Âkà{j}`a´∫o$Âmaæ∫¥z{zè}","MS"," ",1034
+"bogs","SC42C!","243.3!","N","N"," ","bﬁógz","MS"," ",1036
+"bogs","SC42C!","243.3!","N","N"," ","b∂gz","MS"," ",1036
+"savannas","SC42C!","243.3!","N","Y","in Peedee section","s∞Âv·∫n∞zè","MS","HRD",1036
+"slough","SC42C!","243.3!","N","N","washed-out place in a swamp","slèuøuøæ","MS"," ",1036
+"bayou","SC42D!","243.4!","N","Y","southwest Louisiana","baæ{±ø}jπºu","MS","SUG/HRD",1037
+"bog","SC43B","244.2","N","N"," ","b∂∂´g","MS"," ",1040
+"bog","SC43B","244.2","N","N"," ","b∂´oΩg","MS"," ",1040
+"bog","SC43C","244.3","N","Y","[{∑´}] doubtful; little place","b∂´{∑Ω}g","MS","FDT",1041
+"bog","SC44B","245.2","N","N","very soft; dangerous for cattle","b∂´og","MS"," ",1043
+"boggy","GA2A","247.1","A","N"," ","bﬁ{∑}g±ø´º","MS","CNV",1054
+"boggy","GA2A","247.1","A","N"," ","bﬁó{∞ó}g±ø´º","MS"," ",1054
+"bog","GA3A","248.1","N","N","sinkable","b∂´g","MS"," ",1056
+"quicksand","GA3B","248.2","N","N"," ","Âkw±økıs·{∞}n","MS"," ",1057
+"bog","GA3B","248.2","N","N","some around; stays soft","bﬁ´{∑}g","MS"," ",1057
+"slash","GA4N","N249","N","N","sour, low land","slaÛ","MS"," ",1058
+"bog","GA4N","N249","N","Y","sink","b∑Ω∫g","MS","SUG",1058
+"slough","GA4N","N249","N","Y","arm of river 'round an island","slu´º","MS","SUG",1058
+"sowed grass","GA4A","249.1","O","N","fresh water","Âso´∫d$ıgrá·Ω{∞}s","MS"," ",1059
+"bog","GA4B","249.2","N","N"," ","b∑´∫{∞ó}g","MS"," ",1060
+"Buffalo Swamp","GA4B","249.2","O","N"," ","Âb•∫f∞loº$ıswè∑´∫{∞}mp","MS"," ",1060
+"bog","GA5A","250.1","N","N"," ","b∑Ω∫{∞}g","MS"," ",1062
+"woods","GA5A","250.1","N","Y"," ","wπóΩ{∞}dz","MS","INA",1062
+"timbered land","GA5A","250.1","O","Y"," ","Ât`±´{∞}mb∞´d$ıl·{∞}n","MS","INA",1062
+"pond","GA5A","250.1","N","N"," ","p∑óΩ∫{∞}n","MS","CNV",1062
+"savanna","GA5C","250.3","N","N","= swamp land; thickly underbrushed, water standing","s∞Âv·Ω∫{∞}n∞","MS"," ",1064
+"sand land","GA6A","251.1","O","Y","all land [here] is","Âsa´∫{∞}n$ıla´∫{∞}n","MS","INA",1067
+"Okefenokee Swamp","GA6B!","251.2!","O","N"," ","Âo∫k∞f±øıno∫k$Âswè∑ó´∫{∞ó}mp","MS","-0",1068
+"Okefenokee Swamp","GA7","256","O","N"," ","Âoº∫πºkf∞ınoº∫k$Âsw∂´∫∑mp","MS"," ",1069
+"boggy","GA8A","257.1","A","N","wet place","Âbµæ{∞}g±ø´º","MS"," ",1070
+"bog hole","GA8A","257.1","N","N"," ","Âb∂óg$ıho∫l","MS"," ",1070
+"quicksand","GA8B","257.2","N","N"," ","Âkw±´ºkıs·∫{∞}n","MS"," ",1071
+"bogs","GA8B","257.2","N","N"," ","bﬁó´º{∞}gz","MS"," ",1071
+"quagmire","GA8B","257.2","N","N"," ","Âkwe∫{±ø}gımaæ∫¥","MS","SIC",1071
+"slough","GA8B","257.2","N","N","dead stream, backwater from river","slèuøæ∫","MS"," ",1071
+"Okefenokee","GA9A","257A.1","N","Y"," ","ıo{π}k±øf±øÂno{π}k","MS","INA",1072
+"bog","GA9A","257A.1","N","N"," ","b∂´og","MS"," ",1072
+"boggy","GA9A","257A.1","A","N"," ","b∂´{∑}g±ø","MS","CNV",1072
+"boggy","GA9A","257A.1","A","N"," ","b∂´∞g±ø","MS"," ",1072
+"slough","GA9A","257A.1","N","Y"," ","sluø{uøæ}","MS","HES/DBT",1072
+"Okefenokee","GA9B","257A.2","N","Y"," ","ıo{π}kf±øÂno{π}k","MS","INA",1073
+"slash","GA13A","260.1","N","Y","a swampy pond-like place","sl·Ω∫Û","MS","SUG",1079
+"slough","GA13A","260.1","N","N","runs out at edge of river or creek","slu´º∫","MS"," ",1079
+"bog hole","GA13A","260.1","O","N","sink in swamp","Âb∑Ω∫g$ıho´∫l","MS"," ",1079
+"bogs","GA14B","261.3","N","N","soft place in swamp","bﬁ{∞}gz","MS"," ",1082
+"bog","GA14B","261.3","N","N","soft place in swamp","b∂´{∞}g","MS"," ",1082
+"boggy","GA14B","261.3","A","N"," ","b∂´g±ø´º","MS"," ",1082
+"Hal's Pond","GA14C","261.2","O","N","rice swamp on farm","Âh·{∞}lz$ıp`∂{∞}nd","MS"," ",1083
+"bog hole","GA15B","262.2","O","N"," ","Âb∑Ω∫∑g$ıhoº∫l","MS"," ",1085
+"boggy","GA15B","262.2","A","N"," ","boΩg±ø","MS"," ",1085
+"bog holes","GA15B","262.2","O","N"," ","Âb∂´∑g$ıhoº∫{∞}lz","MS"," ",1085
+"pond","GA15B","262.2","N","N"," ","p`∑º∫{∞}n","MS"," ",1085
+"boggy land","GA16A","263.2","O","N","cars get stuck","Âb∂g±ø´º$ıl·∫{≤}n","MS"," ",1086
+"boggy land","GA16B","263.1","O","N","soft","Âb∂´{∞}g±ø´º$l·∫{∞}n","MS"," ",1087
+"boggy","GA16C","263.21","A","N"," ","bµægà±ø´","MS"," ",1088
+"surface land","GA18A","264A.1","N","Y"," ","Âs≥æ¥f±øs$ıl·´∫nd","MS","INA",1092
+"pond","GA18A","264A.1","N","N"," ","p`µænd","MS"," ",1092
+"Pullman's Lake","GA18B","264A.2","O","N"," ","Âpπlm∞nz$ıle{±ø}k","MS"," ",1093
+"boggy land","GA19A","265.1","O","N"," ","Âb∂´∑›g±ø´º$ıl·∫{∞}n","MS"," ",1094
+"quicksand","GA20A","266.1","N","N","""I call it¢","Âkwè±´{∞}kıs·∫{∞}n","MS"," ",1096
+"bog","GA20A","266.1","N","N"," ","b∂´∫{∑}g","MS"," ",1096
+"boggy places","GA20A","266.1","O","N"," ","Âbµæ{∞}g±ø´º$ıple´∫{±ø}s±øºz","MS","CNV",1096
+"boggy","GA22B","268A.2","A","N","soft, cows get stuck","Âb∂´∫{∑}g±ø´º","MS"," ",1101
+"slough","GA23D!","268.3","N","N","low land, standing ""mucky¢ water; get stuck","slèuøº∫wà","MS"," ",1105
+"mucky","GA23D!","268.3","A","Y"," ","Âm¶Ωk{x}±ø´º","MS","INA",1105
+"bog","GA24B","269.2","N","N"," ","b∂´∑g","MS"," ",1110
+"boggy","GA24B","269.2","A","N"," ","bﬁg±´æ","MS"," ",1110
+"mog","GA24B","269.2","N","Y"," ","m∂´∫∑g","MS","HRD/SIC",1110
+"mire","GA24B","269.2","N","Y"," ","ma´æ∫∞","MS","HRD",1110
+"pond","GA25N","N269A","N","N"," ","p`∑∫{∞}n","MS"," ",1111
+"bog","GA25N","N269A","N","N"," ","b∂´og","MS"," ",1111
+"quicksand","GA25N","N269A","N","Y"," ","Âkwikıs·∫{∞}n","MS","DBT",1111
+"pond","GA28","271a","N","N"," ","p`µæ∫nd","MS"," ",1114
+"mire down","GA29B","271.2","E","N"," ","Âmµ´º∫∞$ıdµ´on","MS"," ",1116
+"cow mire","GA30A","272.1(*)","N","N","""blue mud¢","Âk`aæ∫o›º$ımaæ∫{∞}","MS"," ",1117
+"pond","GA30A","272.1(*)","N","N","nothin' but water","p`ﬁº∫{∞}n","MS"," ",1117
+"blue mud","GA30A","272.1(*)","O","Y"," ","Âb≈uø∫$ım¶Ω{∞}d","MS","INA",1117
+"cow mire","GA30B","272.2(*)","O","N","very soft","Âk`aæ∫o$ımaæ∫∞","MS"," ",1118
+"mire","GA30B","272.2(*)","N","N"," ","maæ∫∞","MS"," ",1118
+"mire it up","GA34N","N273","E","N"," ","Âmµ:{¥}$±øºt$ı¶Ωp","MS"," ",1126
+"bogs","GA34B","273.2","N","N"," ","b∂∫∑gz","MS"," ",1128
+"suck hole","GA36N","N274A","O","Y","in river","Âs∏´ºk$ı{h}oº{πº}Ï","MS","INA",1130
+"miry","GA36N","N274A","A","Y"," ","mµ∫r±ø´","MS","INA",1130
+"bog","GA37B","274.2","N","N"," ","b∂∫∑›g","MS"," ",1134
+"mire","GA37B","274.2","N","N"," ","maæ∫∞","MS"," ",1134
+"creek basins","GA37E!","274.8!","O","Y"," ","Âkrii´k$ıbe±øsnz","MS","INA",1137
+"river basins","GA37E!","274.8!","O","Y"," ","Âr±v∞$ıbe±øsnz","MS","INA",1137
+"bog","GA37G!","274.4!","N","N"," ","b∂∫∑›g","MS"," ",1139
+"quagmire","GA37H!","274.5!","N","N"," ","Âkwèﬁgımaæ∫∞","MS"," ",1140
+"bog","GA37H!","274.5!","N","Y","oldest name","bﬁ{∞}g","MS","OLD",1140
+"boggy","GA38","275","A","Y"," ","bµ∫g±ø´","MS","SUG",1142
+"boggy","GA41","276B","A","N"," ","b∂{o}g±ø","MS"," ",1145
+"marshy","GA41","276B","A","N"," ","Âmµ∫Û±ø{±ø}","MS"," ",1145
+"mud hole","GA42A","276.1","O","N"," ","Âm¶Ωd$ıhoø´æ∫πøæl","MS","SIC",1146
+"mire","GA42B","276.2","N","N","= bog hole","mµé∫¥","MS"," ",1147
+"tussock","GA42B","276.2","N","Y","dry ground in swamp","t`¶Ωz∞´k","MS","INA",1147
+"calf pasture","GA42B","276.2","O","N"," ","Âkà`·´≤f$ıp·{≤}st¥´","MS","SIC",1147
+"runaround","GA34N","N273","N","N"," ","Âr¶Ωnır·Ωon","MS"," ",1126
+"island","GA34N","N273","N","N"," ","a´æ∫{∞}l∞´n","MS"," ",1126
+"mud hole","GA44A","278.1","O","N"," ","Âm¶Ωd$ıhoº∫{πº}Ï","MS"," ",1149
+"bog","GA44A","278.1","N","Y"," ","b∑∑ºg","MS","SUG/HRD",1149
+"boggy place","GA44A","278.1","O","N"," ","b∑∑ºg±ø´º$ıp`lèe∫±øºs","MS"," ",1149
+"mud hole","GA44B","278.2","O","N"," ","Âm¶Ωd$ıhoº∫{πº}Ï","MS"," ",1150
+"bog","GA44B","278.2","N","Y","= `mud hole'","bﬁ´∫∑g","MS","SUG",1150
+"boggy place","GA44C","278.3","O","N"," ","Âbµæ{∞}g±ø´º$ıp`lèe{±ø}s","MS"," ",1151
+"mire-up","GA44C","278.3","N","N"," ","Âmµé∫¥ı¶Ωp","MS"," ",1151
+"boggy","FL1","252","A","N"," ","Âb∑{∞}g±ø´º","MS"," ",1154
+"pine ridge","FL2A","253.1","O","Y"," ","pa´æ∫±øn$ır±´æ{∞}d˙","MS","INA",1155
+"boggy place","FL3B!","254.2!","O","N"," ","Âb∑î{∞}g±ø´º$ıplèe´∫{∞}s","MS"," ",1159
+"slough","FL4","254A","N","N"," ","sÏπøæuø´æ","MS"," ",1160
+"sloughs","FL4","254A","N","N"," ","sluøºu´z","MS"," ",1160
+"fish ponds","FL5B","255.2","O","N"," ","Âf±´∫Û$ıp∑{∞}nz","MS"," ",1162
+"marsh","NY23C","462b","N","N","same as swamp","mµé¥Û","MS"," ",66
+"marsh","NY31A","478a","N","N","large acreage","mµé¥Û","MS"," ",88
+"marsh grass","NY34C","485","O","Y"," ","Âmµé¥Û$ıgr·∫{∞}s","MS","INA",97
+"marsh","NY34D!","486!","N","Y","on edge of lake","mµé¥Û","MS","SUG",98
+"chair flag","NY49D","522b","O","Y","for caning chair bottoms","ÂtÛ≤¥$ıfÏ·∫{≤}g","MS","INA",138
+"marsh","NY51E!","525e!","N","N","cattails, not often; ""Montezuma Marshes¢","m•éΩ¥Û","MS"," ",145
+"marshy land","NY51E!","525e!","O","N"," ","Âm•é¥Û±øº$ıl·∫{∞}n","MS"," ",145
+"Montezuma Marshes","NY51E!","525e!","O","N","wooded","Âmµntê∞ızuøΩuøm∞$Âmµé´¥Û±øºz","MS"," ",145
+"marsh","NY52B","528","N","N","on lake edge","mµé¥Û","MS"," ",147
+"marshes","NY58B","539b","N","N","at foot of bay, on edge of lake","mµé¥Û±øºz","MS"," ",161
+"marsh","NY58D!","539d!","N","N","wetter than swamp","mµ∫∞Û","MS"," ",163
+"marsh","NY58D!","539d!","N","N","wetter than swamp","ma∫∞Û","MS"," ",163
+"marsh","NY60B!","546!","N","N","wild rice","m•éΩ¥Û","MS"," ",169
+"marsh land","NY60B!","546!","O","N","wild rice","Âm•éΩ¥Û$ıl·∫n","MS"," ",169
+"bog land","NY62D!","551d!","O","N","on lake","Âbµg$ıl·∫{∞}n","MS"," ",175
+"cranberry marsh","NY64B","557b","O","N"," ","Âkrá·nıb≤é¥±´æ$Âmµé¥Û","MS","CNV",181
+"marsh","PA1E!","55!","N","N","fresh","mﬁ¥Û","MS"," ",234
+"marsh","PA4A","63","N","N","on river","mﬁº¥Û","MS"," ",243
+"marsh","PA4B!","64!","N","N","on river","mﬁ¥Û","MS"," ",244
+"marsh","WV39C!","371!","N","N"," ","mµ¥Û","MS"," ",464
+"marsh","WV52C!","260!","N","N"," ","mµ¥Û","MS"," ",493
+"marsh","DE2C"," ","N","N","fresh, on river","mó∂´º¥Û","MS"," ",504
+"marsh","MD9N","N46","N","N","fresh","m∂´∫{∞}Û","MS"," ",531
+"marsh","MD13E!","58!","N","N","fresh","mﬁ∫{∞}Û","MS"," ",543
+"marsh","MD22A","77","N","N","fresh","mﬁº∫{∞}Û","MS"," ",563
+"marshy","VA6A","113","A","Y"," ","m·Û±ø´","MS","INA",586
+"frog marsh","VA8A","123","O","N","fresh","fr∑Ω{∑}g$m·{±ø}Û","MS"," ",590
+"marsh","VA12A","131","N","N","salt on river","mﬁº:Û","MS"," ",600
+"marsh","VA12A","131","N","Y","salt on river","m·{∞´º}Û","MS","SUG/OLD",600
+"marsh","VA12B!","132!","N","N","on river, (salt), fresh also","mﬁº:Û","MS"," ",601
+"marsh","VA13B","134","N","N","stagnant","mﬁºﬁ´ºÛ","MS"," ",603
+"marsh","VA16A","141","N","N"," ","mµæ:Û","MS"," ",610
+"marsh","VA32!","175!","N","N","reeds","m∂´º∫{∂´}Û","MS"," ",644
+"marsh","VA45A","201","N","N","along river, grass","m·∫{±ø}Û","MS"," ",667
+"marsh","VA45B","202","N","N"," ","mµæ:Û","MS"," ",668
+"marshy land","VA51A","219","O","N","wet grass","m·∫{±øΩ}Û±ø$l·∫{∞}nd","MS"," ",679
+"marsh","VA54A","229","N","N","on river, fresh","m·{±øΩ}Û","MS"," ",687
+"marsh","VA55A","233(*)","N","N","fresh","mﬁº¥Û","MS"," ",689
+"marshy place","VA65B","258","O","N","sinkable","Âm·Û±ø$pleΩ±øs","MS"," ",710
+"marsh","NC7A","315(*)","N","Y","grass, fresh","mµ∫{∞}Û","MS","AUX",741
+"marsh","NC8N","N317","N","N","no trees, fresh","m·Û","MS"," ",743
+"marsh","NC40A","391","N","Y","same as boggy place","mµ∫{∞}Û","MS","SUG",821
+"marsh","NC62A","447","N","N","cranberries","mµ´æ¥Û","MS"," ",859
+"marsh","NC62A","447","N","N","cranberries","m·{±øΩ}Û","MS"," ",859
+"marsh","NC73A","491","N","N","for cranberries","m·{±øΩ}Û","MS"," ",882
+"fresh water marsh","SC6C!","208.3!","O","N"," ","Âfrè≤´{∞}Û$ıw∑∫{∞}tê∞$Âmµæ∫∞´Û","MS"," ",906
+"white marsh","SC6C!","208.3!","O","N"," ","Âhw∞±øt$ımµæ∫∞´Û","MS"," ",906
+"marsh land","SC6D"," "," ","N","no trees, marsh grass (flat-leaved)","Âmµæ∫{∞}Û$ıl·{∞}n","MS"," ",907
+"fresh marsh","SC6D"," "," ","N"," ","ÂfÚ≤´{∞}Û$ımµæ∫{∞}Û","MS"," ",907
+"fresh water marsh","SC7A","209.1","O","N"," ","ÂfÚè≤´{∞}Û$ıw∑º{∞}Ò∞$Âmµ∫∞Û","MS"," ",909
+"fresh water marsh","SC7B","209.2","O","N"," ","ÂfÚè≤´æ{∞}Û$ıw∑º∫{∞}tê∞$Âmµæ∫{∞}Û","MS"," ",910
+"fresh water marsh","SC7D!","209.4!","O","N"," ","ÂfÚ≤´æ{∞}Û$ıw∑º∫{∞}tê∞$Âmµæ∫{∞}Û","MS"," ",912
+"marshy","SC8A","210.1","A","Y"," ","mµæ∫∞›Û±ø´º","MS","INA",913
+"marsh","SC8A","210.1","N","N","""all boggy¢","mµæ∫∞Û","MS"," ",913
+"fresh water marsh","SC11J!","213.10!","O","N"," ","ÂfÚ≤´Û$ıw∑´º∫{∞}tê∞$Âmﬁ∫{∞}Û","MS"," ",934
+"tidal marsh","SC19D!","220.3!","O","N","fresh water","Âtµ∫±ødl$ımﬁ∫∞Û","MS"," ",958
+"fresh water marsh","SC19D!","220.3!","O","N"," ","Âfrè≤´Û$ıw∑Ò∞$Âmﬁ∫∞Û","MS"," ",958
+"marsh","SC22B","223.2","N","N","fresh, on river","mµ∫{∞}Û","MS"," ",968
+"marshy field","SC25A","226.1","O","N","fresh water, grass","mﬁº:{∞}Û±ø´$fi∫{∞}Ï","MS"," ",980
+"marsh","SC33A","234.1","N","N","opener than swamp; fresh","m·{±ø}Û","MS"," ",1005
+"marsh","SC33B","234.2","N","Y"," ","mﬁ∫{∞}Û","MS","DBT",1006
+"marshy place","SC34B","235.2","O","N"," ","Âmﬁéº∫¥æÛ±æ{iæ}$ıp`≈èe∫{±}s","MS"," ",1008
+"marsh","SC41A","242.1","N","N","where cows stick in the middle of a swamp","m·{±ø}Û","MS"," ",1030
+"marshy place","SC41B","242.2","O","N","softer than swamp","Âmµæ∫Û±øº$p`lèe∫iø{s}","MS"," ",1031
+"marshes","SC43B","244.2","N","N","marshy; inland","m∂îéº∫¥Û±øºz","MS"," ",1040
+"marshy","SC43B","244.2","A","Y"," ","mﬁé´º∫¥Û±ø´º","MS","INA/CNV",1040
+"mire","SC44A","245.1","N","Y","marshy; some say, old way of calling","mµ´∫¥","MS","OLD/HRD",1042
+"marshy","SC44A","245.1","A","Y"," ","mﬁó∫¥Û±øΩº","MS","INA",1042
+"miry","SC44A","245.1","A","Y"," ","mµ´∫r±ø´º","MS","INA",1042
+"fresh water marshes","GA4B","249.2","O","N","no trees","Âfr≤´{∞}Û$ıw∑´{∞}tê∞$Âmµ∫∞Û±øºz","MS"," ",1060
+"fresh water marshes","GA6B!","251.2!","O","N","no growth but grass","Âfr≤´{∞}Û$ıw∑´∫{∞}tê∞$Âmﬁ∫∞Û±øºz","MS"," ",1068
+"marsh","GA7","256","N","N","""little fresh water places¢","mµ∫∞Û","MS"," ",1069
+"fresh water marsh","GA13B!","260.2!","O","N"," ","Âfrè≤æ{∞}Û$ıw∑´{∞}tê∞$Âmµ∫{∞}Û","MS"," ",1080
+"marsh land","GA20B","266.2","O","N","fresh water, grass","Âmﬁº∫∞éÛ$ıl·∫{∞}n","MS"," ",1097
+"marsh","GA24A","269.1","N","N","part of swamp where bushes grow","m·∫{±ø}Û","MS"," ",1109
+"marshes","GA24B","269.2","N","N","= ""boggy¢ part of swamp","mﬁº∫∞Û±øºz","MS","CNV",1110
+"miry land","GA35N","N273A","O","N"," ","Âmµ∫r±ø$ıl·´∫n","MS"," ",1129
+"marshy land","GA35N","N273A","O","N"," ","Âm≥´æ{±ø}Û±ø$ıl·´∫{≤}n","MS"," ",1129
+"fresh water marsh","FL1","252","O","N"," ","Âfr≤´Û$ıw∑∫∞éÒ∞$Âmﬁ∫∞Û","MS"," ",1154
+"marshy land","FL5A","255.1","O","N"," ","Âmµæ∫∞Û±ø´º$ıl·∫{≤}n","MS"," ",1161
+"marsh","NY30A","475a","N","N","cedar and tamarack","mµé´æ¥éÛ","MS"," ",83
+"marshland","NY23B","462a","N","N","along lakes","Âmµé¥Ûıl·´∫{∞}n","MS"," ",65
+"high water mark","NY25A","465","O","Y"," ","Âhﬁ∫±ø$ıwµætê¥$Âmµé¥k","MS","INA",69
+"","","","","","","","","",

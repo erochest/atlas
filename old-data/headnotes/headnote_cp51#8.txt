@@ -1,0 +1,78 @@
+give me an apple (cp51#8.asc)
+
+Items
+=====
+                          a  orange    1
+                             a acre    3
+                      a acre or two    1
+                            a angel    1
+                            a apple    3
+                       a apple tree    1
+                           a armful    1
+                            a attic    2
+                              a axe    1
+                             a axle    1
+                            a eagle    1
+                             a inch    2
+                            a often    1
+                         a outhouse    1
+                             a oven    1
+                              a owl    2
+                             a oxen    1
+                           an apple    1
+                      an apple tree    1
+                              apple    2
+                        apple trees    1
+                             apples    3
+               could I have a apple    1
+                            give me    5
+                          give me a    1
+                    give me a apple   41
+                  give me a package    1
+                   give me an apple    9
+                      give me apple    1
+                  give me one apple    1
+             give me one them apple    1
+            give me one these apple    1
+                                 NR    5
+                        peach trees    1
+                         pear trees    2
+                              pears    1
+                     see you a hour    1
+                   you wouldn't ***    1
+
+
+
+
+L: If there are some apples and a child wants one, he says _____ apple.
+M: There's a bowl of fruit, peaches and apples; somebody offers you a peach 	and you say, "No, give me _____."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 51#8, the following items are inappropriate: "pear trees," "a oxen," "a acre," "a angel," "a attic," "a outhouse," "a axle," "see you a hour," "a eagle," "a  orange," "a inch," "a attic," "a acre or two," and "a armful."   Marginalia is inappropriate as well.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 51 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+51#P
+51#P
+51#1
+		51#1 (no question)
+51#2		51#2
+51#3		51#3
+51#4		51#3
+51#5		51#4
+51#6		
+51#7a		51#6
+51#7b		51#5

@@ -1,0 +1,1573 @@
+"kitchen","NY1","50","N","N"," "," ","k±tó±¿½n","MS",1
+"kitchen","NY2A","51.1","N","N"," "," ","k±tó±¿½n","MS",2
+"kitchen","NY2B","51.2","N","N"," "," ","k±tón","MS",3
+"kitchen","NY2C","51.3","N","N"," "," ","k±¿tón","MS",4
+"kitchen","NY3A","401","N","N"," "," ","k{h}±tó±¿n","MS",5
+"kitchen","NY3B","403","N","N"," "," ","k{h}±tó°«n","MS",6
+"kitchen","NY3C","402","N","N"," "," ","k{h}±tó°n","MS",7
+"kitchen","NY3D","404","N","N"," "," ","k±tó±¿½n","MS",8
+"kitchen","NY4A","405","N","N"," "," ","k{h}±tón","MS",9
+"kitchen","NY4B","407","N","N"," "," ","k±tó±¿n","MS",10
+"kitchen","NY4C","408","N","N"," "," ","k{h}±tó°n","MS",11
+"kitchen","NY5A","409","N","N"," "," ","k±tó°«n","MS",12
+"kitchen","NY5B","410","N","N"," "," ","k±tó°n","MS",13
+"kitchen","NY5C","411","N","N"," "," ","k±¾tó°n","MS",14
+"kitchen","NY5D","412","N","N"," "," ","k±tó°n","MS",15
+"kitchen","NY5E","413","N","N"," "," ","k{h}±tó°n","MS",16
+"kitchen","NY5F","414","N","N"," "," ","k{h}±tó°n","MS",17
+"kitchen","NY5G","415","N","N"," "," ","k{h}±tó°n","MS",18
+"kitchen","NY5H!","416!","N","N"," "," ","k±ºtó°n","MS",19
+"kitchen","NY5I!","417!","N","N"," "," ","k{h}±ºtó°n","MS",20
+"kitchen","NY6A","418","N","N"," "," ","k{h}±tó°n","MS",21
+"kitchen","NY6B","419","N","N"," "," ","k±tó°n","MS",22
+"kitchen","NY7A","420","N","N"," "," ","k±tó°n","MS",23
+"kitchen","NY7B","421","N","N"," "," ","k{h}±tó°n","MS",24
+"kitchen","NY7C","422","N","N"," "," ","k{h}±tó°n","MS",25
+"kitchen","NY7D","423","N","N"," "," ","k{h}±¾tó°n","MS",26
+"kitchen","NY7E","424","N","N"," "," ","k{h}±tó°n","MS",27
+"kitchen","NY7F","425","N","N"," "," ","k±tó°İn","MS",28
+"kitchen","NY7G","426","N","N"," "," ","k{h}±tó°n","MS",29
+"kitchen","NY7H","427","N","N"," "," ","k±½¾tó°n","MS",30
+"kitchen","NY7I","428","N","N"," "," ","k±tón","MS",31
+"kitchen","NY7J!","429!","N","N"," "," ","k±tó°n","MS",32
+"kitchen","NY7K!","430!","N","N"," "," ","k{h}±tó°n","MS",33
+"kitchen","NY7L!","431!","N","N"," "," ","k±tón","MS",34
+"kitchen","NY7M!","432!","N","N"," "," ","k±tó°n","MS",35
+"kitchen","NY8","432b","N","N"," "," ","k{h}±tó°«n","MS",36
+"kitchen","NY9A","432c","N","N"," "," ","k{h}±½¾tó°«n","MS",37
+"kitchen","NY9B","433","N","N"," "," ","k{h}±tó°«n","MS",38
+"kitchen","NY9C","434","N","N"," "," ","k±tó°«n","MS",39
+"kitchen","NY10A","435","N","N"," "," ","k±tó°«n","MS",40
+"kitchen","NY10B!","436!","N","N"," "," ","k±tó°«n","MS",41
+"kitchen","NY11","438","N","N"," "," ","k±tó°n","MS",42
+"kitchen","NY12A","439(*)","N","N"," "," ","k±tó±¿İ½n","MS",43
+"kitchen","NY12A","439(*)","N","Y"," ","AUX","k{h}±«tó°n","MS",43
+"kitchen","NY12B","440","N","N"," "," ","k{h}±'tó°n","MS",44
+"kitchen","NY12C!","441!","N","N"," "," ","k±tó°n","MS",45
+"kitchen","NY13A","443","N","N"," "," ","k±tó°n","MS",46
+"kitchen","NY13B!","444!","N","N"," "," ","k±tó°n","MS",47
+"kitchen","NY14A","445","N","N"," "," ","k±tó°n","MS",48
+"kitchen","NY14B","446","N","N"," "," ","åk±tó±¿½n","MS",49
+"kitchen","NY15A","447","N","N"," "," ","k±tó±¿½n","MS",50
+"kitchen","NY15B","448","N","N"," "," ","k{h}±tó°n","MS",51
+"kitchen","NY16A","449","N","N"," "," ","k{h}±tó°n","MS",52
+"kitchen","NY16B","450","N","N"," "," ","k{h}±tó°n","MS",53
+"kitchen","NY17A","451(*)","N","N"," "," ","k±tó±¿n","MS",54
+"kitchen","NY17A","451(*)","N","Y"," ","AUX","k{h}±tó°n","MS",54
+"kitchen","NY17B","452","N","N"," "," ","k{h}±tó°n","MS",55
+"kitchen","NY18A","453","N","N"," "," ","k±tó±¿n","MS",56
+"kitchen","NY18B","454","N","N"," "," ","k±tó°n","MS",57
+"kitchen","NY18C!","455!","N","N"," "," ","k±tó°n","MS",58
+"kitchen","NY19","456","N","N"," "," ","k±tó±¿½n","MS",59
+"kitchen","NY20A","457","N","N"," "," ","k±tó±¿½n","MS",60
+"kitchen","NY20B","458","N","N"," "," ","k±tó±¿½n","MS",61
+"kitchen","NY21","459","N","N"," "," ","k{h}±tó±¿½n","MS",62
+"kitchen","NY22","460","N","N"," "," ","k±tó°n","MS",63
+"kitchen","NY23A","461","N","N"," "," ","kˆ±«¾tó±¿¼n","MS",64
+"kitchen","NY23B","462a","N","N"," ","CNV","kˆ±«tó±¿¼î","MS",65
+"kitchen","NY23C","462b","N","N"," "," ","kˆ±«tó±¾n","MS",66
+"kitchen","NY24A","463","N","N"," "," ","k±tó±¿n","MS",67
+"kitchen","NY24B!","464!","N","N"," "," ","k±tó±¿½n","MS",68
+"kitchen","NY25A","465","N","N"," "," ","k`±¿tó±¿n","MS",69
+"kitchen","NY25B","466","N","N"," "," ","k±¿tó±¿n","MS",70
+"kitchen","NY26A","467","N","N"," "," ","kˆ±«tó°«n","MS",71
+"summer kitchen","NY26A","467","O","N"," "," ","ås¸«m´$õk±¾tó°«n","MS",71
+"kitchen","NY26B","468","N","N"," "," ","kˆ±«tó°«n","MS",72
+"summer kitchen","NY26B","468","O","N"," "," ","ås¥¾m´$õkˆ±«tó°«n","MS",72
+"kitchen","NY26C","469","N","N"," "," ","k`±«tó°«n","MS",73
+"kitchen","NY27A","470","N","N"," "," ","k±«tó°«n","MS",74
+"summer kitchen","NY27A","470","O","N","together with ""dining room¢"," ","ås¸«m´$õk`±«tó°«n","MS",74
+"dining room","NY27A","470","O","N","together with ""kitchen¢"," ","åd¥º±¿¼n±¿¼n$õr¹«º{u}m","MS",74
+"kitchen","NY27B","471","N","N"," "," ","kˆ±«tó°«n","MS",75
+"kitchen","NY27C","472","N","N"," "," ","k`±«tó°«n","MS",76
+"summer kitchen","NY27C","472","O","N","closed off in cold weather"," ","ås¸½m´$õkˆ±«tó°«n","MS",76
+"kitchen","NY28A","473a","N","N"," "," ","kˆ±«tó±¿¼n","MS",77
+"summer kitchen","NY28A","473a","O","N","part of the shed"," ","s¸½m´$kˆ±«tó±¿¼n","MS",77
+"kitchen","NY28B","473b(*)","N","N"," "," ","kˆ±«tó°«n","MS",78
+"summer kitchen","NY28B","473b(*)","O","N"," "," ","õs¸½m´$åkˆ±«tó°«n","MS",78
+"summer kitchen","NY28C"," ","O","N"," "," ","õs¸½m´$åk`±«tó°«n"," ",79
+"kitchen","NY29A","474a","N","N"," "," ","k±¾tó°«n","MS",80
+"kitchen","NY29B","474b","N","N"," "," ","åkˆ±«tó±¿¼n","MS",81
+"kitchen","NY29C","474c","N","N"," "," ","åkˆ±«tó°«n","MS",82
+"summer kitchen","NY29C","474c","O","N"," "," ","õs¸½m´$åkˆ±«tó±¿½n","MS",82
+"kitchen","NY30A","475a","N","N"," "," ","kˆ±«tó±¿n","MS",83
+"kitchen","NY30B","475b","N","N"," "," ","kˆ±tó±¿n","MS",84
+"kitchen","NY30C","475c","N","N"," "," ","kˆ±«tó°«n","MS",85
+"kitchen","NY30D","475d","N","N"," "," ","kˆ±«tó°«n","MS",86
+"kitchen","NY30E","475e","N","N"," "," ","kˆ±«tó°«n","MS",87
+"summer kitchen","NY30E","475e","O","N","= cold room"," ","ås¸«m´$õkˆ±«tó±¿¼n","MS",87
+"kitchen","NY31A","478a","N","N"," "," ","kˆ±«tó±¿¼n","MS",88
+"kitchen","NY31B","478b","N","N"," ","CNV","åkˆ±«tó°«n","MS",89
+"summer kitchen","NY31B","478b","O","N"," "," ","ås¸«m´$õkˆ±tó°«n","MS",89
+"kitchen stove","NY31B","478b","O","Y"," ","INA","åkˆ±«tó°«n$õsto¿v","MS",89
+"kitchen","NY32A","479a","N","N"," "," ","åkˆ±«tó±¿n","MS",90
+"kitchen","NY32B","479b","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",91
+"kitchen","NY33A","480","N","N"," "," ","kˆ{j}±«{°}tó±¿½n","MS",92
+"kitchen","NY33B","481","N","N"," "," ","kˆ±«tó±¿½n","MS",93
+"kitchen","NY33C","482","N","N"," "," ","åkˆ±«tó±¿¼n","MS",94
+"kitchen","NY34A","483","N","N"," ","CNV","åkˆ±«tó±¿«n","MS",95
+"kitchen","NY34B","484","N","N"," "," ","kˆ±¿¼tó°«n","MS",96
+"summer kitchen","NY34B","484","O","N","to keep house cooler"," ","ås¸«¼m´$õk`±¿¼tó°«n","MS",96
+"shed","NY34B","484","N","Y"," ","INA","åó²«º{°}d","MS",96
+"kitchen","NY34C","485","N","N"," "," ","kˆ±«tó±¿n","MS",97
+"kitchen","NY34C","485","N","N"," ","CNV","kˆ±«tó°«n","MS",97
+"kitchen","NY34D!","486!","N","N"," "," ","kˆ±«tó±¿¼n","MS",98
+"summer kitchen","NY34D!","486!","O","N"," "," ","ås¸¼m´$õkˆ±«tó°«n","MS",98
+"kitchen","NY35A","487","N","N"," "," ","k±tó±¿½n","MS",99
+"kitchen","NY35B","488","N","N"," "," ","k±tó±¿½n","MS",100
+"kitchen","NY35C!","489!","N","N"," "," ","k±tó±¿n","MS",101
+"kitchen","NY36A","491","N","N"," "," ","k±tón","MS",102
+"kitchen","NY36B","492","N","N"," "," ","k±«tó±¿½n","MS",103
+"kitchen","NY37A","493","N","N"," "," ","k±tó±¿½n","MS",104
+"kitchen","NY37B","494","N","N"," "," ","k±tó°n","MS",105
+"kitchen","NY37C!","495!","N","N"," "," ","k±tó±¿½n","MS",106
+"kitchen","NY38A","497(*)","N","N"," "," ","k±tó±¿½n","MS",107
+"kitchen","NY38B","498","N","N"," "," ","k±tó±¿½n","MS",108
+"kitchen","NY38C"," ","N","N"," "," ","k{h}±tó±¿½n"," ",109
+"kitchen","NY39A","499","N","N"," "," ","k±tó±¿½n","MS",110
+"kitchen","NY39B","500","N","N"," "," ","k±tó±¿î","MS",111
+"kitchen","NY40A","501","N","N"," "," ","k±tó±¿½n","MS",112
+"kitchen","NY40B","502","N","N"," "," ","k±tó±¿½n","MS",113
+"kitchen","NY41","504","N","N"," "," ","k±tó±¿½n","MS",114
+"kitchen","NY42A","505","N","N"," "," ","k±tó±¿n","MS",115
+"kitchen","NY42B","506","N","N"," "," ","k±tó°İn","MS",116
+"kitchen","NY43A","507","N","N"," "," ","k±tó±¿n","MS",117
+"kitchen","NY43B","507b","N","N"," "," ","k±tó±¿½n","MS",118
+"kitchen","NY43C!","508!","N","N"," "," ","k±tó±¿½n","MS",119
+"kitchen","NY44A","511","N","N"," "," ","åk±ºtó±¿n","MS",120
+"kitchen","NY44B","512","N","N"," "," ","k±tó±¿n","MS",121
+"kitchen","NY45A","513a","N","N"," "," ","kˆ±ºtó±¿¼n","MS",122
+"kitchen","NY45B","513b","N","N"," "," ","kˆ±«tó±¿¼n","MS",123
+"back kitchen","NY45B","513b","O","N","used for summer"," ","åbá«k$õkˆ±«tó±¿¼n","MS",123
+"sitting room","NY45B","513b","O","N","used for winter"," ","ås±¾t±¿¼î$õò¹«ºm","MS",123
+"kitchen","NY45C","513c","N","N"," "," ","kˆ±«tó±¿n","MS",124
+"kitchen","NY45D!","513d!","N","N"," "," ","kˆ±«tó°«n","MS",125
+"kitchen","NY46A","515a","N","N"," "," ","kˆ±«tó±¿¼n‡","MS",126
+"summer kitchen","NY46A","515a","O","N"," "," ","ås¸«m´$õkˆ±«tó°«n","MS",126
+"kitchen","NY46B","515b","N","N"," "," ","kˆ`±tó±¿n","MS",127
+"summer kitchen","NY46B","515b","O","N"," "," ","s¸«¼m´$k`±tó±¿½n","MS",127
+"back room  kitchen","NY46B","515b","O","N","an enclosed porch in his house"," ","báºk$ruºm$k±tó±¾n","MS",127
+"kitchen","NY46C","515c","N","N"," "," ","k`±tó°«n","MS",128
+"summer kitchen","NY46C","515c","O","N"," "," ","ås¸«¼m´$õk±tó±¿¼n","MS",128
+"kitchen","NY47A","517(*)","N","N"," "," ","kˆ±«tó±¿n","MS",129
+"kitchen","NY47A","517(*)","N","Y"," ","AUX","k±tó±¿½n","MS",129
+"kitchen","NY47B","518","N","N"," "," ","k±tó±¿½n","MS",130
+"kitchen","NY48A","519a","N","N"," "," ","kˆ±«tó±¿n","MS",131
+"summer kitchen","NY48A","519a","O","N","for hot weather"," ","õs¸«m´$åkˆ±«tó±¿n","MS",131
+"kitchen","NY48A","519a","N","N"," ","CNV","k±tó±n","MS",131
+"kitchen","NY48B","519b","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",132
+"kitchen","NY48C","519c","N","N"," "," ","kˆ±«tó±¿n","MS",133
+"summer kitchen","NY48C","519c","O","N"," "," ","ås¸«m´$õkˆ±«tó±¿n","MS",133
+"basement kitchen","NY48C","519c","O","N"," "," ","åbe½±¿¼sm°«nt$õkˆ±«tó±¿n","MS",133
+"kitchen","NY48D","519d","N","N"," ","CNV","kˆ±«tó°«n","MS",134
+"commode","NY48D","519d","N","Y"," ","INA","õk°åm·«ºd","MS",134
+"kitchen","NY49A","520","N","N"," "," ","kˆ±«tó±¿¼n","MS",135
+"kitchen","NY49B","521","N","N"," "," ","k±tó±¿n","MS",136
+"kitchen","NY49C","522a","N","N"," "," ","k±tó±¿n","MS",137
+"summer kitchen","NY49C","522a","O","N"," "," ","ås¸¼m´$k±tó±¿¼n","MS",137
+"kitchen","NY49C","522a","N","N"," "," ","k±tó±¿¼n","MS",137
+"kitchen","NY49D","522b","N","N"," "," ","k±tó±¿n","MS",138
+"kitchen","NY50A","523","N","N"," "," ","kˆ±«tó±¿½n","MS",139
+"kitchen","NY50B","524","N","N"," "," ","kˆ±«tó±¿n","MS",140
+"second kitchen","NY50B","524","O","N","woodhouse used for a)"," ","õs²«k°«nt$åkˆ±«tó±¿¼n","MS",140
+"cook room","NY50B","524","O","N","separate"," ","åk¹¼k$õò¹¼u¼m","MS",140
+"kitchen","NY51A","525a","N","N"," "," ","kˆ±«tó±¿¼n","MS",141
+"kitchen","NY51B","525b","N","N"," "," ","kˆ±«tó±¿½n","MS",142
+"summer kitchen","NY51B","525b","O","N"," "," ","ås¸«m´$õkˆ±«tó±¿«¼n","MS",142
+"kitchen","NY51C","525c","N","N"," "," ","kˆ±«tó±¿n","MS",143
+"summer kitchen","NY51C","525c","O","N","keep heat away from house"," ","ås¸«¼m´$õkˆ±¾tó±¿n","MS",143
+"kitchen","NY51D","525d","N","N"," "," ","kˆ±«tó±¿¼n","MS",144
+"kitchen","NY51D","525d","N","N"," "," ","kˆ±«tón","MS",144
+"kitchen","NY51E!","525e!","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",145
+"kitchen","NY52A","527","N","N"," "," ","k±tó±¿½n","MS",146
+"summer kitchen","NY52A","527","O","N"," "," ","ås¸½m´$õkˆ±«tó±¿¼n","MS",146
+"back kitchen","NY52A","527","O","N"," "," ","åbáº$õk±«tó±¿n","MS",146
+"kitchen","NY52A","527","N","N"," ","CNV","kˆ±«tó±¿n","MS",146
+"kitchen","NY52B","528","N","N"," "," ","kˆ±«tó±¿¼n","MS",147
+"kitchen","NY52C","528b","N","N"," "," ","åk±tó±¿¼n","MS",148
+"kitchen","NY53A","529","N","N"," "," ","kˆ±«tó±¿n","MS",149
+"kitchen","NY53B!","530!","N","N"," "," ","kˆ±«tó±¿¼n","MS",150
+"kitchen","NY54A","531","N","N"," "," ","kˆ`±tó±¿n","MS",151
+"kitchen","NY54B","532","N","N"," "," ","kˆ±tó±¿¼n","MS",152
+"kitchen","NY55A","533","N","N"," "," ","kˆ±ºtó±¿n","MS",153
+"summer kitchen","NY55A","533","O","N"," "," ","ås¥«¾m´$õkˆ±«tó±¿¼n","MS",153
+"kitchen","NY55B","534","N","N"," "," ","kˆ±«tó±¿¼n","MS",154
+"summer kitchen","NY55B","534","O","N"," "," ","ås¸¼m´$kˆ±«tó±¿¼n","MS",154
+"kitchen","NY56A","535","N","N"," "," ","kˆ±«tó±¾n","MS",155
+"back kitchen","NY56A","535","O","N","summer"," ","åbá«k$k±¾tó±¿n","MS",155
+"kitchen","NY56B","536","N","N"," "," ","kˆ±ºtó±¿¼n‡","MS",156
+"kitchen","NY57A","537a","N","N"," "," ","kˆ±«tó±¿¼n","MS",157
+"kitchen","NY57A","537a","N","N"," ","CNV","kˆ±«tó±¿n","MS",157
+"kitchen","NY57B","537b","N","N"," "," ","kˆ±«tó°«n","MS",158
+"summer kitchen","NY57B","537b","O","Y"," ","NEW","õs¥¾m´$åkˆ±«tó°«n","MS",158
+"kitchen","NY57C!","537c!","N","N"," "," ","kˆ±«tó±¿n","MS",159
+"summer kitchen","NY57C!","537c!","O","N"," "," ","õs¸½m´$åkˆ±«tó±¿n","MS",159
+"kitchen","NY58A","539a","N","N"," ","CNV","kˆ±tó±¿¼n","MS",160
+"kitchen","NY58B","539b","N","N"," "," ","kˆ±«tó±¾n","MS",161
+"kitchen","NY58C","539c","N","N"," "," ","kˆ±«tó±¿¼n","MS",162
+"kitchen","NY58D!","539d!","N","N"," "," ","kˆ±«tó±¿¼n","MS",163
+"kitchen","NY58E!","539e!","N","N"," "," ","kˆ±«tó°«n","MS",164
+"kitchen","NY58F!","539f!","N","N"," "," ","kˆ±«tó°«n","MS",165
+"summer kitchen","NY59A","543","O","N"," "," ","ås¸½m´$õkˆ±«tó±¿n","MS",166
+"kitchen","NY59B","544","N","N"," "," ","k±tó±¿½n","MS",167
+"kitchen","NY60A","545","N","N"," "," ","kˆ±«tó±¿¼n","MS",168
+"kitchen","NY60B!","546!","N","N"," "," ","kˆ±«tó±¿¼n","MS",169
+"kitchen","NY61A","547","N","N"," "," ","åkˆ±«tó°«n","MS",170
+"cook room","NY61A","547","O","Y"," ","SUG/NEW","åk¹k$õr¹º{u}m","MS",170
+"kitchen","NY61A","547","N","N"," "," ","kˆ`±«tó±¿¼n","MS",170
+"kitchen","NY61A","547","N","N"," ","CNV","k±«tó±¿¼n","MS",170
+"kitchen","NY61B","548","O","N"," "," ","k±«tó±¿¼n","MS",171
+"kitchen","NY62A","551a","N","N","built on; separate"," ","kˆ±«tó±¿¼n","MS",172
+"kitchen","NY62B","551b","N","N"," "," ","kˆ±«tó±¿¼n","MS",173
+"kitchen","NY62B","551b","N","N"," "," ","kˆ±tón","MS",173
+"kitchen","NY62C","551c","N","N"," "," ","kˆ±«tó±¿¼n","MS",174
+"kitchen","NY62D!","551d!","N","N"," "," ","kˆ±«tó°«n","MS",175
+"kitchen","NY63A","556a","N","N"," "," ","kˆ±«tó±¿¼n","MS",176
+"kitchen","NY63B","556b","N","N"," "," ","kˆ±«tó±¿¼n","MS",177
+"summer kitchen","NY63B","556b","O","N"," "," ","ås¸¼m´$õkˆ±«tó°«n","MS",177
+"kitchen","NY63C","556c","N","N"," "," ","k±tó±¿İ½n","MS",178
+"kitchen","NY63D!","556d!","N","N"," "," ","kˆ±«tó±¿¼n","MS",179
+"wash stand","NY63D!","556d!","O","Y"," ","INA","åw¶ó$õstáº{°}n","MS",179
+"wash hand stands","NY63D!","556d!","O","Y"," ","INA/NEW","åwŞó$õhá{°}n{d}$åstáº{°}nz","MS",179
+"kitchen","NY64A","557a","N","N"," "," ","kˆ±«tó±¿n","MS",180
+"summer kitchen","NY64A","557a","O","N"," "," ","ås¸½m´$õk±«tó±¿n","MS",180
+"kitchen","NY64B","557b","N","N"," "," ","kˆ±«tó±¿¼n","MS",181
+"summer kitchen","NY64B","557b","O","N"," "," ","ås¸¼m´$kˆ±«tó±¿¼n","MS",181
+"kitchen","NY64C!","557c!","N","N"," "," ","åk±ºtó±¿¼n","MS",182
+"kitchen","NJ1A","1","N","N"," "," ","k±tó°n","MS",183
+"kitchen","NJ1B","2","N","N"," "," ","k±tó°n","MS",184
+"kitchen","NJ2A","3(*)","N","N"," "," ","k±tó°n","MS",185
+"kitchen","NJ2B","4","N","N"," "," ","k±tó°n","MS",186
+"cook house","NJ2B","4","O","N","separate building -- summer house"," ","åk¹k$õhá½º¹s","MS",186
+"kitchen","NJ3A","5","N","N"," "," ","k±—¾tó°n","MS",187
+"kitchen","NJ3B","6","N","N"," "," ","k±tó°n","MS",188
+"kitchen","NJ4A","7","N","N"," "," ","k±tó°n","MS",189
+"kitchen","NJ4B","8","N","N"," "," ","k±tó°n","MS",190
+"kitchen","NJ5A","9","N","N"," "," ","k±tó°n","MS",191
+"kitchen","NJ5B","10","N","N"," "," ","k±tó°n","MS",192
+"kitchen","NJ6A","11","N","N"," "," ","k{h}±tó°n","MS",193
+"kitchen","NJ6B","12","N","N"," "," ","åk±tó°n","MS",194
+"kitchen","NJ7A","17","N","N"," "," ","k±tó°n","MS",195
+"kitchen","NJ7B!","18!","N","N"," "," ","k±½tó°«n","MS",196
+"kitchen","NJ8A","19","N","N"," "," ","k±tó°«n","MS",197
+"kitchen","NJ8B","20","N","N"," "," ","k{h}±tó°n","MS",198
+"kitchen","NJ9A","21","N","N"," "," ","k±tó°n","MS",199
+"kitchen","NJ9B","22","N","N"," "," ","k±tó°İ«n","MS",200
+"kitchen","NJ10A","24b","N","N"," "," ","k±½¾tó°n","MS",201
+"kitchen","NJ10B","23","N","N"," "," ","kˆ{h}±tó°n","MS",202
+"kitchen","NJ10C","24","N","N"," "," ","k±tó°n","MS",203
+"kitchen","NJ10D!","24c!","N","N"," "," ","k{h}±tó°n","MS",204
+"kitchen","NJ11A","25","N","N"," "," ","k±tó°n","MS",205
+"kitchen","NJ11B","26a","N","N"," "," ","k±tó°n","MS",206
+"kitchen","NJ11C","26b","N","N"," "," ","k±tó°«n","MS",207
+"kitchen","NJ12A","27","N","N"," "," ","k{h}±tó°n","MS",208
+"kitchen","NJ12B","28","N","N"," "," ","k±tó°n","MS",209
+"kitchen","NJ13A","29","N","N"," "," ","k±tó°İn","MS",210
+"kitchen","NJ13B","30","N","N"," "," ","k±tó°İn","MS",211
+"kitchen","NJ14A","31","N","N"," "," ","k±tó°n","MS",212
+"kitchen","NJ14B","32","N","N"," "," ","k±½¾tó°n","MS",213
+"cook kitchen","NJ14B","32","O","N","= summer kitchen"," ","k¹k$k±tó°n","MS",213
+"kitchen","NJ15A","33","N","N"," "," ","k±tó°n","MS",214
+"kitchen","NJ15B","34","N","N"," "," ","k{h}±tó°n","MS",215
+"kitchen","NJ16A","35","N","N"," "," ","k±tó°«¼n","MS",216
+"kitchen","NJ16B","36","N","N"," "," ","k±tó°n","MS",217
+"kitchen","NJ17A","37","N","N"," "," ","k±tó°n","MS",218
+"kitchen","NJ17B","38","N","N"," "," ","k±ºtó°n","MS",219
+"kitchen","NJ18A","41","N","N"," "," ","k{h}±tó°n","MS",220
+"kitchen","NJ18B","42","N","N"," "," ","k{h}±tó°n","MS",221
+"kitchen","NJ18C!","43!","N","N"," "," ","k{h}±tó°n","MS",222
+"kitchen","NJ18D!","44!","N","N"," "," ","k±tó°n","MS",223
+"kitchen","NJ19A","45","N","N"," "," ","k±tó°n","MS",224
+"kitchen","NJ19B!","46!","N","N"," "," ","k±'tó°n","MS",225
+"kitchen","NJ20A","47","N","N"," "," ","k±tó°n","MS",226
+"kookhuis","NJ20A","47","N","Y","Dutch","INA","koxh²½¹s","MS",226
+"kitchen","NJ20B","47b","N","N"," "," ","k{h}±tó°n","MS",227
+"kitchen","NJ21A","48","N","N"," "," ","k{h}±tó°n","MS",228
+"kitchen","NJ21B","49","N","N"," "," ","k{h}±tó°n","MS",229
+"kitchen","PA1A","51","N","N"," "," ","k±tó°n","MS",230
+"kitchen","PA1B","52","N","N"," "," ","k{h}±tó°n","MS",231
+"kitchen","PA1C","53","N","N"," "," ","k±tó°n","MS",232
+"kitchen","PA1D","54","N","N"," "," ","k±tó°n","MS",233
+"kitchen","PA1E!","55!","N","N"," "," ","k±tó°n","MS",234
+"kitchen","PA1F!","56!","N","N"," "," ","k±tó°n","MS",235
+"kitchen","PA1G!","57!","N","N"," "," ","k±½tó°n","MS",236
+"kitchen","PA1H!","58!","N","N"," "," ","k±tó°İn","MS",237
+"kitchen","PA2A","59","N","N"," "," ","k±tó°İn","MS",238
+"kitchen","PA2B","60","N","N"," "," ","k±½tó°n","MS",239
+"kitchen","PA3A","61","N","N"," "," ","k±½tó°n","MS",240
+"kitchen","PA3B","62","N","N"," "," ","k±tó°n","MS",241
+"kitchen","PA3C","62b","N","N"," "," ","k±tón","MS",242
+"kitchen","PA4A","63","N","N"," "," ","k±tón","MS",243
+"kitchen","PA4B!","64!","N","N"," "," ","k±tó°İn","MS",244
+"kitchen","PA5A","65(*)","N","N"," "," ","k±tó°n","MS",245
+"kitchen","PA5B","65b","N","N"," "," ","k±«tó°n","MS",246
+"kitchen","PA5C","66","N","N"," "," ","k{h}±tó°n","MS",247
+"kitchen","PA5D","67","N","N"," "," ","k±tó°n","MS",248
+"kitchen","PA5E!","68!","N","N"," "," ","k±tó°n","MS",249
+"kitchen","PA6A","69","N","N"," "," ","k±tón","MS",250
+"kitchen","PA6B","71","N","N"," "," ","k±{°}tó°İn","MS",251
+"cookery","PA6B","71","N","Y"," ","NEW","k¹¼kr±¿","MS",251
+"kitchen","PA6C","71b","N","N"," "," ","k”±t”ón","MS",252
+"kitchen","PA6D!","72!","N","N"," "," ","k±tó°n","MS",253
+"kitchen","PA7A","73","N","N"," "," ","k±tó°«n","MS",254
+"kitchen","PA7B","74","N","N"," "," ","k±tó°n","MS",255
+"kitchen","PA7C","75","N","N"," "," ","k±tón","MS",256
+"kitchen","PA7D!","76!","N","N"," "," ","k±tó°n","MS",257
+"kitchen","PA8A","77","N","N"," "," ","k±tó°«n","MS",258
+"kitchen","PA8B","78","N","N"," "," ","k±tó°n","MS",259
+"kitchen","PA8C","79","N","N"," "," ","k±tó±n","MS",260
+"kitchen","PA8D!","80!","N","N"," "," ","k±tó°n","MS",261
+"kitchen","PA9A","83","N","N"," "," ","k±tón","MS",262
+"kitchen","PA9B","83b","N","N"," "," ","k±½ºtón","MS",263
+"kitchen","PA9C!","84!","N","N"," "," ","k±tó°n","MS",264
+"kitchen","PA10","87","N","N"," "," ","k±tó°n","MS",265
+"kitchen","PA11A","89","N","N"," "," ","k±tó°n","MS",266
+"kitchen","PA11B","90(*)","N","N"," "," ","k±tó°n","MS",267
+"kitchen","PA11B","90(*)","N","Y"," ","AUX","k±tó°«n","MS",267
+"kitchen","PA12A","91","N","N"," "," ","k±tó°n","MS",268
+"kitchen","PA12B","92","N","N"," "," ","k±tó°n","MS",269
+"kitchen","PA13A","93","N","N"," "," ","k±tó°n","MS",270
+"kitchen","PA13B","94","N","N"," "," ","k±tó°n","MS",271
+"kitchen","PA14A","95(*)","N","N"," "," ","k±tó°n","MS",272
+"kitchen","PA14A","95(*)","N","Y"," ","AUX","k±İtón","MS",272
+"kitchen","PA14B","96","N","N"," "," ","k±İtó°«n","MS",273
+"NR","PA14C"," "," ","N"," "," "," "," ",274
+"kitchen","PA15A","99","N","N"," "," ","k±tó±¿½n","MS",275
+"kitchen","PA15B","99b","N","N"," "," ","k±tó°«n","MS",276
+"kitchen","PA15C!","100!","N","N"," "," ","k±tó°n","MS",277
+"kitchen","PA16A","101","N","N"," "," ","k±tón","MS",278
+"kitchen","PA16B","102","N","N"," "," ","k±tó°n","MS",279
+"kitchen","PA16C","103","N","N"," "," ","k±tón","MS",280
+"kitchen","PA17A","105","N","N"," "," ","k±tón","MS",281
+"kitchen","PA17B","106","N","N"," "," ","åk±tó°n","MS",282
+"kitchen","PA18A","107","N","N"," "," ","k±tó°n","MS",283
+"kitchen","PA18B!","108!","N","N"," "," ","k±tó°n","MS",284
+"kitchen","PA19A","113","N","N"," "," ","k±ºtó°n","MS",285
+"kitchen","PA19B","114","N","N"," "," ","k±tó°«n","MS",286
+"kitchen","PA20A","115","N","N"," "," ","k±tó°n","MS",287
+"kitchen","PA20B","116","N","N"," "," ","k±tó°«n","MS",288
+"kitchen","PA21A","117","N","N"," "," ","k±tó±¿½n","MS",289
+"kitchen","PA21B","118","N","N"," "," ","k±tó±¿½n","MS",290
+"kitchen","PA22A","119","N","N","""cooking¢ (preparing) in the buttery"," ","k±tó±¿½n","MS",291
+"kitchen","PA22B","120","N","N"," "," ","k±tó±¿½n","MS",292
+"kitchen","PA23A","121","N","N"," "," ","k±tó±¿½n","MS",293
+"kitchen","PA23B","122","N","N"," "," ","k±tó±¿İ½n","MS",294
+"kitchen","PA24A","123","N","N"," "," ","k±tó±¿½n","MS",295
+"kitchen","PA24B","124","N","N"," "," ","åk±tó±¿İ½n","MS",296
+"kitchen","PA25A","125","N","N"," "," ","k±tó±¿½¾n","MS",297
+"kitchen","PA25B","126","N","N"," "," ","k±tó±¿İ½¾n","MS",298
+"kitchen","PA26A","127","N","N"," "," ","k±tó±¿½n","MS",299
+"kitchen","PA26B","128","N","N"," "," ","k±tó±¿½n","MS",300
+"kitchen","PA27A","131","N","N"," "," ","k±tó±¿½n","MS",301
+"kitchen","PA27B","132","N","N"," "," ","k±tó±¿½n","MS",302
+"kitchen","PA28A","135","N","N"," "," ","k±tó°n","MS",303
+"kitchen","PA28B!","136!","N","N"," "," ","k±tó°n","MS",304
+"kitchen","PA29A","139(*)","N","N"," "," ","k±tó°n","MS",305
+"kitchen","PA29B","140","N","N"," "," ","k±tó°n","MS",306
+"kitchen","PA30A","143","N","N"," "," ","k±tó±¿½n","MS",307
+"kitchen","PA30B","144","N","N"," "," ","k±tó±¿İ½n","MS",308
+"kitchen","PA31A","145","N","N"," "," ","k±tó±¿½n","MS",309
+"kitchen","PA31B","146","N","N"," "," ","k±tó±¿½n","MS",310
+"kitchen","PA32A","147","N","N"," "," ","k±ºtó°n","MS",311
+"kitchen","PA32B","148","N","N"," "," ","k±tó°«n","MS",312
+"kitchen","PA33A","151","N","N"," "," ","k±tón","MS",313
+"kitchen","PA33B","152","N","N"," "," ","k±½tó°n","MS",314
+"kitchen","PA34A","155","N","N"," "," ","k±tó°n","MS",315
+"kitchen","PA34B","156","N","N"," "," ","k±tó°İn","MS",316
+"kitchen","PA34C!","155b!","N","N"," "," ","k±½tó°n","MS",317
+"kitchen","PA35A","157","N","N"," "," ","k±tó°n","MS",318
+"kitchen","PA35B","158(*)","N","N"," "," ","k±tó°n","MS",319
+"NR","PA35C"," "," ","N"," "," "," "," ",320
+"kitchen","PA36A","159","N","N"," "," ","k±tó°n","MS",321
+"kitchen","PA36B","160","N","N"," "," ","k±tó°n","MS",322
+"kitchen","PA37A","161(*)","N","N"," "," ","k±tó°n","MS",323
+"kitchen","PA37B","162","N","N"," "," ","k±tó°n","MS",324
+"NR","PA37C"," "," ","N"," "," "," "," ",325
+"kitchen","PA38A","163","N","N"," "," ","k±tó°n","MS",326
+"kitchen","PA38B","164","N","N"," "," ","k±tó°«n","MS",327
+"kitchen","PA39A","165","N","N"," "," ","k±tó°n","MS",328
+"kitchen","PA39B","166","N","N"," "," ","k±tó°n","MS",329
+"kitchen","PA40A","167","N","N"," "," ","k±tó°n","MS",330
+"kitchen","PA40B","168","N","N"," "," ","k±½tó°n","MS",331
+"kitchen","PA41A","171","N","N"," "," ","k±tó°n","MS",332
+"kitchen","PA41B","172","N","N"," "," ","k±tó°n","MS",333
+"kitchen","PA42A","175","N","N"," "," ","åk±tó°n","MS",334
+"kitchen","PA42B","176","N","N"," "," ","åk±tó°n","MS",335
+"kitchen","PA43A","177","N","N"," "," ","k±tó°n","MS",336
+"kitchen","PA43B","178","N","N"," "," ","k±tó°n","MS",337
+"kitchen","PA44A","179","N","N"," "," ","k±tó°n","MS",338
+"kitchen","PA44B","180","N","N"," "," ","k±tó°n","MS",339
+"kitchen","PA45A","181","N","N"," "," ","k±ºtó°n","MS",340
+"kitchen","PA45B","182","N","N"," "," ","k±tó°n","MS",341
+"kitchen","PA46A","185","N","N"," "," ","k±tó°«n","MS",342
+"kitchen","PA46B","186","N","N"," "," ","k±tó°n","MS",343
+"kitchen","PA47A","189","N","N"," "," ","k±tó°n","MS",344
+"kitchen","PA47B","190","N","N"," "," ","k±tó°n","MS",345
+"kitchen","PA48A","191","N","N"," "," ","k±½tó°n","MS",346
+"kitchen","PA48B","192","N","N"," "," ","k±½tó°n","MS",347
+"kitchen","PA48C","193","N","N"," "," ","k±tó°n","MS",348
+"kitchen","PA49A","194","N","N"," "," ","k±tó°n","MS",349
+"kitchen","PA49B","195","N","N"," "," ","k±¼ºtó°n","MS",350
+"kitchen","PA50A","196","N","N"," "," ","k±tó°n","MS",351
+"kitchen","PA50B","197","N","N"," "," ","k±tó°n","MS",352
+"kitchen","PA50C!","198!","N","N"," "," ","k±tó°n","MS",353
+"kitchen","PA51A","199","N","N"," "," ","k±tó°n","MS",354
+"kitchen","PA51B","200","N","N"," "," ","k±½ºtó°n","MS",355
+"kitchen","PA52A","201","N","N"," "," ","k±tó°n","MS",356
+"kitchen","PA52B!","202!","N","N"," "," ","k±tó°n","MS",357
+"kitchen","PA53A","203","N","N"," "," ","k±½tó°n","MS",358
+"kitchen","PA53B","204","N","N"," "," ","k±«tó°n","MS",359
+"kitchen","PA54A","205","N","N"," "," ","k±tó°n","MS",360
+"kitchen","PA54B","206","N","N"," "," ","k±«tó°n","MS",361
+"kitchen","PA55A","207","N","N"," "," ","k±tó°n","MS",362
+"kitchen","PA55B","208","N","N"," "," ","k±tó°n","MS",363
+"kitchen","PA56A","211(*)","N","N"," "," ","k±tó±¿½n","MS",364
+"kitchen","PA56A","211(*)","N","Y"," ","AUX","k±tó°n","MS",364
+"kitchen","PA56B","212","N","N"," "," ","k±tó°n","MS",365
+"kitchen","PA57A","213","N","N"," "," ","k±«ºtón","MS",366
+"kitchen","PA57B","214","N","N"," "," ","k±tón","MS",367
+"kitchen","PA58A","215","N","N"," "," ","k±tó°n","MS",368
+"kitchen","PA58B","216","N","N"," "," ","k±tó°n","MS",369
+"kitchen","PA59A","219","N","N"," "," ","k±½tó°n","MS",370
+"kitchen","PA59B","220","N","N"," "," ","k±tó°n","MS",371
+"kitchen","PA60A","221","N","N"," "," ","k±tó°n","MS",372
+"kitchen","PA60B","222","N","N"," "," ","k±tó°n","MS",373
+"kitchen","PA61A","223","N","N"," "," ","k±½¾tó°n","MS",374
+"kitchen","PA61B","224","N","N"," "," ","k±tón","MS",375
+"kitchen","PA62A","229","N","N"," "," ","k±tón","MS",376
+"kitchen","PA62B","230","N","N"," "," ","k±tó°n","MS",377
+"kitchen","PA63A","231","N","N"," "," ","k±«tó±¿½n","MS",378
+"kitchen","PA63B","232","N","N"," "," ","k±tó±¿½n","MS",379
+"kitchen","PA64A","233","N","N"," "," ","k±tó±¿½n","MS",380
+"kitchen","PA64B","234","N","N"," "," ","k±tó±¿İ½n","MS",381
+"kitchen","PA65A","237","N","N"," "," ","k±tó±¿½n","MS",382
+"kitchen","PA65B","238","N","N"," "," ","k±½tó±¿½¾n","MS",383
+"kitchen","PA66A","239","N","N"," "," ","åk±½tó°n","MS",384
+"kitchen","PA66B","240","N","N"," "," ","k±tó±¿½n","MS",385
+"kitchen","PA67A","243","N","N"," "," ","k±tó±¿İ½n","MS",386
+"kitchen","PA67B","244","N","N"," "," ","k±tó±¿½n","MS",387
+"kitchen","WV1!","88!","N","N"," "," ","k±ºtó°n","MS",388
+"kitchen","WV2","89","N","N"," "," ","k±tó°n","MS",389
+"kitchen","WV3","91","N","N"," "," ","k±tó°«n","MS",390
+"kitchen","WV4A","92","N","N"," "," ","k±tó°n","MS",391
+"kitchen","WV4B","93","N","N"," "," ","k±tó±¿½n","MS",392
+"kitchen","WV5","94","N","N"," "," ","k±tó°«n","MS",393
+"kitchen","WV6A","95","N","N"," "," ","k±tó°n","MS",394
+"cook room","WV6A","95","O","N"," "," ","k¹k$ruºm","MS",394
+"kitchen","WV6B","96","N","N"," "," ","k±tó°n","MS",395
+"kitchen","WV7A","97","N","N"," "," ","k±ºtó°n","MS",396
+"kitchen","WV7B","98","N","N"," "," ","k±tó°n","MS",397
+"kitchen","WV8A","97b","N","N"," "," ","åk±tó°n","MS",398
+"cook room","WV8A","97b","O","N"," "," ","k¹k$ru¿¾ºm","MS",398
+"kitchen","WV8B","98b","N","N"," "," ","k±tó°n","MS",399
+"kitchen","WV9A","301","N","N"," "," ","k±tó°n","MS",400
+"kitchen","WV9B","302","N","N"," "," ","k±tón","MS",401
+"kitchen","WV10A","303","N","N"," "," ","k±tón","MS",402
+"kitchen","WV10B","303b","N","N"," "," ","k±tó°n","MS",403
+"kitchen","WV10C","304","N","N"," "," ","k±tó°n","MS",404
+"kitchen","WV11A","305","N","N"," "," ","k±½tó°n","MS",405
+"kitchen","WV11B!","306!","N","N"," "," ","k±tó°n","MS",406
+"kitchen","WV12A","307","N","N"," "," ","k±tó°n","MS",407
+"kitchen","WV12B","308","N","N"," "," ","k±tó°n","MS",408
+"kitchen","WV13A","309","N","N"," "," ","k±ºtó°n","MS",409
+"kitchen","WV13B","310","N","N"," "," ","k±ºtó°n","MS",410
+"kitchen","WV14A","311","N","N"," "," ","k±tó°n","MS",411
+"kitchen","WV14B","312","N","N"," "," ","k±½ºtó°n","MS",412
+"kitchen","WV15A","313","N","N"," "," ","k±tó°n","MS",413
+"kitchen","WV15B","314","N","N"," "," ","k±tó°n","MS",414
+"kitchen","WV16A","315","N","N"," "," ","k±{°}tó°n","MS",415
+"kitchen","WV16B","316","N","N"," "," ","k±tó°n","MS",416
+"kitchen","WV17A","317","N","N"," "," ","k±tó°n","MS",417
+"kitchen","WV17B","317b","N","N"," "," ","k±ºtó°n","MS",418
+"kitchen","WV17C","318","N","N"," "," ","k±tó°n","MS",419
+"kitchen","WV18A","319","N","N"," "," ","åk±ºtó°n","MS",420
+"kitchen","WV18B","320","N","N"," "," ","k±tó°n","MS",421
+"kitchen","WV19A","321","N","N"," "," ","k±tó°n","MS",422
+"kitchen","WV19B","322","N","N"," "," ","k±tó°n","MS",423
+"kitchen","WV20A","323","N","N"," "," ","k±tó°n","MS",424
+"kitchen","WV20B","324","N","N"," "," ","k±tó°n","MS",425
+"kitchen","WV21A","325","N","N"," "," ","k±tó°n","MS",426
+"kitchen","WV21B","326","N","N"," "," ","k±tó°n","MS",427
+"kitchen","WV22A","327","N","N"," "," ","k±«tó°n","MS",428
+"kitchen","WV22B","328","N","N"," "," ","k±tó°n","MS",429
+"kitchen","WV23A","331","N","N"," "," ","k±tó°İn","MS",430
+"kitchen","WV23B","332","N","N"," "," ","k±tó°n","MS",431
+"kitchen","WV24A","335","N","N"," "," ","k±tó°n","MS",432
+"kitchen","WV24B","336","N","N"," "," ","k±tó°n","MS",433
+"kitchen","WV25A","337","N","N"," "," ","k±tó°n","MS",434
+"kitchen","WV25B","338","N","N"," "," ","k±tó°n","MS",435
+"kitchen","WV26A","339","N","N"," "," ","k±tó°n","MS",436
+"kitchen","WV26B","340","N","N"," "," ","k±«tón","MS",437
+"kitchen","WV27A","341","N","N"," "," ","k±ºtó°n","MS",438
+"kitchen","WV27B","342","N","N"," "," ","åk±ºtó°n","MS",439
+"kitchen","WV28A","343","N","N"," "," ","åk±tó°n","MS",440
+"kitchen","WV28B","344","N","N"," "," ","k±ºtó°n","MS",441
+"kitchen","WV29A","345","N","N"," "," ","k±tó°n","MS",442
+"kitchen","WV29B","346","N","N"," "," ","k±ºtó°n","MS",443
+"kitchen","WV30A","347","N","N"," "," ","k±«tó°n","MS",444
+"kitchen","WV30B","348","N","N"," "," ","k±ºtó°n","MS",445
+"cook room","WV30B","348","O","N"," "," ","k¹«k$ru¿¾ºm","MS",445
+"kitchen","WV31A","349","N","N"," "," ","k±«ºtó°n","MS",446
+"kitchen","WV31B","350","N","N"," "," ","k±«tó°n","MS",447
+"kitchen","WV32A","353","N","N"," "," ","k±ºtó°n","MS",448
+"kitchen","WV32B","354","N","N"," "," ","k±tó°n","MS",449
+"kitchen","WV33A","355","N","N"," "," ","k±tó°n","MS",450
+"cook room","WV33A","355","O","N"," "," ","åk¹k$õru¼ºm","MS",450
+"kitchen","WV33B","356","N","N"," "," ","k±tó°n","MS",451
+"kitchen","WV34A","359","N","N"," "," ","k±tó°n","MS",452
+"kitchen","WV34B","360","N","N"," "," ","k±tó°n","MS",453
+"kitchen","WV35A","361","N","N"," "," ","k±tó°n","MS",454
+"kitchen","WV35B","362","N","N"," "," ","k±ºtó°n","MS",455
+"kitchen","WV36A","363","N","N"," "," ","k±tó°n","MS",456
+"kitchen","WV36B","364","N","N"," "," ","k±tó°n","MS",457
+"kitchen","WV37A","365","N","N"," "," ","k±tó°n","MS",458
+"kitchen","WV37B!","366!","N","N"," "," ","k±ºtó°½n","MS",459
+"kitchen","WV38A","367","N","N"," "," ","k±¾tó°n","MS",460
+"kitchen","WV38B","368","N","N"," "," ","k±tón","MS",461
+"kitchen","WV39A","369","N","N"," "," ","k±tón","MS",462
+"kitchen","WV39B","370","N","N"," "," ","k±tón","MS",463
+"kitchen","WV39C!","371!","N","N"," "," ","k±tón","MS",464
+"kitchen","WV40A","373","N","N"," "," ","k±ºtó°n","MS",465
+"kitchen","WV40B","374","N","N"," "," ","k±tó°n","MS",466
+"kitchen","WV41A","375","N","N"," "," ","k±tó°n","MS",467
+"kitchen","WV41B","376","N","N"," "," ","k±tó°n","MS",468
+"kitchen","WV42A","377","N","N"," "," ","k±tón","MS",469
+"kitchen","WV42B","378","N","N"," "," ","k±tó°n","MS",470
+"kitchen","WV43A","381","N","N"," "," ","k±tó°n","MS",471
+"kitchen","WV43B","382","N","N"," "," ","k±tó°n","MS",472
+"kitchen","WV44A","383","N","N"," "," ","k±tó°n","MS",473
+"kitchen","WV44B","384","N","N"," "," ","k±tón","MS",474
+"kitchen","WV45A","385","N","N"," "," ","k±tón","MS",475
+"kitchen","WV45B","386","N","N"," "," ","k±tó°n","MS",476
+"kitchen","WV46A","387","N","N"," "," ","k±tó°n","MS",477
+"kitchen","WV46B","388","N","N"," "," ","k±½tó°n","MS",478
+"kitchen","WV47A","389","N","N"," "," ","k±tó°n","MS",479
+"kitchen","WV47B","390","N","N"," "," ","k±tón","MS",480
+"kitchen","WV48A","391","N","N"," "," ","k±ºtó°İn","MS",481
+"kitchen","WV48B","391b","N","N"," "," ","k±tó°n","MS",482
+"kitchen","WV48C","392","N","N"," "," ","k±tó°n","MS",483
+"kitchen","WV48D","392b","N","N"," "," ","k±tó°n","MS",484
+"kitchen","WV49A","393","N","N"," "," ","k±tó°n","MS",485
+"kitchen","WV49B","394","N","N"," "," ","k±tón","MS",486
+"kitchen","WV50A","395","N","N"," "," ","k±tó°İn","MS",487
+"kitchen","WV50B","396","N","N"," "," ","k±tó°n","MS",488
+"kitchen","WV51A","261","N","N"," "," ","k±tó°n","MS",489
+"kitchen","WV51B","262","N","N"," "," ","k±tó°n","MS",490
+"kitchen","WV52A","258","N","N"," "," ","k±tó°n","MS",491
+"kitchen","WV52B","259","N","N"," "," ","k±tó°n","MS",492
+"kitchen","WV52C!","260!","N","N"," "," ","k±tó°n","MS",493
+"kitchen","WV53A","257","N","N"," "," ","k±tó°n","MS",494
+"kitchen","WV53B","257b","N","N"," "," ","k±ºtó°n","MS",495
+"kitchen","WV53C!","257c!","N","N"," "," ","k±«ºtó°n","MS",496
+"kitchen","WV54A","255","N","N"," "," ","k±tó°n","MS",497
+"kitchen","WV54B","256","N","N"," "," ","k±tó°n","MS",498
+"kitchen","DE1A","11","N","N"," "," ","k±tó°n","MS",499
+"kitchen","DE1B","12","N","N"," "," ","k±tó°n","MS",500
+"kitchen","DE1C!","13!","N","N"," "," ","k±tó°n","MS",501
+"kitchen","DE2A","15(*)","N","Y"," ","AUX","k±tó°«¼n","MS",502
+"kitchen","DE2C"," ","N","N"," "," ","k±tó°«n","MS",504
+"kitchen","DE2B","16","N","N"," "," ","k±tó°n","MS",503
+"kitchen","DE3A","18","N","N"," "," ","k±tó±¿½n","MS",505
+"kitchen","DE3B","19","N","N"," "," ","k±tó°«n","MS",506
+"kitchen","DE3C!","17!","N","N"," "," ","k±tó°n","MS",507
+"kitchen","DE4","20","N","N"," "," ","k±tó±¿½n","MS",508
+"kitchen","DE5A","21","N","N"," "," ","k±tó±¿½n","MS",509
+"summer kitchen","DE5A","21","O","N"," "," ","s¸m´$k±tó±¿½n","MS",509
+"kitchen","DE5B","22","N","N"," "," ","k±tó±¿½n","MS",510
+"kitchen","DE6A","23","N","N"," "," ","k±tó±¿n","MS",511
+"kitchen","DE6B","24","N","N"," "," ","k±tó±¿½n","MS",512
+"kitchen","MD1A","27","N","N"," "," ","k±«tó°n","MS",513
+"kitchen","MD1B","28","N","N"," "," ","k±tó°«n","MS",514
+"kitchen","MD2A","31a","N","N"," "," ","k±tó±¿½n","MS",515
+"kitchen","MD2B","32","N","N"," "," ","k±½tó°n","MS",516
+"kitchen","MD3A","33","N","N"," "," ","k±tó±¿½n","MS",517
+"kitchen","MD3B","34","N","N"," "," ","k±½tó°n","MS",518
+"kitchen","MD4A","35b","N","N"," "," ","k±tó±¿½n","MS",519
+"kitchen","MD4B","35","N","N"," "," ","åk±tó±¿½n","MS",520
+"kitchen","MD4C","36","N","N"," "," ","k±tó±¿½n","MS",521
+"kitchen","MD5A","37","N","N"," "," ","k±tó±¿½n","MS",522
+"kitchen","MD5B","38","N","N"," "," ","k±tó±¿½n","MS",523
+"kitchen","MD6A","39(*)","N","N"," "," ","k±tó±¿½n","MS",524
+"kitchen","MD6B","40","N","N"," "," ","k±tó±¿½n","MS",525
+"kitchen","MD7A","41","N","N"," "," ","k±tó±¿½n","MS",526
+"kitchen","MD7B","41b","N","N"," "," ","k±tó±¿İ½n","MS",527
+"kitchen","MD7C!","42!","N","N"," "," ","k±tó±¿½n","MS",528
+"kitchen","MD8A","43","N","N"," "," ","kˆ±«tó±¿½n","MS",529
+"kitchen","MD8B","44","N","N"," "," ","k±tó±¿½n","MS",530
+"kitchen","MD9N","N46","N","N"," "," ","k±tó±¿½n","MS",531
+"kitchen stairs","MD9N","N46","O","N","= room above kitchen"," ","k±tó±¿½n$stá°z","MS",531
+"kitchen","MD9A","45","N","N"," "," ","k±tó±¿½n","MS",532
+"kitchen","MD9B","46","N","N"," "," ","k±tó±¿½n","MS",533
+"kitchen","MD10A","49","N","N"," ","SIC","k±tó°t","MS",534
+"kitchen","MD10B","50","N","N"," "," ","k±tó±¿½n","MS",535
+"kitchen","MD11","51","N","N"," "," ","k±tó°«¼n","MS",536
+"kitchen","MD12A","52","N","N"," "," ","k±tó°n","MS",537
+"kitchen","MD12B","53","N","N"," "," ","k±tó°«n","MS",538
+"kitchen","MD13A","54(*)","N","N"," "," ","k±tón","MS",539
+"kitchen","MD13B","55","N","N"," "," ","k±tó±¿½n","MS",540
+"kitchen","MD13C","56","N","N"," "," ","åk±tó°n","MS",541
+"kitchen","MD13D!","57!","N","N"," "," ","åk±tón","MS",542
+"kitchen","MD13E!","58!","N","N"," "," ","k±tón","MS",543
+"kitchen","MD13F!","59!","N","N"," "," ","k±½{°}tó°«n","MS",544
+"kitchen","MD13G"," ","N","N"," "," ","k±tó±¿½n"," ",545
+"kitchen","MD14","61(*)","N","N"," "," ","k±tó°İn","MS",546
+"kitchen","MD14","61(*)","N","Y"," ","AUX","åk±tón","MS",546
+"kitchen","MD15A","62","N","N"," "," ","k±tó°n","MS",547
+"kitchen","MD15B","63","N","N"," "," ","k±tó°n","MS",548
+"kitchen","MD16","64","N","N"," "," ","k±tón","MS",549
+"kitchen","MD17A","65","N","N"," "," ","k±tó°n","MS",550
+"kitchen","MD17B","66","N","N"," "," ","k±tó°n","MS",551
+"kitchen","MD18A","67","N","N"," "," ","k±tó±¿½n","MS",552
+"kitchen","MD18B","68","N","N"," "," ","k{h}±¿½tó±¿½n","MS",553
+"kitchen","MD19A","69","N","N"," "," ","k±tó±¿½n","MS",554
+"kitchen","MD19B","70","N","N"," "," ","k±tó±¿½n","MS",555
+"kitchen","MD20A","71","N","N"," "," ","k±tó±¿½¾n","MS",556
+"kitchen","MD20B","72","N","N"," "," ","k±tó±¿n","MS",557
+"kitchen","MD20C!","73!","N","N"," "," ","k±tón","MS",558
+"kitchen","MD21A","75","N","N"," "," ","k±tó±¿½n","MS",559
+"kitchen","MD21B","76","N","N"," "," ","k±tó±¿½n","MS",560
+"kitchen","MD22N","N77","N","N"," "," ","k±tó±¿½n","MS",561
+"kitchen","MD22M","N78","N","N"," "," ","k±tó±¿½n","MS",562
+"kitchen","MD22A","77","N","N"," "," ","k±tó±¿½n","MS",563
+"kitchen","MD22B","78","N","N"," "," ","k±tó±¿½n","MS",564
+"kitchen","MD22C!","79!","N","N"," "," ","k±tó±¿½n","MS",565
+"kitchen","MD23A","80b","N","N"," "," ","k±tó±¿½n","MS",566
+"kitchen","MD23B","80a","N","N"," "," ","k±tó±¿½n","MS",567
+"kitchen","MD23C","81","N","N"," "," ","k±tó±¿½n","MS",568
+"kitchen","MD24","82","N","N"," "," ","k±tó±¿½n","MS",569
+"kitchen","MD25","84","N","N"," "," ","k±½{°}tó°n","MS",570
+"kitchen","MD26A","83","N","N"," "," ","k±ºtó°n","MS",571
+"kitchen","MD26B","83A","N","N"," "," ","k±{°}tó°n","MS",572
+"kitchen","MD27A","85","N","N"," "," ","k±tó°n","MS",573
+"kitchen","MD27B","86","N","N"," "," ","k±tó°n","MS",574
+"kitchen","DC1A","99","N","N"," "," ","k±tó°n","MS",575
+"kitchen","DC1B!","100!","N","N"," "," ","k±tó±¿½n","MS",576
+"kitchen","VA1!","101!","N","N"," "," ","k±tó±¿½¾n","MS",577
+"kitchen","VA2A","103","N","N"," "," ","k±tón","MS",578
+"kitchen","VA2B","104","N","Y"," ","AUX","k±tó±¿½n","MS",579
+"kitchen","VA3A","105(*)","N","N"," "," ","k±tó°«¼n","MS",580
+"kitchen","VA3B","106","N","N"," "," ","k±tó°İn","MS",581
+"kitchen","VA3C"," ","N","N"," "," ","k{h}±tó°İn"," ",582
+"kitchen","VA4N","N109","N","N"," "," ","k±tó±¿½n","MS",583
+"kitchen","VA5A","107","N","N"," "," ","k±tó±¿½¼n","MS",584
+"kitchen","VA5B","108","N","N"," "," ","k±tó±¿n","MS",585
+"kitchen","VA6A","113","N","N"," "," ","kˆ±«tó±¿n","MS",586
+"kitchen","VA6B","114","N","N"," "," ","k±tó±¿½n","MS",587
+"kitchen","VA7A","121","N","Y","separate","OLD","åk±tó±¿½n","MS",588
+"cook room","VA7A","121","O","N"," "," ","åk¹k$õr¹«m","MS",588
+"kitchen","VA7B","122","N","N"," "," ","k±tó±¿½n","MS",589
+"kitchen","VA8A","123","N","N"," "," ","k±tó±¿n","MS",590
+"kitchen","VA8B","124","N","N"," "," ","k±«tó±¿n","MS",591
+"kitchen","VA8C!","125!","N","N"," "," ","k±tó±¿½n","MS",592
+"kitchen","VA9A","117","N","N"," "," ","k±{°}tó±¿½n","MS",593
+"kitchen","VA9B!","118!","N","N"," "," ","k±tó±¿½n","MS",594
+"kitchen","VA10A","127","N","N"," "," ","k±tó±¿½n","MS",595
+"cook room","VA10A","127","O","N"," "," ","k¹k$ru¿½{u¿«¾}m","MS",595
+"kitchen","VA10B","128","N","N"," "," ","k±tó±¿½n","MS",596
+"kitchen","VA11A","129","N","N"," "," ","k±«tó±¿n","MS",597
+"kitchen","VA11B","130","N","N"," "," ","k±¾tó±¿½n","MS",598
+"cook room","VA11B","130","O","Y"," ","NEW","åk¹k$r¹m","MS",598
+"kitchen","VA12N","N131","N","N"," "," ","k±tó±¿½n","MS",599
+"cook room","VA12N","N131","O","N"," "," ","k¹k$r¹«¼m","MS",599
+"kitchen","VA12A","131","N","N"," "," ","k±tó±¿½n","MS",600
+"kitchen","VA12B!","132!","N","N"," "," ","k{h}±tó±¿n","MS",601
+"kitchen","VA13A","133","N","N"," "," ","k±tó±¿½n","MS",602
+"kitchen","VA13B","134","N","N"," "," ","k±tó±¿½n","MS",603
+"kitchen","VA14A","135","N","N"," "," ","åk±tó±¿½n","MS",604
+"kitchen","VA14B","136","N","N"," "," ","k±'tó±¿½n","MS",605
+"kitchen","VA14C","137","N","N"," "," ","k±tó±¿½n","MS",606
+"kitchen","VA15N","N139(*)","N","N"," "," ","k±tó±¿n","MS",607
+"kitchen","VA15A","139","N","Y"," ","OLD","k±tó±¿½n","MS",608
+"cook room","VA15A","139","O","N"," "," ","k¹k$r¹«m","MS",608
+"cook house","VA15A","139","O","N"," "," ","k¹k$ha«¹s","MS",608
+"kitchen","VA15B","140","N","N"," "," ","k{h}±tó±¿n","MS",609
+"kitchen","VA16A","141","N","N"," "," ","k±tó±¿½n","MS",610
+"cook room","VA16A","141","O","N"," "," ","k¹k$r¹m","MS",610
+"kitchen","VA16B","142","N","N"," "," ","k±tón","MS",611
+"kitchen","VA17A","143","N","N"," "," ","k±tó±¿½n","MS",612
+"kitchen","VA17B","144","N","Y","[±¿]: doubtful","FDT","k±tó±¿n","MS",613
+"kitchen","VA18","145","N","N"," "," ","k±tó±¿½n","MS",614
+"kitchen","VA19A","146","N","N"," "," ","k{h}±tó±¿n","MS",615
+"kitchen","VA19B","147","N","N"," "," ","k±'tó±¿½n","MS",616
+"kitchen","VA19C!","148!","N","N"," "," ","k±tó±¿½n","MS",617
+"kitchen","VA20A","149","N","Y"," ","OLD","k±tó±¿n","MS",618
+"cook room","VA20A","149","O","N"," "," ","åk¹«k$õru¿½¾{u¼}m","MS",618
+"kitchen","VA20B","150(*)","N","N"," "," ","k±tó±¿½n","MS",619
+"NR","VA20C"," "," ","N"," "," "," "," ",620
+"kitchen","VA21N","N153","N","N"," "," ","k±tó±¿½n","MS",621
+"kitchen","VA21A","153","N","N"," "," ","k±tó±¿n","MS",622
+"cook room","VA21A","153","O","Y","""some say¢","HRD","k¹¼k$r¹¼m","MS",622
+"kitchen","VA21B","154","N","N"," "," ","k{h}±tó±¿n","MS",623
+"kitchen","VA22","155","N","N"," "," ","k±tó±¿İ½¼n","MS",624
+"kitchen","VA23A","156","N","Y"," ","OLD","k±tó±¿½n","MS",625
+"cook room","VA23A","156","O","N"," "," ","k¹k$r¹¿«{u¿½}m","MS",625
+"kitchen","VA23B","157","N","N"," "," ","k±tó±¿½n","MS",626
+"kitchen","VA24","159","N","N"," "," ","k±tó±¿½n","MS",627
+"cook room","VA24","159","O","N"," "," ","k¹k$r¹«m","MS",627
+"kitchen","VA24","159","N","N"," ","CNV","k±tó±¿î","MS",627
+"cook room","VA25","160(*)","O","N"," "," ","k¹k$r¹¿u¿½m","MS",628
+"cook room","VA25","160(*)","O","Y"," ","AUX","k¹k$ru¿½{u¿}m","MS",628
+"cook room","VA26A","161A","O","Y"," ","NEW","k¹¿k$r¹¿m","MS",629
+"kitchen","VA26B","161","N","N"," "," ","k±tó±¿½n","MS",630
+"kitchen","VA26C","162","N","N"," "," ","k±½tó±¿½n","MS",631
+"kitchen","VA27","163(*)","N","N"," "," ","k{h}±tó±¿½n","MS",632
+"kitchen","VA27","163(*)","N","Y"," ","AUX","k±tó±¿½n","MS",632
+"kitchen","VA28A","164","N","N"," "," ","k±tó±¿n","MS",633
+"cook room","VA28A","164","O","Y"," ","OLD","k¹«k$ru¿½{u¿¾}m","MS",633
+"kitchen","VA28B","165","N","N"," "," ","k±tón","MS",634
+"cook room","VA28B","165","O","Y"," ","OLD","åk¹k$r¹m","MS",634
+"kitchen","VA29","166","N","N"," "," ","k±tó±¿n","MS",635
+"kitchen","VA30A","167","N","N"," "," ","k±tó±¿n","MS",636
+"kitchen","VA30B!","167a!","N","N"," "," ","k±tó±¿½n","MS",637
+"kitchen","VA30C!","168!","N","N"," "," ","k±tó±¿½n","MS",638
+"cook room","VA30C!","168!","O","N","rarer"," ","k¹k$r¹«¼m","MS",638
+"kitchen","VA30D!","169!","N","N"," "," ","k±tó±¿½¾n","MS",639
+"kitchen","VA30E!","170!","N","N"," "," ","k±tó±¿İ½n","MS",640
+"kitchen","VA31A","171(*)(**)","N","N"," "," ","k±tó±¿½n","MS",641
+"kitchen","VA31A","171(*)(**)","N","Y"," ","AUX2/OLD","k±tó±¿½n","MS",641
+"cook room","VA31A","171(*)(**)","O","Y","also","AUX2","k¹«k$r¹¾m","MS",641
+"kitchen","VA31B","172","N","N"," "," ","k±tó±¿½n","MS",642
+"cook room","VA31B","172","O","Y","as a child to distinguish","OLD","k¹k$r¹m","MS",642
+"NA","VA31C"," "," ","N"," "," "," "," ",643
+"kitchen","VA32!","175!","N","N"," "," ","k±«tó±¿½n","MS",644
+"cook room","VA33A","173","O","N"," "," ","åk¹k$r¹m","MS",645
+"kitchen","VA33B","174","N","N"," "," ","k±tó±¿İn","MS",646
+"cook room","VA33B","174","O","N"," "," ","åk¹k$r¹m","MS",646
+"kitchen","VA34A","177(*)","N","Y"," ","AUX","k±tó±¿n","MS",647
+"kitchen","VA34B","178","N","N"," "," ","k±½{°}tó±¿½n","MS",648
+"cook room","VA34B","178","O","N","mostly"," ","k¹k$r¹m","MS",648
+"kitchen","VA35A","179","N","N","separate"," ","k±tó±¿½n","MS",649
+"cook room","VA35A","179","O","N"," "," ","åk¹¼k$r¹«m","MS",649
+"kitchen","VA35B","180","N","N"," "," ","kˆ±«tó±¿½n","MS",650
+"cook room","VA35B","180","O","N"," "," ","k¹k$r¹«m","MS",650
+"kitchen","VA36A","181","N","N"," "," ","k±tó±¿n","MS",651
+"cook room","VA36A","181","O","Y","after war","OLD","k¹k$r¹m","MS",651
+"kitchen","VA36B","182","N","N"," "," ","k±tó±¿½n","MS",652
+"kitchen room","VA37","183","O","N"," "," ","k±tó±¿½n$r¹¿{u¿ş½}m","MS",653
+"cook room","VA37","183","O","N"," "," ","k¹k$r¹¿{u¿ş½}m","MS",653
+"kitchen","VA38","185","N","N"," "," ","kˆ±{°}tó±¿İ½¾n","MS",654
+"cook room","VA38","185","O","N","also"," ","åk¹k$õr¹m","MS",654
+"kitchen","VA39!","186!","N","N"," "," ","k±tó±¿½n","MS",655
+"kitchen","VA40A","187","N","N"," "," ","kˆ±«{°}tó±¿n","MS",656
+"kitchen","VA40B","188","N","N"," "," ","k±tó±¿½n","MS",657
+"kitchen","VA41A","191","N","Y","rare for attached room","SUG","k±tó±¿½n","MS",658
+"cook room","VA41A","191","O","N"," "," ","k{h}¹k$r¹m","MS",658
+"kitchen","VA41B","192","N","Y","rare; very old or very modern","OLD/NEW","k±tó±¿½n","MS",659
+"cook room","VA41B","192","O","N"," "," ","k¹k$r¹m","MS",659
+"cook room","VA42A","193(*)(**)","O","N"," "," ","åk¹k$r¹«m","MS",660
+"kitchen","VA42A","193(*)(**)","N","Y"," ","AUX","kˆ±{°}tó±¿½n","MS",660
+"kitchen","VA42A","193(*)(**)","N","Y"," ","AUX2","kˆ±tó±¿½n","MS",660
+"kitchen","VA42A","193(*)(**)","N","Y","separate from house","OLD","k±tó±¿n","MS",660
+"kitchen","VA42B","194","N","N"," "," ","kˆ±{°}tó±¿½n","MS",661
+"cooking room","VA42B","194","O","N"," "," ","k¹k±¿½n$r¹«m","MS",661
+"kitchen","VA43N","N195","N","N"," "," ","kˆ±tó±¿n","MS",662
+"kitchen","VA43A","195","N","N"," "," ","k±«tó±¿n","MS",663
+"cook room","VA43A","195","O","N","since cook stoves came in"," ","k¹«k$r¹«m","MS",663
+"kitchen","VA43B","196","N","N"," "," ","k±«tó ±¿n","MS",664
+"kitchen","VA44A","199","N","N"," "," ","k±tó±¿İn","MS",665
+"kitchen","VA44B","200","N","N"," "," ","k±tó±¿½n","MS",666
+"kitchen","VA45A","201","N","Y","as a girl","OLD","k±tó±¿½¾n","MS",667
+"cook room","VA45A","201","O","N"," "," ","k¹¼k$r¹«m","MS",667
+"kitchen","VA45B","202","N","N"," "," ","kˆ±tó±¿½n","MS",668
+"kitchen","VA46N","N207","N","N","off from house; used year round"," ","åk±tó±¿½n","MS",669
+"cook room","VA46N","N207","O","N"," "," ","åk¹k$õru½¼m","MS",669
+"kitchen","VA46A","207","N","N"," "," ","k±tó°n","MS",670
+"summer kitchen","VA46A","207","O","N"," "," ","s¸m°$k±tó°n","MS",670
+"the old kitchen","VA46A","207","O","Y"," ","AUX","d‘±¿$oºl$k±tó±¿n","MS",670
+"summer house","VA46A","207","O","Y"," ","AUX","ås¸m°$õh°¼¹«s","MS",670
+"kitchen","VA46A","207","N","Y"," ","AUX","k±tó±¿n","MS",670
+"kitchen","VA46B!","208!","N","N"," "," ","k±tó±¿½n","MS",671
+"kitchen","VA47","211","N","N"," "," ","kˆ±«tó±¿n","MS",672
+"kitchen","VA48A","213(*)","N","Y"," ","AUX","kˆ±«tó±¿½n","MS",673
+"cook room","VA48A","213(*)","O","N"," "," ","åk¹ºk$õru¿½ºm","MS",673
+"kitchen","VA48B","214","N","N"," "," ","kˆ±«tó±¿n","MS",674
+"kitchen","VA49A","215","N","N"," "," ","kˆ±tó±¿n","MS",675
+"kitchen","VA49B","216","N","N"," "," ","kˆ±«tó±¿«n","MS",676
+"kitchen","VA50A","217","N","N"," "," ","k±tó±¿½n","MS",677
+"cook room","VA50A","217","O","Y"," ","HRD","k¹k$r¹m","MS",677
+"kitchen","VA50B","218","N","Y"," ","OLD","k±tó±¿½n","MS",678
+"cook room","VA50B","218","O","N"," "," ","k¹k$r¹m","MS",678
+"kitchen","VA51A","219","N","N"," "," ","kˆ±«tó±¿n","MS",679
+"kitchen","VA51C"," ","N","N"," "," ","åk±tó±¿n","MS",681
+"cook room","VA51C"," ","O","N"," "," ","åk¹k$õr¹m","MS",681
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"kitchen","VA52A","224","N","N"," "," ","kˆ{h }±tó°n","MS",682
+"kitchen","VA52B","225","N","N"," "," ","k±º{°}tó°İn","MS",683
+"kitchen","VA52C!","226!","N","N"," "," ","k±tó°n","MS",684
+"kitchen","VA53A","227","N","N"," "," ","k±tó°n","MS",685
+"kitchen","VA53B","228","N","N"," "," ","k±tón","MS",686
+"kitchen","VA54A","229","N","N"," "," ","k±tó±¿n","MS",687
+"kitchen","VA54B","230","N","N"," "," ","kˆ±tó±¿n","MS",688
+"kitchen","VA55A","233(*)","N","N"," "," ","k±tó°«n","MS",689
+"kitchen","VA55A","233(*)","N","Y"," ","AUX","k±tón","MS",689
+"Kuche","VA55A","233(*)","N","Y","German","AUX/INA","ki¾c","MS",689
+"kitchen","VA55B","234(*)","N","N"," "," ","k±tó°İn","MS",690
+"kitchen","VA55B","234(*)","N","N"," "," ","k±«tó±¿½n","MS",690
+"kitchen","VA56A","237","N","N"," "," ","k±tó±¿½¾n","MS",691
+"kitchen","VA56B","238","N","N"," "," ","k±ºtón","MS",692
+"kitchen","VA57A","239","N","N"," "," ","k±tón","MS",693
+"kitchen","VA57B","240","N","N"," "," ","k±tó°«¼n","MS",694
+"kitchen","VA58","241(*)","N","N"," "," ","k±tó±¿½n","MS",695
+"summer kitchen","VA58","241(*)","O","Y"," ","AUX","s¸«¼m°$k±tó±¿½n","MS",695
+"kitchen","VA58","241(*)","N","Y"," ","AUX","k±tó±¿n","MS",695
+"kitchen","VA59N","N241","N","N"," "," ","åk±tó±¿½n","MS",696
+"summertime kitchen","VA59N","N241","O","N"," "," ","ås¸m°õta¾±¿½m$k±tó±¿½n","MS",696
+"kitchen","VA59A","242","N","N"," "," ","k±tó±¿½n","MS",697
+"kitchen","VA59B!","243!","N","N"," "," ","k±tó±¿½n","MS",698
+"kitchen","VA60","244(*)","N","Y"," ","AUX","k±tó±¿n","MS",699
+"kitchen","VA61A","245(*)","N","N"," "," ","k±tón","MS",700
+"cook room","VA61A","245(*)","O","N"," "," ","k¹k$r¹«{u¼}m","MS",700
+"summer kitchen","VA61A","245(*)","O","N"," "," ","ås¸m´$õk±tón","MS",700
+"kitchen","VA61B!","246!","N","N"," "," ","k±tó°«¼n","MS",701
+"NA","VA61C"," "," ","N"," "," "," "," ",702
+"kitchen","VA62A","247(*)","N","N"," "," ","k±«º{°}tó±¿n","MS",703
+"kitchen","VA62A","247(*)","N","N"," "," ","k±tó±¿î","MS",703
+"kitchen","VA62B","248","N","N"," "," ","k±tó±¿½n","MS",704
+"kitchen","VA63A","251","N","N"," "," ","k±ºtó°«n","MS",705
+"cook room","VA63A","251","O","N"," "," ","k¹¼k$ru¿½{u¿}m","MS",705
+"kitchen","VA63B","252","N","N"," "," ","k±½º{°«}tó°n","MS",706
+"kitchen","VA64A","255","N","N"," "," ","k±tó±¿½n","MS",707
+"cook room","VA64A","255","O","N"," "," ","k¹k$ru¿¼ºm","MS",707
+"kitchen","VA64B","256","N","N"," "," ","k±tó±¿n","MS",708
+"kitchen","VA65A","257","N","N"," "," ","k±tó±¿n","MS",709
+"side kitchen","VA65A","257","O","N"," "," ","sa¾º{²¾}d$k±tó±¿n","MS",709
+"summer kitchen","VA65A","257","O","N"," "," ","s¸m´$k±tó±¿n","MS",709
+"kitchen","VA65B","258","N","N"," "," ","k±tó°«n","MS",710
+"cook house","VA65B","258","O","N"," "," ","k¹¿k$há¾¹s","MS",710
+"kitchen","VA65C!","259!","N","N","never spoken of as part of the house"," ","k±º{°}tó±¿½n","MS",711
+"kitchen","VA66A","261","N","N"," "," ","k±tó±¿½n","MS",712
+"kitchen","VA66B","262","N","N"," "," ","k±tó±¿n","MS",713
+"kitchen","VA67A","267","N","N"," "," ","k{h}±{°}tó°n","MS",714
+"kitchen","VA67B","268","N","N"," "," ","k±tó°«¼n","MS",715
+"kitchen","VA68A","269","N","N"," "," ","k±«¾ºtó±¿½n","MS",716
+"kitchen","VA68B","270","N","N"," ","CNV","k±ºtó±¿½n","MS",717
+"cook room","VA68B","270","O","N"," "," ","k¹¿k$ru¿½ºm","MS",717
+"kitchen","VA69A","273","N","N"," "," ","kˆ±º{°}tó±¿½n","MS",718
+"kitchen","VA69B","274","N","N"," "," ","åkˆ±tó±¿½n","MS",719
+"kitchen","VA70A","275","N","N"," "," ","k±ş½ºtón","MS",720
+"summer kitchen","VA70A","275","O","N"," "," ","s¸ºm´$k±ºtón","MS",720
+"kitchen","VA70B","276","N","N"," "," ","k±º{°}tó°«¼n","MS",721
+"kitchen","VA71A","285","N","N"," "," ","k{h}±tó°«n","MS",722
+"kitchen","VA71B","286","N","N"," "," ","k±tó°«¼n","MS",723
+"kitchen","VA72A","287","N","N"," "," ","k±«ºtó°«n","MS",724
+"kitchen","VA72B","288","N","N"," "," ","k±«ºtó°«n","MS",725
+"stove room","VA72B","288","O","Y"," ","OLD","stoº{¹«}v$ru¿½¼{u¿}m","MS",725
+"kitchen","VA73","291","N","N"," "," ","k±tó±¿î","MS",726
+"kitchen","VA74A","293","N","N"," "," ","k±«tó°«¼n","MS",727
+"kitchen","VA74B!","294!","N","N"," "," ","k±{°}tó°n","MS",728
+"kitchen","VA75A","297","N","N"," "," ","k{h}±tó°İ«n","MS",729
+"kitchen","VA75B","298","N","N"," "," ","k±ºtó°«n","MS",730
+"kitchen","NC1","303","N","N"," "," ","k±º{°}tó±¿n","MS",731
+"kitchen","NC2A","301","N","Y","when separate","AUX2","kˆ±tó±¿½n","MS",732
+"cook room","NC2A","301","O","Y"," ","AUX2","k¹¼k$r¹«m","MS",732
+"kitchen","NC2B","304","N","N"," "," ","k±tó±¿½n","MS",733
+"kitchen","NC3A","305","N","N"," "," ","k±«tó±¿n","MS",734
+"kitchen","NC3B","306","N","N"," "," ","k±½{°}tó±¿½n","MS",735
+"kitchen","NC4A","307","N","N"," "," ","k±tó±¿n","MS",736
+"cooking room","NC4A","307","O","N"," "," ","k¹k±¿½n$r¹¿«{u¿½}m","MS",736
+"kitchen","NC4B","308","N","N"," "," ","åk±«tó±¿n","MS",737
+"kitchen","NC5A","309","N","Y"," ","NEW","k±ºtó±¿n","MS",738
+"cook room","NC5A","309","O","N"," "," ","åk¹k$ru¿½{u¿}m","MS",738
+"kitchen","NC5B","310","N","N"," "," ","k±ºtó±¿½n","MS",739
+"cook room","NC5B","310","O","Y"," ","OLD","k¹k$r¹¿¾{u½¼}m","MS",739
+"kitchen","NC6!","311!","N","N"," "," ","k±tó±¿n","MS",740
+"kitchen","NC7A","315(*)","N","Y","""separate¢ from house","AUX","k±tó±¿½n","MS",741
+"cook room","NC7A","315(*)","O","Y"," ","AUX","k¹k$ru¿{u¿¾}m","MS",741
+"separate","NC7A","315(*)","A","Y"," ","AUX/INA","s±pr±¿t","MS",741
+"kitchen","NC7B","316","N","N"," "," ","k±«ºtó±¿n","MS",742
+"cook room","NC7B","316","O","N"," "," ","k¹k$r¹¿«¼{u¿}m","MS",742
+"kitchen","NC8N","N317","N","N"," "," ","k±tó±¿İ½n","MS",743
+"kitchen","NC8A","317","N","N"," "," ","k{h}±tó±¿n","MS",744
+"kitchen","NC8B","318(*)","N","N"," "," ","k±tó±¿½n","MS",745
+"cook room","NC8B","318(*)","O","Y"," ","AUX/NEW","k¹k$ru¿½u¿m","MS",745
+"kitchen","NC8B","318(*)","N","Y"," ","AUX","k{h}±tó±¿î","MS",745
+"kitchen","NC9A","319","N","Y"," ","OLD","kˆ±tó±¿n","MS",746
+"cook room","NC9A","319","O","N"," "," ","åk¹¼{°}k$õr¹¿{u¿¾}m","MS",746
+"cook house","NC9A","319","O","N","separate"," ","åk¹¼{°}k$ha«º¹s","MS",746
+"kitchen","NC9B","320","N","N"," "," ","k±tó±¿n","MS",747
+"cook house","NC9B","320","O","Y"," ","OLD","k¹¼k$háº¹s","MS",747
+"kitchen","NC10A","321","N","N","rare"," ","k±tó±¿½¾n","MS",748
+"cook house","NC10A","321","O","N","traditional"," ","åk¹káİ½¾¹s","MS",748
+"kitchen","NC10B","323","N","N"," "," ","k±ºtó±¿n","MS",749
+"kitchen","NC10C","322","N","N"," "," ","k±tó±¿î","MS",750
+"cook house","NC11A","325","O","N"," "," ","k¹¼{°}k$há¾¹«s","MS",751
+"kitchen","NC11B","326","N","N"," "," ","k{h}±ºtó±¿n","MS",752
+"cook room","NC12A","327(*)","O","N"," "," ","åk¹¼º{°}k$õr¹¿¼u¿½m","MS",753
+"kitchen","NC12A","327(*)","N","Y"," ","AUX","k±tó±¿n","MS",753
+"cook room","NC12A","327(*)","O","Y"," ","AUX/NEW","åk¹k$ru¿½{u¿¾}m","MS",753
+"kitchen","NC12B","328","N","N"," "," ","k±tó±¿½n","MS",754
+"kitchen","NC13A","329","N","N"," "," ","k±tó±¿n","MS",755
+"kitchen","NC13B","330(*)","N","N"," "," ","k{h}±tó±¿½n","MS",756
+"kitchen","NC13B","330(*)","N","Y"," ","AUX","k±tó±¿n","MS",756
+"cook room","NC13B","330(*)","O","Y"," ","AUX/OLD","k¹k$ru¿½{u¿}m","MS",756
+"kitchen","NC14N","N331","N","Y","separate","OLD","k±ºtó±¿½n","MS",757
+"cook room","NC14N","N331","O","N"," "," ","k¹k$r¹¾m","MS",757
+"kitchen","NC14A","331","N","N"," "," ","k±¼tó±¿n","MS",758
+"cook room","NC14A","331","O","N"," "," ","k¹k$r¹¼{u¼}m","MS",758
+"kitchen","NC14B","332","N","N"," "," ","k±tó±¿½n","MS",759
+"cook room","NC14B","332","O","N"," "," ","k¹k$ru¼ºm","MS",759
+"cook house","NC14B","332","O","Y","when separate; as a child","OLD","åk¹k$õha«¹¿s","MS",759
+"kitchen","NC14C!","333!","N","N"," "," ","k{h}±tó±¿n","MS",760
+"kitchen","NC15A","335(*)","N","N"," "," ","k±«¼ºtó±¿n","MS",761
+"cook room","NC15A","335(*)","O","Y"," ","NEW","k¹k$r¹¿«{u¿}m","MS",761
+"kitchen","NC15B","336","N","N"," "," ","k±ºtó±¿n","MS",762
+"kitchen","NC15C"," ","N","Y"," ","OLD","k±ºtó±¿n"," ",763
+"cook room","NC15C"," ","O","N"," "," ","åk¹k$õr¹«¼{u¼}m"," ",763
+"kitchen","NC16A","339(*)","N","N"," "," ","k{h}±ºtó±¿n","MS",764
+"kitchen","NC16A","339(*)","N","Y"," ","AUX","k{h}±:{°«¼}tó±¿n","MS",764
+"kitchen","NC16B","340","N","N"," "," ","k±ºtó±¿n","MS",765
+"kitchen","NC17A","337","N","N"," "," ","k±«tó±¿«¼n","MS",766
+"kitchen","NC17B","338","N","N"," "," ","kˆ{h }±º{°}tó±¿½n","MS",767
+"kitchen","NC18A","341","N","N","large"," ","kˆ±«º{°}tó±¿½n","MS",768
+"cooking room","NC18A","341","O","N","stove only"," ","k¹k±¿½n$ru½¼ºm","MS",768
+"kitchen","NC18B","342","N","N"," "," ","k±tó±¿n","MS",769
+"kitchen","NC19A","343","N","N"," "," ","k{h}±{°}tó±¿n","MS",770
+"cook room","NC19A","343","O","N"," "," ","åk{h}¹k$õru¿½{u¿¾}m","MS",770
+"kitchen","NC19B","344","N","N"," "," ","k{h}±tó±¿n","MS",771
+"kitchen","NC20A","345","N","N"," "," ","k±tó±¿n","MS",772
+"kitchen","NC20B","346a","N","N"," "," ","kˆ{h}±«tó±¿n","MS",773
+"kitchen","NC20C","346b","N","N"," "," ","k±tó±¿«n","MS",774
+"kitchen","NC21A","347","N","N"," "," ","k±tó±¿n","MS",775
+"kitchen","NC21B","348","N","N"," "," ","k{h}±tó±¿n","MS",776
+"kitchen","NC22A","349","N","N"," "," ","k±tó±¿n","MS",777
+"kitchen","NC22B","349b","N","N"," "," ","k±tó±¿î","MS",778
+"kitchen","NC23A","351a","N","N"," "," ","k±½tó±¿½n","MS",779
+"kitchen","NC23B","351b(*)","N","N"," "," ","k±ºtó±¿n","MS",780
+"kitchen","NC23B","351b(*)","N","N"," "," ","k±½{°}tó±¿½n","MS",780
+"kitchen","NC23C!","351c!","N","N"," "," ","k±tó±¿n","MS",781
+"kitchen","NC23D!","351d!","N","N"," "," ","k±tó±¿½n","MS",782
+"kitchen","NC24N","N352","N","N"," "," ","k±tó±¿½n","MS",783
+"kitchen","NC24A","352a","N","N"," "," ","k±ºtó±¿n","MS",784
+"kitchen","NC24B","352b","N","N"," "," ","k±tó±¿½n","MS",785
+"cook room","NC24B","352b","O","N"," "," ","åk¹k$r¹m","MS",785
+"kitchen","NC25N","N353","N","N"," "," ","k±ºtó±¿½n","MS",786
+"kitchen","NC25A","353","N","N"," "," ","k±tó±¿½n","MS",787
+"kitchen","NC25B","354","N","N"," "," ","kˆ±«¾ºtó±¿n","MS",788
+"cook room","NC25B","354","O","Y","attached","NEW","k¹k$ruºm","MS",788
+"kitchen","NC26A","355a","N","N"," "," ","k±«ºtó±¿n","MS",789
+"kitchen","NC26B","355b","N","N"," "," ","k±ºtó±¿½n","MS",790
+"cook room","NC26B","355b","O","N"," "," ","k¹«¼k$ru¿¾{u¼}m","MS",790
+"kitchen","NC26C!","356!","N","N"," "," ","k±ºtó±¿½n","MS",791
+"kitchen","NC27A","357","N","N"," "," ","k±tó±¿n","MS",792
+"kitchen","NC27B","358","N","N"," "," ","k±ºtó±¿½n","MS",793
+"kitchen","NC28A","361","N","N"," "," ","k±tó±¿½n","MS",794
+"kitchen","NC28B","361b","N","N"," "," ","k±tó±¿½n","MS",795
+"kitchen","NC28C","362","N","N"," "," ","k±ºtó±¿½n","MS",796
+"kitchen","NC29A","363(*)","N","N"," "," ","kˆ±«tó±¿n","MS",797
+"kitchen","NC29A","363(*)","N","Y"," ","AUX","kˆ±«{°}tó±¿½n","MS",797
+"kitchen","NC29B","364","N","N"," "," ","k±º{°}tó±¿½n","MS",798
+"kitchen","NC30A","365","N","N"," "," ","k±«tó±¿«n","MS",799
+"kitchen","NC30B","366","N","N"," "," ","k±tó±¿½n","MS",800
+"kitchen","NC31A","367","N","N","separate"," ","åk±«tó±¿n","MS",801
+"cook room","NC31A","367","O","N","separate"," ","k¹«¼k$r¹¿ş«{u¿ş½}m","MS",801
+"kitchen","NC31B","368","N","N"," "," ","k±tó±¿n","MS",802
+"cook room","NC31B","368","O","N"," "," ","k¹k$r¹¿İ«{u¿}m","MS",802
+"kitchen","NC32A","369","N","Y","old style when separate","OLD","kˆ±tó±¿½¾n","MS",803
+"kitchen house","NC32A","369","O","N"," "," ","kˆ±tó±¿½¾n$há¾¹s","MS",803
+"cook room","NC32A","369","O","N","since joined"," ","k¹k$ru½¼ºm","MS",803
+"kitchen","NC32B!","370!","N","N"," "," ","k±tó±¿n","MS",804
+"kitchen","NC33A","373","N","N"," "," ","k±º{°}tó±¿n","MS",805
+"cook room","NC33A","373","O","N","often used nowadays"," ","åk¹k$õru¿½{u¿}m","MS",805
+"kitchen","NC33B","374","N","N"," "," ","k±«¾ºtó±¿n","MS",806
+"kitchen","NC34A","375","N","Y"," ","OLD","k{h}±«ºtó±¿n","MS",807
+"cook room","NC34A","375","O","N"," "," ","k¹k$r¹¿«{u¿}m","MS",807
+"kitchen","NC34B","376","N","N"," "," ","k{h}±«ºtó±¿n","MS",808
+"kitchen","NC35A","377","N","N"," "," ","kˆ±tó±¿n","MS",809
+"kitchen","NC35B","378","N","N"," "," ","k±¼ºtó±¿½n","MS",810
+"cook room","NC35B","378","O","N"," "," ","k¹k$ru¿¾{u¿«¾}m","MS",810
+"kitchen","NC36N","N381","N","N"," "," ","k±tó±¿n","MS",811
+"kitchen","NC36A","381","N","N"," "," ","k±tó±¿İ½¾n","MS",812
+"kitchen","NC36B","382","N","N"," "," ","k±ºtó±¿İ½¾n","MS",813
+"kitchen","NC37A","383","N","N"," "," ","k±«tó±¿n","MS",814
+"kitchen","NC37B","384","N","N"," "," ","k±tó±¿n","MS",815
+"kitchen","NC38N","N385","N","N"," "," ","k{h}±º{t}ó±¿½n","MS",816
+"kitchen","NC38A","385","N","N","sep. bld. for cook room and dining room"," ","k±tó±¿n","MS",817
+"cook room","NC38A","385","O","N"," "," ","k¹k$r¹¿u¿«m","MS",817
+"kitchen","NC38B","386","N","N"," "," ","k{h}±{°}tó±¿n","MS",818
+"kitchen","NC39A","389","N","Y"," ","OLD","k±tó±¿n","MS",819
+"cook room","NC39A","389","O","N"," "," ","åk¹k$õr¹¿½{u¿}m","MS",819
+"kitchen","NC39B!","390!","N","N"," "," ","k±ºtó±¿n","MS",820
+"kitchen part","NC40A","391","O","N"," "," ","k±tó±¿n$pµºt","MS",821
+"cook house","NC40A","391","O","Y","before joined","SUG/OLD","k¹k$há½º¹s","MS",821
+"kitchen house","NC40A","391","O","Y","before joined","SUG/OLD","k±tó±¿n$há½º¹s","MS",821
+"kitchen room","NC40A","391","O","N"," "," ","k±tó±¿n$ru½¼ºm","MS",821
+"kitchen","NC40B","392","N","N"," "," ","k±ºtó±¿½n","MS",822
+"kitchen","NC41!","393!","N","N"," "," ","k±tó±¿n","MS",823
+"kitchen","NC42A","403","N","N"," "," ","k±tó±¿½n","MS",824
+"kitchen","NC42B","404(*)","N","N"," "," ","k±«ºtó±¿n","MS",825
+"kitchen","NC42B","404(*)","N","Y"," ","AUX","k±ºtó±¿½n","MS",825
+"kitchen","NC43A","397","N","N"," "," ","k±tó±¿n","MS",826
+"kitchen","NC43B","398","N","N"," "," ","k±ºtó±¿½n","MS",827
+"kitchen","NC44","410(*)","N","Y"," ","OLD","k±tó±¿½n","MS",828
+"cook room","NC44","410(*)","O","N"," "," ","åk¹¼k$õru¿½¾{u¼}m","MS",828
+"kitchen","NC44","410(*)","N","Y"," ","AUX/OLD","kˆ±«tó±¿½n","MS",828
+"cook room","NC44","410(*)","O","Y"," ","AUX","åk¹k$õru¿½{u¿}m","MS",828
+"kitchen","NC45A","409(*)","N","Y"," ","OLD","k±tó±¿½n","MS",829
+"cook room","NC45A","409(*)","O","N"," "," ","k¹k$ru¿½¾{u¼}m","MS",829
+"kitchen","NC45B"," ","N","N"," "," ","k±tó±¿½n"," ",830
+"kitchen","NC46A","411","N","N"," "," ","k±tó±¿½n","MS",831
+"kitchen","NC46B","412","N","N"," "," ","k±½{°}tó±¿½n","MS",832
+"kitchen","NC46C!","412b!","N","N"," "," ","k±tó±¿½n","MS",833
+"kitchen","NC47","413","N","N"," "," ","k±ºtó±¿½n","MS",834
+"cooking room","NC47","413","O","Y","modern only","NEW","k¹¿ºk±¿½n$ru¿½ºm","MS",834
+"kitchen","NC48","418","N","N"," "," ","k±ºtó±¿n","MS",835
+"kitchen","NC49","421","N","N"," "," ","k±tón","MS",836
+"kitchen","NC50A","422","N","N"," "," ","k±ºtó±¿n","MS",837
+"kitchen","NC50B!","423!","N","N"," "," ","k±ºtó±¿İ½¾n","MS",838
+"kitchen","NC51A","427","N","N"," "," ","k±ºtó±¿½n","MS",839
+"kitchen","NC51B","428","N","N"," "," ","kˆ±«tó±¿n","MS",840
+"kitchen","NC52N","N429","N","Y"," ","OLD","k±ºtó±¿n","MS",841
+"stove room","NC52N","N429","O","N"," "," ","åstoº{v}$õru¼ºm","MS",841
+"kitchen","NC52A","429","N","N"," "," ","k±ºtó±¿½n","MS",842
+"kitchen","NC52B","430","N","Y"," ","NEW","k±tó±¿½n","MS",843
+"stove room","NC52B","430","O","N"," "," ","åsto{¹}v$ru¿{u¿¾}m","MS",843
+"kitchen","NC53A","431","N","Y","separate","SUG","k±tó±¿½n","MS",844
+"cook room","NC53A","431","O","N"," "," ","k¹¼k$r¹¿½{u¿¾}m","MS",844
+"kitchen","NC53B","432","N","N"," "," ","k{h}±tó±¿½n","MS",845
+"cook room","NC54A","433","O","N"," "," ","k¹k$ru¿½¾ºm","MS",846
+"kitchen","NC54B","434","N","N"," "," ","k±º{°}tó±¿½n","MS",847
+"kitchen","NC55","435","N","Y"," ","OLD","k±tó°«n","MS",848
+"cook room","NC55","435","O","N"," "," ","åk¹k$õru¿½¾u¿m","MS",848
+"kitchen","NC56A","436","N","N"," "," ","k±tó°«n","MS",849
+"kitchen","NC56A","436","N","N"," "," ","k±tó°«¼n","MS",849
+"kitchen","NC56B!","437!","N","N"," "," ","k±ºtó±¿½n","MS",850
+"kitchen","NC57A","438a","N","N"," "," ","k±tó±¿½n","MS",851
+"kitchen","NC57B","438b","N","N"," "," ","k±ºtó±¿½n","MS",852
+"kitchen","NC58A","439","N","N"," "," ","k±tó±¿½n","MS",853
+"kitchen","NC58B","440","N","N"," "," ","k±«tó±¿n","MS",854
+"cook room","NC59","441(*)","O","N"," "," ","k¹¿k$ru¿½{u¿¾}m","MS",855
+"kitchen","NC60","442","N","N"," "," ","k±tó±¿½n","MS",856
+"kitchen","NC61A","443","N","N"," "," ","k±tó±¿n","MS",857
+"kitchen","NC61B","444","N","N"," "," ","k±tó±¿n","MS",858
+"kitchen","NC62A","447","N","N"," "," ","k{h}±tó±¿n","MS",859
+"kitchen","NC62B","448","N","N"," "," ","k±tó±¿½n","MS",860
+"kitchen","NC63A","449","N","N"," "," ","k{h}±tó±¿n","MS",861
+"kitchen","NC63B","450","N","N"," "," ","k±tó±¿n","MS",862
+"kitchen","NC64A","453","N","N"," "," ","kˆ{h }±tó±¿n","MS",863
+"kitchen","NC64B","454","N","N"," "," ","k±ºtó±¿n","MS",864
+"kitchen","NC65A","461","N","N"," "," ","k±º{°«}tó±¿n","MS",865
+"kitchen","NC65B","462","N","N"," "," ","k±tó±¿½n","MS",866
+"kitchen","NC66A","465","N","N"," "," ","k±ºtó±¿½n","MS",867
+"kitchen","NC66B","466","N","N"," "," ","k±tó±¿n","MS",868
+"kitchen","NC67A","469","N","N"," "," ","k±tó±¿½n","MS",869
+"kitchen","NC67B","470","N","N"," "," ","k±tó±¿½n","MS",870
+"kitchen","NC68A","473","N","N"," "," ","k±ºtó±¿n","MS",871
+"kitchen","NC68B","474","N","N"," "," ","k±ºtó±¿½n","MS",872
+"kitchen","NC69A","477","N","N"," "," ","k±tó±¿n","MS",873
+"kitchen","NC69B","478","N","N"," "," ","k±º{°}tó±¿n","MS",874
+"kitchen","NC70A","479","N","N"," "," ","k±«tó±¿n","MS",875
+"kitchen","NC70B","480","N","N"," "," ","k±tó±¿n","MS",876
+"kitchen","NC71A","481","N","N"," "," ","k±ºtó±¿n","MS",877
+"kitchen","NC71B","482","N","N"," "," ","k±tó±¿n","MS",878
+"kitchen","NC71C!","483!","N","N"," "," ","k±ºtó±¿n","MS",879
+"kitchen","NC72A","487","N","N"," "," ","k±tó±¿n","MS",880
+"kitchen","NC72B","488","N","N"," "," ","k±tó±¿n","MS",881
+"kitchen","NC73A","491","N","N"," "," ","k±ºtó±¿n","MS",882
+"cook room","NC73A","491","O","Y"," ","NEW","åk¹k$õru¿¾{u¼}m","MS",882
+"kitchen","NC73B","492","N","N"," "," ","k±tó±¿½n","MS",883
+"kitchen","NC74A","493","N","N"," "," ","k±ºtó±¿n","MS",884
+"kitchen","NC74B","494","N","N"," "," ","k±tó±¿½n","MS",885
+"kitchen","NC75A","495","N","N"," "," ","k±tó±¿½n","MS",886
+"kitchen","NC75B","496","N","N"," "," ","k±tó±¿n","MS",887
+"kitchen","SC1A","203.1","N","N"," "," ","kˆ±ºtó±¿n","MS",888
+"kitchen","SC1B","203.2","N","N"," "," ","k±tó±¿½n","MS",889
+"kitchen","SC2A","204.1(*)","N","N"," "," ","k±ºtó±¿½n","MS",890
+"kitchen","SC2B","204.2","N","N"," "," ","k±ºtó±¿½n","MS",891
+"kitchen","SC2C"," ","N","N"," "," ","k±«ºtó±¿n"," ",892
+"kitchen","SC3A","205.1","N","N"," "," ","k±ºtó±¿½n","MS",893
+"cook room","SC3A","205.1","O","Y","when built on","NEW","k{h}¹k$ru½¼ºm","MS",893
+"kitchen","SC3B","205.2","N","N","20 yds away"," ","k`±«{°}tó±¿¼n","MS",894
+"kitchen","SC3C!","205.3!","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",895
+"kitchen","SC4A","206.1","N","N","not built in; touched house"," ","kˆ`±«{±¿}tó±¿¼n","MS",896
+"kitchen","SC4B","206.2","N","N"," "," ","k`±«{±¿}tó±¿½n","MS",897
+"stove room","SC4B","206.2","O","Y"," ","NEW","åstoº{°}v$õò¹¿«º{°}m","MS",897
+"cook room","SC4B","206.2","O","Y"," ","NEW","k`¹«¼{°}k$ò¹¿«º{°}m","MS",897
+"kitchen","SC4C","206.3","N","N"," "," ","kˆ`±«{±¿}tó±¿¼n","MS",898
+"cook room","SC5A","207.1","O","N"," "," ","åk¹¼k$õru¿ºm","MS",899
+"kitchen","SC5B","207.2","N","N"," ","CNV","kˆ`±«{°}tó±¿¼n","MS",900
+"cook room","SC5B","207.2","O","N"," "," ","åk`¹«¼k$õr¹«º{°}m","MS",900
+"kitchen","SC5C","207.2A","N","N"," "," ","k`±«{±¿}tó±¿¼n","MS",901
+"kitchen","SC5D!","207.3!","N","N","""syrup room¢"," ","kˆ±«{°}tó±¿¼n","MS",902
+"syrup room","SC5D!","207.3!","O","Y"," ","INA","ås³½ºr°«p$õr¹¿«º{°}m","MS",902
+"kitchen","SC6N","N208","N","N","separated, connected by brick walk"," ","kˆ`±«{°}tó±¿İn","MS",903
+"kitchen","SC6A","208.1","N","Y"," ","OLD","kˆ{h}±tó±¿n","MS",904
+"cook room","SC6A","208.1","O","N"," "," ","k¹k$ru¼m","MS",904
+"kitchen","SC6B","208.2(*)","N","N","separate in large houses","CNV","kˆ±«tó±¿¼n","MS",905
+"kitchen","SC6C!","208.3!","N","N"," "," ","c‡±«{°}tó±¿¼n","MS",906
+"kitchen","SC6C!","208.3!","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",906
+"kitchen chimney","SC6D"," ","O","N"," "," ","åkˆ`±«tó±¿¼n$õtó`±º{°}mn±¿«¼"," ",907
+"dining room","SC6D"," ","O","N"," "," ","ådµ¾º±¿n±¾î$õr¹¿º{w}m"," ",907
+"kitchen","SC7N","N209","N","N"," "," ","k`±«{°}tó±¿n","MS",908
+"kitchen","SC7A","209.1","N","N","sometimes separate"," ","kˆ`±«tó±¿¼n","MS",909
+"kitchen","SC7B","209.2","N","N","detached, 40-50 yds away"," ","kˆ`±«tó±¿¼n","MS",910
+"stove room","SC7B","209.2","O","N","""to let you know you had a stove¢"," ","åsto¼º{°}v$õr¹¿¾º{°}m","MS",910
+"kitchen","SC7C!","209.3!","N","N","used to be out in the yard"," ","k`±«tó±¿İ¼n","MS",911
+"kitchen","SC7D!","209.4!","N","N","old time ago they weren't part of the house","OLD/CNV","kˆ±tó±¾n","MS",912
+"kitchen","SC8A","210.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",913
+"kitchen","SC8A","210.1","N","N"," "," ","c‡±«{°}tó±¿n","MS",913
+"kitchen","SC8B","210.2","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",914
+"kitchen","SC8C","210.3","N","N"," "," ","c‡±«{°}tó±¿¼n","MS",915
+"kitchen","SC9A","211.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",916
+"pole kitchen","SC9A","211.1","O","N"," "," ","åp`o{°}{ì}$õc‡±«{°}tó±¿¼n","MS",916
+"kitchen","SC9B","211.2","N","N"," ","CNV","c‡±«{°}tó±¿¼n","MS",917
+"kitchen","SC9C!","211.3!","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",918
+"kitchen","SC9D!","211.4!","N","N","detached in Antebellum days"," ","c‡`±«{°}tó±¿¼n","MS",919
+"kitchen","SC10A","212.1","N","N"," "," ","k`±¿¼tó±¿¼n","MS",920
+"kitchen","SC10A","212.1","N","N"," "," ","k`±¾tón","MS",920
+"kitchen","SC10B!","212.2!","N","N"," "," ","kˆ±«tó±¿¼n","MS",921
+"kitchen","SC10C!","212.3!","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",922
+"kitchen","SC11N","N213","N","N"," "," ","kˆ{h}±tó±¿n","MS",923
+"kitchen","SC11M!","2n213!","N","N"," "," ","k`±½tó±¿½¼n","MS",924
+"galley","SC11M!","2n213!","N","N","on ship"," ","gˆá«l±¿«¼","MS",924
+"kitchen","SC11A","213.1(*)","N","N"," "," ","kˆ±«tó±¿¼n","MS",925
+"kitchen room","SC11A","213.1(*)","O","Y"," ","AUX","kˆ±tó±¿n$r¹«m","MS",925
+"kitchen","SC11B","213.11","N","N"," ","CNV","kˆ±tó±¿¼n","MS",926
+"kitchen","SC11C","213.2","N","N"," "," ","k`±tón","MS",927
+"cook house","SC11C","213.2","O","Y"," ","HES","åk¹¼k$õh¸½¼¹s","MS",927
+"cook room","SC11C","213.2","O","N"," "," ","åk¹¼k$r¹¿«¾m","MS",927
+"kitchen","SC11D","213.3","N","N"," "," ","kˆ`±½tó±¿½n","MS",928
+"kitchenette","SC11D","213.3","N","N","small"," ","åkˆ`±«tó±¾õn²«t","MS",928
+"cook house","SC11D","213.3","O","N","commercial"," ","åkˆ`¹¼k$õhá¾¹s","MS",928
+"open passageway","SC11D","213.3","O","Y"," ","INA","åo¼º{°}pm$åp`ás±¿¼dúõwe«º","MS",928
+"kitchen","SC11E","213.4","N","N","""out in the yard under the servants apartment¢"," ","kˆ±«tó±¿¼n","MS",929
+"out in the yard under the servants apartment","SC11E","213.4","Q","Y"," ","INA/RN1","¸¼¹t$n$ä°$åjŞº{°}d$°«¼nd°$ä°$ås³«¾º{°}vnts","MS",929
+" ","SC11E","213.4"," "," "," ","RN2","õ°åp`Şº{°}tm°«nt","MS",929
+"kitchen","SC11F","213.5","N","N"," "," ","k`±«¾tó±¿¼n","MS",930
+"kitchen","SC11G!","213.7!","N","N"," ","CNV","k`±«tó±¿İn","MS",931
+"brick kitchens","SC11G!","213.7!","O","N","""outside¢"," ","åbò±¿¼k$õk`±«¾tó±¿¼nz","MS",931
+"outside","SC11G!","213.7!","A","Y"," ","INA","å¸«¹tõsµ«¾±¿d","MS",931
+"kitchen","SC11H!","213.8!","N","N"," "," ","k`i½tó±¿¼n","MS",932
+"kitchen","SC11I!","213.9!","N","Y"," ","AUX","kˆ±tó±¿n","MS",933
+"kitchen","SC11J!","213.10!","N","N"," "," ","k`±«tó±¾n","MS",934
+"wash kitchen","SC11J!","213.10!","O","N","""basement¢"," ","åwŞó$õk`±«tó±¿¾n","MS",934
+"basement","SC11J!","213.10!","N","N","basement"," ","åbe«º{°}sm°«nt","MS",934
+"kitchen","SC12A","214.1","N","N","always separate"," ","kˆ`±«{°}tó±¿¼n","MS",935
+"kitchen","SC12B","214.2","N","N"," "," ","kˆ{h}±tó±¿n","MS",936
+"kitchen room","SC12B","214.2","O","N"," "," ","kˆ{h}±tó±¿n$r¹«m","MS",936
+"kitchen","SC13","213.6","N","N"," "," ","kˆ±«tó±¿¼n","MS",937
+"kitchen","SC14A","215.1","N","N"," "," ","k±½¾tó±¿½¾n","MS",938
+"kitchen","SC14B","215.2","N","N"," ","CNV","kˆ±«{°}tó±¿¼n","MS",939
+"cook room","SC14B","215.2","O","Y","people in the country","HRD","åk`¹¿¾{°}k$õòu¿ºm","MS",939
+"cook shades","SC14B","215.2","O","Y","people in the country","HRD","åk`¹¿¾{°}k$ó²«{°}dz","MS",939
+"kitchen","SC15A","216.1","N","N","clay floor; separate till 1880"," ","c‡`±«{°}tó±¿¼n","MS",940
+"kitchen","SC15B","216.2","N","N","often separate"," ","kˆ±«{°}tó±¿¼n","MS",941
+"kitchen","SC15C","216.3","N","N","in a different place"," ","kˆ`±«{°}tó±¿¼n","MS",942
+"dining room","SC15C","216.3","O","N","part of kitchen"," ","ådµ«º{±¿}n±¿¼î$õòu¿º¹¿m","MS",942
+"shed room","SC15C","216.3","O","N","held a ""loom¢"," ","åó²«{°}d$õòu¿ºm","MS",942
+"clay chimney","SC15C","216.3","O","Y"," ","INA","åt`le«$õtó±¿¼{°}mn±¿«¼","MS",942
+"loom","SC15C","216.3","N","Y"," ","INA","lu¿ºm","MS",942
+"kitchen","SC16N","N217","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",943
+"kitchen","SC16","217.1","N","N","the kitchen used to sit off from the house about four feet in a shed"," ","kˆ±tó±¿İn","MS",944
+"kitchen","SC16","217.1","N","N","the kitchen used to sit off from the house about four feet in a shed","SIC","kˆi½dú±«{°}n","MS",944
+"kitchen","SC16","217.1","N","N","the kitchen used to sit off from the house about four feet in a shed","SIC","kˆ±½dú±¿n","MS",944
+"kitchen","SC16","217.1","N","N","the kitchen used to sit off from the house about four feet in a shed","SIC","kˆ±«dú±¿¼n","MS",944
+"kitchen","SC17A","218.1","N","N","away from house"," ","c‡`±«{°}tó±¿¼n","MS",945
+"kitchen","SC17B","218.2","N","N","""porch¢ to connect"," ","kˆ`±«tó±¿¼n","MS",946
+"porch","SC17B","218.2","N","Y"," ","INA","p`o¼º{°}tó","MS",946
+"kitchen","SC17C","218.3","N","N"," "," ","c‡`±«{°}tó±¿¼n","MS",947
+"my kitchen","SC17C","218.3","O","N"," ","CNV","m±¿«¼$åkˆ`±«{°}tó±¿¼n","MS",947
+"kitchen","SC17D","218.4","N","N","part of house, but many had in backyard"," ","kˆ`±«tó±¿¼n","MS",948
+"kitchen","SC18N","N219","N","N"," "," ","kˆ±«tó±¾n","MS",949
+"cook house","SC18N","N219","O","N","unattached, large building"," ","åkˆ`¹¼k$õh¸—¹¼s","MS",949
+"kitchen","SC18A","219.1","N","N"," "," ","k`±«tó±¿¼n","MS",950
+"cook house","SC18A","219.1","O","Y"," ","HRD","åk¹¼k$õh¸—¼¹s","MS",950
+"cook room","SC18A","219.1","O","Y"," ","HRD","åk¹¼k$õr¹¿¾m","MS",950
+"stove room","SC18A","219.1","O","Y"," ","HRD","åsto«¼º{°}v$õr¹¿¾m","MS",950
+"dressers","SC18A","219.1","N","Y","= kitchen tables","INA","dò¸«¼s°½z{z}","MS",950
+"safe","SC18A","219.1","N","Y","kept things in","INA","åse«º{°}f","MS",950
+"cupboard","SC18A","219.1","N","Y"," ","INA","kˆ¸«b°³d","MS",950
+"kitchen","SC18B","219.2","N","N","not always part of house"," ","kˆ`±«tó±¾n","MS",951
+"kitchen","SC18B","219.2","N","N","not always part of house","CNV","kˆ`±«tó±¿¼n","MS",951
+"kitchen","SC18C!","219.3(*)!","N","N","part of the house"," ","kˆ±¿½¼tó±¿¼n","MS",952
+"stove room","SC18C!","219.3(*)!","O","Y"," ","HRD","åsto«¼º{°}v$õry½¾º{°}m","MS",952
+"cook room","SC18C!","219.3(*)!","O","Y","""cracker element¢","HRD","åk`¹¼k$õr¹¿½¼º{°}m","MS",952
+"cook room","SC18C!","219.3(*)!","O","Y","""cracker element¢","HRD","åk`¹¼k$õry¾º{¹¿}m","MS",952
+"cracker","SC18C!","219.3(*)!","N","Y"," ","INA","åkˆ`rá½k°","MS",952
+"outdoor kitchen","SC18C!","219.3(*)!","O","N"," ","SIC","å¸¼¹tõdo«¼º{°}$kˆ`±«tó±¿¼î","MS",952
+"kitchen","SC18D!"," ","N","N","used to be separate"," ","kˆ`±«tó±¾n"," ",953
+"cook houses","SC18D!"," ","O","Y","""I think they're western¢","SUG/HRD","åk`¹¼k$õhµ«º¹z±¿½¼z"," ",953
+"kitchen","SC19N","N220","N","N"," "," ","k±½tó±¿½n","MS",954
+"shed room","SC19N","N220","O","N"," "," ","ó²d$r¹m","MS",954
+"kitchen","SC19A","220.1","N","N","joined"," ","kˆ`±«tó±¾n","MS",955
+"cook house","SC19A","220.1","O","N","separate; one in town"," ","åkˆ`¹¼k$õh¸—«¹s","MS",955
+"cook house","SC19A","220.1","O","N","separate; one in town","CNV","åkˆ`¹¼k$õ°İ¹İs","MS",955
+"kitchen","SC19B","220.4","N","N"," "," ","kˆ±tó±¿n","MS",956
+"kitchen","SC19C","220.2(*)","N","N"," "," ","åkˆ±«tó±¿¼n","MS",957
+"kitchen","SC19C","220.2(*)","N","N"," "," ","åkˆ{j}±«tó±¿¼n","MS",957
+"kitchen","SC19D!","220.3!","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",958
+"kitchen","SC19E!"," ","N","N"," "," ","k`±¿¼tó±¿½n"," ",959
+"cook house","SC19E!"," ","O","N","outside"," ","åk`¹¼k$õh¸½¼¹s"," ",959
+"stove room","SC20A","221.1","O","N"," "," ","åsto¼º¹¼v$õru¿şºwş{m}","MS",960
+"kitchen","SC20B","221.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",961
+"kitchen","SC20B","221.2","N","N"," "," ","c‡±«tó±¿¼n","MS",961
+"kitchen","SC20C","221.3","N","N"," "," ","ki½tó±¿¼n","MS",962
+"stove room","SC20C","221.3","O","N"," "," ","åsto¼º¹¼v$õr‡u¿º{w}m","MS",962
+"kitchen","SC20C","221.3","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",962
+"kitchen","SC20D!","221.4!","N","N"," "," ","kˆ`±«tó±¿¼n","MS",963
+"ell kitchen","SC20D!","221.4!","O","N"," "," ","²«l$kˆ`±«tó±¿¼n","MS",963
+"cook room","SC20D!","221.4!","O","Y"," ","HRD","åk¹¼k$õr¹«¼º{°}m","MS",963
+"stove room","SC20D!","221.4!","O","N","most common"," ","åsto¼º¹¼v$õr¹«¼º{°}m","MS",963
+"kitchen","SC21A","222.1","N","N"," "," ","k{h}±º{°}tó±¿½n","MS",964
+"kitchen","SC21B","222.2","N","N"," "," ","k±ºtó±¿½n","MS",965
+"kitchen","SC22N","N223","N","N"," "," ","k±½{°}tó±¿½n","MS",966
+"kitchen","SC22A","223.1","N","N","separate"," ","k`±«{°}tó±«¾n","MS",967
+"kitchen","SC22B","223.2","N","N"," "," ","kˆ±tó±¿n","MS",968
+"cook room","SC22B","223.2","O","Y"," ","HRD","åk¹k$õr¹«m","MS",968
+"kitchen","SC22C!","223.3!","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",969
+"cook house","SC22C!","223.3!","O","Y","outside; Dutch oven generally outside the kitchen","HRD","åk¹¿¾{°}k$õhá½¹s","MS",969
+"Dutch oven","SC22C!","223.3!","O","Y"," ","INA","åd¦½{°}tó$¦¼ví","MS",969
+"kitchen spoon","SC22C!","223.3!","O","N"," "," ","åc‡`±«{°}tó±¿¼n$õspu¿º{¹¿}n","MS",969
+"kitchen","SC23A","224.1","N","N","now attached; used to be separate","CNV","kˆ`±«{°}tó±¿¼n","MS",970
+"kitchen house","SC23A","224.1","O","N"," "," ","åkˆ`±«{°}tó±¿¼n$õhá½o¼s","MS",970
+"kitchen","SC23B","224.2","N","N","used to be separate"," ","kˆ`±«{°}tó±¿¼n","MS",971
+"kitchen","SC23C","224.3","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",972
+"kitchen","SC23D","224.4","N","N","in old time used to be built out in the yard"," ","kˆ`±«{°}tó±¿¼n","MS",973
+"cook room","SC23D","224.4","O","N"," "," ","åk`¹¿«¾{°}k$õòu¿º{w}m","MS",973
+"kitchen","SC23E!","224.5!","N","N","orig. 150ft away: ""fire distance¢"," ","c‡±«{°}tó±¿n","MS",974
+"kitchen","SC24N","N225","N","N","""out in the yard¢ (if a big family)"," ","kˆ±«{°}tó±¿¼n","MS",975
+"out in the yard","SC24N","N225","Q","Y"," ","INA","a¾ot$õ±«{°}n$d±¿«¼$åjµ¼º°d","MS",975
+"kitchen","SC24A","225.1","N","N","never heard of summer kitchen"," ","kˆ±tó±¿n","MS",976
+"kitchen","SC24B","225.11","N","N"," "," ","kˆ`±«tó±¿¼n","MS",977
+"cook room","SC24B","225.11","O","N"," "," ","åk`¹¾{°}k$õru¿¾º{w}m","MS",977
+"kitchen","SC24B","225.11","N","N"," ","CNV","k`±«tó±¿¼n","MS",977
+"kitchen","SC24C","225.2","N","N"," "," ","kˆ`±«tó±¿¼n","MS",978
+"cook room","SC24C","225.2","O","N"," ","CNV","åk¹¼{°}k$õòu¿º{°}m","MS",978
+"kitchen","SC24D!","225.3!","N","N","one large room; brick floor; 10-12' fireplace"," ","k`±«tó±¿¼n","MS",979
+"kitchen","SC24D!","225.3!","N","N","one large room; brick floor; 10-12' fireplace","CNV","k±«tó±¿¼n","MS",979
+"kitchen","SC25A","226.1","N","N"," "," ","kˆ±tó±¿n","MS",980
+"cook room","SC25A","226.1","O","Y"," ","SUG/HRD","åk¹k$r¹m","MS",980
+"kitchen","SC25B","226.2","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",981
+"dining room","SC25B","226.2","O","N"," "," ","åda«¾º{°}n±¿¼n$õr‡¹¼{°}m","MS",981
+"kitchen","SC25C!","226.3!","N","N"," "," ","kˆ`±«tó±¿¼n","MS",982
+"summer kitchen","SC25C!","226.3!","O","Y"," ","HRD","ås¸m°$õc‡`±¿{°}tó±¿¼n","MS",982
+"kitchen spoon","SC25C!","226.3!","O","N"," "," ","åkˆ`±«tó±¿¼n$õspu¿ºn","MS",982
+"kitchen","SC26A","227.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",983
+"kitchen","SC26B!","227.2!","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",984
+"kitchen","SC27A","228.1","N","N","no summer kitchen"," ","k`±tó±¿n","MS",985
+"kitchen","SC27A","228.1","N","N"," "," ","k±tó±¿¼n","MS",985
+"kitchen","SC27B","228.2","N","N"," "," ","åk±¿¼tón","MS",986
+"kitchen","SC28A","229.1","N","N"," "," ","c‡`±«tó±¿¼n","MS",987
+"cook room","SC28A","229.1","O","N"," ","CNV","åk¹¼k$õru½¼m","MS",987
+"dining room","SC28A","229.1","O","N"," "," ","åda«¾º{°}n±¿¼n$õru¼ºm","MS",987
+"kitchen","SC28B","217.2","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",988
+"kitchen","SC28B","217.2","N","N"," "," ","kˆiºtó±¿n","MS",988
+"kitchen","SC28C","229.2","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",989
+"kitchen","SC28D","229.3","N","N"," "," ","kˆ`±«{±¿}tó±¿¼n","MS",990
+"dining room","SC29A","230.2(*)","O","Y"," ","NEW","åda«¾º{°}n±¿î$õr‡u¼ºm","MS",991
+"kitchen","SC29A","230.2(*)","N","N"," "," ","k±«{°}tó±¿¼îˆ","MS",991
+"kitchen","SC29B","230.1(*)","N","N"," ","CNV","c‡±«{°}tó±¿¼n","MS",992
+"kitchen","SC29C","230.3","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",993
+"kitchen","SC29C","230.3","N","N"," "," ","c‡±½tó±¿¼n","MS",993
+"stove room","SC29D"," ","O","N"," "," ","åsto¼º{°}v$õãu¼m"," ",994
+"cook room","SC29D"," ","O","N"," "," ","k¹¼k$ãu¼m"," ",994
+"kitchen","SC29E"," ","N","N","out in the yard"," ","c‡`±«{±¿}tó±¿¼n"," ",995
+"kitchen spoons","SC29E"," ","O","N"," "," ","åc‡`±«{±¿}tó±¿¼n$õspu¿º{¹¿}nz{z}"," ",995
+"kitchen","SC30A","231.1","N","N"," "," ","k±tó±¿½n","MS",996
+"kitchen","SC30B","231.2","N","N"," ","CNV","k`±«tó±¿¼n","MS",997
+"kitchen","SC30C!","231.3!","N","N"," ","CNV","kˆ`±«tó±¾n","MS",998
+"stove room","SC30C!","231.3!","O","Y"," ","AUX","åsto¼º¹v$õr¹«¼º{°}m","MS",998
+"cook house","SC30C!","231.3!","O","Y"," ","AUX/CNV","åk¹«¼k$õha«¾¹s","MS",998
+"cook room","SC30C!","231.3!","O","Y"," ","AUX","åk`¹«¼k$õr¹«¼º{°}m","MS",998
+"kitchen","SC31A","232.1","N","N","1-room; separate; out of poles","CNV","kˆ±«tó±¿¼n","MS",999
+"kitchen","SC31B","232.2","N","N","separate from house"," ","c‡i½tó±¿¼n","MS",1000
+"kitchen","SC31B","232.2","N","N","separate from house","CNV","kˆi½tó±¿¼n","MS",1000
+"kitchen","SC32A","233.1","N","N"," "," ","c‡`±«{°}tó±¿¼n","MS",1001
+"porch","SC32A","233.1","N","Y","between kitchen and house; used to be out in yard","INA","p`o¼º±¿½tó","MS",1001
+"kitchen","SC32B","233.2","N","N"," "," ","c‡`±«{°}tó±¿¼n","MS",1002
+"kitchen","SC32C","233.3","N","N"," "," ","k`±«{°}tó±¿¼n","MS",1003
+"kitchen","SC32D","233.4","N","N","only in last 75 years part of house","CNV","kˆ±«{°}tó±¿¼n","MS",1004
+"kitchen spoon","SC32D","233.4","O","N","only in last 75 years part of house","CNV","åc‡`±{°}tó±¿¼n$õspu¿º{¹¿}n","MS",1004
+"kitchen","SC33A","234.1","N","N"," "," ","k±º{°}tó±¿½n","MS",1005
+"kitchen","SC33B","234.2","N","N","part of the house; one big room"," ","k`±«{°}tó±¿¼n","MS",1006
+"cook stove","SC33B","234.2","O","Y"," ","INA","åk`¹¼{°}k$õsto¼º¹¼v","MS",1006
+"kitchen","SC34A","235.1","N","N","usually 15-20ft from house"," ","c‡`±«{°}tó±¿¼n","MS",1007
+"kitchen","SC34B","235.2","N","N"," ","CNV","kˆ`±«{°}tó±¿¼n","MS",1008
+"kitchen","SC34C","235.3","N","N"," "," ","c‡`±«{°}tó±¿¼n","MS",1009
+"cook rooms","SC34C","235.3","O","N"," "," ","åk`¹«¼{°}k$õò¹¿«º{°}mz","MS",1009
+"kitchen","SC35A","236.1","N","N"," "," ","k`±«{°}tó±¿¼n","MS",1010
+"kitchen","SC35B","236.2","N","N"," "," ","k`±«{°}tó±¿¼n","MS",1011
+"cook room","SC35B","236.2","O","N"," "," ","åk`¹¼{°}k$õòu¿º{w}m","MS",1011
+"kitchen","SC35C","236.3(*)","N","N"," "," ","kˆ{j}±«tó±¿¼n","MS",1012
+"NA","SC35D"," "," ","N"," "," "," "," ",1013
+"kitchen","SC35E!"," ","N","N","in house, but may be separate"," ","kˆ±«tó±¿¼n"," ",1014
+"stove room","SC35E!"," ","O","N"," "," ","åsto¼º¹v$õr¹¿¼ºwm"," ",1014
+"kitchen","SC36A","237.1","N","N","used to be separate; some still 20ft separate","CNV","kˆ`±«tó±¾n","MS",1015
+"cook room","SC36A","237.1","O","N"," "," ","åk`¹«¼k$õru¿ºwm","MS",1015
+"kitchen","SC36B","237.2","N","N","""off from the house¢","CNV","kˆ`±«tó±¿¾n","MS",1016
+"off from the house","SC36B","237.2","Q","Y"," ","INA","å¶«ofí$ä°$åhµ¼º¹s","MS",1016
+"stove","SC36B","237.2","N","Y"," ","AUX/INA","stoº¹v","MS",1016
+"stove room","SC36C","237.3","O","N"," "," ","åsto¼º¹{v}$õru¿¾ºm","MS",1017
+"cook house","SC36C","237.3","O","N"," "," ","åk`¹¼k$õhá½º¹¼s","MS",1017
+"kitchen","SC36C","237.3","N","N"," ","CNV","k`i½tó±¿¼n","MS",1017
+"front doors","SC36C","237.3","O","Y"," ","INA","åfr¦½nt$õdo«¼º´¾z{z}","MS",1017
+"kitchen","SC36D!","237.4!","N","N"," ","CNV","åkˆ±tó±¿¼n","MS",1018
+"kitchen","SC37","238","N","N"," ","CNV","kˆ±tó±¿n","MS",1019
+"kitchen","SC38N","N239","N","N"," "," ","kˆ`±«tó±¿¼n","MS",1020
+"stove room","SC38N","N239","O","N"," "," ","åsto¼º¹¼v$õr¹¿«º{°}m","MS",1020
+"kitchen","SC38N","N239","N","N"," "," ","kˆ`±«tón","MS",1020
+"hang meet up in larder","SC38N","N239","E","Y"," ","INA","há{²}î$åmiºjt$õ¦½p$±¿¼n$lá{²}d°¾","MS",1020
+"kitchen","SC38A","239.1","N","N"," "," ","c‡`i½tó±¿¼n","MS",1021
+"kitchen","SC38B","239.2","N","N"," "," ","k`±«tó±¿¼n","MS",1022
+"stove room","SC38B","239.2","O","N"," "," ","åsto¼º¹¼v$õru¿¾º{w}m","MS",1022
+"kitchen","SC38C!","239.3!","N","N"," "," ","c‡`±«tó±¾n","MS",1023
+"kitchen","SC38D!","239.4(*)!","N","N"," "," ","kˆ`±«tó±¾n","MS",1024
+"cook room","SC38D!","239.4(*)!","O","N","""country people call it¢"," ","åk`¹«¼k$õru¿¼ºwm","MS",1024
+"stove room","SC38D!","239.4(*)!","O","N","""country people call it¢"," ","åsto¼º¹¼{v}$õru¿¼ºwm","MS",1024
+"country people call it","SC38D!","239.4(*)!","S","Y"," ","INA","åk`¦¼ntò±¿«¼$õpiºjpl$åk`¶¼o¼l$±¿¼t","MS",1024
+"kitchen","SC38E!"," ","N","N"," ","CNV","kˆ`±«tó±¿¼n"," ",1025
+"kitchen","SC39A","240.1","N","N","used to be built off from the house"," ","kˆ`±«tó±¾n","MS",1026
+"stove room","SC39A","240.1","O","N"," "," ","åstoº¹v$õru¿¾ºwm","MS",1026
+"cook room","SC39A","240.1","O","Y","rare","SUG/HRD","åk`¹¼k$õru¼ºm","MS",1026
+"kitchen","SC39A","240.1","N","N"," ","CNV","kˆ`±«tó±¿¼n","MS",1026
+"stove room","SC39A","240.1","O","N"," "," ","åstoº¹v$õr¹¿¾m","MS",1026
+"storm pit","SC39A","240.1","O","Y"," ","INA/DDT","åst¶«º·m$õp`±«t","MS",1026
+"kitchen","SC39B!","240.2!","N","N","set off, sometimes brick wall","CNV","k`±«tó±¾n","MS",1027
+"cook room","SC39B!","240.2!","O","N","separate from dining room"," ","åk`¹¼k$õru¿ºwm","MS",1027
+"dining room","SC39B!","240.2!","O","N","separate from cook room"," ","ådµ«¼º{±¿}nn–$õru¿ºwm","MS",1027
+"rooms","SC39B!","240.2!","N","Y"," ","INA","ru¿ºwmz{z}","MS",1027
+"kitchen","SC40A","241.1","N","Y","old-timey, separate inn old days","OLD","k`i½tó±¿¼n","MS",1028
+"stove room","SC40A","241.1","O","N"," "," ","åsto¼º¹v$õr¹¿«ºu¼m","MS",1028
+"stove room","SC40A","241.1","O","N"," ","CNV","åsto¼º¹v$r¹¿«¾º{u¼}m","MS",1028
+"kitchen","SC40A","241.1","N","Y","old-timey, separate inn old days","OLD","k`iºtó±¿¼n","MS",1028
+"kitchen","SC40B","241.2","N","N"," "," ","k`±«tó±¿¼n","MS",1029
+"cook room","SC40B","241.2","O","N"," "," ","åk¹«¼k$r¹¿«u¼m","MS",1029
+"stove room","SC40B","241.2","O","N"," "," ","åsto¼º¹¼v$õru¿½u¼m","MS",1029
+"kitchen","SC40B","241.2","N","N"," "," ","k`±«¾tó±¿ş{n}","MS",1029
+"kitchens","SC40B","241.2","N","N"," ","CNV","k{j}`±«tó±¿¼nz","MS",1029
+"kitchen","SC41A","242.1","N","N"," "," ","k±«tó±¿½n","MS",1030
+"stove room","SC41A","242.1","O","N"," "," ","åsto«{¹}{v}$ru¿½ºm","MS",1030
+"kitchen","SC41B","242.2","N","N"," "," ","k`±«tó±¿¼n","MS",1031
+"stove room","SC41B","242.2","O","Y","used to be separate with shaded walk","AMS","åsto¼º¹¼v$õru¿ºu«¼m","MS",1031
+"cook room","SC41B","242.2","O","N"," "," ","åk`¹«¼k$õru¿ºu«¼m","MS",1031
+"stove room","SC41B","242.2","O","N"," ","CNV","åsto¼º¹¼v$õr¹¿¾ºm","MS",1031
+"kitchen","SC42N","N243","N","N"," "," ","kˆ`i½tó±¿İn","MS",1032
+"stove room","SC42N","N243","O","N","""my auntie never called it nothing but¢)"," ","åsto«¼¹v$õru¿ş½uş¼m","MS",1032
+"cook room","SC42N","N243","O","N","""my auntie never called it nothing but¢)"," ","åk¹¼k$õru¿ş¼uş«¼{m}","MS",1032
+"kitchen","SC42N","N243","N","N"," "," ","kˆ`±«¾tó±¿İn","MS",1032
+"my auntie never called it nothing but","SC42N","N243","S","N","""my auntie never called it anything but¢)"," ","maº$á«º{²}nti¿”$ån²¾v°$kˆ`¶«·ìd$±¼t$ån¸«ùn$b°t","MS",1032
+"kitchen","SC42N","N243","N","N"," "," ","k{j}`±«tó±¿¼n","MS",1032
+"stove room","SC42N","N243","O","N"," "," ","åsto½¼º¹¼v$õru¿ş¼u¿ş«¼{m}","MS",1032
+"stove room","SC42N","N243","O","N"," "," ","åsto½¼º¹¼{v}$õru¿ş¾u¿ş«¾{m}","MS",1032
+"kitchen","SC42A","243.1","N","N","separate on old farms"," ","kˆi½tó±n","MS",1034
+"cook room","SC42A","243.1","O","N"," ","CNV","åk`¹«¼k$õr¹«¼u¼m","MS",1034
+"kitchen","SC42A","243.1","N","N","separate on old farms","CNV","kˆ`±«tó±¿¼n","MS",1034
+"kitchen","SC42B!","243.2!","N","N"," "," ","åkˆ`±«tó±¾n","MS",1035
+"cook room","SC42B!","243.2!","O","N","everywhere"," ","åkˆ`¹¼k$õry¾u¿«m","MS",1035
+"cook house","SC42B!","243.2!","O","N","when separate"," ","åk`¹¼k$õhµ«¼º¹¼s","MS",1035
+"kitchen","SC42C!","243.3!","N","N","part of house"," ","kˆ{j}i½tó±¾n","MS",1036
+"cook room","SC42C!","243.3!","O","N"," "," ","k¹k$ru½um","MS",1036
+"kitchen","SC42C!","243.3!","N","N"," "," ","k±tó±¿n","MS",1036
+"porch","SC42C!","243.3!","N","Y","""not a kitchen¢","INA","po{¹}tó","MS",1036
+"not a kitchen","SC42C!","243.3!","O","N"," "," ","nµ¾t$°İ$åk±dú±¿İn","MS",1036
+"kitchen","SC42D!","243.4!","N","N"," "," ","k±tón","MS",1037
+"kitchen","SC42E!","243.5!","N","N"," "," ","kˆ±ºtó±¿¼n","MS",1038
+"kitchen","SC43A","244.1","N","N"," ","CNV","kˆ±«tó±¾n","MS",1039
+"kitchen","SC43B","244.2","N","N"," "," ","kˆ`±«tó±¾n","MS",1040
+"cook room","SC43B","244.2","O","Y"," ","HRD","åk`¹¼k$õr—u¿u«¼m","MS",1040
+"kitchen","SC43B","244.2","N","N"," "," ","k`±«tó±¾îˆ","MS",1040
+"kitchen","SC43C","244.3","N","N"," "," ","kˆ±«tó±¿½¼n","MS",1041
+"kitchen","SC44A","245.1","N","N","old times, outside"," ","kˆ`±¼tó±¿¼n","MS",1042
+"cook room","SC44A","245.1","O","N"," "," ","åk`¹¼k$õr¹¿¾º{u¿}m","MS",1042
+"kitchen","SC44A","245.1","N","N","old times, outside"," ","kˆ{h}±«¾tó±¿¼n","MS",1042
+"kitchen","SC44B","245.2","N","N","old time, separate, some with roofed walkways"," ","kˆ±«tó±¿«¼n","MS",1043
+"cook room","SC44B","245.2","O","N"," "," ","åk{h}¹«¼k$õru¿ş¼º{u¿«}m","MS",1043
+"kitchen","SC44B","245.2","N","N","old time, separate, some with roofed walkways"," ","kˆ`i½tó±¿«¼n","MS",1043
+"kitchen","SC44B","245.2","N","N","old time, separate, some with roofed walkways"," ","k`±«tó±¿ş{n}","MS",1043
+"kitchen","GA1N","N246","N","N"," "," ","kˆ±tó±¿¼n","MS",1044
+"kitchen","GA1A","246.1(*)","N","N"," ","CNV","kˆ`±«tó±¾n","MS",1045
+"kitchen","GA1A","246.1(*)","N","Y"," ","AUX2","k±tó±¿n","MS",1045
+"outside kitchen","GA1A","246.1(*)","O","Y"," ","AU2X/OLD","åa«¾¹tsa±¿d$kˆ±tó±¿n","MS",1045
+"kitchen","GA1B","246.11","N","N","inside in city houses"," ","k±tó±¿n","MS",1046
+"kitchen","GA1C","246.2","N","N"," "," ","kˆ±«tó±¾n","MS",1047
+"kitchen","GA1D","246.3","N","N","in the back","CNV","kˆ`±«tó±¿¼n","MS",1048
+"kitchen","GA1E","246.4","N","N"," "," ","kˆ`±«tó±¾n","MS",1049
+"kitchen","GA1F!","246.5!","N","N"," "," ","k±½¾tó±¿½¾n","MS",1050
+"kitchens","GA1G!","246.6!","N","N","usually in ""basement¢"," ","kˆ`±«tó±¾nz","MS",1051
+"basement","GA1G!","246.6!","N","Y"," ","INA","åbeºsmn–t","MS",1051
+"kitchen","GA1H!","246.7!","N","N"," ","CNV","kˆ`±«tó±¾n","MS",1052
+"kitchenette","GA1H!","246.7!","N","Y"," ","NEW","kˆ`i½tó±¿¼ån²«{°}t","MS",1052
+"kitchen","GA2N","N247","N","N"," "," ","kˆ`±«tó±¿½¼n","MS",1053
+"kitchen","GA2A","247.1","N","N","used to be separate"," ","k`±«tó±¿n","MS",1054
+"stove room","GA2A","247.1","O","Y"," ","HRD","åsto¼º¹v$õru¿º{w}m","MS",1054
+"kitchen","GA2B","247.2","N","N"," "," ","kˆ`±«tó±¾n","MS",1055
+"kitchen","GA3A","248.1","N","N"," "," ","k`±½{°}tó±¿½¾n","MS",1056
+"kitchen","GA3B","248.2","N","N"," "," ","kˆ`±«tó±¿¼n","MS",1057
+"kitchen","GA4N","N249","N","N"," "," ","åk±tó±¿n","MS",1058
+"kitchen","GA4A","249.1","N","N"," "," ","k±«{°}tó±¿¼n","MS",1059
+"range","GA4A","249.1","N","Y"," ","INA/CNV","reº{°}ndú","MS",1059
+"stove","GA4A","249.1","N","Y"," ","INA/CNV","åstoº{°}v","MS",1059
+"kitchen","GA4B","249.2","N","N","away from house in slavery times"," ","k±«{°}tó±¿¼n","MS",1060
+"kitchen","GA4C!","249.3!","N","N"," ","CNV","k`±«{°}tó±¿¼n","MS",1061
+"cook room","GA4C!","249.3!","O","N","long years ago in yard, with connecting walk"," ","åk¹«¼k$õru¼ºm","MS",1061
+"cook house","GA4C!","249.3!","O","N"," ","CNV","åk¹«¼kõ¥«¹s","MS",1061
+"kitchen","GA5A","250.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1062
+"galley","GA5A","250.1","N","N","""a sea-faring man for generations¢"," ","j¿‡á«l±«¾{i¾}","MS",1062
+"kitchen","GA5B","250.2","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1063
+"kitchen","GA5C","250.3","N","N"," "," ","k±«{°}tó±¿¼n","MS",1064
+"wash room","GA5C","250.3","O","Y"," ","INA","åwŞ—«¼ó$r¹İ¼m","MS",1064
+"kitchen","GA5D!","250.4!","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1065
+"kitchen","GA5E!","250.5!","N","N"," "," ","kˆ±½{°}tó±¿İn","MS",1066
+"kitchen","GA6A","251.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1067
+"kitchen","GA6B!","251.2!","N","N","joined on"," ","k±«{°}tó±¿¼n","MS",1068
+"kitchen","GA6B!","251.2!","N","N","joined on","CNV/SIC","k±«{°}tó±¿¼î","MS",1068
+"kitchen","GA7","256","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",1069
+"kitchen","GA7","256","N","N"," "," ","kˆ`±«{°}tón","MS",1069
+"kitchen","GA8A","257.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1070
+"kitchen","GA8B","257.2","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1071
+"big house","GA8B","257.2","O","Y","main","INA","åb±«{°}g$õha¾°—½s","MS",1071
+"kitchen","GA9A","257A.1","N","N"," "," ","kˆ±tó±¿¼n","MS",1072
+"kitchen","GA9B","257A.2","N","N"," "," ","kˆ±tó±¿¼n","MS",1073
+"kitchen","GA9B","257A.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",1073
+"kitchen","GA10A","258.1","N","N","go from the ""kitchen to the house¢"," ","kˆ`±ºtó±¿n","MS",1074
+"kitchen to the house","GA10A","258.1","O","N","go from the)","CNV","kˆ±tó±¿n$t°$d°$åhá½¹s","MS",1074
+"kitchen","GA10B","258.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",1075
+"dining room","GA10B","258.2","O","N"," "," ","ådµº±¿n±¿¼n$õru¿ºm","MS",1075
+"kitchen","GA11N","N258A","N","N"," "," ","kˆ±tó±¿¼n","MS",1076
+"kitchen","GA11N","N258A","N","N"," "," ","ki½tó±¿¼n","MS",1076
+"kitchen","GA11N","N258A","N","N"," "," ","kˆ{j}±«tó±¿¼n","MS",1076
+"kitchen","GA12A","259.1","N","N","used to be separate"," ","kˆ±«tó±¿¼n","MS",1077
+"kitchen","GA12A","259.1","N","N","used to be separate"," ","kˆ`±«tó±¿¼n","MS",1077
+"scullery","GA12A","259.1","N","Y","grandmother's word; dug down","OLD/INA","sk¦½l°r±¿«¼","MS",1077
+"dining room","GA12A","259.1","O","N","separate"," ","ådµ¼±¿n±¾n$õru¿ºm","MS",1077
+"kitchen","GA12B!","259.2(.3)","N","N","even if separate"," ","k±tó±¿¼n","MS",1078
+"kitchen","GA12B!","259.2(.3)","N","N","even if separate"," ","k`±ºtó±¿¼n","MS",1078
+"kitchen","GA13A","260.1","N","N"," "," ","kˆ{h}±tó±¿n","MS",1079
+"cook room","GA13A","260.1","O","Y"," ","SUG","k¹k$r¹«m","MS",1079
+"kitchen","GA13B!","260.2!","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1080
+"kitchen","GA14A","261.1","N","N"," "," ","kˆ±«tón","MS",1081
+"dining room","GA14A","261.1","O","N"," "," ","åda«¾{±¿}nn–$õru¿º{w}m","MS",1081
+"kitchen","GA14B","261.3","N","N","off from house; fire hazard"," ","kˆ`±«tó±¾n","MS",1082
+"kitchen","GA14C","261.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",1083
+"log kitchen","GA14C","261.2","O","N"," "," ","l·¼{°}g$kˆ±«tó±¿¼n","MS",1083
+"kitchen","GA15A","262.1","N","N"," "," ","k±tó±¿½n","MS",1084
+"kitchen","GA15B","262.2","N","N","old log house; separate"," ","kˆ`±«{°}tó±¿¼n","MS",1085
+"kitchen","GA16A","263.2","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1086
+"cook rooms","GA16A","263.2","O","N"," ","CNV","åk`¹¼k$õruş¼º{m}z","MS",1086
+"kitchen","GA16B","263.1","N","N","separate"," ","c‡i½tó±¿¼n","MS",1087
+"cook room","GA16B","263.1","O","N","""when moved into house¢"," ","k¹¼krm","MS",1087
+"cook room","GA16B","263.1","O","N","""when moved into house¢"," ","k¹¼k$r¹İ¼m","MS",1087
+"kitchen","GA16C","263.21","N","N"," "," ","k±tó±¿¼n","MS",1088
+"outdoor kitchen","GA16C","263.21","O","N"," "," ","åa«¹tõdo¼°$k`±ºtó±¿¼n","MS",1088
+"kitchen","GA16C","263.21","N","N"," "," ","k`±ºtó±¿¼n","MS",1088
+"kitchen","GA16D!","263.3!","N","N","originally in backyard"," ","kˆ±«{°}tó±¿¼n","MS",1089
+"kitchen","GA17N","N264","N","N"," "," ","kˆ±tó±¿n","MS",1090
+"kitchen","GA17","264","N","N"," "," ","k±tón","MS",1091
+"kitchen","GA18A","264A.1","N","N"," "," ","åkˆ±{°}tó±¿¼n","MS",1092
+"kitchen","GA18B","264A.2","N","N","""a ell¢; separate in older house"," ","kˆ±tó±¿¼n","MS",1093
+"walk-off","GA18B","264A.2","N","Y","to separate kitchen in older houses","INA","åw¶«okõ¶«of","MS",1093
+"a ell","GA18B","264A.2","O","N"," "," ","°$å²º{°}ì","MS",1093
+"kitchen","GA19A","265.1","N","N","out from house, in old days"," ","kˆ±«{°}tó±¿¼n","MS",1094
+"kitchen","GA19B","265.2","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1095
+"kitchen","GA20A","266.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1096
+"kitchen","GA20B","266.2","N","N","usually not part of house"," ","kiº{°}tó±¿¼n","MS",1097
+"kitchen","GA21A","267.1","N","N","sep. bldg. in house informant was raised in"," ","kˆ`±tó±¿¼n","MS",1098
+"kitchen","GA21B","267.2","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",1099
+"kitchen","GA22A","268A.1","N","N"," "," ","k`±tó±¿¼n","MS",1100
+"kitchen","GA22A","268A.1","N","N"," ","CNV","k±tó±¿n","MS",1100
+"kitchen","GA22B","268A.2","N","N"," "," ","ki½tó±¿¼n","MS",1101
+"kitchen","GA23A","268.1","N","N"," "," ","k±«{°}tó±¿¼n","MS",1102
+"kitchen","GA23B","268.11","N","N"," "," ","k±tó±¿¼n","MS",1103
+"kitchen","GA23C","268.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",1104
+"kitchen","GA23D!","268.3","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1105
+"stove room","GA23D!","268.3","O","Y","""old mammy¢","HRD","åsto¼º¹¼v$õru¿m","MS",1105
+"mammy","GA23D!","268.3","N","Y","old)","INA","máº{°}m±¿","MS",1105
+"kitchen","GA23E!","268.4!","N","N","separate"," ","k±tó±¿¼n","MS",1106
+"kitchen","GA23F!","268.5!","N","N"," "," ","k±tó±¿¼n","MS",1107
+"kitchen","GA23F!","268.5!","N","N"," "," ","kˆ±tó±¿n","MS",1107
+"kitchen","GA24N","N269","N","N"," "," ","kˆ±t {ó}±¿¼n","MS",1108
+"outside kitchen","GA24N","N269","O","N"," "," ","åa°—tõsa«¾º{°}d$åkˆ±«tó±¿¼n","MS",1108
+"kitchen","GA24A","269.1","N","N"," "," ","k{h}±ºtó±¿½n","MS",1109
+"stove room","GA24A","269.1","O","Y"," ","NEW","sto{¹}{v}$r¹¿½¾ºm","MS",1109
+"kitchen","GA24B","269.2","N","N"," "," ","k`±«tó±¿¼n","MS",1110
+"kitchen","GA25N","N269A","N","N"," "," ","kˆ±tó±¿¼n","MS",1111
+"kitchen","GA26","270A","N","N"," "," ","kˆ±tó±¿İn","MS",1112
+"kitchen","GA27!","270!","N","N"," "," ","k`±¿tó±¿İn","MS",1113
+"stove room","GA27!","270!","O","Y","rural ""Negro¢","HRD","sto½¹¼v$ru¿º{u¿«}m","MS",1113
+"Negro","GA27!","270!","N","Y"," ","INA","n±gr°","MS",1113
+"kitchen","GA28","271a","N","N"," "," ","kˆ±tó±¿¼n","MS",1114
+"stove room","GA29A","271.1","O","N"," ","HRD/CNV","åsto«ºv$õr¹¼m","MS",1115
+"kitchen","GA29A","271.1","N","N","""always called it¢"," ","åk±¿tó±¿¼n","MS",1115
+"kitchen","GA29A","271.1","N","N","""always called it¢"," ","kˆ±«tó±¿¼n","MS",1115
+"cook house","GA29A","271.1","O","N"," ","CNV","åk¹¼k$õh¸½¹s","MS",1115
+"stove room","GA29B","271.2","O","N"," ","CNV","åsto¼ºv$õr¹¼m","MS",1116
+"kitchen","GA29B","271.2","N","N","out from house"," ","kˆ±«tó±¿¼n","MS",1116
+"stove room","GA30A","272.1(*)","O","N"," "," ","åsto¼¹¼v$õò¹¿«¾º{°}m","MS",1117
+"kitchen","GA30A","272.1(*)","N","N"," "," ","c‡`±«{°}tó±¿¼n","MS",1117
+"stove room","GA30A","272.1(*)","O","N"," ","CNV","åstoº¹v$õò¹¿«¾º{°}m","MS",1117
+"kitchen","GA30B","272.2(*)","N","N"," "," ","c‡`±«{°}tó±¿¼n","MS",1118
+"kitchen","GA30C!","272.3!","N","N"," "," ","kˆ±«tó±¿¼n","MS",1119
+"stove room","GA30C!","272.3!","O","Y"," ","OLD","åsto{¹}v$õru¿{u¿«}m","MS",1119
+"kitchen","GA30D"," ","N","N","used to stand in yard"," ","kˆ±«{°}tó±¿¼n"," ",1120
+"NA","GA30E"," "," ","N"," "," "," "," ",1121
+"kitchen","GA31","272A","N","N"," "," ","kˆ±tó±¿¼n","MS",1122
+"kitchen","GA32","272B","N","N","in grandmother's house, separate building"," ","k±tó±¿¼n","MS",1123
+"kitchen","GA32","272B","N","N","in grandmother's house, separate building"," ","k±tó±¿¼î","MS",1123
+"kitchen","GA33A","272C1","N","N"," "," ","k±¿tó±¿¼î","MS",1124
+"cook room","GA33A","272C1","O","N"," "," ","åk¹¼k$õru¿{u¿«}m","MS",1124
+"kitchen","GA33B","272C2","N","N"," "," ","kˆ±tó±¿¼n","MS",1125
+"stove room","GA34N","N273","O","N"," "," ","åsto¼º¹¼v$õru¿ş{m}","MS",1126
+"kitchen","GA34N","N273","N","N"," "," ","kˆ±«tó±¿¼n","MS",1126
+"stove room","GA34A","273.1","O","Y"," ","NEW","åsto{¹}{v}$õru¿º½¾m","MS",1127
+"kitchen","GA34A","273.1","N","N","especially old separate kind"," ","k±tó±¿½n","MS",1127
+"cook room","GA34B","273.2","O","N"," "," ","åk`¹¼k$õru¿ºwm","MS",1128
+"kitchen","GA34B","273.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",1128
+"stove room","GA35N","N273A","O","N"," "," ","åsto¹v$õr¹¿{u¿«}m","MS",1129
+"kitchen","GA35N","N273A","N","N"," "," ","åkˆ±tó±¿¼n","MS",1129
+"kitchen","GA36N","N274A","N","N"," "," ","k±tó±¿n","MS",1130
+"kitchen","GA37N","2N274","N","N"," "," ","k±tó±¿n","MS",1131
+"lean-to","GA37M!","NC274","N","N","a summer kitchen"," ","åliº{i«}nõt`u¿","MS",1132
+"kitchen","GA37M!","NC274","N","N"," "," ","k±tó±¿n","MS",1132
+"table room","GA37A","274.1","O","N"," "," ","åt`eº{±¿}bì$õru¿º{w}m","MS",1133
+"kitchen","GA37A","274.1","N","N"," "," ","kˆ`i½tó±¿¼n","MS",1133
+"kitchen","GA37B","274.2","N","N"," "," ","k`±«tó±¿¼n","MS",1134
+"kitchen","GA37C","274.21","N","N","separate in old house"," ","åkˆ±tó±¿¼n","MS",1135
+"cook house","GA37C","274.21","O","N"," "," ","åk¹¼k$ha«¹s","MS",1135
+"cook room","GA37C","274.21","O","N"," "," ","åk¹¼k$õru¿{u¿«}m","MS",1135
+"grill","GA37D!","274.7!","N","Y"," ","INA","gr±º{°}ì","MS",1136
+"kitchen","GA37D!","274.7!","N","N"," ","CNV","k±«tó±¿¼n","MS",1136
+"outdoor fireplace","GA37D!","274.7!","O","Y"," ","INA","åa«¾¹tõdo¼°$åfa«¾º{°}õple{±¿}s","MS",1136
+"kitchen","GA37D!","274.7!","N","N"," ","CNV","k±tó±¿¼n","MS",1136
+"barbeque pit","GA37D!","274.7!","O","Y"," ","INA","åbµ¾b±¿õkju¿{u¿«}$p`±t","MS",1136
+"kitchen","GA37E!","274.8!","N","N"," ","CNV","kˆ±tó±¿¼n","MS",1137
+"kitchen","GA37E!","274.8!","N","N"," "," ","kˆ±«tó±¿¼n","MS",1137
+"kitchen","GA37F!","274.3!","N","N"," "," ","kˆ`±«tó±¿¼n","MS",1138
+"stove room","GA37G!","274.4!","O","Y"," ","HRD","åsto¼º¹¼v$õru¿ºwm","MS",1139
+"kitchen","GA37G!","274.4!","N","N"," "," ","k`i½tó±¿¼n","MS",1139
+"cousin room","GA37H!","274.5!","O","Y"," ","HRD/SIC","åk`¦½zn$õr¹¼{°}m","MS",1140
+"kitchen","GA37H!","274.5!","N","N"," "," ","kˆ±«tó±¿¼n","MS",1140
+"summer kitchen","GA37I!","274.6!","O","N","rare"," ","s¸«¼m°$k±tó±¿¼n","MS",1141
+"kitchen","GA37I!","274.6!","N","N"," "," ","k±tó±¿¼n","MS",1141
+"cook house","GA37I!","274.6!","O","N","older [than kitchen]"," ","åk`¹k$õha«¹s","MS",1141
+"kitchen","GA38","275","N","N"," "," ","kˆ±«tó±¿n","MS",1142
+"kitchen","GA39","275A","N","N","separated in better homes in the country"," ","kˆ±«tó±¿¼n","MS",1143
+"kitchen","GA40","276A","N","N"," "," ","kˆ±«tó±¿¼n","MS",1144
+"kitchen","GA41","276B","N","N"," ","CNV","ki½tó±¾n","MS",1145
+"kitchen","GA41","276B","N","N"," ","CNV","kˆ±«tó±¿«¼î","MS",1145
+"kitchen","GA41","276B","N","N"," ","CNV","kˆ±«tó±¿¼n","MS",1145
+"kitchen","GA42A","276.1","N","N"," "," ","kˆ`±¾tó±¿¼n","MS",1146
+"kitchen house","GA42A","276.1","O","N"," "," ","åkˆ±«tó±¿¼n$õhµ«os","MS",1146
+"kitchen","GA42B","276.2","N","N"," "," ","kˆ±«tó±¿¼n","MS",1147
+"stove room","GA43","277","O","Y"," ","NEW","åsto{¹}v$ru¿½ºm","MS",1148
+"cook room","GA43","277","O","N"," "," ","åk¹¿k$ru¿½ºm","MS",1148
+"kitchen","GA43","277","N","Y"," ","OLD","k±tó±¿½n","MS",1148
+"kitchen","GA44A","278.1","N","N"," "," ","kˆ±«tó±¿¼n","MS",1149
+"kitchen","GA44B","278.2","N","N"," ","SIC","kˆ±«tó±¿¼î","MS",1150
+"cook room","GA44B","278.2","O","Y"," ","HRD","åk¹«k$õru¿¾ºwm","MS",1150
+"kitchen","GA44C","278.3","N","N"," "," ","kˆ±«tó±¿¼n","MS",1151
+"side room","GA44C","278.3","O","Y"," ","HRD","åsa«¾º{°}d$õru¿º{w}m","MS",1151
+"kitchen","GA44D","278.4","N","N"," "," ","kˆ±«tó±¿¼n","MS",1152
+"kitchen","GA44E","278.5","N","N"," "," ","åkˆ±tó±¿¼n","MS",1153
+"kitchen","FL1","252","N","N"," "," ","kˆ±«tó±¿¼n","MS",1154
+"kitchen","FL2A","253.1","N","N"," "," ","kˆ±«{°}tó±¿¼n","MS",1155
+"kitchen","FL2B","253.2","N","N"," "," ","kˆ±tó±¿¼n","MS",1156
+"kitchen","FL2C!","253.3!","N","N"," "," ","kˆ±«tó±¿¼n","MS",1157
+"kitchen","FL3A","254.1","N","N"," "," ","kˆ`±«{°}tó±¿¼n","MS",1158
+"kitchen","FL3B!","254.2!","N","N"," "," ","kˆ`±«tó±¿¼n","MS",1159
+"kitchen","FL4","254A","N","N","separate, 20ft sq."," ","kˆ±«tó±¿½n","MS",1160
+"big room","FL4","254A","O","N","= kitchen"," ","åb±«g$õr¹¼m","MS",1160
+"galley","FL4","254A","N","Y","old name for separate kitchen","SUG/OLD/DBT","gá«l±¿","MS",1160
+"kitchen","FL5A","255.1","N","N","separate"," ","kˆ±«tó±¿¼n","MS",1161
+"kitchen","FL5B","255.2","N","N"," ","CNV","kˆ±«{°}tó±¿½n","MS",1162
+"cook room","FL5B","255.2","O","Y"," ","HRD","åk¹¼k$õr¹İ¼m","MS",1162
+"NA","SC42M"," "," ","N"," "," "," ","MS",1033
+"","","","","","","","","",

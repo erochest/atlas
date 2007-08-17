@@ -1,0 +1,12 @@
+southwest wind (cp6#5a.asc)
+
+Items
+=====
+                                 NR   36
+                              south    4
+                          southwest    4
+                     southwest wind   18
+                        southwester    8
+                       southwesters    1
+                        westly wind    1
+

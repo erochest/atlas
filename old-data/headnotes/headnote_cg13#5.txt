@@ -1,0 +1,117 @@
+I was talking (cg13#5.asc)
+
+Items
+=====
+                          creek was    1
+                          girls was    1
+                             he was    2
+               I been a-talk to him    1
+            I been a-talking to him    2
+                     I been talking    4
+              I been talking to him    3
+      I had a conversation with him    1
+                       I is talking    1
+                          I talking    1
+                              I was    5
+                      I was fishing    1
+                     I was planning    1
+                      I was talking   21
+               I was talking to him    4
+               I was talking to she    1
+ I was talking to such and such one    1
+             I was talking with him    1
+                     I was thinking    1
+                             I were    1
+                     I were talking    2
+                                 NR    9
+                     ovens was iron    1
+                       parents were    1
+                   people was going    1
+                            she was    1
+                      she were fine    1
+             the old days was worse    1
+                           them was    1
+                         these were    1
+            they been a-talk to him    1
+         they been a-talking to him    1
+                  they been talking    4
+           they been talking to him    3
+   they had a conversation with him    1
+                           they was    6
+                 they was hollering    1
+                   they was talking    5
+            they was talking to him    4
+            they was talking to she    1
+they was talking to such and such one    1
+          they was talking with him    1
+                          they were    2
+                    they were going    1
+            was you starting to say    1
+              we been a-talk to him    1
+           we been a-talking to him    1
+                    we been talking    4
+             we been talking to him    3
+     we had a conversation with him    1
+                             we was    4
+                      we was hoping    1
+                     we was talking    5
+               we was talking about    1
+              we was talking to him    4
+              we was talking to she    1
+we was talking to such and such one    1
+                            we were    1
+                    we were talking    1
+                when I were younger    1
+                 where were he born    1
+              while we were talking    1
+                           who were    1
+             you been a-talk to him    1
+          you been a-talking to him    1
+                   you been talking    4
+            you been talking to him    3
+    you had a conversation with him    1
+                     you is talking    1
+                        you talking    1
+                            you was    1
+                    you was talking   16
+             you was talking to him    4
+             you was talking to she    1
+you was talking to such and such one    1
+           you was talking with him    1
+                           you were    2
+                   you were talking    1
+
+
+
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 13#5, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 13 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+13#P		13#3
+		13#1 (no question)
+13#1		13#2
+13#2 S		
+13#3 S
+13#4
+13#5a		13#4
+13#5b		13#4
+13#6		13#5
+		13#6 (no question)
+13#7 S
+13#8		13#7
+13#9		13#8

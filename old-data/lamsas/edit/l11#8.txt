@@ -1,0 +1,2051 @@
+"woodshed","NY1","50","N","N"," "," ","wπdÛ≤d","MS",1
+"ell","NY1","50","N","N"," "," ","≤Ï","MS",1
+"shed","NY1","50","N","N"," "," ","Û≤d","MS",1
+"lean-to","NY1","50","N","Y"," ","SUG","lijntuw","MS",1
+"woodshed","NY2A","51.1","N","N"," "," ","wπdÛ≤d","MS",2
+"ell","NY2A","51.1","N","N"," "," ","≤Ï","MS",2
+"porch","NY2A","51.1","N","N"," "," ","poΩ∞tÛ","MS",2
+"woodhouse","NY2B","51.2","N","N"," "," ","wπda´πs","MS",3
+"shed","NY2B","51.2","N","N","= leanto"," ","Û≤d","MS",3
+"wing","NY2B","51.2","N","N"," "," ","w±Ó","MS",3
+"ell","NY2B","51.2","N","N"," "," ","≤l","MS",3
+"porch","NY2B","51.2","N","N"," "," ","poΩ∞tÛ","MS",3
+"lean-to","NY2B","51.2","N","N"," "," ","l±æjntuw","MS",3
+"wing","NY2C","51.3","N","N"," "," ","w±{∞}Ó","MS",4
+"ell","NY2C","51.3","N","N"," "," ","≤Ï","MS",4
+"woodhouse","NY2C","51.3","N","N"," "," ","wπdh≤Ωæπs","MS",4
+"shed","NY2C","51.3","N","N"," "," ","Û≤{∞}{d}","MS",4
+"woodhouse","NY3A","401","N","N"," "," ","Âwπdıh≤Ωπs","MS",5
+"toolhouse","NY3A","401","N","N"," "," ","Âtu{w}Ïıh≤Ωπs","MS",5
+"woodshed","NY3A","401","N","N","open"," ","ÂwπdıÛ≤d","MS",5
+"toolhouse","NY3B","403","N","N"," "," ","Âtuº∫Ïıh•›Ωºπs","MS",6
+"woodshed","NY3B","403","N","N"," "," ","ÂwπdıÛ≤d","MS",6
+"woodshed","NY3C","402","N","N"," "," ","ÂwπdıÛ≤d","MS",7
+"toolhouse","NY3C","402","N","N"," "," ","Ât{h}uº∫Ïıha´πs","MS",7
+"woodshed","NY3D","404","N","N"," "," ","ÂwπdıÛ≤d","MS",8
+"tool shed","NY3D","404","N","N"," "," ","t{h}u∫Ï$Û≤d","MS",8
+"woodhouse","NY4A","405","N","N"," "," ","wπdh·›æπs","MS",9
+"toolhouse","NY4A","405","N","N"," "," ","t{h}uº∫Ïh·›æπs","MS",9
+"outhouse","NY4B","407","N","N"," "," ","Â·›´π›´tıh·›´æπ›´s","MS",10
+"shop","NY4B","407","N","N","tools"," ","Ûµ´æp","MS",10
+"woodshed","NY4C","408","N","N"," "," ","ÂwπdıÛ≤d","MS",11
+"tool shed","NY4C","408","N","N"," "," ","tu∫Ï$Û≤d","MS",11
+"woodshed","NY5A","409","N","N"," "," ","ÂwπdıÛ≤›´æd","MS",12
+"toolhouse","NY5A","409","N","N"," "," ","tu∫Ïha›´π›s","MS",12
+"woodhouse","NY5B","410","N","N"," "," ","Âwπdıha´∫πs","MS",13
+"toolhouse","NY5B","410","N","N"," "," ","Âtuº∫Ïıha´∫πs","MS",13
+"woodshed","NY5C","411","N","N"," "," ","ÂwπdıÛ≤d","MS",14
+"tool shed","NY5C","411","N","N"," "," ","t{h}u∫Ï$Û≤d","MS",14
+"woodshed","NY5D","412","N","N"," "," ","ÂwπdıÛ≤æd","MS",15
+"toolhouse","NY5D","412","N","N"," "," ","Ât{h}uº∫Ïıha∫πs","MS",15
+"woodhouse","NY5E","413","N","N"," "," ","Âwπdıha´æ∫πs","MS",16
+"toolhouse","NY5E","413","N","N"," "," ","Ât{h}uº∫Ïıha´æ∫πs","MS",16
+"woodshed","NY5F","414","N","N"," "," ","ÂwπdıÛ≤dè","MS",17
+"tool chest","NY5F","414","N","N"," "," ","Âtu∫Ï$ıtÛ≤st","MS",17
+"woodshed","NY5G","415","N","N"," "," ","wπdÛ≤d","MS",18
+"toolhouse","NY5G","415","N","N"," "," ","tuº∫ÏhaπΩs","MS",18
+"shed","NY5H!","416!","N","N"," "," ","Û≤d","MS",19
+"toolhouse","NY5H!","416!","N","N"," "," ","Âtuº∫Ïıhaπs","MS",19
+"woodshed","NY5I!","417!","N","N"," "," ","ÂwπdıÛ≤d","MS",20
+"tool shed","NY5I!","417!","N","N"," "," ","Ât{h}uº∫Ï$ıÛ≤d","MS",20
+"woodshed","NY6A","418","N","N"," "," ","Âwπ›dèıÛ≤›ædè","MS",21
+"tool chest","NY6A","418","N","N"," "," ","Ât{h}uº∫Ï$ıtÛ±st","MS",21
+"woodshed","NY6B","419","N","N"," "," ","ÂwπdıÛ≤d","MS",22
+"tool shed","NY6B","419","N","N"," "," ","t{h}u∫Ï$Û≤d","MS",22
+"wood bin","NY7A","420","O","Y","a container","INA","Âwπd$ıb≤n","MS",23
+"tool shanty","NY7A","420","O","N"," "," ","tu∫Ï$Û·ntê±ø{±ø´}","MS",23
+"woodshed","NY7B","421","N","N"," "," ","ÂwπdıÛ≤d","MS",24
+"toolhouse","NY7B","421","N","N"," "," ","Âtu∫Ï$ıhaπs","MS",24
+"woodshed","NY7C","422","N","N"," "," ","ÂwπdıÛ≤d","MS",25
+"tool chest","NY7C","422","N","N"," "," ","Ât{h}u∫Ï$tÛ≤st","MS",25
+"woodshed","NY7D","423","N","N"," "," ","ÂwπdıÛ≤Ωæd","MS",26
+"toolhouse","NY7D","423","N","N"," "," ","Âtuº∫ÏıhaπΩs","MS",26
+"woodhouse","NY7E","424","N","N"," "," ","Âwπdıhaπs","MS",27
+"shed","NY7E","424","N","N"," "," ","Û≤d","MS",27
+"woodhouse","NY7F","425","N","N"," "," ","Âwπdıh·›Ωπs","MS",28
+"toolhouse","NY7F","425","N","N"," "," ","Âtuº∫Ïıha´πs","MS",28
+"outhouse","NY7G","426","N","N"," "," ","Âa´πtıhaπ´s","MS",29
+"tool room","NY7G","426","N","N"," "," ","Ât{h}πuºÏ$ırπ´uºm","MS",29
+"woodshed","NY7H","427","N","N"," "," ","ÂwπdıÛ≤d","MS",30
+"tool shed","NY7H","427","N","N"," "," ","Âtu∫Ï$ıÛ≤d","MS",30
+"outhouse","NY7I","428","N","N","wood"," ","Âa∫πΩtıha∫πΩs","MS",31
+"woodshed","NY7J!","429!","N","N"," "," ","ÂwπdıÛ≤d","MS",32
+"tool shed","NY7J!","429!","N","N"," "," ","t{h}u∫Ï$Û≤d","MS",32
+"woodshed","NY7K!","430!","N","N"," "," ","ÂwπdıÛ≤d","MS",33
+"toolhouse","NY7K!","430!","N","N"," "," ","Âtu∫Ïıh·Ωπ´s","MS",33
+"woodhouse","NY7L!","431!","N","N"," "," ","wπdh·›Ωæπ›s","MS",34
+"toolhouse","NY7L!","431!","N","N"," "," ","tuº∫Ïh·›Ωæπ›s","MS",34
+"woodshed","NY7M!","432!","N","N"," "," ","ÂwπdıÛ≤æ∫d","MS",35
+"tool shed","NY7M!","432!","N","N"," "," ","Âtuº∫Ï$ıÛ≤æ∫d","MS",35
+"woodhouse","NY8","432b","N","N"," "," ","Âwπdıhaπs","MS",36
+"toolhouse","NY8","432b","N","N"," "," ","Âtu∫Ïıhaπs","MS",36
+"woodhouse","NY9A","432c","N","N"," "," ","wπdha´∫πs","MS",37
+"toolhouse","NY9A","432c","N","N"," "," ","t{h}u∫Ïha´∫πs","MS",37
+"woodshed","NY9B","433","N","N"," "," ","ÂwπdÛ≤d","MS",38
+"toolhouse","NY9B","433","N","N"," "," ","t{h}u∫Ïha›´æπs","MS",38
+"woodshed","NY9C","434","N","N"," "," ","ÂwπdıÛ≤d","MS",39
+"toolhouse","NY9C","434","N","N"," "," ","t{h}u∫Ïhaπs","MS",39
+"woodshed","NY10A","435","N","N"," "," ","wπdÛ≤d","MS",40
+"tool shed","NY10A","435","N","N"," "," ","Âtu∫Ï$ıÛ≤d","MS",40
+"woodhouse","NY10A","435","N","N","better type"," ","wπdha´πs","MS",40
+"woodshed","NY10B!","436!","N","N"," "," ","ÂwπdıÛ≤d","MS",41
+"tool shed","NY10B!","436!","N","N"," "," ","tuº∫Ï$Û≤d","MS",41
+"woodhouse","NY11","438","N","N"," "," ","Âwπdıha∫πs","MS",42
+"toolhouse","NY11","438","N","N"," "," ","Ât{h}u∫Ïıha∫πs","MS",42
+"woodhouse","NY12A","439(*)","N","N"," "," ","wπdha´πs","MS",43
+"toolhouse","NY12A","439(*)","N","N"," "," ","t{h}u∫Ïha´πs","MS",43
+"woodhouse","NY12A","439(*)","N","Y"," ","AUX","Âwπdıh≤›æπ›´s","MS",43
+"toolhouse","NY12A","439(*)","N","N"," "," ","t{h}u:Ïh≤›æπ´s","MS",43
+"woodhouse","NY12B","440","N","N"," "," ","wπdhaπs","MS",44
+"workshop","NY12B","440","N","N"," "," ","Âw¥∫kıÛµ´æp","MS",44
+"woodhouse","NY12C!","441!","N","N"," "," ","Âwπdıhaπs","MS",45
+"toolhouse","NY12C!","441!","N","N"," "," ","Ât{h}u∫Ïıhaπs","MS",45
+"woodhouse","NY13A","443","N","N"," "," ","wπdhµºπs","MS",46
+"workshop","NY13A","443","N","N"," "," ","Âw∞›ΩrkıÛµp","MS",46
+"woodhouse","NY13B!","444!","N","N"," "," ","Âwπdıha´∫πs","MS",47
+"shop","NY13B!","444!","N","N"," "," ","Ûa´æp","MS",47
+"woodhouse","NY14A","445","N","N"," "," ","Âwπdıha´∫πs","MS",48
+"tool shed","NY14A","445","N","N"," "," ","Âtu∫Ï$ıÛ≤d","MS",48
+"woodhouse","NY14B","446","N","N"," "," ","Âwπdıh·Ωπs","MS",49
+"toolhouse","NY14B","446","N","N"," "," ","Ât{h}uº∫Ïıh·Ωπs","MS",49
+"woodshed","NY15A","447","N","N"," "," ","ÂwπdıÛ≤d","MS",50
+"toolhouse","NY15A","447","N","N"," "," ","Âtu∫Ïıh·Ωπs","MS",50
+"woodshed","NY15B","448","N","N"," "," ","ÂwπdıÛ≤d","MS",51
+"shop","NY15B","448","N","N"," "," ","Ûaæ∫p","MS",51
+"woodshed","NY16A","449","N","N"," "," ","ÂwπdıÛ≤d","MS",52
+"toolhouse","NY16A","449","N","N"," "," ","Ât{h}u:Ïıha´πs","MS",52
+"woodhouse","NY16B","450","N","N"," "," ","Âwπdıha∫πs","MS",53
+"toolhouse","NY16B","450","N","N"," "," ","Ât{h}u∫Ïıha∫πs","MS",53
+"woodhouse","NY17A","451(*)","N","N"," "," ","Âwπdıh≤›π›s","MS",54
+"toolhouse","NY17A","451(*)","N","N"," "," ","Âtuæ∫Ïıh≤›π›s","MS",54
+"woodshed","NY17A","451(*)","N","Y"," ","AUX","ÂwπdıÛ≤Ωæd","MS",54
+"tool shed","NY17A","451(*)","N","Y"," ","AUX","Ât{h}u∫Ï$ıÛ≤Ωæd","MS",54
+"woodhouse","NY17B","452","N","N"," "," ","wπdÂhaπs","MS",55
+"toolhouse","NY17B","452","N","N"," "," ","Ât{h}u∫Ïıha∫πs","MS",55
+"woodhouse","NY18A","453","N","N"," "," ","wπdÀµ´πs","MS",56
+"toolhouse","NY18A","453","N","N"," "," ","t{h}u∫Ïhµ´ºπs","MS",56
+"woodhouse","NY18B","454","N","N"," "," ","wπdha´∫πs","MS",57
+"toolhouse","NY18B","454","N","N"," "," ","Ât{h}u∫Ïıhµ´πs","MS",57
+"woodshed","NY18C!","455!","N","N"," "," ","ÂwπdıÛ≤d","MS",58
+"woodhouse","NY18C!","455!","N","N","usual"," ","Âwπdıh·πs","MS",58
+"tool shed","NY18C!","455!","N","N"," "," ","Âtu∫Ï$ıÛ≤d","MS",58
+"toolhouse","NY18C!","455!","N","N","usually"," ","tu∫Ïhµ´πs","MS",58
+"woodshed","NY19","456","N","N"," "," ","ÂwπdıÛ≤d","MS",59
+"toolhouse","NY19","456","N","N"," "," ","t{h}u∫Ïhaπs","MS",59
+"woodhouse","NY20A","457","N","N"," "," ","wπdhaæπs","MS",60
+"toolhouse","NY20A","457","N","N"," "," ","tu∫Ïhaæπs","MS",60
+"woodshed","NY20B","458","N","N"," "," ","wπdÛ≤d","MS",61
+"tool shed","NY20B","458","N","N"," "," ","tu∫Ï$Û≤d","MS",61
+"woodhouse","NY21","459","N","N"," "," ","Âwπdıha∫πs","MS",62
+"toolhouse","NY21","459","N","N"," "," ","Âtu∫Ïıha∫πs","MS",62
+"woodshed","NY22","460","N","N"," "," ","wπdÛ≤d","MS",63
+"shop","NY22","460","N","N"," "," ","Ûµº:p","MS",63
+"shop","NY22","460","N","N"," "," ","Ûaæ:p","MS",63
+"woodshed","NY23A","461","N","N"," "," ","Âwπ´dıÛ≤´d","MS",64
+"woodshed","NY23B","462a","N","N","built on"," ","Âwπ´{dè}ıÛ±Ω{d}","MS",65
+"lean-to","NY23B","462a","N","N"," "," ","ÂliΩ∫nıt`uΩ","MS",65
+"woodshed","NY23C","462b","N","Y"," ","NEW","ÂwπdıÛ≤´d","MS",66
+"woodshed","NY24A","463","N","N"," "," ","ÂwπdıÛ≤d","MS",67
+"tool shed","NY24A","463","N","N"," "," ","Ât{h}u∫Ï$ıÛ≤d","MS",67
+"woodshed","NY24B!","464!","N","N"," "," ","ÂwπdıÛ≤d","MS",68
+"toolhouse","NY24B!","464!","N","N"," "," ","t{h}u∫Ïhaπs","MS",68
+"woodshed","NY25A","465","N","N"," "," ","Âwπ´dıÛ≤´d","MS",69
+"woodshed","NY25B","466","N","N","= summer kitchen"," ","Âwπ´dıÛ≤´d","MS",70
+"lean-to","NY25B","466","N","N","= summer kitchen"," ","Âl±∫inıt`uΩ∫","MS",70
+"shed","NY26A","467","N","N","by the barn"," ","Û≤d","MS",71
+"woodshed","NY26B","468","N","N"," "," ","wπdÛ≤´d","MS",72
+"woodshed","NY26C","469","N","N","off kitchen door; built on"," ","ÂwπºdıÛ≤´d","MS",73
+"shed","NY27A","470","N","N","for wood; ""not in our house"""," ","Û≤´d","MS",74
+"sheds","NY27A","470","N","N","for wood; ""not in our house"""," ","Û≤ædz","MS",74
+"woodshed","NY27B","471","N","N"," "," ","ÂwπdıÛ≤´d","MS",75
+"lean-to","NY27B","471","N","N"," "," ","Âli∫{j}nıtπ´∫","MS",75
+"woodshed","NY27C","472","N","N"," "," ","Âwπ´dèıÛ≤´d","MS",76
+"shed","NY28A","473a","N","N"," "," ","Û≤´d","MS",77
+"shed","NY28B","473b(*)","N","N"," "," ","Û≤´d","MS",78
+"woodshed","NY28C","473bX","N","N"," ","CNV","ÂwπdıÛ±Ωd","MS",79
+"woodshed","NY29A","474a","N","N"," "," ","ÂwπdıÛ≤´d","MS",80
+"woodshed","NY29B","474b","N","N"," "," ","ÂwπdıÛ≤´d","MS",81
+"shed","NY29B","474b","N","N"," "," ","Û≤´æd","MS",81
+"woodshed","NY29C","474c","N","N"," "," ","ÂwπdıÛ≤´d","MS",82
+"woodshed","NY30A","475a","N","N"," "," ","ÂwπdıÛ≤´{∞}d","MS",83
+"woodshed","NY30B","475b","N","N","usually built on"," ","ÂwπdıÛ≤´d","MS",84
+"woodshed","NY30C","475c","N","N"," "," ","ÂwπdıÛ≤´d","MS",85
+"woodshed","NY30D","475d","N","N","built on"," ","ÂwπdıÛ≤d","MS",86
+"woodshed","NY30E","475e","N","N","usually attached"," ","ÂwπdıÛ≤´d","MS",87
+"woodshed","NY31A","478a","N","N"," "," ","ÂwπΩdıÛ≤´d","MS",88
+"woodhouse","NY31B","478b","N","N"," "," ","Âwπdıh≤æπs","MS",89
+"woodshed","NY32A","479a","N","N"," "," ","Âwπ´dıÛ≤´d","MS",90
+"shed","NY32A","479a","N","N"," "," ","Û≤´d","MS",90
+"shed","NY32B","479b","N","N"," "," ","Û≤´d","MS",91
+"shed","NY33A","480","N","N","out in the back"," ","Û±Ωd","MS",92
+"out in the back","NY33A","480","N","Y"," ","INA","µπætn$‰∞$Âb·k","MS",92
+"woodshed","NY33B","481","N","N"," "," ","ÂwπdıÛ≤´d","MS",93
+"woodbox","NY33C","482","N","Y"," ","INA","Âwπdıbµks","MS",94
+"shed"," ","482"," "," "," "," ","Û≤d"," ",94
+"woodshed","NY34A","483","N","N"," "," ","Âwπ´dıÛ≤´d","MS",95
+"woodhouse","NY34A","483","N","N","part of house; one story"," ","Âwπdıhµ´πs","MS",95
+"shed","NY34B","484","N","N","out back"," ","Û≤d","MS",96
+"out back","NY34B","484","N","Y"," ","INA","ıµ´ºπt$Âb·k","MS",96
+"celler","NY34B","484","N","N"," "," ","s≤l¥","MS",96
+"woodshed","NY34C","485","N","N"," "," ","ÂwπdıÛ≤´d","MS",97
+"storehouse","NY34D!","486!","N","N"," "," ","Âstoº¥ıhµπs","MS",98
+"woodhouse","NY35A","487","N","N"," "," ","wπdha´æπs","MS",99
+"toolhouse","NY35A","487","N","N"," "," ","tu∫Ïha´æπs","MS",99
+"woodshed","NY35B","488","N","N"," "," ","wπdÛ≤d","MS",100
+"tool shed","NY35B","488","N","N"," "," ","tu:Ï$Û≤d","MS",100
+"woodshed","NY35C!","489!","N","N"," "," ","ÂwπdÛ≤d","MS",101
+"toolhouse","NY35C!","489!","N","N"," "," ","Âtu∫Ïıha´πs","MS",101
+"woodshed","NY36A","491","N","N"," "," ","ÂwπdıÛ≤d","MS",102
+"toolhouse","NY36A","491","N","N"," "," ","Âtu∫ÏıÀ≤πs","MS",102
+"woodshed","NY36B","492","N","N"," "," ","ÂwπdÛ≤d","MS",103
+"tool shed","NY36B","492","N","N"," "," ","Âtu∫Ï$Û≤d","MS",103
+"woodshed","NY37A","493","N","N"," "," ","ÂwπdÛ≤d","MS",104
+"toolhouse","NY37A","493","N","N"," "," ","Âtuº∫Ïıh≤Ωπs","MS",104
+"woodshed","NY37B","494","N","N"," "," ","ÂwπdıÛ≤d","MS",105
+"tool shed","NY37B","494","N","N"," "," ","Âtu∫ÏıÛ≤d","MS",105
+"woodshed","NY37C!","495!","N","N"," "," ","ÂwπdıÛ≤d","MS",106
+"shop","NY37C!","495!","N","N"," "," ","Ûµ∫p","MS",106
+"woodhouse","NY38A","497(*)","N","N"," "," ","ÂwπdıÀa´æπs","MS",107
+"toolhouse","NY38A","497(*)","N","N"," "," ","Âtu∫Ïıha´æπs","MS",107
+"toolhouse","NY38A","497(*)","N","N"," "," ","Âtu∫Ïha´æπs","MS",107
+"woodshed","NY38B","498","N","N"," "," ","wπdÛ≤d","MS",108
+"tool shed","NY38B","498","N","N"," "," ","tu∫ÏÛ≤d","MS",108
+"woodshed","NY38C","497X","N","N"," "," ","wπdÛ≤d","MS",109
+"woodhouse","NY39A","499","N","N"," "," ","ÂwπdÀaπs","MS",110
+"toolhouse","NY39A","499","N","N"," "," ","tu∫ÏÀaπs","MS",110
+"woodshed","NY39B","500","N","N"," "," ","wπdÛ≤d","MS",111
+"tool shed","NY39B","500","N","N"," "," ","tu∫ÏÛ≤d","MS",111
+"woodhouse","NY40A","501","N","N"," "," ","wπdha´πs","MS",112
+"shop","NY40A","501","N","N"," "," ","Ûµº∫p","MS",112
+"woodshed","NY40B","502","N","N"," "," ","ÂwπdıÛ≤d","MS",113
+"toolhouse","NY40B","502","N","N"," "," ","tu∫Ïha›πs","MS",113
+"woodshed","NY41","504","N","N"," "," ","ÂwπdıÛ≤d","MS",114
+"tool shed","NY41","504","N","N"," "," ","tu{w}ÏÛ≤d","MS",114
+"woodshed","NY42A","505","N","N"," "," ","wπdÛ≤d","MS",115
+"tool shed","NY42A","505","N","N"," "," ","tu{w}ÏÛ≤d","MS",115
+"woodshed","NY42B","506","N","N"," "," ","ÂwπdıÛ≤d","MS",116
+"tool shed","NY42B","506","N","N"," "," ","Âtu∫Ï$ıÛ≤d","MS",116
+"woodshed","NY43A","507","N","N"," "," ","ÂwπdıÛ≤d","MS",117
+"tool shed","NY43A","507","N","N"," "," ","tu∫Ï$Û≤d","MS",117
+"woodshed","NY43B","507b","N","N"," "," ","wπdÛ≤d","MS",118
+"toolhouse","NY43B","507b","N","N"," "," ","tu∫ÏÀa´æπs","MS",118
+"woodshed","NY43C!","508!","N","N"," "," ","wπdÛ≤d","MS",119
+"tool shed","NY43C!","508!","N","N"," "," ","Âtu{w}Ï$ıÛ≤d","MS",119
+"woodshed","NY44A","511","N","N"," "," ","wπdÛ≤d","MS",120
+"shop","NY44A","511","N","N"," "," ","Ûa∫p","MS",120
+"woodhouse","NY44A","511","N","N"," "," ","Âwπdıh≤πs","MS",120
+"woodshed","NY44B","512","N","N"," "," ","ÂwπdÛ≤d","MS",121
+"tool shed","NY44B","512","N","N"," "," ","tu∫ÏÛ≤d","MS",121
+"woodshed","NY45A","513a","N","N"," ","CNV","ÂwπdıÛ≤´d","MS",122
+"shed","NY45A","513a","N","N"," ","CNV","Û≤´d","MS",122
+"woodhouse","NY45B","513b","N","N","near house"," ","Âwπdıhµ´πs","MS",123
+"lean-to","NY45B","513b","N","N"," "," ","l±´ntπ´","MS",123
+"woodhouse","NY45C","513c","N","N"," "," ","Âwπdı•πs","MS",124
+"woodshed","NY45D!","513d!","N","N"," "," ","ÂwπdıÛ≤´d","MS",125
+"woodhouse","NY46A","515a","N","N"," "," ","Âwπdıaæπs","MS",126
+"woodhouse","NY46A","515a","N","N"," "," ","Âwπdıhµºπºs","MS",126
+"woodshed","NY46B","515b","N","N"," "," ","ÂwπºdıÛ≤∫{∞}d","MS",127
+"tool shed","NY46B","515b","N","N"," "," ","Ât`uº∫ÏıÛ≤∫{∞}d","MS",127
+"woodhouse","NY46C","515c","N","N"," "," ","wπdhµ´πs","MS",128
+"shed","NY46C","515c","N","N"," "," ","Û≤{∞}d","MS",128
+"shop","NY46C","515c","N","N"," "," ","Ûµ∫{∞}p","MS",128
+"woodbox","NY47A","517(*)","N","Y"," ","INA","Âwπdıbµks","MS",129
+"woodhouse","NY47A","517(*)","N","N"," "," ","Âwπdı{À}•Ωºπs","MS",129
+"woodshed","NY47A","517(*)","N","Y"," ","AUX","ÂwπdıÛ≤d","MS",129
+"tool shed","NY47A","517(*)","N","Y"," ","AUX","tu∫ÏÛ≤d","MS",129
+"closet","NY47A","517(*)","N","N","for wood"," ","Âk≈∂´∫'z±øt","MS",129
+"woodshed","NY47B","518","N","N"," "," ","wπdÛ≤d","MS",130
+"tool shed","NY47B","518","N","N"," "," ","tu∫ÏÛ≤d","MS",130
+"woodhouse","NY48A","519a","N","N"," "," ","Âwπºdıh·æπºs","MS",131
+"woodhouse","NY48A","519a","N","N"," "," ","Âwπºdı{À}·Ωæπºs","MS",131
+"woodhouse","NY48B","519b","N","N"," "," ","ÂwπΩºd≤æπs","MS",132
+"woodshed","NY48C","519c","N","N"," "," ","ÂwπºdıÛ≤´d","MS",133
+"woodhouse","NY48D","519d","N","N"," "," ","Âwπºdıhµ´oºs","MS",134
+"woodhouse","NY49A","520","N","N"," "," ","Âwπdıha´πºs","MS",135
+"woodshed","NY49B","521","N","N"," "," ","ÂwπdıÛ≤d","MS",136
+"toolhouse","NY49B","521","N","N"," "," ","Âtu∫Ïıha´πs","MS",136
+"woodshed","NY49C","522a","N","N"," "," ","ÂwπdıÛ≤d","MS",137
+"back shed","NY49C","522a","N","N"," "," ","Âb·´{≤}k$ıÛ≤{∞}d","MS",137
+"tool shed","NY49C","522a","N","N"," "," ","Ât`u∫ÏıÛ≤d","MS",137
+"lean-to","NY49C","522a","N","N","on barn"," ","Âli{i´}nıtuΩºuº","MS",137
+"shed","NY49D","522b","N","N"," "," ","Û≤æd","MS",138
+"shed","NY49D","522b","N","N"," "," ","Û∏ºd","MS",138
+"lean-to","NY49D","522b","N","N"," "," ","ÂÏi{i´}nıtuº∫","MS",138
+"woodhouse","NY50A","523","N","N","later = kitchen"," ","Âwπdıhaæπs","MS",139
+"woodhouse","NY50B","524","N","N"," "," ","Âwπºdıhaæπs","MS",140
+"lean-to","NY50B","524","N","N"," "," ","ÂliΩinıtπºuº","MS",140
+"woodshed","NY51A","525a","N","N"," "," ","ÂwπΩdıÛ≤´d","MS",141
+"woodhouse","NY51A","525a","N","N"," ","CNV","Âwπdı{À}≥πs","MS",141
+"chamber","NY51A","525a","N","N","attic","CNV","ÂtÛeΩ{±ø}mb∞","MS",141
+"woodhouse","NY51A","525a","N","N"," ","CNV","Âwπdıh≥πs","MS",141
+"woodhouse","NY51B","525b","N","N"," ","CNV","Âwπºdıhaæoºs","MS",142
+"smokehouse","NY51B","525b","N","N"," ","CNV","ÂsmèoΩºπºkıhaæoºs","MS",142
+"woodshed","NY51C","525c","N","N"," "," ","Âwπ›´dıÛ≤´d","MS",143
+"woodshed","NY51D","525d","N","N"," "," ","Âwπø´ædıÛ≤´{∞}d","MS",144
+"woodpile","NY51D","525d","N","N"," "," ","Âwπ´ºdıp`µ´±øÏ","MS",144
+"woodshed","NY51E!","525e!","N","N"," "," ","ÂwπºdıÛ≤´d","MS",145
+"woodhouse","NY52A","527","N","N"," "," ","Âwπdıhµ´ºπs","MS",146
+"woodshed","NY52B","528","N","N"," "," ","Âwπ´ºdıÛ≤´d","MS",147
+"storehouse","NY52C","528b","N","N"," "," ","sto´rha´πs","MS",148
+"shed","NY52C","528b","N","N"," "," ","Û≤d","MS",148
+"garden house","NY52C","528b","O","N"," "," ","Âgardn$ha´πs","MS",148
+"garage","NY52C","528b","N","N"," "," ","g∞˛Âraæd˙","MS",148
+"addition","NY52C","528b","N","N"," "," ","∞Âd±´Û∞n","MS",148
+"woodshed","NY53A","529","N","N","usually built on"," ","ÂwπdıÛ≤´{∞}d","MS",149
+"lean-to","NY53A","529","N","N"," ","CNV","Âli˛Ωi˛ıtuΩºuº","MS",149
+"lean-to","NY53A","529","N","N"," "," ","ÂliΩıtuΩºuº","MS",149
+"woodshed","NY53B!","530!","N","N"," "," ","ÂwπdıÛ≤´d","MS",150
+"woodshed","NY54A","531","N","N"," "," ","ÂwπdıÛ≤∫{∞}d","MS",151
+"woodshed","NY54B","532","N","N","building or built on"," ","ÂwπdıÛ≤d","MS",152
+"shed","NY54B","532","N","N","building or built on"," ","Û≤d","MS",152
+"shed","NY55A","533","N","N","attached to back of house"," ","Û≤´d","MS",153
+"woodshed","NY55B","534","N","N","near back door"," ","ÂwπdıÛ≤´d","MS",154
+"shed","NY55B","534","N","N","near back door"," ","Û≤´d","MS",154
+"woodshed","NY56A","535","N","N"," "," ","Âwπ´ºdıÛ≤´d","MS",155
+"woodshed","NY56B","536","N","N","built on"," ","ÂwπdıÛ≤´d","MS",156
+"woodshed","NY57A","537a","N","N","separate"," ","ÂwπdıÛ≤´d","MS",157
+"woodshed","NY57B","537b","N","N"," "," ","ÂwπdıÛ≤´d","MS",158
+"woodhouse","NY57C!","537c!","N","N"," "," ","Âwπdıha´ºπs","MS",159
+"woodhouse chamber","NY57C!","537c!","O","N","attic (storage)"," ","Âwπdıha´πs$tÛeΩmb¥","MS",159
+"shed","NY58A","539a","N","N","rear of house"," ","Û≤´d","MS",160
+"woodshed","NY58B","539b","N","N"," "," ","ÂwπdıÛ≤´d","MS",161
+"woodshed","NY58C","539c","N","N"," "," ","Âwπ´dıÛ≤´d","MS",162
+"summer kitchen","NY58C","539c","O","N"," "," ","Âs∏´m¥ık±tÛ±øΩn","MS",162
+"woodshed","NY58D!","539d!","N","N"," "," ","Âwπ´dıÛ≤´d","MS",163
+"down cellar","NY58D!","539d!","O","N"," "," ","da∫πn$Âs≤´æl¥","MS",163
+"outhouses","NY58E!","539e!","N","N"," "," ","Â≤´πtıh•Ωπz±øºz","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"woodshed","NY59A","543","N","N"," "," ","Âwπ´ºdıÛ≤´d","MS",166
+"woodshed","NY59B","544","N","N"," "," ","ÂwπdıÛ≤d","MS",167
+"toolhouse","NY59B","544","N","N"," "," ","Âtu∫Ïıh·πs","MS",167
+"tool shed","NY59B","544","O","N","usually"," ","Âtu∫Ï$Û≤d","MS",167
+"shed","NY60A","545","N","N"," "," ","Û≤∫{∞}d","MS",168
+"woodshed","NY60B!","546!","N","N"," "," ","ÂwπdıÛ≤∫d","MS",169
+"woodhouse","NY61A","547","N","N","built on"," ","ÂwπΩdıhaæπs","MS",170
+"woodhouse"," ","547"," "," "," "," ","wπ´dhaæπs"," ",170
+"shed","NY61B","548","N","N"," "," ","Û≤d","MS",171
+"lean-to","NY61B","548","N","N"," "," ","Âli∫Ωnıtπº","MS",171
+"woodshed","NY62A","551a","N","N"," "," ","ÂwπdıÛ≤´d","MS",172
+"lean-to","NY62A","551a","N","N"," "," ","Âli∫nıtuº","MS",172
+"woodshed","NY62B","551b","N","N","built on"," ","Âwπ›dıÛ≤d","MS",173
+"shed","NY62C","551c","N","N"," "," ","Û≤´dó","MS",174
+"woodshed","NY62C","551c","N","N"," "," ","ÂwπdıÛ≤´dó","MS",174
+"woodshed","NY62D!","551d!","N","N"," "," ","ÂwπdıÛ≤∫dó","MS",175
+"lean-to","NY62D!","551d!","N","N"," "," ","Âli∫{j}nıtuº∫","MS",175
+"woodshed","NY63A","556a","N","N","occasionallly"," ","ÂwπdıÛ≤∫d","MS",176
+"woodshed","NY63B","556b","N","N","= summer kitchen"," ","ÂwπºdıÛ≤´d","MS",177
+"woodshed","NY63C","556b","O","N"," "," ","ÂwuøîædÛ≤´d","MS",177
+"machine shed","NY63C","556c","O","N"," "," ","m∞Ûi∫n$Û≤d","MS",178
+"shop"," ","556c"," "," "," "," ","Ûaæ∫p"," ",178
+"woodshed"," ","556c"," "," "," "," ","ÂwπdıÛ≤d"," ",178
+"woodshed","NY63D!","556d!","N","N"," "," ","Âwπ´ºdıÛ≤´d","MS",179
+"woodhouse","NY63D!","556d!","N","N","separate"," ","Âwπdıhaπs","MS",179
+"woodshed","NY64A","557a","N","N"," "," ","ÂwπdıÛ≤´d","MS",180
+"woodshed","NY64B","557b","N","N"," ","CNV","ÂwπdıÛ≤´d","MS",181
+"woodhouse","NY64B","557b","N","N","near kitchen"," ","Âwπdıha∞ós","MS",181
+"woodshed","NY64C!","557c!","N","N"," "," ","ÂwπdıÛ≤´d","MS",182
+"woodpile","NY64C!","557c!","N","N"," ","INA","Âwπdıpe∫±øÏ","MS",182
+"NR","NJ1A","1"," ","N"," "," "," ","MS",183
+"NR","NJ1B","2"," ","N"," "," "," ","MS",184
+"NR","NJ2A","3"," ","N"," "," "," ","MS",185
+"NR","NJ2B","4"," ","N"," "," "," ","MS",186
+"NR","NJ3A","5"," ","N"," "," "," ","MS",187
+"NR","NJ3B","6"," ","N"," "," "," ","MS",188
+"NR","NJ4A","7"," ","N"," "," "," ","MS",189
+"NR","NJ4B","8"," ","N"," "," "," ","MS",190
+"NR","NJ5A","9"," ","N"," "," "," ","MS",191
+"NR","NJ5B","10"," ","N"," "," "," ","MS",192
+"woodshed","NJ6A","11","N","N"," "," ","ÂwπdıÛ≤d","MS",193
+"toolhouse","NJ6A","11","N","N"," "," ","Ât{h}uº∫Ïıh·Ωπs","MS",193
+"NR","NJ6B","12"," ","N"," "," "," ","MS",194
+"NR","NJ7A","17"," ","N"," "," "," ","MS",195
+"woodshed","NJ7B!","18!","N","N"," "," ","ÂwπdıÛ≤d","MS",196
+"toolhouse","NJ7B!","18!","N","N"," "," ","Âtuº∫Ïıha´∫πs","MS",196
+"woodhouse","NJ8A","19","N","N"," "," ","Âwπºdıh·∫πs","MS",197
+"shop","NJ8A","19","N","N"," "," ","Ûa∫p","MS",197
+"woodshed","NJ8B","20","N","N"," "," ","ÂwπdıÛ≤d","MS",198
+"tool shed","NJ8B","20","O","N"," "," ","Ât{h}uÏ$Û≤d","MS",198
+"woodhouse","NJ9A","21","N","N"," "," ","Âwπdıh·›π›s","MS",199
+"wagon house","NJ9A","21","O","N"," "," ","Âw·g∞nı$h•Ωºπs","MS",199
+"toolhouse","NJ9A","21","N","N"," "," ","Âtuº∫Ïıh•Ωºπs","MS",199
+"woodshed","NJ9B","22","N","N"," "," ","ÂwπdıÛ≤´d","MS",200
+"toolhouse","NJ9B","22","N","N"," "," ","Âtπøº∫Ïıh•Ωºπs","MS",200
+"woodhouse","NJ9B","22","N","N"," "," ","Âwπdıh·›π›s","MS",200
+"woodshed","NJ10A","24b","N","N"," "," ","ÂwπdıÛ≤d","MS",201
+"toolhouse","NJ10A","24b","N","N"," "," ","Ât{h}uº∫Ïıha´πs","MS",201
+"woodhouse","NJ10B","23","N","N"," "," ","Âwπdıh·πs","MS",202
+"machine shop","NJ10B","23","O","N"," "," ","m∞ÂÛiΩinıÛa∫p","MS",202
+"woodshed","NJ10C","24","N","N"," "," ","ÂwπdıÛ≤d","MS",203
+"tool shed","NJ10C","24","O","N"," "," ","Âtπøæ∫Ïı$Û≤d","MS",203
+"toolhouse","NJ10C","24","N","N"," "," ","ÂtuÏıha´πs","MS",203
+"woodshed","NJ10D!","24c!","N","N"," "," ","ÂwπdıÛ≤d","MS",204
+"toolhouse","NJ10D!","24c!","N","N"," "," ","Ât{h}uº∫Ïıha´∫πs","MS",204
+"woodhouse","NJ11A","25","N","N"," "," ","Âwπdıha´πs","MS",205
+"workshop","NJ11A","25","N","N"," "," ","Âw¥∫kıÛa∫p","MS",205
+"woodshed","NJ11B","26a","N","N"," "," ","ÂwπdıÛ≤d","MS",206
+"tool shed","NJ11B","26a","O","N"," "," ","ÂtπøæÏ$Û≤d","MS",206
+"woodhouse","NJ11C","26b","N","N"," "," ","Âwπdıh·´πs","MS",207
+"toolhouse","NJ11C","26b","N","N"," "," ","Âtuº∫Ïıh·æπs","MS",207
+"woodhouse","NJ12A","27","N","N"," "," ","Âwπdıha´πs","MS",208
+"toolhouse","NJ12A","27","N","N"," "," ","Âtuº∫Ïıh·πs","MS",208
+"woodshed","NJ12B","28","N","N"," "," ","ÂwπdıÛ≤d","MS",209
+"toolhouse","NJ12B","28","N","N"," "," ","Âtuº∫Ïıha´∫πs","MS",209
+"woodhouse","NJ13A","29","N","N"," "," ","wπdh·›π´s","MS",210
+"toolhouse","NJ13A","29","N","N"," "," ","Âtuº∫Ïıh·›æπ´s","MS",210
+"woodhouse","NJ13B","30","N","N"," "," ","Âwπdıha´πs","MS",211
+"shop","NJ13B","30","N","N"," "," ","Ûap","MS",211
+"woodhouse","NJ14A","31","N","N"," "," ","Âwπdıha∫πs","MS",212
+"toolhouse","NJ14A","31","N","N"," "," ","ÂtuÏıha∫πs","MS",212
+"woodshed","NJ14B","32","N","N"," "," ","ÂwπdıÛ≤d","MS",213
+"toolhouse","NJ14B","32","N","N"," "," ","Âtuº∫Ïıh·›Ωπs","MS",213
+"woodhouse","NJ15A","33","N","N"," "," ","Âwπdıha´πs","MS",214
+"toolhouse","NJ15A","33","N","N"," "," ","Âtuº∫ÏıÀa´πs","MS",214
+"woodshed","NJ15B","34","N","N"," "," ","ÂwπdıÛ≤d","MS",215
+"woodhouse","NJ15B","34","N","N"," "," ","Âwπdóıha´∫πs","MS",215
+"toolhouse","NJ15B","34","N","N"," "," ","Âtuº∫Ïıha´∫πs","MS",215
+"workshop","NJ15B","34","N","N"," "," ","Âw{∞}¥kıÛaæ∫p","MS",215
+"woodshed","NJ16A","35","N","N"," "," ","ÂwπdıÛ≤d","MS",216
+"toolhouse","NJ16A","35","N","N"," "," ","Âtuº∫Ïıha´∫πΩs","MS",216
+"woodshed","NJ16B","36","N","N"," "," ","ÂwπdıÛ≤æd","MS",217
+"tool shed","NJ16B","36","O","N"," "," ","Âtuº∫Ï$Û≤æd","MS",217
+"woodhouse","NJ17A","37","N","N"," "," ","Âwπdıha´æπs","MS",218
+"toolhouse","NJ17A","37","N","N"," "," ","Âtuº∫Ïıh•Ωπs","MS",218
+"woodhouse","NJ17B","38","N","N"," "," ","Âwπdıha´πs","MS",219
+"toolhouse","NJ17B","38","N","N"," "," ","Âtuº∫Ïıha´πs","MS",219
+"woodhouse","NJ18A","41","N","N"," "," ","Âwπdıha´πs","MS",220
+"toolhouse","NJ18A","41","N","N"," "," ","Ât{h}u∫Ïıhaπs","MS",220
+"woodshed","NJ18B","42","N","N"," "," ","Âwπ{d}Û≤d","MS",221
+"tool shed","NJ18B","42","O","N"," "," ","Âtu∫Ï$Û≤d","MS",221
+"woodshed","NJ18C!","43!","N","N"," "," ","ÂwπdÛ≤d","MS",222
+"toolhouse","NJ18C!","43!","N","N"," "," ","ÂtuºÏıhaπ›s","MS",222
+"woodshed","NJ18D!","44!","N","N"," "," ","ÂwπdÛ≤d","MS",223
+"toolhouse","NJ18D!","44!","N","N"," "," ","ÂtuºÏıha´πs","MS",223
+"woodhouse","NJ19A","45","N","N"," "," ","Âwπdıha´πs","MS",224
+"shop","NJ19A","45","N","N"," "," ","Ûap","MS",224
+"woodshed","NJ19B!","46!","N","N"," "," ","ÂwπdıÛ≤d","MS",225
+"tool shed","NJ19B!","46!","O","N"," "," ","tu∫Ï$Û≤d","MS",225
+"woodhouse","NJ20A","47","N","N"," "," ","Âwπdıhaπs","MS",226
+"shop","NJ20A","47","N","N"," "," ","Ûa∫p","MS",226
+"outhouse","NJ20A","47","N","N","Dutch"," ","Âh{j}≤óπtıh≤óΩπs","MS",226
+"woodhouse","NJ20B","47b","N","N"," "," ","Âwπdıha´∫πs","MS",227
+"toolhouse","NJ20B","47b","N","N"," "," ","Ât{h}π∫Ïha´∫πs","MS",227
+"woodhouse","NJ21A","48","N","N"," "," ","Âwπdıhaπs","MS",228
+"toolhouse","NJ21A","48","N","N"," "," ","Âtu∫Ïıhaπs","MS",228
+"woodhouse","NJ21B","49","N","N"," "," ","Âwπdıhaπs","MS",229
+"toolhouse","NJ21B","49","N","N"," "," ","tu∫Ïhaπs","MS",229
+"tool shed","PA1A","51","O","N"," "," ","Âtu∫Ïı$Û≤d","MS",230
+"woodshed","PA1B","52","N","N"," "," ","ÂwπdıÛ≤d","MS",231
+"tool shed","PA1B","52","O","N"," "," ","tu∫Ï$Û≤d","MS",231
+"woodshed","PA1C","53","N","N"," "," ","ÂwπdıÛ≤´d","MS",232
+"toolhouse","PA1C","53","N","N"," "," ","Âtu∫Ïıh·πΩ∫s","MS",232
+"woodshed","PA1D","54","N","N"," "," ","ÂwπdıÛ≤d","MS",233
+"toolhouse","PA1D","54","N","N"," "," ","Âtu∫Ïıh·πΩs","MS",233
+"woodshed","PA1E!","55!","N","N"," "," ","ÂwπdıÛ≤d","MS",234
+"toolhouse","PA1E!","55!","N","N"," "," ","ÂtuÏıÀaæπs","MS",234
+"back building","PA1E!","55!","N","N","rear attached part of a Philadelphia house"," ","Âb¥k$ıb±Ïd±øÓ","MS",234
+"service wing","PA1E!","55!","N","N","in country for summer kitchen"," ","Âs¥v±øs$ıwe±Ó","MS",234
+"woodshed","PA1F!","56!","N","N"," "," ","Âwπ´dıÛ≤d","MS",235
+"tool shed","PA1F!","56!","O","N"," "," ","Âtuº∫Ï$Û≤d","MS",235
+"woodshed","PA1G!","57!","N","N"," "," ","ÂwπdıÛ≤d","MS",236
+"tool shed","PA1G!","57!","O","N"," "," ","Âtuº∫Ï$Û≤d","MS",236
+"outhouse","PA1G!","57!","N","N"," "," ","Âa∫πtıha∫πs","MS",236
+"NR","PA1H!","58!"," ","N"," "," "," ","MS",237
+"woodshed","PA2A","59","N","N"," "," ","ÂwπΩ∫dıÛ≤d","MS",238
+"toolhouse","PA2A","59","N","N"," "," ","Âtuº∫Ïıh·Ω∫πs","MS",238
+"out shed","PA2A","59","O","N","for summer kitchen beyond porch"," ","Âa´πtıÛ≤d","MS",238
+"pump house","PA2A","59","O","N","for summer kitchen beyond porch, if pump in it"," ","Âp∏mpıha´∫πs","MS",238
+"woodshed","PA2B","60","N","N"," "," ","ÂwπdıÛ≤d","MS",239
+"woodhouse","PA2B","60","N","N"," "," ","Âwπdıh·ΩπΩs","MS",239
+"shop","PA2B","60","N","N","tools"," ","Ûa∫p","MS",239
+"woodhouse","PA3A","61","N","N"," "," ","Âwπdıh·∫πΩs","MS",240
+"toolhouse","PA3A","61","N","N"," "," ","Âtuº∫Ïıh·πΩs","MS",240
+"shed","PA3A","61","N","N","not as good"," ","Û≤d","MS",240
+"woodshed","PA3B","62a","N","N"," "," ","ÂwπdıÛ≤d","MS",241
+"tool shed","PA3B","62a","O","N"," "," ","Âtu∫Ï$Û≤d","MS",241
+"out kitchen","PA3B","62a","O","N"," "," ","aπt$Âk±tÛ∞n","MS",241
+"woodshed","PA3C","62b","N","N"," "," ","ÂwπdıÛ≤d","MS",242
+"shop","PA3C","62b","N","N"," "," ","Ûaæ∫p","MS",242
+"woodhouse","PA4A","63","N","N"," "," ","Âwπdıh·ΩπΩs","MS",243
+"wagon house","PA4A","63","N","N","tools"," ","Âu·g∞n$h·ΩπΩs","MS",243
+"woodshed","PA4B!","64!","N","N"," "," ","ÂwπΩdıÛ≤d","MS",244
+"toolhouse","PA4B!","64!","N","N"," "," ","Âtu´Ïıh·´∫πs","MS",244
+"woodhouse","PA5A","65(*)","N","N"," "," ","Âwπdıha´∫πΩs","MS",245
+"toolhouse","PA5A","65(*)","N","N"," "," ","Âtu∫ÏıÀa´πs","MS",245
+"out kitchen","PA5A","65(*)","N","N"," "," ","Âa´πtık±tÛ∞n","MS",245
+"out kitchen","PA5A","65(*)","O","Y"," ","AUX","Âa´∫πtık±tÛ∞n","MS",245
+"woodhouse","PA5A","65(*)","N","Y"," ","AUX","Âwπdıha´πs","MS",245
+"shop","PA5A","65(*)","N","Y"," ","AUX","Ûa´æp","MS",245
+"woodhouse","PA5B","65b","N","N"," "," ","Âwπdıh·πs","MS",246
+"toolhouse","PA5B","65b","N","N"," "," ","Âtu∫Ïıh·πs","MS",246
+"shed","PA5B","65b","N","N","built on"," ","Û≤d","MS",246
+"woodshed","PA5C","66","N","N"," "," ","ÂwπdıÛ≤d","MS",247
+"toolhouse","PA5C","66","N","N"," "," ","ÂtuÏıh·∫πΩs","MS",247
+"NR","PA5D","67"," ","N"," "," "," ","MS",248
+"NR","PA5E!","68!"," ","N"," "," "," ","MS",249
+"toolhouse","PA6A","69","N","N","wood"," ","Âtu∫Ïıha∫πΩs","MS",250
+"shed","PA6A","69","N","N"," "," ","Û≤tí","MS",250
+"summer kitchen","PA6A","69","O","N"," "," ","s∏Ωæm∞$k±iÛn","MS",250
+"woodshed","PA6B","71","N","N"," "," ","ÂwπdıÛ≤tí","MS",251
+"tool shed","PA6B","71","O","N"," "," ","Âtu∫Ï$Û≤dè","MS",251
+"shanty","PA6B","71","N","N","separate; for old odds and ends"," ","Û·˛nt±´º","MS",251
+"woodshed","PA6C","71b","N","N"," "," ","Âuπ´ºdüıÛ≤tí","MS",252
+"toolhouse","PA6C","71b","N","N"," "," ","Âtu∫ÏıhaºπΩs","MS",252
+"summer kitchen","PA6C","71b","N","N"," "," ","s∏Ωm∞rü’$k±tüÛn","MS",252
+"woodshed","PA6D!","72!","N","N"," "," ","ÂwπdıÛ≤d","MS",253
+"tool shed","PA6D!","72!","O","N"," "," ","Âtu∫Ï$Û≤d","MS",253
+"out kitchen","PA6D!","72!","O","N"," "," ","Âaπtı$k±tÛ∞n","MS",253
+"NR","PA7A","73"," ","N"," "," "," ","MS",254
+"NR","PA7B","74"," ","N"," "," "," ","MS",255
+"woodshed","PA7C","75","N","N"," "," ","ÂˆπdèÛ≤dè","MS",256
+"toolhouse","PA7C","75","N","N"," "," ","Âtu∫lçhaæ∫πΩs","MS",256
+"summer house","PA7C","75","O","N","summer kitchen"," ","Âs∏ºm¥ıhaæ∫πΩs","MS",256
+"woodshed","PA7D!","76!","N","N"," "," ","ÂwπdıÛ≤d","MS",257
+"toolhouse","PA7D!","76!","N","N"," "," ","Âtuº∫Ïıh·Ω∫πΩs","MS",257
+"summer house","PA7D!","76!","O","N"," "," ","Âs∏m¥ı$h·Ω∫πs","MS",257
+"out kitchen","PA7D!","76!","O","N"," "," ","Â·∫πΩtık±tÛ∞n","MS",257
+"NR","PA8A","77"," ","N"," "," "," ","MS",258
+"NR","PA8B","78"," ","N"," "," "," ","MS",259
+"tool shed","PA8C","79","O","N"," "," ","Âtu∫Ï$Û≤tí","MS",260
+"out shed","PA8C","79","O","N"," "," ","ˆπ´ætí$Û≤tí","MS",260
+"woodshed","PA8D!","80!","N","N"," "," ","ÂwπdıÛ≤{∞}d","MS",261
+"toolhouse","PA8D!","80!","N","N"," "," ","Âtu∫Ïıh·∫πøΩs","MS",261
+"summer kitchen","PA8D!","80!","O","N"," "," ","Âs∏m¥ı$k±tÛ∞n","MS",261
+"woodhouse","PA9A","83","N","N"," "," ","Âwπdèıhaºπs","MS",262
+"shed","PA9A","83","N","N","tools"," ","Û≤tí","MS",262
+"summer house","PA9A","83","O","N","summer kitchen"," ","Âs∏m∞rı$haºπs","MS",262
+"woodhouse","PA9B","83b","N","N"," "," ","Âwπdıha∫πΩs","MS",263
+"toolhouse","PA9B","83b","N","N"," "," ","Âtuºlçıhaπs","MS",263
+"shanty","PA9B","83b","N","N","old house"," ","Û·ntê±","MS",263
+"summer house","PA9B","83b","O","N","old house"," ","Âs∏m¥$haπs","MS",263
+"woodshed","PA9C!","84!","N","N"," "," ","ÂwπdıÛ≤d","MS",264
+"shop","PA9C!","84!","N","N"," "," ","Ûaæp","MS",264
+"summer kitchen","PA9C!","84!","O","N"," "," ","s∏m¥$k±tÛ∞n","MS",264
+"woodshed","PA10","87","N","N"," "," ","Âˆπ´tíıÛ≤tí","MS",265
+"tool shed","PA10","87","O","N"," "," ","Âtuº∫lç$Û≤t","MS",265
+"summer house","PA10","87","O","N"," "," ","s∏ühm∞rü’ı$haæπæs","MS",265
+"wood house","PA11A","89","N","N","separate"," ","Âwπdı$ha∫πs","MS",266
+"tool shed","PA11A","89","O","N","separate"," ","Âtu∫Ï$Û≤{∞}d","MS",266
+"shanty","PA11A","89","N","N","summer kitchen"," ","Û·nt±ø","MS",266
+"woodshed","PA11B","90(*)","N","N"," "," ","ÂwπdıÛ≤d","MS",267
+"toolhouse","PA11B","90(*)","N","N"," "," ","Âtu∫Ïıhaºπs","MS",267
+"summer kitchen","PA11B","90(*)","O","N","outside"," ","s∏m¥$Âk±tÛ∞n","MS",267
+"wood house","PA11B","90(*)","N","N","separate","AUX","wπd$ha∫πΩs","MS",267
+"tool shed","PA11B","90(*)","O","N","separate","AUX","Âtuº∫Ï$Û≤{∞}d","MS",267
+"shanty","PA11B","90(*)","N","N","summer kitchen","AUX","Û·nt±´ºh","MS",267
+"woodshed","PA12A","91","N","N"," "," ","ÂwπdıÛ≤d","MS",268
+"shop","PA12A","91","N","N"," "," ","Ûaæ∫p","MS",268
+"shanty","PA12A","91","N","N","summer kitchen"," ","Û·nt±üΩ","MS",268
+"wood shed","PA12B","92","N","N","separate"," ","Âwπd$ıÛ≤d","MS",269
+"tool house","PA12B","92","N","N","separate"," ","Âtu∫Ï$ıha∫πs","MS",269
+"shanty","PA12B","92","N","N","summer kitchen"," ","Û·nt±ø","MS",269
+"wood shed","PA13A","93","N","N"," "," ","Âwπd$ıÛ≤d","MS",270
+"tool shed","PA13A","93","O","N","separate"," ","Âtu∫Ï$Û≤d","MS",270
+"shanty","PA13A","93","N","N","built on summer kitchen"," ","Û·nt±ø","MS",270
+"woodhouse","PA13B","94","N","N"," "," ","Âwπdıha∫πs","MS",271
+"shop","PA13B","94","N","N"," "," ","Ûap","MS",271
+"shanty","PA13B","94","N","N"," "," ","Û·ntê±øΩ","MS",271
+"woodhouse","PA14A","95(*)","N","N"," "," ","Âwπtíıha∫πs","MS",272
+"toolhouse","PA14A","95(*)","N","N"," "," ","ÂtuÏıha∫πΩs","MS",272
+"shanty","PA14A","95(*)","N","N"," "," ","Û·´ndè±ø","MS",272
+"summer house","PA14A","95(*)","O","N"," "," ","Âs∏m∞ærü’$ha∫πΩs","MS",272
+"woodshed","PA14B","96","N","N"," "," ","ÂwπdıÛ≤´d","MS",273
+"tool shed","PA14B","96","O","N"," "," ","Âtu∫Ï$Û≤d","MS",273
+"woodhouse","PA14C","95X","N","N"," "," ","Âwπ´ºtíıhaæ∫πs","MS",274
+"tool shed","PA14C","95X","O","N"," "," ","Âtulç$Û≤tí","MS",274
+"shanty","PA14C","95X","N","N"," "," ","ÂÛ·nd±ø´","MS",274
+"wood house","PA15A","99","N","N","separate"," ","Âwπd$ıhaπs","MS",275
+"tool house","PA15A","99","N","N","separate"," ","Âtu∫Ï$ıhaπs","MS",275
+"woodsed","PA15B","99b","N","N","separate"," ","Âwπd$ıs≤d","MS",276
+"tool house","PA15B","99b","N","N","separate"," ","Âtu∫Ï$ıÀaπs","MS",276
+"lean-to","PA15B","99b","N","N","built on summer kitchen"," ","l±nt¥","MS",276
+"woodshed","PA15C!","100!","N","N"," "," ","ÂwπdıÛ≤d","MS",277
+"tool house","PA15C!","100!","N","N","separate"," ","Âtu∫Ïıhaπs","MS",277
+"woodshed","PA16A","101","N","N"," "," ","ÂwπtıÛ≤t","MS",278
+"tool shed","PA16A","101","O","N"," "," ","Âtu∫Ï$Û≤t","MS",278
+"summer house","PA16A","101","O","N","outside, built on summer kitchen"," ","Âsm¥rü’$ha∫πs","MS",278
+"woodshed","PA16B","102","N","N"," "," ","ÂwπdıÛ≤d","MS",279
+"toolhouse","PA16B","102","N","N"," "," ","ÂtuÏıhaπs","MS",279
+"wood shed","PA16C","103","N","N","separate or built on"," ","Âwπd$ıÛ≤d","MS",280
+"tool shanty","PA16C","103","O","N","separate or built on"," ","Âtu∫ÏıÛ·nt±ø","MS",280
+"out kitchen","PA16C","103","O","N"," "," ","Âaπt$ık±tÛn","MS",280
+"woodshed","PA17A","105","N","N"," "," ","Âˆπ´tíıÛ≤tí","MS",281
+"tool shop","PA17A","105","O","N"," "," ","tu∫lç$Ûap","MS",281
+"summerhouse","PA17A","105","N","N","summer kitchen, built on"," ","Âs∏mæ∞rü’ı$haæ∫πΩs","MS",281
+"shed","PA17B","106","N","N"," "," ","Û≤d","MS",282
+"toolhouse","PA17B","106","N","N"," "," ","Âtu∫Ïıha∫πΩs","MS",282
+"woodshed","PA18A","107","N","N","separate or built on"," ","wπdÛ≤d","MS",283
+"shanty","PA18A","107","N","N","built on summer kitchen"," ","Û·˛Ωntê±ø´","MS",283
+"wagon house","PA18A","107","O","N"," "," ","Âw·g∞n$haπs","MS",283
+"woodshed","PA18B!","108!","N","N"," "," ","ÂwπdıÛ≤d","MS",284
+"tool shed","PA18B!","108!","O","N"," "," ","Âtu∫Ï$Û≤d","MS",284
+"outhouse","PA18B!","108!","N","N","outside summer kitchen"," ","Âa´∫πtıha´∫πs","MS",284
+"woodhouse","PA19A","113","N","N","outside"," ","Âwπdıha´πs","MS",285
+"wood closet","PA19A","113","O","N","built in house"," ","Âwπdı$klaºz±t","MS",285
+"toolhouse","PA19A","113","N","N"," "," ","ÂtπøæÏıha´πs","MS",285
+"cookhouse","PA19A","113","N","N","built on"," ","Âkπkıha´πs","MS",285
+"wood shed","PA19B","114","N","N","usually separate"," ","wπd$Û≤d","MS",286
+"toolhouse","PA19B","114","N","N"," "," ","Âtu∫Ïıhaπs","MS",286
+"shanty","PA19B","114","N","N","built on summer kitchen"," ","ÂÛ·nt±ø","MS",286
+"wood shed","PA20A","115","N"," ","separate"," ","Âwπdı$Û≤d","MS",287
+"toolroom","PA20A","115","N"," ","built on"," ","tu∫Ïrπm","MS",287
+"outhouse","PA20A","115","N"," ","built on summer kitchen"," ","Âaπtıhaπs","MS",287
+"woodshed","PA20B","116","N","N","separate or built on"," ","ÂwπdıÛ≤d","MS",288
+"tool shed","PA20B","116","O","N"," "," ","Âtu∫Ï$Û≤d","MS",288
+"shanty","PA20B","116","O","N","summer kitchen"," ","Û·nt±ø","MS",288
+"woodshed","PA21A","117","N","N"," "," ","ÂwπdıÛ≤´æd","MS",289
+"toolhouse","PA21A","117","N","N"," "," ","Âtu∫Ïıh·˛´πs","MS",289
+"shanty","PA21A","117","N","Y","built on","SUG","Û·nt±ø","MS",289
+"woodshed","PA21B","118","N","N","separate or built on; open on one side"," ","ÂwπdıÛ≤d","MS",290
+"woodhouse","PA21B","118","N","N","separate or built on"," ","Âwπdıhaπs","MS",290
+"ell","PA21B","118","N","Y","part of house","SUG","≤{∞}Ï","MS",290
+"woodhouse","PA22A","119","N","N","built on or separate"," ","Âwπdıhaπs","MS",291
+"toolhouse","PA22A","119","N","N","built on or separate"," ","tu∫ÏÀaπs","MS",291
+"ell","PA22A","119","N","N","built on kitchen"," ","≤Ωæ∫{∞}Ï","MS",291
+"woodshed","PA22B","120","N","N","separate or built on"," ","ÂwπºdıÛ≤d","MS",292
+"ell","PA22B","120","N","N","built on"," ","≤{∞}Ï","MS",292
+"tool shed","PA22B","120","O","N"," "," ","Âtu∫Ï$Û≤d","MS",292
+"woodshed","PA23A","121","N","N"," "," ","ÂwπdıÛ≤d","MS",293
+"toolhouse","PA23A","121","N","N"," "," ","Âtu∫Ïıh·˛πs","MS",293
+"ell","PA23A","121","N","N","built on (kitchen)"," ","≤{∞}Ï","MS",293
+"woodshed","PA23B","122","N","N","built on or separate"," ","ÂwπdıÛ≤d","MS",294
+"toolhouse","PA23B","122","N","N"," "," ","Âtu∫Ïıh·πs","MS",294
+"lean-to","PA23B","122","N","N","built on"," ","ÂliΩintπø´","MS",294
+"back kitchen","PA23B","122","O","N","built on"," ","Âb·kık±tÛ±øΩn","MS",294
+"woodshed","PA24A","123","N","N"," "," ","ÂwπºdıÛ≤d","MS",295
+"shop","PA24A","123","N","N"," "," ","Ûa∫p","MS",295
+"lean-to","PA24A","123","N","N","added part"," ","ÂliΩ∫nıtu´","MS",295
+"ell","PA24A","123","N","N","minor part"," ","≤Ωæ{∞}Ï","MS",295
+"woodshed","PA24B","124","N","N","separate or built on"," ","ÂwπdıÛ≤Ωd","MS",296
+"tool shed","PA24B","124","O","N","separate or built on"," ","Âtu∫Ï$Û≤Ωd","MS",296
+"back kitchen","PA24B","124","O","N","built on"," ","Âb·kk±tÛ±øΩn","MS",296
+"shanty","PA24B","124","N","N","built on"," ","Û·nt±","MS",296
+"woodshed","PA25A","125","N","N","separate or built on"," ","ÂwπdıÛ≤d","MS",297
+"toolhouse","PA25A","125","N","N","separate"," ","ÂtuæÏıhaπs","MS",297
+"shanty","PA25A","125","N","N","built on summer kitchen"," ","Û·nt±ø","MS",297
+"woodshed","PA25B","126","N","N","built on"," ","ÂwπdıÛ≤∫d","MS",298
+"woodhouse","PA25B","126","N","N","separate"," ","Âwπdıhaπs","MS",298
+"toolhouse","PA25B","126","N","N","separate"," ","Âtu∫Ïıhaπs","MS",298
+"outkitchen","PA25B","126","N","N","built on"," ","Âaπtık±tÛ±øn","MS",298
+"woodhouse","PA26A","127","N","N","separate"," ","Âwπdıh·πs","MS",299
+"toolhouse","PA26A","127","N","N","separate"," ","ÂtuÏıh·πs","MS",299
+"shanty","PA26A","127","N","N","built on summer kitchen"," ","Û·nt±øΩ","MS",299
+"ell kitchen","PA26A","127","O","N","in shape of L"," ","ı≤{∞}ÏÂ$kitÛ±øΩn","MS",299
+"woodshed","PA26B","128","O","N","built on or separate"," ","ÂwπdıÛ≤{∞}d","MS",300
+"ell","PA26B","128","N","N","part of house"," ","≤{∞}Ï","MS",300
+"tool shed","PA26B","128","O","N","built on or separate"," ","Âtu∫Ï$Û≤d","MS",300
+"lean-to","PA26B","128","N","N","added to barn"," ","ÏiΩntu∫","MS",300
+"woodshed","PA27A","131","N","N","often built on"," ","ÂwπdıÛ≤{∞}d","MS",301
+"toolhouse","PA27A","131","N","N"," "," ","Âtu∫Ïıha´πs","MS",301
+"ell","PA27A","131","N","Y","to house or kitchen","SUG","≤{∞}Ï","MS",301
+"woodshed","PA27B","132","N","N","built on; here"," ","ÂwπdıÛ≤d","MS",302
+"toolhouse","PA27B","132","N","N","built on; here"," ","Âtu∫Ïıhaå´πs","MS",302
+"woodshed","PA28A","135","N","N","separate"," ","ÂwπdıÛ≤´d","MS",303
+"woodhouse","PA28A","135","N","N","usually separate"," ","Âwπdıha∫πΩs","MS",303
+"toolhouse","PA28A","135","N","N"," "," ","Âtu∫Ïıha∫πΩs","MS",303
+"woodshed","PA28B!","136!","N","N","separate"," ","ÂwπdıÛ≤d","MS",304
+"tool shed","PA28B!","136!","O","N","separate"," ","Âtu∫Ï$Û≤d","MS",304
+"woodhouse","PA29A","139(*)","N","N"," "," ","Âwπdıhaæπs","MS",305
+"toolhouse","PA29A","139(*)","N","N"," "," ","Âtu∫Ïıhaæπs","MS",305
+"summer house","PA29A","139(*)","O","N"," "," ","Âs∏m∞rhaæπs","MS",305
+"woodhouse","PA29A","139(*)","N","Y","separate","AUX","Âwπdıha∫πs","MS",305
+"toolhouse","PA29A","139(*)","N","Y","separate","AUX","Âtu∫Ïıha∫πs","MS",305
+"shanty","PA29A","139(*)","N","Y","built on summer kitchen","AUX","Û·ntê±ø","MS",305
+"woodshed","PA29B","140","N","N","usually separate"," ","ÂwπdıÛ≤d","MS",306
+"shop","PA29B","140","N","N"," "," ","Ûap","MS",306
+"shanty","PA29B","140","N","N","built on"," ","Û·nt±ø´","MS",306
+"outkitchen","PA29B","140","N","N","built on"," ","aπtk±tÛ∞n","MS",306
+"woodshed","PA30A","143","N","N"," "," ","ÂwπdıÛ≤d","MS",307
+"tool shed","PA30A","143","O","N"," "," ","Âtu∫Ï$Û≤d","MS",307
+"toolhouse","PA30A","143","N","N"," "," ","Âtu∫Ïıh·˛´πs","MS",307
+"ell","PA30A","143","N","Y","addition","SUG","≤´Ï","MS",307
+"lean-to","PA30A","143","N","N","long roofed part on one side"," ","ÂliΩnıtu´","MS",307
+"woodshed","PA30B","144","N","N","built on or separate"," ","Âwπ{∞}dıÛ≤´æ{∞}d","MS",308
+"toolhouse","PA30B","144","N","N","built on or separate"," ","Âtu∫Ïıhaπs","MS",308
+"woodshed","PA31A","145","N","N"," "," ","ÂwπdıÛ≤d","MS",309
+"toolhouse","PA31A","145","N","N"," "," ","Âtu∫Ïıhaπs","MS",309
+"woodshed","PA31B","146","N","N"," "," ","ÂwπºdıÛ≤{∞}d","MS",310
+"toolhouse","PA31B","146","N","N"," "," ","Âtu∫ÏıÀaæπs","MS",310
+"NR","PA32A","147"," ","N"," "," "," ","MS",311
+"NR","PA32B","148"," ","N"," "," "," ","MS",312
+"woodhouse","PA33A","151","N","N"," "," ","Âwπdıha∫πs","MS",313
+"toolhouse","PA33A","151","N","N"," "," ","Âtπøæ∫Ïıha∫πs","MS",313
+"toolhouse","PA33B","152","N","N"," "," ","Âtu∫Ïıha´æπ´s","MS",314
+"woodshed","PA33B","152","N","N"," "," ","ÂwπdıÛ≤d","MS",314
+"summerhouse","PA33B","152","N","N","= summer kitchen"," ","Âs∏m¥ıha´æπ´s","MS",314
+"woodhouse","PA34A","155","N","N"," "," ","Âwπdıh•Ωºπ´s","MS",315
+"toolhouse","PA34A","155","N","N"," "," ","ÂtuÏıh•Ωºπ´s","MS",315
+"shop","PA34A","155","N","N"," "," ","ÂÛap","MS",315
+"woodhouse","PA34B","156","N","N","separate"," ","Âwπdıha´æπ´s","MS",316
+"toolhouse","PA34B","156","N","N"," "," ","Âtπ´πºÏıha´æπ´s","MS",316
+"woodhouse","PA34C!","155b!","N","N"," "," ","Âwπdıha∫πs","MS",317
+"toolhouse","PA34C!","155b!","N","N"," "," ","Âtuº∫Ïıha∫πs","MS",317
+"NR","PA35A","157"," ","N"," "," "," ","MS",318
+"NR","PA35B","158(*)"," ","N"," "," "," ","MS",319
+"NR","PA35C","158X"," ","N"," "," "," ","MS",320
+"woodshed","PA36A","159","N","N"," "," ","Âwπ{∞}dıÛ≤d","MS",321
+"woodhouse","PA36A","159","N","N"," "," ","wπº{∞}dha∫πs","MS",321
+"toolhouse","PA36A","159","N","N"," "," ","Âtu∫Ïıha∫πs","MS",321
+"woodhouse","PA36B","160","N","N","separate"," ","Âwπ{∞}dıha∫´πs","MS",322
+"toolhouse","PA36B","160","N","N","separate"," ","Âtuº∫Ïıha∫πs","MS",322
+"outkitchen","PA36B","160","N","N","built on; summer"," ","Âa´æπtık±tÛ∞n","MS",322
+"woodshed","PA37A","161(*)","N","N"," "," ","ÂwπdóıÛ≤d","MS",323
+"woodhouse","PA37A","161(*)","N","N"," "," ","Âwπdóıha∫πΩs","MS",323
+"toolhouse","PA37A","161(*)","N","N"," "," ","Âtu∫lıha∫πΩs","MS",323
+"summerhouse","PA37A","161(*)","N","N"," "," ","Âsπæm∞rıha∫πΩs","MS",323
+"woodhouse","PA37B","162","N","N"," "," ","Âwπdıha∫πs","MS",324
+"toolhouse","PA37B","162","N","N"," "," ","Âtu∫lıha∫πs","MS",324
+"outkitchen","PA37B","162","N","N"," "," ","ÂaπΩtık±tÛ∞n","MS",324
+"woodhouse","PA37C","161X","N","N"," "," ","wπdha∫πs","MS",325
+"toolhouse","PA37C","161X","N","N"," "," ","tu∫lhaæπΩs","MS",325
+"NR","PA38A","163"," ","N"," "," "," ","MS",326
+"NR","PA38B","164"," ","N"," "," "," ","MS",327
+"woodhouse","PA39A","165","N","N"," "," ","Âwπdıhaπs","MS",328
+"toolhouse","PA39A","165","N","N"," "," ","Âtu∫Ïıhaπs","MS",328
+"outkitchen","PA39A","165","N","N","building at back; joined by addition to house"," ","ıaπ´tÂk±tÛ∞n","MS",328
+"NR","PA39B","166"," ","N"," "," "," ","MS",329
+"woodhouse","PA40A","167","N"," "," "," ","wπdhaπs","MS",330
+"tool shed","PA40A","167","O"," "," "," ","Âtuº∫Ï$Û≤d","MS",330
+"tool shed"," ","167"," "," "," "," ","tπøæ∫Ï$Û≤d"," ",330
+"woodhouse","PA40B","168","N","N"," "," ","Âwπdıha´∫π´ºs","MS",331
+"shop","PA40B","168","N","N"," "," ","Ûap","MS",331
+"summerhouse","PA40B","168","N","N","= summer kitchen"," ","s∏Ωm¥ha∫πΩs","MS",331
+"woodhouse","PA41A","171","N","N"," "," ","Âwπdıhaπs","MS",332
+"shop","PA41A","171","N","N"," "," ","Ûap","MS",332
+"outhouse","PA41A","171","N","N","summer kitchen"," ","Âa´æπtıhaπs","MS",332
+"NR","PA41B","172"," ","N"," "," "," ","MS",333
+"woodshed","PA42A","175","N","N"," "," ","ÂwπdıÛ≤d","MS",334
+"tool shed","PA42A","175","O","N"," "," ","Âtuº∫Ï$Û≤d","MS",334
+"washhouse","PA42A","175","O","N","used as summer kitchen"," ","Âw∑´¥Ûıha´æπs","MS",334
+"woodhouse","PA42B","176","N","N"," "," ","wπdhaæπs","MS",335
+"shop","PA42B","176","N","N"," "," ","Ûap","MS",335
+"washhouse","PA42B","176","N","N","built on kitchen (formerly); used as washhouse"," ","Âw∞¥Ûıh•Ωπs","MS",335
+"woodhouse","PA43A","177","N","N"," "," ","Âwπdıh•Ωπ´ºs","MS",336
+"shop","PA43A","177","N","N"," "," ","Ûap","MS",336
+"woodshed","PA43B","178","N","N"," "," ","ÂwπdıÛ≤´d","MS",337
+"tool shop","PA43B","178","O","N"," "," ","tuº∫Ï$Ûap","MS",337
+"woodhouse","PA44A","179","N","N"," "," ","wπdÀa∫πs","MS",338
+"tool shop","PA44A","179","N","N"," "," ","tπ∫Ï$Û≤d","MS",338
+"woodhouse","PA44B","180","N","N"," "," ","Âwπdıha∫πs","MS",339
+"shop","PA44B","180","N","N"," "," ","Û∂∫p","MS",339
+"woodhouse","PA45A","181","N","N"," "," ","ÂwπΩdıha´∫πs","MS",340
+"toolhouse","PA45A","181","N","N"," "," ","Âtuº∫Ïıha´∫πs","MS",340
+"summerhouse","PA45A","181","N","N","= summer kitchen"," ","Âs∏m¥ıha´∫πs","MS",340
+"woodshed","PA45B","182","N","N"," "," ","ÂwπdıÛ≤d","MS",341
+"shop","PA45B","182","N","N"," "," ","Ûaºp","MS",341
+"summerhouse","PA45B","182","N","N","summer kitchen"," ","Âs∏Ωm¥ıhaπs","MS",341
+"woodshed","PA46A","185","N","N"," "," ","ÂwπdıÛ≤d","MS",342
+"toolhouse","PA46A","185","N","N"," "," ","Âtuº∫Ïıha´∫πs","MS",342
+"outkitchen","PA46A","185","N","N"," "," ","Â·Ωπ´tık±tÛ∞n","MS",342
+"woodshed","PA46B","186","N","N"," "," ","ÂwπdıÛ≤d","MS",343
+"shop","PA46B","186","N","N"," "," ","Ûaº∫p","MS",343
+"woodhouse","PA47A","189","N","N"," "," ","Âwπºdıh·πs","MS",344
+"toolhouse","PA47A","189","N","N"," "," ","Âtuº∫Ïıh·πΩs","MS",344
+"summer kitchen","PA47A","189","N","N"," "," ","Âs∏ºm¥ık±tÛ∞n","MS",344
+"woodshed","PA47B","190","N","N"," "," ","ÂwπºdıÛ≤´d","MS",345
+"tool shed","PA47B","190","O","N"," "," ","Âtuº∫Ï$Û≤´∫d","MS",345
+"woodhouse","PA48A","191","N","N"," "," ","Âwπdıhaπs","MS",346
+"toolhouse","PA48A","191","N","N"," "," ","Âtuº∫Ïıhaπs","MS",346
+"woodshed","PA48B","192","N","N"," "," ","ÂwπdıÛ≤´d","MS",347
+"shop","PA48B","192","N","N"," "," ","Ûaæp","MS",347
+"woodshed","PA48C","193","N","N"," "," ","ÂwπdıÛ≤´d","MS",348
+"shop","PA48C","193","N","N"," "," ","Û∂p","MS",348
+"woodhouse","PA49A","194","N","N"," "," ","Âwπdıha∫πs","MS",349
+"tool shop","PA49A","194","O","N"," "," ","tπøΩæÏÛ∂p","MS",349
+"outkitchen","PA49A","194","N","N","summer kitchen"," ","Âa´æ∫πtık±tÛ∞n","MS",349
+"woodshed","PA49B","195","N","N"," "," ","ÂwπdıÛ≤´d","MS",350
+"tool shed","PA49B","195","O","N"," "," ","ÂtuÏ$Û≤´d","MS",350
+"woodhouse","PA50A","196","N","N"," "," ","Âwπdıha´ºπs","MS",351
+"toolhouse","PA50A","196","N","N"," "," ","Âtπøæ∫Ïıha´ºπs","MS",351
+"woodhouse","PA50B","197","N","N"," "," ","Âwπdıha∫πs","MS",352
+"toolhouse","PA50B","197","N","N"," "," ","Âtuº∫Ïıha∫πs","MS",352
+"woodshed","PA50C!","198!","N","N"," "," ","ÂwπdıÛ≤´d","MS",353
+"tool shed","PA50C!","198!","O","N"," "," ","ÂtuÏ$Û≤´d","MS",353
+"woodshed","PA51A","199","N","N"," "," ","ÂwπdıÛ≤d","MS",354
+"toolhouse","PA51A","199","N","N"," "," ","Âtuº∫Ïıha´πs","MS",354
+"woodshed","PA51B","200","N","N"," "," ","ÂwπdıÛ≤´d","MS",355
+"tool shop","PA51B","200","O","N"," "," ","tuº∫ÏÛap","MS",355
+"woodhouse","PA52A","201","N","N"," "," ","Âwπ{∞}dıhaæπs","MS",356
+"toolhouse","PA52A","201","N","N"," "," ","Âtuº∫Ïıhaæπs","MS",356
+"woodshed","PA52B!","202!","N","N"," "," ","ÂwπdıÛ≤´{∞}d","MS",357
+"tool shed","PA52B!","202!","O","N"," "," ","Âtπøæ∫Ï$Û≤´{∞}d","MS",357
+"woodhouse","PA53A","203","N","N"," "," ","Âwπdıhaπ´s","MS",358
+"shop","PA53A","203","N","N"," "," ","Û∂p","MS",358
+"outkitchen","PA53A","203","N","N","summer kitchen"," ","aπ´tk±tÛ∞n","MS",358
+"woodshed","PA53B","204","N","N"," "," ","ÂwπdıÛ≤{∞}d","MS",359
+"shop","PA53B","204","N","N"," "," ","s∂∫p","MS",359
+"woodshed","PA54A","205","N","N"," "," ","Âwπ{∞}dıÛ±ød","MS",360
+"toolhouse","PA54A","205","N","N"," "," ","Âtu∫Ïıha´æπs","MS",360
+"woodshed","PA54B","206","N","N"," "," ","ÂwπdıÛ≤´d","MS",361
+"toolhouse","PA54B","206","N","N"," "," ","tuº∫ÏÀa´æπs","MS",361
+"woodhouse","PA55A","207","N","N"," "," ","wπdha´æπ´ºs","MS",362
+"toolhouse","PA55A","207","N","N"," "," ","tuº∫Ïha´æπ´s","MS",362
+"shop","PA55A","207","N","N"," "," ","s∂p","MS",362
+"woodshed","PA55B","208","N","N"," "," ","ÂwπdıÛ≤d","MS",363
+"shop","PA55B","208","N","N"," "," ","Û∂p","MS",363
+"woodhouse","PA56A","211(*)","N","N"," "," ","Âwπdıhaπ´s","MS",364
+"toolhouse","PA56A","211(*)","N","N"," "," ","Âtuº∫Ïıhaπs","MS",364
+"woodhouse","PA56A","211(*)","N","Y"," ","AUX","Âwπdıha´πs","MS",364
+"shop","PA56A","211(*)","N","Y"," ","AUX","Û∂´∫p","MS",364
+"woodshed","PA56B","212","N","N"," "," ","ÂwπdıÛ≤d","MS",365
+"toolhouse","PA56B","212","N","N"," "," ","Âtuº∫Ïıhaπs","MS",365
+"washhouse","PA56B","212","N","N","same as outkitchen"," ","Âw∑rÛıhaπs","MS",365
+"outkitchen","PA56B","212","N","N","same as washhouse"," ","aπtk±tÛ∞n","MS",365
+"woodhouse","PA57A","213","N","N"," "," ","Âwπdıhaπs","MS",366
+"toolhouse","PA57A","213","N","N"," "," ","Âtuº∫Ïıhaπs","MS",366
+"woodshed","PA57B","214","N","N"," "," ","ÂwπºdıÛ≤´d","MS",367
+"toolhouse","PA57B","214","N","N"," "," ","Âtuº∫Ïıhaπs","MS",367
+"outhouse","PA57B","214","N","N","summer kitchen"," ","Âa∫πtıhaπs","MS",367
+"outkitchen","PA57B","214","N","N","summer kitchen"," ","Âaπtık±tÛn","MS",367
+"woodhouse","PA58A","215","N","N"," "," ","Âwπdıhaπs","MS",368
+"toolhouse","PA58A","215","N","N"," "," ","tuº∫Ïıhaπs","MS",368
+"woodhouse","PA58B","216","N","N"," "," ","wπdh·πs","MS",369
+"tool shed","PA58B","216","O","N"," "," ","tu∫Ï$Û≤´æd","MS",369
+"woodhouse","PA59A","219","N","N"," "," ","Âwπdıhaπs","MS",370
+"toolhouse","PA59A","219","N","N"," "," ","tuº∫Ïhaπs","MS",370
+"woodshed","PA59B","220","N","N"," "," ","ÂwπdıÛ≤d","MS",371
+"tool shed","PA59B","220","O","N"," "," ","Âtuº∫Ï$Û≤d","MS",371
+"cookhouse","PA59B","220","N","N"," "," ","Âkπkıhaπs","MS",371
+"outkitchen","PA59B","220","N","N"," "," ","aπtk±tÛ∞n","MS",371
+"woodshed","PA60A","221","N","N"," "," ","ÂwπdıÛ≤´d","MS",372
+"toolhouse","PA60A","221","N","N"," "," ","ÂtπøÏıha´æπs","MS",372
+"woodhouse","PA60B","222","N","N"," "," ","wπdha´æπ´s","MS",373
+"workshop","PA60B","222","N","N"," "," ","Âw¥rkıÛ∂p","MS",373
+"outkitchen","PA60B","222","N","N"," "," ","Âa´æπtık±tÛ∞n","MS",373
+"woodshed","PA61A","223","N","N"," "," ","ÂwπdıÛ≤´d","MS",374
+"toolhouse","PA61A","223","N","N"," "," ","Âtuº∫Ïıha´æπs","MS",374
+"woodshed","PA61B","224","N","N"," "," ","Âwπ´ºdıÛ≤´d","MS",375
+"tool shed","PA61B","224","O","N"," "," ","Âtuº∫Ï$Û≤d","MS",375
+"woodshed","PA62A","229","N","N"," "," ","ÂwπdèıÛ≤d","MS",376
+"toolhouse","PA62A","229","N","N"," "," ","Âtuº∫Ïıhaπs","MS",376
+"outkitchen","PA62A","229","N","N"," "," ","Âaπtık±tÛn","MS",376
+"woodshed","PA62B","230","N","N"," "," ","ÂwπdıÛ≤d","MS",377
+"shop","PA62B","230","N","N"," "," ","Û∂p","MS",377
+"washhouse","PA62B","230","N","N","summer kitchen"," ","Âw∑rÛıhaπs","MS",377
+"woodshed","PA63A","231","N","N"," "," ","ÂwπdıÛ≤´d","MS",378
+"shop","PA63A","231","N","N"," "," ","Ûap","MS",378
+"woodshed","PA63B","232","N","N"," "," ","wπdÛ≤´d","MS",379
+"tool shed","PA63B","232","O","N"," "," ","Âtuº∫Ï$Û≤´d","MS",379
+"woodshed","PA64A","233","N","N"," "," ","Âwπ´dıÛ≤d","MS",380
+"tool shed","PA64A","233","O","N"," "," ","tu∫Ï$Û≤d","MS",380
+"woodshed","PA64B","234","N","N"," "," ","ÂwπdıÛ≤d","MS",381
+"toolhouse","PA64B","234","N","N"," "," ","Âtu∫Ïıha´æπs","MS",381
+"woodshed","PA65A","237","N","N"," "," ","ÂwπdıÛ≤´d","MS",382
+"tool shed","PA65A","237","O","N"," "," ","ÂtuΩæ{w}ÏÂ$Û≤d","MS",382
+"woodshed","PA65B","238","N","N"," "," ","ÂwπdıÛ≤d","MS",383
+"toolhouse","PA65B","238","N","N"," "," ","Âtu∫Ïıhaπs","MS",383
+"shop","PA65B","238","N","N"," "," ","Ûaºp","MS",383
+"woodhouse","PA66A","239","N","N"," "," ","Âwπdıhaπs","MS",384
+"garage","PA66A","239","N","N","tools"," ","gr∂d˙","MS",384
+"summerhouse","PA66A","239","N","N","summer kitchen"," ","Âs∏m∞{r}ıhaπs","MS",384
+"woodhouse","PA66B","240","N","N"," "," ","Âwπdıha´æπs","MS",385
+"tool shed","PA66B","240","O","N"," "," ","Âtu∫Ï$Û≤d","MS",385
+"woodhouse","PA67A","243","N","N"," "," ","Âwπºdıh≤πs","MS",386
+"toolhouse","PA67A","243","N","N"," "," ","tuÏh≤Ωπs","MS",386
+"woodshed","PA67B","244","N","N"," "," ","ÂwπdıÛ≤´d","MS",387
+"tool shed","PA67B","244","O","N"," "," ","tu∫Ï$Û≤´d","MS",387
+"NR","WV1!","88!"," ","N"," "," "," ","MS",388
+"NR","WV2","89"," ","N"," "," "," ","MS",389
+"NR","WV3","91"," ","N"," "," "," ","MS",390
+"NR","WV4A","92"," ","N"," "," "," ","MS",391
+"shed","WV4B","93","N","N","built on; one roof of house"," ","Û≤d","MS",392
+"lean-to","WV4B","93","N","N","built on; one roof of house"," ","liΩintuº∫","MS",392
+"ell","WV4B","93","N","N","built on; one roof of house"," ","≤´{∞}Ï","MS",392
+"NR","WV5","94"," ","N"," "," "," ","MS",393
+"NR","WV6A","95"," ","N"," "," "," ","MS",394
+"NR","WV6B","96"," ","N"," "," "," ","MS",395
+"NR","WV7A","97"," ","N"," "," "," ","MS",396
+"NR","WV7B","98"," ","N"," "," "," ","MS",397
+"woodhouse","WV8A","97b","N","N"," "," ","Âwπdıh·Ωπs","MS",398
+"toolhouse","WV8A","97b","N","N"," "," ","Âtπø∫Ïıh·Ωπs","MS",398
+"woodshed","WV8B","98b","N","N"," "," ","ÂwπdıÛ≤´d","MS",399
+"tool shed","WV8B","98b","O","N"," "," ","tπøæ∫Ï$Û≤´d","MS",399
+"woodhouse","WV9A","301","N","N"," "," ","Âwπødıh·∫πøs","MS",400
+"shop","WV9A","301","N","N"," "," ","Ûa∫p","MS",400
+"woodhouse","WV9B","302","N","N"," "," ","wπºdh·´πΩs","MS",401
+"shop","WV9B","302","N","N"," "," ","Ûa∫p","MS",401
+"woodshed","WV10A","303","N","N"," "," ","ÂwπdıÛ≤∫d","MS",402
+"toolhouse","WV10A","303","N","N"," "," ","ÂtπøæÏıha´∫πøs","MS",402
+"woodhouse","WV10B","303b","N","N"," "," ","wπødh·ΩπøΩs","MS",403
+"shop","WV10B","303b","N","N"," "," ","Ûa∫p","MS",403
+"woodshed","WV10C","304","N","N"," "," ","wπdÛ≤d","MS",404
+"tool shed","WV10C","304","O","N"," "," ","Âtuº∫Ï$Û≤d","MS",404
+"woodhouse","WV11A","305","N","N"," "," ","wπdh·πs","MS",405
+"toolhouse","WV11A","305","N","N"," "," ","Âtπø∫Ïıh·πøs","MS",405
+"woodhouse","WV11B!","306!","N","N"," "," ","wπdha∫πs","MS",406
+"toolhouse","WV11B!","306!","N","N"," "," ","tπøæ∫Ïhaπs","MS",406
+"woodhouse","WV12A","307","N","N"," "," ","Âwπºdıh·Ωπøs","MS",407
+"toolhouse","WV12A","307","N","N"," "," ","tuº∫Ïh·∫πøΩs","MS",407
+"woodshed","WV12B","308","N","N"," "," ","ÂwπdıÛ≤d","MS",408
+"tool shed","WV12B","308","O","N"," "," ","tπøæ∫Ï$Û≤d","MS",408
+"shop","WV12B","308","N","N"," "," ","Ûa∫p","MS",408
+"woodhouse","WV13A","309","N","N"," "," ","Âwπdıha´πs","MS",409
+"toolhouse","WV13A","309","N","N"," "," ","tπø∫Ïh·Ωπøs","MS",409
+"woodhouse","WV13B","310","N","N"," "," ","Âwπdıh·Ω∫πøs","MS",410
+"toolhouse","WV13B","310","N","N"," "," ","tπøæ∫Ïh·Ω∫πøs","MS",410
+"woodshed","WV14A","311","N","N"," "," ","ÂwπºdıÛ≤{∞}d","MS",411
+"woodshed","WV14B","312","N","N"," "," ","ÂwπΩdıÛ≤d","MS",412
+"toolhouse","WV14B","312","N","N"," "," ","tuº∫Ïh·Ω∫πøΩs","MS",412
+"woodhouse","WV15A","313","N","N"," "," ","ÂwπΩºdıha´πΩs","MS",413
+"toolhouse","WV15A","313","N","N"," "," ","tuº∫Ïh·πs","MS",413
+"woodhouse","WV15B","314","N","N"," "," ","Âwπºdıh·πøs","MS",414
+"toolhouse","WV15B","314","N","N"," "," ","tuº∫Ïh·πs","MS",414
+"woodhouse","WV16A","315","N","N"," "," ","ÂwπΩdıha´πs","MS",415
+"outhouse","WV16A","315","N","N"," "," ","Âa´πtıÀa´πs","MS",415
+"shop","WV16A","315","N","N"," "," ","Ûa∫p","MS",415
+"woodhouse","WV16B","316","N","N"," "," ","ÂwπΩdıh·Ωæπs","MS",416
+"toolhouse","WV16B","316","N","N"," "," ","tuºÏh·πs","MS",416
+"woodhouse","WV17A","317","N","N"," "," ","ÂwπdıÀaπs","MS",417
+"toolhouse","WV17A","317","N","N"," "," ","Âtuº∫Ïıhaπs","MS",417
+"woodhouse","WV17B","317b","N","N"," "," ","Âwπdıh·πΩs","MS",418
+"toolhouse","WV17B","317b","N","N"," "," ","Âtuº∫Ïıh·πs","MS",418
+"woodshed","WV17C","318","N","N"," "," ","ÂwπºdıÛ≤d","MS",419
+"toolhouse","WV17C","318","N","N"," "," ","ÂtuΩºÏıha´πs","MS",419
+"woodhouse","WV18A","319","N","N"," "," ","wπºdha´πs","MS",420
+"toolhouse","WV18A","319","N","N"," "," ","Âtuº∫Ïıh·πs","MS",420
+"woodshed","WV18B","320","N","N"," "," ","wπødÛ≤d","MS",421
+"toolhouse","WV18B","320","N","N"," "," ","tuº∫Ïh·Ωπøs","MS",421
+"woodhouse","WV19A","321","N","N"," "," ","Âwπøædıh·Ω∫πøs","MS",422
+"toolhouse","WV19A","321","N","N"," "," ","Âtπøæ∫Ïıh·ΩπøΩs","MS",422
+"woodshed","WV19B","322","N","N"," "," ","ÂwπºdıÛ≤∫d","MS",423
+"tool shed","WV19B","322","O","N"," "," ","Âtπøæ∫Ï$Û≤∫d","MS",423
+"woodhouse","WV20A","323","N","N"," "," ","Âwπdıh·∫πΩs","MS",424
+"toolhouse","WV20A","323","N","N"," "," ","tπøæ∫Ïh·πΩs","MS",424
+"woodshed","WV20B","324","N","N"," "," ","ÂwπdıÛ≤´d","MS",425
+"tool shed","WV20B","324","O","N"," "," ","Âtuæ∫Ï$Û≤{∞}d","MS",425
+"woodhouse","WV21A","325","N","N"," "," ","Âwπºdıh·∫πøΩs","MS",426
+"workhouse","WV21A","325","N","N","tools"," ","w∞rkh·πøs","MS",426
+"woodhouse","WV21B","326","N","N"," "," ","Âwπºdıh·πΩs","MS",427
+"toolhouse","WV21B","326","N","N"," "," ","Âtuº∫Ïıh·πΩs","MS",427
+"woodhouse","WV22A","327","N","N"," "," ","Âwπdıh·´π´ºs","MS",428
+"toolhouse","WV22A","327","N","N"," "," ","Âtuº∫Ïıh∞´π´ºs","MS",428
+"woodshed","WV22B","328","N","N"," "," ","ÂwπøædıÛ≤´d","MS",429
+"toolhouse","WV22B","328","O","N"," "," ","Âtπøæ∫Ï$h∞´π´ºs","MS",429
+"woodhouse","WV23A","331","N","N"," "," ","Âwπºdıh•ºπ´s","MS",430
+"toolhouse","WV23A","331","N","N"," "," ","Âtπøæ∫Ïıh•ºπ´s","MS",430
+"woodshed","WV23B","332","N","N"," "," ","ÂwπdıÛ≤d","MS",431
+"toolhouse","WV23B","332","N","N"," "," ","Âtπøæ∫Ïıh•Ωºπs","MS",431
+"woodhouse","WV24A","335","N","N"," "," ","Âwπdıh•Ωºπ´s","MS",432
+"toolhouse","WV24A","335","N","N"," "," ","Âtπøæ∫Ïıh•Ωºπ´s","MS",432
+"woodshed","WV24B","336","N","N"," "," ","ÂwπdıÛ≤d","MS",433
+"toolhouse","WV24B","336","N","N"," "," ","Âtπøæ∫Ïıh•ºπ´s","MS",433
+"woodshed","WV25A","337","N","N"," "," ","ÂwπºdıÛ≤´∫{∞}d","MS",434
+"toolhouse","WV25A","337","N","N"," "," ","Âtπøæ∫Ïıha´∫πs","MS",434
+"woodshed","WV25B","338","N","N"," "," ","ÂwπºdıÛ≤d","MS",435
+"shop","WV25B","338","N","N"," "," ","Ûa∫p","MS",435
+"woodhouse","WV26A","339","N","N"," "," ","Âwπºdıh·Ωπs","MS",436
+"shop","WV26A","339","N","N"," "," ","Ûa∫p","MS",436
+"woodhouse","WV26B","340","N","N"," "," ","Âwπdıh·´πs the door$‰∞$do¥","MS",437
+"toolhouse","WV26B","340","N","N"," "," ","tπø∫Ïh·πs","MS",437
+"woodhouse","WV27A","341","N","N"," "," ","Âwπºdh·∫πøs","MS",438
+"shop","WV27A","341","N","N"," "," ","Ûaæ∫p","MS",438
+"woodhouse","WV27B","342","N","N"," "," ","wπºdh·π´s","MS",439
+"tool shed","WV27B","342","O","N"," "," ","Âtπø∫Ï$Û≤Ω∫d","MS",439
+"woodhouse","WV28A","343","N","N"," "," ","Âwπdıh·´∫πs","MS",440
+"lumber house","WV28A","343","O","N"," "," ","Âl∏mb¥ı$ha´πs","MS",440
+"woodshed","WV28B","344","N","N"," "," ","ÂwπºdıÛ≤´d","MS",441
+"toolhouse","WV28B","344","N","N"," "," ","Âtπøæ∫Ïıh·πøs","MS",441
+"woodhouse","WV29A","345","N","N"," "," ","Âwπºdıha´∫πs","MS",442
+"toolhouse","WV29A","345","N","N"," "," ","Âtπø∫Ïıha´∫πs","MS",442
+"woodhouse","WV29B","346","N","N"," "," ","Âwπºdıh·∫πøs","MS",443
+"toolhouse","WV29B","346","N","N"," "," ","Âtπø∫Ïıh·∫πøs","MS",443
+"woodshed","WV30A","347","N","N"," "," ","ÂwπºdıÛ≤∫d","MS",444
+"toolhouse","WV30A","347","N","N"," "," ","Âtπøæ∫Ïıh·∫πøs","MS",444
+"woodshed","WV30B","348","N","N"," "," ","ÂwπºdıÛ≤´d","MS",445
+"toolhouse","WV30B","348","N","N"," "," ","Âtπøæ∫Ïıh·∫πøs","MS",445
+"woodshed","WV31A","349","N","N"," "," ","ÂwπdıÛ≤´∫d","MS",446
+"toolhouse","WV31A","349","N","N"," "," ","Âtπøæ∫Ïıh·Ωπøs","MS",446
+"woodhouse","WV31B","350","N","N"," "," ","Âwπødıh·∫πøs","MS",447
+"toolhouse","WV31B","350","N","N"," "," ","ÂtπøÏıh·∫πøs","MS",447
+"woodhouse","WV32A","353","N","N"," "," ","Âwπºdıh·∫πøΩs","MS",448
+"toolhouse","WV32A","353","N","N"," "," ","Âtπøæ∫Ïıh·∫πøs","MS",448
+"woodshed","WV32B","354","N","N"," "," ","ÂwπdıÛ≤´d","MS",449
+"toolhouse","WV32B","354","N","N"," "," ","Âtuº∫Ïıh·∫πøs","MS",449
+"woodhouse","WV33A","355","N","N"," "," ","ÂwπΩædıh·∫πΩs","MS",450
+"shop house","WV33A","355","O","N"," "," ","Ûap$h·∫πøΩs","MS",450
+"toolhouse","WV33A","355","N","N"," "," ","tuÏh·∫πøΩs","MS",450
+"woodshed","WV33B","356","N","N"," "," ","ÂwπºdıÛ≤´∫d","MS",451
+"toolhouse","WV33B","356","N","N"," "," ","ÂtπøæÏıh·πøΩs","MS",451
+"woodhouse","WV34A","359","N","N"," "," ","Âwπºdıh·∫πøs","MS",452
+"toolhouse","WV34A","359","N","N"," "," ","Âtπøæ∫Ïıh·∫πøs","MS",452
+"woodhouse","WV34B","360","N","N"," "," ","Âwπºdıh·Ω∫πøs","MS",453
+"toolhouse","WV34B","360","N","N"," "," ","Âtu´ºuºÏh·Ω∫πøs","MS",453
+"woodhouse","WV35A","361","N","N"," "," ","Âwπºdıh·Ω∫πøs","MS",454
+"toolhouse","WV35A","361","N","N"," "," ","Âtuº∫Ïıh·Ω∫πøΩs","MS",454
+"woodshed","WV35B","362","N","N"," "," ","ÂwπºdıÛ≤´∫{∞}d","MS",455
+"tool shed","WV35B","362","O","N"," "," ","Âtπøæ∫Ï$Û≤´∫{∞}d","MS",455
+"woodhouse","WV36A","363","N","N"," "," ","Âwπºdıha´∫πs","MS",456
+"toolhouse","WV36A","363","N","N"," "," ","Âtπøæ∫Ïıha´∫πs","MS",456
+"woodshed","WV36B","364","N","N"," "," ","ÂwπdıÛ≤d","MS",457
+"toolhouse","WV36B","364","N","N"," "," ","Âtπøæ∫Ïıha´∫πøs","MS",457
+"woodhouse","WV37A","365","N","N"," "," ","Âwπºdıha´∫πøs","MS",458
+"toolhouse","WV37A","365","N","N"," "," ","Âtuº∫Ïıha´∫πøs","MS",458
+"woodhouse","WV37B!","366!","N","N"," "," ","Âwπºdıh·πøs","MS",459
+"tool shed","WV37B!","366!","O","N"," "," ","Âtπøæ∫Ï$Û≤´∫{∞}d","MS",459
+"woodhouse","WV38A","367","N","N"," "," ","Âwπºdıh·ΩπøΩs","MS",460
+"toolhouse","WV38A","367","N","N"," "," ","Âtπøæ∫Ïıh·πøΩs","MS",460
+"woodhouse","WV38B","368","N","N"," "," ","Âwπºdıh·Ω∫πøs","MS",461
+"toolhouse","WV38B","368","N","N"," "," ","ÂtπøΩæéÏıh·Ω∫πs","MS",461
+"woodshed","WV39A","369","N","N"," "," ","ÂwπºdıÛ≤´∫{∞}d","MS",462
+"toolhouse","WV39A","369","N","N"," "," ","Âtπø∫Ïıh·Ω∫πøΩs","MS",462
+"woodhouse","WV39B","370","N","N"," "," ","Âwπºdıh·Ωπøs","MS",463
+"toolhouse","WV39B","370","N","N"," "," ","Âtπøæ∫Ïıh·Ωπøs","MS",463
+"woodshed","WV39C!","371!","N","N"," "," ","ÂwπdıÛ≤d","MS",464
+"tool shed","WV39C!","371!","O","N"," "," ","Âtπøæ∫Ï$Û≤d","MS",464
+"woodhouse","WV40A","373","N","N"," "," ","Âwπ∫dıh·Ω∫πøs","MS",465
+"toolhouse","WV40A","373","N","N"," "," ","Âtπøæ∫Ïıh·∫πøΩs","MS",465
+"woodhouse","WV40B","374","N","N"," "," ","Âwπºdıh·πøs","MS",466
+"toolhouse","WV40B","374","N","N"," "," ","Âtπø∫Ïıh·∫πøΩs","MS",466
+"woodshed","WV41A","375","N","N"," "," ","ÂwπdıÛ≤d","MS",467
+"toolhouse","WV41A","375","N","N"," "," ","Âtπø{πø)´Ïıh·Ωπs","MS",467
+"woodhouse","WV41B","376","N","N"," "," ","Âwπdıh·Ω∫πøs","MS",468
+"toolhouse","WV41B","376","N","N"," "," ","Âtπøæ∫ÏıÀ·Ω∫πøs","MS",468
+"woodshed","WV42A","377","N","N"," "," ","ÂwπºdıÛ≤´d","MS",469
+"toolhouse","WV42A","377","N","N"," "," ","Âtuº∫Ïıh·∫πΩs","MS",469
+"woodhouse","WV42B","378","N","N"," "," ","Âwπdıh·∫πøΩs","MS",470
+"toolhouse","WV42B","378","N","N"," "," ","Âtπø∫Ïıh·Ω∫πøΩs","MS",470
+"woodhouse","WV43A","381","N","N"," "," ","Âwπºdıha´πs","MS",471
+"toolhouse","WV43A","381","N","N"," "," ","Âtuº∫Ïıha´πs","MS",471
+"woodshed","WV43B","382","N","N"," "," ","ÂwπºdıÛ≤´∫{∞}d","MS",472
+"tool shed","WV43B","382","O","N"," "," ","Âtπøæ∫Ï$Û≤∫{∞}d","MS",472
+"woodhouse","WV44A","383","N","N"," "," ","Âwπºdıh·Ωπøs","MS",473
+"toolhouse","WV44A","383","N","N"," "," ","Âtπøæ∫Ïıh·Ω∫πøs","MS",473
+"woodhouse","WV44B","384","N","N"," "," ","wπºdha∫πøs","MS",474
+"toolhouse","WV44B","384","N","N"," "," ","Âtπø∫Ïıha∫πøs","MS",474
+"woodhouse","WV45A","385","N","N"," "," ","wπdha´∫πøs","MS",475
+"toolhouse","WV45A","385","N","N"," "," ","tπøæÏha´∫πøΩs","MS",475
+"woodshed","WV45B","386","N","N"," "," ","ÂwπºdıÛ≤d","MS",476
+"tool shed","WV45B","386","O","N"," "," ","tπøæ∫Ï$Û≤d","MS",476
+"woodhouse","WV46A","387","N","N"," "," ","wπdha´∫πøΩs","MS",477
+"toolhouse","WV46A","387","N","N"," "," ","tuº∫Ïha´∫πøΩs","MS",477
+"woodshed","WV46B","388","N","N"," "," ","ÂwπºdıÛ≤d","MS",478
+"tool shed","WV46B","388","O","N"," "," ","tπøæ∫Ï$Û≤d","MS",478
+"woodshed","WV47A","389","N","N"," "," ","ÂwπºdıÛ≤d","MS",479
+"toolhouse","WV47A","389","N","N"," "," ","Âtuº∫Ïıh·Ω∫πøΩs","MS",479
+"woodhouse","WV47B","390","N","N"," "," ","Âwπºdıh·Ω∫πøs","MS",480
+"toolhouse","WV47B","390","N","N"," "," ","tπøæ∫ÏÀ·πøs","MS",480
+"woodhouse","WV48A","391","N","N"," "," ","ÂwπΩdıha´∫πøs","MS",481
+"toolhouse","WV48A","391","N","N"," "," ","Âtπøæ∫Ïıha´∫πøs","MS",481
+"woodhouse","WV48B","391b","N","N"," "," ","ÂwπΩdıh·Ωπs","MS",482
+"toolhouse","WV48B","391b","N","N"," "," ","tπøæ∫Ïh·Ω∫πøΩs","MS",482
+"woodshed","WV48C","392","N","N"," "," ","Âwπº{∞}dıÛ≤∫d","MS",483
+"tool shed","WV48C","392","O","N"," "," ","tuº∫Ï$Û≤d","MS",483
+"woodhouse","WV48D","392b","N","N"," "," ","Âwπºdıha´∫πs","MS",484
+"toolhouse","WV48D","392b","N","N"," "," ","tuº∫Ïha´∫πs","MS",484
+"woodhouse","WV49A","393","N","N"," "," ","Âwπdıh·Ω∫πøs","MS",485
+"toolhouse","WV49A","393","N","N"," "," ","Âtuº∫Ïıh·∫πΩs","MS",485
+"woodhouse","WV49B","394","N","N"," "," ","Âwπºdıh∞´∫πøΩs","MS",486
+"tool shed","WV49B","394","O","N"," "," ","Âtπøæ∫Ï$Û≤∫d","MS",486
+"woodhouse","WV50A","395","N","N"," "," ","Âwπøædıha´πs","MS",487
+"shop","WV50A","395","N","N"," "," ","Ûap","MS",487
+"woodshed","WV50B","396","N","N"," "," ","ÂwπºdıÛ≤d","MS",488
+"woodhouse","WV50B","396","N","N"," "," ","Âwπdıh·Ω∫πøs","MS",488
+"toolhouse","WV50B","396","N","N"," "," ","tuº∫Ïh·Ω∫πøs","MS",488
+"woodhouse","WV51A","261","N","N"," "," ","Âwπºdıha´πs","MS",489
+"toolhouse","WV51A","261","N","N"," "," ","Âtuº∫Ïıha´πs","MS",489
+"woodhouse","WV51B","262","N","N"," "," ","Âwπºdıha´æπs","MS",490
+"toolhouse","WV51B","262","N","N"," "," ","tuº∫Ïh·Ωæπs","MS",490
+"woodhouse","WV52A","258","N","N"," "," ","Âwπºdıha´πs","MS",491
+"toolhouse","WV52A","258","N","N"," "," ","Âtuæ∫Ïıha´πs","MS",491
+"woodshed","WV52B","259","N","N"," "," ","ÂwπødıÛ≤∫{∞}d","MS",492
+"tool shed","WV52B","259","O","N"," "," ","ÂtπøæÏ$Û≤∫{∞}d","MS",492
+"woodhouse","WV52C!","260!","N","N"," "," ","wπdha∫πøs","MS",493
+"toolhouse","WV52C!","260!","N","N"," "," ","tπøæ∫Ïha∫πøΩs","MS",493
+"woodshed","WV53A","257","N","N"," "," ","ÂwπºdıÛ≤d","MS",494
+"toolhouse","WV53A","257","N","N"," "," ","Âtuº∫Ïıha∫πøΩs","MS",494
+"woodshed","WV53B","257b","N","N"," "," ","ÂwπdıÛ≤{∞}d","MS",495
+"tool shed","WV53B","257b","O","N"," "," ","Âtπøæ∫Ï$Û≤{∞}d","MS",495
+"woodhouse","WV53C!","257c!","N","N"," "," ","Âwπdıh∂Ωπ´s","MS",496
+"toolhouse","WV53C!","257c!","N","N"," "," ","tπøº∫Ïh∂Ωπ´s","MS",496
+"woodhouse","WV54A","255","N","N"," "," ","Âwπdıha´∫πs","MS",497
+"toolhouse","WV54A","255","N","N"," "," ","tuº∫Ïha∫πs","MS",497
+"woodshed","WV54B","256","N","N"," "," ","ÂwπdıÛ≤´d","MS",498
+"tool shed","WV54B","256","O","N"," "," ","Âtuº∫Ï$Û≤´d","MS",498
+"NR","DE1A","11"," ","N"," "," "," ","MS",499
+"NR","DE1B","12"," ","N"," "," "," ","MS",500
+"NR","DE1C!","13!"," ","N"," "," "," ","MS",501
+"shed","DE2A","15(*)","N","Y","open on one side; separate or built on","AUX","Û≤d","MS",502
+"shop","DE2A","15(*)","N","Y"," ","AUX","Ûaæp","MS",502
+"toolhouse","DE2A","15(*)","N","Y"," ","AUX","Âtuº{u}Ïıha´æπs","MS",502
+"NR","DE2B","16"," ","N"," "," "," ","MS",503
+"house","DE2C","15X","N","N"," "," ","h·›π›s","MS",504
+"lean-to","DE2C","15X","N","N","built on"," ","li∫jntuº","MS",504
+"ell","DE2C","15X","N","N","part of house"," ","≤∫{∞}Ï","MS",504
+"NR","DE3A","18"," ","N"," "," "," ","MS",505
+"NR","DE3B","19"," ","N"," "," "," ","MS",506
+"NR","DE3C!","17!"," ","N"," "," "," ","MS",507
+"NR","DE4","20"," ","N"," "," "," ","MS",508
+"woodhouse","DE5A","21","N","N"," "," ","Âwπdıh•ºπs","MS",509
+"shed","DE5A","21","N","N","built on or separate; one slant roof"," ","Û≤´d","MS",509
+"ell","DE5A","21","N","N","two roofed addition"," ","≤∫{∞}Ï","MS",509
+"NR","DE5B","22"," ","N"," "," "," ","MS",510
+"NR","DE6A","23"," ","N"," "," "," ","MS",511
+"NR","DE6B","24"," ","N"," "," "," ","MS",512
+"NR","MD1A","27"," ","N"," "," "," ","MS",513
+"NR","MD1B","28"," ","N"," "," "," ","MS",514
+"NR","MD2A","31a"," ","N"," "," "," ","MS",515
+"NR","MD2B","32"," ","N"," "," "," ","MS",516
+"NR","MD3A","33"," ","N"," "," "," ","MS",517
+"NR","MD3B","34"," ","N"," "," "," ","MS",518
+"NR","MD4A","35b"," ","N"," "," "," ","MS",519
+"NR","MD4B","35"," ","N"," "," "," ","MS",520
+"outbuilding","MD4C","36","N","N"," "," ","•ºπtb±{∞}Ïd±øÓ","MS",521
+"shed","MD4C","36","N","N","built on; open one end"," ","Û≤´∫{∞}d","MS",521
+"ell","MD4C","36","N","Y","built on; room of house","SUG","≤´{∞}Ï","MS",521
+"NR","MD5A","37"," ","N"," "," "," ","MS",522
+"NR","MD5B","38"," ","N"," "," "," ","MS",523
+"NR","MD6A","39(*)"," ","N"," "," "," ","MS",524
+"NR","MD6B","40"," ","N"," "," "," ","MS",525
+"NR","MD7A","41"," ","N"," "," "," ","MS",526
+"NR","MD7B","41b"," ","N"," "," "," ","MS",527
+"NR","MD7C!","42!"," ","N"," "," "," ","MS",528
+"NR","MD8A","43"," ","N"," "," "," ","MS",529
+"NR","MD8B","44"," ","N"," "," "," ","MS",530
+"woodhouse","MD9N","N46","N","N"," "," ","wπdh•ºπs","MS",531
+"toolhouse","MD9N","N46","N","N"," "," ","tuº∫Ïh•ºπs","MS",531
+"shed","MD9N","N46","N","N","open"," ","Ûe∫d","MS",531
+"NR","MD9A","45"," ","N"," "," "," ","MS",532
+"NR","MD9B","46"," ","N"," "," "," ","MS",533
+"NR","MD10A","49"," ","N"," "," "," ","MS",534
+"NR","MD10B","50"," ","N"," "," "," ","MS",535
+"NR","MD11","51"," ","N"," "," "," ","MS",536
+"NR","MD12A","52"," ","N"," "," "," ","MS",537
+"NR","MD12B","53"," ","N"," "," "," ","MS",538
+"NR","MD13A","54(*)"," ","N"," "," "," ","MS",539
+"NR","MD13B","55"," ","N"," "," "," ","MS",540
+"NR","MD13C","56"," ","N"," "," "," ","MS",541
+"NR","MD13D!","57!"," ","N"," "," "," ","MS",542
+"outbuilding","MD13E!","58!","N","N","separate"," ","Â·Ωπøtıb±{∞}Ïd±øÓ","MS",543
+"woodhouse","MD13E!","58!","N","N","separate"," ","wπødh·Ωπøs","MS",543
+"shed","MD13E!","58!","N","N","built on back of kitchen;open on one side"," ","Û≤æ∫d","MS",543
+"NR","MD13F!","59!"," ","N"," "," "," ","MS",544
+"NR","MD13G","54X"," ","N"," "," "," ","MS",545
+"NR","MD14","61(*)"," ","N"," "," "," ","MS",546
+"NR","MD15A","62"," ","N"," "," "," ","MS",547
+"NR","MD15B","63"," ","N"," "," "," ","MS",548
+"woodhouse","MD16","64","N","N","mostly separate"," ","Âwπdıha´∫πøΩs","MS",549
+"woodshed","MD16","64","N","N","mostly separate"," ","ÂwπdıÛ≤d","MS",549
+"NR","MD17A","65"," ","N"," "," "," ","MS",550
+"NR","MD17B","66"," ","N"," "," "," ","MS",551
+"NR","MD18A","67"," ","N"," "," "," ","MS",552
+"NR","MD18B","68"," ","N"," "," "," ","MS",553
+"NR","MD19A","69"," ","N"," "," "," ","MS",554
+"NR","MD19B","70"," ","N"," "," "," ","MS",555
+"shed","MD20A","71","N","N","separate"," "," ","MS",556
+"toolhouse","MD20A","71","N","N","separate"," ","tuº{π}Ïıh•πs","MS",556
+"ell","MD20A","71","N","N","part of house"," "," ","MS",556
+"shed"," ","71"," "," "," "," ","Û≤´∫{∞}d"," ",556
+"ell"," ","71"," "," "," "," ","≤´{≤}Ï"," ",556
+"NR","MD20B","72"," ","N"," "," "," ","MS",557
+"NR","MD20C!","73!"," ","N"," "," "," ","MS",558
+"NR","MD21A","75"," ","N"," "," "," ","MS",559
+"NR","MD21B","76"," ","N"," "," "," ","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"NR","MD22M","N78"," ","N"," "," "," ","MS",562
+"woodhouse","MD22A","77","N","N","separate"," ","wπdh•πs","MS",563
+"toolhouse","MD22A","77","N","N","separate"," ","tuº∫Ïıh•πs","MS",563
+"off house","MD22A","77","O","N","separate"," ","Â∑∫{≤}fı$h•πs","MS",563
+"shed","MD22A","77","N","N","separate; open at side"," ","Û≤æ∫{∞}d","MS",563
+"NR","MD22B","78"," ","N"," "," "," ","MS",564
+"NR","MD22C!","79!"," ","N"," "," "," ","MS",565
+"NR","MD23A","80b"," ","N"," "," "," ","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"NR","MD23C","81"," ","N"," "," "," ","MS",568
+"NR","MD24","82"," ","N"," "," "," ","MS",569
+"NR","MD25","84"," ","N"," "," "," ","MS",570
+"NR","MD26A","83"," ","N"," "," "," ","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"NR","MD27A","85"," ","N"," "," "," ","MS",573
+"NR","MD27B","86"," ","N"," "," "," ","MS",574
+"shed","DC1A","99","N","N","small, separate, closed"," ","Û≤Ωæ{∞}d","MS",575
+"ell","DC1A","99","N","N","added part of house"," ","≤{∞}Ï","MS",575
+"NR","DC1B!","100!"," ","N"," "," "," ","MS",576
+"NR","VA1!","101!"," ","N"," "," "," ","MS",577
+"NR","VA2A","103"," ","N"," "," "," ","MS",578
+"NR","VA2B","104"," ","N"," "," "," ","MS",579
+"NR","VA3A","105(*)"," ","N"," "," "," ","MS",580
+"NR","VA3B","106"," ","N"," "," "," ","MS",581
+"NR","VA3C","105X"," ","N"," "," "," ","MS",582
+"NR","VA4N","N109"," ","N"," "," "," ","MS",583
+"NR","VA5A","107"," ","N"," "," "," ","MS",584
+"NR","VA5B","108"," ","N"," "," "," ","MS",585
+"NR","VA6A","113"," ","N"," "," "," ","MS",586
+"NR","VA6B","114"," ","N"," "," "," ","MS",587
+"NR","VA7A","121"," ","N"," "," "," ","MS",588
+"NR","VA7B","122"," ","N"," "," "," ","MS",589
+"toolhouse","VA8A","123","N","N"," "," ","tπøæ∫Ïh∞ºπø´s","MS",590
+"shed","VA8A","123","N","N","built on"," ","Û≤´∫{∞}d","MS",590
+"NR","VA8B","124"," ","N"," "," "," ","MS",591
+"NR","VA8C!","125!"," ","N"," "," "," ","MS",592
+"NR","VA9A","117"," ","N"," "," "," ","MS",593
+"NR","VA9B!","118!"," ","N"," "," "," ","MS",594
+"NR","VA10A","127"," ","N"," "," "," ","MS",595
+"NR","VA10B","128"," ","N"," "," "," ","MS",596
+"NR","VA11A","129"," ","N"," "," "," ","MS",597
+"NR","VA11B","130"," ","N"," "," "," ","MS",598
+"NR","VA12N","N131"," ","N"," "," "," ","MS",599
+"NR","VA12A","131"," ","N"," "," "," ","MS",600
+"NR","VA12B!","132!"," ","N"," "," "," ","MS",601
+"NR","VA13A","133"," ","N"," "," "," ","MS",602
+"NR","VA13B","134"," ","N"," "," "," ","MS",603
+"woodshed","VA14A","135","N","N","built on meat house"," ","Âwπ∫dıÛ≤´{∞}d","MS",604
+"woodhouse","VA14A","135","N","N","separate"," ","Âwπdıh≤›æπ´ºs","MS",604
+"shop","VA14A","135","N","N"," "," ","Ûa´p","MS",604
+"NR","VA14B","136"," ","N"," "," "," ","MS",605
+"NR","VA14C","137"," ","N"," "," "," ","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"NR","VA15A","139"," ","N"," "," "," ","MS",608
+"NR","VA15B","140"," ","N"," "," "," ","MS",609
+"NR","VA16A","141"," ","N"," "," "," ","MS",610
+"NR","VA16B","142"," ","N"," "," "," ","MS",611
+"NR","VA17A","143"," ","N"," "," "," ","MS",612
+"NR","VA17B","144"," ","N"," "," "," ","MS",613
+"NR","VA18","145"," ","N"," "," "," ","MS",614
+"NR","VA19A","146"," ","N"," "," "," ","MS",615
+"NR","VA19B","147"," ","N"," "," "," ","MS",616
+"NR","VA19C!","148!"," ","N"," "," "," ","MS",617
+"NR","VA20A","149"," ","N"," "," "," ","MS",618
+"NR","VA20B","150(*)"," ","N"," "," "," ","MS",619
+"NR","VA20C","150X"," ","N"," "," "," ","MS",620
+"NR","VA21N","N153"," ","N"," "," "," ","MS",621
+"NR","VA21A","153"," ","N"," "," "," ","MS",622
+"NR","VA21B","154"," ","N"," "," "," ","MS",623
+"NR","VA22","155"," ","N"," "," "," ","MS",624
+"NR","VA23A","156"," ","N"," "," "," ","MS",625
+"storehouse","VA23B","157","N","N","separate"," ","sto∞h∞ºπs","MS",626
+"woodhouse","VA23B","157","N","N","separate"," ","wπdh∞ºπ´s","MS",626
+"shed","VA23B","157","N","N","built on; open"," ","Û≤´d","MS",626
+"shed end","VA23B","157","O","N","built on to house; sloping roof"," ","ıÛ≤´dÂ$iΩ∫nd","MS",626
+"ell","VA23B","157","N","N","built on; two roofs"," ","≤´∫{∞}Ï","MS",626
+"shed end","VA23B","157","O","Y"," ","SUG/OLD","ıÛ≤´dÂ$≤´∫{∞}nd","MS",626
+"NR","VA24","159"," ","N"," "," "," ","MS",627
+"NR","VA25","160(*)"," ","N"," "," "," ","MS",628
+"woodhouse","VA26A","161A","N","N"," "," ","wπødh•ºπøs","MS",629
+"shed","VA26A","161A","N","N","built on; open on one side"," ","Û≤´∫{∞}d","MS",629
+"NR","VA26B","161"," ","N"," "," "," ","MS",630
+"NR","VA26C","162"," ","N"," "," "," ","MS",631
+"lumber house","VA27","163(*)","O","N"," "," ","l∏mb¥$h∞ºπøºs","MS",632
+"shed","VA27","163(*)","N","N","built on"," ","Û≤´∫{∞}d","MS",632
+"lumber house"," ","163(*)"," "," "," "," ","l∏mb¥$h≤Ωæ{πøº}s"," ",632
+"NR","VA28A","164"," ","N"," "," "," ","MS",633
+"NR","VA28B","165"," ","N"," "," "," ","MS",634
+"NR","VA29","166"," ","N"," "," "," ","MS",635
+"NR","VA30A","167"," ","N"," "," "," ","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"woodhouse","VA30C!","168!","N","N","separate; same as outhouse"," ","wπødh≤›πø´s","MS",638
+"outhouse","VA30C!","168!","N","N","separate; same as woodhouse"," ","Â∞ºπø´tıh≤›æπøs","MS",638
+"shed","VA30C!","168!","N","N","separate; no sides, roof only"," ","Û≤{∞}d","MS",638
+"ell","VA30C!","168!","N","N","built on; properly at an angle"," ","≤{∞}Ï","MS",638
+"wing","VA30C!","168!","N","N","natural"," ","w±Ó","MS",638
+"NR","VA30D!","169!"," ","N"," "," "," ","MS",639
+"NR","VA30E!","170!"," ","N"," "," "," ","MS",640
+"NR","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"NR","VA31B","172"," ","N"," "," "," ","MS",642
+"NR","VA31C","171X"," ","N"," "," "," ","MS",643
+"NR","VA32!","175!"," ","N"," "," "," ","MS",644
+"NR","VA33A","173"," ","N"," "," "," ","MS",645
+"NR","VA33B","174"," ","N"," "," "," ","MS",646
+"shop","VA34A","177(*)","N","Y"," ","AUX","Ûap","MS",647
+"ell","VA34A","177(*)","N","Y","two roofs","AUX","≤´∫{∞}Ï","MS",647
+"shed","VA34A","177(*)","N","Y","one sloping roof","AUX","Û≤´∫{∞}d","MS",647
+"NR","VA34B","178"," ","N"," "," "," ","MS",648
+"NR","VA35A","179"," ","N"," "," "," ","MS",649
+"NR","VA35B","180"," ","N"," "," "," ","MS",650
+"NR","VA36A","181"," ","N"," "," "," ","MS",651
+"NR","VA36B","182"," ","N"," "," "," ","MS",652
+"NR","VA37","183"," ","N"," "," "," ","MS",653
+"smokehouse","VA38","185","N","N"," "," ","Âsm∑´{π}kh•´ºπø´s","MS",654
+"woodhouse","VA38","185","N","N"," "," ","wdh·πs","MS",654
+"outhouse","VA38","185","N","N","general term"," ","•´º{πø´}th•´ºπø´s","MS",654
+"shed","VA38","185","N","N","built on"," ","Û≤{∞}d","MS",654
+"ell","VA38","185","N","Y","at an angle","SUG","≤{∞}Ï","MS",654
+"NR","VA39!","186!"," ","N"," "," "," ","MS",655
+"NR","VA40A","187"," ","N"," "," "," ","MS",656
+"NR","VA40B","188"," ","N"," "," "," ","MS",657
+"NR","VA41A","191"," ","N"," "," "," ","MS",658
+"NR","VA41B","192"," ","N"," "," "," ","MS",659
+"NR","VA42A","193(*)(**)"," ","N"," "," "," ","MS",660
+"NR","VA42B","194"," ","N"," "," "," ","MS",661
+"NR","VA43N","N195"," ","N"," "," "," ","MS",662
+"NR","VA43A","195"," ","N"," "," "," ","MS",663
+"NR","VA43B","196"," ","N"," "," "," ","MS",664
+"NR","VA44A","199"," ","N"," "," "," ","MS",665
+"NR","VA44B","200"," ","N"," "," "," ","MS",666
+"woodhouse","VA45A","201","N","N","separate"," ","wπdÀ•πs","MS",667
+"shed","VA45A","201","N","N","closed in; built on to barn"," ","Û≤∫d","MS",667
+"outhouse","VA45A","201","N","N","separate"," ","•´πth•´πs","MS",667
+"ell","VA45A","201","N","N","at an angle to house"," ","≤{∞}Ï","MS",667
+"NR","VA45B","202"," ","N"," "," "," ","MS",668
+"woodhouse","VA46N","N207","N","N","separate"," ","Âwπdh∞ºπs","MS",669
+"shed","VA46N","N207","N","N","open"," ","Û≤{∞}d","MS",669
+"ell","VA46N","N207","N","N","outer house"," ","≤{∞}Ï","MS",669
+"woodhouse","VA46A","207","N","N","separate"," ","wπdh·›πø›´s","MS",670
+"shed","VA46A","207","N","N","separate; open with top"," ","Û≤{∞}d","MS",670
+"ell","VA46A","207","N","Y","outer house; rare","SUG","≤´{∞}Ï","MS",670
+"NR","VA46B!","208!"," ","N"," "," "," ","MS",671
+"NR","VA47","211"," ","N"," "," "," ","MS",672
+"NR","VA48A","213(*)"," ","N"," "," "," ","MS",673
+"NR","VA48B","214"," ","N"," "," "," ","MS",674
+"NR","VA49A","215"," ","N"," "," "," ","MS",675
+"NR","VA49B","216"," ","N"," "," "," ","MS",676
+"NR","VA50A","217"," ","N"," "," "," ","MS",677
+"NR","VA50B","218"," ","N"," "," "," ","MS",678
+"NR","VA51A","219"," ","N"," "," "," ","MS",679
+"NR","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"NR","VA51C","220X"," ","N"," "," "," ","MS",681
+"NR","VA52A","224"," ","N"," "," "," ","MS",682
+"NR","VA52B","225"," ","N"," "," "," ","MS",683
+"NR","VA52C!","226!"," ","N"," "," "," ","MS",684
+"NR","VA53A","227"," ","N"," "," "," ","MS",685
+"NR","VA53B","228"," ","N"," "," "," ","MS",686
+"woodhouse","VA54A","229","N","N","separate two roofs"," ","wπºdh≤Ωæπ´s","MS",687
+"shed","VA54A","229","N","N","separate roofs sometimes open one roof"," ","Û≤d","MS",687
+"shedroom","VA54A","229","N","N","built on house"," ","Û≤drπ∫m","MS",687
+"ell","VA54A","229","N","N","at angle onto house"," ","≤´∫{∞}Ï","MS",687
+"NR","VA54B","230"," "," "," ","N"," ","MS",688
+"shed","VA55A","233(*)","N","Y","separate or built on","AUX","Û≤∫{∞}d","MS",689
+"shop","VA55A","233(*)","N","Y","German","AUX","Û∏p","MS",689
+"ell","VA55A","233(*)","N","Y"," ","AUX","≤∫{∞}Ï","MS",689
+"shed","VA55A","233(*)","N","N","separate open at ends"," ","Û≤d","MS",689
+"outbuilding","VA55A","233(*)","N","N","separate"," ","Âaπtıb±{∞}Ïd±øÓ","MS",689
+"ell","VA55A","233(*)","N","N","built on house"," ","≤´∫{∞}Ï","MS",689
+"NR","VA55B","234(*)"," ","N"," "," "," ","MS",690
+"NR","VA56A","237"," ","N"," "," "," ","MS",691
+"NR","VA57A","239"," ","N"," "," "," ","MS",693
+"NR","VA57B","240"," ","N"," "," "," ","MS",694
+"woodhouse","VA58","241(*)","N","Y"," ","AUX","wπdh∞π∫s","MS",695
+"shed","VA58","241(*)","N","Y","open","AUX","Û≤´∫{∞}d","MS",695
+"toolhouse","VA59N","N241","N","N"," "," ","tuº{w}Ïh∞π∫s","MS",696
+"woodhouse","VA59N","N241","N","N"," "," ","wudh∞π∫s","MS",696
+"shed","VA59N","N241","N","N","open"," ","Û≤´∫{∞}d","MS",696
+"ell","VA59N","N241","N","N","added room to the house"," ","≤´{∞}Ï","MS",696
+"NR","VA59A","242"," "," "," ","N"," ","MS",697
+"NR","VA59B!","243!"," "," "," ","N"," ","MS",698
+"NR","VA60","244(*)"," "," "," ","N"," ","MS",699
+"woodhouse","VA61A","245(*)","N","N","building or built on"," ","wπdh∞ºπ´s","MS",700
+"shed","VA61A","245(*)","N","N","roofed on, open at ends"," ","Û≤{∞}d","MS",700
+"ell","VA61A","245(*)","N","Y","on house","SUG","≤´{∞}Ï","MS",700
+"addition"," ","245(*)"," "," "," "," ","∞d±Û∞´n"," ",700
+"NR","VA61B!","246!"," ","N"," "," "," ","MS",701
+"NR","VA61C","245X"," ","N"," "," "," ","MS",702
+"NR","VA62A","247(*)"," ","N"," "," "," ","MS",703
+"NR","VA62B","248"," ","N"," "," "," ","MS",704
+"NR","VA63A","251"," ","N"," "," "," ","MS",705
+"NR","VA63B","252"," ","N"," "," "," ","MS",706
+"NR","VA64A","255"," ","N"," "," "," ","MS",707
+"NR","VA64B","256"," ","N"," "," "," ","MS",708
+"woodhouse","VA65A","257","N","N","separate"," ","wπdh·æπø´s","MS",709
+"shed","VA65A","257","N","N","open"," "," ","MS",709
+"ell","VA65A","257","N","N","point of house"," "," ","MS",709
+"woodshed","VA65B","258","N","N"," "," ","wπºdÛ≤´{∞}d","MS",710
+"woodhouse","VA65B","258","N","N","one roof"," ","wπºdh·æπ´s","MS",710
+"shed room","VA65B","258","N","N","point of house one roof"," ","Û≤´{∞}d$rπø´{πº}m","MS",710
+"ell","VA65B","258","N","N","point of house two roofs"," ","≤´∫{∞}Ï","MS",710
+"woodshed","VA65C!","259!","N","N"," "," ","ÂwπdıÛ≤d","MS",711
+"NR","VA66A","261"," ","N"," "," "," ","MS",712
+"NR","VA66B","262"," ","N"," "," "," ","MS",713
+"NR","VA67A","267"," ","N"," "," "," ","MS",714
+"NR","VA67B","268"," ","N"," "," "," ","MS",715
+"NR","VA68A","269"," ","N"," "," "," ","MS",716
+"NR","VA68B","270"," ","N"," "," "," ","MS",717
+"NR","VA69A","273"," ","N"," "," "," ","MS",718
+"NR","VA69B","274"," ","N"," "," "," ","MS",719
+"woodhouse","VA70A","275","N","N"," "," ","Âwπødh·πøs","MS",720
+"shed","VA70A","275","N","N","built on open"," ","Û≤∫{∞}d","MS",720
+"shedroom","VA70A","275","N","N","built on enclosed"," ","ÂÛ≤{∞}dırπø{πº}m","MS",720
+"ell","VA70A","275","N","N","at an angle"," ","≤∫{∞}Ï","MS",720
+"NR","VA70B","276"," ","N"," "," "," ","MS",721
+"NR","VA71A","285"," ","N"," "," "," ","MS",722
+"NR","VA71B","286"," ","N"," "," "," ","MS",723
+"NR","VA72A","287"," ","N"," "," "," ","MS",724
+"NR","VA72B","288"," ","N"," "," "," ","MS",725
+"NR","VA73","291"," ","N"," "," "," ","MS",726
+"NR","VA74A","293"," ","N"," "," "," ","MS",727
+"NR","VA74B!","294!"," ","N"," "," "," ","MS",728
+"NR","VA75A","297"," ","N"," "," "," ","MS",729
+"NR","VA75B","298"," ","N"," "," "," ","MS",730
+"NR","NC1","303"," ","N"," "," "," ","MS",731
+"woodhouse","NC2A","301","N","N"," "," ","wπdh∞ºπs","MS",732
+"toolroom","NC2A","301","N","N"," "," ","tπøæ{uº}lrπm","MS",732
+"shedroom","NC2A","301","N","N"," "," ","Û≤drπm","MS",732
+"shed","NC2A","301","N","N","even at end"," ","Û≤d","MS",732
+"ell","NC2A","301","N","Y","of house at right angle","SUG","≤´∫{∞}Ï","MS",732
+"NR","NC2B","304"," ","N"," "," "," ","MS",733
+"NR","NC3A","305"," ","N"," "," "," ","MS",734
+"NR","NC3B","306"," ","N"," "," "," ","MS",735
+"NR","NC4A","307"," ","N"," "," "," ","MS",736
+"NR","NC4B","308"," ","N"," "," "," ","MS",737
+"NR","NC5A","309"," ","N"," "," "," ","MS",738
+"NR","NC5B","310"," ","N"," "," "," ","MS",739
+"NR","NC6!","311!"," ","N"," "," "," ","MS",740
+"woodhouse","NC7A","315(*)","N","N"," "," ","wπdh·Ωæ{π›}s","MS",741
+"toolhouse","NC7A","315(*)","N","N"," "," ","tπø{πø´æ}h·Ωæ{π›}s","MS",741
+"shed","NC7A","315(*)","N","N","built on flat top"," ","Û≤´∫{∞}d","MS",741
+"ell","NC7A","315(*)","N","N","at angle; two roofs"," ","≤´∫{∞}Ï","MS",741
+"NR","NC7B","316"," ","N"," "," "," ","MS",742
+"NR","NC8N","N317"," ","N"," "," "," ","MS",743
+"NR","NC8A","317"," ","N"," "," "," ","MS",744
+"NR","NC8B","318(*)"," ","N"," "," "," ","MS",745
+"NR","NC9A","319"," ","N"," "," "," ","MS",746
+"NR","NC9B","320"," ","N"," "," "," ","MS",747
+"outhouse","NC10A","321","N","N","separate"," ","Â•πth∞ºπºs","MS",748
+"shed","NC10A","321","N","N","built on"," ","Û≤d","MS",748
+"NR","NC10B","323"," ","N"," "," "," ","MS",749
+"NR","NC10C","322"," ","N"," "," "," ","MS",750
+"NR","NC11A","325"," ","N"," "," "," ","MS",751
+"NR","NC11B","326"," ","N"," "," "," ","MS",752
+"NR","NC12A","327(*)"," ","N"," "," "," ","MS",753
+"NR","NC12B","328"," ","N"," "," "," ","MS",754
+"NR","NC13A","329"," ","N"," "," "," ","MS",755
+"NR","NC13B","330(*)"," ","N"," "," "," ","MS",756
+"NR","NC14N","N331"," ","N"," "," "," ","MS",757
+"NR","NC14A","331"," ","N"," "," "," ","MS",758
+"storeroom","NC14B","332","N","N","separate"," ","ÂstoΩ∞ırπΩº∫m","MS",759
+"shed","NC14B","332","N","N","no walls separate"," ","Û≤d","MS",759
+"shedroom","NC14B","332","N","N","room built on with sloping roof"," ","Û≤∫{∞}drπΩº∫m","MS",759
+"ell","NC14B","332","N","N","two story two roofs"," ","≤{∞}Ï","MS",759
+"NR","NC14C!","333!"," ","N"," "," "," ","MS",760
+"NR","NC15A","335(*)"," ","N"," "," "," ","MS",761
+"NR","NC15B","336"," ","N"," "," "," ","MS",762
+"NR","NC15C","335X"," ","N"," "," "," ","MS",763
+"NR","NC16A","339(*)"," ","N"," "," "," ","MS",764
+"NR","NC16B","340"," ","N"," "," "," ","MS",765
+"NR","NC17A","337"," ","N"," "," "," ","MS",766
+"NR","NC17B","338"," ","N"," "," "," ","MS",767
+"NR","NC18A","341"," ","N"," "," "," ","MS",768
+"NR","NC18B","342"," ","N"," "," "," ","MS",769
+"NR","NC19A","343"," ","N"," "," "," ","MS",770
+"NR","NC19B","344"," ","N"," "," "," ","MS",771
+"trumperyhouse","NC20A","345","N","N"," "," ","ÂtÚ∏mpr±øha´∫πs","MS",772
+"shed","NC20A","345","N","N","built on room"," ","Û≤´∫d","MS",772
+"ell","NC20A","345","N","N","at an angle"," ","≤´∫{∞}Ï","MS",772
+"NR","NC20B","346a"," ","N"," "," "," ","MS",773
+"NR","NC20C","346b"," ","N"," "," "," ","MS",774
+"NR","NC21A","347"," ","N"," "," "," ","MS",775
+"NR","NC21B","348"," ","N"," "," "," ","MS",776
+"shop","NC22A","349","N","N","separate"," ","Ûa´æp","MS",777
+"shed","NC22A","349","N","N","built on on roof"," ","Û≤´∫{∞}d","MS",777
+"ell","NC22A","349","N","N","point house angle two roofs"," ","e´∫{∞}Ï","MS",777
+"NR","NC22B","349b"," ","N"," "," "," ","MS",778
+"NR","NC23A","351a"," ","N"," "," "," ","MS",779
+"NR","NC23B","351b(*)"," ","N"," "," "," ","MS",780
+"NR","NC23C!","351c!"," ","N"," "," "," ","MS",781
+"NR","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"NR","NC24N","N352"," ","N"," "," "," ","MS",783
+"NR","NC24A","352a"," ","N"," "," "," ","MS",784
+"NR","NC24B","352b"," ","N"," "," "," ","MS",785
+"shed","NC25N","N353","N","N","leanto"," ","Û≤´∫{∞}d","MS",786
+"ell","NC25N","N353","N","Y","point of house","SUG","≤´∫{∞}Ï","MS",786
+"weather house","NC25N","N353","N","N","shelter on far end of property for people"," ","Âw≤‰ı$haπs","MS",786
+"NR","NC25A","353"," ","N"," "," "," ","MS",787
+"outbuilding","NC25B","354"," ","N"," "," ","·Ωæπtb±{∞}Ïd±øΩn","MS",788
+"shed","NC25B","354"," ","N","leanto addition"," ","Û≤d","MS",788
+"lean-to","NC25B","354"," ","Y"," ","SUG","li∫ntuº∫","MS",788
+"ell","NC25B","354"," ","N","built on at angle"," ","≤´{∞}Ï","MS",788
+"NR","NC26A","355a"," ","N"," "," "," ","MS",789
+"NR","NC26B","355b"," ","N"," "," "," ","MS",790
+"NR","NC26C!","356!"," ","N"," "," "," ","MS",791
+"NR","NC27A","357"," ","N"," "," "," ","MS",792
+"NR","NC27B","358"," ","N"," "," "," ","MS",793
+"NR","NC28A","361"," ","N"," "," "," ","MS",794
+"NR","NC28B","361b"," ","N"," "," "," ","MS",795
+"NR","NC28C","362"," ","N"," "," "," ","MS",796
+"outbuilding","NC29A","363(*)","N","N"," "," ","Âa{πΩ}tıb±Ïd±øÓ","MS",797
+"shed","NC29A","363(*)","N","N","open shelter built on"," ","Û≤d","MS",797
+"ell","NC29A","363(*)","N","N","built on room"," ","≤Ï","MS",797
+"NR","NC29B","364"," ","N"," "," "," ","MS",798
+"NR","NC30A","365"," ","N"," "," "," ","MS",799
+"NR","NC30B","366"," ","N"," "," "," ","MS",800
+"NR","NC31A","367"," ","N"," "," "," ","MS",801
+"NR","NC31B","368"," ","N"," "," "," ","MS",802
+"woodroom","NC32A","369","N","N","separate or built on"," ","wπdruΩº∫m","MS",803
+"shedroom","NC32A","369","N","N","built on"," ","Û≤druΩº∫m","MS",803
+"shelter","NC32A","369","N","N","open at sides"," ","Û≤lt∞","MS",803
+"ell","NC32A","369","N","N","built on additions"," ","≤´{∞}Ï","MS",803
+"NR","NC32B!","370!"," ","N"," "," "," ","MS",804
+"NR","NC33A","373"," ","N"," "," "," ","MS",805
+"NR","NC33B","374"," ","N"," "," "," ","MS",806
+"NR","NC34A","375"," ","N"," "," "," ","MS",807
+"NR","NC34B","376"," ","N"," "," "," ","MS",808
+"shed","NC35A","377","N","N"," "," ","Û≤´∫d","MS",809
+"outbuilding","NC35A","377","N","N","generic"," ","•´{π´}tb±{∞}Ïd±øn","MS",809
+"shedroom","NC35A","377","N","N","built on"," ","ÂÛ≤dırπºm","MS",809
+"ell","NC35A","377","N","N","built on kitchen"," ","≤´∫{∞}Ï","MS",809
+"woodshed","NC35B","378","N","N"," "," ","ÂwπdıÛ≤d","MS",810
+"NR","NC36N","N381"," ","N"," "," "," ","MS",811
+"NR","NC36A","381"," ","N"," "," "," ","MS",812
+"NR","NC36B","382"," ","N"," "," "," ","MS",813
+"NR","NC37A","383"," ","N"," "," "," ","MS",814
+"NR","NC37B","384"," ","N"," "," "," ","MS",815
+"NR","NC38N","N385"," ","N"," "," "," ","MS",816
+"NR","NC38A","385"," ","N"," "," "," ","MS",817
+"NR","NC38B","386"," ","N"," "," "," ","MS",818
+"NR","NC39A","389"," ","N"," "," "," ","MS",819
+"NR","NC39B!","390!"," ","N"," "," "," ","MS",820
+"shed","NC40A","391","N","N","open"," ","Û≤´∫{∞}d","MS",821
+"outhouse","NC40A","391","N","N","any one building"," ","Â·Ωπth·Ωπs","MS",821
+"ellroom","NC40A","391","N","N","on house"," ","≤∫{∞}ÏruΩº∫m","MS",821
+"NR","NC40B","392"," ","N"," "," "," ","MS",822
+"NR","NC41!","393!"," ","N"," "," "," ","MS",823
+"NR","NC42A","403"," ","N"," "," "," ","MS",824
+"NR","NC42B","404(*)"," ","N"," "," "," ","MS",825
+"NR","NC43A","397"," ","N"," "," "," ","MS",826
+"NR","NC43B","398"," ","N"," "," "," ","MS",827
+"NR","NC44","410(*)"," ","N"," "," "," ","MS",828
+"NR","NC45A","409(*)"," ","N"," "," "," ","MS",829
+"NR","NC45B","409X"," ","N"," "," "," ","MS",830
+"NR","NC46A","411"," ","N"," "," "," ","MS",831
+"NR","NC46B","412"," ","N"," "," "," ","MS",832
+"NR","NC46C!","412b!"," ","N"," "," "," ","MS",833
+"shed","NC47","413","N","N","built on bedroom over feedbarn"," ","Û≤∫{∞}d","MS",834
+"ell","NC47","413","N","N","built on in kitchen"," ","≤´∫{∞}Ï","MS",834
+"shedhouse","NC47","413","N","N","separate"," ","ÂÛ≤∫{∞}dıh·´∫πøs","MS",834
+"NR","NC48","418"," ","N"," "," "," ","MS",835
+"NR","NC49","421"," ","N"," "," "," ","MS",836
+"NR","NC50A","422"," ","N"," "," "," ","MS",837
+"NR","NC50B!","423!"," ","N"," "," "," ","MS",838
+"NR","NC51A","427"," ","N"," "," "," ","MS",839
+"NR","NC51B","428"," ","N"," "," "," ","MS",840
+"NR","NC52N","N429"," ","N"," "," "," ","MS",841
+"NR","NC52A","429"," ","N"," "," "," ","MS",842
+"NR","NC52B","430"," ","N"," "," "," ","MS",843
+"NR","NC53A","431"," ","N"," "," "," ","MS",844
+"NR","NC53B","432"," ","N"," "," "," ","MS",845
+"shed","NC54A","433","N","N","roofed open built on"," ","Û≤´∫{∞}d","MS",846
+"ell","NC54A","433","N","N","built on house"," ","≤´∫{∞}Ï","MS",846
+"NR","NC54B","434"," ","N"," "," "," ","MS",847
+"NR","NC55","435"," ","N"," "," "," ","MS",848
+"NR","NC56A","436"," ","N"," "," "," ","MS",849
+"NR","NC56B!","437!"," ","N"," "," "," ","MS",850
+"NR","NC57A","438a"," ","N"," "," "," ","MS",851
+"NR","NC57B","438b"," ","N"," "," "," ","MS",852
+"NR","NC58A","439"," ","N"," "," "," ","MS",853
+"NR","NC58B","440"," ","N"," "," "," ","MS",854
+"shelter","NC59","441(*)","N","N","roofed open"," ","Û≤{∞}Ït¥","MS",855
+"shed","NC59","441(*)","N","N","built on house one roof"," ","Û≤æ∫{∞}d","MS",855
+"ell","NC59","441(*)","N","N","cook addition two roofs"," ","≤∫{∞}Ï","MS",855
+"NR","NC60","442"," ","N"," "," "," ","MS",856
+"NR","NC61A","443"," ","N"," "," "," ","MS",857
+"NR","NC61B","444"," ","N"," "," "," ","MS",858
+"NR","NC62A","447"," ","N"," "," "," ","MS",859
+"NR","NC62B","448"," ","N"," "," "," ","MS",860
+"NR","NC63A","449"," ","N"," "," "," ","MS",861
+"NR","NC63B","450"," ","N"," "," "," ","MS",862
+"NR","NC64A","453"," ","N"," "," "," ","MS",863
+"NR","NC64B","454"," ","N"," "," "," ","MS",864
+"NR","NC65A","461"," ","N"," "," "," ","MS",865
+"house","NC65B","462","N","N","separate"," ","h·æπs","MS",866
+"shed","NC65B","462","N","N","shelter with no floor"," ","Û≤{∞}d","MS",866
+"shedroom","NC65B","462","N","N","built on room"," ","ÂÛ≤{∞}dıruΩº{uº}m","MS",866
+"shelter"," ","462"," "," "," "," ","ÂÛ≤{∞}Ït¥"," ",866
+"NR","NC66A","465"," ","N"," "," "," ","MS",867
+"NR","NC66B","466"," ","N"," "," "," ","MS",868
+"NR","NC67A","469"," ","N"," "," "," ","MS",869
+"outbuilding","NC67B","470","N","N","separate"," ","·πtb±{∞}Ïd±øΩn","MS",870
+"shed","NC67B","470","N","N","one room separate or built on"," ","Û≤´∫{∞}d","MS",870
+"ell","NC67B","470","N","N","onto house two roofs"," ","e´{∞}Ï","MS",870
+"NR","NC68A","473"," ","N"," "," "," ","MS",871
+"NR","NC68B","474"," ","N"," "," "," ","MS",872
+"NR","NC69A","477"," ","N"," "," "," ","MS",873
+"shed","NC69B","478"," ","N","built on open"," ","Û≤´∫{∞}d","MS",874
+"ell","NC69B","478"," ","N","built on angle"," ","∞´∫{∞}Ï","MS",874
+"NR","NC70A","479"," ","N"," "," "," ","MS",875
+"NR","NC70B","480"," ","N"," "," "," ","MS",876
+"NR","NC71A","481"," ","N"," "," "," ","MS",877
+"NR","NC71B","482"," ","N"," "," "," ","MS",878
+"NR","NC71C!","483!"," ","N"," "," "," ","MS",879
+"NR","NC72A","487"," ","N"," "," "," ","MS",880
+"NR","NC72B","488"," ","N"," "," "," ","MS",881
+"NR","NC73A","491"," ","N"," "," "," ","MS",882
+"house","NC73B","492","N","N"," "," ","h·Ω∫πøΩs","MS",883
+"shed","NC73B","492","N","N","open built on"," ","Û≤∫{∞}d","MS",883
+"ell","NC73B","492","N","N","built on at angle"," ","≤{∞}Ï","MS",883
+"NR","NC74A","493"," ","N"," "," "," ","MS",884
+"NR","NC74B","494"," ","N"," "," "," ","MS",885
+"NR","NC75A","495"," ","N"," "," "," ","MS",886
+"NR","NC75B","496"," ","N"," "," "," ","MS",887
+"NR","SC1A","203.1"," ","N"," "," "," ","MS",888
+"NR","SC1B","203.2"," ","N"," "," "," ","MS",889
+"NR","SC2A","204.1(*)"," ","N"," "," "," ","MS",890
+"NR","SC2B","204.2"," ","N"," "," "," ","MS",891
+"NR","SC2C","204.1X"," ","N"," "," "," ","MS",892
+"shed","SC3A","205.1","N","N","built on even if a room"," ","Û≤d","MS",893
+"ell","SC3A","205.1","N","N","at an angle"," ","≤∫{∞}Ï","MS",893
+"outbuilding","SC3A","205.1","N","N","separate"," ","a´πtb±{∞}Ïdn","MS",893
+"NR","SC3B","205.2"," ","N"," "," "," ","MS",894
+"shed","SC3C!","205.3!","N","N"," "," ","Û≤´∫{∞}d","MS",895
+"cottonhouse","SC4A","206.1","N","N"," "," ","Âkàaætnıha´æuºs","MS",896
+"sheds","SC4A","206.1","N","N"," "," ","Û≤´{∞}dz","MS",896
+"blacksmith shop","SC4B","206.2","N","N"," "," ","bl·ksm±ø˘$ÂÛ∂∫{∞}p","MS",897
+"shed","SC4C","206.3","N","N"," "," ","Û±Ω{∞}d","MS",898
+"NR","SC5A","207.1"," ","N"," "," "," ","MS",899
+"shed","SC5B","207.2","N","N"," "," ","Û´{∞´º}d","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"washshed","SC5D!","207.3!","N","N"," "," ","ÂwÒº{∞}ÛÛ≤´{∞}d","MS",902
+"toolhouse","SC5D!","207.3!","N","N"," "," ","Âtπø∫Ïıh·Ωæoºs","MS",902
+"house","SC6N","N208","N","N"," "," ","h∏´æπs","MS",903
+"shed","SC6N","N208","N","N"," "," ","Û≤´{∞}d","MS",903
+"toolhouse","SC6A","208.1","N","N","for tools"," ","Âtuº∫lha∫{π}s","MS",904
+"shed","SC6A","208.1","N","N","built on no floor"," ","Û≤d","MS",904
+"ell","SC6A","208.1","N","N","built on house, angle"," ","≤∫{∞}l","MS",904
+"el","SC6A","208.1","N","N","built on house angle"," ","≤∫{∞}l","MS",904
+"shed","SC6A","208.1","N","N","built on no floors"," ","Û≤d","MS",904
+"toolhouse","SC6B","208.2(*)","N","N"," "," ","Âtπø∫Ïıhaæuºs","MS",905
+"toolbarn","SC6B","208.2(*)","N","Y","old folks used to call","HRD","tπø∫lbµæ∞´æΩn","MS",905
+"NR","SC6C!","208.3!"," ","N"," "," "," ","MS",906
+"toolbarn","SC6D","208.2X"," ","N","""old folks used to call it""","CNV","Ât`uøÏıbµæ∫◊á","MS",907
+"toolhouse","SC6D","208.2X"," ","N"," "," ","Ât`uøÏıhaæoºs","MS",907
+"barn","SC7N","N209","N","N","tools","SIC","b·∫{∞}n","MS",908
+"littlebarn","SC7N","N209","N","N"," "," ","l±´têlb·∫{∞}n","MS",908
+"little barn","SC7N","N209","N","N"," "," ","ıl±´∫tÏÂb·∫{∞}n","MS",908
+"toolhouse","SC7A","209.1","N","N"," "," ","Âtπø∫wÏıh∏Ωºπs","MS",909
+"toolroom","SC7B","209.2","N","N","generally outside"," ","Âtπø∫wlırπº{∞}m","MS",910
+"woodhouse","SC7B","209.2","N","N"," "," ","Âwπº{∞}dıh•Ωºπs","MS",910
+"coldhouse","SC7B","209.2","N","N"," "," ","Âkoº∫lıh•Ωºπs","MS",910
+"woodhouse","SC7B","209.2","N","N"," "," ","Âwπº{∞}dıh•Ωºs","MS",910
+"coalhouse","SC7B","209.2","N","N"," "," ","Âk`oº∫{∞}Ïıh•ºπs","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"outhouse","SC7D!","209.4!","N","N"," "," ","Â∏´ºπºtıh∏´ºπs","MS",912
+"NR","SC8A","210.1"," ","N"," "," "," ","MS",913
+"NR","SC8B","210.2"," ","N"," "," "," ","MS",914
+"NR","SC8C","210.3"," ","N"," "," "," ","MS",915
+"shed","SC9A","211.1","N","N"," "," ","Û≤´∫{∞}d","MS",916
+"tools","SC9A","211.1","N","Y"," ","INA","tπø∫w{l}z","MS",916
+"tools","SC9A","211.1","N","N"," "," ","t`uø∫u{Ï}z","MS",916
+"NR","SC9B","211.2"," ","N"," "," "," ","MS",917
+"NR","SC9C!","211.3!"," ","N"," "," "," ","MS",918
+"outhouses","SC9D!","211.4!","N","N","small outbuildings, not necessarily one to one"," ","Â•ºπtıha´æ∞z±øºz","MS",919
+"NR","SC10A","212.1"," ","N"," "," "," ","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"storeshed","SC11N","N213","N","N"," "," ","sto∞ΩÛ≤d","MS",923
+"shed","SC11M!","2n213!","N","N"," "," ","Û≤∫∞{±ø}d","MS",924
+"outhouse","SC11A","213.1(*)","N","N"," "," ","Â•πth•πs","MS",925
+"shed","SC11A","213.1(*)","N","N","roof shelter to get something under cover"," ","Û≤d","MS",925
+"NR","SC11A","213.1(*)","N","N"," "," "," ","MS",925
+"shed","SC11A","213.1(*)","N","Y"," ","AUX","Û≤d","MS",925
+"storeroom","SC11B","213.11"," ","N","also ""luge"""," ","Âsto∫ıruº∫m","MS",926
+"luge","SC11B","213.11"," ","y"," ","INA","lπ∫˙","MS",926
+"garage","SC11B","213.11"," ","n"," "," ","gaÂra∫d˙","MS",926
+"NR","SC11C","213.2"," ","N"," "," "," ","MS",927
+"NR","SC11D","213.3"," ","N"," "," "," ","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"NR","SC11G!","213.7!"," ","N"," "," "," ","MS",931
+"NR","SC11H!","213.8!"," ","N"," "," "," ","MS",932
+"woodhouse","SC11I!","213.9!","N","N"," "," ","wπdh•{π}s","MS",933
+"toolhouse","SC11I!","213.9!","N","N"," "," ","tu∫lh•{π´}s","MS",933
+"shed","SC11I!","213.9!","N","Y","= a roof","SUG","Û≤d","MS",933
+"shed","SC11I!","213.9!","N","Y"," ","SUG","Û≤d","MS",933
+"toolhouse","SC11I!","213.9!","N","N"," "," ","tu∫lh•{π}s","MS",933
+"NR","SC11J!","213.10!"," ","N"," "," "," ","MS",934
+"blacksmith shop","SC12A","214.1","O","N"," "," ","Âbl·{∞}ksm±øÁı$Û∂{∞}p","MS",935
+"shed","SC12A","214.1","N","N"," "," ","Û≤´{∞}d","MS",935
+"shop"," ","214.1"," "," "," "," ","Û∂{∞}p"," ",935
+"shed","SC12A","214.1","O","N"," "," ","Û≤´{∞}d","MS",935
+"toolhouse","SC12B","214.2","N","N","sep."," ","tuΩlh•ºπs","MS",936
+"shed","SC12B","214.2","N","N","only roof; no sides; separate"," ","Û≤d","MS",936
+"outhouse","SC12B","214.2","N","N","separate"," ","Â•{π}tıh•ºπs","MS",936
+"outhouse","SC12B","214.2","N","N","sep."," ","Â•πth•ºπs","MS",936
+"shed","SC12B","214.2","N","N","sep; only a roof, no sides"," ","Û≤d","MS",936
+"NR","SC13","213.6"," ","N"," "," "," ","MS",937
+"woodhouse","SC14A","215.1","N","N"," "," ","wπdh•{π}s","MS",938
+"storehouse","SC14A","215.1","N","N"," "," ","sto{∞}h•{π}s","MS",938
+"shed","SC14A","215.1","N","N","built on"," ","Û≤{∞}d","MS",938
+"ell","SC14A","215.1","N","Y","added angle","SUG","≤{∞}l","MS",938
+"shed","SC14A","215.1","N","N","built on"," ","Û≤{∞}d","MS",938
+"storehouse","SC14A","215.1","N","N"," "," ","sto{∞}h•πs","MS",938
+"el","SC14A","215.1","N","Y","added angle","SUG","≤{∞}l","MS",938
+"NR","SC14B","215.2"," ","N"," "," "," ","MS",939
+"outhouses","SC15A","216.1"," ","N","general term for small outbuildings"," ","Âa´æotıha´æ∫uz±øºz","MS",940
+"NR","SC15B","216.2"," ","N"," "," "," ","MS",941
+"shed","SC15C","216.3","N","N","tools, gear, etc."," ","Û≤´{∞}d","MS",942
+"toolhouse","SC16N","N217","N","N"," "," ","Ât{h}πø∫Ïıh·Ωos","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"shed","SC16","217.1"," ","N"," "," ","ÛeΩ∫{∞}d","MS",944
+"sheds","SC16","217.1"," ","N"," "," ","Û≤∫{∞}dz","MS",944
+"machinery shed","SC16","217.1"," ","Y","machinery now, used to be wagon and buggy shed","NEW","m∞ÂÛinr±ø$ıÛ≤∫{∞}dz","MS",944
+"shed","SC16","217.1"," ","N"," "," ","Û≤{∞}d","MS",944
+"cotton sheds","SC16","217.1"," ","N"," "," ","Âkaæ{∑}tn$ıÛ≤∫{∞}dz","MS",944
+"sheds","SC16","217.1"," ","N"," "," ","Û≤∫{∞}dz","MS",944
+"buggy shed","SC16","217.1"," ","Y"," ","OLD","Âb∏{gr}±ø$ıÛ≤∫{∞}dz","MS",944
+"shop","SC17A","218.1","N","N","for tools"," ","Ûµü{∞}p","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"toolhouse","SC17C","218.3","N","N"," "," ","Ât`πø∫Ïıh∏ºπs","MS",947
+"outhouse","SC17D","218.4","N","Y"," ","DBT","Âµ´otıh∏ºos","MS",948
+"NR","SC18N","N219"," ","N"," "," "," ","MS",949
+"NR","SC18A","219.1"," ","N"," "," "," ","MS",950
+"NR","SC18B","219.2"," ","N"," "," "," ","MS",951
+"NR","SC18C!","219.3(*)!"," ","N"," "," "," ","MS",952
+"NR","SC18D!","219.3X"," ","N"," "," "," ","MS",953
+"offbuilding","SC19N","N220","N","N","separate"," ","Â∂´∫fb±{∞}Ïd∞Ωn","MS",954
+"shed","SC19N","N220","N","N","built on"," ","Û≤Ω∫d","MS",954
+"shed","SC19N","N220","N","Y","separate, open; built on","SUG","Û≤Ω∫d","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"woodhouse","SC19B","220.4"," ","N"," "," ","Âwπü∫{∞}dıh∞πs","MS",956
+"storehouse","SC19B","220.4"," ","N"," "," ","sto∫∞h∞πs","MS",956
+"toolhouse","SC19B","220.4"," ","N"," "," ","Âtuº∫Ïıh∞πs","MS",956
+"pumphouse","SC19B","220.4"," ","N"," "," ","Âp∏ºmpıh∞πs","MS",956
+"toolhouse","SC19B","220.4"," ","N"," "," ","Ât`uºlıh∞πs","MS",956
+"pumphouse","SC19B","220.4"," ","N"," "," ","Âp`∏ºmpıh∞πs","MS",956
+"NR","SC19C","220.2(*)"," ","N"," "," "," ","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NR","SC19E!","220.2X"," ","N"," "," "," ","MS",959
+"NR","SC20A","221.1"," ","N"," "," "," ","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"NR","SC20C","221.3"," ","N"," "," "," ","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"NR","SC21A","222.1"," ","N"," "," "," ","MS",964
+"NR","SC21B","222.2"," ","N"," "," "," ","MS",965
+"outhouse","SC22N","N223","N","N","separate"," ","Âa{π}t$ıha{π}s","MS",966
+"shed","SC22N","N223","N","N"," "," ","Û≤∫d","MS",966
+"shed","SC22N","N223","N","N","open; searate or built on"," ","Ûe∫d","MS",966
+"shed","SC22N","N223","N","N"," "," ","Û≤∫d","MS",966
+"shed","SC22N","N223","N","N","natural;open; separate or built on"," ","Ûe∫d","MS",966
+"shop","SC22A","223.1","N","N","for tools"," ","Ûµº{∞}p","MS",967
+"woodhouse","SC22B","223.2","N","N","separate"," ","wπ´ºdh·Ωæπºs","MS",968
+"woodshed","SC22B","223.2","N","N","enclosed separate"," ","wπ´ºdÛ≤{∞}d","MS",968
+"shedroom","SC22B","223.2","N","N","built on house"," ","ÂÛ≤´∫dırπ´m","MS",968
+"woodshed","SC22B","223.2","N","N","not enclosed; separate"," ","wπ´ºdÛ≤{∞}d","MS",968
+"shed room","SC22B","223.2","N","N","built on room"," ","ÂÛ≤´∫d$ru´m","MS",968
+"el","SC22B","223.2","N","N","built on at angle"," ","≤´{∞}l","MS",968
+"toolhouse","SC22C!","223.3!","N","N"," "," ","Ât`πø∫Ïıh·æπΩs","MS",969
+"woodshelter","SC23A","224.1","N","N","clothes"," ","Âwoæ{∞}ÛıÛ˙Ω{∞}lt∞´æ","MS",970
+"outhouse","SC23A","224.1","N","N","general"," ","Âa´æotıhaæoºs","MS",970
+"outhouse","SC23A","224.1","N","Y","for washing clothes","CNV","Âa´æoºtıhaæoºs","MS",970
+"NR","SC23B","224.2"," ","N"," "," "," ","MS",971
+"NR","SC23C","224.3"," ","N"," "," "," ","MS",972
+"toolroom","SC23D","224.4","N","N"," "," ","Ât`πø∫uÏırπø∫um","MS",973
+"toolshed","SC23D","224.4","N","N"," "," "," ","MS",973
+"toolroom","SC23D","224.4","N","N"," "," ","Ât`uøuÏıÚuøwm","MS",973
+"toolshed","SC23D","224.4","N","N"," "," ","Ât`πø∫uÏıÛ≤´∫{∞}d","MS",973
+"shed","SC23E!","224.5!","N","N"," "," ","Û≤´{∞}d","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"barn","SC24A","225.1","N","N"," "," ","bﬁ∫{∞}n","MS",976
+"toolhouse","SC24A","225.1","N","N"," "," ","ÂtuÏıh·πs","MS",976
+"barn","SC24A","225.1","N","N"," "," ","bﬁ∫{∞}n","MS",976
+"toolhouse","SC24A","225.1","N","N"," "," ","Ât`uº∫lıha´πs","MS",976
+"storage places","SC24A","225.1","N","N"," "," ","Âstoºr±ød˙$ıple∫s±øz","MS",976
+"toolhouse","SC24A","225.1","N","N"," "," ","Ât`uΩ∫lıha´πs","MS",976
+"NR","SC24B","225.11"," ","N"," "," "," ","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"NR","SC24D!","225.3!"," ","N"," "," "," ","MS",979
+"storehouse","SC25A","226.1","N","N","separate"," ","sto´ha∫{π}s","MS",980
+"storehouse","SC25A","226.1","N","N","separate"," "," ","MS",980
+"shedroom","SC25A","226.1","N","N","built on house"," "," ","MS",980
+"lean-to","SC25A","226.1","N","N","built on house; often open"," "," ","MS",980
+"lean-to","SC25A","226.1","N","N","built on house"," "," ","MS",980
+"lean-to","SC25A","226.1","N","N","built on house or barn; often open"," ","Âli∫nd∞","MS",980
+"storehouse","SC25A","226.1","N","N","separate"," ","sto´ıha∫{π}s","MS",980
+"lean-to","SC25A","226.1","N","N","built on house or barn; often open"," ","Âl±Ω{∞}ntê∞","MS",980
+"shedroom","SC25A","226.1","N","N","built on room of house"," ","ÂÛ≤drπm","MS",980
+"woodshed","SC25A","226.1","N","N","separate"," ","ÂwπdÛ≤d","MS",980
+"shedroom","SC25A","226.1","N","N","built on room of house"," ","ÂÛ≤drum","MS",980
+"lean-to","SC25A","226.1","N","N","built on house or barn"," ","Âli∫nd∞","MS",980
+"lean-to","SC25A","226.1","N","N","often open"," ","Âl±Ω{∞}ntê∞","MS",980
+"toolshed","SC25B","226.2","N","N"," "," ","Ât`πø∫{∞}ÏıÛ≤´{±ø}d","MS",981
+"NR","SC25C!","226.3!"," ","N"," "," "," ","MS",982
+"toolshed","SC26A","227.1","N","N","against chicken house"," ","Âtπø∫lıÛ≤´{∞}d","MS",983
+"toolshed","SC26B!","227.2!","N","N","larger tools, plows, etc..."," ","Âtπø∫lıÛ≤´{∞}d","MS",984
+"shed","SC26B!","227.2!","N","N","larger tools-plows etc...","CNV"," ","MS",984
+"shed","SC26B!","227.2!","N","N"," ","CNV","Û±Ω{≤}d","MS",984
+"shed","SC26B!","227.2!","N","Y","larger tools, plows, etc...","CNV","Û±Ω{∞}d","MS",984
+"toolshed","SC27A","228.1","N","Y"," ","CNV","Ât`πø∫lıÛ≤∫d","MS",985
+"shed","SC27B","228.2","N","N","garden tools"," ","Û≤´æ{∞}d","MS",986
+"NR","SC28A","229.1"," ","N"," "," "," ","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"NR","SC28C","229.2"," ","N"," "," "," ","MS",989
+"smokehouse","SC28D","229.3","N","N"," "," ","smo´{∞}kh·æoºs","MS",990
+"NR","SC29A","230.2(*)"," ","N"," "," "," ","MS",991
+"NR","SC29B","230.1(*)"," ","N"," "," "," ","MS",992
+"NR","SC29C","230.3"," ","N"," "," "," ","MS",993
+"NR","SC29D","230.2X"," ","N"," "," "," ","MS",994
+"houses","SC29E","230.1X"," ","N"," "," ","h·æoºz±øºz","MS",995
+"gear rooms","SC29E","230.1X"," ","N"," "," ","Âg≤´∫∞$ıruø∫{∞}mz","MS",995
+"??????","SC29E","230.1X"," ","N","[˙] or [‰] ???"," ","Â˙{≤}´∫{∞}ırπø∫{∞}mz","MS",995
+"house","SC30A","231.1","N","N","separate"," ","h·Ω∫πøΩs","MS",996
+"shed","SC30A","231.1","N","N","built on"," "," ","MS",996
+"shelter","SC30A","231.1","N","N","built on, open"," "," ","MS",996
+"ell","SC30A","231.1","N","N","built on; room at back"," "," ","MS",996
+"shelter","SC30A","231.1","N","N","built on open"," ","Û∞Ïtê∞","MS",996
+"shed","SC30A","231.1","N","N","built on"," ","Û≤´∫{∞}d","MS",996
+"ell","SC30A","231.1","N","N","built on room off back"," ","Â≤{∞}Ï","MS",996
+"ell","SC30A","231.1","N","N","built on room off back"," ","Â≤{∞}Ï","MS",996
+"shelter","SC30A","231.1","N","N","built on; open"," ","Û≤Ïtê∞","MS",996
+"shed","SC30A","231.1","N","N","built on"," ","Û≤´∫{∞}d","MS",996
+"NR","SC30B","231.2"," ","N"," "," "," ","MS",997
+"NR","SC30C!","231.3!"," ","N"," "," "," ","MS",998
+"NR","SC31A","232.1"," ","N"," "," "," ","MS",999
+"NR","SC31B","232.2"," ","N"," "," "," ","MS",1000
+"NR","SC32A","233.1"," ","N"," "," "," ","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"NR","SC32C","233.3"," ","N"," "," "," ","MS",1003
+"toolhouse","SC32D","233.4","N","N"," "," ","Ât`uøº∫Ïıha´æoºs","MS",1004
+"woodhouse","SC33A","234.1","N","N","separate"," ","wπ{∞}dh·∫πøΩs","MS",1005
+"shelter","SC33A","234.1","N","N","built on open for wagon"," "," ","MS",1005
+"shed","SC33A","234.1","N","N","= shelter; rare"," "," ","MS",1005
+"shed","SC33A","234.1","N","N","= shelter; rare"," ","Û≤∫{∞}d","MS",1005
+"shelter","SC33A","234.1","N","N","built on; open for wagon"," ","Û≤{∞}Ïtê∞","MS",1005
+"shelter","SC33A","234.1","N","N","built on open for wagon"," ","Û≤{¥}Ïtê∞","MS",1005
+"shed","SC33A","234.1","N","Y","= shelter; rare","OLD","Û≤∫{¥}d","MS",1005
+"outhouse","SC33B","234.2","N","N"," "," ","Â·æoºtıha´æs","MS",1006
+"toolhouse","SC33B","234.2","N","N"," "," ","ÂtuÏıh·πs","MS",1006
+"wagonshed","SC33B","234.2","N","N"," "," "," ","MS",1006
+"wagon shed","SC33B","234.2","N","N"," "," ","Âw·Ω{≤}g∞ΩnıÛ≤º∫∞d","MS",1006
+"toolhouse","SC33B","234.2","N","N"," "," ","'t`uø∫wÏıh·æπºs","MS",1006
+"toolhouse","SC33B","234.2","N","N"," "," ","Ât`uø∫uÏıh·æπºs","MS",1006
+"wagonshed","SC33B","234.2","N","Y"," ","HRD","w·Ω{≤}g∞ΩnıÛ≤º∫{∞}d","MS",1006
+"NR","SC34A","235.1"," ","N"," "," "," ","MS",1007
+"outhouse","SC34B","235.2","N","N","storage"," ","Â·´oºtıh·Ωπºs","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"carshed","SC35A","236.1"," ","N"," "," ","Âk`¶º∫rıÛ≤´∫{∞}d","MS",1010
+"NR","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"woodshed","SC35C","236.3(*)","N","N","[{∞}]: doubtful","DDT","ÂwπdıÛ≤∫{∞}d","MS",1012
+"toolhouse","SC35C","236.3(*)","N","N"," "," ","ÂtuÏıh·πs","MS",1012
+"toolhouse","SC35C","236.3(*)","N","N"," "," ","ÂtuølÂha´πs","MS",1012
+"toolhouse","SC35C","236.3(*)","N","N","[{∞}]: doubtful","DDT","Ât`πø∫lıha´πs","MS",1012
+"NR","SC35D","236.2X"," ","N"," "," "," ","MS",1013
+"NR","SC35E!","236.3X"," ","N"," "," "," ","MS",1014
+"blocks","SC36A","237.1"," ","Y"," ","INA/CNV","b≈∂ks","MS",1015
+"NR","SC36B","237.2"," ","N"," "," "," ","MS",1016
+"NR","SC36C","237.3"," ","N"," "," "," ","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"shed","SC37","238","N","N"," "," ","Û≤{±ø}d","MS",1019
+"NR","SC38N","N239"," ","N"," "," "," ","MS",1020
+"NR","SC38A","239.1","N","N"," "," "," ","MS",1021
+"NR","SC38B","239.2"," ","N"," "," "," ","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"NR","SC38D!","239.4(*)!"," ","N"," "," "," ","MS",1024
+"NR","SC38E!","239.4X"," ","N"," "," "," ","MS",1025
+"NR","SC39A","240.1"," ","N"," "," "," ","MS",1026
+"NR","SC39B!","240.2!"," ","N"," "," "," ","MS",1027
+"NR","SC40A","241.1"," ","N"," "," "," ","MS",1028
+"NR","SC40B","241.2"," ","N"," "," "," ","MS",1029
+"woodhouse","SC41A","242.1","N","N","separate"," ","Âwπø∫{∞}dh·∫πøΩs","MS",1030
+"woodshed","SC41A","242.1","N","N","built on"," ","ÂwπdıÛ≤d","MS",1030
+"ell","SC41A","242.1","N","N","added room"," "," ","MS",1030
+"woodshed","SC41A","242.1","N","N","built on"," ","Âwπø∫{∞}dÛ≤´∫{∞}d","MS",1030
+"ell","SC41A","242.1","N","N","added room"," ","≤´∫Ï","MS",1030
+"woodshed","SC41A","242.1","N","N","built on"," ","Âwπø∫{∞}dÛ≤´∫{∞}d","MS",1030
+"ell","SC41A","242.1","N","N","added room"," ","≤´∫{∞}Ï","MS",1030
+"NR","SC41B","242.2"," ","N"," "," "," ","MS",1031
+"NR","SC42N","N243"," ","N"," "," "," ","MS",1032
+"NR","SC42M","N243X"," ","N"," "," "," ","MS",1033
+"NR","SC42A","243.1"," ","N"," "," "," ","MS",1034
+"NR","SC42B!","243.2!"," ","N"," "," "," ","MS",1035
+"NR","SC42C!","243.3!"," ","N"," "," "," ","MS",1036
+"woodshed","SC42D!","243.4!","N","Y"," ","SUG","wπºdèıÛ≤´{∞}dz","MS",1037
+"]ean-to","SC42D!","243.4!","N","Y"," ","SUG/HRD"," ","MS",1037
+"leanto","SC42D!","243.4!","N","Y"," ","SUG/HRD","l±øºintπºuº","MS",1037
+"lean-to","SC42D!","243.4!","N","Y"," ","SUG/HRD","l±øºintπºuº","MS",1037
+"woodshed","SC42E!","243.5!","N","N"," "," ","ÂwπºdıÛ≤∫{∞}{d}","MS",1038
+"coalshed","SC42E!","243.5!","N","N"," "," "," ","MS",1038
+"toolshed","SC42E!","243.5!","N","N"," "," "," ","MS",1038
+"toolshed","SC42E!","243.5!","N","N"," "," ","Ât`ıÛ≤∫{∞}{d}","MS",1038
+"coalshed","SC42E!","243.5!","N","N"," "," ","Âko∫{π}ÏÛ≤∫{∞}{d}","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"NR","SC43B","244.2"," ","N"," "," "," ","MS",1040
+"NR","SC43C","244.3"," ","N"," "," "," ","MS",1041
+"NR","SC44A","245.1"," ","N"," "," "," ","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"toolhouse","GA1N","N246","N","N"," "," ","Ât`πºlıh•πs","MS",1044
+"outhouse","GA1N","N246","N","N","for junk"," ","•´πtıh•´πs","MS",1044
+"cornhouse","GA1N","N246","N","N"," "," ","Âk∑§n•´πs","MS",1044
+"cornhouse","GA1N","N246","N","N"," "," ","Âk∑§n{h}•´πs","MS",1044
+"shed room","GA1A","246.1(*)","N","N","built on to house","AUX","ÂÛ≤d$ruº∫m","MS",1045
+"NR","GA1A","246.1(*)","N","N"," "," "," ","MS",1045
+"outhouse","GA1A","246.1(*)","N","N"," ","AUX","Â∂Ωπth•Ωπs","MS",1045
+"ell kitchen","GA1A","246.1(*)","N","N","kitchen built on at an L","AUX","ı≤{∞}l$Âk±tÛ≥Ωn","MS",1045
+"outhouse","GA1B","246.11","N","N"," "," ","Â∂πtıh∂´πs","MS",1046
+"shack","GA1B","246.11","N","Y","[·´]: doubtful; comment illegible","DDT","Û·´k","MS",1046
+"shed","GA1B","246.11","N","Y","[≤]: doubtful; comment illegible","DDT","Û≤d","MS",1046
+"garage","GA1B","246.11"," ","N"," "," ","g∞Ârﬁºd˙","MS",1046
+"leanto","GA1B","246.11","N","Y"," ","SUG/HRD","Âli∫ntuø","MS",1046
+"NR","GA1C","246.2"," ","N"," "," "," ","MS",1047
+"NR","GA1D","246.3"," ","N"," "," "," ","MS",1048
+"NR","GA1E","246.4"," ","N"," "," "," ","MS",1049
+"woodhouse","GA1F!","246.5!","N","N","separate or built on"," ","Âwπdh•æπs","MS",1050
+"outbuilding","GA1F!","246.5!","N","N","separate"," ","•æπtb±{∞}Ïd±øÓ","MS",1050
+"outhouse","GA1F!","246.5!","N","N","separate"," ","•æπth•æπs","MS",1050
+"shed","GA1F!","246.5!","N","N","open; separate"," ","Û≤∫d","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"NR","GA1H!","246.7!"," ","N"," "," "," ","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"NR","GA2A","247.1"," ","N"," "," "," ","MS",1054
+"NR","GA2B","247.2"," ","N"," "," "," ","MS",1055
+"woodhouse","GA3A","248.1","N","N"," "," ","Âwπdıh•æπs","MS",1056
+"toolhouse","GA3A","248.1","N","N"," "," ","tu:lh•æπs","MS",1056
+"shelter","GA3A","248.1","N","N","separate; open"," ","Û≤{∞}ltê∞Ω","MS",1056
+"shed","GA3A","248.1","N","N","built on; open"," ","Û≤d","MS",1056
+"ell","GA3A","248.1","N","N","at an angle enclosed"," ","≤{∞}l","MS",1056
+"NR","GA3B","248.2"," ","N"," "," "," ","MS",1057
+"ell","GA4N","N249","N","N","at an angle"," ","≤∫{∞}l","MS",1058
+"shedroom","GA4N","N249","N","N","built on room"," ","ÂÛ≤drπ∫m","MS",1058
+"smokehouse","GA4N","N249","N","N","sep, depending on what used for"," ","Âsmo´∫kh•Ωπs","MS",1058
+"NR","GA4A","249.1"," ","N"," "," "," ","MS",1059
+"NR","GA4B","249.2"," ","N"," "," "," ","MS",1060
+"NR","GA4C!","249.3!"," ","N"," "," "," ","MS",1061
+"NR","GA5A","250.1"," ","N"," "," "," ","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"NR","GA5C","250.3"," ","N"," "," "," ","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"outhouse","GA5E!","250.5!","N","Y","""in garden""","CNV","•ot`ıh•∫os","MS",1066
+"in garden","GA5E!","250.5!","N","Y"," ","INA","in$gàµæ{∞}dn","MS",1066
+"toolhouse","GA5E!","250.5!","N","N"," "," ","Âtuøº∫lçıh•Ωos","MS",1066
+"NR","GA6A","251.1"," ","N"," "," "," ","MS",1067
+"NR","GA6B!","251.2!"," ","N"," "," "," ","MS",1068
+"outhouse","GA7","256","N","N"," "," ","ı·oΩtÂh·{π}oºs","MS",1069
+"NR","GA8A","257.1"," ","N"," "," "," ","MS",1070
+"garage","GA8B","257.2","N","N"," "," ","g¥Âoµæ∫{∞}d˙","MS",1071
+"tool shed","GA8B","257.2","O","N"," "," ","Âtuøæ∫l$ıÛ≤´d","MS",1071
+"NR","GA9A","257A.1"," ","N"," "," "," ","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"woodhouse","GA10A","258.1","N","N"," "," ","Âwπdh·∫π€s","MS",1074
+"shed","GA10A","258.1","N","Y","built on to some?????","DDT","Û≤d","MS",1074
+"ell","GA10A","258.1","N","Y","a wing at an angle","SUG","≤{∞}l","MS",1074
+"NR","GA10B","258.2"," ","N"," "," "," ","MS",1075
+"outhouse","GA11N","N258A","N","N"," "," ","Â∞∫oth∞´us","MS",1076
+"smokehouse","GA11N","N258A","N","N"," "," ","Âsmπ{π}kh∞´us","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"NR","GA12B!","259.2(.3)"," ","N"," "," "," ","MS",1078
+"toolroom","GA13A","260.1","N","N","separate"," ","Âtu∫lr{π}o›m","MS",1079
+"shed","GA13A","260.1","N","N","built on"," ","Û≤∫d","MS",1079
+"ell","GA13A","260.1","N","N","at angle to house"," ","≤∫{∞}Ï","MS",1079
+"outhouses","GA13B!","260.2!","O","N"," "," ","Â•Ωπ∫Ïıha´æ∫oz±øºz","MS",1080
+"toolhouse","GA13B!","260.2!","N","N"," "," ","Âtu∫lıh•ºos","MS",1080
+"toolroom","GA13B!","260.2!","N","N"," "," ","Âtu∫lruºm","MS",1080
+"yearroom","GA13B!","260.2!","N","N"," "," ","Øø≤´∫rıruº∫m","MS",1080
+"NR","GA14A","261.1"," ","N"," "," "," ","MS",1081
+"NR","GA14B","261.3"," ","N"," "," "," ","MS",1082
+"NR","GA14C","261.2"," ","N"," "," "," ","MS",1083
+"house","GA15A","262.1","N","N"," "," ","hΩ·∫πøΩs","MS",1084
+"shed","GA15A","262.1","N","N","built on boarded on"," ","Û≤{∞}d","MS",1084
+"shelter","GA15A","262.1","N","N","in walls"," ","Û≤Ït€∞","MS",1084
+"ell","GA15A","262.1","N","N","built on house"," ","≤∫{∞}Ï","MS",1084
+"NR","GA15B","262.2"," ","N"," "," "," ","MS",1085
+"NR","GA16A","263.2"," ","N"," "," "," ","MS",1086
+"NR","GA16B","263.1"," ","N"," "," "," ","MS",1087
+"NR","GA16C","263.21"," ","N"," "," "," ","MS",1088
+"NR","GA16D!","263.3!"," ","N"," "," "," ","MS",1089
+"toolhouse","GA17N","N264","N","N"," "," ","Âtuø{uø´}lıha´πs","MS",1090
+"toolhouse","GA17N","N264","N","N"," "," ","tuø{©}lha´æπ´s","MS",1090
+"outhouse","GA17","264","N","N"," "," ","a∫{π›}tha˛∫{π›˛}s","MS",1091
+"toolhouse","GA17","264","N","N"," "," ","tuølha˛∫{π˛}s","MS",1091
+"woodhouse","GA18A","264A.1","N","N"," "," ","Âwπ∫dh·∫πºs","MS",1092
+"outhouse","GA18A","264A.1","N","N"," ","CNV","Âa´πtıh·∫πs","MS",1092
+"the ell","GA18B","264A.2","O","N"," "," ","‰±ø$Â≤∫{∞}Ï","MS",1093
+"utility house","GA18B","264A.2","O","N"," "," ","jπø{πø´}t±lç±tê±$ıha´us","MS",1093
+"woodhouse","GA18B","264A.2","N","N"," "," ","ıwπ∫dÂh·πs","MS",1093
+"washhouse","GA18B","264A.2","N","N"," "," ","wﬁÛh·πz","MS",1093
+"syruphouse","GA18B","264A.2","N","N"," "," ","s≥r{∞´}ph·πz","MS",1093
+"smokehouse","GA18B","264A.2","N","N"," "," ","smo{§}kh·πz","MS",1093
+"NR","GA19A","265.1"," ","N"," "," "," ","MS",1094
+"toolhouse","GA19B","265.2","N","N"," "," ","Ât`uø∫Ïıh·∞ós","MS",1095
+"NR","GA20A","266.1"," ","N"," "," "," ","MS",1096
+"toolhouses","GA20B","266.2","N","N"," "," ","Âtuø∫lıha´æ∫∞óz±óz","MS",1097
+"toolsheds","GA20B","266.2","N","N"," "," ","Âtuø∫lÛ≤´{∞}dz","MS",1097
+"NR","GA21A","267.1"," ","N"," "," "," ","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"storage house","GA22A","268A.1","N","N"," "," ","sto{π}r±ø{∞}d˙$ha´ºπs","MS",1100
+"outhouse","GA22A","268A.1","N","N"," "," ","a´∫πtha´ºπs","MS",1100
+"outhouse","GA22A","268A.1","N","N"," "," ","Âa´utıha´πs","MS",1100
+"storage house","GA22A","268A.1","N","N"," "," ","Âstoº{π}r±ød˙$ıha´πs","MS",1100
+"shop","GA22B","268A.2","N","N","for tools"," ","ÂÛµæ{∞}p","MS",1101
+"shedroom","GA23A","268.1","N","Y","""country""","HRD","ÂÛ≤º{∞}dırπ∫{∞}m","MS",1102
+"toolhouse","GA23A","268.1","N","N"," "," ","Âtuøæ∫lıaæ∞ós","MS",1102
+"toolroom","GA23A","268.1","N","N"," "," ","Âtuøæ∫lrπºm","MS",1102
+"coalhouse","GA23B","268.11","N","N"," "," ","Âk`oπÏıh∞∫Ωπ{s}","MS",1103
+"garage","GA23B","268.11","N","N"," "," ","g±Ârﬁ∫{∞}d˙","MS",1103
+"toolhouse","GA23C","268.2","N","N"," "," ","Âtuø∫Ïha´æπs","MS",1104
+"woodhouse","GA23C","268.2","N","N"," "," ","Âwπdıha´æπs","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"NR","GA23E!","268.4!"," ","N"," "," "," ","MS",1106
+"shacks","GA23F!","268.5!","N","N"," "," ","Û·{∞}ks","MS",1107
+"toolshed","GA23F!","268.5!","N","N"," "," ","Ât`uø∫lıÛ≤´∫{∞}d","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"ell","GA24A","269.1","N","N","built on to house"," ","≤º{∞}Ï","MS",1109
+"house","GA24A","269.1","N","N","separate building"," ","h·∫πøΩs","MS",1109
+"shed","GA24A","269.1","N","N","open built on"," ","Û≤{∞}d","MS",1109
+"NR","GA24B","269.2"," ","N"," "," "," ","MS",1110
+"shedhouse","GA25N","N269A","N","N"," "," ","ÂÛ≤{∞}dıh•´ºπs","MS",1111
+"toolhouse","GA25N","N269A","N","N"," "," ","Ât`uølıha´æπs","MS",1111
+"woodhouse","GA25N","N269A","N","N"," "," ","Âwπºdıha∫π{s}","MS",1111
+"NR","GA26","270A"," ","N"," "," "," ","MS",1112
+"shed","GA27!","270!","N","N"," "," ","Û≤´d","MS",1113
+"toolhouse","GA27!","270!","N","N"," "," ","t`uø∫lhaπ›s","MS",1113
+"woodhouse","GA27!","270!","N","N"," "," ","wπø{∞}dha∫π›s","MS",1113
+"woodhouse","GA28","271a","N","Y"," "," ","Âwπºdha´πs","MS",1114
+"outhouse","GA28","271a","N","Y"," "," ","Âa´πtha´πs","MS",1114
+"toolhouse","GA28","271a","N","Y"," "," ","Ât`uø{uø´}Ïıha´πs","MS",1114
+"NR","GA29A","271.1"," ","N"," "," "," ","MS",1115
+"NR","GA29B","271.2"," ","N"," "," "," ","MS",1116
+"gearhouse","GA30A","272.1(*)"," ","N","for tools, ect... (war well)"," "," øái∫∞ıhaæoºs","MS",1117
+"grocery","GA30B","272.2(*)","N","N","stored wine"," ","gráo∫πs¥±ø´º","MS",1118
+"toolhouse","GA30B","272.2(*)","N","N","outbuilding"," ","Ât`uø∫uÏıha´æπºs","MS",1118
+"NR","GA30C!","272.3!"," ","N"," "," "," ","MS",1119
+"toolhouse","GA30D","272.1X"," ","N"," "," ","Ât`uøæ∫uÏıhaæoºs","MS",1120
+"NR","GA30E","272.2X"," ","N"," "," "," ","MS",1121
+"woodhouse","GA31","272A","N","N"," "," ","Âwπºdıha∏πs","MS",1122
+"shed","GA31","272A","N","N"," "," ","Û≤{∞}d","MS",1122
+"woodhouse","GA31","272A","N","N"," "," ","Âwπdıh•πs","MS",1122
+"NR","GA32","272B"," ","N"," "," "," ","MS",1123
+"garage","GA33A","272C1","N","N"," "," ","g∞rﬁ∫{∞}d˙","MS",1124
+"toolhouse","GA33A","272C1","N","N"," "," ","`tuøÏıh·Ωπs","MS",1124
+"barn","GA33A","272C1","N","N"," "," ","bµæ¥n","MS",1124
+"woodsheds","GA33B","272C2","N","N"," "," ","Âwπ∫dıÛ≤∫{∞}dz","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"shelter","GA34A","273.1","N","N","built on open"," ","Û≤{∞}Ït∞","MS",1127
+"woodhouse","GA34A","273.1","N","N","separate"," ","Âwπøædh·Ω∫πøs","MS",1127
+"shed","GA34A","273.1","N","N","built on room"," ","Û≤∫{∞}d","MS",1127
+"NR","GA34B","273.2"," ","N"," "," "," ","MS",1128
+"woodhouse","GA35N","N273A","N","N"," "," ","Âwπºdha´æos","MS",1129
+"toolhouse","GA35N","N273A","N","N"," "," ","Âtuø∫lha´æos","MS",1129
+"shelter","GA35N","N273A","N","N"," "," ","Û≤{∞}Ït¥","MS",1129
+"storingroom","GA36N","N274A","N","N","tool house, etc..."," ","Âst∑{π´}±øÓıru∫uºm","MS",1130
+"shed","GA36N","N274A","N","N","built on"," ","Û≤∫{∞}d","MS",1130
+"storageplace","GA36N","N274A","N","N","tool house,etc..."," ","Âst∑±d˙ıple±s","MS",1130
+"toolhouse","GA36N","N274A","N","N","separate"," ","Ât`uø∫lıha´πs","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"NR","GA37M!","NC274"," ","N"," "," "," ","MS",1132
+"carpenter","GA37A","274.1","N","Y"," ","CNV/INA","Âk`ﬁé∫¥p{∑}nt∑´","MS",1133
+"NR","GA37B","274.2"," ","N"," "," "," ","MS",1134
+"NR","GA37C","274.21"," ","N"," "," "," ","MS",1135
+"shed","GA37D!","274.7!","N","N"," "," ","Û≤∫{∞}d","MS",1136
+"NR","GA37E!","274.8!"," ","N"," "," "," ","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"NR","GA37G!","274.4!"," ","N"," "," "," ","MS",1139
+"NR","GA37H!","274.5!"," ","N"," "," "," ","MS",1140
+"NR","GA37I!","274.6!"," ","N"," "," "," ","MS",1141
+"toolshed","GA38","275","N","N"," "," ","Ât`uø{uø´}lıÛ≤∫d","MS",1142
+"toolshed","GA38","275","N","N"," "," ","Ât`uøºuølıÛ≤∫d","MS",1142
+"woodshed","GA39","275A","N","N"," "," ","Âwπ{∞}dıÛ≤∫{∞}d","MS",1143
+"NR","GA40","276A"," ","N"," "," "," ","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"NR","GA42A","276.1"," ","N"," "," "," ","MS",1146
+"NR","GA42B","276.2"," ","N"," "," "," ","MS",1147
+"shed","GA43","277","N","N","open, built on"," ","Û≤∫d","MS",1148
+"outbuilding","GA43","277","N","N","separate"," ","Â·πøtb±{∞}Ïd±øΩn","MS",1148
+"ell","GA43","277","N","N","built on house"," ","≤{∞}Ï","MS",1148
+"NR","GA44A","278.1"," ","N"," "," "," ","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"NR","GA44C","278.3"," ","N"," "," "," ","MS",1151
+"woodhouse","GA44D","278.4","N","N"," "," ","Âwπ´dıh·Ωos","MS",1152
+"lean-to","GA44E","278.5","N","N"," "," ","Âli{iº}nıt`uø{uø´}","MS",1153
+"shed","GA44E","278.5","N","N"," "," ","Û≤∫{∞}d","MS",1153
+"NR","FL1","252"," ","N"," "," "," ","MS",1154
+"NR","FL2A","253.1"," ","N"," "," "," ","MS",1155
+"NR","FL2B","253.2"," ","N"," "," "," ","MS",1156
+"NR","FL2C!","253.3!"," ","N"," "," "," ","MS",1157
+"NR","FL3A","254.1"," ","N"," "," "," ","MS",1158
+"garage","FL3B!","254.2!"," ","N"," "," ","q∑Âro∫{∞}d˙","MS",1159
+"NR","FL4","254A"," ","N"," "," "," ","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"NR","FL5B","255.2"," ","N"," "," "," ","MS",1162
+"woodhouse"," ","547"," "," "," "," ","wπΩdh·πs"," ", 
+"woodshed"," ","556b"," "," "," "," "," "," ", 
+"woodhouse"," ","342"," "," "," "," ","wπºdh·∫πøs"," ", 
+"tool shed"," ","167"," "," "," "," "," "," ", 
+"toolhouse"," ","342"," "," "," "," "," "," ", 
+"shelter"," ","462"," "," "," "," "," "," ", 
+"ell"," ","223.2"," "," "," "," "," "," ", 
+"toolhouse"," ","311"," "," "," "," "," "," ", 
+"","","","","","","","","",

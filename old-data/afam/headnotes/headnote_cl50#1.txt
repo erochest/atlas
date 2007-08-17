@@ -1,0 +1,64 @@
+warmed over (cl50#1.asc)
+
+Items
+=====
+                                ***    1
+                        fresh it up    1
+                          heat over    2
+                            heat up    3
+                        heated over    1
+                             hot it    1
+                   I heated it over    1
+                           leftover    4
+                          leftovers    4
+                                 NR    6
+                           rewarmed    1
+                              stove    1
+   that's me left over me breakfast    1
+                           victuals    1
+                          warm food    1
+                       warm it over    4
+                          warm over    6
+                   warm over dinner    2
+                     warm over feed    1
+                     warm over food    9
+                       warm them up    1
+                       warm up food    1
+                     warm-over food    1
+                             warmed    1
+                        warmed over   21
+                          warmed up    2
+                       warming over    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

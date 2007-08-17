@@ -1,0 +1,114 @@
+sundown (cl3#4.asc)
+
+Items
+=====
+                       can to can't    2
+             can see to can't see    1
+                                                  dark    3
+                          day clean    1
+                    day clean broad    1
+                               dusk    1
+                         first dark    2
+                                 NR    9
+                           sun lean    1
+                         sun to sun    1
+                      sun went down    1
+                            sundown   44
+                             sunset    9
+               we work till sundown    8
+                we work till sunset    1
+
+Pronunciations
+==============
+                           s°½¾ns²t    1
+                      s¸{°}nda«¼¹¿n    1
+                           s¸«n$lin    1
+                          s¸«nda¾¹n    1
+                           s¸«ndµ¹n    1
+                          s¸«ndµ¾¹n    5
+                           s¸«nd¶¹n    4
+                          s¸«nd¶¼¹n    3
+                            s¸«ns²t    1
+                        s¸«ns²«{°}t    1
+                         s¸¼nda«º¹n    1
+                          s¸şnda¹¼n    1
+                         s¸şnda¾º¹n    1
+                          s¸şns²«¾t    1
+                wi$w¸k$t²l$s¸nd¶¹n    1
+               wi$w¸k$t²l$s¸«nd¶¹n    6
+                wi$w¸k$t²l$s¸«ns²t    1
+               w±$w¸k$t²l$s¸«nd¶¹n    1
+                       ås¥«ndµ«¼º¹n    1
+                         ås¥«ns²«¾t    1
+                        ås¦½nõda«¹n    1
+                       ås¦½nõda«¾¹n    1
+                       ås¦½nõdá½ºon    1
+               ås¦½{°}n$t°$õs¦½{°}n    1
+                   ås¦½{°}nõda«ºo¼n    1
+                       ås¦½¼nõda«¹n    1
+                   ås°½nõdaş«¾oş{n}    1
+                      ås°½nõs²«{°}t    1
+                         ås¸nõda«¹n    1
+                         ås¸nõdµ¹½n    1
+                         ås¸«ndµ«¹n    1
+                       ås¸«ndµ¼¹ş½n    1
+                        ås¸«ndá½¹¿n    1
+                       ås¸«nõda«¾¹n    1
+                        ås¸«nõdaº¹n    1
+                        ås¸«nõda¾¹n    1
+                   ås¸«{°}nõdµ«ºo¼n    1
+                       ås¸«¼nõda«¹n    1
+                       ås¸«¼nõda½¹n    1
+                       ås¸«¼nõdµº¹n    1
+                         ås¸«¼nõs²t    1
+                          ås¸¼nõs²t    1
+                   ås¸¼nõw²ntåda«¹n    1
+                        õs¦nda¾{¹}n    1
+                        õs¦nås²{°}t    1
+                         õs¸nåda¾¹n    1
+                      õs¸«¼nåda«¾¹n    1
+                        õs¸«¼nåda¹n    1
+                        õs¸½nåda¾¹n    1
+                        õs¸ş«nåda¹n    1
+                      õs¸ş«nådá½¹şn    1
+
+
+We worked until)  /get synonyms and a "sun"- form/
+
+L:  [with 3#2] and we worked until _____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The word "sunset" ("sundown") was regularly recorded as an expression of time in the sentence "We work until sunset." Except for a few cases of contrast stress on the second syllable of "sunset" ("sundown"), stress is on the initial syllable.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 3#4, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 3 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+		3#1 (no question)
+		3#2 (no question)
+3#1 X		
+3#2		3#3
+3#3		3#4
+3#4		3#5
+		3#6 (no question)
+3#5		3#7
+3#6		
+3#7		4#1
+3#8		

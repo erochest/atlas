@@ -1,0 +1,65 @@
+<!--wt:default-->
+  <p><b>Field Values</b></p>
+
+  <p>Field values are expressed in a variety of ways. First, there is
+  the numeric code, which is actually stored in the database. Second,
+  there is the ASCII code, which is what is stored in the CSV data
+  files. Finally, there is the longer description. Keep these in mind as
+  you browse the field descriptions below.</p>
+
+  <p><b>Which field would you like information about?</b></p>
+
+  <ul>
+  <!--wt:table-->
+    <li>$$table$$ <ul>
+    <!--wt:field-->
+      <li><a href="fields.html?field=$$%table$$.$$%field$$">$$field$$</a>
+      ($$description$$)</li>
+    <!--wt:/field-->
+    </ul></li>
+  <!--wt:/table-->
+  </ul>
+<!--wt:/default-->
+<!--wt:field-->
+  <!--wt:noerr-->
+    <p><b>$$field$$ ($$description$$)</b></p>
+
+    $$=fullDescription$$
+
+    <!--wt:values-->
+      <p>The <code>$$field$$</code> field contains these possible values:</p>
+      <table border="1">
+      <tr><th>ASCII Code</th><th>Description</th></tr>
+      <!--wt:valuerow-->
+        <tr>
+        <td align="center">$$code$$</td>
+        <td align="center">$$description$$</td>
+        </tr>
+      <!--wt:/valuerow-->
+      </table>
+    <!--wt:/values-->
+    <!--wt:projectvalues-->
+      <p>In the $$project$$ project, the <code>$$table$$</code> table contains
+      these responses for the <code>$$field$$</code> field.</p>
+      <table border="0" width="100%"><tr><td>
+      <table border="0"><caption>Sorted by Values</caption>
+      <!--wt:rowbyvalue-->
+        <tr><td align="right"><b>$$=description$$</b></td>
+        <td>$$count$$</td></tr>
+      <!--wt:/rowbyvalue-->
+      </table></td>
+      <td>
+      <table border="0"><caption>Sorted by Frequency</caption>
+      <!--wt:rowbyfreq-->
+        <tr><td align="right"><b>$$=description$$</b></td>
+        <td>$$count$$</td></tr>
+      <!--wt:/rowbyfreq-->
+      </table>
+      </td></tr></table>
+    <!--wt:/projectvalues-->
+  <!--wt:/noerr-->
+  <!--wt:error-->
+    <p>There is no information for the field, <code>$$field$$</code>.</p>
+  <!--wt:/error-->
+<!--wt:/field-->
+$$=back$$

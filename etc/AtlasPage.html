@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>$$title$$</title>
+<meta http-equiv="Content-Type" content="text/html; charset=$$charset$$">
+<script language="JavaScript">
+
+  function helpwin(page) {
+    window.open("$$baseurl$$/help/" + page, "Help",
+      "directories=no,menubar=no,status=no,toolbar=no," + 
+      "resizable=yes,scrollbars=yes,height=210,width=300");
+    return false;
+  }
+
+  function community(comid) {
+    window.open("community.html?comid=" + comid, "popup",
+      "directories=no,menubar=no,status=no,toolbar=no," +
+      "resizable=yes,scrollbars=yes,height=210,width=300");
+    return false;
+  }
+
+//--></script>
+<script language="JavaScript1.1"><!--
+
+  window.name = 'main';
+
+  function community(comid) {
+    window_handle = window.open("community.html?comid=" + comid, "popup",
+      "directories=no,menubar=no,status=no,toolbar=no," +
+      "resizable=yes,scrollbars=yes,height=400,width=500");
+    window_handle.focus();
+    return false;
+  }
+
+//--></script>
+<link type='text/css' rel='stylesheet' href="$$baseurl$$/atlas.css">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td class="corner">$$=corner$$</td>
+    <td class="banner" colspan="2">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td class="banner">&nbsp;<br>
+            $$=banner$$<br>
+            &nbsp; </td>
+          <td valign="center" class="banner"> 
+            <div align="center">
+<!--wt:helplink-->
+<a href="$$baseurl$$/help/$$helppage$$" onClick="return helpwin('$$helppage$$')"><img src="$$baseurl$$/help/helplight.png" width="50" height="50" alt="[Help]" border="0"></a> 
+<!--wt:/helplink-->
+</div>
+          </td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td class="sidebar" valign="top" nowrap>
+      <table width="100%" border="0" cellspacing="4" cellpadding="0">
+        <tr>
+          <td nowrap class="sidebar"><a href="$$baseurl$$/" class="sbTitle">Home</a><br>
+            <br>
+<!--wt:sidebar-->
+<span class="sbTitle">$$=title$$</span><br>
+<!--wt:linkslist-->
+&nbsp;<a href="$$=baseurl$$/$$=href$$">$$text$$</a><br>
+<!--wt:/linkslist-->
+<!--wt:/sidebar-->
+            <br>
+            <span class="sbTitle">Using the Site</span><br>
+            &nbsp;<a href="$$baseurl$$/information/about.html">About the site</a><br>
+            &nbsp;<a href="$$baseurl$$/information/intro.html">Introduction</a><br>
+            &nbsp;<a href="$$baseurl$$/information/">Information</a> <br>
+            &nbsp;<a href="$$baseurl$$/utils/">Utilities</a><br>
+            <br>
+            <span class="sbTitle">Exits</span><br>
+            &nbsp;<a href="$$baseurl$$/old/index.html">The Old Site</a><br>
+            <br>
+            <br>
+            &nbsp;<span class="sbFoot"><a href="$$baseurl$$/copyright.html">Copyright</a></span><br>
+            &nbsp;<span class="sbFoot">$$modified$$</span><br>
+<!--wt:dumplink-->
+<br>&nbsp;<span class="sbFoot"><a href="$$baseurl$$/cgi-bin/lapdump.py">Debugging</a></span><br>
+<!--wt:/dumplink-->
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td valign="top" width="90%"><br>
+<!--wt:_page/-->
+    </td>
+  </tr>
+</table>
+</body>
+</html>

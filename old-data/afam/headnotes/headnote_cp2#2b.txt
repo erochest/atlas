@@ -1,0 +1,13 @@
+Saturday (cp2#2b.asc)
+
+Items
+=====
+                             Friday    7
+                           lein day    1
+                                 NR   19
+                            rations    1
+                            sabbath    1
+                            Sabbath    2
+                           Saturday   51
+                             Sunday    1
+

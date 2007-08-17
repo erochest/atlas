@@ -1,0 +1,92 @@
+branch (cl30#5.asc)
+
+Items
+=====
+                              basin    1
+                        bold stream    1
+                             branch   40
+                           branches    2
+                              brook    8
+                               bull    1
+                              canal    3
+                              creek   44
+                             creeks    4
+                              drain    1
+                              gully   14
+                                gut    1
+                             gutter   11
+                            head up    1
+                         high flood    1
+                    it large stream    1
+                             lagoon    1
+                               lake    3
+                              lakes    1
+                              marsh    2
+           not as wide as the creek    1
+                                 NR    4
+                              ocean    1
+                               pond    4
+                              river   40
+                             rivers    1
+                                run    7
+                   running branches    1
+                                sea    3
+                              slash    3
+                             spring    1
+                             stream    9
+                              swamp    6
+                          the creek    1
+                three-quarter flood    1
+                        young flood    1
+
+
+
+
+L: Small bit of water flowing along?
+
+	Kurath:
+
+Words for smaller watercourses tributary to larger ones are presented here.  "Creek" and "branch" are the most widespread of these terms.  In the coastal plain, a "branch" is frequently described as a swampy valley or as a valley grown with shrubs and trees.  It is regarded by various informants as the arm of a "creek", as a salt stream, and as flowing from a spring.  "Run" is current in parts of VA and northward; also in parts of eastern NC.  It denotes a fresh stream, usually smaller than a "creek."  "Stream" is uncommon, "brook" is rare.  "Drain" denotes a small stream flowing from a spring.  "Gut" denotes a small saltwater inlet.  In tidewater areas, "rivers" and "creeks" are salty or brackish; here, small freshwater courses are apt to be called "runs" (as far south as Cape Fear).  
+
+	Unattributed list manuscript note:			
+
+Terms for types of inlets and bodies of running water other than "creek" are located in this list.  A general definition can be applied to each of the given terms, but it must be kept in mind that their application in any area or instance is often a matter of circumstance and consequently, they may be interchangeable and overlapping in meaning.  
+
+Stream -- the generic term for all bodies of running fresh water smaller than a river. It is rare in place names.
+
+Brook -- In the Middle and South Atlantic States, the term is considered rare or thought of as literary.  Where "brook" is not used, "creek" and "branch" are substituted.  
+
+Branch -- In upland areas, "branch" refers to a tributary to a creek or river.  In this sense, fork is a synonym; however, with very few exceptions, "fork" exists only in place names.  In the coastal plain, "branch" has the same meaning as "swamp," a slowly moving stream of water.  "Branch" often includes the trees and land on each side as well as the stream of water.
+
+Run -- A stream usually smaller than "creek" and "branch".  It is more frequent in place names than as a common noun.  In lowland areas, "run" generally has the same meaning as "swamp" and "branch".
+			 
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 30#5, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 30 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+30#P		30#4		
+30#P		30#4
+30#1		30#1
+30#2
+30#3		30#2
+		30#3 (no question)
+30#4		30#5
+30#5a		30#6
+30#5b		30#6
+30#5c
+		30#7
+31#P		30#8

@@ -1,0 +1,75 @@
+haystack (cl14#5.asc)
+
+Items
+=====
+                          back uped    1
+                     bungalow stack    1
+                             capped    1
+                           crop hay    1
+                       double stack    1
+                             fodder    1
+                       fodder stack    1
+                                hay    4
+                          hay house    1
+                           hay rick    6
+                          hay stack    52
+                          haystacks    1
+                     high and round    1
+                               loft    2
+                               long    1
+                                 NR    2
+                               pile    1
+                               rack    1
+                          rice rick    2
+                               rick    4
+round a pole, as high as you can; big at the bottom    1
+                       sheaf of hay    2
+                            shelter    1
+                              shock    2
+                        shuck house    1
+                              stack    9
+                             stacks    2
+                            steeple    1
+                      they be round    1
+You make them high and round a pole.  I heard about potato rick.    1
+you make them long; you can get in a thousand bushel    1
+
+
+
+
+L: Hay piled up outside the barn is called a ______.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+These are terms for a mound of hay (or straw), so shaped as to shed rain.  "Rick" denotes an oblong stack shaped like a house.  In areas where "rick" is used, a "stack" has a round base and rises to a peak.  Several informants regard "rick" as a recent term.  Elsewhere "stack" is applied to any shaped mound of hay.  However, the peaked type of "stack" with a round base (with or without a center pole) is the most common.  "Rack" current on the periphery of the "rick" area, denotes a long stack.  In all compounds the main stress is on "hay."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 14#5, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 14 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted: 
+
+Handbook	Preliminary Worksheets
+----------------------------------
+14#P		
+14#P		14#4
+14#P		14#1
+14#1		
+14#2		14#2
+14#3		14#3
+14#4		14#5
+14#4		14#6
+14#5		14#7
+14#6

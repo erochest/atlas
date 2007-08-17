@@ -1,0 +1,118 @@
+shut the door (cp11#1.asc)
+
+Items
+=====
+                              close    2
+                           close it    1
+                     close the door    9
+                    closes the door    1
+                               door    6
+         I ain't like door for open    1
+                              knock    1
+                                 NR    1
+             pull the door together    1
+                               shut    3
+                        shut it off    1
+                     shut that door    3
+                      shut the door   58
+                     shut the doors    1
+                       shut the top    1
+                   shut to the door    1
+                            shut up    1
+They ring the bell; they signant the bell.    1
+                            we shut    1
+
+Pronunciations
+==============
+                  `klo{¹¿}$z°$do¹°‘    1
+                   `klo¹z$z’±¿$õdo°    1
+                    `klo¹z$z±¿$õdo°    1
+          `klo¼¹{±¿}z$ä±¿«¼$õdo¼¹¼    1
+                                 do    1
+                             do«{¹}    1
+                              do«¼º    1
+                             do«¼º°    1
+                             do«¼º´    1
+                            do«¼º¹¼    1
+                                do°    1
+                                doº    2
+                                d·:    1
+                  klo{¹}z$z±¿$ådoº°    1
+           t`lŠo¼{°}z$d‘±¿$ådo«¼º°    1
+        t`lo«¼º{°}z$ä±¿½$ådo«¼º{°}    1
+                          ådo«¼º{°}    1
+            åklo¼{o¿¼}¹z$d’±¿$õdo¼°    1
+              åklo¼{¹¼}z$z±¿$õdo¼°    1
+                     åó²t$t±¿$õdo°z    1
+                åó²«t$d±¿«¼$õdo«¼º¹    1
+                åó²«t$d‘±¿«¼$õdo¼º    1
+              åó²«{°}t$d‘±¿«¼$õdo«º    1
+             åó²«{°}t$õäá{°}t$ådo¼º    1
+                   åó²¼t$d±¿$õdo«¼º    1
+                 åó²¾$t±¿½¼$õdo¼º¹    1
+                 åó²¾ñ$°½$õdo«¼º{°}    1
+                  åó¸«¼t$d±¿$õdo½°    1
+                    åó¸«¼t$ä±¿$do¼º    1
+             åó¸«¼t$ä±¿«¼$õdo«¼º{°}    1
+                  åó¸«¼t$ä±¿½$õdo¼°    1
+                åó¸«¼ºt$ä±¿½$ådo¼º¹    1
+                        ó°t$ä°$do½°    1
+                        ó²t$da«t$do    2
+                          ó²t$d±$do   18
+                        ó²t$t±¿$do:    1
+                     ó²t$t±¿$do{°«}    1
+                     ó²t$t±¿$do{¹½}    1
+                       ó²t$t±¿$do«º    2
+                        ó²t$t±¿$do°    2
+                    ó²t$t±¿$doº{°«}    1
+                      ó²t$t±¿$ådo«º    1
+                       ó²t$t±¿½$doº    1
+                  ó²t$t±¿½$d·«:{°é}    1
+                   ó²t${d}{±¿½}$do«    1
+                  ó²t${d}{±¿}$do«º    1
+                   ó²t${t}{±¿}$do«º    1
+                    ó²t${ä}{±¿«}$do    1
+                        ó²t$ä´$ådo«    1
+               ó²t$åtu¼º{w}$ä°«$do«    1
+                ó²«t$d±¿«¼$ådo¼º¹¼    1
+                   óµ«t${t}{±¿}$doº    1
+                    ó¸t$t±¿«$do{o¼}    1
+                      ó¸{°}t$d°$do¹    1
+                   ó¸«¼t$d’±¿$ådo¼¹    1
+                ó¸½t${ä}{±¿}$do{°}    1
+            õkloº{¹½}z$d{ä}±¿$ådo¼°    1
+             õp¹«ì$ä°$do«$t°åg²«ºä°    1
+                 õó¸«t$d±¿«¼$ådo«¼º    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

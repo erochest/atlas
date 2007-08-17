@@ -1,0 +1,80 @@
+rose (cg3#3.asc)
+
+Items
+=====
+                    before sol rose    1
+                            come up    3
+                          day clean    1
+                       fore it rise    1
+                             got up    2
+                         middle day    1
+my almanac tell me more straighter though    1
+                                 NR    9
+                                ris   15
+                               rise   10
+                              rised    7
+                              risen    2
+                              rises    1
+                               rose    9
+                              rosed    1
+                            sun hot    1
+                         sun was up    1
+                            sunrise    1
+             the sun ain't rise yet    1
+                  the sun done rise    1
+                       the sun rise   17
+                the sun rise at six    1
+           the sun rise six o'clock    1
+
+Pronunciations
+==============
+                d±$s¸n$eþ$r¶¼±z$j±t    1
+                      d±$s¸n$r¶¼±z"    1
+             d±$s¸n$r¶¼±z$a«t$s±ks"    1
+                 d±$s¸«n$d¸«n$rµ¾±z    1
+                       d±$s¸«n$rµ±z    7
+                      d±$s¸«n$rµ¾±z    3
+          d±$s¸«n$rµ¾±z$s±ks$°klµ¾k    1
+                       d±$s¸«n$r¶±z    5
+                      d±$s¸«n$r¶¼±z    1
+                          s¸«n$hµ¾t    1
+                          s¸«nr¶¼±z    1
+                    ås¸«n$w°½z$õ¦½p    1
+                               åsÞl    1
+
+
+
+The sun) (at six /when did the sun rise?/
+
+L:  What time did the sun rise this morning?  You say the sun _____ at six.
+M:  We were a little late this morning, when we started out in the field, the sun had already _____.  [from LAGS, where all principle parts of the verb were to be collected;  I believe McDavid asked instead for the preterite in LAMSAS, as per worksheets -E. Johnson]
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 3#3, "fore it rise" is inappropriate as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 3 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+		3#1 (no question)
+		3#2 (no question)
+3#1 X		
+3#2		3#3
+3#3		3#4
+3#4		3#5
+		3#6 (no question)
+3#5		3#7
+3#6		
+3#7		4#1
+3#8		

@@ -1,0 +1,11 @@
+miscellaneous ordinals (cp1#7c.asc)
+
+Items
+=====
+                           eighteen    2
+                            fifteen    4
+                           nineteen    2
+                                 NR   20
+                          seventeen    2
+                            sixteen    2
+

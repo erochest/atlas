@@ -1,0 +1,75 @@
+sundown (cl3#4.asc)
+
+Items
+=====
+                       can to can't    1
+             can't see to can't see    1
+                     can't to can't    1
+                               dark    3
+                          day clean    1
+                    day clean broad    1
+                               dusk    1
+                         first dark    2
+                                 NR    9
+                           sun lean    1
+                         sun to sun    1
+                      sun went down    1
+                            sundown   44
+                             sunset    9
+               we work till sundown    8
+                we work till sunset    1
+
+Pronunciations
+==============
+                           s°½¾ns²t    1
+                      s¸{°}nda«¼¹¿n    1
+                           s¸«n$lin    1
+                          s¸«nda¾¹n    1
+                           s¸«ndµ¹n    1
+                          s¸«ndµ¾¹n    5
+                           s¸«nd¶¹n    4
+                          s¸«nd¶¼¹n    3
+                            s¸«ns²t    1
+                        s¸«ns²«{°}t    1
+                         s¸¼nda«º¹n    1
+                          s¸şnda¹¼n    1
+                         s¸şnda¾º¹n    1
+                          s¸şns²«¾t    1
+                wi$w¸k$t²l$s¸nd¶¹n    1
+               wi$w¸k$t²l$s¸«nd¶¹n    6
+                wi$w¸k$t²l$s¸«ns²t    1
+               w±$w¸k$t²l$s¸«nd¶¹n    1
+                       ås¥«ndµ«¼º¹n    1
+                         ås¥«ns²«¾t    1
+                        ås¦½nõda«¹n    1
+                       ås¦½nõda«¾¹n    1
+                       ås¦½nõdá½ºon    1
+               ås¦½{°}n$t°$õs¦½{°}n    1
+                   ås¦½{°}nõda«ºo¼n    1
+                       ås¦½¼nõda«¹n    1
+                   ås°½nõdaş«¾oş{n}    1
+                      ås°½nõs²«{°}t    1
+                         ås¸nõda«¹n    1
+                         ås¸nõdµ¹½n    1
+                         ås¸«ndµ«¹n    1
+                       ås¸«ndµ¼¹ş½n    1
+                        ås¸«ndá½¹¿n    1
+                       ås¸«nõda«¾¹n    1
+                        ås¸«nõdaº¹n    1
+                        ås¸«nõda¾¹n    1
+                   ås¸«{°}nõdµ«ºo¼n    1
+                       ås¸«¼nõda«¹n    1
+                       ås¸«¼nõda½¹n    1
+                       ås¸«¼nõdµº¹n    1
+                         ås¸«¼nõs²t    1
+                          ås¸¼nõs²t    1
+                   ås¸¼nõw²ntåda«¹n    1
+                        õs¦nda¾{¹}n    1
+                        õs¦nås²{°}t    1
+                         õs¸nåda¾¹n    1
+                      õs¸«¼nåda«¾¹n    1
+                        õs¸«¼nåda¹n    1
+                        õs¸½nåda¾¹n    1
+                        õs¸ş«nåda¹n    1
+                      õs¸ş«nådá½¹şn    1
+

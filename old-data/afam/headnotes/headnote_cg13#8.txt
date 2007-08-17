@@ -1,0 +1,77 @@
+people thinks (cg13#8.asc)
+
+Items
+=====
+                     all of them is    1
+                        how are you    1
+                            it have    1
+        nicest ones that comes here    1
+                                 NR   11
+                        people call    1
+                       people comes    1
+                       people think   11
+              people think about do    1
+              people think about it    1
+             people think he did it    1
+              people think he do it    2
+            people think he done it    7
+           people think him do them    1
+                    people think so    2
+                      people thinks   13
+                      people use it    1
+                          some have    1
+                         some makes    1
+                  some of them gets    1
+                  some of them goes    1
+                  some people think    2
+                     them ones does    1
+                         they cooks    1
+                          they goes    2
+                         they grows    1
+                         they meets    1
+                          they puts    2
+                  they really think    1
+                         they sells    1
+                     they splits it    1
+                         they stays    1
+                         they think    1
+                              think    2
+                       think he did    1
+                             thinks    1
+                            we eats    1
+                           we wants    1
+                      what they say    1
+                           you puts    2
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

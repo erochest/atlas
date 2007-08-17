@@ -1,0 +1,9 @@
+miscellaneous day names (cp2#1c.asc)
+
+Items
+=====
+                             a week    1
+                             Monday    5
+                                 NR   19
+                             Sunday    2
+

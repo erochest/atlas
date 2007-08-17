@@ -1,0 +1,104 @@
+he hasn't (cg12#4.asc)
+
+Items
+=====
+                              ain't    1
+                          ain't got    2
+            ain't had no money crop    1
+                     ain't tell him    1
+                             hadn't    1
+                             hasn't    3
+                        hasn't seen    1
+                         have heard    1
+                            haven't    5
+                       haven't been    1
+                       haven't seen    2
+                   haven't seen him    1
+                  haven't seen none    1
+                           he ain't    1
+                     he ain't do it    1
+                   he ain't do that    2
+                   he ain't do them    1
+             he ain't done him work    1
+                   he ain't done it    5
+                 he ain't done that    2
+                  he didn't done it    3
+                he didn't done that    1
+                          he hasn't    3
+                     he hasn't been    1
+                         he haven't    1
+               he haven't been here    1
+           he haven't do such thing    1
+                 he haven't done it    2
+         he haven't done such thing    1
+                 he never done that    1
+                            I ain't    3
+                      I ain't do it    1
+                    I ain't do that    2
+                    I ain't do them    1
+                    I ain't done it    5
+               I ain't done my work    1
+                  I ain't done that    2
+                      I ain't drive    1
+                  I ain't fish none    1
+                     I ain't forget    1
+                        I ain't got    1
+                   I ain't seen one    1
+                   I didn't done it    3
+                 I didn't done that    1
+                        I have seen    1
+                          I haven't    8
+                     I haven't been    1
+            I haven't do such thing    1
+                     I haven't done    1
+                  I haven't done it    2
+                    I haven't found    1
+                   I haven't got it    1
+                      I haven't met    1
+                     I haven't seen    2
+                 I haven't seen him    2
+                  I never done that    1
+                     I sure haven't    1
+                          I've seen    1
+                    I've seen those    1
+                                 NR   17
+                    she hadn't seen    1
+                   she haven't been    1
+                they ain't got time    1
+                           we ain't    1
+                         we haven't    1
+                      you ain't got    3
+                        you haven't    2
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

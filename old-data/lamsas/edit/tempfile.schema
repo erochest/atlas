@@ -1,0 +1,17 @@
+[]
+FILETYPE = VARYING
+FILEFORMAT = Ascii
+ENCODING = 8859_1
+LOCALE = en
+DELIMITER = "
+SEPARATOR = ,
+FIELD0 = item,Variant.STRING,-1,-1,
+FIELD1 = informid,Variant.STRING,-1,-1,
+FIELD2 = oldnumbe,Variant.STRING,-1,-1,
+FIELD3 = gramflag,Variant.STRING,-1,-1,
+FIELD4 = doubtflg,Variant.STRING,-1,-1,
+FIELD5 = comtext,Variant.STRING,-1,-1,
+FIELD6 = comnt,Variant.STRING,-1,-1,
+FIELD7 = phnitem,Variant.STRING,-1,-1,
+FIELD8 = prlabel,Variant.STRING,-1,-1,
+FIELD9 = serial,Variant.INT,-1,-1,

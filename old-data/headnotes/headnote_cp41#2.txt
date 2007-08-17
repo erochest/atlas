@@ -1,0 +1,111 @@
+furrows (cp41#2.asc)
+
+Items
+=====
+                              alley    4
+                             alleys    1
+                               bone    1
+                        double rows    1
+          four furrow make a trench    1
+                             furrow   42
+                            furrows   19
+                               list    3
+                             middle    1
+                                 NR    3
+                        plow furrow    1
+                          plow mole    1
+                             ralley    1
+                             ridges    1
+                          roundturn    1
+                               rows    3
+                           trenches    1
+                           waterfur    1
+                               wing    1
+    you cut a furrow from the alley    1
+
+Pronunciations
+==============
+                                  "    1
+                        f§Ω∫{¥}∞Èzè    1
+                               f•r∞    1
+                          f∞Ωæ{r}∞z    1
+                         f∞æroÈæ{∞}    1
+                               f≥r∞    2
+                            f≥{r}∞z    1
+                        f≥{∞é}{r}∞z    1
+                              f≥ér∞    1
+                           f≥ï{r}∞z    1
+                         f≥ï{≥∫}-∞Ω    1
+                             f≥´∫r∞    1
+                            f≥Ω¯›∞z    1
+                            f≥æ-∞Ωz    1
+                         f≥æ{r}{∞}z    1
+                           f≥æ{r}∞z    2
+                              f¥:∞Ω    1
+                             f¥r±øz    1
+                           f¥´{¥ñ}z    1
+                          f¥´º∫r∞´z    1
+                             f¥æ∫-∞    1
+                               f∂r∞    1
+                             f∏[r]∞    1
+                               f∏r∞   18
+                             f∏{r}∞    1
+                              f∏{∞}    2
+                             f∏´ºr∞    1
+                            f∏´ºr∞z    1
+                         f∏´º{∞}r∞z    1
+                            f∏´º∫-∞    1
+                          f∏´Ò∞´{z}    1
+                           f∏∫r∞´æz    1
+                              f∏Ωr∞    2
+                         Âf≥{∞é´}r∞    1
+                           Âf≥ó´∫-∞    1
+                        Âf≥´∫{∞}r∞æ    1
+                          Âf≥´æ∫r∞æ    1
+                          Âf≥æ∫{¥}∞    1
+                          Âf≥æ∫¶È∞æ    1
+                         Âf∏ïºÒé∞ïæ    1
+                      Âf∏´ºr∞ó{∞ó´}    1
+                Âp`Ïèµ∫π∫$ıf≥ï´æ∫-∞    1
+                          Êï≥ï{r}∞z    1
+                      Ê≥∫{∞}{r}±øΩz    1
+
+
+
+
+
+Notes on target items and data collection procedures:	
+
+	Kurath:
+
+In a number of instances the singular form was recorded instead of the plural.  The word is nearly always disyllabic.  Some of the pronunciation variants are thus to be read in two syllables.  The second syllable is sometimes very brief.  Pronunciation in one syllable is rare.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 41#2, "alley" and "ralley" are inappropriate, as is marginalia. 
+
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 41 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+41#P
+		41#1 (no question)
+41#1		41#2
+41#2		41#3
+41#3		41#4
+41#4		41#5
+41#5		41#6
+41#6		41#7	
+41#7
+41#8		41#8

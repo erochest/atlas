@@ -1,0 +1,122 @@
+garden (cp50#5.asc)
+
+Items
+=====
+                      family garden    1
+                      flower garden    1
+                        flower yard    1
+                         front yard    1
+                             garden   58
+                        garden spot    2
+                              loose    1
+                                 NR    4
+                              patch    2
+                   vegetable garden   20
+                     vegetable yard    1
+                              yards    1
+
+Pronunciations
+==============
+                            ga¾ºdn–    1
+                              gjadn    2
+                           gja«[d}n    2
+                             gja¼dn    1
+                             gja¾dn    2
+                              gjµdn    1
+                             gjµ¼dn    4
+                         g{j}µ«ºdn–    1
+                            g{±}µdn    1
+                       gˆ{¯}Þº{°}dn    1
+                          gˆµº{°}dn    1
+                         gˆÞº{°}dn–    1
+                          gˆÞ¼{°}dn    1
+                               gµdn    2
+                             gµ{d}n    1
+                        gµŽ¾º{°Ž}dn    1
+                           gµ«¾ºdn–    1
+                              gµºdn    1
+                             gµºdn–    1
+                           gµºd±¿½n    1
+                           gµº{°}dn    1
+                             gµº°dn    4
+                              gµ¼dn    6
+                          gµ¾{°Ž}dn    1
+                             gµ¾°dn    1
+                           gµ¾°Ždn–    1
+                           gµ¾ºrdn–    1
+                          gµ¾º{°}dn    1
+                      gµ¾º{°Ž}d±¿½n    1
+                            gµ¾º°dn    2
+                          g¶”¼°Ždn–    1
+                           g·½°‘dn–    1
+                             gÞ:dn–    1
+                              gÞ°dn    3
+                             gÞ´édn    1
+                             gÞºdn–    2
+                             gÞº°dn    1
+                            gÞº°dn–    1
+                            gÞ¼:dn–    2
+                             gÞ¼dn–    1
+                             gÞ¼°tn    1
+                             gÞ½°dn    1
+                         j¿[j]Þ:dn–    1
+                       ¯‡¿{j}Þ¼ºdn–    1
+                         ¯¿{j}µºdn–    1
+                        ¯¿{jé}aºdn–    1
+                        ¯¿‡[j]µ¼dn–    1
+                         ¯¿‡a{°}dn–    1
+                         ¯¿‡{j}µdn–    1
+                        ¯¿‡{j}µºdn–    1
+                     ¯¿‡{j}µ¼ºd±¿½n    1
+                           ¯¿‡µ¾°dn    1
+                      ågˆÞ«¼º{°}dn–    1
+                            ågˆÞ°dn    1
+                            ågµº°dn    1
+                            ågµ¾°dn    1
+                           ågµ¾º°dn    1
+                             ågÞ°dn    1
+                           ågÞ°d°«n    1
+                           å¯¿µ:dn–    1
+                        õgˆµ¾º{°}dn    1
+                         õgˆÞº{°}dn    1
+
+
+
+
+P: A small plot near the house where you might grow vegetables?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+Pronunciations with initial [gj-] are often regarded as old-fashioned; or reported as used by older members of the family.  Pronunciations of the final syllable as [-±-n] may also be reported as old.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 50#5, "loose" is inappropriate, as is marginalia. 
+
+
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 50 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+50#P		50#4
+50#P		50#6
+50#1		50#1
+50#2		50#2
+		50#3 (no question)
+50#3		50#5
+50#4		50#7
+50#5		50#8
+50#6a,b,c X

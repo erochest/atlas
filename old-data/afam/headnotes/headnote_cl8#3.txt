@@ -1,0 +1,22 @@
+andirons (cl8#3.asc)
+
+Items
+=====
+                           andirons   10
+                      basket grates    1
+                                dog    1
+                          dog irons   17
+                                                          dogs    2
+                           fire dog    2
+                          fire dogs   12
+                         fire grate    1
+                         fire irons    4
+                              grate    1
+                         hand irons    6
+                          handirons    1
+                              heaps    1
+                               iron    1
+                                 NR   27
+                          pig irons    2
+                          rest iron    1
+

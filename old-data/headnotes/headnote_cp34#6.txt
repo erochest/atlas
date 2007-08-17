@@ -1,0 +1,54 @@
+horseshoes (cp34#6.asc)
+
+Items
+=====
+                          horseshoe   20
+                         horseshoes   39
+                         iron shoes    1
+                          mule foot    1
+                                 NR    4
+                              shods    2
+                               shoe    3
+                              shoes    9
+                   that's good luck    1
+
+
+
+
+M: The things that you would put on a horse's feet to protect them from the 	road, what would you call them?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+"Horseshoes" are defined as (a) the name of the metal shoes of a horse, and (b) the terms for the well-known game in which horseshoes or rings are pitched to a stake, or solid metal disks or rock into a hole.
+	
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 34#6, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 34 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+34#P		34#2
+34#P
+34#1		34#1
+34#2		34#3 (similar)
+34#3		34#4
+34#4		34#5
+34#5		
+34#6		34#6
+34#7
+34#8		34#7 (game)
+34#9		34#8

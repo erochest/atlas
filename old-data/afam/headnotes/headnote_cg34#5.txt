@@ -1,0 +1,105 @@
+out of (cg34#5.asc)
+
+Items
+=====
+               fall out of this bed    1
+                fell out of the bed    1
+                                 NR   24
+                                out    2
+               out from the country    1
+                             out of   16
+                     out of Georgia    1
+                         out of the    1
+                     out of the bed    2
+                            out the    5
+                        out the bed   11
+                       out the boat    2
+                      out the crowd    1
+                      out the state    1
+                           out wool    1
+                              outen    1
+                          outen 'em    1
+                      outen the bed    3
+                     outen the boat    1
+
+Pronunciations
+==============
+                           a«¹t$°v    1
+                             a«¹t°    7
+                        a«ºoét$ä±¿¼    1
+                           a«¾¹t$°    1
+                            a«¾¹t°    1
+                  aº¹[ñ]$°${d}[±¿½]    1
+            f±½l$a¾º¹fd‘$d‘±«¼$b²«d    1
+                           {°}á¹tn–    1
+                    ¥•½¾¹t$t±¿$b²«d    1
+                   ¥•½¾¹¾t$t±¿$beºd    1
+                             ¥«¹t°    1
+                      ¥¹t$t±¿$be«ºd    1
+                       ¥¹t${ä}[±¿«]    1
+              ¥¹t—$°$[d][±¿]$b²{°}d    1
+                   ¥¼¹{°}t$t±¿$beºd    1
+                ¥¼¹¿{°}tn–$d±¿$beºd    1
+                     ¥½¹t$t±¿$bo«ºt    1
+                          ¥½¾¹t$t±¿    1
+                      ¥¾¹t$t±¿$b²«d    1
+                          °¹t$w¹—¼l    1
+                              °¹t°    1
+                 °¹«t$[ä][±¿]$b²«ºd    1
+             °¹«tn–$[d’][±¿«]$b²«ºd    1
+                 °½¹«t$t±¿$b²«º{°}d    1
+                     °½¼¹t$[t][±¿½]    1
+                               °¾¹t    1
+                              µ«oñ°    1
+                      µ«¹t$t±¿$b²½d    1
+                           µ«¼o¼ñ$°    1
+                µ¹½tn–$[n][±¿]$b²ºd    1
+                              µ¼«ot    1
+                            µ¼¹t$°    1
+             µ¼º¹t`$d°«$åk`ò‡µ¼º¹d    1
+                        ¸½¹t$d‘±¿«¼    1
+              á¹{°}tn–${né]°$bo[¹]t    1
+                  áº¹«t$t°«¼$bo[¹]t    1
+    åf·¼º{°}ì$¸¼¹t°½$ä±¿¼s$åb²º{°}d    1
+                           å¥«¾¹ñ$°    1
+                       åµ¹t{°}n–-m–    1
+  å¸¼¹t$frm–$ä±¿½$kˆ`¸ş«[n]tò±¿«¼    1
+                 õa«e“t$t±¿$åb²{°}d    1
+                  õa«ut$d°$åb²º{°}d    1
+                 õa«¹t$õä±¿$åste±¿t    1
+            õa«¾¹t$°$ä°º$åb²«º{°}d    1
+                  õa¾¹t°$ådú·½°dú°    1
+             õ¸¼¹t$d‘±¿«¼$åb²«º[e]d    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

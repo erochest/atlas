@@ -1,0 +1,113 @@
+burlap sack (cl19#7.asc)
+
+Items
+=====
+                                bag   11
+                            bagging    1
+                       bagging sack    2
+                             burlap    2
+                        burlap sack    3
+                              cloth    6
+                         cloth bags    1
+                         cloth sack    9
+                          corn sack    1
+                        croaker bag    1
+                         crocus bag    7
+                        crocus bags    1
+                        crocus sack   22
+                        croker sack    1
+                         flour bags    1
+                         flour sack    1
+                          grass bag    4
+                         grass sack    3
+                           grinding    1
+                              guano    1
+                          guano bag    2
+                         guano sack    5
+                        guano sacks    1
+                         gunny sack    1
+          I didn't hear about that.    1
+                         jewel sack    1
+                      made of cloth    1
+                                 NR    2
+                         orange bag    1
+                 out of corn stalks    1
+                      ozenbrig sack    1
+                              paper    1
+                         paper sack    1
+                               poke    1
+                            rag bag    1
+                               sack   16
+                         string bag    1
+                               toll    1
+                           tote bag    1
+                            tow bag    2
+                           tow sack    5
+                          white bag    1
+                         white sack    1
+
+Pronunciations
+==============
+                                  "    1
+                          ba{±øΩ}gà    1
+                               ba´g    2
+                          ba´æ∫{∞}g    1
+                              baæ∫g    3
+                                b·g    5
+                            b·{±ø}g    1
+                          b·´[±ø]gz    2
+                               b·´g    3
+                              b·´∫g    3
+                               b·∫g    4
+                           b·∫{±ø}g    1
+                          Âb·´{±ø}g    1
+                           Âb·´{≤}g    1
+                          ıb·´{±ø}g    1
+                             ıb·´∫g    1
+                         ıb·´∫{±ø}g    1
+                              ıb·∫g    1
+                           ıb·Ω{∞}g    2
+                     ıb·Ω∫{∞}gz{zè}    1
+
+
+
+
+P: What do you call that bag or sack potatoes are shipped in?  What about 	feed, seed, and manure?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The field worker recorded terms for a variety of bags or sacks made of hemp, flax, or some other fiber.  Some of the terms denote the materials of which the sacking is made, others refer to content.  Some informants gave only the simplex "bag" or "sack".
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 19#7, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 19 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook		Preliminary Worksheets
+----------------------------------
+18#7 (similar)	19#1
+			19#2
+			19#3
+19#P			19#6
+19#1		
+19#2		
+19#3			19#4
+19#4			19#5
+19#5		
+19#6			19#7
+19#7			19#8
+19#8a		
+19#8b

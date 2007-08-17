@@ -1,0 +1,93 @@
+bulge (cp27#7.asc)
+
+Items
+=====
+                                bag    1
+                          boose out    1
+                              bulge   23
+                          bulge off    1
+                          bulge out    9
+                         bulged out    1
+                             bulgey    1
+                            bulging    3
+                        bulging out    1
+                         bungle off    1
+                        done shrink    1
+                               fade    1
+                               full    1
+                 he full his pocket    1
+                                hit    1
+                        it cram jam    1
+                          it shrink    1
+                my pocket stick out    2
+                                 NR   12
+                           poke out    1
+                           puff out    2
+                         puffed out    1
+                           push out    1
+                         pushed out    1
+                        pushing out    1
+                                sag    1
+                           sag down    1
+                       sagging down    1
+                            set out    1
+                          stick out    2
+                              stuff    1
+                        stuffed out    1
+                               swag    3
+                          swag down    2
+                           swag out    1
+                         swells out    1
+                            swollen    1
+               the pocket bulge out    1
+                the pocket full out    1
+                 the pocket full up    1
+               the pocket stick out    4
+           the pocket stick out big    1
+                     they bulge out    1
+                   they just bulges    1
+                     they stick out    1
+                           too full    1
+
+
+
+
+L: If you stuff a lot of things in the pockets, it makes them _____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The expressions presented here were recorded in the context, "The pockets bulge (out)."
+										
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 27#7, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 27 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+27#P		
+27#P		
+27#P		27#6
+27#P
+27#1		27#1
+27#2
+27#3
+27#4		27#2
+27#5		27#3
+27#6		27#4
+27#7		27#5
+27#8		27#7
+		27#8

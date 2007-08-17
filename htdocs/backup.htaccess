@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /lap
+RewriteCond /home/eric/atlas/www/htdocs/wt/$1.py -f
+RewriteRule ^(.*)$ /lap/wt/$1.py [E=WT_TEMPLATE_URL:/$1,E=WT_TEMPLATE_FILENAME:/home/eric/atlas/www/htdocs/$1,E=PYTHONPATH=/home/eric/atlas/lap,E=ATLASSITE_TARGET=DEVEL]

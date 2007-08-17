@@ -1,0 +1,1719 @@
+"dying down","NY1","50","E","N"," "," ","d•±ø±øÓ$daπn","MS",1
+"dying out","NY2A","51.1","E","N"," "," ","d•±ø´±øΩn$≤πt","MS",2
+"dying out","NY2B","51.2","E","N"," "," ","d•±ø±øÓ$≤Ωæπt","MS",3
+"going down","NY2C","51.3","E","N"," "," ","goΩ{π}±øΩn$d≤›Ωæπn","MS",4
+"dying down","NY2C","51.3","E","Y"," ","AUX","dµ´±ø±øΩn$d≤›Ωæπn","MS",4
+"going down","NY3A","401","E","N"," "," ","goΩπ±øÓ$d·´πn","MS",5
+"moderating","NY3B","403","V","N"," "," ","Âmµ´d∞ıreΩ±øtê±øÓ","MS",6
+"dying down","NY3C","402","E","N"," "," ","ıdaæ±ø±øÓ$Âdaπn","MS",7
+"dying down","NY3D","404","E","N"," "," ","da´æ±ø|±øΩn$d·æπn","MS",8
+"calming down","NY4A","405","E","N"," "," ","kµ:m∞n$d·æπn","MS",9
+"dying away","NY4A","405","E","N"," "," ","da´æ±ø|±øÓ$∞weΩ±ø","MS",9
+"moderating down","NY4B","407","E","N"," "," ","mµ´æd∞reΩ±øtn$d·›æπ›n","MS",10
+"dying out","NY4C","408","E","N"," "," ","da›±ø›±øÓ$a›´π´t","MS",11
+"calming down","NY5A","409","E","N"," "," ","kµ∫m∞n$d·Ω∫πn","MS",12
+"calming down","NY5A","409","E","N"," "," ","k∑Ω∫m∞n$d·Ω∫πn","MS",12
+"abating","NY5B","410","V","N"," "," ","∞beΩ±øÒ±øÓ","MS",13
+"dying down","NY5C","411","E","N"," "," ","ıdaæ±ø±øÓ$Âda´∫πΩn","MS",14
+"going down","NY5D","412","E","N"," "," ","goΩºπ±øÓ$d·Ω∫πn","MS",15
+"dying down","NY5E","413","E","N"," "," ","da±ø|±øÓ$daπn","MS",16
+"abating","NY5F","414","V","N"," "," ","∞beΩ±øtê±øÓ","MS",17
+"dying down","NY5G","415","E","N"," "," ","dµº±ø|±øÓ$da´πn","MS",18
+"going down","NY5H!","416!","E","N"," "," ","goΩºπ±øÓ$daπn","MS",19
+"dying down","NY5I!","417!","E","N"," "," ","daæ∫±ø|±øÓ$da:πn","MS",20
+"dying down","NY6A","418","E","N"," "," ","ıdµ±ø|±øÓ$Âdaπn","MS",21
+"dying out","NY6B","419","E","N"," "," ","ıdaæ±ø±øÓ$Âa´æπt","MS",22
+"letting up","NY7A","420","E","N"," "," ","ıl≤'tn$Â∏p","MS",23
+"calming down","NY7B","421","E","N"," "," ","ıkµº∫m∞n$Âda´∫πn","MS",24
+"dying down","NY7C","422","E","N"," "," ","dµ±ø±øÓ$daπn","MS",25
+"dying out","NY7D","423","E","N"," "," ","ıda±ø|±øÓ$Âaπt","MS",26
+"subsiding","NY7E","424","V","N"," "," ","ıs∏bÂsa±ød±øÓ","MS",27
+"abating","NY7F","425","V","N"," "," ","∞Âb≤´±øÒ±øÓ","MS",28
+"getting calmed down","NY7G","426","E","N"," "," ","g≤Áütn$kµ:md$Âda´∫π˛n","MS",29
+"settling","NY7G","426","V","N"," "," ","s≤ÁÏñ±øÓ","MS",29
+"subsiding","NY7H","427","V","N"," "," ","s∏bÂsa±ød±øÓ","MS",30
+"dropping","NY7I","428","V","N"," "," ","dÚµ´p±øÓ","MS",31
+"moderating","NY7I","428","V","N"," "," ","mµd∞reΩ±øÒ±øÓ","MS",31
+"going down","NY7J!","429!","E","N"," "," ","goΩºπ±øÓ$daπn","MS",32
+"lulling","NY7J!","429!","V","N"," "," ","l∏Ï±øÓ","MS",32
+"going down","NY7K!","430!","E","N"," "," ","goπ±øÓ$d·›πn","MS",33
+"going down","NY7L!","431!","E","N"," "," ","g¿π±øÓ$da›π›n","MS",34
+"dropping","NY7M!","432!","V","N","nautical"," ","drµp±øÓ","MS",35
+"dying out","NY8","432b","E","N"," "," ","ıdaæ±ø±øÓ$Âaπt","MS",36
+"falling","NY9A","432c","V","N"," "," ","f∑∫Ï±øÓ","MS",37
+"dying down","NY9B","433","E","N"," "," ","ıd•±ø±øÓ$Âd•ºπn","MS",38
+"calming down","NY9C","434","E","N"," "," ","kµæ∫m±øÓ$daπn","MS",39
+"falling","NY10A","435","V","N"," "," ","f∑´∫Ï∞n","MS",40
+"dropping","NY10A","435","V","N","usually"," ","dÚµp∞n","MS",40
+"dying down","NY10B!","436!","E","N"," "," ","ıda±ø±øÓ$Âdaπn","MS",41
+"dying down","NY11","438","E","N"," "," ","daæ∫±ø±øÓ$daπn","MS",42
+"going down","NY12A","439(*)","E","N"," "," ","goπΩ±øn$d≤Ωπ´n","MS",43
+"letting up","NY12A","439(*)","E","Y"," ","AUX","ıl≤tn$Â∏p","MS",43
+"going down","NY12B","440","E","N"," "," ","ıgoΩπ±øÓ$Âdaπn","MS",44
+"dying down","NY12C!","441!","E","N"," "," ","daæ±ø|±øÓ$daæπn","MS",45
+"going down","NY13A","443","E","N"," "," ","go∫∞n$da´æπn","MS",46
+"dying out","NY13B!","444!","E","N"," "," ","ıda´æ±ø±øÓ$Âaπt","MS",47
+"going down","NY14A","445","E","N"," "," ","goπ±øÓ$da´∫πn","MS",48
+"dying down","NY14B","446","E","N"," "," ","da´æ±ø±øÓ$d·Ω∫πΩn","MS",49
+"abating","NY15A","447","V","N"," "," ","∞Âbe{±ø}tê±øÓ","MS",50
+"debating","NY15A","447","V","N"," ","SIC","d±øÂbe{±ø}tê±øÓ","MS",50
+"a-going down","NY15A","447","E","N"," "," ","∞go∫{πΩ}±øΩn$d·πn","MS",50
+"dying down","NY15B","448","E","N"," "," ","ıdaæ±ø±øÓ$Âdaπn","MS",51
+"dying out","NY16A","449","E","N"," "," ","dµ´±ø∞n$µ´ºπt","MS",52
+"ceasing","NY16A","449","V","N"," "," ","si∫s∞n","MS",52
+"going down","NY16B","450","E","N"," "," ","goπ±øÓ$da´πn","MS",53
+"calming","NY17A","451(*)","V","N"," "," ","k·{∞}Ïm±øÌ","MS",54
+"diminishing","NY17A","451(*)","V","Y"," ","AUX","d∞Âm±n±øÛ±øÓ","MS",54
+"dying down","NY17A","451(*)","E","Y"," ","AUX","ıd•æ±ø∞n$Âda´æπn","MS",54
+"dying down","NY17B","452","E","N"," "," ","d•±ø±øÓ$daπn","MS",55
+"going down","NY18A","453","E","N"," "," ","ıgo∫{π}±øn$Âda´æπn","MS",56
+"going down","NY18B","454","E","N"," "," ","ıgoπ±øÓ$Âdaæπn","MS",57
+"going down","NY18C!","455!","E","N"," "," ","goπ±øÓ$daæπn","MS",58
+"going down","NY19","456","E","N"," "," ","ıgoπ±øÓ$Âdaæπn","MS",59
+"going down","NY20A","457","E","N"," "," ","goπ±øÓ$dµ´πn","MS",60
+"going down","NY20B","458","E","N"," "," ","goπ±øÓ$da´πn","MS",61
+"moderating down","NY21","459","E","N"," "," ","ımµd¥ıe±øtê±øÓ$Âdaπn","MS",62
+"going down","NY22","460","E","N"," "," ","goπ±øÓ$da´πn","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"died down","NY23B","462a","E","N"," "," ","Âd•∫±æd$ıdµ∫πn","MS",65
+"ceasing","NY23B","462a","V","N"," "," ","siΩis±øºn","MS",65
+"died down","NY23B","462a","E","N"," "," ","Âd•Ω±øºd$ıdµ∫πn","MS",65
+"dying down","NY23C","462b","E","N"," "," ","ıdµ´º∫±æ±øºÓ$Âdµ´∫πn","MS",66
+"going down","NY24A","463","E","N"," "," ","ıgoπ±øΩn$Âd≤Ωπn","MS",67
+"going down","NY24B!","464!","E","N"," "," ","goΩπ±øÓ$da´æπn","MS",68
+"quieted down","NY25A","465","E","N","it's)"," ","Âkwµ´º±ø∞tê±øºd$ıd≤æ∫πn","MS",69
+"going down","NY25B","466","E","N"," "," ","g∑´±øÓ$Âdµ∫πn","MS",70
+"going down","NY26A","467","E","N"," "," ","goºπº±øn$Âd·Ω∫πn","MS",71
+"going down","NY26B","468","E","N"," "," ","ıgoΩºπº±øºÓ$Âd•´πn","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"went down with the sun","NY27A","470","E","N"," "," ","Âw±Ωnt$ıd≤Ωæ∫πn$w±ø‰$‰∞$Âs∏Ωn","MS",74
+"NR","NY27B","471"," ","N"," "," "," ","MS",75
+"going down","NY27C","472","E","N"," "," ","ıgoΩº∫π±øn$Âdµ´º∫πn","MS",76
+"dying down","NY27C","472","E","N"," "," ","ıdµ∫±ø±øºn$Âdµ∫πn","MS",76
+"dying down","NY28A","473a","E","N"," "," ","dµ∫±ø±ø›Ó$Âdµ∫πn","MS",77
+"gone down with the sun","NY28B","473b(*)","E","N","it's)"," ","ıg∑Ω∫n$Âd·Ωæ∫πn$w±øº‰$‰∞$Âs∏Ωn","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"going down","NY29A","474a","E","N"," "," ","Âgoº∫πº±øºn$ıd•´∫πn","MS",80
+"died down","NY29B","474b","E","N"," "," ","ıd•∫±æd$Âdµ∫πn","MS",81
+"letting up","NY29C","474c","E","N"," "," ","l≤'tn$∏ºp","MS",82
+"easing up","NY29C","474c","E","N"," "," ","Âi∫{j}z±øºn$ı∏ºp","MS",82
+"let up","NY29C","474c","E","N"," "," ","Âl≤t$ı∏Ωp","MS",82
+"slowing down","NY30A","475a","E","N"," "," ","Âslèoº{πº}±øºÓ$ıd≤Ωæ∫πn","MS",83
+"dying down","NY30A","475a","E","N"," "," ","d•∫±ø±øºÓ$d≤Ωæ∫πn","MS",83
+"going down","NY30B","475b","E","N"," "," ","ıgoº{πº}±øºÓ$Âdµ´º∫πn","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"going down","NY30E","475e","E","N"," "," ","ıgoøπº±øÓ$Âd•∫πn","MS",87
+"going down","NY31A","478a","E","N"," "," ","ıgoøπº±øºÓ$Âd≤Ωæ∫πn","MS",88
+"dying out","NY31B","478b","E","N"," "," ","ıd•∫±ø±øºÓ$Â≥πt","MS",89
+"went down with the sun","NY31B","478b","E","N"," "," ","ıw±Ωnt$d≥Ωπn$w±ø‰∞$Âs∏´n","MS",89
+"declining","NY32A","479a","V","N"," "," ","d±øÂk≈•∫±øn±øÓ","MS",90
+"ceasing down","NY32A","479a","E","N"," "," ","ısiΩis±øÓ$Âd•∫πn","MS",90
+"gone down","NY32B","479b","E","N","it's)"," ","ıg∑Ω∫∑n$Âda´æ∫∞ón","MS",91
+"NR","NY33A","480"," ","N"," "," "," ","MS",92
+"going down","NY33B","481","E","N"," "," ","Âgoº∫{πº}±øÓ$ıdµ∫πn","MS",93
+"going down","NY33C","482","E","N"," "," ","ıgoº{πº}±øºÓ$Âdµ∫πn","MS",94
+"going down","NY34A","483","E","N"," "," ","ıgoøæπº±øºÓ$Âdµ´ºπn","MS",95
+"NR","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"decreasing","NY34D!","486!","V","N"," "," ","diΩiÂkráiΩis±øºÓ","MS",98
+"slackened","NY34D!","486!","V","N"," "," ","slè·k∞´nd","MS",98
+"going down","NY35A","487","E","N"," "," ","go{π}±øΩn$d·æπn","MS",99
+"dying down","NY35B","488","E","N"," "," ","ıd•Ω±ø´±øÓ$Âdaπn","MS",100
+"dying down","NY35C!","489!","E","N"," "," ","dµ´º±ø±øÓ$daπn","MS",101
+"receding","NY35C!","489!","V","N"," "," ","r±ø´si∫d±øÓ","MS",101
+"going down","NY36A","491","E","N"," "," ","go{π}±øn$d≤æπn","MS",102
+"going down","NY36B","492","E","N"," "," ","go{π}±øΩn$d·›´π˛´n","MS",103
+"calming down","NY37A","493","E","N"," "," ","k·∫m±øÓ$d·Ωæπn","MS",104
+"going down","NY37B","494","E","N"," "," ","go{π}±øΩn$d·Ωπn","MS",105
+"dying down","NY37C!","495!","E","N"," "," ","ıda´æ±ø±øÓ$Âdaπn","MS",106
+"debating","NY38A","497(*)","V","N","confused","SIC","d±ø´ºÂbe±øtê±øÓ","MS",107
+"quieting down","NY38A","497(*)","E","N"," "," ","kw•±ø±øΩtê±ø›n$d≤›Ωæπn","MS",107
+"going down","NY38B","498","E","N"," "," ","go{π}±øÓ$da´πn","MS",108
+"going down","NY38C"," ","E","N"," "," ","go{π}±øÓ$daπn","MS",109
+"quieting down","NY39A","499","E","N"," "," ","kwa´æ±ø±øΩt±øΩn$da´πn","MS",110
+"calming down","NY39B","500","E","N"," "," ","kµ∫m±øΩn$d≤πn","MS",111
+"quieting down","NY39B","500","E","N"," "," ","kw•Ω±ø±øΩt±øΩn$d≤πn","MS",111
+"going down","NY40A","501","E","N"," "," ","ıgo{π}±øΩn$Âda´πn","MS",112
+"going down","NY40B","502","E","N"," "," ","ıgo{π}±øÓ$Âda´πn","MS",113
+"dying down","NY41","504","E","N"," "," ","ıd•±ø±øÓ$Âdaπn","MS",114
+"going down","NY42A","505","E","N"," "," ","go{π}±øÓ$d·πn","MS",115
+"going down","NY42B","506","E","N"," "," ","go{π}±øΩn$da´πn","MS",116
+"going down","NY43A","507","E","N"," "," ","go{π}±øΩn$d≤πn","MS",117
+"going down","NY43B","507b","E","N"," "," ","ıgo{π}±øÓ$Âdaπn","MS",118
+"dying down","NY43C!","508!","E","N"," "," ","daæ±ø±øÓ$daπn","MS",119
+"quieting down","NY44A","511","E","N"," "," ","kw•±ø´±ø›tê±øΩn$d≤πn","MS",120
+"going down","NY44B","512","E","N"," "," ","go{π}±øÓ$d·πn","MS",121
+"easing up","NY45A","513a","E","N"," "," ","iΩizn$∏ºp","MS",122
+"letting up","NY45A","513a","E","N"," "," ","Âl≤'tn$ı∏ºp","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"lessening","NY45D!","513d!","V","N"," "," ","ÂÏ≤snñ±øÓ","MS",125
+"calming down","NY45D!","513d!","E","N"," "," ","Âkµ{Ï}m±øÓ$dµ∫πn","MS",125
+"dying down","NY45D!","513d!","E","N"," "," ","Âd•Ω±ø±øºÓ$ıdµ∫πn","MS",125
+"quieting","NY46A","515a","V","N"," "," ","Âkwµ´±ø∞›'tn","MS",126
+"quieted down","NY46A","515a","E","N"," ","CNV","Âkwµ´±øtê±ød$ıdµπn","MS",126
+"let up","NY46B","515b","E","N","it's)"," ","l≤tê$∞´æ∫p","MS",127
+"falling","NY46C","515c","V","N"," "," ","f∑Ω∫Ï±øºn","MS",128
+"letting up","NY47A","517(*)","E","N"," "," ","ıl≤'tn$Â∏ºp","MS",129
+"going down","NY47A","517(*)","E","N"," "," ","goΩºπº±øÓ$Âd•∫πn","MS",129
+"going down","NY47A","517(*)","E","Y"," ","AUX","ıgo∫{π}±øÓ$Âdaπn","MS",129
+"going down","NY47A","517(*)","E","Y"," ","AUX","ıgo∫{π}±øÓ$Âdaπn","MS",129
+"dying out","NY47B","518","E","N"," "," ","d•±ø±øÓ$a´æπt","MS",130
+"going down with the sun","NY48A","519a","E","N"," "," ","ÂgoΩºπº±øn$ıd•ºoºn$w±ø‰$‰∞$Âs∏´n","MS",131
+"dying down","NY48A","519a","E","N"," "," ","daæ±ø±ø›n$Âd•ºon","MS",131
+"NR","NY48B","519b"," ","N"," "," "," ","MS",132
+"going down","NY48C","519c","E","N"," "," ","ÂgoΩºπ±øn$ıd·Ωæπ›n","MS",133
+"diminishing","NY48C","519c","V","N","""if I'm feeling pretty good¢"," ","d∞Âm±æn±øÛ±øºÓ","MS",133
+"going down","NY48C","519c","E","N"," "," ","goΩºπ±øn$dµoºn","MS",133
+"going down","NY48D","519d","E","N"," "," ","ıgoΩºπº±øn$Âdµ∫oºn","MS",134
+"NR","NY49A","520"," ","N"," "," "," ","MS",135
+"going down","NY49B","521","E","N"," "," ","go{π}±øÓ$Âd·πn","MS",136
+"declined","NY49C","522a","V","N"," "," ","d±ø´Â{k}Ïaæ±ønd","MS",137
+"going down","NY49D","522b","E","N"," "," ","Âgo{π}±øn$ıd•πn","MS",138
+"gone down","NY50A","523","E","N","it's)"," ","Âg∑Ω∫n$ıdaæ∫oºn","MS",139
+"diminishing","NY50B","524","V","N"," "," ","d±øÂm±æn±øÛ±øºÓ","MS",140
+"quieting down","NY50B","524","E","N"," "," ","Âkwè•º±ø∞´tê±øÓ$ıdµ´∫oºn","MS",140
+"going down","NY51A","525a","E","N"," "," ","ıg{w}oΩºπº±øºÓ$Âd≤æ∫πn","MS",141
+"going down","NY51B","525b","E","N"," "," ","ıgoøπº±øºÓ$Âda´æ∫oºn","MS",142
+"decreasing","NY51B","525b","V","N"," "," ","ÂdiΩiıkÚáiΩis±øºÓ","MS",142
+"NR","NY51C","525c"," ","N"," "," "," ","MS",143
+"NR","NY51D","525d"," ","N"," "," "," ","MS",144
+"NR","NY51E!","525e!"," ","N"," "," "," ","MS",145
+"going down","NY52A","527","E","N"," "," ","ıgoΩºπº±øºn$Âd≤æ∫π›n","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"dying down","NY52C","528b","E","N"," "," ","Âd•±ø±øÓ$ıda´πn","MS",148
+"going down","NY53A","529","E","N"," "," ","ıgoΩºπ›|nñ$Âdµ´∫πn","MS",149
+"goes down","NY53B!","530!","E","N"," "," ","ıgoΩºπºz$Âd·æπn","MS",150
+"diminishing","NY54A","531","V","N"," "," ","d±ø›Âm±n±øÛ±øÓ","MS",151
+"decreasing","NY54B","532","V","N"," "," ","Âdi{i´}ıkri{i´}s±øÓ","MS",152
+"letting up","NY55A","533","E","N"," "," ","ıl≤æÒ±øÓ$Â∏ºp","MS",153
+"calm","NY55A","533","V","N"," "," ","kµ∫m","MS",153
+"going down","NY55B","534","E","N"," "," ","ıgoΩº∫πº±øºÓ$Âd·´∫πn","MS",154
+"dying down","NY56A","535","E","N"," "," ","ıd•´±ø{j}n$Âd≥æ∫πn","MS",155
+"going down","NY56B","536","E","N"," "," ","ıgoΩº{π}±øÓ$Âdµ∫πn","MS",156
+"let up","NY57A","537a","E","N","it's)"," ","Âl≤t$ı∏Ωºp","MS",157
+"going down","NY57B","537b","E","N"," ","CNV","ıgoºπº±øn$Âdµ∫πn","MS",158
+"going down","NY57C!","537c!","E","N"," "," ","ıgoΩºπº±ø›Ó$Âd•Ω∫πn","MS",159
+"getting milder","NY58A","539a","E","N"," "," ","ıgà±´tê±øºÓ$Âm•Ω∫±øÏd¥´","MS",160
+"going down","NY58B","539b","E","N"," "," ","ıgoºπ±øn$Âd·Ωæ∫πn","MS",161
+"NR","NY58C","539c"," ","N"," "," "," ","MS",162
+"dropped","NY58D!","539d!","V","N"," "," ","déÚóáµæpt","MS",163
+"dying down","NY58E!","539e!","E","N"," "," ","Âdµ´±ø±øºÓ$ıdµ´∫πn","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"going down","NY59A","543","E","N"," "," ","ıgoΩºπº±ø›Ó$Âdµ∫πn","MS",166
+"going down","NY59B","544","E","N"," "," ","ıgo{π}±øΩn$Âdµ´πn","MS",167
+"calmed down","NY60A","545","E","N"," "," ","Âkµ∫Ïmd$ıd•∫πn","MS",168
+"dying away","NY60B!","546!","E","N"," "," ","Âd•±ø±øn$∞ıwe∫{±ø}","MS",169
+"going down","NY61A","547","E","N"," "," ","ıgoº{πº}±øÓ$Âdµ´º∫πn","MS",170
+"decreasing","NY61A","547","V","N"," "," ","Âdi∫ıkrái∫s±øºÓ","MS",170
+"letting up","NY61A","547","E","N","wind, rain, snow","CNV","ıl≤'tn$Â∏p","MS",170
+"diminishing","NY61B","548","V","N"," "," ","d±øÂm±æn∞´Û±øºn","MS",171
+"dying down","NY61B","548","E","N"," "," ","Âdµ´∫±ø±øºÓ$ıdµ˛´º∫π˛n","MS",171
+"quieted down","NY61B","548","E","N"," "," ","Âkw∞±ø∞›tê∞´d$ıdµ´∫πn","MS",171
+"going down","NY62A","551a","E","N"," "," ","ıgoº{π}nñ$Âdµ´º∫πn","MS",172
+"moderated","NY62A","551a","V","N"," "," ","Âmµd¥ıeΩ∫±øtê±øºd","MS",172
+"stopped blowing","NY62A","551a","E","N"," "," ","ıstµp$Âb≈oº∫π|nñ","MS",172
+"calming down","NY62B","551b","E","N"," "," ","Âkµ∫m∞´n$ıdµ∫πn","MS",173
+"gone down","NY62B","551b","E","N"," "," ","Âgµ∫n$ıdµ´∫πn","MS",173
+"going away","NY62C","551c","E","N"," "," ","ıgoºπ›±øÓ$∞ÂweΩ±ø","MS",174
+"letting up","NY62C","551c","E","N"," "," ","ıl≤´tê±øÓ$Â∏´ºp","MS",174
+"going down","NY62D!","551d!","E","N"," "," ","ıgoºπ±øÓ$Âdµ∫π›n","MS",175
+"going down","NY63A","556a","E","N"," "," ","ÂgoΩº∫πó´±øºÓ$ıd·æ∫πn","MS",176
+"letting up","NY63A","556a","E","N"," "," ","Âl≤´tê±øºÓ$ı∏ºp","MS",176
+"dying down","NY63B","556b","E","N"," "," ","Âdµ´º∫±ø±ø›Ó$ıd·˛æπ˛{n}","MS",177
+"dying down","NY63C","556c","E","N"," "," ","d•›±ø›´±øΩn$dµ›πn","MS",178
+"died down","NY63D!","556d!","E","N"," "," ","Âd•±ød$ıdµ´∫πn","MS",179
+"dropped","NY64A","557a","V","N"," "," ","déÚµpt","MS",180
+"died down","NY64A","557a","E","N"," "," ","ıd∞±øºd$Âd∞Ω∫πn","MS",180
+"going down","NY64B","557b","E","N","""went down with the sun¢"," ","ıgoΩ{πº}±øÓ$Âdµ∫πn","MS",181
+"went down with the sun","NY64B","557b","E","N"," "," ","ıw≤´nt$Âdµ∫πn$w±øº‰∞$Âs∏˛Ω∫{n}","MS",181
+"stopping","NY64C!","557c!","V","N"," "," ","Âstµp±øºÓ","MS",182
+"let up","NY64C!","557c!","E","N"," "," ","Âl≤t$ı∏Ωp","MS",182
+"dying down","NJ1A","1","E","N"," "," ","dµ±ø∞n$da∫πn","MS",183
+"lulling","NJ1A","1","V","N"," "," ","Ï∏æÏ∞n","MS",183
+"dying out","NJ1B","2","E","N"," "," ","dµ±ø±øÓ$·πt","MS",184
+"dying out","NJ2A","3(*)","E","N"," "," ","dµ±ø∞n$a´πt","MS",185
+"a-dropping out","NJ2A","3(*)","E","N","after a gale"," ","∞dÚµæp∞n$a´πt","MS",185
+"calming down","NJ2A","3(*)","E","N"," "," ","k·∫m∞n$daπn","MS",185
+"dying out","NJ2B","4","E","N"," "," ","dµ∫±øΩ∞n$·Ωπt","MS",186
+"calming down","NJ3A","5","E","N"," "," ","kà·∫m∞n$da´∫πn","MS",187
+"dying down","NJ3B","6","E","N"," "," ","dµ≤´±øÓ$d·Ω∫πΩn","MS",188
+"calming down","NJ4A","7","E","N"," "," ","k·∫{∞}m∞n$da´∫πn","MS",189
+"going down","NJ4B","8","E","N"," "," ","goΩºπ∞n$da´πn","MS",190
+"calming down","NJ4B","8","E","N"," "," ","kµæ∫m∞n$da´πn","MS",190
+"dying down","NJ5A","9","E","N"," "," ","dµ∫±øΩ∞n$d·πn","MS",191
+"calming down","NJ5B","10","E","N"," "," ","kµæ∫m∞n$d·∫πn","MS",192
+"calming down","NJ5B","10","E","N"," "," ","k·∫m∞n$d·∫πn","MS",192
+"dying out","NJ6A","11","E","N"," "," ","dµ±ø±øÓ$·Ωπt","MS",193
+"moderating","NJ6B","12","V","N"," "," ","mµæd∞r≤±øtn","MS",194
+"dying down","NJ6B","12","E","N"," "," ","dµ±ø∞n$d·Ωπn","MS",194
+"calming down","NJ7A","17","E","N"," "," ","kµæm±øÓ$d·´æπn","MS",195
+"dying down","NJ7B!","18!","E","N"," "," ","dµ∫±ø±øÓ$d·Ω∫πn","MS",196
+"dying out","NJ8A","19","E","N"," "," ","dµº∫±ø∞n$a´πt","MS",197
+"dropping","NJ8B","20","V","N"," "," ","drµ∫p±øÓ","MS",198
+"falling","NJ8B","20","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",198
+"going down","NJ9A","21","E","N"," "," ","g¿æπ∞n$da´æ∫πn","MS",199
+"letting up","NJ9B","22","E","N"," "," ","ıl≤Ò±øÓ$Â∏p","MS",200
+"calming down","NJ10A","24b","E","N"," "," ","k·∫{∞}m∞n$Âd·Ωπn","MS",201
+"calming down","NJ10B","23","E","N"," "," ","kµ´æ∫m∞n$d·π˛n","MS",202
+"dying down","NJ10C","24","E","N"," "," ","Âdµº±ø±øÓ$ıd·Ωπn","MS",203
+"dying down","NJ10D!","24c!","E","N"," "," ","ıdµº±ø|±øÓ$Âda´πn","MS",204
+"calming down","NJ11A","25","E","N"," "," ","k·Ωæm∞n$d·πn","MS",205
+"dying down","NJ11B","26a","E","N"," "," ","dµ±ø±øÓ$d·πn","MS",206
+"dying down","NJ11C","26b","E","N"," "," ","dµ´±ø∞n$d·πø˛Ωn","MS",207
+"going down","NJ12A","27","E","N"," "," ","ıgoº{π}±øÓ$Âd·∫πn","MS",208
+"a-falling","NJ12B","28","V","N"," "," ","∞Âf∂´∫Ï±øÓ","MS",209
+"dropping","NJ13A","29","V","N"," "," ","draæ∫p±øÓ","MS",210
+"dropping","NJ13A","29","V","N"," "," ","drµº∫p±øÓ","MS",210
+"falling","NJ13B","30","V","N"," "," ","f∂∫Ï±øÓ","MS",211
+"falling","NJ14A","31","V","N"," "," ","f∂∫Ï±øÓ","MS",212
+"falling","NJ14B","32","V","N"," "," ","f∂´∫Ï±øÓ","MS",213
+"calming down","NJ15A","33","E","N"," "," ","kµm±øÓ$d·Ωπøn","MS",214
+"falling","NJ15B","34","V","N"," "," ","f∂´∫Ï±øÓ","MS",215
+"letting up","NJ15B","34","E","N"," "," ","l≤Ò±øÓ$∏p","MS",215
+"dropping","NJ16A","35","V","N"," "," ","drµp±øÓ","MS",216
+"dying down","NJ16B","36","E","N"," "," ","ıdµ∫±ø±øÓ$Âd·Ωπn","MS",217
+"waning","NJ17A","37","V","N","gale"," ","w≤±øn±øÓ","MS",218
+"easing","NJ17A","37","V","N","wind"," ","iΩiz±øÓ","MS",218
+"falling","NJ17A","37","V","N","wind"," ","f∂∫Ï±øÓ","MS",218
+"going down","NJ17B","38","E","N"," "," ","ıgoΩºπ±øÓ$Âd·πn","MS",219
+"abating","NJ18A","41","V","N"," "," ","∞beΩ±øt`±øÓ","MS",220
+"dying down","NJ18B","42","E","N"," "," ","daæ±ø±øÓ$daπn","MS",221
+"subsiding","NJ18C!","43!","V","N"," "," ","s∏ºbÂsaæ±ød±øÓ","MS",222
+"abating","NJ18D!","44!","V","N"," "," ","∞b≤´±øtê±øÓ","MS",223
+"calming down","NJ19A","45","E","N"," "," ","kµ∫m±øÓ$d·πn","MS",224
+"dying down","NJ19B!","46!","E","N"," "," ","da±ø|±øÓ$daπn","MS",225
+"goes lower","NJ20A","47","E","N"," "," ","go{π}z$lo{π}∞{r}","MS",226
+"laying","NJ20B","47b","V","N"," "," ","Âle±ø±øÓ","MS",227
+"dying down","NJ21A","48","E","N"," "," ","ıdèµº±ø±øÓ$Âdèaπn","MS",228
+"dying down","NJ21B","49","E","N"," "," ","dèµ±ø∞n$Âdèa´πn","MS",229
+"breaking away","PA1A","51","E","N"," "," ","ıbreΩæ∫k∞n$∞ÂweΩæ∫","MS",230
+"falling off","PA1A","51","E","N"," "," ","f∑Ω∫Ï±øÓ$∑Ω∫f","MS",230
+"dying down","PA1B","52","E","N"," "," ","ıdµ±ø|±øÓ$Âdè·πΩn","MS",231
+"dying down","PA1C","53","E","N"," "," ","dµ±ø|±øÓ$d·Ωπn","MS",232
+"dying down","PA1D","54","E","N"," "," ","dµº±ø|∞n$d·Ω∫πΩn","MS",233
+"dying down","PA1E!","55!","E","N"," "," ","dµ±ø|±øÓ$daæπn","MS",234
+"dropping","PA1F!","56!","V","N"," "," ","drµp±øÓ","MS",235
+"dropping","PA1G!","57!","V","N"," "," ","dÚµæp±øÓ","MS",236
+"subsiding","PA1H!","58!","V","N"," "," ","s∞bsµ∫≤d±øÓ","MS",237
+"falling","PA1H!","58!","V","N"," "," ","f∑∫Ï±øÓ","MS",237
+"dying down","PA1H!","58!","E","N"," "," ","dµ±øΩ|±øÓ$da∫πn","MS",237
+"settling down","PA2A","59","E","N"," "," ","s≤'tl∞n$d·∫π˛n","MS",238
+"passing away","PA2A","59","E","N"," "," ","p·∫{∞}s∞n$∞w≤±ø","MS",238
+"falling","PA2B","60","V","N"," "," ","f∑∫Ï±øÓ","MS",239
+"going down","PA3A","61","E","N"," "," ","ıgoΩº{π}±øÓ$Âd·∫πΩn","MS",240
+"calming","PA3B","62","V","N"," "," ","kµæ∫m∞n","MS",241
+"dying down","PA3C","62b","E","N"," "," ","ıda±øÓ$Âda´πn","MS",242
+"going down","PA4A","63","E","N"," "," ","go{π}±øÓ$d·∫π˛Ωn","MS",243
+"dropping","PA4B!","64!","V","N"," "," ","dÚµp±øÓ","MS",244
+"falling","PA5A","65(*)","V","N"," "," ","f∑∫l±øÓ","MS",245
+"dropping","PA5A","65(*)","V","N"," "," ","déÚµp∞n","MS",245
+"calming down","PA5A","65(*)","E","N"," "," ","k·∫m±øÓ$da´πn","MS",245
+"dying out","PA5A","65(*)","E","Y"," ","AUX","dµ∫±øΩ|±øÓ$aπt","MS",245
+"falling","PA5B","65b","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",246
+"falling","PA5B","65b","V","N"," "," ","f∂´∫Ï±øÓ","MS",246
+"dropping","PA5C","66","V","N"," "," ","déÚµæ∫p±øÓ","MS",247
+"falling","PA5D","67","V","N"," "," ","f∑Ω∫l∞n","MS",248
+"is fell","PA5D","67","E","N","past participle"," ","z$f≤{∞}Ï","MS",248
+"ceasing","PA5E!","68!","V","N"," "," ","siΩis∞n","MS",249
+"stopping","PA6A","69","V","N"," "," ","stµp±Ó","MS",250
+"dying down","PA6B","71","E","N"," "," ","ıda±ø±Ó$Âdaπn","MS",251
+"lowering itself","PA6B","71","E","N"," "," ","lo{∞}r±Ó$±ts≤lf","MS",251
+"letting up","PA6C","71b","E","N"," "," ","l≤tê±Ó$∏p","MS",252
+"dying out","PA6D!","72!","E","N"," "," ","da±ø|±øÓ$a∫πΩt","MS",253
+"falling","PA7A","73","V","N"," "," ","f∑Ω∫l±øÓ","MS",254
+"calming down","PA7B","74","E","N"," "," ","kµæm±øÓ$d·Ω∫πΩºn","MS",255
+"ceasing","PA7C","75","V","N"," "," ","si∫z±øÓ","MS",256
+"dying down","PA7D!","76!","E","N"," "," ","ıdèaæ±ø|±øΩÓ$Âd·∫πΩn","MS",257
+"calming down","PA8A","77","E","N"," "," ","k·∫m∞n$d·πøΩn","MS",258
+"falling","PA8B","78","V","N"," "," ","f∂´∫l±øÓ","MS",259
+"laying itself","PA8C","79","E","N"," "," ","le{±øΩ}±øÓ$±ts≤lf","MS",260
+"dying down","PA8D!","80!","E","N"," "," ","da∫±ø|±øÓ$d·Ω∫πΩºn","MS",261
+"getting less","PA9A","83","E","N"," "," ","g≤tn$Âl≤s","MS",262
+"stopping","PA9B","83b","V","N"," "," ","stµæ∫p∞n","MS",263
+"going down","PA9C!","84!","E","N"," "," ","ıgoΩπ±øÓ$Âd·∫πΩn","MS",264
+"stopping","PA10","87","V","N"," "," ","stµp±Ó","MS",265
+"falling","PA11A","89","V","N"," "," ","f∂´∫Ï±øÓ","MS",266
+"falling","PA11B","90(*)","V","N"," "," ","f∂´∫Ï∞n","MS",267
+"falling","PA11B","90(*)","V","Y"," ","AUX","f∑Ω∫Ï±øÓ","MS",267
+"falling","PA12A","91","V","N"," "," ","f∑Ω:Ï±øÓ","MS",268
+"falling","PA12B","92","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",269
+"a-falling","PA13A","93","V","N"," "," ","∞f∂´∫Ï∞n","MS",270
+"falling","PA13B","94","V","N"," "," ","f∂´:Ï±øÓ","MS",271
+"stopping off","PA14A","95(*)","E","N"," "," ","stµ›æpî±øÓ$∂∫f","MS",272
+"dying down","PA14B","96","E","N"," "," ","dµ´±ø±øÓ$daπn","MS",273
+"going down","PA14C"," ","E","N"," "," ","gèo∫∞n$daπn","MS",274
+"falling","PA15A","99","V","N"," "," ","f∂´∫Ï±øÓ","MS",275
+"falling","PA15B","99b","V","N"," "," ","f∂´∫Ï±øÓ","MS",276
+"going down","PA15C!","100!","E","N"," "," ","go{π}±øÓ$daπn","MS",277
+"dropping","PA15C!","100!","V","N"," "," ","dÚµp±øÓ","MS",277
+"stopping","PA16A","101","V","N"," "," ","stµp±øÓ","MS",278
+"dying down","PA16B","102","E","N"," "," ","dµº±ø|±øÓ$daπn","MS",279
+"calming down","PA16C","103","E","N"," "," ","kµæ∫m±øÓ$Âdaπn","MS",280
+"going down","PA17A","105","E","N"," "," ","gèo∫±øÓ$dèaπn","MS",281
+"dying down","PA17B","106","E","N"," "," ","dµ±ø|±øÓ$daæ∫πΩn","MS",282
+"laying","PA18A","107","V","N"," "," ","leΩ±ø|±øÓ","MS",283
+"dying down","PA18B!","108!","E","N"," "," ","dµº±ø|±øÓ$daπn","MS",284
+"laying","PA19A","113","V","N"," "," ","leΩ∫{±øΩ}∞n","MS",285
+"going down","PA19B","114","E","N"," "," ","ıgoΩπ±øÓ$Âda´πn","MS",286
+"laying","PA20A","115","V","N"," "," ","leΩ±ø|∞n","MS",287
+"laying","PA20B","116","V","N"," "," ","leΩ∫{±øΩ}|±øÓ","MS",288
+"moderating down","PA21A","117","E","N"," "," ","ımµd∞reΩæ{±ø}tn$Âda´æπn","MS",289
+"calming down","PA21B","118","E","N"," "," ","kµ∫m±øΩn$daπn","MS",290
+"settling","PA21B","118","V","N"," "," ","s≤têÏ±øÓ","MS",290
+"going down","PA22A","119","E","N"," "," ","go{π}±øÓ$da´πn","MS",291
+"dying down","PA22B","120","E","N"," "," ","ıd•Ω±ø|±øÓ$Âda´πn","MS",292
+"going down","PA23A","121","E","N"," "," ","go{π}±øΩn$da´πn","MS",293
+"subsiding","PA23A","121","V","N"," "," ","s∏Ωbsa´æ±ød±øÓ","MS",293
+"going down","PA23B","122","E","N"," "," ","goπ±øΩn$d·Ωπn","MS",294
+"letting up","PA24A","123","E","N"," "," ","ıl≤Ò±øÓ$Â∏p","MS",295
+"going down","PA24B","124","E","N"," "," ","ıgoπ±øÓ$Âd·π˛n","MS",296
+"going down","PA25A","125","E","N"," "," ","go{π}±ø›Ωæn$daπn","MS",297
+"dropping","PA25A","125","V","N"," "," ","drµ∫p±øΩæn","MS",297
+"going down","PA25B","126","E","N"," "," ","ıgo{π}±øÓ$Âda∫πn","MS",298
+"calming","PA26A","127","V","N"," "," ","kµ∫m±øΩn","MS",299
+"calming down","PA26B","128","E","N"," "," ","kµ∫m±øÓ$d·Ωπ›n","MS",300
+"going down","PA27A","131","E","N"," "," ","ıgoΩº{π}±øΩn$Âd·›Ωæπn","MS",301
+"going down","PA27B","132","E","N"," "," ","go{π}±øΩn$d·›Ωπn","MS",302
+"calming down","PA28A","135","E","N"," "," ","k·∫m∞n$daπn","MS",303
+"dying down","PA28B!","136!","E","N"," "," ","da±ø±øÓ$daπn","MS",304
+"laying itself","PA29A","139(*)","E","N"," "," ","le{±ø}|±øÓ$±ts≤Ïf","MS",305
+"going down","PA29A","139(*)","E","Y"," ","AUX","go{π}∞n$daπn","MS",305
+"falling","PA29B","140","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",306
+"falling","PA29B","140","V","N"," "," ","f∂´∫Ï±øÓ","MS",306
+"going down","PA30A","143","E","N"," "," ","go{π}±øΩn$d·πn","MS",307
+"going down","PA30B","144","E","N"," "," ","ıgo{π}±øÓ$Âdaπn","MS",308
+"going down","PA31A","145","E","N"," "," ","ıgo{π}±øÓ$Âda´æπn","MS",309
+"going down","PA31B","146","E","N"," "," ","goΩπ±øÓ$Âda´πn","MS",310
+"falling","PA32A","147","V","N"," "," ","f∑Ω∫{∞}Ï±øÓ","MS",311
+"falling","PA32B","148","V","N"," "," ","f∂´∫Ï±øÓ","MS",312
+"falling","PA33A","151","V","N"," "," ","f∑Ωl±øÓ","MS",313
+"leaving up","PA33A","151","E","N"," "," ","ıliΩiv±øÓ$Â∏º{∞}p","MS",313
+"falling","PA33B","152","V","N"," "," ","f∂∫l±øÓ","MS",314
+"falling","PA34A","155","V","N"," "," ","f∂´∫Ï∞n","MS",315
+"falling","PA34B","156","V","N"," "," ","f∂´∫Ï±øÓ","MS",316
+"falling","PA34C!","155b!","V","N"," "," ","f∂´∫Ï±øÓ","MS",317
+"falling","PA35A","157","V","N"," "," ","f∑Ω∫Ï∞n","MS",318
+"ceasing","PA35A","157","V","N"," "," ","siΩæis∞n","MS",318
+"falling","PA35B","158(*)","V","N"," "," ","f∂´∫Ï±øÓ","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"calming down","PA36A","159","E","N"," "," ","kﬁº∫m±øÓ$d·Ω∫πn","MS",321
+"calming down","PA36A","159","E","N"," "," ","k·∫m∞n$d·Ω∫πn","MS",321
+"easing up","PA36B","160","E","N"," "," ","ıiΩiz∞n$Â∏p","MS",322
+"falling","PA36B","160","V","N"," "," ","f∑Ω:Ï∞n","MS",322
+"falling","PA37A","161(*)","V","N"," "," ","f∂´∫l±øÓ","MS",323
+"calming","PA37B","162","V","N"," "," ","kﬁ∫m∞n","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"abating","PA38A","163","V","N"," "," ","∞be±øtn","MS",326
+"falling","PA38A","163","V","N"," "," ","f∂´∫Ï∞n","MS",326
+"calming down","PA38B","164","E","N"," "," ","k∂îºm±øÓ$daπn","MS",327
+"going down","PA39A","165","E","N"," "," ","ıgo{π}±øÓ$Âdaπn","MS",328
+"falling","PA39B","166","V","N"," "," ","f∂´∫Ï∞n","MS",329
+"is fell","PA39B","166","E","N","past participle"," ","z$f≤{∞}Ï","MS",329
+"falling","PA40A","167","V","N"," "," ","f∂´∫Ï±øÓ","MS",330
+"falling","PA40B","168","V","N"," "," ","f∑∫Ï±øÓ","MS",331
+"falling","PA41A","171","V","N"," "," ","f∑Ω∫l±øÓ","MS",332
+"abating","PA41B","172","V","N"," "," ","∞beΩ±øÒ±øÓ","MS",333
+"laying","PA41B","172","V","N"," "," ","ÏeΩ±ø|∞n","MS",333
+"falling","PA42A","175","V","N"," "," ","f∂´∫Ï∞n","MS",334
+"falling","PA42B","176","V","N"," "," ","f∂´∫Ï∞n","MS",335
+"laying","PA43A","177","V","N"," "," ","ÏeΩ±ø|∞n","MS",336
+"ceasing","PA43A","177","V","N"," "," ","siΩis∞n","MS",336
+"falling","PA43B","178","V","N"," "," ","f∑∫Ï±øÓ","MS",337
+"a-laying","PA44A","179","V","N"," "," ","∞ÂÏ≤´±ø∞n","MS",338
+"ceasing","PA44B","180","V","N"," "," ","siΩis±øÓ","MS",339
+"letting up","PA44B","180","E","N"," "," ","l≤Ò±øÓ$∏p","MS",339
+"laying","PA44B","180","V","N"," "," ","ÏeΩ±ø±øÓ","MS",339
+"laying","PA45A","181","V","N"," "," ","le±øΩ|∞n","MS",340
+"ceasing","PA45A","181","V","N"," "," ","siΩ{i}s±øÓ","MS",340
+"laying","PA45B","182","V","N"," "," ","Âle∫±øÓ","MS",341
+"falling","PA46A","185","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",342
+"falling","PA46B","186","V","N"," "," ","f∂´∫{∞}Ï∞n","MS",343
+"falling","PA47A","189","V","N"," "," ","f∑∫Ï∞n","MS",344
+"falling","PA47B","190","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",345
+"calming down","PA48A","191","E","N"," "," ","ık·∫m∞n$Âda´πn","MS",346
+"falling","PA48B","192","V","N"," "," ","f∑Ω∫Ï∞n","MS",347
+"calming down","PA48C","193","E","N"," "," ","k∂m±øÓ$d·Ωπn","MS",348
+"falling","PA49A","194","V","N"," "," ","f∂´∫Ï±øÓ","MS",349
+"falling","PA49B","195","V","N"," "," ","f∂´∫Ï±øÓ","MS",350
+"falling","PA49B","195","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",350
+"falling","PA50A","196","V","N"," "," ","f∑Ω∫Ï∞n","MS",351
+"calming down","PA50B","197","E","N"," "," ","k·∫m∞n$da´∫πΩn","MS",352
+"calming down","PA50C!","198!","E","N"," "," ","k·∫m±øÓ$da´∫πn","MS",353
+"falling","PA51A","199","V","N"," "," ","f∂´∫Ï±øÓ","MS",354
+"going down","PA51B","200","E","N"," "," ","goΩº{π}±øÓ$da´∫πn","MS",355
+"falling","PA52A","201","V","N"," "," ","f∂´∫Ï∞n","MS",356
+"going down","PA52B!","202!","E","N"," "," ","ıgo{πø}∞n$Âd·æπn","MS",357
+"getting down","PA53A","203","E","N"," "," ","g±tn$daπ´n","MS",358
+"falling","PA53B","204","V","N"," "," ","f∂îºÏ±øÓ","MS",359
+"calming down","PA54A","205","E","N"," "," ","k·∫m∞n$da´πn","MS",360
+"falling","PA54B","206","V","N"," "," ","f∂´∫Ï±øÓ","MS",361
+"falling","PA55A","207","V","N"," "," ","f∂º{∞}Ï±øÓ","MS",362
+"falling","PA55B","208","V","N"," "," ","f∂º{∞}Ï±øÓ","MS",363
+"falling","PA56A","211(*)","V","N"," "," ","f∂∫Ï±øÓ","MS",364
+"falling","PA56A","211(*)","V","Y"," ","AUX","f∂´∫Ï∞n","MS",364
+"falling","PA56B","212","V","N"," "," ","f∂´∫Ï±øÓ","MS",365
+"calming down","PA57A","213","E","N"," "," ","k·∫m∞n$da´∫πΩn","MS",366
+"dying down","PA57B","214","E","N"," "," ","da±ø|±øÓ$da›´π›n","MS",367
+"calming down","PA58A","215","E","N"," "," ","k·∫m∞n$da´πn","MS",368
+"calming down","PA58B","216","E","N"," "," ","k·∫m±øÓ$d·Ω∫πn","MS",369
+"falling","PA58B","216","V","N"," "," ","f∂´∫Ï±øÓ","MS",369
+"falling","PA59A","219","V","N"," "," ","f∂∫Ï∞n","MS",370
+"falling","PA59B","220","V","N"," "," ","f∂´Ï±øÓ","MS",371
+"falling","PA60A","221","V","N"," "," ","f∂´∫Ï∞n","MS",372
+"falling","PA60B","222","V","N"," "," ","f∂Ï±øÓ","MS",373
+"calming down","PA61A","223","E","N"," "," ","k·∫m∞n$da´πn","MS",374
+"getting calmer","PA61A","223","E","N"," "," ","g±'tn$k·∫m¥","MS",374
+"falling","PA61B","224","V","N"," "," ","f∂´∫Ï∞n","MS",375
+"calming down","PA62A","229","E","N"," "," ","ık·∫m∞n$Âda´πn","MS",376
+"falling","PA62A","229","V","N"," "," ","f∂´∫Ï∞n","MS",376
+"dying down","PA62B","230","E","N"," "," ","da±ø|∞n$daπn","MS",377
+"going down","PA63A","231","E","N"," "," ","go∫{π}∞n$da›´æπ›´n","MS",378
+"going down","PA63B","232","E","N"," "," ","go{π}±øÓ$da´πn","MS",379
+"going down","PA64A","233","E","N"," "," ","goΩπ±øΩn$d≤›Ωæπn","MS",380
+"dying down","PA64B","234","E","N"," "," ","ıd•±ø|±øÓ$Âda´πn","MS",381
+"moderating","PA65A","237","V","N"," "," ","mµdr≤´±øtn","MS",382
+"settling","PA65B","238","V","N"," "," ","s≤'tl±øÓ","MS",383
+"calming down","PA66A","239","E","N"," "," ","k·æ∫m∞n$da´æπn","MS",384
+"settling down","PA66A","239","E","N"," "," ","s≤tÏñ∞n$da´æπn","MS",384
+"going down","PA66B","240","E","N"," "," ","goπ±øÓ$d·´æπn","MS",385
+"ceasing","PA67A","243","V","N"," "," ","siΩis±øÓ","MS",386
+"going down","PA67B","244","E","N"," "," ","go{π}±øÓ$da´æπn","MS",387
+"going down","PA67B","244","E","N"," "," ","go{π}±øÓ$d≤Ωæπn","MS",387
+"dying down","WV1!","88!","E","N"," "," ","daæ∫≤±øÓ$da´∫πn","MS",388
+"calming down","WV2","89","E","N"," "," ","k·Ω∫m∞n$da´πΩn","MS",389
+"laying","WV3","91","V","N"," "," ","Ï≤´º∫±ø∞n","MS",390
+"calming down","WV4A","92","E","N"," "," ","k·∫m∞n$da´∫πn","MS",391
+"laying","WV4B","93","V","N"," "," ","leΩ±ø±øΩn","MS",392
+"calming down","WV5","94","E","N"," "," ","kµ∫m∞n$daπn","MS",393
+"laying","WV5","94","V","N"," "," ","leΩ±ø∞n","MS",393
+"calming down","WV6A","95","E","N"," "," ","k·m∞n$da´πn","MS",394
+"laying","WV6B","96","V","N"," "," ","le±ø∞n","MS",395
+"calming down","WV6B","96","E","N"," "," ","k·m∞n$d·Ωπn","MS",395
+"laying","WV7A","97","V","N"," "," ","leΩ±ø∞n","MS",396
+"laying","WV7B","98","V","N"," "," ","leΩ{±ø}±øÓ","MS",397
+"laying","WV8A","97b","V","N"," "," ","leΩ±ø|∞n","MS",398
+"calming down","WV8B","98b","E","N"," "," ","k·m∞n$d·πøn","MS",399
+"going down","WV9A","301","E","N"," "," ","goΩ{π}∞n$d·∫πøn","MS",400
+"ceasing","WV9B","302","V","N"," "," ","si∫s±øÓ","MS",401
+"calming down","WV9B","302","E","N"," "," ","k·∫m∞n$d·ΩπøΩn","MS",401
+"a-laying","WV9B","302","V","N"," "," ","∞ÂÏeΩ±ø∞n","MS",401
+"calming down","WV10A","303","E","N"," "," ","k·∫m∞n$da´πn","MS",402
+"ceasing","WV10A","303","V","N"," "," ","si∫s∞n","MS",402
+"going down","WV10B","303b","E","N"," "," ","go{π}∞n$d·∫πøΩn","MS",403
+"calming down","WV10C","304","E","N"," "," ","kµm±øÓ$d·ΩπøΩn","MS",404
+"ceasing","WV11A","305","V","N"," "," ","siæis±øÓ","MS",405
+"quieting down","WV11B!","306!","E","N"," "," ","kwa≤´∞tê±øÓ$da∫πΩn","MS",406
+"ceasing","WV11B!","306!","V","N"," "," ","si∫s±øÓ","MS",406
+"calming down","WV12A","307","E","N"," "," ","k·∫m∞n$d·∫πøn","MS",407
+"calming down","WV12B","308","E","N"," "," ","kµ∫m∞n$da´∫πn","MS",408
+"settling down","WV12B","308","E","N"," "," ","s≤têÏ±øÓ$da´∫πn","MS",408
+"letting up","WV13A","309","E","N"," "," ","l≤Ò±øÓ$∏p","MS",409
+"a-laying","WV13A","309","V","N"," "," ","∞ÂÏ≤´±ø∞n","MS",409
+"settling","WV13B","310","V","N"," "," ","s≤têÏñ∞n","MS",410
+"laying","WV13B","310","V","N"," "," ","l≤´±ø∞n","MS",410
+"ceasing away","WV14A","311","E","N"," "," ","siΩæis∞n$∞weΩ±ø","MS",411
+"calming down","WV14A","311","E","N"," "," ","k·∫m∞n$d·∫πøn","MS",411
+"laying","WV14A","311","V","N"," "," ","Ï≤´±ø∞›n","MS",411
+"ceasing","WV14B","312","V","N"," "," ","si∫s±øÓ","MS",412
+"a-going down","WV15A","313","E","N"," "," ","∞goΩºπ±øÓ$Âda´πn","MS",413
+"ceasing","WV15B","314","V","N"," "," ","si∫s±øÓ","MS",414
+"calming down","WV16A","315","E","N"," "," ","ıkà·∫m∞n$Âda´πn","MS",415
+"calming down","WV16B","316","E","N"," "," ","k·m∞n$d·Ωπn","MS",416
+"calming down","WV17A","317","E","N"," "," ","k·∫mmñ$d·∫πøn","MS",417
+"calming down","WV17B","317b","E","N"," "," ","ık·m∞n$Âd·ΩπΩn","MS",418
+"settling down","WV17C","318","E","N"," "," ","ıs≤têÏñ∞n$Âd·∫πøn","MS",419
+"slacken up","WV18A","319","E","N"," "," ","sl·∫k∞n$∏ºp","MS",420
+"laying","WV18A","319","V","N"," "," ","ÏeΩ±ø|∞n","MS",420
+"calming down","WV18B","320","E","N"," "," ","kµæ∫m±øÓ$d·Ω∫πøΩn","MS",421
+"laying","WV19A","321","V","N"," "," ","ÂÏeΩ±ø∞n","MS",422
+"laying","WV19B","322","V","N"," "," ","Âle±ø∞n","MS",423
+"falling","WV20A","323","V","N"," "," ","f∑∫Ï∞n","MS",424
+"calming down","WV20A","323","E","N"," "," ","k·∫m∞n$d·∫πΩn","MS",424
+"dying down","WV20B","324","E","N"," "," ","da≤±øÓ$Âd·∫πøΩn","MS",425
+"calming down","WV21A","325","E","N"," "," ","k·∫m∞n$d·∫πøΩn","MS",426
+"ceasing","WV21B","326","V","N"," "," ","si∫s∞n","MS",427
+"laying","WV22A","327","V","N"," "," ","le±ø∞n","MS",428
+"settling","WV22A","327","V","N"," "," ","s≤tÏñ∞n","MS",428
+"lulling","WV22B","328","V","N"," "," ","l∏ºl±øÓ","MS",429
+"a-laying","WV22B","328","V","N"," "," ","∞leΩ±ø±øÓ","MS",429
+"calming down","WV23A","331","E","N"," "," ","kà·∫m∞n$d·Ωπøn","MS",430
+"falling","WV23B","332","V","N"," "," ","f∂´∫l±øÓ","MS",431
+"calming down","WV24A","335","E","N"," "," ","k·∫m∞n$da´∫πøn","MS",432
+"falling","WV24B","336","V","N"," "," ","f∑Ω∫Ï±øÓ","MS",433
+"a-laying","WV25A","337","V","N"," "," ","∞ÂleΩ±ø∞n","MS",434
+"laying","WV25B","338","V","N"," "," ","le±ø|±øÓ","MS",435
+"going down","WV26A","339","E","N"," "," ","go∫∞n$d·∫πøn","MS",436
+"laying","WV26B","340","V","N"," "," ","le±ø|∞›n","MS",437
+"laying","WV27A","341","V","N"," "," ","l≤´±ø∞n","MS",438
+"laying","WV27B","342","V","N"," "," ","l≤´±ø|±Ó","MS",439
+"laying","WV28A","343","V","N"," "," ","ÂleΩ±ø∞n","MS",440
+"dying down","WV28B","344","E","N"," "," ","ıdaæ≤±øÓ$Âd·∫πøn","MS",441
+"laying","WV29A","345","V","N"," "," ","le±ø|∞n","MS",442
+"ceasing","WV29A","345","V","N"," "," ","si∫s±øÓ","MS",442
+"laying","WV29B","346","V","N"," "," ","Âl≤´±ø|±øÓ","MS",443
+"calming down","WV30A","347","E","N"," "," ","k·m∞n$d·∫πn","MS",444
+"ceasing","WV30A","347","V","N"," "," ","si∫s∞n","MS",444
+"laying","WV30A","347","V","N"," "," ","leΩ±ø|∞n","MS",444
+"a-laying","WV30B","348","V","N"," "," ","∞Âl≤´±ø∞n","MS",445
+"settling down","WV30B","348","E","N"," "," ","s≤tÏñ±øÓ$d·Ω∫πøn","MS",445
+"a-laying","WV31A","349","V","N"," "," ","∞Âle∫{±øΩ}∞n","MS",446
+"ceasing","WV31B","350","V","N"," "," ","si∫s∞n","MS",447
+"laying","WV31B","350","V","N"," "," ","leΩ±ø|∞n","MS",447
+"it's done laid","WV32A","353","E","N"," "," ","h±ts$d∏ºn$le±ød","MS",448
+"laying","WV32A","353","V","N"," "," ","le±ø|∞n","MS",448
+"laying","WV32B","354","V","N"," "," ","le±ø|∞n","MS",449
+"calming down","WV33A","355","E","N"," "," ","k·m∞n$da´∫πn","MS",450
+"going down","WV33B","356","E","N"," "," ","go{π}±øÓ$d·∫πøΩn","MS",451
+"calming down","WV34A","359","E","N"," "," ","ıkµm∞n$Âd·∫πøΩn","MS",452
+"a-laying","WV34B","360","V","N"," "," ","∞ÂÏ≤´±ø∞n","MS",453
+"a-laying","WV35A","361","V","N"," "," ","∞l≤´±ø∞n","MS",454
+"dying down","WV35B","362","E","N"," "," ","daæ≤´±øÓ$d·Ω∫πøΩn","MS",455
+"calming down","WV36A","363","E","N"," "," ","ıkµæm∞n$Âd·πøn","MS",456
+"laying","WV36B","364","V","N"," "," ","Ï≤´±ø∞n","MS",457
+"calming down","WV36B","364","E","N"," "," ","k·∫m∞n$d·∫πøn","MS",457
+"ceasing","WV37A","365","V","N"," "," ","si∫s±øÓ","MS",458
+"calming down","WV37A","365","E","N"," "," ","k·∫m∞n$d·∫πøn","MS",458
+"laying","WV37B!","366!","V","N"," "," ","Âle±ø|∞n","MS",459
+"calming down","WV38A","367","E","N"," "," ","ık·m∞n$Âda´∫πn","MS",460
+"ceasing","WV38B","368","V","N"," "," ","si∫s±øÓ","MS",461
+"calming down","WV38B","368","E","N"," "," ","k·∫m∞n$d·Ω∫πøn","MS",461
+"dying out","WV39A","369","E","N"," "," ","daæ≤´±øÓ$Âa´∫πøt","MS",462
+"quieting down","WV39B","370","E","N"," "," ","kwa∫≤´∞Ò±øÓ$d·Ω∫πøΩn","MS",463
+"dying down","WV39C!","371!","E","N"," "," ","ıdaæ≤±øÓ$Âdaæπn","MS",464
+"ceasing","WV40A","373","V","N"," "," ","si∫s∞n","MS",465
+"a-laying","WV40A","373","V","N"," "," ","∞ÂleΩ±ø∞n","MS",465
+"laying","WV40B","374","V","N"," "," ","Ï≤´±ø∞n","MS",466
+"ceasing down","WV41A","375","E","N"," "," ","si∫s∞n$d·Ω∫πΩn","MS",467
+"calming","WV41A","375","V","N"," "," ","k·∫m∞n","MS",467
+"ceasing","WV41B","376","V","N"," "," ","si∫s±øÓ","MS",468
+"lying","WV42A","377","V","N"," "," ","Ï≤´±ø|±øÓ","MS",469
+"settling","WV42B","378","V","N"," "," ","s≤tÏñ±øÓ","MS",470
+"ceasing","WV42B","378","V","N"," "," ","si∫s±øÓ","MS",470
+"laying","WV43A","381","V","N"," "," ","leΩ±ø|∞n","MS",471
+"lying","WV43B","382","V","N"," "," ","ÂleΩ±ø|±øÓ","MS",472
+"falling","WV44A","383","V","N"," "," ","f∑∫l∞n","MS",473
+"laying","WV44A","383","V","N"," "," ","leΩ±ø∞n","MS",473
+"calming down","WV44B","384","E","N"," "," ","k·∫m∞n$Âda´πn","MS",474
+"falling","WV45A","385","V","N"," "," ","f∂´∫Ï±øÓ","MS",475
+"laying","WV45A","385","V","N"," "," ","Ï≤±ø|±øÓ","MS",475
+"settling down","WV45B","386","E","N"," "," ","s≤têÏ±øÓ$d·∫πøΩn","MS",476
+"falling","WV46A","387","V","N"," "," ","f∑∫Ï∞n","MS",477
+"laying","WV46A","387","V","N"," "," ","leΩ±øΩ|∞n","MS",477
+"settling","WV46B","388","V","N"," "," ","s≤têÏ∞n","MS",478
+"a-laying","WV47A","389","V","N"," "," ","∞ÂÏeΩ±ø∞n","MS",479
+"ceasing","WV47B","390","V","N"," "," ","si∫s∞n","MS",480
+"a-laying","WV47B","390","V","N"," "," ","∞ÂÏ≤´±ø∞n","MS",480
+"a-laying","WV48A","391","V","N"," "," ","∞Ï≤´±ø∞n","MS",481
+"ceasing","WV48A","391","V","N"," "," ","siΩis±øÓ","MS",481
+"laying","WV48B","391b","V","N"," "," ","Ï≤±ø|±øÓ","MS",482
+"ceasing","WV48C","392","V","N"," "," ","siΩis±øÓ","MS",483
+"settling","WV48D","392b","V","N"," "," ","s≤ÒÏ±øÓ","MS",484
+"ceasing","WV49A","393","V","N"," "," ","siæis∞n","MS",485
+"laying","WV49A","393","V","N"," "," ","le±ø|∞n","MS",485
+"a-laying","WV49B","394","V","N"," "," ","∞Ï≤´±ø∞n","MS",486
+"calming down","WV50A","395","E","N"," "," ","k·m∞n$da´πn","MS",487
+"laying","WV50B","396","V","N"," "," ","ÏeΩ±ø|±øÓ","MS",488
+"ceasing","WV50B","396","V","N"," "," ","si∫s±øÓ","MS",488
+"getting settled","WV51A","261","E","N"," "," ","g±tn$s≤têÏñd","MS",489
+"falling","WV51B","262","V","N"," "," ","f∂´∫Ï±øÓ","MS",490
+"falling","WV52A","258","V","N"," "," ","f∂´∫Ï±øÓ","MS",491
+"falling","WV52B","259","V","N"," "," ","f∂´∫Ï±øÓ","MS",492
+"falling","WV52C!","260!","V","N"," "," ","f∂´l±øÓ","MS",493
+"falling","WV53A","257","V","N"," "," ","f∂´∫Ï±øÓ","MS",494
+"dying down","WV53B","257b","E","N"," "," ","daæ∫±ø∞n$da´∫πn","MS",495
+"moderating","WV53C!","257c!","V","N"," "," ","mﬁºd¥eΩ±øtê±øÓ","MS",496
+"dropping","WV53C!","257c!","V","N"," "," ","drﬁºp±øÓ","MS",496
+"calming down","WV53C!","257c!","E","Y"," ","SUG","k·∫m∞n$da´∫πn","MS",496
+"falling","WV54A","255","V","N"," "," ","f∂∫Ï±øÓ","MS",497
+"falling","WV54B","256","V","N"," "," ","f∂´∫Ï∞n","MS",498
+"dying away","DE1A","11","E","N"," "," ","dµ´±ø±øÓ$∞w≤∫±ø","MS",499
+"dying down","DE1B","12","E","N"," "," ","daæ±ø±øÓ$d·πîn","MS",500
+"lightening","DE1B","12","V","N"," "," ","laæ±øtnñ±øÓ","MS",500
+"dying down","DE1C!","13!","E","N"," "," ","dµº±øΩ±øÓ$da´∫πn","MS",501
+"falling","DE2A","15(*)","V","Y"," ","AUX","f∂´∫Ï±øÓ","MS",502
+"dying down","DE2B","16","E","N"," "," ","dµ±øΩ±øÓ$d·Ω∫πn","MS",503
+"a-falling","DE2C"," ","V","N"," "," ","∞f∂∫l±øÓ","MS",504
+"dying down","DE2C"," ","E","N"," "," ","dµæ±ø±øΩÓ$d·˛´π˛n","MS",504
+"laying","DE3A","18","V","N"," "," ","leΩ±ø±øΩn","MS",505
+"a-laying","DE3B","19","V","N"," "," ","∞l≤´±ø∞´n","MS",506
+"dying down","DE3C!","17!","E","N"," "," ","dµº≤±øÓ$d·∫πîΩn","MS",507
+"lulling down","DE4","20","E","N"," "," ","l∏Ï±øΩn$da´∫πn","MS",508
+"calming down","DE4","20","E","N"," "," ","kà·∫m±øΩn$da´∫πn","MS",508
+"a-lulling down","DE5A","21","E","N"," "," ","∞Ï∏´Ï±øΩn$d·æπn","MS",509
+"calming down","DE5B","22","E","N"," "," ","kµæ∫m±øΩn$d·πî˛Ωn","MS",510
+"laying","DE5B","22","V","N"," "," ","l≤±ø±øΩn","MS",510
+"laying","DE6A","23","V","N"," "," ","Ï≤±ø±øΩn","MS",511
+"ceasing down","DE6A","23","E","N"," "," ","siΩist±øΩn$d·Ω∫πîΩn","MS",511
+"moderating","DE6B","24","V","N"," ","SIC","m∂´¥d¥≤±øΩtn","MS",512
+"laying","DE6B","24","V","N"," "," ","l≤´±ø|±øΩn","MS",512
+"a-going down with the sun","MD1A","27","E","N"," "," ","∞go{π}∞n$da´æπn$w±˘$‰∞$s∏n","MS",513
+"falling","MD1B","28","V","N"," "," ","f∂´∫l±øÓ","MS",514
+"lulling","MD2A","31a","V","N"," "," ","Ï∏æÏ±øΩn","MS",515
+"calming down","MD2B","32","E","N"," "," ","k·∫m±øΩn$d·∫πΩn","MS",516
+"falling out","MD3A","33","E","N"," "," ","f∑Ω∫l±øΩn$•Ωºπ´t","MS",517
+"calming down","MD3B","34","E","N"," "," ","kﬁ:m∞n$d·∫πΩn","MS",518
+"laying","MD4A","35b","V","N"," "," ","leæ∫±øΩn","MS",519
+"laying","MD4B","35","V","N"," "," ","l≤´eæ±øΩn","MS",520
+"falling","MD4C","36","V","N"," "," ","f∑Ω∫l±øÓ","MS",521
+"calming down","MD4C","36","E","N"," "," ","k·Ωm±øn$d≤˛Ωπ˛n","MS",521
+"moderating","MD5A","37","V","N"," "," ","mµ∫d∞r≤´±øtê±øΩn","MS",522
+"falling out","MD5A","37","E","N"," "," ","f∑Ω∫l±øΩn$·›æπt","MS",522
+"dying down","MD5B","38","E","N"," "," ","dµº≤±øÓ$d·∫πΩn","MS",523
+"calming down","MD6A","39(*)","E","N"," "," ","cá·m±øΩn$d·πΩn","MS",524
+"calming down","MD6B","40","E","N"," "," ","kﬁ∫m±øÓ$d·∫πΩn","MS",525
+"calming","MD7A","41","V","N"," "," ","k·∫m±øΩn","MS",526
+"laying","MD7A","41","V","N"," "," ","leΩ±ø±øΩn","MS",526
+"falling","MD7B","41b","V","N"," "," ","f∂´∫Ï±øÓ","MS",527
+"ceasing","MD7C!","42!","V","N"," "," ","siΩis±øÓ","MS",528
+"getting down","MD7C!","42!","E","N"," "," ","g≤tê±øÓ$da´æπn","MS",528
+"moderating down","MD8A","43","E","N"," "," ","mµæd∞r≤æ±øtn$da´æπn","MS",529
+"calming down","MD8A","43","E","N"," "," ","k·∫m±øΩn$da´æπn","MS",529
+"calming down","MD8B","44","E","N"," "," ","k∂´∫m±øΩn$da´πn","MS",530
+"laying","MD8B","44","V","N"," "," ","le∫{±ø}±øΩn","MS",530
+"calming down","MD8B","44","E","Y"," ","SUG","k·∫m±øΩn$da´πn","MS",530
+"falling","MD9N","N46","V","N"," "," ","f∂´∫Ï±øΩn","MS",531
+"calming down","MD9A","45","E","N"," "," ","k·Ω∫m±øΩn$d·´πn","MS",532
+"falling","MD9B","46","V","N"," "," ","f∑Ω∫l±øΩn","MS",533
+"laying","MD9B","46","V","N"," "," ","leΩ∫{±øΩ}iøΩn","MS",533
+"falling","MD10A","49","V","N"," "," ","f∑∫l±øÓ","MS",534
+"going down","MD10B","50","E","N"," "," ","goº{π}±øÓ$d·Ω∫πøΩn","MS",535
+"calming down","MD10B","50","E","N"," "," ","k·∫m±øΩn$d·Ω∫πøΩn","MS",535
+"going down","MD11","51","E","N"," "," ","goº∫∞n$d·∫πøn","MS",536
+"laying","MD11","51","V","N"," "," ","leæ∫{±ø}∞´n","MS",536
+"calming down","MD12A","52","E","N"," "," ","kﬁº∫{∞}m±øn$d·´∫πøΩn","MS",537
+"getting calm","MD12B","53","E","N"," "," ","g±tn$kﬁ∫m","MS",538
+"laying","MD12B","53","V","N"," "," ","ÏeΩ∫{±ø}∞´n","MS",538
+"dying down","MD13A","54(*)","E","N"," "," ","dµ∫≤±øÓ$d·∫πn","MS",539
+"dying down","MD13B","55","E","N"," "," ","da±øΩ±øÓ$d·∫π˛Ωn","MS",540
+"dying down","MD13C","56","E","N"," "," ","daæ±ø±øÓ$d·πn","MS",541
+"dying down","MD13D!","57!","E","N"," "," ","da≤±øÓ$d·´∫πΩn","MS",542
+"going down","MD13E!","58!","E","N"," "," ","go{π}±øÓ$d·Ω∫πøΩn","MS",543
+"dying down","MD13F!","59!","E","N"," "," ","dµº∫≤±øÓ$d·Ω∫πøΩn","MS",544
+"NR","MD13G"," "," ","N"," "," "," ","MS",545
+"calming down","MD14","61(*)","E","N"," "," ","k·m∞n$d·ΩπΩn","MS",546
+"laying","MD15A","62","V","N"," "," ","le{±ø}∞n","MS",547
+"ceasing","MD15A","62","V","N"," "," ","sis∞n","MS",547
+"dying down","MD15B","63","E","N"," "," ","dµº≤±øÓ$d·Ω∫πøΩn","MS",548
+"calming down","MD15B","63","E","N"," "," ","kﬁº∫m±øÓ$d·Ω∫πøΩn","MS",548
+"laying","MD15B","63","V","N"," "," ","le∫{±ø}±øÓ","MS",548
+"calming down","MD16","64","E","N"," "," ","k·m∞n$d·∫πøn","MS",549
+"a-laying","MD17A","65","V","N"," "," ","∞leΩ{±ø}±øÓ","MS",550
+"calming down","MD17B","66","E","N"," "," ","k·∫m±øÓ$d·πøn","MS",551
+"a-ceasing","MD18A","67","V","N"," "," ","∞si∫s±øΩn","MS",552
+"laying","MD18B","68","V","N"," "," ","le∫{±ø}±øÓ","MS",553
+"calming down","MD19A","69","E","N"," "," ","k·∫m±øΩn$da´πn","MS",554
+"calming","MD19B","70","V","N"," "," ","kﬁ:m±øΩn","MS",555
+"dying out","MD20A","71","E","N"," "," ","dµº∫{±øΩ}±øΩn$•πt","MS",556
+"lulling down","MD20B","72","E","N"," "," ","l∏´º{∞}l±øΩn$d·πøΩn","MS",557
+"dying down","MD20C!","73!","E","N"," "," ","dµº∫≤±øΩn$d·∫πøΩn","MS",558
+"calming down","MD21A","75","E","N"," "," ","k·∫m±øΩn$daæπn","MS",559
+"dying down","MD21B","76","E","N"," "," ","dµ≤±øÓ$d·πn","MS",560
+"calming down","MD21B","76","E","N"," "," ","kà·º∫m±øΩn$d·πn","MS",560
+"calming down","MD22N","N77","E","N"," "," ","k·m±øΩn$daπn","MS",561
+"moderating","MD22M","N78","V","N"," "," ","mﬁºd∞re∫tê±øΩn","MS",562
+"calming down","MD22M","N78","E","N"," "," ","k·∫m±øΩn$daπn","MS",562
+"dying out","MD22A","77","E","N"," "," ","dµ´±ø±øÓ$•Ωπt","MS",563
+"calming down","MD22B","78","E","N"," "," ","k·∫m±øΩn$d·∫πøΩn","MS",564
+"falling","MD22C!","79!","V","N"," "," ","f∑∫l±øÓ","MS",565
+"laying","MD22C!","79!","V","N"," "," ","le∫|±øÓ","MS",565
+"a-lulling down","MD23A","80b","E","N"," "," ","∞l∏´ºl±øΩn$da´πn","MS",566
+"calming down","MD23B","80a","E","N"," "," ","k·∫m±øΩn$d·∫πøΩn","MS",567
+"lulling","MD23C","81","V","N"," "," ","l∏´Ï±øÓ","MS",568
+"dying down","MD23C","81","E","N"," "," ","dµ≤±øΩn$daπn","MS",568
+"calming down","MD24","82","E","N"," "," ","k·∫m±øΩn$da´πn","MS",569
+"lying","MD25","84","V","N"," "," ","laæ±ø±øÓ","MS",570
+"calming down","MD25","84","E","N"," "," ","k·m±øÓ$d·Ω∫πøΩn","MS",570
+"a-falling","MD26A","83","V","N"," "," ","∞f∂´:l∞n","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"laying","MD27A","85","V","N"," "," ","leΩ±ø∞n","MS",573
+"laying","MD27B","86","V","N"," "," ","ÏeΩ±ø∞n","MS",574
+"letting up","DC1A","99","E","N"," "," ","l≤Átn$∏æ{∞}p","MS",575
+"dying down","DC1B!","100!","E","N"," "," ","dµº≤´±øÓ$d·ΩπΩn","MS",576
+"dying down","VA1!","101!","E","N"," "," ","daæ≤æ±øΩÓ$d·πøn","MS",577
+"a-laying","VA2A","103","V","N"," "," ","∞le´|±øΩn","MS",578
+"a-lulling","VA2A","103","V","N"," "," ","∞lµ´æ{∞}l±øΩn","MS",578
+"calming down","VA2B","104","E","Y"," ","AUX","kµæ∫m±øΩn$d·˛π˛n","MS",579
+"calming down","VA3A","105(*)","E","N"," "," ","k·∫m±øΩn$da∫πΩn","MS",580
+"falling","VA3B","106","V","N"," "," ","f∑Ω∫l±øÓ","MS",581
+"laying","VA3B","106","V","N"," "," ","leΩ±ø±øÓ","MS",581
+"calming down","VA3C"," ","E","N"," "," ","k·∫m∞n$Âd·∫πn","MS",582
+"coming down","VA4N","N109","E","N"," "," ","k∏´m±øΩn$da´πn","MS",583
+"lowering","VA5A","107","V","N"," "," ","lo{π}∞ré±øΩn","MS",584
+"calming","VA5A","107","V","N"," "," ","k·´∫m±øn","MS",584
+"lulling","VA5B","108","V","N"," "," ","l∏l±øΩn","MS",585
+"calming","VA6A","113","V","N"," "," ","kà{h}·∫m±øΩn","MS",586
+"ceasing","VA6B","114","V","N"," "," ","sis±øÓ","MS",587
+"ceasing","VA7A","121","V","N"," "," ","si∫st±øΩn","MS",588
+"laying","VA7B","122","V","N"," "," ","le∫±øΩn","MS",589
+"laying","VA8A","123","V","N"," "," ","le{±ø}±øΩn","MS",590
+"a-lulling","VA8A","123","V","N"," "," ","l∏´∫l±øΩn","MS",590
+"moderating down","VA8B","124","E","N"," "," ","mµd∞re{±ø}'tn$d≤Ωæπ˛n","MS",591
+"dying down","VA8C!","125!","E","N"," "," ","da∫{≤æ}±øÓ$da´∫πøΩn","MS",592
+"a-laying off","VA9A","117","E","N"," "," ","∞le∫{±ø}±øΩn$∑Ω{∑}f","MS",593
+"laying","VA9B!","118!","V","N"," "," ","le∫±øΩn","MS",594
+"laying","VA10A","127","V","N"," "," ","leΩ{±ø}±øΩn","MS",595
+"lulling","VA10B","128","V","N"," "," ","l∏´∫l±øÓ","MS",596
+"laying","VA10B","128","V","Y","colloquial","SUG","le{±ø}±øn","MS",596
+"a-laying","VA11A","129","V","N"," "," ","∞leΩ±ø±øΩn","MS",597
+"laying","VA11B","130","V","N"," "," ","leΩ{±øΩ}±øΩæn","MS",598
+"calming","VA12N","N131","V","N"," "," ","k·∫m±øn","MS",599
+"lulling down","VA12A","131","E","N"," "," ","l∏ó´l±øΩn$d·πn","MS",600
+"calming off","VA12B!","132!","E","N"," "," ","kà·∫m±øΩn$∑Ω{∑}f","MS",601
+"calming off","VA13A","133","E","N"," "," ","k·∫m±øΩn$∂´∫{∑Ω}f","MS",602
+"calming off","VA13B","134","E","N"," "," ","kµæ:m±øΩn$∑Ω{∑}f","MS",603
+"dying out","VA14A","135","E","N"," "," ","da´æ±øΩ±øΩæn$≤›æπ´t","MS",604
+"calming down","VA14B","136","E","N"," "," ","kà·∫m±øΩn$d·∫πΩn","MS",605
+"calming","VA14C","137","V","N"," "," ","k∂º∂m±øΩn","MS",606
+"calming down","VA15N","N139(*)","E","N"," "," ","kà·∫m±øΩn$daπ´n","MS",607
+"lowering down","VA15A","139","E","N"," "," ","lo∞r±øΩn$d·πn","MS",608
+"calming down","VA15A","139","E","N"," "," ","k·m±øΩn$d·πn","MS",608
+"dying down","VA15B","140","E","N"," "," ","daæ≤´±øΩn$d·´πn","MS",609
+"lulling","VA16A","141","V","N"," "," ","l∏´l±øÓ","MS",610
+"calming down","VA16B","142","E","N"," "," ","kà·∫m±øΩn$d·∫πn","MS",611
+"lulling","VA17A","143","V","N"," "," ","l∏´∫{∞}l±øΩn","MS",612
+"lulling","VA17B","144","V","N"," "," ","l∏ó´∫{∞}l±øÓ","MS",613
+"lulling down","VA18","145","E","N"," "," ","l∏l±øΩn$d·π˛n","MS",614
+"calming","VA18","145","V","N"," "," ","kà·´∫m±øΩn","MS",614
+"moderating","VA19A","146","V","N"," "," ","mﬁ´ºd∞re{±ø}'tn","MS",615
+"dying out","VA19A","146","E","N"," "," ","dﬁ´º±ø±øΩn$•´æπ´t","MS",615
+"going down","VA19B","147","E","N"," "," ","go{π}±øΩn$d·´π˛Ωn","MS",616
+"calming","VA19B","147","V","N"," "," ","c{j}µﬁ´ºm±øΩn","MS",616
+"lulling","VA19C!","148!","V","N"," "," ","l∏{∞}l±øΩn","MS",617
+"going down","VA19C!","148!","E","N"," "," ","go{π}±øΩn$d·π˛n","MS",617
+"dying out","VA20A","149","E","N"," "," ","d•Ω±ø±øΩn$•æπæt","MS",618
+"lulling","VA20B","150(*)","V","N"," "," ","l∏´l±øΩn","MS",619
+"calming down","VA20C"," ","E","N"," "," ","kﬁóº∫m±øn$d·ºπn","MS",620
+"dying out","VA20C"," ","E","N"," "," ","dµº±ø±øΩn$aπ´t","MS",620
+"dying out","VA21N","N153","E","N"," "," ","dµ´±ø±øΩn$∞Ωπ´t","MS",621
+"slacken up","VA21A","153","E","N"," "," ","sl·k±øΩn$∏{∞}p","MS",622
+"calming down","VA21A","153","E","N"," "," ","kµæﬁ´ºm±øΩn$d·πn","MS",622
+"lulling","VA21B","154","V","N"," "," ","l∏{∞}l±øΩn","MS",623
+"calming in","VA22","155","E","N"," "," ","cá{j}aæµæm±øΩn$±{∞}n","MS",624
+"dying down","VA23A","156","E","N"," "," ","dµæ∫≤æ±øΩn$d·˛Ωæπ˛n","MS",625
+"dying out","VA23B","157","E","N"," "," ","da´æ±ø±øΩæn$∞ºπ´t","MS",626
+"going down","VA24","159","E","N"," "," ","go{π}±øΩn$d·´π˛n","MS",627
+"lulling","VA24","159","V","N"," "," ","l∏´{∞}l±øΩn","MS",627
+"dying out","VA25","160(*)","E","N"," "," ","dµæ≤´±øΩn$a´æπt","MS",628
+"falling down","VA25","160(*)","E","N"," "," ","f∑∫l±øΩn$d·Ωπn","MS",628
+"calming down","VA26A","161A","E","N"," "," ","k·´∫m±øΩn$d·´πn","MS",629
+"calming down","VA26B","161","E","N"," "," ","kà·∫m±øΩn$d·Ωπn","MS",630
+"lulling","VA26B","161","V","N"," "," ","l∏l±øΩn","MS",630
+"dying down","VA26C","162","E","N"," "," ","dµ´±ø±øΩn$d·´πΩºn","MS",631
+"dying out","VA27","163(*)","E","N"," "," ","dµ´º±øΩ±øΩæn$a´æπºt","MS",632
+"lulling","VA28A","164","V","N"," "," ","l∏´l±øΩn","MS",633
+"lulling","VA28B","165","V","N"," "," ","l∏´l±øn","MS",634
+"falling","VA28B","165","V","N"," "," ","f∂∂´l±øΩn","MS",634
+"getting calm","VA29","166","E","N"," "," ","g±'tn$kà·∫{∞}m","MS",635
+"calming down","VA30A","167","E","N"," "," ","kµæ∫m±øΩn$d·´π˛n","MS",636
+"subsiding","VA30B!","167a!","V","N"," "," ","s∞bÂsa≤æd±øÓ","MS",637
+"dying down","VA30B!","167a!","E","N"," "," ","ıdaæ≤æ±øÓ$Âd·πn","MS",637
+"falling","VA30C!","168!","V","N"," "," ","f∂´{∑Ω}l±øÓ","MS",638
+"dying down","VA30D!","169!","E","N"," "," ","daæ{≤æ}±øÓ$d·´πn","MS",639
+"dying down","VA30E!","170!","E","N"," "," ","daæ{≤æ}±øÓ$d·´∫π˛n","MS",640
+"laying","VA31A","171(*)(**)","V","N"," "," ","le∫{±ø}±øΩn","MS",641
+"calming down","VA31B","172","E","N"," "," ","kµæ∫m±øΩn$d·´π˛n","MS",642
+"lying","VA31C"," ","V","N"," "," ","laæ∫{∞º}±øΩn","MS",643
+"has laid","VA31C"," ","E","N"," "," ","h·z$le∫{±øΩæ}d","MS",643
+"dying down","VA32!","175!","E","N"," "," ","da{≤æ}±øΩn$d·´æπn","MS",644
+"quieting down","VA33A","173","E","N"," "," ","kw•Ωº±ø∞tê±øΩn$d·´πn","MS",645
+"lying","VA33B","174","V","N"," "," ","laæ∫{∞º}±øΩn","MS",646
+"ceasing","VA33B","174","V","N"," "," ","si∫s±øΩn","MS",646
+"ceasing","VA34A","177(*)","V","Y"," ","AUX","si∫st±øn","MS",647
+"getting calm","VA34A","177(*)","E","Y"," ","AUX","g±tn$kµæ∫m","MS",647
+"lulling","VA34B","178","V","N"," "," ","l∏ó´∫{∞}l±øΩn","MS",648
+"lulling out","VA35A","179","E","N"," "," ","l∏l±øΩn$•´πæt","MS",649
+"ceasing","VA35A","179","V","N"," "," ","sis{t}±øΩn","MS",649
+"dying down","VA35B","180","E","N"," "," ","daæ{≤æ}±øΩn$d·´π˛n","MS",650
+"laying","VA36A","181","V","Y"," ","SUG","le{±ø}±øΩn","MS",651
+"coming down","VA36A","181","E","N"," "," ","k∏m±øΩn$d·Ωπ˛n","MS",651
+"ceasing","VA36B","182","V","N"," "," ","si∫s±øΩn","MS",652
+"laying","VA36B","182","V","N"," "," ","le{±ø}±øΩn","MS",652
+"laying","VA37","183","V","N"," "," ","le{±ø}±øn","MS",653
+"ceasing","VA37","183","V","N"," "," ","siΩæ∫s±øΩn","MS",653
+"calming down","VA37","183","E","N"," "," ","kà·∫{±øΩ}m±øΩn$d·˛ºπ˛n","MS",653
+"dying down","VA38","185","E","N"," "," ","da±ø±øΩn$d·πn","MS",654
+"laying","VA38","185","V","N"," "," ","le{±ø}±øΩn","MS",654
+"dying down","VA39!","186!","E","N"," "," ","dµº∫{≤æ}±øÓ$d·˛∫π˛n","MS",655
+"calming down","VA40A","187","E","N"," "," ","k·´∫m±øn$d·∫πn","MS",656
+"dying out","VA40A","187","E","N"," "," ","d•±ø±øn$•æπt","MS",656
+"calming down","VA40B","188","E","N"," "," ","kﬁº∂´ºm±øΩn$d·∫π˛n","MS",657
+"laying","VA41A","191","V","N"," "," ","leΩ{±ø}±øΩn","MS",658
+"ceasing","VA41B","192","V","N"," "," ","siΩ{i}s±øΩn","MS",659
+"laying","VA41B","192","V","Y"," ","OLD","le{±ø}±øΩn","MS",659
+"laying","VA42A","193(*)(**)","V","N"," "," ","le{±ø}±øΩn","MS",660
+"laying","VA42B","194","V","N"," "," ","le{±ø}±øΩn","MS",661
+"laying","VA43N","N195","V","N"," "," ","le∫±øΩn","MS",662
+"debating","VA43A","195","V","N","unfamiliar","SIC","d±øbe{±ø}'tn","MS",663
+"laying","VA43A","195","V","N"," "," ","le{±ø}±øΩn","MS",663
+"ceasing","VA43A","195","V","N"," "," ","sis{t}±øΩn","MS",663
+"laying","VA43B","196","V","N"," "," ","le∫{±øΩ}±øΩn","MS",664
+"lulling","VA43B","196","V","N"," "," ","l∏ó´{∞}l±øΩn","MS",664
+"getting calm","VA44A","199","E","N"," "," ","gà±'tn$kà·∫{∞}m","MS",665
+"quelling","VA44A","199","V","N"," ","SIC","kwµº∫{≤æ}l±øΩn","MS",665
+"laying","VA44B","200","V","N"," "," ","le{±ø}±øΩn","MS",666
+"laying","VA45A","201","V","N"," "," ","le{±øΩ}±øÓ","MS",667
+"laying","VA45B","202","V","N"," "," ","le{±ø}±øÓ","MS",668
+"laying","VA46N","N207","V","N"," "," ","le∫|±øΩn","MS",669
+"ceasing","VA46N","N207","V","N"," "," ","siΩ{i}st∞n","MS",669
+"laying","VA46A","207","V","N"," "," ","le∫|±øΩn","MS",670
+"laying","VA46B!","208!","V","N"," "," ","le{±ø}±øÓ","MS",671
+"ceasing","VA47","211","V","N"," "," ","si∫st±øΩn","MS",672
+"a-laying","VA47","211","V","N"," "," ","∞le{±ø}±øΩn","MS",672
+"a-laying","VA48A","213(*)","V","N"," "," ","∞leΩ±ø±øΩn","MS",673
+"a-ceasing","VA48A","213(*)","V","N"," "," ","∞siΩæis±øΩn","MS",673
+"ceasing","VA48B","214","V","N"," "," ","si∫s±øΩn","MS",674
+"a-laying","VA48B","214","V","N"," "," ","∞le{±ø}±øΩn","MS",674
+"a-laying","VA49A","215","V","N","""I should say¢"," ","∞le{±ø}±øΩn","MS",675
+"ceasing","VA49A","215","V","N"," "," ","si{j}s{t}±øΩn","MS",675
+"I should say","VA49A","215","S","Y"," ","INA","aæ±øΩ$Û∞d$s≤´{∞}","MS",675
+"laying","VA49B","216","V","N"," "," ","leΩ{±ø}±øÓ","MS",676
+"laying","VA50A","217","V","N"," "," ","le{±ø}±øΩn","MS",677
+"calming down","VA50A","217","E","N"," "," ","kà·∫m±øΩn$d·Ωπn","MS",677
+"laying","VA50B","218","V","N"," "," ","le{±ø}±øn","MS",678
+"laying","VA51A","219","V","N"," "," ","le{±ø}±øΩn","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"ceasing","VA51C"," ","V","N"," "," ","si∫s±øΩn","MS",681
+"going down","VA51C"," ","E","N"," "," ","go∫±øΩn$d·˛´π˛n","MS",681
+"a-laying","VA52A","224","V","N"," "," ","∞leΩ±ø±øÓ","MS",682
+"ceasing","VA52B","225","V","N"," "," ","si∫s±øÓ","MS",683
+"laying","VA52B","225","V","N"," "," ","ÏeΩ±ø±øÓ","MS",683
+"laying","VA52C!","226!","V","N"," "," ","leΩ±ø±øÓ","MS",684
+"ceasing","VA52C!","226!","V","N"," "," ","si∫s±øÓ","MS",684
+"slacken up","VA53A","227","E","N"," "," ","sl·k±øΩn$∏´∫{∞}p","MS",685
+"calming down","VA53A","227","E","N"," "," ","k·∫m±øΩn$da∫πΩn","MS",685
+"laying","VA53B","228","V","N"," "," ","leΩ{±ø}∞´n","MS",686
+"calming","VA53B","228","V","N"," "," ","kµ´æm±øÓ","MS",686
+"getting calmer","VA54A","229","E","N"," "," ","g±Án$kà{h}·∫{∞}m¥","MS",687
+"laying","VA54B","230","V","N"," "," ","ÏeΩ∫{±ø}±øÓ","MS",688
+"getting calm","VA55A","233(*)","E","N"," "," ","g±Án$k·∫m","MS",689
+"a-laying","VA55A","233(*)","V","N"," "," ","∞le∫{±ø}±øΩn","MS",689
+"calming down","VA55A","233(*)","E","N"," "," ","k·∫m±øΩn$d·Ω∫πøΩn","MS",689
+"laying","VA55B","234(*)","V","N"," "," ","leΩ{±ø}±øÓ","MS",690
+"laying","VA56A","237","V","N"," "," ","leΩ±ø±øΩæn","MS",691
+"letting up","VA56A","237","E","N"," "," ","l≤Án$∏{∞}p","MS",691
+"abating","VA56B","238","V","N"," "," ","∞be±øtê±øÓ","MS",692
+"laying","VA57A","239","V","N"," "," ","le{±ø}±øΩn","MS",693
+"calming","VA57A","239","V","N"," "," ","kà·∫m±øΩn","MS",693
+"getting down","VA57B","240","E","N"," "," ","g±Án$d·Ωπøn","MS",694
+"laying","VA58","241(*)","V","N"," "," ","le{±ø}±øΩn","MS",695
+"a-ceasing","VA58","241(*)","V","N"," "," ","∞si∫s±øΩn","MS",695
+"abating down","VA59N","N241","E","N"," "," ","be´Átn$da´πn","MS",696
+"laying","VA59A","242","V","N"," "," ","lçe{±ø}±øΩn","MS",697
+"dying down","VA59B!","243!","E","N"," "," ","daæ≤æ±øÓ$d·Ω∫πn","MS",698
+"a-laying","VA60","244(*)","V","Y"," ","AUX","∞le±ø∞´ºn","MS",699
+"falling","VA61A","245(*)","V","N"," "," ","f∂´º∫{∑}l∞´n","MS",700
+"dying down","VA61B!","246!","E","N"," "," ","da±øΩ±øÓ$d·πøΩn","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"laying","VA62A","247(*)","V","N"," "," ","leΩ±ø±øΩn","MS",703
+"calming down","VA62B","248","E","N"," "," ","kµæ:m±øΩn$d·Ωæπn","MS",704
+"quieting on us","VA63A","251","E","N"," "," ","Âkwaæ≤æ∞tn$ı∑Ω∫n$∞s","MS",705
+"getting lower","VA63B","252","E","N"," "," ","g±Átn$ÏoΩπ¥","MS",706
+"laying","VA63B","252","V","N"," "," ","Ï≤æ±ø´∞n","MS",706
+"a-laying","VA64A","255","V","N"," "," ","∞le{±ø}±øΩn","MS",707
+"laying","VA64B","256","V","N"," "," ","leΩ{±ø}±øΩn","MS",708
+"a-laying","VA65A","257","V","N","natural"," ","∞leΩ{±ø}∞n","MS",709
+"ceasing some","VA65A","257","E","N"," "," ","siΩisn$s∏m","MS",709
+"a-laying","VA65B","258","V","N"," "," ","∞leΩ±ø∞n","MS",710
+"dying","VA65C!","259!","V","N"," "," ","daæ{≤æ}±øÓ","MS",711
+"a-laying","VA66A","261","V","N"," "," ","∞le{±ø}±øΩn","MS",712
+"laying","VA66B","262","V","N"," "," ","le{±ø}±øΩn","MS",713
+"laying","VA67A","267","V","N"," "," ","Ï≤´±ø´∞n","MS",714
+"laying","VA67B","268","V","N"," "," ","l≤´±ø´±øÓ","MS",715
+"a-laying","VA68A","269","V","N"," "," ","∞le{±ø}±øΩn","MS",716
+"a-laying","VA68B","270","V","N"," "," ","∞leΩ{±ø}±øΩn","MS",717
+"a-laying","VA69A","273","V","N"," "," ","∞le{±ø}±øΩæn","MS",718
+"a-ceasing","VA69A","273","V","N"," "," ","∞siΩis±øΩn","MS",718
+"laying","VA69B","274","V","N"," "," ","le{±ø}±øΩn","MS",719
+"laying","VA70A","275","V","N"," "," ","l≤´±ø{∞}n","MS",720
+"laying","VA70B","276","V","N"," "," ","leΩ±ø∞n","MS",721
+"laying","VA71A","285","V","N"," "," ","Ï≤´±ø´∞n","MS",722
+"going down","VA71B","286","E","N"," "," ","go{π}∞´n$d·∫πøn","MS",723
+"a-laying","VA72A","287","V","N"," "," ","∞leΩ±ø∞n","MS",724
+"calming down","VA72B","288","E","N"," "," ","k·∫m∞´n$d·∫πøΩn","MS",725
+"a-laying","VA73","291","V","N"," "," ","∞Ï≤´±ø∞´n","MS",726
+"laying","VA74A","293","V","N"," "," ","leΩ±ø∞´n","MS",727
+"dying down","VA74B!","294!","E","N"," "," ","dµº∫{∞º}∞´n$d·∫πøn","MS",728
+"laying","VA74B!","294!","V","N"," "," ","Ï≤´±ø´∞n","MS",728
+"a-laying","VA75A","297","V","N"," "," ","∞leΩ±ø∞n","MS",729
+"laying","VA75B","298","V","N"," "," ","Ï≤´±ø´∞n","MS",730
+"dying out","NC1","303","E","N"," "," ","d•Ω±ø±øΩn$•Ωπ´t","MS",731
+"calming off","NC1","303","E","N"," "," ","kà·∫m±øΩn$∑Ω{∑}f","MS",731
+"dying out","NC2A","301","E","Y"," ","AUX2","d•Ω±ø±øΩn$•Ωπt","MS",732
+"calming down","NC2B","304","E","N"," "," ","k·∫m±øΩn$d·´π˛n","MS",733
+"calming down","NC3A","305","E","N"," "," ","k·{±ø}m±øΩn$d·∫π˛n","MS",734
+"lulling down","NC3A","305","E","N"," "," ","l∏´{∞}l±øΩn$d·∫π˛n","MS",734
+"falling","NC3B","306","V","N"," "," ","f∑Ω∫∑l±øΩn","MS",735
+"calming off","NC4A","307","E","N"," "," ","kà·∫m±øΩn$∑Ω∫{∑}f","MS",736
+"a-ceasing","NC4B","308","V","N"," "," ","∞si∫s±øΩn","MS",737
+"calming down","NC4B","308","E","N"," "," ","kﬁº:m±øΩn$d·˛´π˛n","MS",737
+"laying","NC4B","308","V","N"," "," ","le{±ø}±øΩn","MS",737
+"calming down","NC5A","309","E","N"," "," ","kà·´{±ø}m±øΩn$d·πø´n","MS",738
+"calming down","NC5B","310","E","N"," "," ","kﬁº∫{∞}m±øΩn$d·∫πø˛Ωn","MS",739
+"lulling","NC6!","311!","V","N"," "," ","l∏ó´∫l±øÓ","MS",740
+"a-laying","NC7A","315(*)","V","Y"," ","AUX","∞la´æ{≤æ}±øΩn","MS",741
+"calming","NC7A","315(*)","V","Y"," ","AUX","kµæ∫{∞}m±øΩn","MS",741
+"calming down","NC7B","316","E","N"," "," ","k∂î∂{∞}m±øΩn$d·∫πø˛n","MS",742
+"ceasing","NC8N","N317","V","N"," "," ","siæ{i}st±øΩn","MS",743
+"calming down","NC8N","N317","E","N"," "," ","kà·{∞}m±øΩn$daæπn","MS",743
+"calming down","NC8A","317","E","N"," "," ","k·´±ø´m±øn$d·æπ´n","MS",744
+"laying","NC8A","317","V","N"," "," ","leΩ{±ø}±øn","MS",744
+"laying","NC8B","318(*)","V","N"," "," ","leΩ{±ø}±øΩn","MS",745
+"calming down","NC9A","319","E","N"," "," ","k·∫m±øn$d·πøΩn","MS",746
+"dying out","NC9B","320","E","N"," "," ","dµæ∫±ø±øΩn$·πt","MS",747
+"a-moderating","NC10A","321","V","N","beginning"," ","∞mﬁd∞r≤±ø´'tn","MS",748
+"dying out","NC10A","321","E","N","later"," ","dµæ∫{≤æ}±øΩæn$≤›Ωºπt","MS",748
+"calming down","NC10B","323","E","N"," "," ","kà·´±ø´m±øn$d·´∫π˛n","MS",749
+"moderating out","NC10B","323","E","N"," "," ","mµ∫d∞reΩ±ø´tê±øΩn$·∫πt","MS",749
+"falling","NC10C","322","V","N"," "," ","f∑∫l±øΩn","MS",750
+"lulling","NC10C","322","V","N"," "," ","l∏´∫l±øn","MS",750
+"dying out","NC10C","322","E","N"," "," ","dµ´±ø±øΩn$·πø´t","MS",750
+"calming down","NC11A","325","E","N"," "," ","kà·Ωm±øΩn$da´πn","MS",751
+"lulling","NC11B","326","V","N"," "," ","l∏Ω∫l±øΩn","MS",752
+"dying out","NC11B","326","E","N"," "," ","dµæ∫±ø±øΩn$·æ∫°æt","MS",752
+"laying","NC12A","327(*)","V","N"," "," ","l≤±øΩ±øΩn","MS",753
+"calming down","NC12B","328","E","N"," "," ","k·∫{∞´º}m±øn$d·∫πn","MS",754
+"calming down","NC13A","329","E","N"," "," ","kà·´m±øn$d·∫π˛n","MS",755
+"dying down","NC13B","330(*)","E","N"," "," ","dµ∫{≤æ}±øΩn$d·∫π˛n","MS",756
+"calming down","NC13B","330(*)","E","N"," "," ","k{h}µæ∫m±øΩn$d·∫π˛n","MS",756
+"a-lulling down","NC14N","N331","E","N"," "," ","∞l∏º∫l±øΩn$d·Ωπn","MS",757
+"calming down","NC14A","331","E","N"," "," ","kà·±øm±øn$d·Ω∫π˛n","MS",758
+"lulling","NC14A","331","V","N"," "," ","l∏º∫l±øΩn","MS",758
+"laying","NC14B","332","V","N"," "," ","l≤{±ø}±øΩn","MS",759
+"calming down","NC14C!","333!","E","N"," "," ","k·∫{∞}m±øΩn$d·∫πn","MS",760
+"calming off","NC15A","335(*)","E","N"," "," ","k·{±ø}m±øn$∑Ω∑f","MS",761
+"ceasing","NC15B","336","V","N"," "," ","siΩæis±øΩn","MS",762
+"calming down","NC15B","336","E","N"," "," ","kﬁº∫{∞}m±øΩn$d·∫πn","MS",762
+"a-ceasing","NC15C"," ","V","N"," "," ","∞ÂsiΩis±øΩn","MS",763
+"a-laying","NC15C"," ","V","N"," "," ","∞ÂleΩ±ø±øΩn","MS",763
+"a-ceasing down","NC16A","339(*)","E","N"," "," ","∞siΩæs±øΩn$d·Ω∫πn","MS",764
+"laying","NC16B","340","V","N"," "," ","l≤´±ø´±øΩn","MS",765
+"ceasing off","NC17A","337","E","N"," "," ","siΩæis±øΩn$∑Ω∑f","MS",766
+"quieting off","NC17A","337","E","N"," "," ","kwaæ{≤æ}{±øΩ}'tn$∑Ω∑f","MS",766
+"calming down","NC17A","337","E","N"," ","SIC","kà≤±øm±øΩn$d·∫πø˛n","MS",766
+"ceasing","NC17B","338","V","N"," "," ","siΩæis±øΩn","MS",767
+"calming down","NC18A","341","E","N"," "," ","kà≤´±øm±øΩn$d·Ωπn","MS",768
+"ceasing down","NC18A","341","E","N"," "," ","si∫s±øΩn$d·Ωπn","MS",768
+"calming down","NC18B","342","E","N"," "," ","k·∫m±øΩn$da´πn","MS",769
+"calming down","NC19A","343","E","N"," "," ","kà·{∞}m±øΩn$d·∫π˛n","MS",770
+"calming off","NC19B","344","E","N"," "," ","k{h}ﬁó:m±øΩn$∑Ω∫f","MS",771
+"ceasing","NC19B","344","V","N"," "," ","s±´iΩs±øΩn","MS",771
+"a-laying","NC19B","344","V","N"," "," ","∞leΩ{±ø}±øΩn","MS",771
+"dying out","NC20A","345","E","N"," "," ","dﬁº±ø±øΩn$·æπt","MS",772
+"a-falling","NC20A","345","V","N"," "," ","∞f∂´∫l±øΩn","MS",772
+"dying out","NC20B","346a","E","N"," "," ","dµ∫±øΩ±øΩæn$·πt","MS",773
+"dying out","NC20C","346b","E","N"," "," ","dµæ∫±øΩ±øΩn$·πø´t","MS",774
+"getting calm","NC20C","346b","E","N"," "," ","g±Án$kµµó´æm","MS",774
+"calming off","NC21A","347","E","N"," "," ","kà·m±øΩn$∑Ω∑f","MS",775
+"calming down","NC21A","347","E","N"," "," ","kà·m±øΩn$d·Ωπ´n","MS",775
+"calming down","NC21B","348","E","N"," "," ","k≤±ø´m±øn$d·Ωπ˛n","MS",776
+"ceasing","NC21B","348","V","N"," "," ","siΩis±øn","MS",776
+"laying","NC22A","349","V","N"," "," ","lçe´∫|±øΩn","MS",777
+"lulling","NC22A","349","V","N","rare"," ","l∏´lç±øn","MS",777
+"calming","NC22B","349b","V","N"," "," ","kﬁº∫{ﬁ}m±øΩn","MS",778
+"falling","NC22B","349b","V","N"," "," ","f∑Ω∑l±øΩn","MS",778
+"calming","NC23A","351a","V","N"," "," ","kﬁæ∫m±øΩn","MS",779
+"falling","NC23B","351b(*)","V","N"," "," ","f∑Ω∫l±øΩn","MS",780
+"calming down","NC23B","351b(*)","E","N"," "," ","k·∫m±øΩn$d·∫πø˛n","MS",780
+"lulling","NC23C!","351c!","V","N"," "," ","l∏Ωl±øÓ","MS",781
+"lulling","NC23D!","351d!","V","N"," "," ","l∏l±øn","MS",782
+"going down","NC23D!","351d!","E","N"," "," ","goº{π}±øΩn$d·πøn","MS",782
+"ceasing down","NC24N","N352","E","N"," "," ","sis±øΩn$daæπn","MS",783
+"laying","NC24A","352a","V","N"," "," ","le∫±øΩn","MS",784
+"lulling","NC24B","352b","V","N"," "," ","l∏l±øΩn","MS",785
+"ceasing","NC25N","N353","V","N"," "," ","sist±øΩn","MS",786
+"a-laying","NC25N","N353","V","N"," "," ","∞le´|±øΩn","MS",786
+"calming off","NC25A","353","E","N"," "," ","k·m±øΩn$∑Ω∫f","MS",787
+"lying","NC25B","354","V","N"," "," ","lµº±ø±øΩn","MS",788
+"about to lie","NC25B","354","K","N"," "," ","∞ba´æπt$t∞$lµº{≤æ}","MS",788
+"calming down","NC26A","355a","E","N"," "," ","k·∫m±øΩn$d·uΩºn","MS",789
+"calming down","NC26B","355b","E","N"," "," ","kﬁó∫m±øΩn$da´πn","MS",790
+"laying","NC26B","355b","V","N"," "," ","le{±øΩ}±øÓ","MS",790
+"laying","NC26C!","356!","V","N"," "," ","leΩ{±ø}±øÓ","MS",791
+"laying","NC27A","357","V","N"," "," ","le∫±øΩn","MS",792
+"calming","NC27B","258","V","N"," "," ","kﬁº∫{∞}m±øΩn","MS",793
+"calming off","NC28A","361","E","N"," "," ","k·∫m±øΩn$∑Ω∑f","MS",794
+"coming down","NC28B","361b","E","N"," "," ","k∏´m±øΩn$d·π´n","MS",795
+"calming down","NC28C","362","E","N"," "," ","kﬁ∫m±øΩn$d·Ωπøn","MS",796
+"getting low","NC29A","363(*)","E","N"," "," ","gà±øtn$lo´∫","MS",797
+"abating off","NC29A","363(*)","E","N"," "," ","be{±ø}tn$∑∫f","MS",797
+"calming off","NC29B","364","E","N"," "," ","k·∫m±øΩn$∑Ω∑f","MS",798
+"a-laying","NC30A","365","V","N"," "," ","∞laæ∫{≤æ}±øΩn","MS",799
+"calming down","NC30B","366","E","N"," "," ","kµæ:{∞}m±øΩn$d·π˛n","MS",800
+"moderating","NC31A","367","V","N"," "," ","mﬁ´ºd∞re±øtê±øΩn","MS",801
+"calming","NC31A","367","V","N"," "," ","kà·m±øΩn","MS",801
+"abating","NC31B","368","V","N"," "," ","be±øtê±øΩn","MS",802
+"laying","NC31B","368","V","N"," "," ","le±ø±øΩn","MS",802
+"subsiding","NC32A","369","V","N"," "," ","s∏´bsaæ∫{≤æ}d±øΩn","MS",803
+"passing off","NC32A","369","E","N"," "," ","p{h}·{±øΩ}s±øΩæn$∑{∑´}f","MS",803
+"calming down","NC32A","369","E","N"," "," ","kà≤º{±ø}m±øΩn$d·Ωπøn","MS",803
+"laying","NC32B!","370!","V","N"," "," ","le{±ø}±øÓ","MS",804
+"ceasing","NC33A","373","V","N"," "," ","siΩæis±øΩn","MS",805
+"getting still","NC33A","373","E","N"," "," ","gà±´ætê±øΩn$st±∫{∞}Ï","MS",805
+"dying down","NC33B","374","E","N"," "," ","daæ≤æ±øΩn$d·∫π˛n","MS",806
+"ceasing off","NC34A","375","E","N"," "," ","siΩis{t}±øΩn$∑∑´f","MS",807
+"laying off","NC34A","375","E","N"," "," ","leΩ±ø±øΩn$∑∑´f","MS",807
+"laying","NC34B","376","V","N"," "," ","leΩ±ø±øΩn","MS",808
+"calming down","NC34B","376","E","N"," "," ","kﬁóº∫{∞}m±øΩn$d·∫π˛Ωn","MS",808
+"calming off","NC35A","377","E","N"," "," ","kµæ∫{∞}m±øn$∑Ω{∑ó}f","MS",809
+"laying","NC35A","377","V","N"," "," ","lçe|±øΩn","MS",809
+"ceasing","NC35A","377","V","N"," "," ","sis±øΩn","MS",809
+"lying","NC35B","378","V","N"," "," ","laæ∫{≤æ}±øΩn","MS",810
+"calming down","NC36N","N381","E","N"," "," ","k·∫m±øΩn$dµπn","MS",811
+"calming down","NC36A","381","E","N"," "," ","kà·m±øΩn$da∫πn","MS",812
+"ceasing","NC36B","382","V","N"," "," ","siæs±øÓ","MS",813
+"calming down","NC36B","382","E","N"," "," ","kﬁº∫m±øΩn$d·Ω∫πøn","MS",813
+"laying","NC36B","382","V","N"," "," ","le{±ø}±øΩn","MS",813
+"getting calm","NC37A","383","E","N"," "," ","g±'tn$kà·´∫{∞}m","MS",814
+"laying","NC37A","383","V","N"," "," ","le{±ø}±øn","MS",814
+"calming","NC37B","384","V","N"," "," ","kµæ:m±øΩn","MS",815
+"dying down","NC37B","384","E","N"," "," ","da{≤æ}±øΩn$d·Ω∫πΩn","MS",815
+"calming off","NC38N","N385","E","N"," "," ","cá{j}·∫m±øΩn$∑Ω∑f","MS",816
+"ceasing","NC38A","385","V","N"," "," ","s±´i∫s±øn","MS",817
+"laying","NC38A","385","V","N"," "," ","leΩ±ø±øΩn","MS",817
+"going down","NC38B","386","E","N"," "," ","go{π}±øΩn$d·∫πn","MS",818
+"a-laying","NC39A","389","V","N"," "," ","∞leΩ±ø±øΩn","MS",819
+"laying","NC39B!","390!","V","N"," "," ","le{±ø}±øΩn","MS",820
+"ceasing","NC40A","391","V","N"," "," ","si∫s±øΩæn","MS",821
+"a-laying","NC40A","391","V","N"," "," ","∞le∫|±øΩæn","MS",821
+"abating","NC40B","392","V","N"," "," ","∞beΩ±ø'tn","MS",822
+"ceasing","NC40B","392","V","N"," "," ","siΩæis±øΩn","MS",822
+"dying down","NC41!","393!","E","N"," "," ","daæ∫≤æ±øÓ$da´πn","MS",823
+"subsiding","NC41!","393!","V","N"," "," ","s∞bsa∫≤æd±øÓ","MS",823
+"a-laying","NC42A","403","V","N"," "," ","∞leΩ±ø˛±ø˛Ωn","MS",824
+"ceasing","NC42B","404(*)","V","N"," "," ","siΩ{j}s±øΩn","MS",825
+"laying","NC42B","404(*)","V","N"," "," ","Ï≤´±ø±øΩn","MS",825
+"laying","NC43A","397","V","N"," "," ","leΩ±ø±øΩn","MS",826
+"falling","NC43A","397","V","N"," "," ","f∑Ω∫l±øΩn","MS",826
+"laying","NC43B","398","V","N"," "," ","leΩ±ø±øΩn","MS",827
+"laying","NC44","410(*)","V","N"," "," ","leΩ{±ø}±øΩn","MS",828
+"calming down","NC45A","409(*)","E","N"," "," ","kà·m±øΩn$d·›Ωæπ›n","MS",829
+"laying","NC45A","409(*)","V","N"," "," ","leΩ±ø±øΩn","MS",829
+"laying","NC45B"," ","V","N"," "," ","le|±øΩn","MS",830
+"laying","NC46A","411","V","N"," "," ","leΩ±ø±øΩn","MS",831
+"moderating","NC46A","411","V","N"," "," ","mﬁ´ºd∞reΩ±øtê±øΩn","MS",831
+"laying","NC46B","412","V","N"," "," ","leΩ±ø±øΩn","MS",832
+"subsiding","NC46C!","412b!","V","N"," "," ","s∞bsa∫{≤æ}d±øÓ","MS",833
+"getting lower","NC47","413","E","N"," "," ","g±Án$lo{π}∞é","MS",834
+"a-laying","NC47","413","V","N"," "," ","∞le{±ø}±øΩn","MS",834
+"laying","NC48","418","V","N"," "," ","leΩ±ø±øΩn","MS",835
+"ceasing","NC48","418","V","N"," "," ","siΩis±øΩn","MS",835
+"laying","NC49","421","V","N"," "," ","le∫{±ø}±øΩn","MS",836
+"laying","NC50A","422","V","N"," "," ","le{±ø}±øΩn","MS",837
+"calming down","NC50B!","423!","E","N"," "," ","kﬁ∫∂m±øΩn$d·Ω∫πn","MS",838
+"laying","NC51A","427","V","N"," "," ","le∫{±ø}±øΩn","MS",839
+"laying","NC51B","428","V","N"," "," ","le{±ø}±øΩn","MS",840
+"ceasing","NC52N","N429","V","N"," "," ","sist±øΩn","MS",841
+"coming down","NC52N","N429","E","N"," "," ","k∏m±øΩn$da∫πΩn","MS",841
+"lying","NC52A","429","V","N"," "," ","laæ∫{≤æ}±øΩn","MS",842
+"laying","NC52B","430","V","N"," "," ","laæ∫≤æ±øΩn","MS",843
+"calming down","NC53A","431","E","N"," "," ","k·∫m±øΩn$da´πn","MS",844
+"laying","NC53B","432","V","N"," "," ","le{±ø}±øΩn","MS",845
+"getting calmer","NC54A","433","E","N"," "," ","g±Án$kà·´∫{∞}m∞é","MS",846
+"laying","NC54B","434","V","N"," "," ","leΩ{±ø}±øΩn","MS",847
+"ceasing","NC54B","434","V","N"," "," ","siΩæis±øΩn","MS",847
+"getting calm","NC55","435","E","N"," "," ","g±'tn$k·{∞}m","MS",848
+"falling","NC56A","436","V","N"," "," ","f∑Ω∫l∞´n","MS",849
+"dying down","NC56B!","437!","E","N"," "," ","daæ≤æ±øÓ$d·∫πøn","MS",850
+"laying","NC57A","438a","V","N"," "," ","leΩ±ø±øÓ","MS",851
+"ceasing","NC57B","438b","V","N"," "," ","siΩis±øΩn","MS",852
+"laying","NC57B","438b","V","N"," "," ","leΩ{±ø}±øΩn","MS",852
+"a-ceasing","NC58A","439","V","N"," "," ","∞siΩis±øΩn","MS",853
+"laying","NC58A","439","V","N"," "," ","leΩ±ø±øΩn","MS",853
+"laying","NC58B","440","V","N"," "," ","le{±ø}±øÓ","MS",854
+"a-calming down","NC59","441(*)","E","N"," "," ","∞k·∫m±øΩæn$da´πn","MS",855
+"going down","NC59","441(*)","E","N"," "," ","go{π}±øΩn$da´πn","MS",855
+"a-laying","NC59","441(*)","V","N"," "," ","∞leΩ{±ø}±øΩæn","MS",855
+"laying","NC60","442","V","N"," "," ","ÏeΩ±ø±øΩn","MS",856
+"a-laying","NC61A","443","V","N"," "," ","∞leΩ±ø±øΩn","MS",857
+"calming","NC61B","444","V","N"," "," ","kﬁ´º∫{∞}m±øΩn","MS",858
+"laying","NC61B","444","V","N"," "," ","leΩ{±ø}±øΩn","MS",858
+"ceasing","NC62A","447","V","N"," "," ","sis±øΩn","MS",859
+"lying","NC62A","447","V","N"," "," ","laæ∫{≤æ}±øΩn","MS",859
+"laying","NC62B","448","V","N"," "," ","le{±ø}±øΩn","MS",860
+"calming off","NC63A","449","E","N"," "," ","k·{∞}m±øn$∑Ω∑f","MS",861
+"laying","NC63A","449","V","N"," "," ","l≤´±ø±øΩn","MS",861
+"laying","NC63B","450","V","N"," "," ","le∫{±ø}±øΩn","MS",862
+"a-laying","NC64A","453","V","N"," "," ","∞laæ∫≤æ±øΩn","MS",863
+"ceasing","NC64B","454","V","N"," "," ","si∫s±øΩn","MS",864
+"laying","NC65A","461","V","N"," "," ","l≤´±ø±øΩn","MS",865
+"laying","NC65B","462","V","N"," "," ","le{±ø}±øΩn","MS",866
+"ceasing","NC65B","462","V","N"," "," ","sijs±øΩn","MS",866
+"calming","NC66A","465","V","N"," "," ","k·{∞}m±øΩn","MS",867
+"laying","NC66B","466","V","N"," "," ","leΩ±ø±øΩæn","MS",868
+"laying","NC67A","469","V","N"," "," ","l≤´e±øΩn","MS",869
+"calming","NC67B","470","V","N"," "," ","kà·˛∫m±øΩæn","MS",870
+"a-laying","NC68A","473","V","N"," "," ","∞l≤´±ø±øΩæn","MS",871
+"calming down","NC68B","474","E","N"," "," ","kµ´æ{∞}m±øΩn$d·Ω∫πøΩn","MS",872
+"laying","NC69A","477","V","N"," "," ","l≤´±ø±øΩn","MS",873
+"calming down","NC69B","478","E","N"," "," ","k·∫m±øΩn$d·´∫πøn","MS",874
+"laying","NC70A","479","V","N"," "," ","leΩ±ø±øΩn","MS",875
+"laying","NC70A","479","V","N"," "," ","l≤´±ø±øΩn","MS",875
+"laying","NC70B","480","V","N"," "," ","leΩ±ø±øΩn","MS",876
+"lying","NC71A","481","V","N"," "," ","laæ≤´æ±øΩn","MS",877
+"laying","NC71A","481","V","N","natural"," ","leΩ±ø±øΩn","MS",877
+"lying","NC71B","482","V","N"," "," ","la∫{≤æ}±øΩn","MS",878
+"dying down","NC71C!","483!","E","N"," "," ","da±ø±øÓ$d·∫πøΩn","MS",879
+"ceasing","NC72A","487","V","N"," "," ","siΩjst±øΩn","MS",880
+"laying","NC72A","487","V","N"," "," ","leΩ±ø±øΩn","MS",880
+"ceasing","NC72B","488","V","N"," "," ","si∫s±øΩn","MS",881
+"getting calm","NC72B","488","E","N"," "," ","g±'tn$kµ´æ{∞}m","MS",881
+"lying","NC72B","488","V","N"," "," ","laæ∫{≤æ}±øΩn","MS",881
+"a-ceasing","NC73A","491","V","N"," "," ","∞siΩis±øΩn","MS",882
+"a-lying","NC73A","491","V","N"," "," ","∞laæ∫≤æ±øΩn","MS",882
+"going down","NC73B","492","E","N"," "," ","go∫{π}±øΩn$d·Ω∫πøn","MS",883
+"lying","NC73B","492","V","N"," "," ","lµº∫{≤æ}±øΩn","MS",883
+"a-lying","NC74A","493","V","N"," "," ","∞laæ∫≤´±øΩn","MS",884
+"calming off","NC74A","493","E","N"," "," ","kà·´m±øΩn$∑Ω:f","MS",884
+"lying","NC74B","494","V","N"," "," ","la∫{≤æ}±øΩn","MS",885
+"a-laying","NC75A","495","V","N"," "," ","∞leΩ±ø±øΩn","MS",886
+"laying","NC75B","496","V","N"," "," ","leΩ±ø±øΩn","MS",887
+"calming","SC1A","203.1","V","N"," "," ","kà·∫m±øn","MS",888
+"lulling","SC1B","203.2","V","N"," "," ","l∏ó´{∞}l±øΩn","MS",889
+"calming down","SC2A","204.1(*)","E","N"," "," ","k·´∫{±øΩ}m±øΩn$d·∫πøΩn","MS",890
+"calming down","SC2B","204.2","E","N"," "," ","kﬁ∫m±øΩn$d·∫πøΩn","MS",891
+"calming down","SC2C"," ","E","N"," "," ","kﬁº{∞}m±øΩn$daπn","MS",892
+"calming off to what it were","SC3A","205.1","E","N"," "," ","kà·m±øΩn$Â∑∫f$t∞$hw∏tê$±øt$w¥∫","MS",893
+"a-lying","SC3A","205.1","V","N"," ","SIC","∞Âlµ´∫{≤æ}|±øΩæn","MS",893
+"lays","SC3B","205.2","V","N"," "," ","Âle∫{∞}z","MS",894
+"lulling","SC3C!","205.3!","V","N"," "," ","l¶Ω{∞}l±øºÓ","MS",895
+"ceased","SC3C!","205.3!","V","Y","Negroes","HRD","Âsi∫{j}st±øºd","MS",895
+"NR","SC4A","206.1"," ","N"," "," "," ","MS",896
+"died down","SC4B","206.2","E","N"," "," ","Âdµ∫±ød$ıd·Ω∫oºn","MS",897
+"lulled","SC4B","206.2","V","N"," "," ","l∏´{∞}ld","MS",897
+"lulled","SC4C","206.3","V","N"," "," ","l∏´{∞}ld","MS",898
+"died down","SC4C","206.3","E","N"," "," ","Âdµ∫±ød$ıdµ∫πn","MS",898
+"let up","SC4C","206.3","E","Y","rain","INA","l≤´t$∏Ω{∞}p","MS",898
+"slacked off","SC4C","206.3","E","Y","rain","INA","Âs≈è·{∞´º}kt$ı∑Ωº{∞}f","MS",898
+"calming down","SC5A","207.1","E","N"," "," ","Âkﬁ∫{∞}m±øºn$ıdµ´æ∫on","MS",899
+"NR","SC5B","207.2"," ","N"," "," "," ","MS",900
+"lull","SC5C","207.2A","V","N"," "," ","l≥ó´{∞}l","MS",901
+"lulling","SC5D!","207.3!","V","N"," "," ","l∏Ωæ{∞}l±øºÓ","MS",902
+"dying out","SC5D!","207.3!","E","N"," "," ","Âdµ∫j±øºÓ$∏ºπt","MS",902
+"holding up","SC5D!","207.3!","E","Y","rain","INA","Âho∫{∞}ld±øºÓ$ı∏Ω{∞}p","MS",902
+"NR","SC6N","N208"," ","N"," "," "," ","MS",903
+"calming off","SC6A","208.1","E","N"," "," ","k{h}µ∫{∞}m±øn$∑∫f","MS",904
+"calming","SC6A","208.1","V","N"," "," ","k{h}·∫m±øΩn","MS",904
+"laying","SC6A","208.1","V","N"," "," ","le´{±ø}|±øÓ","MS",904
+"NR","SC6B","208.2(*)"," ","N"," "," "," ","MS",905
+"dying down","SC6C!","208.3!","E","N"," "," ","Âdﬁ´º∫iø|n$ıd∏Ω∫πn","MS",906
+"dying out","SC6C!","208.3!","E","N"," "," ","dﬁ´º∫iø|n$ı∏ºπt","MS",906
+"NR","SC6D"," "," ","N"," "," "," ","MS",907
+"NR","SC7N","N209"," ","N"," "," "," ","MS",908
+"slacken up","SC7A","209.1","E","N"," "," ","Âs≈·Ω{∞}k±øºn$ı∏´{∞}p","MS",909
+"die out","SC7B","209.2","E","N","to)"," ","Âdµ∫±ø$ı∏ºπt","MS",910
+"NR","SC7C!","209.3!"," ","N"," "," "," ","MS",911
+"die down","SC7D!","209.4!","E","N"," "," ","Âdµ∫±ø$ıdµ∫πn","MS",912
+"dying down","SC7D!","209.4!","E","N"," "," ","Âdµ∫±ø±æÓ$Âdµ∫πn","MS",912
+"slacking up","SC7D!","209.4!","E","N"," "," ","Âs≈è·{∞}k±æÓ$ı∏´{∞}p","MS",912
+"abating","SC7D!","209.4!","V","N"," "," ","∞Âbe´{∞}t±øºÓ","MS",912
+"going away","SC8A","210.1","E","N"," "," ","Âgo´º|±øºn$∞ıwe´∫","MS",913
+"calming down","SC8A","210.1","E","N"," "," ","Âkﬁº∫{∞}m±øºn$dµ´∫on","MS",913
+"calm","SC8B","210.2","V","N","to)"," ","kﬁº∫{∞}m","MS",914
+"lie","SC8B","210.2","V","N","to)"," ","lµº∫±ø","MS",914
+"lulling","SC8C","210.3","V","N"," "," ","Âl∏´º{∞}lç±øÓ","MS",915
+"lull down","SC8C","210.3","E","N"," "," ","Âl∏´º{∞}l$ıdµ´∫on","MS",915
+"hold up","SC8C","210.3","E","N"," "," ","Âho´∫{∞}ld$ı∏´º{∞}p","MS",915
+"wind's not so high","SC8C","210.3","S","N"," "," ","Âw±´{∞}nz$nﬁº{∞}t$soº$Âhµ´∫±æ","MS",915
+"calming","SC8C","210.3","V","N"," "," ","Âkﬁº∫{∞}m±øºn","MS",915
+"calming off","SC9A","211.1","E","N"," "," ","Âk`ﬁº∫{∞}m±øºn$ı∑∫{∞}f","MS",916
+"lulling","SC9B","211.2","V","N"," "," ","l∏ó´º{∞ó}l±øºn","MS",917
+"lull down","SC9B","211.2","E","N"," "," ","Âl∏´º{∞}l$ıdµ∫on","MS",917
+"calm down","SC9B","211.2","E","Y"," ","NEW","Âk`ﬁº∫{∞}m$ıdµ∫on","MS",917
+"lulled","SC9C!","211.3!","V","N"," "," ","l∏º{∞}ld","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"dying down","SC10A","212.1","E","N"," "," ","Âdµ´º∫{j}±øºÓ$ıdµ∫πn","MS",920
+"calming down","SC10A","212.1","E","N"," "," ","Âk`ﬁ∫{∞}m±øºÓ$ıdµ´πn","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"calming down","SC11N","N213","E","N"," "," ","kµ∫m±øΩn$daπn","MS",923
+"die down","SC11M!","2n213!","E","N"," "," ","Âdµ´º∫±ø$ıdµ´∫πn","MS",924
+"lull","SC11M!","2n213!","V","N"," "," ","l∏Ωl","MS",924
+"easing up","SC11M!","2n213!","E","Y"," ","SUG","Âi∫z±ø›ºÓ$ı∏ºp","MS",924
+"dying down","SC11A","213.1(*)","E","N"," "," ","Âda´æ∫j±æn$ıdµ´πn","MS",925
+"lull","SC11A","213.1(*)","V","N"," "," ","l∏ó´l","MS",925
+"going down","SC11A","213.1(*)","E","N"," "," ","go∫|±øÓ$daºπn","MS",925
+"NR","SC11B","213.11"," ","N"," "," "," ","MS",926
+"going down","SC11C","213.2","E","N"," "," ","ıgo´º∫|±øºn$Âdµ´∫πn","MS",927
+"dying out","SC11C","213.2","E","N"," "," ","Âdµ´º∫|±øºn$ı∏ºπt","MS",927
+"easing up","SC11C","213.2","E","Y"," ","SUG","Âi∫{j}z±øºÓ$ı∏Ωºp","MS",927
+"letting up","SC11C","213.2","E","Y"," ","SUG","l≤'tn$∏ºp","MS",927
+"letting up","SC11C","213.2","E","Y"," ","SUG/COR","Âl≤tê±øºÓ$ı∏ºp","MS",927
+"ceasing","SC11D","213.3","V","N"," "," ","si∫{±ø}s±æÓ","MS",928
+"letting down","SC11D","213.3","E","N"," "," ","Âl≤´tê±›æÓ$ıdµ´∫πn","MS",928
+"NR","SC11E","213.4"," ","N"," "," "," ","MS",929
+"NR","SC11F","213.5"," ","N"," "," "," ","MS",930
+"dying down","SC11G!","213.7!","E","N"," "," ","Âdµº±ø|±øºÓ$ıdµ´∫πn","MS",931
+"easing up","SC11G!","213.7!","E","N"," "," ","Âi∫{j}z±øºÓ$ı•´p","MS",931
+"letting up","SC11G!","213.7!","E","N"," "," ","Âl≤´Ò±ø›Ó$ı∏Ωp","MS",931
+"dying down","SC11H!","213.8!","E","N"," "," ","Âdµ´∫|±øºn$ıdµ´∫πn","MS",932
+"lull","SC11H!","213.8!","V","N"," "," ","l∏Ωºl","MS",932
+"letting up","SC11H!","213.8!","E","N","wind or rain"," ","Âl≤´tê±øºÓ$ı∏ºp","MS",932
+"calm","SC11H!","213.8!","V","N"," "," ","k`∂∫{∞}m","MS",932
+"becalm","SC11H!","213.8!","V","N"," "," ","bcá`·∫{∞}m","MS",932
+"going down","SC11I!","213.9!","E","Y"," ","AUX","ıgo∫|±øÓ$Âdaπn","MS",933
+"falling","SC11I!","213.9!","V","Y"," ","AUX","f∑∫lç±øÓ","MS",933
+"died down","SC11J!","213.10!","E","N"," "," ","Âdµ´º∫±ød$ıdµ´∫πn","MS",934
+"falling","SC11J!","213.10!","V","N"," "," ","f∑º∫{∞}l±øºÓ","MS",934
+"slackening","SC11J!","213.10!","V","N"," "," ","s≈·'kàÓà±øºÓ","MS",934
+"letting up","SC11J!","213.10!","E","Y"," ","SUG/HRD","ıl≤´tê±øºn$Â∏Ωºp","MS",934
+"it fell","SC11J!","213.10!","S","N"," "," ","±øt$f≤∫l","MS",934
+"getting slacker","SC12A","214.1","E","N"," "," ","ıgà±´'tn$Âs≈è·{∞}k∞´","MS",935
+"calm down","SC12A","214.1","E","N"," "," ","Âcá`·´∫{∞}m$ıdµ´º∫on","MS",935
+"lulling","SC12B","214.2","V","N"," "," ","l∏º∫lç±øΩn","MS",936
+"calming down","SC13","213.6","E","N"," "," ","Âkµ∫{∞}m±øn$ıd∏Ωº∫πn","MS",937
+"lulled","SC13","213.6","V","N"," "," ","l∏´ºld","MS",937
+"dying out","SC14A","215.1","E","N"," "," ","da´æ±ø|±øΩÓ$•πt","MS",938
+"lulling","SC14A","215.1","V","N"," "," ","l∏{∞}l±øÓ","MS",938
+"die down","SC14B","215.2","E","N","to)"," ","Âdµ∫±ø$ıd·Ω∫on","MS",939
+"lulls down","SC15A","216.1","E","N"," "," ","Âl∏´º{∞}lz$ıdµ´∫on","MS",940
+"calming down","SC15A","216.1","E","N"," "," ","Âkà`µæ∫∞m±øºn$ıdµ∫on","MS",940
+"a-lying","SC15A","216.1","V","N"," "," ","∞Âlµ´∫{±ø}|±ø›n","MS",940
+"a-laying","SC15A","216.1","V","N"," "," ","∞Âle´|±øºn","MS",940
+"lies","SC15B","216.2","V","N","in afternoon"," ","lµ´±øz","MS",941
+"let up","SC15B","216.2","E","N"," "," ","Âl≤´{∞}Ò$ı∏´{∞}p","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"dying down","SC16N","N217","E","Y"," ","SUG","Âdµ´±ø|±øºn$ıd·ºoºn","MS",943
+"lull","SC16N","N217","V","N"," "," ","l¶{∞}l","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"ceases","SC17A","218.1","V","N"," "," ","si∫{±ø}s±øºz","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NR","SC17C","218.3"," ","N"," "," "," ","MS",947
+"lull","SC17D","218.4","V","N","""proper word¢"," ","l¶Ωº{∞}l","MS",948
+"falling off","SC17D","218.4","E","N"," "," ","Âf∑Ω{∞}l±øºÓ$ı∑∫{∞}f","MS",948
+"the wind laid","SC17D","218.4","S","N"," "," ","‰∞$ıw±´{∞}n$Âle∫{∞}d","MS",948
+"dying down some","SC18N","N219","E","N"," "," ","Âdµ∫{j}±æn$ıdµ´∫πn$Âs∏´m","MS",949
+"lull down","SC18N","N219","E","N"," "," ","Âl∏Ωºl$ıdµ∫πn","MS",949
+"dying down","SC18A","219.1","E","N"," "," ","Âdµæ|±æn$ıdµ´∫πn","MS",950
+"lulling","SC18A","219.1","V","N","different [than letting up]"," ","l∏ól±æn","MS",950
+"dead calm","SC18A","219.1","K","N","in a tropical storm"," ","Âd≤´{±ø}d$cá{j}`·´∫{∞}m","MS",950
+"easing up","SC18A","219.1","E","N"," "," ","Â±∫{±ø}zn$ı∏´p","MS",950
+"letting up","SC18A","219.1","E","N","might be temporary"," ","Âl≤'tn$ı∏´p","MS",950
+"diminishing","SC18B","219.2","V","N"," "," ","d±øÂm±´n±øºÛ±æÓ","MS",951
+"lull","SC18B","219.2","V","N","""a while ago¢"," ","l∏´l","MS",951
+"lulling some","SC18B","219.2","E","N"," "," ","Âl∏´l±›æÓ$ıs∏´m","MS",951
+"dying out","SC18B","219.2","E","N"," "," ","dµ´|iæÓ$∏ó´πt","MS",951
+"going down","SC18B","219.2","E","N"," "," ","Âgào´º|±æÓ$ıdµ´∫πn","MS",951
+"a while ago","SC18B","219.2","K","Y"," ","INA","∞Âwa∫±ølç$∞gào:","MS",951
+"slowing down","SC18C!","219.3(*)!","E","N"," "," ","Âs≈èoΩº∫±æÓ$ıdµ´∫πn","MS",952
+"abating","SC18C!","219.3(*)!","V","N","""wouldn't take time¢"," ","∞Âbe´'t±æÓ","MS",952
+"dying down","SC18C!","219.3(*)!","E","N"," "," ","Âdµ´|±æÓ$ıdµ´º∫πn","MS",952
+"letting up","SC18C!","219.3(*)!","E","N"," "," ","l≤´tê±æÓ$ı∏´p","MS",952
+"NR","SC18D!"," "," ","N"," "," "," ","MS",953
+"calm down","SC19N","N220","E","N"," "," ","kaæ∫m$dµ´πn","MS",954
+"falling","SC19N","N220","V","N"," "," ","f∑Ω∫lç±øΩn","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"dying out","SC19B","220.4","E","N"," "," ","ıdaæ∫|±øn$Â•πt","MS",956
+"dying down","SC19B","220.4","E","N"," "," ","ıdaæ∫|±øn$daπn","MS",956
+"diminishing","SC19C","220.2(*)","V","N"," "," ","d±øΩÂm±´n±øºÛ±æÓ","MS",957
+"dying down","SC19C","220.2(*)","E","N"," "," ","Âdµ∫{j}±æÓ$ıdµ´∫πn","MS",957
+"stop","SC19C","220.2(*)","V","N"," "," ","stﬁp","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"calming off","SC20A","221.1","E","N"," "," ","Âcá·∫{∞}m±øºn$ı∑∫∑´f","MS",960
+"calm","SC20A","221.1","V","N"," "," ","c·{∞}m","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"calming off","SC20C","221.3","E","N"," "," ","k`ﬁ∫{∞}m±øºn$ı∑∫∑´f","MS",962
+"lulled","SC20C","221.3","V","N"," "," ","l¶Ωld","MS",962
+"rain held up","SC20C","221.3","S","Y"," ","INA","re∫{±ø}n$Âh≤´ld$ı¶Ωp","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"going down","SC21A","222.1","E","N"," "," ","ıgo{π}|±øΩn$Âd·∫πøΩn","MS",964
+"ceasing","SC21A","222.1","V","N"," "," ","siΩæis±øΩn","MS",964
+"calming down","SC21B","222.2","E","N"," "," ","kµæ∫m±øn$da´∫πn","MS",965
+"lulling","SC22N","N223","V","N"," "," ","l∏´∫l±øΩn","MS",966
+"abating","SC22N","N223","V","N"," "," ","be∫tn","MS",966
+"ceasing","SC22A","223.1","V","N"," "," ","si∫s±øºÓ","MS",967
+"calming down","SC22A","223.1","E","N"," "," ","Âk`ﬁ∫{∞}m±ø›n$ıd·Ω∫on","MS",967
+"dying down","SC22A","223.1","E","Y"," ","SUG","Âdµ´º∫|±øºn$ıd·Ωæoºn","MS",967
+"lulling","SC22B","223.2","V","N"," "," ","l∏´∫{∞}l±øÓ","MS",968
+"subsides","SC22C!","223.3!","V","N"," "," ","s±øbÂsµº∫±ødz{zè}","MS",969
+"dies down","SC22C!","223.3!","E","N"," ","CNV","Âdµº±øz$ıdµ´ºoºn","MS",969
+"kind of lulling","SC23A","224.1","E","N"," "," ","k`µ´º∫{±ø}nd∞$Âl∏´{∞}l±øºn","MS",970
+"slacking off","SC23B","224.2","E","N"," ","CNV","Âs≈è·{∞}kà{xà}±øºn$ı∑´{∞}f","MS",971
+"calming off","SC23B","224.2","E","N"," "," ","Âkà`·Ω{∞}m±øºn$ı∑´∫{∞}f","MS",971
+"receding","SC23B","224.2","V","N"," "," ","r±øºÂsi∫{j}d±øºn","MS",971
+"NR","SC23C","224.3"," ","N"," "," "," ","MS",972
+"NR","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NR","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"slowing down","SC24N","N225","E","N"," "," ","Âs≈èoº∫|±øºÓ$ıdµ∫πn","MS",975
+"cease","SC24N","N225","V","N"," "," ","si∫{±ø}s","MS",975
+"lulled off","SC24A","225.1","E","N"," "," ","ıl∏ld$Â∑f","MS",976
+"lull down","SC24B","225.11","E","N","the wind is apt to) (at night"," ","Âl¶Ωº{∞}l$ıda´æ∫oºn","MS",977
+"NR","SC24C","225.2"," ","N"," "," "," ","MS",978
+"die down","SC24D!","225.3!","E","N"," ","CNV","Âda´æ∫±ø$ıd·æ∫oºn","MS",979
+"calming down","SC25A","226.1","E","N"," "," ","kà·m±øΩn$da´∫{π}n","MS",980
+"a-lying","SC25A","226.1","V","N"," "," ","∞lµæ∫{±ø}|±øΩæn","MS",980
+"calming down","SC25B","226.2","E","N"," "," ","Âcá·∫{∞}m±øºÓ$ıdµºπn","MS",981
+"died down","SC25C!","226.3!","E","Y","[∞ó´]: doubtful","FDT","Âdaæ±ød$ıd·Ω∞ó´n","MS",982
+"slowing up","SC26A","227.1","E","N"," "," ","Âslèoº∫|±øºn$ı¶Ω{∞}p","MS",983
+"lulling","SC26A","227.1","V","N"," "," ","Âl¶Ωl±ø›n","MS",983
+"ease off","SC26B!","227.2!","E","N"," "," ","Âi∫z$ı∑∫{∞}f","MS",984
+"lulling down","SC27A","228.1","E","N"," "," ","Âl∏´l±øn$ıda´πn","MS",985
+"dying down","SC27A","228.1","E","N"," "," ","Âda´æ∫|±øn$ıda´πn","MS",985
+"slowing up","SC27B","228.2","E","N"," "," ","slèoº∫±øºn$ı¶Ω{∞}p","MS",986
+"cease","SC27B","228.2","V","N"," "," ","si∫s","MS",986
+"getting slower","SC27B","228.2","E","N"," "," ","Âgà≤´tê±øºÓ$ıslèo∫|∞´","MS",986
+"a-laying","SC28A","229.1","V","N"," "," ","∞Âla´æ∫|nñ","MS",987
+"wind's laying","SC28A","229.1","S","N"," "," ","Âw±´nz$ıle´∫nèñ","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"lulling","SC28C","229.2","V","N"," "," ","l¶Ωºl±øºn","MS",989
+"dying down","SC28C","229.2","E","N"," "," ","Âda´æ∫|±øºn$ıda´∫∞ón","MS",989
+"lulled","SC28D","229.3","V","N"," "," ","l¶óΩld","MS",990
+"wind has laid","SC29A","230.2(*)","E","Y"," ","HRD","w±´{∞}n$h∞›z$Âle´∫{∞}{d}","MS",991
+"calm down","SC29A","230.2(*)","E","N"," "," ","Âcá·∫{∞}m$ıda´∫∞ón","MS",991
+"NR","SC29B","230.1(*)"," ","N"," "," "," ","MS",992
+"ceases","SC29C","230.3","V","N"," "," ","si∫{±ø}s±øºz","MS",993
+"calms down","SC29C","230.3","E","N"," "," ","Âkµæ∫{∞}mz$ıda´∫∞ón","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NR","SC29E"," "," ","N"," "," "," ","MS",995
+"lying","SC30A","231.1","V","N"," "," ","laæ∫{≤æ}|±øΩn","MS",996
+"calming down","SC30A","231.1","E","N"," "," ","kﬁº∫m±øΩn$d·∫πøΩn","MS",996
+"ceased","SC30B","231.2","V","N"," "," ","si∫jst","MS",997
+"slow down","SC30B","231.2","E","N"," "," ","Âs≈oΩº∫πº$ıda´æ∫πn","MS",997
+"wind's ceased some","SC30B","231.2","E","Y","negroes","HRD","w±´nz$si∫js±øºd$ıs¶Ωm","MS",997
+"dying down","SC30B","231.2","E","N"," "," ","Âdaæ∫|±øºn$ıda´æ∫πn","MS",997
+"dying","SC30B","231.2","V","N"," "," ","da´æ∫|±øºn","MS",997
+"holding up","SC30B","231.2","E","N"," "," ","Âhoº∫πºÏd±æn$ı¶Ωp","MS",997
+"letting up","SC30B","231.2","E","Y","rain","SUG/INA","Âl≤´'tn$ı¶Ωp","MS",997
+"decreased","SC30C!","231.3!","V","N"," "," ","ıdi∫jÂk`Úèái∫jst","MS",998
+"lulled","SC30C!","231.3!","V","N"," "," ","l¶óÏd","MS",998
+"dying down","SC30C!","231.3!","E","Y"," ","SUG","Âda´æ∫|±ø›Óà$ıda´æ∫πn","MS",998
+"let up","SC30C!","231.3!","E","N","""about to stop¢"," ","Âl≤´tê$¶Ωp","MS",998
+"calming down","SC31A","232.1","E","N"," "," ","Âc·Ω{∞}m±øºn$ıd·Ωæ∫∞ón","MS",999
+"ceasing","SC31A","232.1","V","N"," "," ","si∫s±øºn","MS",999
+"slacking","SC31B","232.2","V","N"," "," ","slè·{≤}k{x}±øºn","MS",1000
+"lying","SC31B","232.2","V","N"," "," ","lµ∫{j}nñ","MS",1000
+"getting calm","SC31B","232.2","E","N"," "," ","ıØø±ø'tn$Âcá·∫{∞}m","MS",1000
+"calming down","SC31B","232.2","E","N"," "," ","Âcá·∫{∞}m±øºn$ıdµ∫πn","MS",1000
+"ceased","SC32A","233.1","V","N"," "," ","si∫{±ø}st","MS",1001
+"quieting down","SC32A","233.1","E","N"," "," ","Âk`wèa´æ∫∞tê±øºÓ$ıd·Ω∫on","MS",1001
+"calm down","SC32A","233.1","E","N"," "," ","Âk`ﬁ∫{∞}m$ıd·Ωoºn","MS",1001
+"going down","SC32A","233.1","E","N"," "," ","Âgo´º∫πº|±øºÓ$ıd·Ω∫oºn","MS",1001
+"abating","SC32A","233.1","V","N"," "," ","∞Âbe∫{±ø}tê±øºÓ","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"NR","SC32C","233.3"," ","N"," "," "," ","MS",1003
+"subside","SC32D","233.4","V","N"," "," ","s±ø›bÂsa´æ∫{∞}d","MS",1004
+"lull","SC32D","233.4","V","N"," "," ","l¶º{∞}l","MS",1004
+"calming down","SC33A","234.1","E","N"," "," ","ıkà·´∫m±øΩn$Âd·∫πøΩn","MS",1005
+"going down","SC33B","234.2","E","N"," "," ","ıgoºπº±øºn$Âd·Ω∫oºn","MS",1006
+"quieting down","SC34A","235.1","E","N"," "," ","Âk`wèa´æ∫∞tê±øºÓ$ıd·´∫oºn","MS",1007
+"going down","SC34B","235.2","E","N"," "," ","Âgo´º∫πº±ø›Ó$ıd·Ωoºn","MS",1008
+"NR","SC34C","235.3"," ","N"," "," "," ","MS",1009
+"ceasing","SC35A","236.1","V","N"," "," ","si∫s±øºn","MS",1010
+"dying down","SC35A","236.1","E","N"," "," ","Âda´æ∫|±øºn$ıd·Ω∫oºn","MS",1010
+"NA","SC35B","236.2"," ","N"," "," "," ","MS",1011
+"getting calm","SC35C","236.3(*)","E","N"," "," ","g≤t±øn$Âkà{j}·∫{∞}m","MS",1012
+"beginning to fall","SC35C","236.3(*)","E","N"," "," ","Âg±nnñ$t∞$Âf∑Ω∑´Ï","MS",1012
+"falling","SC35C","236.3(*)","V","N"," "," ","f∑Ω∑´l±øºÓ","MS",1012
+"ceased","SC35C","236.3(*)","V","N"," "," ","si∫{i´}st","MS",1012
+"calming","SC35D"," ","V","N"," "," ","k`ﬁ∫{∞}m±øºn","MS",1013
+"calm down","SC35D"," ","E","Y"," ","HRD","Âcá·´{∞}m$ıd·Ωoºn","MS",1013
+"NR","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"calm down","SC36B","237.2","E","N"," "," ","Âk`ﬁó∫{∞}m$ıda´∫πn","MS",1016
+"dying down","SC36B","237.2","E","N"," "," ","Âdaæ∫|±æÓ$ıda˛´∫π˛{n}","MS",1016
+"let up","SC36B","237.2","E","N","a few minutes in the midst of a storm"," ","l≤´'t$¶Ωp","MS",1016
+"quieted down","SC36C","237.3","E","N"," "," ","Âk`wµ´º∫∞tê±ød$ıdµ´º∫πn","MS",1017
+"ceasing","SC36C","237.3","V","N"," "," ","si∫jsn","MS",1017
+"diminishing","SC36C","237.3","V","N"," "," ","d∞›Âm±´n±ø›Û±æn","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"slowing down","SC37","238","E","N"," "," ","ıslo∫{π}±øn$Âda´πn","MS",1019
+"the wind's not blowing as hard","SC37","238","S","N"," "," ","‰∞$w±n$nﬁt$blo{π}±øn$∞z$Âhµæ¥d","MS",1019
+"ceasing","SC38N","N239","V","N"," "," ","siæ∫jsn","MS",1020
+"slacking up","SC38N","N239","E","N"," "," ","Âs≈·{≤}k±æn$ı¶Ωp","MS",1020
+"slowing up","SC38N","N239","E","N"," "," ","Âs≈o∫π|±øn$ı¶Ωp","MS",1020
+"slowing down","SC38N","N239","E","N"," "," ","Âs≈o∫π|±ø›ºn$ıda˛´æ∫πn","MS",1020
+"dying down","SC38N","N239","E","N"," "," ","Âda´æ∫±ø›ºn$ıda´æ∫πn","MS",1020
+"weakening","SC38N","N239","V","N"," "," ","Âwi∫j'kn±øºn","MS",1020
+"calming down","SC38A","239.1","E","N"," "," ","Âcá`·Ωm±æn$ıda´æ∫πn","MS",1021
+"laying","SC38A","239.1","V","N"," "," ","le∫±|±æn","MS",1021
+"lay","SC38A","239.1","V","N","""wind'll lay at night¢","CNV","le∫{±}","MS",1021
+"wind'll lay at night","SC38A","239.1","E","N"," ","CNV","w±´ndÏ$Âle∫{±}$·›Ωt$Âna´æ±øt","MS",1021
+"slacks","SC38A","239.1","V","N"," ","CNV","s≈·´ks","MS",1021
+"getting lighter","SC38B","239.2","E","N"," "," ","ıgà±Ω'tn$Âla´æ±øtê∞æ","MS",1022
+"die down","SC38B","239.2","E","N"," "," ","Âda´æ∫{∞}$ıda´æ∫πn","MS",1022
+"letting up","SC38B","239.2","E","N"," "," ","Âl≤´'tn$ı¶Ωp","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"lull","SC38D!","239.4(*)!","V","N"," "," ","l¶ΩÏ","MS",1024
+"dying down","SC38D!","239.4(*)!","E","N"," "," ","Âda´æ∫|±æn$ıd·Ωæπn","MS",1024
+"slowing up","SC38D!","239.4(*)!","E","Y"," ","DBT","Âs≈o∫π|±æÓ$ı¶Ωp","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," ","MS",1025
+"settling","SC39A","240.1","V","N"," "," ","s≤´'tl±æÓ","MS",1026
+"getting quiet","SC39A","240.1","E","N"," "," ","g≤´tn$k`wèµº∫∞t","MS",1026
+"laying","SC39A","240.1","V","N"," "," ","le´|±øºn","MS",1026
+"slacked up","SC39A","240.1","E","Y","of rain","INA","Âsl·{≤}kt$ı¶Ωp","MS",1026
+"lightened up","SC39A","240.1","E","Y","of rain","INA","Âla´æ±ø'tnd$ı¶Ωp","MS",1026
+"dying down","SC39A","240.1","E","N"," "," ","Âda´æ∫±øºn$ıda´æ∫πn","MS",1026
+"laid","SC39B!","240.2!","V","N"," "," ","le´∫{±ø}d","MS",1027
+"lull","SC39B!","240.2!","V","N"," "," ","l¶óΩÏ","MS",1027
+"eased off","SC39B!","240.2!","E","N"," "," ","Âi∫jz$ıd∂´∫∑´f","MS",1027
+"easing up","SC39B!","240.2!","E","N"," "," ","Âi∫jzn$¶Ωp","MS",1027
+"dying down","SC39B!","240.2!","E","N"," "," ","Âda´æ∫|±æn$ıd·Ω∫πn","MS",1027
+"quitting","SC39B!","240.2!","V","N"," "," ","Âk`wè±´tê±æn","MS",1027
+"letting up","SC39B!","240.2!","E","N","either wind or rain"," ","Âl≤´'tn$¶Ωp","MS",1027
+"moderating","SC39B!","240.2!","V","N"," "," ","Âmﬁó∫d¥ıe´∫'tn","MS",1027
+"slack","SC39B!","240.2!","V","N","more with rain"," ","s≈·{≤}k","MS",1027
+"calming down","SC40A","241.1","E","N"," "," ","kà`{j}·´m±æn$ıdµ´on","MS",1028
+"getting quiet","SC40A","241.1","E","N"," "," ","gà{j}±´tên$k`wèµ´∫±øtê","MS",1028
+"laying","SC40A","241.1","V","N"," "," ","le∫iø|±æn","MS",1028
+"lying","SC40A","241.1","V","N"," "," ","lµ´∫|±æn","MS",1028
+"dying down","SC40B","241.2","E","N"," "," ","Âdµ´º∫|±æÓ$ıda´æ∫on","MS",1029
+"decreasing","SC40B","241.2","V","N"," "," ","Âd±iık`“èii´s±æn","MS",1029
+"calming down","SC41A","242.1","E","N"," "," ","ıkà·∫m±øΩn$Âd·∫πøΩn","MS",1030
+"ceasing","SC41B","242.2","V","N"," "," ","s±is±æn","MS",1031
+"getting calm","SC41B","242.2","E","N"," "," ","Âg≤´tên$Âk`µæ∫{∞}m","MS",1031
+"laying","SC41B","242.2","V","N"," "," ","leΩ∫{±ø}|±æÓ","MS",1031
+"going","SC42N","N243","V","N"," "," ","goΩº∫±›æn","MS",1032
+"laying","SC42N","N243","V","N"," "," ","le´∫{j}±æn","MS",1032
+"laying","SC42N","N243","V","N"," "," ","le˛∫|±›æn","MS",1032
+"ceasing","SC42N","N243","V","N"," "," ","sii´st±˛æn","MS",1032
+"dying down","SC42N","N243","E","N"," "," ","Âda´æ|±Ωæn$Âda˛´æ∫o˛{n}","MS",1032
+"NR","SC42M"," "," ","N"," "," "," ","MS",1033
+"ceasing","SC42A","243.1","V","N"," "," ","s±´æi´æs±æn","MS",1034
+"getting still","SC42A","243.1","E","N"," "," ","gà±Ωtê±æn$st±æÏ","MS",1034
+"letting up","SC42B!","243.2!","E","N"," "," ","Âl≤æ'tn$ı¶Ωp","MS",1035
+"dying down","SC42B!","243.2!","E","N"," "," ","ıdµ´|j±æÓ$Âdµ´πn","MS",1035
+"passing","SC42B!","243.2!","V","Y"," ","FDT","p`·´∫{≤}s±æÓ","MS",1035
+"lulled","SC42C!","243.3!","V","N"," "," ","l∏´Ïd","MS",1036
+"dropping","SC42C!","243.3!","V","N"," "," ","dÚµæp±ø›Ó","MS",1036
+"lulling","SC42C!","243.3!","V","N"," "," ","l∏´Ï±ø›Ó","MS",1036
+"falling","SC42C!","243.3!","V","N"," "," ","f∑Ω∫oºÏ±øÓ","MS",1036
+"easing up","SC42C!","243.3!","E","N"," "," ","Âiæi´z±øÓà$∏´p","MS",1036
+"dying","SC42C!","243.3!","V","N"," "," ","dµ´∫|±øÓ","MS",1036
+"dying down","SC42C!","243.3!","E","N"," "," ","dµ´|±øΩÓà$da∫πøn","MS",1036
+"NR","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"dying","SC42E!","243.5!","V","N"," "," ","da´æ∫{∞}|±ø›n","MS",1038
+"NR","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"getting down","SC43B","244.2","E","N"," "," ","Âg±´tên$daæ∫on","MS",1040
+"ease off","SC43B","244.2","E","N"," "," ","Âii´z$Â∑Ωof","MS",1040
+"letting up","SC43C","244.3","E","N"," "," ","Âl≤´tê±æÓ$¶Ωp","MS",1041
+"ceasing","SC43C","244.3","V","N"," "," ","sii´s±æÓ","MS",1041
+"calming down","SC43C","244.3","E","N"," "," ","k`ﬁ´ºm±æÓ$daæon","MS",1041
+"calm","SC44A","245.1","V","N"," "," ","Âk`·´{∞}m","MS",1042
+"getting lighter","SC44A","245.1","E","N"," "," ","Âg≤´tên$ılµ´±øtê∞æ","MS",1042
+"about quit","SC44A","245.1","K","N"," "," ","∞b·´ot$kw±´t","MS",1042
+"about stop","SC44A","245.1","K","N"," "," ","∞b·´ot$stﬁºp","MS",1042
+"letting up","SC44A","245.1","E","N"," "," ","Âl≤´tên$ı¶Ωp","MS",1042
+"holding up","SC44A","245.1","E","N"," "," ","Âhoº∫πºÏd±æn$ı¶Ωp","MS",1042
+"dying down","SC44A","245.1","E","N"," "," ","Âdaæ|±æn$ıdµ´∫on","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"going down","GA1N","N246","E","N"," "," ","go∫±øn$Âda´πn","MS",1044
+"calm","GA1N","N246","V","N"," "," ","kﬁ∫{∞}m","MS",1044
+"calming down","GA1A","246.1(*)","E","N"," "," ","Âk`ﬁº∫{∞}m±æn$ıdµ∫πn","MS",1045
+"ceasing down","GA1A","246.1(*)","E","N"," "," ","Âsi∫{±ø}s±æn$ıdµº∫πn","MS",1045
+"calming down","GA1A","246.1(*)","E","Y"," ","AUX","ıcá·Ωm±øΩn$Âd·πn","MS",1045
+"a-laying","GA1A","246.1(*)","V","Y"," ","AUX","∞Âlçe´∫|±øΩn","MS",1045
+"letting up","GA1B","246.11","E","N","oftener of rain"," ","Âl≤Ò±øÓ$ı∏ºp","MS",1046
+"ceased","GA1B","246.11","V","N"," "," ","si∫st","MS",1046
+"cease","GA1B","246.11","V","N"," "," ","si∫s","MS",1046
+"lulled","GA1C","246.2","V","N"," "," ","l∏º{∞}ld","MS",1047
+"lulled","GA1D","246.3","V","N"," ","CNV","l∏ºld","MS",1048
+"letting up","GA1E","246.4","E","N"," "," ","Âl≤´tê±æÓ$ı∏Ωp","MS",1049
+"quieting down","GA1E","246.4","E","N"," "," ","Âk`wèa´æ|∞tê±æÓ$ıd∏´ºπn","MS",1049
+"subsided","GA1E","246.4","V","N"," "," ","s∞›bsa´æ∫{±ø}d±øºd","MS",1049
+"sinking","GA1F!","246.5!","V","N"," "," ","s±Ók±øÓ","MS",1050
+"dying down","GA1F!","246.5!","E","N"," "," ","dµ´{±ø}|±øÓ$dµ´ºπn","MS",1050
+"died out","GA1G!","246.6!","E","N"," ","CNV","Âdaæ∫±ød$ı•ºπt","MS",1051
+"dying out","GA1H!","246.7!","E","N"," "," ","ıdaæ|±øæÓ$Â∏ó´ºπt","MS",1052
+"beginning to lull","GA1H!","246.7!","E","N"," "," ","b∞gº±´n±æÓ$t`∞$l∏{∞}l","MS",1052
+"letting up","GA1H!","246.7!","E","N","more of rain"," ","Âl≤´tê±æÓ$ı∏ó´ºp","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"getting lighter","GA2A","247.1","E","N"," "," ","ıg≤´tê±æÓ$Âlµº±øt∞´æ","MS",1054
+"calming down","GA2A","247.1","E","N"," "," ","Âk`ﬁº∫{∞}m±æn$ıdµ´∫πn","MS",1054
+"laying","GA2B","247.2","V","N"," "," ","le´∫|±øºn","MS",1055
+"going down","GA2B","247.2","E","N"," "," ","Âgo´º∫±øΩn$dµ´º∫πn","MS",1055
+"dying down","GA3A","248.1","E","N"," "," ","d•±ø|±øΩÓ$d•Ωπn","MS",1056
+"laying","GA3A","248.1","V","Y"," ","SUG/OLD","lçe´∫±øΩn","MS",1056
+"calming off","GA3B","248.2","E","Y"," ","SUG","Âkà·∫m±øºn$ı∑∫{∞}f","MS",1057
+"lulling","GA4N","N249","V","N"," "," ","lç∏l±øΩn","MS",1058
+"dying down","GA4A","249.1","E","N"," "," ","ıdµ´∫±ø|±Ó$Âdµ´º∫on","MS",1059
+"dying out","GA4A","249.1","E","N"," "," ","Âdµ´∫±ø|±Ó$ı∏ºπt","MS",1059
+"easing off","GA4B","249.2","E","N"," "," ","Âi∫z±øºn$ı∑´{∞}f","MS",1060
+"calming down","GA4B","249.2","E","N"," "," ","Âkµ´∫{∞}m±øºn$ıdµ´º∫on","MS",1060
+"dying down","GA4C!","249.3!","E","N"," "," ","Âdµ´∫±ø|n$ıdµ∫on","MS",1061
+"lulled","GA4C!","249.3!","V","N"," "," ","l∏Ωld","MS",1061
+"abating","GA4C!","249.3!","V","Y","sailor's term","HRD","∞Âbe´∫tê±øºÓ","MS",1061
+"dying down","GA5A","250.1","E","N"," "," ","Âdµ´∫{j}±øΩn$ıdµ´º∫o´n","MS",1062
+"ease up","GA5A","250.1","E","N"," "," ","Â±∫z$ı∏Ωp","MS",1062
+"lulling","GA5A","250.1","V","N"," "," ","l∏Ωl±øºÓ","MS",1062
+"abating","GA5A","250.1","V","N"," "," ","∞Âbe´∫tê±øΩÓ","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"lull","GA5C","250.3","V","N"," "," ","l∏Ωl","MS",1064
+"dying down","GA5C","250.3","E","N"," "," ","Âdµ´∫{±ø}|±øºn$ıdµ´∫on","MS",1064
+"moderating","GA5C","250.3","V","N"," "," ","Âmﬁóæd¥ıe´∫tê±øºÓ","MS",1064
+"abated","GA5C","250.3","V","Y","rare","SUG/HRD","∞Âbe´∫tê±øºd","MS",1064
+"subsided","GA5D!","250.4!","V","N"," ","CNV","s±øΩbÂsµæ∫±ød±øºd","MS",1065
+"dying out","GA5E!","250.5!","E","N"," "," ","Âdµ´∫|±ø›ºn$ı•Ωot","MS",1066
+"dying down","GA5E!","250.5!","E","N"," "," ","Âdµ´∫|±ø›ºn$ıdµ´º∫on","MS",1066
+"lulling","GA5E!","250.5!","V","N"," "," ","l∏lç±øºÓ","MS",1066
+"lulling down","GA6A","251.1","E","N"," "," ","Âl∏ól±øºn$ıdµ´∫on","MS",1067
+"dying out","GA6A","251.1","E","N"," "," ","Âdµ∫±øº|±øºn$ı•´ot","MS",1067
+"dies out","GA6A","251.1","E","N"," "," ","Âdµ∫±øz$ı•ºot","MS",1067
+"falling","GA6A","251.1","V","N"," "," ","f∑´∫l±øºn","MS",1067
+"lulls","GA6A","251.1","V","N"," "," ","l∏ólçz","MS",1067
+"going down","GA6B!","251.2!","E","N"," "," ","Âgoº∫±øºÓ$ıdµ´on","MS",1068
+"lull","GA6B!","251.2!","V","Y","sometimes","SUG/HRD","l∏ól","MS",1068
+"changing","GA6B!","251.2!","V","N"," "," ","tÛe∫{∞}nd˙±øºn","MS",1068
+"decrease","GA6B!","251.2!","V","N"," "," ","Âdi∫ıkrèi∫s","MS",1068
+"lightening up","GA7","256","E","N"," "," ","Âla´æ±ø'tn±øºn$ı∏´º{∞}p","MS",1069
+"calms off","GA7","256","E","N"," "," ","Âcá·∫{∞}mz$ı∑Ω∫∑f","MS",1069
+"slowing down","GA8A","257.1","E","N"," "," ","Âslèo∫±øºn$ıda´æ∫∞ón","MS",1070
+"dying down","GA8B","257.2","E","N"," "," ","Âda´æ∫±øºn$ıd·Ω∫∞ón","MS",1071
+"laying","GA8B","257.2","V","N"," "," ","le´|±øºn","MS",1071
+"calming up","GA9A","257A.1","E","N"," "," ","Âkﬁ∫m±øn$ı∏ºp","MS",1072
+"ceasing","GA9B","257A.2","V","N"," "," ","si{i´}sn","MS",1073
+"a-calming down","GA10A","258.1","E","N"," "," ","∞kà·∫m±øΩn$d·˛π˛n","MS",1074
+"a-lying","GA10A","258.1","V","Y"," ","SUG","∞lça±æ|±øΩn","MS",1074
+"calming off","GA10B","258.2","E","N"," ","SIC","Âcá·∫{∞}m±øºn$ı∑∫{∞}f","MS",1075
+"calming down","GA11N","N258A","E","N"," "," ","Âkﬁm±øΩn$ıda´πn","MS",1076
+"break off","GA11N","N258A","E","N"," "," ","Âbre{±ø}k$ı∂´of","MS",1076
+"NR","GA12A","259.1"," ","N"," "," "," ","MS",1077
+"lying low","GA12B!","259.2(.3)","E","N"," "," ","ılaæ∫±øn$Âloº{πº}","MS",1078
+"a-slacking up","GA13A","260.1","E","N"," "," ","∞sl·Ωkà±øΩn$∏Ωp","MS",1079
+"getting calmer","GA13A","260.1","E","N"," "," ","gà±tn$kµ∫m∞","MS",1079
+"a-laying","GA13A","260.1","V","N"," "," ","∞le´∫|±øΩn","MS",1079
+"a-lulling","GA13A","260.1","V","N"," "," ","∞l∏∫lç±øΩn","MS",1079
+"lulling","GA13B!","260.2!","V","N"," "," ","l¶Ωl±øºÓ","MS",1080
+"going down","GA13B!","260.2!","E","N"," "," ","ıgo´∫±øÓ$Âda´æ∫on","MS",1080
+"dying down","GA13B!","260.2!","E","N"," "," ","Âda´æ∫±ø›Ó$ıda´æ∫on","MS",1080
+"abating","GA13B!","260.2!","V","Y"," ","SUG","∞Âbe´∫tê±øºÓ","MS",1080
+"ceased","GA14A","261.1","V","N"," "," ","si∫jst","MS",1081
+"laying","GA14A","261.1","V","N"," "," ","le´|±øºn","MS",1081
+"quiet down","GA14A","261.1","E","N"," "," ","Âk`wa´æ∫|∞t$ıdµ´º∫oºn","MS",1081
+"lays","GA14B","261.3","V","N"," "," ","le∫{±øΩ}z","MS",1082
+"slack off","GA14C","261.2","E","N"," "," ","Âs≈è·{≤}k$ı∑º∫{∞}f","MS",1083
+"laying","GA14C","261.2","V","N"," "," ","le∫{±ø}±æn","MS",1083
+"calms off","GA14C","261.2","E","N"," "," ","Âk`ﬁ∫{∞}mz$ı∑º∫{∞}f","MS",1083
+"going to lay tonight","GA14C","261.2","E","N","wind's)"," ","ıgo˛ºπ˛Ò∞$Âle∫±ø$t`∞ına∫±øt","MS",1083
+"getting lighter","GA14C","261.2","E","N"," "," ","ıgà≤´'tn$Âlµº∫±øtê∞","MS",1083
+"lulling","GA15A","262.1","V","N"," "," ","l∏´∫{∞}l±øΩn","MS",1084
+"laying","GA15A","262.1","V","Y"," ","SUG","le∫|±øΩn","MS",1084
+"dying down","GA15B","262.2","E","N"," "," ","dµº|±øºn$d·∫on","MS",1085
+"ceasing","GA15B","262.2","V","Y"," ","HRD","si∫{j}s±ø›n","MS",1085
+"going down","GA15B","262.2","E","N"," "," ","Âgoº∫±øºn$ıd·∫on","MS",1085
+"calm down","GA16A","263.2","E","N"," "," ","Âkﬁóm$ıd·Ω∫on","MS",1086
+"lay","GA16A","263.2","V","N"," "," ","le´∫","MS",1086
+"getting less","GA16B","263.1","E","N"," "," ","ıgà≤´tê±øºÓ$Âl≤´{∞}s","MS",1087
+"abating","GA16B","263.1","V","N"," "," ","∞Âbe´{∞}tê±øΩÓ","MS",1087
+"lulled","GA16B","263.1","V","N"," "," ","l∏´ld","MS",1087
+"letting up","GA16C","263.21","E","N"," "," ","Âl≤'tn$ı∏´ºp","MS",1088
+"died down","GA16D!","263.3!","E","N"," "," ","Âdaæ∫±ød$ıd·´∫on","MS",1089
+"calming down","GA17N","N264","E","N"," "," ","Âk`µ:{∞}m±øn$ıd·πn","MS",1090
+"ceasing","GA17N","N264","V","N"," "," ","si∫{i´}s±øn","MS",1090
+"let up","GA17","264","E","N"," "," ","Âl≤tê$∏´ºp","MS",1091
+"ceased","GA17","264","V","N"," "," ","si∫{i´}st","MS",1091
+"stopped","GA17","264","V","N"," "," ","stﬁºpt","MS",1091
+"calming down","GA18A","264A.1","E","N"," "," ","Âk·∫m±øn$ıda´πn","MS",1092
+"quit blowing","GA18B","264A.2","E","N"," "," ","Âkw±t$ıblo∫{π}±øn","MS",1093
+"laying","GA18B","264A.2","V","N"," "," ","le∫{±ø}±øn","MS",1093
+"calm","GA18B","264A.2","V","N"," "," ","kµæ∫{∞}m","MS",1093
+"laid","GA18B","264A.2","V","N","preterite and past participle"," ","le∫{±ø}d","MS",1093
+"calmed off","GA19A","265.1","E","Y"," ","AUX2","Âcá·´∫{∞}md$ı∑Ω∑f","MS",1094
+"calms off","GA19B","265.2","E","N"," "," ","Âkµ´∫{∞}mz$ı∑º∫∑´ºf","MS",1095
+"slacked off","GA20A","266.1","E","N"," "," ","Âslè·{∞}kt$ı∑∑´f","MS",1096
+"ceased","GA20A","266.1","V","N"," "," ","si∫{j}st","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"slacking off","GA21A","267.1","E","N"," "," ","ısl·k±øn$Â∂´{∑}f","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"wind's gone","GA22A","268A.1","E","N"," "," ","w±nz$g∑∫n","MS",1100
+"slowing up","GA22B","268A.2","E","N"," "," ","Âslèoº{π}±øÓ$ı¶Ω{∞}p","MS",1101
+"NR","GA23A","268.1"," ","N"," "," "," ","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"NR","GA23C","268.2"," ","N"," "," "," ","MS",1104
+"NR","GA23D!","268.3"," ","N"," "," "," ","MS",1105
+"dies down","GA23E!","268.4!","E","N"," "," ","Âda´æ±øz$ıd·Ωπn","MS",1106
+"easing up","GA23F!","268.5!","E","N"," "," ","Âi∫z±øºÓ$ı∏´p","MS",1107
+"mighty still","GA24N","N269","K","N"," "," ","ma´æ∫{±ø}tê±ø´º$Âst±∫{∞}l","MS",1108
+"stop blowing","GA24N","N269","E","N"," "," ","ıstµæp$Âbloº{πº}±øn","MS",1108
+"letting up","GA24N","N269","E","Y"," ","SUG","ıl≤tê±øºn$Â∏´ºp","MS",1108
+"a-laying","GA24A","269.1","V","N"," "," ","∞Âle∫{±øΩ}|±øΩæn","MS",1109
+"calm down","GA24B","269.2","E","Y"," ","AUX","Âk`ﬁº∫{∞}m$ıd·Ω∫on","MS",1110
+"ceasing","GA24B","269.2","V","N"," "," ","si∫{j}z±øºn","MS",1110
+"calmed","GA24B","269.2","V","N"," "," ","kà·∫{∞}md","MS",1110
+"ceasing","GA25N","N269A","V","N"," "," ","si{i´}stn","MS",1111
+"dying down","GA26","270A","E","N"," "," ","daæ±øn$d·Ωπn","MS",1112
+"falling","GA27!","270!","V","N"," "," ","f∑{π}ln","MS",1113
+"has ceased to blow","GA28","271a","E","N"," "," ","h∞´z$Âsi∫{i´}s$t∞$b≈oº{π}","MS",1114
+"has eased","GA28","271a","E","N"," "," ","h∞´z$Âi∫{i´}zd","MS",1114
+"subsiding","GA28","271a","V","N"," "," ","s∞bèÂsa´æ{±ø}d±øÓ","MS",1114
+"getting milder","GA28","271a","E","N"," "," ","g≤tê±øÓ$Âma´æ∫{∞}Ïd∞","MS",1114
+"getting lighter","GA28","271a","E","N"," "," ","g≤tê±øÓ$Âla´æ±øtê∞","MS",1114
+"going down","GA29A","271.1","E","N"," "," ","Âgoº±øºn$ıd·Ω∫on","MS",1115
+"getting lighter","GA29A","271.1","E","N"," "," ","ıgà±´'tn$Âlµ´±øtê∞","MS",1115
+"ceasing","GA29B","271.2","V","N"," "," ","si∫{j}s±øºn","MS",1116
+"ceasing","GA29B","271.2","V","N"," "," ","si∫s±øºn","MS",1116
+"laying","GA29B","271.2","V","Y"," ","HRD","le´∫±øºn","MS",1116
+"waiting for the wind to stop ceasing","GA29B","271.2","E","N"," "," ","Âwe´'tn$f∞$‰∞$Âw±´n$ıt∞$Âstµp$ısi{i´}s±øºn","MS",1116
+"NR","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"NR","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"slowing down","GA30C!","272.3!","E","N"," "," ","Âsloº{πº}±øn$ıd·Ωπn","MS",1119
+"NR","GA30D"," "," ","N"," "," "," ","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"ceased","GA31","272A","V","N"," "," ","si{i´}st","MS",1122
+"ceasing","GA32","272B","V","Y"," ","FDT","si{i´}sn","MS",1123
+"stopping off","GA33A","272C1","E","N"," "," ","stµæ'pm$∂´of","MS",1124
+"diminishing","GA33A","272C1","V","N"," "," ","d±øÂm±n±øÛ±øºn","MS",1124
+"slowing down","GA33B","272C2","E","N"," "," ","ıslo{π}±øÓ$Âda´πn","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"calming down","GA34A","273.1","E","N"," "," ","k·´∫m±øΩn$d·Ω∫πøn","MS",1127
+"laying","GA34B","273.2","V","N"," "," ","le∫{±ø}±øºn","MS",1128
+"lays","GA35N","N273A","V","N"," "," ","le∫{±ø}z","MS",1129
+"is ceased","GA36N","N274A","E","N"," "," ","±øz$Âsi{i´}st±ød","MS",1130
+"laying","GA36N","N274A","V","Y"," ","SUG","le{±ø}±øn","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"dying away","GA37M!","NC274","E","N"," "," ","Âda´æ∫|±øÓ$∞ıwe∫{±ø}","MS",1132
+"go a little slower","GA37A","274.1","E","N"," "," ","goºπº$∞$ıl±´têl$Âslèoºπº|¥","MS",1133
+"calms down","GA37A","274.1","E","N"," "," ","Âkà`·∫{≤}mz$ıd·∫o´n","MS",1133
+"calming down","GA37B","274.2","E","N"," "," ","k`ﬁ∫{∞}m±øºn$ıd·∫on","MS",1134
+"laid","GA37B","274.2","V","N"," "," ","le∫±øºd","MS",1134
+"slowing down","GA37C","274.21","E","N"," "," ","Âslo{π}±øn$ıda´πn","MS",1135
+"getting calm","GA37C","274.21","E","N"," "," ","g≤'tn$Âkµ∫{∞}m","MS",1135
+"going away","GA37C","274.21","E","N"," "," ","ıgo{π}±øn$∞Âwe{±ø}","MS",1135
+"slowing down","GA37D!","274.7!","E","N"," "," ","Âsloº{π}±øÓ$ıda´πn","MS",1136
+"letting up","GA37E!","274.8!","E","N"," "," ","ıl≤tê±øÓ$Â∏´º{∞}p","MS",1137
+"dying","GA37E!","274.8!","V","N"," "," ","Âda´æ{±ø}±øÓ","MS",1137
+"gone","GA37E!","274.8!","V","N"," "," ","g∂´on","MS",1137
+"slackening","GA37E!","274.8!","V","N"," "," ","sl·{∞}kn±øÓ","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"dying down","GA37G!","274.4!","E","N"," "," ","Âda´æ∫|±øºÓ$ıd·∫on","MS",1139
+"let up","GA37H!","274.5!","E","Y","of rain","INA","Âl≤´t$ı¶Ωp","MS",1140
+"falling","GA37H!","274.5!","V","N"," "," ","f∑∫∑´l±øºÓ","MS",1140
+"dropping","GA37H!","274.5!","V","N"," "," ","déÚﬁp±æÓ","MS",1140
+"dying down","GA37I!","274.6!","E","N"," "," ","ıda´æ∫{±ø}±øÓ$Âd·Ωπn","MS",1141
+"ceasing","GA38","275","V","N"," "," ","si∫{i´}s±øºn","MS",1142
+"is starting to ease off","GA39","275A","E","N"," "," ","±øz$Âstµæ¥'tn$t∞$Âi∫{i´}z$ı∂´∑f","MS",1143
+"laying","GA40","276A","V","N"," "," ","le{±ø}|n","MS",1144
+"calming down","GA41","276B","E","N"," "," ","Âkﬁº∫{∞}m±øn$ıda´πn","MS",1145
+"ceases","GA42A","276.1","V","N"," "," ","si∫{j}s±øºz","MS",1146
+"ceasing","GA42A","276.1","V","N"," "," ","siæ∫js±øºn","MS",1146
+"laying","GA42B","276.2","V","N"," "," ","le´±øº|±øºn","MS",1147
+"laying","GA43","277","V","N"," "," ","le∫|±øΩn","MS",1148
+"calming down","GA43","277","E","Y"," ","SUG","kà·∫m±Ωn$Âd·∫πøn","MS",1148
+"settling","GA44A","278.1","V","N"," "," ","s≤´tlnñ","MS",1149
+"it's calmed a little","GA44A","278.1","S","N"," ","CNV","±øºts$Âk·{∞}md$∞Âl±´têl","MS",1149
+"going down","GA44A","278.1","E","N"," "," ","Âgoº∫πºnı$ıd·∫on","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"quit blowing","GA44C","278.3","E","N"," "," ","Âkwè±´t$ıbloº∫πº±øºn","MS",1151
+"ceased","GA44C","278.3","V","N","later [after it quit blowing]"," ","siæ∫jst","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"going to lie","GA44E","278.5","E","N"," "," ","go{π}ntê∞$Âla´æ∫{∞}","MS",1153
+"going to lie","GA44E","278.5","E","N"," "," ","go{π}n∞$Âla´æ∫{∞}","MS",1153
+"falling","FL1","252","V","N"," "," ","f∑∫{∞}l±øºn","MS",1154
+"goes down","FL1","252","E","N"," "," ","ıgoº∫z$Âd·æ∫on","MS",1154
+"a-calming down","FL1","252","E","N"," "," ","∞Âkﬁ∫{∞}m±øºn$ıdµ´º∫on","MS",1154
+"dropping","FL2A","253.1","V","N"," "," ","déÚ∂p±øºn","MS",1155
+"becoming calm","FL2B","253.2","E","N"," "," ","b±øk∏´ºm±øÓ$Âkﬁ∫{∞}m","MS",1156
+"quieted down","FL2C!","253.3!","E","N"," "," ","Âkwèµ´∫∞tê±øºd$ıdµ∫on","MS",1157
+"lulled","FL2C!","253.3!","V","N","sudden"," ","l•æld","MS",1157
+"dies out","FL2C!","253.3!","E","N","slowly"," ","Âda´æ∫±øz$ı•Ωºot","MS",1157
+"calm down","FL2C!","253.3!","E","N","commonest"," ","Âkµ∫{∞}m$ıd·Ωæon","MS",1157
+"calming","FL3A","254.1","V","N"," "," ","k`ﬁ∫{∞}m±øºn","MS",1158
+"died down","FL3A","254.1","E","N"," "," ","Âdµ∫±ød$ıdµ∫o´n","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"dying off","FL4","254A","E","N"," "," ","Âda´æ∫|±øn$ı∂´oΩf","MS",1160
+"wind ain't a-blowing","FL4","254A","E","N"," "," ","Âw±nd$ıe{±ø}nt$∞Âbloºπº±øn","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"decreasing","FL5B","255.2","V","N"," "," ","Âdiıkrái∫sn","MS",1162
+"lulling","FL5B","255.2","V","Y"," ","SUG","l¶Ωl±øºÓ","MS",1162
+"","","","","","","","","",

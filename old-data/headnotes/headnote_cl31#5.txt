@@ -1,0 +1,209 @@
+highway (cl31#5.asc)
+
+Items
+=====
+                            asphalt    4
+                       asphalt road    6
+                      asphalt stuff    1
+                        avenue road    1
+              Belgian block streets    1
+                           big road    2
+                   black river road    1
+                         brick road    1
+                             cement    8
+                        cement road   23
+                       cement roads    1
+                          clay road    1
+                         clay roads    1
+                      cobble stones    1
+                   Cobbtown highway    1
+                           concrete    2
+                      concrete road   14
+                        county road    2
+                          dirt road    2
+                         dirt roads    1
+                         expressway    1
+                             gravel    1
+                          hard road    4
+                  hard surface road    7
+                     high ball road    1
+                            highway   12
+                       highway road    4
+                   Macadamized Road    1
+             most importantest road    1
+                                 NR    4
+                               pave    1
+                          pave road    1
+                              paved    1
+                         paved road    4
+                       paved street    1
+                           pavement    3
+                        public road   16
+                               road    5
+                              roads    1
+                          rock road    2
+                          sand road    1
+            Scottsville and Stanton    1
+                         shell road    1
+                         stage road    1
+                      state highway    3
+                         state road    2
+                         stone road    1
+                             street    2
+                           tar road    3
+                          that road    1
+                       topsoil road    1
+
+Pronunciations
+==============
+                                  "    1
+                      a´b±n[±]u$rod    1
+                    br±k$roº[πº]{d}    1
+                     haæ±øˆe´∫$ro∫d    1
+                        haæ∫d$ro´∫d    1
+                          hµ±we$rod    1
+          hµ∫{∞}d$s≥[≥é]f±øΩs$rîo∫d    1
+      hµæ∫{∞}[r]d$Âs≥éf±øΩs$ro´[π]d    1
+         hµæ∫{∞é]d$s≥È∞éf±øΩs$ro´∫d    1
+                        h∂±$b∑l$rod    1
+                     h∑Ωº∞ëd$roºπød    1
+            hﬁº∫d$s≥[eé]f±øΩs$ro´∫d    1
+                        kµnkret$rod    8
+                       kµænkret$rod    1
+                        kµæπnt±$rod    1
+                        k∂nkret$rod    1
+         m∞Âkà`·Ω∫d∞Èmµ∫±øzd$ıroº∫d    1
+            p`ŸΩ{∞}bl±øºk$ıro´∫{∞}d    1
+                pe[±ø]vd$roº[πº]{d}    1
+                         p∏bl±k$rod   12
+                        p∏Ωbl±k$rod    2
+                             ro[π]d    1
+                               roπd    1
+                            roπø{d}    1
+                            ro∫[π]d    1
+                            ro∫π´dz    1
+                             roΩº∞d    1
+                       rµ´æk$rïo´∫d    1
+                         sim≤nt$rod    1
+                  si∫m≤´{∞}nt$ro´∫d    1
+                          sted˙$rod    1
+                sto[πÈ}[∞È]n$ro{∞}d    1
+                   s±øÂm≤nt$ıroºπºd    1
+                         t`µæ∞$roπd    1
+                         tµæ∫$ro´∫d    1
+                        ‰·∫t$Âroº∫d    1
+                Âb±´{∞}g$ıro´º∫{∞}d    2
+      ÂbÏ·Ω{∞}k$ır±ø´{∞}v$ro´º∫{∞}d    1
+             Âd≥´æ±øt$ıroº∫πºdz[zè]    1
+                     Âd≥æ{¥}t$ıro∫d    1
+                 Âhµ[≥]∞d$ıroº[πº]d    1
+          Âhµ∫±øıwe∫[±ø]$Âro´º∫{∞}d    1
+             Âhµæ∫±øıwe´{∞}$ro´{∞}d    1
+Âhﬁ∫{∞}d$ıs≥´º∫[±ø]f±øºs$ıro´º∫{∞}d    1
+      Âhﬁ∫{∞}d$ıs≥´æ∫f±øºs$Âroº∫π∫d    1
+                Âhﬁº∫∞È´d$ıroº∫[π]d    1
+              Âk`a´πntê±ø$ıroº[πº]d    1
+            Âk`ﬁnık`Úèi∫jt$Âroº∫πÈd    1
+         Âk`ﬁ{∞}nıkÚái∫t$Âro´º∫{∞}d    1
+               Âk`Ïèe∫[±]$ıroº∫πºdz    1
+     Âkà`∂nıkà`rèiæ∫{∞}t$ıro´º∫{∞}d    1
+                       Âkµnkret$rod    1
+                Âp`e[±ø]vd$ro[π]{d}    1
+               Âp`e[±ø]vd$ıroº[πº]d    1
+             Âp`e[±ø]v{d}$ıroº[πº]d    1
+             Âp`e´∫[iø]v$ıroº∫πº{d}    1
+                        Âp∏bl±k$rod    1
+                              Âro∫d    1
+                  Ârïﬁ´ºk$ırïo∫[π]d    1
+                     Âsim±nt$ro[π]d    1
+                        Âsim±nt$rod    1
+                      Âsim≤nt$ro´∫d    1
+                   Âsim≤nt$ro´∫{∞}d    1
+                  Âsim≤{∞}nt$ro{∞}d    1
+                   Âsim≤{∞}nt$roΩ∫d    1
+         Âsi∫jım≤[n]nt$Âroº∫πdz[zè]    1
+                     Âsi∫m≤nt$ro´∫d    1
+                  Âsi∫m≤ænt$ro∫{∞}d    1
+                Âsi∫ım≤[n]nt$ro[π]d    1
+                    Âsi∫ım≤nt$ro´∫d    1
+                  Âsi∫ım≤{∞}nt$ro:d    1
+               Âsi∫ım≤{∞}nt$ro∫[π]d    1
+                  Âsi∫ım≤{∞}nt$ro∫d    1
+                Âsi∫ım≤{∞}nt$rïo´∫d    1
+                   Âsi∫ım≤´nt$ro´∫d    1
+              Âsi∫ım≤´{∞}nt$ro´{∞}d    1
+               ÂsiΩm≤∫nt$roº[πº]{d}    1
+                     Âsiım≤´nt$roπd    1
+                Âste[±ø]t$ıroº[πº]d    1
+                      Âsteæ∫t$ıro∫d    1
+                      Âs±m≤n{t}$rod    1
+               Âs·Ω∫{∞}n$ıro´º∫{∞}d    1
+              Ât[µ]µæ∫{∞}$ıro´∫{∞}d    1
+                  Ât`lç`e´∫$ıroΩº∫d    1
+                   Â·lıf∑∫lt$Âroº∫d    1
+          Â·sû∞ıf∑º∫{∞}Ï$Âroº∫[∞∫]d    1
+                  Â·sıf∂´lt$ıroºπºd    1
+                    Â·sıf∂´πÏt$roπd    1
+             Â·Ωsıf∂º∫oΩÏt$Âroº∫πÈd    1
+                  Â·Ûıf∂´lt$ıroºπºd    1
+                       Û≤{∞}Ï$ro´∫d    1
+      ıhﬁº∫{∞}d$Âs≥[∞´º]ˆ±øΩs$ıro∫d    1
+                  ısi∫Âm≤˛´nt$ro´∫d    1
+
+
+
+
+L: A kind of white, hard paved road like city sidewalks.
+M: What do you call most of the important roads around here?  What are they 	made out of?
+
+Notes on target items and data collection procedures:
+
+	Unattributed list manuscript note:
+
+The list contains principally terms for paved road surfaces and for major roads. Lowman explored terms for main roads principally in the Preliminary South Atlantic States investigation, where he elicited "pike" and "turnpike".  It was found that the term was dropping out of use and so was left out of the LAMSAS worksheets.  The only term appearing in the latter survey in Lowman's worksheets is "highway".  McDavid, on the other hand, recorded a variety of responses for "the most important roads around here."
+
+The field workers elicited a variety of terms for different kinds of roads; the number and kinds of responses vary according to the interest and experience of field workers and informants, their knowledge of governmental rules, and the time at which the interviews were conducted.  It should be noted that Raven McDavid's general interests caused him to seek and record a significantly greater number of terms than Guy Lowman.
+
+The development of the automobile has changed the type and amount of road financing.  The first federal highway act was passed in 1916; state highways departments were established around 1920, the paving of secondary roads came in the 1930's (connected with the relief programs of the New Deal), and the Interstate Highway system (built to military specifications) was established in 1954.  As a result, the classification of roads is difficult and complicated.  The lists in this section recognize these complications.
+
+1.) "Road" as a pronunciation item.
+2.) Major roads.
+    A.) By formal status, construction and maintenance by state or federal governments.  Highways, especially state ~, federal ~, super~, interstate (~), "main road", or "big ~"
+    B.) Roads with a permanent surface requiring minor or occasional repairs: asphalt road, black top ~, brick ~, concrete ~, tar and gravel ~.
+3.) Less important roads.
+    A.) Roads built and maintained by county or local government: county road, concession, public road (often defined by informants as highways).
+    B.) Roads subsidiary to more important roads: back roads, side ~, lateral ~, county ~, secondary ~, farm to market ~, pest ~, school bus ~.
+    C.) Roads with surfaces needing constant attention: dirt road, sand-clay ~, sand and gravel ~, clay ~, gravel ~, shell ~.
+4.) Short roads, built and maintained for local conveniences at (voluntary) private expense, often on one family's land (private road) or shared by a group of families (neighborhood road); "plantation road" and "farm road" may be used in either sense.  Private driveway, lane, avenue (gap).
+5.) "Path, "Sidewalk" and the like.
+
+Note: Types or construction and function: until fairly recently paved roads were limited to the vicinity of urban areas and to a few inter-city roads in densely populated areas.  With the paving of secondary roads, the distinction between highways as paved and side roads as dirt or gravel ceased to exist.  The distinction between "paved road" (concrete, sheet asphalt, brick) and less-durable "blacktop" or "surface treated" involves a knowledge of road construction that few lay informants possess; the distinction has been further obscured as older paved roads -- disintegrating with age, weather, and heavy traffic -- have been resurfaced with asphalt.  The editors feel that it is least confusing to list all types of paced roads in one list and unpaved surfaces in another, while retaining informants' comments on historical distinctions.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 31#5, "Scottsville and Stanton" are inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 31 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+----------------------------------
+31#P		30#8
+31#P		31#6
+31#1		31#1
+		31#2 (no question)
+31#2		
+31#3		31#3
+31#4		31#4
+31#5		31#6 (similar)
+31#6		31#5
+31#7		31#7
+31#8 M

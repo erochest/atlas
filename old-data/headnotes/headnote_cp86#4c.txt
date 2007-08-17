@@ -1,0 +1,70 @@
+miscellaneous place names (cp86#4c.asc)
+
+Items
+=====
+                         Charleston    1
+                            Chicago    1
+                            Georgia    2
+                       James Island    1
+                  Mackintosh County    1
+                              north    1
+                           Rockwell    1
+                              south    1
+                  St. Helena Island    2
+                       United State    1
+                    Wadmalaw Island    1
+
+
+
+
+Notes on target items and data collection procedures:
+
+	O'Cain:
+
+In this section, Lowman and McDavid differed sharply in their field procedures.  Lowman, closely following the order of the worksheets, relied on interrogation and usually secured a full quota of responses.  McDavid, especially in his earlier records, was reluctant to press the unlettered and untravelled for these geographical names, but recorded coversational responses wherever possible; as a result there are some omissions in South Carolina non-Gullah communities, less often elsewhere.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 86#4c, the following responses are inappropriate: "Wadmalaw Island," "Rockwell," "Charleston," "Chicago," "St. Helena Island," "James Island," "United State," and "Mackintosh County."
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 86 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+85#6		86#1
+85#7		86#2
+85#Pb,85#8	86#3,4
+		86#5b,d,e
+		86#6a,b
+86#Pa		86#8c
+86#Pb
+86#Pc
+86#Pd
+86#Pe		86#8b
+86#1a		86#5a
+86#1b		86#5c
+86#2a M
+86#2b		86#6c
+86#2c MP
+86#2d M
+86#3a
+86#3b		86#6d
+86#4a		86#7a
+86#4b
+86#5a
+86#5b		86#7b
+86#6a,b
+86#7a
+86#7b		86#7c
+86#8a
+86#8b		86#8a

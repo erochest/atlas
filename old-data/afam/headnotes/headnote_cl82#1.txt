@@ -1,0 +1,95 @@
+turned him down (cl82#1.asc)
+
+Items
+=====
+            another one to go there    1
+                              broke    1
+               broke her engagement    1
+                  broke the promise    1
+                           broke up    1
+                         denied him    1
+                       disappointed    2
+                           dump him    1
+                             dumped    1
+                           fell out    1
+                           fool him    1
+                         fooled him    1
+                give him the bounce    1
+             give him the high ball    1
+                give him the mitten    1
+           give him the pink ticket    1
+                   gone back on him    1
+                             jilted    1
+                         jilted him    1
+                           kick him    4
+                             kicked    5
+                         kicked him   11
+                     laid him aside    1
+                                now    1
+                                 NR    9
+                       put him down    2
+                        put him off    1
+                               quit    1
+                           quit him    6
+                         sacked him    1
+                 She disappoint him    1
+                 She don't like him    1
+                       She drop him    1
+                           She kick    1
+                       She kick him   10
+                       she kick him    2
+                        She kick me    3
+                       She left him    1
+                   She put him down    1
+                  She puts him down    1
+                       She quit him    1
+                She ruin that fella    1
+                 she throw him over    1
+                  She turn him down    1
+                  she turn him down    1
+                   She turn him off    4
+                   she turn him off    2
+                   she turn me down    1
+                    She turn me off    1
+                She turned him down    1
+                      They break up    1
+                      turn him down    1
+                       turn him off    4
+                        turn me off    1
+                    turned him down    9
+                     turned him off    1
+                    unloosed myself    1
+                   went back on him    2
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

@@ -1,0 +1,85 @@
+broom (cp10#4a.asc)
+
+Items
+=====
+                              broom   22
+                       broom behind    8
+              broom behind the door    3
+                    broom is behind    9
+           broom is behind the door    4
+                      broom is hind    1
+                        broom straw    2
+                             brooms    1
+                          broomsage    1
+                        brush broom    2
+                        scrub broom    1
+                        stick broom    1
+                        straw broom    3
+     the broom is back of the table    1
+                the broom is behind    1
+       the broom is behind the door    3
+       The broom is behind the door    1
+      The broom is behind the door.    4
+         The broom is hind the door    1
+       we put broom behind the door    1
+
+Pronunciations
+==============
+                                  "    5
+               brum$±z$b±hµ±n$d±$do    1
+  bru¼ºm$hµ¼{²¾º}n{d}${d}{±¿«}$do«º    1
+               br¹m$±z$b±hµ±n$d±$do    1
+          br¹{°}m$b±¿hµ«±¿n$d±¿$do°    1
+              br¹«m$±z$b±hµ±n$d±$do    1
+             br¹½m$±z$b±hµ¾±n$d±$do    1
+           br¹½¼m$b°Ëµ¼±¿½n$d±¿$doº    1
+           d±$brum$±z$b±hµ¾±n$d±$do    1
+          d±$bru½m$±z$b±hµ¾±n$d±$do    1
+            d±$br¹m$iz$b±hµ±n$d±$do    1
+           d±$br¹m$±z$b±hµ¾±n$d±$do    1
+            d±$br¹m$±z$b±h¶±n$d±$do    1
+           d±$br¹m$±z$b±h¶¼±n$d±$do    2
+              d±$br¹m$±z$h¶±n$d±$do    1
+          d±$br¹½m$±z$b°hµ¾±n$d±$do    1
+       wi$p±t$br¸{¸}m$b±hµ¾±n$d±$do   1 
+
+
+L: What do you sweep with?  If the broom is in the corner and the door is open, 	you say the broom is where, compared to the door?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The word "broom" has two types of pronunciation: [br¹um] and [br¹m].
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 10#4a, "straw broom" is inappropriate, as is marginalia. 
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 10 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+10#Pa		10#3
+10#Pb		10#6
+10#1		10#1
+10#2		10#2
+10#3 SM	
+10#4a		10#4
+10#4b		10#4
+10#5		10#5
+		10#7
+10#6
+10#7		10#8
+10#8 X
+10#9 X

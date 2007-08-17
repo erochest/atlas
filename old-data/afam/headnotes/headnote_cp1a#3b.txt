@@ -1,0 +1,12 @@
+second (cp1a#3b.asc)
+
+Items
+=====
+                             fourth    3
+                                 NR   18
+                             second   29
+                         second man    1
+                     the second man   12
+                              third    1
+                                two    1
+

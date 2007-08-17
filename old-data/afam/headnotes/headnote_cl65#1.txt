@@ -1,0 +1,89 @@
+pregnant (cl65#1.asc)
+
+Items
+=====
+                about to give birth    1
+               almost ready to drop    1
+                                big    7
+                             bigged    2
+                        broke a leg    1
+                         broke foot    1
+                      broke the leg    1
+                       carry a baby    1
+                    carrying a baby    2
+                     delicate state    1
+                 done broke her leg    1
+               done broke their leg    1
+                          expecting    4
+                   expecting mother    1
+                         family way    1
+                         foot broke    1
+                             get on    1
+                 going find a child    1
+                  gonna find a baby    1
+                       gonna get on    1
+                      he foot broke    1
+                     her foot broke    1
+                      her leg broke    1
+                    in a family way    5
+                      in bad health    2
+                       in condition    1
+                 in delicate health    5
+                      in family way    5
+                          in health    4
+                           in house    1
+                           in labor    9
+                       in pregnancy    1
+                      in sad health    2
+             kicked the bucket over    1
+                                 NR   22
+                  on helpless state    1
+                           pregnant   16
+                   ready to deliver    1
+                     ruined herself    1
+                     she broke foot    1
+                     she feet break    1
+                     she feet broke    1
+                     she foot broke    5
+                  she going confine    1
+             she in delicate health    1
+                      she in health    1
+                    she is in labor    1
+                she's in family way    1
+                    she's in health    2
+                     she's in labor    3
+                    she's leg broke    1
+                   with a young one    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

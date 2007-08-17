@@ -1,0 +1,86 @@
+the orchard (cp53#2.asc)
+
+Items
+=====
+             a man down the country    1
+       he the man own that property    2
+     he the man own this plantation    1
+         he's the man own that land    2
+        he's the man own that place    1
+     he's the man own that property    2
+         he's the man own the house    1
+      he's the man own the property    1
+        he's the man own this place    1
+   he's the man own this plantation    1
+      he's the man owns the orchard    1
+           he's the man what own it    1
+he's the man what the house belong to    1
+           heard tell of people did    1
+    him the man what own this place    1
+        his grandson's in the house    1
+       I had a wife was a real cook    1
+                  I hear a man come    1
+         I'm the man own that piece    1
+  made with the tongue come on back    1
+                           man owns    1
+           not in my days coming on    1
+                                 NR   10
+   one girl live right over near me    1
+                            orchard    3
+                    own the orchard    5
+                            owns it    1
+                   owns the orchard    1
+                      peach orchard    1
+                   people that make    1
+                          that have    1
+               that own the orchard    4
+                       that owns it    1
+              that owns the orchard    6
+that the man own that piece of property    1
+   that's the man own that property    1
+    that's the man own the property    1
+   that's the man own this property    2
+                         the man is    1
+           the man owns the orchard    1
+            the man that has my car    1
+                  the man that owns    1
+          the man who it belongs to    1
+              what owns the orchard    1
+when we could get anything come in a barrel    1
+                   who it belong to    1
+                           who owns    1
+                        who owns it    1
+               who owns the orchard    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

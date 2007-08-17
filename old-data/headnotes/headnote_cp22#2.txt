@@ -1,0 +1,100 @@
+brush (cp22#2.asc)
+
+Items
+=====
+                              brush   56
+                        brush broom    1
+                           brush it    5
+                    brush your hair    3
+                            brushes    1
+                               comb    1
+                         hair brush    2
+                          hairbrush    3
+                                 NR    2
+                              razor    1
+                the barber use this    1
+
+Pronunciations
+==============
+                          br°¾ó$±¿t    1
+                          br²{°}«¼ó    1
+                           br²{°}«ó    1
+                            br²{°}ó    5
+                             br²«¾ó    1
+                              br²¾s    1
+                          br²¾{°}«ó    1
+                              br²¾ó    2
+                          br²¾ó$±¿t    1
+                               br²ó   23
+                        br²ó$j°$hi°    1
+                           br³«{°}ó    1
+                       br³¾{´}ó$±¿t    1
+                            br¸{²}ó    1
+                         br¸«º{°«]ó    1
+                        br¸«¼{°}«¼ó    1
+                        br¸«¼º[±¿]ó    1
+                         br¸«¼º{°}ó    1
+                             br¸«¼ó    1
+                           br¸¼{°}ó    2
+                          br¸¼ó±¿¼z    1
+                               br¸ó    2
+                           brÙ½{°}ó    1
+                         bñŽ³«¼{°}ó    1
+                             bñŽ¸«ó    1
+                           bò²«{°}ó    3
+                          bò²«¾{°}ó    1
+                              bò²¾ó    1
+                          bò¸«¼{°}ó    1
+                   d±$ba¾b°$nuz$d±s    1
+                         he{°}$br²ó    1
+                          he½°$br²ó    1
+                         hi{°}$br²ó    1
+                            åbr³«¼ó    1
+                         åbr³¾{°}«ó    1
+                        åbr¸«¼ó$±¾t    1
+                        åbr¸«¼ó$±¿t    1
+                             åbò²¾ó    1
+                             åbò¸½ó    1
+                    åhá°$õbr¸«[±¿]ó    1
+                       åháº°$õbr³«ó    1
+
+
+
+
+L: You straighten your hair with a comb and a _____.
+P: When you use one of those, you say that you are going to _____ your 	hair.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+"Brush" is pronounced as [breó] by some uneducated informants.  In a number of cases, the field worker recorded the compound "hair brush."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 22#2, "razor" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 22 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+22#P		22#4
+22#P		22#2
+22#P		
+22#1		22#3
+22#2		22#5
+22#3		22#6
+22#4		22#7
+22#5		22#8
+22#6		
+22#7 MP		22#1

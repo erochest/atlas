@@ -1,0 +1,71 @@
+take you home (cl97#5.asc)
+
+Items
+=====
+                 accompany you home    1
+               can I carry you home    6
+             can I go home with you    1
+                 can I see you home    2
+                can I take you home   10
+                can I walk with you    1
+                              carry    9
+                     carry you home   11
+                    escort her home    1
+                    escort you home    3
+              go back home with you    1
+                            go home    1
+                       go home with    1
+                   go home with you    1
+                   go with you home    3
+                                 NR   19
+                            see you    1
+                       see you home    9
+                               take    3
+                      take her home    1
+                           take you    1
+                     take you  home    2
+                      take you home    2
+                     walk home with    1
+                 walk home with you    1
+                      walk with you    1
+                           with you    1
+                   you wish company    1
+
+L: After a party, you say to a girl, "Can I _____ you home?" If it is in a buggy, you ask _____.
+M: When you see a friend leaving a party alone, you might ask, "Can I 	_____?" Would it make any difference in what you said whether you 	were walking or driving? How about whether you were speaking to a man or a woman? (or being spoken to?) [Watch for conversational instances of carry meaning to lead, escort, etc.]
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The expressions presented here were recorded in such sentences as "May I take you home?" or "I'll take you home," addressed by a young man to a girl or by the host to his guest(s).  Some expressions are used both with reference to walking and to riding in vehicles (car, buggy, carrige): "accompany you home," "carry ~," "escort ~," "see ~," and "take ~." Other expressions refer only to walking: "go home with you," rarely recorded but probably common, and "go with you home." Some informants restrict "carry ~" and "take ~" to riding in a vehicle.  "Carry ~" is sometimes regarded as old-fashioned. 
+
+"Home" bears the main stress, the infinitive a secondary stress.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 97#5, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 97 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+97#P		97#5
+97#P		97#4
+97#1		97#1
+97#2		97#2
+97#3		97#3
+97#4		97#6
+97#5		97#7
+97#6		97#8
+97#7		98#1

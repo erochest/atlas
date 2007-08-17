@@ -1,0 +1,18 @@
+chair (cp8#9.asc)
+
+Items
+=====
+                            a stool    1
+                           bedstead    1
+                              chair   52
+                             chairs   14
+                                 NR    2
+                   occasional chair    1
+                             rocker    1
+                      rocking chair    2
+                     rocking chairs    1
+                       split chairs    1
+                              stool    2
+                     straight chair    1
+                    straight chairs    1
+

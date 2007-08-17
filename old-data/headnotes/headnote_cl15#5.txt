@@ -1,0 +1,63 @@
+barnyard (cl15#5.asc)
+
+Items
+=====
+                           barn lot    5
+                           barnyard   26
+                           calf pen    1
+                         cattle lot    1
+                           chickens    1
+                            cow lot   14
+                           cow yard    1
+                            hog lot    1
+                          horse lot    5
+                                lot   32
+                           mule lot    1
+                                 NR    3
+                         on the lot    1
+                       pasture land    1
+                              pound    3
+                         stable lot    5
+                              stock    1
+                          stock lot    1
+                      stock pasture    1
+      you keep rice in the barnyard    1
+
+
+
+
+M: What do you call the place around the barn where you might let the cows, mules, and other animals walk around?
+
+Notes on target items and data collection procedures:
+
+	Kurath:	
+
+The terms here are applied either to all the space surrounding the barn and the stables or to a smaller area exclusive of the pens for the farm stock.  In the narrower sense these terms denote the space between the dwelling and the barn, fenced or unfenced, the place 'in front of the barn' where wagons and other farm implements are often kept.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 15#5, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 15 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+		15#1 (no question)
+15#P		15#3
+15#1		
+15#2 S 	15#2
+15#3		15#4
+15#4		15#5
+15#5		15#6
+		15#7 (no question)
+15#6		15#8

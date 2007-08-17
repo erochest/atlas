@@ -1,0 +1,131 @@
+at home (cg32#2.asc)
+
+Items
+=====
+                                 at    1
+                            at home   29
+                        at the home    1
+                       at the house    2
+                     at the kitchen    1
+                           gone out    1
+                      he ain't home   13
+                   he ain't to home    2
+     he's either home or ain't home    1
+                               here    1
+                               home   11
+                       in the house    1
+                     in the kitchen    2
+                            kitchen    1
+                        not at home    1
+                             not in    1
+                                 NR    7
+                     she ain't home    3
+                 she ain't not home    1
+                              there    2
+           till I come back to home    1
+                            to home    1
+                       to the house    3
+                 to the house there    1
+                     to the kitchen    1
+               to the kitchen there    1
+
+Pronunciations
+==============
+                        a«t$åhoş«ºm    1
+                    g·¼o{o¿}n a«ºot    1
+                       hi$eş$de$hom    1
+                       hi$eş$d°$hom    1
+                          hi$eş$hom   13
+               hiz$id°$hom$°$eş$hom    1
+                             ho{°}m    1
+                              ho«ºm    1
+                             ho«¼ºm    1
+                          ho«¼º{°}m    1
+                              hoº¹m    1
+                             ho¼¹¼m    1
+                           ho¼º[¹]m    1
+                            ho¼º¹¼m    1
+                           ho½º[¹]m    1
+                             ho¿«ºm    1
+                           hoş¼¹ş¼m    1
+                              h±{°}    1
+                          k±¿tó±¿½n    1
+                     k±¿Û{°}tó±¿½¾n    1
+                     t`°é$åho¼º{°}m    1
+           tel$a¼±$k¸«m$ba«k$t°$hom    1
+                       toÛ«d±¿«h¥¹s    1
+               t°$d±¿«$åh{¹}¥¹s$dea    1
+             t°$d±¿«$åk±¿tó±¿İn$dea    1
+                         t¹$d°$h¥¹s    1
+                            °t$ho«m    2
+                         °t$ho«{°}m    1
+                        °t$åho¼[¹]m    1
+                       °Û¾t$åho«¼ºm    1
+                         °İt$åhoşºm    1
+                   ±½{°}n$ä°$ha«¹«s    1
+                   ±½°n$ä°$k±tó±¿İn    1
+                   ±¿t t±¿«k±¿tó±¿n    1
+                         ±¿t$ho•«ºm    1
+                          ±¿t$ho«ºm    2
+                           ±¿t$hoºm    1
+                         ±¿t$hoş«ºm    1
+                          ±¿t$hoşºm    3
+                            ±¿t$h¹m    1
+                      ±¿t$t±¿«$ha¹s    1
+                          ±¿½t$ho«m    1
+                         ±¿½t$hoş«m    1
+                                 ²t    1
+                          ²ºt$hoº¹m    1
+                     ²½t$hoşº{¹ş}m    1
+                        ²¾t$åho¼º¹m    1
+                     át$d’±¿$åha«¹s    1
+                           át$ho¹¿m    1
+                            át$hoşm    1
+                         át$hoş¹ş¿m    1
+                       át$åho¼[¹¼]m    1
+                        át$åho½¼¹¼m    1
+                    á{±¿}$åho½¼[¹]m    1
+             á½{°}t$diõ«$åho½º[°º]m    1
+                              ä²½°’    1
+                               äá«°    1
+                         ånŞ«¼tõ±«n    1
+                          ói$eş$hom    3
+                      ói$eş$n¶t$hom    1
+                     õnoºñ$°é¾$hoºm    1
+                          õát$åh¹ºm    1
+                         õá½¾t$åh¹m    1
+
+
+
+L: If you go to somebody's house and he is not there, they say, "No, he is 	not _____."
+P: If someone came to visit your wife and you met the person in the yard, 	you might say, "She's _____ the house; she's ______ the kitchen baking some cookies."
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 32#2, only marginalia is inappropriate.
+
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 32 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:
+  
+Handbook	Preliminary Worksheets
+----------------------------------
+32#P		
+32#P		32#4
+32#1a		32#1
+32#1b		32#1
+32#2		32#2
+32#3		32#3a
+32#4		32#3b
+32#5		32#5
+32#6		32#6
+32#7		32#7

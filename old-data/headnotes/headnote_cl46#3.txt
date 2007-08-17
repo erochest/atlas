@@ -1,0 +1,94 @@
+salt pork (cl46#3.asc)
+
+Items
+=====
+                 a little bits meat    1
+                         back strip    1
+                         bacon meat    1
+                            bellies    1
+                        belly strip    1
+                     below middling    1
+                          buts meat    1
+                          butt meat    1
+                              butts    2
+                         butts meat    7
+                            cure it    1
+                         cured meat    1
+                          fat bacon    1
+                           fat meat    4
+                           fat pork    2
+                            fatback   17
+                           fatbacks    1
+                               fats    1
+                      for boil that    1
+                         fresh meat    1
+                           hog meat    1
+                            hogmeat    1
+                               jowl    1
+                               lard    2
+                               meat   12
+                              meats    1
+                           middling   18
+                      middling meat    1
+                          middlings    6
+                     middlings meat    1
+                                 NR    5
+                           on smoke    1
+                               pork    2
+                          pure lard    1
+                               rump    1
+                         salt bacon    2
+                    salt butts meat    2
+                    salt cured meat    1
+                          salt meat    3
+                          salt pork   24
+                               side    1
+                          side meat   19
+                         side meats    1
+                              sides    2
+                          sow-belly    7
+                            stomach    1
+                             streak    1
+                     streak of lean    3
+                      streaked meat    1
+                         strip meat    1
+                             strips    1
+                        sugar-cured    1
+                        white bacon    1
+                         white meat    6
+                         white pork    1
+
+
+
+
+L: Fat salt pork is called?
+P: What do you call the salt- or sugar-cured meat you might boil with greens?  What if it had no lean to it at all?  What if it had a good bit of lean?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 46#3, "below middling" is inappropriate. 
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 46 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+46#P		46#5
+46#1		46#1
+46#2		46#2
+46#3		46#3
+46#4
+46#5		46#4
+46#6		46#4 (similar)
+46#7		46#6
+46#8		46#7
+46#9		46#8	

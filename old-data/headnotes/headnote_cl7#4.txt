@@ -1,0 +1,132 @@
+frost (cl7#4.asc)
+
+Items
+=====
+                           bathroom    1
+                        black frost   17
+black frost come up from the ground    1
+              black frost is colder    1
+                 black frost is ice    2
+                   black jack frost    1
+                        cold drafts    1
+                             freeze    4
+                   freezing weather    1
+                              frost   38
+        ice the ice and black frost    1
+                         jack frost    3
+                      killing frost    3
+                                 NR   15
+                         snow frost    1
+     the black frost ice is thicker    1
+                     we had a frost    1
+     we had a light frost somewhere    1
+                       we had frost    2
+                 we had white frost    3
+  when water freeze, it black frost    1
+                when water is froze    1
+               white and jack frost    1
+                        white frost    7
+              white frost come down    1
+
+Pronunciations
+==============
+                         bla«k$fr·s    9
+                bla«k$fr·s$iz$kold°    1
+  bla«k$fr·s$k¸«m$¸p$fr¸«m$d±$gr¶¹n    1
+                 bla«k$fr·s$±z$¶¼±s    2
+                        blák$fr·:s    1
+                   blá½¾k$fr·º{°}s    1
+                         blák$fr·:s    1
+                          blák$fr·s    1
+                         blák$fr·ºs    1
+                        blák$fr·½·s    1
+                        blák$fr·½ºs    1
+         d²$bla«k$fr·s$µ¾±s$±z$t±k°    1
+                         dúa«k$fr·s    2
+                         dúák$fr·:s    1
+                            fr¶«os    2
+                          fr¶«¼o½s    1
+                         fr·¼º{°}s    1
+                        fr¶«{·}s{t}    1
+                         fr¶«º{°}st    1
+                              fr·:s    4
+                               fr·s    8
+                       fr·«º{·}s{t}    1
+                              fr·ºs    3
+                           fr·ºs{t}    4
+                           fr·º{°}s    1
+                        fr·º{°}s{t}    1
+                             fr·½·s    1
+                             fr·½ºs    2
+                          fr·½º{°}s    1
+                         fò·¼º{°}s    1
+                            fò¶«·«s    1
+                           fò·«{°}s    1
+                           fò·º{°}s    1
+                           fò·½º·«s    1
+                  k{h}±l°«n$fr·½ºs    1
+             k{h}±l±¿½n$fr¶«{·}s{t}    1
+                     k±«l±¿½n$fr·ºs    1
+                           sno$fr·s    1
+                       wi$ha«d$fr·s    2
+                 wi$ha«d$wµ¾±t$fr·s    1
+                     wi$ha«d$°$fr·s    1
+         wi$ha«d$°$lµ±t$fr·s$s¸«mwe    1
+                 wi$hád$wµ±{t}$fr·s    1
+                     w¥±¿t$fr·½s{t}    1
+                  w±$ha«d$wµ±t$fr·s    1
+       w²½n$w·ñ°$friz$±t$bla«k$fr·s    1
+                          wµ±t$fr·s    2
+                  wµ±t$n$dúa«k$fr·s    1
+                         wµ¾±t$fr·s    1
+               wµ¾±t$fr·s$k¸«m$d¶¹n    1
+                          w¶±t$fr·s    1
+          µ¾±s$d°$µ¾±s$n$bla«k$fr·s    1
+                åblá{°}k$õfòŠo½{°}s    1
+                       åfr·«¼º{°}s    1
+                        åfòŠ·¼º{°}s    1
+                  åhwµº±¿t$fò·«{°}s    1
+                 åw¸±¿¼t$fò·«¼º{°}s    1
+
+
+It's)   /strong wind?  light wind?/
+
+L:  If it is just the opposite and the wind has been strong and is getting weaker and weaker, you say it's doing what?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+These are expressions recorded in the sentence "The wind is subsiding," or in a similar context, referring to a decrease in the strength of the wind. Expressions consisting of participle plus adjective or adverb regularly have the main stress on the second word. 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Johnson:
+
+McDavid often recorded responses that are not present participles, but these are not considered inappropriate if they are semantically related to the question.  
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 7#4, "cold drafts" is inappropriate, as is marginalia. 
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 7 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+7#P		7#4
+7#1		7#1
+7#2		7#2
+7#3		7#3
+7#4a X		
+7#4b		7#5
+7#5		7#6
+7#6		7#7
+7#7		7#8

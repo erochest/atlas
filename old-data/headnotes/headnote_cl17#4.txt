@@ -1,0 +1,81 @@
+garbage pail (cl17#4.asc)
+
+Items
+=====
+                         big bucket    1
+                             bucket    2
+                                can    1
+                  for swill or slop    1
+                             fulcon    1
+                        garbage bin    1
+                        garbage can   10
+                       garbage pail    2
+                 garbage receptacle    1
+                               hoop    1
+                             kettle    1
+                          lard pail    1
+                                 NR    2
+                        outside can    1
+                               pail    2
+                            pailful    1
+                          scrap box    1
+                       scrap bucket    1
+                           slabbart    1
+                        slop barrel    2
+                        slop bucket   34
+                          slop pail    7
+                           slop pan    1
+                           slop tub    6
+                      slopping hogs    1
+                              swill    1
+                       swill bucket    5
+                         swill pail    1
+                          swill tub    1
+                         tin kettle    1
+                           tin pail    1
+                       trash bucket    2
+                          trash can    1
+                               used    1
+              used to call it swill    1
+                       waste bucket    1
+
+
+
+
+L: What do you use to throw the waste food from the kitchen into?
+M: What kind of bucket might you keep in your kitchen to throw scraps for the 	pigs?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The terms presented here denote various types of containers for refuse from the table:  (1)a pail (formerly of wood, now usually of metal) or some other vessel ("slop bucket," "swill bucket," "scrap bucket," "slop pail," "swill pail," "garbage pail"); (2)a barrel or tub, usually kept near the hog trough ("slop barrel," "slop tub," "swill tub"); (3)a can of varying size with a close-fitting cover, as used in urban areas ("garbage can," "trash can").  
+	In all compounds, the first member bears the main stress.  The final consonant of "slop" is often voiced in "slop bucket" and is occasionally entirely lost.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 17#4, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 17 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+17#P		17#4
+17#1		17#1
+17#2		17#2
+17#3		17#3
+17#4		17#5
+17#5		17#6
+17#6		17#7
+17#7		17#8
+17#8

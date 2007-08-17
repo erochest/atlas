@@ -1,0 +1,143 @@
+glass of water (cp48#7.asc)
+
+Items
+=====
+                          *** glass    1
+                                cup    1
+                       cup of water    1
+                           daughter    2
+                              drink    1
+                     drink of water    3
+                    gaglet of water    1
+           give me a glass of water    2
+                              glass    6
+                      glass a water    1
+                     glass of water   45
+                        glass water    3
+                            glasses    4
+                             goblet    3
+                            goblets    1
+                           gold cup    1
+                     gourd of water    1
+                         gourds ***    1
+                        her glasses    1
+                          hot water    1
+                                mug    1
+                                 NR    3
+                    out the tumbler    1
+                               pint    1
+                         some water    1
+                     straight water    1
+                            tumbler    7
+                   tumbler of water    1
+                           tumblers    3
+                              water   15
+                          water oak    1
+
+Pronunciations
+==============
+           dlá½s$°½{v}$åw·¼{°}t°½    1
+               dlá½ºs$°$åw·¼º{°}t°    1
+                          d·½ºd°½¾    1
+                        d·½ºñ‡ñ‡°½¾    1
+                        glas$°$w·ñ°    1
+                       gla«s$°$w·ñ°   19
+                 gla¾ºs$°$w·º{°}t°    1
+                            gla«¾s    1
+                           glás±¿z    1
+                           glá{°}s    1
+                       glá{²}s±¿¼z    1
+                         glá«²s±¿z    1
+              glá«ºs$°$w·«º{°}{d}°    1
+                 gláºs$°$wµ¾{°}t°    1
+                     glás$°$wŞ¾t°    1
+                            glá{°}s    1
+              glá{°}s$°$w·½{°}{ñ}°    1
+               glá{²}s$°$åw·º{·}t°    1
+                           glá«{²}s    1
+                glá«{²}s$°$õwa«¼t°    1
+                 glá«º{°}s$w¶”«¼t°    1
+               glá«º{°«}s$w·•º{°}ñ°    1
+               glá«º{°«¼]s$w·«{°}ñ°    1
+                   gláºs$°$w·º`t°¾    1
+                     gláºs$°$w·½ºñ°    1
+              gláº{°}s$°â$w·«{°}t°    1
+                gláº{°«¼}s$°$w·ºd°    1
+                 gláº±¿s$°$w¶«°ºt°    1
+                 gláº±¿s$°$w·º{°}ñ°    1
+                       glá½s$°$w·d°    1
+                  glá½s$°v$w·{°}t°    1
+               gµ«¾gl±¿t$°$w·º`t°º    1
+                            gìá{°}s    1
+             gìá{°}s$°$åw·«{°}t°«¾    1
+                         gìá{°}s±¿z    1
+                 gìá½s$°$åw·¼º{°}t°    1
+                             gìá½°s    1
+                               w°éd    1
+                            w¶«·t°    1
+                          w¶«ºot°«    1
+                               w¶ñ°    1
+                           w·{°}t°    1
+                          w·«{·}t°    1
+                          w·º{°}t°    1
+                            w·º°t°    1
+                           w·ºñ‡ñ‡°    1
+                          w·¼º{°}ñ°    1
+                            w·½ot°    1
+                             w·½t°    1
+                         w·½¼º{°}f°    1
+                            w·½¾t°    1
+                      ådla«ºs±¿éz    1
+                åglá²s$°$åw¶«ot°¾    1
+                  åglá²s$°$åw·ot°    1
+              åglá«{²}s$°v$õw·«ot°    1
+                åwµ{°}t°$õo¼{¹«¼}k    1
+                      åw·¼º°t´«¾    2
+                       åw·«{°}t°«¾    1
+                          åw·º·ºt°    1
+                        åw·¼{°}t°½    1
+                        åw·¼{°}t°¾    1
+                      åw·¼º{°}t°¾    1
+                          åw·½º·t°    1
+                          õglá{°}s    1
+              õglá«¼ºs$°$åw·ºd°½¾    1
+            õglŞ¼:s$°$å{w}·º{°}{ñ}°    1
+                    õglás$°$åwŞ«¼d°    1
+            õglá{°}s$°$åw·«{°}{t}´    1
+                 õgláºs$°$åw·º{°}ñ°    1
+              õgláº{°}s$°$åw·•{°}ñ°    1
+                           õwa«¼t°    1
+                       õw·¼º{°}t°½    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

@@ -1,0 +1,18 @@
+#!D:/Python22/python.exe
+#!/usr/local/bin/python
+
+# For some reason these aren't getting passed through correctly w/fcgi,
+# so I'm setting them here.
+import os, sys
+#sys.path.append('/mnt/mydocs/atlas/lap')
+sys.path.append('e:/atlas/lap')
+os.environ['ATLASSITE_TARGET'] = 'DEVEL_TEST'
+
+from jon import fcgi
+from lap.web.handlers import Handler
+
+# Uncomment this line to get the dump page when you request any dynamic page
+#from lap.web.templates.dump import DumpHandler as Handler
+
+fcgi.Server({fcgi.FCGI_RESPONDER: Handler}).run()
+

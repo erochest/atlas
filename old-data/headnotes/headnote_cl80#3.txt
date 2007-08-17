@@ -1,0 +1,64 @@
+puke (cl80#3.asc)
+
+Items
+=====
+                            bilious    1
+                            cascade    1
+                          cascading    1
+                            gagging    1
+  he been a heave the whole morning    1
+                  he got the heebie    1
+                              heave   13
+                       heave 'em up    1
+                           heave up    4
+                             heaved    1
+                             heaves    1
+                                 NR   22
+                               puke   19
+                    puke like a dog    2
+                            puke up    1
+                             puking    1
+                 she cascade 'em up    1
+                               spew    5
+                           throw up    7
+        throw up all over the place    1
+                        throwing up    1
+                            upchuck    1
+
+Pronunciations
+==============
+                                  "    1
+
+
+
+
+M: If somebody's pretty bad this way, you might say he was leaning over the fence (or something) and _____.
+P: [After eliciting both vomit and throw up] Which is the crude term or which is more polite?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 80#3, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 80 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook		Preliminary Worksheets
+----------------------------------
+80#Pa			80#7
+80#Pb
+80#Pc			80#2
+80#1			80#1
+80#2			80#3
+80#3 (no question)
+80#4			80#4
+80#5			80#5
+			80#6 (no question)

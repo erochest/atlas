@@ -1,0 +1,127 @@
+<!--wt:lingForm-->
+  <table cellpadding="10" align="center" border="0" width="80%"
+         bgcolor="#EEEEEF">
+  <tr><td align="center">
+  <font size="-1">
+  <a href="search.html">Advanced Search</a> |
+  <a href="view.html">Change View</a> |
+  <!--wt:noteslink-->
+    <a href="notes.html">View Notes</a> |
+  <!--wt:/noteslink-->
+  <a href="map.png">Map</a> |
+  <a href="browse.csv">CSV</a> (for spreadsheets and databases)
+  </font>
+  </td></tr>
+  <tr><td align="center">
+  <!--wt:targetSelect-->
+    <p>Linguistic data for this data set:&nbsp;
+    <form method="PUT" action="browse.html">
+    <select name="target">
+    <option value="">None</option>
+    <!--wt:targetOption-->
+      <option value="$$%targetid$$">$$target$$</option>
+    <!--wt:/targetOption-->
+    </select>
+    <input type="submit"></form></p>
+  <!--wt:/targetSelect-->
+  </td></tr></table>
+<!--wt:/lingForm-->
+<!--wt:view-->
+  <!--wt:map-->
+    <p align="center">
+    <img border="0" height="$$%height$$" width="$$%width$$" src="map.png"
+         usemap="#map">
+    </p>
+    <map name="map">
+    <!--wt:area-->
+      <area href="community.html?comid=$$comid$$"
+            onClick="return community('$$comid$$');"
+            alt="Community $$comid$$" shape="rect" coords="$$coords$$">
+    <!--wt:/area-->
+    </map>
+  <!--wt:/map-->
+  <!--wt:data-->
+    <!--wt:empty-->
+      <p><b>This query returned no data.</b></p>
+    <!--wt:/empty-->
+    <!--wt:single-->
+      <table border="0" cellspacing="4">
+      <!--wt:singlerow-->
+        <tr><td align="right"><b>
+        <a href="$$baseurl$$/information/fields.html?field=$$%field$$&project=$$%project$$">
+        $$description$$</a>$$=remove$$</b></td>
+        <td><b>$$=datum$$</b></td></tr>
+      <!--wt:/singlerow-->
+      </table>
+    <!--wt:/single-->
+    <!--wt:many-->
+      <!--wt:pager-->
+        <table border="0" width="100%"><tr>
+        <td align="left">Records $$start$$-$$end$$ of $$total$$</td>
+        <td align="right">
+        $$=prev$$ | <!--wt:pageno-->$$=page$$<!--wt:/pageno--> | $$=next$$
+        </td>
+        </tr></table>
+      <!--wt:/pager-->
+      <table border="0" cellspacing="5">
+      <tr>
+      <!--wt:fieldname-->
+        <th valign="top"><font size="-1">$$table$$</font><br>
+        <a href="$$baseurl$$/information/fields.html?field=$$%field$$&project=$$%project$$">
+        $$name$$</a>
+        <a alt="Hide $$%field$$" href="browse.html?hide=$$%field$$">-</a></th>
+      <!--wt:/fieldname-->
+      </tr>
+      <!--wt:datarow-->
+        <tr>
+        <!--wt:dataitem-->
+          <td valign="top">$$=item$$</td>
+        <!--wt:/dataitem-->
+        </tr>
+      <!--wt:/datarow-->
+      </table>
+      <!--wt:pager-->
+        <table border="0" width="100%"><tr>
+        <td align="left">Records $$start$$-$$end$$ of $$total$$</td>
+        <td align="right">
+        $$=prev$$ | <!--wt:pageno-->$$=page$$<!--wt:/pageno--> | $$=next$$
+        </td>
+        </tr></table>
+      <!--wt:/pager-->
+    <!--wt:/many-->
+  <!--wt:/data-->
+<!--wt:/view-->
+<!--wt:lingForm-->
+  <table cellpadding="10" align="center" border="0" width="80%"
+         bgcolor="#EEEEEF">
+  <tr><td align="center">
+  <font size="-1">
+  <a href="search.html">Advanced Search</a> |
+  <a href="view.html">Change View</a> |
+  <!--wt:noteslink-->
+    <a href="notes.html">View Notes</a> |
+  <!--wt:/noteslink-->
+  <a href="map.png">Map</a> |
+  <a href="browse.csv">CSV</a> (for spreadsheets and databases)
+  </font>
+  </td></tr>
+  <tr><td align="center">
+  <!--wt:targetSelect-->
+    <p>Linguistic data for this data set:&nbsp;
+    <form method="PUT" action="browse.html">
+    <select name="target">
+    <option value="">None</option>
+    <!--wt:targetOption-->
+      <option value="$$%targetid$$">$$target$$</option>
+    <!--wt:/targetOption-->
+    </select>
+    <input type="submit"></form></p>
+  <!--wt:/targetSelect-->
+  </td></tr></table>
+<!--wt:/lingForm-->
+<!--wt:query-->
+<pre>
+<b>Query:</b> $$query$$
+<b>Parameters:</b> $$params$$
+</pre>
+<!--wt:/query-->

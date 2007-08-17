@@ -1,0 +1,106 @@
+singing and laughing (cg57#4.asc)
+
+Items
+=====
+                              a-cry    1
+                            a-going    2
+                          a-hunting    1
+                          a-looking    1
+                           a-making    1
+                          a-raining    1
+                          a-setting    1
+                             a-sing    1
+           a-singing and a-laughing    5
+             a-singing and laughing    1
+                          a-waiting    1
+                             a-walk    1
+                            begging    1
+                          beginning    1
+                 blowing a-fighting    1
+                           bringing    1
+                            canning    1
+                           catching    1
+                           cheating    1
+                           clocking    1
+                           coloring    1
+                             coming    2
+                             crying    1
+                            dancing    2
+                              doing    1
+                            driving    1
+                             eating    3
+                            fishing    1
+                         frolicking    1
+                            getting    1
+                        getting bad    1
+                       getting kill    1
+                     hunting a iron    1
+                            joining    1
+                         kicking up    1
+                              laugh    1
+                           laughing    2
+               laughing and talking    2
+                   laughing talking    1
+                                 NR   13
+                            playing    1
+                         playing in    1
+                            raining    2
+                            raising    1
+                            reading    1
+                             riding    1
+                            running    1
+                            setting    2
+                            shaking    1
+      she been singing and laughing    1
+       she was singing and laughing    2
+she was singing and laughing all day    1
+                            singing    4
+                singing and a-laugh    1
+             singing and a-laughing    8
+              singing and a-praying    1
+               singing and laughing   18
+                        sitting out    1
+                            smoking    1
+                             taking    1
+                            teasing    1
+                  they just laughed    1
+                     tossing around    1
+                   trying a-blowing    1
+                       were singing    1
+                            writing    1
+
+
+
+
+M: There were a lot of people at the party, having a good time.  They were standing around the piano ______.  And if a funny story had been told, they'd all be ______.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 57#4, there are no inappropriate responses.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 57 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+57#1		57#1
+		57#2 (no question)
+57#2		57#3
+57#3		57#4
+57#4		57#5
+57#5
+		57#6 (no question)
+57#6
+		57#7a (no question)
+57#7		57#7b
+57#8		57#8
+57#9 S

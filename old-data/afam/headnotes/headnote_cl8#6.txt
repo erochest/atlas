@@ -1,0 +1,36 @@
+lightwood (cl8#6.asc)
+
+Items
+=====
+                            a stick    1
+                          bust wood    1
+                              chunk    3
+             fat lighterd splinters    1
+                      fat lightwood    5
+               fat part of pinewood    1
+                           fat pine    1
+                      fat splinters    3
+                            fatwood    4
+                       in the grate    1
+                           kindling   11
+                      kindling wood    2
+                              light    2
+                           light it    1
+                          lightwood   33
+                 lightwood kindling    1
+                lightwood splinters    1
+                   lightwood stumps    1
+                         lightwoods    2
+                                 NR   23
+                              piece    1
+                      piece of wood    1
+                               pine    1
+                       pine berries    1
+                           richwood    1
+                          splinters    2
+                              stick    2
+                         stove wood    1
+                     these days now    1
+                            torches    1
+                         turpentine    1
+

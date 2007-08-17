@@ -1,0 +1,76 @@
+junk (cl10#2.asc)
+
+Items
+=====
+                           catchall    1
+                      fat lightwood    1
+                 fat lightwood knot    1
+                               junk   25
+                              junks    3
+                          lightwood    2
+                           loblolly    1
+                             lumber    1
+                             manure    4
+                               mash    2
+                                 NR    6
+                           old junk    4
+                          old junks    4
+                         old pieces    1
+                        old plunder    2
+                        old rubbage    2
+                        old ruggage    1
+                       old rumbling    1
+                          old trash    2
+                       old trumpets    1
+                          pie trash    1
+                         pine trash    1
+                            plunder   12
+                       plunderments    1
+                               rags    1
+                            rubbage    5
+                      rubbage stuff    1
+                            rubbish    2
+                            rummage    7
+                              scrap    1
+                           the junk    1
+The truth must be spoken for the truth sake: we used to call that counterfeit things    1
+                              trash   25
+                         truck pile    1
+                            trumpry    5
+
+Pronunciations
+==============
+                                  "    4
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

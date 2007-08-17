@@ -1,0 +1,83 @@
+borrow (cp95#1.asc)
+
+Items
+=====
+                             borrow   56
+                          borrow it    2
+                                 NR    7
+                              sorry    1
+
+Pronunciations
+==============
+                            bµ[r]±¿    1
+                             bµr{°}    1
+                               bµr°    6
+                            bµ«rŽ±¿    1
+                           bµ«¾r±¿½    2
+                        bµ«¾{°}r±¿½    1
+                              bµºr°    1
+                             bµºr±¿    1
+                            bµºr±¿«    1
+                            bµ¾[r]°    1
+                              bµ¾r°    4
+                             bµ¾r±¿    1
+                            bµ¾r±¿é    1
+                             b¶[r]°    1
+                               b¶r°    7
+                          b¶”{°}r±¿    1
+                           b¶ºr±¾±¾    1
+                              b¶¼r°    3
+                             b·r±¿½    1
+                        b·«{°}øé±¿½    1
+                           b·º[r]±¿    1
+                              b·½r°    1
+                          b·½{°}r±¿    1
+                           b·½º[r]°    1
+                            b·½ºr±¿    2
+                      b·½º{°}[r]±¿½    1
+                              bÞr°é    1
+                             bÞ•r±¿    1
+                           bÞ«¼r±¿½    1
+                             bÞ´±¿¼    1
+                             åbµºr°    1
+                            åbµ¾r±¿    1
+                        åb¶«{°}rŽ±¿    1
+                          åb¶ºr±¿«¼    1
+                       åb·½¼ºñŽ±¿«¼    1
+                           åbÞŽ¼ºr°    1
+                          åbÞºr±¿«¼    1
+                             åbÞº´°    1
+                          åbÞº´±¿«¼    1
+                          åbÞ¼ºr±¿½    1
+
+L: If you haven't any money, you go to a friend and try to _____.
+M: If you need to cut the grass and don't have a lawnmower, you go over to a neighbor and (ask to) _____.  What about money? [Look for Yankee use immortalized by Calvin Coolidge]
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 95#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 95 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+94#8		95#1
+95#P
+95#1		95#2
+95#2
+		95#3
+95#3		95#4
+95#4		95#5
+95#5		95#6
+95#6		95#7
+95#7		95#8

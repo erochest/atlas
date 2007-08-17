@@ -1,0 +1,33 @@
+thunderstorm (cl6#2.asc)
+
+Items
+=====
+                            cyclone    3
+                     electric storm    1
+                   electrical storm    2
+                        electricity    1
+                          flagstorm    1
+                        heavy storm    1
+                          hurricane    2
+                    lightning storm    1
+                                 NR    7
+                             severe    1
+                             squall    4
+                              storm   12
+                             storms    1
+                             stormy    3
+                            thunder    1
+                       thunder gust    2
+              thunder roll two time    1
+                      thunder storm    1
+                       thundercloud    8
+                      thundershower    4
+                     thundershowers    2
+                      thundersquall    8
+             thundersquall or storm    1
+                       thunderstorm   32
+                            tornado    3
+                           tornados    1
+                         wind storm    1
+                          windstorm    1
+

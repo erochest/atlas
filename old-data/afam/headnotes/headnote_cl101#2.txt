@@ -1,0 +1,98 @@
+intend to (cl101#2.asc)
+
+Items
+=====
+                                aim    2
+                          aim to go    1
+                             aiming    1
+                          aiming to    1
+                       expect to go    2
+                           figuring    1
+                        figuring on    1
+                             fixing    4
+                          fixing to    6
+                       fixing to go    2
+                      fixing to say    1
+                      getting ready    1
+                   getting ready to    1
+                               hope    3
+                     I feel like go    1
+                     I intend to go    2
+                  I mean to do that    1
+                       I mean to go    1
+                  I mean to go soon    2
+                       I tend to go    1
+                  I tend to go soon    2
+                 I was fixing to go    1
+              I was intention to go    1
+            I was planning on going    1
+               I was planning to go    1
+I was tend to go, but I had disappointment    1
+                         I'm fixing    1
+                       I'm going to    1
+                             intend    3
+                          intend on    1
+                            lay off    2
+                             lay up    4
+                  lighting on going    2
+                  lighting on to go    1
+                               mean    3
+                            mean to    1
+                                 NR    9
+                               plan    1
+                            plan to    1
+                         plan to go    2
+                           planning    2
+                        planning on    4
+                        planning to    2
+                          preparing    1
+                            studied    1
+                           studying    1
+                     studying about    1
+                        studying on    2
+                  studying on going    1
+                         talking on    1
+                we are slated to go    1
+                       we fixing to    2
+                    we fixing to go    1
+                          we intend    1
+                    we intend to go    4
+               we intend to go soon    2
+                      we mean to go    1
+                      we plan to go    1
+                      we tend to go    1
+            we're lighting on going    1
+                  we're planning to    1
+
+
+Responses which do not correspond to the target responses, those which are
+unrelated or irrelevant to the target, are considered inappropriate responses.
+Also, answers elicited in response to other questions (some on other pages),
+even if they correspond to the target, are considered inappropriate.  For
+example, McDavid frequently transcribed answers he elicited in response to
+other questions and in general conversation on the page and line which
+actually targeted the items.  Even though such items appear to be appropriate
+responses to the question asked on that page and line, they are labeled
+inappropriate and designated with (b) to indicate that they are not actually
+responses to the target worksheet items.  Also, marginalia transcribed in
+phonetics, even if the items correspond to target items, are considered
+inappropriate responses to the question. 
+
+Notes on Worksheets and Data for Gullah Speakers Interviewed by Turner:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in
+South Carolina and Georgia (1933) differ somewhat from later versions used by
+Lowman, McDavid and Pedersen, both in enumeration and target response.  For
+example, page 4, question 2 from Turner's preliminary worksheets, tomorrow,
+corresponds to page 4, question 1 of later versions; and page 14, question 1
+from the preliminary worksheets, I says/I said, has no corresponding question
+in later versions.  This incongruence was alleviated in the data files by the
+matching of target responses of the later worksheets to those of the
+preliminary versions when it was possible. In cases where there were no
+corresponding target responses, Gullah informant data were entered as NR (no
+response).  Specifically for this page of the later version as listed in
+Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the
+following correspondences are noted:  
+
+
+

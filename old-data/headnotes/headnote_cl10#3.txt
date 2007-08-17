@@ -1,0 +1,76 @@
+junk room (cl10#3.asc)
+
+Items
+=====
+                              clean    1
+                           clean up    1
+                          cleans up    1
+                             closet    1
+                          cornhouse    1
+            get this house in order    1
+                              house    1
+                          junk room   10
+                          junkhouse    1
+                       lumber house    1
+                        lumber room   10
+                                 NR   29
+                     old storehouse    2
+                           outhouse    2
+                       plunder room    7
+                           right up    1
+                       rummage room    2
+                       storage room    2
+                          storeroom    6
+                      straighten up    1
+                              sweep    1
+                              trash    1
+                         trash room    2
+                       trumpet room    1
+                       trumpry room    1
+                             vacuum    1
+
+
+
+
+
+
+
+L: What would you call a room that is used to store odds and ends in?
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The terms present denote a room in the house in which old furniture and other odds and ends are stored.  In many houses the attic serves this purpose; hence some informants lack a special word or make one up on the spur of the moment.  
+ 
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 10#3, "clean up" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+	The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 10 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+10#Pa		10#3
+10#Pb		10#6
+10#1		10#1
+10#2		10#2
+10#3 SM	
+10#4a		10#4
+10#4b		10#4
+10#5		10#5
+		10#7
+10#6
+10#7		10#8
+10#8 X
+10#9 X

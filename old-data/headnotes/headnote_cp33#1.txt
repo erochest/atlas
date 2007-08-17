@@ -1,0 +1,88 @@
+dog (cp33#1.asc)
+
+Items
+=====
+                A dog's a quadruped    1
+                          catch him    8
+                          come here    1
+                     come here baby    1
+                                dog   49
+                               dogs    1
+                            get him    7
+                           go after    1
+                       go after him    1
+                         go get him    2
+                               here    1
+                 here catch 'em sir    1
+                                 NR   14
+                            raccoon    1
+                                sic    1
+                            sic 'em    1
+                            sic him   10
+                        sic him pup    1
+                         skitch him    2
+                          stick him    1
+                           take him    1
+
+Pronunciations
+==============
+                             do[¹]g    1
+                            d¶«o[g]    1
+                              d¶«og    3
+                              d¶«¹g    1
+                          d¶«º[·½]g    1
+                           d¶º[·½]g    1
+                              d¶ºog    1
+                               d·:g    1
+                            d·[·«]g    1
+                                d·g   21
+                              d·ogz    1
+                              d·«ºg    3
+                              d··«g    4
+                            d·º[·]g    2
+                               d·ºg    3
+                           d·¼º{°}g    1
+                           d·½[·«]g    1
+                           d·½¼[¹]g    1
+                              dÞ¼ºg    1
+                             åd··ºg    1
+
+
+
+L: The kind of animal that barks.
+M: If you are going hunting, you had better take along a good hunting 	_____.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+The rare pronunciations of [daºg], [d¶g], [dou«g] and [duºg] are worthy of note. Also included here are expressions used to incite attack. The element "go," with secondary stress, sometimes precedes a call.
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 33#1, only marginalia is inappropriate.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 33 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  			
+
+Handbook	Preliminary Worksheets
+----------------------------------
+33#P		
+33#1a		33#1
+33#1b		
+33#2		33#2
+33#3		33#3
+33#4		33#4
+33#5		33#5
+33#6		33#6
+33#7		33#7
+33#8		33#8

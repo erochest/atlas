@@ -1,0 +1,60 @@
+calming down (cl7#3.asc)
+
+Items
+=====
+                           a-laying    1
+                     a-lulling down    1
+                            abating    1
+                       bedding down    1
+                              cease    1
+                          ceaseding    5
+                            ceasing    1
+                       ceasing down    1
+                          come down    1
+                        coming down    8
+                         coming off    1
+                         coming out    1
+                           die down    1
+                         dying down    3
+                    dying down some    1
+                          dying out    2
+                          easing up    1
+                            falling    2
+                              going    1
+                       it calm down    1
+                         it ceasing    1
+                       it done null    1
+                   it's coming down    1
+                             laying    4
+                       lolling down    1
+                               lull    2
+                          lull down    1
+                            lulling    1
+                                 NR   16
+                        slacking up    1
+                       slowing down    2
+                         slowing up    1
+           the gale is blowing down    1
+the old people say that the wind is slacking down    1
+                     the wind cease    3
+             the wind come down low    1
+                  the wind die down    1
+                      the wind fall    1
+                   the wind go down    1
+                  the wind is cease    1
+                the wind is dulling    1
+                the wind is falling    1
+                   the wind is lull    1
+           the wind is lulling down    1
+              the wind is null down    1
+                the wind is nulling    1
+                      the wind lull    2
+                   the wind lulling    1
+      the wind narrow down a little    1
+                 the wind's falling    1
+                          weakening    1
+
+Pronunciations
+==============
+                                  "    1
+

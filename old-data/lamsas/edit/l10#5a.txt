@@ -1,0 +1,1634 @@
+"NR","NY1","50"," ","N"," "," "," ","MS",1
+"NR","NY2A","51.1"," ","N"," "," "," ","MS",2
+"NR","NY2B","51.2"," ","N"," "," "," ","MS",3
+"NR","NY2C","51.3"," ","N"," "," "," ","MS",4
+"washing and ironing","NY3A","401","O","N"," "," ","w∑Ω∫Û±øn$∞n$a´æ±ø¥n±øn","MS",5
+"washing and ironing","NY3B","403","O","N"," "," ","wµÛ±øÓ$∞n$a´æ±ø¥n±øÓ","MS",6
+"washing and ironing","NY3C","402","O","N"," "," ","wµæÛ±øÓ$∞n$aæ±øΩ¥n±øÓ","MS",7
+"wash and ironing","NY3D","404","O","N"," "," ","wµ´æ∫Û$∞n$•Ω±ø¥n±øÓ","MS",8
+"washing and ironing","NY4A","405","O","N"," "," ","wµ´∫Û∞n$∞n$a´æ±ø∞n∞n","MS",9
+"washing and ironing","NY4B","407","O","N"," "," ","wµ´æÛ∞n$∞n$a´æ±øn∞n","MS",10
+"washing and ironing","NY4C","408","O","N"," "," ","wµÛ±øÓ$∞n$aæ±ør∞n±øÓ","MS",11
+"wash and ironing","NY5A","409","O","N"," "," ","wµÛ$∞n$µæ∫±øΩ∞n±øÓ","MS",12
+"washing and ironing","NY5B","410","O","N"," "," ","wµÛ∞n$∞n$a´æ∫±ø∞n±øÓ","MS",13
+"washing and ironing","NY5C","411","O","N"," "," ","wµ´æÛ±øÓ$∞n$a±ø∞n±øÓ","MS",14
+"wash and ironing","NY5D","412","O","N"," "," ","wµ´æÛ$∞n$Âa±ø∞én±øÓ","MS",15
+"washing and ironing","NY5E","413","O","N"," "," ","ıwµ´æÛ±øÓ$∞n$Âa±ø∞n∞n","MS",16
+"washing","NY5F","414","N","N"," "," ","wµ´Û±øÓ","MS",17
+"washing and ironing","NY5G","415","O","N"," "," ","wµæÛ±øÓ$∞n$µº±ø∞n±øÓ","MS",18
+"wash","NY5H!","416!","N","N"," "," ","wµÛ","MS",19
+"washing and ironing","NY5I!","417!","O","N"," "," ","wµ´∫Û±øÓ$∞n$a±øΩ∞én±øÓ","MS",20
+"washing and ironing","NY6A","418","O","N"," "," ","wµ∫Û∞n$∞n$µ±ø∫∞r∞n±øÓ","MS",21
+"wash and ironing","NY6B","419","O","N"," "," ","wµ∫Û$∞n$a±ø∞n±øÓ","MS",22
+"washing and ironing","NY7A","420","O","N"," "," ","wµÛ∞n$∞n$aæ±ø∞n∞","MS",23
+"washing and ironing","NY7B","421","O","N"," "," ","wµ{∞é}Û±øÓ$∞n$a´æ±ø∞n±øÓ","MS",24
+"washing and ironing","NY7C","422","O","N"," "," ","wµæ∫Û∞n$∞n$µ±ø∞n±øÓ","MS",25
+"washing and ironing","NY7D","423","O","N"," "," ","wµ´Û±øÓ$∞n$a±øΩ∞n±øÓ","MS",26
+"washing and ironing","NY7E","424","O","N"," "," ","wµ´ºÛ±øÓ$∞n$a±ør∞n±øÓ","MS",27
+"washing and ironing","NY7F","425","O","N"," "," ","w∑Ω∫Û±øÓ$∞n$aæ∫±øΩ∞n±øÓ","MS",28
+"wash and ironing","NY7G","426","O","N"," "," ","ıwµ´∫Û$∞n$Âa´æ±ø´∞n±øÓ","MS",29
+"washing and ironing","NY7H","427","O","N"," "," ","wﬁºÛ±øÓ$∞n$a±ør∞n±øÓ","MS",30
+"wash","NY7I","428","N","N"," "," ","wµ´Û","MS",31
+"wash","NY7J!","429!","N","N"," "," ","wµ´æ{∞}Û","MS",32
+"wash","NY7K!","430!","N","N"," "," ","wµÛ","MS",33
+"wash","NY7L!","431!","N","N"," "," ","wµ›Û","MS",34
+"washing and ironing","NY7M!","432!","O","N"," "," ","wµÛ±øÓ$∞n$aæ±øΩ∞n±øÓ","MS",35
+"washing and ironing","NY8","432b","O","N"," "," ","wµæÛ±øÓ$∞n$aæ±ø∞én±øÓ","MS",36
+"washing and ironing","NY9A","432c","O","N"," "," ","wµº∫Û±øÓ$∞n$a±ø¥n±øÓ","MS",37
+"washing and ironing","NY9B","433","O","N"," "," ","wµ´æÛ±øÓ$∞n$•±ø´¥én±øÓ","MS",38
+"washing and ironing","NY9C","434","O","N"," "," ","wµÛ±øÓ$∞n$a±ø¥n±øÓ","MS",39
+"washing and ironing","NY10A","435","O","N"," "," ","wµ´æ{∞}Û∞n$∞n$•Ω±ø¥n±øÓ","MS",40
+"washing and ironing","NY10B!","436!","O","N"," "," ","wµÛ±øÓ$∞n$a´æ±ø¥n±øÓ","MS",41
+"washing and ironing","NY11","438","O","N"," "," ","wµæ∫Û±øÓ$∞n$µ∫±ø¥n±øÓ","MS",42
+"washing and ironing","NY12A","439(*)","O","N"," "," ","wµ∫Û±øÓ$∞n$•æ±ø¥n±øÓ","MS",43
+"ironing","NY12B","440","N","N"," "," ","a±ø¥n±øÓ","MS",44
+"washing and ironing","NY12C!","441!","O","N"," "," ","wµÛ±øÓ$∞n$a±ø¥n±øÓ","MS",45
+"wash and ironing","NY13A","443","O","N"," "," ","wµº∫Û$∞n$a´æ±ø¥n±øÓ","MS",46
+"wash","NY13B!","444!","N","N"," "," ","wµº∫Û","MS",47
+"washing and ironing","NY14A","445","O","N"," "," ","wµ∫Û∞n$∞n$•±ø¥n±øÓ","MS",48
+"washing and ironing","NY14B","446","O","N"," "," ","wµ´æ{∞}Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",49
+"washing and ironing","NY15A","447","O","N"," "," ","ıwµº∫Û±øÓ$∞n$Âa´æ±ø¥n±øÓ","MS",50
+"washing and ironing","NY15B","448","O","N"," "," ","waæ∫Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",51
+"washing and ironing","NY16A","449","O","N"," "," ","wµ∫Û±øÓ$∞n$aæ±ø∞n±øÓ","MS",52
+"washing and ironing","NY16B","450","O","N"," "," ","wµ∫Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",53
+"wash","NY17A","451(*)","N","N"," "," ","wµ∫Û","MS",54
+"washing and ironing","NY17B","452","O","N"," "," ","wµÛ±øÓ$∞n$•Ω±ø¥n±øÓ","MS",55
+"wash","NY18A","453","N","N"," "," ","wµº∫Û","MS",56
+"washing and ironing","NY18B","454","O","N"," "," ","wµº∫Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",57
+"wash","NY18C!","455!","N","N"," "," ","wµÛ","MS",58
+"washing and ironing","NY19","456","O","N"," "," ","wµÛ±øÓ$∞n$•Ω±ø¥n±øÓ","MS",59
+"washing and ironing","NY20A","457","O","N"," "," ","wµºÛ±øÓ$∞n$•±ø¥n±øÓ","MS",60
+"washing and ironing","NY20B","458","O","N"," "," ","ıwaæ∫Û±øÓ$∞n$Âa´æ±ø¥n±øÓ","MS",61
+"washing and ironing","NY21","459","O","N"," "," ","ıwµ∫Û±øÓ$∞n$Âa´æ±ø¥n±øÓ","MS",62
+"wash and ironing","NY22","460","O","N"," "," ","wµ∫Û$∞n$a´æ±ø¥n±øÓ","MS",63
+"washing","NY23A","461","N","N"," "," ","wµæÛ±øÓ","MS",64
+"washing and ironing","NY23B","462a","O","N"," "," ","Âwµ∫Ûn$∞´n$Âµ∫±øº¥n±øΩn","MS",65
+"washing","NY23C","462b","N","N"," "," ","wµÛ±øºÓ","MS",66
+"washing and ironing","NY24A","463","O","N"," "," ","wµº∫Û±øn$∞n$a±ø¥n±øΩn","MS",67
+"NR","NY24B!","464!"," ","N"," "," "," ","MS",68
+"washing","NY25A","465","N","N"," ","CNV","wµÛ±øºn","MS",69
+"NR","NY25B","466"," ","N"," "," "," ","MS",70
+"washing and ironing","NY26A","467","O","N"," "," ","ÂwµÛn$∞´n$Âµ∫±ø¥n±øn","MS",71
+"washing","NY26B","468","N","N"," "," ","ÂwµÛ±øºÓ","MS",72
+"washing","NY26C","469","N","N"," "," ","ÂwµÛ±øºn","MS",73
+"washing and ironing","NY27A","470","O","N"," "," ","wµÛ±øºn$nñ$Âµ∫±ø¥n±øºn","MS",74
+"washing","NY27B","471","N","N"," "," ","wµÛ±øºn","MS",75
+"wash day","NY27C","472","O","Y"," "," ","ÂwµÛ$ıdeΩ∫±ø","MS",76
+"washings did on Monday","NY28A","473a","S","N"," "," ","ÂwµÛ±øºÓz$d±d$µn$Âm∏nd±´æ","MS",77
+"washed and ironed","NY28B","473b(*)","E","N"," "," ","w∂Ût$∞´n$Âµ´∫±ø¥nd","MS",78
+"washing","NY28C"," ","N","N"," "," ","Âw∂Û±øºn"," ",79
+"washing","NY29A","474a","N","N"," "," ","w∂Û±øºn","MS",80
+"washing and ironing","NY29B","474b","O","N"," "," ","ÂwµÛ±øºn$∞´n$Âµ∫±ø¥nñ±øºn","MS",81
+"washing","NY29C","474c","N","N"," "," ","Âw∂{∞}Û±øºn","MS",82
+"washing and ironing","NY30A","475a","O","N"," "," ","wµÛ±øºn$∞n$Âµ∫±ø¥n±æn","MS",83
+"washing","NY30B","475b","N","N","tried to do all on Monday"," ","Âw∑Ω¥Û±øºn","MS",84
+"washing","NY30C","475c","N","N"," "," ","w∂´Û±øºn","MS",85
+"washing and ironing","NY30D","475d","O","N"," "," ","Âw∂Û±øºn$∞Ωn$Âµ∫±øΩ¥n±øºn","MS",86
+"wash day","NY30E","475e","O","Y"," "," ","Âw∑ΩÛ$ıdeΩ±ø","MS",87
+"washing","NY31A","478a","N","N"," "," ","wµ¥Û±øºÓ","MS",88
+"washing","NY31B","478b","N","N"," "," ","wµÛ±øºn","MS",89
+"washing","NY32A","479a","N","N"," "," ","w∂Û±øÓ","MS",90
+"washing","NY32B","479b","N","N"," "," ","w∂Û±øn","MS",91
+"washing and ironing","NY33A","480","O","N"," "," ","w∂é´º¥Ûn$∞´n$Âµº±ø¥nñ±øºn","MS",92
+"NR","NY33B","481"," ","N"," "," "," ","MS",93
+"washing","NY33C","482","N","N"," "," ","wµ¥Û±øºn","MS",94
+"washing","NY34A","483","N","N"," "," ","w∑ΩÛ±øºn","MS",95
+"washing","NY34B","484","N","N"," "," ","w∂∫Û±øºÓ","MS",96
+"wash day","NY34C","485","O","N"," "," ","ÂwµæÛ$ıdeΩ±ø","MS",97
+"washing","NY34D!","486!","N","N"," "," ","w∑Ω¥Û±øºÓ","MS",98
+"washing and ironing","NY35A","487","O","N"," "," ","w∂∫Û±øΩn$∞n$•±ø´¥n±øΩn","MS",99
+"washing and ironing","NY35B","488","O","N"," "," ","wµº∫Û±øÓ$∞n$•±ø¥n±øÓ","MS",100
+"washing and ironing","NY35C!","489!","O","N"," "," ","wµÛ±øÓ$∞n$•Ωæ±ø¥n±øÓ","MS",101
+"washing and ironing","NY36A","491","O","N"," "," ","wµ∫Û±øΩn$∞n$•±ø¥n±øΩn","MS",102
+"washing and ironing","NY36B","492","O","N"," "," ","wµ´æ{∞}Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",103
+"washing and ironing","NY37A","493","O","N"," "," ","waæ∫Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",104
+"washing and ironing","NY37B","494","O","N"," "," ","ıw∂´∫Û±øÓ$∞n$Â•Ω±ø¥n±øÓ","MS",105
+"washing and ironing","NY37C!","495!","O","N"," "," ","wµ∫Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",106
+"washing and ironing","NY38A","497(*)","O","N"," "," ","wµÛ±øΩn$∞n$•±ø¥n±øΩn","MS",107
+"washing and ironing","NY38B","498","O","N"," "," ","ıwµÛ±øΩn$∞n$Â•±ø¥n±øÓ","MS",108
+"washing and ironing","NY38C"," ","O","N"," "," ","w∂´∫Û±øÓ$∞n$•±ø¥n±øÓ"," ",109
+"washing and ironing","NY39A","499","O","N"," "," ","wµ∫Û±øΩn$∞n$a´æ±ø¥n±øΩn","MS",110
+"washing and ironing","NY39B","500","O","N"," "," ","wµ{¥}Û±øΩn$∞n$•Ω±ø¥n±øΩn","MS",111
+"washing and ironing","NY40A","501","O","N"," "," ","ıwµ∫Û±øΩn$∞n$Â•Ω±ø¥n±øÓ","MS",112
+"wash the ironing","NY40B","502","E","N"," "," ","wµ∫Û$‰∞$a´æ±ø¥n±øÓ","MS",113
+"washing and ironing","NY41","504","O","N"," "," ","w∂´∫Û±øÓ$∞n$•±ø¥n±øÓ","MS",114
+"washing and ironing","NY42A","505","O","N"," "," ","wµ∫Û±øn$∞n$•±ø¥n±øn","MS",115
+"washing and ironing","NY42B","506","O","N"," "," ","w∑Ω{¥}Û±øÓ$∞n$•Ωæ±ø¥n±øÓ","MS",116
+"washing and ironing","NY43A","507","O","N"," "," ","wµÛ±øΩn$∞n$•±ø¥n±øΩn","MS",117
+"washing and ironing","NY43B","507b","O","N"," "," ","wµºÛ±øÓ$∞n$•±ø¥n±øÓ","MS",118
+"washing and ironing","NY43C!","508!","O","N"," "," ","w∂´∫Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",119
+"washing and ironing","NY44A","511","O","N"," "," ","wµÛ±øÓ$∞n$•±ø¥n±øÓ","MS",120
+"washing and ironing","NY44B","512","O","N"," "," ","w∂´∫Û±øÓ$∞n$•±ø¥n±øÓ","MS",121
+"washing","NY45A","513a","N","N"," "," ","wµÛ±øn","MS",122
+"washing and ironing","NY45B","513b","O","N"," "," ","ÂwﬁóÛ±øºn$∞´n$Â•∫±ø¥n±øºÓ","MS",123
+"washing and ironing","NY45C","513c","O","N"," "," ","wµæÛ±øºn$∞´n$•∫±ø¥n±øºn","MS",124
+"washing","NY45D!","513d!","N","N"," "," ","wµæÛ±øºÓ","MS",125
+"washing","NY46A","515a","N","N"," "," ","ÂwµÛ±øºn","MS",126
+"washing","NY46B","515b","N","N"," "," ","wµ´Û±n","MS",127
+"washing","NY46C","515c","N","N"," "," ","wµºÛ±øÓ","MS",128
+"washing","NY47A","517(*)","N","N"," "," ","wµÛ±øºn","MS",129
+"washing and ironing","NY47B","518","O","N"," "," ","wµ∫Û±øÓ$∞n$•±ø¥n±øÓ","MS",130
+"washing","NY48A","519a","N","N"," "," ","wµæ∞éÛ±øn","MS",131
+"washing","NY48B","519b","N","N"," "," ","w∑ΩÛ±øºÓ","MS",132
+"washing","NY48C","519c","N","N"," "," ","wµÛ±øn","MS",133
+"washing","NY48D","519d","N","N"," "," ","w∑ΩÛ±øn","MS",134
+"washing","NY49A","520","N","N","Monday and Tuesday"," ","ÂwµÛ±øºn","MS",135
+"washing and ironing","NY49B","521","O","N"," "," ","wµ´æÛ±øΩn$∞n$a´æ±ø´¥n±øΩn","MS",136
+"washing","NY49C","522a","N","N"," "," ","w∂´ºÛ±øºÓ","MS",137
+"washing","NY49D","522b","N","N"," "," ","wµ{∞}Û±øÓ","MS",138
+"washing","NY50A","523","N","N"," "," ","wﬁÛ±øºn","MS",139
+"washing and ironing","NY50B","524","O","N"," "," ","ÂwµºÛ±øºn$∞´n$aæ±ø¥n±øΩÓ","MS",140
+"washing and ironing","NY51A","525a","O","N"," "," ","ÂwµÛ±øºÓ$∞´n$•∫±ø¥n±øºn","MS",141
+"wash day","NY51B","525b","O","Y"," ","INA","ÂwµÛ$ıdeΩ±ø","MS",142
+"washing","NY51C","525c","N","N"," "," ","ÂwµÛ±øn","MS",143
+"washing","NY51D","525d","N","N"," "," ","wµÛ±øn","MS",144
+"washing","NY51E!","525e!","N","N"," "," ","wµÛ±øºn","MS",145
+"washing","NY52A","527","N","N"," "," ","ÂwµÛ±ø›n","MS",146
+"washing","NY52B","528","N","N"," "," ","Âw∂´Û±øºn","MS",147
+"washing and ironing","NY52C","528b","O","N"," "," ","wµ{∞}Û±øºÓ$∞n$Â•±ø¥n±øÓ","MS",148
+"washing","NY53A","529","N","N"," "," ","ÂwﬁºÛ±øºn","MS",149
+"washing","NY53B!","530!","N","N"," "," ","w∑ΩÛ±øºn","MS",150
+"washing","NY54A","531","N","N"," "," ","wµÛ±øÓ","MS",151
+"washing","NY54B","532","N","N"," "," ","wµÛ±øºn","MS",152
+"washing","NY55A","533","N","N"," "," ","w∂Û±øºn","MS",153
+"washing","NY55B","534","N","N"," "," ","wµæÛ±æn","MS",154
+"washing","NY56A","535","N","N"," "," ","ÂwµÛ±øºn","MS",155
+"washing and ironing","NY56B","536","O","N"," "," ","Âw∑ΩºÛ±øºÓ$∞´n$•∫¥´n±øn","MS",156
+"washing","NY57A","537a","N","N"," "," ","w∑éΩ¥Û±øn","MS",157
+"washing","NY57B","537b","N","N"," "," ","Âw∑ΩÛ±øÓ","MS",158
+"washing and ironing","NY57C!","537c!","O","N"," "," ","Âw¿ΩæÛ±øn$∞´n$Âµ´±ø¥n±øÓ","MS",159
+"washing","NY58A","539a","N","N","Monday"," ","ÂwﬁóºÛ±øºn","MS",160
+"washing","NY58B","539b","N","N"," "," ","w∑Ω∞Û±øºn","MS",161
+"washing","NY58C","539c","N","N"," "," ","Âw∂Û±øºn","MS",162
+"wash","NY58D!","539d!","N","N","we said"," ","wµÛ","MS",163
+"washing","NY58E!","539e!","N","N"," "," ","w∑Ω∫∞éÛ±øºÓ","MS",164
+"washing","NY58F!","539f!","N","N"," "," ","w∂Û±øºÓ","MS",165
+"washing","NY59A","543","N","N"," ","CNV","wµ´Û±øn","MS",166
+"wash and ironing","NY59B","544","O","N"," "," ","wµÛ$∞n$•±ø´¥n±øΩn","MS",167
+"washing","NY60A","545","N","N"," "," ","w∑Ωº∞Û±øºn","MS",168
+"washing","NY60B!","546!","N","N"," "," ","Âw∂Û±øºn","MS",169
+"washing","NY61A","547","N","N"," "," ","Âw∑Ω∫{∞é}Û±øºn","MS",170
+"washing and ironing","NY61B","548","O","N"," "," ","wµæ¥Ûn$∞n$Âµ´±ø¥n±øºÓ","MS",171
+"washing","NY62A","551a","N","N"," "," ","ÂwµÛ±øºn","MS",172
+"wash day","NY62B","551b","O","Y"," ","INA","ÂwµÛ$ıde∫{±ø}","MS",173
+"washing","NY62C","551c","N","N"," "," ","Âw∂Û±øΩn","MS",174
+"washing and ironing","NY62D!","551d!","O","N"," "," ","ÂwµæÛ±æÓ$∞´n$Âµº∫±ø¥n±øºÓ","MS",175
+"washing","NY63A","556a","N","N"," "," ","w∑ΩÛ±øΩn","MS",176
+"washing","NY63B","556b","N","N"," "," ","Âw•óæÛ±øºÓ","MS",177
+"washing and ironing","NY63C","556c","O","N"," "," ","w∂´∫Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",178
+"washing","NY63D!","556d!","N","N"," "," ","Âw∑ΩÛ±øºÓ","MS",179
+"wash day","NY64A","557a","O","Y"," ","INA","ÂwµÛ$ıdeΩ{±ø}","MS",180
+"wash day","NY64B","557b","O","N"," "," ","ÂwµÛ$ıde∫±ø","MS",181
+"washing","NY64C!","557c!","N","N"," "," ","ÂwµÛ±øºÓ","MS",182
+"washing","NJ1A","1","N","N"," "," ","w∂´∫{∞}Û∞n","MS",183
+"washing and ironing","NJ1B","2","O","N"," "," ","w∂´º∫{∞}Û±øÓ$∞n$µ±ø¥n±øÓ","MS",184
+"washing and ironing","NJ2A","3(*)","O","N"," "," ","w∂´∫{∞}Û∞n$∞n$∂´º¥∫n∞n","MS",185
+"washing and ironing","NJ2B","4","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$µ≤¥n±øÓ","MS",186
+"washing and ironing","NJ3A","5","O","N"," "," ","ıwµ{∞´º}Û∞n$∞n$Âµæ¥n∞n","MS",187
+"washing and ironing","NJ3B","6","O","N"," "," ","w∂´º{∞}Û±øÓ$∞n$∂æ¥∫n±øÓ","MS",188
+"washing and ironing","NJ4A","7","O","N"," "," ","ıwµ{∞}Û±øÓ$∞n$Â∂î´º¥n±øÓ","MS",189
+"washing and ironing","NJ4B","8","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$∂´º¥n±øÓ","MS",190
+"washing and ironing","NJ5A","9","O","N"," "," ","ıw∂´{∞}Û∞n$∞n$Â∂¥n∞n","MS",191
+"washing and ironing","NJ5B","10","O","N"," "," ","wµ{∞´º}Û∞n$∞n$∂îº¥n∞n","MS",192
+"washing and ironing","NJ6A","11","O","N"," "," ","wµ{±ø}Û±øÓ$∞n$ﬁó¥n±øÓ","MS",193
+"washing and ironing","NJ6B","12","O","N"," "," ","ıw∂´∫{∞}Û±øÓ$∞n$Â∂´º¥n∞n","MS",194
+"washing and ironing","NJ7A","17","O","N"," "," ","wµÛ±øÓ$∞n$∂¥n±øÓ","MS",195
+"washing and ironing","NJ7B!","18!","O","N"," "," ","ıwµ∫Û±øÓ$∞n$Âµ±ø¥n±øÓ","MS",196
+"washing and ironing","NJ8A","19","O","N"," "," ","wµÛ$∞›n$Âﬁº¥n∞n","MS",197
+"washing and ironing","NJ8B","20","O","N"," "," ","wµ{±øΩ}Û±øÓ$∞n$µ±ø¥n±øÓ","MS",198
+"washing and ironing","NJ9A","21","O","N"," "," ","w∑∫Û±øÓ$∞n$µæ¥n±øÓ","MS",199
+"washing and ironing","NJ9B","22","O","N"," "," ","wµ∫Û±øÓ$∞n$µré∞›n±øÓ","MS",200
+"washing and ironing","NJ10A","24b","O","N"," "," ","ıwµÛ∞n$∞n$Âµ´±ø∞én∞n","MS",201
+"washing and ironing","NJ10B","23","O","N"," "," ","wµ{∞´º}Û±øÓ$∞n$µ¥n±øÓ","MS",202
+"washing and ironing","NJ10C","24","O","N"," "," ","wµ{±øΩ}Û±øÓ$∞n$µº{±øΩ}¥n±øÓ","MS",203
+"washing and ironing","NJ10D!","24c!","O","N"," "," ","wµºÛ±øÓ$∞n$a±ø¥n±øÓ","MS",204
+"washing and ironing","NJ11A","25","O","N"," "," ","wµÛ±øÓ$∞n$µº±øΩ¥n∞n","MS",205
+"washing and ironing","NJ11B","26a","O","N"," "," ","ıwµÛ±øÓ$∞n$Âµ±ø¥n±øÓ","MS",206
+"washing and ironing","NJ11C","26b","O","N"," "," ","w∑¥Û±øÓ$∞n$µ´±ø¥n±øÓ","MS",207
+"washing and ironing","NJ12A","27","O","N"," "," ","ıwµÛ$∞n$Âµ±ø¥n±øÓ","MS",208
+"washing and ironing","NJ12B","28","O","N"," "," ","wµÛ±øÓ$∞n$µ´±ø¥n±øÓ","MS",209
+"washing and ironing","NJ13A","29","O","N"," "," ","ıw∂∫Û±øÓ$n$Âµº±ø¥n±øÓ","MS",210
+"washing and ironing","NJ13B","30","O","N"," "," ","w∂´∫Û±øÓ$∞n$µ´º±ø¥n±øÓ","MS",211
+"washing and ironing","NJ14A","31","O","N"," "," ","ıw∂´∫Û∞n$∞n$Âµ´±ø¥n±øÓ","MS",212
+"washing and ironing","NJ14B","32","O","N"," "," ","w∂´∫Û±øÓ$∞n$µ´±ø¥n±øÓ","MS",213
+"washing and ironing","NJ15A","33","O","N"," "," ","w∂ó´∫Û±øÓ$∞n$µ´º±ø¥n±øÓ","MS",214
+"washing and ironing","NJ15B","34","O","N"," "," ","wµæÛ±øÓ$∞n$µ´±ø¥n±øÓ","MS",215
+"washing and ironing","NJ16A","35","O","N"," "," ","wµÛ∞n$∞n$µ±ø¥n∞n","MS",216
+"washing and ironing","NJ16B","36","O","N"," "," ","wµÛ±øÓ$∞n$µ±ø¥n±øÓ","MS",217
+"washing and ironing","NJ17A","37","O","N"," "," ","w∑¥Û∞n$∞n$µ±ø¥n∞n","MS",218
+"washing and ironing","NJ17B","38","O","N"," "," ","w∂´∫Û∞n$∞n$µ±ø¥n±øÓ","MS",219
+"washing and ironing","NJ18A","41","O","N"," "," ","ıw∑∫{∞}Û±øÓ$∞n$Âa±ø¥n±øÓ","MS",220
+"washing and ironing","NJ18B","42","O","N"," "," ","wµ´æÛ±øÓ$∞n$µº≤´∞én±øÓ","MS",221
+"washing and ironing","NJ18C!","43!","O","N"," "," ","wµ{¥}Û±øÓ$∞n$a±ø¥n±øÓ","MS",222
+"washing and ironing","NJ18D!","44!","O","N"," "," ","wµÛ±øÓ$∞n$a´æ±ø¥n±øÓ","MS",223
+"washing and ironing","NJ19A","45","O","N"," "," ","w∑∫Û±øÓ$∞n$a±ø∞én±øÓ","MS",224
+"washing and ironing","NJ19B!","46!","O","N"," "," ","wµÛ±øÓ$∞n$aæ±ø∞r∞n±øÓ","MS",225
+"washing and ironing","NJ20A","47","O","N"," "," ","wµÛ±øÓ$∞n$a±ø{∞}¥n±øÓ","MS",226
+"washing and ironing","NJ20B","47b","O","N"," "," ","wµÛ±øÓ$∞n$aæ±ø¥n±øÓ","MS",227
+"washing and ironing","NJ21A","48","O","N"," "," ","wµæÛ±øÓ$∞n$Âµº±ø¥n±øÓ","MS",228
+"washing and ironing","NJ21B","49","O","N"," "," ","wµ∫Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",229
+"washing and ironing","PA1A","51","O","N"," "," ","wµÛ∞n$∞n$aæ≤¥n±øÓ","MS",230
+"washing and ironing","PA1B","52","O","N"," "," ","wµÛ±øÓ$∞n$aæ±ø¥n±øÓ","MS",231
+"washing and ironing","PA1C","53","O","N"," "," ","wﬁºÛ±øÓ$∞n$µ±øΩ¥n±øÓ","MS",232
+"washing and ironing","PA1D","54","O","N"," "," ","ıw∂´∫{∞}Û±øÓ$∞n$Âµ≤¥n±øÓ","MS",233
+"washing and ironing","PA1E!","55!","O","N"," "," ","wﬁÛ±øÓ$∞n$µ±øΩ¥n±øÓ","MS",234
+"washing and ironing","PA1F!","56!","O","N"," "," ","wµÛ±øÓ$∞n$a±ø¥n±øÓ","MS",235
+"washing and ironing","PA1G!","57!","O","N"," "," ","wµÛ±øÓ$∞n$aæ±ø¥n±øÓ","MS",236
+"washing and ironing","PA1H!","58!","O","N"," "," ","wµ{∞}Û±øÓ$∞n$µæ≤¥n±øÓ","MS",237
+"washing and ironing","PA2A","59","O","N"," "," ","wﬁº{∞}Û±øÓ$∞n$µæ¥n±øÓ","MS",238
+"washing and ironing","PA2B","60","O","N"," "," ","wµæÛ±øÓ$∞n$µº±ø¥n±øÓ","MS",239
+"washing and ironing","PA3A","61","O","N"," "," ","ıwµÛ±øÓ$∞n$Âµº±ø¥n±øÓ","MS",240
+"washing and ironing","PA3B","62","O","N"," "," ","wµÛ±øÓ$∞n$µ±ø¥n±øÓ","MS",241
+"washing and ironing","PA3C","62b","O","N"," "," ","wµÛ±øÓ$∞n$∂óæ¥n±øÓ","MS",242
+"washing and ironing","PA4A","63","O","N"," "," ","wµÛ∞n$∞n$µ´º±ø¥n∞n","MS",243
+"washing and ironing","PA4B!","64!","O","N"," "," ","wµæÛ±øÓ$∞n$aæ±ø¥n±øÓ","MS",244
+"washing and ironing","PA5A","65(*)","O","N"," "," ","wµÛ±øÓ$∞n$a´æ±ø¥n∞n","MS",245
+"washing and ironing","PA5B","65b","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",246
+"washing and ironing","PA5C","66","O","N"," "," ","wﬁÛ±øÓ$∞n$µ´±ø¥n±øÓ","MS",247
+"washing and ironing","PA5D","67","O","N"," "," ","w∑´∞éÛ±øÓ$∞n$a≤¥n±øÓ","MS",248
+"washing and ironing","PA5E!","68!","O","N"," "," ","w∑∫{∞}Û∞n$∞n$µ¥n±øÓ","MS",249
+"washing and ironing","PA6A","69","O","N"," "," ","wµÛ±øÓ$∞n$Âaæ±ø{{∞ürü’}n±øÓ","MS",250
+"washing and ironing","PA6B","71","O","N"," "," ","wµÛ±øÓ$∞n$a±ø{∞ü’Ωæ}n±Ó","MS",251
+"washing and ironing","PA6C","71b","O","N"," "," ","ˆµÛ±Ó$∞n$a±ør∞n±Ó","MS",252
+"washing and ironing","PA6D!","72!","O","N"," "," ","wµ{∞}Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",253
+"washing and ironing","PA7A","73","O","N"," "," ","w∑Ω∫{∞}Û∞n$∞n$µ¥n±øÓ","MS",254
+"washing and ironing","PA7B","74","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$a±øΩ¥n±øÓ","MS",255
+"washing and ironing","PA7C","75","O","N"," "," ","ıˆµÛ∞n$∞n$Âaæ±ør∞n∞n","MS",256
+"washing and ironing","PA7D!","76!","O","N"," "," ","wµæÛ±øÓ$∞n$µº±øΩ¥n±øÓ","MS",257
+"washing and ironing","PA8A","77","O","N"," "," ","w∑∫{∞}Û∞n$∞n$µæ¥n∞n","MS",258
+"washing and ironing","PA8B","78","O","N"," "," ","w∑´{¥}Û±øÓ$∞n$a{±øΩ}¥n±øÓ","MS",259
+"washing and ironing","PA8C","79","O","N"," "," ","w∑∫Û±Ó$∞n$aæ±øΩ¥n±Ó","MS",260
+"washing and ironing","PA8D!","80!","O","N"," "," ","wﬁº{∞}Û±øÓ$∞n$a∫≤æ¥n±øÓ","MS",261
+"washing and ironing","PA9A","83","O","N"," "," ","wµÛ±øÓ$∞n$a±ø¥n±Ó","MS",262
+"washing and ironing","PA9B","83b","O","N"," "," ","w∑∫{∞}Û±Ó$∞n$a±øΩ¥n±øÓ","MS",263
+"washing and ironing","PA9C!","84!","O","N"," "," ","wµæ{∞}Û±øÓ$∞n$a±øΩ¥n±øÓ","MS",264
+"washing and ironing","PA10","87","O","N"," "," ","wµÛ±Ó$∞n$aæ±ø∞rn±øÓ","MS",265
+"washing and ironing","PA11A","89","O","N"," "," ","w∑¥Û±øÓ$∞n$a±ø¥n±øÓ","MS",266
+"washing and ironing","PA11B","90(*)","O","N"," "," ","w∂´∫Û±øÓ$∞n$a›´æ±ø´¥n±øÓ","MS",267
+"washing and ironing","PA12A","91","O","N"," "," ","w∑´∫Û±øÓ$∞n$a±ø¥n±øÓ","MS",268
+"washing and ironing","PA12B","92","O","N"," "," ","w∂´{∞}Û±øÓ$∞n$aæ{≤}¥n±øÓ","MS",269
+"washing and ironing","PA13A","93","O","N"," "," ","w∑Ω{∞}Û±øÓ$∞n$Âa±ø¥n±øÓ","MS",270
+"washing and ironing","PA13B","94","O","N"," "," ","w∑{¥}Û±øÓ$∞n$a±ø¥n±øÓ","MS",271
+"washing and ironing","PA14A","95(*)","O","N"," "," ","wﬁÛ±Ó$∞n$Âa±ø∞r±Ó","MS",272
+"washing and ironing","PA14B","96","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",273
+"washing and ironing","PA14C"," ","O","N"," "," ","w∑Ω∫{∞}Û∞n$∞n$aæ±ør±øÓ"," ",274
+"washing and ironing","PA15A","99","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",275
+"washing and ironing","PA15B","99b","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$•Ωæ±ø¥n±øÓ","MS",276
+"washing and ironing","PA15C!","100!","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",277
+"washing and ironing","PA16A","101","O","N"," "," ","ˆµÛ±Ó$∞n$a±ø∞rn±øÓ","MS",278
+"washing and ironing","PA16B","102","O","N"," "," ","ıw∑∫{¥}Û±Ó$∞n$Âµº±ø¥n±øÓ","MS",279
+"washing and ironing","PA16C","103","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$a±ø´¥n±øÓ","MS",280
+"washing and ironing","PA17A","105","O","N"," "," ","ıˆµæ{∞}Û±øÓ$∞n$Âa±ø∞rü’n±øÓ","MS",281
+"washing and ironing","PA17B","106","O","N"," "," ","wµæ{∞}Û±øÓ$∞n$aæ±ø∞rn±øÓ","MS",282
+"washing and ironing","PA18A","107","O","N"," "," ","wµæ{∞}Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",283
+"washing and ironing","PA18B!","108!","O","N"," "," ","wµÛ±øÓ$∞n$aæ±ø¥n±øÓ","MS",284
+"washing and iron","PA19A","113","O","N"," "," ","wµÛ∞n$∞n$a¥n","MS",285
+"washing and ironing","PA19B","114","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ´±ø¥n±øÓ","MS",286
+"washing and ironing","PA20A","115","O","N"," "," ","w∂´∫{∞}Û∞n$∞n$aæ±ø¥n∞n","MS",287
+"washing and ironing","PA20B","116","O","N"," "," ","w∂´º{∞}Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",288
+"washing and ironing","PA21A","117","O","N"," "," ","ıw∂´∫{∞}Û±øΩn$∞n$Â•±ø¥n±øΩn","MS",289
+"washing and ironing","PA21B","118","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",290
+"washing and ironing","PA22A","119","O","N"," "," ","w∂´º{∞}Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",291
+"washing and ironing","PA22B","120","O","N"," "," ","wµÛ±øÓ$∞n$•Ω±ø¥n±øÓ","MS",292
+"washing and ironing","PA23A","121","O","N"," "," ","wµÛ±øΩn$∞n$a´æ±ø¥n±øΩn","MS",293
+"washing and ironing","PA23B","122","O","N"," "," ","w∂´º∫{∞}Û±øΩn$∞n$•Ωº±ø¥n±øΩn","MS",294
+"washing and ironing","PA24A","123","O","N"," "," ","w∂´º{∞}Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",295
+"washing and ironing","PA24B","124","O","N"," "," ","wµ{∞}Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",296
+"washing and ironing","PA25A","125","O","N"," "," ","wµÛ±øÓ$∞n$a´æ±ø´¥n±øÓ","MS",297
+"washing and ironing","PA25B","126","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$Âa±ø¥n±øÓ","MS",298
+"washing and ironing","PA26A","127","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$a´æ±ø¥n±øΩn","MS",299
+"washing and ironing","PA26B","128","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$Âa´æ±ø´¥n±øÓ","MS",300
+"washing and ironing","PA27A","131","O","N"," "," ","wµÛ±øΩn$∞n$µ´º±ø´¥n∞n","MS",301
+"washing and ironing","PA27B","132","O","N"," "," ","w∂´∫Û±øÓ$∞n$a´æ{±ø}¥n±øÓ","MS",302
+"washing and ironing","PA28A","135","O","N"," "," ","w∑´{¥}Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",303
+"wash and ironing","PA28B!","136!","O","N"," "," ","w∑∫{¥}Û$∞n$aæ±ø¥n±øÓ","MS",304
+"wash and ironing","PA29A","139(*)","O","N"," "," ","wµÛ$∞n$a±øΩ¥n±øÓ","MS",305
+"washing and ironing","PA29B","140","O","N"," "," ","w∑Ω∫Û±øÓ$∞n$a±ø¥n±øÓ","MS",306
+"washing and ironing","PA30A","143","O","N"," "," ","w∂´º{∞}Û±øΩn$∞n$a´æ±ø¥n±øÓ","MS",307
+"washing and ironing","PA30B","144","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",308
+"washing and ironing","PA31A","145","O","N"," "," ","w∑r›Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",309
+"washing and ironing","PA31B","146","O","N"," "," ","w∂´∫Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",310
+"washing and ironing","PA32A","147","O","N"," "," ","w∑{∞é}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",311
+"washing and ironing","PA32B","148","O","N"," "," ","w∑º¥éÛ∞n$∞n$µ±ø´¥én∞n","MS",312
+"washing and ironing","PA33A","151","O","N"," "," ","w∑Ω{r}Û∞n$∞n$a±ørén±øÓ","MS",313
+"washing and ironing","PA33B","152","O","N"," "," ","w∑∫{¥}Û±øÓ$∞n$a±ø¥n±øÓ","MS",314
+"washing and ironing","PA34A","155","O","N"," "," ","w∑´¥Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",315
+"washing and ironing","PA34B","156","O","N"," "," ","ıw∑´{¥}Û±øÓ$∞n$Âµº¥n±øÓ","MS",316
+"washing and ironing","PA34C!","155b!","O","N"," "," ","w∑{¥}Û±øÓ$∞n$aæ±øΩ¥n±øÓ","MS",317
+"washing and ironing","PA35A","157","O","N"," "," ","w∑´¥Û∞n$∞n$aæ±ø¥n∞n","MS",318
+"washing and ironing","PA35B","158(*)","O","N"," "," ","w∑´¥Û±øÓ$∞n$µ¥n±øÓ","MS",319
+"washing and ironing","PA35C"," ","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$a±ø¥n±øÓ"," ",320
+"washing and ironing","PA36A","159","O","N"," "," ","ıw∑∫{∞é}Û±øÓ$∞n$Âa±ø¥n±øÓ","MS",321
+"washing and ironing","PA36B","160","O","N"," "," ","w∑´º∫{∞é}Û∞n$∞n$a±øΩ¥n±øÓ","MS",322
+"washing and ironing","PA37A","161(*)","O","N"," "," ","wﬁºÛ±øÓ$∞n$Âa±ø∞rn±øÓ","MS",323
+"washing and ironing","PA37B","162","O","N"," "," ","wﬁÛ±øÓ$∞n$a±ø¥n±øÓ","MS",324
+"washing and ironing","PA37C"," ","O","N"," "," ","w∂´∫Û±øÓ$∞n$a±ø´¥n±Ó"," ",325
+"washing and ironing","PA38A","163","O","N"," "," ","w∑{¥}Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",326
+"washing and ironing","PA38B","164","O","N"," "," ","w∑´{¥}Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",327
+"washing and ironing","PA39A","165","O","N"," "," ","ıw∑´¥Û±øÓ$∞n$Âa´æ±ø´¥n±øÓ","MS",328
+"washing and ironing","PA39B","166","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$aæ{±øΩ}¥n±øÓ","MS",329
+"washing and ironing","PA40A","167","O","N"," "," ","w∑{¥}Û±øÓ$∞n$a±ø¥n±øÓ","MS",330
+"washing and ironing","PA40B","168","O","N"," "," ","w∑¥Û±øÓ$∞n$aæ±ø¥n±øÓ","MS",331
+"washing and ironing","PA41A","171","O","N"," "," ","w∑{¥}Û±øÓ$∞n$·¥n∞n","MS",332
+"washing and ironing","PA41B","172","O","N"," "," ","w∑Ω{∞}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",333
+"washing and ironing","PA42A","175","O","N"," "," ","ıw∑´¥Û∞n$∞n$Âµ¥n∞n","MS",334
+"washing and ironing","PA42B","176","O","N"," "," ","w∑´¥Û∞n$∞n$µ¥n∞n","MS",335
+"washing and ironing","PA43A","177","O","N"," "," ","w∑´{¥}Û±øÓ$∞n$aæ±øΩ¥n±øÓ","MS",336
+"washing and ironing","PA43B","178","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$µ¥n±øÓ","MS",337
+"washing and ironing","PA44A","179","O","N"," "," ","w∑¥Û∞n$∞n$µ∫º≤¥n±øÓ","MS",338
+"washing and ironing","PA44B","180","O","N"," "," ","w∑´∫{∞}Û±øÓ$∞n$·r∞n±øÓ","MS",339
+"washing and ironing","PA45A","181","O","N"," "," ","w∑´{r}Û±øÓ$∞n$a≤rén±øÓ","MS",340
+"washing and ironing","PA45B","182","O","N"," "," ","wﬁÛ±øÓ$∞n$a±ørn±øÓ","MS",341
+"washing and ironing","PA46A","185","O","N"," "," ","w∑´{r}Û±øÓ$∞n$a≤¥n±øÓ","MS",342
+"washing and ironing","PA46B","186","O","N"," "," ","w∑´rÛ±øÓ$∞n$a±ørn±øÓ","MS",343
+"washing and ironing","PA47A","189","O","N"," "," ","w∑∫Û∞n$∞n$aæ±øΩrén±øÓ","MS",344
+"washing and ironing","PA47B","190","O","N"," "," ","w∑ó∫Û±øÓ$∞n$a≤´rén±øÓ","MS",345
+"washing and ironing","PA48A","191","O","N"," "," ","w∑Ω{r}Û±øÓ$∞n$a±ø¥n±øÓ","MS",346
+"washing and ironing","PA48B","192","O","N"," "," ","w∑rÛ±øÓ$∞n$a±ørén±øÓ","MS",347
+"wash and ironing","PA48C","193","O","N"," "," ","w∑Ω{r}Û$∞ón$a±ørn±øÓ","MS",348
+"washing and ironing","PA49A","194","O","N"," "," ","w∂´Û±øÓ$∞n$aæ±ø¥n∞n","MS",349
+"washing and ironing","PA49B","195","O","N"," "," ","w∑´rÛ±øÓ$∞n$µæ∫{∞}rn±øÓ","MS",350
+"washing and ironing","PA50A","196","O","N"," "," ","w∑rÛ∞n$∞n$a›´æ±ørén∞n","MS",351
+"washing and ironing","PA50B","197","O","N"," "," ","w∑´{r}Û±øÓ$∞n$aæ≤rén±øÓ","MS",352
+"washing and ironing","PA50C!","198!","O","N"," "," ","w∑rÛ±øÓ$∞n$a±ørn±øÓ","MS",353
+"washing and ironing","PA51A","199","O","N"," "," ","w∂´rÛ±øÓ$∞n$µ{∞}rn±øÓ","MS",354
+"washing and ironing","PA51B","200","O","N"," "," ","w∑rÛ±øÓ$∞n$a±ø¥n±øÓ","MS",355
+"washing and ironing","PA52A","201","O","N"," "," ","w∑∫{∞}Û∞n$∞n$µ´±ø{∞}rn∞n","MS",356
+"washing and ironing","PA52B!","202!","O","N"," "," ","w∑∫{∞}Û∞n$∞n$a±ø¥n±øÓ","MS",357
+"washing and ironing","PA53A","203","O","N"," "," ","w∑{r}Û±øÓ$∞n$a±ørn±øÓ","MS",358
+"washing and ironing","PA53B","204","O","N"," "," ","w∑{∞}{r}Û±øÓ$∞n$a±ørn±øÓ","MS",359
+"washing and ironing","PA54A","205","O","N"," "," ","w∑¥Û∞n$∞n$µærn∞n","MS",360
+"washing and ironing","PA54B","206","O","N"," "," ","w∑rÛ±øÓ$∞n$a±ørn±øÓ","MS",361
+"washing and ironing","PA55A","207","O","N"," "," ","w∑{∞}Û±øÓ$∞n$a±ø¥n±øÓ","MS",362
+"washing and ironing","PA55B","208","O","N"," "," ","w∑{r}Û±øÓ$∞n$a±ø¥n±øÓ","MS",363
+"washing and ironing","PA56A","211(*)","O","N"," "," ","w∑ΩÛ±øΩn$∞n$a±ørén±øΩn","MS",364
+"washing and ironing","PA56B","212","O","N"," "," ","ıw∑´{r}Û±øÓ$∞n$Âµrn±øÓ","MS",365
+"washing and ironing","PA57A","213","O","N"," "," ","w∑∫{∞}Û∞n$∞n$a´æ±ørn±øÓ","MS",366
+"washing and ironing","PA57B","214","O","N"," "," ","w∑´{∞}Û∞n$∞n$aæ±ørn±øÓ","MS",367
+"washing and ironing","PA58A","215","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$a±ørn±øÓ","MS",368
+"washing and ironing","PA58B","216","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$a±ø¥n±øÓ","MS",369
+"washing and ironing","PA59A","219","O","N"," "," ","w∑rÛ±øÓ$∞n$a±ø´¥n±øÓ","MS",370
+"washing and ironing","PA59B","220","O","N"," "," ","w∂´{∞}Û±øÓ$∞n$a±ørén±øÓ","MS",371
+"washing and ironing","PA60A","221","O","N"," "," ","w∑{∞}Û±øÓ$∞n$a±ø¥n±øÓ","MS",372
+"washing and ironing","PA60B","222","O","N"," "," ","w∑{r}Û∞n$∞n$a±ørn±øn","MS",373
+"wash and ironing","PA61A","223","O","N"," "," ","w∑{∞}Û$∞n$a´æ±ørn∞n","MS",374
+"washing and ironing","PA61B","224","O","N"," "," ","w∑Ω∫{∞}Û∞n$∞n$a±ørn±øÓ","MS",375
+"wash and ironing","PA62A","229","O","N"," "," ","w∑rÛ$∞n$a±ørn±øÓ","MS",376
+"washing and ironing","PA62B","230","O","N"," "," ","w∑´rÛ∞n$∞n$Âa±ø¥n∞n","MS",377
+"washing and ironing","PA63A","231","O","N"," "," ","w∑{∞}Û±øÓ$∞n$a±ørn±øÓ","MS",378
+"washing and ironing","PA63B","232","O","N"," "," ","w∑rÛ±øÓ$∞n$a´æ±ørén±øÓ","MS",379
+"washing and ironing","PA64A","233","O","N"," "," ","w∂´∫Û±øÓ$∞n$a´æ±ø¥n±øÓ","MS",380
+"washing and ironing","PA64B","234","O","N"," "," ","wµ∫Û±øÓ$∞n$•Ω±ø¥n±øÓ","MS",381
+"NR","PA65A","237"," ","N"," "," "," ","MS",382
+"washing and ironing","PA65B","238","O","N"," "," ","w∂´{∞}Û±øÓ$∞n$a±ø¥n±øÓ","MS",383
+"washing and ironing","PA66A","239","O","N"," "," ","w∂´∫Û∞n$∞n$a´æ±ø¥n∞n","MS",384
+"washing and ironing","PA66B","240","O","N"," "," ","w∑{¥}Û±øΩn$∞n$µ±ø¥n±øΩn","MS",385
+"washing and ironing","PA67A","243","O","N"," "," ","ıwµÛ±øÓ$∞n$Âa±ø¥n±øÓ","MS",386
+"washing and ironing","PA67B","244","O","N"," "," ","wµÛ±øÓ$∞n$•±ø¥n±øÓ","MS",387
+"washing and ironing","WV1!","88!","O","N"," "," ","wµæÛ±øÓ$∞n$aæ≤{∞}n±øÓ","MS",388
+"washing and ironing","WV2","89","O","N"," "," ","w∑Ω{¥}Û∞n$∞n$aæ∫{≤}{∞}n∞n","MS",389
+"washing and ironing","WV3","91","O","N"," "," ","w∑∫{∞}Û∞n$∞n$µ¥n∞n","MS",390
+"washing and ironing","WV4A","92","O","N"," "," ","w∑Ω∫{∞}Û∞n$∞n$µæ¥n∞n","MS",391
+"washing and ironing","WV4B","93","O","N"," "," ","w∑´¥Û±øΩn$∞n$µº{≤æ}¥n±øΩn","MS",392
+"washing and ironing","WV5","94","O","N"," "," ","ıw∑Ω∫{¥}Û∞n$∞n$Âµ¥n±øÓ","MS",393
+"washing and ironing","WV6A","95","O","N"," "," ","w∑Ω∫{∞}Û∞n$∞n$aæ≤¥n∞n","MS",394
+"washing and ironing","WV6B","96","O","N"," "," ","w∑Ω{¥}Û±øÓ$∞n$a{≤}¥n±øÓ","MS",395
+"washing and ironing","WV7A","97","O","N"," "," ","wµæ∫{∞}Û∞n$∞n$a≤¥n∞n","MS",396
+"washing and ironing","WV7B","98","O","N"," "," ","w∑Ω{¥}Û±øÓ$∞n$µº≤¥n±øÓ","MS",397
+"washing and ironing","WV8A","97b","O","N"," "," ","ıw∑∫{¥}Û∞n$∞n$Âµ¥∫n∞n","MS",398
+"washing and ironing","WV8B","98b","O","N"," "," ","wµæÛ∞n$∞n$µ≤¥n±øÓ","MS",399
+"washing and ironing","WV9A","301","O","N"," "," ","ıw∑{r}Û±øÓ$∞n$Âaæ≤´rén∞n","MS",400
+"washing and ironing","WV9B","302","O","N"," "," ","w∑¥Û±øÓ$∞n$aæ≤¥n±øÓ","MS",401
+"washing and ironing","WV10A","303","O","N"," "," ","ıw∑{¥}Û∞n$∞n$Âa´æ±ø¥n∞n","MS",402
+"washing and ironing","WV10B","303b","O","N"," "," ","ıw∑¥Û∞n$∞n$Âµæ¥n∞n","MS",403
+"washing and ironing","WV10C","304","O","N"," "," ","w∑¥Û∞n$∞n$µº≤´¥n∞n","MS",404
+"washing and ironing","WV11A","305","O","N"," "," ","w∑´rÛ±øÓ$∞n$µrén±øÓ","MS",405
+"washing and ironing","WV11B!","306!","O","N"," "," ","w∑{r}Û±øÓ$∞n$a±øΩrén±øÓ","MS",406
+"washing and ironing","WV12A","307","O","N"," "," ","w∑Ω{r}Û±øÓ$∞n$µ¥n±øÓ","MS",407
+"washing and ironing","WV12B","308","O","N"," "," ","w∑rÛ±øÓ$∞n$aæ≤´¥n±øÓ","MS",408
+"washing and ironing","WV13A","309","O","N"," "," ","w∑´¥Û±øÓ$∞n$µæ¥n±øÓ","MS",409
+"washing and ironing","WV13B","310","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µæ¥n±øÓ","MS",410
+"washing and ironing","WV14A","311","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ¥n±øÓ","MS",411
+"washing and ironing","WV14B","312","O","N"," "," ","w∑∫Û±øÓ$∞n$µ¥n±øÓ","MS",412
+"washing and ironing","WV15A","313","O","N"," "," ","w∑Ω¥Û±øÓ$∞n$µ¥n±øÓ","MS",413
+"washing and ironing","WV15B","314","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ¥n±øÓ","MS",414
+"washing and ironing","WV16A","315","O","N"," "," ","w∑Ω{¥}Û∞n$∞n$µ{≤}¥n∞n","MS",415
+"washing and ironing","WV16B","316","O","N"," "," ","w∑{r}Û±øÓ$∞n$µrn±øÓ","MS",416
+"washing and ironing","WV17A","317","O","N"," "," ","w∑{∞}Û∞n$∞n$µ¥n∞n","MS",417
+"washing and ironing","WV17B","317b","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µæ¥n±øÓ","MS",418
+"washing and ironing","WV17C","318","O","N"," "," ","w∑∫Û∞n$∞n$µæ¥n∞n","MS",419
+"washing and ironing","WV18A","319","O","N"," "," ","w∑¥Û±øÓ$∞n$µ¥n±øÓ","MS",420
+"washing and ironing","WV18B","320","O","N"," "," ","w∑{r}Û∞n$∞n$µ¥n∞n","MS",421
+"washing and ironing","WV19A","321","O","N"," "," ","w∑∫Û∞n$∞n$µ∫¥n∞n","MS",422
+"washing and ironing","WV19B","322","O","N"," "," ","w∑∫Û±øÓ$∞n$µærén±øÓ","MS",423
+"washing and ironing","WV20A","323","O","N"," "," ","w∑∫{∞}Û∞n$∞n$a{≤æ}rén∞n","MS",424
+"washing and ironing","WV20B","324","O","N"," "," ","wﬁº∫Û±øÓ$∞n$a≤rén±øÓ","MS",425
+"washing and ironing","WV21A","325","O","N"," "," ","w∑´{r}Û∞n$∞n$aæ≤rén∞n","MS",426
+"washing and ironing","WV21B","326","O","N"," "," ","w∑{r}Û±øÓ$∞n$µærén±øÓ","MS",427
+"washing and ironing","WV22A","327","O","N"," "," ","ıw∑{¥}Û∞n$∞n$Âa±ø¥n∞n","MS",428
+"washing and ironing","WV22B","328","O","N"," "," ","w∑Ω∫Û±øÓ$∞n$µ¥n±øÓ","MS",429
+"washing and ironing","WV23A","331","O","N"," "," ","wﬁºÛ∞n$∞n$aæ≤¥n∞n","MS",430
+"washing and ironing","WV23B","332","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ¥n±øÓ","MS",431
+"washing and ironing","WV24A","335","O","N"," "," ","w∑{¥}Û±øÓ$∞n$a¥n±øÓ","MS",432
+"washing and ironing","WV24B","336","O","N"," "," ","wµÛ±øÓ$∞n$a≤¥n±øÓ","MS",433
+"washing and ironing","WV25A","337","O","N"," "," ","w∑∫{∞}Û∞n$∞n$aæ±øΩ¥n∞n","MS",434
+"washing and ironing","WV25B","338","O","N"," "," ","w∑∫Û∞n$∞n$µº{≤æ}¥n±øÓ","MS",435
+"washing and ironing","WV26A","339","O","N"," "," ","wﬁ∫Û±øÓ$∞n$µæ¥n±øÓ","MS",436
+"washing and ironing","WV26B","340","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µæ¥n±øÓ","MS",437
+"washing and ironing","WV27A","341","O","N"," "," ","w∑{¥}Û∞›n$∞n$µæ¥n±øÓ","MS",438
+"washing and ironing","WV27B","342","O","N"," "," ","w∑∫{∞é}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",439
+"wash and ironing","WV28A","343","O","N"," "," ","wµæ{∞´º}Û$∞n$µ{¥}n∞n","MS",440
+"washing and ironing","WV28B","344","O","N"," "," ","w∑∫Û±øÓ$∞n$a≤æ¥n±øÓ","MS",441
+"washing and ironing","WV29A","345","O","N"," "," ","wµæÛ∞n$∞n$µ∫¥n∞n","MS",442
+"washing and ironing","WV29B","346","O","N"," "," ","wµæÛ±øÓ$∞n$µ¥n±øÓ","MS",443
+"washing and ironing","WV30A","347","O","N"," "," ","wµæÛ∞n$∞n$µ¥n∞n","MS",444
+"washing and ironing","WV30B","348","O","N"," "," ","ıwﬁ∫Û±øÓ$∞n$Âﬁº¥n±øÓ","MS",445
+"washing and ironing","WV31A","349","O","N"," "," ","wﬁ{∞}Û∞n$∞n$ﬁ¥n∞›n","MS",446
+"washing and ironing","WV31B","350","O","N"," "," ","w∑{r}Û∞n$∞n$µ∫¥n∞n","MS",447
+"washing and ironing","WV32A","353","O","N"," "," ","wﬁºÛ∞n$∞n$ﬁ∫¥n∞n","MS",448
+"wash and ironing","WV32B","354","O","N"," "," ","wﬁ∫Û$∞n$ﬁ∫¥n∞n","MS",449
+"washing and ironing","WV33A","355","O","N"," "," ","wﬁÛ∞n$∞n$ﬁºrén∞n","MS",450
+"washing and ironing","WV33B","356","O","N"," "," ","wﬁºÛ±øÓ$∞n$aæ≤rn±øÓ","MS",451
+"washing and ironing","WV34A","359","O","N"," "," ","w∑Ω∫Û±øÓ$∞n$µæ¥n±øÓ","MS",452
+"washing and ironing","WV34B","360","O","N"," "," ","w∑{¥}Û∞n$∞n$µæ¥n∞n","MS",453
+"wash and ironing","WV35A","361","O","N"," "," ","wﬁº∫Û$∞n$µæ¥n∞n","MS",454
+"washing and ironing","WV35B","362","O","N"," "," ","ıw∑{¥}Û±øÓ$∞n$Âµæ¥n±øÓ","MS",455
+"washing and ironing","WV36A","363","O","N"," "," ","ıwµæ∫Û∞n$∞n$Âµ¥n±øÓ","MS",456
+"washing and ironing","WV36B","364","O","N"," "," ","w∑∫{¥}Û±øÓ$∞n$µæ¥n±øÓ","MS",457
+"washing","WV37A","365","N","N"," "," ","w∑¥Û∞n","MS",458
+"washing and ironing","WV37B!","366!","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$a∫≤¥n±øÓ","MS",459
+"washing and ironing","WV38A","367","O","N"," "," ","wﬁ∫Û±øÓ$∞n$µ¥n±øÓ","MS",460
+"washing and ironing","WV38B","368","O","N"," "," ","w∑¥Û∞n$∞n$µæ¥n∞n","MS",461
+"washing and ironing","WV39A","369","O","N"," "," ","w∑{¥}Û∞n$∞n$µæ∫¥n∞n","MS",462
+"washing and ironing","WV39B","370","O","N"," "," ","ıw∑Ω∫Û±øÓ$∞n$Âa±ø¥n±øÓ","MS",463
+"washing","WV39C!","371!","N","N"," "," ","w∑¥›Û±øÓ","MS",464
+"washing and ironing","WV40A","373","O","N"," "," ","wﬁ∫Û∞n$∞n$a∫{≤æ}¥n∞n","MS",465
+"washing and ironing","WV40B","374","O","N"," "," ","w∑¥Û∞n$∞n$µæ¥n∞n","MS",466
+"washing and ironing","WV41A","375","O","N"," "," ","w∑∫Û∞n$∞n$µærn∞n","MS",467
+"washing and ironing","WV41B","376","O","N"," "," ","w∑¥Û±øÓ$∞n$µæ¥n±øÓ","MS",468
+"washing and ironing","WV42A","377","O","N"," "," ","w∑¥Û±øÓ$∞n$µ¥n∞n","MS",469
+"washing and ironing","WV42B","378","O","N"," "," ","w∑{¥}Û∞n$∞n$µ¥n±øÓ","MS",470
+"washing and ironing","WV43A","381","O","N"," "," ","w∑∫{¥}Û∞n$∞n$µ¥n∞n","MS",471
+"washing and ironing","WV43B","382","O","N"," "," ","w∑{¥}Û∞n$∞n$µæ¥n∞n","MS",472
+"washing and ironing","WV44A","383","O","N"," "," ","ıw∑¥Û∞n$∞n$Âµæ¥n∞n","MS",473
+"washing and ironing","WV44B","384","O","N"," "," ","w∑∫Û±øÓ$∞n$µæ¥n∞n","MS",474
+"washing and ironing","WV45A","385","O","N"," "," ","w∑∫Û±øÓ$∞n$µæ¥n±øÓ","MS",475
+"washing and ironing","WV45B","386","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µº±øΩ¥n±øÓ","MS",476
+"washing and ironing","WV46A","387","O","N"," "," ","w∑´rÛ∞n$∞n$µrn±øÓ","MS",477
+"washing and ironing","WV46B","388","O","N"," "," ","w∑¥Û±øÓ$∞n$µæ¥n±øÓ","MS",478
+"washing and ironing","WV47A","389","O","N"," "," ","w∑¥Û∞n$∞n$µ¥n∞n","MS",479
+"washing and ironing","WV47B","390","O","N"," "," ","w∑¥Û∞n$∞n$µæ¥n∞n","MS",480
+"washing and ironing","WV48A","391","O","N"," "," ","w∑¥Û±øÓ$∞n$µ¥n±øÓ","MS",481
+"washing and ironing","WV48B","391b","O","N"," "," ","ıw∑¥Û∞n$∞n$Âµ¥n∞n","MS",482
+"washing and ironing","WV48C","392","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$µ¥n±øÓ","MS",483
+"washing and ironing","WV48D","392b","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ¥n±øÓ","MS",484
+"washing and ironing","WV49A","393","O","N"," "," ","w∑´∫{∞}Û±øÓ$∞n$a≤∞n∞n","MS",485
+"washing and ironing","WV49B","394","O","N"," "," ","w∑´∫{∞}Û±øÓ$∞n$µ¥n±øÓ","MS",486
+"washing and ironing","WV50A","395","O","N"," "," ","w∑{∞}Û±øÓ$∞n$aæ±øΩ¥n±øÓ","MS",487
+"washing and ironing","WV50B","396","O","N"," "," ","w∑{∞}Û∞n$∞n$µ¥n∞n","MS",488
+"washing and ironing","WV51A","261","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µ¥n±øÓ","MS",489
+"washing and ironing","WV51B","262","O","N"," "," ","w∑´rÛ±øÓ$∞n$a±ørén±øÓ","MS",490
+"washing and ironing","WV52A","258","O","N"," "," ","w∑¥Û∞n$∞n$µ¥n±øÓ","MS",491
+"washing and ironing","WV52B","259","O","N"," "," ","w∑{¥}Û±øÓ$∞n$a≤´¥n±øÓ","MS",492
+"washing and ironing","WV52C!","260!","O","N"," "," ","w∑∫Û±øÓ$∞n$a±øΩ¥n±øÓ","MS",493
+"washing and ironing","WV53A","257","O","N"," "," ","w∑{¥}Û∞n$∞n$aæ±øΩ¥n∞n","MS",494
+"wash and ironing","WV53B","257b","O","N"," "," ","ıw∑∫Û$∞n$Âa±ø¥n∞n","MS",495
+"washing and ironing","WV53C!","257c!","O","N"," "," ","ıw∑´¥Û±øÓ$∞n$Âaæ±ø¥n±øÓ","MS",496
+"washing and ironing","WV54A","255","O","N"," "," ","w∑{∞}Û∞n$∞n$a±ø¥n±øÓ","MS",497
+"washing and ironing","WV54B","256","O","N"," "," ","w∑´∫{∞}Û∞n$∞n$µrn±øÓ","MS",498
+"washing and ironing","DE1A","11","O","N"," "," ","wµÛ±øÓ$∞n$µ´{±ø}¥n±øÓ","MS",499
+"washing and ironing","DE1B","12","O","N"," "," ","wµ{∞}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",500
+"washing and ironing","DE1C!","13!","O","N"," "," ","wµÛ±øÓ$∞n$µº{≤}¥n±øÓ","MS",501
+"washing and ironing","DE2A","15(*)","O","N"," "," ","wµ´æ{±ø}Û±øÓ$∞n$µ{±ø}¥én±øÓ","MS",502
+"washing and ironing","DE2B","16","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$a{≤}¥n±øÓ","MS",503
+"washing and ironing","DE2C"," ","O","N"," "," ","wµ´º{±ø´º}Û±øÓ$∞n$∂º¥n±øÓ"," ",504
+"washing and ironing","DE3A","18","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$µ{≤}¥n±øΩn","MS",505
+"washing and ironing","DE3B","19","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$∂∫¥n±øÓ","MS",506
+"washing and ironing","DE3C!","17!","O","N"," "," ","wµ{∞´º}Û±øÓ$∞n$aº{≤æ}¥n±øÓ","MS",507
+"washing and ironing","DE4","20","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$∂¥n±øÓ","MS",508
+"washing and ironing","DE5A","21","O","N"," "," ","w∑∫Û±øΩn$∞n$∂é´¥é∫n±øΩn","MS",509
+"washing and ironing","DE5B","22","O","N"," "," ","w∂´{∞}Û±øÓ$∞n$∂´¥n±øÓ","MS",510
+"washing and ironing","DE6A","23","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$∂¥n±øΩn","MS",511
+"washing and ironing","DE6B","24","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",512
+"washing and ironing","MD1A","27","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$µæ¥n±øÓ","MS",513
+"washing and ironing","MD1B","28","O","N"," "," ","w∑{¥}Û±øÓ$∞n$µæ¥n±øÓ","MS",514
+"washing and ironing","MD2A","31a","O","N"," "," ","ıwµ{±ø}Û±øΩn$∞n$Âﬁ∫¥n±øΩn","MS",515
+"washing and ironing","MD2B","32","O","N"," "," ","wµ{∞´º}Û±øÓ$∞n$ﬁ∫¥n±øÓ","MS",516
+"washing and ironing","MD3A","33","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$ﬁ∫¥n±øÓ","MS",517
+"washing and ironing","MD3B","34","O","N"," "," ","ıwµ{∞}Û±øÓ$∞n$Âﬁ∫¥n±øÓ","MS",518
+"washing and ironing","MD4A","35b","O","N"," "," ","w∂´{∞}Û±øÓ$∞n$µ±øΩ¥n±øÓ","MS",519
+"washing and ironing","MD4B","35","O","N"," "," ","w∂´∫{¥}Û±øΩÓ$∞n$∂∫¥n±øΩn","MS",520
+"washing and ironing","MD4C","36","O","N"," "," ","w∑Ω{±ø}Û±øΩn$∞n$∂´¥én±øΩn","MS",521
+"washing and ironing","MD5A","37","O","N"," "," ","w∂´∫Û±øÓ$∞n$ﬁ´∫¥n±øÓ","MS",522
+"washing and ironing","MD5B","38","O","N"," "," ","wﬁº{∞}Û±øÓ$∞n$µº≤¥n±øÓ","MS",523
+"washing and ironing","MD6A","39(*)","O","N"," "," ","wﬁº{∞}Û±øÓ$∞n$µº≤¥n±øÓ","MS",524
+"washing and ironing","MD6B","40","O","N"," "," ","wµÛ±øn$∞n$∂´¥n±øn","MS",525
+"washing and ironing","MD7A","41","O","N"," "," ","ıwµÛ±øΩÓ$∞n$Â∂´¥n±øΩn","MS",526
+"washing and ironing","MD7B","41b","O","N"," "," ","wµÛ±øΩn$∞n$µ≤¥n±øÓ","MS",527
+"washing and ironing","MD7C!","42!","O","N"," "," ","wµ{∞}Û±øÓ$∞n$∂´¥n±øÓ","MS",528
+"washing and ironing","MD8A","43","O","N"," "," ","wµº{±øΩ}Û±øΩn$∞n$∂´¥n±øΩn","MS",529
+"washing and ironing","MD8B","44","O","N"," "," ","wµÛ±øΩn$∞n$∂´¥n±øΩn","MS",530
+"washing and ironing","MD9N","N46","O","N"," "," ","wµÛ±øΩn$∞n$∂∫{∞}n±øΩn","MS",531
+"washing and ironing","MD9A","45","O","N"," "," ","ÂwµÛ±øΩn$∞n$ı∂´¥n±øΩn","MS",532
+"washing and ironing","MD9B","46","O","N"," "," ","wµ{∞´º}Û±øΩn$∞n$∂∫¥n±øΩn","MS",533
+"washing and ironing","MD10A","49","O","N"," "," ","wµ{∞}Û±øÓ$∞n$µ{≤}{∞é}n±øÓ","MS",534
+"wash and ironing","MD10B","50","O","N"," "," ","wﬁó∫¥Û$∞n$µ{≤æ}¥n±øÓ","MS",535
+"wash and ironing","MD11","51","O","N"," "," ","wµÛ$∞n$a∫{≤æ}{∞}n∞´n","MS",536
+"washing and ironing","MD12A","52","O","N"," "," ","wµ{∞}Û±øÓ$∞n$µ¥∫n±øÓ","MS",537
+"washing and ironing","MD12B","53","O","N"," "," ","wµÛ∞´n$∞n$µ¥n∞n","MS",538
+"washing and ironing","MD13B","55","O","N"," "," ","wµæ{∞}Û±øÓ$∞n$ﬁ∫¥n±øÓ","MS",540
+"washing and ironing","MD13C","56","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$ﬁ¥n±øÓ","MS",541
+"washing and ironing","MD13D!","57!","O","N"," "," ","wµæ{∞}Û±øÓ$∞n$µº{≤}{r}∞›n±øÓ","MS",542
+"washing and ironing","MD13E!","58!","O","N"," "," ","wµæÛ±øÓ$∞n$µ{≤æ}¥n±øÓ","MS",543
+"washing","MD13F!","59!","O","N"," "," ","wﬁ∫{∞}Û","MS",544
+"washing and ironing","MD13G"," ","O","N"," "," ","wµÛ±øÓ$∞n$µóæ∫∞én±øÓ"," ",545
+"washing and ironing","MD14","61(*)","O","N"," "," ","w∑∫{∞}Û±øÓ$∞n$ﬁº∫¥n±øÓ","MS",546
+"washing and ironing","MD15A","62","O","N"," "," ","wﬁ{∞}Û∞´n$∞n$µæ∫∞én∞´n","MS",547
+"washing and ironing","MD15B","63","O","N"," "," ","wﬁº{∞}Û±øÓ$∞n$ﬁ∫{∞é}n±øÓ","MS",548
+"washing and ironing","MD16","64","O","N"," "," ","w∂´º¥Û∞›n$∞n$aæ{≤æ}¥n∞n","MS",549
+"washing and ironing","MD17A","65","O","N"," "," ","wµ{∞}Û±øÓ$∞n$µ{≤}¥n±øÓ","MS",550
+"washing and ironing","MD17B","66","O","N"," "," ","w∑∫¥Û∞n$∞n$ﬁó¥n±øÓ","MS",551
+"washing and ironing","MD18A","67","O","N"," "," ","wﬁ{∞}Û±øΩÓ$∞n$ﬁ:{∞}n±øΩn","MS",552
+"washing and ironing","MD18B","68","O","N"," "," ","wµ{∞´º}Û±øΩn$∞n$aæ≤∞én±øΩÓ","MS",553
+"washing and ironing","MD19A","69","O","N"," "," ","wµÛ±øΩn$∞n$µº≤æ∞n±øΩn","MS",554
+"washing and ironing","MD19B","70","O","N"," "," ","ıwµ{∞}Û±øΩn$∞n$Âﬁ∫{r}∞›n±øΩn","MS",555
+"washing and ironing","MD20A","71","O","N"," "," ","wµÛ±øΩn$∞n$µ´º{±øΩ}{∞}n±øΩn","MS",556
+"washing and ironing","MD20B","72","O","N"," "," ","wµ{∞}Û±øΩn$∞n$µ{≤æ}{r}∞›n±øΩn","MS",557
+"washing and ironing","MD20C!","73!","O","N"," "," ","wµ∫{∞}Û±øΩn$∞n$aæ∫≤æn±øΩn","MS",558
+"washing and ironing","MD21A","75","O","N"," "," ","wµ{∞}Û±øΩn$∞n$a±ø∞n±øΩn","MS",559
+"washing and ironing","MD21B","76","O","N"," "," ","wµÛ±øΩn$∞n$µ{≤æ}∞›n±øΩn","MS",560
+"washing and ironing","MD22N","N77","O","N"," "," ","wµæÛ±øΩn$∞n$ﬁ:n±øn","MS",561
+"washing and ironing","MD22M","N78","O","N"," "," ","wµæÛ±øΩn$∞n$ﬁ∞én±øΩn","MS",562
+"washing and ironing","MD22A","77","O","N"," "," ","wµ´æ{±ø}Û±øΩn$∞n$µº{±øΩ}{¥}n±øΩn","MS",563
+"washing and ironing","MD22B","78","O","N"," "," ","wﬁ±øΩÛ±øΩn$∞n$ﬁ:{r}∞n±øΩn","MS",564
+"washing and ironing","MD22C!","79!","O","N"," "," ","wµÛ±øÓ$∞n$µº≤{r}∞›n±øÓ","MS",565
+"washing and ironing","MD23A","80b","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$Âµ{≤}{r}∞n±øΩn","MS",566
+"washing and ironing","MD23B","80a","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aº∫{∞}n±øΩn","MS",567
+"washing and ironing","MD23C","81","O","N"," "," ","wµ{∞}Û±øΩn$∞n$µ≤´∞én±øΩn","MS",568
+"washing and ironing","MD24","82","O","N"," "," ","wµæÛ±øΩn$∞n$aæ±ø{∞}n±øΩn","MS",569
+"washing and ironing","MD25","84","O","N"," "," ","w∑Ω¥Û±øÓ$∞n$ﬁ∫¥n±øÓ","MS",570
+"washing and ironing","MD26A","83","O","N"," "," ","w∑¥Û±øÓ$∞n$µ¥n±øÓ","MS",571
+"washing and ironing","MD26B","83A","O","N"," "," ","wµ{∞}Û±øÓ$∞n$µæ{≤}¥n±øÓ","MS",572
+"washing and ironing","MD27A","85","O","N"," "," ","w∂´∫{∞}Û±øn$∞n$µæ¥n∞n","MS",573
+"washing and ironing","MD27B","86","O","N"," "," ","w∑Ω{¥}Û±øÓ$∞n$aæ¥n±øÓ","MS",574
+"washing and ironing","DC1A","99","O","N"," "," ","wﬁÛ∞n$∞n$µ{≤æ}∞n∞n","MS",575
+"washing and ironing","DC1B!","100!","O","N"," "," ","wµÛ±øÓ$∞n$a≤{r}∞n±øÓ","MS",576
+"washing and ironing","VA1!","101!","O","N"," "," ","ıwµ´ºÛ±øÓ$∞n$Âaæ∫{≤æ}{∞}n±øÓ","MS",577
+"washing","VA2A","103","O","N"," "," ","wµ{±ø}Û±øÓ","MS",578
+"washing and ironing","VA2B","104","O","N"," "," ","ıwµ´Û±øΩn$∞n$Âµ∫{r}∞›n±øΩn","MS",579
+"washing and ironing","VA3A","105(*)","O","N"," "," ","w∑Ω{∞}Û∞´ºn$∞n$µ´æ¥n∞´ºn","MS",580
+"washing and ironing","VA3B","106","O","N"," "," ","wµÛ±øÓ$∞n$a´æ±ø¥n±øÓ","MS",581
+"washing and ironing","VA3C"," ","O","N"," "," ","w∑´∞éÛ∞n$∞›{n}$µ¥n∞n"," ",582
+"washing and ironing","VA4N","N109","O","N"," "," ","wµ´æÛ±øΩn$∞n$µ{±øΩ}{∞}n±øΩn","MS",583
+"washing and ironing","VA5A","107","O","N"," "," ","wµ´º{±øΩ}Û±øÓ$∞›n$aæ{≤æ}{∞}n±øΩn","MS",584
+"washing and ironing","VA5B","108","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",585
+"washing and ironing","VA6A","113","O","N"," "," ","wµæ{∞´}Û±øΩn$∞n$µº{≤æ}{∞}n±øΩn","MS",586
+"washing and ironing","VA6B","114","O","N"," "," ","wµ{∞}Û±øΩn$∞n$µ∫∞én±øΩn","MS",587
+"washing and ironing","VA7A","121","O","N"," "," ","wµ´º{∞´}Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",588
+"washing and ironing","VA7B","122","O","N"," "," ","wµ´ºÛ±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",589
+"washing and ironing","VA8A","123","O","N"," "," ","ıwµ´æ{∞}Û±øΩn$∞n$Âµº{≤æ}{∞}n±øΩn","MS",590
+"washing and ironing","VA8B","124","O","N"," "," ","wµº{±øΩ}Û±øΩn$∞n$a{≤}{∞}n±øΩn","MS",591
+"washing and ironing","VA8C!","125!","O","N"," "," ","wµ´ºÛ±øÓ$∞n$aæ{∞º}{∞}n±øÓ","MS",592
+"washing","VA9A","117","O","N"," "," ","wµ´{∞}Û±øΩn","MS",593
+"washing and ironing","VA9B!","118!","O","N"," "," ","ıwµ´ºÛ±øΩn$∞n$Âaæ∫{≤æ}{∞}n±øΩn","MS",594
+"washing and ironing","VA10A","127","O","N"," "," ","wµ´º{∞}Û±øΩn$∞n$aæ{∞º}{∞}n±øΩn","MS",595
+"washing and ironing","VA10B","128","O","N"," "," ","wµ´ºÛ±øÓ$∞n$a{∞º}{∞}n±øÓ","MS",596
+"washing and ironing","VA11A","129","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",597
+"washing and ironing","VA11B","130","O","N"," "," ","wµ´º∫{∞}Û±øΩn$∞n$µ´{∞}{r}∞›n±øΩn","MS",598
+"wash and iron","VA12N","N131","O","N"," "," ","wµ´{±ø}Û$∞n$µ{±øΩ}{∞}n","MS",599
+"washing and ironing","VA12A","131","O","N"," "," ","Âwµ´æÛ±øΩn$∞n$Âa{≤}{∞}n±øΩn","MS",600
+"washing and ironing","VA12B!","132!","O","N"," "," ","wµºÛ±øΩn$∞n$µº{≤æ}n±øΩn","MS",601
+"washing and ironing","VA13A","133","O","N"," "," ","wµ{∞}Û±øΩn$∞n$µº{≤æ}{∞é}n±øΩn","MS",602
+"washing and ironing","VA13B","134","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",603
+"washing and ironing","VA14A","135","O","N"," "," ","wµ{∞}Û±øΩn$∞n$µ{∞}n±øΩn","MS",604
+"washing and ironing","VA14B","136","O","N"," "," ","ıwµ´Û±øΩn$∞n$Âµ{≤}r∞›n","MS",605
+"washing and ironing","VA14C","137","O","N"," "," ","wµ´ºÛ±øΩn$∞n$µº{≤æ}∞n±øΩn","MS",606
+"wash and iron","VA15N","N139(*)","O","N"," "," ","wµÛ$∞n$aæ{≤}{∞}n","MS",607
+"washing and ironing","VA15A","139","O","N"," "," ","wµ´º{∞}Û±øΩn$∞n$µº{≤}∞n±øΩn","MS",608
+"washing and ironing","VA15B","140","O","N"," "," ","ÂwµÛ±øΩn$∞n$ıµº{≤æ}{∞}n±øΩn","MS",609
+"washing and ironing","VA16A","141","O","N"," "," ","wµ´ºÛ±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",610
+"washing and ironing","VA16B","142","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{∞æ}{∞}n±øΩn","MS",611
+"washing and ironing","VA17A","143","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{∞æ}{∞}n±øΩn","MS",612
+"washing and ironing","VA17B","144","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$µº{≤æ}{∞}n±øΩn","MS",613
+"washing and ironing","VA18","145","O","N"," "," ","ıwµ´Û±øΩn$∞n$Âµ{≤æ}{∞}n±øΩn","MS",614
+"washing and ironing","VA19A","146","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$ﬁ´º{r}∞n±øn","MS",615
+"the wash and iron","VA19B","147","O","N"," "," ","d±ø›´$wµ´º{∞´º}Û$∞n$µ´{±ø}{∞}n","MS",616
+"wash and ironing","VA19C!","148!","O","N"," "," ","wµ´{∞}Û$∞n$µ{≤æ}{∞}{r}∞›n±øΩn","MS",617
+"washing and ironing","VA20A","149","O","N"," "," ","Âwµ´æÛ±øΩn$∞n$Âa´æ{±ø}∞n±øΩn","MS",618
+"washing and ironing","VA20B","150(*)","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{∞º}{∞}n±øÓ","MS",619
+"washing and ironing","VA20C"," ","O","N"," "," ","wµ´Û±øΩn$∞n$µ{∞}{r}∞›n±øΩn"," ",620
+"wash and ironing","VA21N","N153","O","N"," "," ","wµ´{∞}Û$∞n$µ´{±ø}{∞}n±øΩn","MS",621
+"NR","VA21A","153"," ","N"," "," "," ","MS",622
+"washing and ironing","VA21B","154","O","N"," "," ","wµ´º{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",623
+"washing and ironing","VA22","155","O","N"," "," ","wa´æ{∞}Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",624
+"washing and ironing","VA23A","156","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$µæ{≤æ}{∞}n±øΩn","MS",625
+"washing and ironing","VA23B","157","O","N"," "," ","ıwµ´{∞}Û±øΩn$∞›n$Âµ{∞}n±øΩn","MS",626
+"washing and ironing","VA24","159","O","N"," "," ","wµ´{∞´º}Û±øÓ$∞n$aæ{∞æ}{∞}n±øÓ","MS",627
+"washing and ironing","VA25","160(*)","O","N"," "," ","w∑∫Û±øΩn$∞n$µæ¥n±øΩn","MS",628
+"washing and ironing","VA26A","161A","O","N"," "," ","wµ{∞º}Û±øΩn$∞n$µ{≤æ}{∞}n±øΩn","MS",629
+"washing and ironing","VA26B","161","O","N"," "," ","w∂´º{∞}Û±øΩn$∞n$µ¥n±øΩn","MS",630
+"washing and ironing","VA26C","162","O","N"," "," ","ıwµ´{∞}Û±øÓ$∞n$Âµ{∞}{∞éº}n±øÓ","MS",631
+"washing and ironing","VA27","163(*)","O","N"," "," ","ıwµ´º∫{∞}Û±øΩn$∞›n$Âµ´æ∫{∞}¥n±øΩn","MS",632
+"wash and ironing","VA28A","164","O","N"," "," ","wµ´Û$∞n$µæ{∞}{r}∞›n±øn","MS",633
+"washing and ironing","VA28B","165","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øÓ","MS",634
+"washing and ironing","VA29","166","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",635
+"washing and ironing","VA30A","167","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$µº{≤æ}∞n±øΩn","MS",636
+"washing and ironing","VA30B!","167a!","O","Y"," ","AUX","wµº{∞}Û±øÓ$∞n$aæ{≤æ}{∞}n±øÓ","MS",637
+"washing and ironing","VA30C!","168!","O","N"," "," ","wµ´ºÛ±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",638
+"washing and ironing","VA30D!","169!","O","N"," "," ","wµÛ±øÓ$∞n$µº{≤æ}{r}∞›n±øÓ","MS",639
+"washing and ironing","VA30E!","170!","O","N"," "," ","wµ´{∞æ}Û±øΩn$∞n$aæ{≤}{∞}n±øÓ","MS",640
+"washing and ironing","VA31A","171(*)(**)","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{∞}{r}∞›n±øΩn","MS",641
+"wash and ironing","VA31B","172","O","N"," "," ","wµ´{∞}Û$∞n$aæ{≤æ}{∞}n±øΩn","MS",642
+"washing and ironing","VA31C"," ","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{∞º}n±øΩn"," ",643
+"washing and ironing","VA32!","175!","O","N"," "," ","wµ´{∞}Û±øn$∞n$•Ωº±ø∞n±øΩn","MS",644
+"washing and ironing","VA33A","173","O","N"," "," ","Âwµ´{∞}Û±øΩn$∞n$Âaæ{≤}{r}∞›n±øΩn","MS",645
+"washing and ironing","VA33B","174","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{∞º}{r}∞›n±øΩn","MS",646
+"washing and ironing","VA34A","177(*)","O","N"," "," ","wµ´æÛ±øΩn$∞n$aæ{≤îæ}{∞}n±øΩn","MS",647
+"washing and ironing","VA34B","178","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{≤æ}{r}{∞}n±øΩn","MS",648
+"washing and ironing","VA35A","179","O","N"," "," ","wµ´{∞´º}Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",649
+"washing and ironing","VA35B","180","O","N"," "," ","wµ´{∞}Û$∞n$aæ{∞}{r}∞›n","MS",650
+"washing and ironing","VA36A","181","O","N"," "," ","wµÛ±øÓ$∞n$a±ø∞n±øÓ","MS",651
+"washing and ironing","VA36B","182","O","N"," "," ","wµ´Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",652
+"washing and ironing","VA37","183","O","N"," "," ","wµ´Û±øΩn$∞n$aæ{∞º}{∞}n±øΩn","MS",653
+"washing and ironing","VA38","185","O","N"," "," ","wµ{∞}Û±øn$∞n$aæ{≤æ}{∞}n±øΩn","MS",654
+"wash","VA39!","186!","V","N"," "," ","wµ´º{∞}Û","MS",655
+"washing and ironing","VA40A","187","O","N"," "," ","ı‚µ{∞}Û±øΩn$∞n$Âµ{≤æ}{¥}n±øΩn","MS",656
+"washing and ironing","VA40B","188","O","N"," "," ","ıwµ´æ{∞}Û±øΩn$∞n$Â•Ωº±ø{∞}n±øΩn","MS",657
+"washing and ironing","VA41A","191","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ{≤æ}∞n±øΩn","MS",658
+"washing and ironing","VA41B","192","O","N"," "," ","wµ´æÛ±øΩn$∞n$aæ{≤}∞›n±øΩn","MS",659
+"washing and ironing","VA42A","193(*)(**)","O","N"," "," ","wµ´æÛ±øΩn$∞›n$aæ{≤æ}{∞}n±øΩn","MS",660
+"weeks washing and ironing","VA42B","194","O","N"," "," ","wiΩjks$wﬁºÛ±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",661
+"washing and ironing","VA43N","N195","O","N"," "," ","wµ´æÛ$∞n$a´æ{±ø}{∞}n","MS",662
+"washing and ironing","VA43A","195","O","N"," "," ","wµ´º{∞}Û±øΩn$∞n$a´æ{±ø}{∞}n±øΩn","MS",663
+"washing and ironing","VA43B","196","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",664
+"washing and ironing","VA44A","199","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$µº∫{≤æ}{∞}n±øΩn","MS",665
+"washing and ironing","VA44B","200","O","N"," "," ","wµÛ±øΩn$∞n$a{∞º}{∞}n±øΩn","MS",666
+"washing and ironing","VA45A","201","O","N"," "," ","wµ{∞}Û±øΩn$∞n$a{≤æ}{∞}n±øΩn","MS",667
+"washing and ironing","VA45B","202","O","N"," "," ","wµ´æ{∞}Û±øÓ$∞n$µº{≤æ}{∞}n±øÓ","MS",668
+"washing and ironing","VA46N","N207","O","N"," "," ","wµ∫Û±øÓ$∞n$aæ∫{∞}n±øÓ","MS",669
+"washing","VA46A","207","V","Y"," ","AUX","wµæÛ±øΩn","MS",670
+"washing and ironing","VA46B!","208!","O","N"," "," ","wµºÛ±øÓ$∞n$a{≤æ}{∞}n±øÓ","MS",671
+"washing and ironing","VA47","211","O","N"," "," ","wµ´Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",672
+"washing and ironing","VA48A","213(*)","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$µº∫{≤æ}{∞}n±øΩn","MS",673
+"washing and ironing","VA48B","214","O","N"," "," ","wµ´Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",674
+"washing and ironing","VA49A","215","O","N"," "," ","wµæÛ±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",675
+"washing and ironing","VA49B","216","O","N"," "," ","wﬁ´º{∞}Û±øÓ$∞n$aæ{≤æ}{∞}n±øΩn","MS",676
+"washing and ironing","VA50A","217","O","N"," "," ","wµ´Û±øΩn$∞n$aæ{∞º}{∞}n±øΩn","MS",677
+"washing and ironing","VA50B","218","O","N"," "," ","wµ´æÛ±øΩn$∞n$aæ{∞º}{∞}n","MS",678
+"washing and ironing","VA51A","219","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ∫{∞º}n±øΩn","MS",679
+"NA","VA51B","220(*)"," ","N"," "," "," ","MS",680
+"washing and ironing","VA51C"," ","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{∞æ}{r}∞›n±øΩn"," ",681
+"washing and ironing","VA52A","224","O","N"," "," ","w∞∞éÛ±øÓ$∞n$µº{≤æ}¥n±øÓ","MS",682
+"washing and ironing","VA52B","225","O","N"," "," ","ıwµ´æ{∞}Û±øÓ$∞n$Âaæ{≤æ}¥n±øÓ","MS",683
+"washing and ironing","VA52C!","226!","O","N"," "," ","ıwµ{∞}Û±øÓ$∞n$Âµ{±øΩ}{¥}n±øÓ","MS",684
+"washing and ironing","VA53A","227","O","N"," "," ","ıw∂´Û±øΩn$∞n$Âµ∫¥n±øΩn","MS",685
+"washing and ironing","VA53B","228","O","N"," "," ","wµÛ±øΩn$∞n$µº{≤æ}{¥}n±øÓ","MS",686
+"washing and ironing","VA54A","229","O","N"," "," ","wﬁº{∞}Û±øΩn$∞n$µ´æ∫¥n±øΩn","MS",687
+"washing and ironing","VA54B","230","O","N"," "," ","ıw∂´º{±øΩ}Û±øÓ$∞n$Âµ∫{≤æ}∞én±øÓ","MS",688
+"washing and ironing","VA55A","233(*)","O","N"," "," ","ıwﬁº∫{∞}Û±øΩn$∞n$Âµ∫{≤æ}{¥}n±øΩn","MS",689
+"washing and ironing","VA55B","234(*)","O","N","Eastern influence"," ","wµÛ±øÓ$∞›n$aæ{≤æ}{¥}n±øÓ","MS",690
+"washing and ironing","VA56A","237","O","N"," "," ","w∑∞éÛ±øΩn$∞n$a≤¥n","MS",691
+"washing and ironing","VA56B","238","O","N"," "," ","ıw∑Ω∫Û±øÓ$∞n$Âa±øΩ¥n±øÓ","MS",692
+"washing and ironing","VA57A","239","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aæ{∞º}∞én±øΩn","MS",693
+"washing and ironing","VA57B","240","O","N"," "," ","w∂îº∞éÛ±øÓ$∞n$aæ{≤æ}∞én±øÓ","MS",694
+"washing and ironing","VA58","241(*)","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞›n$µº{≤æ}{∞}n±øΩn","MS",695
+"washing and ironing","VA59N","N241","O","N"," "," ","w∂´º{±øΩ}Û±øΩn$nñ$aæ{±øΩ}∞n±øΩn","MS",696
+"washing and ironing","VA59A","242","O","N"," "," ","wµ´æ∞Û±øΩn$∞n$µ∫{∞}n±øΩn","MS",697
+"washing and ironing","VA59B!","243!","O","N"," "," ","ıwµ´{∞}Û±øÓ$∞n$Âaæ{≤æ}{∞}n±øÓ","MS",698
+"washing and ironing","VA60","244(*)","O","N"," "," ","w∑Ω∞éÛ±øÓ$∞n$µ¥én±øÓ","MS",699
+"washing and ironing","VA61A","245(*)","O","N"," "," ","w∂´º∫{∞}Û∞´n$∞n$µ´∫rn∞´n","MS",700
+"washing and ironing","VA61B!","246!","O","N"," "," ","ıw∑Ω∫Û±øÓ$∞n$Âaæ{≤æ}{¥}n±øÓ","MS",701
+" ","VA61C"," "," "," "," "," "," "," ",702
+"washing and ironing","VA62A","247(*)","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$µ{≤æ}{∞}n±øΩn","MS",703
+"NR","VA62B","248"," ","N"," "," "," ","MS",704
+"washing and ironing","VA63A","251","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$µ´¥n∞´n","MS",705
+"washing and ironing","VA63B","252","O","N"," "," ","w∑Ω∫{∞é}Û±øÓ$∞n$µ¥n±øÓ","MS",706
+"washing and ironing","VA64A","255","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",707
+"washing and ironing","VA64B","256","O","N"," "," ","wµ´æ{∞}Û±øÓ$∞n$aæ∫{∞º}{∞}n±øÓ","MS",708
+"washing and ironing","VA65A","257","O","N"," "," ","w∑ΩrÛ∞n$∞n$µº{∞}rn∞n","MS",709
+"washing","VA65B","258","V","N"," "," ","w∑Ω∫{∞}Û∞n","MS",710
+"washing and ironing","VA65C!","259!","O","N"," "," ","wµ´Û±øÓ$∞n$aæ{∞æ}{∞}n±øÓ","MS",711
+"washing and ironing","VA66A","261","O","N"," "," ","wµ´æ{∞}Û±øn$∞n$aæ{∞º}{∞}n±øΩn","MS",712
+"washing and ironing","VA66B","262","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$a∫{∞º}{∞}n±øΩn","MS",713
+"washing and ironing","VA67A","267","O","N"," "," ","w∂º∫{∞}Û∞n$∞n$µæ{≤æ}{¥}n∞n","MS",714
+"washing and ironing","VA67B","268","O","N"," "," ","wﬁ´º{∞}Û±øÓ$∞n$Âµº{≤æ}∞n±øÓ","MS",715
+"washing and ironing","VA68A","269","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aæ{∞º}¥n±øΩn","MS",716
+"washing and ironing","VA68B","270","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$µ∫∞én±øΩn","MS",717
+"washing and ironing","VA69A","273","O","N"," "," ","wµæÛ±øn$∞n$aæ∫{∞º}{∞}n±øΩn","MS",718
+"washing and ironing","VA69B","274","O","N"," "," ","wµæ{±øΩ}Û±øÓ$∞n$aæ{∞º}{∞}n±øÓ","MS",719
+"washing","VA70A","275","V","N"," "," ","w∑∫Û±øÓ","MS",720
+"washing and ironing","VA70B","276","O","N"," "," ","ıw∑Ω∫Û∞n$∞n$Âµ{≤æ}¥n∞n","MS",721
+"washing and ironing","VA71A","285","O","N"," "," ","wµ´æ{∞}Û±øÓ$∞n$aæ{≤æ}¥n∞n","MS",722
+"washing and ironing","VA71B","286","O","N"," "," ","wµ´∫{∞}Û$∞n$a{≤æ}∞én∞n","MS",723
+"washing and ironing","VA72A","287","O","N"," "," ","w∑Ω∫{∞}Û∞´n$∞n$µ¥∫n∞n","MS",724
+"washing and ironing","VA72B","288","O","N"," "," ","w∑Ω∫{∞}Û∞n$∞n$µ¥∫nn","MS",725
+"washing and ironing","VA73","291","O","N"," "," ","w∑Ω∫{∞}Û±øÓ$∞n$µ{∞}¥n∞n","MS",726
+"washing and ironing","VA74A","293","O","N"," "," ","w∂ó´∫Û∞n$∞n$aæ∫{∞º}∞én∞n","MS",727
+"washing and ironing","VA74B!","294!","O","N"," "," ","Âwµ{∞}Û±øÓ$∞n$ıµº{∞}{∞é}n±øÓ","MS",728
+"washing and ironing","VA75A","297","O","N"," "," ","w∂´∫{∞}Û∞n$∞n$µº∫{∞}{¥}n∞n","MS",729
+"washing and ironing","VA75B","298","O","N"," "," ","w∂´∫{∞}Û±øÓ$∞n$µº{≤æ}¥n±øÓ","MS",730
+"wash and ironing","NC1","303","O","N"," "," ","‚óµ∫{∞}Û$∞n$µ´æ{∞}¥én±øΩn","MS",731
+"washing and ironing","NC2A","301","O","N"," "," ","wµ´Û±øΩÓ$∞n$µæ{∞}{r}n±øΩn","MS",732
+"washing and ironing","NC2B","304","O","N"," "," ","wµ∫{∞}Û±øΩn$∞n$µæ{∞}¥n±øΩn","MS",733
+"washing and ironing","NC3A","305","O","N"," "," ","ˆµÛ±øΩn$∞n$µæ∫¥n±øΩn","MS",734
+"washing and ironing","NC3B","306","O","N"," "," ","wµΩÛ±øΩn$∞n$aæ∫{∞º}n±øΩn","MS",735
+"washing and ironing","NC4A","307","O","N"," "," ","wµ´Û±øΩn$∞n$µæ{∞º}{∞}n±øΩn","MS",736
+"washing and ironing","NC4B","308","O","N"," "," ","ıwµ´æ{∞}Û±øΩn$∞n$Âa{∞º}{∞}n±øΩn","MS",737
+"washing and ironing","NC5A","309","O","N"," "," ","ˆµ∫Û±øΩn$∞n$µ∫{∞é}n±øΩn","MS",738
+"washing and ironing","NC5B","310","O","N"," "," ","wµ{∞}Û$∞n$aæ∫{≤æ}{∞é}n±øΩn","MS",739
+"washing and ironing","NC6!","311!","O","N"," "," ","wµ{∞}Û±øÓ$∞n$aæ{∞º}n±øÓ","MS",740
+"washing and ironing","NC7A","315(*)","O","N"," "," ","wµ´æ∫Û±øΩn$∞n$µ∫{∞}n±øΩn","MS",741
+"washing and ironing","NC7B","316","O","N"," "," ","wµ{∞}Û±øΩn$∞›n$aæ{≤æ}∞én±øΩn","MS",742
+"washing and ironing","NC8N","N317","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",743
+"washing and ironing","NC8A","317","O","N"," "," ","wµ´æÛ±øn$∞n$µ´æ¥n±øΩn","MS",744
+"washing and ironing","NC8B","318(*)","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",745
+"washing and ironing","NC9A","319","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$ﬁóº∫{∞é}n±øΩn","MS",746
+"washing and ironing","NC9B","320","O","N"," "," ","wﬁ´æ{∞}Û±øΩn$∞n$µóæ∫{∞é}n±øΩn","MS",747
+"washing and ironing","NC10A","321"," ","N"," "," ","wﬁº{∞}Û±øΩn$∞n$ﬁº∫{±øΩ}¥n±øΩn","MS",748
+"washing and ironing","NC10B","323","O","N"," "," ","wµ´æ∫{∞}Û±øΩn$∞n$µæ∫¥n±øΩn","MS",749
+"washing and ironing","NC10C","322","O","N"," "," ","wµÛ±øn$∞n$µ≤æ¥n±øÓ","MS",750
+"washing and ironing","NC11A","325","O","N"," "," ","ıwﬁ{∞}Û±øΩn$∞n$Âﬁ¥n±øΩn","MS",751
+"washing and ironing","NC11B","326","O","N"," "," ","wﬁ{∞}Û±øΩn$∞n$µ∫{≤æ}¥n±øΩn","MS",752
+"washing and ironing","NC12A","327(*)","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ∫{≤æ}¥n±øΩn","MS",753
+"washing and ironing","NC12B","328","O","N"," "," ","wµ´Û±øÓ$∞n$a{∞æ}{∞é}n±øΩn","MS",754
+"washing and ironing","NC13A","329","O","N"," "," ","ıwµ´æ{∞}Û±øn$∞n$Âµ∫¥n±øn","MS",755
+"washing and ironing","NC13B","330(*)","O","N"," "," ","ıwﬁ´º{∞}Û±øÓ$∞n$Âµ¥∫n±øÓ","MS",756
+"washing and ironing","NC14N","N331","O","N"," "," ","wµæÛ±øΩn$∞n$µ∫∞én±øΩn","MS",757
+"washing and ironing","NC14A","331","O","N"," "," ","wµ´æÛ±øΩn$∞n$µó∫∞én±øΩn","MS",758
+"washing and ironing","NC14B","332","O","N"," "," ","wµÛ±øÓ$∞n$aæ{≤æ}{∞é}n±øÓ","MS",759
+"washing and ironing","NC14C!","333!","O","N"," "," ","wµÛ±øΩn$∞n$aæ{≤}{r}∞n±øÓ","MS",760
+"washing and ironing","NC15A","335(*)","O","N"," "," ","w∂{∞}Û±øÓ$∞›n$ﬁóº∫∞én±øΩn","MS",761
+"washing and ironing","NC15B","336","O","N"," "," ","wﬁΩº{∞}Û±øΩn$∞n$aæ{∞æ}{∞é}n±øΩn","MS",762
+"washing and ironing","NC15C"," ","O","N"," "," ","wﬁ´º∫{∞}Û±øΩn$∞n$ﬁº∫r∞›n±øΩn"," ",763
+"washing and ironing","NC16A","339(*)","O","N"," "," ","wﬁ{∞}Û±øΩn$∞n$µæ∫∞én±øΩn","MS",764
+"washing and ironing","NC16B","340","O","N"," "," ","wﬁ´º{∞}Û±øn$∞n$µº{≤æ}¥n±øΩn","MS",765
+"washing and ironing","NC17A","337","O","N"," "," ","wﬁ∫{∞}Û±øΩn$∞n$ﬁó∫¥n±øΩn","MS",766
+"washing and ironing","NC17B","338","O","N"," "," ","wﬁ{∞}Û±øΩn$∞n$aæ{∞º}{∞é}n±øΩn","MS",767
+"washing and ironing","NC18A","341","O","N"," "," ","wﬁ{∞}Û±øΩn$∞n$µ´{±ø}∞én±øΩn","MS",768
+"washing and ironing","NC18B","342","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aæ{≤æ}∞n±øΩn","MS",769
+"washing and ironing","NC19A","343","O","N"," "," ","wﬁº∫{∞}Û±øΩn$∞n$µ¥∫n±øΩn","MS",770
+"washing and ironing","NC19B","344","O","N"," "," ","ıwﬁ∫{∞}Û±øn$∞n$Âµ{≤}{¥}n±øÓ","MS",771
+"washing and ironing","NC20A","345","O","N"," "," ","ıw∂´{∞}Û±øΩn$∞n$Âﬁ´º{≤æ}¥n±øΩn","MS",772
+"washing and ironing","NC20B","346a","O","N"," "," ","wµ´æÛ±øΩn$∞n$µ∫¥n±øΩn","MS",773
+"washing and ironing","NC20C","346b","O","N"," "," ","wﬁ´º{∞´º}Û±øΩn$∞n$ﬁó´º∫∞én±øΩn","MS",774
+"washing and ironing","NC21A","347","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$µæ∫¥n±øΩn","MS",775
+"washing and ironing","NC21B","348","O","N"," "," ","wﬁ∫{∞}Û±øΩn$∞n$µ∫¥n±øΩn","MS",776
+"washing and ironing","NC22A","349","O","N"," "," ","wµ∫Û±øΩn$∞n$µ{≤æ}{∞é}n±øΩn","MS",777
+"washing and ironing","NC22B","349b","O","N"," "," ","wµ{∞}Û±øÓ$∞n$aæ{≤}∞n±øÓ","MS",778
+"washing and ironing","NC23A","351a","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤}∞én±øΩn","MS",779
+"washing and ironing","NC23B","351b(*)","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$µ{≤}∞én±øÓ","MS",780
+"washing and ironing","NC23C!","351c!","O","N"," "," ","wµÛ±øΩn$∞›n$µº{≤æ}∞n±øΩn","MS",781
+"washing and ironing","NC23D!","351d!","O","N"," "," ","wﬁº{∞}Û±øΩn$∞n$µº{∞{≤}∞n±øÓ","MS",782
+"washing and ironing","NC24N","N352","O","N"," "," ","wµæ{∞}Û$∞n$µ{≤}∞n","MS",783
+"washing and ironing","NC24A","352a","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$aæ{≤}∞én±øΩn","MS",784
+"washing and ironing","NC24B","352b","O","N"," "," ","wﬁ{∞}Û±øΩn$∞›n$µ∫¥n±øΩn","MS",785
+"washing","NC25N","N353","V","N"," "," ","wµ{∞}Û±øΩn","MS",786
+"washing and ironing","NC25A","353","O","N"," "," ","wﬁ{∞}Û±øΩn$∞n$µ{≤}¥n±øΩn","MS",787
+"washing and ironing","NC25B","354","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$µ∫{∞é}n±øΩn","MS",788
+"washing and ironing","NC26A","355a","O","N"," "," ","wﬁ∫{∞}Û±øΩn$∞n$ﬁ:{∞}n±øΩn","MS",789
+"washing and ironing","NC26B","355b","O","N"," "," ","wﬁ{∞}Û±øΩn$∞n$aæ{≤æ}∞›n±øΩn","MS",790
+"washing","NC26C!","356!","O","N"," "," ","wﬁ´º{∞´}Û±øΩn","MS",791
+"washing and ironing","NC27A","357","O","N"," "," ","wﬁº{∞}Û±øΩn$∞n$aº∫{≤}¥n±øΩn","MS",792
+"washing and ironing","NC27B","358","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤}¥n±øΩn","MS",793
+"washing and ironing","NC28A","361","O","N"," "," ","Âwµ{∞}Û±øΩn$∞n$ıµæ¥n±øΩn","MS",794
+"washing and ironing","NC28B","361b","O","N"," "," ","wﬁó{∞}Û±øΩn$∞n$ﬁó∫¥n±øΩn","MS",795
+"washing and ironing","NC28C","362","O","N"," "," ","wµ{∞}Û±øΩn$∞n$µ{≤æ}¥n±øΩn","MS",796
+"washing and ironing","NC29A","363(*)","O","N"," "," ","wﬁ∫Û±øÓ$∞n$ﬁº∫∞én±øÓ","MS",797
+"washing and ironing","NC29B","364","O","N"," "," ","wµæ{∞}Û±øΩn$∞n$aæ{≤æ}¥n±øΩn","MS",798
+"washing and ironing","NC30A","365","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",799
+"washing and ironing","NC30B","366","O","N"," "," ","ıwµ´æ{∞}Û±øΩn$∞n$Âaæ{≤æ}{∞}n±øΩn","MS",800
+"washing and ironing","NC31A","367","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",801
+"washing and ironing","NC31B","368","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$a{∞º}{∞}n±øΩn","MS",802
+"washing and ironing","NC32A","369","O","N"," "," ","wµæ∫{∞}Û±øΩæn$∞n$µ´{∞é}n±øΩæn","MS",803
+"washing and ironing","NC32B!","370!","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",804
+"washing and ironing","NC33A","373","O","N"," "," ","w∂´º∫{∞}Û±øΩn$∞n$ﬁº∫¥n±øΩn","MS",805
+"washing and ironing","NC33B","374","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞é}n±øΩn","MS",806
+"washing and ironing","NC34A","375","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$∂∫¥n±øΩn","MS",807
+"washing and ironing","NC34B","376","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ∫{∞º}{∞é}n±øΩn","MS",808
+"washing and ironing","NC35A","377","O","N"," "," ","wµÛ±øΩn$∞n$µ∫{∞é}n±øΩn","MS",809
+"washing and ironing","NC35B","378","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ∫{∞æ}∞én±øΩn","MS",810
+"washing and ironing","NC36N","N381","O","N"," "," ","w∑Ω{∞}Û±øΩn$∞n$µ{≤}∞én±øΩn","MS",811
+"washing and ironing","NC36A","381","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$µ{≤æ}rn±øΩn","MS",812
+"washing and ironing","NC36B","382","O","N"," "," ","wﬁº{∞}Û±øΩn$∞n$µ∫¥n±øΩn","MS",813
+"washing and ironing","NC37A","383","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{∞º}{∞}n±øΩn","MS",814
+"washing and ironing","NC37B","384","O","N"," "," ","ıwµ´{∞}Û±øΩn$∞n$Âa{≤æ}{∞}n±øΩn","MS",815
+"washing and ironing","NC38N","N385","O","N"," "," ","wµ{∞}Û±øΩn$∞n$a{≤}∞n±øΩn","MS",816
+"washing and ironing","NC38A","385","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$µ∫{∞}n±øΩn","MS",817
+"washing and ironing","NC38B","386","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$a{∞º}∞n±øΩn","MS",818
+"washing and ironing","NC39A","389","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",819
+"washing and ironing","NC39B!","390!","O","N"," "," ","wµ´Û±øΩn$∞›n$a{∞º}{r}∞›n±øÓ","MS",820
+"washing and ironing","NC40A","391","O","N"," "," ","wµæ∫Û±øΩæn$∞n$aæ∫{≤æ}n±øΩæn","MS",821
+"washing and ironing","NC40B","392","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$µº{≤æ}∞én±øΩn","MS",822
+"washing and ironing","NC41!","393!","O","N"," "," ","wµÛ±øÓ$∞n$aæ∫{≤æ}∞n±øÓ","MS",823
+"washing and ironing","NC42A","403","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ{≤æ}{∞é}n±øΩn","MS",824
+"washing and ironing","NC42B","404(*)","O","N"," "," ","wµ∫{∞}Û±øÓ$∞›n$aæ∫{≤æ}{∞é}n±øÓ","MS",825
+"washing and ironing","NC43A","397","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$µ∫{∞}n±øΩn","MS",826
+"washing and ironing","NC43B","398","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",827
+"washing and ironing","NC44","410(*)","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ{≤æ}∞n±øΩn","MS",828
+"washing and ironing","NC45A","409(*)","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$µ∫{∞}n±øΩn","MS",829
+"washing and ironing","NC45B"," ","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn"," ",830
+"washing and ironing","NC46A","411","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤}∞én±øΩn","MS",831
+"washing and ironing","NC46B","412","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ∫{≤}{∞é}n±øΩn","MS",832
+"washing and ironing","NC46C!","412b!","O","N"," "," ","wµÛ±øÓ$∞n$aæ{≤æ}{r}∞›n±øÓ","MS",833
+"washing and ironing","NC47","413","O","N"," "," ","wµ∫Û±øΩn$∞n$µ¥n±øΩn","MS",834
+"washing and ironing","NC48","418","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$µæ∫¥n±øΩn","MS",835
+"washing and ironing","NC49","421","O","N"," "," ","w∂´{∞}Û±øÓ$∞n$µæ∫¥n±øÓ","MS",836
+"washing and ironing","NC50A","422","O","N"," "," ","w∂´∞éÛ±øΩn$∞n$aæ{≤æ}∞én±øΩn","MS",837
+"washing and ironing","NC50B!","423!","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ∫{∞º}{r}∞n±øΩn","MS",838
+"washing and ironing","NC51A","427","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$µæ∫∞én±øΩn","MS",839
+"washing and ironing","NC51B","428","O","N"," "," ","wµº{∞}Û±øΩn$∞n$µ∫¥n±øΩn","MS",840
+"washing and ironing","NC52N","N429","O","N"," "," ","ıwﬁó{∞}Û±øΩn$∞n$Âµº∫{≤æ}∞én±øΩn","MS",841
+"washing and ironing","NC52A","429","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$µº{≤æ}∞én±øΩn","MS",842
+"washing and ironing","NC52B","430","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ∫{≤æ}∞n±øΩn","MS",843
+"washing and ironing","NC53A","431","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}{∞é}n±øΩn","MS",844
+"washing and ironing","NC53B","432","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}∞én±øΩn","MS",845
+"washing and ironing","NC54A","433","O","N"," "," ","wµæÛ±øΩn$∞n$aæ∫{∞º}¥n±øΩn","MS",846
+"washing and ironing","NC54B","434","O","N"," "," ","wµ´{∞}Û±øΩn$∞n$aæ∫{≤æ}¥n±øΩn","MS",847
+"washing and ironing","NC55","435","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$µ∫∞én∞´n","MS",848
+"washing and ironing","NC56A","436","O","N"," "," ","w∂´º{∞}Û±ø´n$∞n$aæ{≤æ}∞én∞´n","MS",849
+"washing and ironing","NC56B!","437!","O","N"," "," ","wµ´æ{∞}Û±øÓ$∞n$aæ∫{≤æ}{∞}n±øÓ","MS",850
+"washing and ironing","NC57A","438a","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ{≤}∞én±øΩn","MS",851
+"washing and ironing","NC57B","438b","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ{≤æ}{r}∞›n±øΩn","MS",852
+"washing and ironing","NC58A","439","O","N"," "," ","w∂´º{∞}Û±øΩn$∞n$aæ{≤æ}{∞é}n±øΩn","MS",853
+"washing and ironing","NC58B","440","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞›n$µº{≤æ}¥n±øΩn","MS",854
+"washing and ironing","NC59","441(*)","O","N"," "," ","w∂{∞é}Û±øΩn$∞n$∂¥∫n±øΩn","MS",855
+"washing and ironing","NC60","442","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$aæ∫{≤æ}∞én±øΩn","MS",856
+"ironing","NC61A","443","O","N"," "," ","µ∫¥n±øΩn","MS",857
+"washing and ironing","NC61B","444","O","N"," "," ","w∂´º{∞}Û±øÓ$∞n$µ¥n±øÓ","MS",858
+"washing and ironing","NC62A","447","O","N"," "," ","w∑Ω{∞´º}Û±øn$∞n$µ´æ¥n±øΩn","MS",859
+"washing and ironing","NC62B","448","O","N"," "," ","w∑Ω∫∞Û±øΩn$∞n$µ´¥n±øΩn","MS",860
+"washing and ironing","NC63A","449","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$µ´æ¥n±øΩn","MS",861
+"wash and ironing","NC63B","450","O","N"," "," ","wµ{∞}Û$∞n$aæ{∞º}¥n±øΩn","MS",862
+"washing and ironing","NC64A","453","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$µº∫¥n±øΩn","MS",863
+"washing and ironing","NC64B","454","O","N"," "," ","w∂´∞éÛ±øΩn$∞n$a´æ∫¥n±øΩn","MS",864
+"washing and ironing","NC65A","461","O","N"," "," ","w∂´∫{∞}Û±øn$∞n$µ∫¥n±øΩn","MS",865
+"washing and ironing","NC65B","462","O","N"," "," ","wﬁº{∞}Û±øΩn$∞n$ﬁº¥n±øΩn","MS",866
+"washing and ironing","NC66A","465","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$aæ∫{¥}n±øΩn","MS",867
+"washing and ironing","NC66B","466","O","N"," "," ","wµ´æ{∞}Û±øΩn$∞n$aæ{≤æ}¥n±øÓ","MS",868
+"washing and ironing","NC67A","469","O","N"," "," ","w∂´{∞}Û$∞n$a´º∫∞én±øΩn","MS",869
+"washing and ironing","NC67B","470","O","N"," "," ","ıwﬁº{∞}Û±øΩn$∞n$Âµº∫{∞é}n±øΩn","MS",870
+"washing and ironing","NC68A","473","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$µ∫¥n±øΩn","MS",871
+"washing and ironing","NC68B","474","O","N"," "," ","w∂´{∞é}Û±øΩn$∞›n$µ∫¥n±øΩn","MS",872
+"washing and ironing","NC69A","477","O","N"," "," ","w∂´{∞é}Û±øΩn$∞n$µ´¥∫n±øΩn","MS",873
+"washing and ironing","NC69B","478","O","N"," "," ","ıwaº∫Û±øΩn$∞n$Âµ∫{¥}n±øΩn","MS",874
+"washing and ironing","NC70A","479","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$µ´æ¥n±øΩn","MS",875
+"washing and ironing","NC70B","480","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$aæ∫≤æ¥n±øΩn","MS",876
+"washing and ironing","NC71A","481","O","N"," "," ","w∂´º{∞}Û±øΩn$∞n$µ´æ¥∫n±øΩn","MS",877
+"washing and ironing","NC71B","482","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$µ{≤æ}¥n±øΩn","MS",878
+"washing and ironing","NC71C!","483!","O","N"," "," ","w∑{∞é}Û±øΩn$∞n$aæ{≤æ}{¥}n±øΩn","MS",879
+"washing and ironing","NC72A","487","O","N"," "," ","w∑∫{∞é}Û±øΩn$∞n$µ¥∫n±øn","MS",880
+"washing and ironing","NC72B","488","O","N"," "," ","ıw∂´∫{∞}Û±øΩn$∞n$Âaæ{≤æ}¥n±øΩn","MS",881
+"washing and ironing","NC73A","491","O","N"," "," ","w∑Ωº∫{∞}Û±øΩn$∞n$µ´æ∫¥n±øΩn","MS",882
+"washing and ironing","NC73B","492","O","N"," "," ","wµæÛ±øΩn$∞n$µ¥n±øΩn","MS",883
+"washing and ironing","NC74A","493","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$µ{¥}n±øΩn","MS",884
+"washing and ironing","NC74B","494","O","N"," "," ","w∑Ω∫{∞é}Û±øΩn$∞n$aæ{≤æ}¥n±øΩn","MS",885
+"washing and ironing","NC75A","495","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$a{±øΩ}¥n±øΩn","MS",886
+"washing and ironing","NC75B","496","O","N"," "," ","w∑Ω∫{∞}Û±øΩn$∞n$aæ{≤æ}¥n±øΩn","MS",887
+"washing and ironing","SC1A","203.1","O","N"," "," ","Âwµ´æ{∞}Û±øΩn$∞n$µ{∞º}∞én±øΩn","MS",888
+"washing and ironing","SC1B","203.2","O","N"," "," ","Âwﬁº{∞}Û±øÓ$∞n$µ{≤}∞én±øΩn","MS",889
+"NR","SC2A","204.1(*)"," ","N"," "," "," ","MS",890
+"washing and ironing","SC2B","204.2","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ∫{≤æ}∞én±øΩn","MS",891
+"washing and ironing","SC2C"," ","O","N"," "," ","wﬁº{∞}Û±øΩn$∞n$µ∫≥én±øΩn"," ",892
+"washing and ironing","SC3A","205.1","O","N"," "," ","Âwµ´æ∫Û±øΩn$∞n$µ´æ{∞}{r}n±øΩn","MS",893
+"washing and ironing","SC3B","205.2","O","N"," "," ","Âwﬁ{∞}Û±øºn$∞Ωn$µéæ∫¥n±ø›n","MS",894
+"washing and ironing","SC3C!","205.3!","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$Âµ´º∫j∞´n±øºn","MS",895
+"washdays","SC4A","206.1","N","N"," "," ","Âwµæ{∞}Ûıde∫∞z","MS",896
+"washday","SC4B","206.2","NO","N"," "," ","Âwµ∫{∞}Ûıde´∫","MS",897
+"ironing","SC4C","206.3","N","N"," "," ","µ´º∫¥nñ±øºn","MS",898
+"washing and irons","SC5A","207.1","O","N"," "," ","Âw∂{∞}Û±øΩn$∞Ωn$µº∫∞nz","MS",899
+"iron","SC5B","207.2","N","N"," "," ","µ´º∫j∞´n","MS",900
+"washing","SC5C","207.2A","N","N"," "," ","w∑{∞}Ûn","MS",901
+"washing","SC5D!","207.3!","O","N"," "," ","wµ{∞}Û±øºn","MS",902
+"wash","SC6N","N208","O","N"," "," ","wµæ{∞}Û","MS",903
+"washing and ironing","SC6A","208.1","O","N"," "," ","Âw∂{∞}Û±øΩn$∞n$µº±øΩ{¥é}n±øΩn","MS",904
+"washing and ironing","SC6B","208.2(*)","O","N"," "," ","w∂î{∞}Û±øºn$∞´n$Âµ∫∞én±øºn","MS",905
+"washing and ironing","SC6C!","208.3!","O","N"," "," ","Âw∂{∞}Û±øºn$∞´n$Âµº∫∞n±øºn","MS",906
+"wash the clothes","SC6D"," ","E","N"," "," ","wﬁÛdë±ø´º$ık`≈èo´º∫z"," ",907
+"washing","SC7N","N209","O","N"," ","CNV","w∂æ{∞}Û±øºn","MS",908
+"ironing","SC7A","209.1","O","N","""put them out¢"," ","µ´∫rnñn","MS",909
+"washing","SC7B","209.2","O","N"," "," ","wµ´æÛ±æÓ","MS",910
+"washerwoman","SC7C!","209.3!","N","N"," "," ","Âwµæ{∞}Û∞$wπºm∞´n","MS",911
+"washes and irons","SC7D!","209.4!","E","N"," "," ","Âwµæ{∞}Û±øΩz$nñ$Âµ´∫j∞´nz{zè}","MS",912
+"washing","SC8A","210.1","O","N","""Monday¢","CNV","wµæ{∞}Û±øºn","MS",913
+"face irons","SC8B","210.2","O","N"," "," ","Âfe´∫{∞}s$ıa´∫∞nz","MS",914
+"wash day","SC8C","210.3","O","N"," "," ","Âw∂î{∞}Ûıde´∫","MS",915
+"washing and ironing","SC9A","211.1","O","N"," "," ","Âwµæ{∞}Ûn$∞´n$µ´∫∞n±øºn","MS",916
+"washing and ironing","SC9B","211.2","O","N"," "," ","Âwµ{∞}Û±øºn$∞´n$Âµ∫∞n±æn","MS",917
+"washing","SC9C!","211.3!","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",918
+"washing and ironing","SC9D!","211.4!","O","N"," "," ","Âw∂ó{∞}Û±øºn$∞´n$Âµ´º∫∞n±øºn","MS",919
+"washing","SC10A","212.1","O","N"," "," ","Âwﬁ∫{∞}Û±æn","MS",920
+"washing and ironing","SC10B!","212.2!","O","N","""Negro streets¢"," ","Âw∂ó{∞}Û±øºn$∞´n$Âµæ∫±øΩ∞n±øºn","MS",921
+"wash","SC10C!","212.3!","N","N"," "," ","wﬁîæ{∞}Û","MS",922
+"washing and ironing","SC11N","N213","O","N"," "," ","Âw∂{∞}Û±øn$∞n$a´æ{±øΩ}{∞}n±øΩn","MS",923
+"washing","SC11M!","2n213!","V","N"," "," ","Âwﬁ´ºÛ±ºn","MS",924
+"washing and ironing","SC11A","213.1(*)","O","Y"," ","AUX","Âw∂Û±øÓ$∞n$a±ø∞n±øÓ","MS",925
+"washing","SC11B","213.11","V","N"," "," ","w∑ΩÛ±øºÓ","MS",926
+"washing and ironing","SC11C","213.2","O","N"," "," ","Âw∂Ûn$nñ$Âµ∫j∞›n±ø›n","MS",927
+"washing","SC11D","213.3","V","N"," "," ","ÂwﬁÛ±æÓ","MS",928
+"washing","SC11E","213.4","V","N"," ","CNV","wﬁÛ±øºn","MS",929
+"ironing","SC11F","213.5","VO","N"," "," ","µº∫¥ñn±øºÓ","MS",930
+"ironing","SC11G!","213.7!","V","N","""colored women¢"," ","Âa∫rnñ±øºÓ","MS",931
+"washing","SC11H!","213.8!","V","N"," "," ","wﬁÛ±øºÓ","MS",932
+"washing and ironing","SC11I!","213.9!","O","Y"," ","AUX","Âw∂î´ºÛ±øÓ$∞n$a´æ±ø∞n±øÓ","MS",933
+"washing","SC11J!","213.10!","V","N"," "," ","wﬁ´ºÛ±æÓ","MS",934
+"washing","SC12A","214.1","V","N","in the yard"," ","wµæ{∞}Û±øºn","MS",935
+"washing and ironing","SC12B","214.2","O","N"," "," ","Âw∂´ºÛ±øn$∞n$µ{≤æ}{∞}n±øΩn","MS",936
+"washing and ironing","SC13","213.6","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$ıµ´∫∞n±øºn","MS",937
+"washing and ironing","SC14A","215.1","O","N"," "," ","ÂwµæÛ±øÓ$∞n$Âa´æ±ø{∞}n±øÓ","MS",938
+"washing and ironing","SC14B","215.2","O","Y"," ","HRD","Âw∂{∞}Û±øºn$∞´n$Âµ∫j∞´n±øºn","MS",939
+"wash them and iron them","SC15A","216.1","E","N"," "," ","wﬁº{∞}Ûm$∞´n$Âµ´∫r∞Ωn∞´m","MS",940
+"washing","SC15B","216.2","V","N","""Monday¢"," ","Âwµæ{∞}Û±øºn","MS",941
+"washing and ironing","SC15C","216.3","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$Âµ´º∫∞n±øºn","MS",942
+"washes","SC16N","N217","N","N"," "," ","w∂{∞}Û±øºz","MS",943
+"washing and ironing","SC16","217.1","O","N"," "," ","Âwﬁ´º{∞}Û±øºn$∞n$Âµº∫∞n±ø›Ωn","MS",944
+"washing","SC17A","218.1","V","N"," "," ","Âwµæ{∞}Û±øºn","MS",945
+"washing and ironing","SC17B","218.2","O","N","""beating stick,¢ ""paddle¢"," ","Âwµæ∫{∞}Û±øºn$∞´n$Âµ∫j∞´n±øºn","MS",946
+"washing and ironing","SC17C","218.3","O","N"," "," ","Âw∂´{∞}Û±øºn$∞´n$Âµ∫j∞´n±øºn","MS",947
+"washing and ironing","SC17D","218.4","O","N"," "," ","Âwµ{∞}Û±øºn$∞n$Âµ∫∞n±øºn","MS",948
+"washing and ironing","SC18N","N219","O","N"," "," ","ÂwﬁºÛ±æÓ$nñ$µ´∫{∞}n±æn","MS",949
+"washing","SC18A","219.1","V","N"," "," ","Âw∂Û±æn","MS",950
+"NR","SC18B","219.2"," ","N"," "," "," ","MS",951
+"ironing","SC18C!","219.3(*)!","V","N"," "," ","Âµ´∫{±ø}n±ºÓ","MS",952
+"NR","SC18D!"," "," ","N"," "," "," "," ",953
+"wash and iron","SC19N","N220","O","N"," "," ","Âw∂îºÛ$nñ$•Ω±ø∞n","MS",954
+"washing and ironing","SC19A","220.1","O","N"," "," ","ÂwﬁÛ±æÓ$∞›n$Âµæ∫{j}∞›n±æÓ","MS",955
+"washing and ironing","SC20A","221.1","O","N"," "," ","Âwµæ{∞}Û±øºn$∞Ωn$Âµº∫¥n±øºn","MS",960
+"washing and ironing","SC20B","221.2","O","N"," "," ","Âwﬁº{∞}Û±øºn$∞´n$aæ∫¥n±øºn","MS",961
+"washing","SC20C","221.3","O","N"," "," ","wµæ{∞}Û±øºn","MS",962
+"washing","SC20D!","221.4!","N","N"," "," ","Âwµæ{∞}Û±øºn","MS",963
+"washing and ironing","SC21A","222.1","O","N"," "," ","Âwµ´æ{∞}Û±øΩn$∞n$aæ∫{≤æ}∞én±øΩn","MS",964
+"washing and ironing","SC21B","222.2","O","N"," "," ","Âwﬁº{∞}Û±øΩn$∞n$aæ∫{≤æ}∞én±øΩn","MS",965
+"washing and ironing","SC22N","N223","O","N"," "," ","Âwµ´{∞}Û±øΩn$∞n$µ´{≤æ}{∞}n±øΩn","MS",966
+"washing and ironing","SC22A","223.1","O","N"," "," ","Âwﬁº{∞}Û±øºn$∞´n$Âa´æ∫{∞}n±øºn","MS",967
+"washing and ironing","SC22B","223.2","O","N"," "," ","ÂwµÛ±øΩn$∞n$Âa{≤æ}{∞}n±øΩn","MS",968
+"ironing","SC22C!","223.3!","O","N"," "," ","µº∫{±ø}n±øºÓ","MS",969
+"washing","SC23A","224.1","O","N"," "," ","Âwµæ{∞}Ûn","MS",970
+"wash day","SC23B","224.2","O","Y","[{∞}]: doubtful","FDT","Âwµæ{∞}Û$ıde∫{∞}","MS",971
+"washing and ironing","SC23C","224.3","O","N"," "," ","Âwﬁ{∞}Û±øºn$∞´n$Âµ´º∫∞›n±øºn","MS",972
+"washing and ironing","SC23D","224.4","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$Âaæ∫{∞}n±ø›n","MS",973
+"washing and ironing","SC23E!","224.5!","O","N"," "," ","Âwµæ{∞}Û±øºÓ$∞´n$Âaæj∞n±øºÓ","MS",974
+"NR","SC24N","N225"," ","N"," "," "," ","MS",975
+"wash day","SC24A","225.1","O","N"," "," ","Âw∑{∞}Û$ıde∫","MS",976
+"washed and ironed","SC24B","225.11","E","N"," "," ","Âw∂{∞}Ût$nñ$ıµº∫¥nñd","MS",977
+"wash board","SC24C","225.2","O","N"," "," ","Âwµ{∞}Û$ıbo´º{∞óº}d","MS",978
+"ironing room","SC24D!","225.3!","O","N"," "," ","a´æ∫{∞}n±øºn$ıráπø´{∞}m","MS",979
+"washing and ironing","SC25A","226.1","O","N"," "," ","Âwµ´æ{∞´º}Û±øΩn$∞n$µæ∫{≤æ}{∞}n±øΩn","MS",980
+"washing","SC25B","226.2","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",981
+"wash","SC25C!","226.3!","O","N"," "," ","wµ∫{∞}Û","MS",982
+"washing and ironing","SC26A","227.1","O","N"," "," ","Âwﬁ´ºÛ±øºn$∞´n$Âaæ∫∞›n±øºn","MS",983
+"washing and ironing","SC26B!","227.2!","O","N"," "," ","Âwﬁ{∞}Û±øºn$∞Ωn$Âﬁº∫r∞´n±øºn","MS",984
+"washing","SC27A","228.1","O","N"," "," ","Âwﬁ{∞}Û±øn","MS",985
+"washing and ironing","SC27B","228.2","O","N"," "," ","Âwµ´æ{∞}Û±øºn$∞´n$Âaæ∫|∞´n±øºn","MS",986
+"washing and ironing","SC28A","229.1","O","N"," "," ","Âwﬁ´º{∞}Û±øºn$∞Ωn$Âµ∫j∞´n±ºn","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"wash on Friday","SC28C","229.2","E","N"," "," ","Âwﬁ{∞}Û$ı∑∫{∞}n$Âfrèa´æ∫{∞}d±ø´º","MS",989
+"washing","SC28D","229.3","O","N"," "," ","wµæ{∞}Û±øºn","MS",990
+"washing and ironing","SC29B","230.1(*)","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$µº∫¥nñ±øºn","MS",992
+"washed","SC29A","230.2(*)","O","N"," "," ","w∂{¥}Ût","MS",991
+"washing","SC29C","230.3","O","N"," "," ","wµæ{∞}Û±øºn","MS",993
+"washing","SC29E"," ","O","N"," "," ","wﬁº{∞}Û±øºn"," ",995
+"washing and ironing","SC29D"," ","O","N"," "," ","ıwµæ{∞}Û±øºn$∞´n$Âaæ∫∞›n±øºn"," ",994
+"washing and ironing","SC30A","231.1","O","N"," "," ","ÂwµÛ±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",996
+"wash","SC30B","231.2","O","N"," "," ","wﬁÛ","MS",997
+"washing","SC30C!","231.3!","O","N"," "," ","ÂwµæÛ±æÓ","MS",998
+"washing and ironing","SC31A","232.1","O","N"," "," ","Âwµæ∫{∞}Û±øºn$∞Ωn$aæ∫∞›n±øºn","MS",999
+"wash","SC31B","232.2","O","N"," "," ","w∂ó{∞}Û","MS",1000
+"washing and ironing","SC32A","233.1","O","N"," "," ","Âwﬁ{∞}Û±øºÓ$∞Ωn$aæ∫¥nò›±øºn","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"washing and ironing","SC32C","233.3","O","N"," "," ","Âwﬁ{∞}Û±øºn$∞´n$Âa´æ∫{∞}n±øºn","MS",1003
+"washing","SC32D","233.4","O","N"," "," ","wﬁ{∞}Û±øºn","MS",1004
+"washing and ironing","SC33A","234.1","O","N"," "," ","Âwµ´æ{∞}Û±øΩn$∞n$µº{∞º}∞én±øΩn","MS",1005
+"washing and ironing","SC33B","234.2","O","N"," "," ","Âwﬁó{∞}Û±øºn$∞n$Âaæ∫∞én±øºÓ","MS",1006
+"washing and ironing","SC34A","235.1","O","N"," "," ","Âwﬁº{∞}Û±øºn$∞Ωn$Âa´æ∫¥n±øºn","MS",1007
+"washing and ironing","SC34B","235.2","O","N"," "," ","wµó{∞}Ûn$n$Âa´æ∫∞én±øºn","MS",1008
+"washing and ironing","SC34C","235.3","O","N"," "," ","Âwﬁº{∞}Û±øºn$∞´n$Âa´æ∫∞n±ø›n","MS",1009
+"washing iron","SC35A","236.1","O","N"," "," ","Âw∂∫¥Û±øºn$Âµæ∫¥n","MS",1010
+"wash day","SC35B","236.2","O","N"," "," ","Âw∂{∞}Ûıde∫±øº","MS",1011
+"washing","SC35C","236.3(*)","O","N"," "," ","Âw∑Ω{±ø}Û±øn","MS",1012
+"washing","SC35E!"," ","O","N"," "," ","Âwﬁº∫{∞}Ûn"," ",1014
+"washing","SC36A","237.1","O","N"," "," ","ÂwﬁÛ±æn","MS",1015
+"washing","SC36B","237.2","O","N"," "," ","Âwﬁ∫{∞}Û±æÓ","MS",1016
+"washing","SC36C","237.3","O","N"," "," ","w∂ó∫Û±øºn","MS",1017
+"NR","SC36D!","237.4!"," ","N"," "," "," ","MS",1018
+"washing and ironing","SC37","238","O","N"," "," ","w∑ΩÛ±øn$∞n$µº±øn±øn","MS",1019
+"washing and ironing","SC38N","N239","O","N"," "," ","wﬁÛ±øºn$n$Âa´æ∫{∞}nn","MS",1020
+"washing and ironing","SC38A","239.1","O","N"," "," ","Âwµó{∞}Û±æn$∞ºn$ıa´æ∫{∞}n±æn","MS",1021
+"washing","SC38B","239.2","O","N"," "," ","ÂwﬁÛ±ø›ºn","MS",1022
+"wash","SC38C!","239.3!","O","N"," ","CNV","wﬁÛ","MS",1023
+"washing","SC38D!","239.4(*)!","O","N"," "," ","ÂwﬁÛ±æn","MS",1024
+"NA","SC38E!"," "," ","N"," "," "," "," ",1025
+"washing and ironing","SC39A","240.1","O","N"," "," ","ÂwﬁÛ±æn$n$ıµº∫{∞}nn","MS",1026
+"washing","SC39B!","240.2!","O","N"," "," ","ÂwﬁÛ±æn","MS",1027
+"washing and ??? up","SC40A","241.1","O","N"," "," ","Âwﬁ´ºÛ±æn$n$Âr≤´dn$ı∏´p","MS",1028
+"washing","SC40B","241.2","O","N"," "," ","ÂwµæÛ±æn","MS",1029
+"washing and ironing","SC41A","242.1","O","N"," "," ","Âw∑Ω∫{∞é}Û±øΩn$∞n$aæ{≤´}{∞é}n±øΩn","MS",1030
+"washing and ironing","SC41B","242.2","O","N","(country)"," ","ÂwﬁÛ±›æn$≤æn$a´º∫{∞é}n±æn","MS",1031
+"washing and ironing","SC42N","N243","O","N"," "," ","Âw∂´ºÛ±æn$±Ωæn$Âa∫{∞}n±ø´ºn","MS",1032
+"wash","SC42M"," ","O","N"," ","CNV","wµæÛ"," ",1033
+"washing","SC42A","243.1","O","N"," ","CNV","Âwﬁ∫Û±øºn","MS",1034
+"washing and ironing","SC42B!","243.2!","O","N"," "," ","Âwﬁ´º∫{∞}Û±æn$±ø´ºn$aé´æ∫¥n±æn","MS",1035
+"washing","SC42C!","243.3!","O","N"," "," ","Âwµæ∫Û±øºn","MS",1036
+"wash women","SC42D!","243.4!","O","Y"," ","SUG","wµºÛ$wπΩºm∞n","MS",1037
+"washing and ironing","SC42E!","243.5!","O","N"," "," ","wµ∫{∞}Û±øºÓ$∞n$a´æ∫∞n±øºÓ","MS",1038
+"NA","SC43A","244.1"," ","N"," "," "," ","MS",1039
+"washing","SC43B","244.2","O","N"," "," ","ÂwﬁºÛn","MS",1040
+"washing","SC43C","244.3","O","N"," "," ","Âwﬁî∫Û±æn","MS",1041
+"washing and ironing","SC44A","245.1","O","N"," "," ","Âwµæ∫Û±æn$n$Âµé´¥n±æn","MS",1042
+"washing","SC44B","245.2","O","N"," "," ","Âwﬁ∫Û±æÓ","MS",1043
+"wash and iron","GA1N","N246","O","N"," "," ","Âwµæ{∞}Û$∞´n$Âaæ∞n","MS",1044
+"washing and the ironing","GA1A","246.1(*)","O","N"," "," ","wﬁÛ±æn$∞´n$d±ø´º$Âµºj∞´n±æn","MS",1045
+"washing","GA1B","246.11","O","N"," "," ","Âwµæ∫Û±øºn","MS",1046
+"washing and ironing","GA1C","246.2","O","N"," "," ","ÂwﬁÛ±æÓ$n$Âaæ∫∞n±æn","MS",1047
+"wash room","GA1D","246.3","O","N"," "," ","Âw∂î{∞}Û$rπø›m","MS",1048
+"wash them","GA1E","246.4","O","N"," "," ","Âw∂Û$‰m","MS",1049
+"washing and ironing","GA1F!","246.5!","O","N"," "," ","ıw∂îº{∞}Û±øÓ$∞n$Âµ´{±ø}{∞}n±øÓ","MS",1050
+"wash women","GA1G!","246.6!","O","N"," "," ","ÂwﬁÛ$ıwπ›ºm∞´n","MS",1051
+"washing","GA1H!","246.7!","O","N"," "," ","Âwﬁæ{∞}Û±æÓà","MS",1052
+"washing and ironing","GA2N","N247","O","N"," "," ","ÂwﬁºÛ±øºn$n$ıµº∫{∞}n±ø›{n}","MS",1053
+"washing and ironing","GA2A","247.1","O","N"," "," ","ÂwﬁÛ±æn$n$Âµéº∫¥|nñ|±æn","MS",1054
+"washing and ironing","GA2B","247.2","O","N"," "," ","ÂwﬁºÛ±æn$n$Âµ´º∫¥án±æn","MS",1055
+"washing and ironing","GA3A","248.1","O","N"," "," ","w∑Ω:Û±øΩn$∞n$Â•±ø∞n±øΩæn","MS",1056
+"washing and ironing","GA3B","248.2","O","N"," "," ","Âwµ{∞}Û±øºn$∞´n$Âµ´º∫¥n±øºn","MS",1057
+"wash and ironing","GA4N","N249","O","N"," "," ","w∂´º∫{∞}Û$∞n$•Ω±ø{∞}n±øΩn","MS",1058
+"washing","GA4A","249.1","O","N"," "," ","Âw∂∫{∞}Û±øºÓ","MS",1059
+"washing","GA4B","249.2","O","N"," "," ","w∂óÛ±øºn","MS",1060
+"washing","GA4C!","249.3!","O","N"," "," ","Âw∂Û±øºn","MS",1061
+"wash day","GA5A","250.1","O","N"," "," ","w∂ó´{∞ó}$de´∫","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"washing","GA5C","250.3","O","N"," "," ","wﬁóÛ±øºÓ","MS",1064
+"washing","GA5D!","250.4!","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",1065
+"washing and ironing","GA5E!","250.5!","O","N"," "," ","Âwﬁ{∞}Û±øΩn$∞n$Âﬁó∫{j}∞´n±øºn","MS",1066
+"washing and ironing","GA6A","251.1","O","N"," "," ","Âw∂ó{∞}Û±øºn$∞Ωn$Âµ:∞n±øºn","MS",1067
+"washing and ironing","GA6B!","251.2!","O","N"," "," ","Âw∂∫Û±øºn$∞Ωn$Âµ´∫{j}∞n±ø›n","MS",1068
+"washing","GA7","256","O","N"," "," ","Âwµæ∫{∞}Û±øºn","MS",1069
+"washing and ironing","GA8A","257.1","O","N"," "," ","Âw∂º{∞}Û±øºn$·Ω{∞}n$Âaéæ¥n±ø›n","MS",1070
+"washing and ironing","GA8B","257.2","O","N"," "," ","Âwﬁ∫∞Û±øºn$∞´n$Âµº∫¥n±øºn","MS",1071
+"washing","GA9A","257A.1","O","N"," "," ","wµæÛ±øºn","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"washing and ironing","GA10A","258.1","O","N"," "," ","ˆµ´æÛ±øn$∞n$Âa±øΩ∞én±øΩn","MS",1074
+"washing and ironing","GA10B","258.2","O","N"," "," ","Âwµæ{∞}Û±øºn$∞Ωn$Âµ∫¥n±øºn","MS",1075
+"washing","GA11N","N258A","O","N"," ","CNV","ÂwﬁºÛ±øºn","MS",1076
+"wash day","GA12A","259.1","O","N"," "," ","ÂwµæÛ$de∫{±ø}","MS",1077
+"washing","GA12B!","259.2(.3)","O","N"," "," ","w•Ûn","MS",1078
+"washing and ironing","GA13A","260.1","O","N"," "," ","Âw∑Ω∫Û±øΩn$∞n$•±ø∞n±øÓ","MS",1079
+"washwoman","GA13B!","260.2!","N","N"," "," ","ÂwµóÛ$wπ´ºm∞´n","MS",1080
+"wash","GA14A","261.1","O","N"," "," ","wﬁÛ","MS",1081
+"washing and ironing","GA14B","261.3","O","N"," "," ","ÂwﬁÛn$n$Âµ∫∞n±æn","MS",1082
+"washing and ironing","GA14C","261.2","O","N"," "," ","ÂwﬁÛ±æn$n$µ´º∫{∞}n±æn","MS",1083
+"washing and ironing","GA15A","262.1","O","N"," "," ","ÂwµæÛ±øΩn$∞n$µº{∞}n±øΩn","MS",1084
+"wash them","GA15B","262.2","O","N"," "," ","Âwµæ{∞}Û$t∞´m","MS",1085
+"washing and ironing","GA16A","263.2","O","N"," "," ","Âwﬁ{∞}Û±øºn$∞n$Âµ∫∞´n±øºn","MS",1086
+"washing","GA16B","263.1","O","N"," "," ","Âwﬁó{∞}Û±øºn","MS",1087
+"washing","GA16C","263.21","O","N"," "," ","ÂwµæÛ±øn","MS",1088
+"washwoman","GA16D!","263.3!","N","N"," "," ","Âwµæ{∞}Û$ıw¶ómπ´n","MS",1089
+"washing and ironing","GA17N","N264","O","N"," "," ","ÂwµæÛ±ø›n$∞n$Âa∫∞n±ø›n","MS",1090
+"washing and ironing","GA17","264","O","N"," "," ","ÂwﬁºÛn$n$Âa´∫∞n±øºn","MS",1091
+"washing","GA18A","264A.1","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",1092
+"washing","GA18B","264A.2","O","N"," "," ","Âwﬁ{∞}Û±Ó","MS",1093
+"washing and ironing","GA19A","265.1","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$a´æ∫r∞›n±øºn","MS",1094
+"irons","GA19B","265.2","O","N"," "," ","a´æ∫∞nz","MS",1095
+"washing and ironing","GA20A","266.1","O","N","generally the same day"," ","Âwµæ{∞}Û±øºn$∞´n$a´æ∫¥n±øºn","MS",1096
+"washing and irons","GA20B","266.2","O","N"," "," ","Âwﬁº{∞}Û±øºn$∞´n$Âµº∫r∞Ωnz","MS",1097
+"washing","GA21A","267.1","O","N"," "," ","ÂwµÛ±øºn","MS",1098
+"washed","GA21B","267.2","O","N"," "," ","Âw∂{∞}Ût","MS",1099
+"wash","GA22A","268A.1","O","N"," "," ","Âwµæ∫{∞}Û","MS",1100
+"washing and ironing","GA22B","268A.2","O","N"," "," ","Âwµæ{∞}Ûn$∞›´n$Âaæ∫∞n∞´n","MS",1101
+"washing and ironing","GA23A","268.1","O","N"," "," ","Âw∂{∞}Û±øºn$∞´n$µº∫∞n±øºn","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"washing","GA23C","268.2","O","N"," "," ","ÂwµæÛ±øºÓ","MS",1104
+"wash pots","GA23D!","268.3","O","N"," "," ","Âwµ{∞}Û$ıpµ∫{∞}ts","MS",1105
+"washing and ironing","GA23E!","268.4!","O","N"," "," ","ÂwµæÛ±øn$∞n$a´æ∫∞n±øÓ","MS",1106
+"washing","GA23F!","268.5!","O","N"," "," ","wﬁºÛ±øn","MS",1107
+"NR","GA24N","N269"," ","N"," "," "," ","MS",1108
+"washing and ironing","GA24A","269.1","O","N"," "," ","w∂îÛ±øΩn$∞n$µ{∞º}{∞é}n±øΩn","MS",1109
+"washing and ironing","GA24B","269.2","O","N"," "," ","Âwµæ{∞}Û±øºn$∞Ωn$aæ∫∞n±øºn","MS",1110
+"wash day","GA25N","N269A","O","N"," "," ","ÂwﬁÛ$ıd≤´","MS",1111
+"washing","GA26","270A","O","N"," "," ","wµæÛ±øn","MS",1112
+"ironing board","GA27!","270!","O","N"," "," ","Âa´æ∫∞›n±øºn$ıbo∫{π}d","MS",1113
+"washing","GA28","271a","O","N"," "," ","wµ{∞}Û±øºÓ","MS",1114
+"washing","GA29A","271.1","O","N"," "," ","Âwﬁó{∞}Û±øºn","MS",1115
+"washing","GA29B","271.2","O","N"," "," ","Âwﬁº{∞}Û±øºn","MS",1116
+"NR","GA30A","272.1(*)"," ","N"," "," "," ","MS",1117
+"wash day","GA30B","272.2(*)","O","N"," "," ","Âwµæ{∞}Û$de∫±øº","MS",1118
+"washing","GA30C!","272.3!","O","N"," "," ","wµæÛ±øºn","MS",1119
+"wash day","GA30D"," ","N","N"," "," ","wµæ{∞}Û$de´±øº"," ",1120
+"NA","GA30E"," "," ","N"," "," "," "," ",1121
+"NR","GA31","272A"," ","N"," "," "," ","MS",1122
+"washing","GA32","272B","O","N"," "," ","wµÛ±øn","MS",1123
+"washing","GA33A","272C1","O","N"," "," ","Âwﬁ{∞}Û±øºn","MS",1124
+"washing","GA33B","272C2","O","N"," "," ","wﬁºÛ±øn","MS",1125
+"washing","GA34N","N273","O","N"," "," ","Âwµº{∞}Û±øºn","MS",1126
+"washing and ironing","GA34A","273.1","O","N"," "," ","ÂwµÛ±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",1127
+"ironing day","GA34B","273.2","O","N"," "," ","Âµ´º∫∞n±øºn$ıde∫{±ø}","MS",1128
+"washing","GA35N","N273A","O","N"," "," ","Âwµ∫Û±øn","MS",1129
+"washing and ironing","GA36N","N274A","O","N"," "," ","wµÛ±øºn$∞´n$Âa´æ∫{∞}n±øn","MS",1130
+"washing","GA37N","2N274","O","N"," "," ","Âwµ´æ∫{∞}Û±øn","MS",1131
+"washing and ironing","GA37M!","NC274","O","N"," "," ","wµÛ±øÓ$∞n$Âaær∞n±øÓ","MS",1132
+"washing and ironing","GA37A","274.1","O","N"," "," ","Âwµæ{∞}Û±øºn$∞Ωn$Âaæ∫¥n±øºn","MS",1133
+"washing and ironing","GA37B","274.2","O","N"," "," ","Âwﬁ{∞}Û±æn$∞Ωn$Âa´æ∫∞n±øºn","MS",1134
+"wash","GA37C","274.21","O","N"," "," ","Âwµæ{∞}Û","MS",1135
+"washing and ironing","GA37D!","274.7!","O","N"," "," ","ıwµÛ±øn$n$Âa´æ∫∞n±øn","MS",1136
+"washing and ironing","GA37E!","274.8!","O","N"," "," ","wµæÛ±øºÓ$∞n$Âaær∞´n±ø´ºÓ","MS",1137
+"washwoman","GA37F!","274.3!","N","N"," "," ","Âwµº{∞}Û$ıwπºm∞´n","MS",1138
+"wash day","GA37G!","274.4!","O","N"," "," ","Âwﬁ{∞}Û$de∫±ø","MS",1139
+"washerwoman","GA37H!","274.5!","N","N","""did them up"""," ","ÂwµæÛ∞$wπº{∞}m∞´n","MS",1140
+"washing","GA37I!","274.6!","O","N"," ","CNV","wµæÛn","MS",1141
+"washing","GA38","275","O","N"," "," ","wµ´ºÛ±øn","MS",1142
+"washing","GA39","275A","O","N"," "," ","wµæÛ±øºn","MS",1143
+"washing","GA40","276A","O","N"," "," ","wµæÛ±øn","MS",1144
+"washed them","GA41","276B","O","N"," "," ","wµÛt$∞´m","MS",1145
+"washing and ironing","GA42A","276.1","O","N"," "," ","w∂{∞}Û±øºn$∞Ωn$µæ∫{¥}±øºn","MS",1146
+"washing and ironing","GA42B","276.2","O","N"," "," ","Âwµæ∫{∞}Û±øºn$∞Ωn$µ∫¥n±øºn","MS",1147
+"washing and ironing","GA43","277","O","N"," "," ","w∑Ωº{∞é}Û±øΩn$∞n$aæ∫{≤æ}¥n±øΩn","MS",1148
+"wash place","GA44A","278.1","O","N"," "," ","Âwﬁó{∞}Û$ıplèe´{±ø}s","MS",1149
+"washing","GA44B","278.2","O","N"," "," ","w∑Ω∫{∞}Û±øºn","MS",1150
+"washing","GA44C","278.3","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",1151
+"washing and ironing","GA44D","278.4","O","N"," "," ","ÂwﬁÛ±øºn$∞´n$Âaé´¥n±øºn","MS",1152
+"NR","GA44E","278.5"," ","N"," "," "," ","MS",1153
+"washing and ironing","FL1","252","O","N"," "," ","Âw∂î{∞}Û±øºn$∞Ωn$Âµ∫j∞´n±øºn","MS",1154
+"washing","FL2A","253.1","O","N","""by colored people"""," ","wµó´º{∞}Û±øºn","MS",1155
+"washing","FL2B","253.2","O","N"," "," ","ÂwµæÛ±øÓ","MS",1156
+"washing and ironing","FL2C!","253.3!","O","N"," "," ","w∂{∞}Û±øºn$∞´n$Âµ´∫j∞n±øºn","MS",1157
+"washing","FL3A","254.1","O","N"," "," ","w∂{∞}Û±øºn","MS",1158
+"washing and ironing","FL3B!","254.2!","O","N"," "," ","w∂Û±øºn$∞´n$Âµ´∫¥n±øºn","MS",1159
+"washing","FL4","254A","O","N"," "," ","wﬁº{∞}Û±øºn","MS",1160
+"washing and ironing","FL5A","255.1","O","N"," "," ","Âwﬁº{∞}Û±øºn$∞´n$Âa´æ∫{∞}n±øºn","MS",1161
+"ironing","FL5B","255.2","O","N"," "," ","Âµ´º∫∞n±øºn","MS",1162
+"washing and ironing","NY5A","409","O","N"," "," ","wµÛ±øÓ$∞n$µæ∫±øΩ∞n±øÓ","MS",12
+"washing","NY5E","413","N","N"," ","CNV","w∑Ωº∫Û±øÓ","MS",16
+"ironing","NY5F","414","N","N"," "," ","a´æ±øΩ∞n±øÓ","MS",17
+"ironing","NY5H!","416!","N","N"," "," ","aæ±øΩ∞n±øÓ","MS",19
+"ironing","NY7I","428","N","N"," "," ","a±ø¥n±øÓ","MS",31
+"wash and ironing","NY7J!","429!","O","N"," "," ","wµ´æ{∞}Û$∞n$a±ø∞n±øÓ","MS",32
+"ironing","NY7K!","430!","N","N"," "," ","a´æ±ø∞n±øÓ","MS",33
+"ironing","NY7L!","431!","N","N"," "," ","a´æ±ø∞n±øÓ","MS",34
+"washing and ironing","NY12A","439(*)","O","Y"," ","AUX","wµæ∫Û±øn$∞n$∏±ø´¥n±øÓ","MS",43
+"wash","NY12B","440","N","N"," "," ","wµÛ","MS",44
+"washing","NY12B","440","N","N"," "," ","wµÛ±øÓ","MS",44
+"ironing","NY13B!","444!","N","N"," "," ","a´æ±ø∞n±øÓ","MS",47
+"ironing","NY17A","451(*)","N","N"," "," ","•Ω±ø¥n±øn","MS",54
+"washing and ironing","NY17A","451(*)","O","Y"," ","AUX","wµÛ∞n$∞n$•Ω±ø¥n∞n","MS",54
+"wash and ironing","NY18A","453","O","N"," "," ","wµº∫Û$∞n$•Ω±ø¥n±øΩn","MS",56
+"wash and ironing","NY18C!","455!","O","N"," "," ","wµÛ$∞n$•±ø∞{’éà}n±øÓ","MS",58
+"ironing","NY23A","461","N","N"," "," ","a¥|nñ±øºn","MS",64
+"ironing","NY23C","462b","N","N"," ","CNV","µ∫±ø¥n±øºn","MS",66
+"wash and ironing","NY24B!","464!","O","N"," "," ","wµº∫Û$∞n$a´æ±ø¥n±øÓ","MS",68
+"ironing","NY25A","465","N","N"," "," ","•∫±ø¥n±øn","MS",69
+"ironing","NY26B","468","N","N"," "," ","µ´±ø¥n±æÓ","MS",72
+"ironing","NY26C","469","N","N"," "," ","µ´º∫¥n±øºÓ","MS",73
+"wash day","NY26C","469","O","Y","Monday","INA","ÂwµÛ$ıdeΩ±ø","MS",73
+"ironing","NY27B","471","N","N"," "," ","µ∫±ø¥n±øn","MS",75
+"washing machine","NY27B","471","O","Y"," ","INA","ÂwµÛm$m∞ıÛi∫n","MS",75
+"ironing","NY27C","472","N","N"," "," ","µ∫¥n±øºn","MS",76
+"goose","NY27C","472","N","Y","to press collars","INA","gπus","MS",76
+"ironing","NY28A","473a","N","N"," "," ","µ∫±ø›¥n±øºn","MS",77
+"ironing","NY28C"," ","N","N"," "," ","Âµ∫±ø¥n±øºÓ"," ",79
+"ironing","NY29A","474a","N","N"," "," ","µ∫±ø¥nñ±øºn","MS",80
+"flat iron","NY29A","474a","O","N"," "," ","ÂfÏè·t$ıµ∫±øΩ¥nñ","MS",80
+"ironing","NY29C","474c","N","N"," "," ","µ±ø¥nñ±øºn","MS",82
+"washing","NY30A","475a","N","N"," ","CNV","wµæÛ±øºn","MS",83
+"ironing","NY30B","475b","N","N"," "," ","Âµ´±ø|¥én±øºÓ","MS",84
+"ironing","NY30C","475c","N","N"," "," ","•∫±ø¥n±øºn","MS",85
+"ironing","NY30E","475e","N","N"," "," ","Âµ±øº¥n±øºn","MS",87
+"wash day","NY30E","475e","O","Y"," ","INA","ÂwﬁÛ$ıdeΩ±ø","MS",87
+"ironing","NY31A","478a","N","N"," "," ","•Ω±ø¥n±øºÓ","MS",88
+"ironing","NY31B","478b","N","N"," "," ","•Ω±ø¥n±øºn","MS",89
+"ironing","NY32A","479a","N","N"," "," ","•Ω±ø¥n±øÓ","MS",90
+"ironing","NY32B","479b","N","N"," "," ","•∫±ø¥n±øn","MS",91
+"ironing","NY33C","482","N","N"," "," ","µ´±ø¥n±øºn","MS",94
+"ironed","NY34A","483","V","N"," "," ","•Ωæ±ø{j}∞éænd","MS",95
+"ironing","NY34B","484","N","N"," "," ","µ´±ø¥n±øºn","MS",96
+"ironing","NY34C","485","N","N"," "," ","Â•±ø¥n±øºn","MS",97
+"ironing","NY34D!","486!","N","N"," "," ","•Ω±ø¥n±øºÓ","MS",98
+"ironing","NY40B","502","N","N"," "," ","a´æ±ø¥n±øÓ","MS",113
+"ironing","NY45A","513a","N","N"," "," ","µ´±ø¥n±øn","MS",122
+"wash","NY45C","513c","V","Y","to)","INA/CNV","wﬁóÛ","MS",124
+"wash day","NY45C","513c","O","Y"," ","INA","Âw∑ΩÛ$ıdeΩ±ø","MS",124
+"iron day","NY45C","513c","O","Y"," ","INA","Â•∫±ø¥n$ıdeΩ±ø","MS",124
+"ironing","NY45D!","513d!","N","N"," "," ","•Ω±ø¥n±øÓ","MS",125
+"ironing","NY46A","515a","N","N"," "," ","Âµ´¥´n±øºn","MS",126
+"ironing","NY46B","515b","N","N"," "," ","•Ω±´¥n±æn","MS",127
+"ironing","NY46C","515c","N","N"," "," ","aæ±ø¥n±øÓ","MS",128
+"ironing","NY47A","517(*)","N","N"," "," ","µ´±ø¥n±øºn","MS",129
+"washing and ironing","NY47A","517(*)","O","Y"," ","AUX","wµÛ±øÓ$∞n$a´æ±ø¥n±øÓ","MS",129
+"ironing","NY48A","519a","N","N"," "," ","•Ω±ø¥n±øn","MS",131
+"ironing","NY48B","519b","N","Y","[±øº]: doubtful","FDT","Â•Ω±ø¥n±øºÓ","MS",132
+"wash","NY48B","519b","V","Y","to)","INA","w∑Ω¥Û","MS",132
+"ironing","NY48C","519c","N","N"," "," ","Âµæ±ø{j}¥n±øºn","MS",133
+"ironing","NY48D","519d","N","N"," "," ","aæ±ø{j}¥n±øºn","MS",134
+"ironing","NY49A","520","N","N"," "," ","aæ±|∞n±øºn","MS",135
+"ironing","NY49C","522a","N","N"," "," ","a±ø¥n±øÓ","MS",137
+"ironing","NY49D","522b","N","N"," "," ","•±ø¥n±øn","MS",138
+"iron","NY50A","523","N","N"," "," ","•Ω±ø¥n","MS",139
+"wash","NY50A","523","N","N"," ","CNV","w∂´Û","MS",139
+"ironing","NY51B","525b","N","N"," "," ","aæ±ø¥n±øºn","MS",142
+"ironing","NY51C","525c","N","N"," "," ","µ´±ø∞én±øn","MS",143
+"ironing","NY51D","525d","N","N"," "," ","µ´±ø¥n±øn","MS",144
+"wash tub","NY51D","525d","O","Y"," ","INA/CNV","Âw•é¥Û$ıt∏ºb","MS",144
+"ironing","NY51E!","525e!","N","N"," "," ","µ´º±ø¥n±øºÓ","MS",145
+"iron","NY52A","527","N","N"," "," ","•Ωæ±ø{j}∞´n","MS",146
+"ironing","NY52B","528","N","N"," "," ","Â•Ω±ø¥n±øºn","MS",147
+"washboard","NY52B","528","N","Y"," ","INA","Âw∂Ûıboº∞d","MS",147
+"wash","NY52B","528","N","N"," "," ","Âw∑ΩÛ","MS",147
+"ironing","NY53A","529","N","N"," "," ","µ´±ø¥n±øn","MS",149
+"washing and ironing","NY53B!","530!","O","N"," "," ","Âw¿æÛ±øºn$∞´n$Âµ´±ø¥n±øºn","MS",150
+"iron","NY54A","531","N","N"," "," ","•±ø¥n","MS",151
+"ironing","NY54B","532","N","N"," "," ","•±ø¥n±øºÓ","MS",152
+"washing","NY54B","532","N","N"," ","CNV","wﬁºÛ±øºn","MS",152
+"ironing","NY55A","533","N","N"," "," ","•Ω±ø¥n±øºn","MS",153
+"ironing","NY55B","534","N","N"," "," ","µ´±ø¥n±øºÓ","MS",154
+"washing","NY55B","534","N","N"," ","CNV","w∂Û±øºÓ","MS",154
+"ironing","NY56A","535","N","Y","[•´∫]: doubtful","FDT","•´∫¥n±øn","MS",155
+"ironing","NY57A","537a","N","N"," "," ","•´±ø¥n±øÓ","MS",157
+"ironing","NY57A","537a","N","N"," "," ","•¥n±øÓ","MS",157
+"ironing","NY57B","537b","N","N"," "," ","Âµ±ø∞én±øÓ","MS",158
+"ironing","NY58A","539a","N","N","Tuesday"," ","µ∫±øΩ¥n±øºn","MS",160
+"washing","NY58A","539a","N","N","Monday"," ","w∂´ºÛ±øºn","MS",160
+"washing","NY58A","539a","N","N","Monday","CNV","wﬁ´ºÛ±øºn","MS",160
+"ironing","NY58B","539b","N","N"," "," ","µæ±ø∞´n±øºn","MS",161
+"washing and ironing","NY58C","539c","O","N"," "," ","Âw∂Û±øºn$∞´n$Âµ´±ø¥n±øºn","MS",162
+"washing","NY58C","539c","N","N"," "," ","w∂é¥Û±øºn","MS",162
+"ironing","NY58D!","539d!","N","N"," "," ","µ´±ø∞n±øºÓ","MS",163
+"ironing","NY58E!","539e!","N","N"," "," ","Âµ´±ø¥n±øºÓ","MS",164
+"ironing","NY58F!","539f!","N","N"," "," ","µº±ø∞´n±øºÓ","MS",165
+"iron","NY59A","543","N","N"," "," ","µ´±ø¥n","MS",166
+"wash","NY59A","543","N","N"," "," ","w∂´∞Û","MS",166
+"ironing","NY60A","545","N","N"," "," ","•Ω±ø¥n±øºÓ","MS",168
+"washing","NY60A","545","N","N"," "," ","w¿ΩæÛ±øºÓ","MS",168
+"ironing","NY60B!","546!","N","N"," "," ","µ´±ø´¥n±øºn","MS",169
+"ironing","NY61A","547","N","N"," "," ","µº∫±ø¥nñ±øºn","MS",170
+"ironing","NY62A","551a","N","N"," "," ","a±ø|¥n±ø›n","MS",172
+"ironing","NY62B","551b","N","N"," "," ","Âµ´º±ø¥n±øºÓ","MS",173
+"ironing","NY62C","551c","N","N"," "," ","•Ω±ø¥n±øºn","MS",174
+"ironing","NY63A","556a","N","N"," "," ","µ±øΩ¥n±øºn","MS",176
+"ironing","NY63B","556b","N","N"," "," ","Âµº±ø¥nñ±øºÓ","MS",177
+"flat iron","NY63B","556b","O","Y"," ","INA","Âflè·t$ı•±ø¥n","MS",177
+"ironing","NY63D!","556d!","N","N"," "," ","µ´±ø¥n±øºÓ","MS",179
+"washing","NY63D!","556d!","N","N"," "," ","Âw∂´Û±øºn","MS",179
+"wash","NY63D!","556d!","N","N"," "," ","wﬁóÛ","MS",179
+"flat irons","NY63D!","556d!","O","Y"," ","INA","Âfl·t$ıµ´∫±ø¥nz","MS",179
+"ironing day","NY64A","557a","O","Y"," ","INA","Âµ´±ø›¥én±ø›n$ıdeΩ{±ø}","MS",180
+"ironing","NY64B","557b","N","N"," "," ","Âµ∫¥n±øºÓ","MS",181
+"ironing","NY64C!","557c!","N","N"," "," ","µº±ø¥n±øºÓ","MS",182
+"ironing","NJ1A","1","N","N"," "," ","Â∂î´º¥∫n∞n","MS",183
+"washing and ironing","NJ2A","3(*)","O","Y"," ","AUX","wµº∫{∞}Û∞n$∞n$Âµæ¥n∞n","MS",185
+"wash and ironing","NJ18B","42","O","N"," "," ","wµ´æÛ$∞n$µº≤´∞én±øÓ","MS",221
+"washing and ironing","NJ19A","45","O","Y"," ","COR","wµæÛ±øÓ$∞n$a±ø∞én±øÓ","MS",224
+"was en strijk","NJ20A","47","O","Y","Dutch","INA/DDT","wµs$∞ºt$stÚa±øk","MS",226
+"washing and ironing","PA5A","65(*)","O","Y"," ","AUX","wﬁº{∞}Û∞n$∞n$µ´º±ø¥n∞n","MS",245
+"washing and ironing","PA11B","90(*)","O","N"," "," ","w∂{∞}Û∞n$∞n$a´æ±ø¥n∞n","MS",267
+"washing and ironing","PA12A","91","O","N"," "," ","w∑´º{¥}Û±øÓ$∞n$a±ø¥n±øÓ","MS",268
+"washing and ironing","PA29A","139(*)","O","N"," "," ","wµÛ±øÓ$∞n$a±øΩ¥n±øÓ","MS",305
+"washing and ironing","PA29A","139(*)","O","Y"," ","AUX","w∑º{¥}Û±øÓ$∞n$a±ø¥n±øn","MS",305
+"washing and ironing","PA56A","211(*)","O","N"," "," ","w∑ΩrÛ∞n$∞n$a±øΩrén±øΩÓ","MS",364
+"washing and ironing","PA66A","239","O","N"," "," ","w∑Ω∫Û∞n$∞n$a´æ±ø¥n∞n","MS",384
+"ironing","WV37A","365","N","N"," "," ","µæ¥n∞n","MS",458
+"ironing","WV39C!","371!","N","N"," "," ","a≤¥n±øÓ","MS",464
+"washing and ironing","MD5B","38","O","N"," "," ","wµæÛ±øΩn$∞n$∂º¥n±øΩn","MS",523
+"washing and ironing","MD5B","38","O","N"," "," ","wµÛ±øÓ$∞n$∂¥n±øΩn","MS",523
+"washing and ironing","MD13A","54(*)","O","N"," "," ","w∑∫{∞é}Û±øÓ$∞n$µ{≤}∞én∞n","MS",539
+"wash","MD13D!","57!","O","N"," "," ","wµº{∞}Û","MS",542
+"ironing","MD13F!","59!","O","N"," "," ","µ∫{≤æ}{∞}n±øÓ","MS",544
+"ironing","VA2A","103","O","N"," "," ","a{≤}{∞é}n±øÓ","MS",578
+"ironing","VA9A","117","O","N"," "," ","aæ∫{≤æ}{∞}n±øΩn","MS",593
+"washing and ironing","VA15N","N139(*)","O","N"," "," ","wµ´ºÛ±øn$∞n$aæ{±øΩ}{∞}n±øΩn","MS",607
+"wash","VA19C!","148!","O","N"," "," ","wµ´{∞}Û","MS",617
+"washing and ironing","VA21A","153","O","N"," "," ","ıwµ´º{∞}Û±øn$∞n$Âµ{≤º}{r}∞n±øΩn","MS",622
+"washing and ironing","VA25","160(*)","O","N"," "," ","ıwµÛ±øΩn$∞n$Âµæ¥n±øΩn","MS",628
+"washing and ironing","VA27","163(*)","O","N"," "," ","w∂´∫{∞}Û±øΩn$∞n$µæ{∞}¥n±øΩn","MS",632
+"washing and ironing","VA39!","186!","O","N"," "," ","wµ´º{∞}Û$∞n$µº{≤æ}{∞}n±øΩn","MS",655
+"washing","VA42A","193(*)(**)","V","Y"," ","AUX","wµ´{¥}Û±øΩn","MS",660
+"washing and ironing","VA42A","193(*)(**)","O","Y"," ","AUX2","wµ{∞}Û±øΩn$∞n$aæ∫{≤æ}{∞}n±øΩn","MS",660
+"ironing","VA42A","193(*)(**)","V","Y"," ","AUX","aæ{≤æ}{∞}n±øΩn","MS",660
+"ironing","VA46A","207","V","Y"," ","AUX","aæ∫{∞}n±øΩn","MS",670
+"washing and ironing","VA48A","213(*)","O","Y"," ","AUX","wµæ{∞}Û±øΩn$∞n$aæ{≤æ}{∞é}n±øΩn","MS",673
+"washing","VA53B","228","V","Y"," ","HRD","w∑´¥Û∞´n","MS",686
+"waschen and bu‡geln","VA55A","233(*)","O","Y","German","AUX","ıˆ≤Û$∞n$bèi∫g∞›lç","MS",689
+"washing and ironing","VA55A","233(*)","O","Y"," ","AUX","w∂Û±øΩn$∞n$µº{≤æ}{∞é}n±øΩn","MS",689
+"washing and ironing","VA55B","234(*)","O","N","natural"," ","w∑Ω∫Û±øÓ$∞›n$aæ{≤æ}{¥}n±øÓ","MS",690
+"washing and ironing","VA55B","234(*)","O","Y"," ","AUX","w∑∫{∞}Û±øÓ$∞n$aº{≤æ}{¥}n±øÓ","MS",690
+"washing","VA58","241(*)","V","Y"," ","AUX","wﬁ´ºÛ±øΩn","MS",695
+"ironing","VA58","241(*)","V","Y"," ","AUX","aæ∫{±øΩ}{∞}n±øΩn","MS",695
+"washing and ironing","VA62A","247(*)","O","N"," "," ","wﬁ´º{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",703
+"ironing","VA65B","258","O","N"," "," ","µº{∞}rn±øÓ","MS",710
+"washing","VA65B","258","V","Y"," ","SUG","w∑Ω{∞}rÛ∞n","MS",710
+"ironing","VA70A","275","V","N"," "," ","aæ∫{∞}rn±øÓ","MS",720
+"washing","VA70A","275","V","Y"," ","SUG/OLD","w∑{∞}rÛ±øÓ","MS",720
+"washing and ironing","NC8B","318(*)","O","Y"," ","AUX","wµ´æÛ±øΩn$∞n$µº{∞º}n±øΩn","MS",745
+"washing and ironing","NC12A","327(*)","O","Y"," ","AUX","wµÛ±øΩn$∞n$aæ{≤æ}{∞é}n±øΩn","MS",753
+"washing and ironing","NC13B","330(*)","O","Y"," ","AUX","wµ´æÛ±øÓ$∞n$aæ{≤æ}{∞}n±øΩn","MS",756
+"washing and ironing","NC16A","339(*)","O","Y"," ","AUX","wﬁ´º{∞}Û±øΩn$∞n$µóæ∫∞én±øΩn","MS",764
+"washing and ironing","NC23B","351b(*)","O","Y"," ","AUX","wµ´æ{∞}Û±øΩn$∞n$µ∫∞én±øΩn","MS",780
+"ironing","NC25N","N353","V","N"," "," ","ﬁº∫{∞}n±øΩn","MS",786
+"ironing","NC26C!","356!","O","N"," "," ","a∫{≤æ}{r}n±øÓ","MS",791
+"ironing","NC26C!","356!","O","N"," "," ","a∫{≤æ}{∞}n±øÓ","MS",791
+"washing and ironing","NC29A","363(*)","O","Y"," ","AUX","wµ´æÛ∞n$∞n$µ{∞é}n∞n","MS",797
+"washing and ironing","NC42B","404(*)","O","Y"," ","AUX","wµ{∞}Û±øΩn$∞n$µ∫¥n±øΩn","MS",825
+"washing and ironing","NC44","410(*)","O","N"," "," ","wµ{∞}Û±øΩn$∞n$aæ{≤æ}{∞}n±øΩn","MS",828
+"washing and ironing","NC49","421","O","N"," "," ","w∂´{∞}Û∞´n$∞n$µæ∫¥n∞´n","MS",836
+"washing","NC61A","443","O","N"," "," ","w∂´∫{∞}Û±øΩn","MS",857
+"wash","NC63B","450","O","Y","heard frequently","HRD","w∑Ω¥Û","MS",862
+"ironing","SC4A","206.1","O","N"," "," ","µ´∫j∞´n","MS",896
+"said smoothing irons","SC4B","206.2","O","N"," "," ","ıs·∫{∞}d$Âsmuø∫‰±øºn$ıµ´∫∞nz","MS",897
+"washing","SC4C","206.3","O","N"," "," ","wµ´{∞}Û±øºn","MS",898
+"washing","SC5B","207.2","O","N"," "," ","wµæ{∞}Û±øºÓ","MS",900
+"smoothing irons","SC5B","207.2","O","N"," "," ","smèuøºw˘±øºÓ$ıµ´∫j∞´nz{zè}","MS",900
+"wash the","SC5D!","207.3!","O","N"," "," ","Âw∂{∞}Û$ıde´","MS",902
+"ironing the","SC5D!","207.3!","O","N"," "," ","Âµ∫j∞´n±øºÓ$ıde∫","MS",902
+"iron","SC6N","N208","O","N"," "," ","µ´º∫r›∞´n","MS",903
+"iron","SC6D"," ","O","N"," "," ","µæ∫j∞´n"," ",907
+"ironing board","SC7N","N209","O","N"," ","CNV","Âµ∫±øn±øºÓ$ıboº∫{πº}d","MS",908
+"washing","SC7A","209.1","O","N"," "," ","wµºÛn","MS",909
+"ironed","SC8A","210.1","O","N"," "," ","ﬁ∫j∞´nd","MS",913
+"washin","SC8B","210.2","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",914
+"iron","SC8C","210.3","O","N"," "," ","aæ∫∞n","MS",915
+"ironing and washing","SC8C","210.3","O","N"," "," ","Âa´æ∫∞n±øº$nñ$Âw∂{∞}Û±øºn","MS",915
+"washing","SC8C","210.3","O","N"," "," ","Âwﬁ´º{∞}Û±øºn","MS",915
+"washing","SC9A","211.1","O","N"," "," ","wµæ{∞}Û±øºn","MS",916
+"washing","SC9B","211.2","O","N"," ","CNV","Âwµæ{∞}Û±øºn","MS",917
+"washing ???","SC9B","211.2","O","N"," ","CNV","Âw∂Û±øºn$ıpµ´∫od∞","MS",917
+"washer","SC9D!","211.4!","O","N"," "," ","Âw∂ó{∞}Û∞","MS",919
+"ironing","SC10A","212.1","O","N"," "," ","Âµæ∫j∞›n±æn","MS",920
+"wash the","SC10A","212.1","O","N"," "," ","ÂwµÛıde´∫","MS",920
+"smoothing iron","SC10B!","212.2!","O","N"," "," ","Âsmuø∫˘±øºn$ıµæ±ø∞´n","MS",921
+"washwomen","SC10C!","212.3!","N","N"," "," ","Âw∂óÛıwπºm∞´n","MS",922
+"ironing","SC11M!","2n213!","V","N"," "," ","Âaæ∫∞n±æÓ","MS",924
+"washing","SC11M!","2n213!","V","N"," "," ","ÂwﬁÛ±æÓ","MS",924
+"wash","SC11M!","2n213!","V","N"," "," ","ÂwﬁÛ","MS",924
+"washing","SC11A","213.1(*)","V","N"," "," ","Âwﬁó´Û±æÓ","MS",925
+"washing","SC11A","213.1(*)","V","N"," "," ","Âw∂ó´ºÛ±Ó","MS",925
+"ironing","SC11B","213.11","V","N"," "," ","•º±øn±øºÓ","MS",926
+"washerwomen","SC11D","213.3","N","N"," "," ","ÂwﬁÛ∞´ıwπºm∞´n","MS",928
+"washing","SC11E","213.4","V","N"," ","CNV","ÂwﬁóÛn","MS",929
+"washwomen","SC11E","213.4","N","N"," "," ","ÂwﬁÛwπºm∞´n","MS",929
+"washday","SC11F","213.5","N","N"," "," ","ÂwﬁÛıde´∫","MS",930
+"washing","SC11G!","213.7!","V","N"," "," ","Âw∂Û±æÓ","MS",931
+"ironing","SC11J!","213.10!","V","N"," "," ","Âa´æ∫j∞´n±æÓ","MS",934
+"iron","SC11J!","213.10!","V","N"," ","CNV","Âa´æ∫j∞n","MS",934
+"ironing","SC12A","214.1","V","N"," "," ","Âµæ∫{j}∞n±øºn","MS",935
+"washwomen","SC13","213.6","N","N"," "," ","Âwµæ{∞}Ûıwπóº{∞}m∞´n","MS",937
+"smoothing irons","SC14B","215.2","O","N"," "," ","Âsmuø∫‰±øºn$ıµ∫j∞´nz","MS",939
+"ironingboard","SC15B","216.2","N","N"," "," ","Âµ´º∫∞n±øºnıbo´∫∞›d","MS",941
+"ironing","SC15C","216.3","V","N"," ","CNV","Âµ´º∫¥∞Ωn±øºn","MS",942
+"smoothing iron","SC15C","216.3","O","N"," "," ","Âsmèuø∫‰±øºn$µ´∫∞n","MS",942
+"washtub","SC15C","216.3","N","N"," "," ","Âwﬁó´º{∞}Ûıt∏´º{∞}b","MS",942
+"ironing","SC16N","N217","V","N"," "," ","Âµæ∫jnn","MS",943
+"ironing","SC17A","218.1","V","N"," "," ","Âµº∫¥æn±øºn","MS",945
+"ironingboard","SC17B","218.2","N","N"," "," ","Âµ∫{j}∞Ωn±øºnıbo∫{π}d","MS",946
+"iron","SC17B","218.2","N","N"," "," ","µ∫∞n","MS",946
+"washing and ironing","SC17D","218.4","O","N"," "," ","Âwµ{∞}Û±øºn$∞n$Âµ∫j∞´n±øºn","MS",948
+"washing","SC18N","N219","V","N"," ","CNV","ÂwﬁºÛ±æn","MS",949
+"iron","SC18N","N219","N","N"," "," ","µ´∫{j}∞›n","MS",949
+"ironed in the kitchen","SC18A","219.1","S","N"," "," ","Âµ∫{j}∞Ωnd$±øºn$dë{‰ë}±øº$Âkà`±´tÛ±æn","MS",950
+"washing","SC18A","219.1","V","N"," "," ","Âw∂´Û±æn","MS",950
+"washing","SC18B","219.2","V","N"," "," ","ÂwﬁÛ±æÓ","MS",951
+"ironing","SC18B","219.2","V","N"," "," ","µ´∫¥n±æÓ","MS",951
+"washing","SC18C!","219.3(*)!","V","N"," "," ","ÂwﬁÛ±æn","MS",952
+"wash","SC18C!","219.3(*)!","V","N"," "," ","wﬁÛ","MS",952
+"washing","SC20B","221.2","O","N"," "," ","Âaæ∫¥nı±øºn","MS",961
+"irons","SC20C","221.3","O","N"," "," ","Âaæ∫¥nñz","MS",962
+"washing","SC22C!","223.3!","O","N"," "," ","Âwﬁ{∞}Û±øºÓ","MS",969
+"ironing","SC23A","224.1","O","N"," "," ","Âµær∞›n±øºn","MS",970
+"wash day","SC23A","224.1","O","N"," "," ","Âwµæ∫{∞}Û$ıde∫{±ø˛}","MS",970
+"wash and iron","SC23B","224.2","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$Âµº∫¥n±øºn","MS",971
+"wash day","SC23D","224.4","O","N"," "," ","Âwµæ{∞}Û$de∫{∞}","MS",973
+"wash days","SC24A","225.1","O","N"," ","CNV","Âw∑Ω{∞}Û$ıde∫z","MS",976
+"ironing","SC24A","225.1","O","N"," "," ","µº∞n±øn","MS",976
+"ironing","SC24A","225.1","O","N"," ","CNV","Âµ´º∫∞n±øn","MS",976
+"washing","SC24C","225.2","O","N"," "," ","ÂwµÛ±øºn","MS",978
+"smoothing irons","SC24C","225.2","O","N"," "," ","Âsmuø∫‰m$ıa´æ∫∞›{n}z{zè}","MS",978
+"ironing room","SC24D!","225.3!","O","N"," "," ","Âµ∫±øn±øºn$ıráuø∫{w}m","MS",979
+"ironed","SC25B","226.2","O","N"," "," ","aæ¥nd","MS",981
+"ironing","SC27A","228.1","O","N"," "," ","Âﬁ¥n±øn","MS",985
+"irons","SC27B","228.2","O","N"," "," ","µº∫∞nz","MS",986
+"ironing","SC28C","229.2","O","N"," "," ","Âa´æ∫{∞}n±øºn","MS",989
+"iron","SC28D","229.3","O","N"," "," ","µ´º∫∞én","MS",990
+"washing","SC29B","230.1(*)","O","N"," "," ","Âw∂{∞é}Û±øºn","MS",992
+"iron","SC29C","230.3","O","N"," "," ","Âa´∫∞n","MS",993
+"ironing","SC29C","230.3","O","N"," "," ","Âa´∫r∞Ωn±øºn","MS",993
+"iron","SC30B","231.2","O","N"," ","CNV","a´æ{∞}n","MS",997
+"ironing","SC30B","231.2","O","N"," ","CNV","aæ∫{∞}n±æn","MS",997
+"ironing","SC30C!","231.3!","O","N"," "," ","Âaæ∫{∞}n±æÓ","MS",998
+"washing","SC31B","232.2","O","N"," ","CNV","w∂{∞}Û±øºn","MS",1000
+"iron","SC31B","232.2","O","N","(the next door"," ","Âµº∫¥n","MS",1000
+"wash day","SC29D"," ","O","N"," "," ","Âw∏æ{∞}Û$ıde´∫"," ",994
+"iron","SC29D"," ","O","N"," "," ","Âµ∫∞n"," ",994
+"ironing","SC29A","230.1(*)","O","N"," "," ","a´∫¥nò±øºn","MS",991
+"smoothing irons","SC34C","235.3","O","N"," "," ","Âsmº{∞}Û±øºn$∞´n$Âa´æ∫∞n±ø›n","MS",1009
+"NR","SC19B","220.4"," ","N"," "," "," ","MS",956
+"washing","SC19C","220.2(*)","N","N"," "," ","wﬁÛ±æn","MS",957
+"wash women","SC19D!","220.3!","O","N"," "," ","ÂwµæÛ$ıwπºm∞´n","MS",958
+"washing","SC19E!"," ","N","N"," "," ","wµæÛ±æÓ"," ",959
+"washing","SC19C","220.2(*)","N","N"," "," ","wﬁóÛ±æn","MS",957
+"washer women","SC19C","220.2(*)","O","N"," "," ","ÂwﬁóÛ∞$ıw±´m±øºn","MS",957
+"washing and ironing","SC19C","220.2(*)","O","N"," "," ","ÂwﬁÛ±æn$nñ$Âµ´∫{j}∞›n±æn","MS",957
+"washing and ironing","SC19D!","220.3!","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$Âa´∫j∞´n±øºn","MS",958
+"smoothing iron","SC19D!","220.3!","O","N"," "," ","Âsmèuº∫‰±øºn$ıa´∫∞´n","MS",958
+"wash","SC19E!"," ","N","N"," "," ","wﬁº{∞}Û"," ",959
+"ironing","SC19E!"," ","N","N"," "," ","aæ∫{j}∞›n±æÓ"," ",959
+"ironing","SC19E!"," ","N","N"," "," ","aæ∫∞n±æÓ"," ",959
+"smoothing irons","SC34C","235.3","O","N"," "," ","Âsmèuø∫w‰±øºn$ıa´æ∫∞›nz","MS",1009
+"flat iron","SC35B","236.2","O","N"," "," ","Âf≈è·´{∞}tê$ıµæ∫¥n","MS",1011
+"NA","SC35D"," "," ","N"," "," "," "," ",1013
+"iron","SC35E!"," ","O","N"," "," ","µº∫¥n"," ",1014
+"iron","SC35E!"," ","O","N"," "," ","aæ∫¥n"," ",1014
+"iron","SC36A","237.1","O","N"," ","CNV","Âµéº∫¥n","MS",1015
+"ironing","SC36A","237.1","O","N"," "," ","Âµé∫¥n±æn","MS",1015
+"washing","SC36B","237.2","O","N"," "," ","Âwﬁ∫{∞}Û±æn","MS",1016
+"ironing","SC36B","237.2","O","N"," "," ","aæ∫¥n±æn","MS",1016
+"wash","SC36C","237.3","O","N"," ","CNV","wﬁÛ","MS",1017
+"washing and ironing","SC36C","237.3","O","N"," ","CNV","ÂwﬁóÛ±æn$∞›Ωn$Âµ´º∫{∞}n±æn","MS",1017
+"washing","SC36C","237.3","O","N"," "," ","w∂∫Û±øºn","MS",1017
+"wash","SC38N","N239","O","N"," ","CNV","ÂwﬁÛ","MS",1020
+"iron","SC38N","N239","O","N"," ","CNV","a´æ∫∞n","MS",1020
+"wash day","SC38B","239.2","O","N"," "," ","ÂwﬁÛ$ıde∫{±}","MS",1022
+"washing","SC38B","239.2","O","N"," ","CNV","wﬁÛn","MS",1022
+"ironing","SC38D!","239.4(*)!","O","N"," "," ","a´æ∫∞n±æÓ","MS",1024
+"wash","SC38D!","239.4(*)!","O","N"," "," ","wﬁÛ","MS",1024
+"washerwoman","SC38D!","239.4(*)!","N","N"," "," ","ÂwﬁæÛ∞$ıwπºm∞´n","MS",1024
+"ironed","SC39B!","240.2!","O","N"," ","CNV","Âa´æ∫∞nd","MS",1027
+"ironing","SC39B!","240.2!","O","N"," "," ","Âaæ∫∞n±øn","MS",1027
+"ironed","SC39B!","240.2!","O","N"," ","CNV","wﬁÛ","MS",1027
+"ironing","SC40A","241.1","O","N"," "," ","Âµ´∫{∞}n±æn","MS",1028
+"ironing","SC40B","241.2","O","N"," "," ","a´æ∫∞n±æn","MS",1029
+"washing and ironing","SC42N","N243","O","N"," "," ","Âwﬁ´ºÛn$n$Âa´æ∫nn","MS",1032
+"washing","SC42N","N243","O","N"," "," ","Âwﬁó´ºÛ±æná","MS",1032
+"iron","SC42M"," ","O","N"," ","CNV","aæ∫∞n"," ",1033
+"washing and ironing","SC42C!","243.3!","O","N"," "," ","Âwµæ∫Ûnà$n$aæ∫∞n±ø›n","MS",1036
+"iron them","SC43B","244.2","O","N"," "," ","Âµéæ∫¥n$∞›m","MS",1040
+"wash days","SC43C","244.3","O","N"," "," ","Âwﬁé∫Û$de∫{±}zè","MS",1041
+"washing","SC44B","245.2","O","N"," "," ","wﬁó∫{∞}Û±æÓ","MS",1043
+"ironing","SC44B","245.2","O","N"," "," ","Âa´º∫¥›n±æÓ","MS",1043
+"washing","GA1N","N246","O","N"," "," ","ÂwµæÛ∞´n","MS",1044
+"wash women","GA1A","246.1(*)","O","N"," "," ","ÂwﬁÛ$wπºm∞n","MS",1045
+"washing and ironing","GA1A","246.1(*)","O","Y"," ","AUX","w∂î{∞}Û±øΩn$∞n$•Ω±ø¥n±øΩn","MS",1045
+"washing","GA1C","246.2","O","N"," "," ","ÂwﬁÛ±æn","MS",1047
+"ironing","GA1C","246.2","O","N"," "," ","Âaæ∫∞nn","MS",1047
+"ironed them","GA1E","246.4","O","N"," "," ","Âµæ∫{∞}nd$‰m","MS",1049
+"flat irons","GA1E","246.4","O","N"," "," ","Âf≈è·tê$aæ∫{∞}nz{zè}","MS",1049
+"washing","GA1H!","246.7!","O","N"," "," ","wﬁ∫Û±æÓà","MS",1052
+"ironing","GA4N","N249","O","N"," "," ","a´∫∞n±øºÓ","MS",1058
+"washing","GA4A","249.1","O","N"," "," ","Âw∂ó∫Û±øºÓ","MS",1059
+"smoothing iron","GA4C!","249.3!","O","N"," "," ","Âsmèu∫˘±øΩn$ıaæ∫∞n","MS",1061
+"ironing","GA5A","250.1","O","N"," "," ","Âµ´∫{j}∞Ωn∞Ωn","MS",1062
+"washing","GA5A","250.1","O","N"," "," ","Âw∂ó{∞}Û±øΩn","MS",1062
+"ironing and washing","GA5A","250.1","O","N"," "," ","Âµ´∫{j}∞Ωn∞Ωn$∞Ωn$Âw∂ó{∞}Û±øΩn","MS",1062
+"wash house","GA5A","250.1","O","N"," "," ","w∂ó{∞}Û${h}•æπΩs","MS",1062
+"washed and ironed","GA5C","250.3","O","N"," "," ","ıw∂{∞}Ût$∞Ωn$Âµ∫{j}∞´nd","MS",1064
+"washing","GA5D!","250.4!","O","N"," "," ","Âwµóæ{o´º}Û±øºn","MS",1065
+"wash women","GA5D!","250.4!","O","N"," "," ","Âwﬁó∞´º{∞}Û$w±øm±øn","MS",1065
+"washing","GA5E!","250.5!","O","N"," ","CNV","ÂwﬁóÛ±øºn","MS",1066
+"washed","GA6A","251.1","O","N","no special day","CNV","Âwµæ{∞}Ût","MS",1067
+"ironing","GA7","256","O","N"," ","CNV","Âaæ∫∞n±øºn","MS",1069
+"ironing","GA7","256","O","N"," ","CNV/SIC","Âa´æ∫r∞´n","MS",1069
+"washing","GA8B","257.2","O","N"," ","CNV","Âwﬁó{∞}Û±øºn","MS",1071
+"wash","GA9A","257A.1","O","N"," "," ","wµæÛ","MS",1072
+"wash","GA9A","257A.1","O","N"," "," ","w∂´ºÛ","MS",1072
+"ironing","GA9A","257A.1","O","N"," "," ","Âa´æ∫r±øºn","MS",1072
+"ironing","GA9A","257A.1","O","N"," "," ","Âa´æ∫¥n","MS",1072
+"smoothing iron","GA10B","258.2","O","N"," "," ","Âsmèuø∫‰±øºn$µ´º∫{¥}n","MS",1075
+"washing","GA11N","N258A","O","N"," "," ","ÂwµæÛ±øn","MS",1076
+"washing","GA12A","259.1","O","N"," ","CNV","ÂwﬁºÛ±æÓ","MS",1077
+"washing","GA12A","259.1","O","N"," "," ","wﬁºÛ±æn","MS",1077
+"ironing","GA12A","259.1","O","N"," "," ","Âaéæ∫¥›n±æn","MS",1077
+"wash and dry","GA12B!","259.2(.3)","O","N"," "," ","Âwµ´Û$∞n$déÚa´æ∫∞","MS",1078
+"ironing","GA12B!","259.2(.3)","O","N"," "," ","Âaæ¥n±ø›n","MS",1078
+"wash","GA13B!","260.2!","O","N"," "," ","wµæ{∞}Û","MS",1080
+"wash","GA13B!","260.2!","O","N"," "," ","wµ´æ{∞}Û","MS",1080
+"wash pot","GA14A","261.1","O","N"," "," ","Âwﬁ{∞}Û$ıpﬁ{∞}t","MS",1081
+"wash tub","GA14A","261.1","O","N"," "," ","Âwﬁ{∞}Û$Ât`∏´{∞}b","MS",1081
+"smoothing iron","GA14B","261.3","O","N"," "," ","Âsmuø∫w˘±æ$µº∫{∞}n","MS",1082
+"wash pot","GA14B","261.3","O","N"," "," ","Âwﬁ{∞}Û$ıp`ﬁ{∞}t","MS",1082
+"wash house","GA14B","261.3","O","N"," "," ","ÂwﬁÛ$ıhµ´ºπs","MS",1082
+"iron","GA14C","261.2","O","N"," "," ","µ´º{∞}n","MS",1083
+"washing","GA15B","262.2","O","N"," "," ","wﬁó{∞}Û±øºn","MS",1085
+"ironing","GA15B","262.2","O","N"," "," ","Âµ´º∫∞n±øºn","MS",1085
+"irons","GA15B","262.2","O","N"," "," ","Âµº∫¥nz","MS",1085
+"washing and ironing","GA16A","263.2","O","N"," "," ","Âwﬁ{∞}Û±øºn$∞n$Âaæ∫r∞´n±øºn","MS",1086
+"washing and ironing","GA16B","263.1","O","N"," ","CNV","Âwﬁó{∞}Û±øºn$∞´n$Âa´∫j∞´n±øºn","MS",1087
+"ironing","GA16C","263.21","O","N"," "," ","a´æ∫{∞}n±øºn","MS",1088
+"wash day","GA16C","263.21","O","N"," "," ","ÂwµæÛ$ıde{±ø}","MS",1088
+"washing","GA16D!","263.3!","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",1089
+"wash house","GA17N","N264","O","N"," "," ","ÂwµæÛ$ıh·πs","MS",1090
+"ironing","GA18B","264A.2","O","N"," "," ","a´ær∞´n±øn","MS",1093
+"flat irons","GA19B","265.2","O","N"," "," ","a´æ∫∞nz","MS",1095
+"flat irons","GA19B","265.2","O","N","Monday or Tuesday equal wash day"," ","Âflè·{∞}t$ıa´æ∫∞nz","MS",1095
+"flat irons","GA20B","266.2","O","N"," "," ","Âflè·Ω∫{∞}t$ıµº∫r∞´nz","MS",1097
+"ironing","GA21A","267.1","O","N"," "," ","a´æ∫∞n±ø›{n}","MS",1098
+"ironed","GA21B","267.2","O","N"," "," ","a´æ∫∞nd","MS",1099
+"iron","GA22A","268A.1","O","N"," "," ","aæ∫¥n","MS",1100
+"ironing","GA23C","268.2","O","N"," "," ","Âaæ∫∞n±øn","MS",1104
+"washing","GA23C","268.2","O","N"," "," ","ÂwµæÛ±øºn","MS",1104
+"ironing","GA23D!","268.3","O","N","in kitchen"," ","a´æ∫∞n±øºÓ","MS",1105
+"wash board","GA23D!","268.3","O","N","in kitchen"," ","Âwµ{∞}Û$ıboº∫∞›d","MS",1105
+"ironing","GA23E!","268.4!","O","N"," "," ","a´æ∫{∞}n±øÓ","MS",1106
+"ironing","GA23F!","268.5!","O","N"," "," ","Âa´æ∫{∞}n±øÓ","MS",1107
+"washing","GA24B","269.2","O","N"," ","CNV","wµæ{∞}Û±øºn","MS",1110
+"ironing","GA25N","N269A","O","N"," "," ","Âa´æ∫{∞}n±øn","MS",1111
+"ironing","GA25N","N269A","O","N"," "," ","Âaæ∞n±øn","MS",1111
+"washing","GA25N","N269A","O","N"," "," ","Âw∂{∞}Û±øn","MS",1111
+"washing","GA27!","270!","O","N"," ","CNV","ÂwµæÛ±øºn","MS",1113
+"washes","GA27!","270!","O","N"," "," ","ÂwµæÛ±øºz","MS",1113
+"washing","GA28","271a","O","N"," ","CNV","wµæÛ±øn","MS",1114
+"ironing","GA28","271a","O","N"," "," ","aæ∫∞én±øÓ","MS",1114
+"ironing","GA29A","271.1","O","N","lots of time after supper"," ","µ´º∫∞n±øºn","MS",1115
+"ironing","GA29B","271.2","O","N","""when convenient"""," ","µ´º∫∞nz±øºn","MS",1116
+"washing","GA30B","272.2(*)","O","N"," "," ","Âwµæ{∞}Û±øºn","MS",1118
+"ironing","GA30B","272.2(*)","O","N"," "," ","a´æ∫∞n±øºn","MS",1118
+"side irons","GA30B","272.2(*)","O","N"," "," ","Âs·{∞}d$ıa´æ∫∞nz","MS",1118
+"smoothing irons","GA30B","272.2(*)","O","N"," "," ","Âsmèuø∫u˘±øºn$ıa´æ∫∞nz","MS",1118
+"ironing","GA30D"," ","N","N"," "," ","a´æ∫∞›n±æn"," ",1120
+"washing","GA32","272B","O","N"," ","CNV","wµæÛ±øn","MS",1123
+"ironing","GA33A","272C1","O","N"," "," ","Âa´æ¥n±øºn","MS",1124
+"ironing","GA33B","272C2","O","N"," "," ","a´æ¥n±øn","MS",1125
+"irons","GA34N","N273","O","N"," "," ","Âµ´æ∞nz","MS",1126
+"wash day","GA34B","273.2","O","N"," "," ","ÂwﬁóÛ$de´{±ø}","MS",1128
+"ironing","GA35N","N273A","O","N"," "," ","Âa´æ∞n±øn","MS",1129
+"washing machine","GA36N","N274A","O","N"," "," ","ÂwµÛ±øn$m∞ÂÛi{i}{n}","MS",1130
+"ironing","GA37N","2N274","O","N"," "," ","a´ær∞Ωn±øºn","MS",1131
+"wash house","GA37N","2N274","O","N"," "," ","Âwµ´æÛ$ıha´πs","MS",1131
+"ironing","GA37A","274.1","O","N"," ","CNV","Âaæ∫¥n±æÓ","MS",1133
+"ironing","GA37B","274.2","O","N"," "," ","Âa´æ∫∞n±øºn","MS",1134
+"ironing","GA37C","274.21","O","N"," "," ","aæ¥n∞Ωn","MS",1135
+"wash day","GA37C","274.21","O","N","Monday"," ","ÂwµæÛ$ıde{±ø}","MS",1135
+"washing and ironing","GA37C","274.21","O","N"," "," ","ÂwﬁÛ±øºn$∞n$Âaæ¥n±øºn","MS",1135
+"washing and ironing","GA37D!","274.7!","O","N"," "," ","ıwµÛ±øn$n$Âa´æ∫∞n±ønn","MS",1136
+"washing","GA37E!","274.8!","O","N"," "," ","wµÛ±øºÓ","MS",1137
+"washing","GA37E!","274.8!","O","N"," "," ","wµæÛ±øºn","MS",1137
+"washing and ironing","GA37G!","274.4!","O","N"," "," ","Âwﬁ{∞}Û±æÓ$∞´n$Âµ´º∫∞n±æÓ","MS",1139
+"washing","GA37I!","274.6!","O","N"," ","CNV","wµÛ±øÓ","MS",1141
+"wash","GA37I!","274.6!","O","N"," ","CNV","wµº∫{∞}Û","MS",1141
+"laundry","GA37I!","274.6!","O","N"," "," ","l∂{∞´}ndr±{i}","MS",1141
+"laundry","GA37I!","274.6!","O","N"," "," ","l∂´ondéÚ±øΩ","MS",1141
+"wash","GA37I!","274.6!","O","N"," "," ","Âwµ∫{∞}Û","MS",1141
+"washing and ironing","GA37I!","274.6!","O","N"," "," ","Âwµ∫{∞}Û±øn$∞n$Âa´æ∫r∞n±øºÓ","MS",1141
+"wash day","GA38","275","O","N"," "," ","Âwµ´{±ø}Û$ıde{±ø}","MS",1142
+"ironing","GA38","275","O","N"," "," ","Âµ∫¥n±øn","MS",1142
+"ironing","GA39","275A","O","N"," "," ","a´æ∞n±øn","MS",1143
+"ironing","GA40","276A","O","N"," "," ","µ´∫¥n±øºn","MS",1144
+"ironed","GA41","276B","O","N"," "," ","µ∫rnd","MS",1145
+"irons","GA41","276B","O","N"," "," ","µ∫rnz","MS",1145
+"washed","GA42A","276.1","O","N"," "," ","Âw∂{∞}Ût","MS",1146
+"washing","GA44A","278.1","O","N"," "," ","Âwﬁó{∞}Û±øºn","MS",1149
+"washed","GA44A","278.1","O","N"," "," ","w∂é∫{¥}Ût","MS",1149
+"ironing","GA44A","278.1","O","N"," "," ","Âµé¥n±øºn","MS",1149
+"ironing","GA44B","278.2","O","N"," "," ","Âµé¥n±øºn","MS",1150
+"ironing","GA44C","278.3","O","N"," "," ","µæ∫∞én±øºn","MS",1151
+"ironing","GA44C","278.3","O","N"," "," ","Âµæ∫¥n±øºn","MS",1151
+"wash days","GA44D","278.4","O","N"," "," ","Âwﬁó{∞}Û$ıde∫±øºz","MS",1152
+"wash day","FL1","252","O","N"," "," ","Âwﬁ{∞}Û$ıde´∫","MS",1154
+"ironing","FL2A","253.1","O","N"," "," ","Âa´æ∫∞n±øºn","MS",1155
+"irons","FL2B","253.2","O","N"," "," ","Âa´æ∫{∞}nz","MS",1156
+"ironing","FL2B","253.2","O","N"," "," ","Âa´æ∫∞n±øn","MS",1156
+"ironing","FL3A","254.1","O","N"," "," ","µ∫j∞›{n}±øºn","MS",1158
+"washing","FL4","254A","O","N"," "," ","wﬁæ{∞}Û±øn","MS",1160
+"ironing","FL4","254A","O","N"," "," ","Âa´æ∫{∞}¥n±øn","MS",1160
+"washing","FL5A","255.1","O","N"," ","CNV","Âwﬁ{∞}Û±øºn","MS",1161
+"washing","FL5B","255.2","O","N"," "," ","wµ´æ{∞}Û±øºn","MS",1162
+"pans","NY23B","462a","N","Y"," ","INA","p`·´∫{∞}nz","MS",65
+"wash day","NY25A","465","O","N"," "," ","ÂwµæÛ$ıde∫±ø","MS",69
+"ironing","NY26A","467","N","N"," "," ","µ∫±ø¥n±øºn","MS",71
+"washing","NY30E","475e","N","Y"," "," ","w∑ΩÛ±øºn","MS",87
+"wash day","NY32B","479b","O","N"," "," ","ÂwﬁÛ$ıde∫{±ø}","MS",91
+"wash","NY34A","483","N","N"," ","CNV","w∑ΩÛ","MS",95
+"washed","NY45B","513b","V","N"," "," ","wﬁóÛt","MS",123
+"washing board","NY46A","515a","O","N"," "," ","ÂwµÛ±øºn$ıbo∫∞éd","MS",126
+"ironing","NY51D","525d","N","N"," "," ","µ´±ø{¥}n±øn","MS",144
+"washed","NY51D","525d","V","N"," "," ","wµÛt","MS",144
+"washing","NY53B!","530!","N","N"," ","CNV","w∑ΩÛ±øºÓ","MS",150
+"wash","NY54B","532","N","N"," "," ","wµÛ","MS",152
+"wash bowls","NY57A","537a","O","N"," "," ","Âw∑éΩ¥Û$ıboºπºÏz","MS",157
+"washing tubs","NY57B","537b","O","N"," "," ","Âw∑ΩÛ±øÓ$ıt∏Ωbz","MS",158
+"washing and ironing","MD14","61(*)","O","N"," "," ","w∑Ω∫Û±øn$∞n$ﬁº∫¥n±øn","MS",546
+"wassen und bigglen","MD14","61(*)","O","Y","dutch","INA","v≤{x}Û∞n$π´nt$bigl∞","MS",546
+"smoothing iron","SC4A","206.1","O","N"," "," ","Âsmèuø∫w˘n$ıµ´∫j±øΩn","MS",896
+"ironed","SC4B","206.2","V","N"," "," ","µ∫j∞´nd","MS",897
+"put them out","SC7A","209.1","E","Y","""put them out¢","INA","Âp`πºÒ∞´m$ı∏´ºπt","MS",909
+"washwoman","SC7D!","209.4!","N","N"," "," ","wµæ{∞}Û$wπº{∞}m∞´n","MS",912
+"Monday","SC8A","210.1","N","Y"," ","INA","m∏óΩ{∞}nd±ø´º","MS",913
+"wash tubs","SC8A","210.1","O","N"," ","CNV","Âwµæ{∞}Û$ıt∏´º{∞}bz","MS",913
+"iron them","SC8A","210.1","E","N"," "," ","µ∫rnñ∞´m","MS",913
+"stove irons","SC8B","210.2","O","N"," "," ","Âsto∫∞óv$ıaæ∫∞énz","MS",914
+"Negro streets","SC10B!","212.2!","O","Y"," ","INA","Ân±´gr∞$ıstÚèi∫ts","MS",921
+"washing and ironing","SC11C","213.2","O","N"," ","CNV","ÂwﬁÛ±øºn$∞›´n$ıµ´∫j∞´n±øºn","MS",927
+"wash","SC11H!","213.8!","V","N"," "," ","wﬁÛ","MS",932
+"clothes","SC11H!","213.8!","N","Y"," ","INA","k`≈èo´º∫{∞}z","MS",932
+"house cleaning","SC11H!","213.8!","O","Y"," ","INA","Âh∏´πs$ık`≈è±nnñ","MS",932
+"clothes went out","SC14B","215.2","S","Y"," ","INA","Âk`≈èo∫{∞}z$ıw≤´{∞}nt$Â∏ºo´t","MS",939
+"Monday","SC15B","216.2","N","Y"," ","INA","m∏´{∞}nd±ø´º","MS",941
+"family wash","SC19A","220.1","O","N"," "," ","Âf·Ωmlñ±ø´º$ıwﬁ∫{∞}Û","MS",955
+"scrub","SC19A","220.1","O","Y"," ","INA","skrá∏b","MS",955
+"wash paddle","SC20B","221.2","O","N"," "," ","Âw∂{∞}Û$ıp·{≤}dl","MS",961
+"steel irons","SC20C","221.3","O","N"," "," ","Âsti∫{j}l$ıaæ∫¥nñz","MS",962
+"washing and ironing","SC23D","224.4","O","N"," "," ","Âwµæ{∞}Û±øºn$∞´n$Âaæ∫{∞}n±ø›n","MS",973
+"wash tubs","SC23D","224.4","O","N"," ","CNV","Âwµæ{∞}Û$ıt{j}`¶Ω{∞}bz{zè}","MS",973
+"wash house","SC26B!","227.2!","O","N"," "," ","Âwµæ{∞}Û$ıha´æoºs","MS",984
+"ironing board","SC29B","230.2(*)","O","N"," "," ","Âµ∫Ò∞´n±øºn$ıboº∫∞éd","MS",992
+"board","SC29B","230.2(*)","N","Y"," ","INA","boº∫∞d","MS",992
+"washing","SC29C","230.3","O","N"," "," ","wﬁ´º{∞}Û±øºn","MS",993
+"wash day","SC29E"," ","O","N","""Thursday¢"," ","Âwµæ{∞}Û$πøde´∫"," ",995
+"Thursday","SC29E"," ","N","Y"," ","INA","˘≥´æ∫{∞}zd±ø´º"," ",995
+"side irons","SC29E"," ","O","N"," "," ","s·Ω{∞}Ò$µ´º∫∞nz{zè}"," ",995
+"iron good","SC29E"," ","E","N"," "," ","Âµ∫∞n$gπ∫{∞}d"," ",995
+"iron them","SC29E"," ","E","N"," "," ","Âa´º∫¥nñ∞´m"," ",995
+"","","","","","","","","",

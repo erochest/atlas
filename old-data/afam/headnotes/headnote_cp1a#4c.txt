@@ -1,0 +1,13 @@
+miscellaneous ordinal numbers (cp1a#4c.asc)
+
+Items
+=====
+                             eighth    1
+                             fourth    7
+                              ninth    1
+                            seventh    1
+                              tenth    1
+                     the fourth man    1
+                      the third man    1
+                              third    7
+

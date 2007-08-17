@@ -1,0 +1,14 @@
+foggy (cp6#9.asc)
+
+Items
+=====
+                         damp misty    1
+                              foggy   49
+                      foggy weather    2
+                               hazy    1
+                         it's foggy    1
+                   little fine mist    1
+                              misty    2
+                              muggy    1
+                                 NR   12
+

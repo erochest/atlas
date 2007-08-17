@@ -1,0 +1,76 @@
+swamp (cl29#5.asc)
+
+Items
+=====
+      a thick boggy place in a wood    1
+                              basin    1
+                                bog    4
+                              boggy    1
+                         boggy land    1
+                        boggy place    1
+                             bottom    1
+                        bottom land    1
+                             branch    2
+                              fresh    1
+                               gall    1
+                             island    1
+                             lagoon    1
+                               long    1
+                          low place    1
+                            lowland    3
+                              marsh    6
+                        marshy land    1
+                         mire it up    1
+                              mirey    1
+                         mirey land    1
+                      mucklety land    1
+                                 NR    3
+                          pail pond    1
+                               pond    6
+                          quicksand    1
+                              river    1
+                        river swamp    2
+                              round    1
+                              slash    1
+                           suckhole    1
+                               swag    1
+                              swamp   53
+                         swamp land    3
+                       swamp rabbit    1
+                             swamps    3
+                         upper part    1
+                      water settled    1
+
+
+
+M: Suppose this was some land that had water standing in it for a good part 	of the time.  What would you call that?  Would it be big or small?
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 29#5, "swamp rabbit" is inappropriate, as is marginalia.
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 29 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+29#P		29#4
+29#P
+29#1		29#1
+		29#2 (no question)
+29#2 S		
+29#3		29#5
+29#4		29#6
+29#5		29#7
+29#6		29#8
+29#7 M		29#3
+29#7 M

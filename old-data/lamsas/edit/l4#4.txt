@@ -1,0 +1,1477 @@
+"half past seven","NY1","50","O","N"," "," ","há{°}$pá{°}st$s²bm","MS",1
+"NA","NY2A","51.1"," ","N"," "," "," ","MS",2
+"half after seven","NY2B","51.2","O","Y"," ","SUG/OLD","há{°}f$µ«ºt°$s²bm","MS",3
+"half past seven","NY2B","51.2","O","N"," "," ","há{°}$pá{°}st$s²bm","MS",3
+"NA","NY2C","51.3"," ","N"," "," "," ","MS",4
+"half past seven","NY3A","401","O","N"," "," ","háºf$páº{°}st$s²¾ví","MS",5
+"half past seven","NY3B","403","O","N"," "," ","háºf$páºst$s²ví","MS",6
+"half past seven","NY3C","402","O","N"," "," ","há¾f$p{h}á¾st$s²¾v°İn","MS",7
+"half past seven","NY3D","404","O","N"," "," ","háº$páºst$s²ví","MS",8
+"half past seven","NY4A","405","O","N"," "," ","háºf$páºst$s²ví","MS",9
+"half past seven","NY4B","407","O","N"," "," ","háº{°}f$åpáº{°}st$s²ví","MS",10
+"half past seven","NY4C","408","O","N"," "," ","háº{°}$páº{°}st$s²¾v°İn","MS",11
+"half past seven","NY5A","409","O","N"," "," ","õháº{°}$õpáºst$ås²¾v°İn","MS",12
+"half past seven","NY5B","410","O","N"," "," ","há¾f$p{h}ást$s²¾v°İn","MS",13
+"half past seven","NY5C","411","O","N"," "," ","há{°}f$pá{°}st$s²¾ví","MS",14
+"half past seven","NY5D","412","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",15
+"half past seven","NY5E","413","O","N"," "," ","háf$páºst$s²vn","MS",16
+"half past seven","NY5F","414","O","N"," "," ","háº{°}$páº{°}s{t}$s²İ¾ví","MS",17
+"half past seven","NY5G","415","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",18
+"half past seven","NY5H!","416!","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",19
+"half past seven","NY5I!","417!","O","N"," "," ","há½¾f$pá½¾st$s²ví","MS",20
+"half past seven","NY6A","418","O","N"," "," ","õhá½¾$åpá½¾st$s²¾ví","MS",21
+"half past seven","NY6B","419","O","N"," "," ","há{°}f$pá¾{°}s{t}$s²¾ví","MS",22
+"half past seven","NY7A","420","O","N"," "," ","há«º{°}$pá«º{°}s{t}$s²¾ví","MS",23
+"half past seven","NY7B","421","O","N"," "," ","háºf$pá«ºs{t}$s²¾ví","MS",24
+"half past seven","NY7C","422","O","N"," "," ","há«º{°}f$pá«º{°}s{t}$s²¾ví","MS",25
+"half past seven","NY7D","423","O","N"," "," ","há½¾{f}$páº{°}st$s²¾v°n","MS",26
+"half past seven","NY7E","424","O","N"," "," ","háº$páºst$s²ví","MS",27
+"half past seven","NY7F","425","O","N"," "," ","há½¾f$p{h}á½¾st$s²¾v°İn","MS",28
+"half past seven","NY7G","426","O","N"," "," ","õhá¾f$õpá¾st$ås²¾v°İn","MS",29
+"half past seven","NY7H","427","O","N"," "," ","há{°}f$pást$s²¾v°n","MS",30
+"half past seven","NY7I","428","O","N"," "," ","há¾f$pá{°}st$s²v°n","MS",31
+"half past seven","NY7J!","429!","O","N"," "," ","hµf$pµst$s²ví","MS",32
+"half past seven","NY7K!","430!","O","N"," "," ","õháº{°}f$õpá«º{°}st$ås²¾v°n","MS",33
+"half after seven","NY7L!","431!","O","N"," "," ","hµ¾ºf$µ¾ºft°$s²ví","MS",34
+"half past seven","NY7L!","431!","O","N"," "," ","hµ¾ºf$pµ¾ºst$s²ví","MS",34
+"half past seven","NY7M!","432!","O","N"," "," ","õhá½¾{°}f$õpá½¾{°}st$ås²ví","MS",35
+"half past seven","NY8","432b","O","N"," "," ","õháº{°}$õpáº{°}st$ås²ví","MS",36
+"half past seven","NY9A","432c","O","N"," "," ","há½¾f$pá½¾st$s²¾v°İn","MS",37
+"half past seven","NY9B","433","O","N"," "," ","háºf$páº{°}st$s²¾v°n","MS",38
+"half past seven","NY9C","434","O","N"," "," ","há¾f$pást$s²v°n","MS",39
+"half past seven","NY10A","435","O","N"," "," ","háºf$páºst$s²ví","MS",40
+"half past seven","NY10B!","436!","O","N"," "," ","õháf$õpáºst$ås²v°İn","MS",41
+"half past seven","NY11","438","O","N"," "," ","há½¾f$pá½¾st$s²v°n","MS",42
+"half past seven","NY12A","439(*)","O","N"," "," ","háº{°}$páº{°}st$s²¾ví","MS",43
+"half past seven","NY12B","440","O","N"," "," ","õhá¾f$õpást$ås²¾v°İn","MS",44
+"half past seven","NY12C!","441!","O","N"," "," ","há½¾f$pást$s²¾ví","MS",45
+"half past seven","NY13A","443","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",46
+"half past seven","NY13B!","444!","O","N"," "," ","háºf$páºst$s²ví","MS",47
+"half past seven","NY14A","445","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",48
+"half past seven","NY14B","446","O","N"," "," ","háº{°}f$páº{°}st$s²¾v°İn","MS",49
+"half past seven","NY15A","447","O","N"," "," ","háºf$páº{°}st$s²ví","MS",50
+"half past seven","NY15B","448","O","N"," "," ","õháºf$õpáºst$ås²¾ví","MS",51
+"half past seven","NY16A","449","O","N"," "," ","háº{°}$páº{°}st$s²¾ví","MS",52
+"half past seven","NY16B","450","O","N"," "," ","háº{°}f$páº{°}s{t}$s²¾ví","MS",53
+"half past seven","NY17A","451(*)","O","N"," "," ","há«º{°}f$pá«º{°}st$s²¾ví","MS",54
+"half past seven","NY17B","452","O","N"," "," ","há{°}$páº{°}st$s²ví","MS",55
+"half past seven","NY18A","453","O","N"," "," ","háº{°}f$páº{°}st$s²ví","MS",56
+"half past seven","NY18B","454","O","N"," "," ","háº{°}f$páº{°}st$s²v°n","MS",57
+"half past seven","NY18C!","455!","O","N"," "," ","õháº{°}f$õpáº{°}st$ås²¾v°İn","MS",58
+"half past seven","NY19","456","O","N"," "," ","háº{°}{f}$pá«º{°}s{t}$s²ví","MS",59
+"half past seven","NY20A","457","O","N"," "," ","õháf$õpást$ås²ví","MS",60
+"half past seven","NY20B","458","O","N"," "," ","åháº{°}$õpáº{°}st$s²¾v°İn","MS",61
+"half past seven","NY21","459","O","N"," "," ","há«º{f}$pá«ºst$s²ví","MS",62
+"half past seven","NY22","460","O","N"," "," ","há«º{°}f$pá«{°}ºst$s²v°İn","MS",63
+"NR","NY23A","461"," ","N"," "," "," ","MS",64
+"half past seven","NY23B","462a","O","N"," "," ","åhá«º{²}$õpá«{²}st$ås²«bm","MS",65
+"half past seven","NY23B","462a","O","N"," "," ","åhá«º{²}$õpá«{²}s$ås²«bm","MS",65
+"half past seven","NY23C","462b","O","N"," "," ","åhá$õpáº{°}s$ås²«v°«n","MS",66
+"seven thirty","NY23C","462b","O","N"," "," ","õs²«v°ş«n$åù³´t±¿«","MS",66
+"half past seven","NY24A","463","O","N"," "," ","õháº{°}f$õpáº{°}st$ås²¾v°İn","MS",67
+"half past seven","NY24B!","464!","O","N"," "," ","háº{°}{f}$páº{°}st$s²¾v°İn","MS",68
+"half past seven","NY25A","465","O","N"," "," ","åháf$õpást$ås²«ví","MS",69
+"half past seven","NY25A","465","O","N"," "," ","åhá½ç$õpás$ås²ví","MS",69
+"half after seven","NY25A","465","O","N"," "," ","åhá½f$õáft°$ås²«ví","MS",69
+"half","NY25A","465","N","Y"," ","INA/CNV","háº{°}f","MS",69
+"half past seven","NY25B","466","O","N"," "," ","åhá¾$õpáº{°}s$ås²«v°«n","MS",70
+"half past seven","NY26A","467","O","N"," "," ","åhá«{Æ}$pá{°}s$ås²«bm","MS",71
+"half past seven","NY26B","468","O","N"," "," ","åhá$õpá{°}s$s²«vn","MS",72
+"seven thirty","NY26B","468","O","N"," "," ","õs²«vn$åù´¾t±½¾","MS",72
+"NR","NY26C","469"," ","N"," "," "," ","MS",73
+"half past seven","NY27A","470","O","N"," "," ","åháº{f}$õpást$ås²«v°«n","MS",74
+"half after seven","NY27A","470","O","Y"," ","HRD","åháºf$õáft´$ås²«v°«n","MS",74
+"half past eight","NY27B","471","O","N"," ","CNV","åháç$õpáºs$åe½º±¿t","MS",75
+"half past seven","NY27C","472","O","N"," "," ","åhá²$õpá²s$ås²«bm","MS",76
+"seven thirty","NY27C","472","O","N"," "," ","õs²«bí$åù³¾´t±½¾","MS",76
+"half past seven","NY28A","473a","O","Y","[{Æ}]: doubtful","FDT","åhá{°}{Æ}$õpáºs$ås²«v°«n","MS",77
+"half past seven","NY28B","473b(*)","O","N"," "," ","åháç$õpáº{°}st$s²bm","MS",78
+"half past eight","NY28B","473b(*)","O","N"," "," ","åháç$õpáº{°}st$eº±¿t","MS",78
+"seven thirty","NY28B","473b(*)","O","N"," "," ","õs²bm$åù³«¾´t±«¾","MS",78
+"NR","NY28C"," "," ","N"," "," "," ","MS",79
+"half past seven","NY29A","474a","O","N"," "," ","åhá{Æ}$õpá{°}s$ås²ví","MS",80
+"half past seven","NY29B","474b","O","N"," "," ","åháº{°}$õpáº{°}st$ås²âm","MS",81
+"seven thirty","NY29B","474b","O","N"," "," ","õs²âm$åù³¾´t±«¾","MS",81
+"half past seven","NY29C","474c","O","N"," "," ","åháf$õpás$ås²ví","MS",82
+"half past seven","NY30A","475a","O","N"," "," ","åháº$õpáºst$ås²bm","MS",83
+"half past six","NY30B","475b","O","N"," ","CNV","åháf$õpá{°}st$ås±«ks","MS",84
+"half past seven","NY30B","475b","O","N"," "," ","åháf$õpást$ås²«vm","MS",84
+"seven thirty","NY30B","475b","O","N"," "," ","ås²ví$õù³´t±«¾","MS",84
+"NR","NY30C","475c"," ","N"," "," "," ","MS",85
+"NR","NY30D","475d"," ","N"," "," "," ","MS",86
+"half past seven","NY30E","475e","O","N"," "," ","åhá{Æ}$õpás$ås²v°«n","MS",87
+"half past seven","NY30E","475e","O","N"," "," ","åháf$õpás$ås²v°«n","MS",87
+"seven thirty","NY30E","475e","O","N"," "," ","õs²v°«n$åù³¾´t±«¾","MS",87
+"half past seven","NY31A","478a","O","N"," "," ","åháf$õpást$ås²b°İ½m","MS",88
+"half past seven","NY31B","478b","O","N"," "," ","åhá$páİ«s$ås²«bm","MS",89
+"half past seven","NY32A","479a","O","N"," "," ","åháf$õpás$ås²«ví","MS",90
+"seven thirty","NY32A","479a","O","N"," "," ","s²«ví$åù³«´t±«¾","MS",90
+"half past seven","NY32B","479b","O","N"," ","CNV","åhá{²}f$õpás$ås²«bm","MS",91
+"half","NY33A","480","N","Y"," ","INA/CNV","há{°}f","MS",92
+"half past seven","NY33B","481","O","N"," "," ","åháº{°}$õpáºs$ås²bm","MS",93
+"seven thirty","NY33B","481","O","Y"," ","NEW","õs²bm$åù³¾º´t±«¾","MS",93
+"half past seven","NY33C","482","O","N"," "," ","åhá$õpáº{°}s$ås²«bm","MS",94
+"seven thirty","NY33C","482","O","N"," "," ","ås²bm$õù³¾´t±«¾","MS",94
+"half past seven","NY34A","483","O","N"," "," ","åháf$õpá«s$ås²«v°«n","MS",95
+"NA","NY34B","484"," ","N"," "," "," ","MS",96
+"NR","NY34C","485"," ","N"," "," "," ","MS",97
+"half past five","NY34D!","486!","O","N"," "," ","åhá$õpás$åfµ«º±¿v","MS",98
+"half past seven","NY35A","487","O","N"," "," ","háº{°}f$páº{°}st$s²ví","MS",99
+"half past seven","NY35B","488","O","N"," "," ","háºf$páºs{t}$s²¾ví","MS",100
+"NA","NY35C!","489!"," ","N"," "," "," ","MS",101
+"half past seven","NY36A","491","O","N"," "," ","háº{°}f$páº{°}st$s²ví","MS",102
+"half past seven","NY36B","492","O","N"," "," ","háº{°}f$pást$s²ví","MS",103
+"half past seven","NY37A","493","O","N"," "," ","háº{°}f$páº{°}st$s²ví","MS",104
+"half past seven","NY37B","494","O","N"," "," ","há{f}$páºst$s²ví","MS",105
+"half past seven","NY37C!","495!","O","N"," "," ","háº{f}$õpáºst$ås²ví","MS",106
+"half past seven","NY38A","497(*)","O","N"," "," ","háº{°}f$páº{°}s$s²ví","MS",107
+"half past seven","NY38B","498","O","N"," "," ","háf$páºs{t}$s²ví","MS",108
+"NA","NY38C"," "," ","N"," "," "," ","MS",109
+"half past seven","NY39A","499","O","N"," "," ","há{°}{f}$páº{°}st$s²ví","MS",110
+"half past seven","NY39B","500","O","N"," "," ","háº$páºst$s²ví","MS",111
+"half past seven","NY40A","501","O","N"," "," ","háf$pást$s²ví","MS",112
+"half past seven","NY40B","502","O","N"," "," ","åháf$õpáºst$õs²ví","MS",113
+"half past seven","NY41","504","O","N"," "," ","háºf$páº{°}st$s²¾v°İn","MS",114
+"half past seven","NY42A","505","O","N"," "," ","háºf$páºst$s²ví","MS",115
+"half past seven","NY42B","506","O","N"," "," ","há{°}$pá{°}st$s²v°İn","MS",116
+"NA","NY43A","507"," ","N"," "," "," ","MS",117
+"half past seven","NY43B","507b","O","N"," "," ","háºf$páºst$s²ví","MS",118
+"half past seven","NY43C!","508!","O","N"," "," ","háºf$páºst$s²v°İn","MS",119
+"half after seven","NY44A","511","O","N"," "," ","há{f}$áft´$s²ví","MS",120
+"half past seven","NY44B","512","O","N"," "," ","háºf$páºst$s²ví","MS",121
+"half past seven","NY45A","513a","O","N"," "," ","åhá$õpás$ås²«bm","MS",122
+"NR","NY45B","513b"," ","N"," "," "," ","MS",123
+"NR","NY45C","513c"," ","N"," "," "," ","MS",124
+"half past seven","NY45D!","513d!","O","N"," "," ","åhá{²}$õpá{²}s$ås²bm","MS",125
+"half past eleven","NY46A","515a","O","N"," "," ","åhá$õpást$±¿ål²«bm","MS",126
+"half past seven","NY46B","515b","O","N"," "," ","õháº{°}$åpáºst$s²bm","MS",127
+"half past","NY46B","515b","O","N"," "," ","háº{°}$åp`áºst","MS",127
+"half past two","NY46C","515c","O","N"," "," ","õháºf$páºst$åt¹u","MS",128
+"half past seven","NY47A","517(*)","O","N"," "," ","åhá«{²}$õpáºs$ås²«ví","MS",129
+"half past seven","NY47A","517(*)","O","N"," "," ","åhá«{²}{Æ}$õpá«s$ås²«v°«n","MS",129
+"half past seven","NY47B","518","O","N"," "," ","há{f}$pást$ås²ví","MS",130
+"half past seven","NY48A","519a","O","N"," "," ","åhá$õpá«s$ås²«bm","MS",131
+"seven thirty","NY48A","519a","O","N"," "," ","õs²«bm$åù³«´t±¿¼","MS",131
+"NA","NY48B","519b"," ","N"," "," "," ","MS",132
+"half past seven","NY48C","519c","O","N"," "," ","åháf$õpást$ås²«bm","MS",133
+"half past seven","NY48C","519c","O","N"," "," ","åhá$õpás$ås²bm","MS",133
+"seven thirty","NY48C","519c","O","N"," "," ","s²âm$åù³¾´t±¿¼","MS",133
+"half past seven","NY48D","519d","O","N"," "," ","åhá$pá¾s$ås²«v°«n","MS",134
+"seven thirty","NY48D","519d","O","N"," "," ","õs²«bm$åù³«´t±","MS",134
+"NA","NY49A","520"," ","N"," "," "," ","MS",135
+"NA","NY49B","521"," ","N"," "," "," ","MS",136
+"seven thirty","NY49C","522a","O","N"," "," ","ås²bm$õù´t±¿","MS",137
+"half past seven","NY49C","522a","O","N"," "," ","åhá«{°}$õpá«{°}st$s²bm","MS",137
+"seven o'clock","NY49C","522a","O","Y"," ","INA","s²bm$°klµ¾k","MS",137
+"half past one","NY49C","522a","O","N"," "," ","åhá«{°}$õpá«{°}st$åw¸¼n","MS",137
+"half past seven","NY49D","522b","O","N","at home"," ","åhá«f$õpá«st$ås²v°n","MS",138
+"seven thirty","NY49D","522b","O","N","at phone company"," ","õs²v°n$åù{°}´t±¿","MS",138
+"nine eleven","NY49D","522b","O","Y"," ","INA","n¥±¿n$±¿ål²«v°n","MS",138
+"half past seven","NY50A","523","O","N"," "," ","åháf$õpás$ås²«ví","MS",139
+"half past seven","NY50B","524","O","N"," "," ","åháº$õpáºs$ås²«bm","MS",140
+"seven thirty","NY50B","524","O","N"," "," ","õs²«bm$åù³´t±«¾","MS",140
+"quarter past ten","NY50B","524","O","Y"," ","INA","åkw·´t´$õpáºs$åt²«n","MS",140
+"half past seven","NY51A","525a","O","N"," "," ","åhá«{²}Æ$õpá«{²}s$ås²«bm","MS",141
+"half past","NY51A","525a","O","N"," ","CNV","åhá«f$õpás","MS",141
+"seven thirty","NY51A","525a","O","N"," ","CNV","s²«bm$åù´«t±«¾","MS",141
+"quarter past ten","NY51A","525a","O","Y"," ","INA","åkw¶«´t´$õp`á«s$åt`²«n","MS",141
+"half past seven","NY51B","525b","O","N"," "," ","åhá«{²}$õpá«{²}s$ås²«ví","MS",142
+"half past seven","NY51C","525c","O","N"," "," ","åhá«{²}$pá{²}s$ås²bm","MS",143
+"half past six","NY51D","525d","O","N"," "," ","åhá«{²}$õpá«{²}s$ås±ks","MS",144
+"half past eleven","NY51D","525d","O","N"," ","CNV","åhá«{²}f$õpá«{²}st$±¿¼ål²«¾v°«n","MS",144
+"half past seven","NY51E!","525e!","O","N"," "," ","åhá«$õpá«{²}s$ås²«bm","MS",145
+"seven thirty","NY51E!","525e!","O","N"," ","CNV","õs²«bm$åù³«´t±¿¼","MS",145
+"half past seven","NY52A","527","O","N"," "," ","åháº$õpáº{°}st$ås²bm","MS",146
+"NR","NY52B","528"," ","N"," "," "," ","MS",147
+"six thirty","NY52C","528b","O","N"," "," ","ås±ks$õù´t±","MS",148
+"half past seven","NY53A","529","O","N"," "," ","åhá{Æ}$õpás$ås²«bm","MS",149
+"half past seven","NY53A","529","O","N"," "," ","åhá$õpáº{°}s$ås²«bm","MS",149
+"seven thirty","NY53A","529","O","N"," "," ","õs²¾bm$åù³¾±¿t±«¾","MS",149
+"half past seven","NY53B!","530!","O","Y"," ","HRD","åhá{Æ}$õpás$ås²ví","MS",150
+"half after seven","NY53B!","530!","O","N"," "," ","åháf$õáft°$ås²v°«n","MS",150
+"half after seven","NY53B!","530!","O","N"," "," ","åhá½f$õáft°$ås²v°«n","MS",150
+"seven thirty","NY54A","531","O","N"," "," ","õs²vn$åù´ñ±¿","MS",151
+"seven thirty","NY54B","532","O","N"," "," ","õs²v°n$åù´t±¿","MS",152
+"seven thirty","NY54B","532","O","N"," "," ","ås²bm$õù´t±¿","MS",152
+"six thirty","NY54B","532","O","N"," "," ","ås±ks$õù³¾´t±¿","MS",152
+"half past seven","NY55A","533","O","N"," "," ","åhá{²}$õpás$ås²«bm","MS",153
+"seven thirty","NY55A","533","O","N"," "," ","ås²«bm$õù´«¾t±«¾","MS",153
+"half past seven","NY55B","534","O","N"," "," ","åháº{°}f$õpáº{²}st$ås²«v°«n","MS",154
+"half past seven","NY56A","535","O","N"," "," ","åhá$õpáº{°}s$ås²bm","MS",155
+"half past seven","NY56B","536","O","N"," "," ","åhá«{²}f$õpá«{²}s$ås²«bm","MS",156
+"seven thirty","NY56B","536","O","N"," "," ","õs²«bm$åù³«´t±«¾","MS",156
+"half past seven","NY57A","537a","O","N"," ","CNV","åháf$õpás$ås²«bm","MS",157
+"half past three","NY57A","537a","O","N"," ","CNV","åhá{Æ}$õpás$åùñi½i","MS",157
+"NR","NY57B","537b"," ","N"," "," "," ","MS",158
+"half past seven","NY57C!","537c!","O","N"," "," ","åháº{Æ}$õpás$ås²ví","MS",159
+"half past seven","NY58A","539a","O","N"," "," ","åhá«$õpá«º{°}s$ås²«bm","MS",160
+"half past four","NY58A","539a","O","N"," ","CNV","åhá«{²}$õpá«{°}s$åfo¼º´","MS",160
+"a half","NY58B","539b","O","Y"," ","INA/CNV","°$åha¾f","MS",161
+"half past seven","NY58B","539b","O","N"," "," ","åhá$õpá«{°}s$ås±½¾bm","MS",161
+"half","NY58B","539b","N","Y"," ","INA/CNV","háf","MS",161
+"NA","NY58C","539c"," ","N"," "," "," ","MS",162
+"half past seven","NY58D!","539d!","O","N"," "," ","åhá«ç$õpá«{°}s$ås²¾bm","MS",163
+"half past seven","NY58D!","539d!","O","N"," ","CNV","åhá«{²}$õpá«{²}s$ås²«ví","MS",163
+"half past seven","NY58E!","539e!","O","N"," "," ","åhá{°}$õpá{°}s$ås²«v°«n","MS",164
+"quarter past ten","NY58E!","539e!","O","Y"," ","INA","kw·´t´$õpás$åt²«n","MS",164
+"NR","NY58F!","539f!"," ","N"," "," "," ","MS",165
+"half past seven","NY59A","543","O","N"," "," ","åháç$õpás$ås²«v°«n","MS",166
+"seven thirty","NY59A","543","O","N"," "," ","ås²«v°«n$õù³¾´t±¿¾","MS",166
+"half past seven","NY59B","544","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",167
+"half past nine","NY60A","545","O","N"," "," ","åhá«{²}$õpá{°}s$ån¥º±¿n","MS",168
+"half past nine","NY60B!","546!","O","N"," "," ","åhá$pá{°}s$n¥«±¿n","MS",169
+"nine thirty","NY60B!","546!","O","N"," "," ","ån¥«±¿n$õù³«´t±¿¾","MS",169
+"half past seven","NY61A","547","O","Y"," ","AUX","åháç$õpás$ås²«bm","MS",170
+"half past ten","NY61A","547","O","N"," "," ","åhá{²}$õpáº{²}s$åt²«n","MS",170
+"half past seven","NY61B","548","O","N"," "," ","åháº$õpáº{°}s$ås²bm","MS",171
+"half past three","NY61B","548","O","N"," ","CNV","åhá{²}$õpá{°}s$åùñiºi«","MS",171
+"half past seven","NY62A","551a","O","N"," "," ","åhá«{²}f$õpá«s$ås²«v°«n","MS",172
+"half past seven","NY62B","551b","O","N"," "," ","åháç$õpáº{°}st$ås²bm","MS",173
+"seven thirty","NY62B","551b","O","N"," "," ","ås²«bm$õù³¾´t±¿«¾","MS",173
+"half past five","NY62B","551b","O","N"," ","CNV","åháç$õpáºs$åf¥º±¿v","MS",173
+"half past five","NY62B","551b","O","N"," ","CNV","åháp$õpás$åf¥º±¿v","MS",173
+"half past seven","NY62C","551c","O","N"," "," ","åhá«±¿$õpá«s$ås²«ví","MS",174
+"half past seven","NY62C","551c","O","N"," "," ","åháºç$õpá«s$ås²«ví","MS",174
+"half past seven","NY62D!","551d!","O","N"," "," ","åháºf$õpáºst$ås²«v°«n","MS",175
+"half past seven","NY62D!","551d!","O","N"," "," ","åhá«$õpáºs$ås²«ví","MS",175
+"half past seven","NY63A","556a","O","N"," "," ","åhá«{²}f$õpá«{²}s$s²«ví","MS",176
+"seven thirty","NY63A","556a","O","N"," "," ","õs²«ví$åù³«´t±¿«¾","MS",176
+"half past seven","NY63B","556b","O","N"," "," ","åhá«{²}$õpá«{²}s$ås²«bm","MS",177
+"quarter after","NY63B","556b","O","Y"," ","INA","kw·«´t´$õá«{²}ft´","MS",177
+"half past seven","NY63C","556c","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²ví","MS",178
+"half past seven","NY63D!","556d!","O","N"," "," ","åhá«{²}$õpá«{²}s$ås²«v°«n","MS",179
+"seven thirty","NY64A","557a","O","N"," "," ","õs²bm$åù³«´t±«¾","MS",180
+"half past seven","NY64A","557a","O","N"," "," ","åháf$õpáº{°}s$ås²«bm","MS",180
+"half past seven","NY64B","557b","O","N"," "," ","åháº{Æ}$õpáº{°}st$ås²«ví","MS",181
+"half past seven","NY64C!","557c!","O","N"," "," ","åhá{°}Æ$õpá{°}s$ås²«v°«n","MS",182
+"half past seven","NJ1A","1","O","N"," "," ","há{f}$páº{°}st$s²bm","MS",183
+"half past seven","NJ1B","2","O","N"," "," ","õhá¾f$õpá¾s{t}$ås²bm","MS",184
+"half past seven","NJ2A","3(*)","O","N"," "," ","há{°}f$pá¾{°}s{t}$s²¾bm","MS",185
+"half past seven","NJ2B","4","O","N"," "," ","háº{°}$pá{°}st$s²v°n","MS",186
+"half past seven","NJ3A","5","O","N"," "," ","há{f}$páº{°}s{t}$s²bm","MS",187
+"half past seven","NJ3B","6","O","N"," "," ","háf$pá{°}s{t}$s²v°İn","MS",188
+"half past seven","NJ4A","7","O","N"," "," ","háf$páº{°}s{t}$s²v°İn","MS",189
+"half past seven","NJ4B","8","O","N"," "," ","õháº{°}$õpá{°}s{t}$ås²vn","MS",190
+"half past seven","NJ5A","9","O","N"," "," ","õhá{°}f$õpáº{°}s{t}$ås²¾bm","MS",191
+"half past seven","NJ5B","10","O","N"," "," ","háf$pá«º{°}s{t}$s²{°}v°İn","MS",192
+"half past seven","NJ6A","11","O","N"," "," ","háº{°}f$páº{°}st$s²¾v°İ{n}","MS",193
+"half past seven","NJ6B","12","O","N"," "," ","háf$páº{°}st$s²«¾vn","MS",194
+"half past seven","NJ7A","17","O","N"," "," ","há«º°f$pá«º°st$s²¾bm","MS",195
+"half past seven","NJ7B!","18!","O","N"," "," ","há¾{°}f$pá¾{°}st$s²v°İn","MS",196
+"half past seven","NJ8A","19","O","N"," "," ","há«º{°}f$pá«º{°}st$s²v°İn","MS",197
+"half past seven","NJ8B","20","O","N"," "," ","háº{°}f$páº{°}st$s²¾v°İn","MS",198
+"half past seven","NJ9A","21","O","N"," "," ","há{°}f$páº{°}st$s²ví","MS",199
+"half past seven","NJ9B","22","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",200
+"half past seven","NJ10A","24b","O","N"," "," ","háº{°}f$páº{°}st$s²¾ví","MS",201
+"half after seven","NJ10B","23","O","N"," "," ","há{°}f$áft´$s²v°İn","MS",202
+"half apast seven","NJ10B","23","O","N"," "," ","há{°}f$°pást$s²v°İn","MS",202
+"half past seven","NJ10C","24","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²ví","MS",203
+"half past seven","NJ10D!","24c!","O","N"," "," ","há{°}f$pást$s²¾v°İn","MS",204
+"half past seven","NJ11A","25","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",205
+"half past seven","NJ11B","26a","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",206
+"half past seven","NJ11C","26b","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",207
+"half past seven","NJ12A","27","O","N"," "," ","há{°}{f}$pá{°}st$s²¾v°İn","MS",208
+"half past seven","NJ12B","28","O","N"," "," ","há{°}$pá{°}st$s²ví","MS",209
+"half past seven","NJ13A","29","O","N"," "," ","há{°}$pá{°}s{t}$s²ví","MS",210
+"half past seven","NJ13B","30","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",211
+"half past seven","NJ14A","31","O","N"," "," ","há¾{°}f$pá¾{°}st$s²¾v°İn","MS",212
+"half past seven","NJ14B","32","O","N"," "," ","há{°}f$pá{°}st$s²¾v°İn","MS",213
+"half past seven","NJ15A","33","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",214
+"half past seven","NJ15B","34","O","N"," "," ","há{°}$pá{°}st$s²v°İn","MS",215
+"half past seven","NJ16A","35","O","N"," "," ","há{°}f$pá{°}st$s²¾{°}v°İn","MS",216
+"half past seven","NJ16B","36","O","N"," "," ","há{°}f$pá{°}st$s²¾v°İn","MS",217
+"half past seven","NJ17A","37","O","N"," "," ","há{°}{f}$pá¾{°}st$s²ví","MS",218
+"half past seven","NJ17B","38","O","N"," "," ","há{°}f$pá{°}st$s²¾{°}v°İn","MS",219
+"half past seven","NJ18A","41","O","N"," "," ","há½¾f$pá½¾st$s²ví","MS",220
+"half past seven","NJ18B","42","O","N"," "," ","há¾f$p{h}á¾st$s²¾v°İn","MS",221
+"half past seven","NJ18C!","43!","O","N"," "," ","há¾f$pá¾st$s²¾v°İn","MS",222
+"half past seven","NJ18D!","44!","O","N"," "," ","háºf$páºst$s²ví","MS",223
+"half past seven","NJ19A","45","O","N"," "," ","há½¾f$pást$s²¾v°İn","MS",224
+"half past seven","NJ19B!","46!","O","N"," "," ","há½¾ºf$pá½¾st$s²ví","MS",225
+"half past seven","NJ20A","47","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",226
+"half past seven","NJ20B","47b","O","N"," "," ","há{°}$páº{°}st$s²ví","MS",227
+"half past seven","NJ21A","48","O","N"," "," ","õhá{°}{f}$õpást$ås²¾v°İn","MS",228
+"half past seven","NJ21B","49","O","N"," "," ","háf$p{h}ást$s²¾v°İn","MS",229
+"half past seven","PA1A","51","O","N"," "," ","háf$pást$s²v°İn","MS",230
+"half past seven","PA1B","52","O","N"," "," ","há{°}$páº{°}st$s²v°İn","MS",231
+"half past seven","PA1C","53","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",232
+"half past seven","PA1D","54","O","N"," "," ","õháf$õpá{°}st$ås²bm","MS",233
+"half after seven","PA1E!","55!","O","N"," "," ","há¾f$á¾ft´$s²v°İn","MS",234
+"half past seven","PA1F!","56!","O","N"," "," ","åhá½¾f$õpá½¾st$s²ví","MS",235
+"half past seven","PA1G!","57!","O","N"," "," ","há{°}$pást$s²ví","MS",236
+"half past seven","PA1H!","58!","O","N"," "," ","háº{°}f$páº{°}s{t}$s²v°İn","MS",237
+"half past seven","PA2A","59","O","N"," "," ","õhá«ºf$õpáºst$ås²½¾v°İn","MS",238
+"half past seven","PA2B","60","O","N"," "," ","há{°}$pást$s²v°İn","MS",239
+"half past seven","PA3A","61","O","N"," "," ","õháf$pá«º{°}st$s²v°İn","MS",240
+"half past seven","PA3B","62","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",241
+"half past seven","PA3C","62b","O","N"," "," ","há«ºf$pá«ºst$s²v°İn","MS",242
+"half past seven","PA4A","63","O","N"," "," ","õháf$õpást$ås²bm","MS",243
+"half past seven","PA4B!","64!","O","N"," "," ","õhá{°}$õpást$ås²v°İn","MS",244
+"half past seven","PA5A","65(*)","O","N"," "," ","õháf$õpást$ås²v°İn","MS",245
+"half past seven","PA5B","65b","O","N"," "," ","õháf$õpá{°}st$ås²¾v°İn","MS",246
+"half past seven","PA5C","66","O","N"," "," ","õhá{°}$õpáºst$ås²¾{°}v°İn","MS",247
+"half past seven","PA5D","67","O","N"," "," ","há{°}f$pá¾{°}st$s²bm","MS",248
+"half past seven","PA5E!","68!","O","N"," "," ","há{f}$pá{°}s{t}$s²ví","MS",249
+"half past seven","PA6A","69","O","N"," "," ","háf$pást$s²ö°İn","MS",250
+"half past seven","PA6B","71","O","N"," "," ","õháf$õpást$ås²v°İn","MS",251
+"half past seven","PA6C","71b","O","N"," "," ","háf$pást$s²ö°İn","MS",252
+"half past seven","PA6D!","72!","O","N"," "," ","há«º{°}f$pá«º{°}s{t}$s²¾{v}°n","MS",253
+"half past seven","PA7A","73","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",254
+"half past seven","PA7B","74","O","N"," "," ","háf$páº{°}st$s²bm","MS",255
+"half past seven","PA7C","75","O","N"," "," ","háf$pást$s²ö°İn","MS",256
+"half past seven","PA7D!","76!","O","N"," "," ","õháf$õpáº{°}st$ås²v°İn","MS",257
+"half past seven","PA8A","77","O","N"," "," ","há{°}f$páº{°}s{t}$s²bm","MS",258
+"half past seven","PA8B","78","O","N"," "," ","õháº{°}f$õpáº{°}s{t}$ås²{°}v°İn","MS",259
+"half past seven","PA8C","79","O","N"," "," ","õháf$õpáº{°}st$ås²ö°İn","MS",260
+"half past seven","PA8D!","80!","O","N"," "," ","háf$páº{°}st$s²v°İn","MS",261
+"half past seven","PA9A","83","O","N"," "," ","há«f$pá«st$s²bm","MS",262
+"half past seven","PA9B","83b","O","N"," "," ","háºf$páºst$s²vn","MS",263
+"half past seven","PA9C!","84!","O","N"," "," ","háºf$páº{°}st$s²v°İn","MS",264
+"half past seven","PA10","87","O","N"," "," ","háf$páºst$s²ö°İn","MS",265
+"half past seven","PA11A","89","O","N"," "," ","háf$pá{°}st$s²v°n","MS",266
+"half past seven","PA11B","90(*)","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",267
+"half past seven","PA12A","91","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",268
+"half past seven","PA12B","92","O","N"," "," ","há{°}{f}$pá{°}st$s²bm","MS",269
+"half past seven","PA13A","93","O","N"," "," ","há{f}$pást$s²bm","MS",270
+"half past seven","PA13B","94","O","N"," "," ","há{f}$pást$s²{°}v°İn","MS",271
+"half past seven","PA14A","95(*)","O","N"," "," ","õháf$õpás{t}$ås²{°}ö°n","MS",272
+"half past seven","PA14B","96","O","N"," "," ","háf$pás{t}$s²v°İn","MS",273
+"NA","PA14C"," "," ","N"," "," "," ","MS",274
+"half past seven","PA15A","99","O","N"," "," ","õhá{°}f$õpá{°}st$ås²¾{°}v°İn","MS",275
+"half past seven","PA15B","99b","O","N"," "," ","õháf$õpást$ås²¾{°}v°İn","MS",276
+"half past seven","PA15C!","100!","O","N"," "," ","háf$pást$s²vn","MS",277
+"half past seven","PA16A","101","O","N"," "," ","há¾f$pás{t}$s²ö°İn","MS",278
+"half past seven","PA16B","102","O","N"," "," ","háf$pást$s²v°İn","MS",279
+"NA","PA16C","103"," ","N"," "," "," ","MS",280
+"half past seven","PA17A","105","O","N"," "," ","õháf$õpást$ås²ö°İn","MS",281
+"half past seven","PA17B","106","O","N"," "," ","háf$pást$s²v°İn","MS",282
+"half past seven","PA18A","107","O","N"," "," ","háf$pást$s²v°İn","MS",283
+"half past seven","PA18B!","108!","O","N"," "," ","háf$pá{°}st$s²vn","MS",284
+"half past seven","PA19A","113","O","N"," "," ","háf$páºst$s²{°}v°İn","MS",285
+"half past seven","PA19B","114","O","N"," "," ","õháf$õpást$ås²¾v°İn","MS",286
+"half past seven","PA20A","115","O","N"," "," ","háf$pást$s²v°İn","MS",287
+"half past seven","PA20B","116","O","N"," "," ","háf$pást$s²vn","MS",288
+"half past seven","PA21A","117","O","N"," "," ","háf$pás{t}$s²bm","MS",289
+"half past seven","PA21B","118","O","N"," "," ","háf$pás{t}$ås²bm","MS",290
+"NR","PA22A","119"," ","N"," "," "," ","MS",291
+"half past seven","PA22B","120","O","N"," "," ","háf$åpás{t}$s²¾{°}v°İn","MS",292
+"half past seven","PA23A","121","O","N"," "," ","õháf$õpást$ås²v°İn","MS",293
+"half past seven","PA23B","122","O","N"," "," ","háf$pás{t}$ås²¾v°İn","MS",294
+"half past seven","PA24A","123","O","N"," "," ","háf$pás{t}$ås²½¾{°}v°n","MS",295
+"half past seven","PA24B","124","O","N"," "," ","háf$pást$s²v°İn","MS",296
+"half past seven","PA25A","125","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",297
+"half past seven","PA25B","126","O","N"," "," ","háf$pás{t}$s²v°İn","MS",298
+"half past seven","PA26A","127","O","N"," "," ","háf$pást$s²¾bm","MS",299
+"half past seven","PA26B","128","O","N"," "," ","õháf$õpást$ås²bm","MS",300
+"half past seven","PA27A","131","O","Y"," ","AUX","háf$pást$s²v°İn","MS",301
+"half past seven","PA27B","132","O","N"," "," ","õháf$õpá{°}s{t}$ås²v°İn","MS",302
+"half past seven","PA28A","135","O","N"," "," ","õháf$õpá{°}s{t}$ås²v°İn","MS",303
+"half past seven","PA28B!","136!","O","N"," "," ","há{f}$pást$ås²ví","MS",304
+"half past seven","PA29A","139(*)","O","N"," "," ","há{°}f$pá{°}st$ås²v°İn","MS",305
+"half past seven","PA29B","140","O","N"," "," ","õháf$õpást$ås²v°İn","MS",306
+"half past seven","PA30A","143","O","N"," "," ","õháf$õpás{t}$ås²bm","MS",307
+"half past seven","PA30B","144","O","N"," "," ","háf$pá{°}st$s²ví","MS",308
+"half past seven","PA31A","145","O","N"," "," ","õhá{°}f$õpá{°}st$ås²¾v°İn","MS",309
+"half past seven","PA31B","146","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",310
+"half past seven","PA32A","147","O","N"," "," ","háf$pá{°}s{t}$s²v°İn","MS",311
+"half past seven","PA32B","148","O","N"," "," ","háp$pá{°}st$s²{°}v°İn","MS",312
+"half past seven","PA33A","151","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",313
+"half past seven","PA33B","152","O","N"," "," ","õháf$õpá{°}st$ås²{°}v°İn","MS",314
+"half past seven","PA34A","155","O","N"," "," ","õháf$õpást$ås²¾v°İn","MS",315
+"half past seven","PA34B","156","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",316
+"NA","PA34C!","155b!"," ","N"," "," "," ","MS",317
+"half past seven","PA35A","157","O","N"," "," ","há½f$pá½{°}st$s²v°İn","MS",318
+"half past seven","PA35B","158(*)","O","N"," "," ","õháº{°}f$õpáº{°}st$ås²bm","MS",319
+"NR","PA35C"," "," ","N"," "," "," ","MS",320
+"half past seven","PA36A","159","O","N"," "," ","háf$pást$s²bm","MS",321
+"half past seven","PA36B","160","O","N"," "," ","há{f}$pá{°}st$s²bm","MS",322
+"half past seven","PA37A","161(*)","O","N"," "," ","háf$pást$s²ö°İn","MS",323
+"half past seven","PA37B","162","O","N"," "," ","háf$pást$s²ö°İn","MS",324
+"NR","PA37C"," "," ","N"," "," "," ","MS",325
+"half past seven","PA38A","163","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",326
+"half past seven","PA38B","164","O","N"," "," ","há{°}f$pá{°}st$s²bm","MS",327
+"half past seven","PA39A","165","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",328
+"half past seven","PA39B","166","O","N"," "," ","háf$pást$s²bm","MS",329
+"half past seven","PA40A","167","O","N"," "," ","õhá¾{°}f$õpá¾{°}st$ås²¾v°İn","MS",330
+"half past seven","PA40B","168","O","N"," "," ","háf$pást$s²½{°}v°İn","MS",331
+"half past seven","PA41A","171","O","N"," "," ","háf$pá{°}st$s²{°}v°İn","MS",332
+"half past seven","PA41B","172","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",333
+"half past seven","PA42A","175","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",334
+"half past seven","PA42B","176","O","N"," "," ","há«{°}f$pá{°}st$s²v°İn","MS",335
+"half past seven","PA43A","177","O","N"," "," ","há¾f$pá¾st$s²v°İn","MS",336
+"half past seven","PA43B","178","O","N"," "," ","Ëá'f$pá{°}st$s²ví","MS",337
+"half past seven","PA44A","179","O","N"," "," ","háf$pá{°}st$ås²v°İn","MS",338
+"half past seven","PA44B","180","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",339
+"half past seven","PA45A","181","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",340
+"half past seven","PA45B","182","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",341
+"half past seven","PA46A","185","O","N"," "," ","há{°}f$páº{°}st$s²¾v°İn","MS",342
+"half past seven","PA46B","186","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",343
+"half past seven","PA47A","189","O","N"," "," ","há{°}f$páº{°}st$s²v°İn","MS",344
+"half past seven","PA47B","190","O","N"," "," ","háº{°}f$páº{°}st$s²v°İn","MS",345
+"half past seven","PA48A","191","O","N"," "," ","õhá{°}f$õpá{°}st$ås²{°}v°İn","MS",346
+"half past seven","PA48B","192","O","N"," "," ","åháf$õpá{°}st$ås²ví","MS",347
+"half past seven","PA48C","193","O","N"," "," ","õhá{°}f$õpá{°}st$ås²ví","MS",348
+"half past seven","PA49A","194","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",349
+"half past seven","PA49B","195","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",350
+"NA","PA50A","196"," ","N"," "," "," ","MS",351
+"half past seven","PA50B","197","O","N"," "," ","háf$pást$s²v°n","MS",352
+"half past seven","PA50C!","198!","O","N"," "," ","há{°}f$pá{°}st$s²vn","MS",353
+"half past seven","PA51A","199","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",354
+"half past seven","PA51B","200","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",355
+"half past seven","PA52A","201","O","N"," "," ","há¾{°}f$pá¾{°}st$s²¾{°}v°İn","MS",356
+"half past seven","PA52B!","202!","O","N"," "," ","õhá{°}f$õpá{°}st$ås²¾{°}v°İn","MS",357
+"half past seven","PA53A","203","O","N"," "," ","há¾{°}f$pá¾{°}st$s²¾{°}v°İn","MS",358
+"half past seven","PA53B","204","O","N"," "," ","háf$pást$s²ví","MS",359
+"half past seven","PA54A","205","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",360
+"half past seven","PA54B","206","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",361
+"half past seven","PA55A","207","O","N"," "," ","õhá{°}f$õpást$ås²v°İn","MS",362
+"half past seven","PA55B","208","O","N"," "," ","õhá{°}$õpá{°}st$ås²¾{°}v°İn","MS",363
+"half past seven","PA56A","211(*)","O","N"," "," ","õhá{°}f$õpást$ås²{°}v°İn","MS",364
+"half past seven","PA56B","212","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",365
+"half past seven","PA57A","213","O","N"," "," ","háº{°}f$pá{°}st$s²vn","MS",366
+"half past seven","PA57B","214","O","N"," "," ","háf$pást$s²ví","MS",367
+"half past seven","PA58A","215","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",368
+"half past seven","PA58B","216","O","N"," "," ","háf$pá{°}st$s²{°}v°n","MS",369
+"half past seven","PA59A","219","O","N"," "," ","há¾{°}f$pá¾{°}st$s²¾v°n","MS",370
+"half past seven","PA59B","220","O","N"," "," ","õhá«f$õpást$ås²v°İn","MS",371
+"half past seven","PA60A","221","O","N"," "," ","háf$pá{°}st$s²¾v°İn","MS",372
+"half past seven","PA60B","222","O","N"," "," ","õháf$pá{°}st$ås²v°İn","MS",373
+"half past seven","PA61A","223","O","N"," "," ","õhá{°}f$õpá{°}st$ås²«{°}v°İn","MS",374
+"half past seven","PA61B","224","O","N"," "," ","háf$pást$s²¾v°İn","MS",375
+"half past seven","PA62A","229","O","N"," "," ","há¾f$pá{°}st$s²v°İn","MS",376
+"half past seven","PA62B","230","O","N"," "," ","háf$pá{°}st$s²ví","MS",377
+"half past seven","PA63A","231","O","N"," "," ","õhá½{°}{f}$õpá½{°}st$ås²v°İn","MS",378
+"half past seven","PA63B","232","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",379
+"half past seven","PA64A","233","O","N"," "," ","háf$pá{°}st$s²ví","MS",380
+"half past seven","PA64B","234","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",381
+"half past seven","PA65A","237","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",382
+"half past seven","PA65B","238","O","N"," "," ","há{°}f$pá{°}st$s²ví–","MS",383
+"half past seven","PA66A","239","O","N"," "," ","há¾{°}f$pá¾{°}st$s²¾v°İn","MS",384
+"half past seven","PA66B","240","O","N"," "," ","há{°}f$pá{°}st$s²¾{°}v°İn","MS",385
+"half past seven","PA67A","243","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",386
+"half past seven","PA67B","244","O","N"," "," ","õhá{°}f$õpáº{°}st$ås²¾v°İn","MS",387
+"half past seven","WV1!","88!","O","N"," "," ","há{°}{f}$páº{°«}s{t}$s²bm","MS",388
+"half past seven","WV2","89","O","N"," "," ","há{°}{f}$páº{°}s{t}$s²bm","MS",389
+"half past seven","WV3","91","O","N"," "," ","háf$pá{°}st$s²bm","MS",390
+"half after seven","WV4A","92","O","N"," "," ","háf$áft´$s²bm","MS",391
+"half after seven","WV4B","93","O","N"," "," ","háf$áft´$s²ví","MS",392
+"half past seven","WV4B","93","O","N"," "," ","háf$pá{°}s$s²ví","MS",392
+"half past seven","WV5","94","O","N"," "," ","háf$pást$s²v°İn","MS",393
+"half past seven","WV6A","95","O","N"," "," ","háº{±¿½}{f}$páº{±¿½}s{t}$s²bm","MS",394
+"half past seven","WV6B","96","O","N"," "," ","háf$pást$s²bm","MS",395
+"half past seven","WV7A","97","O","N"," "," ","háº{°«}{f}$páº{°«}$s²bm","MS",396
+"half past seven","WV7B","98","O","N"," "," ","háf$pást$s²v°İn","MS",397
+"half after seven","WV7B","98","O","N"," "," ","háf$áft´$s²v°İn","MS",397
+"half past seven","WV8A","97b","O","N"," "," ","há{°}f$pá{°«¼}st$s²ví","MS",398
+"half past seven","WV8B","98b","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",399
+"half past seven","WV9A","301","O","N"," "," ","há{°}f$páº{°«¼}st$s²ví","MS",400
+"half past seven","WV9B","302","O","N"," "," ","há{°«¼}f$páº{°«¼}st$s²ºv°İn","MS",401
+"half past seven","WV10A","303","O","N"," "," ","há{°}f$pá{°}st$s²{°}ví","MS",402
+"half past seven","WV10B","303b","O","N"," "," ","há{°}f$páº{°}st$s²ví","MS",403
+"half past seven","WV10C","304","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",404
+"half past seven","WV11A","305","O","N"," "," ","há{±¿½}f$pá{±¿½}st$s²{°}v°İn","MS",405
+"half apast seven","WV11B!","306!","O","N"," "," ","há{°}f$°pá{°}st$s²v°İn","MS",406
+"half past seven","WV12A","307","O","N"," "," ","há{°}$pá{°}st$s²ví","MS",407
+"half past seven","WV12B","308","O","N"," "," ","háºf$pást$s²v°İn","MS",408
+"half past seven","WV13A","309","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",409
+"half past seven","WV13B","310","O","N"," "," ","háf$pá{°}st$seví","MS",410
+"half past seven","WV14A","311","O","N"," "," ","há{°}f$pá{°}st$s²v°n","MS",411
+"half past seven","WV14B","312","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",412
+"half past seven","WV15A","313","O","N"," "," ","háf$pást$s²v°İn","MS",413
+"half past seven","WV15B","314","O","N"," "," ","háf$pást$s²ví","MS",414
+"half past seven","WV16A","315","O","N"," "," ","há{°}f$pá{°}st$s²vn","MS",415
+"half past seven","WV16B","316","O","N"," "," ","háº{°}f$pást$s²v°n","MS",416
+"NA","WV17A","317"," ","N"," "," "," ","MS",417
+"half past seven","WV17B","317b","O","N"," "," ","háf$pá{°}st$s²bm","MS",418
+"half past seven","WV17C","318","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",419
+"half past seven","WV18A","319","O","N"," "," ","há{°}f$páº{°}st$s²ví","MS",420
+"half past seven","WV18B","320","O","N"," "," ","õhá{°}f$õpáº{°}st$ås²v°İn","MS",421
+"half past seven","WV19A","321","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",422
+"half past seven","WV19B","322","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",423
+"half past seven","WV20A","323","O","N"," "," ","háf$pá{°}st$s²ºv°İn","MS",424
+"half past seven","WV20B","324","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",425
+"half after seven","WV21A","325","O","N"," "," ","há«¼ºf$á«¼ºf{t}´$s²ví","MS",426
+"half past seven","WV21B","326","O","N"," "," ","háf$pást$s²{°}v°İn","MS",427
+"half after seven","WV22A","327","O","N"," "," ","háf$áft´$s²v°İn","MS",428
+"half past seven","WV22B","328","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",429
+"half past seven","WV23A","331","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",430
+"half past seven","WV23B","332","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",431
+"half past seven","WV24A","335","O","N"," "," ","há{°}f$pá{°}st$s²«v°«n","MS",432
+"half past seven","WV24B","336","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",433
+"half after seven","WV25A","337","O","N"," "," ","háf$áft´$s²v°İn","MS",434
+"half past seven","WV25B","338","O","N"," "," ","há{°}f$pá{°}st$s²{°}v°İn","MS",435
+"half past seven","WV26A","339","O","N"," "," ","há{±¿½}f$páº{±¿½}st$s²ví–","MS",436
+"half past seven","WV26B","340","O","N"," "," ","há{±¿½}f$páº{±¿½}st$s²v°İn","MS",437
+"half past seven","WV27A","341","O","N"," "," ","háº{°}f$páº{°}st$s²{°}v°İn","MS",438
+"half past seven","WV27B","342","O","N"," "," ","há{°}f$páº{°}st$s²v°İn","MS",439
+"half past seven","WV28A","343","O","N"," "," ","há{±¿½}f$pá{±¿½}st$s²ºv°İn","MS",440
+"half past seven","WV28B","344","O","N"," "," ","há{°«¼}f$pá{°«¼}st$s²v°İn","MS",441
+"half past seven","WV29A","345","O","N"," "," ","há{±¿½}f$pá{±¿½}st$s²ví","MS",442
+"half past seven","WV29B","346","O","N"," "," ","há{±¿}f$pá{±¿}st$s²ví","MS",443
+"half past seven","WV30A","347","O","N"," "," ","há±¿f$pá±¿st$s²bm","MS",444
+"half past seven","WV30B","348","O","N"," "," ","há{°}f$pá{°}st$s²ºv°İn","MS",445
+"half past seven","WV31A","349","O","N"," "," ","há«º{±¿«}f$pá«º{±¿½}st$s²ví","MS",446
+"half past seven","WV31B","350","O","N"," "," ","he½±¿f$pe½±¿st$s²{°}v°İn","MS",447
+"half after seven","WV32A","353","O","N"," "," ","õhá¼º{±¿}f$åá¼º{±¿}ft´$s²v°İn","MS",448
+"half past seven","WV32B","354","O","N"," "," ","há{±¿}f$pá{±¿}st$s²v°İn","MS",449
+"half past seven","WV33A","355","O","N"," "," ","háº{°}f$páº{°}st$s²v°İn","MS",450
+"half past seven","WV33B","356","O","N"," "," ","háf$pá{°}st$s²ví","MS",451
+"half past seven","WV34A","359","O","N"," "," ","há{°}f$páº{°}st$s²v°İn","MS",452
+"half past seven","WV34B","360","O","N"," "," ","háºf$páº{°}st$s²«ví","MS",453
+"half apast seven","WV35A","361","O","N"," "," ","há«{±¿«}f$°pá{°«¼}st$ås²ví","MS",454
+"half after seven","WV35A","361","O","N"," "," ","há«{±¿«}f$åá{±¿½}ñ´$ås²ví","MS",454
+"half past seven","WV35B","362","O","N"," "," ","há{°«¼}f$pá{°«¼}st$s²º{°}v°İn","MS",455
+"half after seven","WV36A","363","O","Y","natural","OLD","há{°}f$áñ´$s²ºví","MS",456
+"half past seven","WV36A","363","O","N"," "," ","há{°}f$pá{°}st$s²ºví","MS",456
+"half past seven","WV36B","364","O","N"," "," ","há{°}f$pá{°}st$s²«º{°}v°İn","MS",457
+"half past seven","WV37A","365","O","N"," "," ","háf$pá{°}st$s²ví","MS",458
+"half past seven","WV37B!","366!","O","N"," "," ","há{°}f$pá{°}st$s²º{°}v°İn","MS",459
+"half past seven","WV38A","367","O","N"," "," ","háf$pá{°}st$s²ví","MS",460
+"half past seven","WV38B","368","O","N"," "," ","háf$pá{°}st$s²ºv°İn","MS",461
+"half past seven","WV39A","369","O","N"," "," ","õhá{°}f$õpá{°}st$ås²¾º{°}v°İn","MS",462
+"half past seven","WV39B","370","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",463
+"half past seven","WV39C!","371!","O","N"," "," ","õháf$õpá{°}st$ås²ºv°İn","MS",464
+"half past seven","WV40A","373","O","N"," "," ","há{°«¼}f$páº{°«¼}st$s²v°İn","MS",465
+"half past seven","WV40B","374","O","N"," "," ","há{°«¼}f$páº{°«¼}st$s²v°İn","MS",466
+"half after seven","WV41A","375","O","N"," "," ","háºf$áº{°«¼}ft´$s²ví","MS",467
+"half past seven","WV41B","376","O","N"," "," ","õhá{°}f$õpá{°}st$ås²v°İn","MS",468
+"half past seven","WV42A","377","O","N"," "," ","há«º{°«¼}f$pá«º{±¿½¾}st$s²ví","MS",469
+"half past seven","WV42B","378","O","N"," "," ","háf°$pá{°}st$s²ví","MS",470
+"half past seven","WV43A","381","O","N"," "," ","há{°}f$páº{°}st$s²ví","MS",471
+"half past seven","WV43B","382","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",472
+"half past seven","WV44A","383","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",473
+"half past seven","WV44B","384","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",474
+"half past seven","WV45A","385","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",475
+"half past seven","WV45B","386","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",476
+"half past seven","WV46A","387","O","N"," "," ","õháf$õpáº{°}st$ås²v°n","MS",477
+"half past seven","WV46B","388","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",478
+"half past seven","WV47A","389","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",479
+"half past seven","WV47B","390","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",480
+"half past seven","WV48A","391","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",481
+"NA","WV48B","391b"," ","N"," "," "," ","MS",482
+"NA","WV48C","392"," ","N"," "," "," ","MS",483
+"half past seven","WV48D","392b","O","N"," "," ","õháf$åpást$s²ví","MS",484
+"half past seven","WV49A","393","O","N"," "," ","õháº{°}f$õpáº{°}st$ås²ví","MS",485
+"half past seven","WV49B","394","O","N"," "," ","há{°}f$páº{°}st$s²v°İn","MS",486
+"half past seven","WV50A","395","O","N"," "," ","há{f}$pá{°}st$s²ví","MS",487
+"half past seven","WV50B","396","O","N"," "," ","háf$pá{°}st$s²v°İn","MS",488
+"half past seven","WV51A","261","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",489
+"half past seven","WV51B","262","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",490
+"half past seven","WV52A","258","O","N"," "," ","há{f}$pá{°}st$s²v°İn","MS",491
+"half past seven","WV52B","259","O","N"," "," ","há{°}{f}$pá{°}st$s²v°İn","MS",492
+"half past seven","WV52C!","260!","O","N"," "," ","õhá{°}f$õpá{°}s{t}$ås²v°İn","MS",493
+"half past seven","WV53A","257","O","N"," "," ","há{°}f$pá{°}st$s²vn","MS",494
+"NA","WV53B","257b"," ","N"," "," "," ","MS",495
+"half past seven","WV53C!","257c!","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",496
+"half past seven","WV54A","255","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",497
+"half past seven","WV54B","256","O","N"," "," ","há{°}f$pá{°}st$s²ví","MS",498
+"half past seven","DE1A","11","O","N"," "," ","háº{°}{f}$páº{°}s{t}$s²bm","MS",499
+"half past seven","DE1B","12","O","N"," "," ","háf$pás{t}$s²bm","MS",500
+"half past seven","DE1C!","13!","O","N"," "," ","há{°}{f}$pást$s²bm","MS",501
+"half past seven","DE2A","15(*)","O","N"," "," ","há{°}f$pá{°}s$s²¾{°}vn","MS",502
+"half past seven","DE2B","16","O","N"," "," ","há{f}$pás{t}$s²v°İn","MS",503
+"NA","DE2C"," "," ","N"," "," "," ","MS",504
+"half past seven","DE3A","18","O","N"," "," ","háf$páºst$s²bm","MS",505
+"half past seven","DE3B","19","O","N"," "," ","háf$páºst$s²bm","MS",506
+"half past seven","DE3C!","17!","O","N"," "," ","háº{f}$páºst$s²v°İn","MS",507
+"half past seven","DE4","20","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²bm","MS",508
+"half past seven","DE5A","21","O","N"," "," ","há¾{°}f$pá{°}s$s²bm","MS",509
+"half past seven","DE5B","22","O","N"," "," ","háf$páºs{t}$s²bm","MS",510
+"half past seven","DE6A","23","O","N"," "," ","há{°}{f}$páº{°}s{t}$s²vn","MS",511
+"half past seven","DE6B","24","O","N"," "," ","háº{°}f$páº{°}s{t}$s²v°İn","MS",512
+"half past seven","MD1A","27","O","N"," "," ","há«ºf$pá«ºs{t}$s²«bm","MS",513
+"half past seven","MD1B","28","O","N"," "," ","há{f}$pás{t}$s²v{°}n","MS",514
+"half past seven","MD2A","31a","O","N"," "," ","há{f}$pá{°}s{t}$s²bm","MS",515
+"half past seven","MD2B","32","O","N"," "," ","há{f}$páºs{t}$s²bm","MS",516
+"half past seven","MD3A","33","O","N"," "," ","há{f}$pás{t}$s²«bm","MS",517
+"half past seven","MD3B","34","O","N"," "," ","há{f}$páºs{t}$s²bm","MS",518
+"half past seven","MD4A","35b","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",519
+"half past seven","MD4B","35","O","N"," "," ","há¾{f}$pá¾ºs{t}$s²bm","MS",520
+"half past seven","MD4C","36","O","N"," "," ","háf$pá{±¿½}s{t}$s²bm","MS",521
+"half past seven","MD5A","37","O","N"," "," ","há{f}$páºs{t}$s²bm","MS",522
+"half past seven","MD5B","38","O","N"," "," ","háf$pás{t}$s²v°İn","MS",523
+"half past seven","MD6A","39(*)","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²bm","MS",524
+"half past seven","MD6B","40","O","N"," "," ","há{f}$pás{t}$s²{°}v°İn","MS",525
+"half past seven","MD7A","41","O","N"," "," ","há{°}{f}$páº{°}s{t}$s²bm","MS",526
+"half past seven","MD7B","41b","O","N"," "," ","há{f}$pást$s²bm","MS",527
+"half past seven","MD7C!","42!","O","N"," "," ","háf$pás{t}$s²{°}v°İn","MS",528
+"half past seven","MD8A","43","O","N"," "," ","háf$pást$s²bm","MS",529
+"half past seven","MD8B","44","O","N"," "," ","há¾{f}$pás{t}$s²bm","MS",530
+"half past seven","MD9N","N46","O","N"," "," ","há{°}f$pá{±¿½}s$s²bm","MS",531
+"half after seven","MD9N","N46","O","N"," "," ","há{°}f$á{±¿½}ft°$s²bm","MS",531
+"half past seven","MD9A","45","O","N"," "," ","háº{°}f$páº{°}s{t}$s²bm","MS",532
+"half past seven","MD9B","46","O","N"," "," ","háº{f}$páº{°}s{t}$s²bm","MS",533
+"half past seven","MD10A","49","O","N"," "," ","há«º{°}f$pá«º{°}s{t}$s²bm","MS",534
+"half past seven","MD10B","50","O","N"," "," ","háº{f}$páºs{t}$s²{°}v°İn","MS",535
+"half past seven","MD11","51","O","N"," "," ","háº{°«}$pá¼º{°}s$s²bm","MS",536
+"half past seven","MD12A","52","O","N"," "," ","háº{°}$páº{°}s{t}$s²v°İn","MS",537
+"half past seven","MD12B","53","O","N"," "," ","há«f$páºs{t}$s²v°İn","MS",538
+"half past seven","MD13A","54(*)","O","N"," "," ","háº{°}f$páº{°}s{t}$s²v°n","MS",539
+"half past seven","MD13B","55","O","N"," "," ","há«{f}$pá«ºs{t}$s²bm","MS",540
+"half past seven","MD13C","56","O","N"," "," ","há«f$pá«s{t}$s²bm","MS",541
+"half past seven","MD13C","56","O","N"," "," ","há«f$pá«s{t}$s²v{°}n","MS",541
+"half after seven","MD13D!","57!","O","N"," "," ","há:f$á:ft°$s²vn","MS",542
+"half past seven","MD13E!","58!","O","N"," "," ","há{f}$pá{°}s{t}$s²ví","MS",543
+"half past seven","MD13F!","59!","O","N"," "," ","háº{°}{f}$páº{°}s{t}$s²v°İn","MS",544
+"NA","MD13G"," "," ","N"," "," "," ","MS",545
+"half past seven","MD14","61(*)","O","N"," "," ","há«ºf$pá«ºst$s²«bm","MS",546
+"half past seven","MD15A","62","O","N"," "," ","háºf$páº{°}s{t}$s²«bm","MS",547
+"half past seven","MD15B","63","O","N"," "," ","há{f}$páºs{t}$s²v°İn","MS",548
+"half past seven","MD16","64","O","N"," "," ","há«f$pá«{°}s{t}$s²bm","MS",549
+"half past seven","MD17A","65","O","N"," "," ","háºf$páºst$s²bm","MS",550
+"half past seven","MD17B","66","O","N"," "," ","háºf$pá«º{°}st$s²v°İn","MS",551
+"half past seven","MD18A","67","O","N"," "," ","háº{°}{f}$páº{°«}s{t}$s²bm","MS",552
+"half past seven","MD18B","68","O","N"," "," ","háf$pást$s²bm","MS",553
+"half past seven","MD19A","69","O","N"," "," ","há«ºf$pá«ºs{t}$s²«bm","MS",554
+"half past seven","MD19B","70","O","N"," "," ","háº{f}$páºs{t}$s²«bm","MS",555
+"half past seven","MD20A","71","O","N"," "," ","há«¼ºf$pá«¼ºs$s²«ºbm","MS",556
+"half past seven","MD20B","72","O","N","second [á] pharyngealized"," ","háá«f$páá«s{t}$s²bm","MS",557
+"half past seven","MD20C!","73!","O","N"," "," ","háºf$páºs{t}$s²bm","MS",558
+"half past seven","MD21A","75","O","N"," "," ","há{f}$páºs$s²«bm","MS",559
+"half past seven","MD21B","76","O","N"," "," ","háºf$pá{°}st$s²bm","MS",560
+"NR","MD22N","N77"," ","N"," "," "," ","MS",561
+"half past seven","MD22M","N78","O","N"," "," ","háº{f}$pás$s²«ºbm","MS",562
+"half past seven","MD22A","77","O","N"," "," ","há{°}$pá{°}s$s²{b}m","MS",563
+"half after seven","MD22A","77","O","Y"," ","SUG","há{°}f$áft°$s²{b}m","MS",563
+"half past seven","MD22B","78","O","N"," "," ","háº{f}$páºs{t}$s²«ºbm","MS",564
+"half past seven","MD22C!","79!","O","N"," "," ","háf$pás{t}$s²v°İn","MS",565
+"half past seven","MD23A","80b","O","N"," "," ","háºf$páºs{t}$s²bm","MS",566
+"NR","MD23B","80a"," ","N"," "," "," ","MS",567
+"half past seven","MD23C","81","O","N"," "," ","háºf$páºs{t}$s²bm","MS",568
+"half past seven","MD24","82","O","N"," "," ","há{f}$pás$s²«¼bm","MS",569
+"half past seven","MD25","84","O","N"," "," ","háf$pás{t}$s²v°İn","MS",570
+"half after seven","MD26A","83","O","N"," "," ","há{°}f$áºft´$s²bm","MS",571
+"half past seven","MD26A","83","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",571
+"NR","MD26B","83A"," ","N"," "," "," ","MS",572
+"half past seven","MD27A","85","O","N"," "," ","háf$pás{t}$s²bm","MS",573
+"half past seven","MD27B","86","O","N"," "," ","háf$pást$s²v°İn","MS",574
+"half past seven","DC1A","99","O","N"," "," ","há{°}{f}$pá{°}s$s²bm","MS",575
+"half after seven","DC1A","99","O","Y"," ","SUG","há{°}{f}$áft°$s²bm","MS",575
+"half past seven","DC1B!","100!","O","N"," "," ","háºf$páºst$s²bm","MS",576
+"half after seven","VA1!","101!","O","N"," "," ","h¶¶—«f$¶¶—«ft°$s²«ºvn","MS",577
+"half after seven","VA2A","103","O","Y"," ","SUG/HRD","há«º{°}f$áºft°$s²bm","MS",578
+"half past seven","VA2A","103","O","N"," "," ","há«º{°}f$pá«º{°}s{t}$s²bm","MS",578
+"half past seven","VA2B","104","O","N"," "," ","háº{°}{f}$páº{°}s{t}$s²ºví","MS",579
+"half past seven","VA3A","105(*)","O","N"," "," ","há{°}$pá{°}s{t}$s²bm","MS",580
+"half past seven","VA3B","106","O","N"," "," ","há«ºf$pá«ºs{t}$s²{°}v°İn","MS",581
+"NA","VA3C"," "," ","N"," "," "," ","MS",582
+"half past seven","VA4N","N109","O","N"," "," ","háº{f}$páºs{t}$s²{b}m","MS",583
+"half past seven","VA5A","107","O","N"," "," ","háºf$pá{°}s$s²{°}bm","MS",584
+"half after seven","VA5A","107","O","Y"," ","SUG/HRD/OLD","háºf$µ«¾ft°$s²{°}bm","MS",584
+"half after seven","VA5A","107","O","Y"," ","OLD","háºf$áft°$s²{°}bm","MS",584
+"thirty to eight","VA5A","107","O","N"," "," ","õù³º{°}t±¿«$t°$åe{±¿}t","MS",584
+"half past seven","VA5B","108","O","N"," "," ","há«º{°}f$pá«º{°}s{t}$s²{°}ví","MS",585
+"half after seven","VA6A","113","O","N"," "," ","háºf$áºft°$s²bm","MS",586
+"half past seven","VA6B","114","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",587
+"half past seven","VA7A","121","O","N"," "," ","há{°}f$pás{t}$s²bm","MS",588
+"half after seven","VA7B","122","O","N"," "," ","há{°}f$áft°$s²{°}v°n","MS",589
+"half past seven","VA8A","123","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",590
+"half past seven","VA8B","124","O","N"," "," ","há{°}f$pá{°}s{t}$s²ºbm","MS",591
+"half past seven","VA8C!","125!","O","N"," "," ","hµ¾Ş—«¼f$pµ¾Ş—«¼s{t}$s²«{°}ví","MS",592
+"half past seven","VA9A","117","O","N"," "," ","há«{°«¼}f$pá«{°«¼}s{t}$s²«bm","MS",593
+"half past seven","VA9B!","118!","O","N"," "," ","há«º{±¿½}f$pá«º{±¿½}s$s²«ºbm","MS",594
+"half past seven","VA10A","127","O","N"," "," ","háº{°}f$páº{°}s$s²bm","MS",595
+"half after seven","VA10B","128","O","N"," "," ","há{±¿½}f$µŞ¼ft°$s²ví","MS",596
+"half past seven","VA10B","128","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²ví","MS",596
+"half past seven","VA11A","129","O","N"," "," ","há{°}f$pá{°}s$s²ºbm","MS",597
+"half past seven","VA11B","130","O","N"," "," ","há{°}$pá{°}s$s²ºbm","MS",598
+"half past seven","VA12N","N131","O","N"," "," ","há{°}{f}$pá{°}s$s²ºbm","MS",599
+"half past seven","VA12A","131","O","N"," "," ","háº{°}f$páº{°}s{t}$s²«ºbm","MS",600
+"half past seven","VA12B!","132!","O","N"," "," ","há{°}f$pá{°}s{t}$s²ºbm","MS",601
+"half past seven","VA13A","133","O","N"," "," ","há{°}f$pá{°}s{t}$s²ºbm","MS",602
+"half past seven","VA13B","134","O","N"," "," ","há{°«}f$pá{±¿½}s{t}$s²bm","MS",603
+"half past seven","VA14A","135","O","N"," "," ","háºf$páº{°}s$s²ví","MS",604
+"half after seven","VA14A","135","O","N"," "," ","háºf$á{±¿½}ft°$s²ví","MS",604
+"half past seven","VA14B","136","O","N"," "," ","háº{°}f$páº{°}s{t}$s²ºbm","MS",605
+"half past seven","VA14C","137","O","N"," "," ","há{°}f$pá{°}s{t}$s²v°n","MS",606
+"NR","VA15N","N139(*)"," ","N"," "," "," ","MS",607
+"half after seven","VA15A","139","O","Y"," ","SUG/OLD","hŞ¼ºf$Ş¼ºft°$s²bm","MS",608
+"half past seven","VA15A","139","O","N"," "," ","háº{°}f$páº{°«¼}s$s²bm","MS",608
+"half past seven","VA15B","140","O","N"," "," ","há{°«}$pá{±¿½}s{t}$s²«ºbm","MS",609
+"half past seven","VA16A","141","O","N"," "," ","háºf$páº{°}s{t}$s²ví","MS",610
+"half past seven","VA16B","142","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",611
+"half past seven","VA17A","143","O","N"," "," ","háº{°}f$páº{°}s$s²«ºbm","MS",612
+"half past seven","VA17B","144","O","N"," "," ","há{°}f$pá{°}s$s²{°}v°n","MS",613
+"half past seven","VA18","145","O","N"," ","CNV","hŞ¼ºf$pá{°}s{t}$s²«bm","MS",614
+"half past seven","VA18","145","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²«bm","MS",614
+"half past seven","VA19A","146","O","N"," "," ","há¾{°}f$pá¾{°}s$s²bm","MS",615
+"half past seven","VA19B","147","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²{°}v°n","MS",616
+"half past seven","VA19C!","148!","O","N"," "," ","hŞ¼ºf$pŞ¼:{°}s{t}$s²{°}bm","MS",617
+"half past seven","VA20A","149","O","N"," "," ","háº{f}$pá{°}s$s²«ºbm","MS",618
+"half past seven","VA20B","150(*)","O","N"," "," ","há{f}$pás{t}$s²bm","MS",619
+"NA","VA20C"," "," ","N"," "," "," ","MS",620
+"half past seven","VA21N","N153","O","N","[{f—}] = [{æŸf}]"," ","háº{f—}$pá«º{°}s$seºbm","MS",621
+"half past seven","VA21A","153","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",622
+"half past seven","VA21B","154","O","N"," "," ","háº{°}f$páº{°}s{t}$s²bm","MS",623
+"half past seven","VA22","155","O","N"," "," ","háºf$páº{±¿½}s$s²«¼ºbm","MS",624
+"half past seven","VA23A","156","O","N"," "," ","háº{°}f$páº{±¿½¾}s$s²bm","MS",625
+"half after seven","VA23B","157","O","Y","rare","SUG/HRD/OLD","háº{±¿½}f$¶«¼ºt°$s²«ºvn","MS",626
+"half past seven","VA23B","157","O","N"," "," ","háº{±¿½}f$páºs$s²«ºvn","MS",626
+"half past seven","VA24","159","O","N"," "," ","há{°}$pá{°}s{t}$s²ºbm","MS",627
+"half past seven","VA25","160(*)","O","N"," "," ","háİ{°}f$páİ{°}s{t}$s²bm","MS",628
+"NR","VA26A","161A"," ","N"," "," "," ","MS",629
+"half past seven","VA26B","161","O","N"," "," ","há½¾{°}f$pá½¾{°}s{t}$s²bm","MS",630
+"half past seven","VA26C","162","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²bm","MS",631
+"half past seven","VA27","163(*)","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",632
+"half past seven","VA28A","164","O","N"," "," ","háº{f}$páº{°«}s{t}$s²ºbm","MS",633
+"half past seven","VA28B","165","O","N"," "," ","háf$pá{°}s{t}$s²bm","MS",634
+"half past seven","VA29","166","O","N"," "," ","há{f}$pá{°}s{t}$s²ºbm","MS",635
+"half past seven","VA30A","167","O","N"," "," ","há{°}{f}$páº{°}s{t}$s²ºbm","MS",636
+"NR","VA30B!","167a!"," ","N"," "," "," ","MS",637
+"half after seven","VA30C!","168!","O","N","equally common [as `half past']"," ","há{±¿}f$á{±¿}ft°$s²{v}í","MS",638
+"half past seven","VA30C!","168!","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²{v}í","MS",638
+"half past seven","VA30D!","169!","O","N"," "," ","há{°}{f}$pá{°}s{t}$s²ví","MS",639
+"half past seven","VA30E!","170!","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²¾{°}ví","MS",640
+"NA","VA31A","171(*)(**)"," ","N"," "," "," ","MS",641
+"half past seven","VA31B","172","O","N"," "," ","há{°}f$pá{°}s{t}$s²ºbm","MS",642
+"half past seven","VA31C"," ","O","N"," "," ","há{°}$pá{°}s$s²ºbm","MS",643
+"half past seven","VA32!","175!","O","N"," "," ","há{°}{f}$páº{°}s{t}$s²bm","MS",644
+"half past seven","VA33A","173","O","N"," "," ","há{±¿½}f$pá{±¿½}s$s²«ºbm","MS",645
+"half past seven","VA33B","174","O","N"," "," ","há{°}f$páº{°}s{t}$s²«ºbm","MS",646
+"half after seven","VA34A","177(*)","O","Y"," ","SUG/HRD/OLD","há±¿f$á±¿ft°$s²«ºbm","MS",647
+"half past seven","VA34A","177(*)","O","N"," "," ","há±¿f$pá±¿s{t}$s²«ºbm","MS",647
+"half after seven","VA34A","177(*)","O","Y"," ","SUG/HRD/OLD","há±¿f$µ¾Ş«¼ft°$s²«ºbm","MS",647
+"half past seven","VA34B","178","O","N"," "," ","há{°}f$pá{±¿½}s$s²{°}bm","MS",648
+"half past seven","VA35A","179","O","N"," "," ","há{f}$páº{°}s{t}$s²«ºbm","MS",649
+"half past seven","VA35B","180","O","N"," "," ","há{f}$pá{±¿½}s{t}$s²«bm","MS",650
+"half past seven","VA36A","181","O","N"," "," ","háf$pá{±¿}s{t}$s²«ºbm","MS",651
+"half past seven","VA36B","182","O","N"," "," ","háf$pá{±¿}s{t}$s²bm","MS",652
+"half past seven","VA37","183","O","N"," "," ","háº{°«}f$pá{°«¼}s{t}$s²«ºbm","MS",653
+"half past seven","VA38","185","O","N"," "," ","há{±¿½}f$pá{±¿}s{t}$s²{°}{b}m","MS",654
+"half past seven","VA39!","186!","O","N"," "," ","há½¾{±¿}f$pá½¾{±¿}s{t}$s²{°}ví","MS",655
+"half past seven","VA40A","187","O","N"," "," ","há«º{°}f$pá«º{°}s$s²bm","MS",656
+"half past seven","VA40B","188","O","N"," "," ","há{°}$pá{°}s{t}$s²ºbm","MS",657
+"half past seven","VA41A","191","O","N"," "," ","há«{f}$pá«ºs{t}$s²«ºbm","MS",658
+"half past seven","VA41B","192","O","N"," "," ","háº{°}f$pá{°}s$s²bm","MS",659
+"half past seven","VA42A","193(*)(**)","O","N"," "," ","háºf$pá{°«¼}s{t}$s²«bm","MS",660
+"half past seven","VA42B","194","O","N"," "," ","háº{±¿½}f$páº{±¿½}s{t}$s²ºví","MS",661
+"half past seven","VA43N","N195","O","N"," "," ","há{æ}$páºs$seºbm","MS",662
+"half past seven","VA43A","195","O","N"," "," ","háºf$páº{°}s{t}$s²«{b}m","MS",663
+"half past seven","VA43B","196","O","N"," "," ","há«ºf$páºs{t}$s²«bm","MS",664
+"half after seven","VA44A","199","O","N"," "," ","há{±¿}f$á{±¿}ñ°$s²«ºbm","MS",665
+"half past seven","VA44B","200","O","N"," "," ","háº{°}f$páº{°}s$s²v°İn","MS",666
+"half past seven","VA45A","201","O","N"," "," ","há«{±¿½}f$pá«{±¿½}s$s²«ºbm","MS",667
+"half past seven","VA45B","202","O","N"," "," ","háf$pá{°«}s{t}$s²ºví","MS",668
+"NR","VA46N","N207"," ","N"," "," "," ","MS",669
+"half past seven","VA46A","207","O","N"," "," ","há{±¿½}f$pá{±¿½}s$s²ºbm","MS",670
+"half after seven","VA46A","207","O","Y"," ","SUG/OLD","há{±¿½}f$µ¾ºft°$s²ºbm","MS",670
+"half after seven","VA46A","207","O","Y"," ","SUG/OLD","há{±¿½}f$á{±¿}ft°$s²ºbm","MS",670
+"thirty minutes to eight","VA46A","207","O","Y"," ","SUG","õù³{°}t±¿$m±n±¿ts$t°$åçet","MS",670
+"half past seven","VA46B!","208!","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²º{°}vn","MS",671
+"half past seven","VA47","211","O","N"," "," ","háºf$páºs$s²bm","MS",672
+"half after seven","VA48A","213(*)","O","N"," "," ","há{±¿}f$áft°$s²«º{°}bm","MS",673
+"half past seven","VA48B","214","O","N"," "," ","há«{±¿}f$pá«{±¿}s{t}$s²«{°}bm","MS",674
+"half past seven","VA49A","215","O","N"," "," ","há{°}f$pá{°}s$s²«bm","MS",675
+"half past seven","VA49B","216","O","N"," "," ","há{±¿½}f$pá{±¿}s$s²ºbm","MS",676
+"half past seven","VA50A","217","O","N"," "," ","há{°}f$pá{°«}s$s²bm","MS",677
+"half past seven","VA50B","218","O","N"," "," ","háº{°}f$pá{°«¼}s{t}$seº{±¿½}bm","MS",678
+"half past seven","VA51A","219","O","N"," "," ","há{°}f$páº{°}s{t}$s²«ºbm","MS",679
+"half past seven","VA51B","220(*)","O","N"," "," ","há¾º{°}f$pá¾º{±¿½¼}s{t}$s²bm","MS",680
+"NA","VA51C"," "," ","N"," "," "," ","MS",681
+"half past seven","VA52A","224","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",682
+"half past seven","VA52B","225","O","N"," "," ","há{°}f$pá{°«}s{t}$s²bm","MS",683
+"half past seven","VA52C!","226!","O","N"," "," ","hµf$pµ«º{°}st$s²ví","MS",684
+"half past seven","VA53A","227","O","N"," "," ","há{°}f$pá{°}st$s²bm","MS",685
+"half after seven","VA53B","228","O","N"," "," ","há{²}f$á{²}ft´$s²{°}v°n","MS",686
+"half past seven","VA53B","228","O","N"," "," ","há{²}f$pá{²}s{t}$s²{°}v°n","MS",686
+"half past seven","VA54A","229","O","N"," "," ","há{±¿}f$pá{±¿½}s{t}$s²bm","MS",687
+"half past seven","VA54B","230","O","N"," "," ","há«ºf$pá«ºs{t}$s²«bm","MS",688
+"half past seven","VA55A","233(*)","O","N"," "," ","há«{±¿½}f$pá«{±¿½}s$s²bm","MS",689
+"half after seven","VA55B","234(*)","O","N"," "," ","há{±¿}f$áft´$s²ví","MS",690
+"half after seven","VA56A","237","O","N"," "," ","há«º{±¿½}f$á{±¿}ft´$s²ºbm","MS",691
+"half past seven","VA56B","238","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²bm","MS",692
+"half past seven","VA57A","239","O","N"," "," ","há{°}f$pá{°}s{t}$s²ºbm","MS",693
+"half past seven","VA57B","240","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²ºbm","MS",694
+"half after seven","VA58","241(*)","O","N"," "," ","háºf$µ¾ºft°$s²«bm","MS",695
+"half past seven","VA59N","N241","O","N"," "," ","há«º{°}f$pá«º{°}s$s²«bm","MS",696
+"half past seven","VA59A","242","O","N"," "," ","há{°}f$páº{°}s{t}$s²ºbm","MS",697
+"half past seven","VA59B!","243!","O","N"," "," ","há½¾{°}f$pá½¾{°}s{t}$s²v°n","MS",698
+"half past seven","VA60","244(*)","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²bm","MS",699
+"half past seven","VA61A","245(*)","O","N"," "," ","há{°}$pá{°}s$s²{b}m","MS",700
+"thirty minutes to eight","VA61A","245(*)","O","Y","7:05 = 55 minutes to eight (German)","OLD","õù´t±¿$m±{n}±¿ts$t°$åe½±¿t","MS",700
+"half past seven","VA61B!","246!","O","N"," "," ","há«ºf$pá«ºs{t}$s²bm","MS",701
+"NA","VA61C"," "," ","N"," "," "," ","MS",702
+"half past seven","VA62A","247(*)","O","N"," "," ","háº{°«}f$pá{±¿½}s{t}$s²«ºbm","MS",703
+"half past seven","VA62B","248","O","N"," "," ","háº{°}f$pá{°}s$s²ºbm","MS",704
+"half past seven","VA63A","251","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",705
+"half after seven","VA63B","252","O","Y"," ","SUG","há{°}f$á{°«}ft´$s²bm","MS",706
+"half past seven","VA63B","252","O","N"," "," ","há{°}f$pá{°«}st$s²bm","MS",706
+"half past seven","VA64A","255","O","N"," "," ","há±¿f$pá{±¿}s$s²«ºbm","MS",707
+"half past seven","VA64B","256","O","N"," "," ","há{°«}f$pá{°«}s{t}$s²ºbm","MS",708
+"half after seven","VA64B","256","O","N"," "," ","há{°«}f$á{°}ft°$s²ºbm","MS",708
+"NR","VA65A","257"," ","N"," "," "," ","MS",709
+"half after seven","VA65B","258","O","N"," "," ","há{±¿½}f$á{±¿½}ft´$s²ví","MS",710
+"half past seven","VA65C!","259!","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²{°}v°n","MS",711
+"half past seven","VA65C!","259!","O","N"," "," ","hµ:f$pµ:s{t}$s²{°}v°n","MS",711
+"half past seven","VA66A","261","O","N"," "," ","há{±¿½}f$pá{±¿}s{t}$s²ºbm","MS",712
+"half after seven","VA66A","261","O","Y"," ","SUG","há{±¿½}f$á{±¿}ñ°$s²ºbm","MS",712
+"half past seven","VA66B","262","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²ví","MS",713
+"half after seven","VA67A","267","O","N"," "," ","há±¿f$á±¿ft°$s²ví","MS",714
+"half past seven","VA67B","268","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²bm","MS",715
+"half after seven","VA68A","269","O","N"," "," ","há{±¿½}f$á{±¿}ft°$s²{°}ví","MS",716
+"half past seven","VA68B","270","O","N"," "," ","há{±¿½}f$pá{±¿½}s$s²ºbm","MS",717
+"half past seven","VA69A","273","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",718
+"half past seven","VA69B","274","O","N"," "," ","háº{²¼}f$pá{²¼}s$s²bm","MS",719
+"half after seven","VA70A","275","O","N"," "," ","há{±¿½}f$á{±¿½}ft´$s²{°}v°n","MS",720
+"half past seven","VA70B","276","O","N"," "," ","háº{°}f$páº{°«}s{t}$s²ºbm","MS",721
+"half after seven","VA71A","285","O","N"," "," ","há{±¿½}f$á{°«}ft°$s²bm","MS",722
+"half past seven","VA71B","286","O","N"," "," ","háº{°}f$pá{°«}s{t}$s²bm","MS",723
+"half after seven","VA72A","287","O","N"," "," ","háº{°}f$á{±¿½¾}ft°$s²ºbm","MS",724
+"half after seven","VA72B","288","O","N"," "," ","há{±¿½}f$á{±¿}ft´$s²ºbm","MS",725
+"half after seven","VA73","291","O","N"," "," ","há{°}f$á{±¿½}t´$s²bm","MS",726
+"half after seven","VA74A","293","O","N"," "," ","há{°}f$á{°}{f}t°$s²bm","MS",727
+"half after seven","VA74B!","294!","O","N"," "," ","há{°}f$á{±¿½}ft°$s²bm","MS",728
+"half past seven","VA75A","297","O","N"," "," ","há{±¿½}f$pá{°«}s{t}$s²bm","MS",729
+"half past seven","VA75B","298","O","N"," "," ","há{°}f$pá{°}s{t}$s²{°}v°n","MS",730
+"half past seven","NC1","303","O","N"," "," ","há¾{±¿}f$pá¾{±¿}s{t}$s²ºbm","MS",731
+"half after seven","NC2A","301","O","N"," "," ","há«{±¿½}f$á{±¿½}ft´$s²«ºbm","MS",732
+"half past seven","NC2A","301","O","N"," "," ","há«{±¿½}f$pá«{±¿½}s{t}$s²«ºbm","MS",732
+"half past seven","NC2B","304","O","N"," "," ","há±¿f$pá±¿s$s²ºbm","MS",733
+"half past seven","NC3A","305","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",734
+"half past seven","NC3B","306","O","N"," "," ","há{°}f$páº{°}s{t}$s²bm","MS",735
+"half after seven","NC4A","307","O","N"," "," ","há±¿f$á±¿ft°$s²bm","MS",736
+"half after seven","NC4A","307","O","N"," "," ","há±¿f$á{±¿}t°$s²bm","MS",736
+"half past seven","NC4B","308","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²«ºbm","MS",737
+"half past seven","NC5A","309","O","N"," "," ","há±¿f$pá±¿st$s²bm","MS",738
+"half past seven","NC5B","310","O","N"," "," ","há±¿f$pá±¿s{t}$s²ºbm","MS",739
+"half past seven","NC6!","311!","O","N"," "," ","há¾{±¿½}f$pá{±¿}s{t}$s²bm","MS",740
+"half after seven","NC7A","315(*)","O","N"," "," ","há±¿f$á±¿ft°$s²{°}ví","MS",741
+"half past seven","NC7A","315(*)","O","Y"," ","HRD","há±¿f$pá±¿st$s²{°}ví","MS",741
+"half past seven","NC7B","316","O","N"," "," ","há¾{±¿}f$pá¾{±¿}s$s²bm","MS",742
+"half past seven","NC8N","N317","O","N"," "," ","háº{±¿½}{Æ}$páº{±¿½}s$s²bm","MS",743
+"half past seven","NC8A","317","O","N"," "," ","há±¿f$páº±¿s{t}$s²bm","MS",744
+"half past seven","NC8B","318(*)","O","N"," "," ","há{°«}f$pá{±¿½}s{t}$s²bm","MS",745
+"half past seven","NC9A","319","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",746
+"half past seven","NC9B","320","O","N"," "," ","há{±¿«}f$pá{±¿«}s{t}$s²bm","MS",747
+"NA","NC10A","321"," ","N"," "," "," ","MS",748
+"half after seven","NC10B","323","O","N"," ","CNV","há±¿f$á±¿ft´$s²bm","MS",749
+"half past seven","NC10C","322","O","N"," "," ","há{°}f$pá{°}s{t}$s²v°İn","MS",750
+"half past seven","NC11A","325","O","N"," "," ","háº{°½}f$páº{°½}s{t}$s²bm","MS",751
+"half past seven","NC11B","326","O","N"," "," ","há{°}f$pá{°}s{t}$s²{°}vn","MS",752
+"half after seven","NC12A","327(*)","O","N"," "," ","há{±¿½}f$á{±¿}ft´$s²bm","MS",753
+"half past seven","NC12B","328","O","N"," "," ","há{±¿½}f$pá{±¿}s{t}$s²ºv°İn","MS",754
+"half past seven","NC13A","329","O","N"," "," ","há±¿f$pá±¿st$s²bm","MS",755
+"half past seven","NC13A","329","O","N"," "," ","há{°«¼}f$pá{°}s{t}$s²bm","MS",755
+"half past seven","NC13B","330(*)","O","N"," "," ","há{°«¼}$p{h}á{°«¼}s{t}$s²ºví","MS",756
+"half past seven","NC14N","N331","O","N"," "," ","há{°}{Æ}$pá{°}s{t}$s²«bm","MS",757
+"half past seven","NC14A","331","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²ºbm","MS",758
+"half after seven","NC14B","332","O","N"," "," ","háf$áft°$s²v±¿½n","MS",759
+"half after seven","NC14B","332","O","Y"," ","SUG/OLD","háf$µ¾{°}t°$s²v±¿½n","MS",759
+"half past seven","NC14B","332","O","N"," "," ","háf$pás{t}$s²v±¿½n","MS",759
+"half past seven","NC14C!","333!","O","N"," "," ","há{°«¼}f$pá{°«¼}s{t}$s²{°}v°n","MS",760
+"half after seven","NC15A","335(*)","O","N"," "," ","há{±¿½}f$á{±¿}{f}t°$s²bm","MS",761
+"half past seven","NC15B","336","O","N","cf. ""paste¢, ""asked¢"," ","há±¿f$pá±¿«s{t}$s²bm","MS",762
+"asked","NC15B","336","V","Y"," ","INA","á{°}st","MS",762
+"paste","NC15B","336","V","Y"," ","INA","p²«¾±¿«st","MS",762
+"NA","NC15C"," "," ","N"," "," "," ","MS",763
+"half past seven","NC16A","339(*)","O","N"," "," ","há«±¿«f$pá«±¿«st$s²bm","MS",764
+"half past seven","NC16B","340","O","N"," "," ","há«±¿«f$pá«±¿«st$s²bm","MS",765
+"half past seven","NC16B","340","O","N"," "," ","há{°}f$pá{±¿}s{t}$s²bm","MS",765
+"half after seven","NC17A","337","O","N"," "," ","há{±¿}f$á{±¿}{f}t°$s²bm","MS",766
+"half past seven","NC17B","338","O","N"," "," ","há{°}f$pá{°}s{t}$s²{°}vn","MS",767
+"half past seven","NC18A","341","O","N"," "," ","há«¼º{²¾}f$pá«¼º{²¾}s{t}$s²bm","MS",768
+"half after seven","NC18A","341","O","N"," "," ","há«¼º{²¾}f$á«¼º{²¾}t°$s²bm","MS",768
+"half past seven","NC18B","342","O","N"," "," ","háº{°}f$páº{°}s{t}$s²bm","MS",769
+"half after seven","NC19A","343","O","Y"," ","OLD","há{°}f$á{±¿}t´$s²bm","MS",770
+"half past seven","NC19A","343","O","Y"," ","SUG/OLD","há{±¿½}f$p{h}á{±¿}st$s²bm","MS",770
+"half past seven","NC19A","343","O","N"," "," ","há{°}f$p{h}á{°}s{t}$s²bm","MS",770
+"half past","NC19A","343","O","N"," "," ","há{±¿½}f$p{h}á{°}s{t}","MS",770
+"half past seven","NC19B","344","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²bm","MS",771
+"half past seven","NC20A","345","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",772
+"half after seven","NC20A","345","O","N"," "," ","há{°}f$áft´$s²bm","MS",772
+"half after seven","NC20B","346a","O","N"," "," ","há{°}f$á{°}ft´$s²bm","MS",773
+"half past seven","NC20C","346b","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",774
+"half past seven","NC21A","347","O","N"," "," ","háºf$pá«¼º{°}s{t}$s²bm","MS",775
+"half past seven","NC21B","348","O","N"," "," ","há±¿f$pá±¿s{t}$s²bm","MS",776
+"half past seven","NC22A","349","O","N"," "," ","há{±¿½}f$pá{±¿}s$s²{°}bm","MS",777
+"half past seven","NC22B","349b","O","N"," "," ","háº{°«¼}f$páº{°}s{t}$s²ví","MS",778
+"half past seven","NC23A","351a","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",779
+"half past seven","NC23B","351b(*)","O","N"," "," ","há«:f$pá«ºs{t}$s²{°}v°İn","MS",780
+"half past seven","NC23C!","351c!","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",781
+"NA","NC23D!","351d!"," ","N"," "," "," ","MS",782
+"half past seven","NC24N","N352","O","N"," "," ","háº{°}f$páº{°}s$s²«bm","MS",783
+"half after seven","NC24A","352a","O","N"," "," ","há½¾{°}f$áñ´$s²bm","MS",784
+"half after seven","NC24A","352a","O","N"," "," ","há½¾{°}f$áft´$s²bm","MS",784
+"half past seven","NC24B","352b","O","N"," "," ","há½¾{°}f$pá½¾{°}s{t}$s²¾{°}v°İn","MS",785
+"half after seven","NC25N","N353","O","N"," "," ","há«{±¿}f$áft°$s²{°}bm","MS",786
+"half past seven","NC25N","N353","O","N"," "," ","há«{±¿}f$pá«{±¿}s{t}$s²{°}bm","MS",786
+"forty-five minutes to eight","NC25N","N353","O","Y","common; same as 7:15","INA","f·«º{°}t±¿$fµ{²¾}v$m±¿n±¿ts$t°${ç}e«{±¿}t","MS",786
+"thirty minutes to eight","NC25N","N353","O","Y","common","SUG","åù´t±¿$m±¿n±¿ts$t°${ç}e«{±¿}t","MS",786
+"half past seven","NC25A","353","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",787
+"half past seven","NC25B","354","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",788
+"half after seven","NC25B","354","O","Y"," ","SUG/OLD","há{°}f$á{°}t°$s²bm","MS",788
+"half after seven","NC25B","354","O","N"," "," ","há{°}f$á{°}ft°$s²bm","MS",788
+"thirty minutes to eight","NC25B","354","O","Y"," ","SUG/OLD","ù³t±¿$m±n±¿ts$t°$çe«{±¿}t","MS",788
+"half past seven","NC26A","355a","O","N"," "," ","háº±¿f$páº±¿st$s²ºbm","MS",789
+"half past seven","NC26B","355b","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²ºbm","MS",790
+"half past seven","NC26C!","356!","O","N"," "," ","há{°}f$pá{°}s{t}$s²{°}{v}°İn","MS",791
+"half past seven","NC27A","357","O","N"," "," ","há¾{°}f$pá{°}s{t}$s²bm","MS",792
+"half past seven","NC27B","258","O","N"," "," ","háf$pá{°}st$s²ví","MS",793
+"half past seven","NC28A","361","O","N"," "," ","háº{±¿½}$pá{°«¼}s{t}$s²bm","MS",794
+"half past seven","NC28B","361b","O","N"," "," ","há±¿f$páº±¿st$s²bm","MS",795
+"half past seven","NC28C","362","O","N"," "," ","háº{±¿½}f$páº{±¿½}s{t}$s²{°}vn","MS",796
+"half past seven","NC29A","363(*)","O","N"," "," ","há±¿f$pá±¿s$s²bm","MS",797
+"half past seven","NC29B","364","O","N"," "," ","há{±¿}f$pá{±¿}s$s²ví","MS",798
+"half past seven","NC30A","365","O","N"," "," ","há{±¿½}f$pá{±¿}s{t}$se{±¿}bm","MS",799
+"half past seven","NC30B","366","O","N"," "," ","há{°«¼}f$pá{±¿½¾}s{t}$s²{°}v°İn","MS",800
+"half after seven","NC31A","367","O","N"," "," ","há{±¿}f$á{±¿}ft°$se{±¿}bm","MS",801
+"half past seven","NC31B","368","O","N"," "," ","háºf$páº{°}s{t}$s²º{°}v°İn","MS",802
+"half after seven","NC32A","369","O","Y"," ","SUG/OLD","há«±¿f$á«{±¿}t°$s²bm","MS",803
+"half past seven","NC32A","369","O","N"," "," ","há«±¿f$pá«±¿s{t}$s²bm","MS",803
+"half past seven","NC32B!","370!","O","N"," "," ","há{°«¼}f$pá{°}st$s²ví","MS",804
+"half after seven","NC33A","373","O","N"," "," ","há±¿«f$á±¿«ft´$s²ºbm","MS",805
+"half after seven","NC33A","373","O","Y","mother-in-law always said","OLD","há±¿«f$¶º´t`´$s²ºbm","MS",805
+"half past seven","NC33B","374","O","N"," "," ","há«{±¿}f$pá«{±¿}s{t}$s²ºbm","MS",806
+"half after seven","NC34A","375","O","N"," "," ","háº±¿«f$áº±¿ft´$s²bm","MS",807
+"half past seven","NC34B","376","O","N"," "," ","há{±¿}f$pá{±¿}s$s²ºbm","MS",808
+"half past seven","NC35A","377","O","N"," "," ","há{°}f$pá{°}s$s²bm","MS",809
+"half after seven","NC35A","377","O","Y"," ","SUG","há{°}f$á«ft°$s²bm","MS",809
+"thirty minutes to eight","NC35A","377","O","N"," "," ","ù³{°}t±¿$m±n±¿ts$t°${ç}e«ºt","MS",809
+"half past seven","NC35B","378","O","Y"," ","OLD","háº±¿f$páº±¿s{t}$s²bm","MS",810
+"half past seven","NC35B","378","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",810
+"half past seven","NC36N","N381","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",811
+"half past seven","NC36A","381","O","N"," "," ","há½¾{°}{f}$pá½¾{°}s{t}$s²bm","MS",812
+"half after seven","NC36A","381","O","N"," "," ","há½¾{°}{f}$á½¾ft°İrİ$s²bm","MS",812
+"half past seven","NC36B","382","O","N"," "," ","há«º{°}f$páº{°}s{t}$s²bm","MS",813
+"half past seven","NC37A","383","O","N"," "," ","há«{°}f$pá«º{°}s{t}$s²«bm","MS",814
+"half past seven","NC37B","384","O","N"," "," ","háº{°«¼}f$páº{°«¼}s{t}$s²ºbm","MS",815
+"half past seven","NC38N","N385","O","N"," "," ","háº{°}f$páº{°}s$s²bm","MS",816
+"NA","NC38A","385"," ","N"," "," "," ","MS",817
+"half past seven","NC38B","386","O","N"," "," ","há{±¿½}f$pá{°«¼}s{t}$s²ºbm","MS",818
+"half past seven","NC39A","389","O","N"," "," ","há{°}f$pá{°}s$s²bm","MS",819
+"half past seven","NC39B!","390!","O","N"," "," ","há{°}f$pá{°«¼}s{t}$s²ví","MS",820
+"half past seven","NC40A","391","O","N"," "," ","há±¿f$pá±¿s{t}$s²«bm","MS",821
+"half past seven","NC40B","392","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",822
+"half past seven","NC41!","393!","O","N"," "," ","háº{°}f$páº{°}s{t}$s²ví","MS",823
+"half past seven","NC42A","403","O","N"," "," ","háº{°«¼}f$páº{°}s{t}$s²bm","MS",824
+"half past seven","NC42B","404(*)","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",825
+"half past seven","NC43A","397","O","N"," "," ","há{±¿½}f$pá{±¿}st$s²bm","MS",826
+"half past seven","NC43B","398","O","N"," "," ","háº{±¿}f$páº{±¿}st$s²bm","MS",827
+"half past seven","NC44","410(*)","O","N"," "," ","há{°}f$pá{°}st$s²v°İn","MS",828
+"half past seven","NC45A","409(*)","O","N"," "," ","háf$pás{t}$s²bm","MS",829
+"NA","NC45B"," "," ","N"," "," "," ","MS",830
+"half past seven","NC46A","411","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",831
+"half past seven","NC46B","412","O","N"," "," ","há{°«¼}f$pá{°}s{t}$s²ví","MS",832
+"half past seven","NC46C!","412b!","O","N"," "," ","há{°}f$pá{°}s{t}$s²v°İn","MS",833
+"half after seven","NC47","413","O","N"," "," ","há«{±¿}f$át´$s²bm","MS",834
+"half after seven","NC48","418","O","N"," "," ","há{±¿½}f$á{±¿½}ft´$s²v°İn","MS",835
+"half past seven","NC49","421","O"," "," "," ","há{±¿½}f$pá{±¿}s{t}$s²bm","MS",836
+"half past seven","NC50A","422","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²{°}v°İn","MS",837
+"half past seven","NC50B!","423!","O","N"," "," ","há±¿f$pá±¿s{t}$s²«bm","MS",838
+"half past seven","NC51A","427","O","N"," "," ","há¾º{±¿}f$pá¾º{±¿«}s{t}$s²bm","MS",839
+"half past seven","NC51B","428","O","N"," "," ","háº{°}f$páº{°}s{t}$s²bm","MS",840
+"half past seven","NC52N","N429","O","N"," "," ","háº{±¿}f$páº{±¿}s{t}$s²bm","MS",841
+"half past seven","NC52A","429","O","N"," "," ","háº{°«¼}f$páº{°«¼}s{t}$s²bm","MS",842
+"half past seven","NC52B","430","O","N"," "," ","há«º{°«¼}f$pá«º{°}s{t}$s²«bm","MS",843
+"half past seven","NC53A","431","O","N"," "," ","háº{±¿½}f$páº{±¿½}s{t}$s²bm","MS",844
+"half past seven","NC53B","432","O","N"," "," ","háº{±¿½}f$páº{±¿½}s{t}$s²bm","MS",845
+"half after seven","NC54A","433","O","N"," "," ","há«{±¿}$á«t°$s²bm","MS",846
+"half past seven","NC54A","433","O","N"," "," ","há«{±¿}$pá«{±¿}s{t}$s²bm","MS",846
+"half past seven","NC54B","434","O","N"," "," ","há¾º±¿f$pá¾º±¿s{t}$s²bm","MS",847
+"half around on eight","NC54B","434","O","Y"," ","OLD","há¾º±¿f$°ra«º¹nd$·½·n$²«¾±¿t","MS",847
+"half around on twelve","NC54B","434","O","N","= half past eleven","CNV","há{±¿}f$°rá¹nd$·½·n$tw²{°}ì","MS",847
+"half apast seven","NC55","435","O","N"," ","SIC","há{±¿½}f$°pá{±¿½}s{t}$s²bm","MS",848
+"half past seven","NC56A","436","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²bm","MS",849
+"half past seven","NC56B!","437!","O","N"," "," ","há{°}f$pá{°}s{t}$s²º{°}v°İn","MS",850
+"half past seven","NC57A","438a","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",851
+"half past seven","NC57B","438b","O","N"," "," ","há{°}f$pá{°}s{t}$s²{°}v°İn","MS",852
+"half past seven","NC58A","439","O","N"," "," ","há±¿f$pá±¿s{t}$s²bm","MS",853
+"half past seven","NC58B","440","O","N"," "," ","há±¿f$pá±¿s{t}$s²bm","MS",854
+"half past seven","NC59","441(*)","O","Y"," ","AUX","há{±¿½}f$pá{±¿½}s{t}$s²«bm","MS",855
+"half past seven","NC60","442","O","N"," "," ","há{°}f$pá{°}s{t}$s²{°}v°İn","MS",856
+"half past seven","NC61A","443","O","N"," "," ","háº{±¿}f$pá{±¿}s{t}$s²bm","MS",857
+"half past seven","NC61B","444","O","N"," "," ","há{°}f$pá{°}s{t}$s²bm","MS",858
+"half apast seven","NC62A","447","O","N"," "," ","há±¿f$°pá±¿s{t}$s²bm","MS",859
+"half after seven","NC62A","447","O","N"," "," ","há±¿f$á{±¿½}ft‘°İr$s²bm","MS",859
+"half past seven","NC62B","448","O","N"," "," ","há±¿f$pá±¿s{t}$s²v°İn","MS",860
+"half after seven","NC63A","449","O","N"," "," ","há{±¿}f$á{°«¼}t´$s²bm","MS",861
+"half past seven","NC63B","450","O","N"," "," ","há«{±¿}f$pá«{±¿}s{t}$s²bm","MS",862
+"half after seven","NC64A","453","O","Y"," ","SUG/OLD","háº{±¿½}f$áº{±¿}ñ´$s²bm","MS",863
+"half past seven","NC64A","453","O","N"," "," ","háº{±¿½}f$páº{±¿½}s{t}$s²bm","MS",863
+"half past seven","NC64B","454","O","N"," "," ","há«±¿f$pá{°¾}s{t}$s²bm","MS",864
+"half hour till eight","NC64B","454","O","Y"," ","OLD","háº{±¿½}f$áº¹¿´$t±¿ì$eº{±¿½}t","MS",864
+"half past seven","NC65A","461","O","N"," "," ","háº{±¿½}f$páº{±¿}s{t}$s²bm","MS",865
+"half after seven","NC65B","462","O","N"," "," ","há{±¿}f$á{±¿}{t}´$s²bm","MS",866
+"half after seven","NC65B","462","O","N"," "," ","há{±¿}f$á{±¿}{f}t´$s²bm","MS",866
+"half after seven","NC66A","465","O","N"," "," ","há{°}f$á{°}ñ´$s²bm","MS",867
+"half past seven","NC66B","466","O","N"," "," ","há±¿f$pá±¿st$s²{°}v°n","MS",868
+"half past seven","NC67A","469","O","N"," "," ","háº{°«¼}f$pá{°«¼}st$s²bm","MS",869
+"half past seven","NC67B","470","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",870
+"half past seven","NC68A","473","O","N"," "," ","há±¿f$pá±¿s{t}$s²«ºbm","MS",871
+"half past seven","NC68B","474","O","N"," "," ","há±¿«f$pá±¿«s{t}$s²{°}{v}°İn","MS",872
+"half apast seven","NC69A","477","O","N"," ","SIC","há{°«}f$°pá{°«}s{t}$s²bm","MS",873
+"half past seven","NC69B","478","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²«{°}bm","MS",874
+"half past seven","NC70A","479","O","N","cf. ""half¢"," ","há±¿f$pá±¿s{t}$s²bm","MS",875
+"half","NC70A","479","N","Y"," ","INA/CNV","h²±¿f","MS",875
+"half past seven","NC70B","480","O","N"," "," ","há{±¿½}f$pá{±¿½}s{t}$s²bm","MS",876
+"half past seven","NC71A","481","O","N"," "," ","há«±¿½f$pá«{±¿½}s{t}$s²bm","MS",877
+"half past seven","NC71B","482","O","N"," "," ","há{°«¼}f$pá{°«¼}s{t}$s²{°}v°n","MS",878
+"half past seven","NC71C!","483!","O","N"," "," ","há{±¿½}f$pá{±¿}st$s²bm","MS",879
+"half after seven","NC71C!","483!","O","N"," "," ","há{±¿}f$á{±¿}t´$s²bm","MS",879
+"half past seven","NC72A","487","O","N"," "," ","há±¿f$pá±¿st$s²bm","MS",880
+"half past seven","NC72B","488","O","N"," "," ","há{°«¼}f$pá{°«¼}s{t}$s²bm","MS",881
+"half after seven","NC73A","491","O","N"," "," ","há±¿f$á±¿t´$s²bm","MS",882
+"half after seven","NC73B","492","O","N"," "," ","háf$á{±¿½}t´$s²bm","MS",883
+"half after seven","NC74A","493","O","N"," "," ","há{±¿}f$á{±¿}t´$s²bm","MS",884
+"half past seven","NC74B","494","O","N"," "," ","há±¿f$pá±¿s{t}$s²v°İn","MS",885
+"half past seven","NC75A","495","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",886
+"half past seven","NC75B","496","O","N"," "," ","há±¿f$pá±¿s{t}$s²bm","MS",887
+"half after seven","SC1A","203.1","O","N"," "," ","há½¾f$á½¾ft°$s²bm","MS",888
+"half past seven","SC1A","203.1","O","N"," "," ","há½¾f$pá½¾st$s²bm","MS",888
+"half past seven","SC1B","203.2","O","N"," "," ","há{°}f$pá{°}st$s²bm","MS",889
+"half past seven","SC2A","204.1(*)","O","N"," "," ","há«º±¿«¼f$pá«º±¿«¼s{t}$s²bm","MS",890
+"half past seven","SC2B","204.2","O","N"," "," ","há{°}f$pá{°}s{t}$s²ví","MS",891
+"NA","SC2C"," "," ","N"," "," "," ","MS",892
+"half after seven","SC3A","205.1","O","N"," "," ","há{±¿}f$á{°}t°$s²{°}bm","MS",893
+"half past seven","SC3A","205.1","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²{°}bm","MS",893
+"thirty to eight","SC3A","205.1","O","Y","often","SUG","ù´t±¿$t°İ«$eºt","MS",893
+"half","SC3B","205.2","N","Y"," ","INA/CNV","åh²º±¿f","MS",894
+"half past seven","SC3B","205.2","O","N"," "," ","åhá{²¾}$õp`á«{²}st$ås²«{°}bm","MS",894
+"quarter after","SC3B","205.2","O","Y"," ","INA","k`w·½º´t´$õá{²}ft´«¾","MS",894
+"half past seven","SC3C!","205.3!","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«{°}v°«n","MS",895
+"seven thirty","SC3C!","205.3!","O","N"," "," ","ås²«{°}v°«n$õù³«¾±¿t±¿«¼","MS",895
+"half past eleven","SC4A","206.1","O","N"," "," ","åhá{°}$p`á½{°}s$±¿ål²«{°}bm","MS",896
+"half","SC4A","206.1","N","Y"," ","INA/CNV","há{°}f","MS",896
+"half past seven","SC4B","206.2","O","N"," "," ","åhá½{°}f$õp`á½{°}s$ås²«{°}bm","MS",897
+"half past ten","SC4C","206.3","O","N"," ","CNV","åháº{°}$p`á{°}st`²«{°}n","MS",898
+"a half mile","SC5A","207.1","O","Y"," ","INA","°$åha«{°}f$õmŞº±¿l","MS",899
+"half past seven","SC5A","207.1","O","N"," "," ","åha«{°}f$õpa¾{°}s$ås²«{°}bm","MS",899
+"seven thirty","SC5A","207.1","O","N"," "," ","ås²«{°}bm$õùÀ«±¿t±¿«¼","MS",899
+"half past eleven","SC5B","207.2","O","N"," ","CNV","åhá{°}$õp`áº{°}st$±¿ål²«{°}âm","MS",900
+"half ones","SC5B","207.2","O","Y"," ","INA","åhá½{°}f±¿¼nz","MS",900
+"NR","SC5C","207.2A"," ","N"," "," "," ","MS",901
+"half past seven","SC5D!","207.3!","O","N"," "," ","åhá{°}$õp`á{°}s$ås²«bm","MS",902
+"half past ten","SC6N","N208","O","N"," "," ","åhá{°}$õp`á½{°}s$t`²«{°}n","MS",903
+"half past seven","SC6A","208.1","O","N"," "," ","há{°}f$pá{°}s$s²bm","MS",904
+"half after seven","SC6A","208.1","O","N"," "," ","há{°}f$áft°$s²bm","MS",904
+"thirty minutes to eight","SC6A","208.1","O","N"," "," ","õù³İ´t±¿«$åm±n±¿ts$t°${ç}e{±¿}t","MS",904
+"half past seven","SC6B","208.2(*)","O","N"," "," ","åha«º{°}f$õpa«{°}s$ås²«{°}bm","MS",905
+"seven thirty","SC6B","208.2(*)","O","Y"," ","NEW","ås²«{°}bm$õù³—«¾±¿t±¿«¼","MS",905
+"half past seven","SC6C!","208.3!","O","N"," "," ","åha«¾{°}f$õp`a«¾{°}s$ås²«{°}bm","MS",906
+"seven thirty","SC6C!","208.3!","O","N"," "," ","ås²«{°}bm$õù³—«¾±¿t±¿«¼","MS",906
+"NR","SC6D"," "," ","N"," "," "," ","MS",907
+"half past nine","SC7N","N209","O","N"," "," ","åha«{°}f$õp`a«{°}s$ånµ«º±¿n","MS",908
+"half past seven","SC7A","209.1","O","N"," "," ","åha«º{°}$p`á½{°}ås²«{°}bm","MS",909
+"half past seven","SC7B","209.2","O","N"," "," ","åhá{°}$õp`á{°}s$ås²«{°}bm","MS",910
+"quarter past twelve","SC7B","209.2","O","Y"," ","INA/CNV","åk`w·¾º{°}t°$õp`á½{°}s$åt`w²«º{ì}v","MS",910
+"half past one","SC7C!","209.3!","O","N"," ","CNV","åháº{°}$õp`á½{°}s$åw¸¼º{°}n","MS",911
+"half past seven","SC7D!","209.4!","O","N"," "," ","åhá½{°}$õp`á½{°}s$ås²«bm","MS",912
+"seven thirty","SC7D!","209.4!","O","N"," "," ","ås²«bm$õù³«±¿t±¿«¼","MS",912
+"half past seven","SC8A","210.1","O","N"," "," ","åhá{°}f$õpáº{°}s$ås²«{°}bm","MS",913
+"seven thirty","SC8A","210.1","O","N"," "," ","ås²«{°}bm$õù³«±¿t±¿«¼","MS",913
+"thirty minutes after seven","SC8A","210.1","O","N"," "," ","åù³«¾±¿t±¿«¾$m±n±¿¼ts$á½{°}f’t°$ås²«{°}bm","MS",913
+"half past seven","SC8B","210.2","O","N"," "," ","åhá½{°}f$õpá½{°}st$ås±½{°}v°«n","MS",914
+"seven thirty","SC8B","210.2","O","Y"," ","NEW","ås²«{°}bm$õù³«¾±¿t±¿«¼","MS",914
+"half past seven","SC8C","210.3","O","N"," "," ","åá½{°}$pá½{°}s$ås²«{°}bm","MS",915
+"half past seven","SC8C","210.3","O","N"," "," ","åhá½{°}ç$pá½{°}s$ås²«{°}bm","MS",915
+"eighteen minutes after eight","SC8C","210.3","O","Y"," ","INA/CNV","åe«º{°}õtiºn$åm±«{°}n±¿¼ts$á½{°}ft°$åeº{°}t","MS",915
+"half past seven","SC9A","211.1","O","N"," "," ","åha«{°}f$õp`a«{°}s$ås²«{°}âm","MS",916
+"seven thirty","SC9A","211.1","O","N"," "," ","ås²«{°}bm$õù³«¾±¿ñ±¿«¼","MS",916
+"half past seven","SC9B","211.2","O","N"," "," ","åhá{°}f$pá{°}s$ås²«{°}bm","MS",917
+"seven thirty","SC9B","211.2","O","N"," "," ","ås²«{°}bm$õù³¾±¿t±¿«¼","MS",917
+"half past seven","SC9C!","211.3!","O","N"," "," ","åháº{°}ç$õpá{°}s$ås²«{°}bm","MS",918
+"NR","SC9D!","211.4!"," ","N"," "," "," ","MS",919
+"half past eight","SC10A","212.1","O","N"," "," ","åhá«{°}f$õp`áº{°}st$åe«º{°}t","MS",920
+"NR","SC10B!","212.2!"," ","N"," "," "," ","MS",921
+"NR","SC10C!","212.3!"," ","N"," "," "," ","MS",922
+"half past seven","SC11N","N213","O","N"," "," ","há½¾f$pá½¾s$s²¾{°}v°n","MS",923
+"half past seven","SC11M!","2n213!","O","N"," "," ","åháf$õp`ás$ås²«v°«n","MS",924
+"seven thirty","SC11M!","2n213!","O","N"," "," ","ås²¾v°ş{n}$õù³—«¾±¿t±¿«¾","MS",924
+"seven thirty","SC11M!","2n213!","O","N"," ","CNV","ås²v°«n$õù³«±¿t±¿«¼","MS",924
+"half past eleven","SC11A","213.1(*)","O","N"," "," ","åËa«$p`a«º{°}st$°ål²bm","MS",925
+"half past seven","SC11B","213.11","O","Y","common locally, but he doesn't use it","HRD","åháº$õp`áº{°}s$ås²v°«n","MS",926
+"seven thirty","SC11B","213.11","O","N"," "," ","s²v±¿n$åù³«¾º{°}t±¿«¼","MS",926
+"half past eleven","SC11C","213.2","O","N"," "," ","åËá{ç}$õpáº{°}s$°İål²«bm","MS",927
+"eleven thirty","SC11C","213.2","O","N"," "," ","ål²bm$õù³«¾º{°}t±¿«¼","MS",927
+"half past seven","SC11D","213.3","O","N"," "," ","åháç$õp`á½s$s²«âm","MS",928
+"half","SC11D","213.3","N","Y"," ","INA/CNV","há«{°}f","MS",928
+"seven thirty","SC11D","213.3","O","N"," "," ","ås²âm$õù³«¾±¿t±¿½¼","MS",928
+"half past seven","SC11E","213.4","O","N"," ","CNV","åhá½º$õp`áº{°}s$ås²bm","MS",929
+"half past six","SC11F","213.5","O","N"," ","CNV","åháf$õp`áº{°}s$ås±«¾ks","MS",930
+"half past seven","SC11G!","213.7!","O","N"," "," ","åháf$õpás$ås²ví","MS",931
+"half past seven","SC11G!","213.7!","O","N"," "," ","åháf$õpást$ås²ºv°n","MS",931
+"seven thirty","SC11G!","213.7!","O","N"," "," ","s²v°İn$åù³«¾±¿t±¿«¼","MS",931
+"half past seven","SC11H!","213.8!","O","N"," "," ","åhá½ç$õp`Şº{°}s$ås²bm","MS",932
+"seven thirty","SC11H!","213.8!","O","N"," ","CNV","ås²âm$õù³—«¼±¿t±¿«¼","MS",932
+"half past seven","SC11I!","213.9!","O","N"," "," ","há½¾f$pá½¾s{t}$s²ví","MS",933
+"half after seven","SC11I!","213.9!","O","Y","maternal grandmother said","SUG/OLD","há½¾f$á½¾ft°$s²ví","MS",933
+"half past seven","SC11J!","213.10!","O","N"," "," ","åhá½f$õp`á½º{°}s$ås²v°«n","MS",934
+"half past","SC11J!","213.10!","O","Y","""my people didn't say¢","HRD","åhŞº{°}f$õp`Şº{°}s","MS",934
+"half past two","SC11J!","213.10!","O","N"," ","CNV","há½f$õp`á½st$åtu¿¼º{°}","MS",934
+"half past seven","SC12A","214.1","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«{°}bm","MS",935
+"half after seven","SC12B","214.2","O","Y"," ","SUG","háf$áft°$s²«{â}m","MS",936
+"half past seven","SC12B","214.2","O","N"," "," ","åháf$pá{°}s$s²«{â}m","MS",936
+"half past seven","SC13","213.6","O","N"," "," ","åhá{°}$õpá{°}s$ås²«v°«n","MS",937
+"half after seven","SC13","213.6","O","N"," "," ","åhá{°}f$õá{°}ft°$ås²«v°«n","MS",937
+"half after","SC14A","215.1","O","Y"," ","SUG","ha«¼f$a«¾ft°","MS",938
+"half past seven","SC14A","215.1","O","N"," "," ","ha«¾f$pa«¾{°}s$s²¾bm","MS",938
+"half past seven","SC14B","215.2","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«{°}v°«n","MS",939
+"half past seven","SC14B","215.2","O","N"," "," ","åhá{²}f$õp`á{²}s$ås²«{°}bm","MS",939
+"seven thirty","SC14B","215.2","O","N"," "," ","ås²«{°}v°«n$õù³«¾±¿t±¿«¼","MS",939
+"quarter past eight","SC14B","215.2","O","Y"," ","INA","åk`w·—«º°ñ°$õp`á{°}s$åeº{°}t","MS",939
+"half after nine","SC15A","216.1","O","Y","""old time people used to say¢","HRD/OLD","åhá{°}f$á{°}ft°$ånµ«º±¿n","MS",940
+"half past seven","SC15A","216.1","O","N"," "," ","åhá{°}f$õpá{°}s$s²«{°}ví","MS",940
+"half past eleven","SC15A","216.1","O","N"," "," ","åhá{°}f$õpá{°}s$±¿¼ål²«{°}ví","MS",940
+"half past seven","SC15B","216.2","O","N"," "," ","åhá{°}f$õpá{°}s$ås²«{°}âm","MS",941
+"seven thirty","SC15B","216.2","O","N"," "," ","ås²«{°}bm$õù³—«¾±¿t±¿«¼","MS",941
+"NR","SC15C","216.3"," ","N"," "," "," ","MS",942
+"half past eight","SC16N","N217","O","N"," "," ","åhá{°}$p`á{°}s$åe«º{°}t","MS",943
+"NR","SC16","217.1"," ","N"," "," "," ","MS",944
+"half hour after seven","SC17A","218.1","O","N"," "," ","åhá{°}f$õµ«ºw´$õá½{°}ft´$ås²«{°}bm","MS",945
+"seven thirty","SC17A","218.1","O","N"," "," ","ås²«{°}ví$õù³«{±¿}t±¿«¼","MS",945
+"NR","SC17B","218.2"," ","N"," "," "," ","MS",946
+"NA","SC17C","218.3"," ","N"," "," "," ","MS",947
+"half past six","SC17D","218.4","O","N"," ","CNV","åhá{°}f$õp`á{°}s$s±«{±¿}ks","MS",948
+"half past seven","SC17D","218.4","O","N"," "," ","åhá{°}$õp`á{°}s$ås²«âm","MS",948
+"half past eight","SC18N","N219","O","N"," ","CNV","ha«º{°}f$õp`a«¾º{°}s$åe«ºt","MS",949
+"half","SC18N","N219","N","Y"," ","INA/CNV","ha«{°}f","MS",949
+"half after seven","SC18A","219.1","O","N"," "," ","åhá«{°}f$õá½ft°$s²âm","MS",950
+"half past seven","SC18A","219.1","O","N","""I'd say¢"," ","åhá½{°}ç$õpá½º{°}s$s²âm","MS",950
+"seven thirty","SC18A","219.1","O","N"," "," ","ås²«âm$õù³—±¿ñ±¿«¼","MS",950
+"half past seven","SC18B","219.2","O","N"," "," ","åhá½f$õpá½sås²«v°şn","MS",951
+"half past","SC18B","219.2","O","N"," ","CNV","åháº{°}f$õp`áº{²}s","MS",951
+"half past","SC18B","219.2","O","N"," ","CNV","åháç$õpá«{°}s","MS",951
+"ten thirty","SC18C!","219.3(*)!","O","N"," ","CNV","åt`²«n$õù³—«±¿ñ±¿«¼","MS",952
+"NA","SC18D!"," "," ","N"," "," "," ","MS",953
+"NA","SC19N","N220"," ","N"," "," "," ","MS",954
+"NR","SC19A","220.1"," ","N"," "," "," ","MS",955
+"two thirty","SC19B","220.4","O","N"," "," ","åt`u¿¼º$õù³«¾{´}ñ±¿«","MS",956
+"half past one","SC19C","220.2(*)","O","N"," "," ","åhá«{²}{ç}$õp`á«{²}st$åw¸«n","MS",957
+"half","SC19C","220.2(*)","N","Y"," ","INA/CNV","há«{°}f","MS",957
+"NR","SC19D!","220.3!"," ","N"," "," "," ","MS",958
+"NR","SC19E!"," "," ","N"," "," "," ","MS",959
+"half past seven","SC20A","221.1","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«bm","MS",960
+"NR","SC20B","221.2"," ","N"," "," "," ","MS",961
+"half past twelve","SC20C","221.3","O","N"," "," ","åhá{²}$õpá{²}s$tw²«©v","MS",962
+"half past","SC20C","221.3","O","N"," "," ","åhá{²}f$õpá{²}s","MS",962
+"seven thirty","SC20C","221.3","O","N"," "," ","ås²«vm$õù³«¾±¿t±¿«¼","MS",962
+"NR","SC20D!","221.4!"," ","N"," "," "," ","MS",963
+"half past seven","SC21A","222.1","O","N"," "," ","há¾±¿«f$pá¾±¿s{t}$s²«ºbm","MS",964
+"half past seven","SC21B","222.2","O","N"," "," ","há{°}f$pá{°«¼}s{t}$s²bm","MS",965
+"NA","SC22N","N223"," ","N"," "," "," ","MS",966
+"half past seven","SC22A","223.1","O","N"," "," ","åhá{°}$õp`á{°}s$ås²«{°}bm","MS",967
+"seven thirty","SC22A","223.1","O","N"," "," ","ås²«{°}bm$õù³—«±¿t±¿«¼","MS",967
+"house","SC22A","223.1","N","Y"," ","INA/CNV","háº{°}¹z{z}","MS",967
+"NA","SC22B","223.2"," ","N"," "," "," ","MS",968
+"half after seven","SC22C!","223.3!","O","Y","""old people say¢","OLD","åhá{°}f$õá{°}ft°$s±½{°}bm","MS",969
+"half past seven","SC22C!","223.3!","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«{°}ví","MS",969
+"seven thirty","SC22C!","223.3!","O","N"," "," ","ås²«{°}bm$õù³—«¾±¿t±¿«¼","MS",969
+"half after seven","SC23A","224.1","O","N","""used to be used around here¢"," ","åhá«{°}f$õá«{°}ft°$s²«{°}bm","MS",970
+"half past seven","SC23A","224.1","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«{°}bm","MS",970
+"half past seven","SC23B","224.2","O","N"," "," ","åhá«{°}f$õp`á«{²}s$ås²«{°}bm","MS",971
+"half past seven","SC23C","224.3","O","N"," "," ","åhá½{°}$õp`á{°}s$ås²«{°}bm","MS",972
+"NA","SC23D","224.4"," ","N"," "," "," ","MS",973
+"NA","SC23E!","224.5!"," ","N"," "," "," ","MS",974
+"half past seven","SC24N","N225","O","N"," "," ","åhá{°}{ç}$p`áº{°}$ås²«{°}bm","MS",975
+"half past ten","SC24A","225.1","O","N"," "," ","åháº{°}{f}$õpást²ºn","MS",976
+"ten thirty","SC24A","225.1","O","N"," "," ","åt²ºn$õù³¾º´t±¿","MS",976
+"twenty minutes past","SC24A","225.1","O","Y"," ","INA","åtw²nt±¿$m±n±¿ts$õpás","MS",976
+"half past seven","SC24B","225.11","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«{°}bm","MS",977
+"half past ten","SC24C","225.2","O","N"," ","CNV","åhá{°}{ç}$õp`á{°}s$åt`²«º{°}n","MS",978
+"half past seven","SC24D!","225.3!","O","N"," ","CNV","åhá{°}f$õp`á{°}s$ås²«{°}bm","MS",979
+"half past seven","SC24D!","225.3!","O","N"," ","CNV","åhá{°}{ç}$õpá«{°}s$ås²«{°}bm","MS",979
+"a half","SC24D!","225.3!","O","Y"," ","INA","°åhá{°}f","MS",979
+"half after seven","SC25A","226.1","O","Y"," ","SUG/HRD/OLD","háºf$á{°}t°$ås²bm","MS",980
+"half past seven","SC25A","226.1","O","N"," "," ","õháºf$õpáº{±¿½}s$ås²bm","MS",980
+"half past seven","SC25B","226.2","O","N"," "," ","åhá«{²}$õp`á«{²}s$ås±º{°}bm","MS",981
+"half past seven","SC25C!","226.3!","O","N"," "," ","åhaİ«{f}$õpá{°}s$ås²«{°}ví","MS",982
+"seven thirty","SC25C!","226.3!","O","N"," "," ","ås²«bm$õù³«±¿t±¿","MS",982
+"half past eight","SC26A","227.1","O","N"," "," ","åhá{°}{f}$pá{°}s$åeº{°}t","MS",983
+"half past seven","SC26A","227.1","O","N","fast"," ","åhá{°}$õpá{°}s$ås²«{°}bm","MS",983
+"half after seven","SC26B!","227.2!","O","N"," "," ","åhá{²}f$õá{²}ft°$ås²«âm","MS",984
+"half past seven","SC26B!","227.2!","O","N"," "," ","åhá{²}$õpá{²}s$ås²«âm","MS",984
+"seven thirty","SC27A","228.1","O","N"," "," ","s²bm$åù³¾±¿ñ±¿","MS",985
+"ten thirty","SC27A","228.1","O","N"," "," ","t`±n$åù³İ¾´t±¿","MS",985
+"half past seven","SC27B","228.2","O","N"," "," ","åhá{°}f$õpá{°}s$ås±½{°}bm","MS",986
+"half past seven","SC28A","229.1","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«bm","MS",987
+"NR","SC28B","217.2"," ","N"," "," "," ","MS",988
+"half past seven","SC28C","229.2","O","N"," "," ","åhá{²}f$õp`á{²}s$s²«{°}bm","MS",989
+"seven thirty","SC28C","229.2","O","N"," "," ","ås²«{°}bm$õù³«¾±¿t±¿«¼","MS",989
+"half past seven","SC28D","229.3","O","N","""bull bat time¢"," ","åhá{²}$õpá{²}s$ås²«v°«n","MS",990
+"seven thirty","SC28D","229.3","O","N","""bull bat time¢"," ","ås²«v°«n$õù³«¾±¿t±¿«¼","MS",990
+"bull bat time","SC28D","229.3","O","Y"," ","INA","åb¹¼ìõbá{°}t$t`a«¾º{°}m","MS",990
+"half past seven","SC29A","230.2(*)","O","N"," "," ","å{h}á{²}f$õpá{²}s$ås²«{°}bm","MS",991
+"one thirty","SC29A","230.2(*)","O","N"," "," ","åw¦½{°}n$õù³¾º{´}t±¿«¼","MS",991
+"half past five","SC29B","230.1(*)","O","N"," ","CNV","åhá{°}f$õpá{°}s$åfa«¾º{°}v","MS",992
+"half past seven","SC29C","230.3","O","N"," "," ","åhá{²}{f}$õpá«²s$ås²«v°«n","MS",993
+"NR","SC29D"," "," ","N"," "," "," ","MS",994
+"NA","SC29E"," "," ","N"," "," "," ","MS",995
+"half past seven","SC30A","231.1","O","N"," "," ","há{°}$pá{°}s$s²bm","MS",996
+"half after seven","SC30A","231.1","O","Y","more [than `half past seven']","SUG/HRD","åhá{°}f$õát°$s²bm","MS",996
+"seven thirty","SC30B","231.2","O","N"," "," ","ås²«bm$õù³«¾±¿ñ±¿«¼","MS",997
+"half past seven","SC30B","231.2","O","N"," "," ","åhá{²}$õp`á{²}st$ås²«bm","MS",997
+"half past seven","SC30C!","231.3!","O","N"," "," ","åháº{²}$õp`á{²}s$ås²«bm","MS",998
+"half past five","SC30C!","231.3!","O","N"," ","CNV","åhá{²}{ç}$õp`á{²}s$åfa«¾º{°}v","MS",998
+"half past seven","SC31A","232.1","O","N"," "," ","åháº²$õp`áº²s$ås²«{°}bm","MS",999
+"half past eight","SC31A","232.1","O","N"," "," ","åháº²$õp`á²st$åe«º{°}t","MS",999
+"seven thirty","SC31B","232.2","O","N"," "," ","ås²«bm$õù³¾{±¿}t±¿","MS",1000
+"half past seven","SC31B","232.2","O","N"," "," ","åháº²$õpá«²s$ås²«bm","MS",1000
+"half past seven","SC32A","233.1","O","N"," "," ","åhá«{²}$õp`á«{²}st$ås²«{°}bm","MS",1001
+"half after seven","SC32A","233.1","O","N"," "," ","åhá«²f$õá«{²}ft°$ås²«{°}bm","MS",1001
+"seven thirty","SC32A","233.1","O","N"," "," ","ås²«{°}bm$õùÀ«±¿t±¿«¼","MS",1001
+"NR","SC32B","233.2"," ","N"," "," "," ","MS",1002
+"half past ten","SC32C","233.3","O","N"," "," ","åhá«²$õp`á«{²}s$t`±½{°}n","MS",1003
+"half past seven","SC32D","233.4","O","N"," "," ","åhá«{²}{ç}$õp`á«{²}s$õs²«{°}bm","MS",1004
+"half after eight","SC33A","234.1","O","N"," "," ","åhá{±¿}f$²«tt°½$e«±¿«t","MS",1005
+"half past six","SC33B","234.2","O","N"," ","CNV","åhá«²$õp`á«{²}s$ås±«{°}ks","MS",1006
+"half past six","SC34A","235.1","O","N"," "," ","åhá«²f$õp`á«²s$ås±«ks","MS",1007
+"six thirty","SC34A","235.1","O","N"," "," ","ås±«{°}ks$õù³¾±¿t±¿«¼","MS",1007
+"half past seven","SC34B","235.2","O","N"," "," ","õhá«²f$õp`á«²s$ås²«ví","MS",1008
+"seven thirty","SC34B","235.2","O","N"," "," ","ås²«ví$õù³«¾±¿t±¿«¼","MS",1008
+"half past five","SC34C","235.3","O","N"," ","CNV","åhá«{²}{f}$õp`á«²s$åfa«¾º{°}v","MS",1009
+"half past ten","SC35A","236.1","O","N"," "," ","õhá«²{ç}$õp`á«²s$t`±«{°}n","MS",1010
+"ten thirty","SC35A","236.1","O","N"," "," ","åt`²«{°}n$õù³«º{´«}t±¿«¼","MS",1010
+"NA","SC35D","236.2"," ","N"," "," "," ","MS",1011
+"seven thirty","SC35C","236.3(*)","O","N"," "," ","s²âm$åù³¾{±¿}t±¿","MS",1012
+"seven thirty","SC35C","236.3(*)","O","N"," "," ","s²bm$åù³¾{±¿}t±¿","MS",1012
+"eight thirty","SC35C","236.3(*)","O","N"," "," ","e{±¿}t$åù³¾{±¿}t±¿","MS",1012
+"half past","SC35D"," ","O","N"," ","CNV","åhá«{²}{ç}$õp`á«²s","MS",1013
+"half past six","SC35D"," ","O","N"," "," ","åhá«²{ç}$õp`á«²s$ås±«{°}ks","MS",1013
+"NR","SC35E!"," "," ","N"," "," "," ","MS",1014
+"NR","SC36A","237.1"," ","N"," "," "," ","MS",1015
+"half past seven","SC36B","237.2","O","N"," "," ","åhá²'{f}$õp`áº²s{t}$õs²«âm","MS",1016
+"seven thirty","SC36B","237.2","O","N"," "," ","ås²âm$õù´«t±¿«¼","MS",1016
+"half past seven","SC36C","237.3","O","N"," "," ","åhá²{ç}$õp`á{²}s$ås²bm","MS",1017
+"half after seven","SC36C","237.3","O","Y"," ","OLD","åhá²f$õá½ft´$ås²âm","MS",1017
+"seven thirty","SC36C","237.3","O","N","""from railroad¢"," ","ås²«bm$õù´«ºt±¿«¼","MS",1017
+"half past five","SC36D!","237.4!","O","N"," ","CNV","åhá{²}{ç}$õp`á«{²}s$åfa«¾º{°}v","MS",1018
+"eleven thirty","SC37","238","O","N"," "," ","õl²v°n$åù³¾±¿ñ±¿«¼","MS",1019
+"halfway","SC37","238","B","Y"," ","INA","åhá{f}$õweº","MS",1019
+"half past eleven","SC38N","N239","O","N"," "," ","åhá«{²}f$õp`á{²}s$l²«bm","MS",1020
+"half past six","SC38N","N239","O","N"," ","CNV","åhá{²}f$õp`á{²}s$ås±«ks","MS",1020
+"eleven thirty","SC38N","N239","O","N"," ","CNV","ål²«bm$õù³—«¾±¿t±¿","MS",1020
+"half past seven","SC38A","239.1","O","N"," "," ","åháº±¿{ç}$õp`á{²}s$ås²«bm","MS",1021
+"half past an hour","SC38A","239.1","O","N"," "," ","åháº±¿{ç}$õp`á²s$°n$åa«¾º¹İ°","MS",1021
+"half past three","SC38B","239.2","O","N"," "," ","åháº{²}$õp`á{²}s$åùò—iºj","MS",1022
+"half after three","SC38B","239.2","O","N"," "," ","åháº{²}f$õáº{²}ft°$åùò—iºj","MS",1022
+"NR","SC38C!","239.3!"," ","N"," "," "," ","MS",1023
+"half past seven","SC38D!","239.4(*)!","O","N"," "," ","åhá{²}{ç}$p`á{²}s$ås²«ví","MS",1024
+"seven thirty","SC38D!","239.4(*)!","O","N"," "," ","ås²«v°«n$õù³—«¾±¿t±¿«¼","MS",1024
+"NR","SC38E!"," "," ","N"," "," "," ","MS",1025
+"half past seven","SC39A","240.1","O","N"," "," ","åhá«²$õp`á²s$ås²«bm","MS",1026
+"ten after","SC39A","240.1","O","Y"," ","INA/CNV","åt`²«n$õá«ft°","MS",1026
+"seven thirty","SC39A","240.1","O","Y","""wouldn't say¢","HRD","s²«vn$ù³¾±¿t±¿«¼","MS",1026
+"half past seven","SC39B!","240.2!","O","N"," "," ","åháº²ç$õp`á«²s{t}$ås²«bm","MS",1027
+"seven thirty","SC39B!","240.2!","O","N"," "," ","ås²«bm$õùÀ«º±¿t±¿«¼","MS",1027
+"seven thirty","SC39B!","240.2!","O","N"," "," ","ås²«bm$õùÀ«ºt±¿«¼","MS",1027
+"half past seven","SC40A","241.1","O","N"," "," ","åhá«{f}$õpá«s$ås²«bm","MS",1028
+"seven thirty","SC40A","241.1","O","N"," "," ","ås²«bm$åù³—«º{±¿}t±¿«¼","MS",1028
+"half past seven","SC40B","241.2","O","N"," "," ","åhá«{²}$õp`á«{²}st$ås²«bm","MS",1029
+"half past seven","SC41A","242.1","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",1030
+"half after seven","SC41A","242.1","O","Y"," ","SUG/HRD","há{±¿}f$á{±¿}t´$s²bm","MS",1030
+"half past seven","SC41B","242.2","O","N"," "," ","åhá«f$õp`á«²s$ås±½âm","MS",1031
+"seven thirty","SC41B","242.2","O","N"," "," ","ås±½ví$åù¤½ºt±¿«¼","MS",1031
+"half past ten","SC42N","N243","O","N"," "," ","åhá{°}$åp`á«º²s$åt`±¼n","MS",1032
+"half past seven","SC42N","N243","O","N"," "," ","åháº$õp`á«º²sås²«bm","MS",1032
+"seven thirty","SC42N","N243","O","N"," "," ","ås²«âm$åù¤½ºt±¿«¼","MS",1032
+"half past seven","SC42N","N243","O","N"," "," ","åhá«º²«$åp`á«º²$ås²«bm","MS",1032
+"NA","SC42M"," "," ","N"," "," "," ","MS",1033
+"half past three","SC42A","243.1","O","N"," ","CNV","åhá«ºf$õp`á«ºs$åùñi¾ºi«¾","MS",1034
+"half past seven","SC42A","243.1","O","N"," "," ","åhá«º{f}$õpá«º{°}sås²bm","MS",1034
+"seven thirty","SC42A","243.1","O","N"," "," ","ås²«âm$õù²½º{±¿}t±¿«¼","MS",1034
+"seven thirty","SC42B!","243.2!","O","N"," ","CNV","õs²«bm$åù³—«º{±¿}t±¿«¼","MS",1035
+"seven thirty","SC42C!","243.3!","O","N"," "," ","ås²âm$åù°«ºt±¿¼","MS",1036
+"half after seven","SC42C!","243.3!","O","Y","wouldn't use himself","HRD/HES","åhá«{²}f$åáft°$ås²v°İn","MS",1036
+"half past seven","SC42C!","243.3!","O","N"," "," ","åhá«{²}ç$pá«{²«}$ås²âm","MS",1036
+"half past seven","SC42C!","243.3!","O","N"," "," ","åhá«²$õpá«²sås²bm","MS",1036
+"NA","SC42D!","243.4!"," ","N"," "," "," ","MS",1037
+"half past seven","SC42E!","243.5!","O","N"," "," ","åhá«{²}$õpá«{²}s$ås²bm","MS",1038
+"seven thirty","SC42E!","243.5!","O","N"," "," ","õs²bm$åù³¾{°}t±¿«¼","MS",1038
+"half","SC43A","244.1","N","Y"," ","INA/CNV","h²±¿f","MS",1039
+"half past seven","SC43B","244.2","O","N"," "," ","åhá«{²}f$õp`á«º{²}s$ås²«ví","MS",1040
+"seven thirty","SC43B","244.2","O","N"," "," ","ås²«ví$åù´«ºt±¿«¼","MS",1040
+"half past seven","SC43C","244.3","O","N"," "," ","åhá«f$p`á«sõs²«bm","MS",1041
+"half past seven","SC43C","244.3","O","N"," "," ","åhá«$åpá«sås²«ví","MS",1041
+"half past seven","SC44A","245.1","O","N","""farmers¢"," ","åhá«º$õp`á«º{²}st$ås²«bm","MS",1042
+"half past seven","SC44A","245.1","O","N","""farmers¢"," ","há«º{²}$åp`á«²st$ås²«bm","MS",1042
+"seven thirty","SC44A","245.1","O","N","""railroad¢"," ","ås²«bm$åù¤½º{±¿}t±¿«¼","MS",1042
+"NR","SC44B","245.2"," ","N"," "," "," ","MS",1043
+"seven thirty","GA1N","N246","O","N"," "," ","õs²v°n$åù³¾{´}t±¿","MS",1044
+"NR","GA1A","246.1(*)"," ","N"," "," "," ","MS",1045
+"half past nine","GA1B","246.11","O","N"," "," ","åhá«{°}$õpá«st$åna¾º{°}n","MS",1046
+"on the half hour","GA1B","246.11","Q","N"," "," ","·ºn$ä°$åháf$õa«¹°","MS",1046
+"two thirty","GA1C","246.2","O","N"," "," ","åt`u¿º$õù³¾±¿t±¿«¼","MS",1047
+"half past five","GA1D","246.3","O","N"," "," ","åhá{°}f$õp`á{°}s$åfµ¼º±¿v","MS",1048
+"half past seven","GA1E","246.4","O","N"," "," ","åhá{°}f$õp`á{°}s$ås²«v°«n","MS",1049
+"half after seven","GA1F!","246.5!","O","Y","aunt said","SUG/HRD","há½¾f$á½¾ft°$s²½{°}v°n","MS",1050
+"half past seven","GA1F!","246.5!","O","N"," "," ","há½¾f$pá½¾{°}s{t}$s²½{°}v°n","MS",1050
+"NR","GA1G!","246.6!"," ","N"," "," "," ","MS",1051
+"half past one","GA1H!","246.7!","O","N"," ","CNV","åhá«ºf$õp`á«º{°}st$åw¸n","MS",1052
+"half past seven","GA1H!","246.7!","O","N"," ","CNV","åhá«º$õp`á«ºs$ås²âm","MS",1052
+"NR","GA2N","N247"," ","N"," "," "," ","MS",1053
+"half past seven","GA2A","247.1","O","N"," "," ","åha«º{°}{ç}$õp`a«º{°}{ç}$ås²«{°}v°«n","MS",1054
+"half past seven","GA2B","247.2","O","N"," "," ","åhá{²¾}$õpáº{°}s$ås²bm","MS",1055
+"half past seven","GA3A","248.1","O","N"," "," ","hµ«¼{°}f$pµ«¼º{°}s$s²{b}m","MS",1056
+"half after seven","GA3A","248.1","O","Y"," ","SUG/HRD","hµ«¼{°}f$µ«¼ft°$s²{b}m","MS",1056
+"half past seven","GA3B","248.2","O","N"," "," ","åhá{²}$õpá{²}s$ås²ºbm","MS",1057
+"half past seven","GA4N","N249","O","N"," "," ","ha¾º{°}f$pa¾{°}s$s²bm","MS",1058
+"half past seven","GA4A","249.1","O","N"," "," ","åhá½{°}f$õpá½{°}s$ås²«v°«n","MS",1059
+"half after seven","GA4A","249.1","O","Y","""sometimes¢","HRD","åhá½{°}f$õá½{°}ft°$ås²«v°«n","MS",1059
+"NR","GA4B","249.2"," ","N"," "," "," ","MS",1060
+"half past seven","GA4C!","249.3!","O","Y","[{f}]: doubtful","FDT","åhá½{°}{f}$õpá½{°}st$ås²«ví","MS",1061
+"half past seven","GA5A","250.1","O","N","slower"," ","åhá½{°}f$õpá½{°}st$ås²«v°«n","MS",1062
+"half past seven","GA5A","250.1","O","N"," "," ","há½{°}{f}$õpá½{°}s$ås²«v°«n","MS",1062
+"half","GA5A","250.1","N","Y"," ","HRD/INA","á½{°}f","MS",1062
+"half after seven","GA5A","250.1","O","N"," "," ","åhá½{°}f$õá½{°}ft°$ås²«âm","MS",1062
+"NR","GA5B","250.2"," ","N"," "," "," ","MS",1063
+"half past seven","GA5C","250.3","O","N"," "," ","å{h}á½{°}$õpá½{°}s$ås²«¼{°}bm","MS",1064
+"half past seven","GA5C","250.3","O","N"," "," ","å{h}á½{°}{f}$õpá½{°}s$ås²«{°}bm","MS",1064
+"NR","GA5D!","250.4!"," ","N"," "," "," ","MS",1065
+"half past seven","GA5E!","250.5!","O","N"," "," ","åhá{°}f$õpá{°}s$ås²«¾{°}bm","MS",1066
+"half past seven","GA6A","251.1","O","N"," "," ","åhá½{°}f$õpá½{°}s$ås²«âm","MS",1067
+"half past seven","GA6B!","251.2!","O","Y","nowadays","NEW","åhá{°}f$õpá{°}s$ås²bm","MS",1068
+"half after seven","GA6B!","251.2!","O","N"," "," ","há{°}f$õá{°}ft°$ås²«{°}v°«n","MS",1068
+"half after seven","GA6B!","251.2!","O","N"," "," ","há{°}f$õá{°}ft°$ås²«{°}ví","MS",1068
+"half after seven","GA7","256","O","N"," "," ","åhá{°}f$õá{°}ft°$ås²«{°}bm","MS",1069
+"seven thirty","GA8A","257.1","O","N"," "," ","ås²«{°}bm$õù³¾º{´}t±¿«¼","MS",1070
+"half past seven","GA8A","257.1","O","N"," "," ","åha«{°}$õpa«{°}s$ås²«{°}bm","MS",1070
+"half past seven","GA8B","257.2","O","N"," "," ","åháº{°}f$õpá{°}s$ås²«ví","MS",1071
+"half past four","GA9A","257A.1","O","N"," "," ","åhá«ºf$õpá«st$åfoº´","MS",1072
+"NR","GA9B","257A.2"," ","N"," "," "," ","MS",1073
+"half after","GA10A","258.1","O","Y"," ","SUG/HRD/OLD","háf$åá{±¿½}t´","MS",1074
+"half past seven","GA10A","258.1","O","N"," "," ","õháº{°}f$pá{°}s{t}$ås²bm","MS",1074
+"half past seven","GA10B","258.2","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«{°}bm","MS",1075
+"seven thirty","GA11N","N258A","O","N"," "," ","s²v°n$åù{³}´t±¿","MS",1076
+"half past five","GA12A","259.1","O","N"," "," ","åhá«{²¾}$p`á²s$åfa¾º{°}v","MS",1077
+"half past seven","GA12B!","259.2(.3)","O","N"," "," ","åhá{°}$õpá{²}st$ås²v±¿n","MS",1078
+"half past seven","GA12B!","259.2(.3)","O","N"," "," ","há{°}$õpá{²}st$ås²bm","MS",1078
+"seven thirty","GA12B!","259.2(.3)","O","N"," "," ","s²vn$åù³¾´t±¿«","MS",1078
+"half past coffee time","GA12B!","259.2(.3)","O","Y"," ","INA","åhá«{²}$õpá«s$åk·½{·}f±¿$õt`a«¾º{°}m","MS",1078
+"half past seven","GA13A","260.1","O","N"," "," ","õhá½¾f$pá½¾{°}s{t}$ås²¾bm","MS",1079
+"half after seven","GA13A","260.1","O","Y"," ","SUG/HRD/OLD","há½¾f$á¾{°}ft°$s²¾bm","MS",1079
+"half past seven","GA13B!","260.2!","O","N"," "," ","åhá{°}f$õpá{°}s$ås²«{°}bm","MS",1080
+"seven thirty","GA13B!","260.2!","O","N"," "," ","ås²«bm$õùÀ«±¿t±¿«¼","MS",1080
+"ten minutes after half past eleven","GA13B!","260.2!","O","Y"," ","INA/RN1","åt²«{°}n$õm±«{°}n±¿ts$õá{°}ft°","MS",1080
+" ","GA13B!","260.2!"," "," "," ","RN2","åhá{°}'f$pá{°}st$±¿¼ål²«{°}bm","MS",1080
+"half past seven","GA14A","261.1","O","N"," "," ","åhá{²¾}$õp`á{²}s$ås²«bm","MS",1081
+"half past eight","GA14B","261.3","O","N"," "," ","åhá{²¾}$õp`á{²}st$åeº{±¿}t","MS",1082
+"half past seven","GA14B","261.3","O","N"," "," ","há{²¾}$õp`á{²}s$ås²«bm","MS",1082
+"half past seven","GA14C","261.2","O","N"," "," ","åhá{°}f$õp`á{°}st$ås²«º{°}v°«n","MS",1083
+"half past seven","GA15A","262.1","O","N"," "," ","háºf$páºs$s²bm","MS",1084
+"half past seven","GA15B","262.2","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«{°}bm","MS",1085
+"half past seven","GA16A","263.2","O","N"," "," ","åhá«º²$õp`á«²s$ås²«v°«n","MS",1086
+"seven thirty","GA16A","263.2","O","N"," "," ","ås²«v°«n$õù³«¾±¿t±¿«¼","MS",1086
+"half past seven","GA16B","263.1","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«{°}bm","MS",1087
+"half past seven","GA16C","263.21","O","N"," "," ","åháº{²}$õpá«{²}s{t}$ås²v°«n","MS",1088
+"half past seven","GA16D!","263.3!","O","N"," "," ","åhá{²}$õp`á{²}s$ås²º{°}bm","MS",1089
+"ten thirty","GA17N","N264","O","N"," "," ","åt`±½n$õù³¾±¿t±¿","MS",1090
+"eleven thirty","GA17","264","O","N"," "," ","õll²ví$åù³«{±¿}t±¿«¼","MS",1091
+"seven thirty","GA18A","264A.1","O","N"," "," ","õs²bm$åù³¾´t±¿","MS",1092
+"half after seven","GA18B","264A.2","O","N"," "," ","åhá«{²}f$õá«{²}ft°$ås²v°«n","MS",1093
+"seven thirty","GA18B","264A.2","O","N"," "," ","õs²v°n$åù³¾´t±¿","MS",1093
+"seven thirty","GA19A","265.1","O","Y"," ","AUX2","ås²«{°}bm$ù³¾º{´}t±¿«¼","MS",1094
+"thirty minutes after","GA19A","265.1","O","Y"," ","AUX2","åù³«¾º{´}t±¿«¼$õm±«{°}n±¿ts$åá{²}ft°","MS",1094
+"half after seven","GA19A","265.1","O","N"," "," ","åhá«²f$õá{²}ft°«¾$ås²«{°}bm","MS",1094
+"half after eight","GA19B","265.2","O","N"," "," ","åhá{°}f$õáº{°}ft´$åeº±¾t","MS",1095
+"half after eight","GA19B","265.2","O","N"," ","CNV","åhá«²$á«{´}t´«¾$åeº±¾t","MS",1095
+"half past seven","GA20A","266.1","O","N"," "," ","åhá{°}f$õpá{°}s$ås²«{°}bm","MS",1096
+"NR","GA20B","266.2"," ","N"," "," "," ","MS",1097
+"half past seven","GA21A","267.1","O","N"," "," ","åhá{²}$õpá{²}s$ås²v±¿n","MS",1098
+"seven thirty","GA21A","267.1","O","N"," "," ","s²vn$ù³¾{´}t±¿«","MS",1098
+"NR","GA21B","267.2"," ","N"," "," "," ","MS",1099
+"nine thirty","GA22A","268A.1","O","N"," "," ","na«¾º{°}n$åù³±¿ñ±¿«¼¾","MS",1100
+"half past seven","GA22B","268A.2","O","N"," "," ","åhá«{²}$pá«{²}s$ås±½{°}bm","MS",1101
+"half past seven","GA22B","268A.2","O","N"," "," ","åhá{²}f$õpá{²}s$ås±½{°}bm","MS",1101
+"half past ten","GA23A","268.1","O","N"," "," ","åhá{²}$õpá«{²}s$åt²«{°}n","MS",1102
+"NR","GA23B","268.11"," ","N"," "," "," ","MS",1103
+"ten thirty","GA23C","268.2","O","N"," "," ","åt`±n$õù³¾´t±¿","MS",1104
+"half past seven","GA23D!","268.3","O","N"," ","CNV","åhá{°}f$õpá{°}s$ås²«{°}ví","MS",1105
+"ten thirty","GA23E!","268.4!","O","N"," "," ","åt²n$õù³«±¿t±¿","MS",1106
+"half","GA23E!","268.4!","N","Y"," ","INA/CNV","há«{²}f","MS",1106
+"seven thirty","GA23F!","268.5!","O","N"," "," ","õs²bm$åù³¾´t±¿","MS",1107
+"six thirty","GA24N","N269","O","Y","[{s}]: doubtful","DDT","ås±k{s}$õù³¾±¿t±¿","MS",1108
+"half past seven","GA24A","269.1","O","N"," "," ","há±¿f$pá±¿s$s²bm","MS",1109
+"half past seven","GA24B","269.2","O","N"," "," ","åhá«²$õp`áº²s$ås²bm","MS",1110
+"seven thirty","GA24B","269.2","O","N"," "," ","ås²«bm$õù³—«±¿t±¿«¼","MS",1110
+"half past eight","GA25N","N269A","O","N"," "," ","åhá{²}f$õpá«{²}st$åe{±¿}t","MS",1111
+"ten thirty","GA25N","N269A","O","N"," "," ","åt±º{°}n$õù³¾´t±¿","MS",1111
+"eight thirty","GA25N","N269A","O","N"," "," ","åe{±¿}t$õù³¾±¿t±¿","MS",1111
+"seven thirty","GA26","270A","O","N"," "," ","s²bm$ù³¾±¿t±¿","MS",1112
+"half past seven","GA26","270A","O","N"," "," ","åhá«{²}f$õpá«{²}st$ås²v°«n","MS",1112
+"seven thirty","GA26","270A","O","N"," "," ","s²v°½n$åù³¾±¿t±¿","MS",1112
+"half past eleven","GA27!","270!","O","N"," "," ","åhá{²}$õpá{²}st$°ål²v°n","MS",1113
+"half moon","GA27!","270!","O","Y"," ","INA","åhá{°}f$õmu¿ºn","MS",1113
+"eleven fourteen","GA27!","270!","O","Y"," ","INA","l²v°n$åfo½°tiºn","MS",1113
+"eleven thirty","GA27!","270!","O","N"," "," ","l²v±¿n$ù³{±¿}t±¿","MS",1113
+"half past five","GA28","271a","O","N"," "," ","åháº{°}$õpá«s$åfa«¾±¿v","MS",1114
+"four thirty","GA28","271a","O","N"," "," ","åfo°$ù³¾±¿t±¿","MS",1114
+"seven thirty","GA28","271a","O","N"," "," ","õs²v°«n$åù³¾±¿t±¿","MS",1114
+"half past seven","GA29A","271.1","O","N"," "," ","åhá{²}f$õp`á{²}st$ås²«v°«n","MS",1115
+"half past seven","GA29B","271.2","O","N"," "," ","åhá«²$õp`á«²s$ås²«{°}bm","MS",1116
+"half past seven","GA29B","271.2","O","N"," "," ","åhá«{²}f$õp`á«²s$ås²«{°}bm","MS",1116
+"seven thirty","GA29B","271.2","O","N"," "," ","ås²«bm$õù³¾±¿t±¿","MS",1116
+"half past four","GA30A","272.1(*)","O","N"," ","CNV","åhá«{²}{ç}$õp`á{²}s$åfo¼º¹¼","MS",1117
+"eleven thirty","GA30A","272.1(*)","O","N"," ","CNV","ål²º{°}bm$õù³«¾±¿t±¿«¼","MS",1117
+"NR","GA30B","272.2(*)"," ","N"," "," "," ","MS",1118
+"half past seven","GA30C!","272.3!","O","N"," "," ","åhá{²}f$õp`áº{²}st$ås²bm","MS",1119
+"seven thirty","GA30C!","272.3!","O","N"," "," ","õs²bm$åù³¾´t±¿«","MS",1119
+"half past ten","GA30D"," ","O","N"," ","CNV","åhá«{²}$õp`á«²st`±º{°}n","MS",1120
+"NA","GA30E"," "," ","N"," "," "," ","MS",1121
+"half past seven","GA31","272A","O","N"," "," ","åhá«{²}f$õpá«{²}st$ås²v°«n","MS",1122
+"seven thirty","GA31","272A","O","N"," "," ","s²v°«n$åù³¾´t±¿«","MS",1122
+"half past seven","GA32","272B","O","N"," "," ","åháf$pást$ås²vn","MS",1123
+"seven thirty","GA32","272B","O","N"," "," ","õs²ví$åù²¾t±¿«","MS",1123
+"seven thirty","GA33A","272C1","O","N"," "," ","õs²v°n$åù³¾{´}t±¿","MS",1124
+"seven thirty","GA33B","272C2","O","N"," "," ","õs²v°n$åù³¾{´}t±¿","MS",1125
+"NR","GA34N","N273"," ","N"," "," "," ","MS",1126
+"half past seven","GA34A","273.1","O","N"," "," ","há{±¿}f$pá{±¿}s{t}$s²bm","MS",1127
+"half after seven","GA34A","273.1","O","Y"," ","SUG/HRD","há{±¿}f$áft°$s²bm","MS",1127
+"half past eight","GA34B","273.2","O","N"," "," ","åhá{²}$õpá{²}st$åeº±¾t","MS",1128
+"eight thirty","GA34B","273.2","O","N"," "," ","åeº±¾t$õù³«±¿t±¾i¾","MS",1128
+"half past","GA35N","N273A","O","N"," ","CNV","åhá«{²}$õpá«{²}st","MS",1129
+"seven thirty","GA35N","N273A","O","N"," ","CNV","s²v±¿½n$åù³¾´t±¿","MS",1129
+"half past seven","GA36N","N274A","O","N"," "," ","åhá«{±¿}f$õpá«{²}st$ås²v°«n","MS",1130
+"NR","GA37N","2N274"," ","N"," "," "," ","MS",1131
+"ten thirty","GA37M!","NC274","O","N"," "," ","åt`±n$õù³¾±¿t±¿","MS",1132
+"half past seven","GA37A","274.1","O","N"," "," ","åhá{²}f$õp`á{²}st$ås²«{°}bm","MS",1133
+"half past seven","GA37B","274.2","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«bm","MS",1134
+"seven thirty","GA37B","274.2","O","N"," "," ","ås²«bm$õù¤½±¿t±¿","MS",1134
+"eleven thirty","GA37C","274.21","O","N"," "," ","°õl²v°n$åù³¾´t±¿","MS",1135
+"eleven fifteen","GA37C","274.21","O","Y"," ","INA","°õl²v°«n$f±¿fåti{i½}n","MS",1135
+"half past","GA37D!","274.7!","O","N"," "," ","åhá«{²}{f}$õpá«{²}st","MS",1136
+"half after","GA37D!","274.7!","O","N"," "," ","åhá«{²}f$õáft°","MS",1136
+"three thirty","GA37D!","274.7!","O","N"," "," ","õùñi{i½}$åù³—¾±¿t±¿«","MS",1136
+"eleven fifteen","GA37E!","274.8!","O","Y"," ","INA","°l²«v°«n$f±fåtiº{i½}n","MS",1137
+"eleven thirty","GA37E!","274.8!","O","N"," "," ","°õl²«v°«n$åù³¾´t±¿«","MS",1137
+"half past eleven","GA37E!","274.8!","O","N"," "," ","åhá{²}f$õpá{²}st$°ål²v°«n","MS",1137
+"quarter after","GA37E!","274.8!","O","Y"," ","INA","åkw·º°t°$õáft°","MS",1137
+"quarter after","GA37E!","274.8!","O","Y"," ","INA","åkw·º°ñ°$õáft°","MS",1137
+"NR","GA37F!","274.3!"," ","N"," "," "," ","MS",1138
+"half past seven","GA37G!","274.4!","O","N"," "," ","õháº{²}f$õp`á{²}st$ås²«v°«n","MS",1139
+"seven thirty","GA37G!","274.4!","O","N"," "," ","ås²«v°«n$õù³«±¿t±¿«¼","MS",1139
+"seven thirty","GA37H!","274.5!","O","Y"," ","NEW","ås²«{°}bm$õù³—«±¿t±¾i¾","MS",1140
+"half past seven","GA37H!","274.5!","O","N"," "," ","åhá{²}f$õp`á{²}s$ås²«{°}bm","MS",1140
+"half past seven","GA37H!","274.5!","O","N"," "," ","åhá{²}f$õp`á{²}s$ås²«bm","MS",1140
+"twelve thirty","GA37I!","274.6!","O","N"," "," ","åtw²ìv$õù³«±¿t±","MS",1141
+"seven thirty","GA38","275","O","N"," "," ","õs²bm$åù³¾´t±¿¼","MS",1142
+"hour","GA38","275","N","Y"," ","INA","á½¹´","MS",1142
+"eleven thirty","GA39","275A","O","N"," "," ","l²v°«n$åù³¾´t±¿«","MS",1143
+"half past nine","GA40","276A","O","N"," ","CNV","åhá½{±¿}f$õpá½{±¿}st$åna«¾º{°}n","MS",1144
+"nine thirty","GA40","276A","O","N"," ","CNV","õna«¾{°}n$åù³¾´t±¿«","MS",1144
+"NR","GA41","276B"," ","N"," "," "," ","MS",1145
+"half past seven","GA42A","276.1","O","N"," "," ","åhá«±¿$õp`á«±¿s$ås²«bm","MS",1146
+"a half after eleven","GA42B","276.2","O","N"," ","CNV","°$åhá{²}f$õá{²}ft´$±¿¼ål²«{°}bm","MS",1147
+"half after seven","GA43","277","O","N","natural"," ","háf$át´$s²{b}m","MS",1148
+"half past seven","GA43","277","O","N"," "," ","háf$pá«s{t}$s²{b}m","MS",1148
+"half past seven","GA44A","278.1","O","N"," "," ","åhá{²}f$õp`á²s$ås²«bm","MS",1149
+"NR","GA44B","278.2"," ","N"," "," "," ","MS",1150
+"fifteen minutes after","GA44C","278.3","O","Y"," ","INA/DDT","åf±«fõt`iºjn$åm±¼n±¿«ts$õá{°}ft´","MS",1151
+"half apast seven","GA44C","278.3","O","N"," "," ","åhá{²}f$°õp`á{²}s$ås²«v°«n","MS",1151
+"half past seven","GA44C","278.3","O","N"," "," ","åhá{²}f$õp`á{²}s$ås²«v°«n","MS",1151
+"NR","GA44D","278.4"," ","N"," "," "," ","MS",1152
+"seven thirty","GA44E","278.5","O","N"," "," ","õs²bm$åù³¾´t±¿","MS",1153
+"half past seven","FL1","252","O","N"," "," ","åháº{°}f$õpá½{°}s$ås²«{°}v°«n","MS",1154
+"seven thirty","FL1","252","O","Y"," ","DDT","ås²«v°n$õù³«±¿t±¿","MS",1154
+"half past seven","FL2A","253.1","O","N"," "," ","åhá{²}$õpá{²}s$ås²«v°«n","MS",1155
+"half past three","FL2B","253.2","O","N"," "," ","åháf$õpáº{°}st$ùñi","MS",1156
+"quarter after three","FL2B","253.2","O","Y"," ","INA","åkw·°t°$õáft°$ùñiº{i½}","MS",1156
+"half past seven","FL2C!","253.3!","O","N"," "," ","åháº$pá{²}s$ås²«bm","MS",1157
+"half past seven","FL3A","254.1","O","N"," "," ","åhá{²}f$õpá{²}s$ås²«bm","MS",1158
+"NR","FL3B!","254.2!"," ","N"," "," "," ","MS",1159
+"half past seven","FL4","254A","O","N"," "," ","åhá{°}f$õpá{°}s$ås²bm","MS",1160
+"eight thirty","FL4","254A","O","N"," "," ","e—½±¿t$åù³¾´t±¿«","MS",1160
+"six thirty","FL4","254A","O","N"," "," ","ås±ks$õù³¾´t±¿«","MS",1160
+"seven thirty","FL4","254A","O","N"," "," ","ås²bí$õù³¾´ñ±¿«","MS",1160
+"NR","FL5A","255.1"," ","N"," "," "," ","MS",1161
+"half past seven","FL5B","255.2","O"," "," "," ","åhá{²}f$õp`á{²}s$ås²«ví","MS",1162
+"","","","","","","","","",

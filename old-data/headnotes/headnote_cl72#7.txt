@@ -1,0 +1,62 @@
+haunches (cl72#7.asc)
+
+Items
+=====
+                           buttocks    1
+                       crew hunkers    1
+                    fats of the leg    1
+                               hams    1
+                            hankses    1
+                           haunches    9
+                              heels    1
+                            hinders    2
+                            hunkers    8
+                            hunkles    2
+                                 NR   36
+                        sit down on    1
+                     squatting down    1
+                              thigh    4
+                             thighs    1
+
+
+
+
+M: Back part of thighs, especially midway between knee and buttock.  You're squatting down on your _____. 	[Note hunker down as variant for 96.4]
+P: When the ground is cold or muddy to sit on, you might get down like this when you're inspecting the leaves on a tobacco plant or passing the time with a friend [demonstrate].  You're down on your ________.
+
+Notes on target items and data collection procedures:
+
+	Kurath:
+
+Words for the hind quarters of a cow or horse....Some informants could not think of a word, others were uncertain.  
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 72#7, "squatting down" is inappropriate, as is marginalia. 
+
+	Darwin:
+	
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 72 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+72#P
+72#P		72#7
+71#8		72#1
+72#1		72#2
+72#2
+72#3		72#3
+72#4		72#4
+72#5		72#5
+		72#6 (no question)
+72#6
+72#7
+72#8		72#8

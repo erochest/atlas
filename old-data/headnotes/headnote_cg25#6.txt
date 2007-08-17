@@ -1,0 +1,75 @@
+it wasn't me (cg25#6.asc)
+
+Items
+=====
+                             he ***    1
+                       he not angry    1
+                        he not gray    1
+                     I just be here    1
+                          if I were    1
+                                 it    1
+                        it ain't me    1
+           it couldn't have been me    1
+                it mostly be Friday    1
+                      it was not me    1
+                          it wasn't    6
+                       it wasn't me   13
+          it wasn't much of nothing    1
+     it wasn't nobody worked but me    1
+                         it weren't    1
+                      it weren't me    3
+                no it ain't been me    1
+                       no it wasn't    2
+                    no it wasn't me    7
+                   no it weren't me    9
+                  no sir, it wasn't    1
+                   no, it wasn't me   16
+no, it wasn't me; I didn't done that    1
+                                 NR    8
+                       that weren't    1
+         the one of them's not here    1
+                           them was    1
+                 they  mostly green    1
+                        they be ***    1
+     they built the different kinds    1
+                     they not angry    1
+                        they wasn't    3
+                             wasn't    5
+                           wasn't I    2
+                      wasn't no use    1
+                         wasn't too    1
+                            weren't    1
+                         weren't me    2
+                     weren't no way    1
+                      you all right    1
+                 you wasn't at home    1
+
+
+ 
+
+Notes from University of Georgia Atlas staff (1998-2000):
+
+	Cohen:
+
+As a general policy, responses which do not correspond to the target responses, those unrelated or irrelevant to the target, are considered inappropriate responses. Also, answers elicited in response to other questions (some on other pages), even if they correspond to the target, are considered inappropriate.  For example, McDavid (especially but not exclusively)often transcribed answers he elicited in response to other questions and in general conversation on the page and line which actually targeted the items.  Even though such items appear to be appropriate responses to the question asked on that page and line, they have been designated with (b) or (c) by the fieldworker to indicate that they are not actually responses to the target worksheet items and labeled inappropriate by the editorial staff.  Also, margin notes transcribed in phonetics, even if the items correspond to target items, are considered inappropriate responses to the question. 
+
+For item 25#6, the following responses are inappropriate: "they mostly green," "if I were," "I just be here," "you all right," "the one of them's not here," "it mostly be Friday," "it wasn't much of nothing," "they built the different kinds," "he not gray," "he not angry," and "they not angry."
+
+	Darwin:
+
+		On Worksheets and Data for Gullah Speakers:
+
+The preliminary worksheets used by Turner for interviews of Gullah speakers in South Carolina and Georgia (1933) differ somewhat from later versions used by Lowman, McDavid and Pedersen, both in enumeration and target response.  For example, page 4, question 2 from Turner's preliminary worksheets, "tomorrow," corresponds to page 4, question 1 of later versions; and page 14, question 1 from the preliminary worksheets, "I says/I said," has no corresponding question in later versions.  This incongruence was alleviated in the data files by the matching of target responses of the later worksheets to those of the preliminary versions when it was possible. In cases where there were no corresponding target responses, Gullah informant data were entered as NR (no response). 
+
+Specifically for page 25 of the later version as listed in Handbook of the Linguistic Atlas of the Middle and South Atlantic States, the following correspondences are noted:  
+
+Handbook	Preliminary Worksheets
+----------------------------------
+25#P		25#7
+25#1		25#1
+25#2		25#2
+25#3		25#3
+		25#4 (no question)
+25#4		25#5
+25#5		25#6
+25#6		25#8
