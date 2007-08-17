@@ -1,0 +1,319 @@
+
+
+import datetime
+import os
+import sys
+
+import Itpl
+import quixote
+from quixote.directory import Directory, Resolving
+from quixote.errors import TraversalError
+from quixote.html import htmltext
+from quixote.util import StaticFile
+
+import lap.web.site
+from lap import settings
+
+
+TMPL_DIR = os.path.join(lap.web.site.__file__, 'tmpl')
+
+
+class PageTemplate(object):
+
+    _template_ = None
+
+    def path_to_root(self):
+        return '.'
+
+    def _get_template(self):
+        try:
+            t = self.__template
+        except AttributeError:
+            if self._template_ is None or not os.path.exists(self._template_):
+                t = self.__template = None
+            else:
+                f = open(self._template_)
+                try:
+                    t = self.__template = Itpl.Itpl(f.read())
+                finally:
+                    f.close()
+        return t
+    template = property(_get_template)
+
+    def _make_template_vars(self):
+        return {
+            'title': self._title(),
+            'to_root': self.path_to_root(),
+            'project': self._project(),
+            'corner': self._corner(),
+            'banner': self._banner(),
+            'sidebar': self._sidebar(),
+            'help': self._helppage(),
+            'helplink': self._helplink(),
+            'modified': self._modified(),
+            'cgiurl': settings.locale.cgiurl,
+            }
+    def _get_template_vars(self):
+        try:
+            tv = self.__template_vars
+        except AttributeError:
+            tv = self.__template_vars = self._make_template_vars()
+        return tv
+    template_vars = property(_get_template_vars)
+
+    def __run_template(self, tmpl, title=None, to_root=None, project=None,
+                       corner=None, banner=None, sidebar=None, help=None,
+                       helplink=None, modified=None, cgiurl=None):
+        return str(tmpl)
+
+    def run_template(self, tmpl):
+        return self.__run_template(tmpl, **self.template_vars)
+
+    def _title(self):
+        return 'Untitled'
+
+    def _project(self):
+        return None
+
+    def _links(self):
+        return None
+
+    def _corner [html] (self):
+        if self._project():
+            return self._project().upper()
+        else:
+            '&nbsp;'
+
+    def _banner [html] (self):
+        if self._title():
+            return self._title()
+        else:
+            '&nbsp;'
+
+    def _helplink(self):
+        return ''
+
+    def _helppage(self):
+        return None
+
+    def _sidebar(self):
+        return ''
+
+    def _back [html] (self):
+        ref = quixote.get_request().get_environ('HTTP_REFERER', None)
+        if ref:
+            '<hr />\n'
+            '<p align="right"><font size="-1"><i>'
+            '<a href="'; ref; '">Back</a></i></font></p>\n'
+        else:
+            ''
+
+    def _modified(self):
+        if self._template_ is not None and os.path.exists(self._template_):
+            mtime = os.path.getmtime(self._template_)
+            dt = datetime.datetime.fromtimestamp(mtime)
+            return dt.date()
+        else:
+            return datetime.date.today()
+
+    def _header(self):
+        return ''
+
+    def _footer(self):
+        return ''
+
+    def _content(self):
+        tmpl = self.template
+        if tmpl is not None:
+            return htmltext(self.run_template(tmpl))
+        else:
+            return ''
+
+    def _page(self):
+        return self._header() + self._content() + self._footer()
+
+
+class LapPage(PageTemplate):
+
+    HEADER = os.path.join(TMPL_DIR, 'header.tmpl')
+    FOOTER = os.path.join(TMPL_DIR, 'footer.tmpl')
+
+    def _helplink [html] (self):
+        help = self._helppage()
+        if help:
+            to_root = self.path_to_root()
+            """
+            <a href="%s/help/%s" onClick="return helpwin(\'%s\')">
+                <img src="%s/help/helplight.png" width="50" 
+                     height="50" alt="[Help]" border="0" /></a>
+            """ % (to_root, help, help, to_root)
+        else:
+            '&nbsp;'
+
+    def _sidebar [html] (self):
+        project = self._project()
+        if project in settings.meta.projects:
+            (_title, links) = settings.meta.projects[project].links
+        elif self._links() is not None:
+            (_title, links) = self.links()
+        else:
+            (_title, links) = settings.links.base
+        '<span class="sbTitle">'; htmltext(_title); '</span><br />\n'
+        to_root = self.path_to_root()
+        for (href, text) in links:
+            '&nbsp;<a href="'; to_root; '/'; href; '">'; text; '</a><br />\n'
+
+    def _header(self):
+        try:
+            h = self.__header
+        except AttributeError:
+            if self.HEADER and os.path.exists(self.HEADER):
+                f = open(self.HEADER)
+                try:
+                    h = self.__header = Itpl.Itpl(f.read())
+                finally:
+                    f.close()
+            else:
+                h = self.__header = Itpl.Itpl('')
+        return htmltext(self.run_template(h))
+
+    def _footer(self):
+        try:
+            f = self.__footer
+        except AttributeError:
+            if self.FOOTER and os.path.exists(self.FOOTER):
+                fin = open(self.FOOTER)
+                try:
+                    f = self.__footer = Itpl.Itpl(fin.read())
+                finally:
+                    fin.close()
+            else:
+                f = self.__footer = Itpl.Itpl('')
+        return htmltext(self.run_template(f))
+
+    def __str__(self):
+        return str(self._page())
+
+
+class LapDirectory(Directory, PageTemplate):
+    _q_exports = [
+        '',
+        ]
+
+    def _q_index(self):
+        return self._page()
+
+
+class DynamicPage(LapPage):
+
+    def __init__(self, project, title, template, to_root='..'):
+        self._template_ = template
+        self.__project = project
+        self.__to_root = to_root
+        self.__title = title
+
+    def _project(self):
+        return self.__project
+
+    def path_to_root(self):
+        return self.__to_root
+
+    def _title(self):
+        return self.__title
+
+
+class OldPage(DynamicPage):
+    HEADER = FOOTER = None
+
+    def __init__(self, template, to_root='..'):
+        DynamicPage.__init__(self, 'No Project', 'No Title', template, to_root)
+
+
+class TemplateDirectory(Directory, PageTemplate):
+
+    _q_exports = ['']
+
+    def __init__(self, project, directory, to_root='..'):
+        self.project = project
+        self.dir = directory
+        self.to_root = to_root
+
+    def _q_index(self):
+        try:
+            i = self.__index
+        except AttributeError:
+            filename = os.path.join(self.dir, 'index.tmpl')
+            if not os.path.exists(filename):
+                raise TraversalError()
+            i = self.__index = DynamicPage(self.project,
+                                           os.path.basename(self.dir),
+                                           filename, self.to_root)
+        return str(i)
+
+    def _q_lookup(self, component):
+        if component.endswith('.html'):
+            (page, _) = os.path.splitext(component)
+            filename = os.path.join(self.dir, page+'.tmpl')
+            if not os.path.exists(filename):
+                raise TraversalError()
+            page = DynamicPage(self.project, page, filename, self.to_root)
+            return str(page)
+        else:
+            filename = os.path.join(self.dir, component)
+            if os.path.isdir(filename):
+                return TemplateDirectory(self.project, filename,
+                                         self.to_root+'/..')
+            if not os.path.exists(filename):
+                raise TraversalError()
+            page = StaticFile(filename)
+            return page
+
+
+class SiteDirectory(LapPage, LapDirectory):
+    pass
+
+
+class OldSiteDirectory(Directory, PageTemplate):
+
+    _q_exports = ['']
+
+    def __init__(self, directory, to_root='..'):
+        self.dir = directory
+        self.to_root = to_root
+
+    def _q_index(self):
+        try:
+            i = self.__index
+        except AttributeError:
+            filename = os.path.join(self.dir, 'index.tmpl')
+            if not os.path.exists(filename):
+                raise TraversalError()
+            i = self.__index = OldPage(filename, self.to_root)
+        return str(i)
+
+    def _q_lookup(self, component):
+        filename = os.path.join(self.dir, component)
+        if os.path.exists(filename):
+            if os.path.isdir(filename):
+                return OldSiteDirectory(filename, self.to_root+'/..')
+            else:
+                return StaticFile(filename)
+        else:
+            (page, ext) = os.path.splitext(filename)
+            if ext == '.html' and os.path.exists(page+'.tmpl'):
+                return OldPage(page+'.tmpl', self.to_root)
+            else:
+                raise TraversalError()
+
+
+class HelpDirectory(LapPage, LapDirectory):
+    HEADER = os.path.join(TMPL_DIR, 'help-header.tmpl')
+    FOOTER = os.path.join(TMPL_DIR, 'help-footer.tmpl')
+
+
+class PopupDirectory(LapDirectory):
+    HEADER = os.path.join(TMPL_DIR, 'popup-header.tmpl')
+    FOOTER = os.path.join(TMPL_DIR, 'popup-footer.tmpl')
+
+
+# vim: set filetype=python:

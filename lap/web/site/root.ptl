@@ -1,0 +1,191 @@
+
+
+import os
+import sys
+
+import quixote
+from quixote.util import StaticFile
+
+from lap.web.site import projects
+from lap.web.ui import TMPL_DIR, SiteDirectory, LapPage
+
+
+PWD = os.path.dirname(__file__)
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        ('atlas.css', 'atlas_css'),
+        ('usmap.png', 'usmap_png'),
+        'copyright',
+        'afam',
+        'help',
+        'information',
+        'lags',
+        'lamsas',
+        'lancs',
+        'lane',
+        'lao',
+        'lapnw',
+        'lapw',
+        'larms',
+        'laum',
+        'old',
+        ('robots.txt', 'robots_txt'),
+        'utils',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'root-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.atlas_css = StaticFile(os.path.join(PWD, 'atlas.css'))
+        self.usmap_png = StaticFile(os.path.join(PWD, 'usmap.png'))
+        self.robots_txt = StaticFile(os.path.join(PWD, 'robots.txt'))
+
+    def _title(self):
+        return 'Linguistic Atlas Projects'
+
+    def _helppage(self):
+        return 'main'
+
+    def _get_afam(self):
+        try:
+            a = self.__afam
+        except AttributeError:
+            import lap.web.site.afam
+            a = self.__afam = lap.web.site.afam.index()
+        return a
+    afam = property(_get_afam)
+
+    def _get_copyright(self):
+        try:
+            cr = self.__copyright
+        except AttributeError:
+            cr = self.__copyright = copyright()
+        return str(cr)
+    copyright = property(_get_copyright)
+
+    def _get_help(self):
+        try:
+            h = self.__help
+        except AttributeError:
+            from lap.web.site import help
+            h = self.__help = help.index()
+        return h
+    help = property(_get_help)
+
+    def _get_information(self):
+        try:
+            info = self.__information
+        except AttributeError:
+            from lap.web.site import information
+            info = self.__information = information.index()
+        return info
+    information = property(_get_information)
+
+    def _get_lags(self):
+        try:
+            l = self.__lags
+        except AttributeError:
+            from lap.web.site import lags
+            l = self.__lags = lags.index()
+        return l
+    lags = property(_get_lags)
+
+    def _get_lamsas(self):
+        try:
+            l = self.__lamsas
+        except AttributeError:
+            import lap.web.site.lamsas
+            l = self.__lamsas = lap.web.site.lamsas.index()
+        return l
+    lamsas = property(_get_lamsas)
+
+    def _get_lancs(self):
+        try:
+            l = self.__lancs
+        except AttributeError:
+            from lap.web.site import lancs
+            l = self.__lancs = lancs.index()
+        return l
+    lancs = property(_get_lancs)
+
+    def _get_lane(self):
+        try:
+            l = self.__lane
+        except AttributeError:
+            from lap.web.site import lane
+            l = self.__lane = lane.index()
+        return l
+    lane = property(_get_lane)
+
+    def _get_lapnw(self):
+        try:
+            l = self.__lapnw
+        except AttributeError:
+            from lap.web.site import lapnw
+            l = self.__lapnw = lapnw.index()
+        return l
+    lapnw = property(_get_lapnw)
+
+    def _get_lao(self):
+        try:
+            l = self.__lao
+        except AttributeError:
+            l = self.__lao = projects.lao()
+        return str(l)
+    lao = property(_get_lao)
+
+    def _get_lapw(self):
+        try:
+            l = self.__lapw
+        except AttributeError:
+            l = self.__lapw = projects.lapw()
+        return str(l)
+    lapw = property(_get_lapw)
+
+    def _get_larms(self):
+        try:
+            l = self.__larms
+        except AttributeError:
+            l = self.__larms = projects.larms()
+        return str(l)
+    larms = property(_get_larms)
+
+    def _get_laum(self):
+        try:
+            l = self.__laum
+        except AttributeError:
+            l = self.__laum = projects.laum()
+        return str(l)
+    laum = property(_get_laum)
+
+    def _get_old(self):
+        try:
+            o = self.__old
+        except AttributeError:
+            import lap.web.site.old
+            o = self.__old = lap.web.site.old.index()
+        return o
+    old = property(_get_old)
+
+    def _get_utils(self):
+        try:
+            u = self.__utils
+        except AttributeError:
+            from lap.web.site import utils
+            u = self.__utils = utils.index()
+        return u
+    utils = property(_get_utils)
+
+
+class copyright(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'root-copyright.tmpl')
+
+    def _title(self):
+        return 'Linguistic Atlas Projects'
+
+
+# vim: set filetype=python:

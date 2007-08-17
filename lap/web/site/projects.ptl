@@ -1,0 +1,58 @@
+
+"""
+Smaller projects.
+
+"""
+
+
+import os
+
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory, LapPage
+
+
+PWD = os.path.dirname(__file__)
+
+
+class lao(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'lao-index.tmpl')
+
+    def _title(self):
+        return 'LAO'
+
+    def path_to_root(self):
+        return '.'
+
+
+class lapw(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'lapw-index.tmpl')
+
+    def _title(self):
+        return 'LAPW'
+
+    def path_to_root(self):
+        return '.'
+
+
+class larms(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'larms-index.tmpl')
+
+    def _title(self):
+        return 'LARMS'
+
+    def path_to_root(self):
+        return '.'
+
+
+class laum(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'laum-index.tmpl')
+
+    def _title(self):
+        return 'LAUM'
+
+    def path_to_root(self):
+        return '.'
+
+
+# vim: set filetype=python:

@@ -1,0 +1,40 @@
+#!/usr/local/bin/python
+
+import os
+
+cmd = ( 'PYTHONPATH=/home/eric/atlas/lap time '
+        '/home/eric/atlas/lap/scripts/timedb.py %s %s' )
+log = 'timedbs.log'
+targets = [('old', 'lamsas_old'), ('new', 'LAMSAS'),
+           ('old', 'afam_old'), ('new', 'AFAM')]
+
+def clean():
+    if os.path.exists(log):
+        os.remove(log)
+
+def run(target, db):
+    print target, db
+    f = file(log, 'a')
+    try:
+        print >>f, target, db
+        command = cmd % (target, db)
+        #print 'executing:', command
+        (pin, pout, perr) = os.popen3(command)
+        pin.close()
+        f.write(pout.read())
+        #f.write('\n')
+        f.write(perr.read())
+        f.write('\n\n')
+        pout.close()
+    finally:
+        f.close()
+
+def main():
+    clean()
+    for (tgt, db) in targets:
+        run(tgt, db)
+    print 'Done!'
+
+if __name__ == '__main__':
+    main()
+

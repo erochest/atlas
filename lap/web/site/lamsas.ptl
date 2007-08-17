@@ -1,0 +1,289 @@
+
+
+import glob
+import os
+import re
+
+from quixote.errors import TraversalError
+from quixote.util import StaticDirectory, StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory, LapPage, TemplateDirectory
+from lap.web import dataview
+
+
+PWD = os.path.dirname(__file__)
+LAMSAS = os.path.join(PWD, 'lamsas')
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        'analyses',
+        'browse',
+        ('browse.csv', 'browse_csv'),
+        'community',
+        ('de-maps', 'de_maps'),
+        ('fieldrec.jpg', 'fieldrec_jpg'),
+        'fl',
+        'ga',
+        'info',
+        ('listms.jpg', 'listms_jpg'),
+        ('map.png', 'map_png'),
+        'md',
+        'nc',
+        'NewestLowmanSums_files',
+        ('NewestLowmanSums.htm', 'NewestLowmanSums_htm'),
+        'nj',
+        'notes',
+        'ny',
+        'pa',
+        'sc',
+        'scrapbook',
+        'search',
+        'va',
+        'view',
+        'wv',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lamsas-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        for fn in (glob.glob(os.path.join(LAMSAS, '*.png')) +
+                   glob.glob(os.path.join(LAMSAS, '*.gif')) +
+                   glob.glob(os.path.join(LAMSAS, '*.jpg'))):
+            basename = os.path.basename(fn)
+            attrname = basename.replace('.', '_')
+            self._q_exports.append((basename, attrname))
+            setattr(self, attrname, StaticFile(fn))
+        self.NewestLowmanSums_htm = StaticFile(
+            os.path.join(LAMSAS, 'NewestLowmanSums.htm'),
+            )
+        self.NewestLowmanSums_files = StaticDirectory(
+            os.path.join(LAMSAS, 'NewestLowmanSums_files'),
+            )
+        self.de_maps = TemplateDirectory(
+            self._project(),
+            os.path.join(LAMSAS, 'de-maps'),
+            self.path_to_root()+'/..',
+            )
+
+    def _title(self):
+        return 'LAMSAS'
+
+    def _project(self):
+        return 'lamsas'
+
+    def path_to_root(self):
+        return '..'
+
+    def _get_analyses(self):
+        try:
+            a = self.__analyses
+        except AttributeError:
+            a = self.__analyses = analyses()
+        return str(a)
+    analyses = property(_get_analyses)
+
+    def _get_browse(self):
+        try:
+            b = self.__browse
+        except AttributeError:
+            b = self.__browse = dataview.BrowsePage(self._project())
+        return str(b)
+    browse = property(_get_browse)
+
+    def _get_browse_csv(self):
+        try:
+            b = self.__browse_csv
+        except AttributeError:
+            b = self.__browse_csv = dataview.CsvPage(self._project())
+        return str(b)
+    browse_csv = property(_get_browse_csv)
+
+    def _get_fl(self):
+        try:
+            f = self.__fl
+        except AttributeError:
+            f = self.__fl = state_page('fl')
+        return str(f)
+    fl = property(_get_fl)
+
+    def _get_ga(self):
+        try:
+            g = self.__ga
+        except AttributeError:
+            g = self.__ga = state_page('ga')
+        return str(g)
+    ga = property(_get_ga)
+
+    def _get_info(self):
+        try:
+            i = self.__info
+        except AttributeError:
+            i = self.__info = info()
+        return i
+    info = property(_get_info)
+
+    def _get_map_png(self):
+        try:
+            m = self.__map_png
+        except AttributeError:
+            m = self.__map_png = dataview.MapPage(self._project())
+        return str(m)
+    map_png = property(_get_map_png)
+
+    def _get_md(self):
+        try:
+            m = self.__md
+        except AttributeError:
+            m = self.__md = state_page('md')
+        return str(m)
+    md = property(_get_md)
+
+    def _get_nc(self):
+        try:
+            m = self.__nc
+        except AttributeError:
+            m = self.__nc = state_page('nc')
+        return str(m)
+    nc = property(_get_nc)
+
+    def _get_nj(self):
+        try:
+            n = self.__nj
+        except AttributeError:
+            n = self.__nj = state_page('nj')
+        return str(n)
+    nj = property(_get_nj)
+
+    def _get_notes(self):
+        try:
+            n = self.__notes
+        except AttributeError:
+            n = self.__notes = dataview.NotesPage(self._project())
+        return str(n)
+    notes = property(_get_notes)
+
+    def _get_ny(self):
+        try:
+            n = self.__ny
+        except AttributeError:
+            n = self.__ny = state_page('ny')
+        return str(n)
+    ny = property(_get_ny)
+
+    def _get_pa(self):
+        try:
+            p = self.__pa
+        except AttributeError:
+            p = self.__pa = state_page('pa')
+        return str(p)
+    pa = property(_get_pa)
+
+    def _get_sc(self):
+        try:
+            m = self.__sc
+        except AttributeError:
+            m = self.__sc = state_page('sc')
+        return str(m)
+    sc = property(_get_sc)
+
+    def _get_scrapbook(self):
+        try:
+            s = self.__scrapbook
+        except AttributeError:
+            s = self.__scrapbook = scrapbook()
+        return str(s)
+    scrapbook = property(_get_scrapbook)
+
+    def _get_search(self):
+        try:
+            s = self.__search
+        except AttributeError:
+            s = self.__search = dataview.SearchPage(self._project())
+        return str(s)
+    search = property(_get_search)
+
+    def _get_va(self):
+        try:
+            m = self.__va
+        except AttributeError:
+            m = self.__va = state_page('va')
+        return str(m)
+    va = property(_get_va)
+
+    def _get_wv(self):
+        try:
+            w = self.__wv
+        except AttributeError:
+            w = self.__wv = state_page('wv')
+        return str(w)
+    wv = property(_get_wv)
+
+    def _get_view(self):
+        try:
+            v = self.__view
+        except AttributeError:
+            v = self.__view = dataview.ViewPage(self._project())
+        return str(v)
+    view = property(_get_view)
+
+
+class analyses(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'lamsas-analyses.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return 'LAMSAS Analyses'
+
+    def _project(self):
+        return 'lamsas'
+
+
+class info(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'lamsas-info.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return 'About LAMSAS'
+
+    def _project(self):
+        return 'lamsas'
+
+
+class state_page(LapPage):
+
+    def __init__(self, state):
+        LapPage.__init__(self)
+        self.state = state
+        self._template_ = os.path.join(TMPL_DIR, 'lamsas-%s.tmpl' % state)
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return self.state.upper()
+
+    def _project(self):
+        return 'lamsas'
+
+
+class scrapbook(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'lamsas-scrapbook.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return 'LAMSAS Scrap Book'
+
+    def _project(self):
+        return 'lamsas'
+
+
+# vim: set filetype=python:

@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <title> $title </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script language="JavaScript">
+
+      function helpwin(page) {
+        window.open("$to_root/help/" + page, "Help", 
+          "directories=no;menubar=no;status=no;toolbar=no," + 
+          "resizable=yes,scrollbars=yes,height=210,width=300");
+        return false;
+      }
+    
+      function community(comid) {
+        window.open("community/" + comid, "popup", 
+          "directories=no,menubar=no,status=no,toolbar=no," + 
+          "resizable=yes,scrollbars=yes,height=210,width=300");
+        return false;
+      }
+
+    //--></script>
+    <script language="JavaScript1.1"><!--
+      window.name = 'main';
+      function community(comid) {
+        window_handle = window.open("community/" + comid, "popup",
+          "directories=no,menubar=no,status=no,toolbar=no," +
+          "resizable=yes,scrollbars=yes,height=400,width=500");
+        window_handle.focus();
+        return false;
+      }
+    //--></script>
+    <link type="text/css" rel="stylesheet" href="$to_root/atlas.css" />
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="corner"> $corner </td>
+      <td class="banner" colspan="2">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  	<tr>
+  	  <td class="banner">&nbsp;<br />
+  	   $banner<br />
+  	   &nbsp; </td>
+  	  <td valign="center" class="banner">
+  	    <div align="center">
+  	      $helplink
+  	    </div>
+  	  </td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td class="sidebar" valign="top" nowrap="nowrap">
+        <table width="100%" border="0" cellspacing="4" cellpadding="0">
+  	<tr>
+  	  <td nowrap="nowrap" class="sidebar">
+  	    <a href="$to_root/" class="sbTitle">Home</a><br />
+  	    <br />
+  	    $sidebar
+  	    <br />
+  	    <span class="sbTitle">Using the Site</span><br />
+  	    &nbsp;<a href="$to_root/information/about">About the site</a><br />
+  	    &nbsp;<a href="$to_root/information/intro">Introduction</a><br />
+  	    &nbsp;<a href="$to_root/information/">Information</a><br />
+  	    &nbsp;<a href="$to_root/utils/">Utilities</a><br />
+  	    <br />
+  	    <span class="sbTitle">Exits</span><br />
+  	    &nbsp;<a href="$to_root/old/">The Old Site</a><br />
+  	    <br />
+  	    <br />
+  	    &nbsp;<span class="sbFoot">
+	      <a href="$to_root/copyright">Copyright</a></span><br />
+  	    &nbsp;<span class="sbFoot">$modified</span><br />
+  	  </td>
+  	</tr>
+        </table>
+      </td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td valign="top" width="90%"><br />

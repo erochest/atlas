@@ -1,0 +1,7 @@
+include setup.py
+include setup.cfg
+include MANIFEST
+include MANIFEST.in
+include scripts/buildsite.py
+include scripts/csv2db.py
+recursive-include lap *.py *.c *.h *.l
