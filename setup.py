@@ -3,26 +3,41 @@
 
 from distutils.core import setup, Extension
 import os
-import py2exe
+
+try:
+    import py2exe
+except ImportError:
+    import warnings
+    py2exe = None
+    warnings.warn("py2exe not found. You won't be able to create executables.")
+
+
+if py2exe:
+    args = {
+        console: [
+        #windows: [
+            os.path.join('scripts', 'lamrec.py'),
+            ],
+        }
+else:
+    args = {}
 
 
 setup(
-    name='lamrecode',
+    name='lamcour',
     version='0.0',
     description='lamcour encoding recoder',
     author='Eric Rochester',
     author_email='erochest@gmail.com',
     url='http://us.english.uga.edu/new/utils/',
 
-    packages=[
-        'lamrecode',
+    py_modules=[
+        'lamcour',
         ],
     ext_modules=[
-        Extension('lamrecode._lamcour', [os.path.join('lamrecode', '_lamcour.c')]),
+        Extension('_lamcour', ['_lamcour.c']),
         ],
-    console=[
-    #windows=[
-        os.path.join('scripts', 'lamrec.py'),
-        ],
+
+    **args
     )
 
