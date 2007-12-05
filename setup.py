@@ -15,7 +15,9 @@ except ImportError:
 if py2exe:
     args = {
         console: [
-        #windows: [
+            os.path.join('scripts', 'lamrecoder.py'),
+            ],
+        windows: [
             os.path.join('scripts', 'lamrec.py'),
             ],
         }
