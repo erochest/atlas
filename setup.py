@@ -3,6 +3,8 @@
 
 from distutils.core import setup, Extension
 import os
+import py2exe
+
 
 setup(
     name='lamrecode',
@@ -18,6 +20,9 @@ setup(
     ext_modules=[
         Extension('lamrecode._lamcour', [os.path.join('lamrecode', '_lamcour.c')]),
         ],
-    scripts=[],
+    console=[
+    #windows=[
+        os.path.join('scripts', 'lamrec.py'),
+        ],
     )
 
