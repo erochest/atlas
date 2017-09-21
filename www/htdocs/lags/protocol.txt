@@ -1,0 +1,852 @@
+  Protocol for Using LAGS CodeMap and LagsMap Microcomputer Programs
+
+		      CodeMap For a Lexical Item
+
+			by Michael Montgomery
+
+
+The DOS-based CodeMap program will produce maps like those on pages
+5-14 below.
+
+Names and numbers of LAGS data files are most conveniently found in
+the Technical Index to LAGS, volume 3 of the hardback series published
+by the Uniiversity of Georgia Press (Pederson, Lee, Susan Leas
+McDaniel, Carol Adams, and Caisheng Liao, eds. 1989.
+
+From the DOS prompt, type "codemap" and follow the directions below.
+Further instructions are given in brackets and in comments to the
+right.
+
+A>codemap + [RETURN]
+[the following will appear on the screen]
+
+LINGUISTIC ATLAS OF THE GULF STATES 
+Codemap
+Name of data file? {060a.9L} + [RETURN]
+Name to print on map? [CREATE A NAME LIKE `Chigger'] + [RETURN]
+                This name will appear on the
+		map you create.
+Protocol page and line (e.g., 020.5)? [RETURN]
+	        Whatever you type here will
+		also appear on the map.  It is
+		an optional label for your
+		own reference (you may hit
+		RETURN and skip this step)
+Code symbol for item to code? B [This letter stands for `Chigger'
+	        The upper/lower case of this
+		is found in the Technical Index, p. 215] + [RETURN]
+		symbol must match what is
+		in the Technical Index. 
+What does this symbol represent? Chigger + [RETURN]
+	        What you type here is also
+		optional and represents what
+		will appear on the map you
+		are creating.  
+Which 3-factor code (enter one number, 1-6)? [SEE OPTIONS BELOW]
+                The maps on pages 5-10
+		display the data for `chigger'
+		sorted and mapped according
+		to these options.
+Screen, printer, or file (S, P, or F)? F + [RETURN]
+
+Name of file where matrix will be saved? chigger.map + [RETURN]
+                Again, this designation is
+		your creation. 
+
+Map another item in the same file (y or n)? [RETURN]
+                [WARNING: Because of a bug in the program, you MUST hit RETURN 
+                and return to DOS if you wish to create another map]
+Map an item in another file (y or n)? [RETURN;
+                This will return you to the DOS prompt]
+
+CodeMap for a Grammatical Item
+
+A>codemap + [RETURN]
+
+LINGUISTIC ATLAS OF THE GULF STATES 
+Codemap
+Name of data file? {093.2G}+ [RETURN]
+                Follow same instructions
+Name to print on map? [CREATE NAME LIKE `Christmas Gift'] + [RETURN]
+                as above.
+Protocol page and line (e.g., 020.5)? [RETURN]
+Code symbol for item to code? E [see p. 344 of Technical Index + RETURN]
+What does this symbol represent? Christmas Gift + [RETURN]
+Which 3-factor code (enter one number, 1-6)? [SEE OPTIONS BELOW]
+Screen, printer, or file (S, P, or F)? F + [RETURN]
+Name of file where matrix will be saved? xmasgift.map + [RETURN]
+
+Codemap for this item appears on page 11 of this packet.
+
+3-factor codes for 1990 version of CodeMap program, which categorizes
+and maps black and white speakers into six combinations of other
+social categories: sex, age, level of education, and social status.
+
+        1: Race/Sex/Age                     See CodeMap 1, p 5
+        2: Race/Sex/Education               See CodeMap 2, p 6
+        3: Race/Sex/Social Status           See CodeMap 3, p 7
+        4: Race/Age/Education               See CodeMap 4, p 8
+        5: Race/Age/Social Status           See CodeMap 5, p 9
+        6: Race/Education/Social Status     See CodeMap 6, p 10
+
+On each CodeMap, numbers 1-4 represent and are used to map white
+speakers, letters A-D are used for black speakers.
+
+LAGS Codemap For a Phonological Item
+
+As on page 1, instructions are given in brackets and in the right-hand
+column.
+
+A>codemap + [RETURN]
+
+LINGUISTIC ATLAS OF THE GULF STATES 
+Codemap
+Name of data file? {060.9} + [RETURN]
+Name to print on map? [CREATE NAME LIKE `srimp'] + [RETURN]
+Protocol page and line (e.g., 020.5)? [RETURN]
+Code symbol for item to code? sr [see page 212 of Technical Index + RETURN]
+                The researcher devises a 
+		string of one or more
+		consecutive characters from
+		the coded strings in the
+		Technical Index. All forms
+		with the chosen string are
+		pooled by the program for
+		one map.*
+What does this symbol represent? srimp + [RETURN]
+                [THIS IS OPTIONAL AND REPRESENTS WHAT WILL APPEAR
+		ON THE MAP YOU ARE CREATING]
+Which 3-factor code (enter one number, 1-6)? [SEE OPTIONS ABOVE]
+Screen, printer, or file (S, P, or F)? F + [RETURN]
+Name of file where matrix will be saved? srimp.map + [RETURN]
+                [THE NAME OF THIS FILE IS UP TO YOU]
+
+Map another item in the same file (y or n)? [RETURN]
+                [WARNING: Because of a bug in the program, you MUST
+		return to DOS to create another map]
+Map an item in another file (y or n)? [RETURN]
+
+The map for this computation appears on page 13 of this document.
+
+* Among other sequences of consonants of possible interest to map from
+the data file for shrimp are `ps', `shw', and `sw'.  The last of these
+is computed below and appears in the map on page 14.
+
+A>codemap + [RETURN]
+
+LINGUISTIC ATLAS OF THE GULF STATES 
+Codemap
+Name of data file? {060.9} + [RETURN]
+Name to print on map? [CREATE NAME LIKE 'swimp'] + [RETURN]
+Protocol page and line (e.g., 020.5)? [RETURN]
+Code symbol for item to code? sw + [Technical Index, p. 212 + RETURN]
+What does this symbol represent? swimp + [RETURN]
+                [THIS IS OPTIONAL AND REPRESENTS WHAT WILL APPEAR
+		ON THE MAP YOU ARE CREATING]
+Which 3-factor code (enter one number, 1-6)? [SEE OPTIONS BELOW]
+Screen, printer, or file (S, P, or F)? F + [RETURN]
+Name of file where matrix will be saved? srimp.map + [RETURN]
+                [THIS DESIGNATION IS UP TO YOU]
+		Lagsmap to combine two items (Instructions in Brackets)
+		For a Lexical Item
+
+A>lagsmap + [RETURN]
+
+LINGUISTIC ATLAS OF THE GULF STATES 
+Lagsmap 
+Name of first data file to use? {060a.9l} + [RETURN]
+Name of second data file to use (if none, hit RETURN key)? [RETURN]
+                The two terms to be mapped may or may
+		not be from the same data file. One may
+		be phonological, the other lexical, or one
+		may be grammatical, the other phonological, etc.
+		In the case here, two forms from the same data 
+		file are mapped.  
+If using only one file, how many items to map (1.2, or 3)? 2
+Symbol for first item to map? B + [RETURN]
+What does this symbol represent? Chigger + [RETURN]
+Symbol to print on map (RETURN: A)? A
+Symbol for second item to map R + [RETURN]
+What does this symbol represent? Redbug + [RETURN]
+Symbol to print on map (RETURN: B)? B
+Name to be printed on map? Chigger/Redbug Map
+Screen, printer, or file (S, P, or F)? F + [RETURN]
+Name of file where matrix will be saved? Chigger + [RETURN]
+            [THIS DESIGNATION IS UP TO YOU]
+
+
+                                                       chigger  407
+
+                          Code 1: Race/Sex/Age
+
+                 1 = W/F/13-65  92/152  A = B/F/13-65  16/51 
+                 2 = W/M/13-65  90/163  B = B/M/13-65  14/40 
+                 3 = W/F/66-99  80/166  C = B/F/66-99  10/53 
+                 4 = W/M/66-99  95/236  D = B/M/66-99  10/53 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           123143223141144.41332413       A
+ B                        4243241.4. 2C4141133222.A3D23431341.A.244.4       B
+ C                        31.314.2.  C4.11.2.3.2.3241331..4.22A1.4334       C
+ D                        122322..143.A1.442.3B241334.32.2.1.44414          D
+ E                        2342341C3A.4.22.B14.324344124C32C.3               E
+ F                        .3.A4...C2433.1.33..D.4D1A21.1B.4.3.43            F
+ G                        411AA144..4..BD1AB1D1.C21.21..13.3.3.11           G
+ H           4     2B     44.B21.......A.434.1...B..4.D..1B21.4.14          H
+ I       4                ..43131D4....2.3.44.1..2332B.3.D4.B.3..3          I
+ J        3   .      2    2...34.22....4..2...4..2.A.43.33131D.....         J
+ K     3 .A3            .. 1....3......3.4D...4...43.2..1.....4.....        K
+ L       12.   .2       .2 21.1..2.....2........2.B..241...132.1....        L
+ M      3       1          ....432...C.31.3....C..4..24121.......3..A       M
+ N       4                 ....1......23.....1.....2..3..............       N
+ O        4        .       .44....2..4...3..1..C43........2..........       O
+ P          .      2.1   . 44.........4....3.1......................        P
+ Q     .3      .1       .4 .2..........3.2.1... ... .........1......        Q
+ R      .      ..          ..3........2.3..B........2      1.    . .        R
+ S                         .1..2.............22...B1  .   ....     3.       S
+ T         4         1.2   ........2..A             .2.2 .     ..  2..      T
+ U     ..   1    ..     2     ..........                        .   ..      U
+ V     ..      .2.            ...........                      4.4 .  .     V
+ W    12.  .   .1                                               ..  . .     W
+ X  4 1A1    ...                                                . ..   .    X
+ Y         4.24                                                 ..   .      Y
+ Z  4      ..1                                                   1..2 1 1   Z
+ AA        ..                                                     ... .    AA
+ AB 12     1.                                                      2. .. 4 AB
+ AC ..     2                                                        .  . . AC
+ AD    .4  1                                                         1 . . AD
+ AE    1.                                                             .22. AE
+ AF      .42                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                       chigger  407 
+
+                          Code 2: Race/Sex/Education
+
+                 1 = W/F/00-10   62/127  A = B/F/00-10   11/58 
+                 2 = W/M/00-10   80/200  B = B/M/00-10   14/65 
+                 3 = W/F/11-16+ 110/191  C = B/F/11-16+  15/46 
+                 4 = W/M/11-16+ 105/199  D = B/M/11-16+  10/28 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           341341441143322.23312411       A
+ B                        2421223.2. 4A2323311424.C1B21213321.C.444.2       B
+ C                        13.132.2.  A2.33.2.1.4.3423113..2.44C3.2132       C
+ D                        324122..321.A3.244.1B423114.14.2.3.44212          D
+ E                        4144123A1C.2.44.D34.142322344C32A.1               E
+ F                        .3.A2...A4233.1.31..B.2B3C43.3B.2.1.21            F
+ G                        233CC322..4..BD3CB3B1.A43.23..13.3.3.13           G
+ H           2     2B     24.D43.......C.232.3...D..2.B..1D41.2.34          H
+ I       2                ..41333B4....4.1.44.3..4312D.1.B4.D.1..1          I
+ J        1   .      4    4...34.44....2..4...2..2.C.41.33313B.....         J
+ K     1 .C3            .. 3....1......1.4B...2...43.4..3.....2.....        K
+ L       34.   .4       .4 43.3..4.....2........4.D..423...334.3....        L
+ M      1       3          ....214...C.33.1....A..2..44343.......1..A       M
+ N       4                 ....3......43.....3.....4..1..............       N
+ O        4        .       .22....4..2...3..3..A43........4..........       O
+ P          .      4.3   . 22.........2....3.3......................        P
+ Q     .1      .3       .2 .4..........1.4.3... ... .........3......        Q
+ R      .      ..          ..1........4.3..D........4      3.    . .        R
+ S                         .3..4.............44...D3  .   ....     3.       S
+ T         2         3.2   ........4..C             .4.4 .     ..  4..      T
+ U     ..   3    ..     4     ..........                        .   ..      U
+ V     ..      .2.            ...........                      2.4 .  .     V
+ W    34.  .   .3                                               ..  . .     W
+ X  4 3C3    ...                                                . ..   .    X
+ Y         2.44                                                 ..   .      Y
+ Z  2      ..3                                                   3..4 3 3   Z
+ AA        ..                                                     ... .    AA
+ AB 14     3.                                                      4. .. 2 AB
+ AC ..     4                                                        .  . . AC
+ AD    .4  3                                                         3 . . AD
+ AE    3.                                                             .44. AE
+ AF      .44                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                       chigger  407 
+
+                          Code 3: Race/Sex/Social Status
+
+                 1 = W/F/L  89/174  A = B/F/L  19/84 
+                 2 = W/M/L  95/231  B = B/M/L  17/74 
+                 3 = W/F/U  83/144  C = B/F/U   7/20 
+                 4 = W/M/U  90/168  D = B/M/U   7/19 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           341321441141322.23312411       A
+ B                        2443423.2. 4A2123311244.C1B23413321.A.244.2       B
+ C                        11.132.2.  A2.31.2.1.4.3423113..2.44C3.2132       C
+ D                        324122..141.A3.222.1B223114.14.2.3.44212          D
+ E                        4142121A1A.2.44.D32.122322342C12A.1               E
+ F                        .3.A2...A2433.3.31..B.2B3A43.3B.2.1.21            F
+ G                        211AA124..4..BB1AB3B1.A43.23..11.3.3.31           G
+ H           2     2B     22.D43.......C.212.3...B..2.B..1B43.2.14          H
+ I       2                ..41313B4....4.1.44.3..4312D.1.B4.D.1..1          I
+ J        1   .      4    2...34.44....4..4...2..2.C.41.13313B.....         J
+ K     1 .A3            .. 3....1......1.4B...2...41.4..3.....2.....        K
+ L       34.   .4       .4 43.1..2.....4........4.D..421...332.3....        L
+ M      1       3          ....212...C.31.1....A..4..44343.......1..A       M
+ N       2                 ....3......43.....3.....2..1..............       N
+ O        4        .       .22....4..2...1..1..A21........4..........       O
+ P          .      2.3   . 22.........2....1.1......................        P
+ Q     .1      .3       .2 .2..........1.2.3... ... .........3......        Q
+ R      .      ..          ..1........2.1..D........4      3.    . .        R
+ S                         .3..4.............44...D3  .   ....     1.       S
+ T         2         3.2   ........4..A             .2.4 .     ..  4..      T
+ U     ..   1    ..     2     ..........                        .   ..      U
+ V     ..      .2.            ...........                      2.4 .  .     V
+ W    12.  .   .3                                               ..  . .     W
+ X  4 3C3    ...                                                . ..   .    X
+ Y         4.44                                                 ..   .      Y
+ Z  2      ..3                                                   3..4 3 3   Z
+ AA        ..                                                     ... .    AA
+ AB 14     1.                                                      4. .. 2 AB
+ AC ..     4                                                        .  . . AC
+ AD    .4  1                                                         3 . . AD
+ AE    3.                                                             .44. AE
+ AF      .44                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                       chigger  407 
+
+                          Code 4: Race/Age/Education
+
+                 1 = W/13-65/00-10   29/56   A = B/13-65/00-10    8/30 
+                 2 = W/13-65/11-16+ 153/259  B = B/13-65/11-16+  22/61 
+                 3 = W/66-99/00-10  113/271  C = B/66-99/00-10   17/93 
+                 4 = W/66-99/11-16+  62/131  D = B/66-99/11-16+   3/13 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           223243223142233.32431413       A
+ B                        3233132.3. 2C3232233212.B3C13332431.B.244.3       B
+ C                        32.323.1.  C3.22.1.3.2.4232332..3.22B2.3343       C
+ D                        212311..233.A2.342.3A232334.32.1.2.44313          D
+ E                        2342332C3B.3.22.B24.323433224D41C.3               E
+ F                        .4.A3...C2344.1.43..C.3C2B22.2A.3.3.33            F
+ G                        322BB233..4..AD2BA2C1.C22.12..14.4.4.12           G
+ H           3     1A     34.B22.......B.343.2...B..3.C..1B21.3.24          H
+ I       3                ..43242C4....2.3.44.2..2431B.3.C4.B.3..3          I
+ J        3   .      2    2...44.22....3..2...3..1.B.43.44232C.....         J
+ K     3 .B4            .. 2....3......3.4C...3...44.2..2.....3.....        K
+ L       22.   .2       .2 22.2..2.....1........2.B..232...242.2....        L
+ M      3       2          ....332...D.42.3....C..3..24222.......3..A       M
+ N       4                 ....2......24.....2.....2..3..............       N
+ O        4        .       .33....2..3...4..2..C44........2..........       O
+ P          .      2.2   . 33.........3....4.2......................        P
+ Q     .3      .2       .3 .2..........3.2.2... ... .........2......        Q
+ R      .      ..          ..3........2.4..B........2      2.    . .        R
+ S                         .2..2.............22...B2  .   ....     4.       S
+ T         3         2.1   ........2..B             .2.2 .     ..  2..      T
+ U     ..   2    ..     2     ..........                        .   ..      U
+ V     ..      .1.            ...........                      3.4 .  .     V
+ W    22.  .   .2                                               ..  . .     W
+ X  4 2B2    ...                                                . ..   .    X
+ Y         3.24                                                 ..   .      Y
+ Z  3      ..2                                                   2..2 2 2   Z
+ AA        ..                                                     ... .    AA
+ AB 12     2.                                                      2. .. 3 AB
+ AC ..     2                                                        .  . . AC
+ AD    .4  2                                                         2 . . AD
+ AE    2.                                                             .22. AE
+ AF      .42                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                       chigger  407 
+
+                          Code 5: Race/Age/Social Status
+
+                 1 = W/13-65/L  63/130  A = B/13-65/L  18/59 
+                 2 = W/13-65/U 119/185  B = B/13-65/U  12/32 
+                 3 = W/66-99/L 121/275  C = B/66-99/L  18/99 
+                 4 = W/66-99/U  54/127  D = B/66-99/U   2/7  
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           223233223141233.32431413       A
+ B                        3244232.3. 2C3132233122.B3C14432431.A.144.3       B
+ C                        31.323.1.  C3.21.1.3.2.4232332..3.22B2.3343       C
+ D                        212311..143.A2.331.3A132334.32.1.2.44313          D
+ E                        2341331C3A.3.22.B23.313433223D31C.3               E
+ F                        .4.A3...C1444.2.43..C.3C2A22.2A.3.3.33            F
+ G                        311AA134..4..AC1AA2C1.C22.12..13.4.4.21           G
+ H           3     1A     33.B22.......B.333.2...A..3.C..1A22.3.14          H
+ I       3                ..43232C4....2.3.44.2..2431B.3.C4.B.3..3          I
+ J        3   .      2    1...44.22....4..2...3..1.B.43.34232C.....         J
+ K     3 .A4            .. 2....3......3.4C...3...43.2..2.....3.....        K
+ L       22.   .2       .2 22.1..1.....2........2.B..231...241.2....        L
+ M      3       2          ....331...D.41.3....C..4..24222.......3..A       M
+ N       3                 ....2......24.....2.....1..3..............       N
+ O        4        .       .33....2..3...3..1..C33........2..........       O
+ P          .      1.2   . 33.........3....3.1......................        P
+ Q     .3      .2       .3 .1..........3.1.2... ... .........2......        Q
+ R      .      ..          ..3........1.3..B........2      2.    . .        R
+ S                         .2..2.............22...B2  .   ....     3.       S
+ T         3         2.1   ........2..A             .1.2 .     ..  2..      T
+ U     ..   1    ..     1     ..........                        .   ..      U
+ V     ..      .1.            ...........                      3.4 .  .     V
+ W    11.  .   .2                                               ..  . .     W
+ X  4 2B2    ...                                                . ..   .    X
+ Y         4.24                                                 ..   .      Y
+ Z  3      ..2                                                   2..2 2 2   Z
+ AA        ..                                                     ... .    AA
+ AB 12     1.                                                      2. .. 3 AB
+ AC ..     2                                                        .  . . AC
+ AD    .4  1                                                         2 . . AD
+ AE    2.                                                             .22. AE
+ AF      .42                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                       chigger  407 
+
+		 Code 6: Race/Education/Social Status
+
+                 1 = W/00-10/L  126/290  A = B/00-10/L   25/122 
+                 2 = W/00-10/U   16/37   B = B/00-10/U    0/1   
+                 3 = W/11-16+/L  58/115  C = B/11-16+/L  11/36  
+                 4 = W/11-16+/U 157/275  D = B/11-16+/U  14/38  
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           441431441143411.14411411       A
+ B                        1422214.1. 4A1314411324.D1A12214411.C.344.1       B
+ C                        13.141.1.  A1.43.1.1.4.4414114..1.44D4.1141       C
+ D                        414111..321.A4.133.1A314114.14.1.4.44111          D
+ E                        4143113A1C.1.44.D43.131411443D31A.1               E
+ F                        .4.A1...A3244.2.41..A.1A4C44.4A.1.1.11            F
+ G                        133CC312..4..AC3CA4A1.A44.14..13.4.4.23           G
+ H           1     1A     13.D44.......D.131.4...C..1.A..1C42.1.34          H
+ I       1                ..41434A4....4.1.44.4..4411D.1.A4.D.1..1          I
+ J        1   .      4    3...44.44....2..4...1..1.D.41.34414A.....         J
+ K     1 .C4            .. 4....1......1.4A...1...43.4..4.....1.....        K
+ L       44.   .4       .4 44.3..3.....2........4.D..413...443.4....        L
+ M      1       4          ....113...D.43.1....A..2..44444.......1..A       M
+ N       3                 ....4......44.....4.....3..1..............       N
+ O        4        .       .11....4..1...3..3..A33........4..........       O
+ P          .      3.4   . 11.........1....3.3......................        P
+ Q     .1      .4       .1 .3..........1.3.4... ... .........4......        Q
+ R      .      ..          ..1........3.3..D........4      4.    . .        R
+ S                         .4..4.............44...D4  .   ....     3.       S
+ T         1         4.1   ........4..C             .3.4 .     ..  4..      T
+ U     ..   3    ..     3     ..........                        .   ..      U
+ V     ..      .1.            ...........                      1.4 .  .     V
+ W    33.  .   .4                                               ..  . .     W
+ X  4 4D4    ...                                                . ..   .    X
+ Y         2.44                                                 ..   .      Y
+ Z  1      ..4                                                   4..4 4 4   Z
+ AA        ..                                                     ... .    AA
+ AB 14     3.                                                      4. .. 1 AB
+ AC ..     4                                                        .  . . AC
+ AD    .4  3                                                         4 . . AD
+ AE    4.                                                             .44. AE
+ AF      .44                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                   Christmas Gift  265 
+
+                          Code 1: Race/Sex/Age
+
+                 1 = W/F/13-65  25/152  A = B/F/13-65  10/51 
+                 2 = W/M/13-65  31/163  B = B/M/13-65  10/40 
+                 3 = W/F/66-99  59/166  C = B/F/66-99  23/53 
+                 4 = W/M/66-99  89/236  D = B/M/66-99  18/53 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           .......23.....414.33...3       A
+ B                        4.43.413.. 2C..4...3......D.....3......4..4       B
+ C                        ..43.422.  C4.1....3.....4..3..4442....43.4       C
+ D                        .2.3......3...B.4.4..2...3443.2.114.4..4          D
+ E                        .34..4.C.A...2.2.1..3.4.44..4......               E
+ F                        4.....4.C..3....3...D.4D...1..B44...4.            F
+ G                        4.....4.....2B....1D..C21.2........3C..           G
+ H           4     2B     .4......D...3A.434412........3..........          H
+ I       .                .4431..D4.4........1....33...3.D..B.....          I
+ J        3   .      .    ..1.3...2.23.......A...2.A..3............         J
+ K     . A..            C. ...........1.3...3.4C.2..................        K
+ L       ...   32       .. ....2A2...1D...D.C......C.24.....3.3.....        L
+ M      3       .          3.4D.3..C...3...4..4..24...4....33........       M
+ N       .                 .4..1....1..3.D...1...422.....C...........       N
+ O        .        C       .4444....D...A3.D1..C43..34CB....1.4......       O
+ P          .      .3.   . 4.C4...D.34...C4.....4.A..C......D......C        P
+ Q     3.      ..       .4 4........24......B.3 .33 34..4..4........        Q
+ R      .      .C          D...A..D.3...3....4B2.C..2      .1    . .        R
+ S                         4.......B...........C44..  .   ....     ..       S
+ T         4         1C.   4....1......             4.1. .     2.  ...      T
+ U     ..   .    ..     .     ....4.....                        3   ..      U
+ V     ..      B..            ...........                      ... .  .     V
+ W    ...  .   .1                                               ..  . .     W
+ X  . .A.    .3.                                                . ..   .    X
+ Y         4..4                                                 ..   .      Y
+ Z  4      ...                                                   .... . .   Z
+ AA        4.                                                     ... 4    AA
+ AB ..     ..                                                      .D .. 4 AB
+ AC ..     .                                                        4  . . AC
+ AD    ..  .                                                         . . . AD
+ AE    ..                                                             .2.. AE
+ AF      ...                                                           3.. AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                    Happy Christmas 68 
+
+                          Code 1: Race/Sex/Age
+
+                 1 = W/F/13-65   1/152  A = B/F/13-65   1/51 
+                 2 = W/M/13-65   8/163  B = B/M/13-65   1/40 
+                 3 = W/F/66-99  15/166  C = B/F/66-99   4/53 
+                 4 = W/M/66-99  27/236  D = B/M/66-99  11/53 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           ....4...........4...24..       A
+ B                        .......... ......................4.........       B
+ C                        ..4..4...  .4A..................4......4.3.       C
+ D                        .....2................4.................          D
+ E                        ............................4......               E
+ F                        .3.....................D..............            F
+ G                        .......................................           G
+ H           .     ..     ............3.3.............D...........          H
+ I       .                ........................................          I
+ J        .   .      .    ......................4..................         J
+ K     . ...            .. .....3D....................D.......4.....        K
+ L       ...   ..       .. ....2...43....................3..........        L
+ M      .       .          ..4............3.............2...3........       M
+ N       .                 ..........D...D....D........3.............       N
+ O        .        .       .4.4..................3...............4...       O
+ P          .      ...   . 4....D..C......4...................3.....        P
+ Q     ..      ..       .. .2..3......D........ ... .......4........        Q
+ R      .      ..          ...4..3...................      ..    4 C        R
+ S                         ...4................C....  .   ....     ..       S
+ T         .         ...   ...D........             ..1. .     ..  ...      T
+ U     ..   .    .C     .     ...D4.....                        .   ..      U
+ V     ..      ..B            ...........                      ... 4  .     V
+ W    ...  .   ..                                               ..  . 4     W
+ X  . ...    .3.                                                . ..   2    X
+ Y         ....                                                 ..   .      Y
+ Z  .      ...                                                   .... . .   Z
+ AA        ..                                                     ... .    AA
+ AB ..     ..                                                      .. .. . AB
+ AC ..     2                                                        .  . . AC
+ AD    ..  .                                                         . . . AD
+ AE    ..                                                             ..2. AE
+ AF      ...                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                        srimp  135 
+
+                          Code 1: Race/Sex/Age
+
+                 1 = W/F/13-65  28/152  A = B/F/13-65   5/51 
+                 2 = W/M/13-65  21/163  B = B/M/13-65   4/40 
+                 3 = W/F/66-99  24/166  C = B/F/66-99  15/53 
+                 4 = W/M/66-99  33/236  D = B/M/66-99   5/53 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           1.............4..1......       A
+ B                        ...324.... ....4.1...2......3..............       B
+ C                        3......2.  .4A.1.2.......4......44.........       C
+ D                        ......13................................          D
+ E                        .3...............1.1..4.4.1........               E
+ F                        ...........3.D1.3.4...........B....1..            F
+ G                        ......4.............1C...........3.3.1.           G
+ H           .     2.     ................3...2.......D...B2.44...          H
+ I       .                .........3...........C2.....231.........          I
+ J        .   .      .    .......2.........1A....2...4...3..1......         J
+ K     . ...            .. ....C..............4C..43................        K
+ L       ...   ..       .2 ...1......1.2...1C.........41.3.....1....        L
+ M      3       1          ........C...........C..4...........2....3.       M
+ N       .                 ....1.4.........4....A....C3...3..........       N
+ O        .        .       ..4.............D...............4.........       O
+ P          .      ...   . ........C.....C.....1.C...C..............        P
+ Q     ..      ..       .. .2......D.4..A.41... 3.. 3....2..........        Q
+ R      .      .C          ..........................      ..    . .        R
+ S                         ...4......4.......2...4B.  .   3...     ..       S
+ T         .         ...   4.1.........             ...2 .     .D  ...      T
+ U     ..   .    .C     .     ..........                        .   ..      U
+ V     3.      ...            ........C..                      4.. .  .     V
+ W    ..B  .   ..                                               .3  1 .     W
+ X  . ...    ...                                                . .1   2    X
+ Y         ....                                                 .1   4      Y
+ Z  .      ...                                                   .... . .   Z
+ AA        4.                                                     2.. .    AA
+ AB ..     ..                                                      .. .. . AB
+ AC ..     2                                                        4  4 . AC
+ AD    ..  .                                                         . . . AD
+ AE    ..                                                             .... AE
+ AF      ...                                                           .A. AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                        swimp  37 
+
+                          Code 1: Race/Sex/Age
+
+                 1 = W/F/13-65   0/152  A = B/F/13-65   2/51 
+                 2 = W/M/13-65   0/163  B = B/M/13-65   5/40 
+                 3 = W/F/66-99   0/166  C = B/F/66-99   8/53 
+                 4 = W/M/66-99   3/236  D = B/M/66-99  19/53 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           ........................       A
+ B                        .......... ...............D................       B
+ C                        .........  ................................       C
+ D                        ........................................          D
+ E                        .......C...........................               E
+ F                        ........C..............D......B.......            F
+ G                        .............B.........................           G
+ H           .     .B     ........D...............................          H
+ I       .                ...............................D........          I
+ J        .   .      .    ...................................D.D...         J
+ K     . ...            .. ......DD.................................        K
+ L       ...   ..       .. .....A...................................        L
+ M      .       .          ...D..............................C.......       M
+ N       .                 .......D......D....D.............D4.......       N
+ O        .        C       ......C.........D.........4.B.............       O
+ P          .      ...   . .....DDD.........................D..A....        P
+ Q     ..      ..       .. ........D........... ... ................        Q
+ R      .      ..          ...................B..C...      ..    . .        R
+ S                         ......4..................  .   ....     ..       S
+ T         .         ...   ............             .... .     ..  ...      T
+ U     ..   .    .C     .     ..........                        .   ..      U
+ V     ..      ...            ...........                      ... .  .     V
+ W    ...  .   ..                                               ..  . .     W
+ X  . ...    C..                                                . ..   .    X
+ Y         ....                                                 ..   .      Y
+ Z  .      ...                                                   .... . .   Z
+ AA        ..                                                     ... .    AA
+ AB ..     ..                                                      .. .. . AB
+ AC ..     .                                                        .  . . AC
+ AD    ..  .                                                         . . . AD
+ AE    ..                                                             .... AE
+ AF      ...                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+                                                        Chigger Map
+
+ A = chigger ( 407 )
+
+              1         2         3         4         5         6         7
+     1234567890123456789012345678901234567890123456789012345678901234567890
+
+  A                                           AAAAAAAAAAAAAAA.AAAAAAAA       A
+  B                        AAAAAAA.A. AAAAAAAAAAAA.AAAAAAAAAAA.A.AAA.A       B
+  C                        AA.AAA.A.  AA.AA.A.A.A.AAAAAAA..A.AAAA.AAAA       C
+  D                        AAAAAA..AAA.AA.AAA.AAAAAAAA.AA.A.A.AAAAA          D
+  E                        AAAAAAAAAA.A.AA.AAA.AAAAAAAAAAAAA.A               E
+  F                        .A.AA...AAAAA.A.AA..A.AAAAAA.AA.A.A.AA            F
+  G                        AAAAAAAA..A..AAAAAAAA.AAA.AA..AA.A.A.AA           G
+  H           A     AA     AA.AAA.......A.AAA.A...A..A.A..AAAA.A.AA          H
+  I       A                ..AAAAAAA....A.A.AA.A..AAAAA.A.AA.A.A..A          I
+  J        A   .      A    A...AA.AA....A..A...A..A.A.AA.AAAAAA.....         J
+  K     A .AA            .. A....A......A.AA...A...AA.A..A.....A.....        K
+  L       AA.   .A       .A AA.A..A.....A........A.A..AAA...AAA.A....        L
+  M      A       A          ....AAA...A.AA.A....A..A..AAAAA.......A..A       M
+  N       A                 ....A......AA.....A.....A..A..............       N
+  O        A        .       .AA....A..A...A..A..AAA........A..........       O
+  P          .      A.A   . AA.........A....A.A......................        P
+  Q     .A      .A       .A .A..........A.A.A... ... .........A......        Q
+  R      .      ..          ..A........A.A..A........A      A.    . .        R
+  S                         .A..A.............AA...AA  .   ....     A.       S
+  T         A         A.A   ........A..A             .A.A .     ..  A..      T
+  U     ..   A    ..     A     ..........                        .   ..      U
+  V     ..      .A.            ...........                      A.A .  .     V
+  W    AA.  .   .A                                               ..  . .     W
+  X  A AAA    ...                                                . ..   .    X
+  Y         A.AA                                                 ..   .      Y
+  Z  A      ..A                                                   A..A A A   Z
+  AA        ..                                                     ... .    AA
+  AB AA     A.                                                      A. .. A AB
+  AC ..     A                                                        .  . . AC
+  AD    .A  A                                                         A . . AD
+  AE    A.                                                             .AA. AE
+  AF      .AA                                                           ... AF
+  AG                                                                  .     AG
+  AH                                                              .         AH
+
+              1         2         3         4         5         6         7
+     1234567890123456789012345678901234567890123456789012345678901234567890
+                                                        Redbug Map
+
+ A = redbug ( 429 )
+
+              1         2         3         4         5         6         7
+     1234567890123456789012345678901234567890123456789012345678901234567890
+
+  A                                           ........................       A
+  B                        .......... ....................A......A....       B
+  C                        .........  .....................A..........       C
+  D                        ..................A..............A..A...          D
+  E                        ...................................               E
+  F                        ...A......A................A.....A....            F
+  G                        AA..........A....A.A...AAA.A.....A..A..           G
+  H           .     ..     A...A...AA..AAA.A.A.AA...A..............          H
+  I       .                .A.A...AAAAAAA.A.AAA.AAAA....A..AAAA....          I
+  J        .   .      .    ..AAAAAA.A.AAA.AAAA.A..AA.AA..A..A......A         J
+  K     A AA.            AA A..AAAA.A.AAAAA.AAAAAAAAAAA..AAAAA.A..AA.        K
+  L       ...   AA       AA AAAAAAA.AAAAAAAAAA..A.AA.AAAAAAAAAA......        L
+  M      A       A          AAAAAAA.A.AAAAAAAA.A..AA.A.AAAA...A..AA.AA       M
+  N       A                 .AAAAAAAAAA.AAAAAAAAA.AAA....AAAAAAA....AA       N
+  O        A        A       AAAAA.AA.AAAAAAAAAAAAAAAAAAAA..A.AAA..AAA.       O
+  P          A      AAA   . AAAA..AAAAAA.AAAA.AAAA.AA.A.AAA.A.....AAA        P
+  Q     A.      .A       AA A.AAA.AAAA.AAA..AAAA AAA A.A.A...........        Q
+  R      A      ..          AAA.AA.A.A.AAAA...AAA.AA.A      AA    . .        R
+  S                         .AAAAAAAAAA...AAAAAAAAAA.  .   A.AA     ..       S
+  T         A         AAA   A.AAAA...A..             AAAA A     AA  AA.      T
+  U     A.   .    AA     A     .AAA.A.A.A                        A   .A      U
+  V     ..      A..            .AAAA....A.                      A.A A  .     V
+  W    .A.  A   AA                                               AA  A A     W
+  X  . ...    AAA                                                A AA   A    X
+  Y         AAAA                                                 .A   .      Y
+  Z  .      A.A                                                   ...A . A   Z
+  AA        A.                                                     AA. A    AA
+  AB .A     A.                                                      AA AA A AB
+  AC ..     .                                                        A  A A AC
+  AD    ..  .                                                         A . . AD
+  AE    ..                                                             .A.. AE
+  AF      .AA                                                           .A. AF
+  AG                                                                  A     AG
+  AH                                                              .         AH
+
+              1         2         3         4         5         6         7
+     1234567890123456789012345678901234567890123456789012345678901234567890
+                                                    Chigger/Redbug Map
+
+ A = chigger ( 407 )
+ B = redbug ( 429 )
+
+              1         2         3         4         5         6         7
+     1234567890123456789012345678901234567890123456789012345678901234567890
+
+  A                                           AAAAAAAAAAAAAAA.AAAAAAAA       A
+  B                        AAAAAAA.A. AAAAAAAAAAAA.AAAAAAA+AAA.A.+AA.A       B
+  C                        AA.AAA.A.  AA.AA.A.A.A.AAAAAAA..+.AAAA.AAAA       C
+  D                        AAAAAA..AAA.AA.AAABAAAAAAAA.AA.A.+.A+AAA          D
+  E                        AAAAAAAAAA.A.AA.AAA.AAAAAAAAAAAAA.A               E
+  F                        .A.+A...AA+AA.A.AA..A.AAAAA+.AA.ABA.AA            F
+  G                        ++AAAAAA..A.BAAAA+A+A.A++BA+..AA.+.ABAA           G
+  H           A     AA     +A.A+A..BB..B+BA+ABABB.A.BA.A..AAAA.A.AA          H
+  I       A                .BA+AAA++BBBB+.+.++BABB++AAA.+.A+B+BA..A          I
+  J        A   .      A    A.BB++B+AB.BB+.B+BB.+..+BAB+A.+AA+AA....B         J
+  K     + B+A            BB +..BB+B.B.BB+B+ABBB+BBB++B+..+BBBB.+..BB.        K
+  L       AA.   B+       B+ ++B+BB+.BBBB+BBBBB..BAB+.B+++BBB+++.A....        L
+  M      +       +          BBBB+++.B.+B++B+BB.BA.B+.BA++++...B..B+.B+       M
+  N       +                 .BBB+BBBBBBA+BBBBB+BB.BB+..A.BBBBBBB....BB       N
+  O        +        B       B++BB.B+.B+BBB+BB+BB+++BBBBBB..+.BBB..BBB.       O
+  P          B      +B+   . ++BB..BBBBB+.BBB+.+BBB.BB.B.BBB.B.....BBB        P
+  Q     BA      .+       B+ BABBB.BBBB.B+BA.+BBB BBB B.B.B....A......        Q
+  R      B      ..          BB+.BB.B.B.+B+B.A.BBB.BB.+      +B    . .        R
+  S                         .+BB+BBBBBB...BBBB++BBB+A  .   B.BB     A.       S
+  T         +         +B+   B.BBBB..AB.A             B+B+ B     BB  +B.      T
+  U     B.   A    BB     +     .BBB.B.B.B                        B   .B      U
+  V     ..      BA.            .BBBB....B.                      +.+ B  .     V
+  W    A+.  B   B+                                               BB  B B     W
+  X  A AAA    BBB                                                B BB   B    X
+  Y         +B++                                                 .B   .      Y
+  Z  A      B.+                                                   A..+ A +   Z
+  AA        B.                                                     BB. B    AA
+  AB A+     +.                                                      +B BB + AB
+  AC ..     A                                                        B  B B AC
+  AD    .A  A                                                         + . . AD
+  AE    A.                                                             .+A. AE
+  AF      .++                                                           .B. AF
+  AG                                                                  B     AG
+  AH                                                              .         AH
+
+              1         2         3         4         5         6         7
+     1234567890123456789012345678901234567890123456789012345678901234567890
+If Codemaps and Lagsmaps are formatted in Courier 7pt type, the overlay maps
+to be found in LAGS volume 4 (Regional Matrix) will fit exactly.  
+
+                                                  chigger  407
+
+                          Code 1: Race/Sex/Age
+
+                 1 = W/F/13-65  92/152  A = B/F/13-65  16/51 
+                 2 = W/M/13-65  90/163  B = B/M/13-65  14/40 
+                 3 = W/F/66-99  80/166  C = B/F/66-99  10/53 
+                 4 = W/M/66-99  95/236  D = B/M/66-99  10/53 
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890
+
+ A                                           123143223141144.41332413       A
+ B                        4243241.4. 2C4141133222.A3D23431341.A.244.4       B
+ C                        31.314.2.  C4.11.2.3.2.3241331..4.22A1.4334       C
+ D                        122322..143.A1.442.3B241334.32.2.1.44414          D
+ E                        2342341C3A.4.22.B14.324344124C32C.3               E
+ F                        .3.A4...C2433.1.33..D.4D1A21.1B.4.3.43            F
+ G                        411AA144..4..BD1AB1D1.C21.21..13.3.3.11           G
+ H           4     2B     44.B21.......A.434.1...B..4.D..1B21.4.14          H
+ I       4                ..43131D4....2.3.44.1..2332B.3.D4.B.3..3          I
+ J        3   .      2    2...34.22....4..2...4..2.A.43.33131D.....         J
+ K     3 .A3            .. 1....3......3.4D...4...43.2..1.....4.....        K
+ L       12.   .2       .2 21.1..2.....2........2.B..241...132.1....        L
+ M      3       1          ....432...C.31.3....C..4..24121.......3..A       M
+ N       4                 ....1......23.....1.....2..3..............       N
+ O        4        .       .44....2..4...3..1..C43........2..........       O
+ P          .      2.1   . 44.........4....3.1......................        P
+ Q     .3      .1       .4 .2..........3.2.1... ... .........1......        Q
+ R      .      ..          ..3........2.3..B........2      1.    . .        R
+ S                         .1..2.............22...B1  .   ....     3.       S
+ T         4         1.2   ........2..A             .2.2 .     ..  2..      T
+ U     ..   1    ..     2     ..........                        .   ..      U
+ V     ..      .2.            ...........                      4.4 .  .     V
+ W    12.  .   .1                                               ..  . .     W
+ X  4 1A1    ...                                                . ..   .    X
+ Y         4.24                                                 ..   .      Y
+ Z  4      ..1                                                   1..2 1 1   Z
+ AA        ..                                                     ... .    AA
+ AB 12     1.                                                      2. .. 4 AB
+ AC ..     2                                                        .  . . AC
+ AD    .4  1                                                         1 . . AD
+ AE    1.                                                             .22. AE
+ AF      .42                                                           ... AF
+ AG                                                                  .     AG
+ AH                                                              .         AH
+
+             1         2         3         4         5         6         7
+    1234567890123456789012345678901234567890123456789012345678901234567890

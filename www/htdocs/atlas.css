@@ -1,0 +1,16 @@
+a:link {  font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a:active {  font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a:visited {  font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+
+p {  font-family: Verdana, Arial, Helvetica, sans-serif}
+li {  font-family: Verdana, Arial, Helvetica, sans-serif}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif}
+pre {  font-family: monospace}
+.phonetic {  font-family: Arial Unicode MS, Thryomanes, Lucida Sans Unicode, sans-serif;}
+.corner {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 110%; font-weight: bold; color: #FFFFFF; background-color: #000000; text-align: center}
+.banner {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 150%; font-weight: bold; color: #FFFFFF; background-color: #000099; text-align: center}
+.sidebar {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 90%; color: #000000; background-color: #CCCCCC}
+.sbTitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 90%; font-weight: bold; color: #000000; background-color: #CCCCCC}
+.sbFoot {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 80%; color: #000000; background-color: #CCCCCC}
+

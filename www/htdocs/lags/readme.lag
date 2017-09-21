@@ -1,0 +1,32 @@
+
+
+                    Linguistic Atlas of the Gulf States
+
+                        Automatic Atlas in Microform
+
+
+This directory contains four subdirectories:  lexicon, grammar, abc, and 
+programs.  The first three contain data files, and the last the programs
+with which to manipulate the data.
+
+A variety of programs were prepared by William McDaniel and Susan Leas
+McDaniel, under the direction of Lee Pederson, for manipulation of LAGS
+data files.  Each program was written in Basic, then compiled;  they will
+run without additional software on IBM compatible computers.  Although
+some of the programs make maps, they are graphic plotter maps which plot
+in IBM text mode, and so do not require any special kind of computer monitor
+or software.
+
+For further information about these programs and about the LAGS project,
+please consult the following publications:
+
+Lee Pederson, *Linguistic Atlas of the Gulf States*, 7 vols., Athens: Univ.
+     of Georgia Press, 1986--92.
+Lee Pederson, "An Approach to Linguistic Geography: The Linguistic Atlas
+     of the Gulf States", in D. Preston, ed., *American Dialect Research*,
+     Philadelphia: John Benjamins, 1993, 31-92.
+Lee Pederson, "AAM Phonology", *Journal of English Linguistics* 22 (1989):
+     54-62.
+Susan Leas McDaniel, "Databases of the LAGS Automatic Atlas",
+     *Journal of English Linguistics* 22 (1989):63-68.
+

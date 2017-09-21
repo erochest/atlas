@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+                    "/dtds/docbook/docbookx.dtd">
+<!-- "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"> -->
+<book>
+<bookinfo>
+<title>Developing the Linguistic Atlas Projects Web Site</title>
+<author><firstname>Eric</firstname> <surname>Rochester</surname></author>
+
+<date>19 Feb 2003</date>
+
+</bookinfo>
+
+<preface id="preface">
+<title>Introduction</title>
+
+<para>This document describes the Linguistic Atlas Projects web site from a
+developer's point of view. This involves a description of the architecture of
+the site, a description of how to set up a Windows machine to work on the site,
+and a description of how to deploy the site.</para>
+
+</preface>
+
+<part id="architecture">
+<title>Architecture</title>
+
+  <preface id="arch:intro">
+  <title>Overview</title>
+  
+    <para>This section describes the various parts of the Atlas web site. It
+    looks at how each part is organized and how it interacts with the other
+    entities that comprise the site. First, there is the programming code that
+    creates the site, whether the database or the static or dynamic pages.
+    Second, it looks at the template system used to create the pages (again,
+    both static and dynamic). Third, this looks specifically at how static pages
+    are created and organized on the site. Finally, this looks at how dynamic
+    pages are created and organized.</para>
+    
+  </preface>
+
+  <chapter id="arch:code">
+  <title>Programming Code</title>
+  
+    <para/>
+  
+  </chapter>
+  
+  <chapter id="arch:templates">
+  <title>Templates</title>
+  
+    <para/>
+  
+  </chapter>
+  
+  <chapter id="arch:static">
+  <title>Static Pages</title>
+  
+    <para/>
+  
+  </chapter>
+  
+  <chapter id="arch:dynamic">
+  <title>Dynamic Pages</title>
+  
+    <para/>
+
+  </chapter>
+
+</part>
+
+<part id="devel">
+<title>Development</title>
+
+  <chapter id="requirements">
+  <title>Requirements</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="apache">
+  <title>Apache</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="postgresql">
+  <title>PostgreSQL</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="python">
+  <title>Python</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="editor">
+  <title>Editor</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="dirstruct">
+  <title>Directory Structure</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="integrating">
+  <title>Putting It All Together</title>
+  
+    <para/>
+    
+  </chapter>
+  
+  <chapter id="howtos">
+  <title>How To's</title>
+  
+    <para/>
+    
+  </chapter>
+
+</part>
+
+<part id="deploy">
+<title>Deployment</title>
+
+  <chapter id="programs">
+  <title>Setting Up Python</title>
+    <para/>
+  </chapter>
+
+  <chapter id="server">
+  <title>Setting Up the Server</title>
+    <para/>
+  </chapter>
+  
+  <chapter id="database">
+  <title>Setting Up the Database</title>
+    <para/>
+  </chapter>
+  
+  <chapter id="site">
+  <title>Setting Up the Site</title>
+    <para/>
+  </chapter>
+  
+</part>
+
+</book>

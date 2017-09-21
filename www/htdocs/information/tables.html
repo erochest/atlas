@@ -1,0 +1,30 @@
+<!--wt:default-->
+  <p><b>Which table would you like information about?</b></p>
+
+  <ul>
+    <!--wt:tableitem-->
+      <li><a href="tables.html?$$=project$$table=$$%table$$">$$table$$</a></li>
+    <!--wt:/tableitem-->
+  </ul>
+<!--wt:/default-->
+<!--wt:tableinfo-->
+  <p><b>About the <code>$$table$$</code> Database Table</b></p>
+
+  $$=fullDescription$$
+
+  <p>For further information about the fields in the <code>$$table$$</code>
+  table, select one of the links below.</p>
+
+  <!--wt:projectinfo-->
+    <p>In the $$project$$ project, the <code>$$table$$</code> table contains
+    $$count$$ rows.</p>
+  <!--wt:/projectinfo-->
+
+  <ul>
+    <!--wt:tableitem-->
+      <li><a href="fields.html?$$=project$$field=$$%table$$.$$%field$$">
+      $$field$$</a> $$=description$$</li>
+    <!--wt:/tableitem-->
+  </ul>
+<!--wt:/tableinfo-->
+$$=back$$

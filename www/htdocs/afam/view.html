@@ -1,0 +1,38 @@
+<table align="center" width="80%" bgcolor="#EEEEEF" cellpadding="10">
+<tr><td valign="center" align="left">
+<font size="-1"><b><i><a href="browse.html">Back</a> to Browse</i></b>
+(without changes)</font>
+</td></tr>
+<tr><td valign="center" align="left">
+<form method="GET" action="browse.html">
+<table width="100%" cellpadding="3">
+<tr><td valign="center" align="right">Views</td>
+<td valign="center">
+<select name="view">
+<!--wt:view-->
+<option $$=selected$$ value="$$%value$$">$$view$$ fields</option>
+<!--wt:/view-->
+</select>
+</td></tr>
+<tr><td valign="center" align="right">Number of rows per page</td>
+<td valign="center">
+<select name="pagelen">
+<!--wt:pagelen-->
+  <option $$=selected$$ value="$$%pagelen$$">$$pagelen$$ rows</option>
+<!--wt:/pagelen-->
+</select>
+</td>
+<tr><td valign="top" align="right">Show Map</td>
+<td valign="top">
+<!--wt:map-->
+  <input type="radio" name="map" value="$$%value$$" $$=checked$$>&nbsp;$$label$$<br>
+<!--wt:/map-->
+</td></tr>
+
+<tr><td colspan="2" valign="center" align="right">
+<input type="submit">&nbsp;<input type="reset">
+</td></tr>
+</table>
+</form>
+</td></tr>
+</table>

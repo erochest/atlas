@@ -1,0 +1,30 @@
+# Instructions for installing Lamsas True Type fonts
+
+The package consists of three files--system files for a mono-spaced font
+and the instructions (README.TT)
+The font is based on standard Windows (TM) Courier; it is called
+LAMSAS Courier.
+
+# Installation
+
+1. Open Windows (TM) program group Main
+2. Select and open Control Panel
+3. Select and open Fonts
+4. Choose "Add"
+5. Specify the path where the font files are located
+	(hint: you will find them in the directory where you
+	unpacked the lamttf.zip file)
+6. click "OK"
+
+# Use
+
+Since the font will now reside in the Windows system directory,
+it will be available for any application supporting true type fonts.
+To use it in a www browser, you need to change the browser's options
+appropriately.
+
+We recommend that you use LAMSAS Courier for on-line viewing of
+LAMSAS databases.  Since the special phonetic characters occupy
+the upper ASCII range (127-255), you may select this font as your
+default fixed font in the browser.  Alternately, choose this option
+only when viewing LAMSAS databases on-line (without saving options).

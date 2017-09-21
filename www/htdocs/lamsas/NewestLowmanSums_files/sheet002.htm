@@ -1,0 +1,721 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 10">
+<link id=Main-File rel=Main-File href="../NewestLowmanSums.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Edit-Time-Data href=editdata.mso>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../NewestLowmanSums.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:WorksheetOptions>
+  <x:DefaultRowHeight>225</x:DefaultRowHeight>
+  <x:CodeName>Sheet10</x:CodeName>
+  <x:TopRowVisible>8</x:TopRowVisible>
+  <x:ProtectContents>False</x:ProtectContents>
+  <x:ProtectObjects>False</x:ProtectObjects>
+  <x:ProtectScenarios>False</x:ProtectScenarios>
+ </x:WorksheetOptions>
+ <x:Sorting>
+  <x:Sort>Column AE</x:Sort>
+  <x:Descending/>
+ </x:Sorting>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple class=xl39>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=696 style='border-collapse:
+ collapse;table-layout:fixed;width:522pt'>
+ <col class=xl39 width=64 span=10 style='mso-width-source:userset;mso-width-alt:
+ 2730;width:48pt'>
+ <col class=xl39 width=56 style='width:42pt'>
+ <col class=xl39 width=64 span=245 style='mso-width-source:userset;mso-width-alt:
+ 2730;width:48pt'>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 width=64 style='height:11.25pt;width:48pt'>MA</td>
+  <td class=xl38 width=64 style='width:48pt'>MA</td>
+  <td class=xl38 width=64 style='width:48pt'>EVNC</td>
+  <td class=xl38 width=64 style='width:48pt'>SWVA</td>
+  <td class=xl38 width=64 style='width:48pt'>EM</td>
+  <td class=xl38 width=64 style='width:48pt'>EA</td>
+  <td class=xl38 width=64 style='width:48pt'>SE</td>
+  <td class=xl38 width=64 style='width:48pt'>WC</td>
+  <td class=xl38 width=64 style='width:48pt'>DV</td>
+  <td class=xl39 width=64 style='width:48pt'></td>
+  <td class=xl39 width=56 style='width:42pt'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.91935483870967738">92%</td>
+  <td class=xl32 align=right x:num="0.66129032258064513">66%</td>
+  <td class=xl32 align=right x:num="0.5423728813559322">54%</td>
+  <td class=xl32 align=right x:num="0.64784946236559138">65%</td>
+  <td class=xl32 align=right x:num="0.50510752688172045">51%</td>
+  <td class=xl32 align=right x:num="0.52740112994350286">53%</td>
+  <td class=xl32 align=right x:num="0.38383838383838381">38%</td>
+  <td class=xl32 align=right x:num="0.26822916666666669">27%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.70149253731343286">70%</td>
+  <td class=xl32 align=right x:num="0.4925373134328358">49%</td>
+  <td class=xl32 align=right x:num="0.41428571428571431">41%</td>
+  <td class=xl32 align=right x:num="0.40641025641025641">41%</td>
+  <td class=xl32 align=right x:num="0.34435028248587568">34%</td>
+  <td class=xl32 align=right x:num="0.37380952380952381">37%</td>
+  <td class=xl32 align=right x:num="0.28645833333333331">29%</td>
+  <td class=xl32 align=right x:num="0.25661375661375663">26%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl40 align=right x:num="0.67502382886565548">68%</td>
+  <td class=xl40 align=right x:num="0.44679773350053409">45%</td>
+  <td class=xl40 align=right x:num="0.41823717916594605">42%</td>
+  <td class=xl40 align=right x:num="0.40808678792749215">41%</td>
+  <td class=xl40 align=right x:num="0.37481933193723588">37%</td>
+  <td class=xl40 align=right x:num="0.35509537487742621">36%</td>
+  <td class=xl40 align=right x:num="0.23038926572214377">23%</td>
+  <td class=xl40 align=right x:num="0.24787739748677248"
+  x:fmla="=(I2+I3+I5+I6)/4">25%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.60655737704918034">61%</td>
+  <td class=xl32 align=right x:num="0.44262295081967212">44%</td>
+  <td class=xl32 align=right x:num="0.40909090909090912">41%</td>
+  <td class=xl32 align=right x:num="0.36344086021505373">36%</td>
+  <td class=xl32 align=right x:num="0.32738095238095238">33%</td>
+  <td class=xl32 align=right x:num="0.30508474576271188">31%</td>
+  <td class=xl32 align=right x:num="0.18461538461538463">18%</td>
+  <td class=xl32 align=right x:num="0.24126984126984125">24%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.44615384615384618">45%</td>
+  <td class=xl32 align=right x:num="0.296875">30%</td>
+  <td class=xl32 align=right x:num="0.265625">27%</td>
+  <td class=xl32 align=right x:num="0.23724747474747473">24%</td>
+  <td class=xl32 align=right x:num="0.20502645502645503">21%</td>
+  <td class=xl32 align=right x:num="0.18857142857142856">19%</td>
+  <td class=xl32 align=right x:num="0.10606060606060606">11%</td>
+  <td class=xl32 align=right x:num="0.22539682539682537">23%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>EVNC</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.5757575757575758">58%</td>
+  <td class=xl32 align=right x:num="0.87671232876712324">88%</td>
+  <td class=xl32 align=right x:num="0.82432432432432434">82%</td>
+  <td class=xl32 align=right x:num="0.50578703703703698">51%</td>
+  <td class=xl32 align=right x:num="0.50347222222222232">50%</td>
+  <td class=xl32 align=right x:num="0.48661616161616161">49%</td>
+  <td class=xl32 align=right x:num="0.41106770833333334">41%</td>
+  <td class=xl32 align=right x:num="0.38372747747747749">38%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.41333333333333333">41%</td>
+  <td class=xl32 align=right x:num="0.76056338028169013">76%</td>
+  <td class=xl32 align=right x:num="0.67567567567567566">68%</td>
+  <td class=xl32 align=right x:num="0.36187214611872148">36%</td>
+  <td class=xl32 align=right x:num="0.369424882629108">37%</td>
+  <td class=xl32 align=right x:num="0.32657657657657657">33%</td>
+  <td class=xl32 align=right x:num="0.32828638497652585">33%</td>
+  <td class=xl32 align=right x:num="0.21684272300469482">22%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl37 align=right x:num="0.40107640963238672">40%</td>
+  <td class=xl33 align=right x:num="0.70688504818564424">71%</td>
+  <td class=xl33 align=right x:num="0.65705843943078568">66%</td>
+  <td class=xl33 align=right x:num="0.35529162681483079">36%</td>
+  <td class=xl33 align=right x:num="0.37982207593067979">38%</td>
+  <td class=xl33 align=right x:num="0.33176461538531155">33%</td>
+  <td class=xl33 align=right x:num="0.30139818922401213">30%</td>
+  <td class=xl40 align=right x:num="0.29167558844055325"
+  x:fmla="=(I9+I10+I12+I13)/4">29%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.3888888888888889">39%</td>
+  <td class=xl32 align=right x:num="0.65714285714285714">66%</td>
+  <td class=xl32 align=right x:num="0.63888888888888884">64%</td>
+  <td class=xl32 align=right x:num="0.2759114583333333">28%</td>
+  <td class=xl32 align=right x:num="0.37369791666666669">37%</td>
+  <td class=xl32 align=right x:num="0.2878787878787879">29%</td>
+  <td class=xl32 align=right x:num="0.28997747747747749">29%</td>
+  <td class=xl32 align=right x:num="0.37376126126126125">37%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.25675675675675674">26%</td>
+  <td class=xl32 align=right x:num="0.45333333333333331">45%</td>
+  <td class=xl32 align=right x:num="0.44">44%</td>
+  <td class=xl32 align=right x:num="0.15011737089201876">15%</td>
+  <td class=xl32 align=right x:num="0.22417840375586853">22%</td>
+  <td class=xl32 align=right x:num="0.19189189189189187">19%</td>
+  <td class=xl32 align=right x:num="0.19538288288288289">20%</td>
+  <td class=xl32 align=right x:num="0.19237089201877935">19%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>SWVA</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.50724637681159424">51%</td>
+  <td class=xl32 align=right x:num="0.84057971014492749">84%</td>
+  <td class=xl32 align=right x:num="0.90540540540540537">91%</td>
+  <td class=xl32 align=right x:num="0.46735159817351601">47%</td>
+  <td class=xl32 align=right x:num="0.47009132420091321">47%</td>
+  <td class=xl32 align=right x:num="0.49474885844748862">49%</td>
+  <td class=xl32 align=right x:num="0.46002252252252257">46%</td>
+  <td class=xl32 align=right x:num="0.46480855855855852">46%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.39189189189189189">39%</td>
+  <td class=xl32 align=right x:num="0.72463768115942029">72%</td>
+  <td class=xl32 align=right x:num="0.73611111111111116">74%</td>
+  <td class=xl32 align=right x:num="0.37922705314009664">38%</td>
+  <td class=xl32 align=right x:num="0.38112745098039219">38%</td>
+  <td class=xl32 align=right x:num="0.37962962962962965">38%</td>
+  <td class=xl32 align=right x:num="0.34085648148148151">34%</td>
+  <td class=xl32 align=right x:num="0.29716435185185186">30%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl33 align=right x:num="0.37795924899517153">38%</td>
+  <td class=xl33 align=right x:num="0.66159481060521663">66%</td>
+  <td class=xl33 align=right x:num="0.74061004991487212">74%</td>
+  <td class=xl33 align=right x:num="0.33175908321722097">33%</td>
+  <td class=xl33 align=right x:num="0.35825448697619561">36%</td>
+  <td class=xl33 align=right x:num="0.34547761423598322">35%</td>
+  <td class=xl33 align=right x:num="0.33721421217255698">34%</td>
+  <td class=xl40 align=right x:num="0.36776463963963962"
+  x:fmla="=(I16+I17+I19+I20)/4">37%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.36231884057971014">36%</td>
+  <td class=xl32 align=right x:num="0.61643835616438358">62%</td>
+  <td class=xl32 align=right x:num="0.69565217391304346">70%</td>
+  <td class=xl32 align=right x:num="0.28490338164251205">28%</td>
+  <td class=xl32 align=right x:num="0.3216324200913242">32%</td>
+  <td class=xl32 align=right x:num="0.30724637681159417">31%</td>
+  <td class=xl32 align=right x:num="0.31700450450450451">32%</td>
+  <td class=xl32 align=right x:num="0.43605324074074076">44%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.22972972972972974">23%</td>
+  <td class=xl32 align=right x:num="0.41891891891891891">42%</td>
+  <td class=xl32 align=right x:num="0.53246753246753242">53%</td>
+  <td class=xl32 align=right x:num="0.16192129629629629">16%</td>
+  <td class=xl32 align=right x:num="0.23826291079812204">24%</td>
+  <td class=xl32 align=right x:num="0.23687214611872148">24%</td>
+  <td class=xl32 align=right x:num="0.19444444444444445">19%</td>
+  <td class=xl32 align=right x:num="0.27303240740740736">27%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>EM</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.57358191193970653">57%</td>
+  <td class=xl32 align=right x:num="0.52433371958285047">52%</td>
+  <td class=xl32 align=right x:num="0.46811932812184365">47%</td>
+  <td class=xl32 align=right x:num="0.80882352941176472">81%</td>
+  <td class=xl32 align=right x:num="0.64544591777229787">65%</td>
+  <td class=xl32 align=right x:num="0.62550221367911896">63%</td>
+  <td class=xl32 align=right x:num="0.52143684820393965">52%</td>
+  <td class=xl32 align=right x:num="0.46078431372549017">46%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.40636782572266444">41%</td>
+  <td class=xl32 align=right x:num="0.34387713328822483">34%</td>
+  <td class=xl32 align=right x:num="0.3380281690140845">34%</td>
+  <td class=xl32 align=right x:num="0.60913280268118974">61%</td>
+  <td class=xl32 align=right x:num="0.48114615992934895">48%</td>
+  <td class=xl32 align=right x:num="0.46082949308755761">46%</td>
+  <td class=xl32 align=right x:num="0.29729121961817134">30%</td>
+  <td class=xl32 align=right x:num="0.27165665875343292">27%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl33 align=right x:num="0.38126535899933567">38%</td>
+  <td class=xl33 align=right x:num="0.36843097776729228">37%</td>
+  <td class=xl33 align=right x:num="0.34224386720843025">34%</td>
+  <td class=xl33 align=right x:num="0.59584710146516273">60%</td>
+  <td class=xl33 align=right x:num="0.4886200619616935">49%</td>
+  <td class=xl33 align=right x:num="0.42687316625435007">43%</td>
+  <td class=xl33 align=right x:num="0.30496409603019453">30%</td>
+  <td class=xl40 align=right x:num="0.33952033892735978"
+  x:fmla="=(I23+I24+I26+I27)/4">34%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.34782608695652173">35%</td>
+  <td class=xl32 align=right x:num="0.323943661971831">32%</td>
+  <td class=xl32 align=right x:num="0.34462912920352634">34%</td>
+  <td class=xl32 align=right x:num="0.51487504958349872">51%</td>
+  <td class=xl32 align=right x:num="0.47887323943661969">48%</td>
+  <td class=xl32 align=right x:num="0.38235294117647056">38%</td>
+  <td class=xl32 align=right x:num="0.3186558516801854">32%</td>
+  <td class=xl32 align=right x:num="0.40686274509803921">41%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.21126760563380281">21%</td>
+  <td class=xl32 align=right x:num="0.18644292220247544">19%</td>
+  <td class=xl32 align=right x:num="0.20393561232311427">20%</td>
+  <td class=xl32 align=right x:num="0.28081357203111823">28%</td>
+  <td class=xl32 align=right x:num="0.28820740441844045">29%</td>
+  <td class=xl32 align=right x:num="0.26336216792739559">26%</td>
+  <td class=xl32 align=right x:num="0.16630013454333401">17%</td>
+  <td class=xl32 align=right x:num="0.21877763813247683">22%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>EA</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.51183368827017606">51%</td>
+  <td class=xl32 align=right x:num="0.54081907882818514">54%</td>
+  <td class=xl32 align=right x:num="0.49734099299117157">50%</td>
+  <td class=xl32 align=right x:num="0.65390087182117118">65%</td>
+  <td class=xl32 align=right x:num="0.82420301779870209">82%</td>
+  <td class=xl32 align=right x:num="0.54956703072853985">55%</td>
+  <td class=xl32 align=right x:num="0.44413495017409055">44%</td>
+  <td class=xl32 align=right x:num="0.41529686156358853">42%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.36080776816518412">36%</td>
+  <td class=xl32 align=right x:num="0.38175249154938595">38%</td>
+  <td class=xl32 align=right x:num="0.34742257641480889">35%</td>
+  <td class=xl32 align=right x:num="0.52739094660389385">53%</td>
+  <td class=xl32 align=right x:num="0.63684051245838802">64%</td>
+  <td class=xl32 align=right x:num="0.40010888326600308">40%</td>
+  <td class=xl32 align=right x:num="0.3460703349726269">35%</td>
+  <td class=xl32 align=right x:num="0.21137607868609076">21%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl40 align=right x:num="0.33812089813456198">34%</td>
+  <td class=xl33 align=right x:num="0.38069020275807625">38%</td>
+  <td class=xl33 align=right x:num="0.35728246040289457">36%</td>
+  <td class=xl33 align=right x:num="0.47168869945436698">47%</td>
+  <td class=xl33 align=right x:num="0.64410468937334653">64%</td>
+  <td class=xl33 align=right x:num="0.36138699861255508">36%</td>
+  <td class=xl33 align=right x:num="0.31246225026733121">31%</td>
+  <td class=xl40 align=right x:num="0.3104842443921792"
+  x:fmla="=(I30+I31+I33+I34)/4">31%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.29444325908510838">29%</td>
+  <td class=xl32 align=right x:num="0.35241404020112643">35%</td>
+  <td class=xl32 align=right x:num="0.35241404020112643">35%</td>
+  <td class=xl32 align=right x:num="0.36790512115490681">37%</td>
+  <td class=xl32 align=right x:num="0.55906096316229015">56%</td>
+  <td class=xl32 align=right x:num="0.33671708267606942">34%</td>
+  <td class=xl32 align=right x:num="0.29352863489014291">29%</td>
+  <td class=xl32 align=right x:num="0.40771091492876188">41%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.18763240189649955">19%</td>
+  <td class=xl32 align=right x:num="0.231211540401493">23%</td>
+  <td class=xl32 align=right x:num="0.24573791990315746">25%</td>
+  <td class=xl32 align=right x:num="0.2205437505799388">22%</td>
+  <td class=xl32 align=right x:num="0.3919548990289794">39%</td>
+  <td class=xl32 align=right x:num="0.24549464554166334">25%</td>
+  <td class=xl32 align=right x:num="0.18439268813213328">18%</td>
+  <td class=xl32 align=right x:num="0.2075531223902756">21%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>SE</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.51986596457635237">52%</td>
+  <td class=xl32 align=right x:num="0.51428571428571423">51%</td>
+  <td class=xl32 align=right x:num="0.52433973601538908">52%</td>
+  <td class=xl32 align=right x:num="0.6572847682119205">66%</td>
+  <td class=xl32 align=right x:num="0.57858823529411763">58%</td>
+  <td class=xl32 align=right x:num="0.81043561512685491">81%</td>
+  <td class=xl32 align=right x:num="0.6327171021215634">63%</td>
+  <td class=xl32 align=right x:num="0.46666666666666662">47%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.32539736680537545">33%</td>
+  <td class=xl32 align=right x:num="0.32539736680537545">33%</td>
+  <td class=xl32 align=right x:num="0.37144416399481539">37%</td>
+  <td class=xl32 align=right x:num="0.46468646864686469">46%</td>
+  <td class=xl32 align=right x:num="0.40555290265365979">41%</td>
+  <td class=xl32 align=right x:num="0.53891807080974141">54%</td>
+  <td class=xl32 align=right x:num="0.42964705882352938">43%</td>
+  <td class=xl32 align=right x:num="0.34975369458128081">35%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl40 align=right x:num="0.36271763653681283">36%</td>
+  <td class=xl33 align=right x:num="0.37621925561740749">38%</td>
+  <td class=xl33 align=right x:num="0.38941907556563327">39%</td>
+  <td class=xl33 align=right x:num="0.46571096321287281">47%</td>
+  <td class=xl33 align=right x:num="0.40947752849839686">41%</td>
+  <td class=xl33 align=right x:num="0.6066155841299421">61%</td>
+  <td class=xl33 align=right x:num="0.42153823651141414">42%</td>
+  <td class=xl40 align=right x:num="0.38189207923497465"
+  x:fmla="=(I37+I38+I40+I41)/4">38%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.35858823529411765">36%</td>
+  <td class=xl32 align=right x:num="0.35858823529411765">36%</td>
+  <td class=xl32 align=right x:num="0.3936782420383193">39%</td>
+  <td class=xl32 align=right x:num="0.39058823529411768">39%</td>
+  <td class=xl32 align=right x:num="0.3583529411764706">36%</td>
+  <td class=xl32 align=right x:num="0.51685460473185174">52%</td>
+  <td class=xl32 align=right x:num="0.35927152317880795">36%</td>
+  <td class=xl32 align=right x:num="0.41225165562913901">41%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.20260590763353567">20%</td>
+  <td class=xl32 align=right x:num="0.21795484003001564">22%</td>
+  <td class=xl32 align=right x:num="0.26821192052980131">27%</td>
+  <td class=xl32 align=right x:num="0.2594542843465773">26%</td>
+  <td class=xl32 align=right x:num="0.27466960352422909">27%</td>
+  <td class=xl32 align=right x:num="0.36009933774834435">36%</td>
+  <td class=xl32 align=right x:num="0.23378823529411766">23%</td>
+  <td class=xl32 align=right x:num="0.29889630006281215">30%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>WC</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.38898515181403776">39%</td>
+  <td class=xl32 align=right x:num="0.47076347512816952">47%</td>
+  <td class=xl32 align=right x:num="0.49314762816817598">49%</td>
+  <td class=xl32 align=right x:num="0.55276837363047471">55%</td>
+  <td class=xl32 align=right x:num="0.48006644518272423">48%</td>
+  <td class=xl32 align=right x:num="0.65321093781009909">65%</td>
+  <td class=xl32 align=right x:num="0.84964488426607043">85%</td>
+  <td class=xl32 align=right x:num="0.52756822403868353">53%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.21786470400154925">22%</td>
+  <td class=xl32 align=right x:num="0.3724137931034483">37%</td>
+  <td class=xl32 align=right x:num="0.37580071174377222">38%</td>
+  <td class=xl32 align=right x:num="0.33115435008235489">33%</td>
+  <td class=xl32 align=right x:num="0.35372251097140422">35%</td>
+  <td class=xl32 align=right x:num="0.46510079772775176">47%</td>
+  <td class=xl32 align=right x:num="0.55560478511298184">56%</td>
+  <td class=xl32 align=right x:num="0.40762073548958799">41%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl33 align=right x:num="0.22309176984890877">22%</td>
+  <td class=xl33 align=right x:num="0.32540663946587867">33%</td>
+  <td class=xl33 align=right x:num="0.3618517945532555">36%</td>
+  <td class=xl33 align=right x:num="0.31637065106009754">32%</td>
+  <td class=xl33 align=right x:num="0.33630134607775641">34%</td>
+  <td class=xl33 align=right x:num="0.40267318098032701">40%</td>
+  <td class=xl33 align=right x:num="0.59190707688901656">59%</td>
+  <td class=xl40 align=right x:num="0.41989385020440284"
+  x:fmla="=(I44+I45+I47+I48)/4">42%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.25079305840641908">25%</td>
+  <td class=xl32 align=right x:num="0.3356344118248672">34%</td>
+  <td class=xl32 align=right x:num="0.3828883767278598">38%</td>
+  <td class=xl32 align=right x:num="0.30039875941515287">30%</td>
+  <td class=xl32 align=right x:num="0.31719758984084306">32%</td>
+  <td class=xl32 align=right x:num="0.36059065900766712">36%</td>
+  <td class=xl32 align=right x:num="0.51661129568106312">52%</td>
+  <td class=xl32 align=right x:num="0.46531667384747949">47%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.10167019520072298">10%</td>
+  <td class=xl32 align=right x:num="0.21176470588235294">21%</td>
+  <td class=xl32 align=right x:num="0.21724137931034485">22%</td>
+  <td class=xl32 align=right x:num="0.17138690048121877">17%</td>
+  <td class=xl32 align=right x:num="0.19559408981472423">20%</td>
+  <td class=xl32 align=right x:num="0.20043552768142534">20%</td>
+  <td class=xl32 align=right x:num="0.2561790917662804">26%</td>
+  <td class=xl32 align=right x:num="0.27906976744186041">28%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl39 style='height:11.25pt'></td>
+  <td colspan=8 class=xl32 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>DV</td>
+  <td class=xl38>MA</td>
+  <td class=xl38>EVNC</td>
+  <td class=xl38>SWVA</td>
+  <td class=xl38>EM</td>
+  <td class=xl38>EA</td>
+  <td class=xl38>SE</td>
+  <td class=xl38>WC</td>
+  <td class=xl38>DV</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Largest</td>
+  <td class=xl32 align=right x:num="0.38253824788721252">38%</td>
+  <td class=xl32 align=right x:num="0.43162221181313798">43%</td>
+  <td class=xl32 align=right x:num="0.52282338349485735">52%</td>
+  <td class=xl32 align=right x:num="0.48831115983640699">49%</td>
+  <td class=xl32 align=right x:num="0.46569754794637658">47%</td>
+  <td class=xl32 align=right x:num="0.49760847622000703">50%</td>
+  <td class=xl32 align=right x:num="0.59564445793227205">60%</td>
+  <td class=xl32 align=right x:num="0.75261011622281782">75%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl38 style='height:12.75pt'>Least Larg<span
+  style='display:none'>e</span></td>
+  <td class=xl32 align=right x:num="0.37714244898003352">38%</td>
+  <td class=xl32 align=right x:num="0.43103849454708371">43%</td>
+  <td class=xl32 align=right x:num="0.50896048813799988">51%</td>
+  <td class=xl32 align=right x:num="0.42286098814463946">42%</td>
+  <td class=xl32 align=right x:num="0.44287062021282919">44%</td>
+  <td class=xl32 align=right x:num="0.4415579636818574">44%</td>
+  <td class=xl32 align=right x:num="0.49174730330378419">49%</td>
+  <td class=xl41></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Average</td>
+  <td class=xl33 align=right x:num="0.30133511159693044">30%</td>
+  <td class=xl33 align=right x:num="0.34415600857301609">34%</td>
+  <td class=xl33 align=right x:num="0.41709762913059367">42%</td>
+  <td class=xl33 align=right x:num="0.36840016826616467">37%</td>
+  <td class=xl33 align=right x:num="0.32978263551789716">33%</td>
+  <td class=xl33 align=right x:num="0.38419378454845959">38%</td>
+  <td class=xl33 align=right x:num="0.43642616272110252">44%</td>
+  <td class=xl33 align=right x:num="0.7433330372903082">74%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl38 style='height:12.75pt'>Greatest S<span
+  style='display:none'>mall</span></td>
+  <td class=xl32 align=right x:num="0.24573649036463321">25%</td>
+  <td class=xl32 align=right x:num="0.23401967316941225">23%</td>
+  <td class=xl32 align=right x:num="0.32522084485113184">33%</td>
+  <td class=xl32 align=right x:num="0.30316850306439058">30%</td>
+  <td class=xl32 align=right x:num="0.24207766008911241">24%</td>
+  <td class=xl32 align=right x:num="0.32975979205288408">33%</td>
+  <td class=xl32 align=right x:num="0.38844943494065731">39%</td>
+  <td class=xl41></td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl38 style='height:11.25pt'>Smallest</td>
+  <td class=xl32 align=right x:num="0.22129846179820148">22%</td>
+  <td class=xl32 align=right x:num="0.21285691249251892">21%</td>
+  <td class=xl32 align=right x:num="0.29077890608343493">29%</td>
+  <td class=xl32 align=right x:num="0.23813639272448989">24%</td>
+  <td class=xl32 align=right x:num="0.24045864478120035">24%</td>
+  <td class=xl32 align=right x:num="0.27037308401181376">27%</td>
+  <td class=xl32 align=right x:num="0.27012957778184216">27%</td>
+  <td class=xl32 align=right x:num="0.73405595835779847">73%</td>
+  <td colspan=2 class=xl39 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=56 style='width:42pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
