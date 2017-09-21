@@ -1,0 +1,766 @@
+
+
+import operator
+import os
+import sets
+import sys
+
+import quixote
+from quixote.errors import TraversalError
+from quixote.html import htmltext
+
+from lap import settings
+from lap.data import constants
+import lap.data.tables
+from lap.web.ui import TMPL_DIR, SiteDirectory, LapPage
+
+
+TO_ROOT = '..'
+
+FULL_DESCRIPTIONS = {
+
+    # INFORMANTS
+
+    'Informants': ''' <p>The Informants database table contains information
+    about the people who were interviewed for a linguistic atlas survey.</p>
+
+    <p>Different projects kept different information about the information, so
+    some of the information is missing for some projects.</p>''',
+
+    'Informants.infid': '''<p>This field contains an identification number for
+    cross-referencing with other tables.</p>''',
+
+    'Informants.informid': '''<p>This field contains the informant
+    identification currently used in the project.</p>''',
+
+    'Informants.oldnumber': '''<p>This field contains any previous
+    identification previously used in the project.</p>''',
+
+    'Informants.auxiliary': '''<p>This field specifies whether the current
+    informant was an auxiliary informant (as opposed to being the primary
+    person interviewed).''',
+
+    'Informants.yearinterviewed': '''<p>This field contains the year the
+    informant was interviewed.</p>''',
+
+    'Informants.inftype': '''<p>This field contains the type of informant
+    interviewed. This was a subjective measure associated with education and
+    social factors.</p>''',
+
+    'Informants.generation': '''<p>This field contains the generation of the
+    informant.  This was a subjective measure associated with the informant\'s
+    age and how modern or old-fashioned the field worker considered him or
+    her.</p>''',
+
+    'Informants.cultivation': '''<p>This field contains the informant\'s
+    cultivation. This was a subjective measure associated with the informant\'s
+    perceived education and social standing.</p>''',
+
+    'Informants.sex': '''<p>This field contains a purely biological
+    classification of the informant\'s sex.</p>''',
+
+    'Informants.age': '''<p>This field contains the informant\'s age when
+    interviewed.</p>''',
+
+    'Informants.education': '''<p>This field contains the informant\'s level of
+    education.</p>''',
+
+    'Informants.occupation': '''<p>This field contains the informant\'s
+    occupation. It is categorized according to the U.S. Census classifications
+    for 1940.</p>''',
+
+    'Informants.race': '''<p>This field contains a binary distinction between
+    Caucasian and African-American informants.</p>''',
+
+    'Informants.latitude': '''<p>This field contains the latitude of the
+    informant.</p>''',
+
+    'Informants.longitude': '''<p>This field contains the longitude of the
+    informant.</p>''',
+
+    # COMMUNITIES
+
+    'Communities': ''' <p>The Communities database table contains information
+    about the communities involved in a linguistic atlas project.</p>
+
+    <p>Different projects keep different information about the communities, so
+    some of the information is missing for some projects.</p>''',
+
+    'Communities.comid': '''<p>This field contains an identification number for
+    cross-referencing with other tables.</p>''',
+
+    'Communities.comtype': '''<p>This field contains a classification of the
+    population density of the community, based upon the classifications of the
+    1940 U.S.  Census.</p>''',
+
+    'Communities.state': '''<p>The state the informant was in.</p>''',
+
+    'Communities.x': '''<p>This field contains the X location of the community
+    on the map image.</p>''',
+
+    'Communities.y': '''<p>This field contains the Y location of the community
+    on the map image.</p>''',
+
+    # FIELDWORKERS
+
+    'FieldWorkers': ''' <p>The Field Workers database table contains
+    information about the people who conducted the interviews in a linguistic
+    atlas project.</p>''',
+
+    'FieldWorkers.fwid': '''<p>This field contains an identification number for
+    cross-referencing with other tables.</p>''',
+
+    'FieldWorkers.code': '''<p>This field contains a short textual code for
+    identifying the field worker.</p>''',
+
+    'FieldWorkers.name': '''<p>This field contains the field worker\'s
+    name.</p>''',
+
+    # WORKSHEETS
+
+    'WorkSheets': ''' <p>The Work Sheets database table contains information
+    about the different work sheets used to interview people in a linguistic
+    atlas project.</p>''',
+
+    'WorkSheets.wsid': '''<p>This field contains an identification number for
+    cross-referencing with other tables.</p>''',
+
+    'WorkSheets.code': '''<p>This field contains a short textual code for
+    identifying the work sheet.</p>''',
+
+    'WorkSheets.name': '''<p>This field contains the work sheet\'s
+    name.</p>''',
+
+    # TARGETS
+
+    'Targets': ''' <p>The Targets database table contains information about the
+    linguistic data contained in the database.</p>''',
+
+    'Targets.target': '''<p>This field contains the target item for this data
+    table.</p>''',
+
+    'Targets.type': '''<p>This field contains the type of data.</p>''',
+
+    'Targets.page': '''<p>This field contains the work sheet page for this
+    target item.</p>''',
+
+    'Targets.subpage': '''<p>This field contains the work sheet subpage for
+    this target item.</p>''',
+
+    'Targets.item': '''<p>This field contains the item number on the page for
+    this target item.</p>''',
+
+    'Targets.subitem': '''<p>This field contains the sub-item-number on the
+    page for this target item.</p>''',
+
+    'Targets.notes': '''<p>This field contains any notes specific to this
+    item.</p>''',
+
+    # RESPONSES
+
+    'Responses': ''' <p>The Responses table contains all the linguistic data in
+    the project.</p>''',
+
+    'Responses.item': '''<p>This field contains a response for this
+    item.</p>''',
+
+    'Responses.gramflag': '''<p>This field contains the grammatical code for
+    this response.</p>''',
+
+    'Responses.doubtflag': '''<p>This field indicates whether there is doubt
+    concerning the validity of this response.</p>''',
+
+    'Responses.commentcodes': '''<p>This field contains coded comments. Some of
+    these codes imply a <a href="fields.html?field=Responses.doubtflag">doubt
+    flag</a>. Here is a table of possible comment codes, their definition, and
+    whether they imply a doubt flag.</p>
+
+    <table border="1">
+    <tr><th>Code</th><th>Definition</th><th>Doubt Flag</th></tr>
+    <tr><th>CNV</th><td>Conversational</td><td>No</td></tr>
+    <tr><th>SUG</th><td>Suggested, forced</td><td>Yes</td></tr>
+    <tr><th>COR</th><td>Corrected</td><td>Yes</td></tr>
+    <tr><th>REP</th><td>Repeated</td><td>Yes</td></tr>
+    <tr><th>HES</th><td>Hesitation</td><td>Yes</td></tr>
+    <tr><th>DBT</th><td>Doubt</td><td>Yes</td></tr>
+    <tr><th>AMS</th><td>Amusement</td><td>Yes</td></tr>
+    <tr><th>HRD</th><td>Heard</td><td>Yes</td></tr>
+    <tr><th>OLD</th><td>Old-fashioned, obsolete</td><td>Yes</td></tr>
+    <tr><th>NEW</th><td>Recently introduced</td><td>Yes</td></tr>
+    <tr><th>AUX</th><td>From auxiliary informant</td><td>Yes</td></tr>
+    <tr><th>AUX2</th><td>From second auxiliary informant</td><td>Yes</td></tr>
+    <tr><th>FDT</th><td>Field worker doubt</td><td>Yes</td></tr>
+    <tr><th>SIC</th><td>Field worker certain</td><td>No</td></tr>
+    <tr><th>INA</th><td>Inappropriate to cue</td><td>Yes</td></tr>
+    <tr><th>DDT</th><td>Data entry doubtful</td><td>Yes</td></tr>
+    </table>
+    ''',
+
+    'Responses.commenttext': '<p>This field contains longer comments.</p>',
+
+    'Responses.phonetic': '''<p>This field contains a full phonetic
+    transcription of the target item, if available.</p>''',
+
+    'Responses.simplephone': '''<p>This field contains a simplified version of
+    the <a href="fields/Responses.phonetic">phonetic</a> field.</p>''',
+
+    'Responses.responseid': '''<p>This field contains a numeric identification
+    number for cross-referencing other tables.</p>''',
+
+    }
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        'intro',
+        'about',
+        'projects',
+        'analyses',
+        'databases',
+        'faq',
+        'contacts',
+        'ling',
+        'phonetics',
+        'links',
+        # XXX: directories
+        'tables',
+        'fields',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'information-index.tmpl')
+
+    def _title(self):
+        return 'Information'
+
+    def path_to_root(self):
+        return TO_ROOT
+
+    def _get_intro(self):
+        try:
+            i = self.__intro
+        except AttributeError:
+            i = self.__intro = intro()
+        return str(i)
+    intro = property(_get_intro)
+
+    def _get_about(self):
+        try:
+            a = self.__about
+        except AttributeError:
+            a = self.__about = about()
+        return str(a)
+    about = property(_get_about)
+
+    def _get_projects(self):
+        try:
+            p = self.__projects
+        except AttributeError:
+            p = self.__projects = projects()
+        return str(p)
+    projects = property(_get_projects)
+
+    def _get_analyses(self):
+        try:
+            a = self.__analyses
+        except AttributeError:
+            a = self.__analyses = analyses()
+        return str(a)
+    analyses = property(_get_analyses)
+
+    def _get_databases(self):
+        try:
+            d = self.__databases
+        except AttributeError:
+            d = self.__databases = databases()
+        return str(d)
+    databases = property(_get_databases)
+
+    def _get_faq(self):
+        try:
+            f = self.__faq
+        except AttributeError:
+            f = self.__faq = faq()
+        return str(f)
+    faq = property(_get_faq)
+
+    def _get_contacts(self):
+        try:
+            c = self.__contacts
+        except AttributeError:
+            c = self.__contacts = contacts()
+        return str(c)
+    contacts = property(_get_contacts)
+
+    def _get_ling(self):
+        try:
+            l = self.__ling
+        except AttributeError:
+            l = self.__ling = ling()
+        return str(l)
+    ling = property(_get_ling)
+
+    def _get_phonetics(self):
+        try:
+            p = self.__phonetics
+        except AttributeError:
+            p = self.__phonetics = phonetics()
+        return str(p)
+    phonetics = property(_get_phonetics)
+
+    def _get_links(self):
+        try:
+            l = self.__links
+        except AttributeError:
+            l = self.__links = links()
+        return str(l)
+    links = property(_get_links)
+
+    def _get_tables(self):
+        try:
+            t = self.__tables
+        except AttributeError:
+            t = self.__tables = tables()
+        return t
+    tables = property(_get_tables)
+
+    def _get_fields(self):
+        try:
+            f = self.__fields
+        except AttributeError:
+            f = self.__fields = fields()
+        return f
+    fields = property(_get_fields)
+
+
+class InfoMixin(LapPage):
+
+    def path_to_root(self):
+        return TO_ROOT
+
+
+class intro(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-intro.tmpl')
+
+    def _title(self):
+        return 'Introduction'
+
+
+class about(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-about.tmpl')
+
+    def _title(self):
+        return 'About'
+
+
+class projects(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-projects.tmpl')
+
+    def _title(self):
+        return 'Projects'
+
+
+class analyses(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-analyses.tmpl')
+
+    def _title(self):
+        return 'Analyses'
+
+
+class databases(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-databases.tmpl')
+
+    def _title(self):
+        return 'Databases'
+
+
+class faq(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-faq.tmpl')
+
+    def _title(self):
+        return 'FAQ'
+
+
+class contacts(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-contacts.tmpl')
+
+    def _title(self):
+        return 'Contact Information'
+
+
+class ling(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-ling.tmpl')
+
+    def _title(self):
+        return 'About Linguistics'
+
+
+class phonetics(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-phonetics.tmpl')
+
+    def _title(self):
+        return 'About Phonetics'
+
+
+class links(InfoMixin):
+    _template_ = os.path.join(TMPL_DIR, 'information-links.tmpl')
+
+    def _title(self):
+        return 'Links'
+
+
+class tables(SiteDirectory):
+    TABLES = (
+        'Informants Communities WorkSheets FieldWorkers Targets Responses'
+        ).split()
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.__tables = {}
+
+    def _q_lookup(self, component):
+        if component not in self.TABLES:
+            raise TraversalError('Invalid table name: ' + component)
+        try:
+            t = self.__tables[component]
+        except KeyError:
+            t = self.__tables[component] = table(component)
+        return t
+
+    def _title(self):
+        return 'Database Tables'
+
+    def path_to_root(self):
+        return '../..'
+
+    def _content [html] (self):
+        request = quixote.get_request()
+        if request.get_field('project'):
+            project = '/' + request.get_field('project')
+        else:
+            project = ''
+        '<p><b>Which table would you like information about?</b></p>\n\n'
+        '<ul>\n'
+        for table in self.TABLES:
+            '<li>'
+            '<a href="'; table; project; '">'
+            table
+            '</a></li>\n'
+        '</ul>\n'
+
+
+class table(SiteDirectory):
+
+    def __init__(self, table):
+        SiteDirectory.__init__(self)
+        self.__table = table
+        self.__projects = {}
+
+    def _title(self):
+        return 'Tables'
+
+    def path_to_root(self):
+        return '../../..'
+
+    def _q_lookup(self, component):
+        cxn = quixote.get_request().cxn
+        c = cxn.cursor()
+        try:
+            c.execute('SELECT COUNT(*) FROM Projects WHERE name=%s',
+                      (component,))
+            count = c.fetchone()['COUNT(*)']
+        finally:
+            c.close()
+        if count == 0:
+            raise TraversalError('Invalid project: ' + component)
+        try:
+            p = self.__projects[component]
+        except KeyError:
+            p = self.__projects[component] = table_project(self.__table,
+                                                           component)
+        return p
+
+    def _content [html] (self):
+        table = self.__table
+        '<p><b>About the <code>'; table; '</code> Database Table</b></p>\n'
+        htmltext(FULL_DESCRIPTIONS[table])
+        '<p>For further information about the fields in the <code>'; table
+        '</code> table, select one of the links below.</p>\n'
+        '<ul>\n'
+        for (field, _) in lap.data.tables.TABLEDEFS[table]:
+            full_name = '%s.%s' % (table, field)
+            '<li><a href="../../fields/'; full_name; '">'; field; '</a> '
+            lap.data.tables.FieldDescriptions.get(full_name, '')
+            '</li>\n'
+        '</ul>\n'
+        self._back()
+
+
+class table_project(SiteDirectory):
+
+    def __init__(self, table, project):
+        SiteDirectory.__init__(self)
+        self.__table = table
+        self.__project = project
+
+    def path_to_root(self):
+        return '../../../..'
+
+    def _title [html] (self):
+        self.__table
+        ' Table'
+
+    def get_count(self):
+        c = quixote.get_request().cxn.cursor()
+        sql = (
+            'SELECT COUNT(*) AS total '
+            'FROM ' + self.__table + ' t, Projects p '
+            'WHERE p.name=%s AND p.projid=t.projid'
+            )
+        c.execute(sql, (self.__project,))
+        count = c.fetchone()['total']
+        return count
+
+    def _content [html] (self):
+        table = self.__table
+        '<p><b>About the <code>'; table; '</code> Database Table</b></p>\n'
+        htmltext(FULL_DESCRIPTIONS[table])
+        '<p>For further information about the fields in the <code>'; table
+        '</code> table, select one of the links below.</p>\n'
+        '<p>In the '; self.__project; ' project, the <code>'; self.__table
+        '</code> '
+        'table contains '; self.get_count(); ' rows.</p>\n'
+        '<ul>\n'
+        project = '/' + self.__project
+        for (field, _) in lap.data.tables.TABLEDEFS[table]:
+            full_name = '%s.%s' % (table, field)
+            '<li><a href="../../../fields/'; full_name; project; '">'
+            field
+            '</a> '
+            lap.data.tables.FieldDescriptions.get(full_name, '')
+            '</li>\n'
+        '</ul>\n'
+        self._back()
+
+
+class fields(SiteDirectory):
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.__fields = {}
+
+    def _q_lookup(self, component):
+        try:
+            (tcomp, fcomp) = component.split('.')
+            fields = sets.Set([
+                f for (f, _) in lap.data.tables.TABLEDEFS[tcomp]
+                ])
+        except:
+            raise TraversalError('Invalid field: ' + component)
+        if tcomp not in tables.TABLES or fcomp not in fields:
+            raise TraversalError('Invalid field: ' + component)
+        try:
+            f = self.__fields[component]
+        except KeyError:
+            f = self.__fields[component] = field(tcomp, fcomp)
+        return f
+
+    def _title(self):
+        return 'Database Fields'
+
+    def path_to_root(self):
+        return '../..'
+
+    def _content [html] (self):
+        """
+        <p><b>Field Values</b></p>
+
+        <p>Field values are expressed in a variety of ways. First, there is the
+        numeric code, which is actually stored in the database. Second, there
+        is the ASCII code, which is what is stored in the CSV data files.
+        Finally, there is the longer description. Keep these in mind as you
+        browse the field descriptions below.</p>
+
+        <p><b>Which field would you like information about?</b></p>
+
+        <ul>
+        """
+
+        for table in tables.TABLES:
+            '<li>'; table; '<ul>\n'
+            for (field, _) in lap.data.tables.TABLEDEFS[table]:
+                full_name = '%s.%s' % (table, field)
+                '<li><a href="'; full_name; '">'; field; '</a> '
+                lap.data.tables.FieldDescriptions.get(full_name, '')
+                '</li>\n'
+            '</ul></li>\n'
+        '</ul>\n'
+        self._back()
+
+
+class field(SiteDirectory):
+
+    def __init__(self, table, field):
+        SiteDirectory.__init__(self)
+        self.__table = table
+        self.__field = field
+        self.__projects = {}
+
+    def _title(self):
+        return 'Field %s.%s' % (self.__table, self.__field)
+
+    def path_to_root(self):
+        return '../../..'
+
+    def _q_lookup(self, component):
+        cxn = quixote.get_request().cxn
+        c = cxn.cursor()
+        try:
+            c.execute('SELECT COUNT(*) FROM Projects WHERE name=%s',
+                      (component,))
+            count = c.fetchone()['COUNT(*)']
+        finally:
+            c.close()
+        if count == 0:
+            raise TraversalError('Invalid project: ' + component)
+        try:
+            p = self.__projects[component]
+        except KeyError:
+            p = self.__projects[component] = field_project(
+                self.__table, self.__field, component)
+        return p
+
+    def _content [html] (self):
+        """
+        <p><b>Field Values</b></p>
+
+        <p>Field values are expressed in a variety of ways. First, there is the
+        numeric code, which is actually stored in the database. Second, there
+        is the ASCII code, which is what is stored in the CSV data files.
+        Finally, there is the longer description. Keep these in mind as you
+        browse the field descriptions below.</p>
+
+        """
+        full_name = str('%s.%s' % (self.__table, self.__field))
+        '<p><b>%s (%s)</b></p>\n' % (
+            full_name, lap.data.tables.FieldDescriptions.get(full_name, ''),
+            )
+        htmltext(FULL_DESCRIPTIONS.get(full_name, ''))
+        params = { 'table': self.__table, 'field': self.__field,
+                   'full_name': full_name, }
+        try:
+            values = getattr(getattr(constants, self.__table), self.__field)
+        except AttributeError:
+            pass
+        else:
+            """
+            <p>The <code>%(field)s</code> field contains these possible values:
+            </p>
+            <table border="1">
+            <tr><th>ASCII Code</th> <th>Description</th></tr>
+            """ % params
+            values = values.items()
+            values.sort()
+            for (code, description) in values:
+                '<tr><td align="center">'; code; '</td> '
+                '<td align="center">'; description; '</td></tr>\n'
+            '</table>\n'
+        self._back()
+
+
+class field_project(SiteDirectory):
+
+    def __init__(self, table, field, project):
+        SiteDirectory.__init__(self)
+        self.__table = table
+        self.__field = field
+        self.__project = project
+
+    def path_to_root(self):
+        return '../../../..'
+
+    def _title(self):
+        return 'Field %s.%s for Project %s' % (self.__table, self.__field,
+                                               self.__project)
+
+    def get_values(self):
+        c = quixote.get_request().cxn.cursor()
+        sql = (
+            'SELECT ' + self.__field +', COUNT(*) AS freq '
+            'FROM ' + self.__table + ' t, Projects p '
+            'WHERE p.name=%s AND p.projid=t.projid '
+            'GROUP BY ' + self.__field
+            )
+        c.execute(sql, (self.__project,))
+        values = [ (row[self.__field], row['freq']) for row in c ]
+        return values
+
+    def get_description(self, value):
+        fielddesc = getattr(getattr(constants, self.__table), self.__field, ())
+        if value in fielddesc:
+            descr = '%s (%s)' % (fielddesc[value], value)
+        else:
+            descr = str(value)
+        if self.__field in ('phonetic', 'simplephone'):
+            descr = '<span class="phonetic">%s</span>' % descr
+        return descr
+
+    def _content [html] (self):
+        """
+        <p><b>Field Values</b></p>
+
+        <p>Field values are expressed in a variety of ways. First, there is the
+        numeric code, which is actually stored in the database. Second, there
+        is the ASCII code, which is what is stored in the CSV data files.
+        Finally, there is the longer description. Keep these in mind as you
+        browse the field descriptions below.</p>
+
+        """
+        full_name = str('%s.%s' % (self.__table, self.__field))
+        '<p><b>%s (%s)</b></p>\n' % (
+            full_name, lap.data.tables.FieldDescriptions.get(full_name, ''),
+            )
+        htmltext(FULL_DESCRIPTIONS.get(full_name, ''))
+        params = { 'table': self.__table, 'field': self.__field,
+                   'full_name': full_name, }
+        try:
+            values = getattr(getattr(constants, self.__table), self.__field)
+        except AttributeError:
+            pass
+        else:
+            """
+            <p>The <code>%(field)s</code> field contains these possible values:
+            </p>
+            <table border="1">
+            <tr><th>ASCII Code</th> <th>Description</th></tr>
+            """ % params
+            values = values.items()
+            values.sort()
+            for (code, description) in values:
+                '<tr><td align="center">'; code; '</td> '
+                '<td align="center">'; description; '</td></tr>\n'
+            '</table>\n'
+        '<p>In the '; self.__project; ' project, the <code>'; self.__table
+        '</code> table contains these responses for the <code>'; self.__field
+        '</code> field. </p>\n'
+        values = self.get_values()
+        '<table border="0" width="100%"><tr><td>\n'
+        '<table border="0"><caption>Sorted by Values</caption>\n'
+        values.sort()
+        for (value, freq) in values:
+            '<tr><td align="right"><b>'; self.get_description(value); 
+            '</b></td> <td>'; freq; '</td></tr>'
+        '</table></td>\n'
+        '<td>\n'
+        '<table border="0"><caption>Sorted by Frequency</caption>\n'
+        values = [ (i[1], i) for i in values ]
+        values.sort()
+        values = [ i[-1] for i in values ]
+        for (value, freq) in values:
+            '<tr><td align="right"><b>'; self.get_description(value); 
+            '</b></td> <td>'; freq; '</td></tr>'
+        '</table></td></tr></table>\n'
+        self._back()
+
+
+# vim: set filetype=python:

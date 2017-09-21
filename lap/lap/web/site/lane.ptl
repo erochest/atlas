@@ -1,0 +1,35 @@
+
+
+import os
+
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory
+
+
+PWD = os.path.dirname(__file__)
+LANE = os.path.join(PWD, 'lane')
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        ('inf.asc', 'inf_asc'),
+        ('nearch.asc', 'nearch_asc'),
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lane-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.inf_asc = StaticFile(os.path.join(LANE, 'inf.asc'))
+        self.nearch_asc = StaticFile(os.path.join(LANE, 'nearch.asc'))
+
+    def _title(self):
+        return 'LANE'
+
+    def path_to_root(self):
+        return '..'
+
+
+# vim: set filetype=python:

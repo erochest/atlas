@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title> $title </title>
+    <link type='text/css' rel='stylesheet' href="$to_root/atlas.css" />
+    <script language="JavaScript"><!--
+
+      function browse(field, value) {
+        window_handle = window.open(
+          'browse?left=' + field + '&op=EQ&right=' + value,
+          'main'
+          );
+        window_handle.focus();
+        window.close();
+        return false;
+      }
+
+    //--></script>
+  </head>
+  <body text='black' bgcolor='white'>
+    <table border='0' width='80%'><tr><td>

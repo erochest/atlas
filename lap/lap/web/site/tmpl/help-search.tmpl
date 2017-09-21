@@ -1,0 +1,102 @@
+<p><b><font size="+1"><a name="top">Advanced Search</a></font></b></p>
+
+<p>This page contains several sections that manipulate the search and determine
+what rows appear on the Browse page. Each of the sections is covered in more
+detail below.</p>
+
+<ul>
+  <li><a href="#reset">Reset</a></li>
+  <li><a href="#query">Query Options</a></li>
+  <li><a href="#advanced">Advanced Search</a></li>
+  <li><a href="#phonetic">Phonetic Search</a></li>
+</ul>
+
+<p><b><a name="reset">Reset</a></b></p>
+
+  <p>This section contains one or two buttons:</p>
+
+  <ol>
+    <li><b>Reset</b>: This resets the Browse page to the state it had when you
+    first viewed it.</li>
+
+    <li><b>Reset, but keep the current target</b> (optional): This resets any
+    filters or queries you have created in the Browse page, but keeps the
+    current lingusitic data target. This button is only available if a
+    linguistic item has been selected.</li>
+
+  </ol>
+
+  <p align="right"><i><font size="-1"><a href="#top">Top</a></font></i></p>
+
+<p><b><a name="query">Query Options</a></b></p>
+
+  <p>Depending on whether a linguistic data target item is currently included
+  in the Browse view, this section contains different content:</p>
+
+  <p><i>If there is <b>no</b> linguistic data item selected,</i> this contains
+  a drop-down selection containing a list of the available targets and a button
+  to activate the selection.</p>
+
+  <p><i>If there <b>is</b> a linguistic data item selected,</i> this contains
+  two options:</p>
+
+  <ul>
+
+    <li><b>Null Responses</b>: This selects whether to show or hide null
+    responses. These are marked in the databases with a "-0-", "NR", or "NA".
+    By default, these responses are shown.</li>
+
+    <li><b>Use Simplified Phonetics</b>: These selects whether the Browse page
+    shows full or simplified phonetics. Simplified phonetics are the full
+    phonetics with some diacritics removed. By default, simplified phonetics
+    are shown.</li>
+
+  </ul>
+
+  <p align="right"><i><font size="-1"><a href="#top">Top</a></font></i></p>
+
+<p><b><a name="advanced">Advanced Search</a></b></p>
+
+  <p>This section contains four rows of controls to enter in search expressions
+  and connectors. The search expressions are each composed of three
+  controls:</p>
+
+  <ul>
+
+    <li><b>Field</b>: A drop-down list of the fields in the current Browse
+    view.</li>
+
+    <li><b>Operator</b>: The operator for the expression. This is one of:<dl>
+      <dt>=</dt> <dd>equals</dd>
+      <dt>&lt;&gt;</dt> <dd>not equals</dd>
+      <dt>&lt;</dt> <dd>less than</dd>
+      <dt>&gt;</dt> <dd>greater than</dd>
+      <dt>&lt;=</dt> <dd>less than or equal to</dd>
+      <dt>&gt;=</dt> <dd>greater than or equal to</dd>
+      <dt>contains</dt> <dd>for text data, the value of the field contains the
+      value somewhere in it.</dd>
+    </dl></li>
+
+    <li><b>Value</b>: The value to test the value of the field against.</li>
+
+  </ul>
+
+  <p>The connectors determine how the expressions are joined. <code>AND</code>
+  means that all the results of both expressions on each side of the connector
+  are returned. <code>OR</code> means that only the results that are in both
+  expressions on each side of the connector are returned.</p>
+
+  <p align="right"><i><font size="-1"><a href="#top">Top</a></font></i></p>
+
+<p><b><a name="phonetic">Phonetic Search</a></b> (optional)</p>
+
+  <p>This section only appears when a linguistic data item has been selected.
+  It contains a list of the <a target="_blank"
+  href="$to_root/information/phonetics">phonetic symbols</a> that appear in the
+  data rows. This contains a list of the all the characters listed in the
+  phonetic data, as well as their names. See the <a target="_blank"
+  href="$to_root/information/phonetics">Phonetics</a> page for more information
+  about the sounds these symbols represent.</p>
+
+  <p align="right"><i><font size="-1"><a href="#top">Top</a></font></i></p>
+

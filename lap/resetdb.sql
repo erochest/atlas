@@ -1,0 +1,3 @@
+DROP DATABASE lap;
+CREATE DATABASE lap;
+GRANT ALL PRIVILEGES ON lap.* TO w_lap@localhost IDENTIFIED BY 'laplace';

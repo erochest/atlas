@@ -1,0 +1,1093 @@
+
+
+from cStringIO import StringIO
+import csv
+import datetime
+import os
+import sets
+import sys
+import textwrap
+import time
+import unicodedata
+
+import gd
+import quixote
+from quixote.html import htmltext
+
+from lap import settings
+from lap.util import tmpfile
+from lap.data import constants
+from lap.data.tables import FieldDescriptions
+from lap.web import views
+from lap.web.ui import LapPage
+from lap.web.query import AND, EQ, NE, OPS
+
+
+DOT = '.'
+COMMA = ', '
+SPACE = ' '
+
+
+class DataViewMixin(object):
+
+    def __init__(self, project, path_to_root='..'):
+        self.__project = project
+        self.__ptr = path_to_root
+
+    def path_to_root(self):
+        return self.__ptr
+
+    def _project(self):
+        return self.__project
+
+
+class BrowsePage(DataViewMixin, LapPage):
+
+    def _title(self):
+        return 'Browse'
+
+    def _process_form(self, user):
+        request = quixote.get_request()
+        session = quixote.get_session()
+        changed = False
+        # process the form:
+        #     clear
+        if request.get_field('clear') == '1':
+            user.reset()
+            changed = True
+        #     page
+        if request.get_field('page'):
+            try: page = int(request.get_field('page'))
+            except: pass
+            else:
+                user.page = page
+                changed = True
+        #     pagelen
+        if request.get_field('pagelen'):
+            try: pagelen = int(request.get_field('pagelen'))
+            except: pass
+            else:
+                user.pagelen = pagelen
+                changed = True
+        #     hide (=field name)
+        if request.get_field('hide'):
+            field = tuple(request.get_field('hide').split(DOT))
+            fields = user.fields
+            try: fields.remove(field)
+            except ValueError: pass
+            else:
+                user.fields = fields
+                changed = True
+        #     op, left, right (=operation, =left, =right)
+        if (request.get_field('op') and request.get_field('op') in OPS and
+            request.get_field('left') and request.get_field('right')):
+            user.where = AND(
+                user.where,
+                OPS[request.get_field('op')](
+                    tuple(request.get_field('left').split(DOT)),
+                    request.get_field('right'),
+                    ),
+                )
+            changed = True
+        #     target (=target_id)
+        if (request.get_field('target') and
+            request.get_field('target') != user.target):
+            user.target = request.get_field('target')
+            if 'Responses' not in user.tables:
+                tables = user.tables
+                tables.append('Responses')
+                user.tables = tables
+                user.where = AND(
+                    user.where,
+                    AND(
+                        EQ(('Informants', 'infid'), ('Responses', 'infid')),
+                        EQ(('Responses', 'targetid'),
+                           int(request.get_field('target'))),
+                        ),
+                    )
+            fields = user.fields
+            for (field, index) in views.RESPONSE_VIEWS[user.view]:
+                fields.insert(index, field)
+            user.fields = fields
+            changed = True
+        #     view (=view)
+        if request.get_field('view'):
+            user.view = request.get_field('view')
+            changed = True
+        #     nrhidden
+        if request.get_field('nrhidden') and user.where is not None:
+            nrhidden = int(request.get_field('nrhidden'))
+            if nrhidden != user.nrhidden:
+                if nrhidden:
+                    field = ('Responses', 'item')
+                    user.where = AND(
+                        user.where,
+                        AND(AND(NE(field, 'NR'), NE(field, 'NA')),
+                            NE(field, '-0-')),
+                        )
+                else:
+                    def f(node):
+                        return (node.op == '<>' and
+                                node.right in ('NR', 'NA', '-0-'))
+                    where = user.where
+                    for sqlnode in list(where.findall(f)):
+                        where.remove(sqlnode)
+                    user.where = where
+                user.nrhidden = nrhidden
+                changed = True
+        #     fullphone
+        if request.get_field('fullphone') and user.where is not None:
+            fullphone = int(request.get_field('fullphone'))
+            if fullphone != user.fullphone:
+                if fullphone:
+                    _from = ('Responses', 'simplephone')
+                    _to = ('Responses', 'phonetic')
+                else:
+                    _from = ('Responses', 'phonetic')
+                    _to = ('Responses', 'simplephone')
+                fields = user.fields
+                try: i = fields.index(_from)
+                except ValueError: pass
+                else:
+                    fields[i] = _to
+                    user.fields = fields
+                    user.fullphone = fullphone
+                    changed = True
+        #     map
+        if request.get_field('map'):
+            user.map = int(request.get_field('map'))
+            changed = True
+        #     left0
+        if request.get_field('left0'):
+            exprs = []
+            for i in range(4):
+                left = request.get_field('left%d' % i)
+                right = request.get_field('right%d' % i)
+                op = request.get_field('op%d' % i)
+                if left and right:
+                    exprs.append(OPS[op](tuple(left.split('.')), right))
+                else:
+                    break
+            j = len(exprs) - 2
+            while j >= 0 and len(exprs) >= 2:
+                join = request.get_field('join%d' % j)
+                right = exprs.pop()
+                left = exprs.pop()
+                exprs.append(OPS[join](left, right))
+                j -= 1
+            user.where = AND(user.where, exprs.pop())
+            changed = True
+        # save changes
+        if changed:
+            session.set_user(user)
+            session.set_dirty(changed)
+
+    def _get_targets(self):
+        cxn = quixote.get_request().cxn
+        c = cxn.cursor()
+        try:
+            c.execute(
+                'SELECT targetid, target FROM Targets t, Projects p '
+                'WHERE p.projid=t.projid AND p.name=%s ORDER BY target',
+                (self._project(),),
+                )
+            targets = c.fetchall()
+        finally:
+            c.close()
+        return targets
+
+    def _target_select [html] (self, user):
+        if user.target is None:
+            """
+            <p>Linguistic data for this data set:&nbsp;
+            <form method="PUT" action="browse">
+            <select name="target">
+            <option value="">None</option>
+            """
+            for target in self._get_targets():
+                '<option value="%(targetid)s">%(target)s</option>\n' % target
+            """
+            </select>
+            <input type="submit" /></form></p>
+            """
+
+    def _ling_form [html] (self, user):
+        """
+        <table cellpadding="10" align="center" border="0" width="80%"
+               bgcolor="#EEEEEF">
+        <tr><td align="center">
+        <font size="-1">
+        <a href="search">Advanced Search</a> |
+        <a href="view">Change View</a> |
+        """
+        if user.target is not None:
+            '<a href="notes">View Notes</a> |\n'
+        """
+        <a href="map.png">Map</a> |
+        <a href="browse.csv">CSV</a> (for spreadsheets and databases)
+        </font>
+        </td></tr>
+        <tr><td align="center">
+        """
+        self._target_select(user)
+        '</td></tr></table>\n'
+
+    def _get_community_xy(self, user):
+        cxn = quixote.get_request().cxn
+        c = cxn.cursor()
+        try:
+            c.execute(
+                'SELECT DISTINCT Communities.comid, Communities.x, ' +
+                    'Communities.y ' +
+                'FROM Projects, ' + COMMA.join(user.tables) +
+                ' WHERE Projects.projid=Communities.projid AND' +
+                ' Projects.name=%s AND ' + str(user.where),
+                (self._project(),) + user.where.params(),
+                )
+            communities = c.fetchall()
+        finally:
+            c.close()
+        return [ (com['comid'], com['x'], com['y']) for com in communities ]
+
+    def _map [html] (self, user):
+        if user.map:
+            project = settings.meta.projects[self._project()]
+            """
+            <p align="center">
+            <img border="0" height="%d" width="%d" src="map.png" usemap="#map">
+            </p>
+            <map name="map">
+            """ % (project.mapheight, project.mapwidth)
+            for (comid, x, y) in self._get_community_xy(user):
+                x0 = x - 3
+                x1 = x + 3
+                y0 = y - 3
+                y1 = y + 3
+                '<area href="community/%s" ' % comid
+                'onClick="return community(\'%s\');" ' % comid
+                'alt="Community %s" shape="rect" ' % comid
+                'coords="%d,%d,%d,%d">\n' % (x0, y0, x1, y1)
+            '</map>\n'
+
+    def _get_data(self, user):
+        cxn = quixote.get_request().cxn
+        sql = (
+            'SELECT ' + COMMA.join([ DOT.join(f) for f in user.fields ]) +
+            ' FROM Projects, ' + COMMA.join(user.tables) +
+            ' WHERE Projects.projid=Informants.projid AND Projects.name=%s ' +
+            ' AND ' + str(user.where) +
+            ' ORDER BY ' + user.sort +
+            ' LIMIT ' + str(user.pagelen) +
+            ' OFFSET ' + str((user.page-1)*user.pagelen)
+            )
+        c = cxn.cursor()
+        try:
+            c.execute(sql, (self._project(),) + user.where.params())
+            data = c.fetchall()
+        finally:
+            c.close()
+        phfield = None
+        if data and 'phonetic' in data[0]:
+            phfield = 'phonetic'
+        elif data and 'simplephone' in data[0]:
+            phfield = 'simplephone'
+        if phfield:
+            for row in data:
+                row[phfield] = htmltext(
+                    unicode(row[phfield], 'utf-8').encode(
+                        'ascii',
+                        'xmlcharrefreplace',
+                        )
+                    )
+        return data
+
+    def _get_rowcount(self, user):
+        cxn = quixote.get_request().cxn
+        sql = (
+            'SELECT COUNT(*) cnt '
+            ' FROM Projects, ' + COMMA.join(user.tables) +
+            ' WHERE Projects.projid=Informants.projid AND ' +
+            ' Projects.name=%s AND ' + str(user.where)
+            )
+        c = cxn.cursor()
+        try:
+            c.execute(sql, (self._project(),)+user.where.params())
+            count = c.fetchone()['cnt']
+        finally:
+            c.close()
+        return count
+
+    def _single_row [html] (self, user, row):
+        to_root = self.path_to_root()
+        project = self._project()
+        '<table border="0" cellspacing="4">\n'
+        for field_tuple in user.fields:
+            field = DOT.join(field_tuple)
+            '<tr><td align="right"><b>'
+            '<a href="%s/information/fields/%s/%s">' % (
+                to_root, field, project)
+            FieldDescriptions.get(field, field)
+            '</a>'
+            if field_tuple[-1] != 'infid':
+               '&nbsp;<font size="-1"><a alt="Hide %s" ' % field
+               'href="browse?hide=%s">-</a></font>' % field
+            '</b></td>\n'
+            '<td><b>'
+            datum = constants
+            for item in field_tuple:
+                try:
+                    datum = getattr(datum, item)
+                except AttributeError:
+                    try: datum = row[field]
+                    except KeyError: datum = row[field_tuple[1]]
+                    break
+            else:
+                try: datum = datum.get(row[field], None)
+                except: datum = datum.get(row[field_tuple[1]], None)
+            if field_tuple[-1] in ('phonetic', 'simplephone'):
+                '<span class="phonetic">'
+                datum.encode('ascii', 'xmlcharrefreplace')
+                '</span>'
+            else:
+                datum
+        '</table>\n'
+
+    def _pager [html] (self, user):
+        page = user.page
+        pagelen = user.pagelen
+        total = self._get_rowcount(user)
+        start = (page - 1) * pagelen + 1
+        end = min(total, page * pagelen)
+        last = int(total / pagelen)
+        if page % pagelen:
+            last += 1
+        lower = page - 4
+        upper = page + 5
+        if lower < 1:
+            lower = 1
+            upper = 10
+        if upper > last:
+            upper = last
+            if (upper - page) < 5:
+                lower = max(1, upper-9)
+        """
+        <table border="0" width="100%%"><tr>
+        <td align="left">Records %d-%d of %d</td>
+        <td align="right">
+        """ % (start, end, total)
+        if page == 1:
+            'Prev'
+        else:
+            '<a href="browse?page=%d">Prev</a>' % (page-1)
+        ' | '
+        for i in range(lower, upper+1):
+            if i == page:
+                '%d ' % i
+            else:
+                '<a href="browse?page=%d">%d</a> ' % (i, i)
+        ' | '
+        if page == last:
+            'Next'
+        else:
+            '<a href="browse?page=%d">Next</a>' % (page+1)
+        """
+        </td>
+        </tr></table>
+        """
+
+    def _multi_row [html] (self, user, data):
+        to_root = self.path_to_root()
+        project = self._project()
+        pager = self._pager(user)
+        seen = dict([ (item, sets.Set()) for item in user.fields ])
+        pager
+        '<table border="0" cellspacing="5">\n<tr>\n'
+        # field names
+        for (table, name) in user.fields:
+            field = DOT.join( (table, name) )
+            """
+            <th valign="top"><font size="-1">%s</font><br>
+            <a href="%s/information/fields/%s/%s">%s</a>
+            <a alt="Hide %s" href="browse?hide=%s">-</a></th>
+            """ % (table, to_root, field, project, name, field, field)
+        '</tr>\n'
+        # data
+        for row in data:
+            '<tr>'
+            for field_tuple in user.fields:
+                '<td valign="top">'
+                (table, name) = field_tuple
+                field = DOT.join(field_tuple)
+                datum = row[name]
+                if name in ('phonetic', 'simplephone'):
+                    datum = '<span class="phonetic">%s</span>' % datum
+                if row[name] in seen[field_tuple]:
+                    datum
+                else:
+                    seen[field_tuple].add(row[name])
+                    '<a '
+                    'href="browse?page=1&op=EQ&left=%s&right=%s">' % (
+                        field, row[name])
+                    datum
+                    '</a>'
+                '</td>'
+            '</tr>\n'
+        '</table>\n'
+        pager
+
+    def _data [html] (self, user):
+        data = self._get_data(user)
+        if len(data) == 0:
+            '<p><b>This query returned no data. </b></p>\n'
+        elif len(data) == 1:
+            self._single_row(user, data[0])
+        else:
+            self._multi_row(user, data)
+
+    def _view [html] (self, user):
+        self._map(user)
+        self._data(user)
+
+    def _content [html] (self):
+        quixote.get_response().set_charset(str('utf-8'))
+        user = quixote.get_session().get_user()
+        self._process_form(user)
+        ling_form = self._ling_form(user)
+        ling_form
+        self._view(user)
+        ling_form
+
+
+class SearchPage(DataViewMixin, LapPage):
+
+    def _title(self):
+        return 'Search'
+
+    def _search_header [html] (self):
+        """
+        <table align="center" width="80%" bgcolor="#EEEEEF" cellpadding="8">
+        <tr><td valign="center" align="left">
+        <font size="-1"><b><i><a href="browse">Back</a> to Browse</i></b>
+        (without changes)</font>
+        </td></tr>
+        <tr><td valign="center" align="left">
+        <font size="-1"><b><i>Reset</i></b></font>
+        </td></tr>
+        <tr><td valign="center" align="right">
+        <form method="GET" action="browse">
+        <input type="hidden" name="clear" value="1" />
+        Reset the data view:&nbsp;<input type="submit" value="Reset" />
+        </form>
+        </td></tr>
+        """
+
+    def _get_target_name(self, targetid):
+        c = quixote.get_request().cxn.cursor()
+        try:
+            c.execute('''
+                    SELECT t.target
+                    FROM Targets t, Projects p
+                    WHERE p.name=%s AND p.projid=t.projid AND t.targetid=%s
+                ''',
+                (self._project(), targetid),
+                )
+            name = c.fetchone()['target']
+        finally:
+            c.close()
+        return name
+
+    def _get_targets(self):
+        c = quixote.get_request().cxn.cursor()
+        try:
+            c.execute('''
+                    SELECT t.targetid, t.target
+                    FROM Targets t, Projects p
+                    WHERE p.name=%s AND p.projid=t.projid
+                    ORDER BY t.target
+                ''',
+                (self._project(),),
+                )
+            targets = c.fetchall()
+        finally:
+            c.close()
+        return [ (t['targetid'], t['target']) for t in targets ]
+
+    def _get_symbols(self, user, field, charset='Ll'):
+        field = str(field)
+        (_, fname) = field.split(DOT)
+        c = quixote.get_request().cxn.cursor()
+        try:
+            c.execute('''
+                    SELECT DISTINCT %s
+                    FROM Projects, %s
+                    WHERE Projects.projid=Informants.projid AND
+                        Projects.name=%%s AND %s
+                ''' % (field, COMMA.join(user.tables), str(user.where)),
+                (self._project(),)+user.where.params(),
+                )
+            data = [
+                unicode(r[fname], 'utf-8') for r in c.fetchall() if r[fname]
+                ]
+        finally:
+            c.close()
+        symbols = sets.Set()
+        for row in data:
+            symbols.update([
+                c for c in row if unicodedata.category(c) == charset
+                ])
+        symbols = list(symbols)
+        symbols.sort()
+        return [
+            (s.encode('utf-8'), htmltext('&#x%04x;') % ord(s),
+             unicodedata.name(s, 'Unknown Character').title())
+            for s in symbols
+            ]
+
+    def _search_reset [html] (self):
+        targetid = quixote.get_session().get_user().target
+        if targetid is not None:
+            """
+            <tr><td valign="center" align="right">
+            <form method="GET" action="browse">
+            <input type="hidden" name="clear" value="1" />
+            <input type="hidden" name="target" value="%s" />
+            Reset the data view, but keep the current target ("%s"):&nbsp;
+            <input type="submit" value="Reset" />
+            </form>
+            </td></tr>
+            """ % (targetid, self._get_target_name(targetid))
+
+    def _search_select [html] (self):
+        """
+        <tr><td valign="center" align="right">
+        <p>Linguistic data for this data set:&nbsp;
+        <form method="PUT" action="browse">
+        <select name="target">
+        <option value="">None</option>
+        """
+        for target in self._get_targets():
+            '<option value="%d">%s</option>\n' % target
+        """
+        </select>
+        <input type="submit" /></form></p>
+        </td></tr>
+        """
+
+    def _search_options [html] (self):
+        user = quixote.get_session().get_user()
+        """
+        <tr><td>
+        <form method="GET" action="browse">
+        <table width="100%">
+        <tr><td valign="top" align="right">Null Responses:</td>
+        <td valign="top">
+        """
+        '<input type="radio" name="nrhidden" value="1"'
+        if user.nrhidden:
+            ' checked="checked"'
+        '>&nbsp;Hide<br />\n'
+        '<input type="radio" name="nrhidden" value="0"'
+        if not user.nrhidden:
+            ' checked="checked"'
+        '>&nbsp;Show\n</td></tr>\n'
+        '<tr><td valign="top" align="right">Use Simplified Phonetics:</td>\n'
+        '<td valign="top">\n'
+        '<input type="radio" name="fullphone" value="0"'
+        if not user.fullphone:
+            ' checked="checked"'
+        '>&nbsp;Simplified<br />\n'
+        '<input type="radio" name="fullphone" value="1"'
+        if user.fullphone:
+            ' checked="checked"'
+        '>&nbsp;Full\n</td></tr>\n\n'
+        """
+        <tr><td colspan="2" align="right">
+        <input type="submit" />&nbsp;<input type="reset" />
+        </td></tr>
+        </table>
+        </form>
+        </td></tr>
+        """
+
+    def _search_search [html] (self):
+        """
+        <tr><td valign="center" align="left">
+        <font size="-1"><b><i>Query Options</i></b></font>
+        </td></tr>
+        """
+        self._search_select()
+        self._search_options()
+
+    def _search_expr [html] (self):
+        user = quixote.get_session().get_user()
+        fields = [ '.'.join(f) for f in user.fields ]
+        for n in range(4):
+            '<tr>\n'
+            '<td><select name="left%d">\n' % n
+            '<option selected="1" value="">&lt;None&gt;</option>\n'
+            for field in fields:
+                '<option value="%s">%s</option>\n' % (field, field)
+            """
+            </select>
+            </td>
+            <td><select name="op%s">
+            <option selected="1" value="EQ">=</option>
+            <option value="NE">&lt;&gt;</option>
+            <option value="LT">&lt;</option>
+            <option value="GT">&gt;</option>
+            <option value="LE">&lt;=</option>
+            <option value="GE">&gt;=</option>
+            <option value="IN">contains</option>
+            </select>
+            </td>
+            <td><input name="right%d"></td>
+            </tr>
+            """ % (n, n)
+            if n < 3:
+                """
+                <tr><td colspan="3" align="center">
+                <select name="join%d">
+                <option selected="1" value="AND">AND</option>
+                <option value="OR">OR</option>
+                </select>
+                </td></tr>
+                """ % n
+
+    def _search_phonetic [html] (self):
+        user = quixote.get_session().get_user()
+        if user.target is None:
+            return
+        if user.fullphone: field = 'Responses.phonetic'
+        else: field = 'Responses.simplephone'
+        """
+        <tr><td valign="center" align="left">
+        <font size="-1"><b><i>Phonetic Search</i></b></font>
+        </td></tr>
+        <tr><td valign="top" align="right">
+        <form method="GET" action="browse">
+        <table border="0">
+        <tr><td valign="top" align="right">
+        Select a phonetic symbol to search for:
+        </td><td valign="top" align="right">
+        <input type="hidden" name="left" value="%s">
+        <input type="hidden" name="op" value="IN">
+        <select name="right" class="phonetic">
+        """ % field
+        for symbol in self._get_symbols(user, field):
+            '<option value="%s">%s (%s)</option>\n' % symbol
+        """
+        </select>
+        </td></tr>
+        <tr><td colspan="2" align="right">
+        <input type="submit" />&nbsp;<input type="reset" />
+        </td></tr>
+        </table>
+        </form>
+        </td></tr>
+        """
+
+    def _content [html] (self):
+        self._search_header()
+        self._search_reset()
+        self._search_search()
+        """
+        <tr><td valign="center" align="left">
+        <font size="-1"><b><i>Advanced Search</i></b></font>
+        </td></tr>
+        <tr><td valign="top" align="right">
+        <form method="GET" action="browse">
+        <table border="0">
+        <tr><td><b><font size="-1">Field</font></b></td>
+        <td><b><font size="-1">Operator</font></b></td>
+        <td><b><font size="-1">Value</font></b></td></tr>
+        """
+        self._search_expr()
+        """
+        <tr><td colspan="3" align="right">
+        <input type="submit" />&nbsp;<input type="reset" />
+        </td></tr>
+        </table>
+        </form>
+        </td></tr>
+        """
+        self._search_phonetic()
+        '</table>\n'
+
+
+class ViewPage(DataViewMixin, LapPage):
+
+    def _title(self):
+        return 'View'
+
+    def _helppage(self):
+        return 'view'
+
+    def _view_header [html] (self):
+        """
+        <table align="center" width="80%" bgcolor="#EEEEEF" cellpadding="10">
+        <tr><td valign="center" align="left">
+        <font size="-1"><b><i><a href="browse.html">Back</a> to Browse</i></b>
+        (without changes)</font>
+        </td></tr>
+        """
+
+    def _view_footer [html] (self):
+        """
+        <tr><td colspan="2" valign="center" align="right">
+        <input type="submit">&nbsp;<input type="reset">
+        </td></tr>
+        </table>
+        </form>
+        </td></tr>
+        </table>
+        """
+
+    def _view_view [html] (self, user):
+        """
+        <tr><td valign="center" align="left">
+        <form method="GET" action="browse">
+        <table width="100%" cellpadding="3">
+        <tr><td valign="center" align="right">Views</td>
+        <td valign="center">
+        <select name="view">
+        """
+        view = user.view or 'minimal'
+        for v in views.NAMES:
+            value = v.lower()
+            '<option value="'; value; '"'
+            if view == value:
+                ' selected="selected"'
+            '>'; v; ' fields</option>\n'
+        """
+        </select>
+        </td></tr>
+        """
+
+    def _view_pagelen [html] (self, user):
+        """
+        <tr><td valign="center" align="right">Number of rows per page</td>
+        <td valign="center">
+        <select name="pagelen">
+        """
+        pagelen = user.pagelen or 25
+        for pl in range(25, 275, 25):
+            '<option value="'; pl; '"'
+            if pl == pagelen:
+                ' selected="selected"'
+            '>'; pl; ' rows</option>\n'
+        """
+        </select>
+        </td></tr>
+        """
+
+    def _view_map [html] (self, user):
+        map = user.map
+        """
+        <tr><td valign="top" align="right">Show Map</td>
+        <td valign="top">
+        """
+        for (l, v) in [('On', 1), ('Off', 0)]:
+            '<input type="radio" name="map" value="'; v; '"'
+            if v == map:
+                ' checked="checked"'
+            ' />&nbsp;'; l; '<br />\n'
+        '</td></tr>\n'
+
+    def _content [html] (self):
+        response = quixote.get_response()
+        response.set_expires()
+        user = quixote.get_session().get_user()
+        self._view_header()
+        self._view_view(user)
+        self._view_pagelen(user)
+        self._view_map(user)
+        self._view_footer()
+
+
+
+class NotesPage(DataViewMixin, LapPage):
+
+    _fields = 'target type page subpage item subitem'.split()
+
+    def _title(self):
+        return 'Notes'
+
+    def _get_info(self, cxn, user):
+        c = cxn.cursor()
+        try:
+            c.execute('''
+                    SELECT target, type, page, subpage, item, subitem, notes
+                    FROM Targets
+                    WHERE targetid=%s
+                ''',
+                (user.target,),
+                )
+            data = c.fetchone()
+        finally:
+            c.close()
+        return data
+
+    def _notes_info [html] (self, info):
+        for key in self._fields:
+            '<tr><td valign="top" align="right"><b>'
+            FieldDescriptions['Targets.' + key]
+            '</b></td>\n'
+            '<td valign="top">'
+            value = info[key]
+            constants.Targets.type.get(value, value)
+            '</td></tr>\n'
+
+    def _notes_notes [html] (self, notes):
+        '''
+        <table border="0">
+        <tr><td valign="top" align="right"><b>Notes: </b></td>
+        '''
+        if not notes:
+            '''
+            <td valign="top">
+            <i>There are no notes for this item. </i>
+            </td></tr>
+            </table>
+            '''
+        else:
+            '''
+            <td>&nbsp;</td></tr>
+            </table>
+            <pre>
+            '''
+            notes
+            '</pre>'
+        '''
+        <hr />
+        <p><a href="browse">Back</a> to browse.</p>
+        '''
+
+    def _content [html] (self):
+        response = quixote.get_response()
+        response.set_expires()
+        user = quixote.get_session().get_user()
+        cxn = quixote.get_request().cxn
+        data = self._get_info(cxn, user)
+        '<table border="0">\n'
+        self._notes_info(data)
+        '</table>\n'
+        self._notes_notes(data.get('notes'))
+
+
+class CsvPage(DataViewMixin):
+
+    def _get_data(self, user):
+        cxn = quixote.get_request().cxn
+        sql = (
+            'SELECT ' + COMMA.join([ DOT.join(f) for f in user.fields ]) +
+            ' FROM Projects, ' + COMMA.join(user.tables) +
+            ' WHERE Projects.projid=Informants.projid AND ' +
+            ' Projects.name=%s AND ' + str(user.where) +
+            ' ORDER BY ' + user.sort +
+            ' LIMIT ' + str(user.pagelen) +
+            ' OFFSET ' + str((user.page-1)*user.pagelen)
+            )
+        c = cxn.cursor()
+        try:
+            c.execute(sql, (self._project(),)+user.where.params())
+            data = c.fetchall()
+        finally:
+            c.close()
+        return data
+
+    def __str__(self):
+        response = quixote.get_response()
+        response.set_content_type('text/csv')
+        response.set_expires()
+        user = quixote.get_session().get_user()
+        fields = [ f for (_, f) in user.fields ]
+        sio = StringIO()
+        writer = csv.writer(sio)
+        writer.writerow(fields)
+        writer = csv.DictWriter(sio, fields)
+        writer.writerows(self._get_data(user))
+        return sio.getvalue()
+
+
+class MapPage(DataViewMixin):
+    delta = 3
+    leading = 2
+
+    def _get_informants(self, user, c):
+        c.execute("""
+                SELECT DISTINCT Informants.infid
+                FROM Projects, %s
+                WHERE Projects.projid=Informants.projid AND Projects.name=%%s
+                    AND %s
+            """ % (COMMA.join(user.tables), str(user.where)),
+            (self._project(),)+user.where.params(),
+            )
+        return c.fetchall()
+
+    def _get_data(self, user, c):
+        sql = (
+            'SELECT DISTINCT Communities.comid, Communities.x, Communities.y ' +
+            ' FROM Projects, ' + COMMA.join(user.tables) +
+            ' WHERE Projects.projid=Communities.projid AND ' +
+            ' Projects.name=%s AND ' + str(user.where)
+            )
+        c.execute(sql, (self._project(),)+user.where.params())
+        data = c.fetchall()
+        return data
+
+    def _get_coms(self, user, c):
+        c.execute("""
+                SELECT comid, x, y
+                FROM Communities, Projects
+                WHERE Communities.projid=Projects.projid AND Projects.name=%s
+            """,
+            (self._project(),),
+            )
+        return c.fetchall()
+
+    def _map(self, infs, data, coms):
+        d = self.delta
+        projinfo = settings.meta.projects[self._project()]
+        font = gd.gdFontLarge
+        img = gd.image(projinfo.baseimage)
+        red = img.colorAllocate( (255, 0, 0) )
+        black = img.colorAllocate( (0, 0, 0) )
+        for row in data:
+            img.filledRectangle(
+                (row['x']-d, row['y']-d),
+                (row['x']+d, row['y']+d),
+                red,
+                )
+        for row in coms:
+            img.rectangle(
+                (row['x']-d, row['y']-d),
+                (row['x']+d, row['y']+d),
+                black,
+                )
+        img.string(font, projinfo.respinf, '%d)' % len(infs), black)
+        img.string(font, projinfo.respcom, '%d)' % len(data), black)
+        img.string(font, projinfo.noreinf,
+                   '%d)' % (projinfo.infcount - len(infs)), black)
+        img.string(font, projinfo.norecom,
+                   '%d)' % (projinfo.comscount - len(data)), black)
+        tmp = os.tmpfile()
+        img.writePng(tmp)
+        tmp.seek(0)
+        return tmp.read()
+
+    def __str__(self):
+        response = quixote.get_response()
+        response.set_content_type('image/png')
+        response.set_expires()
+        user = quixote.get_session().get_user()
+        c = quixote.get_request().cxn.cursor()
+        try:
+            infs = self._get_informants(user, c)
+            data = self._get_data(user, c)
+            coms = self._get_coms(user, c)
+        finally:
+            c.close()
+        return self._map(infs, data, coms)
+
+
+class CommunityPage(DataViewMixin, LapPage):
+    _fields = 'code name state type'.split()
+
+    def _get_com(self, cxn, comid):
+        c = cxn.cursor()
+        try:
+            c.execute('SELECT name, state, type, code FROM Communities '
+                      'WHERE comid=%s', (comid,))
+            com = c.fetchone()
+        finally:
+            c.close()
+        return com
+
+    def _get_descr(self, field, value):
+        return getattr(constants.Communities, field, {}).get(value, value)
+
+    def _get_members(self, cxn, comid):
+        c = cxn.cursor()
+        try:
+            c.execute('SELECT infid, informid FROM Informants '
+                      'WHERE comid=%s ORDER BY informid', (comid,))
+            members = c.fetchall()
+        finally:
+            c.close()
+        return members
+
+    def _default [html] (self):
+        '<p>Please specify a valid community to view. </p>\n'
+
+    def _community [html] (self, cxn, comid, com):
+        """
+        <p><b>Community %(name)s, %(state)s (%(code)s)</b></p>
+
+        <script language="JavaScript"><!--
+          function field(f) {
+            window_handle = window.open(
+              '%(to_root)s/information/fields/Communities.' + f +
+                    '/%(project)s',
+              'field'
+              );
+            window_handle.focus();
+            return false;
+          }
+        //--></script>
+        <table border="0" width="80%%">
+        """ % com
+        for field in self._fields:
+            com.update({
+                'field': field,
+                'field_title': field.title(),
+                'descr': self._get_descr(field, com[field]),
+                'value': com[field],
+                })
+            """
+            <tr>
+            <th>
+            <a href="%(to_root)s/information/fields/Communities.%(field)s/%(project)s"
+                onClick="return field('%(field)s');">%(field_title)s</a></th>
+            <td>
+            <a href="browse/left=Communities.%(field)s&op=EQ&right=%(value)s"
+                onClick="return browse('Communities.%(field)s', '%(value)s');>
+                %(descr)s</a></td>
+            </tr>
+            """ % com
+        """
+        </table>
+        <p><b>Members</b></p>
+        <ul>
+        """
+        for m in self._get_members(cxn, comid):
+            '''
+            <li><a href="browse/left=Informants.infid&op=EQ&right=%(infid)s"
+                   onClick="return browse('Informants.infid', '%(infid)s');">
+            %(informid)s</a></li>
+            ''' % m
+        '''
+        </ul>
+
+        <p>Clicking on one of the community information labels or one of the
+        community members will filter the main window, just as if you'd clicked
+        on that value in the main window.</p>
+        '''
+
+    def _content(self):
+        comid = quixote.get_request().get_field('comid', None)
+        if comid is None:
+            return self._default()
+        else:
+            user = quixote.get_session().get_user()
+            cxn = quixote.get_request().cxn
+            com = self._get_com(cxn, comid)
+            if com is None:
+                return self._default()
+            else:
+                com.update({
+                    'project': self._project(), 'to_root': self.path_to_root(),
+                    })
+                return self._community(cxn, comid, com)
+
+
+# vim: set filetype=python:

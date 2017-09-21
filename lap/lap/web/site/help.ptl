@@ -1,0 +1,98 @@
+
+
+import os
+
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, HelpDirectory, LapPage
+
+
+PWD = os.path.dirname(__file__)
+HELP_HEADER = os.path.join(TMPL_DIR, 'help-header.tmpl')
+HELP_FOOTER = os.path.join(TMPL_DIR, 'help-footer.tmpl')
+
+
+class index(HelpDirectory):
+    _q_exports = [
+        '',
+        'browse',
+        ('helpdark.png', 'helpdark_png'),
+        ('helplight.png', 'helplight_png'),
+        'main',
+        'search',
+        'view',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'help-index.tmpl')
+
+    def __init__(self):
+        HelpDirectory.__init__(self)
+        self.helpdark_png = StaticFile(os.path.join(PWD, 'helpdark.png'))
+        self.helplight_png = StaticFile(os.path.join(PWD, 'helplight.png'))
+
+    def _title(self):
+        return 'Help'
+
+    def path_to_root(self):
+        return '..'
+
+    def _get_browse(self):
+        try:
+            b = self.__browse
+        except AttributeError:
+            b = self.__browse = browse()
+        return str(b)
+    browse = property(_get_browse)
+
+    def _get_main(self):
+        return str(self)
+    main = property(_get_main)
+
+    def _get_search(self):
+        try:
+            s = self.__search
+        except AttributeError:
+            s = self.__search = search()
+        return str(s)
+    search = property(_get_search)
+
+    def _get_view(self):
+        try:
+            v = self.__view
+        except AttributeError:
+            v = self.__view = view()
+        return str(v)
+    view = property(_get_view)
+
+
+class browse(LapPage):
+    HEADER = HELP_HEADER
+    FOOTER = HELP_FOOTER
+
+    _template_ = os.path.join(TMPL_DIR, 'help-browse.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+
+class search(LapPage):
+    HEADER = HELP_HEADER
+    FOOTER = HELP_FOOTER
+
+    _template_ = os.path.join(TMPL_DIR, 'help-search.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+
+class view(LapPage):
+    HEADER = HELP_HEADER
+    FOOTER = HELP_FOOTER
+
+    _template_ = os.path.join(TMPL_DIR, 'help-view.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+
+# vim: set filetype=python:

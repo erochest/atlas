@@ -1,0 +1,212 @@
+
+
+import glob
+import os
+import re
+
+from quixote.errors import TraversalError
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory, LapPage
+
+
+PWD = os.path.dirname(__file__)
+LAPNW = os.path.join(PWD, 'lapnw')
+
+VALID_ITEM = re.compile(r'^\d+\.\d+$')
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        'data',
+        'db',
+        'info',
+        'maps',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lapnw-index.tmpl')
+
+    def _title(self):
+        return 'LAPNW'
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '..'
+
+    def _get_data(self):
+        try:
+            d = self.__data
+        except AttributeError:
+            d = self.__data = data()
+        return d
+    data = property(_get_data)
+
+    def _get_info(self):
+        try:
+            i = self.__info
+        except AttributeError:
+            i = self.__info = info()
+        return str(i)
+    info = property(_get_info)
+
+    def _get_db(self):
+        try:
+            d = self.__db
+        except AttributeError:
+            d = self.__db = db()
+        return d
+    db = property(_get_db)
+
+    def _get_maps(self):
+        try:
+            m = self.__maps
+        except AttributeError:
+            m = self.__maps = maps()
+        return m
+    maps = property(_get_maps)
+
+
+class info(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'lapnw-info.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return 'About LAPNW'
+
+    def _project(self):
+        return 'lapnw'
+
+
+class data(SiteDirectory):
+    _q_exports = [
+        '',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lapnw-data.tmpl')
+
+    def _title(self):
+        return 'LAPNW Data'
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '../..'
+
+    def _q_lookup(self, component):
+        if VALID_ITEM.match(component):
+            return data_page(component)
+        else:
+            raise TraversalError('Invalid data item: ' + component)
+
+
+class data_page(LapPage):
+    DATADIR = os.path.join(LAPNW, 'data')
+
+    def __init__(self, item):
+        LapPage.__init__(self)
+        self.__item = item
+        self._template_ = os.path.join(self.DATADIR, item + '.tmpl')
+
+    def _title(self):
+        return 'LAPNW Data ' + self.__item
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '../..'
+
+
+class db(SiteDirectory):
+    _q_exports = [
+        '',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lapnw-db.tmpl')
+
+    def _title(self):
+        return 'LAPNW Database'
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '../..'
+
+    def _q_lookup(self, component):
+        template = os.path.join(LAPNW, 'db', component+'.tmpl')
+        if not os.path.exists(template):
+            raise TraversalError('Invalid database: ' + component)
+        else:
+            return db_page(template)
+
+
+class db_page(LapPage):
+
+    def __init__(self, template):
+        LapPage.__init__(self)
+        self._template_ = template
+
+    def _title(self):
+        return 'LAPNW Database'
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '../..'
+
+
+class maps(SiteDirectory):
+    _q_exports = [
+        '',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lapnw-maps.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        for png in glob.glob(os.path.join(LAPNW, 'maps', '*.png')):
+            name = png.replace('.', '_')
+            self._q_exports.append( (os.path.basename(png), name) )
+            setattr(self, name, StaticFile(png))
+
+    def _title(self):
+        return 'LAPNW Maps'
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '../..'
+
+    def _q_lookup(self, component):
+        if VALID_ITEM.match(component):
+            return map_page(component)
+        else:
+            raise TraversalError('Invalid map: ' + component)
+
+
+class map_page(LapPage):
+
+    def __init__(self, map):
+        LapPage.__init__(self)
+        self._template_ = os.path.join(LAPNW, 'maps', map+'.tmpl')
+
+    def _title(self):
+        return 'LAPNW Maps'
+
+    def _project(self):
+        return 'lapnw'
+
+    def path_to_root(self):
+        return '../..'
+
+
+# vim: set filetype=python:

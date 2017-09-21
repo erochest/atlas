@@ -1,0 +1,45 @@
+
+
+import os
+
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory
+
+
+PWD = os.path.dirname(__file__)
+LAGS = os.path.join(PWD, 'lags')
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        ('abc.zip', 'abc_zip'),
+        ('codelist.zip', 'codelist_zip'),
+        ('grammar.zip', 'grammar_zip'),
+        ('lexicon.zip', 'lexicon_zip'),
+        ('programs.zip', 'programs_zip'),
+        ('protocol.txt', 'protocol_txt'),
+        ('readme.lag', 'readme_lag'),
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lags-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.abc_zip = StaticFile(os.path.join(LAGS, 'abc.zip'))
+        self.codelist_zip = StaticFile(os.path.join(LAGS, 'codelist.zip'))
+        self.grammar_zip = StaticFile(os.path.join(LAGS, 'grammar.zip'))
+        self.lexicon_zip = StaticFile(os.path.join(LAGS, 'lexicon.zip'))
+        self.programs_zip = StaticFile(os.path.join(LAGS, 'programs.zip'))
+        self.protocol_txt = StaticFile(os.path.join(LAGS, 'protocol.txt'))
+        self.readme_lag = StaticFile(os.path.join(LAGS, 'readme.lag'))
+
+    def _title(self):
+        return 'LAGS'
+
+    def path_to_root(self):
+        return '..'
+
+
+# vim: set filetype=python:

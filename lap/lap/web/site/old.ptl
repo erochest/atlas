@@ -1,0 +1,18 @@
+
+
+import os
+
+from lap.web.ui import OldSiteDirectory
+
+
+PWD = os.path.dirname(__file__)
+OLD = os.path.join(PWD, 'old')
+
+
+class index(OldSiteDirectory):
+
+    def __init__(self):
+        OldSiteDirectory.__init__(self, OLD)
+
+
+# vim: set filetype=python:

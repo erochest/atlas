@@ -1,0 +1,33 @@
+
+
+import os
+
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory
+
+
+PWD = os.path.dirname(__file__)
+LANCS = os.path.join(PWD, 'lancs')
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        ('inf.asc', 'inf_asc'),
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'lancs-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.inf_asc = StaticFile(os.path.join(LANCS, 'inf.asc'))
+
+    def _title(self):
+        return 'LANCS'
+
+    def path_to_root(self):
+        return '..'
+
+
+# vim: set filetype=python:

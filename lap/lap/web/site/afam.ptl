@@ -1,0 +1,192 @@
+
+
+import glob
+import os
+import re
+
+from quixote.errors import TraversalError
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory, LapPage
+from lap.web import dataview
+
+
+PWD = os.path.dirname(__file__)
+AFAM = os.path.join(PWD, 'afam')
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        'browse',
+        ('browse.csv', 'browse_csv'),
+        'community',
+        'ga',
+        'gullah',
+        'info',
+        ('map.png', 'map_png'),
+        'md',
+        'nc',
+        'notes',
+        'sc',
+        'search',
+        'va',
+        'view',
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'afam-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        for fn in (glob.glob(os.path.join(AFAM, '*.png')) +
+                   glob.glob(os.path.join(AFAM, '*.gif'))):
+            basename = os.path.basename(fn)
+            attrname = basename.replace('.', '_')
+            self._q_exports.append((basename, attrname))
+            setattr(self, attrname, StaticFile(fn))
+
+    def _title(self):
+        return 'AFAM'
+
+    def _project(self):
+        return 'afam'
+
+    def path_to_root(self):
+        return '..'
+
+    def _get_browse(self):
+        try:
+            b = self.__browse
+        except AttributeError:
+            b = self.__browse = dataview.BrowsePage(self._project())
+        return str(b)
+    browse = property(_get_browse)
+
+    def _get_browse_csv(self):
+        try:
+            b = self.__browse_csv
+        except AttributeError:
+            b = self.__browse_csv = dataview.CsvPage(self._project())
+        return str(b)
+    browse_csv = property(_get_browse_csv)
+
+    def _get_ga(self):
+        try:
+            g = self.__ga
+        except AttributeError:
+            g = self.__ga = state_page('ga')
+        return str(g)
+    ga = property(_get_ga)
+
+    def _get_gullah(self):
+        try:
+            m = self.__gullah
+        except AttributeError:
+            m = self.__gullah = state_page('gullah')
+        return str(m)
+    gullah = property(_get_gullah)
+
+    def _get_info(self):
+        try:
+            i = self.__info
+        except AttributeError:
+            i = self.__info = info()
+        return i
+    info = property(_get_info)
+
+    def _get_map_png(self):
+        try:
+            m = self.__map_png
+        except AttributeError:
+            m = self.__map_png = dataview.MapPage(self._project())
+        return str(m)
+    map_png = property(_get_map_png)
+
+    def _get_md(self):
+        try:
+            m = self.__md
+        except AttributeError:
+            m = self.__md = state_page('md')
+        return str(m)
+    md = property(_get_md)
+
+    def _get_nc(self):
+        try:
+            m = self.__nc
+        except AttributeError:
+            m = self.__nc = state_page('nc')
+        return str(m)
+    nc = property(_get_nc)
+
+    def _get_notes(self):
+        try:
+            n = self.__notes
+        except AttributeError:
+            n = self.__notes = dataview.NotesPage(self._project())
+        return str(n)
+    notes = property(_get_notes)
+
+    def _get_sc(self):
+        try:
+            m = self.__sc
+        except AttributeError:
+            m = self.__sc = state_page('sc')
+        return str(m)
+    sc = property(_get_sc)
+
+    def _get_search(self):
+        try:
+            s = self.__search
+        except AttributeError:
+            s = self.__search = dataview.SearchPage(self._project())
+        return str(s)
+    search = property(_get_search)
+
+    def _get_va(self):
+        try:
+            m = self.__va
+        except AttributeError:
+            m = self.__va = state_page('va')
+        return str(m)
+    va = property(_get_va)
+
+    def _get_view(self):
+        try:
+            v = self.__view
+        except AttributeError:
+            v = self.__view = dataview.ViewPage(self._project())
+        return str(v)
+    view = property(_get_view)
+
+
+class info(LapPage):
+    _template_ = os.path.join(TMPL_DIR, 'afam-info.tmpl')
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return 'About AFAM'
+
+    def _project(self):
+        return 'afam'
+
+
+class state_page(LapPage):
+
+    def __init__(self, state):
+        LapPage.__init__(self)
+        self.state = state
+        self._template_ = os.path.join(TMPL_DIR, 'afam-%s.tmpl' % state)
+
+    def path_to_root(self):
+        return '..'
+
+    def _title(self):
+        return self.state.upper()
+
+    def _project(self):
+        return 'afam'
+
+
+# vim: set filetype=python:

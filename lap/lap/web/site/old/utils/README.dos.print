@@ -1,0 +1,43 @@
+The file hpfon.zip is compressed in DOS-compliant format.  It contains
+all the necessary files for printing out contents of linguistic
+databases created by the Linguistic Atlas of Middle and South Atlantic
+States Office (LAMSAS).
+
+After downloading the file, place it in the subdirectory of your choice
+and uncompress it using the following command:
+
+e.g.
+
+C:\SOMEDIR>pkunzip hpfon.zip
+
+	A. In order to do that, you MUST have pkunzip.exe on your PC
+	B. Its location MUST be in the PATH (see AUTOEXEC.BAT file)
+
+RE A:
+	If you do not have pkunzip, grab it off the Internet.  Use Archie
+	or any web-based search engine (Alta Vista, Yahoo, Lycos) to find
+	the server nearest to your site which has PK204G.EXE (It's a
+	self-extracting package).
+
+RE B:	You have pkunzip, but it's not in the PATH statement.  Find the
+	subdirectory where pkunzip.exe is located and amend the command
+	line accordingly, i.e.:
+
+	C:\SOMEDIR>\ZIP\pkunzip hpfon.zip
+
+	[If the pkunzip.exe is in the subdir C:\ZIP]
+
+After successful unpacking, you should have the following files:
+
+readme.phn	3210
+trms.bat	284
+trms.cap	444077
+trms.prt	10995
+trmsland.bat	296
+trmsland.cap	491288
+
+Please read the readme.phn file for instructions on how to use these files.
+
+
+
+.

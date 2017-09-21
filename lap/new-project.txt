@@ -1,0 +1,25 @@
+
+1. Load database:
+   scripts\csv2db.py ..\data\lamsas
+
+2. Copy the dynamic template files from the htdocs\afam directory to the htdocs\lamsas directory:
+   - browse.csv
+   - browse.html
+   - community.html
+   - map.png
+   - notes.html
+   - search.html
+   - view.html
+
+3. Copy the corresponding code files from the htdocs\wt\afam directory to the htdocs\wt\afam directory:
+   - browse.csv.py
+   - browse.html.py
+   - community.html.py
+   - map.png.py
+   - notes.html.py
+   - search.html.py
+   - view.html.py
+
+4. Edit the new files copied in step three to change the project and, where appropriate, the title.
+
+5. Ta-da! Your new project should be on-line.

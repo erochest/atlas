@@ -1,0 +1,2 @@
+set ATLASSITE_TARGET=DEVEL_TEST
+set PYTHONPATH=E:/atlas/lap

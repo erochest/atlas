@@ -1,0 +1,60 @@
+
+
+import os
+
+from quixote.util import StaticFile
+
+from lap.web.ui import TMPL_DIR, SiteDirectory
+
+
+PWD = os.path.dirname(__file__)
+
+
+class index(SiteDirectory):
+    _q_exports = [
+        '',
+        'fonts',
+        ('lamcour.ttf', 'lamcour_ttf'),
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'utils-index.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.lamcour_ttf = StaticFile(os.path.join(PWD, 'lamcour.ttf'))
+
+    def _title(self):
+        return 'Utilities'
+
+    def path_to_root(self):
+        return '..'
+
+    def _get_fonts(self):
+        try:
+            f = self.__fonts
+        except AttributeError:
+            f = self.__fonts = fonts()
+        return f
+    fonts = property(_get_fonts)
+
+
+class fonts(SiteDirectory):
+    _q_exports = [
+        '',
+        ('lamcour.ttf', 'lamcour_ttf'),
+        ]
+
+    _template_ = os.path.join(TMPL_DIR, 'utils-fonts.tmpl')
+
+    def __init__(self):
+        SiteDirectory.__init__(self)
+        self.lamcour_ttf = StaticFile(os.path.join(PWD, 'lamcour.ttf'))
+
+    def _title(self):
+        return 'Fonts'
+
+    def path_to_root(self):
+        return '../..'
+
+
+# vim: set filetype=python:

@@ -1,0 +1,50 @@
+The file vl.zip is compressed in DOS-compliant format.  It contains
+all the necessary files for displaying contents of linguistic
+databases created by the Linguistic Atlas of Middle and South Atlantic
+States Office (LAMSAS).
+
+After downloading the file, place it in the subdirectory of your choice
+and uncompress it using the following command:
+
+e.g.
+
+C:\SOMEDIR>pkunzip vl.zip
+
+	A. In order to do that, you MUST have pkunzip.exe on your PC
+	B. Its location MUST be in the PATH (see AUTOEXEC.BAT file)
+
+RE A:
+	If you do not have pkunzip, grab it off the Internet.  Use Archie
+	or any web-based search engine (Alta Vista, Yahoo, Lycos) to find
+	the server nearest to your site which has PK204G.EXE (It's a
+	self-extracting package).
+
+RE B:	You have pkunzip, but it's not in the PATH statement.  Find the
+	subdirectory where pkunzip.exe is located and amend the command
+	line accordingly, i.e.:
+
+	C:\SOMEDIR>\ZIP\pkunzip vl.zip
+
+	[If the pkunzip.exe is in the subdir C:\ZIP]
+
+After successful unpacking, you should have the following files:
+
+ansi.fnt  	4096
+fontedit.asc  	29703
+fontedit.doc  	30325
+jengl.fnt  	4096
+jengl.pal  	189
+newstand.fnt  	4096
+readme.vl  	2571
+roman.pal  	247
+silly.fnt  	4096
+standard.fnt  	3584
+ve.exe  	35992
+ve286.exe  	35312
+vl.exe  	37396
+
+Please read the readme.vl file for instructions on how to use these files.
+
+
+
+.
